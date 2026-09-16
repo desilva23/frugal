@@ -49,3 +49,23 @@ class BudgetExceeded(FrugalError):
 
 class TransportError(FrugalError):
     """The SerpApi request failed after exhausting retries."""
+
+
+class MissingAPIKey(FrugalError):
+    """No SerpApi credential could be resolved.
+
+    The message is deliberately a set of instructions rather than a statement of
+    fact: this is the first error most people meet, and it should tell them what
+    to do rather than what went wrong.
+    """
+
+    def __init__(self, searched: list[str] | None = None) -> None:
+        self.searched = searched or []
+        locations = "\n".join(f"  - {s}" for s in self.searched)
+        super().__init__(
+            "No SerpApi key found.\n\n"
+            "Create a .env file in the project root containing:\n\n"
+            "    SERPAPI_API_KEY=your-key-here\n\n"
+            "Get a free key (250 searches/month) at https://serpapi.com/manage-api-key\n"
+            + (f"\nLooked in:\n{locations}" if self.searched else "")
+        )

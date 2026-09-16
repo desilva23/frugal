@@ -94,11 +94,24 @@ source .venv/bin/activate
 pip install -e ".[dev]"
 ```
 
-Set your SerpApi key (a free key from [serpapi.com](https://serpapi.com/) gives
-250 searches per month, which is enough to try it):
+Then add your SerpApi key. A free key gives 250 searches per month, which is
+enough to try it:
 
 ```bash
-export SERPAPI_API_KEY="your-key-here"
+cp .env.example .env
+```
+
+Open `.env` and replace the placeholder with your key from
+[serpapi.com/manage-api-key](https://serpapi.com/manage-api-key):
+
+```
+SERPAPI_API_KEY=your-actual-key
+```
+
+`.env` is gitignored, so the key is never committed. Confirm the setup:
+
+```bash
+frugal doctor
 ```
 
 ## Reproducing the benchmark
