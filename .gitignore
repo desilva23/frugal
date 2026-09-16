@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Environment
+.env
+.env.*
+
+# Frugal: live cache is local-only. Benchmark fixtures are committed
+# deliberately (see benchmarks/fixtures) so results reproduce without a key.
+.frugal-cache/
+
+# OS
+.DS_Store

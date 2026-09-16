@@ -1,0 +1,46 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "frugal"
+version = "0.1.0"
+description = "A cost-aware search planner for SerpApi: compile a question into an optimal search plan under an explicit budget."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Desilva S", email = "desilvas2002@gmail.com" }]
+requires-python = ">=3.11"
+keywords = ["serpapi", "search", "agents", "retrieval", "query-planning"]
+dependencies = [
+    "httpx>=0.27",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "ruff>=0.6",
+    "mypy>=1.11",
+]
+
+[project.scripts]
+frugal = "frugal.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/frugal"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+files = ["src/frugal"]
