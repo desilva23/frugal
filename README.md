@@ -236,6 +236,63 @@ are stripped rather than shown as references a reader cannot follow. And an
 answer that cites nothing is labelled as ungrounded, because an uncited answer
 is either a refusal — which is fine — or the model's own memory, which is not.
 
+## Using it from an agent (MCP)
+
+Most search tools an agent can reach hand back ten links and say nothing about
+what that cost. The agent cannot tell whether a question was cheap, cannot cap
+what it is willing to spend, and cannot find out beforehand. It just searches,
+and someone gets the bill.
+
+Frugal exposes an MCP server with the two tools that change that:
+
+| tool | what it does |
+|---|---|
+| `frugal_plan` | which engines a question would reach, and the most it could cost — **issuing nothing** |
+| `frugal_search` | runs the plan under a budget the caller sets, and reports what it spent alongside what it found |
+
+```bash
+pip install 'frugal[mcp]'
+```
+
+Then point any MCP client at it — Claude Desktop, Cursor, or your own agent:
+
+```json
+{
+  "mcpServers": {
+    "frugal": {
+      "command": "frugal-mcp",
+      "env": {
+        "SERPAPI_API_KEY": "your-key-here"
+      }
+    }
+  }
+}
+```
+
+A search comes back with its cost attached:
+
+```json
+{
+  "evidence": [ ... ],
+  "cost": {
+    "searches_billed": 2,
+    "served_from_cache": 0,
+    "steps_planned": 2,
+    "steps_skipped_by_early_stop": 0
+  },
+  "engines_used": ["google", "google_trends"],
+  "stopped_because": "completed the plan"
+}
+```
+
+Every evidence item carries the engine and query that produced it, so an agent
+can cite a claim rather than assert it. Budgets are capped server-side at 25
+searches per call whatever the caller asks for: an agent looping on a tool is
+the usual way a search bill becomes a surprise.
+
+Set `FRUGAL_REPLAY=1` and `FRUGAL_CACHE_DIR=benchmarks/fixtures` to run the
+server entirely from committed fixtures, with no key and no spend.
+
 ## Install
 
 Requires Python 3.11 or newer.

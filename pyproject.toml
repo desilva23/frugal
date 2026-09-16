@@ -17,7 +17,13 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
+# The MCP SDK is an integration, not a core component: someone using the library
+# should not have to install a protocol they are not speaking.
+mcp = [
+    "mcp>=2.0",
+]
 dev = [
+    "mcp>=2.0",
     "pytest>=8.0",
     "pytest-cov>=5.0",
     "ruff>=0.6",
@@ -26,6 +32,7 @@ dev = [
 
 [project.scripts]
 frugal = "frugal.cli:main"
+frugal-mcp = "frugal.mcp_server:main"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/frugal"]
