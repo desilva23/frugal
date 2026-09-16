@@ -103,3 +103,24 @@ class RateLimited(FrugalError):
         self.retry_after = retry_after
         hint = f"; server asked for {retry_after:.0f}s" if retry_after else ""
         super().__init__(f"rate limited by SerpApi after {attempts} attempts{hint}")
+
+
+class SchemaDrift(FrugalError):
+    """An engine's response no longer matches what its adapter expects.
+
+    Raised when a structural assumption fails across a whole batch rather than
+    for one odd result — an engine renaming ``link`` should be an error, while a
+    single local result without a website is ordinary.
+
+    This exists because the alternative is silence. An adapter that quietly
+    returns nothing when a field is renamed hands the planner an empty evidence
+    set, which looks exactly like a question nothing was written about.
+    """
+
+    def __init__(self, engine: str, detail: str) -> None:
+        self.engine = engine
+        self.detail = detail
+        super().__init__(
+            f"{engine}: response shape changed — {detail}. "
+            f"Re-run scripts/survey_engines.py --refresh to see the current shape."
+        )

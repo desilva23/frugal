@@ -22,9 +22,9 @@ from typing import Any
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
-from frugal.cache import CacheMode, ResponseCache  # noqa: E402
-from frugal.client import SerpApiClient  # noqa: E402
-from frugal.errors import FrugalError  # noqa: E402
+from frugal.cache import CacheMode, ResponseCache
+from frugal.client import SerpApiClient
+from frugal.errors import FrugalError
 
 SURVEY_PATH = Path(__file__).resolve().parents[1] / "benchmarks" / "engine_survey.json"
 
@@ -42,8 +42,13 @@ PROBES: list[tuple[str, dict[str, Any]]] = [
 ]
 
 #: Keys present on essentially every response; listing them per engine is noise.
-_UNIVERSAL_KEYS = {"search_metadata", "search_parameters", "search_information",
-                   "serpapi_pagination", "pagination"}
+_UNIVERSAL_KEYS = {
+    "search_metadata",
+    "search_parameters",
+    "search_information",
+    "serpapi_pagination",
+    "pagination",
+}
 
 
 def describe(value: Any, *, depth: int = 0) -> str:
@@ -51,7 +56,9 @@ def describe(value: Any, *, depth: int = 0) -> str:
     if isinstance(value, dict):
         if depth >= 1:
             return f"object({len(value)} keys)"
-        inner = ", ".join(f"{k}: {describe(v, depth=depth + 1)}" for k, v in list(value.items())[:8])
+        inner = ", ".join(
+            f"{k}: {describe(v, depth=depth + 1)}" for k, v in list(value.items())[:8]
+        )
         return f"{{{inner}}}"
     if isinstance(value, list):
         if not value:
