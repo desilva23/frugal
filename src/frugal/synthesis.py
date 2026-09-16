@@ -62,7 +62,7 @@ _CITATION = re.compile(r"\[(\d+)\]")
 #: accusation of hallucination, which is worse than missing a citation.
 #: Built from code points and named rather than written literally, since a block
 #: of look-alike brackets is unreadable and ruff is right to object to it.
-_BRACKET_ALIASES = {
+_BRACKET_ALIASES: dict[str, str | int | None] = {
     chr(0x3010): "[",  # CJK left black lenticular
     chr(0x3011): "]",  # CJK right black lenticular
     chr(0xFF3B): "[",  # fullwidth left square

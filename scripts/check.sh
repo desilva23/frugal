@@ -15,3 +15,6 @@ echo "── pytest ────────────────────
 
 echo
 echo "All checks passed."
+echo
+echo "Note: piping this script hides its exit code. To gate a commit on it, run"
+echo "it directly -- ./scripts/check.sh && git commit -- not through a pipe."
