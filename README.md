@@ -181,6 +181,37 @@ ordinary factual questions that plain web search answers perfectly well; they
 are there because a set the planner wins outright would be a set chosen to make
 it win.
 
+## Using it
+
+```bash
+frugal plan "Which companies are hiring Python developers in Chennai?"
+```
+
+Shows the routing scores, the query shaped for each engine, the parameters each
+one receives, and what the whole thing would cost — without issuing anything.
+Knowing the price before agreeing to pay it is the point.
+
+```bash
+frugal ask "Has search interest in electric vehicles in India been rising?"
+```
+
+Runs it. The cost counter ticks as searches are billed, cache hits are marked
+free, and the stopping rule says why it stopped. A time series is drawn as a
+sparkline, because it is the one kind of evidence a web search cannot return:
+
+```
+1. electric vehicles india
+   ▁▁▁▁▁▁▃▄▄▄▅█▆▅▄▄▅▄▅▆▄▄▄▄▃▃▃▄▃▃▃▂▄▄▄▄▃▃▃▃▂▃▃▂▁▂▁▂▁▁▁▁▁
+   53 observations, min 17, max 100, trending down (-6%)
+```
+
+Everything printed is the planner's own trace rather than decoration: the
+routing scores are what selected the engines, the counter is the budget
+governor, and the saturation line is the stopping rule explaining itself.
+
+Add `--replay --cache benchmarks/fixtures` to run either command against the
+committed fixtures, with no API key and no spend.
+
 ## Install
 
 Requires Python 3.11 or newer.
