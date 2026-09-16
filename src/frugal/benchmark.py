@@ -36,13 +36,23 @@ from typing import Any
 from frugal.cache import CacheMode, ResponseCache
 from frugal.client import SerpApiClient
 from frugal.errors import FrugalError
-from frugal.planner import DEFAULT_BUDGET, Planner, PlanResult, naive_run
+from frugal.planner import (
+    DEFAULT_BUDGET,
+    Planner,
+    PlanResult,
+    keyword_naive_run,
+    naive_run,
+)
 from frugal.schema import Evidence, Series
 
 QUESTIONS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "questions.json"
 RESULTS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "results.json"
 
-STRATEGIES = ("naive", "planned")
+#: Three strategies, because two could not tell routing from reformulation.
+#: "naive" sends the question verbatim, which is what many agents do.
+#: "keyword" sends the planner's own reformulation to one engine, isolating
+#: what the reformulation is worth. "planned" adds routing on top.
+STRATEGIES = ("naive", "keyword", "planned")
 
 
 @dataclass(frozen=True, slots=True)
@@ -316,6 +326,8 @@ def run_benchmark(
             try:
                 if strategy == "naive":
                     result = naive_run(client, question.question)
+                elif strategy == "keyword":
+                    result = keyword_naive_run(client, question.question)
                 else:
                     result = planner.run(question.question, budget=budget)
             except FrugalError as exc:
@@ -418,10 +430,14 @@ def run_ablation(
     """
     summaries: dict[str, StrategySummary] = {}
 
-    baseline = [
-        _outcome(q, "naive", naive_run(client, q.question)) for q in questions
-    ]
-    summaries.update(summarise(baseline))
+    summaries.update(
+        summarise([_outcome(q, "naive", naive_run(client, q.question)) for q in questions])
+    )
+    summaries.update(
+        summarise(
+            [_outcome(q, "keyword", keyword_naive_run(client, q.question)) for q in questions]
+        )
+    )
 
     for name, forced in FIXED_PAIRINGS:
         fixed_outcomes: list[QuestionOutcome] = []
@@ -464,7 +480,7 @@ def render_ablation(summaries: dict[str, StrategySummary]) -> str:
         "| answers/search |\n|---|---|---|---|---|---|"
     )
     rows = []
-    for name in ("naive", *(f[0] for f in FIXED_PAIRINGS), *(a[0] for a in ABLATIONS)):
+    for name in ("naive", "keyword", *(f[0] for f in FIXED_PAIRINGS), *(a[0] for a in ABLATIONS)):
         summary = summaries.get(name)
         if summary is None:
             continue

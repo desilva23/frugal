@@ -617,6 +617,83 @@ def naive_run(
     )
 
 
+def keyword_naive_run(
+    client: SerpApiClient,
+    question: str,
+    *,
+    results: int = DEFAULT_RESULTS_PER_SEARCH,
+) -> PlanResult:
+    """A stronger baseline: one web search, but with the question reformulated.
+
+    The verbatim baseline sends a natural-language sentence to a keyword engine,
+    and on some questions that returns nonsense -- "Where are the major hospitals
+    in Coimbatore?" surfaced a music video called "Major". That is what many
+    agents actually do, so it is worth measuring, but on its own it makes the
+    planner look good for the wrong reason.
+
+    This baseline gets the planner's own keyword reformulation and nothing else:
+    same single search, same engine, no routing, no locale parameters. The gap
+    between this and the verbatim baseline is what reformulation is worth; the
+    gap between this and a full plan is what routing is worth. Reporting only the
+    weaker baseline would credit routing with reformulation's work.
+    """
+    started = time.perf_counter()
+    governor = BudgetGovernor(limit=1)
+    monitor = SaturationMonitor()
+
+    variants = reformulate(question, engine="google", limit=1)
+    query = variants[0].query if variants else question.strip()
+
+    step = PlanStep(
+        engine="google",
+        query=query,
+        strategy="keyword",
+        cost=1,
+        round_number=1,
+        rationale="baseline: one web search, question reformulated to keywords",
+        params={"q": query, "num": results},
+    )
+
+    evidence: list[Evidence] = []
+    error: str | None = None
+    charged = 0
+    from_cache = False
+
+    try:
+        with governor.reserve(engine="google") as claim:
+            response = client.search("google", q=query, num=results)
+            if response.from_cache:
+                claim.release()
+            charged = response.searches_charged
+            from_cache = response.from_cache
+            evidence = normalise("google", response.raw, query=query)[:results]
+    except FrugalError as exc:
+        error = f"{type(exc).__name__}: {exc}"
+
+    observation = monitor.observe(evidence)
+
+    return PlanResult(
+        question=question,
+        evidence=evidence,
+        steps=[
+            ExecutedStep(
+                step=step,
+                evidence_count=len(evidence),
+                charged=charged,
+                from_cache=from_cache,
+                elapsed_ms=(time.perf_counter() - started) * 1000,
+                error=error,
+            )
+        ],
+        observations=[observation],
+        budget=governor.report(),
+        saturation=monitor.report(),
+        stopped_because="baseline: a single reformulated search",
+        elapsed_ms=(time.perf_counter() - started) * 1000,
+        ceiling=1,
+    )
+
+
 def _dedupe_preserving_order(evidence: list[Evidence]) -> list[Evidence]:
     seen: set[str] = set()
     unique: list[Evidence] = []

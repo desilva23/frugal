@@ -76,14 +76,64 @@ the stored record.
 
 ## Results
 
-Twelve questions with verifiable answers, scored on whether the retrieved
+Thirty questions with verifiable answers, scored on whether the retrieved
 evidence contains the answer. Scoring is exact string matching against marker
 terms, so there is no judge model and nothing to take on trust.
 
-| strategy | answered | recall | searches/question |
+| strategy | what it does | answered | recall | searches/question |
+|---|---|---|---|---|
+| naive | sends the question verbatim to web search | 28/30 | 93% | 1.0 |
+| keyword | one web search, question reformulated | 29/30 | 97% | 1.0 |
+| **planned** | routed across engines, under a budget | **30/30** | **100%** | 1.6 |
+
+Three strategies rather than two, because two could not tell the mechanisms
+apart. An earlier version compared only the first and the last, and credited
+routing with work that reformulation was doing.
+
+### Which mechanism earns what
+
+| mechanism | questions it fixes | questions it breaks | cost |
 |---|---|---|---|
-| naive — one web search | 11/12 | 92% | 1.0 |
-| planned | 12/12 | 100% | 1.7 |
+| reformulation | `hospitals-coimbatore`, `python-jobs-chennai` | `crispr-paper` | none — still one search |
+| routing | `crispr-paper` | — | +0.6 searches per question |
+
+Reformulation is worth more than it sounds, and the failure it fixes is worth
+seeing. Asked *"Where are the major hospitals in Coimbatore?"* verbatim, web
+search returned a music video called *Major*, a NASA project assessment, and a
+TED talk. The same question as `major hospitals coimbatore` returned hospitals
+in Coimbatore. Sending a natural-language sentence to a keyword index is a real
+failure mode of real agents, and stripping the question words costs nothing.
+
+It also *breaks* one question, which is why it is reported rather than
+celebrated: the verbatim CRISPR question found the paper and the keyword version
+did not. Routing recovers it by going to `google_scholar`.
+
+So each mechanism is worth roughly one question in thirty. That is a small
+effect, honestly measured, and stating it as anything larger would not survive a
+reader who re-ran the benchmark.
+
+### Modality: the one consistent difference
+
+| strategy | answered in the right modality |
+|---|---|
+| naive | 26/30 |
+| keyword | 26/30 |
+| **planned** | **30/30** |
+
+Four questions ask whether something is rising or falling. Both baselines answer
+them in prose — an article asserting a direction. The planner answers them with
+a demand series that can be plotted, dated and compared. Both count as answered;
+only one can be checked.
+
+This is the difference that does not shrink with sample size, because it is
+structural rather than statistical: web search does not return a time series at
+any page depth.
+
+### Cost behaviour
+
+The planner issues exactly one search on 11 of the 30 questions — the ones where
+routing detects no signal. It does not spend more when there is nothing to gain,
+which is where its 1.6 average comes from rather than 2.0.
 
 ### Is the routing doing the work?
 

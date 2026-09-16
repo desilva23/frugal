@@ -1,0 +1,496 @@
+{
+ "elapsed_ms": 943.497,
+ "engine": "google",
+ "fetched_at": "2026-09-16T23:24:05.011040+00:00",
+ "frugal_cache_version": 1,
+ "key": "72975aec3486e0bbc1bb6523cb2223ddbf9c4b3660ee81633063849aa4cca9b1",
+ "params": {
+  "num": 10,
+  "q": "What did the AlphaFold paper achieve?"
+ },
+ "response": {
+  "ai_overview": {
+   "page_token": "DJCPUniczVVdcqpIFF7ArGN8MRHUxJ9UUammAdPBiFxNjHmhELAhgo02aPRt9jKrmtVMg-DfxST3PkxNVzVwDqfP_9fnr799bz7754_IjaKQ3nHcer2uYEKw71QsEnAm3cwtbkp8urTc-81KqJcsKvAlxxMUOFqa1Bh3ugMvjPT-bWy6DcCX0iOCMTGp8840frxTzuDYY_ZnXWJEhVaceWU8UofDWa_WgHKlxlfbFY0zAyYA_rvVQQBggIAMxMtC7Bf8hi6Mk-fbEQcyzelCexYLTmfW2C85IZ8vahujVAFk4qleDU63Q4sp0HMJ7bLD6IiA68y9dRqGmKhDhccuLD0LIc_B57nQC3jy7kUOnOMaX848Xp-QCvPCABAejJwYw0DHewIlfoo7WtOBI7WAi_EncTMflSdgDQCCX2WHQNQSc9MKZbEgzsascXlusmSvKudZrpV-LGnSz3DY5snD62ZkzPp9SW1PVu0tH7-9LSak0zI9HnDWhMn5xLQd23AN_j6lq7XqLd-uN1tXKZAsukcSPUaSL7XkwRY2iYgq3YpYzWEE93U-q5jM6MIgRZiJFpX4BwB5evV90RA8pByo-QcWeQTQaZdB5SER3ReefXxg1sNYPshkuhLO4_HRE025fAqjzKSogLwZTrsJjQ89go9_SCdUbudsSWJ-Wpd-EjxVAMEguUVyR3-6w5gfMAmVACg_pO6yZZ1qgQcHsiiSGHUsZtQhU3ImdGQGMXQhHTwBJDOd3jPycKJcl3euJs2Q2VLkM8TJRZgFgLLdFb919RUs8rUIg02Gl7P2P4aNsl1tJFnTmo-WH4zb5BUPnnsN4zpujEAxTEgw-YWJY_2vgLSbR2o-jy4CCX4DSDjlXJ5HcnY6A1JKvlwGEmuuwnm0v6MP8-g8arF7BKQv5tGvAwl-CqSd3UIgkWIghReBlLl8BKTTeSQXz6M9kH5rHpHfm0cprpzd63Q4xe_44pBSTLk-8vXuOOzxiwamjt-ov8Xv-vB6g78cUtMgugtM278yPPtOrD1GG_vKYAxy59ilhTByzahse3Y5cp0y8EPXVIhvl0MzdJZl03I9Z-XclwJ_SQTebDbqW6CInWVUu6ZtVXvvNfX5eBDyq65J-566CgfytQpo1IgjY_H6VHOvob-VVl1LHk_Hze2Uj7XXbvDRfiHtm1hadIJhDYnqLFA1x43Ct1rLGqFJX1vMNmEsqbfzeo__sbAGt9KAoPFMmqgf3Zeb1BsqjHj9qd_bLLR4VgqWlsAqfjMHjzoYYdZ6MG1Jtgnba7YbrFnEErVMw6EroepMzFqtVW3e1m2-3rRKAY42oXBTLdH5Uqj-Cw8kOt8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DJCPUniczVVdcqpIFF7ArGN8MRHUxJ9UUammAdPBiFxNjHmhELAhgo02aPRt9jKrmtVMg-DfxST3PkxNVzVwDqfP_9fnr799bz7754_IjaKQ3nHcer2uYEKw71QsEnAm3cwtbkp8urTc-81KqJcsKvAlxxMUOFqa1Bh3ugMvjPT-bWy6DcCX0iOCMTGp8840frxTzuDYY_ZnXWJEhVaceWU8UofDWa_WgHKlxlfbFY0zAyYA_rvVQQBggIAMxMtC7Bf8hi6Mk-fbEQcyzelCexYLTmfW2C85IZ8vahujVAFk4qleDU63Q4sp0HMJ7bLD6IiA68y9dRqGmKhDhccuLD0LIc_B57nQC3jy7kUOnOMaX848Xp-QCvPCABAejJwYw0DHewIlfoo7WtOBI7WAi_EncTMflSdgDQCCX2WHQNQSc9MKZbEgzsascXlusmSvKudZrpV-LGnSz3DY5snD62ZkzPp9SW1PVu0tH7-9LSak0zI9HnDWhMn5xLQd23AN_j6lq7XqLd-uN1tXKZAsukcSPUaSL7XkwRY2iYgq3YpYzWEE93U-q5jM6MIgRZiJFpX4BwB5evV90RA8pByo-QcWeQTQaZdB5SER3ReefXxg1sNYPshkuhLO4_HRE025fAqjzKSogLwZTrsJjQ89go9_SCdUbudsSWJ-Wpd-EjxVAMEguUVyR3-6w5gfMAmVACg_pO6yZZ1qgQcHsiiSGHUsZtQhU3ImdGQGMXQhHTwBJDOd3jPycKJcl3euJs2Q2VLkM8TJRZgFgLLdFb919RUs8rUIg02Gl7P2P4aNsl1tJFnTmo-WH4zb5BUPnnsN4zpujEAxTEgw-YWJY_2vgLSbR2o-jy4CCX4DSDjlXJ5HcnY6A1JKvlwGEmuuwnm0v6MP8-g8arF7BKQv5tGvAwl-CqSd3UIgkWIghReBlLl8BKTTeSQXz6M9kH5rHpHfm0cprpzd63Q4xe_44pBSTLk-8vXuOOzxiwamjt-ov8Xv-vB6g78cUtMgugtM278yPPtOrD1GG_vKYAxy59ilhTByzahse3Y5cp0y8EPXVIhvl0MzdJZl03I9Z-XclwJ_SQTebDbqW6CInWVUu6ZtVXvvNfX5eBDyq65J-566CgfytQpo1IgjY_H6VHOvob-VVl1LHk_Hze2Uj7XXbvDRfiHtm1hadIJhDYnqLFA1x43Ct1rLGqFJX1vMNmEsqbfzeo__sbAGt9KAoPFMmqgf3Zeb1BsqjHj9qd_bLLR4VgqWlsAqfjMHjzoYYdZ6MG1Jtgnba7YbrFnEErVMw6EroepMzFqtVW3e1m2-3rRKAY42oXBTLdH5Uqj-Cw8kOt8"
+  },
+  "inline_videos": [
+   {
+    "channel": "Veritasium",
+    "date": "Feb 10, 2025",
+    "duration": "24:52",
+    "link": "https://www.youtube.com/watch?v=P_fHJIYENdI",
+    "platform": "YouTube",
+    "position": 1,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQZmntWXq_LwhkLLDbZZzrpZZV3g55G9Ksg_Q",
+    "snippet": "Alphafold took the protein's amino acid sequence and an important set of Clues given by Evolution.",
+    "thumbnail": "https://serpapi.com/searches/6aab25144632b5dfd84cd53a/images/MYx9XUKTBpPCEKhg0qwFeayaayAI0N72IyQd2oJ3Qtk.jpeg",
+    "title": "AlphaFold - The Most Useful Thing AI Has Ever Done"
+   },
+   {
+    "channel": "Shamrock Academic Studio",
+    "date": "Jul 14, 2026",
+    "duration": "7:16",
+    "link": "https://www.youtube.com/watch?v=bwyKkMZipvc",
+    "platform": "YouTube",
+    "position": 2,
+    "thumbnail": "https://serpapi.com/searches/6aab25144632b5dfd84cd53a/images/-vKGRssPQg7UePMJuNCorsOSmQPNWpAsAkZvpZdGMPI.jpeg",
+    "title": "The AI That Solved a 50-Year Biology Mystery | AlphaFold ..."
+   },
+   {
+    "channel": "Google DeepMind",
+    "date": "Nov 30, 2020",
+    "duration": "7:55",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=14",
+      "time": "00:14",
+      "title": "How do proteins fold?"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=46",
+      "time": "00:46",
+      "title": "The holy grail problem of protein folding"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=77",
+      "time": "01:17",
+      "title": "Biologists are skeptical of computational work"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=153",
+      "time": "02:33",
+      "title": "Medical relevance of AlphaFold"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=165",
+      "time": "02:45",
+      "title": "AlphaFold's results"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=349",
+      "time": "05:49",
+      "title": "The hardest protein in CASP thus far"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=380",
+      "time": "06:20",
+      "title": "CASP14 results"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=403",
+      "time": "06:43",
+      "title": "How do you recognize the right solution?"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=422",
+      "time": "07:02",
+      "title": "Closing Remarks"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4&t=434",
+      "time": "07:14",
+      "title": "Conclusion"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=gg7WjuFs8F4",
+    "platform": "YouTube",
+    "position": 3,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT-A7ueJ70OKf3_JTKvQiTrLHwvJ1F12avM9A",
+    "thumbnail": "https://serpapi.com/searches/6aab25144632b5dfd84cd53a/images/kANBssgeDthXXte-MedKfEhaauMUNUZT9VSADV9FcD4.jpeg",
+    "title": "AlphaFold: The making of a scientific breakthrough"
+   }
+  ],
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "AlphaFold is able to produce highly accurate side chains. The all-atom accuracy of AlphaFold was 1.5 Å r.m.s.d.95 (95% confidence interval = 1. ...",
+      "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAABQBwCdASocABwAPtE-tFooIigoFAEAGglpABOVecG8UHqFgAxuLOo8AA2f8xIE0bhiVfzrsLX-8iNy8yOyQXiRO6gAAP72ElPA8F_YgbxcjMd8xfNEsUQadePtlGpNjDTj4hx9dP0FCPqbsJbt_sQZTxGt1_k2R-3PPpW1uNTYkWj4cmexc686Hde_ADohWj4Vdb_G_ybsPymfoDCfPnn0xjB_ieVxWB81txQ83lqyPz0eAS3DNEWXiIApVRhfOXR49d-GKY8hw9JDcz37BCnmx4dvGxWP9MvJ_l7fz6xG1UTr0Oz3z4_BYdroHcYcA850ZfiBiYWacsnoJO8uNAtO457iQOD1f-DzHMk7HNWcFNtlTl_lUDrp9z1Rj4_3wWB0iXWFbvczHFTdyegAAA.webp",
+      "source_info_link": "https://www.nature.com/articles/s41586-021-03819-2"
+     }
+    },
+    "author": "by J Jumper",
+    "displayed_link": "https://www.nature.com › articles",
+    "favicon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAABQBwCdASocABwAPtE-tFooIigoFAEAGglpABOVecG8UHqFgAxuLOo8AA2f8xIE0bhiVfzrsLX-8iNy8yOyQXiRO6gAAP72ElPA8F_YgbxcjMd8xfNEsUQadePtlGpNjDTj4hx9dP0FCPqbsJbt_sQZTxGt1_k2R-3PPpW1uNTYkWj4cmexc686Hde_ADohWj4Vdb_G_ybsPymfoDCfPnn0xjB_ieVxWB81txQ83lqyPz0eAS3DNEWXiIApVRhfOXR49d-GKY8hw9JDcz37BCnmx4dvGxWP9MvJ_l7fz6xG1UTr0Oz3z4_BYdroHcYcA850ZfiBiYWacsnoJO8uNAtO457iQOD1f-DzHMk7HNWcFNtlTl_lUDrp9z1Rj4_3wWB0iXWFbvczHFTdyegAAA.webp",
+    "link": "https://www.nature.com/articles/s41586-021-03819-2",
+    "position": 1,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVdGptTgQp6R1D5QGd_JkBhU8uO-ddURN7ggkVzgh8jiXMrrBCbp32wOeMkbPZMd6Imwi7Nkj_jfKt4PNCaG2DWEIKl0f5B2yWGB2UBM--QlQy2xMlK0T5ep6Bm3hk7nUJUZAIaZE&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0QFnoECCkQAQ&uoh=1",
+    "snippet": "AlphaFold is able to produce highly accurate side chains. The all-atom accuracy of AlphaFold was 1.5 Å r.m.s.d.95 (95% confidence interval = 1. ...",
+    "snippet_highlighted_words": [
+     "AlphaFold is able to produce highly accurate side chains"
+    ],
+    "source": "Nature",
+    "title": "Highly accurate protein structure prediction with AlphaFold"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "It was particularly successful at predicting the most accurate structures for targets rated as most difficult by the competition organizers, It can predict the ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/AlphaFold"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › AlphaFold",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/AlphaFold",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVKriw0Yh_BBGaU_cQm-Nny8A64nbUWoaOkP9plhh13BSU6AEQrHjMWvHeN_yMeSuqjL-B0wWmwJaNPcfwBSdMQHhQNBuHhqxsmqAHMITmMaMN2xTMZAgGdEf3&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0QFnoECCgQAQ&uoh=1",
+    "snippet": "It was particularly successful at predicting the most accurate structures for targets rated as most difficult by the competition organizers, It can predict the ...",
+    "snippet_highlighted_words": [
+     "predicting the most accurate structures"
+    ],
+    "source": "Wikipedia",
+    "title": "AlphaFold"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "So far, it's helped make more than 8 million folds - predictions of structures and interactions - for thousands of researchers around the world.",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcExChfRChfRChfRChfRChfRChvVChfRChfRChfRChfRChfRChfRChfR864plAAAADXRSTlMAnmLgUhcGtckzjYZHPuZTNAAAANNJREFUKJGNklkOgzAMRL1lMdT3v26zGJJAKtU_ED1lPDMA8N9ESswZZcdOuwbjSgiyTUMzS4q2DA6GOZj9oGSanvBSjmbwYmbdFRq_VG9hM9Z-Pj4qw1llUp7tJnu8w6E0Vd8ZOguiQ7emr2LpDn12C7m8c1OcWiEjamsc1uMELbLDXmo4h2xZJy7r3lUuQ-YO0aO0kN5XWxM8yqgORT8eUrmXAI-v1S2w1xc3EK7igV4s6Uj2Eg55_hVWhppgmkU5w_KDFVfj8gmbEczMieKObeYL_G0UKedY2zcAAAAASUVORK5CYII.png",
+      "source_info_link": "https://deepmind.google/blog/alphafold-five-years-of-impact/"
+     }
+    },
+    "date": "Nov 25, 2025",
+    "displayed_link": "https://deepmind.google › News",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcExChfRChfRChfRChfRChfRChvVChfRChfRChfRChfRChfRChfRChfR864plAAAADXRSTlMAnmLgUhcGtckzjYZHPuZTNAAAANNJREFUKJGNklkOgzAMRL1lMdT3v26zGJJAKtU_ED1lPDMA8N9ESswZZcdOuwbjSgiyTUMzS4q2DA6GOZj9oGSanvBSjmbwYmbdFRq_VG9hM9Z-Pj4qw1llUp7tJnu8w6E0Vd8ZOguiQ7emr2LpDn12C7m8c1OcWiEjamsc1uMELbLDXmo4h2xZJy7r3lUuQ-YO0aO0kN5XWxM8yqgORT8eUrmXAI-v1S2w1xc3EK7igV4s6Uj2Eg55_hVWhppgmkU5w_KDFVfj8gmbEczMieKObeYL_G0UKedY2zcAAAAASUVORK5CYII.png",
+    "link": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+    "position": 3,
+    "read_more_link": "https://deepmind.google/blog/alphafold-five-years-of-impact/#:~:text=So%20far%2C%20it's%20helped%20make,of%20researchers%20around%20the%20world.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVgfExVjxq5JzCdZayzVcqlLx9jM5IQLVS6u6b49CVSdxnnCf0T00Nd0UpUcl2fHQ1JfFRRfg2QibAwcbaANhT9CX_GKm3P02q7pEtd0sOfxJMgzYEM5UuZNYq0oAZ0cu5rF80TpH7OPTElaDLsdHF&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0QFnoECCwQAQ&uoh=1",
+    "snippet": "So far, it's helped make more than 8 million folds - predictions of structures and interactions - for thousands of researchers around the world.",
+    "snippet_highlighted_words": [
+     "make more than 8 million folds"
+    ],
+    "source": "Google DeepMind",
+    "title": "AlphaFold: Five Years of Impact"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "AlphaFold is an AI system developed by Google DeepMind that predicts a protein's 3D structure from its amino acid sequence. It regularly achieves accuracy ...",
+      "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAAAwBwCdASocABwAPtE-tFooIigoFAEAGglsAKwvgfoHCGbBBADeRCIW0gAOzYwiXGJDy3U7bvIrK2RVEl6ZXC2GgAAA_vYHnJTexWRqnN5iIGvTegEy_W5N2n7brwwlCQAgsHk29ZL5f8q2Q1EFzqnysvBXIqAJbOMPeeFv6ml-SxMuCf5WbtHiVLrT3GbzCZm_pkYQI3_82glI6RBGJANbbPW73VdKpEKAgOcbN-rUg0oYYemQahhzUWA5CCWAnLpD6IhZpZvlm9Cbv5yZbFPGbT1sjXRkeOyehx8_WSDiEYooFWTAl7jcRPwkrmPLvN7TRwyLvMHXPZ1c54NEtt3f7iUTOVn4gFROfm_O9OZw693MVaoBZ9kRWiF_tW5eeqaKk7TiQgHyzDpXk5Vk2kQOIxRyIiuDXjyXyNhaspnAPAIAAAA.webp",
+      "source_info_link": "https://alphafold.ebi.ac.uk/"
+     }
+    },
+    "displayed_link": "https://alphafold.ebi.ac.uk",
+    "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAAAwBwCdASocABwAPtE-tFooIigoFAEAGglsAKwvgfoHCGbBBADeRCIW0gAOzYwiXGJDy3U7bvIrK2RVEl6ZXC2GgAAA_vYHnJTexWRqnN5iIGvTegEy_W5N2n7brwwlCQAgsHk29ZL5f8q2Q1EFzqnysvBXIqAJbOMPeeFv6ml-SxMuCf5WbtHiVLrT3GbzCZm_pkYQI3_82glI6RBGJANbbPW73VdKpEKAgOcbN-rUg0oYYemQahhzUWA5CCWAnLpD6IhZpZvlm9Cbv5yZbFPGbT1sjXRkeOyehx8_WSDiEYooFWTAl7jcRPwkrmPLvN7TRwyLvMHXPZ1c54NEtt3f7iUTOVn4gFROfm_O9OZw693MVaoBZ9kRWiF_tW5eeqaKk7TiQgHyzDpXk5Vk2kQOIxRyIiuDXjyXyNhaspnAPAIAAAA.webp",
+    "link": "https://alphafold.ebi.ac.uk/",
+    "position": 4,
+    "read_more_link": "https://alphafold.ebi.ac.uk/#:~:text=AlphaFold%20is%20an%20AI%20system,achieves%20accuracy%20competitive%20with%20experiment.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAV_7I7nYZvDRx6bdCDN_8loVewZZdx8kd7AZh9uCGyg8aYbVhO7aPGamedKe9O6jXtQzpxED4ObVohs2tzX4lSHrbwN-qHrQMQQoiQTC1xiA&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0QFnoECEYQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://alphafold.ebi.ac.uk/about",
+       "title": "About"
+      },
+      {
+       "link": "https://alphafold.ebi.ac.uk/faq",
+       "title": "FAQs"
+      },
+      {
+       "link": "https://alphafold.ebi.ac.uk/download",
+       "title": "Downloads"
+      },
+      {
+       "link": "https://alphafold.ebi.ac.uk/api-docs",
+       "title": "API"
+      }
+     ]
+    },
+    "snippet": "AlphaFold is an AI system developed by Google DeepMind that predicts a protein's 3D structure from its amino acid sequence. It regularly achieves accuracy ...",
+    "snippet_highlighted_words": [
+     "AlphaFold is an AI system developed by Google DeepMind"
+    ],
+    "source": "AlphaFold Protein Structure Database",
+    "title": "AlphaFold Protein Structure Database"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "AlphaFold uses open data and AI to discover the 3D protein universe Open data stored at EMBL-EBI played a pivotal role in the development of ...",
+      "source_info_link": "https://www.embl.org/news/science/alphafold-using-open-data-and-ai-to-discover-the-3d-protein-universe/"
+     }
+    },
+    "date": "Feb 9, 2023",
+    "displayed_link": "https://www.embl.org › news › science › alphafold-using...",
+    "link": "https://www.embl.org/news/science/alphafold-using-open-data-and-ai-to-discover-the-3d-protein-universe/",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFdQAqJt1lnyyuGHjt3yuhpFq1JAMh_G3Bfw1YP4q5kwv9rQjGG1EFQmoO4GgsDu4v4Huh84q94-CzBgAZtbX5Euif6-i3BqHFiwzac2T50xtUzszETQO2k21c9cPvCQwGZ8_UBdc7kQOKDnwrFEgx94E0pjKrwD8nAcyePSMaZ1tG6eKAviBUuAxJHGfSNyqzCwJZvW3cTaCOP8&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0QFnoECE8QAQ&uoh=1",
+    "snippet": "AlphaFold uses open data and AI to discover the 3D protein universe Open data stored at EMBL-EBI played a pivotal role in the development of ...",
+    "snippet_highlighted_words": [
+     "AlphaFold uses open data and AI to discover the 3D protein universe"
+    ],
+    "source": "European Molecular Biology Laboratory (EMBL)",
+    "title": "Case study: AlphaFold uses open data and AI to discover ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "AlphaFold2 (referred in this paper as simply AlphaFold) achieved this level of accuracy on the majority of CASP targets (10, 11).",
+      "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+      "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11348012/"
+     }
+    },
+    "author": "by O Kovalevskiy",
+    "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC11348012",
+    "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11348012/",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVPr3Z1tr0mYUOTzTU6889670Vtkm3znt1QbYJQx_XtoNOdhIlTukiMVzOazw4SxZofvOxPNhyEaUTe1sXf916KuIBimolwwMozZO7XIqNiAqseKAwfwP-zfJhJ2QG4mbaRRtt5Jg&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0QFnoECEQQAQ&uoh=1",
+    "snippet": "AlphaFold2 (referred in this paper as simply AlphaFold) achieved this level of accuracy on the majority of CASP targets (10, 11).",
+    "snippet_highlighted_words": [
+     "AlphaFold2"
+    ],
+    "source": "National Institutes of Health (NIH) | (.gov)",
+    "title": "AlphaFold two years on: Validation and impact - PMC"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "AlphaFold is Google DeepMind's contribution to the long-standing problem of protein structure prediction. It predicts the 3D structures of proteins with a ...",
+      "icon": "https://serpapi.com/images/i/UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoQABAAAsBMJQBOgMUh-Vnb1oYbEaYAAP75mRKfJVUMB9ZPisTf3XFOCLa1WNRgG96DnP1qOEgbFDLtXAid1VjjEDkebLQn44LeDvdv84_mmK1Byx5whPBAM_BGxGVnAim8uAsoAAA.webp",
+      "source_info_link": "https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/what-is-alphafold/"
+     }
+    },
+    "displayed_link": "https://www.ebi.ac.uk › online › courses › alphafold › w...",
+    "favicon": "https://serpapi.com/images/i/UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoQABAAAsBMJQBOgMUh-Vnb1oYbEaYAAP75mRKfJVUMB9ZPisTf3XFOCLa1WNRgG96DnP1qOEgbFDLtXAid1VjjEDkebLQn44LeDvdv84_mmK1Byx5whPBAM_BGxGVnAim8uAsoAAA.webp",
+    "link": "https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/what-is-alphafold/",
+    "position": 7,
+    "read_more_link": "https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/what-is-alphafold/#:~:text=AlphaFold%20is%20Google%20DeepMind's%20contribution,now%20widely%20used%20by%20researchers.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESugEB6zswFXJaJ3_VGABNzDHVe2Eww3BZ_YHRprrvs1n8s4OFE0mpf6ji_c_jEcquDnIYJNfAkly58Zi-gX87hSOD6fbVhIOT7q8XuQkNNShFQ4MquLstrHIVM4oumweNVI-OyhDEyhuME06ah0Zf10tb_mG82W2NQ8e7qISn9XAIhbHICAHZXrvW4hnTPh5kAgzYn_6P1iZ2htT-4zPJ9mBxDaOND6plxMfRBrirm54lJqrLv4-HwjIRePg&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0QFnoECEwQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/what-is-alphafold/#:~:text=A%20practical%20guide",
+       "title": "A Practical Guide"
+      },
+      {
+       "link": "https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/what-is-alphafold/#:~:text=What%20is%20AlphaFold%3F,-AlphaFold%20is%20Google%20DeepMind%27s",
+       "title": "What Is Alphafold?"
+      },
+      {
+       "link": "https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/what-is-alphafold/#:~:text=How%20AlphaFold2%20solves%20the%20structure%20prediction%20problem",
+       "title": "How Alphafold2 Solves The..."
+      }
+     ]
+    },
+    "snippet": "AlphaFold is Google DeepMind's contribution to the long-standing problem of protein structure prediction. It predicts the 3D structures of proteins with a ...",
+    "snippet_highlighted_words": [
+     "AlphaFold"
+    ],
+    "source": "EMBL-EBI",
+    "title": "What is AlphaFold?"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "For their discovery of the two distinct classes of lymphocytes, B and T cells – a monumental achievement that provided the organizing ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEX____w8_kAL6OHl8wIPqfDy-QAIZ_____________n6_Wuudvd4vDR2OtwhcOdqtS5wuAuUa5YcLoAAJk4FECVAAAACXRSTlPf________9MMwJ7BwAAABJElEQVQokbWS627DIAyFa4zpjC8Y8v7vOpO2mapp-9ejCBE-jm0Mtzv_qdvtU5BKTZUykUSG4Pm7V2DDljOXzrp394GtpGpt8HTOCBGFTe84lsf6gWUwZEyC00w5WrngHGSgEQTUk7pR5rqcjks60KbBjAEh5cp5ltDa9Gkk7H0otwu-lEHanGxg6xn2aG86sh5M47Eh95fg_HZJwDnbHdIsgU2Ywy0tYopIgGhn-1bC1bi3rOWgybJItdIjpyesSFxXz1SdYy7QaReUUtMfhRsuFs8-Z2P40XiZxofmMfngGtEm6oTj_T7h930q6kCmMCXCnoOrEfLousOiieY10xqDMfflcZIttw2VHbt7WFJxBwTBYeOEj2xwZT0X-kef5j_6-gakExheV9mCPgAAAABJRU5ErkJggg.png",
+      "source_info_link": "https://laskerfoundation.org/winners/alphafold-a-technology-for-predicting-protein-structures/"
+     }
+    },
+    "date": "Sep 2, 2025",
+    "displayed_link": "https://laskerfoundation.org › Winners",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEX____w8_kAL6OHl8wIPqfDy-QAIZ_____________n6_Wuudvd4vDR2OtwhcOdqtS5wuAuUa5YcLoAAJk4FECVAAAACXRSTlPf________9MMwJ7BwAAABJElEQVQokbWS627DIAyFa4zpjC8Y8v7vOpO2mapp-9ejCBE-jm0Mtzv_qdvtU5BKTZUykUSG4Pm7V2DDljOXzrp394GtpGpt8HTOCBGFTe84lsf6gWUwZEyC00w5WrngHGSgEQTUk7pR5rqcjks60KbBjAEh5cp5ltDa9Gkk7H0otwu-lEHanGxg6xn2aG86sh5M47Eh95fg_HZJwDnbHdIsgU2Ywy0tYopIgGhn-1bC1bi3rOWgybJItdIjpyesSFxXz1SdYy7QaReUUtMfhRsuFs8-Z2P40XiZxofmMfngGtEm6oTj_T7h930q6kCmMCXCnoOrEfLousOiieY10xqDMfflcZIttw2VHbt7WFJxBwTBYeOEj2xwZT0X-kef5j_6-gakExheV9mCPgAAAABJRU5ErkJggg.png",
+    "link": "https://laskerfoundation.org/winners/alphafold-a-technology-for-predicting-protein-structures/",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFal2LlZ_UfJzKHfgYIABwoK52Gg8_4vp3xDHJzMBiWF_nxFMYvKZTKdD5iT3j1Ei8QhIfpQSvb3O_Y59g_nfk4u8nc-Jw3Gbo8E9nuW_tjEy3cVMLcK9a2hNBl5njhiMi3_GP0Jasmk1LIJHZjqQC_DBOeefCASdlxMBCVanFCvyMym5ZIJsYmGLf8zp1TSbq2Y&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0QFnoECEoQAQ&uoh=1",
+    "snippet": "For their discovery of the two distinct classes of lymphocytes, B and T cells – a monumental achievement that provided the organizing ...",
+    "snippet_highlighted_words": [
+     "discovery of the two distinct classes of lymphocytes, B and T cells"
+    ],
+    "source": "Lasker Foundation",
+    "title": "AlphaFold—for predicting protein structures"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=10&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8NMDegQINBAW",
+   "other_pages": {
+    "10": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=90&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8tMDegQINBAU",
+    "2": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=10&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8tMDegQINBAE",
+    "3": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=20&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8tMDegQINBAG",
+    "4": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=30&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8tMDegQINBAI",
+    "5": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=40&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8tMDegQINBAK",
+    "6": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=50&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8tMDegQINBAM",
+    "7": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=60&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8tMDegQINBAO",
+    "8": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=70&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8tMDegQINBAQ",
+    "9": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve?&sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&ei=FCWras_YGLSiptQP5uah6A0&start=80&sa=N&sstk=AS6-VmI8Ts2j7_nW5bZDqJOsghembPDD2YSj1BY2oO2NBXTZY7nuWqizsj24C4cp_xxJF4aFMfxhSfg9pgtyaM7PZeanI5fegHMTng&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q8tMDegQINBAS"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrbDJYMkozWmw5ZmJUazFWSGxmT1VSdlIxbDFOMUZXV1RoWU5EVlVkRk16TkZwM2JIQlJhMHhaZFZsQmNHeE9iRE16UlcxSmRWQTVNa2s0VVMxQmJtcEpOVmhtV0hONFMzWm9la2Q0UjB0NVNqZHpSREZpWVhSb1VSSVhSa05YY21GelgxbEhURk5wY0hSUlVEVjFZV2cyUVRBYUlrRkVjM0k1WmxOWGEwSkZNR2h3VEZGcFp5MUNiV1ZxVVd0TE5sWjBVRVJxVDNjIiwiZmN2IjoiMyIsImVpIjoiRkNXcmFzX1lHTFNpcHRRUDV1YWg2QTAiLCJxYyI6IkNpUjNhR0YwSUdScFpDQjBhR1VnWVd4d2FHRm1iMnhrSUhCaGNHVnlJR0ZqYUdsbGRtVVFBSDNhSUU4XyIsInF1ZXN0aW9uIjoiV2hhdCBOb2JlbCBQcml6ZSBkaWQgQWxwaGFGb2xkIHdpbj8iLCJsayI6IkdpSjNhR0YwSUc1dlltVnNJSEJ5YVhwbElHUnBaQ0JoYkhCb1lXWnZiR1FnZDJsdSIsImJzIjoiYzMzTU93dkNNQmlGWVZ3ek9jY3F3Y3VtVXJNNkJMRUlSVkFuTzhwbkUyMGdKS1ZKV19UWDI0cVVkSEUtNzNQUUVjMlNEQnc1bWJ0UTVGTEl0eUJjY3JKVGVRWUhvemlwcFdaMGpxZDFtLWx2bG5jWnRObmpsNkViV2tVOUM2a3JRYWtYc1VaVm9uSEdDYWxKQzZSLU1yckd5XzdMZjRDMmFCUmI3MzhUaG92R3BHVUJUakFhWUN5dDk5YWJFVVBqQkh4ZFdzR2I2NExzejljNFluU0NneHA4M3dXcHFTUWZEajQiLCJpZCI6ImZjX0ZDV3Jhc19ZR0xTaXB0UVA1dWFoNkEwXzMifQ==",
+    "page_token": "cpOfG3icHdDBboIwAADQ7Gc8ChVw08QsMigOA45CW-SyYAFxtLQTIrDb_mVfta-Z2f2d3vcPv7TN70Na973q1po2DMP8LOWZl3MmhZZ3U8s0lnN-ylmzXj4uwXPFNm432C9ysCOsFHGQHouQEsqniJMFdmun5KuqENntsIM-dsO3AqMFA2RkHO4J7qfoIzJyIc1sl6ncVfHd-DHl19SoI8YDgBd4kbTh5zHxG0pQE3jgjhQN8WiWuJDEqTsEtyDgTxaD6is3_CnZEVpCxSlU-8DrRtRyL9FNMzGgUZJXixiFDAVpMfQtDM4x1DOHGH7NwCpD-pjkqa1jsgUFhTJs3MG7-DbahdOBZgkVUKG0xiFHPGozH4nBOjZ9QgSAJ0FgKZQ9q9htY8z-xzbvlejX6irPf4tfeKw",
+    "question": "What Nobel Prize did AlphaFold win?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cpOfG3icHdDBboIwAADQ7Gc8ChVw08QsMigOA45CW-SyYAFxtLQTIrDb_mVfta-Z2f2d3vcPv7TN70Na973q1po2DMP8LOWZl3MmhZZ3U8s0lnN-ylmzXj4uwXPFNm432C9ysCOsFHGQHouQEsqniJMFdmun5KuqENntsIM-dsO3AqMFA2RkHO4J7qfoIzJyIc1sl6ncVfHd-DHl19SoI8YDgBd4kbTh5zHxG0pQE3jgjhQN8WiWuJDEqTsEtyDgTxaD6is3_CnZEVpCxSlU-8DrRtRyL9FNMzGgUZJXixiFDAVpMfQtDM4x1DOHGH7NwCpD-pjkqa1jsgUFhTJs3MG7-DbahdOBZgkVUKG0xiFHPGozH4nBOjZ9QgSAJ0FgKZQ9q9htY8z-xzbvlejX6irPf4tfeKw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrbDJYMkozWmw5ZmJUazFWSGxmT1VSdlIxbDFOMUZXV1RoWU5EVlVkRk16TkZwM2JIQlJhMHhaZFZsQmNHeE9iRE16UlcxSmRWQTVNa2s0VVMxQmJtcEpOVmhtV0hONFMzWm9la2Q0UjB0NVNqZHpSREZpWVhSb1VSSVhSa05YY21GelgxbEhURk5wY0hSUlVEVjFZV2cyUVRBYUlrRkVjM0k1WmxOWGEwSkZNR2h3VEZGcFp5MUNiV1ZxVVd0TE5sWjBVRVJxVDNjIiwiZmN2IjoiMyIsImVpIjoiRkNXcmFzX1lHTFNpcHRRUDV1YWg2QTAiLCJxYyI6IkNpUjNhR0YwSUdScFpDQjBhR1VnWVd4d2FHRm1iMnhrSUhCaGNHVnlJR0ZqYUdsbGRtVVFBSDNhSUU4XyIsInF1ZXN0aW9uIjoiV2hhdCBOb2JlbCBQcml6ZSBkaWQgQWxwaGFGb2xkIHdpbj8iLCJsayI6IkdpSjNhR0YwSUc1dlltVnNJSEJ5YVhwbElHUnBaQ0JoYkhCb1lXWnZiR1FnZDJsdSIsImJzIjoiYzMzTU93dkNNQmlGWVZ3ek9jY3F3Y3VtVXJNNkJMRUlSVkFuTzhwbkUyMGdKS1ZKV19UWDI0cVVkSEUtNzNQUUVjMlNEQnc1bWJ0UTVGTEl0eUJjY3JKVGVRWUhvemlwcFdaMGpxZDFtLWx2bG5jWnRObmpsNkViV2tVOUM2a3JRYWtYc1VaVm9uSEdDYWxKQzZSLU1yckd5XzdMZjRDMmFCUmI3MzhUaG92R3BHVUJUakFhWUN5dDk5YWJFVVBqQkh4ZFdzR2I2NExzejljNFluU0NneHA4M3dXcHFTUWZEajQiLCJpZCI6ImZjX0ZDV3Jhc19ZR0xTaXB0UVA1dWFoNkEwXzMifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrbDJYMkozWmw5ZmJUazFWSGxmT1VSdlIxbDFOMUZXV1RoWU5EVlVkRk16TkZwM2JIQlJhMHhaZFZsQmNHeE9iRE16UlcxSmRWQTVNa2s0VVMxQmJtcEpOVmhtV0hONFMzWm9la2Q0UjB0NVNqZHpSREZpWVhSb1VSSVhSa05YY21GelgxbEhURk5wY0hSUlVEVjFZV2cyUVRBYUlrRkVjM0k1WmxOWGEwSkZNR2h3VEZGcFp5MUNiV1ZxVVd0TE5sWjBVRVJxVDNjIiwiZmN2IjoiMyIsImVpIjoiRkNXcmFzX1lHTFNpcHRRUDV1YWg2QTAiLCJxYyI6IkNpUjNhR0YwSUdScFpDQjBhR1VnWVd4d2FHRm1iMnhrSUhCaGNHVnlJR0ZqYUdsbGRtVVFBSDNhSUU4XyIsInF1ZXN0aW9uIjoiRGlkIEFscGhhRm9sZCBhY3R1YWxseSBzb2x2ZSBwcm90ZWluIGZvbGRpbmc/IiwibGsiOiJjNVBTU2NsTVVVak1LY2hJVE12UEFiS1NTMG9UYzNJcUZZcnpjOHBTRlFxSzhrdFNNX01VUUhLWmVla0EiLCJicyI6ImMzM01Pd3ZDTUJpRllWd3pPY2Nxd2N1bVVyTTZCTEVJUlZBbk84cG5FMjBnSktWSldfVFgyNHFVZEhFLTczUFFFYzJTREJ3NW1idFE1RkxJdHlCY2NySlRlUVlIb3ppcHBXWjBqcWQxbS1sdmxuY1p0Tm5qbDZFYldrVTlDNmtyUWFrWHNVWlZvbkhHQ2FsSkM2Ui1NcnJHeV83TGY0QzJhQlJiNzM4VGhvdkdwR1VCVGpBYVlDeXQ5OWFiRVVQakJIeGRXc0diNjRMc3o5YzRZblNDZ3hwODN3V3BxU1FmRGo0IiwiaWQiOiJmY19GQ1dyYXNfWUdMU2lwdFFQNXVhaDZBMF8zIn0=",
+    "page_token": "ZMqLEXicHZBRbqMwFADVy_SzsYmSKpGiSiRAWi2OjPED_FOBHeIEG1AhYeO_vcKeoafqaTbaC4xm5s-3ObfNz9NfPY79sJ7Npml6OXXdyRxfZGdn5XBv5UyWxlSlbNbL1yV-q-UmuEl_-yV9yvsedgliVjiah02FkqbkOErtKs9sX5BQvWcRmrPotxOtCKjTSxWGAB5eEouHo1E14H5SF3FV3sov88aRDJLUasY9835slVflyh32OmdowVOErYg-UgAC0MZIXuBXYTQrsA6FSc6yhURg2POUbFkwjWDIVdhFkO4oqtqPmuS6L1t9gCwcEo_fGUDNOCRZgObSUzjONTtAPD04twotrpkVW-X0omhGXwFpCO5doFVEsboXOakzruKH5_RooiQHXe6EH_vdmfLEyYuxHPyh5MG8sMarzIozl3AZkX1lcUgvKiP7cEvpcy1vm_nz_9ebz9qO6_6rO_0D6quNlw",
+    "question": "Did AlphaFold actually solve protein folding?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZMqLEXicHZBRbqMwFADVy_SzsYmSKpGiSiRAWi2OjPED_FOBHeIEG1AhYeO_vcKeoafqaTbaC4xm5s-3ObfNz9NfPY79sJ7Npml6OXXdyRxfZGdn5XBv5UyWxlSlbNbL1yV-q-UmuEl_-yV9yvsedgliVjiah02FkqbkOErtKs9sX5BQvWcRmrPotxOtCKjTSxWGAB5eEouHo1E14H5SF3FV3sov88aRDJLUasY9835slVflyh32OmdowVOErYg-UgAC0MZIXuBXYTQrsA6FSc6yhURg2POUbFkwjWDIVdhFkO4oqtqPmuS6L1t9gCwcEo_fGUDNOCRZgObSUzjONTtAPD04twotrpkVW-X0omhGXwFpCO5doFVEsboXOakzruKH5_RooiQHXe6EH_vdmfLEyYuxHPyh5MG8sMarzIozl3AZkX1lcUgvKiP7cEvpcy1vm_nz_9ebz9qO6_6rO_0D6quNlw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrbDJYMkozWmw5ZmJUazFWSGxmT1VSdlIxbDFOMUZXV1RoWU5EVlVkRk16TkZwM2JIQlJhMHhaZFZsQmNHeE9iRE16UlcxSmRWQTVNa2s0VVMxQmJtcEpOVmhtV0hONFMzWm9la2Q0UjB0NVNqZHpSREZpWVhSb1VSSVhSa05YY21GelgxbEhURk5wY0hSUlVEVjFZV2cyUVRBYUlrRkVjM0k1WmxOWGEwSkZNR2h3VEZGcFp5MUNiV1ZxVVd0TE5sWjBVRVJxVDNjIiwiZmN2IjoiMyIsImVpIjoiRkNXcmFzX1lHTFNpcHRRUDV1YWg2QTAiLCJxYyI6IkNpUjNhR0YwSUdScFpDQjBhR1VnWVd4d2FHRm1iMnhrSUhCaGNHVnlJR0ZqYUdsbGRtVVFBSDNhSUU4XyIsInF1ZXN0aW9uIjoiRGlkIEFscGhhRm9sZCBhY3R1YWxseSBzb2x2ZSBwcm90ZWluIGZvbGRpbmc%2FIiwibGsiOiJjNVBTU2NsTVVVak1LY2hJVE12UEFiS1NTMG9UYzNJcUZZcnpjOHBTRlFxSzhrdFNNX01VUUhLWmVla0EiLCJicyI6ImMzM01Pd3ZDTUJpRllWd3pPY2Nxd2N1bVVyTTZCTEVJUlZBbk84cG5FMjBnSktWSldfVFgyNHFVZEhFLTczUFFFYzJTREJ3NW1idFE1RkxJdHlCY2NySlRlUVlIb3ppcHBXWjBqcWQxbS1sdmxuY1p0Tm5qbDZFYldrVTlDNmtyUWFrWHNVWlZvbkhHQ2FsSkM2Ui1NcnJHeV83TGY0QzJhQlJiNzM4VGhvdkdwR1VCVGpBYVlDeXQ5OWFiRVVQakJIeGRXc0diNjRMc3o5YzRZblNDZ3hwODN3V3BxU1FmRGo0IiwiaWQiOiJmY19GQ1dyYXNfWUdMU2lwdFFQNXVhaDZBMF8zIn0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrbDJYMkozWmw5ZmJUazFWSGxmT1VSdlIxbDFOMUZXV1RoWU5EVlVkRk16TkZwM2JIQlJhMHhaZFZsQmNHeE9iRE16UlcxSmRWQTVNa2s0VVMxQmJtcEpOVmhtV0hONFMzWm9la2Q0UjB0NVNqZHpSREZpWVhSb1VSSVhSa05YY21GelgxbEhURk5wY0hSUlVEVjFZV2cyUVRBYUlrRkVjM0k1WmxOWGEwSkZNR2h3VEZGcFp5MUNiV1ZxVVd0TE5sWjBVRVJxVDNjIiwiZmN2IjoiMyIsImVpIjoiRkNXcmFzX1lHTFNpcHRRUDV1YWg2QTAiLCJxYyI6IkNpUjNhR0YwSUdScFpDQjBhR1VnWVd4d2FHRm1iMnhrSUhCaGNHVnlJR0ZqYUdsbGRtVVFBSDNhSUU4XyIsInF1ZXN0aW9uIjoiSXMgQWxwaGFGb2xkIDEwMCUgYWNjdXJhdGU/IiwibGsiOiJHaHBwY3lCaGJIQm9ZV1p2YkdRZ01UQXdKU0JoWTJOMWNtRjBaUSIsImJzIjoiYzMzTU93dkNNQmlGWVZ3ek9jY3F3Y3VtVXJNNkJMRUlSVkFuTzhwbkUyMGdKS1ZKV19UWDI0cVVkSEUtNzNQUUVjMlNEQnc1bWJ0UTVGTEl0eUJjY3JKVGVRWUhvemlwcFdaMGpxZDFtLWx2bG5jWnRObmpsNkViV2tVOUM2a3JRYWtYc1VaVm9uSEdDYWxKQzZSLU1yckd5XzdMZjRDMmFCUmI3MzhUaG92R3BHVUJUakFhWUN5dDk5YWJFVVBqQkh4ZFdzR2I2NExzejljNFluU0NneHA4M3dXcHFTUWZEajQiLCJpZCI6ImZjX0ZDV3Jhc19ZR0xTaXB0UVA1dWFoNkEwXzMifQ==",
+    "page_token": "FiCTc3icHdDBboIwAADQ7Gc8CkV008QsMloIGzUWWrCXpRYEpAiORmC3_cu-al-zZdd3fF_fqrrWPw9pqXXXbwxjGIZ50baFyueybQzRT1dpSKHUSch6s3pcgeez3MJ-cF7awTnQrmMuMWO47iOfVLnPLe7pJE_hkpvjVXhqCiNgs2Qsj3FmRzC4HWlohqYWuQom7mf61KzTsBksjNQrRdzLFf7MmXMhdaf3VBPpUusAiqVsiBVSlRJrrEXNTRmX4s-w8EYceagil-xGJjAR_zCSpLZPjFjYK9u4tqcw3U37FAUhwmWm0J3RIkImd9kiKCVYc2KOsUgdk7IdyBLU4hoOXhU4xMfTPuGUNorskwC-pc4yBk8gh-wuIGHywgC2lBtRvZid5X27mP2Pbd_Pjd50H23xC8k2eGw",
+    "question": "Is AlphaFold 100% accurate?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FiCTc3icHdDBboIwAADQ7Gc8CkV008QsMloIGzUWWrCXpRYEpAiORmC3_cu-al-zZdd3fF_fqrrWPw9pqXXXbwxjGIZ50baFyueybQzRT1dpSKHUSch6s3pcgeez3MJ-cF7awTnQrmMuMWO47iOfVLnPLe7pJE_hkpvjVXhqCiNgs2Qsj3FmRzC4HWlohqYWuQom7mf61KzTsBksjNQrRdzLFf7MmXMhdaf3VBPpUusAiqVsiBVSlRJrrEXNTRmX4s-w8EYceagil-xGJjAR_zCSpLZPjFjYK9u4tqcw3U37FAUhwmWm0J3RIkImd9kiKCVYc2KOsUgdk7IdyBLU4hoOXhU4xMfTPuGUNorskwC-pc4yBk8gh-wuIGHywgC2lBtRvZid5X27mP2Pbd_Pjd50H23xC8k2eGw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrbDJYMkozWmw5ZmJUazFWSGxmT1VSdlIxbDFOMUZXV1RoWU5EVlVkRk16TkZwM2JIQlJhMHhaZFZsQmNHeE9iRE16UlcxSmRWQTVNa2s0VVMxQmJtcEpOVmhtV0hONFMzWm9la2Q0UjB0NVNqZHpSREZpWVhSb1VSSVhSa05YY21GelgxbEhURk5wY0hSUlVEVjFZV2cyUVRBYUlrRkVjM0k1WmxOWGEwSkZNR2h3VEZGcFp5MUNiV1ZxVVd0TE5sWjBVRVJxVDNjIiwiZmN2IjoiMyIsImVpIjoiRkNXcmFzX1lHTFNpcHRRUDV1YWg2QTAiLCJxYyI6IkNpUjNhR0YwSUdScFpDQjBhR1VnWVd4d2FHRm1iMnhrSUhCaGNHVnlJR0ZqYUdsbGRtVVFBSDNhSUU4XyIsInF1ZXN0aW9uIjoiSXMgQWxwaGFGb2xkIDEwMCUgYWNjdXJhdGU%2FIiwibGsiOiJHaHBwY3lCaGJIQm9ZV1p2YkdRZ01UQXdKU0JoWTJOMWNtRjBaUSIsImJzIjoiYzMzTU93dkNNQmlGWVZ3ek9jY3F3Y3VtVXJNNkJMRUlSVkFuTzhwbkUyMGdKS1ZKV19UWDI0cVVkSEUtNzNQUUVjMlNEQnc1bWJ0UTVGTEl0eUJjY3JKVGVRWUhvemlwcFdaMGpxZDFtLWx2bG5jWnRObmpsNkViV2tVOUM2a3JRYWtYc1VaVm9uSEdDYWxKQzZSLU1yckd5XzdMZjRDMmFCUmI3MzhUaG92R3BHVUJUakFhWUN5dDk5YWJFVVBqQkh4ZFdzR2I2NExzejljNFluU0NneHA4M3dXcHFTUWZEajQiLCJpZCI6ImZjX0ZDV3Jhc19ZR0xTaXB0UVA1dWFoNkEwXzMifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrbDJYMkozWmw5ZmJUazFWSGxmT1VSdlIxbDFOMUZXV1RoWU5EVlVkRk16TkZwM2JIQlJhMHhaZFZsQmNHeE9iRE16UlcxSmRWQTVNa2s0VVMxQmJtcEpOVmhtV0hONFMzWm9la2Q0UjB0NVNqZHpSREZpWVhSb1VSSVhSa05YY21GelgxbEhURk5wY0hSUlVEVjFZV2cyUVRBYUlrRkVjM0k1WmxOWGEwSkZNR2h3VEZGcFp5MUNiV1ZxVVd0TE5sWjBVRVJxVDNjIiwiZmN2IjoiMyIsImVpIjoiRkNXcmFzX1lHTFNpcHRRUDV1YWg2QTAiLCJxYyI6IkNpUjNhR0YwSUdScFpDQjBhR1VnWVd4d2FHRm1iMnhrSUhCaGNHVnlJR0ZqYUdsbGRtVVFBSDNhSUU4XyIsInF1ZXN0aW9uIjoiV2FzIEFscGhhRm9sZCB1c2VkIGZvciBDT1ZJRD8iLCJsayI6IkdoeDNZWE1nWVd4d2FHRm1iMnhrSUhWelpXUWdabTl5SUdOdmRtbGsiLCJicyI6ImMzM01Pd3ZDTUJpRllWd3pPY2Nxd2N1bVVyTTZCTEVJUlZBbk84cG5FMjBnSktWSldfVFgyNHFVZEhFLTczUFFFYzJTREJ3NW1idFE1RkxJdHlCY2NySlRlUVlIb3ppcHBXWjBqcWQxbS1sdmxuY1p0Tm5qbDZFYldrVTlDNmtyUWFrWHNVWlZvbkhHQ2FsSkM2Ui1NcnJHeV83TGY0QzJhQlJiNzM4VGhvdkdwR1VCVGpBYVlDeXQ5OWFiRVVQakJIeGRXc0diNjRMc3o5YzRZblNDZ3hwODN3V3BxU1FmRGo0IiwiaWQiOiJmY19GQ1dyYXNfWUdMU2lwdFFQNXVhaDZBMF8zIn0=",
+    "page_token": "LbcyO3icHdBbboJAFADQdDP9rIDVBhPTBAUU67TOcIfHT8PMoFguDwt1hL_upavqapr0LOF8_-C5Ln_vrkXft91iMtFaP5ya5oT5g2yqSdYNtZzIDFFkslzMn-bm81Eu3a-ts7psnQO0LV9TgyF9pDXZiZj6sEYmBtOAlVnlqMK85l3kqjkpqQdrkpHYeRFmO8vdIolKelFAUw5BvK_sQRr9VXI7Tn05o9wpI7fT4PYBd_kqNL0x8hstvOKDwYyJkA9pmQahoUZW9pHa4IVV7S7kir1EszcG_U3UKksrmCYjSaRl6hzt3d7Sj7TCufCxS8biVWzkFJAECTo34G2UGjZ1C-UfTDUkMTlGoPZgoVaedyAxL7J16uyd5nwAOsoPrLjvNcQKGu6RTWbZXI4UaRkwGLe9RIIc1DnV90d5XU7v_z-X78eqX7SfzekPFdSFIA",
+    "question": "Was AlphaFold used for COVID?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LbcyO3icHdBbboJAFADQdDP9rIDVBhPTBAUU67TOcIfHT8PMoFguDwt1hL_upavqapr0LOF8_-C5Ln_vrkXft91iMtFaP5ya5oT5g2yqSdYNtZzIDFFkslzMn-bm81Eu3a-ts7psnQO0LV9TgyF9pDXZiZj6sEYmBtOAlVnlqMK85l3kqjkpqQdrkpHYeRFmO8vdIolKelFAUw5BvK_sQRr9VXI7Tn05o9wpI7fT4PYBd_kqNL0x8hstvOKDwYyJkA9pmQahoUZW9pHa4IVV7S7kir1EszcG_U3UKksrmCYjSaRl6hzt3d7Sj7TCufCxS8biVWzkFJAECTo34G2UGjZ1C-UfTDUkMTlGoPZgoVaedyAxL7J16uyd5nwAOsoPrLjvNcQKGu6RTWbZXI4UaRkwGLe9RIIc1DnV90d5XU7v_z-X78eqX7SfzekPFdSFIA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrbDJYMkozWmw5ZmJUazFWSGxmT1VSdlIxbDFOMUZXV1RoWU5EVlVkRk16TkZwM2JIQlJhMHhaZFZsQmNHeE9iRE16UlcxSmRWQTVNa2s0VVMxQmJtcEpOVmhtV0hONFMzWm9la2Q0UjB0NVNqZHpSREZpWVhSb1VSSVhSa05YY21GelgxbEhURk5wY0hSUlVEVjFZV2cyUVRBYUlrRkVjM0k1WmxOWGEwSkZNR2h3VEZGcFp5MUNiV1ZxVVd0TE5sWjBVRVJxVDNjIiwiZmN2IjoiMyIsImVpIjoiRkNXcmFzX1lHTFNpcHRRUDV1YWg2QTAiLCJxYyI6IkNpUjNhR0YwSUdScFpDQjBhR1VnWVd4d2FHRm1iMnhrSUhCaGNHVnlJR0ZqYUdsbGRtVVFBSDNhSUU4XyIsInF1ZXN0aW9uIjoiV2FzIEFscGhhRm9sZCB1c2VkIGZvciBDT1ZJRD8iLCJsayI6IkdoeDNZWE1nWVd4d2FHRm1iMnhrSUhWelpXUWdabTl5SUdOdmRtbGsiLCJicyI6ImMzM01Pd3ZDTUJpRllWd3pPY2Nxd2N1bVVyTTZCTEVJUlZBbk84cG5FMjBnSktWSldfVFgyNHFVZEhFLTczUFFFYzJTREJ3NW1idFE1RkxJdHlCY2NySlRlUVlIb3ppcHBXWjBqcWQxbS1sdmxuY1p0Tm5qbDZFYldrVTlDNmtyUWFrWHNVWlZvbkhHQ2FsSkM2Ui1NcnJHeV83TGY0QzJhQlJiNzM4VGhvdkdwR1VCVGpBYVlDeXQ5OWFiRVVQakJIeGRXc0diNjRMc3o5YzRZblNDZ3hwODN3V3BxU1FmRGo0IiwiaWQiOiJmY19GQ1dyYXNfWUdMU2lwdFFQNXVhaDZBMF8zIn0%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&q=How+does+AlphaFold+work&sa=X&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q1QJ6BAg7EAE",
+    "query": "How does AlphaFold work",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+does+AlphaFold+work"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&q=What+does+AlphaFold+do&sa=X&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q1QJ6BAhAEAE",
+    "query": "What does AlphaFold do",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+does+AlphaFold+do"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&q=What+is+AlphaFold&sa=X&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q1QJ6BAhBEAE",
+    "query": "What is AlphaFold",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+AlphaFold"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&q=AlphaFold+2&sa=X&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q1QJ6BAg6EAE",
+    "query": "AlphaFold 2",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AlphaFold+2"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&q=AlphaFold+3&sa=X&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q1QJ6BAg-EAE",
+    "query": "AlphaFold 3",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AlphaFold+3"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&q=AlphaFold+Nobel+Prize&sa=X&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q1QJ6BAg_EAE",
+    "query": "AlphaFold Nobel Prize",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AlphaFold+Nobel+Prize"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&q=AlphaFold+3+paper&sa=X&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q1QJ6BAg8EAE",
+    "query": "AlphaFold 3 paper",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AlphaFold+3+paper"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntwiwVnpEPWvYFrgUjl_BNA8y9sUg:1789601044413&q=AlphaFold+1+paper&sa=X&ved=2ahUKEwjPsqq0n_SWAxU0kYkEHWZzCN0Q1QJ6BAg9EAE",
+    "query": "AlphaFold 1 paper",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AlphaFold+1+paper"
+   }
+  ],
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "What did the AlphaFold paper achieve?",
+   "time_taken_displayed": 0.2,
+   "total_results": 110
+  },
+  "search_metadata": {
+   "created_at": "2026-09-16 23:24:04 UTC",
+   "google_url": "https://www.google.com/search?q=What+did+the+AlphaFold+paper+achieve%3F&oq=What+did+the+AlphaFold+paper+achieve%3F&sourceid=chrome&ie=UTF-8",
+   "id": "6aab25144632b5dfd84cd53a",
+   "json_endpoint": "https://serpapi.com/searches/77tXnpvEJiCiQuCT8nGPon2k7aBr-bmKE6X7fn7AMwo/6aab25144632b5dfd84cd53a.json",
+   "markdown_endpoint": "https://serpapi.com/searches/77tXnpvEJiCiQuCT8nGPon2k7aBr-bmKE6X7fn7AMwo/6aab25144632b5dfd84cd53a.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/77tXnpvEJiCiQuCT8nGPon2k7aBr-bmKE6X7fn7AMwo/6aab25144632b5dfd84cd53a.json_with_pixel_position",
+   "processed_at": "2026-09-16 23:24:04 UTC",
+   "raw_html_file": "https://serpapi.com/searches/77tXnpvEJiCiQuCT8nGPon2k7aBr-bmKE6X7fn7AMwo/6aab25144632b5dfd84cd53a.html",
+   "status": "Success",
+   "total_time_taken": 0.41
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "What did the AlphaFold paper achieve?"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=90",
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+the+AlphaFold+paper+achieve%3F&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}
