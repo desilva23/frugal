@@ -12,10 +12,12 @@ explicit budget, it compiles a *search plan*: which of SerpApi's engines to
 call, in what order, with which query reformulations — then executes that plan,
 stopping early once additional searches stop adding evidence.
 
-The claim is that this reaches answers a single web search cannot, without
-spending much more to do it. That claim is measured rather than asserted, on a
-benchmark anyone can re-run from committed fixtures without an API key: see
-[Results](#results).
+The measured claim is narrower than the pitch: on the benchmark set, routing
+reaches the same answers as a fixed multi-engine strategy while issuing about
+15% fewer searches, and returns structured data where a web search returns prose.
+It is measured rather than asserted, and anyone can re-run it from committed
+fixtures without an API key — including the parts that did not go the way this
+project wanted. See [Results](#results).
 
 ## Why this exists
 
@@ -75,51 +77,67 @@ the stored record.
 ## Results
 
 Twelve questions with verifiable answers, scored on whether the retrieved
-evidence actually contains the answer — not on how many results came back.
-Scoring is exact string matching against marker terms, so there is no judge
-model and nothing to take on trust.
+evidence contains the answer. Scoring is exact string matching against marker
+terms, so there is no judge model and nothing to take on trust.
 
-| strategy | answered | recall | searches | searches/question |
-|---|---|---|---|---|
-| naive (one web search) | 10/12 | 83% | 12 | 1.0 |
-| **planned** | **12/12** | **100%** | **20** | **1.7** |
-
-The two the baseline misses are the two it cannot reach: a question about
-whether interest is rising over time, which needs demand data rather than links,
-and a question about who is hiring, which needs a jobs index. No number of web
-searches answers either.
+| strategy | answered | recall | searches/question |
+|---|---|---|---|
+| naive — one web search | 11/12 | 92% | 1.0 |
+| planned | 12/12 | 100% | 1.7 |
 
 ### Is the routing doing the work?
 
-The obvious objection to the table above is that any second engine might do as
-well, and the routing is decoration. That is worth answering with a control
-rather than an argument, so the benchmark runs fixed pairings: web search plus
-the *same* second engine for every question, whatever the question is about.
+The obvious objection is that any second engine would do as well and the routing
+is decoration. That deserves a control rather than an argument, so the benchmark
+runs fixed pairings: web search plus the *same* second engine for every question,
+whatever it is about.
 
 | configuration | answered | recall | searches/question |
 |---|---|---|---|
-| naive — web search only | 10/12 | 83% | 1.0 |
+| naive — web search only | 11/12 | 92% | 1.0 |
 | routed to one engine, no web search | 10/12 | 83% | 1.0 |
-| web + a fixed second engine (news) | 11/12 | 92% | 2.0 |
-| web + a fixed second engine (scholar) | 11/12 | 92% | 2.0 |
-| web + a fixed second engine (shopping) | 11/12 | 92% | 2.0 |
+| web + a fixed second engine (news) | 12/12 | 100% | 2.0 |
+| web + a fixed second engine (scholar) | 12/12 | 100% | 2.0 |
+| web + a fixed second engine (shopping) | 12/12 | 100% | 2.0 |
 | **web + the routed second engine** | **12/12** | **100%** | **1.7** |
 | routed to 3 engines | 12/12 | 100% | 2.0 |
 | routed to 3 engines, 2 rounds | 12/12 | 100% | 3.9 |
 
-All three fixed pairings miss the same single question, and it is the one that
-structurally requires a particular engine: whether interest in something is
-rising over time is answered by a demand series, and no quantity of news,
-scholarly or shopping results substitutes for one.
+**The fixed pairings reach 100% too.** Routing buys no additional recall here.
+What it buys is cost: identical answers for 1.7 searches per question against
+2.0, because on the questions where routing detects no signal it issues a single
+search while a fixed pairing always pays for a second engine that had nothing to
+add.
 
-So adding *a* second engine is worth nine points of recall. Adding the *right*
-one is worth seventeen, and costs less — 1.7 searches per question against 2.0 —
-because on the four questions where routing detects no signal it issues a single
-search, while a fixed pairing pays for a second engine that had nothing to add.
+So the claim this benchmark supports, stated as narrowly as the evidence allows:
 
-That is the whole claim, stated as narrowly as the evidence supports it: routing
-is not what adds the second engine, it is what decides which one and when not to
-bother.
+> Routing achieves the same recall as a fixed multi-engine strategy while
+> issuing about 15% fewer searches, by not adding an engine when the question
+> does not call for one.
+
+An earlier version of this file claimed 83% against 100%, and that number was
+wrong. The trend question required a `Series` object to count as answered, which
+made it arithmetically impossible for a web-search baseline to score on it — web
+search returns documents and never a series. The baseline's results plainly did
+answer the question, carrying headlines such as "Why India is Seeing EV Interest
+Rise". Removing that requirement moved the baseline from 10/12 to 11/12 and
+moved the fixed pairings from 11/12 to 12/12, which is most of what the earlier
+table was reporting.
+
+### Modality
+
+Recall is not the only thing that differs. Asked whether interest is rising,
+the baseline returns prose and the planner returns a 53-point series:
+
+| strategy | answered in the right modality | series returned |
+|---|---|---|
+| naive | 11/12 | 0 |
+| planned | 12/12 | 1 |
+
+Both answer the question. Only one can be plotted, compared across terms, or
+inspected for when the change happened. This is reported beside recall rather
+than folded into it, because folding it in is what produced the wrong number
+above.
 
 ### What depth buys
 
@@ -127,9 +145,25 @@ Nothing, on this question set. A third engine and a second round cost 2.2 more
 searches per question for identical answers. The defaults were 3 engines and 4
 rounds until this was measured; they are now 2 and 1.
 
-Twelve questions is a small set, and one whose answers are reasonably
-discoverable, so a harder set may well pay for depth — which is why rounds stay
-configurable and the stopping rule still governs them.
+### Limitations
+
+Worth reading before drawing conclusions from the tables above.
+
+- **Twelve questions is too few**, and one question separates the strategies. At
+  this size that is not a result.
+- **The set is too easy and has saturated.** Eleven of twelve fall to a single
+  web search, and every two-engine configuration reaches 100%, so the benchmark
+  can no longer distinguish routing from any-second-engine on quality at all.
+  Only the cost difference is still measurable.
+- **Routing is lexical**, so it inherits the failure modes of lexical matching:
+  "Steve Jobs biography" matches the employment signal, "where can I *work* as a
+  Python engineer" does not, and a negation reads as an endorsement.
+- **Deduplication compares URLs**, so one story syndicated across four outlets
+  counts as four pieces of evidence. Marginal novelty overstates how much a
+  batch actually added.
+- **Place detection uses a curated list** weighted towards India. An unlisted
+  town is not detected; the query still carries the name, so the engine is no
+  worse off than it would have been.
 
 ### Reproducing this
 
@@ -138,13 +172,14 @@ nothing:
 
 ```bash
 python -m frugal.benchmark --replay --cache benchmarks/fixtures
+python -m frugal.benchmark --replay --cache benchmarks/fixtures --ablate
 ```
 
-That should print the table above. The question set, including the reasoning
-behind each question, is in [benchmarks/questions.json](benchmarks/questions.json).
-Four of the twelve are ordinary factual questions that plain web search answers
-perfectly well; they are there because a set the planner wins outright would be
-a set chosen to make it win.
+The question set, including the reasoning behind each question, is in
+[benchmarks/questions.json](benchmarks/questions.json). Four of the twelve are
+ordinary factual questions that plain web search answers perfectly well; they
+are there because a set the planner wins outright would be a set chosen to make
+it win.
 
 ## Install
 

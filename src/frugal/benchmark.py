@@ -77,6 +77,20 @@ class Score:
     groups_total: int
     depth: int | None
     missing: tuple[str, ...]
+    #: Whether the evidence included a time series.
+    structured: bool = False
+    #: Whether the question is one a series answers better than prose.
+    wanted_structured: bool = False
+
+    @property
+    def answered_in_the_right_modality(self) -> bool:
+        """Answered with structured data where the question called for it.
+
+        Reported beside recall rather than inside it. "Interest rose 120%" in an
+        article and a 53-point series both answer the question; only one of them
+        can be plotted, compared, or checked for when the change happened.
+        """
+        return not self.wanted_structured or self.structured
 
     @property
     def completeness(self) -> float:
@@ -108,6 +122,8 @@ class QuestionOutcome:
             "found": self.score.found,
             "completeness": round(self.score.completeness, 3),
             "depth": self.score.depth,
+            "structured": self.score.structured,
+            "right_modality": self.score.answered_in_the_right_modality,
             "missing": list(self.score.missing),
             "searches": self.searches,
             "billed_this_run": self.billed_this_run,
@@ -193,12 +209,23 @@ def score_evidence(question: Question, evidence: Sequence[Evidence]) -> Score:
     outstanding group was satisfied, so depth reflects how far a reader would
     have had to go rather than merely whether the answer was present somewhere.
     """
+    # expects_series deliberately does NOT gate recall.
+    #
+    # It used to. Requiring an isinstance(item, Series) made it arithmetically
+    # impossible for a web-search baseline to answer the trend question, since
+    # web search returns documents and never a series -- and the baseline's
+    # results plainly did answer it, carrying headlines like "Why India is
+    # Seeing EV Interest Rise". Scoring that as a miss inflated the headline
+    # from a one-question gap to a two-question one, which is an engineered
+    # metric however sincerely it was arrived at.
+    #
+    # Whether a strategy reached structured data is still worth knowing, so it
+    # is reported alongside recall rather than folded into it.
     total = len(question.markers)
-    if question.expects_series:
-        total += 1
 
     satisfied: set[int] = set()
     depth: int | None = None
+    has_series = False
 
     for position, item in enumerate(evidence, start=1):
         text = searchable_text(item)
@@ -207,8 +234,8 @@ def score_evidence(question: Question, evidence: Sequence[Evidence]) -> Score:
             if index not in satisfied and any(alt in text for alt in group):
                 satisfied.add(index)
 
-        if question.expects_series and isinstance(item, Series):
-            satisfied.add(len(question.markers))
+        if isinstance(item, Series):
+            has_series = True
 
         if depth is None and len(satisfied) == total:
             depth = position
@@ -216,8 +243,6 @@ def score_evidence(question: Question, evidence: Sequence[Evidence]) -> Score:
     missing: list[str] = [
         " | ".join(group) for index, group in enumerate(question.markers) if index not in satisfied
     ]
-    if question.expects_series and len(question.markers) not in satisfied:
-        missing.append("<a time series>")
 
     return Score(
         found=len(satisfied) == total,
@@ -225,6 +250,8 @@ def score_evidence(question: Question, evidence: Sequence[Evidence]) -> Score:
         groups_total=total,
         depth=depth,
         missing=tuple(missing),
+        structured=has_series,
+        wanted_structured=question.expects_series,
     )
 
 

@@ -6,7 +6,7 @@
       "category": "scholarly",
       "completeness": 1.0,
       "depth": 3,
-      "elapsed_ms": 0.8,
+      "elapsed_ms": 1.0,
       "engines_used": [
         "google"
       ],
@@ -15,16 +15,18 @@
       "found": true,
       "missing": [],
       "question_id": "rag-paper",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "scholarly",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 2.1,
+      "elapsed_ms": 2.6,
       "engines_used": [
         "google_scholar",
         "google"
@@ -34,9 +36,11 @@
       "found": true,
       "missing": [],
       "question_id": "rag-paper",
+      "right_modality": true,
       "searches": 2,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
@@ -52,9 +56,11 @@
       "found": true,
       "missing": [],
       "question_id": "transformer-paper",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
       "billed_this_run": 0,
@@ -71,9 +77,11 @@
       "found": true,
       "missing": [],
       "question_id": "transformer-paper",
+      "right_modality": true,
       "searches": 2,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
@@ -89,16 +97,18 @@
       "found": true,
       "missing": [],
       "question_id": "llm-hallucination",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "scholarly",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 3.1,
+      "elapsed_ms": 1.2,
       "engines_used": [
         "google_scholar",
         "google"
@@ -108,9 +118,11 @@
       "found": true,
       "missing": [],
       "question_id": "llm-hallucination",
+      "right_modality": true,
       "searches": 2,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
@@ -126,16 +138,18 @@
       "found": true,
       "missing": [],
       "question_id": "perovskite-patents",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "patent",
       "completeness": 1.0,
       "depth": 11,
-      "elapsed_ms": 1.4,
+      "elapsed_ms": 1.5,
       "engines_used": [
         "google_patents",
         "google"
@@ -145,36 +159,38 @@
       "found": true,
       "missing": [],
       "question_id": "perovskite-patents",
+      "right_modality": true,
       "searches": 2,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
-    },
-    {
-      "billed_this_run": 0,
-      "category": "trend",
-      "completeness": 0.5,
-      "depth": null,
-      "elapsed_ms": 0.5,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 9,
-      "found": false,
-      "missing": [
-        "<a time series>"
-      ],
-      "question_id": "ev-india-trend",
-      "searches": 1,
-      "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "trend",
       "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 0.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "ev-india-trend",
+      "right_modality": false,
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 2,
+      "category": "trend",
+      "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.1,
+      "elapsed_ms": 7920.8,
       "engines_used": [
         "google_trends",
         "google"
@@ -184,16 +200,18 @@
       "found": true,
       "missing": [],
       "question_id": "ev-india-trend",
+      "right_modality": true,
       "searches": 2,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": true
     },
     {
       "billed_this_run": 0,
       "category": "employment",
       "completeness": 0.5,
       "depth": null,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 2.2,
       "engines_used": [
         "google"
       ],
@@ -204,16 +222,18 @@
         "python"
       ],
       "question_id": "python-jobs-chennai",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
-      "billed_this_run": 0,
+      "billed_this_run": 2,
       "category": "employment",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.4,
+      "elapsed_ms": 9838.9,
       "engines_used": [
         "google_jobs",
         "google"
@@ -223,16 +243,18 @@
       "found": true,
       "missing": [],
       "question_id": "python-jobs-chennai",
+      "right_modality": true,
       "searches": 2,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "commerce",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 1.8,
       "engines_used": [
         "google"
       ],
@@ -241,16 +263,18 @@
       "found": true,
       "missing": [],
       "question_id": "earbuds-under-3000",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
-      "billed_this_run": 0,
+      "billed_this_run": 1,
       "category": "commerce",
       "completeness": 1.0,
-      "depth": 2,
-      "elapsed_ms": 45.9,
+      "depth": 1,
+      "elapsed_ms": 15213.3,
       "engines_used": [
         "google_shopping",
         "google"
@@ -262,16 +286,18 @@
       "found": true,
       "missing": [],
       "question_id": "earbuds-under-3000",
+      "right_modality": true,
       "searches": 2,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "recency",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 1.2,
       "engines_used": [
         "google"
       ],
@@ -280,16 +306,18 @@
       "found": true,
       "missing": [],
       "question_id": "railway-electrification",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "recency",
       "completeness": 1.0,
       "depth": 7,
-      "elapsed_ms": 1.9,
+      "elapsed_ms": 2.9,
       "engines_used": [
         "google_news",
         "google"
@@ -299,16 +327,18 @@
       "found": true,
       "missing": [],
       "question_id": "railway-electrification",
+      "right_modality": true,
       "searches": 2,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "local",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 0.9,
       "engines_used": [
         "google"
       ],
@@ -317,16 +347,18 @@
       "found": true,
       "missing": [],
       "question_id": "iitm-location",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "local",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.8,
+      "elapsed_ms": 1.3,
       "engines_used": [
         "google"
       ],
@@ -335,16 +367,18 @@
       "found": true,
       "missing": [],
       "question_id": "iitm-location",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "simple",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.5,
+      "elapsed_ms": 0.8,
       "engines_used": [
         "google"
       ],
@@ -353,16 +387,18 @@
       "found": true,
       "missing": [],
       "question_id": "karnataka-capital",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
-      "billed_this_run": 0,
+      "billed_this_run": 1,
       "category": "simple",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.7,
+      "elapsed_ms": 1184.2,
       "engines_used": [
         "google"
       ],
@@ -371,16 +407,18 @@
       "found": true,
       "missing": [],
       "question_id": "karnataka-capital",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "simple",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 1.5,
       "engines_used": [
         "google"
       ],
@@ -389,16 +427,18 @@
       "found": true,
       "missing": [],
       "question_id": "photosynthesis",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "simple",
       "completeness": 1.0,
       "depth": 3,
-      "elapsed_ms": 0.8,
+      "elapsed_ms": 2.1,
       "engines_used": [
         "google"
       ],
@@ -407,16 +447,18 @@
       "found": true,
       "missing": [],
       "question_id": "photosynthesis",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     },
     {
       "billed_this_run": 0,
       "category": "simple",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.5,
+      "elapsed_ms": 1.0,
       "engines_used": [
         "google"
       ],
@@ -425,16 +467,18 @@
       "found": true,
       "missing": [],
       "question_id": "monsoon-kerala",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "baseline: a single search",
-      "strategy": "naive"
+      "strategy": "naive",
+      "structured": false
     },
     {
-      "billed_this_run": 0,
+      "billed_this_run": 1,
       "category": "simple",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.8,
+      "elapsed_ms": 1025.9,
       "engines_used": [
         "google"
       ],
@@ -443,20 +487,22 @@
       "found": true,
       "missing": [],
       "question_id": "monsoon-kerala",
+      "right_modality": true,
       "searches": 1,
       "stopped_because": "completed the plan",
-      "strategy": "planned"
+      "strategy": "planned",
+      "structured": false
     }
   ],
   "questions": 12,
-  "searches_billed_this_run": 0,
+  "searches_billed_this_run": 7,
   "summaries": {
     "naive": {
-      "answered": 10,
-      "answers_per_search": 0.8333,
+      "answered": 11,
+      "answers_per_search": 0.9167,
       "median_depth": 1.0,
       "questions": 12,
-      "recall": 0.8333,
+      "recall": 0.9167,
       "searches": 12,
       "searches_per_question": 1.0,
       "strategy": "naive"

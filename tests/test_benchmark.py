@@ -130,25 +130,45 @@ def series(name: str) -> Series:
     return Series(name=name, points=points, provenance=Provenance("google_trends", "q", 1, NOW))
 
 
-def test_a_question_needing_a_series_is_not_answered_by_documents() -> None:
-    """No number of links establishes a direction of change over time."""
+def test_prose_can_answer_a_question_a_series_answers_better() -> None:
+    """The correction to an engineered metric.
+
+    Requiring a Series to count made it arithmetically impossible for a
+    web-search baseline to score on the trend question, since web search returns
+    documents and never a series. Its results plainly did answer it, carrying
+    headlines like "Why India is Seeing EV Interest Rise". Modality is now
+    reported beside recall instead of gating it.
+    """
     q = question([["electric vehicles"]], expects_series=True)
-    assert not score_evidence(q, [doc("electric vehicles are popular")]).found
+    score = score_evidence(q, [doc("electric vehicles interest is rising")])
+    assert score.found
+    assert not score.answered_in_the_right_modality
 
 
 def test_a_series_satisfies_a_question_that_needs_one() -> None:
     q = question([["electric vehicles"]], expects_series=True)
-    assert score_evidence(q, [series("electric vehicles")]).found
+    score = score_evidence(q, [series("electric vehicles")])
+    assert score.found
+    assert score.structured
 
 
 def test_a_series_contributes_its_summary_text() -> None:
     assert "observations" in searchable_text(series("term"))
 
 
-def test_missing_series_is_named_in_the_report() -> None:
+def test_modality_is_reported_separately_from_recall() -> None:
     q = question([["electric vehicles"]], expects_series=True)
-    score = score_evidence(q, [doc("electric vehicles")])
-    assert "<a time series>" in score.missing
+    prose = score_evidence(q, [doc("electric vehicles")])
+    structured = score_evidence(q, [series("electric vehicles")])
+
+    assert prose.found and structured.found
+    assert not prose.answered_in_the_right_modality
+    assert structured.answered_in_the_right_modality
+
+
+def test_a_question_not_wanting_a_series_is_always_in_the_right_modality() -> None:
+    score = score_evidence(question([["bengaluru"]]), [doc("Bengaluru")])
+    assert score.answered_in_the_right_modality
 
 
 # --------------------------------------------------------------------------

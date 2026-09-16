@@ -27,12 +27,14 @@ from __future__ import annotations
 import time
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field
+from datetime import UTC, datetime
 from typing import Any
 
 from frugal.adapters import normalise
 from frugal.budget import BudgetGovernor, Projection, SpendListener
 from frugal.client import SerpApiClient
 from frugal.errors import BudgetExceeded, FrugalError
+from frugal.parameters import Locale, build_params, detect_locale, wants_recent
 from frugal.reformulate import reformulate
 from frugal.router import RoutingDecision, route
 from frugal.saturation import (
@@ -92,9 +94,18 @@ class PlanStep:
     cost: int
     round_number: int
     rationale: str
+    #: The full request, built for this engine. Carried on the step so a plan can
+    #: be inspected before it is paid for -- a missing geo is visible here rather
+    #: than only in the results it quietly got wrong.
+    params: dict[str, Any] = field(default_factory=dict)
 
     def describe(self) -> str:
-        return f'round {self.round_number}: {self.engine} <- "{self.query}" ({self.strategy})'
+        extra = {k: v for k, v in self.params.items() if k not in {"q", "num"}}
+        detail = f" {extra}" if extra else ""
+        return (
+            f'round {self.round_number}: {self.engine} <- "{self.query}" '
+            f"({self.strategy}){detail}"
+        )
 
 
 @dataclass(frozen=True, slots=True)
@@ -272,6 +283,10 @@ class Planner:
 
     # -- planning, which costs nothing -------------------------------------
 
+    def locale_for(self, question: str) -> Locale | None:
+        """The place a question is about, detected once per plan."""
+        return detect_locale(question)
+
     def plan(self, question: str) -> list[PlanStep]:
         """Enumerate every step this question could require.
 
@@ -282,6 +297,13 @@ class Planner:
         would genuinely issue it — a plan that runs out of distinct queries
         stops here too.
         """
+        # Detected from the question rather than from a reformulated query: a
+        # variant may have dropped the place name that identifies the locale,
+        # and the plan still needs to know where the question is about.
+        locale = self.locale_for(question)
+        recent = wants_recent(question)
+        year = datetime.now(UTC).year
+
         if self.force_engines is not None:
             decisions = [
                 RoutingDecision(engine=name, score=0.0, cost=1, reasons=("fixed",))
@@ -312,6 +334,14 @@ class Planner:
                         cost=decision.cost,
                         round_number=round_number,
                         rationale=variant.rationale,
+                        params=build_params(
+                            decision.engine,
+                            variant.query,
+                            locale=locale,
+                            results=self.results_per_search,
+                            recent=recent,
+                            current_year=year,
+                        ),
                     )
                 )
                 issued[decision.engine] += (variant.query,)
@@ -419,7 +449,7 @@ class Planner:
     ) -> tuple[ExecutedStep, list[Evidence], bool]:
         """Run one step, charging the budget only for what SerpApi billed."""
         started = time.perf_counter()
-        params: dict[str, Any] = {"q": step.query, "num": self.results_per_search}
+        params = dict(step.params)
 
         # Establish that the search is free before reserving for it. Reserving
         # first means an exhausted budget can refuse a cache hit that would have
@@ -540,6 +570,11 @@ def naive_run(
         cost=1,
         round_number=1,
         rationale="baseline: the question as asked, sent to web search",
+        # Deliberately unparameterised beyond page size. Adding geo or location
+        # here would be crediting the baseline with the engine knowledge the
+        # planner exists to supply, and the comparison would stop meaning
+        # anything.
+        params={"q": question.strip(), "num": results},
     )
 
     evidence: list[Evidence] = []
