@@ -89,33 +89,47 @@ whether interest is rising over time, which needs demand data rather than links,
 and a question about who is hiring, which needs a jobs index. No number of web
 searches answers either.
 
-### What each additional search buys
+### Is the routing doing the work?
+
+The obvious objection to the table above is that any second engine might do as
+well, and the routing is decoration. That is worth answering with a control
+rather than an argument, so the benchmark runs fixed pairings: web search plus
+the *same* second engine for every question, whatever the question is about.
 
 | configuration | answered | recall | searches/question |
 |---|---|---|---|
 | naive — web search only | 10/12 | 83% | 1.0 |
-| routed to 1 engine | 10/12 | 83% | 1.0 |
-| **routed to 2 engines** | **12/12** | **100%** | **1.7** |
+| routed to one engine, no web search | 10/12 | 83% | 1.0 |
+| web + a fixed second engine (news) | 11/12 | 92% | 2.0 |
+| web + a fixed second engine (scholar) | 11/12 | 92% | 2.0 |
+| web + a fixed second engine (shopping) | 11/12 | 92% | 2.0 |
+| **web + the routed second engine** | **12/12** | **100%** | **1.7** |
 | routed to 3 engines | 12/12 | 100% | 2.0 |
-| 3 engines, 2 rounds | 12/12 | 100% | 3.9 |
+| routed to 3 engines, 2 rounds | 12/12 | 100% | 3.9 |
 
-Two findings worth stating plainly, because both constrain the claim.
+All three fixed pairings miss the same single question, and it is the one that
+structurally requires a particular engine: whether interest in something is
+rising over time is answered by a demand series, and no quantity of news,
+scholarly or shopping results substitutes for one.
 
-**Routing to one engine is no better than web search.** It scores identically —
-it simply misses different questions. Web search alone misses the trend and jobs
-questions; the specialised engine alone misses a patents question and a shopping
-question that web search handles. Neither index covers everything, and the
-pairing is what reaches 100%.
+So adding *a* second engine is worth nine points of recall. Adding the *right*
+one is worth seventeen, and costs less — 1.7 searches per question against 2.0 —
+because on the four questions where routing detects no signal it issues a single
+search, while a fixed pairing pays for a second engine that had nothing to add.
 
-**Depth bought nothing.** A third engine and a second round cost 2.2 more
+That is the whole claim, stated as narrowly as the evidence supports it: routing
+is not what adds the second engine, it is what decides which one and when not to
+bother.
+
+### What depth buys
+
+Nothing, on this question set. A third engine and a second round cost 2.2 more
 searches per question for identical answers. The defaults were 3 engines and 4
-rounds until this was measured; they are now 2 and 1. Twelve questions is a
-small set, and one whose answers are reasonably discoverable, so a harder set
-may well pay for depth — which is why rounds stay configurable and the stopping
-rule still governs them.
+rounds until this was measured; they are now 2 and 1.
 
-Questions that route nowhere in particular cost one search, the same as the
-baseline. The planner does not spend more when there is nothing to gain.
+Twelve questions is a small set, and one whose answers are reasonably
+discoverable, so a harder set may well pay for depth — which is why rounds stay
+configurable and the stopping rule still governs them.
 
 ### Reproducing this
 

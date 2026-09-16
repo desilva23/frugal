@@ -363,6 +363,17 @@ ABLATIONS: tuple[tuple[str, int, int], ...] = (
     ("routed-3x2", 3, 2),
 )
 
+#: Fixed pairings: web search plus the same second engine for every question,
+#: whatever the question is about. These cost exactly what routed-2x1 costs, so
+#: they answer the only question that matters about the routing -- whether it is
+#: doing the work, or whether any second engine would serve as well. If a fixed
+#: pairing matched routed-2x1, the router would be decoration.
+FIXED_PAIRINGS: tuple[tuple[str, tuple[str, ...]], ...] = (
+    ("fixed-news", ("google", "google_news")),
+    ("fixed-scholar", ("google", "google_scholar")),
+    ("fixed-shopping", ("google", "google_shopping")),
+)
+
 
 def run_ablation(
     client: SerpApiClient,
@@ -384,6 +395,20 @@ def run_ablation(
         _outcome(q, "naive", naive_run(client, q.question)) for q in questions
     ]
     summaries.update(summarise(baseline))
+
+    for name, forced in FIXED_PAIRINGS:
+        fixed_outcomes: list[QuestionOutcome] = []
+        planner = Planner(client, max_engines=2, max_rounds=1, force_engines=forced)
+        for question in questions:
+            try:
+                result = planner.run(question.question, budget=budget)
+            except FrugalError:
+                continue
+            fixed_outcomes.append(_outcome(question, name, result))
+        summaries.update(summarise(fixed_outcomes))
+        if verbose:
+            s = summaries[name]
+            print(f"  {name:<16} {s.answered}/{s.questions} answered, {s.searches} searches")
 
     for name, engines, rounds in ABLATIONS:
         outcomes: list[QuestionOutcome] = []
@@ -412,7 +437,7 @@ def render_ablation(summaries: dict[str, StrategySummary]) -> str:
         "| answers/search |\n|---|---|---|---|---|---|"
     )
     rows = []
-    for name in ("naive", *(a[0] for a in ABLATIONS)):
+    for name in ("naive", *(f[0] for f in FIXED_PAIRINGS), *(a[0] for a in ABLATIONS)):
         summary = summaries.get(name)
         if summary is None:
             continue

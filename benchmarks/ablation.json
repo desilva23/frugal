@@ -1,5 +1,35 @@
 {
   "ablation": {
+    "fixed-news": {
+      "answered": 11,
+      "answers_per_search": 0.4583,
+      "median_depth": 1.0,
+      "questions": 12,
+      "recall": 0.9167,
+      "searches": 24,
+      "searches_per_question": 2.0,
+      "strategy": "fixed-news"
+    },
+    "fixed-scholar": {
+      "answered": 11,
+      "answers_per_search": 0.4583,
+      "median_depth": 1.0,
+      "questions": 12,
+      "recall": 0.9167,
+      "searches": 24,
+      "searches_per_question": 2.0,
+      "strategy": "fixed-scholar"
+    },
+    "fixed-shopping": {
+      "answered": 11,
+      "answers_per_search": 0.4583,
+      "median_depth": 1.0,
+      "questions": 12,
+      "recall": 0.9167,
+      "searches": 24,
+      "searches_per_question": 2.0,
+      "strategy": "fixed-shopping"
+    },
     "naive": {
       "answered": 10,
       "answers_per_search": 0.8333,

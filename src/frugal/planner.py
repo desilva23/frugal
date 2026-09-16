@@ -34,7 +34,7 @@ from frugal.budget import BudgetGovernor, Projection, SpendListener
 from frugal.client import SerpApiClient
 from frugal.errors import BudgetExceeded, FrugalError
 from frugal.reformulate import reformulate
-from frugal.router import route
+from frugal.router import RoutingDecision, route
 from frugal.saturation import (
     DEFAULT_PATIENCE,
     DEFAULT_THRESHOLD,
@@ -247,6 +247,7 @@ class Planner:
         results_per_search: int = DEFAULT_RESULTS_PER_SEARCH,
         saturation_threshold: float | None = None,
         saturation_patience: int | None = None,
+        force_engines: tuple[str, ...] | None = None,
     ) -> None:
         if max_engines < 1:
             raise ValueError(f"max_engines must be at least 1, got {max_engines}")
@@ -256,6 +257,10 @@ class Planner:
             raise ValueError(f"concurrency must be at least 1, got {concurrency}")
 
         self.client = client
+        # An experimental control, not a feature: fixing the engines bypasses
+        # routing entirely, which is how the benchmark measures whether routing
+        # is doing the work or whether any second engine would serve as well.
+        self.force_engines = force_engines
         self.max_engines = max_engines
         self.max_rounds = max_rounds
         self.concurrency = concurrency
@@ -277,7 +282,13 @@ class Planner:
         would genuinely issue it — a plan that runs out of distinct queries
         stops here too.
         """
-        decisions = route(question, limit=self.max_engines)
+        if self.force_engines is not None:
+            decisions = [
+                RoutingDecision(engine=name, score=0.0, cost=1, reasons=("fixed",))
+                for name in self.force_engines[: self.max_engines]
+            ]
+        else:
+            decisions = route(question, limit=self.max_engines)
         issued: dict[str, tuple[str, ...]] = {d.engine: () for d in decisions}
         steps: list[PlanStep] = []
 
