@@ -54,6 +54,10 @@ _STOPWORDS = frozenset(
 _FRAMING_WORDS = frozenset(
     {
         "interest", "popularity", "demand", "trend", "trends", "trending",
+        # "search interest in X" is a question about X. Left in, the term
+        # query becomes "search electric vehicles", which trends has no data
+        # for -- a wasted search returning a flat line of zeros.
+        "search", "searches", "searching",
         "growing", "growth", "rising", "falling", "declining", "decline",
         "compared", "versus", "vs", "difference", "best", "good", "better",
         "worth", "should", "people", "someone", "things", "stuff", "way", "ways",

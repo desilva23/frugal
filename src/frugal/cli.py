@@ -34,6 +34,12 @@ from frugal.errors import FrugalError
 from frugal.planner import DEFAULT_BUDGET, DEFAULT_MAX_ENGINES, Planner, PlanResult
 from frugal.router import route
 from frugal.schema import Document, Series
+from frugal.synthesis import (
+    DEFAULT_MODEL,
+    Answer,
+    Synthesiser,
+    SynthesisUnavailable,
+)
 
 DEFAULT_CACHE_DIR = ".frugal-cache"
 
@@ -141,6 +147,28 @@ def _summary(result: PlanResult) -> Text:
     return parts
 
 
+def _answer_panel(answer: Answer) -> Panel:
+    body: list[Text | str] = [Text(answer.text)]
+
+    if answer.citations:
+        body.append("")
+        for citation in answer.citations:
+            body.append(Text(f"  {citation.describe()}", style="dim"))
+    else:
+        # An uncited answer is either a refusal, which is fine, or an answer
+        # from the model's own memory, which is not. Either way, say so.
+        body.append("")
+        body.append(Text("  (no citations — not grounded in the evidence)", style="yellow"))
+
+    return Panel(
+        Group(*body),
+        title=f"[bold]Answer[/bold] [dim]{answer.model}[/dim]",
+        title_align="left",
+        border_style="green",
+        padding=(1, 2),
+    )
+
+
 def ask(
     question: str,
     *,
@@ -150,6 +178,8 @@ def ask(
     engines: int | None,
     show: int,
     console: Console,
+    synthesise: bool = False,
+    model: str = DEFAULT_MODEL,
 ) -> int:
     """Run a question and show the plan, the spend and the evidence."""
     mode = CacheMode.REPLAY if replay else CacheMode.AUTO
@@ -212,6 +242,23 @@ def ask(
             Text("\nno evidence retrieved — every step failed", style="bold red")
         )
         return 1
+
+    if synthesise:
+        console.print()
+        try:
+            with (
+                console.status("[green]writing the answer…", spinner="dots"),
+                Synthesiser(model=model) as synthesiser,
+            ):
+                answer = synthesiser.answer(question, result.evidence)
+        except SynthesisUnavailable as exc:
+            console.print(Text(str(exc), style="yellow"))
+        except FrugalError as exc:
+            # Retrieval succeeded; only the write-up failed. Show the evidence
+            # rather than discarding a plan that was already paid for.
+            console.print(Text(f"answer unavailable: {exc}", style="yellow"))
+        else:
+            console.print(_answer_panel(answer))
 
     console.print("\n[bold]Evidence[/bold]")
     console.print(_evidence_panel(result, show))
@@ -288,6 +335,14 @@ def _build_parser() -> argparse.ArgumentParser:
                 help="serve only from cache; spends nothing and fails on a miss",
             )
             sub.add_argument("--show", type=int, default=8, help="results to display")
+            sub.add_argument(
+                "--answer",
+                action="store_true",
+                help="write an answer from the evidence (needs GROQ_API_KEY)",
+            )
+            sub.add_argument(
+                "--model", default=DEFAULT_MODEL, help="model to write the answer with"
+            )
 
     return parser
 
@@ -316,6 +371,8 @@ def main(argv: Sequence[str] | None = None) -> int:
             engines=args.engines,
             show=args.show,
             console=console,
+            synthesise=args.answer,
+            model=args.model,
         )
     return 1  # pragma: no cover - argparse rejects unknown commands first
 

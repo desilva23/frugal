@@ -21,6 +21,11 @@ from pathlib import Path
 from frugal.errors import MissingAPIKey
 
 ENV_VAR = "SERPAPI_API_KEY"
+
+#: Answer synthesis is optional, so this key is too. Nothing in the benchmark
+#: reads it.
+SYNTHESIS_ENV_VAR = "GROQ_API_KEY"
+
 DOTENV_NAME = ".env"
 
 #: How far up the tree to look for a .env before giving up. Deep enough to find
@@ -113,17 +118,18 @@ def load_dotenv(path: str | os.PathLike[str] | None = None) -> dict[str, str]:
         return {}
 
 
-def resolve_api_key(
+def resolve_key(
+    variable: str,
     explicit: str | None = None,
     *,
     env: dict[str, str] | None = None,
     dotenv_path: str | os.PathLike[str] | None = None,
 ) -> str:
-    """Return the SerpApi key, or raise :class:`MissingAPIKey` explaining how to set one.
+    """Return the value of ``variable``, or raise explaining how to set it.
 
     A key that is present but blank counts as absent. Someone who has created a
     ``.env`` and left the placeholder in place has not configured anything, and
-    telling them the key is missing is more useful than letting SerpApi reject
+    telling them the key is missing is more useful than letting the API reject
     it later with a 401.
     """
     environment = os.environ if env is None else env
@@ -131,17 +137,27 @@ def resolve_api_key(
     if explicit and explicit.strip():
         return explicit.strip()
 
-    from_env = environment.get(ENV_VAR, "")
+    from_env = environment.get(variable, "")
     if from_env.strip() and not _is_placeholder(from_env):
         return from_env.strip()
 
     dotenv = Path(dotenv_path) if dotenv_path is not None else find_dotenv()
-    from_file = load_dotenv(dotenv).get(ENV_VAR, "")
+    from_file = load_dotenv(dotenv).get(variable, "")
     if from_file.strip() and not _is_placeholder(from_file):
         return from_file.strip()
 
-    searched = [f"${ENV_VAR}", str(dotenv) if dotenv else f"{DOTENV_NAME} (not found)"]
+    searched = [f"${variable}", str(dotenv) if dotenv else f"{DOTENV_NAME} (not found)"]
     raise MissingAPIKey(searched)
+
+
+def resolve_api_key(
+    explicit: str | None = None,
+    *,
+    env: dict[str, str] | None = None,
+    dotenv_path: str | os.PathLike[str] | None = None,
+) -> str:
+    """Return the SerpApi key, or raise :class:`MissingAPIKey`."""
+    return resolve_key(ENV_VAR, explicit, env=env, dotenv_path=dotenv_path)
 
 
 def _is_placeholder(value: str) -> bool:

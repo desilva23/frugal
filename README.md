@@ -212,6 +212,30 @@ governor, and the saturation line is the stopping rule explaining itself.
 Add `--replay --cache benchmarks/fixtures` to run either command against the
 committed fixtures, with no API key and no spend.
 
+### Answering, rather than retrieving
+
+```bash
+frugal ask "..." --answer
+```
+
+Writes an answer from the evidence, citing it by number. This needs a
+`GROQ_API_KEY` in your `.env` — a free one is at
+[console.groq.com/keys](https://console.groq.com/keys) — and everything else
+works without it.
+
+It sits deliberately outside everything the benchmark measures. Routing,
+reformulation, budgeting and the stopping rule are all deterministic so that the
+result table reproduces without a key or a model, and a model anywhere in that
+path would destroy the property. Synthesis runs after the plan has finished,
+reads only what the plan retrieved, and changes no number in the results table.
+
+Three things are enforced rather than requested. The model sees only the
+retrieved evidence, so an answer invented from memory has nothing to cite.
+Citations are checked against the evidence actually supplied, and invented ones
+are stripped rather than shown as references a reader cannot follow. And an
+answer that cites nothing is labelled as ungrounded, because an uncited answer
+is either a refusal — which is fine — or the model's own memory, which is not.
+
 ## Install
 
 Requires Python 3.11 or newer.
