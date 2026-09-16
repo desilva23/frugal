@@ -1,0 +1,559 @@
+{
+ "elapsed_ms": 1015.863,
+ "engine": "google",
+ "fetched_at": "2026-09-16T20:42:09.913832+00:00",
+ "frugal_cache_version": 1,
+ "key": "0c9f0d77b47d3b00dfc25302aa4144082b1b0937ae8aabbac8870efeca1f91b3",
+ "params": {
+  "num": 10,
+  "q": "retrieval augmented generation"
+ },
+ "response": {
+  "ai_overview": {
+   "references": [
+    {
+     "index": 0,
+     "link": "https://www.databricks.com/blog/what-is-retrieval-augmented-generation",
+     "source": "databricks.com"
+    },
+    {
+     "index": 1,
+     "link": "https://cloud.google.com/use-cases/retrieval-augmented-generation",
+     "snippet": "How does Retrieval-Augmented Generation work? RAGs operate with a few main steps to help enhance generative AI outputs: Retrieval and pre-processing: RAGs leverage...",
+     "source": "cloud.google.com",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cloud.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcXboeRKw1pPX58hVNUoZaqQD5V_qNheGB9f71BpHxl5HtWlimKOXWQR-3fhVGyURKHTjOz51sIze1Dy_jHiqiqDKRVoP21a-7QO-f",
+     "title": "What is Retrieval-Augmented Generation (RAG)? - Google Cloud"
+    },
+    {
+     "index": 2,
+     "link": "https://developer.nvidia.com/blog/rag-101-demystifying-retrieval-augmented-generation-pipelines/",
+     "source": "developer.nvidia.com"
+    },
+    {
+     "index": 3,
+     "link": "https://www.youtube.com/watch?v=xPMQ2cVbUTI",
+     "source": "youtube.com"
+    },
+    {
+     "index": 4,
+     "link": "https://medium.com/@tejpal.abhyuday/retrieval-augmented-generation-rag-from-basics-to-advanced-a2b068fd576c",
+     "source": "medium.com"
+    },
+    {
+     "index": 5,
+     "link": "https://www.pinecone.io/learn/retrieval-augmented-generation/",
+     "source": "pinecone.io"
+    },
+    {
+     "index": 6,
+     "link": "https://aws.amazon.com/what-is/retrieval-augmented-generation/",
+     "source": "aws.amazon.com"
+    },
+    {
+     "index": 7,
+     "link": "https://www.youtube.com/shorts/qjWD3oowB4s",
+     "source": "youtube.com"
+    },
+    {
+     "index": 8,
+     "link": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+     "source": "en.wikipedia.org"
+    },
+    {
+     "index": 9,
+     "link": "https://www.ibm.com/think/topics/retrieval-augmented-generation",
+     "source": "ibm.com"
+    },
+    {
+     "index": 10,
+     "link": "https://www.youtube.com/watch?v=KNvkUH50xXM",
+     "source": "youtube.com"
+    },
+    {
+     "index": 11,
+     "link": "https://www.databricks.com/blog/what-is-retrieval-augmented-generation",
+     "snippet": "What is Retrieval Augmented Generation (RAG)? Technique enhancing LLM responses by retrieving relevant info from external knowledge bases before generation, ground...",
+     "source": "Databricks",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.databricks.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMv4NLR1UNdY7IyCVdlldcmnVsJaYeLWNbQj-OnH37iLaqxYn94V8-oUBnm7FtIU988Eaq1HZ3xUFXp4qUjAOJRamcbiRyBm38yfo",
+     "title": "What is Retrieval Augmented Generation (RAG)? - Databricks"
+    }
+   ],
+   "text_blocks": [
+    {
+     "reference_indexes": [
+      1
+     ],
+     "snippet": "Retrieval-Augmented Generation (RAG) is a technique that improves large language model (LLM) responses by fetching relevant facts from an external knowledge base before generating an answer.",
+     "snippet_highlighted_words": [
+      "a technique that improves large language model (LLM) responses by fetching relevant facts from an external knowledge base before generating an answer"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "How RAG Works",
+     "type": "heading"
+    },
+    {
+     "list": [
+      {
+       "snippet": "Ingestion: Documents, databases, or web pages are split into smaller text chunks and stored as vector embeddings in a vector database."
+      },
+      {
+       "snippet": "Retrieval: When you type a query, the system searches the database for text passages that match the meaning of your question."
+      },
+      {
+       "snippet": "Augmentation: The system combines your original query with the retrieved text facts to create an enriched context prompt."
+      },
+      {
+       "snippet": "Generation: The language model reads the augmented prompt and writes a grounded, accurate response."
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "Benefits of RAG",
+     "type": "heading"
+    },
+    {
+     "list": [
+      {
+       "snippet": "Reduces Hallucinations: Grounds the AI in real facts instead of guessing."
+      },
+      {
+       "snippet": "Saves Money: Avoids the high computational cost of retraining or fine-tuning an entire model."
+      },
+      {
+       "snippet": "Uses Private Data: Connects public models to private company documents or recent files without exposing the data."
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "You can read more detailed overviews on Wikipedia or explore community guides like this Medium RAG Guide.",
+     "snippet_links": [
+      {
+       "link": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+       "text": "Wikipedia"
+      },
+      {
+       "link": "https://medium.com/@tejpal.abhyuday/retrieval-augmented-generation-rag-from-basics-to-advanced-a2b068fd576c",
+       "text": "Medium RAG Guide"
+      }
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "If you want, let me know:",
+     "type": "paragraph"
+    },
+    {
+     "list": [
+      {
+       "snippet": "Are you trying to build a RAG system?"
+      },
+      {
+       "snippet": "Do you want to know about specific tools like vector databases or frameworks?"
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "I can provide a step-by-step guide or recommendations.",
+     "type": "paragraph"
+    }
+   ]
+  },
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Retrieval-Augmented Generation (RAG) is the process of optimizing the output of a large language model, so it references an authoritative knowledge base outside",
+      "icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglnAASZrzWMzHyr6Ie-V_oAHZre0RDxnNWESWhFPFinsgAA_uvLLjnB61DfwquR6bDznEX76BwbDsq33n-ADYXFCHbpv8ePq3zGHFi4Ep1sQz7y9NnxgCqAPMQyI02gJ71in6T24HDbhFtnb-IhRLgv_HP-_oxuqplX9O3CyxXgPQp_X8mRPLA396eYAh7eFs_Ex9R751UEATXhMv-O_b_Yt7Bni1RNqmiTbk0AD5df3r-_lxHJCWDuArZMd57hNm5MEAAA.webp",
+      "source_info_link": "https://aws.amazon.com/what-is/retrieval-augmented-generation/"
+     }
+    },
+    "displayed_link": "https://aws.amazon.com › what-is",
+    "favicon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglnAASZrzWMzHyr6Ie-V_oAHZre0RDxnNWESWhFPFinsgAA_uvLLjnB61DfwquR6bDznEX76BwbDsq33n-ADYXFCHbpv8ePq3zGHFi4Ep1sQz7y9NnxgCqAPMQyI02gJ71in6T24HDbhFtnb-IhRLgv_HP-_oxuqplX9O3CyxXgPQp_X8mRPLA396eYAh7eFs_Ex9R751UEATXhMv-O_b_Yt7Bni1RNqmiTbk0AD5df3r-_lxHJCWDuArZMd57hNm5MEAAA.webp",
+    "link": "https://aws.amazon.com/what-is/retrieval-augmented-generation/",
+    "position": 1,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVtv5wug7Bcp4ygwjMfvyWem9HhPQiKzRHt_YPHz1Y24M7wbscBzYbEC2XhLLBkK9fpZVW7QSMwV__6unjD4lbSLBQZsAo8AQ14Znxefw8RfT-FbSi4eJbym1eB7-GeP1vUMKHfr_EELzkRds6Qm6HWXE&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQFnoECCwQAQ&uoh=1",
+    "snippet": "Retrieval-Augmented Generation (RAG) is the process of optimizing the output of a large language model, so it references an authoritative knowledge base outside",
+    "snippet_highlighted_words": [
+     "Retrieval-Augmented Generation (RAG"
+    ],
+    "source": "Amazon Web Services (AWS)",
+    "title": "What is RAG? - Retrieval-Augmented Generation AI ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Retrieval augmented generation (RAG) is an architecture for optimizing the performance of an artificial intelligence (AI) model",
+      "icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAABwBgCdASocABwAPtFAtFooIqgoFAEAGglnAM-navnqf90bwMX6zzhhDxXL_N-Jll6piIOgkhkkd69zwgAA_vzXo6y1jw_nlGY4Ia9IhnUjhIMkZuMX2CiBvbAj_R61IxRWAUXY70qugVo_1k8UWxVcsgnHxeg4aLpanv4XwjytKrzT-Qr5QaHv9Vs2QSMzUlHzKlgqwq-ygkkJ3mp2dGg8lJDNum301Kydsscc0Qe10z7--UepeShWfuLSlM2EzjIjcJsfeD_tTKD_yzsBfGdq8yahjU1gPx-6CSvPSHxlFC1WsT9trNKzaQUjtecbPLaCiAEPVGy7Sye4JicBE2b4IlWD2krdHqHXr-WMraVvzxhBXAAAAA.webp",
+      "source_info_link": "https://www.ibm.com/think/topics/retrieval-augmented-generation"
+     }
+    },
+    "displayed_link": "https://www.ibm.com › think › topics",
+    "favicon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAABwBgCdASocABwAPtFAtFooIqgoFAEAGglnAM-navnqf90bwMX6zzhhDxXL_N-Jll6piIOgkhkkd69zwgAA_vzXo6y1jw_nlGY4Ia9IhnUjhIMkZuMX2CiBvbAj_R61IxRWAUXY70qugVo_1k8UWxVcsgnHxeg4aLpanv4XwjytKrzT-Qr5QaHv9Vs2QSMzUlHzKlgqwq-ygkkJ3mp2dGg8lJDNum301Kydsscc0Qe10z7--UepeShWfuLSlM2EzjIjcJsfeD_tTKD_yzsBfGdq8yahjU1gPx-6CSvPSHxlFC1WsT9trNKzaQUjtecbPLaCiAEPVGy7Sye4JicBE2b4IlWD2krdHqHXr-WMraVvzxhBXAAAAA.webp",
+    "link": "https://www.ibm.com/think/topics/retrieval-augmented-generation",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVxLEQo8PLVFQOe9Own1BhAuS2bgPK-tgoxp4C5E4uVXSYGLjrfT4g8tiMVGDzLM8V0fFZoPa3W4jLTq5ROYURmEU9xWokZNLtJflda1h-ZYaXxoU11xU4jfGFfDYvp7yl8d3RDgRN18WYPiClPNNvDlQ0&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQFnoECC4QAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://www.ibm.com/think/topics/retrieval-augmented-generation#What+is+retrieval+augmented+generation+%28RAG%29%3F",
+       "title": "What is retrieval augmented..."
+      },
+      {
+       "link": "https://www.ibm.com/think/topics/retrieval-augmented-generation#What+are+the+benefits+of+RAG%3F",
+       "title": "What are the benefits of RAG?"
+      }
+     ]
+    },
+    "snippet": "Retrieval augmented generation (RAG) is an architecture for optimizing the performance of an artificial intelligence (AI) model",
+    "snippet_highlighted_words": [
+     "Retrieval augmented generation"
+    ],
+    "source": "IBM",
+    "title": "What is RAG (Retrieval Augmented Generation)?"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Retrieval-augmented generation (RAG) is a technique that enables large language models (LLMs) to retrieve and incorporate new information from external data ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › Ret...",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAV442cFSNygKHH6KtPW7ng2QrWbk4n8ObsOEyXn7W52K8LLaeTpyfxzrc6TL0IN2rjz_V_pa_tXJeCuo2IM_Os8aBVBmH-RxX-145crZUHllhMc6wMHfDWqUUReqm8oNUbvDJM0Gdy4rwHOrlyBHax&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQFnoECC0QAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation#RAG_and_LLM_limitations",
+       "title": "RAG and LLM limitations"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation#Process",
+       "title": "Process"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation#Applications",
+       "title": "Applications"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation#Improvements",
+       "title": "Improvements"
+      }
+     ]
+    },
+    "snippet": "Retrieval-augmented generation (RAG) is a technique that enables large language models (LLMs) to retrieve and incorporate new information from external data ...",
+    "snippet_highlighted_words": [
+     "Retrieval-augmented generation (RAG"
+    ],
+    "source": "Wikipedia",
+    "title": "Retrieval-augmented generation"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Retrieval-Augmented Generation, is an AI framework that combines the strengths of traditional information retrieval systems (such as search and databases)",
+      "icon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAKwvUngHCEuBwANsBdkHoAeV97HpES7tUONvL8T8zyAxQ2t3lQt_7ZjPyj-yxvyhAAD-9glzwT5PjCna-XJg9aU1YWywdqj3RWupDOP2TRcJA4GxnwjWP0-MLJnwp7WW84ypgYKKhYo-f39E-YJqUDkQiTs_tz9bPxPetW6qeerz9aD7lv4_4q_GfdCvm4A_tzu5KV2R75vmqYRckshuTWQMj3XyssVo5MH6ncvKdugGqkOrPq_IOjFOP-VUFVnS5PsMjJgrnKtLSB5aeFibdG7-IHs57HGe0cTCf5-PkdB2XD18zPz92sZcygXppGbGINGtNfP9P-r68asYTybp2icf1_4d5yAvr8-hVItUQhAl4cIROMZKefvRzVjKsNliRPZDSHRiCJ3aqUJ64LKgZIhvies3R-AAAA.webp",
+      "source_info_link": "https://cloud.google.com/use-cases/retrieval-augmented-generation"
+     }
+    },
+    "displayed_link": "https://cloud.google.com › use-cases",
+    "favicon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAKwvUngHCEuBwANsBdkHoAeV97HpES7tUONvL8T8zyAxQ2t3lQt_7ZjPyj-yxvyhAAD-9glzwT5PjCna-XJg9aU1YWywdqj3RWupDOP2TRcJA4GxnwjWP0-MLJnwp7WW84ypgYKKhYo-f39E-YJqUDkQiTs_tz9bPxPetW6qeerz9aD7lv4_4q_GfdCvm4A_tzu5KV2R75vmqYRckshuTWQMj3XyssVo5MH6ncvKdugGqkOrPq_IOjFOP-VUFVnS5PsMjJgrnKtLSB5aeFibdG7-IHs57HGe0cTCf5-PkdB2XD18zPz92sZcygXppGbGINGtNfP9P-r68asYTybp2icf1_4d5yAvr8-hVItUQhAl4cIROMZKefvRzVjKsNliRPZDSHRiCJ3aqUJ64LKgZIhvies3R-AAAA.webp",
+    "link": "https://cloud.google.com/use-cases/retrieval-augmented-generation",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloud.google.com/use-cases/retrieval-augmented-generation&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQFnoECDAQAQ",
+    "snippet": "Retrieval-Augmented Generation, is an AI framework that combines the strengths of traditional information retrieval systems (such as search and databases)",
+    "snippet_highlighted_words": [
+     "an AI framework that combines the strengths of traditional information retrieval systems"
+    ],
+    "source": "Google Cloud",
+    "title": "What is Retrieval-Augmented Generation (RAG)?"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Retrieval-augmented generation (RAG) is a technique for enhancing the accuracy and reliability of generative AI models with facts fetched ...",
+      "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsALOg6EgFuAvTXygCZyI3mY7IKTdkLr06FTSMhRCzsUfkQqqYAP7347wbmiwLYn2qx_WPitADQbPvYmXcIfERxd_w_AqdraNPWuomuCoEFwRx2iNfqnwa9WIX9rZvfhzoePLRXcirWsXusn8SDLbbLhdlkD_Ut4P_nb-CJv2uc5OHbCXPHSPYxI52DDVNU0v_tGlfsOhYFWVjntvnPx_-V3_Bd8aYtEft9Dl9NQpDDh7kiFtfeQayIIhefPNkcpxwU3RVfVTnZbTXIpdlYU9LwaXTFj1RnbxMBgM4f81MZZM1k-gWSdfPuR9qTWuMp6DQ0npw9_-8sRKr-pKyPP_i_zBM2NFB2II0VDu3SFw4ZFBUAbC_xl0sMteMgAAA.webp",
+      "source_info_link": "https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/"
+     }
+    },
+    "date": "31‏/01‏/2025",
+    "displayed_link": "https://blogs.nvidia.com › blog › wha...",
+    "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsALOg6EgFuAvTXygCZyI3mY7IKTdkLr06FTSMhRCzsUfkQqqYAP7347wbmiwLYn2qx_WPitADQbPvYmXcIfERxd_w_AqdraNPWuomuCoEFwRx2iNfqnwa9WIX9rZvfhzoePLRXcirWsXusn8SDLbbLhdlkD_Ut4P_nb-CJv2uc5OHbCXPHSPYxI52DDVNU0v_tGlfsOhYFWVjntvnPx_-V3_Bd8aYtEft9Dl9NQpDDh7kiFtfeQayIIhefPNkcpxwU3RVfVTnZbTXIpdlYU9LwaXTFj1RnbxMBgM4f81MZZM1k-gWSdfPuR9qTWuMp6DQ0npw9_-8sRKr-pKyPP_i_zBM2NFB2II0VDu3SFw4ZFBUAbC_xl0sMteMgAAA.webp",
+    "link": "https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVlrVSrQ1lkmjQ3AHDpBBQnv4dJzHTqPjkXGx0u2hnIiQa8Te83ruNy-ljR4QMhQtRQzsxQZWA1GProWMRMHEWJmKAVHE0yydXaoPP5SkDH9GqFu9VeK0MYZ_FQBkTY6EU0GK1BAy3pEIqnI-PtUWdgQbbrJZQAp6l&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQFnoECC8QAQ&uoh=1",
+    "snippet": "Retrieval-augmented generation (RAG) is a technique for enhancing the accuracy and reliability of generative AI models with facts fetched ...",
+    "snippet_highlighted_words": [
+     "Retrieval-augmented generation (RAG"
+    ],
+    "source": "NVIDIA Blog",
+    "title": "What Is Retrieval-Augmented Generation aka RAG"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "RAG (Retrieval-Augmented Generation) is a method where the AI first looks up relevant information from a database, documents, internet search ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/explainlikeimfive/comments/1p39v3g/eli5_what_is_a_is_retrievalaugmented_generation/"
+     }
+    },
+    "displayed_link": "أكثر من 10 تعليق · قبل 9 أشهر",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/explainlikeimfive/comments/1p39v3g/eli5_what_is_a_is_retrievalaugmented_generation/",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFd38UgPvOXZHbcJPJHb4jXE0FA4aHj6mE-iD1Y_9HyVZSAhRFy87FiDgFxoChTkC8H32J2S9h5DFJK7pfYstJ6uxG5PjDKmp_Gw_tYaOxcg6EU0Nuxvg6ElBus9MNFfzz-MDoXRmgepY3kT6guIKXExQJYoEFjfWFGm2x7uOXAV53ZplkiJI6qIEVPs6XBlBfbS9wRzCFdqTzeBocuolUQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQFnoECFIQAQ&uoh=1",
+    "snippet": "Someone on our marketing team is pushing for us to build out a RAG system on our customer-facing site, but I can’t picture what it would look like or ...",
+    "source": "Reddit · r/explainlikeimfive",
+    "title": "ELI5 What is a is Retrieval-Augmented Generation (RAG)"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "RAG helps large language models generate more accurate and useful responses by retrieving relevant information from knowledge bases of information they weren't ...",
+      "icon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAABQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yglgEsZ7zAvwVoKBO3bkM_iKaAWWdh7X-Zugx57ZKyocRO65wrKeAAP72Et_rlkktqUgtOaPDDo6045O2HuDjK0Va4H1GRhLFzQyjJaezG-8Ob-26FGhI3voZ1_RewYWjfa0Q0wPTpVCw2x8XanOwPbEFBepe5zx2PY-_6otpA9vCNnwVKSFqIH4e5dZUzfj-I7_QhhANCQI7ePxiBm9s3mHYQ6vsnUur_NMHSLM8nqxEC63-4m8dIyIFQwFHVvpKh3f_H_CU874-Zfx8vZZ5mMI8o0DGjIF7bDGFLajSB4H-b4oATu8XQJbc3bwhrXB3j9FtOW7YtniM_33j31T18qES7v8OdP2ff_1nG-av-3fFrJ3-PFlnLM_xdUkJLKEHrfsdYS9T3njAWknR1Vx_bpLC1bEi5KEK-ykd6_oX2u-AgTN51UeftJ3M_13Ozzs_b67ptX9e3vgAAA.webp",
+      "source_info_link": "https://www.deeplearning.ai/courses/retrieval-augmented-generation"
+     }
+    },
+    "displayed_link": "https://www.deeplearning.ai › courses",
+    "favicon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAABQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yglgEsZ7zAvwVoKBO3bkM_iKaAWWdh7X-Zugx57ZKyocRO65wrKeAAP72Et_rlkktqUgtOaPDDo6045O2HuDjK0Va4H1GRhLFzQyjJaezG-8Ob-26FGhI3voZ1_RewYWjfa0Q0wPTpVCw2x8XanOwPbEFBepe5zx2PY-_6otpA9vCNnwVKSFqIH4e5dZUzfj-I7_QhhANCQI7ePxiBm9s3mHYQ6vsnUur_NMHSLM8nqxEC63-4m8dIyIFQwFHVvpKh3f_H_CU874-Zfx8vZZ5mMI8o0DGjIF7bDGFLajSB4H-b4oATu8XQJbc3bwhrXB3j9FtOW7YtniM_33j31T18qES7v8OdP2ff_1nG-av-3fFrJ3-PFlnLM_xdUkJLKEHrfsdYS9T3njAWknR1Vx_bpLC1bEi5KEK-ykd6_oX2u-AgTN51UeftJ3M_13Ozzs_b67ptX9e3vgAAA.webp",
+    "link": "https://www.deeplearning.ai/courses/retrieval-augmented-generation",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVZKIzXwQPcARW6q-wzdyQ1GtGWY7cdTFVR-JckcbxefKHiwltYMTWrhKvoLBQij1i3XSIAJ37JQPXf-jupY5OCCyHhoiu-pe32kDQGgF-5tgm85NfePI0GhThk02lhi2UTPeNl4Bxyc3V9tfVfKOfxFaa1SOY&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQFnoECFUQAQ&uoh=1",
+    "snippet": "RAG helps large language models generate more accurate and useful responses by retrieving relevant information from knowledge bases of information they weren't ...",
+    "snippet_highlighted_words": [
+     "RAG helps large language models generate more accurate and useful responses"
+    ],
+    "source": "DeepLearning.AI",
+    "title": "Retrieval Augmented Generation (RAG)"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Retrieval augmented generation (RAG) is a hybrid AI framework that bolsters large language models (LLMs) by combining them with external, up-to-date data ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJFBMVEVHcEz_NR7_Mx3_NB7_Mxz_NR7_NR7_NB7_NB3_NB7_NR7_MBoNAmK0AAAADHRSTlMAuyN7FJSrTDdiyQkdQjbUAAABAklEQVQokY1SWZKFMAiUnST3v-8AQX06b6omH5aGll7gOP57kMTW9xKbgk7xL6VlOokPjye-ayZTsEHwLDuB2MU8QAdfZATwEIIEo8kewLOMB2dv1jl-6-cxqVACb4GpakrrkTk-yssDziT1yom8eUN6dpIsImhI5aE7OiRNV0gzBePcmYV-8cAkNBxAdUJw3_FEeWb3ZV3KP31nFreeugKanL59QnFGStWIioSpfV6fatFZ8z2gcPtsSZHkqsGO9ml4zak4rRJb5ZNlcwa6fHYXKZ_JqbZ57JN_nYGdnHHHwfkY4urV8XTTPh9D6lT8XKbXeKNZLtO33Wyff211c97nBxkoCFbo7bCOAAAAAElFTkSuQmCC.png",
+      "source_info_link": "https://www.databricks.com/blog/what-is-retrieval-augmented-generation"
+     }
+    },
+    "displayed_link": "https://www.databricks.com › blog",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJFBMVEVHcEz_NR7_Mx3_NB7_Mxz_NR7_NR7_NB7_NB3_NB7_NR7_MBoNAmK0AAAADHRSTlMAuyN7FJSrTDdiyQkdQjbUAAABAklEQVQokY1SWZKFMAiUnST3v-8AQX06b6omH5aGll7gOP57kMTW9xKbgk7xL6VlOokPjye-ayZTsEHwLDuB2MU8QAdfZATwEIIEo8kewLOMB2dv1jl-6-cxqVACb4GpakrrkTk-yssDziT1yom8eUN6dpIsImhI5aE7OiRNV0gzBePcmYV-8cAkNBxAdUJw3_FEeWb3ZV3KP31nFreeugKanL59QnFGStWIioSpfV6fatFZ8z2gcPtsSZHkqsGO9ml4zak4rRJb5ZNlcwa6fHYXKZ_JqbZ57JN_nYGdnHHHwfkY4urV8XTTPh9D6lT8XKbXeKNZLtO33Wyff211c97nBxkoCFbo7bCOAAAAAElFTkSuQmCC.png",
+    "link": "https://www.databricks.com/blog/what-is-retrieval-augmented-generation",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVGiaTtZSO-S44qI4-VfaifqRrPOjsRBVzi3Z1OzXuOeAR4_MBWCk9T7gLkmND9mkGyJFp9blvVpYk8PxnWlghvxqMc-LuTI3YgWdI9tkkGiKLVvnU8Fln4rpP4ZQX7Ph-pIo6_D9WRU9tYqVxstQ5CovVI0iSRcydOg&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQFnoECEwQAQ&uoh=1",
+    "snippet": "Retrieval augmented generation (RAG) is a hybrid AI framework that bolsters large language models (LLMs) by combining them with external, up-to-date data ...",
+    "snippet_highlighted_words": [
+     "Retrieval augmented generation (RAG"
+    ],
+    "source": "Databricks",
+    "title": "What is Retrieval Augmented Generation (RAG)?"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Retrieval-augmented generation, or RAG, is a technique that uses authoritative, external data to improve the accuracy, relevancy, and usefulness ...",
+      "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAACwBgCdASogACAAPrUurVanIacnG_DgFolpABEVceD-9KtA9Ab8Rj0Fo7uI6PzwjESJcWKlOsE62iDE_Gm4AAD--qOIOgeHPt6hCnf54ieYIANcNeJVWiA_ux_jlX42lf5mCsmvYcXv2JIT00rvL8PjE6OTStbWMiTEIoi7xXByH9GOHA5y9aHb6To27v_yTbEfKKseBnP5tUZh7MRcOHs_1r2NdSe-J9nX3zo1X21XiTOiEbWhzc7I-XD5A1Ot2diuqXMTeBZKBt8xN54sVR5PfzEYifGeyTxP4_EYnU9IIJiOEI4G8dumaC_X6MVSP15e7alFtPxekTM1D944CMS1Obuc2-O8N5YuiLZ7TtUZ8H38ocRRdP19dHfGSrV63RFeYCYfsNtb4kAvPAloAA.webp",
+      "source_info_link": "https://www.pinecone.io/learn/retrieval-augmented-generation/"
+     }
+    },
+    "date": "12‏/06‏/2025",
+    "displayed_link": "https://www.pinecone.io › learn › retr...",
+    "favicon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAACwBgCdASogACAAPrUurVanIacnG_DgFolpABEVceD-9KtA9Ab8Rj0Fo7uI6PzwjESJcWKlOsE62iDE_Gm4AAD--qOIOgeHPt6hCnf54ieYIANcNeJVWiA_ux_jlX42lf5mCsmvYcXv2JIT00rvL8PjE6OTStbWMiTEIoi7xXByH9GOHA5y9aHb6To27v_yTbEfKKseBnP5tUZh7MRcOHs_1r2NdSe-J9nX3zo1X21XiTOiEbWhzc7I-XD5A1Ot2diuqXMTeBZKBt8xN54sVR5PfzEYifGeyTxP4_EYnU9IIJiOEI4G8dumaC_X6MVSP15e7alFtPxekTM1D944CMS1Obuc2-O8N5YuiLZ7TtUZ8H38ocRRdP19dHfGSrV63RFeYCYfsNtb4kAvPAloAA.webp",
+    "link": "https://www.pinecone.io/learn/retrieval-augmented-generation/",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVlGtyLrfmA7ZZzGjuRGY_0ePuKdG-6ZdWFyBX524L463M8GoegbRJndTSCMVCKkI9qS2YZdDRQlFOliszKcnyoJDbnlFkns56QDINi9vG1DtW9bzH05oYjzhZTOB2NKZEOLb7oQPhYGsH0hnphozIjQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQFnoECEsQAQ&uoh=1",
+    "snippet": "Retrieval-augmented generation, or RAG, is a technique that uses authoritative, external data to improve the accuracy, relevancy, and usefulness ...",
+    "snippet_highlighted_words": [
+     "a technique that uses authoritative, external data"
+    ],
+    "source": "Pinecone",
+    "title": "Retrieval-Augmented Generation (RAG)"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=10&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8NMDegQIOxAW",
+   "other_pages": {
+    "10": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=90&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8tMDegQIOxAU",
+    "2": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=10&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8tMDegQIOxAE",
+    "3": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=20&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8tMDegQIOxAG",
+    "4": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=30&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8tMDegQIOxAI",
+    "5": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=40&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8tMDegQIOxAK",
+    "6": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=50&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8tMDegQIOxAM",
+    "7": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=60&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8tMDegQIOxAO",
+    "8": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=70&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8tMDegQIOxAQ",
+    "9": "https://www.google.com/search?q=retrieval+augmented+generation&sca_esv=1e3c50f8191e1804&ei=If-qav-jDu-7ruEPyf-_mAU&start=80&sa=N&sstk=AS6-VmIuPjv-4U8lSBymKSl3mCkcl3S4f3RTYxYMcEn-nEetx3ovTyjuQmKsr48wo8LHZ3sQoxw0iqkL6LVM8tcC3bfg0koXYu7peQ&ved=2ahUKEwi_uOOb-_OWAxXvnSsGHcn_D1MQ8tMDegQIOxAS"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJtb3pTazFXU1RoMU5rUk1NbTE0ZW13M1RFRmpaVXM0UmxGdFowMWlWbTFaWmtSd1RYbFFORzFGTVVwYVExVkhiblJNZGpCbFRWUlZSVTl3UVZGbWFWTjBUVkJTUVU5T1RHNVhSbmhuYjB4ZlZrZFRhMjFrYTJWT1p4SVhTV1l0Y1dGMkxXcEVkUzAzY25WRlVIbG1MVjl0UVZVYUlrRkVjM0k1WmxOcVduWndURk5UWkhVMk5IWk1VVUZmUWtsMlNFaEZjazUxV21jIiwiZmN2IjoiMyIsImVpIjoiSWYtcWF2LWpEdS03cnVFUHlmLV9tQVUiLCJxYyI6IkNoNXlaWFJ5YVdWMllXd2dZWFZuYldWdWRHVmtJR2RsYm1WeVlYUnBiMjRRQUgzZ3dFRV8iLCJxdWVzdGlvbiI6IklzIENoYXRHUFQgYSBSQUcgbW9kZWw/IiwibGsiOiJHaFpwY3lCamFHRjBaM0IwSUdFZ2NtRm5JRzF2WkdWcyIsImJzIjoiYzEyTVBRdkNNQlJGY1gyVHFLalVLbmQzcTY1UzFLRVdLb2dJenNHbUg1QTJrc1QyN190cUhjVDFuSE12YldnV1d4d0w0YUxMRFFMWGZZUktwMUtGd2R5YmxoWVBWdm5Uc1RJaTd4V3RhWHhuRE5aZDMxZ2t5VGtNSnQ2b19lS3VaYXhVUlFmQ0p4Wkd3aFVTbVg0WktObElaYUd6N2lBTVZwN2ZfamJibjRDdmFFZi1TYmRJTldKWUo0eGpMMHhkMW5tX1gzcUxvdmZsdi1mNWNQQUciLCJpZCI6ImZjX0lmLXFhdi1qRHUtN3J1RVB5Zi1fbUFVXzQifQ==",
+    "page_token": "LjwODHicHdBdboIwAADg7DI-CoXpoolZUrUigRpKW0pfFijyI-XHScbgbXfZqXaaLTvBl3xf37pq658nUQ5D_9gaxjiOy6LrCn1dqq4xksfUKkMlWqeJqrfrlzV4zdXu-BjhvhthwPqeH4gZ1vqZt9AKABER8y0FkJU2uE1bfPEjCVMzC7woIzHTn0kEzj7fBLHFS1ajA6XxinJlJw48Me32rAK5nFGIhT9ljTtJVNgE1YDeoBMLPGY32csjOIgZm4TXA-VcJzNf0xZ-plY_KNHZ_gRazrI7E8q6andPqDwSIcfQIl7cyCRyghCZuvEEKrMK3InDBmy7gHC4kn9-yhA_VS4kDp4ukSSpucmvVJ59hL2YYS9h5cxatwoBJL7txszp4SJXHzt78T-2e8ubYdu_d8Uv13h3tA",
+    "question": "Is ChatGPT a RAG model?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LjwODHicHdBdboIwAADg7DI-CoXpoolZUrUigRpKW0pfFijyI-XHScbgbXfZqXaaLTvBl3xf37pq658nUQ5D_9gaxjiOy6LrCn1dqq4xksfUKkMlWqeJqrfrlzV4zdXu-BjhvhthwPqeH4gZ1vqZt9AKABER8y0FkJU2uE1bfPEjCVMzC7woIzHTn0kEzj7fBLHFS1ajA6XxinJlJw48Me32rAK5nFGIhT9ljTtJVNgE1YDeoBMLPGY32csjOIgZm4TXA-VcJzNf0xZ-plY_KNHZ_gRazrI7E8q6andPqDwSIcfQIl7cyCRyghCZuvEEKrMK3InDBmy7gHC4kn9-yhA_VS4kDp4ukSSpucmvVJ59hL2YYS9h5cxatwoBJL7txszp4SJXHzt78T-2e8ubYdu_d8Uv13h3tA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJtb3pTazFXU1RoMU5rUk1NbTE0ZW13M1RFRmpaVXM0UmxGdFowMWlWbTFaWmtSd1RYbFFORzFGTVVwYVExVkhiblJNZGpCbFRWUlZSVTl3UVZGbWFWTjBUVkJTUVU5T1RHNVhSbmhuYjB4ZlZrZFRhMjFrYTJWT1p4SVhTV1l0Y1dGMkxXcEVkUzAzY25WRlVIbG1MVjl0UVZVYUlrRkVjM0k1WmxOcVduWndURk5UWkhVMk5IWk1VVUZmUWtsMlNFaEZjazUxV21jIiwiZmN2IjoiMyIsImVpIjoiSWYtcWF2LWpEdS03cnVFUHlmLV9tQVUiLCJxYyI6IkNoNXlaWFJ5YVdWMllXd2dZWFZuYldWdWRHVmtJR2RsYm1WeVlYUnBiMjRRQUgzZ3dFRV8iLCJxdWVzdGlvbiI6IklzIENoYXRHUFQgYSBSQUcgbW9kZWw%2FIiwibGsiOiJHaFpwY3lCamFHRjBaM0IwSUdFZ2NtRm5JRzF2WkdWcyIsImJzIjoiYzEyTVBRdkNNQlJGY1gyVHFLalVLbmQzcTY1UzFLRVdLb2dJenNHbUg1QTJrc1QyN190cUhjVDFuSE12YldnV1d4d0w0YUxMRFFMWGZZUktwMUtGd2R5YmxoWVBWdm5Uc1RJaTd4V3RhWHhuRE5aZDMxZ2t5VGtNSnQ2b19lS3VaYXhVUlFmQ0p4Wkd3aFVTbVg0WktObElaYUd6N2lBTVZwN2ZfamJibjRDdmFFZi1TYmRJTldKWUo0eGpMMHhkMW5tX1gzcUxvdmZsdi1mNWNQQUciLCJpZCI6ImZjX0lmLXFhdi1qRHUtN3J1RVB5Zi1fbUFVXzQifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJtb3pTazFXU1RoMU5rUk1NbTE0ZW13M1RFRmpaVXM0UmxGdFowMWlWbTFaWmtSd1RYbFFORzFGTVVwYVExVkhiblJNZGpCbFRWUlZSVTl3UVZGbWFWTjBUVkJTUVU5T1RHNVhSbmhuYjB4ZlZrZFRhMjFrYTJWT1p4SVhTV1l0Y1dGMkxXcEVkUzAzY25WRlVIbG1MVjl0UVZVYUlrRkVjM0k1WmxOcVduWndURk5UWkhVMk5IWk1VVUZmUWtsMlNFaEZjazUxV21jIiwiZmN2IjoiMyIsImVpIjoiSWYtcWF2LWpEdS03cnVFUHlmLV9tQVUiLCJxYyI6IkNoNXlaWFJ5YVdWMllXd2dZWFZuYldWdWRHVmtJR2RsYm1WeVlYUnBiMjRRQUgzZ3dFRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgUkFHIHZzIExMTT8iLCJsayI6IkdoSjNhR0YwSUdseklISmhaeUIyY3lCc2JHMCIsImJzIjoiYzEyTVBRdkNNQlJGY1gyVHFLalVLbmQzcTY1UzFLRVdLb2dJenNHbUg1QTJrc1QyN190cUhjVDFuSE12YldnV1d4d0w0YUxMRFFMWGZZUktwMUtGd2R5YmxoWVBWdm5Uc1RJaTd4V3RhWHhuRE5aZDMxZ2t5VGtNSnQ2b19lS3VaYXhVUlFmQ0p4Wkd3aFVTbVg0WktObElaYUd6N2lBTVZwN2ZfamJibjRDdmFFZi1TYmRJTldKWUo0eGpMMHhkMW5tX1gzcUxvdmZsdi1mNWNQQUciLCJpZCI6ImZjX0lmLXFhdi1qRHUtN3J1RVB5Zi1fbUFVXzQifQ==",
+    "page_token": "oP_PU3icHdBfboIwHADg7DI-TgrOTROzhPEvqBh-0Bb6smABwRYoE0V82112qp1myb4jfN8_sm7F71NSDYO6rOfzcRyfT113ksUz75p5dplaPueZlMeMi_XydYneS76xL6P50Y1miJUiFmixB1ts-CF_MI24b4sQS0qFRJlQQ-aullxbLAoxDoUXTqADIQ2RqUjvRbN6UFuaO1r1mbgb3CI2bUkSJ9UNW5XC2O8jpLaFVFfqBGOGkaKCpbsYCCAZM0vu8wdpcwQGszFKCTh5wlGsrby0YU2k23esByJ3gx4QwMFRLLAhYmIfOZpsdolT5TXqwcNDYPgIiPnCalQesUPc2jfBC6YDZfG-ra75mSQBZTp4zI4McLiUXX6GB9e1qbDBnJX8tjFm_2Obz7IZ1uqrO_0B1aJ5Ag",
+    "question": "What is RAG vs LLM?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oP_PU3icHdBfboIwHADg7DI-TgrOTROzhPEvqBh-0Bb6smABwRYoE0V82112qp1myb4jfN8_sm7F71NSDYO6rOfzcRyfT113ksUz75p5dplaPueZlMeMi_XydYneS76xL6P50Y1miJUiFmixB1ts-CF_MI24b4sQS0qFRJlQQ-aullxbLAoxDoUXTqADIQ2RqUjvRbN6UFuaO1r1mbgb3CI2bUkSJ9UNW5XC2O8jpLaFVFfqBGOGkaKCpbsYCCAZM0vu8wdpcwQGszFKCTh5wlGsrby0YU2k23esByJ3gx4QwMFRLLAhYmIfOZpsdolT5TXqwcNDYPgIiPnCalQesUPc2jfBC6YDZfG-ra75mSQBZTp4zI4McLiUXX6GB9e1qbDBnJX8tjFm_2Obz7IZ1uqrO_0B1aJ5Ag",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJtb3pTazFXU1RoMU5rUk1NbTE0ZW13M1RFRmpaVXM0UmxGdFowMWlWbTFaWmtSd1RYbFFORzFGTVVwYVExVkhiblJNZGpCbFRWUlZSVTl3UVZGbWFWTjBUVkJTUVU5T1RHNVhSbmhuYjB4ZlZrZFRhMjFrYTJWT1p4SVhTV1l0Y1dGMkxXcEVkUzAzY25WRlVIbG1MVjl0UVZVYUlrRkVjM0k1WmxOcVduWndURk5UWkhVMk5IWk1VVUZmUWtsMlNFaEZjazUxV21jIiwiZmN2IjoiMyIsImVpIjoiSWYtcWF2LWpEdS03cnVFUHlmLV9tQVUiLCJxYyI6IkNoNXlaWFJ5YVdWMllXd2dZWFZuYldWdWRHVmtJR2RsYm1WeVlYUnBiMjRRQUgzZ3dFRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgUkFHIHZzIExMTT8iLCJsayI6IkdoSjNhR0YwSUdseklISmhaeUIyY3lCc2JHMCIsImJzIjoiYzEyTVBRdkNNQlJGY1gyVHFLalVLbmQzcTY1UzFLRVdLb2dJenNHbUg1QTJrc1QyN190cUhjVDFuSE12YldnV1d4d0w0YUxMRFFMWGZZUktwMUtGd2R5YmxoWVBWdm5Uc1RJaTd4V3RhWHhuRE5aZDMxZ2t5VGtNSnQ2b19lS3VaYXhVUlFmQ0p4Wkd3aFVTbVg0WktObElaYUd6N2lBTVZwN2ZfamJibjRDdmFFZi1TYmRJTldKWUo0eGpMMHhkMW5tX1gzcUxvdmZsdi1mNWNQQUciLCJpZCI6ImZjX0lmLXFhdi1qRHUtN3J1RVB5Zi1fbUFVXzQifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJtb3pTazFXU1RoMU5rUk1NbTE0ZW13M1RFRmpaVXM0UmxGdFowMWlWbTFaWmtSd1RYbFFORzFGTVVwYVExVkhiblJNZGpCbFRWUlZSVTl3UVZGbWFWTjBUVkJTUVU5T1RHNVhSbmhuYjB4ZlZrZFRhMjFrYTJWT1p4SVhTV1l0Y1dGMkxXcEVkUzAzY25WRlVIbG1MVjl0UVZVYUlrRkVjM0k1WmxOcVduWndURk5UWkhVMk5IWk1VVUZmUWtsMlNFaEZjazUxV21jIiwiZmN2IjoiMyIsImVpIjoiSWYtcWF2LWpEdS03cnVFUHlmLV9tQVUiLCJxYyI6IkNoNXlaWFJ5YVdWMllXd2dZWFZuYldWdWRHVmtJR2RsYm1WeVlYUnBiMjRRQUgzZ3dFRV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBmb3VyIGxldmVscyBvZiBSQUc/IiwibGsiOiJHaHgzYUdGMElHRnlaU0IwYUdVZ05DQnNaWFpsYkhNZ2IyWWdjbUZuIiwiYnMiOiJjMTJNUFF2Q01CUkZjWDJUcUtqVUtuZDNxNjVTMUtFV0tvZ0l6c0dtSDVBMmtzVDI3X3RxSGNUMW5ITXZiV2dXV3h3TDRhTExEUUxYZllSS3AxS0Z3ZHlibGhZUFZ2blRzVElpN3hXdGFYeG5ETlpkMzFna3lUa01KdDZvX2VLdVpheFVSUWZDSnhaR3doVVNtWDRaS05sSVphR3o3aUFNVnA3Zl9qYmJuNEN2YUVmLVNiZElOV0pZSjR4akwweGQxbm1fWDNxTG92Zmx2LWY1Y1BBRyIsImlkIjoiZmNfSWYtcWF2LWpEdS03cnVFUHlmLV9tQVVfNCJ9",
+    "page_token": "N3kyn3icHdBdbuIwFEBhzWb6CDhpGIGEKhnCX8E0N7Fx_DJy7EBCbOKWTAh5615mVbOadmYD55PO5x9TXqu_P9qiadxtOhze7_fBua7PJh-o2g7l7XFVQyWNyaSqpuOfY_RyUrPw9wbP3zc4os6xBYxiTrDkgguP3eio4MCcS644FatgDKvnB9gg3FsnD0y0SUiuwkxaQcUpPWqRIbNXvkiYFyyBsSiq_jX1AjhzEdKXeKQ7ZvVersOeLIXM12J1WBdzCB3VqPiIva7O6SSOfeVzpJMDx23imQD49k0jfMyY-faqHpDYyRC9ZkuM9tQg8PGcjiCgdrIgx-6NIlKSpRnrnkFY6K0oUZfytJEVoF2iH5qyKD-mDfcQZlCXEYVeXYylaPsMq2K-o-SS2zqIbbDIvK4kPUDKdK8TEkfR00m1M__p_8_Zr5Ntpu6jPn8Ba7eCJQ",
+    "question": "What are the four levels of RAG?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N3kyn3icHdBdbuIwFEBhzWb6CDhpGIGEKhnCX8E0N7Fx_DJy7EBCbOKWTAh5615mVbOadmYD55PO5x9TXqu_P9qiadxtOhze7_fBua7PJh-o2g7l7XFVQyWNyaSqpuOfY_RyUrPw9wbP3zc4os6xBYxiTrDkgguP3eio4MCcS644FatgDKvnB9gg3FsnD0y0SUiuwkxaQcUpPWqRIbNXvkiYFyyBsSiq_jX1AjhzEdKXeKQ7ZvVersOeLIXM12J1WBdzCB3VqPiIva7O6SSOfeVzpJMDx23imQD49k0jfMyY-faqHpDYyRC9ZkuM9tQg8PGcjiCgdrIgx-6NIlKSpRnrnkFY6K0oUZfytJEVoF2iH5qyKD-mDfcQZlCXEYVeXYylaPsMq2K-o-SS2zqIbbDIvK4kPUDKdK8TEkfR00m1M__p_8_Zr5Ntpu6jPn8Ba7eCJQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJtb3pTazFXU1RoMU5rUk1NbTE0ZW13M1RFRmpaVXM0UmxGdFowMWlWbTFaWmtSd1RYbFFORzFGTVVwYVExVkhiblJNZGpCbFRWUlZSVTl3UVZGbWFWTjBUVkJTUVU5T1RHNVhSbmhuYjB4ZlZrZFRhMjFrYTJWT1p4SVhTV1l0Y1dGMkxXcEVkUzAzY25WRlVIbG1MVjl0UVZVYUlrRkVjM0k1WmxOcVduWndURk5UWkhVMk5IWk1VVUZmUWtsMlNFaEZjazUxV21jIiwiZmN2IjoiMyIsImVpIjoiSWYtcWF2LWpEdS03cnVFUHlmLV9tQVUiLCJxYyI6IkNoNXlaWFJ5YVdWMllXd2dZWFZuYldWdWRHVmtJR2RsYm1WeVlYUnBiMjRRQUgzZ3dFRV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBmb3VyIGxldmVscyBvZiBSQUc%2FIiwibGsiOiJHaHgzYUdGMElHRnlaU0IwYUdVZ05DQnNaWFpsYkhNZ2IyWWdjbUZuIiwiYnMiOiJjMTJNUFF2Q01CUkZjWDJUcUtqVUtuZDNxNjVTMUtFV0tvZ0l6c0dtSDVBMmtzVDI3X3RxSGNUMW5ITXZiV2dXV3h3TDRhTExEUUxYZllSS3AxS0Z3ZHlibGhZUFZ2blRzVElpN3hXdGFYeG5ETlpkMzFna3lUa01KdDZvX2VLdVpheFVSUWZDSnhaR3doVVNtWDRaS05sSVphR3o3aUFNVnA3Zl9qYmJuNEN2YUVmLVNiZElOV0pZSjR4akwweGQxbm1fWDNxTG92Zmx2LWY1Y1BBRyIsImlkIjoiZmNfSWYtcWF2LWpEdS03cnVFUHlmLV9tQVVfNCJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJtb3pTazFXU1RoMU5rUk1NbTE0ZW13M1RFRmpaVXM0UmxGdFowMWlWbTFaWmtSd1RYbFFORzFGTVVwYVExVkhiblJNZGpCbFRWUlZSVTl3UVZGbWFWTjBUVkJTUVU5T1RHNVhSbmhuYjB4ZlZrZFRhMjFrYTJWT1p4SVhTV1l0Y1dGMkxXcEVkUzAzY25WRlVIbG1MVjl0UVZVYUlrRkVjM0k1WmxOcVduWndURk5UWkhVMk5IWk1VVUZmUWtsMlNFaEZjazUxV21jIiwiZmN2IjoiMyIsImVpIjoiSWYtcWF2LWpEdS03cnVFUHlmLV9tQVUiLCJxYyI6IkNoNXlaWFJ5YVdWMllXd2dZWFZuYldWdWRHVmtJR2RsYm1WeVlYUnBiMjRRQUgzZ3dFRV8iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIHN0YXJ0IGxlYXJuaW5nIFJBRz8iLCJsayI6IkdodG9iM2NnWkc4Z2FTQnpkR0Z5ZENCc1pXRnlibWx1WnlCeVlXYyIsImJzIjoiYzEyTVBRdkNNQlJGY1gyVHFLalVLbmQzcTY1UzFLRVdLb2dJenNHbUg1QTJrc1QyN190cUhjVDFuSE12YldnV1d4d0w0YUxMRFFMWGZZUktwMUtGd2R5YmxoWVBWdm5Uc1RJaTd4V3RhWHhuRE5aZDMxZ2t5VGtNSnQ2b19lS3VaYXhVUlFmQ0p4Wkd3aFVTbVg0WktObElaYUd6N2lBTVZwN2ZfamJibjRDdmFFZi1TYmRJTldKWUo0eGpMMHhkMW5tX1gzcUxvdmZsdi1mNWNQQUciLCJpZCI6ImZjX0lmLXFhdi1qRHUtN3J1RVB5Zi1fbUFVXzQifQ==",
+    "page_token": "XkJZPHicHdBJboMwAEBR9TJZhqlJm0hRJRcMocQRBtvgTcUQhmDAbVAZdr1LT9XTNOru7570v39E3TW_D1E1DPK2V5RxHNdl35fiss76Vkluc5cpWSJEmmTNfvu01V6K7GDdRvDaj8AnUlITq6FdxWl42gRXILHBJ06FETRST6_C9Mng446PgVbOSMA3j-YCkwkwQudwQUvIJhnACqQw77lZ-QSiJdYkZs0kLvemDt9EOj5hTYZY3x1PHa8x40ncoQXZU5g7Vc8d1w-bxzkw4-Vs4prb3EW25gVLzriokrTdHVOLqwQCnVu09dhzAFXRehGs8lr7wA4ZkOFqmIINr7UiJZDatQuwg-Yz4xg3oguYb5wpt1NLNahAU7TAY25PkFkwuStgVWRfB2P1f-zwXrTDXn725R9xeHlO",
+    "question": "How do I start learning RAG?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XkJZPHicHdBJboMwAEBR9TJZhqlJm0hRJRcMocQRBtvgTcUQhmDAbVAZdr1LT9XTNOru7570v39E3TW_D1E1DPK2V5RxHNdl35fiss76Vkluc5cpWSJEmmTNfvu01V6K7GDdRvDaj8AnUlITq6FdxWl42gRXILHBJ06FETRST6_C9Mng446PgVbOSMA3j-YCkwkwQudwQUvIJhnACqQw77lZ-QSiJdYkZs0kLvemDt9EOj5hTYZY3x1PHa8x40ncoQXZU5g7Vc8d1w-bxzkw4-Vs4prb3EW25gVLzriokrTdHVOLqwQCnVu09dhzAFXRehGs8lr7wA4ZkOFqmIINr7UiJZDatQuwg-Yz4xg3oguYb5wpt1NLNahAU7TAY25PkFkwuStgVWRfB2P1f-zwXrTDXn725R9xeHlO",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJtb3pTazFXU1RoMU5rUk1NbTE0ZW13M1RFRmpaVXM0UmxGdFowMWlWbTFaWmtSd1RYbFFORzFGTVVwYVExVkhiblJNZGpCbFRWUlZSVTl3UVZGbWFWTjBUVkJTUVU5T1RHNVhSbmhuYjB4ZlZrZFRhMjFrYTJWT1p4SVhTV1l0Y1dGMkxXcEVkUzAzY25WRlVIbG1MVjl0UVZVYUlrRkVjM0k1WmxOcVduWndURk5UWkhVMk5IWk1VVUZmUWtsMlNFaEZjazUxV21jIiwiZmN2IjoiMyIsImVpIjoiSWYtcWF2LWpEdS03cnVFUHlmLV9tQVUiLCJxYyI6IkNoNXlaWFJ5YVdWMllXd2dZWFZuYldWdWRHVmtJR2RsYm1WeVlYUnBiMjRRQUgzZ3dFRV8iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIHN0YXJ0IGxlYXJuaW5nIFJBRz8iLCJsayI6IkdodG9iM2NnWkc4Z2FTQnpkR0Z5ZENCc1pXRnlibWx1WnlCeVlXYyIsImJzIjoiYzEyTVBRdkNNQlJGY1gyVHFLalVLbmQzcTY1UzFLRVdLb2dJenNHbUg1QTJrc1QyN190cUhjVDFuSE12YldnV1d4d0w0YUxMRFFMWGZZUktwMUtGd2R5YmxoWVBWdm5Uc1RJaTd4V3RhWHhuRE5aZDMxZ2t5VGtNSnQ2b19lS3VaYXhVUlFmQ0p4Wkd3aFVTbVg0WktObElaYUd6N2lBTVZwN2ZfamJibjRDdmFFZi1TYmRJTldKWUo0eGpMMHhkMW5tX1gzcUxvdmZsdi1mNWNQQUciLCJpZCI6ImZjX0lmLXFhdi1qRHUtN3J1RVB5Zi1fbUFVXzQifQ%3D%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "scholarly_articles": {
+   "articles": [
+    {
+     "author": "‏Lewis",
+     "highlighted_words": [
+      "Retrieval",
+      "augmented generation"
+     ],
+     "link": "https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf?ref=https://githubhelp.com",
+     "title": "Retrieval-augmented generation for knowledge- …"
+    },
+    {
+     "author": "‏Gao",
+     "highlighted_words": [
+      "Retrieval",
+      "augmented generation"
+     ],
+     "link": "https://arxiv.org/pdf/2312.10997",
+     "title": "Retrieval-augmented generation for large language …"
+    },
+    {
+     "author": "‏Jiang",
+     "highlighted_words": [
+      "retrieval augmented generation"
+     ],
+     "link": "https://aclanthology.org/2023.emnlp-main.495.pdf",
+     "title": "Active retrieval augmented generation"
+    }
+   ],
+   "link": "https://scholar.google.ae/scholar?q=retrieval+augmented+generation&hl=ar&as_sdt=0&as_vis=1&oi=scholart",
+   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=ar&q=retrieval+augmented+generation",
+   "title": "مقالات أكاديمية حول retrieval augmented generation"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "retrieval augmented generation",
+   "time_taken_displayed": 0.16,
+   "total_results": 136
+  },
+  "search_metadata": {
+   "created_at": "2026-09-16 20:42:09 UTC",
+   "google_url": "https://www.google.com/search?q=retrieval+augmented+generation&oq=retrieval+augmented+generation&sourceid=chrome&ie=UTF-8",
+   "id": "6aaaff2195e9504582e2140a",
+   "json_endpoint": "https://serpapi.com/searches/Lr19IN8N2kYJN28D2RygTpw9L451oM-BPCVAMl_Tj9k/6aaaff2195e9504582e2140a.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Lr19IN8N2kYJN28D2RygTpw9L451oM-BPCVAMl_Tj9k/6aaaff2195e9504582e2140a.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/Lr19IN8N2kYJN28D2RygTpw9L451oM-BPCVAMl_Tj9k/6aaaff2195e9504582e2140a.json_with_pixel_position",
+   "processed_at": "2026-09-16 20:42:09 UTC",
+   "raw_html_file": "https://serpapi.com/searches/Lr19IN8N2kYJN28D2RygTpw9L451oM-BPCVAMl_Tj9k/6aaaff2195e9504582e2140a.html",
+   "status": "Success",
+   "total_time_taken": 0.5
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "retrieval augmented generation"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=90",
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=retrieval+augmented+generation&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}

@@ -1,0 +1,493 @@
+{
+ "elapsed_ms": 1014.763,
+ "engine": "google",
+ "fetched_at": "2026-09-16T20:54:31.287397+00:00",
+ "frugal_cache_version": 1,
+ "key": "9d93035252620a79c32600868ba0627b0a2b68f8df8fd343acbf5e8be9222682",
+ "params": {
+  "num": 10,
+  "q": "What neural network architecture did the paper Attention Is All You Need introduce?"
+ },
+ "response": {
+  "ai_overview": {
+   "page_token": "Cwjuf3iczVbdcqJIFH6AfY71hkQgGI2polJN22rHv2DCGHNDkQYbDH8BDHHu9lG2ap9qn2YbFMQsJjNzsbV9Qfdpzv85H4c__nId_-Xv3_60kySMr3k-TdMmDQLqWk0SeLwRb33CrwI3joh9s32TpQaJZaFhObJCR5GRjBRMBpswUe9SskUj0MglZP3ZiK01U_i-jnmdZ4-X36UeI5px04iaw-20K-ihuZTS5oUgdpsz3vAYA_jv1gADQAEGCCinmdgr-AO6KM2eT5UbyDTnC5dXLDiVWWOvUEZqJ7Utca4AMvZc7wyuvj8QpkAtOGanHcYVAqZ799I8DCVTh2vFTix1H0KRg89zodbcod0WHG6qNf4k8-kR1Wde6ADCg5EjYxSotCRw5qeyo2cqsHpXwKb0k7iZj_0JIPcAw6-yE0B8pRSm-zGLBfMmZY0r8M8R20TeITbJD1Gc9TN86AoBimeaELt3j44wE9_boaQ7C0_bdj0fU548Mz43MEzL1G1duMlp8UK8FLpS5-osBxKJSyTFVSSlw3PNbS99H6LmvKmIBYxgWecPFUOMrg1SgXvWuhKrANDDMS-awpJ1SDkYFQeqoEw9rpYP9ocZa1l4dninrIcr8sU5a5fbquhRv6LSCVSaVPqgaIbjbsLLQ49ULYHeEVXYOZYFPaWQVnv_YjxWAMF99hXBVY7qYn5AijIMQDTM3WWLVLUgAMsEFlFkMapUUQqOA--OqeIVZujCKpgAjJhOR8sqQ7GiotJVvLfVRx8Qh-owu5MaKz_06atZwdcsDDZ7vHxo_yps-lQLpWA1b2ljqOmtsDdsLb338cTQlmo9TALv-ScmDvlfAWk3j0bFPDoJJPgDQKJZv30yj9Beeg-knPx2GkisuWrnUenbYR59BJIyrgDpi3n080CCnwJpZ7cWSEE9kMLTQNq5XgHS8TxC9fOoBNIvzaPg1-ZRjitrtx0Pp82anhxSQ1cMibPRH6F1O5aii1my6nrtyXQabb8eUisvufYM0z3THfNaubhNtuaZzi6Ca8tsvMoL20g439pEhsu2JA2iF85gP5ROYpFkE1mc6ZhcYltcaIRWxIEksfzECXwOxxxwXW4ZbLipZZmc4ydRYG6IddPw3CiQBaMNSWB7o2iuSBs7GkQL_Q1cTs7DnvQ9ERVCB5PWnd-xJ5358GGhtW7nc7szHlLnof3t9Xzizs9T7L6bghA-6bPzwcUdfR1qre2tL676Myx4NH56vteQO5ni9bIznz9QcW0TZLzNpKd0EiyA8LJpuf3cm1jerB8fL0cd5JCXhhcRmfVHi4KpChaUNSrMGxhoRsD2FKiDNlCR0oiJoVvxmyxaErkUVldiV7TEK6HV8GiyDeWW2Ij9SBb_AYX1TQc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Cwjuf3iczVbdcqJIFH6AfY71hkQgGI2polJN22rHv2DCGHNDkQYbDH8BDHHu9lG2ap9qn2YbFMQsJjNzsbV9Qfdpzv85H4c__nId_-Xv3_60kySMr3k-TdMmDQLqWk0SeLwRb33CrwI3joh9s32TpQaJZaFhObJCR5GRjBRMBpswUe9SskUj0MglZP3ZiK01U_i-jnmdZ4-X36UeI5px04iaw-20K-ihuZTS5oUgdpsz3vAYA_jv1gADQAEGCCinmdgr-AO6KM2eT5UbyDTnC5dXLDiVWWOvUEZqJ7Utca4AMvZc7wyuvj8QpkAtOGanHcYVAqZ799I8DCVTh2vFTix1H0KRg89zodbcod0WHG6qNf4k8-kR1Wde6ADCg5EjYxSotCRw5qeyo2cqsHpXwKb0k7iZj_0JIPcAw6-yE0B8pRSm-zGLBfMmZY0r8M8R20TeITbJD1Gc9TN86AoBimeaELt3j44wE9_boaQ7C0_bdj0fU548Mz43MEzL1G1duMlp8UK8FLpS5-osBxKJSyTFVSSlw3PNbS99H6LmvKmIBYxgWecPFUOMrg1SgXvWuhKrANDDMS-awpJ1SDkYFQeqoEw9rpYP9ocZa1l4dninrIcr8sU5a5fbquhRv6LSCVSaVPqgaIbjbsLLQ49ULYHeEVXYOZYFPaWQVnv_YjxWAMF99hXBVY7qYn5AijIMQDTM3WWLVLUgAMsEFlFkMapUUQqOA--OqeIVZujCKpgAjJhOR8sqQ7GiotJVvLfVRx8Qh-owu5MaKz_06atZwdcsDDZ7vHxo_yps-lQLpWA1b2ljqOmtsDdsLb338cTQlmo9TALv-ScmDvlfAWk3j0bFPDoJJPgDQKJZv30yj9Beeg-knPx2GkisuWrnUenbYR59BJIyrgDpi3n080CCnwJpZ7cWSEE9kMLTQNq5XgHS8TxC9fOoBNIvzaPg1-ZRjitrtx0Pp82anhxSQ1cMibPRH6F1O5aii1my6nrtyXQabb8eUisvufYM0z3THfNaubhNtuaZzi6Ca8tsvMoL20g439pEhsu2JA2iF85gP5ROYpFkE1mc6ZhcYltcaIRWxIEksfzECXwOxxxwXW4ZbLipZZmc4ydRYG6IddPw3CiQBaMNSWB7o2iuSBs7GkQL_Q1cTs7DnvQ9ERVCB5PWnd-xJ5358GGhtW7nc7szHlLnof3t9Xzizs9T7L6bghA-6bPzwcUdfR1qre2tL676Myx4NH56vteQO5ni9bIznz9QcW0TZLzNpKd0EiyA8LJpuf3cm1jerB8fL0cd5JCXhhcRmfVHi4KpChaUNSrMGxhoRsD2FKiDNlCR0oiJoVvxmyxaErkUVldiV7TEK6HV8GiyDeWW2Ij9SBb_AYX1TQc"
+  },
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely ...",
+      "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
+      "source_info_link": "https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf"
+     }
+    },
+    "author": "بواسطة A Vaswani",
+    "displayed_link": "https://papers.neurips.cc › paper › 7181-attention...",
+    "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
+    "link": "https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf",
+    "position": 1,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVCelqNDTnSqH8vx2xswXY1aOPtS99roOZosze3AYbBfVEQjV554tQeAg6vqS1wV29QVWh7Dy4UE4enDQrdGdNWgOrzu321oc0iEghtzwaOunJX-AH0grEK9g1upCYND3YCZWyvV128-0qBlmTrMKHsaPaFKtV&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQFnoECB0QAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "صفحة": 11
+      },
+      "extensions": [
+       "11 صفحة"
+      ]
+     }
+    },
+    "snippet": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely ...",
+    "snippet_highlighted_words": [
+     "the Transformer"
+    ],
+    "source": "NeurIPS 2026",
+    "title": "Attention is All you Need"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.",
+      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp",
+      "source_info_link": "https://research.google/pubs/attention-is-all-you-need/"
+     }
+    },
+    "author": "بواسطة A Vaswani",
+    "displayed_link": "https://research.google › pubs › attent...",
+    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp",
+    "link": "https://research.google/pubs/attention-is-all-you-need/",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVhN5Df60qkPd1nEj_Mx-HP1qXfV6WntHPrfOmtDkSU2VZ4szWUFj_wf1j_12WplbTjKBoK27snXSKZz0B4Fnx49SsJrvV3iI6Hnv1HTMz0N4AbYBIglRZb1yrD_NoRInAVIvQm8xg5u-LRg&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQFnoECB4QAQ&uoh=1",
+    "snippet": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.",
+    "snippet_highlighted_words": [
+     "the Transformer"
+    ],
+    "source": "Google Research",
+    "title": "Attention is All You Need"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "The paper introduced a new deep learning architecture known as the transformer, based on the attention mechanism proposed in 2014 by Bahdanau et al. ... The ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › Att...",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVvwJHM6OkEZvH_T06gwto-Z2hxsnnVdzSGX5hF5aKnOrX9J2Ja8ZGNrkgMXpXfqGU-_Mzt93-2B2kDcqRvx2Ob2wGRxxl0U2tddWumHzUB85avmJJDIqfdL-aEGoYYXwapSE3irc14AOFvw&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQFnoECCkQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need#Methods_discussed_and_introduced",
+       "title": "Methods discussed and..."
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need#Scaled_dot-product_attention_and_self-attention",
+       "title": "Scaled dot-product attention..."
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need#Historical_context",
+       "title": "Historical context"
+      }
+     ]
+    },
+    "snippet": "The paper introduced a new deep learning architecture known as the transformer, based on the attention mechanism proposed in 2014 by Bahdanau et al. ... The ...",
+    "snippet_highlighted_words": [
+     "deep learning architecture known as the transformer"
+    ],
+    "source": "Wikipedia",
+    "title": "Attention Is All You Need"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions ...",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
+      "source_info_link": "https://arxiv.org/abs/1706.03762"
+     }
+    },
+    "date": "12‏/06‏/2017",
+    "displayed_link": "https://arxiv.org › abs",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
+    "link": "https://arxiv.org/abs/1706.03762",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVvFNOqIRJHjC9-Ejf225-ga5kIkIySuGJ0gfHOH0gKCKsXHrQzgt4JTe4EqREIpmLQOWUE93y_DrGjOEs88_tXRWHOZ6k95LWjqdrCUJxY8yZgGk&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQFnoECCIQAQ&uoh=1",
+    "snippet": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions ...",
+    "snippet_highlighted_words": [
+     "the Transformer"
+    ],
+    "source": "arXiv.org",
+    "title": "[1706.03762] Attention Is All You Need"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Google's 2017 paper introduced a new neural network architecture called the Transformer, which is based solely on an attention mechanism.",
+      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAABQBwCdASocABwAPtEytFooIigoGAEAGglpAAznf1Vcxech6G_5Hqq9U30AP1mGqvqdUgmnZ4poKzlLrvAx4-Mst8AAAP7CCyYY03O28r5JLioHtbFiVFHnCJyb2nNCBNRW56SV-XlrfT7Q3tRrlur0xQidpwCAO83snjRUs4X8b4Vd29vh5FZY0ANnK5gA7UA4K8ogU94vGfbJKfPsedJPrrnbqSsGt4cVKmMg9gk3bc-IvDOh_3W7s9bYtT-jv2vzP7YBkzzvo38BMP0T5w-2nGchsxdZJ7p07VcBr7iyjWnewYq1_h32TqlV751Dr3L7qdpfQi7DjV3S_YvIb08XwjDmGVhfc871zz-7kEket3qOqhOkfPVdCTnyCcO29XitwYDfKoDwpCklX7VO65n-8y2Pa_-Mz7rzPAFFzF7oAAAA.webp",
+      "source_info_link": "https://alok-shankar.medium.com/understanding-googles-attention-is-all-you-need-paper-and-its-groundbreaking-impact-c5237043540a"
+     }
+    },
+    "displayed_link": "قبل سنتين",
+    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAABQBwCdASocABwAPtEytFooIigoGAEAGglpAAznf1Vcxech6G_5Hqq9U30AP1mGqvqdUgmnZ4poKzlLrvAx4-Mst8AAAP7CCyYY03O28r5JLioHtbFiVFHnCJyb2nNCBNRW56SV-XlrfT7Q3tRrlur0xQidpwCAO83snjRUs4X8b4Vd29vh5FZY0ANnK5gA7UA4K8ogU94vGfbJKfPsedJPrrnbqSsGt4cVKmMg9gk3bc-IvDOh_3W7s9bYtT-jv2vzP7YBkzzvo38BMP0T5w-2nGchsxdZJ7p07VcBr7iyjWnewYq1_h32TqlV751Dr3L7qdpfQi7DjV3S_YvIb08XwjDmGVhfc871zz-7kEket3qOqhOkfPVdCTnyCcO29XitwYDfKoDwpCklX7VO65n-8y2Pa_-Mz7rzPAFFzF7oAAAA.webp",
+    "link": "https://alok-shankar.medium.com/understanding-googles-attention-is-all-you-need-paper-and-its-groundbreaking-impact-c5237043540a",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFSOHa5losP-GLHm3n75ZqmlyNIiY9EFxj0q8yyLi_bdHGRYFowF-b3I6yJqcvZk0oVWJjkBDq2VObFFKCjSyQIwOQxrgLM02-ec_YffmH5lpBf02TAgNT2bVh7USqnQlQLaqyf4FyGIxCjsXmQTubeyymAWA-9ecJJwvNkPg35wama-b262Y8j08-adVFSNowRGXA_2gMDvGAQm41g9yJBkFGmoP10C7_STh4Iwg6e_-OcyJ3g&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQFnoECCAQAQ&uoh=1",
+    "snippet": "Google's 2017 paper introduced a new neural network architecture called the Transformer, which is based solely on an attention mechanism.",
+    "snippet_highlighted_words": [
+     "paper introduced a",
+     "neural network architecture",
+     "attention"
+    ],
+    "source": "Medium · Alok Shankar",
+    "title": "Understanding Google's “Attention Is All You Need” Paper and ..."
+   },
+   {
+    "about_this_result": {
+     "source": {
+      "description": "Paper: Attention is all you need - https ... neural architecture to be applied to my deep reinforcement learning architecture.",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "أكثر من 762.5 ألف مشاهدة · قبل 3 سنوات",
+    "duration": "58:04",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=0",
+      "time": "00:00",
+      "title": "Intro"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=70",
+      "time": "01:10",
+      "title": "RNN and their problems"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=484",
+      "time": "08:04",
+      "title": "Transformer Model"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=542",
+      "time": "09:02",
+      "title": "Maths background and notations"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=740",
+      "time": "12:20",
+      "title": "Encoder (overview)"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=751",
+      "time": "12:31",
+      "title": "Input Embeddings"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=904",
+      "time": "15:04",
+      "title": "Positional Encoding"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=1208",
+      "time": "20:08",
+      "title": "Single Head Self-Attention"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=1710",
+      "time": "28:30",
+      "title": "Multi-Head Attention"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=2139",
+      "time": "35:39",
+      "title": "Query, Key, Value"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=2275",
+      "time": "37:55",
+      "title": "Layer Normalization"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=bCz4OMemCcA&t=2413",
+      "time": "40:13",
+      "title": "Decoder (overview)"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=bCz4OMemCcA",
+    "position": 6,
+    "snippet": "Paper: Attention is all you need - https ... neural architecture to be applied to my deep reinforcement learning architecture.",
+    "source": "YouTube · Umar Jamil",
+    "thumbnail": "https://serpapi.com/searches/6aab0206a3882d7d86e5ceb8/images/q_ZsNeiA_PZTucdYr2PZN2fqotDizQPxPmXr2HC9jrg.jpeg",
+    "title": "Attention is all you need (Transformer) - Model explanation ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "The original Transformer architecture introduced in \"Attention Is All You Need\" used an encoder-decoder structure. Each half has a distinct job.",
+      "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vbaQaYgV-EBtmNxFvMe8kqwA2N6B59E_bpnqKHqmqpQQLolFq2ejCesH9nsmgAAD-9gnWOpdYY31G8MmY2aAM5ARo1rDrBn_eElEJ-GcDZeaQANI5ZIS7N1pNxPeSMu_XtVupmNRCu-upeWDxVz8GgscZxBnkcfk19Z5Ao9TwCJ-HcM7F9rTR6dr_2QBHMUZmmUHN_Xe8pHLtVSz5zbD4EdG13M3idyVuoF0OjrcNjlQQfnaXVmJb2w_9jsaCHZxThlVrOc2GhSKuveWy__BifZNSB166dO980vpCQu_YCeqfFlvxg400EnhPz3PO49j5dnl5dEqKn9MLaGxIinolBuejxbqGQPspOs3g-oN9P30F2GNhnTFNIfF_h_wP02X_7z9yyAb3BKxHWnrqk_-L0_zQvN3fMOQJhWXQuRGZZrtsasvesiZ7a1GBskBQA28-txrCHqfrGLNAKctXQAA.webp",
+      "source_info_link": "https://parseur.com/blog/attention-is-all-you-need"
+     }
+    },
+    "date": "08‏/09‏/2026",
+    "displayed_link": "https://parseur.com › Blog",
+    "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vbaQaYgV-EBtmNxFvMe8kqwA2N6B59E_bpnqKHqmqpQQLolFq2ejCesH9nsmgAAD-9gnWOpdYY31G8MmY2aAM5ARo1rDrBn_eElEJ-GcDZeaQANI5ZIS7N1pNxPeSMu_XtVupmNRCu-upeWDxVz8GgscZxBnkcfk19Z5Ao9TwCJ-HcM7F9rTR6dr_2QBHMUZmmUHN_Xe8pHLtVSz5zbD4EdG13M3idyVuoF0OjrcNjlQQfnaXVmJb2w_9jsaCHZxThlVrOc2GhSKuveWy__BifZNSB166dO980vpCQu_YCeqfFlvxg400EnhPz3PO49j5dnl5dEqKn9MLaGxIinolBuejxbqGQPspOs3g-oN9P30F2GNhnTFNIfF_h_wP02X_7z9yyAb3BKxHWnrqk_-L0_zQvN3fMOQJhWXQuRGZZrtsasvesiZ7a1GBskBQA28-txrCHqfrGLNAKctXQAA.webp",
+    "link": "https://parseur.com/blog/attention-is-all-you-need",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVId7nhXZPxDOw7q7P6WQBaX5aw6p5oxYq1qkg4VIBGR5T848li0C9JGymhYwK8BIg-o3QiNeIuFnlt7ahb1fE-t8g8ABXZuQl3HdNQVpIz4I766Rd1ZBtbPZj3V6REDl0EsJFE0Q&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQFnoECEoQAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.9,
+       "reviews": 60
+      },
+      "extensions": [
+       "4.9(60)",
+       "مجاني",
+       "‏مؤسسات/إنتاج"
+      ]
+     }
+    },
+    "snippet": "The original Transformer architecture introduced in \"Attention Is All You Need\" used an encoder-decoder structure. Each half has a distinct job.",
+    "snippet_highlighted_words": [
+     "used an encoder-decoder structure"
+    ],
+    "source": "Parseur",
+    "title": "Attention Is All You Need Explained - The Paper That ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "The paper titled \"Attention Is All You Need\" introduces a new network architecture called the Transformer, which is based solely on ...",
+      "icon": "https://serpapi.com/images/i/UklGRpQBAABXRUJQVlA4IIgBAABQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHp_nNyHaCDAbYDzAebz6AN4A59n2WV-wNo9-2WgTp9l75ydoPp-i0kw_-zucsVtLXr3nIK-8AD-_sLJezSATSYZaNQxGESH44Whsxvh5W6PCSD1LsWWD9Q6jpsa2tiBWrVFBJ2be3sA1Q5TW6_fB5EBaZFbZHV7LP4c19g2lyL7_-ukc0KP_wUXnP1_evmdXrGIzQpTgdkU_3ZbMJklx_XC58X96GoNyLhN8vM5L6u78gXu_ZNoOxAxVMdxgm984pq7P1n3UGbxn-qZp1SBvXZwwXZm32t18Vv-tP4KunNG_Wfz5EmHxRuh_tQu-P-TwipghkDeeo3qxjgZcwRdBU8yUTb5Rs59-yQuK70_ucmL-ZoL3vMqK5p6l7ZhELihCaKHGVlkocD6_lIJOjd0Xsavwh3s6OuyJDwMbMTPQRYZAsKyUOkgoU06fZw-8VhygQNQ_1apSFjIx-ax9K8n5YKnLn31vmDMY8MAAA.webp",
+      "source_info_link": "https://huggingface.co/blog/Esmail-AGumaan/attention-is-all-you-need"
+     }
+    },
+    "date": "02‏/07‏/2024",
+    "displayed_link": "https://huggingface.co › blog › attent...",
+    "favicon": "https://serpapi.com/images/i/UklGRpQBAABXRUJQVlA4IIgBAABQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHp_nNyHaCDAbYDzAebz6AN4A59n2WV-wNo9-2WgTp9l75ydoPp-i0kw_-zucsVtLXr3nIK-8AD-_sLJezSATSYZaNQxGESH44Whsxvh5W6PCSD1LsWWD9Q6jpsa2tiBWrVFBJ2be3sA1Q5TW6_fB5EBaZFbZHV7LP4c19g2lyL7_-ukc0KP_wUXnP1_evmdXrGIzQpTgdkU_3ZbMJklx_XC58X96GoNyLhN8vM5L6u78gXu_ZNoOxAxVMdxgm984pq7P1n3UGbxn-qZp1SBvXZwwXZm32t18Vv-tP4KunNG_Wfz5EmHxRuh_tQu-P-TwipghkDeeo3qxjgZcwRdBU8yUTb5Rs59-yQuK70_ucmL-ZoL3vMqK5p6l7ZhELihCaKHGVlkocD6_lIJOjd0Xsavwh3s6OuyJDwMbMTPQRYZAsKyUOkgoU06fZw-8VhygQNQ_1apSFjIx-ax9K8n5YKnLn31vmDMY8MAAA.webp",
+    "link": "https://huggingface.co/blog/Esmail-AGumaan/attention-is-all-you-need",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVYwrT4G_YzeiSTQ5oJ_5A_oYW3D6yIA6u-USpD2V6OS-36M6Yv8MCFdcaK8RA18yKgFKVy3VDwjxy9Da_f9hQe_psyjLpJ0uRR5-5v2LiEr-psjypYm3IDB1fXpbZCfzITK-Bpwg7s63PFmI8euuufgmMT_4huVQ&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQFnoECE4QAQ&uoh=1",
+    "snippet": "The paper titled \"Attention Is All You Need\" introduces a new network architecture called the Transformer, which is based solely on ...",
+    "snippet_highlighted_words": [
+     "a new network architecture called the Transformer"
+    ],
+    "source": "Hugging Face",
+    "title": "Transformers"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "The Transformer architecture, introduced in the seminal paper “Attention Is All You Need,” represents a significant departure from traditional ...",
+      "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAwBQCdASocABwAPtE-tFooIigoFAEAGglAE6ZQBLPBf65eTq_BElPBSHbtL8bmhEyAAAD-9BshmIy5E7zQBGmyDlx-Q2dMncmzOyrH5Vj2nnZz11SAiZQLcKXPmeXaqMvybWIXBPuV-mZksR7bh8zH-LdaFpTrKDs-nuzDwxvXrxPO20_H8n8PBZXTi9tt8y_YIJ8axaigpWpvfwnu8_Kd4z2PFOE7jqkQJ3zZUfT1CrqdA6pPfgbnknAPz20Jiat3v9fH1TQNGCSR_lOgAA.webp",
+      "source_info_link": "https://towardsai.com/p/machine-learning/attention-is-all-you-need-a-deep-dive-into-the-revolutionary-transformer-architecture"
+     }
+    },
+    "date": "10‏/04‏/2025",
+    "displayed_link": "https://towardsai.com › attention-is-...",
+    "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAwBQCdASocABwAPtE-tFooIigoFAEAGglAE6ZQBLPBf65eTq_BElPBSHbtL8bmhEyAAAD-9BshmIy5E7zQBGmyDlx-Q2dMncmzOyrH5Vj2nnZz11SAiZQLcKXPmeXaqMvybWIXBPuV-mZksR7bh8zH-LdaFpTrKDs-nuzDwxvXrxPO20_H8n8PBZXTi9tt8y_YIJ8axaigpWpvfwnu8_Kd4z2PFOE7jqkQJ3zZUfT1CrqdA6pPfgbnknAPz20Jiat3v9fH1TQNGCSR_lOgAA.webp",
+    "link": "https://towardsai.com/p/machine-learning/attention-is-all-you-need-a-deep-dive-into-the-revolutionary-transformer-architecture",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFZHCR9im676-bg63bJf07qWZhRq89WkZRXt6n-X-0kK0OMrq940IbNWTNOudbNXjRJjV7lK9zkY4J7pxuLkCcbKod8d3iSyd-ygA5YWSvJ1rKhclGjhiV5BXwUg1Uy84D6W0_Bqj1tGAnep-JWhqVS_724g_NYXE4sKnJp3i274t0S0_bBaTOgY5ifHn0ltAcempFju4RLNne8EcDK-GkzI7F4luz26akjLmFDaV_1h5kw&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQFnoECEcQAQ&uoh=1",
+    "snippet": "The Transformer architecture, introduced in the seminal paper “Attention Is All You Need,” represents a significant departure from traditional ...",
+    "snippet_highlighted_words": [
+     "The Transformer architecture"
+    ],
+    "source": "Towards AI",
+    "title": "Attention Is All You Need - A Deep Dive into the ..."
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=10&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8NMDegQIORAW",
+   "other_pages": {
+    "10": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=90&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8tMDegQIORAU",
+    "2": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=10&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8tMDegQIORAE",
+    "3": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=20&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8tMDegQIORAG",
+    "4": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=30&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8tMDegQIORAI",
+    "5": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=40&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8tMDegQIORAK",
+    "6": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=50&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8tMDegQIORAM",
+    "7": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=60&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8tMDegQIORAO",
+    "8": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=70&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8tMDegQIORAQ",
+    "9": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce?&sca_esv=1e3c50f8191e1804&ei=BgKratKBIcGuptQPwcyEKA&start=80&sa=N&sstk=AS6-VmLZ2xiFIRoSBWlR2VUCoimpQjFegCYViEQOsBDyINseYUIXkwH8lGJ1oXQpdg0WJhlp4OvuPSBiTrz-Hg-FEeLYmgy_AzaxsA&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ8tMDegQIORAS"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2ExRjNURjlUYzJGdE1YTTBlRTFMU1ZGV1JucG9YemhRUXpaVU56RTJRMmRoVkVwS1NUSnZVbGd5Y1ZWNVFWTkhXVVZmTmtsM1J6TTRlWFJhVEhWR1ozRklibGhFUVhaME4wNW9SSFF5WVZKQmNWRjZZV2x0WlRVdFFSSVdRbWRMY21GMFMwSkpZMGQxY0hSUlVIZGplVVZMUVJvaVFVUnpjamxtVVVoWE1tazNNVVpJVkdGZlQwbGpabHA1T0dSalJUaGlTVUZGUVEiLCJmY3YiOiIzIiwiZWkiOiJCZ0tyYXRLQkljR3VwdFFQd2N5RUtBIiwicWMiOiJjdzNMc1EyQUlCQUZVRzJ0SE9GdjRnNXVjSUZMdUVpQW5KOFFDemR4V0tsZTliWnpKQ0dLZHBjODRhaC1RVHdrb3daMlYwU0xZRkkwYWVvUVVndXRGdGdOeVJsUDdmTnBoQlY2alQzb3ZyenJoLU1IIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBhcmNoaXRlY3R1cmUgb2YgdGhlIEF0dGVudGlvbiBJcyBBbGwgWW91IE5lZWQgdHJhbnNmb3JtZXI/IiwibGsiOiJHakpoZEhSbGJuUnBiMjRnYVhNZ1lXeHNJSGx2ZFNCdVpXVmtJSFJ5WVc1elptOXliV1Z5SUdGeVkyaHBkR1ZqZEhWeVpRIiwiYnMiOiJjMzNRc1dyRFFBd0dZTHJlMU5tVDZoaTZIOTFObGtJeU9KREZkQlJubVR0cTY0Sk94bmpwczljTzJNR2w3U1FRSDVKLW1TX3pYbnRVQ0FuVUU2QTRINVNjRGtJUTIzdnZxRXFzSVRLY0VoeTdEajdpQUJWUkF5cklxWTNTazVUMkxiTzR5WGtjem5LYUpmLVF1eDNtWlBMYVQ5Q0VuVWtnZE92UUVWeXJLcFgya0wyTV95bGhUdVpzaWpVS01qeHVZUm9FdTdub0dPV3p0SGtHNC1yLVFPWmlYbXNmSWJCS2JBYTNKRmktc19HZW5FY09xUzl0a2VYam52N0NucC0tQVEiLCJpZCI6ImZjX0JnS3JhdEtCSWNHdXB0UVB3Y3lFS0FfNSJ9",
+    "page_token": "5q48HHicHdFLbqMwAABQzWW6bIwtUjVSNBIBk7GIKXZsPptRYidxwXwaSPns5i6znBPNaSr1XeH9-Wvfm-r_j39mGLp-s1qN4_h8a9ubvTyrtl6d-rlRK3Wy9nxS1Wb9snZ-XtU2aPvdrh-9RHSd9BnglYW01BNFsk_FEHOffNC0I9SvXAYwFo1XF8Ca-MgQBfYRB24jApdzRH5pZOpjw-bzPgB5w9IM9gNH-E5BtfD0VSjutAkysQx7J1sMSi150LqdipIl56O9R0JALRk9-cWY2-LBHM8_126oMm_J0yHPnXw5-CZLSiNSiyPtdI2ERFBhuZbeVWK2zkA7ZRAHvMZHgQ4jB2C8WPImHJNchNvpnVNSFExRZrkKyVzsD5MWuNOY3A_lbS5QMsZh9xGYYleAYc4zFiWVLRmSo8Y40ZC6TAxe-E48tqdznBY8zcisoCM1TKCE0o8xi8RCFhkYHgnG5WLR01V9btHT98L297UeNt29vX0B9ECU7Q",
+    "question": "What is the architecture of the Attention Is All You Need transformer?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5q48HHicHdFLbqMwAABQzWW6bIwtUjVSNBIBk7GIKXZsPptRYidxwXwaSPns5i6znBPNaSr1XeH9-Wvfm-r_j39mGLp-s1qN4_h8a9ubvTyrtl6d-rlRK3Wy9nxS1Wb9snZ-XtU2aPvdrh-9RHSd9BnglYW01BNFsk_FEHOffNC0I9SvXAYwFo1XF8Ca-MgQBfYRB24jApdzRH5pZOpjw-bzPgB5w9IM9gNH-E5BtfD0VSjutAkysQx7J1sMSi150LqdipIl56O9R0JALRk9-cWY2-LBHM8_126oMm_J0yHPnXw5-CZLSiNSiyPtdI2ERFBhuZbeVWK2zkA7ZRAHvMZHgQ4jB2C8WPImHJNchNvpnVNSFExRZrkKyVzsD5MWuNOY3A_lbS5QMsZh9xGYYleAYc4zFiWVLRmSo8Y40ZC6TAxe-E48tqdznBY8zcisoCM1TKCE0o8xi8RCFhkYHgnG5WLR01V9btHT98L297UeNt29vX0B9ECU7Q",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2ExRjNURjlUYzJGdE1YTTBlRTFMU1ZGV1JucG9YemhRUXpaVU56RTJRMmRoVkVwS1NUSnZVbGd5Y1ZWNVFWTkhXVVZmTmtsM1J6TTRlWFJhVEhWR1ozRklibGhFUVhaME4wNW9SSFF5WVZKQmNWRjZZV2x0WlRVdFFSSVdRbWRMY21GMFMwSkpZMGQxY0hSUlVIZGplVVZMUVJvaVFVUnpjamxtVVVoWE1tazNNVVpJVkdGZlQwbGpabHA1T0dSalJUaGlTVUZGUVEiLCJmY3YiOiIzIiwiZWkiOiJCZ0tyYXRLQkljR3VwdFFQd2N5RUtBIiwicWMiOiJjdzNMc1EyQUlCQUZVRzJ0SE9GdjRnNXVjSUZMdUVpQW5KOFFDemR4V0tsZTliWnpKQ0dLZHBjODRhaC1RVHdrb3daMlYwU0xZRkkwYWVvUVVndXRGdGdOeVJsUDdmTnBoQlY2alQzb3ZyenJoLU1IIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBhcmNoaXRlY3R1cmUgb2YgdGhlIEF0dGVudGlvbiBJcyBBbGwgWW91IE5lZWQgdHJhbnNmb3JtZXI%2FIiwibGsiOiJHakpoZEhSbGJuUnBiMjRnYVhNZ1lXeHNJSGx2ZFNCdVpXVmtJSFJ5WVc1elptOXliV1Z5SUdGeVkyaHBkR1ZqZEhWeVpRIiwiYnMiOiJjMzNRc1dyRFFBd0dZTHJlMU5tVDZoaTZIOTFObGtJeU9KREZkQlJubVR0cTY0Sk94bmpwczljTzJNR2w3U1FRSDVKLW1TX3pYbnRVQ0FuVUU2QTRINVNjRGtJUTIzdnZxRXFzSVRLY0VoeTdEajdpQUJWUkF5cklxWTNTazVUMkxiTzR5WGtjem5LYUpmLVF1eDNtWlBMYVQ5Q0VuVWtnZE92UUVWeXJLcFgya0wyTV95bGhUdVpzaWpVS01qeHVZUm9FdTdub0dPV3p0SGtHNC1yLVFPWmlYbXNmSWJCS2JBYTNKRmktc19HZW5FY09xUzl0a2VYam52N0NucC0tQVEiLCJpZCI6ImZjX0JnS3JhdEtCSWNHdXB0UVB3Y3lFS0FfNSJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2ExRjNURjlUYzJGdE1YTTBlRTFMU1ZGV1JucG9YemhRUXpaVU56RTJRMmRoVkVwS1NUSnZVbGd5Y1ZWNVFWTkhXVVZmTmtsM1J6TTRlWFJhVEhWR1ozRklibGhFUVhaME4wNW9SSFF5WVZKQmNWRjZZV2x0WlRVdFFSSVdRbWRMY21GMFMwSkpZMGQxY0hSUlVIZGplVVZMUVJvaVFVUnpjamxtVVVoWE1tazNNVVpJVkdGZlQwbGpabHA1T0dSalJUaGlTVUZGUVEiLCJmY3YiOiIzIiwiZWkiOiJCZ0tyYXRLQkljR3VwdFFQd2N5RUtBIiwicWMiOiJjdzNMc1EyQUlCQUZVRzJ0SE9GdjRnNXVjSUZMdUVpQW5KOFFDemR4V0tsZTliWnpKQ0dLZHBjODRhaC1RVHdrb3daMlYwU0xZRkkwYWVvUVVndXRGdGdOeVJsUDdmTnBoQlY2alQzb3ZyenJoLU1IIiwicXVlc3Rpb24iOiJXaHkgZGlkIHRyYW5zZm9ybWVycyByZXBsYWNlIFJOTnM/IiwibGsiOiJHaUYzYUhrZ1pHbGtJSFJ5WVc1elptOXliV1Z5Y3lCeVpYQnNZV05sSUhKdWJuTSIsImJzIjoiYzMzUXNXckRRQXdHWUxyZTFObVQ2aGk2SDkxTmxrSXlPSkRGZEJSbm1UdHE2NEpPeG5qcHM5Y08yTUdsN1NRUUg1Si1tU196WG50VUNBblVFNkE0SDVTY0RrSVEyM3Z2cUVxc0lUS2NFaHk3RGo3aUFCVlJBeXJJcVkzU2s1VDJMYk80eVhrY3puS2FKZi1RdXgzbVpQTGFUOUNFblVrZ2RPdlFFVnlyS3BYMmtMMk1feWxoVHVac2lqVUtNanh1WVJvRXU3bm9HT1d6dEhrRzQtci1RT1ppWG1zZkliQktiQWEzSkZpLXNfR2VuRWNPcVM5dGtlWGpudjdDbnAtLUFRIiwiaWQiOiJmY19CZ0tyYXRLQkljR3VwdFFQd2N5RUtBXzUifQ==",
+    "page_token": "nu-y4HicHdDbboIwAADQ7Gd8nBSCy0zMMm4i0TqKbaEvSy9ThHJxdgK-7V_2VfuaJTufcL5_9Lmtfx9MaUx_Xc7nwzA8nrrupD8eZdfM-XVq5VxyrQWX9XLxtAAvR7kKv0LPv2y8FPc9CZCVYXUmjbmg3LNlozincEhzbywInCBgDLfKx3Zt7ZrOkiBKhNONskp8YRsLUzCJtfFJw2qqNcN31gsHLgQgOXY0hyDa7mLvhvPyUuQ6oy27qmADpKV9UbsHXJEUVglksQpInbjZIWkphR2lus_aVyNaHZCoAAhDooB6g5TdcCxHYRGH6RJw-swLPCIaoniHVZnfoROWzGeWmYocbdNaV8ghg4qiVNnQRdh463PioRhOe8owapLdwQcubcs9OZCQ26WT2ixUFeQ88hb7GKHZUd5Wzux_c_V-bMyy_-xOf5Lugdo",
+    "question": "Why did transformers replace RNNs?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nu-y4HicHdDbboIwAADQ7Gd8nBSCy0zMMm4i0TqKbaEvSy9ThHJxdgK-7V_2VfuaJTufcL5_9Lmtfx9MaUx_Xc7nwzA8nrrupD8eZdfM-XVq5VxyrQWX9XLxtAAvR7kKv0LPv2y8FPc9CZCVYXUmjbmg3LNlozincEhzbywInCBgDLfKx3Zt7ZrOkiBKhNONskp8YRsLUzCJtfFJw2qqNcN31gsHLgQgOXY0hyDa7mLvhvPyUuQ6oy27qmADpKV9UbsHXJEUVglksQpInbjZIWkphR2lus_aVyNaHZCoAAhDooB6g5TdcCxHYRGH6RJw-swLPCIaoniHVZnfoROWzGeWmYocbdNaV8ghg4qiVNnQRdh463PioRhOe8owapLdwQcubcs9OZCQ26WT2ixUFeQ88hb7GKHZUd5Wzux_c_V-bMyy_-xOf5Lugdo",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2ExRjNURjlUYzJGdE1YTTBlRTFMU1ZGV1JucG9YemhRUXpaVU56RTJRMmRoVkVwS1NUSnZVbGd5Y1ZWNVFWTkhXVVZmTmtsM1J6TTRlWFJhVEhWR1ozRklibGhFUVhaME4wNW9SSFF5WVZKQmNWRjZZV2x0WlRVdFFSSVdRbWRMY21GMFMwSkpZMGQxY0hSUlVIZGplVVZMUVJvaVFVUnpjamxtVVVoWE1tazNNVVpJVkdGZlQwbGpabHA1T0dSalJUaGlTVUZGUVEiLCJmY3YiOiIzIiwiZWkiOiJCZ0tyYXRLQkljR3VwdFFQd2N5RUtBIiwicWMiOiJjdzNMc1EyQUlCQUZVRzJ0SE9GdjRnNXVjSUZMdUVpQW5KOFFDemR4V0tsZTliWnpKQ0dLZHBjODRhaC1RVHdrb3daMlYwU0xZRkkwYWVvUVVndXRGdGdOeVJsUDdmTnBoQlY2alQzb3ZyenJoLU1IIiwicXVlc3Rpb24iOiJXaHkgZGlkIHRyYW5zZm9ybWVycyByZXBsYWNlIFJOTnM%2FIiwibGsiOiJHaUYzYUhrZ1pHbGtJSFJ5WVc1elptOXliV1Z5Y3lCeVpYQnNZV05sSUhKdWJuTSIsImJzIjoiYzMzUXNXckRRQXdHWUxyZTFObVQ2aGk2SDkxTmxrSXlPSkRGZEJSbm1UdHE2NEpPeG5qcHM5Y08yTUdsN1NRUUg1Si1tU196WG50VUNBblVFNkE0SDVTY0RrSVEyM3Z2cUVxc0lUS2NFaHk3RGo3aUFCVlJBeXJJcVkzU2s1VDJMYk80eVhrY3puS2FKZi1RdXgzbVpQTGFUOUNFblVrZ2RPdlFFVnlyS3BYMmtMMk1feWxoVHVac2lqVUtNanh1WVJvRXU3bm9HT1d6dEhrRzQtci1RT1ppWG1zZkliQktiQWEzSkZpLXNfR2VuRWNPcVM5dGtlWGpudjdDbnAtLUFRIiwiaWQiOiJmY19CZ0tyYXRLQkljR3VwdFFQd2N5RUtBXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2ExRjNURjlUYzJGdE1YTTBlRTFMU1ZGV1JucG9YemhRUXpaVU56RTJRMmRoVkVwS1NUSnZVbGd5Y1ZWNVFWTkhXVVZmTmtsM1J6TTRlWFJhVEhWR1ozRklibGhFUVhaME4wNW9SSFF5WVZKQmNWRjZZV2x0WlRVdFFSSVdRbWRMY21GMFMwSkpZMGQxY0hSUlVIZGplVVZMUVJvaVFVUnpjamxtVVVoWE1tazNNVVpJVkdGZlQwbGpabHA1T0dSalJUaGlTVUZGUVEiLCJmY3YiOiIzIiwiZWkiOiJCZ0tyYXRLQkljR3VwdFFQd2N5RUtBIiwicWMiOiJjdzNMc1EyQUlCQUZVRzJ0SE9GdjRnNXVjSUZMdUVpQW5KOFFDemR4V0tsZTliWnpKQ0dLZHBjODRhaC1RVHdrb3daMlYwU0xZRkkwYWVvUVVndXRGdGdOeVJsUDdmTnBoQlY2alQzb3ZyenJoLU1IIiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIGF0dGVudGlvbiBuZXVyYWwgbmV0d29yaz8iLCJsayI6IkdpQjNhR0YwSUdseklHRjBkR1Z1ZEdsdmJpQnVaWFZ5WVd3Z2JtVjBkMjl5YXciLCJicyI6ImMzM1FzV3JEUUF3R1lMcmUxTm1UNmhpNkg5MU5sa0l5T0pERmRCUm5tVHRxNjRKT3huanBzOWNPMk1HbDdTUVFINUotbVNfelhudFVDQW5VRTZBNEg1U2NEa0lRMjN2dnFFcXNJVEtjRWh5N0RqN2lBQlZSQXlySXFZM1NrNVQyTGJPNHlYa2N6bkthSmYtUXV4M21aUExhVDlDRW5Va2dkT3ZRRVZ5cktwWDJrTDJNX3lsaFR1WnNpalVLTWp4dVlSb0V1N25vR09XenRIa0c0LXItUU9aaVhtc2ZJYkJLYkFhM0pGaS1zX0dlbkVjT3FTOXRrZVhqbnY3Q25wLS1BUSIsImlkIjoiZmNfQmdLcmF0S0JJY0d1cHRRUHdjeUVLQV81In0=",
+    "page_token": "W9G1MXicHdDBToMwAADQ-DMeXQtuuiWLsUinVTCUtaW9GChsDErByWRw81_8Kr9G4_2d3te3Odj656Iv-777WM1mwzBc7dt2b4or3Taz9GO0eqZTY7JU16vFzQLe7fTaP_nIe39CEes6_kBBvMXX0jknEeNePt1P8eYWCIs_QwcfUngLJYCvEVCEjsDh9dJmgg10QhWbiBdwPc-wmf68qy0DBSdI-93z1mUTr-FRxACkpuOKlQ1N0KKwTz11ljWHOJVguQsaaKVRkawxyKYcpgxLCQgoEhRkMBQ52J_p5vwYuNxqn2wKD_TxQ_kinSXZVipRzvwoBDnkhr4XfjnmW2L9UnkK9KNM6EtUm4q6fMgxjnInnFPWo82BIPoYjq9Csdjl59yWIEzYICoOuShPvJ63geVhyFGVNope7vTn2r3831y_7Zp-1R3b_S9FOoCj",
+    "question": "What is an attention neural network?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=W9G1MXicHdDBToMwAADQ-DMeXQtuuiWLsUinVTCUtaW9GChsDErByWRw81_8Kr9G4_2d3te3Odj656Iv-777WM1mwzBc7dt2b4or3Taz9GO0eqZTY7JU16vFzQLe7fTaP_nIe39CEes6_kBBvMXX0jknEeNePt1P8eYWCIs_QwcfUngLJYCvEVCEjsDh9dJmgg10QhWbiBdwPc-wmf68qy0DBSdI-93z1mUTr-FRxACkpuOKlQ1N0KKwTz11ljWHOJVguQsaaKVRkawxyKYcpgxLCQgoEhRkMBQ52J_p5vwYuNxqn2wKD_TxQ_kinSXZVipRzvwoBDnkhr4XfjnmW2L9UnkK9KNM6EtUm4q6fMgxjnInnFPWo82BIPoYjq9Csdjl59yWIEzYICoOuShPvJ63geVhyFGVNope7vTn2r3831y_7Zp-1R3b_S9FOoCj",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2ExRjNURjlUYzJGdE1YTTBlRTFMU1ZGV1JucG9YemhRUXpaVU56RTJRMmRoVkVwS1NUSnZVbGd5Y1ZWNVFWTkhXVVZmTmtsM1J6TTRlWFJhVEhWR1ozRklibGhFUVhaME4wNW9SSFF5WVZKQmNWRjZZV2x0WlRVdFFSSVdRbWRMY21GMFMwSkpZMGQxY0hSUlVIZGplVVZMUVJvaVFVUnpjamxtVVVoWE1tazNNVVpJVkdGZlQwbGpabHA1T0dSalJUaGlTVUZGUVEiLCJmY3YiOiIzIiwiZWkiOiJCZ0tyYXRLQkljR3VwdFFQd2N5RUtBIiwicWMiOiJjdzNMc1EyQUlCQUZVRzJ0SE9GdjRnNXVjSUZMdUVpQW5KOFFDemR4V0tsZTliWnpKQ0dLZHBjODRhaC1RVHdrb3daMlYwU0xZRkkwYWVvUVVndXRGdGdOeVJsUDdmTnBoQlY2alQzb3ZyenJoLU1IIiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIGF0dGVudGlvbiBuZXVyYWwgbmV0d29yaz8iLCJsayI6IkdpQjNhR0YwSUdseklHRjBkR1Z1ZEdsdmJpQnVaWFZ5WVd3Z2JtVjBkMjl5YXciLCJicyI6ImMzM1FzV3JEUUF3R1lMcmUxTm1UNmhpNkg5MU5sa0l5T0pERmRCUm5tVHRxNjRKT3huanBzOWNPMk1HbDdTUVFINUotbVNfelhudFVDQW5VRTZBNEg1U2NEa0lRMjN2dnFFcXNJVEtjRWh5N0RqN2lBQlZSQXlySXFZM1NrNVQyTGJPNHlYa2N6bkthSmYtUXV4M21aUExhVDlDRW5Va2dkT3ZRRVZ5cktwWDJrTDJNX3lsaFR1WnNpalVLTWp4dVlSb0V1N25vR09XenRIa0c0LXItUU9aaVhtc2ZJYkJLYkFhM0pGaS1zX0dlbkVjT3FTOXRrZVhqbnY3Q25wLS1BUSIsImlkIjoiZmNfQmdLcmF0S0JJY0d1cHRRUHdjeUVLQV81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2ExRjNURjlUYzJGdE1YTTBlRTFMU1ZGV1JucG9YemhRUXpaVU56RTJRMmRoVkVwS1NUSnZVbGd5Y1ZWNVFWTkhXVVZmTmtsM1J6TTRlWFJhVEhWR1ozRklibGhFUVhaME4wNW9SSFF5WVZKQmNWRjZZV2x0WlRVdFFSSVdRbWRMY21GMFMwSkpZMGQxY0hSUlVIZGplVVZMUVJvaVFVUnpjamxtVVVoWE1tazNNVVpJVkdGZlQwbGpabHA1T0dSalJUaGlTVUZGUVEiLCJmY3YiOiIzIiwiZWkiOiJCZ0tyYXRLQkljR3VwdFFQd2N5RUtBIiwicWMiOiJjdzNMc1EyQUlCQUZVRzJ0SE9GdjRnNXVjSUZMdUVpQW5KOFFDemR4V0tsZTliWnpKQ0dLZHBjODRhaC1RVHdrb3daMlYwU0xZRkkwYWVvUVVndXRGdGdOeVJsUDdmTnBoQlY2alQzb3ZyenJoLU1IIiwicXVlc3Rpb24iOiJXaG8gaW50cm9kdWNlZCB0aGUgYXR0ZW50aW9uIG1lY2hhbmlzbT8iLCJsayI6IkdpSjNhRzhnYVc1MGNtOWtkV05sWkNCaGRIUmxiblJwYjI0Z2JXVmphR0Z1YVhOdCIsImJzIjoiYzMzUXNXckRRQXdHWUxyZTFObVQ2aGk2SDkxTmxrSXlPSkRGZEJSbm1UdHE2NEpPeG5qcHM5Y08yTUdsN1NRUUg1Si1tU196WG50VUNBblVFNkE0SDVTY0RrSVEyM3Z2cUVxc0lUS2NFaHk3RGo3aUFCVlJBeXJJcVkzU2s1VDJMYk80eVhrY3puS2FKZi1RdXgzbVpQTGFUOUNFblVrZ2RPdlFFVnlyS3BYMmtMMk1feWxoVHVac2lqVUtNanh1WVJvRXU3bm9HT1d6dEhrRzQtci1RT1ppWG1zZkliQktiQWEzSkZpLXNfR2VuRWNPcVM5dGtlWGpudjdDbnAtLUFRIiwiaWQiOiJmY19CZ0tyYXRLQkljR3VwdFFQd2N5RUtBXzUifQ==",
+    "page_token": "yzUb2nicHdBdboIwAADg7DI-TrDioolZglDUzDIKbaUvS2kVXMuPyuzwbXfZqXaaLfuO8H19m1Ojfx76qu-762I8ttY-lm1bmsOjbOuxuA6NHEthTCGkXsyeZu7zUS7Dj9BfnTd-QrqOBthJM9ziZpsXAdxkzrxhQdUyxiEhO5c06CoZ36q60gUoJ0ndWqURFBP3wl1f4IDfkJ7H5M7fc0qDGPIpM6Enamp39_KemtBlRIE0wDMCpBcTyASobvkdmYJYN10rgjWaxqH02NpAGqnpgVKQndwJhvCkqLKJ7gCOqiGGfh5HpZNG9CiY54sGtQR2rzsn_0SaDi_7reARb8KKr7jTD_kevyTavGNArYIwURPkYdL70Wnr4zUaYsZxEfELdrozD69W1hCLsI9I9vdAqJM5HmXUgNFR3pZg9L-5fDvW_aK7tOUvqbWBYA",
+    "question": "Who introduced the attention mechanism?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yzUb2nicHdBdboIwAADg7DI-TrDioolZglDUzDIKbaUvS2kVXMuPyuzwbXfZqXaaLfuO8H19m1Ojfx76qu-762I8ttY-lm1bmsOjbOuxuA6NHEthTCGkXsyeZu7zUS7Dj9BfnTd-QrqOBthJM9ziZpsXAdxkzrxhQdUyxiEhO5c06CoZ36q60gUoJ0ndWqURFBP3wl1f4IDfkJ7H5M7fc0qDGPIpM6Enamp39_KemtBlRIE0wDMCpBcTyASobvkdmYJYN10rgjWaxqH02NpAGqnpgVKQndwJhvCkqLKJ7gCOqiGGfh5HpZNG9CiY54sGtQR2rzsn_0SaDi_7reARb8KKr7jTD_kevyTavGNArYIwURPkYdL70Wnr4zUaYsZxEfELdrozD69W1hCLsI9I9vdAqJM5HmXUgNFR3pZg9L-5fDvW_aK7tOUvqbWBYA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2ExRjNURjlUYzJGdE1YTTBlRTFMU1ZGV1JucG9YemhRUXpaVU56RTJRMmRoVkVwS1NUSnZVbGd5Y1ZWNVFWTkhXVVZmTmtsM1J6TTRlWFJhVEhWR1ozRklibGhFUVhaME4wNW9SSFF5WVZKQmNWRjZZV2x0WlRVdFFSSVdRbWRMY21GMFMwSkpZMGQxY0hSUlVIZGplVVZMUVJvaVFVUnpjamxtVVVoWE1tazNNVVpJVkdGZlQwbGpabHA1T0dSalJUaGlTVUZGUVEiLCJmY3YiOiIzIiwiZWkiOiJCZ0tyYXRLQkljR3VwdFFQd2N5RUtBIiwicWMiOiJjdzNMc1EyQUlCQUZVRzJ0SE9GdjRnNXVjSUZMdUVpQW5KOFFDemR4V0tsZTliWnpKQ0dLZHBjODRhaC1RVHdrb3daMlYwU0xZRkkwYWVvUVVndXRGdGdOeVJsUDdmTnBoQlY2alQzb3ZyenJoLU1IIiwicXVlc3Rpb24iOiJXaG8gaW50cm9kdWNlZCB0aGUgYXR0ZW50aW9uIG1lY2hhbmlzbT8iLCJsayI6IkdpSjNhRzhnYVc1MGNtOWtkV05sWkNCaGRIUmxiblJwYjI0Z2JXVmphR0Z1YVhOdCIsImJzIjoiYzMzUXNXckRRQXdHWUxyZTFObVQ2aGk2SDkxTmxrSXlPSkRGZEJSbm1UdHE2NEpPeG5qcHM5Y08yTUdsN1NRUUg1Si1tU196WG50VUNBblVFNkE0SDVTY0RrSVEyM3Z2cUVxc0lUS2NFaHk3RGo3aUFCVlJBeXJJcVkzU2s1VDJMYk80eVhrY3puS2FKZi1RdXgzbVpQTGFUOUNFblVrZ2RPdlFFVnlyS3BYMmtMMk1feWxoVHVac2lqVUtNanh1WVJvRXU3bm9HT1d6dEhrRzQtci1RT1ppWG1zZkliQktiQWEzSkZpLXNfR2VuRWNPcVM5dGtlWGpudjdDbnAtLUFRIiwiaWQiOiJmY19CZ0tyYXRLQkljR3VwdFFQd2N5RUtBXzUifQ%3D%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=Attention+is+all+you+need+importance&sa=X&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ1QJ6BAg_EAE",
+    "query": "Attention is all you need importance",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Attention+is+all+you+need+importance"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=Attention+is+all+you+Need%27%27+paper&sa=X&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ1QJ6BAhFEAE",
+    "query": "Attention is all you Need'' paper",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Attention+is+all+you+Need%27%27+paper"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=Attention+is+all+you+need+2&sa=X&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ1QJ6BAhGEAE",
+    "query": "Attention is all you need 2",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Attention+is+all+you+need+2"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=Attention+is+all+you+need+PDF&sa=X&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ1QJ6BAhEEAE",
+    "query": "Attention is all you need PDF",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Attention+is+all+you+need+PDF"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=Authors+of+Attention+is+All+You+Need&sa=X&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ1QJ6BAhDEAE",
+    "query": "Authors of Attention is All You Need",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Authors+of+Attention+is+All+You+Need"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=Attention+is+all+You+Need+AI+paper&sa=X&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ1QJ6BAhBEAE",
+    "query": "Attention is all You Need AI paper",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Attention+is+all+You+Need+AI+paper"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=Attention+is+all+you+Need+explained&sa=X&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ1QJ6BAhCEAE",
+    "query": "Attention is all you Need explained",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Attention+is+all+you+Need+explained"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=Attention+is+not+all+you+need&sa=X&ved=2ahUKEwjSnKH9_fOWAxVBl4kEHUEmAQUQ1QJ6BAhAEAE",
+    "query": "Attention is not all you need",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Attention+is+not+all+you+need"
+   }
+  ],
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "What neural network architecture did the paper Attention Is All You Need introduce?",
+   "time_taken_displayed": 0.25,
+   "total_results": 133
+  },
+  "search_metadata": {
+   "created_at": "2026-09-16 20:54:30 UTC",
+   "google_url": "https://www.google.com/search?q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&oq=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&sourceid=chrome&ie=UTF-8",
+   "id": "6aab0206a3882d7d86e5ceb8",
+   "json_endpoint": "https://serpapi.com/searches/1JIqW3QTaJdqxbadx3Cj4BqvzRbkSPUvQ6fXNa8amR0/6aab0206a3882d7d86e5ceb8.json",
+   "markdown_endpoint": "https://serpapi.com/searches/1JIqW3QTaJdqxbadx3Cj4BqvzRbkSPUvQ6fXNa8amR0/6aab0206a3882d7d86e5ceb8.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/1JIqW3QTaJdqxbadx3Cj4BqvzRbkSPUvQ6fXNa8amR0/6aab0206a3882d7d86e5ceb8.json_with_pixel_position",
+   "processed_at": "2026-09-16 20:54:30 UTC",
+   "raw_html_file": "https://serpapi.com/searches/1JIqW3QTaJdqxbadx3Cj4BqvzRbkSPUvQ6fXNa8amR0/6aab0206a3882d7d86e5ceb8.html",
+   "status": "Success",
+   "total_time_taken": 0.47
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "What neural network architecture did the paper Attention Is All You Need introduce?"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=90",
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+neural+network+architecture+did+the+paper+Attention+Is+All+You+Need+introduce%3F&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}

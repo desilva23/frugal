@@ -1,0 +1,460 @@
+{
+ "elapsed_ms": 1020.866,
+ "engine": "google",
+ "fetched_at": "2026-09-16T20:54:40.717919+00:00",
+ "frugal_cache_version": 1,
+ "key": "c3cdc991ff5f937b6df257cec44c4e9e11e934086cd90ccd7f390bb14bc3a499",
+ "params": {
+  "num": 10,
+  "q": "What research addresses hallucination in large language models?"
+ },
+ "response": {
+  "ai_overview": {
+   "page_token": "IG7lVXiczVbNcqpIFH6AeY5xkyj4E6OpolJN20SixpD4E7KxELBBgfbSIprdvMss5pnmaaZBIJDBJPcupuYs6D7N-e1zPg5__OnY3ubv3_6ydrstveG4MAxrmBDsmDWduJxGj57OrYhDfd26pSTwddM2BN3yiWtWjnuhWdGpwFdMW0Bg4GukqoIr2PAD9LhdjicbZVqJTQiLpUbNNfNwWFNuwbHH5vdmjzE1WtP82uBBchBPO4o7qjX4RrM25jSXCYD_jqCsAAxkgIB4Xoi9gt-whXH0fM1bZ5ZjkrMjlpzCvLFXKGKnZ62pcmwAgihARmO4epvozICSSozPByznGBgm4YVxGmJkTi5VO0NKkkJ6B5_fhVJyhk4LeT_J1_iTmw8LnMSiWAAI350UnGGg4IyRozjFEz9WgNnrAAvjT_JmMUojoD8DGX51OwTKHTF1LVGWi8wZmDUuzy19ttQ5W7f0eOPTqJ_hpMuTvuXN2pY2qnZ6On0bvMw3gx-Ph8NwYz9jTl8yOYdohmksrAV_G_P1Rv2K7zavO5cxkHSaIYnmkRT2q1OnrXoeRLWnmlhPYQSzOn-oGIJR45ckJsJEtKzETwCk16skRRPZZb1fORikGyyiyLycLx-U-pFoVni2OWDWwzn9dB-1y31etdCvKAsCZS5FCaTNUOwmWQVKWqm8J9ArcKmfoi7oiWmHKb1_CRYNQPAcfUXkvESeWBwQowgDEPXjcBnpRSvwXSvJIspRwWLCoew1SoRyUckMXexjNgIyYjbtaVQZLIsKykKVE18S-oA4VIbZk9ZQ_Nanr4TI1yIMNglePrR_ATZ8F2ym8OV6RPzggdg87OyHBh2vX_ZhOUyIu_yJiaP_r4B0mkeDdB6dBRL8BpBw1G-fzCOUaCdAitnZeSDJDEhl8yiL7X0efQSSOMwB6Yt59PNAgp8C6eS3FEikHEjb80A6hZ4DUnEeofJ5lAHpl-YR-bV5FOPKPC3F4RSs8dkhJUm21O5bo_04OB6XS6NKg94MWEG7t1K-HFIrd3fjaoZzubCNG7Fxvzsalwt2QG5Mo_JDmFva7sI3qamx38oLzTDYnpr0wtIcJ9BtT9vZxLuwvQtH87HJnh4ONLZxiWE69LbiOj4ReK1FlbrbnrRUF6mjTV8aT7udwWjevH5Wj_69aetV-Ght17Q6XTeXL95sXpW2HeIMN4-bxd3Aa9iK9OTR57XUhN1uOH_D-sLcHEf7O2U162-v9YPyorYa67uRZYvqNCQTCaBZYC_lu0H4cFV9nfZVf71cgZWlDifSEMdxUeF1qKJjcGht72nF9XWBdUULgwcFzDFrTxi3LZhqhK0hUO7aQEFiherawqR7oW429St-1al362a9w7cqLt4dt0KXr1DPF-r_AGzbUSo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IG7lVXiczVbNcqpIFH6AeY5xkyj4E6OpolJN20SixpD4E7KxELBBgfbSIprdvMss5pnmaaZBIJDBJPcupuYs6D7N-e1zPg5__OnY3ubv3_6ydrstveG4MAxrmBDsmDWduJxGj57OrYhDfd26pSTwddM2BN3yiWtWjnuhWdGpwFdMW0Bg4GukqoIr2PAD9LhdjicbZVqJTQiLpUbNNfNwWFNuwbHH5vdmjzE1WtP82uBBchBPO4o7qjX4RrM25jSXCYD_jqCsAAxkgIB4Xoi9gt-whXH0fM1bZ5ZjkrMjlpzCvLFXKGKnZ62pcmwAgihARmO4epvozICSSozPByznGBgm4YVxGmJkTi5VO0NKkkJ6B5_fhVJyhk4LeT_J1_iTmw8LnMSiWAAI350UnGGg4IyRozjFEz9WgNnrAAvjT_JmMUojoD8DGX51OwTKHTF1LVGWi8wZmDUuzy19ttQ5W7f0eOPTqJ_hpMuTvuXN2pY2qnZ6On0bvMw3gx-Ph8NwYz9jTl8yOYdohmksrAV_G_P1Rv2K7zavO5cxkHSaIYnmkRT2q1OnrXoeRLWnmlhPYQSzOn-oGIJR45ckJsJEtKzETwCk16skRRPZZb1fORikGyyiyLycLx-U-pFoVni2OWDWwzn9dB-1y31etdCvKAsCZS5FCaTNUOwmWQVKWqm8J9ArcKmfoi7oiWmHKb1_CRYNQPAcfUXkvESeWBwQowgDEPXjcBnpRSvwXSvJIspRwWLCoew1SoRyUckMXexjNgIyYjbtaVQZLIsKykKVE18S-oA4VIbZk9ZQ_Nanr4TI1yIMNglePrR_ATZ8F2ym8OV6RPzggdg87OyHBh2vX_ZhOUyIu_yJiaP_r4B0mkeDdB6dBRL8BpBw1G-fzCOUaCdAitnZeSDJDEhl8yiL7X0efQSSOMwB6Yt59PNAgp8C6eS3FEikHEjb80A6hZ4DUnEeofJ5lAHpl-YR-bV5FOPKPC3F4RSs8dkhJUm21O5bo_04OB6XS6NKg94MWEG7t1K-HFIrd3fjaoZzubCNG7Fxvzsalwt2QG5Mo_JDmFva7sI3qamx38oLzTDYnpr0wtIcJ9BtT9vZxLuwvQtH87HJnh4ONLZxiWE69LbiOj4ReK1FlbrbnrRUF6mjTV8aT7udwWjevH5Wj_69aetV-Ght17Q6XTeXL95sXpW2HeIMN4-bxd3Aa9iK9OTR57XUhN1uOH_D-sLcHEf7O2U162-v9YPyorYa67uRZYvqNCQTCaBZYC_lu0H4cFV9nfZVf71cgZWlDifSEMdxUeF1qKJjcGht72nF9XWBdUULgwcFzDFrTxi3LZhqhK0hUO7aQEFiherawqR7oW429St-1al362a9w7cqLt4dt0KXr1DPF-r_AGzbUSo"
+  },
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Hallucination in Large Language Models (LLMs) refers to outputs that appear fluent and coherent but are factually incorrect, logically inconsistent, or entirely ...",
+      "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+      "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12518350/"
+     }
+    },
+    "author": "بواسطة D Anh-Hoang",
+    "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles",
+    "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12518350/",
+    "position": 1,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAV-UKbxT6kG8pqervSy1kwXXL68Ih4SfLrMYLwxAEvowqcW8L8YyHIPodgxmGXVL39cuUKF0wTybziTmMpQBTpiyaYLy3a0b2gdjjshiVxG-_ORDKXtYi26GB-NakwfXC3UJfyL8o&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQFnoECCMQAQ&uoh=1",
+    "snippet": "Hallucination in Large Language Models (LLMs) refers to outputs that appear fluent and coherent but are factually incorrect, logically inconsistent, or entirely ...",
+    "snippet_highlighted_words": [
+     "outputs that appear fluent and coherent but are factually incorrect"
+    ],
+    "source": "National Institutes of Health (NIH) | (.gov)",
+    "title": "Survey and analysis of hallucinations in large language models"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "This survey provides a comprehensive review of research on hallucination in LLMs, with a focus on causes, detection, and mitigation. We first present a taxonomy ...",
+      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+      "source_info_link": "https://www.sciencedirect.com/science/article/pii/S157401372600078X"
+     }
+    },
+    "author": "بواسطة A Alansari",
+    "displayed_link": "https://www.sciencedirect.com › pii",
+    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+    "link": "https://www.sciencedirect.com/science/article/pii/S157401372600078X",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVBlIjLj_bZ7m9jRl438zsJ-mSQ3IBVggRY8QlN7l9PFKserKdAmx6aJ8SQVHlHVVbvEK3piuRJxzW3CxEfUaZOAG2YbHDNYlv-3vYq_ZuCkxhdtwgqq6qk59BzvhYrTb-g5Px0IjFRLYVe7EOGSuNoFyXPVp1nQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQFnoECCEQAQ&uoh=1",
+    "snippet": "This survey provides a comprehensive review of research on hallucination in LLMs, with a focus on causes, detection, and mitigation. We first present a taxonomy ...",
+    "snippet_highlighted_words": [
+     "hallucination in LLMs"
+    ],
+    "source": "ScienceDirect.com",
+    "title": "Large language models hallucination: A comprehensive ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "OpenAI's new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, ...",
+      "icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABQBwCdASocABwAPtFAtFooIqgoFAEAGglpAAbABWIeaL5K9gP9Uv930gHsd_syHZqyPV42sx7sMTy0CIZslnv9u8VAAP72AlvSo6Juyo9w75vxc5qB_dP39ckcZFeVmodvXMLqvVu9T_vQ_LXZlEJvbkWSB4jsL5bHQjwX--86gcHfj-jR297id4M-Ibef1ZOk_A48d_jpDdwlVakazhHMXzO0cx7t7uiTwe4_8bt3qXp90eMAntvZmX9AfGjJ-QyubP_01uAVcWwHZpKS9q1MyRWH962oj9BOrQ25zGSCoBVTBTbNnwEy_yHL5B_bNyeZPT3H7rIctlbszORn0raNTvzulMlSa5W60uu8zBIEIuf9wrQ_awAAAAA.webp",
+      "source_info_link": "https://openai.com/index/why-language-models-hallucinate/"
+     }
+    },
+    "date": "05‏/09‏/2025",
+    "displayed_link": "https://openai.com › index › why-la...",
+    "favicon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABQBwCdASocABwAPtFAtFooIqgoFAEAGglpAAbABWIeaL5K9gP9Uv930gHsd_syHZqyPV42sx7sMTy0CIZslnv9u8VAAP72AlvSo6Juyo9w75vxc5qB_dP39ckcZFeVmodvXMLqvVu9T_vQ_LXZlEJvbkWSB4jsL5bHQjwX--86gcHfj-jR297id4M-Ibef1ZOk_A48d_jpDdwlVakazhHMXzO0cx7t7uiTwe4_8bt3qXp90eMAntvZmX9AfGjJ-QyubP_01uAVcWwHZpKS9q1MyRWH962oj9BOrQ25zGSCoBVTBTbNnwEy_yHL5B_bNyeZPT3H7rIctlbszORn0raNTvzulMlSa5W60uu8zBIEIuf9wrQ_awAAAAA.webp",
+    "link": "https://openai.com/index/why-language-models-hallucinate/",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVEpU44ctR75uoOECsyOr62GSGG_rfjHgwoludhV5uZQl-Ouz_Tg-Kk9SiAsaa8E8Tq8AGCBM4ujW2SAd37SILAP05c7dUB2YFp2xaD3uDbUoMthahSnSn2VAwoY_UoknJtHFP7G2PLLmzUJom&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQFnoECCcQAQ&uoh=1",
+    "snippet": "OpenAI's new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, ...",
+    "snippet_highlighted_words": [
+     "why language models hallucinate"
+    ],
+    "source": "OpenAI",
+    "title": "Why language models hallucinate"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Large language models sometimes produce confident, plausible falsehoods ('\nhallucinations'), limiting their reliability.",
+      "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAABQBwCdASocABwAPtE-tFooIigoFAEAGglpABOVecG8UHqFgAxuLOo8AA2f8xIE0bhiVfzrsLX-8iNy8yOyQXiRO6gAAP72ElPA8F_YgbxcjMd8xfNEsUQadePtlGpNjDTj4hx9dP0FCPqbsJbt_sQZTxGt1_k2R-3PPpW1uNTYkWj4cmexc686Hde_ADohWj4Vdb_G_ybsPymfoDCfPnn0xjB_ieVxWB81txQ83lqyPz0eAS3DNEWXiIApVRhfOXR49d-GKY8hw9JDcz37BCnmx4dvGxWP9MvJ_l7fz6xG1UTr0Oz3z4_BYdroHcYcA850ZfiBiYWacsnoJO8uNAtO457iQOD1f-DzHMk7HNWcFNtlTl_lUDrp9z1Rj4_3wWB0iXWFbvczHFTdyegAAA.webp",
+      "source_info_link": "https://www.nature.com/articles/s41586-026-10549-w"
+     }
+    },
+    "author": "بواسطة AT Kalai",
+    "displayed_link": "https://www.nature.com › articles",
+    "favicon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAABQBwCdASocABwAPtE-tFooIigoFAEAGglpABOVecG8UHqFgAxuLOo8AA2f8xIE0bhiVfzrsLX-8iNy8yOyQXiRO6gAAP72ElPA8F_YgbxcjMd8xfNEsUQadePtlGpNjDTj4hx9dP0FCPqbsJbt_sQZTxGt1_k2R-3PPpW1uNTYkWj4cmexc686Hde_ADohWj4Vdb_G_ybsPymfoDCfPnn0xjB_ieVxWB81txQ83lqyPz0eAS3DNEWXiIApVRhfOXR49d-GKY8hw9JDcz37BCnmx4dvGxWP9MvJ_l7fz6xG1UTr0Oz3z4_BYdroHcYcA850ZfiBiYWacsnoJO8uNAtO457iQOD1f-DzHMk7HNWcFNtlTl_lUDrp9z1Rj4_3wWB0iXWFbvczHFTdyegAAA.webp",
+    "link": "https://www.nature.com/articles/s41586-026-10549-w",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAViWedE0NJrF13fUw25f5mMlBN3iuU_v0ncRYP7Qqr18ZpESL5kOZLh6e_xl-TvXl5qrmSJv5F3z9i4Mhsm8lz63NfDmUy1oTMQldRkvxvB622a2PtDvsUydfOD30QXAzVuKaikT8&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQFnoECCYQAQ&uoh=1",
+    "snippet": "Large language models sometimes produce confident, plausible falsehoods ('hallucinations'), limiting their reliability.",
+    "snippet_highlighted_words": [
+     "Large language models",
+     "hallucinations"
+    ],
+    "source": "Nature",
+    "title": "Evaluating large language models for accuracy ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "This survey provides a comprehensive review of research on hallucination in LLMs, with a focus on causes, detection, and mitigation. We ...",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
+      "source_info_link": "https://arxiv.org/abs/2510.06265"
+     }
+    },
+    "author": "بواسطة A Alansari",
+    "displayed_link": "https://arxiv.org › abs",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
+    "link": "https://arxiv.org/abs/2510.06265",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVhV3_PcJvnTjkgsdWMhRvqi2rgKotLBhkjRmWmKl9KzE4Lmxsv4f0t45F56iL4woDo2rag9EoQdALngRl2FW3udICBclabN-8Jr3syYBEB0kec8M&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQFnoECCUQAQ&uoh=1",
+    "snippet": "This survey provides a comprehensive review of research on hallucination in LLMs, with a focus on causes, detection, and mitigation. We ...",
+    "snippet_highlighted_words": [
+     "hallucination in LLMs"
+    ],
+    "source": "arXiv.org",
+    "title": "[2510.06265] Large Language Models Hallucination"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Large language models (LLMs) often produce errors, including factual inaccuracies, biases, and reasoning failures, collectively referred to as “\nhallucinations”.",
+      "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp",
+      "source_info_link": "https://machinelearning.apple.com/research/exploring-hallucinations"
+     }
+    },
+    "displayed_link": "https://machinelearning.apple.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp",
+    "link": "https://machinelearning.apple.com/research/exploring-hallucinations",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAViEls926035j2UBPnFRq-ygNpX9G1jnyqURSl_dzC40cwdQeqymkj9mxsbOMIPmQ-ri56F2Es6bODwipoCI6jVTVRnOl_gvTjopaVxXg5BLkBwj9h4u5WBpJAYLbq5oJzArL0zgy23LOhj4Lbo7SmzpINo9dBTQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQFnoECE4QAQ&uoh=1",
+    "snippet": "Large language models (LLMs) often produce errors, including factual inaccuracies, biases, and reasoning failures, collectively referred to as “hallucinations”.",
+    "snippet_highlighted_words": [
+     "Large language models",
+     "hallucinations"
+    ],
+    "source": "Apple Machine Learning Research",
+    "title": "Exploring Hallucinations From the Model's Viewpoint"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Symbolic artificial intelligence models generally do not produce hallucinations, unlike large language models. ... Research in 2022 has shown that language models ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › Hal...",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV-u_CuJQ02QVtF8hgGgST18FOXY1pr4kblgRX48PnSyWBtgRCwmg5MDuKH9n7Psb1b5DdCAV7aIo0HRnIUpwJGJ-HNOn8E78eurhTlOuGkyh11mSOEm2RD9HS6LnPXaPyyzIOUQuGtrTslqDZfKFCsiwdH1RQ7qPt&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQFnoECFIQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#Term",
+       "title": "Term"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#In_natural_language_generation",
+       "title": "In natural language generation"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#In_other_modalities",
+       "title": "In other modalities"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#In_legal_filings",
+       "title": "In legal filings"
+      }
+     ]
+    },
+    "snippet": "Symbolic artificial intelligence models generally do not produce hallucinations, unlike large language models. ... Research in 2022 has shown that language models ...",
+    "snippet_highlighted_words": [
+     "hallucinations",
+     "large language models",
+     "Research",
+     "language models"
+    ],
+    "source": "Wikipedia",
+    "title": "Hallucination (artificial intelligence)"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "This research examines hallucinations in large language models, which are plausible-sounding but factually incorrect outputs that pose ...",
+      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASocABwAPrUurVanIacnG_DgFolpAAbIDvLv7fyO_QGoAFe1-t1fUHhUzur4aYft-acC5396AAD--b2J9SW9N9ZJnsjpcQE-0QRkCl_4VnAcRiHjkXx1DaFzeD7Bnm13ePAivffs5pT8UDIsUoZvLPhmYFjZ__4bpOz07P-Qu3DfVppAaGH1Sd4VYmeBt5uM-Bd1T_IXX9_kWYWDRInhLlxbvH7nv9I-2ZvVZCGeR8TO-JnekIGRNH1ilLNCosPrIXQyPYy_mwvRLldYshcljCsjTuS2P-Oi_3kg6VewIAh_0qLRdML6z81qvyKzJjjfvWMAAAAA.webp",
+      "source_info_link": "https://dl.acm.org/doi/10.1145/3703155"
+     }
+    },
+    "date": "24‏/01‏/2025",
+    "displayed_link": "https://dl.acm.org › doi",
+    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASocABwAPrUurVanIacnG_DgFolpAAbIDvLv7fyO_QGoAFe1-t1fUHhUzur4aYft-acC5396AAD--b2J9SW9N9ZJnsjpcQE-0QRkCl_4VnAcRiHjkXx1DaFzeD7Bnm13ePAivffs5pT8UDIsUoZvLPhmYFjZ__4bpOz07P-Qu3DfVppAaGH1Sd4VYmeBt5uM-Bd1T_IXX9_kWYWDRInhLlxbvH7nv9I-2ZvVZCGeR8TO-JnekIGRNH1ilLNCosPrIXQyPYy_mwvRLldYshcljCsjTuS2P-Oi_3kg6VewIAh_0qLRdML6z81qvyKzJjjfvWMAAAAA.webp",
+    "link": "https://dl.acm.org/doi/10.1145/3703155",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVhguTrR4smzjgm7saQoezyTB0CxpEYpqlw3_jfXsHrsmHF9i4ClaiAoeNuIhEHTHTDitl8yCuZ6u1R-vcG__DVuWjZC8fXooeAdlqp-0QlLNnXoEFlvGJAVg&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQFnoECEgQAQ&uoh=1",
+    "snippet": "This research examines hallucinations in large language models, which are plausible-sounding but factually incorrect outputs that pose ...",
+    "snippet_highlighted_words": [
+     "hallucinations in large language models"
+    ],
+    "source": "ACM Digital Library",
+    "title": "A Survey on Hallucination in Large Language Models"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "To address hallucinations, researchers have proposed various strategies that encompass the entire training and inference loop [10], including ...",
+      "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAwBQCdASocABwAPtE-tFooIigoFAEAGgljALENCmrcVbIcbaRMtO_O6x9Oymxbwj-wAAD-9Mufw8FwE7-LHQR3DomH1fidz4H0OS1GNKfmtF46qwUTvgdd8Pwg_8o_dFaIYmszWTHuboDvH6aqzHyr2eXhf_7dOyGC6-R97WaOsRgNrcX7pg_5Z3teKA8a_b_zHhk3_6WC41FDv6JfzrWy-Fv5cLNjxRgD0UO7L9ZjWmD7wD5x_-0o9_n-2KjgKUI36Xv8YhAwryCxTEeHcru7r8_UgJDwSLVC0NL_E0KHgIuHhdRF9YWF4V1KPf2EsH-nPyzi3_wrxBYm8cO1KIn1GHuwASpCyAAAAA.webp",
+      "source_info_link": "https://link.springer.com/article/10.1007/s40747-025-01833-9"
+     }
+    },
+    "author": "بواسطة Y Liu",
+    "displayed_link": "https://link.springer.com › article",
+    "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAwBQCdASocABwAPtE-tFooIigoFAEAGgljALENCmrcVbIcbaRMtO_O6x9Oymxbwj-wAAD-9Mufw8FwE7-LHQR3DomH1fidz4H0OS1GNKfmtF46qwUTvgdd8Pwg_8o_dFaIYmszWTHuboDvH6aqzHyr2eXhf_7dOyGC6-R97WaOsRgNrcX7pg_5Z3teKA8a_b_zHhk3_6WC41FDv6JfzrWy-Fv5cLNjxRgD0UO7L9ZjWmD7wD5x_-0o9_n-2KjgKUI36Xv8YhAwryCxTEeHcru7r8_UgJDwSLVC0NL_E0KHgIuHhdRF9YWF4V1KPf2EsH-nPyzi3_wrxBYm8cO1KIn1GHuwASpCyAAAAA.webp",
+    "link": "https://link.springer.com/article/10.1007/s40747-025-01833-9",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVPIisQOah-2owVvgVxp7poTtZsh5zpMVRlqpOnjaSQrYM-bt1QmpzeZ7jwBN4d2bUIj1xwNM7eXv3pJiS0RaDXusUVE-nzRXEKIGvulKt1pNMY_pjGRvk2L78LAM6qRSPAN06O686qXwT3Uy26bff&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQFnoECEoQAQ&uoh=1",
+    "snippet": "To address hallucinations, researchers have proposed various strategies that encompass the entire training and inference loop [10], including ...",
+    "snippet_highlighted_words": [
+     "address hallucinations",
+     "researchers"
+    ],
+    "source": "Springer Nature Link",
+    "title": "Reducing hallucinations of large language models via ..."
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=10&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8NMDegQIORAW",
+   "other_pages": {
+    "10": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=90&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8tMDegQIORAU",
+    "2": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=10&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8tMDegQIORAE",
+    "3": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=20&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8tMDegQIORAG",
+    "4": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=30&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8tMDegQIORAI",
+    "5": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=40&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8tMDegQIORAK",
+    "6": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=50&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8tMDegQIORAM",
+    "7": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=60&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8tMDegQIORAO",
+    "8": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=70&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8tMDegQIORAQ",
+    "9": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&ei=EAKrao-YA5C2ruEPpbOTkQU&start=80&sa=N&sstk=AS6-VmIQZ62CbRHYYg-8z_2lR6pDM9chvg-g_MowIWaOzTNZ3jXFJWWSth9S7k7THdEIkzNbhwKMJODVJoKf1szwsuLi5MU97LmlaQ&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ8tMDegQIORAS"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWaFhjVjg0TVVaQmVXNVhTRWh2VkdFd1p6QkZaMHRaVFdaaGMydEJNSEJxZVdsd1ZETjZXVEUzU3pCRU1rNVhlR1o1WDNRM1kwcHlRMUJEV0UxbVMwcDJjblJUVlU5T1RXWkhlbXh5VjNoV1Z6TlJUVmsyZUUxT1FSSVhSVUZMY21GdkxWbEJOVU15Y25WRlVIQmlUMVJyVVZVYUlrRkVjM0k1WmxSVVIyZGZNRk52V0ZKVU0xcFNNbkJOWldWTk1FVmFZa00yY0VFIiwiZmN2IjoiMyIsImVpIjoiRUFLcmFvLVlBNUMycnVFUHBiT1RrUVUiLCJxYyI6ImMtT3lLODlJTEZFb1NpMU9UU3hLemxCSVRFa0Jzb3RUaXhVeUVuTnlTcE16OHhKTE12UHpGREx6RkhJU2k5SlRnV1JlZW1raWtKR2JuNUthVXl6QVVNdjJ4c2NlQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJlc2VhcmNoIG9uIGhhbGx1Y2luYXRpb25zPyIsImxrIjoiR2hweVpYTmxZWEpqYUNCdmJpQm9ZV3hzZFdOcGJtRjBhVzl1Y3ciLCJicyI6ImM1M09QUXNDTVF5QVlWd3pPUmVSNE9LbVIwRWREMEg4LUFVM2x6WmNDN1hCZm5ENDc3MXprbE1IbmZNLVNlQUV5OGFxakM1aHRvU1JFcW1vTFhKQXE3d3YyZ1dWSFlkVXk1a1EzOGVnWWQzWU94b2VEWkMxTGhGZFFLOUNXMVJMZUdWRHZsOVlpVlgzRTRFYmJNX2NZZWItVVZNMGplR1R4TDVfdTdVVEdfdVBoQ01zRGt3Sjl4ZE0yWG5fQW1sUXNwTGJXcUtZbTZGUzdrTTFKTlBKQXciLCJpZCI6ImZjX0VBS3Jhby1ZQTVDMnJ1RVBwYk9Ua1FVXzUifQ==",
+    "page_token": "X8A0xXicHdBfboIwHADg7DI-SpnopolZgloYDgyl_Sl9WUr9U22BTtkQ3naXnWqnWbLvCN_3jzlX-vdhp5rG3maO07bt8FTXJ3MYyrp0xK2rpCOFMYWQejZ5mrgvRzlf3Vp_Ubd-yqyFJUF04RKBprwwsN5gyMhOXXPN3_ZV3ogq4hSiz33Ao9QoT5TWO6zUJr-ApTvIqXZXCcVnoiMstu4jwwndhzaVbo5irVABvIYy8fL-tROGeRTqMQt5DAxfKLr3bAW5RNGYhkrHYOwhVHAIWS8eYR0H0_EmMEGin-_kQigPIGOBwTK4ZRiBn40iVXQuTyks4ypyCfhtrqdMuBiCc-STMOk2W05SwG2BgQFSHjW8AWx7XjbVtrIVR-ZDXBIyOMqv-WjwPzZ_P5bNzF7r0x9ocHkB",
+    "question": "What is the research on hallucinations?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=X8A0xXicHdBfboIwHADg7DI-SpnopolZgloYDgyl_Sl9WUr9U22BTtkQ3naXnWqnWbLvCN_3jzlX-vdhp5rG3maO07bt8FTXJ3MYyrp0xK2rpCOFMYWQejZ5mrgvRzlf3Vp_Ubd-yqyFJUF04RKBprwwsN5gyMhOXXPN3_ZV3ogq4hSiz33Ao9QoT5TWO6zUJr-ApTvIqXZXCcVnoiMstu4jwwndhzaVbo5irVABvIYy8fL-tROGeRTqMQt5DAxfKLr3bAW5RNGYhkrHYOwhVHAIWS8eYR0H0_EmMEGin-_kQigPIGOBwTK4ZRiBn40iVXQuTyks4ypyCfhtrqdMuBiCc-STMOk2W05SwG2BgQFSHjW8AWx7XjbVtrIVR-ZDXBIyOMqv-WjwPzZ_P5bNzF7r0x9ocHkB",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWaFhjVjg0TVVaQmVXNVhTRWh2VkdFd1p6QkZaMHRaVFdaaGMydEJNSEJxZVdsd1ZETjZXVEUzU3pCRU1rNVhlR1o1WDNRM1kwcHlRMUJEV0UxbVMwcDJjblJUVlU5T1RXWkhlbXh5VjNoV1Z6TlJUVmsyZUUxT1FSSVhSVUZMY21GdkxWbEJOVU15Y25WRlVIQmlUMVJyVVZVYUlrRkVjM0k1WmxSVVIyZGZNRk52V0ZKVU0xcFNNbkJOWldWTk1FVmFZa00yY0VFIiwiZmN2IjoiMyIsImVpIjoiRUFLcmFvLVlBNUMycnVFUHBiT1RrUVUiLCJxYyI6ImMtT3lLODlJTEZFb1NpMU9UU3hLemxCSVRFa0Jzb3RUaXhVeUVuTnlTcE16OHhKTE12UHpGREx6RkhJU2k5SlRnV1JlZW1raWtKR2JuNUthVXl6QVVNdjJ4c2NlQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJlc2VhcmNoIG9uIGhhbGx1Y2luYXRpb25zPyIsImxrIjoiR2hweVpYTmxZWEpqYUNCdmJpQm9ZV3hzZFdOcGJtRjBhVzl1Y3ciLCJicyI6ImM1M09QUXNDTVF5QVlWd3pPUmVSNE9LbVIwRWREMEg4LUFVM2x6WmNDN1hCZm5ENDc3MXprbE1IbmZNLVNlQUV5OGFxakM1aHRvU1JFcW1vTFhKQXE3d3YyZ1dWSFlkVXk1a1EzOGVnWWQzWU94b2VEWkMxTGhGZFFLOUNXMVJMZUdWRHZsOVlpVlgzRTRFYmJNX2NZZWItVVZNMGplR1R4TDVfdTdVVEdfdVBoQ01zRGt3Sjl4ZE0yWG5fQW1sUXNwTGJXcUtZbTZGUzdrTTFKTlBKQXciLCJpZCI6ImZjX0VBS3Jhby1ZQTVDMnJ1RVBwYk9Ua1FVXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWaFhjVjg0TVVaQmVXNVhTRWh2VkdFd1p6QkZaMHRaVFdaaGMydEJNSEJxZVdsd1ZETjZXVEUzU3pCRU1rNVhlR1o1WDNRM1kwcHlRMUJEV0UxbVMwcDJjblJUVlU5T1RXWkhlbXh5VjNoV1Z6TlJUVmsyZUUxT1FSSVhSVUZMY21GdkxWbEJOVU15Y25WRlVIQmlUMVJyVVZVYUlrRkVjM0k1WmxSVVIyZGZNRk52V0ZKVU0xcFNNbkJOWldWTk1FVmFZa00yY0VFIiwiZmN2IjoiMyIsImVpIjoiRUFLcmFvLVlBNUMycnVFUHBiT1RrUVUiLCJxYyI6ImMtT3lLODlJTEZFb1NpMU9UU3hLemxCSVRFa0Jzb3RUaXhVeUVuTnlTcE16OHhKTE12UHpGREx6RkhJU2k5SlRnV1JlZW1raWtKR2JuNUthVXl6QVVNdjJ4c2NlQUEiLCJxdWVzdGlvbiI6IldoeSBkbyBoYWxsdWNpbmF0aW9ucyBvY2N1ciBpbiBsYW5ndWFnZSBtb2RlbHM/IiwibGsiOiJHaTUzYUhrZ1pHOGdhR0ZzYkhWamFXNWhkR2x2Ym5NZ2IyTmpkWElnYVc0Z2JHRnVaM1ZoWjJVZ2JXOWtaV3h6IiwiYnMiOiJjNTNPUFFzQ01ReUFZVnd6T1JlUjRPS21SMEVkRDBIOC1BVTNselpjQzdYQmZuRDQ3NzF6a2xNSG5mTS1TZUFFeThhcWpDNWh0b1NSRXFtb0xYSkFxN3d2MmdXVkhZZFV5NWtRMzhlZ1lkM1lPeG9lRFpDMUxoRmRRSzlDVzFSTGVHVkR2bDlZaVZYM0U0RWJiTV9jWWViLVVWTTBqZUdUeEw1X3U3VVRHX3VQaENNc0Rrd0o5eGRNMlhuX0FtbFFzcExiV3FLWW02RlM3a00xSk5QSkF3IiwiaWQiOiJmY19FQUtyYW8tWUE1QzJydUVQcGJPVGtRVV81In0=",
+    "page_token": "LDeIk3icHdBbbqMwFABQdTP9bCCEThspGinlUWhJ62uu7fHPiBgICQbcximQv-5lVjWrGWnOEs73H33s2783X4215rxeLMZxvDsMw0FXd2roFsV57tVCFVrvC9Wu73_cuz9rtQkvyfbpI9kSNIYF4OQB47Q3Fx5PWjhMkrakVWhPJZ_ODJsVFyatArnNhXKomxIawDVDDbTbNXTZHKUwtViqEeO0y3pliacbiNmcCRkAi16z0A32y9JIobwKLX2j7geLkhVcDz54csqYvJSOsUVAJtnaS9WVXt7KRHXpJ3LfQyeSEO3q15xp5fiQ4-N7dWqeduiH9OjqHZbAn9m2CGHK0fZhU0YE7fyLP1iOoUuu6VwiIypO31lsgcFwJAhXddIdUrdAYV6YbkbqpAmd3dW-exj3fEogh2clwCfktlZfG-_2_-fmd93ZtfkcDv8AMUKETQ",
+    "question": "Why do hallucinations occur in language models?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LDeIk3icHdBbbqMwFABQdTP9bCCEThspGinlUWhJ62uu7fHPiBgICQbcximQv-5lVjWrGWnOEs73H33s2783X4215rxeLMZxvDsMw0FXd2roFsV57tVCFVrvC9Wu73_cuz9rtQkvyfbpI9kSNIYF4OQB47Q3Fx5PWjhMkrakVWhPJZ_ODJsVFyatArnNhXKomxIawDVDDbTbNXTZHKUwtViqEeO0y3pliacbiNmcCRkAi16z0A32y9JIobwKLX2j7geLkhVcDz54csqYvJSOsUVAJtnaS9WVXt7KRHXpJ3LfQyeSEO3q15xp5fiQ4-N7dWqeduiH9OjqHZbAn9m2CGHK0fZhU0YE7fyLP1iOoUuu6VwiIypO31lsgcFwJAhXddIdUrdAYV6YbkbqpAmd3dW-exj3fEogh2clwCfktlZfG-_2_-fmd93ZtfkcDv8AMUKETQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWaFhjVjg0TVVaQmVXNVhTRWh2VkdFd1p6QkZaMHRaVFdaaGMydEJNSEJxZVdsd1ZETjZXVEUzU3pCRU1rNVhlR1o1WDNRM1kwcHlRMUJEV0UxbVMwcDJjblJUVlU5T1RXWkhlbXh5VjNoV1Z6TlJUVmsyZUUxT1FSSVhSVUZMY21GdkxWbEJOVU15Y25WRlVIQmlUMVJyVVZVYUlrRkVjM0k1WmxSVVIyZGZNRk52V0ZKVU0xcFNNbkJOWldWTk1FVmFZa00yY0VFIiwiZmN2IjoiMyIsImVpIjoiRUFLcmFvLVlBNUMycnVFUHBiT1RrUVUiLCJxYyI6ImMtT3lLODlJTEZFb1NpMU9UU3hLemxCSVRFa0Jzb3RUaXhVeUVuTnlTcE16OHhKTE12UHpGREx6RkhJU2k5SlRnV1JlZW1raWtKR2JuNUthVXl6QVVNdjJ4c2NlQUEiLCJxdWVzdGlvbiI6IldoeSBkbyBoYWxsdWNpbmF0aW9ucyBvY2N1ciBpbiBsYW5ndWFnZSBtb2RlbHM%2FIiwibGsiOiJHaTUzYUhrZ1pHOGdhR0ZzYkhWamFXNWhkR2x2Ym5NZ2IyTmpkWElnYVc0Z2JHRnVaM1ZoWjJVZ2JXOWtaV3h6IiwiYnMiOiJjNTNPUFFzQ01ReUFZVnd6T1JlUjRPS21SMEVkRDBIOC1BVTNselpjQzdYQmZuRDQ3NzF6a2xNSG5mTS1TZUFFeThhcWpDNWh0b1NSRXFtb0xYSkFxN3d2MmdXVkhZZFV5NWtRMzhlZ1lkM1lPeG9lRFpDMUxoRmRRSzlDVzFSTGVHVkR2bDlZaVZYM0U0RWJiTV9jWWViLVVWTTBqZUdUeEw1X3U3VVRHX3VQaENNc0Rrd0o5eGRNMlhuX0FtbFFzcExiV3FLWW02RlM3a00xSk5QSkF3IiwiaWQiOiJmY19FQUtyYW8tWUE1QzJydUVQcGJPVGtRVV81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWaFhjVjg0TVVaQmVXNVhTRWh2VkdFd1p6QkZaMHRaVFdaaGMydEJNSEJxZVdsd1ZETjZXVEUzU3pCRU1rNVhlR1o1WDNRM1kwcHlRMUJEV0UxbVMwcDJjblJUVlU5T1RXWkhlbXh5VjNoV1Z6TlJUVmsyZUUxT1FSSVhSVUZMY21GdkxWbEJOVU15Y25WRlVIQmlUMVJyVVZVYUlrRkVjM0k1WmxSVVIyZGZNRk52V0ZKVU0xcFNNbkJOWldWTk1FVmFZa00yY0VFIiwiZmN2IjoiMyIsImVpIjoiRUFLcmFvLVlBNUMycnVFUHBiT1RrUVUiLCJxYyI6ImMtT3lLODlJTEZFb1NpMU9UU3hLemxCSVRFa0Jzb3RUaXhVeUVuTnlTcE16OHhKTE12UHpGREx6RkhJU2k5SlRnV1JlZW1raWtKR2JuNUthVXl6QVVNdjJ4c2NlQUEiLCJxdWVzdGlvbiI6IkhvdyB0byByZWR1Y2UgaGFsbHVjaW5hdGlvbnMgaW4gbGFyZ2UgbGFuZ3VhZ2UgbW9kZWxzPyIsImxrIjoiY3czRzBRa0FJQWdGd0QzNmVrczBrSlNVWUFxWnRINzlIRmZxOUl2ajJOeXpNU2FwWmhPakkyNEJNU2p0d1Y4YlNUX0xPMnM4IiwiYnMiOiJjNTNPUFFzQ01ReUFZVnd6T1JlUjRPS21SMEVkRDBIOC1BVTNselpjQzdYQmZuRDQ3NzF6a2xNSG5mTS1TZUFFeThhcWpDNWh0b1NSRXFtb0xYSkFxN3d2MmdXVkhZZFV5NWtRMzhlZ1lkM1lPeG9lRFpDMUxoRmRRSzlDVzFSTGVHVkR2bDlZaVZYM0U0RWJiTV9jWWViLVVWTTBqZUdUeEw1X3U3VVRHX3VQaENNc0Rrd0o5eGRNMlhuX0FtbFFzcExiV3FLWW02RlM3a00xSk5QSkF3IiwiaWQiOiJmY19FQUtyYW8tWUE1QzJydUVQcGJPVGtRVV81In0=",
+    "page_token": "eC7w7HicHdBbjtowFABQdTPzOdik0AkSqjSJL8glBju28_ipgk0IifMQk5kM-esWuoauqqup1LOE8-uPu3XN3y-_q3Ec3jaLxTRNz9e-v7rLs-nbRfH26MzCFM6dC9Ns1t_W-HtptuTDvAZ388rVMOhQoFhTMNjnFmmPqdV73lQ7JQEflThFnVnm--GmPDhmmNWRhqVEmJg99aKGf8bK92wKSIA4HZLPQHp5YJGvLg3NbVoh416WUQor1rpZ4YqcnZtFl09Zi-siBRd3cMgbyM_Y3cVeBGfklxKsKiTHKgRtkpEU2rnYWXHci5CnrBTIjtJpGUP1QyqfZchVVlvGNF3HnZ0kojWv2S2rHVipu0vKgoTkhygERioLXI2PLHkZE0Uwn-nDKs3Njp70bhRa9DeuxGxq1-odXTMgczqL90JGXor9gyQrqrS_SkLIOaJfOX8qzcfWe_p_vf1ZtuNmuPfXf8Pzicw",
+    "question": "How to reduce hallucinations in large language models?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eC7w7HicHdBbjtowFABQdTPzOdik0AkSqjSJL8glBju28_ipgk0IifMQk5kM-esWuoauqqup1LOE8-uPu3XN3y-_q3Ec3jaLxTRNz9e-v7rLs-nbRfH26MzCFM6dC9Ns1t_W-HtptuTDvAZ388rVMOhQoFhTMNjnFmmPqdV73lQ7JQEflThFnVnm--GmPDhmmNWRhqVEmJg99aKGf8bK92wKSIA4HZLPQHp5YJGvLg3NbVoh416WUQor1rpZ4YqcnZtFl09Zi-siBRd3cMgbyM_Y3cVeBGfklxKsKiTHKgRtkpEU2rnYWXHci5CnrBTIjtJpGUP1QyqfZchVVlvGNF3HnZ0kojWv2S2rHVipu0vKgoTkhygERioLXI2PLHkZE0Uwn-nDKs3Njp70bhRa9DeuxGxq1-odXTMgczqL90JGXor9gyQrqrS_SkLIOaJfOX8qzcfWe_p_vf1ZtuNmuPfXf8Pzicw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWaFhjVjg0TVVaQmVXNVhTRWh2VkdFd1p6QkZaMHRaVFdaaGMydEJNSEJxZVdsd1ZETjZXVEUzU3pCRU1rNVhlR1o1WDNRM1kwcHlRMUJEV0UxbVMwcDJjblJUVlU5T1RXWkhlbXh5VjNoV1Z6TlJUVmsyZUUxT1FSSVhSVUZMY21GdkxWbEJOVU15Y25WRlVIQmlUMVJyVVZVYUlrRkVjM0k1WmxSVVIyZGZNRk52V0ZKVU0xcFNNbkJOWldWTk1FVmFZa00yY0VFIiwiZmN2IjoiMyIsImVpIjoiRUFLcmFvLVlBNUMycnVFUHBiT1RrUVUiLCJxYyI6ImMtT3lLODlJTEZFb1NpMU9UU3hLemxCSVRFa0Jzb3RUaXhVeUVuTnlTcE16OHhKTE12UHpGREx6RkhJU2k5SlRnV1JlZW1raWtKR2JuNUthVXl6QVVNdjJ4c2NlQUEiLCJxdWVzdGlvbiI6IkhvdyB0byByZWR1Y2UgaGFsbHVjaW5hdGlvbnMgaW4gbGFyZ2UgbGFuZ3VhZ2UgbW9kZWxzPyIsImxrIjoiY3czRzBRa0FJQWdGd0QzNmVrczBrSlNVWUFxWnRINzlIRmZxOUl2ajJOeXpNU2FwWmhPakkyNEJNU2p0d1Y4YlNUX0xPMnM4IiwiYnMiOiJjNTNPUFFzQ01ReUFZVnd6T1JlUjRPS21SMEVkRDBIOC1BVTNselpjQzdYQmZuRDQ3NzF6a2xNSG5mTS1TZUFFeThhcWpDNWh0b1NSRXFtb0xYSkFxN3d2MmdXVkhZZFV5NWtRMzhlZ1lkM1lPeG9lRFpDMUxoRmRRSzlDVzFSTGVHVkR2bDlZaVZYM0U0RWJiTV9jWWViLVVWTTBqZUdUeEw1X3U3VVRHX3VQaENNc0Rrd0o5eGRNMlhuX0FtbFFzcExiV3FLWW02RlM3a00xSk5QSkF3IiwiaWQiOiJmY19FQUtyYW8tWUE1QzJydUVQcGJPVGtRVV81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWaFhjVjg0TVVaQmVXNVhTRWh2VkdFd1p6QkZaMHRaVFdaaGMydEJNSEJxZVdsd1ZETjZXVEUzU3pCRU1rNVhlR1o1WDNRM1kwcHlRMUJEV0UxbVMwcDJjblJUVlU5T1RXWkhlbXh5VjNoV1Z6TlJUVmsyZUUxT1FSSVhSVUZMY21GdkxWbEJOVU15Y25WRlVIQmlUMVJyVVZVYUlrRkVjM0k1WmxSVVIyZGZNRk52V0ZKVU0xcFNNbkJOWldWTk1FVmFZa00yY0VFIiwiZmN2IjoiMyIsImVpIjoiRUFLcmFvLVlBNUMycnVFUHBiT1RrUVUiLCJxYyI6ImMtT3lLODlJTEZFb1NpMU9UU3hLemxCSVRFa0Jzb3RUaXhVeUVuTnlTcE16OHhKTE12UHpGREx6RkhJU2k5SlRnV1JlZW1raWtKR2JuNUthVXl6QVVNdjJ4c2NlQUEiLCJxdWVzdGlvbiI6IkRvZXMgQUkgc3RpbGwgaGFsbHVjaW5hdGUgaW4gMjAyNj8iLCJsayI6IkdoNWtiMlZ6SUdGcElITjBhV3hzSUdoaGJHeDFZMmx1WVhSbElESXdNalkiLCJicyI6ImM1M09QUXNDTVF5QVlWd3pPUmVSNE9LbVIwRWREMEg4LUFVM2x6WmNDN1hCZm5ENDc3MXprbE1IbmZNLVNlQUV5OGFxakM1aHRvU1JFcW1vTFhKQXE3d3YyZ1dWSFlkVXk1a1EzOGVnWWQzWU94b2VEWkMxTGhGZFFLOUNXMVJMZUdWRHZsOVlpVlgzRTRFYmJNX2NZZWItVVZNMGplR1R4TDVfdTdVVEdfdVBoQ01zRGt3Sjl4ZE0yWG5fQW1sUXNwTGJXcUtZbTZGUzdrTTFKTlBKQXciLCJpZCI6ImZjX0VBS3Jhby1ZQTVDMnJ1RVBwYk9Ua1FVXzUifQ==",
+    "page_token": "TKK_M3icHdBfbtowHABg7TJ9LHFY2UBCk0LitO5isMPPTvwyGachzM6fggckb7vLTtXTVNp3hO_vP3fq7MeXa-P9cFnNZrfb7fHY90f39mj6dqYvY2dmRjt30MauFt8W6Edt1smfl2jz_hIxGAYR8yC3_p6BmoqJ9wqEhI7YQ1h5muAzTNErlXeRP0cXMXecORUpsdwdsDiZpBnkvhmVRddS4loV2G0BvtLnitPUERY2ZCufSo2GUYX-Uu7FLhd0k6UuegPykwdokePovk3pQtpm0BNNFVJPGSQhbBCRXYkEEsEWE61jYWGOX8vgfpIJm3LL6yL0GtrqzORyYlbFqqWQSxIlTYUZ-LGU372EBLGJjBUIZlKyE6nngvcnBnwyv10L0mX7APMiIDXt6E6LZVwVqqPp8E4DnEEs9ur2UJvrev7w_3P9q279ajj3x09XlILb",
+    "question": "Does AI still hallucinate in 2026?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TKK_M3icHdBfbtowHABg7TJ9LHFY2UBCk0LitO5isMPPTvwyGachzM6fggckb7vLTtXTVNp3hO_vP3fq7MeXa-P9cFnNZrfb7fHY90f39mj6dqYvY2dmRjt30MauFt8W6Edt1smfl2jz_hIxGAYR8yC3_p6BmoqJ9wqEhI7YQ1h5muAzTNErlXeRP0cXMXecORUpsdwdsDiZpBnkvhmVRddS4loV2G0BvtLnitPUERY2ZCufSo2GUYX-Uu7FLhd0k6UuegPykwdokePovk3pQtpm0BNNFVJPGSQhbBCRXYkEEsEWE61jYWGOX8vgfpIJm3LL6yL0GtrqzORyYlbFqqWQSxIlTYUZ-LGU372EBLGJjBUIZlKyE6nngvcnBnwyv10L0mX7APMiIDXt6E6LZVwVqqPp8E4DnEEs9ur2UJvrev7w_3P9q279ajj3x09XlILb",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWaFhjVjg0TVVaQmVXNVhTRWh2VkdFd1p6QkZaMHRaVFdaaGMydEJNSEJxZVdsd1ZETjZXVEUzU3pCRU1rNVhlR1o1WDNRM1kwcHlRMUJEV0UxbVMwcDJjblJUVlU5T1RXWkhlbXh5VjNoV1Z6TlJUVmsyZUUxT1FSSVhSVUZMY21GdkxWbEJOVU15Y25WRlVIQmlUMVJyVVZVYUlrRkVjM0k1WmxSVVIyZGZNRk52V0ZKVU0xcFNNbkJOWldWTk1FVmFZa00yY0VFIiwiZmN2IjoiMyIsImVpIjoiRUFLcmFvLVlBNUMycnVFUHBiT1RrUVUiLCJxYyI6ImMtT3lLODlJTEZFb1NpMU9UU3hLemxCSVRFa0Jzb3RUaXhVeUVuTnlTcE16OHhKTE12UHpGREx6RkhJU2k5SlRnV1JlZW1raWtKR2JuNUthVXl6QVVNdjJ4c2NlQUEiLCJxdWVzdGlvbiI6IkRvZXMgQUkgc3RpbGwgaGFsbHVjaW5hdGUgaW4gMjAyNj8iLCJsayI6IkdoNWtiMlZ6SUdGcElITjBhV3hzSUdoaGJHeDFZMmx1WVhSbElESXdNalkiLCJicyI6ImM1M09QUXNDTVF5QVlWd3pPUmVSNE9LbVIwRWREMEg4LUFVM2x6WmNDN1hCZm5ENDc3MXprbE1IbmZNLVNlQUV5OGFxakM1aHRvU1JFcW1vTFhKQXE3d3YyZ1dWSFlkVXk1a1EzOGVnWWQzWU94b2VEWkMxTGhGZFFLOUNXMVJMZUdWRHZsOVlpVlgzRTRFYmJNX2NZZWItVVZNMGplR1R4TDVfdTdVVEdfdVBoQ01zRGt3Sjl4ZE0yWG5fQW1sUXNwTGJXcUtZbTZGUzdrTTFKTlBKQXciLCJpZCI6ImZjX0VBS3Jhby1ZQTVDMnJ1RVBwYk9Ua1FVXzUifQ%3D%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&q=Llm+hallucination+examples&sa=X&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ1QJ6BAhBEAE",
+    "query": "Llm hallucination examples",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Llm+hallucination+examples"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&q=Why+language+models+hallucinate&sa=X&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ1QJ6BAhHEAE",
+    "query": "Why language models hallucinate",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Why+language+models+hallucinate"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&q=Large+language+models+hallucinations&sa=X&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ1QJ6BAhGEAE",
+    "query": "Large language models hallucinations",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Large+language+models+hallucinations"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&q=Chatgpt+5+hallucination+rate&sa=X&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ1QJ6BAhFEAE",
+    "query": "Chatgpt 5 hallucination rate",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chatgpt+5+hallucination+rate"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&q=ChatGPT+hallucination+rate&sa=X&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ1QJ6BAhEEAE",
+    "query": "ChatGPT hallucination rate",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ChatGPT+hallucination+rate"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&q=Chatgpt+hallucination+prompt&sa=X&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ1QJ6BAhDEAE",
+    "query": "Chatgpt hallucination prompt",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chatgpt+hallucination+prompt"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&q=Why+language+models+hallucinate+PDF&sa=X&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ1QJ6BAhCEAE",
+    "query": "Why language models hallucinate PDF",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Why+language+models+hallucinate+PDF"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnvRGKwygv7G8jLBDIuzfwh7r4jtVg:1789592080058&q=LLM+hallucination+research+paper&sa=X&ved=2ahUKEwiP4OWB_vOWAxUQmysGHaXZJFIQ1QJ6BAhAEAE",
+    "query": "LLM hallucination research paper",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+hallucination+research+paper"
+   }
+  ],
+  "scholarly_articles": {
+   "articles": [
+    {
+     "author": "‏Tonmoy",
+     "highlighted_words": [
+      "hallucination",
+      "large language"
+     ],
+     "link": "https://arxiv.org/pdf/2401.01313",
+     "title": "… hallucination mitigation techniques in large language …"
+    },
+    {
+     "author": "‏Abdullahi",
+     "highlighted_words": [
+      "hallucination",
+      "large language models"
+     ],
+     "link": "https://link.springer.com/article/10.1007/s10586-025-05891-z",
+     "title": "The rise of hallucination in large language models: …"
+    },
+    {
+     "author": "‏Huang",
+     "highlighted_words": [
+      "hallucination",
+      "large language models"
+     ],
+     "link": "https://dl.acm.org/doi/pdf/10.1145/3703155",
+     "title": "A survey on hallucination in large language models: …"
+    }
+   ],
+   "link": "https://scholar.google.ae/scholar?q=What+research+addresses+hallucination+in+large+language+models%3F&hl=ar&as_sdt=0&as_vis=1&oi=scholart",
+   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=ar&q=What+research+addresses+hallucination+in+large+language+models%3F",
+   "title": "مقالات أكاديمية حول What research addresses hallucination in large language models?"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "What research addresses hallucination in large language models?",
+   "time_taken_displayed": 0.28,
+   "total_results": 143
+  },
+  "search_metadata": {
+   "created_at": "2026-09-16 20:54:39 UTC",
+   "google_url": "https://www.google.com/search?q=What+research+addresses+hallucination+in+large+language+models%3F&oq=What+research+addresses+hallucination+in+large+language+models%3F&sourceid=chrome&ie=UTF-8",
+   "id": "6aab020f41ffc861cab9ffba",
+   "json_endpoint": "https://serpapi.com/searches/yK6mXoY-E0PBnA7moPkiqHvJ82vkfbWSnZdWedpujWs/6aab020f41ffc861cab9ffba.json",
+   "markdown_endpoint": "https://serpapi.com/searches/yK6mXoY-E0PBnA7moPkiqHvJ82vkfbWSnZdWedpujWs/6aab020f41ffc861cab9ffba.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/yK6mXoY-E0PBnA7moPkiqHvJ82vkfbWSnZdWedpujWs/6aab020f41ffc861cab9ffba.json_with_pixel_position",
+   "processed_at": "2026-09-16 20:54:39 UTC",
+   "raw_html_file": "https://serpapi.com/searches/yK6mXoY-E0PBnA7moPkiqHvJ82vkfbWSnZdWedpujWs/6aab020f41ffc861cab9ffba.html",
+   "status": "Success",
+   "total_time_taken": 0.55
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "What research addresses hallucination in large language models?"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=90",
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+research+addresses+hallucination+in+large+language+models%3F&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}

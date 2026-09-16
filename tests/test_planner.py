@@ -258,8 +258,12 @@ def test_skipped_steps_measure_early_stopping_not_caching(tmp_path: Path) -> Non
 
 
 def test_a_saturating_plan_stops_before_its_last_round(tmp_path: Path) -> None:
-    """Every engine returning the same page means there is nothing left to buy."""
-    planner, _ = make_planner(tmp_path, responder(default=results("a", "b")))
+    """Every engine returning the same page means there is nothing left to buy.
+
+    Rounds are explicit here: the measured default is a single round, in which
+    there is no second batch for saturation to observe.
+    """
+    planner, _ = make_planner(tmp_path, responder(default=results("a", "b")), max_rounds=2)
     result = planner.run(QUESTION, budget=50)
     assert "saturated" in result.stopped_because
 
@@ -272,7 +276,7 @@ def test_a_saturating_plan_skips_its_remaining_steps(tmp_path: Path) -> None:
     the exception -- it accepts only term queries, and narrower term sets give a
     third round -- which makes it the case where the saving is visible.
     """
-    planner, _ = make_planner(tmp_path, max_engines=1)
+    planner, _ = make_planner(tmp_path, max_engines=1, max_rounds=4)
     result = planner.run(
         "Is interest in electric vehicles growing in India over time?", budget=50
     )
@@ -304,15 +308,16 @@ def test_a_plan_still_finding_evidence_does_not_stop(tmp_path: Path) -> None:
 
 
 def test_one_failing_engine_does_not_abort_the_plan(tmp_path: Path) -> None:
-    planner, _ = make_planner(tmp_path, responder(fail_engine="google_news"))
+    """Scholar is routed first for this question, so failing it is felt."""
+    planner, _ = make_planner(tmp_path, responder(fail_engine="google_scholar"))
     result = planner.run(QUESTION, budget=12)
     assert result.failures
-    assert all(f.step.engine == "google_news" for f in result.failures)
+    assert all(f.step.engine == "google_scholar" for f in result.failures)
     assert result.evidence
 
 
 def test_a_failed_search_is_not_billed(tmp_path: Path) -> None:
-    planner, _ = make_planner(tmp_path, responder(fail_engine="google_news"))
+    planner, _ = make_planner(tmp_path, responder(fail_engine="google_scholar"))
     result = planner.run(QUESTION, budget=12)
     assert all(f.charged == 0 for f in result.failures)
 

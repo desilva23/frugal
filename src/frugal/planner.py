@@ -44,8 +44,25 @@ from frugal.saturation import (
 from frugal.schema import Evidence
 
 DEFAULT_BUDGET = 12
-DEFAULT_MAX_ENGINES = 3
-DEFAULT_MAX_ROUNDS = 4
+
+#: Engines routed to per round, and rounds per plan.
+#:
+#: These were 3 and 4 until the ablation measured them. On the benchmark set, a
+#: specialised engine paired with web search answers every question, while a
+#: third engine and a second round buy no further recall at all -- 3x2 costs
+#: 3.9 searches per question against 1.7, for identical answers.
+#:
+#: The pairing is what matters rather than the specialised engine alone: routing
+#: to one engine scores exactly the same as plain web search, missing different
+#: questions rather than fewer. Neither index covers everything and the two
+#: together do.
+#:
+#: Stated plainly because it constrains the claim: twelve questions is a small
+#: set, and one whose answers are reasonably discoverable. A harder set may well
+#: pay for depth, which is why rounds remain configurable and the stopping rule
+#: still governs them.
+DEFAULT_MAX_ENGINES = 2
+DEFAULT_MAX_ROUNDS = 1
 DEFAULT_CONCURRENCY = 4
 
 #: Results considered per search, requested from the engine and enforced after

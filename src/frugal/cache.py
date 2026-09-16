@@ -379,18 +379,29 @@ class ResponseCache:
         return entry
 
     def peek(self, engine: str, params: Mapping[str, Any]) -> CacheEntry | None:
-        """Look up an entry without recording a hit or a miss.
+        """Is this search recorded? Returns the entry, or ``None``.
 
-        Callers that need to know whether a search is free *before* committing
-        to it use this. Going through :meth:`load` would count the lookup twice
-        once the real fetch follows, and the hit rate is a reported number.
+        Deliberately independent of :attr:`mode`, TTLs and statistics. Callers
+        use this to learn whether a search is free *before* committing to it,
+        and that question has the same answer in every mode. Routing it through
+        :meth:`load` would make it raise under REPLAY and expire entries under
+        AUTO, neither of which a caller asking "is it there?" expects, and would
+        double-count the lookup once the real fetch followed.
+
+        Never raises: a damaged or unreadable entry is reported as absent, and
+        the caller proceeds as it would for a miss.
         """
-        saved = self.stats
+        path = self.path_for(engine, compute_key(engine, params))
         try:
-            self.stats = CacheStats()
-            return self.load(engine, params)
-        finally:
-            self.stats = saved
+            record = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            return None
+        if not isinstance(record, dict):
+            return None
+        try:
+            return CacheEntry.from_record(record, path=path)
+        except CacheCorrupt:
+            return None
 
     def store(
         self,

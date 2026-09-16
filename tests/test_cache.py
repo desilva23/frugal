@@ -334,3 +334,49 @@ def test_hit_rate_is_zero_before_any_lookup(cache: ResponseCache) -> None:
 def test_multi_search_responses_charge_accordingly(cache: ResponseCache) -> None:
     cache.store("google", {"q": "x"}, RESPONSE, searches_charged=5)
     assert cache.stats.searches_charged == 5
+
+
+# --------------------------------------------------------------------------
+# peek: is this recorded?
+# --------------------------------------------------------------------------
+
+
+def test_peek_finds_a_recorded_entry(cache: ResponseCache) -> None:
+    cache.store("google", {"q": "x"}, RESPONSE)
+    assert cache.peek("google", {"q": "x"}) is not None
+
+
+def test_peek_returns_none_for_an_absent_entry(cache: ResponseCache) -> None:
+    assert cache.peek("google", {"q": "never stored"}) is None
+
+
+def test_peek_does_not_raise_under_replay(tmp_path: Path) -> None:
+    """A peek asks "is it there?", which has an answer in every mode.
+
+    Routing it through load() made it raise CacheMiss under REPLAY, which took
+    down a caller that was only trying to find out whether a search was free.
+    """
+    replay = ResponseCache(tmp_path / "cache", mode=CacheMode.REPLAY)
+    assert replay.peek("google", {"q": "absent"}) is None
+
+
+def test_peek_ignores_ttl(cache: ResponseCache) -> None:
+    """An expired entry is still recorded, and still free to serve."""
+    old = datetime.now(UTC) - timedelta(days=365)
+    cache.store("google_news", {"q": "x"}, RESPONSE, fetched_at=old)
+    assert cache.peek("google_news", {"q": "x"}) is not None
+
+
+def test_peek_does_not_move_the_statistics(cache: ResponseCache) -> None:
+    """The hit rate is a reported number; peeking must not inflate it."""
+    cache.store("google", {"q": "x"}, RESPONSE)
+    before = cache.stats.as_dict()
+    cache.peek("google", {"q": "x"})
+    cache.peek("google", {"q": "absent"})
+    assert cache.stats.as_dict() == before
+
+
+def test_peek_reports_a_corrupt_entry_as_absent(cache: ResponseCache) -> None:
+    cache.store("google", {"q": "x"}, RESPONSE)
+    next(cache.directory.rglob("*.json")).write_text("{{{", encoding="utf-8")
+    assert cache.peek("google", {"q": "x"}) is None

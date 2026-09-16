@@ -12,12 +12,10 @@ explicit budget, it compiles a *search plan*: which of SerpApi's engines to
 call, in what order, with which query reformulations — then executes that plan,
 stopping early once additional searches stop adding evidence.
 
-The claim is that this answers questions at least as well as naive search while
-issuing materially fewer billable searches. That claim is measured, not
-asserted: see [Results](#results).
-
-> **Status:** in development. The planner and benchmark are landing through
-> early October 2026.
+The claim is that this reaches answers a single web search cannot, without
+spending much more to do it. That claim is measured rather than asserted, on a
+benchmark anyone can re-run from committed fixtures without an API key: see
+[Results](#results).
 
 ## Why this exists
 
@@ -76,11 +74,63 @@ the stored record.
 
 ## Results
 
-Pending. This section will carry the head-to-head table — searches issued,
-answer quality, and wall-clock latency, for naive search against planned search
-across the benchmark question set — together with per-mechanism ablations.
+Twelve questions with verifiable answers, scored on whether the retrieved
+evidence actually contains the answer — not on how many results came back.
+Scoring is exact string matching against marker terms, so there is no judge
+model and nothing to take on trust.
 
-It will not be filled in with anything that has not been measured.
+| strategy | answered | recall | searches | searches/question |
+|---|---|---|---|---|
+| naive (one web search) | 10/12 | 83% | 12 | 1.0 |
+| **planned** | **12/12** | **100%** | **20** | **1.7** |
+
+The two the baseline misses are the two it cannot reach: a question about
+whether interest is rising over time, which needs demand data rather than links,
+and a question about who is hiring, which needs a jobs index. No number of web
+searches answers either.
+
+### What each additional search buys
+
+| configuration | answered | recall | searches/question |
+|---|---|---|---|
+| naive — web search only | 10/12 | 83% | 1.0 |
+| routed to 1 engine | 10/12 | 83% | 1.0 |
+| **routed to 2 engines** | **12/12** | **100%** | **1.7** |
+| routed to 3 engines | 12/12 | 100% | 2.0 |
+| 3 engines, 2 rounds | 12/12 | 100% | 3.9 |
+
+Two findings worth stating plainly, because both constrain the claim.
+
+**Routing to one engine is no better than web search.** It scores identically —
+it simply misses different questions. Web search alone misses the trend and jobs
+questions; the specialised engine alone misses a patents question and a shopping
+question that web search handles. Neither index covers everything, and the
+pairing is what reaches 100%.
+
+**Depth bought nothing.** A third engine and a second round cost 2.2 more
+searches per question for identical answers. The defaults were 3 engines and 4
+rounds until this was measured; they are now 2 and 1. Twelve questions is a
+small set, and one whose answers are reasonably discoverable, so a harder set
+may well pay for depth — which is why rounds stay configurable and the stopping
+rule still governs them.
+
+Questions that route nowhere in particular cost one search, the same as the
+baseline. The planner does not spend more when there is nothing to gain.
+
+### Reproducing this
+
+The recorded responses are committed, so this needs no API key and spends
+nothing:
+
+```bash
+python -m frugal.benchmark --replay --cache benchmarks/fixtures
+```
+
+That should print the table above. The question set, including the reasoning
+behind each question, is in [benchmarks/questions.json](benchmarks/questions.json).
+Four of the twelve are ordinary factual questions that plain web search answers
+perfectly well; they are there because a set the planner wins outright would be
+a set chosen to make it win.
 
 ## Install
 
@@ -119,8 +169,15 @@ frugal doctor
 The recorded fixtures are committed, so this needs no key and spends nothing:
 
 ```bash
-pytest                          # test suite
-python -m frugal.benchmark      # replay the benchmark from fixtures
+pytest                                                    # test suite
+python -m frugal.benchmark --replay --cache benchmarks/fixtures
+```
+
+To run it live against SerpApi instead, check the cost first:
+
+```bash
+python -m frugal.benchmark --dry-run     # projected spend, issues nothing
+python -m frugal.benchmark               # the real thing
 ```
 
 ## Which SerpApi engines are used
