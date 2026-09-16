@@ -192,10 +192,15 @@ def test_a_slow_listener_does_not_stall_other_workers() -> None:
     """The listener fires outside the lock, so a terminal redraw cannot block."""
     entered = threading.Event()
     proceed = threading.Event()
+    first_call = threading.Lock()
 
     def listener(*, spent: int, limit: int, engine: str | None) -> None:
-        entered.set()
-        proceed.wait(timeout=5)
+        # Only the first caller blocks. Blocking every caller would also block
+        # the worker this test needs to get through, and the test would pass by
+        # timeout rather than by the property it is checking.
+        if first_call.acquire(blocking=False):
+            entered.set()
+            proceed.wait(timeout=5)
 
     governor = BudgetGovernor(limit=4, listener=listener)
     blocker = threading.Thread(target=lambda: spend(governor, 1))
