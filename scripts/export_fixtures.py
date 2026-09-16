@@ -26,13 +26,24 @@ DESTINATION = ROOT / "benchmarks" / "fixtures"
 #: invalidate the fixtures.
 KEEP_PER_ARRAY = 12
 
+#: Arrays that must be kept whole. Truncating a time series does not shorten it,
+#: it changes what it says: cutting the India electric-vehicle series from 53
+#: points to 12 turned "trending down 6%" into "trending up 456%", so a judge
+#: replaying the fixtures would have read a different answer from the one the
+#: live run gave. These are observations, not a page of results to paginate.
+KEEP_WHOLE = frozenset({"timeline_data", "values", "interest_over_time", "timeline"})
 
-def trim(payload: Any, depth: int = 0) -> Any:
-    """Truncate result arrays, leaving structure and keys intact."""
+
+def trim(payload: Any, depth: int = 0, *, whole: bool = False) -> Any:
+    """Truncate result arrays, leaving structure, keys and series intact."""
     if isinstance(payload, dict):
-        return {key: trim(value, depth + 1) for key, value in payload.items()}
+        return {
+            key: trim(value, depth + 1, whole=whole or key in KEEP_WHOLE)
+            for key, value in payload.items()
+        }
     if isinstance(payload, list):
-        return [trim(item, depth + 1) for item in payload[:KEEP_PER_ARRAY]]
+        kept = payload if whole else payload[:KEEP_PER_ARRAY]
+        return [trim(item, depth + 1, whole=whole) for item in kept]
     return payload
 
 

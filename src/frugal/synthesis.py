@@ -37,8 +37,11 @@ from frugal.schema import Document, Evidence, Series
 #: for any provider that does. Point ``base_url`` elsewhere to use another.
 DEFAULT_BASE_URL = "https://api.groq.com/openai/v1/chat/completions"
 
-#: Overridable, because hosted model names change more often than this code will.
-DEFAULT_MODEL = "llama-3.3-70b-versatile"
+#: Overridable, because hosted model names change more often than this code
+#: will. The previous default was retired between one week and the next, which
+#: is why a 404 now lists what the account can actually reach rather than
+#: leaving the reader to go and look.
+DEFAULT_MODEL = "openai/gpt-oss-120b"
 
 DEFAULT_TIMEOUT = 60.0
 
@@ -53,11 +56,35 @@ MAX_SNIPPET = 320
 
 _CITATION = re.compile(r"\[(\d+)\]")
 
+#: Bracket characters models use in place of ASCII ones. Observed in the wild:
+#: gpt-oss-120b returned CJK full-width brackets, which the citation pattern did
+#: not match, so a correctly cited answer was reported as ungrounded -- a false
+#: accusation of hallucination, which is worse than missing a citation.
+#: Built from code points and named rather than written literally, since a block
+#: of look-alike brackets is unreadable and ruff is right to object to it.
+_BRACKET_ALIASES = {
+    chr(0x3010): "[",  # CJK left black lenticular
+    chr(0x3011): "]",  # CJK right black lenticular
+    chr(0xFF3B): "[",  # fullwidth left square
+    chr(0xFF3D): "]",  # fullwidth right square
+    chr(0x3014): "[",  # left tortoise shell
+    chr(0x3015): "]",  # right tortoise shell
+    chr(0x2768): "[",  # medium left parenthesis ornament
+    chr(0x2769): "]",  # medium right parenthesis ornament
+}
+
+
+def normalise_brackets(text: str) -> str:
+    """Rewrite non-ASCII bracket characters so citations can be recognised."""
+    return text.translate(str.maketrans(_BRACKET_ALIASES))
+
+
 _SYSTEM_PROMPT = """You answer questions using only the numbered evidence provided.
 
 Rules:
 - Use only the evidence given. Do not add facts from your own knowledge.
-- Cite every claim with the evidence number in square brackets, like [3].
+- Cite every claim with the evidence number in plain ASCII square brackets, \
+like [3]. Do not use any other bracket characters.
 - If the evidence does not answer the question, say so plainly and explain what \
 is missing. Do not guess.
 - Be concise: two to four sentences unless the question needs more.
@@ -142,6 +169,7 @@ def extract_citations(text: str, evidence: Sequence[Evidence]) -> tuple[str, tup
     text rather than rendered as a citation the reader cannot follow. Returns
     the cleaned text and the citations that were real.
     """
+    text = normalise_brackets(text)
     found: dict[int, Citation] = {}
     invalid: set[str] = set()
 
@@ -260,9 +288,14 @@ class Synthesiser:
                 f"the synthesis endpoint rejected the key. Check {SYNTHESIS_ENV_VAR} in your .env."
             )
         if response.status_code == 404:
+            available = self._available_models()
+            listing = ""
+            if available:
+                names = "\n".join(f"  {name}" for name in available)
+                listing = f"\n\nAvailable on this account:\n{names}"
             raise SynthesisUnavailable(
-                f"the model {self.model!r} was not found. Hosted model names change; "
-                f"pass --model with a current one."
+                f"the model {self.model!r} was not found. Hosted model names change "
+                f"often; pass --model with a current one.{listing}"
             )
         if response.is_error:
             raise TransportError(
@@ -280,6 +313,28 @@ class Synthesiser:
         if not isinstance(content, str) or not content.strip():
             raise TransportError("the synthesis endpoint returned an empty answer")
         return content.strip()
+
+    def _available_models(self) -> list[str]:
+        """Chat models this account can reach, for the not-found message.
+
+        Best effort: this runs while already reporting a failure, so it must not
+        raise one of its own. Audio and safety models are filtered out because
+        they cannot answer a question and listing them would send the reader
+        down a blind alley.
+        """
+        try:
+            response = self._http.get(
+                self.base_url.rsplit("/", 1)[0] + "/models",
+                headers={"Authorization": f"Bearer {self._api_key}"},
+            )
+            if response.is_error:
+                return []
+            names = [str(entry["id"]) for entry in response.json().get("data", [])]
+        except (httpx.HTTPError, ValueError, KeyError, TypeError):
+            return []
+
+        skip = ("whisper", "guard", "orpheus", "tts", "safeguard")
+        return sorted(n for n in names if not any(word in n.lower() for word in skip))
 
     def close(self) -> None:
         if self._owns_http:

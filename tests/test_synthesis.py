@@ -17,11 +17,13 @@ import pytest
 from frugal.errors import FrugalError, TransportError
 from frugal.schema import Document, Provenance, Series, SeriesPoint
 from frugal.synthesis import (
+    _BRACKET_ALIASES,
     MAX_EVIDENCE,
     Answer,
     Synthesiser,
     SynthesisUnavailable,
     extract_citations,
+    normalise_brackets,
     render_evidence,
 )
 
@@ -239,3 +241,52 @@ def test_an_injected_client_is_not_closed() -> None:
     with Synthesiser(api_key="k", http=http):
         pass
     assert not http.is_closed
+
+
+# --------------------------------------------------------------------------
+# Bracket variants
+# --------------------------------------------------------------------------
+#
+# Characters are built from code points rather than written literally: a file
+# full of look-alike brackets is exactly the confusion under test, and a reader
+# should not have to guess which one they are looking at.
+
+CJK_OPEN, CJK_CLOSE = chr(0x3010), chr(0x3011)
+
+
+def test_cjk_brackets_are_recognised_as_citations() -> None:
+    """Observed from gpt-oss-120b: a cited answer was reported as ungrounded.
+
+    Calling a correctly cited answer ungrounded is a false accusation of
+    hallucination, which is worse than failing to notice a citation.
+    """
+    text, citations = extract_citations(f"Interest is falling{CJK_OPEN}1{CJK_CLOSE}.", [doc("s")])
+    assert len(citations) == 1
+    assert "[1]" in text
+
+
+def test_every_declared_bracket_variant_resolves() -> None:
+    """Derived from the module, so a newly added alias is covered by this test."""
+    openers = [char for char, ascii_char in _BRACKET_ALIASES.items() if ascii_char == "["]
+    closers = [char for char, ascii_char in _BRACKET_ALIASES.items() if ascii_char == "]"]
+    assert openers and len(openers) == len(closers)
+
+    for opener, closer in zip(openers, closers, strict=True):
+        _, citations = extract_citations(f"claim {opener}1{closer}", [doc("a")])
+        assert len(citations) == 1, f"{opener!r}{closer!r} was not recognised"
+
+
+def test_normalisation_leaves_ascii_untouched() -> None:
+    text, citations = extract_citations("claim [1]", [doc("a")])
+    assert text == "claim [1]"
+    assert len(citations) == 1
+
+
+def test_an_invalid_citation_in_wide_brackets_is_still_stripped() -> None:
+    text, _ = extract_citations(f"claim {CJK_OPEN}9{CJK_CLOSE}", [doc("only one")])
+    assert "9" not in text
+
+
+def test_normalise_brackets_is_idempotent() -> None:
+    once = normalise_brackets(f"{CJK_OPEN}1{CJK_CLOSE}")
+    assert normalise_brackets(once) == once == "[1]"
