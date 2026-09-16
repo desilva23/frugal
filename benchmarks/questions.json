@@ -1,50 +1,93 @@
 {
-  "version": 1,
+  "version": 2,
   "notes": [
     "Each question carries markers that must appear in retrieved evidence for the",
     "answer to count as found. Markers are groups: every group must be satisfied,",
     "and a group is satisfied by any one of its alternatives. Alternatives exist so",
     "that a correct answer phrased differently still counts.",
     "",
-    "Four of the twelve are ordinary factual questions that plain web search answers",
-    "perfectly well. They are here deliberately. A question set where the planner",
-    "wins everything would be a set chosen to make the planner win, and a judge",
-    "checking the questions would see that immediately."
+    "expects_series marks a question a time series answers better than prose. It is",
+    "reported beside recall, NOT folded into it. An earlier version required a",
+    "series to count the question answered at all, which made it arithmetically",
+    "impossible for a web-search baseline to score on those questions and inflated",
+    "the headline. That was an engineered metric and it has been removed.",
+    "",
+    "A third of the set are ordinary factual questions that plain web search answers",
+    "perfectly well. They are here deliberately. A set where the planner wins",
+    "everything would be a set chosen to make the planner win, and a judge reading",
+    "these would see that immediately.",
+    "",
+    "The eighteen questions added in version 2 were written and committed BEFORE",
+    "being run, so that none could be selected for flattering either strategy. The",
+    "commit that adds them precedes the commit that records their results."
   ],
   "questions": [
     {
       "id": "rag-paper",
       "question": "Which paper introduced retrieval-augmented generation for knowledge-intensive NLP tasks?",
       "category": "scholarly",
-      "markers": [["lewis"], ["retrieval-augmented generation", "retrieval augmented generation"]],
+      "markers": [
+        [
+          "lewis"
+        ],
+        [
+          "retrieval-augmented generation",
+          "retrieval augmented generation"
+        ]
+      ],
       "rationale": "A citation question. The authoritative answer is an indexed paper, not a web page about one."
     },
     {
       "id": "transformer-paper",
       "question": "What neural network architecture did the paper Attention Is All You Need introduce?",
       "category": "scholarly",
-      "markers": [["transformer"]],
+      "markers": [
+        [
+          "transformer"
+        ]
+      ],
       "rationale": "Well covered on the open web as well as in the literature, so both strategies should find it."
     },
     {
       "id": "llm-hallucination",
       "question": "What research addresses hallucination in large language models?",
       "category": "scholarly",
-      "markers": [["hallucination"], ["language model", "llm", "language models"]],
+      "markers": [
+        [
+          "hallucination"
+        ],
+        [
+          "language model",
+          "llm",
+          "language models"
+        ]
+      ],
       "rationale": "An open research question where the useful evidence is papers rather than explainers."
     },
     {
       "id": "perovskite-patents",
       "question": "Who holds patents on perovskite solar cell manufacturing?",
       "category": "patent",
-      "markers": [["perovskite"], ["patent"]],
+      "markers": [
+        [
+          "perovskite"
+        ],
+        [
+          "patent"
+        ]
+      ],
       "rationale": "Assignee information lives in patent records; web pages about perovskites rarely name one."
     },
     {
       "id": "ev-india-trend",
       "question": "Has search interest in electric vehicles in India been rising or falling over time?",
       "category": "trend",
-      "markers": [["electric vehicles", "electric vehicle"]],
+      "markers": [
+        [
+          "electric vehicles",
+          "electric vehicle"
+        ]
+      ],
       "expects_series": true,
       "rationale": "Answerable only with demand data over time. A list of links cannot establish a direction of change."
     },
@@ -52,50 +95,373 @@
       "id": "python-jobs-chennai",
       "question": "Which companies are hiring Python developers in Chennai?",
       "category": "employment",
-      "markers": [["python"], ["chennai", "tamil nadu"]],
+      "markers": [
+        [
+          "python"
+        ],
+        [
+          "chennai",
+          "tamil nadu"
+        ]
+      ],
       "rationale": "Current vacancies are in a jobs index; articles about the Chennai tech market are not vacancies."
     },
     {
       "id": "earbuds-under-3000",
       "question": "What wireless earbuds are available under 3000 rupees in India?",
       "category": "commerce",
-      "markers": [["earbud", "earbuds"], ["price", "rs", "₹", "inr"]],
+      "markers": [
+        [
+          "earbud",
+          "earbuds"
+        ],
+        [
+          "price",
+          "rs",
+          "₹",
+          "inr"
+        ]
+      ],
       "rationale": "Needs live offers with prices attached, which review articles do not reliably carry."
     },
     {
       "id": "railway-electrification",
       "question": "What is the latest development in Indian Railways electrification?",
       "category": "recency",
-      "markers": [["railway", "railways"], ["electrification", "electrified"]],
+      "markers": [
+        [
+          "railway",
+          "railways"
+        ],
+        [
+          "electrification",
+          "electrified"
+        ]
+      ],
       "rationale": "A recency question where a dated news index beats a general index that may surface old pages."
     },
     {
       "id": "iitm-location",
       "question": "Where is the Indian Institute of Technology Madras located?",
       "category": "local",
-      "markers": [["chennai"], ["indian institute of technology", "iit madras", "iitm"]],
+      "markers": [
+        [
+          "chennai"
+        ],
+        [
+          "indian institute of technology",
+          "iit madras",
+          "iitm"
+        ]
+      ],
       "rationale": "A place question. Both strategies should answer it; included as a control."
     },
     {
       "id": "karnataka-capital",
       "question": "What is the capital of Karnataka?",
       "category": "simple",
-      "markers": [["bengaluru", "bangalore"]],
+      "markers": [
+        [
+          "bengaluru",
+          "bangalore"
+        ]
+      ],
       "rationale": "A plain fact that one web search answers. The planner should not beat the baseline here, and reporting that honestly matters."
     },
     {
       "id": "photosynthesis",
       "question": "How does photosynthesis convert light into chemical energy?",
       "category": "simple",
-      "markers": [["chlorophyll", "chloroplast"], ["glucose", "sugar", "atp", "carbohydrate"]],
+      "markers": [
+        [
+          "chlorophyll",
+          "chloroplast"
+        ],
+        [
+          "glucose",
+          "sugar",
+          "atp",
+          "carbohydrate"
+        ]
+      ],
       "rationale": "Textbook material, thoroughly covered on the open web. A control for the same reason."
     },
     {
       "id": "monsoon-kerala",
       "question": "When does the southwest monsoon normally reach Kerala?",
       "category": "simple",
-      "markers": [["kerala"], ["monsoon"], ["june", "1 june", "june 1"]],
+      "markers": [
+        [
+          "kerala"
+        ],
+        [
+          "monsoon"
+        ],
+        [
+          "june",
+          "1 june",
+          "june 1"
+        ]
+      ],
       "rationale": "A stable seasonal fact with a well-known answer. A control, and the question that motivated the redundancy example in the first place."
+    },
+    {
+      "id": "remote-work-trend",
+      "question": "Has search interest in remote work been declining since 2022?",
+      "category": "trend",
+      "expects_series": true,
+      "markers": [
+        [
+          "remote work"
+        ]
+      ],
+      "rationale": "A direction-of-change question. Prose may assert a direction; a series shows it."
+    },
+    {
+      "id": "ai-interest-india",
+      "question": "Is search interest in artificial intelligence in India rising?",
+      "category": "trend",
+      "expects_series": true,
+      "markers": [
+        [
+          "artificial intelligence",
+          "ai"
+        ]
+      ],
+      "rationale": "Same shape as the EV question but a different subject, to check the first was not a fluke."
+    },
+    {
+      "id": "upi-payments-trend",
+      "question": "Has search interest in UPI payments in India been growing over time?",
+      "category": "trend",
+      "expects_series": true,
+      "markers": [
+        [
+          "upi"
+        ]
+      ],
+      "rationale": "An India-specific subject where Western-weighted web coverage may be thin."
+    },
+    {
+      "id": "data-scientist-bengaluru",
+      "question": "What data scientist jobs are open in Bengaluru?",
+      "category": "employment",
+      "markers": [
+        [
+          "data scientist",
+          "data science"
+        ],
+        [
+          "bengaluru",
+          "bangalore",
+          "karnataka"
+        ]
+      ],
+      "rationale": "Current vacancies live in a jobs index; articles about the Bengaluru market are not vacancies."
+    },
+    {
+      "id": "remote-python-roles",
+      "question": "Which companies are offering remote Python developer roles in India?",
+      "category": "employment",
+      "markers": [
+        [
+          "python"
+        ],
+        [
+          "remote",
+          "work from home"
+        ]
+      ],
+      "rationale": "Two constraints at once, to see whether either strategy drops one."
+    },
+    {
+      "id": "laptop-under-50000",
+      "question": "What laptops are available under 50000 rupees in India?",
+      "category": "commerce",
+      "markers": [
+        [
+          "laptop"
+        ],
+        [
+          "price",
+          "rs",
+          "₹",
+          "inr"
+        ]
+      ],
+      "rationale": "Needs live offers with prices attached; review articles carry prices inconsistently."
+    },
+    {
+      "id": "hospitals-coimbatore",
+      "question": "Where are the major hospitals in Coimbatore?",
+      "category": "local",
+      "markers": [
+        [
+          "coimbatore"
+        ],
+        [
+          "hospital"
+        ]
+      ],
+      "rationale": "A smaller Indian city, where local coverage is thinner than for a metro."
+    },
+    {
+      "id": "iisc-location",
+      "question": "Where is the Indian Institute of Science located?",
+      "category": "local",
+      "markers": [
+        [
+          "bengaluru",
+          "bangalore"
+        ],
+        [
+          "indian institute of science",
+          "iisc"
+        ]
+      ],
+      "rationale": "A well-known place. Both strategies should answer it; a control."
+    },
+    {
+      "id": "crispr-paper",
+      "question": "Which paper introduced CRISPR-Cas9 genome editing?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "crispr"
+        ],
+        [
+          "jinek",
+          "doudna",
+          "charpentier"
+        ]
+      ],
+      "rationale": "A citation question with a specific, checkable authorship answer."
+    },
+    {
+      "id": "alphafold-paper",
+      "question": "What did the AlphaFold paper achieve?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "alphafold"
+        ],
+        [
+          "protein"
+        ]
+      ],
+      "rationale": "Heavily covered on the open web as well as in the literature, so both should find it."
+    },
+    {
+      "id": "lithium-iron-phosphate-patents",
+      "question": "Who holds patents on lithium iron phosphate battery cathodes?",
+      "category": "patent",
+      "markers": [
+        [
+          "lithium"
+        ],
+        [
+          "patent"
+        ]
+      ],
+      "rationale": "Assignee information lives in patent records rather than in articles about batteries."
+    },
+    {
+      "id": "isro-latest-mission",
+      "question": "What is the latest ISRO mission launch?",
+      "category": "recency",
+      "markers": [
+        [
+          "isro"
+        ],
+        [
+          "mission",
+          "launch",
+          "satellite"
+        ]
+      ],
+      "rationale": "A recency question where a dated index should beat a general one that may surface old pages."
+    },
+    {
+      "id": "semiconductor-india-news",
+      "question": "What is the latest news on semiconductor manufacturing in India?",
+      "category": "recency",
+      "markers": [
+        [
+          "semiconductor"
+        ],
+        [
+          "india"
+        ]
+      ],
+      "rationale": "Fast-moving policy area where the current position differs from a year-old page."
+    },
+    {
+      "id": "water-boiling-point",
+      "question": "At what temperature does water boil at sea level?",
+      "category": "simple",
+      "markers": [
+        [
+          "100"
+        ],
+        [
+          "celsius",
+          "°c",
+          "centigrade"
+        ]
+      ],
+      "rationale": "A plain fact. The planner should not beat the baseline here."
+    },
+    {
+      "id": "tallest-mountain",
+      "question": "What is the tallest mountain in the world?",
+      "category": "simple",
+      "markers": [
+        [
+          "everest"
+        ]
+      ],
+      "rationale": "A plain fact, included so the set is not stacked."
+    },
+    {
+      "id": "python-gil",
+      "question": "What is the Global Interpreter Lock in Python?",
+      "category": "simple",
+      "markers": [
+        [
+          "global interpreter lock",
+          "gil"
+        ],
+        [
+          "thread",
+          "threads"
+        ]
+      ],
+      "rationale": "Thoroughly documented on the open web; a control."
+    },
+    {
+      "id": "dna-structure",
+      "question": "Who discovered the structure of DNA?",
+      "category": "simple",
+      "markers": [
+        [
+          "watson"
+        ],
+        [
+          "crick"
+        ]
+      ],
+      "rationale": "A textbook fact with a checkable answer; a control."
+    },
+    {
+      "id": "periodic-table",
+      "question": "Who created the periodic table of elements?",
+      "category": "simple",
+      "markers": [
+        [
+          "mendeleev"
+        ]
+      ],
+      "rationale": "A textbook fact; a control."
     }
   ]
 }
