@@ -37,9 +37,18 @@ from frugal.schema import Evidence
 #: new still means four fifths of that search bought nothing.
 DEFAULT_THRESHOLD = 0.2
 
-#: Consecutive thin batches before a plan stops. One is a bad query; two is a
-#: pattern.
-DEFAULT_PATIENCE = 2
+#: Consecutive thin batches before a plan stops.
+#:
+#: One was the original reasoning applied to single queries, where a thin result
+#: is often just a reformulation that landed badly. But the planner observes a
+#: *round* -- several different engines answering in parallel -- and a round
+#: where every engine returned nothing new is far stronger evidence than one
+#: unlucky query. Requiring two such rounds meant saturation could never fire on
+#: the two-round plans reformulation actually produces, which made the mechanism
+#: dead code at its own default.
+#:
+#: Callers wanting the more cautious behaviour can still raise it.
+DEFAULT_PATIENCE = 1
 
 #: Batches observed before stopping is permitted at all, however thin they are.
 #: A plan that stopped after one batch never gave a second engine a chance to

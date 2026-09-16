@@ -88,15 +88,19 @@ def test_a_plan_that_runs_dry_stops() -> None:
     monitor = SaturationMonitor()
     monitor.observe(docs("a", "b", "c", "d"))
     monitor.observe(docs("e", "f", "g", "h"))
-    monitor.observe(docs("a", "b", "c", "d"))
     assert not monitor.saturated
     monitor.observe(docs("a", "b", "c", "d"))
     assert monitor.saturated
 
 
 def test_one_thin_batch_does_not_stop_a_live_plan() -> None:
-    """A reformulation that landed badly is not an exhausted question."""
-    monitor = SaturationMonitor()
+    """With patience raised, a reformulation that landed badly is survivable.
+
+    The default is one, because the planner observes a whole round -- several
+    engines answering in parallel -- where a thin result is strong evidence. A
+    caller observing single queries should raise it, and this is that caller.
+    """
+    monitor = SaturationMonitor(patience=2)
     monitor.observe(docs("a", "b", "c", "d"))
     monitor.observe(docs("a", "b", "c", "e"))
     monitor.observe(docs("w", "x", "y", "z"))
@@ -127,6 +131,14 @@ def test_empty_batches_saturate_rather_than_dividing_by_zero() -> None:
     monitor.observe(docs("a", "b"))
     assert monitor.observe([]).marginal_novelty == 0.0
     monitor.observe([])
+    assert monitor.saturated
+
+
+def test_the_default_patience_stops_on_one_thin_round() -> None:
+    """A round where every engine returned nothing new is not an unlucky query."""
+    monitor = SaturationMonitor()
+    monitor.observe(docs("a", "b"))
+    monitor.observe(docs("a", "b"))
     assert monitor.saturated
 
 
@@ -181,7 +193,7 @@ def test_the_report_records_where_the_plan_stopped() -> None:
         monitor.observe(docs("a"))
     report = monitor.report()
     assert report.saturated
-    assert report.stopped_at == 3
+    assert report.stopped_at == 2
 
 
 def test_a_plan_that_never_saturated_records_no_stop() -> None:

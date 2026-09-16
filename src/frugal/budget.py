@@ -253,6 +253,17 @@ class BudgetGovernor:
         else:
             claim.commit()
 
+    def open_reservation(self, cost: int = 1, *, engine: str | None = None) -> Reservation:
+        """Claim budget without a ``with`` block, for callers that settle later.
+
+        The caller becomes responsible for calling :meth:`Reservation.commit` or
+        :meth:`Reservation.release` exactly once. Prefer :meth:`reserve` unless
+        the outcome is not known until after the block would have exited.
+
+        :raises BudgetExceeded: if the budget cannot cover ``cost``.
+        """
+        return self._open(cost, engine)
+
     def _open(self, cost: int, engine: str | None) -> Reservation:
         if cost <= 0:
             raise ValueError(f"a search must cost at least one unit, got {cost}")

@@ -378,6 +378,20 @@ class ResponseCache:
         self._bump("hits")
         return entry
 
+    def peek(self, engine: str, params: Mapping[str, Any]) -> CacheEntry | None:
+        """Look up an entry without recording a hit or a miss.
+
+        Callers that need to know whether a search is free *before* committing
+        to it use this. Going through :meth:`load` would count the lookup twice
+        once the real fetch follows, and the hit rate is a reported number.
+        """
+        saved = self.stats
+        try:
+            self.stats = CacheStats()
+            return self.load(engine, params)
+        finally:
+            self.stats = saved
+
     def store(
         self,
         engine: str,

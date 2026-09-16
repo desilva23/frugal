@@ -203,6 +203,26 @@ class SerpApiClient:
             searches_charged=1,
         )
 
+    def cached(self, engine: str, **params: Any) -> SearchResponse | None:
+        """Return this search from cache, or ``None`` if it is not recorded.
+
+        Never touches the network and never charges. Lets a caller establish
+        that a search is free before reserving budget for it.
+        """
+        engine = engine.strip().lower()
+        request_params = {k: v for k, v in params.items() if v is not None}
+        entry = self.cache.peek(engine, request_params)
+        if entry is None:
+            return None
+        return SearchResponse(
+            engine=engine,
+            params=dict(entry.params),
+            raw=dict(entry.response),
+            from_cache=True,
+            elapsed_ms=entry.elapsed_ms,
+            searches_charged=0,
+        )
+
     @staticmethod
     def _status_of(payload: Mapping[str, Any]) -> str | None:
         metadata = payload.get("search_metadata")

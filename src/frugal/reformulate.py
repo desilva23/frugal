@@ -194,6 +194,15 @@ _ENGINE_SHAPES: dict[str, tuple[str, str]] = {
 }
 
 
+#: Engines that accept *only* a shaped query. Trends matches a term against its
+#: index of search volume; a sentence returns nothing, so the generic keyword and
+#: verbatim strategies are not merely worse there, they are useless. An engine
+#: listed here produces shaped variants or none at all, and a plan that exhausts
+#: them stops using that engine rather than spending a search on a query its
+#: index cannot answer.
+_TERM_ONLY_ENGINES = frozenset({"google_trends"})
+
+
 def shape_for_engine(question: str, engine: str) -> tuple[str, str, str] | None:
     """Return ``(query, strategy, rationale)`` shaped for ``engine``, if it needs shaping."""
     entry = _ENGINE_SHAPES.get(engine)
@@ -235,6 +244,21 @@ def reformulate(
     if shaped is not None:
         candidates.append(shaped)
 
+    if engine in _TERM_ONLY_ENGINES:
+        # Narrower term sets are the only further variants that make sense here.
+        for keep in (2, 4):
+            narrowed = _core_terms(question, keep=keep)
+            if narrowed:
+                candidates.append(
+                    (
+                        narrowed,
+                        f"bare-term-{keep}",
+                        f"a {keep}-term variant; this engine matches terms, not sentences",
+                    )
+                )
+        return _select(candidates, issued=issued, limit=limit, min_novelty=min_novelty,
+                       engine=engine)
+
     keyword = _keyword_query(question)
     if keyword:
         candidates.append(
@@ -266,6 +290,19 @@ def reformulate(
                 )
             )
 
+    return _select(candidates, issued=issued, limit=limit, min_novelty=min_novelty,
+                   engine=engine)
+
+
+def _select(
+    candidates: list[tuple[str, str, str]],
+    *,
+    issued: tuple[str, ...],
+    limit: int,
+    min_novelty: float,
+    engine: str,
+) -> list[Reformulation]:
+    """Keep candidates novel enough to be worth a search, in priority order."""
     kept: list[Reformulation] = []
     seen_queries: list[str] = list(issued)
 
