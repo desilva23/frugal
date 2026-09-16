@@ -1,0 +1,274 @@
+[
+  {
+    "elapsed_ms": 6321.4,
+    "engine": "google",
+    "from_cache": false,
+    "item_fields": {
+      "about_this_result": "object(3 keys)",
+      "displayed_link": "string",
+      "favicon": "string",
+      "link": "string",
+      "position": "number",
+      "redirect_link": "string",
+      "snippet": "string",
+      "snippet_highlighted_words": "[1 x string]",
+      "source": "string",
+      "title": "string"
+    },
+    "ok": true,
+    "primary_key": "organic_results",
+    "result_keys": [
+      {
+        "count": 9,
+        "key": "organic_results"
+      },
+      {
+        "count": 8,
+        "key": "related_searches"
+      },
+      {
+        "count": 4,
+        "key": "related_questions"
+      }
+    ],
+    "top_level_keys": [
+      "ai_overview",
+      "organic_results",
+      "related_questions",
+      "related_searches"
+    ]
+  },
+  {
+    "elapsed_ms": 12616.2,
+    "engine": "google_news",
+    "from_cache": false,
+    "item_fields": {
+      "date": "string",
+      "iso_date": "string",
+      "link": "string",
+      "position": "number",
+      "source": "object(2 keys)",
+      "thumbnail": "string",
+      "thumbnail_small": "string",
+      "title": "string"
+    },
+    "ok": true,
+    "primary_key": "news_results",
+    "result_keys": [
+      {
+        "count": 99,
+        "key": "news_results"
+      },
+      {
+        "count": 9,
+        "key": "menu_links"
+      },
+      {
+        "count": 2,
+        "key": "related_topics"
+      }
+    ],
+    "top_level_keys": [
+      "menu_links",
+      "news_results",
+      "related_topics"
+    ]
+  },
+  {
+    "elapsed_ms": 7769.9,
+    "engine": "google_scholar",
+    "from_cache": false,
+    "item_fields": {
+      "inline_links": "object(6 keys)",
+      "link": "string",
+      "position": "number",
+      "publication_info": "object(2 keys)",
+      "resources": "[1 x object(3 keys)]",
+      "result_id": "string",
+      "snippet": "string",
+      "title": "string"
+    },
+    "ok": true,
+    "primary_key": "organic_results",
+    "result_keys": [
+      {
+        "count": 10,
+        "key": "organic_results"
+      },
+      {
+        "count": 8,
+        "key": "related_searches"
+      }
+    ],
+    "top_level_keys": [
+      "organic_results",
+      "related_searches"
+    ]
+  },
+  {
+    "elapsed_ms": 43203.1,
+    "engine": "google_shopping",
+    "from_cache": false,
+    "item_fields": {
+      "extracted_price": "number",
+      "immersive_product_page_token": "string",
+      "position": "number",
+      "price": "string",
+      "product_id": "string",
+      "product_link": "string",
+      "serpapi_immersive_product_api": "string",
+      "serpapi_thumbnail": "string",
+      "source": "string",
+      "source_icon": "string",
+      "thumbnail": "string",
+      "title": "string"
+    },
+    "ok": true,
+    "primary_key": "shopping_results",
+    "result_keys": [
+      {
+        "count": 40,
+        "key": "shopping_results"
+      },
+      {
+        "count": 17,
+        "key": "filters"
+      },
+      {
+        "count": 3,
+        "key": "categorized_shopping_results"
+      }
+    ],
+    "top_level_keys": [
+      "categorized_shopping_results",
+      "filters",
+      "shopping_results"
+    ]
+  },
+  {
+    "elapsed_ms": 2701.9,
+    "engine": "google_jobs",
+    "from_cache": false,
+    "item_fields": {
+      "apply_options": "[1 x object(2 keys)]",
+      "company_name": "string",
+      "description": "string",
+      "detected_extensions": "object(2 keys)",
+      "extensions": "[2 x string]",
+      "job_id": "string",
+      "job_title": "string",
+      "location": "string",
+      "share_link": "string",
+      "source_link": "string",
+      "thumbnail": "string",
+      "title": "string",
+      "via": "string"
+    },
+    "ok": true,
+    "primary_key": "jobs_results",
+    "result_keys": [
+      {
+        "count": 10,
+        "key": "jobs_results"
+      },
+      {
+        "count": 9,
+        "key": "filters"
+      }
+    ],
+    "top_level_keys": [
+      "filters",
+      "jobs_results"
+    ]
+  },
+  {
+    "elapsed_ms": 1113.2,
+    "engine": "google_maps",
+    "from_cache": false,
+    "item_fields": {
+      "address": "string",
+      "country": "string",
+      "data_cid": "string",
+      "data_id": "string",
+      "gps_coordinates": "object(2 keys)",
+      "hours": "string",
+      "open_state": "string",
+      "operating_hours": "object(7 keys)",
+      "order_online": "string",
+      "phone": "string",
+      "photos_link": "string",
+      "place_id": "string",
+      "place_id_search": "string",
+      "position": "number",
+      "provider_id": "string",
+      "rating": "number",
+      "reviews": "number",
+      "reviews_link": "string",
+      "serpapi_thumbnail": "string",
+      "thumbnail": "string",
+      "title": "string",
+      "type": "string",
+      "types": "[1 x string]",
+      "website": "string"
+    },
+    "ok": true,
+    "primary_key": "local_results",
+    "result_keys": [
+      {
+        "count": 20,
+        "key": "local_results"
+      }
+    ],
+    "top_level_keys": [
+      "local_results"
+    ]
+  },
+  {
+    "elapsed_ms": 1741.9,
+    "engine": "google_trends",
+    "from_cache": false,
+    "ok": true,
+    "result_keys": [],
+    "top_level_keys": [
+      "interest_over_time"
+    ]
+  },
+  {
+    "elapsed_ms": 2182.9,
+    "engine": "google_patents",
+    "from_cache": false,
+    "item_fields": {
+      "assignee": "string",
+      "country_status": "object(1 keys)",
+      "figures": "[5 x object(2 keys)]",
+      "filing_date": "string",
+      "grant_date": "string",
+      "inventor": "string",
+      "language": "string",
+      "patent_id": "string",
+      "patent_link": "string",
+      "pdf": "string",
+      "position": "number",
+      "priority_date": "string",
+      "publication_date": "string",
+      "publication_number": "string",
+      "rank": "number",
+      "serpapi_link": "string",
+      "snippet": "string",
+      "thumbnail": "string",
+      "title": "string"
+    },
+    "ok": true,
+    "primary_key": "organic_results",
+    "result_keys": [
+      {
+        "count": 10,
+        "key": "organic_results"
+      }
+    ],
+    "top_level_keys": [
+      "organic_results",
+      "summary"
+    ]
+  }
+]

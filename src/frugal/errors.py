@@ -69,3 +69,37 @@ class MissingAPIKey(FrugalError):
             "Get a free key (250 searches/month) at https://serpapi.com/manage-api-key\n"
             + (f"\nLooked in:\n{locations}" if self.searched else "")
         )
+
+
+class SerpApiError(FrugalError):
+    """SerpApi accepted the request but reported an error for the search.
+
+    SerpApi signals most search-level problems with HTTP 200 and an ``error``
+    field in the body rather than a failure status, so this is raised from
+    response inspection rather than from the transport.
+    """
+
+    def __init__(self, engine: str, message: str, *, status: str | None = None) -> None:
+        self.engine = engine
+        self.api_message = message
+        self.status = status
+        detail = f" (status={status})" if status else ""
+        super().__init__(f"{engine}: {message}{detail}")
+
+
+class AuthenticationError(FrugalError):
+    """The SerpApi key was rejected.
+
+    Never retried: a rejected key will stay rejected, and retrying burns time
+    and obscures the real problem.
+    """
+
+
+class RateLimited(FrugalError):
+    """SerpApi returned 429 and retries did not clear it."""
+
+    def __init__(self, attempts: int, retry_after: float | None = None) -> None:
+        self.attempts = attempts
+        self.retry_after = retry_after
+        hint = f"; server asked for {retry_after:.0f}s" if retry_after else ""
+        super().__init__(f"rate limited by SerpApi after {attempts} attempts{hint}")
