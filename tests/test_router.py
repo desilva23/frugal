@@ -231,3 +231,91 @@ def test_every_routable_engine_can_be_normalised() -> None:
 
     for profile in PROFILES:
         assert profile.engine in ADAPTERS, f"{profile.engine} is routable but has no adapter"
+
+
+# --------------------------------------------------------------------------
+# Words present, meaning absent
+# --------------------------------------------------------------------------
+#
+# The characteristic failure of matching a bag of words is a term that is
+# genuinely in the question and genuinely irrelevant. Judges type arbitrary
+# things, and these are the cases that look worst when they do.
+
+
+@pytest.mark.parametrize(
+    "question",
+    [
+        "Steve Jobs biography",
+        "Steve Jobs commencement speech Stanford",
+        "What did Steve Jobs say about design?",
+    ],
+)
+def test_a_name_does_not_route_to_the_topic_it_shares_a_word_with(question: str) -> None:
+    """"Steve Jobs" scored above every other engine on the employment signal."""
+    assert "google_jobs" not in engines(question)
+
+
+def test_a_sentence_initial_capital_is_not_treated_as_a_name() -> None:
+    """Otherwise the fix for names would break the questions it must not."""
+    assert top("Jobs in Chennai for Python developers") == "google_jobs"
+
+
+def test_a_lowercase_signal_word_still_fires() -> None:
+    assert top("python jobs in Chennai") == "google_jobs"
+
+
+def test_a_capitalised_word_after_a_lowercase_one_still_fires() -> None:
+    assert top("find Jobs near Chennai") == "google_jobs"
+
+
+@pytest.mark.parametrize(
+    "question",
+    [
+        "Do not show me recent news about Tesla",
+        "Find information about Tesla, not recent news",
+        "Tesla history excluding recent news",
+    ],
+)
+def test_a_negated_signal_does_not_boost_the_engine_it_names(question: str) -> None:
+    """"recent news" argues for news; "not recent news" argues against it."""
+    assert "google_news" not in engines(question)
+
+
+def test_negation_does_not_reach_across_a_distant_clause() -> None:
+    """A window, not a whole-question veto: otherwise one "not" disables everything."""
+    question = "I do not want a summary, tell me which companies are hiring engineers"
+    assert top(question) == "google_jobs"
+
+
+def test_an_unnegated_question_is_unaffected() -> None:
+    assert top("What is the latest news on Indian Railways?") == "google_news"
+
+
+# --------------------------------------------------------------------------
+# Ambiguous words
+# --------------------------------------------------------------------------
+
+
+def test_bare_work_is_not_an_employment_signal() -> None:
+    """"How does photosynthesis work" is not a question about jobs."""
+    assert "employment" not in detect_signals("How does photosynthesis work?")
+    assert "employment" not in detect_signals("How do transformers work?")
+
+
+@pytest.mark.parametrize(
+    "question",
+    [
+        "Where can I work as a Python engineer in Bangalore?",
+        "Which companies can I work for as a data scientist?",
+        "I am looking for work in Chennai",
+    ],
+)
+def test_the_unambiguous_phrasings_of_work_do_fire(question: str) -> None:
+    assert "employment" in detect_signals(question)
+
+
+def test_routing_stays_deterministic_after_the_context_checks() -> None:
+    question = "Do not show me Steve Jobs news, find hiring data instead"
+    first = [(d.engine, d.score) for d in route(question)]
+    for _ in range(10):
+        assert [(d.engine, d.score) for d in route(question)] == first

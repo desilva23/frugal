@@ -197,9 +197,17 @@ Worth reading before drawing conclusions from the tables above.
   web search, and every two-engine configuration reaches 100%, so the benchmark
   can no longer distinguish routing from any-second-engine on quality at all.
   Only the cost difference is still measurable.
-- **Routing is lexical**, so it inherits the failure modes of lexical matching:
-  "Steve Jobs biography" matches the employment signal, "where can I *work* as a
-  Python engineer" does not, and a negation reads as an endorsement.
+- **Routing is lexical.** Three failure modes of that are handled — a signal
+  word inside a name ("Steve Jobs biography"), a signal shortly after a negation
+  ("not recent news"), and ambiguous words admitted only in unambiguous phrasings
+  ("work as", never bare "work"). Others certainly remain: a synonym nobody
+  listed will not fire, and a question whose meaning turns on syntax rather than
+  vocabulary will be read wrongly.
+- **Three engines return nothing for some questions** and the search is spent
+  anyway: a long keyword query to `google_shopping` or `google_news` can match
+  no documents at all. The paired web search carries those questions, so recall
+  is unaffected, but the search is wasted — which is the exact waste this project
+  exists to remove.
 - **Deduplication compares URLs**, so one story syndicated across four outlets
   counts as four pieces of evidence. Marginal novelty overstates how much a
   batch actually added.

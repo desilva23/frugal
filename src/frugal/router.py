@@ -43,6 +43,56 @@ _WEB_SEARCH_PRIOR = 1.0
 _SELECTION_FLOOR = 0.35
 
 
+#: Words that invert the meaning of a signal appearing shortly after them.
+#: "recent news" argues for google_news; "not recent news" argues against it, and
+#: a bag-of-words matcher reads both the same way.
+_NEGATORS = frozenset(
+    {
+        "not", "no", "without", "dont", "doesnt", "didnt", "isnt", "arent",
+        "exclude", "excluding", "except", "never", "avoid", "ignore", "besides",
+        "other", "rather", "unrelated", "nothing",
+    }
+)
+
+#: How many words before a match are searched for a negator. Wide enough to
+#: cover "do not show me recent news", narrow enough that a negation earlier in
+#: an unrelated clause does not reach across and cancel it.
+_NEGATION_WINDOW = 5
+
+_WORDS = re.compile(r"[A-Za-z][A-Za-z'\-]*")
+
+
+def _is_negated(question: str, start: int) -> bool:
+    """Whether a match at ``start`` sits shortly after a negation."""
+    preceding: list[str] = _WORDS.findall(question[:start].lower())
+    return any(
+        word.replace("'", "") in _NEGATORS for word in preceding[-_NEGATION_WINDOW:]
+    )
+
+
+def _inside_proper_noun(question: str, match: re.Match[str]) -> bool:
+    """Whether a match is part of a name rather than a topic.
+
+    "Steve Jobs biography" is not an employment question, but ``\bjobs\b``
+    matches it and scores it above every other engine. The test is capitalisation
+    in context: the matched word is capitalised, it is not the first word of the
+    question, and the word before it is also capitalised. That catches personal
+    and company names generically rather than by keeping a list of them.
+
+    A sentence-initial capital is ignored, so "Jobs in Chennai" still routes to
+    google_jobs.
+    """
+    text = match.group(0)
+    if not text[:1].isupper():
+        return False
+
+    before: list[str] = _WORDS.findall(question[: match.start()])
+    if not before:
+        # Sentence-initial: capitalised because it starts the question.
+        return False
+    return bool(before[-1][:1].isupper())
+
+
 @dataclass(frozen=True, slots=True)
 class Signal:
     """Lexical evidence that a question has a particular shape.
@@ -62,12 +112,21 @@ class Signal:
         The matched text is returned rather than the pattern so that a plan
         trace reads "local (near me, open now)" rather than showing a regex to
         someone trying to understand why an engine was chosen.
+
+        Two kinds of match are discarded: one sitting inside a proper noun, and
+        one shortly after a negation. Both are cases where the word is present
+        and the meaning is absent, which is the characteristic failure of
+        matching a bag of words.
         """
         found: list[str] = []
         for pattern in self.patterns:
-            match = re.search(rf"\b{pattern}\b", question, re.IGNORECASE)
-            if match:
+            for match in re.finditer(rf"\b{pattern}\b", question, re.IGNORECASE):
+                if _is_negated(question, match.start()):
+                    continue
+                if _inside_proper_noun(question, match):
+                    continue
                 found.append(match.group(0).lower())
+                break
         return tuple(dict.fromkeys(found))
 
 
@@ -118,6 +177,11 @@ SIGNALS: dict[str, Signal] = {
             "job", "jobs", "hiring", "hire", "salary", "salaries", "vacancy",
             "vacancies", "career", "careers", "recruit", "recruiting", "recruitment",
             "openings", "role", "roles", "position", "positions", "employer",
+            "employment", "apply", "applicants", "staffing", "headcount",
+            # "work" on its own fires on "how does photosynthesis work", so only
+            # the phrasings that unambiguously mean employment are listed.
+            "work as", "work at", "work for", "looking for work", "find work",
+            "get a job", "land a job",
         ),
         weight=1.5,
     ),
