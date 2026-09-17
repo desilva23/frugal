@@ -27,6 +27,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import time
 from collections.abc import Sequence
 from dataclasses import dataclass, field
@@ -44,6 +45,37 @@ from frugal.planner import (
     naive_run,
 )
 from frugal.schema import Evidence, Series
+
+#: Markers are matched on word boundaries, not as bare substrings.
+#:
+#: Substring containment was the original implementation and it made several
+#: questions unfalsifiable. "ai" matched "said" and "available"; "upi" matched
+#: "occupied"; "rs" matched "years" and "offers"; "100" matched "21000". Eight of
+#: the thirty questions carry a marker of three characters or fewer, so those
+#: questions scored for every strategy regardless of what it retrieved, and every
+#: recall figure was inflated by an unknown amount.
+#:
+#: A boundary is only asserted where the marker's own edge is alphanumeric, so a
+#: marker that begins or ends in punctuation -- the rupee sign, "°c" -- still
+#: matches. re.escape keeps a marker containing regex metacharacters literal.
+_MARKER_CACHE: dict[str, re.Pattern[str]] = {}
+
+
+def marker_pattern(marker: str) -> re.Pattern[str]:
+    """Compile a marker into a boundary-respecting pattern, memoised."""
+    cached = _MARKER_CACHE.get(marker)
+    if cached is None:
+        prefix = r"\b" if marker[:1].isalnum() else ""
+        suffix = r"\b" if marker[-1:].isalnum() else ""
+        cached = re.compile(prefix + re.escape(marker) + suffix, re.IGNORECASE)
+        _MARKER_CACHE[marker] = cached
+    return cached
+
+
+def marker_matches(marker: str, text: str) -> bool:
+    """Whether ``marker`` occurs in ``text`` as a word rather than a fragment."""
+    return marker_pattern(marker).search(text) is not None
+
 
 QUESTIONS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "questions.json"
 RESULTS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "results.json"
@@ -87,20 +119,25 @@ class Score:
     groups_total: int
     depth: int | None
     missing: tuple[str, ...]
-    #: Whether the evidence included a time series.
+    #: Whether the evidence included a time series. Descriptive only: it records
+    #: which kind of evidence came back, and is deliberately not scored.
+    #:
+    #: There used to be an `answered_in_the_right_modality` property here,
+    #: reported as a figure out of thirty and quoted in the README as "the one
+    #: consistent difference". It was not a measurement. Only google_trends
+    #: produces a Series and only the routed strategy calls it, so the baselines
+    #: scored exactly thirty minus the four questions marked expects_series, and
+    #: the routed strategy scored thirty. The number described which engines a
+    #: configuration calls, which is already known before running anything.
+    #:
+    #: This is the same fault that was removed from recall earlier -- a metric
+    #: defined by the thing it measures -- so the fix is to stop scoring it
+    #: rather than to relocate it again. Which strategies reached a series is
+    #: still worth stating, and the README states it as a fact about the engines
+    #: rather than as a result.
     structured: bool = False
     #: Whether the question is one a series answers better than prose.
     wanted_structured: bool = False
-
-    @property
-    def answered_in_the_right_modality(self) -> bool:
-        """Answered with structured data where the question called for it.
-
-        Reported beside recall rather than inside it. "Interest rose 120%" in an
-        article and a 53-point series both answer the question; only one of them
-        can be plotted, compared, or checked for when the change happened.
-        """
-        return not self.wanted_structured or self.structured
 
     @property
     def completeness(self) -> float:
@@ -133,7 +170,6 @@ class QuestionOutcome:
             "completeness": round(self.score.completeness, 3),
             "depth": self.score.depth,
             "structured": self.score.structured,
-            "right_modality": self.score.answered_in_the_right_modality,
             "missing": list(self.score.missing),
             "searches": self.searches,
             "billed_this_run": self.billed_this_run,
@@ -241,7 +277,7 @@ def score_evidence(question: Question, evidence: Sequence[Evidence]) -> Score:
         text = searchable_text(item)
 
         for index, group in enumerate(question.markers):
-            if index not in satisfied and any(alt in text for alt in group):
+            if index not in satisfied and any(marker_matches(alt, text) for alt in group):
                 satisfied.add(index)
 
         if isinstance(item, Series):

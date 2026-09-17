@@ -137,13 +137,12 @@ def test_prose_can_answer_a_question_a_series_answers_better() -> None:
     Requiring a Series to count made it arithmetically impossible for a
     web-search baseline to score on the trend question, since web search returns
     documents and never a series. Its results plainly did answer it, carrying
-    headlines like "Why India is Seeing EV Interest Rise". Modality is now
-    reported beside recall instead of gating it.
+    headlines like "Why India is Seeing EV Interest Rise".
     """
     q = question([["electric vehicles"]], expects_series=True)
     score = score_evidence(q, [doc("electric vehicles interest is rising")])
     assert score.found
-    assert not score.answered_in_the_right_modality
+    assert not score.structured
 
 
 def test_a_series_satisfies_a_question_that_needs_one() -> None:
@@ -157,19 +156,31 @@ def test_a_series_contributes_its_summary_text() -> None:
     assert "observations" in searchable_text(series("term"))
 
 
-def test_modality_is_reported_separately_from_recall() -> None:
+def test_which_kind_of_evidence_came_back_is_recorded_but_not_scored() -> None:
+    """A score implies a measurement; this is a description of the engines used.
+
+    Both prose and a series answer the question, and both count as answered.
+    Whether a series came back is recorded because it is worth knowing, not
+    because it distinguishes one strategy's performance from another's.
+    """
     q = question([["electric vehicles"]], expects_series=True)
     prose = score_evidence(q, [doc("electric vehicles")])
     structured = score_evidence(q, [series("electric vehicles")])
 
     assert prose.found and structured.found
-    assert not prose.answered_in_the_right_modality
-    assert structured.answered_in_the_right_modality
+    assert not prose.structured
+    assert structured.structured
 
 
-def test_a_question_not_wanting_a_series_is_always_in_the_right_modality() -> None:
-    score = score_evidence(question([["bengaluru"]]), [doc("Bengaluru")])
-    assert score.answered_in_the_right_modality
+def test_the_scored_modality_metric_is_gone() -> None:
+    """It reported which engines a configuration calls, not how it performed.
+
+    Only google_trends emits a Series and only the routed strategy calls it, so
+    the figure was thirty minus the count of expects_series questions for the
+    baselines and thirty for the planner -- known before running anything.
+    """
+    score = score_evidence(question([["x"]], expects_series=True), [doc("x")])
+    assert not hasattr(score, "answered_in_the_right_modality")
 
 
 # --------------------------------------------------------------------------
@@ -375,3 +386,81 @@ def test_the_written_results_carry_what_the_readme_quotes(tmp_path: Path) -> Non
     summary = next(iter(json.loads(out_path.read_text(encoding="utf-8"))["summaries"].values()))
     for field in ("recall", "searches_per_question", "answered", "questions"):
         assert field in summary
+
+
+# --------------------------------------------------------------------------
+# Marker calibration
+# --------------------------------------------------------------------------
+#
+# The question set is the measuring instrument for every number this project
+# publishes, and it was the only component with no calibration test. Substring
+# matching made several questions unfalsifiable and nothing in CI could notice.
+
+
+@pytest.mark.parametrize(
+    ("marker", "text"),
+    [
+        ("ai", "said the chairman"),
+        ("ai", "available maintenance"),
+        ("upi", "the building was occupied"),
+        ("rs", "it took years"),
+        ("rs", "special offers"),
+        ("100", "priced at 21000 rupees"),
+        ("gil", "a fragile agreement"),
+    ],
+)
+def test_a_marker_does_not_match_a_word_that_merely_contains_it(
+    marker: str, text: str
+) -> None:
+    from frugal.benchmark import marker_matches
+
+    assert not marker_matches(marker, text)
+
+
+@pytest.mark.parametrize(
+    ("marker", "text"),
+    [
+        ("ai", "AI research"),
+        ("upi", "UPI payments"),
+        ("rs", "priced at Rs. 2999"),
+        ("100", "boils at 100 degrees"),
+        ("gil", "the GIL blocks threads"),
+        ("retrieval-augmented generation", "on Retrieval-Augmented Generation for NLP"),
+    ],
+)
+def test_a_marker_still_matches_the_thing_it_is_for(marker: str, text: str) -> None:
+    from frugal.benchmark import marker_matches
+
+    assert marker_matches(marker, text)
+
+
+@pytest.mark.parametrize("marker", ["₹", "°c"])
+def test_a_marker_of_punctuation_is_not_given_word_boundaries(marker: str) -> None:
+    """A boundary next to a symbol would never match; the rupee sign is a marker."""
+    from frugal.benchmark import marker_matches
+
+    assert marker_matches("₹", "costs ₹2999")
+    assert marker_matches("°c", "boils at 100 °c")
+
+
+def test_regex_metacharacters_in_a_marker_are_literal() -> None:
+    from frugal.benchmark import marker_matches
+
+    assert marker_matches("c++", "written in c++")
+    assert not marker_matches("c++", "written in c")
+
+
+def test_no_shipped_marker_matches_arbitrary_prose() -> None:
+    """A marker satisfied by unrelated text makes its question unfalsifiable."""
+    from frugal.benchmark import marker_matches
+
+    filler = (
+        "The quick brown fox jumps over the lazy dog while years of available "
+        "maintenance offers occupied the chairman and said nothing at 21000 rupees."
+    )
+    for question in load_questions():
+        for group in question.markers:
+            for alt in group:
+                assert not marker_matches(alt, filler), (
+                    f"{question.id}: marker {alt!r} matches unrelated prose"
+                )

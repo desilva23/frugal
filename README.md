@@ -100,109 +100,93 @@ the stored record.
 ## Results
 
 Thirty questions with verifiable answers, scored on whether the retrieved
-evidence contains the answer. Scoring is exact string matching against marker
-terms, so there is no judge model and nothing to take on trust.
+evidence contains the answer. Scoring is string matching against marker terms on
+word boundaries, so there is no judge model and nothing to take on trust.
 
 | strategy | what it does | answered | recall | searches/question |
 |---|---|---|---|---|
 | naive | sends the question verbatim to web search | 28/30 | 93% | 1.0 |
-| keyword | one web search, question reformulated | 29/30 | 97% | 1.0 |
+| keyword | one web search, question reformulated | 28/30 | 93% | 1.0 |
 | **planned** | routed across engines, under a budget | **30/30** | **100%** | 1.6 |
 
 Three strategies rather than two, because two could not tell the mechanisms
 apart. An earlier version compared only the first and the last, and credited
-routing with work that reformulation was doing.
+routing with work reformulation was doing.
 
 ### Which mechanism earns what
 
-| mechanism | questions it fixes | questions it breaks | cost |
-|---|---|---|---|
-| reformulation | `hospitals-coimbatore`, `python-jobs-chennai` | `crispr-paper` | none — still one search |
-| routing | `crispr-paper` | — | +0.6 searches per question |
+| mechanism | fixes | breaks | net | cost |
+|---|---|---|---|---|
+| reformulation | `hospitals-coimbatore`, `python-jobs-chennai` | `rag-paper`, `crispr-paper` | **zero** | none |
+| routing | `rag-paper`, `crispr-paper` | — | **+2** | +0.6 searches/question |
 
-Reformulation is worth more than it sounds, and the failure it fixes is worth
-seeing. Asked *"Where are the major hospitals in Coimbatore?"* verbatim, web
-search returned a music video called *Major*, a NASA project assessment, and a
-TED talk. The same question as `major hospitals coimbatore` returned hospitals
-in Coimbatore. Sending a natural-language sentence to a keyword index is a real
-failure mode of real agents, and stripping the question words costs nothing.
+**Reformulation is a trade, not a gain.** It fixes two questions and breaks two,
+and the failure it fixes is worth seeing: asked *"Where are the major hospitals in
+Coimbatore?"* verbatim, web search returned a music video called *Major*, a NASA
+project assessment and a TED talk. As `major hospitals coimbatore` it returned
+hospitals in Coimbatore. Sending a natural-language sentence to a keyword index
+is a real failure mode of real agents. But it breaks two citation questions in
+exchange, where stripping the question words loses what made them findable.
 
-It also *breaks* one question, which is why it is reported rather than
-celebrated: the verbatim CRISPR question found the paper and the keyword version
-did not. Routing recovers it by going to `google_scholar`.
-
-So each mechanism is worth roughly one question in thirty. That is a small
-effect, honestly measured, and stating it as anything larger would not survive a
-reader who re-ran the benchmark.
-
-### Modality: the one consistent difference
-
-| strategy | answered in the right modality |
-|---|---|
-| naive | 26/30 |
-| keyword | 26/30 |
-| **planned** | **30/30** |
-
-Four questions ask whether something is rising or falling. Both baselines answer
-them in prose — an article asserting a direction. The planner answers them with
-a demand series that can be plotted, dated and compared. Both count as answered;
-only one can be checked.
-
-This is the difference that does not shrink with sample size, because it is
-structural rather than statistical: web search does not return a time series at
-any page depth.
-
-### Cost behaviour
-
-The planner issues exactly one search on 11 of the 30 questions — the ones where
-routing detects no signal. It does not spend more when there is nothing to gain,
-which is where its 1.6 average comes from rather than 2.0.
+Routing recovers both, because both are scholarly and `google_scholar` answers
+them.
 
 ### Is the routing doing the work?
 
-The obvious objection is that any second engine would do and the routing is
-decoration. That deserves a control rather than an argument, so the benchmark
-runs fixed pairings: web search plus the *same* second engine for every
-question, whatever it is about, at the same plan size as the routed
-configuration.
+The obvious objection is that any second engine would do. That deserves a
+control, so the benchmark runs fixed pairings: web search plus the *same* second
+engine for every question, at the same plan size as the routed configuration.
 
 | configuration | answered | recall | searches/question |
 |---|---|---|---|
 | naive — verbatim question | 28/30 | 93% | 1.0 |
-| keyword — reformulated, one engine | 29/30 | 97% | 1.0 |
-| routed to one engine, **no web search** | 25/30 | 83% | 1.0 |
-| web + a fixed second engine (news) | 30/30 | 100% | 2.0 |
+| keyword — reformulated, one engine | 28/30 | 93% | 1.0 |
+| routed to one engine, **no web search** | 28/30 | 93% | 1.0 |
+| web + a fixed second engine (news) | 28/30 | 93% | 2.0 |
+| web + a fixed second engine (shopping) | 28/30 | 93% | 2.0 |
 | web + a fixed second engine (scholar) | 30/30 | 100% | 2.0 |
-| web + a fixed second engine (shopping) | 29/30 | 97% | 2.0 |
 | **web + the routed second engine** | **30/30** | **100%** | **1.6** |
 
-Three things follow, and only one of them flatters the router.
+Two of the three fixed pairings do not reach 100%. The one that does is
+`google_scholar`, and the reason is worth stating plainly rather than claiming as
+a win: **both remaining questions happen to be scholarly.** A fixed pairing that
+matches the category of the questions you have left will match the router's
+recall on those questions. Had one miss been scholarly and the other a jobs
+question, no single fixed pairing would have reached 100% and the router would
+have.
 
-**Routing buys no extra recall over a well-chosen fixed pairing.** News and
-scholar both reach 100%. If the claim were "routing finds answers a fixed
-strategy cannot", this table would refute it.
+So the honest statement of what the control shows:
 
-**Routing buys cost.** Same recall as the fixed pairings for 1.6 searches per
-question against 2.0 — a fifth cheaper — because on the 11 questions where it
-detects no signal it issues a single search, while a fixed pairing always pays
-for a second engine that had nothing to add.
+> Routing reaches 100% at 1.6 searches per question. A fixed pairing reaches it
+> only when the pairing happens to match the questions, and costs 2.0 when it
+> does. Routing gets there by choosing per question, and by issuing one search on
+> the eleven questions where it detects no signal at all.
 
-**Dropping web search is much worse than adding to it.** Routing to the
-specialised engine *alone* scores 83%, below the naive baseline. The specialised
-index is narrower, not better; the pairing is what works. This is the most
-useful negative result in the benchmark, because it is the configuration an
-enthusiastic reading of the idea would suggest building.
+An earlier version of this table had all three fixed pairings at 100%, which led
+to the conclusion that routing bought no recall. That was an artefact of scoring:
+markers were matched as bare substrings, so `"ai"` matched "said", `"upi"`
+matched "occupied" and `"rs"` matched "years", and several questions were
+unfalsifiable. Matching on word boundaries changed two of the three pairings and
+the conclusion with them.
 
-So, stated as narrowly as the evidence allows:
+### Which kind of evidence came back
 
-> Routing reaches the same recall as a fixed multi-engine strategy while issuing
-> about 20% fewer searches, by not adding an engine when the question does not
-> call for one.
+| strategy | time series returned |
+|---|---|
+| naive | 0 |
+| keyword | 0 |
+| planned | 4 |
 
-The three-engine and two-round sweeps are not re-run at thirty questions. Both
-were measured at twelve, where neither bought any recall, and at thirty they
-would cost more than the benchmark they are checking. `--skip-deep` omits them;
-drop the flag to pay for them.
+Four questions ask whether something is rising or falling. Both baselines answer
+them in prose and count as answered; the planner also returns a demand series
+that can be plotted, dated and compared.
+
+This is **stated as a fact about which engines were called, not scored as a
+result.** Only `google_trends` produces a series and only the routed strategy
+calls it, so a score here would report the configuration rather than measure
+anything — it would be known before running the benchmark. An earlier version did
+score it, out of thirty, and quoted the figure as the project's sturdiest claim.
+It was not a claim at all.
 
 ### Do later rounds know what earlier ones found?
 
@@ -259,10 +243,13 @@ and `max_rounds` remain configurable and the stopping rule still governs them.
 Worth reading before drawing conclusions from the tables above.
 
 - **The effect is small.** Two questions out of thirty separate the planner from
-  the verbatim baseline, and one separates it from the reformulated one. At this
-  sample size neither gap is statistically meaningful on its own. The modality
-  result is the sturdier one: four out of four, and structural rather than
-  statistical.
+  both baselines. At this sample size that is not statistically meaningful on its
+  own, and both are scholarly, so the margin rests on a single question category.
+  A set whose remaining misses were spread across categories would test the
+  router harder.
+- **Scoring is lexical.** Markers match on word boundaries, which fixed the worst
+  of it, but a correct answer phrased without any listed marker still scores as a
+  miss, and a page mentioning a marker incidentally still scores as a hit.
 - **The set has saturated on recall.** Twenty-eight of thirty fall to a single
   web search, and every two-engine configuration reaches 100%, so the benchmark
   can no longer distinguish routing from any-second-engine on quality. Only the
