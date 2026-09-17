@@ -7,6 +7,7 @@ recorded as a hit, and that the whole thing is exact rather than judged.
 
 from __future__ import annotations
 
+import json
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -239,3 +240,138 @@ def test_median_depth_handles_an_even_count() -> None:
     summary = StrategySummary(strategy="x", questions=4, answered=4, searches=4)
     summary.depths = [1, 2, 3, 4]
     assert summary.median_depth == 2.5
+
+
+# --------------------------------------------------------------------------
+# The reporting path
+# --------------------------------------------------------------------------
+#
+# These tables are the artifact the project is judged on. The scoring underneath
+# them was tested from the start; the code that aggregates and renders them was
+# not, which left the published numbers resting on the least-covered module in
+# the repository.
+
+FIXTURES = str(Path(__file__).parent.parent / "benchmarks" / "fixtures")
+
+
+def run_two_questions() -> list[object]:
+    """Run the real harness over two questions, from committed fixtures."""
+    from frugal.benchmark import run_benchmark
+    from frugal.cache import CacheMode, ResponseCache
+    from frugal.client import SerpApiClient
+
+    questions = load_questions()[:2]
+    cache = ResponseCache(FIXTURES, mode=CacheMode.REPLAY)
+    with SerpApiClient(cache=cache) as client:
+        return run_benchmark(client, questions, budget=12, verbose=False)  # type: ignore[return-value]
+
+
+def test_the_harness_runs_every_strategy_over_every_question() -> None:
+    from frugal.benchmark import STRATEGIES
+
+    outcomes = run_two_questions()
+    assert len(outcomes) == 2 * len(STRATEGIES)
+    assert {o.strategy for o in outcomes} == set(STRATEGIES)  # type: ignore[attr-defined]
+
+
+def test_the_harness_spends_nothing_replaying_fixtures() -> None:
+    """If this ever bills, the benchmark is not reproducible as claimed."""
+    for outcome in run_two_questions():
+        assert outcome.billed_this_run == 0  # type: ignore[attr-defined]
+
+
+def test_cost_is_reported_as_steps_not_as_billing() -> None:
+    """Billing depends on cache warmth; a replayed run would read as free."""
+    for outcome in run_two_questions():
+        assert outcome.searches >= 1  # type: ignore[attr-defined]
+
+
+def test_the_headline_table_names_every_strategy() -> None:
+    from frugal.benchmark import STRATEGIES, render_table, summarise
+
+    table = render_table(summarise(run_two_questions()))  # type: ignore[arg-type]
+    for strategy in STRATEGIES:
+        assert strategy in table
+
+
+def test_the_headline_table_is_markdown_a_readme_can_carry() -> None:
+    from frugal.benchmark import render_table, summarise
+
+    lines = render_table(summarise(run_two_questions())).splitlines()  # type: ignore[arg-type]
+    assert lines[0].startswith("|") and lines[0].endswith("|")
+    assert set(lines[1].replace("|", "").strip()) <= {"-", " "}
+    assert all(line.count("|") == lines[0].count("|") for line in lines)
+
+
+def test_the_table_reports_recall_as_a_percentage() -> None:
+    from frugal.benchmark import render_table, summarise
+
+    assert "%" in render_table(summarise(run_two_questions()))  # type: ignore[arg-type]
+
+
+def test_a_strategy_that_produced_nothing_is_omitted_not_shown_as_zero() -> None:
+    """A row of zeros would read as a measured result rather than an absent one."""
+    from frugal.benchmark import render_table
+
+    assert "planned" not in render_table({})
+
+
+def test_the_ablation_table_lists_the_configurations_it_ran() -> None:
+    from frugal.benchmark import StrategySummary, render_ablation
+
+    summaries = {
+        "naive": StrategySummary(strategy="naive", questions=2, answered=1, searches=2),
+        "routed-2x1": StrategySummary(strategy="routed-2x1", questions=2, answered=2, searches=3),
+    }
+    table = render_ablation(summaries)
+    assert "naive" in table and "routed-2x1" in table
+    assert "fixed-news" not in table
+
+
+def test_the_deep_sweeps_can_be_skipped() -> None:
+    """They cost more than the benchmark they check at this question count."""
+    from frugal.benchmark import ABLATIONS, DEEP_ABLATIONS
+
+    assert {name for name, _, _ in ABLATIONS} > DEEP_ABLATIONS
+
+
+# --------------------------------------------------------------------------
+# The command line
+# --------------------------------------------------------------------------
+
+
+def test_the_dry_run_issues_nothing_and_reports_a_ceiling(
+    capsys: pytest.CaptureFixture[str],
+) -> None:
+    from frugal.benchmark import main
+
+    assert main(["--dry-run", "--limit", "2", "--cache", FIXTURES]) == 0
+    out = capsys.readouterr().out
+    assert "ceiling for the full run" in out
+    assert "worst case" in out
+
+
+def test_a_replayed_run_writes_its_results(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    from frugal.benchmark import main
+
+    out_path = tmp_path / "results.json"
+    assert main(["--replay", "--cache", FIXTURES, "--limit", "2", "--out", str(out_path)]) == 0
+
+    payload = json.loads(out_path.read_text(encoding="utf-8"))
+    assert payload["questions"] == 2
+    assert payload["searches_billed_this_run"] == 0
+    assert payload["summaries"]
+    assert payload["outcomes"]
+
+
+def test_the_written_results_carry_what_the_readme_quotes(tmp_path: Path) -> None:
+    """A reader checking the table should find the same fields behind it."""
+    from frugal.benchmark import main
+
+    out_path = tmp_path / "results.json"
+    main(["--replay", "--cache", FIXTURES, "--limit", "2", "--out", str(out_path)])
+    summary = next(iter(json.loads(out_path.read_text(encoding="utf-8"))["summaries"].values()))
+    for field in ("recall", "searches_per_question", "answered", "questions"):
+        assert field in summary
