@@ -169,3 +169,70 @@ def test_every_engine_receives_the_query() -> None:
 
 def test_engine_names_are_matched_case_insensitively() -> None:
     assert build_params("GOOGLE_TRENDS", "x")["data_type"] == "TIMESERIES"
+
+
+# --------------------------------------------------------------------------
+# A constraint expressed twice
+# --------------------------------------------------------------------------
+#
+# Setting a parameter *and* leaving the same constraint in the query text
+# over-constrains the index. A jobs search for "python developers chennai" with
+# location set to Chennai returned no results at all, while either alone
+# returned plenty. The search was spent and bought nothing, which is the exact
+# waste this project exists to remove.
+
+
+def test_the_place_is_dropped_from_the_query_when_it_becomes_a_parameter() -> None:
+    locale = detect_locale("Which companies are hiring Python developers in Chennai?")
+    params = build_params(
+        "google_jobs", "companies hiring python developers chennai", locale=locale
+    )
+    assert params["location"] == "Chennai, Tamil Nadu, India"
+    assert "chennai" not in params["q"].lower()
+    assert "python" in params["q"]
+
+
+def test_the_country_is_dropped_from_a_shopping_query() -> None:
+    locale = detect_locale("What laptops are available under 50000 rupees in India?")
+    params = build_params("google_shopping", "laptops available india", locale=locale)
+    assert params["gl"] == "in"
+    assert "india" not in params["q"].lower()
+
+
+def test_the_place_is_dropped_from_a_trends_query() -> None:
+    locale = detect_locale("Is interest in electric vehicles growing in India?")
+    params = build_params("google_trends", "electric vehicles india", locale=locale)
+    assert params["geo"] == "IN"
+    assert "india" not in params["q"].lower()
+
+
+def test_web_search_keeps_the_place_in_the_query() -> None:
+    """Web search is not over-constrained by it, and it helps the match."""
+    locale = detect_locale("news from India")
+    assert "india" in build_params("google", "railways india", locale=locale)["q"].lower()
+
+
+def test_stripping_never_empties_a_query() -> None:
+    """A query stripped to nothing retrieves nothing, which is strictly worse."""
+    locale = detect_locale("India")
+    assert build_params("google_shopping", "india", locale=locale)["q"]
+
+
+# --------------------------------------------------------------------------
+# Qualifiers are not product names
+# --------------------------------------------------------------------------
+
+
+def test_prices_and_qualifiers_are_dropped_from_a_shopping_query() -> None:
+    """Shopping matches product names; it does not apply a price as a filter."""
+    params = build_params("google_shopping", "wireless earbuds available under 3000 rupees")
+    assert params["q"] == "wireless earbuds"
+
+
+def test_a_shopping_query_keeps_the_product() -> None:
+    assert "laptops" in build_params("google_shopping", "best laptops under 50000")["q"]
+
+
+def test_other_engines_keep_their_qualifiers() -> None:
+    """Only shopping treats these as noise; web search matches on them."""
+    assert "under" in build_params("google", "laptops under 50000")["q"]

@@ -203,11 +203,12 @@ Worth reading before drawing conclusions from the tables above.
   ("work as", never bare "work"). Others certainly remain: a synonym nobody
   listed will not fire, and a question whose meaning turns on syntax rather than
   vocabulary will be read wrongly.
-- **Three engines return nothing for some questions** and the search is spent
-  anyway: a long keyword query to `google_shopping` or `google_news` can match
-  no documents at all. The paired web search carries those questions, so recall
-  is unaffected, but the search is wasted — which is the exact waste this project
-  exists to remove.
+- **Google News is partitioned by country edition**, and place detection is
+  lexical, so a question naming an Indian subject without naming India queries
+  the wrong edition and returns nothing. "What is the latest ISRO mission
+  launch?" is the case in the set: `gl=in` returns a hundred results and the
+  default edition returns none. One of the thirty questions still spends a search
+  this way.
 - **Deduplication compares URLs**, so one story syndicated across four outlets
   counts as four pieces of evidence. Marginal novelty overstates how much a
   batch actually added.

@@ -145,11 +145,18 @@ def _keyword_query(question: str) -> str:
 
 
 def _core_terms(question: str, keep: int = 3) -> str:
-    """The most salient terms, longest first.
+    """The most salient terms.
 
-    A crude salience proxy, but a deterministic one: longer content words are
-    more often the domain terms that distinguish a question, and short ones more
-    often the scaffolding around them.
+    Salience is approximated by length, which is crude but deterministic: longer
+    content words are more often the domain terms that distinguish a question,
+    and short ones more often the scaffolding around them.
+
+    Acronyms are the exception, and they matter enough to handle separately. A
+    question about UPI, ISRO, GST or EVs turns on a three-letter word that the
+    length heuristic ranks last — "Has search interest in UPI payments in India
+    been growing?" produced the term query "payments time", with the subject of
+    the question discarded. An all-capitals token in the original question is
+    almost always the most specific term in it, so those rank first.
     """
     tokens = [
         t for t in tokenise(question) if t not in _RECENCY_WORDS and t not in _FRAMING_WORDS
@@ -158,8 +165,22 @@ def _core_terms(question: str, keep: int = 3) -> str:
         # A question made entirely of framing has no core; fall back to content
         # words rather than returning nothing.
         tokens = list(tokenise(question))
-    ranked = sorted(tokens, key=lambda t: (-len(t), tokens.index(t)))[:keep]
+
+    acronyms = _acronyms(question)
+    ranked = sorted(
+        tokens,
+        key=lambda t: (t not in acronyms, -len(t), tokens.index(t)),
+    )[:keep]
     return " ".join(sorted(ranked, key=tokens.index))
+
+
+def _acronyms(question: str) -> frozenset[str]:
+    """Lowercased tokens that appear in all capitals in the original question."""
+    return frozenset(
+        word.lower()
+        for word in re.findall(r"\b[A-Z]{2,6}\b", question)
+        if word.lower() not in _STOPWORDS
+    )
 
 
 def _strip_recency(question: str) -> str:
@@ -174,6 +195,11 @@ _ENGINE_SHAPES: dict[str, tuple[str, str]] = {
     "google_trends": (
         "bare-term",
         "trends matches a term, not a sentence; a full question returns nothing",
+    ),
+    "google_news": (
+        "headline-terms",
+        "news is already date-sorted, so a recency word only adds a term the "
+        "headline must also contain",
     ),
     "google_scholar": (
         "technical-terms",

@@ -70,6 +70,18 @@ CITIES: dict[str, tuple[str, str]] = {
     "maharashtra": ("Maharashtra, India", "IN"),
 }
 
+#: Words that qualify a product rather than name one. Shopping matches product
+#: names, so "wireless earbuds available under 3000 rupees india" asks it for a
+#: product called that and gets nothing. Prices are not filters it applies.
+_PRODUCT_NOISE = frozenset(
+    {
+        "available", "under", "below", "above", "over", "cheapest", "cheap",
+        "best", "good", "buy", "buying", "price", "prices", "priced", "pricing",
+        "cost", "costs", "rupees", "rupee", "rs", "inr", "dollars", "usd",
+        "budget", "range", "worth", "value", "around", "approximately",
+    }
+)
+
 #: Recency words that justify narrowing a scholarly search to recent years.
 _RECENT = frozenset({"recent", "recently", "latest", "current", "new", "newest"})
 
@@ -113,6 +125,35 @@ def detect_locale(question: str) -> Locale | None:
     return None
 
 
+def _drop_terms(query: str, drop: frozenset[str], *, drop_digits: bool = False) -> str:
+    """Remove terms from a query, keeping at least something behind.
+
+    Never returns empty: a query stripped to nothing retrieves nothing, which is
+    worse than an over-specified one.
+    """
+    kept = [
+        word
+        for word in query.split()
+        if word.lower().strip(",.?!:;") not in drop
+        and not (drop_digits and word.strip(",.?!:;").isdigit())
+    ]
+    return " ".join(kept) if kept else query
+
+
+def _place_words(locale: Locale) -> frozenset[str]:
+    """The words naming this place, so they can be dropped from a query.
+
+    A place given as a ``location`` or ``geo`` parameter does not also belong in
+    the query text. Expressed twice it over-constrains the index: a jobs search
+    for "python developers chennai" *with* location set to Chennai returned no
+    results at all, while either one alone returns plenty.
+    """
+    words = {locale.matched}
+    if locale.location:
+        words.update(part.strip().lower() for part in locale.location.split(","))
+    return frozenset(w for w in words if w)
+
+
 def build_params(
     engine: str,
     query: str,
@@ -136,6 +177,7 @@ def build_params(
         params["data_type"] = "TIMESERIES"
         if locale is not None:
             params["geo"] = locale.country
+            params["q"] = _drop_terms(query, _place_words(locale))
         return params
 
     if engine == "google_patents":
@@ -151,6 +193,11 @@ def build_params(
             params["as_ylo"] = current_year - _SCHOLAR_RECENT_YEARS
         return params
 
+    if engine == "google_shopping":
+        # Qualifiers and prices are not product names, and shopping matches
+        # product names. Dropping them is the difference between results and none.
+        params["q"] = _drop_terms(params["q"], _PRODUCT_NOISE, drop_digits=True)
+
     if locale is not None:
         params["gl"] = locale.country.lower()
         params["hl"] = "en"
@@ -159,6 +206,11 @@ def build_params(
         # search without it returns listings from anywhere at all.
         if engine in {"google_jobs", "google_maps"} and locale.location:
             params["location"] = locale.location
+
+        # A constraint expressed as a parameter must not also sit in the query.
+        # Both at once over-constrains the index to nothing; see _place_words.
+        if engine in {"google_jobs", "google_maps", "google_shopping"}:
+            params["q"] = _drop_terms(params["q"], _place_words(locale))
 
     return params
 
