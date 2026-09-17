@@ -378,6 +378,36 @@ the usual way a search bill becomes a surprise.
 Set `FRUGAL_REPLAY=1` and `FRUGAL_CACHE_DIR=benchmarks/fixtures` to run the
 server entirely from committed fixtures, with no key and no spend.
 
+### LangChain
+
+```bash
+pip install 'frugal[langchain]'
+```
+
+A retriever that drops in where a vector store would go, and two tools an agent
+can choose between:
+
+```python
+from frugal.langchain import build_retriever, frugal_tools
+
+retriever = build_retriever(budget=6)
+docs = retriever.invoke("Which companies are hiring Python developers in Chennai?")
+
+docs[0].metadata["engine"]     # which engine produced this
+docs[0].metadata["plan_cost"]  # what the retrieval spent
+
+agent_tools = frugal_tools()   # frugal_plan and frugal_search
+```
+
+Every document carries the engine, query and rank that produced it, so a chain
+citing its sources can name the search rather than assert the claim. The first
+document carries the plan's cost, which a list of documents does not otherwise
+tell you.
+
+`frugal_plan` is the tool worth having: an agent can ask what a question would
+cost before deciding to spend it. Both tools cap the budget server-side at 25
+searches per call whatever the caller asks for.
+
 ## Install
 
 Requires Python 3.11 or newer.
