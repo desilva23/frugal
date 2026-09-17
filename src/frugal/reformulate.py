@@ -25,6 +25,7 @@ to reproduce without a model.
 from __future__ import annotations
 
 import re
+from collections.abc import Sequence
 from dataclasses import dataclass
 
 #: Words that carry no retrieval signal. Search engines discard these anyway, so
@@ -362,3 +363,109 @@ def _select(
             break
 
     return kept
+
+
+#: Terms appearing in at least this fraction of a round's results before they
+#: count as characteristic of the topic. Below it, a term is one document's
+#: vocabulary rather than the subject's.
+_FEEDBACK_MIN_SHARE = 0.25
+
+#: Terms too generic to expand a query with, however often they appear. These
+#: are the vocabulary of web pages rather than of any subject.
+_FEEDBACK_STOPLIST = frozenset(
+    {
+        "https", "http", "www", "com", "org", "net", "html", "index", "page",
+        "home", "news", "article", "blog", "post", "read", "click", "here",
+        "site", "website", "online", "free", "top", "list", "guide", "review",
+        "reviews", "update", "updated", "learn", "view", "share", "search",
+        "results", "result", "info", "information", "latest", "best", "new",
+        "pdf", "amp", "wikipedia", "youtube", "facebook", "twitter", "linkedin",
+    }
+)
+
+
+def _stem(word: str) -> str:
+    """Crude suffix stripping, enough to spot a morphological variant.
+
+    Not linguistics: the only job is recognising that "launches" and "launch"
+    are the same term, so a feedback round does not spend a search asking for
+    the plural of a word the question already contains.
+    """
+    stripped = word.replace("'s", "").strip("'")
+    for suffix in ("ies", "ing", "ed", "es", "s"):
+        if stripped.endswith(suffix) and len(stripped) - len(suffix) >= 3:
+            return stripped[: -len(suffix)]
+    return stripped
+
+
+def _asked_stems(question: str) -> set[str]:
+    """Every stem the question already contains, hyphenated parts included.
+
+    "CRISPR-Cas9" is one token to the tokeniser but reaches the index as two, so
+    results reliably contain "crispr" and "cas9" separately. Without splitting,
+    feedback nominates both as new vocabulary and the expanded query repeats
+    what was asked.
+    """
+    stems: set[str] = set()
+    for token in tokenise(question):
+        for part in token.replace("-", " ").split():
+            stems.add(_stem(part))
+    return stems
+
+
+def feedback_terms(
+    texts: Sequence[str],
+    question: str,
+    *,
+    limit: int = 2,
+    min_share: float = _FEEDBACK_MIN_SHARE,
+) -> tuple[str, ...]:
+    """Terms characteristic of retrieved results but absent from the question.
+
+    This is pseudo-relevance feedback: treat the first round's results as if
+    they were relevant, and mine them for vocabulary the question did not
+    supply. A question about "the latest ISRO mission" does not contain the name
+    of the mission, and a second round that already knows it is asking something
+    genuinely new rather than rewording the first.
+
+    Deterministic, which is the whole point. The same evidence yields the same
+    terms, so a plan that adapts to what it found still reproduces exactly — a
+    model here would buy nothing this does not and would cost the benchmark its
+    repeatability.
+
+    Terms are ranked by how many results contain them, not by how often they
+    appear overall, so one verbose page cannot nominate its own vocabulary.
+    """
+    if not texts:
+        return ()
+
+    asked = _asked_stems(question)
+    appearances: dict[str, int] = {}
+
+    for text in texts:
+        seen_here: set[str] = set()
+        for token in tokenise(text):
+            for part in token.replace("-", " ").split():
+                if len(part) < 3 or part.isdigit() or part in _FEEDBACK_STOPLIST:
+                    continue
+                # A morphological variant of a term the question already has is
+                # not new vocabulary, and expanding with it buys nothing.
+                if _stem(part) in asked:
+                    continue
+                seen_here.add(part)
+        for part in seen_here:
+            appearances[part] = appearances.get(part, 0) + 1
+
+    threshold = max(2, int(len(texts) * min_share))
+    candidates = [(term, count) for term, count in appearances.items() if count >= threshold]
+
+    # Ties broken alphabetically so the result does not depend on dict ordering.
+    candidates.sort(key=lambda pair: (-pair[1], pair[0]))
+    return tuple(term for term, _ in candidates[:limit])
+
+
+def expand_query(base: str, terms: Sequence[str]) -> str:
+    """Add feedback terms to a query, without repeating what it already has."""
+    present = _asked_stems(base)
+    additions = [term for term in terms if _stem(term) not in present]
+    return " ".join([base, *additions]) if additions else base

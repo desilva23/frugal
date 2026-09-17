@@ -11,6 +11,8 @@ from __future__ import annotations
 import pytest
 
 from frugal.reformulate import (
+    expand_query,
+    feedback_terms,
     novelty,
     reformulate,
     shape_for_engine,
@@ -203,3 +205,78 @@ def test_an_empty_question_is_rejected() -> None:
 def test_a_question_that_is_entirely_framing_still_yields_a_query() -> None:
     """Falling through to nothing would leave the plan with no query at all."""
     assert reformulate("what is the best?", engine="google_trends")
+
+
+# --------------------------------------------------------------------------
+# Pseudo-relevance feedback
+# --------------------------------------------------------------------------
+#
+# A later round that rewords the question is not adaptive; it just costs a
+# second search for the same page. A later round that asks about vocabulary the
+# first round *found* is asking something the question could not have.
+
+
+def test_terms_frequent_across_results_are_returned() -> None:
+    texts = ["quantum computing breakthrough"] * 3 + ["unrelated page"]
+    assert "quantum" in feedback_terms(texts, "what is the latest breakthrough?")
+
+
+def test_terms_the_question_already_asked_are_not_returned() -> None:
+    texts = ["solar panel efficiency"] * 4
+    assert "solar" not in feedback_terms(texts, "solar panel efficiency records")
+
+
+def test_a_plural_of_a_question_term_is_not_new_vocabulary() -> None:
+    """"launches" for a question about a "launch" costs a search and buys nothing."""
+    texts = ["isro launches satellite", "isro launches rocket", "isro launches probe"]
+    assert "launches" not in feedback_terms(texts, "What is the latest ISRO mission launch?")
+
+
+def test_a_possessive_of_a_question_term_is_not_new_vocabulary() -> None:
+    texts = ["india's semiconductor plan"] * 4
+    assert "india's" not in feedback_terms(texts, "semiconductor manufacturing in India")
+
+
+def test_hyphenated_question_terms_are_matched_by_their_parts() -> None:
+    """"CRISPR-Cas9" is one token here and two in the index."""
+    texts = ["crispr cas9 editing"] * 4
+    terms = feedback_terms(texts, "Which paper introduced CRISPR-Cas9 genome editing?")
+    assert "crispr" not in terms
+    assert "cas9" not in terms
+
+
+def test_a_term_in_one_result_only_is_not_characteristic() -> None:
+    """One verbose page must not nominate its own vocabulary."""
+    texts = ["common topic here", "common topic here", "idiosyncratic tangent"]
+    assert "idiosyncratic" not in feedback_terms(texts, "what about the topic?")
+
+
+def test_boilerplate_is_excluded() -> None:
+    texts = ["read more on our website click here"] * 5
+    assert not set(feedback_terms(texts, "a question")) & {"read", "website", "click", "here"}
+
+
+def test_no_results_yields_no_terms() -> None:
+    assert feedback_terms([], "anything") == ()
+
+
+def test_feedback_is_deterministic() -> None:
+    """A plan that adapts must still reproduce exactly."""
+    texts = ["alpha beta", "alpha gamma", "alpha beta", "delta alpha"]
+    first = feedback_terms(texts, "a question")
+    for _ in range(10):
+        assert feedback_terms(texts, "a question") == first
+
+
+def test_limit_caps_the_terms_returned() -> None:
+    texts = ["alpha beta gamma delta epsilon"] * 4
+    assert len(feedback_terms(texts, "a question", limit=2)) == 2
+
+
+def test_expansion_appends_only_genuinely_new_terms() -> None:
+    assert expand_query("solar panels", ("efficiency",)) == "solar panels efficiency"
+    assert expand_query("solar panels", ("panel",)) == "solar panels"
+
+
+def test_expansion_with_nothing_to_add_is_unchanged() -> None:
+    assert expand_query("solar panels", ()) == "solar panels"

@@ -35,7 +35,7 @@ from frugal.budget import BudgetGovernor, Projection, SpendListener
 from frugal.client import SerpApiClient
 from frugal.errors import BudgetExceeded, FrugalError
 from frugal.parameters import Locale, build_params, detect_locale, wants_recent
-from frugal.reformulate import reformulate
+from frugal.reformulate import expand_query, feedback_terms, reformulate
 from frugal.router import RoutingDecision, route
 from frugal.saturation import (
     DEFAULT_PATIENCE,
@@ -43,7 +43,7 @@ from frugal.saturation import (
     Observation,
     SaturationMonitor,
 )
-from frugal.schema import Evidence
+from frugal.schema import Document, Evidence, Series
 
 DEFAULT_BUDGET = 12
 
@@ -392,12 +392,20 @@ class Planner:
         evidence: list[Evidence] = []
         stopped = "completed the plan"
 
+        locale = self.locale_for(question)
+
         for round_number in sorted(by_round):
             if governor.exhausted:
                 stopped = "budget exhausted"
                 break
 
-            outcome = self._run_round(by_round[round_number], governor)
+            steps = by_round[round_number]
+            if round_number > 1:
+                # Rounds after the first adapt to what the earlier ones found,
+                # rather than rewording the question again.
+                steps = self._adapt(steps, question, evidence, locale)
+
+            outcome = self._run_round(steps, governor)
             executed.extend(outcome.executed)
 
             observation = monitor.observe(outcome.evidence)
@@ -425,6 +433,58 @@ class Planner:
             elapsed_ms=(time.perf_counter() - started) * 1000,
             ceiling=ceiling,
         )
+
+    def _adapt(
+        self,
+        steps: list[PlanStep],
+        question: str,
+        evidence: list[Evidence],
+        locale: Locale | None,
+    ) -> list[PlanStep]:
+        """Rewrite a round's steps using vocabulary the earlier rounds retrieved.
+
+        Pseudo-relevance feedback: the results so far are treated as relevant and
+        mined for terms the question never contained. A question about "the
+        latest ISRO mission" does not name the mission; a later round that does
+        is asking something genuinely new rather than rephrasing.
+
+        Deterministic, so a plan that adapts to what it found still reproduces
+        exactly. Term-only engines are left alone: ``google_trends`` matches a
+        short term against its index, and appending a feedback term to that
+        produces a term nobody has searched for.
+        """
+        terms = feedback_terms(
+            [_feedback_text(item) for item in evidence], question, limit=2
+        )
+        if not terms:
+            return steps
+
+        adapted: list[PlanStep] = []
+        for step in steps:
+            if step.engine in _TERM_ONLY:
+                adapted.append(step)
+                continue
+            expanded = expand_query(step.query, terms)
+            if expanded == step.query:
+                adapted.append(step)
+                continue
+            adapted.append(
+                PlanStep(
+                    engine=step.engine,
+                    query=expanded,
+                    strategy=f"{step.strategy}+feedback",
+                    cost=step.cost,
+                    round_number=step.round_number,
+                    rationale=f"expanded with terms found earlier: {', '.join(terms)}",
+                    params=build_params(
+                        step.engine,
+                        expanded,
+                        locale=locale,
+                        results=self.results_per_search,
+                    ),
+                )
+            )
+        return adapted
 
     def _run_round(self, steps: list[PlanStep], governor: BudgetGovernor) -> _RoundOutcome:
         """Execute one round's steps concurrently."""
@@ -692,6 +752,20 @@ def keyword_naive_run(
         elapsed_ms=(time.perf_counter() - started) * 1000,
         ceiling=1,
     )
+
+
+#: Engines that match a short term rather than a phrase, and so must not have
+#: feedback terms appended to their queries.
+_TERM_ONLY = frozenset({"google_trends"})
+
+
+def _feedback_text(item: Evidence) -> str:
+    """The text of one result, for mining vocabulary out of."""
+    if isinstance(item, Series):
+        return item.name
+    if isinstance(item, Document):
+        return " ".join(part for part in (item.title, item.snippet, item.source) if part)
+    return ""  # pragma: no cover - Evidence is a closed union
 
 
 def _dedupe_preserving_order(evidence: list[Evidence]) -> list[Evidence]:

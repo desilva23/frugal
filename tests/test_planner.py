@@ -393,3 +393,59 @@ def test_results_serialise_for_the_benchmark(tmp_path: Path) -> None:
     payload = planner.run(QUESTION, budget=12).as_dict()
     for key in ("searches_charged", "ceiling", "steps_skipped", "cache_hits", "budget"):
         assert key in payload
+
+
+# --------------------------------------------------------------------------
+# Later rounds adapt to what earlier ones found
+# --------------------------------------------------------------------------
+
+
+def test_a_second_round_asks_something_the_first_round_taught_it(tmp_path: Path) -> None:
+    """The answer to "this is a static DAG, not an agent".
+
+    Round two is not a rewording of the question; it carries vocabulary that only
+    appeared in round one's results.
+    """
+    seen: list[str] = []
+    rows = results("quantum annealing breakthrough", "quantum annealing result")
+    inner = responder(default=rows)
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        seen.append(str(request.url.params.get("q", "")))
+        return inner(request)
+
+    planner, _ = make_planner(tmp_path, handler, max_rounds=2, max_engines=1)
+    planner.run("What was the latest computing breakthrough?", budget=12)
+
+    assert any("quantum" in q or "annealing" in q for q in seen[1:]), seen
+
+
+def test_adaptation_is_deterministic(tmp_path: Path) -> None:
+    """A plan that adapts must still reproduce, or the benchmark is worthless."""
+
+    handler = responder(default=results("photonic lattice study", "photonic lattice review"))
+    question = "What was the latest computing breakthrough?"
+    runs = []
+    for _ in range(3):
+        planner, _ = make_planner(tmp_path, handler, max_rounds=2, max_engines=1)
+        runs.append([s.step.query for s in planner.run(question, budget=12).steps])
+    assert runs[0] == runs[1] == runs[2]
+
+
+def test_a_term_only_engine_is_not_given_feedback_terms(tmp_path: Path) -> None:
+    """Appending a found term to a trends query invents a term nobody searched."""
+    planner, _ = make_planner(tmp_path, max_rounds=3, max_engines=1)
+    result = planner.run("Is interest in electric vehicles growing in India over time?", budget=20)
+    for step in result.steps:
+        if step.step.engine == "google_trends":
+            assert "feedback" not in step.step.strategy
+
+
+def test_a_round_with_nothing_new_to_add_keeps_its_query(tmp_path: Path) -> None:
+    """No feedback terms means the planned query stands, not an empty one."""
+
+    planner, _ = make_planner(
+        tmp_path, responder(default=[]), max_rounds=2, max_engines=1
+    )
+    result = planner.run("What was the latest computing breakthrough?", budget=12)
+    assert all(step.step.query for step in result.steps)

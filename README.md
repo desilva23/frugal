@@ -181,6 +181,36 @@ were measured at twelve, where neither bought any recall, and at thirty they
 would cost more than the benchmark they are checking. `--skip-deep` omits them;
 drop the flag to pay for them.
 
+### Do later rounds know what earlier ones found?
+
+Yes, and without a model. After each round, the results so far are mined for
+vocabulary the question never contained, and the next round's queries carry it.
+This is pseudo-relevance feedback, and it keeps the plan deterministic: the same
+evidence yields the same terms, so a plan that adapts still reproduces exactly.
+
+The clearest case is `isro-latest-mission`. The question asks about "the latest
+ISRO mission launch" and does not name the mission. Round one's results do, and
+round two asks about `eos` — the mission designation — which no rewording of the
+question could have produced.
+
+Morphological variants are excluded, because they are not new vocabulary. An
+earlier version nominated "launches" for a question about a "launch", and
+"crispr" for a question about "CRISPR-Cas9", which spends a search to ask what
+was already asked.
+
+**It does not improve recall on this benchmark**, and the default is therefore
+still a single round:
+
+| configuration | answered | searches | distinct evidence |
+|---|---|---|---|
+| one round | 10/10 | 18 | 147 |
+| two rounds, adaptive | 10/10 | 35 | 256 |
+
+Measured on the first ten questions. Nearly twice the searches for three-quarters
+more evidence and not one additional answer. The mechanism is real and the
+evidence it adds is real; on questions this set contains, it is not worth the
+money. Raise `max_rounds` for a harder set.
+
 ### What depth buys
 
 Nothing, on this question set. A third engine and a second round cost 2.2 more
