@@ -211,11 +211,25 @@ more evidence and not one additional answer. The mechanism is real and the
 evidence it adds is real; on questions this set contains, it is not worth the
 money. Raise `max_rounds` for a harder set.
 
-### What depth buys
+### What breadth and depth buy
 
-Nothing, on this question set. A third engine and a second round cost 2.2 more
-searches per question for identical answers. The defaults were 3 engines and 4
-rounds until this was measured; they are now 2 and 1.
+Nothing, on this question set. Measured twice, at both sizes:
+
+| configuration | answered | searches/question | distinct evidence |
+|---|---|---|---|
+| **2 engines, 1 round** | **10/10** | **1.8** | 147 |
+| 3 engines, 1 round | 10/10 | 2.2 | 186 |
+| 2 engines, 2 rounds (adaptive) | 10/10 | 3.5 | 256 |
+
+Measured on the first ten questions in file order, not a chosen subset. Neither a
+third engine nor a second round answers one additional question, and the second
+round nearly doubles the cost. Both retrieve genuinely more evidence — these are
+deduplicated counts — and none of it changes an answer.
+
+The defaults were 3 engines and 4 rounds until this was measured; they are now
+2 and 1. Twelve and thirty questions are both small sets whose answers are
+reasonably discoverable, so a harder set may well pay for depth. `max_engines`
+and `max_rounds` remain configurable and the stopping rule still governs them.
 
 ### Limitations
 
