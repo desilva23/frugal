@@ -14,10 +14,33 @@ stopping early once additional searches stop adding evidence.
 
 The measured claim is narrower than the pitch: on the benchmark set, routing
 reaches the same answers as a fixed multi-engine strategy while issuing about
-15% fewer searches, and returns structured data where a web search returns prose.
+20% fewer searches, and returns structured data where a web search returns prose.
 It is measured rather than asserted, and anyone can re-run it from committed
 fixtures without an API key — including the parts that did not go the way this
 project wanted. See [Results](#results).
+
+## What an agent gets from this
+
+Frugal ships as an integration, not just a library. It plugs into
+[MCP](#using-it-from-an-agent-mcp), [LangChain](#langchain) and
+[LlamaIndex](#llamaindex), and adds one thing none of them otherwise have:
+
+**an agent can see what a search costs, and cap it.**
+
+Every existing way an agent reaches SerpApi hands back results and says nothing
+about the price. The agent cannot tell whether a question was cheap, cannot cap
+what it is willing to spend, and cannot find out beforehand. It searches, and
+someone gets the bill.
+
+| tool | what it does |
+|---|---|
+| `frugal_plan` | which engines a question would reach and the most it could cost — **issuing nothing** |
+| `frugal_search` | runs the plan under a caller-set budget, and reports what it actually spent |
+
+Results come back with provenance attached, so a chain citing its sources can
+name the search that produced a claim rather than asserting it. All three
+integrations share one budget ceiling, so a caller cannot route around the cap by
+picking a framework — there is a test for that.
 
 ## Why this exists
 
