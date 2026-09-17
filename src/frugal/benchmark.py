@@ -43,6 +43,7 @@ from frugal.planner import (
     PlanResult,
     keyword_naive_run,
     naive_run,
+    parameterised_naive_run,
 )
 from frugal.schema import Evidence, Series
 
@@ -80,11 +81,19 @@ def marker_matches(marker: str, text: str) -> bool:
 QUESTIONS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "questions.json"
 RESULTS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "results.json"
 
-#: Three strategies, because two could not tell routing from reformulation.
-#: "naive" sends the question verbatim, which is what many agents do.
-#: "keyword" sends the planner's own reformulation to one engine, isolating
-#: what the reformulation is worth. "planned" adds routing on top.
-STRATEGIES = ("naive", "keyword", "planned")
+#: Four strategies, each adding one mechanism to the one before it, so that
+#: every gap isolates a single thing:
+#:
+#:   naive           the question verbatim to web search -- what many agents do
+#:   keyword         + reformulation
+#:   parameterised   + the engine parameters gl, hl, location, geo, as_ylo
+#:   planned         + routing across engines, under a budget
+#:
+#: The third was added after a review pointed out that the keyword-to-planned gap
+#: contained both parameters and routing while the README credited all of it to
+#: routing. Two strategies could not separate reformulation from routing; three
+#: could not separate routing from parameters.
+STRATEGIES = ("naive", "keyword", "parameterised", "planned")
 
 
 @dataclass(frozen=True, slots=True)
@@ -364,6 +373,8 @@ def run_benchmark(
                     result = naive_run(client, question.question)
                 elif strategy == "keyword":
                     result = keyword_naive_run(client, question.question)
+                elif strategy == "parameterised":
+                    result = parameterised_naive_run(client, question.question)
                 else:
                     result = planner.run(question.question, budget=budget)
             except FrugalError as exc:
@@ -482,6 +493,14 @@ def run_ablation(
             [_outcome(q, "keyword", keyword_naive_run(client, q.question)) for q in questions]
         )
     )
+    summaries.update(
+        summarise(
+            [
+                _outcome(q, "parameterised", parameterised_naive_run(client, q.question))
+                for q in questions
+            ]
+        )
+    )
 
     for name, forced in FIXED_PAIRINGS:
         fixed_outcomes: list[QuestionOutcome] = []
@@ -526,7 +545,13 @@ def render_ablation(summaries: dict[str, StrategySummary]) -> str:
         "| answers/search |\n|---|---|---|---|---|---|"
     )
     rows = []
-    order = ("naive", "keyword", *(f[0] for f in FIXED_PAIRINGS), *(a[0] for a in ABLATIONS))
+    order = (
+        "naive",
+        "keyword",
+        "parameterised",
+        *(f[0] for f in FIXED_PAIRINGS),
+        *(a[0] for a in ABLATIONS),
+    )
     for name in order:
         summary = summaries.get(name)
         if summary is None:

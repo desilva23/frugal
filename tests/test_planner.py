@@ -17,7 +17,7 @@ import pytest
 
 from frugal.cache import ResponseCache
 from frugal.client import SerpApiClient
-from frugal.planner import Planner, naive_run
+from frugal.planner import Planner, keyword_naive_run, naive_run, parameterised_naive_run
 from frugal.schema import Document
 
 
@@ -449,3 +449,59 @@ def test_a_round_with_nothing_new_to_add_keeps_its_query(tmp_path: Path) -> None
     )
     result = planner.run("What was the latest computing breakthrough?", budget=12)
     assert all(step.step.query for step in result.steps)
+
+
+# --------------------------------------------------------------------------
+# The parameterised baseline
+# --------------------------------------------------------------------------
+#
+# It exists to separate two mechanisms that were being credited to one. Without
+# it the gap between a keyword search and a full plan contains both routing and
+# the engine parameters a plan carries, and the README attributed all of it to
+# routing.
+
+
+def test_the_parameterised_baseline_issues_exactly_one_search(tmp_path: Path) -> None:
+    calls: list[str] = []
+    _, client = make_planner(tmp_path, responder(counter=calls))
+    result = parameterised_naive_run(client, QUESTION)
+    assert len(calls) == 1
+    assert result.ceiling == 1
+
+
+def test_it_uses_web_search_only(tmp_path: Path) -> None:
+    """One engine. The only thing it adds over the keyword baseline is parameters."""
+    _, client = make_planner(tmp_path)
+    assert parameterised_naive_run(client, QUESTION).steps[0].step.engine == "google"
+
+
+def test_it_reformulates_like_the_keyword_baseline(tmp_path: Path) -> None:
+    _, client = make_planner(tmp_path)
+    plain = keyword_naive_run(client, QUESTION).steps[0].step.query
+    assert parameterised_naive_run(client, QUESTION).steps[0].step.query == plain
+
+
+def test_it_receives_the_parameters_the_keyword_baseline_does_not(tmp_path: Path) -> None:
+    """The one difference between the two arms, and therefore what they measure."""
+    question = "Which companies are hiring Python developers in Chennai?"
+    _, client = make_planner(tmp_path)
+
+    plain = keyword_naive_run(client, question).steps[0].step.params
+    parameterised = parameterised_naive_run(client, question).steps[0].step.params
+
+    assert set(plain) == {"q", "num"}
+    assert parameterised["gl"] == "in"
+    assert parameterised["hl"] == "en"
+
+
+def test_it_narrows_scholar_style_recency_when_asked(tmp_path: Path) -> None:
+    _, client = make_planner(tmp_path)
+    result = parameterised_naive_run(client, "What recent research addresses hallucination?")
+    assert result.steps[0].step.params["q"]
+
+
+def test_a_failing_search_does_not_take_it_down(tmp_path: Path) -> None:
+    _, client = make_planner(tmp_path, responder(fail_engine="google"))
+    result = parameterised_naive_run(client, QUESTION)
+    assert result.steps[0].error
+    assert result.evidence == []

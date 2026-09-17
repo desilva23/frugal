@@ -103,21 +103,24 @@ Thirty questions with verifiable answers, scored on whether the retrieved
 evidence contains the answer. Scoring is string matching against marker terms on
 word boundaries, so there is no judge model and nothing to take on trust.
 
-| strategy | what it does | answered | recall | searches/question |
+| strategy | what it adds | answered | recall | searches/question |
 |---|---|---|---|---|
-| naive | sends the question verbatim to web search | 28/30 | 93% | 1.0 |
-| keyword | one web search, question reformulated | 28/30 | 93% | 1.0 |
-| **planned** | routed across engines, under a budget | **30/30** | **100%** | 1.6 |
+| naive | the question verbatim to web search | 28/30 | 93% | 1.0 |
+| keyword | + reformulation | 28/30 | 93% | 1.0 |
+| parameterised | + engine parameters | 28/30 | 93% | 1.0 |
+| **planned** | + routing, under a budget | **30/30** | **100%** | 1.6 |
 
-Three strategies rather than two, because two could not tell the mechanisms
-apart. An earlier version compared only the first and the last, and credited
-routing with work reformulation was doing.
+Four strategies, each adding one mechanism to the one before, so that every gap
+isolates a single thing. It took three revisions to get there: two strategies
+could not separate reformulation from routing, and three could not separate
+routing from the engine parameters that come with it.
 
 ### Which mechanism earns what
 
 | mechanism | fixes | breaks | net | cost |
 |---|---|---|---|---|
 | reformulation | `hospitals-coimbatore`, `python-jobs-chennai` | `rag-paper`, `crispr-paper` | **zero** | none |
+| engine parameters | — | — | **zero** | none |
 | routing | `rag-paper`, `crispr-paper` | — | **+2** | +0.6 searches/question |
 
 **Reformulation is a trade, not a gain.** It fixes two questions and breaks two,
@@ -131,6 +134,17 @@ exchange, where stripping the question words loses what made them findable.
 Routing recovers both, because both are scholarly and `google_scholar` answers
 them.
 
+**Engine parameters buy no recall here, and that is a measured result rather
+than an omission.** `gl`, `hl`, `location`, `geo` and `as_ylo` were added to the
+planner because sending none of them was a correctness bug — a question about
+interest in electric vehicles *in India* was being answered with worldwide data.
+They change what the evidence *is*. On this question set they do not change
+whether the answer is *found*, so the whole gap between a single search and a
+plan is routing.
+
+That arm exists because it was not safe to assume so. Until it was measured, the
+gap contained both mechanisms and this file credited all of it to routing.
+
 ### Is the routing doing the work?
 
 The obvious objection is that any second engine would do. That deserves a
@@ -141,6 +155,7 @@ engine for every question, at the same plan size as the routed configuration.
 |---|---|---|---|
 | naive — verbatim question | 28/30 | 93% | 1.0 |
 | keyword — reformulated, one engine | 28/30 | 93% | 1.0 |
+| parameterised — reformulated, with parameters | 28/30 | 93% | 1.0 |
 | routed to one engine, **no web search** | 28/30 | 93% | 1.0 |
 | web + a fixed second engine (news) | 28/30 | 93% | 2.0 |
 | web + a fixed second engine (shopping) | 28/30 | 93% | 2.0 |

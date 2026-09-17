@@ -768,6 +768,92 @@ def _feedback_text(item: Evidence) -> str:
     return ""  # pragma: no cover - Evidence is a closed union
 
 
+def parameterised_naive_run(
+    client: SerpApiClient,
+    question: str,
+    *,
+    results: int = DEFAULT_RESULTS_PER_SEARCH,
+) -> PlanResult:
+    """One web search, reformulated, and given the engine parameters too.
+
+    This arm exists to separate two mechanisms that were being credited to one.
+    The keyword baseline receives only a query and a page size, while a plan also
+    receives gl, hl, location, geo and as_ylo -- so the gap between them contained
+    both routing and parameters, and the README was attributing all of it to
+    routing.
+
+    With this in between, each gap isolates one mechanism: verbatim to keyword is
+    reformulation, keyword to this is parameters, and this to a full plan is
+    routing.
+
+    Still a single google search. The only thing added over the keyword baseline
+    is knowing which parameters the engine understands.
+    """
+    started = time.perf_counter()
+    governor = BudgetGovernor(limit=1)
+    monitor = SaturationMonitor()
+
+    variants = reformulate(question, engine="google", limit=1)
+    query = variants[0].query if variants else question.strip()
+    params = build_params(
+        "google",
+        query,
+        locale=detect_locale(question),
+        results=results,
+        recent=wants_recent(question),
+        current_year=datetime.now(UTC).year,
+    )
+
+    step = PlanStep(
+        engine="google",
+        query=query,
+        strategy="keyword+parameters",
+        cost=1,
+        round_number=1,
+        rationale="baseline: one web search, reformulated, with engine parameters",
+        params=params,
+    )
+
+    evidence: list[Evidence] = []
+    error: str | None = None
+    charged = 0
+    from_cache = False
+
+    try:
+        with governor.reserve(engine="google") as claim:
+            response = client.search("google", **params)
+            if response.from_cache:
+                claim.release()
+            charged = response.searches_charged
+            from_cache = response.from_cache
+            evidence = normalise("google", response.raw, query=query)[:results]
+    except FrugalError as exc:
+        error = f"{type(exc).__name__}: {exc}"
+
+    observation = monitor.observe(evidence)
+
+    return PlanResult(
+        question=question,
+        evidence=evidence,
+        steps=[
+            ExecutedStep(
+                step=step,
+                evidence_count=len(evidence),
+                charged=charged,
+                from_cache=from_cache,
+                elapsed_ms=(time.perf_counter() - started) * 1000,
+                error=error,
+            )
+        ],
+        observations=[observation],
+        budget=governor.report(),
+        saturation=monitor.report(),
+        stopped_because="baseline: a single parameterised search",
+        elapsed_ms=(time.perf_counter() - started) * 1000,
+        ceiling=1,
+    )
+
+
 def _dedupe_preserving_order(evidence: list[Evidence]) -> list[Evidence]:
     seen: set[str] = set()
     unique: list[Evidence] = []

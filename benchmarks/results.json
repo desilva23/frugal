@@ -6,7 +6,7 @@
       "category": "scholarly",
       "completeness": 1.0,
       "depth": 3,
-      "elapsed_ms": 0.8,
+      "elapsed_ms": 0.7,
       "engines_used": [
         "google"
       ],
@@ -44,9 +44,30 @@
     {
       "billed_this_run": 0,
       "category": "scholarly",
+      "completeness": 0.5,
+      "depth": null,
+      "elapsed_ms": 0.7,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": false,
+      "missing": [
+        "lewis"
+      ],
+      "question_id": "rag-paper",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "scholarly",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 2.5,
+      "elapsed_ms": 2.3,
       "engines_used": [
         "google_scholar",
         "google"
@@ -104,7 +125,26 @@
       "category": "scholarly",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.2,
+      "elapsed_ms": 0.4,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "transformer-paper",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "scholarly",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1.1,
       "engines_used": [
         "google_scholar",
         "google"
@@ -143,7 +183,7 @@
       "category": "scholarly",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.5,
+      "elapsed_ms": 0.4,
       "engines_used": [
         "google"
       ],
@@ -162,7 +202,26 @@
       "category": "scholarly",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.1,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "llm-hallucination",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "scholarly",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1.0,
       "engines_used": [
         "google_scholar",
         "google"
@@ -219,8 +278,27 @@
       "billed_this_run": 0,
       "category": "patent",
       "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "perovskite-patents",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "patent",
+      "completeness": 1.0,
       "depth": 11,
-      "elapsed_ms": 1.1,
+      "elapsed_ms": 1.4,
       "engines_used": [
         "google_patents",
         "google"
@@ -240,7 +318,7 @@
       "category": "trend",
       "completeness": 1.0,
       "depth": 2,
-      "elapsed_ms": 0.4,
+      "elapsed_ms": 0.5,
       "engines_used": [
         "google"
       ],
@@ -259,7 +337,7 @@
       "category": "trend",
       "completeness": 1.0,
       "depth": 2,
-      "elapsed_ms": 0.5,
+      "elapsed_ms": 0.6,
       "engines_used": [
         "google"
       ],
@@ -278,7 +356,26 @@
       "category": "trend",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.2,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "ev-india-trend",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1.0,
       "engines_used": [
         "google_trends",
         "google"
@@ -298,7 +395,7 @@
       "category": "employment",
       "completeness": 0.5,
       "depth": null,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 0.5,
       "engines_used": [
         "google"
       ],
@@ -338,7 +435,26 @@
       "category": "employment",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.5,
+      "elapsed_ms": 0.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "python-jobs-chennai",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "employment",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1.3,
       "engines_used": [
         "google_jobs",
         "google"
@@ -396,7 +512,26 @@
       "category": "commerce",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 2.2,
+      "elapsed_ms": 0.7,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "earbuds-under-3000",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "commerce",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1.9,
       "engines_used": [
         "google_shopping",
         "google"
@@ -453,6 +588,25 @@
       "billed_this_run": 0,
       "category": "recency",
       "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "railway-electrification",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "recency",
+      "completeness": 1.0,
       "depth": 2,
       "elapsed_ms": 0.9,
       "engines_used": [
@@ -474,6 +628,348 @@
       "category": "local",
       "completeness": 1.0,
       "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "iitm-location",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 7,
+      "found": true,
+      "missing": [],
+      "question_id": "iitm-location",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 7,
+      "found": true,
+      "missing": [],
+      "question_id": "iitm-location",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 7,
+      "found": true,
+      "missing": [],
+      "question_id": "iitm-location",
+      "searches": 1,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "karnataka-capital",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 7,
+      "found": true,
+      "missing": [],
+      "question_id": "karnataka-capital",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 7,
+      "found": true,
+      "missing": [],
+      "question_id": "karnataka-capital",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 7,
+      "found": true,
+      "missing": [],
+      "question_id": "karnataka-capital",
+      "searches": 1,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "photosynthesis",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 3,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 7,
+      "found": true,
+      "missing": [],
+      "question_id": "photosynthesis",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 3,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 7,
+      "found": true,
+      "missing": [],
+      "question_id": "photosynthesis",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 3,
+      "elapsed_ms": 0.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 7,
+      "found": true,
+      "missing": [],
+      "question_id": "photosynthesis",
+      "searches": 1,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "monsoon-kerala",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "monsoon-kerala",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "monsoon-kerala",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "monsoon-kerala",
+      "searches": 1,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "remote-work-trend",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "remote-work-trend",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 1,
       "elapsed_ms": 0.4,
       "engines_used": [
         "google"
@@ -482,257 +978,10 @@
       "evidence_count": 9,
       "found": true,
       "missing": [],
-      "question_id": "iitm-location",
-      "searches": 1,
-      "stopped_because": "baseline: a single search",
-      "strategy": "naive",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "local",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.5,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 7,
-      "found": true,
-      "missing": [],
-      "question_id": "iitm-location",
-      "searches": 1,
-      "stopped_because": "baseline: a single reformulated search",
-      "strategy": "keyword",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "local",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.6,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 7,
-      "found": true,
-      "missing": [],
-      "question_id": "iitm-location",
-      "searches": 1,
-      "stopped_because": "completed the plan",
-      "strategy": "planned",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "simple",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.5,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 8,
-      "found": true,
-      "missing": [],
-      "question_id": "karnataka-capital",
-      "searches": 1,
-      "stopped_because": "baseline: a single search",
-      "strategy": "naive",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "simple",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.5,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 7,
-      "found": true,
-      "missing": [],
-      "question_id": "karnataka-capital",
-      "searches": 1,
-      "stopped_because": "baseline: a single reformulated search",
-      "strategy": "keyword",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "simple",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.8,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 7,
-      "found": true,
-      "missing": [],
-      "question_id": "karnataka-capital",
-      "searches": 1,
-      "stopped_because": "completed the plan",
-      "strategy": "planned",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "simple",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.5,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 8,
-      "found": true,
-      "missing": [],
-      "question_id": "photosynthesis",
-      "searches": 1,
-      "stopped_because": "baseline: a single search",
-      "strategy": "naive",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "simple",
-      "completeness": 1.0,
-      "depth": 3,
-      "elapsed_ms": 0.5,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 7,
-      "found": true,
-      "missing": [],
-      "question_id": "photosynthesis",
-      "searches": 1,
-      "stopped_because": "baseline: a single reformulated search",
-      "strategy": "keyword",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "simple",
-      "completeness": 1.0,
-      "depth": 3,
-      "elapsed_ms": 0.6,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 7,
-      "found": true,
-      "missing": [],
-      "question_id": "photosynthesis",
-      "searches": 1,
-      "stopped_because": "completed the plan",
-      "strategy": "planned",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "simple",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.5,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 9,
-      "found": true,
-      "missing": [],
-      "question_id": "monsoon-kerala",
-      "searches": 1,
-      "stopped_because": "baseline: a single search",
-      "strategy": "naive",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "simple",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.5,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 8,
-      "found": true,
-      "missing": [],
-      "question_id": "monsoon-kerala",
-      "searches": 1,
-      "stopped_because": "baseline: a single reformulated search",
-      "strategy": "keyword",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "simple",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.7,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 8,
-      "found": true,
-      "missing": [],
-      "question_id": "monsoon-kerala",
-      "searches": 1,
-      "stopped_because": "completed the plan",
-      "strategy": "planned",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "trend",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.5,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 8,
-      "found": true,
-      "missing": [],
       "question_id": "remote-work-trend",
       "searches": 1,
-      "stopped_because": "baseline: a single search",
-      "strategy": "naive",
-      "structured": false
-    },
-    {
-      "billed_this_run": 0,
-      "category": "trend",
-      "completeness": 1.0,
-      "depth": 1,
-      "elapsed_ms": 0.6,
-      "engines_used": [
-        "google"
-      ],
-      "errors": [],
-      "evidence_count": 9,
-      "found": true,
-      "missing": [],
-      "question_id": "remote-work-trend",
-      "searches": 1,
-      "stopped_because": "baseline: a single reformulated search",
-      "strategy": "keyword",
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
       "structured": false
     },
     {
@@ -760,7 +1009,7 @@
       "category": "trend",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.5,
+      "elapsed_ms": 0.4,
       "engines_used": [
         "google"
       ],
@@ -798,7 +1047,26 @@
       "category": "trend",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.9,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "ai-interest-india",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.8,
       "engines_used": [
         "google_trends",
         "google"
@@ -856,7 +1124,26 @@
       "category": "trend",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "upi-payments-trend",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1.0,
       "engines_used": [
         "google_trends",
         "google"
@@ -914,7 +1201,26 @@
       "category": "employment",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.4,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "data-scientist-bengaluru",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "employment",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1.2,
       "engines_used": [
         "google_jobs",
         "google"
@@ -972,7 +1278,26 @@
       "category": "employment",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.7,
+      "elapsed_ms": 0.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "remote-python-roles",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "employment",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1.5,
       "engines_used": [
         "google_jobs",
         "google"
@@ -1029,8 +1354,27 @@
       "billed_this_run": 0,
       "category": "commerce",
       "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 0.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "laptop-under-50000",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "commerce",
+      "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 2.0,
+      "elapsed_ms": 1.8,
       "engines_used": [
         "google_shopping",
         "google"
@@ -1091,7 +1435,26 @@
       "category": "local",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.7,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "hospitals-coimbatore",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
       "engines_used": [
         "google"
       ],
@@ -1110,7 +1473,7 @@
       "category": "local",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 0.5,
       "engines_used": [
         "google"
       ],
@@ -1148,6 +1511,25 @@
       "category": "local",
       "completeness": 1.0,
       "depth": 1,
+      "elapsed_ms": 0.4,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 10,
+      "found": true,
+      "missing": [],
+      "question_id": "iisc-location",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
       "elapsed_ms": 0.7,
       "engines_used": [
         "google"
@@ -1167,7 +1549,7 @@
       "category": "scholarly",
       "completeness": 1.0,
       "depth": 6,
-      "elapsed_ms": 0.5,
+      "elapsed_ms": 0.4,
       "engines_used": [
         "google"
       ],
@@ -1200,6 +1582,27 @@
       "searches": 1,
       "stopped_because": "baseline: a single reformulated search",
       "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "scholarly",
+      "completeness": 0.5,
+      "depth": null,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": false,
+      "missing": [
+        "jinek | doudna | charpentier"
+      ],
+      "question_id": "crispr-paper",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
       "structured": false
     },
     {
@@ -1265,6 +1668,25 @@
       "category": "scholarly",
       "completeness": 1.0,
       "depth": 1,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "alphafold-paper",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "scholarly",
+      "completeness": 1.0,
+      "depth": 1,
       "elapsed_ms": 0.9,
       "engines_used": [
         "google_scholar",
@@ -1316,6 +1738,25 @@
       "searches": 1,
       "stopped_because": "baseline: a single reformulated search",
       "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "patent",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "lithium-iron-phosphate-patents",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
       "structured": false
     },
     {
@@ -1381,7 +1822,26 @@
       "category": "recency",
       "completeness": 1.0,
       "depth": 2,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "isro-latest-mission",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "recency",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 0.7,
       "engines_used": [
         "google_news",
         "google"
@@ -1440,8 +1900,27 @@
       "billed_this_run": 0,
       "category": "recency",
       "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "semiconductor-india-news",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "recency",
+      "completeness": 1.0,
       "depth": 2,
-      "elapsed_ms": 1.1,
+      "elapsed_ms": 0.9,
       "engines_used": [
         "google_news",
         "google"
@@ -1499,6 +1978,25 @@
       "category": "simple",
       "completeness": 1.0,
       "depth": 2,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "water-boiling-point",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 2,
       "elapsed_ms": 0.6,
       "engines_used": [
         "google"
@@ -1549,6 +2047,25 @@
       "searches": 1,
       "stopped_because": "baseline: a single reformulated search",
       "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "tallest-mountain",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
       "structured": false
     },
     {
@@ -1613,7 +2130,26 @@
       "category": "simple",
       "completeness": 1.0,
       "depth": 2,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "python-gil",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 0.5,
       "engines_used": [
         "google"
       ],
@@ -1670,7 +2206,26 @@
       "category": "simple",
       "completeness": 1.0,
       "depth": 4,
-      "elapsed_ms": 0.6,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "dna-structure",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 4,
+      "elapsed_ms": 0.5,
       "engines_used": [
         "google"
       ],
@@ -1727,7 +2282,26 @@
       "category": "simple",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.5,
+      "elapsed_ms": 0.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "periodic-table",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "simple",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 0.6,
       "engines_used": [
         "google"
       ],
@@ -1764,6 +2338,16 @@
       "searches": 30,
       "searches_per_question": 1.0,
       "strategy": "naive"
+    },
+    "parameterised": {
+      "answered": 28,
+      "answers_per_search": 0.9333,
+      "median_depth": 1.0,
+      "questions": 30,
+      "recall": 0.9333,
+      "searches": 30,
+      "searches_per_question": 1.0,
+      "strategy": "parameterised"
     },
     "planned": {
       "answered": 30,
