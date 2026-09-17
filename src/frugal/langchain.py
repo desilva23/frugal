@@ -26,16 +26,28 @@ from __future__ import annotations
 from collections.abc import Sequence
 from typing import Any
 
-from frugal.cache import CacheMode, ResponseCache
-from frugal.client import SerpApiClient
+from frugal._integration import (
+    MAX_BUDGET,
+    PLAN_DESCRIPTION,
+    SEARCH_DESCRIPTION,
+    cost_metadata,
+    page_content,
+    preview_text,
+    provenance_metadata,
+    render_for_agent,
+    run_plan,
+)
 from frugal.errors import FrugalError
-from frugal.planner import DEFAULT_BUDGET, Planner, PlanResult
-from frugal.schema import Document as FrugalDocument
-from frugal.schema import Evidence, Series
+from frugal.planner import DEFAULT_BUDGET, PlanResult
 
-#: Ceiling on one call, whatever the caller asks for. An agent in a loop is the
-#: usual way a search bill becomes a surprise.
-MAX_BUDGET = 25
+__all__ = [
+    "MAX_BUDGET",
+    "build_retriever",
+    "frugal_plan_tool",
+    "frugal_search_tool",
+    "frugal_tools",
+    "to_documents",
+]
 
 
 def _require_langchain() -> Any:
@@ -52,38 +64,6 @@ def _require_langchain() -> Any:
     return documents, retrievers, tools
 
 
-def _page_content(item: Evidence) -> str:
-    """What a chain will read.
-
-    A series is rendered as its summary rather than its raw points: the
-    direction and magnitude are what answer a question, and fifty timestamped
-    numbers would crowd the context window without adding to it.
-    """
-    if isinstance(item, Series):
-        return item.summarise()
-    assert isinstance(item, FrugalDocument)
-    return "\n".join(part for part in (item.title, item.snippet) if part)
-
-
-def _metadata(item: Evidence) -> dict[str, Any]:
-    """Provenance, so a chain can cite the search rather than assert the claim."""
-    common: dict[str, Any] = {
-        "engine": item.provenance.engine,
-        "query": item.provenance.query,
-        "rank": item.provenance.position,
-        "retrieved_at": item.provenance.retrieved_at.isoformat(),
-    }
-    if isinstance(item, Series):
-        return {**common, "kind": "series", "name": item.name, "change": item.trend()}
-    return {
-        **common,
-        "kind": "document",
-        "title": item.title,
-        "source": item.url,
-        "publisher": item.source,
-    }
-
-
 def to_documents(result: PlanResult) -> list[Any]:
     """Convert a plan's evidence into LangChain documents.
 
@@ -94,15 +74,10 @@ def to_documents(result: PlanResult) -> list[Any]:
     documents, _, _ = _require_langchain()
     converted: list[Any] = []
     for index, item in enumerate(result.evidence):
-        metadata = _metadata(item)
+        metadata = provenance_metadata(item)
         if index == 0:
-            metadata["plan_cost"] = {
-                "searches_billed": result.searches_charged,
-                "served_from_cache": result.cache_hits,
-                "steps_planned": result.ceiling,
-                "stopped_because": result.stopped_because,
-            }
-        converted.append(documents.Document(page_content=_page_content(item), metadata=metadata))
+            metadata["plan_cost"] = cost_metadata(result)
+        converted.append(documents.Document(page_content=page_content(item), metadata=metadata))
     return converted
 
 
@@ -118,8 +93,6 @@ def build_retriever(
     to query and stops when the evidence stops improving.
     """
     _, retrievers, _ = _require_langchain()
-    budget = max(1, min(budget, MAX_BUDGET))
-    mode = CacheMode.REPLAY if replay else CacheMode.AUTO
 
     class FrugalRetriever(retrievers.BaseRetriever):  # type: ignore[misc, name-defined]
         """Retrieves by planning search across SerpApi's engines."""
@@ -129,62 +102,11 @@ def build_retriever(
         ) -> list[Any]:
             if not query.strip():
                 return []
-            with SerpApiClient(cache=ResponseCache(cache_dir, mode=mode)) as client:
-                return to_documents(Planner(client).run(query, budget=budget))
+            return to_documents(
+                run_plan(query, budget=budget, cache_dir=cache_dir, replay=replay)
+            )
 
     return FrugalRetriever()
-
-
-def _search(
-    question: str,
-    budget: int = DEFAULT_BUDGET,
-    *,
-    cache_dir: str = ".frugal-cache",
-    replay: bool = False,
-) -> str:
-    """Run a plan and render it for an agent to read."""
-    if not question.strip():
-        return "No question was given."
-
-    budget = max(1, min(budget, MAX_BUDGET))
-    mode = CacheMode.REPLAY if replay else CacheMode.AUTO
-    try:
-        with SerpApiClient(cache=ResponseCache(cache_dir, mode=mode)) as client:
-            result = Planner(client).run(question, budget=budget)
-    except FrugalError as exc:
-        # Returned rather than raised: an agent should be told what went wrong in
-        # a form it can read and act on.
-        return f"Search failed: {type(exc).__name__}: {exc}"
-
-    if not result.evidence:
-        return "No evidence was retrieved."
-
-    lines = [
-        f"Searched {', '.join(sorted({s.step.engine for s in result.steps}))}; "
-        f"{result.searches_charged} searches billed, {result.cache_hits} from cache.",
-        "",
-    ]
-    for index, item in enumerate(result.evidence, start=1):
-        lines.append(f"[{index}] ({item.provenance.engine}) {_page_content(item)}")
-        if isinstance(item, FrugalDocument) and item.url:
-            lines.append(f"    {item.url}")
-    return "\n".join(lines)
-
-
-def _preview(question: str, budget: int = DEFAULT_BUDGET) -> str:
-    """Report a plan's cost without issuing anything."""
-    if not question.strip():
-        return "No question was given."
-
-    budget = max(1, min(budget, MAX_BUDGET))
-    client = SerpApiClient(cache=ResponseCache(".frugal-cache", mode=CacheMode.REPLAY))
-    dry = Planner(client).dry_run(question, budget=budget)
-    engines = ", ".join(sorted({step.engine for step in dry.steps}))
-    return (
-        f"Would search {engines}, costing at most {dry.ceiling} searches "
-        f"(budget {budget}). No search was issued. A real run usually costs less: "
-        f"it stops early when the evidence stops improving."
-    )
 
 
 def frugal_search_tool(*, cache_dir: str = ".frugal-cache", replay: bool = False) -> Any:
@@ -196,17 +118,20 @@ def frugal_search_tool(*, cache_dir: str = ".frugal-cache", replay: bool = False
     _, _, tools = _require_langchain()
 
     def search(question: str, budget: int = DEFAULT_BUDGET) -> str:
-        return _search(question, budget, cache_dir=cache_dir, replay=replay)
+        if not question.strip():
+            return "No question was given."
+        try:
+            result = run_plan(question, budget=budget, cache_dir=cache_dir, replay=replay)
+        except FrugalError as exc:
+            # Returned rather than raised: an agent cannot act on an exception
+            # it never sees.
+            return f"Search failed: {type(exc).__name__}: {exc}"
+        return render_for_agent(result)
 
     return tools.StructuredTool.from_function(
         func=search,
         name="frugal_search",
-        description=(
-            "Search across SerpApi's engines under a budget, routing the question "
-            "to the engines that can answer it. Set budget to the most searches "
-            "you are willing to spend. Returns evidence with the engine that "
-            "produced each item, and what the call cost."
-        ),
+        description=SEARCH_DESCRIPTION,
     )
 
 
@@ -214,13 +139,9 @@ def frugal_plan_tool() -> Any:
     """A tool an agent can call to price a question before searching."""
     _, _, tools = _require_langchain()
     return tools.StructuredTool.from_function(
-        func=_preview,
+        func=preview_text,
         name="frugal_plan",
-        description=(
-            "Report which engines a question would reach and the most it could "
-            "cost, without issuing any search. Call this before frugal_search "
-            "when the budget matters."
-        ),
+        description=PLAN_DESCRIPTION,
     )
 
 

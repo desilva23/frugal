@@ -422,6 +422,33 @@ tell you.
 cost before deciding to spend it. Both tools cap the budget server-side at 25
 searches per call whatever the caller asks for.
 
+### LlamaIndex
+
+```bash
+pip install 'frugal[llamaindex]'
+```
+
+```python
+from frugal.llamaindex import build_retriever, frugal_tools
+
+retriever = build_retriever(budget=6)
+nodes = retriever.retrieve("Which companies are hiring Python developers in Chennai?")
+
+nodes[0].node.metadata["engine"]     # which engine produced this
+nodes[0].node.metadata["plan_cost"]  # what the retrieval spent
+
+agent_tools = frugal_tools()         # frugal_plan and frugal_search
+```
+
+Same two shapes in LlamaIndex's containers, and the same cap — a test asserts
+the three integrations share one budget ceiling, so a caller cannot route around
+it by picking a framework.
+
+One caveat worth stating: LlamaIndex expects a relevance score per node, and a
+planner has no similarity to report — there is no embedding and no distance. The
+score is reciprocal rank, which preserves the order the engines returned and is
+honest about being ordinal. It is not a confidence.
+
 ## Install
 
 Requires Python 3.11 or newer.

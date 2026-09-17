@@ -25,9 +25,13 @@ mcp = [
 langchain = [
     "langchain-core>=1.0",
 ]
+llamaindex = [
+    "llama-index-core>=0.12",
+]
 dev = [
     "mcp>=2.0",
     "langchain-core>=1.0",
+    "llama-index-core>=0.12",
     "pytest>=8.0",
     "pytest-cov>=5.0",
     "ruff>=0.6",
@@ -48,11 +52,23 @@ addopts = "-q"
 [tool.ruff]
 line-length = 100
 src = ["src", "tests"]
+# The real floor. mypy checks against a later grammar for the reason given above,
+# so this is what stops 3.12-only syntax reaching code that must run on 3.11.
+target-version = "py311"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
 
 [tool.mypy]
-python_version = "3.11"
+# Checked against 3.12's grammar, not the 3.11 floor this project supports.
+# llama-index pulls in numpy, whose stubs use 3.12-only syntax, and mypy parses
+# every installed package it can see -- so a 3.11 setting failed the build over a
+# dependency's stub without a line of our code changing. Excluding site-packages
+# instead was worse: it untyped the SDKs we do use.
+#
+# The floor is still enforced. ruff's target-version below is py311, so 3.12-only
+# syntax in our own code is rejected there, and CI runs the suite on 3.11.
+python_version = "3.12"
 strict = true
 files = ["src/frugal"]
+
