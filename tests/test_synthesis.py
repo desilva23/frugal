@@ -290,3 +290,121 @@ def test_an_invalid_citation_in_wide_brackets_is_still_stripped() -> None:
 def test_normalise_brackets_is_idempotent() -> None:
     once = normalise_brackets(f"{CJK_OPEN}1{CJK_CLOSE}")
     assert normalise_brackets(once) == once == "[1]"
+
+
+# --------------------------------------------------------------------------
+# Transient failures
+# --------------------------------------------------------------------------
+#
+# The retrieval is already paid for by the time synthesis runs, so a rate limit
+# that clears in a second should not cost the write-up. Free tiers allow few
+# requests per minute, and a demo asking several questions in a row will meet one.
+
+
+def retrying(*statuses: int, then: str = "answered [1]") -> httpx.MockTransport:
+    """Fail with each status in turn, then succeed."""
+    remaining = list(statuses)
+
+    def handler(_request: httpx.Request) -> httpx.Response:
+        if remaining:
+            return httpx.Response(remaining.pop(0), text="slow down")
+        return httpx.Response(200, json={"choices": [{"message": {"content": then}}]})
+
+    return httpx.MockTransport(handler)
+
+
+def patient(transport: httpx.MockTransport, **kwargs: object) -> Synthesiser:
+    return Synthesiser(
+        api_key="test-key",
+        http=httpx.Client(transport=transport),
+        sleep=lambda _seconds: None,
+        **kwargs,  # type: ignore[arg-type]
+    )
+
+
+def test_a_rate_limit_is_retried_rather_than_abandoned() -> None:
+    result = patient(retrying(429)).answer("q?", [doc("a source")])
+    assert result.grounded
+
+
+@pytest.mark.parametrize("status", [408, 429, 500, 502, 503, 504])
+def test_every_transient_status_is_retried(status: int) -> None:
+    assert patient(retrying(status)).answer("q?", [doc("a")]).text
+
+
+def test_a_persistent_rate_limit_eventually_gives_up() -> None:
+    transport = httpx.MockTransport(lambda _r: httpx.Response(429, text="slow down"))
+    with pytest.raises(TransportError, match="after 3 attempts"):
+        patient(transport).answer("q?", [doc("a")])
+
+
+def test_retries_are_bounded_by_max_attempts() -> None:
+    calls = 0
+
+    def handler(_request: httpx.Request) -> httpx.Response:
+        nonlocal calls
+        calls += 1
+        return httpx.Response(429, text="slow down")
+
+    with pytest.raises(TransportError):
+        patient(httpx.MockTransport(handler), max_attempts=2).answer("q?", [doc("a")])
+    assert calls == 2
+
+
+def test_a_rejected_key_is_not_retried() -> None:
+    """A rejected key stays rejected; retrying only delays a clear message."""
+    calls = 0
+
+    def handler(_request: httpx.Request) -> httpx.Response:
+        nonlocal calls
+        calls += 1
+        return httpx.Response(401, json={"error": "bad key"})
+
+    with pytest.raises(SynthesisUnavailable):
+        patient(httpx.MockTransport(handler)).answer("q?", [doc("a")])
+    assert calls == 1
+
+
+def test_a_retired_model_is_not_retried() -> None:
+    """Counting completions only: a 404 also fetches the model list to report it."""
+    completions = 0
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        nonlocal completions
+        if request.url.path.endswith("/chat/completions"):
+            completions += 1
+        return httpx.Response(404, json={"error": "no model"})
+
+    with pytest.raises(SynthesisUnavailable):
+        patient(httpx.MockTransport(handler)).answer("q?", [doc("a")])
+    assert completions == 1
+
+
+def test_a_client_error_that_is_not_transient_is_not_retried() -> None:
+    calls = 0
+
+    def handler(_request: httpx.Request) -> httpx.Response:
+        nonlocal calls
+        calls += 1
+        return httpx.Response(400, text="malformed")
+
+    with pytest.raises(TransportError):
+        patient(httpx.MockTransport(handler)).answer("q?", [doc("a")])
+    assert calls == 1
+
+
+def test_retry_after_is_honoured() -> None:
+    waits: list[float] = []
+
+    def handler(_request: httpx.Request) -> httpx.Response:
+        if not waits:
+            return httpx.Response(429, text="slow", headers={"retry-after": "2"})
+        return httpx.Response(200, json={"choices": [{"message": {"content": "ok [1]"}}]})
+
+    synth = Synthesiser(
+        api_key="k",
+        http=httpx.Client(transport=httpx.MockTransport(handler)),
+        sleep=waits.append,
+    )
+    synth.answer("q?", [doc("a")])
+    assert waits == [2.0]

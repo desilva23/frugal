@@ -29,6 +29,7 @@ from typing import Any
 
 import httpx
 
+from frugal.client import backoff_seconds, parse_retry_after
 from frugal.config import SYNTHESIS_ENV_VAR, resolve_key
 from frugal.errors import FrugalError, TransportError
 from frugal.schema import Document, Evidence, Series
@@ -44,6 +45,16 @@ DEFAULT_BASE_URL = "https://api.groq.com/openai/v1/chat/completions"
 DEFAULT_MODEL = "openai/gpt-oss-120b"
 
 DEFAULT_TIMEOUT = 60.0
+
+#: Attempts before giving up on a transient failure. Free tiers have low
+#: per-minute limits, and a demo firing several questions in a row will meet one
+#: -- aborting the write-up over a limit that clears in a second would waste the
+#: retrieval that was already paid for.
+DEFAULT_MAX_ATTEMPTS = 3
+
+#: Retried with backoff. Everything else is a request that will fail identically
+#: however many times it is sent.
+_RETRYABLE_STATUS = frozenset({408, 429, 500, 502, 503, 504})
 
 #: Evidence items shown to the model. Beyond this the prompt grows without
 #: improving the answer, and the planner's own depth limit means later items are
@@ -211,10 +222,14 @@ class Synthesiser:
         model: str = DEFAULT_MODEL,
         base_url: str = DEFAULT_BASE_URL,
         timeout: float = DEFAULT_TIMEOUT,
+        max_attempts: int = DEFAULT_MAX_ATTEMPTS,
         http: httpx.Client | None = None,
+        sleep: Any = time.sleep,
     ) -> None:
         self.model = model
         self.base_url = base_url
+        self.max_attempts = max(1, max_attempts)
+        self._sleep = sleep
         self._owns_http = http is None
         self._http = http if http is not None else httpx.Client(timeout=timeout)
 
@@ -262,7 +277,14 @@ class Synthesiser:
         )
 
     def _complete(self, prompt: str) -> str:
-        """One chat completion, with the failure modes named."""
+        """One chat completion, retrying transient failures.
+
+        The retrieval is already paid for by the time this runs, so a rate limit
+        that clears in a second should not cost the write-up. Rate limits are the
+        expected failure here rather than an exotic one: free tiers allow few
+        requests per minute, and a demo asking several questions in a row will
+        meet one.
+        """
         payload: dict[str, Any] = {
             "model": self.model,
             "messages": [
@@ -274,34 +296,61 @@ class Synthesiser:
             "temperature": 0.1,
         }
 
-        try:
-            response = self._http.post(
-                self.base_url,
-                json=payload,
-                headers={"Authorization": f"Bearer {self._api_key}"},
-            )
-        except httpx.HTTPError as exc:
-            raise TransportError(f"could not reach the synthesis endpoint: {exc}") from exc
+        last_status: int | None = None
+        last_body = ""
 
-        if response.status_code == 401:
-            raise SynthesisUnavailable(
-                f"the synthesis endpoint rejected the key. Check {SYNTHESIS_ENV_VAR} in your .env."
-            )
-        if response.status_code == 404:
-            available = self._available_models()
-            listing = ""
-            if available:
-                names = "\n".join(f"  {name}" for name in available)
-                listing = f"\n\nAvailable on this account:\n{names}"
-            raise SynthesisUnavailable(
-                f"the model {self.model!r} was not found. Hosted model names change "
-                f"often; pass --model with a current one.{listing}"
-            )
-        if response.is_error:
-            raise TransportError(
-                f"synthesis failed with HTTP {response.status_code}: {response.text[:200]}"
-            )
+        for attempt in range(1, self.max_attempts + 1):
+            try:
+                response = self._http.post(
+                    self.base_url,
+                    json=payload,
+                    headers={"Authorization": f"Bearer {self._api_key}"},
+                )
+            except httpx.HTTPError as exc:
+                raise TransportError(f"could not reach the synthesis endpoint: {exc}") from exc
 
+            # Neither is transient: a rejected key stays rejected and a retired
+            # model stays retired, so retrying only delays a clear message.
+            if response.status_code == 401:
+                raise SynthesisUnavailable(
+                    f"the synthesis endpoint rejected the key. "
+                    f"Check {SYNTHESIS_ENV_VAR} in your .env."
+                )
+            if response.status_code == 404:
+                available = self._available_models()
+                listing = ""
+                if available:
+                    names = "\n".join(f"  {name}" for name in available)
+                    listing = f"\n\nAvailable on this account:\n{names}"
+                raise SynthesisUnavailable(
+                    f"the model {self.model!r} was not found. Hosted model names change "
+                    f"often; pass --model with a current one.{listing}"
+                )
+
+            if response.status_code in _RETRYABLE_STATUS:
+                last_status, last_body = response.status_code, response.text[:200]
+                if attempt < self.max_attempts:
+                    retry_after = parse_retry_after(response.headers.get("retry-after"))
+                    self._sleep(backoff_seconds(attempt, retry_after))
+                    continue
+                raise TransportError(
+                    f"synthesis failed with HTTP {last_status} after "
+                    f"{self.max_attempts} attempts: {last_body}"
+                )
+
+            if response.is_error:
+                raise TransportError(
+                    f"synthesis failed with HTTP {response.status_code}: {response.text[:200]}"
+                )
+
+            return self._decode(response)
+
+        raise TransportError(  # pragma: no cover - the loop always returns or raises
+            f"synthesis failed with HTTP {last_status}: {last_body}"
+        )
+
+    def _decode(self, response: httpx.Response) -> str:
+        """Pull the answer out of a successful response."""
         try:
             body = response.json()
             content = body["choices"][0]["message"]["content"]

@@ -43,6 +43,24 @@ from frugal.synthesis import (
 
 DEFAULT_CACHE_DIR = ".frugal-cache"
 
+#: Exit code for a bad invocation, matching argparse's own convention so that a
+#: caller scripting this can tell "you asked wrongly" from "it went wrong".
+USAGE_ERROR = 2
+
+
+def _reject_empty(question: str, console: Console) -> bool:
+    """Report an empty question and return whether to stop.
+
+    The library layers all refuse an empty question by returning an error; the
+    CLI used to let the ValueError escape as a stack trace, which is a poor way
+    to tell someone they pressed return too early.
+    """
+    if question and question.strip():
+        return False
+    console.print("[red]Error:[/red] the question is empty.")
+    console.print('[dim]Try: frugal ask "what is the capital of Karnataka?"[/dim]')
+    return True
+
 #: Unicode blocks for inline sparklines. A series is the one kind of evidence a
 #: web search cannot return, so it is worth showing as a shape rather than a
 #: sentence.
@@ -182,6 +200,9 @@ def ask(
     model: str = DEFAULT_MODEL,
 ) -> int:
     """Run a question and show the plan, the spend and the evidence."""
+    if _reject_empty(question, console):
+        return USAGE_ERROR
+
     mode = CacheMode.REPLAY if replay else CacheMode.AUTO
     cache = ResponseCache(cache_dir, mode=mode)
 
@@ -269,6 +290,9 @@ def plan_only(
     question: str, *, budget: int, cache_dir: str, engines: int | None, console: Console
 ) -> int:
     """Show what a question would cost, without issuing anything."""
+    if _reject_empty(question, console):
+        return USAGE_ERROR
+
     client = SerpApiClient(cache=ResponseCache(cache_dir, mode=CacheMode.REPLAY))
     planner = Planner(client, max_engines=engines or DEFAULT_MAX_ENGINES)
     dry = planner.dry_run(question, budget=budget)
@@ -348,10 +372,29 @@ def _build_parser() -> argparse.ArgumentParser:
 
 
 def main(argv: Sequence[str] | None = None) -> int:
-    """Dispatch a command. Returns a process exit code."""
+    """Dispatch a command. Returns a process exit code.
+
+    Everything is funnelled through one handler so that no failure reaches a
+    user as a stack trace. A traceback tells someone running a command line tool
+    nothing they can act on, and tells someone watching a demo rather more than
+    one would like.
+    """
     args = _build_parser().parse_args(argv)
     console = Console()
+    try:
+        return _dispatch(args, console)
+    except ValueError as exc:
+        console.print(f"[red]Error:[/red] {exc}")
+        return USAGE_ERROR
+    except FrugalError as exc:
+        console.print(f"[red]{type(exc).__name__}:[/red] {exc}")
+        return 1
+    except KeyboardInterrupt:
+        console.print("\n[dim]interrupted[/dim]")
+        return 130
 
+
+def _dispatch(args: argparse.Namespace, console: Console) -> int:
     if args.command == "doctor":
         return doctor(console)
     if args.command == "plan":

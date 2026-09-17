@@ -250,7 +250,7 @@ class SerpApiClient:
                     )
 
                 if response.status_code in _RETRYABLE_STATUS:
-                    retry_after = _parse_retry_after(response.headers.get("retry-after"))
+                    retry_after = parse_retry_after(response.headers.get("retry-after"))
                     last_error = TransportError(f"HTTP {response.status_code}")
                 elif response.is_error:
                     # A 4xx that is not 401 or 408/429 will fail identically on
@@ -264,7 +264,7 @@ class SerpApiClient:
 
             if attempt < self.max_attempts:
                 self.log.retries += 1
-                self._sleep(_backoff_seconds(attempt, retry_after))
+                self._sleep(backoff_seconds(attempt, retry_after))
 
         if isinstance(last_error, TransportError) and "429" in str(last_error):
             raise RateLimited(self.max_attempts, retry_after)
@@ -307,7 +307,7 @@ class SerpApiClient:
         )
 
 
-def _parse_retry_after(value: str | None) -> float | None:
+def parse_retry_after(value: str | None) -> float | None:
     """Parse a Retry-After header expressed in seconds.
 
     The HTTP-date form is ignored deliberately: it is rare from this API, and a
@@ -322,7 +322,7 @@ def _parse_retry_after(value: str | None) -> float | None:
     return seconds if seconds >= 0 else None
 
 
-def _backoff_seconds(attempt: int, retry_after: float | None = None) -> float:
+def backoff_seconds(attempt: int, retry_after: float | None = None) -> float:
     """Exponential backoff with jitter, honouring Retry-After when it is shorter.
 
     Jitter matters when a plan fans out across engines concurrently: without it,

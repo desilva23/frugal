@@ -185,3 +185,61 @@ def test_fixtures_carry_no_credentials() -> None:
         record = json.loads(path.read_text(encoding="utf-8"))
         for value in record.get("params", {}).values():
             assert value == "<redacted>" or "api_key" not in str(value).lower()
+
+
+# --------------------------------------------------------------------------
+# No failure reaches a user as a stack trace
+# --------------------------------------------------------------------------
+#
+# A traceback tells someone running a command line tool nothing they can act on,
+# and tells someone watching a demo rather more than one would like.
+
+
+@pytest.mark.parametrize("command", ["plan", "ask"])
+@pytest.mark.parametrize("question", ["", "   ", "\t\n"])
+def test_an_empty_question_is_refused_cleanly(
+    command: str, question: str, capsys: pytest.CaptureFixture[str]
+) -> None:
+    assert main([command, question, "--cache", str(FIXTURES)]) == 2
+    out = capsys.readouterr().out
+    assert "empty" in out
+    assert "Traceback" not in out
+
+
+@pytest.mark.parametrize("command", ["plan", "ask"])
+def test_an_empty_question_suggests_what_to_type(
+    command: str, capsys: pytest.CaptureFixture[str]
+) -> None:
+    main([command, "", "--cache", str(FIXTURES)])
+    assert "Try:" in capsys.readouterr().out
+
+
+def test_a_usage_error_is_distinguishable_from_a_failure(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    """2 means "you asked wrongly"; 1 means "it went wrong"."""
+    assert main(["ask", "", "--cache", str(FIXTURES)]) == 2
+    assert main(["ask", QUESTION, "--replay", "--cache", str(tmp_path / "empty")]) == 1
+
+
+def test_an_unexpected_error_is_reported_without_a_traceback(
+    monkeypatch: pytest.MonkeyPatch, capsys: pytest.CaptureFixture[str]
+) -> None:
+    """The catch-all, tested through a failure the guards do not cover."""
+
+    def explode(*args: object, **kwargs: object) -> None:
+        raise ValueError("something unforeseen")
+
+    monkeypatch.setattr("frugal.cli.plan_only", explode)
+    assert main(["plan", QUESTION, "--cache", str(FIXTURES)]) == 2
+    out = capsys.readouterr().out
+    assert "something unforeseen" in out
+    assert "Traceback" not in out
+
+
+def test_an_interrupt_exits_conventionally(monkeypatch: pytest.MonkeyPatch) -> None:
+    def interrupt(*args: object, **kwargs: object) -> None:
+        raise KeyboardInterrupt
+
+    monkeypatch.setattr("frugal.cli.plan_only", interrupt)
+    assert main(["plan", QUESTION, "--cache", str(FIXTURES)]) == 130

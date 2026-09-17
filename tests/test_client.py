@@ -18,7 +18,7 @@ import httpx
 import pytest
 
 from frugal.cache import CacheMode, ResponseCache
-from frugal.client import SerpApiClient, _backoff_seconds, _parse_retry_after
+from frugal.client import SerpApiClient, backoff_seconds, parse_retry_after
 from frugal.errors import (
     AuthenticationError,
     RateLimited,
@@ -292,28 +292,28 @@ def test_response_without_metadata_reports_no_status(tmp_path: Path) -> None:
 
 def test_backoff_grows_and_stays_jittered() -> None:
     """Jitter stops concurrent workers throttled together from retrying together."""
-    samples = [_backoff_seconds(3) for _ in range(40)]
+    samples = [backoff_seconds(3) for _ in range(40)]
     assert len(set(samples)) > 1
     assert all(2.0 <= s <= 4.0 for s in samples)
 
 
 def test_backoff_is_capped() -> None:
-    assert _backoff_seconds(40) <= 30.0
+    assert backoff_seconds(40) <= 30.0
 
 
 def test_retry_after_is_honoured_when_shorter() -> None:
-    assert _backoff_seconds(8, retry_after=1.5) == 1.5
+    assert backoff_seconds(8, retry_after=1.5) == 1.5
 
 
 def test_retry_after_is_capped_too() -> None:
-    assert _backoff_seconds(1, retry_after=9999.0) == 30.0
+    assert backoff_seconds(1, retry_after=9999.0) == 30.0
 
 
 def test_unparseable_retry_after_is_ignored() -> None:
-    assert _parse_retry_after("Wed, 21 Oct 2026 07:28:00 GMT") is None
-    assert _parse_retry_after(None) is None
-    assert _parse_retry_after("-5") is None
-    assert _parse_retry_after("12") == 12.0
+    assert parse_retry_after("Wed, 21 Oct 2026 07:28:00 GMT") is None
+    assert parse_retry_after(None) is None
+    assert parse_retry_after("-5") is None
+    assert parse_retry_after("12") == 12.0
 
 
 # --------------------------------------------------------------------------
