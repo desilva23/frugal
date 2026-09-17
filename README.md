@@ -265,6 +265,16 @@ Worth reading before drawing conclusions from the tables above.
 - **Scoring is lexical.** Markers match on word boundaries, which fixed the worst
   of it, but a correct answer phrased without any listed marker still scores as a
   miss, and a page mentioning a marker incidentally still scores as a hit.
+- **Two of the four mechanisms never fire on this benchmark.** Routing and
+  reformulation are exercised on every question. The budget is not: the most any
+  question spends is 2 searches against a limit of 12, so it is never binding.
+  Nor is the stopping rule: the measured default is a single round, and
+  saturation needs two batches before it may stop, so all thirty runs report
+  "completed the plan" rather than stopping early. Both are implemented, tested,
+  and governed by the same defaults the ablation chose — and both are for
+  questions harder than these, where a plan runs long enough to need them. On
+  this set they are unexercised, which is worth knowing before reading the
+  architecture as though all four were load-bearing.
 - **The set has saturated on recall.** Twenty-eight of thirty fall to a single
   web search, and every two-engine configuration reaches 100%, so the benchmark
   can no longer distinguish routing from any-second-engine on quality. Only the
