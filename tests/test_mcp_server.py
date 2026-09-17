@@ -124,6 +124,10 @@ def test_search_returns_evidence_with_its_cost() -> None:
         "served_from_cache",
         "steps_planned",
         "steps_skipped_by_early_stop",
+        "session_searches_billed",
+        "session_limit",
+        "session_remaining",
+        "session_calls",
     }
 
 

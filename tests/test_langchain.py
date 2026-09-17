@@ -60,6 +60,12 @@ def test_the_cost_of_the_retrieval_is_reported(retriever: object) -> None:
         "served_from_cache",
         "steps_planned",
         "stopped_because",
+        # The session totals: a caller seeing only one call's cost cannot
+        # manage a budget across many.
+        "session_searches_billed",
+        "session_limit",
+        "session_remaining",
+        "session_calls",
     }
 
 

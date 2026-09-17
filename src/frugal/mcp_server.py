@@ -24,7 +24,7 @@ from __future__ import annotations
 import os
 from typing import Any
 
-from frugal import __version__
+from frugal import __version__, _integration
 from frugal.cache import CacheMode, ResponseCache
 from frugal.client import SerpApiClient
 from frugal.errors import FrugalError
@@ -40,11 +40,10 @@ DEFAULT_CACHE_DIR = ".frugal-cache"
 #: demonstrating the server without a key.
 REPLAY_ENV_VAR = "FRUGAL_REPLAY"
 
-#: Ceiling on what one tool call may spend, whatever the caller asks for. An
-#: agent looping on a tool is the usual way a search bill becomes a surprise,
-#: and a server that honours an arbitrarily large budget is trusting a program
-#: not to have a bug in it.
-MAX_BUDGET = 25
+#: Shared with the framework adapters rather than defined again here. Two
+#: definitions kept in step by a test catch a divergence after it happens; one
+#: definition cannot diverge.
+MAX_BUDGET = _integration.MAX_BUDGET
 
 INSTRUCTIONS = """Frugal plans search across SerpApi's engines under a budget.
 
@@ -68,7 +67,8 @@ def _cache(replay: bool | None = None) -> ResponseCache:
 
 
 def _clamp(budget: int) -> int:
-    return max(1, min(budget, MAX_BUDGET))
+    """Bound a call by the per-call ceiling and by what the session has left."""
+    return _integration.clamp(budget)
 
 
 def _render(item: Evidence) -> dict[str, Any]:
@@ -117,6 +117,9 @@ def _result(result: PlanResult) -> dict[str, Any]:
             "served_from_cache": result.cache_hits,
             "steps_planned": result.ceiling,
             "steps_skipped_by_early_stop": result.steps_skipped,
+            # What the whole process has spent. An agent that can only see one
+            # call's cost cannot manage a budget across many.
+            **_integration.ledger().as_dict(),
         },
         "engines_used": sorted({step.step.engine for step in result.steps}),
         "stopped_because": result.stopped_because,
@@ -206,10 +209,16 @@ def build_server() -> Any:
         if not question.strip():
             return {"error": "question is empty"}
 
-        budget = _clamp(budget)
         try:
-            with SerpApiClient(cache=_cache()) as client:
-                return _result(Planner(client).run(question, budget=budget))
+            return _result(
+                _integration.run_plan(
+                    question,
+                    budget=budget,
+                    cache_dir=os.environ.get(CACHE_ENV_VAR, "").strip() or DEFAULT_CACHE_DIR,
+                    replay=os.environ.get(REPLAY_ENV_VAR, "").strip().lower()
+                    in {"1", "true", "yes"},
+                )
+            )
         except FrugalError as exc:
             # Returned rather than raised: a tool call that fails should tell the
             # agent what went wrong in a form it can read and act on.

@@ -61,6 +61,30 @@ _NEGATION_WINDOW = 5
 
 _WORDS = re.compile(r"[A-Za-z][A-Za-z'\-]*")
 
+#: A pattern is a plain word if it is letters and hyphens only. Those get plural
+#: tolerance; multi-word phrases and hand-written regexes are matched verbatim.
+_PLAIN_WORD = re.compile(r"^[A-Za-z][A-Za-z\-]*$")
+
+
+def _pattern_for(word: str) -> str:
+    """Build the regex for one signal pattern, tolerating a plural.
+
+    The signal vocabularies were pluralised by hand and unevenly: 'restaurant'
+    and 'restaurants' were both listed, 'shop' and 'shops' were both listed, and
+    'hospital' and 'clinic' were listed only in the singular. Word-boundary
+    matching therefore failed on "Where are the major hospitals in Coimbatore?",
+    which fired no local signal at all and routed to plain web search. Across the
+    whole benchmark, google_maps was selected zero times.
+
+    Adding the two missing words would have left the next omission to be found in
+    a demo, so the matching tolerates a plural instead and the vocabularies no
+    longer have to. Irregular plurals are still not handled -- 'person' will not
+    match 'people' -- which is a limit of the approach rather than an oversight.
+    """
+    if not _PLAIN_WORD.match(word):
+        return rf"\b{word}\b"
+    return rf"\b{word}(?:e?s)?\b"
+
 
 def _is_negated(question: str, start: int) -> bool:
     """Whether a match at ``start`` sits shortly after a negation."""
@@ -120,7 +144,7 @@ class Signal:
         """
         found: list[str] = []
         for pattern in self.patterns:
-            for match in re.finditer(rf"\b{pattern}\b", question, re.IGNORECASE):
+            for match in re.finditer(_pattern_for(pattern), question, re.IGNORECASE):
                 if _is_negated(question, match.start()):
                     continue
                 if _inside_proper_noun(question, match):

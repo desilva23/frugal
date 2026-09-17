@@ -38,9 +38,16 @@ someone gets the bill.
 | `frugal_search` | runs the plan under a caller-set budget, and reports what it actually spent |
 
 Results come back with provenance attached, so a chain citing its sources can
-name the search that produced a claim rather than asserting it. All three
-integrations share one budget ceiling, so a caller cannot route around the cap by
-picking a framework — there is a test for that.
+name the search that produced a claim rather than asserting it.
+
+**Two ceilings, because one was not enough.** Each call is capped at 25
+searches, and the process as a whole is capped at 200 — configurable with
+`FRUGAL_SESSION_BUDGET`. The per-call cap alone does not stop an agent in a
+loop, which is the case it was written for: a hundred calls at twenty-five
+apiece is two and a half thousand searches. Every response also carries the
+session total, because a caller who can only see one call's cost cannot manage a
+budget across many. Cache hits consume neither ceiling; the allowance bounds
+money, and a cached search cost none.
 
 ## Why this exists
 

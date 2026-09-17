@@ -10,21 +10,115 @@ Private to the package: the frameworks are what callers import.
 
 from __future__ import annotations
 
+import os
+import threading
+from dataclasses import dataclass
 from typing import Any
 
 from frugal.cache import CacheMode, ResponseCache
 from frugal.client import SerpApiClient
+from frugal.errors import FrugalError
 from frugal.planner import DEFAULT_BUDGET, Planner, PlanResult
 from frugal.schema import Document, Evidence, Series
 
-#: Ceiling on one call, whatever the caller asks for. An agent in a loop is the
-#: usual way a search bill becomes a surprise, and an adapter that honours an
-#: arbitrarily large budget is trusting a program not to have a bug in it.
+#: Ceiling on one call, whatever the caller asks for.
 MAX_BUDGET = 25
+
+#: Ceiling on everything an integration spends for as long as the process lives.
+#:
+#: The per-call cap alone did not do the job its own comment claimed. "An agent
+#: looping on a tool is the usual way a search bill becomes a surprise" was the
+#: stated reason for MAX_BUDGET, and a per-call cap is exactly what a loop
+#: defeats: a hundred calls at twenty-five apiece is two and a half thousand
+#: searches, uncapped and unreported, because every call built a fresh governor
+#: and threw away the tally when it returned.
+DEFAULT_SESSION_BUDGET = 200
+SESSION_BUDGET_ENV = "FRUGAL_SESSION_BUDGET"
+
+
+class SessionBudgetExceeded(FrugalError):
+    """The process has spent its whole session allowance."""
+
+    def __init__(self, spent: int, limit: int) -> None:
+        self.spent = spent
+        self.limit = limit
+        super().__init__(
+            f"session search budget exhausted: {spent}/{limit} searches spent by this "
+            f"process. Raise it with {SESSION_BUDGET_ENV}, or start a new process."
+        )
+
+
+@dataclass(slots=True)
+class SpendLedger:
+    """Cumulative spend for one process.
+
+    Per-call accounting tells an agent what a question cost. It does not tell
+    anyone what the session cost, which is the figure whoever pays actually
+    wants, and it cannot stop a loop. This is deliberately process-wide rather
+    than per-client: the point is to bound what a program spends in total, so
+    every integration shares one.
+    """
+
+    limit: int
+    spent: int = 0
+    calls: int = 0
+
+    @property
+    def remaining(self) -> int:
+        return max(0, self.limit - self.spent)
+
+    @property
+    def exhausted(self) -> bool:
+        return self.remaining <= 0
+
+    def as_dict(self) -> dict[str, Any]:
+        return {
+            "session_searches_billed": self.spent,
+            "session_limit": self.limit,
+            "session_remaining": self.remaining,
+            "session_calls": self.calls,
+        }
+
+
+def _session_limit() -> int:
+    raw = os.environ.get(SESSION_BUDGET_ENV, "").strip()
+    if not raw:
+        return DEFAULT_SESSION_BUDGET
+    try:
+        return max(0, int(raw))
+    except ValueError:
+        # A malformed override should not silently uncap spending.
+        return DEFAULT_SESSION_BUDGET
+
+
+_LEDGER = SpendLedger(limit=_session_limit())
+_LEDGER_LOCK = threading.Lock()
+
+
+def ledger() -> SpendLedger:
+    """A snapshot of what this process has spent."""
+    with _LEDGER_LOCK:
+        return SpendLedger(limit=_LEDGER.limit, spent=_LEDGER.spent, calls=_LEDGER.calls)
+
+
+def reset_ledger(limit: int | None = None) -> None:
+    """Start the session accounting again. For tests and long-lived servers."""
+    global _LEDGER
+    with _LEDGER_LOCK:
+        _LEDGER = SpendLedger(limit=_session_limit() if limit is None else limit)
+
+
+def _record(spent: int) -> None:
+    with _LEDGER_LOCK:
+        _LEDGER.spent += spent
+        _LEDGER.calls += 1
 
 
 def clamp(budget: int) -> int:
-    return max(1, min(budget, MAX_BUDGET))
+    """Bound one call by the per-call ceiling and by what the session has left."""
+    with _LEDGER_LOCK:
+        remaining = max(0, _LEDGER.limit - _LEDGER.spent)
+    return max(1, min(budget, MAX_BUDGET, remaining)) if remaining else 0
 
 
 def page_content(item: Evidence) -> str:
@@ -73,16 +167,29 @@ def cost_metadata(result: PlanResult) -> dict[str, Any]:
         "served_from_cache": result.cache_hits,
         "steps_planned": result.ceiling,
         "stopped_because": result.stopped_because,
+        # What the whole process has spent, not just this call. An agent that
+        # can only see one call's cost cannot manage a budget across many.
+        **ledger().as_dict(),
     }
 
 
 def run_plan(
     question: str, *, budget: int, cache_dir: str, replay: bool = False
 ) -> PlanResult:
-    """Execute a plan for an adapter, with the budget clamped."""
+    """Execute a plan for an adapter, bounded per call and per session."""
+    allowance = clamp(budget)
+    if allowance <= 0:
+        snapshot = ledger()
+        raise SessionBudgetExceeded(snapshot.spent, snapshot.limit)
+
     mode = CacheMode.REPLAY if replay else CacheMode.AUTO
     with SerpApiClient(cache=ResponseCache(cache_dir, mode=mode)) as client:
-        return Planner(client).run(question, budget=clamp(budget))
+        result = Planner(client).run(question, budget=allowance)
+
+    # Recorded after the fact so that cache hits, which cost nothing, do not
+    # consume a session allowance that exists to bound money.
+    _record(result.searches_charged)
+    return result
 
 
 def render_for_agent(result: PlanResult) -> str:
@@ -95,9 +202,12 @@ def render_for_agent(result: PlanResult) -> str:
         return "No evidence was retrieved."
 
     engines = ", ".join(sorted({step.step.engine for step in result.steps}))
+    session = ledger()
     lines = [
         f"Searched {engines}; {result.searches_charged} searches billed, "
-        f"{result.cache_hits} from cache.",
+        f"{result.cache_hits} from cache. "
+        f"This session: {session.spent}/{session.limit} searches, "
+        f"{session.remaining} remaining.",
         "",
     ]
     for index, item in enumerate(result.evidence, start=1):

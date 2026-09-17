@@ -319,3 +319,53 @@ def test_routing_stays_deterministic_after_the_context_checks() -> None:
     first = [(d.engine, d.score) for d in route(question)]
     for _ in range(10):
         assert [(d.engine, d.score) for d in route(question)] == first
+
+
+# --------------------------------------------------------------------------
+# Plurals
+# --------------------------------------------------------------------------
+#
+# The vocabularies were pluralised by hand and unevenly, so "hospitals" fired no
+# signal at all while "hospital" did. Across the whole benchmark that left
+# google_maps selected zero times, in a project that advertises routing to it.
+
+
+@pytest.mark.parametrize(
+    ("singular", "plural"),
+    [
+        ("where is the hospital", "where are the hospitals"),
+        ("find a clinic", "find clinics"),
+        ("the nearest store", "the nearest stores"),
+        ("a patent on this", "patents on this"),
+        ("which paper says", "which papers say"),
+    ],
+)
+def test_a_plural_fires_the_same_signal_as_its_singular(singular: str, plural: str) -> None:
+    assert detect_signals(singular).keys() == detect_signals(plural).keys()
+
+
+def test_the_question_that_exposed_this_now_reaches_maps() -> None:
+    assert "google_maps" in engines("Where are the major hospitals in Coimbatore?")
+
+
+def test_every_routable_engine_is_reachable_from_some_question() -> None:
+    """An engine nothing routes to is an advertised capability that never runs.
+
+    test_every_routable_engine_can_be_normalised asserts each engine has an
+    adapter; that passed while google_maps was selected by nothing at all.
+    """
+    from frugal.benchmark import load_questions
+
+    reached = {d.engine for q in load_questions() for d in route(q.question, limit=2)}
+    for profile in PROFILES:
+        assert profile.engine in reached, f"{profile.engine} is routable but unreachable"
+
+
+def test_plural_tolerance_does_not_break_the_name_guard() -> None:
+    """The proper-noun check still has to survive a pluralised pattern."""
+    assert "google_jobs" not in engines("Steve Jobs biography")
+
+
+def test_multi_word_patterns_are_matched_verbatim() -> None:
+    """"near me" must not become "near mes"."""
+    assert "local" in detect_signals("a cafe near me")
