@@ -191,12 +191,16 @@ rounds until this was measured; they are now 2 and 1.
 
 Worth reading before drawing conclusions from the tables above.
 
-- **Twelve questions is too few**, and one question separates the strategies. At
-  this size that is not a result.
-- **The set is too easy and has saturated.** Eleven of twelve fall to a single
+- **The effect is small.** Two questions out of thirty separate the planner from
+  the verbatim baseline, and one separates it from the reformulated one. At this
+  sample size neither gap is statistically meaningful on its own. The modality
+  result is the sturdier one: four out of four, and structural rather than
+  statistical.
+- **The set has saturated on recall.** Twenty-eight of thirty fall to a single
   web search, and every two-engine configuration reaches 100%, so the benchmark
-  can no longer distinguish routing from any-second-engine on quality at all.
-  Only the cost difference is still measurable.
+  can no longer distinguish routing from any-second-engine on quality. Only the
+  cost difference is still measurable, and a harder set would be needed to say
+  more.
 - **Routing is lexical.** Three failure modes of that are handled — a signal
   word inside a name ("Steve Jobs biography"), a signal shortly after a negation
   ("not recent news"), and ambiguous words admitted only in unambiguous phrasings
