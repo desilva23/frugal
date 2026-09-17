@@ -414,12 +414,20 @@ FIXED_PAIRINGS: tuple[tuple[str, tuple[str, ...]], ...] = (
 )
 
 
+#: Plan sizes whose cost grows fastest with the question set: a third engine
+#: and a second round each add a search per question. Measured at twelve
+#: questions, where both bought no recall at all, and skippable at thirty so a
+#: sweep does not cost more than the benchmark it is checking.
+DEEP_ABLATIONS = frozenset({"routed-3x1", "routed-3x2"})
+
+
 def run_ablation(
     client: SerpApiClient,
     questions: Sequence[Question],
     *,
     budget: int,
     verbose: bool = True,
+    skip_deep: bool = False,
 ) -> dict[str, StrategySummary]:
     """Sweep plan size, to show what each additional search buys.
 
@@ -454,6 +462,8 @@ def run_ablation(
             print(f"  {name:<16} {s.answered}/{s.questions} answered, {s.searches} searches")
 
     for name, engines, rounds in ABLATIONS:
+        if skip_deep and name in DEEP_ABLATIONS:
+            continue
         outcomes: list[QuestionOutcome] = []
         planner = Planner(client, max_engines=engines, max_rounds=rounds)
         for question in questions:
@@ -480,7 +490,8 @@ def render_ablation(summaries: dict[str, StrategySummary]) -> str:
         "| answers/search |\n|---|---|---|---|---|---|"
     )
     rows = []
-    for name in ("naive", "keyword", *(f[0] for f in FIXED_PAIRINGS), *(a[0] for a in ABLATIONS)):
+    order = ("naive", "keyword", *(f[0] for f in FIXED_PAIRINGS), *(a[0] for a in ABLATIONS))
+    for name in order:
         summary = summaries.get(name)
         if summary is None:
             continue
@@ -512,6 +523,11 @@ def main(argv: Sequence[str] | None = None) -> int:
         action="store_true",
         help="sweep plan size, to show what each additional search buys",
     )
+    parser.add_argument(
+        "--skip-deep",
+        action="store_true",
+        help="omit the three-engine and two-round sweeps, which cost the most",
+    )
     parser.add_argument("--budget", type=int, default=DEFAULT_BUDGET, help="searches per question")
     parser.add_argument("--limit", type=int, default=None, help="run only the first N questions")
     parser.add_argument("--cache", default=".frugal-cache", help="cache directory")
@@ -532,7 +548,9 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     if args.ablate:
         with SerpApiClient(cache=cache) as client:
-            summaries = run_ablation(client, questions, budget=args.budget)
+            summaries = run_ablation(
+                client, questions, budget=args.budget, skip_deep=args.skip_deep
+            )
             billed = client.log.searches_charged
         print("\n" + render_ablation(summaries))
         print(f"\nsearches billed this run: {billed}")

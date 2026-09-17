@@ -137,57 +137,49 @@ which is where its 1.6 average comes from rather than 2.0.
 
 ### Is the routing doing the work?
 
-The obvious objection is that any second engine would do as well and the routing
-is decoration. That deserves a control rather than an argument, so the benchmark
-runs fixed pairings: web search plus the *same* second engine for every question,
-whatever it is about.
+The obvious objection is that any second engine would do and the routing is
+decoration. That deserves a control rather than an argument, so the benchmark
+runs fixed pairings: web search plus the *same* second engine for every
+question, whatever it is about, at the same plan size as the routed
+configuration.
 
 | configuration | answered | recall | searches/question |
 |---|---|---|---|
-| naive — web search only | 11/12 | 92% | 1.0 |
-| routed to one engine, no web search | 10/12 | 83% | 1.0 |
-| web + a fixed second engine (news) | 12/12 | 100% | 2.0 |
-| web + a fixed second engine (scholar) | 12/12 | 100% | 2.0 |
-| web + a fixed second engine (shopping) | 12/12 | 100% | 2.0 |
-| **web + the routed second engine** | **12/12** | **100%** | **1.7** |
-| routed to 3 engines | 12/12 | 100% | 2.0 |
-| routed to 3 engines, 2 rounds | 12/12 | 100% | 3.9 |
+| naive — verbatim question | 28/30 | 93% | 1.0 |
+| keyword — reformulated, one engine | 29/30 | 97% | 1.0 |
+| routed to one engine, **no web search** | 25/30 | 83% | 1.0 |
+| web + a fixed second engine (news) | 30/30 | 100% | 2.0 |
+| web + a fixed second engine (scholar) | 30/30 | 100% | 2.0 |
+| web + a fixed second engine (shopping) | 29/30 | 97% | 2.0 |
+| **web + the routed second engine** | **30/30** | **100%** | **1.6** |
 
-**The fixed pairings reach 100% too.** Routing buys no additional recall here.
-What it buys is cost: identical answers for 1.7 searches per question against
-2.0, because on the questions where routing detects no signal it issues a single
-search while a fixed pairing always pays for a second engine that had nothing to
-add.
+Three things follow, and only one of them flatters the router.
 
-So the claim this benchmark supports, stated as narrowly as the evidence allows:
+**Routing buys no extra recall over a well-chosen fixed pairing.** News and
+scholar both reach 100%. If the claim were "routing finds answers a fixed
+strategy cannot", this table would refute it.
 
-> Routing achieves the same recall as a fixed multi-engine strategy while
-> issuing about 15% fewer searches, by not adding an engine when the question
-> does not call for one.
+**Routing buys cost.** Same recall as the fixed pairings for 1.6 searches per
+question against 2.0 — a fifth cheaper — because on the 11 questions where it
+detects no signal it issues a single search, while a fixed pairing always pays
+for a second engine that had nothing to add.
 
-An earlier version of this file claimed 83% against 100%, and that number was
-wrong. The trend question required a `Series` object to count as answered, which
-made it arithmetically impossible for a web-search baseline to score on it — web
-search returns documents and never a series. The baseline's results plainly did
-answer the question, carrying headlines such as "Why India is Seeing EV Interest
-Rise". Removing that requirement moved the baseline from 10/12 to 11/12 and
-moved the fixed pairings from 11/12 to 12/12, which is most of what the earlier
-table was reporting.
+**Dropping web search is much worse than adding to it.** Routing to the
+specialised engine *alone* scores 83%, below the naive baseline. The specialised
+index is narrower, not better; the pairing is what works. This is the most
+useful negative result in the benchmark, because it is the configuration an
+enthusiastic reading of the idea would suggest building.
 
-### Modality
+So, stated as narrowly as the evidence allows:
 
-Recall is not the only thing that differs. Asked whether interest is rising,
-the baseline returns prose and the planner returns a 53-point series:
+> Routing reaches the same recall as a fixed multi-engine strategy while issuing
+> about 20% fewer searches, by not adding an engine when the question does not
+> call for one.
 
-| strategy | answered in the right modality | series returned |
-|---|---|---|
-| naive | 11/12 | 0 |
-| planned | 12/12 | 1 |
-
-Both answer the question. Only one can be plotted, compared across terms, or
-inspected for when the change happened. This is reported beside recall rather
-than folded into it, because folding it in is what produced the wrong number
-above.
+The three-engine and two-round sweeps are not re-run at thirty questions. Both
+were measured at twelve, where neither bought any recall, and at thirty they
+would cost more than the benchmark they are checking. `--skip-deep` omits them;
+drop the flag to pay for them.
 
 ### What depth buys
 
