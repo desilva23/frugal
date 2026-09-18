@@ -505,3 +505,24 @@ def test_a_failing_search_does_not_take_it_down(tmp_path: Path) -> None:
     result = parameterised_naive_run(client, QUESTION)
     assert result.steps[0].error
     assert result.evidence == []
+
+
+def test_an_empty_search_spends_the_budget_it_really_spent(tmp_path: Path) -> None:
+    """The budget must see what SerpApi billed, including searches that found nothing."""
+
+    def empty(request: httpx.Request) -> httpx.Response:
+        return httpx.Response(
+            200,
+            json={
+                "search_metadata": {"id": "e", "status": "Success"},
+                "error": "Google hasn't returned any results for this query.",
+            },
+        )
+
+    planner, client = make_planner(tmp_path, empty)
+    result = planner.run(QUESTION, budget=12)
+
+    assert result.searches_charged == result.steps_executed
+    assert result.budget.spent == result.steps_executed
+    assert client.log.empty_results == result.steps_executed
+    assert result.failures == []

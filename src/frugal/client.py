@@ -86,6 +86,9 @@ class RequestLog:
     cache_hits: int = 0
     retries: int = 0
     searches_charged: int = 0
+    #: Searches that completed, were billed, and returned nothing. Counted
+    #: separately because they are the case that used to go unrecorded.
+    empty_results: int = 0
     total_latency_ms: float = 0.0
     errors: list[str] = field(default_factory=list)
 
@@ -95,6 +98,7 @@ class RequestLog:
             "cache_hits": self.cache_hits,
             "retries": self.retries,
             "searches_charged": self.searches_charged,
+            "empty_results": self.empty_results,
             "total_latency_ms": round(self.total_latency_ms, 1),
             "errors": list(self.errors),
         }
@@ -181,13 +185,30 @@ class SerpApiClient:
         payload = self._fetch(engine, request_params)
         elapsed_ms = (time.perf_counter() - started) * 1000
 
-        # Inspected before recording. Caching an error would serve it forever.
+        # A failed search is raised before recording, since caching a failure
+        # would serve it forever. A search that *completed* and found nothing is
+        # not a failure, and is recorded like any other.
+        #
+        # The distinction is SerpApi's own status field. "Google hasn't returned
+        # any results for this query" arrives with an `error` key and with
+        # search_metadata.status == "Success": the search ran to completion, and
+        # it was billed. This client used to treat every `error` key as a
+        # failure, which recorded those searches as costing nothing and released
+        # their budget reservations -- while SerpApi charged for each one.
+        # Measured directly against the account counter: three empty-result
+        # searches, three searches billed. Every cost figure this project
+        # reported undercounted by however many empty results a run hit, and the
+        # budget could be overrun by searches it never saw.
         message = _extract_error(payload)
-        if message is not None:
+        if message is not None and self._status_of(payload) != "Success":
             self.log.errors.append(f"{engine}: {message}")
             if _looks_like_auth_failure(message):
                 raise AuthenticationError(message)
             raise SerpApiError(engine, message, status=self._status_of(payload))
+        if message is not None:
+            # Completed but empty: billed, and worth remembering so an identical
+            # search is not paid for twice to be told the same thing.
+            self.log.empty_results += 1
 
         self.cache.store(engine, request_params, payload, elapsed_ms=elapsed_ms)
         self.log.requests += 1

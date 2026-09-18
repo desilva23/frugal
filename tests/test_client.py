@@ -336,3 +336,88 @@ def test_log_accounting_reflects_spend(tmp_path: Path) -> None:
     client.search("google", q="a")
     assert client.log.as_dict()["searches_charged"] == 2
     assert client.log.as_dict()["cache_hits"] == 1
+
+
+# --------------------------------------------------------------------------
+# A completed search that found nothing
+# --------------------------------------------------------------------------
+#
+# Measured against the SerpApi account counter: three searches returning "no
+# results" cost three searches. They arrive with an `error` key AND with
+# search_metadata.status == "Success" -- the search completed, which is why it
+# was billed. This client used to treat every `error` key as a failure, so those
+# searches were recorded as free and their budget reservations released.
+
+EMPTY_BODY = {
+    "search_metadata": {"id": "e", "status": "Success"},
+    "error": "Google News hasn't returned any results for this query.",
+}
+
+
+def test_a_completed_empty_search_is_counted_as_billed(tmp_path: Path) -> None:
+    client = make_client(always(200, EMPTY_BODY), tmp_path)
+    response = client.search("google_news", q="nothing to find")
+    assert response.searches_charged == 1
+    assert client.log.searches_charged == 1
+    assert client.log.empty_results == 1
+
+
+def test_a_completed_empty_search_is_not_raised(tmp_path: Path) -> None:
+    """Finding nothing is an answer, not a failure."""
+    client = make_client(always(200, EMPTY_BODY), tmp_path)
+    assert client.search("google_news", q="nothing to find").status == "Success"
+
+
+def test_a_completed_empty_search_is_recorded(tmp_path: Path) -> None:
+    """So an identical search is not paid for twice to be told the same thing."""
+    calls = 0
+
+    def handler(_request: httpx.Request) -> httpx.Response:
+        nonlocal calls
+        calls += 1
+        return httpx.Response(200, json=EMPTY_BODY)
+
+    client = make_client(handler, tmp_path)
+    client.search("google_news", q="nothing to find")
+    second = client.search("google_news", q="nothing to find")
+    assert calls == 1
+    assert second.from_cache
+
+
+def test_an_error_without_a_success_status_is_still_a_failure(tmp_path: Path) -> None:
+    """Only SerpApi's own completion signal marks a search as billed."""
+    client = make_client(always(200, {"error": "Unsupported location"}), tmp_path)
+    with pytest.raises(SerpApiError):
+        client.search("google", q="x")
+    assert client.log.searches_charged == 0
+
+
+def test_an_error_status_is_still_a_failure(tmp_path: Path) -> None:
+    body = {"search_metadata": {"status": "Error", "error": "backend failure"}}
+    client = make_client(always(200, body), tmp_path)
+    with pytest.raises(SerpApiError):
+        client.search("google", q="x")
+    assert client.log.searches_charged == 0
+
+
+def test_a_failed_search_is_still_not_recorded(tmp_path: Path) -> None:
+    """The original rule stands for genuine failures: a cached failure is permanent."""
+    cache = ResponseCache(tmp_path / "cache")
+    client = SerpApiClient(
+        api_key="k",
+        cache=cache,
+        http=httpx.Client(transport=httpx.MockTransport(always(200, {"error": "bad param"}))),
+        sleep=lambda _s: None,
+    )
+    with pytest.raises(SerpApiError):
+        client.search("google", q="x")
+    assert list(cache.directory.rglob("*.json")) == []
+
+
+def test_an_invalid_key_is_still_an_auth_error_even_with_a_success_status(
+    tmp_path: Path,
+) -> None:
+    """Checked defensively: a credential problem must never be recorded as a result."""
+    body = {"search_metadata": {"status": "Error"}, "error": "Invalid API key"}
+    with pytest.raises(AuthenticationError):
+        make_client(always(200, body), tmp_path).search("google", q="x")
