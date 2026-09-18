@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "notes": [
     "Each question carries markers that must appear in retrieved evidence for the",
     "answer to count as found. Markers are groups: every group must be satisfied,",
@@ -19,7 +19,9 @@
     "",
     "The eighteen questions added in version 2 were written and committed BEFORE",
     "being run, so that none could be selected for flattering either strategy. The",
-    "commit that adds them precedes the commit that records their results."
+    "commit that adds them precedes the commit that records their results.",
+    "",
+    "Version 3 adds seventy questions, written and committed before any was run, to bring the set to one hundred. They are spread across every category so that a margin cannot rest on one, and a quarter of the whole set are plain facts that one web search should answer."
   ],
   "questions": [
     {
@@ -462,6 +464,998 @@
         ]
       ],
       "rationale": "A textbook fact; a control."
+    },
+    {
+      "id": "bert-paper",
+      "question": "Which paper introduced BERT for language understanding?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "bert"
+        ],
+        [
+          "devlin",
+          "bidirectional encoder"
+        ]
+      ],
+      "rationale": "Authorship is checkable and lives in the paper record."
+    },
+    {
+      "id": "resnet-paper",
+      "question": "Which paper introduced residual networks for image recognition?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "residual"
+        ],
+        [
+          "kaiming",
+          "deep residual learning"
+        ]
+      ],
+      "rationale": "A citation question with a specific first author."
+    },
+    {
+      "id": "gan-paper",
+      "question": "Who introduced generative adversarial networks?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "generative adversarial"
+        ],
+        [
+          "goodfellow"
+        ]
+      ],
+      "rationale": "Widely covered, so web search should manage it too."
+    },
+    {
+      "id": "word2vec-paper",
+      "question": "Which paper introduced word2vec word embeddings?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "word2vec",
+          "word vectors",
+          "word representations"
+        ],
+        [
+          "mikolov"
+        ]
+      ],
+      "rationale": "Named technique with a known author."
+    },
+    {
+      "id": "dropout-paper",
+      "question": "Which paper proposed dropout to prevent neural network overfitting?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "dropout"
+        ],
+        [
+          "srivastava",
+          "hinton"
+        ]
+      ],
+      "rationale": "A technique question answered by a specific paper."
+    },
+    {
+      "id": "adam-optimizer",
+      "question": "Who proposed the Adam optimisation algorithm?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "adam"
+        ],
+        [
+          "kingma"
+        ]
+      ],
+      "rationale": "Both groups required, so the common name alone cannot satisfy it."
+    },
+    {
+      "id": "alexnet-paper",
+      "question": "Which paper introduced AlexNet for ImageNet classification?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "alexnet",
+          "imagenet classification"
+        ],
+        [
+          "krizhevsky"
+        ]
+      ],
+      "rationale": "A landmark paper with a checkable author."
+    },
+    {
+      "id": "seq2seq-paper",
+      "question": "Which paper introduced sequence to sequence learning with neural networks?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "sequence to sequence",
+          "seq2seq"
+        ],
+        [
+          "sutskever"
+        ]
+      ],
+      "rationale": "Phrased as a technique, answered by a paper."
+    },
+    {
+      "id": "vit-paper",
+      "question": "Which paper introduced the Vision Transformer?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "vision transformer"
+        ],
+        [
+          "dosovitskiy",
+          "an image is worth"
+        ]
+      ],
+      "rationale": "Recent enough that web coverage varies."
+    },
+    {
+      "id": "batchnorm-paper",
+      "question": "Which paper introduced batch normalization?",
+      "category": "scholarly",
+      "markers": [
+        [
+          "batch normalization"
+        ],
+        [
+          "ioffe",
+          "szegedy"
+        ]
+      ],
+      "rationale": "A technique with a specific pair of authors."
+    },
+    {
+      "id": "cricket-interest-india",
+      "question": "Is search interest in cricket in India rising or falling?",
+      "category": "trend",
+      "markers": [
+        [
+          "cricket"
+        ]
+      ],
+      "rationale": "Direction of change. Prose answers count; a series is recorded, not scored.",
+      "expects_series": true
+    },
+    {
+      "id": "yoga-interest-trend",
+      "question": "Has worldwide search interest in yoga changed over the last five years?",
+      "category": "trend",
+      "markers": [
+        [
+          "yoga"
+        ]
+      ],
+      "rationale": "A worldwide question, so no country parameter applies.",
+      "expects_series": true
+    },
+    {
+      "id": "solar-interest-india",
+      "question": "Is search interest in solar panels in India growing over time?",
+      "category": "trend",
+      "markers": [
+        [
+          "solar panel",
+          "solar panels",
+          "solar energy"
+        ]
+      ],
+      "rationale": "Demand question on an Indian subject.",
+      "expects_series": true
+    },
+    {
+      "id": "bitcoin-interest-trend",
+      "question": "Has search interest in bitcoin risen or fallen over time?",
+      "category": "trend",
+      "markers": [
+        [
+          "bitcoin"
+        ]
+      ],
+      "rationale": "A volatile subject where prose is often out of date.",
+      "expects_series": true
+    },
+    {
+      "id": "millets-interest-india",
+      "question": "Is search interest in millets growing in India over time?",
+      "category": "trend",
+      "markers": [
+        [
+          "millet"
+        ]
+      ],
+      "rationale": "India-specific, and thinly covered in Western-weighted web results.",
+      "expects_series": true
+    },
+    {
+      "id": "ev-scooter-trend",
+      "question": "Has search interest in electric scooters in India been rising?",
+      "category": "trend",
+      "markers": [
+        [
+          "electric scooter",
+          "electric scooters"
+        ]
+      ],
+      "rationale": "Close to the EV question, to check for consistency.",
+      "expects_series": true
+    },
+    {
+      "id": "air-purifier-trend",
+      "question": "Does search interest in air purifiers in Delhi rise in winter?",
+      "category": "trend",
+      "markers": [
+        [
+          "air purifier",
+          "air purifiers"
+        ]
+      ],
+      "rationale": "Seasonal pattern; a series shows it, prose asserts it.",
+      "expects_series": true
+    },
+    {
+      "id": "chatgpt-interest-india",
+      "question": "Has search interest in ChatGPT in India grown over time?",
+      "category": "trend",
+      "markers": [
+        [
+          "chatgpt"
+        ]
+      ],
+      "rationale": "Recent subject with a steep curve.",
+      "expects_series": true
+    },
+    {
+      "id": "devops-jobs-hyderabad",
+      "question": "Which companies are hiring DevOps engineers in Hyderabad?",
+      "category": "employment",
+      "markers": [
+        [
+          "devops"
+        ],
+        [
+          "hyderabad",
+          "telangana"
+        ]
+      ],
+      "rationale": "Vacancies live in a jobs index, not in articles."
+    },
+    {
+      "id": "data-analyst-pune",
+      "question": "What data analyst jobs are open in Pune?",
+      "category": "employment",
+      "markers": [
+        [
+          "data analyst",
+          "data analytics"
+        ],
+        [
+          "pune",
+          "maharashtra"
+        ]
+      ],
+      "rationale": "A role and a city, both required."
+    },
+    {
+      "id": "react-jobs-mumbai",
+      "question": "Which companies are hiring React developers in Mumbai?",
+      "category": "employment",
+      "markers": [
+        [
+          "react",
+          "reactjs"
+        ],
+        [
+          "mumbai",
+          "maharashtra"
+        ]
+      ],
+      "rationale": "Framework name that also means other things."
+    },
+    {
+      "id": "ml-engineer-bengaluru",
+      "question": "Which companies are hiring machine learning engineers in Bengaluru?",
+      "category": "employment",
+      "markers": [
+        [
+          "machine learning"
+        ],
+        [
+          "bengaluru",
+          "bangalore",
+          "karnataka"
+        ]
+      ],
+      "rationale": "High-volume role in a high-volume city."
+    },
+    {
+      "id": "java-jobs-chennai",
+      "question": "What Java developer jobs are available in Chennai?",
+      "category": "employment",
+      "markers": [
+        [
+          "java"
+        ],
+        [
+          "chennai",
+          "tamil nadu"
+        ]
+      ],
+      "rationale": "A mature role, heavily advertised."
+    },
+    {
+      "id": "cloud-architect-noida",
+      "question": "Which companies are hiring cloud architects in Noida?",
+      "category": "employment",
+      "markers": [
+        [
+          "cloud architect",
+          "cloud architects"
+        ],
+        [
+          "noida",
+          "uttar pradesh"
+        ]
+      ],
+      "rationale": "A city outside the place list, so no location parameter."
+    },
+    {
+      "id": "qa-jobs-kochi",
+      "question": "What software testing jobs are open in Kochi?",
+      "category": "employment",
+      "markers": [
+        [
+          "testing",
+          "quality assurance",
+          "qa engineer"
+        ],
+        [
+          "kochi",
+          "kerala"
+        ]
+      ],
+      "rationale": "A smaller tech market."
+    },
+    {
+      "id": "smartwatch-under-5000",
+      "question": "What smartwatches are available under 5000 rupees in India?",
+      "category": "commerce",
+      "markers": [
+        [
+          "smartwatch",
+          "smart watch"
+        ],
+        [
+          "₹",
+          "rs",
+          "inr",
+          "price"
+        ]
+      ],
+      "rationale": "Needs offers with prices attached."
+    },
+    {
+      "id": "power-bank-price",
+      "question": "What does a 20000 mAh power bank cost in India?",
+      "category": "commerce",
+      "markers": [
+        [
+          "power bank",
+          "power banks"
+        ],
+        [
+          "₹",
+          "rs",
+          "inr",
+          "price"
+        ]
+      ],
+      "rationale": "A commodity product with many listings."
+    },
+    {
+      "id": "mixer-grinder-price",
+      "question": "What are the prices of mixer grinders in India?",
+      "category": "commerce",
+      "markers": [
+        [
+          "mixer grinder",
+          "mixer grinders"
+        ],
+        [
+          "₹",
+          "rs",
+          "inr",
+          "price"
+        ]
+      ],
+      "rationale": "An India-specific product category."
+    },
+    {
+      "id": "running-shoes-price",
+      "question": "What running shoes are available under 3000 rupees in India?",
+      "category": "commerce",
+      "markers": [
+        [
+          "running shoe",
+          "running shoes"
+        ],
+        [
+          "₹",
+          "rs",
+          "inr",
+          "price"
+        ]
+      ],
+      "rationale": "Price-bounded, so offers matter."
+    },
+    {
+      "id": "monitor-price",
+      "question": "What 27 inch monitors are available in India?",
+      "category": "commerce",
+      "markers": [
+        [
+          "monitor"
+        ],
+        [
+          "₹",
+          "rs",
+          "inr",
+          "price"
+        ]
+      ],
+      "rationale": "A product whose name is also a common verb."
+    },
+    {
+      "id": "ssd-price",
+      "question": "How much does a 1TB SSD cost in India?",
+      "category": "commerce",
+      "markers": [
+        [
+          "ssd",
+          "solid state drive"
+        ],
+        [
+          "₹",
+          "rs",
+          "inr",
+          "price"
+        ]
+      ],
+      "rationale": "Specification-led product search."
+    },
+    {
+      "id": "water-purifier-price",
+      "question": "What water purifiers are available under 15000 rupees in India?",
+      "category": "commerce",
+      "markers": [
+        [
+          "water purifier",
+          "water purifiers"
+        ],
+        [
+          "₹",
+          "rs",
+          "inr",
+          "price"
+        ]
+      ],
+      "rationale": "Common household purchase in India."
+    },
+    {
+      "id": "hospitals-madurai",
+      "question": "Where are the major hospitals in Madurai?",
+      "category": "local",
+      "markers": [
+        [
+          "madurai"
+        ],
+        [
+          "hospital"
+        ]
+      ],
+      "rationale": "A city outside the place list, so no location parameter."
+    },
+    {
+      "id": "cafes-indiranagar",
+      "question": "Where are good cafes in Indiranagar, Bengaluru?",
+      "category": "local",
+      "markers": [
+        [
+          "cafe",
+          "coffee"
+        ],
+        [
+          "indiranagar",
+          "bengaluru",
+          "bangalore"
+        ]
+      ],
+      "rationale": "A neighbourhood, narrower than a city."
+    },
+    {
+      "id": "pharmacies-chennai",
+      "question": "Where are 24 hour pharmacies in Chennai?",
+      "category": "local",
+      "markers": [
+        [
+          "pharmacy",
+          "pharmacies",
+          "medical store",
+          "chemist"
+        ],
+        [
+          "chennai"
+        ]
+      ],
+      "rationale": "Hours as well as place."
+    },
+    {
+      "id": "iit-bombay-location",
+      "question": "Where is IIT Bombay located?",
+      "category": "local",
+      "markers": [
+        [
+          "mumbai",
+          "powai"
+        ],
+        [
+          "iit bombay",
+          "indian institute of technology bombay"
+        ]
+      ],
+      "rationale": "A well-known place; a control for local."
+    },
+    {
+      "id": "museums-kolkata",
+      "question": "What museums are there in Kolkata?",
+      "category": "local",
+      "markers": [
+        [
+          "museum"
+        ],
+        [
+          "kolkata"
+        ]
+      ],
+      "rationale": "A category of place in a city."
+    },
+    {
+      "id": "coworking-pune",
+      "question": "Where are coworking spaces in Pune?",
+      "category": "local",
+      "markers": [
+        [
+          "coworking",
+          "co-working"
+        ],
+        [
+          "pune"
+        ]
+      ],
+      "rationale": "Modern category, thinly listed in older directories."
+    },
+    {
+      "id": "cardiac-hospitals-coimbatore",
+      "question": "Which hospitals in Coimbatore offer cardiac care?",
+      "category": "local",
+      "markers": [
+        [
+          "cardiac",
+          "cardiology",
+          "heart"
+        ],
+        [
+          "coimbatore"
+        ]
+      ],
+      "rationale": "A place with a specialism, not just a category."
+    },
+    {
+      "id": "graphene-patents",
+      "question": "Who holds patents on graphene production methods?",
+      "category": "patent",
+      "markers": [
+        [
+          "graphene"
+        ],
+        [
+          "patent"
+        ]
+      ],
+      "rationale": "Assignees are in patent records, rarely in articles."
+    },
+    {
+      "id": "crispr-patents",
+      "question": "Who holds patents on CRISPR gene editing?",
+      "category": "patent",
+      "markers": [
+        [
+          "crispr"
+        ],
+        [
+          "patent"
+        ]
+      ],
+      "rationale": "A heavily litigated patent area, so articles cover it too."
+    },
+    {
+      "id": "drone-delivery-patents",
+      "question": "Who holds patents on drone delivery systems?",
+      "category": "patent",
+      "markers": [
+        [
+          "drone",
+          "unmanned aerial"
+        ],
+        [
+          "patent"
+        ]
+      ],
+      "rationale": "Commercial filings by large companies."
+    },
+    {
+      "id": "battery-swap-patents",
+      "question": "Who holds patents on electric vehicle battery swapping?",
+      "category": "patent",
+      "markers": [
+        [
+          "battery swap",
+          "battery swapping",
+          "battery exchange"
+        ],
+        [
+          "patent"
+        ]
+      ],
+      "rationale": "Relevant to the Indian EV market."
+    },
+    {
+      "id": "mrna-patents",
+      "question": "Who holds patents on mRNA vaccine delivery?",
+      "category": "patent",
+      "markers": [
+        [
+          "mrna"
+        ],
+        [
+          "patent"
+        ]
+      ],
+      "rationale": "High-profile patents with press coverage."
+    },
+    {
+      "id": "solid-state-battery-patents",
+      "question": "Who holds patents on solid state batteries?",
+      "category": "patent",
+      "markers": [
+        [
+          "solid state battery",
+          "solid-state battery",
+          "solid state batteries"
+        ],
+        [
+          "patent"
+        ]
+      ],
+      "rationale": "Active filing area."
+    },
+    {
+      "id": "rbi-repo-rate",
+      "question": "What is the latest RBI repo rate decision?",
+      "category": "recency",
+      "markers": [
+        [
+          "repo rate",
+          "repo"
+        ],
+        [
+          "rbi",
+          "reserve bank"
+        ]
+      ],
+      "rationale": "Changes on a schedule; old pages mislead."
+    },
+    {
+      "id": "chandrayaan-news",
+      "question": "What is the latest news about India's Chandrayaan missions?",
+      "category": "recency",
+      "markers": [
+        [
+          "chandrayaan"
+        ]
+      ],
+      "rationale": "Ongoing programme with frequent updates."
+    },
+    {
+      "id": "upi-regulation-news",
+      "question": "What are the latest developments in UPI regulation?",
+      "category": "recency",
+      "markers": [
+        [
+          "upi"
+        ],
+        [
+          "npci",
+          "regulation",
+          "rbi"
+        ]
+      ],
+      "rationale": "Policy area that changes often."
+    },
+    {
+      "id": "gst-council-news",
+      "question": "What did the latest GST council meeting decide?",
+      "category": "recency",
+      "markers": [
+        [
+          "gst"
+        ]
+      ],
+      "rationale": "A recurring meeting whose latest instance is the answer."
+    },
+    {
+      "id": "chennai-metro-news",
+      "question": "What is the latest progress on Chennai Metro phase 2?",
+      "category": "recency",
+      "markers": [
+        [
+          "chennai metro"
+        ],
+        [
+          "phase"
+        ]
+      ],
+      "rationale": "Local infrastructure with rolling updates."
+    },
+    {
+      "id": "monsoon-forecast-news",
+      "question": "What is the latest monsoon forecast for India?",
+      "category": "recency",
+      "markers": [
+        [
+          "monsoon"
+        ],
+        [
+          "forecast",
+          "imd"
+        ]
+      ],
+      "rationale": "Seasonal and date-sensitive."
+    },
+    {
+      "id": "vande-bharat-news",
+      "question": "What are the latest Vande Bharat train launches?",
+      "category": "recency",
+      "markers": [
+        [
+          "vande bharat"
+        ]
+      ],
+      "rationale": "Frequent launches, so recency decides correctness."
+    },
+    {
+      "id": "indiaai-mission-news",
+      "question": "What is the latest news on the IndiaAI mission?",
+      "category": "recency",
+      "markers": [
+        [
+          "indiaai",
+          "india ai mission",
+          "indiaai mission"
+        ]
+      ],
+      "rationale": "A named programme with a distinctive token."
+    },
+    {
+      "id": "capital-kerala",
+      "question": "What is the capital of Kerala?",
+      "category": "simple",
+      "markers": [
+        [
+          "thiruvananthapuram",
+          "trivandrum"
+        ]
+      ],
+      "rationale": "A plain fact; the planner should not beat the baseline."
+    },
+    {
+      "id": "speed-of-sound",
+      "question": "What is the speed of sound in air?",
+      "category": "simple",
+      "markers": [
+        [
+          "343"
+        ]
+      ],
+      "rationale": "A plain fact with a checkable number."
+    },
+    {
+      "id": "largest-planet",
+      "question": "What is the largest planet in the solar system?",
+      "category": "simple",
+      "markers": [
+        [
+          "jupiter"
+        ]
+      ],
+      "rationale": "A plain fact; a control."
+    },
+    {
+      "id": "gitanjali-author",
+      "question": "Who wrote Gitanjali?",
+      "category": "simple",
+      "markers": [
+        [
+          "tagore",
+          "rabindranath"
+        ]
+      ],
+      "rationale": "A plain fact with an Indian subject."
+    },
+    {
+      "id": "boiling-point-fahrenheit",
+      "question": "What is the boiling point of water in Fahrenheit?",
+      "category": "simple",
+      "markers": [
+        [
+          "212"
+        ]
+      ],
+      "rationale": "A plain fact with a checkable number."
+    },
+    {
+      "id": "python-creator",
+      "question": "Who created the Python programming language?",
+      "category": "simple",
+      "markers": [
+        [
+          "guido",
+          "van rossum"
+        ]
+      ],
+      "rationale": "Thoroughly documented; a control."
+    },
+    {
+      "id": "first-pm-india",
+      "question": "Who was the first Prime Minister of India?",
+      "category": "simple",
+      "markers": [
+        [
+          "nehru"
+        ]
+      ],
+      "rationale": "A plain fact; a control."
+    },
+    {
+      "id": "longest-river-india",
+      "question": "What is the longest river in India?",
+      "category": "simple",
+      "markers": [
+        [
+          "ganga",
+          "ganges"
+        ]
+      ],
+      "rationale": "A plain fact with two accepted names."
+    },
+    {
+      "id": "linux-creator",
+      "question": "Who created the Linux kernel?",
+      "category": "simple",
+      "markers": [
+        [
+          "torvalds",
+          "linus"
+        ]
+      ],
+      "rationale": "A plain fact; a control."
+    },
+    {
+      "id": "photosynthesis-gas",
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "category": "simple",
+      "markers": [
+        [
+          "carbon dioxide",
+          "co2"
+        ]
+      ],
+      "rationale": "A textbook fact."
+    },
+    {
+      "id": "national-animal-india",
+      "question": "What is the national animal of India?",
+      "category": "simple",
+      "markers": [
+        [
+          "tiger"
+        ]
+      ],
+      "rationale": "A plain fact; a control."
+    },
+    {
+      "id": "http-404-meaning",
+      "question": "What does HTTP status code 404 mean?",
+      "category": "simple",
+      "markers": [
+        [
+          "not found"
+        ]
+      ],
+      "rationale": "Thoroughly documented; a control."
+    },
+    {
+      "id": "git-creator",
+      "question": "Who created Git?",
+      "category": "simple",
+      "markers": [
+        [
+          "torvalds",
+          "linus"
+        ]
+      ],
+      "rationale": "A plain fact; a control."
+    },
+    {
+      "id": "binary-search-complexity",
+      "question": "What is the time complexity of binary search?",
+      "category": "simple",
+      "markers": [
+        [
+          "logarithmic",
+          "log n",
+          "o(log n)"
+        ]
+      ],
+      "rationale": "A textbook fact with several notations."
+    },
+    {
+      "id": "telephone-inventor",
+      "question": "Who invented the telephone?",
+      "category": "simple",
+      "markers": [
+        [
+          "graham bell",
+          "alexander graham bell"
+        ]
+      ],
+      "rationale": "A plain fact; the full name avoids the common word."
+    },
+    {
+      "id": "rust-ownership",
+      "question": "What is ownership in the Rust programming language?",
+      "category": "simple",
+      "markers": [
+        [
+          "ownership"
+        ],
+        [
+          "borrow",
+          "borrowing",
+          "memory"
+        ]
+      ],
+      "rationale": "Thoroughly documented in the language's own material."
+    },
+    {
+      "id": "kilimanjaro-country",
+      "question": "In which country is Mount Kilimanjaro?",
+      "category": "simple",
+      "markers": [
+        [
+          "tanzania"
+        ]
+      ],
+      "rationale": "A plain fact; a control."
     }
   ]
 }
