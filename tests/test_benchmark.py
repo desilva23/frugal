@@ -464,3 +464,39 @@ def test_no_shipped_marker_matches_arbitrary_prose() -> None:
                 assert not marker_matches(alt, filler), (
                     f"{question.id}: marker {alt!r} matches unrelated prose"
                 )
+
+
+# --------------------------------------------------------------------------
+# One snapshot per comparison
+# --------------------------------------------------------------------------
+
+
+def test_a_live_benchmark_run_never_treats_a_recorded_entry_as_stale(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """Freshness windows would mix two snapshots of the web in one table.
+
+    The working cache expires web results after six hours and scholarly ones
+    after a week. A live run two days after recording therefore re-fetched some
+    engines and reused others, and the drift between them moved the baseline's
+    recall by more than the effect being measured.
+    """
+    from datetime import UTC, datetime, timedelta
+
+    from frugal import benchmark as bench
+    from frugal.cache import ResponseCache as RealCache
+
+    built: list[RealCache] = []
+
+    class Recording(RealCache):
+        def __init__(self, *args: object, **kwargs: object) -> None:
+            super().__init__(*args, **kwargs)  # type: ignore[arg-type]
+            built.append(self)
+
+    monkeypatch.setattr(bench, "ResponseCache", Recording)
+    bench.main(["--dry-run", "--limit", "1", "--cache", str(tmp_path / "c")])
+
+    live = next(c for c in built if c.mode.value == "auto")
+    old = datetime.now(UTC) - timedelta(days=365)
+    live.store("google_news", {"q": "x"}, {"news_results": []}, fetched_at=old)
+    assert live.load("google_news", {"q": "x"}) is not None

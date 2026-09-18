@@ -613,7 +613,19 @@ def main(argv: Sequence[str] | None = None) -> int:
         questions = questions[: args.limit]
 
     mode = CacheMode.REPLAY if args.replay else CacheMode.AUTO
-    cache = ResponseCache(args.cache, mode=mode)
+    # A benchmark compares strategies, so every strategy has to see one snapshot
+    # of the web. Freshness windows break that. The working cache expires web
+    # results after six hours and news after fifteen minutes but keeps scholarly
+    # results for a week, so a live run two days after recording re-fetched some
+    # engines and reused others -- mixing two snapshots in a single table. Two
+    # days of drift moved the baseline's recall by four questions, twice the
+    # effect being measured, and cost seventy-three searches to learn nothing.
+    #
+    # So the benchmark never treats a recorded entry as stale. A step already
+    # recorded is reused as it was; only a step never recorded is fetched. To
+    # take a genuinely new snapshot, point --cache at an empty directory, so that
+    # every strategy is recorded in the same run.
+    cache = ResponseCache(args.cache, mode=mode, ttls={}, fallback_ttl=float("inf"))
 
     if args.dry_run:
         return _report_dry_run(cache, questions, budget=args.budget)
