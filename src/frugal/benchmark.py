@@ -59,16 +59,29 @@ from frugal.schema import Evidence, Series
 #: A boundary is only asserted where the marker's own edge is alphanumeric, so a
 #: marker that begins or ends in punctuation -- the rupee sign, "°c" -- still
 #: matches. re.escape keeps a marker containing regex metacharacters literal.
+#:
+#: A marker that is a single plain word also matches its plural. Word boundaries
+#: fixed substring matching and introduced the opposite fault: "hospital" stopped
+#: matching "hospitals" and "patent" stopped matching "patents", so a result
+#: reading "major hospitals in Coimbatore" failed a question whose marker was
+#: "hospital" -- and every patent question's "patent" marker failed on the plural
+#: that patent records mostly use. This is the rule the router adopted for the
+#: same fault. Multi-word markers are matched as written, so a phrase that has a
+#: plural lists it.
 _MARKER_CACHE: dict[str, re.Pattern[str]] = {}
+_PLAIN_MARKER = re.compile(r"^[a-z][a-z\-]*$", re.IGNORECASE)
 
 
 def marker_pattern(marker: str) -> re.Pattern[str]:
     """Compile a marker into a boundary-respecting pattern, memoised."""
     cached = _MARKER_CACHE.get(marker)
     if cached is None:
+        body = re.escape(marker)
+        if _PLAIN_MARKER.match(marker):
+            body += r"(?:e?s)?"
         prefix = r"\b" if marker[:1].isalnum() else ""
         suffix = r"\b" if marker[-1:].isalnum() else ""
-        cached = re.compile(prefix + re.escape(marker) + suffix, re.IGNORECASE)
+        cached = re.compile(prefix + body + suffix, re.IGNORECASE)
         _MARKER_CACHE[marker] = cached
     return cached
 
