@@ -100,9 +100,21 @@ _WORD = re.compile(r"[a-z0-9]+(?:[-'][a-z0-9]+)*")
 
 
 def tokenise(text: str) -> tuple[str, ...]:
-    """Reduce text to content tokens, in order, without duplicates."""
+    """Reduce text to content tokens, in order, keeping repeats.
+
+    Repeats used to be dropped here, which quietly destroyed the phrases that
+    are built out of one: "sequence to sequence learning" came out as "sequence
+    learning", and the question about the paper that introduced it went looking
+    for something else. "day to day", "face to face" and "end to end" fail the
+    same way. A repeated word in a question is usually the point of it.
+
+    Dedup belongs to the callers that need it. :func:`similarity` compares sets,
+    :func:`feedback_terms` counts each term once per document, and
+    :func:`_core_terms` ranks tokens and so collapses them itself; the query
+    builders want the phrase as it was written.
+    """
     words = _WORD.findall(text.lower())
-    return tuple(dict.fromkeys(w for w in words if w not in _STOPWORDS and len(w) > 1))
+    return tuple(w for w in words if w not in _STOPWORDS and len(w) > 1)
 
 
 def similarity(left: str, right: str) -> float:
@@ -177,13 +189,20 @@ def _core_terms(question: str, keep: int = 3) -> str:
     the question discarded. An all-capitals token in the original question is
     almost always the most specific term in it, so those rank first.
     """
-    tokens = [
-        t for t in tokenise(question) if t not in _RECENCY_WORDS and t not in _FRAMING_WORDS
-    ]
+    # Unique, because this ranks tokens and picks the top few: a word the
+    # question repeats would otherwise be selected twice and spend two of the
+    # three slots saying the same thing.
+    tokens = list(
+        dict.fromkeys(
+            t
+            for t in tokenise(question)
+            if t not in _RECENCY_WORDS and t not in _FRAMING_WORDS
+        )
+    )
     if not tokens:
         # A question made entirely of framing has no core; fall back to content
         # words rather than returning nothing.
-        tokens = list(tokenise(question))
+        tokens = list(dict.fromkeys(tokenise(question)))
 
     acronyms = _acronyms(question)
     ranked = sorted(

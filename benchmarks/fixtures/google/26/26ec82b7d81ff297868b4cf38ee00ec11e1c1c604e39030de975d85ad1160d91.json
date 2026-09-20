@@ -1,0 +1,651 @@
+{
+ "elapsed_ms": 1014.425,
+ "engine": "google",
+ "fetched_at": "2026-09-20T13:28:34.673973+00:00",
+ "frugal_cache_version": 1,
+ "key": "26ec82b7d81ff297868b4cf38ee00ec11e1c1c604e39030de975d85ad1160d91",
+ "params": {
+  "num": 10,
+  "q": "introduced word2vec embeddings based method"
+ },
+ "response": {
+  "ai_overview": {
+   "page_token": "OGMI1niczVXbcqJIGH6AfY7hJlFBMWqqqKnuFhWjSVCjQ24oDp0G5WBolejdvMhe7VPt02yDqJBosjMXW_tXtU03v__54_v5l-cGi7__-NNZrZb0tlKJ47hMwpB4uGyFfsWg28CqvIQejSznOw3XkYVdW7KcKPQxt91INc6iEs9hVyJ2aWNQfXkflTx3MHxs9I0bqi641ISkmwbFc-bhbU4reoX9LL7V2uxQpmUclNcv9LndEuzJoFmu8kKr_FAxfKYA_juRVQKTvQ_QZSX2Sv7aVGJAAVDOWVIASXd40tL2r5GavkLkojW49zlK1VW22vquF7fZbVaf9sX_MhewcIzTWACI0yghcL_OJidqlsshr08qddQuSla98HST73Eh1oKQuHDssCh0gNDJSd4ZM-kUwjhWyiKg2QthG4Kny3Gz-twpoL4Aqnwuhbyo8lQ8dm6gddlNxSZscPmKGbFNqLiWY6UPEU3mGU1afNjr4O1bB85mfIwd2NOtaFea9_ryzt6oFctkel5o2NjWHZ3_np6FqlDnW7VG8zoFkkWPSKJ5JD2CtTkeOKK7A-VBGQoHGKF908GHjsnsjJQziUGUqZ5pcW6wk4bJezW1k7ebtRICFAJ5BIqtvXtJ6to9HNmM7lhr8honr8nwf4TRXkhOmcEoDUQJM8W8xl6rm4NurrEKOPeZeZ-32js9tj8oFgCIWL4LcJh17b1lDaiIyAkGkNyDWdWso4275M_o7qgODwHLgH2hspN8DFDOlHIxJSVQVDAEisxsuk8Km1CSzOo-0GQYMl8dGYJCay4MvMbczNC_-fSdEfgViBJRD3h5N_552HTpI6k_0erUFJ-287r9Fm_Fm0DTa2AEzsMk9M1fYBzrfwWkPR_JGR9dBpL8NZBSPoKf8FH6fOKjZHhReBFIsHuej4Zn-aiYNwKjPJA-56NfBhL6FEj7OTwLpPA8kJYXgUTi90BifNQ-8ZF8no-OQPodPoK_yUcprvB-K5LTek4ukpTc1afd11dtbKD-yhgvx8vG2vQmU9d7jr8kqRd_desbtnetu_YtrPZXW_taZxfhLba5V8kNVlFory1sX8VhZFc32LrCvolt2w0IvUqwa1_5eOWENud7USjxRkOg_INbegpHzjjYdEb1nSZCYj6-th6dpkee1drD6-qtZLq83Kpv540NfSMzr16Pu7FjTB94sJ3U3Z479po7PdA1VcEdYT5pghmeaz30vKuOx31eqIkP4rA91Nr3DrzZiO6EH7wQD9EGUndLt9qYBNrOCVDHNRelNDIqOT8C15sPFWMqcyxDiiWB8yNLYrMgEnCvghlhQ4nSYWUrZCtm64b1CnLUMnRMN5JRww1LrJs8btlmw8CcT1bbpSQKHA0iSfgHxk1L7A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OGMI1niczVXbcqJIGH6AfY7hJlFBMWqqqKnuFhWjSVCjQ24oDp0G5WBolejdvMhe7VPt02yDqJBosjMXW_tXtU03v__54_v5l-cGi7__-NNZrZb0tlKJ47hMwpB4uGyFfsWg28CqvIQejSznOw3XkYVdW7KcKPQxt91INc6iEs9hVyJ2aWNQfXkflTx3MHxs9I0bqi641ISkmwbFc-bhbU4reoX9LL7V2uxQpmUclNcv9LndEuzJoFmu8kKr_FAxfKYA_juRVQKTvQ_QZSX2Sv7aVGJAAVDOWVIASXd40tL2r5GavkLkojW49zlK1VW22vquF7fZbVaf9sX_MhewcIzTWACI0yghcL_OJidqlsshr08qddQuSla98HST73Eh1oKQuHDssCh0gNDJSd4ZM-kUwjhWyiKg2QthG4Kny3Gz-twpoL4Aqnwuhbyo8lQ8dm6gddlNxSZscPmKGbFNqLiWY6UPEU3mGU1afNjr4O1bB85mfIwd2NOtaFea9_ryzt6oFctkel5o2NjWHZ3_np6FqlDnW7VG8zoFkkWPSKJ5JD2CtTkeOKK7A-VBGQoHGKF908GHjsnsjJQziUGUqZ5pcW6wk4bJezW1k7ebtRICFAJ5BIqtvXtJ6to9HNmM7lhr8honr8nwf4TRXkhOmcEoDUQJM8W8xl6rm4NurrEKOPeZeZ-32js9tj8oFgCIWL4LcJh17b1lDaiIyAkGkNyDWdWso4275M_o7qgODwHLgH2hspN8DFDOlHIxJSVQVDAEisxsuk8Km1CSzOo-0GQYMl8dGYJCay4MvMbczNC_-fSdEfgViBJRD3h5N_552HTpI6k_0erUFJ-287r9Fm_Fm0DTa2AEzsMk9M1fYBzrfwWkPR_JGR9dBpL8NZBSPoKf8FH6fOKjZHhReBFIsHuej4Zn-aiYNwKjPJA-56NfBhL6FEj7OTwLpPA8kJYXgUTi90BifNQ-8ZF8no-OQPodPoK_yUcprvB-K5LTek4ukpTc1afd11dtbKD-yhgvx8vG2vQmU9d7jr8kqRd_desbtnetu_YtrPZXW_taZxfhLba5V8kNVlFory1sX8VhZFc32LrCvolt2w0IvUqwa1_5eOWENud7USjxRkOg_INbegpHzjjYdEb1nSZCYj6-th6dpkee1drD6-qtZLq83Kpv540NfSMzr16Pu7FjTB94sJ3U3Z479po7PdA1VcEdYT5pghmeaz30vKuOx31eqIkP4rA91Nr3DrzZiO6EH7wQD9EGUndLt9qYBNrOCVDHNRelNDIqOT8C15sPFWMqcyxDiiWB8yNLYrMgEnCvghlhQ4nSYWUrZCtm64b1CnLUMnRMN5JRww1LrJs8btlmw8CcT1bbpSQKHA0iSfgHxk1L7A"
+  },
+  "inline_videos": [
+   {
+    "channel": "bhupen",
+    "date": "Feb 5, 2024",
+    "duration": "31:21",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=61",
+      "time": "01:01",
+      "title": "Prerequisites"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=127",
+      "time": "02:07",
+      "title": "Embedding in Natural Language Processing"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=397",
+      "time": "06:37",
+      "title": "Why Are Wording Bearings Important in Ai"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=463",
+      "time": "07:43",
+      "title": "Dimensionality Reduction"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=749",
+      "time": "12:29",
+      "title": "Word Embedding"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=819",
+      "time": "13:39",
+      "title": "Different Types of Word Embedding"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=1096",
+      "time": "18:16",
+      "title": "Featureized Representation"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=1264",
+      "time": "21:04",
+      "title": "The Need for Word Embedding with the One Hot Encoding Method"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=1520",
+      "time": "25:20",
+      "title": "How Do You Build Word Embeddings"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=nbSksBs6Zas&t=1827",
+      "time": "30:27",
+      "title": "Example Data"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=nbSksBs6Zas",
+    "platform": "YouTube",
+    "position": 1,
+    "thumbnail": "https://serpapi.com/searches/6aafdf814c437f9ae7045934/images/KMtPp2vUM3xZzVkd__3QCOWsRFSi4VVQsZevHh6CqVY.jpeg",
+    "title": "From Words to Vectors : Understanding Word2Vec Embeddings"
+   },
+   {
+    "channel": "StatQuest with Josh Starmer",
+    "date": "Mar 13, 2023",
+    "duration": "16:12",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=viZrOnJclY0&t=0",
+      "time": "00:00",
+      "title": "Awesome song and introduction"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=viZrOnJclY0&t=265",
+      "time": "04:25",
+      "title": "Building a Neural Network to do Word Embedding"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=viZrOnJclY0&t=498",
+      "time": "08:18",
+      "title": "Visualizing and Validating the Word Embedding"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=viZrOnJclY0&t=642",
+      "time": "10:42",
+      "title": "Summary of Main Ideas"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=viZrOnJclY0&t=704",
+      "time": "11:44",
+      "title": "word2vec"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=viZrOnJclY0&t=816",
+      "time": "13:36",
+      "title": "Speeding up training with Negative Sampling"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=viZrOnJclY0",
+    "platform": "YouTube",
+    "position": 2,
+    "thumbnail": "https://serpapi.com/searches/6aafdf814c437f9ae7045934/images/QhOPxADpFnjbnr9DXEQrmypw1UuwKwah7MIaJxJtRX4.png",
+    "title": "Word Embedding and Word2Vec, Clearly Explained!!!"
+   },
+   {
+    "channel": "Jay Alammar",
+    "date": "Sep 14, 2022",
+    "duration": "8:44",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=0",
+      "time": "00:00",
+      "title": "What is word2vec?"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=37",
+      "time": "00:37",
+      "title": "Two key takeaways"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=104",
+      "time": "01:44",
+      "title": "Intro"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=128",
+      "time": "02:08",
+      "title": "Embeddings of people"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=206",
+      "time": "03:26",
+      "title": "Embeddings for personality"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=239",
+      "time": "03:59",
+      "title": "Embedding dimensions"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=264",
+      "time": "04:24",
+      "title": "Embeddings as vectors"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=293",
+      "time": "04:53",
+      "title": "Intuitions of embeddings"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=349",
+      "time": "05:49",
+      "title": "Visualization of embeddings"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g&t=401",
+      "time": "06:41",
+      "title": "How are word2vec and Language Models trained?"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=ISPId9Lhc1g",
+    "platform": "YouTube",
+    "position": 3,
+    "thumbnail": "https://serpapi.com/searches/6aafdf814c437f9ae7045934/images/0eDkV0HorErJ1N-BqpCk7bdF3m0coMZ2aarqsqttt8Q.png",
+    "title": "The Illustrated Word2vec - A Gentle Intro to Word Embeddings ..."
+   },
+   {
+    "channel": "Binod Suman Academy",
+    "date": "May 6, 2023",
+    "duration": "22:17",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=9Ppg8NLk4NE&t=69",
+      "time": "01:09",
+      "title": "Speech Recognition"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=9Ppg8NLk4NE&t=114",
+      "time": "01:54",
+      "title": "Text Classification"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=9Ppg8NLk4NE&t=268",
+      "time": "04:28",
+      "title": "Word Embedding"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=9Ppg8NLk4NE&t=357",
+      "time": "05:57",
+      "title": "Why the Word Embedding"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=9Ppg8NLk4NE&t=603",
+      "time": "10:03",
+      "title": "Use case for the search engine"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=9Ppg8NLk4NE",
+    "platform": "YouTube",
+    "position": 4,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRBIip5EVfhPGprkJvr9CqYAtxRmBEXqKUb3w",
+    "thumbnail": "https://serpapi.com/searches/6aafdf814c437f9ae7045934/images/0AJKJEmnO26Q71i6yZbEekQ0vaMIN-G-ITqNUe7IRcE.jpeg",
+    "title": "Introduction to NLP | Word2Vec | Word Embedding ..."
+   }
+  ],
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Word2vec is a technique for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Word2vec"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › Word2vec",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Word2vec",
+    "position": 1,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAV0OR4BZXAz8URiCikCcwWciNwWW-gTfMIkaFH2X_xQhpfGEdIAXS7uKQbDJthLojQT5V05QxS7bD75fXWFbzVBXQhrBB8Qg7ZOmdWibletejmIMz0jkVwhxQ&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQFnoECCUQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://en.wikipedia.org/wiki/Word2vec#Approach",
+       "title": "Approach"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Word2vec#History",
+       "title": "History"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Word2vec#Parameterization",
+       "title": "Parameterization"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Word2vec#Extensions",
+       "title": "Extensions"
+      }
+     ]
+    },
+    "snippet": "Word2vec is a technique for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding ...",
+    "snippet_highlighted_words": [
+     "Word2vec"
+    ],
+    "source": "Wikipedia",
+    "title": "Word2vec"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The Word2Vec model, introduced by Tomas Mikolov and his colleagues at Google in 2013, marked a significant breakthrough. Word2Vec leverages two ...",
+      "icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAABwBgCdASocABwAPtFAtFooIqgoFAEAGglnAM-navnqf90bwMX6zzhhDxXL_N-Jll6piIOgkhkkd69zwgAA_vzXo6y1jw_nlGY4Ia9IhnUjhIMkZuMX2CiBvbAj_R61IxRWAUXY70qugVo_1k8UWxVcsgnHxeg4aLpanv4XwjytKrzT-Qr5QaHv9Vs2QSMzUlHzKlgqwq-ygkkJ3mp2dGg8lJDNum301Kydsscc0Qe10z7--UepeShWfuLSlM2EzjIjcJsfeD_tTKD_yzsBfGdq8yahjU1gPx-6CSvPSHxlFC1WsT9trNKzaQUjtecbPLaCiAEPVGy7Sye4JicBE2b4IlWD2krdHqHXr-WMraVvzxhBXAAAAA.webp",
+      "source_info_link": "https://www.ibm.com/think/topics/word-embeddings"
+     }
+    },
+    "date": "Dec 29, 2023",
+    "displayed_link": "https://www.ibm.com › think › topics › word-embeddin...",
+    "favicon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAABwBgCdASocABwAPtFAtFooIqgoFAEAGglnAM-navnqf90bwMX6zzhhDxXL_N-Jll6piIOgkhkkd69zwgAA_vzXo6y1jw_nlGY4Ia9IhnUjhIMkZuMX2CiBvbAj_R61IxRWAUXY70qugVo_1k8UWxVcsgnHxeg4aLpanv4XwjytKrzT-Qr5QaHv9Vs2QSMzUlHzKlgqwq-ygkkJ3mp2dGg8lJDNum301Kydsscc0Qe10z7--UepeShWfuLSlM2EzjIjcJsfeD_tTKD_yzsBfGdq8yahjU1gPx-6CSvPSHxlFC1WsT9trNKzaQUjtecbPLaCiAEPVGy7Sye4JicBE2b4IlWD2krdHqHXr-WMraVvzxhBXAAAAA.webp",
+    "link": "https://www.ibm.com/think/topics/word-embeddings",
+    "position": 2,
+    "read_more_link": "https://www.ibm.com/think/topics/word-embeddings#:~:text=The%20Word2Vec%20model%2C%20introduced%20by,significant%20breakthrough.%20Word2Vec%20leverages%20two",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAV1mH6YoOESl2VEiZnd1fFSdqfkY8bIhF5RdMP5sykSrCD8P0vg1WLES-BlkQWKR3GzKkCGMByvgpnv30CzEvdhfN8yZBwFsC54sTnLP3xeBheErh9WNlVmkQD9VvQ9pYYBG-J&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQFnoECCQQAQ&uoh=1",
+    "snippet": "The Word2Vec model, introduced by Tomas Mikolov and his colleagues at Google in 2013, marked a significant breakthrough. Word2Vec leverages two ...",
+    "snippet_highlighted_words": [
+     "Word2Vec model, introduced by Tomas Mikolov"
+    ],
+    "source": "IBM",
+    "title": "What Are Word Embeddings? | IBM"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Word2Vec, introduced by Mikolov et al. (2013) architectures, Continuous Bag-of-Words (CBOW) and Skip-Gram, designed to learn embeddings",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
+      "source_info_link": "https://arxiv.org/html/2603.13271v1"
+     }
+    },
+    "date": "Feb 27, 2026",
+    "displayed_link": "https://arxiv.org › html",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
+    "link": "https://arxiv.org/html/2603.13271v1",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVa_gTm_ABUvz199oR2WrQa6_fvpmX2zvW96uMoVGaLbGLSxhgBk9rKtS8zUeBHAf-zTxcVLvRjOtEqoyvLCg4B8h99nwMME_3CEs7VVSRq36YCozKcus&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQFnoECCYQAQ&uoh=1",
+    "snippet": "Word2Vec, introduced by Mikolov et al. (2013) architectures, Continuous Bag-of-Words (CBOW) and Skip-Gram, designed to learn embeddings",
+    "snippet_highlighted_words": [
+     "Word2Vec, introduced by Mikolov et al. (2013"
+    ],
+    "source": "arXiv.org",
+    "title": "TRACING THE EVOLUTION OF WORD EMBEDDING ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Word2Vec embeddings can be trained in two ways: CBOW predicts the target-word based on its surrounding words; Skipgram works in the exact ...",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+      "source_info_link": "https://medium.com/@manansuri/a-dummys-guide-to-word2vec-456444f3c673"
+     }
+    },
+    "displayed_link": "590+ likes · 4 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+    "link": "https://medium.com/@manansuri/a-dummys-guide-to-word2vec-456444f3c673",
+    "position": 4,
+    "read_more_link": "https://medium.com/@manansuri/a-dummys-guide-to-word2vec-456444f3c673#:~:text=Word2Vec%20embeddings%20can%20be%20trained,for%20a%20given%20input%20word.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVnvRXux6re5Fie5zJnC5t5LbsvJNQKElJYD4IhHKFUsXGJAyRuzwhg8klnsvDlaFavuIqdF_qX7duN0wgztoSH5frvylFlMTm_7Sa5Uu8IJH1hAV_MBZUMqV09gZiL7YRxF513dxa86JfaJmmNbtVB1GrrLEgM6wq&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQFnoECCoQAQ&uoh=1",
+    "snippet": "Word2Vec embeddings can be trained in two ways: CBOW predicts the target-word based on its surrounding words; Skipgram works in the exact ...",
+    "snippet_highlighted_words": [
+     "Word2Vec embeddings can be trained in two ways"
+    ],
+    "source": "Medium · Manan Suri",
+    "title": "A Dummy's Guide to Word2Vec"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Word2Vec is a word embedding technique in NLP that represents words as vectors in a continuous space. Developed by Google, it captures ...",
+      "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+      "source_info_link": "https://www.geeksforgeeks.org/python/python-word-embedding-using-word2vec/"
+     }
+    },
+    "date": "May 1, 2026",
+    "displayed_link": "https://www.geeksforgeeks.org › python › python-wor...",
+    "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+    "link": "https://www.geeksforgeeks.org/python/python-word-embedding-using-word2vec/",
+    "position": 5,
+    "read_more_link": "https://www.geeksforgeeks.org/python/python-word-embedding-using-word2vec/#:~:text=Word2Vec%20is%20a%20word%20embedding,to%20words%20with%20similar%20meanings.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFSIhmmumNwj_WOZ9R0Jh4_zudF2ApNSw3vEgn0VTMCD8KrEcldBMuR76LNg70mtS8qQVnh_PahWXjVyS6RsKB1Wc6TePuCwVE8R9bh-aGZtmm9TlRkkN-zoyz2-0M-tjgaj3MFfOB55gFDGbQRPJWuD9M4rlbCbl7peY9q_R&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQFnoECCsQAQ&uoh=1",
+    "snippet": "Word2Vec is a word embedding technique in NLP that represents words as vectors in a continuous space. Developed by Google, it captures ...",
+    "snippet_highlighted_words": [
+     "Word2Vec is a word embedding technique in NLP"
+    ],
+    "source": "GeeksforGeeks",
+    "title": "Word Embedding using Word2Vec"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "word2vec is an abbreviation for “word to vector” and is a widely used vector-space approach to using iterations over a text corpus and learning word embeddings.",
+      "icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABwBgCdASocABwAPtEutFooIagoGAEAGglmALboTfoC7Gt5fb7BV9NCdvrI813Vp_GMMXrgLG7NTVd2sAAA_vYJbZ1VdkMyFU19WUk5MkwYQ-E-BYNufkrhl1vpqqRpvNspLLdL-OuGg9VAvKFK73ad1XWyKKwC4_3HHFUAI65Or8-MqznJmi5kmyAMfGCWhyX8fyjp7To2j0qUVD5i8wOGBnZjX1sqH2AY0l1zz-ruqc8KV_OJOs3mFvrP-vxzTxQiPf63RKRZEjRg9-r3x3XlwrM2vm0J8PwX5RFf3UkNcZb_O43jK9jQoeJqVPa_X_9JpwaPINPvkhFmh1nxWBe9dOmtqulkLH54LNdlZMI1Y3O72QBRXzJe4ckCLWA8n7Zx9e_YNMNSuMNtPdo1AAAA.webp",
+      "source_info_link": "https://digitate.com/blog/word2vec-what-are-word-embedding/"
+     }
+    },
+    "displayed_link": "https://digitate.com › blog › word2vec-what-are-word-e...",
+    "favicon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABwBgCdASocABwAPtEutFooIagoGAEAGglmALboTfoC7Gt5fb7BV9NCdvrI813Vp_GMMXrgLG7NTVd2sAAA_vYJbZ1VdkMyFU19WUk5MkwYQ-E-BYNufkrhl1vpqqRpvNspLLdL-OuGg9VAvKFK73ad1XWyKKwC4_3HHFUAI65Or8-MqznJmi5kmyAMfGCWhyX8fyjp7To2j0qUVD5i8wOGBnZjX1sqH2AY0l1zz-ruqc8KV_OJOs3mFvrP-vxzTxQiPf63RKRZEjRg9-r3x3XlwrM2vm0J8PwX5RFf3UkNcZb_O43jK9jQoeJqVPa_X_9JpwaPINPvkhFmh1nxWBe9dOmtqulkLH54LNdlZMI1Y3O72QBRXzJe4ckCLWA8n7Zx9e_YNMNSuMNtPdo1AAAA.webp",
+    "link": "https://digitate.com/blog/word2vec-what-are-word-embedding/",
+    "position": 6,
+    "read_more_link": "https://digitate.com/blog/word2vec-what-are-word-embedding/#:~:text=word2vec%20is%20an%20abbreviation%20for,corpus%20and%20learning%20word%20embeddings.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVIsdwoUJrwAWcrd0Aj1EA_Pz6vbe38RFeRtZxaa6YZc0zCTVfAo5gLROeQGmrXIClO_DQ552RXwd8pMZ8QsBL7qLdUC_prElhPDWFfwZsC0FU4OdYdVEYLSkl3E4i4WoFaojGe7MWOgIhJ8PVgDY&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQFnoECD0QAQ&uoh=1",
+    "snippet": "word2vec is an abbreviation for “word to vector” and is a widely used vector-space approach to using iterations over a text corpus and learning word embeddings.",
+    "snippet_highlighted_words": [
+     "word2vec"
+    ],
+    "source": "Digitate",
+    "title": "Understanding Word2vec: What Are Word Embeddings?"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Word2vec provides a computationally fast (and comparatively cheap) method for delivering baseline word embeddings in a scalable way.",
+      "icon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAABwCQCdASogACAAAsBMJbACdMuN-MIK22d1uNhk9uTuJd4A3kD9srUE2t9480HgZpL5mvi4obvYAatsI4Xms4vZQCnBjqgb0YUV_3gLh4-sTP1e_4AA_vtuEXOcm-fxk43SBwf31bKQ1f2u_gQdUgUJCoDHiejlqu78FQ1YXxkTP_1MOMNqJ4NMV7B1EI2sIlOe08MeBD1frj-EvKwfLshpdrPgLpMJjZHnknOl-9aGIDDYYXsNkLbBb5YI3nyDX_m9_-YnzF0znJkvx4dweg7qWbfwhiYK_ZQD2s5OtjJNMGQpOsaEC2I8vd5xUJOsavCrKtAYIVJU8X5N6DHROAtNBrA9Wdt5dHPkNpd-2e9vNQ4gXoK6mv_jsO1fC6oma9uEU03xNEcUotvJUmMWNQjLG805_LKrC6e8XtbNooSPpk-g_07GLIvlnt_hUNCF3RCxzr9_9DhNPH05KsMur-lXsNiNOpQlZv96gQqkOG-OlNFlh3h23-F4fePEiLA059UPyAkZF-tL1Zlj78yRy90-SDPa5AF8DgwsTN6zxUg0lR4k3RbyR1Js6wpFa9WR-M59MdF-Zvcsr7O8qOlovOQVq0ml2T0ZH7SXrZm3yYLj01fSF5JM5aUEV7Xs0-KoAAA.webp",
+      "source_info_link": "https://www.coveo.com/blog/word2vec-explained/"
+     }
+    },
+    "date": "Feb 5, 2025",
+    "displayed_link": "https://www.coveo.com › blog › word2vec-explained",
+    "favicon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAABwCQCdASogACAAAsBMJbACdMuN-MIK22d1uNhk9uTuJd4A3kD9srUE2t9480HgZpL5mvi4obvYAatsI4Xms4vZQCnBjqgb0YUV_3gLh4-sTP1e_4AA_vtuEXOcm-fxk43SBwf31bKQ1f2u_gQdUgUJCoDHiejlqu78FQ1YXxkTP_1MOMNqJ4NMV7B1EI2sIlOe08MeBD1frj-EvKwfLshpdrPgLpMJjZHnknOl-9aGIDDYYXsNkLbBb5YI3nyDX_m9_-YnzF0znJkvx4dweg7qWbfwhiYK_ZQD2s5OtjJNMGQpOsaEC2I8vd5xUJOsavCrKtAYIVJU8X5N6DHROAtNBrA9Wdt5dHPkNpd-2e9vNQ4gXoK6mv_jsO1fC6oma9uEU03xNEcUotvJUmMWNQjLG805_LKrC6e8XtbNooSPpk-g_07GLIvlnt_hUNCF3RCxzr9_9DhNPH05KsMur-lXsNiNOpQlZv96gQqkOG-OlNFlh3h23-F4fePEiLA059UPyAkZF-tL1Zlj78yRy90-SDPa5AF8DgwsTN6zxUg0lR4k3RbyR1Js6wpFa9WR-M59MdF-Zvcsr7O8qOlovOQVq0ml2T0ZH7SXrZm3yYLj01fSF5JM5aUEV7Xs0-KoAAA.webp",
+    "link": "https://www.coveo.com/blog/word2vec-explained/",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVz4wrKQMRWSrSDX44nZguoJGAhsRynrtU2Pcsfr2dgYnpdVfjiT3ka5K0sWw591c7Tsl5Y9uYzEVUjwwg30tOvJpIoVN_aUPOu55ChONPcSjAB6BPQF7iCFnRS5y3tTALIw&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQFnoECEwQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://www.coveo.com/blog/word2vec-explained/#:~:text=What%20Is%20Word2Vec%3F",
+       "title": "What Is Word2vec?"
+      },
+      {
+       "link": "https://www.coveo.com/blog/word2vec-explained/#:~:text=Does%20Word2vec%20Use%20One%20Hot%20Vector%20Encoding%3F",
+       "title": "Does Word2vec Use One Hot..."
+      },
+      {
+       "link": "https://www.coveo.com/blog/word2vec-explained/#:~:text=Word%20Embedding%20Vector%20Methodology",
+       "title": "Word Embedding Vector..."
+      }
+     ]
+    },
+    "snippet": "Word2vec provides a computationally fast (and comparatively cheap) method for delivering baseline word embeddings in a scalable way.",
+    "snippet_highlighted_words": [
+     "Word2vec provides a computationally fast (and comparatively cheap) method"
+    ],
+    "source": "Coveo",
+    "title": "Word2Vec Explained: What IT Leaders Need to Know ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "word2vec is not a singular algorithm, rather, it is a family of model architectures and optimizations that can be used to learn word ...",
+      "icon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAKwvd_nO8oPg1AOYA6ZnqAPQA_UDrUfIAJnQL_YEWSiWbv__lAfrQUPh6SqdqrrsMAD-9geyl3rJsPYubf-nsfjS7GCxlwUDi5BY9AWgmVytMC7hAj7i59H4gxkdQ5OgL2fHCNBG5efBL3ap2HM08wU9dlL9D1vPx2j_0BDjyY-P44VSClsIHzCL2Kn9CIbT3rcSmQ68XWG0pFC4a_3YBFXn2A74pizn1G58anXGELlxrnFteIiYYyv631cMKLPXNwqVh6LjWq4PWa4ew_4W8aKEO7OPv3_iZn1wfe_v05QysrY9hPaBQolqi2AAAAA.webp",
+      "source_info_link": "https://www.tensorflow.org/text/tutorials/word2vec"
+     }
+    },
+    "date": "Jul 19, 2024",
+    "displayed_link": "https://www.tensorflow.org › text › tutorials › word2vec",
+    "favicon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAKwvd_nO8oPg1AOYA6ZnqAPQA_UDrUfIAJnQL_YEWSiWbv__lAfrQUPh6SqdqrrsMAD-9geyl3rJsPYubf-nsfjS7GCxlwUDi5BY9AWgmVytMC7hAj7i59H4gxkdQ5OgL2fHCNBG5efBL3ap2HM08wU9dlL9D1vPx2j_0BDjyY-P44VSClsIHzCL2Kn9CIbT3rcSmQ68XWG0pFC4a_3YBFXn2A74pizn1G58anXGELlxrnFteIiYYyv631cMKLPXNwqVh6LjWq4PWa4ew_4W8aKEO7OPv3_iZn1wfe_v05QysrY9hPaBQolqi2AAAAA.webp",
+    "link": "https://www.tensorflow.org/text/tutorials/word2vec",
+    "position": 8,
+    "read_more_link": "https://www.tensorflow.org/text/tutorials/word2vec#:~:text=word2vec%20is%20not%20a%20singular,word%20embeddings%20from%20large%20datasets.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVLpfZhlOEBhsca-mKttbOn0l1x-umDs9dV9u7GmSFlfAI3Y9XHfREgh16OVGKdlv48UsOn0sIPVIURwCRi_0ORXh0JEB-rI-dnheBHoakeysGnbK8EfIRyXGfpCt-ZLuOzKStSkg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQFnoECEAQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://www.tensorflow.org/text/tutorials/word2vec#:~:text=Setup,-import%20io%20import%20re%20import",
+       "title": "Setup"
+      },
+      {
+       "link": "https://www.tensorflow.org/text/tutorials/word2vec#:~:text=Prepare%20training%20data%20for%20word2vec,-With%20an%20understanding%20of%20how",
+       "title": "Prepare Training Data For..."
+      },
+      {
+       "link": "https://www.tensorflow.org/text/tutorials/word2vec#:~:text=Model%20and%20training,-The%20word2vec%20model%20can%20be",
+       "title": "Model And Training"
+      }
+     ]
+    },
+    "snippet": "word2vec is not a singular algorithm, rather, it is a family of model architectures and optimizations that can be used to learn word ...",
+    "snippet_highlighted_words": [
+     "word2vec"
+    ],
+    "source": "TensorFlow",
+    "title": "word2vec | Text"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=10&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8NMDegQINRAW",
+   "other_pages": {
+    "10": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=90&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8tMDegQINRAU",
+    "2": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=10&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8tMDegQINRAE",
+    "3": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=20&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8tMDegQINRAG",
+    "4": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=30&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8tMDegQINRAI",
+    "5": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=40&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8tMDegQINRAK",
+    "6": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=50&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8tMDegQINRAM",
+    "7": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=60&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8tMDegQINRAO",
+    "8": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=70&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8tMDegQINRAQ",
+    "9": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&sca_esv=a3e7c45b0e9db7ae&ei=gd-vas_pNr-liLMP7Ja6sQk&start=80&sa=N&sstk=AS6-VmJlWZdRX8e1WMxVysplxMjkdxkdTQKM7KNNVEMMR84z_2u-qRqv_WwZ-1yg-rD2ydjJm8gHDNrUgNO40Hl4UhsYTDHaK5Cmpg&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ8tMDegQINRAS"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9XVkJaek53VW14UWRGZzNNVmN4VDJkTk5YZDZVRmt0ZEZwTlEwcFBOemd0ZDBSUUxVRlZTRTFpTVVKbGIyY3plRVZVTVdJdGRuSnFZMFpvYTJnMlYyRllSMWR4WlZSYWNuVjRjelJEZGtsMVNVMTNOVlJHWlhSeVFSSVhaMlF0ZG1GelgzQk9jaTFzYVV4TlVEZEtZVFp6VVdzYUlrRkVjM0k1WmxKWVgxVmplR3RvUkZnMVRFaEhXRjlsWkVWVWRGWmhWVmc0VG5jIiwiZmN2IjoiMyIsImVpIjoiZ2QtdmFzX3BOci1saUxNUDdKYTZzUWsiLCJxYyI6IkNpdHBiblJ5YjJSMVkyVmtJSGR2Y21ReWRtVmpJR1Z0WW1Wa1pHbHVaM01nWW1GelpXUWdiV1YwYUc5a0VBQjlzaGd3UHciLCJxdWVzdGlvbiI6IklzIFdvcmQyVmVjIGFuIGVtYmVkZGluZyBtb2RlbD8iLCJsayI6IkdoNXBjeUIzYjNKa01uWmxZeUJoYmlCbGJXSmxaR1JwYm1jZ2JXOWtaV3ciLCJicyI6ImM0V09zUXJDTUJSRmNRMkl6aG4wS2lxNFpoWktGWkZPZ29pZDAtWnBBMjBDVGJUNDk2WklMWUxnLU9DOGN5N2JzV25pa05wYWlRdmxrQVpVWmFTVU5qZFVWbEVaQ2ZDSmRtaGE1UEVUWVJ1MlRndnBJV3VDTHdqS05zWnBSUTcyaXJ0cndhNFFpUkVmZmx5NU5ZNGQyQ3d0bmdpTjdmNTBSa2JlVXgwOElkUl96VG1hTjVSUjdiLWd6c2FPYkJtSEJlM2RUM1J3WHBkbG1FRUsyaUJPSXJIaUNfa1hsSG84ZUFFIiwiaWQiOiJmY19nZC12YXNfcE5yLWxpTE1QN0phNnNRa181In0=",
+    "page_token": "5rmFbnicHdBRbtowGABg7TJ9LE5omEBCU1OSwlos2fEfJ3mZHLvBENtxwSOBt91lp9ppKu07wvfnrzm6_t-3qw7BX1az2TiOj4dhOJiPRznYmbjcnJxJYUwrZL9afF9EPzq5zn7v0pfPXUrA-3JDUYFQAib9qSIyB6sJtsoRvnwTm6agp-eEO9WVme4JV32N0B3HkdvbZCvQ9FqCD_VdRnKjR4hKx6LlVMVhx2FZFScVs9jvmwpfGk615OZcx0n6DjmUNpkKkztABsleP5Vo8m2fe-Zo9wEQyb6pYZsu9kd0a-P8TF9LwUwT2NY42as3AK8b15TM0l1xkiPhhyfg-lNUKs20cs1LFNcV7mSW3N755FkWEYy8xg5TMQ1HAvQuT8YCM1dWYdtu8bWdU854CC2fkLJhI7IERI5TQh46eV3PH_5_rn91Nqz8eTh8AR3jhFg",
+    "question": "Is Word2Vec an embedding model?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5rmFbnicHdBRbtowGABg7TJ9LE5omEBCU1OSwlos2fEfJ3mZHLvBENtxwSOBt91lp9ppKu07wvfnrzm6_t-3qw7BX1az2TiOj4dhOJiPRznYmbjcnJxJYUwrZL9afF9EPzq5zn7v0pfPXUrA-3JDUYFQAib9qSIyB6sJtsoRvnwTm6agp-eEO9WVme4JV32N0B3HkdvbZCvQ9FqCD_VdRnKjR4hKx6LlVMVhx2FZFScVs9jvmwpfGk615OZcx0n6DjmUNpkKkztABsleP5Vo8m2fe-Zo9wEQyb6pYZsu9kd0a-P8TF9LwUwT2NY42as3AK8b15TM0l1xkiPhhyfg-lNUKs20cs1LFNcV7mSW3N755FkWEYy8xg5TMQ1HAvQuT8YCM1dWYdtu8bWdU854CC2fkLJhI7IERI5TQh46eV3PH_5_rn91Nqz8eTh8AR3jhFg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9XVkJaek53VW14UWRGZzNNVmN4VDJkTk5YZDZVRmt0ZEZwTlEwcFBOemd0ZDBSUUxVRlZTRTFpTVVKbGIyY3plRVZVTVdJdGRuSnFZMFpvYTJnMlYyRllSMWR4WlZSYWNuVjRjelJEZGtsMVNVMTNOVlJHWlhSeVFSSVhaMlF0ZG1GelgzQk9jaTFzYVV4TlVEZEtZVFp6VVdzYUlrRkVjM0k1WmxKWVgxVmplR3RvUkZnMVRFaEhXRjlsWkVWVWRGWmhWVmc0VG5jIiwiZmN2IjoiMyIsImVpIjoiZ2QtdmFzX3BOci1saUxNUDdKYTZzUWsiLCJxYyI6IkNpdHBiblJ5YjJSMVkyVmtJSGR2Y21ReWRtVmpJR1Z0WW1Wa1pHbHVaM01nWW1GelpXUWdiV1YwYUc5a0VBQjlzaGd3UHciLCJxdWVzdGlvbiI6IklzIFdvcmQyVmVjIGFuIGVtYmVkZGluZyBtb2RlbD8iLCJsayI6IkdoNXBjeUIzYjNKa01uWmxZeUJoYmlCbGJXSmxaR1JwYm1jZ2JXOWtaV3ciLCJicyI6ImM0V09zUXJDTUJSRmNRMkl6aG4wS2lxNFpoWktGWkZPZ29pZDAtWnBBMjBDVGJUNDk2WklMWUxnLU9DOGN5N2JzV25pa05wYWlRdmxrQVpVWmFTVU5qZFVWbEVaQ2ZDSmRtaGE1UEVUWVJ1MlRndnBJV3VDTHdqS05zWnBSUTcyaXJ0cndhNFFpUkVmZmx5NU5ZNGQyQ3d0bmdpTjdmNTBSa2JlVXgwOElkUl96VG1hTjVSUjdiLWd6c2FPYkJtSEJlM2RUM1J3WHBkbG1FRUsyaUJPSXJIaUNfa1hsSG84ZUFFIiwiaWQiOiJmY19nZC12YXNfcE5yLWxpTE1QN0phNnNRa181In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9XVkJaek53VW14UWRGZzNNVmN4VDJkTk5YZDZVRmt0ZEZwTlEwcFBOemd0ZDBSUUxVRlZTRTFpTVVKbGIyY3plRVZVTVdJdGRuSnFZMFpvYTJnMlYyRllSMWR4WlZSYWNuVjRjelJEZGtsMVNVMTNOVlJHWlhSeVFSSVhaMlF0ZG1GelgzQk9jaTFzYVV4TlVEZEtZVFp6VVdzYUlrRkVjM0k1WmxKWVgxVmplR3RvUkZnMVRFaEhXRjlsWkVWVWRGWmhWVmc0VG5jIiwiZmN2IjoiMyIsImVpIjoiZ2QtdmFzX3BOci1saUxNUDdKYTZzUWsiLCJxYyI6IkNpdHBiblJ5YjJSMVkyVmtJSGR2Y21ReWRtVmpJR1Z0WW1Wa1pHbHVaM01nWW1GelpXUWdiV1YwYUc5a0VBQjlzaGd3UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBkb3duc2lkZXMgb2YgdXNpbmcgV29yZDJWZWM/IiwibGsiOiJHZzEzYjNKa01uWmxZeUJqYjI1eiIsImJzIjoiYzRXT3NRckNNQlJGY1EySXpobjBLaXE0WmhaS0ZaRk9nb2lkMC1acEEyMENUYlQ0OTZaSUxZTGctT0M4Y3k3YnNXbmlrTnBhaVF2bGtBWlVaYVNVTmpkVVZsRVpDZkNKZG1oYTVQRVRZUnUyVGd2cElXdUNMd2pLTnNacFJRNzJpcnRyd2E0UWlSRWZmbHk1Tlk0ZDJDd3RuZ2lON2Y1MFJrYmVVeDA4SWRSX3pUbWFONVJSN2ItZ3pzYU9iQm1IQmUzZFQzUndYcGRsbUVFSzJpQk9JckhpQ19rWGxIbzhlQUUiLCJpZCI6ImZjX2dkLXZhc19wTnItbGlMTVA3SmE2c1FrXzUifQ==",
+    "page_token": "4OudcHicHdBdboIwAADg7DI-zhbULSZmGULxt47SFujLgq0IUqETFPFtd9mpdpol-47wff_ooip_n25525pmOhx2Xfd8rOujPjzL-jxMm76SQ5lqvU9lOZ28TOBbJmfedenMv5ZOwIzhLgEhdFzi5nPm6nUKecP9ZCSRaASQUFBeSOQU3NeYlsgXbAVZDz8oxRsBkL2Ll3bo5hPh1yOCjKeYWR9KCKUFK-EJQX21FVxDzt_bUCNblPoUgjxJIO8U4H7qE8OspRWVq5g-cHxAThXEziSxNUht1u8QvuEYNQqt6G5BFqriIxEZTixEY3Cv9wAXe86jbQ8TjNA4iFri5aoSc2glMc6kN-430d1QDwYYmBxXmKT3uggYeciTPjNg2g3jF1XmmTjlVwxegfIxCAtookp5ckHGQTDI5G1mD_4_Z5_ZuZ2aS338A4zggHE",
+    "question": "What are the downsides of using Word2Vec?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4OudcHicHdBdboIwAADg7DI-zhbULSZmGULxt47SFujLgq0IUqETFPFtd9mpdpol-47wff_ooip_n25525pmOhx2Xfd8rOujPjzL-jxMm76SQ5lqvU9lOZ28TOBbJmfedenMv5ZOwIzhLgEhdFzi5nPm6nUKecP9ZCSRaASQUFBeSOQU3NeYlsgXbAVZDz8oxRsBkL2Ll3bo5hPh1yOCjKeYWR9KCKUFK-EJQX21FVxDzt_bUCNblPoUgjxJIO8U4H7qE8OspRWVq5g-cHxAThXEziSxNUht1u8QvuEYNQqt6G5BFqriIxEZTixEY3Cv9wAXe86jbQ8TjNA4iFri5aoSc2glMc6kN-430d1QDwYYmBxXmKT3uggYeciTPjNg2g3jF1XmmTjlVwxegfIxCAtookp5ckHGQTDI5G1mD_4_Z5_ZuZ2aS338A4zggHE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9XVkJaek53VW14UWRGZzNNVmN4VDJkTk5YZDZVRmt0ZEZwTlEwcFBOemd0ZDBSUUxVRlZTRTFpTVVKbGIyY3plRVZVTVdJdGRuSnFZMFpvYTJnMlYyRllSMWR4WlZSYWNuVjRjelJEZGtsMVNVMTNOVlJHWlhSeVFSSVhaMlF0ZG1GelgzQk9jaTFzYVV4TlVEZEtZVFp6VVdzYUlrRkVjM0k1WmxKWVgxVmplR3RvUkZnMVRFaEhXRjlsWkVWVWRGWmhWVmc0VG5jIiwiZmN2IjoiMyIsImVpIjoiZ2QtdmFzX3BOci1saUxNUDdKYTZzUWsiLCJxYyI6IkNpdHBiblJ5YjJSMVkyVmtJSGR2Y21ReWRtVmpJR1Z0WW1Wa1pHbHVaM01nWW1GelpXUWdiV1YwYUc5a0VBQjlzaGd3UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBkb3duc2lkZXMgb2YgdXNpbmcgV29yZDJWZWM%2FIiwibGsiOiJHZzEzYjNKa01uWmxZeUJqYjI1eiIsImJzIjoiYzRXT3NRckNNQlJGY1EySXpobjBLaXE0WmhaS0ZaRk9nb2lkMC1acEEyMENUYlQ0OTZaSUxZTGctT0M4Y3k3YnNXbmlrTnBhaVF2bGtBWlVaYVNVTmpkVVZsRVpDZkNKZG1oYTVQRVRZUnUyVGd2cElXdUNMd2pLTnNacFJRNzJpcnRyd2E0UWlSRWZmbHk1Tlk0ZDJDd3RuZ2lON2Y1MFJrYmVVeDA4SWRSX3pUbWFONVJSN2ItZ3pzYU9iQm1IQmUzZFQzUndYcGRsbUVFSzJpQk9JckhpQ19rWGxIbzhlQUUiLCJpZCI6ImZjX2dkLXZhc19wTnItbGlMTVA3SmE2c1FrXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9XVkJaek53VW14UWRGZzNNVmN4VDJkTk5YZDZVRmt0ZEZwTlEwcFBOemd0ZDBSUUxVRlZTRTFpTVVKbGIyY3plRVZVTVdJdGRuSnFZMFpvYTJnMlYyRllSMWR4WlZSYWNuVjRjelJEZGtsMVNVMTNOVlJHWlhSeVFSSVhaMlF0ZG1GelgzQk9jaTFzYVV4TlVEZEtZVFp6VVdzYUlrRkVjM0k1WmxKWVgxVmplR3RvUkZnMVRFaEhXRjlsWkVWVWRGWmhWVmc0VG5jIiwiZmN2IjoiMyIsImVpIjoiZ2QtdmFzX3BOci1saUxNUDdKYTZzUWsiLCJxYyI6IkNpdHBiblJ5YjJSMVkyVmtJSGR2Y21ReWRtVmpJR1Z0WW1Wa1pHbHVaM01nWW1GelpXUWdiV1YwYUc5a0VBQjlzaGd3UHciLCJxdWVzdGlvbiI6IldoeSBpcyBCRVJUIGJldHRlciB0aGFuIFdvcmQyVmVjPyIsImxrIjoiR2lCM2FIa2dhWE1nWW1WeWRDQmlaWFIwWlhJZ2RHaGhiaUIzYjNKa01uWmxZdyIsImJzIjoiYzRXT3NRckNNQlJGY1EySXpobjBLaXE0WmhaS0ZaRk9nb2lkMC1acEEyMENUYlQ0OTZaSUxZTGctT0M4Y3k3YnNXbmlrTnBhaVF2bGtBWlVaYVNVTmpkVVZsRVpDZkNKZG1oYTVQRVRZUnUyVGd2cElXdUNMd2pLTnNacFJRNzJpcnRyd2E0UWlSRWZmbHk1Tlk0ZDJDd3RuZ2lON2Y1MFJrYmVVeDA4SWRSX3pUbWFONVJSN2ItZ3pzYU9iQm1IQmUzZFQzUndYcGRsbUVFSzJpQk9JckhpQ19rWGxIbzhlQUUiLCJpZCI6ImZjX2dkLXZhc19wTnItbGlMTVA3SmE2c1FrXzUifQ==",
+    "page_token": "i0bS1HicHdBfbpswHABg7TJ9bOzStCJSVKmNE5KBkcF_kt9LBSaEYAPOwoqTt91lp9ppNu0En_T9-m3Pvfnz7asZR3ddzGbTND2ehuFkj4966GbF9dbrmS6sLQttFi-vL_it1kvyc_v-cdm-M-GcXGWIr2CgorkcW7hzEzoe0FEYvKJkjJgSwYFTXq5lHAvqK9G0R1V14oypxJaVyOdlBD1sKEiZjKlsvqfKImoyUZo1L4y55wTd8v3O5ySEYk-9UKOHSG5j5a1UOAV1nSiSz_HeJVm3tqUiU7UJG9baAiywymb08LSWemVxttm5XM1REkFd8gRLw3yq5CWX4RxsEiQbGZCm6uEDPx32tNZkfvvnOE4wo8g1tKdZ4YczE9ldt7YTIsSCsxtvGaJYxqD0cxaJICUQANpdDhY8TA-1_loGD_8_l591Ny7cj-H0F9ulg1c",
+    "question": "Why is BERT better than Word2Vec?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=i0bS1HicHdBfbpswHABg7TJ9bOzStCJSVKmNE5KBkcF_kt9LBSaEYAPOwoqTt91lp9ppNu0En_T9-m3Pvfnz7asZR3ddzGbTND2ehuFkj4966GbF9dbrmS6sLQttFi-vL_it1kvyc_v-cdm-M-GcXGWIr2CgorkcW7hzEzoe0FEYvKJkjJgSwYFTXq5lHAvqK9G0R1V14oypxJaVyOdlBD1sKEiZjKlsvqfKImoyUZo1L4y55wTd8v3O5ySEYk-9UKOHSG5j5a1UOAV1nSiSz_HeJVm3tqUiU7UJG9baAiywymb08LSWemVxttm5XM1REkFd8gRLw3yq5CWX4RxsEiQbGZCm6uEDPx32tNZkfvvnOE4wo8g1tKdZ4YczE9ldt7YTIsSCsxtvGaJYxqD0cxaJICUQANpdDhY8TA-1_loGD_8_l591Ny7cj-H0F9ulg1c",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9XVkJaek53VW14UWRGZzNNVmN4VDJkTk5YZDZVRmt0ZEZwTlEwcFBOemd0ZDBSUUxVRlZTRTFpTVVKbGIyY3plRVZVTVdJdGRuSnFZMFpvYTJnMlYyRllSMWR4WlZSYWNuVjRjelJEZGtsMVNVMTNOVlJHWlhSeVFSSVhaMlF0ZG1GelgzQk9jaTFzYVV4TlVEZEtZVFp6VVdzYUlrRkVjM0k1WmxKWVgxVmplR3RvUkZnMVRFaEhXRjlsWkVWVWRGWmhWVmc0VG5jIiwiZmN2IjoiMyIsImVpIjoiZ2QtdmFzX3BOci1saUxNUDdKYTZzUWsiLCJxYyI6IkNpdHBiblJ5YjJSMVkyVmtJSGR2Y21ReWRtVmpJR1Z0WW1Wa1pHbHVaM01nWW1GelpXUWdiV1YwYUc5a0VBQjlzaGd3UHciLCJxdWVzdGlvbiI6IldoeSBpcyBCRVJUIGJldHRlciB0aGFuIFdvcmQyVmVjPyIsImxrIjoiR2lCM2FIa2dhWE1nWW1WeWRDQmlaWFIwWlhJZ2RHaGhiaUIzYjNKa01uWmxZdyIsImJzIjoiYzRXT3NRckNNQlJGY1EySXpobjBLaXE0WmhaS0ZaRk9nb2lkMC1acEEyMENUYlQ0OTZaSUxZTGctT0M4Y3k3YnNXbmlrTnBhaVF2bGtBWlVaYVNVTmpkVVZsRVpDZkNKZG1oYTVQRVRZUnUyVGd2cElXdUNMd2pLTnNacFJRNzJpcnRyd2E0UWlSRWZmbHk1Tlk0ZDJDd3RuZ2lON2Y1MFJrYmVVeDA4SWRSX3pUbWFONVJSN2ItZ3pzYU9iQm1IQmUzZFQzUndYcGRsbUVFSzJpQk9JckhpQ19rWGxIbzhlQUUiLCJpZCI6ImZjX2dkLXZhc19wTnItbGlMTVA3SmE2c1FrXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9XVkJaek53VW14UWRGZzNNVmN4VDJkTk5YZDZVRmt0ZEZwTlEwcFBOemd0ZDBSUUxVRlZTRTFpTVVKbGIyY3plRVZVTVdJdGRuSnFZMFpvYTJnMlYyRllSMWR4WlZSYWNuVjRjelJEZGtsMVNVMTNOVlJHWlhSeVFSSVhaMlF0ZG1GelgzQk9jaTFzYVV4TlVEZEtZVFp6VVdzYUlrRkVjM0k1WmxKWVgxVmplR3RvUkZnMVRFaEhXRjlsWkVWVWRGWmhWVmc0VG5jIiwiZmN2IjoiMyIsImVpIjoiZ2QtdmFzX3BOci1saUxNUDdKYTZzUWsiLCJxYyI6IkNpdHBiblJ5YjJSMVkyVmtJSGR2Y21ReWRtVmpJR1Z0WW1Wa1pHbHVaM01nWW1GelpXUWdiV1YwYUc5a0VBQjlzaGd3UHciLCJxdWVzdGlvbiI6IkFyZSB3b3JkIGVtYmVkZGluZ3Mgc3RpbGwgdXNlZCBpbiBBST8iLCJsayI6IkdpUmhjbVVnZDI5eVpDQmxiV0psWkdScGJtZHpJSE4wYVd4c0lIVnpaV1FnYVc0Z1lXayIsImJzIjoiYzRXT3NRckNNQlJGY1EySXpobjBLaXE0WmhaS0ZaRk9nb2lkMC1acEEyMENUYlQ0OTZaSUxZTGctT0M4Y3k3YnNXbmlrTnBhaVF2bGtBWlVaYVNVTmpkVVZsRVpDZkNKZG1oYTVQRVRZUnUyVGd2cElXdUNMd2pLTnNacFJRNzJpcnRyd2E0UWlSRWZmbHk1Tlk0ZDJDd3RuZ2lON2Y1MFJrYmVVeDA4SWRSX3pUbWFONVJSN2ItZ3pzYU9iQm1IQmUzZFQzUndYcGRsbUVFSzJpQk9JckhpQ19rWGxIbzhlQUUiLCJpZCI6ImZjX2dkLXZhc19wTnItbGlMTVA3SmE2c1FrXzUifQ==",
+    "page_token": "VZUCIHicHdDbboIwGADg7GW81NbTFhOzRGlFIjUU_yK9WaCAqG3B6eRwt3fZU-1plux7hO_7R5_t9fflWT4e9X0xGjVNMzxV1UnnQ1WZUXLvrBqpROs0UdfF_HWO3wu1JF_b1fq2XQVQ18LhKLwEbUh0k9NSS-uZ0IhEWUEiSwtAzAXy1qeRuMfG08GBE388c-QknqbIi5mpsMCZDZHfQIeTTMOUIY_7mDOxYdvMQJP2MhYHfkxc7otr1eculVnEZDzOdqlpsehXsbxKJz16JNJVswPO4rHY5EI6ggQ9AAZlvfXepbcIytqHNgpxOWcIuxkRXU7QlPVZA3bbsom3ImVm5RqP4yMrFJl1u6itDwQHDNUls4wnbXUOgPfqog2g2lEX-tjTsk8QnaoNPQvBngpOk4PBUYBoB8GgUM_lZPD_ufwozGNRf1anP1KPgyA",
+    "question": "Are word embeddings still used in AI?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VZUCIHicHdDbboIwGADg7GW81NbTFhOzRGlFIjUU_yK9WaCAqG3B6eRwt3fZU-1plux7hO_7R5_t9fflWT4e9X0xGjVNMzxV1UnnQ1WZUXLvrBqpROs0UdfF_HWO3wu1JF_b1fq2XQVQ18LhKLwEbUh0k9NSS-uZ0IhEWUEiSwtAzAXy1qeRuMfG08GBE388c-QknqbIi5mpsMCZDZHfQIeTTMOUIY_7mDOxYdvMQJP2MhYHfkxc7otr1eculVnEZDzOdqlpsehXsbxKJz16JNJVswPO4rHY5EI6ggQ9AAZlvfXepbcIytqHNgpxOWcIuxkRXU7QlPVZA3bbsom3ImVm5RqP4yMrFJl1u6itDwQHDNUls4wnbXUOgPfqog2g2lEX-tjTsk8QnaoNPQvBngpOk4PBUYBoB8GgUM_lZPD_ufwozGNRf1anP1KPgyA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9XVkJaek53VW14UWRGZzNNVmN4VDJkTk5YZDZVRmt0ZEZwTlEwcFBOemd0ZDBSUUxVRlZTRTFpTVVKbGIyY3plRVZVTVdJdGRuSnFZMFpvYTJnMlYyRllSMWR4WlZSYWNuVjRjelJEZGtsMVNVMTNOVlJHWlhSeVFSSVhaMlF0ZG1GelgzQk9jaTFzYVV4TlVEZEtZVFp6VVdzYUlrRkVjM0k1WmxKWVgxVmplR3RvUkZnMVRFaEhXRjlsWkVWVWRGWmhWVmc0VG5jIiwiZmN2IjoiMyIsImVpIjoiZ2QtdmFzX3BOci1saUxNUDdKYTZzUWsiLCJxYyI6IkNpdHBiblJ5YjJSMVkyVmtJSGR2Y21ReWRtVmpJR1Z0WW1Wa1pHbHVaM01nWW1GelpXUWdiV1YwYUc5a0VBQjlzaGd3UHciLCJxdWVzdGlvbiI6IkFyZSB3b3JkIGVtYmVkZGluZ3Mgc3RpbGwgdXNlZCBpbiBBST8iLCJsayI6IkdpUmhjbVVnZDI5eVpDQmxiV0psWkdScGJtZHpJSE4wYVd4c0lIVnpaV1FnYVc0Z1lXayIsImJzIjoiYzRXT3NRckNNQlJGY1EySXpobjBLaXE0WmhaS0ZaRk9nb2lkMC1acEEyMENUYlQ0OTZaSUxZTGctT0M4Y3k3YnNXbmlrTnBhaVF2bGtBWlVaYVNVTmpkVVZsRVpDZkNKZG1oYTVQRVRZUnUyVGd2cElXdUNMd2pLTnNacFJRNzJpcnRyd2E0UWlSRWZmbHk1Tlk0ZDJDd3RuZ2lON2Y1MFJrYmVVeDA4SWRSX3pUbWFONVJSN2ItZ3pzYU9iQm1IQmUzZFQzUndYcGRsbUVFSzJpQk9JckhpQ19rWGxIbzhlQUUiLCJpZCI6ImZjX2dkLXZhc19wTnItbGlMTVA3SmE2c1FrXzUifQ%3D%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&q=Introduced+word2vec+embeddings+based+method+example&sa=X&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ1QJ6BAg3EAE",
+    "query": "Introduced word2vec embeddings based method example",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Introduced+word2vec+embeddings+based+method+example"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&q=Introduced+word2vec+embeddings+based+method+nlp&sa=X&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ1QJ6BAhBEAE",
+    "query": "Introduced word2vec embeddings based method nlp",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Introduced+word2vec+embeddings+based+method+nlp"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&q=Word2vec+paper&sa=X&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ1QJ6BAg7EAE",
+    "query": "Word2vec paper",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Word2vec+paper"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&q=Word+embedding+techniques&sa=X&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ1QJ6BAg_EAE",
+    "query": "Word embedding techniques",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Word+embedding+techniques"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&q=Word2Vec+in+NLP&sa=X&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ1QJ6BAg8EAE",
+    "query": "Word2Vec in NLP",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Word2Vec+in+NLP"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&q=Word2vec+Python&sa=X&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ1QJ6BAg6EAE",
+    "query": "Word2vec Python",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Word2vec+Python"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&q=Word2Vec+embeddings+visualization&sa=X&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ1QJ6BAg5EAE",
+    "query": "Word2Vec embeddings visualization",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Word2Vec+embeddings+visualization"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&q=Gensim+word2vec&sa=X&ved=2ahUKEwiPrs_hof2WAxW_EmIAHWyLLpYQ1QJ6BAg4EAE",
+    "query": "Gensim word2vec",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gensim+word2vec"
+   }
+  ],
+  "scholarly_articles": {
+   "articles": [
+    {
+     "author": "‎Farhan",
+     "highlighted_words": [
+      "embeddings",
+      "based"
+     ],
+     "link": "https://accesson.kr/jistap/v.12/3/36/45041",
+     "title": "… document retrieval using word embeddings-based …"
+    }
+   ],
+   "link": "https://scholar.google.com/scholar?q=introduced+word2vec+embeddings+based+method&hl=en&as_sdt=0&as_vis=1&oi=scholart",
+   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=en&q=introduced+word2vec+embeddings+based+method",
+   "title": "Scholarly articles for introduced word2vec embeddings based method"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "introduced word2vec embeddings based method",
+   "time_taken_displayed": 0.33,
+   "total_results": 128
+  },
+  "search_metadata": {
+   "created_at": "2026-09-20 13:28:33 UTC",
+   "google_url": "https://www.google.com/search?q=introduced+word2vec+embeddings+based+method&oq=introduced+word2vec+embeddings+based+method&sourceid=chrome&ie=UTF-8",
+   "id": "6aafdf814c437f9ae7045934",
+   "json_endpoint": "https://serpapi.com/searches/0-lfWHowoW8RO6Dea76ABRH8B5HVI4S60yXoasyFsFk/6aafdf814c437f9ae7045934.json",
+   "markdown_endpoint": "https://serpapi.com/searches/0-lfWHowoW8RO6Dea76ABRH8B5HVI4S60yXoasyFsFk/6aafdf814c437f9ae7045934.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/0-lfWHowoW8RO6Dea76ABRH8B5HVI4S60yXoasyFsFk/6aafdf814c437f9ae7045934.json_with_pixel_position",
+   "processed_at": "2026-09-20 13:28:33 UTC",
+   "raw_html_file": "https://serpapi.com/searches/0-lfWHowoW8RO6Dea76ABRH8B5HVI4S60yXoasyFsFk/6aafdf814c437f9ae7045934.html",
+   "status": "Success",
+   "total_time_taken": 0.53
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "introduced word2vec embeddings based method"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=90",
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=introduced+word2vec+embeddings+based+method&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}

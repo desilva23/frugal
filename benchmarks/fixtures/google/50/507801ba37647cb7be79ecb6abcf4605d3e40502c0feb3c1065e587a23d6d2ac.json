@@ -1,0 +1,521 @@
+{
+ "elapsed_ms": 1014.648,
+ "engine": "google",
+ "fetched_at": "2026-09-20T13:28:15.986086+00:00",
+ "frugal_cache_version": 1,
+ "key": "507801ba37647cb7be79ecb6abcf4605d3e40502c0feb3c1065e587a23d6d2ac",
+ "params": {
+  "num": 10,
+  "q": "interpreter lock python gil mutex"
+ },
+ "response": {
+  "ai_overview": {
+   "page_token": "GO4myXiczVXdcqpIEH6AfY71JjkCioKpok7NjKMS9SjmqIfcUDggkoBjAEVzt7f7HPtU-zQ7_KiQaLLnXGxtVw3DzDTdPd398f3xl-eun__-7c9VFG3CO46L47jqUOp4dpVQnzPDw5pwS-qFAVl9Dek2ILZrKWQVUN-uHHZKvUJCha_YrrJofdmZ1F7hcXe_ibTxPjhMRIArqQnFWJih_cQ87J9CzuDY4_n3epstqmHVXldlfzBvjsm039erNb5Wr44402cK4L8TrDkwme8Buq7EjvDnphIDKoC4YEkFTjrDs5aeHSMtPULOVWsw8zlJ1TU22sZrL26z3Tw_7avfMhewtIzTWACI0yghcD-_TUG0_C7He32QqZN2WfLs0fNOscalWEvixKVlh0VhAITOTorOmJlVKYxTpogD5B6FbQim1-Nm-emroPEMNHzpCkXR8Ew8VW6gd9kOZzmscXluEbBJ4FyyIulLECb9jL63eNpbPuqdjSwEk91gNzbWNT7U5MeZ2BWRxpEF0_OoadmWsTL4r-laqAkNvlWX5NsUSCQ8ISksImkMtouHwUp0X0F1UIXCEUYoKzp4VzHM1ki9cDH4kKuWPsiqV2hseNxEQOuUFGF-jijAE1AubX-c5LV7XLIefWWlKWqcvSbN_x5GmTgFZQajNBCV5opFjUyri0_7xXZRwaXfzNvW1nrn1_Y7xRIAEbvvMzhmS39rWQcacnCCAYR7MM8aKdtAxQTkAWPA_lD5Cp8CzEtSvEOSAlUDQ6BiZtOdqqxDnaRXs0CTZsh9dfAbxF1peJ25maN_8-u7IPAzECWiHfHypv2LsMGv-sOhLi34uNl6MfoSeKxPvlnzB7mOwGWYUH_xE4xD_ldAyvgI53x0HUj4cyClfAQ_4KP0_cxHSfMiehVIMAPSOz4aXuSjcqIQmBSB9DEf_TSQ0IdAyvrwIpDoZSBtrgLJid8CqcxH-DIfnYD0K3wEf5GPUlzZ2VQmp-2Tc5WkusLB9aSJdZgvzVrvxfL2k6W-t2UV_gCfktTSj-580_JuDde6g7X76GDdGmyD3tlW5UVx15EdbAKbPW88Sp5vNodoRdc3juvd-NvI3ld8L6AKb0pNG8m9R2voR_dDt9GIwvFoKTT7DUlUxfF82xwuANlu5YboN-o9Y-pbogc6M1mbNm0xksed_dJszerSsCE1v7-gvTAYTNrEtQdtsBODmSEbUVPfqa2t9uXVlVb8yDF-8BqvB3wzhLDvAVGYO2C0I6Hp4Ynqx2lgoTLaCw970jGFIa74AVFY4UUHfNMA0yYApZ3JBmUjZqPJCgMrITENO9wpZt2WiNhY8HbLWkimXfGd6LBR5Eq4DhThH3KKP_M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GO4myXiczVXdcqpIEH6AfY71JjkCioKpok7NjKMS9SjmqIfcUDggkoBjAEVzt7f7HPtU-zQ7_KiQaLLnXGxtVw3DzDTdPd398f3xl-eun__-7c9VFG3CO46L47jqUOp4dpVQnzPDw5pwS-qFAVl9Dek2ILZrKWQVUN-uHHZKvUJCha_YrrJofdmZ1F7hcXe_ibTxPjhMRIArqQnFWJih_cQ87J9CzuDY4_n3epstqmHVXldlfzBvjsm039erNb5Wr44402cK4L8TrDkwme8Buq7EjvDnphIDKoC4YEkFTjrDs5aeHSMtPULOVWsw8zlJ1TU22sZrL26z3Tw_7avfMhewtIzTWACI0yghcD-_TUG0_C7He32QqZN2WfLs0fNOscalWEvixKVlh0VhAITOTorOmJlVKYxTpogD5B6FbQim1-Nm-emroPEMNHzpCkXR8Ew8VW6gd9kOZzmscXluEbBJ4FyyIulLECb9jL63eNpbPuqdjSwEk91gNzbWNT7U5MeZ2BWRxpEF0_OoadmWsTL4r-laqAkNvlWX5NsUSCQ8ISksImkMtouHwUp0X0F1UIXCEUYoKzp4VzHM1ki9cDH4kKuWPsiqV2hseNxEQOuUFGF-jijAE1AubX-c5LV7XLIefWWlKWqcvSbN_x5GmTgFZQajNBCV5opFjUyri0_7xXZRwaXfzNvW1nrn1_Y7xRIAEbvvMzhmS39rWQcacnCCAYR7MM8aKdtAxQTkAWPA_lD5Cp8CzEtSvEOSAlUDQ6BiZtOdqqxDnaRXs0CTZsh9dfAbxF1peJ25maN_8-u7IPAzECWiHfHypv2LsMGv-sOhLi34uNl6MfoSeKxPvlnzB7mOwGWYUH_xE4xD_ldAyvgI53x0HUj4cyClfAQ_4KP0_cxHSfMiehVIMAPSOz4aXuSjcqIQmBSB9DEf_TSQ0IdAyvrwIpDoZSBtrgLJid8CqcxH-DIfnYD0K3wEf5GPUlzZ2VQmp-2Tc5WkusLB9aSJdZgvzVrvxfL2k6W-t2UV_gCfktTSj-580_JuDde6g7X76GDdGmyD3tlW5UVx15EdbAKbPW88Sp5vNodoRdc3juvd-NvI3ld8L6AKb0pNG8m9R2voR_dDt9GIwvFoKTT7DUlUxfF82xwuANlu5YboN-o9Y-pbogc6M1mbNm0xksed_dJszerSsCE1v7-gvTAYTNrEtQdtsBODmSEbUVPfqa2t9uXVlVb8yDF-8BqvB3wzhLDvAVGYO2C0I6Hp4Ynqx2lgoTLaCw970jGFIa74AVFY4UUHfNMA0yYApZ3JBmUjZqPJCgMrITENO9wpZt2WiNhY8HbLWkimXfGd6LBR5Eq4DhThH3KKP_M"
+  },
+  "inline_videos": [
+   {
+    "channel": "Real Python",
+    "date": "Oct 22, 2024",
+    "duration": "1:42",
+    "link": "https://realpython.com/videos/global-interpreter-lock-overview/",
+    "platform": "Real Python",
+    "position": 1,
+    "thumbnail": "https://serpapi.com/searches/6aafdf6f95a694791a5a3d95/images/57xtbSpjw7mN-BqAq6DgWz0QQd2FoZxfuAtNZ_nnsVY.jpeg",
+    "title": "Understanding Python's Global Interpreter Lock (Overview ..."
+   },
+   {
+    "channel": "Real Python",
+    "date": "Oct 24, 2024",
+    "duration": "13:04",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=yBX89xUmnyk&t=143",
+      "time": "02:23",
+      "title": "Stack"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=yBX89xUmnyk&t=187",
+      "time": "03:07",
+      "title": "Complex Process Management"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=yBX89xUmnyk&t=241",
+      "time": "04:01",
+      "title": "Time Slicing"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=yBX89xUmnyk&t=293",
+      "time": "04:53",
+      "title": "Trivial Concurrency"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=yBX89xUmnyk&t=320",
+      "time": "05:20",
+      "title": "Communication between Processes"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=yBX89xUmnyk&t=558",
+      "time": "09:18",
+      "title": "Io Bound Concurrency"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=yBX89xUmnyk&t=768",
+      "time": "12:48",
+      "title": "Race Conditions"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=yBX89xUmnyk",
+    "platform": "YouTube",
+    "position": 2,
+    "thumbnail": "https://serpapi.com/searches/6aafdf6f95a694791a5a3d95/images/0yyjX1FcohR2zEBr1OOow1VDFn-7WQlxITAH4xZfmrg.jpeg",
+    "title": "Python's Global Interpreter Lock (GIL): Concurrency ..."
+   },
+   {
+    "channel": "Server Academy",
+    "date": "5 days ago",
+    "duration": "14:58",
+    "link": "https://www.youtube.com/watch?v=hvagSQrjafU",
+    "platform": "YouTube",
+    "position": 3,
+    "thumbnail": "https://serpapi.com/searches/6aafdf6f95a694791a5a3d95/images/F6ci2rGHC9AvXxNhFAQPrJ8M7rFciP06Ddp1sRG4OhA.jpeg",
+    "title": "5 Things That Break When You Disable Python's GIL"
+   }
+  ],
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Global Interpreter Lock (GIL) is a mutex (mutual-exclusion lock) used in the CPython interpreter (the default and most widely used Python ...",
+      "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+      "source_info_link": "https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/"
+     }
+    },
+    "date": "Jun 9, 2026",
+    "displayed_link": "https://www.geeksforgeeks.org › python › what-is-the-...",
+    "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+    "link": "https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/",
+    "position": 1,
+    "read_more_link": "https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/#:~:text=Global%20Interpreter%20Lock%20(GIL)%20is,most%20widely%20used%20Python%20implementation).",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFfzHv7F30ym0Y1R4zKuYeTrkqwCXdJzKFw1C3GW1iyI1lMatYMlWN75wdtqp4q7U8S1SYgyQ3jzjCQcyXbqK9uhokGjhJ8s1xxIQPtErQElCkAlHVxw9XRUJfjMJfMFv6rj5lZ5MYNGH8ULbKIxnCReGU8sNvSrfAoaVfOIQcNjBrjwIzBfG2A&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQFnoECB4QAQ&uoh=1",
+    "snippet": "Global Interpreter Lock (GIL) is a mutex (mutual-exclusion lock) used in the CPython interpreter (the default and most widely used Python ...",
+    "snippet_highlighted_words": [
+     "Global Interpreter Lock (GIL"
+    ],
+    "source": "GeeksforGeeks",
+    "title": "What is the Python Global Interpreter Lock (GIL)"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "In CPython, the global interpreter lock, or GIL, is a mutex that prevents multiple native threads from executing Python bytecodes at once.",
+      "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3gHygc-fsiEAN48_ZkjaCdkpMe2AGy94HKNPAAC-85iZxzMA5J2_MHnW9dUZycyH4ZxK0V4d3rqotRL0F-X5eSnf_6MJ35o4rMlnqEShdDHWX_1wA7OQgG3hO4zmibj_jhQNAPoCceWxgASO-AoCYTKBYVEg-iBBCDr9_81UkPPM7LvR8BlT41XnWcwujhqDUHhB7LOQoUwCLm7mAXT47H9FxRUv78cGTLHq7T8XoIG81FoKaQXMWpeIhK52kaOMbZ26lt0DlZHQAAAA.webp",
+      "source_info_link": "https://stackoverflow.com/questions/1294382/what-is-the-global-interpreter-lock-gil-in-cpython"
+     }
+    },
+    "displayed_link": "8 answers · 17 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3gHygc-fsiEAN48_ZkjaCdkpMe2AGy94HKNPAAC-85iZxzMA5J2_MHnW9dUZycyH4ZxK0V4d3rqotRL0F-X5eSnf_6MJ35o4rMlnqEShdDHWX_1wA7OQgG3hO4zmibj_jhQNAPoCceWxgASO-AoCYTKBYVEg-iBBCDr9_81UkPPM7LvR8BlT41XnWcwujhqDUHhB7LOQoUwCLm7mAXT47H9FxRUv78cGTLHq7T8XoIG81FoKaQXMWpeIhK52kaOMbZ26lt0DlZHQAAAA.webp",
+    "link": "https://stackoverflow.com/questions/1294382/what-is-the-global-interpreter-lock-gil-in-cpython",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFeROEgs59gFlfotyQ8Yb4vj3mIsNXhiXkELvcPrQYW4UD5cHYykYowqwLNL5POXIG5WWRpVbXWSAnXRez8pK4RrhJhufBT_ACaP-oDrzBZScsMxfSe_PAETmyECY-X-ptUoVG9hUciJSv8Bx4AXU4tADSEv2aKpNjIIczipPp4S6rY74MogMb-aJ3uBYwoU8M2M&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQFnoECCgQAQ&uoh=1",
+    "sitelinks": {
+     "list": [
+      {
+       "answer_count": 4,
+       "date": "Sep 25, 2018",
+       "link": "https://stackoverflow.com/questions/52507601/whats-the-point-of-multithreading-in-python-if-the-gil-exists",
+       "title": "What's the point of multithreading in Python if the GIL ..."
+      },
+      {
+       "answer_count": 6,
+       "date": "Nov 5, 2008",
+       "link": "https://stackoverflow.com/questions/265687/why-the-global-interpreter-lock",
+       "title": "Why the Global Interpreter Lock? - python - Stack ..."
+      }
+     ]
+    },
+    "snippet": "What is a global interpreter lock and why is it an issue? A lot of noise has been made around removing the GIL from Python, and I'd like to understand ...",
+    "source": "Stack Overflow",
+    "title": "What is the global interpreter lock (GIL) in CPython?"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "To prevent race conditions within the interpreter's internal data structures, a single global mutex, known as the Global Interpreter Lock (GIL\n), ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/Python/comments/1pxxket/why_python_is_removing_the_gil_135_minutes_by/"
+     }
+    },
+    "displayed_link": "60+ comments · 8 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/Python/comments/1pxxket/why_python_is_removing_the_gil_135_minutes_by/",
+    "position": 3,
+    "read_more_link": "https://www.reddit.com/r/Python/comments/1pxxket/why_python_is_removing_the_gil_135_minutes_by/#:~:text=To%20prevent%20race%20conditions%20within,Lock%20(GIL)%2C%20was%20implemented%20(8%3A37).",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFaTO4uDEdRHWTR8YGXgIcd5EyZjSXv8mXKukSB2Ee9F_DcM8D-M4r-TnlcBFPThU4WkXQbE4F6xoxjPTeu5KXPu5E1qYl6FIOPmscITyOrZFNLLoE--Dv9reL1NdD4fxAGhaMl-2w7msY9ic3qkpSB5CJH7-26nMC7bmC7GxwWK-WsWvHLWVokbURT3QU1pO7eCN&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQFnoECCEQAQ&uoh=1",
+    "snippet": "To prevent race conditions within the interpreter's internal data structures, a single global mutex, known as the Global Interpreter Lock (GIL), ...",
+    "snippet_highlighted_words": [
+     "mutex",
+     "Interpreter Lock",
+     "GIL"
+    ],
+    "source": "Reddit · r/Python",
+    "title": "\"Why Python Is Removing The GIL\" (13.5 minutes by Core ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The GIL is technically a mutex. It lets only one thread have access to the Python interpreter at a time. I sometimes imagine it as a ...",
+      "icon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEwtFooIigoGAEAGglsALsVACaRyIqF_rSaH7noGMQuBfc5etEbuEhwgAD-93LZEvtsstCMAjkfEswDsZzRZUbjGhIFXYeXSoLHN3PBsld6GtvhfIKNzNO_Tbt1pnu8So5xiX6ful_f9TDfPJPKGfz_jXuH_AmIf_1PemQz_-zR7j3FybDH5gVD-5cOtx1bw1iA45rxO1__BzfkHeTsfzH8LxY8H_IVgfxkUvXHKNfTPQOmbDxVGWIvNonqax5TWj1_Rh_c_8-89fenXUAAAA.webp",
+      "source_info_link": "https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/"
+     }
+    },
+    "date": "Jul 29, 2025",
+    "displayed_link": "https://blog.jetbrains.com › PyCharm",
+    "favicon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEwtFooIigoGAEAGglsALsVACaRyIqF_rSaH7noGMQuBfc5etEbuEhwgAD-93LZEvtsstCMAjkfEswDsZzRZUbjGhIFXYeXSoLHN3PBsld6GtvhfIKNzNO_Tbt1pnu8So5xiX6ful_f9TDfPJPKGfz_jXuH_AmIf_1PemQz_-zR7j3FybDH5gVD-5cOtx1bw1iA45rxO1__BzfkHeTsfzH8LxY8H_IVgfxkUvXHKNfTPQOmbDxVGWIvNonqax5TWj1_Rh_c_8-89fenXUAAAA.webp",
+    "link": "https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/",
+    "position": 4,
+    "read_more_link": "https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/#:~:text=The%20GIL%20is%20technically%20a,a%20steering%20wheel%20for%20Python.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFTHQ2Id6ebQG0NIQntKzyNXqDuwUHq_ZA0ND0ZRvOIrlVUp4W3Nq7e_aD1ReQakpMgimfXWiovxNR1Ivb8gIv0nmVKwtoxZ_tB0lyEkQmIpTffU7L-u1enk2G-AX6DtXfzoX8QnIc6ajhlHtuBNVAhmsTSvKjIfn1JMaa1L4RQk_yROamQOOx6HUAd3uNl50SMjwBONaDJdxlw&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQFnoECDEQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/#what-is-pythons-global-interpreter-lock-gil",
+       "title": "What is Python's Global..."
+      },
+      {
+       "link": "https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/#multiprocessing-in-python",
+       "title": "Multiprocessing in Python"
+      },
+      {
+       "link": "https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/#removing-the-gil",
+       "title": "Removing the GIL"
+      }
+     ]
+    },
+    "snippet": "The GIL is technically a mutex. It lets only one thread have access to the Python interpreter at a time. I sometimes imagine it as a ...",
+    "snippet_highlighted_words": [
+     "The GIL is technically a mutex"
+    ],
+    "source": "The JetBrains Blog",
+    "title": "Faster Python: Unlocking the Python Global Interpreter Lock"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The Python Global Interpreter Lock or GIL, in simple words, is a mutex (or a lock) that allows only one thread to hold the control of the ...",
+      "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBwCdASocABwAPtEutFooIagoGAEAGgljAJ0MEaKwB5u_8B6MOaLUA_Uvqc-ir-qo7NPqqQ2KBDbz0Y36EeH2qwAAAP7r0Fr6mtwgrCxJZs61U-I4x06kpjx2bQhVtSSrBRJbLF1M9l_PukhUG_GKFk454rq5i5J5EXnBS-DZwYRXFqv7zE9ywtN7vbw25eb7XW8rmWv-0U3y_s_rS-oLb9rThfUPtfm3jwsPB8Rx3s56VzIKE-L7n6gX5_31_4_51Kj-UtbCyJPrFHqMS-gYleKczGHTqI6-UAeyMvNnuLiA8bCncYQ4KdzMWXasvKXr-EOeXa06MpJx3f7y2da4v8dsLaVfOy32UXI_3HYWyGGI8obfsF-1YB_zYTG2ZYuxby6xFjpkAA.webp",
+      "source_info_link": "https://realpython.com/python-gil/"
+     }
+    },
+    "date": "Mar 6, 2018",
+    "displayed_link": "https://realpython.com › python-gil",
+    "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBwCdASocABwAPtEutFooIagoGAEAGgljAJ0MEaKwB5u_8B6MOaLUA_Uvqc-ir-qo7NPqqQ2KBDbz0Y36EeH2qwAAAP7r0Fr6mtwgrCxJZs61U-I4x06kpjx2bQhVtSSrBRJbLF1M9l_PukhUG_GKFk454rq5i5J5EXnBS-DZwYRXFqv7zE9ywtN7vbw25eb7XW8rmWv-0U3y_s_rS-oLb9rThfUPtfm3jwsPB8Rx3s56VzIKE-L7n6gX5_31_4_51Kj-UtbCyJPrFHqMS-gYleKczGHTqI6-UAeyMvNnuLiA8bCncYQ4KdzMWXasvKXr-EOeXa06MpJx3f7y2da4v8dsLaVfOy32UXI_3HYWyGGI8obfsF-1YB_zYTG2ZYuxby6xFjpkAA.webp",
+    "link": "https://realpython.com/python-gil/",
+    "position": 5,
+    "read_more_link": "https://realpython.com/python-gil/#:~:text=The%20Python%20Global%20Interpreter%20Lock,control%20of%20the%20Python%20interpreter.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVODUROW7_eM7EQDXhfWhyXuYW-tzRlVMj81sEzic8UqTc8oUpq-O6QuLJbqJyTex5NTDfvp2gFCZHaYXmZsIEqYOCT8ABXm5npW5kcJBnQXgZLGeFJg&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQFnoECCAQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://realpython.com/python-gil/#what-problem-did-the-gil-solve-for-python",
+       "title": "What Problem Did the GIL..."
+      },
+      {
+       "link": "https://realpython.com/python-gil/#the-impact-on-multi-threaded-python-programs",
+       "title": "The Impact on Multi-Threaded..."
+      }
+     ]
+    },
+    "snippet": "The Python Global Interpreter Lock or GIL, in simple words, is a mutex (or a lock) that allows only one thread to hold the control of the ...",
+    "snippet_highlighted_words": [
+     "a mutex"
+    ],
+    "source": "Real Python",
+    "title": "What Is the Python Global Interpreter Lock (GIL)?"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "In CPython, the global interpreter lock, or GIL, is a mutex that protects access to Python objects, preventing multiple threads from executing Python ...",
+      "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASogACAAPtE-tFooIigoFAEAGglpABOY66msBQAhm_jie7on_u43Y8wznTq3o6RYivaXQwLqgtFvGxqSxD0AAP79L-I2CJh157_guzOImTEj4KETbf3LoXG53uwsqC7TNrPYvnj0JCbHaYHsiJ0dZxjZp00AIDh71pmydvV9rbfX7pBwD6xKTC28fi7cmmnaetDkFUKtNDh1oyUvgEJ5B0Jos2E3N5Wf9ywcn5v3_j66N4LrWwMgFUK8OJeK59_R9U8Iq0vdjaoGaiwCdWiWFqTkHXGL7cy9_twJalsMPdZeuuD4BKfDlkDiZPTQbYNs-KpL44LixNJqixiQZYn6Pg05yAzQrotV5msFHgGjybbpLCJP2Jxb24id-1ooSLAITw21MsGq7M_mh1A1SG77Y3rdqY4h760MO7-2OyFmK97IagzfP7hUwAAA.webp",
+      "source_info_link": "https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/gil/gil.md"
+     }
+    },
+    "displayed_link": "https://github.com › zpoint › CPython-Internals › blob",
+    "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASogACAAPtE-tFooIigoFAEAGglpABOY66msBQAhm_jie7on_u43Y8wznTq3o6RYivaXQwLqgtFvGxqSxD0AAP79L-I2CJh157_guzOImTEj4KETbf3LoXG53uwsqC7TNrPYvnj0JCbHaYHsiJ0dZxjZp00AIDh71pmydvV9rbfX7pBwD6xKTC28fi7cmmnaetDkFUKtNDh1oyUvgEJ5B0Jos2E3N5Wf9ywcn5v3_j66N4LrWwMgFUK8OJeK59_R9U8Iq0vdjaoGaiwCdWiWFqTkHXGL7cy9_twJalsMPdZeuuD4BKfDlkDiZPTQbYNs-KpL44LixNJqixiQZYn6Pg05yAzQrotV5msFHgGjybbpLCJP2Jxb24id-1ooSLAITw21MsGq7M_mh1A1SG77Y3rdqY4h760MO7-2OyFmK97IagzfP7hUwAAA.webp",
+    "link": "https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/gil/gil.md",
+    "position": 6,
+    "read_more_link": "https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/gil/gil.md#:~:text=In%20CPython%2C%20the%20global%20interpreter,executing%20Python%20bytecodes%20at%20once.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFaGmvA_WVmKRpN8XbbfnPqP5g5ofDpnHHFvdkvPd-vPE94ulS54Nzodv6_usefZOdyXgUQEIgsYGwBYGY7hisqhNnByawCXBNs23c3Zlw4dFj5oKQQ0NSy5XJ2wg7rIw4Rimswm5cyIbUzFc71H9pH74cU5Ws96gkHQjgjqBmwAgzQ&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQFnoECBwQAQ&uoh=1",
+    "snippet": "In CPython, the global interpreter lock, or GIL, is a mutex that protects access to Python objects, preventing multiple threads from executing Python ...",
+    "snippet_highlighted_words": [
+     "global interpreter lock, or GIL"
+    ],
+    "source": "GitHub",
+    "title": "CPython-Internals/Interpreter/gil/gil.md at master"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The Global Interpreter Lock (GIL) is a mutex implemented in CPython to synchronize access to Python objects. Its primary purpose is to allow ...",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+      "source_info_link": "https://medium.com/@AlexanderObregon/the-mechanics-of-pythons-global-interpreter-lock-gil-b04ba144d616"
+     }
+    },
+    "displayed_link": "1 year ago",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+    "link": "https://medium.com/@AlexanderObregon/the-mechanics-of-pythons-global-interpreter-lock-gil-b04ba144d616",
+    "position": 7,
+    "read_more_link": "https://medium.com/@AlexanderObregon/the-mechanics-of-pythons-global-interpreter-lock-gil-b04ba144d616#:~:text=The%20Global%20Interpreter%20Lock%20(GIL),Python%20bytecode%20at%20a%20time.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFWkgDjka4hJlqDZ6wnar3dyiic7dBqBLImNslsCgRPaMQEGKB1UXBajCH-gaJd71dwV95XQro4i5oHJES612xHHsAZT5Dh_fur0cyYXW3zuNJfzvOzD-7tE0AdjLpCS3UNPOE3by6K_2W-hdmryhPrtOQL6MafF13DOw-JlKPGw_KbdHDCIuyrhC5AWd33voCBUfDrLIjlnQqQ&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQFnoECFMQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://medium.com/@AlexanderObregon/the-mechanics-of-pythons-global-interpreter-lock-gil-b04ba144d616#dc38",
+       "title": "What Is the Global Interpreter..."
+      },
+      {
+       "link": "https://medium.com/@AlexanderObregon/the-mechanics-of-pythons-global-interpreter-lock-gil-b04ba144d616#0f3c",
+       "title": "How the GIL Affects Thread..."
+      }
+     ]
+    },
+    "snippet": "The Global Interpreter Lock (GIL) is a mutex implemented in CPython to synchronize access to Python objects. Its primary purpose is to allow ...",
+    "snippet_highlighted_words": [
+     "Global Interpreter Lock (GIL"
+    ],
+    "source": "Medium · Alexander Obregon",
+    "title": "The Mechanics of Python's Global Interpreter Lock (GIL)"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "A global interpreter lock (GIL) is a mutual-exclusion lock held by a programming language interpreter thread to avoid sharing code that is not thread-safe ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Global_interpreter_lock"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › Global_interpreter_lock",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Global_interpreter_lock",
+    "position": 8,
+    "read_more_link": "https://en.wikipedia.org/wiki/Global_interpreter_lock#:~:text=A%20global%20interpreter%20lock%20(GIL),not%20thread%2Dsafe%20with%20other%20threads.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVw3SiA3IhusfybbJLNljeLwso2Y0jf-wQi0v2dBnSQt7MQXztjdOkx2wDuA_g4SBvOR_oUQEP95-UrOZtsxPZG3pfboUC5165P3Raymc24GshXkL_B8Oc351n9JWd70M2tCCWoXKXZIk&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQFnoECFcQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://en.wikipedia.org/wiki/Global_interpreter_lock#Technical_background_concepts",
+       "title": "Technical background concepts"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Global_interpreter_lock#Advantages",
+       "title": "Advantages"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Global_interpreter_lock#Drawbacks",
+       "title": "Drawbacks"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Global_interpreter_lock#Examples",
+       "title": "Examples"
+      }
+     ]
+    },
+    "snippet": "A global interpreter lock (GIL) is a mutual-exclusion lock held by a programming language interpreter thread to avoid sharing code that is not thread-safe ...",
+    "snippet_highlighted_words": [
+     "mutual-exclusion lock held by a programming language interpreter thread"
+    ],
+    "source": "Wikipedia",
+    "title": "Global interpreter lock"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=10&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8NMDegQIQBAW",
+   "other_pages": {
+    "10": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=90&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8tMDegQIQBAU",
+    "2": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=10&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8tMDegQIQBAE",
+    "3": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=20&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8tMDegQIQBAG",
+    "4": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=30&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8tMDegQIQBAI",
+    "5": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=40&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8tMDegQIQBAK",
+    "6": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=50&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8tMDegQIQBAM",
+    "7": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=60&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8tMDegQIQBAO",
+    "8": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=70&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8tMDegQIQBAQ",
+    "9": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&ei=b9-vaoehEPGxptQPxryR4AE&start=80&sa=N&sstk=AS6-VmLv-Hc-vOLTLv1c5YcjM9TK78QO3UNS-PzEVy-vkcHdubcYNVMbP9CFy0sGHLtIvmMQB4jaJ11W2uZBpB18cFd6Xn-ha-W0XA&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ8tMDegQIQBAS"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVYUkxUMWRIVUdscGJqZEdVRFZTVldwNGNXRnRURkJ1Um1jdFdscGxUemcxVUVaM1VXUmhjVEY2U0ZwdmNtUTVVVXRRY2twaWVuRTJaMUEyTVZoU2JUbGhjSEZpTVhoSVR6ZE5VbUo0U1ZkUFpIQlVkRVZsTjJ0eFp4SVhZamt0ZG1GdlpXaEZVRWQ0Y0hSUlVIaHllVkkwUVVVYUlrRkVjM0k1WmxONVFuWlVjVVZZVTJKc2RUWXlWa2xKUjJ4M2IwRTNjRWxEUlZFIiwiZmN2IjoiMyIsImVpIjoiYjktdmFvZWhFUEd4cHRRUHhyeVI0QUUiLCJxYyI6IkNpRnBiblJsY25CeVpYUmxjaUJzYjJOcklIQjVkR2h2YmlCbmFXd2diWFYwWlhnUUFIMWxsQndfIiwicXVlc3Rpb24iOiJXaHkgaXMgUHl0aG9uIHJlbW92aW5nIEdJTD8iLCJsayI6IkdocDNhSGtnY0hsMGFHOXVJR2x6SUhKbGJXOTJhVzVuSUdkcGJBIiwiYnMiOiJjLU95NXBJT3o2aFV5Q3hXQ0tnc3ljalBVeWhLemMwdnk4eExWM0QzOUxFM2twR1NLZ2RLRjBEa2dLcmcwdW1aT1Z4QXpTNlpLVENkeG5xR0poRDVWTGptRktCMEFhWTBWSE40Um1JSnlGQ2dhb1djX09Sc2hjdzhxR0ZRbXlIU1FOVndhWWhoWExaY01pNzVxY1ZJVmh1aldDMHJKWjBDa2lfQWxBZWFKc0FJQUEiLCJpZCI6ImZjX2I5LXZhb2VoRVBHeHB0UVB4cnlSNEFFXzUifQ==",
+    "page_token": "XxxqCHicHdBRboIwAADQ7DJ-Cgi4aGKWVFuxYo2FFuRngSKCLbSZTHB_u8tOtdMs2TvC-_5RTSd_X9K67819aVnDMEyvWl_VZSp0a-X3ZycskStV5EIu569z560SK3gfwFoP4MSM4RtqxwGpkhvasRuyc441b30kng7OXWVKt-yzW7blnR7jdGcXEI8hJ4pJQzPXcAJxc1CoL2djwzq8PjLUHCInPnPoF11W043iFPrzyKacoAVMUqBLZ3EqkPbOitYx0uPJMfIihX-MMRCOSSnMZJJgTVoSkls9F5LDXAGPonJ_YGpfdDJCs50fplldzLimHASXANiMA090KiIQoW2DAQ3I85hkkbAXCXcQumxLHLJxEJI-8i_QMOZ5B7b4TFTtTirxWLmT_7HVe9X2S_Ohr38R3Xet",
+    "question": "Why is Python removing GIL?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XxxqCHicHdBRboIwAADQ7DJ-Cgi4aGKWVFuxYo2FFuRngSKCLbSZTHB_u8tOtdMs2TvC-_5RTSd_X9K67819aVnDMEyvWl_VZSp0a-X3ZycskStV5EIu569z560SK3gfwFoP4MSM4RtqxwGpkhvasRuyc441b30kng7OXWVKt-yzW7blnR7jdGcXEI8hJ4pJQzPXcAJxc1CoL2djwzq8PjLUHCInPnPoF11W043iFPrzyKacoAVMUqBLZ3EqkPbOitYx0uPJMfIihX-MMRCOSSnMZJJgTVoSkls9F5LDXAGPonJ_YGpfdDJCs50fplldzLimHASXANiMA090KiIQoW2DAQ3I85hkkbAXCXcQumxLHLJxEJI-8i_QMOZ5B7b4TFTtTirxWLmT_7HVe9X2S_Ohr38R3Xet",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVYUkxUMWRIVUdscGJqZEdVRFZTVldwNGNXRnRURkJ1Um1jdFdscGxUemcxVUVaM1VXUmhjVEY2U0ZwdmNtUTVVVXRRY2twaWVuRTJaMUEyTVZoU2JUbGhjSEZpTVhoSVR6ZE5VbUo0U1ZkUFpIQlVkRVZsTjJ0eFp4SVhZamt0ZG1GdlpXaEZVRWQ0Y0hSUlVIaHllVkkwUVVVYUlrRkVjM0k1WmxONVFuWlVjVVZZVTJKc2RUWXlWa2xKUjJ4M2IwRTNjRWxEUlZFIiwiZmN2IjoiMyIsImVpIjoiYjktdmFvZWhFUEd4cHRRUHhyeVI0QUUiLCJxYyI6IkNpRnBiblJsY25CeVpYUmxjaUJzYjJOcklIQjVkR2h2YmlCbmFXd2diWFYwWlhnUUFIMWxsQndfIiwicXVlc3Rpb24iOiJXaHkgaXMgUHl0aG9uIHJlbW92aW5nIEdJTD8iLCJsayI6IkdocDNhSGtnY0hsMGFHOXVJR2x6SUhKbGJXOTJhVzVuSUdkcGJBIiwiYnMiOiJjLU95NXBJT3o2aFV5Q3hXQ0tnc3ljalBVeWhLemMwdnk4eExWM0QzOUxFM2twR1NLZ2RLRjBEa2dLcmcwdW1aT1Z4QXpTNlpLVENkeG5xR0poRDVWTGptRktCMEFhWTBWSE40Um1JSnlGQ2dhb1djX09Sc2hjdzhxR0ZRbXlIU1FOVndhWWhoWExaY01pNzVxY1ZJVmh1aldDMHJKWjBDa2lfQWxBZWFKc0FJQUEiLCJpZCI6ImZjX2I5LXZhb2VoRVBHeHB0UVB4cnlSNEFFXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVYUkxUMWRIVUdscGJqZEdVRFZTVldwNGNXRnRURkJ1Um1jdFdscGxUemcxVUVaM1VXUmhjVEY2U0ZwdmNtUTVVVXRRY2twaWVuRTJaMUEyTVZoU2JUbGhjSEZpTVhoSVR6ZE5VbUo0U1ZkUFpIQlVkRVZsTjJ0eFp4SVhZamt0ZG1GdlpXaEZVRWQ0Y0hSUlVIaHllVkkwUVVVYUlrRkVjM0k1WmxONVFuWlVjVVZZVTJKc2RUWXlWa2xKUjJ4M2IwRTNjRWxEUlZFIiwiZmN2IjoiMyIsImVpIjoiYjktdmFvZWhFUEd4cHRRUHhyeVI0QUUiLCJxYyI6IkNpRnBiblJsY25CeVpYUmxjaUJzYjJOcklIQjVkR2h2YmlCbmFXd2diWFYwWlhnUUFIMWxsQndfIiwicXVlc3Rpb24iOiJEaWQgUHl0aG9uIDMuMTQgcmVtb3ZlIEdJTD8iLCJsayI6IkdocGthV1FnY0hsMGFHOXVJRE11TVRRZ2NtVnRiM1psSUdkcGJBIiwiYnMiOiJjLU95NXBJT3o2aFV5Q3hXQ0tnc3ljalBVeWhLemMwdnk4eExWM0QzOUxFM2twR1NLZ2RLRjBEa2dLcmcwdW1aT1Z4QXpTNlpLVENkeG5xR0poRDVWTGptRktCMEFhWTBWSE40Um1JSnlGQ2dhb1djX09Sc2hjdzhxR0ZRbXlIU1FOVndhWWhoWExaY01pNzVxY1ZJVmh1aldDMHJKWjBDa2lfQWxBZWFKc0FJQUEiLCJpZCI6ImZjX2I5LXZhb2VoRVBHeHB0UVB4cnlSNEFFXzUifQ==",
+    "page_token": "Nnw3NnicHZDdboIwGECzl_FyQlE2TcySipWfibPYD9KbpRQQpUI32Bje7V32VHuakT3Ayck53z_qXFe_d0nZdbpdTqd939-fmuak8nvZXKeiHWo5lUKpVMhqaT_Y5lMhV5u2x-umxwemNTjUiGL9wlBmS4u2jMCOuuFF1sqL1KIDJ-v3R9pkqEfCzQq4ZQMHMg-R7Lgr-1ypig-mDazUsmpvO0XeABokLPigis9Ewj1qQBm6MMTAgz3JvjLim9GWHsSVHFgCjnSgCuvQPB7BH7223Oh1XpdRzHSXImWHaiEkWugEmTg1HjvGWESQN39OeJkiaChgN3exwQDPRj4KN4Rszz4eO4Z9zKOxK4ALDRiq5gzxILT0jRLf47EyqEWwiDmeFPJzZU3-j61ei2u31O_N6Q_pZXfI",
+    "question": "Did Python 3.14 remove GIL?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Nnw3NnicHZDdboIwGECzl_FyQlE2TcySipWfibPYD9KbpRQQpUI32Bje7V32VHuakT3Ayck53z_qXFe_d0nZdbpdTqd939-fmuak8nvZXKeiHWo5lUKpVMhqaT_Y5lMhV5u2x-umxwemNTjUiGL9wlBmS4u2jMCOuuFF1sqL1KIDJ-v3R9pkqEfCzQq4ZQMHMg-R7Lgr-1ypig-mDazUsmpvO0XeABokLPigis9Ewj1qQBm6MMTAgz3JvjLim9GWHsSVHFgCjnSgCuvQPB7BH7223Oh1XpdRzHSXImWHaiEkWugEmTg1HjvGWESQN39OeJkiaChgN3exwQDPRj4KN4Rszz4eO4Z9zKOxK4ALDRiq5gzxILT0jRLf47EyqEWwiDmeFPJzZU3-j61ei2u31O_N6Q_pZXfI",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVYUkxUMWRIVUdscGJqZEdVRFZTVldwNGNXRnRURkJ1Um1jdFdscGxUemcxVUVaM1VXUmhjVEY2U0ZwdmNtUTVVVXRRY2twaWVuRTJaMUEyTVZoU2JUbGhjSEZpTVhoSVR6ZE5VbUo0U1ZkUFpIQlVkRVZsTjJ0eFp4SVhZamt0ZG1GdlpXaEZVRWQ0Y0hSUlVIaHllVkkwUVVVYUlrRkVjM0k1WmxONVFuWlVjVVZZVTJKc2RUWXlWa2xKUjJ4M2IwRTNjRWxEUlZFIiwiZmN2IjoiMyIsImVpIjoiYjktdmFvZWhFUEd4cHRRUHhyeVI0QUUiLCJxYyI6IkNpRnBiblJsY25CeVpYUmxjaUJzYjJOcklIQjVkR2h2YmlCbmFXd2diWFYwWlhnUUFIMWxsQndfIiwicXVlc3Rpb24iOiJEaWQgUHl0aG9uIDMuMTQgcmVtb3ZlIEdJTD8iLCJsayI6IkdocGthV1FnY0hsMGFHOXVJRE11TVRRZ2NtVnRiM1psSUdkcGJBIiwiYnMiOiJjLU95NXBJT3o2aFV5Q3hXQ0tnc3ljalBVeWhLemMwdnk4eExWM0QzOUxFM2twR1NLZ2RLRjBEa2dLcmcwdW1aT1Z4QXpTNlpLVENkeG5xR0poRDVWTGptRktCMEFhWTBWSE40Um1JSnlGQ2dhb1djX09Sc2hjdzhxR0ZRbXlIU1FOVndhWWhoWExaY01pNzVxY1ZJVmh1aldDMHJKWjBDa2lfQWxBZWFKc0FJQUEiLCJpZCI6ImZjX2I5LXZhb2VoRVBHeHB0UVB4cnlSNEFFXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVYUkxUMWRIVUdscGJqZEdVRFZTVldwNGNXRnRURkJ1Um1jdFdscGxUemcxVUVaM1VXUmhjVEY2U0ZwdmNtUTVVVXRRY2twaWVuRTJaMUEyTVZoU2JUbGhjSEZpTVhoSVR6ZE5VbUo0U1ZkUFpIQlVkRVZsTjJ0eFp4SVhZamt0ZG1GdlpXaEZVRWQ0Y0hSUlVIaHllVkkwUVVVYUlrRkVjM0k1WmxONVFuWlVjVVZZVTJKc2RUWXlWa2xKUjJ4M2IwRTNjRWxEUlZFIiwiZmN2IjoiMyIsImVpIjoiYjktdmFvZWhFUEd4cHRRUHhyeVI0QUUiLCJxYyI6IkNpRnBiblJsY25CeVpYUmxjaUJzYjJOcklIQjVkR2h2YmlCbmFXd2diWFYwWlhnUUFIMWxsQndfIiwicXVlc3Rpb24iOiJXaGF0IGlzIEdJTCBsb2NrIGluIFB5dGhvbj8iLCJsayI6IkdocDNhR0YwSUdseklHZHBiQ0JzYjJOcklHbHVJSEI1ZEdodmJnIiwiYnMiOiJjLU95NXBJT3o2aFV5Q3hXQ0tnc3ljalBVeWhLemMwdnk4eExWM0QzOUxFM2twR1NLZ2RLRjBEa2dLcmcwdW1aT1Z4QXpTNlpLVENkeG5xR0poRDVWTGptRktCMEFhWTBWSE40Um1JSnlGQ2dhb1djX09Sc2hjdzhxR0ZRbXlIU1FOVndhWWhoWExaY01pNzVxY1ZJVmh1aldDMHJKWjBDa2lfQWxBZWFKc0FJQUEiLCJpZCI6ImZjX2I5LXZhb2VoRVBHeHB0UVB4cnlSNEFFXzUifQ==",
+    "page_token": "9aIh9HicHdBRboIwAADQ7DJ-ChZ0zsQs66AgkRJb2kJ_FmgRlApkEpn-7S471U6zZO8I7_vHnLr29ylrxnG4bixrmqZ53fe1qeaqv1jF9d4pSxXGlIVqN6vn1eL1qLb-dYLv_QQPbBi4R-zUi23MvrwyhJfq3DDVESICtKDeYcQpPgtPmtghHQnIvQTNnhjdx5fB0WwZFY4GxJax5juXs4Vkxgh6xnnKJY_N-nEAOqOdzoq2sQlb3HAwABWsHzr0XWpIs-dolBnvkmB5Zu0glNe6FJDmYOpJAoSrFJ1yjgA2Q6I4pqXQacLfKAK75T6TTQl4TzgMqxDajENXdYZiH6HgFEES4nsiJE1THOUgyrUfTRjJQAplFy3hQrSPMnjxqwzC2VHdts7sf2z7cbyMm-Gzr_8Av6V3Lw",
+    "question": "What is GIL lock in Python?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9aIh9HicHdBRboIwAADQ7DJ-ChZ0zsQs66AgkRJb2kJ_FmgRlApkEpn-7S471U6zZO8I7_vHnLr29ylrxnG4bixrmqZ53fe1qeaqv1jF9d4pSxXGlIVqN6vn1eL1qLb-dYLv_QQPbBi4R-zUi23MvrwyhJfq3DDVESICtKDeYcQpPgtPmtghHQnIvQTNnhjdx5fB0WwZFY4GxJax5juXs4Vkxgh6xnnKJY_N-nEAOqOdzoq2sQlb3HAwABWsHzr0XWpIs-dolBnvkmB5Zu0glNe6FJDmYOpJAoSrFJ1yjgA2Q6I4pqXQacLfKAK75T6TTQl4TzgMqxDajENXdYZiH6HgFEES4nsiJE1THOUgyrUfTRjJQAplFy3hQrSPMnjxqwzC2VHdts7sf2z7cbyMm-Gzr_8Av6V3Lw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVYUkxUMWRIVUdscGJqZEdVRFZTVldwNGNXRnRURkJ1Um1jdFdscGxUemcxVUVaM1VXUmhjVEY2U0ZwdmNtUTVVVXRRY2twaWVuRTJaMUEyTVZoU2JUbGhjSEZpTVhoSVR6ZE5VbUo0U1ZkUFpIQlVkRVZsTjJ0eFp4SVhZamt0ZG1GdlpXaEZVRWQ0Y0hSUlVIaHllVkkwUVVVYUlrRkVjM0k1WmxONVFuWlVjVVZZVTJKc2RUWXlWa2xKUjJ4M2IwRTNjRWxEUlZFIiwiZmN2IjoiMyIsImVpIjoiYjktdmFvZWhFUEd4cHRRUHhyeVI0QUUiLCJxYyI6IkNpRnBiblJsY25CeVpYUmxjaUJzYjJOcklIQjVkR2h2YmlCbmFXd2diWFYwWlhnUUFIMWxsQndfIiwicXVlc3Rpb24iOiJXaGF0IGlzIEdJTCBsb2NrIGluIFB5dGhvbj8iLCJsayI6IkdocDNhR0YwSUdseklHZHBiQ0JzYjJOcklHbHVJSEI1ZEdodmJnIiwiYnMiOiJjLU95NXBJT3o2aFV5Q3hXQ0tnc3ljalBVeWhLemMwdnk4eExWM0QzOUxFM2twR1NLZ2RLRjBEa2dLcmcwdW1aT1Z4QXpTNlpLVENkeG5xR0poRDVWTGptRktCMEFhWTBWSE40Um1JSnlGQ2dhb1djX09Sc2hjdzhxR0ZRbXlIU1FOVndhWWhoWExaY01pNzVxY1ZJVmh1aldDMHJKWjBDa2lfQWxBZWFKc0FJQUEiLCJpZCI6ImZjX2I5LXZhb2VoRVBHeHB0UVB4cnlSNEFFXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVYUkxUMWRIVUdscGJqZEdVRFZTVldwNGNXRnRURkJ1Um1jdFdscGxUemcxVUVaM1VXUmhjVEY2U0ZwdmNtUTVVVXRRY2twaWVuRTJaMUEyTVZoU2JUbGhjSEZpTVhoSVR6ZE5VbUo0U1ZkUFpIQlVkRVZsTjJ0eFp4SVhZamt0ZG1GdlpXaEZVRWQ0Y0hSUlVIaHllVkkwUVVVYUlrRkVjM0k1WmxONVFuWlVjVVZZVTJKc2RUWXlWa2xKUjJ4M2IwRTNjRWxEUlZFIiwiZmN2IjoiMyIsImVpIjoiYjktdmFvZWhFUEd4cHRRUHhyeVI0QUUiLCJxYyI6IkNpRnBiblJsY25CeVpYUmxjaUJzYjJOcklIQjVkR2h2YmlCbmFXd2diWFYwWlhnUUFIMWxsQndfIiwicXVlc3Rpb24iOiJEb2VzIFB5dGhvbiAzLjEzIHJlbW92ZSBHSUw/IiwibGsiOiJHaHRrYjJWeklIQjVkR2h2YmlBekxqRXpJSEpsYlc5MlpTQm5hV3ciLCJicyI6ImMtT3k1cElPejZoVXlDeFdDS2dzeWNqUFV5aEt6YzB2eTh4TFYzRDM5TEUza3BHU0tnZEtGMERrZ0tyZzB1bVpPVnhBelM2WktUQ2R4bnFHSmhENVZMam1GS0IwQWFZMFZITjRSbUlKeUZDZ2FvV2NfT1JzaGN3OHFHRlFteUhTUU5Wd2FZaGhYTFpjTWk3NXFjVklWaHVqV0MwckpaMENraV9BbEFlYUpzQUlBQSIsImlkIjoiZmNfYjktdmFvZWhFUEd4cHRRUHhyeVI0QUVfNSJ9",
+    "page_token": "rF_fUXicHdBfboIwHADg7DI-DlrERROzCFKQSZ0t_PjzskAFUSp04ob6trvsVDvNlt3gy_f1LQ9t8_OQ1JeL6meaNgzD477r9rJ8FN1Jy_tbKzSRS1nkoplNnibouRJzpx8suxusbaQULJnOY5Tmrv9atNmEujKMmlQvJHgbl5oUkY-dk-Iy3A6U0HcwlMpt9JIiZdLl7h61C31DJGNYXtMjA-ZCVRAfNp6iGZmeIxvlZaxjdodDioldtplax6oP4hqHnjKFe-UxQMzuWcaMBQpO43FhQB2RacoJO8MReOCYCdd3Dpf0z6djkTSc4JW5TrK6wNAxsLzSs_QIrLFoJacOIe7Bt5hHb5s4Y4BWZoJ9Ujp1Ezk0h9DyOEfH0AMZScKDpGajSnzOjdH_2PytOl1m6tztfwGJkHUc",
+    "question": "Does Python 3.13 remove GIL?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rF_fUXicHdBfboIwHADg7DI-DlrERROzCFKQSZ0t_PjzskAFUSp04ob6trvsVDvNlt3gy_f1LQ9t8_OQ1JeL6meaNgzD477r9rJ8FN1Jy_tbKzSRS1nkoplNnibouRJzpx8suxusbaQULJnOY5Tmrv9atNmEujKMmlQvJHgbl5oUkY-dk-Iy3A6U0HcwlMpt9JIiZdLl7h61C31DJGNYXtMjA-ZCVRAfNp6iGZmeIxvlZaxjdodDioldtplax6oP4hqHnjKFe-UxQMzuWcaMBQpO43FhQB2RacoJO8MReOCYCdd3Dpf0z6djkTSc4JW5TrK6wNAxsLzSs_QIrLFoJacOIe7Bt5hHb5s4Y4BWZoJ9Ujp1Ezk0h9DyOEfH0AMZScKDpGajSnzOjdH_2PytOl1m6tztfwGJkHUc",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVYUkxUMWRIVUdscGJqZEdVRFZTVldwNGNXRnRURkJ1Um1jdFdscGxUemcxVUVaM1VXUmhjVEY2U0ZwdmNtUTVVVXRRY2twaWVuRTJaMUEyTVZoU2JUbGhjSEZpTVhoSVR6ZE5VbUo0U1ZkUFpIQlVkRVZsTjJ0eFp4SVhZamt0ZG1GdlpXaEZVRWQ0Y0hSUlVIaHllVkkwUVVVYUlrRkVjM0k1WmxONVFuWlVjVVZZVTJKc2RUWXlWa2xKUjJ4M2IwRTNjRWxEUlZFIiwiZmN2IjoiMyIsImVpIjoiYjktdmFvZWhFUEd4cHRRUHhyeVI0QUUiLCJxYyI6IkNpRnBiblJsY25CeVpYUmxjaUJzYjJOcklIQjVkR2h2YmlCbmFXd2diWFYwWlhnUUFIMWxsQndfIiwicXVlc3Rpb24iOiJEb2VzIFB5dGhvbiAzLjEzIHJlbW92ZSBHSUw%2FIiwibGsiOiJHaHRrYjJWeklIQjVkR2h2YmlBekxqRXpJSEpsYlc5MlpTQm5hV3ciLCJicyI6ImMtT3k1cElPejZoVXlDeFdDS2dzeWNqUFV5aEt6YzB2eTh4TFYzRDM5TEUza3BHU0tnZEtGMERrZ0tyZzB1bVpPVnhBelM2WktUQ2R4bnFHSmhENVZMam1GS0IwQWFZMFZITjRSbUlKeUZDZ2FvV2NfT1JzaGN3OHFHRlFteUhTUU5Wd2FZaGhYTFpjTWk3NXFjVklWaHVqV0MwckpaMENraV9BbEFlYUpzQUlBQSIsImlkIjoiZmNfYjktdmFvZWhFUEd4cHRRUHhyeVI0QUVfNSJ9",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&q=Global+interpreter+lock+python+gil+mutex&sa=X&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ1QJ6BAhIEAE",
+    "query": "Global interpreter lock python gil mutex",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Global+interpreter+lock+python+gil+mutex"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&q=Interpreter+lock+python+gil+mutex+example&sa=X&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ1QJ6BAhNEAE",
+    "query": "Interpreter lock python gil mutex example",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Interpreter+lock+python+gil+mutex+example"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&q=Python+GIL+removal&sa=X&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ1QJ6BAhMEAE",
+    "query": "Python GIL removal",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Python+GIL+removal"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&q=What+is+GIL+in+Python&sa=X&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ1QJ6BAhKEAE",
+    "query": "What is GIL in Python",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+GIL+in+Python"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&q=GIL+Python+multithreading&sa=X&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ1QJ6BAhLEAE",
+    "query": "GIL Python multithreading",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=GIL+Python+multithreading"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&q=What+is+Global+interpreter+lock&sa=X&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ1QJ6BAhJEAE",
+    "query": "What is Global interpreter lock",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+Global+interpreter+lock"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&q=Python+GIL+update&sa=X&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ1QJ6BAhGEAE",
+    "query": "Python GIL update",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Python+GIL+update"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnsvaV0ooLpyIluNSlXqIT7UvW_HAg:1789910895276&q=What+is+gil+in+programming&sa=X&ved=2ahUKEwjHlN7Yof2WAxXxmIkEHUZeBBwQ1QJ6BAhHEAE",
+    "query": "What is gil in programming",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+gil+in+programming"
+   }
+  ],
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "interpreter lock python gil mutex",
+   "time_taken_displayed": 0.27,
+   "total_results": 135
+  },
+  "search_metadata": {
+   "created_at": "2026-09-20 13:28:15 UTC",
+   "google_url": "https://www.google.com/search?q=interpreter+lock+python+gil+mutex&oq=interpreter+lock+python+gil+mutex&sourceid=chrome&ie=UTF-8",
+   "id": "6aafdf6f95a694791a5a3d95",
+   "json_endpoint": "https://serpapi.com/searches/4JAa2296AnF8eL9YDIC8C-yOcOR1hgzwCsW-POq1CuM/6aafdf6f95a694791a5a3d95.json",
+   "markdown_endpoint": "https://serpapi.com/searches/4JAa2296AnF8eL9YDIC8C-yOcOR1hgzwCsW-POq1CuM/6aafdf6f95a694791a5a3d95.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/4JAa2296AnF8eL9YDIC8C-yOcOR1hgzwCsW-POq1CuM/6aafdf6f95a694791a5a3d95.json_with_pixel_position",
+   "processed_at": "2026-09-20 13:28:15 UTC",
+   "raw_html_file": "https://serpapi.com/searches/4JAa2296AnF8eL9YDIC8C-yOcOR1hgzwCsW-POq1CuM/6aafdf6f95a694791a5a3d95.html",
+   "status": "Success",
+   "total_time_taken": 0.59
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "interpreter lock python gil mutex"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=90",
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=interpreter+lock+python+gil+mutex&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}

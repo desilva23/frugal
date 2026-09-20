@@ -34,8 +34,31 @@ def test_stopwords_are_dropped() -> None:
     assert tokenise("What is the price of a laptop?") == ("price", "laptop")
 
 
-def test_tokens_keep_their_order_without_duplicates() -> None:
-    assert tokenise("solar panel solar cell") == ("solar", "panel", "cell")
+def test_tokens_keep_their_order_and_their_repeats() -> None:
+    assert tokenise("solar panel solar cell") == ("solar", "panel", "solar", "cell")
+
+
+def test_a_reduplicated_phrase_survives_tokenising() -> None:
+    """Dropping a repeat destroys the phrase that is built out of one.
+
+    "sequence to sequence learning" came out as "sequence learning", so the
+    question about the paper that introduced it went looking for something
+    else -- and the planner lost a question the verbatim baseline answered.
+    """
+    assert tokenise("sequence to sequence learning") == (
+        "sequence",
+        "sequence",
+        "learning",
+    )
+    assert tokenise("end to end encryption") == ("end", "end", "encryption")
+
+
+def test_ranking_terms_still_collapses_a_repeat() -> None:
+    """Only the callers that rank or count need uniqueness, and they do it."""
+    from frugal.reformulate import _core_terms
+
+    core = _core_terms("sequence to sequence learning with neural networks", keep=3)
+    assert core.split().count("sequence") == 1
 
 
 def test_hyphenated_words_survive() -> None:

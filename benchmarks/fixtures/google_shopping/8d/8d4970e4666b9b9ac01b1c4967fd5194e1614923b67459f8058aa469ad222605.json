@@ -1,0 +1,51 @@
+{
+ "elapsed_ms": 123845.663,
+ "engine": "google_shopping",
+ "fetched_at": "2026-09-20T13:09:54.121057+00:00",
+ "frugal_cache_version": 1,
+ "key": "8d4970e4666b9b9ac01b1c4967fd5194e1614923b67459f8058aa469ad222605",
+ "params": {
+  "num": 10,
+  "q": "iit bombay located"
+ },
+ "response": {
+  "error": "Google hasn't returned any results for this query.",
+  "filters": [
+   {
+    "options": [
+     {
+      "input_type": "link",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=iit+bombay+located+nearby&shoprs=CAEYAyoSaWl0IGJvbWJheSBsb2NhdGVkMgwIAxIGTmVhcmJ5GAJYr-gfYAE",
+      "shoprs": "CAEYAyoSaWl0IGJvbWJheSBsb2NhdGVkMgwIAxIGTmVhcmJ5GAJYr-gfYAE",
+      "text": "Nearby"
+     }
+    ],
+    "type": "Carousel Filters"
+   }
+  ],
+  "search_information": {
+   "query_displayed": "iit bombay located",
+   "shopping_results_state": "Fully empty"
+  },
+  "search_metadata": {
+   "created_at": "2026-09-20 13:09:25 UTC",
+   "google_shopping_url": "https://www.google.com/search?udm=28&q=iit+bombay+located&hl=en&gl=us",
+   "id": "6aafdb05868180bcd15a1fd0",
+   "json_endpoint": "https://serpapi.com/searches/uwqebuWxYvAkBvPT7SlMp2CJj8ASZ_y3BzgZNMb1iM0/6aafdb05868180bcd15a1fd0.json",
+   "markdown_endpoint": "https://serpapi.com/searches/uwqebuWxYvAkBvPT7SlMp2CJj8ASZ_y3BzgZNMb1iM0/6aafdb05868180bcd15a1fd0.md",
+   "processed_at": "2026-09-20 13:09:25 UTC",
+   "raw_html_file": "https://serpapi.com/searches/uwqebuWxYvAkBvPT7SlMp2CJj8ASZ_y3BzgZNMb1iM0/6aafdb05868180bcd15a1fd0.html",
+   "status": "Success",
+   "total_time_taken": 28.38
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_shopping",
+   "gl": "us",
+   "google_domain": "google.com",
+   "hl": "en",
+   "q": "iit bombay located"
+  }
+ },
+ "searches_charged": 1
+}

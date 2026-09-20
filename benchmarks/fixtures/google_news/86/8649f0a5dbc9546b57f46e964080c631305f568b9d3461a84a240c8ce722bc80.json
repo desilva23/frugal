@@ -1,0 +1,250 @@
+{
+ "elapsed_ms": 20763.232,
+ "engine": "google_news",
+ "fetched_at": "2026-09-20T12:19:20.261095+00:00",
+ "frugal_cache_version": 1,
+ "key": "8649f0a5dbc9546b57f46e964080c631305f568b9d3461a84a240c8ce722bc80",
+ "params": {
+  "num": 10,
+  "q": "global interpreter lock python"
+ },
+ "response": {
+  "menu_links": [
+   {
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+    "title": "U.S.",
+    "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+   },
+   {
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+    "title": "World",
+    "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+   },
+   {
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+    "title": "Business",
+    "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+   },
+   {
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+    "title": "Technology",
+    "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+   },
+   {
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+    "title": "Entertainment",
+    "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+   },
+   {
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+    "title": "Sports",
+    "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+   },
+   {
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+    "title": "Science",
+    "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+   },
+   {
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+    "title": "Health",
+    "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+   }
+  ],
+  "news_results": [
+   {
+    "date": "10/18/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-10-18T07:00:00Z",
+    "link": "https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/",
+    "position": 1,
+    "source": {
+     "authors": [
+      "Thomas Reid"
+     ],
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "towardsdatascience.com"
+    },
+    "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2025/10/Screenshot-2025-10-13-145709.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpRVVZQV0dkd1pIWTVUR0V3VFJEQkF4aXNCU2dLTWdZQmNvcHVyUVk",
+    "title": "Python 3.14 and the End of the GIL"
+   },
+   {
+    "date": "11/10/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-10T08:00:00Z",
+    "link": "https://www.kdnuggets.com/what-does-the-end-of-gil-mean-for-python",
+    "position": 2,
+    "source": {
+     "authors": [
+      "Nahla Davies"
+     ],
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kdnuggets.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "KDnuggets"
+    },
+    "thumbnail": "https://www.kdnuggets.com/wp-content/uploads/kdn-what-does-end-gil-mean-for-python.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5WbGQzUkZBNVFXMUtXbGhxVFJERUF4aW1CU2dLTWdrUk5JU25IdXRpOWdB",
+    "title": "What Does the End of GIL Mean for Python?"
+   },
+   {
+    "date": "10/08/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-10-08T07:00:00Z",
+    "link": "https://www.theregister.com/software/2025/10/08/python-314-released-with-cautious-free-threaded-support/349336",
+    "position": 3,
+    "source": {
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "The Register"
+    },
+    "thumbnail": "https://image.theregister.com/193364.webp?imageId=193364&width=960&height=736&format=jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhOVGxwVDBReFJubEVkRUl5VFJERkFSaUFBaWdCTWdhTlFwSW5vUWM",
+    "title": "Python releases version 3.14 – with cautious free-threaded support"
+   },
+   {
+    "date": "02/18/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-18T08:00:00Z",
+    "link": "https://www.opensourceforu.com/2026/02/what-developers-must-know-about-python-3-13-and-3-14/",
+    "position": 4,
+    "source": {
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.opensourceforu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "Open Source For You"
+    },
+    "thumbnail": "https://www.opensourceforu.com/wp-content/uploads/2026/02/Python-3.13.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJkVjgwVmxOelEzaEtRbFZMVFJDUUF4allCQ2dLTWdZVlk1QnJxUVk",
+    "title": "What Developers Must Know About Python 3.13 And 3.14"
+   },
+   {
+    "date": "05/05/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-05-05T07:00:00Z",
+    "link": "https://engineering.fb.com/2025/05/05/developer-tools/enhancing-the-python-ecosystem-with-type-checking-and-free-threading/",
+    "position": 5,
+    "source": {
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://engineering.fb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "Engineering at Meta Blog"
+    },
+    "thumbnail": "https://engineering.fb.com/wp-content/uploads/2025/04/Python-Packaging-Ecosystem-for-Performance-and-Usability.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRlSGRVU2xONk5YSTRYMkZFVFJDUkF4ajhCU2dLTWdZQkFJYVdqQW8",
+    "title": "Enhancing the Python ecosystem with type checking and free threading"
+   },
+   {
+    "date": "08/04/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-08-04T07:00:00Z",
+    "link": "https://www.infoworld.com/article/2338862/python-moves-to-remove-the-gil-and-boost-concurrency.html",
+    "position": 6,
+    "source": {
+     "authors": [
+      "Serdar Yegulalp"
+     ],
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "InfoWorld"
+    },
+    "thumbnail": "https://www.infoworld.com/wp-content/uploads/2025/01/2338862-0-42021800-1736999842-women-spinning-plates_asynchronous-programming_synchrony_multi-tasking_by-graemenicholson-getty-images-2400x1600-100818018-orig.jpg?quality=50&strip=all",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlWMVUxZG1nNGFVcFJlWFk1VFJERUF4aW1CU2dLTWdrWlVZTHR6T0k4NmdF",
+    "title": "Python moves to remove the GIL and boost concurrency"
+   },
+   {
+    "date": "06/20/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-06-20T07:00:00Z",
+    "link": "https://www.techtarget.com/it-infrastructure/video/No-GIL-Python-is-a-mistake",
+    "position": 7,
+    "source": {
+     "authors": [
+      "Darcy DeClute"
+     ],
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtarget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "TechTarget"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/YbbHnCk9Wuw/mqdefault.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFjVVE1U1hwelRFWTNXVEpRVFJDMEFSakFBaWdLTWdtSlFaYmttbWs4REFJ",
+    "title": "No-GIL Python is a mistake"
+   },
+   {
+    "date": "03/01/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-03-01T08:00:00Z",
+    "link": "https://www.theserverside.com/video/Pythons-GIL-removal-is-a-poison-pill-and-benefits-Mojo",
+    "position": 8,
+    "source": {
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theserverside.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "TheServerSide.com"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/YbbHnCk9Wuw/hqdefault.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9SRms1VUdoU1JWOTVabXBoVFJEb0FoamdBeWdLTWdtSllaVGtwaWc4REFJ",
+    "title": "Python's GIL removal is a poison pill and benefits Mojo"
+   },
+   {
+    "date": "10/09/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-10-09T07:00:00Z",
+    "link": "https://finance.biggo.com/news/202510100248_Python-314-Performance-Community-Reaction",
+    "position": 9,
+    "source": {
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "finance.biggo.com"
+    },
+    "thumbnail": "https://img.biggo.com/y5Qi0lJsuch9zKcjboB6FX4MbRWR8y1ccEpzkgUd_64/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlLzQ1NTI0NzAyXzEuanBn.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtRazluUWpGYVZrSnFZbFprVFJDZkF4amlCU2dLTWdB",
+    "title": "Python 3.14 Performance Tests Spark Community Debate on Language's Future"
+   },
+   {
+    "date": "05/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-11T07:00:00Z",
+    "link": "https://www.theregister.com/devops/2026/05/11/feature-freeze-for-python-315-as-first-beta-released/5237934",
+    "position": 10,
+    "source": {
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "The Register"
+    },
+    "thumbnail": "https://image.theregister.com/?imageId=232569&width=1200",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVTM2h0WWpKbVMzWnBWM2xNVFJDM0FSaVRBaWdCTWdZUlFKSm5IZ2M",
+    "title": "Feature freeze for Python 3.15 as first beta released"
+   },
+   {
+    "date": "01/18/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-01-18T08:00:00Z",
+    "link": "https://www.phoronix.com/news/Python-3.13-Alpha-3",
+    "position": 11,
+    "source": {
+     "authors": [
+      "Michael Larabel"
+     ],
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phoronix.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "Phoronix"
+    },
+    "thumbnail": "https://www.phoronix.net/image.php?id=2023&image=python",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURUVTlCVldsaU4xSjVjbTlSVFJDbEFSajhBeWdLTWdhQlVaUURJd2c",
+    "title": "Python 3.13 Alpha 3 Released - Work Continues On Dropping The GIL, Improving Performance"
+   },
+   {
+    "date": "01/30/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-01-30T08:00:00Z",
+    "link": "https://www.snowflake.com/en/blog/engineering/snowpark-parallel-python-udf-optimization/",
+    "position": 12,
+    "source": {
+     "authors": [
+      "Chenwei Xie"
+     ],
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.snowflake.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "name": "Snowflake"
+    },
+    "title": "Automated Optimizations for Python UDFs with Snowpark's Parallel Execution"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-09-20 12:18:59 UTC",
+   "google_news_url": "https://news.google.com/search?q=global+interpreter+lock+python",
+   "id": "6aafcf335922f44cffd8244a",
+   "json_endpoint": "https://serpapi.com/searches/xUtOKcrXwIhCyS3enyWwTNjpyZ3mKA4ee1wBMtHLFCw/6aafcf335922f44cffd8244a.json",
+   "markdown_endpoint": "https://serpapi.com/searches/xUtOKcrXwIhCyS3enyWwTNjpyZ3mKA4ee1wBMtHLFCw/6aafcf335922f44cffd8244a.md",
+   "processed_at": "2026-09-20 12:18:59 UTC",
+   "raw_html_file": "https://serpapi.com/searches/xUtOKcrXwIhCyS3enyWwTNjpyZ3mKA4ee1wBMtHLFCw/6aafcf335922f44cffd8244a.html",
+   "status": "Success",
+   "total_time_taken": 20.41
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "q": "global interpreter lock python"
+  }
+ },
+ "searches_charged": 1
+}
