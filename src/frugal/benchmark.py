@@ -34,13 +34,15 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
-from frugal.cache import CacheMode, ResponseCache
+from frugal.cache import CacheMode, ResponseCache, compute_key
 from frugal.client import SerpApiClient
 from frugal.errors import FrugalError
 from frugal.planner import (
     DEFAULT_BUDGET,
     Planner,
     PlanResult,
+    PlanStep,
+    baseline_step,
     keyword_naive_run,
     naive_run,
     parameterised_naive_run,
@@ -323,9 +325,46 @@ def score_evidence(question: Question, evidence: Sequence[Evidence]) -> Score:
     )
 
 
+#: Step errors that mean the fixture set is incomplete, rather than that a
+#: search failed. Matched against the ``Name: message`` form a step records.
+_REPLAY_GAPS = ("CacheMiss:", "CacheCorrupt:")
+
+
+def _reject_replay_gaps(question: Question, strategy: str, result: PlanResult) -> None:
+    """Refuse to score a replayed question whose fixtures are incomplete.
+
+    The planner treats a failed step as survivable, and during a live run that
+    is right: one engine being unreachable should not throw away a plan already
+    paid for. Under replay it is not survivable. A missing fixture means the
+    code now plans a step that the recorded run never took, and the benchmark
+    was printing a table anyway -- counting the step it could not replay in the
+    searches column, and scoring the question on the evidence of the steps that
+    happened to survive.
+
+    Two steps were in exactly this state when this check was written, because
+    routing and reformulation both changed after the fixtures were exported. The
+    published table did not announce it. A result nobody can reproduce is worth
+    less than no result, so this stops the run instead.
+    """
+    for step in result.steps:
+        if step.error and step.error.startswith(_REPLAY_GAPS):
+            raise FrugalError(
+                f"replay is missing a fixture for {question.id!r} ({strategy}): "
+                f"{step.step.engine} {step.step.query!r} -- {step.error}. "
+                f"The fixtures no longer cover what this code plans; re-record "
+                f"them with a fresh --cache directory before publishing a table."
+            )
+
+
 def _outcome(
-    question: Question, strategy: str, result: PlanResult
+    question: Question,
+    strategy: str,
+    result: PlanResult,
+    *,
+    replay: bool = False,
 ) -> QuestionOutcome:
+    if replay:
+        _reject_replay_gaps(question, strategy, result)
     return QuestionOutcome(
         question_id=question.id,
         category=question.category,
@@ -374,6 +413,7 @@ def run_benchmark(
 ) -> list[QuestionOutcome]:
     """Run both strategies over every question."""
     planner = planner or Planner(client)
+    replay = client.cache.mode is CacheMode.REPLAY
     outcomes: list[QuestionOutcome] = []
 
     for index, question in enumerate(questions, start=1):
@@ -397,7 +437,7 @@ def run_benchmark(
                     print(f"    {strategy:<8} FAILED  {type(exc).__name__}: {exc}")
                 continue
 
-            outcome = _outcome(question, strategy, result)
+            outcome = _outcome(question, strategy, result, replay=replay)
             outcomes.append(outcome)
 
             if verbose:
@@ -497,19 +537,33 @@ def run_ablation(
     recall that comes from searching the same engines harder.
     """
     summaries: dict[str, StrategySummary] = {}
+    replay = client.cache.mode is CacheMode.REPLAY
 
     summaries.update(
-        summarise([_outcome(q, "naive", naive_run(client, q.question)) for q in questions])
-    )
-    summaries.update(
         summarise(
-            [_outcome(q, "keyword", keyword_naive_run(client, q.question)) for q in questions]
+            [
+                _outcome(q, "naive", naive_run(client, q.question), replay=replay)
+                for q in questions
+            ]
         )
     )
     summaries.update(
         summarise(
             [
-                _outcome(q, "parameterised", parameterised_naive_run(client, q.question))
+                _outcome(q, "keyword", keyword_naive_run(client, q.question), replay=replay)
+                for q in questions
+            ]
+        )
+    )
+    summaries.update(
+        summarise(
+            [
+                _outcome(
+                    q,
+                    "parameterised",
+                    parameterised_naive_run(client, q.question),
+                    replay=replay,
+                )
                 for q in questions
             ]
         )
@@ -523,7 +577,7 @@ def run_ablation(
                 result = planner.run(question.question, budget=budget)
             except FrugalError:
                 continue
-            fixed_outcomes.append(_outcome(question, name, result))
+            fixed_outcomes.append(_outcome(question, name, result, replay=replay))
         summaries.update(summarise(fixed_outcomes))
         if verbose:
             s = summaries[name]
@@ -539,7 +593,7 @@ def run_ablation(
                 result = planner.run(question.question, budget=budget)
             except FrugalError:
                 continue
-            outcomes.append(_outcome(question, name, result))
+            outcomes.append(_outcome(question, name, result, replay=replay))
         summaries.update(summarise(outcomes))
         if verbose:
             summary = summaries[name]
@@ -628,7 +682,13 @@ def main(argv: Sequence[str] | None = None) -> int:
     cache = ResponseCache(args.cache, mode=mode, ttls={}, fallback_ttl=float("inf"))
 
     if args.dry_run:
-        return _report_dry_run(cache, questions, budget=args.budget)
+        return _report_dry_run(
+            cache,
+            questions,
+            budget=args.budget,
+            ablate=args.ablate,
+            skip_deep=args.skip_deep,
+        )
 
     started = time.perf_counter()
 
@@ -671,26 +731,120 @@ def main(argv: Sequence[str] | None = None) -> int:
     return 0
 
 
-def _report_dry_run(cache: ResponseCache, questions: Sequence[Question], *, budget: int) -> int:
-    """Project the cost of a full run without issuing anything."""
+def _projected_arms(*, ablate: bool, skip_deep: bool) -> list[str]:
+    """The arms a run would execute, in the order it would execute them.
+
+    Order matters to the projection, because the second arm to issue an
+    identical search does not pay for it.
+    """
+    if not ablate:
+        return list(STRATEGIES)
+    return [
+        "naive",
+        "keyword",
+        "parameterised",
+        *(name for name, _ in FIXED_PAIRINGS),
+        *(
+            name
+            for name, _, _ in ABLATIONS
+            if not (skip_deep and name in DEEP_ABLATIONS)
+        ),
+    ]
+
+
+def _steps_for_arm(
+    arm: str,
+    question: str,
+    *,
+    planners: dict[str, Planner],
+    budget: int,
+) -> list[PlanStep]:
+    """Every search one arm would issue for one question, without issuing it."""
+    if arm in STRATEGIES[:3]:
+        return [baseline_step(arm, question)]
+    return list(planners[arm].dry_run(question, budget=budget).steps)
+
+
+def _report_dry_run(
+    cache: ResponseCache,
+    questions: Sequence[Question],
+    *,
+    budget: int,
+    ablate: bool = False,
+    skip_deep: bool = False,
+) -> int:
+    """Project what a run would cost, without issuing anything.
+
+    This used to project two arms of a four-arm benchmark and present the total
+    as the cost of the run. Asked about a hundred-question snapshot it answered
+    266 against an actual 636 -- under half. In a project whose whole subject is
+    knowing the price before paying it, a preview that cheap-sells the bill by
+    more than half is the wrong thing to ship.
+
+    So the projection now enumerates the exact searches every arm would issue,
+    from the same definitions the run uses, and prices them the way the client
+    prices them: a search already recorded costs nothing, and two arms issuing
+    an identical search pay once between them. What remains approximate is
+    stated in the output rather than folded silently into a number.
+    """
     client = SerpApiClient(cache=ResponseCache(cache.directory, mode=CacheMode.REPLAY))
-    planner = Planner(client)
 
-    total = 0
-    print(f"{'question':<26} {'planned':>8} {'naive':>6} {'total':>6}")
-    print("-" * 50)
-    for question in questions:
-        ceiling = planner.dry_run(question.question, budget=budget).ceiling
-        line = ceiling + 1
-        total += line
-        print(f"{question.id:<26} {ceiling:>8} {1:>6} {line:>6}")
+    planners: dict[str, Planner] = {"planned": Planner(client)}
+    for name, forced in FIXED_PAIRINGS:
+        planners[name] = Planner(client, max_engines=2, max_rounds=1, force_engines=forced)
+    for name, engines, rounds in ABLATIONS:
+        planners[name] = Planner(client, max_engines=engines, max_rounds=rounds)
 
-    print("-" * 50)
-    print(f"{'ceiling for the full run':<26} {'':>8} {'':>6} {total:>6}")
+    arms = _projected_arms(ablate=ablate, skip_deep=skip_deep)
+    seen: set[str] = set()
+    rows: list[tuple[str, int, int, int]] = []
+    multi_round = False
+
+    for arm in arms:
+        issued = free = billed = 0
+        for question in questions:
+            for step in _steps_for_arm(
+                arm, question.question, planners=planners, budget=budget
+            ):
+                multi_round = multi_round or step.round_number > 1
+                issued += 1
+                params = {k: v for k, v in step.params.items() if v is not None}
+                key = compute_key(step.engine, params)
+                if key in seen or cache.peek(step.engine, params) is not None:
+                    seen.add(key)
+                    free += 1
+                    continue
+                seen.add(key)
+                billed += 1
+        rows.append((arm, issued, free, billed))
+
+    width = max(len("total"), *(len(name) for name, *_ in rows))
+    print(f"{'arm':<{width}}  {'searches':>8}  {'free':>6}  {'billed':>6}")
+    print("-" * (width + 26))
+    for name, issued, free, billed in rows:
+        print(f"{name:<{width}}  {issued:>8}  {free:>6}  {billed:>6}")
+    print("-" * (width + 26))
+    total_issued = sum(row[1] for row in rows)
+    total_free = sum(row[2] for row in rows)
+    total_billed = sum(row[3] for row in rows)
+    print(f"{'total':<{width}}  {total_issued:>8}  {total_free:>6}  {total_billed:>6}")
+
     print(
-        "\nThis is the worst case: every planned step issued, nothing saturating early "
-        "and nothing served from cache.\nA real run costs less on both counts."
+        f"\n{len(questions)} questions, budget {budget} per question, "
+        f"cache {cache.directory}."
     )
+    print(
+        "Free means already recorded, or issued by an earlier arm in this same run.\n"
+        "Billed is the worst case: every planned step issued, nothing saturating\n"
+        "early. A plan that saturates stops sooner, so a real run bills this or less."
+    )
+    if multi_round:
+        print(
+            "\nRounds after the first adapt to what earlier rounds retrieved, so their\n"
+            "queries are not knowable until the run happens. They are priced here as\n"
+            "planned, which is their ceiling, and they may in fact collide with a\n"
+            "search already paid for."
+        )
     return 0
 
 

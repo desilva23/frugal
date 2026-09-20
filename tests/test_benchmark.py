@@ -264,6 +264,14 @@ def test_median_depth_handles_an_even_count() -> None:
 
 FIXTURES = str(Path(__file__).parent.parent / "benchmarks" / "fixtures")
 
+#: How many questions the committed fixtures replay completely under the code
+#: as it stands. Two things pull this below the length of the question set, and
+#: both are deliberate: questions are committed unrun, so that history shows
+#: none was chosen after seeing its score, and routing changes after an export
+#: can plan a step the recorded run never took. Raise it when a snapshot is
+#: re-recorded.
+FIXTURE_QUESTIONS = 18
+
 
 def run_two_questions() -> list[object]:
     """Run the real harness over two questions, from committed fixtures."""
@@ -351,15 +359,97 @@ def test_the_deep_sweeps_can_be_skipped() -> None:
 # --------------------------------------------------------------------------
 
 
-def test_the_dry_run_issues_nothing_and_reports_a_ceiling(
+def test_the_dry_run_issues_nothing_and_prices_every_arm(
     capsys: pytest.CaptureFixture[str],
 ) -> None:
-    from frugal.benchmark import main
+    from frugal.benchmark import STRATEGIES, main
 
     assert main(["--dry-run", "--limit", "2", "--cache", FIXTURES]) == 0
     out = capsys.readouterr().out
-    assert "ceiling for the full run" in out
+    for arm in STRATEGIES:
+        assert arm in out, f"{arm} missing from the projection"
     assert "worst case" in out
+
+
+def test_the_dry_run_agrees_with_what_the_run_actually_costs(
+    capsys: pytest.CaptureFixture[str],
+) -> None:
+    """A projection that disagrees with the run is the bug this test exists for.
+
+    Every search these questions need is already recorded, so running them bills
+    nothing -- and the projection has to say nothing. It can only say so if it
+    builds the same requests the run builds, which is why each arm is defined
+    once and shared. The previous preview projected two arms of four and
+    under-reported a full snapshot by more than half.
+    """
+    from frugal.benchmark import main
+
+    assert main(["--dry-run", "--limit", str(FIXTURE_QUESTIONS), "--cache", FIXTURES]) == 0
+    totals = [
+        line for line in capsys.readouterr().out.splitlines() if line.startswith("total")
+    ]
+    assert len(totals) == 1
+    assert totals[0].split()[-1] == "0", f"projected a cost for a free run: {totals[0]}"
+
+
+def test_the_projection_prices_the_searches_the_run_actually_issues() -> None:
+    """The projection and the run must enumerate the same requests.
+
+    This is the invariant the old preview broke. It priced two arms while the
+    run executed four, and nothing compared the two, so the gap stayed open
+    until someone added up a bill by hand. Comparing the sets directly closes
+    it: an arm added to the run but not to the projection, or a parameter one
+    builds and the other does not, fails here rather than at the till.
+    """
+    from frugal.benchmark import STRATEGIES, _steps_for_arm, load_questions
+    from frugal.cache import CacheMode, ResponseCache, compute_key
+    from frugal.client import SerpApiClient
+    from frugal.planner import (
+        Planner,
+        keyword_naive_run,
+        naive_run,
+        parameterised_naive_run,
+    )
+
+    questions = load_questions()[:FIXTURE_QUESTIONS]
+    runners = {
+        "naive": naive_run,
+        "keyword": keyword_naive_run,
+        "parameterised": parameterised_naive_run,
+    }
+
+    def key_of(engine: str, params: dict[str, object]) -> tuple[str, str]:
+        usable = {k: v for k, v in params.items() if v is not None}
+        return engine, compute_key(engine, usable)
+
+    with SerpApiClient(cache=ResponseCache(FIXTURES, mode=CacheMode.REPLAY)) as client:
+        planner = Planner(client)
+        executed = {
+            key_of(step.step.engine, step.step.params)
+            for question in questions
+            for strategy in STRATEGIES
+            for step in (
+                runners[strategy](client, question.question)
+                if strategy in runners
+                else planner.run(question.question)
+            ).steps
+        }
+
+    with SerpApiClient(cache=ResponseCache(FIXTURES, mode=CacheMode.REPLAY)) as client:
+        planners = {"planned": Planner(client)}
+        projected = {
+            key_of(step.engine, step.params)
+            for question in questions
+            for strategy in STRATEGIES
+            for step in _steps_for_arm(
+                strategy, question.question, planners=planners, budget=12
+            )
+        }
+
+    assert projected == executed, (
+        f"projection and run disagree: {len(projected - executed)} priced but "
+        f"never issued, {len(executed - projected)} issued but never priced"
+    )
 
 
 def test_a_replayed_run_writes_its_results(

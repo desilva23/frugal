@@ -607,6 +607,75 @@ class Planner:
         )
 
 
+#: The single-search baselines, named as the benchmark names them.
+_BASELINE_STRATEGIES = ("naive", "keyword", "parameterised")
+
+
+def baseline_step(
+    strategy: str,
+    question: str,
+    *,
+    results: int = DEFAULT_RESULTS_PER_SEARCH,
+) -> PlanStep:
+    """The one step a single-search baseline would issue, built without issuing it.
+
+    Each baseline used to build its own step inline, which meant the cost
+    projection had to build a fourth copy in order to say what a run would
+    spend -- and a projection that guesses at the arms is how a dry run comes to
+    report the price of a different benchmark. Defining each arm once, here, is
+    what keeps the projection and the run describing the same thing.
+    """
+    verbatim = question.strip()
+    if strategy == "naive":
+        return PlanStep(
+            engine="google",
+            query=verbatim,
+            strategy="verbatim",
+            cost=1,
+            round_number=1,
+            rationale="baseline: the question as asked, sent to web search",
+            # Deliberately unparameterised beyond page size. Adding geo or
+            # location here would be crediting the baseline with the engine
+            # knowledge the planner exists to supply, and the comparison would
+            # stop meaning anything.
+            params={"q": verbatim, "num": results},
+        )
+
+    variants = reformulate(question, engine="google", limit=1)
+    query = variants[0].query if variants else verbatim
+
+    if strategy == "keyword":
+        return PlanStep(
+            engine="google",
+            query=query,
+            strategy="keyword",
+            cost=1,
+            round_number=1,
+            rationale="baseline: one web search, question reformulated to keywords",
+            params={"q": query, "num": results},
+        )
+
+    if strategy == "parameterised":
+        return PlanStep(
+            engine="google",
+            query=query,
+            strategy="keyword+parameters",
+            cost=1,
+            round_number=1,
+            rationale="baseline: one web search, reformulated, with engine parameters",
+            params=build_params(
+                "google",
+                query,
+                locale=detect_locale(question),
+                results=results,
+                recent=wants_recent(question),
+                current_year=datetime.now(UTC).year,
+            ),
+        )
+
+    raise ValueError(f"unknown baseline strategy {strategy!r}")
+
+
 def naive_run(
     client: SerpApiClient,
     question: str,
@@ -623,19 +692,7 @@ def naive_run(
     started = time.perf_counter()
     governor = BudgetGovernor(limit=1)
     monitor = SaturationMonitor()
-    step = PlanStep(
-        engine="google",
-        query=question.strip(),
-        strategy="verbatim",
-        cost=1,
-        round_number=1,
-        rationale="baseline: the question as asked, sent to web search",
-        # Deliberately unparameterised beyond page size. Adding geo or location
-        # here would be crediting the baseline with the engine knowledge the
-        # planner exists to supply, and the comparison would stop meaning
-        # anything.
-        params={"q": question.strip(), "num": results},
-    )
+    step = baseline_step("naive", question, results=results)
 
     evidence: list[Evidence] = []
     error: str | None = None
@@ -644,12 +701,12 @@ def naive_run(
 
     try:
         with governor.reserve(engine="google") as claim:
-            response = client.search("google", q=step.query, num=results)
+            response = client.search(step.engine, **step.params)
             if response.from_cache:
                 claim.release()
             charged = response.searches_charged
             from_cache = response.from_cache
-            evidence = normalise("google", response.raw, query=step.query)[:results]
+            evidence = normalise(step.engine, response.raw, query=step.query)[:results]
     except FrugalError as exc:
         error = f"{type(exc).__name__}: {exc}"
 
@@ -701,18 +758,7 @@ def keyword_naive_run(
     governor = BudgetGovernor(limit=1)
     monitor = SaturationMonitor()
 
-    variants = reformulate(question, engine="google", limit=1)
-    query = variants[0].query if variants else question.strip()
-
-    step = PlanStep(
-        engine="google",
-        query=query,
-        strategy="keyword",
-        cost=1,
-        round_number=1,
-        rationale="baseline: one web search, question reformulated to keywords",
-        params={"q": query, "num": results},
-    )
+    step = baseline_step("keyword", question, results=results)
 
     evidence: list[Evidence] = []
     error: str | None = None
@@ -721,12 +767,12 @@ def keyword_naive_run(
 
     try:
         with governor.reserve(engine="google") as claim:
-            response = client.search("google", q=query, num=results)
+            response = client.search(step.engine, **step.params)
             if response.from_cache:
                 claim.release()
             charged = response.searches_charged
             from_cache = response.from_cache
-            evidence = normalise("google", response.raw, query=query)[:results]
+            evidence = normalise(step.engine, response.raw, query=step.query)[:results]
     except FrugalError as exc:
         error = f"{type(exc).__name__}: {exc}"
 
@@ -793,26 +839,7 @@ def parameterised_naive_run(
     governor = BudgetGovernor(limit=1)
     monitor = SaturationMonitor()
 
-    variants = reformulate(question, engine="google", limit=1)
-    query = variants[0].query if variants else question.strip()
-    params = build_params(
-        "google",
-        query,
-        locale=detect_locale(question),
-        results=results,
-        recent=wants_recent(question),
-        current_year=datetime.now(UTC).year,
-    )
-
-    step = PlanStep(
-        engine="google",
-        query=query,
-        strategy="keyword+parameters",
-        cost=1,
-        round_number=1,
-        rationale="baseline: one web search, reformulated, with engine parameters",
-        params=params,
-    )
+    step = baseline_step("parameterised", question, results=results)
 
     evidence: list[Evidence] = []
     error: str | None = None
@@ -821,12 +848,12 @@ def parameterised_naive_run(
 
     try:
         with governor.reserve(engine="google") as claim:
-            response = client.search("google", **params)
+            response = client.search(step.engine, **step.params)
             if response.from_cache:
                 claim.release()
             charged = response.searches_charged
             from_cache = response.from_cache
-            evidence = normalise("google", response.raw, query=query)[:results]
+            evidence = normalise(step.engine, response.raw, query=step.query)[:results]
     except FrugalError as exc:
         error = f"{type(exc).__name__}: {exc}"
 
