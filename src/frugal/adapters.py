@@ -60,6 +60,20 @@ def _as_text(value: Any) -> str | None:
     return None
 
 
+def reported_success(payload: Mapping[str, Any]) -> bool:
+    """Whether SerpApi says this search completed, whatever it returned.
+
+    The difference between "this engine's shape changed" and "this query found
+    nothing" is not visible in the payload's keys -- both arrive missing the
+    object an adapter wants. It is visible in the status SerpApi sets, so that
+    is what both adapters read.
+    """
+    metadata = payload.get("search_metadata")
+    if not isinstance(metadata, Mapping):
+        return False
+    return str(metadata.get("status", "")).lower() == "success"
+
+
 @dataclass(frozen=True, slots=True)
 class EngineAdapter:
     """Declares where one engine keeps each normalised field.
@@ -118,7 +132,7 @@ class EngineAdapter:
         # An empty result set is a legitimate answer — a query nobody has written
         # about returns nothing — and is distinguished from drift by SerpApi
         # having reported the search succeeded.
-        if self._reported_success(payload):
+        if reported_success(payload):
             return []
 
         present = ", ".join(sorted(k for k in payload if not k.startswith("search_"))) or "nothing"
@@ -127,12 +141,6 @@ class EngineAdapter:
             f"none of {list(self.result_keys)} holds a list; payload carries {present}",
         )
 
-    @staticmethod
-    def _reported_success(payload: Mapping[str, Any]) -> bool:
-        metadata = payload.get("search_metadata")
-        if not isinstance(metadata, Mapping):
-            return False
-        return str(metadata.get("status", "")).lower() == "success"
 
     def _parse_one(
         self,
@@ -215,6 +223,14 @@ class TrendsAdapter:
         retrieved_at = retrieved_at or datetime.now(UTC)
         timeline = payload.get("interest_over_time")
         if not isinstance(timeline, Mapping):
+            # "Google Trends hasn't returned any results for this query" arrives
+            # with no interest_over_time and a Success status. That is a term
+            # nobody searches, not a changed schema, and calling it drift sent
+            # two questions into the error column reading as though the engine
+            # had broken. The document adapter already drew this line; trends
+            # was raising before it got there.
+            if reported_success(payload):
+                return []
             raise SchemaDrift(self.engine, "no interest_over_time object in payload")
 
         raw_points = timeline.get("timeline_data")

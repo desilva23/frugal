@@ -265,12 +265,12 @@ def test_median_depth_handles_an_even_count() -> None:
 FIXTURES = str(Path(__file__).parent.parent / "benchmarks" / "fixtures")
 
 #: How many questions the committed fixtures replay completely under the code
-#: as it stands. Two things pull this below the length of the question set, and
-#: both are deliberate: questions are committed unrun, so that history shows
-#: none was chosen after seeing its score, and routing changes after an export
-#: can plan a step the recorded run never took. Raise it when a snapshot is
-#: re-recorded.
-FIXTURE_QUESTIONS = 18
+#: as it stands -- the whole set, as of the snapshot recorded on 20 September.
+#: It fell below the set's length twice before: once because questions are
+#: committed unrun, which is what shows none was chosen after seeing its score,
+#: and once because routing changed after an export and the plan then called
+#: for a step the recorded run never took. Re-record, then raise this.
+FIXTURE_QUESTIONS = 100
 
 
 def run_two_questions() -> list[object]:

@@ -1,0 +1,518 @@
+{
+ "elapsed_ms": 4819.934,
+ "engine": "google",
+ "fetched_at": "2026-09-20T11:34:29.895810+00:00",
+ "frugal_cache_version": 1,
+ "key": "4e665ea8d36f43d812af291f5dcc9842ca0b0e9ca7398deb67035c51a7de166a",
+ "params": {
+  "num": 10,
+  "q": "Which paper introduced AlexNet for ImageNet classification?"
+ },
+ "response": {
+  "ai_overview": {
+   "page_token": "RmtTlHiczVXRcqpIEP2A_Y71xSigxsRUUamecVSiUYkxueaFwmFEVBgFAzFv-xn7vl-1X7MDikGjyd77sLVdpeMMh-6e7nPsP_5aON7879_-nK7Xy-BGkqIoKtqc2wtWpNyVzGDjUWnCF4FPp7cBf_UpcyyVTn3ustwmVMs5GqhyjjlqRAehuXy2G9xZRde0HxWczrVOcokL1RibAZuJCG-zQDIk8TX_vVwXm2JQXKyLjjy_euz45VL5uliSlVqxJ5muAMB_Z_c6oHi9A3weJB6R713FDjRAJONJAztZ0R4Ao-2C9eQRts96Q9uYDwlEF5-68d6K6tBIEfWz74oQCDJVxFGSC0CUJIHA-f42qenb4PH76b2-qBSk6EPbVY9_nGR7jM47i44PNAMw_giSDSbcTA_SIGkUasN1i6M6guH5UKI-bQ0u56CTU1fImk6eKvvOdUZNcSJZtiCuLI19sSiSQ6c0-eEHMZ_xY03mZFaIKO91yMCf8Va3YCmmO_OqhWjyABIdC9yCmxazjKkh3yZ7paRcyrXy1fVFIiQa7JUUZJXUh9fxoDOtOO9Q7BSRksoIb5sOnzpGxB5rJy6G8A568AJJy5ueovQQg944AKLd8ywytXY_rmsz3QqOvovWZBEfUWPyf5bR1pwMWMgoSUTjO2BiGTSGZka6mcbewSk7prbe2hNVr38CHggQPwDMIa3WMYX0EejYJrEGMGmhXdVo1oe4cXu_QWnCBHQboRSRJpi2JJNTXAJNh3vQiPDpDDXBUDvm6jbRmAxpLHKkuAzhs6zQRJhn_G_--k4Y-k5EsempXo7on5VN6_KSGyFqdBU0t-wSnW5eCvO5FqImjU7LhLvjn5g49H8lpO08Irt5dF5I5HshJfMIfTGPEiF9zKOYvJifFRJqnp5H3RRxMI8OC4XhISukr-fRTwsJfykkfefmhJD4aSEtzwspOhbS4Tw6ENLHPNoL6VfmEfrFeZToim2Xw-H0OrPPDqlG2O30SnerZY-07huO63oPXrXRUrROQf92SE3c9Y1rWosLw7FuUOluvbEuDHHAb5iVW6nPUxExvzSXzM873trn1itlVh4W7K3L1vkJ9_Oaa9os3tCFGQTOxKHm2uHebc5d-FyVzSu3Ho77vIllvVrnL_PNoO0tB_7TGx49ymU2qtcivMDhe7tqhMQp__AKqFaPWAeVasPZ1GWjIeuRl-oLrOSVu6m2vH4Xgslk8GzOaj96zHlqKE0SdZVS56UXmYXC0jI3zd5lm4fQk1uV0iTk73aSTKCCuWGB0XzyhlrO9akqaFCxoavDsy34iBOewtDkYo1Ab1ZFm1AuoKbBglCtVqqiblZtMrZK1coVy7n2erNUK0ou8HxV-QcD8UcQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RmtTlHiczVXRcqpIEP2A_Y71xSigxsRUUamecVSiUYkxueaFwmFEVBgFAzFv-xn7vl-1X7MDikGjyd77sLVdpeMMh-6e7nPsP_5aON7879_-nK7Xy-BGkqIoKtqc2wtWpNyVzGDjUWnCF4FPp7cBf_UpcyyVTn3ustwmVMs5GqhyjjlqRAehuXy2G9xZRde0HxWczrVOcokL1RibAZuJCG-zQDIk8TX_vVwXm2JQXKyLjjy_euz45VL5uliSlVqxJ5muAMB_Z_c6oHi9A3weJB6R713FDjRAJONJAztZ0R4Ao-2C9eQRts96Q9uYDwlEF5-68d6K6tBIEfWz74oQCDJVxFGSC0CUJIHA-f42qenb4PH76b2-qBSk6EPbVY9_nGR7jM47i44PNAMw_giSDSbcTA_SIGkUasN1i6M6guH5UKI-bQ0u56CTU1fImk6eKvvOdUZNcSJZtiCuLI19sSiSQ6c0-eEHMZ_xY03mZFaIKO91yMCf8Va3YCmmO_OqhWjyABIdC9yCmxazjKkh3yZ7paRcyrXy1fVFIiQa7JUUZJXUh9fxoDOtOO9Q7BSRksoIb5sOnzpGxB5rJy6G8A568AJJy5ueovQQg944AKLd8ywytXY_rmsz3QqOvovWZBEfUWPyf5bR1pwMWMgoSUTjO2BiGTSGZka6mcbewSk7prbe2hNVr38CHggQPwDMIa3WMYX0EejYJrEGMGmhXdVo1oe4cXu_QWnCBHQboRSRJpi2JJNTXAJNh3vQiPDpDDXBUDvm6jbRmAxpLHKkuAzhs6zQRJhn_G_--k4Y-k5EsempXo7on5VN6_KSGyFqdBU0t-wSnW5eCvO5FqImjU7LhLvjn5g49H8lpO08Irt5dF5I5HshJfMIfTGPEiF9zKOYvJifFRJqnp5H3RRxMI8OC4XhISukr-fRTwsJfykkfefmhJD4aSEtzwspOhbS4Tw6ENLHPNoL6VfmEfrFeZToim2Xw-H0OrPPDqlG2O30SnerZY-07huO63oPXrXRUrROQf92SE3c9Y1rWosLw7FuUOluvbEuDHHAb5iVW6nPUxExvzSXzM873trn1itlVh4W7K3L1vkJ9_Oaa9os3tCFGQTOxKHm2uHebc5d-FyVzSu3Ho77vIllvVrnL_PNoO0tB_7TGx49ymU2qtcivMDhe7tqhMQp__AKqFaPWAeVasPZ1GWjIeuRl-oLrOSVu6m2vH4Xgslk8GzOaj96zHlqKE0SdZVS56UXmYXC0jI3zd5lm4fQk1uV0iTk73aSTKCCuWGB0XzyhlrO9akqaFCxoavDsy34iBOewtDkYo1Ab1ZFm1AuoKbBglCtVqqiblZtMrZK1coVy7n2erNUK0ou8HxV-QcD8UcQ"
+  },
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 ...",
+      "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
+      "source_info_link": "https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"
+     }
+    },
+    "author": "cituojant A Krizhevsky",
+    "displayed_link": "https://proceedings.neurips.cc › paper › 4824-im...",
+    "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
+    "link": "https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf",
+    "position": 1,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFVfrNDjEYtxcoWQJW7brvo83rif6DJ0FWaXtjys4Tm1IR4kXcUcMh6Gic-U-RJpxssJoAJupjp7spYRux_YhPoD10Ly3zJ4tEfGQZrj1xDJr2PAsnSv1nJscUpU_QRVm5N8V_ErfJFLbn9dUXi1tXrsYkzIfrZoLMmXyxil_rygrAgrH-LTghtZNewaaUnumVDmWBIbZroKOINXc11D5WnM&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4QFnoECAgQAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "puslapiai": 9
+      },
+      "extensions": [
+       "9 puslapiai"
+      ]
+     }
+    },
+    "snippet": "We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 ...",
+    "snippet_highlighted_words": [
+     "ImageNet"
+    ],
+    "source": "NeurIPS 2026",
+    "title": "ImageNet Classification with Deep Convolutional Neural ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "We trained a large, deep convolutional neural network to classify the 1.3 million high-resolution images in the LSVRC-2010 ImageNet training set into the 1000 ...",
+      "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
+      "source_info_link": "https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks"
+     }
+    },
+    "author": "cituojant A Krizhevsky",
+    "displayed_link": "https://papers.nips.cc › paper › 482...",
+    "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
+    "link": "https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFdYgOzRjqSw_XIah9MkpE9HGqj1oDut3KtJsYVZN7JhleqgpFXz2cRKTvpXweeDeiRZVa9c-Nf3o8w75AFc4u-i0a4eBlfZYTrVNOBQMddI-Rt3KY2_wgwSG0QhycrXZS9qJvbC0-yZibka2GCLuPfT92YMOoOyUkhqMgWMKVO9x-F8xOeTSO8ZrW_1nTCIOUVip5O0&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4QFnoECAsQAQ&uoh=1",
+    "snippet": "We trained a large, deep convolutional neural network to classify the 1.3 million high-resolution images in the LSVRC-2010 ImageNet training set into the 1000 ...",
+    "snippet_highlighted_words": [
+     "ImageNet"
+    ],
+    "source": "NeurIPS 2026",
+    "title": "ImageNet Classification with Deep Convolutional Neural ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "\"ImageNet classification with deep convolutional neural networks\" (PDF). Communications of the ACM. 60 (6): 84–90. doi:10.1145/3065386. ISSN 0001-0782 ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/AlexNet"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › Al...",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/AlexNet",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVMEJXlxXu7CyZtgqWr6SaZnK2ixNlOZ74J8L9vMWnhuC_Tcq7dWd_zV6N0-67jo0I9mNpXZI95p0Q1TvYohFL_unY2mCXoEHUgdLKPudoJQhGFaqY11n2nw&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4QFnoECBUQAQ&uoh=1",
+    "snippet": "\"ImageNet classification with deep convolutional neural networks\" (PDF). Communications of the ACM. 60 (6): 84–90. doi:10.1145/3065386. ISSN 0001-0782 ...",
+    "snippet_highlighted_words": [
+     "ImageNet classification"
+    ],
+    "source": "Wikipedia",
+    "title": "AlexNet"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "On this day, a Convolutional Neural Network (CNN) called AlexNet won the ImageNet 2012 challenge [1]. AlexNet didn't just win; it dominated. AlexNet was unlike ...",
+      "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAACwBgCdASogACAAPrUurVanIacnG_DgFolpABEVceD-9KtA9Ab8Rj0Fo7uI6PzwjESJcWKlOsE62iDE_Gm4AAD--qOIOgeHPt6hCnf54ieYIANcNeJVWiA_ux_jlX42lf5mCsmvYcXv2JIT00rvL8PjE6OTStbWMiTEIoi7xXByH9GOHA5y9aHb6To27v_yTbEfKKseBnP5tUZh7MRcOHs_1r2NdSe-J9nX3zo1X21XiTOiEbWhzc7I-XD5A1Ot2diuqXMTeBZKBt8xN54sVR5PfzEYifGeyTxP4_EYnU9IIJiOEI4G8dumaC_X6MVSP15e7alFtPxekTM1D944CMS1Obuc2-O8N5YuiLZ7TtUZ8H38ocRRdP19dHfGSrV63RFeYCYfsNtb4kAvPAloAA.webp",
+      "source_info_link": "https://www.pinecone.io/learn/series/image-search/imagenet/"
+     }
+    },
+    "displayed_link": "https://www.pinecone.io › series › im...",
+    "favicon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAACwBgCdASogACAAPrUurVanIacnG_DgFolpABEVceD-9KtA9Ab8Rj0Fo7uI6PzwjESJcWKlOsE62iDE_Gm4AAD--qOIOgeHPt6hCnf54ieYIANcNeJVWiA_ux_jlX42lf5mCsmvYcXv2JIT00rvL8PjE6OTStbWMiTEIoi7xXByH9GOHA5y9aHb6To27v_yTbEfKKseBnP5tUZh7MRcOHs_1r2NdSe-J9nX3zo1X21XiTOiEbWhzc7I-XD5A1Ot2diuqXMTeBZKBt8xN54sVR5PfzEYifGeyTxP4_EYnU9IIJiOEI4G8dumaC_X6MVSP15e7alFtPxekTM1D944CMS1Obuc2-O8N5YuiLZ7TtUZ8H38ocRRdP19dHfGSrV63RFeYCYfsNtb4kAvPAloAA.webp",
+    "link": "https://www.pinecone.io/learn/series/image-search/imagenet/",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVdbJH64v7uDVpAfa0pY2CbffEIfBtDIgQB6_hKEXdzFZQgomvUd5RkblbCzLhaUOLx1USCLWfv-TmMydauHi4gGRtq0_tbl-rN8-szXj_ISspi-zP3BL6B6Goua5kbv7i8o5q740iEHEeJJb5H0E&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4QFnoECA8QAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://www.pinecone.io/learn/series/image-search/imagenet/#Fei-Fei-Li-WordNet-and-Mechanical-Turks",
+       "title": "Fei-Fei Li, WordNet, and..."
+      },
+      {
+       "link": "https://www.pinecone.io/learn/series/image-search/imagenet/#ImageNet",
+       "title": "ImageNet"
+      },
+      {
+       "link": "https://www.pinecone.io/learn/series/image-search/imagenet/#AlexNet",
+       "title": "AlexNet"
+      },
+      {
+       "link": "https://www.pinecone.io/learn/series/image-search/imagenet/#AlexNet-in-Action",
+       "title": "AlexNet in Action"
+      }
+     ]
+    },
+    "snippet": "On this day, a Convolutional Neural Network (CNN) called AlexNet won the ImageNet 2012 challenge [1]. AlexNet didn't just win; it dominated. AlexNet was unlike ...",
+    "snippet_highlighted_words": [
+     "AlexNet",
+     "ImageNet",
+     "AlexNet",
+     "AlexNet"
+    ],
+    "source": "Pinecone",
+    "title": "AlexNet and ImageNet: The Birth of Deep Learning"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "Paper: ImageNet Classification with Deep Convolutional Neural Networks. Authors: Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton. Published ...",
+      "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAwBQCdASocABwAPtEwtFooIigoGAEAGglpAARADxPIN-NTt5QRw29hIU8SSD76r3bQAAD-93NaMJK2_ccjzf9npemsNrSjbtnvevwuzqfOzc8yWCOssC164YVi2B1ycpv_ex-BnLjGpqrwXxQm_rh_Imspote8fiafMuvgfwCl_zAoU_yqtv04G7xbLL38DJ9mfXPvjQD_wkIMFy_0RfUL_8ssb7_QxFbMc7_fPPKAL_m-3D69aLHz0Gw_bsAlbFiGyiSZ51A0g_9E_UAAAA.webp",
+      "source_info_link": "https://dianawolftorres.substack.com/p/the-wolf-reads-ai-day-12-alex-net"
+     }
+    },
+    "displayed_link": "Mygtuko „Patinka“ paspaudimų: 3 · prieš 1 metus",
+    "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAwBQCdASocABwAPtEwtFooIigoGAEAGglpAARADxPIN-NTt5QRw29hIU8SSD76r3bQAAD-93NaMJK2_ccjzf9npemsNrSjbtnvevwuzqfOzc8yWCOssC164YVi2B1ycpv_ex-BnLjGpqrwXxQm_rh_Imspote8fiafMuvgfwCl_zAoU_yqtv04G7xbLL38DJ9mfXPvjQD_wkIMFy_0RfUL_8ssb7_QxFbMc7_fPPKAL_m-3D69aLHz0Gw_bsAlbFiGyiSZ51A0g_9E_UAAAA.webp",
+    "link": "https://dianawolftorres.substack.com/p/the-wolf-reads-ai-day-12-alex-net",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFbf7tWQQZozPbO7U4JazMfZCpkhkANRv2XhKvg0Knl_u_Amh1iRaiEz8neqVdfWn-Z2nNGGYYQ3qtJk33FCwucbOrvz-xjkZkONQ1zPWOacYIGiO2vpYQvJ89oatHBxuyVpnMbzXuFJ7pLl9EFQmIooYrORpVP--8g1xaw&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4QFnoECBIQAQ&uoh=1",
+    "snippet": "Paper: ImageNet Classification with Deep Convolutional Neural Networks. Authors: Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton. Published ...",
+    "snippet_highlighted_words": [
+     "Paper",
+     "ImageNet Classification"
+    ],
+    "source": "Substack · Deep Learning With The Wolf",
+    "title": "The Wolf Reads AI – Day 12- \"Alex Net\""
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "Krizhevsky et al.'s CNN, often referred to as AlexNet, was trained on the ILSVRC-2010 dataset and later competed in the ILSVRC-2012 competition, ...",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+      "source_info_link": "https://medium.com/@alriffaud/imagenet-classification-with-deep-convolutional-neural-networks-a-detailed-analysis-of-krizhevsky-d41d6fe418fd"
+     }
+    },
+    "displayed_link": "Mygtuko „Patinka“ paspaudimų: 4 · prieš 1 metus",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+    "link": "https://medium.com/@alriffaud/imagenet-classification-with-deep-convolutional-neural-networks-a-detailed-analysis-of-krizhevsky-d41d6fe418fd",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEB6zswFfMDvfKX7RYF69Zk08lc2wfZTBgpTNEFAiZZqysq5qSt2XOOkg6XyTf0H4pUn91RnHJsZUZ4cZawv5Pv5l2E9ZMXDiuOYLj9vKWNF_wDOqRIqVCfrwETQFgRabo0uw1XRHrx0YZfeE2AI-8gfZiRfAsTvZDlII6KomHT7rjBWo9k6h9zHuB7qM8IMUP8CHS376he-AzeETnK3rWqNWEw_VUW2nzZS_CTSf8ec2nL47YPIM65Ps51K1imYPnHn2kRXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4QFnoECDoQAQ&uoh=1",
+    "snippet": "Krizhevsky et al.'s CNN, often referred to as AlexNet, was trained on the ILSVRC-2010 dataset and later competed in the ILSVRC-2012 competition, ...",
+    "snippet_highlighted_words": [
+     "Krizhevsky et al"
+    ],
+    "source": "Medium · Alberto Riffaud",
+    "title": "ImageNet Classification with Deep Convolutional Neural ..."
+   },
+   {
+    "about_this_result": {
+     "source": {
+      "description": "ai #research #alexnet AlexNet was the start of the deep learning revolution. Up until 2012, the best computer vision systems relied on ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "Peržiūrų: daugiau nei 51 tūkst. · prieš 6 metus",
+    "duration": "46:07",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=0",
+      "time": "00:00",
+      "title": "Intro & Overview"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=120",
+      "time": "02:00",
+      "title": "The necessity of larger models"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=380",
+      "time": "06:20",
+      "title": "Why CNNs?"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=665",
+      "time": "11:05",
+      "title": "ImageNet"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=725",
+      "time": "12:05",
+      "title": "Model Architecture Overview"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=875",
+      "time": "14:35",
+      "title": "ReLU Nonlinearities"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=1125",
+      "time": "18:45",
+      "title": "Multi-GPU training"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=1290",
+      "time": "21:30",
+      "title": "Classification Results"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=1470",
+      "time": "24:30",
+      "title": "Local Response Normalization"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=1685",
+      "time": "28:05",
+      "title": "Overlapping Pooling"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=1945",
+      "time": "32:25",
+      "title": "Data Augmentation"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q&t=2310",
+      "time": "38:30",
+      "title": "Dropout"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=Nq3auVtvd9Q",
+    "position": 7,
+    "snippet": "ai #research #alexnet AlexNet was the start of the deep learning revolution. Up until 2012, the best computer vision systems relied on ...",
+    "source": "YouTube · Yannic Kilcher",
+    "thumbnail": "https://serpapi.com/searches/6aafc4c1be918a4878ac13d4/images/fGAqkCPwv-kb_h57PvAK_yPb5Q0szIXw4CHMonXADIM.png",
+    "title": "[Classic] ImageNet Classification with Deep Convolutional ...",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTUkZKBW_revKcAf-44uDLqDHdu9Z3l4fizwA"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "AlexNet is a convolutional neural network architecture that gained prominence by winning the ImageNet 2012 challenge, showcasing the effectiveness of deep ...",
+      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALsNcA6TAiSRiU0ciNsNw4-ckvZckbI8Q0Lri0nWvPTAAP6fWoc5hI1waVpH4HPI-z3W07wkXNBNlhQO9hAKmOv8njeniRb9FCg1c1JmF3efXUUmw2bU_zMmv4y8p_nL016PcG2_Kkra3QUXk6GbHsoOEa89zFXoAnXirQsiNRzPXeKrniAu0unVpGtsEeMjevYRjJ48Bp-DMJ4D_R_y1f316ypJ0S_9mXgcgm8VoTywUh86jiUV9Al4I6yaumsUkda-7a6L12tg8hgBlh0gWv0-rnf3aeCVRG6cfsuzLtT0ruwHdbHm1C0wW2RxRakx4lXvH-JOfzi7UEbqOQ5wVHgAAA.webp",
+      "source_info_link": "https://www.scribd.com/document/945202362/Alexnet-Paper-Google-Search"
+     }
+    },
+    "displayed_link": "https://www.scribd.com › document",
+    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALsNcA6TAiSRiU0ciNsNw4-ckvZckbI8Q0Lri0nWvPTAAP6fWoc5hI1waVpH4HPI-z3W07wkXNBNlhQO9hAKmOv8njeniRb9FCg1c1JmF3efXUUmw2bU_zMmv4y8p_nL016PcG2_Kkra3QUXk6GbHsoOEa89zFXoAnXirQsiNRzPXeKrniAu0unVpGtsEeMjevYRjJ48Bp-DMJ4D_R_y1f316ypJ0S_9mXgcgm8VoTywUh86jiUV9Al4I6yaumsUkda-7a6L12tg8hgBlh0gWv0-rnf3aeCVRG6cfsuzLtT0ruwHdbHm1C0wW2RxRakx4lXvH-JOfzi7UEbqOQ5wVHgAAA.webp",
+    "link": "https://www.scribd.com/document/945202362/Alexnet-Paper-Google-Search",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVTpSX0OyFA8ow7yw_9aGA3wX-NUvbT9raTNJ9Mg1m6W4bwuEeOa2ikk54grs-8CyzMWvzRfYSpRg3xhmXHJ9Df6JsuZ_ZxKZvBFMXLh8oY1GZ1jGIYtHO4EbZ7pKB_0EzneNepNG6ylfu3MvXm2p3FDTZs6_roKTL&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4QFnoECD0QAQ&uoh=1",
+    "snippet": "AlexNet is a convolutional neural network architecture that gained prominence by winning the ImageNet 2012 challenge, showcasing the effectiveness of deep ...",
+    "snippet_highlighted_words": [
+     "AlexNet",
+     "ImageNet"
+    ],
+    "source": "Scribd",
+    "title": "AlexNet: ImageNet Classification 2012 | PDF"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "One of the first networks designed specifically for parking lot classification was proposed by [10], who introduced mAlexNet, a lightweight CNN-based ...",
+      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
+      "source_info_link": "https://www.researchgate.net/publication/319770183_Imagenet_classification_with_deep_convolutional_neural_networks"
+     }
+    },
+    "displayed_link": "https://www.researchgate.net › 3197...",
+    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
+    "link": "https://www.researchgate.net/publication/319770183_Imagenet_classification_with_deep_convolutional_neural_networks",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFc_72B06Nzu2LodAV6uQXJyQj6RAdLDDzf6O5ZhMwYPzfzKd6go_qdD17dEw6NyZ7vs81dvmcbtKMQ2gloCWkMNWU8_xdkoQNvf57jGbUfm-szxA9jW6ByFxEkv24TUuAQlMji2DNe0I7k_lCm_wjmt12ensMNODsF0zRq1J2ouCjnc8WkVNCfAULgDBlkenjdn6Xrh6sVFW5dzownhXqJYINyqB9Q&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4QFnoECEAQAQ&uoh=1",
+    "snippet": "One of the first networks designed specifically for parking lot classification was proposed by [10], who introduced mAlexNet, a lightweight CNN-based ...",
+    "snippet_highlighted_words": [
+     "classification",
+     "introduced"
+    ],
+    "source": "ResearchGate",
+    "title": "ImageNet Classification with Deep Convolutional Neural ..."
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=10&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8NMDegQITRAW",
+   "other_pages": {
+    "10": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=90&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8tMDegQITRAU",
+    "2": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=10&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8tMDegQITRAE",
+    "3": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=20&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8tMDegQITRAG",
+    "4": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=30&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8tMDegQITRAI",
+    "5": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=40&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8tMDegQITRAK",
+    "6": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=50&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8tMDegQITRAM",
+    "7": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=60&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8tMDegQITRAO",
+    "8": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=70&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8tMDegQITRAQ",
+    "9": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification?&sca_esv=646215d9fbd2647e&ei=wcSvapWgFoiqw8cPw-iL8QE&start=80&sa=N&sstk=AS6-VmKFCO7KZ08YkfPVNqW1r7KgLmaI_xp9WgRXktfTyjf1s18SdUPlV2oh8jEtaOlTDMjEwuEV5b6JYwovtv7FCevZRdRGjrZvXQ&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q8tMDegQITRAS"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZsTm9la1l5ZFU1ME1IZE9Xa2xFVDA5eldIaHBNRGczTWpNMWIySnVTMk5hVnpoRGNYZzBjRVJLZGt4NGJYYzJiMFZzWDFCb2RGVXlWR2x0YWt4V1ZFMUxRa1p3YUVKV1gyUTRWMW93VkhJMVdtRmhVMVZCYkZkNWR4SVhkMk5UZG1Gd1YyZEdiMmx4ZHpoalVIY3RhVXc0VVVVYUlrRkVjM0k1WmxGTVpGSlNkM0JMTFZGelVreGxRVU40VURSRGQySkNRbEpLYUVFIiwiZmN2IjoiMyIsImVpIjoid2NTdmFwV2dGb2lxdzhjUHctaUw4UUUiLCJxYyI6ImMtT3lLc19JVE01UUtFZ3NTQzFTeU13cktjcFBLVTFPVFZGSXpFbXR5RXN0VVVqTEJ3cm5KcWFuZ2pqSk9ZbkZ4WmxwbWNtSkpabjVlUUlNdFN5eWN2WUEiLCJxdWVzdGlvbiI6IldobyBjcmVhdGVkIHRoZSBJbWFnZU5ldCBkYXRhc2V0PyIsImxrIjoiR2hsM2FHOGdiV0ZrWlNCcGJXRm5aVzVsZENCa1lYUmhjMlYwIiwiYnMiOiJjMzFRUFU4Q1FSQU43VmEybkZISHl0aVppXzFKcUdndXhvWjYzSDNIYlFLemw1MDkwRF9nNzNZQVFXT003Ynp2Y1VfdWR0a244aGxjRUtqMG9NV0dWMmhSS0hCaFJXbnF5MnE2TTlLR0F5anVVZmxHSGJ2SFpjLUZvaDdVSVhZZE1zU0RYbEYyZ05Cc2piZTlIMHM0bXpmMWZYWDNCNWVOSzFfY1U1VDdtTGpuT1F1OXA1R0duTGJSZWpCbEtEajduZ1lla0MzY1NuVEpqd3FsSkVjMS1UV3J4aTU2THRHT28wWlowYnh0bTdxdUhuNDVfQ195SW03bXJoZDYzbU9keXpGWTZBVjZXSFZUWGRralRpdC1NaXpNVGhlVFR3IiwiaWQiOiJmY193Y1N2YXBXZ0ZvaXF3OGNQdy1pTDhRRV8xIn0=",
+    "page_token": "PqdbbHicHdBbbqMwFABQzWb62WAorRIpGonySiQccbGN8U9l7BAC5pGBvPjrXmZVs5qRepZwvv-ac9_--3Wr53mcNqvV_X5_PQ3DyRxf1dCt5PTs1UpJY0qp2s37xzv6XaltcN15n5edl9JxZD5YJIazzENyjGDSAeYQGybifXBswkIRfc0az8W-viQLS1W3toCHe-GwPeNjUzY157bblxSYspArYtGkJAwSqg2lb0-1eLHk2BbBWCVMExZBKiLRSttQyKyHsjDNFsh0o-UhmrH06yLNJxvTdUVzF5ettch8XREkdmnXzkeifUVrrmJxgcBMpEOicIIndPot42GVINMHtXYKhO2Ce1xY4iZ56BwinOonGolfA8BwTiksqjEdRetLac8O9AxJRywsf-ypAwfgbMIkcQsLu-L-Uqnb1nn5-dx-Vd28Gf8Mp__Y2oJY",
+    "question": "Who created the ImageNet dataset?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PqdbbHicHdBbbqMwFABQzWb62WAorRIpGonySiQccbGN8U9l7BAC5pGBvPjrXmZVs5qRepZwvv-ac9_--3Wr53mcNqvV_X5_PQ3DyRxf1dCt5PTs1UpJY0qp2s37xzv6XaltcN15n5edl9JxZD5YJIazzENyjGDSAeYQGybifXBswkIRfc0az8W-viQLS1W3toCHe-GwPeNjUzY157bblxSYspArYtGkJAwSqg2lb0-1eLHk2BbBWCVMExZBKiLRSttQyKyHsjDNFsh0o-UhmrH06yLNJxvTdUVzF5ettch8XREkdmnXzkeifUVrrmJxgcBMpEOicIIndPot42GVINMHtXYKhO2Ce1xY4iZ56BwinOonGolfA8BwTiksqjEdRetLac8O9AxJRywsf-ypAwfgbMIkcQsLu-L-Uqnb1nn5-dx-Vd28Gf8Mp__Y2oJY",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZsTm9la1l5ZFU1ME1IZE9Xa2xFVDA5eldIaHBNRGczTWpNMWIySnVTMk5hVnpoRGNYZzBjRVJLZGt4NGJYYzJiMFZzWDFCb2RGVXlWR2x0YWt4V1ZFMUxRa1p3YUVKV1gyUTRWMW93VkhJMVdtRmhVMVZCYkZkNWR4SVhkMk5UZG1Gd1YyZEdiMmx4ZHpoalVIY3RhVXc0VVVVYUlrRkVjM0k1WmxGTVpGSlNkM0JMTFZGelVreGxRVU40VURSRGQySkNRbEpLYUVFIiwiZmN2IjoiMyIsImVpIjoid2NTdmFwV2dGb2lxdzhjUHctaUw4UUUiLCJxYyI6ImMtT3lLc19JVE01UUtFZ3NTQzFTeU13cktjcFBLVTFPVFZGSXpFbXR5RXN0VVVqTEJ3cm5KcWFuZ2pqSk9ZbkZ4WmxwbWNtSkpabjVlUUlNdFN5eWN2WUEiLCJxdWVzdGlvbiI6IldobyBjcmVhdGVkIHRoZSBJbWFnZU5ldCBkYXRhc2V0PyIsImxrIjoiR2hsM2FHOGdiV0ZrWlNCcGJXRm5aVzVsZENCa1lYUmhjMlYwIiwiYnMiOiJjMzFRUFU4Q1FSQU43VmEybkZISHl0aVppXzFKcUdndXhvWjYzSDNIYlFLemw1MDkwRF9nNzNZQVFXT003Ynp2Y1VfdWR0a244aGxjRUtqMG9NV0dWMmhSS0hCaFJXbnF5MnE2TTlLR0F5anVVZmxHSGJ2SFpjLUZvaDdVSVhZZE1zU0RYbEYyZ05Cc2piZTlIMHM0bXpmMWZYWDNCNWVOSzFfY1U1VDdtTGpuT1F1OXA1R0duTGJSZWpCbEtEajduZ1lla0MzY1NuVEpqd3FsSkVjMS1UV3J4aTU2THRHT28wWlowYnh0bTdxdUhuNDVfQ195SW03bXJoZDYzbU9keXpGWTZBVjZXSFZUWGRralRpdC1NaXpNVGhlVFR3IiwiaWQiOiJmY193Y1N2YXBXZ0ZvaXF3OGNQdy1pTDhRRV8xIn0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZsTm9la1l5ZFU1ME1IZE9Xa2xFVDA5eldIaHBNRGczTWpNMWIySnVTMk5hVnpoRGNYZzBjRVJLZGt4NGJYYzJiMFZzWDFCb2RGVXlWR2x0YWt4V1ZFMUxRa1p3YUVKV1gyUTRWMW93VkhJMVdtRmhVMVZCYkZkNWR4SVhkMk5UZG1Gd1YyZEdiMmx4ZHpoalVIY3RhVXc0VVVVYUlrRkVjM0k1WmxGTVpGSlNkM0JMTFZGelVreGxRVU40VURSRGQySkNRbEpLYUVFIiwiZmN2IjoiMyIsImVpIjoid2NTdmFwV2dGb2lxdzhjUHctaUw4UUUiLCJxYyI6ImMtT3lLc19JVE01UUtFZ3NTQzFTeU13cktjcFBLVTFPVFZGSXpFbXR5RXN0VVVqTEJ3cm5KcWFuZ2pqSk9ZbkZ4WmxwbWNtSkpabjVlUUlNdFN5eWN2WUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBBbGV4TmV0IGFuZCBJbWFnZU5ldD8iLCJsayI6IkdpZGthV1ptWlhKbGJtTmxJR0psZEhkbFpXNGdZV3hsZUc1bGRDQmhibVFnYVcxaFoyVnVaWFEiLCJicyI6ImMzMVFQVThDUVJBTjdWYTJuRkhIeXRpWmlfMUpxR2d1eG9aNjNIM0hiUUt6bDUwOTBEX2c3M1lBUVdPTTdienZjVV91ZHRrbjhobGNFS2owb01XR1YyaFJLSEJoUlducXkycTZNOUtHQXlqdVVmbEdIYnZIWmMtRm9oN1VJWFlkTXNTRFhsRjJnTkJzamJlOUgwczRtemYxZlhYM0I1ZU5LMV9jVTVUN21Mam5PUXU5cDVHR25MYlJlakJsS0RqN25nWWVrQzNjU25USmp3cWxKRWMxLVRXcnhpNTZMdEdPbzBaWjBieHRtN3F1SG40NV9DX3lJbTdtcmhkNjNtT2R5ekZZNkFWNldIVlRYZGtqVGl0LU1pek1UaGVUVHciLCJpZCI6ImZjX3djU3ZhcFdnRm9pcXc4Y1B3LWlMOFFFXzEifQ==",
+    "page_token": "zulptHicHdBdboIwAADg7DI-ShFw0cQsQy3oVgylP9CXBVpFbQUyUZC33WWn2mm27AZfvq9vc6r0z1N6bNvmOresruvGZV2XZj-W9cXKr49KWjI3psilnk-fp_bLQS7W185f1p0f06ZhKwwS3QMJmje00g4JRaYGSGIGbTXEAzfI4QS5iHogMnGnTN3ypb3hfNvna8FyXYIi3AAU0GEfHklkw1NWCVwM0AgYZaLatkh7cU6390KXrmQmFMTcosDzKGRhwXCGgesqMINiEJw5GBX2a4sJdnfEp-gskn1VT6gxCIXK8BVO8jRLoKPO1BFHCVWFL7NGptLNbN95_wPvIITBaevjMHrsuCBsaXNsZhMS2DxzZCeA2yuNb0yLnhCMaaqq0UHeF87of2zxcbi08-azLn8B2Ht3kg",
+    "question": "What is the difference between AlexNet and ImageNet?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zulptHicHdBdboIwAADg7DI-ShFw0cQsQy3oVgylP9CXBVpFbQUyUZC33WWn2mm27AZfvq9vc6r0z1N6bNvmOresruvGZV2XZj-W9cXKr49KWjI3psilnk-fp_bLQS7W185f1p0f06ZhKwwS3QMJmje00g4JRaYGSGIGbTXEAzfI4QS5iHogMnGnTN3ypb3hfNvna8FyXYIi3AAU0GEfHklkw1NWCVwM0AgYZaLatkh7cU6390KXrmQmFMTcosDzKGRhwXCGgesqMINiEJw5GBX2a4sJdnfEp-gskn1VT6gxCIXK8BVO8jRLoKPO1BFHCVWFL7NGptLNbN95_wPvIITBaevjMHrsuCBsaXNsZhMS2DxzZCeA2yuNb0yLnhCMaaqq0UHeF87of2zxcbi08-azLn8B2Ht3kg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZsTm9la1l5ZFU1ME1IZE9Xa2xFVDA5eldIaHBNRGczTWpNMWIySnVTMk5hVnpoRGNYZzBjRVJLZGt4NGJYYzJiMFZzWDFCb2RGVXlWR2x0YWt4V1ZFMUxRa1p3YUVKV1gyUTRWMW93VkhJMVdtRmhVMVZCYkZkNWR4SVhkMk5UZG1Gd1YyZEdiMmx4ZHpoalVIY3RhVXc0VVVVYUlrRkVjM0k1WmxGTVpGSlNkM0JMTFZGelVreGxRVU40VURSRGQySkNRbEpLYUVFIiwiZmN2IjoiMyIsImVpIjoid2NTdmFwV2dGb2lxdzhjUHctaUw4UUUiLCJxYyI6ImMtT3lLc19JVE01UUtFZ3NTQzFTeU13cktjcFBLVTFPVFZGSXpFbXR5RXN0VVVqTEJ3cm5KcWFuZ2pqSk9ZbkZ4WmxwbWNtSkpabjVlUUlNdFN5eWN2WUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBBbGV4TmV0IGFuZCBJbWFnZU5ldD8iLCJsayI6IkdpZGthV1ptWlhKbGJtTmxJR0psZEhkbFpXNGdZV3hsZUc1bGRDQmhibVFnYVcxaFoyVnVaWFEiLCJicyI6ImMzMVFQVThDUVJBTjdWYTJuRkhIeXRpWmlfMUpxR2d1eG9aNjNIM0hiUUt6bDUwOTBEX2c3M1lBUVdPTTdienZjVV91ZHRrbjhobGNFS2owb01XR1YyaFJLSEJoUlducXkycTZNOUtHQXlqdVVmbEdIYnZIWmMtRm9oN1VJWFlkTXNTRFhsRjJnTkJzamJlOUgwczRtemYxZlhYM0I1ZU5LMV9jVTVUN21Mam5PUXU5cDVHR25MYlJlakJsS0RqN25nWWVrQzNjU25USmp3cWxKRWMxLVRXcnhpNTZMdEdPbzBaWjBieHRtN3F1SG40NV9DX3lJbTdtcmhkNjNtT2R5ekZZNkFWNldIVlRYZGtqVGl0LU1pek1UaGVUVHciLCJpZCI6ImZjX3djU3ZhcFdnRm9pcXc4Y1B3LWlMOFFFXzEifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZsTm9la1l5ZFU1ME1IZE9Xa2xFVDA5eldIaHBNRGczTWpNMWIySnVTMk5hVnpoRGNYZzBjRVJLZGt4NGJYYzJiMFZzWDFCb2RGVXlWR2x0YWt4V1ZFMUxRa1p3YUVKV1gyUTRWMW93VkhJMVdtRmhVMVZCYkZkNWR4SVhkMk5UZG1Gd1YyZEdiMmx4ZHpoalVIY3RhVXc0VVVVYUlrRkVjM0k1WmxGTVpGSlNkM0JMTFZGelVreGxRVU40VURSRGQySkNRbEpLYUVFIiwiZmN2IjoiMyIsImVpIjoid2NTdmFwV2dGb2lxdzhjUHctaUw4UUUiLCJxYyI6ImMtT3lLc19JVE01UUtFZ3NTQzFTeU13cktjcFBLVTFPVFZGSXpFbXR5RXN0VVVqTEJ3cm5KcWFuZ2pqSk9ZbkZ4WmxwbWNtSkpabjVlUUlNdFN5eWN2WUEiLCJxdWVzdGlvbiI6IkNhbiB5b3UgcHJvdmlkZSBhIHJlc2VhcmNoIHBhcGVyIHRoYXQgZm9jdXNlcyBvbiBpbWFnZSBjbGFzc2lmaWNhdGlvbiB1c2luZyBDTk4/IiwibGsiOiJHakJ5WlhObFlYSmphQ0J3WVhCbGNpQnZiaUJwYldGblpTQmpiR0Z6YzJsbWFXTmhkR2x2YmlCMWMybHVaeUJqYm00IiwiYnMiOiJjMzFRUFU4Q1FSQU43VmEybkZISHl0aVppXzFKcUdndXhvWjYzSDNIYlFLemw1MDkwRF9nNzNZQVFXT003Ynp2Y1VfdWR0a244aGxjRUtqMG9NV0dWMmhSS0hCaFJXbnF5MnE2TTlLR0F5anVVZmxHSGJ2SFpjLUZvaDdVSVhZZE1zU0RYbEYyZ05Cc2piZTlIMHM0bXpmMWZYWDNCNWVOSzFfY1U1VDdtTGpuT1F1OXA1R0duTGJSZWpCbEtEajduZ1lla0MzY1NuVEpqd3FsSkVjMS1UV3J4aTU2THRHT28wWlowYnh0bTdxdUhuNDVfQ195SW03bXJoZDYzbU9keXpGWTZBVjZXSFZUWGRralRpdC1NaXpNVGhlVFR3IiwiaWQiOiJmY193Y1N2YXBXZ0ZvaXF3OGNQdy1pTDhRRV8xIn0=",
+    "page_token": "gaj2IXicHdBLjpswAABQ9TKznOBxQ9VIUSU-NkIEBmMbh01lDAkEO1iMlZDs5go9Q0_V07Tq7q3f5289Xqc_X34NztmP3WZzv99fz_N81v2rms1GfjyuaqOk1q1U087_5oMfJ7WPbyoIFxWUzFoeEa-6Hj32zEdu0MxASktjgyJBotczrNhqJHOGYR1w0QHCu4OAaaImh-WFj7m31vmbsy3Q7yXNrRTpwpIhbLX224jBFgwhx9uprwmr_jkT5bOkXEqT-7kunbwQljE0HLRy1QPEB5GGhxhgiRpQ4C2nmH1tsH1XaFgLTlxWr8c2maHyXNzjLusjBRvYrMQ0WSEQkmbNVL0NyXOgrP7uszj3-4mfqihd60TDeOjgEeRvRxGIxmtuUiBY4LzsHsDSaCCEzGPJyFNdtGGGVNRDuuZ26WkQ8IlQOQLW8PO2j8nSxeulu7-c1G0PX_5f73-ejNvZZT7_BW8UjNM",
+    "question": "Can you provide a research paper that focuses on image classification using CNN?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gaj2IXicHdBLjpswAABQ9TKznOBxQ9VIUSU-NkIEBmMbh01lDAkEO1iMlZDs5go9Q0_V07Tq7q3f5289Xqc_X34NztmP3WZzv99fz_N81v2rms1GfjyuaqOk1q1U087_5oMfJ7WPbyoIFxWUzFoeEa-6Hj32zEdu0MxASktjgyJBotczrNhqJHOGYR1w0QHCu4OAaaImh-WFj7m31vmbsy3Q7yXNrRTpwpIhbLX224jBFgwhx9uprwmr_jkT5bOkXEqT-7kunbwQljE0HLRy1QPEB5GGhxhgiRpQ4C2nmH1tsH1XaFgLTlxWr8c2maHyXNzjLusjBRvYrMQ0WSEQkmbNVL0NyXOgrP7uszj3-4mfqihd60TDeOjgEeRvRxGIxmtuUiBY4LzsHsDSaCCEzGPJyFNdtGGGVNRDuuZ26WkQ8IlQOQLW8PO2j8nSxeulu7-c1G0PX_5f73-ejNvZZT7_BW8UjNM",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZsTm9la1l5ZFU1ME1IZE9Xa2xFVDA5eldIaHBNRGczTWpNMWIySnVTMk5hVnpoRGNYZzBjRVJLZGt4NGJYYzJiMFZzWDFCb2RGVXlWR2x0YWt4V1ZFMUxRa1p3YUVKV1gyUTRWMW93VkhJMVdtRmhVMVZCYkZkNWR4SVhkMk5UZG1Gd1YyZEdiMmx4ZHpoalVIY3RhVXc0VVVVYUlrRkVjM0k1WmxGTVpGSlNkM0JMTFZGelVreGxRVU40VURSRGQySkNRbEpLYUVFIiwiZmN2IjoiMyIsImVpIjoid2NTdmFwV2dGb2lxdzhjUHctaUw4UUUiLCJxYyI6ImMtT3lLc19JVE01UUtFZ3NTQzFTeU13cktjcFBLVTFPVFZGSXpFbXR5RXN0VVVqTEJ3cm5KcWFuZ2pqSk9ZbkZ4WmxwbWNtSkpabjVlUUlNdFN5eWN2WUEiLCJxdWVzdGlvbiI6IkNhbiB5b3UgcHJvdmlkZSBhIHJlc2VhcmNoIHBhcGVyIHRoYXQgZm9jdXNlcyBvbiBpbWFnZSBjbGFzc2lmaWNhdGlvbiB1c2luZyBDTk4%2FIiwibGsiOiJHakJ5WlhObFlYSmphQ0J3WVhCbGNpQnZiaUJwYldGblpTQmpiR0Z6YzJsbWFXTmhkR2x2YmlCMWMybHVaeUJqYm00IiwiYnMiOiJjMzFRUFU4Q1FSQU43VmEybkZISHl0aVppXzFKcUdndXhvWjYzSDNIYlFLemw1MDkwRF9nNzNZQVFXT003Ynp2Y1VfdWR0a244aGxjRUtqMG9NV0dWMmhSS0hCaFJXbnF5MnE2TTlLR0F5anVVZmxHSGJ2SFpjLUZvaDdVSVhZZE1zU0RYbEYyZ05Cc2piZTlIMHM0bXpmMWZYWDNCNWVOSzFfY1U1VDdtTGpuT1F1OXA1R0duTGJSZWpCbEtEajduZ1lla0MzY1NuVEpqd3FsSkVjMS1UV3J4aTU2THRHT28wWlowYnh0bTdxdUhuNDVfQ195SW03bXJoZDYzbU9keXpGWTZBVjZXSFZUWGRralRpdC1NaXpNVGhlVFR3IiwiaWQiOiJmY193Y1N2YXBXZ0ZvaXF3OGNQdy1pTDhRRV8xIn0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZsTm9la1l5ZFU1ME1IZE9Xa2xFVDA5eldIaHBNRGczTWpNMWIySnVTMk5hVnpoRGNYZzBjRVJLZGt4NGJYYzJiMFZzWDFCb2RGVXlWR2x0YWt4V1ZFMUxRa1p3YUVKV1gyUTRWMW93VkhJMVdtRmhVMVZCYkZkNWR4SVhkMk5UZG1Gd1YyZEdiMmx4ZHpoalVIY3RhVXc0VVVVYUlrRkVjM0k1WmxGTVpGSlNkM0JMTFZGelVreGxRVU40VURSRGQySkNRbEpLYUVFIiwiZmN2IjoiMyIsImVpIjoid2NTdmFwV2dGb2lxdzhjUHctaUw4UUUiLCJxYyI6ImMtT3lLc19JVE01UUtFZ3NTQzFTeU13cktjcFBLVTFPVFZGSXpFbXR5RXN0VVVqTEJ3cm5KcWFuZ2pqSk9ZbkZ4WmxwbWNtSkpabjVlUUlNdFN5eWN2WUEiLCJxdWVzdGlvbiI6IklzIEFsZXhOZXQgYmV0dGVyIHRoYW4gUmVzTmV0PyIsImxrIjoiR2gxcGN5QmhiR1Y0Ym1WMElHSmxkSFJsY2lCMGFHRnVJSEpsYzI1bGRBIiwiYnMiOiJjMzFRUFU4Q1FSQU43VmEybkZISHl0aVppXzFKcUdndXhvWjYzSDNIYlFLemw1MDkwRF9nNzNZQVFXT003Ynp2Y1VfdWR0a244aGxjRUtqMG9NV0dWMmhSS0hCaFJXbnF5MnE2TTlLR0F5anVVZmxHSGJ2SFpjLUZvaDdVSVhZZE1zU0RYbEYyZ05Cc2piZTlIMHM0bXpmMWZYWDNCNWVOSzFfY1U1VDdtTGpuT1F1OXA1R0duTGJSZWpCbEtEajduZ1lla0MzY1NuVEpqd3FsSkVjMS1UV3J4aTU2THRHT28wWlowYnh0bTdxdUhuNDVfQ195SW03bXJoZDYzbU9keXpGWTZBVjZXSFZUWGRralRpdC1NaXpNVGhlVFR3IiwiaWQiOiJmY193Y1N2YXBXZ0ZvaXF3OGNQdy1pTDhRRV8xIn0=",
+    "page_token": "xVUyWnicHdBdboIwAADg7DI-DlrRRROzDAWESRmtLdiXBcqwSvkZIqBvu8tOtdNs2XeE7-tbnari56GXXddclpo2DMPjsa6P6uNR1KWWXG6V0ESiVJqIYjl_moPnXKysq2uuP10zpE3DNlgnsTAIXYDAErPA5pcELBpuyTXSOxTG7g3pTCKmegGRGzlA9-nokwoZYTQMqaO6EHYJU5IwXeE9zTxfKUYt70zixvAh5ukaoOyOZtGW07AEQWRhRM4yYnezOFT1SGkjUzpjWWXWfumCrBgV0WWbssUo7i9GqHs5Ut412KLXXSxJukFXSkfFHdUyZ4ApzNYkNgsKx94_o8qS2fQAEDzEZsx13iexPQ0cFGY30Ow3EmNcn0KK7-KsSgptS0DPw4DvuOO9YZsHWSnbpFy06O9lT9mWD5Nc9Kvp5P9z9Z6X3bJp6-MvmLOCuQ",
+    "question": "Is AlexNet better than ResNet?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xVUyWnicHdBdboIwAADg7DI-DlrRRROzDAWESRmtLdiXBcqwSvkZIqBvu8tOtdNs2XeE7-tbnari56GXXddclpo2DMPjsa6P6uNR1KWWXG6V0ESiVJqIYjl_moPnXKysq2uuP10zpE3DNlgnsTAIXYDAErPA5pcELBpuyTXSOxTG7g3pTCKmegGRGzlA9-nokwoZYTQMqaO6EHYJU5IwXeE9zTxfKUYt70zixvAh5ukaoOyOZtGW07AEQWRhRM4yYnezOFT1SGkjUzpjWWXWfumCrBgV0WWbssUo7i9GqHs5Ut412KLXXSxJukFXSkfFHdUyZ4ApzNYkNgsKx94_o8qS2fQAEDzEZsx13iexPQ0cFGY30Ow3EmNcn0KK7-KsSgptS0DPw4DvuOO9YZsHWSnbpFy06O9lT9mWD5Nc9Kvp5P9z9Z6X3bJp6-MvmLOCuQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZsTm9la1l5ZFU1ME1IZE9Xa2xFVDA5eldIaHBNRGczTWpNMWIySnVTMk5hVnpoRGNYZzBjRVJLZGt4NGJYYzJiMFZzWDFCb2RGVXlWR2x0YWt4V1ZFMUxRa1p3YUVKV1gyUTRWMW93VkhJMVdtRmhVMVZCYkZkNWR4SVhkMk5UZG1Gd1YyZEdiMmx4ZHpoalVIY3RhVXc0VVVVYUlrRkVjM0k1WmxGTVpGSlNkM0JMTFZGelVreGxRVU40VURSRGQySkNRbEpLYUVFIiwiZmN2IjoiMyIsImVpIjoid2NTdmFwV2dGb2lxdzhjUHctaUw4UUUiLCJxYyI6ImMtT3lLc19JVE01UUtFZ3NTQzFTeU13cktjcFBLVTFPVFZGSXpFbXR5RXN0VVVqTEJ3cm5KcWFuZ2pqSk9ZbkZ4WmxwbWNtSkpabjVlUUlNdFN5eWN2WUEiLCJxdWVzdGlvbiI6IklzIEFsZXhOZXQgYmV0dGVyIHRoYW4gUmVzTmV0PyIsImxrIjoiR2gxcGN5QmhiR1Y0Ym1WMElHSmxkSFJsY2lCMGFHRnVJSEpsYzI1bGRBIiwiYnMiOiJjMzFRUFU4Q1FSQU43VmEybkZISHl0aVppXzFKcUdndXhvWjYzSDNIYlFLemw1MDkwRF9nNzNZQVFXT003Ynp2Y1VfdWR0a244aGxjRUtqMG9NV0dWMmhSS0hCaFJXbnF5MnE2TTlLR0F5anVVZmxHSGJ2SFpjLUZvaDdVSVhZZE1zU0RYbEYyZ05Cc2piZTlIMHM0bXpmMWZYWDNCNWVOSzFfY1U1VDdtTGpuT1F1OXA1R0duTGJSZWpCbEtEajduZ1lla0MzY1NuVEpqd3FsSkVjMS1UV3J4aTU2THRHT28wWlowYnh0bTdxdUhuNDVfQ195SW03bXJoZDYzbU9keXpGWTZBVjZXSFZUWGRralRpdC1NaXpNVGhlVFR3IiwiaWQiOiJmY193Y1N2YXBXZ0ZvaXF3OGNQdy1pTDhRRV8xIn0%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Alex+Krizhevsky&sa=X&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q1QJ6BAhFEAE",
+    "query": "Alex Krizhevsky",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Alex+Krizhevsky"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=ImageNet+paper&sa=X&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q1QJ6BAhMEAE",
+    "query": "ImageNet paper",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ImageNet+paper"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=AlexNet+paper+PDF&sa=X&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q1QJ6BAhLEAE",
+    "query": "AlexNet paper PDF",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AlexNet+paper+PDF"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=ImageNet+classification+with+deep+convolutional+neural+networks+arXiv&sa=X&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q1QJ6BAhKEAE",
+    "query": "ImageNet classification with deep convolutional neural networks arXiv",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ImageNet+classification+with+deep+convolutional+neural+networks+arXiv"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Alexnet+citation&sa=X&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q1QJ6BAhJEAE",
+    "query": "Alexnet citation",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Alexnet+citation"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Alexnet+original+paper+arxiv&sa=X&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q1QJ6BAhIEAE",
+    "query": "Alexnet original paper arxiv",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Alexnet+original+paper+arxiv"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=AlexNet+ImageNet&sa=X&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q1QJ6BAhHEAE",
+    "query": "AlexNet ImageNet",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AlexNet+ImageNet"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=ImageNet+classification+with+deep+convolutional+neural+networks+google+Scholar&sa=X&ved=2ahUKEwjVhP6fiP2WAxUI1fACHUP0Ih4Q1QJ6BAhGEAE",
+    "query": "ImageNet classification with deep convolutional neural networks google Scholar",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ImageNet+classification+with+deep+convolutional+neural+networks+google+Scholar"
+   }
+  ],
+  "scholarly_articles": {
+   "articles": [
+    {
+     "author": "‎Nawaz",
+     "highlighted_words": [
+      "Classification"
+     ],
+     "link": "https://www.researchgate.net/profile/Muhammad-Tahir-3/publication/325574637_Classification_Of_Breast_Cancer_Histology_Images_Using_ALEXNET/links/5b97a3fe299bf14ad4cbcd52/Classification-Of-Breast-Cancer-Histology-Images-Using-ALEXNET.pdf",
+     "title": "Classification of breast cancer histology images using …"
+    },
+    {
+     "author": "‎Zhu",
+     "highlighted_words": [
+      "classification",
+      "AlexNet"
+     ],
+     "link": "http://www.ijabe.net/cn/article/pdf/preview/10.25165/j.ijabe.20181104.2690.pdf",
+     "title": "… vegetable classification from images based on AlexNet …"
+    },
+    {
+     "author": "‎Tang",
+     "highlighted_words": [
+      "AlexNet",
+      "classification"
+     ],
+     "link": "https://arxiv.org/pdf/2311.08655",
+     "title": "Review of AlexNet for medical image classification"
+    }
+   ],
+   "link": "https://scholar.google.lt/scholar?q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&hl=lt&as_sdt=0&as_vis=1&oi=scholart",
+   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=lt&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F",
+   "title": "Moksliniai straipsniai iš Which paper introduced AlexNet for ImageNet classification?"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "Which paper introduced AlexNet for ImageNet classification?",
+   "time_taken_displayed": 3.94,
+   "total_results": 125
+  },
+  "search_metadata": {
+   "created_at": "2026-09-20 11:34:25 UTC",
+   "google_url": "https://www.google.com/search?q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&oq=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&sourceid=chrome&ie=UTF-8",
+   "id": "6aafc4c1be918a4878ac13d4",
+   "json_endpoint": "https://serpapi.com/searches/NMHsSt5YHar5_6OWHB3KSRBmMWfVZ_98IWU1IulIcH4/6aafc4c1be918a4878ac13d4.json",
+   "markdown_endpoint": "https://serpapi.com/searches/NMHsSt5YHar5_6OWHB3KSRBmMWfVZ_98IWU1IulIcH4/6aafc4c1be918a4878ac13d4.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/NMHsSt5YHar5_6OWHB3KSRBmMWfVZ_98IWU1IulIcH4/6aafc4c1be918a4878ac13d4.json_with_pixel_position",
+   "processed_at": "2026-09-20 11:34:25 UTC",
+   "raw_html_file": "https://serpapi.com/searches/NMHsSt5YHar5_6OWHB3KSRBmMWfVZ_98IWU1IulIcH4/6aafc4c1be918a4878ac13d4.html",
+   "status": "Success",
+   "total_time_taken": 4.32
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "Which paper introduced AlexNet for ImageNet classification?"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=90",
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+AlexNet+for+ImageNet+classification%3F&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}

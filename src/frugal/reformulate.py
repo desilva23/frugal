@@ -60,6 +60,21 @@ _FRAMING_WORDS = frozenset(
         # for -- a wasted search returning a flat line of zeros.
         "search", "searches", "searching",
         "growing", "growth", "rising", "falling", "declining", "decline",
+        # The same verbs in the past tense, which the present-tense list missed.
+        # "Has search interest in bitcoin risen or fallen over time?" produced
+        # the term "bitcoin risen fallen", and trends has no data for that
+        # phrase -- it reported no results at all. "changed" is here but
+        # "change" deliberately is not: climate change is a subject.
+        "risen", "fallen", "grown", "declined", "changed", "increased", "decreased",
+        # Scope and horizon. Both frame a trend question without narrowing what
+        # it is about, and both outranked the subject on length: "Has worldwide
+        # search interest in yoga changed over the last five years?" produced
+        # "worldwide changed years", discarding yoga entirely.
+        "worldwide", "globally", "global", "time", "times", "year", "years", "since",
+        # A spelled-out number in a trend question belongs to the horizon --
+        # "over the last five years" -- and stripping the horizon leaves it
+        # stranded beside the subject, as "yoga five".
+        "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
         "compared", "versus", "vs", "difference", "best", "good", "better",
         "worth", "should", "people", "someone", "things", "stuff", "way", "ways",
     }
@@ -69,7 +84,10 @@ _FRAMING_WORDS = frozenset(
 #: keyword query — an engine sorting by date does not need to be told twice —
 #: but used to decide whether a recency-narrowed variant is worth issuing.
 _RECENCY_WORDS = frozenset(
-    {"latest", "recent", "recently", "current", "today", "now", "new", "newest", "update"}
+    {
+        "latest", "recent", "recently", "current", "today", "now", "new", "newest",
+        "update", "last", "past",
+    }
 )
 
 #: Above this token overlap, two queries will return substantially the same

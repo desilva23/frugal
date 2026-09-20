@@ -275,10 +275,16 @@ def test_a_saturating_plan_skips_its_remaining_steps(tmp_path: Path) -> None:
     plan saturates on its final round and has nothing left to skip. Trends is
     the exception -- it accepts only term queries, and narrower term sets give a
     third round -- which makes it the case where the saving is visible.
+
+    The question needs enough subject words to yield three distinct term sets.
+    An earlier version used a shorter one, and when trend framing like "over
+    time" stopped counting as a subject word its two- and three-term variants
+    collapsed into one, leaving no round to skip.
     """
     planner, _ = make_planner(tmp_path, max_engines=1, max_rounds=4)
     result = planner.run(
-        "Is interest in electric vehicles growing in India over time?", budget=50
+        "Is interest in electric vehicles and solar panels growing in India over time?",
+        budget=50,
     )
     assert "saturated" in result.stopped_because
     assert result.steps_skipped > 0

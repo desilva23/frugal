@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1009.093,
+ "elapsed_ms": 785.596,
  "engine": "google",
- "fetched_at": "2026-09-16T23:25:39.642067+00:00",
+ "fetched_at": "2026-09-20T11:33:19.772007+00:00",
  "frugal_cache_version": 1,
  "key": "5b61f69386165d18c1b66844f21565e1a1b4b8c8a45110190b83ffb74f5882cf",
  "params": {
@@ -10,487 +10,365 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "HDNgv3iczVXNdqJIFH6AeY5xkyjgb5JzOH2qSjQYjeJv7A0Hi7JAkVJQidnNbh5knmqepgsUhLQm6V7MmVpA3eL-fLfu_bh__ePY7vLfP_62ttu1_yAIQRAUKGPUIQXMVoLhH1wszJnje9j65rOdh4ltytjy2IrkDnu5lMO-LOaILWN74hn-YNDdT3bWTO1Z-q4aaJ1c5ELWZ4ZPFjzC68IXdIE_ln-W6lwo-AXDK8CBZIx601l7zwpFsVgqdAVjxRXAf7eaKgAUqEAB8LoS_4S-4IvS8Pk9dYK452ipyRFPTuPR-CclFEdXvU3VyAHi6pHfLpq_DTF3oMUa3euA1ZSAghO8IEoDhu7Ui2ZXlnZKIb6Dj-9Cu3CmHF_sfJKu8Qc3H2SkBkehA4TOQTLBKNBoIqghTniUuxog9TtgUfpB3hxjowPwAKjos9thSL2DceiGz3NRBZPyxhWFmcdfkmBjC0cbzw_7GQ3vRfY49peg5bQPw4EllYn4tqkVHYNJrDYFAp5xPYcZJjF1Sxe_RbJUlCrifal2dxsRCfsJk_w0k4LH_MipTl0XKYV-AUoxjVBS53cVU7h8MUmITqoZg0iAtA9AfL1aUjQVna8cPMUbCpXQvZouH2o8hqpJ4fnmlfIeTtnH-7BdWhkAabBKAkJJQsIGiJsh203q9Nwj6UignpHiOFlbUIextVb_STHrAIFB-BdR0xrpxXEgqoQcQMpjBJcvnPWCzlanLMIcNQpPkpL4VU5KKVQqZ5eqgQ5QFe7THoWVoSrUlASqeorVUN4xTrnE2aNVG37p13dhsc9VOG1OfHnX_mnaNKrj_mSyZZVyRbHLDVYK9uX61OquF0ZwmSZsNfuFiYP_V0Q6zqOneB5dJRL6ApFo2G8fzCPlZH0iUiSOrxOJN9fFeZRgO8-j90SC7RSRPplHv04k9CGRjnEvEoldJtL6OpGO0FNEys4j5fI8Soj0W_OI_d48inhFjq_scNot6PUhNdsVD8sFyXeG7fELgM5oMJeanj5sTemnQ2q-2j6sDNO51W3zARZb24N5q_MD9kDM3EbGHjG2xLxZE89mpo1vtsbMITfEISvibv3cyvGYLBrVw7Q3qbsry8pvWkWio8G8h4K3UVstsn65uqi6EtssIIX5AwPwef38vMhPZ-N6peO9wOX6DnSHOmYT__tetJu7lyV-guOnRie_Lg3m7qjbPlTcxdKsGmAjPiOt3F7m3ft8vxv0yv37jcumTs9rWYOXV7vZnuvBW6BGwHz5pbxGr60dmfhKbuVhmZe9zEBfAxPK-68Z9SUYGYy_A6A1q0BTYM7Hhk78vSyRmVEs3km1SskUSzWcW9HtYS3Xcr7rydIPzp9FyQ",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HDNgv3iczVXNdqJIFH6AeY5xkyjgb5JzOH2qSjQYjeJv7A0Hi7JAkVJQidnNbh5knmqepgsUhLQm6V7MmVpA3eL-fLfu_bh__ePY7vLfP_62ttu1_yAIQRAUKGPUIQXMVoLhH1wszJnje9j65rOdh4ltytjy2IrkDnu5lMO-LOaILWN74hn-YNDdT3bWTO1Z-q4aaJ1c5ELWZ4ZPFjzC68IXdIE_ln-W6lwo-AXDK8CBZIx601l7zwpFsVgqdAVjxRXAf7eaKgAUqEAB8LoS_4S-4IvS8Pk9dYK452ipyRFPTuPR-CclFEdXvU3VyAHi6pHfLpq_DTF3oMUa3euA1ZSAghO8IEoDhu7Ui2ZXlnZKIb6Dj-9Cu3CmHF_sfJKu8Qc3H2SkBkehA4TOQTLBKNBoIqghTniUuxog9TtgUfpB3hxjowPwAKjos9thSL2DceiGz3NRBZPyxhWFmcdfkmBjC0cbzw_7GQ3vRfY49peg5bQPw4EllYn4tqkVHYNJrDYFAp5xPYcZJjF1Sxe_RbJUlCrifal2dxsRCfsJk_w0k4LH_MipTl0XKYV-AUoxjVBS53cVU7h8MUmITqoZg0iAtA9AfL1aUjQVna8cPMUbCpXQvZouH2o8hqpJ4fnmlfIeTtnH-7BdWhkAabBKAkJJQsIGiJsh203q9Nwj6UignpHiOFlbUIextVb_STHrAIFB-BdR0xrpxXEgqoQcQMpjBJcvnPWCzlanLMIcNQpPkpL4VU5KKVQqZ5eqgQ5QFe7THoWVoSrUlASqeorVUN4xTrnE2aNVG37p13dhsc9VOG1OfHnX_mnaNKrj_mSyZZVyRbHLDVYK9uX61OquF0ZwmSZsNfuFiYP_V0Q6zqOneB5dJRL6ApFo2G8fzCPlZH0iUiSOrxOJN9fFeZRgO8-j90SC7RSRPplHv04k9CGRjnEvEoldJtL6OpGO0FNEys4j5fI8Soj0W_OI_d48inhFjq_scNot6PUhNdsVD8sFyXeG7fELgM5oMJeanj5sTemnQ2q-2j6sDNO51W3zARZb24N5q_MD9kDM3EbGHjG2xLxZE89mpo1vtsbMITfEISvibv3cyvGYLBrVw7Q3qbsry8pvWkWio8G8h4K3UVstsn65uqi6EtssIIX5AwPwef38vMhPZ-N6peO9wOX6DnSHOmYT__tetJu7lyV-guOnRie_Lg3m7qjbPlTcxdKsGmAjPiOt3F7m3ft8vxv0yv37jcumTs9rWYOXV7vZnuvBW6BGwHz5pbxGr60dmfhKbuVhmZe9zEBfAxPK-68Z9SUYGYy_A6A1q0BTYM7Hhk78vSyRmVEs3km1SskUSzWcW9HtYS3Xcr7rydIPzp9FyQ"
+   "page_token": "kIUuTniczVXbcqJIGH6AfY7xJomgotFUUVPdiMh4hMTjDQUNInJoBSPq3bzLPtU-zTbgAQwmO7NVW9tVSdPN53_--H7-6Vie_dcfh-V2uw5eKCoMw6KJsekYRYRdSg0OHqIW2Al8tPx-2LGVAgpYumBY7KL-ulO379Pm83BV7ePhEyOUGRAU4p-wiqYGxopY3K8CSqHIP_tbpUkOxaBoeMW6253UhmjU6cyKZbpcKQ4o1SUA8N8tXjJhtP8A3H0QecV_bSoyIALIpyyJwIx3eEXNktecFL_izLvWYOJTjuES-Wsqx3bYJLen-jTv_pa4gJljGMcCQBhHCYH1dTapJZ1yOef1SaUu6Ow6VQ9fb9I9zsSaWWaYObZIFArguKuTtDNiZpkJ41IpZIJ6G8MmBKP7cZP6dERQtYHE56WQXhI_Zi6d684EckPpJhlcmtJ8spUoCy1R_OAH0Txzbw0atxfzWWtdL_nyrrsbKl6ZDqT6fMwIDCdRSCM4B6u6oStLhf4en0vlUpVuVJ7rjzGRUHBhUpBm0hC8a6_dJWMdQbFbhKUzjbik6eBDx3hy5sScxCB3gua0ODXYUcP4BCa10nZPrYSAw4CXQba1nWFUV-F8JDN6JK1JI65eo-H_SKNkmSkwoVEciIhPwDQiQQkp6qYaK4K8z8xt3lL7-tj8ADQvHqMbkq8NzrM-u7U8AxJn8hEHOL4NT1VD6VhJxp3LAZ4D5gH5QsEz4opNQKmYohKIEugBkSc2rZFIJtSMZjUJNBqGk68Wf8O4OwM_I24m3D_59OUs-BWJoiWd-XIz_mnatMZDONTWVmMgT-ZPs7cFXAT2FOx8GYX5NMGu9guKg_5XREr0iD_p0X0i8V8TKdYj-Ikexc9XPYqGl8N3iQSFfD3q5epRNm8OyGki5enRvyAS9ymRkjnMJRLOJ9L6LpHM8JZIWT3i8_XoQqTf0SP4m3oU88pItqw4va_MuyLFq3utfBDsFT3t17ka06xuqlV5sEd9zfxSpBbu9sVVdedRsfQXWP6xPeiPCrnAL4Ze2LDIN9StoT-sDd_CuoUetqrmGA-GY7iGtw0KruNjllaZow-4SXW30hojtSNV5pPpfPF61OR5r2lLYySOGHvwJuiMoJUbE5rWHBpqwdJrvPbb7acp6uwdc1I5eMEK72u6P6BRVVkKO15g9t2xqMy9mdewws1YRZuNM-rrfK9ly2JX7rU2iC7XHIFZe-7UXvfevAmn6SOTjyMLWLu61sdzS1J0seD6iCV9ZzCQJTAxyQAK8WCCkYrJHgJJqJG-wEKAVMUIdmyNqZFC6Y2FppdrzLNRcM3tYc0-FwLPZ0t_A2BTO3s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kIUuTniczVXbcqJIGH6AfY7xJomgotFUUVPdiMh4hMTjDQUNInJoBSPq3bzLPtU-zTbgAQwmO7NVW9tVSdPN53_--H7-6Vie_dcfh-V2uw5eKCoMw6KJsekYRYRdSg0OHqIW2Al8tPx-2LGVAgpYumBY7KL-ulO379Pm83BV7ePhEyOUGRAU4p-wiqYGxopY3K8CSqHIP_tbpUkOxaBoeMW6253UhmjU6cyKZbpcKQ4o1SUA8N8tXjJhtP8A3H0QecV_bSoyIALIpyyJwIx3eEXNktecFL_izLvWYOJTjuES-Wsqx3bYJLen-jTv_pa4gJljGMcCQBhHCYH1dTapJZ1yOef1SaUu6Ow6VQ9fb9I9zsSaWWaYObZIFArguKuTtDNiZpkJ41IpZIJ6G8MmBKP7cZP6dERQtYHE56WQXhI_Zi6d684EckPpJhlcmtJ8spUoCy1R_OAH0Txzbw0atxfzWWtdL_nyrrsbKl6ZDqT6fMwIDCdRSCM4B6u6oStLhf4en0vlUpVuVJ7rjzGRUHBhUpBm0hC8a6_dJWMdQbFbhKUzjbik6eBDx3hy5sScxCB3gua0ODXYUcP4BCa10nZPrYSAw4CXQba1nWFUV-F8JDN6JK1JI65eo-H_SKNkmSkwoVEciIhPwDQiQQkp6qYaK4K8z8xt3lL7-tj8ADQvHqMbkq8NzrM-u7U8AxJn8hEHOL4NT1VD6VhJxp3LAZ4D5gH5QsEz4opNQKmYohKIEugBkSc2rZFIJtSMZjUJNBqGk68Wf8O4OwM_I24m3D_59OUs-BWJoiWd-XIz_mnatMZDONTWVmMgT-ZPs7cFXAT2FOx8GYX5NMGu9guKg_5XREr0iD_p0X0i8V8TKdYj-Ikexc9XPYqGl8N3iQSFfD3q5epRNm8OyGki5enRvyAS9ymRkjnMJRLOJ9L6LpHM8JZIWT3i8_XoQqTf0SP4m3oU88pItqw4va_MuyLFq3utfBDsFT3t17ka06xuqlV5sEd9zfxSpBbu9sVVdedRsfQXWP6xPeiPCrnAL4Ze2LDIN9StoT-sDd_CuoUetqrmGA-GY7iGtw0KruNjllaZow-4SXW30hojtSNV5pPpfPF61OR5r2lLYySOGHvwJuiMoJUbE5rWHBpqwdJrvPbb7acp6uwdc1I5eMEK72u6P6BRVVkKO15g9t2xqMy9mdewws1YRZuNM-rrfK9ly2JX7rU2iC7XHIFZe-7UXvfevAmn6SOTjyMLWLu61sdzS1J0seD6iCV9ZzCQJTAxyQAK8WCCkYrJHgJJqJG-wEKAVMUIdmyNqZFC6Y2FppdrzLNRcM3tYc0-FwLPZ0t_A2BTO3s"
   },
-  "inline_videos": [
-   {
-    "channel": "DeBacco University",
-    "date": "21‏/08‏/2025",
-    "duration": "4:42",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=ADkQ6LbWz5Y&t=36",
-      "time": "00:36",
-      "title": "Dmitri Mendeleev (1869)"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ADkQ6LbWz5Y&t=76",
-      "time": "01:16",
-      "title": "Organization by Atomic Weight and Properties"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ADkQ6LbWz5Y&t=104",
-      "time": "01:44",
-      "title": "Prediction of Undiscovered Elements"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ADkQ6LbWz5Y&t=128",
-      "time": "02:08",
-      "title": "Influence of Properties"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ADkQ6LbWz5Y&t=202",
-      "time": "03:22",
-      "title": "Organizing by Atomic Number"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ADkQ6LbWz5Y&t=224",
-      "time": "03:44",
-      "title": "Refining the Organization"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ADkQ6LbWz5Y&t=246",
-      "time": "04:06",
-      "title": "Basis for Modern Periodic Table"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=ADkQ6LbWz5Y",
-    "platform": "YouTube",
-    "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcROaPZoE5rxLaQpLuE_2UaYGOdsMAy4xp33jg",
-    "thumbnail": "https://serpapi.com/searches/6aab2572ff7aa22223832355/images/1108l2e9sHzEP73voEhJ8-f9BM1Q4-5wqYTXW-7txow.jpeg",
-    "title": "How was the Periodic Table Created"
-   },
-   {
-    "channel": "Australian Academy of Science",
-    "date": "06‏/03‏/2023",
-    "duration": "1:37",
-    "link": "https://www.facebook.com/AustralianAcademyofScience/videos/history-of-the-periodic-table-of-elements/616449513638980/",
-    "platform": "Facebook",
-    "position": 2,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQZHkfXAye4sVR7AYZZqS6eAIzF2rEqGSeafA",
-    "thumbnail": "https://serpapi.com/searches/6aab2572ff7aa22223832355/images/C8VPB2kGy6nFKNQk8Vbx52KdHUpSHJnvY9jx8w__M30.jpeg",
-    "title": "On this day in 1869, Russian chemist Dmitri Mendeleev first ..."
-   },
-   {
-    "channel": "Britannica",
-    "date": "23‏/11‏/2022",
-    "duration": "2:06",
-    "link": "https://www.britannica.com/video/did-you-know-periodic-table/-272672",
-    "platform": "Britannica",
-    "position": 3,
-    "thumbnail": "https://serpapi.com/searches/6aab2572ff7aa22223832355/images/aEFIGhshTfpBBLnwXL9YPPVf_7kUvQWPWa-qjE25khQ.jpeg",
-    "title": "Who Created the Periodic Table?"
-   },
-   {
-    "channel": "I'm Stuck - GCSE and A-Level Revision",
-    "date": "08‏/01‏/2017",
-    "duration": "6:12",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=35",
-      "time": "00:35",
-      "title": "What are elements?"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=50",
-      "time": "00:50",
-      "title": "Compound"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=65",
-      "time": "01:05",
-      "title": "Number of elements in the Periodic Table"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=107",
-      "time": "01:47",
-      "title": "Metalloids"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=152",
-      "time": "02:32",
-      "title": "Solids, liquids and gases"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=197",
-      "time": "03:17",
-      "title": "Noble Gases"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=227",
-      "time": "03:47",
-      "title": "Transition Metals"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=274",
-      "time": "04:34",
-      "title": "Group 2 elements"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=310",
-      "time": "05:10",
-      "title": "Nitrogen"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=lCIgDS04ejA&t=345",
-      "time": "05:45",
-      "title": "Group 18 (Noble Gases)"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=lCIgDS04ejA",
-    "platform": "YouTube",
-    "position": 4,
-    "thumbnail": "https://serpapi.com/searches/6aab2572ff7aa22223832355/images/Bpk_I2p31SN8vseD6NX26EJP0ktEsj4gVZS8gxoTxkI.jpeg",
-    "title": "The Periodic Table - History of The Periodic Table - GCSE ..."
-   }
-  ],
   "organic_results": [
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "The history of the periodic table is also a history of the discovery of the chemical elements. ... Both Mendeleev and Meyer created their respective tables ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/History_of_the_periodic_table"
+      "description": "Without the chemistry of photosynthesis, ozone, and a molecule called Rubisco, none of us would be here. So how did we get so lucky? To find out, host David ...",
+      "icon": "https://serpapi.com/images/i/UklGRuYBAABXRUJQVlA4INoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1T0FpqWJd5DK-LMy8cX0z7A36sdTP0K_1mHFXgsyvukt1TdARQSp0vcMwzWyNyzRnoWmAAD-9gtffVxrabM-R-u_HgNDheggz--Z5vm7y0eNvAC1EwX02yQq-fwxDyzaTDz_8lm4bGtG_s3xUSIYL0SXkWoI4onTfz26uB_7jMExfwmyYxk4l8cTsDkGRC-l-gANG64g07YINmu7N71t5Jw9UXfB3Oe6sGhzOU2giizCxImS-Set1n5xOJG1Aou2uaDp5dGZuef-oxKB3fmGnx-ganBlFeU-zTV5uJzzKba0pnT0GZVln8f7VI4cVaqTDgqiUK_2T02_-i2f1BD4ORk-6mriKi9qyp2sGJ23cf_4sJgwx9qIB6nZrMhr7F9aMCMOmIrrTFddSvW_rpoZMGTLiv0vgfj2_59xQV68VfYbJdI_IuMWgXcLh7loyw1bjkf_iW32XaJFWkT85J3AHU632ULmt_Le3tM_zr1JY9DZNeTxGwhC1Z1w4f0iDiaP-2UjuARWtAFTfPMKx0PwLq6xk5Oxj7raXLC4pV1-dK_I-ORk_NTeoIDze9QeZ314g6W8bfkeAfYcIoJGAAA.webp",
+      "source_info_link": "https://www.pbs.org/wgbh/nova/video/beyond-the-elements-life/"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › His...",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/History_of_the_periodic_table",
+    "displayed_link": "https://www.pbs.org › wgbh › nova › video › beyond-t...",
+    "favicon": "https://serpapi.com/images/i/UklGRuYBAABXRUJQVlA4INoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1T0FpqWJd5DK-LMy8cX0z7A36sdTP0K_1mHFXgsyvukt1TdARQSp0vcMwzWyNyzRnoWmAAD-9gtffVxrabM-R-u_HgNDheggz--Z5vm7y0eNvAC1EwX02yQq-fwxDyzaTDz_8lm4bGtG_s3xUSIYL0SXkWoI4onTfz26uB_7jMExfwmyYxk4l8cTsDkGRC-l-gANG64g07YINmu7N71t5Jw9UXfB3Oe6sGhzOU2giizCxImS-Set1n5xOJG1Aou2uaDp5dGZuef-oxKB3fmGnx-ganBlFeU-zTV5uJzzKba0pnT0GZVln8f7VI4cVaqTDgqiUK_2T02_-i2f1BD4ORk-6mriKi9qyp2sGJ23cf_4sJgwx9qIB6nZrMhr7F9aMCMOmIrrTFddSvW_rpoZMGTLiv0vgfj2_59xQV68VfYbJdI_IuMWgXcLh7loyw1bjkf_iW32XaJFWkT85J3AHU632ULmt_Le3tM_zr1JY9DZNeTxGwhC1Z1w4f0iDiaP-2UjuARWtAFTfPMKx0PwLq6xk5Oxj7raXLC4pV1-dK_I-ORk_NTeoIDze9QeZ314g6W8bfkeAfYcIoJGAAA.webp",
+    "link": "https://www.pbs.org/wgbh/nova/video/beyond-the-elements-life/",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAV6cPkAezR4j7KP7akbcuh56dvi2jY2--OEg-Hmw8bGK22p3aymdwLAeZkJHjHiNFZ_UWxfEtolUOMl8oEYJxP_Xuu5JypGyuDsdemx_VyisfotuoBTMyfIyLNzbdex6tZcp67WBb9UvXrjhn7Rb8&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQFnoECB4QAQ&uoh=1",
-    "snippet": "The history of the periodic table is also a history of the discovery of the chemical elements. ... Both Mendeleev and Meyer created their respective tables ...",
-    "snippet_highlighted_words": [
-     "Both Mendeleev and Meyer created their respective tables"
-    ],
-    "source": "Wikipedia",
-    "title": "History of the periodic table"
+    "read_more_link": "https://www.pbs.org/wgbh/nova/video/beyond-the-elements-life/#:~:text=This%20website%20was%20produced%20for",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVh6_S9w2fJ74m0WdwfkiLObjlzbH8On8Qr0pHKn_wIqkxgxtrPOdLm5ZVtb8yBxz_e3rySQmqWz4DnT6A1YRMWNu97zGSAxCMbAbd_wwAsseqfqlmCGaMWWr_oMjWk1s_-h9by5Chr9CPZxtaVtRtbg&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQFnoECCMQAQ&uoh=1",
+    "snippet": "Without the chemistry of photosynthesis, ozone, and a molecule called Rubisco, none of us would be here. So how did we get so lucky? To find out, host David ...",
+    "source": "PBS",
+    "title": "Beyond the Elements: Life"
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "In 1869, Russian chemist Dmitri Mendeleev created the framework that became the modern periodic table, leaving gaps for elements that were yet ...",
-      "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAABQAgCdASoQABAAAsBMJbACdDiAByEnaDjEtBAA_vqt53KFL_p4jd0R5tA087BsuDS64Mv3cPuqrff-X3itq6Ok4VOgVGxqoZ5oI_TOq3Ug7wji_6aB_FjT-uO-5JvGA85pP3thGT7etRt0J_0mI_Nc7y0TDMbWXjzFMSKtHSJrLC0WqWysIGyjQSVu5-eaUyBjkIR19sKGhRWAAAA.webp",
-      "source_info_link": "https://www.asbmb.org/asbmb-today/science/020721/a-brief-history-of-the-periodic-table"
+      "description": "Elements Massage provides custom massages at an affordable price to improve your health and overall well being. Discover more about our promise today!",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAADQBACdASocABwAPtE-tFooIigoFAEAGgliAM5YyCCRPHmW8PEjHTHgxUHng2GAAAD-_SpYvnjJte-3_ko5f3bJ9U63yDsJjj178JIuC5cY_17KK7YNhP8G1LWZkBXIUiPbLR7NvIK1UDWNgmm1mPazE3w6tNWwPQy1JeUklTFsoYPBff797_T7AjAMlRvAAAA.webp",
+      "source_info_link": "https://elementsmassage.com/"
      }
     },
-    "date": "07‏/02‏/2021",
-    "displayed_link": "https://www.asbmb.org › science › a-...",
-    "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAABQAgCdASoQABAAAsBMJbACdDiAByEnaDjEtBAA_vqt53KFL_p4jd0R5tA087BsuDS64Mv3cPuqrff-X3itq6Ok4VOgVGxqoZ5oI_TOq3Ug7wji_6aB_FjT-uO-5JvGA85pP3thGT7etRt0J_0mI_Nc7y0TDMbWXjzFMSKtHSJrLC0WqWysIGyjQSVu5-eaUyBjkIR19sKGhRWAAAA.webp",
-    "link": "https://www.asbmb.org/asbmb-today/science/020721/a-brief-history-of-the-periodic-table",
+    "displayed_link": "https://elementsmassage.com",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAADQBACdASocABwAPtE-tFooIigoFAEAGgliAM5YyCCRPHmW8PEjHTHgxUHng2GAAAD-_SpYvnjJte-3_ko5f3bJ9U63yDsJjj178JIuC5cY_17KK7YNhP8G1LWZkBXIUiPbLR7NvIK1UDWNgmm1mPazE3w6tNWwPQy1JeUklTFsoYPBff797_T7AjAMlRvAAAA.webp",
+    "link": "https://elementsmassage.com/",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFTH6uAcia7A4fYTvHLjgAFznA-LPaRZ1rgOyzq3yMe_y2qB-UdnBnKw-srZkbh2UcJktwZIekV1p_0owBv0xjU8SfnQYPzWIiLslFFA9Ml2JQQZfS4CC7ypn7U0vXFz7N_wIN-sqn81iO9-fU4YZOqHSUUt9VcQ_Dh-uBTmRX5pYAwg6o0n_QAqS&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQFnoECCMQAQ&uoh=1",
-    "snippet": "In 1869, Russian chemist Dmitri Mendeleev created the framework that became the modern periodic table, leaving gaps for elements that were yet ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVULaHxUTyFMghW9pGOoGvZ4sZUu_VDkKE8A27RRVKH5DfTIq08nJc_asuShfTKx_hRJLa7DwgA0g6mE5_QFR6YMLusnU_m08By7kkU9W1kw&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQFnoECCIQAQ&uoh=1",
+    "snippet": "Elements Massage provides custom massages at an affordable price to improve your health and overall well being. Discover more about our promise today!",
     "snippet_highlighted_words": [
-     "Russian chemist Dmitri Mendeleev"
+     "custom massages at an affordable price"
     ],
-    "source": "American Society for Biochemistry and Molecular Biology",
-    "title": "A brief history of the periodic table"
+    "source": "Elements Massage",
+    "title": "Elements Massage: Massage Therapy That is Personalized"
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Mendeleev was one such scientist. In studying the elements, essentially, he discovered if you arrange them by atomic weight, then the elements ...",
-      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-      "source_info_link": "https://www.reddit.com/r/explainlikeimfive/comments/9ez00v/eli5_how_did_mendeleiev_create_the_periodic_table/"
+      "description": "Serving up locally roasted coffee, high quality books, and local craft beer in historic downtown Biddeford since 2013. · ELEMENTS IS OPEN DAILY 7:00AM-6:00PM",
+      "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAAAQBQCdASocABwAPtE-tFooIigoFAEAGgljAJ0Bi_RmaG01VZu5alcgr7K_3BRdYjgAAP6vjKdDv0BKSmoW-9_gSlTibnAHaClgfN0MWlKlE5CyzPWc0kQ9iFEa_Ffyq9ZS93Sfqf2QxsPRMohjs9QHOyo-yalHfFFcm5hWurM_qYkLZ-fXnX14eyEqhnJBBT1N4q7V94nvsAaXJ0PTI-gwXjhjgA24Nk92MWu_cy0k4AniLyAAAA.webp",
+      "source_info_link": "https://www.elementsbookscoffeebeer.com/"
      }
     },
-    "displayed_link": "‫7 تعليق · قبل 8 سنوات",
-    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-    "link": "https://www.reddit.com/r/explainlikeimfive/comments/9ez00v/eli5_how_did_mendeleiev_create_the_periodic_table/",
+    "displayed_link": "https://www.elementsbookscoffeebeer.com",
+    "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAAAQBQCdASocABwAPtE-tFooIigoFAEAGgljAJ0Bi_RmaG01VZu5alcgr7K_3BRdYjgAAP6vjKdDv0BKSmoW-9_gSlTibnAHaClgfN0MWlKlE5CyzPWc0kQ9iFEa_Ffyq9ZS93Sfqf2QxsPRMohjs9QHOyo-yalHfFFcm5hWurM_qYkLZ-fXnX14eyEqhnJBBT1N4q7V94nvsAaXJ0PTI-gwXjhjgA24Nk92MWu_cy0k4AniLyAAAA.webp",
+    "link": "https://www.elementsbookscoffeebeer.com/",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFX5a3Y3OXpysgOe9nUBzILKOQHIzbXGnCNgA04CyTOoouqEU9OcrggeVaOUICVIKw9XYEPmTg4zns0xmdZrNORm8DgbPsFBCSL7qEDDX5BYzjjRAm6Ke3gD3aWVTH609r3l8o_HavycYeC-2GwjZVYlpYQtIkyi_I1UoLFpbVDR8vQSyE-Z0g60mE2YGFnt53P-QrWGHp88g1qbWUGN0Zpc&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQFnoECC0QAQ&uoh=1",
-    "snippet": "Mendeleev was one such scientist. In studying the elements, essentially, he discovered if you arrange them by atomic weight, then the elements ...",
+    "read_more_link": "https://www.elementsbookscoffeebeer.com/#:~:text=Serving%20up%20locally%20roasted%20coffee%2C,historic%20downtown%20Biddeford%20since%202013.&text=ELEMENTS%20IS%20OPEN%20DAILY,7%3A00AM%2D6%3A00PM",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV5M-kaara1javLtTPDVujv6V8DOD5slY0747dCZ4x38f_pXCVp2gElxJCOXBh7cZy2V3cD5_1AXg9Td0EsFqoR_h05YalNR39C65rxDNN6mzNqpFmSUe3JrprSA&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQFnoECCgQAQ&uoh=1",
+    "snippet": "Serving up locally roasted coffee, high quality books, and local craft beer in historic downtown Biddeford since 2013. · ELEMENTS IS OPEN DAILY 7:00AM-6:00PM",
     "snippet_highlighted_words": [
-     "Mendeleev was one such scientist"
+     "ELEMENTS"
     ],
-    "source": "Reddit · r/explainlikeimfive",
-    "title": "ELI5 how did Mendeleiev create the periodic table, and ..."
+    "source": "Elements: Books Coffee Beer",
+    "title": "Elements: Books Coffee Beer: Home"
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "The creator of the periodic table, Dmitri Mendeleev, in 1869 began collecting and sorting known properties of elements, like he was playing a game, while ...",
-      "icon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAAAQBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0v1kS2wCaIEaC5cN_Fnw0jLXXL45dYh2iTKNUNGL8OTX2ufWAAAAD-9-f8Cu2A-Z18sJyO5-7wZfAd-TrmI6ESmNW06Qm9QgH6UxBU6aVfgrtKkgDB7T9V9zm_muZ5kvEgUV0Nuwv5ih7r4r_JrDrMUNbZsqiWwrz_BtyCH9PRf1_R3zPa9ezb-h73a4vomOH3xN8detXtK9kfb_lCdxf7Tt49zP8sReA2mmuzNneMYHhVNTObO1LjDatgrGmLXv6yoZmeQnZZTbMSgubHY1VR297i_uM8cXgOPoT0d0WCaQUlslQIzl7DClfU5ztXe5OfSFl_2hwmJPI6p97ZR_Sd_d-ZRGRE2xce32pAaP1UtWWi91x_aeUy02CxwZ_B-1yESWiolyfz9OShlLKoCCRagHwWgALFN1s4rwMHLpRgSlePboAA.webp",
-      "source_info_link": "https://pubchem.ncbi.nlm.nih.gov/periodic-table/"
+      "description": "0:00 Intro and Build Goals ; 1:40 Level 1 Build ; 5:43 No Elixir Stat Spread ; 8:40 4 Elements and How It Works ; 13:23 Feat Selection ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=97wfqVzBhcU"
      }
     },
-    "displayed_link": "https://pubchem.ncbi.nlm.nih.gov › ...",
-    "favicon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAAAQBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0v1kS2wCaIEaC5cN_Fnw0jLXXL45dYh2iTKNUNGL8OTX2ufWAAAAD-9-f8Cu2A-Z18sJyO5-7wZfAd-TrmI6ESmNW06Qm9QgH6UxBU6aVfgrtKkgDB7T9V9zm_muZ5kvEgUV0Nuwv5ih7r4r_JrDrMUNbZsqiWwrz_BtyCH9PRf1_R3zPa9ezb-h73a4vomOH3xN8detXtK9kfb_lCdxf7Tt49zP8sReA2mmuzNneMYHhVNTObO1LjDatgrGmLXv6yoZmeQnZZTbMSgubHY1VR297i_uM8cXgOPoT0d0WCaQUlslQIzl7DClfU5ztXe5OfSFl_2hwmJPI6p97ZR_Sd_d-ZRGRE2xce32pAaP1UtWWi91x_aeUy02CxwZ_B-1yESWiolyfz9OShlLKoCCRagHwWgALFN1s4rwMHLpRgSlePboAA.webp",
-    "link": "https://pubchem.ncbi.nlm.nih.gov/periodic-table/",
+    "date": "Jan 16, 2024",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=97wfqVzBhcU",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAV8h1Ne-DuhiKEsA0di9lj9DVqfw7DXOEN1FZGSNP3DQi3erv_iJumhzu8YBoDWeHV4H9X_xAPJtD15sYNwnibg1VTN8L3zOIetsUhweCAtz4S_E_8DqeX4bCu8w6c4try8L4V&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQFnoECB8QAQ&uoh=1",
-    "snippet": "The creator of the periodic table, Dmitri Mendeleev, in 1869 began collecting and sorting known properties of elements, like he was playing a game, while ...",
+    "read_more_link": "https://www.youtube.com/watch?v=97wfqVzBhcU#:~:text=The%20RAREST%20CHARACTER%20%2D%20BG3&text=The%20RAREST%20CHARACTER%20%2D%20BG3&text=The%20RAREST%20CHARACTER%20%2D%20BG3&text=The%20RAREST%20CHARACTER%20%2D%20BG3&text=The%20RAREST%20CHARACTER%20%2D%20BG3",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVhbRQ15stknjL1bGCbkJxHM0wPImlAi_tX0GdYKZx6LbqElFLFP7oyEj7OYCh0qDfvxMbLeg3of4H4dlFEqZ0UDb3iKsRvTxjyp3ac4WpJ_nax9pqfDD_CesNFvhpQA&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQFnoECDEQAQ&uoh=1",
+    "snippet": "0:00 Intro and Build Goals ; 1:40 Level 1 Build ; 5:43 No Elixir Stat Spread ; 8:40 4 Elements and How It Works ; 13:23 Feat Selection ...",
     "snippet_highlighted_words": [
-     "Dmitri Mendeleev"
+     "Elements"
     ],
-    "source": "National Institutes of Health (NIH) | (.gov)",
-    "title": "Periodic Table of Elements - PubChem - NIH"
+    "source": "YouTube",
+    "title": "BG3 Four Elements Monk Build Guide"
    },
    {
     "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
      "source": {
-      "description": "View full lesson: http://ed.ted.com/lessons/the-genius-of-mendeleev-s-\nperiodic-table-lou-serico The elements had been listed and carefully ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+      "description": "Christine Smith helium too, but neither was characterised as an aristocrat to pun on the concept of a 'noble' gas. From the reply I got from ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/foilarmsandhog/videos/the-periodic-table-of-elements-throws-a-party/572079038696706/"
      }
     },
-    "displayed_link": "أكثر من 3.6 مليون مشاهدة · قبل 13 سنة",
-    "duration": "4:25",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=fPnwBITSmgU&t=13",
-      "time": "00:13",
-      "title": "Intro"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=fPnwBITSmgU&t=62",
-      "time": "01:02",
-      "title": "First versions of the periodic table"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=fPnwBITSmgU&t=98",
-      "time": "01:38",
-      "title": "Eka-aluminum"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=fPnwBITSmgU&t=110",
-      "time": "01:50",
-      "title": "Atomic weight of eka-aluminum"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=fPnwBITSmgU&t=142",
-      "time": "02:22",
-      "title": "Gallium discovery"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=fPnwBITSmgU",
+    "date": "Apr 23, 2025",
+    "displayed_link": "https://www.facebook.com › ... › Videos",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/foilarmsandhog/videos/the-periodic-table-of-elements-throws-a-party/572079038696706/",
     "position": 5,
-    "snippet": "View full lesson: http://ed.ted.com/lessons/the-genius-of-mendeleev-s-periodic-table-lou-serico The elements had been listed and carefully ...",
-    "source": "YouTube · TED-Ed",
-    "thumbnail": "https://serpapi.com/searches/6aab2572ff7aa22223832355/images/V-F24GwE5mwijOjMyXWoDTQhd78QNh49A4POJYFd5jI.jpeg",
-    "title": "The genius of Mendeleev's periodic table - Lou Serico",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTMxaEfVMQMhVP6AYj0OP-K4y_4tRJc2BLT5Q"
+    "read_more_link": "https://www.facebook.com/foilarmsandhog/videos/the-periodic-table-of-elements-throws-a-party/572079038696706/#:~:text=Christine%20Smith%20helium%20too%2C%20but,but%20ran%20out%20of%20time.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFVZW5mr5NpVj5y-r7NDSxt8ILGmttFAKlQcONUbSgyntyCq7Re4p8-Yr76gpb-qXE7j2iB0tb-sPwRtTzle6qBuqjJI_7qBXbu0e4xY6N0jXwq2IkIQJn4RTF8fv8L_B_NGUjvteP5nngfrTXJSh8ZG3r76kB-DBtb7uexSXdYSWBzPQ8s9H4PQFsRg2vCZEnQ0QY7W0YjUWLV-y8e9gZxI&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQFnoECCQQAQ&uoh=1",
+    "snippet": "Christine Smith helium too, but neither was characterised as an aristocrat to pun on the concept of a 'noble' gas. From the reply I got from ...",
+    "source": "Facebook",
+    "title": "The Periodic Table of Elements Throws a Party"
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "The periodic table was invented by Russian chemist Dmitri Mendeleev in 1869. However, prior to Mendeleev, chemists had been pondering for decades how to ...",
-      "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADwCACdASogACAAPtE-tFooIigoFAEAGglqAJ0yy8Z4HYK8ufftA9jv017Af6x-kB7APQrTb2N0E-CzEqWCas8PAGtfs_hy1cd_Q-LxctPZgAD-0olmCDofFrwKNFJefRmYKRj8vZV0-MDEa3lnaI83UKUXRFf6nDzQB5JS4_F7TveOvzOY-fcRKtGW56THLd_2CUOwdS_0VZCKBSj_6uThdoY_tS3o3suv43iMshKMU0cih3wGuNpo2cEMKi7voFu7nl7B2UZT0UQOP_Gw33S6P-tlvj-N6MYNXDLikRV6L_jeJfhqBckx77otMycRIceJ6Z_TVxM_CspTu9nbuGuaNKZ7UQ91cLlucL5S_x0upmNDhJO51OvZr2ztTM7Q6aCPRMJfWNXyJlg16k3-zkqTn9IhOYJoCWagmE5A4-P28BP9L0NTEB_VayiHJyZ0J9WBpXLaF0y7pzd_x4T7lN2KEnk0EHPB0oa_Ro4EySv9WmrmEs5UjpKBDugoP2tQ8egNslCHCcL1Ib6jKNKNZ1gOqXq3JVAg-8-2opbfs2D56-nN7OcWhW1xCS3TXFBtN4BRG_AAAAA.webp",
-      "source_info_link": "https://www.britannica.com/story/when-was-the-periodic-table-invented"
+      "description": "We've all heard of stories about how mentoring has changed people's lives but when it comes to jumpstarting the process yourself to find and ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=rY7r6A_J_jQ"
      }
     },
-    "displayed_link": "https://www.britannica.com › story",
-    "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADwCACdASogACAAPtE-tFooIigoFAEAGglqAJ0yy8Z4HYK8ufftA9jv017Af6x-kB7APQrTb2N0E-CzEqWCas8PAGtfs_hy1cd_Q-LxctPZgAD-0olmCDofFrwKNFJefRmYKRj8vZV0-MDEa3lnaI83UKUXRFf6nDzQB5JS4_F7TveOvzOY-fcRKtGW56THLd_2CUOwdS_0VZCKBSj_6uThdoY_tS3o3suv43iMshKMU0cih3wGuNpo2cEMKi7voFu7nl7B2UZT0UQOP_Gw33S6P-tlvj-N6MYNXDLikRV6L_jeJfhqBckx77otMycRIceJ6Z_TVxM_CspTu9nbuGuaNKZ7UQ91cLlucL5S_x0upmNDhJO51OvZr2ztTM7Q6aCPRMJfWNXyJlg16k3-zkqTn9IhOYJoCWagmE5A4-P28BP9L0NTEB_VayiHJyZ0J9WBpXLaF0y7pzd_x4T7lN2KEnk0EHPB0oa_Ro4EySv9WmrmEs5UjpKBDugoP2tQ8egNslCHCcL1Ib6jKNKNZ1gOqXq3JVAg-8-2opbfs2D56-nN7OcWhW1xCS3TXFBtN4BRG_AAAAA.webp",
-    "link": "https://www.britannica.com/story/when-was-the-periodic-table-invented",
+    "date": "Jan 25, 2021",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=rY7r6A_J_jQ",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVoCo_d_HP5r4OzIHGt2SjZFCuCJBHVwNXD_PQfcsYDPlwIDHK5LPKPdWRaVaULSNZaPmqzRi1Pd4_ge5L_J8oCZLf5bJwU99LTJ3BNPoFZUYUSAD5wYNxA8jRdAJ4UFU-8b5khMDyf9pOfbB7nd0S5tK2GLXz1HIX&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQFnoECFMQAQ&uoh=1",
-    "snippet": "The periodic table was invented by Russian chemist Dmitri Mendeleev in 1869. However, prior to Mendeleev, chemists had been pondering for decades how to ...",
-    "snippet_highlighted_words": [
-     "periodic table"
-    ],
-    "source": "Britannica",
-    "title": "When Was the Periodic Table Invented?"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVrfS-ZwZCP0gm9EAyyACsgpBMTSMTR8VtSKV9JYAZW5ewiIKTrnL3BnjtFGRdfyjd0liMIAihJE0daZ2LUZCEum8gyrHAeUSD6ZLDJE0clC6wONZsRyuosuHq39iWjg&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQFnoECCcQAQ&uoh=1",
+    "snippet": "We've all heard of stories about how mentoring has changed people's lives but when it comes to jumpstarting the process yourself to find and ...",
+    "source": "YouTube",
+    "title": "3 Key Elements to Thriving Mentorship | Janet Phan"
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "A Russian scientist called Dmitri Mendeleev produced one of the first practical periodic tables in the 19th century. The modern periodic table is based closely ...",
-      "icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAABQBACdASocABwAPtEutFooIagoGAEAGglpAABc6vNEnPU1--1oio5vAtAAAP72AU19n-Jz4FZyw_HkQHjxW_xb38RJEOBPlkEoT5-leVVfLTm4t-p7TtVUk_u4kyIPNTUaX3A38OG3ktYFvqhpRIi1rbiKlmzh7pkS_5uoT7Kn89g_L6Hsa2M8RgAAAA.webp",
-      "source_info_link": "https://www.bbc.co.uk/bitesize/articles/ztmrr2p"
+      "description": "How You Can Bypass the Home Screen in Photoshop Elements and Go Right to the Editor Organizer · Comments.",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=jKSxbElwrIw"
      }
     },
-    "displayed_link": "https://www.bbc.co.uk › articles",
-    "favicon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAABQBACdASocABwAPtEutFooIagoGAEAGglpAABc6vNEnPU1--1oio5vAtAAAP72AU19n-Jz4FZyw_HkQHjxW_xb38RJEOBPlkEoT5-leVVfLTm4t-p7TtVUk_u4kyIPNTUaX3A38OG3ktYFvqhpRIi1rbiKlmzh7pkS_5uoT7Kn89g_L6Hsa2M8RgAAAA.webp",
-    "link": "https://www.bbc.co.uk/bitesize/articles/ztmrr2p",
+    "date": "Jan 22, 2024",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=jKSxbElwrIw",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVzQvJOd9CW2LiN8r8SgWWSHK2UCJ9PbBwu6p05XaEXfTXrJmx9l-fgDjxu33GTcMjxzYSbeaZAFu1kn4ZLmqTE8Kjtkeo0SEgwXKoudDcfuBbLCbQNxWrs3eoDwoth_yT0S4&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQFnoECFEQAQ&uoh=1",
-    "snippet": "A Russian scientist called Dmitri Mendeleev produced one of the first practical periodic tables in the 19th century. The modern periodic table is based closely ...",
+    "read_more_link": "https://www.youtube.com/watch?v=jKSxbElwrIw#:~:text=How%20You%20Can%20Bypass%20the,Right%20to%20the%20Editor%20Organizer&text=Comments",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVhIg4JWjjFs5p9RjOipI9uLNjc9w3hLfOmQ22HL842YxKD-_ky0H8hqsfs5rYZlRSldntVHnF8Czo0WJhu1OeHjyaRsm_olvA29nuBI0A6uTyT98w6j_r5bBcloSI3g&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQFnoECDkQAQ&uoh=1",
+    "snippet": "How You Can Bypass the Home Screen in Photoshop Elements and Go Right to the Editor Organizer · Comments.",
     "snippet_highlighted_words": [
-     "Dmitri Mendeleev"
+     "How You Can Bypass the Home Screen in Photoshop Elements"
     ],
-    "source": "BBC",
-    "title": "Developing the periodic table - BBC Bitesize"
+    "source": "YouTube",
+    "title": "How You Can Bypass the Home Screen in Photoshop ..."
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "In 1862, a french geologist named Alexandre-Emile Béguyer de Chancourtois was the first person to notice the periodicity of chemical elements.",
-      "source_info_link": "https://www.mathtutordvd.com/public/Who-Invented-the-Periodic-Table.cfm"
+      "description": "Complete PHOTOSHOP ELEMENTS 2024 Tutorial for Beginners - My Best Course Yet! · Comments.",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=JPt4KbbTzd4"
      }
     },
-    "date": "19‏/04‏/2017",
-    "displayed_link": "https://www.mathtutordvd.com › public",
-    "link": "https://www.mathtutordvd.com/public/Who-Invented-the-Periodic-Table.cfm",
+    "date": "Mar 7, 2024",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=JPt4KbbTzd4",
     "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVoaesxq1HcQAVgsWsOT9zzHJU2SQKC6VmMxRrNmMQgeG3dWwLA3wx74CH3XinsXZIwjrbd8dXt6UmskqsuWuJ4Y4WZMmtt1cnTcpYOaSw6-YrXnhE4xs_jS649KrhBYPo_brPjXet3aaNxGInr8ASsRiPD0X5Cs9X09Q&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQFnoECFIQAQ&uoh=1",
-    "snippet": "In 1862, a french geologist named Alexandre-Emile Béguyer de Chancourtois was the first person to notice the periodicity of chemical elements.",
+    "read_more_link": "https://www.youtube.com/watch?v=JPt4KbbTzd4#:~:text=Complete%20PHOTOSHOP%20ELEMENTS%202024%20Tutorial,%2D%20My%20Best%20Course%20Yet!&text=Comments",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVgoDiyhle-qI2usMk-W5jGfUJwrP0T6QDwbxURzYxQzC554oLjt-f2mDR6RjWwbUlklFMqGS2wJ1TMmMILNaxLl5gkCvjRqztOAuc7oABpjfhhmTdgv6qiGIpspnBew&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQFnoECDoQAQ&uoh=1",
+    "snippet": "Complete PHOTOSHOP ELEMENTS 2024 Tutorial for Beginners - My Best Course Yet! · Comments.",
     "snippet_highlighted_words": [
-     "Alexandre-Emile Béguyer de Chancourtois"
+     "ELEMENTS"
     ],
-    "source": "Math Tutor DVD",
-    "title": "Who Invented the Periodic Table?"
+    "source": "YouTube",
+    "title": "Complete PHOTOSHOP ELEMENTS 2024 Tutorial for ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Explanatory note: The structure of the elements of the crimes of genocide, crimes against humanity and war crimes follows the structure of the.",
+      "icon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAACwCACdASogACAAPtEutFooIagoGAEAGglkAJ05jUf-zAGSAdKxMRVnk6BKghlnjN1A-kOpyYqsPzopc0UaW3szFN0toMIpyZYkXMW54AAA_cexm2gvhaEENXJeGBnvOrYLMCj-_wd0P_37PsYndPK_mO0edhFvRA780iX0Duxo8T7j0RueJ6pHHXpXz7pdpkM6djSMUp1jKQZwuyBXDfWShf8VQRqhuyr9483e_7jxTbTnrN1Wr3bf_Q59UOBQeXn6inddnff629j_JnT5_MKtOwu03mc7CHnHGYb_nYyqf5q0tv-PyPoPj8oqmxX5P-vIwyF-y9qOGp8jy5wtelP3J89MRZYHj39MH7ylj-UBlX8j8IN1yxbB332H7bfa_4NRsmPyGenzQjX5LXcSK1d-c9T7DCpUvZf81-cIT4mtg-X_p1El0h-7vwtPg1Hm2Yu2ZM3EucXj_TJfXVypPABq4v0YHmYNSYpw3JqHHH2OlWFwPRSVN7rLS_1SGJtpNuRumWPI19NgM9C9Zf_zRyXIa5pdEzH7aHdv4_3ivI2U1tJobMXnBtjU2hbcFJj8hCpQ4c1PAY28l9WyNj-HPWcOrHHAgIAA.webp",
+      "source_info_link": "https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf"
+     }
+    },
+    "displayed_link": "https://www.icc-cpi.int › sites › files › Publications",
+    "favicon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAACwCACdASogACAAPtEutFooIagoGAEAGglkAJ05jUf-zAGSAdKxMRVnk6BKghlnjN1A-kOpyYqsPzopc0UaW3szFN0toMIpyZYkXMW54AAA_cexm2gvhaEENXJeGBnvOrYLMCj-_wd0P_37PsYndPK_mO0edhFvRA780iX0Duxo8T7j0RueJ6pHHXpXz7pdpkM6djSMUp1jKQZwuyBXDfWShf8VQRqhuyr9483e_7jxTbTnrN1Wr3bf_Q59UOBQeXn6inddnff629j_JnT5_MKtOwu03mc7CHnHGYb_nYyqf5q0tv-PyPoPj8oqmxX5P-vIwyF-y9qOGp8jy5wtelP3J89MRZYHj39MH7ylj-UBlX8j8IN1yxbB332H7bfa_4NRsmPyGenzQjX5LXcSK1d-c9T7DCpUvZf81-cIT4mtg-X_p1El0h-7vwtPg1Hm2Yu2ZM3EucXj_TJfXVypPABq4v0YHmYNSYpw3JqHHH2OlWFwPRSVN7rLS_1SGJtpNuRumWPI19NgM9C9Zf_zRyXIa5pdEzH7aHdv4_3ivI2U1tJobMXnBtjU2hbcFJj8hCpQ4c1PAY28l9WyNj-HPWcOrHHAgIAA.webp",
+    "link": "https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf",
+    "position": 9,
+    "read_more_link": "https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf#:~:text=*%20Explanatory%20note%3A%20The%20structure,follows%20the%20structure%20of%20the",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFbrciRQLgbuwnLh1d1ggElHDipQ6cSBzWlDJeqRudkU_1n1ZIfFn8ScVeIh93bu9Z57iJPKdPr3L7dy9Pd2VBtQ9Ri-GvEiDE18aDBYvDmsiy7EytEEhpBoxJdhff_XXwhQTEvI6P_6oHSSiqWZALtNsBe5HWzmPX2OEMS_AwwIkuD4&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQFnoECD8QAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "pages": 39
+      },
+      "extensions": [
+       "39 pages"
+      ]
+     }
+    },
+    "snippet": "Explanatory note: The structure of the elements of the crimes of genocide, crimes against humanity and war crimes follows the structure of the.",
+    "snippet_highlighted_words": [
+     "elements"
+    ],
+    "source": "| International Criminal Court",
+    "title": "Elements of Crimes"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=10&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8NMDegQIRhAW",
+   "next": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuGZr6oyLzfqTuCbF-kHu2m78kiPQ:1789903999255&ei=f8SvatuXD7Pj5NoP-4G24As&start=10&sa=N&sstk=AS6-VmInKu0U676xSXNhSZWvid9zbPrjMOaPcv_oFRlcvjSzcb2b2bvpOI1kHIqix1ejW_6PmT-3UORETozCQjisaWNCdT2gZvlC7A&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQ8NMDegQINBAK",
    "other_pages": {
-    "10": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=90&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8tMDegQIRhAU",
-    "2": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=10&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8tMDegQIRhAE",
-    "3": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=20&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8tMDegQIRhAG",
-    "4": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=30&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8tMDegQIRhAI",
-    "5": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=40&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8tMDegQIRhAK",
-    "6": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=50&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8tMDegQIRhAM",
-    "7": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=60&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8tMDegQIRhAO",
-    "8": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=70&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8tMDegQIRhAQ",
-    "9": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&ei=ciWrasSSOvWuhbIPh_u6wQM&start=80&sa=N&sstk=AS6-VmLJDZvHMR0vdT6WffQ9wGm_UMRmcV_cDMacLA4waLZlo7fT7R2_aVoCdnk-2Z072iemMyWNJPIe_E_O-Cv9zGi40fA46YdAtw&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ8tMDegQIRhAS"
+    "2": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuGZr6oyLzfqTuCbF-kHu2m78kiPQ:1789903999255&ei=f8SvatuXD7Pj5NoP-4G24As&start=10&sa=N&sstk=AS6-VmInKu0U676xSXNhSZWvid9zbPrjMOaPcv_oFRlcvjSzcb2b2bvpOI1kHIqix1ejW_6PmT-3UORETozCQjisaWNCdT2gZvlC7A&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQ8tMDegQINBAE",
+    "3": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuGZr6oyLzfqTuCbF-kHu2m78kiPQ:1789903999255&ei=f8SvatuXD7Pj5NoP-4G24As&start=20&sa=N&sstk=AS6-VmInKu0U676xSXNhSZWvid9zbPrjMOaPcv_oFRlcvjSzcb2b2bvpOI1kHIqix1ejW_6PmT-3UORETozCQjisaWNCdT2gZvlC7A&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQ8tMDegQINBAG",
+    "4": "https://www.google.com/search?q=created+periodic+table+elements&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuGZr6oyLzfqTuCbF-kHu2m78kiPQ:1789903999255&ei=f8SvatuXD7Pj5NoP-4G24As&start=30&sa=N&sstk=AS6-VmInKu0U676xSXNhSZWvid9zbPrjMOaPcv_oFRlcvjSzcb2b2bvpOI1kHIqix1ejW_6PmT-3UORETozCQjisaWNCdT2gZvlC7A&ved=2ahUKEwib07qAiP2WAxWzMVkFHfuADbwQ8tMDegQINBAI"
    }
   },
-  "related_questions": [
+  "questions_and_answers": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYWmFZbUpRUW1aRVdXcDBSVkJyYlc1TGFXeHZZbXQzWlUxV1dFSlRiM2xUUlVSS1NHOXNNME5KU0ZadmNUUlpkVEJLU0VseU5HRlljbGhrUWtKYWNsZGhlbHBNV1hGc1prTkRTRVJ1ZG5SVlNHVkhkbUUxV1ZaV1p4SVhZMmxYY21GelUxTlBkbGQxYUdKSlVHaGZkVFozVVUwYUlrRkVjM0k1WmxKTlFqUkZjakk0WkZCS1MwSTJWVnAxUTB4aU5WOUNTMWszTjFFIiwiZmN2IjoiMyIsImVpIjoiY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU0iLCJxYyI6IkNoOWpjbVZoZEdWa0lIQmxjbWx2WkdsaklIUmhZbXhsSUdWc1pXMWxiblJ6RUFCOVNkb3BQdyIsInF1ZXN0aW9uIjoiSG93IHdlcmUgdGhlIGVsZW1lbnRzIG9mIHRoZSBwZXJpb2RpYyB0YWJsZSBjcmVhdGVkPyIsImxrIjoiYzVNeXpzZ3ZWeWhQTFVwVktNbElWVWpOU2MxTnpTc3BWc2hQQV9NTFVvc3k4MU15a3hWS0VwTnlVaFdTaTFJVFMxSlRBQSIsImJzIjoiYzUyUHNRckNNQlJGY1gyVGMxQjVzN3EwV3NVcGFfLWdnMVBhWGswZ1RUUU41UGNWb2RTaGlEby1PUGUtYzZtamZla1RKd1J3MUdCWWRIQ3haMzk1M1RjRTQxdlRjRlMxQlRjQktxS1ZlU0YyLXZjY1NWcVdxaDlvenJJVDE0QWJlMWRpb1Q4QWRLZERwVlVjSF90Z3JzWXAtMmJnSmd4a2ZoUkYtaWRKWjlwVTJnOEdVLXVlbTRjT21XX0ZPbjJOejJjUCIsImlkIjoiZmNfY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU1fNSJ9",
-    "page_token": "LCwr0XicHdBLbptAGABg9TJZxgzYbrFkVSEGPxLjwLwYNhXMgDHzAyNDgvEuV-gZeqqeplUO8G2-zz9wafXfb7-rYTD9ajYbx_Hx3HVnKB5l18yyfmrlTGYAeSb1avl9iX6Wcu1_SO_5Kr2IGsM2sYXB9eKENbQOcYR-3FNLjPmEasYHprTaH4lKcBKh3AYomrRMd-dJJlBLrRixb3PMjzdWwzJFaRbdfee_45K6z69EceyEINvqylsWECRvQsdvggA52vDCd6ZnuwMu-LAngfGVpUeJnhbYUg4BMZz82FAGInGqqYC9fdpWh5ymNUPV_sgDwBT6bBeWBV-8kNagfMsuNFA9p7fXWB-02rrzHLnzFHl1Qdid-sbxK1VnTE0iCQm1XJs5rBMaoixwUdiqmMTdJaLxXdbQUOS9R4ydsk1Qhc0AISgc2kEpfdOKVkxy4y3U-FDKj7Xz8HW9_lU2w8pcu_M_rrmObQ",
-    "question": "How were the elements of the periodic table created?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LCwr0XicHdBLbptAGABg9TJZxgzYbrFkVSEGPxLjwLwYNhXMgDHzAyNDgvEuV-gZeqqeplUO8G2-zz9wafXfb7-rYTD9ajYbx_Hx3HVnKB5l18yyfmrlTGYAeSb1avl9iX6Wcu1_SO_5Kr2IGsM2sYXB9eKENbQOcYR-3FNLjPmEasYHprTaH4lKcBKh3AYomrRMd-dJJlBLrRixb3PMjzdWwzJFaRbdfee_45K6z69EceyEINvqylsWECRvQsdvggA52vDCd6ZnuwMu-LAngfGVpUeJnhbYUg4BMZz82FAGInGqqYC9fdpWh5ymNUPV_sgDwBT6bBeWBV-8kNagfMsuNFA9p7fXWB-02rrzHLnzFHl1Qdid-sbxK1VnTE0iCQm1XJs5rBMaoixwUdiqmMTdJaLxXdbQUOS9R4ydsk1Qhc0AISgc2kEpfdOKVkxy4y3U-FDKj7Xz8HW9_lU2w8pcu_M_rrmObQ",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYWmFZbUpRUW1aRVdXcDBSVkJyYlc1TGFXeHZZbXQzWlUxV1dFSlRiM2xUUlVSS1NHOXNNME5KU0ZadmNUUlpkVEJLU0VseU5HRlljbGhrUWtKYWNsZGhlbHBNV1hGc1prTkRTRVJ1ZG5SVlNHVkhkbUUxV1ZaV1p4SVhZMmxYY21GelUxTlBkbGQxYUdKSlVHaGZkVFozVVUwYUlrRkVjM0k1WmxKTlFqUkZjakk0WkZCS1MwSTJWVnAxUTB4aU5WOUNTMWszTjFFIiwiZmN2IjoiMyIsImVpIjoiY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU0iLCJxYyI6IkNoOWpjbVZoZEdWa0lIQmxjbWx2WkdsaklIUmhZbXhsSUdWc1pXMWxiblJ6RUFCOVNkb3BQdyIsInF1ZXN0aW9uIjoiSG93IHdlcmUgdGhlIGVsZW1lbnRzIG9mIHRoZSBwZXJpb2RpYyB0YWJsZSBjcmVhdGVkPyIsImxrIjoiYzVNeXpzZ3ZWeWhQTFVwVktNbElWVWpOU2MxTnpTc3BWc2hQQV9NTFVvc3k4MU15a3hWS0VwTnlVaFdTaTFJVFMxSlRBQSIsImJzIjoiYzUyUHNRckNNQlJGY1gyVGMxQjVzN3EwV3NVcGFfLWdnMVBhWGswZ1RUUU41UGNWb2RTaGlEby1PUGUtYzZtamZla1RKd1J3MUdCWWRIQ3haMzk1M1RjRTQxdlRjRlMxQlRjQktxS1ZlU0YyLXZjY1NWcVdxaDlvenJJVDE0QWJlMWRpb1Q4QWRLZERwVlVjSF90Z3JzWXAtMmJnSmd4a2ZoUkYtaWRKWjlwVTJnOEdVLXVlbTRjT21XX0ZPbjJOejJjUCIsImlkIjoiZmNfY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU1fNSJ9",
-    "type": "ai_overview"
+    "answer": "It is right there in the name, \"periodic\". Mendeleev noticed that elements of very different atomic weights often had similar properties, sodium and potassium both bonded with one chlorine atom, magnesium and calcium both bonded with two, etc. At the time, new elements were being discovered frequently, and the more that were discovered and measured accurately, the more they fit the pattern. Of then there would be a missing element, but given the frequency in which new elements were discovered, it was not unreasonable to assume those missing elements existed. It is kind of like putting together a jigsaw puzzle. At first you only have a few pieces that fit together, but the more fragments you have, the clearer the picture becomes.",
+    "link": "https://www.reddit.com/r/explainlikeimfive/comments/9ez00v/eli5_how_did_mendeleiev_create_the_periodic_table/",
+    "question": "ELI5 how did Mendeleiev create the periodic table, and how new elements, unknown to him, fit right in.",
+    "source": "Reddit",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 2
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYWmFZbUpRUW1aRVdXcDBSVkJyYlc1TGFXeHZZbXQzWlUxV1dFSlRiM2xUUlVSS1NHOXNNME5KU0ZadmNUUlpkVEJLU0VseU5HRlljbGhrUWtKYWNsZGhlbHBNV1hGc1prTkRTRVJ1ZG5SVlNHVkhkbUUxV1ZaV1p4SVhZMmxYY21GelUxTlBkbGQxYUdKSlVHaGZkVFozVVUwYUlrRkVjM0k1WmxKTlFqUkZjakk0WkZCS1MwSTJWVnAxUTB4aU5WOUNTMWszTjFFIiwiZmN2IjoiMyIsImVpIjoiY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU0iLCJxYyI6IkNoOWpjbVZoZEdWa0lIQmxjbWx2WkdsaklIUmhZbXhsSUdWc1pXMWxiblJ6RUFCOVNkb3BQdyIsInF1ZXN0aW9uIjoiSGFzIGVsZW1lbnQgMTE5IGJlZW4gY3JlYXRlZD8iLCJsayI6IkdoeG9ZWE1nWld4bGJXVnVkQ0F4TVRrZ1ltVmxiaUJqY21WaGRHVmsiLCJicyI6ImM1MlBzUXJDTUJSRmNYMlRjMUI1czdxMFdzVXBhXy1nZzFQYVhrMGdUVFFONVBjVm9kU2hpRG8tT1BlLWM2bWpmZWtUSndSdzFHQllkSEN4WjM5NTNUY0U0MXZUY0ZTMUJUY0JLcUtWZVNGMi12Y2NTVnFXcWg5b3pySVQxNEFiZTFkaW9UOEFkS2REcFZVY0hfdGdyc1lwLTJiZ0pneGtmaFJGLWlkSlo5cFUyZzhHVS11ZW00Y09tV19GT24yTnoyY1AiLCJpZCI6ImZjX2NpV3Jhc1NTT3ZXdWhiSVBoX3U2d1FNXzUifQ==",
-    "page_token": "FqnF8nicHZBLcoIwAECnl3FZCYJVZ5zOKOBnCkhIgrDpxKQYSCBYKSi73qWn6mnqdP_eW7zvH1XU8vepE23bXBfjcd_3z2etz-rjmelqTK_3mo0ZVepEmVxMX6bgNWdL92u3Wl92qwg3DXGggTZeF5uB7ctbE2CusSvycHPbh44ofDBrqeNdyYPNKt7RQXWsIgeElGQe62EBbtS0ITqqMKqhjrDwTiURCYJ5DMiW1vs2HbIJrLSJ12DgCYFpJcp4GxgnY44Zgn4gg0NcgD709rG_ae6JtI03bNmp0jdaY_vhXPngXXjpWhGCDqpEG-H5FptKh0hZFHDrdMx8ZAiTSQVdwUtK-D09Bggbc5NMiE6liqg3B0HNIYK6iDAcWKkqXLqTR89iOIB-wg9xwleJnJl-kt79AgxpMrOyfpSzbjkZ_f9cvudVu2g-9fkPoROEeA",
-    "question": "Has element 119 been created?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FqnF8nicHZBLcoIwAECnl3FZCYJVZ5zOKOBnCkhIgrDpxKQYSCBYKSi73qWn6mnqdP_eW7zvH1XU8vepE23bXBfjcd_3z2etz-rjmelqTK_3mo0ZVepEmVxMX6bgNWdL92u3Wl92qwg3DXGggTZeF5uB7ctbE2CusSvycHPbh44ofDBrqeNdyYPNKt7RQXWsIgeElGQe62EBbtS0ITqqMKqhjrDwTiURCYJ5DMiW1vs2HbIJrLSJ12DgCYFpJcp4GxgnY44Zgn4gg0NcgD709rG_ae6JtI03bNmp0jdaY_vhXPngXXjpWhGCDqpEG-H5FptKh0hZFHDrdMx8ZAiTSQVdwUtK-D09Bggbc5NMiE6liqg3B0HNIYK6iDAcWKkqXLqTR89iOIB-wg9xwleJnJl-kt79AgxpMrOyfpSzbjkZ_f9cvudVu2g-9fkPoROEeA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYWmFZbUpRUW1aRVdXcDBSVkJyYlc1TGFXeHZZbXQzWlUxV1dFSlRiM2xUUlVSS1NHOXNNME5KU0ZadmNUUlpkVEJLU0VseU5HRlljbGhrUWtKYWNsZGhlbHBNV1hGc1prTkRTRVJ1ZG5SVlNHVkhkbUUxV1ZaV1p4SVhZMmxYY21GelUxTlBkbGQxYUdKSlVHaGZkVFozVVUwYUlrRkVjM0k1WmxKTlFqUkZjakk0WkZCS1MwSTJWVnAxUTB4aU5WOUNTMWszTjFFIiwiZmN2IjoiMyIsImVpIjoiY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU0iLCJxYyI6IkNoOWpjbVZoZEdWa0lIQmxjbWx2WkdsaklIUmhZbXhsSUdWc1pXMWxiblJ6RUFCOVNkb3BQdyIsInF1ZXN0aW9uIjoiSGFzIGVsZW1lbnQgMTE5IGJlZW4gY3JlYXRlZD8iLCJsayI6IkdoeG9ZWE1nWld4bGJXVnVkQ0F4TVRrZ1ltVmxiaUJqY21WaGRHVmsiLCJicyI6ImM1MlBzUXJDTUJSRmNYMlRjMUI1czdxMFdzVXBhXy1nZzFQYVhrMGdUVFFONVBjVm9kU2hpRG8tT1BlLWM2bWpmZWtUSndSdzFHQllkSEN4WjM5NTNUY0U0MXZUY0ZTMUJUY0JLcUtWZVNGMi12Y2NTVnFXcWg5b3pySVQxNEFiZTFkaW9UOEFkS2REcFZVY0hfdGdyc1lwLTJiZ0pneGtmaFJGLWlkSlo5cFUyZzhHVS11ZW00Y09tV19GT24yTnoyY1AiLCJpZCI6ImZjX2NpV3Jhc1NTT3ZXdWhiSVBoX3U2d1FNXzUifQ%3D%3D",
-    "type": "ai_overview"
+    "answer": "The colored periodic table of elements in 10th grade chemistry book was the most beautiful geometrical abstraction I kept revisiting Now. I see it as a beautiful piece of art. Chemistry was my favorite subject in high school.",
+    "link": "https://www.facebook.com/secretsofuniverse/posts/-its-the-birthday-of-dmitri-mendeleev-the-father-of-the-modern-periodic-table-dm/1176676324105967/",
+    "question": "🎈 It's the birthday of Dmitri Mendeleev, the father of the modern periodic table! 🔬 Dmitri Mendeleev was a chemist who revolutionized our understanding of how elements are organized. He is best known for creating the Periodic Table of Elements, which classifies elements by their atomic weight and properties in a systematic and predictive format. This tool has been fundamental in the development of modern chemistry and has aided scientists in predicting the discovery of new elements. 📊 Mendeleev's work on the Periodic Table began in the mid-1860s when he was writing a chemistry textbook and realized that there was a pattern to the way elements behaved. He noticed that when the elements were ordered by increasing atomic weight, certain types of chemical behavior repeated themselves. This led him to formulate the Periodic Law, which states that the properties of elements are a periodic function of their atomic weights. 🌐 By arranging the 63 known elements into a table, Mendeleev was able to not only classify the elements but also predict the properties of elements that had not yet been discovered. For example, he foresaw the existence and properties of germanium, gallium, and scandium, which were discovered later and fit perfectly into the gaps he had left in his table. 🎖️ Mendeleev's visionary work provided a clear, organized system that could be expanded upon as new elements were discovered.",
+    "source": "Facebook",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 13
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYWmFZbUpRUW1aRVdXcDBSVkJyYlc1TGFXeHZZbXQzWlUxV1dFSlRiM2xUUlVSS1NHOXNNME5KU0ZadmNUUlpkVEJLU0VseU5HRlljbGhrUWtKYWNsZGhlbHBNV1hGc1prTkRTRVJ1ZG5SVlNHVkhkbUUxV1ZaV1p4SVhZMmxYY21GelUxTlBkbGQxYUdKSlVHaGZkVFozVVUwYUlrRkVjM0k1WmxKTlFqUkZjakk0WkZCS1MwSTJWVnAxUTB4aU5WOUNTMWszTjFFIiwiZmN2IjoiMyIsImVpIjoiY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU0iLCJxYyI6IkNoOWpjbVZoZEdWa0lIQmxjbWx2WkdsaklIUmhZbXhsSUdWc1pXMWxiblJ6RUFCOVNkb3BQdyIsInF1ZXN0aW9uIjoiV2hhdCB3ZXJlIHRoZSBvcmlnaW5hbCBlbGVtZW50cyBvbiB0aGUgcGVyaW9kaWMgdGFibGU/IiwibGsiOiJjNU15TGM5SUxGRW9UeTFLVlNqSlNGWElMOHBNejh4THpGRkl6VW5OVGMwcktWYkl6d05MRktRV1plYW5aQ1lybENRbTVhUUNBQSIsImJzIjoiYzUyUHNRckNNQlJGY1gyVGMxQjVzN3EwV3NVcGFfLWdnMVBhWGswZ1RUUU41UGNWb2RTaGlEby1PUGUtYzZtamZla1RKd1J3MUdCWWRIQ3haMzk1M1RjRTQxdlRjRlMxQlRjQktxS1ZlU0YyLXZjY1NWcVdxaDlvenJJVDE0QWJlMWRpb1Q4QWRLZERwVlVjSF90Z3JzWXAtMmJnSmd4a2ZoUkYtaWRKWjlwVTJnOEdVLXVlbTRjT21XX0ZPbjJOejJjUCIsImlkIjoiZmNfY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU1fNSJ9",
-    "page_token": "7k_kfnicHdBdToMwAADgeJk9yt-cumQx4lYYShdKKawvprTbOii0Cg7hzbt4Kk-j8QZfvq9vdW7rn6tC9r3plpY1DMP1SeuTOlxz3VisG1tucaZUyXi9XNwunIcjX226wX_Sg59kxpA1stNK9tylmgI6Rw3vC0-NiavCMpApByaHxeNUFmS7I1LhCeWpHU8HDD6yEGK0cVhCdJ8GwokJcKDb40SpNZvAMwxMg1pZUHs7xjVIYasnVimPu_AFqbsbQaBTEvrGgczopDT0iB8HIqK10DTLXBjcYwJEi0I6sjaK4kDNWS0v1E1S4EJDvEhyB2Ls0ULk8pwSXxde5goHwOAc-SiE4y6n6T7vPqltcloJf1_D5KDMn004VPkhDs0lq5A_O_LLypv9j61ej02_NO_69As3KHmW",
-    "question": "What were the original elements on the periodic table?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7k_kfnicHdBdToMwAADgeJk9yt-cumQx4lYYShdKKawvprTbOii0Cg7hzbt4Kk-j8QZfvq9vdW7rn6tC9r3plpY1DMP1SeuTOlxz3VisG1tucaZUyXi9XNwunIcjX226wX_Sg59kxpA1stNK9tylmgI6Rw3vC0-NiavCMpApByaHxeNUFmS7I1LhCeWpHU8HDD6yEGK0cVhCdJ8GwokJcKDb40SpNZvAMwxMg1pZUHs7xjVIYasnVimPu_AFqbsbQaBTEvrGgczopDT0iB8HIqK10DTLXBjcYwJEi0I6sjaK4kDNWS0v1E1S4EJDvEhyB2Ls0ULk8pwSXxde5goHwOAc-SiE4y6n6T7vPqltcloJf1_D5KDMn004VPkhDs0lq5A_O_LLypv9j61ej02_NO_69As3KHmW",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYWmFZbUpRUW1aRVdXcDBSVkJyYlc1TGFXeHZZbXQzWlUxV1dFSlRiM2xUUlVSS1NHOXNNME5KU0ZadmNUUlpkVEJLU0VseU5HRlljbGhrUWtKYWNsZGhlbHBNV1hGc1prTkRTRVJ1ZG5SVlNHVkhkbUUxV1ZaV1p4SVhZMmxYY21GelUxTlBkbGQxYUdKSlVHaGZkVFozVVUwYUlrRkVjM0k1WmxKTlFqUkZjakk0WkZCS1MwSTJWVnAxUTB4aU5WOUNTMWszTjFFIiwiZmN2IjoiMyIsImVpIjoiY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU0iLCJxYyI6IkNoOWpjbVZoZEdWa0lIQmxjbWx2WkdsaklIUmhZbXhsSUdWc1pXMWxiblJ6RUFCOVNkb3BQdyIsInF1ZXN0aW9uIjoiV2hhdCB3ZXJlIHRoZSBvcmlnaW5hbCBlbGVtZW50cyBvbiB0aGUgcGVyaW9kaWMgdGFibGU%2FIiwibGsiOiJjNU15TGM5SUxGRW9UeTFLVlNqSlNGWElMOHBNejh4THpGRkl6VW5OVGMwcktWYkl6d05MRktRV1plYW5aQ1lybENRbTVhUUNBQSIsImJzIjoiYzUyUHNRckNNQlJGY1gyVGMxQjVzN3EwV3NVcGFfLWdnMVBhWGswZ1RUUU41UGNWb2RTaGlEby1PUGUtYzZtamZla1RKd1J3MUdCWWRIQ3haMzk1M1RjRTQxdlRjRlMxQlRjQktxS1ZlU0YyLXZjY1NWcVdxaDlvenJJVDE0QWJlMWRpb1Q4QWRLZERwVlVjSF90Z3JzWXAtMmJnSmd4a2ZoUkYtaWRKWjlwVTJnOEdVLXVlbTRjT21XX0ZPbjJOejJjUCIsImlkIjoiZmNfY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU1fNSJ9",
-    "type": "ai_overview"
+    "answer": "I always think about like a kid with a deck of Pokémon cards, but he didn’t know the numbers.He made cards with all known elements and certain properties that could be devised in his time such as mass and reactivity. He kept rearranging the cards by similarity in these properties, and he noticed that patterns worked better if he left gaps. It looks nothing like the modern table, but this idea of ordering the elements by their mass and reactivity was a novel concept so that is why he credited. more reading",
+    "link": "https://www.reddit.com/r/chemistry/comments/1gm5q9s/how_did_mendeleev_manage_to_arrange_the_elements/",
+    "question": "How did Mendeleev manage to arrange the elements in a periodic table in 1869, given that he had no knowledge of electrons, protons, or neutrons?",
+    "source": "Reddit",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 142
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYWmFZbUpRUW1aRVdXcDBSVkJyYlc1TGFXeHZZbXQzWlUxV1dFSlRiM2xUUlVSS1NHOXNNME5KU0ZadmNUUlpkVEJLU0VseU5HRlljbGhrUWtKYWNsZGhlbHBNV1hGc1prTkRTRVJ1ZG5SVlNHVkhkbUUxV1ZaV1p4SVhZMmxYY21GelUxTlBkbGQxYUdKSlVHaGZkVFozVVUwYUlrRkVjM0k1WmxKTlFqUkZjakk0WkZCS1MwSTJWVnAxUTB4aU5WOUNTMWszTjFFIiwiZmN2IjoiMyIsImVpIjoiY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU0iLCJxYyI6IkNoOWpjbVZoZEdWa0lIQmxjbWx2WkdsaklIUmhZbXhsSUdWc1pXMWxiblJ6RUFCOVNkb3BQdyIsInF1ZXN0aW9uIjoiV2hvIGNyZWF0ZWQgdGhlIHBlcmlvZGljIHRhYmxlIG9mIGVsZW1lbnRzPyIsImxrIjoiR2lwM2FHOGdZM0psWVhSbFpDQjBhR1VnY0dWeWFXOWthV01nZEdGaWJHVWdiMllnWld4bGJXVnVkSE0iLCJicyI6ImM1MlBzUXJDTUJSRmNYMlRjMUI1czdxMFdzVXBhXy1nZzFQYVhrMGdUVFFONVBjVm9kU2hpRG8tT1BlLWM2bWpmZWtUSndSdzFHQllkSEN4WjM5NTNUY0U0MXZUY0ZTMUJUY0JLcUtWZVNGMi12Y2NTVnFXcWg5b3pySVQxNEFiZTFkaW9UOEFkS2REcFZVY0hfdGdyc1lwLTJiZ0pneGtmaFJGLWlkSlo5cFUyZzhHVS11ZW00Y09tV19GT24yTnoyY1AiLCJpZCI6ImZjX2NpV3Jhc1NTT3ZXdWhiSVBoX3U2d1FNXzUifQ==",
-    "page_token": "MnwVTnicHdBfboIwHADg7DI-agvODROzDCkKk27U9gflZcFWRfk7xxR42112qp1myb4jfN8_xanKf--uWds2n_PJ5Ha7jY91fSz2Y1WXk_Szr9REpUWxS1U-nz3M8NNBLciXZy8_PDsUTQMOQ3ztvwUxhLSig0Suq0vtq6jjgev3lNtkJ2ATI9zKKFkyDCtmuB2sOiJL3CsUtKIqWnAbTw7AgshrE_48aNDTLVirtER4hxiOzaSnwuc8smw-6CtHmEiwZ7LyO07wyysktjS8niGgW9QZkaMpM2ieIGIGKOmVwwDgEVPRIOFkF7VOuCYQbyJrgJgWkdA55DpWkVuRTJ9T0L2MKRfIMsCEWuZFmLoWppVmnNWnULBBnYtSQIiTCqZ0TcwY63QvvE4b2U2dsE-5K4Py3hDh6KCuC3P0_7l4P5TtvLnUxz9l9ICW",
-    "question": "Who created the periodic table of elements?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MnwVTnicHdBfboIwHADg7DI-agvODROzDCkKk27U9gflZcFWRfk7xxR42112qp1myb4jfN8_xanKf--uWds2n_PJ5Ha7jY91fSz2Y1WXk_Szr9REpUWxS1U-nz3M8NNBLciXZy8_PDsUTQMOQ3ztvwUxhLSig0Suq0vtq6jjgev3lNtkJ2ATI9zKKFkyDCtmuB2sOiJL3CsUtKIqWnAbTw7AgshrE_48aNDTLVirtER4hxiOzaSnwuc8smw-6CtHmEiwZ7LyO07wyysktjS8niGgW9QZkaMpM2ieIGIGKOmVwwDgEVPRIOFkF7VOuCYQbyJrgJgWkdA55DpWkVuRTJ9T0L2MKRfIMsCEWuZFmLoWppVmnNWnULBBnYtSQIiTCqZ0TcwY63QvvE4b2U2dsE-5K4Py3hDh6KCuC3P0_7l4P5TtvLnUxz9l9ICW",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYWmFZbUpRUW1aRVdXcDBSVkJyYlc1TGFXeHZZbXQzWlUxV1dFSlRiM2xUUlVSS1NHOXNNME5KU0ZadmNUUlpkVEJLU0VseU5HRlljbGhrUWtKYWNsZGhlbHBNV1hGc1prTkRTRVJ1ZG5SVlNHVkhkbUUxV1ZaV1p4SVhZMmxYY21GelUxTlBkbGQxYUdKSlVHaGZkVFozVVUwYUlrRkVjM0k1WmxKTlFqUkZjakk0WkZCS1MwSTJWVnAxUTB4aU5WOUNTMWszTjFFIiwiZmN2IjoiMyIsImVpIjoiY2lXcmFzU1NPdld1aGJJUGhfdTZ3UU0iLCJxYyI6IkNoOWpjbVZoZEdWa0lIQmxjbWx2WkdsaklIUmhZbXhsSUdWc1pXMWxiblJ6RUFCOVNkb3BQdyIsInF1ZXN0aW9uIjoiV2hvIGNyZWF0ZWQgdGhlIHBlcmlvZGljIHRhYmxlIG9mIGVsZW1lbnRzPyIsImxrIjoiR2lwM2FHOGdZM0psWVhSbFpDQjBhR1VnY0dWeWFXOWthV01nZEdGaWJHVWdiMllnWld4bGJXVnVkSE0iLCJicyI6ImM1MlBzUXJDTUJSRmNYMlRjMUI1czdxMFdzVXBhXy1nZzFQYVhrMGdUVFFONVBjVm9kU2hpRG8tT1BlLWM2bWpmZWtUSndSdzFHQllkSEN4WjM5NTNUY0U0MXZUY0ZTMUJUY0JLcUtWZVNGMi12Y2NTVnFXcWg5b3pySVQxNEFiZTFkaW9UOEFkS2REcFZVY0hfdGdyc1lwLTJiZ0pneGtmaFJGLWlkSlo5cFUyZzhHVS11ZW00Y09tV19GT24yTnoyY1AiLCJpZCI6ImZjX2NpV3Jhc1NTT3ZXdWhiSVBoX3U2d1FNXzUifQ%3D%3D",
-    "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&q=History+of+the+periodic+table+timeline&sa=X&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ1QJ6BAhIEAE",
-    "query": "History of the periodic table timeline",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=History+of+the+periodic+table+timeline"
+    "answer": "The periodic table was born from a game of chemical solitaire. In 1869, Dmitri Mendeleev wrote the known elements on cards, dealt them across his desk, and boldly left blank spaces. Before this breakthrough, chemistry was a chaotic discipline. Scientists had discovered about 60 elements, from ancient staples like gold and carbon to newer finds like barium and iodine. But no one knew how many elements were left to find, or if there was any underlying logic connecting them. It was like having a box of jigsaw puzzle pieces with no picture on the cover. Chemists desperately searched for patterns. In 1829, Johann Döbereiner noticed \"triads\" of similar elements, like chlorine, bromine, and iodine. In 1864, John Newlands proposed a \"Law of Octaves,\" suggesting every eighth element had similar properties, much like musical notes. His peers laughed him out of the room, suggesting he might as well arrange the elements alphabetically. Mendeleev, a Russian chemistry professor, finally cracked the …",
+    "link": "https://www.quora.com/How-did-Mendeleev-create-and-invent-the-periodic-table-of-chemical-elements",
+    "question": "How did Mendeleev create and invent the periodic table of chemical elements?",
+    "source": "Quora",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 1
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&q=Who+created+the+periodic+table+and+how+it+is+organized&sa=X&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ1QJ6BAhPEAE",
-    "query": "Who created the periodic table and how it is organized",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+created+the+periodic+table+and+how+it+is+organized"
+    "answer": "His mother made all these decisions, planned all the journey and accompanied with him . Don’t forget her contribution and sacrifice",
+    "link": "https://www.facebook.com/groups/archeologyandcivilizations/posts/9604516909641747/",
+    "question": "Dmitri Mendeleev's journey to creating the periodic table of elements",
+    "source": "Facebook",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 9
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&q=How+many+elements+were+on+the+first+periodic+table&sa=X&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ1QJ6BAhOEAE",
-    "query": "How many elements were on the first periodic table",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+elements+were+on+the+first+periodic+table"
+    "answer": "The periodic table of elements has its own long history before getting today’s look. 1. Doberiener’s law of triads: German Physicist Johann Doberiener arranged the elements in groups of three, known as triads in increasing order of atomic weight such that the average of the atomic weights of the other two elements was equal to the atomic weight of the middle element. But this could not be applied to elements with higher masses. 2. Newland’s law of octaves: Newland arranged the elements in groups of eight called octets such that the properties of the eighth element was similar to the first element. However, the properties of many elements and the position of hydrogen couldn’t be decided. 3. Mendeleev’s periodic table: Russian Chemist Dmitri Mendeleev arranged the then known elements in increasing order of their atomic weights and left spaces in between to be filled when new elements will be discovered. He even predicted the properties of the element next to aluminium and named it a…",
+    "link": "https://www.quora.com/Who-created-the-periodic-table",
+    "question": "Who created the periodic table?",
+    "source": "Quora",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 4
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&q=Antoine+Lavoisier+periodic+table&sa=X&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ1QJ6BAhNEAE",
-    "query": "Antoine Lavoisier periodic table",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Antoine+Lavoisier+periodic+table"
+    "answer": "Dmitri Mendeleev created and published the periodic table in 1869. At this time, Mendeleev was a chemistry teacher at the University of Saints Petersburg in Russia. He was a well known educator in chemistry and researcher in the same field. When Mendeleev came back from a conference in Germany, he decided to take all the known elements of the periodic table and write their properties on a card. It was there that he sorted these cards over and over again in order to discover a pattern. After waking up from a dream, he came to realize that the best way to organize these elements was by their atomic mass. Thus, he created his version of the periodic table using the atomic weights.",
+    "link": "https://homework.study.com/explanation/when-did-dmitri-mendeleev-create-the-periodic-table.html",
+    "question": "When did Dmitri Mendeleev create the periodic table?",
+    "source": "Homework.Study.com",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://homework.study.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 0
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&q=Who+arranged+the+periodic+table+by+atomic+number&sa=X&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ1QJ6BAhMEAE",
-    "query": "Who arranged the periodic table by atomic number",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+arranged+the+periodic+table+by+atomic+number"
+    "answer": "Dmitri Mendeleev",
+    "link": "https://www.pearson.com/channels/intro-to-chemistry/asset/25764806/periodic-table-classifications-who-is-credite",
+    "question": "Periodic Table: Classifications — Who is credited with creating the first widely recognized periodic table that arranged elements in order of increasing atomic mass and predicted properties of undiscovered elements?",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pearson.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 0
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&q=Who+made+the+first+periodic+table&sa=X&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ1QJ6BAhLEAE",
-    "query": "Who made the first periodic table",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+made+the+first+periodic+table"
+    "answer": "group",
+    "link": "https://quizlet.com/561228762/periodic-table-flash-cards/",
+    "question": "A vertical column of elements in the periodic table is called a",
+    "source": "Quizlet",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://quizlet.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 0
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&q=Who+made+the+first+periodic+table+before+mendeleev&sa=X&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ1QJ6BAhKEAE",
-    "query": "Who made the first periodic table before mendeleev",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+made+the+first+periodic+table+before+mendeleev"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQnuDanCSQUowI0X8mt4wopnmVT2_aA:1789601138959&q=How+was+the+first+periodic+table+arranged&sa=X&ved=2ahUKEwjEk7Xhn_SWAxV1V0EAHYe9LjgQ1QJ6BAhJEAE",
-    "query": "How was the first periodic table arranged",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+was+the+first+periodic+table+arranged"
+    "answer": "\"The correct answer is Henry Moseley. The Modern periodic law & table was invented by Henry Moseley in 1913. The first who was able to arrange all the known elements was Mendeleev, he gave the law called the Mendeleev's periodic law. Dobereiner grouped the elements into triads. Newlands gave the law of octaves. Modern Periodic Table: The defects of the periodic table of Mendeleev were sorting out by Henry Moseley who invented the modern periodic law in 1913. The law of modern table states that - '' according to the increasing order of their atomic numbers if the elements are arranged, then the element's physical & chemical properties are repeated after regular intervals. Salient Features of the Modern Periodic Table: The element's properties are the functions that are periodical according to their atomic numbers. On the basis of the Modern table, Scientist Bohr invented a long form of the periodic table that was created by Warner& Rang. The periodic table consists of 18 groups & 7 …",
+    "link": "https://testbook.com/question-answer/the-modern-periodic-table-was-invented-by-________--5f033edaa8a88b7c9c649f8a",
+    "question": "\"The Modern periodic table was invented by ________________&n\"",
+    "source": "Testbook",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://testbook.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "votes": 2307
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "created periodic table elements",
-   "time_taken_displayed": 0.22,
-   "total_results": 125
+   "time_taken_displayed": 0.19,
+   "total_results": 36
   },
   "search_metadata": {
-   "created_at": "2026-09-16 23:25:38 UTC",
+   "created_at": "2026-09-20 11:33:19 UTC",
    "google_url": "https://www.google.com/search?q=created+periodic+table+elements&oq=created+periodic+table+elements&sourceid=chrome&ie=UTF-8",
-   "id": "6aab2572ff7aa22223832355",
-   "json_endpoint": "https://serpapi.com/searches/wE_6O-La9hCFGBjUVLfMXdTAzmGgFOT9h2AsZK4-j7I/6aab2572ff7aa22223832355.json",
-   "markdown_endpoint": "https://serpapi.com/searches/wE_6O-La9hCFGBjUVLfMXdTAzmGgFOT9h2AsZK4-j7I/6aab2572ff7aa22223832355.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/wE_6O-La9hCFGBjUVLfMXdTAzmGgFOT9h2AsZK4-j7I/6aab2572ff7aa22223832355.json_with_pixel_position",
-   "processed_at": "2026-09-16 23:25:38 UTC",
-   "raw_html_file": "https://serpapi.com/searches/wE_6O-La9hCFGBjUVLfMXdTAzmGgFOT9h2AsZK4-j7I/6aab2572ff7aa22223832355.html",
+   "id": "6aafc47f550cc4880734e263",
+   "json_endpoint": "https://serpapi.com/searches/xVIwcs6PCQDlU52sgENHZ26Au7yoJX1h0lkzgoBFiEs/6aafc47f550cc4880734e263.json",
+   "markdown_endpoint": "https://serpapi.com/searches/xVIwcs6PCQDlU52sgENHZ26Au7yoJX1h0lkzgoBFiEs/6aafc47f550cc4880734e263.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/xVIwcs6PCQDlU52sgENHZ26Au7yoJX1h0lkzgoBFiEs/6aafc47f550cc4880734e263.json_with_pixel_position",
+   "processed_at": "2026-09-20 11:33:19 UTC",
+   "raw_html_file": "https://serpapi.com/searches/xVIwcs6PCQDlU52sgENHZ26Au7yoJX1h0lkzgoBFiEs/6aafc47f550cc4880734e263.html",
    "status": "Success",
-   "total_time_taken": 0.56
+   "total_time_taken": 0.32
   },
   "search_parameters": {
    "device": "desktop",
@@ -503,15 +381,9 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=80"
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=created+periodic+table+elements&start=30"
    }
   }
  },

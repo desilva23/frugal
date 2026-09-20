@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1007.752,
+ "elapsed_ms": 870.764,
  "engine": "google",
- "fetched_at": "2026-09-16T20:55:42.652706+00:00",
+ "fetched_at": "2026-09-20T11:24:38.938487+00:00",
  "frugal_cache_version": 1,
  "key": "62f2b6793fb0cebaa028afb139e94f209c005bbe0c22ff25333553285252fe23",
  "params": {
@@ -10,341 +10,431 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "WHqdH3iczVVdcqpIFF7ArGN8MRHQXH9SRaW621Y7Rg2JxpgXiz9bIgihVSRvs4lZwaxqVjMNCkIGk9z7MDX9AH2a8_OdPufj_PGXba1Xf__253Kz8di1IARBUKGuS22zoruOoLJwrQsL12a-vrwJd3KtpDNZLJmWPKZ9X_WmFtD6TX-L773m2GFKUIpN5LmmMvOVe9y_MmEu8Mfq91qbCxVWUf1KLxy2xLlnzGpBpSpKrcpIUB2uAP67hYgCKCAAA3heiX9C3_BFafR8yXrnnuNF0iOenMKj8U84Eidnvc1I7ACBCCBfI7R4H-vcgZJojM4DJhkBBUd4QZwGjNyRQrMzSzmmkNzB53ehFJzhw8s9nWRr_MnNBzmpw1HMAUKnILlgFCg0FUiEEx7kkQLMdhMsKf0kb46xMwD6IyDoq9txEWnCJHSH8VyIYFDeuKKg-fwlCZa-1OONz6J-RuOW6HaHC_gwbgXvI2lVW7el_t5a7J-f3wb9KhV0jevZrmqYxnw5F29iWapKP8RWrdG8iImks5RJLMukoHc5seuz9RrhykMFSgmNUFrnDxXDKGr8gsQgOqoWlfgBgOR6lbRoBJ2uHPSTDYU4ck-y5UOd-0g1LTzf7Cnv4Yx9so_a5TZrmutXnILAaUjYAUkz5LuJzE49ko0E2jkpiZO3BW2YWCvtfynmHSDwGP1FSFYjuzgORHHEAYR7MVy-9LwXdLI6ZhHlqFB4lHDqFx-VMqgIZxf_mQ0AwdynNYkqQwlUcAqVHGN18AfG4SLOHqzu4Ld-fQXL_VqF0-bIlw_tn6ONt2-sXmd7fYC8uzUc0ZklbWZbFnZfQDFNXEf7iYmj_6-IdJhH_WQenSUS-gaRaNRvn8wjfLQ-EikWn84TiSMrnEcpttM8-kgkeJch0hfz6OeJhD4l0iFuIZHcYiJ554l0gJ4hUn4e4eJ5lBLpl-aR-2vzKOaVeXjlh9P2lZ4dUrjXIN1bbd5aGjtb7Q1t2jffVzvsog74ckgtnM21oxr2xdwyrmH1dhMaF3N-4F6bRulNni7VTTmwfNM2GSubqq9tDVZWfbOs7lTLVjXbLG_XhumXa6Iolv2tZ5qsbK3LZG1Y6k3JsX1XFtUGxNvtQ-0ycEY1vxWuxgrph5qv3Uo77W4yHVVhtalXQ9UYhjvFujTr2_seU71tVzFm4th6Yo90T7S30LPxlcEmXvjSaJGx8-Q49si38Ls77Xlu431XJ9Xlc-duR97gj0HXWk0D0nVuW36Aca2uvI3vYV187MeomDzcOIOGvZMsi5QcX5d5T1xRMFTAlPLmRHHTgonq8ncAlG4dKBiWmK7OTbaTJbOm_xAXTaklmVJTvCo5dBN68pVUYmtflv4BMs9KnQ",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WHqdH3iczVVdcqpIFF7ArGN8MRHQXH9SRaW621Y7Rg2JxpgXiz9bIgihVSRvs4lZwaxqVjMNCkIGk9z7MDX9AH2a8_OdPufj_PGXba1Xf__253Kz8di1IARBUKGuS22zoruOoLJwrQsL12a-vrwJd3KtpDNZLJmWPKZ9X_WmFtD6TX-L773m2GFKUIpN5LmmMvOVe9y_MmEu8Mfq91qbCxVWUf1KLxy2xLlnzGpBpSpKrcpIUB2uAP67hYgCKCAAA3heiX9C3_BFafR8yXrnnuNF0iOenMKj8U84Eidnvc1I7ACBCCBfI7R4H-vcgZJojM4DJhkBBUd4QZwGjNyRQrMzSzmmkNzB53ehFJzhw8s9nWRr_MnNBzmpw1HMAUKnILlgFCg0FUiEEx7kkQLMdhMsKf0kb46xMwD6IyDoq9txEWnCJHSH8VyIYFDeuKKg-fwlCZa-1OONz6J-RuOW6HaHC_gwbgXvI2lVW7el_t5a7J-f3wb9KhV0jevZrmqYxnw5F29iWapKP8RWrdG8iImks5RJLMukoHc5seuz9RrhykMFSgmNUFrnDxXDKGr8gsQgOqoWlfgBgOR6lbRoBJ2uHPSTDYU4ck-y5UOd-0g1LTzf7Cnv4Yx9so_a5TZrmutXnILAaUjYAUkz5LuJzE49ko0E2jkpiZO3BW2YWCvtfynmHSDwGP1FSFYjuzgORHHEAYR7MVy-9LwXdLI6ZhHlqFB4lHDqFx-VMqgIZxf_mQ0AwdynNYkqQwlUcAqVHGN18AfG4SLOHqzu4Ld-fQXL_VqF0-bIlw_tn6ONt2-sXmd7fYC8uzUc0ZklbWZbFnZfQDFNXEf7iYmj_6-IdJhH_WQenSUS-gaRaNRvn8wjfLQ-EikWn84TiSMrnEcpttM8-kgkeJch0hfz6OeJhD4l0iFuIZHcYiJ554l0gJ4hUn4e4eJ5lBLpl-aR-2vzKOaVeXjlh9P2lZ4dUrjXIN1bbd5aGjtb7Q1t2jffVzvsog74ckgtnM21oxr2xdwyrmH1dhMaF3N-4F6bRulNni7VTTmwfNM2GSubqq9tDVZWfbOs7lTLVjXbLG_XhumXa6Iolv2tZ5qsbK3LZG1Y6k3JsX1XFtUGxNvtQ-0ycEY1vxWuxgrph5qv3Uo77W4yHVVhtalXQ9UYhjvFujTr2_seU71tVzFm4th6Yo90T7S30LPxlcEmXvjSaJGx8-Q49si38Ls77Xlu431XJ9Xlc-duR97gj0HXWk0D0nVuW36Aca2uvI3vYV187MeomDzcOIOGvZMsi5QcX5d5T1xRMFTAlPLmRHHTgonq8ncAlG4dKBiWmK7OTbaTJbOm_xAXTaklmVJTvCo5dBN68pVUYmtflv4BMs9KnQ"
+   "page_token": "AaV0eHiczVXbcqpIFP2A-Y7xxRPFu6aKSnW3qHjJoU3Ugy8UlxaJYBNaJfo2_zJP80nzNdMgKiSazDkPU9NVSdPNdl_XYv3xp-usV3__9tdys_HZfbEYhmHBptR2ScGkXlFn-7VZXFCXBebygdFtYBLHEs1lQD2S2-_ESs5kopAjjmixwU6ngdwZ7ea1R6q0AmXxinEudiFqhs7IC4_w9sKKWpH_W_1eafNDgRXIutD0hrO6Yk4GA7VQFsqVwvei7nED8N8tCdsw2vsA3Tbir6SvXUUOZACllCcZ2PEOL1bq8TXC8Stk3_QGjzHHsTnmf23t0Avb_DbpT_vmb3kImDmGcS4AhHGWEDhfV5NaOKnlVNcnnTpbZ1fSPXq5Sc84k2tm2WHm2OFZaAChS5B0MO5mmUnj3CnTBs0ehW0IJrfz5v0ZyKC2Ali6VkJ6YWlaPU9uqHb5TdGyOXCFohHwrVR0zKUZPwQswjN6bgm0t5irHb9ZCsa74U7R1mWB4eZ8Wu1WES6aBrdzqW4RS1tqwkN8LpVLNaFVaTS_xUQy2ZlJLM0kBWyNp-Gy6hxAYViApRON0HHo4MPEJH5G8pXCIEpMr4w4BexoYMlIcSftNxklBIgCaQyyox0oUV-7pyPH6IGPBoJLIpeoEfg_0ui47JQxp1GciEwTw7TF0aqbom5qsDK49pl5XzfuXR7bHwwzBES83hU4NUZ971kFGNlSxAEk9WDSNTPtg1c8OB_gKWEJ8C8UPFmcEpQSo1ROUQtkDEZAlrhPZyJzhNoRVo-JRmBIYnWkd4y7AXiVh5mhf_Ppu7LgVySKFj7x5R38M7Qxvr_RtrI42N6zodfWztKvLMccqfgVX6cJ9YyfUBzzf0Wkox5JiR7dJpL0NZFiPYKf6FH8fNGjCLyI3iQS7F7Xo9FVPcrWjcA4TaTP9einiYQ-JdIRh1eJRK8Tyb9JJDt8T6SsHknX9ehMpF_RI_iLehTzihy3rDhtX-zbIrWSt7MDJl3kOXMPD55LwMc_4PT1rhR-KVILb3Pv6Zb7TXOse1jub_bWN41f0Hti5V7F2VLf5EMnIC5hLE_0wNhaLK8HJK_vdMfVDZfkt2uLBPmKIAj5YOsTwvLOOi-vLUd_yHluQEVBr7_152jKhndPeHUHZz6qLw6-2xttS43JQVGk5sxZNAx_P3qZjiFW2zKZHqylv1Wd3fBZRWS1J15pUO4c-sZsNlp3nBelTLvjvuFVtOfhSm3tVkCbLg79H41WazJfyI9hX1cm1Sq926r12mBQrUndR9jQ4LTbPii9xj7OjIlPrVBHZOwG2irnBabIcVG1wSMGM5sDFMXABROd8j0EuFvnc4M5ZuoaYTuxXq3zRlqthWGV69UGyXn2Zu-LLSHH1oFY-ge6ok14",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AaV0eHiczVXbcqpIFP2A-Y7xxRPFu6aKSnW3qHjJoU3Ugy8UlxaJYBNaJfo2_zJP80nzNdMgKiSazDkPU9NVSdPNdl_XYv3xp-usV3__9tdys_HZfbEYhmHBptR2ScGkXlFn-7VZXFCXBebygdFtYBLHEs1lQD2S2-_ESs5kopAjjmixwU6ngdwZ7ea1R6q0AmXxinEudiFqhs7IC4_w9sKKWpH_W_1eafNDgRXIutD0hrO6Yk4GA7VQFsqVwvei7nED8N8tCdsw2vsA3Tbir6SvXUUOZACllCcZ2PEOL1bq8TXC8Stk3_QGjzHHsTnmf23t0Avb_DbpT_vmb3kImDmGcS4AhHGWEDhfV5NaOKnlVNcnnTpbZ1fSPXq5Sc84k2tm2WHm2OFZaAChS5B0MO5mmUnj3CnTBs0ehW0IJrfz5v0ZyKC2Ali6VkJ6YWlaPU9uqHb5TdGyOXCFohHwrVR0zKUZPwQswjN6bgm0t5irHb9ZCsa74U7R1mWB4eZ8Wu1WES6aBrdzqW4RS1tqwkN8LpVLNaFVaTS_xUQy2ZlJLM0kBWyNp-Gy6hxAYViApRON0HHo4MPEJH5G8pXCIEpMr4w4BexoYMlIcSftNxklBIgCaQyyox0oUV-7pyPH6IGPBoJLIpeoEfg_0ui47JQxp1GciEwTw7TF0aqbom5qsDK49pl5XzfuXR7bHwwzBES83hU4NUZ971kFGNlSxAEk9WDSNTPtg1c8OB_gKWEJ8C8UPFmcEpQSo1ROUQtkDEZAlrhPZyJzhNoRVo-JRmBIYnWkd4y7AXiVh5mhf_Ppu7LgVySKFj7x5R38M7Qxvr_RtrI42N6zodfWztKvLMccqfgVX6cJ9YyfUBzzf0Wkox5JiR7dJpL0NZFiPYKf6FH8fNGjCLyI3iQS7F7Xo9FVPcrWjcA4TaTP9einiYQ-JdIRh1eJRK8Tyb9JJDt8T6SsHknX9ehMpF_RI_iLehTzihy3rDhtX-zbIrWSt7MDJl3kOXMPD55LwMc_4PT1rhR-KVILb3Pv6Zb7TXOse1jub_bWN41f0Hti5V7F2VLf5EMnIC5hLE_0wNhaLK8HJK_vdMfVDZfkt2uLBPmKIAj5YOsTwvLOOi-vLUd_yHluQEVBr7_152jKhndPeHUHZz6qLw6-2xttS43JQVGk5sxZNAx_P3qZjiFW2zKZHqylv1Wd3fBZRWS1J15pUO4c-sZsNlp3nBelTLvjvuFVtOfhSm3tVkCbLg79H41WazJfyI9hX1cm1Sq926r12mBQrUndR9jQ4LTbPii9xj7OjIlPrVBHZOwG2irnBabIcVG1wSMGM5sDFMXABROd8j0EuFvnc4M5ZuoaYTuxXq3zRlqthWGV69UGyXn2Zu-LLSHH1oFY-ge6ok14"
   },
   "organic_results": [
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Top 5 Earbuds Under 3,000 with Prices & Specs ; OnePlus Nord Buds 2R, In ear canalphone, Wireless, With Mic, 20 Hours Talk time, 5.3 Bluetooth Version, 10 meter ...",
-      "icon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAACQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvFBO12x_QBtgOZg_TPqbusz9E3pXfIzMBq0Tu4BCuORtGbYUtWUq1vIS4bwOPuc5k_C8eoAAP4AihNYzqcLaTiPx9XHhfOsSBpyVPvTHvSRJN6-8PHrRZHOv8qfPHacNGGnJnX-plytXPhfP-Krv_8AqdRU3K3QSe7VXgbZZMTdt2ymow1b4Av05UXwplhvwuv6UViN6riwj-hTvgmt03sZL6fsa06410qD-GqeIeca3ov4c-U1zSv-CVwF-FPJfzqhcZ_6jcWfl8QZfLirRFR-uE-bftj17fJ3vqvK46IEUsOSV67P3S6UfefBCZJ5ovWXDTxIdKMuyLitZPA7G_qwzgsl6-gTzSC52niDbrQhx3I_Evk10qoiERJL8Y539D4KxVGK3ccRxZTs0fBVUBT20ljY95EuRYvM0rs3r4QcR-MXuYy8D7Ym6LVn_jMraqimUeAp_9RuKfNvkMMqZ--fa8to8__-PWX0eUmbz2CdYAA.webp",
-      "source_info_link": "https://www.91mobiles.com/list-of-earbuds/earbuds-under-3000-in-india"
+      "description": "Bon Appétit joins Chef Meherwan Irani in Delhi, one of the world's greatest food cities, to visit New Zaika Kathi Roll, a stall specialising ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=oe9PCgONfd0"
      }
     },
-    "displayed_link": "https://www.91mobiles.com › earbud...",
-    "favicon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAACQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvFBO12x_QBtgOZg_TPqbusz9E3pXfIzMBq0Tu4BCuORtGbYUtWUq1vIS4bwOPuc5k_C8eoAAP4AihNYzqcLaTiPx9XHhfOsSBpyVPvTHvSRJN6-8PHrRZHOv8qfPHacNGGnJnX-plytXPhfP-Krv_8AqdRU3K3QSe7VXgbZZMTdt2ymow1b4Av05UXwplhvwuv6UViN6riwj-hTvgmt03sZL6fsa06410qD-GqeIeca3ov4c-U1zSv-CVwF-FPJfzqhcZ_6jcWfl8QZfLirRFR-uE-bftj17fJ3vqvK46IEUsOSV67P3S6UfefBCZJ5ovWXDTxIdKMuyLitZPA7G_qwzgsl6-gTzSC52niDbrQhx3I_Evk10qoiERJL8Y539D4KxVGK3ccRxZTs0fBVUBT20ljY95EuRYvM0rs3r4QcR-MXuYy8D7Ym6LVn_jMraqimUeAp_9RuKfNvkMMqZ--fa8to8__-PWX0eUmbz2CdYAA.webp",
-    "link": "https://www.91mobiles.com/list-of-earbuds/earbuds-under-3000-in-india",
+    "date": "Mar 25, 2026",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=oe9PCgONfd0",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVBf5YR-mNhBPnRZ44-HfnLlt1oplKrmKTDE3uK9_MALQV4_BiJk4JEpokHTDJuZGBsg8pDuP8Tbo43K9EvdfzQIBtudG1qeM6_Kkyc-vdjnFOvAd8fiuTUvc5QpThlAMaPpBaHt3vMqxO2lvWxuuu_uQw5VIz2Fzg&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQFnoECBwQAQ&uoh=1",
-    "snippet": "Top 5 Earbuds Under 3,000 with Prices & Specs ; OnePlus Nord Buds 2R, In ear canalphone, Wireless, With Mic, 20 Hours Talk time, 5.3 Bluetooth Version, 10 meter ...",
-    "snippet_highlighted_words": [
-     "OnePlus Nord Buds 2R"
-    ],
-    "source": "91Mobiles",
-    "title": "Earbuds Under 3000 in India (Sep 2026)"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV1pmBnIWGCrNwRKDvrTz2jEAGH1OT4V4HPDLJ_6gHJy3GWJzbDGf9yp8MFE4a3RBHGmPJ7fM87FllDYFVX2i7scuqS9IWDvEBY4b5eo9Xy2Idkfgm7K0h_lpmykiXzA&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQFnoECB0QAQ&uoh=1",
+    "snippet": "Bon Appétit joins Chef Meherwan Irani in Delhi, one of the world's greatest food cities, to visit New Zaika Kathi Roll, a stall specialising ...",
+    "source": "YouTube",
+    "title": "These Kati Rolls are One of India's Best Street Foods"
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "These Are The Best Earbuds Under 3000 in India 2026 · 1 Realme Buds T500 Pro · 2 Realme Air 7 · 3 CMF Buds 2 Plus · 4 OnePlus Nord Buds 3 Pro · 5 CMF ...",
-      "icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABwBwCdASocABwAPtE-tFooIigoFAEAGgloAKSg0XABGzefhmzVBX-s9WYON3Tno3oebtuE3XWqsU2aBA4DCp_zYBMIAAD-9hEV7JtDRK0W9shOM1TciA9qBroX2CWm4JHktO1lS0nts6HwLoKenA3_50YP-f51GIvzxVw5DmtSmvzneuYLJ1YSe6npNcGxRr5azbgYuhSy0gRo3SYc6NgY0v8Y2W4FDzX1K1Se_QUIw8ZI1u29UBUbNenA_U5-_DoYiuK6sMGXXRkaxtcv5iX7XgoB-FXa5LFemaq6rF2tSGSd1LZl442Bve1fMKNsJZ2EHNTBUSB_M35zupa5-Q3bdi8IEfvsRp53wO9HR__j3ku2_9vs9VFFH-ouPxlAY1zaLuA_-9_6ufa75FnztbTD9VJD000Y3EY75sTZvs4fTzE3G2K0lDera-T3etO1uOe8gGjhbHysvtsn7fAcNaOfZYYPvx7FroHbl6mj9iAFcUptTPaLUHBrg4JvUwAA.webp",
-      "source_info_link": "https://www.geekman.in/best-earbuds-under-3000-india/"
+      "description": "Welcome to Bukhara, one of the world's mot famous Indian restaurants, where billionaires and presidents eat when they visit New Delhi!",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=WdvkqTmWT5A"
      }
     },
-    "date": "30‏/08‏/2026",
-    "displayed_link": "https://www.geekman.in › best-earb...",
-    "favicon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABwBwCdASocABwAPtE-tFooIigoFAEAGgloAKSg0XABGzefhmzVBX-s9WYON3Tno3oebtuE3XWqsU2aBA4DCp_zYBMIAAD-9hEV7JtDRK0W9shOM1TciA9qBroX2CWm4JHktO1lS0nts6HwLoKenA3_50YP-f51GIvzxVw5DmtSmvzneuYLJ1YSe6npNcGxRr5azbgYuhSy0gRo3SYc6NgY0v8Y2W4FDzX1K1Se_QUIw8ZI1u29UBUbNenA_U5-_DoYiuK6sMGXXRkaxtcv5iX7XgoB-FXa5LFemaq6rF2tSGSd1LZl442Bve1fMKNsJZ2EHNTBUSB_M35zupa5-Q3bdi8IEfvsRp53wO9HR__j3ku2_9vs9VFFH-ouPxlAY1zaLuA_-9_6ufa75FnztbTD9VJD000Y3EY75sTZvs4fTzE3G2K0lDera-T3etO1uOe8gGjhbHysvtsn7fAcNaOfZYYPvx7FroHbl6mj9iAFcUptTPaLUHBrg4JvUwAA.webp",
-    "link": "https://www.geekman.in/best-earbuds-under-3000-india/",
+    "date": "May 10, 2026",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=WdvkqTmWT5A",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVqdeX02hOmOQ852YUxP12l-iizuPki7uRX_SRhJLZFYReb3VC1n5ED8aqPuP0zNebAQwpaIPfryMzTL607PqSqEKy_wu11FEdTJkQ4LriC4mgkwAF4vVQU6e8XnZzFBaGUQoWDxrUknw&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQFnoECB0QAQ&uoh=1",
-    "snippet": "These Are The Best Earbuds Under 3000 in India 2026 · 1 Realme Buds T500 Pro · 2 Realme Air 7 · 3 CMF Buds 2 Plus · 4 OnePlus Nord Buds 3 Pro · 5 CMF ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVwwduHMUAlIKIFLhK-nhPjt929n8770XbtE6_JKL7nKCytu6comU_OQkoYJq7RbjBoPbyFkUYxIEOn3pENqWQXhm-2gJQV6tve4SzasyluZ8pLr-QYiSTxd_N4P3aQQ&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQFnoECB4QAQ&uoh=1",
+    "snippet": "Welcome to Bukhara, one of the world's mot famous Indian restaurants, where billionaires and presidents eat when they visit New Delhi!",
     "snippet_highlighted_words": [
-     "Realme Buds T500 Pro"
+     "Indian"
     ],
-    "source": "Geekman",
-    "title": "Best Earbuds Under 3000 in India (2026)"
+    "source": "YouTube",
+    "title": "I Tried the Indian Restaurant Where Billionaires and ..."
    },
    {
     "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
      "source": {
-      "description": "A lot of you are looking for the best TWS under ₹3000, basically the sweet spot right now, but there are so many options right now, ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+      "description": "Today we're eating some of the most insane Indian street food in Old Delhi, India! We'll try one of the best curries I've ever had in my ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=qc7iiJE027o"
      }
     },
-    "displayed_link": "أكثر من 273.5 ألف مشاهدة · قبل 5 أشهر",
-    "duration": "8:33",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=7f5xbRPZMFY&t=0",
-      "time": "00:00",
-      "title": "The Best TWS Under ₹3000?"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=7f5xbRPZMFY&t=478",
-      "time": "07:58",
-      "title": "Bottom Line!"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=7f5xbRPZMFY",
+    "date": "May 20, 2026",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=qc7iiJE027o",
     "position": 3,
-    "snippet": "A lot of you are looking for the best TWS under ₹3000, basically the sweet spot right now, but there are so many options right now, ...",
-    "source": "YouTube · Sillycorns",
-    "thumbnail": "https://serpapi.com/searches/6aab024d421b089b87ba3c1b/images/dGFLhfPt-gN_2hff5mLjBaxZhjupM9B4HSgQsQSDyns.jpeg",
-    "title": "The Best TWS Under ₹3000!"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVJp0rVI9bi5maCEkTMhBEfumoB1TfqD5Y52r3WUBlA8uZjRp2d3fzhXmEfyu264TLIcsPW_EsSgXZoS0M2mkO9VxPYhxgcA3EO-VfjvMO0zE5Wpcuhzj6RrrsVD00ig&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQFnoECBwQAQ&uoh=1",
+    "snippet": "Today we're eating some of the most insane Indian street food in Old Delhi, India! We'll try one of the best curries I've ever had in my ...",
+    "snippet_highlighted_words": [
+     "Indian",
+     "India"
+    ],
+    "source": "YouTube",
+    "title": "Best Indian Street Food in Old Delhi!! (Sells Out in 30 ..."
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "I had nord buds 1 but they were better and also bullets wireless z1 bass edition. These op nord buds 3 pro tempt me to increase sound to listen ...",
-      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-      "source_info_link": "https://www.reddit.com/r/headphonesindia/comments/1ssn174/earbuds_under_3000_read_below/"
+      "description": "How NOT to launch a new smartphone brand. Ninja Creami Deluxe: 4. Anker PowerBank: Momax Travel Adaptor: I Investigated India's Biggest ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=s7aOJYueEtI"
      }
     },
-    "displayed_link": "أكثر من 110 تعليق · قبل 4 أشهر",
-    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-    "link": "https://www.reddit.com/r/headphonesindia/comments/1ssn174/earbuds_under_3000_read_below/",
+    "date": "May 30, 2026",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=s7aOJYueEtI",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFXkAmKsaR_LasTxuQg24wymxKaLoy8ijXdvTsMVuvvEKTdy6zhGnhNOVZz-aPJLU-qHIHHxXxX2kt_r1giF0f2LokHr8c5SA3YHdpCgMSKIab0kSQGbPCckf1nnvr4NHKwMbVR17ncZ2YVAqI4xEcxaCxqO51tYFoVyizCK7pmYhLw4mJfDipHq_l7g&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQFnoECCYQAQ&uoh=1",
-    "snippet": "I had nord buds 1 but they were better and also bullets wireless z1 bass edition. These op nord buds 3 pro tempt me to increase sound to listen ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVg3PF3KsnnNMmSVu08ed65a56n_7choDCLrWhL4GiYInQt5QjdypxzaZldyZBGSZNs3GXNLtNrrHmesPQGwEAE6tXzms-ywJowwil76ISXO96Ck3cS06Hg4jNxyIE8Q&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQFnoECBsQAQ&uoh=1",
+    "snippet": "How NOT to launch a new smartphone brand. Ninja Creami Deluxe: 4. Anker PowerBank: Momax Travel Adaptor: I Investigated India's Biggest ...",
     "snippet_highlighted_words": [
-     "wireless"
+     "India's"
     ],
-    "source": "Reddit · r/headphonesindia",
-    "title": "r/headphonesindia - earbuds under 3000, read below."
+    "source": "YouTube",
+    "title": "I Investigated India's Biggest Smartphone Controversy"
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Earbuds Under 3000 ; Airdopes 131 · 1468 · boAt Airdopes 131 · 67% off. +5 +5. 13mm drivers IWP Technology ; Airdopes 141 · 758 · boAt Airdopes 141 · 78% off. +3 +3.",
-      "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMHhCC7AAgC6bjfQhu_2GSjHwLRHU2yMVgMsUAD-_qBeBidJAUg5ImOdyUi7yBIlZZ0svFVkG_1Q_KzAgt7lUl__iw_7RzOP7__xd17jFivZrq5Ljx31ieaLRd2Xj9r6pBsYpxhrctecHMjdTkQd008NOMDrABpyFqvTB7n36JLj8HQ_8HGdtbTYjNMZo9JyHJBoEhhCDOlbcL66g8FAAAA.webp",
-      "source_info_link": "https://www.boat-lifestyle.com/collections/earbuds-under-3000?srsltid=AU7gw4UsmQNllps7HI4BUFQ8aJE9XpyJGJRDDY8L3_frsZqYW9EiEPXo"
+      "description": "India's young consumers are driving a credit boom—fuelled by easy loans, buy-now-pay-later schemes, and a surge in credit card adoption.",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=idLZ8_nKU7c"
      }
     },
-    "displayed_link": "https://www.boat-lifestyle.com › ear...",
-    "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMHhCC7AAgC6bjfQhu_2GSjHwLRHU2yMVgMsUAD-_qBeBidJAUg5ImOdyUi7yBIlZZ0svFVkG_1Q_KzAgt7lUl__iw_7RzOP7__xd17jFivZrq5Ljx31ieaLRd2Xj9r6pBsYpxhrctecHMjdTkQd008NOMDrABpyFqvTB7n36JLj8HQ_8HGdtbTYjNMZo9JyHJBoEhhCDOlbcL66g8FAAAA.webp",
-    "link": "https://www.boat-lifestyle.com/collections/earbuds-under-3000?srsltid=AU7gw4UsmQNllps7HI4BUFQ8aJE9XpyJGJRDDY8L3_frsZqYW9EiEPXo",
+    "date": "May 22, 2026",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=idLZ8_nKU7c",
     "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFaFa08gSMZtVBPe9FkkdKm4k5LBA3A1Yogbz8RSY5Id8IjkezPIIKb9iY2drCHTt38Om20mG6mIPfzfP8fJhF7d9nFnixinsGUjAUCny6u9P8OdsshXHnioaWn9cC5Z3fjA7RpBx6VE0vFBgXetrxFau5ReVkpx1hkZLRMVxO8I7K7RGwUmAcMV5xihPrCqSzPEBNoca02MbG0TrCxsSLgMj9ht__xbrQSWG2k5sqBfOug&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQFnoECCAQAQ&uoh=1",
-    "snippet": "Earbuds Under 3000 ; Airdopes 131 · 1468 · boAt Airdopes 131 · 67% off. +5 +5. 13mm drivers IWP Technology ; Airdopes 141 · 758 · boAt Airdopes 141 · 78% off. +3 +3.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVuhkzxzOq8xZdFcshMi0tCepXsWs91OBoICxYYcd7A4hkN7nxV14kXHR54IJRqKiU8TeRCmC8t9yuo9Rwf8-_v_tMzG1cx8ywwV9X-zotUn2m6CASwgUhlC7S-JGXSg&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQFnoECB8QAQ&uoh=1",
+    "snippet": "India's young consumers are driving a credit boom—fuelled by easy loans, buy-now-pay-later schemes, and a surge in credit card adoption.",
     "snippet_highlighted_words": [
-     "Airdopes 131"
+     "India's"
     ],
-    "source": "boAt",
-    "title": "Earbuds Under 3000"
+    "source": "YouTube",
+    "title": "Why India's Youth Are Choosing Debt Over Savings | Insight"
    },
    {
     "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
      "source": {
-      "description": "Dive into our in-depth review of the best wireless earbuds under ₹2000! We've meticulously compared the OnePlus Nord Buds 2, Redmi Buds 5 ...",
-      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+      "description": "On a tucked-away side. Fonty's Deli + Dukaan, a nascent spot that has drawn lines down the block for its “Indian-ish” sandwiches.",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=yrmY2jFiwD8"
      }
     },
-    "displayed_link": "أكثر من 1 ألف معجب · قبل شهر واحد",
-    "duration": "1:07",
-    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "link": "https://www.instagram.com/reel/DbnuqecBEqr/",
+    "date": "Apr 18, 2026",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=yrmY2jFiwD8",
     "position": 6,
-    "snippet": "Dive into our in-depth review of the best wireless earbuds under ₹2000! We've meticulously compared the OnePlus Nord Buds 2, Redmi Buds 5 ...",
-    "source": "Instagram · pratimaadhikary",
-    "thumbnail": "https://serpapi.com/searches/6aab024d421b089b87ba3c1b/images/dGFLhfPt-gN_2hff5mLjBab0n23_XAwdL21I0_YRe-4.jpeg",
-    "title": "These are the best earbuds that you can buy under 3000 ..."
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV5Ie9Qq3DR7-SVqVi3TInLpPlgppityvkmuk8j9MlW-byi6XOtcZO73Z8DKf9RDCiCAxav5FCAxZSaLl7NvWwCUEfZAgxXycHEmLMHGnPc3QzD4KeKj1K0e-UebZLKg&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQFnoECE8QAQ&uoh=1",
+    "snippet": "On a tucked-away side. Fonty's Deli + Dukaan, a nascent spot that has drawn lines down the block for its “Indian-ish” sandwiches.",
+    "snippet_highlighted_words": [
+     "Indian"
+    ],
+    "source": "YouTube",
+    "title": "NYC's New Hit Sandwich Is an Indian-ish Sensation"
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "OnePlus Nord Buds 3 Pro Truly Wireless Bluetooth Earbuds with Upto 49dB Active Noise Cancellation,12.4mm Dynamic Drivers,10mins for 11Hrs Fast Charging with ...",
-      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
-      "source_info_link": "https://www.amazon.in/best-anc-earbuds-under-3000/s?k=best+anc+earbuds+under+3000"
+      "description": "Why India Will NEVER be a Superpower. Why Are Foreigners Not Visiting India?",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=oZJLZnCyf3s"
      }
     },
-    "displayed_link": "https://www.amazon.in › best-anc-ear...",
-    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
-    "link": "https://www.amazon.in/best-anc-earbuds-under-3000/s?k=best+anc+earbuds+under+3000",
+    "date": "Jun 29, 2026",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=oZJLZnCyf3s",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFeFU8AFO37myPLbubLzfvxuJolZxkvhV1ZKh9cFKnLppks23ndMpWob7-xKLva4NkdI9ofveVqriHgdB3rTmp0MMF42T3JXBQu5KRVlq1sXjWETWKUZvx9bkBS1qUP3qDjct-gZ7wmf3smntDbSj-tEJbjr23aYCwd4Ulf81RCsF9Pn_0w&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQFnoECEQQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "rating": 4.4,
-       "تقييم_المتجر": 69
-      },
-      "extensions": [
-       "4.4",
-       "تقييم المتجر (69)"
-      ]
-     }
-    },
-    "snippet": "OnePlus Nord Buds 3 Pro Truly Wireless Bluetooth Earbuds with Upto 49dB Active Noise Cancellation,12.4mm Dynamic Drivers,10mins for 11Hrs Fast Charging with ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVy2h9qfjbn0EtHD3bHftZWaa7gbndZYrP5WowJlH1-HWkcEmcaa8gzgHcUTm8E3CoErDdniMw86umAANJJSGtf8GYerq5-Awy-wCLVZWnR1K6yDq4QFX_lhG4QIUTZw&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQFnoECE4QAQ&uoh=1",
+    "snippet": "Why India Will NEVER be a Superpower. Why Are Foreigners Not Visiting India?",
     "snippet_highlighted_words": [
-     "OnePlus Nord Buds 3 Pro Truly Wireless Bluetooth Earbuds"
+     "India",
+     "India"
     ],
-    "source": "Amazon.in",
-    "title": "Best Anc Earbuds Under 3000"
+    "source": "YouTube",
+    "title": "Why India Will NEVER be a Superpower"
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Nord Wired Earphones ; true wireless earbuds under 3000. PRICE (RS) ; OnePlus Bullets Wireless Z2 with 30H. Rs. 1599 ; OnePlus Nord Wired Earphones. Rs. 799.",
-      "icon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMNJAC7AN5i8kAmcBf6f2TVkY7mfbTAGafmAAAD-9gjvd-9io-KSYCbRaRb4ml56i008EH950Uup4h0WsqK1IfzHzEXOt7JftYcrbWy3Fpm7HIVLjn3pW4zL9XZQQN6eZ_7ScFO0m5Bbb_lBcVWHvvLqm4u-mu4GHm9No2--2JJQ9bNwYjC9isIXgGiAv97lt3SthVVq_DIUV5w3P_NiS5q_841PE5k043VKRei6gK1qDZsrvH_1Zy3-u5uvSsAAAA.webp",
-      "source_info_link": "https://www.myntra.com/true-wireless-earbuds-under-3000"
+      "description": "This content isn't available. Be in the audience of India's got Latent by clicking here - https://samayraina.co/... Buy Wild Stone ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=B6NVvtIz9_Q"
      }
     },
-    "displayed_link": "https://www.myntra.com › true-wire...",
-    "favicon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMNJAC7AN5i8kAmcBf6f2TVkY7mfbTAGafmAAAD-9gjvd-9io-KSYCbRaRb4ml56i008EH950Uup4h0WsqK1IfzHzEXOt7JftYcrbWy3Fpm7HIVLjn3pW4zL9XZQQN6eZ_7ScFO0m5Bbb_lBcVWHvvLqm4u-mu4GHm9No2--2JJQ9bNwYjC9isIXgGiAv97lt3SthVVq_DIUV5w3P_NiS5q_841PE5k043VKRei6gK1qDZsrvH_1Zy3-u5uvSsAAAA.webp",
-    "link": "https://www.myntra.com/true-wireless-earbuds-under-3000",
+    "date": "Aug 1, 2026",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=B6NVvtIz9_Q",
     "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVPVDn6-ZrW2Dhy8Kr15vkG4Cbs-gOMwlb6MBvLfNYss2eiX0N0SB5yW_Yzn3n7wsuXWGr94J4XAu_HTMbEGFlF8J8p5g_ZCSepXOjitLn786ExFPKoRv-lEUezF-dFZmhJU1dhTDRskUFlQ&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQFnoECEEQAQ&uoh=1",
-    "snippet": "Nord Wired Earphones ; true wireless earbuds under 3000. PRICE (RS) ; OnePlus Bullets Wireless Z2 with 30H. Rs. 1599 ; OnePlus Nord Wired Earphones. Rs. 799.",
+    "read_more_link": "https://www.youtube.com/watch?v=B6NVvtIz9_Q#:~:text=This%20content%20isn't%20available.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVl7-fjPdVB43jfZx64JSxkatdygEEeSHK-tE_1UN0EfNO-Kv4pRfu85llD2lKSmd-xSkR4QhdOydhhYT40K_rpxrR0YuoKSh4oVwSiwZep14uWPMLfSBl6--Tg8Cx4A&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQFnoECFQQAQ&uoh=1",
+    "snippet": "This content isn't available. Be in the audience of India's got Latent by clicking here - https://samayraina.co/... Buy Wild Stone ...",
     "snippet_highlighted_words": [
-     "wireless earbuds under 3000"
+     "available",
+     "India's"
     ],
-    "source": "Myntra",
-    "title": "True Wireless Earbuds Under 3000"
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "Music India (M&I) Wireless Earbuds Now Available on DeoDap! ... And finally the rear me buds T 500 pro is my topic under 3, 000 Indian rupees.",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
-     }
-    },
-    "displayed_link": "أكثر من 80 تفاعل · قبل شهر واحد",
-    "duration": "1:08",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/pratima.adhikari.100/videos/these-are-the-best-earbuds-that-you-can-buy-under-3000-rupees-budgetearbuds-prat/2287000505419771/",
-    "position": 9,
-    "snippet": "Music India (M&I) Wireless Earbuds Now Available on DeoDap! ... And finally the rear me buds T 500 pro is my topic under 3, 000 Indian rupees.",
-    "source": "Facebook · Pratima Adhikari",
-    "thumbnail": "https://serpapi.com/searches/6aab024d421b089b87ba3c1b/images/dGFLhfPt-gN_2hff5mLjBYs6qlZiUFho3c_vjqG_VSY.jpeg",
-    "title": "These are the best earbuds that you can buy under 3000 ..."
+    "source": "YouTube",
+    "title": "INDIA'S GOT LATENT S2 EP4 ft. Karan Aujla, Tanmay Bhat ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=10&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8NMDegQINhAW",
+   "next": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=646215d9fbd2647e&ei=dsKvaorIFMvZ5NoP9rPfqQQ&start=10&sa=N&sstk=AS6-VmLaJCt83NwpDrBq2fsJ_7go-jjeKN4mW6nQLANuXJBtc_MqzAeJ1eVS_6wXvZ0tVZ23bjMAqUpKPOpngJYy1mSWDsJ5QzEO5Q&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQ8NMDegQISRAK",
    "other_pages": {
-    "10": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=90&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8tMDegQINhAU",
-    "2": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=10&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8tMDegQINhAE",
-    "3": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=20&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8tMDegQINhAG",
-    "4": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=30&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8tMDegQINhAI",
-    "5": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=40&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8tMDegQINhAK",
-    "6": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=50&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8tMDegQINhAM",
-    "7": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=60&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8tMDegQINhAO",
-    "8": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=70&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8tMDegQINhAQ",
-    "9": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&ei=TgKrapWiAbK8ruEPp8TmsQw&start=80&sa=N&sstk=AS6-VmJ0ePDBi1iDuMOBcMB1iBMsXDpygJjYAeB0xevW3pYNq-hkCLX6UXNXIUyFtFC-xrsyLH7JvI139ld9gZTHGhqC406Pbl2MZA&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ8tMDegQINhAS"
+    "2": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=646215d9fbd2647e&ei=dsKvaorIFMvZ5NoP9rPfqQQ&start=10&sa=N&sstk=AS6-VmLaJCt83NwpDrBq2fsJ_7go-jjeKN4mW6nQLANuXJBtc_MqzAeJ1eVS_6wXvZ0tVZ23bjMAqUpKPOpngJYy1mSWDsJ5QzEO5Q&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQ8tMDegQISRAE",
+    "3": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=646215d9fbd2647e&ei=dsKvaorIFMvZ5NoP9rPfqQQ&start=20&sa=N&sstk=AS6-VmLaJCt83NwpDrBq2fsJ_7go-jjeKN4mW6nQLANuXJBtc_MqzAeJ1eVS_6wXvZ0tVZ23bjMAqUpKPOpngJYy1mSWDsJ5QzEO5Q&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQ8tMDegQISRAG",
+    "4": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India?&sca_esv=646215d9fbd2647e&ei=dsKvaorIFMvZ5NoP9rPfqQQ&start=30&sa=N&sstk=AS6-VmLaJCt83NwpDrBq2fsJ_7go-jjeKN4mW6nQLANuXJBtc_MqzAeJ1eVS_6wXvZ0tVZ23bjMAqUpKPOpngJYy1mSWDsJ5QzEO5Q&ved=2ahUKEwiK24iIhv2WAxXLLFkFHfbZN0UQ8tMDegQISRAI"
    }
   },
-  "related_questions": [
+  "perspectives": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5WaElaMEpJV0ZCTVIzSmhVbTV2WjFoaVdtRnZTbkYyWDFCaFJGVlhUVFJzVlVKc1REZExPWHBTTjB4dk5EaENjbmRHUXpoeVRXWTRVRXN5YjFKWU5tcDJlVEl5VUVablQxaDRSM3BHYjJ0eExYSlRWVFZST1djMVFSSVhWR2RMY21Gd1YybEJZa3M0Y25WRlVIQTRWRzF6VVhjYUlrRkVjM0k1WmxSMVNsVjViRFI0WWpBM1pIVm1lSGhwVEc0d2RWOTNYMWxvVm1jIiwiZmN2IjoiMyIsImVpIjoiVGdLcmFwV2lBYks4cnVFUHA4VG1zUXciLCJxYyI6IkNqNTNhR0YwSUhkcGNtVnNaWE56SUdWaGNtSjFaSE1nWVhKbElHRjJZV2xzWVdKc1pTQjFibVJsY2lBek1EQXdJSEoxY0dWbGN5QnBiaUJwYm1ScFlSQUFmWW9BNmo0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBlYXJidWRzIHRvIGJ1eSB1bmRlciAzMDAwIHJ1cGVlcyBpbiBJbmRpYT8iLCJsayI6IkdoNWlaWE4wSUdWaGNtSjFaSE1nZEc4Z1luVjVJSFZ1WkdWeUlETXdNREEiLCJicyI6ImM0V1FQUXZDTUJpRWNYMG41eUJ5YU4yTHhVMTBkbkIyRU1TRXZMU0ZtcFI4VVB6M1ZvV0txSEZfN2pudTZFenJReVVEcEdPRWlxSFlCN0IwS21xUFlLSGlGZEZvZGlqeVBJZUxMYk5IYmJBenVwYmJKY1EwSGFFakZaOE5QVnR5UUZjN2J0ajdJZjRTWjJMMmgtd3gybFAySmctMnhlcUxiU0htWFpKNzZrNjBHWFRlWGhpbHRmclJyZTl3VzFuVHIwXzlNUkhpTno0ZTNRQSIsImlkIjoiZmNfVGdLcmFwV2lBYks4cnVFUHA4VG1zUXdfNSJ9",
-    "page_token": "nr1cCXicHdBfTsIwAIDxeBkegTJAJSGGycrSQHHt2o2-mK6DFdr9iZsW9uZdPJWnkXiC75fv-8eeK_P7kOqua9rFaOScGxZ1XdjjUNXlSLa3So2UtDaTyizmj3PwclLLoHX-a-38iDUNX5MxNd01A887wX1yhLjNYP6WmS7FXMcy1SXmuynnPlBr4QkmPHkh3qHMaXZZXfGEsxTkUowRxQEIyIa5qBRnVs4CYdCVJo3dszzJk2LKenuN-lVPAJ8wK-ZbNutFlQsZotO9me6grjOGZixElsf4E6-VF5dEUIatNMLJ9HC3ap0FAYWAVNRDWsG8iRK03YcIEO67PSSdAtDbnJFPQnzbJ4LS3vLMwDGGOj5UCiSmdTv-1NM46uOLTlSi_cFJfS29wf-x5fup7BbNR138AdCgeZE",
-    "question": "What are the best earbuds to buy under 3000 rupees in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nr1cCXicHdBfTsIwAIDxeBkegTJAJSGGycrSQHHt2o2-mK6DFdr9iZsW9uZdPJWnkXiC75fv-8eeK_P7kOqua9rFaOScGxZ1XdjjUNXlSLa3So2UtDaTyizmj3PwclLLoHX-a-38iDUNX5MxNd01A887wX1yhLjNYP6WmS7FXMcy1SXmuynnPlBr4QkmPHkh3qHMaXZZXfGEsxTkUowRxQEIyIa5qBRnVs4CYdCVJo3dszzJk2LKenuN-lVPAJ8wK-ZbNutFlQsZotO9me6grjOGZixElsf4E6-VF5dEUIatNMLJ9HC3ap0FAYWAVNRDWsG8iRK03YcIEO67PSSdAtDbnJFPQnzbJ4LS3vLMwDGGOj5UCiSmdTv-1NM46uOLTlSi_cFJfS29wf-x5fup7BbNR138AdCgeZE",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5WaElaMEpJV0ZCTVIzSmhVbTV2WjFoaVdtRnZTbkYyWDFCaFJGVlhUVFJzVlVKc1REZExPWHBTTjB4dk5EaENjbmRHUXpoeVRXWTRVRXN5YjFKWU5tcDJlVEl5VUVablQxaDRSM3BHYjJ0eExYSlRWVFZST1djMVFSSVhWR2RMY21Gd1YybEJZa3M0Y25WRlVIQTRWRzF6VVhjYUlrRkVjM0k1WmxSMVNsVjViRFI0WWpBM1pIVm1lSGhwVEc0d2RWOTNYMWxvVm1jIiwiZmN2IjoiMyIsImVpIjoiVGdLcmFwV2lBYks4cnVFUHA4VG1zUXciLCJxYyI6IkNqNTNhR0YwSUhkcGNtVnNaWE56SUdWaGNtSjFaSE1nWVhKbElHRjJZV2xzWVdKc1pTQjFibVJsY2lBek1EQXdJSEoxY0dWbGN5QnBiaUJwYm1ScFlSQUFmWW9BNmo0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBlYXJidWRzIHRvIGJ1eSB1bmRlciAzMDAwIHJ1cGVlcyBpbiBJbmRpYT8iLCJsayI6IkdoNWlaWE4wSUdWaGNtSjFaSE1nZEc4Z1luVjVJSFZ1WkdWeUlETXdNREEiLCJicyI6ImM0V1FQUXZDTUJpRWNYMG41eUJ5YU4yTHhVMTBkbkIyRU1TRXZMU0ZtcFI4VVB6M1ZvV0txSEZfN2pudTZFenJReVVEcEdPRWlxSFlCN0IwS21xUFlLSGlGZEZvZGlqeVBJZUxMYk5IYmJBenVwYmJKY1EwSGFFakZaOE5QVnR5UUZjN2J0ajdJZjRTWjJMMmgtd3gybFAySmctMnhlcUxiU0htWFpKNzZrNjBHWFRlWGhpbHRmclJyZTl3VzFuVHIwXzlNUkhpTno0ZTNRQSIsImlkIjoiZmNfVGdLcmFwV2lBYks4cnVFUHA4VG1zUXdfNSJ9",
-    "type": "ai_overview"
+    "author": "TechRx",
+    "date": "2 days ago",
+    "duration": "5:37",
+    "extensions": [
+     "13K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=7x3pajVO_LA",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://serpapi.com/searches/6aafc276484c09eb4cd673c6/images/CTINsqwy_6jNFC3Y3nh6J91Rb1yaMYYzd0VGoQp3HY0.webp"
+    ],
+    "title": "🔥 STOP Buying Trash | Only 2 Best Earbuds Under 3000 In Amazon & Flipkart 🎧",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSRSfJyzNsSbFb1K-j0hZRFhYdBWUJ-Fd7aiw"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5WaElaMEpJV0ZCTVIzSmhVbTV2WjFoaVdtRnZTbkYyWDFCaFJGVlhUVFJzVlVKc1REZExPWHBTTjB4dk5EaENjbmRHUXpoeVRXWTRVRXN5YjFKWU5tcDJlVEl5VUVablQxaDRSM3BHYjJ0eExYSlRWVFZST1djMVFSSVhWR2RMY21Gd1YybEJZa3M0Y25WRlVIQTRWRzF6VVhjYUlrRkVjM0k1WmxSMVNsVjViRFI0WWpBM1pIVm1lSGhwVEc0d2RWOTNYMWxvVm1jIiwiZmN2IjoiMyIsImVpIjoiVGdLcmFwV2lBYks4cnVFUHA4VG1zUXciLCJxYyI6IkNqNTNhR0YwSUhkcGNtVnNaWE56SUdWaGNtSjFaSE1nWVhKbElHRjJZV2xzWVdKc1pTQjFibVJsY2lBek1EQXdJSEoxY0dWbGN5QnBiaUJwYm1ScFlSQUFmWW9BNmo0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBidWRnZXQgd2lyZWxlc3MgZWFyYnVkcyBpbiBJbmRpYT8iLCJsayI6IkdpSmlaWE4wSUdKMVpHZGxkQ0IzYVhKbGJHVnpjeUJsWVhKaWRXUnpJR2x1WkdsaCIsImJzIjoiYzRXUVBRdkNNQmlFY1gwbjV5QnlhTjJMeFUxMGRuQjJFTVNFdkxTRm1wUjhVUHozVm9XS3FIRl83am51NkV6clF5VURwR09FaXFIWUI3QjBLbXFQWUtIaUZkRm9kaWp5UEllTExiTkhiYkF6dXBiYkpjUTBIYUVqRlo4TlBWdHlRRmM3YnRqN0lmNFNaMkwyaC13eDJsUDJKZy0yeGVxTGJTSG1YWko3Nms2MEdYVGVYaGlsdGZyUnJlOXdXMW5UcjBfOU1SSGlOejRlM1FBIiwiaWQiOiJmY19UZ0tyYXBXaUFiSzhydUVQcDhUbXNRd181In0=",
-    "page_token": "6kV_AnicHdBRboIwAIDh7DI-Kqh1w8QsqVCRhbKWtqgvS21BhCJMEaZvu8tOtdPM7AL_l_zfP-Z4Kn-furxtm8t8NOr7fnio64NJh6quRvJyO6mRksbspSrns-eZ_ZqphXddw-XnGhLeNMKlVmw7JOGOT5ieRCy4xp5A-wLaYtVOkwp0mhGL2JoxL3dZ5QScURH7-C32AIi4fU42iKQrIEkFkCrbTiQOiCsUUAGz1EeeZMGSMzR7tDLM4Hpn6WV4aozkxuel7mMmalWYQFkUkcR-D9EObgsd8jGm5G5Okbsd67GGWECMLV2wsTMjVTMl_AUwzzahQJLwYBsJutwXGHq55jurvW03cCM5Osb3_Ka5IMrN-X6Dqf6qj4TT-8OsxKqehEwDXuTXxDcgTYIyYpoS0zTYLdt0lUvdDzLVLSaD_5-Lj6xq5825PvwBkAuBag",
-    "question": "What are the best budget wireless earbuds in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6kV_AnicHdBRboIwAIDh7DI-Kqh1w8QsqVCRhbKWtqgvS21BhCJMEaZvu8tOtdPM7AL_l_zfP-Z4Kn-furxtm8t8NOr7fnio64NJh6quRvJyO6mRksbspSrns-eZ_ZqphXddw-XnGhLeNMKlVmw7JOGOT5ieRCy4xp5A-wLaYtVOkwp0mhGL2JoxL3dZ5QScURH7-C32AIi4fU42iKQrIEkFkCrbTiQOiCsUUAGz1EeeZMGSMzR7tDLM4Hpn6WV4aozkxuel7mMmalWYQFkUkcR-D9EObgsd8jGm5G5Okbsd67GGWECMLV2wsTMjVTMl_AUwzzahQJLwYBsJutwXGHq55jurvW03cCM5Osb3_Ka5IMrN-X6Dqf6qj4TT-8OsxKqehEwDXuTXxDcgTYIyYpoS0zTYLdt0lUvdDzLVLSaD_5-Lj6xq5825PvwBkAuBag",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5WaElaMEpJV0ZCTVIzSmhVbTV2WjFoaVdtRnZTbkYyWDFCaFJGVlhUVFJzVlVKc1REZExPWHBTTjB4dk5EaENjbmRHUXpoeVRXWTRVRXN5YjFKWU5tcDJlVEl5VUVablQxaDRSM3BHYjJ0eExYSlRWVFZST1djMVFSSVhWR2RMY21Gd1YybEJZa3M0Y25WRlVIQTRWRzF6VVhjYUlrRkVjM0k1WmxSMVNsVjViRFI0WWpBM1pIVm1lSGhwVEc0d2RWOTNYMWxvVm1jIiwiZmN2IjoiMyIsImVpIjoiVGdLcmFwV2lBYks4cnVFUHA4VG1zUXciLCJxYyI6IkNqNTNhR0YwSUhkcGNtVnNaWE56SUdWaGNtSjFaSE1nWVhKbElHRjJZV2xzWVdKc1pTQjFibVJsY2lBek1EQXdJSEoxY0dWbGN5QnBiaUJwYm1ScFlSQUFmWW9BNmo0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBidWRnZXQgd2lyZWxlc3MgZWFyYnVkcyBpbiBJbmRpYT8iLCJsayI6IkdpSmlaWE4wSUdKMVpHZGxkQ0IzYVhKbGJHVnpjeUJsWVhKaWRXUnpJR2x1WkdsaCIsImJzIjoiYzRXUVBRdkNNQmlFY1gwbjV5QnlhTjJMeFUxMGRuQjJFTVNFdkxTRm1wUjhVUHozVm9XS3FIRl83am51NkV6clF5VURwR09FaXFIWUI3QjBLbXFQWUtIaUZkRm9kaWp5UEllTExiTkhiYkF6dXBiYkpjUTBIYUVqRlo4TlBWdHlRRmM3YnRqN0lmNFNaMkwyaC13eDJsUDJKZy0yeGVxTGJTSG1YWko3Nms2MEdYVGVYaGlsdGZyUnJlOXdXMW5UcjBfOU1SSGlOejRlM1FBIiwiaWQiOiJmY19UZ0tyYXBXaUFiSzhydUVQcDhUbXNRd181In0%3D",
-    "type": "ai_overview"
+    "author": "TechBar",
+    "date": "Jul 2, 2026",
+    "duration": "11:34",
+    "extensions": [
+     "354.3K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=ub0xGVh9IUw",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://serpapi.com/searches/6aafc276484c09eb4cd673c6/images/-qIUBVSzqb6nG5cncRjnOW-zOrc7m-kQI0LKfXg5Dho.webp"
+    ],
+    "title": "Best TWS Under 2500 & 3000 in Amazon Flipkart Sale - Ranking Worst to Best !",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTm8vO2De8K6eQrE61IHaYYoo0LiEw_0rj6kw"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5WaElaMEpJV0ZCTVIzSmhVbTV2WjFoaVdtRnZTbkYyWDFCaFJGVlhUVFJzVlVKc1REZExPWHBTTjB4dk5EaENjbmRHUXpoeVRXWTRVRXN5YjFKWU5tcDJlVEl5VUVablQxaDRSM3BHYjJ0eExYSlRWVFZST1djMVFSSVhWR2RMY21Gd1YybEJZa3M0Y25WRlVIQTRWRzF6VVhjYUlrRkVjM0k1WmxSMVNsVjViRFI0WWpBM1pIVm1lSGhwVEc0d2RWOTNYMWxvVm1jIiwiZmN2IjoiMyIsImVpIjoiVGdLcmFwV2lBYks4cnVFUHA4VG1zUXciLCJxYyI6IkNqNTNhR0YwSUhkcGNtVnNaWE56SUdWaGNtSjFaSE1nWVhKbElHRjJZV2xzWVdKc1pTQjFibVJsY2lBek1EQXdJSEoxY0dWbGN5QnBiaUJwYm1ScFlSQUFmWW9BNmo0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgZWFyYnVkcyBpbiBJbmRpYT8iLCJsayI6ImM1TlNMczlJTEZGSUxFcFZLTWtBNHZ3Q0JWT0YxTVNpcE5LVVlvWE1QQ0JLeVV3RUFBIiwiYnMiOiJjNFdRUFF2Q01CaUVjWDBuNXlCeWFOMkx4VTEwZG5CMkVNU0V2TFNGbXBSOFVQejNWb1dLcUhGXzdqbnU2RXpyUXlVRHBHT0VpcUhZQjdCMEttcVBZS0hpRmRGb2RpanlQSWVMTGJOSGJiQXp1cGJiSmNRMEhhRWpGWjhOUFZ0eVFGYzdidGo3SWY0U1oyTDJoLXd4MmxQMkpnLTJ4ZXFMYlNIbVhaSjc2azYwR1hUZVhoaWx0ZnJScmU5d1cxblRyMF85TVJIaU56NGUzUUEiLCJpZCI6ImZjX1RnS3JhcFdpQWJLOHJ1RVBwOFRtc1F3XzUifQ==",
-    "page_token": "D2e5MXicHdBLbqMwGABg9TJdNnboM1I0EjGkoY1TDL95bCrXTgLYPNLQGNj1Lj1VTzOjOcC3-b5_TNno36tL0ffdeTGbWWtvjm17NPsb2dYzcR4bOZPCmA8h9eL-4R7_Ocil97VxV6eNG0LXccJQ_KxwihVmc99y4pLYBLvkOZtDFTgC-YdEd2WWDDj3lJvPB6IQLXMIbK6Vw1M2CTiOKqYjX2HCK6aThmnFmd0lj7dx47_ACr9FToaBBC9hw05brbbxejP8s0hqhfaNe84QK6K6iOjcWuF1JGzoCtZ65EmQ56bbRHUfSTgjSGmx4-a0rbnmmMfbydxxDw8UhlChvKJgHK9QkKN-zFI3FeCX0VSMCngoSQEfKWVqaMsQ2CQrU0OVIbU2VkDgwcRICE8iS3C1B_qaND7Ek5qUvT7Iy9K5_v-5fD_U_aL7bI9_AQoUhLM",
-    "question": "What are the top 5 earbuds in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=D2e5MXicHdBLbqMwGABg9TJdNnboM1I0EjGkoY1TDL95bCrXTgLYPNLQGNj1Lj1VTzOjOcC3-b5_TNno36tL0ffdeTGbWWtvjm17NPsb2dYzcR4bOZPCmA8h9eL-4R7_Ocil97VxV6eNG0LXccJQ_KxwihVmc99y4pLYBLvkOZtDFTgC-YdEd2WWDDj3lJvPB6IQLXMIbK6Vw1M2CTiOKqYjX2HCK6aThmnFmd0lj7dx47_ACr9FToaBBC9hw05brbbxejP8s0hqhfaNe84QK6K6iOjcWuF1JGzoCtZ65EmQ56bbRHUfSTgjSGmx4-a0rbnmmMfbydxxDw8UhlChvKJgHK9QkKN-zFI3FeCX0VSMCngoSQEfKWVqaMsQ2CQrU0OVIbU2VkDgwcRICE8iS3C1B_qaND7Ek5qUvT7Iy9K5_v-5fD_U_aL7bI9_AQoUhLM",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5WaElaMEpJV0ZCTVIzSmhVbTV2WjFoaVdtRnZTbkYyWDFCaFJGVlhUVFJzVlVKc1REZExPWHBTTjB4dk5EaENjbmRHUXpoeVRXWTRVRXN5YjFKWU5tcDJlVEl5VUVablQxaDRSM3BHYjJ0eExYSlRWVFZST1djMVFSSVhWR2RMY21Gd1YybEJZa3M0Y25WRlVIQTRWRzF6VVhjYUlrRkVjM0k1WmxSMVNsVjViRFI0WWpBM1pIVm1lSGhwVEc0d2RWOTNYMWxvVm1jIiwiZmN2IjoiMyIsImVpIjoiVGdLcmFwV2lBYks4cnVFUHA4VG1zUXciLCJxYyI6IkNqNTNhR0YwSUhkcGNtVnNaWE56SUdWaGNtSjFaSE1nWVhKbElHRjJZV2xzWVdKc1pTQjFibVJsY2lBek1EQXdJSEoxY0dWbGN5QnBiaUJwYm1ScFlSQUFmWW9BNmo0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgZWFyYnVkcyBpbiBJbmRpYT8iLCJsayI6ImM1TlNMczlJTEZGSUxFcFZLTWtBNHZ3Q0JWT0YxTVNpcE5LVVlvWE1QQ0JLeVV3RUFBIiwiYnMiOiJjNFdRUFF2Q01CaUVjWDBuNXlCeWFOMkx4VTEwZG5CMkVNU0V2TFNGbXBSOFVQejNWb1dLcUhGXzdqbnU2RXpyUXlVRHBHT0VpcUhZQjdCMEttcVBZS0hpRmRGb2RpanlQSWVMTGJOSGJiQXp1cGJiSmNRMEhhRWpGWjhOUFZ0eVFGYzdidGo3SWY0U1oyTDJoLXd4MmxQMkpnLTJ4ZXFMYlNIbVhaSjc2azYwR1hUZVhoaWx0ZnJScmU5d1cxblRyMF85TVJIaU56NGUzUUEiLCJpZCI6ImZjX1RnS3JhcFdpQWJLOHJ1RVBwOFRtc1F3XzUifQ%3D%3D",
-    "type": "ai_overview"
+    "author": "Techie Bist",
+    "date": "1 week ago",
+    "duration": "3:48",
+    "extensions": [
+     "5.8K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=Tn2qTZvZHDc",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://serpapi.com/searches/6aafc276484c09eb4cd673c6/images/sKAdmHI0wvWOE7EhAMyuM62PYqqquef4igAs6moYKPw.webp"
+    ],
+    "title": "Best TWS Under ₹3,000 in 2026 🔥 TOP 3 Best Wireless Earbuds | ANC, Bass & Gaming!"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5WaElaMEpJV0ZCTVIzSmhVbTV2WjFoaVdtRnZTbkYyWDFCaFJGVlhUVFJzVlVKc1REZExPWHBTTjB4dk5EaENjbmRHUXpoeVRXWTRVRXN5YjFKWU5tcDJlVEl5VUVablQxaDRSM3BHYjJ0eExYSlRWVFZST1djMVFSSVhWR2RMY21Gd1YybEJZa3M0Y25WRlVIQTRWRzF6VVhjYUlrRkVjM0k1WmxSMVNsVjViRFI0WWpBM1pIVm1lSGhwVEc0d2RWOTNYMWxvVm1jIiwiZmN2IjoiMyIsImVpIjoiVGdLcmFwV2lBYks4cnVFUHA4VG1zUXciLCJxYyI6IkNqNTNhR0YwSUhkcGNtVnNaWE56SUdWaGNtSjFaSE1nWVhKbElHRjJZV2xzWVdKc1pTQjFibVJsY2lBek1EQXdJSEoxY0dWbGN5QnBiaUJwYm1ScFlSQUFmWW9BNmo0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGdvb2Qgd2lyZWQgZWFycGhvbmVzIHVuZGVyIDMwMDAgcnVwZWVzIGluIEluZGlhPyIsImxrIjoiR2hwM2FYSmxaQ0JsWVhKd2FHOXVaWE1nZFc1a1pYSWdNekF3TUEiLCJicyI6ImM0V1FQUXZDTUJpRWNYMG41eUJ5YU4yTHhVMTBkbkIyRU1TRXZMU0ZtcFI4VVB6M1ZvV0txSEZfN2pudTZFenJReVVEcEdPRWlxSFlCN0IwS21xUFlLSGlGZEZvZGlqeVBJZUxMYk5IYmJBenVwYmJKY1EwSGFFakZaOE5QVnR5UUZjN2J0ajdJZjRTWjJMMmgtd3gybFAySmctMnhlcUxiU0htWFpKNzZrNjBHWFRlWGhpbHRmclJyZTl3VzFuVHIwXzlNUkhpTno0ZTNRQSIsImlkIjoiZmNfVGdLcmFwV2lBYks4cnVFUHA4VG1zUXdfNSJ9",
-    "page_token": "WY7BIHicHdBfToMwHADgeJk9Cj-aTV2ymLCtkAZKaKH8eTFQ3BgUqEJk8OZdPJWnMfE7wvf9o259-_uQ1tOkx71hzPP8eB2Gq3p_lENnFOPSS0MWSpWFbPe7px28XuThPM72cZjtMNZanJjJexyWSLssIg5PqzhfACKBeSZEw53BEhxUtFYQuf5ddONMnfooWkZ5J7dR6m_DCK-hkJB1eS_aSRVQWbEFPgPtho09FUp7qTV51HppqENRpeiuQoRm7dbxzwSSm3mXYN8jRxeyq1I_AYemOJRAoVB2wBH9oN1gZr19L1FteuLMMbCeI1JLXOkwIV7gEmDCngPMJgkYOTdiM5cuQZIzurKBJdWpSDAJoW7yFLd5qo65FS-leF5jIP3mIr8OaPM_dni7dNNefw7XP0fvdqo",
-    "question": "What are some good wired earphones under 3000 rupees in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WY7BIHicHdBfToMwHADgeJk9Cj-aTV2ymLCtkAZKaKH8eTFQ3BgUqEJk8OZdPJWnMfE7wvf9o259-_uQ1tOkx71hzPP8eB2Gq3p_lENnFOPSS0MWSpWFbPe7px28XuThPM72cZjtMNZanJjJexyWSLssIg5PqzhfACKBeSZEw53BEhxUtFYQuf5ddONMnfooWkZ5J7dR6m_DCK-hkJB1eS_aSRVQWbEFPgPtho09FUp7qTV51HppqENRpeiuQoRm7dbxzwSSm3mXYN8jRxeyq1I_AYemOJRAoVB2wBH9oN1gZr19L1FteuLMMbCeI1JLXOkwIV7gEmDCngPMJgkYOTdiM5cuQZIzurKBJdWpSDAJoW7yFLd5qo65FS-leF5jIP3mIr8OaPM_dni7dNNefw7XP0fvdqo",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5WaElaMEpJV0ZCTVIzSmhVbTV2WjFoaVdtRnZTbkYyWDFCaFJGVlhUVFJzVlVKc1REZExPWHBTTjB4dk5EaENjbmRHUXpoeVRXWTRVRXN5YjFKWU5tcDJlVEl5VUVablQxaDRSM3BHYjJ0eExYSlRWVFZST1djMVFSSVhWR2RMY21Gd1YybEJZa3M0Y25WRlVIQTRWRzF6VVhjYUlrRkVjM0k1WmxSMVNsVjViRFI0WWpBM1pIVm1lSGhwVEc0d2RWOTNYMWxvVm1jIiwiZmN2IjoiMyIsImVpIjoiVGdLcmFwV2lBYks4cnVFUHA4VG1zUXciLCJxYyI6IkNqNTNhR0YwSUhkcGNtVnNaWE56SUdWaGNtSjFaSE1nWVhKbElHRjJZV2xzWVdKc1pTQjFibVJsY2lBek1EQXdJSEoxY0dWbGN5QnBiaUJwYm1ScFlSQUFmWW9BNmo0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGdvb2Qgd2lyZWQgZWFycGhvbmVzIHVuZGVyIDMwMDAgcnVwZWVzIGluIEluZGlhPyIsImxrIjoiR2hwM2FYSmxaQ0JsWVhKd2FHOXVaWE1nZFc1a1pYSWdNekF3TUEiLCJicyI6ImM0V1FQUXZDTUJpRWNYMG41eUJ5YU4yTHhVMTBkbkIyRU1TRXZMU0ZtcFI4VVB6M1ZvV0txSEZfN2pudTZFenJReVVEcEdPRWlxSFlCN0IwS21xUFlLSGlGZEZvZGlqeVBJZUxMYk5IYmJBenVwYmJKY1EwSGFFakZaOE5QVnR5UUZjN2J0ajdJZjRTWjJMMmgtd3gybFAySmctMnhlcUxiU0htWFpKNzZrNjBHWFRlWGhpbHRmclJyZTl3VzFuVHIwXzlNUkhpTno0ZTNRQSIsImlkIjoiZmNfVGdLcmFwV2lBYks4cnVFUHA4VG1zUXdfNSJ9",
-    "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&q=Best+earbuds+under+3000+in+India&sa=X&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ1QJ6BAg8EAE",
-    "query": "Best earbuds under 3000 in India",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+earbuds+under+3000+in+India"
+    "author": "pratimaadhikary",
+    "date": "1 month ago",
+    "duration": "1:07",
+    "extensions": [
+     "1K+ likes "
+    ],
+    "link": "https://www.instagram.com/reel/DbnuqecBEqr/",
+    "source": "Instagram",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ybKPjwj2ZiHXtY2Qx1xKyhZ3aObJHCRFBKcNf8HNm_VufstCtuRX7LnkPgNJFSTGz4a6O-qSlqOZ-P-OwFHJs9E8fc9AYen8z-Zvk7wOXwfA3g&s=10"
+    ],
+    "title": "These are the best earbuds that you can buy under 3000 Rupees ! . . . . #budgetEarbuds #pratimaadhikary #tech #techreels"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&q=Best+earbuds+under+5000&sa=X&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ1QJ6BAhAEAE",
-    "query": "Best earbuds under 5000",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+earbuds+under+5000"
+    "author": "Techum",
+    "date": "3 days ago",
+    "duration": "7:02",
+    "extensions": [
+     "5.9K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=5B5mrOorScg",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYedFxP4JGFB09US4lLkjy9NIL3rNWiosfAORNfEcIjasn5eAXoBSeVfepSjXbeAXyDktvFQd4GPw2e-VL0JtjTBVhNYakHEQ&s"
+    ],
+    "title": "Best BBD Picks🔥Best Earbuds 2026🔥Best Earbuds Under ₹3000 in India 2026 🔥Best TWS Under ₹3000",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR5RuuZeHrPvq8BwV673JvvwEbXaUoIPFcdKg"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&q=Realme+Buds+T500+Pro&sa=X&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ1QJ6BAg_EAE",
-    "query": "Realme Buds T500 Pro",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Realme+Buds+T500+Pro"
+    "author": "Tech Maan",
+    "date": "1 week ago",
+    "duration": "10:41",
+    "extensions": [
+     "11.7K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=OlBoZUjtvKE",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeL_mDk37WOlsOcBpqGVT3dGcLjXFWZQGzCcmgOvU8m8BY6oAIVGkJV-1wQJKKy4OlPmcnSX0aExsrId4Ep5hPce2Tm8xflGI&s"
+    ],
+    "title": "I Tested the the BEST Earbuds Under ₹3,000– Here's the Winner🔥",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQu68XAVh924UFpzqunViFXW4Ens36uYpiv4g"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&q=Best+earbuds+under+2000+in+India&sa=X&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ1QJ6BAg-EAE",
-    "query": "Best earbuds under 2000 in India",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+earbuds+under+2000+in+India"
+    "author": "TechRx Zone",
+    "date": "1 month ago",
+    "duration": "3:48",
+    "extensions": [
+     "19.8K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=ZW_rX7RFEX8",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPocfIcqwWtyp-YQwzOToPy5qyfH3nz5eRdWcS5V86WERywBDghH8U52YHlEYh2_RoEjCnVYIE4T-6oJO5tMGtCVHBu_y3Q&s"
+    ],
+    "title": "I Bought India's Best TWS Under 3,000🔥Best Earbuds Under 3,000",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS95EFl3srQnB4NUu69202KIVpY4HIlKM9FUA"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&sxsrf=APpeQnv8zTg-UEnoiWmy5Wcm6gpbLpDBKQ:1789592142027&q=Best+budget+earbuds+in+India&sa=X&ved=2ahUKEwiVgayf_vOWAxUynisGHSeiOcYQ1QJ6BAg9EAE",
-    "query": "Best budget earbuds in India",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+budget+earbuds+in+India"
+    "author": "Mr LazyTech",
+    "date": "1 month ago",
+    "duration": "7:53",
+    "extensions": [
+     "10.4K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=iumFoSph0ks",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SytruKpp6QcKBmyqGrNNrac-uv96FmBo3cWWUoAGZOYjRTIJJlVYGmej0k9Tr-EQhzb7KkJBCpneJzqiWLkwt6kNlMSms94&s"
+    ],
+    "title": "TOP 3 BEST Calling Earbuds Under ₹3000 🔥 Best ENC Earbuds Under 3000 | Calling King 👑"
+   },
+   {
+    "author": "Techarsh",
+    "date": "1 month ago",
+    "duration": "5:21",
+    "extensions": [
+     "260+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=Pl140KtH8Ik",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTUrnxDT2fANdtNj4d4QLY6HjavfjO54UMZkyGes1GPxmsWEqMisQLXS-_ZburRZFpnTIxkDAx_HxLorpMCg&s"
+    ],
+    "title": "Don't Waste Money⚡️Only 3 Best Earbuds Under 3000 On Flipkart Freedom Sale⚡️Best TWS Under 3000",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS1fXWYbfQP2Y3OJqmx-_V0JTAUBSS7hkmahw"
+   },
+   {
+    "author": "B Inside",
+    "date": "1 month ago",
+    "duration": "19:52",
+    "extensions": [
+     "5.6K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=jilp9d-o3fM",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdy2BSH1nwD0ZQWmJvouekRf17y01FSsafaxNUMayGo8HzLrKsnR_efaWNwTt5-ZuDAVPHcVBGaBxx6r8gvMBIt-uu4y3wNA0&s"
+    ],
+    "title": "Best 5 Tws Earbuds Under ₹2500-₹4000 To Buy In Freedom Sale 2026 | Best Tws Under ₹3000",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRdlhEUjAXrmY1qvqhKEnCpNK8IiUOtqEHGww"
+   },
+   {
+    "author": "Jstech",
+    "date": "2 days ago",
+    "duration": "5:59",
+    "extensions": [
+     "1.9K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=UgnWBkYH0F8",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1C8dhljQs4GBDA_fGzFqBF1t_xZlro3tHgF4u5HmiZjSXOq8HTwI8a_Oic4-dT7JSaZyqoJhxCYk0exCSi7TrICRoaCQYPk&s"
+    ],
+    "title": "Best Over Ear Headphones Under 3,000 Rupees || boAt Rockerz 650 Pro"
+   },
+   {
+    "author": "Suman Techno",
+    "date": "Jul 8, 2026",
+    "duration": "3:12",
+    "extensions": [
+     "80+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=3VSefJ5AgSQ",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8dtbR4WqME_JtsxcQupm6UDL1A8GPUVkIeqENunWE66YO72ah9himSSdpbRauM-6b8FlpnwW1FpEDRF2wg4k0xo292skDsQ&s"
+    ],
+    "title": "Top 3 Best TWS Under ₹3,000 This Flipkart Sale | Don't Miss This Deals"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "What wireless earbuds are available under 3000 rupees in India?",
-   "time_taken_displayed": 0.31,
-   "total_results": 118
+   "time_taken_displayed": 0.3,
+   "total_results": 36
   },
   "search_metadata": {
-   "created_at": "2026-09-16 20:55:41 UTC",
+   "created_at": "2026-09-20 11:24:38 UTC",
    "google_url": "https://www.google.com/search?q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&oq=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aab024d421b089b87ba3c1b",
-   "json_endpoint": "https://serpapi.com/searches/xeBI6Zl18y4jfD5IPzA0uVd1Gm5p79HSw_SwiBGzXss/6aab024d421b089b87ba3c1b.json",
-   "markdown_endpoint": "https://serpapi.com/searches/xeBI6Zl18y4jfD5IPzA0uVd1Gm5p79HSw_SwiBGzXss/6aab024d421b089b87ba3c1b.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/xeBI6Zl18y4jfD5IPzA0uVd1Gm5p79HSw_SwiBGzXss/6aab024d421b089b87ba3c1b.json_with_pixel_position",
-   "processed_at": "2026-09-16 20:55:41 UTC",
-   "raw_html_file": "https://serpapi.com/searches/xeBI6Zl18y4jfD5IPzA0uVd1Gm5p79HSw_SwiBGzXss/6aab024d421b089b87ba3c1b.html",
+   "id": "6aafc276484c09eb4cd673c6",
+   "json_endpoint": "https://serpapi.com/searches/AXF56NOFzqaZg1xqoj39Lw9ejQymik7eIA1Ny7znqtw/6aafc276484c09eb4cd673c6.json",
+   "markdown_endpoint": "https://serpapi.com/searches/AXF56NOFzqaZg1xqoj39Lw9ejQymik7eIA1Ny7znqtw/6aafc276484c09eb4cd673c6.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/AXF56NOFzqaZg1xqoj39Lw9ejQymik7eIA1Ny7znqtw/6aafc276484c09eb4cd673c6.json_with_pixel_position",
+   "processed_at": "2026-09-20 11:24:38 UTC",
+   "raw_html_file": "https://serpapi.com/searches/AXF56NOFzqaZg1xqoj39Lw9ejQymik7eIA1Ny7znqtw/6aafc276484c09eb4cd673c6.html",
    "status": "Success",
-   "total_time_taken": 0.6
+   "total_time_taken": 0.45
   },
   "search_parameters": {
    "device": "desktop",
@@ -357,15 +447,9 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=80"
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+wireless+earbuds+are+available+under+3000+rupees+in+India%3F&start=30"
    }
   }
  },

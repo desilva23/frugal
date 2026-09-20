@@ -1,0 +1,431 @@
+{
+ "elapsed_ms": 744.309,
+ "engine": "google",
+ "fetched_at": "2026-09-20T12:07:25.629503+00:00",
+ "frugal_cache_version": 1,
+ "key": "987d3ddecaedba3d460fcccf865815ab6520d3337b973fb94a4f0a21ce2264f2",
+ "params": {
+  "num": 10,
+  "q": "What is the time complexity of binary search?"
+ },
+ "response": {
+  "ai_overview": {
+   "page_token": "_7II43iczVZdcqpIFF7ArGN8MQr-Y6qoW90tItEYMYnGvFDQIBCFNjSR6NtsYlYwq5rVTINEwWAy9z5MzanqNN2cnP-Pzz_-Wrv-6u_f_nTCcEOvOS6KoqpNiL22qph4nE53PuaWZE0D7Pyg5C3AlmuK2AmIZ5V2W7FRwlTkS5YrLvFuq28elrDp4UjAk9XoSX4FdikxIWqGTq0X5uH9hXIax_6sfm_02KFKq5ZfFbzRvD3Bj8Pholrn643qHad7TAH8dyKpNoz3G4AuK7FX0vemYgMKgFLGkgLsZIcnrcXhNVKTV8i-aA0efE4TdZWtnrYfRD12m9and_F_mQuYO0ZJLABESZQQuN9nkxE1zeUjry8qddTOS1o9crrJ9jgXa07sKHfssyg0gNDJSdYZM-PkwjhWCttAGBDYg-DxctysPkMFtFZAlYpSyIoqzZrHzo0WMrvhTJsNLs8ZAdtqnIsdnDwENJ5n9NDlyWD5vOhvhFow3Y62E82v81QVnmdNuYlUDhtMb0100zI1R-N_JOdavdbiu42OcJUACdMjkmgWSRPwZtyPnKa7B9VRFdY-YIQOTQefOiaxM1IKEoMoVS1oMTzdxg2TDmpqP2s3bSUEiABpCvKtHU7iusofRzaje9aarMbJazz8n2F0EDujzGCUBKKQVDGrcdCSM9DNNFYBRZ-Z87zVwemx90kxB0DE8l2Bj1lfnFteABXZUowBJA1gWjWct4GyBUgDlgD7QqWnUyZSqpSJKS6BooJboEjMpvt4I9uxcVU6BBoPQ-qrL50h7sLAL5ibOfo3n74Cgd-BKBb1Ay9n45-FjSygB7timmjUIEth3L4n4ftwrtdNtWIXw4R4xk8wDv5fAenAR1LKR5eBJH0PpISP4Bd8lDyf-CgeXkQuAgnKxXx0W8hH-bwRmGaB9DUf_TSQ0JdAOsxhIZBIMZA2F4FkR-dAyvORVMxHRyD9Ch_BX-SjBFfWYcuT09uLfZGkZNcJKs54PBnzxkYedzaP9ZYWzhT5hXxPUksvvPZ0c32lueY1rN-EO_NKYxfk2jJLr-Lc0cOyS8uhY5VD17PKDKmbtfXuhrsyWZYN19eDXZlaevyrs-StAyLyeicAlWl3p-MpisIBHPnRqLJ6bhmLt97t2q-EbdpyB_K2F20Hd4q370cz2yLNzmt7bkj8rm75Ff9Jny2Bft_tbPBYcGp7JzQaIZ231iNrowi8Qma-az5JJJhZW9RR601cmdK7Wleb6X1n0fbxrb-9Jft3c_28W6ySwKi47G1nYzMQ7h12E2CRDUHTBmMVzG02jSiZUrYIWxFbbdYkWKJY1yy6FbuNOrYanc7S4AVsds2SZ4e7jSiUqB-ItX8AKoVHuA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_7II43iczVZdcqpIFF7ArGN8MQr-Y6qoW90tItEYMYnGvFDQIBCFNjSR6NtsYlYwq5rVTINEwWAy9z5MzanqNN2cnP-Pzz_-Wrv-6u_f_nTCcEOvOS6KoqpNiL22qph4nE53PuaWZE0D7Pyg5C3AlmuK2AmIZ5V2W7FRwlTkS5YrLvFuq28elrDp4UjAk9XoSX4FdikxIWqGTq0X5uH9hXIax_6sfm_02KFKq5ZfFbzRvD3Bj8Pholrn643qHad7TAH8dyKpNoz3G4AuK7FX0vemYgMKgFLGkgLsZIcnrcXhNVKTV8i-aA0efE4TdZWtnrYfRD12m9and_F_mQuYO0ZJLABESZQQuN9nkxE1zeUjry8qddTOS1o9crrJ9jgXa07sKHfssyg0gNDJSdYZM-PkwjhWCttAGBDYg-DxctysPkMFtFZAlYpSyIoqzZrHzo0WMrvhTJsNLs8ZAdtqnIsdnDwENJ5n9NDlyWD5vOhvhFow3Y62E82v81QVnmdNuYlUDhtMb0100zI1R-N_JOdavdbiu42OcJUACdMjkmgWSRPwZtyPnKa7B9VRFdY-YIQOTQefOiaxM1IKEoMoVS1oMTzdxg2TDmpqP2s3bSUEiABpCvKtHU7iusofRzaje9aarMbJazz8n2F0EDujzGCUBKKQVDGrcdCSM9DNNFYBRZ-Z87zVwemx90kxB0DE8l2Bj1lfnFteABXZUowBJA1gWjWct4GyBUgDlgD7QqWnUyZSqpSJKS6BooJboEjMpvt4I9uxcVU6BBoPQ-qrL50h7sLAL5ibOfo3n74Cgd-BKBb1Ay9n45-FjSygB7timmjUIEth3L4n4ftwrtdNtWIXw4R4xk8wDv5fAenAR1LKR5eBJH0PpISP4Bd8lDyf-CgeXkQuAgnKxXx0W8hH-bwRmGaB9DUf_TSQ0JdAOsxhIZBIMZA2F4FkR-dAyvORVMxHRyD9Ch_BX-SjBFfWYcuT09uLfZGkZNcJKs54PBnzxkYedzaP9ZYWzhT5hXxPUksvvPZ0c32lueY1rN-EO_NKYxfk2jJLr-Lc0cOyS8uhY5VD17PKDKmbtfXuhrsyWZYN19eDXZlaevyrs-StAyLyeicAlWl3p-MpisIBHPnRqLJ6bhmLt97t2q-EbdpyB_K2F20Hd4q370cz2yLNzmt7bkj8rm75Ff9Jny2Bft_tbPBYcGp7JzQaIZ231iNrowi8Qma-az5JJJhZW9RR601cmdK7Wleb6X1n0fbxrb-9Jft3c_28W6ySwKi47G1nYzMQ7h12E2CRDUHTBmMVzG02jSiZUrYIWxFbbdYkWKJY1yy6FbuNOrYanc7S4AVsds2SZ4e7jSiUqB-ItX8AKoVHuA"
+  },
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Time complexity of Binary Search is O(log n), where n is the number of elements in the array. It divides the array in half at each step. Space ...",
+      "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+      "source_info_link": "https://www.geeksforgeeks.org/dsa/complexity-analysis-of-binary-search/"
+     }
+    },
+    "date": "Jul 11, 2025",
+    "displayed_link": "https://www.geeksforgeeks.org › dsa › complexity-anal...",
+    "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+    "link": "https://www.geeksforgeeks.org/dsa/complexity-analysis-of-binary-search/",
+    "position": 1,
+    "read_more_link": "https://www.geeksforgeeks.org/dsa/complexity-analysis-of-binary-search/#:~:text=Time%20complexity%20of%20Binary%20Search,constant%20amount%20of%20extra%20space.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAV69fh78yZQZZs2mKgfBG0NYesJy90IlGRnJEzjZebkvOPW6XD6Q7x3TYFZVUzNLsO97ahZulJ-xk_Lybs3aAYav9HCWuH70NTVwXGcu1xGlgzu72HcmW9voBfzdArleqJdlyMZ3Cp54AKky2SnhtgtovE9eht0B10ggw&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQFnoECBoQAQ&uoh=1",
+    "snippet": "Time complexity of Binary Search is O(log n), where n is the number of elements in the array. It divides the array in half at each step. Space ...",
+    "snippet_highlighted_words": [
+     "Time complexity of Binary Search"
+    ],
+    "source": "GeeksforGeeks",
+    "title": "Time and Space Complexity Analysis of Binary Search ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Binary search is faster than linear search except for small arrays. However, the array must be sorted first to be able to apply binary search. There are ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Binary_search"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › Binary_search",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Binary_search",
+    "position": 2,
+    "read_more_link": "https://en.wikipedia.org/wiki/Binary_search#:~:text=%5Ba%5D%20%5B6%5D%20Binary%20search%20is,more%20efficiently%20than%20binary%20search.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVn9t49lPkW2Mk6Wfb0cwdf7j01h4D1cJULMwmbmUdEYlzI3v9tdCu97XxOaMG_3y2XlYDdOqXLKjalj4xq2ttbdLexYHwso7K7a-9Dzbj_sQxR9dSVWSQ2nuiaSXcIw&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQFnoECB4QAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://en.wikipedia.org/wiki/Binary_search#Algorithm",
+       "title": "Algorithm"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Binary_search#Performance",
+       "title": "Performance"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Binary_search#Binary_search_versus_other_schemes",
+       "title": "Binary search versus other..."
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/Binary_search#Variations",
+       "title": "Variations"
+      }
+     ]
+    },
+    "snippet": "Binary search is faster than linear search except for small arrays. However, the array must be sorted first to be able to apply binary search. There are ...",
+    "snippet_highlighted_words": [
+     "Binary search",
+     "binary search"
+    ],
+    "source": "Wikipedia",
+    "title": "Binary search"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "I know for a fact that the time complexity of binary search on an array is O(logn). So shouldn't the time complexity of finding an element in a ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/AskProgramming/comments/1251irh/binary_search_average_time_complexity/"
+     }
+    },
+    "displayed_link": "10+ comments · 3 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/AskProgramming/comments/1251irh/binary_search_average_time_complexity/",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFbNJA8bwQclXUfDNVP-bttLZv4PAK1n0EjRcAkT8E7NIE1x8Zzy0RThTd62IEl2lcCwjInkz1Y4QNt2buufuYMtz2aQQstZa3dcDVaEPMGMqj9XTlJSWmscpcqpiTUa9xtMYv4WKFVpF9jpe3fw4gbXKWPrTy-xUfa0Ll51mYeDlF1ZrTf9exG68UuxU-xjmHAK4&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQFnoECCYQAQ&uoh=1",
+    "sitelinks": {
+     "list": [
+      {
+       "answer_count": 7,
+       "date": "Feb 7, 2025",
+       "link": "https://www.reddit.com/r/cs2c/comments/1ijbvsr/time_complexity_of_binary_search_tree/",
+       "title": "Time complexity of Binary Search Tree. : r/cs2c - Reddit"
+      },
+      {
+       "answer_count": 8,
+       "date": "Oct 12, 2021",
+       "link": "https://www.reddit.com/r/algorithms/comments/q6lxxm/time_complexity_of_binary_search/",
+       "title": "Time complexity of binary search : r/algorithms - Reddit"
+      }
+     ]
+    },
+    "snippet": "My professor just said that for a billion sorted items binary search is 30 maximum 15 on average. But I’m pretty sure that’s not right. The only ...",
+    "source": "Reddit · r/AskProgramming",
+    "title": "Binary Search Average Time Complexity : r/AskProgramming"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The time complexity of binary search is, therefore, O(logn). This is much more efficient than the linear time O(n), especially for large values ...",
+      "icon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABwBgCdASocABwAPtFAtFooIqgoFAEAGgllAL3U88txLNo9AagAHYLWFoNPPqVvqec8dAdsVG9KvrBFIuAA_vVrVpvAe0f4hUL8M0rI-gVAafy7GLEHhs7uno0NREFqQY3JQ9u_B2ptSXGDL-P18r8MAZJ5i9K8LPk9tkPdT4E05fmrUgHApCzZIK6AAyYVzOpHRjKCeT_-g37Ir75bIwQ0xO9_-ugW8XpAESnfJIiw_-QG2xOSo8vjRa12x34P0O0AtrlvP8OcaRl8_-21BfAzgYvnC8_38fqOM4Nt_nKEn023vQgCHp1CnS2d4r_vL8t_Z3X0fQ0F9MR5__hJcLgifDxuKE9yIjN_MV792xfoamKrPHf77ewE90QytE36vAAAAA.webp",
+      "source_info_link": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/"
+     }
+    },
+    "date": "Jul 12, 2023",
+    "displayed_link": "https://www.freecodecamp.org › news › binary-search-...",
+    "favicon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABwBgCdASocABwAPtFAtFooIqgoFAEAGgllAL3U88txLNo9AagAHYLWFoNPPqVvqec8dAdsVG9KvrBFIuAA_vVrVpvAe0f4hUL8M0rI-gVAafy7GLEHhs7uno0NREFqQY3JQ9u_B2ptSXGDL-P18r8MAZJ5i9K8LPk9tkPdT4E05fmrUgHApCzZIK6AAyYVzOpHRjKCeT_-g37Ir75bIwQ0xO9_-ugW8XpAESnfJIiw_-QG2xOSo8vjRa12x34P0O0AtrlvP8OcaRl8_-21BfAzgYvnC8_38fqOM4Nt_nKEn023vQgCHp1CnS2d4r_vL8t_Z3X0fQ0F9MR5__hJcLgifDxuKE9yIjN_MV792xfoamKrPHf77ewE90QytE36vAAAAA.webp",
+    "link": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/",
+    "position": 4,
+    "read_more_link": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/#:~:text=The%20time%20complexity%20of%20binary,for%20large%20values%20of%20n.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFeayKAOuUhoQHqoYxcTzEzqzFV5sAzOJs3JXiiS2NggpskQ_3G_E66aEOQUmesEqoVVgdKekb54LxbHae2XfxfJvGUDOqUGtDIbQfNAwYcx4L7SpwKu38rQZ1e7BcNwunMQA_v8X5RY3_oK7vlaOvp8jT-53YWdkeM9ikFamuf6XJtJEwCyLd1WDc_0&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQFnoECBsQAQ&uoh=1",
+    "snippet": "The time complexity of binary search is, therefore, O(logn). This is much more efficient than the linear time O(n), especially for large values ...",
+    "snippet_highlighted_words": [
+     "time complexity of binary search"
+    ],
+    "source": "freeCodeCamp",
+    "title": "Binary Search – Algorithm and Time Complexity Explained"
+   },
+   {
+    "about_this_result": {
+     "source": {
+      "description": "In this video, we explain the binary search algorithm and discuss its time and space complexity for both iterative and recursive approaches.",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "600+ views · 8 months ago",
+    "duration": "9:49",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=a4HLFXi9ARw",
+    "position": 5,
+    "snippet": "In this video, we explain the binary search algorithm and discuss its time and space complexity for both iterative and recursive approaches.",
+    "source": "YouTube · Amulya's Academy",
+    "thumbnail": "https://serpapi.com/searches/6aafcc7d28b27b92dc2aebbb/images/wseHHVVPQglYrWM1bbAwII_amp_KHGz00rY6hhqZTaE.jpeg",
+    "title": "Binary Search Algorithm | Time & Space Complexity Explained"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The time complexity of the Binary Search Algorithm is O ( l o g 2 n ) O(log_2{n}) O(log2​n), Where n is the size of the sorted linear array. It ...",
+      "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAABQBwCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHXnnPFIUFdSDAbYC7a95uBIYzapiu87SJ6BpZLjcxbLwNTQ1SgAAP74svfPsz70AmXRnm_RrodIVE6OvtZz-msyQhHfo_FYXcDvSs9l2m0jzQoj9-Nb_uZQT-8TZtOkWjXdIPzhy6LKbGu9K3mA8VrCW0wJ5srg__FQh9HDQFqLjgHF0-hoQOaYD3D9CmOs-oJYtQaP5DkmluFzDuAGXt4I_cfFCEuT31x6pHE1-8f_Xap2LEwv5Fwl40dWuahJ582XAojV6MuDbF5eAaAugGvsM7khGUMXOPYhP3iY6e5Z1HXFNO1mnZv5mEr-Z_bg_QlFfLW4diW1aQRGp0ZgAAAA.webp",
+      "source_info_link": "https://www.scaler.com/topics/time-complexity-of-binary-search/"
+     }
+    },
+    "date": "May 8, 2024",
+    "displayed_link": "https://www.scaler.com › Topics",
+    "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAABQBwCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHXnnPFIUFdSDAbYC7a95uBIYzapiu87SJ6BpZLjcxbLwNTQ1SgAAP74svfPsz70AmXRnm_RrodIVE6OvtZz-msyQhHfo_FYXcDvSs9l2m0jzQoj9-Nb_uZQT-8TZtOkWjXdIPzhy6LKbGu9K3mA8VrCW0wJ5srg__FQh9HDQFqLjgHF0-hoQOaYD3D9CmOs-oJYtQaP5DkmluFzDuAGXt4I_cfFCEuT31x6pHE1-8f_Xap2LEwv5Fwl40dWuahJ582XAojV6MuDbF5eAaAugGvsM7khGUMXOPYhP3iY6e5Z1HXFNO1mnZv5mEr-Z_bg_QlFfLW4diW1aQRGp0ZgAAAA.webp",
+    "link": "https://www.scaler.com/topics/time-complexity-of-binary-search/",
+    "position": 6,
+    "read_more_link": "https://www.scaler.com/topics/time-complexity-of-binary-search/#:~:text=The%20time%20complexity%20of%20the,complexity%20of%20its%20algorithm%20is",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAV6XtczJdGrywqYX643RtpO0btVNTJnp7DCRl_uV_wkKPc46cUTSpRXArSfd8WTVemU6iFFSNsykT1rfa2qpqs4JYT01IAgWIeqCKptBTpTYQfH4v5ILuDwPR1JLz6pzzAj24Ty7G4EwATWKdDV4tUKXc3&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQFnoECBkQAQ&uoh=1",
+    "snippet": "The time complexity of the Binary Search Algorithm is O ( l o g 2 n ) O(log_2{n}) O(log2​n), Where n is the size of the sorted linear array. It ...",
+    "snippet_highlighted_words": [
+     "O ( l o g 2 n"
+    ],
+    "source": "Scaler",
+    "title": "Time and Space Complexity of Binary Search"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "So, the time complexity is O(logn) . Average Case Time Complexity: O(log⁡n). The average-case time complexity also follows a logarithmic trend ...",
+      "icon": "https://serpapi.com/images/i/UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoQABAAAsBMJbACdH8AjyXkrfY8jI5w9yFsgAD-3j6feXU44_P1vKPm2sYTJy2WKjVv4Fv9lpyQ7X3RbfVYpVkpNJ57Amw67t65KlQMKZ4WVs-zSTotW4gqB8XXbE-c0PFc34IUHdUexfkEPe2iXGubG28f0vrbB-gnX4iy9mdXd2tf2J0ouuIkePXhtE78SEHG4CxO9Le64AAA.webp",
+      "source_info_link": "https://programiz.pro/resources/dsa-binary-search-complexity/"
+     }
+    },
+    "date": "Dec 19, 2024",
+    "displayed_link": "https://programiz.pro › dsa-binary-search-complexity",
+    "favicon": "https://serpapi.com/images/i/UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoQABAAAsBMJbACdH8AjyXkrfY8jI5w9yFsgAD-3j6feXU44_P1vKPm2sYTJy2WKjVv4Fv9lpyQ7X3RbfVYpVkpNJ57Amw67t65KlQMKZ4WVs-zSTotW4gqB8XXbE-c0PFc34IUHdUexfkEPe2iXGubG28f0vrbB-gnX4iy9mdXd2tf2J0ouuIkePXhtE78SEHG4CxO9Le64AAA.webp",
+    "link": "https://programiz.pro/resources/dsa-binary-search-complexity/",
+    "position": 7,
+    "read_more_link": "https://programiz.pro/resources/dsa-binary-search-complexity/#:~:text=So%2C%20the%20time%20complexity%20is,also%20follows%20a%20logarithmic%20trend",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVVI6ROIbVYyWt9vMfIhKa-7LcCpwF36hI2boZaVa2QV2ugMNZ3-SUOO4KZacuVLgpv8M_nJV6PHVxRhph_6Es1piKl4Q-G1DcysoM5L5qdyrKVjrUj4Qv7uer5jzO1o-K3qVA7WoQeF7e1cI62aLPaA&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQFnoECEoQAQ&uoh=1",
+    "snippet": "So, the time complexity is O(logn) . Average Case Time Complexity: O(log⁡n). The average-case time complexity also follows a logarithmic trend ...",
+    "snippet_highlighted_words": [
+     "O(logn"
+    ],
+    "source": "Programiz PRO",
+    "title": "Exploring Time and Space Complexities of Binary Search"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Binary Search is a searching algorithm that operates on a sorted or monotonic search ... Time Complexity: -> Best Case: O(1) -> Average Case: O( ...",
+      "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+      "source_info_link": "https://www.geeksforgeeks.org/dsa/binary-search/"
+     }
+    },
+    "date": "Mar 17, 2026",
+    "displayed_link": "https://www.geeksforgeeks.org › dsa › binary-search",
+    "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+    "link": "https://www.geeksforgeeks.org/dsa/binary-search/",
+    "position": 8,
+    "read_more_link": "https://www.geeksforgeeks.org/dsa/binary-search/#:~:text=Binary%20Search%20is%20a%20searching,a%20sorted%20or%20monotonic%20search&text=Time%20Complexity%3A,%2D%3E%20Average%20Case%3A%20O(log%20N)",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVcv4C49jR1WIx8AEHxwUOGw3XJForuMuQTYoGq3m86DQAq7vlIR20SwqPBwkjSjm68SL-khFqvb4BZovjTexW2fIHnOrS52GSNYkdqHsncf6ATfMdUISOZ88jQQ2JR5y3iBE4&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQFnoECEsQAQ&uoh=1",
+    "snippet": "Binary Search is a searching algorithm that operates on a sorted or monotonic search ... Time Complexity: -> Best Case: O(1) -> Average Case: O( ...",
+    "snippet_highlighted_words": [
+     "Binary Search",
+     "Time Complexity"
+    ],
+    "source": "GeeksforGeeks",
+    "title": "Binary Search"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Note: Time complexity for Binary Search O(log2n) O ( log 2 ⁡ n ) is a lot faster than Linear Search O(n) O ( n ) , but it is important to remember that Binary ...",
+      "icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAADQBACdASocABwAPtE-tFooIigoFAEAGglsAAPi1TkHo2oDF7xBRDuri0JMwsUsmAD-_SptGZ3vVzTfFrlz6rihkzPHGZ36Aey9QPA9rPwLPXVbLiQASVz89swS-_amJpp3eLVmXcAvns_-qZA3dsifgf2TjvmmT_RmVGCuIWic5AKw8dKY17zR8atKHxuXDhDsIgHa-EP3re6-pdKYAPlbqbssZPsj9LtcH16un68d_Plytr2I_tbO_tpy7Wu522PzykQc13ChP2PdScTwq6zdJBN5joxOG-PAOYAA.webp",
+      "source_info_link": "https://www.w3schools.com/dsa/dsa_timecomplexity_binarysearch.php"
+     }
+    },
+    "displayed_link": "https://www.w3schools.com › dsa › dsa_timecomplexit...",
+    "favicon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAADQBACdASocABwAPtE-tFooIigoFAEAGglsAAPi1TkHo2oDF7xBRDuri0JMwsUsmAD-_SptGZ3vVzTfFrlz6rihkzPHGZ36Aey9QPA9rPwLPXVbLiQASVz89swS-_amJpp3eLVmXcAvns_-qZA3dsifgf2TjvmmT_RmVGCuIWic5AKw8dKY17zR8atKHxuXDhDsIgHa-EP3re6-pdKYAPlbqbssZPsj9LtcH16un68d_Plytr2I_tbO_tpy7Wu522PzykQc13ChP2PdScTwq6zdJBN5joxOG-PAOYAA.webp",
+    "link": "https://www.w3schools.com/dsa/dsa_timecomplexity_binarysearch.php",
+    "position": 9,
+    "read_more_link": "https://www.w3schools.com/dsa/dsa_timecomplexity_binarysearch.php#:~:text=%E2%81%A1",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVPr6jLFhtFiZ1h-pczynx8q13LFh8IBrSvJmiSO1cQx76PXFg0MTYH_QH_K6ZnGurqxSM9tjSCBVPDXMxnIphgeQ3hjt5FNWZ8CbTtchRLq1BkRaHCFmR6bBojSWgU2WEyqUgHJXkpTyUF6PGDH41Wn8whfs&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQFnoECFAQAQ&uoh=1",
+    "snippet": "Note: Time complexity for Binary Search O(log2n) O ( log 2 ⁡ n ) is a lot faster than Linear Search O(n) O ( n ) , but it is important to remember that Binary ...",
+    "snippet_highlighted_words": [
+     "log"
+    ],
+    "source": "W3Schools",
+    "title": "DSA Selection Sort Time Complexity"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=10&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8NMDegQIPBAW",
+   "other_pages": {
+    "10": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=90&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8tMDegQIPBAU",
+    "2": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=10&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8tMDegQIPBAE",
+    "3": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=20&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8tMDegQIPBAG",
+    "4": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=30&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8tMDegQIPBAI",
+    "5": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=40&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8tMDegQIPBAK",
+    "6": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=50&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8tMDegQIPBAM",
+    "7": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=60&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8tMDegQIPBAO",
+    "8": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=70&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8tMDegQIPBAQ",
+    "9": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&ei=fcyvapTfB4mcw8cPkLXGqAg&start=80&sa=N&sstk=AS6-VmI0L4o5dnE9wYcOLz9_MnAlAP2QARpTD1Hh6Rtm92V3_3SrEuliXqu5H1VXrtM-8c5mYL78mhspvBdIOv0RPYtCrU-jfzRkPQ&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ8tMDegQIPBAS"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVaHliMnBVY25Cd1pHUlJhRnBuTWs0dFVYcFRiWHB5ZVRNd0xVd3hhRzlwZVRkbmNYZE1URGhHT1Rsa2FqbFBTRFJSVUV3emNGbHdVMDlHV0UxcVVESnVlbmhpTUd0MU1tUm1ka293VFZKQmFVVm1SbFpMUTJKRlVSSVhabU41ZG1Gd1ZHWkNORzFqZHpoalVHdE1XRWR4UVdjYUlrRkVjM0k1WmxKMGVYRmZNRkZrVFdRMk1tNUdOM1ZsUkROWldtVnhRMHBRVEVFIiwiZmN2IjoiMyIsImVpIjoiZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWciLCJxYyI6IkNpeDNhR0YwSUdseklIUm9aU0IwYVcxbElHTnZiWEJzWlhocGRIa2diMllnWW1sdVlYSjVJSE5sWVhKamFCQUFmYXc0RkQ4IiwicXVlc3Rpb24iOiJXaHkgaXMgYmluYXJ5IHNlYXJjaCBPIGxvZ24/IiwibGsiOiJHaHQzYUhrZ2FYTWdZbWx1WVhKNUlITmxZWEpqYUNCdklHeHZaMjQiLCJicyI6ImMzM09QUS1DTUJTRjRiamV5UmsxSGxkMVlqY2tSSW1iQXdPRFU0R1dOZ0d1b1UwcV8xNkNNZkY3ZnA5N2MyaEg4MHozTUJhNWFVWFh3MHJSRlJvbjFGeTFVYmdJWnY1YjU3SFRnWkJwNGU2OUdxNFVkNjh5Q2xmQjBqOFpfalEwckRpeWh4SjJaT0w5eGJCQ18tNTBwczFqaGRNU3pqUVNCVGVYV2w2TjY4RUtjWkpDdENYMlNScUYyMkR0X19OYzJaR1h5azRuTnciLCJpZCI6ImZjX2ZjeXZhcFRmQjRtY3c4Y1BrTFhHcUFnXzEifQ==",
+    "page_token": "P9YItHicHdBfboIwHADg7DI-yn-XmZglIMVhVrWlrfRlgR8KCgUUHIO33WWn2mmW7DvC9_1TXery9-lY9H3bLTVtGIZ53jR5dZpDo7SkG2vQIKmqNIFyuXheGK9nWPnd4HrN4B5Y2_I10akqBBeOnQpmZr68SVQpUSIvDXBEa-Qw633arbMH6MSjJjLBQBhY05OqdWLeNjh4mzDVJ15xdWDYBmG0fEIe97tR8tAA0e_BJwPwEDPT2eE6tzNeSaZ3DqtdlSBkRQxvKWIW5dkWSmefGXKR8vYhSl6TdTECexFEffUpL26niFFkyuvpKAtARB2upI8tsGPDvUeo2ABDdXAJXbLB405IctR7g25cX1o4TqLCwpHryCCccIkOROk60Yt6dobPlTX7H1t9nFW_bO9N_gchpnfq",
+    "question": "Why is binary search O logn?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=P9YItHicHdBfboIwHADg7DI-yn-XmZglIMVhVrWlrfRlgR8KCgUUHIO33WWn2mmW7DvC9_1TXery9-lY9H3bLTVtGIZ53jR5dZpDo7SkG2vQIKmqNIFyuXheGK9nWPnd4HrN4B5Y2_I10akqBBeOnQpmZr68SVQpUSIvDXBEa-Qw633arbMH6MSjJjLBQBhY05OqdWLeNjh4mzDVJ15xdWDYBmG0fEIe97tR8tAA0e_BJwPwEDPT2eE6tzNeSaZ3DqtdlSBkRQxvKWIW5dkWSmefGXKR8vYhSl6TdTECexFEffUpL26niFFkyuvpKAtARB2upI8tsGPDvUeo2ABDdXAJXbLB405IctR7g25cX1o4TqLCwpHryCCccIkOROk60Yt6dobPlTX7H1t9nFW_bO9N_gchpnfq",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVaHliMnBVY25Cd1pHUlJhRnBuTWs0dFVYcFRiWHB5ZVRNd0xVd3hhRzlwZVRkbmNYZE1URGhHT1Rsa2FqbFBTRFJSVUV3emNGbHdVMDlHV0UxcVVESnVlbmhpTUd0MU1tUm1ka293VFZKQmFVVm1SbFpMUTJKRlVSSVhabU41ZG1Gd1ZHWkNORzFqZHpoalVHdE1XRWR4UVdjYUlrRkVjM0k1WmxKMGVYRmZNRkZrVFdRMk1tNUdOM1ZsUkROWldtVnhRMHBRVEVFIiwiZmN2IjoiMyIsImVpIjoiZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWciLCJxYyI6IkNpeDNhR0YwSUdseklIUm9aU0IwYVcxbElHTnZiWEJzWlhocGRIa2diMllnWW1sdVlYSjVJSE5sWVhKamFCQUFmYXc0RkQ4IiwicXVlc3Rpb24iOiJXaHkgaXMgYmluYXJ5IHNlYXJjaCBPIGxvZ24%2FIiwibGsiOiJHaHQzYUhrZ2FYTWdZbWx1WVhKNUlITmxZWEpqYUNCdklHeHZaMjQiLCJicyI6ImMzM09QUS1DTUJTRjRiamV5UmsxSGxkMVlqY2tSSW1iQXdPRFU0R1dOZ0d1b1UwcV8xNkNNZkY3ZnA5N2MyaEg4MHozTUJhNWFVWFh3MHJSRlJvbjFGeTFVYmdJWnY1YjU3SFRnWkJwNGU2OUdxNFVkNjh5Q2xmQjBqOFpfalEwckRpeWh4SjJaT0w5eGJCQ18tNTBwczFqaGRNU3pqUVNCVGVYV2w2TjY4RUtjWkpDdENYMlNScUYyMkR0X19OYzJaR1h5azRuTnciLCJpZCI6ImZjX2ZjeXZhcFRmQjRtY3c4Y1BrTFhHcUFnXzEifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVaHliMnBVY25Cd1pHUlJhRnBuTWs0dFVYcFRiWHB5ZVRNd0xVd3hhRzlwZVRkbmNYZE1URGhHT1Rsa2FqbFBTRFJSVUV3emNGbHdVMDlHV0UxcVVESnVlbmhpTUd0MU1tUm1ka293VFZKQmFVVm1SbFpMUTJKRlVSSVhabU41ZG1Gd1ZHWkNORzFqZHpoalVHdE1XRWR4UVdjYUlrRkVjM0k1WmxKMGVYRmZNRkZrVFdRMk1tNUdOM1ZsUkROWldtVnhRMHBRVEVFIiwiZmN2IjoiMyIsImVpIjoiZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWciLCJxYyI6IkNpeDNhR0YwSUdseklIUm9aU0IwYVcxbElHTnZiWEJzWlhocGRIa2diMllnWW1sdVlYSjVJSE5sWVhKamFCQUFmYXc0RkQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGJpZyBPIGZvciBiaW5hcnkgc2VhcmNoPyIsImxrIjoiR2g5M2FHRjBJR2x6SUdKcFp5QnZJR1p2Y2lCaWFXNWhjbmtnYzJWaGNtTm8iLCJicyI6ImMzM09QUS1DTUJTRjRiamV5UmsxSGxkMVlqY2tSSW1iQXdPRFU0R1dOZ0d1b1UwcV8xNkNNZkY3ZnA5N2MyaEg4MHozTUJhNWFVWFh3MHJSRlJvbjFGeTFVYmdJWnY1YjU3SFRnWkJwNGU2OUdxNFVkNjh5Q2xmQjBqOFpfalEwckRpeWh4SjJaT0w5eGJCQ18tNTBwczFqaGRNU3pqUVNCVGVYV2w2TjY4RUtjWkpDdENYMlNScUYyMkR0X19OYzJaR1h5azRuTnciLCJpZCI6ImZjX2ZjeXZhcFRmQjRtY3c4Y1BrTFhHcUFnXzEifQ==",
+    "page_token": "n5uDjnicHdBdboIwAADg7DI-yt900cQs4adiBzUtbYG-LFDQKggEiR172112qp1myw7wvXxf3-2la36eMjVNw31rGFrr5bnvz229lP3NKO5zJw1ZtG1ZyGa7fllbrye5C-7a9XrtYjYM3CdmkupV7FdRtUdtFcJrboM58WMH27yJASLH9KPjoXhwG2QlVU28P0yi5axMRZP44FCzitOMm6xBSZShqKbN6pjqWTI-Yg76OkAQMWByKoaCKoR8ODJHEenDNbYCm2XqU1oc04uliLni2IRcepYuTejgDnq5_eeDDz9nJBH25JUtS4AtrnUmlATkhq9kyh35nFvuSIEKJQPd_gJdEqL5mAqSBkBw4BZpwCmyJxLxzVsVbOK6rXSUwQmngCxO8rFzFv9ju_fTbdoOY3_-BWxIdr0",
+    "question": "What is big O for binary search?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n5uDjnicHdBdboIwAADg7DI-yt900cQs4adiBzUtbYG-LFDQKggEiR172112qp1myw7wvXxf3-2la36eMjVNw31rGFrr5bnvz229lP3NKO5zJw1ZtG1ZyGa7fllbrye5C-7a9XrtYjYM3CdmkupV7FdRtUdtFcJrboM58WMH27yJASLH9KPjoXhwG2QlVU28P0yi5axMRZP44FCzitOMm6xBSZShqKbN6pjqWTI-Yg76OkAQMWByKoaCKoR8ODJHEenDNbYCm2XqU1oc04uliLni2IRcepYuTejgDnq5_eeDDz9nJBH25JUtS4AtrnUmlATkhq9kyh35nFvuSIEKJQPd_gJdEqL5mAqSBkBw4BZpwCmyJxLxzVsVbOK6rXSUwQmngCxO8rFzFv9ju_fTbdoOY3_-BWxIdr0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVaHliMnBVY25Cd1pHUlJhRnBuTWs0dFVYcFRiWHB5ZVRNd0xVd3hhRzlwZVRkbmNYZE1URGhHT1Rsa2FqbFBTRFJSVUV3emNGbHdVMDlHV0UxcVVESnVlbmhpTUd0MU1tUm1ka293VFZKQmFVVm1SbFpMUTJKRlVSSVhabU41ZG1Gd1ZHWkNORzFqZHpoalVHdE1XRWR4UVdjYUlrRkVjM0k1WmxKMGVYRmZNRkZrVFdRMk1tNUdOM1ZsUkROWldtVnhRMHBRVEVFIiwiZmN2IjoiMyIsImVpIjoiZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWciLCJxYyI6IkNpeDNhR0YwSUdseklIUm9aU0IwYVcxbElHTnZiWEJzWlhocGRIa2diMllnWW1sdVlYSjVJSE5sWVhKamFCQUFmYXc0RkQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGJpZyBPIGZvciBiaW5hcnkgc2VhcmNoPyIsImxrIjoiR2g5M2FHRjBJR2x6SUdKcFp5QnZJR1p2Y2lCaWFXNWhjbmtnYzJWaGNtTm8iLCJicyI6ImMzM09QUS1DTUJTRjRiamV5UmsxSGxkMVlqY2tSSW1iQXdPRFU0R1dOZ0d1b1UwcV8xNkNNZkY3ZnA5N2MyaEg4MHozTUJhNWFVWFh3MHJSRlJvbjFGeTFVYmdJWnY1YjU3SFRnWkJwNGU2OUdxNFVkNjh5Q2xmQjBqOFpfalEwckRpeWh4SjJaT0w5eGJCQ18tNTBwczFqaGRNU3pqUVNCVGVYV2w2TjY4RUtjWkpDdENYMlNScUYyMkR0X19OYzJaR1h5azRuTnciLCJpZCI6ImZjX2ZjeXZhcFRmQjRtY3c4Y1BrTFhHcUFnXzEifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVaHliMnBVY25Cd1pHUlJhRnBuTWs0dFVYcFRiWHB5ZVRNd0xVd3hhRzlwZVRkbmNYZE1URGhHT1Rsa2FqbFBTRFJSVUV3emNGbHdVMDlHV0UxcVVESnVlbmhpTUd0MU1tUm1ka293VFZKQmFVVm1SbFpMUTJKRlVSSVhabU41ZG1Gd1ZHWkNORzFqZHpoalVHdE1XRWR4UVdjYUlrRkVjM0k1WmxKMGVYRmZNRkZrVFdRMk1tNUdOM1ZsUkROWldtVnhRMHBRVEVFIiwiZmN2IjoiMyIsImVpIjoiZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWciLCJxYyI6IkNpeDNhR0YwSUdseklIUm9aU0IwYVcxbElHTnZiWEJzWlhocGRIa2diMllnWW1sdVlYSjVJSE5sWVhKamFCQUFmYXc0RkQ4IiwicXVlc3Rpb24iOiJIb3cgZmFzdCBpcyBhIGJpbmFyeSBzZWFyY2g/IiwibGsiOiJHaHRvYjNjZ1ptRnpkQ0JwY3lCaElHSnBibUZ5ZVNCelpXRnlZMmciLCJicyI6ImMzM09QUS1DTUJTRjRiamV5UmsxSGxkMVlqY2tSSW1iQXdPRFU0R1dOZ0d1b1UwcV8xNkNNZkY3ZnA5N2MyaEg4MHozTUJhNWFVWFh3MHJSRlJvbjFGeTFVYmdJWnY1YjU3SFRnWkJwNGU2OUdxNFVkNjh5Q2xmQjBqOFpfalEwckRpeWh4SjJaT0w5eGJCQ18tNTBwczFqaGRNU3pqUVNCVGVYV2w2TjY4RUtjWkpDdENYMlNScUYyMkR0X19OYzJaR1h5azRuTnciLCJpZCI6ImZjX2ZjeXZhcFRmQjRtY3c4Y1BrTFhHcUFnXzEifQ==",
+    "page_token": "hwEcu3icHdBbboJAFADQdDN-ylNbTUzTqQyG6FCGubx-mmFQQIZHgIr41710VV1Nk54lnO8fWTbV71NUjGM3bBVlmqZl3ra5PC9FWyt8mBuhCC5lykW1XT-vtdeL2FnDhN7bCXnQdcGeqj7LVVrdW2pkkEkKorqjQErs63ISzImJGoRpJVuiZSXBLyZRq1UIeKBWcaOw8agtPaFt2KkpZtcuqhNoLbdxHzDMiX23wtr5OkJGmIZGbudmBs4xjYTqBm8aPKgTg2ake2_lhoXNr07kB87H-YBYCombAu240ZHYoI9Mh5k8SB9GsY_15HqOkkJgWntXOsaGMGMN9QwXBwG4sUsH0QOZ3TABZkjKanM8BkjP1CCKVcsIm66GiJQCwyzsFV1cxG1nLP7Hdp-Xetx2fZv_AV1oeDk",
+    "question": "How fast is a binary search?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hwEcu3icHdBbboJAFADQdDN-ylNbTUzTqQyG6FCGubx-mmFQQIZHgIr41710VV1Nk54lnO8fWTbV71NUjGM3bBVlmqZl3ra5PC9FWyt8mBuhCC5lykW1XT-vtdeL2FnDhN7bCXnQdcGeqj7LVVrdW2pkkEkKorqjQErs63ISzImJGoRpJVuiZSXBLyZRq1UIeKBWcaOw8agtPaFt2KkpZtcuqhNoLbdxHzDMiX23wtr5OkJGmIZGbudmBs4xjYTqBm8aPKgTg2ake2_lhoXNr07kB87H-YBYCombAu240ZHYoI9Mh5k8SB9GsY_15HqOkkJgWntXOsaGMGMN9QwXBwG4sUsH0QOZ3TABZkjKanM8BkjP1CCKVcsIm66GiJQCwyzsFV1cxG1nLP7Hdp-Xetx2fZv_AV1oeDk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVaHliMnBVY25Cd1pHUlJhRnBuTWs0dFVYcFRiWHB5ZVRNd0xVd3hhRzlwZVRkbmNYZE1URGhHT1Rsa2FqbFBTRFJSVUV3emNGbHdVMDlHV0UxcVVESnVlbmhpTUd0MU1tUm1ka293VFZKQmFVVm1SbFpMUTJKRlVSSVhabU41ZG1Gd1ZHWkNORzFqZHpoalVHdE1XRWR4UVdjYUlrRkVjM0k1WmxKMGVYRmZNRkZrVFdRMk1tNUdOM1ZsUkROWldtVnhRMHBRVEVFIiwiZmN2IjoiMyIsImVpIjoiZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWciLCJxYyI6IkNpeDNhR0YwSUdseklIUm9aU0IwYVcxbElHTnZiWEJzWlhocGRIa2diMllnWW1sdVlYSjVJSE5sWVhKamFCQUFmYXc0RkQ4IiwicXVlc3Rpb24iOiJIb3cgZmFzdCBpcyBhIGJpbmFyeSBzZWFyY2g%2FIiwibGsiOiJHaHRvYjNjZ1ptRnpkQ0JwY3lCaElHSnBibUZ5ZVNCelpXRnlZMmciLCJicyI6ImMzM09QUS1DTUJTRjRiamV5UmsxSGxkMVlqY2tSSW1iQXdPRFU0R1dOZ0d1b1UwcV8xNkNNZkY3ZnA5N2MyaEg4MHozTUJhNWFVWFh3MHJSRlJvbjFGeTFVYmdJWnY1YjU3SFRnWkJwNGU2OUdxNFVkNjh5Q2xmQjBqOFpfalEwckRpeWh4SjJaT0w5eGJCQ18tNTBwczFqaGRNU3pqUVNCVGVYV2w2TjY4RUtjWkpDdENYMlNScUYyMkR0X19OYzJaR1h5azRuTnciLCJpZCI6ImZjX2ZjeXZhcFRmQjRtY3c4Y1BrTFhHcUFnXzEifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVaHliMnBVY25Cd1pHUlJhRnBuTWs0dFVYcFRiWHB5ZVRNd0xVd3hhRzlwZVRkbmNYZE1URGhHT1Rsa2FqbFBTRFJSVUV3emNGbHdVMDlHV0UxcVVESnVlbmhpTUd0MU1tUm1ka293VFZKQmFVVm1SbFpMUTJKRlVSSVhabU41ZG1Gd1ZHWkNORzFqZHpoalVHdE1XRWR4UVdjYUlrRkVjM0k1WmxKMGVYRmZNRkZrVFdRMk1tNUdOM1ZsUkROWldtVnhRMHBRVEVFIiwiZmN2IjoiMyIsImVpIjoiZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWciLCJxYyI6IkNpeDNhR0YwSUdseklIUm9aU0IwYVcxbElHTnZiWEJzWlhocGRIa2diMllnWW1sdVlYSjVJSE5sWVhKamFCQUFmYXc0RkQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB0aW1lIGNvbXBsZXhpdHkgb2YgQkZTIGFuZCBERlM/IiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNCMGFXMWxJR052YlhCc1pYaHBkSGtnYjJZZ1ltWnpJR0Z1WkNCa1puTSIsImJzIjoiYzMzT1BRLUNNQlNGNGJqZXlSazFIbGQxWWpja1JJbWJBd09EVTRHV05nR3VvVTBxXzE2Q01mRjdmcDk3YzJoSDgwejNNQmE1YVVYWHcwclJGUm9uMUZ5MVViZ0ladjViNTdIVGdaQnA0ZTY5R3E0VWQ2OHlDbGZCMGo4Wl9qUTByRGl5aHhKMlpPTDl4YkJDXy01MHBzMWpoZE1TempRU0JUZVhXbDZONjhFS2NaSkN0Q1gyU1JxRjIyRHRfX05jMlpHWHlrNG5OdyIsImlkIjoiZmNfZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWdfMSJ9",
+    "page_token": "Ep0iKXicHdBdToMwAADgeBkfHT9G45LFpFtBUDoptEBfDLSwSgt0vwzevIun8jRGT_Al39e3_uzVz81Fnk7muFwsxnG82w3DTtd3fOgW5XHq-YKXWlclV8uHxwf7ueEreA7Aeh-AmBhDN9hKlGlwv3NZDieca5YobROKYZSxWWx0h5X0MxgSPgMgUmqwg16jHBzeqNDcZlHdoTCykEqh9Ai5yi00czlZDnsBgciKmWhJSM7yWhmStMJNXUQrZWQ6h4a2shHEuq9mz6EaXJBlgzIz-6T1EM-kwzdhuaWmj_8kP5hjW68TGN7XeaiQh8-1_zRVvd5E6hRWmdjSVgAoRVe42ilyQJgKrCpD7tZHcWldC-x6gF2Hz5jgmbe6I8oGCNIicrx33MVT6uNRdGaqPZyyDF8QYUiMtw2_rNzb_8_VR9OdluYw7H4BfTyE6Q",
+    "question": "What is the time complexity of BFS and DFS?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ep0iKXicHdBdToMwAADgeBkfHT9G45LFpFtBUDoptEBfDLSwSgt0vwzevIun8jRGT_Al39e3_uzVz81Fnk7muFwsxnG82w3DTtd3fOgW5XHq-YKXWlclV8uHxwf7ueEreA7Aeh-AmBhDN9hKlGlwv3NZDieca5YobROKYZSxWWx0h5X0MxgSPgMgUmqwg16jHBzeqNDcZlHdoTCykEqh9Ai5yi00czlZDnsBgciKmWhJSM7yWhmStMJNXUQrZWQ6h4a2shHEuq9mz6EaXJBlgzIz-6T1EM-kwzdhuaWmj_8kP5hjW68TGN7XeaiQh8-1_zRVvd5E6hRWmdjSVgAoRVe42ilyQJgKrCpD7tZHcWldC-x6gF2Hz5jgmbe6I8oGCNIicrx33MVT6uNRdGaqPZyyDF8QYUiMtw2_rNzb_8_VR9OdluYw7H4BfTyE6Q",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVaHliMnBVY25Cd1pHUlJhRnBuTWs0dFVYcFRiWHB5ZVRNd0xVd3hhRzlwZVRkbmNYZE1URGhHT1Rsa2FqbFBTRFJSVUV3emNGbHdVMDlHV0UxcVVESnVlbmhpTUd0MU1tUm1ka293VFZKQmFVVm1SbFpMUTJKRlVSSVhabU41ZG1Gd1ZHWkNORzFqZHpoalVHdE1XRWR4UVdjYUlrRkVjM0k1WmxKMGVYRmZNRkZrVFdRMk1tNUdOM1ZsUkROWldtVnhRMHBRVEVFIiwiZmN2IjoiMyIsImVpIjoiZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWciLCJxYyI6IkNpeDNhR0YwSUdseklIUm9aU0IwYVcxbElHTnZiWEJzWlhocGRIa2diMllnWW1sdVlYSjVJSE5sWVhKamFCQUFmYXc0RkQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB0aW1lIGNvbXBsZXhpdHkgb2YgQkZTIGFuZCBERlM%2FIiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNCMGFXMWxJR052YlhCc1pYaHBkSGtnYjJZZ1ltWnpJR0Z1WkNCa1puTSIsImJzIjoiYzMzT1BRLUNNQlNGNGJqZXlSazFIbGQxWWpja1JJbWJBd09EVTRHV05nR3VvVTBxXzE2Q01mRjdmcDk3YzJoSDgwejNNQmE1YVVYWHcwclJGUm9uMUZ5MVViZ0ladjViNTdIVGdaQnA0ZTY5R3E0VWQ2OHlDbGZCMGo4Wl9qUTByRGl5aHhKMlpPTDl4YkJDXy01MHBzMWpoZE1TempRU0JUZVhXbDZONjhFS2NaSkN0Q1gyU1JxRjIyRHRfX05jMlpHWHlrNG5OdyIsImlkIjoiZmNfZmN5dmFwVGZCNG1jdzhjUGtMWEdxQWdfMSJ9",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&q=What+is+the+time+complexity+of+binary+search+in+a+sorted+array&sa=X&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ1QJ6BAhFEAE",
+    "query": "What is the time complexity of binary search in a sorted array",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search+in+a+sorted+array"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&q=Time+complexity+of+linear+search&sa=X&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ1QJ6BAhIEAE",
+    "query": "Time complexity of linear search",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Time+complexity+of+linear+search"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&q=What+is+the+time+complexity+of+binary+search+python&sa=X&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ1QJ6BAhJEAE",
+    "query": "What is the time complexity of binary search python",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search+python"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&q=What+is+the+time+complexity+of+binary+search+algorithm&sa=X&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ1QJ6BAhHEAE",
+    "query": "What is the time complexity of binary search algorithm",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search+algorithm"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&q=What+is+the+time+complexity+of+Binary+Search+Tree&sa=X&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ1QJ6BAhGEAE",
+    "query": "What is the time complexity of Binary Search Tree",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+Binary+Search+Tree"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&q=Average+time+complexity+of+Binary+Search&sa=X&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ1QJ6BAhCEAE",
+    "query": "Average time complexity of Binary Search",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Average+time+complexity+of+Binary+Search"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&q=Binary+search+worst+case+time+complexity&sa=X&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ1QJ6BAhDEAE",
+    "query": "Binary search worst case time complexity",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Binary+search+worst+case+time+complexity"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsBVJ74Nj8AOSgjcy3GiuJbKUsX1A:1789906045133&q=Space+complexity+of+Binary+search&sa=X&ved=2ahUKEwjUkYHQj_2WAxUJzvACHZCaEYUQ1QJ6BAhEEAE",
+    "query": "Space complexity of Binary search",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Space+complexity+of+Binary+search"
+   }
+  ],
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "What is the time complexity of binary search?",
+   "time_taken_displayed": 0.2,
+   "total_results": 127
+  },
+  "search_metadata": {
+   "created_at": "2026-09-20 12:07:25 UTC",
+   "google_url": "https://www.google.com/search?q=What+is+the+time+complexity+of+binary+search%3F&oq=What+is+the+time+complexity+of+binary+search%3F&sourceid=chrome&ie=UTF-8",
+   "id": "6aafcc7d28b27b92dc2aebbb",
+   "json_endpoint": "https://serpapi.com/searches/tfMAE4qX0rRYge_3dV4B6DgYnjGiZ-RmgIPnZNGgo8U/6aafcc7d28b27b92dc2aebbb.json",
+   "markdown_endpoint": "https://serpapi.com/searches/tfMAE4qX0rRYge_3dV4B6DgYnjGiZ-RmgIPnZNGgo8U/6aafcc7d28b27b92dc2aebbb.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/tfMAE4qX0rRYge_3dV4B6DgYnjGiZ-RmgIPnZNGgo8U/6aafcc7d28b27b92dc2aebbb.json_with_pixel_position",
+   "processed_at": "2026-09-20 12:07:25 UTC",
+   "raw_html_file": "https://serpapi.com/searches/tfMAE4qX0rRYge_3dV4B6DgYnjGiZ-RmgIPnZNGgo8U/6aafcc7d28b27b92dc2aebbb.html",
+   "status": "Success",
+   "total_time_taken": 0.36
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "What is the time complexity of binary search?"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=90",
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+time+complexity+of+binary+search%3F&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}

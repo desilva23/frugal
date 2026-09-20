@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 25236.088,
+ "elapsed_ms": 1734.445,
  "engine": "google",
- "fetched_at": "2026-09-16T23:21:31.074497+00:00",
+ "fetched_at": "2026-09-20T11:25:33.312961+00:00",
  "frugal_cache_version": 1,
  "key": "7b789ef6a12868b9e1195727e9c82ce6a4dfb7acb008558a755512cc6cc440fa",
  "params": {
@@ -10,442 +10,347 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "ivGckXiczVbdkqI4FH6AfY71xlkBfxrsKqorBNTY_jRj_0x7QyHEiAKxCYr23bzLVu077dNsQKC1W7dn5mJrc0FyDofzk3xfDt__9L1w9fdvfy3ieM2uBSFJkhqhlPi45tBAsNk-dIQ59VnkLG4Y3UQO9lzVWUQ0wJX9Vm1UHKZKFeyp2JtE9sukD1-WaK007-rjpfhgVjIPqjWzGV7yALslEyyBP1a_N3Qu1FgNh7Wwvns1J0PgbMVaXaw3amPBDrgB-O9GFwFAAAIG0C4b8VcQAOczX4SkT_dIA7nnbKBSxYszeTT-ykjFh4vepuk3EEFunvkdw_nrPc9BNwuL8eWE0ZEAkzy9JCtDS92hs59dGGZeAiwc_oD16TAOE33THJ_x5Z0nyYnY4VlYAMK3ICfBCDBJKaA0T-0gj02AdQUsCBlezpvn2OFQnAAEP9sdCpGiFaE7jNeCBJdw4IrCLOKTJHjOwskWEUvxDO_bIu3AUL5vzFod9k2R-kDeE_aYNPuehZREcGbczqe2i11rYYk3mSzVpZbYbsjKl4xIDiuZxI6Z5OuKMXmFMtVQbVDTpIJGsDzndydmwBRZZwrTYG567oi_AlBsr1keGoJvWw5uiwXRRATQKcpgp5ea6hmNUIaAHeEYPvq-WKdwGeWqO3JEo_LtIQmjDKl1QAGGUzShaaZGR94PQz-R8hTfK3StQJipfzA8dQDBJL1FikQ_3GHPwITESDkAjV6WLsiulDcvJEN2PvIq0hpNouWSUaZo5EZHYRBnFzLBcJi99B4QPFwcnUOqKRjyWB3jHeOMc5wFgPHwsnYOC8ZH1YdBPzfhtMn58g7-x7Tpba9G_qBH2ngbD5VdME0k8XnTnHjxPDlPExrMfqLjOP8rIh360W3Rjy4SCf4AkUiKt7IfnRApm7JT1EsiZeLjZSJxcJ3tR-Ud_daP3letDY6I9Ek_-nkiwX8l0iHuWSLR80RaXyRSnvIRkU77kXG-H5VE-qV-RH-tH2W8wofptDltluRikzI2w9AUNSRPSbIddNv7O_dWbjT7o7D1eZOaB_F1YLv-F8tzr7V6P967XyyuoNfYrbyoPZtVGbb5L2XVC2McYRbzRTXCAY1xNaHRqjrDOKy62OG_p15IqswLHVzlRK3fVAI_oqpoX4HAvuu2Rk-jfaNnrf3V3Nm8wvvZg29SWYFNb3XLb4alL40XrvG47VrJ82zKXNPcBUt3pF1tl97TbjXfzEd7j05dkPTn5qSBZo63YNJAft78gaP1oBUZK7c1MOyg3-5udh6Rnxad22DS-9pdtVvSY1cJp_6G6Lr1GmeZMdUWvw1Co7WajGgliByVo6JJwMgET0RzAMxgCx5syucEmN0rYBpahTm2hdlWlfDMrtcVSW41XLEhO5WAxPu12hYrLIxU6R_xOFCB",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ivGckXiczVbdkqI4FH6AfY71xlkBfxrsKqorBNTY_jRj_0x7QyHEiAKxCYr23bzLVu077dNsQKC1W7dn5mJrc0FyDofzk3xfDt__9L1w9fdvfy3ieM2uBSFJkhqhlPi45tBAsNk-dIQ59VnkLG4Y3UQO9lzVWUQ0wJX9Vm1UHKZKFeyp2JtE9sukD1-WaK007-rjpfhgVjIPqjWzGV7yALslEyyBP1a_N3Qu1FgNh7Wwvns1J0PgbMVaXaw3amPBDrgB-O9GFwFAAAIG0C4b8VcQAOczX4SkT_dIA7nnbKBSxYszeTT-ykjFh4vepuk3EEFunvkdw_nrPc9BNwuL8eWE0ZEAkzy9JCtDS92hs59dGGZeAiwc_oD16TAOE33THJ_x5Z0nyYnY4VlYAMK3ICfBCDBJKaA0T-0gj02AdQUsCBlezpvn2OFQnAAEP9sdCpGiFaE7jNeCBJdw4IrCLOKTJHjOwskWEUvxDO_bIu3AUL5vzFod9k2R-kDeE_aYNPuehZREcGbczqe2i11rYYk3mSzVpZbYbsjKl4xIDiuZxI6Z5OuKMXmFMtVQbVDTpIJGsDzndydmwBRZZwrTYG567oi_AlBsr1keGoJvWw5uiwXRRATQKcpgp5ea6hmNUIaAHeEYPvq-WKdwGeWqO3JEo_LtIQmjDKl1QAGGUzShaaZGR94PQz-R8hTfK3StQJipfzA8dQDBJL1FikQ_3GHPwITESDkAjV6WLsiulDcvJEN2PvIq0hpNouWSUaZo5EZHYRBnFzLBcJi99B4QPFwcnUOqKRjyWB3jHeOMc5wFgPHwsnYOC8ZH1YdBPzfhtMn58g7-x7Tpba9G_qBH2ngbD5VdME0k8XnTnHjxPDlPExrMfqLjOP8rIh360W3Rjy4SCf4AkUiKt7IfnRApm7JT1EsiZeLjZSJxcJ3tR-Ud_daP3letDY6I9Ek_-nkiwX8l0iHuWSLR80RaXyRSnvIRkU77kXG-H5VE-qV-RH-tH2W8wofptDltluRikzI2w9AUNSRPSbIddNv7O_dWbjT7o7D1eZOaB_F1YLv-F8tzr7V6P967XyyuoNfYrbyoPZtVGbb5L2XVC2McYRbzRTXCAY1xNaHRqjrDOKy62OG_p15IqswLHVzlRK3fVAI_oqpoX4HAvuu2Rk-jfaNnrf3V3Nm8wvvZg29SWYFNb3XLb4alL40XrvG47VrJ82zKXNPcBUt3pF1tl97TbjXfzEd7j05dkPTn5qSBZo63YNJAft78gaP1oBUZK7c1MOyg3-5udh6Rnxad22DS-9pdtVvSY1cJp_6G6Lr1GmeZMdUWvw1Co7WajGgliByVo6JJwMgET0RzAMxgCx5syucEmN0rYBpahTm2hdlWlfDMrtcVSW41XLEhO5WAxPu12hYrLIxU6R_xOFCB"
+   "page_token": "mFIb0HiczVbdcqpIEH6AfY7jjVnxh_iTKio1M46Iioo5xsQbC2EEojAJgxK9O--xl_tU-zQ7oCj-xXPOxdZ2lQ4Dn9093d9n8-PvhePN__njLzsI3tmDIIRhmLMotRYkZ1BX0NnaM4QZXTDfsB8ZXfoGcUzJsH3qksx6JZUyBpPyGeJIvtpe6UFFkavledGnfbHsdakmZmIX0mSqM_LGI3y-MWEi8K_5t1Kdb3Istwhy9nilT4EtqjLIFfPFUq4n6C4HgP_OsGbBaG0BdB3EH-HbriIHCoA45UkBVrzCPQC8bhekxY-QddUb3MYcxBCNf-qTTTOsg0aCqF_9LQ8BQaqKKIxzASCMk4DAuX2axLRt8Oj3ybm-qBRI0Me2qx493En3GF53Fp7eUCYAoUOQdDDuxj5KAydRDAtUmxTWIRheD8Xr01bA_Rxo-NIR0qbhZ3Hfuc6rzO8IpsWJmxemPl8KgmPYRnzhs4jP6HstTxsvo5GyBqveSFwOezPVKYzM94rbWEI1FIwpxy2obhJzYk_yj_G-UCzc52ulSvUuFpLB9kpiaSX1wXL61LFFZwNynRwsJDJC26aDs45hvkfKhYNBtINeaHGK2FHD8BamNVIQvGslPEIm1u5HdZWTLefohrcmjThEjch_LqOtOSkwl1GciEJ3wNhSaATklHRTjW2dnxCcn1tr7omq1c-ARwJEAwDmIOH6KYW0V6AhC0caQLgJd1UzDj4UXhmnvcfDJGEM-D_Ubnc4Cd6BUjlFJVA0oAIFc5_OUOEMtSKubhONyJDEwieKu0J4hYcZoZ_567tg8JaIItMSvZzQPy0bmbR1Ng5Vsz7Fas-lbtBalj5mzx2fgssyoe70FyaO8b8S0nYe4d08ui4kfFtI8TyCX8yjWEiHeRSRF9GrQoLy5XnUTRBH8-j43AgM0kL6eh79spDQl0LSdm4uCIleFtL7dSGFp0I6nkf48jzaC-l35hH8zXkU64psl-PhtHyzrg8p2nrpl2a1xr2cf5H75cayyTYAkmaAbw-pmRs8uLq5uJs45gMstoK1eTfhN-gDMTMfUlNnWUZ0_k6ZdbyA-IQF_CLrE5cGJBtSf56dEuJlTWLw91PHs7LM8QyS5UItPmbchU-lvF4et329thp8lvzAaFWWc1OsDbt99c-5b2nY7agq9iz5Y219roxF0V_NP21RrPbyb3jcNVlPHb5VKqgyIKVGaFf11YzAgmKPXulTQMYfs40RLJ7lbuCwwCvKA0d7whv3Sdc9b4xLvdHHfaHae74PRnE2TFryVN_Rd6uHlIzrGxJngmiBrgZGFqckiqkKhjrlawg0ucw7BTPM0CeEraSyWOalM2uzqVksixWSca1g_S7V8hnm-VLhX7HDSmo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mFIb0HiczVbdcqpIEH6AfY7jjVnxh_iTKio1M46Iioo5xsQbC2EEojAJgxK9O--xl_tU-zQ7oCj-xXPOxdZ2lQ4Dn9093d9n8-PvhePN__njLzsI3tmDIIRhmLMotRYkZ1BX0NnaM4QZXTDfsB8ZXfoGcUzJsH3qksx6JZUyBpPyGeJIvtpe6UFFkavledGnfbHsdakmZmIX0mSqM_LGI3y-MWEi8K_5t1Kdb3Istwhy9nilT4EtqjLIFfPFUq4n6C4HgP_OsGbBaG0BdB3EH-HbriIHCoA45UkBVrzCPQC8bhekxY-QddUb3MYcxBCNf-qTTTOsg0aCqF_9LQ8BQaqKKIxzASCMk4DAuX2axLRt8Oj3ybm-qBRI0Me2qx493En3GF53Fp7eUCYAoUOQdDDuxj5KAydRDAtUmxTWIRheD8Xr01bA_Rxo-NIR0qbhZ3Hfuc6rzO8IpsWJmxemPl8KgmPYRnzhs4jP6HstTxsvo5GyBqveSFwOezPVKYzM94rbWEI1FIwpxy2obhJzYk_yj_G-UCzc52ulSvUuFpLB9kpiaSX1wXL61LFFZwNynRwsJDJC26aDs45hvkfKhYNBtINeaHGK2FHD8BamNVIQvGslPEIm1u5HdZWTLefohrcmjThEjch_LqOtOSkwl1GciEJ3wNhSaATklHRTjW2dnxCcn1tr7omq1c-ARwJEAwDmIOH6KYW0V6AhC0caQLgJd1UzDj4UXhmnvcfDJGEM-D_Ubnc4Cd6BUjlFJVA0oAIFc5_OUOEMtSKubhONyJDEwieKu0J4hYcZoZ_567tg8JaIItMSvZzQPy0bmbR1Ng5Vsz7Fas-lbtBalj5mzx2fgssyoe70FyaO8b8S0nYe4d08ui4kfFtI8TyCX8yjWEiHeRSRF9GrQoLy5XnUTRBH8-j43AgM0kL6eh79spDQl0LSdm4uCIleFtL7dSGFp0I6nkf48jzaC-l35hH8zXkU64psl-PhtHyzrg8p2nrpl2a1xr2cf5H75cayyTYAkmaAbw-pmRs8uLq5uJs45gMstoK1eTfhN-gDMTMfUlNnWUZ0_k6ZdbyA-IQF_CLrE5cGJBtSf56dEuJlTWLw91PHs7LM8QyS5UItPmbchU-lvF4et329thp8lvzAaFWWc1OsDbt99c-5b2nY7agq9iz5Y219roxF0V_NP21RrPbyb3jcNVlPHb5VKqgyIKVGaFf11YzAgmKPXulTQMYfs40RLJ7lbuCwwCvKA0d7whv3Sdc9b4xLvdHHfaHae74PRnE2TFryVN_Rd6uHlIzrGxJngmiBrgZGFqckiqkKhjrlawg0ucw7BTPM0CeEraSyWOalM2uzqVksixWSca1g_S7V8hnm-VLhX7HDSmo"
   },
-  "inline_videos": [
-   {
-    "channel": "Eggy Steven",
-    "date": "Mar 11, 2026",
-    "duration": "15:41",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=0",
-      "time": "00:00",
-      "title": "The Remote Job Market Is About to Crash"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=125",
-      "time": "02:05",
-      "title": "1st Signal: Remote Job Market Oversaturation"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=164",
-      "time": "02:44",
-      "title": "2nd Signal: The Skills Mismatch Crisis"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=211",
-      "time": "03:31",
-      "title": "3rd Signal: The Race to the Bottom"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=243",
-      "time": "04:03",
-      "title": "4th Signal: The Quiet Corporate Retreat"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=302",
-      "time": "05:02",
-      "title": "5th Signal: AI Replacing Remote Jobs"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=340",
-      "time": "05:40",
-      "title": "6th Signal: Geographic Arbitrage Is Ending"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=392",
-      "time": "06:32",
-      "title": "What Will Happen to the Remote Job Market"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=445",
-      "time": "07:25",
-      "title": "Remote Jobs That Will Survive"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=510",
-      "time": "08:30",
-      "title": "Remote Jobs That Are Disappearing"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=546",
-      "time": "09:06",
-      "title": "How to Stay Competitive in Remote Work"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=GY7CizhwDn0&t=559",
-      "time": "09:19",
-      "title": "Use AI to Your Advantage"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=GY7CizhwDn0",
-    "platform": "YouTube",
-    "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSZ5hRj66kl4qVwBBMajlyAvIWFemvfx5KZWw",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAtqEt1CSOi-Qfums9j0qIY74SA7LWjU9ouc5rlhac8Yb-uPuO8tJlA&s",
-    "title": "I Investigated The Decline Of The Remote Job Market"
-   },
-   {
-    "channel": "CBS News",
-    "date": "Jun 2, 2026",
-    "duration": "5:15",
-    "link": "https://www.youtube.com/watch?v=tg22q3UTdv8",
-    "platform": "YouTube",
-    "position": 2,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS1lYDZw17lXQWNst6-ahadoqKfQX9gBTgfqg",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NNaC8mpnVXhnKMSjCc66Z9zyQMoFYjPHz-HP4VGPjcZnKpCUzgEA1g&s",
-    "title": "Remote work hurting the job market for young college ..."
-   },
-   {
-    "channel": "STARTUP HAKK",
-    "date": "Mar 27, 2026",
-    "duration": "14:03",
-    "link": "https://www.youtube.com/watch?v=PRZCtRkG0j4",
-    "platform": "YouTube",
-    "position": 3,
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44QD8mBy_F5CLCRxqRoS9MaZ663gQEzM_QE6TlyV8zWHYKWsl7LGtTA&s",
-    "title": "WFH vs Office: The Data Just Ended the Debate"
-   }
-  ],
   "organic_results": [
    {
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "As shown in Figure 2, the rate of working from home dropped from 18 percent in 2021 to just over 15 percent in 2022, much higher than the 6 ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzVk2_Vk2_Vk27Vk2_Vk27Vk2_Vk27Vk27Vk2_Vk27Vk2_Vk2_Vk25JyggvAAAADXRSTlMAVGzZSXgR75Q0wqwhh__3oAAAANZJREFUKJGNktkOxCAIRUFF63L__3cH6NTpYpO5D43pUTwQif5OwTtrQHxjAs22ZhXIBPCKZSD5jrGAUSsGzgHlyToaReHii1sCQBsCo2s_NymTSTCIQH75KSqpQg4xXPsqUw5o9U9SXQcTMaFlSmkZypxScZg0_Lt26B1ZRPaTuhjqUI-jAmtvlm3uMNP8xxcWdzilQOiAWT-XPrXJWneYxmP2Oh4docKNbEi3WONN2Brud2ZSnTjppuVLKVaOr3OdUZE6Tt1f4xOQNTOplcyR-Ppsn_kATdwKOGaR-HAAAAAASUVORK5CYII.png",
-      "source_info_link": "https://eig.org/remote-work-in-2022/"
+      "description": "The U.S. telework rate has stabilized, consistently ranging between 17.9% and 23.8% from late 2022 to early 2025.1. Nearly 80% of employees ...",
+      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAAAwBACdASodACAAPtE-tFooIigoFAEAGgloAL84NZJOhha-4pgMFwfnWAAA-daK5civTSsNxR3EN2DMaUNJYDIJfe5aJd7_i37R_ewazV1ntetyJdHfcZq8Ir1LZSi7fGNee1MbWyX4IvXUGTN8dKU_Y7gBhwmG4_VRUnTWz_tQzihXrNnPMityEr9WVgqnSX2dz7TP5VrG16N-3iw4_yvWgAA.webp",
+      "source_info_link": "https://www.venasolutions.com/blog/remote-work-statistics"
      }
     },
-    "date": "Oct 2, 2023",
-    "displayed_link": "https://eig.org › remote-work-in-2022",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzVk2_Vk2_Vk27Vk2_Vk27Vk2_Vk27Vk27Vk2_Vk27Vk2_Vk2_Vk25JyggvAAAADXRSTlMAVGzZSXgR75Q0wqwhh__3oAAAANZJREFUKJGNktkOxCAIRUFF63L__3cH6NTpYpO5D43pUTwQif5OwTtrQHxjAs22ZhXIBPCKZSD5jrGAUSsGzgHlyToaReHii1sCQBsCo2s_NymTSTCIQH75KSqpQg4xXPsqUw5o9U9SXQcTMaFlSmkZypxScZg0_Lt26B1ZRPaTuhjqUI-jAmtvlm3uMNP8xxcWdzilQOiAWT-XPrXJWneYxmP2Oh4docKNbEi3WONN2Brud2ZSnTjppuVLKVaOr3OdUZE6Tt1f4xOQNTOplcyR-Ppsn_kATdwKOGaR-HAAAAAASUVORK5CYII.png",
-    "link": "https://eig.org/remote-work-in-2022/",
+    "date": "2025-11-07",
+    "displayed_link": "https://www.venasolutions.com › blog",
+    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAAAwBACdASodACAAPtE-tFooIigoFAEAGgloAL84NZJOhha-4pgMFwfnWAAA-daK5civTSsNxR3EN2DMaUNJYDIJfe5aJd7_i37R_ewazV1ntetyJdHfcZq8Ir1LZSi7fGNee1MbWyX4IvXUGTN8dKU_Y7gBhwmG4_VRUnTWz_tQzihXrNnPMityEr9WVgqnSX2dz7TP5VrG16N-3iw4_yvWgAA.webp",
+    "link": "https://www.venasolutions.com/blog/remote-work-statistics",
     "position": 1,
-    "read_more_link": "https://eig.org/remote-work-in-2022/#:~:text=As%20shown%20in%20Figure%202%2C,working%20from%20home%20in%202019.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAV9SOnn3xz825YGSosbdXNS59bAIswyMfwR2LGe5awFhH-ZDu3TG-COlDxjXCeIGM0KqL0WfPPzZNdEFwwIEqzUqPJGKkTq1nQNAUZoIjUeg895imcAlUb&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQFnoECCUQAQ&uoh=1",
-    "snippet": "As shown in Figure 2, the rate of working from home dropped from 18 percent in 2021 to just over 15 percent in 2022, much higher than the 6 ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVcbTiONyFc9vYiXqPKIhUpJCDFhTz--oeCnaX7at_i8PRtoNW6NVenfbMgIN8QqwigRRqK9nRjrQnFnhRtyjMTeFF34_CH4w9w0jzFlOCq2yhrDx-BCSUeL3oikbNTrjxKZt1d-BKb04CMNye&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQFnoECBQQAQ&uoh=1",
+    "snippet": "The U.S. telework rate has stabilized, consistently ranging between 17.9% and 23.8% from late 2022 to early 2025.1. Nearly 80% of employees ...",
     "snippet_highlighted_words": [
-     "working",
+     "has",
      "2022"
     ],
-    "source": "Economic Innovation Group",
-    "title": "Remote Work Is Less Common Than We Thought"
+    "source": "Vena Solutions",
+    "title": "53+ Remote Work Statistics and Trends for 2026"
    },
    {
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Google searches for “remote work” are spiking at levels not seen since the pandemic first hit in March 2020. Image ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____49_fy9fjt7_P7-_usrKzLy8vX19fAwMCxsbGnrLPT09OlpaWCgoKbn6V3d3fz8_Oenp7a3OC0tbXl5eXa2trv7-_Ozs7h4eHq6em8vLyoqKjg5OqRkZGKiorQ1dy1usCYmJiarMOot8vEztu3xNN4zMQyAAAAsklEQVR4Ad3JR2JDIRADUBHTIf4QOriX-x8x3d0n8NvMSMJrIm8zim8UtxgXUmkplWHgTOGGsO9kDisn-j06j1vO0Y_gIo0pZJVx4WNkNGgUiKgMakNBl_gz5YHSFn05JMNoK5-UO21YtcKcnZPeeFFdxiQ7rMQZFVhHxAxC8CCwuOHVLxEUptrvRld1Sd5i2Ky2CjcyUNfIGTW633SPLs4fHi12s99pf8Azh_23I8Xr-QJanAp5VomohwAAAABJRU5ErkJggg.png",
+      "description": "Leveraging Indeed data on job search, we confirm that jobseekers' interest in remote work has steadily increased during and after the pandemic, rising by about ...",
+      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+      "source_info_link": "https://www.sciencedirect.com/science/article/pii/S0927537125000752"
+     }
+    },
+    "author": "cituojant P Adrjan",
+    "displayed_link": "https://www.sciencedirect.com › pii",
+    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0927537125000752",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVOAYZPYQVXnfuszld2X5C82FSIUyDbMIFoeT0cPokYSYFpuIqByU8oB7kR5A7PtmKuKddcyd6pSpW6-1l1s4xSOgkGlv-amBkqBjpc2eNtBwu3oBuBVX25qURIf8djx5GWvn8qlqsK3OAKsTiQZ0fdRL7tyJHvg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQFnoECBIQAQ&uoh=1",
+    "snippet": "Leveraging Indeed data on job search, we confirm that jobseekers' interest in remote work has steadily increased during and after the pandemic, rising by about ...",
+    "snippet_highlighted_words": [
+     "jobseekers' interest in remote work has steadily increased"
+    ],
+    "source": "ScienceDirect.com",
+    "title": "Working from home after COVID-19: Evidence from job ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "Job seeker interest in remote work remains near its all-time high after leveling off in early 2022. By Daniel Culbertson. June 28, 2023.",
+      "source_info_link": "https://hiringlab.indeed.com/2023/06/28/us-remote-job-postings-still-seeing-growth/"
+     }
+    },
+    "displayed_link": "https://hiringlab.indeed.com › us-rem...",
+    "link": "https://hiringlab.indeed.com/2023/06/28/us-remote-job-postings-still-seeing-growth/",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFWqx3zvFpHPgMfdT52bOwJCrjxWrsiN9F_A5n4zR8myejALrzAekEwBnObBNhhebb2EdObKUmkh_Ce3PfZjTwe460PpnRm0YZqVJFc_StFVRHIH-YjQFh4Ihfe0LUzAR6Nq639EkNTYGPGeVpKVJC6fZhAS3olTPp0GzPRZtC1Rnpvo2iqdk&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQFnoECBYQAQ&uoh=1",
+    "snippet": "Job seeker interest in remote work remains near its all-time high after leveling off in early 2022. By Daniel Culbertson. June 28, 2023.",
+    "snippet_highlighted_words": [
+     "Job seeker interest in remote work remains near its all-time high"
+    ],
+    "source": "Indeed Hiring Lab",
+    "title": "Despite Overall Decline in US Remote Job Postings, Many ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "Google search trends are showing spikes in searches for both \"remote work\" and \"back pain\" suggesting that interest in remote work remains ...",
+      "icon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAADQBACdASocABwAPtE-tFooIigoFAEAGglpAAPiuQr9qrGeSGJEUTKXDGKpdTJAAAD-9gFndBn1Y_x1Lx8-D_5S5QRTInROtHsawjWhwoXK7Jyb_uXgcJ4zmcXm8afiLb4qKNYO3XNOhhdkqAi0kbuMX_RLEPb_YVkFxuWBDtVGSSU5cPoc4nkrffhayx4tqQK-YKOibSZeBah7oi-4PW65VHpNzDW_rGkRe207unAAAA.webp",
       "source_info_link": "https://www.weforum.org/stories/jobs-and-the-future-of-work/google-search-remote-work-back-pain/"
      }
     },
-    "date": "Aug 30, 2022",
-    "displayed_link": "https://www.weforum.org › jobs-and-the-future-of-work",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____49_fy9fjt7_P7-_usrKzLy8vX19fAwMCxsbGnrLPT09OlpaWCgoKbn6V3d3fz8_Oenp7a3OC0tbXl5eXa2trv7-_Ozs7h4eHq6em8vLyoqKjg5OqRkZGKiorQ1dy1usCYmJiarMOot8vEztu3xNN4zMQyAAAAsklEQVR4Ad3JR2JDIRADUBHTIf4QOriX-x8x3d0n8NvMSMJrIm8zim8UtxgXUmkplWHgTOGGsO9kDisn-j06j1vO0Y_gIo0pZJVx4WNkNGgUiKgMakNBl_gz5YHSFn05JMNoK5-UO21YtcKcnZPeeFFdxiQ7rMQZFVhHxAxC8CCwuOHVLxEUptrvRld1Sd5i2Ky2CjcyUNfIGTW633SPLs4fHi12s99pf8Azh_23I8Xr-QJanAp5VomohwAAAABJRU5ErkJggg.png",
+    "date": "2022-08-30",
+    "displayed_link": "https://www.weforum.org › stories",
+    "favicon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAADQBACdASocABwAPtE-tFooIigoFAEAGglpAAPiuQr9qrGeSGJEUTKXDGKpdTJAAAD-9gFndBn1Y_x1Lx8-D_5S5QRTInROtHsawjWhwoXK7Jyb_uXgcJ4zmcXm8afiLb4qKNYO3XNOhhdkqAi0kbuMX_RLEPb_YVkFxuWBDtVGSSU5cPoc4nkrffhayx4tqQK-YKOibSZeBah7oi-4PW65VHpNzDW_rGkRe207unAAAA.webp",
     "link": "https://www.weforum.org/stories/jobs-and-the-future-of-work/google-search-remote-work-back-pain/",
-    "position": 2,
-    "read_more_link": "https://www.weforum.org/stories/jobs-and-the-future-of-work/google-search-remote-work-back-pain/#:~:text=Google%20searches%20for%20%E2%80%9Cremote%20work%E2%80%9D,hit%20in%20March%202020.%20Image%3A",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFcRuKSOTgHwTOwWLxEp4JtLoa1_3uPI2cNfKWVpixmAV5yRDC06pEK03eQlv1BMlf9ZhbDrgRCyuUAj36Scv36JThx-pW9YxdO-7Cll1o9DT6qi7sPxx053rMiUR-ekSobNRx3nU7irT4Q1fcXJ0yYq8_YwdqvbtSBgeVbqkXHhKunz1z5dJHTZ8LT9ZrXOE_bEk9g&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQFnoECD4QAQ&uoh=1",
-    "snippet": "Google searches for “remote work” are spiking at levels not seen since the pandemic first hit in March 2020. Image ...",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFRs8p2JAAdpk_AZ2EjNps_9E7LbYie3wceyOFVje1Ql9wwyjckXKoPBkENVlIvsZCn_vhLHZW5kmm0wTkr_Q1SQzJxCos6KLjQKYR-0dqqN9ELgg8YMos-fEtjg8eQ2fzSBEcxZB2Tr8PwVn69iwUzKNojKIjx5TE5vqCnvEm2ItVRMzhjEzkoN2asPR2fzPD_z-pQ&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQFnoECBcQAQ&uoh=1",
+    "snippet": "Google search trends are showing spikes in searches for both \"remote work\" and \"back pain\" suggesting that interest in remote work remains ...",
     "snippet_highlighted_words": [
-     "Google searches for “remote work” are spiking at levels"
+     "search",
+     "searches",
+     "remote work",
+     "interest in remote work"
     ],
     "source": "The World Economic Forum",
     "title": "Remote working isn't going anywhere, according to Google ..."
    },
    {
     "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
      "source": {
-      "description": "Explore 50+ remote work statistics for 2026, including productivity, burnout, turnover, and WFH trends shaping today's workforce.",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAqFBMVEVNs03___91j81sh8qc1JzD5cPO1-2tvOHy_PTq--6-29a31NPT8N_c-eO_2Nietsmuys_c9OW5zdeYsMe2ydfX7uPF4dnc6c7c4MPcp3rdlGLcyaWqvdHdgUnfXR3jgEubrsrspoLu5taFmsHc0rHccDPdTgfw0716ibPPh17wt5vr797fZzb0zLzpilzu3crh8NvdXSjzybfcm2rxvqmjorns-_DqnX59WD80AAAAyUlEQVR4AdXPQwIDQRBA0bFbsW079z9ZkqkxN_Hf1msUF48XxEi_AyTZj1e81BCQNT2RpoSBbpgWiqZHASbUygWsUDRzAWKlopELULlUrCCvaq2aALYoI6davdFMAlRuFS043mx3ugkAokfseb3T6Q9YAoAYUjQaT7pTHSEP8JANQMzmk85iCVvwELeyW3uguZpstjsEYA0jbm93cED12OmczhUE6QcYxcBmusPFciZAtRpDVsVKBYleDbRLIi0MrqeUrh7I6V_AHcblWgEhBQCEAAAAAElFTkSuQmCC.png",
-      "source_info_link": "https://www.worktime.com/blog/statistics/remote-work-statistics"
+      "description": "Remote work is evolving faster than ever, and the World Economic Forum's Future of Jobs Report 2025 has some game-changing insights!",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "date": "Feb 26, 2026",
-    "displayed_link": "https://www.worktime.com › Statistics",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAqFBMVEVNs03___91j81sh8qc1JzD5cPO1-2tvOHy_PTq--6-29a31NPT8N_c-eO_2Nietsmuys_c9OW5zdeYsMe2ydfX7uPF4dnc6c7c4MPcp3rdlGLcyaWqvdHdgUnfXR3jgEubrsrspoLu5taFmsHc0rHccDPdTgfw0716ibPPh17wt5vr797fZzb0zLzpilzu3crh8NvdXSjzybfcm2rxvqmjorns-_DqnX59WD80AAAAyUlEQVR4AdXPQwIDQRBA0bFbsW079z9ZkqkxN_Hf1msUF48XxEi_AyTZj1e81BCQNT2RpoSBbpgWiqZHASbUygWsUDRzAWKlopELULlUrCCvaq2aALYoI6davdFMAlRuFS043mx3ugkAokfseb3T6Q9YAoAYUjQaT7pTHSEP8JANQMzmk85iCVvwELeyW3uguZpstjsEYA0jbm93cED12OmczhUE6QcYxcBmusPFciZAtRpDVsVKBYleDbRLIi0MrqeUrh7I6V_AHcblWgEhBQCEAAAAAElFTkSuQmCC.png",
-    "link": "https://www.worktime.com/blog/statistics/remote-work-statistics",
-    "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVUFgqoqRZA1-tgH68LKdg91fizC3iwNk_d5du_XMpkRRoN6qIsd2UYcScN6Eue-5l9e8-TCTOsuMwK0NVWFzODeiZdJjzxUgs6MgGg974aShxBf21rtIcO_gPM-ah9ijJVsb5GqEgm8PvgJ-cxXvuqO2-&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQFnoECCsQAQ&uoh=1",
-    "snippet": "Explore 50+ remote work statistics for 2026, including productivity, burnout, turnover, and WFH trends shaping today's workforce.",
+    "displayed_link": "Peržiūrų: daugiau nei 360 · prieš 1 metus",
+    "duration": "9:17",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=K5IQi-jAFkc&t=0",
+      "time": "00:00",
+      "title": "Intro: WEF Data and it's scale"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=K5IQi-jAFkc&t=69",
+      "time": "01:09",
+      "title": "Remote Jobs and Labor laws"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=K5IQi-jAFkc&t=189",
+      "time": "03:09",
+      "title": "Top Digital Skills for Getting a Remote Job"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=K5IQi-jAFkc&t=283",
+      "time": "04:43",
+      "title": "Diversity and Global Talent Focus"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=K5IQi-jAFkc&t=343",
+      "time": "05:43",
+      "title": "Green transition and Climate Change Affects"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=K5IQi-jAFkc&t=440",
+      "time": "07:20",
+      "title": "Importance of Core skills in Remote work"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=K5IQi-jAFkc",
+    "position": 5,
+    "snippet": "Remote work is evolving faster than ever, and the World Economic Forum's Future of Jobs Report 2025 has some game-changing insights!",
+    "source": "YouTube · Pulkit Shares",
+    "thumbnail": "https://serpapi.com/searches/6aafc2abd868dd385dfad0f5/images/pLaCt_SHkUMcEi0zb0D54jn3pTL8_loaY3V4s6smU-o.jpeg",
+    "title": "The Future of Work is Remote! Here's Why ? (New WEF Data ...",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQMVV7dAaWiTFMVYyUwfLyI9m1-8ov3lLbu5Q"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "Longer-term prospects for the various sectors are less clear, but they have important implications for the volume of remote work that will be feasible. Though ...",
+      "icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglsAKkFgBlgACxOyWTsBBz02g-CpoFe7LGkAAD-7lvqFjkYR8I4zToxE50mNG5bVipvaI4qVSJ8r3GDNu__i2QyJ86P1frT7w0Fh6e_wVb6RazKWPL5sQY7xQw9dUxIOPL65XJkOx8W5NaECOa_V6cGMKjOHZf4iArvSqyCbSPc62zlKCY1BX24qNGQdhC65We_QNc96_Q-az_8iRRdgzBxYlPS9GjBk3sa-D38bDJvW5BxH1nEzkMiIhq3Wff5_1zbgAAA.webp",
+      "source_info_link": "https://www.bruegel.org/sites/default/files/2023-06/PC%2009%202022.pdf"
+     }
+    },
+    "author": "cituojant JS Marcus",
+    "displayed_link": "https://www.bruegel.org › files › PC 09 2022",
+    "favicon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglsAKkFgBlgACxOyWTsBBz02g-CpoFe7LGkAAD-7lvqFjkYR8I4zToxE50mNG5bVipvaI4qVSJ8r3GDNu__i2QyJ86P1frT7w0Fh6e_wVb6RazKWPL5sQY7xQw9dUxIOPL65XJkOx8W5NaECOa_V6cGMKjOHZf4iArvSqyCbSPc62zlKCY1BX24qNGQdhC65We_QNc96_Q-az_8iRRdgzBxYlPS9GjBk3sa-D38bDJvW5BxH1nEzkMiIhq3Wff5_1zbgAAA.webp",
+    "link": "https://www.bruegel.org/sites/default/files/2023-06/PC%2009%202022.pdf",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVvM6Eltr1GiCJG-wD1QCzBfgnjEcHAHWb9BKqQkrqERnVNi6hUqaNoPbtDLpNO1x-hp63KDMWs9XrSKqsmVQBUERlpUcXtPEAFXQtalfJjo7WfT9bDk_GjCiT1_dbIk6wifcHBooMzuPw-ZpKTfI5DhS2NIwIEN-w0Q&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQFnoECBkQAQ&uoh=1",
+    "snippet": "Longer-term prospects for the various sectors are less clear, but they have important implications for the volume of remote work that will be feasible. Though ...",
     "snippet_highlighted_words": [
+     "have",
      "remote work"
     ],
-    "source": "WorkTime",
-    "title": "50+ remote work statistics & WFH trends in 2026"
+    "source": "Bruegel",
+    "title": "COVID-19 and the shift to remote work"
    },
    {
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Interest in remote work endures in the US labor market. Searches for remote work were 9.7% of all searches on Indeed in August, almost five ...",
-      "source_info_link": "https://hiringlab.indeed.com/2022/09/13/remote-work-endures/"
+      "description": "Remote work job listings have declined significantly, yet continue to get the most applications. So competition for remote work has increased.",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/remotework/comments/1ds3ife/is_the_remote_job_market_falling/"
      }
     },
-    "date": "Sep 13, 2022",
-    "displayed_link": "https://hiringlab.indeed.com › All Articles",
-    "link": "https://hiringlab.indeed.com/2022/09/13/remote-work-endures/",
-    "position": 4,
-    "read_more_link": "https://hiringlab.indeed.com/2022/09/13/remote-work-endures/#:~:text=Interest%20in%20remote%20work%20endures,the%20share%20in%20February%202020.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAV3TYybwW16BRD8Y4S45h3CaVgITO3Xu8_IFRcRQiSGYEoVl70aRHdflQii-eBjmCtZv27lPa402mZ8i1wS_nrre_gCbdy-5Gt2IELdKKpH899LgYBRQq5OofyPgrBoRcEHgMIA-6RkcDtSI0Z2m4t&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQFnoECCwQAQ&uoh=1",
-    "snippet": "Interest in remote work endures in the US labor market. Searches for remote work were 9.7% of all searches on Indeed in August, almost five ...",
-    "snippet_highlighted_words": [
-     "Searches for remote work were 9.7% of all searches on Indeed in August"
-    ],
-    "source": "Indeed Hiring Lab",
-    "title": "Remote Work Endures, Even With a Pullback in Postings"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Remote work was already becoming common for freelance people before the pandemic, largely because most companies find it difficult and expensive ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
-      "source_info_link": "https://www.reddit.com/r/digitalnomad/comments/1c9j6gr/what_happened_to_the_remote_work_is_the_future/"
-     }
-    },
-    "displayed_link": "190+ comments · 2 years ago",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
-    "link": "https://www.reddit.com/r/digitalnomad/comments/1c9j6gr/what_happened_to_the_remote_work_is_the_future/",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFRNMpmGPOuhBo13xlQhefecsVTk4qXgTZ26KtKJGvsGaW6KQxhuNU5CVnQFZzRuCv6igsB8Lk6LjzmTzOvfj-WjE-K8-glHMr30D2tEeJn_qEbC5oH-9IllrRlWWNN4_bwds5Rt-Y6gRnVggqgMUNkih_HnACwutpvEMlDynkwYveLsllTbTLGixWCCB-7Kmb6zcjH6uH_ZtOQ&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQFnoECDQQAQ&uoh=1",
-    "snippet": "Thanks everyone for your responses! It was interesting to read and I learned something new 🙂 ➖➖➖➖➖➖➖ Hi, I work at a European bank and ...",
-    "source": "Reddit · r/digitalnomad",
-    "title": "What happened to the \"remote work is the future\" trend?"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Nearly 2 in 5 (39%) of these job seekers report that finding a job with more remote flexibility is one of their primary motivations. The ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEzMFSrMFCn45ufMFSrMFSrJAA3xzM7____MFSrLBSDXXGbeg4neeYPTP07HAADmlp776-3qr7RqB48rAAAACnRSTlMAN09Puf____-wtHeZcQAAAIpJREFUeAHd0kUCwyAURdEY9nD2v9jy--vItG1uPBxGsJykdXttr718rhUc4iWptFby-X1UYGbAPAAAujEAGgDrPBBsJBCtDfgANFOkrK8g5Zw9WkAR4AKGIDuXtU4tUIiRniUSU7IFkZ8JcgDkjwNY5yz4GcBfzWLh-eT7E4wjcMzAwVtu3LqcowtYKw-DkgJVrgAAAABJRU5ErkJggg.png",
-      "source_info_link": "https://www.roberthalf.com/us/en/insights/research/remote-work-statistics-and-trends"
-     }
-    },
-    "date": "Jul 31, 2026",
-    "displayed_link": "https://www.roberthalf.com › insights › research › remot...",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEzMFSrMFCn45ufMFSrMFSrJAA3xzM7____MFSrLBSDXXGbeg4neeYPTP07HAADmlp776-3qr7RqB48rAAAACnRSTlMAN09Puf____-wtHeZcQAAAIpJREFUeAHd0kUCwyAURdEY9nD2v9jy--vItG1uPBxGsJykdXttr718rhUc4iWptFby-X1UYGbAPAAAujEAGgDrPBBsJBCtDfgANFOkrK8g5Zw9WkAR4AKGIDuXtU4tUIiRniUSU7IFkZ8JcgDkjwNY5yz4GcBfzWLh-eT7E4wjcMzAwVtu3LqcowtYKw-DkgJVrgAAAABJRU5ErkJggg.png",
-    "link": "https://www.roberthalf.com/us/en/insights/research/remote-work-statistics-and-trends",
-    "position": 6,
-    "read_more_link": "https://www.roberthalf.com/us/en/insights/research/remote-work-statistics-and-trends#:~:text=Nearly%202%20in%205%20(39%25),workers%20are%20clear%20for%20employers.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFVlmDh2xdckjlmPvJ4v2vPVGN0PrfHZ6M97xA50h4J9SNlO_2P3dEc5CajBoUgw3TonPzB8DCdiCmJvkbKZhFhCRIzuaMhu9RxgRPrls9CjTFpdxrWD0y1kEMzp0lEDrLGs8STCVD6Ng4IFTpaSDlaDmHrrj9FB_m7xzuvreNVeKXJnnK7SUpg&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQFnoECDAQAQ&uoh=1",
-    "snippet": "Nearly 2 in 5 (39%) of these job seekers report that finding a job with more remote flexibility is one of their primary motivations. The ...",
-    "snippet_highlighted_words": [
-     "remote",
-     "is"
-    ],
-    "source": "Robert Half",
-    "title": "Remote work statistics and trends for 2026"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Remote jobs on the rise: Tracking the shift in 2025 https://lnkd.in/dDEkY8gb After two years of decline, remote work is on the rise again in ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
-      "source_info_link": "https://www.linkedin.com/posts/linkedin-economic-graph_the-remote-work-gap-steady-demand-fewer-activity-7311046871383175168-nIHn"
-     }
-    },
-    "displayed_link": "100+ reactions · 1 year ago",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
-    "link": "https://www.linkedin.com/posts/linkedin-economic-graph_the-remote-work-gap-steady-demand-fewer-activity-7311046871383175168-nIHn",
+    "displayed_link": "Komentarų: daugiau nei 70 · prieš 2 metus",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/remotework/comments/1ds3ife/is_the_remote_job_market_falling/",
     "position": 7,
-    "read_more_link": "https://www.linkedin.com/posts/linkedin-economic-graph_the-remote-work-gap-steady-demand-fewer-activity-7311046871383175168-nIHn#:~:text=Remote%20jobs%20on%20the%20rise%3A,rise%20again%20in%20South%20Africa.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFfP2N-VM4unfULHeHMGMQm11yJ84Cq5OkkxCchdchgBaBf2KksEYkYjH4mANE0d88EZD_PF3EOQfzcxbQYxtZl_cwXgMKfK_EP1uCribDvkHHVEDQJfgvmt04P7kmu-6OFn2-ByW-bu99quIq1ZPk-C7b6i-ADKHaBcsVIVwVJkcBvzT1kU-0RJ8uGqdmOxpxSRyJW9pueJrPMdjzlsxo_l_u05JcbWSJWE5S0RViNXkq6O0WA&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQFnoECC8QAQ&uoh=1",
-    "snippet": "Remote jobs on the rise: Tracking the shift in 2025 https://lnkd.in/dDEkY8gb After two years of decline, remote work is on the rise again in ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFZYWDHJImXeR0BRkMVHy6dizBn6aiAnLxzrr4U7R3WdQ9IoWkRJqq89oNUSOH3BFDzgJgotFk-YU6fHvnAWU1rrsXz91MEENLCOZo48TfVlJbv-4rWhr7xXQNdAMYFKzxed8mYxQxbc_IXmI4qobf0SatO5NF3SGhVDGj-Dlf6NxAANAzzhhBJ8X&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQFnoECEIQAQ&uoh=1",
+    "snippet": "Remote work job listings have declined significantly, yet continue to get the most applications. So competition for remote work has increased.",
     "snippet_highlighted_words": [
-     "Remote",
-     "After",
-     "decline",
-     "remote work is"
+     "Remote work job listings have declined significantly"
     ],
-    "source": "LinkedIn · LinkedIn's Economic Graph",
-    "title": "Remote work trends: Fewer jobs, but still in demand"
+    "source": "Reddit · r/remotework",
+    "title": "Is the remote job market falling? : r/remotework"
    },
    {
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "As of March 2025, approximately 22.8% of U.S. employees worked remotely at least part of the time, equating to about 36 million individuals.",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEz____________________39v6AZ_Pn4_1wUfFmQ_FeN_DY0fvPx_p3W_K9svhUJ_CsnffCuPl0j8LvAAAABnRSTlMAaMT4_y1T58EjAAAAt0lEQVR4AX3TQRbFEAwFUEghUO3-F_uR_BMG9QaIe8weNaKNhS3WaEW5RFa_psFHhtovtEpp-IxWRgbnw4ZGWbGIaVOrVsO_ZroiZCuV9G6PIFvoa8vdUroJ2XBY38UIxV4HqzH6aU-KjmzDUKch1oeNkTIsvR5xWMAgyJYBahuW0G9IBq5Mi25FsuxgNUay0qJj27BlelMLijECzV3ZGC0fWFezysCmXgzMuSbHgp2reSz14Tv8AHPuEAbFvc5sAAAAAElFTkSuQmCC.png",
-      "source_info_link": "https://www.breeze.pm/blog/remote-work-statistics"
+      "description": "The share of Americans working remotely has dropped to its lowest since the pandemic, with fewer than 26% of households reporting remote ...",
+      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "source_info_link": "https://www.linkedin.com/posts/dantepreciado_the-remote-work-bubble-has-popped-investorsobserver-activity-7376313361979981825-cJbw"
      }
     },
-    "date": "Jul 14, 2026",
-    "displayed_link": "https://www.breeze.pm › Articles › Remote work",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEz____________________39v6AZ_Pn4_1wUfFmQ_FeN_DY0fvPx_p3W_K9svhUJ_CsnffCuPl0j8LvAAAABnRSTlMAaMT4_y1T58EjAAAAt0lEQVR4AX3TQRbFEAwFUEghUO3-F_uR_BMG9QaIe8weNaKNhS3WaEW5RFa_psFHhtovtEpp-IxWRgbnw4ZGWbGIaVOrVsO_ZroiZCuV9G6PIFvoa8vdUroJ2XBY38UIxV4HqzH6aU-KjmzDUKch1oeNkTIsvR5xWMAgyJYBahuW0G9IBq5Mi25FsuxgNUay0qJj27BlelMLijECzV3ZGC0fWFezysCmXgzMuSbHgp2reSz14Tv8AHPuEAbFvc5sAAAAAElFTkSuQmCC.png",
-    "link": "https://www.breeze.pm/blog/remote-work-statistics",
+    "displayed_link": "prieš 12 mėnesių",
+    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+    "link": "https://www.linkedin.com/posts/dantepreciado_the-remote-work-bubble-has-popped-investorsobserver-activity-7376313361979981825-cJbw",
     "position": 8,
-    "read_more_link": "https://www.breeze.pm/blog/remote-work-statistics#:~:text=As%20of%20March%202025%2C%20approximately,to%20about%2036%20million%20individuals.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVYUcmxbUKE7_2XgU2ShXfoENq5asROumASLVqtqbHpB_65LKkG0DqHUzIa3sJG8bXdBVmV7gPh9jIWqfvcbUQx0qx3r78R8HwS47lQvHCulWTzOdqBvtWE9bT2ovz1tFTET7WOw&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQFnoECC0QAQ&uoh=1",
-    "snippet": "As of March 2025, approximately 22.8% of U.S. employees worked remotely at least part of the time, equating to about 36 million individuals.",
-    "source": "breeze.pm",
-    "title": "Remote work statistics you need to know (2026) • Breeze"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuwEB6zswFVwUvyMzkKNkYXQrU88hK_f7BZTfWAHxOTSJ4iAva7JvXazNIRj5nlJ_H91sf5a222X-DMnwhz5cmL4tLnnZA4jvsMaqevoy77Cmg3cK32R-oZwH0pGheZyZrIZMCnIh6FIPPT5_rdmWTfwYzsoUCNZWnmkDW1xgq--eDIinlCY36xyQLkoJqaloPCSBOYAgH-9HsKjMDJcHpj3KDn3mXAnk7aPG8Cgk09nNQuNjKobMQ3Ki-Sgt&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQFnoECD8QAQ&uoh=1",
+    "snippet": "The share of Americans working remotely has dropped to its lowest since the pandemic, with fewer than 26% of households reporting remote ...",
+    "snippet_highlighted_words": [
+     "working",
+     "has",
+     "since",
+     "remote"
+    ],
+    "source": "LinkedIn · Dante Preciado",
+    "title": "Remote work drops to pre-pandemic levels, but demand ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "Although interest in disconnecting after work has existed for decades, the research seems to be characterized by similar weaknesses as studies ...",
+      "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+      "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11886879/"
+     }
+    },
+    "author": "cituojant A Ropponen",
+    "displayed_link": "https://pmc.ncbi.nlm.nih.gov › PM...",
+    "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11886879/",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVNrGF2FcprgMEcmF0S_KOLsajSv4nliEfF2UPUldgl7DtXeKYF9Yj70Z4vAwy73Wf_Bf_2cPQ2C66dO5XoZVkSssc4yL0onpwKshF60GVzZkJQD6rseDiSaWK4ySCHrML6YFEdI4&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQFnoECDwQAQ&uoh=1",
+    "snippet": "Although interest in disconnecting after work has existed for decades, the research seems to be characterized by similar weaknesses as studies ...",
+    "snippet_highlighted_words": [
+     "interest",
+     "after work has"
+    ],
+    "source": "National Institutes of Health (NIH) | (.gov)",
+    "title": "Remote work – the new normal needs more research - PMC"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=10&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8NMDegQIRRAW",
+   "next": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=10&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8NMDegQIOxAW",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=90&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8tMDegQIRRAU",
-    "2": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=10&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8tMDegQIRRAE",
-    "3": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=20&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8tMDegQIRRAG",
-    "4": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=30&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8tMDegQIRRAI",
-    "5": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=40&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8tMDegQIRRAK",
-    "6": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=50&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8tMDegQIRRAM",
-    "7": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=60&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8tMDegQIRRAO",
-    "8": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=70&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8tMDegQIRRAQ",
-    "9": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&ei=eiSraqSJCqjIp84P2Oj0UQ&start=80&sa=N&sstk=AS6-VmIqmub7j9l2eB7zxRc_fstBn_puK0zBvtUHnXA2lF5jEFuKXtczLA9RNpAU5fRNsnOu_0IXqYuf2wlPyga2N-aQ1nEnuDOh0Q&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ8tMDegQIRRAS"
+    "10": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=90&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8tMDegQIOxAU",
+    "2": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=10&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8tMDegQIOxAE",
+    "3": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=20&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8tMDegQIOxAG",
+    "4": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=30&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8tMDegQIOxAI",
+    "5": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=40&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8tMDegQIOxAK",
+    "6": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=50&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8tMDegQIOxAM",
+    "7": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=60&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8tMDegQIOxAO",
+    "8": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=70&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8tMDegQIOxAQ",
+    "9": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022?&sca_esv=646215d9fbd2647e&ei=rMKvat7IG86k2roP46nNoQ4&start=80&sa=N&sstk=AS6-VmINthS3a3Ilo-9jlXBwQUp2dqkJ8OWZ3USqS0ABvwx1GQQ_u27fOaiVFTHTOrSKI_9zwZW4ARucJADgiEMvCSIZdVik-41nYg&ved=2ahUKEwjezu-hhv2WAxVOklYBHeNUM-QQ8tMDegQIOxAS"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmIyTTViRmhTVm10WVQxcFlVMWh3YVV4b1IyOVhURlZMTlZKT1Z6VkVhbmxQTkV4c05sbHRYMkpCVW5GQlFWZFBhV3BWWWxwUFFuaFZiV3RqTVdaRVZITlhjMjFJVVVOQ1RHNUVNelZmZVVnM1ZIaFdOWE5hUm1SeVVSSVdaV2xUY21GeFUwcERjV3BKY0RnMFVESlBhakJWVVJvaVFVUnpjamxtVW01eGNpMWpPRkF6VDFNdFkyUklVRTlNTVZjdGEyRjFZMlowZHciLCJmY3YiOiIzIiwiZWkiOiJlaVNyYXFTSkNxaklwODRQMk9qMFVRIiwicWMiOiJDanhvWVhNZ2MyVmhjbU5vSUdsdWRHVnlaWE4wSUdsdUlISmxiVzkwWlNCM2IzSnJJR0psWlc0Z1pHVmpiR2x1YVc1bklITnBibU5sSURJd01qSVFBSDFyM1RjXyIsInF1ZXN0aW9uIjoiSXMgcmVtb3RlIHdvcmsgZHlpbmcgaW4gMjAyNj8iLCJsayI6IkdoeHBjeUJ5WlcxdmRHVWdkMjl5YXlCa2VXbHVaeUJwYmlBeU1ESTIiLCJicyI6ImM1MlBQUXZDTUJSRmNjM2tYUHk0X29NYXRHdHdjT2d1T01jbWJaLTJlWkpHUXYtOUxTSjBLdUotRHZjZW9jUTY3LUJ0eThFaXNuX0E5T1Fxa0lOTVphYmtKbG5SRENET0FpZHZVYjZhcHY5aWQ3NTFNTFpveUEyb2tydGtxLWNaVVluOXRlNHhUT1VYZEl4YWU0UEFLTWtaNklrRVQxVWQ0RGdxS1pNMGZpUUtQMHFDeFhFY0d2OE1ScXRkajRMYnAzWmtPMVEyaERIT2t3R1gwMm9scy1RUV94Q1hpemMiLCJpZCI6ImZjX2VpU3JhcVNKQ3FqSXA4NFAyT2owVVFfNSJ9",
-    "page_token": "viep5nicHdDPboIwAIDx7GU8Kn_URROziFCUSI2FttjLUlsVaJE62RBue5c91Z5mZvcvv8P3_aOLq_p9afKmMff5aNS27fBS1xd9Goq6GvF7dxUjwbU-cqHm09ep_XYWi-Az8Fa3jbfHxhAfWWkIsqPFgh3OCxna98RqtrRkHq10y3qyRitbi1LTpLM_48q4opo8pCK3Z2-wDfqkemRZ7x1oJfNEzUKhcsTDnECK-6Nq7gRPrsxBNqb1mGuY4gBOiYNg2iuLBzMQ65yfMhZRsOwobXqakkyqyHAf3LiFUlLJQhZ2uHe98uDuxzJkJvUlRCp30xI7kMSOCGCU-FGLbeYGOdOcwO6QgTRR8MGVbnc-2sdqdosBQWEReWgNux1lKAESMMfAE9WbpzslJbCIXlosRFuylh3UCA3O4mvhDv5vLt7PVTM3H_XlD0sBgwo",
-    "question": "Is remote work dying in 2026?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=viep5nicHdDPboIwAIDx7GU8Kn_URROziFCUSI2FttjLUlsVaJE62RBue5c91Z5mZvcvv8P3_aOLq_p9afKmMff5aNS27fBS1xd9Goq6GvF7dxUjwbU-cqHm09ep_XYWi-Az8Fa3jbfHxhAfWWkIsqPFgh3OCxna98RqtrRkHq10y3qyRitbi1LTpLM_48q4opo8pCK3Z2-wDfqkemRZ7x1oJfNEzUKhcsTDnECK-6Nq7gRPrsxBNqb1mGuY4gBOiYNg2iuLBzMQ65yfMhZRsOwobXqakkyqyHAf3LiFUlLJQhZ2uHe98uDuxzJkJvUlRCp30xI7kMSOCGCU-FGLbeYGOdOcwO6QgTRR8MGVbnc-2sdqdosBQWEReWgNux1lKAESMMfAE9WbpzslJbCIXlosRFuylh3UCA3O4mvhDv5vLt7PVTM3H_XlD0sBgwo",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmIyTTViRmhTVm10WVQxcFlVMWh3YVV4b1IyOVhURlZMTlZKT1Z6VkVhbmxQTkV4c05sbHRYMkpCVW5GQlFWZFBhV3BWWWxwUFFuaFZiV3RqTVdaRVZITlhjMjFJVVVOQ1RHNUVNelZmZVVnM1ZIaFdOWE5hUm1SeVVSSVdaV2xUY21GeFUwcERjV3BKY0RnMFVESlBhakJWVVJvaVFVUnpjamxtVW01eGNpMWpPRkF6VDFNdFkyUklVRTlNTVZjdGEyRjFZMlowZHciLCJmY3YiOiIzIiwiZWkiOiJlaVNyYXFTSkNxaklwODRQMk9qMFVRIiwicWMiOiJDanhvWVhNZ2MyVmhjbU5vSUdsdWRHVnlaWE4wSUdsdUlISmxiVzkwWlNCM2IzSnJJR0psWlc0Z1pHVmpiR2x1YVc1bklITnBibU5sSURJd01qSVFBSDFyM1RjXyIsInF1ZXN0aW9uIjoiSXMgcmVtb3RlIHdvcmsgZHlpbmcgaW4gMjAyNj8iLCJsayI6IkdoeHBjeUJ5WlcxdmRHVWdkMjl5YXlCa2VXbHVaeUJwYmlBeU1ESTIiLCJicyI6ImM1MlBQUXZDTUJSRmNjM2tYUHk0X29NYXRHdHdjT2d1T01jbWJaLTJlWkpHUXYtOUxTSjBLdUotRHZjZW9jUTY3LUJ0eThFaXNuX0E5T1Fxa0lOTVphYmtKbG5SRENET0FpZHZVYjZhcHY5aWQ3NTFNTFpveUEyb2tydGtxLWNaVVluOXRlNHhUT1VYZEl4YWU0UEFLTWtaNklrRVQxVWQ0RGdxS1pNMGZpUUtQMHFDeFhFY0d2OE1ScXRkajRMYnAzWmtPMVEyaERIT2t3R1gwMm9scy1RUV94Q1hpemMiLCJpZCI6ImZjX2VpU3JhcVNKQ3FqSXA4NFAyT2owVVFfNSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1gwbG5Wa1ZMWmt0UVZVZExVQzFsY25FdFZEaFJhbWxWTlhsT2IzTTVPWFZrVWs1bkxXcFJWamRrWDBrNFZFTlRaM1ZLZG1GYWJHNUxVVVJqWmt0NE5tZHFOMXBGU0c5UFVrSk1SbXRGV21SNlJsaGxWVkJ2T0d0c2R4SVhjazFMZG1GME4wbEhPRFpyTW5KdlVEUTJiazV2VVRRYUlrRkVjM0k1WmxNd1lqTjVVa2hvTlVrMFV6WnVRbWxETlhaNE9ESkVkUzF1ZW5jIiwiZmN2IjoiMyIsImVpIjoick1LdmF0N0lHODZrMnJvUDQ2bk5vUTQiLCJxYyI6IkNqeG9ZWE1nYzJWaGNtTm9JR2x1ZEdWeVpYTjBJR2x1SUhKbGJXOTBaU0IzYjNKcklHSmxaVzRnWkdWamJHbHVhVzVuSUhOcGJtTmxJREl3TWpJUUFIMC1PVDBfIiwicXVlc3Rpb24iOiJBcmUgcmVtb3RlIGpvYnMgZHdpbmRsaW5nPyIsImxrIjoiR2hsaGNtVWdjbVZ0YjNSbElHcHZZbk1nWkhkcGJtUnNhVzVuIiwiYnMiOiJjNVdQc1c0Q01ReUcxVFZMNlVnSzZCOWhLbzBFRWxQRVVnRXZjUE8xOFYwQ1hJeWNTRkhmdnJrQnFVTTdNSGl4UF9fLXJIWks3NFVnTkhBbW5Qa3p3WlVRM1RYRTNwcFhQVzNfbTZxVDJqUy16UmlKN0dzSlJaZlFzYUN3WE5BSkRfQThFSmJOeDJHRkVHSFdabXZOaTM0dW5iX3pZMC1SV2pmLUd5RWhaQ1NHYjhVaE0zcXEtYl91UTBMdk15SVhhOTcxVzNsc1IxazFQeVpVbXlyekpkU20tZ2NjM1lSU0NoeXRXZWhaelJ2dF9nUW1UejgiLCJpZCI6ImZjX3JNS3ZhdDdJRzg2azJyb1A0Nm5Ob1E0XzYifQ==",
+    "page_token": "GWnvpXicHdDbToMwAIDh-DK7HGUEzJYsRgS61K1ooeVwY6DlMI6dMGHc-S4-lU_j4uV_9SX_909z7urfh7AcRznsFGWapnXR90WTrXnfKslw67jCk6ZJE17vjEdDfcr53h4m86WfzHcqJbMI8G0-xp3ZZlQOvCI5B3rv2ugS0dlI1WjkVaMyyiQO5SWmcqGL8xYcRM2Y6DAlJz-UZwZ1g1F1k9rb13sDoSHX96PxBGc_3cwggyROmHRiKiq_2TYRZfrRj9-PjGEXilq0KBcLngWVZqRJm8LZ8aC0MgcdAlpMARyvnmbq2C9DYp88R0PY0-JSWAKRpdgkC7ql6jPAre6mqg3gGZnkgG9ucBcpCohWorTdXjGzZ9oSLwZlJeoaCMscceh0q5x_7bXV_7H9R96OO_nZF39TmHlZ",
+    "question": "Are remote jobs dwindling?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GWnvpXicHdDbToMwAIDh-DK7HGUEzJYsRgS61K1ooeVwY6DlMI6dMGHc-S4-lU_j4uV_9SX_909z7urfh7AcRznsFGWapnXR90WTrXnfKslw67jCk6ZJE17vjEdDfcr53h4m86WfzHcqJbMI8G0-xp3ZZlQOvCI5B3rv2ugS0dlI1WjkVaMyyiQO5SWmcqGL8xYcRM2Y6DAlJz-UZwZ1g1F1k9rb13sDoSHX96PxBGc_3cwggyROmHRiKiq_2TYRZfrRj9-PjGEXilq0KBcLngWVZqRJm8LZ8aC0MgcdAlpMARyvnmbq2C9DYp88R0PY0-JSWAKRpdgkC7ql6jPAre6mqg3gGZnkgG9ucBcpCohWorTdXjGzZ9oSLwZlJeoaCMscceh0q5x_7bXV_7H9R96OO_nZF39TmHlZ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1gwbG5Wa1ZMWmt0UVZVZExVQzFsY25FdFZEaFJhbWxWTlhsT2IzTTVPWFZrVWs1bkxXcFJWamRrWDBrNFZFTlRaM1ZLZG1GYWJHNUxVVVJqWmt0NE5tZHFOMXBGU0c5UFVrSk1SbXRGV21SNlJsaGxWVkJ2T0d0c2R4SVhjazFMZG1GME4wbEhPRFpyTW5KdlVEUTJiazV2VVRRYUlrRkVjM0k1WmxNd1lqTjVVa2hvTlVrMFV6WnVRbWxETlhaNE9ESkVkUzF1ZW5jIiwiZmN2IjoiMyIsImVpIjoick1LdmF0N0lHODZrMnJvUDQ2bk5vUTQiLCJxYyI6IkNqeG9ZWE1nYzJWaGNtTm9JR2x1ZEdWeVpYTjBJR2x1SUhKbGJXOTBaU0IzYjNKcklHSmxaVzRnWkdWamJHbHVhVzVuSUhOcGJtTmxJREl3TWpJUUFIMC1PVDBfIiwicXVlc3Rpb24iOiJBcmUgcmVtb3RlIGpvYnMgZHdpbmRsaW5nPyIsImxrIjoiR2hsaGNtVWdjbVZ0YjNSbElHcHZZbk1nWkhkcGJtUnNhVzVuIiwiYnMiOiJjNVdQc1c0Q01ReUcxVFZMNlVnSzZCOWhLbzBFRWxQRVVnRXZjUE8xOFYwQ1hJeWNTRkhmdnJrQnFVTTdNSGl4UF9fLXJIWks3NFVnTkhBbW5Qa3p3WlVRM1RYRTNwcFhQVzNfbTZxVDJqUy16UmlKN0dzSlJaZlFzYUN3WE5BSkRfQThFSmJOeDJHRkVHSFdabXZOaTM0dW5iX3pZMC1SV2pmLUd5RWhaQ1NHYjhVaE0zcXEtYl91UTBMdk15SVhhOTcxVzNsc1IxazFQeVpVbXlyekpkU20tZ2NjM1lSU0NoeXRXZWhaelJ2dF9nUW1UejgiLCJpZCI6ImZjX3JNS3ZhdDdJRzg2azJyb1A0Nm5Ob1E0XzYifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmIyTTViRmhTVm10WVQxcFlVMWh3YVV4b1IyOVhURlZMTlZKT1Z6VkVhbmxQTkV4c05sbHRYMkpCVW5GQlFWZFBhV3BWWWxwUFFuaFZiV3RqTVdaRVZITlhjMjFJVVVOQ1RHNUVNelZmZVVnM1ZIaFdOWE5hUm1SeVVSSVdaV2xUY21GeFUwcERjV3BKY0RnMFVESlBhakJWVVJvaVFVUnpjamxtVW01eGNpMWpPRkF6VDFNdFkyUklVRTlNTVZjdGEyRjFZMlowZHciLCJmY3YiOiIzIiwiZWkiOiJlaVNyYXFTSkNxaklwODRQMk9qMFVRIiwicWMiOiJDanhvWVhNZ2MyVmhjbU5vSUdsdWRHVnlaWE4wSUdsdUlISmxiVzkwWlNCM2IzSnJJR0psWlc0Z1pHVmpiR2x1YVc1bklITnBibU5sSURJd01qSVFBSDFyM1RjXyIsInF1ZXN0aW9uIjoiQXJlIGZ1bGx5IHJlbW90ZSBqb2JzIGRlY2xpbmluZz8iLCJsayI6IkdoOWhjbVVnWm5Wc2JIa2djbVZ0YjNSbElHcHZZbk1nWkdWamJHbHVhVzVuIiwiYnMiOiJjNTJQUFF2Q01CUkZjYzNrWFB5NF9vTWF0R3R3Y09ndU9NY21iWi0yZVpKR1F2LTlMU0owS3VKLUR2Y2VvY1E2Ny1CdHk4RWlzbl9BOU9RcWtJTk1aYWJrSmxuUkRDRE9BaWR2VWI2YXB2OWlkNzUxTUxab3lBMm9rcnRrcS1jWlVZbjl0ZTR4VE9VWGRJeGFlNFBBS01rWjZJa0VUMVVkNERncUtaTTBmaVFLUDBxQ3hYRWNHdjhNUnF0ZGo0TGJwM1prTzFRMmhESE9rd0dYMDJvbHMtUVFfeENYaXpjIiwiaWQiOiJmY19laVNyYXFTSkNxaklwODRQMk9qMFVRXzUifQ==",
-    "page_token": "05wOOHicHdDBboIwAIDh7GU8KhV10cQsYVCRjTJqW2svSylqlYJVGYi3vcueak8zs_N_-fJ__5hDVfw-1bqu7XU2GLRt29-fTnuz7atTOZDXrlIDJY3JpCpmk-cJeNmpefAVeK_npZdSa5mPHQK1kzG44gBfKM_phmqShYLEbiRVGVUxtQYtgJ8wb7SiGyc7skb6uUjo1GCDKHHqY3wAHaNWbznt8qBus7voBIki7qJYBhjKUodZ6H1s1-x9RQRD3JY5gYYCeEc-G-UhQ2KBagzZGZdozJ0ISzodUo5vshIHFWhPVqzBYdRxoN_Su-nIULmiMOnDO85dqFE5Pccc4UALIxnqNhySVYFusjBt4uM0Lh4dMrw4RB4OUZesBY6BtcnaXhk1bRwKQNgSEDAdE5O69M4aUQi3t1PN3O3935x_7sp6Zi-n_R9vjILQ",
-    "question": "Are fully remote jobs declining?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=05wOOHicHdDBboIwAIDh7GU8KhV10cQsYVCRjTJqW2svSylqlYJVGYi3vcueak8zs_N_-fJ__5hDVfw-1bqu7XU2GLRt29-fTnuz7atTOZDXrlIDJY3JpCpmk-cJeNmpefAVeK_npZdSa5mPHQK1kzG44gBfKM_phmqShYLEbiRVGVUxtQYtgJ8wb7SiGyc7skb6uUjo1GCDKHHqY3wAHaNWbznt8qBus7voBIki7qJYBhjKUodZ6H1s1-x9RQRD3JY5gYYCeEc-G-UhQ2KBagzZGZdozJ0ISzodUo5vshIHFWhPVqzBYdRxoN_Su-nIULmiMOnDO85dqFE5Pccc4UALIxnqNhySVYFusjBt4uM0Lh4dMrw4RB4OUZesBY6BtcnaXhk1bRwKQNgSEDAdE5O69M4aUQi3t1PN3O3935x_7sp6Zi-n_R9vjILQ",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmIyTTViRmhTVm10WVQxcFlVMWh3YVV4b1IyOVhURlZMTlZKT1Z6VkVhbmxQTkV4c05sbHRYMkpCVW5GQlFWZFBhV3BWWWxwUFFuaFZiV3RqTVdaRVZITlhjMjFJVVVOQ1RHNUVNelZmZVVnM1ZIaFdOWE5hUm1SeVVSSVdaV2xUY21GeFUwcERjV3BKY0RnMFVESlBhakJWVVJvaVFVUnpjamxtVW01eGNpMWpPRkF6VDFNdFkyUklVRTlNTVZjdGEyRjFZMlowZHciLCJmY3YiOiIzIiwiZWkiOiJlaVNyYXFTSkNxaklwODRQMk9qMFVRIiwicWMiOiJDanhvWVhNZ2MyVmhjbU5vSUdsdWRHVnlaWE4wSUdsdUlISmxiVzkwWlNCM2IzSnJJR0psWlc0Z1pHVmpiR2x1YVc1bklITnBibU5sSURJd01qSVFBSDFyM1RjXyIsInF1ZXN0aW9uIjoiQXJlIGZ1bGx5IHJlbW90ZSBqb2JzIGRlY2xpbmluZz8iLCJsayI6IkdoOWhjbVVnWm5Wc2JIa2djbVZ0YjNSbElHcHZZbk1nWkdWamJHbHVhVzVuIiwiYnMiOiJjNTJQUFF2Q01CUkZjYzNrWFB5NF9vTWF0R3R3Y09ndU9NY21iWi0yZVpKR1F2LTlMU0owS3VKLUR2Y2VvY1E2Ny1CdHk4RWlzbl9BOU9RcWtJTk1aYWJrSmxuUkRDRE9BaWR2VWI2YXB2OWlkNzUxTUxab3lBMm9rcnRrcS1jWlVZbjl0ZTR4VE9VWGRJeGFlNFBBS01rWjZJa0VUMVVkNERncUtaTTBmaVFLUDBxQ3hYRWNHdjhNUnF0ZGo0TGJwM1prTzFRMmhESE9rd0dYMDJvbHMtUVFfeENYaXpjIiwiaWQiOiJmY19laVNyYXFTSkNxaklwODRQMk9qMFVRXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1gwbG5Wa1ZMWmt0UVZVZExVQzFsY25FdFZEaFJhbWxWTlhsT2IzTTVPWFZrVWs1bkxXcFJWamRrWDBrNFZFTlRaM1ZLZG1GYWJHNUxVVVJqWmt0NE5tZHFOMXBGU0c5UFVrSk1SbXRGV21SNlJsaGxWVkJ2T0d0c2R4SVhjazFMZG1GME4wbEhPRFpyTW5KdlVEUTJiazV2VVRRYUlrRkVjM0k1WmxNd1lqTjVVa2hvTlVrMFV6WnVRbWxETlhaNE9ESkVkUzF1ZW5jIiwiZmN2IjoiMyIsImVpIjoick1LdmF0N0lHODZrMnJvUDQ2bk5vUTQiLCJxYyI6IkNqeG9ZWE1nYzJWaGNtTm9JR2x1ZEdWeVpYTjBJR2x1SUhKbGJXOTBaU0IzYjNKcklHSmxaVzRnWkdWamJHbHVhVzVuSUhOcGJtTmxJREl3TWpJUUFIMC1PVDBfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdHJlbmRzIGZvciB3b3JrIGZyb20gaG9tZSAoV0ZIKSBpbiAyMDI2PyIsImxrIjoiR2c5M1ptZ2dkSEpsYm1SeklESXdNalkiLCJicyI6ImM1V1BzVzRDTVF5RzFUVkw2VWdLNkI5aEtvMEVFbFBFVWdFdmNQTzE4VjBDWEl5Y1NGSGZ2cmtCcVVNN01IaXhQX18tckhaSzc0VWdOSEFtblBrendaVVEzVFhFM3BwWFBXM19tNnFUMmpTLXpSaUo3R3NKUlpmUXNhQ3dYTkFKRF9BOEVKYk54MkdGRUdIV1ptdk5pMzR1bmJfelkwLVJXamYtR3lFaFpDU0diOFVoTTNxcS1iX3VRMEx2TXlJWGE5NzFXM2xzUjFrMVB5WlVteXJ6SmRTbS1nY2MzWVJTQ2h5dFdlaFp6UnZ0X2dRbVR6OCIsImlkIjoiZmNfck1LdmF0N0lHODZrMnJvUDQ2bk5vUTRfNiJ9",
+    "page_token": "tLLfs3icHdBdboIwAADg7DI-yk_VZSZmGUohXaijhYp9WaAICKUQNHb0bXfZqXaaJfuO8H3_yKvqfp-y5n4fb1vL0lov62Go5WUpht7Kb7MSlsilLHLRbTfPG-e1Ejv_pr39oL04HUd2IDalzlScOBB9s6eM7FkGAbZZIxT6iPrywdx4laQjKFI2sRDJMpCEG9_wLvo6hizjLZlSh58pQ6qESOFQ9kzxKmaMEx8C4SLJA9wQd8SXQ0NjF67PJ-dRhojiVs6p7OaIyXfWYj-xmc7TdZc73I87SfMWbTB8McI520xBnRoJcrejECBMAW_KQ4mIqd3coLlw3mzcr4-F49vBFXkkxPPxxJPMhW3pEhsHUEeB7IXtm8jAtvDxKgk9FWXIW1TisQOL_7HdZ9Xft-M01H9UTne7",
+    "question": "What are the trends for work from home (WFH) in 2026?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tLLfs3icHdBdboIwAADg7DI-yk_VZSZmGUohXaijhYp9WaAICKUQNHb0bXfZqXaaJfuO8H3_yKvqfp-y5n4fb1vL0lov62Go5WUpht7Kb7MSlsilLHLRbTfPG-e1Ejv_pr39oL04HUd2IDalzlScOBB9s6eM7FkGAbZZIxT6iPrywdx4laQjKFI2sRDJMpCEG9_wLvo6hizjLZlSh58pQ6qESOFQ9kzxKmaMEx8C4SLJA9wQd8SXQ0NjF67PJ-dRhojiVs6p7OaIyXfWYj-xmc7TdZc73I87SfMWbTB8McI520xBnRoJcrejECBMAW_KQ4mIqd3coLlw3mzcr4-F49vBFXkkxPPxxJPMhW3pEhsHUEeB7IXtm8jAtvDxKgk9FWXIW1TisQOL_7HdZ9Xft-M01H9UTne7",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1gwbG5Wa1ZMWmt0UVZVZExVQzFsY25FdFZEaFJhbWxWTlhsT2IzTTVPWFZrVWs1bkxXcFJWamRrWDBrNFZFTlRaM1ZLZG1GYWJHNUxVVVJqWmt0NE5tZHFOMXBGU0c5UFVrSk1SbXRGV21SNlJsaGxWVkJ2T0d0c2R4SVhjazFMZG1GME4wbEhPRFpyTW5KdlVEUTJiazV2VVRRYUlrRkVjM0k1WmxNd1lqTjVVa2hvTlVrMFV6WnVRbWxETlhaNE9ESkVkUzF1ZW5jIiwiZmN2IjoiMyIsImVpIjoick1LdmF0N0lHODZrMnJvUDQ2bk5vUTQiLCJxYyI6IkNqeG9ZWE1nYzJWaGNtTm9JR2x1ZEdWeVpYTjBJR2x1SUhKbGJXOTBaU0IzYjNKcklHSmxaVzRnWkdWamJHbHVhVzVuSUhOcGJtTmxJREl3TWpJUUFIMC1PVDBfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdHJlbmRzIGZvciB3b3JrIGZyb20gaG9tZSAoV0ZIKSBpbiAyMDI2PyIsImxrIjoiR2c5M1ptZ2dkSEpsYm1SeklESXdNalkiLCJicyI6ImM1V1BzVzRDTVF5RzFUVkw2VWdLNkI5aEtvMEVFbFBFVWdFdmNQTzE4VjBDWEl5Y1NGSGZ2cmtCcVVNN01IaXhQX18tckhaSzc0VWdOSEFtblBrendaVVEzVFhFM3BwWFBXM19tNnFUMmpTLXpSaUo3R3NKUlpmUXNhQ3dYTkFKRF9BOEVKYk54MkdGRUdIV1ptdk5pMzR1bmJfelkwLVJXamYtR3lFaFpDU0diOFVoTTNxcS1iX3VRMEx2TXlJWGE5NzFXM2xzUjFrMVB5WlVteXJ6SmRTbS1nY2MzWVJTQ2h5dFdlaFp6UnZ0X2dRbVR6OCIsImlkIjoiZmNfck1LdmF0N0lHODZrMnJvUDQ2bk5vUTRfNiJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmIyTTViRmhTVm10WVQxcFlVMWh3YVV4b1IyOVhURlZMTlZKT1Z6VkVhbmxQTkV4c05sbHRYMkpCVW5GQlFWZFBhV3BWWWxwUFFuaFZiV3RqTVdaRVZITlhjMjFJVVVOQ1RHNUVNelZmZVVnM1ZIaFdOWE5hUm1SeVVSSVdaV2xUY21GeFUwcERjV3BKY0RnMFVESlBhakJWVVJvaVFVUnpjamxtVW01eGNpMWpPRkF6VDFNdFkyUklVRTlNTVZjdGEyRjFZMlowZHciLCJmY3YiOiIzIiwiZWkiOiJlaVNyYXFTSkNxaklwODRQMk9qMFVRIiwicWMiOiJDanhvWVhNZ2MyVmhjbU5vSUdsdWRHVnlaWE4wSUdsdUlISmxiVzkwWlNCM2IzSnJJR0psWlc0Z1pHVmpiR2x1YVc1bklITnBibU5sSURJd01qSVFBSDFyM1RjXyIsInF1ZXN0aW9uIjoiV2h5IGlzIElUIHNvIGhhcmQgdG8gZmluZCBhIHJlbW90ZSBqb2IgcmlnaHQgbm93PyIsImxrIjoiR2pCM2FIa2dhWE1nYVhRZ2MyOGdhR0Z5WkNCMGJ5Qm1hVzVrSUdFZ2NtVnRiM1JsSUdwdllpQnlhV2RvZENCdWIzYyIsImJzIjoiYzUyUFBRdkNNQlJGY2Mza1hQeTRfb01hdEd0d2NPZ3VPTWNtYlotMmVaSkdRdi05TFNKMEt1Si1EdmNlb2NRNjctQnR5OEVpc25fQTlPUXFrSU5NWmFia0psblJEQ0RPQWlkdlViNmFwdjlpZDc1MU1MWm95QTJva3J0a3EtY1pVWW45dGU0eFRPVVhkSXhhZTRQQUtNa1o2SWtFVDFVZDREZ3FLWk0wZmlRS1AwcUN4WEVjR3Y4TVJxdGRqNExicDNaa08xUTJoREhPa3dHWDAyb2xzLVFRX3hDWGl6YyIsImlkIjoiZmNfZWlTcmFxU0pDcWpJcDg0UDJPajBVUV81In0=",
-    "page_token": "735Kk3icHdBRjqIwGADg7GXmcSww40YTM0kXQRlbhkL_Ql82tagoRRhtRHibG8wh9lR7mjV7gi_5vv6Y47n---O7sra7zieTvu-fD217MLtn3TYTdR3OeqKVMVul6_n059R52-vF8lbgXxeNE9514DOUovKDodLfgBnLZbUmQG_Ug0qCuStumizDlsHaSkH3QkBU5IdBe0BoID-Tk2yLxr5KJ7rtTGIVRHIXIpuFTg21RGIlX1IP2k0WuTQEl-RSpWA-cgcK5WOsQzlId3aJQ2MKV9_BCVxR969ixVEJs3RnmNoIYA9bxcvovUT6noww3fr8JeZVT3IyyoCdHtY7M9WZjZgrwI3ICcpdWcF5jXTjXGkmT-pU4WUljQI6FHmQpTW9q9r0sc8SUs8-SQAsPEaYregQC8kJYDd1mOAeH2nQXWTYe9sginhoLCA4pk6An_b6tvCe_k8vfu8bO-8u7eEfRVGLnQ",
-    "question": "Why is IT so hard to find a remote job right now?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=735Kk3icHdBRjqIwGADg7GXmcSww40YTM0kXQRlbhkL_Ql82tagoRRhtRHibG8wh9lR7mjV7gi_5vv6Y47n---O7sra7zieTvu-fD217MLtn3TYTdR3OeqKVMVul6_n059R52-vF8lbgXxeNE9514DOUovKDodLfgBnLZbUmQG_Ug0qCuStumizDlsHaSkH3QkBU5IdBe0BoID-Tk2yLxr5KJ7rtTGIVRHIXIpuFTg21RGIlX1IP2k0WuTQEl-RSpWA-cgcK5WOsQzlId3aJQ2MKV9_BCVxR969ixVEJs3RnmNoIYA9bxcvovUT6noww3fr8JeZVT3IyyoCdHtY7M9WZjZgrwI3ICcpdWcF5jXTjXGkmT-pU4WUljQI6FHmQpTW9q9r0sc8SUs8-SQAsPEaYregQC8kJYDd1mOAeH2nQXWTYe9sginhoLCA4pk6An_b6tvCe_k8vfu8bO-8u7eEfRVGLnQ",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmIyTTViRmhTVm10WVQxcFlVMWh3YVV4b1IyOVhURlZMTlZKT1Z6VkVhbmxQTkV4c05sbHRYMkpCVW5GQlFWZFBhV3BWWWxwUFFuaFZiV3RqTVdaRVZITlhjMjFJVVVOQ1RHNUVNelZmZVVnM1ZIaFdOWE5hUm1SeVVSSVdaV2xUY21GeFUwcERjV3BKY0RnMFVESlBhakJWVVJvaVFVUnpjamxtVW01eGNpMWpPRkF6VDFNdFkyUklVRTlNTVZjdGEyRjFZMlowZHciLCJmY3YiOiIzIiwiZWkiOiJlaVNyYXFTSkNxaklwODRQMk9qMFVRIiwicWMiOiJDanhvWVhNZ2MyVmhjbU5vSUdsdWRHVnlaWE4wSUdsdUlISmxiVzkwWlNCM2IzSnJJR0psWlc0Z1pHVmpiR2x1YVc1bklITnBibU5sSURJd01qSVFBSDFyM1RjXyIsInF1ZXN0aW9uIjoiV2h5IGlzIElUIHNvIGhhcmQgdG8gZmluZCBhIHJlbW90ZSBqb2IgcmlnaHQgbm93PyIsImxrIjoiR2pCM2FIa2dhWE1nYVhRZ2MyOGdhR0Z5WkNCMGJ5Qm1hVzVrSUdFZ2NtVnRiM1JsSUdwdllpQnlhV2RvZENCdWIzYyIsImJzIjoiYzUyUFBRdkNNQlJGY2Mza1hQeTRfb01hdEd0d2NPZ3VPTWNtYlotMmVaSkdRdi05TFNKMEt1Si1EdmNlb2NRNjctQnR5OEVpc25fQTlPUXFrSU5NWmFia0psblJEQ0RPQWlkdlViNmFwdjlpZDc1MU1MWm95QTJva3J0a3EtY1pVWW45dGU0eFRPVVhkSXhhZTRQQUtNa1o2SWtFVDFVZDREZ3FLWk0wZmlRS1AwcUN4WEVjR3Y4TVJxdGRqNExicDNaa08xUTJoREhPa3dHWDAyb2xzLVFRX3hDWGl6YyIsImlkIjoiZmNfZWlTcmFxU0pDcWpJcDg0UDJPajBVUV81In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1gwbG5Wa1ZMWmt0UVZVZExVQzFsY25FdFZEaFJhbWxWTlhsT2IzTTVPWFZrVWs1bkxXcFJWamRrWDBrNFZFTlRaM1ZLZG1GYWJHNUxVVVJqWmt0NE5tZHFOMXBGU0c5UFVrSk1SbXRGV21SNlJsaGxWVkJ2T0d0c2R4SVhjazFMZG1GME4wbEhPRFpyTW5KdlVEUTJiazV2VVRRYUlrRkVjM0k1WmxNd1lqTjVVa2hvTlVrMFV6WnVRbWxETlhaNE9ESkVkUzF1ZW5jIiwiZmN2IjoiMyIsImVpIjoick1LdmF0N0lHODZrMnJvUDQ2bk5vUTQiLCJxYyI6IkNqeG9ZWE1nYzJWaGNtTm9JR2x1ZEdWeVpYTjBJR2x1SUhKbGJXOTBaU0IzYjNKcklHSmxaVzRnWkdWamJHbHVhVzVuSUhOcGJtTmxJREl3TWpJUUFIMC1PVDBfIiwicXVlc3Rpb24iOiJXaHkgaXMgaXQgc28gaGFyZCB0byBnZXQgYSByZW1vdGUgam9iIHJpZ2h0IG5vdz8iLCJsayI6IkdpOTNhSGtnYVhNZ2FYUWdjMjhnYUdGeVpDQjBieUJuWlhRZ1lTQnlaVzF2ZEdVZ2FtOWlJSEpwWjJoMElHNXZkdyIsImJzIjoiYzVXUHNXNENNUXlHMVRWTDZVZ0s2QjloS28wRUVsUEVVZ0V2Y1BPMThWMENYSXljU0ZIZnZya0JxVU03TUhpeFBfXy1ySFpLNzRVZ05IQW1uUGt6d1pVUTNUWEUzcHBYUFczX202cVQyalMtelJpSjdHc0pSWmZRc2FDd1hOQUpEX0E4RUpiTngyR0ZFR0hXWm12TmkzNHVuYl96WTAtUldqZi1HeUVoWkNTR2I4VWhNM3FxLWJfdVEwTHZNeUlYYTk3MVczbHNSMWsxUHlaVW15cnpKZFNtLWdjYzNZUlNDaHl0V2VoWnpSdnRfZ1FtVHo4IiwiaWQiOiJmY19yTUt2YXQ3SUc4Nmsycm9QNDZuTm9RNF82In0=",
+    "page_token": "vQrwZHicHdBNbqMwAEBh9TJdNnYIaRMpqsoATqPUCGMb8GZkDIQE86NAQ_CuV5gzzKl6mqnmBu97X3_1ua2_H_5U49gP28VimqanU9eddPGkumYhh7lVCyW1zqSqt-vnNXwt1c67KefXVTkh63vuEhAlFYpMZQex7SjIpwhhJoCfhFY-Zw1eHWkIpeFULP2INoej9PE75m8WR1VJ4hTmrb6kl2odcR7l0OnT5f2cxodPaRwZo_uq8DZ7muQfucm1SnySRtAE7uFK9s4hRj7I4opKL78cmU856gcFmC3AJsliMRCk7GOSt5L3oKjH98DTmLZiJd03k4H7NTS4k0Z7RQwnBu5jCoRHPc4K_mLjWrvRDO0PfQIU-eKnz_KqfKZsXKY_uoipFW6GWTWbELvikzYbgp3uHDJi1EU3bPliKw-mwV4jGotAIlKqWlgYwY6BPihqcgvDx1Lddtbj_9e732Uzbvtrd_oHfsiL1g",
+    "question": "Why is it so hard to get a remote job right now?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vQrwZHicHdBNbqMwAEBh9TJdNnYIaRMpqsoATqPUCGMb8GZkDIQE86NAQ_CuV5gzzKl6mqnmBu97X3_1ua2_H_5U49gP28VimqanU9eddPGkumYhh7lVCyW1zqSqt-vnNXwt1c67KefXVTkh63vuEhAlFYpMZQex7SjIpwhhJoCfhFY-Zw1eHWkIpeFULP2INoej9PE75m8WR1VJ4hTmrb6kl2odcR7l0OnT5f2cxodPaRwZo_uq8DZ7muQfucm1SnySRtAE7uFK9s4hRj7I4opKL78cmU856gcFmC3AJsliMRCk7GOSt5L3oKjH98DTmLZiJd03k4H7NTS4k0Z7RQwnBu5jCoRHPc4K_mLjWrvRDO0PfQIU-eKnz_KqfKZsXKY_uoipFW6GWTWbELvikzYbgp3uHDJi1EU3bPliKw-mwV4jGotAIlKqWlgYwY6BPihqcgvDx1Lddtbj_9e732Uzbvtrd_oHfsiL1g",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1gwbG5Wa1ZMWmt0UVZVZExVQzFsY25FdFZEaFJhbWxWTlhsT2IzTTVPWFZrVWs1bkxXcFJWamRrWDBrNFZFTlRaM1ZLZG1GYWJHNUxVVVJqWmt0NE5tZHFOMXBGU0c5UFVrSk1SbXRGV21SNlJsaGxWVkJ2T0d0c2R4SVhjazFMZG1GME4wbEhPRFpyTW5KdlVEUTJiazV2VVRRYUlrRkVjM0k1WmxNd1lqTjVVa2hvTlVrMFV6WnVRbWxETlhaNE9ESkVkUzF1ZW5jIiwiZmN2IjoiMyIsImVpIjoick1LdmF0N0lHODZrMnJvUDQ2bk5vUTQiLCJxYyI6IkNqeG9ZWE1nYzJWaGNtTm9JR2x1ZEdWeVpYTjBJR2x1SUhKbGJXOTBaU0IzYjNKcklHSmxaVzRnWkdWamJHbHVhVzVuSUhOcGJtTmxJREl3TWpJUUFIMC1PVDBfIiwicXVlc3Rpb24iOiJXaHkgaXMgaXQgc28gaGFyZCB0byBnZXQgYSByZW1vdGUgam9iIHJpZ2h0IG5vdz8iLCJsayI6IkdpOTNhSGtnYVhNZ2FYUWdjMjhnYUdGeVpDQjBieUJuWlhRZ1lTQnlaVzF2ZEdVZ2FtOWlJSEpwWjJoMElHNXZkdyIsImJzIjoiYzVXUHNXNENNUXlHMVRWTDZVZ0s2QjloS28wRUVsUEVVZ0V2Y1BPMThWMENYSXljU0ZIZnZya0JxVU03TUhpeFBfXy1ySFpLNzRVZ05IQW1uUGt6d1pVUTNUWEUzcHBYUFczX202cVQyalMtelJpSjdHc0pSWmZRc2FDd1hOQUpEX0E4RUpiTngyR0ZFR0hXWm12TmkzNHVuYl96WTAtUldqZi1HeUVoWkNTR2I4VWhNM3FxLWJfdVEwTHZNeUlYYTk3MVczbHNSMWsxUHlaVW15cnpKZFNtLWdjYzNZUlNDaHl0V2VoWnpSdnRfZ1FtVHo4IiwiaWQiOiJmY19yTUt2YXQ3SUc4Nmsycm9QNDZuTm9RNF82In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmIyTTViRmhTVm10WVQxcFlVMWh3YVV4b1IyOVhURlZMTlZKT1Z6VkVhbmxQTkV4c05sbHRYMkpCVW5GQlFWZFBhV3BWWWxwUFFuaFZiV3RqTVdaRVZITlhjMjFJVVVOQ1RHNUVNelZmZVVnM1ZIaFdOWE5hUm1SeVVSSVdaV2xUY21GeFUwcERjV3BKY0RnMFVESlBhakJWVVJvaVFVUnpjamxtVW01eGNpMWpPRkF6VDFNdFkyUklVRTlNTVZjdGEyRjFZMlowZHciLCJmY3YiOiIzIiwiZWkiOiJlaVNyYXFTSkNxaklwODRQMk9qMFVRIiwicWMiOiJDanhvWVhNZ2MyVmhjbU5vSUdsdWRHVnlaWE4wSUdsdUlISmxiVzkwWlNCM2IzSnJJR0psWlc0Z1pHVmpiR2x1YVc1bklITnBibU5sSURJd01qSVFBSDFyM1RjXyIsInF1ZXN0aW9uIjoiV2h5IGFyZSBzbyBtYW55IGNvbXBhbmllcyBnZXR0aW5nIHJpZCBvZiByZW1vdGUgd29yaz8iLCJsayI6IkdqUjNhSGtnWVhKbElITnZJRzFoYm5rZ1kyOXRjR0Z1YVdWeklHZGxkSFJwYm1jZ2NtbGtJRzltSUhKbGJXOTBaU0IzYjNKciIsImJzIjoiYzUyUFBRdkNNQlJGY2Mza1hQeTRfb01hdEd0d2NPZ3VPTWNtYlotMmVaSkdRdi05TFNKMEt1Si1EdmNlb2NRNjctQnR5OEVpc25fQTlPUXFrSU5NWmFia0psblJEQ0RPQWlkdlViNmFwdjlpZDc1MU1MWm95QTJva3J0a3EtY1pVWW45dGU0eFRPVVhkSXhhZTRQQUtNa1o2SWtFVDFVZDREZ3FLWk0wZmlRS1AwcUN4WEVjR3Y4TVJxdGRqNExicDNaa08xUTJoREhPa3dHWDAyb2xzLVFRX3hDWGl6YyIsImlkIjoiZmNfZWlTcmFxU0pDcWpJcDg0UDJPajBVUV81In0=",
-    "page_token": "X_6LhXicHdBbbuIwFABQdTN8QkIahiKhSkwe4NZuY8eO8c_IdQIB37wgJQ1_s5dZVVczo9nB0fn9B061_X7oy75vr6vZbBiG6bFpjlBMTVPN9HWszcxogA9t7GrxY-E-H8w6_Aw3P7vdJuFtKwLqMEehHHJRWOQRC3XKXGaycosjtBdgvSIV6b5aurryYzYf_DyEq5bQSLfdJpm5q0oEiVt2RRSdcYxeDedDIeFM58sx51DitHxJM4jzejcU0F4Nh53h6F3dI5_fN9JI2pGzHXTsC52JS-LiRxL6Hanaw75CFyXKk5nTLXPQLg9KnMloQf-5PtzlqJ3WZTEJWEgYqZXknqBhqUALMu5llDJLvrSF4S2gCbZPHY4EjU9oQ7dkfMtUSiyy-AxMxYC5EJLbxzmtjr10yI0ENEw85U0O5rb2Jv83178OVb9qL83xL_Megvg",
-    "question": "Why are so many companies getting rid of remote work?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=X_6LhXicHdBbbuIwFABQdTN8QkIahiKhSkwe4NZuY8eO8c_IdQIB37wgJQ1_s5dZVVczo9nB0fn9B061_X7oy75vr6vZbBiG6bFpjlBMTVPN9HWszcxogA9t7GrxY-E-H8w6_Aw3P7vdJuFtKwLqMEehHHJRWOQRC3XKXGaycosjtBdgvSIV6b5aurryYzYf_DyEq5bQSLfdJpm5q0oEiVt2RRSdcYxeDedDIeFM58sx51DitHxJM4jzejcU0F4Nh53h6F3dI5_fN9JI2pGzHXTsC52JS-LiRxL6Hanaw75CFyXKk5nTLXPQLg9KnMloQf-5PtzlqJ3WZTEJWEgYqZXknqBhqUALMu5llDJLvrSF4S2gCbZPHY4EjU9oQ7dkfMtUSiyy-AxMxYC5EJLbxzmtjr10yI0ENEw85U0O5rb2Jv83178OVb9qL83xL_Megvg",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmIyTTViRmhTVm10WVQxcFlVMWh3YVV4b1IyOVhURlZMTlZKT1Z6VkVhbmxQTkV4c05sbHRYMkpCVW5GQlFWZFBhV3BWWWxwUFFuaFZiV3RqTVdaRVZITlhjMjFJVVVOQ1RHNUVNelZmZVVnM1ZIaFdOWE5hUm1SeVVSSVdaV2xUY21GeFUwcERjV3BKY0RnMFVESlBhakJWVVJvaVFVUnpjamxtVW01eGNpMWpPRkF6VDFNdFkyUklVRTlNTVZjdGEyRjFZMlowZHciLCJmY3YiOiIzIiwiZWkiOiJlaVNyYXFTSkNxaklwODRQMk9qMFVRIiwicWMiOiJDanhvWVhNZ2MyVmhjbU5vSUdsdWRHVnlaWE4wSUdsdUlISmxiVzkwWlNCM2IzSnJJR0psWlc0Z1pHVmpiR2x1YVc1bklITnBibU5sSURJd01qSVFBSDFyM1RjXyIsInF1ZXN0aW9uIjoiV2h5IGFyZSBzbyBtYW55IGNvbXBhbmllcyBnZXR0aW5nIHJpZCBvZiByZW1vdGUgd29yaz8iLCJsayI6IkdqUjNhSGtnWVhKbElITnZJRzFoYm5rZ1kyOXRjR0Z1YVdWeklHZGxkSFJwYm1jZ2NtbGtJRzltSUhKbGJXOTBaU0IzYjNKciIsImJzIjoiYzUyUFBRdkNNQlJGY2Mza1hQeTRfb01hdEd0d2NPZ3VPTWNtYlotMmVaSkdRdi05TFNKMEt1Si1EdmNlb2NRNjctQnR5OEVpc25fQTlPUXFrSU5NWmFia0psblJEQ0RPQWlkdlViNmFwdjlpZDc1MU1MWm95QTJva3J0a3EtY1pVWW45dGU0eFRPVVhkSXhhZTRQQUtNa1o2SWtFVDFVZDREZ3FLWk0wZmlRS1AwcUN4WEVjR3Y4TVJxdGRqNExicDNaa08xUTJoREhPa3dHWDAyb2xzLVFRX3hDWGl6YyIsImlkIjoiZmNfZWlTcmFxU0pDcWpJcDg0UDJPajBVUV81In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1gwbG5Wa1ZMWmt0UVZVZExVQzFsY25FdFZEaFJhbWxWTlhsT2IzTTVPWFZrVWs1bkxXcFJWamRrWDBrNFZFTlRaM1ZLZG1GYWJHNUxVVVJqWmt0NE5tZHFOMXBGU0c5UFVrSk1SbXRGV21SNlJsaGxWVkJ2T0d0c2R4SVhjazFMZG1GME4wbEhPRFpyTW5KdlVEUTJiazV2VVRRYUlrRkVjM0k1WmxNd1lqTjVVa2hvTlVrMFV6WnVRbWxETlhaNE9ESkVkUzF1ZW5jIiwiZmN2IjoiMyIsImVpIjoick1LdmF0N0lHODZrMnJvUDQ2bk5vUTQiLCJxYyI6IkNqeG9ZWE1nYzJWaGNtTm9JR2x1ZEdWeVpYTjBJR2x1SUhKbGJXOTBaU0IzYjNKcklHSmxaVzRnWkdWamJHbHVhVzVuSUhOcGJtTmxJREl3TWpJUUFIMC1PVDBfIiwicXVlc3Rpb24iOiJJcyBXRkggaW5jcmVhc2luZyBkZXByZXNzaW9uPyIsImxrIjoiR2h4cGN5QjNabWdnYVc1amNtVmhjMmx1WnlCa1pYQnlaWE56YVc5dSIsImJzIjoiYzVXUHNXNENNUXlHMVRWTDZVZ0s2QjloS28wRUVsUEVVZ0V2Y1BPMThWMENYSXljU0ZIZnZya0JxVU03TUhpeFBfXy1ySFpLNzRVZ05IQW1uUGt6d1pVUTNUWEUzcHBYUFczX202cVQyalMtelJpSjdHc0pSWmZRc2FDd1hOQUpEX0E4RUpiTngyR0ZFR0hXWm12TmkzNHVuYl96WTAtUldqZi1HeUVoWkNTR2I4VWhNM3FxLWJfdVEwTHZNeUlYYTk3MVczbHNSMWsxUHlaVW15cnpKZFNtLWdjYzNZUlNDaHl0V2VoWnpSdnRfZ1FtVHo4IiwiaWQiOiJmY19yTUt2YXQ3SUc4Nmsycm9QNDZuTm9RNF82In0=",
+    "page_token": "6pJIMnicHdBNUsIwGIDh8TIsJWkFB2YYZwoNUCWYNOkPG6d8gZY2IVUKLey8i6fyNDIe4H0W7_ePPhyr34dL0TT1adzvt237mFub690jWNPPTtcj9CHTeptBNR4-D_HLHib-eelNP5cek3UdzTgKHUK2bl2FfttlMZ3vZsUanAhTV2PuWyzlCWWoQyDzJnM55oSUodC33YIumHsXZDfMhCYyxFMZB3xXaRsmkYnm9YUiSgUKLm-ClqrKrzxRcZiQ6VZzzh2lU8nPXBSDez5VTndmrpcopNfcSRtaEbxJSAFYrVKkbIi5UVGQ0QOWDAUsLoODQIMjiKLcyGrAMHmFKPD8Ql2FbJw0YW4o4Yma0xXMiNHZ5izMiFPPHpjkNyi1iXxF5DzQK9dDcqHeISZWiSBJK-jAFAlFzVqy3h4uE7f3_3PysTfNuP6y-R_6_YH8",
+    "question": "Is WFH increasing depression?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6pJIMnicHdBNUsIwGIDh8TIsJWkFB2YYZwoNUCWYNOkPG6d8gZY2IVUKLey8i6fyNDIe4H0W7_ePPhyr34dL0TT1adzvt237mFub690jWNPPTtcj9CHTeptBNR4-D_HLHib-eelNP5cek3UdzTgKHUK2bl2FfttlMZ3vZsUanAhTV2PuWyzlCWWoQyDzJnM55oSUodC33YIumHsXZDfMhCYyxFMZB3xXaRsmkYnm9YUiSgUKLm-ClqrKrzxRcZiQ6VZzzh2lU8nPXBSDez5VTndmrpcopNfcSRtaEbxJSAFYrVKkbIi5UVGQ0QOWDAUsLoODQIMjiKLcyGrAMHmFKPD8Ql2FbJw0YW4o4Yma0xXMiNHZ5izMiFPPHpjkNyi1iXxF5DzQK9dDcqHeISZWiSBJK-jAFAlFzVqy3h4uE7f3_3PysTfNuP6y-R_6_YH8",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1gwbG5Wa1ZMWmt0UVZVZExVQzFsY25FdFZEaFJhbWxWTlhsT2IzTTVPWFZrVWs1bkxXcFJWamRrWDBrNFZFTlRaM1ZLZG1GYWJHNUxVVVJqWmt0NE5tZHFOMXBGU0c5UFVrSk1SbXRGV21SNlJsaGxWVkJ2T0d0c2R4SVhjazFMZG1GME4wbEhPRFpyTW5KdlVEUTJiazV2VVRRYUlrRkVjM0k1WmxNd1lqTjVVa2hvTlVrMFV6WnVRbWxETlhaNE9ESkVkUzF1ZW5jIiwiZmN2IjoiMyIsImVpIjoick1LdmF0N0lHODZrMnJvUDQ2bk5vUTQiLCJxYyI6IkNqeG9ZWE1nYzJWaGNtTm9JR2x1ZEdWeVpYTjBJR2x1SUhKbGJXOTBaU0IzYjNKcklHSmxaVzRnWkdWamJHbHVhVzVuSUhOcGJtTmxJREl3TWpJUUFIMC1PVDBfIiwicXVlc3Rpb24iOiJJcyBXRkggaW5jcmVhc2luZyBkZXByZXNzaW9uPyIsImxrIjoiR2h4cGN5QjNabWdnYVc1amNtVmhjMmx1WnlCa1pYQnlaWE56YVc5dSIsImJzIjoiYzVXUHNXNENNUXlHMVRWTDZVZ0s2QjloS28wRUVsUEVVZ0V2Y1BPMThWMENYSXljU0ZIZnZya0JxVU03TUhpeFBfXy1ySFpLNzRVZ05IQW1uUGt6d1pVUTNUWEUzcHBYUFczX202cVQyalMtelJpSjdHc0pSWmZRc2FDd1hOQUpEX0E4RUpiTngyR0ZFR0hXWm12TmkzNHVuYl96WTAtUldqZi1HeUVoWkNTR2I4VWhNM3FxLWJfdVEwTHZNeUlYYTk3MVczbHNSMWsxUHlaVW15cnpKZFNtLWdjYzNZUlNDaHl0V2VoWnpSdnRfZ1FtVHo4IiwiaWQiOiJmY19yTUt2YXQ3SUc4Nmsycm9QNDZuTm9RNF82In0%3D",
     "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&q=Has+search+interest+in+remote+work+been+declining+since+2022+usa&sa=X&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ1QJ6BAgpEAE",
-    "query": "Has search interest in remote work been declining since 2022 usa",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Has+search+interest+in+remote+work+been+declining+since+2022+usa"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&q=Has+search+interest+in+remote+work+been+declining+since+2022+google&sa=X&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ1QJ6BAhDEAE",
-    "query": "Has search interest in remote work been declining since 2022 google",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Has+search+interest+in+remote+work+been+declining+since+2022+google"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&q=Remote+work+Statistics+before+and+after+COVID&sa=X&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ1QJ6BAg9EAE",
-    "query": "Remote work Statistics before and after COVID",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Remote+work+Statistics+before+and+after+COVID"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&q=Remote+work+statistics+2026&sa=X&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ1QJ6BAg3EAE",
-    "query": "Remote work statistics 2026",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Remote+work+statistics+2026"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&q=The+impact+of+remote+work+on+employee+productivity+and+well+being&sa=X&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ1QJ6BAgzEAE",
-    "query": "The impact of remote work on employee productivity and well being",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+impact+of+remote+work+on+employee+productivity+and+well+being"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&q=Remote+work+trends+2026&sa=X&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ1QJ6BAgxEAE",
-    "query": "Remote work trends 2026",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Remote+work+trends+2026"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&q=Remote+work+productivity+statistics&sa=X&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ1QJ6BAguEAE",
-    "query": "Remote work productivity statistics",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Remote+work+productivity+statistics"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1eba2281753d037c&sxsrf=APpeQntEKCpRVbgAx3eukxdTv0JnzBN9tA:1789600890172&q=The+Rise+of+remote+work+evidence+on+productivity+and+preferences+from+firm+and+worker+surveys&sa=X&ved=2ahUKEwikruTqnvSWAxUo5MkDHVg0PQoQ1QJ6BAgqEAE",
-    "query": "The Rise of remote work evidence on productivity and preferences from firm and worker surveys",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Rise+of+remote+work+evidence+on+productivity+and+preferences+from+firm+and+worker+surveys"
    }
   ],
   "search_information": {
-   "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+   "organic_results_state": "Results for exact spelling",
    "query_displayed": "Has search interest in remote work been declining since 2022?",
-   "showing_results_for": "Has search interest in remote work been declining since 2022?",
-   "spelling_fix": "Has search interest in remote work been declining since 2022?",
-   "time_taken_displayed": 0.19,
-   "total_results": 148
+   "time_taken_displayed": 0.23,
+   "total_results": 149
   },
   "search_metadata": {
-   "created_at": "2026-09-16 23:21:06 UTC",
+   "created_at": "2026-09-20 11:25:31 UTC",
    "google_url": "https://www.google.com/search?q=Has+search+interest+in+remote+work+been+declining+since+2022%3F&oq=Has+search+interest+in+remote+work+been+declining+since+2022%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aab2462c4f20f7789d1f2e5",
-   "json_endpoint": "https://serpapi.com/searches/PNnzorHwZ14Io2hrLJ8fcLhJrsx4BLEbwqRXdOA8Kqg/6aab2462c4f20f7789d1f2e5.json",
-   "markdown_endpoint": "https://serpapi.com/searches/PNnzorHwZ14Io2hrLJ8fcLhJrsx4BLEbwqRXdOA8Kqg/6aab2462c4f20f7789d1f2e5.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/PNnzorHwZ14Io2hrLJ8fcLhJrsx4BLEbwqRXdOA8Kqg/6aab2462c4f20f7789d1f2e5.json_with_pixel_position",
-   "processed_at": "2026-09-16 23:21:06 UTC",
-   "raw_html_file": "https://serpapi.com/searches/PNnzorHwZ14Io2hrLJ8fcLhJrsx4BLEbwqRXdOA8Kqg/6aab2462c4f20f7789d1f2e5.html",
+   "id": "6aafc2abd868dd385dfad0f5",
+   "json_endpoint": "https://serpapi.com/searches/C4-Khx3so3MhngFmKfnRbvylhRAPRu6fGg99E8hHaTE/6aafc2abd868dd385dfad0f5.json",
+   "markdown_endpoint": "https://serpapi.com/searches/C4-Khx3so3MhngFmKfnRbvylhRAPRu6fGg99E8hHaTE/6aafc2abd868dd385dfad0f5.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/C4-Khx3so3MhngFmKfnRbvylhRAPRu6fGg99E8hHaTE/6aafc2abd868dd385dfad0f5.json_with_pixel_position",
+   "processed_at": "2026-09-20 11:25:31 UTC",
+   "raw_html_file": "https://serpapi.com/searches/C4-Khx3so3MhngFmKfnRbvylhRAPRu6fGg99E8hHaTE/6aafc2abd868dd385dfad0f5.html",
    "status": "Success",
-   "total_time_taken": 24.78
+   "total_time_taken": 1.3
   },
   "search_parameters": {
    "device": "desktop",

@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1381.664,
+ "elapsed_ms": 1024.441,
  "engine": "google",
- "fetched_at": "2026-09-16T20:56:52.811819+00:00",
+ "fetched_at": "2026-09-20T11:25:02.473121+00:00",
  "frugal_cache_version": 1,
  "key": "606111fa1f3362b85af2c153e41d256fc3613f481822a327f536700c15265c0a",
  "params": {
@@ -10,37 +10,59 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "U3tioXiczVXNcqpIFH6AeY5xYyLgv6miUt1tq1z8CUZvYjYUNtAQlTaAF3U37zHLeap5mmlQETOY5N7F1PSC7gPn5zt9zsf546-l6y3-_u1PJwzXwZ0gRFFUoozRpVUibCUYwc4jgs2WgU-c-4BtfGK5pkwcn62swu6HXCmQQBYLlisvItU31pY9GlQc8QE_vNa8aAFwIXEh63MjsF55hO1rIOgCfyx-r7S5UApKhl_q7YYtUV-bs0pUKotSqzQSjBVXAP_dQooGKFAABvC6Ev-EvuCL0vj5kvXOPSdLSV_x5DQejX_CsTi96m2mJA4QiAHyNUL2fkK4A-2kMboOWMkIKDrCi5I0YOxOyTW7srRjCqc7-PgutJx3-LCx85tsjT-4-ehC6nAUOkDoHOQiGAUaTQUlxgkP8kgDVrsJHEo_yJtj7AwAeQQK-ux2GFKa8BS6E_BcFMGkvHFFYe7zTRJc4pDk4AdxP6NJS2TdoQ3Hk1a0H0mLiteW1K1rb5-f3wZqmQpkzvWWzDAtU3d08T6RpbJUE1uVRvMmIRIJUiYFWSZFvdvpsj7zPIRL4xKUTjRCaZ3fVQyjuPFzEoPoqJpXYg0Aej4mRYP8ss5XDtTTgUIcu1ey5UOdXqyaFp4ftpT3cMb-dI7b5VvW9KJfcQoCpyFhB5ya4bKblNm5R7KRQPtCOsW5tAVteLLW2v9SvHSAwGP8F1GyGtnFcSCKYw4g3Evg8kUuvaCz1TGLOEeNwqOEU7_4qJRBpXB28Z_ZACiY-3SncWWoAjWcQlWOsTr4HeNwHmcPVn34pV9fzmKfq3DaHPnyrv2ztMGPVdgrG4Cpm-fuiNjGcL-dwChEjTbIpwlbzX9i4pD_FZEO80g9zaOrREJfIBKN--2DeYSP1kciJeL360TiyHLnUYrtPI_eEwn2M0T6ZB79PJHQh0Q6xM0lEssn0vo6kQ7QM0S6nEc4fx6lRPqlecR-bR4lvLIO2-Vw2rzSq0Oqh5_XoubSGSzX7Oq8vWu3HtSGWmt9n34-pOxVeLcyzOWN7pp3sPwt3Jk3On_B7iyz8CY_OZZvFd2gGDpWUfFM1_D4FoRuuAmtIrOLE4s4HlsyuisODNM3guKSESO0zPvCaukzWTRqURVZc_tJ2o8th6hTPHgFrNyIuvt-DVkeGY5ntf0MdsPhS7-5Gajfqm_Boh481bcb-kKhzQyVvDCk9SdAqdjP3cm4OaNovK-7YEducbMhtevaor6MHibw1ql34KIj3t6O-0_18bBSZXorDMUaYFqCJ5DV4byhPJr-RmeFlU9k3glVCoYaeKK8JVHSqmBqML5HQOvWgYZhISCGbgU_ZMmqkJpoN6WWZElNsVpY0XC3lstSIfB8WfoHt1FIyg",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U3tioXiczVXNcqpIFH6AeY5xYyLgv6miUt1tq1z8CUZvYjYUNtAQlTaAF3U37zHLeap5mmlQETOY5N7F1PSC7gPn5zt9zsf546-l6y3-_u1PJwzXwZ0gRFFUoozRpVUibCUYwc4jgs2WgU-c-4BtfGK5pkwcn62swu6HXCmQQBYLlisvItU31pY9GlQc8QE_vNa8aAFwIXEh63MjsF55hO1rIOgCfyx-r7S5UApKhl_q7YYtUV-bs0pUKotSqzQSjBVXAP_dQooGKFAABvC6Ev-EvuCL0vj5kvXOPSdLSV_x5DQejX_CsTi96m2mJA4QiAHyNUL2fkK4A-2kMboOWMkIKDrCi5I0YOxOyTW7srRjCqc7-PgutJx3-LCx85tsjT-4-ehC6nAUOkDoHOQiGAUaTQUlxgkP8kgDVrsJHEo_yJtj7AwAeQQK-ux2GFKa8BS6E_BcFMGkvHFFYe7zTRJc4pDk4AdxP6NJS2TdoQ3Hk1a0H0mLiteW1K1rb5-f3wZqmQpkzvWWzDAtU3d08T6RpbJUE1uVRvMmIRIJUiYFWSZFvdvpsj7zPIRL4xKUTjRCaZ3fVQyjuPFzEoPoqJpXYg0Aej4mRYP8ss5XDtTTgUIcu1ey5UOdXqyaFp4ftpT3cMb-dI7b5VvW9KJfcQoCpyFhB5ya4bKblNm5R7KRQPtCOsW5tAVteLLW2v9SvHSAwGP8F1GyGtnFcSCKYw4g3Evg8kUuvaCz1TGLOEeNwqOEU7_4qJRBpXB28Z_ZACiY-3SncWWoAjWcQlWOsTr4HeNwHmcPVn34pV9fzmKfq3DaHPnyrv2ztMGPVdgrG4Cpm-fuiNjGcL-dwChEjTbIpwlbzX9i4pD_FZEO80g9zaOrREJfIBKN--2DeYSP1kciJeL360TiyHLnUYrtPI_eEwn2M0T6ZB79PJHQh0Q6xM0lEssn0vo6kQ7QM0S6nEc4fx6lRPqlecR-bR4lvLIO2-Vw2rzSq0Oqh5_XoubSGSzX7Oq8vWu3HtSGWmt9n34-pOxVeLcyzOWN7pp3sPwt3Jk3On_B7iyz8CY_OZZvFd2gGDpWUfFM1_D4FoRuuAmtIrOLE4s4HlsyuisODNM3guKSESO0zPvCaukzWTRqURVZc_tJ2o8th6hTPHgFrNyIuvt-DVkeGY5ntf0MdsPhS7-5Gajfqm_Boh481bcb-kKhzQyVvDCk9SdAqdjP3cm4OaNovK-7YEducbMhtevaor6MHibw1ql34KIj3t6O-0_18bBSZXorDMUaYFqCJ5DV4byhPJr-RmeFlU9k3glVCoYaeKK8JVHSqmBqML5HQOvWgYZhISCGbgU_ZMmqkJpoN6WWZElNsVpY0XC3lstSIfB8WfoHt1FIyg"
+   "page_token": "i54hAXiczVXdcqJIFH6AfY7hxqyAMYqpolLdgIrRKBrHmBuKnxZQoBMag-Zu3mUv94n2abZBjJBgMjMXW3uqkqab4-nz8318P_7yvXDzzx9_u3H8RK5ZNkmSuoOx46O6hQPWIPvQYlfYJ5Hl3hC8jSzk2aLlRjhAzP5FvGQsInIM8sS1dftivDyMh9vgITE3k8AetzmwZLIQom4aBK3pDbs1YXWW_tt8u5Tppk7qKKxvV-RR7vD2_VCoNzi-Ux-zRkAdwH9niubAdB0A6bwTfaV8HSoNoAKoFCKpwMlWePJaHl5LWvZKcs5Gg4c7p5m7Rv9k_bWfyPQ074989rf0CljaJlkuACRZlhB4X1dTMC2v5VjXJ5168y5b3j18OinOuJRryZyktO3SLHQgSadLipfRMG4pjbdOWQ4Q-hjKEMzP5037c6uCqw3QlKoSiqYp35tvkxsue_SEtR0KXI41I7rwrGe5VvYQkRTP0n2Hw917t92Zy_HY9jm82Rldc9mYCsLj6m4EWMukfj42bGTrrs7dZHu-wV9xncu2cJERySJvTCJFJk3A1pwN3ab3CurDOuSPNJIOQwcfJqbQvaRWFAal3LVixAVgpwPLR6p1i3HzUUIgYaBMQXm0t5O0r73jlmL0lY6m6HG6NQX_RxodzCk4Uxpliag4dyx6HLx6BeoWBquCqs_M-7q1_ulR_uBYIqBE692AY2OW7yMvgSY5SsoBSenDvGtWsRonQ3Zu8JiwAugXKt-dKlFyp0JOaQtUDYyAqtCY3nxAEeqkWD0kmoIhv6urvGPcGcAv6TUL6Wc-fRUGvyJRatqRL-_gX6INmWB-9jDWdu37hZx0hMkWayNfMp5etGqa4MD8BcWx_ldEOuiRkuvReSIpXxMp0yP4iR5lzyc9SsEr4bNEgr1qPRpV6lG5bglMi0T6XI9-mUjSp0Q64LCSSLiaSE9nieQk74lU1iOlWo_eiPQ7egR_U48yXqHDUhan7do5L1Lz9UMUWntPC9Dt8-xKmAzHz_J6A4XJ1yK1CuLrwLD9C92zr2FjEO_tC50e4GtkM8_iwkURqnmkFruopoa2Z4R0IbEXb2NUw6vaPbLcEPvY2ddGhh0ZpOZjy4iRfcMEfoRFzmg-xsqdY_A9-2rXCgReEBbqtruzpprbjsykr__5ejnbGbNg0kSzRWsHexNp2d2bYLENkKBtudgMpZnpLrtStHOCRzkZCPvGNESzzTNEwiZ4JovolRtZes8eIG7f_x7EI8SF_p3SFcz1QBiieS8xvPmwfdnqL5MsLyLO4eIKGmbj7lFlaL0EiTwTRJZIkdHcg6kGFg6FqJRBF8wNTNcEaL0WnRxkiGXoiLyIrWaLttLurEy70Wq2ERM48f5JbPAMCSOR_xdNB0-w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=i54hAXiczVXdcqJIFH6AfY7hxqyAMYqpolLdgIrRKBrHmBuKnxZQoBMag-Zu3mUv94n2abZBjJBgMjMXW3uqkqab4-nz8318P_7yvXDzzx9_u3H8RK5ZNkmSuoOx46O6hQPWIPvQYlfYJ5Hl3hC8jSzk2aLlRjhAzP5FvGQsInIM8sS1dftivDyMh9vgITE3k8AetzmwZLIQom4aBK3pDbs1YXWW_tt8u5Tppk7qKKxvV-RR7vD2_VCoNzi-Ux-zRkAdwH9niubAdB0A6bwTfaV8HSoNoAKoFCKpwMlWePJaHl5LWvZKcs5Gg4c7p5m7Rv9k_bWfyPQ074989rf0CljaJlkuACRZlhB4X1dTMC2v5VjXJ5168y5b3j18OinOuJRryZyktO3SLHQgSadLipfRMG4pjbdOWQ4Q-hjKEMzP5037c6uCqw3QlKoSiqYp35tvkxsue_SEtR0KXI41I7rwrGe5VvYQkRTP0n2Hw917t92Zy_HY9jm82Rldc9mYCsLj6m4EWMukfj42bGTrrs7dZHu-wV9xncu2cJERySJvTCJFJk3A1pwN3ab3CurDOuSPNJIOQwcfJqbQvaRWFAal3LVixAVgpwPLR6p1i3HzUUIgYaBMQXm0t5O0r73jlmL0lY6m6HG6NQX_RxodzCk4Uxpliag4dyx6HLx6BeoWBquCqs_M-7q1_ulR_uBYIqBE692AY2OW7yMvgSY5SsoBSenDvGtWsRonQ3Zu8JiwAugXKt-dKlFyp0JOaQtUDYyAqtCY3nxAEeqkWD0kmoIhv6urvGPcGcAv6TUL6Wc-fRUGvyJRatqRL-_gX6INmWB-9jDWdu37hZx0hMkWayNfMp5etGqa4MD8BcWx_ldEOuiRkuvReSIpXxMp0yP4iR5lzyc9SsEr4bNEgr1qPRpV6lG5bglMi0T6XI9-mUjSp0Q64LCSSLiaSE9nieQk74lU1iOlWo_eiPQ7egR_U48yXqHDUhan7do5L1Lz9UMUWntPC9Dt8-xKmAzHz_J6A4XJ1yK1CuLrwLD9C92zr2FjEO_tC50e4GtkM8_iwkURqnmkFruopoa2Z4R0IbEXb2NUw6vaPbLcEPvY2ddGhh0ZpOZjy4iRfcMEfoRFzmg-xsqdY_A9-2rXCgReEBbqtruzpprbjsykr__5ejnbGbNg0kSzRWsHexNp2d2bYLENkKBtudgMpZnpLrtStHOCRzkZCPvGNESzzTNEwiZ4JovolRtZes8eIG7f_x7EI8SF_p3SFcz1QBiieS8xvPmwfdnqL5MsLyLO4eIKGmbj7lFlaL0EiTwTRJZIkdHcg6kGFg6FqJRBF8wNTNcEaL0WnRxkiGXoiLyIrWaLttLurEy70Wq2ERM48f5JbPAMCSOR_xdNB0-w"
   },
   "local_map": {
-   "image": "https://serpapi.com/searches/6aab02930a9156403223732c/images/Qf3oCZ-dz77SjRhvnZ6KBQ.webp",
-   "link": "https://www.google.com/maps/place/Indian+Institute+Of+Technology,+%D8%AA%D8%B4%D9%8A%D9%86%D8%A7%D9%8A%D8%8C+%D8%AA%D8%A7%D9%85%D9%8A%D9%84+%D9%86%D8%A7%D8%AF%D9%88%D8%8C+%D8%A7%D9%84%D9%87%D9%86%D8%AF%E2%80%AD/data=!4m2!3m1!1s0x3a526781f3ce0c6b:0x41368df84c6db350?sa=X&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8gF6BAgvEAA"
+   "image": "https://serpapi.com/searches/6aafc28d48c7919c90775aa5/images/p0mmdT1Rg8wjMz9L9nav-A.webp",
+   "link": "https://www.google.com/maps/place/Indian+Institute+Of+Technology,+Chennai,+Tamil+Nadu,+India/data=!4m2!3m1!1s0x3a526781f3ce0c6b:0x41368df84c6db350?sa=X&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8gF6BAgvEAA"
   },
   "local_results": {
-   "address": "Indian Institute Of Technology تشيناي، تاميل نادو، الهند"
+   "address": "Indian Institute Of Technology Chennai, Tamil Nadu, India"
   },
   "organic_results": [
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Indian Institute of Technology Madras is Best Institute for higher education in India. It is a public technical and research university located in Chennai.",
+      "description": "It is a public technical and research university located in Chennai. IIT Madras is a vibrant residential campus",
+      "icon": "https://serpapi.com/images/i/UklGRsABAABXRUJQVlA4ILQBAAAwCQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhHA3ptMBwANtBz4umAby4-OzAOwIM7VA9znX2XZcTYgqJeY1JcjnUYJOZG8OUFF0mD5guqAAAP7-w5-gfOzxzZeRZTaW3aUTHhEQ_vrXVkPtQT4S5LRGe9PConhGIQK8j01_QscwBW_uWFB3CjDWimjhC-1aD0BxZ4mKrKD9_xwrA1HLFZ7PfPy2HkFy26lEEqvG0U88UVsd-tvLNVxGtyFPLhpEBeROD4Ec0bM_zcUCateWxeIwP611FmJgoh-mYEC_lLVsGK7V08BP5drUpCc8p2pIIB7FLbxs9tbp3_Lqli53fMIXM8jz-7I66Ocwm6gtTgyNOMzM3JgzDQyG20XmbX6V0gkZ3ChAPaTLU1yzPZvpQ5A7S7xZryUh3U42iXGiuFHU1yaIYghW6TyouEF8SGSEWhD8EHyyVs1QknlWXbLARXGpjWmMUgkZ4sYdrXb9ZHo_SBf7USb5sFhlzz1KLY9uydwXfvvjt3HUrOG_slOF-vzycZUpeTJu4WDfoe_uQFSUL6GRZKhAdE4kL4Q_7t5AvMAA.webp",
       "source_info_link": "https://www.iitm.ac.in/"
      }
     },
     "displayed_link": "https://www.iitm.ac.in",
+    "favicon": "https://serpapi.com/images/i/UklGRsABAABXRUJQVlA4ILQBAAAwCQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhHA3ptMBwANtBz4umAby4-OzAOwIM7VA9znX2XZcTYgqJeY1JcjnUYJOZG8OUFF0mD5guqAAAP7-w5-gfOzxzZeRZTaW3aUTHhEQ_vrXVkPtQT4S5LRGe9PConhGIQK8j01_QscwBW_uWFB3CjDWimjhC-1aD0BxZ4mKrKD9_xwrA1HLFZ7PfPy2HkFy26lEEqvG0U88UVsd-tvLNVxGtyFPLhpEBeROD4Ec0bM_zcUCateWxeIwP611FmJgoh-mYEC_lLVsGK7V08BP5drUpCc8p2pIIB7FLbxs9tbp3_Lqli53fMIXM8jz-7I66Ocwm6gtTgyNOMzM3JgzDQyG20XmbX6V0gkZ3ChAPaTLU1yzPZvpQ5A7S7xZryUh3U42iXGiuFHU1yaIYghW6TyouEF8SGSEWhD8EHyyVs1QknlWXbLARXGpjWmMUgkZ4sYdrXb9ZHo_SBf7USb5sFhlzz1KLY9uydwXfvvjt3HUrOG_slOF-vzycZUpeTJu4WDfoe_uQFSUL6GRZKhAdE4kL4Q_7t5AvMAA.webp",
     "link": "https://www.iitm.ac.in/",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAVokpJ9Z07xu8J7epufQRq2fV1BCcCmz0AOgEnImF8JsuLHaU3ALpWZ6ITIcSp_X9aupgzvY3J9JLHAQLVOmMV_CycJ343GDR6q9I&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQFnoECCgQAQ&uoh=1",
-    "snippet": "Indian Institute of Technology Madras is Best Institute for higher education in India. It is a public technical and research university located in Chennai.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAV69uPvTh1t3J8YCCwkwsd-HIIwBWSEkKlkdeNeuSRnzm_2aF9vOt0lefO-bi5vD81cQFx3ObQQyJPOVhd2FOPhuH0pZOBDsKmEq0&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQFnoECCcQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://www.iitm.ac.in/campus-life/overview",
+       "title": "Campus Life"
+      },
+      {
+       "link": "https://www.iitm.ac.in/the-institute/alumni-relations",
+       "title": "The Institute"
+      },
+      {
+       "link": "https://www.iitm.ac.in/academics/overview",
+       "title": "Academics"
+      },
+      {
+       "link": "https://www.iitm.ac.in/research/research-highlights",
+       "title": "Research"
+      }
+     ]
+    },
+    "snippet": "It is a public technical and research university located in Chennai. IIT Madras is a vibrant residential campus",
     "snippet_highlighted_words": [
-     "Chennai"
+     "located in Chennai"
     ],
     "source": "Indian Institute of Technology Madras",
     "title": "Indian Institute of Technology Madras"
@@ -48,10 +70,10 @@
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
       "description": "The Indian Institute of Technology Madras (IIT-Madras or IIT-M) is a public research university and technical institute located in Chennai, Tamil Nadu, India.",
@@ -59,11 +81,32 @@
       "source_info_link": "https://en.wikipedia.org/wiki/IIT_Madras"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › IIT...",
+    "displayed_link": "https://en.wikipedia.org › wiki › IIT_Madras",
     "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
     "link": "https://en.wikipedia.org/wiki/IIT_Madras",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV8jGfb5P7NG2Vt0iUFSy6oMIUc9ShE6qRztOUs604cC2KD0qb1z8FJHhHTnQjiCOPpxDPMVco-V69o3SkXs4TE4ngx1RKbYMDJkp7oW4_m750jd9W4iIZLUW-OQ&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQFnoECCcQAQ&uoh=1",
+    "read_more_link": "https://en.wikipedia.org/wiki/IIT_Madras#:~:text=The%20Indian%20Institute%20of%20Technology,in%20Chennai%2C%20Tamil%20Nadu%2C%20India.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV5TQ01IPa07gvgpvjstXJqNtYzUeE97uRrZ2yvA8jeiuuYRJbirq1dMM-qveUF9imCl_PMXFP7NTYs5nhpJIzkCDECq2R3Sq3pxw1akZuBQ-AS0MZlZkKKoEQPw&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQFnoECCgQAQ&uoh=1",
+    "sitelinks": {
+     "inline": [
+      {
+       "link": "https://en.wikipedia.org/wiki/IIT_Madras#History",
+       "title": "History"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/IIT_Madras#Research",
+       "title": "Research"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/IIT_Madras#Modern_and_advanced_courses",
+       "title": "Modern and advanced courses"
+      },
+      {
+       "link": "https://en.wikipedia.org/wiki/IIT_Madras#Student_activities",
+       "title": "Student activities"
+      }
+     ]
+    },
     "snippet": "The Indian Institute of Technology Madras (IIT-Madras or IIT-M) is a public research university and technical institute located in Chennai, Tamil Nadu, India.",
     "snippet_highlighted_words": [
      "Chennai, Tamil Nadu, India"
@@ -74,49 +117,10 @@
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "IIT Madras Address. Indian Institute of Technology Madras, IIT PO, Chennai- 600 036, Tamil Nadu, India. Read more ...",
-      "icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAAAwBwCdASogACAAPtEutFooIagoGAEAGgliAFRmeAUhdXBWgoE7as-WHCRmfFT79KoxBD4G03L8bp4-CFuB-OgSU2AA_vYL5OQszzjeTfLzZ9-0Az5SUmKszewrMOcHaVN0oj7B1kjbkZXHPasHqCer4w0efS9kK4x3rWMcOdTckgEboO19-RbYgfqu4zf2Jg42va_8SPe_dKcpaYmFOlWIv_rZ7pKT0fu6pXOyv5CkM0InhKdM4j_NMMYixyfQln_ZD3j3p5--ctT2uDlVvl6L16HEgidhTuQS_wLLJjerxoFfHWqhiT5r80k6PVGKgbuk2D_V083tbFzr9dnF2V7Ec_gtn6p_tZ6T-1qSqPVww7OL27qcGP_NTrFOCmyxenM-nJCH2iM1OkpJEmbanuRHUE35oecniFzB428xZSi_Pdbigf7GG31vwuq9tqQM3mpa3c6ipi1OdvRcTZ26bV-R2FIL1HLDWaA3R5BVtSWYmyb9rlOcngvQyXDMiEAA.webp",
-      "source_info_link": "https://www.careers360.com/university/indian-institute-of-technology-madras"
-     }
-    },
-    "date": "06‏/08‏/2026",
-    "displayed_link": "https://www.careers360.com › indian...",
-    "favicon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAAAwBwCdASogACAAPtEutFooIagoGAEAGgliAFRmeAUhdXBWgoE7as-WHCRmfFT79KoxBD4G03L8bp4-CFuB-OgSU2AA_vYL5OQszzjeTfLzZ9-0Az5SUmKszewrMOcHaVN0oj7B1kjbkZXHPasHqCer4w0efS9kK4x3rWMcOdTckgEboO19-RbYgfqu4zf2Jg42va_8SPe_dKcpaYmFOlWIv_rZ7pKT0fu6pXOyv5CkM0InhKdM4j_NMMYixyfQln_ZD3j3p5--ctT2uDlVvl6L16HEgidhTuQS_wLLJjerxoFfHWqhiT5r80k6PVGKgbuk2D_V083tbFzr9dnF2V7Ec_gtn6p_tZ6T-1qSqPVww7OL27qcGP_NTrFOCmyxenM-nJCH2iM1OkpJEmbanuRHUE35oecniFzB428xZSi_Pdbigf7GG31vwuq9tqQM3mpa3c6ipi1OdvRcTZ26bV-R2FIL1HLDWaA3R5BVtSWYmyb9rlOcngvQyXDMiEAA.webp",
-    "link": "https://www.careers360.com/university/indian-institute-of-technology-madras",
-    "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFUVni0C1bh5WNKsxXyvifyWV5cgpcbYVPnH8Acrh45u-D3oDgAH213Ju9Z30fqPXxriOcrZm-Ebb9wneRfzL6mHy9lIDDvXq5jaPw0TCfpFZUBD6I-fsnD8X4v5aNACEQ-zyLmD_qP6Aec4dw5FUNE0-Dlz_fETaPFvk8hgLpA&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQFnoECD4QAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "rating": 4.7,
-       "reviews": 143
-      },
-      "extensions": [
-       "4.7(143)"
-      ]
-     }
-    },
-    "snippet": "IIT Madras Address. Indian Institute of Technology Madras, IIT PO, Chennai- 600 036, Tamil Nadu, India. Read more ...",
-    "snippet_highlighted_words": [
-     "IIT Madras",
-     "Indian Institute of Technology Madras"
-    ],
-    "source": "Careers360",
-    "title": "IIT Madras (IITM): Admission 2026, Cutoff, Courses, Fees, ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
+      "US"
      ],
      "source": {
       "description": "The university is located in Chennai, a coastal city and the capital of Tamil Nadu in southern India. In a recent year, more than 8,000 students attended ...",
@@ -124,11 +128,12 @@
       "source_info_link": "https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-madras-502278"
      }
     },
-    "displayed_link": "https://www.usnews.com › education",
+    "displayed_link": "https://www.usnews.com › ... › Global Universities",
     "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
     "link": "https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-madras-502278",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFTHiWdxjhwHfy_AFmcGe9kXidRRbfR0pXfLUVqYIO9AWN6TB_yddVW9rTeMsCj2-Fp_awBnS2EfbUiYag3DABJjpxrD6Wxxo3jfWSU5EL_yJ-xsz_N1ZK63SqhMk62j17k_Rd-OSMlvAMEqbTppLoPH4V9xVfNfIYrcnXSfRt4TDXuHlbUxu-7FWgguDnK1o4HJ4wMGmNJYAbA&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQFnoECDwQAQ&uoh=1",
+    "position": 3,
+    "read_more_link": "https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-madras-502278#:~:text=The%20university%20is%20located%20in,8%2C000%20students%20attended%20the%20university.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFZaAy0AuUTqyzHgd84Y2cNFym3mh67jrhQa0QstkhdfHSHmGiBibFk4nkQvxdTvVmM3KzYmRLI1JV-JKFasKa1QbX6qNDDtmt0P2z1jnp_mMZDws0L2W2dZd7mdLXwx4wxGUtWA3CZwYRsPXC_YCZ3uEQ2fQSENf5qWC_ykLHQf-yL-rWcHl6gDebnsS5t8hkkZKl4aGGJ6xtA&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQFnoECE8QAQ&uoh=1",
     "snippet": "The university is located in Chennai, a coastal city and the capital of Tamil Nadu in southern India. In a recent year, more than 8,000 students attended ...",
     "snippet_highlighted_words": [
      "is located in Chennai"
@@ -139,35 +144,106 @@
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Contact · Contact Us. Address. Address. Indian Institute of Technology Madras IIT P.O., Chennai 600 036. INDIA. Directory. Directory. Search the ...",
-      "source_info_link": "https://www.iitm.ac.in/contact"
+      "description": "The campus is located 10 km from the Chennai Airport, 12 km from the Chennai Central Railway station, and is well connected by city buses. Kasturba Nagar is ...",
+      "icon": "https://serpapi.com/images/i/UklGRsABAABXRUJQVlA4ILQBAAAwCQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhHA3ptMBwANtBz4umAby4-OzAOwIM7VA9znX2XZcTYgqJeY1JcjnUYJOZG8OUFF0mD5guqAAAP7-w5-gfOzxzZeRZTaW3aUTHhEQ_vrXVkPtQT4S5LRGe9PConhGIQK8j01_QscwBW_uWFB3CjDWimjhC-1aD0BxZ4mKrKD9_xwrA1HLFZ7PfPy2HkFy26lEEqvG0U88UVsd-tvLNVxGtyFPLhpEBeROD4Ec0bM_zcUCateWxeIwP611FmJgoh-mYEC_lLVsGK7V08BP5drUpCc8p2pIIB7FLbxs9tbp3_Lqli53fMIXM8jz-7I66Ocwm6gtTgyNOMzM3JgzDQyG20XmbX6V0gkZ3ChAPaTLU1yzPZvpQ5A7S7xZryUh3U42iXGiuFHU1yaIYghW6TyouEF8SGSEWhD8EHyyVs1QknlWXbLARXGpjWmMUgkZ4sYdrXb9ZHo_SBf7USb5sFhlzz1KLY9uydwXfvvjt3HUrOG_slOF-vzycZUpeTJu4WDfoe_uQFSUL6GRZKhAdE4kL4Q_7t5AvMAA.webp",
+      "source_info_link": "https://www.iitm.ac.in/campus-life/overview"
      }
     },
-    "date": "قبل 6 أيام",
-    "displayed_link": "https://www.iitm.ac.in › contact",
-    "link": "https://www.iitm.ac.in/contact",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVvj3SMby-fsCA0TXrFLouy46fNtodxwAvapjyRnnaxUunCrM0xY7Zi9xy35KbUJLgoRN2W_DXMuaITShGUt9WOaqzBTcEQP3B4XwlvQ9jfu5P&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQFnoECDkQAQ&uoh=1",
-    "snippet": "Contact · Contact Us. Address. Address. Indian Institute of Technology Madras IIT P.O., Chennai 600 036. INDIA. Directory. Directory. Search the ...",
+    "displayed_link": "https://www.iitm.ac.in › campus-life › overview",
+    "favicon": "https://serpapi.com/images/i/UklGRsABAABXRUJQVlA4ILQBAAAwCQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhHA3ptMBwANtBz4umAby4-OzAOwIM7VA9znX2XZcTYgqJeY1JcjnUYJOZG8OUFF0mD5guqAAAP7-w5-gfOzxzZeRZTaW3aUTHhEQ_vrXVkPtQT4S5LRGe9PConhGIQK8j01_QscwBW_uWFB3CjDWimjhC-1aD0BxZ4mKrKD9_xwrA1HLFZ7PfPy2HkFy26lEEqvG0U88UVsd-tvLNVxGtyFPLhpEBeROD4Ec0bM_zcUCateWxeIwP611FmJgoh-mYEC_lLVsGK7V08BP5drUpCc8p2pIIB7FLbxs9tbp3_Lqli53fMIXM8jz-7I66Ocwm6gtTgyNOMzM3JgzDQyG20XmbX6V0gkZ3ChAPaTLU1yzPZvpQ5A7S7xZryUh3U42iXGiuFHU1yaIYghW6TyouEF8SGSEWhD8EHyyVs1QknlWXbLARXGpjWmMUgkZ4sYdrXb9ZHo_SBf7USb5sFhlzz1KLY9uydwXfvvjt3HUrOG_slOF-vzycZUpeTJu4WDfoe_uQFSUL6GRZKhAdE4kL4Q_7t5AvMAA.webp",
+    "link": "https://www.iitm.ac.in/campus-life/overview",
+    "position": 4,
+    "read_more_link": "https://www.iitm.ac.in/campus-life/overview#:~:text=The%20campus%20is%20located%2010,on%20the%20Chennai%20MRTS%20line.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVURPEfp-aqTSgh2GHAcOTtNBAHW3_aE8CO2k-3pedfUo77NsrRAGIPF6ByUdSZ_E5xBpQ1bRdxo_TLtGGIf-oiWLtW8A-rrt3bZAu-HLf-dLM9w7Yd5nqtBtC47ljoQ&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQFnoECE0QAQ&uoh=1",
+    "snippet": "The campus is located 10 km from the Chennai Airport, 12 km from the Chennai Central Railway station, and is well connected by city buses. Kasturba Nagar is ...",
     "snippet_highlighted_words": [
-     "Indian Institute of Technology Madras"
+     "10 km from the Chennai Airport, 12 km from the Chennai Central Railway station"
     ],
     "source": "Indian Institute of Technology Madras",
-    "title": "Contact | Indian Institute of Technology ..."
+    "title": "Campus Life at Indian Institute of Technology Madras"
+   },
+   {
+    "about_this_result": {
+     "source": {
+      "description": "Spread across 617 acres inside Guindy National Park, is located close to Chennai International Airport. close to Chennai International Airport.",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     }
+    },
+    "displayed_link": "360+ reactions · 5 months ago",
+    "duration": "0:35",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/100063889639005/videos/iit-madras-indias-top-iit-campus-tamilnadufounded-in-1959-indian-institute-of-te/1256296190033863/",
+    "position": 5,
+    "snippet": "Spread across 617 acres inside Guindy National Park, is located close to Chennai International Airport. close to Chennai International Airport.",
+    "source": "Facebook · Indianoverviewer",
+    "thumbnail": "https://serpapi.com/searches/6aafc28d48c7919c90775aa5/images/gYEbFx-EH2iP8r-qMyeNOpp0rIzSCvNg6lje_M6R2zY.jpeg",
+    "title": "IIT Madras – India's Top IIT Campus, Tamilnadu| Founded in ..."
    },
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
+     ],
+     "source": {
+      "description": "It is located in Avadi, Tamil Nadu (IN). Latitude 12° 59' 40.7904'' N DMS Longitude 80° 14' 0.1788'' The GPS coordinates of Indian Institute of Technology ...",
+      "icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglpABOJW6CpN-O7UD_VTq6I0wuMOxqhJaMByrSxFDwSpYAA_vrlLwgq-yfNXOd8XgZKD2sAmfSxLb48-z7H1fZad9JhHKFu66IB-zHuUXMqumpJul65pBfnZHTEb9vEBZn2nL9PTxmsvD7s8khWAI6jIblJ57t36iE_Hm7AZ4u4atX3xjKTn0eiotL-DVVRAueAFd_y21SiKWwoOmkMY0_HbBCA3SuFh9gaI5AHY1bJF0JyEA7hTgKvxRktPBMBI9_Z8xsSVhJyFpv-1urDo1tftHoOX8ifT-dOvcX4Yk0bZU5S4Jnb1hmNQwgacX8NZU5j4FB4oPeaTwDQSjfAAA.webp",
+      "source_info_link": "https://www.latlong.net/poi/indian-institute-of-technology-madras-681576"
+     }
+    },
+    "displayed_link": "https://www.latlong.net › ... › Avadi › Avadi Universities",
+    "favicon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglpABOJW6CpN-O7UD_VTq6I0wuMOxqhJaMByrSxFDwSpYAA_vrlLwgq-yfNXOd8XgZKD2sAmfSxLb48-z7H1fZad9JhHKFu66IB-zHuUXMqumpJul65pBfnZHTEb9vEBZn2nL9PTxmsvD7s8khWAI6jIblJ57t36iE_Hm7AZ4u4atX3xjKTn0eiotL-DVVRAueAFd_y21SiKWwoOmkMY0_HbBCA3SuFh9gaI5AHY1bJF0JyEA7hTgKvxRktPBMBI9_Z8xsSVhJyFpv-1urDo1tftHoOX8ifT-dOvcX4Yk0bZU5S4Jnb1hmNQwgacX8NZU5j4FB4oPeaTwDQSjfAAA.webp",
+    "link": "https://www.latlong.net/poi/indian-institute-of-technology-madras-681576",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFS6h2-0XjsuDxOA9XhAN_53OmDf5JlpKqZ4NkhenEf_Cay7-rHwXW4MlqqbEsRqfa2hhDIRWxTDG_9T68Eoty22_qyXFURWG1os9hYbYZg4PhIFx6STkvdmHhi31uuZcRACqlxywrH4bMYC0xdZ6FZjLwdC-I8tJvlzuEg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQFnoECEsQAQ&uoh=1",
+    "snippet": "It is located in Avadi, Tamil Nadu (IN). Latitude 12° 59' 40.7904'' N DMS Longitude 80° 14' 0.1788'' The GPS coordinates of Indian Institute of Technology ...",
+    "snippet_highlighted_words": [
+     "located",
+     "Indian Institute of Technology"
+    ],
+    "source": "Latitude and Longitude Finder",
+    "title": "Indian Institute of Technology Madras Map"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Indian Institute of Technology Madras (IIT Madras) is a public technical and research university located in Chennai(formerly named as Madras), Tamil Nadu, India ...",
+      "source_info_link": "https://www.indianscience.net/institute.php?grid=grid.417969.4"
+     }
+    },
+    "displayed_link": "https://www.indianscience.net › institute",
+    "link": "https://www.indianscience.net/institute.php?grid=grid.417969.4",
+    "position": 7,
+    "read_more_link": "https://www.indianscience.net/institute.php?grid=grid.417969.4#:~:text=Indian%20Institute%20of%20Technology%20Madras,as%20Madras)%2C%20Tamil%20Nadu%2C%20India.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVynwa1iS1_wDoL6PEak4WHrcacqaXzfcMZXKKaFa_8Ss4v4ZGXUakmTV4uTOPrJMLMchqE0JwduOMucB8zXrEawhSRavtd4OeBq2e7-JRyln6IqBnOh3uwX6_3TLPOjLk6x6zXluY5hQNahhLWLXlEmg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQFnoECEwQAQ&uoh=1",
+    "snippet": "Indian Institute of Technology Madras (IIT Madras) is a public technical and research university located in Chennai(formerly named as Madras), Tamil Nadu, India ...",
+    "snippet_highlighted_words": [
+     "located in Chennai"
+    ],
+    "source": "Indian Science Reports",
+    "title": "Indian Institute of Technology Madras"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
      ],
      "source": {
       "description": "Established in 1959 and located inChennai, Tamil Nadu, IIT Chennai is renowned for its academic excellence, cutting-edge research, and impactful contributions ...",
@@ -175,23 +251,24 @@
       "source_info_link": "https://www.justdial.com/Chennai/IIT-Madras-Opposite-Clri-Behind-The-Adyar-Cancer-Institute-Near-Iit-Post-Office-Campus-Enclave/044P3006711_BZDET"
      }
     },
-    "displayed_link": "https://www.justdial.com › Chennai",
+    "displayed_link": "https://www.justdial.com › Chennai › IIT-Madras-Opposi...",
     "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
     "link": "https://www.justdial.com/Chennai/IIT-Madras-Opposite-Clri-Behind-The-Adyar-Cancer-Institute-Near-Iit-Post-Office-Campus-Enclave/044P3006711_BZDET",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEB6zswFY-FRQPCxaK-3IUg-iaC8NHan1MFB_ad-A2ntIcc2rHo0zQwf3JoImUdFsKY92gNQw1cCH1T9jELEz4IBHKifEkhtX15n13aAg4V9Y6HeaBDbH3oTY3ZL5wLf0gv1yvxI8HJENKOP4lwpAZsVlDKOKpprKN0aADWHBGaxBGx5gqBYGYycwh749_S2ePJyHgpP-gR1ZWHC5y95b7MXBdTu4xrG2bswwErcEMaNGTNg2LNdNpTGlWhvOYUNumdERjyNUEuWjXm&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQFnoECD0QAQ&uoh=1",
+    "position": 8,
+    "read_more_link": "https://www.justdial.com/Chennai/IIT-Madras-Opposite-Clri-Behind-The-Adyar-Cancer-Institute-Near-Iit-Post-Office-Campus-Enclave/044P3006711_BZDET#:~:text=Established%20in%201959%20and%20located,impactful%20contributions%20to%20various%20fields.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEB6zswFXH5PKoO3z5UNj7pkHHA-J7Ifv3ZFsJMGifURHvS2Ea87jG0WLHIqqmu3TrrMmHK8W2I7tBQZkXoOE5Bhi4CoMxIm8kifoBR0MUO_Tiz4YK0lnUmLUdI71YdKmeAz8QADInjai3HSs1bezGR6a2uPJCd3-ZJv3rTM-H3V_pslA743h7y0x-t7j_pE0PsN2wyBpUEuh_5cMD4HRQQksmvtPhHPaxRY5fg0Drh_hbc6TkAU25S65JvHjrWDPo3vb_KkwmSc9e6&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQFnoECFAQAQ&uoh=1",
     "rich_snippet": {
      "top": {
       "detected_extensions": {
        "currency": "₹",
        "price_from": 15000,
        "price_to": 1700000,
-       "rating": 4.5,
-       "reviews": 4658
+       "rating": 4.7,
+       "reviews": 4745
       },
       "extensions": [
-       "4.5(4,658)",
-       "نطاق السعر: ₹15000 - ₹1700000"
+       "4.7(4,745)",
+       "Price range: ₹15000 - ₹1700000"
       ]
      }
     },
@@ -205,186 +282,147 @@
    {
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "It is located in Avadi, Tamil Nadu (IN). You can see the detailed information below the map.",
-      "icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglpABOJW6CpN-O7UD_VTq6I0wuMOxqhJaMByrSxFDwSpYAA_vrlLwgq-yfNXOd8XgZKD2sAmfSxLb48-z7H1fZad9JhHKFu66IB-zHuUXMqumpJul65pBfnZHTEb9vEBZn2nL9PTxmsvD7s8khWAI6jIblJ57t36iE_Hm7AZ4u4atX3xjKTn0eiotL-DVVRAueAFd_y21SiKWwoOmkMY0_HbBCA3SuFh9gaI5AHY1bJF0JyEA7hTgKvxRktPBMBI9_Z8xsSVhJyFpv-1urDo1tftHoOX8ifT-dOvcX4Yk0bZU5S4Jnb1hmNQwgacX8NZU5j4FB4oPeaTwDQSjfAAA.webp",
-      "source_info_link": "https://www.latlong.net/poi/indian-institute-of-technology-madras-681576"
+      "description": "The Indian Institute of Technology Madras (IIT Madras or IITM) is a public technical university located in Chennai, Tamil Nadu, India, ...",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "source_info_link": "https://www.instagram.com/p/DCTuryXTSKw/?hl=en"
      }
     },
-    "displayed_link": "https://www.latlong.net › poi › india...",
-    "favicon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglpABOJW6CpN-O7UD_VTq6I0wuMOxqhJaMByrSxFDwSpYAA_vrlLwgq-yfNXOd8XgZKD2sAmfSxLb48-z7H1fZad9JhHKFu66IB-zHuUXMqumpJul65pBfnZHTEb9vEBZn2nL9PTxmsvD7s8khWAI6jIblJ57t36iE_Hm7AZ4u4atX3xjKTn0eiotL-DVVRAueAFd_y21SiKWwoOmkMY0_HbBCA3SuFh9gaI5AHY1bJF0JyEA7hTgKvxRktPBMBI9_Z8xsSVhJyFpv-1urDo1tftHoOX8ifT-dOvcX4Yk0bZU5S4Jnb1hmNQwgacX8NZU5j4FB4oPeaTwDQSjfAAA.webp",
-    "link": "https://www.latlong.net/poi/indian-institute-of-technology-madras-681576",
-    "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFZ07jpjBorhWnmYp8VLBoXyGWBIuALfNCd6srdif8q92Swzyhn6ZRSnCjaMELnlFdDGxNaozB-4k7ah4RH2oc0l21DDrxMQDY06tkzJAWMr1eGVcD0BNg8D2hIRWwKt6vIKRJr5fuY7lWLbP6LTFj6-dmoglEWuiAj8dGw&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQFnoECDsQAQ&uoh=1",
-    "snippet": "It is located in Avadi, Tamil Nadu (IN). You can see the detailed information below the map.",
-    "snippet_highlighted_words": [
-     "located"
-    ],
-    "source": "Latitude and Longitude Finder",
-    "title": "Indian Institute of Technology Madras Map"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "IIT MADRAS is situated in chennai suburb called guindy, adjacent to raj bhavan and cancer research institute ANNEXE ( not the main campus) , it ...",
-      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
-      "source_info_link": "https://www.quora.com/Is-the-Madras-Institute-of-Technology-located-outer-Chennai-city"
-     }
-    },
-    "displayed_link": "أكثر من 40 إجابة · قبل 8 سنوات",
-    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
-    "link": "https://www.quora.com/Is-the-Madras-Institute-of-Technology-located-outer-Chennai-city",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFZdifAWC3yj63fuPytbPvoYIJEqQQu8Xre0pK0A5XXyKUOld__PbFrVkwR6qR0WD9ndUDbRtMA4QP9oKdbmyxi9DPmG6zsHRZ3NW3GeyY7yxKxkUp9LAmwqXFHOe7nnIVLbO0onxaGzijcnDzhgoVeVH94-ivzW38sqtzXPXtf5AFFns3gI9XP3x&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQFnoECEIQAQ&uoh=1",
-    "snippet": "Is the Madras Institute of Technology located outer Chennai city?",
-    "source": "Quora",
-    "title": "Is the Madras Institute of Technology located outer ..."
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "IIT Madras – India's Top IIT Campus, Tamilnadu | Founded in 1959, Indian Institute of Technology Madras is India's No.1 IIT.",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
-     }
-    },
-    "displayed_link": "أكثر من 360 تفاعل · قبل 5 أشهر",
-    "duration": "0:35",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/100063889639005/videos/iit-madras-indias-top-iit-campus-tamilnadufounded-in-1959-indian-institute-of-te/1256296190033863/",
+    "displayed_link": "3.2K+ likes · 1 year ago",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "link": "https://www.instagram.com/p/DCTuryXTSKw/?hl=en",
     "position": 9,
-    "snippet": "IIT Madras – India's Top IIT Campus, Tamilnadu | Founded in 1959, Indian Institute of Technology Madras is India's No.1 IIT.",
-    "source": "Facebook · Indianoverviewer",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDf4wIhb50M89YCegIIbPsW3EzH-LtIzkG4ti_f7bH2-11pFW3arIUiQ&s",
-    "title": "IIT Madras – India's Top IIT Campus, Tamilnadu| Founded in ..."
+    "read_more_link": "https://www.instagram.com/p/DCTuryXTSKw/?hl=en#:~:text=The%20Indian%20Institute%20of%20Technology,Nadu%2C%20India%2C%20Established%20in%201959.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVEGZWwHCTWmpBz-PjRvWl_QZ3XCOCZczVv0UlxwVTNptpSA7zuqibwh994MF68QgndJewAtZe4jnJ-IpZba3aQsrL3QRngRlZN8GpAYFRSgZgFrmmUDCoqRtBD2gau1bblQ&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQFnoECFIQAQ&uoh=1",
+    "snippet": "The Indian Institute of Technology Madras (IIT Madras or IITM) is a public technical university located in Chennai, Tamil Nadu, India, ...",
+    "snippet_highlighted_words": [
+     "located in Chennai, Tamil Nadu, India"
+    ],
+    "source": "Instagram · pwgatewallah",
+    "title": "The Indian Institute of Technology Madras (IIT ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=10&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8NMDegQIMRAW",
+   "next": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=10&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8NMDegQIQxAW",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=90&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8tMDegQIMRAU",
-    "2": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=10&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8tMDegQIMRAE",
-    "3": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=20&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8tMDegQIMRAG",
-    "4": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=30&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8tMDegQIMRAI",
-    "5": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=40&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8tMDegQIMRAK",
-    "6": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=50&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8tMDegQIMRAM",
-    "7": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=60&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8tMDegQIMRAO",
-    "8": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=70&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8tMDegQIMRAQ",
-    "9": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=1e3c50f8191e1804&ei=kwKrapefOM3h0PEPj5nwkAE&start=80&sa=N&sstk=AS6-VmJUOoG8YJLLQLN_5haDbhXaLzt-LCiiOMrg1i5Kv1aR7RwgpKTZRNxg7D9tGyGF3VpeF0vuNvUivHbat2ppV80KZUwxtn0aXg&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ8tMDegQIMRAS"
+    "10": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=90&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8tMDegQIQxAU",
+    "2": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=10&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8tMDegQIQxAE",
+    "3": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=20&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8tMDegQIQxAG",
+    "4": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=30&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8tMDegQIQxAI",
+    "5": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=40&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8tMDegQIQxAK",
+    "6": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=50&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8tMDegQIQxAM",
+    "7": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=60&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8tMDegQIQxAO",
+    "8": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=70&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8tMDegQIQxAQ",
+    "9": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&ei=jcKvavXOLumXwbkPmdO70AY&start=80&sa=N&sstk=AS6-VmJzdAmqA6QkJJJGZDgpjUY6C_k5FM4rnv4xU4SG44Vqq1-15wl7SgkmfMYHi1jp9xtn_R8PMy_gruujzodX47FWAE6AXK13Xg&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ8tMDegQIQxAS"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVFSkxXbHBqWkZobldqQnNUalY0ZFRkTmVIQTFlVWxUUWpablYyVXhPRGQwU3pCalowUkdRMVp4UXpSQ05tbDRZMEZaWkhGaU1rOHdOekpWZFhRMU9HOVNNbGRvWTJKVk4xVTJlRFl6VWtkNVZpMXdRMlZsV21kdlFSSVhhM2RMY21Gd1pXWlBUVE5vTUZCRlVHbzFibmRyUVVVYUlrRkVjM0k1WmxOM1pWZFdUbGhmUzJwbFNYRTBlRmxKYWtoVlJUSnJWazR0VlZFIiwiZmN2IjoiMyIsImVpIjoia3dLcmFwZWZPTTNoMFBFUGo1bndrQUUiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1RheVdNNGVBQSIsInF1ZXN0aW9uIjoiSXMgSUlUIE1hZHJhcyBhIHRvcCBJSVQ/IiwibGsiOiJHaGRwY3lCcGFYUWdiV0ZrY21GeklHRWdkRzl3SUdscGRBIiwiYnMiOiJjMjJRUFF2Q01CQ0djYzNrcG1hNndZOVJMRGhuNkdJR0VVRndEalZ0RHR0RWt2UHIzNXRJcFZYYzd0NDg3ME00dG1aakdVREtBMnpWeWFzQUNzaGRVaUN5Q1I5aEFFU0NwdjhXQTdaanM0MjdRNms4NEZlOTlLNkpNMXJJa1o0aW1fT3A2Y0NlNncwMkNTd2l5QjRzUHhwRkNTS2p3U3Q3Umx1Qks5OXJLNWMyRU5LVmRNb1B1akRXMWE1NlFwUkllMElsc2hWZnRuN3NzOVN4SDNQc1lPcXdQWnZfWHVCcThhWjlpUDhDNTZGd2RhMHJMYklGbl8zZTR5ODVITHdBIiwiaWQiOiJmY19rd0tyYXBlZk9NM2gwUEVQajVud2tBRV82In0=",
-    "page_token": "yWq-s3icHdBdboIwAADg7DI-jjKYiyZmGaOA6NCWtvy8LKVFUSgwYVZ92112qp1my27w5fv6bg5t_XOXVuPYD3PD0Frf77tu35T3olMGH66tMARvmoKLej59mprPO7GAg3ZeO-0g2vfMxYD4VSUYY9gKB8QkQJZcRRBTRE3NoIeyY_4pE2xTKsPc93jZvlxKvzoktEcS4oarGSqAXJFWrijwpuvE1oSFTWz250wBm4LO5k2-TM2ZXpNqwH6zlT6wRbofEejTLM01V_mJuA5kbhWTALviKEEEzaAk0TKizN0klywJsC78GSW1HXsPoxVbYSV8pggAN-46CDPnI0oeLQ48zz-EDg6i6ybJY3ysrxIyWngyjK1--0ZtM4e4TsGfX8kbU7Kd7MR5YU3-xxbvOzXO-1O3_wWfbndU",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UaGZWMmg0TVhaUFR6aEhiSFpVWm1WUVNtbGljblZEYjA5dVJIaFFPVWR1V1VaUmFpMWxYMHhvUnpWUlFUUnRaMk5aUjJwS2NuTXdWVWhHUVZkSlIzTnZWbUpYTkc1aWExQTJRMDlWTlROMVJuZ3RUbE5GZUc1SFFSSVhhbU5MZG1GMldFOU1kVzFZZDJKclVHMWtUemN3UVZrYUlrRkVjM0k1WmxFNWFsZ3pOV3RTUzNWbFNEUk5kbEZJZUdSNmVIaHpVRVZ0VlVFIiwiZmN2IjoiMyIsImVpIjoiamNLdmF2WE9MdW1Yd2JrUG1kTzcwQVkiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1hhVGhJRTlBQSIsInF1ZXN0aW9uIjoiSXMgSUlUIE1hZHJhcyBhIHRvcCBJSVQ/IiwibGsiOiJHaGRwY3lCcGFYUWdiV0ZrY21GeklHRWdkRzl3SUdscGRBIiwiYnMiOiJjNFdPTVEtQ01CQkc0M3FUbTlycEVzRkJuWm80TTdqSVFGeE1ISnhPb0hJSlVFSkxpUF9lbG9VNkdMZTc3M3YzY25DQ2RXb3dUVy1ZVWRHVFFVS3JPeDhrY2lOV2JKRFpZaE4yTG9BcnhCYzlvcUllLWV0YzlicHhNN2Q0WnZ0TzVFNUUxUXdHcmdsc1BKZzdFREtJN2hWWkR4bU5waXR6cGhycHFRY2I2Qk1aaS0zNGk1dnQ4SUNEXzY5Z3BUZ2Y2b2wzcmRYNEt0M1N1aUcwSHNXLS1vUFA4dVhpQXciLCJpZCI6ImZjX2pjS3ZhdlhPTHVtWHdia1BtZE83MEFZXzMifQ==",
+    "page_token": "sbJqgHicHdBdToMwAADgeJk9CoUxdcliguNnbKAUaKEvplAGjAKN1DF48y6eytNovMD38H1986Zvf-7SWkoxbhVlmqb7ahgqXt4XQ6fQce4LpaCc57Rot5uHDXg-FztrnMyXYTLDRAi0h2p0YaegJ0eKWQdbGSMMRekYmNrCIPgpo6D247amZWp_Is1ehyrz0GIayDGsU8r7oL3FDEESu-ZIUIBQ6u0DgNa-DjOkHdYBr9_KfX1EiazDBmi5TmC4EIotmBENWHQxfX8JvERj11z1ZtZ7bq7at7gVDnaHuVggxjyYSo406LA2AlVka-IS6aRmf3bsIold1lBgSmI96r5lE6fxTOgG8ysmUcaR5_ODXui1ZOmgpqBaogR0uSMjP_GmJIb96lxcd_rqf2z3fu7kVnwM1S88jHic",
     "question": "Is IIT Madras a top IIT?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yWq-s3icHdBdboIwAADg7DI-jjKYiyZmGaOA6NCWtvy8LKVFUSgwYVZ92112qp1my27w5fv6bg5t_XOXVuPYD3PD0Frf77tu35T3olMGH66tMARvmoKLej59mprPO7GAg3ZeO-0g2vfMxYD4VSUYY9gKB8QkQJZcRRBTRE3NoIeyY_4pE2xTKsPc93jZvlxKvzoktEcS4oarGSqAXJFWrijwpuvE1oSFTWz250wBm4LO5k2-TM2ZXpNqwH6zlT6wRbofEejTLM01V_mJuA5kbhWTALviKEEEzaAk0TKizN0klywJsC78GSW1HXsPoxVbYSV8pggAN-46CDPnI0oeLQ48zz-EDg6i6ybJY3ysrxIyWngyjK1--0ZtM4e4TsGfX8kbU7Kd7MR5YU3-xxbvOzXO-1O3_wWfbndU",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVFSkxXbHBqWkZobldqQnNUalY0ZFRkTmVIQTFlVWxUUWpablYyVXhPRGQwU3pCalowUkdRMVp4UXpSQ05tbDRZMEZaWkhGaU1rOHdOekpWZFhRMU9HOVNNbGRvWTJKVk4xVTJlRFl6VWtkNVZpMXdRMlZsV21kdlFSSVhhM2RMY21Gd1pXWlBUVE5vTUZCRlVHbzFibmRyUVVVYUlrRkVjM0k1WmxOM1pWZFdUbGhmUzJwbFNYRTBlRmxKYWtoVlJUSnJWazR0VlZFIiwiZmN2IjoiMyIsImVpIjoia3dLcmFwZWZPTTNoMFBFUGo1bndrQUUiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1RheVdNNGVBQSIsInF1ZXN0aW9uIjoiSXMgSUlUIE1hZHJhcyBhIHRvcCBJSVQ%2FIiwibGsiOiJHaGRwY3lCcGFYUWdiV0ZrY21GeklHRWdkRzl3SUdscGRBIiwiYnMiOiJjMjJRUFF2Q01CQ0djYzNrcG1hNndZOVJMRGhuNkdJR0VVRndEalZ0RHR0RWt2UHIzNXRJcFZYYzd0NDg3ME00dG1aakdVREtBMnpWeWFzQUNzaGRVaUN5Q1I5aEFFU0NwdjhXQTdaanM0MjdRNms4NEZlOTlLNkpNMXJJa1o0aW1fT3A2Y0NlNncwMkNTd2l5QjRzUHhwRkNTS2p3U3Q3Umx1Qks5OXJLNWMyRU5LVmRNb1B1akRXMWE1NlFwUkllMElsc2hWZnRuN3NzOVN4SDNQc1lPcXdQWnZfWHVCcThhWjlpUDhDNTZGd2RhMHJMYklGbl8zZTR5ODVITHdBIiwiaWQiOiJmY19rd0tyYXBlZk9NM2gwUEVQajVud2tBRV82In0%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sbJqgHicHdBdToMwAADgeJk9CoUxdcliguNnbKAUaKEvplAGjAKN1DF48y6eytNovMD38H1986Zvf-7SWkoxbhVlmqb7ahgqXt4XQ6fQce4LpaCc57Rot5uHDXg-FztrnMyXYTLDRAi0h2p0YaegJ0eKWQdbGSMMRekYmNrCIPgpo6D247amZWp_Is1ehyrz0GIayDGsU8r7oL3FDEESu-ZIUIBQ6u0DgNa-DjOkHdYBr9_KfX1EiazDBmi5TmC4EIotmBENWHQxfX8JvERj11z1ZtZ7bq7at7gVDnaHuVggxjyYSo406LA2AlVka-IS6aRmf3bsIold1lBgSmI96r5lE6fxTOgG8ysmUcaR5_ODXui1ZOmgpqBaogR0uSMjP_GmJIb96lxcd_rqf2z3fu7kVnwM1S88jHic",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UaGZWMmg0TVhaUFR6aEhiSFpVWm1WUVNtbGljblZEYjA5dVJIaFFPVWR1V1VaUmFpMWxYMHhvUnpWUlFUUnRaMk5aUjJwS2NuTXdWVWhHUVZkSlIzTnZWbUpYTkc1aWExQTJRMDlWTlROMVJuZ3RUbE5GZUc1SFFSSVhhbU5MZG1GMldFOU1kVzFZZDJKclVHMWtUemN3UVZrYUlrRkVjM0k1WmxFNWFsZ3pOV3RTUzNWbFNEUk5kbEZJZUdSNmVIaHpVRVZ0VlVFIiwiZmN2IjoiMyIsImVpIjoiamNLdmF2WE9MdW1Yd2JrUG1kTzcwQVkiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1hhVGhJRTlBQSIsInF1ZXN0aW9uIjoiSXMgSUlUIE1hZHJhcyBhIHRvcCBJSVQ%2FIiwibGsiOiJHaGRwY3lCcGFYUWdiV0ZrY21GeklHRWdkRzl3SUdscGRBIiwiYnMiOiJjNFdPTVEtQ01CQkc0M3FUbTlycEVzRkJuWm80TTdqSVFGeE1ISnhPb0hJSlVFSkxpUF9lbG9VNkdMZTc3M3YzY25DQ2RXb3dUVy1ZVWRHVFFVS3JPeDhrY2lOV2JKRFpZaE4yTG9BcnhCYzlvcUllLWV0YzlicHhNN2Q0WnZ0TzVFNUUxUXdHcmdsc1BKZzdFREtJN2hWWkR4bU5waXR6cGhycHFRY2I2Qk1aaS0zNGk1dnQ4SUNEXzY5Z3BUZ2Y2b2wzcmRYNEt0M1N1aUcwSHNXLS1vUFA4dVhpQXciLCJpZCI6ImZjX2pjS3ZhdlhPTHVtWHdia1BtZE83MEFZXzMifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVFSkxXbHBqWkZobldqQnNUalY0ZFRkTmVIQTFlVWxUUWpablYyVXhPRGQwU3pCalowUkdRMVp4UXpSQ05tbDRZMEZaWkhGaU1rOHdOekpWZFhRMU9HOVNNbGRvWTJKVk4xVTJlRFl6VWtkNVZpMXdRMlZsV21kdlFSSVhhM2RMY21Gd1pXWlBUVE5vTUZCRlVHbzFibmRyUVVVYUlrRkVjM0k1WmxOM1pWZFdUbGhmUzJwbFNYRTBlRmxKYWtoVlJUSnJWazR0VlZFIiwiZmN2IjoiMyIsImVpIjoia3dLcmFwZWZPTTNoMFBFUGo1bndrQUUiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1RheVdNNGVBQSIsInF1ZXN0aW9uIjoiSG93IGZhciBpcyBJSVQgTWFkcmFzIGZyb20gTWFpbiBDaXR5PyIsImxrIjoiR2lSb2IzY2dabUZ5SUdseklHbHBkQ0J0WVdSeVlYTWdabkp2YlNCdFlXbHVJR05wZEhrIiwiYnMiOiJjMjJRUFF2Q01CQ0djYzNrcG1hNndZOVJMRGhuNkdJR0VVRndEalZ0RHR0RWt2UHIzNXRJcFZYYzd0NDg3ME00dG1aakdVREtBMnpWeWFzQUNzaGRVaUN5Q1I5aEFFU0NwdjhXQTdaanM0MjdRNms4NEZlOTlLNkpNMXJJa1o0aW1fT3A2Y0NlNncwMkNTd2l5QjRzUHhwRkNTS2p3U3Q3Umx1Qks5OXJLNWMyRU5LVmRNb1B1akRXMWE1NlFwUkllMElsc2hWZnRuN3NzOVN4SDNQc1lPcXdQWnZfWHVCcThhWjlpUDhDNTZGd2RhMHJMYklGbl8zZTR5ODVITHdBIiwiaWQiOiJmY19rd0tyYXBlZk9NM2gwUEVQajVud2tBRV82In0=",
-    "page_token": "qdAfn3icHdDbboIwAADQ7Gd8HDdh0cQsQ27CKKPYUvqylIIilIsKMn3bv-yr9jVLdj7hfP-IU9f8Pt2qcRyua0ma5_n52PdHUT7zvpXY9d5xiTMhcsabtfFiKK8HvrGnnbk978wYDQO2oLy3xAGrwGTuyICC5siW1dwqaq696XtcXKnrTIBQGJJe3wvY5wKembzKcq8KiOwEiUe1DIkpV_wH83CQt_yeCj8otOaObEqAu7KTFrZ5R23oYDlJZwVrpg2ws6ROv4SaT3hTxUDlelmDFpFqeieViTwQJgq2qDdMuFFUIA8hJ4MbprqBG2BxFabIER8potvIK0zeYaPEQrOr4lLI4z0jpqDNCoTqcUY2jlmNp0IdTQj7U4zgg9eiRbUPmfx1KV0aRZ6vs9a5pa7SZZ0fxJ2ISzx0dF4c-G2jLf4_N5-HdlwPl_74B_0fgns",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UaGZWMmg0TVhaUFR6aEhiSFpVWm1WUVNtbGljblZEYjA5dVJIaFFPVWR1V1VaUmFpMWxYMHhvUnpWUlFUUnRaMk5aUjJwS2NuTXdWVWhHUVZkSlIzTnZWbUpYTkc1aWExQTJRMDlWTlROMVJuZ3RUbE5GZUc1SFFSSVhhbU5MZG1GMldFOU1kVzFZZDJKclVHMWtUemN3UVZrYUlrRkVjM0k1WmxFNWFsZ3pOV3RTUzNWbFNEUk5kbEZJZUdSNmVIaHpVRVZ0VlVFIiwiZmN2IjoiMyIsImVpIjoiamNLdmF2WE9MdW1Yd2JrUG1kTzcwQVkiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1hhVGhJRTlBQSIsInF1ZXN0aW9uIjoiSG93IGZhciBpcyBJSVQgTWFkcmFzIGZyb20gTWFpbiBDaXR5PyIsImxrIjoiR2lSb2IzY2dabUZ5SUdseklHbHBkQ0J0WVdSeVlYTWdabkp2YlNCdFlXbHVJR05wZEhrIiwiYnMiOiJjNFdPTVEtQ01CQkc0M3FUbTlycEVzRkJuWm80TTdqSVFGeE1ISnhPb0hJSlVFSkxpUF9lbG9VNkdMZTc3M3YzY25DQ2RXb3dUVy1ZVWRHVFFVS3JPeDhrY2lOV2JKRFpZaE4yTG9BcnhCYzlvcUllLWV0YzlicHhNN2Q0WnZ0TzVFNUUxUXdHcmdsc1BKZzdFREtJN2hWWkR4bU5waXR6cGhycHFRY2I2Qk1aaS0zNGk1dnQ4SUNEXzY5Z3BUZ2Y2b2wzcmRYNEt0M1N1aUcwSHNXLS1vUFA4dVhpQXciLCJpZCI6ImZjX2pjS3ZhdlhPTHVtWHdia1BtZE83MEFZXzMifQ==",
+    "page_token": "5_UY63icHdBdToMwAADgeBkfXQtDzZLFpONnLLOTdi2lLwYKo0ILqDg23ryLp_I0Jn5H-L5_zFvX_t6c9TgOn6vFYpqmu7rva1Pdqd4u8s9rpxYqN6bIVbu6f7iHTye1Dr5itHmPUcKGgfsEUEjAYQOc6kgYZUvvmHonItqlCtmVzlozKDUGkmYWbom9LKUfOtx9Xop5lyVWHlgnm30aQNVhS5mHiJ8AxQmkUUj3IvAEYE7VEk63JSAzxrQpUenEAMPaTdoRFdEux-0uKowxuSOvqU8s8cOYB48QWy8mrZrwXLqFLzd7gT7ySBtsh65KzSX1tZc1HFGhD5kto0PEUaDL9wyMTiZkdgQXWHDtZnZMipS84BmhlPRvCSOzaoxlpp2k0JFMeS6j8VyyUORHdWVOAKqmBqoL_XK6Panz2r39_1y_nuy4Gj76-g_Q6YHF",
     "question": "How far is IIT Madras from Main City?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qdAfn3icHdDbboIwAADQ7Gd8HDdh0cQsQ27CKKPYUvqylIIilIsKMn3bv-yr9jVLdj7hfP-IU9f8Pt2qcRyua0ma5_n52PdHUT7zvpXY9d5xiTMhcsabtfFiKK8HvrGnnbk978wYDQO2oLy3xAGrwGTuyICC5siW1dwqaq696XtcXKnrTIBQGJJe3wvY5wKembzKcq8KiOwEiUe1DIkpV_wH83CQt_yeCj8otOaObEqAu7KTFrZ5R23oYDlJZwVrpg2ws6ROv4SaT3hTxUDlelmDFpFqeieViTwQJgq2qDdMuFFUIA8hJ4MbprqBG2BxFabIER8potvIK0zeYaPEQrOr4lLI4z0jpqDNCoTqcUY2jlmNp0IdTQj7U4zgg9eiRbUPmfx1KV0aRZ6vs9a5pa7SZZ0fxJ2ISzx0dF4c-G2jLf4_N5-HdlwPl_74B_0fgns",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVFSkxXbHBqWkZobldqQnNUalY0ZFRkTmVIQTFlVWxUUWpablYyVXhPRGQwU3pCalowUkdRMVp4UXpSQ05tbDRZMEZaWkhGaU1rOHdOekpWZFhRMU9HOVNNbGRvWTJKVk4xVTJlRFl6VWtkNVZpMXdRMlZsV21kdlFSSVhhM2RMY21Gd1pXWlBUVE5vTUZCRlVHbzFibmRyUVVVYUlrRkVjM0k1WmxOM1pWZFdUbGhmUzJwbFNYRTBlRmxKYWtoVlJUSnJWazR0VlZFIiwiZmN2IjoiMyIsImVpIjoia3dLcmFwZWZPTTNoMFBFUGo1bndrQUUiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1RheVdNNGVBQSIsInF1ZXN0aW9uIjoiSG93IGZhciBpcyBJSVQgTWFkcmFzIGZyb20gTWFpbiBDaXR5PyIsImxrIjoiR2lSb2IzY2dabUZ5SUdseklHbHBkQ0J0WVdSeVlYTWdabkp2YlNCdFlXbHVJR05wZEhrIiwiYnMiOiJjMjJRUFF2Q01CQ0djYzNrcG1hNndZOVJMRGhuNkdJR0VVRndEalZ0RHR0RWt2UHIzNXRJcFZYYzd0NDg3ME00dG1aakdVREtBMnpWeWFzQUNzaGRVaUN5Q1I5aEFFU0NwdjhXQTdaanM0MjdRNms4NEZlOTlLNkpNMXJJa1o0aW1fT3A2Y0NlNncwMkNTd2l5QjRzUHhwRkNTS2p3U3Q3Umx1Qks5OXJLNWMyRU5LVmRNb1B1akRXMWE1NlFwUkllMElsc2hWZnRuN3NzOVN4SDNQc1lPcXdQWnZfWHVCcThhWjlpUDhDNTZGd2RhMHJMYklGbl8zZTR5ODVITHdBIiwiaWQiOiJmY19rd0tyYXBlZk9NM2gwUEVQajVud2tBRV82In0%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5_UY63icHdBdToMwAADgeBkfXQtDzZLFpONnLLOTdi2lLwYKo0ILqDg23ryLp_I0Jn5H-L5_zFvX_t6c9TgOn6vFYpqmu7rva1Pdqd4u8s9rpxYqN6bIVbu6f7iHTye1Dr5itHmPUcKGgfsEUEjAYQOc6kgYZUvvmHonItqlCtmVzlozKDUGkmYWbom9LKUfOtx9Xop5lyVWHlgnm30aQNVhS5mHiJ8AxQmkUUj3IvAEYE7VEk63JSAzxrQpUenEAMPaTdoRFdEux-0uKowxuSOvqU8s8cOYB48QWy8mrZrwXLqFLzd7gT7ySBtsh65KzSX1tZc1HFGhD5kto0PEUaDL9wyMTiZkdgQXWHDtZnZMipS84BmhlPRvCSOzaoxlpp2k0JFMeS6j8VyyUORHdWVOAKqmBqoL_XK6Panz2r39_1y_nuy4Gj76-g_Q6YHF",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UaGZWMmg0TVhaUFR6aEhiSFpVWm1WUVNtbGljblZEYjA5dVJIaFFPVWR1V1VaUmFpMWxYMHhvUnpWUlFUUnRaMk5aUjJwS2NuTXdWVWhHUVZkSlIzTnZWbUpYTkc1aWExQTJRMDlWTlROMVJuZ3RUbE5GZUc1SFFSSVhhbU5MZG1GMldFOU1kVzFZZDJKclVHMWtUemN3UVZrYUlrRkVjM0k1WmxFNWFsZ3pOV3RTUzNWbFNEUk5kbEZJZUdSNmVIaHpVRVZ0VlVFIiwiZmN2IjoiMyIsImVpIjoiamNLdmF2WE9MdW1Yd2JrUG1kTzcwQVkiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1hhVGhJRTlBQSIsInF1ZXN0aW9uIjoiSG93IGZhciBpcyBJSVQgTWFkcmFzIGZyb20gTWFpbiBDaXR5PyIsImxrIjoiR2lSb2IzY2dabUZ5SUdseklHbHBkQ0J0WVdSeVlYTWdabkp2YlNCdFlXbHVJR05wZEhrIiwiYnMiOiJjNFdPTVEtQ01CQkc0M3FUbTlycEVzRkJuWm80TTdqSVFGeE1ISnhPb0hJSlVFSkxpUF9lbG9VNkdMZTc3M3YzY25DQ2RXb3dUVy1ZVWRHVFFVS3JPeDhrY2lOV2JKRFpZaE4yTG9BcnhCYzlvcUllLWV0YzlicHhNN2Q0WnZ0TzVFNUUxUXdHcmdsc1BKZzdFREtJN2hWWkR4bU5waXR6cGhycHFRY2I2Qk1aaS0zNGk1dnQ4SUNEXzY5Z3BUZ2Y2b2wzcmRYNEt0M1N1aUcwSHNXLS1vUFA4dVhpQXciLCJpZCI6ImZjX2pjS3ZhdlhPTHVtWHdia1BtZE83MEFZXzMifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVFSkxXbHBqWkZobldqQnNUalY0ZFRkTmVIQTFlVWxUUWpablYyVXhPRGQwU3pCalowUkdRMVp4UXpSQ05tbDRZMEZaWkhGaU1rOHdOekpWZFhRMU9HOVNNbGRvWTJKVk4xVTJlRFl6VWtkNVZpMXdRMlZsV21kdlFSSVhhM2RMY21Gd1pXWlBUVE5vTUZCRlVHbzFibmRyUVVVYUlrRkVjM0k1WmxOM1pWZFdUbGhmUzJwbFNYRTBlRmxKYWtoVlJUSnJWazR0VlZFIiwiZmN2IjoiMyIsImVpIjoia3dLcmFwZWZPTTNoMFBFUGo1bndrQUUiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1RheVdNNGVBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmFua2luZyBvZiB0aGUgTWFkcmFzIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5IGluIEluZGlhPyIsImxrIjoiYzVQU3owMU1LVW9zVnNqTUt5N0pMQ2t0U1ZYSVQxTW9TVTNPeU12UHlVLXZWQ2hLek12T3pFc0h5Z05SU21ZaUFBIiwiYnMiOiJjMjJRUFF2Q01CQ0djYzNrcG1hNndZOVJMRGhuNkdJR0VVRndEalZ0RHR0RWt2UHIzNXRJcFZYYzd0NDg3ME00dG1aakdVREtBMnpWeWFzQUNzaGRVaUN5Q1I5aEFFU0NwdjhXQTdaanM0MjdRNms4NEZlOTlLNkpNMXJJa1o0aW1fT3A2Y0NlNncwMkNTd2l5QjRzUHhwRkNTS2p3U3Q3Umx1Qks5OXJLNWMyRU5LVmRNb1B1akRXMWE1NlFwUkllMElsc2hWZnRuN3NzOVN4SDNQc1lPcXdQWnZfWHVCcThhWjlpUDhDNTZGd2RhMHJMYklGbl8zZTR5ODVITHdBIiwiaWQiOiJmY19rd0tyYXBlZk9NM2gwUEVQajVud2tBRV82In0=",
-    "page_token": "GkoOY3icHdBdbpswAABg7TJ9bDAO2YgUVWIx0Kl2ZYNt8MvE7ASCzc8SN6i87Qo7w06103TaDT59v_64y2j_fvrdeT_f9pvNsiyP7TS17vSop2HT3N5HvdGNcz8abfe7zzvwdNYHdNfJ16tOKJ9ncWRBIaOK8i7AIkUFIiNeu7JwU1D3aGly8oZ7E_AgljrFW1qmuRLxMwfdUbgYGksjIzU0gqQMRS-yZyuFplKlq09D11G-9SVMa8XnSdr0jsO5IFA1HDFh7HMokDsXGXlRIpUVtL4eWIStq0lKdsoCqC_AE9GuGoptkbuszABUPB7FsfW6Yt-wS9bXo8gx-BLSKokMVDcSqJJlbjSOccndqqyTMgOvNfxH7MzVBP69rhKnbExw2C4cCdr04s2EPmFsulDOVt27gXOW4cHPFTCSijmvy3Z7cmJiyPw8Zb40gClKH876foAP_68P38-D38_Xqf0Aq5KLrQ",
-    "question": "What is the ranking of the Madras Institute of Technology in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GkoOY3icHdBdbpswAABg7TJ9bDAO2YgUVWIx0Kl2ZYNt8MvE7ASCzc8SN6i87Qo7w06103TaDT59v_64y2j_fvrdeT_f9pvNsiyP7TS17vSop2HT3N5HvdGNcz8abfe7zzvwdNYHdNfJ16tOKJ9ncWRBIaOK8i7AIkUFIiNeu7JwU1D3aGly8oZ7E_AgljrFW1qmuRLxMwfdUbgYGksjIzU0gqQMRS-yZyuFplKlq09D11G-9SVMa8XnSdr0jsO5IFA1HDFh7HMokDsXGXlRIpUVtL4eWIStq0lKdsoCqC_AE9GuGoptkbuszABUPB7FsfW6Yt-wS9bXo8gx-BLSKokMVDcSqJJlbjSOccndqqyTMgOvNfxH7MzVBP69rhKnbExw2C4cCdr04s2EPmFsulDOVt27gXOW4cHPFTCSijmvy3Z7cmJiyPw8Zb40gClKH876foAP_68P38-D38_Xqf0Aq5KLrQ",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVFSkxXbHBqWkZobldqQnNUalY0ZFRkTmVIQTFlVWxUUWpablYyVXhPRGQwU3pCalowUkdRMVp4UXpSQ05tbDRZMEZaWkhGaU1rOHdOekpWZFhRMU9HOVNNbGRvWTJKVk4xVTJlRFl6VWtkNVZpMXdRMlZsV21kdlFSSVhhM2RMY21Gd1pXWlBUVE5vTUZCRlVHbzFibmRyUVVVYUlrRkVjM0k1WmxOM1pWZFdUbGhmUzJwbFNYRTBlRmxKYWtoVlJUSnJWazR0VlZFIiwiZmN2IjoiMyIsImVpIjoia3dLcmFwZWZPTTNoMFBFUGo1bndrQUUiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1RheVdNNGVBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmFua2luZyBvZiB0aGUgTWFkcmFzIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5IGluIEluZGlhPyIsImxrIjoiYzVQU3owMU1LVW9zVnNqTUt5N0pMQ2t0U1ZYSVQxTW9TVTNPeU12UHlVLXZWQ2hLek12T3pFc0h5Z05SU21ZaUFBIiwiYnMiOiJjMjJRUFF2Q01CQ0djYzNrcG1hNndZOVJMRGhuNkdJR0VVRndEalZ0RHR0RWt2UHIzNXRJcFZYYzd0NDg3ME00dG1aakdVREtBMnpWeWFzQUNzaGRVaUN5Q1I5aEFFU0NwdjhXQTdaanM0MjdRNms4NEZlOTlLNkpNMXJJa1o0aW1fT3A2Y0NlNncwMkNTd2l5QjRzUHhwRkNTS2p3U3Q3Umx1Qks5OXJLNWMyRU5LVmRNb1B1akRXMWE1NlFwUkllMElsc2hWZnRuN3NzOVN4SDNQc1lPcXdQWnZfWHVCcThhWjlpUDhDNTZGd2RhMHJMYklGbl8zZTR5ODVITHdBIiwiaWQiOiJmY19rd0tyYXBlZk9NM2gwUEVQajVud2tBRV82In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UaGZWMmg0TVhaUFR6aEhiSFpVWm1WUVNtbGljblZEYjA5dVJIaFFPVWR1V1VaUmFpMWxYMHhvUnpWUlFUUnRaMk5aUjJwS2NuTXdWVWhHUVZkSlIzTnZWbUpYTkc1aWExQTJRMDlWTlROMVJuZ3RUbE5GZUc1SFFSSVhhbU5MZG1GMldFOU1kVzFZZDJKclVHMWtUemN3UVZrYUlrRkVjM0k1WmxFNWFsZ3pOV3RTUzNWbFNEUk5kbEZJZUdSNmVIaHpVRVZ0VlVFIiwiZmN2IjoiMyIsImVpIjoiamNLdmF2WE9MdW1Yd2JrUG1kTzcwQVkiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1hhVGhJRTlBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBzbyBzcGVjaWFsIGFib3V0IElJVCBNYWRyYXM/IiwibGsiOiJHaU4zYUdGMElHbHpJSE52SUhOd1pXTnBZV3dnWVdKdmRYUWdhV2wwSUcxaFpISmhjdyIsImJzIjoiYzRXT01RLUNNQkJHNDNxVG05cnBFc0ZCblpvNE03aklRRnhNSEp4T29ISUpVRUpMaVBfZWxvVTZHTGU3NzN2M2NuQ0NkV293VFctWVVkR1RRVUtyT3g4a2NpTldiSkRaWWhOMkxvQXJ4QmM5b3FJZS1ldGM5YnB4TTdkNFp2dE81RTVFMVF3R3JnbHNQSmc3RURLSTdoVlpEeG1OcGl0enBocnBxUWNiNkJNWmktMzRpNXZ0OElDRF82OWdwVGdmNm9sM3JkWDRLdDNTdWlHMEhzVy0tb1BQOHVYaUF3IiwiaWQiOiJmY19qY0t2YXZYT0x1bVh3YmtQbWRPNzBBWV8zIn0=",
+    "page_token": "SFkygXicHdBdboIwAADg7DI-Too_iyZmSbUM3dbYQgvtywIFrNACKorjbXfZqXaaLbvBl-_r2xzr6ufhpruuvSzH477vHw9NczD5o2rsOLl81mqsEmPSRFXL-dMcPBdqha5buD5tIWFtyzfUCSxGmSEDLbEhNexS3kbcmlPgs54bXRPGA-ZMPxmQmr_cBfYWN-Z6t3DIisCXOBjgWgA2E_HWDTewx2CH3mNtE7C45Kw7hS4fhHt_SWN4UU72FvFdISu6FzF2We3pCIHXZINnueH9uzsFMpScV-aqBn0OXWpyi3VWmSYp4ZyUGIRoFoTVrJX1tkvAbpr5u1aYRZkiXAcbWiOdnYTTuSKWInTuIOV6ImxH0oju8QBhRJsjYXRQpbEceWvqe5aC7C7jDPEJ9Bhj0xzJ_Z-JUN8UjIwKdVtNRv-fq4_Cdsv23Bx-Ae_Cg5M",
+    "question": "What is so special about IIT Madras?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SFkygXicHdBdboIwAADg7DI-Too_iyZmSbUM3dbYQgvtywIFrNACKorjbXfZqXaaLbvBl-_r2xzr6ufhpruuvSzH477vHw9NczD5o2rsOLl81mqsEmPSRFXL-dMcPBdqha5buD5tIWFtyzfUCSxGmSEDLbEhNexS3kbcmlPgs54bXRPGA-ZMPxmQmr_cBfYWN-Z6t3DIisCXOBjgWgA2E_HWDTewx2CH3mNtE7C45Kw7hS4fhHt_SWN4UU72FvFdISu6FzF2We3pCIHXZINnueH9uzsFMpScV-aqBn0OXWpyi3VWmSYp4ZyUGIRoFoTVrJX1tkvAbpr5u1aYRZkiXAcbWiOdnYTTuSKWInTuIOV6ImxH0oju8QBhRJsjYXRQpbEceWvqe5aC7C7jDPEJ9Bhj0xzJ_Z-JUN8UjIwKdVtNRv-fq4_Cdsv23Bx-Ae_Cg5M",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UaGZWMmg0TVhaUFR6aEhiSFpVWm1WUVNtbGljblZEYjA5dVJIaFFPVWR1V1VaUmFpMWxYMHhvUnpWUlFUUnRaMk5aUjJwS2NuTXdWVWhHUVZkSlIzTnZWbUpYTkc1aWExQTJRMDlWTlROMVJuZ3RUbE5GZUc1SFFSSVhhbU5MZG1GMldFOU1kVzFZZDJKclVHMWtUemN3UVZrYUlrRkVjM0k1WmxFNWFsZ3pOV3RTUzNWbFNEUk5kbEZJZUdSNmVIaHpVRVZ0VlVFIiwiZmN2IjoiMyIsImVpIjoiamNLdmF2WE9MdW1Yd2JrUG1kTzcwQVkiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1hhVGhJRTlBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBzbyBzcGVjaWFsIGFib3V0IElJVCBNYWRyYXM%2FIiwibGsiOiJHaU4zYUdGMElHbHpJSE52SUhOd1pXTnBZV3dnWVdKdmRYUWdhV2wwSUcxaFpISmhjdyIsImJzIjoiYzRXT01RLUNNQkJHNDNxVG05cnBFc0ZCblpvNE03aklRRnhNSEp4T29ISUpVRUpMaVBfZWxvVTZHTGU3NzN2M2NuQ0NkV293VFctWVVkR1RRVUtyT3g4a2NpTldiSkRaWWhOMkxvQXJ4QmM5b3FJZS1ldGM5YnB4TTdkNFp2dE81RTVFMVF3R3JnbHNQSmc3RURLSTdoVlpEeG1OcGl0enBocnBxUWNiNkJNWmktMzRpNXZ0OElDRF82OWdwVGdmNm9sM3JkWDRLdDNTdWlHMEhzVy0tb1BQOHVYaUF3IiwiaWQiOiJmY19qY0t2YXZYT0x1bVh3YmtQbWRPNzBBWV8zIn0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVFSkxXbHBqWkZobldqQnNUalY0ZFRkTmVIQTFlVWxUUWpablYyVXhPRGQwU3pCalowUkdRMVp4UXpSQ05tbDRZMEZaWkhGaU1rOHdOekpWZFhRMU9HOVNNbGRvWTJKVk4xVTJlRFl6VWtkNVZpMXdRMlZsV21kdlFSSVhhM2RMY21Gd1pXWlBUVE5vTUZCRlVHbzFibmRyUVVVYUlrRkVjM0k1WmxOM1pWZFdUbGhmUzJwbFNYRTBlRmxKYWtoVlJUSnJWazR0VlZFIiwiZmN2IjoiMyIsImVpIjoia3dLcmFwZWZPTTNoMFBFUGo1bndrQUUiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1RheVdNNGVBQSIsInF1ZXN0aW9uIjoiSXMgSUlUIE1hZHJhcyBhIHVuaXZlcnNpdHkgb3IgY29sbGVnZT8iLCJsayI6IkdpVnBjeUJwYVhRZ2JXRmtjbUZ6SUdFZ2RXNXBkbVZ5YzJsMGVTQnZjaUJqYjJ4c1pXZGwiLCJicyI6ImMyMlFQUXZDTUJDR2NjM2twbWE2d1k5UkxEaG42R0lHRVVGd0RqVnREdHRFa3ZQcjM1dElwVlhjN3Q0ODcwTTR0bVpqR1VES0EyelZ5YXNBQ3NoZFVpQ3lDUjloQUVTQ3B2OFdBN1pqczQyN1E2azg0RmU5OUs2Sk0xcklrWjRpbV9PcDZjQ2U2dzAyQ1N3aXlCNHNQeHBGQ1NLandTdDdSbHVCSzk5cks1YzJFTktWZE1vUHVqRFcxYTU2UXBSSWUwSWxzaFZmdG43c3M5U3hIM1BzWU9xd1Badl9YdUJxOGFaOWlQOEM1NkZ3ZGEwckxiSUZuXzNlNHk4NUhMd0EiLCJpZCI6ImZjX2t3S3JhcGVmT00zaDBQRVBqNW53a0FFXzYifQ==",
-    "page_token": "6Nue13icHdBfboIwHADg7DI-DoHooolZhgKKoUqlv2JfFmj5IxTLFO3kbXfZqXaaLfuO8H19y9O5-Xm6V33fXeeGobV-LpUqZf7MVWuk18eZGzyVMkt5M5--TM3Xgi_c28ZZfmyciHQdrPD4YHsx-HIt1kRzCcMhUQMfQpMB2uBWHCmgKgMRZdKbRLHYh5YXEJ_tIZFV2nQTvjTbHJwYx3AHy7TTFXa5KR6oLodsCMd5C8UR2JZSc8foWOfNTBKoKG_E7WBKhSCgeV2p3A8_Dz7RVKI9rGRBfW_H3NkFBnwLXezQNqh3MYTc6xhYnZ8lb3aceHFIvTgiV418pJiLsFuJixj3j2PiSNbMUGiVmrgQpTXchNU7GKtTRPDAa9kSGkwIZQ9MTZu7ekCeXAnZHXNSTTPb-buptkyPCn5f2KP_z8V70fbz7qLKX0XthLU",
-    "question": "Is IIT Madras a university or college?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6Nue13icHdBfboIwHADg7DI-DoHooolZhgKKoUqlv2JfFmj5IxTLFO3kbXfZqXaaLfuO8H19y9O5-Xm6V33fXeeGobV-LpUqZf7MVWuk18eZGzyVMkt5M5--TM3Xgi_c28ZZfmyciHQdrPD4YHsx-HIt1kRzCcMhUQMfQpMB2uBWHCmgKgMRZdKbRLHYh5YXEJ_tIZFV2nQTvjTbHJwYx3AHy7TTFXa5KR6oLodsCMd5C8UR2JZSc8foWOfNTBKoKG_E7WBKhSCgeV2p3A8_Dz7RVKI9rGRBfW_H3NkFBnwLXezQNqh3MYTc6xhYnZ8lb3aceHFIvTgiV418pJiLsFuJixj3j2PiSNbMUGiVmrgQpTXchNU7GKtTRPDAa9kSGkwIZQ9MTZu7ekCeXAnZHXNSTTPb-buptkyPCn5f2KP_z8V70fbz7qLKX0XthLU",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVFSkxXbHBqWkZobldqQnNUalY0ZFRkTmVIQTFlVWxUUWpablYyVXhPRGQwU3pCalowUkdRMVp4UXpSQ05tbDRZMEZaWkhGaU1rOHdOekpWZFhRMU9HOVNNbGRvWTJKVk4xVTJlRFl6VWtkNVZpMXdRMlZsV21kdlFSSVhhM2RMY21Gd1pXWlBUVE5vTUZCRlVHbzFibmRyUVVVYUlrRkVjM0k1WmxOM1pWZFdUbGhmUzJwbFNYRTBlRmxKYWtoVlJUSnJWazR0VlZFIiwiZmN2IjoiMyIsImVpIjoia3dLcmFwZWZPTTNoMFBFUGo1bndrQUUiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1RheVdNNGVBQSIsInF1ZXN0aW9uIjoiSXMgSUlUIE1hZHJhcyBhIHVuaXZlcnNpdHkgb3IgY29sbGVnZT8iLCJsayI6IkdpVnBjeUJwYVhRZ2JXRmtjbUZ6SUdFZ2RXNXBkbVZ5YzJsMGVTQnZjaUJqYjJ4c1pXZGwiLCJicyI6ImMyMlFQUXZDTUJDR2NjM2twbWE2d1k5UkxEaG42R0lHRVVGd0RqVnREdHRFa3ZQcjM1dElwVlhjN3Q0ODcwTTR0bVpqR1VES0EyelZ5YXNBQ3NoZFVpQ3lDUjloQUVTQ3B2OFdBN1pqczQyN1E2azg0RmU5OUs2Sk0xcklrWjRpbV9PcDZjQ2U2dzAyQ1N3aXlCNHNQeHBGQ1NLandTdDdSbHVCSzk5cks1YzJFTktWZE1vUHVqRFcxYTU2UXBSSWUwSWxzaFZmdG43c3M5U3hIM1BzWU9xd1Badl9YdUJxOGFaOWlQOEM1NkZ3ZGEwckxiSUZuXzNlNHk4NUhMd0EiLCJpZCI6ImZjX2t3S3JhcGVmT00zaDBQRVBqNW53a0FFXzYifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UaGZWMmg0TVhaUFR6aEhiSFpVWm1WUVNtbGljblZEYjA5dVJIaFFPVWR1V1VaUmFpMWxYMHhvUnpWUlFUUnRaMk5aUjJwS2NuTXdWVWhHUVZkSlIzTnZWbUpYTkc1aWExQTJRMDlWTlROMVJuZ3RUbE5GZUc1SFFSSVhhbU5MZG1GMldFOU1kVzFZZDJKclVHMWtUemN3UVZrYUlrRkVjM0k1WmxFNWFsZ3pOV3RTUzNWbFNEUk5kbEZJZUdSNmVIaHpVRVZ0VlVFIiwiZmN2IjoiMyIsImVpIjoiamNLdmF2WE9MdW1Yd2JrUG1kTzcwQVkiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1hhVGhJRTlBQSIsInF1ZXN0aW9uIjoiSG93IGRpZmZpY3VsdCBpcyBpdCB0byBnZXQgaW50byBJSVQgTWFkcmFzPyIsImxrIjoiYzVQU3lzZ3ZWMGpKVEV2TFRDN05LVkhJTEZiSUxGRW95VmRJVHdWeThvQ01UQ0FfTnpHbEtMRVlBQSIsImJzIjoiYzRXT01RLUNNQkJHNDNxVG05cnBFc0ZCblpvNE03aklRRnhNSEp4T29ISUpVRUpMaVBfZWxvVTZHTGU3NzN2M2NuQ0NkV293VFctWVVkR1RRVUtyT3g4a2NpTldiSkRaWWhOMkxvQXJ4QmM5b3FJZS1ldGM5YnB4TTdkNFp2dE81RTVFMVF3R3JnbHNQSmc3RURLSTdoVlpEeG1OcGl0enBocnBxUWNiNkJNWmktMzRpNXZ0OElDRF82OWdwVGdmNm9sM3JkWDRLdDNTdWlHMEhzVy0tb1BQOHVYaUF3IiwiaWQiOiJmY19qY0t2YXZYT0x1bVh3YmtQbWRPNzBBWV8zIn0=",
+    "page_token": "symHKXicHdBNbqMwGABQzWW6bCC0HSVSVIkGh9DU1B_-AW9GYJo4tR0o0EDZzV3mVD1NpXlHeH__2fPFfP-66mFo-_ViMY7j7alpTvbtVjVuUfZfF7VQpbVVqcz64feD_3hUm-hzHz597EPC2pZvwaPR_TMLeCl5Td8cTuUMLovQJI1MDtSMmbf_ysRqgIuaMEORMNBzH3ulWfXlcurBJ-NLDvs0hu5A9adgMhSZT0qD_WqbWGB3d7VAY3aph8Lhhr1DJ4wOKievNC58zHVa77hJc5tItiqIbTPYrZ7JUnYvgX4qo2SHY4gPPLqnMzKHXKcg8LlyLSIU0moHA59lzxx_FbENI11_FN6wLHJZUG_yK66Dwg2kEvCK5zAU0JwJg1m9W8d8ncDWTCKP5hpBABZd1XLKKgQd2BZRpGdGbo7quglu_n9u_hzdsG675vQDxHqEfA",
+    "question": "How difficult is it to get into IIT Madras?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=symHKXicHdBNbqMwGABQzWW6bCC0HSVSVIkGh9DU1B_-AW9GYJo4tR0o0EDZzV3mVD1NpXlHeH__2fPFfP-66mFo-_ViMY7j7alpTvbtVjVuUfZfF7VQpbVVqcz64feD_3hUm-hzHz597EPC2pZvwaPR_TMLeCl5Td8cTuUMLovQJI1MDtSMmbf_ysRqgIuaMEORMNBzH3ulWfXlcurBJ-NLDvs0hu5A9adgMhSZT0qD_WqbWGB3d7VAY3aph8Lhhr1DJ4wOKievNC58zHVa77hJc5tItiqIbTPYrZ7JUnYvgX4qo2SHY4gPPLqnMzKHXKcg8LlyLSIU0moHA59lzxx_FbENI11_FN6wLHJZUG_yK66Dwg2kEvCK5zAU0JwJg1m9W8d8ncDWTCKP5hpBABZd1XLKKgQd2BZRpGdGbo7quglu_n9u_hzdsG675vQDxHqEfA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UaGZWMmg0TVhaUFR6aEhiSFpVWm1WUVNtbGljblZEYjA5dVJIaFFPVWR1V1VaUmFpMWxYMHhvUnpWUlFUUnRaMk5aUjJwS2NuTXdWVWhHUVZkSlIzTnZWbUpYTkc1aWExQTJRMDlWTlROMVJuZ3RUbE5GZUc1SFFSSVhhbU5MZG1GMldFOU1kVzFZZDJKclVHMWtUemN3UVZrYUlrRkVjM0k1WmxFNWFsZ3pOV3RTUzNWbFNEUk5kbEZJZUdSNmVIaHpVRVZ0VlVFIiwiZmN2IjoiMyIsImVpIjoiamNLdmF2WE9MdW1Yd2JrUG1kTzcwQVkiLCJxYyI6ImMtT3lLczlJTFVwVnlDeFdLTWtBVW5rcG1ZbDVRS3E0SkxPa3RDUlZJVDlOb1NRMU9TTXZQeWNfdlZJaE56R2xLTEZZSVNjX09iRWtOVVdBb1hhVGhJRTlBQSIsInF1ZXN0aW9uIjoiSG93IGRpZmZpY3VsdCBpcyBpdCB0byBnZXQgaW50byBJSVQgTWFkcmFzPyIsImxrIjoiYzVQU3lzZ3ZWMGpKVEV2TFRDN05LVkhJTEZiSUxGRW95VmRJVHdWeThvQ01UQ0FfTnpHbEtMRVlBQSIsImJzIjoiYzRXT01RLUNNQkJHNDNxVG05cnBFc0ZCblpvNE03aklRRnhNSEp4T29ISUpVRUpMaVBfZWxvVTZHTGU3NzN2M2NuQ0NkV293VFctWVVkR1RRVUtyT3g4a2NpTldiSkRaWWhOMkxvQXJ4QmM5b3FJZS1ldGM5YnB4TTdkNFp2dE81RTVFMVF3R3JnbHNQSmc3RURLSTdoVlpEeG1OcGl0enBocnBxUWNiNkJNWmktMzRpNXZ0OElDRF82OWdwVGdmNm9sM3JkWDRLdDNTdWlHMEhzVy0tb1BQOHVYaUF3IiwiaWQiOiJmY19qY0t2YXZYT0x1bVh3YmtQbWRPNzBBWV8zIn0%3D",
     "type": "ai_overview"
    }
   ],
   "related_searches": [
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=Indian+Institute+of+Technology+Madras+address&sa=X&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ1QJ6BAg0EAE",
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&q=Indian+Institute+of+Technology+Madras+address&sa=X&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ1QJ6BAhGEAE",
     "query": "Indian Institute of Technology Madras address",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Indian+Institute+of+Technology+Madras+address"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=IIT+Madras+college&sa=X&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ1QJ6BAg3EAE",
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&q=Where+is+the+indian+institute+of+technology+madras+located+map&sa=X&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ1QJ6BAhHEAE",
+    "query": "Where is the indian institute of technology madras located map",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+indian+institute+of+technology+madras+located+map"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&q=IIT+Madras+college&sa=X&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ1QJ6BAhREAE",
     "query": "IIT Madras college",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IIT+Madras+college"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=IIT+Madras+ranking+in+World&sa=X&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ1QJ6BAhDEAE",
-    "query": "IIT Madras ranking in World",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IIT+Madras+ranking+in+World"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=IIT+Madras+courses+and+fees&sa=X&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ1QJ6BAhBEAE",
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&q=IIT+Madras+courses+and+fees&sa=X&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ1QJ6BAhTEAE",
     "query": "IIT Madras courses and fees",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IIT+Madras+courses+and+fees"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=IIT+Madras+courses+list&sa=X&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ1QJ6BAg6EAE",
-    "query": "IIT Madras courses list",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IIT+Madras+courses+list"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=IIT+Madras+campus+photos&sa=X&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ1QJ6BAg4EAE",
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&q=IIT+Madras+campus+photos&sa=X&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ1QJ6BAhOEAE",
     "query": "IIT Madras campus photos",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IIT+Madras+campus+photos"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=IIT+Madras+chairman&sa=X&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ1QJ6BAg1EAE",
-    "query": "IIT Madras chairman",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IIT+Madras+chairman"
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&q=IIT+Madras+is+famous+for+which+branch&sa=X&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ1QJ6BAhKEAE",
+    "query": "IIT Madras is famous for which branch",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IIT+Madras+is+famous+for+which+branch"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=1e3c50f8191e1804&q=IIT+Madras+campus+area&sa=X&ved=2ahUKEwjXtNbA_vOWAxXNMDQIHY8MHBIQ1QJ6BAg2EAE",
-    "query": "IIT Madras campus area",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IIT+Madras+campus+area"
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&q=IIT+Madras+courses+List&sa=X&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ1QJ6BAhJEAE",
+    "query": "IIT Madras courses List",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IIT+Madras+courses+List"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnsmE-IwB85mDh_5Vu34qoQHmYuicA:1789903501771&q=Iit+madras+main+gate&sa=X&ved=2ahUKEwi1yZ6Thv2WAxXpSzABHZnpDmoQ1QJ6BAhIEAE",
+    "query": "Iit madras main gate",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iit+madras+main+gate"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Where is the Indian Institute of Technology Madras located?",
-   "time_taken_displayed": 0.33,
-   "total_results": 125
+   "time_taken_displayed": 0.24,
+   "total_results": 138
   },
   "search_metadata": {
-   "created_at": "2026-09-16 20:56:51 UTC",
+   "created_at": "2026-09-20 11:25:01 UTC",
    "google_url": "https://www.google.com/search?q=Where+is+the+Indian+Institute+of+Technology+Madras+located%3F&oq=Where+is+the+Indian+Institute+of+Technology+Madras+located%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aab02930a9156403223732c",
-   "json_endpoint": "https://serpapi.com/searches/aoRFoDtU2VlYmrVCVR0jMu_HVbl25yTg72VOndVnkCo/6aab02930a9156403223732c.json",
-   "markdown_endpoint": "https://serpapi.com/searches/aoRFoDtU2VlYmrVCVR0jMu_HVbl25yTg72VOndVnkCo/6aab02930a9156403223732c.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/aoRFoDtU2VlYmrVCVR0jMu_HVbl25yTg72VOndVnkCo/6aab02930a9156403223732c.json_with_pixel_position",
-   "processed_at": "2026-09-16 20:56:51 UTC",
-   "raw_html_file": "https://serpapi.com/searches/aoRFoDtU2VlYmrVCVR0jMu_HVbl25yTg72VOndVnkCo/6aab02930a9156403223732c.html",
+   "id": "6aafc28d48c7919c90775aa5",
+   "json_endpoint": "https://serpapi.com/searches/jjOfincf9kvEHSPIIQznwcWlo8w3lmyvcGAxrwS8iw0/6aafc28d48c7919c90775aa5.json",
+   "markdown_endpoint": "https://serpapi.com/searches/jjOfincf9kvEHSPIIQznwcWlo8w3lmyvcGAxrwS8iw0/6aafc28d48c7919c90775aa5.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/jjOfincf9kvEHSPIIQznwcWlo8w3lmyvcGAxrwS8iw0/6aafc28d48c7919c90775aa5.json_with_pixel_position",
+   "processed_at": "2026-09-20 11:25:01 UTC",
+   "raw_html_file": "https://serpapi.com/searches/jjOfincf9kvEHSPIIQznwcWlo8w3lmyvcGAxrwS8iw0/6aafc28d48c7919c90775aa5.html",
    "status": "Success",
-   "total_time_taken": 0.93
+   "total_time_taken": 0.56
   },
   "search_parameters": {
    "device": "desktop",

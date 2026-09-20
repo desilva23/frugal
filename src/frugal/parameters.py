@@ -153,6 +153,12 @@ def _place_words(locale: Locale) -> frozenset[str]:
         words.update(part.strip().lower() for part in locale.location.split(","))
     return frozenset(w for w in words if w)
 
+#: Map scale for a location-scoped maps search. City level: wide enough to
+#: cover a metropolitan area, tight enough that results stay in the city named
+#: rather than drifting into the region around it.
+_MAPS_ZOOM = 12
+
+
 
 def build_params(
     engine: str,
@@ -206,6 +212,16 @@ def build_params(
         # search without it returns listings from anywhere at all.
         if engine in {"google_jobs", "google_maps"} and locale.location:
             params["location"] = locale.location
+            if engine == "google_maps":
+                # Maps rejects a location it has no scale for: "Missing `z` or
+                # `m` parameter. Parameter is required when using `location`."
+                # Every maps search this project ever issued came back HTTP 400,
+                # so the router was reaching an engine that could not answer --
+                # and because a failed step is survivable, the plan carried on
+                # and the question scored on its web results alone. Routing to
+                # maps was added and tested; sending maps a usable request was
+                # not, because nothing asserted on the response.
+                params["z"] = _MAPS_ZOOM
 
         # A constraint expressed as a parameter must not also sit in the query.
         # Both at once over-constrains the index to nothing; see _place_words.
