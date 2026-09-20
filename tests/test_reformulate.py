@@ -303,3 +303,52 @@ def test_expansion_appends_only_genuinely_new_terms() -> None:
 
 def test_expansion_with_nothing_to_add_is_unchanged() -> None:
     assert expand_query("solar panels", ()) == "solar panels"
+
+
+# --------------------------------------------------------------------------
+# Comparisons, which trends answers natively
+# --------------------------------------------------------------------------
+
+
+@pytest.mark.parametrize(
+    ("question", "expected"),
+    [
+        (
+            "In India, is search interest in millets higher than in quinoa?",
+            "millets,quinoa",
+        ),
+        (
+            "In India, has search interest in electric cars overtaken petrol cars?",
+            "electric cars,petrol cars",
+        ),
+        ("bitcoin versus ethereum", "bitcoin,ethereum"),
+    ],
+)
+def test_a_comparison_is_asked_as_two_terms(question: str, expected: str) -> None:
+    """Trends compares terms natively; it cannot parse a comparison as prose.
+
+    "millets higher quinoa" is a term nobody searches, and trends answered it
+    with no results at all. Two questions failed that way, and it read as web
+    search beating the specialist engine rather than the specialist engine
+    being asked something it could not parse.
+    """
+    from frugal.reformulate import reformulate
+
+    assert reformulate(question, engine="google_trends", limit=1)[0].query == expected
+
+
+def test_a_question_about_one_subject_is_not_split() -> None:
+    """"Risen or fallen" is two readings of one subject, not two subjects."""
+    from frugal.reformulate import comparison_terms
+
+    assert comparison_terms("Has search interest in bitcoin risen or fallen?") is None
+    assert comparison_terms("Is search interest in cricket rising or falling?") is None
+
+
+def test_the_place_is_not_repeated_in_either_term() -> None:
+    """geo already carries it, so it does not also belong in the query."""
+    from frugal.reformulate import comparison_terms
+
+    pair = comparison_terms("In India, is search interest in millets higher than in quinoa?")
+    assert pair is not None
+    assert all("india" not in term for term in pair)

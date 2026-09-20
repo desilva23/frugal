@@ -28,6 +28,8 @@ import re
 from collections.abc import Sequence
 from dataclasses import dataclass
 
+from frugal.parameters import detect_locale
+
 #: Words that carry no retrieval signal. Search engines discard these anyway, so
 #: two queries differing only in stopwords are the same query and must not be
 #: scored as different.
@@ -271,6 +273,61 @@ _ENGINE_SHAPES: dict[str, tuple[str, str]] = {
 _TERM_ONLY_ENGINES = frozenset({"google_trends"})
 
 
+#: Phrases that set one subject against another. Deliberately explicit: "or"
+#: also joins a comparison ("higher or lower") but far more often joins two
+#: readings of one subject -- "has interest in bitcoin risen or fallen" is a
+#: question about bitcoin, not a contest between risen and fallen.
+_COMPARISON_MARKERS = (
+    r"\bhigher than\b",
+    r"\blower than\b",
+    r"\bgreater than\b",
+    r"\bmore than\b",
+    r"\bless than\b",
+    r"\bovertaken\b",
+    r"\bovertake\b",
+    r"\bversus\b",
+    r"\bvs\.?\b",
+    r"\bcompared (?:to|with)\b",
+)
+
+
+def comparison_terms(question: str) -> tuple[str, str] | None:
+    """The two subjects a comparison question sets against each other.
+
+    Trends compares terms natively, as ``q=millets,quinoa``, and returns a
+    series for each. Frugal never used that, so "In India, is search interest
+    in millets higher than in quinoa?" was asked as the single term "millets
+    higher quinoa" -- which nobody searches, and which trends answered with no
+    results at all. Two questions failed that way, and it read as web search
+    beating the specialist engine when it was really the specialist engine
+    being asked a question it could not parse.
+
+    The place name is dropped from both sides because ``geo`` already carries
+    it, which is the same rule the parameters module applies elsewhere: a
+    constraint expressed as a parameter does not also belong in the query.
+    """
+    lowered = question.lower()
+    locale = detect_locale(question)
+    drop = {locale.matched} if locale is not None and locale.matched else set()
+
+    for marker in _COMPARISON_MARKERS:
+        match = re.search(marker, lowered)
+        if match is None:
+            continue
+        sides: list[str] = []
+        for text in (lowered[: match.start()], lowered[match.end() :]):
+            core = [t for t in _core_terms(text, keep=3).split() if t not in drop]
+            if not core:
+                return None
+            sides.append(" ".join(core[:2]))
+        # Both sides reducing to the same words means the split found a phrase
+        # rather than a contest, and comparing a term with itself buys nothing.
+        if sides[0] == sides[1]:
+            return None
+        return sides[0], sides[1]
+    return None
+
+
 def shape_for_engine(question: str, engine: str) -> tuple[str, str, str] | None:
     """Return ``(query, strategy, rationale)`` shaped for ``engine``, if it needs shaping."""
     entry = _ENGINE_SHAPES.get(engine)
@@ -279,6 +336,13 @@ def shape_for_engine(question: str, engine: str) -> tuple[str, str, str] | None:
     strategy, rationale = entry
 
     if engine == "google_trends":
+        pair = comparison_terms(question)
+        if pair is not None:
+            return (
+                ",".join(pair),
+                "comparison",
+                "two terms in one search, which is how this engine compares them",
+            )
         # Trends is the extreme case: it wants two or three words, not a sentence.
         return _core_terms(question, keep=3), strategy, rationale
     return _strip_recency(question), strategy, rationale
