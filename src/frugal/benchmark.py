@@ -113,6 +113,12 @@ def marker_matches(marker: str, text: str) -> bool:
 QUESTIONS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "questions.json"
 RESULTS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "results.json"
 
+#: The sweep writes a different shape from the main run -- summaries per plan
+#: size, no per-question outcomes -- so it gets its own file. Sharing a default
+#: meant an --ablate run silently replaced the headline table with a payload
+#: that did not contain it.
+ABLATION_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "ablation.json"
+
 #: Four strategies, each adding one mechanism to the one before it, so that
 #: every gap isolates a single thing:
 #:
@@ -676,8 +682,15 @@ def main(argv: Sequence[str] | None = None) -> int:
     parser.add_argument("--budget", type=int, default=DEFAULT_BUDGET, help="searches per question")
     parser.add_argument("--limit", type=int, default=None, help="run only the first N questions")
     parser.add_argument("--cache", default=".frugal-cache", help="cache directory")
-    parser.add_argument("--out", default=str(RESULTS_PATH), help="where to write results JSON")
+    parser.add_argument(
+        "--out",
+        default=None,
+        help="where to write results JSON (default: benchmarks/results.json, "
+        "or benchmarks/ablation.json with --ablate)",
+    )
     args = parser.parse_args(argv)
+    if args.out is None:
+        args.out = str(ABLATION_PATH if args.ablate else RESULTS_PATH)
 
     questions = load_questions()
     if args.limit is not None:

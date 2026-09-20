@@ -452,6 +452,24 @@ def test_the_projection_prices_the_searches_the_run_actually_issues() -> None:
     )
 
 
+def test_a_sweep_does_not_overwrite_the_main_table() -> None:
+    """The two runs write different shapes, so they write different files.
+
+    A sweep writes summaries per plan size and no per-question outcomes. With
+    both defaulting to results.json, running one after the other replaced the
+    headline table with a payload that did not contain it -- and the only copy
+    of a table that cost three hundred searches is not a good thing to lose to
+    a default.
+    """
+    from frugal.benchmark import ABLATION_PATH, RESULTS_PATH, main
+
+    assert ABLATION_PATH != RESULTS_PATH
+    assert ABLATION_PATH.name == "ablation.json"
+
+    with pytest.raises(SystemExit):
+        main(["--nonexistent-flag"])
+
+
 def test_a_replayed_run_writes_its_results(
     tmp_path: Path, capsys: pytest.CaptureFixture[str]
 ) -> None:
