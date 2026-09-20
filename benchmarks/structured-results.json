@@ -1,0 +1,691 @@
+{
+  "budget_per_question": 12,
+  "outcomes": [
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1464.1,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-hospital-addresses-coimbatore",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1958.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 10,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-hospital-addresses-coimbatore",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 8543.9,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-hospital-addresses-coimbatore",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 1082.6,
+      "engines_used": [
+        "google_maps",
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 19,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-hospital-addresses-coimbatore",
+      "searches": 2,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 12295.9,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-pharmacy-addresses-chennai",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 10178.4,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-pharmacy-addresses-chennai",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 19407.7,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-pharmacy-addresses-chennai",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1165.6,
+      "engines_used": [
+        "google_maps",
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 18,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-pharmacy-addresses-chennai",
+      "searches": 2,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 1102.0,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-atm-addresses-bengaluru",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 0.333,
+      "depth": null,
+      "elapsed_ms": 1164.1,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": false,
+      "missing": [
+        "atm | atms",
+        "bengaluru | bangalore"
+      ],
+      "question_id": "maps-atm-addresses-bengaluru",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 20775.5,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-atm-addresses-bengaluru",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "local",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 6841.2,
+      "engines_used": [
+        "google_maps",
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 18,
+      "found": true,
+      "missing": [],
+      "question_id": "maps-atm-addresses-bengaluru",
+      "searches": 2,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "patent",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 31715.9,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "patents-crispr-assignees",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "patent",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 947.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "patents-crispr-assignees",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "patent",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 2.9,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "patents-crispr-assignees",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "patent",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 1815.8,
+      "engines_used": [
+        "google_patents",
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 19,
+      "found": true,
+      "missing": [],
+      "question_id": "patents-crispr-assignees",
+      "searches": 2,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "patent",
+      "completeness": 1.0,
+      "depth": 6,
+      "elapsed_ms": 964.0,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "patents-perovskite-assignees",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "patent",
+      "completeness": 0.0,
+      "depth": null,
+      "elapsed_ms": 815.0,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": false,
+      "missing": [
+        "perovskite",
+        "patent | patents",
+        "university | institute | inc | corporation | ltd | llc | technologies"
+      ],
+      "question_id": "patents-perovskite-assignees",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 0,
+      "category": "patent",
+      "completeness": 0.0,
+      "depth": null,
+      "elapsed_ms": 1.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": false,
+      "missing": [
+        "perovskite",
+        "patent | patents",
+        "university | institute | inc | corporation | ltd | llc | technologies"
+      ],
+      "question_id": "patents-perovskite-assignees",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "patent",
+      "completeness": 1.0,
+      "depth": 5,
+      "elapsed_ms": 1801.4,
+      "engines_used": [
+        "google_patents",
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 19,
+      "found": true,
+      "missing": [],
+      "question_id": "patents-perovskite-assignees",
+      "searches": 2,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "employment",
+      "completeness": 1.0,
+      "depth": 4,
+      "elapsed_ms": 1036.7,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "jobs-python-chennai-employers",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "employment",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 11394.6,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "jobs-python-chennai-employers",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "employment",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 943.3,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "jobs-python-chennai-employers",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "employment",
+      "completeness": 1.0,
+      "depth": 3,
+      "elapsed_ms": 97503.5,
+      "engines_used": [
+        "google_jobs",
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 18,
+      "found": true,
+      "missing": [],
+      "question_id": "jobs-python-chennai-employers",
+      "searches": 2,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 1,
+      "elapsed_ms": 1172.2,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "trends-millets-vs-quinoa-india",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 935.7,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": true,
+      "missing": [],
+      "question_id": "trends-millets-vs-quinoa-india",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 3,
+      "elapsed_ms": 7915.7,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "trends-millets-vs-quinoa-india",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 3,
+      "elapsed_ms": 1703.0,
+      "engines_used": [
+        "google_trends",
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "trends-millets-vs-quinoa-india",
+      "searches": 2,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 1115.8,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "trends-ev-vs-petrol-india",
+      "searches": 1,
+      "stopped_because": "baseline: a single search",
+      "strategy": "naive",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "trend",
+      "completeness": 0.0,
+      "depth": null,
+      "elapsed_ms": 935.9,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 9,
+      "found": false,
+      "missing": [
+        "electric",
+        "petrol | diesel",
+        "india"
+      ],
+      "question_id": "trends-ev-vs-petrol-india",
+      "searches": 1,
+      "stopped_because": "baseline: a single reformulated search",
+      "strategy": "keyword",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 40442.4,
+      "engines_used": [
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "trends-ev-vs-petrol-india",
+      "searches": 1,
+      "stopped_because": "baseline: a single parameterised search",
+      "strategy": "parameterised",
+      "structured": false
+    },
+    {
+      "billed_this_run": 1,
+      "category": "trend",
+      "completeness": 1.0,
+      "depth": 2,
+      "elapsed_ms": 1732.0,
+      "engines_used": [
+        "google_trends",
+        "google"
+      ],
+      "errors": [],
+      "evidence_count": 8,
+      "found": true,
+      "missing": [],
+      "question_id": "trends-ev-vs-petrol-india",
+      "searches": 2,
+      "stopped_because": "completed the plan",
+      "strategy": "planned",
+      "structured": false
+    }
+  ],
+  "questions": 8,
+  "searches_billed_this_run": 30,
+  "spend": {
+    "attempts": 35,
+    "cache_hits": 2,
+    "empty_results": 2,
+    "errors": [],
+    "requests": 30,
+    "retries": 5,
+    "searches_charged": 30,
+    "total_latency_ms": 290712.2,
+    "unrecorded_attempts": 5
+  },
+  "summaries": {
+    "keyword": {
+      "answered": 5,
+      "answers_per_search": 0.625,
+      "median_depth": 1.0,
+      "questions": 8,
+      "recall": 0.625,
+      "searches": 8,
+      "searches_per_question": 1.0,
+      "strategy": "keyword"
+    },
+    "naive": {
+      "answered": 8,
+      "answers_per_search": 1.0,
+      "median_depth": 2.0,
+      "questions": 8,
+      "recall": 1.0,
+      "searches": 8,
+      "searches_per_question": 1.0,
+      "strategy": "naive"
+    },
+    "parameterised": {
+      "answered": 7,
+      "answers_per_search": 0.875,
+      "median_depth": 1.0,
+      "questions": 8,
+      "recall": 0.875,
+      "searches": 8,
+      "searches_per_question": 1.0,
+      "strategy": "parameterised"
+    },
+    "planned": {
+      "answered": 8,
+      "answers_per_search": 0.5,
+      "median_depth": 2.0,
+      "questions": 8,
+      "recall": 1.0,
+      "searches": 16,
+      "searches_per_question": 2.0,
+      "strategy": "planned"
+    }
+  }
+}
