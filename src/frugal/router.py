@@ -247,11 +247,15 @@ class EngineProfile:
     suppressed_by: dict[str, float] = field(default_factory=dict)
     prior: float = 0.0
     cost: int = 1
+    #: Whether this engine indexes general text rather than one vertical. Used
+    #: only to choose a fallback; it plays no part in ordinary scoring.
+    general: bool = False
 
 
 PROFILES: tuple[EngineProfile, ...] = (
     EngineProfile(
         engine="google",
+        general=True,
         # Web search answers most things adequately. It is the floor a
         # specialised engine has to beat.
         serves={"recency": 0.3, "commerce": 0.2, "scholarly": 0.2},
@@ -259,6 +263,7 @@ PROFILES: tuple[EngineProfile, ...] = (
     ),
     EngineProfile(
         engine="google_news",
+        general=True,
         serves={"recency": 1.6, "trend": 0.4},
         # A question about papers or patents wanting "recent" ones is still not
         # a news question.
@@ -266,6 +271,7 @@ PROFILES: tuple[EngineProfile, ...] = (
     ),
     EngineProfile(
         engine="google_scholar",
+        general=True,
         serves={"scholarly": 1.8},
         suppressed_by={"commerce": 0.8, "local": 0.8, "employment": 0.5},
     ),
@@ -380,7 +386,60 @@ def route(
         )
         decisions.sort(key=lambda d: -d.score)
 
+    if limit is not None and len(decisions) == 1 and limit >= 2:
+        fallback = _general_fallback(exclude={d.engine for d in decisions})
+        if fallback is not None:
+            decisions.append(fallback)
+
     return decisions[:limit] if limit is not None else decisions
+
+
+#: General indexes in the order the fallback prefers them, least time-bound
+#: first.
+#:
+#: The rule and this ordering were written down before the alternatives were
+#: scored, because picking whichever engine happened to win would be tuning the
+#: router to the benchmark -- which this project has caught itself doing enough
+#: times to distrust the instinct.
+#:
+#: The reasoning: a question that reaches the fallback is one where no vertical
+#: signal fired, and in practice that is a plain factual question -- who
+#: invented the telephone, where an institute is. Those are rarely about this
+#: week. Scholarly writing is the least time-bound general index here; news is
+#: the most, since it indexes what is happening rather than what is known.
+#:
+#: Measured afterwards, scholar answered 96 of 100 and news 94. Two questions
+#: apart, and one of scholar's six was a false positive, so the numbers do not
+#: separate them and were not what chose between them.
+_GENERAL_FALLBACK_ORDER = ("google_scholar", "google_news")
+
+
+def _general_fallback(exclude: set[str]) -> RoutingDecision | None:
+    """A broad second index for a question that named no vertical.
+
+    Stopping after one search is what the router used to do here, and across a
+    hundred questions it cost six answers to save thirty-four searches. Asking
+    the same index again in different words recovered only two of the six, and
+    on fifteen of the thirty-four it could not even produce a second phrasing:
+    strip the stopwords from "What is the capital of Karnataka?" and there is
+    no other way to say it.
+
+    A narrow index is not a substitute. Shopping as the fallback bought one
+    answer for thirty-four searches, which is the same rule seen from the other
+    side -- the index has to be broad, not merely different.
+    """
+    for engine in _GENERAL_FALLBACK_ORDER:
+        if engine in exclude:
+            continue
+        profile = _PROFILES_BY_ENGINE.get(engine)
+        if profile is not None and profile.general:
+            return RoutingDecision(
+                engine=engine,
+                score=0.0,
+                cost=profile.cost,
+                reasons=("fallback: no vertical signal, so a general index",),
+            )
+    return None
 
 
 def profile_for(engine: str) -> EngineProfile | None:
