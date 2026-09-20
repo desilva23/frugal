@@ -71,33 +71,33 @@
       "strategy": "routed-1x1"
     },
     "routed-2x1": {
-      "answered": 90,
-      "answers_per_search": 0.5422,
+      "answered": 96,
+      "answers_per_search": 0.48,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.9,
-      "searches": 166,
-      "searches_per_question": 1.66,
+      "recall": 0.96,
+      "searches": 200,
+      "searches_per_question": 2.0,
       "strategy": "routed-2x1"
     },
     "routed-3x1": {
-      "answered": 91,
-      "answers_per_search": 0.474,
+      "answered": 97,
+      "answers_per_search": 0.4292,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.91,
-      "searches": 192,
-      "searches_per_question": 1.92,
+      "recall": 0.97,
+      "searches": 226,
+      "searches_per_question": 2.26,
       "strategy": "routed-3x1"
     },
     "routed-3x2": {
-      "answered": 94,
-      "answers_per_search": 0.2633,
+      "answered": 98,
+      "answers_per_search": 0.239,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.94,
-      "searches": 357,
-      "searches_per_question": 3.57,
+      "recall": 0.98,
+      "searches": 410,
+      "searches_per_question": 4.1,
       "strategy": "routed-3x2"
     }
   }

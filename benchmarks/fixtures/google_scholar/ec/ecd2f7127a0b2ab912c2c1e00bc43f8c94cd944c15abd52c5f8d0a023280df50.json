@@ -1,0 +1,546 @@
+{
+ "elapsed_ms": 7540.306,
+ "engine": "google_scholar",
+ "fetched_at": "2026-09-20T17:53:02.869166+00:00",
+ "frugal_cache_version": 1,
+ "key": "ecd2f7127a0b2ab912c2c1e00bc43f8c94cd944c15abd52c5f8d0a023280df50",
+ "params": {
+  "num": 10,
+  "q": "ownership programming language memory management"
+ },
+ "response": {
+  "organic_results": [
+   {
+    "inline_links": {
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:e5eq1t5OfJcJ:scholar.google.com/+ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "cited_by": {
+      "cites_id": "10915686315830450043",
+      "link": "https://scholar.google.com/scholar?cites=10915686315830450043&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10915686315830450043&engine=google_scholar&hl=en",
+      "total": 2
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:e5eq1t5OfJcJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=e5eq1t5OfJcJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3Ae5eq1t5OfJcJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "10915686315830450043",
+      "link": "https://scholar.google.com/scholar?cluster=10915686315830450043&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10915686315830450043&engine=google_scholar&hl=en",
+      "total": 2
+     }
+    },
+    "link": "https://arxiv.org/abs/2510.08939",
+    "position": 1,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "H Deng"
+      },
+      {
+       "name": "S He"
+      },
+      {
+       "name": "S Jia"
+      },
+      {
+       "name": "Y Bao"
+      },
+      {
+       "name": "T Rompf"
+      }
+     ],
+     "summary": "H Deng, S He, S Jia, Y Bao, T Rompf - arXiv preprint arXiv:2510.08939, 2025 - arxiv.org"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://arxiv.org/pdf/2510.08939",
+      "title": "arxiv.org"
+     }
+    ],
+    "result_id": "e5eq1t5OfJcJ",
+    "snippet": "… memory management, including Rust-style move semantics, in higher-order impure functional languages… , enabling the type system to express ownership transfer, contextual freshness, …",
+    "title": "Free to Move: Reachability Types with Flow-Sensitive Effects for Safe Deallocation and Ownership Transfer"
+   },
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "3907483807962770620",
+      "link": "https://scholar.google.com/scholar?cites=3907483807962770620&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3907483807962770620&engine=google_scholar&hl=en",
+      "total": 90
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:vCw2E9IrOjYJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vCw2E9IrOjYJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AvCw2E9IrOjYJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "3907483807962770620",
+      "link": "https://scholar.google.com/scholar?cluster=3907483807962770620&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3907483807962770620&engine=google_scholar&hl=en",
+      "total": 3
+     }
+    },
+    "link": "https://dl.acm.org/doi/abs/10.1145/1321631.1321661",
+    "position": 2,
+    "publication_info": {
+     "authors": [
+      {
+       "author_id": "hG-Un48AAAAJ",
+       "link": "https://scholar.google.com/citations?user=hG-Un48AAAAJ&hl=en&oi=sra",
+       "name": "D Rayside",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hG-Un48AAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "L Mendel"
+      }
+     ],
+     "summary": "D Rayside, L Mendel - Proceedings of the 22nd IEEE/ACM International …, 2007 - dl.acm.org"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://dl.acm.org/doi/pdf/10.1145/1321631.1321661",
+      "title": "acm.org"
+     }
+    ],
+    "result_id": "vCw2E9IrOjYJ",
+    "snippet": "… We apply object ownership profiling to find and fix memory leaks … code reviews and type-based commercial memory profilers. … object ownership, whether related to memory management …",
+    "title": "Object ownership profiling: a technique for finding and fixing memory leaks"
+   },
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "3852803700041165034",
+      "link": "https://scholar.google.com/scholar?cites=3852803700041165034&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3852803700041165034&engine=google_scholar&hl=en",
+      "total": 11
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:6qhDWo3odzUJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6qhDWo3odzUJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A6qhDWo3odzUJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "3852803700041165034",
+      "link": "https://scholar.google.com/scholar?cluster=3852803700041165034&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3852803700041165034&engine=google_scholar&hl=en",
+      "total": 5
+     }
+    },
+    "link": "https://ieeexplore.ieee.org/abstract/document/6759228/",
+    "position": 3,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "D Svoboda"
+      },
+      {
+       "name": "L Wrage"
+      }
+     ],
+     "summary": "D Svoboda, L Wrage - 2014 47th Hawaii International …, 2014 - ieeexplore.ieee.org"
+    },
+    "result_id": "6qhDWo3odzUJ",
+    "snippet": "… + programming languages is a common source of bugs and vulnerabilities. Most languages … to memory management. This means that the program need not be built or run. Such a …",
+    "title": "Pointer ownership model"
+   },
+   {
+    "inline_links": {
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:2q3Lcpcs0JMJ:scholar.google.com/+ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:2q3Lcpcs0JMJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2q3Lcpcs0JMJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A2q3Lcpcs0JMJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "10651062147708857818",
+      "link": "https://scholar.google.com/scholar?cluster=10651062147708857818&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10651062147708857818&engine=google_scholar&hl=en",
+      "total": 2
+     }
+    },
+    "link": "https://komaec.github.io/files/ownership.pdf",
+    "position": 4,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "CD Hanliang Zhang"
+      },
+      {
+       "name": "Y Yu"
+      },
+      {
+       "name": "M Wang"
+      }
+     ],
+     "summary": "CD Hanliang Zhang, Y Yu, M Wang - komaec.github.io"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://komaec.github.io/files/ownership.pdf",
+      "title": "github.io"
+     }
+    ],
+    "result_id": "2q3Lcpcs0JMJ",
+    "snippet": "… Dubbed a safer C, Rust is a modern programming language that combines memory safety … For nonfunctional properties, we intend to preserve memory usage and CPU time, ie we don…",
+    "title": "Ownership guided C to Rust translation",
+    "type": "Pdf"
+   },
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "3697201108451839880",
+      "link": "https://scholar.google.com/scholar?cites=3697201108451839880&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3697201108451839880&engine=google_scholar&hl=en",
+      "total": 2
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:iM9zzNEYTzMJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=iM9zzNEYTzMJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AiM9zzNEYTzMJ%3Ascholar.google.com%2F"
+    },
+    "position": 5,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "E Alhazmi"
+      },
+      {
+       "name": "A Aljubairy"
+      },
+      {
+       "name": "A ALHAZMI"
+      }
+     ],
+     "summary": "E Alhazmi, A Aljubairy, A ALHAZMI - INTERNATIONAL JOURNAL OF COMPUTER …, 2021"
+    },
+    "result_id": "iM9zzNEYTzMJ",
+    "snippet": "",
+    "title": "MEMORY MANAGEMENT VIA OWNERSHIP CONCEPT RUST AND SWIFT: EXPERIMENTAL STUDY",
+    "type": "Citation"
+   },
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "3885427328477474277",
+      "link": "https://scholar.google.com/scholar?cites=3885427328477474277&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3885427328477474277&engine=google_scholar&hl=en",
+      "total": 78
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:5a1-wpHP6zUJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5a1-wpHP6zUJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A5a1-wpHP6zUJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "3885427328477474277",
+      "link": "https://scholar.google.com/scholar?cluster=3885427328477474277&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3885427328477474277&engine=google_scholar&hl=en",
+      "total": 15
+     }
+    },
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167642306000785",
+    "position": 6,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "N Swamy"
+      },
+      {
+       "name": "M Hicks"
+      },
+      {
+       "name": "G Morrisett"
+      },
+      {
+       "name": "D Grossman"
+      }
+     ],
+     "summary": "N Swamy, M Hicks, G Morrisett, D Grossman… - … of Computer Programming, 2006 - Elsevier"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0167642306000785/pdf?md5=c1946274bb3721e5af149952353e6bb5&pid=1-s2.0-S0167642306000785-main.pdf",
+      "title": "sciencedirect.com"
+     },
+     {
+      "link": "https://scholar.google.com/scholar?output=instlink&q=info:5a1-wpHP6zUJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=8179885815216824998&oi=lle",
+      "title": "Full View"
+     }
+    ],
+    "result_id": "5a1-wpHP6zUJ",
+    "snippet": "… C-like language safe. Our most difficult challenge has been providing programmers with control over memory management … Ownership types differ from our region system most notably …",
+    "title": "Safe manual memory management in Cyclone"
+   },
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "17482705547362708572",
+      "link": "https://scholar.google.com/scholar?cites=17482705547362708572&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17482705547362708572&engine=google_scholar&hl=en",
+      "total": 37
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:XCxOZxEMn_IJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=XCxOZxEMn_IJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AXCxOZxEMn_IJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "17482705547362708572",
+      "link": "https://scholar.google.com/scholar?cluster=17482705547362708572&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=17482705547362708572&engine=google_scholar&hl=en",
+      "total": 18
+     }
+    },
+    "link": "https://link.springer.com/article/10.1007/s10664-010-9145-5",
+    "position": 7,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "LP Hattori"
+      },
+      {
+       "name": "M Lanza"
+      },
+      {
+       "name": "R Robbes"
+      }
+     ],
+     "summary": "LP Hattori, M Lanza, R Robbes - Empirical Software Engineering, 2012 - Springer"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://bia.unibz.it/esploro/fulltext/journalArticle/Refining-code-ownership-with-synchronous-changes/991005773735501241?repId=12235356630001241&mId=13235444700001241&institution=39UBZ_INST",
+      "title": "unibz.it"
+     }
+    ],
+    "result_id": "XCxOZxEMn_IJ",
+    "snippet": "… Contradicting this statement, largely adopted SCM systems are still file-based and do not model the particularities of a programming language. Hence the changes to software entities …",
+    "title": "Refining code ownership with synchronous changes"
+   },
+   {
+    "inline_links": {
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:TGyahiQ3SCYJ:scholar.google.com/+ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "cited_by": {
+      "cites_id": "2758515401781046348",
+      "link": "https://scholar.google.com/scholar?cites=2758515401781046348&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2758515401781046348&engine=google_scholar&hl=en",
+      "total": 130
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:TGyahiQ3SCYJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TGyahiQ3SCYJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3ATGyahiQ3SCYJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "2758515401781046348",
+      "link": "https://scholar.google.com/scholar?cluster=2758515401781046348&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2758515401781046348&engine=google_scholar&hl=en",
+      "total": 16
+     }
+    },
+    "link": "https://www.usenix.org/conference/hotos15/workshop-program/presentation/gog",
+    "position": 8,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "I Gog"
+      },
+      {
+       "name": "J Giceva"
+      },
+      {
+       "name": "M Schwarzkopf"
+      },
+      {
+       "name": "K Vaswani"
+      }
+     ],
+     "summary": "I Gog, J Giceva, M Schwarzkopf, K Vaswani… - 15th Workshop on Hot …, 2015 - usenix.org"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-gog.pdf",
+      "title": "usenix.org"
+     }
+    ],
+    "result_id": "TGyahiQ3SCYJ",
+    "snippet": "… high-level programming languages with automatic memory … region-based memory management eliminates the overheads … able region if both regions are owned by the same actor. …",
+    "title": "Broom: Sweeping out garbage collection from big data systems"
+   },
+   {
+    "inline_links": {
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:0DXjq4K_yjsJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0DXjq4K_yjsJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A0DXjq4K_yjsJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "4308466561483748816",
+      "link": "https://scholar.google.com/scholar?cluster=4308466561483748816&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4308466561483748816&engine=google_scholar&hl=en",
+      "total": 5
+     }
+    },
+    "link": "https://dl.acm.org/doi/abs/10.1145/3357390.3361020",
+    "position": 9,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "M Bättig"
+      },
+      {
+       "name": "TR Gross"
+      }
+     ],
+     "summary": "M Bättig, TR Gross - … Conference on Managed Programming Languages …, 2019 - dl.acm.org"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://dl.acm.org/doi/pdf/10.1145/3357390.3361020",
+      "title": "acm.org"
+     }
+    ],
+    "result_id": "0DXjq4K_yjsJ",
+    "snippet": "… or array element (huge memory usage), or (3) … memory locations that is unpredictable for a programmer). We present a mapping scheme that dynamically associates orecs to memory …",
+    "title": "Dynamic one-to-one mapping of ownership records for STM using versioned weak references"
+   },
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "15879598106729097350",
+      "link": "https://scholar.google.com/scholar?cites=15879598106729097350&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15879598106729097350&engine=google_scholar&hl=en",
+      "total": 64
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:hqiNJ1iqX9wJ:scholar.google.com/&scioq=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hqiNJ1iqX9wJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AhqiNJ1iqX9wJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "15879598106729097350",
+      "link": "https://scholar.google.com/scholar?cluster=15879598106729097350&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=15879598106729097350&engine=google_scholar&hl=en",
+      "total": 2
+     }
+    },
+    "link": "https://dl.acm.org/doi/abs/10.1145/2247684.2247688",
+    "position": 10,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "HJ Boehm"
+      }
+     ],
+     "summary": "HJ Boehm - … of the 2012 ACM SIGPLAN Workshop on Memory …, 2012 - dl.acm.org"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://dl.acm.org/doi/pdf/10.1145/2247684.2247688",
+      "title": "acm.org"
+     }
+    ],
+    "result_id": "hqiNJ1iqX9wJ",
+    "snippet": "… memory model, and the reason this is incorrect. Again, similar issues arise for most other real programming languages. … This reintroduces coherence misses as ownership of the cache …",
+    "title": "Can seqlocks get along with programming language memory models?"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://scholar.google.com/scholar?start=10&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+   "other_pages": {
+    "10": "https://scholar.google.com/scholar?start=90&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+    "2": "https://scholar.google.com/scholar?start=10&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+    "3": "https://scholar.google.com/scholar?start=20&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+    "4": "https://scholar.google.com/scholar?start=30&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+    "5": "https://scholar.google.com/scholar?start=40&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+    "6": "https://scholar.google.com/scholar?start=50&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+    "7": "https://scholar.google.com/scholar?start=60&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+    "8": "https://scholar.google.com/scholar?start=70&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5",
+    "9": "https://scholar.google.com/scholar?start=80&q=ownership+programming+language+memory+management&hl=en&as_sdt=0,5"
+   }
+  },
+  "related_searches": [
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=1&q=ownership+types+memory+management&qst=br",
+    "query": "ownership types memory management"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=2&q=other+languages+memory+management&qst=br",
+    "query": "other languages memory management"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=3&q=memory+reclamation+programming+language&qst=br",
+    "query": "memory reclamation programming language"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=4&q=java+memory+management&qst=br",
+    "query": "java memory management"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=5&q=flexible+memory+management&qst=br",
+    "query": "flexible memory management"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=6&q=time+memory+management&qst=br",
+    "query": "time memory management"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=7&q=memory+allocation+and+synchronization&qst=br",
+    "query": "memory allocation and synchronization"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=8&q=safe+manual+memory+management&qst=br",
+    "query": "safe manual memory management"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=9&q=memory+allocation+profiler&qst=br",
+    "query": "memory allocation profiler"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=10&q=modern+programming+languages&qst=br",
+    "query": "modern programming languages"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=11&q=realtime+garbage+collection+programming+languages&qst=br",
+    "query": "realtime garbage collection programming languages"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=12&q=shared+memory+programming&qst=br",
+    "query": "shared memory programming"
+   }
+  ],
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "ownership programming language memory management",
+   "time_taken_displayed": 0.77,
+   "total_results": 19000
+  },
+  "search_metadata": {
+   "created_at": "2026-09-20 17:52:55 UTC",
+   "google_scholar_url": "https://scholar.google.com/scholar?q=ownership+programming+language+memory+management&hl=en&num=10",
+   "id": "6ab01d77529e4b2703f86c63",
+   "json_endpoint": "https://serpapi.com/searches/8leIXg8fnt-_WGQ3vYzQZHqpcQcAhk48uZC4CWQZI_U/6ab01d77529e4b2703f86c63.json",
+   "markdown_endpoint": "https://serpapi.com/searches/8leIXg8fnt-_WGQ3vYzQZHqpcQcAhk48uZC4CWQZI_U/6ab01d77529e4b2703f86c63.md",
+   "processed_at": "2026-09-20 17:52:55 UTC",
+   "raw_html_file": "https://serpapi.com/searches/8leIXg8fnt-_WGQ3vYzQZHqpcQcAhk48uZC4CWQZI_U/6ab01d77529e4b2703f86c63.html",
+   "status": "Success",
+   "total_time_taken": 6.97
+  },
+  "search_parameters": {
+   "engine": "google_scholar",
+   "hl": "en",
+   "num": "10",
+   "q": "ownership programming language memory management"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=10",
+   "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=90",
+    "2": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=10",
+    "3": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=20",
+    "4": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=30",
+    "5": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=40",
+    "6": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=50",
+    "7": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=60",
+    "8": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=70",
+    "9": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=ownership+programming+language+memory+management&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}

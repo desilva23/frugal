@@ -1,0 +1,462 @@
+{
+ "elapsed_ms": 13831.702,
+ "engine": "google_scholar",
+ "fetched_at": "2026-09-20T17:50:29.698721+00:00",
+ "frugal_cache_version": 1,
+ "key": "89d1179567c4937d24556bc375cd6666e129dd210ae45153aa1d8ce3fda83a8b",
+ "params": {
+  "num": 10,
+  "q": "interpreter lock python gil mutex"
+ },
+ "response": {
+  "organic_results": [
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "10847235966593670690",
+      "link": "https://scholar.google.com/scholar?cites=10847235966593670690&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10847235966593670690&engine=google_scholar&hl=en",
+      "total": 1
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:Ih6o96MfiZYJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Ih6o96MfiZYJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AIh6o96MfiZYJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "10847235966593670690",
+      "link": "https://scholar.google.com/scholar?cluster=10847235966593670690&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10847235966593670690&engine=google_scholar&hl=en",
+      "total": 3
+     }
+    },
+    "link": "https://link.springer.com/chapter/10.1007/978-3-031-85902-1_5",
+    "position": 1,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "BM Martin"
+      },
+      {
+       "name": "DD Hodson"
+      },
+      {
+       "author_id": "nK2KHJgAAAAJ",
+       "link": "https://scholar.google.com/citations?user=nK2KHJgAAAAJ&hl=en&oi=sra",
+       "name": "MR Grimaila",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nK2KHJgAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ],
+     "summary": "BM Martin, DD Hodson, MR Grimaila - World Congress in Computer …, 2024 - Springer"
+    },
+    "result_id": "Ih6o96MfiZYJ",
+    "snippet": "… to have more than one interpreter–called sub-interpreters–is not … conditions because of Python’s global interpreter lock (GIL). … acts as a mutex to prevent more than one interpreter from …",
+    "title": "Leveraging Python Interpreters for Concurrency in SeQUeNCe"
+   },
+   {
+    "inline_links": {
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:5g3FiWvfXtcJ:scholar.google.com/+interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:5g3FiWvfXtcJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5g3FiWvfXtcJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A5g3FiWvfXtcJ%3Ascholar.google.com%2F"
+    },
+    "link": "http://ir.lib.vntu.edu.ua/bitstream/handle/123456789/42329/20032.pdf?sequence=3&isAllowed=y",
+    "position": 2,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "ДВ Дейбук"
+      }
+     ],
+     "summary": "ДВ Дейбук - 2024 - ir.lib.vntu.edu.ua"
+    },
+    "result_id": "5g3FiWvfXtcJ",
+    "snippet": "… state of concurrency in Python, emphasizing the limitations imposed by the Global Interpreter Lock (GIL). It explores … However, the GIL – a mutex that prevents simultaneous execution of …",
+    "title": "The future of the python programming language without gil"
+   },
+   {
+    "inline_links": {
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:bOrm58VgUUQJ:scholar.google.com/+interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:bOrm58VgUUQJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bOrm58VgUUQJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AbOrm58VgUUQJ%3Ascholar.google.com%2F"
+    },
+    "link": "https://repositorio-aberto.up.pt/bitstream/10216/175994/2/787235.pdf",
+    "position": 3,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "A da Costa Marques"
+      }
+     ],
+     "summary": "A da Costa Marques - 2026 - repositorio-aberto.up.pt"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://repositorio-aberto.up.pt/bitstream/10216/175994/2/787235.pdf",
+      "title": "up.pt"
+     }
+    ],
+    "result_id": "bOrm58VgUUQJ",
+    "snippet": "… Python introduces the Global Interpreter Lock (GIL), a mutex that prevents multiple native threads from executing Python … with the overhead of the interpreter, is expected to introduce …",
+    "title": "Empirical Benchmarking Study of IEC 61499 Runtime Execution Environments",
+    "type": "Pdf"
+   },
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "5872141524711674824",
+      "link": "https://scholar.google.com/scholar?cites=5872141524711674824&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5872141524711674824&engine=google_scholar&hl=en",
+      "total": 20
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:yJNC05oJflEJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=yJNC05oJflEJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AyJNC05oJflEJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "5872141524711674824",
+      "link": "https://scholar.google.com/scholar?cluster=5872141524711674824&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5872141524711674824&engine=google_scholar&hl=en",
+      "total": 10
+     }
+    },
+    "link": "https://dl.acm.org/doi/abs/10.1145/1176617.1176758",
+    "position": 4,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "N Riley"
+      },
+      {
+       "name": "C Zilles"
+      }
+     ],
+     "summary": "N Riley, C Zilles - Companion to the 21st ACM SIGPLAN symposium on …, 2006 - dl.acm.org"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://dl.acm.org/doi/pdf/10.1145/1176617.1176758",
+      "title": "acm.org"
+     }
+    ],
+    "result_id": "yJNC05oJflEJ",
+    "snippet": "… a Global Interpreter Lock (GIL) to prevent two threads from concurrently interpreting Python … Our goal in converting locks to transactions, is to guarantee the mutual exclusion denoted …",
+    "title": "Hardware tansactional memory support for lightweight dynamic language evolution"
+   },
+   {
+    "inline_links": {
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:1VSSEbeZ89cJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1VSSEbeZ89cJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A1VSSEbeZ89cJ%3Ascholar.google.com%2F"
+    },
+    "position": 5,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "S Blom"
+      }
+     ],
+     "summary": "S Blom - 2026"
+    },
+    "result_id": "1VSSEbeZ89cJ",
+    "snippet": "",
+    "title": "Interpreter-Aware Object Deallocation Scheduling in CPython",
+    "type": "Citation"
+   },
+   {
+    "inline_links": {
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:74PFr9YlV0YJ:scholar.google.com/+interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "cited_by": {
+      "cites_id": "5068561509630968815",
+      "link": "https://scholar.google.com/scholar?cites=5068561509630968815&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5068561509630968815&engine=google_scholar&hl=en",
+      "total": 11
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:74PFr9YlV0YJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=74PFr9YlV0YJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A74PFr9YlV0YJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "5068561509630968815",
+      "link": "https://scholar.google.com/scholar?cluster=5068561509630968815&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5068561509630968815&engine=google_scholar&hl=en",
+      "total": 5
+     }
+    },
+    "link": "http://www.cs.ucdavis.edu/~matloff/matloff/public_html/Python/PyThreadsS2010.pdf",
+    "position": 6,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "N Matloff"
+      },
+      {
+       "name": "F Hsu"
+      }
+     ],
+     "summary": "N Matloff, F Hsu - University of California, 2007 - cs.ucdavis.edu"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "http://www.cs.ucdavis.edu/~matloff/matloff/public_html/Python/PyThreadsS2010.pdf",
+      "title": "ucdavis.edu"
+     }
+    ],
+    "result_id": "74PFr9YlV0YJ",
+    "snippet": "… Iron Python) Most importantly, there is a global interpreter lock, the famous (or infamous) GIL. … default 100, UP will release the GIL by calling pthread mutex unlock() or something similar. …",
+    "title": "Tutorial on Threads Programming with Python",
+    "type": "Pdf"
+   },
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "3169322641332396858",
+      "link": "https://scholar.google.com/scholar?cites=3169322641332396858&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3169322641332396858&engine=google_scholar&hl=en",
+      "total": 5
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:OmM4hyay-ysJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OmM4hyay-ysJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AOmM4hyay-ysJ%3Ascholar.google.com%2F"
+    },
+    "link": "https://books.google.com/books?hl=en&lr=&id=sgyLDwAAQBAJ&oi=fnd&pg=PP1&dq=interpreter+lock+python+gil+mutex&ots=ygSMn7fNDi&sig=ncrtFjU2020Aj4oi3LK6pyLxLGs",
+    "position": 7,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "G Lanaro"
+      },
+      {
+       "name": "Q Nguyen"
+      },
+      {
+       "name": "S Kasampalis"
+      }
+     ],
+     "summary": "G Lanaro, Q Nguyen, S Kasampalis - 2019 - books.google.com"
+    },
+    "result_id": "OmM4hyay-ysJ",
+    "snippet": "… cover mutual exclusion as a potential solution for this problem. Chapter 22, The Global Interpreter Lock, introduces the infamous GIL, … in Python. We will learn about the reason behind …",
+    "title": "Advanced Python Programming: Build high performance, concurrent, and multi-threaded apps with Python using proven design patterns",
+    "type": "Book"
+   },
+   {
+    "inline_links": {
+     "cited_by": {
+      "cites_id": "13979220779236401380",
+      "link": "https://scholar.google.com/scholar?cites=13979220779236401380&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13979220779236401380&engine=google_scholar&hl=en",
+      "total": 1
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:5CAlzzsrAMIJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5CAlzzsrAMIJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A5CAlzzsrAMIJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "13979220779236401380",
+      "link": "https://scholar.google.com/scholar?cluster=13979220779236401380&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13979220779236401380&engine=google_scholar&hl=en",
+      "total": 3
+     }
+    },
+    "link": "https://dl.acm.org/doi/abs/10.1145/2712386.2712390",
+    "position": 8,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "J Alcázar Zapién"
+      }
+     ],
+     "summary": "J Alcázar Zapién - Proceedings of the Sixth International Workshop on …, 2015 - dl.acm.org"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://dl.acm.org/doi/pdf/10.1145/2712386.2712390",
+      "title": "acm.org"
+     }
+    ],
+    "result_id": "5CAlzzsrAMIJ",
+    "snippet": "… Python and Ruby provide thread constructs to express concurrency, but due to their Interpreter Locks, usually called GIL (Global Interpreter Lock… objects like mutexes, condition variables…",
+    "title": "Debugging parallel programs using fork handlers"
+   },
+   {
+    "inline_links": {
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:E2VPMSUA1JwJ:scholar.google.com/+interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "cited_by": {
+      "cites_id": "11300657524720493843",
+      "link": "https://scholar.google.com/scholar?cites=11300657524720493843&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11300657524720493843&engine=google_scholar&hl=en",
+      "total": 13
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:E2VPMSUA1JwJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=E2VPMSUA1JwJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AE2VPMSUA1JwJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "11300657524720493843",
+      "link": "https://scholar.google.com/scholar?cluster=11300657524720493843&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11300657524720493843&engine=google_scholar&hl=en",
+      "total": 3
+     }
+    },
+    "link": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2024-03/010086183.pdf#page=466",
+    "position": 9,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "Y Foufoulas"
+      },
+      {
+       "name": "A Simitsis"
+      }
+     ],
+     "summary": "Y Foufoulas, A Simitsis… - Proceedings of the …, 2022 - horizon.documentation.ird.fr"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2024-03/010086183.pdf#page=466",
+      "title": "ird.fr"
+     }
+    ],
+    "result_id": "E2VPMSUA1JwJ",
+    "snippet": "… We currently support UDFs written in Python, which are fully … , tracing JIT compilation of Python UDFs, and seamless … the relational engine and the Python VM are very effective …",
+    "title": "YeSQL: rich user-defined functions without the overhead",
+    "type": "Pdf"
+   },
+   {
+    "inline_links": {
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:xh-R_TwUQTsJ:scholar.google.com/+interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "cited_by": {
+      "cites_id": "4269716173908680646",
+      "link": "https://scholar.google.com/scholar?cites=4269716173908680646&as_sdt=2005&sciodt=0,5&hl=en",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4269716173908680646&engine=google_scholar&hl=en",
+      "total": 6
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:xh-R_TwUQTsJ:scholar.google.com/&scioq=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xh-R_TwUQTsJ",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3Axh-R_TwUQTsJ%3Ascholar.google.com%2F",
+     "versions": {
+      "cluster_id": "4269716173908680646",
+      "link": "https://scholar.google.com/scholar?cluster=4269716173908680646&hl=en&as_sdt=0,5",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4269716173908680646&engine=google_scholar&hl=en",
+      "total": 5
+     }
+    },
+    "link": "https://www.researchgate.net/profile/Mehdi-Amini-4/publication/281878864_Compiling_python_modules_to_native_parallel_modules_using_Pythran_and_OpenMP_annotations/links/5c59c7a745851582c3cffcc1/Compiling-python-modules-to-native-parallel-modules-using-Pythran-and-OpenMP-annotations.pdf",
+    "position": 10,
+    "publication_info": {
+     "authors": [
+      {
+       "name": "S Guelton"
+      },
+      {
+       "name": "P Brunet"
+      },
+      {
+       "name": "M Amini"
+      }
+     ],
+     "summary": "S Guelton, P Brunet, M Amini - Python for High Performance and …, 2013 - researchgate.net"
+    },
+    "resources": [
+     {
+      "file_format": "PDF",
+      "link": "https://www.researchgate.net/profile/Mehdi-Amini-4/publication/281878864_Compiling_python_modules_to_native_parallel_modules_using_Pythran_and_OpenMP_annotations/links/5c59c7a745851582c3cffcc1/Compiling-python-modules-to-native-parallel-modules-using-Pythran-and-OpenMP-annotations.pdf",
+      "title": "researchgate.net"
+     }
+    ],
+    "result_id": "xh-R_TwUQTsJ",
+    "snippet": "… and to overcome the GIL limitations, Python developers have to … involves integers, except for the mutex manipulation. In that case … and without worrying about the Global Interpreter Lock. …",
+    "title": "Compiling Python modules to native parallel modules using Pythran and OpenMP annotations",
+    "type": "Pdf"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://scholar.google.com/scholar?start=10&q=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+   "other_pages": {
+    "2": "https://scholar.google.com/scholar?start=10&q=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+    "3": "https://scholar.google.com/scholar?start=20&q=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+    "4": "https://scholar.google.com/scholar?start=30&q=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5",
+    "5": "https://scholar.google.com/scholar?start=40&q=interpreter+lock+python+gil+mutex&hl=en&as_sdt=0,5"
+   }
+  },
+  "related_searches": [
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=1&q=interpreter+lock+python+gill+mutex&qst=bl",
+    "query": "interpreter lock python gill mutex"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=2&q=interpreter+lock+python+gil+code&qst=bl",
+    "query": "interpreter lock python gil code"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=3&q=interpreter+lock+python+gil+compiler&qst=bl",
+    "query": "interpreter lock python gil compiler"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=4&q=interpreter+lock+java+gil+mutex&qst=bl",
+    "query": "interpreter lock java gil mutex"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=5&q=interpreter+lock+python+gil+fuzzing&qst=bl",
+    "query": "interpreter lock python gil fuzzing"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=6&q=interpreter+lock+python+gil+token&qst=bl",
+    "query": "interpreter lock python gil token"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=7&q=interpreter+lock+python+gil+syntax&qst=bl",
+    "query": "interpreter lock python gil syntax"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=8&q=interpreter+lock+python+gil+mutation&qst=bl",
+    "query": "interpreter lock python gil mutation"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=9&q=interpreter+lock+python+gil+algorithm&qst=bl",
+    "query": "interpreter lock python gil algorithm"
+   },
+   {
+    "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=10&q=interpreter+lock+python+gil+hash&qst=bl",
+    "query": "interpreter lock python gil hash"
+   }
+  ],
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "interpreter lock python gil mutex",
+   "time_taken_displayed": 0.41,
+   "total_results": 44
+  },
+  "search_metadata": {
+   "created_at": "2026-09-20 17:50:16 UTC",
+   "google_scholar_url": "https://scholar.google.com/scholar?q=interpreter+lock+python+gil+mutex&hl=en&num=10",
+   "id": "6ab01cd8d3982c410c46b0e6",
+   "json_endpoint": "https://serpapi.com/searches/n6DljRliM6Ypd9wVXV0d5pJUU-xgk0HcO4qEzPCS4uk/6ab01cd8d3982c410c46b0e6.json",
+   "markdown_endpoint": "https://serpapi.com/searches/n6DljRliM6Ypd9wVXV0d5pJUU-xgk0HcO4qEzPCS4uk/6ab01cd8d3982c410c46b0e6.md",
+   "processed_at": "2026-09-20 17:50:16 UTC",
+   "raw_html_file": "https://serpapi.com/searches/n6DljRliM6Ypd9wVXV0d5pJUU-xgk0HcO4qEzPCS4uk/6ab01cd8d3982c410c46b0e6.html",
+   "status": "Success",
+   "total_time_taken": 13.13
+  },
+  "search_parameters": {
+   "engine": "google_scholar",
+   "hl": "en",
+   "num": "10",
+   "q": "interpreter lock python gil mutex"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=interpreter+lock+python+gil+mutex&start=10",
+   "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=interpreter+lock+python+gil+mutex&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=interpreter+lock+python+gil+mutex&start=10",
+    "3": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=interpreter+lock+python+gil+mutex&start=20",
+    "4": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=interpreter+lock+python+gil+mutex&start=30",
+    "5": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=interpreter+lock+python+gil+mutex&start=40"
+   }
+  }
+ },
+ "searches_charged": 1
+}
