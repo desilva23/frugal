@@ -272,6 +272,16 @@ FIXTURES = str(Path(__file__).parent.parent / "benchmarks" / "fixtures")
 #: for a step the recorded run never took. Re-record, then raise this.
 FIXTURE_QUESTIONS = 100
 
+#: Every question set the repository ships, listed rather than globbed: the
+#: benchmarks directory also holds results, and a new set should have to be
+#: named here deliberately rather than be swept up. Anything listed is held to
+#: the calibration that keeps its markers falsifiable.
+_BENCHMARKS = Path(__file__).parent.parent / "benchmarks"
+SHIPPED_QUESTION_SETS = (
+    _BENCHMARKS / "questions.json",
+    _BENCHMARKS / "structured.json",
+)
+
 
 def run_two_questions() -> list[object]:
     """Run the real harness over two questions, from committed fixtures."""
@@ -570,12 +580,13 @@ def test_no_shipped_marker_matches_arbitrary_prose() -> None:
         # question were satisfied by pages carrying no answer.
         "Giles subscribed to the RSS feed and filed the notes under miscellaneous."
     )
-    for question in load_questions():
-        for group in question.markers:
-            for alt in group:
-                assert not marker_matches(alt, filler), (
-                    f"{question.id}: marker {alt!r} matches unrelated prose"
-                )
+    for path in SHIPPED_QUESTION_SETS:
+        for question in load_questions(path):
+            for group in question.markers:
+                for alt in group:
+                    assert not marker_matches(alt, filler), (
+                        f"{path.name}/{question.id}: marker {alt!r} matches unrelated prose"
+                    )
 
 
 @pytest.mark.parametrize(

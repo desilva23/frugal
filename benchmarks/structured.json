@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "notes": "A separate, small set asking for facts that live in a structured index rather than in prose. The hundred-question set showed the router's choice of engine earning nothing: routing and 'always google_scholar' answered the identical ninety-six questions. That is a fair result for questions a web page can answer, which is what those hundred mostly are. It says nothing about whether a specialist engine is ever necessary, because none of them required one. These eight ask for the kind of answer a web page tends not to carry: a list of places with their street addresses, the organisations named on a patent record, two search-interest series compared against each other. If web search answers them anyway, that is the finding and it gets published; these are committed before being run, are scored by the same rules as the main set, and are reported in their own table rather than added to it. Eight is too few to conclude much either way, and the write-up says so.",
+  "questions": [
+    {
+      "id": "maps-hospital-addresses-coimbatore",
+      "question": "What are the street addresses of hospitals near Gandhipuram, Coimbatore?",
+      "category": "local",
+      "markers": [["hospital"], ["coimbatore"], ["road", "street", "nagar", "cross", "layout", "rd"]],
+      "rationale": "Asks for addresses, not names. A maps result carries one per entry; an article naming the same hospitals usually does not address them."
+    },
+    {
+      "id": "maps-pharmacy-addresses-chennai",
+      "question": "What are the street addresses of pharmacies near T Nagar, Chennai?",
+      "category": "local",
+      "markers": [["pharmacy", "pharmacies", "medical", "medicals", "chemist"], ["chennai"], ["road", "street", "nagar", "salai", "rd"]],
+      "rationale": "Same shape in a different city, so one city's web coverage cannot carry the result."
+    },
+    {
+      "id": "maps-atm-addresses-bengaluru",
+      "question": "What are the street addresses of ATMs near Koramangala, Bengaluru?",
+      "category": "local",
+      "markers": [["atm", "atms"], ["bengaluru", "bangalore"], ["road", "street", "cross", "layout", "main", "rd"]],
+      "rationale": "Nobody writes articles listing ATM addresses; a maps index has them as records."
+    },
+    {
+      "id": "patents-crispr-assignees",
+      "question": "Which organisations are listed as assignees on CRISPR gene editing patents?",
+      "category": "patent",
+      "markers": [["crispr"], ["patent", "patents"], ["university", "institute", "inc", "corporation", "ltd", "llc", "harvard", "broad"]],
+      "rationale": "Assignee is a field on a patent record. Press coverage names the dispute rather than the assignee list."
+    },
+    {
+      "id": "patents-perovskite-assignees",
+      "question": "Which organisations hold patents on perovskite solar cell manufacturing?",
+      "category": "patent",
+      "markers": [["perovskite"], ["patent", "patents"], ["university", "institute", "inc", "corporation", "ltd", "llc", "technologies"]],
+      "rationale": "A newer field with less press coverage, so the record is more likely the only source."
+    },
+    {
+      "id": "jobs-python-chennai-employers",
+      "question": "Which companies are currently hiring Python developers in Chennai?",
+      "category": "employment",
+      "markers": [["python"], ["chennai"], ["hiring", "hire", "vacancy", "vacancies", "opening", "openings", "apply"]],
+      "rationale": "Included expecting web search to do well, since job boards are web pages. A set of only favourable cases would prove nothing."
+    },
+    {
+      "id": "trends-millets-vs-quinoa-india",
+      "question": "In India, is search interest in millets higher than in quinoa?",
+      "category": "trend",
+      "markers": [["millet", "millets"], ["quinoa"], ["india"]],
+      "rationale": "A comparison of two series. An article may assert the answer; only the trends index measures it."
+    },
+    {
+      "id": "trends-ev-vs-petrol-india",
+      "question": "In India, has search interest in electric cars overtaken petrol cars?",
+      "category": "trend",
+      "markers": [["electric"], ["petrol", "diesel"], ["india"]],
+      "rationale": "Also widely written about, so this one tests whether prose answers a comparison as well as the series does."
+    }
+  ]
+}

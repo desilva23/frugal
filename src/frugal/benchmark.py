@@ -696,6 +696,11 @@ def main(argv: Sequence[str] | None = None) -> int:
     )
     parser.add_argument("--budget", type=int, default=DEFAULT_BUDGET, help="searches per question")
     parser.add_argument("--limit", type=int, default=None, help="run only the first N questions")
+    parser.add_argument(
+        "--questions",
+        default=None,
+        help="question set to run (default: benchmarks/questions.json)",
+    )
     parser.add_argument("--cache", default=".frugal-cache", help="cache directory")
     parser.add_argument(
         "--out",
@@ -707,7 +712,9 @@ def main(argv: Sequence[str] | None = None) -> int:
     if args.out is None:
         args.out = str(ABLATION_PATH if args.ablate else RESULTS_PATH)
 
-    questions = load_questions()
+    questions = load_questions(
+        Path(args.questions) if args.questions else QUESTIONS_PATH
+    )
     if args.limit is not None:
         questions = questions[: args.limit]
 
