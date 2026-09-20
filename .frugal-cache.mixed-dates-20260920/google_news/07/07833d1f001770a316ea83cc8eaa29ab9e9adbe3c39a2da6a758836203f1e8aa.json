@@ -1,0 +1,1470 @@
+{
+  "elapsed_ms": 62775.28,
+  "engine": "google_news",
+  "fetched_at": "2026-09-16T20:43:11.673530+00:00",
+  "frugal_cache_version": 1,
+  "key": "07833d1f001770a316ea83cc8eaa29ab9e9adbe3c39a2da6a758836203f1e8aa",
+  "params": {
+    "num": 10,
+    "q": "retrieval augmented generation"
+  },
+  "response": {
+    "menu_links": [
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+        "title": "U.S.",
+        "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+        "title": "World",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "title": "Your local news",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Business",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Technology",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Entertainment",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Sports",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Science",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+        "title": "Health",
+        "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+      }
+    ],
+    "news_results": [
+      {
+        "date": "08/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-16T07:00:00Z",
+        "link": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+        "position": 1,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://venturebeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "VentureBeat"
+        },
+        "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/7uLwfjMYQqxK7sEOJclb9X/c49147c0a943de6964f0ba5e817b75bf/u7277289442_A_modern_IT_stack._Data_flowing._Colorful._Neon.__6bde8cd6-a885-48ae-82cf-7dbe164e3f5d_3.png?w=800&q=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVhRWxZTW5wWlVFNXNibU51VFJDZUF4amtCU2dLTWdZbFpZak5LUVU",
+        "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM"
+      },
+      {
+        "date": "06/05/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-05T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41746-026-02860-7",
+        "position": 2,
+        "source": {
+          "authors": [
+            "Kai Jin",
+            "Andrzej Grzybowski",
+            "Rupesh Agrawal"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-02860-7/MediaObjects/41746_2026_2860_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJWR2hrU0U5MGNrczNiV1E1VFJDM0FoaWlBU2dCTWdhQkVvaEZGUWM",
+        "title": "EyeRAG: graph retrieval-augmented generation for safe and accurate clinical dialogue in ophthalmology"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/36963",
+        "position": 3,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "ViG-RAG: Video-aware Graph Retrieval-Augmented Generation via Temporal and Semantic Hybrid Reasoning"
+      },
+      {
+        "date": "07/29/2026, 04:43 PM, +0000 UTC",
+        "iso_date": "2026-07-29T16:43:50Z",
+        "link": "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2026.1884673/full",
+        "position": 4,
+        "source": {
+          "authors": [
+            "Saleh Almohaimeed",
+            "Saad Almohaimeed",
+            "Mohammed Alkhowaiter"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.frontiersin.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Frontiers"
+        },
+        "title": "Benchmarking retrieval augmented generation LLMs for Arabic noise robustness"
+      },
+      {
+        "date": "09/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-01T07:00:00Z",
+        "link": "https://www.bioprocessonline.com/doc/controls-for-retrieval-augmented-generation-in-gxp-0001",
+        "position": 5,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bioprocessonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Bioprocess Online"
+        },
+        "thumbnail": "https://vertassets.blob.core.windows.net/image/aaa30c5e/aaa30c5e-aed3-4178-9a98-de0c5cd848ee/375_250-data_search__information_discovery__file_management__digital_analysis__and_advanced_data_retrieval_systems_gettyimages_2284270263.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpjblpZVjNCd1FVMDVZV2hrVFJDM0FSaVRBaWdCTWdhaG9vd1J2UVU",
+        "title": "Controls For Retrieval-Augmented Generation In GxP"
+      },
+      {
+        "date": "09/16/2026, 02:30 PM, +0000 UTC",
+        "iso_date": "2026-09-16T14:30:00Z",
+        "link": "https://venturebeat.com/infrastructure/ai-agents-are-breaking-the-batch-era-assumptions-behind-object-storage",
+        "position": 6,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://venturebeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "VentureBeat"
+        },
+        "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/3CRt2ZUZW4kXOJkQToHJqh/6c8dc1d828470ca3e3587c68c489b225/AdobeStock_2112252673.jpeg?w=800&q=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVlkVWxSUlROa2RuSmtNbFpSVFJDZEF4am1CU2dLTWdPMWd4WQ",
+        "title": "AI workloads strain enterprise storage"
+      },
+      {
+        "date": "04/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-27T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41467-026-71411-1",
+        "position": 7,
+        "source": {
+          "authors": [
+            "Shihui Ying",
+            "Shiquan Liu",
+            "Shaoyi Du"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71411-1/MediaObjects/41467_2026_71411_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iLkNnNU1Ra3gzVWtOeldXWkhOa3RKVFJCX0dJd0RLQUV5Q1FFd2pzdXRKaWFtQWc",
+        "title": "Hyper-RAG: combating LLM hallucinations using hypergraph-driven retrieval-augmented generation"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40268",
+        "position": 8,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths"
+      },
+      {
+        "date": "06/25/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-25T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41467-026-74357-6",
+        "position": 9,
+        "source": {
+          "authors": [
+            "Eleanor Spens",
+            "Neil Burgess"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-74357-6/MediaObjects/41467_2026_74357_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBjemwxYlVjek1FVllNbXd6VFJEVkFSanRBU2dCTWdtQkFZTGprV00wcFFJ",
+        "title": "Hippocampo-neocortical interaction as compressive retrieval-augmented generation"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40725",
+        "position": 10,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "ShieldRAG: Safeguarding Retrieval-Augmented Generation from Untrusted Knowledge Bases"
+      },
+      {
+        "date": "04/01/2026, 10:38 PM, +0000 UTC",
+        "iso_date": "2026-04-01T22:38:23Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40320",
+        "position": 11,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "SegMem-RAG: Adaptive Memory for Retrieval-Augmented Generation in Open-Ended Knowledge Environments"
+      },
+      {
+        "date": "05/07/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-07T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-026-51205-7",
+        "position": 12,
+        "source": {
+          "authors": [
+            "Kai Jin",
+            "Kaikai Zhao",
+            "Sun Wen"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-51205-7/MediaObjects/41598_2026_51205_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJhVlV4VFdWblZrMVNOVjlJVFJDcEFSaXBBaWdCTWdrQkFJYXZsR1hZcFFJ",
+        "title": "Evaluation of large language models and retrieval-augmented generation for clinical reasoning in pediatric myopia: a 50-case real-world study"
+      },
+      {
+        "date": "05/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-01T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-026-50062-8",
+        "position": 13,
+        "source": {
+          "authors": [
+            "Hang Meng"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-50062-8/MediaObjects/41598_2026_50062_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTVkRnBMZDFka1F6UnJRVVZHVFJDOEFSaU1BaWdCTWdzQkVZSUlrV0xCaXZuU0hn",
+        "title": "DC-RAG: a dual-channel retrieval-augmented generation framework for audit analysis"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40265",
+        "position": 14,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "DCTR: Dual-Constraint Subgraph Optimization for Knowledge Graph-based Retrieval-Augmented Generation"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/38549",
+        "position": 15,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Stepwise Contrastive Reasoning for Retrieval-Augmented Generation over Knowledge Graphs"
+      },
+      {
+        "date": "03/28/2026, 01:48 AM, +0000 UTC",
+        "iso_date": "2026-03-28T01:48:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40591",
+        "position": 16,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "ECD: Evidence-guided Contrastive Decoding in Retrieval-Augmented Generation with Accurate Knowledge Reference Adjustment"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/38619",
+        "position": 17,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40278",
+        "position": 18,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "You Don’t Need Pre-Built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/37597",
+        "position": 19,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "RegionRAG: Region-level Retrieval-Augmented Generation for Visual Document Understanding"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40489",
+        "position": 20,
+        "source": {
+          "authors": [
+            "Liu Shiyi"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs"
+      },
+      {
+        "date": "02/11/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-11T08:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-026-36721-w",
+        "position": 21,
+        "source": {
+          "authors": [
+            "Ashad El Maghraby",
+            "Mohamed W. Fakhr"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-36721-w/MediaObjects/41598_2026_36721_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTVValF0VkhaMFJWTTJkRWQyVFJDWEFSak9BaWdCTWdNQkFnUQ",
+        "title": "Enhancing adversarial resilience in semantic caching for secure retrieval augmented generation systems"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/42194",
+        "position": 22,
+        "source": {
+          "authors": [
+            "Sizhong Cao"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Bi-Level Preference Optimization for Retrieval-Augmented Generation (Student Abstract)"
+      },
+      {
+        "date": "12/17/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-17T08:00:00Z",
+        "link": "https://iapp.org/news/a/llms-with-retrieval-augmented-generation-good-or-bad-for-privacy-compliance-",
+        "position": 23,
+        "source": {
+          "authors": [
+            "Julia Kaufmann"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://iapp.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "IAPP"
+        },
+        "thumbnail": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/bltf74a29a3f08f2804/693adea802d26e4e17e67a62/computer-hands-typing-ai-112025.jpg?width=3840&quality=75&format=pjpg&auto=webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFia294ZEVaSVRrb3lNalJhVFJDM0FSaVRBaWdCTWdZRmdZekdzZ2M",
+        "title": "LLMs with retrieval-augmented generation: Good or bad for privacy compliance?"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40664",
+        "position": 24,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "BEE-RAG: Balanced Entropy Engineering for Retrieval-Augmented Generation"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40534",
+        "position": 25,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering"
+      },
+      {
+        "date": "03/26/2026, 11:41 PM, +0000 UTC",
+        "iso_date": "2026-03-26T23:41:00Z",
+        "link": "https://www.sas.com/en/whitepapers/applying-the-power-of-retrieval-augmented-generation-in-health-care.html",
+        "position": 26,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.sas.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "SAS: Data and AI Solutions"
+        },
+        "thumbnail": "https://www.sas.com/en/whitepapers/applying-the-power-of-retrieval-augmented-generation-in-health-care/_jcr_content/par/textimage/image.img.jpg/1774626007572.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBkMnBtTUdOc1kwOXFSVmQwVFJDSEFSandBU2dCTWdhSktZcmtsZ2s",
+        "title": "Applying the power of retrieval-augmented generation in health care"
+      },
+      {
+        "date": "07/06/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-06T07:00:00Z",
+        "link": "https://www.healthcareitnews.com/news/enabling-trustworthy-healthcare-decisions-retrieval-augmented-generation",
+        "position": 27,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.healthcareitnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Healthcare IT News"
+        },
+        "thumbnail": "https://www.healthcareitnews.com/sites/hitn/files/styles/wide/public/2026-06/SASHITN1200.jpg.webp?itok=JiI82vk9",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5VRnA2V0hwV1kxRlFhVWhFVFJDaUFSaTJBaWdCTWdZeEpaU1BtUWs",
+        "title": "Enabling trustworthy healthcare decisions with retrieval-augmented generation"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/38692",
+        "position": 28,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Inference Scaling Law for Retrieval Augmented Generation"
+      },
+      {
+        "date": "08/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-27T07:00:00Z",
+        "link": "https://thenewstack.io/graphrag-multi-hop-reasoning-python/",
+        "position": 29,
+        "source": {
+          "authors": [
+            "Emmanuel Akita"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thenewstack.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The New Stack"
+        },
+        "thumbnail": "https://cdn.thenewstack.io/media/2026/08/ea391b28-rick-rothenberg-vojwkhu64fc-unsplash-1024x576.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU9XbTF5UjBablkwWXRZbEZsVFJDZkF4ampCU2dLTWdPQlVnWQ",
+        "title": "Why basic RAG fails at multi-hop reasoning (and how GraphRAG fixes it)"
+      },
+      {
+        "date": "03/17/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-17T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41597-026-07036-2",
+        "position": 30,
+        "source": {
+          "authors": [
+            "Lorenzo Bertolini",
+            "Christina Corbane",
+            "Alessio Spadaro"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-026-07036-2/MediaObjects/41597_2026_7036_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxOMmhXUlhocmNYTlNhbGh0VFJEY0FSamxBU2dCTWdrQkE0UnBMbWhjeGdJ",
+        "title": "Disaster Storylines and Knowledge Graphs from Global News with Large Language Models and Retrieval-Augmented Generation"
+      },
+      {
+        "date": "03/19/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-19T07:00:00Z",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/",
+        "position": 31,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aws.amazon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "aws.amazon.com"
+        },
+        "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/19/ml-19558-1120x630.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVNVlZoVldGWFIwNUpWa0pDVFJDZkF4ampCU2dLTWdZSkpKQ0lyUWM",
+        "title": "Introducing V-RAG: revolutionizing AI-powered video production with Retrieval Augmented Generation"
+      },
+      {
+        "date": "07/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-03T07:00:00Z",
+        "link": "https://www.nature.com/articles/s44401-026-00115-x",
+        "position": 32,
+        "source": {
+          "authors": [
+            "Young-hak Kim",
+            "Tae Joon Jun",
+            "Kim Hak"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44401-026-00115-x/MediaObjects/44401_2026_115_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUJUMHBCWDNjNGJXTm1VVjk2VFJDTUFSam5BaWdCTWdPQklnUQ",
+        "title": "RAG in clinical practice: a cautionary tale of AI ‘Truthfulness’ - npj Health Systems"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-026-41684-z",
+        "position": 33,
+        "source": {
+          "authors": [
+            "Hang Zhu",
+            "Xiaofeng Zhang",
+            "Li Ni"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-41684-z/MediaObjects/41598_2026_41684_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVka041UkRGbWEzVkNUM0ZEVFJDc0FSaW1BaWdCTWdZQkVZVEVrZ28",
+        "title": "Hierarchical multi-agent reinforcement learning for retrieval-augmented industrial document question answering"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40647",
+        "position": 34,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "SRACG: A Code Generation Framework with Selective Retrieval Augmentation"
+      },
+      {
+        "date": "06/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-03T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-026-55700-9",
+        "position": 35,
+        "source": {
+          "authors": [
+            "Yifan Hu"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-55700-9/MediaObjects/41598_2026_55700_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpaVmswWjFOc09WWjJYek0xVFJDdUFSaWlBaWdCTWdrUkFwSm9FbXR6VEFJ",
+        "title": "MuseRAG++: a deep retrieval-augmented generation framework for semantic interaction and multi-modal reasoning in virtual museums"
+      },
+      {
+        "date": "04/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-09T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41439-026-00344-4",
+        "position": 36,
+        "source": {
+          "authors": [
+            "Toyofumi Fujiwara",
+            "Atsuko Yamaguchi",
+            "Nobutaka Mitsuhashi"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41439-026-00344-4/MediaObjects/41439_2026_344_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZabWMwYlZWUExVMXpZbkJIVFJDSEFSajFBaWdCTWdNQk1Bdw",
+        "title": "ChatTogoVar: a TogoVar-based retrieval-augmented generation system for precise genomic variant interpretation"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40574",
+        "position": 37,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Are We on the Right Way to Assess Document Retrieval-Augmented Generation?"
+      },
+      {
+        "date": "04/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-27T07:00:00Z",
+        "link": "https://www.airuniversity.af.edu/Office-of-Sponsored-Programs/Research/Article-Display/Article/3827890/trustworthy-integration-of-large-language-models-data-ingestion-retrieval-augme/",
+        "position": 38,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.airuniversity.af.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Air University (af.edu)"
+        },
+        "thumbnail": "https://media.defense.gov/2021/May/03/2002633550/1200/1200/0/210503-F-RH006-1001.JPG",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVZjVEUwTVhwblZ6ZHhaamw1VFJDb0FSaXRBaWdCTWdB",
+        "title": "Trustworthy Integration of Large Language Models: Data Ingestion, Retrieval-Augmented Gene"
+      },
+      {
+        "date": "03/31/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-31T07:00:00Z",
+        "link": "https://www.nature.com/articles/s44387-025-00062-2",
+        "position": 39,
+        "source": {
+          "authors": [
+            "Ge Yao",
+            "Abeed Sarker",
+            "Yuting Guo"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44387-025-00062-2/MediaObjects/44387_2025_62_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFYMXBRZVdsV05YazFUV0l4VFJET0FoaXRCU2dLTWdNQkFRdw",
+        "title": "Improving few-shot named entity recognition for large language models using structured dynamic prompting with retrieval augmented generation"
+      },
+      {
+        "date": "04/03/2026, 06:04 AM, +0000 UTC",
+        "iso_date": "2026-04-03T06:04:27Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40623",
+        "position": 40,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Cross-Granularity Hypergraph Retrieval-Augmented Generation for Multi-hop Question Answering"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40363",
+        "position": 41,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40417",
+        "position": 42,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation"
+      },
+      {
+        "date": "02/09/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-09T08:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-026-38913-w",
+        "position": 43,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-38913-w/MediaObjects/41598_2026_38913_Fig4_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJNV05GYVMxWVVVc3pZMmRsVFJDb0FSaXJBaWdCTWdrSkVvU3BuU2VSSkFN",
+        "title": "RAGMail: a cloud-based retrieval-augmented framework for reducing hallucinations in LLM text generation"
+      },
+      {
+        "date": "07/10/2026, 07:26 PM, +0000 UTC",
+        "iso_date": "2026-07-10T19:26:07Z",
+        "link": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1896839/full",
+        "position": 44,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.frontiersin.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Frontiers"
+        },
+        "title": "Retrieval-augmented generation for pedagogically aware educational AI: an expert-rated comparison of a prompt-only LLM tutor and an integrated, learner-state-aware RAG tutor"
+      },
+      {
+        "date": "03/26/2026, 06:40 PM, +0000 UTC",
+        "iso_date": "2026-03-26T18:40:34Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40239",
+        "position": 45,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning | Proceedings of the AAAI Conference on Artificial Intelligence"
+      },
+      {
+        "date": "06/02/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-02T07:00:00Z",
+        "link": "https://www.businesswire.com/news/home/20260602585157/en/Cohesity-Secures-Earliest-Invented-Patent-in-the-Industry-for-GenAI-Retrieval-Augmented-Generation-RAG-Platform-Built-on-Secondary-Data",
+        "position": 46,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Business Wire"
+        },
+        "thumbnail": "https://mms.businesswire.com/media/20260602585157/en/1314139/22/Cohesity_Logo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5YMU5LWDIxMU5YQm1OMFpVVFJDSEF4aVBCaWdLTWdhaHBKU010UVk",
+        "title": "Cohesity Secures Earliest Invented Patent in the Industry for GenAI Retrieval-Augmented Generation (RAG) Platform Built on Secondary Data"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/37089",
+        "position": 47,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "PsyPARSE: Retrieval-Augmented Slow Thinking for Personalized Empathetic Counseling"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/38625",
+        "position": 48,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs"
+      },
+      {
+        "date": "08/04/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-04T07:00:00Z",
+        "link": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/",
+        "position": 49,
+        "source": {
+          "authors": [
+            "Sana Hassan"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.marktechpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "MarkTechPost"
+        },
+        "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog6176-1-1.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1aRWh1TkVwZmQzSm5ialo1VFJEVUF4aVBCU2dLTWdhRklveGttUWs",
+        "title": "Pixel-Native RAG: A Practical Guide to Visual Document Indexing"
+      },
+      {
+        "date": "04/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-03T07:00:00Z",
+        "link": "https://cybernews.com/ai-tools/retrieval-augmented-generation-rag/",
+        "position": 50,
+        "source": {
+          "authors": [
+            "Djordje Djordjevic"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cybernews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Cybernews"
+        },
+        "thumbnail": "https://media.cybernews.com/images/featured-big/2026/03/What-is-Retrieval-Augmented-Generation-.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVlVms1VGs1c2VFaFFXVTlzVFJEUEFoaVRCeWdLTWdZaGNaTE1zUVk",
+        "title": "What Is Retrieval Augmented Generation (RAG)? Detailed Guide"
+      },
+      {
+        "date": "08/10/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-10T07:00:00Z",
+        "link": "https://www.nature.com/articles/s43247-026-03878-1",
+        "position": 51,
+        "source": {
+          "authors": [
+            "Levke Caesar",
+            "Özge Kart",
+            "Boris Sakschewski"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43247-026-03878-1/MediaObjects/43247_2026_3878_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5aa1ZmVjFnMk5ISXdUblZWVFJDZ0F4aXRCU2dLTWdNUkFoUQ",
+        "title": "A domain-adapted retrieval-augmented framework for transparent Earth system assessment"
+      },
+      {
+        "date": "11/21/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-21T08:00:00Z",
+        "link": "https://www.nature.com/articles/s41597-025-06098-y",
+        "position": 52,
+        "source": {
+          "authors": [
+            "Xin Jia",
+            "Ziyang Chen",
+            "Yunxin Li"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-025-06098-y/MediaObjects/41597_2025_6098_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJiamRPVjBSS1F6aFVOVTVYVFJDb0FoaXRCU2dLTWdrQkVZcm1QT1d3SlFJ",
+        "title": "A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation"
+      },
+      {
+        "date": "06/02/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-02T07:00:00Z",
+        "link": "https://www.infoq.com/articles/vector-search-hybrid-retrieval-rag/",
+        "position": 53,
+        "source": {
+          "authors": [
+            "Srini Penchikala"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infoq.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "infoq.com"
+        },
+        "thumbnail": "https://res.infoq.com/articles/vector-search-hybrid-retrieval-rag/en/headerimage/vector-search-hybrid-retrieval-rag-header-1779972811121.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNVVEpQWVRoWVZHVkxibVpJVFJDUkF4ajhCU2dLTWdZQllJendMQVk",
+        "title": "Why Vector Search Alone Isn't Enough: Hybrid Retrieval for RAG"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40337",
+        "position": 54,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Expert-Guided Prompting and Retrieval-Augmented Generation for Emergency Medical Service Question Answering"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/37795",
+        "position": 55,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Organ-Aware Routing Mixture-of-Retrieval Augmented Generation for Fetal Ultrasound Reporting"
+      },
+      {
+        "date": "10/10/2025, 04:47 AM, +0000 UTC",
+        "iso_date": "2025-10-10T04:47:27Z",
+        "link": "https://www.marketsandmarkets.com/Market-Reports/retrieval-augmented-generation-rag-market-135976317.html",
+        "position": 56,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.marketsandmarkets.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "MarketsandMarkets"
+        },
+        "thumbnail": "https://mnmimg.marketsandmarkets.com/Images/retrieval-augmented-generation-rag-market-overview.svg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdTa2xSTjFwR04yZGlSVlowVFJESkFoaWpCeWdLTWdZRk00b0pNZ1U",
+        "title": "Retrieval augmented Generation (RAG) Market Report 2025 - 2030, By Application, Geo, Tech"
+      },
+      {
+        "date": "12/04/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-04T08:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-025-31038-6",
+        "position": 57,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-31038-6/MediaObjects/41598_2025_31038_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpkM0pETTNaSFEzaG9SMGhTVFJEb0FSalpBU2dCTWdhQkFvUVBQZ00",
+        "title": "A multi module a.i. system for intelligent health insurance support using retrieval augmented generation"
+      },
+      {
+        "date": "03/07/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-03-07T08:00:00Z",
+        "link": "https://www.infoq.com/news/2026/03/dropbox-scaling-human-judgement/",
+        "position": 58,
+        "source": {
+          "authors": [
+            "Sergio De Simone"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infoq.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "infoq.com"
+        },
+        "thumbnail": "https://res.infoq.com/news/2026/03/dropbox-scaling-human-judgement/en/headerimage/dropbox-scaling-human-judgement-1772903595832.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHRMVU5XYnkxNVYxcHpibXhJVFJDUkF4ajhCU2dLTWdB",
+        "title": "Scaling Human Judgment: How Dropbox Uses LLMs to Improve Labeling for RAG Systems"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/37216",
+        "position": 59,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Enhancing Retrieval-Augmented Large Vision Language Models via Knowledge Conflict Mitigation"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/38200",
+        "position": 60,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Knowledge Completes the Vision: A Multimodal Entity-aware Retrieval-Augmented Generation Framework for News Image Captioning | Proceedings of the AAAI Conference on Artificial Intelligence"
+      },
+      {
+        "date": "12/30/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-30T08:00:00Z",
+        "link": "https://www.infoworld.com/article/4108159/how-to-build-rag-at-scale.html",
+        "position": 61,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "InfoWorld"
+        },
+        "thumbnail": "https://www.infoworld.com/wp-content/uploads/2025/12/4108159-0-79138600-1767085287-rebuilding-AI-ready-data-strategy-shutterstock_2714100899.jpg?quality=50&strip=all",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZUamRYVmtRM1ZFaFZhV3RGVFJDZkF4ampCU2dLTWdZQkVJQnVsUWM",
+        "title": "How to build RAG at scale"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40432",
+        "position": 62,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "RAGFort: Dual-Path Defense Against Proprietary Knowledge Base Extraction in Retrieval-Augmented Generation"
+      },
+      {
+        "date": "06/04/2026, 12:52 AM, +0000 UTC",
+        "iso_date": "2026-06-04T00:52:11Z",
+        "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1802748/full",
+        "position": 63,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.frontiersin.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Frontiers"
+        },
+        "title": "A condition-aware retrieval-augmented decision support framework for tomato cultivation management"
+      },
+      {
+        "date": "06/04/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-04T07:00:00Z",
+        "link": "https://link.springer.com/article/10.1007/s11227-026-08604-4",
+        "position": 64,
+        "source": {
+          "authors": [
+            "Ayesha Khaliq",
+            "Wedad M. Alawad",
+            "Laila Almutairi"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://link.springer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Springer Nature Link"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11227-026-08604-4/MediaObjects/11227_2026_8604_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTVUMFZtVVRkWlpYRnFSRXRxVFJDSkFoaXRCU2dLTWdNQlFBNA",
+        "title": "A comprehensive survey on cache-augmented retrieval-augmented generation: performance metrics and future directions"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/42182",
+        "position": 65,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Adaptive AI for Personalized Intercultural Communication Education: A Conversational Agent Powered by Retrieval-Augmented Generation (Student Abstract) | Proceedings of the AAAI Conference on Artificial Intelligence"
+      },
+      {
+        "date": "01/12/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-12T08:00:00Z",
+        "link": "https://machinelearning.apple.com/research/search-augmented",
+        "position": 66,
+        "source": {
+          "authors": [
+            "Dong Lin",
+            "Saloni Potdar",
+            "David Qiu"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://machinelearning.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Apple Machine Learning Research"
+        },
+        "title": "Over-Searching in Search-Augmented Large Language Models"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/42125",
+        "position": 67,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Graph RAG for Automated Short Answer Grading with Feedback: Bridging Pedagogical Needs and Technical Capabilities"
+      },
+      {
+        "date": "07/15/2026, 09:12 PM, +0000 UTC",
+        "iso_date": "2026-07-15T21:12:46Z",
+        "link": "https://machinelearning.apple.com/research/clara-latent-reasoning",
+        "position": 68,
+        "source": {
+          "authors": [
+            "He Bai",
+            "Sinead A. Williamson",
+            "Navdeep Jaitly"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://machinelearning.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Apple Machine Learning Research"
+        },
+        "title": "CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning"
+      },
+      {
+        "date": "07/07/2026, 04:48 PM, +0000 UTC",
+        "iso_date": "2026-07-07T16:48:11Z",
+        "link": "https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/",
+        "position": 69,
+        "source": {
+          "authors": [
+            "Kezhan Shi"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/07/workshop_gJWlckmTeYc_v3_card.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW5URzFvTUdsVGMyUklUbmQwVFJDUkF4ajhCU2dLTWdzQk1JS2lUT09wejVtaUhn",
+        "title": "A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers"
+      },
+      {
+        "date": "02/06/2026, 10:34 AM, +0000 UTC",
+        "iso_date": "2026-02-06T10:34:50Z",
+        "link": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1777749/full",
+        "position": 70,
+        "source": {
+          "authors": [
+            "Bo Yuan",
+            "Chao Deng"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.frontiersin.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Frontiers"
+        },
+        "thumbnail": "https://www.frontiersin.org/files/Articles/1777749/xml-images/fcomp-08-1777749-g001.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUlRak10U0dFd01UaGpiVjlmVFJES0FSajVBU2dCTWdrQkFJQ2prT1JaVndB",
+        "title": "Research on an intelligent tutoring system based on automatic construction of multimodal knowledge graphs and retrieval-augmented generation"
+      },
+      {
+        "date": "07/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-09T07:00:00Z",
+        "link": "https://solutionsreview.com/rags-next-act-retrieval-tool-to-enterprise-storytelling-engine/",
+        "position": 71,
+        "source": {
+          "authors": [
+            "Dipanjan Sengupta"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://solutionsreview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Solutions Review"
+        },
+        "thumbnail": "https://solutionsreview.com/wp-content/uploads/2026/07/AdobeStock_432173706.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXBZemhLTWpGdFluY3lNR0kwVFJDSEF4aVBCaWdLTWdNZHNBNA",
+        "title": "RAG’s Next Act: Retrieval Tool to Enterprise Storytelling Engine"
+      },
+      {
+        "date": "12/24/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-24T08:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-025-28015-4",
+        "position": 72,
+        "source": {
+          "authors": [
+            "Wang Yifan"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-28015-4/MediaObjects/41598_2025_28015_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhaWEJPTkVWRVFUa3pRMU4xVFJDUUFoaXRCU2dLTWdZQlFZck1vQWc",
+        "title": "Medical QA dialogue datasets in RAG systems performance evaluation and ChatGPT optimization"
+      },
+      {
+        "date": "09/13/2026, 06:00 PM, +0000 UTC",
+        "iso_date": "2026-09-13T18:00:00Z",
+        "link": "https://venturebeat.com/orchestration/long-running-ai-agents-quietly-drop-compliance-rules-and-bigger-context-windows-wont-fix-it",
+        "position": 73,
+        "source": {
+          "authors": [
+            "Ankit Anand"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://venturebeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "VentureBeat"
+        },
+        "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/1Z4k1A8qAkzZcuAVWGLI2m/07013603fec43c94ab4d08befa8b8fd9/u7277289442_An_AI_robot_is_looking_at_spreadsheets._Dollar_si_51f0b024-c77e-4449-bbef-60a30e0e3a5a_1.png?w=800&q=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVaRzltYjNKbFgxZFNUVVl4VFJDZUF4amtCU2dLTWdZQkFJWXVKUWM",
+        "title": "Long-running AI agents quietly drop compliance rules, and bigger context windows won't fix it"
+      },
+      {
+        "date": "10/10/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-10T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-025-19257-3",
+        "position": 74,
+        "source": {
+          "authors": [
+            "Heng Yang"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-19257-3/MediaObjects/41598_2025_19257_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVaRXBSUTNSZmRVeGlOM1ZwVFJESkF4aWZCU2dLTWdZTkVvcXVrUWc",
+        "title": "Construction of intelligent decision support systems through integration of retrieval-augmented generation and knowledge graphs | Scientific Reports"
+      },
+      {
+        "date": "04/14/2026, 06:07 PM, +0000 UTC",
+        "iso_date": "2026-04-14T18:07:53Z",
+        "link": "https://towardsdatascience.com/rag-isnt-enough-i-built-the-missing-context-layer-that-makes-llm-systems-work/",
+        "position": 75,
+        "source": {
+          "authors": [
+            "Emmimal P Alexander"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/04/Context-Layer.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDNaVGhRVFZrelRqUlBhVTh0VFJERUF4aW1CU2dLTWdNQllBZw",
+        "title": "RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work"
+      },
+      {
+        "date": "11/14/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-14T08:00:00Z",
+        "link": "https://finance.yahoo.com/news/retrieval-augmented-generation-rag-market-143000715.html",
+        "position": 76,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Yahoo Finance"
+        },
+        "thumbnail": "https://s.yimg.com/lo/mysterio/api/1d66636d982998b368f42cfd394acd488ed82b94f9bfd3087749f06ad00c03e7/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fe7b5faf23c9bd4e600ef62a34a5002ac",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVVelpqUkdVNGFWWm9abEpHVFJERUFoaXhCeWdLTWdZVlE0RE5JUWs",
+        "title": "Retrieval-Augmented Generation (RAG) Market Surges to $9.86 billion by 2030 - Dominated by Microsoft (US), Amazon Web Services, Inc. (US), Anthropic (US)"
+      },
+      {
+        "date": "06/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-09T07:00:00Z",
+        "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/kuba-rogut-is-rag-dead-or-evolving",
+        "position": 77,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.startuphub.ai&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "StartupHub.ai"
+        },
+        "thumbnail": "https://cdn.startuphub.ai/storage/v1/object/public/post-images/youtube/1781028147714.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZaRkJQVkVOTGRXbEpZa1YwVFJDZkF4ampCU2dLTWdhVlVvU3RKUWc",
+        "title": "Kuba Rogut: Is RAG Dead or Evolving?"
+      },
+      {
+        "date": "04/02/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-02T07:00:00Z",
+        "link": "https://www.infoq.com/articles/beyond-rag-context-aware/",
+        "position": 78,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infoq.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "infoq.com"
+        },
+        "thumbnail": "https://imgopt.infoq.com/filters:quality(80)/articles/beyond-rag-context-aware/en/smallimage/beyond-rag-context-aware-thumbnail-1774531119239.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFNVWt4WVhSUlRuTmxVekl3VFJEMEF4ajBBeWdLTWdZQk1JcU5uUVk",
+        "title": "Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot"
+      },
+      {
+        "date": "05/26/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-26T07:00:00Z",
+        "link": "https://www.urologytimes.com/view/why-rag-based-ai-models-may-be-more-sufficient-for-patient-education",
+        "position": 79,
+        "source": {
+          "authors": [
+            "Archan Abhay Khandekar"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.urologytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Urology Times"
+        },
+        "thumbnail": "https://i.ytimg.com/vi/rd_Zg5-cVyE/mqdefault.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNRMkl4VVhCc2VsZEJNWGhIVFJDMEFSakFBaWdLTWdiSlFZVFZvQWc",
+        "title": "Why RAG-based AI models may be more sufficient for patient education"
+      },
+      {
+        "date": "04/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-01T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-026-45852-z",
+        "position": 80,
+        "source": {
+          "authors": [
+            "Aniket K. Shahade"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-45852-z/MediaObjects/41598_2026_45852_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1XRk5yVkRKR2VHWnFNMGhrVFJDb0FSaXRBaWdCTWdrQkFvZ3lrYVhBNkFF",
+        "title": "Enhancing movie script creation through retrieval-augmented LLMs and stable diffusion scene modeling"
+      },
+      {
+        "date": "05/04/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-04T07:00:00Z",
+        "link": "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next",
+        "position": 81,
+        "source": {
+          "authors": [
+            "Sean Kerner"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://venturebeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "VentureBeat"
+        },
+        "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/63RnjKitSJmHf7H32dzfIV/0e8ca54a47dbef9ce632ce075049f6d9/knowledge-layer-smk1.jpg?w=800&q=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBjM2hPTW5nME5EWTBUbUp5VFJDZkF4ampCU2dLTWdhSlVZcm1zQVk",
+        "title": "Pinecone's Nexus redefines agentic AI"
+      },
+      {
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40675",
+        "position": 82,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Association for the Advancement of Artificial Intelligence"
+        },
+        "title": "Thinking Forward and Backward: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning"
+      },
+      {
+        "date": "08/11/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-11T07:00:00Z",
+        "link": "https://www.infoworld.com/article/4206933/getting-the-feedback-loop-correct-in-ai.html",
+        "position": 83,
+        "source": {
+          "authors": [
+            "Matt Asay"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "InfoWorld"
+        },
+        "thumbnail": "https://www.infoworld.com/wp-content/uploads/2026/08/4206933-0-75547800-1786438894-aappp_shutterstock_1979081900-100963280-orig_16z9_ShutterCreative.jpg?quality=50&strip=all",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWtkMkpaT0hkdk1FZHpjUzFEVFJDZkF4ampCU2dLTWdB",
+        "title": "Getting the feedback loop correct in AI"
+      },
+      {
+        "date": "05/28/2026, 06:18 PM, +0000 UTC",
+        "iso_date": "2026-05-28T18:18:54Z",
+        "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1870870/full",
+        "position": 84,
+        "source": {
+          "authors": [
+            "Xueyi Liu",
+            "Wang Lingling",
+            "Sun Shijie"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.frontiersin.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Frontiers"
+        },
+        "title": "From automation to augmentation: a retrieval-augmented large language model framework for reshaping learning experiences in higher education"
+      },
+      {
+        "date": "05/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-14T07:00:00Z",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/progress-agentic-rag-named-2026-130000558.html",
+        "position": 85,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Yahoo Finance"
+        },
+        "thumbnail": "https://s.yimg.com/lo/mysterio/api/5270b13aefd4e1f4180c80dcae9fef7dd9a59590faf7f6296c9b4cfcde4371d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fc0d28c806771cd6afacbbeb44eb3af9e",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdVV2hQV25kUGNYaFpiM05VVFJEQkFoaTZCeWdLTWdZSm9ZN252QVU",
+        "title": "Progress Agentic RAG Named 2026 AI Excellence Award Winner for Advancing Retrieval-Augmented Generation"
+      },
+      {
+        "date": "02/02/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-02T08:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-026-38475-x",
+        "position": 86,
+        "source": {
+          "authors": [
+            "Yu-qiang Fang",
+            "Qiang Fang",
+            "He Tian"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-38475-x/MediaObjects/41598_2026_38475_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtaSGRRWkZWSlRtSTJRbGRDVFJDekFSaWFBaWdCTWdrQkVJVHZvT2c3OWdB",
+        "title": "Retrieval-augmented patch generation for geosynchronous satellite status forecasting"
+      },
+      {
+        "date": "06/29/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-29T07:00:00Z",
+        "link": "https://www.kdnuggets.com/your-rag-pipeline-is-probably-useless-heres-a-better-alternative",
+        "position": 87,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kdnuggets.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "KDnuggets"
+        },
+        "thumbnail": "https://www.kdnuggets.com/wp-content/uploads/Rosidi-RAG-Pipeline-2.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBTbFpSU1ZwR1dIUjBNeTFRVFJDbkF4aldCU2dLTWdZQlFKREVJZ28",
+        "title": "Your RAG Pipeline Is Probably Useless. Here’s a Better Alternative"
+      },
+      {
+        "date": "05/09/2026, 01:12 PM, +0000 UTC",
+        "iso_date": "2026-05-09T13:12:10Z",
+        "link": "https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/",
+        "position": 88,
+        "source": {
+          "authors": [
+            "Emmimal P Alexander"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/05/RAG-Temporal-Layer.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJjWGhrZWpsblVEUlhVVzVEVFJERUF4aW1CU2dLTWdrSk1vb3RvV1d4andF",
+        "title": "RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production"
+      },
+      {
+        "date": "07/12/2026, 03:02 PM, +0000 UTC",
+        "iso_date": "2026-07-12T15:02:30Z",
+        "link": "https://towardsdatascience.com/rag-vs-fine-tuning-explained-what-they-actually-do-and-when-to-use-each/",
+        "position": 89,
+        "source": {
+          "authors": [
+            "Maria Mouschoutzi"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/07/02F4CE50-0A1C-4278-9172-AD5748DF6FEA.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdXbTUwV0ZwWE9UTjBTM2x4VFJERUF4aW1CU2dLTWdZSlY0Z255Z1E",
+        "title": "RAG vs Fine-Tuning Explained: What They Actually Do and When to Use Each"
+      },
+      {
+        "date": "04/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-03T07:00:00Z",
+        "link": "https://thenewstack.io/rag-pipeline-hybrid-search/",
+        "position": 90,
+        "source": {
+          "authors": [
+            "Edward Huang"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thenewstack.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The New Stack"
+        },
+        "thumbnail": "https://cdn.thenewstack.io/media/2026/04/f9101bf1-kyunghee-yim-lu6jzi8r06a-unsplash-1024x512.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVpaMUpoWVhWS2R6TkliMGhhVFJDSEF4aVBCaWdLTWdB",
+        "title": "The laptop return that broke a RAG pipeline"
+      },
+      {
+        "date": "04/10/2026, 08:32 AM, +0000 UTC",
+        "iso_date": "2026-04-10T08:32:12Z",
+        "link": "https://www.nvidia.com/en-us/on-demand/session/gtc26-dlit82006/",
+        "position": 91,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "NVIDIA"
+        },
+        "title": "Build Cost-Effective, Scalable RAG Pipelines: From Ingestion to Response Generation"
+      },
+      {
+        "date": "03/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-09T07:00:00Z",
+        "link": "https://www.nature.com/articles/s41598-026-41495-2",
+        "position": 92,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Nature"
+        },
+        "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-41495-2/MediaObjects/41598_2026_41495_Fig1_HTML.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXNiV0pRY0d4aFZsaHNPVkZEVFJDRUFoakNBU2dCTWdPSkFnSQ",
+        "title": "RAG-based architectures for drug side effect retrieval using compact LLMs"
+      },
+      {
+        "date": "12/09/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-09T08:00:00Z",
+        "link": "https://www.akamai.com/cloud/guides/deploy-rag-pipeline-and-chatbot-on-apl/",
+        "position": 93,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.akamai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Akamai"
+        },
+        "thumbnail": "https://www.akamai.com/cloud/guides/deploy-rag-pipeline-and-chatbot-on-apl/AI_RAG_Diagram_hu_632e2748768dd85f.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNPV1ZaWmtWck5FZzRORTFZVFJDZEFSakFBaWdCTWdhTlVvd29IUWc",
+        "title": "Implement RAG (Retrieval-Augmented Generation) with App Platform for LKE | Linode Docs"
+      },
+      {
+        "date": "08/31/2026, 01:03 PM, +0000 UTC",
+        "iso_date": "2026-08-31T13:03:58Z",
+        "link": "https://towardsdatascience.com/why-rag-complexity-should-be-earned/",
+        "position": 94,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/1787690452686_g7jps6.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURjSE4zUm10eVNWSkdUVEZHVFJDUUJCakZCQ2dLTWdrWkVvUTF1YVo3S1FJ",
+        "title": "Why RAG Complexity Should Be Earned"
+      },
+      {
+        "date": "08/27/2026, 05:18 AM, +0000 UTC",
+        "iso_date": "2026-08-27T05:18:06Z",
+        "link": "https://hackernoon.com/what-building-my-first-rag-application-taught-me",
+        "position": 95,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackernoon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "HackerNoon"
+        },
+        "thumbnail": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-e9822r9.jpeg?auto=format%2Ccompress&w=3840",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZkM2M0ZVhFeE4xTldSRXMzVFJDM0FSaVRBaWdCTWdZQkVJS2pHQU0",
+        "title": "What Building My First RAG Application Taught Me"
+      },
+      {
+        "date": "11/24/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-24T08:00:00Z",
+        "link": "https://medium.com/@adnanmasood/chunking-strategies-for-retrieval-augmented-generation-rag-a-comprehensive-guide-5522c4ea2a90",
+        "position": 96,
+        "source": {
+          "authors": [
+            "Adnan Masood"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://medium.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Medium"
+        },
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*DSFp9xb9O4gESmW0CgPcZA.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpaa2RNUTNOc04zVTBTRnBCVFJERUF4aW1CU2dLTWdtTkFaQ3NIR2FLUkFN",
+        "title": "Chunking Strategies for Retrieval-Augmented Generation (RAG): A Comprehensive Guide"
+      },
+      {
+        "date": "04/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-27T07:00:00Z",
+        "link": "https://www.ibm.com/think/insights/retrieval-is-not-reasoning-what-agents-need",
+        "position": 97,
+        "source": {
+          "authors": [
+            "Ray Beharry"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ibm.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "IBM"
+        },
+        "thumbnail": "https://www.ibm.com/content/dam/worldwide-content/creative-assets/ibs/ul/cci/9c/15/ibm_think_projectkavya_techstack_still_4k.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhiRXcyZEdkMGMwMWFNMkpHVFJDcUJCaXFCQ2dLTWdNaElBNA",
+        "title": "Retrieval is not reasoning: What agents actually need from your data"
+      },
+      {
+        "date": "05/07/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-07T07:00:00Z",
+        "link": "https://federalnewsnetwork.com/commentary/2026/05/protecting-federal-ai-systems-a-primer-on-rag-and-securing-ai-driven-data-workflows/",
+        "position": 98,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://federalnewsnetwork.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Federal News Network"
+        },
+        "thumbnail": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-1340476740-scaled-e1760996847686-974x650.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkMlZRYlZSSVpFRnlXV2s1VFJERUF4aW1CU2dLTWdZVmhKS05zUVk",
+        "title": "Protecting federal AI systems: A primer on RAG and securing AI-driven data workflows"
+      },
+      {
+        "date": "06/16/2026, 02:26 AM, +0000 UTC",
+        "iso_date": "2026-06-16T02:26:23Z",
+        "link": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1785766/full",
+        "position": 99,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.frontiersin.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Frontiers"
+        },
+        "title": "Overview of RAG-based and LLM-based approaches to personalization in healthcare AI applications"
+      },
+      {
+        "date": "04/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-09T07:00:00Z",
+        "link": "https://www.infoq.com/articles/building-hierarchical-agentic-rag-systems/",
+        "position": 100,
+        "source": {
+          "authors": [
+            "Abhijit Ubale"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infoq.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "infoq.com"
+        },
+        "thumbnail": "https://res.infoq.com/articles/building-hierarchical-agentic-rag-systems/en/headerimage/building-hierarchical-agentic-rag-systems-header-1775040657142.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVBaVU5OVmtadVRHeFNiRFJhVFJDUkF4ajhCU2dLTWdNQm9BNA",
+        "title": "Building Hierarchical Agentic RAG Systems: Multi-Modal Reasoning with Autonomous Error Recovery"
+      }
+    ],
+    "search_metadata": {
+      "created_at": "2026-09-16 20:42:09 UTC",
+      "google_news_url": "https://news.google.com/search?q=retrieval+augmented+generation",
+      "id": "6aaaff213882c5cfcab9d271",
+      "json_endpoint": "https://serpapi.com/searches/P8sL5ETzBH5-eRqGKBhlR6YxkPNC7cGAXQau9N5Cicw/6aaaff213882c5cfcab9d271.json",
+      "markdown_endpoint": "https://serpapi.com/searches/P8sL5ETzBH5-eRqGKBhlR6YxkPNC7cGAXQau9N5Cicw/6aaaff213882c5cfcab9d271.md",
+      "processed_at": "2026-09-16 20:42:09 UTC",
+      "raw_html_file": "https://serpapi.com/searches/P8sL5ETzBH5-eRqGKBhlR6YxkPNC7cGAXQau9N5Cicw/6aaaff213882c5cfcab9d271.html",
+      "status": "Success",
+      "total_time_taken": 35.76
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "q": "retrieval augmented generation"
+    }
+  },
+  "searches_charged": 1
+}

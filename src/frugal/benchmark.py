@@ -70,8 +70,25 @@ from frugal.schema import Evidence, Series
 #: that patent records mostly use. This is the rule the router adopted for the
 #: same fault. Multi-word markers are matched as written, so a phrase that has a
 #: plural lists it.
+#:
+#: Short markers are excluded, because pluralising one does not produce a longer
+#: form of the same word -- it produces a different short token that collides
+#: with real ones. "rs" plus a plural matched "RSS", which appears on any page
+#: with a feed link, and eight commerce questions carry "rs" as the alternative
+#: that stands for a rupee price; "gil" matched the name "Giles". Both would
+#: have been satisfied by pages containing no answer at all, which is the fault
+#: word boundaries were introduced to remove, arriving by a second route.
+#:
+#: So a marker must be long enough that its plural is still distinctive. A
+#: question that genuinely needs a short plural lists it: "llms" alongside
+#: "llm". Stating it is better than inferring it, since the inference is what
+#: keeps going wrong.
 _MARKER_CACHE: dict[str, re.Pattern[str]] = {}
 _PLAIN_MARKER = re.compile(r"^[a-z][a-z\-]*$", re.IGNORECASE)
+
+#: Below this length, a pluralised marker collides with unrelated words more
+#: readily than it catches a real plural.
+_MIN_PLURAL_LENGTH = 4
 
 
 def marker_pattern(marker: str) -> re.Pattern[str]:
@@ -79,7 +96,7 @@ def marker_pattern(marker: str) -> re.Pattern[str]:
     cached = _MARKER_CACHE.get(marker)
     if cached is None:
         body = re.escape(marker)
-        if _PLAIN_MARKER.match(marker):
+        if len(marker) >= _MIN_PLURAL_LENGTH and _PLAIN_MARKER.match(marker):
             body += r"(?:e?s)?"
         prefix = r"\b" if marker[:1].isalnum() else ""
         suffix = r"\b" if marker[-1:].isalnum() else ""

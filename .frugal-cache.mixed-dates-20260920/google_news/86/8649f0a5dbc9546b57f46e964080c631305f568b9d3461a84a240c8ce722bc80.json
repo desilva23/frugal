@@ -1,0 +1,809 @@
+{
+  "elapsed_ms": 3269.74,
+  "engine": "google_news",
+  "fetched_at": "2026-09-16T23:45:06.518947+00:00",
+  "frugal_cache_version": 1,
+  "key": "8649f0a5dbc9546b57f46e964080c631305f568b9d3461a84a240c8ce722bc80",
+  "params": {
+    "num": 10,
+    "q": "global interpreter lock python"
+  },
+  "response": {
+    "menu_links": [
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+        "title": "U.S.",
+        "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+        "title": "World",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "title": "Your local news",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Business",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Technology",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Entertainment",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Sports",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+        "title": "Science",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+      },
+      {
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+        "title": "Health",
+        "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+      }
+    ],
+    "news_results": [
+      {
+        "date": "10/18/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-18T07:00:00Z",
+        "link": "https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/",
+        "position": 1,
+        "source": {
+          "authors": [
+            "Thomas Reid"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2025/10/Screenshot-2025-10-13-145709.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpRVVZQV0dkd1pIWTVUR0V3VFJEQkF4aXNCU2dLTWdZQmNvcHVyUVk",
+        "title": "Python 3.14 and the End of the GIL"
+      },
+      {
+        "date": "11/10/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-10T08:00:00Z",
+        "link": "https://www.kdnuggets.com/what-does-the-end-of-gil-mean-for-python",
+        "position": 2,
+        "source": {
+          "authors": [
+            "Nahla Davies"
+          ],
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kdnuggets.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "KDnuggets"
+        },
+        "thumbnail": "https://www.kdnuggets.com/wp-content/uploads/kdn-what-does-end-gil-mean-for-python.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5WbGQzUkZBNVFXMUtXbGhxVFJERUF4aW1CU2dLTWdrUk5JU25IdXRpOWdB",
+        "title": "What Does the End of GIL Mean for Python?"
+      },
+      {
+        "date": "05/11/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-11T07:00:00Z",
+        "link": "https://www.theregister.com/devops/2026/05/11/feature-freeze-for-python-315-as-first-beta-released/5237934",
+        "position": 3,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "The Register"
+        },
+        "thumbnail": "https://image.theregister.com/?imageId=232569&width=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVTM2h0WWpKbVMzWnBWM2xNVFJDM0FSaVRBaWdCTWdZUlFKSm5IZ2M",
+        "title": "Feature freeze for Python 3.15 as first beta released"
+      },
+      {
+        "date": "02/11/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-11T08:00:00Z",
+        "link": "https://medium.com/write-a-catalyst/is-mojo-10x-faster-than-python-e5ebea9f7e16",
+        "position": 4,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://medium.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Medium"
+        },
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1400/1*eIWcmuwmwXaZMUV1pCtfpw.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5kelpNVWtOSGVGTk9TRkZMVFJERUF4aW1CU2dLTWdB",
+        "title": "Is Mojo 10x Faster Than Python?. Stop optimizing your Python code… | by Muhamed Fazal PS | Write A Catalyst"
+      },
+      {
+        "date": "05/05/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-05T07:00:00Z",
+        "link": "https://engineering.fb.com/2025/05/05/developer-tools/enhancing-the-python-ecosystem-with-type-checking-and-free-threading/",
+        "position": 5,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://engineering.fb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Engineering at Meta Blog"
+        },
+        "thumbnail": "https://engineering.fb.com/wp-content/uploads/2025/04/Python-Packaging-Ecosystem-for-Performance-and-Usability.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRlSGRVU2xONk5YSTRYMkZFVFJDUkF4ajhCU2dLTWdZQkFJYVdqQW8",
+        "title": "Enhancing the Python ecosystem with type checking and free threading"
+      },
+      {
+        "date": "07/21/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-21T07:00:00Z",
+        "link": "https://www.netguru.com/blog/cpp-vs-python",
+        "position": 6,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.netguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Netguru"
+        },
+        "thumbnail": "https://www.netguru.com/hubfs/DSC_7903.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1WM2RHVlRSVE4xZzVNM2xYVFJER0FoaXNCeWdLTWdZVkZZenRGUW8",
+        "title": "C++ vs Python: Performance, Use Cases & How to Choose"
+      },
+      {
+        "date": "11/18/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-18T08:00:00Z",
+        "link": "https://aws.amazon.com/blogs/compute/python-3-14-runtime-now-available-in-aws-lambda/",
+        "position": 7,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aws.amazon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Amazon Web Services (AWS)"
+        },
+        "thumbnail": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2025/11/18/python-3.14-lambda-featured-image.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRTMU4zV0RkUGFWWlJURkJYVFJDVkF4alFCU2dLTWdNQlJSSQ",
+        "title": "Python 3.14 runtime now available in AWS Lambda"
+      },
+      {
+        "date": "08/04/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-08-04T07:00:00Z",
+        "link": "https://www.infoworld.com/article/2338862/python-moves-to-remove-the-gil-and-boost-concurrency.html",
+        "position": 8,
+        "source": {
+          "authors": [
+            "Serdar Yegulalp"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "InfoWorld"
+        },
+        "thumbnail": "https://www.infoworld.com/wp-content/uploads/2025/01/2338862-0-42021800-1736999842-women-spinning-plates_asynchronous-programming_synchrony_multi-tasking_by-graemenicholson-getty-images-2400x1600-100818018-orig.jpg?quality=50&strip=all",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlWMVUxZG1nNGFVcFJlWFk1VFJERUF4aW1CU2dLTWdrWlVZTHR6T0k4NmdF",
+        "title": "Python moves to remove the GIL and boost concurrency"
+      },
+      {
+        "date": "06/20/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-06-20T07:00:00Z",
+        "link": "https://www.techtarget.com/it-infrastructure/video/No-GIL-Python-is-a-mistake",
+        "position": 9,
+        "source": {
+          "authors": [
+            "Darcy DeClute"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtarget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "TechTarget"
+        },
+        "thumbnail": "https://i.ytimg.com/vi/YbbHnCk9Wuw/mqdefault.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFjVVE1U1hwelRFWTNXVEpRVFJDMEFSakFBaWdLTWdtSlFaYmttbWs4REFJ",
+        "title": "No-GIL Python is a mistake"
+      },
+      {
+        "date": "03/01/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-03-01T08:00:00Z",
+        "link": "https://www.theserverside.com/video/Pythons-GIL-removal-is-a-poison-pill-and-benefits-Mojo",
+        "position": 10,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theserverside.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "TheServerSide.com"
+        },
+        "thumbnail": "https://i.ytimg.com/vi/YbbHnCk9Wuw/hqdefault.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9SRms1VUdoU1JWOTVabXBoVFJEb0FoamdBeWdLTWdtSllaVGtwaWc4REFJ",
+        "title": "Python's GIL removal is a poison pill and benefits Mojo"
+      },
+      {
+        "date": "10/09/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-09T07:00:00Z",
+        "link": "https://finance.biggo.com/news/202510100248_Python-314-Performance-Community-Reaction",
+        "position": 11,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "finance.biggo.com"
+        },
+        "thumbnail": "https://img.biggo.com/y5Qi0lJsuch9zKcjboB6FX4MbRWR8y1ccEpzkgUd_64/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlLzQ1NTI0NzAyXzEuanBn.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtRazluUWpGYVZrSnFZbFprVFJDZkF4amlCU2dLTWdB",
+        "title": "Python 3.14 Performance Tests Spark Community Debate on Language's Future"
+      },
+      {
+        "date": "01/18/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-01-18T08:00:00Z",
+        "link": "https://www.phoronix.com/news/Python-3.13-Alpha-3",
+        "position": 12,
+        "source": {
+          "authors": [
+            "Michael Larabel"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phoronix.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Phoronix"
+        },
+        "thumbnail": "https://www.phoronix.net/image.php?id=2023&image=python",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURUVTlCVldsaU4xSjVjbTlSVFJDbEFSajhBeWdLTWdhQlVaUURJd2c",
+        "title": "Python 3.13 Alpha 3 Released - Work Continues On Dropping The GIL, Improving Performance"
+      },
+      {
+        "date": "01/30/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-30T08:00:00Z",
+        "link": "https://www.snowflake.com/en/blog/engineering/snowpark-parallel-python-udf-optimization/",
+        "position": 13,
+        "source": {
+          "authors": [
+            "Chenwei Xie"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.snowflake.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "snowflake.com"
+        },
+        "title": "Automated Optimizations for Python UDFs with Snowpark's Parallel Execution"
+      },
+      {
+        "date": "11/03/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-11-03T07:00:00Z",
+        "link": "https://hackaday.com/2021/11/03/python-ditches-the-gils-and-comes-ashore/",
+        "position": 14,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackaday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Hackaday"
+        },
+        "thumbnail": "https://hackaday.com/wp-content/uploads/2017/04/python-ide-ask-hackaday-featured1.jpg?w=800",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhWSGMzWjFWaWJXMDJZVTlmVFJDRkF4aVVCaWdLTWdZNVlJeXpxQVk",
+        "title": "Python Ditches The GILs And Comes Ashore"
+      },
+      {
+        "date": "10/07/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-07T07:00:00Z",
+        "link": "https://www.infoworld.com/article/3975624/the-best-new-features-and-fixes-in-python-3-14.html",
+        "position": 15,
+        "source": {
+          "authors": [
+            "Serdar Yegulalp"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "InfoWorld"
+        },
+        "thumbnail": "https://www.infoworld.com/wp-content/uploads/2025/10/3975624-0-48912500-1759854182-shutterstock_1445051480-100940464-orig.jpg?quality=50&strip=all",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFTMDlJVG5WSWNuWmZaR2RwVFJERUF4aW1CU2dLTWdtRlVvb3RLU2FhVVFF",
+        "title": "The best new features and fixes in Python 3.14"
+      },
+      {
+        "date": "02/04/2025, 02:14 AM, +0000 UTC",
+        "iso_date": "2025-02-04T02:14:12Z",
+        "link": "https://towardsdatascience.com/python-concurrency-threading-and-the-gil-db940596e325/",
+        "position": 16,
+        "source": {
+          "authors": [
+            "Diego Barba"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2022/08/0qUqd-ZTZJY5IIDRZ-scaled.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRSMUpDZVRaVlRHSk5PVFZoVFJEQ0F4aXBCU2dLTWdZcHNJeFB3UVU",
+        "title": "Python Concurrency - Threading and the GIL"
+      },
+      {
+        "date": "02/28/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-02-28T08:00:00Z",
+        "link": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Is-Pythons-GIL-the-software-worlds-biggest-blunder",
+        "position": 17,
+        "source": {
+          "authors": [
+            "Darcy DeClute"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theserverside.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "TheServerSide.com"
+        },
+        "thumbnail": "https://i.ytimg.com/vi/YbbHnCk9Wuw/hqdefault.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9SRms1VUdoU1JWOTVabXBoVFJEb0FoamdBeWdLTWdtSllaVGtwaWc4REFJ",
+        "title": "Is Python's GIL the software world's biggest blunder?"
+      },
+      {
+        "date": "10/05/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-10-05T07:00:00Z",
+        "link": "https://engineering.fb.com/2023/10/05/developer-tools/python-312-meta-new-features/",
+        "position": 18,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://engineering.fb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Engineering at Meta Blog"
+        },
+        "thumbnail": "https://engineering.fb.com/wp-content/uploads/2023/10/Eng-Blog-Self-Serve-Hero-Images-ANALYTICS-402-Orange.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFUVlJ4ZUZrMVFYRkNSakZWVFJDZkF4ampCU2dLTWdhMVFZaFJKUWs",
+        "title": "Meta contributes new features to Python 3.12"
+      },
+      {
+        "date": "10/16/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-16T07:00:00Z",
+        "link": "https://www.infoworld.com/article/3552750/get-started-with-the-free-threaded-build-of-python-3-13.html",
+        "position": 19,
+        "source": {
+          "authors": [
+            "Serdar Yegulalp"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "InfoWorld"
+        },
+        "thumbnail": "https://www.infoworld.com/wp-content/uploads/2025/01/3552750-0-87596100-1737222745-original.jpg?quality=50&strip=all",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpkMFJEVURCemJWTTNUV054VFJDZkF4ampCU2dLTWdZMU1ZZ1NvUWM",
+        "title": "Get started with the free-threaded build of Python 3.13"
+      },
+      {
+        "date": "02/04/2025, 09:50 AM, +0000 UTC",
+        "iso_date": "2025-02-04T09:50:56Z",
+        "link": "https://towardsdatascience.com/pythons-parallel-paradigm-shift-2bb40d3c2dd0/",
+        "position": 20,
+        "source": {
+          "authors": [
+            "Thomas Reid"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2024/07/1w8rtq5WSDxMLZ5l4v2bfeg.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZYMnhQTjNsSmFVcGxiMkl6VFJDZkF4ampCU2dLTWdhaE1vb3ZJUWc",
+        "title": "Python's Parallel Paradigm Shift"
+      },
+      {
+        "date": "12/25/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-25T08:00:00Z",
+        "link": "https://www.infoworld.com/article/3615556/python-in-2024-faster-more-powerful-and-more-popular-than-ever.html",
+        "position": 21,
+        "source": {
+          "authors": [
+            "Serdar Yegulalp"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "InfoWorld"
+        },
+        "thumbnail": "https://www.infoworld.com/wp-content/uploads/2024/12/3615556-0-96322300-1735117305-shutterstock_218547988-100961470-orig.jpg?quality=50&strip=all&w=1024",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVOMDFwYzBodU4zUXhabWx5VFJERUF4aW5CU2dLTWdhcFpKU3VLUWM",
+        "title": "Python in 2024: Faster, more powerful, and more popular than ever"
+      },
+      {
+        "date": "10/07/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-07T07:00:00Z",
+        "link": "https://www.infoworld.com/article/2337441/the-best-new-features-and-fixes-in-python-313.html",
+        "position": 22,
+        "source": {
+          "authors": [
+            "Serdar Yegulalp"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "InfoWorld"
+        },
+        "thumbnail": "https://www.infoworld.com/wp-content/uploads/2024/10/2337441-0-60665500-1728333788-shutterstock_1196401945-100963136-orig.jpg?quality=50&strip=all",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW5RMHBPYjB0clZYbHNaWFozVFJENkFoaXJCaWdLTWdB",
+        "title": "The best new features and fixes in Python 3.13"
+      },
+      {
+        "date": "08/15/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-08-15T07:00:00Z",
+        "link": "https://engineering.fb.com/2023/08/15/developer-tools/immortal-objects-for-python-instagram-meta/",
+        "position": 23,
+        "source": {
+          "authors": [
+            "Eddie Elizondo"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://engineering.fb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Engineering at Meta Blog"
+        },
+        "thumbnail": "https://engineering.fb.com/wp-content/uploads/2022/03/Eng-Blog-Self-Serve-Hero-Images-DEBUGGING-203-Orange.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBNMU40UW5SamVqWndTVFl3VFJDZkF4ampCU2dLTWdhaFJJVE5wUVE",
+        "title": "Introducing Immortal Objects for Python"
+      },
+      {
+        "date": "02/08/2025, 08:17 PM, +0000 UTC",
+        "iso_date": "2025-02-08T20:17:33Z",
+        "link": "https://towardsdatascience.com/python-parallelism-essential-guide-to-speeding-up-your-python-code-in-minutes-5ec71cbd88e1/",
+        "position": 24,
+        "source": {
+          "authors": [
+            "Dario Radečić"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2021/01/05EFw7UWzxMURhq6o.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpUSGhJV1dWcGRWRnZiV010VFJDMkF4aTlCU2dLTWdZSmM0NHRyUWM",
+        "title": "Python Parallelism: Essential Guide to Speeding up Your Python Code in Minutes"
+      },
+      {
+        "date": "09/23/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-09-23T07:00:00Z",
+        "link": "https://www.linuxjournal.com/content/python-3135-patch-release-packed-fixes-stability-boosts",
+        "position": 25,
+        "source": {
+          "authors": [
+            "George Whittaker"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linuxjournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Linux Journal"
+        },
+        "thumbnail": "https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/python-3-13-5-patch-release-packed-with-fixes-and-stability-boosts.jpg?itok=wlAIWCkp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdYekpuY1VvMk16QnBheTE1VFJENkFSam9BaWdLTWdrRllJcWtJdW1DOVFB",
+        "title": "Python 3.13.5 Patch Release Packed with Fixes & Stability Boosts"
+      },
+      {
+        "date": "09/30/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-09-30T07:00:00Z",
+        "link": "https://blog.adafruit.com/2024/09/30/everything-you-need-to-know-about-python-3-13-python/",
+        "position": 26,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.adafruit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Adafruit"
+        },
+        "thumbnail": "https://cdn-blog.adafruit.com/uploads/2024/09/3dot11.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRVVTkwWWt4eU0xaHNPRUo0VFJDMUFSakNBeWdLTWdtQklvcmxHdXByRkFF",
+        "title": "Everything you need to know about Python 3.13 #Python"
+      },
+      {
+        "date": "10/30/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-30T07:00:00Z",
+        "link": "https://www.infoworld.com/article/2257425/python-threading-and-subprocesses-explained.html",
+        "position": 27,
+        "source": {
+          "authors": [
+            "Serdar Yegulalp"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "InfoWorld"
+        },
+        "thumbnail": "https://www.infoworld.com/wp-content/uploads/2025/05/2257425-0-26298600-1748498501-thread_weave_spools_connected_rotate_spin-100728396-orig.jpg?quality=50&strip=all",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5Za0Z4TURsdlUzcEZkVGhQVFJERUF4aW1CU2dLTWdrQlVJVEYwQ0llU0FJ",
+        "title": "Python threading and subprocesses explained"
+      },
+      {
+        "date": "01/22/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-01-22T08:00:00Z",
+        "link": "https://towardsdatascience.com/a-quick-introduction-to-mojo-a-superset-of-python-that-is-super-fast-079c619036a7/",
+        "position": 28,
+        "source": {
+          "authors": [
+            "Lynn G. Kwong"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://towardsdatascience.com/wp-content/uploads/2024/01/0ZdXypL3dSWyetT5k.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9VRXBuUTFCMVlrZzBVM2cxVFJDU0F4ajdCU2dLTWdhNVlvcFNOUVU",
+        "title": "A Quick Introduction to Mojo – a Superset of Python that is Super Fast"
+      },
+      {
+        "date": "10/08/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-08T07:00:00Z",
+        "link": "https://linuxiac.com/python-3-14-released-with-free-threaded-mode/",
+        "position": 29,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://linuxiac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Linuxiac"
+        },
+        "thumbnail": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/linuxiac.com/wp-content/uploads/2025/10/python314-1024x576.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVVhVzkyTkU1bmFqTnlXbTFZVFJDZkF4ampCU2dLTWdB",
+        "title": "Python 3.14 Released With Free-Threaded Mode"
+      },
+      {
+        "date": "05/23/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-23T07:00:00Z",
+        "link": "https://developer.nvidia.com/blog/unlock-efficient-data-processing-with-the-latest-from-nvidia-dali/",
+        "position": 30,
+        "source": {
+          "authors": [
+            "Janusz Lisiecki"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://developer.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "NVIDIA Developer"
+        },
+        "thumbnail": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/05/DALI-New-Features-e1747957347124.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUZaRlI0VDI5RmJHdElkbmR6VFJDb0FSaXNBaWdCTWdPbGNRSQ",
+        "title": "Unlock Efficient Data Processing with the Latest from NVIDIA DALI | NVIDIA Technical Blog"
+      },
+      {
+        "date": "05/01/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-01T07:00:00Z",
+        "link": "https://www.infoworld.com/article/2338372/python-312-faster-leaner-more-future-proof.html",
+        "position": 31,
+        "source": {
+          "authors": [
+            "Serdar Yegulalp"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.infoworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "InfoWorld"
+        },
+        "thumbnail": "https://www.infoworld.com/wp-content/uploads/2024/06/shutterstock_1445051480-100940464-orig.jpg?quality=50&strip=all&w=1024",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBTR3RvVlVwSWJsQk5ZMFpEVFJERUF4aW5CU2dLTWdtRlVvb3RLU1o2VkFF",
+        "title": "Python 3.12: Faster, leaner, more future-proof"
+      },
+      {
+        "date": "05/22/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-22T07:00:00Z",
+        "link": "https://www.itpro.com/software/development/pythons-popularity-shows-no-signs-of-fading-heres-why-software-developers-love-it",
+        "position": 32,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.itpro.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "IT Pro"
+        },
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/R6gCr8QcpbFXWcn6UnBkih.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlaVUZMVlVKTmVsUjBaamRXVFJDZkF4ampCU2dLTWdZeGhZeXZNUWM",
+        "title": "Python’s popularity shows no signs of fading – here’s why software developers love it"
+      },
+      {
+        "date": "09/17/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-09-17T07:00:00Z",
+        "link": "https://finance.biggo.com/news/202509171342_PyProc_Debate_Python_Process_Management",
+        "position": 33,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "finance.biggo.com"
+        },
+        "thumbnail": "https://img.biggo.com/kOtI86VWbPSS8q2ctgL38zgY42NLntkeWxzW4NEBM3k/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlLzQ1MjU3OTI5XzEuanBn.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFjMVpsYmt4aFJGaDRWbEY2VFJDZkF4amlCU2dLTWdhSlVvb3NwUVU",
+        "title": "PyProc Sparks Developer Debate Over Python Process Management and Sandboxing Challenges"
+      },
+      {
+        "date": "11/14/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-14T08:00:00Z",
+        "link": "https://aws.amazon.com/blogs/compute/python-3-13-runtime-now-available-in-aws-lambda/",
+        "position": 34,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aws.amazon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Amazon Web Services (AWS)"
+        },
+        "thumbnail": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2024/11/06/Changing-a-function-to-Python-3.13.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVRiVlJ1TkRnMWRtUTRNRlpLVFJEdUFoamFCQ2dLTWdPQkFoSQ",
+        "title": "Python 3.13 runtime now available in AWS Lambda"
+      },
+      {
+        "date": "07/15/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-15T07:00:00Z",
+        "link": "https://hackernoon.com/rusts-potential-in-computer-vision-hindered-by-python-and-c-dominance",
+        "position": 35,
+        "source": {
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackernoon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "HackerNoon"
+        },
+        "thumbnail": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-88022xv.jpeg?auto=format%2Ccompress&w=3840",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXljM2xRZVd4SGRsSnNTVE10VFJDdkFSaWZBaWdCTWdB",
+        "title": "Rust's Potential in Computer Vision Hindered by Python and C++ Dominance"
+      },
+      {
+        "date": "07/30/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-07-30T07:00:00Z",
+        "link": "https://finance.biggo.com/news/202507301323_Python_Virtual_Threads_vs_Async_Await",
+        "position": 36,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "finance.biggo.com"
+        },
+        "thumbnail": "https://img.biggo.com/RstkJNEDxkLvkIfIylP0meNsJiv3OFEr8ok9kVxWDqM/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlLzQ0NjkyODM5XzEuanBn.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDBlVk0wVDNkZk0wZEViRTR3VFJDZkF4amlCU2dLTWdB",
+        "title": "Python Developers Debate Virtual Threads as Alternative to Async/Await Complexity"
+      },
+      {
+        "date": "03/12/2024, 01:45 PM, +0000 UTC",
+        "iso_date": "2024-03-12T13:45:07Z",
+        "link": "https://www.hackster.io/news/juan-manuel-fernandez-s-python-library-aims-to-improve-stepper-motor-handling-on-the-raspberry-pi-24f6c2b38834",
+        "position": 37,
+        "source": {
+          "authors": [
+            "Gareth Halfacree"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.hackster.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Hackster.io"
+        },
+        "thumbnail": "https://hackster.imgix.net/uploads/attachments/1692836/_9w4qCaAxUa.blob?auto=&format=jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFZbVUzVFhwaFgyaDZWMGRFVFJDZkF4ampCU2dLTWdZWkZJak1xUVk",
+        "title": "Juan Manuel Fernandez's Python Library Aims to Improve Stepper Motor Handling on the Raspberry Pi"
+      },
+      {
+        "date": "12/18/2018, 08:00 AM, +0000 UTC",
+        "iso_date": "2018-12-18T08:00:00Z",
+        "link": "https://hackaday.com/2018/12/18/thread-carefully-an-introduction-to-concurrent-python/",
+        "position": 38,
+        "source": {
+          "authors": [
+            "Ben James"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackaday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Hackaday"
+        },
+        "thumbnail": "https://hackaday.com/wp-content/uploads/2017/04/python-ide-ask-hackaday-featured1.jpg?w=800",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhWSGMzWjFWaWJXMDJZVTlmVFJDRkF4aVVCaWdLTWdZNVlJeXpxQVk",
+        "title": "Thread Carefully: An Introduction To Concurrent Python"
+      },
+      {
+        "date": "04/12/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-04-12T07:00:00Z",
+        "link": "https://towardsdatascience.com/why-taskgroup-and-timeout-are-so-crucial-in-python-3-11-asyncio-c424bcc88b89/",
+        "position": 39,
+        "source": {
+          "authors": [
+            "Peng Qian"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://towardsdatascience.com/wp-content/uploads/2023/04/0wImWhRqZIgt63hb4-scaled.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBNMVJhVFRNdE0zaGtRMEpKVFJEZ0F4aUFCU2dLTWdhTllwQXByUVk",
+        "title": "Why Taskgroup and Timeout Are so Crucial in Python 3.11 Asyncio"
+      },
+      {
+        "date": "02/04/2025, 08:27 AM, +0000 UTC",
+        "iso_date": "2025-02-04T08:27:31Z",
+        "link": "https://towardsdatascience.com/pattern-search-with-the-knuth-morris-pratt-kmp-algorithm-8562407dba5b/",
+        "position": 40,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Towards Data Science"
+        },
+        "thumbnail": "https://assets.insightmediagroup.io/media/wp-content/uploads/2020/12/1OIb4erqMedwaze8aTUi9gw.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNkMmh3UTBZNExWbDRSbFJNVFJEeUFSanBCU2dLTWdZQklLRG5sQW8",
+        "title": "Pattern Search with the Knuth-Morris-Pratt (KMP) algorithm"
+      },
+      {
+        "date": "11/01/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-11-01T07:00:00Z",
+        "link": "https://hackernoon.com/python-312-overview-past-limitations-faster-cpythons-advent-and-the-excitement-of-new-versions",
+        "position": 41,
+        "source": {
+          "authors": [
+            "Dmitrii Mitiaev"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackernoon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "HackerNoon"
+        },
+        "thumbnail": "https://hackernoon.imgix.net/images/swJY9Z7PPtfl399VxfrLfVf9tYs1-c993xij.jpeg?auto=format%2Ccompress&w=3840",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNjRzFUTTBWWlIxRklhRmhQVFJDZEF4am5CU2dLTWdhWmc1RE11UVk",
+        "title": "Python 3.12 Overview: Past Limitations, Faster CPython's Advent, and the Excitement of New Versions"
+      },
+      {
+        "date": "12/03/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-03T08:00:00Z",
+        "link": "https://zencoder.ai/blog/how-to-make-python-code-run-faster",
+        "position": 42,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zencoder.ai&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Zencoder"
+        },
+        "thumbnail": "https://46014728.fs1.hubspotusercontent-na1.net/hubfs/46014728/Features/How%20to%20Make%20Python%20Code%20Run%20Faster%2010%20Optimization%20Tips.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXljRko2VUU1R1VVMU5aemxOVFJDSEF4aVBCaWdLTWdhQk01S3NIUWc",
+        "title": "How to Make Python Code Run Faster: 10 Optimization Tips"
+      },
+      {
+        "date": "10/19/2020, 07:00 AM, +0000 UTC",
+        "iso_date": "2020-10-19T07:00:00Z",
+        "link": "https://www.efinancialcareers.com/news/2018/12/is-python-best-for-data-science",
+        "position": 43,
+        "source": {
+          "authors": [
+            "Paul A. Bilokon"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.efinancialcareers.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "eFinancialCareers"
+        },
+        "title": "Is Python really the best language for data science in finance?"
+      },
+      {
+        "date": "08/12/2017, 07:00 AM, +0000 UTC",
+        "iso_date": "2017-08-12T07:00:00Z",
+        "link": "https://hackernoon.com/synchronization-primitives-in-python-564f89fee732",
+        "position": 44,
+        "source": {
+          "authors": [
+            "Saurabh Chaturvedi"
+          ],
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackernoon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "HackerNoon"
+        },
+        "thumbnail": "https://hackernoon.imgix.net/hn-images/1*2eZh-l0RR1FhE9REPxze3Q.png?auto=format%2Ccompress&w=3840",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdURkl6V0daRWNGVmtiVVF5VFJDb0FSaXNBaWdCTWdhdFZZenZzUWM",
+        "title": "Let’s Synchronize Threads in Python"
+      },
+      {
+        "date": "01/26/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-01-26T08:00:00Z",
+        "link": "https://www.blockchain-council.org/ai/top-python-interview-questions-and-answers/",
+        "position": 45,
+        "source": {
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.blockchain-council.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Blockchain Council"
+        },
+        "thumbnail": "https://www.blockchain-council.org/_next/image/?url=%2Fblog-media%2Fposts%2F861ge86o6k2h%2FTop-30-Python-Interview-Questions-And-Answers-1-1-2f116d14.jpg&w=1920&q=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVdWMDlUTlVkTVZuQmFVVUo0VFJDUUF4ai1CU2dLTWdB",
+        "title": "Top Python Interview Questions And Answers"
+      },
+      {
+        "date": "09/30/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-09-30T07:00:00Z",
+        "link": "https://www.geeky-gadgets.com/python-3-12/",
+        "position": 46,
+        "source": {
+          "authors": [
+            "Julian Horsey"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.geeky-gadgets.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "geeky-gadgets.com"
+        },
+        "thumbnail": "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Python-3-12-new-features-explained.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpVRFI2WkZFM01XMVlORlpCVFJDM0F4aTZCU2dLTWdhaEk0S09uUVE",
+        "title": "Python 3.12 new features explained"
+      },
+      {
+        "date": "02/20/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-02-20T08:00:00Z",
+        "link": "https://www.simplilearn.com/tutorials/python-tutorial/multiprocessing-in-python",
+        "position": 47,
+        "source": {
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.simplilearn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Simplilearn.com"
+        },
+        "thumbnail": "https://www.simplilearn.com/ice9/free_resources_article_thumb/multiprocessing_in_python.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdWazFHVURjME1qRmhkUzA0VFJDZkF4ampCU2dLTWdZQk1KQXZIUWs",
+        "title": "Multiprocessing in Python - Running Multiple Processes in Parallel [Updated]"
+      },
+      {
+        "date": "12/08/2022, 08:00 AM, +0000 UTC",
+        "iso_date": "2022-12-08T08:00:00Z",
+        "link": "https://www.heise.de/ratgeber/Effizientes-Multithreading-mit-Python-GIL-Probleme-beim-Programmieren-umgehen-7367559.html",
+        "position": 48,
+        "source": {
+          "authors": [
+            "Tam Hanna"
+          ],
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.heise.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "heise online"
+        },
+        "thumbnail": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/6/5/9/2/3/3/python-gil-aufmacher-438063ba5ed7bc96.jpeg?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=70&width=1019",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFkVE5YYVU5cWJrb3lkaTAyVFJDZkF4ampCU2dLTWdZaE5Zck1vUVk",
+        "title": "Effizientes Multithreading mit Python: GIL-Probleme beim Programmieren umgehen"
+      },
+      {
+        "date": "10/24/2023, 03:36 PM, +0000 UTC",
+        "iso_date": "2023-10-24T15:36:03Z",
+        "link": "https://blog.desdelinux.net/en/The-new-stable-version-of-Python-3-12-arrives-and-these-are-its-new-features/",
+        "position": 49,
+        "source": {
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.desdelinux.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Desde Linux"
+        },
+        "title": "The new stable version of Python 3.12 arrives and these are its new features"
+      },
+      {
+        "date": "10/31/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-31T07:00:00Z",
+        "link": "https://windowsreport.com/python-3-14-arrives-on-azure-app-service-for-linux/",
+        "position": 50,
+        "source": {
+          "authors": [
+            "Rishaj Upadhyay"
+          ],
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://windowsreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "name": "Windows Report"
+        },
+        "thumbnail": "https://windowsreport.com/wp-content/uploads/2025/10/Azure-700x410.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNhWGh3YkVKMVZ6aHpVMGcyVFJDYUF4aThCU2dLTWdhbFJJN05LUVk",
+        "title": "Python 3.14 Arrives on Azure App Service for Linux"
+      }
+    ],
+    "search_metadata": {
+      "created_at": "2026-09-16 23:45:03 UTC",
+      "google_news_url": "https://news.google.com/search?q=global+interpreter+lock+python",
+      "id": "6aab29fff735817865c37b8f",
+      "json_endpoint": "https://serpapi.com/searches/MloxWWKCdXf9EVcfTEtZr0B8zcanAyscwj-HdtISBfQ/6aab29fff735817865c37b8f.json",
+      "markdown_endpoint": "https://serpapi.com/searches/MloxWWKCdXf9EVcfTEtZr0B8zcanAyscwj-HdtISBfQ/6aab29fff735817865c37b8f.md",
+      "processed_at": "2026-09-16 23:45:03 UTC",
+      "raw_html_file": "https://serpapi.com/searches/MloxWWKCdXf9EVcfTEtZr0B8zcanAyscwj-HdtISBfQ/6aab29fff735817865c37b8f.html",
+      "status": "Success",
+      "total_time_taken": 2.85
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "q": "global interpreter lock python"
+    }
+  },
+  "searches_charged": 1
+}

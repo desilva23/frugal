@@ -546,7 +546,11 @@ def test_no_shipped_marker_matches_arbitrary_prose() -> None:
 
     filler = (
         "The quick brown fox jumps over the lazy dog while years of available "
-        "maintenance offers occupied the chairman and said nothing at 21000 rupees."
+        "maintenance offers occupied the chairman and said nothing at 21000 rupees. "
+        # Words a pluralised short marker used to reach: "rs" matched RSS and
+        # "gil" matched Giles, so eight commerce questions and one language
+        # question were satisfied by pages carrying no answer.
+        "Giles subscribed to the RSS feed and filed the notes under miscellaneous."
     )
     for question in load_questions():
         for group in question.markers:
@@ -554,6 +558,44 @@ def test_no_shipped_marker_matches_arbitrary_prose() -> None:
                 assert not marker_matches(alt, filler), (
                     f"{question.id}: marker {alt!r} matches unrelated prose"
                 )
+
+
+@pytest.mark.parametrize(
+    ("marker", "collides_with"),
+    [
+        ("rs", "Subscribe to our RSS feed."),
+        ("gil", "Reviewed by Giles Anderson."),
+    ],
+)
+def test_a_short_marker_is_not_given_a_plural(marker: str, collides_with: str) -> None:
+    """Pluralising a short marker makes a different word, not a longer one.
+
+    Word boundaries were added because "rs" was matching "years". Plural
+    tolerance was added because "hospital" had stopped matching "hospitals".
+    Together they let "rs" match "RSS", which is on any page with a feed link --
+    the original fault arriving by a second route, on the same questions.
+
+    So plural tolerance needs the marker to be long enough that its plural is
+    still distinctive. A question that needs a short plural lists it outright.
+    """
+    from frugal.benchmark import marker_matches
+
+    assert not marker_matches(marker, collides_with)
+
+
+def test_a_question_needing_a_short_plural_spells_it_out() -> None:
+    """The rule above costs "llm" its match on "LLMs", so the set says "llms"."""
+    from frugal.benchmark import marker_matches
+
+    markers = {
+        alt
+        for question in load_questions()
+        if question.id in {"llm-hallucination", "ssd-price"}
+        for group in question.markers
+        for alt in group
+    }
+    assert {"llm", "llms", "ssd", "ssds"} <= markers
+    assert marker_matches("llms", "Why LLMs hallucinate: a survey")
 
 
 # --------------------------------------------------------------------------
