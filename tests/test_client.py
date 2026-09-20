@@ -421,3 +421,64 @@ def test_an_invalid_key_is_still_an_auth_error_even_with_a_success_status(
     body = {"search_metadata": {"status": "Error"}, "error": "Invalid API key"}
     with pytest.raises(AuthenticationError):
         make_client(always(200, body), tmp_path).search("google", q="x")
+
+
+# --------------------------------------------------------------------------
+# What a run paid for but did not keep
+# --------------------------------------------------------------------------
+
+
+def test_every_request_is_counted_including_retries(tmp_path: Path) -> None:
+    """A retried request reached SerpApi as surely as a successful one did.
+
+    searches_charged counts recorded responses, so a request whose response
+    never arrives is invisible to it while still being a search SerpApi ran.
+    Measured against the account counter across one session, the tool recorded
+    760 searches where SerpApi billed 817.
+    """
+    calls: list[int] = []
+
+    def flaky(request: httpx.Request) -> httpx.Response:
+        calls.append(1)
+        if len(calls) < 3:
+            return httpx.Response(503)
+        return httpx.Response(
+            200, json={"organic_results": [], "search_metadata": {"status": "Success"}}
+        )
+
+    cache = ResponseCache(tmp_path / "cache")
+    with SerpApiClient(
+        api_key="k",
+        cache=cache,
+        http=httpx.Client(transport=httpx.MockTransport(flaky)),
+        sleep=lambda _: None,
+    ) as client:
+        client.search("google", q="anything")
+
+    assert client.log.attempts == 3
+    assert client.log.searches_charged == 1
+    assert client.log.unrecorded_attempts == 2
+
+
+def test_a_clean_run_reports_no_hidden_spend(tmp_path: Path) -> None:
+    """The counter is only useful if it is quiet when nothing is wrong."""
+
+    def ok(request: httpx.Request) -> httpx.Response:
+        return httpx.Response(
+            200, json={"organic_results": [], "search_metadata": {"status": "Success"}}
+        )
+
+    cache = ResponseCache(tmp_path / "cache")
+    with SerpApiClient(
+        api_key="k",
+        cache=cache,
+        http=httpx.Client(transport=httpx.MockTransport(ok)),
+    ) as client:
+        client.search("google", q="one")
+        client.search("google", q="two")
+        client.search("google", q="one")  # served from cache, sends nothing
+
+    assert client.log.attempts == 2
+    assert client.log.searches_charged == 2
+    assert client.log.unrecorded_attempts == 0
+    assert client.log.as_dict()["unrecorded_attempts"] == 0

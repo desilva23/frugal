@@ -654,6 +654,21 @@ def render_ablation(summaries: dict[str, StrategySummary]) -> str:
     return "\n".join([header, *rows])
 
 
+def _report_spend(log: Any) -> None:
+    """Print what the run recorded, and what it may have paid for and lost.
+
+    Reported even when it is zero, because the useful case is noticing that it
+    is not. A gap here means SerpApi ran searches whose responses never reached
+    the cache, and those are billed exactly like the ones that did.
+    """
+    print(f"\nsearches billed this run: {log.searches_charged}")
+    if log.unrecorded_attempts:
+        print(
+            f"requests that produced no recorded search: {log.unrecorded_attempts} "
+            f"(of {log.attempts} sent) -- SerpApi may have billed these"
+        )
+
+
 def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
         prog="python -m frugal.benchmark",
@@ -728,8 +743,9 @@ def main(argv: Sequence[str] | None = None) -> int:
                 client, questions, budget=args.budget, skip_deep=args.skip_deep
             )
             billed = client.log.searches_charged
+            spend = client.log
         print("\n" + render_ablation(summaries))
-        print(f"\nsearches billed this run: {billed}")
+        _report_spend(spend)
         Path(args.out).write_text(
             json.dumps(
                 {"ablation": {k: v.as_dict() for k, v in summaries.items()}},
@@ -743,16 +759,18 @@ def main(argv: Sequence[str] | None = None) -> int:
     with SerpApiClient(cache=cache) as client:
         outcomes = run_benchmark(client, questions, budget=args.budget)
         billed = client.log.searches_charged
+        spend = client.log
 
     summaries = summarise(outcomes)
     print("\n" + render_table(summaries))
-    print(f"\nsearches billed this run: {billed}")
+    _report_spend(spend)
     print(f"elapsed: {time.perf_counter() - started:.1f}s")
 
     payload = {
         "questions": len(questions),
         "budget_per_question": args.budget,
         "searches_billed_this_run": billed,
+        "spend": spend.as_dict(),
         "summaries": {name: s.as_dict() for name, s in summaries.items()},
         "outcomes": [o.as_dict() for o in outcomes],
     }

@@ -86,11 +86,38 @@ class RequestLog:
     cache_hits: int = 0
     retries: int = 0
     searches_charged: int = 0
+    #: Every HTTP request sent to SerpApi, including retries and including the
+    #: ones whose response never became a recorded search.
+    #:
+    #: searches_charged counts what was successfully *recorded*, which is not
+    #: the same as what was billed. A request that reached SerpApi was served
+    #: and counted by SerpApi whether or not the response reached us -- a
+    #: read timeout on our side is a completed search on theirs. Measured
+    #: against the account counter over one session, this project recorded 760
+    #: searches while SerpApi billed 817: a seven percent gap that was
+    #: invisible from inside the tool, and could only be found by reading the
+    #: dashboard and subtracting.
+    #:
+    #: A tool whose subject is knowing what a search costs should not need an
+    #: external page to notice it is undercounting, so the number it cannot
+    #: see is now the number it reports.
+    attempts: int = 0
     #: Searches that completed, were billed, and returned nothing. Counted
     #: separately because they are the case that used to go unrecorded.
     empty_results: int = 0
     total_latency_ms: float = 0.0
     errors: list[str] = field(default_factory=list)
+
+    @property
+    def unrecorded_attempts(self) -> int:
+        """Requests SerpApi received that produced no recorded search.
+
+        An upper bound on the hidden spend rather than a measurement of it:
+        SerpApi does not bill a search it reports as failed, so some of these
+        were free. The ones that cost money are the requests it served and we
+        did not receive -- and from inside the client those two look alike.
+        """
+        return max(0, self.attempts - self.searches_charged)
 
     def as_dict(self) -> dict[str, Any]:
         return {
@@ -98,6 +125,8 @@ class RequestLog:
             "cache_hits": self.cache_hits,
             "retries": self.retries,
             "searches_charged": self.searches_charged,
+            "attempts": self.attempts,
+            "unrecorded_attempts": self.unrecorded_attempts,
             "empty_results": self.empty_results,
             "total_latency_ms": round(self.total_latency_ms, 1),
             "errors": list(self.errors),
@@ -259,6 +288,9 @@ class SerpApiClient:
 
         for attempt in range(1, self.max_attempts + 1):
             try:
+                # Counted before the call, not after: a request that times out
+                # still reached SerpApi, and SerpApi still ran the search.
+                self.log.attempts += 1
                 response = self._http.get(self.base_url, params=query)
             except httpx.TimeoutException as exc:
                 last_error = exc
