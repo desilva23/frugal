@@ -532,3 +532,56 @@ def test_an_empty_search_spends_the_budget_it_really_spent(tmp_path: Path) -> No
     assert result.budget.spent == result.steps_executed
     assert client.log.empty_results == result.steps_executed
     assert result.failures == []
+
+
+# --------------------------------------------------------------------------
+# The budget, at the level where it matters
+# --------------------------------------------------------------------------
+
+
+def test_a_plan_stops_when_the_budget_runs_out(tmp_path: Path) -> None:
+    """The governor has thirty unit tests; the plan that obeys it had none.
+
+    Every one of those tests exercises BudgetGovernor directly. Nothing checked
+    that a Planner given more steps than money actually stops -- which is the
+    behaviour the README sells, and the branch that sets "budget exhausted" was
+    reached by no test at all.
+
+    It cannot be demonstrated from the committed fixtures either, and for a
+    sound reason: replay serves everything from cache, cache hits are free by
+    design, and a budget that bounds money is not consumed by a search that
+    cost none. Only paid searches can exhaust it, so only a transport that
+    charges can show it happening.
+    """
+    calls: list[str] = []
+    planner, client = make_planner(
+        tmp_path, responder(counter=calls), max_engines=3, max_rounds=2
+    )
+
+    plenty = planner.dry_run(QUESTION, budget=50)
+    assert plenty.ceiling >= 3, "this question needs a plan bigger than the budget below"
+
+    result = planner.run(QUESTION, budget=1)
+
+    assert result.stopped_because == "budget exhausted"
+    assert client.log.searches_charged == 1
+    assert result.steps_executed < result.ceiling
+    assert result.steps_skipped > 0
+
+
+def test_a_cached_search_does_not_consume_the_budget(tmp_path: Path) -> None:
+    """The allowance bounds money, and a cache hit costs none.
+
+    This is why a replayed benchmark reports no budget pressure however small
+    the limit: it is not the governor failing to fire, it is nothing being
+    spent for it to notice.
+    """
+    planner, client = make_planner(tmp_path, max_engines=2, max_rounds=1)
+
+    first = planner.run(QUESTION, budget=12)
+    assert client.log.searches_charged == first.steps_executed
+
+    again = planner.run(QUESTION, budget=1)
+    assert again.steps_executed == first.steps_executed
+    assert again.stopped_because != "budget exhausted"
+    assert client.log.searches_charged == first.steps_executed
