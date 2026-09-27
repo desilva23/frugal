@@ -184,6 +184,20 @@ def _answer_panel(answer: Answer) -> Panel:
         body.append("")
         body.append(Text("  (no citations — not grounded in the evidence)", style="yellow"))
 
+    # A tool about knowing what things cost should not be silent about the one
+    # cost it adds itself. Searches are billed by SerpApi and reported above;
+    # this call is billed by whoever serves the model, and was reported nowhere.
+    if answer.usage is not None:
+        body.append("")
+        body.append(
+            Text(
+                f"  {answer.usage.total:,} tokens "
+                f"({answer.usage.prompt:,} prompt + {answer.usage.completion:,} completion) "
+                f"— billed by the model provider, not by SerpApi",
+                style="dim",
+            )
+        )
+
     return Panel(
         Group(*body),
         title=f"[bold]Answer[/bold] [dim]{answer.model}[/dim]",

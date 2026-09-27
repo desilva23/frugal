@@ -158,12 +158,24 @@ the Adam optimisation algorithm?"*, web search returns an answer box naming
 Kingma; asked `proposed adam optimisation algorithm`, it returns pages about
 Adam. The interrogative was carrying the meaning.
 
-It ships anyway, and the reason is visible in the per-engine data rather than in
-this total: `google_shopping`, `google_jobs`, `google_maps` and `google_trends`
-match terms rather than sentences, and sending them a sentence returns nothing.
-Reformulation is applied per engine because engines differ; the measured −6 is
-the price of applying it to web search too, and the honest reading is that this
-arm should probably be conditional. It is not, and the table says so.
+It ships anyway, and for a better reason than inertia. `google_shopping`,
+`google_jobs`, `google_maps` and `google_trends` match terms rather than
+sentences, and sending them a sentence returns nothing — so reformulation is
+applied per engine because engines differ, and the −6 is the price of applying
+it to web search too.
+
+**The obvious fix was tested and it makes things worse.** Sending the planner's
+web step the verbatim question instead of the keyword query scores 97 rather
+than 98: one question changes and it changes the wrong way. The −6 is real as a
+statement about reformulation *alone*, which is what that arm isolates — and it
+is fully absorbed inside a plan, where engine parameters, routing and a second
+search compensate for it. **There is no question the verbatim baseline answers
+that the planner misses.**
+
+This cost nothing to establish, since the verbatim responses were already
+recorded by the `naive` arm. A negative result about an isolated mechanism is
+not automatically a defect in the system that contains it, and the difference is
+cheap to check.
 
 **Engine parameters earn the most of any single mechanism.** `gl`, `hl`,
 `location`, `geo` and `as_ylo` were added because sending none of them was a
@@ -512,6 +524,22 @@ Citations are checked against the evidence actually supplied, and invented ones
 are stripped rather than shown as references a reader cannot follow. And an
 answer that cites nothing is labelled as ungrounded, because an uncited answer
 is either a refusal — which is fine — or the model's own memory, which is not.
+
+**It reports what it cost.** This was the one expense the tool was silent
+about: searches are billed by SerpApi and counted everywhere, while the
+synthesis call is billed by whoever serves the model and appeared in no total.
+An answer now carries its token usage.
+
+```
+  1,380 tokens (1,200 prompt + 180 completion)
+  — billed by the model provider, not by SerpApi
+```
+
+Tokens rather than money, deliberately. A price table would have to name a rate
+per model, and a rate committed to a repository is stale the week the provider
+changes it — a cost figure that is quietly wrong is worse than one the reader
+converts themselves. An endpoint that reports no usage is recorded as unknown
+rather than as zero, because a zero would read as free.
 
 ## Using it from an agent (MCP)
 

@@ -408,3 +408,52 @@ def test_retry_after_is_honoured() -> None:
     )
     synth.answer("q?", [doc("a")])
     assert waits == [2.0]
+
+
+# --------------------------------------------------------------------------
+# The cost the tool adds itself
+# --------------------------------------------------------------------------
+
+
+def test_an_answer_reports_the_tokens_it_spent() -> None:
+    """A project about knowing what a search costs was silent about this one.
+
+    Searches are billed by SerpApi and reported everywhere. The synthesis call
+    is billed by whoever serves the model, and was reported nowhere at all --
+    the one cost the tool adds itself was the one it did not mention.
+    """
+    def handler(request: httpx.Request) -> httpx.Response:
+        return httpx.Response(
+            200,
+            json={
+                "choices": [{"message": {"content": "Kingma and Ba proposed it [1]."}}],
+                "usage": {"prompt_tokens": 1200, "completion_tokens": 180},
+            },
+        )
+
+    synth = synthesiser(httpx.MockTransport(handler))
+    answer = synth.answer("who proposed adam?", [doc("Adam: A Method")])
+
+    assert answer.usage is not None
+    assert answer.usage.prompt == 1200
+    assert answer.usage.completion == 180
+    assert answer.usage.total == 1380
+
+
+def test_an_endpoint_that_reports_no_usage_is_not_recorded_as_free() -> None:
+    """None, never zero. A zero would read as "this call cost nothing"."""
+    def handler(request: httpx.Request) -> httpx.Response:
+        return httpx.Response(
+            200, json={"choices": [{"message": {"content": "An answer [1]."}}]}
+        )
+
+    synth = synthesiser(httpx.MockTransport(handler))
+    answer = synth.answer("q", [doc("A title")])
+    assert answer.usage is None
+
+
+def test_no_evidence_means_no_model_call_and_no_usage() -> None:
+    synth = synthesiser(replying("unused"))
+    answer = synth.answer("q", [])
+    assert answer.usage is None
+    assert not answer.grounded

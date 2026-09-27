@@ -23,7 +23,7 @@ from __future__ import annotations
 
 import re
 import time
-from collections.abc import Sequence
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
 from typing import Any
 
@@ -126,6 +126,28 @@ class Citation:
 
 
 @dataclass(frozen=True, slots=True)
+class TokenUsage:
+    """What one synthesis call consumed.
+
+    Reported in tokens rather than money on purpose. A price table would have to
+    name a rate per model, and a rate committed to a repository is stale the
+    week the provider changes it -- a cost figure that is quietly wrong is worse
+    than one the reader converts themselves. Tokens are what the endpoint
+    reports and what every provider prices from.
+    """
+
+    prompt: int
+    completion: int
+
+    @property
+    def total(self) -> int:
+        return self.prompt + self.completion
+
+    def as_dict(self) -> dict[str, int]:
+        return {"prompt": self.prompt, "completion": self.completion, "total": self.total}
+
+
+@dataclass(frozen=True, slots=True)
 class Answer:
     """A written answer and the evidence it rests on."""
 
@@ -134,6 +156,8 @@ class Answer:
     model: str
     evidence_offered: int
     elapsed_ms: float
+    #: None when no model was called, which is the no-evidence case.
+    usage: TokenUsage | None = None
 
     @property
     def grounded(self) -> bool:
@@ -143,6 +167,22 @@ class Answer:
         the model's own memory, which is not. Either way the caller should know.
         """
         return bool(self.citations)
+
+
+def _usage_of(body: Mapping[str, Any]) -> TokenUsage | None:
+    """Read the token counts a completion reports, if it reports any.
+
+    Optional by design: an endpoint that omits the block is answered with None
+    rather than with zeros, because a zero would read as "this was free".
+    """
+    usage = body.get("usage")
+    if not isinstance(usage, Mapping):
+        return None
+    prompt = usage.get("prompt_tokens")
+    completion = usage.get("completion_tokens")
+    if not isinstance(prompt, int) or not isinstance(completion, int):
+        return None
+    return TokenUsage(prompt=prompt, completion=completion)
 
 
 def render_evidence(evidence: Sequence[Evidence], *, limit: int = MAX_EVIDENCE) -> str:
@@ -265,7 +305,7 @@ class Synthesiser:
             f"Evidence:\n{render_evidence(offered)}\n\n"
             f"Answer the question using only this evidence, citing by number."
         )
-        raw = self._complete(prompt)
+        raw, usage = self._complete(prompt)
         text, citations = extract_citations(raw, offered)
 
         return Answer(
@@ -274,9 +314,10 @@ class Synthesiser:
             model=self.model,
             evidence_offered=len(offered),
             elapsed_ms=(time.perf_counter() - started) * 1000,
+            usage=usage,
         )
 
-    def _complete(self, prompt: str) -> str:
+    def _complete(self, prompt: str) -> tuple[str, TokenUsage | None]:
         """One chat completion, retrying transient failures.
 
         The retrieval is already paid for by the time this runs, so a rate limit
@@ -349,8 +390,8 @@ class Synthesiser:
             f"synthesis failed with HTTP {last_status}: {last_body}"
         )
 
-    def _decode(self, response: httpx.Response) -> str:
-        """Pull the answer out of a successful response."""
+    def _decode(self, response: httpx.Response) -> tuple[str, TokenUsage | None]:
+        """Pull the answer, and what it cost, out of a successful response."""
         try:
             body = response.json()
             content = body["choices"][0]["message"]["content"]
@@ -361,7 +402,7 @@ class Synthesiser:
 
         if not isinstance(content, str) or not content.strip():
             raise TransportError("the synthesis endpoint returned an empty answer")
-        return content.strip()
+        return content.strip(), _usage_of(body)
 
     def _available_models(self) -> list[str]:
         """Chat models this account can reach, for the not-found message.
