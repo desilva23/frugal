@@ -585,3 +585,29 @@ def test_a_cached_search_does_not_consume_the_budget(tmp_path: Path) -> None:
     assert again.steps_executed == first.steps_executed
     assert again.stopped_because != "budget exhausted"
     assert client.log.searches_charged == first.steps_executed
+
+
+def test_the_governor_demonstration_still_demonstrates(
+    capsys: pytest.CaptureFixture[str],
+) -> None:
+    """The README quotes this script's output, so the script has to keep working.
+
+    Both mechanisms it shows are ones the benchmark never exercises, which
+    makes the demonstration the only evidence a reader has that they work at
+    all. Evidence that silently stops being true is worse than none.
+    """
+    import runpy
+    import sys
+
+    sys.argv = ["demo_governors.py"]
+    path = Path(__file__).parent.parent / "scripts" / "demo_governors.py"
+    try:
+        runpy.run_path(str(path), run_name="__main__")
+    except SystemExit as exit_code:
+        assert exit_code.code == 0
+
+    out = capsys.readouterr().out
+    assert "budget exhausted" in out
+    assert "saturated" in out
+    for line in ("issued         : 2        skipped: 4", "issued         : 2        skipped: 1"):
+        assert line in out, f"the README quotes {line!r}, which the script no longer prints"

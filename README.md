@@ -317,6 +317,56 @@ was already asked.
 A second round is worth two questions and doubles the bill, which is why the
 default is one round. See the curve above.
 
+### The budget and the stopping rule, shown firing
+
+Neither fires anywhere in the benchmark, which is recorded under
+[Limitations](#limitations). That is a fact about the question set rather than
+about the code, and the difference is worth demonstrating rather than asserting,
+so both are reproduced here against a transport that charges. This needs no key
+and no network:
+
+```bash
+python scripts/demo_governors.py
+```
+
+**The budget refuses the search that would exceed it.**
+
+```
+plan wants     : 6 searches
+budget given   : 2
+issued         : 2        skipped: 4
+SerpApi billed : 2
+stopped        : budget exhausted
+```
+
+The third step is never issued and the remaining four are handed back. It does
+not fire on the benchmark because the limit is 12 and a plan spends 2 — and it
+*cannot* fire in replay at any limit, because replay serves from cache, a cache
+hit is free, and an allowance that bounds money is not consumed by a search that
+cost none. A replayed run at `--budget 1` executing its whole plan is that rule
+working, not failing.
+
+**The stopping rule stops when the next search would buy nothing.**
+
+```
+plan wants     : 3 searches
+budget given   : 50        (deliberately not binding)
+issued         : 2        skipped: 1
+stopped        : stopped early: evidence saturated
+novelty        : [0.00, 0.00]
+```
+
+The second batch returned nothing the first had not, so the third search was
+never bought. It does not fire on the benchmark for a more interesting reason:
+marginal novelty never falls. Each step queries a *different* index, and
+Scholar's papers are not Google's pages, so 90 to 100% of every batch is new
+even on a question that was answered by the first search. The signal the rule
+watches for does not occur in a cross-engine plan. It occurs when one index is
+queried repeatedly, which is what it was written for.
+
+Raising the threshold until it fired would manufacture the result rather than
+measure it, so the threshold is unchanged and this paragraph exists instead.
+
 ### Limitations
 
 Worth reading before drawing conclusions from the tables above.
@@ -333,7 +383,8 @@ Worth reading before drawing conclusions from the tables above.
 - **Reformulation is net negative and ships anyway.** −6 on web search, and
   necessary for the term-matching engines. It should probably be conditional on
   the engine. It is not.
-- **Two of the four mechanisms never fire.** Across 200 plan runs, every single
+- **Two of the four mechanisms never fire** on this benchmark, though both are
+  shown working above, against a transport that charges. Across 200 plan runs, every single
   one reports "completed the plan": not once does the budget bind, and not once
   does the stopping rule stop anything. The budget is 12 and a plan spends 2. The
   stopping rule looks for new evidence to stop arriving, and it never does,
