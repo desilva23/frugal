@@ -135,9 +135,13 @@ isolates a single thing. It took three revisions to get there: two strategies
 could not separate reformulation from routing, and three could not separate
 routing from the engine parameters that come with it.
 
-One of the 98 is a false positive, described under [Limitations](#limitations).
-It is left in rather than quietly corrected, because the correction would mean
-editing a question's answer key after seeing which way it scored.
+All 98 are answered from evidence that contains the answer. One was not, until
+recently: `iitm-location` scored on a sociology paper about caste that happened
+to contain both "chennai" and "iit madras". It was disclosed here rather than
+fixed, because editing a question's markers after seeing how it scored is how a
+benchmark stops meaning anything. It was then fixed the legitimate way, by
+routing the question to an engine that knows where buildings are — see
+[the local routing note](#limitations).
 
 ### Which mechanism earns what
 
@@ -202,7 +206,7 @@ engine for every question, whatever the question is about.
 | naive — verbatim question | 79/100 | 79% | 1.0 |
 | keyword — reformulated, one engine | 73/100 | 73% | 1.0 |
 | parameterised — reformulated, with parameters | 87/100 | 87% | 1.0 |
-| routed to one engine, **no web search** | 83/100 | 83% | 1.0 |
+| routed to one engine, **no web search** | 85/100 | 85% | 1.0 |
 | web + a fixed second engine (shopping) | 88/100 | 88% | 2.0 |
 | web + a fixed second engine (news) | 96/100 | 96% | 2.0 |
 | web + a fixed second engine (scholar) | **98/100** | 98% | 2.0 |
@@ -261,7 +265,7 @@ the most answers per search.
 
 | plan size | answered | searches/question | answers/search | the next answer costs |
 |---|---|---|---|---|
-| 1 engine, 1 round | 83/100 | 1.0 | 0.83 | — |
+| 1 engine, 1 round | 85/100 | 1.0 | 0.85 | — |
 | **2 engines, 1 round** — the default | **98/100** | **2.0** | **0.49** | 5.7 searches |
 | 3 engines, 1 round | 99/100 | 2.3 | 0.44 | 26 searches |
 | 3 engines, 2 rounds | **100/100** | 4.1 | 0.24 | **184 searches** |
@@ -396,11 +400,22 @@ measure it, so the threshold is unchanged and this paragraph exists instead.
 
 Worth reading before drawing conclusions from the tables above.
 
-- **One of the 98 is a false positive.** `iitm-location` asks where IIT Madras
-  is, and is satisfied by a sociology paper about caste in the IITs that happens
-  to contain both "chennai" and "iit madras". It is disclosed rather than fixed,
-  because the fix would be editing that question's markers after seeing how it
-  scored, and this file would then be reporting a number chosen for its size.
+- **Local routing was reached by vocabulary, and a vocabulary is never
+  finished.** The signal listed restaurants and cafes but not pharmacies,
+  museums or coworking spaces, so six of the ten local questions never reached
+  maps. Adding three words would only have moved the omission, so the signal now
+  also matches shape — "where is X", "X located" — which asks about position
+  whatever X is. Across the hundred questions those patterns fire nine times and
+  every one is a local question. Irregular cases will still be missed; this is a
+  lexical router and that is its ceiling.
+- **A single result is a result.** Maps answers a query matching one specific
+  place with a `place_results` object rather than a `local_results` list, and
+  the adapter read only lists — so "Where is the Indian Institute of Science
+  located?" scored as a miss while the record naming Bengaluru sat unread in the
+  response. Both of those fixes together removed this file's one known false
+  positive: `iitm-location` had been scoring on a sociology paper about caste
+  that happened to contain "chennai" and "iit madras", and is now answered by a
+  map record giving the campus address. The markers were never touched.
 - **Routing's choice of engine earns nothing measurable here**, as the fixed
   pairings show. It earns better-shaped evidence and one question in 108. A
   question set with more flight prices, share prices and map pins would test it

@@ -123,11 +123,22 @@ class EngineAdapter:
         return list(documents)
 
     def _locate_results(self, payload: Mapping[str, Any]) -> list[Any]:
-        """Find the result list, or raise if no declared key holds one."""
+        """Find the results, or raise if no declared key holds any.
+
+        A declared key may hold a single result rather than a list of them.
+        Maps does this: a query matching one specific place answers with a
+        ``place_results`` object where a broader query answers with a
+        ``local_results`` list. The key was declared and the object was there,
+        and this returned nothing because it was not a list -- so "Where is the
+        Indian Institute of Science located?" scored as a miss while the record
+        naming Bangalore sat in the response.
+        """
         for key in self.result_keys:
             value = payload.get(key)
             if isinstance(value, list):
                 return value
+            if isinstance(value, Mapping):
+                return [value]
 
         # An empty result set is a legitimate answer — a query nobody has written
         # about returns nothing — and is distinguished from drift by SerpApi
@@ -138,7 +149,7 @@ class EngineAdapter:
         present = ", ".join(sorted(k for k in payload if not k.startswith("search_"))) or "nothing"
         raise SchemaDrift(
             self.engine,
-            f"none of {list(self.result_keys)} holds a list; payload carries {present}",
+            f"none of {list(self.result_keys)} holds results; payload carries {present}",
         )
 
 

@@ -192,6 +192,21 @@ SIGNALS: dict[str, Signal] = {
             "directions", "restaurant", "restaurants", "cafe", "cafes",
             "shop", "shops", "store", "stores", "clinic", "hospital", "closest",
             "in my area", "around here",
+            # Shape, not vocabulary. Everything above names a *kind of place*,
+            # and a list of those is never finished: it had restaurants and
+            # cafes but not pharmacies, museums or coworking spaces, so six of
+            # the ten local questions fired no local signal and never reached
+            # maps. Adding those three words would only move the omission.
+            #
+            # "Where is X" and "X located" ask about position whatever X is, so
+            # they catch the questions a noun list misses without needing to
+            # anticipate the noun. Across the hundred-question set these fire on
+            # nine questions and every one is a local question; the tenth
+            # already matched on "hospital".
+            r"where (?:is|are)",
+            "located",
+            "situated",
+            r"are there in",
         ),
         weight=1.4,
     ),
