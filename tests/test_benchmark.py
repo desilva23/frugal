@@ -661,3 +661,44 @@ def test_a_live_benchmark_run_never_treats_a_recorded_entry_as_stale(
     old = datetime.now(UTC) - timedelta(days=365)
     live.store("google_news", {"q": "x"}, {"news_results": []}, fetched_at=old)
     assert live.load("google_news", {"q": "x"}) is not None
+
+
+# --------------------------------------------------------------------------
+# The README has to say what the results files say
+# --------------------------------------------------------------------------
+
+
+def test_the_readme_quotes_the_results_it_ships() -> None:
+    """Stale numbers in the README are this project's most repeated mistake.
+
+    The tables have been corrected four times: 15% became 20%, a twelve-question
+    limitation outlived the twelve-question benchmark, 83% became 93%, and a
+    whole table survived the question set growing from thirty to a hundred. Each
+    time it was caught by someone reading, which is not a control.
+
+    Every recall figure the results files carry must appear somewhere in the
+    README. It does not check the reverse -- prose may reasonably quote a number
+    this does not know about -- but a figure that changed and was not written
+    down fails here.
+    """
+    import json
+
+    root = Path(__file__).parent.parent
+    readme = (root / "README.md").read_text(encoding="utf-8")
+
+    sources = {
+        "results.json": ("summaries",),
+        "ablation.json": ("ablation",),
+        "structured-results.json": ("summaries",),
+    }
+    checked = 0
+    for name, keys in sources.items():
+        payload = json.loads((root / "benchmarks" / name).read_text(encoding="utf-8"))
+        for key in keys:
+            for arm, summary in payload[key].items():
+                quoted = f"{summary['answered']}/{summary['questions']}"
+                assert quoted in readme, (
+                    f"{name}:{arm} scores {quoted}, which the README never states"
+                )
+                checked += 1
+    assert checked >= 18, f"only checked {checked} figures; a results file may be missing"
