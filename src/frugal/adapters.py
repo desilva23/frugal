@@ -287,7 +287,13 @@ ADAPTERS: dict[str, EngineAdapter | TrendsAdapter] = {
         engine="google",
         result_keys=("organic_results",),
         source_paths=("source", "displayed_link"),
-        extra_paths=("displayed_link", "snippet_highlighted_words"),
+        # author carries "by DP Kingma" on the 5.5% of results that are papers
+        # or articles, and for a question asking who proposed something, that
+        # field is the answer. It was being dropped: the first result for "who
+        # proposed the Adam optimisation algorithm" was the Kingma and Ba paper
+        # itself, and the question scored as a miss because the only place the
+        # name appeared was a field nothing read.
+        extra_paths=("displayed_link", "snippet_highlighted_words", "author"),
     ),
     "google_news": EngineAdapter(
         engine="google_news",

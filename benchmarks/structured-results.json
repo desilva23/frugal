@@ -44,7 +44,7 @@
       "category": "local",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.4,
+      "elapsed_ms": 0.5,
       "engines_used": [
         "google"
       ],
@@ -63,7 +63,7 @@
       "category": "local",
       "completeness": 1.0,
       "depth": 2,
-      "elapsed_ms": 3.4,
+      "elapsed_ms": 3.1,
       "engines_used": [
         "google_maps",
         "google"
@@ -121,7 +121,7 @@
       "category": "local",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 0.4,
+      "elapsed_ms": 0.5,
       "engines_used": [
         "google"
       ],
@@ -140,7 +140,7 @@
       "category": "local",
       "completeness": 1.0,
       "depth": 1,
-      "elapsed_ms": 1.3,
+      "elapsed_ms": 1.2,
       "engines_used": [
         "google_maps",
         "google"
@@ -297,7 +297,7 @@
       "category": "patent",
       "completeness": 1.0,
       "depth": 2,
-      "elapsed_ms": 1.8,
+      "elapsed_ms": 1.3,
       "engines_used": [
         "google_patents",
         "google"
@@ -382,7 +382,7 @@
       "category": "patent",
       "completeness": 1.0,
       "depth": 5,
-      "elapsed_ms": 1.2,
+      "elapsed_ms": 1.1,
       "engines_used": [
         "google_patents",
         "google"
@@ -532,11 +532,11 @@
       "structured": false
     },
     {
-      "billed_this_run": 1,
+      "billed_this_run": 0,
       "category": "trend",
       "completeness": 1.0,
       "depth": 5,
-      "elapsed_ms": 1753.0,
+      "elapsed_ms": 1.1,
       "engines_used": [
         "google_trends",
         "google"
@@ -556,7 +556,7 @@
       "category": "trend",
       "completeness": 1.0,
       "depth": 2,
-      "elapsed_ms": 1.3,
+      "elapsed_ms": 0.3,
       "engines_used": [
         "google"
       ],
@@ -575,7 +575,7 @@
       "category": "trend",
       "completeness": 0.0,
       "depth": null,
-      "elapsed_ms": 1.0,
+      "elapsed_ms": 0.3,
       "engines_used": [
         "google"
       ],
@@ -598,7 +598,7 @@
       "category": "trend",
       "completeness": 1.0,
       "depth": 2,
-      "elapsed_ms": 1.5,
+      "elapsed_ms": 0.3,
       "engines_used": [
         "google"
       ],
@@ -613,11 +613,11 @@
       "structured": false
     },
     {
-      "billed_this_run": 1,
+      "billed_this_run": 0,
       "category": "trend",
       "completeness": 1.0,
       "depth": 3,
-      "elapsed_ms": 1573.9,
+      "elapsed_ms": 1.1,
       "engines_used": [
         "google_trends",
         "google"
@@ -634,16 +634,16 @@
     }
   ],
   "questions": 8,
-  "searches_billed_this_run": 2,
+  "searches_billed_this_run": 0,
   "spend": {
-    "attempts": 2,
+    "attempts": 0,
     "cache_hits": 24,
     "empty_results": 0,
     "errors": [],
-    "requests": 2,
+    "requests": 0,
     "retries": 0,
-    "searches_charged": 2,
-    "total_latency_ms": 3315.4,
+    "searches_charged": 0,
+    "total_latency_ms": 0.0,
     "unrecorded_attempts": 0
   },
   "summaries": {

@@ -1,16 +1,6 @@
 {
   "ablation": {
     "fixed-news": {
-      "answered": 94,
-      "answers_per_search": 0.47,
-      "median_depth": 1.0,
-      "questions": 100,
-      "recall": 0.94,
-      "searches": 200,
-      "searches_per_question": 2.0,
-      "strategy": "fixed-news"
-    },
-    "fixed-scholar": {
       "answered": 96,
       "answers_per_search": 0.48,
       "median_depth": 1.0,
@@ -18,24 +8,34 @@
       "recall": 0.96,
       "searches": 200,
       "searches_per_question": 2.0,
+      "strategy": "fixed-news"
+    },
+    "fixed-scholar": {
+      "answered": 98,
+      "answers_per_search": 0.49,
+      "median_depth": 1.0,
+      "questions": 100,
+      "recall": 0.98,
+      "searches": 200,
+      "searches_per_question": 2.0,
       "strategy": "fixed-scholar"
     },
     "fixed-shopping": {
-      "answered": 86,
-      "answers_per_search": 0.43,
+      "answered": 88,
+      "answers_per_search": 0.44,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.86,
+      "recall": 0.88,
       "searches": 200,
       "searches_per_question": 2.0,
       "strategy": "fixed-shopping"
     },
     "keyword": {
-      "answered": 71,
-      "answers_per_search": 0.71,
+      "answered": 73,
+      "answers_per_search": 0.73,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.71,
+      "recall": 0.73,
       "searches": 100,
       "searches_per_question": 1.0,
       "strategy": "keyword"
@@ -51,51 +51,51 @@
       "strategy": "naive"
     },
     "parameterised": {
-      "answered": 85,
-      "answers_per_search": 0.85,
+      "answered": 87,
+      "answers_per_search": 0.87,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.85,
+      "recall": 0.87,
       "searches": 100,
       "searches_per_question": 1.0,
       "strategy": "parameterised"
     },
     "routed-1x1": {
-      "answered": 82,
-      "answers_per_search": 0.82,
+      "answered": 83,
+      "answers_per_search": 0.83,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.82,
+      "recall": 0.83,
       "searches": 100,
       "searches_per_question": 1.0,
       "strategy": "routed-1x1"
     },
     "routed-2x1": {
-      "answered": 96,
-      "answers_per_search": 0.48,
+      "answered": 98,
+      "answers_per_search": 0.49,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.96,
+      "recall": 0.98,
       "searches": 200,
       "searches_per_question": 2.0,
       "strategy": "routed-2x1"
     },
     "routed-3x1": {
-      "answered": 97,
-      "answers_per_search": 0.4292,
+      "answered": 99,
+      "answers_per_search": 0.4381,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.97,
+      "recall": 0.99,
       "searches": 226,
       "searches_per_question": 2.26,
       "strategy": "routed-3x1"
     },
     "routed-3x2": {
-      "answered": 98,
-      "answers_per_search": 0.239,
+      "answered": 100,
+      "answers_per_search": 0.2439,
       "median_depth": 1.0,
       "questions": 100,
-      "recall": 0.98,
+      "recall": 1.0,
       "searches": 410,
       "searches_per_question": 4.1,
       "strategy": "routed-3x2"

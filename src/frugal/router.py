@@ -394,24 +394,28 @@ def route(
     return decisions[:limit] if limit is not None else decisions
 
 
-#: General indexes in the order the fallback prefers them, least time-bound
-#: first.
+#: The broad index a question with no vertical signal falls back to.
 #:
-#: The rule and this ordering were written down before the alternatives were
-#: scored, because picking whichever engine happened to win would be tuning the
-#: router to the benchmark -- which this project has caught itself doing enough
-#: times to distrust the instinct.
+#: The rule was written down before the candidates were scored, because picking
+#: whichever engine won would be tuning the router to the benchmark, which this
+#: project has caught itself doing enough times to distrust the instinct. The
+#: reasoning: a question reaching the fallback is a plain factual one -- who
+#: invented the telephone, where an institute is -- and those are rarely about
+#: this week, so it wants the least time-bound general index. Scholar indexes
+#: what is known; news indexes what is happening.
 #:
-#: The reasoning: a question that reaches the fallback is one where no vertical
-#: signal fired, and in practice that is a plain factual question -- who
-#: invented the telephone, where an institute is. Those are rarely about this
-#: week. Scholarly writing is the least time-bound general index here; news is
-#: the most, since it indexes what is happening rather than what is known.
+#: Measured afterwards on the six questions where the fallback decides the
+#: outcome: scholar rescued six, news four, and bing none -- with bing asked
+#: both as keywords and as the verbatim question, and its results being
+#: dictionary definitions of "created" and "wrote" rather than answers.
 #:
-#: Measured afterwards, scholar answered 96 of 100 and news 94. Two questions
-#: apart, and one of scholar's six was a false positive, so the numbers do not
-#: separate them and were not what chose between them.
-_GENERAL_FALLBACK_ORDER = ("google_scholar", "google_news")
+#: This was a tuple of preferences until it was noticed that only the first
+#: entry could ever be reached. The fallback fires only when routing selected
+#: exactly one engine, and that engine is always web search, since route()
+#: appends it when nothing else does -- so scholar was never excluded and news
+#: was never chosen. A preference list that cannot express a preference is
+#: worse than a single name, because it implies a decision nothing makes.
+_GENERAL_FALLBACK = "google_scholar"
 
 
 def _general_fallback(exclude: set[str]) -> RoutingDecision | None:
@@ -428,18 +432,17 @@ def _general_fallback(exclude: set[str]) -> RoutingDecision | None:
     answer for thirty-four searches, which is the same rule seen from the other
     side -- the index has to be broad, not merely different.
     """
-    for engine in _GENERAL_FALLBACK_ORDER:
-        if engine in exclude:
-            continue
-        profile = _PROFILES_BY_ENGINE.get(engine)
-        if profile is not None and profile.general:
-            return RoutingDecision(
-                engine=engine,
-                score=0.0,
-                cost=profile.cost,
-                reasons=("fallback: no vertical signal, so a general index",),
-            )
-    return None
+    if _GENERAL_FALLBACK in exclude:
+        return None
+    profile = _PROFILES_BY_ENGINE.get(_GENERAL_FALLBACK)
+    if profile is None or not profile.general:
+        return None
+    return RoutingDecision(
+        engine=_GENERAL_FALLBACK,
+        score=0.0,
+        cost=profile.cost,
+        reasons=("fallback: no vertical signal, so a general index",),
+    )
 
 
 def profile_for(engine: str) -> EngineProfile | None:
