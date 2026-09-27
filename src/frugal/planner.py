@@ -118,6 +118,11 @@ class ExecutedStep:
     from_cache: bool
     elapsed_ms: float
     error: str | None = None
+    #: Whether this step reached an engine or the cache at all. False for a
+    #: step the budget refused before it was issued, which is recorded so the
+    #: plan can explain itself but did not run and must not be counted as
+    #: though it had.
+    issued: bool = True
 
     @property
     def succeeded(self) -> bool:
@@ -132,6 +137,7 @@ class ExecutedStep:
             "evidence": self.evidence_count,
             "charged": self.charged,
             "from_cache": self.from_cache,
+            "issued": self.issued,
             "elapsed_ms": round(self.elapsed_ms, 1),
             "error": self.error,
         }
@@ -179,8 +185,16 @@ class PlanResult:
 
     @property
     def steps_executed(self) -> int:
-        """Steps the plan actually ran, cache hits included."""
-        return len(self.steps)
+        """Steps the plan actually ran, cache hits included.
+
+        A step the budget refused is recorded, so the plan can say why it
+        stopped, but it never reached an engine and is not counted here. It
+        used to be: len(self.steps) included refusals, so a plan cut short by
+        its budget reported more searches than it issued and fewer steps
+        skipped than it had saved. The error ran against this project's own
+        interest in both directions, which is presumably why it survived.
+        """
+        return sum(1 for step in self.steps if step.issued)
 
     @property
     def steps_skipped(self) -> int:
@@ -529,6 +543,7 @@ class Planner:
                     from_cache=False,
                     elapsed_ms=0.0,
                     error="budget exhausted before this step",
+                    issued=False,
                 ),
                 [],
                 True,
