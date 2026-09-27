@@ -104,10 +104,17 @@ def _plan_table(planner: Planner, question: str) -> Table:
 
     for index, step in enumerate(planner.plan(question), start=1):
         extra = {k: v for k, v in step.params.items() if k not in {"q", "num"}}
+        # params["q"], not step.query. They differ wherever a constraint moved
+        # into a parameter: a jobs search sends location=Chennai and drops
+        # "chennai" from the text, because sending both returns nothing. This
+        # table printed step.query, so it showed a query the plan would not
+        # issue -- in the one command whose entire purpose is saying exactly
+        # what a search will do before it is paid for.
+        issued = str(step.params.get("q", step.query))
         table.add_row(
             str(index),
             step.engine,
-            f'"{step.query}"',
+            f'"{issued}"',
             " ".join(f"{k}={v}" for k, v in sorted(extra.items())) or "—",
         )
     return table

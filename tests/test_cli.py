@@ -243,3 +243,31 @@ def test_an_interrupt_exits_conventionally(monkeypatch: pytest.MonkeyPatch) -> N
 
     monkeypatch.setattr("frugal.cli.plan_only", interrupt)
     assert main(["plan", QUESTION, "--cache", str(FIXTURES)]) == 130
+
+
+def test_the_plan_prints_the_query_it_will_actually_send(
+    capsys: pytest.CaptureFixture[str], monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """The plan table showed a query the plan would not issue.
+
+    Where a constraint moves into a parameter the two diverge: a jobs search
+    sends location=Chennai and drops "chennai" from the text, because sending
+    both returns nothing. The table printed the pre-drop query, so the one
+    command whose entire purpose is saying what a search will do before it is
+    paid for was describing a different search.
+    """
+    from frugal.cli import main
+
+    # Wide enough that rich does not wrap the query column mid-phrase.
+    monkeypatch.setenv("COLUMNS", "160")
+
+    question = "Which companies are hiring Python developers in Chennai?"
+    assert main(["plan", question, "--cache", str(FIXTURES)]) == 0
+    collapsed = " ".join(capsys.readouterr().out.split())
+
+    assert "location=Chennai" in collapsed
+    assert '"companies hiring python developers"' in collapsed, (
+        "the jobs step should print the query it sends, without the place word"
+    )
+    # Web search gets no location parameter, so the place stays in its text.
+    assert '"companies hiring python developers chennai"' in collapsed
