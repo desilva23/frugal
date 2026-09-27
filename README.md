@@ -2,25 +2,34 @@
 
 **A cost-aware search planner for SerpApi.**
 
+On 100 benchmark questions, a plan answers **98** where a plain web search
+answers **79** — for two searches a question. More than that, it can tell you
+what the *next* search is worth before you buy it:
+
+![Questions answered against searches spent](docs/frontier.svg)
+
+**98 answers cost 2.0 searches each. 99 costs 2.3. 100 costs 4.1 — and that
+hundredth answer costs 184 searches by itself.** No other number this project
+produced is as useful as that curve, because a recall percentage cannot tell
+anyone whether to spend the next call and this can.
+
 Most agents search badly. They take a question, fire a single query at one
 engine, take the top ten results, and stuff them into a context window. When
-that fails to answer the question they fire another query, and another, until
-something sticks or the budget is gone.
+that fails they fire another query, and another, until something sticks or the
+budget is gone — and nothing anywhere tells them what it cost.
 
-Frugal treats retrieval as a planning problem instead. Given a question and an
-explicit budget, it compiles a *search plan*: which of SerpApi's engines to
-call, in what order, with which query reformulations — then executes that plan,
-stopping early once additional searches stop adding evidence.
+Frugal treats retrieval as a planning problem. Given a question and an explicit
+budget, it compiles a *search plan*: which of SerpApi's engines to call, with
+which query shaped for each, under a ceiling the caller sets — then executes it
+and reports what it spent.
 
-The measured claim is narrower than the pitch, and parts of it went against
-the design. On 108 questions, a plan answers 98 of the first 100 against plain
-web search's 79, for two searches a question — and *routing's choice of engine
-earns none of that*. Always pairing web search with `google_scholar` answers the
-identical 98. What earns it is sending each engine the parameters it understands,
-and deciding to search a second time when the first engine is only a guess.
-
-Every figure replays from committed fixtures without an API key, including the
-ones that did not go this project's way. See [Results](#results).
+Every figure here replays from committed fixtures with no API key and no spend,
+**including the ones that went against the design.** The purple ring on that
+chart is the control: pairing web search with `google_scholar` for every
+question, whatever it is about, lands on the identical 98 answers at the
+identical cost. On this question set, choosing the engine per question earns
+nothing measurable — and the benchmark that says so is in this repository. See
+[Results](#results).
 
 ## What an agent gets from this
 
@@ -132,11 +141,15 @@ editing a question's answer key after seeing which way it scored.
 
 ### Which mechanism earns what
 
+Five mechanisms. Three decide what gets retrieved and are measured below; two
+are governors — a budget and a stopping rule — which bound a run rather than
+improve it, and are shown working [further down](#the-budget-and-the-stopping-rule-shown-firing).
+
 | mechanism | net | what it costs |
 |---|---|---|
-| reformulation | **−6** | nothing |
 | engine parameters | **+14** | nothing |
 | taking a second search | **+11** | +1.0 searches/question |
+| reformulation | **−6** | nothing |
 | routing's choice of engine | **0** | — |
 
 **Reformulation loses six questions.** Stripping a question to keywords helps an
@@ -383,8 +396,10 @@ Worth reading before drawing conclusions from the tables above.
 - **Reformulation is net negative and ships anyway.** −6 on web search, and
   necessary for the term-matching engines. It should probably be conditional on
   the engine. It is not.
-- **Two of the four mechanisms never fire** on this benchmark, though both are
-  shown working above, against a transport that charges. Across 200 plan runs, every single
+- **Two of the five mechanisms never fire** on this benchmark, though both are
+  shown working above against a transport that charges. They are the two
+  *governors* — a budget and a stopping rule — rather than two of the three that
+  earn recall, and a circuit breaker is not judged by how often it trips. Across 200 plan runs, every single
   one reports "completed the plan": not once does the budget bind, and not once
   does the stopping rule stop anything. The budget is 12 and a plan spends 2. The
   stopping rule looks for new evidence to stop arriving, and it never does,

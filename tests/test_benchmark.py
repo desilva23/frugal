@@ -702,3 +702,36 @@ def test_the_readme_quotes_the_results_it_ships() -> None:
                 )
                 checked += 1
     assert checked >= 18, f"only checked {checked} figures; a results file may be missing"
+
+
+def test_the_frontier_chart_matches_the_numbers_it_plots() -> None:
+    """The README's first image has to show the results the repository ships.
+
+    A chart is the one artefact a reader believes without checking, which makes
+    a stale one worse than a stale table. It is generated from ablation.json
+    rather than drawn, so regenerating it must produce the committed file byte
+    for byte; if the numbers moved and the chart did not, this fails.
+    """
+    import runpy
+    import sys
+
+    root = Path(__file__).parent.parent
+    committed = (root / "docs" / "frontier.svg").read_text(encoding="utf-8")
+
+    sys.argv = ["plot_frontier.py"]
+    try:
+        runpy.run_path(str(root / "scripts" / "plot_frontier.py"), run_name="__main__")
+    except SystemExit as exit_code:
+        assert exit_code.code == 0
+
+    regenerated = (root / "docs" / "frontier.svg").read_text(encoding="utf-8")
+    assert regenerated == committed, (
+        "docs/frontier.svg is out of date; run scripts/plot_frontier.py and commit it"
+    )
+
+    # And the figures it draws must be the ones the sweep recorded.
+    import json
+
+    ablation = json.loads((root / "benchmarks" / "ablation.json").read_text(encoding="utf-8"))
+    for arm in ("routed-1x1", "routed-2x1", "routed-3x1", "routed-3x2", "fixed-scholar"):
+        assert str(ablation["ablation"][arm]["answered"]) in committed
