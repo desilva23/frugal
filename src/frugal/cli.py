@@ -31,7 +31,13 @@ from frugal.cache import CacheMode, ResponseCache
 from frugal.client import SerpApiClient
 from frugal.config import DOTENV_NAME, ENV_VAR, describe_key_source, find_dotenv
 from frugal.errors import FrugalError
-from frugal.planner import DEFAULT_BUDGET, DEFAULT_MAX_ENGINES, Planner, PlanResult
+from frugal.planner import (
+    DEFAULT_BUDGET,
+    DEFAULT_MAX_ENGINES,
+    DEFAULT_MAX_ROUNDS,
+    Planner,
+    PlanResult,
+)
 from frugal.router import route
 from frugal.schema import Document, Series
 from frugal.synthesis import (
@@ -194,6 +200,7 @@ def ask(
     cache_dir: str,
     replay: bool,
     engines: int | None,
+    rounds: int | None,
     show: int,
     console: Console,
     synthesise: bool = False,
@@ -207,7 +214,11 @@ def ask(
     cache = ResponseCache(cache_dir, mode=mode)
 
     with SerpApiClient(cache=cache) as client:
-        planner = Planner(client, max_engines=engines or DEFAULT_MAX_ENGINES)
+        planner = Planner(
+            client,
+            max_engines=engines or DEFAULT_MAX_ENGINES,
+            max_rounds=rounds or DEFAULT_MAX_ROUNDS,
+        )
         locale = planner.locale_for(question)
 
         header = Text()
@@ -287,14 +298,24 @@ def ask(
 
 
 def plan_only(
-    question: str, *, budget: int, cache_dir: str, engines: int | None, console: Console
+    question: str,
+    *,
+    budget: int,
+    cache_dir: str,
+    engines: int | None,
+    rounds: int | None,
+    console: Console,
 ) -> int:
     """Show what a question would cost, without issuing anything."""
     if _reject_empty(question, console):
         return USAGE_ERROR
 
     client = SerpApiClient(cache=ResponseCache(cache_dir, mode=CacheMode.REPLAY))
-    planner = Planner(client, max_engines=engines or DEFAULT_MAX_ENGINES)
+    planner = Planner(
+        client,
+        max_engines=engines or DEFAULT_MAX_ENGINES,
+        max_rounds=rounds or DEFAULT_MAX_ROUNDS,
+    )
     dry = planner.dry_run(question, budget=budget)
 
     console.print(Panel(Text(question, style="bold white"), border_style="blue", padding=(0, 1)))
@@ -352,6 +373,12 @@ def _build_parser() -> argparse.ArgumentParser:
         sub.add_argument("--budget", type=int, default=DEFAULT_BUDGET, help="search budget")
         sub.add_argument("--cache", default=DEFAULT_CACHE_DIR, help="cache directory")
         sub.add_argument("--engines", type=int, default=None, help="engines to route across")
+        sub.add_argument(
+            "--rounds",
+            type=int,
+            default=None,
+            help="adaptive rounds; a later round reuses what the earlier ones found",
+        )
         if name == "ask":
             sub.add_argument(
                 "--replay",
@@ -403,6 +430,7 @@ def _dispatch(args: argparse.Namespace, console: Console) -> int:
             budget=args.budget,
             cache_dir=args.cache,
             engines=args.engines,
+            rounds=args.rounds,
             console=console,
         )
     if args.command == "ask":
@@ -412,6 +440,7 @@ def _dispatch(args: argparse.Namespace, console: Console) -> int:
             cache_dir=args.cache,
             replay=args.replay,
             engines=args.engines,
+            rounds=args.rounds,
             show=args.show,
             console=console,
             synthesise=args.answer,
