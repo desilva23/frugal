@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 22108.216,
+ "elapsed_ms": 34803.165,
  "engine": "google",
- "fetched_at": "2026-09-20T11:23:21.418751+00:00",
+ "fetched_at": "2026-09-27T21:21:18.828952+00:00",
  "frugal_cache_version": 1,
  "key": "619b0e51254401660fba5a5ecce8c6188b6f0a267d121ec8aa31730ca0bf8503",
  "params": {
@@ -10,369 +10,350 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "4B4SJ3iczVbdcqpIEH6AfY71xkTwJ0ZSRaVmhlE4xkRMojE3Fg4jIH-GQYne7bvsE-zj7NPsgCRCosmec7G1XaUzPbTdPd398fnHn54TuH__9pcdxyt2JQhJktSsMLQ8WiOhLxhsGxBhEXosIvY1C9cRoY4pEzsKfVrZbuRmhTBZrFBH7g_6G-PlfjyQgqdojYcXzw9OoluVzIU8mxuMLnmE1yUTZgL_cn9vKlypsZoR1XbDMVNi2-rAaa0h1qXanWD43AD8d4J1C6brD4BOG_FH-HtXqQMNQFzwpAErW-HBarp_jPTsEbJOeoP7mKPMXOcfZbZTE4Wf5vVRTv6Wh4AlNclyASDJsoTA-f42BdHzu7zd64tKvVuXJa9eeDgp9riUa1mSktblWcwAQocgxWDcjV1K471SxAIdNYQKBI-nQ_H69DVw4QIdH7tCUXQ8br137mba4yeCafHBFYV5xJe64BCbZJuIpfOMHiQx7PVFsbl87fsLqzsiS_Vp-GLjZcecRmNLIHNu54WGSc2ZPROvM73eqF-IUvOyc5YBibB3JLEiktybSDUnAUEiro1qsP4GI7RvOvjUMcx1pB25GES56ZEWFwY7bVjeUr1b9Ju3EmbeIYBWsbX9YVrX3pvKZ3THW1O0OERNh_8zjPZiFYw5jLJEtDA3LFrsrXoF6BYaq4Fjr5kP99Z09fBb5ZNhCYBoBIAL3grzaYSmQEcWTjGAsArzqpGyD1QsQO4GA_6GyjX8niDOjQo5pSXQdDAAGuY-nUeNT6ilQR3vE02HIY_VxR8Qd3LgMZigf_PqOyLwOxClor_h5cP4F2Gj3nRo4G7j-G4OhyAKzpPO7cB1BjPQBsdhEvrzn2Ac8r8C0p6PcM5Hp4GEvwdSxkfwCz7K9gc-SocXhSeBBHvH-WhwlI_K90baqAikr_nop4GEvgSSnrs5AqTwOJBWp4GUfARSmY_wKT7KgfQrfAR_kY8yXNH9Uian9dI6SVIqVepPHmws79pkvHLNgYPOb4ex9OJK4FuSWvjxlW-Y3tnMMa9g40e8Nc9m_CC8omblRVYNVmXU4P8pq04Q04iymG-q1KMkjhxS3VDbIR5l6aEWmI5RnVMaVCOHOYFVDaPqwvC8bLuhUTV2fHpd8b0olEXj0nJGytKYaG3jxle22BHRPLQCc6K_jPvRSnNxl2kTNDfW_TGSgvpm9Sy11NfdeNhdh_FQN5VEuX9g3sr-MVC0zu682bkfd3sN4u8Ga3_wbGKVdB4cF9m77gg-NYPpSE28VmL3oScONptwMWpa2ywbJof1tvOsSs9OACp-RGQ-H60LcKuDicUHFWUDDB6NkK8J0Htt3j9YYcSYUbaR2602L6gpLeZmo926pBXfircrWRIrLIjk-j__FVKa",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4B4SJ3iczVbdcqpIEH6AfY71xkTwJ0ZSRaVmhlE4xkRMojE3Fg4jIH-GQYne7bvsE-zj7NPsgCRCosmec7G1XaUzPbTdPd398fnHn54TuH__9pcdxyt2JQhJktSsMLQ8WiOhLxhsGxBhEXosIvY1C9cRoY4pEzsKfVrZbuRmhTBZrFBH7g_6G-PlfjyQgqdojYcXzw9OoluVzIU8mxuMLnmE1yUTZgL_cn9vKlypsZoR1XbDMVNi2-rAaa0h1qXanWD43AD8d4J1C6brD4BOG_FH-HtXqQMNQFzwpAErW-HBarp_jPTsEbJOeoP7mKPMXOcfZbZTE4Wf5vVRTv6Wh4AlNclyASDJsoTA-f42BdHzu7zd64tKvVuXJa9eeDgp9riUa1mSktblWcwAQocgxWDcjV1K471SxAIdNYQKBI-nQ_H69DVw4QIdH7tCUXQ8br137mba4yeCafHBFYV5xJe64BCbZJuIpfOMHiQx7PVFsbl87fsLqzsiS_Vp-GLjZcecRmNLIHNu54WGSc2ZPROvM73eqF-IUvOyc5YBibB3JLEiktybSDUnAUEiro1qsP4GI7RvOvjUMcx1pB25GES56ZEWFwY7bVjeUr1b9Ju3EmbeIYBWsbX9YVrX3pvKZ3THW1O0OERNh_8zjPZiFYw5jLJEtDA3LFrsrXoF6BYaq4Fjr5kP99Z09fBb5ZNhCYBoBIAL3grzaYSmQEcWTjGAsArzqpGyD1QsQO4GA_6GyjX8niDOjQo5pSXQdDAAGuY-nUeNT6ilQR3vE02HIY_VxR8Qd3LgMZigf_PqOyLwOxClor_h5cP4F2Gj3nRo4G7j-G4OhyAKzpPO7cB1BjPQBsdhEvrzn2Ac8r8C0p6PcM5Hp4GEvwdSxkfwCz7K9gc-SocXhSeBBHvH-WhwlI_K90baqAikr_nop4GEvgSSnrs5AqTwOJBWp4GUfARSmY_wKT7KgfQrfAR_kY8yXNH9Uian9dI6SVIqVepPHmws79pkvHLNgYPOb4ex9OJK4FuSWvjxlW-Y3tnMMa9g40e8Nc9m_CC8omblRVYNVmXU4P8pq04Q04iymG-q1KMkjhxS3VDbIR5l6aEWmI5RnVMaVCOHOYFVDaPqwvC8bLuhUTV2fHpd8b0olEXj0nJGytKYaG3jxle22BHRPLQCc6K_jPvRSnNxl2kTNDfW_TGSgvpm9Sy11NfdeNhdh_FQN5VEuX9g3sr-MVC0zu682bkfd3sN4u8Ga3_wbGKVdB4cF9m77gg-NYPpSE28VmL3oScONptwMWpa2ywbJof1tvOsSs9OACp-RGQ-H60LcKuDicUHFWUDDB6NkK8J0Htt3j9YYcSYUbaR2602L6gpLeZmo926pBXfircrWRIrLIjk-j__FVKa"
+   "page_token": "ofYlM3iczVbdcqJKEH6A8xzrjYn8aJSkikoNiAG1VExMdG8oGMYB5ccwKDF3-y7nFc7LnKc5A6KBRJLdvdg6bRU9Pz09Pd3zzeePvz03WP_71z9OHG_IDcMkSdLAYYg91IChz5hkH0BmGXokgs7tfic2a5CIbA254uvCvTKfA7cXqSs-CicRMYeJTmrZEtGwTIJW1OPLijAGQz_rb80u7TRIAwWNsbFTgmBI2qjV4FnuujFmTJ8agD8ougI0IFF9UFUiA6B87Sw10YGc-joKlt-mDtI9-Ev3xNnAoHJLLV0l0Z9G3VKZCAshYelQeDRSK2ORtGJnkUeTZH4lKQv0p-XkKt_3k0RVpUkpOaCRlAwrcyu_uww0V9NLoCipg4-haEApnhpMATgcvLsGKhaABjUZfxJ7ugDupb4MTv6r5Bk4k2MKk9GCmjM2pneXZayIKo5xoQOzRkTSKy0_XLNhb7SVfWe60gdmL_mu6oLkJFqn5XTxUGegRe280LSRbTgGe5v1OZ67Yq-bHeEiwxIkJzCRIpiUeHunuQ9QeRYaw4bEHZEkn2onl8NXaF_WwEeR5NxUPjNZhEFhsSsXszXLNb3drAa0oiHAijZJ9d1xYAwkWmFYrOJxg9TlOSSVjHIkZVXVDlp7W34yUQphlO69lJw55fvSd6XjIk06zCW53w9QkEB_XRwtu6dRTPVDTTYgkWaZ2biUyxz0R295xArNppT33qYPLbeIHpfG56Tb4nsaX1_HgwzvafxyFkB6xTMZaO8qPAXnhFYH00NPf-L1OyPh1yYpcnLIvENAETnq-GW2VuOnPXcZ-CF-XQ47Ktd0m21jAc4jJfStX-Ad-P_C0pGVZjkrVWNJ-RpL6WP5GStlnzdWuj9gaVCNpfSRPcdKraNRgZXeYUkaFrDkZI9zUsVKv4ol6RMsKZ9iKTyPpXUVljJWKmOpzEolLJ1Y6Q1Lv8NKm99kpQxa6KDKFLVd4UqqUgJv_Xw1uxwN2qitLa3Xh8Udb68s_Lj9mqqWfnzjm7Z3Ybj2jcT34719YdCB8AbZtWdRNUmdIJP-may7QYwiRGLaqCMPwThyYX2HHBd6iKSDWmC7Zt1CKKhHLnEDXA-j-tL0vKy5Q1E9dn10W_O9KBRZs7X-biy6Te1JkO_BfuBdz1th9PK07U4GXgc-8g9L3rb7ti0kat82AzSfjBc9uavzQhRAFvtwNloa_f7lfHPV5iaDF6EbLZJ439uo_Gh8n7BP83lzu-s87hLf5pFlrTam4D7yUS-eD1eCygfAGmNWIgCN0Hb2mGRxEdEdBcMZ0NFQmNX8CIq0lC0MRjp4wgACeQF0egNmZkh1AvS7Nn0ApBqBpoHIToRcmxfaVqdlCm2es5c1H8f7jXjN1kgQidx_AApUCQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ofYlM3iczVbdcqJKEH6A8xzrjYn8aJSkikoNiAG1VExMdG8oGMYB5ccwKDF3-y7nFc7LnKc5A6KBRJLdvdg6bRU9Pz09Pd3zzeePvz03WP_71z9OHG_IDcMkSdLAYYg91IChz5hkH0BmGXokgs7tfic2a5CIbA254uvCvTKfA7cXqSs-CicRMYeJTmrZEtGwTIJW1OPLijAGQz_rb80u7TRIAwWNsbFTgmBI2qjV4FnuujFmTJ8agD8ougI0IFF9UFUiA6B87Sw10YGc-joKlt-mDtI9-Ev3xNnAoHJLLV0l0Z9G3VKZCAshYelQeDRSK2ORtGJnkUeTZH4lKQv0p-XkKt_3k0RVpUkpOaCRlAwrcyu_uww0V9NLoCipg4-haEApnhpMATgcvLsGKhaABjUZfxJ7ugDupb4MTv6r5Bk4k2MKk9GCmjM2pneXZayIKo5xoQOzRkTSKy0_XLNhb7SVfWe60gdmL_mu6oLkJFqn5XTxUGegRe280LSRbTgGe5v1OZ67Yq-bHeEiwxIkJzCRIpiUeHunuQ9QeRYaw4bEHZEkn2onl8NXaF_WwEeR5NxUPjNZhEFhsSsXszXLNb3drAa0oiHAijZJ9d1xYAwkWmFYrOJxg9TlOSSVjHIkZVXVDlp7W34yUQphlO69lJw55fvSd6XjIk06zCW53w9QkEB_XRwtu6dRTPVDTTYgkWaZ2biUyxz0R295xArNppT33qYPLbeIHpfG56Tb4nsaX1_HgwzvafxyFkB6xTMZaO8qPAXnhFYH00NPf-L1OyPh1yYpcnLIvENAETnq-GW2VuOnPXcZ-CF-XQ47Ktd0m21jAc4jJfStX-Ad-P_C0pGVZjkrVWNJ-RpL6WP5GStlnzdWuj9gaVCNpfSRPcdKraNRgZXeYUkaFrDkZI9zUsVKv4ol6RMsKZ9iKTyPpXUVljJWKmOpzEolLJ1Y6Q1Lv8NKm99kpQxa6KDKFLVd4UqqUgJv_Xw1uxwN2qitLa3Xh8Udb68s_Lj9mqqWfnzjm7Z3Ybj2jcT34719YdCB8AbZtWdRNUmdIJP-may7QYwiRGLaqCMPwThyYX2HHBd6iKSDWmC7Zt1CKKhHLnEDXA-j-tL0vKy5Q1E9dn10W_O9KBRZs7X-biy6Te1JkO_BfuBdz1th9PK07U4GXgc-8g9L3rb7ti0kat82AzSfjBc9uavzQhRAFvtwNloa_f7lfHPV5iaDF6EbLZJ439uo_Gh8n7BP83lzu-s87hLf5pFlrTam4D7yUS-eD1eCygfAGmNWIgCN0Hb2mGRxEdEdBcMZ0NFQmNX8CIq0lC0MRjp4wgACeQF0egNmZkh1AvS7Nn0ApBqBpoHIToRcmxfaVqdlCm2es5c1H8f7jXjN1kgQidx_AApUCQ"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRdjBWRGtJVEVGZF9iTExJaXkwRHU2VG9faS00WHBtcjh1OC1RX3ZvaVlFQkhJbFhxUlViaFQwdmlKck1rWnNjUVVrUEVSRFNoRm9IYmotTWxlZW0zSmFxNGJOR3RsN2JRRnZ5TnlFYy1sZkJpcFRoeFVyXzM2SzRmUExuWGh6alNKU2dZN2d4NS1GTENxY012bHJZNXdfVmc4WUlvUFZUOWkwQ080b1FHenhVMkdxNVpyLU1HMGlqdxIEGgIIABrUCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCwCAgAEAAYACAAKh4KA2hhcxUslmA_GgNoYWQaBGhhdmUaAmlzGgN3YXMqOgoGc2VhcmNoFVsKij0aBGZpbmQaBmxvb2t1cBoIc2VhcmNoZXMaCXNlYXJjaGluZxoIcmVzZWFyY2gqGgoIaW50ZXJlc3QVLx35PBoJaW50ZXJlc3RzKgkKAmluFQAAAAAqLQoIZWxlY3RyaWMVrwWDQBoBZRoCZXYaA2V2cxoQZWxlY3RyaWN2ZWhpY2xlcypRCgh2ZWhpY2xlcxXtTdU_GgRhdXRvGgthdXRvbW9iaWxlcxoDY2FyGgRjYXJzGgJldhoDZXZzGgd2ZWhpY2xlGhBlbGVjdHJpY3ZlaGljbGVzKgkKAmluFQAAAAAqFQoFaW5kaWEVeBBgQBoHaW5kaWEncyobCgRiZWVuFYMXjj0aAmJlGgViZWluZxoDd2FzKjYKBnJpc2luZxUAAAAAGgdncm93aW5nGgppbmNyZWFzaW5nGgVyYWlzZRoEcmlzZRoFcmlzZW4qCQoCb3IVAAAAACpQCgdmYWxsaW5nFY9LpD0aCmRlc2NlbmRpbmcaBGZhbGwaBWZhbGxzGgN0aXAaC2ZhbGxpbmdvdmVyGgxpdjtwO2ZhbGxpbmcaB2RlY2xpbmUqRgoEb3ZlchU4TpI_GgNvZmYaBm9uIHRoZRoDb3V0Ggp0aHJvdWdob3V0GgR3aXRoGgtmYWxsaW5nb3ZlchoIb3ZlcnRpbWUqLwoEdGltZRVVJRM_GgZwZXJpb2QaCXRoZSB5ZWFycxoFdGltZXMaCG92ZXJ0aW1lMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRdjBWRGtJVEVGZF9iTExJaXkwRHU2VG9faS00WHBtcjh1OC1RX3ZvaVlFQkhJbFhxUlViaFQwdmlKck1rWnNjUVVrUEVSRFNoRm9IYmotTWxlZW0zSmFxNGJOR3RsN2JRRnZ5TnlFYy1sZkJpcFRoeFVyXzM2SzRmUExuWGh6alNKU2dZN2d4NS1GTENxY012bHJZNXdfVmc4WUlvUFZUOWkwQ080b1FHenhVMkdxNVpyLU1HMGlqdzo-V2h5IEFyZSBJbmRpYW5zIFN0aWxsIEhlc2l0YXRpbmcgdG8gQnV5IDxiPkVWczwvYj4_IC0gTGlua2VkSW5ClwFDb25zdW1lcnMgd2VyZSB1bmZhbWlsaWFyIDxiPndpdGggRVZzPC9iPi4gQ2hhcmdpbmcgaW5mcmFzdHJ1Y3R1cmUgPGI-d2FzPC9iPiBsaW1pdGVkLiBWZWhpY2xlIG9wdGlvbnMgd2VyZSBmZXcuIFRoZSB0ZWNobm9sb2d5IGZlbHQgbmV3IGFuZCB1bmNlcnRhaW4uSgJpbkoCb3JSBm9uIHRoZVICaXNSBGhhdmVSAmJlUgR3aXRoUgNvdXQiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRdjBWRGtJVEVGZF9iTExJaXkwRHU2VG9faS00WHBtcjh1OC1RX3ZvaVlFQkhJbFhxUlViaFQwdmlKck1rWnNjUVVrUEVSRFNoRm9IYmotTWxlZW0zSmFxNGJOR3RsN2JRRnZ5TnlFYy1sZkJpcFRoeFVyXzM2SzRmUExuWGh6alNKU2dZN2d4NS1GTENxY012bHJZNXdfVmc4WUlvUFZUOWkwQ080b1FHenhVMkdxNVpyLU1HMGlqdxIEGgIIABrUCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCwCAgAEAAYACAAKh4KA2hhcxUslmA_GgNoYWQaBGhhdmUaAmlzGgN3YXMqOgoGc2VhcmNoFVsKij0aBGZpbmQaBmxvb2t1cBoIc2VhcmNoZXMaCXNlYXJjaGluZxoIcmVzZWFyY2gqGgoIaW50ZXJlc3QVLx35PBoJaW50ZXJlc3RzKgkKAmluFQAAAAAqLQoIZWxlY3RyaWMVrwWDQBoBZRoCZXYaA2V2cxoQZWxlY3RyaWN2ZWhpY2xlcypRCgh2ZWhpY2xlcxXtTdU_GgRhdXRvGgthdXRvbW9iaWxlcxoDY2FyGgRjYXJzGgJldhoDZXZzGgd2ZWhpY2xlGhBlbGVjdHJpY3ZlaGljbGVzKgkKAmluFQAAAAAqFQoFaW5kaWEVeBBgQBoHaW5kaWEncyobCgRiZWVuFYMXjj0aAmJlGgViZWluZxoDd2FzKjYKBnJpc2luZxUAAAAAGgdncm93aW5nGgppbmNyZWFzaW5nGgVyYWlzZRoEcmlzZRoFcmlzZW4qCQoCb3IVAAAAACpQCgdmYWxsaW5nFY9LpD0aCmRlc2NlbmRpbmcaBGZhbGwaBWZhbGxzGgN0aXAaC2ZhbGxpbmdvdmVyGgxpdjtwO2ZhbGxpbmcaB2RlY2xpbmUqRgoEb3ZlchU4TpI_GgNvZmYaBm9uIHRoZRoDb3V0Ggp0aHJvdWdob3V0GgR3aXRoGgtmYWxsaW5nb3ZlchoIb3ZlcnRpbWUqLwoEdGltZRVVJRM_GgZwZXJpb2QaCXRoZSB5ZWFycxoFdGltZXMaCG92ZXJ0aW1lMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRdjBWRGtJVEVGZF9iTExJaXkwRHU2VG9faS00WHBtcjh1OC1RX3ZvaVlFQkhJbFhxUlViaFQwdmlKck1rWnNjUVVrUEVSRFNoRm9IYmotTWxlZW0zSmFxNGJOR3RsN2JRRnZ5TnlFYy1sZkJpcFRoeFVyXzM2SzRmUExuWGh6alNKU2dZN2d4NS1GTENxY012bHJZNXdfVmc4WUlvUFZUOWkwQ080b1FHenhVMkdxNVpyLU1HMGlqdzo-V2h5IEFyZSBJbmRpYW5zIFN0aWxsIEhlc2l0YXRpbmcgdG8gQnV5IDxiPkVWczwvYj4_IC0gTGlua2VkSW5ClwFDb25zdW1lcnMgd2VyZSB1bmZhbWlsaWFyIDxiPndpdGggRVZzPC9iPi4gQ2hhcmdpbmcgaW5mcmFzdHJ1Y3R1cmUgPGI-d2FzPC9iPiBsaW1pdGVkLiBWZWhpY2xlIG9wdGlvbnMgd2VyZSBmZXcuIFRoZSB0ZWNobm9sb2d5IGZlbHQgbmV3IGFuZCB1bmNlcnRhaW4uSgJpbkoCb3JSBm9uIHRoZVICaXNSBGhhdmVSAmJlUgR3aXRoUgNvdXQiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "The electric car market reached new highs in 2025, growing by 20% from 2024 to exceed 20 million sales,",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwARP8ARP8ARP8ARP8AMP8AQf8AOP____87Yv9KbP_c4v-Cl__1-P-jsv8qVv8AKP9sh_8AE_-9yP8btEwWAAAABHRSTlMAH7n4IojtCAAAALBJREFUeAHE0FUChDAMBFAkaVKgfv-77uDO7069D21V1U1LD2mbGkavqavmHZuqfce2oo_8DZkNGRbBQISeBTsLsqqVrlftOyEenKp3GsyMEWhBYMseE_AJTUoiSXvCdoz-hEmXDOoZOxd0_RSgYMcdMahSzl2IVh1xHPSEWJYyfhC60l8-aPoDl4TYK3hHQ4hwCCzjRCzxfkILm6mfJ_P8t4GIMrwJDG_SxJuo8WYHAGd4ELvNYF_uAAAAAElFTkSuQmCC.png",
-      "source_info_link": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars"
+      "description": "Consumers were unfamiliar with EVs. Charging infrastructure was limited. Vehicle options were few. The technology felt new and uncertain.",
+      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "source_info_link": "https://www.linkedin.com/pulse/why-indians-still-hesitating-buy-evs-c-electric-f4yuc"
      }
     },
-    "displayed_link": "https://www.iea.org › reports › tren...",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwARP8ARP8ARP8ARP8AMP8AQf8AOP____87Yv9KbP_c4v-Cl__1-P-jsv8qVv8AKP9sh_8AE_-9yP8btEwWAAAABHRSTlMAH7n4IojtCAAAALBJREFUeAHE0FUChDAMBFAkaVKgfv-77uDO7069D21V1U1LD2mbGkavqavmHZuqfce2oo_8DZkNGRbBQISeBTsLsqqVrlftOyEenKp3GsyMEWhBYMseE_AJTUoiSXvCdoz-hEmXDOoZOxd0_RSgYMcdMahSzl2IVh1xHPSEWJYyfhC60l8-aPoDl4TYK3hHQ4hwCCzjRCzxfkILm6mfJ_P8t4GIMrwJDG_SxJuo8WYHAGd4ELvNYF_uAAAAAElFTkSuQmCC.png",
-    "link": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+    "displayed_link": "20+ reactions · 3 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+    "link": "https://www.linkedin.com/pulse/why-indians-still-hesitating-buy-evs-c-electric-f4yuc",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFee49fIjp4DEQwe4XV2B0JcMKIvVV8R3mbHuecN90pUQKsa9hRJttNbt0DkCEQsbns-AV-HqIoGBLjSByXK4vch16XtzHJWRUoR-2raV1mm7ZdZeSxiwYxyNAUayARg1hMBug9tJqj7BOnq51MFTiLUVosiFPUw66dlyI_we&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQFnoECBkQAQ&uoh=1",
-    "snippet": "The electric car market reached new highs in 2025, growing by 20% from 2024 to exceed 20 million sales,",
+    "read_more_link": "https://www.linkedin.com/pulse/why-indians-still-hesitating-buy-evs-c-electric-f4yuc#:~:text=Consumers%20were%20unfamiliar%20with%20EVs.,technology%20felt%20new%20and%20uncertain.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFQv0VDkITEFd_bLLIiy0Du6To_i-4Xpmr8u8-Q_voiYEBHIlXqRUbhT0viJrMkZscQUkPERDShFoHbj-Mleem3Jaq4bNGtl7bQFvyNyEc-lfBipThxUr_36K4fPLnXhzjSJSgY7gx5-FLCqcMvlrY5w_Vg8YIoPVT9i0CO4oQGzxU2Gq5Zr-MG0ijw&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQFnoECCAQAQ&uoh=1",
+    "snippet": "Consumers were unfamiliar with EVs. Charging infrastructure was limited. Vehicle options were few. The technology felt new and uncertain.",
     "snippet_highlighted_words": [
-     "electric car",
-     "growing"
+     "with EVs",
+     "was"
     ],
-    "source": "IEA – International Energy Agency",
-    "title": "Trends in electric cars – Global EV Outlook 2026 – Analysis"
+    "source": "LinkedIn · C Electric Automotive Drives",
+    "title": "Why Are Indians Still Hesitating to Buy EVs?"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjB2VmcwcGtrMnlYSU5oZFR1OXZvWHFocDVtSW5uOUpzcFYyOC02a3lEYjh4NF9xWkdtbWlsNko5VzFpYVc1QkQ0OGY5QlIzdEVJckJ0YjVNVjhUMFg0aXVQZlcxak9FanBKMlA2d2lkNUNxUUdRLTR5MVNqQUNJMjhFcnh1dm0tcnRLazJHcFFEb1E3MW0zLWZ5dWdoMms5R0NnZWtxYxIEGgIIABroCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDECAgAEAAYACAAKh4KA2hhcxUAAAAAGgNoYWQaBGhhdmUaAmlzGgN3YXMqOgoGc2VhcmNoFSQyMz4aBGZpbmQaBmxvb2t1cBoIc2VhcmNoZXMaCXNlYXJjaGluZxoIcmVzZWFyY2gqGgoIaW50ZXJlc3QVAAAAABoJaW50ZXJlc3RzKgkKAmluFQAAAAAqLQoIZWxlY3RyaWMV25aNQBoBZRoCZXYaA2V2cxoQZWxlY3RyaWN2ZWhpY2xlcypRCgh2ZWhpY2xlcxVXiHA_GgRhdXRvGgthdXRvbW9iaWxlcxoDY2FyGgRjYXJzGgJldhoDZXZzGgd2ZWhpY2xlGhBlbGVjdHJpY3ZlaGljbGVzKgkKAmluFQAAAAAqFQoFaW5kaWEVYVSHQBoHaW5kaWEncyobCgRiZWVuFQAAAAAaAmJlGgViZWluZxoDd2FzKjYKBnJpc2luZxUAAAAAGgdncm93aW5nGgppbmNyZWFzaW5nGgVyYWlzZRoEcmlzZRoFcmlzZW4qCQoCb3IVAAAAACpQCgdmYWxsaW5nFQAAAAAaCmRlc2NlbmRpbmcaBGZhbGwaBWZhbGxzGgN0aXAaC2ZhbGxpbmdvdmVyGgxpdjtwO2ZhbGxpbmcaB2RlY2xpbmUqRgoEb3ZlchUAAAAAGgNvZmYaBm9uIHRoZRoDb3V0Ggp0aHJvdWdob3V0GgR3aXRoGgtmYWxsaW5nb3ZlchoIb3ZlcnRpbWUqLwoEdGltZRUAAAAAGgZwZXJpb2QaCXRoZSB5ZWFycxoFdGltZXMaCG92ZXJ0aW1lMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjB2VmcwcGtrMnlYSU5oZFR1OXZvWHFocDVtSW5uOUpzcFYyOC02a3lEYjh4NF9xWkdtbWlsNko5VzFpYVc1QkQ0OGY5QlIzdEVJckJ0YjVNVjhUMFg0aXVQZlcxak9FanBKMlA2d2lkNUNxUUdRLTR5MVNqQUNJMjhFcnh1dm0tcnRLazJHcFFEb1E3MW0zLWZ5dWdoMms5R0NnZWtxYzpIUmV2b2x1dGlvbml6aW5nIE1vYmlsaXR5OiBBbiBJbi1EZXB0aCBBbmFseXNpcyBvZiA8Yj5JbmRpYSYjMzk7czwvYj4gLi4uQrwBVGhlIEluZGlhbiA8Yj5FbGVjdHJpYyBWZWhpY2xlPC9iPiAoPGI-RVY8L2I-KSBtYXJrZXQgPGI-aXM8L2I-IHVuZGVyZ29pbmcgYSB0cmFuc2Zvcm1hdGl2ZSBzaGlmdCBkcml2ZW4gYnkgdGVjaG5vbG9naWNhbCBhZHZhbmNlbWVudHMsIHBvbGljeSBpbnRlcnZlbnRpb25zLCBhbmQgY2hhbmdpbmcgY29uc3VtZXImbmJzcDsuLi5KAm9ySgJpblIGb24gdGhlUgJiZVIEaGF2ZVICaXNSA291dFIEd2l0aCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjB2VmcwcGtrMnlYSU5oZFR1OXZvWHFocDVtSW5uOUpzcFYyOC02a3lEYjh4NF9xWkdtbWlsNko5VzFpYVc1QkQ0OGY5QlIzdEVJckJ0YjVNVjhUMFg0aXVQZlcxak9FanBKMlA2d2lkNUNxUUdRLTR5MVNqQUNJMjhFcnh1dm0tcnRLazJHcFFEb1E3MW0zLWZ5dWdoMms5R0NnZWtxYxIEGgIIABroCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDECAgAEAAYACAAKh4KA2hhcxUAAAAAGgNoYWQaBGhhdmUaAmlzGgN3YXMqOgoGc2VhcmNoFSQyMz4aBGZpbmQaBmxvb2t1cBoIc2VhcmNoZXMaCXNlYXJjaGluZxoIcmVzZWFyY2gqGgoIaW50ZXJlc3QVAAAAABoJaW50ZXJlc3RzKgkKAmluFQAAAAAqLQoIZWxlY3RyaWMV25aNQBoBZRoCZXYaA2V2cxoQZWxlY3RyaWN2ZWhpY2xlcypRCgh2ZWhpY2xlcxVXiHA_GgRhdXRvGgthdXRvbW9iaWxlcxoDY2FyGgRjYXJzGgJldhoDZXZzGgd2ZWhpY2xlGhBlbGVjdHJpY3ZlaGljbGVzKgkKAmluFQAAAAAqFQoFaW5kaWEVYVSHQBoHaW5kaWEncyobCgRiZWVuFQAAAAAaAmJlGgViZWluZxoDd2FzKjYKBnJpc2luZxUAAAAAGgdncm93aW5nGgppbmNyZWFzaW5nGgVyYWlzZRoEcmlzZRoFcmlzZW4qCQoCb3IVAAAAACpQCgdmYWxsaW5nFQAAAAAaCmRlc2NlbmRpbmcaBGZhbGwaBWZhbGxzGgN0aXAaC2ZhbGxpbmdvdmVyGgxpdjtwO2ZhbGxpbmcaB2RlY2xpbmUqRgoEb3ZlchUAAAAAGgNvZmYaBm9uIHRoZRoDb3V0Ggp0aHJvdWdob3V0GgR3aXRoGgtmYWxsaW5nb3ZlchoIb3ZlcnRpbWUqLwoEdGltZRUAAAAAGgZwZXJpb2QaCXRoZSB5ZWFycxoFdGltZXMaCG92ZXJ0aW1lMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjB2VmcwcGtrMnlYSU5oZFR1OXZvWHFocDVtSW5uOUpzcFYyOC02a3lEYjh4NF9xWkdtbWlsNko5VzFpYVc1QkQ0OGY5QlIzdEVJckJ0YjVNVjhUMFg0aXVQZlcxak9FanBKMlA2d2lkNUNxUUdRLTR5MVNqQUNJMjhFcnh1dm0tcnRLazJHcFFEb1E3MW0zLWZ5dWdoMms5R0NnZWtxYzpIUmV2b2x1dGlvbml6aW5nIE1vYmlsaXR5OiBBbiBJbi1EZXB0aCBBbmFseXNpcyBvZiA8Yj5JbmRpYSYjMzk7czwvYj4gLi4uQrwBVGhlIEluZGlhbiA8Yj5FbGVjdHJpYyBWZWhpY2xlPC9iPiAoPGI-RVY8L2I-KSBtYXJrZXQgPGI-aXM8L2I-IHVuZGVyZ29pbmcgYSB0cmFuc2Zvcm1hdGl2ZSBzaGlmdCBkcml2ZW4gYnkgdGVjaG5vbG9naWNhbCBhZHZhbmNlbWVudHMsIHBvbGljeSBpbnRlcnZlbnRpb25zLCBhbmQgY2hhbmdpbmcgY29uc3VtZXImbmJzcDsuLi5KAm9ySgJpblIGb24gdGhlUgJiZVIEaGF2ZVICaXNSA291dFIEd2l0aCICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Sale of EVs in India went up from 50,000 in 2016 to 2.08 million in 2024 as against global EV sales having risen from 918,000 in 2016 to 18.78 million in 2024.",
-      "icon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAACQBQCdASocABkAPtE-tFooIigoFAEAGgllAASZrzzc0r0SecLqeIniZoZAtYt9eIXd1B2wAAD-_dtHPFIUCG1SHB6bav09uIjPbg2_REYvWfDhU7dXGKJXb2FpEPb8SAyqAHWGod146193zy_VoCYL4j9yNsq9_eOfTKIZ4APORj5zJlDOtHSAfplOChWOHdvEgEsdotJky-5zQFWWPP-yq3laIoNs13-Kz-1FKAaaphJ7AQWx9zXy1Rqj_XVcAti1itfRZ_uj-ATzdHQ-uScZbSPo8iisdP-XEkv30sq7yWYTrJKQ2JfzKn6yqxD5_v6zL2ue521F0p9xJAVvodD8TSiuEv-z_0eQD1yicZC84AAA.webp",
-      "source_info_link": "https://www.niti.gov.in/sites/default/files/2025-08/Electric-Vehicles-WEB-LOW-Report.pdf"
+      "description": "The Indian Electric Vehicle (EV) market is undergoing a transformative shift driven by technological advancements, policy interventions, and changing consumer ...",
+      "icon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAAAwBACdASogACAAPtEutFooIagoGAEAGglpAABTtHVkUlMuDZToZjtLrQAA_upbybU5tUEl89v8b-dw_vxaMPwaq8e_jUQMjuID8vGOjv-x5or_BdCvlAJw_qlUsN70fvPENQn2yioL92wRju9_wG3920PrKC8d5NPBJUCSH-kL2z4oy-hJDbD80G_8AAAA.webp",
+      "source_info_link": "https://www.techrxiv.org/doi/10.36227/techrxiv.174235838.84920773"
      }
     },
-    "displayed_link": "https://www.niti.gov.in › sites › default › files",
-    "favicon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAACQBQCdASocABkAPtE-tFooIigoFAEAGgllAASZrzzc0r0SecLqeIniZoZAtYt9eIXd1B2wAAD-_dtHPFIUCG1SHB6bav09uIjPbg2_REYvWfDhU7dXGKJXb2FpEPb8SAyqAHWGod146193zy_VoCYL4j9yNsq9_eOfTKIZ4APORj5zJlDOtHSAfplOChWOHdvEgEsdotJky-5zQFWWPP-yq3laIoNs13-Kz-1FKAaaphJ7AQWx9zXy1Rqj_XVcAti1itfRZ_uj-ATzdHQ-uScZbSPo8iisdP-XEkv30sq7yWYTrJKQ2JfzKn6yqxD5_v6zL2ue521F0p9xJAVvodD8TSiuEv-z_0eQD1yicZC84AAA.webp",
-    "link": "https://www.niti.gov.in/sites/default/files/2025-08/Electric-Vehicles-WEB-LOW-Report.pdf",
+    "author": "by A Desai",
+    "displayed_link": "https://www.techrxiv.org › techrxiv.174235838.84920773",
+    "favicon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAAAwBACdASogACAAPtEutFooIagoGAEAGglpAABTtHVkUlMuDZToZjtLrQAA_upbybU5tUEl89v8b-dw_vxaMPwaq8e_jUQMjuID8vGOjv-x5or_BdCvlAJw_qlUsN70fvPENQn2yioL92wRju9_wG3920PrKC8d5NPBJUCSH-kL2z4oy-hJDbD80G_8AAAA.webp",
+    "link": "https://www.techrxiv.org/doi/10.36227/techrxiv.174235838.84920773",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFRMUi0iLCB1dtdxkkGT2PAN3-ogMszARXVSeofvLfMcwsNYbx7cbPzzFnKeZTjHgCUvA3mjenbgxA1q3VNXZyFD1bfUVhR4HOnddC4Ixt4p4groz6P-XmQdWFPpXYtSYVq0C_A-DoMgjkbrg1sW7KcfgAFKs0qvty71fCbXK0FnrA0EvfJ-utRqnKsg&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQFnoECB0QAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "صفحة": 64
-      },
-      "extensions": [
-       "64 صفحة"
-      ]
-     }
-    },
-    "snippet": "Sale of EVs in India went up from 50,000 in 2016 to 2.08 million in 2024 as against global EV sales having risen from 918,000 in 2016 to 18.78 million in 2024.",
+    "read_more_link": "https://www.techrxiv.org/doi/10.36227/techrxiv.174235838.84920773#:~:text=The%20Indian%20Electric%20Vehicle%20(EV),interventions%2C%20and%20changing%20consumer%20preferences.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAV0vVg0pkk2yXINhdTu9voXqhp5mInn9JspV28-6kyDb8x4_qZGmmil6J9W1iaW5BD48f9BR3tEIrBtb5MV8T0X4iuPfW1jOEjpJ2P6wid5CqQGQ-4y1SjACI28Erxuvm-rtKk2GpQDoQ71m3-fyugh2k9GCgekqc&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQFnoECCoQAQ&uoh=1",
+    "snippet": "The Indian Electric Vehicle (EV) market is undergoing a transformative shift driven by technological advancements, policy interventions, and changing consumer ...",
     "snippet_highlighted_words": [
-     "EVs in India",
-     "EV"
+     "Electric Vehicle",
+     "EV",
+     "is"
     ],
-    "source": "NITI Aayog",
-    "title": "Electric Vehicles in India"
+    "source": "TechRxiv",
+    "title": "Revolutionizing Mobility: An In-Depth Analysis of India's ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWbnN3LW9FNzZocmY0YzAyT3c3N1ZsYW9Rd1ItY2FTMmxIZUVmMkIxUldyR21ZU2VmdUNPSmh6aTVLeWt0TGJpRlFjYzhWWFJSaXp2d0NnYnZ6Qm5Jbm5GZmYycWR0UE1HNjVhVGJGVldxQ0lONlBZcWY3WE9WX0U0dXVKeV93eW9Vd2xzTTBBVEJlRTVRbVpybnNvZE1GcnlxZi01RENNNTlNSmQ2NzU1axIEGgIIABrjCBICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQL0ICAAQABgAIAAqHgoDaGFzFZvRkT8aA2hhZBoEaGF2ZRoCaXMaA3dhcyo6CgZzZWFyY2gV9IoQPRoEZmluZBoGbG9va3VwGghzZWFyY2hlcxoJc2VhcmNoaW5nGghyZXNlYXJjaCoaCghpbnRlcmVzdBVC83I-GglpbnRlcmVzdHMqCQoCaW4VAAAAACotCghlbGVjdHJpYxUespRAGgFlGgJldhoDZXZzGhBlbGVjdHJpY3ZlaGljbGVzKlEKCHZlaGljbGVzFSxa8z8aBGF1dG8aC2F1dG9tb2JpbGVzGgNjYXIaBGNhcnMaAmV2GgNldnMaB3ZlaGljbGUaEGVsZWN0cmljdmVoaWNsZXMqCQoCaW4VAAAAACoVCgVpbmRpYRUyT91AGgdpbmRpYSdzKhsKBGJlZW4VAAAAABoCYmUaBWJlaW5nGgN3YXMqNgoGcmlzaW5nFQAAAAAaB2dyb3dpbmcaCmluY3JlYXNpbmcaBXJhaXNlGgRyaXNlGgVyaXNlbioJCgJvchUAAAAAKlAKB2ZhbGxpbmcV1x0-PxoKZGVzY2VuZGluZxoEZmFsbBoFZmFsbHMaA3RpcBoLZmFsbGluZ292ZXIaDGl2O3A7ZmFsbGluZxoHZGVjbGluZSpGCgRvdmVyFfEPnj8aA29mZhoGb24gdGhlGgNvdXQaCnRocm91Z2hvdXQaBHdpdGgaC2ZhbGxpbmdvdmVyGghvdmVydGltZSovCgR0aW1lFS1TED4aBnBlcmlvZBoJdGhlIHllYXJzGgV0aW1lcxoIb3ZlcnRpbWUywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RlZuc3ctb0U3NmhyZjRjMDJPdzc3Vmxhb1F3Ui1jYVMybEhlRWYyQjFSV3JHbVlTZWZ1Q09KaHppNUt5a3RMYmlGUWNjOFZYUlJpenZ3Q2didnpCbklubkZmZjJxZHRQTUc2NWFUYkZWV3FDSU42UFlxZjdYT1ZfRTR1dUp5X3d5b1V3bHNNMEFUQmVFNVFtWnJuc29kTUZyeXFmLTVEQ001OU1KZDY3NTVrOkg8Yj5JbmRpYSYjMzk7cyBFVjwvYj4gTWFya2V0OiBQcm9ncmVzcyBhbmQgQ29tcGFyaXNvbnMgLSBSZXNjb24gUGFydG5lcnNCqQE8Yj5JbmRpYTwvYj4sIHRoZSB3b3JsZCYjMzk7cyBzZWNvbmQtbGFyZ2VzdCA8Yj5lbGVjdHJpYzwvYj4gdHdvLXdoZWVsZXIgbWFya2V0LCBzYXcgc2FsZXMgc3VyZ2UgYnkgNDAlIGluIDIwMjMgY29tcGFyZWQgdG8gMjAyMiwgZHJpdmVuIGJ5IGRvbWVzdGljIGdpYW50cyBsaWtlJm5ic3A7Li4uSgJpbkoCb3JSBm9uIHRoZVICaXNSBGhhdmVSAmJlUgR3aXRoUgNvdXQiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWbnN3LW9FNzZocmY0YzAyT3c3N1ZsYW9Rd1ItY2FTMmxIZUVmMkIxUldyR21ZU2VmdUNPSmh6aTVLeWt0TGJpRlFjYzhWWFJSaXp2d0NnYnZ6Qm5Jbm5GZmYycWR0UE1HNjVhVGJGVldxQ0lONlBZcWY3WE9WX0U0dXVKeV93eW9Vd2xzTTBBVEJlRTVRbVpybnNvZE1GcnlxZi01RENNNTlNSmQ2NzU1axIEGgIIABrjCBICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQL0ICAAQABgAIAAqHgoDaGFzFZvRkT8aA2hhZBoEaGF2ZRoCaXMaA3dhcyo6CgZzZWFyY2gV9IoQPRoEZmluZBoGbG9va3VwGghzZWFyY2hlcxoJc2VhcmNoaW5nGghyZXNlYXJjaCoaCghpbnRlcmVzdBVC83I-GglpbnRlcmVzdHMqCQoCaW4VAAAAACotCghlbGVjdHJpYxUespRAGgFlGgJldhoDZXZzGhBlbGVjdHJpY3ZlaGljbGVzKlEKCHZlaGljbGVzFSxa8z8aBGF1dG8aC2F1dG9tb2JpbGVzGgNjYXIaBGNhcnMaAmV2GgNldnMaB3ZlaGljbGUaEGVsZWN0cmljdmVoaWNsZXMqCQoCaW4VAAAAACoVCgVpbmRpYRUyT91AGgdpbmRpYSdzKhsKBGJlZW4VAAAAABoCYmUaBWJlaW5nGgN3YXMqNgoGcmlzaW5nFQAAAAAaB2dyb3dpbmcaCmluY3JlYXNpbmcaBXJhaXNlGgRyaXNlGgVyaXNlbioJCgJvchUAAAAAKlAKB2ZhbGxpbmcV1x0-PxoKZGVzY2VuZGluZxoEZmFsbBoFZmFsbHMaA3RpcBoLZmFsbGluZ292ZXIaDGl2O3A7ZmFsbGluZxoHZGVjbGluZSpGCgRvdmVyFfEPnj8aA29mZhoGb24gdGhlGgNvdXQaCnRocm91Z2hvdXQaBHdpdGgaC2ZhbGxpbmdvdmVyGghvdmVydGltZSovCgR0aW1lFS1TED4aBnBlcmlvZBoJdGhlIHllYXJzGgV0aW1lcxoIb3ZlcnRpbWUywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RlZuc3ctb0U3NmhyZjRjMDJPdzc3Vmxhb1F3Ui1jYVMybEhlRWYyQjFSV3JHbVlTZWZ1Q09KaHppNUt5a3RMYmlGUWNjOFZYUlJpenZ3Q2didnpCbklubkZmZjJxZHRQTUc2NWFUYkZWV3FDSU42UFlxZjdYT1ZfRTR1dUp5X3d5b1V3bHNNMEFUQmVFNVFtWnJuc29kTUZyeXFmLTVEQ001OU1KZDY3NTVrOkg8Yj5JbmRpYSYjMzk7cyBFVjwvYj4gTWFya2V0OiBQcm9ncmVzcyBhbmQgQ29tcGFyaXNvbnMgLSBSZXNjb24gUGFydG5lcnNCqQE8Yj5JbmRpYTwvYj4sIHRoZSB3b3JsZCYjMzk7cyBzZWNvbmQtbGFyZ2VzdCA8Yj5lbGVjdHJpYzwvYj4gdHdvLXdoZWVsZXIgbWFya2V0LCBzYXcgc2FsZXMgc3VyZ2UgYnkgNDAlIGluIDIwMjMgY29tcGFyZWQgdG8gMjAyMiwgZHJpdmVuIGJ5IGRvbWVzdGljIGdpYW50cyBsaWtlJm5ic3A7Li4uSgJpbkoCb3JSBm9uIHRoZVICaXNSBGhhdmVSAmJlUgR3aXRoUgNvdXQiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "India Electric Car Market projected to reach USD 111.24 Billion, at a CAGR of 41.0% during 2026 to 2035, driven by Growing demand for ...",
-      "icon": "https://serpapi.com/images/i/UklGRg4CAABXRUJQVlA4IAICAADQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yy8RHkLlLoBvMHoAdKXLXMfffBlA8ANJThHeo9nefSfQAHPQ2a2PhoEWKwTovvGygHV4SvlEsu7_dWygA_vYRB_naPXU5g4ywAmgs8zPOzKJo_XpY6EBGeIbq1RS7SA0uhVACyDXWXcUVcYv7Nxo5GibV4ZAaEvqCdYqCBD8u60HtGtLDZNNK9nojb_-5yIV0B8tDXt3nH_c0YRzX1BWxxPqYQc4x02_Wh0DU86kdNNfBMtjWJcc3Al7UGpbxDxWxE1zZjLWTDU1jTvjvePo0ntnDqXRQWkDV1E29TAvswlf4-qJGg9z_batF7K5PHfj2blgEYhaTwZcUoQ-vm5eE_-44vT6G_xNv00Jw1a9_2roaelUnd-D5OTUUbPzf-ifZzN-xEEeNNf7X_lHKhPLGNFL3y7D28T7yRyDr38W8tVpiBp97wcFp_WfTZMmr_-CL_Pj_EuUP-Z9iZ34DJLPO7oEla0RngvgHX12tne7d0-UR_gf5uhG9PmmhbyD_mg-uXg3kquPx_1_5_7asv4ZZXm5CVyLCP7Db2TP99Z7wWwnPfpVQ01y7O5_6aVFtCOguuAUtHWofyS-3EHl7sbv-ng7RRoT_fGDCMuIrOWr4o-4M2KCVATT9WdN9jdfrZnVdZV7_AAAA.webp",
-      "source_info_link": "https://www.marketresearchfuture.com/reports/india-electric-car-market-12684"
+      "description": "India, the world's second-largest electric two-wheeler market, saw sales surge by 40% in 2023 compared to 2022, driven by domestic giants like ...",
+      "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAADQBACdASocABwAPtEutFooIagoGAEAGglAGJtlgDZ_ydy9hkzsscsQhDk_mpvdsAD-9gU0WxiDc9VRpiEpmEF0UoG1eNWdOsaptmJ3DjJexeqm3d2LbovBmxSTQ1G6NYvo-SLqbhPTx8vobo3D119r-ICMhbcr6IrlPzap21b2a-7CUlZFbs-VFAL1giYRgR4P_d93Cgkj-F6c0PZMJXJHu-LEtdTrkjXom6JEnEW51c6oesezueHsJnM-I0kULpvVOJw2AAA.webp",
+      "source_info_link": "https://www.resconpartners.com/indias-ev-market-progress-and-comparisons/"
      }
     },
-    "date": "24‏/08‏/2026",
-    "displayed_link": "https://www.marketresearchfuture.com › ...",
-    "favicon": "https://serpapi.com/images/i/UklGRg4CAABXRUJQVlA4IAICAADQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yy8RHkLlLoBvMHoAdKXLXMfffBlA8ANJThHeo9nefSfQAHPQ2a2PhoEWKwTovvGygHV4SvlEsu7_dWygA_vYRB_naPXU5g4ywAmgs8zPOzKJo_XpY6EBGeIbq1RS7SA0uhVACyDXWXcUVcYv7Nxo5GibV4ZAaEvqCdYqCBD8u60HtGtLDZNNK9nojb_-5yIV0B8tDXt3nH_c0YRzX1BWxxPqYQc4x02_Wh0DU86kdNNfBMtjWJcc3Al7UGpbxDxWxE1zZjLWTDU1jTvjvePo0ntnDqXRQWkDV1E29TAvswlf4-qJGg9z_batF7K5PHfj2blgEYhaTwZcUoQ-vm5eE_-44vT6G_xNv00Jw1a9_2roaelUnd-D5OTUUbPzf-ifZzN-xEEeNNf7X_lHKhPLGNFL3y7D28T7yRyDr38W8tVpiBp97wcFp_WfTZMmr_-CL_Pj_EuUP-Z9iZ34DJLPO7oEla0RngvgHX12tne7d0-UR_gf5uhG9PmmhbyD_mg-uXg3kquPx_1_5_7asv4ZZXm5CVyLCP7Db2TP99Z7wWwnPfpVQ01y7O5_6aVFtCOguuAUtHWofyS-3EHl7sbv-ng7RRoT_fGDCMuIrOWr4o-4M2KCVATT9WdN9jdfrZnVdZV7_AAAA.webp",
-    "link": "https://www.marketresearchfuture.com/reports/india-electric-car-market-12684",
+    "date": "Oct 23, 2024",
+    "displayed_link": "https://www.resconpartners.com › indias-ev-market-pro...",
+    "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAADQBACdASocABwAPtEutFooIagoGAEAGglAGJtlgDZ_ydy9hkzsscsQhDk_mpvdsAD-9gU0WxiDc9VRpiEpmEF0UoG1eNWdOsaptmJ3DjJexeqm3d2LbovBmxSTQ1G6NYvo-SLqbhPTx8vobo3D119r-ICMhbcr6IrlPzap21b2a-7CUlZFbs-VFAL1giYRgR4P_d93Cgkj-F6c0PZMJXJHu-LEtdTrkjXom6JEnEW51c6oesezueHsJnM-I0kULpvVOJw2AAA.webp",
+    "link": "https://www.resconpartners.com/indias-ev-market-progress-and-comparisons/",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFTlIyCD28LBwkQospYxNllFjEymxUz6ei7XGP_Omm3Jt7X9kF0yFzdQBKd353ANk2wehxC2mzxXKx892ztddlAR-G9URhPKJZspI-s5wTsrf-j_AJ0g04pKsnRiVpvOvHlLTYASm2VLzhqNRoU91Ew1Gm4WgENTirtpJXWUYqgA&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQFnoECC4QAQ&uoh=1",
-    "snippet": "India Electric Car Market projected to reach USD 111.24 Billion, at a CAGR of 41.0% during 2026 to 2035, driven by Growing demand for ...",
+    "read_more_link": "https://www.resconpartners.com/indias-ev-market-progress-and-comparisons/#:~:text=India%2C%20the%20world's%20second%2Dlargest%20electric,over%2075%25%20of%20the%20market.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFVnsw-oE76hrf4c02Ow77VlaoQwR-caS2lHeEf2B1RWrGmYSefuCOJhzi5KyktLbiFQcc8VXRRizvwCgbvzBnInnFff2qdtPMG65aTbFVWqCIN6PYqf7XOV_E4uuJy_wyoUwlsM0ATBeE5QmZrnsodMFryqf-5DCM59MJd6755k&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQFnoECCQQAQ&uoh=1",
+    "snippet": "India, the world's second-largest electric two-wheeler market, saw sales surge by 40% in 2023 compared to 2022, driven by domestic giants like ...",
     "snippet_highlighted_words": [
-     "India Electric Car Market projected to reach USD 111.24 Billion"
+     "India",
+     "electric"
     ],
-    "source": "Market Research Future",
-    "title": "India Electric Car Market Size, Trends, Growth Outlook 2035"
+    "source": "Rescon Partners",
+    "title": "India's EV Market: Progress and Comparisons"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZVeThmalNkeW5FYnBUb3FYTHZRU3JNc2xuVUcwUl9aUlhSQ1ZYWHlYT1VlNzNkcDVIRU5EWGlnTkFPTElaOHk5NkM2RW5RT3k4anlJZnF6MUZWdHkyaENiV09vRGYzSEhaLU01alh4WmswNldWb3hkaWRXY2JpU0E3TzNpb29FVC11OVBOQi1ocU1wcE9rTHpEUmppTnpsS2R4Ry1UbUE5MkRSLXdjQWJZbUY0M1VjREU4RlJURXhNUFhZdG05NUlSMnZTTHpfb25Wa0ViN3RtOFJUZ2QxdzR1R3cwQRIEGgIIABqOCRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDqCAgAEAAYACAAKh4KA2hhcxWHXQQ_GgNoYWQaBGhhdmUaAmlzGgN3YXMqOgoGc2VhcmNoFQAAAAAaBGZpbmQaBmxvb2t1cBoIc2VhcmNoZXMaCXNlYXJjaGluZxoIcmVzZWFyY2gqGgoIaW50ZXJlc3QVaVXTPRoJaW50ZXJlc3RzKgkKAmluFQAAAAAqLQoIZWxlY3RyaWMV9jifQBoBZRoCZXYaA2V2cxoQZWxlY3RyaWN2ZWhpY2xlcypRCgh2ZWhpY2xlcxWEC6s_GgRhdXRvGgthdXRvbW9iaWxlcxoDY2FyGgRjYXJzGgJldhoDZXZzGgd2ZWhpY2xlGhBlbGVjdHJpY3ZlaGljbGVzKgkKAmluFQAAAAAqFQoFaW5kaWEVSxSlQBoHaW5kaWEncyobCgRiZWVuFRpUQj0aAmJlGgViZWluZxoDd2FzKjYKBnJpc2luZxUAAAAAGgdncm93aW5nGgppbmNyZWFzaW5nGgVyYWlzZRoEcmlzZRoFcmlzZW4qCQoCb3IVAAAAACpQCgdmYWxsaW5nFds_Cz4aCmRlc2NlbmRpbmcaBGZhbGwaBWZhbGxzGgN0aXAaC2ZhbGxpbmdvdmVyGgxpdjtwO2ZhbGxpbmcaB2RlY2xpbmUqRgoEb3ZlchUF8fU_GgNvZmYaBm9uIHRoZRoDb3V0Ggp0aHJvdWdob3V0GgR3aXRoGgtmYWxsaW5nb3ZlchoIb3ZlcnRpbWUqLwoEdGltZRVsEz8-GgZwZXJpb2QaCXRoZSB5ZWFycxoFdGltZXMaCG92ZXJ0aW1lMvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZVeThmalNkeW5FYnBUb3FYTHZRU3JNc2xuVUcwUl9aUlhSQ1ZYWHlYT1VlNzNkcDVIRU5EWGlnTkFPTElaOHk5NkM2RW5RT3k4anlJZnF6MUZWdHkyaENiV09vRGYzSEhaLU01alh4WmswNldWb3hkaWRXY2JpU0E3TzNpb29FVC11OVBOQi1ocU1wcE9rTHpEUmppTnpsS2R4Ry1UbUE5MkRSLXdjQWJZbUY0M1VjREU4RlJURXhNUFhZdG05NUlSMnZTTHpfb25Wa0ViN3RtOFJUZ2QxdzR1R3cwQTpHKFBERikgPGI-RWxlY3RyaWMgVmVoaWNsZTwvYj4gQWRvcHRpb24gQW5hbHlzaXMgQW5kIE1hcmtldCBUcmVuZCBpbiAuLi5CpAFUaGlzIHByb2plY3QgcHJlc2VudHMgYSBjb21wcmVoZW5zaXZlIGRhdGEtZHJpdmVuIGFuYWx5c2lzIG9mIDxiPkVsZWN0cmljIFZlaGljbGU8L2I-IGFkb3B0aW9uIHRyZW5kcyBhY3Jvc3MgPGI-SW5kaWE8L2I-LGxldmVyYWdpbmcgYXV0aGVudGljIHJlZ2lzdHJhdGlvbiZuYnNwOy4uLkoCaW5KAm9yUgR3aXRoUgJiZVIEaGF2ZVICaXNSA291dFIGb24gdGhlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZVeThmalNkeW5FYnBUb3FYTHZRU3JNc2xuVUcwUl9aUlhSQ1ZYWHlYT1VlNzNkcDVIRU5EWGlnTkFPTElaOHk5NkM2RW5RT3k4anlJZnF6MUZWdHkyaENiV09vRGYzSEhaLU01alh4WmswNldWb3hkaWRXY2JpU0E3TzNpb29FVC11OVBOQi1ocU1wcE9rTHpEUmppTnpsS2R4Ry1UbUE5MkRSLXdjQWJZbUY0M1VjREU4RlJURXhNUFhZdG05NUlSMnZTTHpfb25Wa0ViN3RtOFJUZ2QxdzR1R3cwQRIEGgIIABqOCRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDqCAgAEAAYACAAKh4KA2hhcxWHXQQ_GgNoYWQaBGhhdmUaAmlzGgN3YXMqOgoGc2VhcmNoFQAAAAAaBGZpbmQaBmxvb2t1cBoIc2VhcmNoZXMaCXNlYXJjaGluZxoIcmVzZWFyY2gqGgoIaW50ZXJlc3QVaVXTPRoJaW50ZXJlc3RzKgkKAmluFQAAAAAqLQoIZWxlY3RyaWMV9jifQBoBZRoCZXYaA2V2cxoQZWxlY3RyaWN2ZWhpY2xlcypRCgh2ZWhpY2xlcxWEC6s_GgRhdXRvGgthdXRvbW9iaWxlcxoDY2FyGgRjYXJzGgJldhoDZXZzGgd2ZWhpY2xlGhBlbGVjdHJpY3ZlaGljbGVzKgkKAmluFQAAAAAqFQoFaW5kaWEVSxSlQBoHaW5kaWEncyobCgRiZWVuFRpUQj0aAmJlGgViZWluZxoDd2FzKjYKBnJpc2luZxUAAAAAGgdncm93aW5nGgppbmNyZWFzaW5nGgVyYWlzZRoEcmlzZRoFcmlzZW4qCQoCb3IVAAAAACpQCgdmYWxsaW5nFds_Cz4aCmRlc2NlbmRpbmcaBGZhbGwaBWZhbGxzGgN0aXAaC2ZhbGxpbmdvdmVyGgxpdjtwO2ZhbGxpbmcaB2RlY2xpbmUqRgoEb3ZlchUF8fU_GgNvZmYaBm9uIHRoZRoDb3V0Ggp0aHJvdWdob3V0GgR3aXRoGgtmYWxsaW5nb3ZlchoIb3ZlcnRpbWUqLwoEdGltZRVsEz8-GgZwZXJpb2QaCXRoZSB5ZWFycxoFdGltZXMaCG92ZXJ0aW1lMvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZVeThmalNkeW5FYnBUb3FYTHZRU3JNc2xuVUcwUl9aUlhSQ1ZYWHlYT1VlNzNkcDVIRU5EWGlnTkFPTElaOHk5NkM2RW5RT3k4anlJZnF6MUZWdHkyaENiV09vRGYzSEhaLU01alh4WmswNldWb3hkaWRXY2JpU0E3TzNpb29FVC11OVBOQi1ocU1wcE9rTHpEUmppTnpsS2R4Ry1UbUE5MkRSLXdjQWJZbUY0M1VjREU4RlJURXhNUFhZdG05NUlSMnZTTHpfb25Wa0ViN3RtOFJUZ2QxdzR1R3cwQTpHKFBERikgPGI-RWxlY3RyaWMgVmVoaWNsZTwvYj4gQWRvcHRpb24gQW5hbHlzaXMgQW5kIE1hcmtldCBUcmVuZCBpbiAuLi5CpAFUaGlzIHByb2plY3QgcHJlc2VudHMgYSBjb21wcmVoZW5zaXZlIGRhdGEtZHJpdmVuIGFuYWx5c2lzIG9mIDxiPkVsZWN0cmljIFZlaGljbGU8L2I-IGFkb3B0aW9uIHRyZW5kcyBhY3Jvc3MgPGI-SW5kaWE8L2I-LGxldmVyYWdpbmcgYXV0aGVudGljIHJlZ2lzdHJhdGlvbiZuYnNwOy4uLkoCaW5KAm9yUgR3aXRoUgJiZVIEaGF2ZVICaXNSA291dFIGb24gdGhlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Interest in electric cars has spiked sharply in the last few months, particularly against the backdrop of the Middle East conflict. India ...",
-      "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp",
-      "source_info_link": "https://www.bbc.com/news/articles/cx21181yq4no"
-     }
-    },
-    "date": "03‏/06‏/2026",
-    "displayed_link": "https://www.bbc.com › news › articles",
-    "favicon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp",
-    "link": "https://www.bbc.com/news/articles/cx21181yq4no",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVBOatuYtlMs6_BUGGjUi5SNY_dTnMO50A-yPUBLGQrosnxNjp8CfMp_yNFEbePhy5JEvqxnp97km_1uj5FrJ5MyuAx_kdCqDoyHxS9NpXaS7hbdnPtD3Bq0AgSeVNGA7vYA&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQFnoECB4QAQ&uoh=1",
-    "snippet": "Interest in electric cars has spiked sharply in the last few months, particularly against the backdrop of the Middle East conflict. India ...",
-    "snippet_highlighted_words": [
-     "Interest in electric cars has spiked sharply in the last few months"
-    ],
-    "source": "BBC",
-    "title": "Electric vehicles: Costly fuel pushes more Indians to buy ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "India's EV market is poised for significant growth, supported by strong policy measures, rising consumer interest, and the entry of global ...",
-      "icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAAAQCACdASocABwAPtEwtFooIigoGAEAGglsAKkjSR8-OVut4D1Hs5D0X6KPVA9Cv9Mx2bDdD0rfR32v3VJegOZaXuslLk0EuH4AAP72Cb-CKsdrXGod7zBhfqNtZvaZtsf-nh7RHClYAiUyOemBMtpcZxvT0R0GpI5RhVPVz4_U_G-9qnQV-O579Kdyt8vrWU4fo-NT8GENGdB6vjeWs6PvnKMz3bwc7Yn8ihfNi-6RGqgUX5cFxMnKIp9Ga4PukPc5kh3a_w66Z038xgJ0uLn6b1uI8kNMkIWmL5Ldh_TP9I33JbR9-xmXknfnc58_aXX6FsRbgHy6E41ff0emNB-DO_TyIFK1ZMunYkHjg_nn9MLZ1O--nGXlaYFHuUak_rLbC86bpQuyW6Z1TZ0lBO_EC2NvF9M1-tvF60scPo5xN6JRF0SwOj-GArBJuIDuPE4paeuiMu0t4tPrqzW_-aY-VbLT9yf8t1pb71jCLX4a6_hqPg0v9RHjhivEL3udn1LPoLuASvvG1T-AAAA.webp",
-      "source_info_link": "https://business.cornell.edu/centers/2025/07/25/indias-emerging-electric-vehicle-market/"
-     }
-    },
-    "date": "25‏/07‏/2025",
-    "displayed_link": "https://business.cornell.edu › centers",
-    "favicon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAAAQCACdASocABwAPtEwtFooIigoGAEAGglsAKkjSR8-OVut4D1Hs5D0X6KPVA9Cv9Mx2bDdD0rfR32v3VJegOZaXuslLk0EuH4AAP72Cb-CKsdrXGod7zBhfqNtZvaZtsf-nh7RHClYAiUyOemBMtpcZxvT0R0GpI5RhVPVz4_U_G-9qnQV-O579Kdyt8vrWU4fo-NT8GENGdB6vjeWs6PvnKMz3bwc7Yn8ihfNi-6RGqgUX5cFxMnKIp9Ga4PukPc5kh3a_w66Z038xgJ0uLn6b1uI8kNMkIWmL5Ldh_TP9I33JbR9-xmXknfnc58_aXX6FsRbgHy6E41ff0emNB-DO_TyIFK1ZMunYkHjg_nn9MLZ1O--nGXlaYFHuUak_rLbC86bpQuyW6Z1TZ0lBO_EC2NvF9M1-tvF60scPo5xN6JRF0SwOj-GArBJuIDuPE4paeuiMu0t4tPrqzW_-aY-VbLT9yf8t1pb71jCLX4a6_hqPg0v9RHjhivEL3udn1LPoLuASvvG1T-AAAA.webp",
-    "link": "https://business.cornell.edu/centers/2025/07/25/indias-emerging-electric-vehicle-market/",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFa1TliIY_2NRz2axR_EM1O8oLuvXXUJq5pJcX-2LWSZuOuLyOW3PcLwyMkWx6cLnXGm9vnOWe1d73y6uXYsocENgB1Ji9n3QgRw1L3QM-30Wf7J5zin-fGG__fMPmEA-f07iWgZiFBPEWCLDw7Lo5mZDTW3YtosUwX2ZX0UUv_wdeIfv2sc6fvQtccY&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQFnoECBoQAQ&uoh=1",
-    "snippet": "India's EV market is poised for significant growth, supported by strong policy measures, rising consumer interest, and the entry of global ...",
-    "snippet_highlighted_words": [
-     "India's EV market is poised for significant growth"
-    ],
-    "source": "Cornell SC Johnson College of Business",
-    "title": "India's Emerging Electric Vehicle Market - Cornell Business"
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "India Crosses the EV Tipping Point — There's No Going Back Now India's electric vehicle market is entering a decisive growth phase as EV ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "أكثر من 39.9 ألف مشاهدة · قبل 3 أشهر",
-    "duration": "8:38",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=QFuurMe4_54",
-    "position": 6,
-    "snippet": "India Crosses the EV Tipping Point — There's No Going Back Now India's electric vehicle market is entering a decisive growth phase as EV ...",
-    "source": "YouTube · The Electric Viking",
-    "thumbnail": "https://serpapi.com/searches/6aafc21312eb14a353429e57/images/D0ZvqBKDRFpWyYzwsuDeCqH5BsR4b-gRj9cl7ajBgto.jpeg",
-    "title": "India Crosses the EV Tipping Point — There's No Going Back ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "For the initially period, sales of EVs in the Indian souk exceeded one million units, marking a record of 206% YoY growth compared to 0.32 ...",
+      "description": "This project presents a comprehensive data-driven analysis of Electric Vehicle adoption trends across India,leveraging authentic registration ...",
       "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
-      "source_info_link": "https://www.researchgate.net/publication/374594739_Study_on_Growth_of_Electric_Vehicles_in_India_A_Review"
+      "source_info_link": "https://www.researchgate.net/publication/406293063_Electric_Vehicle_Adoption_Analysis_And_Market_Trend_in_India"
      }
     },
-    "date": "06‏/07‏/2026",
-    "displayed_link": "https://www.researchgate.net › 3745...",
+    "date": "Sep 6, 2026",
+    "displayed_link": "https://www.researchgate.net › publication › 40629306...",
     "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
-    "link": "https://www.researchgate.net/publication/374594739_Study_on_Growth_of_Electric_Vehicles_in_India_A_Review",
-    "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFd9wGkYZs36sBeSfyRZVslAcDcl1mBOMSXGVsmgfKeWQMIf1Oc04PA5j76fgsXSEqFLPW0JSDql1G2r1nGN4vUZUIggygJHdurZd2HZazVAjw9_ILDKdFj-1mUrDilU0POxki8kJELoNUyNpKqx7kIc0OyuuqtRdGy5F_pKP0qIj1Z2thSsZgfVvG_PiAq93d9aS0xeOBA1RjygKoA&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQFnoECEcQAQ&uoh=1",
-    "snippet": "For the initially period, sales of EVs in the Indian souk exceeded one million units, marking a record of 206% YoY growth compared to 0.32 ...",
+    "link": "https://www.researchgate.net/publication/406293063_Electric_Vehicle_Adoption_Analysis_And_Market_Trend_in_India",
+    "position": 4,
+    "read_more_link": "https://www.researchgate.net/publication/406293063_Electric_Vehicle_Adoption_Analysis_And_Market_Trend_in_India#:~:text=This%20project%20presents%20a%20comprehensive,trends%20across%20India%2Cleveraging%20authentic%20registration",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFUy8fjSdynEbpToqXLvQSrMslnUG0R_ZRXRCVXXyXOUe73dp5HENDXigNAOLIZ8y96C6EnQOy8jyIfqz1FVty2hCbWOoDf3HHZ-M5jXxZk06WVoxdidWcbiSA7O3iooET-u9PNB-hqMppOkLzDRjiNzlKdxG-TmA92DR-wcAbYmF43UcDE8FRTExMPXYtm95IR2vSLz_onVkEb7tm8RTgd1w4uGw0A&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQFnoECCUQAQ&uoh=1",
+    "snippet": "This project presents a comprehensive data-driven analysis of Electric Vehicle adoption trends across India,leveraging authentic registration ...",
     "snippet_highlighted_words": [
-     "period",
-     "EVs"
+     "Electric Vehicle",
+     "India"
     ],
     "source": "ResearchGate",
-    "title": "Study on Growth of Electric Vehicles in India: A Review"
+    "title": "Electric Vehicle Adoption Analysis And Market Trend in India"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZWWFR2b3ZTbWxJR05rM2dDQktyZzN6eWF2T3F1SjdzWkdvSjdsR1kyb1puLVE3c24wTk1ka2Y3aXZsb2IwOFZCNUI3YU1BdzNnd1Q1Nm1VTmJ3MW04QWNVVnZRQ2JleW1jU0UyVHk1RkFKTUFwaC1mcXhDVFMxWXdQNlJnNnhlSmdfWUhtODNEa01xQUV5UWlLN1dBQUJ1RDEteVUxNFZvOE8wRHBZVFdRYXhkY1daTk8zUXZDcjFSY0M5dm5SUGFKcVJJZ2dlaVJLUnI5NVZRdEZKaU02cFhYX3BCNnNZcXZEQRIEGgIIABqRCRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDtCAgAEAAYACAAKh4KA2hhcxUAAAAAGgNoYWQaBGhhdmUaAmlzGgN3YXMqOgoGc2VhcmNoFeub3jwaBGZpbmQaBmxvb2t1cBoIc2VhcmNoZXMaCXNlYXJjaGluZxoIcmVzZWFyY2gqGgoIaW50ZXJlc3QVuOrCPxoJaW50ZXJlc3RzKgkKAmluFQAAAAAqLQoIZWxlY3RyaWMVXpq1QBoBZRoCZXYaA2V2cxoQZWxlY3RyaWN2ZWhpY2xlcypRCgh2ZWhpY2xlcxWS8QhAGgRhdXRvGgthdXRvbW9iaWxlcxoDY2FyGgRjYXJzGgJldhoDZXZzGgd2ZWhpY2xlGhBlbGVjdHJpY3ZlaGljbGVzKgkKAmluFQAAAAAqFQoFaW5kaWEVwH8pQBoHaW5kaWEncyobCgRiZWVuFQAAAAAaAmJlGgViZWluZxoDd2FzKjYKBnJpc2luZxVsIRY_Ggdncm93aW5nGgppbmNyZWFzaW5nGgVyYWlzZRoEcmlzZRoFcmlzZW4qCQoCb3IVAAAAACpQCgdmYWxsaW5nFQAAAAAaCmRlc2NlbmRpbmcaBGZhbGwaBWZhbGxzGgN0aXAaC2ZhbGxpbmdvdmVyGgxpdjtwO2ZhbGxpbmcaB2RlY2xpbmUqRgoEb3ZlchW2CxA_GgNvZmYaBm9uIHRoZRoDb3V0Ggp0aHJvdWdob3V0GgR3aXRoGgtmYWxsaW5nb3ZlchoIb3ZlcnRpbWUqLwoEdGltZRUAAAAAGgZwZXJpb2QaCXRoZSB5ZWFycxoFdGltZXMaCG92ZXJ0aW1lMvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZWWFR2b3ZTbWxJR05rM2dDQktyZzN6eWF2T3F1SjdzWkdvSjdsR1kyb1puLVE3c24wTk1ka2Y3aXZsb2IwOFZCNUI3YU1BdzNnd1Q1Nm1VTmJ3MW04QWNVVnZRQ2JleW1jU0UyVHk1RkFKTUFwaC1mcXhDVFMxWXdQNlJnNnhlSmdfWUhtODNEa01xQUV5UWlLN1dBQUJ1RDEteVUxNFZvOE8wRHBZVFdRYXhkY1daTk8zUXZDcjFSY0M5dm5SUGFKcVJJZ2dlaVJLUnI5NVZRdEZKaU02cFhYX3BCNnNZcXZEQTpETW9zdCBJbmRpYW4gRHJpdmVycyBOb3cgS2VlbmVyIG9uIDxiPkVsZWN0cmljIENhcnM8L2I-LCBTdXJ2ZXkgRmluZHNCpAE4NyUgb2YgSW5kaWFuIGRyaXZlcnMgYXJlIG1vcmUgbGlrZWx5IHRvIGNvbnNpZGVyIGFuIDxiPmVsZWN0cmljIGNhcjwvYj4gdGhhbiBsYXN0IHllYXIuIERlbGhpIHNhdyBvbmUgb2YgdGhlIHN0ZWVwZXN0IDxiPmZhbGxzPC9iPiwgc2xpZGluZyBmcm9tIGZvdXJ0aCB0byZuYnNwOy4uLkoCaW5KAm9yUgZvbiB0aGVSAmlzUgRoYXZlUgJiZVIEd2l0aFIDb3V0IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZWWFR2b3ZTbWxJR05rM2dDQktyZzN6eWF2T3F1SjdzWkdvSjdsR1kyb1puLVE3c24wTk1ka2Y3aXZsb2IwOFZCNUI3YU1BdzNnd1Q1Nm1VTmJ3MW04QWNVVnZRQ2JleW1jU0UyVHk1RkFKTUFwaC1mcXhDVFMxWXdQNlJnNnhlSmdfWUhtODNEa01xQUV5UWlLN1dBQUJ1RDEteVUxNFZvOE8wRHBZVFdRYXhkY1daTk8zUXZDcjFSY0M5dm5SUGFKcVJJZ2dlaVJLUnI5NVZRdEZKaU02cFhYX3BCNnNZcXZEQRIEGgIIABqRCRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDtCAgAEAAYACAAKh4KA2hhcxUAAAAAGgNoYWQaBGhhdmUaAmlzGgN3YXMqOgoGc2VhcmNoFeub3jwaBGZpbmQaBmxvb2t1cBoIc2VhcmNoZXMaCXNlYXJjaGluZxoIcmVzZWFyY2gqGgoIaW50ZXJlc3QVuOrCPxoJaW50ZXJlc3RzKgkKAmluFQAAAAAqLQoIZWxlY3RyaWMVXpq1QBoBZRoCZXYaA2V2cxoQZWxlY3RyaWN2ZWhpY2xlcypRCgh2ZWhpY2xlcxWS8QhAGgRhdXRvGgthdXRvbW9iaWxlcxoDY2FyGgRjYXJzGgJldhoDZXZzGgd2ZWhpY2xlGhBlbGVjdHJpY3ZlaGljbGVzKgkKAmluFQAAAAAqFQoFaW5kaWEVwH8pQBoHaW5kaWEncyobCgRiZWVuFQAAAAAaAmJlGgViZWluZxoDd2FzKjYKBnJpc2luZxVsIRY_Ggdncm93aW5nGgppbmNyZWFzaW5nGgVyYWlzZRoEcmlzZRoFcmlzZW4qCQoCb3IVAAAAACpQCgdmYWxsaW5nFQAAAAAaCmRlc2NlbmRpbmcaBGZhbGwaBWZhbGxzGgN0aXAaC2ZhbGxpbmdvdmVyGgxpdjtwO2ZhbGxpbmcaB2RlY2xpbmUqRgoEb3ZlchW2CxA_GgNvZmYaBm9uIHRoZRoDb3V0Ggp0aHJvdWdob3V0GgR3aXRoGgtmYWxsaW5nb3ZlchoIb3ZlcnRpbWUqLwoEdGltZRUAAAAAGgZwZXJpb2QaCXRoZSB5ZWFycxoFdGltZXMaCG92ZXJ0aW1lMvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZWWFR2b3ZTbWxJR05rM2dDQktyZzN6eWF2T3F1SjdzWkdvSjdsR1kyb1puLVE3c24wTk1ka2Y3aXZsb2IwOFZCNUI3YU1BdzNnd1Q1Nm1VTmJ3MW04QWNVVnZRQ2JleW1jU0UyVHk1RkFKTUFwaC1mcXhDVFMxWXdQNlJnNnhlSmdfWUhtODNEa01xQUV5UWlLN1dBQUJ1RDEteVUxNFZvOE8wRHBZVFdRYXhkY1daTk8zUXZDcjFSY0M5dm5SUGFKcVJJZ2dlaVJLUnI5NVZRdEZKaU02cFhYX3BCNnNZcXZEQTpETW9zdCBJbmRpYW4gRHJpdmVycyBOb3cgS2VlbmVyIG9uIDxiPkVsZWN0cmljIENhcnM8L2I-LCBTdXJ2ZXkgRmluZHNCpAE4NyUgb2YgSW5kaWFuIGRyaXZlcnMgYXJlIG1vcmUgbGlrZWx5IHRvIGNvbnNpZGVyIGFuIDxiPmVsZWN0cmljIGNhcjwvYj4gdGhhbiBsYXN0IHllYXIuIERlbGhpIHNhdyBvbmUgb2YgdGhlIHN0ZWVwZXN0IDxiPmZhbGxzPC9iPiwgc2xpZGluZyBmcm9tIGZvdXJ0aCB0byZuYnNwOy4uLkoCaW5KAm9yUgZvbiB0aGVSAmlzUgRoYXZlUgJiZVIEd2l0aFIDb3V0IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "India EV market to rise from US$26.2 Bn (2026) to US$194.9. The India electric passenger vehicle market demonstrated strong growth momentum in FY2025-26, with  ...",
-      "icon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAADwBQCdASocABwAPrUurVanIacnG_DgFolsAKwg_5ghVaTLgdlDLNS51--olYUicT_77E56PK9zAAD-9wimj2Y9Nvt5H5_fraieRPNDO5w4Ds96-WGS9RGGrGuiUCB_utv4KWw44ZzUnHIX7ZoD_mQ04uPbsWuYeXhBsIYio1dvSF7XUrT8gJnvRkyYwnCP5CrLfyOiQEjb-OW2PHgmNxZUKKx8N4VH67M2L_oI-QZ5-LLOLaFPiK05S6sWJHTXLWT0_hKqrx7x9KRshZnlBFjUxWzhrTTdClaU3V3WnbSKfSnTGAwAAA.webp",
-      "source_info_link": "https://www.persistencemarketresearch.com/market-research/india-electric-vehicles-market.asp"
+      "description": "87% of Indian drivers are more likely to consider an electric car than last year. Delhi saw one of the steepest falls, sliding from fourth to ...",
+      "icon": "https://serpapi.com/images/i/UklGRggBAABXRUJQVlA4IPwAAAAwBgCdASogACAAPrUurVanIacnG_DgFolsALEe3qAN6aCAG8UkRboADWSAiyVxhsahyDVmpQXlh6bwAP79A0GtQ4cAfWkEO5cfZ1983Jtkaru2PLmsyKV_0oXNe3LSm5FpuEn_i131pfn4ypRVH4n6aDyb1FsVczHV1b7KN7RheIKC3mt4tBXt8Y8ue7wsR62G6PxEt-Xc4UKoL_3xbcTr6kXRv5xHW5NMPAVyt0iAaR97EJ0QfJbBwboLV--s9RW-X4lex0SSd_y2D9VFY_3ypWvh2LuV101FgS-xx-jPj5_DdwMABbPRWD1FiQN-IsJYBXO9WWNhrtHaAAA.webp",
+      "source_info_link": "https://bestev.in/news/most-indian-drivers-now-keener-on-electric-cars-survey-finds-e306ad954e6d4ee3831ce40f856a0c77"
      }
     },
-    "displayed_link": "https://www.persistencemarketresearch.com › ...",
-    "favicon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAADwBQCdASocABwAPrUurVanIacnG_DgFolsAKwg_5ghVaTLgdlDLNS51--olYUicT_77E56PK9zAAD-9wimj2Y9Nvt5H5_fraieRPNDO5w4Ds96-WGS9RGGrGuiUCB_utv4KWw44ZzUnHIX7ZoD_mQ04uPbsWuYeXhBsIYio1dvSF7XUrT8gJnvRkyYwnCP5CrLfyOiQEjb-OW2PHgmNxZUKKx8N4VH67M2L_oI-QZ5-LLOLaFPiK05S6sWJHTXLWT0_hKqrx7x9KRshZnlBFjUxWzhrTTdClaU3V3WnbSKfSnTGAwAAA.webp",
-    "link": "https://www.persistencemarketresearch.com/market-research/india-electric-vehicles-market.asp",
+    "date": "Sep 13, 2026",
+    "displayed_link": "https://bestev.in › EV News",
+    "favicon": "https://serpapi.com/images/i/UklGRggBAABXRUJQVlA4IPwAAAAwBgCdASogACAAPrUurVanIacnG_DgFolsALEe3qAN6aCAG8UkRboADWSAiyVxhsahyDVmpQXlh6bwAP79A0GtQ4cAfWkEO5cfZ1983Jtkaru2PLmsyKV_0oXNe3LSm5FpuEn_i131pfn4ypRVH4n6aDyb1FsVczHV1b7KN7RheIKC3mt4tBXt8Y8ue7wsR62G6PxEt-Xc4UKoL_3xbcTr6kXRv5xHW5NMPAVyt0iAaR97EJ0QfJbBwboLV--s9RW-X4lex0SSd_y2D9VFY_3ypWvh2LuV101FgS-xx-jPj5_DdwMABbPRWD1FiQN-IsJYBXO9WWNhrtHaAAA.webp",
+    "link": "https://bestev.in/news/most-indian-drivers-now-keener-on-electric-cars-survey-finds-e306ad954e6d4ee3831ce40f856a0c77",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrwEB6zswFVXTvovSmlIGNk3gCBKrg3zyavOquJ7sZGoJ7lGY2oZn-Q7sn0NMdkf7ivlob08VB5B7aMAw3gwT56mUNbw1m8AcUVvQCbeymcSE2Ty5FAJMAph-fqxCTS1YwP6Rg6xeJg_YHm83DkMqAEyQiK7WAABuD1-yU14Vo8O0DpYTWQaxdcWZNO3QvCr1RcC9vnRPaJqRIggeiRKRr95VQtFJiM6pXX_pB6sYqvDA&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQFnoECB4QAQ&uoh=1",
+    "snippet": "87% of Indian drivers are more likely to consider an electric car than last year. Delhi saw one of the steepest falls, sliding from fourth to ...",
+    "snippet_highlighted_words": [
+     "electric car",
+     "falls"
+    ],
+    "source": "bestev.in",
+    "title": "Most Indian Drivers Now Keener on Electric Cars, Survey Finds"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0Zmb3BZbUY0TUY3eHdwNnIzUnlpYTROTUhrcUdnX1BhU1ktbDdab2dLWmZTYlF5Nm9CaktvbFh4aWxkVldjWUg2S0o3Q21UVEFJZnNZSTVRaFJVQ1NLMjNKellraHFtTzJKcjdjck5oX0ZOOW94SnY5OTRnX1dib0VMQUdPa0JZdDNFTmRqaWg1NldXN2ktN2ZMR1VEWER1bUFncEtSX19xck8xeWd6OXZZNlRLNlV1VWp0ZGRSbnJjQRIEGgIIABrcCBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLYICAAQABgAIAAqHgoDaGFzFevHNz4aA2hhZBoEaGF2ZRoCaXMaA3dhcyo6CgZzZWFyY2gVAAAAABoEZmluZBoGbG9va3VwGghzZWFyY2hlcxoJc2VhcmNoaW5nGghyZXNlYXJjaCoaCghpbnRlcmVzdBU_vz89GglpbnRlcmVzdHMqCQoCaW4VAAAAACotCghlbGVjdHJpYxVYJIxAGgFlGgJldhoDZXZzGhBlbGVjdHJpY3ZlaGljbGVzKlEKCHZlaGljbGVzFaSA1D8aBGF1dG8aC2F1dG9tb2JpbGVzGgNjYXIaBGNhcnMaAmV2GgNldnMaB3ZlaGljbGUaEGVsZWN0cmljdmVoaWNsZXMqCQoCaW4VAAAAACoVCgVpbmRpYRV5bqFAGgdpbmRpYSdzKhsKBGJlZW4VB1jFPhoCYmUaBWJlaW5nGgN3YXMqNgoGcmlzaW5nFRczyz0aB2dyb3dpbmcaCmluY3JlYXNpbmcaBXJhaXNlGgRyaXNlGgVyaXNlbioJCgJvchUAAAAAKlAKB2ZhbGxpbmcVAAAAABoKZGVzY2VuZGluZxoEZmFsbBoFZmFsbHMaA3RpcBoLZmFsbGluZ292ZXIaDGl2O3A7ZmFsbGluZxoHZGVjbGluZSpGCgRvdmVyFaUEpj8aA29mZhoGb24gdGhlGgNvdXQaCnRocm91Z2hvdXQaBHdpdGgaC2ZhbGxpbmdvdmVyGghvdmVydGltZSovCgR0aW1lFXD3Uz0aBnBlcmlvZBoJdGhlIHllYXJzGgV0aW1lcxoIb3ZlcnRpbWUy0AEvZ290bz91cmw9Q0FFU2p3RUI2enN3RmZvcFltRjRNRjd4d3A2cjNSeWlhNE5NSGtxR2dfUGFTWS1sN1pvZ0taZlNiUXk2b0JqS29sWHhpbGRWV2NZSDZLSjdDbVRUQUlmc1lJNVFoUlVDU0syM0p6WWtocW1PMkpyN2NyTmhfRk45b3hKdjk5NGdfV2JvRUxBR09rQll0M0VOZGppaDU2V1c3aS03ZkxHVURYRHVtQWdwS1JfX3FyTzF5Z3o5dlk2VEs2VXVVanRkZFJucmNBOj48Yj5JbmRpYSBFbGVjdHJpYyBWZWhpY2xlPC9iPiBNYXJrZXQgQW5hbHlzaXMgUmVwb3J0IDIwMjQtMjAzMUKdATxiPkluZGlhJiMzOTtzIGVsZWN0cmljIHZlaGljbGUgbWFya2V0IGlzIGV4cGFuZGluZzwvYj4gZHVlIHRvIGdvdmVybm1lbnQgaW5pdGlhdGl2ZXMgb24gbG9jYWxpemF0aW9uLCBzdXBwbHkgY2hhaW4sIGFuZCBleHBvcnRzLiBXaXRoIHJpc2luZyBkZW1hbmQmbmJzcDsuLi5KAmluSgJvclIDb3V0UgJiZVIEaGF2ZVICaXNSBHdpdGhSBm9uIHRoZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0Zmb3BZbUY0TUY3eHdwNnIzUnlpYTROTUhrcUdnX1BhU1ktbDdab2dLWmZTYlF5Nm9CaktvbFh4aWxkVldjWUg2S0o3Q21UVEFJZnNZSTVRaFJVQ1NLMjNKellraHFtTzJKcjdjck5oX0ZOOW94SnY5OTRnX1dib0VMQUdPa0JZdDNFTmRqaWg1NldXN2ktN2ZMR1VEWER1bUFncEtSX19xck8xeWd6OXZZNlRLNlV1VWp0ZGRSbnJjQRIEGgIIABrcCBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLYICAAQABgAIAAqHgoDaGFzFevHNz4aA2hhZBoEaGF2ZRoCaXMaA3dhcyo6CgZzZWFyY2gVAAAAABoEZmluZBoGbG9va3VwGghzZWFyY2hlcxoJc2VhcmNoaW5nGghyZXNlYXJjaCoaCghpbnRlcmVzdBU_vz89GglpbnRlcmVzdHMqCQoCaW4VAAAAACotCghlbGVjdHJpYxVYJIxAGgFlGgJldhoDZXZzGhBlbGVjdHJpY3ZlaGljbGVzKlEKCHZlaGljbGVzFaSA1D8aBGF1dG8aC2F1dG9tb2JpbGVzGgNjYXIaBGNhcnMaAmV2GgNldnMaB3ZlaGljbGUaEGVsZWN0cmljdmVoaWNsZXMqCQoCaW4VAAAAACoVCgVpbmRpYRV5bqFAGgdpbmRpYSdzKhsKBGJlZW4VB1jFPhoCYmUaBWJlaW5nGgN3YXMqNgoGcmlzaW5nFRczyz0aB2dyb3dpbmcaCmluY3JlYXNpbmcaBXJhaXNlGgRyaXNlGgVyaXNlbioJCgJvchUAAAAAKlAKB2ZhbGxpbmcVAAAAABoKZGVzY2VuZGluZxoEZmFsbBoFZmFsbHMaA3RpcBoLZmFsbGluZ292ZXIaDGl2O3A7ZmFsbGluZxoHZGVjbGluZSpGCgRvdmVyFaUEpj8aA29mZhoGb24gdGhlGgNvdXQaCnRocm91Z2hvdXQaBHdpdGgaC2ZhbGxpbmdvdmVyGghvdmVydGltZSovCgR0aW1lFXD3Uz0aBnBlcmlvZBoJdGhlIHllYXJzGgV0aW1lcxoIb3ZlcnRpbWUy0AEvZ290bz91cmw9Q0FFU2p3RUI2enN3RmZvcFltRjRNRjd4d3A2cjNSeWlhNE5NSGtxR2dfUGFTWS1sN1pvZ0taZlNiUXk2b0JqS29sWHhpbGRWV2NZSDZLSjdDbVRUQUlmc1lJNVFoUlVDU0syM0p6WWtocW1PMkpyN2NyTmhfRk45b3hKdjk5NGdfV2JvRUxBR09rQll0M0VOZGppaDU2V1c3aS03ZkxHVURYRHVtQWdwS1JfX3FyTzF5Z3o5dlk2VEs2VXVVanRkZFJucmNBOj48Yj5JbmRpYSBFbGVjdHJpYyBWZWhpY2xlPC9iPiBNYXJrZXQgQW5hbHlzaXMgUmVwb3J0IDIwMjQtMjAzMUKdATxiPkluZGlhJiMzOTtzIGVsZWN0cmljIHZlaGljbGUgbWFya2V0IGlzIGV4cGFuZGluZzwvYj4gZHVlIHRvIGdvdmVybm1lbnQgaW5pdGlhdGl2ZXMgb24gbG9jYWxpemF0aW9uLCBzdXBwbHkgY2hhaW4sIGFuZCBleHBvcnRzLiBXaXRoIHJpc2luZyBkZW1hbmQmbmJzcDsuLi5KAmluSgJvclIDb3V0UgJiZVIEaGF2ZVICaXNSBHdpdGhSBm9uIHRoZSICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "India's electric vehicle market is expanding due to government initiatives on localization, supply chain, and exports. With rising demand ...",
+      "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvFpQHfOmzn6gH6l76b-pIdmjJGZ4m35Uw9CATIxWriFg-wAAD-6OGEI-4oAlLykJEwEVA4_7Qmruc1nJ-K5d8PpakkD-iWYQ7aoX7XSAqfu__jeNrSiZ6K8MK6q9RmeVWYHai83QRTaDhWlbGXn3v0qUd_BcKU17rr0cmkvrjkA9fvDaEOAgU_khsP_GLKEBn85GWrTpV5B0LnvvFBrB357sGpV1lld8cPpcxBs8I_CtAqu-X6qLnK-nmKtsms3HXSPSvb2f3GkspJva4__2xXX_ecsxCo7uAljX9BVFBx5dlZJjxOcCckzLNBH5sr6Lv1I28OfCvLlLDa6BWqZS5x1cwWXFZBtpYOW-ZP7nIQ_-UWrGNw6Tw1UgP7PEKkDHN8-6t7vK6-gAA.webp",
+      "source_info_link": "https://finance.yahoo.com/news/india-electric-vehicle-market-analysis-110600677.html"
+     }
+    },
+    "date": "Jul 24, 2025",
+    "displayed_link": "https://finance.yahoo.com › news › india-electric-vehicl...",
+    "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvFpQHfOmzn6gH6l76b-pIdmjJGZ4m35Uw9CATIxWriFg-wAAD-6OGEI-4oAlLykJEwEVA4_7Qmruc1nJ-K5d8PpakkD-iWYQ7aoX7XSAqfu__jeNrSiZ6K8MK6q9RmeVWYHai83QRTaDhWlbGXn3v0qUd_BcKU17rr0cmkvrjkA9fvDaEOAgU_khsP_GLKEBn85GWrTpV5B0LnvvFBrB357sGpV1lld8cPpcxBs8I_CtAqu-X6qLnK-nmKtsms3HXSPSvb2f3GkspJva4__2xXX_ecsxCo7uAljX9BVFBx5dlZJjxOcCckzLNBH5sr6Lv1I28OfCvLlLDa6BWqZS5x1cwWXFZBtpYOW-ZP7nIQ_-UWrGNw6Tw1UgP7PEKkDHN8-6t7vK6-gAA.webp",
+    "link": "https://finance.yahoo.com/news/india-electric-vehicle-market-analysis-110600677.html",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFfopYmF4MF7xwp6r3Ryia4NMHkqGg_PaSY-l7ZogKZfSbQy6oBjKolXxildVWcYH6KJ7CmTTAIfsYI5QhRUCSK23JzYkhqmO2Jr7crNh_FN9oxJv994g_WboELAGOkBYt3ENdjih56WW7i-7fLGUDXDumAgpKR__qrO1ygz9vY6TK6UuUjtddRnrcA&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQFnoECCMQAQ&uoh=1",
+    "snippet": "India's electric vehicle market is expanding due to government initiatives on localization, supply chain, and exports. With rising demand ...",
+    "snippet_highlighted_words": [
+     "India's electric vehicle market is expanding"
+    ],
+    "source": "Yahoo Finance",
+    "title": "India Electric Vehicle Market Analysis Report 2024-2031"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkCL2dvdG8_dXJsPUNBRVMwZ0VCNnpzd0ZTODNtSFBUa2FGbE1JYk84YjI0Q0lPTHFkRmtRQlJZQkd4NkNldU9IWDVldkN3eU1yX0h4QWxWZGRTQkctdUJyVlZ0d1lCdHhwTmpBeGxqTm5IcldsbktTbUc5QzdTY2pVclByQXN5QnE2akZVa0gtUF80WWtBeU03eFdhV0tYT19CX052Q1ItSzZ2enkxTUtmWmllZDU4VXFDbFlNcnI4bWNuYndWemhZSE56a25rQmFlX0lfbEY1WG9VdkRoZ2tjYmpUSmRQakVNR3N4cEtMMVUtREVNOVhDdWliNnV1ODZDS0lPdzA3cTZrVVFzb05yWHVrd0tGVmRBTTVkUVNqZFJzR3dYNnFEdGY3RHd3QWdvEgQaAggAGr8JEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJsJCAAQABgAIAAqHgoDaGFzFcrteD8aA2hhZBoEaGF2ZRoCaXMaA3dhcyo6CgZzZWFyY2gVvfCWPRoEZmluZBoGbG9va3VwGghzZWFyY2hlcxoJc2VhcmNoaW5nGghyZXNlYXJjaCoaCghpbnRlcmVzdBXh_RQ9GglpbnRlcmVzdHMqCQoCaW4VAAAAACotCghlbGVjdHJpYxVJmy1AGgFlGgJldhoDZXZzGhBlbGVjdHJpY3ZlaGljbGVzKlEKCHZlaGljbGVzFdsCEEAaBGF1dG8aC2F1dG9tb2JpbGVzGgNjYXIaBGNhcnMaAmV2GgNldnMaB3ZlaGljbGUaEGVsZWN0cmljdmVoaWNsZXMqCQoCaW4VAAAAACoVCgVpbmRpYRXmNqVAGgdpbmRpYSdzKhsKBGJlZW4VkReDPhoCYmUaBWJlaW5nGgN3YXMqNgoGcmlzaW5nFRcSAD8aB2dyb3dpbmcaCmluY3JlYXNpbmcaBXJhaXNlGgRyaXNlGgVyaXNlbioJCgJvchUAAAAAKlAKB2ZhbGxpbmcVDjeEPhoKZGVzY2VuZGluZxoEZmFsbBoFZmFsbHMaA3RpcBoLZmFsbGluZ292ZXIaDGl2O3A7ZmFsbGluZxoHZGVjbGluZSpGCgRvdmVyFVGUSD8aA29mZhoGb24gdGhlGgNvdXQaCnRocm91Z2hvdXQaBHdpdGgaC2ZhbGxpbmdvdmVyGghvdmVydGltZSovCgR0aW1lFeH9FD0aBnBlcmlvZBoJdGhlIHllYXJzGgV0aW1lcxoIb3ZlcnRpbWUyqQIvZ290bz91cmw9Q0FFUzBnRUI2enN3RlM4M21IUFRrYUZsTUliTzhiMjRDSU9McWRGa1FCUllCR3g2Q2V1T0hYNWV2Q3d5TXJfSHhBbFZkZFNCRy11QnJWVnR3WUJ0eHBOakF4bGpObkhyV2xuS1NtRzlDN1NjalVyUHJBc3lCcTZqRlVrSC1QXzRZa0F5TTd4V2FXS1hPX0JfTnZDUi1LNnZ6eTFNS2ZaaWVkNThVcUNsWU1ycjhtY25id1Z6aFlITnprbmtCYWVfSV9sRjVYb1V2RGhna2NialRKZFBqRU1Hc3hwS0wxVS1ERU05WEN1aWI2dXU4NkNLSU93MDdxNmtVUXNvTnJYdWt3S0ZWZEFNNWRRU2pkUnNHd1g2cUR0ZjdEd3dBZ286RDxiPkluZGlhIEVWPC9iPiBjYXIgc2FsZXMganVtcCA0MCUgdG8gcmVjb3JkIGxldmVsczsgQ3Jpc2lsIHNlZXMgLi4uQqMBPGI-RWxlY3RyaWMgY2FyPC9iPiBwZW5ldHJhdGlvbiByb3NlIHRvIDYuMSUgZHVyaW5nIHRoZSB0aHJlZSBtb250aHMgdGhyb3VnaCBNYXksIGNvbXBhcmVkIDxiPndpdGg8L2I-IGFuIGF2ZXJhZ2Ugb2YgNC42JSBpbiBmaXNjYWwgMjAyNiwgYWNjb3JkaW5nIHRvIHRoZSZuYnNwOy4uLkoCb3JKAmluUgJiZVIEaGF2ZVICaXNSA291dFIEd2l0aFIGb24gdGhlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkCL2dvdG8_dXJsPUNBRVMwZ0VCNnpzd0ZTODNtSFBUa2FGbE1JYk84YjI0Q0lPTHFkRmtRQlJZQkd4NkNldU9IWDVldkN3eU1yX0h4QWxWZGRTQkctdUJyVlZ0d1lCdHhwTmpBeGxqTm5IcldsbktTbUc5QzdTY2pVclByQXN5QnE2akZVa0gtUF80WWtBeU03eFdhV0tYT19CX052Q1ItSzZ2enkxTUtmWmllZDU4VXFDbFlNcnI4bWNuYndWemhZSE56a25rQmFlX0lfbEY1WG9VdkRoZ2tjYmpUSmRQakVNR3N4cEtMMVUtREVNOVhDdWliNnV1ODZDS0lPdzA3cTZrVVFzb05yWHVrd0tGVmRBTTVkUVNqZFJzR3dYNnFEdGY3RHd3QWdvEgQaAggAGr8JEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJsJCAAQABgAIAAqHgoDaGFzFcrteD8aA2hhZBoEaGF2ZRoCaXMaA3dhcyo6CgZzZWFyY2gVvfCWPRoEZmluZBoGbG9va3VwGghzZWFyY2hlcxoJc2VhcmNoaW5nGghyZXNlYXJjaCoaCghpbnRlcmVzdBXh_RQ9GglpbnRlcmVzdHMqCQoCaW4VAAAAACotCghlbGVjdHJpYxVJmy1AGgFlGgJldhoDZXZzGhBlbGVjdHJpY3ZlaGljbGVzKlEKCHZlaGljbGVzFdsCEEAaBGF1dG8aC2F1dG9tb2JpbGVzGgNjYXIaBGNhcnMaAmV2GgNldnMaB3ZlaGljbGUaEGVsZWN0cmljdmVoaWNsZXMqCQoCaW4VAAAAACoVCgVpbmRpYRXmNqVAGgdpbmRpYSdzKhsKBGJlZW4VkReDPhoCYmUaBWJlaW5nGgN3YXMqNgoGcmlzaW5nFRcSAD8aB2dyb3dpbmcaCmluY3JlYXNpbmcaBXJhaXNlGgRyaXNlGgVyaXNlbioJCgJvchUAAAAAKlAKB2ZhbGxpbmcVDjeEPhoKZGVzY2VuZGluZxoEZmFsbBoFZmFsbHMaA3RpcBoLZmFsbGluZ292ZXIaDGl2O3A7ZmFsbGluZxoHZGVjbGluZSpGCgRvdmVyFVGUSD8aA29mZhoGb24gdGhlGgNvdXQaCnRocm91Z2hvdXQaBHdpdGgaC2ZhbGxpbmdvdmVyGghvdmVydGltZSovCgR0aW1lFeH9FD0aBnBlcmlvZBoJdGhlIHllYXJzGgV0aW1lcxoIb3ZlcnRpbWUyqQIvZ290bz91cmw9Q0FFUzBnRUI2enN3RlM4M21IUFRrYUZsTUliTzhiMjRDSU9McWRGa1FCUllCR3g2Q2V1T0hYNWV2Q3d5TXJfSHhBbFZkZFNCRy11QnJWVnR3WUJ0eHBOakF4bGpObkhyV2xuS1NtRzlDN1NjalVyUHJBc3lCcTZqRlVrSC1QXzRZa0F5TTd4V2FXS1hPX0JfTnZDUi1LNnZ6eTFNS2ZaaWVkNThVcUNsWU1ycjhtY25id1Z6aFlITnprbmtCYWVfSV9sRjVYb1V2RGhna2NialRKZFBqRU1Hc3hwS0wxVS1ERU05WEN1aWI2dXU4NkNLSU93MDdxNmtVUXNvTnJYdWt3S0ZWZEFNNWRRU2pkUnNHd1g2cUR0ZjdEd3dBZ286RDxiPkluZGlhIEVWPC9iPiBjYXIgc2FsZXMganVtcCA0MCUgdG8gcmVjb3JkIGxldmVsczsgQ3Jpc2lsIHNlZXMgLi4uQqMBPGI-RWxlY3RyaWMgY2FyPC9iPiBwZW5ldHJhdGlvbiByb3NlIHRvIDYuMSUgZHVyaW5nIHRoZSB0aHJlZSBtb250aHMgdGhyb3VnaCBNYXksIGNvbXBhcmVkIDxiPndpdGg8L2I-IGFuIGF2ZXJhZ2Ugb2YgNC42JSBpbiBmaXNjYWwgMjAyNiwgYWNjb3JkaW5nIHRvIHRoZSZuYnNwOy4uLkoCb3JKAmluUgJiZVIEaGF2ZVICaXNSA291dFIEd2l0aFIGb24gdGhlIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Electric car penetration rose to 6.1% during the three months through May, compared with an average of 4.6% in fiscal 2026, according to the ...",
+      "icon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABwBQCdASocABwAPtEwtFooIigoGAEAGgloALsvoDxAYXAeSAHLVExvWNqRBZemWyiMuyKAAP7YjLsq9vDXM7KeGgwxIayXTEZFWtm_Qp1JzlQ0tPdY0PnZwOBP-3jgcXPmTmgCDwegPeP2oDlaOAFv9v2y6CNb_LJ4HsrFr6M1vN_4OUuJP4cozf4pwTfrwOBnjrAS04EIaNlR84juIx1I0a77Ifkr3j1z0aWTv3Yc3t3qq9ZcOtaOaAuObPxFENkQL2bPQHmFV9AAAAA.webp",
+      "source_info_link": "https://upstox.com/news/business-news/latest-updates/india-ev-car-sales-jump-40-to-record-levels-crisil-sees-volumes-doubling-by-fy-28/article-195177/"
+     }
+    },
+    "date": "Jun 11, 2026",
+    "displayed_link": "https://upstox.com › ... › Business News › Latest Updates",
+    "favicon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABwBQCdASocABwAPtEwtFooIigoGAEAGgloALsvoDxAYXAeSAHLVExvWNqRBZemWyiMuyKAAP7YjLsq9vDXM7KeGgwxIayXTEZFWtm_Qp1JzlQ0tPdY0PnZwOBP-3jgcXPmTmgCDwegPeP2oDlaOAFv9v2y6CNb_LJ4HsrFr6M1vN_4OUuJP4cozf4pwTfrwOBnjrAS04EIaNlR84juIx1I0a77Ifkr3j1z0aWTv3Yc3t3qq9ZcOtaOaAuObPxFENkQL2bPQHmFV9AAAAA.webp",
+    "link": "https://upstox.com/news/business-news/latest-updates/india-ev-car-sales-jump-40-to-record-levels-crisil-sees-volumes-doubling-by-fy-28/article-195177/",
+    "position": 7,
+    "read_more_link": "https://upstox.com/news/business-news/latest-updates/india-ev-car-sales-jump-40-to-record-levels-crisil-sees-volumes-doubling-by-fy-28/article-195177/#:~:text=Electric%20car%20penetration%20rose%20to,2026%2C%20according%20to%20the%20agency.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0gEB6zswFS83mHPTkaFlMIbO8b24CIOLqdFkQBRYBGx6CeuOHX5evCwyMr_HxAlVddSBG-uBrVVtwYBtxpNjAxljNnHrWlnKSmG9C7ScjUrPrAsyBq6jFUkH-P_4YkAyM7xWaWKXO_B_NvCR-K6vzy1MKfZied58UqClYMrr8mcnbwVzhYHNzknkBae_I_lF5XoUvDhgkcbjTJdPjEMGsxpKL1U-DEM9XCuib6uu86CKIOw07q6kUQsoNrXukwKFVdAM5dQSjdRsGwX6qDtf7DwwAgo&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQFnoECEMQAQ&uoh=1",
+    "snippet": "Electric car penetration rose to 6.1% during the three months through May, compared with an average of 4.6% in fiscal 2026, according to the ...",
+    "snippet_highlighted_words": [
+     "Electric car",
+     "with"
+    ],
+    "source": "Upstox",
+    "title": "India EV car sales jump 40% to record levels; Crisil sees ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVlZhaWNFb3V4dXlTdXpLWktXR0pGUWVPZWRNdmxDdmZhcWFVZnRBRnlUaFZ0NFZ6VjlYS2ZBdWZ2d05yNEdJUnJqZUdYQkpEV1FkeWhZUjA1Z2NhOExUdnVjNW1hci0zWG12SjV0YmxMTHlfLVljdEV5eE5mSGJoUVdtN3pqSk9ScTJZUXpReGh5VVpxSFg5OUpfWEFEVVlDEgQaAggAGrgIEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAkggIABAAGAAgACoeCgNoYXMVdxIBPhoDaGFkGgRoYXZlGgJpcxoDd2FzKjoKBnNlYXJjaBWNl_k9GgRmaW5kGgZsb29rdXAaCHNlYXJjaGVzGglzZWFyY2hpbmcaCHJlc2VhcmNoKhoKCGludGVyZXN0FQAAAAAaCWludGVyZXN0cyoJCgJpbhUAAAAAKi0KCGVsZWN0cmljFWIki0AaAWUaAmV2GgNldnMaEGVsZWN0cmljdmVoaWNsZXMqUQoIdmVoaWNsZXMVGMrEPxoEYXV0bxoLYXV0b21vYmlsZXMaA2NhchoEY2FycxoCZXYaA2V2cxoHdmVoaWNsZRoQZWxlY3RyaWN2ZWhpY2xlcyoJCgJpbhUAAAAAKhUKBWluZGlhFfMbkEAaB2luZGlhJ3MqGwoEYmVlbhUxR589GgJiZRoFYmVpbmcaA3dhcyo2CgZyaXNpbmcVrL33PRoHZ3Jvd2luZxoKaW5jcmVhc2luZxoFcmFpc2UaBHJpc2UaBXJpc2VuKgkKAm9yFQAAAAAqUAoHZmFsbGluZxUAAAAAGgpkZXNjZW5kaW5nGgRmYWxsGgVmYWxscxoDdGlwGgtmYWxsaW5nb3ZlchoMaXY7cDtmYWxsaW5nGgdkZWNsaW5lKkYKBG92ZXIV9qQKPhoDb2ZmGgZvbiB0aGUaA291dBoKdGhyb3VnaG91dBoEd2l0aBoLZmFsbGluZ292ZXIaCG92ZXJ0aW1lKi8KBHRpbWUVrIzqPBoGcGVyaW9kGgl0aGUgeWVhcnMaBXRpbWVzGghvdmVydGltZTKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZWYWljRW91eHV5U3V6S1pLV0dKRlFlT2VkTXZsQ3ZmYXFhVWZ0QUZ5VGhWdDRWelY5WEtmQXVmdndOcjRHSVJyamVHWEJKRFdRZHloWVIwNWdjYThMVHZ1YzVtYXItM1htdko1dGJsTEx5Xy1ZY3RFeXhOZkhiaFFXbTd6akpPUnEyWVF6UXhoeVVacUhYOTlKX1hBRFVZQzpGPGI-SW5kaWEgRWxlY3RyaWMgVmVoaWNsZTwvYj4gTWFya2V0IFNoYXJlLCBDb21wYW5pZXMgJmFtcDsgVHJlbmRzIC4uLkKTAVRoZSA8Yj5JbmRpYSBFbGVjdHJpYyBWZWhpY2xlPC9iPiBNYXJrZXQgd29ydGggVVNEIDgsNjUwIG1pbGxpb24gaW4gMjAyNSA8Yj5pcyBncm93aW5nPC9iPiBhdCBhIENBR1Igb2YgMjguNjYlIHRvIHJlYWNoIFVTRCAzMCw1MDAgbWlsbGlvbiBieSAyMDMwLkoCaW5KAm9yUgNvdXRSAmlzUgRoYXZlUgJiZVIEd2l0aFIGb24gdGhlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVlZhaWNFb3V4dXlTdXpLWktXR0pGUWVPZWRNdmxDdmZhcWFVZnRBRnlUaFZ0NFZ6VjlYS2ZBdWZ2d05yNEdJUnJqZUdYQkpEV1FkeWhZUjA1Z2NhOExUdnVjNW1hci0zWG12SjV0YmxMTHlfLVljdEV5eE5mSGJoUVdtN3pqSk9ScTJZUXpReGh5VVpxSFg5OUpfWEFEVVlDEgQaAggAGrgIEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAkggIABAAGAAgACoeCgNoYXMVdxIBPhoDaGFkGgRoYXZlGgJpcxoDd2FzKjoKBnNlYXJjaBWNl_k9GgRmaW5kGgZsb29rdXAaCHNlYXJjaGVzGglzZWFyY2hpbmcaCHJlc2VhcmNoKhoKCGludGVyZXN0FQAAAAAaCWludGVyZXN0cyoJCgJpbhUAAAAAKi0KCGVsZWN0cmljFWIki0AaAWUaAmV2GgNldnMaEGVsZWN0cmljdmVoaWNsZXMqUQoIdmVoaWNsZXMVGMrEPxoEYXV0bxoLYXV0b21vYmlsZXMaA2NhchoEY2FycxoCZXYaA2V2cxoHdmVoaWNsZRoQZWxlY3RyaWN2ZWhpY2xlcyoJCgJpbhUAAAAAKhUKBWluZGlhFfMbkEAaB2luZGlhJ3MqGwoEYmVlbhUxR589GgJiZRoFYmVpbmcaA3dhcyo2CgZyaXNpbmcVrL33PRoHZ3Jvd2luZxoKaW5jcmVhc2luZxoFcmFpc2UaBHJpc2UaBXJpc2VuKgkKAm9yFQAAAAAqUAoHZmFsbGluZxUAAAAAGgpkZXNjZW5kaW5nGgRmYWxsGgVmYWxscxoDdGlwGgtmYWxsaW5nb3ZlchoMaXY7cDtmYWxsaW5nGgdkZWNsaW5lKkYKBG92ZXIV9qQKPhoDb2ZmGgZvbiB0aGUaA291dBoKdGhyb3VnaG91dBoEd2l0aBoLZmFsbGluZ292ZXIaCG92ZXJ0aW1lKi8KBHRpbWUVrIzqPBoGcGVyaW9kGgl0aGUgeWVhcnMaBXRpbWVzGghvdmVydGltZTKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZWYWljRW91eHV5U3V6S1pLV0dKRlFlT2VkTXZsQ3ZmYXFhVWZ0QUZ5VGhWdDRWelY5WEtmQXVmdndOcjRHSVJyamVHWEJKRFdRZHloWVIwNWdjYThMVHZ1YzVtYXItM1htdko1dGJsTEx5Xy1ZY3RFeXhOZkhiaFFXbTd6akpPUnEyWVF6UXhoeVVacUhYOTlKX1hBRFVZQzpGPGI-SW5kaWEgRWxlY3RyaWMgVmVoaWNsZTwvYj4gTWFya2V0IFNoYXJlLCBDb21wYW5pZXMgJmFtcDsgVHJlbmRzIC4uLkKTAVRoZSA8Yj5JbmRpYSBFbGVjdHJpYyBWZWhpY2xlPC9iPiBNYXJrZXQgd29ydGggVVNEIDgsNjUwIG1pbGxpb24gaW4gMjAyNSA8Yj5pcyBncm93aW5nPC9iPiBhdCBhIENBR1Igb2YgMjguNjYlIHRvIHJlYWNoIFVTRCAzMCw1MDAgbWlsbGlvbiBieSAyMDMwLkoCaW5KAm9yUgNvdXRSAmlzUgRoYXZlUgJiZVIEd2l0aFIGb24gdGhlIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The India Electric Vehicle Market worth USD 8,650 million in 2025 is growing at a CAGR of 28.66% to reach USD 30,500 million by 2030.",
+      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACQBgCdASocABwAPtEutFooIagoGAEAGglAAZ0lhV-bhnSVAP1Q6oHojLccL5rSrSe7yaei2V5qbrrzZ1cwAP7-w5Cef_Sv3SQrKP_RQA1GvvZKMiP_bHnZr9gh_sm__Myf-EbkmQH4sGHbVy26vI31hlYCQ1W_FfxK_6idGHvLj0Da88hAbJksvgNVL2Mj--fqmOsH0xP7uOlrKTSK8tbXKnq0av8MkAYq6vIAhxyKOUUi85UXUNdW4qpt2VIoeTT1mTDUxJpuqEbqJH_yv_sxmH_AWhzZnTQu3CLjCu8jWYUcix90vsQr9aiAY61yvQPTLyDEB_mM-exBn3n647NfNpLgeJtoDhfefem2x7m2x1C11Psqv6P5FhlL1OIfv-3rVYUR0bgW85bER_bFthNzUqGXPLqZyGlYFAcVwzQAAAAA.webp",
+      "source_info_link": "https://www.kenresearch.com/industry-reports/india-ev-market"
+     }
+    },
+    "displayed_link": "https://www.kenresearch.com › industry-reports › india...",
+    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACQBgCdASocABwAPtEutFooIagoGAEAGglAAZ0lhV-bhnSVAP1Q6oHojLccL5rSrSe7yaei2V5qbrrzZ1cwAP7-w5Cef_Sv3SQrKP_RQA1GvvZKMiP_bHnZr9gh_sm__Myf-EbkmQH4sGHbVy26vI31hlYCQ1W_FfxK_6idGHvLj0Da88hAbJksvgNVL2Mj--fqmOsH0xP7uOlrKTSK8tbXKnq0av8MkAYq6vIAhxyKOUUi85UXUNdW4qpt2VIoeTT1mTDUxJpuqEbqJH_yv_sxmH_AWhzZnTQu3CLjCu8jWYUcix90vsQr9aiAY61yvQPTLyDEB_mM-exBn3n647NfNpLgeJtoDhfefem2x7m2x1C11Psqv6P5FhlL1OIfv-3rVYUR0bgW85bER_bFthNzUqGXPLqZyGlYFAcVwzQAAAAA.webp",
+    "link": "https://www.kenresearch.com/industry-reports/india-ev-market",
     "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFaMXh_2IGas0VeNJS30HKeiQ5J6WvRUtVJRd02EyzRt93h-U2jTMo7N9_3ImISZ0DXDyWqP1qHi9r9_N9P_H_9Ibiaacsmr413UwTAc8znHMgLwEAb9qF-uw2MPmX6SmiFZ6YMG-7w_OJEMcKzgADtti7vy09s287l9_ozj613A6T1DpJEv8Evgg4cnymMFI&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQFnoECEYQAQ&uoh=1",
-    "snippet": "India EV market to rise from US$26.2 Bn (2026) to US$194.9. The India electric passenger vehicle market demonstrated strong growth momentum in FY2025-26, with ...",
+    "read_more_link": "https://www.kenresearch.com/industry-reports/india-ev-market#:~:text=The%20India%20Electric%20Vehicle%20Market,USD%2030%2C500%20million%20by%202030.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVVaicEouxuySuzKZKWGJFQeOedMvlCvfaqaUftAFyThVt4VzV9XKfAufvwNr4GIRrjeGXBJDWQdyhYR05gca8LTvuc5mar-3XmvJ5tblLLy_-YctEyxNfHbhQWm7zjJORq2YQzQxhyUZqHX99J_XADUYC&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQFnoECEAQAQ&uoh=1",
+    "snippet": "The India Electric Vehicle Market worth USD 8,650 million in 2025 is growing at a CAGR of 28.66% to reach USD 30,500 million by 2030.",
     "snippet_highlighted_words": [
-     "India EV market to rise from US$26.2 Bn (2026) to US$194.9"
+     "India Electric Vehicle",
+     "is growing"
     ],
-    "source": "Persistence Market Research",
-    "title": "India Electric Vehicles Market Size & Future Growth, 2033"
+    "source": "Ken Research",
+    "title": "India Electric Vehicle Market Share, Companies & Trends ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZSY3UySnVCXzFZWkRFNTE3MXUxellrVUVoNFpSZVVodGVoeWFKNHB1OUlJZFJmODNSeTdac3I2VDJ2SnFZSGUzcVF4RkRjSmtLUXpPa09JX1VpYkdVQ3AwWXB0d0tCNDR1Q3NBMVJVMk5udUxUNGloeDZTcXJmQjQ4eGwwSEJMYnlheVppRS10VU4wNEpWZHhWM01zWXBheDJ0RENjdDB0Q25kWV8wT3V6c0xhRkFJdERYWVFLb3gyLXlnMFJWZGRocVVTdVJBbFE4dVdRTmVyaFNaOFQtLXVOR2lUZ2JXbUpqS2NwbDhDT1NlWENLVlFCMmpLM05XdjJqMHBXNFdyOGp6bnFHaVRnEgQaAggAGq4JEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQIoJCAAQABgAIAAqHgoDaGFzFeAteD8aA2hhZBoEaGF2ZRoCaXMaA3dhcyo6CgZzZWFyY2gVg0DXPBoEZmluZBoGbG9va3VwGghzZWFyY2hlcxoJc2VhcmNoaW5nGghyZXNlYXJjaCoaCghpbnRlcmVzdBXsAk09GglpbnRlcmVzdHMqCQoCaW4VAAAAACotCghlbGVjdHJpYxV_Gs9AGgFlGgJldhoDZXZzGhBlbGVjdHJpY3ZlaGljbGVzKlEKCHZlaGljbGVzFad4UkAaBGF1dG8aC2F1dG9tb2JpbGVzGgNjYXIaBGNhcnMaAmV2GgNldnMaB3ZlaGljbGUaEGVsZWN0cmljdmVoaWNsZXMqCQoCaW4VAAAAACoVCgVpbmRpYRVKUYtAGgdpbmRpYSdzKhsKBGJlZW4Vu_EhPxoCYmUaBWJlaW5nGgN3YXMqNgoGcmlzaW5nFV2piT0aB2dyb3dpbmcaCmluY3JlYXNpbmcaBXJhaXNlGgRyaXNlGgVyaXNlbioJCgJvchUAAAAAKlAKB2ZhbGxpbmcVAAAAABoKZGVzY2VuZGluZxoEZmFsbBoFZmFsbHMaA3RpcBoLZmFsbGluZ292ZXIaDGl2O3A7ZmFsbGluZxoHZGVjbGluZSpGCgRvdmVyFbci6z8aA29mZhoGb24gdGhlGgNvdXQaCnRocm91Z2hvdXQaBHdpdGgaC2ZhbGxpbmdvdmVyGghvdmVydGltZSovCgR0aW1lFVDeZD4aBnBlcmlvZBoJdGhlIHllYXJzGgV0aW1lcxoIb3ZlcnRpbWUyoAIvZ290bz91cmw9Q0FFU3l3RUI2enN3RlJjdTJKdUJfMVlaREU1MTcxdTF6WWtVRWg0WlJlVWh0ZWh5YUo0cHU5SUlkUmY4M1J5N1pzcjZUMnZKcVlIZTNxUXhGRGNKa0tRek9rT0lfVWliR1VDcDBZcHR3S0I0NHVDc0ExUlUyTm51TFQ0aWh4NlNxcmZCNDh4bDBIQkxieWF5WmlFLXRVTjA0SlZkeFYzTXNZcGF4MnREQ2N0MHRDbmRZXzBPdXpzTGFGQUl0RFhZUUtveDIteWcwUlZkZGhxVVN1UkFsUTh1V1FOZXJoU1o4VC0tdU5HaVRnYldtSmpLY3BsOENPU2VYQ0tWUUIyakszTld2MmowcFc0V3I4anpucUdpVGc6QkhpZ2ggdm9sdGFnZSBncm93dGggPGI-RWxlY3RyaWMgY2FyPC9iPiByZXRhaWwgc2FsZXMgbW9yZSB0aGFuIC4uLkKdAUhpZ2ggdm9sdGFnZSBncm93dGggPGI-RWxlY3RyaWMgY2FyPC9iPiByZXRhaWwgc2FsZXMgbW9yZSB0aGFuIGRvdWJsZWQgdG8gMTUzMjkgdW5pdHMgaW4gU2VwdGVtYmVyLCBhY2NvcmRpbmcgdG8gRkFEQSwgcmVmbGVjdGluZyA8Yj5JbmRpYSYjMzk7czwvYj4mbmJzcDsuLi5KAm9ySgJpblIEd2l0aFICaXNSBGhhdmVSAmJlUgNvdXRSBm9uIHRoZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZSY3UySnVCXzFZWkRFNTE3MXUxellrVUVoNFpSZVVodGVoeWFKNHB1OUlJZFJmODNSeTdac3I2VDJ2SnFZSGUzcVF4RkRjSmtLUXpPa09JX1VpYkdVQ3AwWXB0d0tCNDR1Q3NBMVJVMk5udUxUNGloeDZTcXJmQjQ4eGwwSEJMYnlheVppRS10VU4wNEpWZHhWM01zWXBheDJ0RENjdDB0Q25kWV8wT3V6c0xhRkFJdERYWVFLb3gyLXlnMFJWZGRocVVTdVJBbFE4dVdRTmVyaFNaOFQtLXVOR2lUZ2JXbUpqS2NwbDhDT1NlWENLVlFCMmpLM05XdjJqMHBXNFdyOGp6bnFHaVRnEgQaAggAGq4JEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQIoJCAAQABgAIAAqHgoDaGFzFeAteD8aA2hhZBoEaGF2ZRoCaXMaA3dhcyo6CgZzZWFyY2gVg0DXPBoEZmluZBoGbG9va3VwGghzZWFyY2hlcxoJc2VhcmNoaW5nGghyZXNlYXJjaCoaCghpbnRlcmVzdBXsAk09GglpbnRlcmVzdHMqCQoCaW4VAAAAACotCghlbGVjdHJpYxV_Gs9AGgFlGgJldhoDZXZzGhBlbGVjdHJpY3ZlaGljbGVzKlEKCHZlaGljbGVzFad4UkAaBGF1dG8aC2F1dG9tb2JpbGVzGgNjYXIaBGNhcnMaAmV2GgNldnMaB3ZlaGljbGUaEGVsZWN0cmljdmVoaWNsZXMqCQoCaW4VAAAAACoVCgVpbmRpYRVKUYtAGgdpbmRpYSdzKhsKBGJlZW4Vu_EhPxoCYmUaBWJlaW5nGgN3YXMqNgoGcmlzaW5nFV2piT0aB2dyb3dpbmcaCmluY3JlYXNpbmcaBXJhaXNlGgRyaXNlGgVyaXNlbioJCgJvchUAAAAAKlAKB2ZhbGxpbmcVAAAAABoKZGVzY2VuZGluZxoEZmFsbBoFZmFsbHMaA3RpcBoLZmFsbGluZ292ZXIaDGl2O3A7ZmFsbGluZxoHZGVjbGluZSpGCgRvdmVyFbci6z8aA29mZhoGb24gdGhlGgNvdXQaCnRocm91Z2hvdXQaBHdpdGgaC2ZhbGxpbmdvdmVyGghvdmVydGltZSovCgR0aW1lFVDeZD4aBnBlcmlvZBoJdGhlIHllYXJzGgV0aW1lcxoIb3ZlcnRpbWUyoAIvZ290bz91cmw9Q0FFU3l3RUI2enN3RlJjdTJKdUJfMVlaREU1MTcxdTF6WWtVRWg0WlJlVWh0ZWh5YUo0cHU5SUlkUmY4M1J5N1pzcjZUMnZKcVlIZTNxUXhGRGNKa0tRek9rT0lfVWliR1VDcDBZcHR3S0I0NHVDc0ExUlUyTm51TFQ0aWh4NlNxcmZCNDh4bDBIQkxieWF5WmlFLXRVTjA0SlZkeFYzTXNZcGF4MnREQ2N0MHRDbmRZXzBPdXpzTGFGQUl0RFhZUUtveDIteWcwUlZkZGhxVVN1UkFsUTh1V1FOZXJoU1o4VC0tdU5HaVRnYldtSmpLY3BsOENPU2VYQ0tWUUIyakszTld2MmowcFc0V3I4anpucUdpVGc6QkhpZ2ggdm9sdGFnZSBncm93dGggPGI-RWxlY3RyaWMgY2FyPC9iPiByZXRhaWwgc2FsZXMgbW9yZSB0aGFuIC4uLkKdAUhpZ2ggdm9sdGFnZSBncm93dGggPGI-RWxlY3RyaWMgY2FyPC9iPiByZXRhaWwgc2FsZXMgbW9yZSB0aGFuIGRvdWJsZWQgdG8gMTUzMjkgdW5pdHMgaW4gU2VwdGVtYmVyLCBhY2NvcmRpbmcgdG8gRkFEQSwgcmVmbGVjdGluZyA8Yj5JbmRpYSYjMzk7czwvYj4mbmJzcDsuLi5KAm9ySgJpblIEd2l0aFICaXNSBGhhdmVSAmJlUgNvdXRSBm9uIHRoZSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Electric vehicle sales in India are growing exponentially. They are up 10.5% on a monthly basis in August 2022 and are up 204% on yearly basis ...",
+      "description": "High voltage growth Electric car retail sales more than doubled to 15329 units in September, according to FADA, reflecting India's ...",
       "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/BJP4India/posts/indias-electric-vehicle-revolution-is-setting-new-benchmarks-in-growth-and-adopt/1423201516520797/"
+      "source_info_link": "https://www.facebook.com/EconomicTimes/posts/-high-voltage-growth-electric-car-retail-sales-more-than-doubled-to-15329-units-/1279279357561303/"
      }
     },
-    "displayed_link": "أكثر من 560 تفاعل · قبل 5 أشهر",
+    "displayed_link": "6 reactions · 11 months ago",
     "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/BJP4India/posts/indias-electric-vehicle-revolution-is-setting-new-benchmarks-in-growth-and-adopt/1423201516520797/",
+    "link": "https://www.facebook.com/EconomicTimes/posts/-high-voltage-growth-electric-car-retail-sales-more-than-doubled-to-15329-units-/1279279357561303/",
     "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAEB6zswFb8fa1tEmjgUbCKRKQSJg1uh8jl4vcOGCqmRcEZg7GAnzfl6abKIRW6vKTaAt_1v0-FwAzpRek-Q8P_zKpHvyKXvgaZ_nASoMzonUk7_GTrxFIV-i4mcc0HCE5JkVhlZgb-SzFm2f-sC9gZOuzSp72jA5idB7UT3GA7-x12tPCyc0bkoTd3z78XvmKg1fTQiFJ-cdgx9OJfIa5FqetUWM-8vPqJrMDPUbj4_YOoybpKWhq9UYSPJZW4n7R4zXh-H&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQFnoECEsQAQ&uoh=1",
-    "snippet": "Electric vehicle sales in India are growing exponentially. They are up 10.5% on a monthly basis in August 2022 and are up 204% on yearly basis ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESywEB6zswFRcu2JuB_1YZDE5171u1zYkUEh4ZReUhtehyaJ4pu9IIdRf83Ry7Zsr6T2vJqYHe3qQxFDcJkKQzOkOI_UibGUCp0YptwKB44uCsA1RU2NnuLT4ihx6SqrfB48xl0HBLbyayZiE-tUN04JVdxV3MsYpax2tDCct0tCndY_0OuzsLaFAItDXYQKox2-yg0RVddhqUSuRAlQ8uWQNerhSZ8T--uNGiTgbWmJjKcpl8COSeXCKVQB2jK3NWv2j0pW4Wr8jznqGiTg&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQFnoECEQQAQ&uoh=1",
+    "snippet": "High voltage growth Electric car retail sales more than doubled to 15329 units in September, according to FADA, reflecting India's ...",
     "snippet_highlighted_words": [
-     "They are up 10.5% on a monthly basis in August 2022"
+     "Electric car",
+     "India's"
     ],
-    "source": "Facebook · Bharatiya Janata Party (BJP)",
-    "title": "India's electric vehicle revolution is setting new ..."
+    "source": "Facebook · The Economic Times",
+    "title": "⚡🚗 High voltage growth 🔋 Electric car retail sales more ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=10&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8NMDegQIOBAW",
+   "next": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=10&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8NMDegQIOxAW",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=90&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8tMDegQIOBAU",
-    "2": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=10&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8tMDegQIOBAE",
-    "3": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=20&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8tMDegQIOBAG",
-    "4": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=30&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8tMDegQIOBAI",
-    "5": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=40&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8tMDegQIOBAK",
-    "6": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=50&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8tMDegQIOBAM",
-    "7": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=60&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8tMDegQIOBAO",
-    "8": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=70&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8tMDegQIOBAQ",
-    "9": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&ei=KMKvaqSVM9nXruEP5ZTiwQg&start=80&sa=N&sstk=AS6-VmL6xbbw2gFTbRbFLERi6cbPLTlcRF6QRmm8CPku_VOznXZ0i8nzR3QKjSN9gVxNmGVXy0w2M1yA4Vw35r9rW_bATeL2OeM6Iw&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ8tMDegQIOBAS"
+    "10": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=90&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8tMDegQIOxAU",
+    "2": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=10&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8tMDegQIOxAE",
+    "3": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=20&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8tMDegQIOxAG",
+    "4": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=30&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8tMDegQIOxAI",
+    "5": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=40&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8tMDegQIOxAK",
+    "6": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=50&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8tMDegQIOxAM",
+    "7": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=60&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8tMDegQIOxAO",
+    "8": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=70&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8tMDegQIOxAQ",
+    "9": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time?&sca_esv=c16286b74a8621df&sxsrf=APpeQnssAu0b9FSZvlKNaxsERJJmJrqPEQ:1790544077380&ei=zYi5aqniFrHj2roPrsaLwQs&start=80&sa=N&sstk=AS6-VmKsxh2rEJL5GcfZpmSk3qabwll79Gummp5xcXw1--n6XoRSJzY1R0ZJzSDuSf5zdzZC8mlkrizminB_ZeutJ_3fLPjCWjFZcQ&ved=2ahUKEwjp_L692I-XAxWxsVYBHS7jIrgQ8tMDegQIOxAS"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVHUTVObVJOUlVoV2FpMVFkVU4wTFc5T1psbGtTM0ZpTUVJMmREWnJiVGxUVnpjd1UzVk9OVzVIVUdaRVRVMUxiWEZDV1hkblQyUjZTMTk0YjJGbVMxTllVVEZaU205cmVXVmpZMWgwUzFwbGFsVndibkF3V25GeFFSSVhTMDFMZG1GeFUxWk5PVzVZY25WRlVEVmFWR2wzVVdjYUlrRkVjM0k1WmxGS1ZFUlBSR1ZDUzFGS2JsZGpiSEUyZUVsYVJGazJTMkV5ZWxFIiwiZmN2IjoiMyIsImVpIjoiS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWciLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FSbmhiVUxJREd3VHpJSlpDa0d3ckhVc3pBWl91ZFAyY2s4T1pUREswQm8wZUw4QkNDVk5CWTFZcDlDLTFycHF3a0JXbXJuWEhhZGhTS1Q4YkRhRUhoLTY2N25GNkFBIiwicXVlc3Rpb24iOiJJcyBFViBwcmljZSBnb2luZyB0byBkcm9wIGluIEluZGlhPyIsImxrIjoiR2lKcGN5QmxkaUJ3Y21salpTQm5iMmx1WnlCMGJ5QmtjbTl3SUdsdUlHbHVaR2xoIiwiYnMiOiJjM1hPUFEtQ01CU0Y0YmpleWJtQW52aXhrdzdHeEJqaTRFRGNkVVlwMEtpVVhBckVmeS1rSmc3S2ZONDg5OUtKbG5HTjR4a1Y2NXRDYm5TWnd4cWtiQ3JvRW5HWjZpU1NLN0hRTlZRN2x1a2hvd1BOSFBaTS1LNHNjamJkRUg2ZHVRaWM4MXM0WWtfLXBVZ3Mtc29XQ3R0d0RXNGVDcG5oSG81a0lMeHViRmN0N2NoekgzU0diWUZyOF9yb01wU2JTUHBDdVBQXzV1bmtEUSIsImlkIjoiZmNfS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWdfNSJ9",
-    "page_token": "buOC1nicHdDPTsIwHADg-DIcZWMOAwkxKayMf1VK-9vWi-m6QXEtq24y4Oa7-FQ-jcbzd_u-vs3xVP3cnXXbumbc73ddd3-o64Mp71Vt-7K5nlRfSWNyqarx8HHoP-3VJPpcoOn7Am25czCj3s66aeqbVZG6JOejKeHLQFXkJm5RSE12LXx9hIAPBKCmBLfiqd5IGLV5HHk0IGk5x6i0gkFAkTJiIAYmEyAcOdG9tOSNRQWmM_Ke82W82fmW-Y6xCHfkpp9ZiuYUE741Kkx2fpxE4mENoyaDKtz5Osx545GUxCowSFqxLhKMnxNcC869TaVfeIwRMPFZnpZImqWl0SWIdLFmvB1kKWZQeWFu9LXgsCXguEwLKi71ccvpTb0ZCxjm-YzOmAFJQeDMuJjNdS1iTdeJ-TOyEl1vr86ToPf_OXnd23bsPurDL49Xgts",
-    "question": "Is EV price going to drop in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=buOC1nicHdDPTsIwHADg-DIcZWMOAwkxKayMf1VK-9vWi-m6QXEtq24y4Oa7-FQ-jcbzd_u-vs3xVP3cnXXbumbc73ddd3-o64Mp71Vt-7K5nlRfSWNyqarx8HHoP-3VJPpcoOn7Am25czCj3s66aeqbVZG6JOejKeHLQFXkJm5RSE12LXx9hIAPBKCmBLfiqd5IGLV5HHk0IGk5x6i0gkFAkTJiIAYmEyAcOdG9tOSNRQWmM_Ke82W82fmW-Y6xCHfkpp9ZiuYUE741Kkx2fpxE4mENoyaDKtz5Osx545GUxCowSFqxLhKMnxNcC869TaVfeIwRMPFZnpZImqWl0SWIdLFmvB1kKWZQeWFu9LXgsCXguEwLKi71ccvpTb0ZCxjm-YzOmAFJQeDMuJjNdS1iTdeJ-TOyEl1vr86ToPf_OXnd23bsPurDL49Xgts",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVHUTVObVJOUlVoV2FpMVFkVU4wTFc5T1psbGtTM0ZpTUVJMmREWnJiVGxUVnpjd1UzVk9OVzVIVUdaRVRVMUxiWEZDV1hkblQyUjZTMTk0YjJGbVMxTllVVEZaU205cmVXVmpZMWgwUzFwbGFsVndibkF3V25GeFFSSVhTMDFMZG1GeFUxWk5PVzVZY25WRlVEVmFWR2wzVVdjYUlrRkVjM0k1WmxGS1ZFUlBSR1ZDUzFGS2JsZGpiSEUyZUVsYVJGazJTMkV5ZWxFIiwiZmN2IjoiMyIsImVpIjoiS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWciLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FSbmhiVUxJREd3VHpJSlpDa0d3ckhVc3pBWl91ZFAyY2s4T1pUREswQm8wZUw4QkNDVk5CWTFZcDlDLTFycHF3a0JXbXJuWEhhZGhTS1Q4YkRhRUhoLTY2N25GNkFBIiwicXVlc3Rpb24iOiJJcyBFViBwcmljZSBnb2luZyB0byBkcm9wIGluIEluZGlhPyIsImxrIjoiR2lKcGN5QmxkaUJ3Y21salpTQm5iMmx1WnlCMGJ5QmtjbTl3SUdsdUlHbHVaR2xoIiwiYnMiOiJjM1hPUFEtQ01CU0Y0YmpleWJtQW52aXhrdzdHeEJqaTRFRGNkVVlwMEtpVVhBckVmeS1rSmc3S2ZONDg5OUtKbG5HTjR4a1Y2NXRDYm5TWnd4cWtiQ3JvRW5HWjZpU1NLN0hRTlZRN2x1a2hvd1BOSFBaTS1LNHNjamJkRUg2ZHVRaWM4MXM0WWtfLXBVZ3Mtc29XQ3R0d0RXNGVDcG5oSG81a0lMeHViRmN0N2NoekgzU0diWUZyOF9yb01wU2JTUHBDdVBQXzV1bmtEUSIsImlkIjoiZmNfS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWdfNSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGxja3QwU2xsQ1ZVUXlSRWh0UkZaSU1XNW5kVVJoVUhOUVVqQkdMVlZHWjFKalNsUlNTMFIyZGtoZk1GSXhhMHRYTVhocE1tTmhNelF0Y3pSd0xVczNUazlKVTNsemRHUjFUM3B4ZFZOR1YxSlJTVFZ2VG5sNVFSSVhlbGxwTldGeGJtbEdja2hxTW5KdlVISnpZVXgzVVhNYUlrRkVjM0k1WmxGbVZWb3dRVlJ5VlhRek1VVkNSVzQ0WkVWcWMyWmxSRXh1YTJjIiwiZmN2IjoiMyIsImVpIjoiellpNWFxbmlGckhqMnJvUHJzYUx3UXMiLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FDdWpmSnV6QUJzWThpS1VRSkR0S3gtNTh1dFAxUzVKQVVGd1RyRlE2bzc0QU03VzZLUnFUYVdaOGFXVXp3VW9XdUlXVkE1ZGpsNXhfTmpxcW5SeTZlX1JwZmdBIiwicXVlc3Rpb24iOiJBcmUgRVYgY2FyIHByaWNlcyBkcm9wcGluZyBpbiBJbmRpYT8iLCJsayI6IkdpTmhjbVVnWlhZZ1kyRnlJSEJ5YVdObGN5QmtjbTl3Y0dsdVp5QnBiaUJwYm1ScFlRIiwiYnMiOiJjM1hQT3d2Q01CU0dZVnd6T1VlRm83V0xPa2duRnlrT2doMWM3ZUFVMnJRSjFLVGswdEpfNzZsVkZOUXRrSWVYODVFeldSNE1oLU1GTW1hZ05qTGpGbktqNjFxcUVxU0NST1dTeFZGSUE0YU9OXy1jN0IxSnlDSVZIVWpiRjVWMllIMkcwaGEtLW9nRmRONml3aGpDYnpXazltU2FDdVo2NGdTSDNUWUU0eXNPaFRZWWo2TVpuYlRfX25sRHJtUjkwaTNjbU9xZTZ5d0kxbkI4LVZJNEtDVE9lWi0wb1N2eDRzUEkzX3h4MjNoMEJ3IiwiaWQiOiJmY196WWk1YXFuaUZySGoycm9QcnNhTHdRc181In0=",
+    "page_token": "G0GganicHdBdboIwAADg7DI-TirBqYlZ4qT-TMgKtIW-LLUFq20BJ-PHt91lp9pptuwEX_J9fZtzqX8eWtU09W0xHndd93iqqpPJH0Vlx_w2lGIsuDFHLvRi-jQFz4VY-p-71ct1t0K4rsk6chIf9oGdDWztN1jXbeiojrnKMOtlOfUyCaOtBOLOLwxTP6pCOH_NKCmPJWwDZ38VWu6StboeiAJZDBw2AJ9h75Bo6Yam7o7p3sbbKE58dqYarpH2Cg5giJy-EC7y0nvW51qDwMhJ5q56lv7ZuPeQA1pMFJSb6EahmcQTAUJnH9FSe0eadcgNeX5RPNiSmGH5RnzywbXn-kpOKdUgS-Enx2yIN9Ug7ByJMlTJVkair84IR3dxMZZsGkvNrBcWgljLlTDzILbGzS1gCEiSpEHDulEh2qU7-v9cvhe2WdQf1ekXqFmEbg",
+    "question": "Are EV car prices dropping in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=G0GganicHdBdboIwAADg7DI-TirBqYlZ4qT-TMgKtIW-LLUFq20BJ-PHt91lp9pptuwEX_J9fZtzqX8eWtU09W0xHndd93iqqpPJH0Vlx_w2lGIsuDFHLvRi-jQFz4VY-p-71ct1t0K4rsk6chIf9oGdDWztN1jXbeiojrnKMOtlOfUyCaOtBOLOLwxTP6pCOH_NKCmPJWwDZ38VWu6StboeiAJZDBw2AJ9h75Bo6Yam7o7p3sbbKE58dqYarpH2Cg5giJy-EC7y0nvW51qDwMhJ5q56lv7ZuPeQA1pMFJSb6EahmcQTAUJnH9FSe0eadcgNeX5RPNiSmGH5RnzywbXn-kpOKdUgS-Enx2yIN9Ug7ByJMlTJVkair84IR3dxMZZsGkvNrBcWgljLlTDzILbGzS1gCEiSpEHDulEh2qU7-v9cvhe2WdQf1ekXqFmEbg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGxja3QwU2xsQ1ZVUXlSRWh0UkZaSU1XNW5kVVJoVUhOUVVqQkdMVlZHWjFKalNsUlNTMFIyZGtoZk1GSXhhMHRYTVhocE1tTmhNelF0Y3pSd0xVczNUazlKVTNsemRHUjFUM3B4ZFZOR1YxSlJTVFZ2VG5sNVFSSVhlbGxwTldGeGJtbEdja2hxTW5KdlVISnpZVXgzVVhNYUlrRkVjM0k1WmxGbVZWb3dRVlJ5VlhRek1VVkNSVzQ0WkVWcWMyWmxSRXh1YTJjIiwiZmN2IjoiMyIsImVpIjoiellpNWFxbmlGckhqMnJvUHJzYUx3UXMiLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FDdWpmSnV6QUJzWThpS1VRSkR0S3gtNTh1dFAxUzVKQVVGd1RyRlE2bzc0QU03VzZLUnFUYVdaOGFXVXp3VW9XdUlXVkE1ZGpsNXhfTmpxcW5SeTZlX1JwZmdBIiwicXVlc3Rpb24iOiJBcmUgRVYgY2FyIHByaWNlcyBkcm9wcGluZyBpbiBJbmRpYT8iLCJsayI6IkdpTmhjbVVnWlhZZ1kyRnlJSEJ5YVdObGN5QmtjbTl3Y0dsdVp5QnBiaUJwYm1ScFlRIiwiYnMiOiJjM1hQT3d2Q01CU0dZVnd6T1VlRm83V0xPa2duRnlrT2doMWM3ZUFVMnJRSjFLVGswdEpfNzZsVkZOUXRrSWVYODVFeldSNE1oLU1GTW1hZ05qTGpGbktqNjFxcUVxU0NST1dTeFZGSUE0YU9OXy1jN0IxSnlDSVZIVWpiRjVWMllIMkcwaGEtLW9nRmRONml3aGpDYnpXazltU2FDdVo2NGdTSDNUWUU0eXNPaFRZWWo2TVpuYlRfX25sRHJtUjkwaTNjbU9xZTZ5d0kxbkI4LVZJNEtDVE9lWi0wb1N2eDRzUEkzX3h4MjNoMEJ3IiwiaWQiOiJmY196WWk1YXFuaUZySGoycm9QcnNhTHdRc181In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVHUTVObVJOUlVoV2FpMVFkVU4wTFc5T1psbGtTM0ZpTUVJMmREWnJiVGxUVnpjd1UzVk9OVzVIVUdaRVRVMUxiWEZDV1hkblQyUjZTMTk0YjJGbVMxTllVVEZaU205cmVXVmpZMWgwUzFwbGFsVndibkF3V25GeFFSSVhTMDFMZG1GeFUxWk5PVzVZY25WRlVEVmFWR2wzVVdjYUlrRkVjM0k1WmxGS1ZFUlBSR1ZDUzFGS2JsZGpiSEUyZUVsYVJGazJTMkV5ZWxFIiwiZmN2IjoiMyIsImVpIjoiS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWciLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FSbmhiVUxJREd3VHpJSlpDa0d3ckhVc3pBWl91ZFAyY2s4T1pUREswQm8wZUw4QkNDVk5CWTFZcDlDLTFycHF3a0JXbXJuWEhhZGhTS1Q4YkRhRUhoLTY2N25GNkFBIiwicXVlc3Rpb24iOiJJcyBFViBtYXJrZXQgZ3Jvd2luZyBpbiBJbmRpYT8iLCJsayI6IkdoMXBjeUJsZGlCdFlYSnJaWFFnWjNKdmQybHVaeUJwYmlCcGJtUnBZUSIsImJzIjoiYzNYT1BRLUNNQlNGNGJqZXlibUFudml4a3c3R3hCamk0RURjZFVZcDBLaVVYQXJFZnkta0pnN0tmTjQ4OTlLSmxuR040eGtWNjV0Q2JuU1p3eHFrYkNyb0VuR1o2aVNTSzdIUU5WUTdsdWtob3dQTkhQWk0tSzRzY2piZEVINmR1UWljODFzNFlrXy1wVWdzLXNvV0N0dHdEVzRlQ3BuaEhvNWtJTHh1YkZjdDdjaHpIM1NHYllGcjhfcm9NcFNiU1BwQ3VQUF81dW5rRFEiLCJpZCI6ImZjX0tNS3ZhcVNWTTluWHJ1RVA1WlRpd1FnXzUifQ==",
-    "page_token": "dseib3icHdBRbpswGABg7TJ9bIwJmRYpmpQUslTFEbZ_G3ipHDuBYgPOwgLhrXfZqXaaSf2O8H3-dR-d_fftXg-Dv60Xi3Ecn6u-r9z5WfftQt0enV5o5dxJabtefV8FPy96E_85bHfXwzYD78ULRQyZfdElK4V6TOMDEnZasl3ADFRDaqu5QBERM9kXlmImh0wmwqbW4bOsrZATPjnABXgucjOIpnQZvLoSE8Qac-NzvFSc8Le89gZHlsYTh1AQBaYk0sdp416ygCaKb6dS0pXM3f3MX2NoE5IGNGAyfrC98OyXI6ksQr13xyMkVy1dVDZim6NpRzm5ahhH2pr5DBGNa_PGYcBFnnBhUXRy9cOAyIjwoHJDy6n_yIDOunEt4Gh5lH4p48CLEJDqSmbcjxHaKSRzUrCuvmXZ00XfN-HT1-fm_dIOa_-7r_4DE2SDwg",
-    "question": "Is EV market growing in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dseib3icHdBRbpswGABg7TJ9bIwJmRYpmpQUslTFEbZ_G3ipHDuBYgPOwgLhrXfZqXaaSf2O8H3-dR-d_fftXg-Dv60Xi3Ecn6u-r9z5WfftQt0enV5o5dxJabtefV8FPy96E_85bHfXwzYD78ULRQyZfdElK4V6TOMDEnZasl3ADFRDaqu5QBERM9kXlmImh0wmwqbW4bOsrZATPjnABXgucjOIpnQZvLoSE8Qac-NzvFSc8Le89gZHlsYTh1AQBaYk0sdp416ygCaKb6dS0pXM3f3MX2NoE5IGNGAyfrC98OyXI6ksQr13xyMkVy1dVDZim6NpRzm5ahhH2pr5DBGNa_PGYcBFnnBhUXRy9cOAyIjwoHJDy6n_yIDOunEt4Gh5lH4p48CLEJDqSmbcjxHaKSRzUrCuvmXZ00XfN-HT1-fm_dIOa_-7r_4DE2SDwg",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVHUTVObVJOUlVoV2FpMVFkVU4wTFc5T1psbGtTM0ZpTUVJMmREWnJiVGxUVnpjd1UzVk9OVzVIVUdaRVRVMUxiWEZDV1hkblQyUjZTMTk0YjJGbVMxTllVVEZaU205cmVXVmpZMWgwUzFwbGFsVndibkF3V25GeFFSSVhTMDFMZG1GeFUxWk5PVzVZY25WRlVEVmFWR2wzVVdjYUlrRkVjM0k1WmxGS1ZFUlBSR1ZDUzFGS2JsZGpiSEUyZUVsYVJGazJTMkV5ZWxFIiwiZmN2IjoiMyIsImVpIjoiS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWciLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FSbmhiVUxJREd3VHpJSlpDa0d3ckhVc3pBWl91ZFAyY2s4T1pUREswQm8wZUw4QkNDVk5CWTFZcDlDLTFycHF3a0JXbXJuWEhhZGhTS1Q4YkRhRUhoLTY2N25GNkFBIiwicXVlc3Rpb24iOiJJcyBFViBtYXJrZXQgZ3Jvd2luZyBpbiBJbmRpYT8iLCJsayI6IkdoMXBjeUJsZGlCdFlYSnJaWFFnWjNKdmQybHVaeUJwYmlCcGJtUnBZUSIsImJzIjoiYzNYT1BRLUNNQlNGNGJqZXlibUFudml4a3c3R3hCamk0RURjZFVZcDBLaVVYQXJFZnkta0pnN0tmTjQ4OTlLSmxuR040eGtWNjV0Q2JuU1p3eHFrYkNyb0VuR1o2aVNTSzdIUU5WUTdsdWtob3dQTkhQWk0tSzRzY2piZEVINmR1UWljODFzNFlrXy1wVWdzLXNvV0N0dHdEVzRlQ3BuaEhvNWtJTHh1YkZjdDdjaHpIM1NHYllGcjhfcm9NcFNiU1BwQ3VQUF81dW5rRFEiLCJpZCI6ImZjX0tNS3ZhcVNWTTluWHJ1RVA1WlRpd1FnXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGxja3QwU2xsQ1ZVUXlSRWh0UkZaSU1XNW5kVVJoVUhOUVVqQkdMVlZHWjFKalNsUlNTMFIyZGtoZk1GSXhhMHRYTVhocE1tTmhNelF0Y3pSd0xVczNUazlKVTNsemRHUjFUM3B4ZFZOR1YxSlJTVFZ2VG5sNVFSSVhlbGxwTldGeGJtbEdja2hxTW5KdlVISnpZVXgzVVhNYUlrRkVjM0k1WmxGbVZWb3dRVlJ5VlhRek1VVkNSVzQ0WkVWcWMyWmxSRXh1YTJjIiwiZmN2IjoiMyIsImVpIjoiellpNWFxbmlGckhqMnJvUHJzYUx3UXMiLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FDdWpmSnV6QUJzWThpS1VRSkR0S3gtNTh1dFAxUzVKQVVGd1RyRlE2bzc0QU03VzZLUnFUYVdaOGFXVXp3VW9XdUlXVkE1ZGpsNXhfTmpxcW5SeTZlX1JwZmdBIiwicXVlc3Rpb24iOiJXaHkgaXMgRVYgbm90IHN1Y2Nlc3NmdWwgaW4gSW5kaWE/IiwibGsiOiJHaUYzYUhrZ1pYWWdhWE1nYm05MElITjFZMk5sYzNObWRXd2dhVzRnYVc1a2FXRSIsImJzIjoiYzNYUE93dkNNQlNHWVZ3ek9VZUZvN1dMT2tnbkZ5a09naDFjN2VBVTJyUUoxS1RrMHRKXzc2bFZGTlF0a0llWDg1RXpXUjRNaC1NRk1tYWdOakxqRm5LajYxcXFFcVNDUk9XU3hWRklBNGFPTl8tYzdCMUp5Q0lWSFVqYkY1VjJZSDJHMGhhLS1vZ0ZkTjZpd2hqQ2J6V2s5bVNhQ3VaNjRnU0gzVFlFNHlzT2hUWVlqNk1abmJUX19ubERybVI5MGkzY21PcWU2eXdJMW5COC1WSTRLQ1RPZVotMG9Tdng0c1BJM194eDIzaDBCdyIsImlkIjoiZmNfellpNWFxbmlGckhqMnJvUHJzYUx3UXNfNSJ9",
+    "page_token": "jIqcznicHdDRbtowFABQ7Wf6WOKkoysSqkoxIWixZje-SfwyBd9CSq4TFwKEvO1f9lX9mkk7n3D-_KWPtvn6dqn73p9mk8n1er3fd92e3u9t5ybV6dbaia2ItpVtZtPHKXve2Tk_J4vXz2QhtfewVEEWiwwPCFCIcKsxlsVqpZvNEfMggkgwaFWcxopMRN2bw0IB9VUw9HJchWk8tGXIH0xujmVuEnQqUQfyJvdnDTQAeUBep_Ygym0AP5H_GG0oEowpRd58x5GUgs0vEcFZMANVTFCMFOm8PgHUzmSgt8HgSuc3VWh4ysTJLhcXyZ6YCKiQo4yU3rM048y0_hU5Kl7jNM8bVharc6XN7S3ubtY9SduKOlujskP3IbUa7YGcjjxIhmPpNk0OL6FdixrWtNQZdGXQf1acRrze7exlHt39_5z_3rl-5o_d_h_0UIUH",
+    "question": "Why is EV not successful in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jIqcznicHdDRbtowFABQ7Wf6WOKkoysSqkoxIWixZje-SfwyBd9CSq4TFwKEvO1f9lX9mkk7n3D-_KWPtvn6dqn73p9mk8n1er3fd92e3u9t5ybV6dbaia2ItpVtZtPHKXve2Tk_J4vXz2QhtfewVEEWiwwPCFCIcKsxlsVqpZvNEfMggkgwaFWcxopMRN2bw0IB9VUw9HJchWk8tGXIH0xujmVuEnQqUQfyJvdnDTQAeUBep_Ygym0AP5H_GG0oEowpRd58x5GUgs0vEcFZMANVTFCMFOm8PgHUzmSgt8HgSuc3VWh4ysTJLhcXyZ6YCKiQo4yU3rM048y0_hU5Kl7jNM8bVharc6XN7S3ubtY9SduKOlujskP3IbUa7YGcjjxIhmPpNk0OL6FdixrWtNQZdGXQf1acRrze7exlHt39_5z_3rl-5o_d_h_0UIUH",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGxja3QwU2xsQ1ZVUXlSRWh0UkZaSU1XNW5kVVJoVUhOUVVqQkdMVlZHWjFKalNsUlNTMFIyZGtoZk1GSXhhMHRYTVhocE1tTmhNelF0Y3pSd0xVczNUazlKVTNsemRHUjFUM3B4ZFZOR1YxSlJTVFZ2VG5sNVFSSVhlbGxwTldGeGJtbEdja2hxTW5KdlVISnpZVXgzVVhNYUlrRkVjM0k1WmxGbVZWb3dRVlJ5VlhRek1VVkNSVzQ0WkVWcWMyWmxSRXh1YTJjIiwiZmN2IjoiMyIsImVpIjoiellpNWFxbmlGckhqMnJvUHJzYUx3UXMiLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FDdWpmSnV6QUJzWThpS1VRSkR0S3gtNTh1dFAxUzVKQVVGd1RyRlE2bzc0QU03VzZLUnFUYVdaOGFXVXp3VW9XdUlXVkE1ZGpsNXhfTmpxcW5SeTZlX1JwZmdBIiwicXVlc3Rpb24iOiJXaHkgaXMgRVYgbm90IHN1Y2Nlc3NmdWwgaW4gSW5kaWE%2FIiwibGsiOiJHaUYzYUhrZ1pYWWdhWE1nYm05MElITjFZMk5sYzNObWRXd2dhVzRnYVc1a2FXRSIsImJzIjoiYzNYUE93dkNNQlNHWVZ3ek9VZUZvN1dMT2tnbkZ5a09naDFjN2VBVTJyUUoxS1RrMHRKXzc2bFZGTlF0a0llWDg1RXpXUjRNaC1NRk1tYWdOakxqRm5LajYxcXFFcVNDUk9XU3hWRklBNGFPTl8tYzdCMUp5Q0lWSFVqYkY1VjJZSDJHMGhhLS1vZ0ZkTjZpd2hqQ2J6V2s5bVNhQ3VaNjRnU0gzVFlFNHlzT2hUWVlqNk1abmJUX19ubERybVI5MGkzY21PcWU2eXdJMW5COC1WSTRLQ1RPZVotMG9Tdng0c1BJM194eDIzaDBCdyIsImlkIjoiZmNfellpNWFxbmlGckhqMnJvUHJzYUx3UXNfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVHUTVObVJOUlVoV2FpMVFkVU4wTFc5T1psbGtTM0ZpTUVJMmREWnJiVGxUVnpjd1UzVk9OVzVIVUdaRVRVMUxiWEZDV1hkblQyUjZTMTk0YjJGbVMxTllVVEZaU205cmVXVmpZMWgwUzFwbGFsVndibkF3V25GeFFSSVhTMDFMZG1GeFUxWk5PVzVZY25WRlVEVmFWR2wzVVdjYUlrRkVjM0k1WmxGS1ZFUlBSR1ZDUzFGS2JsZGpiSEUyZUVsYVJGazJTMkV5ZWxFIiwiZmN2IjoiMyIsImVpIjoiS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWciLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FSbmhiVUxJREd3VHpJSlpDa0d3ckhVc3pBWl91ZFAyY2s4T1pUREswQm8wZUw4QkNDVk5CWTFZcDlDLTFycHF3a0JXbXJuWEhhZGhTS1Q4YkRhRUhoLTY2N25GNkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA4MCUgcnVsZSBmb3IgRVY/IiwibGsiOiJHaHQzYUdGMElHbHpJSFJvWlNBNE1DVWdjblZzWlNCbWIzSWdaWFkiLCJicyI6ImMzWE9QUS1DTUJTRjRiamV5Ym1BbnZpeGt3N0d4QmppNEVEY2RVWXAwS2lVWEFyRWZ5LWtKZzdLZk40ODk5S0psbkdONHhrVjY1dENiblNad3hxa2JDcm9FbkdaNmlTU0s3SFFOVlE3bHVraG93UE5IUFpNLUs0c2NqYmRFSDZkdVFpYzgxczRZa18tcFVncy1zb1dDdHR3RFc0ZUNwbmhIbzVrSUx4dWJGY3Q3Y2h6SDNTR2JZRnI4X3JvTXBTYlNQcEN1UFBfNXVua0RRIiwiaWQiOiJmY19LTUt2YXFTVk05blhydUVQNVpUaXdRZ181In0=",
-    "page_token": "jezhbnicHdDbboIwGADg7GW8lEKHS0zMIuNkEzAWaKU3SzlZ5AeayWRyt3fZU-1plux7hO_7B9qh-306q2nSt61hzPO8vozjBep1OfaGvD2G0iglQCHLbrt52ZivTbnzbrPzNs7OKdOauRQlINoUmYeYA-F9pWtQmFnMi0KR1aFKomAyT6BsfiWNuLKc4QMSDIbEdSyaqnu1KCsfHJOfHSHDeJQegYKxKw3ivuZfi-SKZEuHCqT10dNLGiirtKh76ilUmJh5RogEf67daMkA-sRiiDKCZSqQRLQ9Y8J5J_IiIF7S23G07BMfTXGChSpZzNMUPnlITMr2JgeqK9MfgpY4NIwfRy4yHvhNjP0otWx09CHNewIMPduVG82nhVoMK7pqyvsOr_7Hdu9NP231x3j5AzQYd0w",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGxja3QwU2xsQ1ZVUXlSRWh0UkZaSU1XNW5kVVJoVUhOUVVqQkdMVlZHWjFKalNsUlNTMFIyZGtoZk1GSXhhMHRYTVhocE1tTmhNelF0Y3pSd0xVczNUazlKVTNsemRHUjFUM3B4ZFZOR1YxSlJTVFZ2VG5sNVFSSVhlbGxwTldGeGJtbEdja2hxTW5KdlVISnpZVXgzVVhNYUlrRkVjM0k1WmxGbVZWb3dRVlJ5VlhRek1VVkNSVzQ0WkVWcWMyWmxSRXh1YTJjIiwiZmN2IjoiMyIsImVpIjoiellpNWFxbmlGckhqMnJvUHJzYUx3UXMiLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FDdWpmSnV6QUJzWThpS1VRSkR0S3gtNTh1dFAxUzVKQVVGd1RyRlE2bzc0QU03VzZLUnFUYVdaOGFXVXp3VW9XdUlXVkE1ZGpsNXhfTmpxcW5SeTZlX1JwZmdBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA4MCUgcnVsZSBmb3IgRVY/IiwibGsiOiJHaHQzYUdGMElHbHpJSFJvWlNBNE1DVWdjblZzWlNCbWIzSWdaWFkiLCJicyI6ImMzWFBPd3ZDTUJTR1lWd3pPVWVGbzdXTE9rZ25GeWtPZ2gxYzdlQVUyclFKMUtUazB0Sl83NmxWRk5RdGtJZVg4NUV6V1I0TWgtTUZNbWFnTmpMakZuS2o2MXFxRXFTQ1JPV1N4VkZJQTRhT05fLWM3QjFKeUNJVkhVamJGNVYyWUgyRzBoYS0tb2dGZE42aXdoakNieldrOW1TYUN1WjY0Z1NIM1RZRTR5c09oVFlZajZNWm5iVF9fbmxEcm1SOTBpM2NtT3FlNnl3STFuQjgtVkk0S0NUT2VaLTBvU3Z4NHNQSTNfeHgyM2gwQnciLCJpZCI6ImZjX3pZaTVhcW5pRnJIajJyb1Byc2FMd1FzXzUifQ==",
+    "page_token": "UuoCqHicHdBdboIwAADg7DI-ivw5Z2KWICCi4mhpK31ZoCAopTSDyc_b7rJT7TRbdoTv-_rmN1H9PF3KrpPtWlH6vp8XTVPwfM6aWknaUTCFJZynCavWy-el-nplG6ftrW3TWyGSEttgASuqpZpZgYn3YZ2FwCltiPAC1YUWRlTH6GUPF9028PjhVKlvEA3O6Y4MFgGRC9pA4h_gxaeJoAbGVp_uXAu4TYd0x0ACmyleDXQX8MB2I6St1LwOvMQuP0ndLTNNmund0oIJ3-GEtVhYMXEGAjkI0Kges5vqnB2pU447wgsz9SQ4kj10dUmTCJeMmBIIf5_c_TFVrZFp7ilT3Wl38y3gBeOZUJAT0wiF2yUkiHFFYUr2-p_qgZ14uExlm6NMn13ZY6PP_sc279e6W8uPpvgF60V4cg",
     "question": "What is the 80% rule for EV?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jezhbnicHdDbboIwGADg7GW8lEKHS0zMIuNkEzAWaKU3SzlZ5AeayWRyt3fZU-1plux7hO_7B9qh-306q2nSt61hzPO8vozjBep1OfaGvD2G0iglQCHLbrt52ZivTbnzbrPzNs7OKdOauRQlINoUmYeYA-F9pWtQmFnMi0KR1aFKomAyT6BsfiWNuLKc4QMSDIbEdSyaqnu1KCsfHJOfHSHDeJQegYKxKw3ivuZfi-SKZEuHCqT10dNLGiirtKh76ilUmJh5RogEf67daMkA-sRiiDKCZSqQRLQ9Y8J5J_IiIF7S23G07BMfTXGChSpZzNMUPnlITMr2JgeqK9MfgpY4NIwfRy4yHvhNjP0otWx09CHNewIMPduVG82nhVoMK7pqyvsOr_7Hdu9NP231x3j5AzQYd0w",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVHUTVObVJOUlVoV2FpMVFkVU4wTFc5T1psbGtTM0ZpTUVJMmREWnJiVGxUVnpjd1UzVk9OVzVIVUdaRVRVMUxiWEZDV1hkblQyUjZTMTk0YjJGbVMxTllVVEZaU205cmVXVmpZMWgwUzFwbGFsVndibkF3V25GeFFSSVhTMDFMZG1GeFUxWk5PVzVZY25WRlVEVmFWR2wzVVdjYUlrRkVjM0k1WmxGS1ZFUlBSR1ZDUzFGS2JsZGpiSEUyZUVsYVJGazJTMkV5ZWxFIiwiZmN2IjoiMyIsImVpIjoiS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWciLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FSbmhiVUxJREd3VHpJSlpDa0d3ckhVc3pBWl91ZFAyY2s4T1pUREswQm8wZUw4QkNDVk5CWTFZcDlDLTFycHF3a0JXbXJuWEhhZGhTS1Q4YkRhRUhoLTY2N25GNkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA4MCUgcnVsZSBmb3IgRVY%2FIiwibGsiOiJHaHQzYUdGMElHbHpJSFJvWlNBNE1DVWdjblZzWlNCbWIzSWdaWFkiLCJicyI6ImMzWE9QUS1DTUJTRjRiamV5Ym1BbnZpeGt3N0d4QmppNEVEY2RVWXAwS2lVWEFyRWZ5LWtKZzdLZk40ODk5S0psbkdONHhrVjY1dENiblNad3hxa2JDcm9FbkdaNmlTU0s3SFFOVlE3bHVraG93UE5IUFpNLUs0c2NqYmRFSDZkdVFpYzgxczRZa18tcFVncy1zb1dDdHR3RFc0ZUNwbmhIbzVrSUx4dWJGY3Q3Y2h6SDNTR2JZRnI4X3JvTXBTYlNQcEN1UFBfNXVua0RRIiwiaWQiOiJmY19LTUt2YXFTVk05blhydUVQNVpUaXdRZ181In0%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UuoCqHicHdBdboIwAADg7DI-ivw5Z2KWICCi4mhpK31ZoCAopTSDyc_b7rJT7TRbdoTv-_rmN1H9PF3KrpPtWlH6vp8XTVPwfM6aWknaUTCFJZynCavWy-el-nplG6ftrW3TWyGSEttgASuqpZpZgYn3YZ2FwCltiPAC1YUWRlTH6GUPF9028PjhVKlvEA3O6Y4MFgGRC9pA4h_gxaeJoAbGVp_uXAu4TYd0x0ACmyleDXQX8MB2I6St1LwOvMQuP0ndLTNNmund0oIJ3-GEtVhYMXEGAjkI0Kges5vqnB2pU447wgsz9SQ4kj10dUmTCJeMmBIIf5_c_TFVrZFp7ilT3Wl38y3gBeOZUJAT0wiF2yUkiHFFYUr2-p_qgZ14uExlm6NMn13ZY6PP_sc279e6W8uPpvgF60V4cg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGxja3QwU2xsQ1ZVUXlSRWh0UkZaSU1XNW5kVVJoVUhOUVVqQkdMVlZHWjFKalNsUlNTMFIyZGtoZk1GSXhhMHRYTVhocE1tTmhNelF0Y3pSd0xVczNUazlKVTNsemRHUjFUM3B4ZFZOR1YxSlJTVFZ2VG5sNVFSSVhlbGxwTldGeGJtbEdja2hxTW5KdlVISnpZVXgzVVhNYUlrRkVjM0k1WmxGbVZWb3dRVlJ5VlhRek1VVkNSVzQ0WkVWcWMyWmxSRXh1YTJjIiwiZmN2IjoiMyIsImVpIjoiellpNWFxbmlGckhqMnJvUHJzYUx3UXMiLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FDdWpmSnV6QUJzWThpS1VRSkR0S3gtNTh1dFAxUzVKQVVGd1RyRlE2bzc0QU03VzZLUnFUYVdaOGFXVXp3VW9XdUlXVkE1ZGpsNXhfTmpxcW5SeTZlX1JwZmdBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA4MCUgcnVsZSBmb3IgRVY%2FIiwibGsiOiJHaHQzYUdGMElHbHpJSFJvWlNBNE1DVWdjblZzWlNCbWIzSWdaWFkiLCJicyI6ImMzWFBPd3ZDTUJTR1lWd3pPVWVGbzdXTE9rZ25GeWtPZ2gxYzdlQVUyclFKMUtUazB0Sl83NmxWRk5RdGtJZVg4NUV6V1I0TWgtTUZNbWFnTmpMakZuS2o2MXFxRXFTQ1JPV1N4VkZJQTRhT05fLWM3QjFKeUNJVkhVamJGNVYyWUgyRzBoYS0tb2dGZE42aXdoakNieldrOW1TYUN1WjY0Z1NIM1RZRTR5c09oVFlZajZNWm5iVF9fbmxEcm1SOTBpM2NtT3FlNnl3STFuQjgtVkk0S0NUT2VaLTBvU3Z4NHNQSTNfeHgyM2gwQnciLCJpZCI6ImZjX3pZaTVhcW5pRnJIajJyb1Byc2FMd1FzXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVHUTVObVJOUlVoV2FpMVFkVU4wTFc5T1psbGtTM0ZpTUVJMmREWnJiVGxUVnpjd1UzVk9OVzVIVUdaRVRVMUxiWEZDV1hkblQyUjZTMTk0YjJGbVMxTllVVEZaU205cmVXVmpZMWgwUzFwbGFsVndibkF3V25GeFFSSVhTMDFMZG1GeFUxWk5PVzVZY25WRlVEVmFWR2wzVVdjYUlrRkVjM0k1WmxGS1ZFUlBSR1ZDUzFGS2JsZGpiSEUyZUVsYVJGazJTMkV5ZWxFIiwiZmN2IjoiMyIsImVpIjoiS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWciLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FSbmhiVUxJREd3VHpJSlpDa0d3ckhVc3pBWl91ZFAyY2s4T1pUREswQm8wZUw4QkNDVk5CWTFZcDlDLTFycHF3a0JXbXJuWEhhZGhTS1Q4YkRhRUhoLTY2N25GNkFBIiwicXVlc3Rpb24iOiJJcyBFViB3b3J0aCBidXlpbmcgaW4gMjAyNj8iLCJsayI6IkdocHBjeUJsZGlCM2IzSjBhQ0JpZFhscGJtY2dhVzRnTWpBeU5nIiwiYnMiOiJjM1hPUFEtQ01CU0Y0YmpleWJtQW52aXhrdzdHeEJqaTRFRGNkVVlwMEtpVVhBckVmeS1rSmc3S2ZONDg5OUtKbG5HTjR4a1Y2NXRDYm5TWnd4cWtiQ3JvRW5HWjZpU1NLN0hRTlZRN2x1a2hvd1BOSFBaTS1LNHNjamJkRUg2ZHVRaWM4MXM0WWtfLXBVZ3Mtc29XQ3R0d0RXNGVDcG5oSG81a0lMeHViRmN0N2NoekgzU0diWUZyOF9yb01wU2JTUHBDdVBQXzV1bmtEUSIsImlkIjoiZmNfS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWdfNSJ9",
-    "page_token": "pIxLInicHdBdboIwAADg7DI-yk_FLSZmEUEYSh2ltMDLUlsVpUAnbFXfdpedaqfZsgt8D9_Xtzy19c9DXg2D6meGobUeH7vuKPdj3jUG628tNziTcsd4PZs-Tq3nA5_7vXaXnXaTTCniITOlpEZNfC_zKszqHsTNCqe-vCTUWTP6BIjfOywjiuTlmQX6lgDZk9oxN9hdYxy9UizeRcNNZl7JBku29aJWBJbencUE2dGFBlpzoLYkI5oHkSyBmuzMwRY2SgszannmLLMGsfK8mEBaFRviljDgTkJkAP0XAG3R83rI0xreRa4gsot0ZQ4wBWXFCaQYyw8aRhYiC4tKpIS1aoNT5KIQ3ra0xMxDXgZQR0Ik_0wT0usAvdjZy9hJcuEW0gWjA_-cg9H_2Pzt0AwzdemOv3gFeA0",
-    "question": "Is EV worth buying in 2026?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pIxLInicHdBdboIwAADg7DI-yk_FLSZmEUEYSh2ltMDLUlsVpUAnbFXfdpedaqfZsgt8D9_Xtzy19c9DXg2D6meGobUeH7vuKPdj3jUG628tNziTcsd4PZs-Tq3nA5_7vXaXnXaTTCniITOlpEZNfC_zKszqHsTNCqe-vCTUWTP6BIjfOywjiuTlmQX6lgDZk9oxN9hdYxy9UizeRcNNZl7JBku29aJWBJbencUE2dGFBlpzoLYkI5oHkSyBmuzMwRY2SgszannmLLMGsfK8mEBaFRviljDgTkJkAP0XAG3R83rI0xreRa4gsot0ZQ4wBWXFCaQYyw8aRhYiC4tKpIS1aoNT5KIQ3ra0xMxDXgZQR0Ik_0wT0usAvdjZy9hJcuEW0gWjA_-cg9H_2Pzt0AwzdemOv3gFeA0",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVHUTVObVJOUlVoV2FpMVFkVU4wTFc5T1psbGtTM0ZpTUVJMmREWnJiVGxUVnpjd1UzVk9OVzVIVUdaRVRVMUxiWEZDV1hkblQyUjZTMTk0YjJGbVMxTllVVEZaU205cmVXVmpZMWgwUzFwbGFsVndibkF3V25GeFFSSVhTMDFMZG1GeFUxWk5PVzVZY25WRlVEVmFWR2wzVVdjYUlrRkVjM0k1WmxGS1ZFUlBSR1ZDUzFGS2JsZGpiSEUyZUVsYVJGazJTMkV5ZWxFIiwiZmN2IjoiMyIsImVpIjoiS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWciLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FSbmhiVUxJREd3VHpJSlpDa0d3ckhVc3pBWl91ZFAyY2s4T1pUREswQm8wZUw4QkNDVk5CWTFZcDlDLTFycHF3a0JXbXJuWEhhZGhTS1Q4YkRhRUhoLTY2N25GNkFBIiwicXVlc3Rpb24iOiJJcyBFViB3b3J0aCBidXlpbmcgaW4gMjAyNj8iLCJsayI6IkdocHBjeUJsZGlCM2IzSjBhQ0JpZFhscGJtY2dhVzRnTWpBeU5nIiwiYnMiOiJjM1hPUFEtQ01CU0Y0YmpleWJtQW52aXhrdzdHeEJqaTRFRGNkVVlwMEtpVVhBckVmeS1rSmc3S2ZONDg5OUtKbG5HTjR4a1Y2NXRDYm5TWnd4cWtiQ3JvRW5HWjZpU1NLN0hRTlZRN2x1a2hvd1BOSFBaTS1LNHNjamJkRUg2ZHVRaWM4MXM0WWtfLXBVZ3Mtc29XQ3R0d0RXNGVDcG5oSG81a0lMeHViRmN0N2NoekgzU0diWUZyOF9yb01wU2JTUHBDdVBQXzV1bmtEUSIsImlkIjoiZmNfS01LdmFxU1ZNOW5YcnVFUDVaVGl3UWdfNSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGxja3QwU2xsQ1ZVUXlSRWh0UkZaSU1XNW5kVVJoVUhOUVVqQkdMVlZHWjFKalNsUlNTMFIyZGtoZk1GSXhhMHRYTVhocE1tTmhNelF0Y3pSd0xVczNUazlKVTNsemRHUjFUM3B4ZFZOR1YxSlJTVFZ2VG5sNVFSSVhlbGxwTldGeGJtbEdja2hxTW5KdlVISnpZVXgzVVhNYUlrRkVjM0k1WmxGbVZWb3dRVlJ5VlhRek1VVkNSVzQ0WkVWcWMyWmxSRXh1YTJjIiwiZmN2IjoiMyIsImVpIjoiellpNWFxbmlGckhqMnJvUHJzYUx3UXMiLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FDdWpmSnV6QUJzWThpS1VRSkR0S3gtNTh1dFAxUzVKQVVGd1RyRlE2bzc0QU03VzZLUnFUYVdaOGFXVXp3VW9XdUlXVkE1ZGpsNXhfTmpxcW5SeTZlX1JwZmdBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBFViBjYXJzIGhhdmUgY2F1Z2h0IGZpcmUgaW4gSW5kaWE/IiwibGsiOiJjNVBTeXNndlY4aE56S3RVU0MxVFNFNHNLbGJJU0N4TEJiSkswek5LRk5JeWkxSVZNdk9BS0NVekVRQSIsImJzIjoiYzNYUE93dkNNQlNHWVZ3ek9VZUZvN1dMT2tnbkZ5a09naDFjN2VBVTJyUUoxS1RrMHRKXzc2bFZGTlF0a0llWDg1RXpXUjRNaC1NRk1tYWdOakxqRm5LajYxcXFFcVNDUk9XU3hWRklBNGFPTl8tYzdCMUp5Q0lWSFVqYkY1VjJZSDJHMGhhLS1vZ0ZkTjZpd2hqQ2J6V2s5bVNhQ3VaNjRnU0gzVFlFNHlzT2hUWVlqNk1abmJUX19ubERybVI5MGkzY21PcWU2eXdJMW5COC1WSTRLQ1RPZVotMG9Tdng0c1BJM194eDIzaDBCdyIsImlkIjoiZmNfellpNWFxbmlGckhqMnJvUHJzYUx3UXNfNSJ9",
+    "page_token": "CqBnHHicHdDRbqowGADg7GV2OSlmbpqYRY6gsFDX0r-V3izYDtG2gpOJcLd32VPtac7JeYMv3_ePPZzM7921atvmMhuNuq572Nf13n48qNqNikt_UiNVWLsrlJlNnibopVTz8CsO_pzjgEDT8CX12BK_FjaR4GScutjDTif5VpeZwJm2U54NPNlEpleuQwQFj7uBgljJkjHN0nEw-VhLlLs9InDxMi495qEYjrpPh8QngG5yjU0hACkmKfbSXoTpjbJAbqA5FH7X7UJ-zhE1IqKYje0W_GkFIek1n5rCaKDeM9K-ttguEGPVY86qsXDJJnfRQER7FtC8Sh500m9aGOwprPRECIPybfRVgOyzVf3PPiXqhCu21lTd6gMBOqijdSCqt51d3KihTq-w1Et-3Q4W4RWOwHGUH2kF5L5U1_n4_v_n_L107az5rPd_Af0mhDs",
+    "question": "How many EV cars have caught fire in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CqBnHHicHdDRbqowGADg7GV2OSlmbpqYRY6gsFDX0r-V3izYDtG2gpOJcLd32VPtac7JeYMv3_ePPZzM7921atvmMhuNuq572Nf13n48qNqNikt_UiNVWLsrlJlNnibopVTz8CsO_pzjgEDT8CX12BK_FjaR4GScutjDTif5VpeZwJm2U54NPNlEpleuQwQFj7uBgljJkjHN0nEw-VhLlLs9InDxMi495qEYjrpPh8QngG5yjU0hACkmKfbSXoTpjbJAbqA5FH7X7UJ-zhE1IqKYje0W_GkFIek1n5rCaKDeM9K-ttguEGPVY86qsXDJJnfRQER7FtC8Sh500m9aGOwprPRECIPybfRVgOyzVf3PPiXqhCu21lTd6gMBOqijdSCqt51d3KihTq-w1Et-3Q4W4RWOwHGUH2kF5L5U1_n4_v_n_L107az5rPd_Af0mhDs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGxja3QwU2xsQ1ZVUXlSRWh0UkZaSU1XNW5kVVJoVUhOUVVqQkdMVlZHWjFKalNsUlNTMFIyZGtoZk1GSXhhMHRYTVhocE1tTmhNelF0Y3pSd0xVczNUazlKVTNsemRHUjFUM3B4ZFZOR1YxSlJTVFZ2VG5sNVFSSVhlbGxwTldGeGJtbEdja2hxTW5KdlVISnpZVXgzVVhNYUlrRkVjM0k1WmxGbVZWb3dRVlJ5VlhRek1VVkNSVzQ0WkVWcWMyWmxSRXh1YTJjIiwiZmN2IjoiMyIsImVpIjoiellpNWFxbmlGckhqMnJvUHJzYUx3UXMiLCJxYyI6ImN4M0l1dzJBTUF3RlFHb3FDdWpmSnV6QUJzWThpS1VRSkR0S3gtNTh1dFAxUzVKQVVGd1RyRlE2bzc0QU03VzZLUnFUYVdaOGFXVXp3VW9XdUlXVkE1ZGpsNXhfTmpxcW5SeTZlX1JwZmdBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBFViBjYXJzIGhhdmUgY2F1Z2h0IGZpcmUgaW4gSW5kaWE%2FIiwibGsiOiJjNVBTeXNndlY4aE56S3RVU0MxVFNFNHNLbGJJU0N4TEJiSkswek5LRk5JeWkxSVZNdk9BS0NVekVRQSIsImJzIjoiYzNYUE93dkNNQlNHWVZ3ek9VZUZvN1dMT2tnbkZ5a09naDFjN2VBVTJyUUoxS1RrMHRKXzc2bFZGTlF0a0llWDg1RXpXUjRNaC1NRk1tYWdOakxqRm5LajYxcXFFcVNDUk9XU3hWRklBNGFPTl8tYzdCMUp5Q0lWSFVqYkY1VjJZSDJHMGhhLS1vZ0ZkTjZpd2hqQ2J6V2s5bVNhQ3VaNjRnU0gzVFlFNHlzT2hUWVlqNk1abmJUX19ubERybVI5MGkzY21PcWU2eXdJMW5COC1WSTRLQ1RPZVotMG9Tdng0c1BJM194eDIzaDBCdyIsImlkIjoiZmNfellpNWFxbmlGckhqMnJvUHJzYUx3UXNfNSJ9",
     "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&q=Electric+car+sales+worldwide+by+brand&sa=X&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ1QJ6BAg-EAE",
-    "query": "Electric car sales worldwide by brand",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Electric+car+sales+worldwide+by+brand"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&q=World+EV+market+share+by+Company&sa=X&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ1QJ6BAhFEAE",
-    "query": "World EV market share by Company",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=World+EV+market+share+by+Company"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&q=EV+sales+worldwide+2026&sa=X&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ1QJ6BAhEEAE",
-    "query": "EV sales worldwide 2026",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=EV+sales+worldwide+2026"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&q=Global+EV+sales+May+2026&sa=X&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ1QJ6BAhDEAE",
-    "query": "Global EV sales May 2026",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Global+EV+sales+May+2026"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&q=Electric+car+market+share+by+company&sa=X&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ1QJ6BAhCEAE",
-    "query": "Electric car market share by company",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Electric+car+market+share+by+company"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&q=EV+sales+by+year&sa=X&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ1QJ6BAg_EAE",
-    "query": "EV sales by year",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=EV+sales+by+year"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&q=EV+sales+Europe+2026&sa=X&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ1QJ6BAhAEAE",
-    "query": "EV sales Europe 2026",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=EV+sales+Europe+2026"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnuAEGTzxTC78Do5hLPrWuQk3FsG4A:1789903400844&q=EV+market+share+2026&sa=X&ved=2ahUKEwikyY7jhf2WAxXZqysGHWWKOIgQ1QJ6BAhBEAE",
-    "query": "EV market share 2026",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=EV+market+share+2026"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Has search interest in electric vehicles in India been rising or falling over time?",
-   "time_taken_displayed": 0.28,
-   "total_results": 161
+   "time_taken_displayed": 0.8,
+   "total_results": 1590000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:22:59 UTC",
+   "created_at": "2026-09-27 21:21:15 UTC",
    "google_url": "https://www.google.com/search?q=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time%3F&oq=Has+search+interest+in+electric+vehicles+in+India+been+rising+or+falling+over+time%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc21312eb14a353429e57",
-   "json_endpoint": "https://serpapi.com/searches/aFILROjXiRAgrJItR-1eIznccr59lYb8toh2Ip-sNzI/6aafc21312eb14a353429e57.json",
-   "markdown_endpoint": "https://serpapi.com/searches/aFILROjXiRAgrJItR-1eIznccr59lYb8toh2Ip-sNzI/6aafc21312eb14a353429e57.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/aFILROjXiRAgrJItR-1eIznccr59lYb8toh2Ip-sNzI/6aafc21312eb14a353429e57.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:22:59 UTC",
-   "raw_html_file": "https://serpapi.com/searches/aFILROjXiRAgrJItR-1eIznccr59lYb8toh2Ip-sNzI/6aafc21312eb14a353429e57.html",
+   "id": "6ab988cb55cfe1a36acb42b7",
+   "json_endpoint": "https://serpapi.com/searches/FZrBwj6uAzF0RhKhwfafW9hdxc0qCRamarMXAtntGAI/6ab988cb55cfe1a36acb42b7.json",
+   "markdown_endpoint": "https://serpapi.com/searches/FZrBwj6uAzF0RhKhwfafW9hdxc0qCRamarMXAtntGAI/6ab988cb55cfe1a36acb42b7.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/FZrBwj6uAzF0RhKhwfafW9hdxc0qCRamarMXAtntGAI/6ab988cb55cfe1a36acb42b7.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:21:15 UTC",
+   "raw_html_file": "https://serpapi.com/searches/FZrBwj6uAzF0RhKhwfafW9hdxc0qCRamarMXAtntGAI/6ab988cb55cfe1a36acb42b7.html",
    "status": "Success",
-   "total_time_taken": 21.72
+   "total_time_taken": 3.37
   },
   "search_parameters": {
    "device": "desktop",

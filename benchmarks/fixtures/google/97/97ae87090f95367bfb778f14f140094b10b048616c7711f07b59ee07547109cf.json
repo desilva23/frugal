@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1110.444,
+ "elapsed_ms": 2629.016,
  "engine": "google",
- "fetched_at": "2026-09-20T11:54:49.420355+00:00",
+ "fetched_at": "2026-09-30T15:03:15.846716+00:00",
  "frugal_cache_version": 1,
  "key": "97ae87090f95367bfb778f14f140094b10b048616c7711f07b59ee07547109cf",
  "params": {
@@ -10,333 +10,319 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "TWdtbXiczVXbcqpIFP2A-Y7hJVEuXkkVdaob2mjUGIwmMS8UNxuigNIgSd7mV6bmq-ZrpkFUSDCZcx6mZle1TdPbfV2L_cdfa9df_f3bn04UbcgVyyZJUsdBgNd23Qw8VidvvskugzUJTecHCeLQtF1LMp0w8GzmbSc1GJNIHGO7kjv2djqpzW5iYbWNyB1PGu0aaDKZCUkzdGK_UA-vL4TVWPqz-r2h0EOd1G2_Hi_JsyLy1mzUrQscL9YnrO5RBfDfCVIxTPcbIJ9Xolfoe1OpgQGAqGBpAHC2w5PWYn8tq9mVjM9ag3uf00xdpUvR3vuJQt_m9VHO_pe6gKVjksUCQJJFCYH7fTYFUfNcDnl9Uamjdlny6gWnN8Uel2ItCU5Kxx6NQgOyfHJSdEbNOKUwjpUyMej2A6hAMD8fN63PcABaK6CiqhSKoqKH5rFzo8U1fcNamAKXY42Qbjzrmo6ZPYQkxbM8E7mgN3M64lyJJtaaC1aves9YCNNu93l5OwasaVC9daBbtqU5GvcjO_MC3-LERqd7mRHJJEcmkSKT7kBs3I-cpvsO6qM65A80kvdNB586huhZHlQkBuVctaLFBWCnDctbqvaKdvNWQiAHAE1BubXDu7Su14cjxeg7bU1R4-Q1Bf9nGu0FF5QpjbJABkGuWNTYa10XqFto7ABUfWY-5q32T4_KJ8USAWWa7wocCrP4aHkBVBmjlAMy6sO8amYxG5whOxd4CBgB-oXKT-gYIMqVCjGlJRioYAwGiNp05wOKUJxidR9oCobcVw99YNwZwC-om0f533z6KgR-R6JU1ANfPsC_SJu-14rGLxuR3E9wL5w0-6jmes4Kav5AraZJ4Bk_MXHM_xWR9vMI5fPoPJHQ90TK5hH8Yh5lz6d5lIJXDs4SCV5Xz6Nx5Twq5y2DaZFIX8-jnyaS_CWR9jisJFJQTaTNWSLh5CORyvMIVc-jI5F-ZR7BX5xHGa_s_VYeTvELPj-kdm37ddhvEgRricnfrpRk-zwTSLx8Ur8dUksvuvJ0a32pudYVFG6iN-tSoy-CK9titlIY-77r4wviBDa50He6u9aNtX0R-5YdXjQ4jrsI441N71zfcnXGW4eBxOltoSU0Hno-lsdaq7299dRpzdp1B2KnK0Tvj1P1absLH-dPVpzcaALkeaNtBWo7tNAzQIoQtxt4soHD4fbh7VqzIsPlra77smjtZokhLPWOEtaU5kPTR-2a_tpyfMUO3kfQWz0kr0v-ft6aa3MSDofzzhKTTk1H0SSLjEidjjhaKIS3VoihWRJb4hkvNCWKhyYGtyp4xBSYcgZYugK6ErratF-QIaau2WQniQ3BtBudztLguqYlWoyHo7eNJHIM8UOJ_wfO9Ek7",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TWdtbXiczVXbcqpIFP2A-Y7hJVEuXkkVdaob2mjUGIwmMS8UNxuigNIgSd7mV6bmq-ZrpkFUSDCZcx6mZle1TdPbfV2L_cdfa9df_f3bn04UbcgVyyZJUsdBgNd23Qw8VidvvskugzUJTecHCeLQtF1LMp0w8GzmbSc1GJNIHGO7kjv2djqpzW5iYbWNyB1PGu0aaDKZCUkzdGK_UA-vL4TVWPqz-r2h0EOd1G2_Hi_JsyLy1mzUrQscL9YnrO5RBfDfCVIxTPcbIJ9Xolfoe1OpgQGAqGBpAHC2w5PWYn8tq9mVjM9ag3uf00xdpUvR3vuJQt_m9VHO_pe6gKVjksUCQJJFCYH7fTYFUfNcDnl9Uamjdlny6gWnN8Uel2ItCU5Kxx6NQgOyfHJSdEbNOKUwjpUyMej2A6hAMD8fN63PcABaK6CiqhSKoqKH5rFzo8U1fcNamAKXY42Qbjzrmo6ZPYQkxbM8E7mgN3M64lyJJtaaC1aves9YCNNu93l5OwasaVC9daBbtqU5GvcjO_MC3-LERqd7mRHJJEcmkSKT7kBs3I-cpvsO6qM65A80kvdNB586huhZHlQkBuVctaLFBWCnDctbqvaKdvNWQiAHAE1BubXDu7Su14cjxeg7bU1R4-Q1Bf9nGu0FF5QpjbJABkGuWNTYa10XqFto7ABUfWY-5q32T4_KJ8USAWWa7wocCrP4aHkBVBmjlAMy6sO8amYxG5whOxd4CBgB-oXKT-gYIMqVCjGlJRioYAwGiNp05wOKUJxidR9oCobcVw99YNwZwC-om0f533z6KgR-R6JU1ANfPsC_SJu-14rGLxuR3E9wL5w0-6jmes4Kav5AraZJ4Bk_MXHM_xWR9vMI5fPoPJHQ90TK5hH8Yh5lz6d5lIJXDs4SCV5Xz6Nx5Twq5y2DaZFIX8-jnyaS_CWR9jisJFJQTaTNWSLh5CORyvMIVc-jI5F-ZR7BX5xHGa_s_VYeTvELPj-kdm37ddhvEgRricnfrpRk-zwTSLx8Ur8dUksvuvJ0a32pudYVFG6iN-tSoy-CK9titlIY-77r4wviBDa50He6u9aNtX0R-5YdXjQ4jrsI441N71zfcnXGW4eBxOltoSU0Hno-lsdaq7299dRpzdp1B2KnK0Tvj1P1absLH-dPVpzcaALkeaNtBWo7tNAzQIoQtxt4soHD4fbh7VqzIsPlra77smjtZokhLPWOEtaU5kPTR-2a_tpyfMUO3kfQWz0kr0v-ft6aa3MSDofzzhKTTk1H0SSLjEidjjhaKIS3VoihWRJb4hkvNCWKhyYGtyp4xBSYcgZYugK6ErratF-QIaau2WQniQ3BtBudztLguqYlWoyHo7eNJHIM8UOJ_wfO9Ek7"
+   "page_token": "ty-4_niczVZdcqM4ED7AnmP9ksSA_0kVNSUJHBP_hRAnk7xQGBiBDYgg29j7tneZU-1pVoCxsWOSmnnY2rZxW1Kr1Wr1p4-_f_peuPznj5_uahXRW45LkqSOCcG-U7dIwJl0F1rcD-LT2HK_UbKOLcezJcuNSeDUdhupWbOoxNccT6K6LpobbzYad_z3FX1ovRr3CZjVMheSMTeps2ArbBeUMzj2s_yzKbNGndadsP5MnWEUjm2ho9UbfKNZn3JmwAzAfyiaAlQAmc5VlSAAlK-dpSYaQKmvQjA6DuUi5_7SNXHWMaxcUk1nQfZRQWb60Nq2XcpcaIWRXh2xVm4kmYIwX1FPg8Jf7-coeWqgdgitUtTL3flMVFr09cPoJW_j0zYBUG4BTYNFCGenopd3BZV0l6kFS8aNvAUw8SqSvZ_Avk9gsCSfbzELBKm9Ih2gT9mhqpyNWfHy3DxmSuA8y7WyPzFNaxo9iTy5e20M-_Fq10VTsg76sqVsdWx_3877U8xZc2bnE9N2bMM1-G9ZW2gIbV5sdnvXGZgsekATLaNpSh6Tybsg0rFSH9WhUEAJHQ7kbEMKa6NLZ8Uyiy5N2HvRDhkvTfZQuZpme83Km1eBelIRWFEfUn1XdEzZgQJolaFXLJC6_Agl5dQohxLOCkvNC0w9Tj-YzEph4PKQfAEGH-4BhECy35Nc-NgHoJ2lCQFdZWNFLzx1zwrGc5VUQ50FTTMz61j_BCi88qiWvO3jSQteUQ5OQPmfWoISYvWNsoqfpF6WCC-hyoKFIM8LzkCRr4XPjl-puOJQwlI8q4Top4Kr7oMTUQvMnEGgDB1lFXly9DKIhyEQ1c7LmzAgo8VCfY7U5DJUSDD_Beax_l9gKnhptuelajApX4MpvQcv8pJyGC_xEtZzMA2rwaSoR17CJV5KCqMjL52DCeklMOW8hGH_Mi_9KpjQJ2BSPwNTutNLYNKqwJTx0gmY7s956QRMB14qwPR7vKT-Hi9l2HJydUpS6wWuJCul3TY601D0pq5ADIzc7_Z2MojaqEm0L8nqR7C6DUzbvzY8-xY27lc7-9pgHeTWsWvvUrwOQy_EV9QlDr0yN6bnm3PfuVqHthNfNXmev4rXkcPGvND2zFrgx0TizVZPbLUVbC937kLXO-ZQdFo2bA-2VhQOZhNbRua6b97h1nTdSMYD6-YtEO3eJtSm5kPXmUxuBH_y_Jeh4yclJtPtY6Jt2avwHWlo7J1q3N1Aryui0WKj-35nYy_u4KAVwVWcDN70BZyMHvi33VtbHvZdK1SiYIGzuKgkyC7aTmLq0VYtiC2JHVILg4kGXjArSPTKWAKzh7AnYU-HoRvWqGUaDt1IVq8tzk1TsOZds-f02rUAr3aRJPI1GsaS8C_vWU5y",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ty-4_niczVZdcqM4ED7AnmP9ksSA_0kVNSUJHBP_hRAnk7xQGBiBDYgg29j7tneZU-1pVoCxsWOSmnnY2rZxW1Kr1Wr1p4-_f_peuPznj5_uahXRW45LkqSOCcG-U7dIwJl0F1rcD-LT2HK_UbKOLcezJcuNSeDUdhupWbOoxNccT6K6LpobbzYad_z3FX1ovRr3CZjVMheSMTeps2ArbBeUMzj2s_yzKbNGndadsP5MnWEUjm2ho9UbfKNZn3JmwAzAfyiaAlQAmc5VlSAAlK-dpSYaQKmvQjA6DuUi5_7SNXHWMaxcUk1nQfZRQWb60Nq2XcpcaIWRXh2xVm4kmYIwX1FPg8Jf7-coeWqgdgitUtTL3flMVFr09cPoJW_j0zYBUG4BTYNFCGenopd3BZV0l6kFS8aNvAUw8SqSvZ_Avk9gsCSfbzELBKm9Ih2gT9mhqpyNWfHy3DxmSuA8y7WyPzFNaxo9iTy5e20M-_Fq10VTsg76sqVsdWx_3877U8xZc2bnE9N2bMM1-G9ZW2gIbV5sdnvXGZgsekATLaNpSh6Tybsg0rFSH9WhUEAJHQ7kbEMKa6NLZ8Uyiy5N2HvRDhkvTfZQuZpme83Km1eBelIRWFEfUn1XdEzZgQJolaFXLJC6_Agl5dQohxLOCkvNC0w9Tj-YzEph4PKQfAEGH-4BhECy35Nc-NgHoJ2lCQFdZWNFLzx1zwrGc5VUQ50FTTMz61j_BCi88qiWvO3jSQteUQ5OQPmfWoISYvWNsoqfpF6WCC-hyoKFIM8LzkCRr4XPjl-puOJQwlI8q4Top4Kr7oMTUQvMnEGgDB1lFXly9DKIhyEQ1c7LmzAgo8VCfY7U5DJUSDD_Beax_l9gKnhptuelajApX4MpvQcv8pJyGC_xEtZzMA2rwaSoR17CJV5KCqMjL52DCeklMOW8hGH_Mi_9KpjQJ2BSPwNTutNLYNKqwJTx0gmY7s956QRMB14qwPR7vKT-Hi9l2HJydUpS6wWuJCul3TY601D0pq5ADIzc7_Z2MojaqEm0L8nqR7C6DUzbvzY8-xY27lc7-9pgHeTWsWvvUrwOQy_EV9QlDr0yN6bnm3PfuVqHthNfNXmev4rXkcPGvND2zFrgx0TizVZPbLUVbC937kLXO-ZQdFo2bA-2VhQOZhNbRua6b97h1nTdSMYD6-YtEO3eJtSm5kPXmUxuBH_y_Jeh4yclJtPtY6Jt2avwHWlo7J1q3N1Aryui0WKj-35nYy_u4KAVwVWcDN70BZyMHvi33VtbHvZdK1SiYIGzuKgkyC7aTmLq0VYtiC2JHVILg4kGXjArSPTKWAKzh7AnYU-HoRvWqGUaDt1IVq8tzk1TsOZds-f02rUAr3aRJPI1GsaS8C_vWU5y"
   },
-  "organic_results": [
+  "dmca_messages": {
+   "messages": [
+    {
+     "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 3 already displayed.If you like, you can repeat the search with the omitted results included.",
+     "highlighted_words": [
+      {
+       "link": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+india&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntjsBwrvSGnqy5J7WLhC1HsX83srQ:1790780593732&filter=0",
+       "text": "repeat the search with the omitted results included"
+      }
+     ]
+    }
+   ],
+   "title": "Notices about Filtered Results"
+  },
+  "inline_images": [
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "I carried on just as I had before, showing up whenever I wanted to, blaming public transportation or an earlier obligation running over. Like ...",
-      "icon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEwtFooIigoGAEAGglpAAzkyPct9tU_4y5Rz_2U5wzy8nsvAcGcslhWAAD-9gL-jvJchQ4IR_Qdvx0ss-iTn-cqePKcjn-9wZTFQQp-OgVgM9pvmvJUg6s0YeszcK1c9gqBVLxecoBROzdez1-6Hv_lRhb6MRBcA2GiRhRZM2oiUXhHWtm7fYyC-9YriFHUfjYQXlSFa_P-F7OkD7J9lZgWYpGN4XL5gBO5PyQ_7fvxfpMK_3SfquJWHgb99_lf8KJef0-l6ou-ZSnYgAAAAA.webp",
-      "source_info_link": "https://granta.com/running-behind/"
-     }
-    },
-    "date": "Apr 1, 2026",
-    "displayed_link": "https://granta.com › running-behind",
-    "favicon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEwtFooIigoGAEAGglpAAzkyPct9tU_4y5Rz_2U5wzy8nsvAcGcslhWAAD-9gL-jvJchQ4IR_Qdvx0ss-iTn-cqePKcjn-9wZTFQQp-OgVgM9pvmvJUg6s0YeszcK1c9gqBVLxecoBROzdez1-6Hv_lRhb6MRBcA2GiRhRZM2oiUXhHWtm7fYyC-9YriFHUfjYQXlSFa_P-F7OkD7J9lZgWYpGN4XL5gBO5PyQ_7fvxfpMK_3SfquJWHgb99_lf8KJef0-l6ou-ZSnYgAAAAA.webp",
-    "link": "https://granta.com/running-behind/",
-    "position": 1,
-    "read_more_link": "https://granta.com/running-behind/#:~:text=I%20did%20not%20change%20my,earlier%20obligation%20running%20over.%20Like",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVsX96OB73QdCVyeR8WeLnkjA22e3nDkgMw0F9wQyDQ1tWTAZQ_T-fYk-STDvScYcljms711H2G2KtYNvFd1QatQEJ85mO-tCvUN321H3P9h5H2_u6ww&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8QFnoECB0QAQ&uoh=1",
-    "snippet": "I carried on just as I had before, showing up whenever I wanted to, blaming public transportation or an earlier obligation running over. Like ...",
-    "snippet_highlighted_words": [
-     "on",
-     "running"
-    ],
-    "source": "Granta",
-    "title": "Running Behind | Stephanie Wambugu"
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3820797341066897885",
+    "source": "https://www.instagram.com/reel/DUGMvAxDKnd/",
+    "source_name": "Instagram",
+    "thumbnail": "https://serpapi.com/searches/6abd24b165f70183ded46948/images/TBv_Zl1qGPXRKImCwks7DHHo1Zt7alCeVr5OUUvVZFU.jpeg",
+    "title": "#Ad Running in the range of 3000 that actually look worth 15,000. ,  @yoho_lifestyle sent over these shoes, and I used them for a couple of  weeks. My honest review in the video as per my experience ..."
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Born in the Swiss Alps, On running shoes feature the first patented cushioning system which is activated only when you need it - during the landing.",
-      "icon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAACQBQCdASocABwAPtEwtFooIigoGAEAGglpAARCj_Y-VpBwA1OsrCRFeHPRDhmmZ9o29Q2AAAD-93lqoMbImGw-sAfsom9vlJGPB49EIuPxWd3X14ahVz5OSSXnfHjY-XS3UCG2EzOaBnkwRdBlNX4ivpAvjQ7MYKwN6pfTjvPwkumNXzPeZw5xQ97HkWp1fbmyf_v1QfzY15NjeDAayPFaOF00rt_5X__L04eBEuzNlChehzWX5A19_55cz1swMTf38Jm6iUsy7Do39mHoh3xp7z7AAA.webp",
-      "source_info_link": "https://www.on.com/?srsltid=AU7gw4VXDjw0W16n0WZ3aDVQWoDp6XoebvU-jfuRcPX9mxV5ZHuvOPo-"
-     }
-    },
-    "displayed_link": "https://www.on.com",
-    "favicon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAACQBQCdASocABwAPtEwtFooIigoGAEAGglpAARCj_Y-VpBwA1OsrCRFeHPRDhmmZ9o29Q2AAAD-93lqoMbImGw-sAfsom9vlJGPB49EIuPxWd3X14ahVz5OSSXnfHjY-XS3UCG2EzOaBnkwRdBlNX4ivpAvjQ7MYKwN6pfTjvPwkumNXzPeZw5xQ97HkWp1fbmyf_v1QfzY15NjeDAayPFaOF00rt_5X__L04eBEuzNlChehzWX5A19_55cz1swMTf38Jm6iUsy7Do39mHoh3xp7z7AAA.webp",
-    "link": "https://www.on.com/?srsltid=AU7gw4VXDjw0W16n0WZ3aDVQWoDp6XoebvU-jfuRcPX9mxV5ZHuvOPo-",
-    "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFWkIaNYw2QbXr-k0imqRXqP5MNRvPoOVljGV4jqbvcvmiQDI1ko-Kf5vNq1HWybio_vX-gZyz9-7u3RwX0nIlhInt1NpNmQ2mRM9yLYWUKaWODy5yVUh-7tYofukIzudPLwT9d_H-DzlobH3Lc1wl_iwe_0wnVzzXNztgvDEGc5yLzcjvC28nQ&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8QFnoECBsQAQ&uoh=1",
-    "snippet": "Born in the Swiss Alps, On running shoes feature the first patented cushioning system which is activated only when you need it - during the landing.",
-    "snippet_highlighted_words": [
-     "On running shoes feature the first patented cushioning system"
-    ],
-    "source": "on.com",
-    "title": "On | Swiss Performance Running Shoes & Clothing"
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DVsg8zREbUD/0/image.jpg",
+    "source": "https://www.instagram.com/popular/best-running-shoes-under-3000-rupees-india/",
+    "source_name": "Instagram",
+    "thumbnail": "https://serpapi.com/searches/6abd24b165f70183ded46948/images/4Kx5hPV6vlFkja8lAlGKvCDxluPOzHewN9Irbam8fQg.jpeg",
+    "title": "Best Running Shoes Under 3000 Rupees India"
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Your running form might be costing you speed — and you don't even know it. Runna head coach Ben breaks down the most common running form ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=btKgKarX5CY"
-     }
-    },
-    "date": "Apr 10, 2026",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=btKgKarX5CY",
-    "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV1ISO4uJBoq46EHg-e-c5b5x5K2j2wyg6z4rIhT05Vd4MQMcCXnntxG20rRXJR4i-aAM3Q6aMKCCzxjkrYQNDu-kwC4yhPsDcyB_z6HgcGcU4uObp2hEecOCYoj_ALw&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8QFnoECCIQAQ&uoh=1",
-    "snippet": "Your running form might be costing you speed — and you don't even know it. Runna head coach Ben breaks down the most common running form ...",
-    "snippet_highlighted_words": [
-     "running",
-     "running"
-    ],
-    "source": "YouTube",
-    "title": "How to Run with PERFECT FORM | Coach Explains"
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1579074418969614",
+    "source": "https://www.facebook.com/groups/didyouworkout/posts/1408067129312027/",
+    "source_name": "Facebook",
+    "thumbnail": "https://serpapi.com/searches/6abd24b165f70183ded46948/images/Y5s6sc22TlfqJMMc1KcrwYJzjP1NTxQqA-3OhJNk7Io.jpeg",
+    "title": "Dear runners what's the best running shoes to buy under 6K ..."
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "How PRO Runners Run SLOW with Perfect Running Form. James Dunne · 76K views ; How to Become A Glute Dominant Runner. Barefoot Strength · 613K views.",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=U11DnvcBvSo"
-     }
-    },
-    "date": "Aug 25, 2026",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=U11DnvcBvSo",
-    "position": 4,
-    "read_more_link": "https://www.youtube.com/watch?v=U11DnvcBvSo#:~:text=How%20PRO%20Runners%20Run%20SLOW,James%20Dunne%E2%80%A276K%20views&text=James%20Dunne%E2%80%A276K%20views&text=How%20to%20Become%20A%20Glute,Barefoot%20Strength%E2%80%A2613K%20views&text=Barefoot%20Strength%E2%80%A2613K%20views",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV5h1QU1jqBgUW3Isr9hXa4EzFDS8kFPexkcnq2-Kw97V8EvirEeqt59wJkMtt5mvJLTuFhEn-g4PtvLYaKX-ItXkSBcHkMZQ1Yg5mti62oVmbSyZ0Nt35JWpnyKPrUg&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8QFnoECCAQAQ&uoh=1",
-    "snippet": "How PRO Runners Run SLOW with Perfect Running Form. James Dunne · 76K views ; How to Become A Glute Dominant Runner. Barefoot Strength · 613K views.",
-    "snippet_highlighted_words": [
-     "Run",
-     "with",
-     "Running"
-    ],
-    "source": "YouTube",
-    "title": "The Secret to Running SLOW with Perfect Running Form"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Learn how to do a running stitch with this easy video tutorial. This is a great stitch for appliqués or just adding some detail to your ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=ui6cZF6GPgQ"
-     }
-    },
-    "date": "May 6, 2018",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=ui6cZF6GPgQ",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVOeyvpCgxQR52JUCV2sXPNoaZ9ym8P6LTMzVvESFonHIOUGaMTvlZ2DpOhndA8LgAotkqI8aIrJyEIst95PDNn3KqfMhFfV9Oh8d843_IiRwgO4ejZao1g1MLqm9ZAw&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8QFnoECB4QAQ&uoh=1",
-    "snippet": "Learn how to do a running stitch with this easy video tutorial. This is a great stitch for appliqués or just adding some detail to your ...",
-    "snippet_highlighted_words": [
-     "running",
-     "with"
-    ],
-    "source": "YouTube",
-    "title": "How to do a Running Stitch"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Provided to YouTube by Universal Music Group Running · Pearl Jam Running ℗ 2024 Monkeywrench, Inc., under exclusive license to Republic ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=H7UrYoOhCMA"
-     }
-    },
-    "date": "Mar 21, 2024",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=H7UrYoOhCMA",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV-oHOKdkRCiMYJVMpWHmft5biqn-3F34xVhKGvKXuObhB4gk1AyxBvxNCi4-z9gEvJvXKIwE9EDAC83xZSumHEHhwJnNrGV0LuQcnKsmcIOxT61w15nMgA0iqf-E7LA&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8QFnoECDUQAQ&uoh=1",
-    "snippet": "Provided to YouTube by Universal Music Group Running · Pearl Jam Running ℗ 2024 Monkeywrench, Inc., under exclusive license to Republic ...",
-    "snippet_highlighted_words": [
-     "Provided",
-     "Running",
-     "Running",
-     "under"
-    ],
-    "source": "YouTube",
-    "title": "Running"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Time flies so quickly, doesn't it? But Norah Jones remains as my crush, just like she was back in the 2000s when I was a teenager.",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=9TjrBFYqGNs"
-     }
-    },
-    "date": "Jan 18, 2024",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=9TjrBFYqGNs",
-    "position": 7,
-    "read_more_link": "https://www.youtube.com/watch?v=9TjrBFYqGNs#:~:text=Time%20flies%20so%20quickly%2C%20doesn't,when%20I%20was%20a%20teenager.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVZKprdlFei_MwabkudZEcrVITgfjYCpF-yGS-96U5XcjM-mg2lMv8dtsKk8jWmt8Tu3RIn8RLZDY6N-MwVIFEPO9rXTHDNFH4L3RJ6y5e0UO4Ax1dGf3faEtkfWCTWQ&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8QFnoECDYQAQ&uoh=1",
-    "snippet": "Time flies so quickly, doesn't it? But Norah Jones remains as my crush, just like she was back in the 2000s when I was a teenager.",
-    "source": "YouTube",
-    "title": "Norah Jones - Running"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Can Izzy Hill break the elusive 20-minute barrier in the 5K? In this video, Izzy pushes herself to the absolute limit, guided and paced by ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=79-OxBL0K3Y"
-     }
-    },
-    "date": "Sep 24, 2025",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=79-OxBL0K3Y",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVNomVv2YKWmMyN8y34zh0OMpN2W4Y-Xc2Xa-qc_4jJydcfJ1pF5-nzAjgjTLvB24n-bQFPSyKczm6E58GkHE02M82FdqA5vLHOjHAWo8lTffK3vfV3PyE9poGpk1OXg&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8QFnoECDkQAQ&uoh=1",
-    "snippet": "Can Izzy Hill break the elusive 20-minute barrier in the 5K? In this video, Izzy pushes herself to the absolute limit, guided and paced by ...",
-    "source": "YouTube",
-    "title": "This is What it Takes to Run a Sub-20 5k!"
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3961146060160599482",
+    "source": "https://www.instagram.com/reel/DWlsSshAaC9/",
+    "source_name": "Instagram",
+    "thumbnail": "https://serpapi.com/searches/6abd24b165f70183ded46948/images/QliUPXsYCznqMgmsNGRgrFDEs66A3jAZFK4RBF4PxJw.jpeg",
+    "title": "Continuing the running shoe price series with proper running ..."
    }
   ],
-  "pagination": {
-   "current": 1,
-   "next": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+india&sca_esv=932ce377fb08cd9d&ei=iMmvas-TJu2kqtsP1s36-A4&start=10&sa=N&sstk=AS6-VmJu5V8VpqsxgHn7Dn8vZ64DXAUQj2LJ_rc65yk6aiZPrC9bgPBvK-lachkahME7-EVkliiJe7V5h4_AjuGkNYHVu0F0W6rEwQ&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8Q8NMDegQINBAK",
-   "other_pages": {
-    "2": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+india&sca_esv=932ce377fb08cd9d&ei=iMmvas-TJu2kqtsP1s36-A4&start=10&sa=N&sstk=AS6-VmJu5V8VpqsxgHn7Dn8vZ64DXAUQj2LJ_rc65yk6aiZPrC9bgPBvK-lachkahME7-EVkliiJe7V5h4_AjuGkNYHVu0F0W6rEwQ&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8Q8tMDegQINBAE",
-    "3": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+india&sca_esv=932ce377fb08cd9d&ei=iMmvas-TJu2kqtsP1s36-A4&start=20&sa=N&sstk=AS6-VmJu5V8VpqsxgHn7Dn8vZ64DXAUQj2LJ_rc65yk6aiZPrC9bgPBvK-lachkahME7-EVkliiJe7V5h4_AjuGkNYHVu0F0W6rEwQ&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8Q8tMDegQINBAG",
-    "4": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+india&sca_esv=932ce377fb08cd9d&ei=iMmvas-TJu2kqtsP1s36-A4&start=30&sa=N&sstk=AS6-VmJu5V8VpqsxgHn7Dn8vZ64DXAUQj2LJ_rc65yk6aiZPrC9bgPBvK-lachkahME7-EVkliiJe7V5h4_AjuGkNYHVu0F0W6rEwQ&ved=2ahUKEwjP96PnjP2WAxVtkmoFHdamHu8Q8tMDegQINBAI"
+  "organic_results": [
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVmx4Mmc2Qkc2S2pmNnBTT0pCU3N6U09JSEtOWEl5N3hWX0V3T1hpeWhxaEJqdkNSSG05bFk0bm5LX2poYkg5SUdHQkJSN242bHFsN0FwTFpFWG94TE02a0FQRWJDemttcHpHeW94NWtscHdwai1zVWlLeU5YWTdxU3kwWHU5QXcSBBoCCAAaxAUSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCeBQgAEAAYACAAKkQKB3J1bm5pbmcVTlPsQBoIYXRobGV0aWMaB2pvZ2dpbmcaA3J1bhoGc3BvcnRzGgZ0ZW5uaXMaDHJ1bm5pbmdzaG9lcyogCgVzaG9lcxUqtf1AGgRzaG9lGgxydW5uaW5nc2hvZXMqQwoJYXZhaWxhYmxlFQAAAAAaDGF2YWlsYWJpbGl0eRoFZm91bmQaB29mZmVyZWQaCHByb3ZpZGVkGgNidXkaBGJlc3QqFgoFdW5kZXIVAAAAABoCb24aBHdpdGgqGgoEMzAwMBUAAAAAGgIzaxoJaXY7bjszMDAwKjEKBnJ1cGVlcxUAAAAAGgJycxoFcnVwZWUaC2l2O3A7cnVwZWVzGgVwcmljZRoDaW5yKhUKBWluZGlhFc3M3D8aB2luZGlhJ3MylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWbHgyZzZCRzZLamY2cFNPSkJTc3pTT0lIS05YSXk3eFZfRXdPWGl5aHFoQmp2Q1JIbTlsWTRubktfamhiSDlJR0dCQlI3bjZscWw3QXBMWkVYb3hMTTZrQVBFYkN6a21wekd5b3g1a2xwd3BqLXNVaUt5TlhZN3FTeTBYdTlBdzoiPGI-UnVubmluZyBTaG9lczwvYj4gU2hvZSAtIE15bnRyYUKiATxiPlJ1biBEZWZ5IFdvbWVuJiMzOTtzIFJ1bm5pbmcgU2hvZXM8L2I-LiDigrkzLDk5NS4gTmlrZSBNZW4mIzM5O3MgUm9hZCBSdW5uaW5nIFNob2VzLiA0LjUuIDM4NS4gTmlrZS4gTWVuJiMzOTtzIFJvYWQgUnVubmluZyBTaG9lcy4g4oK5Myw2OTUuIOKCuTMsMzI2LiAxMCUgT0ZGLlICb25SBHdpdGgiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVmx4Mmc2Qkc2S2pmNnBTT0pCU3N6U09JSEtOWEl5N3hWX0V3T1hpeWhxaEJqdkNSSG05bFk0bm5LX2poYkg5SUdHQkJSN242bHFsN0FwTFpFWG94TE02a0FQRWJDemttcHpHeW94NWtscHdwai1zVWlLeU5YWTdxU3kwWHU5QXcSBBoCCAAaxAUSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCeBQgAEAAYACAAKkQKB3J1bm5pbmcVTlPsQBoIYXRobGV0aWMaB2pvZ2dpbmcaA3J1bhoGc3BvcnRzGgZ0ZW5uaXMaDHJ1bm5pbmdzaG9lcyogCgVzaG9lcxUqtf1AGgRzaG9lGgxydW5uaW5nc2hvZXMqQwoJYXZhaWxhYmxlFQAAAAAaDGF2YWlsYWJpbGl0eRoFZm91bmQaB29mZmVyZWQaCHByb3ZpZGVkGgNidXkaBGJlc3QqFgoFdW5kZXIVAAAAABoCb24aBHdpdGgqGgoEMzAwMBUAAAAAGgIzaxoJaXY7bjszMDAwKjEKBnJ1cGVlcxUAAAAAGgJycxoFcnVwZWUaC2l2O3A7cnVwZWVzGgVwcmljZRoDaW5yKhUKBWluZGlhFc3M3D8aB2luZGlhJ3MylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWbHgyZzZCRzZLamY2cFNPSkJTc3pTT0lIS05YSXk3eFZfRXdPWGl5aHFoQmp2Q1JIbTlsWTRubktfamhiSDlJR0dCQlI3bjZscWw3QXBMWkVYb3hMTTZrQVBFYkN6a21wekd5b3g1a2xwd3BqLXNVaUt5TlhZN3FTeTBYdTlBdzoiPGI-UnVubmluZyBTaG9lczwvYj4gU2hvZSAtIE15bnRyYUKiATxiPlJ1biBEZWZ5IFdvbWVuJiMzOTtzIFJ1bm5pbmcgU2hvZXM8L2I-LiDigrkzLDk5NS4gTmlrZSBNZW4mIzM5O3MgUm9hZCBSdW5uaW5nIFNob2VzLiA0LjUuIDM4NS4gTmlrZS4gTWVuJiMzOTtzIFJvYWQgUnVubmluZyBTaG9lcy4g4oK5Myw2OTUuIOKCuTMsMzI2LiAxMCUgT0ZGLlICb25SBHdpdGgiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Run Defy Women's Running Shoes. ₹3,995. Nike Men's Road Running Shoes. 4.5. 385. Nike. Men's Road Running Shoes. ₹3,695. ₹3,326. 10% OFF.",
+      "icon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMNJAC7AN5i8kAmcBf6f2TVkY7mfbTAGafmAAAD-9gjvd-9io-KSYCbRaRb4ml56i008EH950Uup4h0WsqK1IfzHzEXOt7JftYcrbWy3Fpm7HIVLjn3pW4zL9XZQQN6eZ_7ScFO0m5Bbb_lBcVWHvvLqm4u-mu4GHm9No2--2JJQ9bNwYjC9isIXgGiAv97lt3SthVVq_DIUV5w3P_NiS5q_841PE5k043VKRei6gK1qDZsrvH_1Zy3-u5uvSsAAAA.webp",
+      "source_info_link": "https://www.myntra.com/running-shoes-shoe"
+     }
+    },
+    "displayed_link": "https://www.myntra.com › running-shoes-shoe",
+    "favicon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMNJAC7AN5i8kAmcBf6f2TVkY7mfbTAGafmAAAD-9gjvd-9io-KSYCbRaRb4ml56i008EH950Uup4h0WsqK1IfzHzEXOt7JftYcrbWy3Fpm7HIVLjn3pW4zL9XZQQN6eZ_7ScFO0m5Bbb_lBcVWHvvLqm4u-mu4GHm9No2--2JJQ9bNwYjC9isIXgGiAv97lt3SthVVq_DIUV5w3P_NiS5q_841PE5k043VKRei6gK1qDZsrvH_1Zy3-u5uvSsAAAA.webp",
+    "link": "https://www.myntra.com/running-shoes-shoe",
+    "position": 1,
+    "read_more_link": "https://www.myntra.com/running-shoes-shoe#:~:text=Run%20Defy%20Women's%20Running%20Shoes,10%25%20OFF",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVlx2g6BG6Kjf6pSOJBSszSOIHKNXIy7xV_EwOXiyhqhBjvCRHm9lY4nnK_jhbH9IGGBBR7n6lql7ApLZEXoxLM6kAPEbCzkmpzGyox5klpwpj-sUiKyNXY7qSy0Xu9Aw&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQFnoECC8QAQ&uoh=1",
+    "snippet": "Run Defy Women's Running Shoes. ₹3,995. Nike Men's Road Running Shoes. 4.5. 385. Nike. Men's Road Running Shoes. ₹3,695. ₹3,326. 10% OFF.",
+    "snippet_highlighted_words": [
+     "Run Defy Women's Running Shoes"
+    ],
+    "source": "Myntra",
+    "thumbnail": "https://serpapi.com/searches/6abd24b165f70183ded46948/images/u-Q42bWsiiG4rnK90Y2h2Y3I-h2nwR0XQ5MYTZkd4Kc.jpeg",
+    "title": "Buy Running Shoes Shoe online in India"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVkpmdmFzb1k2aTdEaW1FNmh3RkhvMWNhNlZuYVpzS2piLU5jRENsanlWaTBWWVZMYzJnYUR3Uncwd2JTTnBvSzNFQXN6enozOFR3RlFOdnBSVUZIZlA5SmtpYmltbnZRUkxXX1RGUW5MWklVT29mODY0amU5SmNibkxLbGY2d0oyMWtFRk1OWXRwMGcSBBoCCAAazwUSAggAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKcFCAAQABgAIAAqRAoHcnVubmluZxUCK7tAGghhdGhsZXRpYxoHam9nZ2luZxoDcnVuGgZzcG9ydHMaBnRlbm5pcxoMcnVubmluZ3Nob2VzKiAKBXNob2VzFUpbxkAaBHNob2UaDHJ1bm5pbmdzaG9lcypDCglhdmFpbGFibGUVi4kjPBoMYXZhaWxhYmlsaXR5GgVmb3VuZBoHb2ZmZXJlZBoIcHJvdmlkZWQaA2J1eRoEYmVzdCoWCgV1bmRlchUAAAAAGgJvbhoEd2l0aCoaCgQzMDAwFaQBJj0aAjNrGglpdjtuOzMwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVAr8nQBoHaW5kaWEnczKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZKZnZhc29ZNmk3RGltRTZod0ZIbzFjYTZWbmFac0tqYi1OY0RDbGp5VmkwVllWTGMyZ2FEd1J3MHdiU05wb0szRUFzenp6MzhUd0ZRTnZwUlVGSGZQOUpraWJpbW52UVJMV19URlFuTFpJVU9vZjg2NGplOUpjYm5MS2xmNndKMjFrRUZNTll0cDBnOjg8Yj5SdW5uaW5nIFNob2VzPC9iPiBpbiBOb2lkYSwgVXR0YXIgUHJhZGVzaCAtIEluZGlhTUFSVEKJAVByaWNlIGluIE5vaWRhOiDigrkgMyw2MDAvcGFpci4gPGI-QXZhaWxhYmxlIFByaWNlIFJhbmdlcyBCZWxvdyDigrk0MDAg4oK5NDAxIC0g4oK5ODAwIOKCuTgwMSAtIOKCuTMsMDAwPC9iPiBBYm92ZSDigrkzLDAwMSBSdW5uaW5nIFNob2VzUgR3aXRoUgJvbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVkpmdmFzb1k2aTdEaW1FNmh3RkhvMWNhNlZuYVpzS2piLU5jRENsanlWaTBWWVZMYzJnYUR3Uncwd2JTTnBvSzNFQXN6enozOFR3RlFOdnBSVUZIZlA5SmtpYmltbnZRUkxXX1RGUW5MWklVT29mODY0amU5SmNibkxLbGY2d0oyMWtFRk1OWXRwMGcSBBoCCAAazwUSAggAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKcFCAAQABgAIAAqRAoHcnVubmluZxUCK7tAGghhdGhsZXRpYxoHam9nZ2luZxoDcnVuGgZzcG9ydHMaBnRlbm5pcxoMcnVubmluZ3Nob2VzKiAKBXNob2VzFUpbxkAaBHNob2UaDHJ1bm5pbmdzaG9lcypDCglhdmFpbGFibGUVi4kjPBoMYXZhaWxhYmlsaXR5GgVmb3VuZBoHb2ZmZXJlZBoIcHJvdmlkZWQaA2J1eRoEYmVzdCoWCgV1bmRlchUAAAAAGgJvbhoEd2l0aCoaCgQzMDAwFaQBJj0aAjNrGglpdjtuOzMwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVAr8nQBoHaW5kaWEnczKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZKZnZhc29ZNmk3RGltRTZod0ZIbzFjYTZWbmFac0tqYi1OY0RDbGp5VmkwVllWTGMyZ2FEd1J3MHdiU05wb0szRUFzenp6MzhUd0ZRTnZwUlVGSGZQOUpraWJpbW52UVJMV19URlFuTFpJVU9vZjg2NGplOUpjYm5MS2xmNndKMjFrRUZNTll0cDBnOjg8Yj5SdW5uaW5nIFNob2VzPC9iPiBpbiBOb2lkYSwgVXR0YXIgUHJhZGVzaCAtIEluZGlhTUFSVEKJAVByaWNlIGluIE5vaWRhOiDigrkgMyw2MDAvcGFpci4gPGI-QXZhaWxhYmxlIFByaWNlIFJhbmdlcyBCZWxvdyDigrk0MDAg4oK5NDAxIC0g4oK5ODAwIOKCuTgwMSAtIOKCuTMsMDAwPC9iPiBBYm92ZSDigrkzLDAwMSBSdW5uaW5nIFNob2VzUgR3aXRoUgJvbiICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Price in Noida: ₹ 3,600/pair. Available Price Ranges Below ₹400 ₹401 - ₹800 ₹801 - ₹3,000 Above ₹3,001 Running Shoes",
+      "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+      "source_info_link": "https://dir.indiamart.com/noida/running-shoes.html"
+     }
+    },
+    "displayed_link": "https://dir.indiamart.com › ... › Running Shoes",
+    "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+    "images": [
+     "https://serpapi.com/searches/6abd24b165f70183ded46948/images/u-Q42bWsiiG4rnK90Y2h2bkzGx75yuVgOKUWlOdq9MQ.jpeg"
+    ],
+    "link": "https://dir.indiamart.com/noida/running-shoes.html",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVJfvasoY6i7DimE6hwFHo1ca6VnaZsKjb-NcDCljyVi0VYVLc2gaDwRw0wbSNpoK3EAszzz38TwFQNvpRUFHfP9JkibimnvQRLW_TFQnLZIUOof864je9JcbnLKlf6wJ21kEFMNYtp0g&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQFnoECDEQAQ&uoh=1",
+    "snippet": "Price in Noida: ₹ 3,600/pair. Available Price Ranges Below ₹400 ₹401 - ₹800 ₹801 - ₹3,000 Above ₹3,001 Running Shoes",
+    "snippet_highlighted_words": [
+     "Available Price Ranges Below ₹400 ₹401 - ₹800 ₹801 - ₹3,000"
+    ],
+    "source": "IndiaMART",
+    "thumbnail": "https://serpapi.com/searches/6abd24b165f70183ded46948/images/u-Q42bWsiiG4rnK90Y2h2XFEOO9lwBuYWV0mXGtPMnA.jpeg",
+    "title": "Running Shoes in Noida, Uttar Pradesh"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkhRa0JKTlN6Y0pDZTBnc2RCaHJwMzBBTS13ekhCN19JT0poZmNNTmtUOW12dDM0R2NwME4tam55Q28ta2dSOVljUWFsbWRFVTVlTWlBbHZVVjJWTHJzV0xHLTVmRWtPcXRyRThsR192XzdXSjJEdjZDeWpIQWZYYkk5QkpicndSb3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkhRa0JKTlN6Y0pDZTBnc2RCaHJwMzBBTS13ekhCN19JT0poZmNNTmtUOW12dDM0R2NwME4tam55Q28ta2dSOVljUWFsbWRFVTVlTWlBbHZVVjJWTHJzV0xHLTVmRWtPcXRyRThsR192XzdXSjJEdjZDeWpIQWZYYkk5QkpicndSb3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_this_result": {
+     "source": {
+      "description": "5 RUNNING SHOES UNDER ₹2,000 IN INDIA 🇮🇳👟 5️⃣ Decathlon JogFlow 190.1 ・ 😅 4️⃣ Cult Quasar ✅ Lightweight ・ could be better 3️⃣ Action Turbo 501 / 504",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     }
+    },
+    "displayed_link": "26.9K+ likes · 8 months ago",
+    "duration": "1:14",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "link": "https://www.instagram.com/reel/DUGMvAxDKnd/",
+    "position": 3,
+    "snippet": "5 RUNNING SHOES UNDER ₹2,000 IN INDIA 🇮🇳👟 5️⃣ Decathlon JogFlow 190.1 ・ 😅 4️⃣ Cult Quasar ✅ Lightweight ・ could be better 3️⃣ Action Turbo 501 / 504",
+    "source": "Instagram · linensandsmoothies",
+    "thumbnail": "https://serpapi.com/searches/6abd24b165f70183ded46948/images/u-Q42bWsiiG4rnK90Y2h2b09l0Ts9hxHiuLZ7rvj7Js.jpeg",
+    "title": "#Ad Running in the range of 3000 that actually look worth ..."
    }
-  },
+  ],
   "perspectives": [
    {
     "author": "ONE CHANCE",
     "date": "1 month ago",
     "duration": "13:06",
     "extensions": [
-     "34.5K+ views "
+     "37.3K+ views "
     ],
     "link": "https://www.youtube.com/watch?v=CgQfNrKmhgM",
     "source": "YouTube",
     "thumbnails": [
-     "https://serpapi.com/searches/6aafc98803610a928c1f8fa2/images/w_sFw8YmJpTBJvBLcEU8469B9VuKe0EX6Ku0Ka3mW_U.jpeg"
+     "https://serpapi.com/searches/6abd24b165f70183ded46948/images/hbrcy0Q18A1h3ZwaHh1tSSlY8ojlde707YZm5VAPqdU.jpeg"
     ],
     "title": "5 Best Running Shoes For Men Under ₹3500 😍 Real Running Tech (Nike, Puma, Asics) | ONE CHANCE"
+   },
+   {
+    "author": "vishal_07_ayodhya",
+    "date": "Jul 16, 2026",
+    "duration": "0:47",
+    "extensions": [
+     "11.3K+ likes "
+    ],
+    "link": "https://www.instagram.com/reel/Da4YHp0Ro0L/",
+    "source": "Instagram",
+    "thumbnails": [
+     "https://serpapi.com/searches/6abd24b165f70183ded46948/images/GMMIChbXl3XVf4plJG50XwbBNbswppgIP4UqdfC-vlc.jpeg"
+    ],
+    "title": "3000 rs under best running shoes 👟 #shoes#sports#adidas#1600meter#explore"
    },
    {
     "author": "Style Drop",
     "date": "Jul 4, 2026",
     "duration": "13:03",
     "extensions": [
-     "8.2K+ views "
+     "8.3K+ views "
     ],
     "link": "https://www.youtube.com/watch?v=V9vrSq1dTUY",
     "source": "YouTube",
     "thumbnails": [
-     "https://serpapi.com/searches/6aafc98803610a928c1f8fa2/images/dOBozYny9-9bIrTY74sNooTGaxDWAtEhYGSY-mFZKVw.jpeg"
+     "https://serpapi.com/searches/6abd24b165f70183ded46948/images/1_Mbns8d5zTy_NaSLUhKliis665tB-z7YIaxJXhagMI.jpeg"
     ],
     "title": "Amazon Prime Day Sale! ⚡ Top 5 Running Shoes Under ₹3000 | Puma, Asics, Skechers 🏃‍♂️(UPTO 70%) Off"
+   }
+  ],
+  "refine_this_search": [
+   {
+    "link": "https://www.google.com/search?q=men's+running+shoes+available+under+3000+rupees+india&shoprs=CAEYASovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyFQgBEgVNZW4nczoKCICjPhCBoz4wBVjIwiBgAQ&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAB6BAgXEAI",
+    "query": "Men's",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=men%27s+running+shoes+available+under+3000+rupees+india"
    },
    {
-    "author": "The Sneaker Guy",
-    "date": "Jul 26, 2026",
-    "duration": "5:41",
-    "extensions": [
-     "18.2K+ views "
-    ],
-    "link": "https://www.youtube.com/watch?v=M-tb2BaiEwg",
-    "source": "YouTube",
-    "thumbnails": [
-     "https://serpapi.com/searches/6aafc98803610a928c1f8fa2/images/DUFApBmruDWH_SD_hKqoYY8ow9-iEhr6bfYZeH2OXzU.jpeg"
-    ],
-    "title": "Top 3 BEST SNEAKERS Under ₹3,000 in 2026 🔥⭐ (Best Overall)",
-    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRRd4IG-jMZv8JQJFBn989VRlchdODgRXvmBQ"
+    "link": "https://www.google.com/search?q=women's+running+shoes+available+under+3000+rupees+india&shoprs=CAEYASovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyFwgBEgdXb21lbidzOgoIgKM-EIKjPjAFWMjCIGAB&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAF6BAgXEAM",
+    "query": "Women's",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=women%27s+running+shoes+available+under+3000+rupees+india"
    },
    {
-    "author": "Style Drop",
-    "date": "1 month ago",
-    "duration": "9:59",
-    "extensions": [
-     "4.6K+ views "
-    ],
-    "link": "https://www.youtube.com/watch?v=_AqbI-kIeOs",
-    "source": "YouTube",
-    "thumbnails": [
-     "https://img.youtube.com/vi/_AqbI-kIeOs/hqdefault.jpg"
-    ],
-    "title": "Best 5 Running Shoes Under ₹4000 (Flipkart/Myntra Sale) | Adidas, Asics, Puma & Skechers",
-    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQgSuS4kaZUPKt1ghbaVywl80OXZn-3Y4Ce6A"
+    "link": "https://www.google.com/search?q=kids'+running+shoes+available+under+3000+rupees+india&shoprs=CAEYASovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyFQgBEgVLaWRzJzoKCICjPhCEoz4wBVjIwiBgAQ&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAJ6BAgXEAQ",
+    "query": "Kids'",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=kids%27+running+shoes+available+under+3000+rupees+india"
+   },
+   {
+    "link": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+india+sale&shoprs=CAESBEoCGAEYBiovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyEwgGEgdPbiBzYWxlGAIiBEoCGAFYyMIgYAE&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAN6BAgXEAU",
+    "query": "On sale",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=running+shoes+available+under+3000+rupees+india+sale"
+   },
+   {
+    "link": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+india+nearby&shoprs=CAEYAyovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyDAgDEgZOZWFyYnkYAljIwiBgAQ&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAR6BAgXEAY",
+    "query": "Nearby",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=running+shoes+available+under+3000+rupees+india+nearby"
+   },
+   {
+    "link": "https://www.google.com/search?q=black+running+shoes+available+under+3000+rupees+india&shoprs=CAEYASovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyFwgBEgVCbGFjazoMCNiM9QEQ5Yr1ATALWMjCIGAB&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAV6BAgXEAc",
+    "query": "Black",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=black+running+shoes+available+under+3000+rupees+india"
+   },
+   {
+    "link": "https://www.google.com/search?q=boys'+running+shoes+available+under+3000+rupees+india&shoprs=CAEYASovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyFQgBEgVCb3lzJzoKCICjPhCFoz4wBVjIwiBgAQ&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAZ6BAgXEAg",
+    "query": "Boys'",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=boys%27+running+shoes+available+under+3000+rupees+india"
+   },
+   {
+    "link": "https://www.google.com/search?q=white+running+shoes+available+under+3000+rupees+india&shoprs=CAEYASovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyFwgBEgVXaGl0ZToMCNiM9QEQoYv1ATALWMjCIGAB&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAd6BAgXEAk",
+    "query": "White",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=white+running+shoes+available+under+3000+rupees+india"
+   },
+   {
+    "link": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+for+athletics+india&shoprs=CAEYASovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyIQgBEg1Gb3IgQXRobGV0aWNzGAI6DAiRvrYCEJK-tgIwA1jIwiBgAQ&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAh6BAgXEAo",
+    "query": "For Athletics",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=running+shoes+available+under+3000+rupees+for+athletics+india"
+   },
+   {
+    "link": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+india&shoprs=CAESDZoBCgoIEAI4AUAFSAEYFCovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyJggUEg1HZXQgaXQgYnkgRnJpIg2aAQoKCBACOAFABUgBKgQQARgBYAE&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAl6BAgXEAs",
+    "query": "Get it by Fri",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=running+shoes+available+under+3000+rupees+india"
+   },
+   {
+    "link": "https://www.google.com/search?q=blue+running+shoes+available+under+3000+rupees+india&shoprs=CAEYASovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyFggBEgRCbHVlOgwI2Iz1ARDmivUBMAtYyMIgYAE&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAp6BAgXEAw",
+    "query": "Blue",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blue+running+shoes+available+under+3000+rupees+india"
+   },
+   {
+    "link": "https://www.google.com/search?q=cushioning+running+shoes+available+under+3000+rupees+india&shoprs=CAEYASovcnVubmluZyBzaG9lcyBhdmFpbGFibGUgdW5kZXIgMzAwMCBydXBlZXMgaW5kaWEyHAgBEgpDdXNoaW9uaW5nOgwIo_OcAxCg9ZwDMABYyMIgYAE&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQip4GKAt6BAgXEA0",
+    "query": "Cushioning",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cushioning+running+shoes+available+under+3000+rupees+india"
+   }
+  ],
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFGbFJXV0ZWTnpBM1ZsWlFiVTR3Ym1GS1NtazNSRVZxWnpSRmJVUTNXakZvWXkxZlRYcFJMVEZTUVVKS1MwZGxaVEZDZDI5UUxVczRNSHBYU2kwNU1VRnRkVGcxV0V3emNtNTZkbFJJV0V4NGVVOUxjMVZLWDJOV1VSSVhjMU5UT1dGMmFWVk1UVFpzY1hSelVEUlpYMHAzUVZVYUlrRkVjM0k1WmxKYVExSnRhVTVmZW1ocmFsOXFhbVJqVkc5elQxVldZakY1ZW1jIiwiZmN2IjoiMyIsImVpIjoic1NTOWF2aVVMTTZscXRzUDRZX0p3QVUiLCJxYyI6IkNpOXlkVzV1YVc1bklITm9iMlZ6SUdGMllXbHNZV0pzWlNCMWJtUmxjaUF6TURBd0lISjFjR1ZsY3lCcGJtUnBZUkFBZlRySVBqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgcnVubmluZyBzaG9lcyB1bmRlciAzMDAwIHJ1cGVlcyBpbiBJbmRpYT8iLCJsayI6IkdpWmlaWE4wSUhKMWJtNXBibWNnYzJodlpYTWdkVzVrWlhJZ016QXdNQ0JwYmlCcGJtUnBZUSIsImJzIjoiYy1OSzU3SU96MGdzVVVnc1NsVW95VWhWU0VvdExsRW9LczNMeTh4TFZ5ak95RTh0VmlqTlMwa3RVakEyTURBQVNoU2tBa1V5OHhRODgxSXlFLTJOTktUVThPc0FLczBFS2VXSzVUTEJ0Q2d4TFMyX0tDVXhLU2NWelFTRURhcFN5b1NVZ294MzVGSURHLS1YbVowS2xRRFpoT0YyZXlOeEtkRThoQ0tFQWk2aWc4S0U1S0F3UVE0S0FVWUEiLCJpZCI6ImZjX3NTUzlhdmlVTE02bHF0c1A0WV9Kd0FVXzUifQ==",
+    "page_token": "EDzHc3icHdBtbpswGABg7TL92WAQ2YgUVSPgsql4tc1rwH8mYkNoMB9q3PDxb1fYGXaqnWbSniM8v_6Yt6H7--l3a-10O-x28zw_XsbxYupHNfa76rYOaqcqY86V6g77z3v01KhjfFfh6V2FFKZJRMzhHfuogS0ZyJHH1PJevuaxRLVgOO0slZsGhlkEzkLzZHIKN6Dcwy6J2h8Sly51TARX1tSDLM6wxLoPrqLTIu0RVYmy1NUmK0gEyfcSRPBRGvNCNsllHrzy3A_Tvo3BY5Mqvs5npEOeyKEcSKUGc89huvITcjIUXiHBo362WAuCFJ5WHqWefPYNF_gEmVmpE7zU2Eju3nyN6Jb2ZE_zFnGvzSD-svJOhnGrN0CpXxZyErAQ0i-LTggl2DR80KFg4xsFtqmr6UUcOJk7rqpTfuFaPzOlx8Q3CzmCM5C48sDK-aFR96P38P_6-LPp7WF6Hy__ACYOjHc",
+    "question": "What are the best running shoes under 3000 rupees in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EDzHc3icHdBtbpswGABg7TL92WAQ2YgUVSPgsql4tc1rwH8mYkNoMB9q3PDxb1fYGXaqnWbSniM8v_6Yt6H7--l3a-10O-x28zw_XsbxYupHNfa76rYOaqcqY86V6g77z3v01KhjfFfh6V2FFKZJRMzhHfuogS0ZyJHH1PJevuaxRLVgOO0slZsGhlkEzkLzZHIKN6Dcwy6J2h8Sly51TARX1tSDLM6wxLoPrqLTIu0RVYmy1NUmK0gEyfcSRPBRGvNCNsllHrzy3A_Tvo3BY5Mqvs5npEOeyKEcSKUGc89huvITcjIUXiHBo362WAuCFJ5WHqWefPYNF_gEmVmpE7zU2Eju3nyN6Jb2ZE_zFnGvzSD-svJOhnGrN0CpXxZyErAQ0i-LTggl2DR80KFg4xsFtqmr6UUcOJk7rqpTfuFaPzOlx8Q3CzmCM5C48sDK-aFR96P38P_6-LPp7WF6Hy__ACYOjHc",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFGbFJXV0ZWTnpBM1ZsWlFiVTR3Ym1GS1NtazNSRVZxWnpSRmJVUTNXakZvWXkxZlRYcFJMVEZTUVVKS1MwZGxaVEZDZDI5UUxVczRNSHBYU2kwNU1VRnRkVGcxV0V3emNtNTZkbFJJV0V4NGVVOUxjMVZLWDJOV1VSSVhjMU5UT1dGMmFWVk1UVFpzY1hSelVEUlpYMHAzUVZVYUlrRkVjM0k1WmxKYVExSnRhVTVmZW1ocmFsOXFhbVJqVkc5elQxVldZakY1ZW1jIiwiZmN2IjoiMyIsImVpIjoic1NTOWF2aVVMTTZscXRzUDRZX0p3QVUiLCJxYyI6IkNpOXlkVzV1YVc1bklITm9iMlZ6SUdGMllXbHNZV0pzWlNCMWJtUmxjaUF6TURBd0lISjFjR1ZsY3lCcGJtUnBZUkFBZlRySVBqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgcnVubmluZyBzaG9lcyB1bmRlciAzMDAwIHJ1cGVlcyBpbiBJbmRpYT8iLCJsayI6IkdpWmlaWE4wSUhKMWJtNXBibWNnYzJodlpYTWdkVzVrWlhJZ016QXdNQ0JwYmlCcGJtUnBZUSIsImJzIjoiYy1OSzU3SU96MGdzVVVnc1NsVW95VWhWU0VvdExsRW9LczNMeTh4TFZ5ak95RTh0VmlqTlMwa3RVakEyTURBQVNoU2tBa1V5OHhRODgxSXlFLTJOTktUVThPc0FLczBFS2VXSzVUTEJ0Q2d4TFMyX0tDVXhLU2NWelFTRURhcFN5b1NVZ294MzVGSURHLS1YbVowS2xRRFpoT0YyZXlOeEtkRThoQ0tFQWk2aWc4S0U1S0F3UVE0S0FVWUEiLCJpZCI6ImZjX3NTUzlhdmlVTE02bHF0c1A0WV9Kd0FVXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFGbFJXV0ZWTnpBM1ZsWlFiVTR3Ym1GS1NtazNSRVZxWnpSRmJVUTNXakZvWXkxZlRYcFJMVEZTUVVKS1MwZGxaVEZDZDI5UUxVczRNSHBYU2kwNU1VRnRkVGcxV0V3emNtNTZkbFJJV0V4NGVVOUxjMVZLWDJOV1VSSVhjMU5UT1dGMmFWVk1UVFpzY1hSelVEUlpYMHAzUVZVYUlrRkVjM0k1WmxKYVExSnRhVTVmZW1ocmFsOXFhbVJqVkc5elQxVldZakY1ZW1jIiwiZmN2IjoiMyIsImVpIjoic1NTOWF2aVVMTTZscXRzUDRZX0p3QVUiLCJxYyI6IkNpOXlkVzV1YVc1bklITm9iMlZ6SUdGMllXbHNZV0pzWlNCMWJtUmxjaUF6TURBd0lISjFjR1ZsY3lCcGJtUnBZUkFBZlRySVBqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgYWZmb3JkYWJsZSBydW5uaW5nIHNob2VzIGluIEluZGlhPyIsImxrIjoiR2lOaVpYTjBJR0ZtWm05eVpHRmliR1VnY25WdWJtbHVaeUJ6YUc5bGN5QnBibVJwWVEiLCJicyI6ImMtTks1N0lPejBnc1VVZ3NTbFVveVVoVlNFb3RMbEVvS3MzTHk4eExWeWpPeUU4dFZpak5TMGt0VWpBMk1EQUFTaFNrQWtVeTh4UTg4MUl5RS0yTk5LVFU4T3NBS3MwRUtlV0s1VExCdENneExTMl9LQ1V4S1NjVnpRU0VEYXBTeW9TVWdveDM1RklERy0tWG1aMEtsUURaaE9GMmV5TnhLZEU4aENLRUFpNmlnOEtFNUtBd1FRNEtBVVlBIiwiaWQiOiJmY19zU1M5YXZpVUxNNmxxdHNQNFlfSndBVV81In0=",
+    "page_token": "TcyRnXicHdBNcpswGIDhyWWyjBGCNPaMp1Niy-QHpQj0Adp0hGTAIH5i04C96xVyhpyqp6mn-2fxzvvnyxy65u_NZzWOw2m1WEzTdFf2fWn2d6pvF_J07tRCSWNyqZrV_bd79L1Q6-2H8h6Pygv5MMCGWVFMfdiQJEyyieHeyW1CYKNfoKOZrPU7t5VDN6zl_BmH1pOTW-gtg-pR7paOrtkxTpibtGqisExzEBHwJ6wt2lAOhDZs95agnwzE76vFAg_-K5Ao8Es7skzA4Ie7T2gcW2hOreetbB0nu4iDTumY-MCDWiPWAc5S0uV11V3bKtkoJ-iqc4aUnRPKI7QMZPMw57V2wQImaq9g2BxkKvwgbq6qAo20k9dQbyt94Shws1QMwGdK23nWPg0pMUXUaQ9Yfwg5u6jatLyjL4p4AbuUSHKFs9aMsGPneOtaCsRp3_S2mG4L9bHGt_9fr38V7bgajn35D_G8i1g",
+    "question": "What are the best affordable running shoes in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TcyRnXicHdBNcpswGIDhyWWyjBGCNPaMp1Niy-QHpQj0Adp0hGTAIH5i04C96xVyhpyqp6mn-2fxzvvnyxy65u_NZzWOw2m1WEzTdFf2fWn2d6pvF_J07tRCSWNyqZrV_bd79L1Q6-2H8h6Pygv5MMCGWVFMfdiQJEyyieHeyW1CYKNfoKOZrPU7t5VDN6zl_BmH1pOTW-gtg-pR7paOrtkxTpibtGqisExzEBHwJ6wt2lAOhDZs95agnwzE76vFAg_-K5Ao8Es7skzA4Ie7T2gcW2hOreetbB0nu4iDTumY-MCDWiPWAc5S0uV11V3bKtkoJ-iqc4aUnRPKI7QMZPMw57V2wQImaq9g2BxkKvwgbq6qAo20k9dQbyt94Shws1QMwGdK23nWPg0pMUXUaQ9Yfwg5u6jatLyjL4p4AbuUSHKFs9aMsGPneOtaCsRp3_S2mG4L9bHGt_9fr38V7bgajn35D_G8i1g",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFGbFJXV0ZWTnpBM1ZsWlFiVTR3Ym1GS1NtazNSRVZxWnpSRmJVUTNXakZvWXkxZlRYcFJMVEZTUVVKS1MwZGxaVEZDZDI5UUxVczRNSHBYU2kwNU1VRnRkVGcxV0V3emNtNTZkbFJJV0V4NGVVOUxjMVZLWDJOV1VSSVhjMU5UT1dGMmFWVk1UVFpzY1hSelVEUlpYMHAzUVZVYUlrRkVjM0k1WmxKYVExSnRhVTVmZW1ocmFsOXFhbVJqVkc5elQxVldZakY1ZW1jIiwiZmN2IjoiMyIsImVpIjoic1NTOWF2aVVMTTZscXRzUDRZX0p3QVUiLCJxYyI6IkNpOXlkVzV1YVc1bklITm9iMlZ6SUdGMllXbHNZV0pzWlNCMWJtUmxjaUF6TURBd0lISjFjR1ZsY3lCcGJtUnBZUkFBZlRySVBqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgYWZmb3JkYWJsZSBydW5uaW5nIHNob2VzIGluIEluZGlhPyIsImxrIjoiR2lOaVpYTjBJR0ZtWm05eVpHRmliR1VnY25WdWJtbHVaeUJ6YUc5bGN5QnBibVJwWVEiLCJicyI6ImMtTks1N0lPejBnc1VVZ3NTbFVveVVoVlNFb3RMbEVvS3MzTHk4eExWeWpPeUU4dFZpak5TMGt0VWpBMk1EQUFTaFNrQWtVeTh4UTg4MUl5RS0yTk5LVFU4T3NBS3MwRUtlV0s1VExCdENneExTMl9LQ1V4S1NjVnpRU0VEYXBTeW9TVWdveDM1RklERy0tWG1aMEtsUURaaE9GMmV5TnhLZEU4aENLRUFpNmlnOEtFNUtBd1FRNEtBVVlBIiwiaWQiOiJmY19zU1M5YXZpVUxNNmxxdHNQNFlfSndBVV81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFGbFJXV0ZWTnpBM1ZsWlFiVTR3Ym1GS1NtazNSRVZxWnpSRmJVUTNXakZvWXkxZlRYcFJMVEZTUVVKS1MwZGxaVEZDZDI5UUxVczRNSHBYU2kwNU1VRnRkVGcxV0V3emNtNTZkbFJJV0V4NGVVOUxjMVZLWDJOV1VSSVhjMU5UT1dGMmFWVk1UVFpzY1hSelVEUlpYMHAzUVZVYUlrRkVjM0k1WmxKYVExSnRhVTVmZW1ocmFsOXFhbVJqVkc5elQxVldZakY1ZW1jIiwiZmN2IjoiMyIsImVpIjoic1NTOWF2aVVMTTZscXRzUDRZX0p3QVUiLCJxYyI6IkNpOXlkVzV1YVc1bklITm9iMlZ6SUdGMllXbHNZV0pzWlNCMWJtUmxjaUF6TURBd0lISjFjR1ZsY3lCcGJtUnBZUkFBZlRySVBqOCIsInF1ZXN0aW9uIjoiV2hhdCBOaWtlIHNob2VzIGFyZSB1bmRlciAzMDAwIHJ1cGVlcz8iLCJsayI6IkdoVnVhV3RsSUhOb2IyVnpJSFZ1WkdWeUlETXdNREEiLCJicyI6ImMtTks1N0lPejBnc1VVZ3NTbFVveVVoVlNFb3RMbEVvS3MzTHk4eExWeWpPeUU4dFZpak5TMGt0VWpBMk1EQUFTaFNrQWtVeTh4UTg4MUl5RS0yTk5LVFU4T3NBS3MwRUtlV0s1VExCdENneExTMl9LQ1V4S1NjVnpRU0VEYXBTeW9TVWdveDM1RklERy0tWG1aMEtsUURaaE9GMmV5TnhLZEU4aENLRUFpNmlnOEtFNUtBd1FRNEtBVVlBIiwiaWQiOiJmY19zU1M5YXZpVUxNNmxxdHNQNFlfSndBVV81In0=",
+    "page_token": "bUTSkHicHdDfTqswHADg-DJeunVzM1mymDAof7RVGC3Qm5PSbuvYj1IVB3Lnu_hUPs05OW_w5fv-gbO9_N5cTd-7j81sNgzD3anrTnC4U107kx9fVs2UBKilumzWD2v0eFTb4DP2dm-xlzLnuJ_N96D6CgEhLe6lBfrMMWOlWNGC76oFgIx0mS7c-gXred3SXlvxIhgecsbNITSpDFDBrH7a54mfM-pXDRlUGyz2uVjTMMk1S2LRjoYsYVUDdQrhK12YVwL6i_iCy4lGwiZ-HeruOTe-Cs3EQ3M-FKgRlruaKaTmhlQ5TaWNR8KhJNjksqRP_xyJjGBHAjIVRYAkQ15g9MQQWVWlcJyNlLbjqCOaUgzHvdUez7pzyrJJNdByrEN2ySAtnMeaeJkF45Lh-L7G7r2O3H3amEAMt0d13S5v_39u_xzbfuPeu9Nf42eEcA",
+    "question": "What Nike shoes are under 3000 rupees?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bUTSkHicHdDfTqswHADg-DJeunVzM1mymDAof7RVGC3Qm5PSbuvYj1IVB3Lnu_hUPs05OW_w5fv-gbO9_N5cTd-7j81sNgzD3anrTnC4U107kx9fVs2UBKilumzWD2v0eFTb4DP2dm-xlzLnuJ_N96D6CgEhLe6lBfrMMWOlWNGC76oFgIx0mS7c-gXred3SXlvxIhgecsbNITSpDFDBrH7a54mfM-pXDRlUGyz2uVjTMMk1S2LRjoYsYVUDdQrhK12YVwL6i_iCy4lGwiZ-HeruOTe-Cs3EQ3M-FKgRlruaKaTmhlQ5TaWNR8KhJNjksqRP_xyJjGBHAjIVRYAkQ15g9MQQWVWlcJyNlLbjqCOaUgzHvdUez7pzyrJJNdByrEN2ySAtnMeaeJkF45Lh-L7G7r2O3H3amEAMt0d13S5v_39u_xzbfuPeu9Nf42eEcA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFGbFJXV0ZWTnpBM1ZsWlFiVTR3Ym1GS1NtazNSRVZxWnpSRmJVUTNXakZvWXkxZlRYcFJMVEZTUVVKS1MwZGxaVEZDZDI5UUxVczRNSHBYU2kwNU1VRnRkVGcxV0V3emNtNTZkbFJJV0V4NGVVOUxjMVZLWDJOV1VSSVhjMU5UT1dGMmFWVk1UVFpzY1hSelVEUlpYMHAzUVZVYUlrRkVjM0k1WmxKYVExSnRhVTVmZW1ocmFsOXFhbVJqVkc5elQxVldZakY1ZW1jIiwiZmN2IjoiMyIsImVpIjoic1NTOWF2aVVMTTZscXRzUDRZX0p3QVUiLCJxYyI6IkNpOXlkVzV1YVc1bklITm9iMlZ6SUdGMllXbHNZV0pzWlNCMWJtUmxjaUF6TURBd0lISjFjR1ZsY3lCcGJtUnBZUkFBZlRySVBqOCIsInF1ZXN0aW9uIjoiV2hhdCBOaWtlIHNob2VzIGFyZSB1bmRlciAzMDAwIHJ1cGVlcz8iLCJsayI6IkdoVnVhV3RsSUhOb2IyVnpJSFZ1WkdWeUlETXdNREEiLCJicyI6ImMtTks1N0lPejBnc1VVZ3NTbFVveVVoVlNFb3RMbEVvS3MzTHk4eExWeWpPeUU4dFZpak5TMGt0VWpBMk1EQUFTaFNrQWtVeTh4UTg4MUl5RS0yTk5LVFU4T3NBS3MwRUtlV0s1VExCdENneExTMl9LQ1V4S1NjVnpRU0VEYXBTeW9TVWdveDM1RklERy0tWG1aMEtsUURaaE9GMmV5TnhLZEU4aENLRUFpNmlnOEtFNUtBd1FRNEtBVVlBIiwiaWQiOiJmY19zU1M5YXZpVUxNNmxxdHNQNFlfSndBVV81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFGbFJXV0ZWTnpBM1ZsWlFiVTR3Ym1GS1NtazNSRVZxWnpSRmJVUTNXakZvWXkxZlRYcFJMVEZTUVVKS1MwZGxaVEZDZDI5UUxVczRNSHBYU2kwNU1VRnRkVGcxV0V3emNtNTZkbFJJV0V4NGVVOUxjMVZLWDJOV1VSSVhjMU5UT1dGMmFWVk1UVFpzY1hSelVEUlpYMHAzUVZVYUlrRkVjM0k1WmxKYVExSnRhVTVmZW1ocmFsOXFhbVJqVkc5elQxVldZakY1ZW1jIiwiZmN2IjoiMyIsImVpIjoic1NTOWF2aVVMTTZscXRzUDRZX0p3QVUiLCJxYyI6IkNpOXlkVzV1YVc1bklITm9iMlZ6SUdGMllXbHNZV0pzWlNCMWJtUmxjaUF6TURBd0lISjFjR1ZsY3lCcGJtUnBZUkFBZlRySVBqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgcnVubmluZyBzaG9lcyB1bmRlciA0MDAwIHJ1cGVlcyBpbiBJbmRpYT8iLCJsayI6IkdpWmlaWE4wSUhKMWJtNXBibWNnYzJodlpYTWdkVzVrWlhJZ05EQXdNQ0JwYmlCcGJtUnBZUSIsImJzIjoiYy1OSzU3SU96MGdzVVVnc1NsVW95VWhWU0VvdExsRW9LczNMeTh4TFZ5ak95RTh0VmlqTlMwa3RVakEyTURBQVNoU2tBa1V5OHhRODgxSXlFLTJOTktUVThPc0FLczBFS2VXSzVUTEJ0Q2d4TFMyX0tDVXhLU2NWelFTRURhcFN5b1NVZ294MzVGSURHLS1YbVowS2xRRFpoT0YyZXlOeEtkRThoQ0tFQWk2aWc4S0U1S0F3UVE0S0FVWUEiLCJpZCI6ImZjX3NTUzlhdmlVTE02bHF0c1A0WV9Kd0FVXzUifQ==",
+    "page_token": "DApH03icHdBRbpswGABg9TJ9bHARmRYpmkTBNUy4wfAb8EtF7CRuMMZKSGC87Qo9Q0-100zqd4Tv75f5sN2_h089ju66Wa2maXo6DcPJHJ7k0K_a6x8rV7I1Zt_KbrP-sUa_jnIb32X4cpFhDs7xiHklxogifStfr3Pepabx0rD2zMgisysWU-0J_i2xeGMk8emitPDGDAiPK2A3YdVNeXrHS3UVXC9VF-wKzA1YCJpz6A7VeMkttgeO0_Z1TnikbLNQn5cJKmMXlJFKcmOGljjI-E9TEOG1FVrLWA2F38wcK8yI8jPD2gIQiEjfKIgUfBXKjmkeSVTUHNMKvVBfeNVZg6xQSC2bJTGJ9PHEOvcGvXjeeyaNtVoAZUFTC8dhprSfZ0VoTrE5FlaFnA0fObBFnk0PwHtYFKpquTCO71kZMh6DdyCsgz7IeERrMT0e5X3rP35fb9-P_bhxl-H0H7qQjX8",
+    "question": "What are the best running shoes under 4000 rupees in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DApH03icHdBRbpswGABg9TJ9bHARmRYpmkTBNUy4wfAb8EtF7CRuMMZKSGC87Qo9Q0-100zqd4Tv75f5sN2_h089ju66Wa2maXo6DcPJHJ7k0K_a6x8rV7I1Zt_KbrP-sUa_jnIb32X4cpFhDs7xiHklxogifStfr3Pepabx0rD2zMgisysWU-0J_i2xeGMk8emitPDGDAiPK2A3YdVNeXrHS3UVXC9VF-wKzA1YCJpz6A7VeMkttgeO0_Z1TnikbLNQn5cJKmMXlJFKcmOGljjI-E9TEOG1FVrLWA2F38wcK8yI8jPD2gIQiEjfKIgUfBXKjmkeSVTUHNMKvVBfeNVZg6xQSC2bJTGJ9PHEOvcGvXjeeyaNtVoAZUFTC8dhprSfZ0VoTrE5FlaFnA0fObBFnk0PwHtYFKpquTCO71kZMh6DdyCsgz7IeERrMT0e5X3rP35fb9-P_bhxl-H0H7qQjX8",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFGbFJXV0ZWTnpBM1ZsWlFiVTR3Ym1GS1NtazNSRVZxWnpSRmJVUTNXakZvWXkxZlRYcFJMVEZTUVVKS1MwZGxaVEZDZDI5UUxVczRNSHBYU2kwNU1VRnRkVGcxV0V3emNtNTZkbFJJV0V4NGVVOUxjMVZLWDJOV1VSSVhjMU5UT1dGMmFWVk1UVFpzY1hSelVEUlpYMHAzUVZVYUlrRkVjM0k1WmxKYVExSnRhVTVmZW1ocmFsOXFhbVJqVkc5elQxVldZakY1ZW1jIiwiZmN2IjoiMyIsImVpIjoic1NTOWF2aVVMTTZscXRzUDRZX0p3QVUiLCJxYyI6IkNpOXlkVzV1YVc1bklITm9iMlZ6SUdGMllXbHNZV0pzWlNCMWJtUmxjaUF6TURBd0lISjFjR1ZsY3lCcGJtUnBZUkFBZlRySVBqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgcnVubmluZyBzaG9lcyB1bmRlciA0MDAwIHJ1cGVlcyBpbiBJbmRpYT8iLCJsayI6IkdpWmlaWE4wSUhKMWJtNXBibWNnYzJodlpYTWdkVzVrWlhJZ05EQXdNQ0JwYmlCcGJtUnBZUSIsImJzIjoiYy1OSzU3SU96MGdzVVVnc1NsVW95VWhWU0VvdExsRW9LczNMeTh4TFZ5ak95RTh0VmlqTlMwa3RVakEyTURBQVNoU2tBa1V5OHhRODgxSXlFLTJOTktUVThPc0FLczBFS2VXSzVUTEJ0Q2d4TFMyX0tDVXhLU2NWelFTRURhcFN5b1NVZ294MzVGSURHLS1YbVowS2xRRFpoT0YyZXlOeEtkRThoQ0tFQWk2aWc4S0U1S0F3UVE0S0FVWUEiLCJpZCI6ImZjX3NTUzlhdmlVTE02bHF0c1A0WV9Kd0FVXzUifQ%3D%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntjsBwrvSGnqy5J7WLhC1HsX83srQ:1790780593732&q=Women+running+shoes+available+under+3000+rupees+india&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQ1QJ6BAg-EAE",
+    "query": "Women running shoes available under 3000 rupees india",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Women+running+shoes+available+under+3000+rupees+india"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntjsBwrvSGnqy5J7WLhC1HsX83srQ:1790780593732&q=Nike+running+shoes+available+under+3000+rupees+india&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQ1QJ6BAg_EAE",
+    "query": "Nike running shoes available under 3000 rupees india",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nike+running+shoes+available+under+3000+rupees+india"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntjsBwrvSGnqy5J7WLhC1HsX83srQ:1790780593732&q=Best+running+shoes+available+under+3000+rupees+india&sa=X&ved=2ahUKEwi4saPJyZaXAxXOkmoFHeFHElgQ1QJ6BAhAEAE",
+    "query": "Best running shoes available under 3000 rupees india",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+running+shoes+available+under+3000+rupees+india"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "running shoes available under 3000 rupees india",
-   "time_taken_displayed": 0.37,
-   "total_results": 38
+   "time_taken_displayed": 0.6,
+   "total_results": 3
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:54:48 UTC",
+   "created_at": "2026-09-30 15:03:13 UTC",
    "google_url": "https://www.google.com/search?q=running+shoes+available+under+3000+rupees+india&oq=running+shoes+available+under+3000+rupees+india&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc98803610a928c1f8fa2",
-   "json_endpoint": "https://serpapi.com/searches/sH8EfhTKjtp36fH6qq2VRRVgEMmBJNEdPv20PfATPGQ/6aafc98803610a928c1f8fa2.json",
-   "markdown_endpoint": "https://serpapi.com/searches/sH8EfhTKjtp36fH6qq2VRRVgEMmBJNEdPv20PfATPGQ/6aafc98803610a928c1f8fa2.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/sH8EfhTKjtp36fH6qq2VRRVgEMmBJNEdPv20PfATPGQ/6aafc98803610a928c1f8fa2.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:54:48 UTC",
-   "raw_html_file": "https://serpapi.com/searches/sH8EfhTKjtp36fH6qq2VRRVgEMmBJNEdPv20PfATPGQ/6aafc98803610a928c1f8fa2.html",
+   "id": "6abd24b165f70183ded46948",
+   "json_endpoint": "https://serpapi.com/searches/OrXuuPwg1ZfbKra4TDPLCSVj70E3Vt5ypkBgu36yznY/6abd24b165f70183ded46948.json",
+   "markdown_endpoint": "https://serpapi.com/searches/OrXuuPwg1ZfbKra4TDPLCSVj70E3Vt5ypkBgu36yznY/6abd24b165f70183ded46948.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/OrXuuPwg1ZfbKra4TDPLCSVj70E3Vt5ypkBgu36yznY/6abd24b165f70183ded46948.json_with_pixel_position",
+   "processed_at": "2026-09-30 15:03:13 UTC",
+   "raw_html_file": "https://serpapi.com/searches/OrXuuPwg1ZfbKra4TDPLCSVj70E3Vt5ypkBgu36yznY/6abd24b165f70183ded46948.html",
    "status": "Success",
-   "total_time_taken": 0.72
+   "total_time_taken": 1.11
   },
   "search_parameters": {
    "device": "desktop",
    "engine": "google",
    "google_domain": "google.com",
    "q": "running shoes available under 3000 rupees india"
-  },
-  "serpapi_pagination": {
-   "current": 1,
-   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=running+shoes+available+under+3000+rupees+india&start=10",
-   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=running+shoes+available+under+3000+rupees+india&start=10",
-   "other_pages": {
-    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=running+shoes+available+under+3000+rupees+india&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=running+shoes+available+under+3000+rupees+india&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=running+shoes+available+under+3000+rupees+india&start=30"
-   }
   }
  },
  "searches_charged": 1

@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1235.632,
+ "elapsed_ms": 2330.246,
  "engine": "google",
- "fetched_at": "2026-09-20T12:07:28.861059+00:00",
+ "fetched_at": "2026-09-30T15:21:52.541127+00:00",
  "frugal_cache_version": 1,
  "key": "293d83de7faf4ede0afe83cac4958d263e5ac525f5c2c52e0c3495a88f27a8a8",
  "params": {
@@ -10,284 +10,598 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "9-2ieXiczVVbkqJIFF3ArGP46SpB0VIrgujIBBR8Y2vR9g-BkKYUj7RERfybvcyqZjWTICpUadndHxNzI9LkJteb93U4f_3tOYH7zx_RcrNZhc8sG0VRCROCPVSyiM-aYRxY7IJ44dpafo13As9YocAxyBFwP96Zq7kiDdGyNiAjbvT45Gh9Jv2LYMzNEL1Sj_vXkDVY-uP-yUtUKYUlFJQafk9_GlnTbndWqnAVvjRkTZ8agP9O-hqAyd4B4m0j-kq-7ypxoAIo5zypAKc7vFjNjq9FLX0l4pve4PHOcWqu0SUZByWS6GlWH-nmf-kVsKBGaSwARGmUEDj3s8mJluVyyuuTSp2ti5JVj1xO8j0uxFoQHBXUFo3CAKJ4uSR_GXWzLIRxrpSFQUMhUIJgejtuWp-uCmou0ORrKeRFk1-q5871Zm16wtqYDi7Hztd0K7OOtbTSh3WYzLM4aXKkNfR7b0qsjua16haZXIwe98H3SVN3PI215tTOI6aNbGNpcF9TvVwp17gmX288pECywjOSwjySRmA7_9ZbVp0DKPVKsHyCkXhsOvjQMZnqonolMShmpldanBvspGFZS7VW3m_WSghEAuQxKLa2O0rq2j6pdEYPtDV5i8utyfB_hNFRcM6YwigNRCWZYd7iaNWWz-f5cVHBtc_M-7w15fIofTAsAFCk-brgVJjZe88zoIlYTjAgygrMqmblfbhA7J4VeApYBhqGmXb5CMmZUS6mpASqBvpAlalPZ6rSCcXJrB4DTYYhu6slQ1BoTW7g81Mxo9fo4s98-q4IvAeiRLQTXt6Nfx42iiWtqkjfrhU94iOw-AZAyA8473tbwddhQvz5LzCO9b8C0pGP5IyPbgNJvg-klI_gJ3yUPl_4KBlekdwEEjwC6QMf9a_yUTFvEYzzQPqcj34ZSOKnQDrO4VUgketAWt0EEo7eA4nykXThowKQLnx0BtLv8BH8TT5KcYWOW5Gctq_4JknJh0G_GT66msTzc3EYr_gfi7qpc749xXdJauFvnn3T9h4Mx36Glc4mth8MekCekc28CU6wQ8EG2V82yEOrJQkQ43trInBmfcJ1uB3YNTuOYlhKza08yWuvuqnCYE8G3FyJsT2231ajuAPeeFevdvetF6e8X_N6MNiYm-5ers5qEp4M44MjhU23UX6Ju11V4jtBv91DZTAZzlpDxcLDRmPrPtXlQD3sNDJDptfqtyu9Oiwvqospr-qH9UqVaz03SmMLBbBV4fRHQzG6HENTCZFQZvy1JdCmVwkYa0DHdPrEdCrpInRFdD3RpkAmtEwDhTuhyVcsxNfriznXsOymzfh4E6-EJseEwVoo_wvsUzmA",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9-2ieXiczVVbkqJIFF3ArGP46SpB0VIrgujIBBR8Y2vR9g-BkKYUj7RERfybvcyqZjWTICpUadndHxNzI9LkJteb93U4f_3tOYH7zx_RcrNZhc8sG0VRCROCPVSyiM-aYRxY7IJ44dpafo13As9YocAxyBFwP96Zq7kiDdGyNiAjbvT45Gh9Jv2LYMzNEL1Sj_vXkDVY-uP-yUtUKYUlFJQafk9_GlnTbndWqnAVvjRkTZ8agP9O-hqAyd4B4m0j-kq-7ypxoAIo5zypAKc7vFjNjq9FLX0l4pve4PHOcWqu0SUZByWS6GlWH-nmf-kVsKBGaSwARGmUEDj3s8mJluVyyuuTSp2ti5JVj1xO8j0uxFoQHBXUFo3CAKJ4uSR_GXWzLIRxrpSFQUMhUIJgejtuWp-uCmou0ORrKeRFk1-q5871Zm16wtqYDi7Hztd0K7OOtbTSh3WYzLM4aXKkNfR7b0qsjua16haZXIwe98H3SVN3PI215tTOI6aNbGNpcF9TvVwp17gmX288pECywjOSwjySRmA7_9ZbVp0DKPVKsHyCkXhsOvjQMZnqonolMShmpldanBvspGFZS7VW3m_WSghEAuQxKLa2O0rq2j6pdEYPtDV5i8utyfB_hNFRcM6YwigNRCWZYd7iaNWWz-f5cVHBtc_M-7w15fIofTAsAFCk-brgVJjZe88zoIlYTjAgygrMqmblfbhA7J4VeApYBhqGmXb5CMmZUS6mpASqBvpAlalPZ6rSCcXJrB4DTYYhu6slQ1BoTW7g81Mxo9fo4s98-q4IvAeiRLQTXt6Nfx42iiWtqkjfrhU94iOw-AZAyA8473tbwddhQvz5LzCO9b8C0pGP5IyPbgNJvg-klI_gJ3yUPl_4KBlekdwEEjwC6QMf9a_yUTFvEYzzQPqcj34ZSOKnQDrO4VUgketAWt0EEo7eA4nykXThowKQLnx0BtLv8BH8TT5KcYWOW5Gctq_4JknJh0G_GT66msTzc3EYr_gfi7qpc749xXdJauFvnn3T9h4Mx36Glc4mth8MekCekc28CU6wQ8EG2V82yEOrJQkQ43trInBmfcJ1uB3YNTuOYlhKza08yWuvuqnCYE8G3FyJsT2231ajuAPeeFevdvetF6e8X_N6MNiYm-5ers5qEp4M44MjhU23UX6Ju11V4jtBv91DZTAZzlpDxcLDRmPrPtXlQD3sNDJDptfqtyu9Oiwvqospr-qH9UqVaz03SmMLBbBV4fRHQzG6HENTCZFQZvy1JdCmVwkYa0DHdPrEdCrpInRFdD3RpkAmtEwDhTuhyVcsxNfriznXsOymzfh4E6-EJseEwVoo_wvsUzmA"
+   "references": [
+    {
+     "index": 0,
+     "link": "https://en.wikipedia.org/wiki/History_of_the_telephone",
+     "source": "en.wikipedia.org"
+    },
+    {
+     "index": 1,
+     "link": "https://www.britannica.com/technology/telephone",
+     "source": "britannica.com"
+    },
+    {
+     "index": 2,
+     "link": "https://www.britannica.com/technology/telephone/Development-of-the-telephone-instrument",
+     "source": "britannica.com"
+    },
+    {
+     "index": 3,
+     "link": "https://heritagecalling.com/2022/07/29/the-story-behind-the-worlds-first-telephone/",
+     "source": "heritagecalling.com"
+    },
+    {
+     "index": 4,
+     "link": "https://www.nms.ac.uk/discover-catalogue/did-alexander-graham-bell-invent-the-telephone",
+     "source": "nms.ac.uk"
+    },
+    {
+     "index": 5,
+     "link": "https://www.ericsson.com/en/about-us/history/changing-the-world/phones-for-everyone/the-invention-of-the-telephone",
+     "source": "ericsson.com"
+    },
+    {
+     "index": 6,
+     "link": "https://en.wikipedia.org/wiki/History_of_the_telephone",
+     "snippet": "Credit for the invention of the electric telephone is frequently disputed, and new controversies over the issue have arisen from time to time. Antonio Meucci, Phil...",
+     "source": "Wikipedia",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrGmu6xBf7AVTRMMPcbQJyFJby4HmdXT8WN5oFMoZPrW0hRELZ96rOmT9P1wB0EwWNAH8g4xKOA73pHKzMia4kZqE813-s6qL0vSo",
+     "title": "History of the telephone - Wikipedia"
+    },
+    {
+     "index": 7,
+     "link": "https://www.britannica.com/technology/telephone",
+     "snippet": "telephone * What is a telephone? A telephone is an instrument designed for the simultaneous transmission and reception of the human voice. Telephones are inexpensi...",
+     "source": "Britannica",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDA4qtc5GgtpQp0hzuiE-4YU3WLlNigGMpT3dM1hV-81teS2W2Cp6ebrg879O2WmlNXHWkDThIg0aiiTXcusZCkwJBSlsYHyL9MxM",
+     "title": "Telephone | History, Definition, Invention, Uses, & Facts | Britannica"
+    },
+    {
+     "index": 8,
+     "link": "https://www.britannica.com/technology/telephone/Development-of-the-telephone-instrument",
+     "snippet": "Early developments: Charles Bourseul proposed diaphragm-electrode sound transmission; Antonio Meucci used in-home telettrofoni; Johann Philipp Reis transmitted sim...",
+     "source": "Britannica",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDA4qtc5GgtpQp0hzuiE-4YU3WLlNigGMpT3dM1hV-81teS2W2Cp6ebrg879O2WmlNXHWkDThIg0aiiTXcusZCkwJBSlsYHyL9MxM",
+     "title": "Telephone - Invention, Alexander Graham Bell, Communication | Britannica"
+    },
+    {
+     "index": 9,
+     "link": "https://heritagecalling.com/2022/07/29/the-story-behind-the-worlds-first-telephone/",
+     "snippet": "Inventor: Alexander Graham Bell (1847–1922), Scottish-born scientist with deaf mother and wife; patented the first working telephone on March 7, 1876, after experi...",
+     "source": "The Historic England Blog",
+     "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://heritagecalling.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-l6UMqK4JzucC2xZUkpnNqrxZhUkOKGH4RNbePcWET5SsSMpswSbBLKoVUd52_dtoKVHMGF15FDKpi2fom2GKlbBFNozG9Iar9WmR",
+     "title": "The Story Behind the World’s First Telephone – The Historic England Blog"
+    },
+    {
+     "index": 10,
+     "link": "https://www.nms.ac.uk/discover-catalogue/did-alexander-graham-bell-invent-the-telephone",
+     "snippet": "But can its creator, Alexander Graham Bell, truly lay claim to the title 'inventor of the telephone'? * The patent for the telephone Alexander Graham Bell did not ...",
+     "source": "National Museums Scotland",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nms.ac.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ44tDfm3PwXKGBhINBzySYzm0PUVIGZCTo4C4Ygil1A8LB8hqL60A3qvhr9KQGqaZ-huASNR8NoYBfOulrk1GDEqehJ1ImFDs1efxX",
+     "title": "Did Alexander Graham Bell invent the telephone?"
+    },
+    {
+     "index": 11,
+     "link": "https://www.ericsson.com/en/about-us/history/changing-the-world/phones-for-everyone/the-invention-of-the-telephone",
+     "snippet": "Invention: Telephone (1876–1877) patent applications submitted February 14, 1876, to Washington patent office by Alexander Graham Bell and Elisha Gray; Bell regist...",
+     "source": "Ericsson",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ericsson.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "title": "Ericsson history: the invention of the telephone"
+    }
+   ],
+   "text_blocks": [
+    {
+     "snippet": "Alexander Graham Bell was awarded the first official U.S. patent for the electric telephone on March 7, 1876.",
+     "snippet_highlighted_words": [
+      "Alexander Graham Bell"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "Key Details of the Invention",
+     "type": "heading"
+    },
+    {
+     "list": [
+      {
+       "snippet": "First Call: On March 10, 1876, Bell successfully transmitted speech to his assistant, Thomas Watson, saying the famous words: “Mr. Watson—come here—I want to see you.”"
+      },
+      {
+       "snippet": "The Patent: Bell applied for U.S. Patent 174,465 on February 14, 1876, just hours before competitor Elisha Gray filed a similar design caveat."
+      },
+      {
+       "snippet": "Public Debut: The invention was widely introduced to the public in June 1876 at the Centennial Exposition in Philadelphia."
+      },
+      {
+       "snippet": "Original Goal: Bell was originally attempting to improve the telegraph by sending multiple messages over a single wire using harmonic tones before discovering how to transmit voice."
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "Other Contributors and Controversies",
+     "type": "heading"
+    },
+    {
+     "list": [
+      {
+       "snippet": "Antonio Meucci: Developed an early voice-communication device called a teletrofono in the 1840s/1850s, leading to long-standing disputes over who truly made the first phone."
+      },
+      {
+       "snippet": "Philipp Reis: Constructed an early sound-transmitting device in 1861 that could send musical tones and simple sounds."
+      },
+      {
+       "snippet": "Thomas Edison: Later invented the carbon microphone, which greatly improved signal strength and made long-distance calls practical."
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "You can read more about the History of the Telephone on Wikipedia.",
+     "snippet_links": [
+      {
+       "link": "https://en.wikipedia.org/wiki/History_of_the_telephone",
+       "text": "History of the Telephone"
+      }
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "If you'd like, I can share more about:",
+     "type": "paragraph"
+    },
+    {
+     "list": [
+      {
+       "snippet": "The legal battles between Bell and Elisha Gray"
+      },
+      {
+       "snippet": "How the telephone network expanded globally"
+      },
+      {
+       "snippet": "The specific science behind Bell's audio-to-electricity conversion"
+      }
+     ],
+     "type": "list"
+    }
+   ]
+  },
+  "inline_images": [
+   {
+    "original": "https://cdn.britannica.com/19/180119-138-29F20103/Overview-invention-telephone-focus-work-Alexander-Graham.jpg",
+    "source": "https://www.britannica.com/video/Overview-invention-telephone-focus-work-Alexander-Graham/-192158",
+    "source_name": "Britannica",
+    "thumbnail": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/LVla8Fx_JDqqXdlfpGRB2csA92mTYLNN9j4h47e9mQk.jpeg",
+    "title": "How the Telephone Was Invented"
+   },
+   {
+    "original": "https://hips.hearstapps.com/hmg-prod/images/a-g-bell.jpg",
+    "source": "https://www.biography.com/inventors/alexander-graham-bell",
+    "source_name": "www.biography.com",
+    "thumbnail": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/JwnkJumpzZ4u23iSyKKFa34rtW5nAUnZ_AjEJbMpLEY.jpeg",
+    "title": "Alexander Graham Bell - Inventions, Telephone & Facts"
+   },
+   {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Actor_portraying_Alexander_Graham_Bell_in_an_AT%26T_promotional_film_%281926%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "source": "https://en.wikipedia.org/wiki/History_of_the_telephone",
+    "source_name": "Wikipedia",
+    "thumbnail": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/bLTEwaYJn9uZrartMeYw9mGTszG6yf8Po6DXCXhI99g.jpeg",
+    "title": "History of the telephone - Wikipedia"
+   },
+   {
+    "original": "https://cdn.mos.cms.futurecdn.net/ek8NCRxdKrXrXHfPEzmhBZ.jpg",
+    "source": "https://www.livescience.com/who-invented-the-telephone",
+    "source_name": "Live Science",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMhd7-ShcCtNjU_PzpR3Ygj0D5fFoOVk1q5xQngJVWA7kogxFMMbd1xSo&s",
+    "title": "Who invented the telephone? | Live Science"
+   },
+   {
+    "original": "https://media.assettype.com/gulfnews%2Fimport%2F2020%2F10%2F27%2Fphones-history-_17569a3817c_large.jpg?w=480&auto=format%2Ccompress&fit=max",
+    "source": "https://gulfnews.com/world/a-brief-history-of-the-telephone-1.1603713110135",
+    "source_name": "Gulf News",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JpIppQaK3cuFjkohrEQlUS8-_s2a9XBxCIuH2tNAMDDrLjT_K7IQM9M&s",
+    "title": "A brief history of the telephone"
+   },
+   {
+    "original": "https://media.licdn.com/dms/image/v2/D5612AQFmeXdDkX1IxQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1700789520288?e=2147483647&v=beta&t=RcCzAeEyXH_70I25YLzAYWqcxfTffBJXvJvbOS3SXX4",
+    "source": "https://www.linkedin.com/pulse/alexander-graham-bell-pioneer-communication-beyond-dhanabal-mani-0uo4c",
+    "source_name": "LinkedIn",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhtDnDEIxp9UdXdM5dXZngkou1ALewIC3GuPcudx4LzlXFck5yrd_CnbI&s",
+    "title": "Alexander Graham Bell: A Pioneer in Communication and Beyond"
+   },
+   {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/250px-Alexander_Graham_Bell_1895_NPG_77_363.jpg",
+    "source": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+    "source_name": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3KDioyTVlUr1D9LUzLADHCw-XVEvly5lPC82p7wPj6Z7kzXz9gAwVNKk&s",
+    "title": "Alexander Graham Bell - Wikipedia"
+   },
+   {
+    "original": "https://cdn.britannica.com/84/115184-050-40B64A5D/Alexander-Graham-Bell-telephone-link-Chicago-New-October-18-1892.jpg",
+    "source": "https://www.britannica.com/biography/Alexander-Graham-Bell",
+    "source_name": "Britannica",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3IupAMPiuADYiUglOFEhVqWM5QlofcnHWfUKpYg9alTij4VFQQnnSCTI&s",
+    "title": "Alexander Graham Bell | Biography, Education, Family ..."
+   },
+   {
+    "original": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/alexander-graham-bell-making-telephone-call?_a=BAVMn6E80",
+    "source": "https://www.history.com/articles/alexander-graham-bell",
+    "source_name": "History.com",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgPKRZJAtEDN9mmVrwaDt3mpDcvwklMj8QA3F3ZcwG6SitQc1kbSFvniw&s",
+    "title": "Alexander Graham Bell: Telephone & Inventions | HISTORY"
+   }
+  ],
+  "inline_videos": [
+   {
+    "channel": "STEAM Club",
+    "date": "17‏/04‏/2026",
+    "duration": "1:25",
+    "link": "https://www.youtube.com/watch?v=oOC7CBdlYWg",
+    "platform": "YouTube",
+    "position": 1,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSvMcowuenkAt27R9H5tvvM1t3eBR987WiUMw",
+    "thumbnail": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/b2qTtaeWGbbyRrewjvAn-fmPoBpU_24GRwKDs5lRG2E.jpeg",
+    "title": "Alexander Graham Bell – The Man Who Invented the Telephone!"
+   },
+   {
+    "channel": "Mirchi Bits",
+    "date": "20‏/07‏/2021",
+    "duration": "1:26",
+    "link": "https://www.youtube.com/watch?v=Qm1b4npsNO0",
+    "platform": "YouTube",
+    "position": 2,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQccRV6JanGgWtm24jaFpr1HcBAHRK5Fm3U4A",
+    "thumbnail": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/NevE98z5khcdLIFWFI2nGBLu4Gg7P4Gj6N8Qno8FMzE.jpeg",
+    "title": "Who invented the telephone first ? / The invention of Telephone"
+   },
+   {
+    "channel": "Inventive Legacy",
+    "date": "قبل 4 أسابيع",
+    "duration": "13:29",
+    "link": "https://www.youtube.com/watch?v=dZMIS-sxR1U",
+    "platform": "YouTube",
+    "position": 3,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRv8SBsjwvTFKnC4z7x-mTymYJxb_lBGUd_Mg",
+    "thumbnail": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/Tpa6sxcVi6Ux07SBrxnHg6lf2cxkLM3Xde0074K2YH4.jpeg",
+    "title": "The Man Who Invented the Telephone | Alexander Graham Bell"
+   },
+   {
+    "channel": "SerpentDagger",
+    "date": "06‏/04‏/2019",
+    "duration": "3:00",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=M9ynUj-GiP8&t=27",
+      "time": "00:27",
+      "title": "Antonio Meucci"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=M9ynUj-GiP8&t=66",
+      "time": "01:06",
+      "title": "Rice's Telephone"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=M9ynUj-GiP8&t=84",
+      "time": "01:24",
+      "title": "Elisha Gray"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=M9ynUj-GiP8",
+    "platform": "YouTube",
+    "position": 4,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS90xc4pj-J98hSsKT9WnkXie3eg_wuUGybqg",
+    "thumbnail": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/zgJ8sPvn6n2vblk37MnccreF-QZ6vxbG2gA9muuPmes.jpeg",
+    "title": "Who Invented The Telephone?"
+   }
+  ],
+  "knowledge_graph": {
+   "breadcrumbs": [
+    {
+     "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&q=%D9%87%D8%A7%D8%AA%D9%81&stick=H4sIAAAAAAAAAONgVuLQz9U3ME-uMHnEaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsXLcbL-x_Maqm40Anmp15k0AAAA&sa=X&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ1i96BAgUEAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%D9%87%D8%A7%D8%AA%D9%81&stick=H4sIAAAAAAAAAONgVuLQz9U3ME-uMHnEaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsXLcbL-x_Maqm40Anmp15k0AAAA",
+     "title": "هاتف"
+    },
+    {
+     "title": "المخترعون"
+    }
+   ],
+   "المخترعون": [
+    {
+     "image": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/IPoH9ahx_ouZFmDOl05pou7cPdjTv2i1aBb2a1mExLupdnoMXkTpb2_sQcNpMRHn.jpeg",
+     "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&q=%D8%A3%D9%84%D9%83%D8%B3%D9%86%D8%AF%D8%B1+%D8%BA%D8%B1%D8%A7%D9%87%D8%A7%D9%85+%D8%A8%D9%84&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFFiB7GyzQ20pLKTrfRzEsv1M_PKUvNKMvPzrCCs_KJHjO7cAi9_3BOWspu05uQ1RgsuPIqFxLjYXIFCJZVCPFJcXHCbqpg4GHgWsSrcWHyz5Wbzjc03226sv7FR4cauGxtvLL_ZDsStCjdW3GyZwMYIALyKKhGhAAAA&sa=X&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ-BZ6BAgUEAU",
+     "name": "ألكسندر غراهام بل",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%D8%A3%D9%84%D9%83%D8%B3%D9%86%D8%AF%D8%B1+%D8%BA%D8%B1%D8%A7%D9%87%D8%A7%D9%85+%D8%A8%D9%84&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFFiB7GyzQ20pLKTrfRzEsv1M_PKUvNKMvPzrCCs_KJHjO7cAi9_3BOWspu05uQ1RgsuPIqFxLjYXIFCJZVCPFJcXHCbqpg4GHgWsSrcWHyz5Wbzjc03226sv7FR4cauGxtvLL_ZDsStCjdW3GyZwMYIALyKKhGhAAAA"
+    },
+    {
+     "image": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/IPoH9ahx_ouZFmDOl05pou7cPdjTv2i1aBb2a1mExLvZ8oGmnRNC_kxNG70c0sQL.jpeg",
+     "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&q=%D8%A3%D9%86%D8%B7%D9%88%D9%86%D9%8A%D9%88+%D9%85%D9%8A%D9%88%D8%AA%D8%B4%D9%8A&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiBLEM48vNMrSkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccLuqmDgYeBaxSt9YfLPtxvabHTfbbnbd7FC42Qqibqy6seVm1wQ2RgBhiFq8ngAAAA&sa=X&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ-BZ6BAgUEAo",
+     "name": "أنطونيو ميوتشي",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%D8%A3%D9%86%D8%B7%D9%88%D9%86%D9%8A%D9%88+%D9%85%D9%8A%D9%88%D8%AA%D8%B4%D9%8A&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiBLEM48vNMrSkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccLuqmDgYeBaxSt9YfLPtxvabHTfbbnbd7FC42Qqibqy6seVm1wQ2RgBhiFq8ngAAAA"
+    },
+    {
+     "image": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/IPoH9ahx_ouZFmDOl05pou7cPdjTv2i1aBb2a1mExLt7Egs3NdbEsNJJ3Ti88TVw.jpeg",
+     "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&q=%D9%8A%D9%88%D9%87%D8%A7%D9%86+%D9%81%D9%8A%D9%84%D9%8A%D8%A8+%D8%B1%D9%8A%D8%B3&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiBLEMi1OSC7WkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccLuqmDgYeBaxytzsutlxs_3G8pttCjcbgZyWm103Vijc2AikNk9gYwQA4vw77J8AAAA&sa=X&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ-BZ6BAgUEA8",
+     "name": "يوهان فيليب ريس",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%D9%8A%D9%88%D9%87%D8%A7%D9%86+%D9%81%D9%8A%D9%84%D9%8A%D8%A8+%D8%B1%D9%8A%D8%B3&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiBLEMi1OSC7WkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccLuqmDgYeBaxytzsutlxs_3G8pttCjcbgZyWm103Vijc2AikNk9gYwQA4vw77J8AAAA"
+    },
+    {
+     "image": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/IPoH9ahx_ouZFmDOl05pou7cPdjTv2i1aBb2a1mExLvelGinFxJTx4SHEGBazjHw.jpeg",
+     "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&q=%D8%AA%D9%88%D9%85%D8%A7%D8%B3+%D8%A3.+%D9%88%D8%A7%D8%AA%D8%B3%D9%88%D9%86&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiBLGMy9JLcrSkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccLuqmDgYeBaxSt9YdbPjZuuN5Tc2K9xYrKdwswPIXHVjM1CwbQIbIwCx5QwSngAAAA&sa=X&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ-BZ6BAgUEBQ",
+     "name": "توماس أ. واتسون",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%D8%AA%D9%88%D9%85%D8%A7%D8%B3+%D8%A3.+%D9%88%D8%A7%D8%AA%D8%B3%D9%88%D9%86&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiBLGMy9JLcrSkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccLuqmDgYeBaxSt9YdbPjZuuN5Tc2K9xYrKdwswPIXHVjM1CwbQIbIwCx5QwSngAAAA"
+    },
+    {
+     "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAABGdBTUEAALGPC_xhBQAAAAFzUkdCAK7OHOkAAABXUExURSEhISsrKzc3NzAwMENDQ0RERB8fH0JCQiAgIDIyMikpKT8_PyMjI0BAQDo6Oi0tLSYmJi8vLygoKD09PTExMSUlJTQ0ND4-Pjg4ODk5OTMzMzw8PDU1NZ1a_OYAAADcSURBVGje7dXLDoIwEEBRqtN2fIMK-Pr_79QYo0BMd51Gc8-G5c2ktFNVAAAAAAAAAJCdVm4-d4-PsfXMS4ziZ2vb7jK-LS27tXzCUhue7yoOrOzOeSfDsOzMBt7Gka3VyGEzDm-CVVjGYQn_PnGxMy72V5e7x8VernJvdbntVG4fw-yEtXXN8di4VtUw6rqDl-dVFvGHzpnEdX-S6XaS016zZ6-T6qt9zZvW29fsM33LWNZzTDjnKzeSCkuTbeA-JvW5Rg4-HfaB8K-H9bJIurCcAQAAAAAAAPydOzK1EsVADrb3AAAAAElFTkSuQmCC.png",
+     "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&q=%D9%87%D8%A7%D8%AA%D9%81+%D8%B3%D9%8A%D8%B1%D9%8A%D9%84+%D8%AF%D9%88%D9%83%D9%8A%D9%87&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiArOKjVOSsrSkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccMuqmDgYeBaxyt1sv7H8xqqbjQo3Nt_surHxZtfNFoUb62923GwGMtsnsDECAHi8_1uiAAAA&sa=X&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ-BZ6BAgUEBk",
+     "name": "سيريل دوكيه",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%D9%87%D8%A7%D8%AA%D9%81+%D8%B3%D9%8A%D8%B1%D9%8A%D9%84+%D8%AF%D9%88%D9%83%D9%8A%D9%87&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiArOKjVOSsrSkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccMuqmDgYeBaxyt1sv7H8xqqbjQo3Nt_surHxZtfNFoUb62923GwGMtsnsDECAHi8_1uiAAAA"
+    },
+    {
+     "image": "https://serpapi.com/searches/6abd290e6f1e40562dccc03b/images/IPoH9ahx_ouZFmDOl05pou7cPdjTv2i1aBb2a1mExLs5YwK4FDl07H1sbt5qmLjS.jpeg",
+     "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&q=%D8%A5%D9%8A%D9%86%D9%88%D8%B3%D9%86%D8%AA+%D9%85%D8%A7%D9%86%D8%B2%D9%8A%D8%AA%D9%8A&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiBLGSLXMNyrWkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccLuqmDgYeBaxyt5YerPrZtvNjhubb7bdWKVws_XGciBj082uG6tudk1gYwQAl0Xb46AAAAA&sa=X&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ-BZ6BAgUEB4",
+     "name": "إينوسنت مانزيتي",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%D8%A5%D9%8A%D9%86%D9%88%D8%B3%D9%86%D8%AA+%D9%85%D8%A7%D9%86%D8%B2%D9%8A%D8%AA%D9%8A&stick=H4sIAAAAAAAAAONgFuLQz9U3ME-uMFHiBLGSLXMNyrWkspOt9HMSy_Uz88pS80oy8_OsIKz8okeM7twCL3_cE5aym7Tm5DVGCy48ioXEuNhcgUIllUI8UlxccLuqmDgYeBaxyt5YerPrZtvNjhubb7bdWKVws_XGciBj082uG6tudk1gYwQAl0Xb46AAAAA"
+    }
+   ],
+   "المخترعون_link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&q=%D9%87%D8%A7%D8%AA%D9%81&stick=H4sIAAAAAAAAAONgVuLQz9U3ME-uMHnEaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsXLcbL-x_Maqm40Anmp15k0AAAA&sa=X&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ1i96BAgUEAE",
+   "المخترعون_stick": "H4sIAAAAAAAAAONgVuLQz9U3ME-uMHnEaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsXLcbL-x_Maqm40Anmp15k0AAAA"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnFmUFdneUU5TnhKNWd4MFA5MkxpNnlUZFlwNnJtQ1hULWZyWUo2QUdjRi1LMjdKeW1mQmZQZ2NqTEJnYXZEQjhRVWtRZ3FiejdoYzhsUFgyc3R4eXZjdi1mazRtZjdpSnMxdUdiOF92SVNVdVIwR202UzZqLXVKU09ROG9oTlZ1ZGhzNGdTR29WdWRXcHFpMkxREgQaAggAGosFEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQOcECAAQABgAIAAqVAoIaW52ZW50ZWQVTl2HQBoJaW52ZW50aW5nGgppbnZlbnRpb25zGgrYp9iu2KrYsdi5Gg9pdjtkO2Rpc2NvdmVyZWQaD2l2O2Q72KfYrtiq2LHYuSqIAQoJdGVsZXBob25lFYJVeEAaA3RlbBoLdMOpbMOpcGhvbmUaDNiq2YTZitmB2YjZhhoOaXY7ZDt0ZWxlcGhvbmUaDGl2O2Q7Y29udGFjdBoKaXY7ZDtwaG9uZRoIaXY7ZDt0ZWwaD2l2O2Q7dGVsZXBob25lcxoRaXY7ZDvYqtmE2YrZgdmI2YYyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWcWZQV2d5RTlOeEo1Z3gwUDkyTGk2eVRkWXA2cm1DWFQtZnJZSjZBR2NGLUsyN0p5bWZCZlBnY2pMQmdhdkRCOFFVa1FncWJ6N2hjOGxQWDJzdHh5dmN2LWZrNG1mN2lKczF1R2I4X3ZJU1V1UjBHbTZTNmotdUpTT1E4b2hOVnVkaHM0Z1NHb1Z1ZFdwcWkyTFE6M1dobyA8Yj5pbnZlbnRlZDwvYj4gdGhlIDxiPnRlbGVwaG9uZTwvYj4_IC0gU3BvdGlmeUKbAUhvbGQgdGhlIHBob25lISBEaWQgeW91IGtub3cgdGhhdCA8Yj50d28gaW52ZW50b3JzIHJhY2VkIHRvIHRoZSBwYXRlbnQgb2ZmaWNlIG9uIHRoZSB2ZXJ5IHNhbWUgZGF5IDE1MCB5ZWFycyBhZ288L2I-IHRvIGNsYWltIHRoZXkgaW52ZW50ZWQgdGhlIHRlbGVwaG9uZT8hIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnFmUFdneUU5TnhKNWd4MFA5MkxpNnlUZFlwNnJtQ1hULWZyWUo2QUdjRi1LMjdKeW1mQmZQZ2NqTEJnYXZEQjhRVWtRZ3FiejdoYzhsUFgyc3R4eXZjdi1mazRtZjdpSnMxdUdiOF92SVNVdVIwR202UzZqLXVKU09ROG9oTlZ1ZGhzNGdTR29WdWRXcHFpMkxREgQaAggAGosFEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQOcECAAQABgAIAAqVAoIaW52ZW50ZWQVTl2HQBoJaW52ZW50aW5nGgppbnZlbnRpb25zGgrYp9iu2KrYsdi5Gg9pdjtkO2Rpc2NvdmVyZWQaD2l2O2Q72KfYrtiq2LHYuSqIAQoJdGVsZXBob25lFYJVeEAaA3RlbBoLdMOpbMOpcGhvbmUaDNiq2YTZitmB2YjZhhoOaXY7ZDt0ZWxlcGhvbmUaDGl2O2Q7Y29udGFjdBoKaXY7ZDtwaG9uZRoIaXY7ZDt0ZWwaD2l2O2Q7dGVsZXBob25lcxoRaXY7ZDvYqtmE2YrZgdmI2YYyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWcWZQV2d5RTlOeEo1Z3gwUDkyTGk2eVRkWXA2cm1DWFQtZnJZSjZBR2NGLUsyN0p5bWZCZlBnY2pMQmdhdkRCOFFVa1FncWJ6N2hjOGxQWDJzdHh5dmN2LWZrNG1mN2lKczF1R2I4X3ZJU1V1UjBHbTZTNmotdUpTT1E4b2hOVnVkaHM0Z1NHb1Z1ZFdwcWkyTFE6M1dobyA8Yj5pbnZlbnRlZDwvYj4gdGhlIDxiPnRlbGVwaG9uZTwvYj4_IC0gU3BvdGlmeUKbAUhvbGQgdGhlIHBob25lISBEaWQgeW91IGtub3cgdGhhdCA8Yj50d28gaW52ZW50b3JzIHJhY2VkIHRvIHRoZSBwYXRlbnQgb2ZmaWNlIG9uIHRoZSB2ZXJ5IHNhbWUgZGF5IDE1MCB5ZWFycyBhZ288L2I-IHRvIGNsYWltIHRoZXkgaW52ZW50ZWQgdGhlIHRlbGVwaG9uZT8hIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Dave Portnoy on X: \"Yes I invented this. I've invented a lot of things. I loved the way the Miami Hurricanes came out of the tunnel at the ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
-      "source_info_link": "https://x.com/stoolpresidente/status/1432511571608092676"
+      "description": "Hold the phone! Did you know that two inventors raced to the patent office on the very same day 150 years ago to claim they invented the telephone?!",
+      "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp",
+      "source_info_link": "https://open.spotify.com/episode/6he8oajlUP5Lbnvg8sgPI7"
      }
     },
-    "date": "Aug 30, 2021",
-    "displayed_link": "https://x.com › @stoolpresidente",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
-    "link": "https://x.com/stoolpresidente/status/1432511571608092676",
+    "displayed_link": "https://open.spotify.com › episode",
+    "favicon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp",
+    "link": "https://open.spotify.com/episode/6he8oajlUP5Lbnvg8sgPI7",
     "position": 1,
-    "read_more_link": "https://x.com/stoolpresidente/status/1432511571608092676#:~:text=Dave%20Portnoy",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVC2ssgtFPQ-M17E3eOkEJzmf1uXPgQNJ-kGPsQVhSBFkhrg9dP1IYwThniCOoaVNZpVvkPBfeTKJRKyPkBYKWRP9ylrGtQASFinllGYwq993ZSUpP5UsRiQ5r482OcPZnt81Vu9BVgPzVNYc&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQFnoECBsQAQ&uoh=1",
-    "snippet": "Dave Portnoy on X: \"Yes I invented this. I've invented a lot of things. I loved the way the Miami Hurricanes came out of the tunnel at the ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVqfPWgyE9NxJ5gx0P92Li6yTdYp6rmCXT-frYJ6AGcF-K27JymfBfPgcjLBgavDB8QUkQgqbz7hc8lPX2stxyvcv-fk4mf7iJs1uGb8_vISUuR0Gm6S6j-uJSOQ8ohNVudhs4gSGoVudWpqi2LQ&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQFnoECCcQAQ&uoh=1",
+    "snippet": "Hold the phone! Did you know that two inventors raced to the patent office on the very same day 150 years ago to claim they invented the telephone?!",
     "snippet_highlighted_words": [
-     "invented",
-     "invented"
+     "two inventors raced to the patent office on the very same day 150 years ago"
     ],
-    "source": "X",
-    "title": "Dave Portnoy on X"
+    "source": "Spotify",
+    "title": "The Kids History Podcast - Who invented the telephone?"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlU2VVNKY0ltMU1EY2xvN2hsRTdlSE9qOUI5eEJ2N0JFNDlpM1NlNDREZlJTZWZ1XzE2ZmlWSm5hQlNRcVlkQkZqTnJEdWp0V205anVCTFR6TEpyM0kxMHN0TUo2TEtKUnJKQTdzbGQwUnVVVDF5ZDYtd1ltcTlxdBIEGgIIABrYBBIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC0BAgAEAAYACAAKlQKCGludmVudGVkFU4xgkAaCWludmVudGluZxoKaW52ZW50aW9ucxoK2KfYrtiq2LHYuRoPaXY7ZDtkaXNjb3ZlcmVkGg9pdjtkO9in2K7Yqtix2LkqiAEKCXRlbGVwaG9uZRVOMYJAGgN0ZWwaC3TDqWzDqXBob25lGgzYqtmE2YrZgdmI2YYaDml2O2Q7dGVsZXBob25lGgxpdjtkO2NvbnRhY3QaCml2O2Q7cGhvbmUaCGl2O2Q7dGVsGg9pdjtkO3RlbGVwaG9uZXMaEWl2O2Q72KrZhNmK2YHZiNmGMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlU2VVNKY0ltMU1EY2xvN2hsRTdlSE9qOUI5eEJ2N0JFNDlpM1NlNDREZlJTZWZ1XzE2ZmlWSm5hQlNRcVlkQkZqTnJEdWp0V205anVCTFR6TEpyM0kxMHN0TUo2TEtKUnJKQTdzbGQwUnVVVDF5ZDYtd1ltcTlxdDotd2hvIDxiPmludmVudGVkIHRlbGVwaG9uZTwvYj7igIsgLSBCcmFpbmx5LmluQogBQW5zd2VyOiA8Yj5BbGV4YW5kZXIgR3JhaGFtIEJlbGw8L2I-IGludmVudGVkIHRlbGVwaG9uZS4gaG9wZSB5b3UgdW5kZXJzdGFuZC4gcGxlYXNlIG1hcmsgbWUgYXMgQnJhaW5saWVzdCBwbGVhc2UgYW5kIGZvbGxvdyBtZSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlU2VVNKY0ltMU1EY2xvN2hsRTdlSE9qOUI5eEJ2N0JFNDlpM1NlNDREZlJTZWZ1XzE2ZmlWSm5hQlNRcVlkQkZqTnJEdWp0V205anVCTFR6TEpyM0kxMHN0TUo2TEtKUnJKQTdzbGQwUnVVVDF5ZDYtd1ltcTlxdBIEGgIIABrYBBIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC0BAgAEAAYACAAKlQKCGludmVudGVkFU4xgkAaCWludmVudGluZxoKaW52ZW50aW9ucxoK2KfYrtiq2LHYuRoPaXY7ZDtkaXNjb3ZlcmVkGg9pdjtkO9in2K7Yqtix2LkqiAEKCXRlbGVwaG9uZRVOMYJAGgN0ZWwaC3TDqWzDqXBob25lGgzYqtmE2YrZgdmI2YYaDml2O2Q7dGVsZXBob25lGgxpdjtkO2NvbnRhY3QaCml2O2Q7cGhvbmUaCGl2O2Q7dGVsGg9pdjtkO3RlbGVwaG9uZXMaEWl2O2Q72KrZhNmK2YHZiNmGMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlU2VVNKY0ltMU1EY2xvN2hsRTdlSE9qOUI5eEJ2N0JFNDlpM1NlNDREZlJTZWZ1XzE2ZmlWSm5hQlNRcVlkQkZqTnJEdWp0V205anVCTFR6TEpyM0kxMHN0TUo2TEtKUnJKQTdzbGQwUnVVVDF5ZDYtd1ltcTlxdDotd2hvIDxiPmludmVudGVkIHRlbGVwaG9uZTwvYj7igIsgLSBCcmFpbmx5LmluQogBQW5zd2VyOiA8Yj5BbGV4YW5kZXIgR3JhaGFtIEJlbGw8L2I-IGludmVudGVkIHRlbGVwaG9uZS4gaG9wZSB5b3UgdW5kZXJzdGFuZC4gcGxlYXNlIG1hcmsgbWUgYXMgQnJhaW5saWVzdCBwbGVhc2UgYW5kIGZvbGxvdyBtZSZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Dodge Quietly Invented a New Car Segment and Nobody's Talking About It. Is the Dodge Charger 2-door a personal luxury car, a full-size coupe ...",
-      "icon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmYq2wXUzkmvkgEzD-yeoAfsAHZsh0xRZs41BoY0El335OYZ9yi3FIAAP6dLlBpA7lQ23L3xIDT221pBXCnVmKGczNO-RER9n66HVcO7lHDQ_ejnorNJeJMZm4UlhABp91f61gArj_5KeFbkFmrcE6tyWBiUSuczuNc--NYu4TRTDdOfwElCdqe_2zN9gzEy6gDyaC_EleAxuG-76cs3CqgLVLMeIR8v_cAX8xylzxwqVVtz-JsmjiU7--pO2BN6FA2gkMOvnC2m52WuZYtv3CELiMUZjSE_DfcWcv4l0M55YSQWD7Ge6S92KVaysB_NEJ1XUST-3SUEn8f3Seog3SzhjiFsVqPM_CfIJ5wzOnkyrYarp5d8Ci70uFqSZxg80g4_1LLQrVPDAU7pQbofi5v66gb6DMU4lcYAAAA.webp",
-      "source_info_link": "https://www.autoblog.com/carbuying/dodge-quietly-invented-a-new-car-segment-and-nobodys-talking-about-it"
+      "description": "Answer: Alexander Graham Bell invented telephone. hope you understand. please mark me as Brainliest please and follow me ...",
+      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBgCdASocABwAPtEwtFooIigoGAEAGglsALEfjujYeVUrmVFvePfopq4YEKkgjGUwSJxNXx6tCxAAAP7ok4Z-oj154nFXNCQfL5_GR-HUt1enSHpQs4JKJaDL_hnAfTMfpZ55AbUU5K3iFy4V43bqjRuhFcxDFm-y03hJoy5ob0biY_OkcraP5PHiwXeb3q4S8md_FJuOkv1fgUUzWnPthUGFaCV_rPW7rbv8vgQEHP4sBf9Ifs1DNP-bQ1RNXNGI6UiGmo-f--lOZSdNV5ldnfgBmfVlmC7J79-4HsgJg_n-bH6WCMoBnjmhRpdmbOJ_96g-aqeWmIKa2s6-ra8hIBiPtz_V1LzGRqRQTn6Rr3JGbYn7bHZBjzBq5-I3v2HwrT5fo6cYvSLDFowWnTW0pbtXoAEV6BTrIzlCv859t1AA.webp",
+      "source_info_link": "https://brainly.in/question/56077869"
      }
     },
-    "date": "2 days ago",
-    "displayed_link": "https://www.autoblog.com › Car Buying",
-    "favicon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmYq2wXUzkmvkgEzD-yeoAfsAHZsh0xRZs41BoY0El335OYZ9yi3FIAAP6dLlBpA7lQ23L3xIDT221pBXCnVmKGczNO-RER9n66HVcO7lHDQ_ejnorNJeJMZm4UlhABp91f61gArj_5KeFbkFmrcE6tyWBiUSuczuNc--NYu4TRTDdOfwElCdqe_2zN9gzEy6gDyaC_EleAxuG-76cs3CqgLVLMeIR8v_cAX8xylzxwqVVtz-JsmjiU7--pO2BN6FA2gkMOvnC2m52WuZYtv3CELiMUZjSE_DfcWcv4l0M55YSQWD7Ge6S92KVaysB_NEJ1XUST-3SUEn8f3Seog3SzhjiFsVqPM_CfIJ5wzOnkyrYarp5d8Ci70uFqSZxg80g4_1LLQrVPDAU7pQbofi5v66gb6DMU4lcYAAAA.webp",
-    "link": "https://www.autoblog.com/carbuying/dodge-quietly-invented-a-new-car-segment-and-nobodys-talking-about-it",
+    "date": "13‏/04‏/2023",
+    "displayed_link": "https://brainly.in › question",
+    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBgCdASocABwAPtEwtFooIigoGAEAGglsALEfjujYeVUrmVFvePfopq4YEKkgjGUwSJxNXx6tCxAAAP7ok4Z-oj154nFXNCQfL5_GR-HUt1enSHpQs4JKJaDL_hnAfTMfpZ55AbUU5K3iFy4V43bqjRuhFcxDFm-y03hJoy5ob0biY_OkcraP5PHiwXeb3q4S8md_FJuOkv1fgUUzWnPthUGFaCV_rPW7rbv8vgQEHP4sBf9Ifs1DNP-bQ1RNXNGI6UiGmo-f--lOZSdNV5ldnfgBmfVlmC7J79-4HsgJg_n-bH6WCMoBnjmhRpdmbOJ_96g-aqeWmIKa2s6-ra8hIBiPtz_V1LzGRqRQTn6Rr3JGbYn7bHZBjzBq5-I3v2HwrT5fo6cYvSLDFowWnTW0pbtXoAEV6BTrIzlCv859t1AA.webp",
+    "link": "https://brainly.in/question/56077869",
     "position": 2,
-    "read_more_link": "https://www.autoblog.com/carbuying/dodge-quietly-invented-a-new-car-segment-and-nobodys-talking-about-it#:~:text=Dodge%20Quietly%20Invented%20a%20New,hatch%2C%20or%20a%20family%20car%3F",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFXf76rWC4wgfhVEc7uK-BGMxeS-eB24cFJ_ds4evYkYtr026QJ3jGq-KYNPCc92Y5Eahvt6tbWt0-NthW8msNVUEIRLj3mOUlJWkyz-cbt1zwJ9DLJz1jsWVXZQZoVzj-kzSuxJV8YLHfcKP1JGW1fAAp0iRR8Q2PA1GKNfAJpD0kbhVu2PxxnVcqmxXfONZ8xb6kEYl_6BWWAZs&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQFnoECBMQAQ&uoh=1",
-    "snippet": "Dodge Quietly Invented a New Car Segment and Nobody's Talking About It. Is the Dodge Charger 2-door a personal luxury car, a full-size coupe ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVU6USJcIm1MDclo7hlE7eHOj9B9xBv7BE49i3Se44DfRSefu_16fiVJnaBSQqYdBFjNrDujtWm9juBLTzLJr3I10stMJ6LKJRrJA7sld0RuUT1yd6-wYmq9qt&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQFnoECDAQAQ&uoh=1",
+    "snippet": "Answer: Alexander Graham Bell invented telephone. hope you understand. please mark me as Brainliest please and follow me ...",
     "snippet_highlighted_words": [
-     "Dodge Quietly Invented a New Car Segment"
+     "Alexander Graham Bell"
     ],
-    "source": "Autoblog",
-    "title": "Dodge Quietly Invented a New Car Segment and Nobody's ..."
+    "source": "Brainly.in",
+    "title": "who invented telephone"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZSNko5QW1qYXF4aTYzdnZKRG5NSXFXMVB6UEpHbHJTMnNIejdHaG5PTEtJdDR0QUpIRzc2VC1xQmFvVFZLaGgya3lfV1RTdmJybFdGR0MyUEVjc3h3c1pnMU53aE9TeDU3RjNxT2VPems1azZnRzBmSEtIeGxtbXNtd1ljRE5hSDJoTTNzdkJOQnlDRGRsSFVtNml2SXJQN3dsRlg3RG1yVEdvbFpwakJNb19lN3lJZWhEakF5ZXpmSWRMZGUzWWZBLUJJdxIEGgIIABrdBRIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC5BQgAEAAYACAAKlQKCGludmVudGVkFbhElkAaCWludmVudGluZxoKaW52ZW50aW9ucxoK2KfYrtiq2LHYuRoPaXY7ZDtkaXNjb3ZlcmVkGg9pdjtkO9in2K7Yqtix2LkqiAEKCXRlbGVwaG9uZRV8WadAGgN0ZWwaC3TDqWzDqXBob25lGgzYqtmE2YrZgdmI2YYaDml2O2Q7dGVsZXBob25lGgxpdjtkO2NvbnRhY3QaCml2O2Q7cGhvbmUaCGl2O2Q7dGVsGg9pdjtkO3RlbGVwaG9uZXMaEWl2O2Q72KrZhNmK2YHZiNmGMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZSNko5QW1qYXF4aTYzdnZKRG5NSXFXMVB6UEpHbHJTMnNIejdHaG5PTEtJdDR0QUpIRzc2VC1xQmFvVFZLaGgya3lfV1RTdmJybFdGR0MyUEVjc3h3c1pnMU53aE9TeDU3RjNxT2VPems1azZnRzBmSEtIeGxtbXNtd1ljRE5hSDJoTTNzdkJOQnlDRGRsSFVtNml2SXJQN3dsRlg3RG1yVEdvbFpwakJNb19lN3lJZWhEakF5ZXpmSWRMZGUzWWZBLUJJdzo8VGhlIHN0b3J5IG9mIHdobyByZWFsbHkgPGI-aW52ZW50ZWQgdGVsZXBob25lPC9iPiwgaW4gRGV0YWlsQrABPGI-QWxleGFuZGVyIEdyYWhhbSBCZWxsIHNlY3VyZWQgdGhlIGZpcnN0IHdpZGVseSByZWNvZ25pemVkIHBhdGVudDwvYj4sIHdoaWxlIEVsaXNoYSBHcmF5IGFuZCBBbnRvbmlvIE1ldWNjaSBhbHNvIG1hZGUgZXNzZW50aWFsIGNvbnRyaWJ1dGlvbnMuIEluIHRoaXMgYXJ0aWNsZS4gRWFybHkmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZSNko5QW1qYXF4aTYzdnZKRG5NSXFXMVB6UEpHbHJTMnNIejdHaG5PTEtJdDR0QUpIRzc2VC1xQmFvVFZLaGgya3lfV1RTdmJybFdGR0MyUEVjc3h3c1pnMU53aE9TeDU3RjNxT2VPems1azZnRzBmSEtIeGxtbXNtd1ljRE5hSDJoTTNzdkJOQnlDRGRsSFVtNml2SXJQN3dsRlg3RG1yVEdvbFpwakJNb19lN3lJZWhEakF5ZXpmSWRMZGUzWWZBLUJJdxIEGgIIABrdBRIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC5BQgAEAAYACAAKlQKCGludmVudGVkFbhElkAaCWludmVudGluZxoKaW52ZW50aW9ucxoK2KfYrtiq2LHYuRoPaXY7ZDtkaXNjb3ZlcmVkGg9pdjtkO9in2K7Yqtix2LkqiAEKCXRlbGVwaG9uZRV8WadAGgN0ZWwaC3TDqWzDqXBob25lGgzYqtmE2YrZgdmI2YYaDml2O2Q7dGVsZXBob25lGgxpdjtkO2NvbnRhY3QaCml2O2Q7cGhvbmUaCGl2O2Q7dGVsGg9pdjtkO3RlbGVwaG9uZXMaEWl2O2Q72KrZhNmK2YHZiNmGMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZSNko5QW1qYXF4aTYzdnZKRG5NSXFXMVB6UEpHbHJTMnNIejdHaG5PTEtJdDR0QUpIRzc2VC1xQmFvVFZLaGgya3lfV1RTdmJybFdGR0MyUEVjc3h3c1pnMU53aE9TeDU3RjNxT2VPems1azZnRzBmSEtIeGxtbXNtd1ljRE5hSDJoTTNzdkJOQnlDRGRsSFVtNml2SXJQN3dsRlg3RG1yVEdvbFpwakJNb19lN3lJZWhEakF5ZXpmSWRMZGUzWWZBLUJJdzo8VGhlIHN0b3J5IG9mIHdobyByZWFsbHkgPGI-aW52ZW50ZWQgdGVsZXBob25lPC9iPiwgaW4gRGV0YWlsQrABPGI-QWxleGFuZGVyIEdyYWhhbSBCZWxsIHNlY3VyZWQgdGhlIGZpcnN0IHdpZGVseSByZWNvZ25pemVkIHBhdGVudDwvYj4sIHdoaWxlIEVsaXNoYSBHcmF5IGFuZCBBbnRvbmlvIE1ldWNjaSBhbHNvIG1hZGUgZXNzZW50aWFsIGNvbnRyaWJ1dGlvbnMuIEluIHRoaXMgYXJ0aWNsZS4gRWFybHkmbmJzcDsuLi4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "The most commonly held belief is that chess originated in India, where it was called Chaturanga, which appears to have been invented in ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/diplo/posts/did-u-know-chess-was-invented-in-india-during-the-6th-century/1430742848417857/"
+      "description": "Alexander Graham Bell secured the first widely recognized patent, while Elisha Gray and Antonio Meucci also made essential contributions. In this article. Early ...",
+      "icon": "https://serpapi.com/images/i/UklGRsQAAABXRUJQVlA4ILgAAACQBQCdASogACAAPtEutFooIagoGAEAGglmAKj1i17fd8JAecSp89ydbA5eCST8baB6G8a8AAD-uWXzvoMgR-54WlFljpZ10VNXVn92oU5MqHhlatJoi_61e6_1Y5oLLmgNz6YDBMiC-MPt7YJV8gfG9h4ZvECvHlCPVvUYA9eAz9GbDfyHDqNKNOb8cP2FE6YwQcv1TtkvtOWp3dPAT65FyjMv5ypqHFXfwY1G54xUz10nuSurpAAA.webp",
+      "source_info_link": "https://support.belgiumcampus.ac.za/reports/the-story-of-who-really-invented-telephone-x7ta7b"
      }
     },
-    "date": "Dec 8, 2025",
-    "displayed_link": "https://www.facebook.com › diplo › posts › did-u-kno...",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/diplo/posts/did-u-know-chess-was-invented-in-india-during-the-6th-century/1430742848417857/",
+    "displayed_link": "https://support.belgiumcampus.ac.za › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRsQAAABXRUJQVlA4ILgAAACQBQCdASogACAAPtEutFooIagoGAEAGglmAKj1i17fd8JAecSp89ydbA5eCST8baB6G8a8AAD-uWXzvoMgR-54WlFljpZ10VNXVn92oU5MqHhlatJoi_61e6_1Y5oLLmgNz6YDBMiC-MPt7YJV8gfG9h4ZvECvHlCPVvUYA9eAz9GbDfyHDqNKNOb8cP2FE6YwQcv1TtkvtOWp3dPAT65FyjMv5ypqHFXfwY1G54xUz10nuSurpAAA.webp",
+    "link": "https://support.belgiumcampus.ac.za/reports/the-story-of-who-really-invented-telephone-x7ta7b",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFZWWr00yGeWNracq_-EKil_ML2DakxK3BMSaKgTjUJ9yTbIfZIdiNSJjPSpKAZXJMkTI8KPn9YTdH3EOt926558E7M7oev02EDWyTEBkQjPuTTqLYVGpOZPojdtksjp1h-mtg2965JCQJOTFIGUVJZ4KvxE77_8KsJaqleXpCnvD5rNA6YVPOjtLcONg4GV_P5DzXGjtbaldZmgjV3MN1BVQrIz0enOe&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQFnoECBwQAQ&uoh=1",
-    "snippet": "did u know chess was invented in india during the 6th century",
-    "source": "Facebook",
-    "title": "did u know chess was invented in india during the 6th century"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFR6J9Amjaqxi63vvJDnMIqW1PzPJGlrS2sHz7GhnOLKIt4tAJHG76T-qBaoTVKhh2ky_WTSvbrlWFGC2PEcsxwsZg1NwhOSx57F3qOeOzk5k6gG0fHKHxlmmsmwYcDNaH2hM3svBNByCDdlHUm6ivIrP7wlFX7DmrTGolZpjBMo_e7yIehDjAyezfIdLde3YfA-BIw&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQFnoECD0QAQ&uoh=1",
+    "snippet": "Alexander Graham Bell secured the first widely recognized patent, while Elisha Gray and Antonio Meucci also made essential contributions. In this article. Early ...",
+    "snippet_highlighted_words": [
+     "Alexander Graham Bell secured the first widely recognized patent"
+    ],
+    "source": "Belgium Campus iTversity",
+    "title": "The story of who really invented telephone, in Detail"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZSTXhNSlROb1VXcDAwUjU5em9rVXlLTE9xclk4VW82bTNaMEE0d2JSeU0ydnEtc05FRGl4WDh3YUxIMG1KODhNYVdXLVVjT2RHTUFkZDlURnRGTjBVbWx6M0Z1TDNvWVRjZ08tX1hhXzJBWEFQN05XcGJaV0NydDhPYzdfSlhCZXA2X1ByX3paVUphejVNS05OLThraF8xb1JkWl96WVVxa1VUS2kwMHNxREtEeUx1aDlkTnhiak5qMUdudkJZZGNWWXpQbXNWNko4YkhwTHIySXBtY0dPYktUOUI2eUt5d1JhNFhnenZOc1phQnZ6QnE5UHFmUG5wSlVELTZKZG5fQlN2ZlZREgQaAggAGokGEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQOUFCAAQABgAIAAqVAoIaW52ZW50ZWQVNKrIPxoJaW52ZW50aW5nGgppbnZlbnRpb25zGgrYp9iu2KrYsdi5Gg9pdjtkO2Rpc2NvdmVyZWQaD2l2O2Q72KfYrtiq2LHYuSqIAQoJdGVsZXBob25lFWjC7j8aA3RlbBoLdMOpbMOpcGhvbmUaDNiq2YTZitmB2YjZhhoOaXY7ZDt0ZWxlcGhvbmUaDGl2O2Q7Y29udGFjdBoKaXY7ZDtwaG9uZRoIaXY7ZDt0ZWwaD2l2O2Q7dGVsZXBob25lcxoRaXY7ZDvYqtmE2YrZgdmI2YYynQIvZ290bz91cmw9Q0FFU3lRRUI2enN3RlJNeE1KVE5vVVdwMDBSNTl6b2tVeUtMT3FyWThVbzZtM1owQTR3YlJ5TTJ2cS1zTkVEaXhYOHdhTEgwbUo4OE1hV1ctVWNPZEdNQWRkOVRGdEZOMFVtbHozRnVMM29ZVGNnTy1fWGFfMkFYQVA3TldwYlpXQ3J0OE9jN19KWEJlcDZfUHJfelpVSmF6NU1LTk4tOGtoXzFvUmRaX3pZVXFrVVRLaTAwc3FES0R5THVoOWROeGJqTmoxR252QllkY1ZZelBtc1Y2SjhiSHBMcjJJcG1jR09iS1Q5QjZ5S3l3UmE0WGd6dk5zWmFCdnpCcTlQcWZQbnBKVUQtNkpkbl9CU3ZmVlE6PEFsZXhhbmRlciBHcmFoYW0gQmVsbCYjMzk7cyBmaXJzdCBzb3VuZCB0cmFuc21pc3Npb24gaW4gMTg3NkKbATxiPkJlbGwgcmVmdXNlZCB0byBoYXZlIHBob25lIGluIHN0dWR5PC9iPiDigJQgdGhvdWdodCBpdCBpbnRydWRlZC4gSGUgaW52ZW50ZWQgdGVsZXBob25lIHRvIGhlbHAgZGVhZiwgYnV0IGRlYWYgY29tbXVuaXR5IGxhdGVyIHByb3Rlc3RlZCBiZWNhdXNlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZSTXhNSlROb1VXcDAwUjU5em9rVXlLTE9xclk4VW82bTNaMEE0d2JSeU0ydnEtc05FRGl4WDh3YUxIMG1KODhNYVdXLVVjT2RHTUFkZDlURnRGTjBVbWx6M0Z1TDNvWVRjZ08tX1hhXzJBWEFQN05XcGJaV0NydDhPYzdfSlhCZXA2X1ByX3paVUphejVNS05OLThraF8xb1JkWl96WVVxa1VUS2kwMHNxREtEeUx1aDlkTnhiak5qMUdudkJZZGNWWXpQbXNWNko4YkhwTHIySXBtY0dPYktUOUI2eUt5d1JhNFhnenZOc1phQnZ6QnE5UHFmUG5wSlVELTZKZG5fQlN2ZlZREgQaAggAGokGEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQOUFCAAQABgAIAAqVAoIaW52ZW50ZWQVNKrIPxoJaW52ZW50aW5nGgppbnZlbnRpb25zGgrYp9iu2KrYsdi5Gg9pdjtkO2Rpc2NvdmVyZWQaD2l2O2Q72KfYrtiq2LHYuSqIAQoJdGVsZXBob25lFWjC7j8aA3RlbBoLdMOpbMOpcGhvbmUaDNiq2YTZitmB2YjZhhoOaXY7ZDt0ZWxlcGhvbmUaDGl2O2Q7Y29udGFjdBoKaXY7ZDtwaG9uZRoIaXY7ZDt0ZWwaD2l2O2Q7dGVsZXBob25lcxoRaXY7ZDvYqtmE2YrZgdmI2YYynQIvZ290bz91cmw9Q0FFU3lRRUI2enN3RlJNeE1KVE5vVVdwMDBSNTl6b2tVeUtMT3FyWThVbzZtM1owQTR3YlJ5TTJ2cS1zTkVEaXhYOHdhTEgwbUo4OE1hV1ctVWNPZEdNQWRkOVRGdEZOMFVtbHozRnVMM29ZVGNnTy1fWGFfMkFYQVA3TldwYlpXQ3J0OE9jN19KWEJlcDZfUHJfelpVSmF6NU1LTk4tOGtoXzFvUmRaX3pZVXFrVVRLaTAwc3FES0R5THVoOWROeGJqTmoxR252QllkY1ZZelBtc1Y2SjhiSHBMcjJJcG1jR09iS1Q5QjZ5S3l3UmE0WGd6dk5zWmFCdnpCcTlQcWZQbnBKVUQtNkpkbl9CU3ZmVlE6PEFsZXhhbmRlciBHcmFoYW0gQmVsbCYjMzk7cyBmaXJzdCBzb3VuZCB0cmFuc21pc3Npb24gaW4gMTg3NkKbATxiPkJlbGwgcmVmdXNlZCB0byBoYXZlIHBob25lIGluIHN0dWR5PC9iPiDigJQgdGhvdWdodCBpdCBpbnRydWRlZC4gSGUgaW52ZW50ZWQgdGVsZXBob25lIHRvIGhlbHAgZGVhZiwgYnV0IGRlYWYgY29tbXVuaXR5IGxhdGVyIHByb3Rlc3RlZCBiZWNhdXNlJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "\"Breakfast cereals were invented to curb sex drive,\" how corn-flake-type cereals are manufactured today: Breakfast cereals were invented to ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=m4reqXABLSU"
+      "description": "Bell refused to have phone in study — thought it intruded. He invented telephone to help deaf, but deaf community later protested because ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/josephfinder/posts/mr-watson-come-here-i-want-to-see-you-we-can-argue-about-who-actually-invented-t/733096458276063/"
      }
     },
-    "date": "Mar 15, 2021",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=m4reqXABLSU",
+    "displayed_link": "أكثر من 380 تفاعل · قبل 3 سنوات",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/josephfinder/posts/mr-watson-come-here-i-want-to-see-you-we-can-argue-about-who-actually-invented-t/733096458276063/",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV8gDj4N-_v_8J6eJRtBYXwWmOSz_szB2-0im7G8YTQHsUNUQNK0LtZ6bimFXyjn1R8pFV67sHY5k0C26XESccfM2fJBSCBcfZq2sT2kSEZ-lW6u93LaBdg7Q-Hr85Og&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQFnoECBcQAQ&uoh=1",
-    "snippet": "\"Breakfast cereals were invented to curb sex drive,\" how corn-flake-type cereals are manufactured today: Breakfast cereals were invented to ...",
-    "snippet_highlighted_words": [
-     "invented",
-     "invented"
-    ],
-    "source": "YouTube",
-    "title": "How modern breakfast cereal was invented"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFRMxMJTNoUWp00R59zokUyKLOqrY8Uo6m3Z0A4wbRyM2vq-sNEDixX8waLH0mJ88MaWW-UcOdGMAdd9TFtFN0Umlz3FuL3oYTcgO-_Xa_2AXAP7NWpbZWCrt8Oc7_JXBep6_Pr_zZUJaz5MKNN-8kh_1oRdZ_zYUqkUTKi00sqDKDyLuh9dNxbjNj1GnvBYdcVYzPmsV6J8bHpLr2IpmcGObKT9B6yKywRa4XgzvNsZaBvzBq9PqfPnpJUD-6Jdn_BSvfVQ&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQFnoECEAQAQ&uoh=1",
+    "snippet": "“Mr. Watson, come here — I want to see you.” We can argue about who actually invented the telephone, but today was the day Alexander Graham Bell ...",
+    "source": "Facebook · Joseph Finder",
+    "title": "Alexander Graham Bell's first sound transmission in 1876"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVnRFTEJyVTUySFNQVDhRdGpqSmtLTkstUk9JaXhaUHZHZkZNOXJxR1JJU0Y0ckNFczRYbUtTUFRHYXluei10aFdobHBKcE5xNGxhSkFORF93T05YcUItNDR2MWcxQkRGZ0lfMGMwZExWY3lJY28yTGJNZl9oUWVidEJ4OG55MGVGaWZkcGZxUlBSSDQSBBoCCAAajgUSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA6gQIABAAGAAgACpUCghpbnZlbnRlZBXUEKVAGglpbnZlbnRpbmcaCmludmVudGlvbnMaCtin2K7Yqtix2LkaD2l2O2Q7ZGlzY292ZXJlZBoPaXY7ZDvYp9iu2KrYsdi5KogBCgl0ZWxlcGhvbmUV1sK6QBoDdGVsGgt0w6lsw6lwaG9uZRoM2KrZhNmK2YHZiNmGGg5pdjtkO3RlbGVwaG9uZRoMaXY7ZDtjb250YWN0GgppdjtkO3Bob25lGghpdjtkO3RlbBoPaXY7ZDt0ZWxlcGhvbmVzGhFpdjtkO9iq2YTZitmB2YjZhjKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZ0RUxCclU1MkhTUFQ4UXRqakprS05LLVJPSWl4WlB2R2ZGTTlycUdSSVNGNHJDRXM0WG1LU1BUR2F5bnotdGhXaGxwSnBOcTRsYUpBTkRfd09OWHFCLTQ0djFnMUJERmdJXzBjMGRMVmN5SWNvMkxiTWZfaFFlYnRCeDhueTBlRmlmZHBmcVJQUkg0OjxXaG8gPGI-SW52ZW50ZWQgVGVsZXBob25lPC9iPj8gSGlzdG9yeSwgSW52ZW50b3IgJmFtcDsgRmFjdHNCnAFUaGUgZmlyc3QgdGVsZXBob25lIHdhcyBpbnZlbnRlZCBieSA8Yj5BbGV4YW5kZXIgR3JhaGFtIEJlbGw8L2I-LiBIZSBmaXJzdCBza2V0Y2hlZCB0aGUgaWRlYSBpbiAxODc1LCBhbmQgdGhlbiB0b29rIG91dCBhIHBhdGVudCBmb3IgaGlzIGRldmljZSB0d28mbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVnRFTEJyVTUySFNQVDhRdGpqSmtLTkstUk9JaXhaUHZHZkZNOXJxR1JJU0Y0ckNFczRYbUtTUFRHYXluei10aFdobHBKcE5xNGxhSkFORF93T05YcUItNDR2MWcxQkRGZ0lfMGMwZExWY3lJY28yTGJNZl9oUWVidEJ4OG55MGVGaWZkcGZxUlBSSDQSBBoCCAAajgUSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA6gQIABAAGAAgACpUCghpbnZlbnRlZBXUEKVAGglpbnZlbnRpbmcaCmludmVudGlvbnMaCtin2K7Yqtix2LkaD2l2O2Q7ZGlzY292ZXJlZBoPaXY7ZDvYp9iu2KrYsdi5KogBCgl0ZWxlcGhvbmUV1sK6QBoDdGVsGgt0w6lsw6lwaG9uZRoM2KrZhNmK2YHZiNmGGg5pdjtkO3RlbGVwaG9uZRoMaXY7ZDtjb250YWN0GgppdjtkO3Bob25lGghpdjtkO3RlbBoPaXY7ZDt0ZWxlcGhvbmVzGhFpdjtkO9iq2YTZitmB2YjZhjKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZ0RUxCclU1MkhTUFQ4UXRqakprS05LLVJPSWl4WlB2R2ZGTTlycUdSSVNGNHJDRXM0WG1LU1BUR2F5bnotdGhXaGxwSnBOcTRsYUpBTkRfd09OWHFCLTQ0djFnMUJERmdJXzBjMGRMVmN5SWNvMkxiTWZfaFFlYnRCeDhueTBlRmlmZHBmcVJQUkg0OjxXaG8gPGI-SW52ZW50ZWQgVGVsZXBob25lPC9iPj8gSGlzdG9yeSwgSW52ZW50b3IgJmFtcDsgRmFjdHNCnAFUaGUgZmlyc3QgdGVsZXBob25lIHdhcyBpbnZlbnRlZCBieSA8Yj5BbGV4YW5kZXIgR3JhaGFtIEJlbGw8L2I-LiBIZSBmaXJzdCBza2V0Y2hlZCB0aGUgaWRlYSBpbiAxODc1LCBhbmQgdGhlbiB0b29rIG91dCBhIHBhdGVudCBmb3IgaGlzIGRldmljZSB0d28mbmJzcDsuLi4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "The Caesar salad was invented in 1924 by Caesar Cardini, an Italian immigrant and restaurateur 01:18. They invented it. This is it.",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/markwiensfoodvideos/videos/eating-the-original-caesar-salad-invented-in-tijuana-mexico/127421029212385/"
+      "description": "The first telephone was invented by Alexander Graham Bell. He first sketched the idea in 1875, and then took out a patent for his device two ...",
+      "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAADQBQCdASocABwAPtE-tFooIigoFAEAGglsAMK5QN5r9AbOCONq0_7SxImnz2yoxk8xYTpK13oAAP72AvQw3rPoZjO-OX2eLZAIUnkr_ALgklAzGt9gszPt4uYS0I-RobbWLXY31kuYX6w160e6hD_gH7c8Ax90TuSYZspeXBDfmOYBAkhflgx69B_wO-p7aDSf6zdebZ0X7-ovjHH_WRAbh15rTTNsZ7X0cfcM_Hn4BS_IZ1gR-WqCjBjR8JsadGHnrhq6Mhufv6qlSddd4uAultUlG2W8zXGGP0yoUh2xexjhUkD7__k4_2utlpJ1zScmQsYEbe-DNj3lk5-cBfft65VPuX_0FDjW6YlaciG6m1AAAAA.webp",
+      "source_info_link": "https://www.letsdiskuss.com/who-invented-telephone"
      }
     },
-    "date": "Feb 22, 2021",
-    "displayed_link": "https://www.facebook.com › ... › Videos",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/markwiensfoodvideos/videos/eating-the-original-caesar-salad-invented-in-tijuana-mexico/127421029212385/",
+    "date": "25‏/09‏/2021",
+    "displayed_link": "https://www.letsdiskuss.com › who-i...",
+    "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAADQBQCdASocABwAPtE-tFooIigoFAEAGglsAMK5QN5r9AbOCONq0_7SxImnz2yoxk8xYTpK13oAAP72AvQw3rPoZjO-OX2eLZAIUnkr_ALgklAzGt9gszPt4uYS0I-RobbWLXY31kuYX6w160e6hD_gH7c8Ax90TuSYZspeXBDfmOYBAkhflgx69B_wO-p7aDSf6zdebZ0X7-ovjHH_WRAbh15rTTNsZ7X0cfcM_Hn4BS_IZ1gR-WqCjBjR8JsadGHnrhq6Mhufv6qlSddd4uAultUlG2W8zXGGP0yoUh2xexjhUkD7__k4_2utlpJ1zScmQsYEbe-DNj3lk5-cBfft65VPuX_0FDjW6YlaciG6m1AAAAA.webp",
+    "link": "https://www.letsdiskuss.com/who-invented-telephone",
     "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFSRzvXCRZT3e2BB7ArYZH11lY_zEUlaM2t9KrL9nORyH9EK1fpANlwJgwazyJxlNVbI4l-DQ0t9ZfpfFVdG-ErdEWByatjAyK9zXKdo8mTgWmmsYLVoB3Zan3l3BUIY4_O1XLPOZe2CzIUWobAgtu_dfoqs_CntvOcYqyGK49RunkM-ostenzkWjb1KIrM8YrqTHX5vRi-_NSFg3odg6tTulg-0hQLfNtup67Xg0ujqJNv73jw&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQFnoECBQQAQ&uoh=1",
-    "snippet": "The Caesar salad was invented in 1924 by Caesar Cardini, an Italian immigrant and restaurateur 01:18. They invented it. This is it.",
-    "snippet_highlighted_words": [
-     "invented",
-     "invented"
-    ],
-    "source": "Facebook",
-    "title": "Did you know, \"CAESAR SALAD\" was invented in Tijuana ..."
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVtELBrU52HSPT8QtjjJkKNK-ROIixZPvGfFM9rqGRISF4rCEs4XmKSPTGaynz-thWhlpJpNq4laJAND_wONXqB-44v1g1BDFgI_0c0dLVcyIco2LbMf_hQebtBx8ny0eFifdpfqRPRH4&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQFnoECEQQAQ&uoh=1",
+    "snippet": "The telephone was invented by Alexander Graham Bell in 1876. Learn about its inventor, history, development, evolution, and impact on communication technology.",
+    "source": "Letsdiskuss",
+    "title": "Who Invented Telephone? History, Inventor & Facts"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmbUNvZVdERWttcDR4SlZBXy1LbzhDQ3ZZVWJfWFZpVFNNTVg2QXI3RFJac1QyVDhnOU42X2Y5OVRObmw2MktOY2RaWm1IbDZZVnRaOU1zU3lnX1VOQnA0b2swZUViSWZEa0FRQXg4cDlYaVhIMVI1eF85NVIzbjdRczhPV2Nwc2d0UWJKZHVuakdnbzBIbkp2VE5XUkVkcGhpQTFiWWl2YWhjWDFNcmM5YlhheTI3REJFMFZHZxIEGgIIABq9BRIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCZBQgAEAAYACAAKlQKCGludmVudGVkFXqfgkAaCWludmVudGluZxoKaW52ZW50aW9ucxoK2KfYrtiq2LHYuRoPaXY7ZDtkaXNjb3ZlcmVkGg9pdjtkO9in2K7Yqtix2LkqiAEKCXRlbGVwaG9uZRUhy4FAGgN0ZWwaC3TDqWzDqXBob25lGgzYqtmE2YrZgdmI2YYaDml2O2Q7dGVsZXBob25lGgxpdjtkO2NvbnRhY3QaCml2O2Q7cGhvbmUaCGl2O2Q7dGVsGg9pdjtkO3RlbGVwaG9uZXMaEWl2O2Q72KrZhNmK2YHZiNmGMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmbUNvZVdERWttcDR4SlZBXy1LbzhDQ3ZZVWJfWFZpVFNNTVg2QXI3RFJac1QyVDhnOU42X2Y5OVRObmw2MktOY2RaWm1IbDZZVnRaOU1zU3lnX1VOQnA0b2swZUViSWZEa0FRQXg4cDlYaVhIMVI1eF85NVIzbjdRczhPV2Nwc2d0UWJKZHVuakdnbzBIbkp2VE5XUkVkcGhpQTFiWWl2YWhjWDFNcmM5YlhheTI3REJFMFZHZzpGSG93IGNvbWUgdGhlcmUmIzM5O3Mgbm8gY29uc2Vuc3VzIG92ZXIgd2hvIDxiPmludmVudGVkPC9iPiAuLi4gLSBRdW9yYUKVATxiPkFsZXhhbmRlciBHcmFoYW0gQmVsbCBpcyBjcmVkaXRlZCB3aXRoIGludmVudGluZyB0aGUgdGVsZXBob25lPC9iPi4gSGUgd2FzIGF3YXJkZWQgdGhlIHBhdGVudCBmb3IgdGhlIGludmVudGlvbiBvZiB0aGUgdGVsZXBob25lIG9uIE1hcmNoIDcsIDE4NzYuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmbUNvZVdERWttcDR4SlZBXy1LbzhDQ3ZZVWJfWFZpVFNNTVg2QXI3RFJac1QyVDhnOU42X2Y5OVRObmw2MktOY2RaWm1IbDZZVnRaOU1zU3lnX1VOQnA0b2swZUViSWZEa0FRQXg4cDlYaVhIMVI1eF85NVIzbjdRczhPV2Nwc2d0UWJKZHVuakdnbzBIbkp2VE5XUkVkcGhpQTFiWWl2YWhjWDFNcmM5YlhheTI3REJFMFZHZxIEGgIIABq9BRIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCZBQgAEAAYACAAKlQKCGludmVudGVkFXqfgkAaCWludmVudGluZxoKaW52ZW50aW9ucxoK2KfYrtiq2LHYuRoPaXY7ZDtkaXNjb3ZlcmVkGg9pdjtkO9in2K7Yqtix2LkqiAEKCXRlbGVwaG9uZRUhy4FAGgN0ZWwaC3TDqWzDqXBob25lGgzYqtmE2YrZgdmI2YYaDml2O2Q7dGVsZXBob25lGgxpdjtkO2NvbnRhY3QaCml2O2Q7cGhvbmUaCGl2O2Q7dGVsGg9pdjtkO3RlbGVwaG9uZXMaEWl2O2Q72KrZhNmK2YHZiNmGMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmbUNvZVdERWttcDR4SlZBXy1LbzhDQ3ZZVWJfWFZpVFNNTVg2QXI3RFJac1QyVDhnOU42X2Y5OVRObmw2MktOY2RaWm1IbDZZVnRaOU1zU3lnX1VOQnA0b2swZUViSWZEa0FRQXg4cDlYaVhIMVI1eF85NVIzbjdRczhPV2Nwc2d0UWJKZHVuakdnbzBIbkp2VE5XUkVkcGhpQTFiWWl2YWhjWDFNcmM5YlhheTI3REJFMFZHZzpGSG93IGNvbWUgdGhlcmUmIzM5O3Mgbm8gY29uc2Vuc3VzIG92ZXIgd2hvIDxiPmludmVudGVkPC9iPiAuLi4gLSBRdW9yYUKVATxiPkFsZXhhbmRlciBHcmFoYW0gQmVsbCBpcyBjcmVkaXRlZCB3aXRoIGludmVudGluZyB0aGUgdGVsZXBob25lPC9iPi4gSGUgd2FzIGF3YXJkZWQgdGhlIHBhdGVudCBmb3IgdGhlIGludmVudGlvbiBvZiB0aGUgdGVsZXBob25lIG9uIE1hcmNoIDcsIDE4NzYuIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "The Not-Invented-Here Syndrome is considered a classic management pathology, in which a team refuses to use a technology that they didn't create ...",
-      "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAAAQBgCdASocABwAPtE-tFooIigoFAEAGglqAJ0zZzbfpmqwAUuG7qqpiNhXXuQ2-gTeBJOX-o5-wkAA_uduJx0uuBZGGODrP3JY0lLK6TtBBEFz9RKc-ehJjM83Pc4V5zuJZtEW8TLyfNp-qwRpeWblRzfTAKNOBjUxnEvsXOcL_vzN0b9QJF-VbO_mOUk3aMOxy4-gxKHO4sXfw_TJMVEdFdUIH20mNRnJ28Rvzvg3C-CAQhV9DNpTO_wald87M0K3vGoN8_VpU4_p1F88wQANLijrNqX-G_9c1KQQ7UREYZWY9mNeZ-3HLtO1kdIvemUUmrs1lenWas0brR3JQAO6-1-SqQL8AqUt7Z4qVxmvuf_frzGl9zvwswj0Kbmn5PSqHs2T5n8bfvLypgAAAA.webp",
-      "source_info_link": "https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/"
+      "description": "Alexander Graham Bell is credited with inventing the telephone. He was awarded the patent for the invention of the telephone on March 7, 1876.",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "source_info_link": "https://www.quora.com/How-come-theres-no-consensus-over-who-invented-the-telephone"
      }
     },
-    "date": "Oct 14, 2001",
-    "displayed_link": "https://www.joelonsoftware.com › 2001/10/14 › in-defe...",
-    "favicon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAAAQBgCdASocABwAPtE-tFooIigoFAEAGglqAJ0zZzbfpmqwAUuG7qqpiNhXXuQ2-gTeBJOX-o5-wkAA_uduJx0uuBZGGODrP3JY0lLK6TtBBEFz9RKc-ehJjM83Pc4V5zuJZtEW8TLyfNp-qwRpeWblRzfTAKNOBjUxnEvsXOcL_vzN0b9QJF-VbO_mOUk3aMOxy4-gxKHO4sXfw_TJMVEdFdUIH20mNRnJ28Rvzvg3C-CAQhV9DNpTO_wald87M0K3vGoN8_VpU4_p1F88wQANLijrNqX-G_9c1KQQ7UREYZWY9mNeZ-3HLtO1kdIvemUUmrs1lenWas0brR3JQAO6-1-SqQL8AqUt7Z4qVxmvuf_frzGl9zvwswj0Kbmn5PSqHs2T5n8bfvLypgAAAA.webp",
-    "link": "https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/",
+    "displayed_link": "أكثر من 30 إجابة · قبل 6 سنوات",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+    "link": "https://www.quora.com/How-come-theres-no-consensus-over-who-invented-the-telephone",
     "position": 6,
-    "read_more_link": "https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/#:~:text=The%20Not%2DInvented%2DHere%20Syndrome%20is%20considered,that%20they%20didn't%20create%20themselves.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFUErA-O8As-qfzW1104MxbkLx31HKEJRxDoe0XXxr2GaOdT33x_M1IAxSMfuoDsXt0FGoKjh9cOFZCrKthiHziuJuk7hqQ4G1vvr8R6TKXtpcoih0QjtQnqoQGlBrD_Q1E0uaJVdJslHXtDTS_1pqQoNvbUujL8fILQUPZ_Fro83TWjYHEd_&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQFnoECBgQAQ&uoh=1",
-    "snippet": "The Not-Invented-Here Syndrome is considered a classic management pathology, in which a team refuses to use a technology that they didn't create ...",
-    "snippet_highlighted_words": [
-     "Invented"
-    ],
-    "source": "Joel on Software",
-    "title": "In Defense of Not-Invented-Here Syndrome"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFfmCoeWDEkmp4xJVA_-Ko8CCvYUb_XViTSMMX6Ar7DRZsT2T8g9N6_f99TNnl62KNcdZZmHl6YVtZ9MsSyg_UNBp4ok0eEbIfDkAQAx8p9XiXH1R5x_95R3n7Qs8OWcpsgtQbJdunjGgo0HnJvTNWREdphiA1bYivahcX1Mrc9bXay27DBE0VGg&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQFnoECE4QAQ&uoh=1",
+    "snippet": "How come there's no consensus over who invented the telephone?",
+    "source": "Quora",
+    "title": "Why is there no consensus over who invented most things?"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWNUJZdmljdjdfMnhSajV2YjMtRWY2eDVDVmtvVlAtYm40WjRxOXdwREcybGc0bmhhUjBQaXhjU3JqM25DZGhtR2xfc3VxUUlwSXBjTEUxQzNWblhVQ0o4WVRGeW9WN3EySEg4WXE0UXpmNFZoRHRNeTNYNUVFQmZFekF6T196dnJ3OUY0TEtTcDJDRVJJclJXZVpiQ3J3cHg5eUV1YkxJQzVSc09CR2l6NHBscy1xEgQaAggAGtEFEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAqwUIABAAGAAgACpUCghpbnZlbnRlZBVg0xRAGglpbnZlbnRpbmcaCmludmVudGlvbnMaCtin2K7Yqtix2LkaD2l2O2Q7ZGlzY292ZXJlZBoPaXY7ZDvYp9iu2KrYsdi5KogBCgl0ZWxlcGhvbmUVkr4kQBoDdGVsGgt0w6lsw6lwaG9uZRoM2KrZhNmK2YHZiNmGGg5pdjtkO3RlbGVwaG9uZRoMaXY7ZDtjb250YWN0GgppdjtkO3Bob25lGghpdjtkO3RlbBoPaXY7ZDt0ZWxlcGhvbmVzGhFpdjtkO9iq2YTZitmB2YjZhjLGAS9nb3RvP3VybD1DQUVTaUFFQjZ6c3dGVjVCWXZpY3Y3XzJ4Umo1dmIzLUVmNng1Q1Zrb1ZQLWJuNFo0cTl3cERHMmxnNG5oYVIwUGl4Y1NyajNuQ2RobUdsX3N1cVFJcElwY0xFMUMzVm5YVUNKOFlURnlvVjdxMkhIOFlxNFF6ZjRWaER0TXkzWDVFRUJmRXpBek9fenZydzlGNExLU3AyQ0VSSXJSV2VaYkNyd3B4OXlFdWJMSUM1UnNPQkdpejRwbHMtcTo8QWxleGFuZGVyIEdyYWhhbSBCZWxsOiBUaGUgTGlmZSBhbmQgVGltZXMgb2YgdGhlIE1hbiBXaG8gLi4uQrgBQSBjb21wcmVoZW5zaXZlIGJpb2dyYXBoeSBvZiAmcXVvdDs8Yj5BbGV4YW5kZXIgR3JhaGFtIEJlbGw8L2I-JnF1b3Q7IGV4cGxvcmluZyBoaXMgdGVsZXBob25lIGludmVudGlvbiwgb3RoZXIgZ3JvdW5kYnJlYWtpbmcgaW5ub3ZhdGlvbnMgaW4gc291bmQgYW5kIGZsaWdodCwgYW5kIGhpcyBhZHZvY2FjeSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWNUJZdmljdjdfMnhSajV2YjMtRWY2eDVDVmtvVlAtYm40WjRxOXdwREcybGc0bmhhUjBQaXhjU3JqM25DZGhtR2xfc3VxUUlwSXBjTEUxQzNWblhVQ0o4WVRGeW9WN3EySEg4WXE0UXpmNFZoRHRNeTNYNUVFQmZFekF6T196dnJ3OUY0TEtTcDJDRVJJclJXZVpiQ3J3cHg5eUV1YkxJQzVSc09CR2l6NHBscy1xEgQaAggAGtEFEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAqwUIABAAGAAgACpUCghpbnZlbnRlZBVg0xRAGglpbnZlbnRpbmcaCmludmVudGlvbnMaCtin2K7Yqtix2LkaD2l2O2Q7ZGlzY292ZXJlZBoPaXY7ZDvYp9iu2KrYsdi5KogBCgl0ZWxlcGhvbmUVkr4kQBoDdGVsGgt0w6lsw6lwaG9uZRoM2KrZhNmK2YHZiNmGGg5pdjtkO3RlbGVwaG9uZRoMaXY7ZDtjb250YWN0GgppdjtkO3Bob25lGghpdjtkO3RlbBoPaXY7ZDt0ZWxlcGhvbmVzGhFpdjtkO9iq2YTZitmB2YjZhjLGAS9nb3RvP3VybD1DQUVTaUFFQjZ6c3dGVjVCWXZpY3Y3XzJ4Umo1dmIzLUVmNng1Q1Zrb1ZQLWJuNFo0cTl3cERHMmxnNG5oYVIwUGl4Y1NyajNuQ2RobUdsX3N1cVFJcElwY0xFMUMzVm5YVUNKOFlURnlvVjdxMkhIOFlxNFF6ZjRWaER0TXkzWDVFRUJmRXpBek9fenZydzlGNExLU3AyQ0VSSXJSV2VaYkNyd3B4OXlFdWJMSUM1UnNPQkdpejRwbHMtcTo8QWxleGFuZGVyIEdyYWhhbSBCZWxsOiBUaGUgTGlmZSBhbmQgVGltZXMgb2YgdGhlIE1hbiBXaG8gLi4uQrgBQSBjb21wcmVoZW5zaXZlIGJpb2dyYXBoeSBvZiAmcXVvdDs8Yj5BbGV4YW5kZXIgR3JhaGFtIEJlbGw8L2I-JnF1b3Q7IGV4cGxvcmluZyBoaXMgdGVsZXBob25lIGludmVudGlvbiwgb3RoZXIgZ3JvdW5kYnJlYWtpbmcgaW5ub3ZhdGlvbnMgaW4gc291bmQgYW5kIGZsaWdodCwgYW5kIGhpcyBhZHZvY2FjeSZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "In the mid-20th century, Nebraska farmer Frank Zybach invented center-pivot irrigation and transformed agricultural production worldwide.",
-      "icon": "https://serpapi.com/images/i/UklGRqABAABXRUJQVlA4IJQBAACwCACdASocABwAPtE-tFooIigoFAEAGglkALbZ__ZG0tdt1i6A77LNj9D_8X3AP1b3xb9XQ7Rof_lUJTgQdmDRFgiW6CCAdrqyk0nDzAAA_vYJgvJPxnjKXHc3Ltng1EWOQ4_LTJeyPY57P2Spl5jjtQwuBwTCrCJ5oLwH5tJLLbedKtafg6WprNUx1pDAlYwNLQg8pfT2RXLxLZdx85qsosTSJbP0HAdgpjkBfr5qYgEeEnJT_CHE6Y-NX6j3H4WH1_UzjsLwonx_3bBqEJeteXaEo0l3qDWMckDMbxlcj73cJ2H--lSnL5OQlaHEX-nWlBSFz7EmuEKVs8LX-vPTbrl1NzFH6QCzvZZv9gqfjmut3fv-n3fJKix4aCiVnLTOBkcoCkKmn9NVdTUeTb-0n7eiqC5R6z_Ow45MBIqX0zPczLt7cqR17FudkZRKsW6VqzoDLcJQ5s_9SY2YOARM1qtvpcDL17cacCHIYcGz338m_aP-pV_9fhL_-V9JgTjD-FQ1U0DI-2o378D72Oog9a_AAA.webp",
-      "source_info_link": "https://www.invent.org/inductees/frank-zybach"
+      "description": "A comprehensive biography of \"Alexander Graham Bell\" exploring his telephone invention, other groundbreaking innovations in sound and flight, and his advocacy ...",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+      "source_info_link": "https://www.amazon.com/Alexander-Graham-Bell-Invented-Telephone/dp/B06XYFF74T"
      }
     },
-    "date": "Sep 7, 2026",
-    "displayed_link": "https://www.invent.org › inductees › frank-zybach",
-    "favicon": "https://serpapi.com/images/i/UklGRqABAABXRUJQVlA4IJQBAACwCACdASocABwAPtE-tFooIigoFAEAGglkALbZ__ZG0tdt1i6A77LNj9D_8X3AP1b3xb9XQ7Rof_lUJTgQdmDRFgiW6CCAdrqyk0nDzAAA_vYJgvJPxnjKXHc3Ltng1EWOQ4_LTJeyPY57P2Spl5jjtQwuBwTCrCJ5oLwH5tJLLbedKtafg6WprNUx1pDAlYwNLQg8pfT2RXLxLZdx85qsosTSJbP0HAdgpjkBfr5qYgEeEnJT_CHE6Y-NX6j3H4WH1_UzjsLwonx_3bBqEJeteXaEo0l3qDWMckDMbxlcj73cJ2H--lSnL5OQlaHEX-nWlBSFz7EmuEKVs8LX-vPTbrl1NzFH6QCzvZZv9gqfjmut3fv-n3fJKix4aCiVnLTOBkcoCkKmn9NVdTUeTb-0n7eiqC5R6z_Ow45MBIqX0zPczLt7cqR17FudkZRKsW6VqzoDLcJQ5s_9SY2YOARM1qtvpcDL17cacCHIYcGz338m_aP-pV_9fhL_-V9JgTjD-FQ1U0DI-2o378D72Oog9a_AAA.webp",
-    "link": "https://www.invent.org/inductees/frank-zybach",
+    "displayed_link": "https://www.amazon.com › Alexande...",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+    "link": "https://www.amazon.com/Alexander-Graham-Bell-Invented-Telephone/dp/B06XYFF74T",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVxb188RJ65BcvYCRoZO3In_Mlf1o8HGySgrUqRvKkxBBqMJ8GOvcreOPL5cokv4JYf-nzuQowT9eEn3ADnCKht5WfPETjbMh8tj0vvM7u579s0cvmGHRX649Qj2F9VrYu&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQFnoECB4QAQ&uoh=1",
-    "snippet": "In the mid-20th century, Nebraska farmer Frank Zybach invented center-pivot irrigation and transformed agricultural production worldwide.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFV5BYvicv7_2xRj5vb3-Ef6x5CVkoVP-bn4Z4q9wpDG2lg4nhaR0PixcSrj3nCdhmGl_suqQIpIpcLE1C3VnXUCJ8YTFyoV7q2HH8Yq4Qzf4VhDtMy3X5EEBfEzAzO_zvrw9F4LKSp2CERIrRWeZbCrwpx9yEubLIC5RsOBGiz4pls-q&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQFnoECDwQAQ&uoh=1",
+    "snippet": "A comprehensive biography of \"Alexander Graham Bell\" exploring his telephone invention, other groundbreaking innovations in sound and flight, and his advocacy ...",
     "snippet_highlighted_words": [
-     "Frank Zybach"
+     "Alexander Graham Bell"
     ],
-    "source": "National Inventors Hall of Fame®",
-    "title": "Frank Zybach"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The Guys Who Invented Q-Tips! Ferreira put hydrogen peroxide in your ear holes.",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/itsryangeorge/videos/the-guys-who-invented-q-tips/1671437980458467/"
-     }
-    },
-    "date": "Jan 9, 2025",
-    "displayed_link": "https://www.facebook.com › ... › Ryan George › Videos",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/itsryangeorge/videos/the-guys-who-invented-q-tips/1671437980458467/",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFcbCZ30QGQqCPtoeWJWW3A15T3V20GBi8T6crrzhvw4x-aVfhSfqzNMBFM4L1cYiK0brSVpjmiVh13EBjusntx4mmucPXgoOt69moWHfYaO7vpwC3utjtJjieCejPAbhKYmPyoLUCELgsSkQoOrS08ymcAQLjA4kTjGBbOraqNbUFxZLPWXeEM4y8bi1j4tW&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQFnoECBUQAQ&uoh=1",
-    "snippet": "The Guys Who Invented Q-Tips! Ferreira put hydrogen peroxide in your ear holes.",
-    "snippet_highlighted_words": [
-     "Invented"
-    ],
-    "source": "Facebook",
-    "title": "How Q-Tips Were Invented! | Ryan George"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Invention education offers a powerful approach to bridge this gap. The InventEd community is a network of education professionals committed to cultivating the ...",
-      "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsALsy43yn5tsM6KPVfX_9AF6-r8AHRpYH5pDrKlxbaUk2MOBnaw4AAP71FmN6mJUDx1de1WaX2neddYNdJl78OljnTzd39-jSHH4VbnDXtH1z6oDLc2nvUTs2PYpkAzP3PBirgfKQxN6Vw7drfn8_6sBZhKCuF18EZ-f-8Ba_cZH1tGrQf3ZrzazKBUbSuk1YUqD0xn-L_fO4fI02DMmhWDetOTDj0vZUJgFX3J5YezfcSjrLdjoA5M806I-J02fpSltxytU2fS9Iyl9kg7RRNC0Q6UC4aUU9_4GeypjlwDYB-nqSa_zvBTlN22itQxXgAA.webp",
-      "source_info_link": "https://inventioneducation.org/"
-     }
-    },
-    "displayed_link": "https://inventioneducation.org",
-    "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsALsy43yn5tsM6KPVfX_9AF6-r8AHRpYH5pDrKlxbaUk2MOBnaw4AAP71FmN6mJUDx1de1WaX2neddYNdJl78OljnTzd39-jSHH4VbnDXtH1z6oDLc2nvUTs2PYpkAzP3PBirgfKQxN6Vw7drfn8_6sBZhKCuF18EZ-f-8Ba_cZH1tGrQf3ZrzazKBUbSuk1YUqD0xn-L_fO4fI02DMmhWDetOTDj0vZUJgFX3J5YezfcSjrLdjoA5M806I-J02fpSltxytU2fS9Iyl9kg7RRNC0Q6UC4aUU9_4GeypjlwDYB-nqSa_zvBTlN22itQxXgAA.webp",
-    "link": "https://inventioneducation.org/",
-    "position": 9,
-    "read_more_link": "https://inventioneducation.org/#:~:text=Invention%20education%20offers%20a%20powerful,mindset%20that%20exists%20in%20everyone.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAV0SR5ODns9n-OMBsq2VgQeRkKX7v4CVuQMi4AEo_553tTrUsm17y6oX6tUBqgGU8J2ZlzCmn4XyVjgGTA_dXxvoKC7KhPzJPGMQ6MXkUwxOtfAQ&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQFnoECBIQAQ&uoh=1",
-    "snippet": "Invention education offers a powerful approach to bridge this gap. The InventEd community is a network of education professionals committed to cultivating the ...",
-    "snippet_highlighted_words": [
-     "InventEd"
-    ],
-    "source": "Invention Education",
-    "title": "InventEd | Invention Education research, resources & curricula"
+    "source": "Amazon.com",
+    "title": "Alexander Graham Bell: The Life and Times of the Man ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=invented+telephone&sca_esv=932ce377fb08cd9d&sxsrf=APpeQns-K4A50fGoatZxVgMfSnT9Ns3nzg:1789906048212&ei=gMyvapbHDOeh5NoP0P-6iQM&start=10&sa=N&sstk=AS6-VmKauBXQ0-Wk1xnh-sCdMWYdebMdF2d4R2vOkkQ6TWgbSENIQAG5qFzUbTv0fIAw-QCj0egPp5CbXz_YKATMKuw_35Q61X43wA&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQ8NMDegQINxAM",
+   "next": "https://www.google.com/search?q=invented+telephone&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&ei=Dim9av6uHszFp84P24mBgAo&start=10&sa=N&sstk=AS6-VmLPsohZxo8MSGdlWFRCbXdrk4J0pPTXZK9JeYaO97jhbaKXB6SSl0wwSzX_7rWIXTLHB_vV_aiiXHqUZfxSjFRkSjC2E7xxEQ&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ8NMDegQIOxAI",
    "other_pages": {
-    "2": "https://www.google.com/search?q=invented+telephone&sca_esv=932ce377fb08cd9d&sxsrf=APpeQns-K4A50fGoatZxVgMfSnT9Ns3nzg:1789906048212&ei=gMyvapbHDOeh5NoP0P-6iQM&start=10&sa=N&sstk=AS6-VmKauBXQ0-Wk1xnh-sCdMWYdebMdF2d4R2vOkkQ6TWgbSENIQAG5qFzUbTv0fIAw-QCj0egPp5CbXz_YKATMKuw_35Q61X43wA&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQ8tMDegQINxAE",
-    "3": "https://www.google.com/search?q=invented+telephone&sca_esv=932ce377fb08cd9d&sxsrf=APpeQns-K4A50fGoatZxVgMfSnT9Ns3nzg:1789906048212&ei=gMyvapbHDOeh5NoP0P-6iQM&start=20&sa=N&sstk=AS6-VmKauBXQ0-Wk1xnh-sCdMWYdebMdF2d4R2vOkkQ6TWgbSENIQAG5qFzUbTv0fIAw-QCj0egPp5CbXz_YKATMKuw_35Q61X43wA&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQ8tMDegQINxAG",
-    "4": "https://www.google.com/search?q=invented+telephone&sca_esv=932ce377fb08cd9d&sxsrf=APpeQns-K4A50fGoatZxVgMfSnT9Ns3nzg:1789906048212&ei=gMyvapbHDOeh5NoP0P-6iQM&start=30&sa=N&sstk=AS6-VmKauBXQ0-Wk1xnh-sCdMWYdebMdF2d4R2vOkkQ6TWgbSENIQAG5qFzUbTv0fIAw-QCj0egPp5CbXz_YKATMKuw_35Q61X43wA&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQ8tMDegQINxAI",
-    "5": "https://www.google.com/search?q=invented+telephone&sca_esv=932ce377fb08cd9d&sxsrf=APpeQns-K4A50fGoatZxVgMfSnT9Ns3nzg:1789906048212&ei=gMyvapbHDOeh5NoP0P-6iQM&start=40&sa=N&sstk=AS6-VmKauBXQ0-Wk1xnh-sCdMWYdebMdF2d4R2vOkkQ6TWgbSENIQAG5qFzUbTv0fIAw-QCj0egPp5CbXz_YKATMKuw_35Q61X43wA&ved=2ahUKEwiWh73Rj_2WAxXnEFkFHdC_LjEQ8tMDegQINxAK"
+    "2": "https://www.google.com/search?q=invented+telephone&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&ei=Dim9av6uHszFp84P24mBgAo&start=10&sa=N&sstk=AS6-VmLPsohZxo8MSGdlWFRCbXdrk4J0pPTXZK9JeYaO97jhbaKXB6SSl0wwSzX_7rWIXTLHB_vV_aiiXHqUZfxSjFRkSjC2E7xxEQ&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ8tMDegQIOxAE",
+    "3": "https://www.google.com/search?q=invented+telephone&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnuLPBQEFcYLeAXkDayLdkzJe3n8bA:1790781710504&ei=Dim9av6uHszFp84P24mBgAo&start=20&sa=N&sstk=AS6-VmLPsohZxo8MSGdlWFRCbXdrk4J0pPTXZK9JeYaO97jhbaKXB6SSl0wwSzX_7rWIXTLHB_vV_aiiXHqUZfxSjFRkSjC2E7xxEQ&ved=2ahUKEwj-7eXdzZaXAxXM4skDHdtEAKAQ8tMDegQIOxAG"
    }
   },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1kyeGFORGhKZG5rdFZGRjBVSGsyYjNRME9FWXhaRUk1YWpoRmNGb3labmRaZEhoYVUzVjRWM1pNVkRnMmIycHNlRkl3TFZoTGJVNWlRelZzVFdGRFprVnZNMkZ5VjA0eGVsSTRSM2sxVVRadk1GSk1hM2xhWm5OWlFSSVhSR2x0T1dGMk5uVkljM3BHY0RnMFVESTBiVUpuUVc4YUlrRkVjM0k1WmxGcmRFeDFOMFY2VG1WVU5uTnZXbTE1Y214TGNHUkJkRlE1TkhjIiwiZmN2IjoiMyIsImVpIjoiRGltOWF2NnVIc3pGcDg0UDI0bUJnQW8iLCJxYyI6IkNoSnBiblpsYm5SbFpDQjBaV3hsY0dodmJtVVFBSDBDSGRnLSIsInF1ZXN0aW9uIjoiV2hvIHdhcyB0aGUgZmlyc3QgcGVyc29uIHRvIHVzZSBhIHRlbGVwaG9uZT8iLCJsayI6IkdpdDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndaWEp6YjI0Z2RHOGdkWE5sSUdFZ2RHVnNaWEJvYjI1bCIsImJzIjoiYzQzUU93dkNNQlNHWVZ3ek9YZlFiN2VLRnB5TE44UmRjQkpKemJFSnBFbEpvdFZfYjZRZ1hieXNoX2NadnNPT0xEMUlpNFo3QkVtNEtPY0RhbkxlR2dTTHF5ZHdCTkpVUzJzb3o4YkpxUG1fWnlzMjNMWGwtNGJaZklvSGNlZGh0Y2d6SkFQMU5XRWxteDJrT3NzWUtWTWkxc3JjeUFRU0tCNVlhTHB6SThoaDY3amtGWmFrZFo1bHliVDVqUGdibFMwcUltSW5ObDRyZ2IyMFZkeTNFZXExcW1XZHRaMXZUSkpVUkJCYVFMOUF2X2NFIiwiaWQiOiJmY19EaW05YXY2dUhzekZwODRQMjRtQmdBb180In0=",
+    "page_token": "1Ou613icHdBBUoMwGEDh8TIuLdBSp53pOFJDAS1IIEmTjQOBQslPQY2FduddPJWnsePubb7N-_6Bw1H93pxqrfvP5WQyDMNd1XUVlHeyayfZ5_koJzIDyDOplvP7ufmwlyv05Tvrd9-JSd_TJ2wkTZAmKTS5-zhQ1T9HDNbY5EYODs4a16ZeAPgSBDFZpDGI8NprwfA7URQlx2rGTeA50_7OqsYMLTxh1MBpMUsUFeHZjAQZ7RemedhgVhIgwqo3DBZGYjonzoo5ofGYXXwLb9w5bdyuJGgq2DiERtglpJsWHpxTYzuTDHjERp9CqORGY-aBklBr2UDAWe9uPXjNj84U1QXKmGHzHbcKUl9KJYboCcfbBuu4LZx87A4xwZera4llb_OWjiUycbTRiliVWexcu2T4kLpIC4SdYrjdy9Nqevv_c_W2b_Wy_-iqP5iuhEI",
+    "question": "Who was the first person to use a telephone?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1Ou613icHdBBUoMwGEDh8TIuLdBSp53pOFJDAS1IIEmTjQOBQslPQY2FduddPJWnsePubb7N-_6Bw1H93pxqrfvP5WQyDMNd1XUVlHeyayfZ5_koJzIDyDOplvP7ufmwlyv05Tvrd9-JSd_TJ2wkTZAmKTS5-zhQ1T9HDNbY5EYODs4a16ZeAPgSBDFZpDGI8NprwfA7URQlx2rGTeA50_7OqsYMLTxh1MBpMUsUFeHZjAQZ7RemedhgVhIgwqo3DBZGYjonzoo5ofGYXXwLb9w5bdyuJGgq2DiERtglpJsWHpxTYzuTDHjERp9CqORGY-aBklBr2UDAWe9uPXjNj84U1QXKmGHzHbcKUl9KJYboCcfbBuu4LZx87A4xwZera4llb_OWjiUycbTRiliVWexcu2T4kLpIC4SdYrjdy9Nqevv_c_W2b_Wy_-iqP5iuhEI",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1kyeGFORGhKZG5rdFZGRjBVSGsyYjNRME9FWXhaRUk1YWpoRmNGb3labmRaZEhoYVUzVjRWM1pNVkRnMmIycHNlRkl3TFZoTGJVNWlRelZzVFdGRFprVnZNMkZ5VjA0eGVsSTRSM2sxVVRadk1GSk1hM2xhWm5OWlFSSVhSR2x0T1dGMk5uVkljM3BHY0RnMFVESTBiVUpuUVc4YUlrRkVjM0k1WmxGcmRFeDFOMFY2VG1WVU5uTnZXbTE1Y214TGNHUkJkRlE1TkhjIiwiZmN2IjoiMyIsImVpIjoiRGltOWF2NnVIc3pGcDg0UDI0bUJnQW8iLCJxYyI6IkNoSnBiblpsYm5SbFpDQjBaV3hsY0dodmJtVVFBSDBDSGRnLSIsInF1ZXN0aW9uIjoiV2hvIHdhcyB0aGUgZmlyc3QgcGVyc29uIHRvIHVzZSBhIHRlbGVwaG9uZT8iLCJsayI6IkdpdDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndaWEp6YjI0Z2RHOGdkWE5sSUdFZ2RHVnNaWEJvYjI1bCIsImJzIjoiYzQzUU93dkNNQlNHWVZ3ek9YZlFiN2VLRnB5TE44UmRjQkpKemJFSnBFbEpvdFZfYjZRZ1hieXNoX2NadnNPT0xEMUlpNFo3QkVtNEtPY0RhbkxlR2dTTHF5ZHdCTkpVUzJzb3o4YkpxUG1fWnlzMjNMWGwtNGJaZklvSGNlZGh0Y2d6SkFQMU5XRWxteDJrT3NzWUtWTWkxc3JjeUFRU0tCNVlhTHB6SThoaDY3amtGWmFrZFo1bHliVDVqUGdibFMwcUltSW5ObDRyZ2IyMFZkeTNFZXExcW1XZHRaMXZUSkpVUkJCYVFMOUF2X2NFIiwiaWQiOiJmY19EaW05YXY2dUhzekZwODRQMjRtQmdBb180In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1kyeGFORGhKZG5rdFZGRjBVSGsyYjNRME9FWXhaRUk1YWpoRmNGb3labmRaZEhoYVUzVjRWM1pNVkRnMmIycHNlRkl3TFZoTGJVNWlRelZzVFdGRFprVnZNMkZ5VjA0eGVsSTRSM2sxVVRadk1GSk1hM2xhWm5OWlFSSVhSR2x0T1dGMk5uVkljM3BHY0RnMFVESTBiVUpuUVc4YUlrRkVjM0k1WmxGcmRFeDFOMFY2VG1WVU5uTnZXbTE1Y214TGNHUkJkRlE1TkhjIiwiZmN2IjoiMyIsImVpIjoiRGltOWF2NnVIc3pGcDg0UDI0bUJnQW8iLCJxYyI6IkNoSnBiblpsYm5SbFpDQjBaV3hsY0dodmJtVVFBSDBDSGRnLSIsInF1ZXN0aW9uIjoiSXMgdGhlIHRlbGVwaG9uZSAxNTAgeWVhcnMgb2xkPyIsImxrIjoiR2g1cGN5QjBhR1VnZEdWc1pYQm9iMjVsSURFMU1DQjVaV0Z5Y3lCdmJHUSIsImJzIjoiYzQzUU93dkNNQlNHWVZ3ek9YZlFiN2VLRnB5TE44UmRjQkpKemJFSnBFbEpvdFZfYjZRZ1hieXNoX2NadnNPT0xEMUlpNFo3QkVtNEtPY0RhbkxlR2dTTHF5ZHdCTkpVUzJzb3o4YkpxUG1fWnlzMjNMWGwtNGJaZklvSGNlZGh0Y2d6SkFQMU5XRWxteDJrT3NzWUtWTWkxc3JjeUFRU0tCNVlhTHB6SThoaDY3amtGWmFrZFo1bHliVDVqUGdibFMwcUltSW5ObDRyZ2IyMFZkeTNFZXExcW1XZHRaMXZUSkpVUkJCYVFMOUF2X2NFIiwiaWQiOiJmY19EaW05YXY2dUhzekZwODRQMjRtQmdBb180In0=",
+    "page_token": "xD7L7nicHdDhbqIwAADg3Mv4c4pMl5mYSzqKgGtNC22hfxZs1QqldCcbHv_uXe6p9jRL9j3C9--_vbr269enGQZ_28zn4zg-XPr-Yk8Pqu_m9e2vU3NVW3usVbtZP62D32e1hR8peHlPAWHe84gu8kLSvIz3dWRTGvgdKzVC0EI54XVVxhAXYOCdmXIXDypK71WTjdrRPYY-KRwa6ySbhDBn1OAlh3dG7DOSLGNFoW8o1C3utD2UvjwyDFACXioh8zrBj2zJzaswzWk3TmUIFizAS5FYqULuUcKJKuwHZ4tQ71YrKSgQ3EQny2Pq0ilnQYxDELEmu-eJd3mM97g0r3oXOGg0rMViVZXVUjMznVo5HiJKUEMH0mlwvPdXwuikGtsxkb3LyBJiLdShr0irV9zR5MCfac25OIYyYGR2Vp_bcPbzuX07d8PG_-kv30OKg0I",
+    "question": "Is the telephone 150 years old?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xD7L7nicHdDhbqIwAADg3Mv4c4pMl5mYSzqKgGtNC22hfxZs1QqldCcbHv_uXe6p9jRL9j3C9--_vbr269enGQZ_28zn4zg-XPr-Yk8Pqu_m9e2vU3NVW3usVbtZP62D32e1hR8peHlPAWHe84gu8kLSvIz3dWRTGvgdKzVC0EI54XVVxhAXYOCdmXIXDypK71WTjdrRPYY-KRwa6ySbhDBn1OAlh3dG7DOSLGNFoW8o1C3utD2UvjwyDFACXioh8zrBj2zJzaswzWk3TmUIFizAS5FYqULuUcKJKuwHZ4tQ71YrKSgQ3EQny2Pq0ilnQYxDELEmu-eJd3mM97g0r3oXOGg0rMViVZXVUjMznVo5HiJKUEMH0mlwvPdXwuikGtsxkb3LyBJiLdShr0irV9zR5MCfac25OIYyYGR2Vp_bcPbzuX07d8PG_-kv30OKg0I",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1kyeGFORGhKZG5rdFZGRjBVSGsyYjNRME9FWXhaRUk1YWpoRmNGb3labmRaZEhoYVUzVjRWM1pNVkRnMmIycHNlRkl3TFZoTGJVNWlRelZzVFdGRFprVnZNMkZ5VjA0eGVsSTRSM2sxVVRadk1GSk1hM2xhWm5OWlFSSVhSR2x0T1dGMk5uVkljM3BHY0RnMFVESTBiVUpuUVc4YUlrRkVjM0k1WmxGcmRFeDFOMFY2VG1WVU5uTnZXbTE1Y214TGNHUkJkRlE1TkhjIiwiZmN2IjoiMyIsImVpIjoiRGltOWF2NnVIc3pGcDg0UDI0bUJnQW8iLCJxYyI6IkNoSnBiblpsYm5SbFpDQjBaV3hsY0dodmJtVVFBSDBDSGRnLSIsInF1ZXN0aW9uIjoiSXMgdGhlIHRlbGVwaG9uZSAxNTAgeWVhcnMgb2xkPyIsImxrIjoiR2g1cGN5QjBhR1VnZEdWc1pYQm9iMjVsSURFMU1DQjVaV0Z5Y3lCdmJHUSIsImJzIjoiYzQzUU93dkNNQlNHWVZ3ek9YZlFiN2VLRnB5TE44UmRjQkpKemJFSnBFbEpvdFZfYjZRZ1hieXNoX2NadnNPT0xEMUlpNFo3QkVtNEtPY0RhbkxlR2dTTHF5ZHdCTkpVUzJzb3o4YkpxUG1fWnlzMjNMWGwtNGJaZklvSGNlZGh0Y2d6SkFQMU5XRWxteDJrT3NzWUtWTWkxc3JjeUFRU0tCNVlhTHB6SThoaDY3amtGWmFrZFo1bHliVDVqUGdibFMwcUltSW5ObDRyZ2IyMFZkeTNFZXExcW1XZHRaMXZUSkpVUkJCYVFMOUF2X2NFIiwiaWQiOiJmY19EaW05YXY2dUhzekZwODRQMjRtQmdBb180In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1kyeGFORGhKZG5rdFZGRjBVSGsyYjNRME9FWXhaRUk1YWpoRmNGb3labmRaZEhoYVUzVjRWM1pNVkRnMmIycHNlRkl3TFZoTGJVNWlRelZzVFdGRFprVnZNMkZ5VjA0eGVsSTRSM2sxVVRadk1GSk1hM2xhWm5OWlFSSVhSR2x0T1dGMk5uVkljM3BHY0RnMFVESTBiVUpuUVc4YUlrRkVjM0k1WmxGcmRFeDFOMFY2VG1WVU5uTnZXbTE1Y214TGNHUkJkRlE1TkhjIiwiZmN2IjoiMyIsImVpIjoiRGltOWF2NnVIc3pGcDg0UDI0bUJnQW8iLCJxYyI6IkNoSnBiblpsYm5SbFpDQjBaV3hsY0dodmJtVVFBSDBDSGRnLSIsInF1ZXN0aW9uIjoiV2hpY2ggdGhpbmcgaXMgaW52ZW50ZWQgYnkgQWxleGFuZGVyIEdyYWhhbSBCZWxsPyIsImxrIjoiR2pCM2FHbGphQ0IwYUdsdVp5QnBjeUJwYm5abGJuUmxaQ0JpZVNCaGJHVjRZVzVrWlhJZ1ozSmhhR0Z0SUdKbGJHdyIsImJzIjoiYzQzUU93dkNNQlNHWVZ3ek9YZlFiN2VLRnB5TE44UmRjQkpKemJFSnBFbEpvdFZfYjZRZ1hieXNoX2NadnNPT0xEMUlpNFo3QkVtNEtPY0RhbkxlR2dTTHF5ZHdCTkpVUzJzb3o4YkpxUG1fWnlzMjNMWGwtNGJaZklvSGNlZGh0Y2d6SkFQMU5XRWxteDJrT3NzWUtWTWkxc3JjeUFRU0tCNVlhTHB6SThoaDY3amtGWmFrZFo1bHliVDVqUGdibFMwcUltSW5ObDRyZ2IyMFZkeTNFZXExcW1XZHRaMXZUSkpVUkJCYVFMOUF2X2NFIiwiaWQiOiJmY19EaW05YXY2dUhzekZwODRQMjRtQmdBb180In0=",
+    "page_token": "3nznlnicHdBdbpswAABg9TJ9bGxIOhEpmpoEitKaFOMf8MtEDIFgG6zWrUnedoWdYafaaTbtBJ_0_fytL6P6c_erd85-rBcL7_1DN02dbh_kZBb1x3WUC1lrfaqlWj9-e4Tfz3ITf8nt7l1uc2ot22NQkOrKSxw3V-BqM_M6mWBLu5AYfCgoW1LNXrCKyspokAUwyYYnj9TKCoOPdBQpHTuQGcvaZ42RFpyACpIyD3Kmj03IChJQ1462yMY-KHjm271OXilYkmc9vPLISwAPJ10FzSB2mUqM4PMFadszgj8Ji1BTwEMJo0re-hvikNWhyASMr8dUpIxmbyTc5lLR-TR2QaHmBI-xa1U0Yx5xlDYO0RnWOwgyaMe4b-Kag1VV_vNof2uV8Mc9ztGAXW6a7WmeLjnFNzloQ6lf1rGbJWkQ5v0gqQrQ_gm2fKVzUq1o2oPG35_l1ya8_3-9-XE2bm3fp-4vtBSNig",
+    "question": "Which thing is invented by Alexander Graham Bell?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3nznlnicHdBdbpswAABg9TJ9bGxIOhEpmpoEitKaFOMf8MtEDIFgG6zWrUnedoWdYafaaTbtBJ_0_fytL6P6c_erd85-rBcL7_1DN02dbh_kZBb1x3WUC1lrfaqlWj9-e4Tfz3ITf8nt7l1uc2ot22NQkOrKSxw3V-BqM_M6mWBLu5AYfCgoW1LNXrCKyspokAUwyYYnj9TKCoOPdBQpHTuQGcvaZ42RFpyACpIyD3Kmj03IChJQ1462yMY-KHjm271OXilYkmc9vPLISwAPJ10FzSB2mUqM4PMFadszgj8Ji1BTwEMJo0re-hvikNWhyASMr8dUpIxmbyTc5lLR-TR2QaHmBI-xa1U0Yx5xlDYO0RnWOwgyaMe4b-Kag1VV_vNof2uV8Mc9ztGAXW6a7WmeLjnFNzloQ6lf1rGbJWkQ5v0gqQrQ_gm2fKVzUq1o2oPG35_l1ya8_3-9-XE2bm3fp-4vtBSNig",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1kyeGFORGhKZG5rdFZGRjBVSGsyYjNRME9FWXhaRUk1YWpoRmNGb3labmRaZEhoYVUzVjRWM1pNVkRnMmIycHNlRkl3TFZoTGJVNWlRelZzVFdGRFprVnZNMkZ5VjA0eGVsSTRSM2sxVVRadk1GSk1hM2xhWm5OWlFSSVhSR2x0T1dGMk5uVkljM3BHY0RnMFVESTBiVUpuUVc4YUlrRkVjM0k1WmxGcmRFeDFOMFY2VG1WVU5uTnZXbTE1Y214TGNHUkJkRlE1TkhjIiwiZmN2IjoiMyIsImVpIjoiRGltOWF2NnVIc3pGcDg0UDI0bUJnQW8iLCJxYyI6IkNoSnBiblpsYm5SbFpDQjBaV3hsY0dodmJtVVFBSDBDSGRnLSIsInF1ZXN0aW9uIjoiV2hpY2ggdGhpbmcgaXMgaW52ZW50ZWQgYnkgQWxleGFuZGVyIEdyYWhhbSBCZWxsPyIsImxrIjoiR2pCM2FHbGphQ0IwYUdsdVp5QnBjeUJwYm5abGJuUmxaQ0JpZVNCaGJHVjRZVzVrWlhJZ1ozSmhhR0Z0SUdKbGJHdyIsImJzIjoiYzQzUU93dkNNQlNHWVZ3ek9YZlFiN2VLRnB5TE44UmRjQkpKemJFSnBFbEpvdFZfYjZRZ1hieXNoX2NadnNPT0xEMUlpNFo3QkVtNEtPY0RhbkxlR2dTTHF5ZHdCTkpVUzJzb3o4YkpxUG1fWnlzMjNMWGwtNGJaZklvSGNlZGh0Y2d6SkFQMU5XRWxteDJrT3NzWUtWTWkxc3JjeUFRU0tCNVlhTHB6SThoaDY3amtGWmFrZFo1bHliVDVqUGdibFMwcUltSW5ObDRyZ2IyMFZkeTNFZXExcW1XZHRaMXZUSkpVUkJCYVFMOUF2X2NFIiwiaWQiOiJmY19EaW05YXY2dUhzekZwODRQMjRtQmdBb180In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1kyeGFORGhKZG5rdFZGRjBVSGsyYjNRME9FWXhaRUk1YWpoRmNGb3labmRaZEhoYVUzVjRWM1pNVkRnMmIycHNlRkl3TFZoTGJVNWlRelZzVFdGRFprVnZNMkZ5VjA0eGVsSTRSM2sxVVRadk1GSk1hM2xhWm5OWlFSSVhSR2x0T1dGMk5uVkljM3BHY0RnMFVESTBiVUpuUVc4YUlrRkVjM0k1WmxGcmRFeDFOMFY2VG1WVU5uTnZXbTE1Y214TGNHUkJkRlE1TkhjIiwiZmN2IjoiMyIsImVpIjoiRGltOWF2NnVIc3pGcDg0UDI0bUJnQW8iLCJxYyI6IkNoSnBiblpsYm5SbFpDQjBaV3hsY0dodmJtVVFBSDBDSGRnLSIsInF1ZXN0aW9uIjoiRGlkIFRob21hcyBFZGlzb24gaW52ZW50IHRoZSBmaXJzdCB0ZWxlcGhvbmU/IiwibGsiOiJjNVBTU2NsTVVTakp5TTlOTEZaSVRja3N6czlUeU13clM4MHJBUXFtS3FSbEZoVURXYWs1cVFVWi1YbXBBQSIsImJzIjoiYzQzUU93dkNNQlNHWVZ3ek9YZlFiN2VLRnB5TE44UmRjQkpKemJFSnBFbEpvdFZfYjZRZ1hieXNoX2NadnNPT0xEMUlpNFo3QkVtNEtPY0RhbkxlR2dTTHF5ZHdCTkpVUzJzb3o4YkpxUG1fWnlzMjNMWGwtNGJaZklvSGNlZGh0Y2d6SkFQMU5XRWxteDJrT3NzWUtWTWkxc3JjeUFRU0tCNVlhTHB6SThoaDY3amtGWmFrZFo1bHliVDVqUGdibFMwcUltSW5ObDRyZ2IyMFZkeTNFZXExcW1XZHRaMXZUSkpVUkJCYVFMOUF2X2NFIiwiaWQiOiJmY19EaW05YXY2dUhzekZwODRQMjRtQmdBb180In0=",
+    "page_token": "WXbc6HicHdBfboIwAIDx7DI-yj9x0cQsUQqDDZBCC_RlwVZB2gIbKOjb7rJT7TQzu8CXX77vH3Fu-O_TtRqGrl8ryjiO87JtS3Gc01YqRX9rqEILIQ4F5evl81J7OdENuLjb3ae7jVDXYQuq8R2mgezcd4T3eWPvfY2OTFAdc5v4Kh8hICR0qJoIcYKCLgLAPCzdBeYQHRE1cYPMBKxkoRLDT6iZo6lnDkOosTl-rWIMsJ80eFcIaB0FHWKDaWlGmsAhE1W1PhJ2GqfEwhLfQou8RSncFZarx7Ygh7u4hilXaUYAsqowlvASAu_hJBdWV1OgeSF2yALWXvzoA2RACCoGilQ18yzXGaruR07G0IKRX8Mhkmx7mNpzhOCd1kIiCTtoYC-vt5xlws-0AKPMS5C-EpEshzhlhIyzE71ujNn_z83HSQ7r7qst_wCcJ4Rm",
+    "question": "Did Thomas Edison invent the first telephone?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WXbc6HicHdBfboIwAIDx7DI-yj9x0cQsUQqDDZBCC_RlwVZB2gIbKOjb7rJT7TQzu8CXX77vH3Fu-O_TtRqGrl8ryjiO87JtS3Gc01YqRX9rqEILIQ4F5evl81J7OdENuLjb3ae7jVDXYQuq8R2mgezcd4T3eWPvfY2OTFAdc5v4Kh8hICR0qJoIcYKCLgLAPCzdBeYQHRE1cYPMBKxkoRLDT6iZo6lnDkOosTl-rWIMsJ80eFcIaB0FHWKDaWlGmsAhE1W1PhJ2GqfEwhLfQou8RSncFZarx7Ygh7u4hilXaUYAsqowlvASAu_hJBdWV1OgeSF2yALWXvzoA2RACCoGilQ18yzXGaruR07G0IKRX8Mhkmx7mNpzhOCd1kIiCTtoYC-vt5xlws-0AKPMS5C-EpEshzhlhIyzE71ujNn_z83HSQ7r7qst_wCcJ4Rm",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1kyeGFORGhKZG5rdFZGRjBVSGsyYjNRME9FWXhaRUk1YWpoRmNGb3labmRaZEhoYVUzVjRWM1pNVkRnMmIycHNlRkl3TFZoTGJVNWlRelZzVFdGRFprVnZNMkZ5VjA0eGVsSTRSM2sxVVRadk1GSk1hM2xhWm5OWlFSSVhSR2x0T1dGMk5uVkljM3BHY0RnMFVESTBiVUpuUVc4YUlrRkVjM0k1WmxGcmRFeDFOMFY2VG1WVU5uTnZXbTE1Y214TGNHUkJkRlE1TkhjIiwiZmN2IjoiMyIsImVpIjoiRGltOWF2NnVIc3pGcDg0UDI0bUJnQW8iLCJxYyI6IkNoSnBiblpsYm5SbFpDQjBaV3hsY0dodmJtVVFBSDBDSGRnLSIsInF1ZXN0aW9uIjoiRGlkIFRob21hcyBFZGlzb24gaW52ZW50IHRoZSBmaXJzdCB0ZWxlcGhvbmU%2FIiwibGsiOiJjNVBTU2NsTVVTakp5TTlOTEZaSVRja3N6czlUeU13clM4MHJBUXFtS3FSbEZoVURXYWs1cVFVWi1YbXBBQSIsImJzIjoiYzQzUU93dkNNQlNHWVZ3ek9YZlFiN2VLRnB5TE44UmRjQkpKemJFSnBFbEpvdFZfYjZRZ1hieXNoX2NadnNPT0xEMUlpNFo3QkVtNEtPY0RhbkxlR2dTTHF5ZHdCTkpVUzJzb3o4YkpxUG1fWnlzMjNMWGwtNGJaZklvSGNlZGh0Y2d6SkFQMU5XRWxteDJrT3NzWUtWTWkxc3JjeUFRU0tCNVlhTHB6SThoaDY3amtGWmFrZFo1bHliVDVqUGdibFMwcUltSW5ObDRyZ2IyMFZkeTNFZXExcW1XZHRaMXZUSkpVUkJCYVFMOUF2X2NFIiwiaWQiOiJmY19EaW05YXY2dUhzekZwODRQMjRtQmdBb180In0%3D",
+    "type": "ai_overview"
+   }
+  ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "invented telephone",
-   "time_taken_displayed": 0.26,
-   "total_results": 43
+   "time_taken_displayed": 0.22,
+   "total_results": 122000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:07:27 UTC",
+   "created_at": "2026-09-30 15:21:50 UTC",
    "google_url": "https://www.google.com/search?q=invented+telephone&oq=invented+telephone&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcc7f52acc6b3ee9b372b",
-   "json_endpoint": "https://serpapi.com/searches/-IBJfgiSsm54WZXVcNbiIuXDdQgedQ04hDc-6EPQD7k/6aafcc7f52acc6b3ee9b372b.json",
-   "markdown_endpoint": "https://serpapi.com/searches/-IBJfgiSsm54WZXVcNbiIuXDdQgedQ04hDc-6EPQD7k/6aafcc7f52acc6b3ee9b372b.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/-IBJfgiSsm54WZXVcNbiIuXDdQgedQ04hDc-6EPQD7k/6aafcc7f52acc6b3ee9b372b.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:07:27 UTC",
-   "raw_html_file": "https://serpapi.com/searches/-IBJfgiSsm54WZXVcNbiIuXDdQgedQ04hDc-6EPQD7k/6aafcc7f52acc6b3ee9b372b.html",
+   "id": "6abd290e6f1e40562dccc03b",
+   "json_endpoint": "https://serpapi.com/searches/oNKYBrM2_2s4xehIJeZ90ow7Bo5cXF3ADpGQAF1BQ9w/6abd290e6f1e40562dccc03b.json",
+   "markdown_endpoint": "https://serpapi.com/searches/oNKYBrM2_2s4xehIJeZ90ow7Bo5cXF3ADpGQAF1BQ9w/6abd290e6f1e40562dccc03b.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/oNKYBrM2_2s4xehIJeZ90ow7Bo5cXF3ADpGQAF1BQ9w/6abd290e6f1e40562dccc03b.json_with_pixel_position",
+   "processed_at": "2026-09-30 15:21:50 UTC",
+   "raw_html_file": "https://serpapi.com/searches/oNKYBrM2_2s4xehIJeZ90ow7Bo5cXF3ADpGQAF1BQ9w/6abd290e6f1e40562dccc03b.html",
    "status": "Success",
-   "total_time_taken": 0.87
+   "total_time_taken": 0.49
   },
   "search_parameters": {
    "device": "desktop",
@@ -301,9 +615,7 @@
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=invented+telephone&start=10",
    "other_pages": {
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=invented+telephone&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=invented+telephone&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=invented+telephone&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=invented+telephone&start=40"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=invented+telephone&start=20"
    }
   }
  },

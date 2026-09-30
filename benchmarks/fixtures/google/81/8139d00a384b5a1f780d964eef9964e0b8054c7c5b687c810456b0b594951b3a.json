@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 4792.104,
+ "elapsed_ms": 2073.56,
  "engine": "google",
- "fetched_at": "2026-09-20T11:34:25.066876+00:00",
+ "fetched_at": "2026-09-30T14:39:51.506015+00:00",
  "frugal_cache_version": 1,
  "key": "8139d00a384b5a1f780d964eef9964e0b8054c7c5b687c810456b0b594951b3a",
  "params": {
@@ -9,544 +9,396 @@
   "q": "proposed adam optimisation algorithm"
  },
  "response": {
-  "ai_overview": {
-   "page_token": "w7X8b3iczVVbcvI2FF5A11FeEjDmFsiM5x9JKGACAXNJCi8e3zAG23IsgyFvXUE30VV1NZWNAZuYZP7_oVPNCFnS4dy-8-n8-bdtuZt_fvtrFQQefeS4MAxLJiGmbZQ04nAKPbgatyQ29bXVD0q2vmZYuqCtfOIYhcNOqBY0KvAFwxJ2zclOCdbNZ3k4CdXNqC4_zw5AKsQqBFlVqLFmFvZryskc-9n8Xm2zTYmWDLe0XdJFu8Xr036zVCnzrdKQUxwmAP67gSUTRmsPoNtC7AoDUPtGVaRABBCDi_8iMOMVXqTmR0NIiq-QeVNbL7IJwTgWl9hsyx_dsA3O-ts3_8tMwMw2jH0BIIy9hMD6JpTskJJYThn6IlNn6ezAx4VcTtIYZ3zNDDPMbJ-YFzJA6GIkbYypWWXcOGdKM0GzS2AbAu223yw_zyKob4CE80JIDwm_1s7I9ecddsLpJivcMqf6bOE5S1tp8YdPo3pG01aZ4IeaattTuH0tdhZdb9_48NBu8Ic0KYoSp6lMziaKbujySi7_iPd8ha-XW9WH5n1MJI2emUTTTBqBrTrpr2rWByj1S5A_0QgdQQefEMNsj8ScwCBKRHMghpfTCLAEUukprTeBEgJEAB6DLLTPoyivnZhGUlyjHwyatMTFKjyDN2TriUbHYaaEGY1iR8RjaYkZiVhA7OCLGylgRZD3zFzHLXUvn-1PghkCIhbvBpwSM7_WPAcSMnHEAYS7MMmaltWB0glIHMaAvVDJDp-vcSKU8ilKgSiBwSC-tGZi8sQ8HR2NiiGx9YSvGHej4OcsngrC-PNNXu1cDfgdiaIhnfhyVf5p2nQeXnrau3Uo7lZP7xtHd1WpV3MXzY02Bvk0IY76Ex1H-18R6diPcNKPbhMJf0-kuB9BmEeko2z8felHUfEicpNIvU5-Pxrk9qNs3AiM00T6uh_9NJHQl0Q61mEukUg-kbybRDLDayJl-xHO70dnIv1KP4K_2I9iXhnHJductmvzZpPqFntV2cTEXfYMZ7wtN8rPTQO9bu0OCb9tUksneHQU3b6XLf0RVnrBQb-X2QF5NPTCu6C4d55PPEIN_U7RFeeOeIHlWFQJLOLeKbZJfCtYOQXH9olQVhr4zYAhOmyd4SRYNMKKt927ZNQaNmwlfOEnh9WcB5a5L3qV2Xragwq2CZ31FoOm4o9pn6-1FgC-vC8kD70sKHvzipb-sQmmVVmrivp4Wu-sB0Fdk5E70wf-bDFQh_3Bm8rb83Bq72dvdWvTGi_FtfP6MGwZaxD7RYV-FW21Pj8S92HB8TWBoV8zwYsE3kwGJ4rLk03CZshmg6EDC1RTZIPuhEatwdKlt5aqXmnUHoyCYwYHT2gWqOsL_L_ndkWM",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=w7X8b3iczVVbcvI2FF5A11FeEjDmFsiM5x9JKGACAXNJCi8e3zAG23IsgyFvXUE30VV1NZWNAZuYZP7_oVPNCFnS4dy-8-n8-bdtuZt_fvtrFQQefeS4MAxLJiGmbZQ04nAKPbgatyQ29bXVD0q2vmZYuqCtfOIYhcNOqBY0KvAFwxJ2zclOCdbNZ3k4CdXNqC4_zw5AKsQqBFlVqLFmFvZryskc-9n8Xm2zTYmWDLe0XdJFu8Xr036zVCnzrdKQUxwmAP67gSUTRmsPoNtC7AoDUPtGVaRABBCDi_8iMOMVXqTmR0NIiq-QeVNbL7IJwTgWl9hsyx_dsA3O-ts3_8tMwMw2jH0BIIy9hMD6JpTskJJYThn6IlNn6ezAx4VcTtIYZ3zNDDPMbJ-YFzJA6GIkbYypWWXcOGdKM0GzS2AbAu223yw_zyKob4CE80JIDwm_1s7I9ecddsLpJivcMqf6bOE5S1tp8YdPo3pG01aZ4IeaattTuH0tdhZdb9_48NBu8Ic0KYoSp6lMziaKbujySi7_iPd8ha-XW9WH5n1MJI2emUTTTBqBrTrpr2rWByj1S5A_0QgdQQefEMNsj8ScwCBKRHMghpfTCLAEUukprTeBEgJEAB6DLLTPoyivnZhGUlyjHwyatMTFKjyDN2TriUbHYaaEGY1iR8RjaYkZiVhA7OCLGylgRZD3zFzHLXUvn-1PghkCIhbvBpwSM7_WPAcSMnHEAYS7MMmaltWB0glIHMaAvVDJDp-vcSKU8ilKgSiBwSC-tGZi8sQ8HR2NiiGx9YSvGHej4OcsngrC-PNNXu1cDfgdiaIhnfhyVf5p2nQeXnrau3Uo7lZP7xtHd1WpV3MXzY02Bvk0IY76Ex1H-18R6diPcNKPbhMJf0-kuB9BmEeko2z8felHUfEicpNIvU5-Pxrk9qNs3AiM00T6uh_9NJHQl0Q61mEukUg-kbybRDLDayJl-xHO70dnIv1KP4K_2I9iXhnHJductmvzZpPqFntV2cTEXfYMZ7wtN8rPTQO9bu0OCb9tUksneHQU3b6XLf0RVnrBQb-X2QF5NPTCu6C4d55PPEIN_U7RFeeOeIHlWFQJLOLeKbZJfCtYOQXH9olQVhr4zYAhOmyd4SRYNMKKt927ZNQaNmwlfOEnh9WcB5a5L3qV2Xragwq2CZ31FoOm4o9pn6-1FgC-vC8kD70sKHvzipb-sQmmVVmrivp4Wu-sB0Fdk5E70wf-bDFQh_3Bm8rb83Bq72dvdWvTGi_FtfP6MGwZaxD7RYV-FW21Pj8S92HB8TWBoV8zwYsE3kwGJ4rLk03CZshmg6EDC1RTZIPuhEatwdKlt5aqXmnUHoyCYwYHT2gWqOsL_L_ndkWM"
-  },
-  "inline_videos": [
-   {
-    "channel": "ByteQuest",
-    "date": "Dec 5, 2025",
-    "duration": "2:23",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=MWZakqZDgfQ&t=21",
-      "time": "00:21",
-      "title": "The Atom Optimizer"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=MWZakqZDgfQ&t=56",
-      "time": "00:56",
-      "title": "Exponentially Weighted Moving Averages"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=MWZakqZDgfQ&t=77",
-      "time": "01:17",
-      "title": "Bias Correction"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=MWZakqZDgfQ",
-    "platform": "YouTube",
-    "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQleaf2v2DtPeBEK0un1IlciKQWEJqugkYKRw",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPRPZarCJLeSrckckXu0-cFl7f92Ur4hnXv1KWC9j6wxZ1qc2rv3pIw&s",
-    "title": "ADAM Optimization Algorithm Explained Visually | Deep ..."
-   },
-   {
-    "channel": "Vizuara",
-    "date": "Jan 16, 2025",
-    "duration": "34:27",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=20",
-      "time": "00:20",
-      "title": "Adam Optimizer"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=67",
-      "time": "01:07",
-      "title": "Recap of Gradient Descent"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=73",
-      "time": "01:13",
-      "title": "Loss Function"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=620",
-      "time": "10:20",
-      "title": "Biased First Moment"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=634",
-      "time": "10:34",
-      "title": "Initial Time Step"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=992",
-      "time": "16:32",
-      "title": "Sparse Gradient"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=1045",
-      "time": "17:25",
-      "title": "Implement Adam Optimizer"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=1076",
-      "time": "17:56",
-      "title": "The Python Code"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=1667",
-      "time": "27:47",
-      "title": "Plotting the Loss"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM&t=2005",
-      "time": "33:25",
-      "title": "Different Methods for Making Gradient Descent Better"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=XHF2jW_U3iM",
-    "platform": "YouTube",
-    "position": 2,
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ygTfa5CrJoOHF91O5Klf1C5dk427lVbKtNlztOlZMWyJbIlg_ZaPbw&s",
-    "title": "Adam Optimizer from scratch | Gradient descent made better ..."
-   },
-   {
-    "channel": "Deep Learning with Yacine",
-    "date": "Jul 22, 2025",
-    "duration": "15:21",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=M4HQHmBrAmI&vl=en&t=0",
-      "time": "00:00",
-      "title": "introduction"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=M4HQHmBrAmI&vl=en&t=35",
-      "time": "00:35",
-      "title": "theory"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=M4HQHmBrAmI&vl=en&t=108",
-      "time": "01:48",
-      "title": "formula walkthrough"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=M4HQHmBrAmI&vl=en&t=628",
-      "time": "10:28",
-      "title": "numpy implementation"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=M4HQHmBrAmI&vl=en&t=850",
-      "time": "14:10",
-      "title": "success"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=M4HQHmBrAmI&vl=en&t=870",
-      "time": "14:30",
-      "title": "there isnt much to it"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=M4HQHmBrAmI&vl=en",
-    "platform": "YouTube",
-    "position": 3,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQTw8UGBqltlf8A7XIgtNtliMfpW1lcvw8V2Q",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8ylml28R1066CsWHO6mqdWw2y3A9P40PeceO1u9OFY_tF2JOAbJrZA&s",
-    "title": "Adam Optimizer from Scratch in Python"
-   }
-  ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZRVVFOQVNQTE5SejdHeVRKSGMxWi16RnV6cGtwZmJNX2pWQjZrdjdrTVBXWFRzUUxmRUVVeTNCVHRJc0FDb2xNWmhLVDJSY3RVQXNzN2N3a3VPNzV3ZmlkTVJyaHNrbWxzU2xOWEZUUGFmOWtDNkxxNk93Y1VMU0pXR3EzeWw4dk1tNHVLTGM1TDE0TE9jeG5yWXFfYlFWbVg2ZzVEY3phTEhYTkY5Mk5CRXgSBBoCCAAangYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA-gUIABAAGAAgACqGAQoIcHJvcG9zZWQVAAAAABoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0VrjWeQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUAAAAAGgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFcOkoUAaCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0ywgEvZ290bz91cmw9Q0FFU2hRRUI2enN3RlFVUU5BU1BMTlJ6N0d5VEpIYzFaLXpGdXpwa3BmYk1falZCNmt2N2tNUFdYVHNRTGZFRVV5M0JUdElzQUNvbE1aaEtUMlJjdFVBc3M3Y3drdU83NXdmaWRNUnJoc2ttbHNTbE5YRlRQYWY5a0M2THE2T3djVUxTSldHcTN5bDh2TW00dUtMYzVMMTRMT2N4bnJZcV9iUVZtWDZnNURjemFMSFhORjkyTkJFeDo6Q29kZSA8Yj5BZGFtIE9wdGltaXphdGlvbiBBbGdvcml0aG08L2I-IGZyb20gdGhlIGdyb3VuZCB1cEKPAVdlIHByb3Bvc2UgQWRhbSwgPGI-YSBzdHJhdGVneSBmb3IgZWZmZWN0aXZlIHN0b2NoYXN0aWMgb3B0aW1pemF0aW9uPC9iPiB0aGF0IG9ubHkgbmVlZHMgZmlyc3Qtb3JkZXIgZ3JhZGllbnRzIHdpdGggbWluaW1hbCBtZW1vcnkgcmVxdWlyZW1lbnQuUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZRVVFOQVNQTE5SejdHeVRKSGMxWi16RnV6cGtwZmJNX2pWQjZrdjdrTVBXWFRzUUxmRUVVeTNCVHRJc0FDb2xNWmhLVDJSY3RVQXNzN2N3a3VPNzV3ZmlkTVJyaHNrbWxzU2xOWEZUUGFmOWtDNkxxNk93Y1VMU0pXR3EzeWw4dk1tNHVLTGM1TDE0TE9jeG5yWXFfYlFWbVg2ZzVEY3phTEhYTkY5Mk5CRXgSBBoCCAAangYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA-gUIABAAGAAgACqGAQoIcHJvcG9zZWQVAAAAABoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0VrjWeQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUAAAAAGgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFcOkoUAaCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0ywgEvZ290bz91cmw9Q0FFU2hRRUI2enN3RlFVUU5BU1BMTlJ6N0d5VEpIYzFaLXpGdXpwa3BmYk1falZCNmt2N2tNUFdYVHNRTGZFRVV5M0JUdElzQUNvbE1aaEtUMlJjdFVBc3M3Y3drdU83NXdmaWRNUnJoc2ttbHNTbE5YRlRQYWY5a0M2THE2T3djVUxTSldHcTN5bDh2TW00dUtMYzVMMTRMT2N4bnJZcV9iUVZtWDZnNURjemFMSFhORjkyTkJFeDo6Q29kZSA8Yj5BZGFtIE9wdGltaXphdGlvbiBBbGdvcml0aG08L2I-IGZyb20gdGhlIGdyb3VuZCB1cEKPAVdlIHByb3Bvc2UgQWRhbSwgPGI-YSBzdHJhdGVneSBmb3IgZWZmZWN0aXZlIHN0b2NoYXN0aWMgb3B0aW1pemF0aW9uPC9iPiB0aGF0IG9ubHkgbmVlZHMgZmlyc3Qtb3JkZXIgZ3JhZGllbnRzIHdpdGggbWluaW1hbCBtZW1vcnkgcmVxdWlyZW1lbnQuUgNuZXciAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "We introduce Adam, an algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEVHcEyzHySzICWzICWzHySzICWzICWzICWzR0ezICWzrKWzrKWzq6SzrKWzrKWzurKzrKWzICWzrKWzFByzlZCzsaqzlpGzko2zs6yzChWzHCKzg3-zrKWzX12zrKWzODqzHSOzTk6zraazFRiEP_8gAAAAJHRSTlMAGPe9S__foAXuOP_oUnMNiICq_b7__t8Z___9wf7U_4vK9y59NMOIAAAAxUlEQVR4AXXSBRKDQAxA0SDBgldxu_8dm2yNWcIf5wGrwDmuB6f5iMG5hpZGsC9AjP9PEkr3GLk7zchCBxFdB6SciAp7UpxoyZaAVfXWmi2DQx7j5XojKkEpEL3fatCKLqIPUHs-GsT24qtGt44VUdOe6DYYVXAk0YuOCUlTizNoehNtNeMWwVS38DKJ1gpFPuJlWlnzI27IbYVocvjQGIDRp7LrjnkrJVoPV8wVk1hH68PdBRutKTuVtZM5nNbLlE-rzYxf0moLBPO09OgAAAAASUVORK5CYII.png",
-      "source_info_link": "https://arxiv.org/abs/1412.6980"
+      "description": "We propose Adam, a strategy for effective stochastic optimization that only needs first-order gradients with minimal memory requirement.",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAA9UlEQVR4AWJwL_ABtFsGNxCCQBQ1oQE7oAkb2R62CbuwCmugEpvg6p2VhAN5AfhmNx5WD_9gnJk3Ax_CpboJ8AGGYTCHpqTxDCDmANhNWA4FaFPAKS7G7wowJsyEZdp7QMTbLrAEwfcsro7DhNJ0prTEPzMNpllgoJDp9bVpYhEUHfF_zQ3UcLZLMb4H3LKCrvDfoqFJNw270ouxKR2IINdZLmHZ9QnHk4bwMJYOVC2P-HchXgeKh1rIEYDoNsqIwIV5relr-7EKMOx7pqwWzVdLshJQuOR5tHAr4EzpQFOB-ubVJuybAp-S7AVPDDT9l4-oB_gB9Pix2uV3BJYAAAAASUVORK5CYII.png",
+      "source_info_link": "https://aicorespot.io/code-adam-optimization-algorithm-from-the-ground-up/"
      }
     },
-    "author": "by DP Kingma",
-    "displayed_link": "https://arxiv.org › abs",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEVHcEyzHySzICWzICWzHySzICWzICWzICWzR0ezICWzrKWzrKWzq6SzrKWzrKWzurKzrKWzICWzrKWzFByzlZCzsaqzlpGzko2zs6yzChWzHCKzg3-zrKWzX12zrKWzODqzHSOzTk6zraazFRiEP_8gAAAAJHRSTlMAGPe9S__foAXuOP_oUnMNiICq_b7__t8Z___9wf7U_4vK9y59NMOIAAAAxUlEQVR4AXXSBRKDQAxA0SDBgldxu_8dm2yNWcIf5wGrwDmuB6f5iMG5hpZGsC9AjP9PEkr3GLk7zchCBxFdB6SciAp7UpxoyZaAVfXWmi2DQx7j5XojKkEpEL3fatCKLqIPUHs-GsT24qtGt44VUdOe6DYYVXAk0YuOCUlTizNoehNtNeMWwVS38DKJ1gpFPuJlWlnzI27IbYVocvjQGIDRp7LrjnkrJVoPV8wVk1hH68PdBRutKTuVtZM5nNbLlE-rzYxf0moLBPO09OgAAAAASUVORK5CYII.png",
-    "link": "https://arxiv.org/abs/1412.6980",
+    "displayed_link": "https://aicorespot.io › code-adam-o...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAA9UlEQVR4AWJwL_ABtFsGNxCCQBQ1oQE7oAkb2R62CbuwCmugEpvg6p2VhAN5AfhmNx5WD_9gnJk3Ax_CpboJ8AGGYTCHpqTxDCDmANhNWA4FaFPAKS7G7wowJsyEZdp7QMTbLrAEwfcsro7DhNJ0prTEPzMNpllgoJDp9bVpYhEUHfF_zQ3UcLZLMb4H3LKCrvDfoqFJNw270ouxKR2IINdZLmHZ9QnHk4bwMJYOVC2P-HchXgeKh1rIEYDoNsqIwIV5relr-7EKMOx7pqwWzVdLshJQuOR5tHAr4EzpQFOB-ubVJuybAp-S7AVPDDT9l4-oB_gB9Pix2uV3BJYAAAAASUVORK5CYII.png",
+    "link": "https://aicorespot.io/code-adam-optimization-algorithm-from-the-ground-up/",
     "position": 1,
-    "read_more_link": "https://arxiv.org/abs/1412.6980#:~:text=We%20introduce%20Adam%2C%20an%20algorithm,adaptive%20estimates%20of%20lower%2Dorder%20moments.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAVpHMPFi0LdBUvMf-afLJCTLe5bvGKv3rhOqfXZyQohS03rs9c3WaP4opTMBJuc1s_2y7t-EvtVELghQ4yPgnb8IHh3te9BJrSuEu_eSwMZ9DYGw&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQFnoECB0QAQ&uoh=1",
-    "snippet": "We introduce Adam, an algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFQUQNASPLNRz7GyTJHc1Z-zFuzpkpfbM_jVB6kv7kMPWXTsQLfEEUy3BTtIsAColMZhKT2RctUAss7cwkuO75wfidMRrhskmlsSlNXFTPaf9kC6Lq6OwcULSJWGq3yl8vMm4uKLc5L14LOcxnrYq_bQVmX6g5DczaLHXNF92NBEx&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECBkQAQ&uoh=1",
+    "snippet": "We propose Adam, a strategy for effective stochastic optimization that only needs first-order gradients with minimal memory requirement.",
     "snippet_highlighted_words": [
-     "an algorithm for first-order gradient-based optimization"
+     "a strategy for effective stochastic optimization"
     ],
-    "source": "arXiv.org",
-    "title": "[1412.6980] Adam: A Method for Stochastic Optimization"
+    "source": "AICorespot",
+    "title": "Code Adam Optimization Algorithm from the ground up"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZhZlAxNFZjTUVxMXJKQy1NT1M5cDZnR2IyM1dKUDRYUE0xYW1zeXFOcDNSZHJZQnZWb1Q0U2ROZmViRGg4MTVfd0UxV05iMzRhOGlpU1phX3haYkZzVi1YUG9oRXNxak50WEtPVXJLQ3NaV21Tbmo5Xzg4R2dOT1Nzd3d3ZllxTlQxb2xYSFg5ajBSWDlqQmxFQmw5Z2hyM3RIc1hNWU1rNS1wVHowUFk2X2JDNGZhVTZ2TzM3OEN1R1Y2eEhqVU5ya1prWDVVclpoa1k3QThtbU95SjkxOE1nEgQaAggAGrkGEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAkwYIABAAGAAgACqGAQoIcHJvcG9zZWQVAAAAABoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0Vi92nQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUAAAAAGgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFTstmEAaCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0y8AEvZ290bz91cmw9Q0FFU3B3RUI2enN3RmFmUDE0VmNNRXExckpDLU1PUzlwNmdHYjIzV0pQNFhQTTFhbXN5cU5wM1JkcllCdlZvVDRTZE5mZWJEaDgxNV93RTFXTmIzNGE4aWlTWmFfeFpiRnNWLVhQb2hFc3FqTnRYS09VcktDc1pXbVNuajlfODhHZ05PU3N3d3dmWXFOVDFvbFhIWDlqMFJYOWpCbEVCbDlnaHIzdEhzWE1ZTWs1LXBUejBQWTZfYkM0ZmFVNnZPMzc4Q3VHVjZ4SGpVTnJrWmtYNVVyWmhrWTdBOG1tT3lKOTE4TWc6KzxiPkFkYW0gT3B0aW1pemF0aW9uIEFsZ29yaXRobTwvYj4gLSBNZWRpdW1CiQE8Yj5BZGFtIG9wdGltaXphdGlvbiBhbGdvcml0aG08L2I-IGVzc2VudGlhbGx5IHRha2VzIGFuZCB0aWVzIHRvZ2V0aGVyIE1vbWVudHVtIGFuZCBSTVNwcm9wLiBBZGFtcyBzdGFuZHMgZm9yIEFkYXB0aXZlIE1vbWVudCBFc3RpbWF0aW9uLlIDbmV3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZhZlAxNFZjTUVxMXJKQy1NT1M5cDZnR2IyM1dKUDRYUE0xYW1zeXFOcDNSZHJZQnZWb1Q0U2ROZmViRGg4MTVfd0UxV05iMzRhOGlpU1phX3haYkZzVi1YUG9oRXNxak50WEtPVXJLQ3NaV21Tbmo5Xzg4R2dOT1Nzd3d3ZllxTlQxb2xYSFg5ajBSWDlqQmxFQmw5Z2hyM3RIc1hNWU1rNS1wVHowUFk2X2JDNGZhVTZ2TzM3OEN1R1Y2eEhqVU5ya1prWDVVclpoa1k3QThtbU95SjkxOE1nEgQaAggAGrkGEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAkwYIABAAGAAgACqGAQoIcHJvcG9zZWQVAAAAABoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0Vi92nQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUAAAAAGgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFTstmEAaCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0y8AEvZ290bz91cmw9Q0FFU3B3RUI2enN3RmFmUDE0VmNNRXExckpDLU1PUzlwNmdHYjIzV0pQNFhQTTFhbXN5cU5wM1JkcllCdlZvVDRTZE5mZWJEaDgxNV93RTFXTmIzNGE4aWlTWmFfeFpiRnNWLVhQb2hFc3FqTnRYS09VcktDc1pXbVNuajlfODhHZ05PU3N3d3dmWXFOVDFvbFhIWDlqMFJYOWpCbEVCbDlnaHIzdEhzWE1ZTWs1LXBUejBQWTZfYkM0ZmFVNnZPMzc4Q3VHVjZ4SGpVTnJrWmtYNVVyWmhrWTdBOG1tT3lKOTE4TWc6KzxiPkFkYW0gT3B0aW1pemF0aW9uIEFsZ29yaXRobTwvYj4gLSBNZWRpdW1CiQE8Yj5BZGFtIG9wdGltaXphdGlvbiBhbGdvcml0aG08L2I-IGVzc2VudGlhbGx5IHRha2VzIGFuZCB0aWVzIHRvZ2V0aGVyIE1vbWVudHVtIGFuZCBSTVNwcm9wLiBBZGFtcyBzdGFuZHMgZm9yIEFkYXB0aXZlIE1vbWVudCBFc3RpbWF0aW9uLlIDbmV3IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Adam (Adaptive Moment Estimation) optimizer combines the advantages of Momentum and RMSprop techniques to adjust learning rates during training.",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwujUQvjUUujEUvjUUujUUujUUujUUvjUYvjUYvjUYujUUvjUUvjUYwi0MvjUYvjUaDgY7PAAAAEXRSTlMACRRIe7hrNKX_21qN6SD0zVxKFHYAAACqSURBVHgB3Y8FkgMgEASxlcGW_7_2sPPkAUmjXei4t8N7_0RCTETEclZkSZK7HhSbXJbUI43PaiejxHWgzVUFpqRh9R6V0levaD7C0pYS3C9kgAc0uIdUEIx_hRh4As9FQssHg-GHrEWF9kWYb9Z8pceBlYzR4o5bDZ1X2kUy6yvmQK5RmAzVBUKrRYoaTtCY10uGrTKOfEUKqQGg4rdwnpLZ_0zkfskr8gHhwgjM82lwXwAAAABJRU5ErkJggg.png",
-      "source_info_link": "https://www.geeksforgeeks.org/deep-learning/adam-optimizer/"
+      "description": "Adam optimization algorithm essentially takes and ties together Momentum and RMSprop. Adams stands for Adaptive Moment Estimation.",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+      "source_info_link": "https://medium.com/optimization-algorithms-for-deep-neural-networks/adam-optimization-algorithm-7ce202877eda"
      }
     },
-    "date": "May 19, 2026",
-    "displayed_link": "https://www.geeksforgeeks.org › deep-learning › adam-...",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwujUQvjUUujEUvjUUujUUujUUujUUvjUYvjUYvjUYujUUvjUUvjUYwi0MvjUYvjUaDgY7PAAAAEXRSTlMACRRIe7hrNKX_21qN6SD0zVxKFHYAAACqSURBVHgB3Y8FkgMgEASxlcGW_7_2sPPkAUmjXei4t8N7_0RCTETEclZkSZK7HhSbXJbUI43PaiejxHWgzVUFpqRh9R6V0levaD7C0pYS3C9kgAc0uIdUEIx_hRh4As9FQssHg-GHrEWF9kWYb9Z8pceBlYzR4o5bDZ1X2kUy6yvmQK5RmAzVBUKrRYoaTtCY10uGrTKOfEUKqQGg4rdwnpLZ_0zkfskr8gHhwgjM82lwXwAAAABJRU5ErkJggg.png",
-    "link": "https://www.geeksforgeeks.org/deep-learning/adam-optimizer/",
+    "displayed_link": "Mygtuko „Patinka“ paspaudimų: 2 · prieš 6 metus",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+    "link": "https://medium.com/optimization-algorithms-for-deep-neural-networks/adam-optimization-algorithm-7ce202877eda",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVaJgKTZhAZUH-Vx5Cn3Y0AquXrIsagP-fORYllcXcIIQ9nzLATLWb2JfRTqHF7bI-n2r3uIV2gDjrhpIxCvpCg0TQSVTuRSpvXKsWCQppJguNbmBh8odM0yoRYeYWRum3PIfGzu_mYpg_N0-jEqo&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQFnoECB4QAQ&uoh=1",
-    "snippet": "Adam (Adaptive Moment Estimation) optimizer combines the advantages of Momentum and RMSprop techniques to adjust learning rates during training.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFafP14VcMEq1rJC-MOS9p6gGb23WJP4XPM1amsyqNp3RdrYBvVoT4SdNfebDh815_wE1WNb34a8iiSZa_xZbFsV-XPohEsqjNtXKOUrKCsZWmSnj9_88GgNOSswwwfYqNT1olXHX9j0RX9jBlEBl9ghr3tHsXMYMk5-pTz0PY6_bC4faU6vO378CuGV6xHjUNrkZkX5UrZhkY7A8mmOyJ918Mg&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECCEQAQ&uoh=1",
+    "snippet": "Adam optimization algorithm essentially takes and ties together Momentum and RMSprop. Adams stands for Adaptive Moment Estimation.",
     "snippet_highlighted_words": [
-     "Adam (Adaptive Moment Estimation) optimizer"
+     "Adam optimization algorithm"
     ],
-    "source": "GeeksforGeeks",
-    "title": "Introduction To Adam Optimizer"
+    "source": "Medium · Bibek Shah Shankhar",
+    "title": "Adam Optimization Algorithm"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUDL2dvdG8_dXJsPUNBRVNsd0lCNnpzd0ZRSkNyU2xncXQzMlFzb3pkVW1yT0dCMllaWWNUNzNEeXZWaS0yRHdtRWY5d1dmR2lsU1o5LWxuVERxcjZSdkwwbXBZaTNNRUdpMXVEakdjc2ZJNXB3cE1yWkpGR2tJWnI5U1ltWW5zMGxnOWFmTjc1X3ZMMk1EZ3A3cHd6VkkycTlxRGxPSVVTalFfdXRXLWhPRVYzT3ZHR0JXcXEwLURGbjRidHc0RHpDbmp3cTc3OVEwemgtVjFmMUJkalJQcE9lZ0w1LURsZzR2T3NzTEhTelRwSHVCLTFQZjFMa29JcWtrZkV1MHlsLVNPMnd2NTdCaldxenhlSWhwaW11Y2R5VEE5RzkxM2JWTzdwbXZueEVZdW1RXzZTNFAzTXhxNk5ZOFctc0VYcjduMGNMcXJ4Ul9Na0VheVJnZlZ3UHlWcUppVWp0VVE5em1xV3VBRW00VDU5aFBkSWZvaVZXSkFSaW1lelBhSmw0S21fVmMSBBoCCAAa2gcSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAtgcIABAAGAAgACqGAQoIcHJvcG9zZWQVAAAAABoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0VMY3AQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUAAAAAGgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFSoLvkAaCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0yhQMvZ290bz91cmw9Q0FFU2x3SUI2enN3RlFKQ3JTbGdxdDMyUXNvemRVbXJPR0IyWVpZY1Q3M0R5dlZpLTJEd21FZjl3V2ZHaWxTWjktbG5URHFyNlJ2TDBtcFlpM01FR2kxdURqR2NzZkk1cHdwTXJaSkZHa0lacjlTWW1ZbnMwbGc5YWZONzVfdkwyTURncDdwd3pWSTJxOXFEbE9JVVNqUV91dFctaE9FVjNPdkdHQldxcTAtREZuNGJ0dzREekNuandxNzc5UTB6aC1WMWYxQmRqUlBwT2VnTDUtRGxnNHZPc3NMSFN6VHBIdUItMVBmMUxrb0lxa2tmRXUweWwtU08yd3Y1N0JqV3F6eGVJaHBpbXVjZHlUQTlHOTEzYlZPN3Btdm54RVl1bVFfNlM0UDNNeHE2Tlk4Vy1zRVhyN24wY0xxcnhSX01rRWF5UmdmVndQeVZxSmlVanRVUTl6bXFXdUFFbTRUNTloUGRJZm9pVldKQVJpbWV6UGFKbDRLbV9WYzpAVW5kZXJzdGFuZGluZyB0aGUgPGI-QWRhbSBPcHRpbWl6YXRpb24gQWxnb3JpdGhtPC9iPiAtIE1hdGhXb3Jrc0KCAVRoZSBBZGFtIGFsZ29yaXRobSA8Yj5jb21wdXRlcyBhZGFwdGl2ZSBsZWFybmluZyByYXRlcyBmb3IgZWFjaCBwYXJhbWV0ZXI8L2I-IHVzaW5nIHRoZSBmaXJzdCBhbmQgc2Vjb25kIG1vbWVudHMgb2YgdGhlIGdyYWRpZW50cy5SA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUDL2dvdG8_dXJsPUNBRVNsd0lCNnpzd0ZRSkNyU2xncXQzMlFzb3pkVW1yT0dCMllaWWNUNzNEeXZWaS0yRHdtRWY5d1dmR2lsU1o5LWxuVERxcjZSdkwwbXBZaTNNRUdpMXVEakdjc2ZJNXB3cE1yWkpGR2tJWnI5U1ltWW5zMGxnOWFmTjc1X3ZMMk1EZ3A3cHd6VkkycTlxRGxPSVVTalFfdXRXLWhPRVYzT3ZHR0JXcXEwLURGbjRidHc0RHpDbmp3cTc3OVEwemgtVjFmMUJkalJQcE9lZ0w1LURsZzR2T3NzTEhTelRwSHVCLTFQZjFMa29JcWtrZkV1MHlsLVNPMnd2NTdCaldxenhlSWhwaW11Y2R5VEE5RzkxM2JWTzdwbXZueEVZdW1RXzZTNFAzTXhxNk5ZOFctc0VYcjduMGNMcXJ4Ul9Na0VheVJnZlZ3UHlWcUppVWp0VVE5em1xV3VBRW00VDU5aFBkSWZvaVZXSkFSaW1lelBhSmw0S21fVmMSBBoCCAAa2gcSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAtgcIABAAGAAgACqGAQoIcHJvcG9zZWQVAAAAABoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0VMY3AQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUAAAAAGgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFSoLvkAaCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0yhQMvZ290bz91cmw9Q0FFU2x3SUI2enN3RlFKQ3JTbGdxdDMyUXNvemRVbXJPR0IyWVpZY1Q3M0R5dlZpLTJEd21FZjl3V2ZHaWxTWjktbG5URHFyNlJ2TDBtcFlpM01FR2kxdURqR2NzZkk1cHdwTXJaSkZHa0lacjlTWW1ZbnMwbGc5YWZONzVfdkwyTURncDdwd3pWSTJxOXFEbE9JVVNqUV91dFctaE9FVjNPdkdHQldxcTAtREZuNGJ0dzREekNuandxNzc5UTB6aC1WMWYxQmRqUlBwT2VnTDUtRGxnNHZPc3NMSFN6VHBIdUItMVBmMUxrb0lxa2tmRXUweWwtU08yd3Y1N0JqV3F6eGVJaHBpbXVjZHlUQTlHOTEzYlZPN3Btdm54RVl1bVFfNlM0UDNNeHE2Tlk4Vy1zRVhyN24wY0xxcnhSX01rRWF5UmdmVndQeVZxSmlVanRVUTl6bXFXdUFFbTRUNTloUGRJZm9pVldKQVJpbWV6UGFKbDRLbV9WYzpAVW5kZXJzdGFuZGluZyB0aGUgPGI-QWRhbSBPcHRpbWl6YXRpb24gQWxnb3JpdGhtPC9iPiAtIE1hdGhXb3Jrc0KCAVRoZSBBZGFtIGFsZ29yaXRobSA8Yj5jb21wdXRlcyBhZGFwdGl2ZSBsZWFybmluZyByYXRlcyBmb3IgZWFjaCBwYXJhbWV0ZXI8L2I-IHVzaW5nIHRoZSBmaXJzdCBhbmQgc2Vjb25kIG1vbWVudHMgb2YgdGhlIGdyYWRpZW50cy5SA25ldyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Adam optimizer has been around for almost 10 years, and it is still the defacto and best optimizer for most neural networks. The algorithm ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
-      "source_info_link": "https://www.reddit.com/r/learnmachinelearning/comments/1gbqci5/why_does_adam_optimizer_work_so_well/"
+      "description": "The Adam algorithm computes adaptive learning rates for each parameter using the first and second moments of the gradients.",
+      "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASocABwAPtE-tFooIigoFAEAGglsALs5QNw9YBNHREYnjzclly06x5B85W87x8OhcyyGvLjAAAD-_SqLE8irFQGprzIJOMFzqp3piDBMPV_hdj7rhnyR0J9PzxGQ3PBzcEITd91fOVFfi-t58aRyga62RwJxe_23wq5MCWWy-XbjkL_6bDiBI3BEIVlKHfAQW3smK25q6J0X6PlS4jJfC70JsQa9tdNPbz2jw25UQcVf19ONcDc3UpUGhapWgSWrJVOComsmy52O4f2IvF9IvyKqlgacCJ4J9SPcHexu3FX2Tw2gQYPnbNo_Woea-9_ce03ruOO4ZzAAAA.webp",
+      "source_info_link": "https://www.mathworks.com/matlabcentral/fileexchange/127843-understanding-the-adam-optimization-algorithm?s_tid=srchtitle_support_results_10_Is%20Deep%20Learning%20Toolbox%20where%20built-in%20loss%20functions%20live%3F"
      }
     },
-    "displayed_link": "30+ comments · 1 year ago",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
-    "link": "https://www.reddit.com/r/learnmachinelearning/comments/1gbqci5/why_does_adam_optimizer_work_so_well/",
+    "displayed_link": "https://www.mathworks.com › 1278...",
+    "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASocABwAPtE-tFooIigoFAEAGglsALs5QNw9YBNHREYnjzclly06x5B85W87x8OhcyyGvLjAAAD-_SqLE8irFQGprzIJOMFzqp3piDBMPV_hdj7rhnyR0J9PzxGQ3PBzcEITd91fOVFfi-t58aRyga62RwJxe_23wq5MCWWy-XbjkL_6bDiBI3BEIVlKHfAQW3smK25q6J0X6PlS4jJfC70JsQa9tdNPbz2jw25UQcVf19ONcDc3UpUGhapWgSWrJVOComsmy52O4f2IvF9IvyKqlgacCJ4J9SPcHexu3FX2Tw2gQYPnbNo_Woea-9_ce03ruOO4ZzAAAA.webp",
+    "link": "https://www.mathworks.com/matlabcentral/fileexchange/127843-understanding-the-adam-optimization-algorithm?s_tid=srchtitle_support_results_10_Is%20Deep%20Learning%20Toolbox%20where%20built-in%20loss%20functions%20live%3F",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFXJHUJH7vey7wCx2L86RA515r2LHIIPtx-enAnQLvDnZ_96Mm_u9RSlV9Ap1qIUFweTOONUj7CbF8Is_E0xGV1UA5BTPCi2dWEltJNOFYZ33Y_szpCMd3V309L0_rsvnOVV29XjiLjC9ZEWLVW4WoZUrfCrxkZPNf45uj7J2Mrp9iuAuENirG-mMr_v4HSi9oAUdm7z3A3c&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQFnoECCMQAQ&uoh=1",
-    "snippet": "Adam optimizer has been around for almost 10 years, and it is still the defacto and best optimizer for most neural networks. The algorithm isn't ...",
-    "source": "Reddit · r/learnmachinelearning",
-    "title": "Why does Adam optimizer work so well?"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwIB6zswFQJCrSlgqt32QsozdUmrOGB2YZYcT73DyvVi-2DwmEf9wWfGilSZ9-lnTDqr6RvL0mpYi3MEGi1uDjGcsfI5pwpMrZJFGkIZr9SYmYns0lg9afN75_vL2MDgp7pwzVI2q9qDlOIUSjQ_utW-hOEV3OvGGBWqq0-DFn4btw4DzCnjwq779Q0zh-V1f1BdjRPpOegL5-Dlg4vOssLHSzTpHuB-1Pf1LkoIqkkfEu0yl-SO2wv57BjWqzxeIhpimucdyTA9G913bVO7pmvnxEYumQ_6S4P3Mxq6NY8W-sEXr7n0cLqrxR_MkEayRgfVwPyVqJiUjtUQ9zmqWuAEm4T59hPdIfoiVWJARimezPaJl4Km_Vc&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECBoQAQ&uoh=1",
+    "snippet": "The Adam algorithm computes adaptive learning rates for each parameter using the first and second moments of the gradients.",
+    "snippet_highlighted_words": [
+     "computes adaptive learning rates for each parameter"
+    ],
+    "source": "MathWorks",
+    "title": "Understanding the Adam Optimization Algorithm"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlU3R1NUM0JhNEdYaGE5d2k4aUNHZV9iNWUtMnhhZW1xX2lvNElzRzJ1cE9xMWxEYUtjNFVGRWt5eVVlSXBTX256S0J3cFBETVFlWlFVMUtUT0p0dTg5eklVZ2R0aEI3cG5CTFpKWnQ2OG5YV1F0VjdqYnB4aXBvOHBiQlJWWE9oQUtQa2hGaWZDNWFyZV9xcExCby1wek1kbTJHZmVxTWxDdxIEGgIIABrJBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkClBggAEAAYACAAKoYBCghwcm9wb3NlZBUAAAAAGgNuZXcaB3BsYW5uZWQaCHByb3Bvc2FsGglwcm9wb3NhbHMaB3Byb3Bvc2UaCXN1Z2dlc3RlZBoNaXY7ZDtwcm9wb3NlZBoIaXY7ZDtuZXcaDGl2O2Q7cHJvcG9zZRoOaXY7ZDtzdWdnZXN0ZWQaB3Byb2plY3QqFgoEYWRhbRX___8_GglpdjtkO2FkYW0qewoMb3B0aW1pc2F0aW9uFQAAAAAaDG9wdGltaXphdGlvbhoIb3B0aW1pemUaCW9wdGltaXplZBoJb3B0aW1pemVyGgpvcHRpbWl6aW5nGg1pdjtkO29wdGltaXplGglvcHRpbWlzZWQaCW9wdGltaXNlchoHb3B0aW1hbCo6CglhbGdvcml0aG0V0Ry-PxoKYWxnb3JpdGhtcxoEY29kZRoGbWV0aG9kGg5pdjtkO2FsZ29yaXRobTK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZVN0dTVDNCYTRHWGhhOXdpOGlDR2VfYjVlLTJ4YWVtcV9pbzRJc0cydXBPcTFsRGFLYzRVRkVreXlVZUlwU19uektCd3BQRE1RZVpRVTFLVE9KdHU4OXpJVWdkdGhCN3BuQkxaSlp0NjhuWFdRdFY3amJweGlwbzhwYkJSVlhPaEFLUGtoRmlmQzVhcmVfcXBMQm8tcHpNZG0yR2ZlcU1sQ3c6T0EgPGI-bmV3PC9iPiBzaG9ydC1hcmMgZml0dGluZyBtZXRob2Qgd2l0aCBoaWdoIHByZWNpc2lvbiB1c2luZyA8Yj5BZGFtPC9iPiAuLi5CrwE8Yj5BZGFtIG1ldGhvZCBpcyBjb21wdXRhdGlvbmFsbHkgZWZmaWNpZW50IGFuZCBpbnZhcmlhbnQ8L2I-IHRvIGRpYWdvbmFsIHJlc2NhbGluZyBvZiB0aGUgZ3JhZGllbnRzIHdpdGggbGl0dGxlIG1lbW9yeSByZXF1aXJlbWVudHMuIE1vcmUgaW1wb3J0YW50bHksIEFkYW0gYWxnb3JpdGhtJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlU3R1NUM0JhNEdYaGE5d2k4aUNHZV9iNWUtMnhhZW1xX2lvNElzRzJ1cE9xMWxEYUtjNFVGRWt5eVVlSXBTX256S0J3cFBETVFlWlFVMUtUT0p0dTg5eklVZ2R0aEI3cG5CTFpKWnQ2OG5YV1F0VjdqYnB4aXBvOHBiQlJWWE9oQUtQa2hGaWZDNWFyZV9xcExCby1wek1kbTJHZmVxTWxDdxIEGgIIABrJBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkClBggAEAAYACAAKoYBCghwcm9wb3NlZBUAAAAAGgNuZXcaB3BsYW5uZWQaCHByb3Bvc2FsGglwcm9wb3NhbHMaB3Byb3Bvc2UaCXN1Z2dlc3RlZBoNaXY7ZDtwcm9wb3NlZBoIaXY7ZDtuZXcaDGl2O2Q7cHJvcG9zZRoOaXY7ZDtzdWdnZXN0ZWQaB3Byb2plY3QqFgoEYWRhbRX___8_GglpdjtkO2FkYW0qewoMb3B0aW1pc2F0aW9uFQAAAAAaDG9wdGltaXphdGlvbhoIb3B0aW1pemUaCW9wdGltaXplZBoJb3B0aW1pemVyGgpvcHRpbWl6aW5nGg1pdjtkO29wdGltaXplGglvcHRpbWlzZWQaCW9wdGltaXNlchoHb3B0aW1hbCo6CglhbGdvcml0aG0V0Ry-PxoKYWxnb3JpdGhtcxoEY29kZRoGbWV0aG9kGg5pdjtkO2FsZ29yaXRobTK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZVN0dTVDNCYTRHWGhhOXdpOGlDR2VfYjVlLTJ4YWVtcV9pbzRJc0cydXBPcTFsRGFLYzRVRkVreXlVZUlwU19uektCd3BQRE1RZVpRVTFLVE9KdHU4OXpJVWdkdGhCN3BuQkxaSlp0NjhuWFdRdFY3amJweGlwbzhwYkJSVlhPaEFLUGtoRmlmQzVhcmVfcXBMQm8tcHpNZG0yR2ZlcU1sQ3c6T0EgPGI-bmV3PC9iPiBzaG9ydC1hcmMgZml0dGluZyBtZXRob2Qgd2l0aCBoaWdoIHByZWNpc2lvbiB1c2luZyA8Yj5BZGFtPC9iPiAuLi5CrwE8Yj5BZGFtIG1ldGhvZCBpcyBjb21wdXRhdGlvbmFsbHkgZWZmaWNpZW50IGFuZCBpbnZhcmlhbnQ8L2I-IHRvIGRpYWdvbmFsIHJlc2NhbGluZyBvZiB0aGUgZ3JhZGllbnRzIHdpdGggbGl0dGxlIG1lbW9yeSByZXF1aXJlbWVudHMuIE1vcmUgaW1wb3J0YW50bHksIEFkYW0gYWxnb3JpdGhtJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Adam is proposed as the most efficient stochastic optimization which only requires first-order gradients where memory requirement is too little.",
-      "source_info_link": "https://optimization.cbe.cornell.edu/index.php?title=Adam"
+      "description": "Adam method is computationally efficient and invariant to diagonal rescaling of the gradients with little memory requirements. More importantly, Adam algorithm ...",
+      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+      "source_info_link": "https://www.sciencedirect.com/science/article/pii/S0030402620306240"
      }
     },
-    "date": "Dec 16, 2021",
-    "displayed_link": "https://optimization.cbe.cornell.edu › title=Adam",
-    "link": "https://optimization.cbe.cornell.edu/index.php?title=Adam",
+    "author": "cituojant Z Fei",
+    "displayed_link": "https://www.sciencedirect.com › pii",
+    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0030402620306240",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAV1lTsFpn3-WPQ179CgEOOHJdazRh82eO7zh5wWCDT5H7ojKQUoSH3yUwXEEx0rgRTxR392zkjzcLtlBVZV2GYt8Te8hGXfVviaLL8FpbUM7WruYmQfg1zV12GIovr69GhB1ePBPIQaNj0cS2P&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQFnoECCAQAQ&uoh=1",
-    "sitelinks": {
-     "inline": [
-      {
-       "link": "https://optimization.cbe.cornell.edu/index.php?title=Adam#Introduction",
-       "title": "Introduction"
-      },
-      {
-       "link": "https://optimization.cbe.cornell.edu/index.php?title=Adam#Theory",
-       "title": "Theory"
-      },
-      {
-       "link": "https://optimization.cbe.cornell.edu/index.php?title=Adam#Algorithm",
-       "title": "Algorithm"
-      },
-      {
-       "link": "https://optimization.cbe.cornell.edu/index.php?title=Adam#Numerical_Example",
-       "title": "Numerical Example"
-      }
-     ]
-    },
-    "snippet": "Adam is proposed as the most efficient stochastic optimization which only requires first-order gradients where memory requirement is too little.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVU7GST3Ba4GXha9wi8iCGe_b5e-2xaemq_io4IsG2upOq1lDaKc4UFEkyyUeIpS_nzKBwpPDMQeZQU1KTOJtu89zIUgdthB7pnBLZJZt68nXWQtV7jbpxipo8pbBRVXOhAKPkhFifC5are_qpLBo-pzMdm2GfeqMlCw&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECBsQAQ&uoh=1",
+    "snippet": "Adam method is computationally efficient and invariant to diagonal rescaling of the gradients with little memory requirements. More importantly, Adam algorithm ...",
     "snippet_highlighted_words": [
-     "Adam is proposed as the most efficient stochastic optimization"
-    ],
-    "source": "Cornell University",
-    "title": "Adam"
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "Take the Deep Learning Specialization: Check out all our courses: https://www.deeplearning.ai. Adam Optimization Algorithm (C2W2L08) s271K ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
-     }
-    },
-    "displayed_link": "271.4K+ views · 9 years ago",
-    "duration": "7:08",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=JXQT_vxqwIs&t=54",
-      "time": "00:54",
-      "title": "The Adam Optimization Algorithm"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=JXQT_vxqwIs&t=113",
-      "time": "01:53",
-      "title": "Momentum Implementation"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=JXQT_vxqwIs&t=174",
-      "time": "02:54",
-      "title": "Bias Correction"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=JXQT_vxqwIs&t=230",
-      "time": "03:50",
-      "title": "Momentum Update"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=JXQT_vxqwIs&t=361",
-      "time": "06:01",
-      "title": "Where does the term ADAM come from?"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=JXQT_vxqwIs&t=407",
-      "time": "06:47",
-      "title": "Conclusion"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=JXQT_vxqwIs",
-    "position": 5,
-    "snippet": "Take the Deep Learning Specialization: Check out all our courses: https://www.deeplearning.ai. Adam Optimization Algorithm (C2W2L08) s271K ...",
-    "source": "YouTube · DeepLearningAI",
-    "thumbnail": "https://serpapi.com/searches/6aafc4bcab28c604843e981e/images/Z9CDdt0FDtp2Cf-T_mu4MAbOZBwEbyExiHoVFyGfwEQ.jpeg",
-    "title": "Adam Optimization Algorithm (C2W2L08)"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Adam Optimizer is a type of optimizer used in the field of computer science that utilizes second-order information to enhance convergence and accelerate ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABKElEQVR4AdzXAUQEQRTG8Y8KkThBUnAAAJEAkCIHEECAmH2zKYKIQAAEiCgFkCABBORAAFQoAMIFJMDX8xywaKpbH-Hvwc76GQMPazs9af8fQMMcM1aKAUzoRjXmfXaiGtN_AJwwg-WADLbQjwDH3iUNtz77Ph99vrULKKjgh41YYVYJiGgYqAH3WkDGqRqwScODAFBWawAaZriNRR0g48Cj8gau1YDXFgHl6QHCR_iifgNXasC-FlBhigldGaAJwnqcTehoABln3ofkBriFCRoG3pMGUGM1zhnuRgbgLiaLzxrOh4CLXwF4iPEGoMZy7AwbGGt87zgmLDBjiYY9n59DwNF3gNB6N8zoe8_eu8eRVCHJFpPI0CtezeIKvwbrmqUx8A_b3jEAhZpfRTDQgH4AAAAASUVORK5CYII.png",
-      "source_info_link": "https://www.sciencedirect.com/topics/computer-science/adam-optimizer"
-     }
-    },
-    "displayed_link": "https://www.sciencedirect.com › topics › computer-science",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABKElEQVR4AdzXAUQEQRTG8Y8KkThBUnAAAJEAkCIHEECAmH2zKYKIQAAEiCgFkCABBORAAFQoAMIFJMDX8xywaKpbH-Hvwc76GQMPazs9af8fQMMcM1aKAUzoRjXmfXaiGtN_AJwwg-WADLbQjwDH3iUNtz77Ph99vrULKKjgh41YYVYJiGgYqAH3WkDGqRqwScODAFBWawAaZriNRR0g48Cj8gau1YDXFgHl6QHCR_iifgNXasC-FlBhigldGaAJwnqcTehoABln3ofkBriFCRoG3pMGUGM1zhnuRgbgLiaLzxrOh4CLXwF4iPEGoMZy7AwbGGt87zgmLDBjiYY9n59DwNF3gNB6N8zoe8_eu8eRVCHJFpPI0CtezeIKvwbrmqUx8A_b3jEAhZpfRTDQgH4AAAAASUVORK5CYII.png",
-    "link": "https://www.sciencedirect.com/topics/computer-science/adam-optimizer",
-    "position": 6,
-    "read_more_link": "https://www.sciencedirect.com/topics/computer-science/adam-optimizer#:~:text=Adam%20Optimizer%20is%20a%20type,enhance%20convergence%20and%20accelerate%20training.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVYv_JS5Bea27z4fvyRMCjOBVGA5ZbHSYiMaDCp3yMVAqQTg78PpWch9noeyJNKvwhO1rYY5bllzk-YIy8ZGmiVMIHgW00q4LjnpAgU212J7xaVKre4sSOoYFf1SGgCDiSJVt0UAWFxUXDFvN-nlXDAhXOEIGRWGw&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQFnoECDQQAQ&uoh=1",
-    "snippet": "Adam Optimizer is a type of optimizer used in the field of computer science that utilizes second-order information to enhance convergence and accelerate ...",
-    "snippet_highlighted_words": [
-     "Adam Optimizer"
+     "Adam method is computationally efficient and invariant"
     ],
     "source": "ScienceDirect.com",
-    "title": "Adam Optimizer - an overview"
+    "title": "A new short-arc fitting method with high precision using ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZhbjI4Z3hkSkFPampHS3R5akJxZkNscGhrM21xR0M2Z291ZGtVWWd3TjBGOHY1OHFUNUF0S2Z0TWNGYkdpNG1vQUFDaWlNQ1ZLNDZKRHdyMFlzVXNpZ2JxeUJaNEUwVWp2NENORTFFUi1XVWVoanMyMmJWV050NmFzVDhEMDFjMWVOU014WkJGU0tPQW9mRDlGNjQzQTRneUk0VTBQSHBCc3lLMkNqNF9FM2FLS18yTkRlc1F1a2ZocXNIUUlpUzJkZnRuNWJJVkpvRBIEGgIIABrXBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCzBggAEAAYACAAKoYBCghwcm9wb3NlZBUAAAAAGgNuZXcaB3BsYW5uZWQaCHByb3Bvc2FsGglwcm9wb3NhbHMaB3Byb3Bvc2UaCXN1Z2dlc3RlZBoNaXY7ZDtwcm9wb3NlZBoIaXY7ZDtuZXcaDGl2O2Q7cHJvcG9zZRoOaXY7ZDtzdWdnZXN0ZWQaB3Byb2plY3QqFgoEYWRhbRXAAr5AGglpdjtkO2FkYW0qewoMb3B0aW1pc2F0aW9uFY1r0j8aDG9wdGltaXphdGlvbhoIb3B0aW1pemUaCW9wdGltaXplZBoJb3B0aW1pemVyGgpvcHRpbWl6aW5nGg1pdjtkO29wdGltaXplGglvcHRpbWlzZWQaCW9wdGltaXNlchoHb3B0aW1hbCo6CglhbGdvcml0aG0V_LauQBoKYWxnb3JpdGhtcxoEY29kZRoGbWV0aG9kGg5pdjtkO2FsZ29yaXRobTLiAS9nb3RvP3VybD1DQUVTblFFQjZ6c3dGYW4yOGd4ZEpBT2pqR0t0eWpCcWZDbHBoazNtcUdDNmdvdWRrVVlnd04wRjh2NThxVDVBdEtmdE1jRmJHaTRtb0FBQ2lpTUNWSzQ2SkR3cjBZc1VzaWdicXlCWjRFMFVqdjRDTkUxRVItV1VlaGpzMjJiVldOdDZhc1Q4RDAxYzFlTlNNeFpCRlNLT0FvZkQ5RjY0M0E0Z3lJNFUwUEhwQnN5SzJDajRfRTNhS0tfMk5EZXNRdWtmaHFzSFFJaVMyZGZ0bjViSVZKb0Q6RUdlbnRsZSBJbnRyb2R1Y3Rpb24gdG8gdGhlIDxiPkFkYW0gT3B0aW1pemF0aW9uIEFsZ29yaXRobTwvYj4gZm9yIC4uLkKdATxiPkFkYW0gaXMgYW4gb3B0aW1pc2F0aW9uIGFsZ29yaXRobTwvYj4gdGhhdCBjYW4gYmUgdXNlZCBpbnN0ZWFkIG9mIHRoZSB0cmFkaXRpb25hbCBzdG9jaGFzdGljIGdyYWRpZW50IGRlc2NlbnQgcHJvY2VkdXJlIHRvIHVwZGF0ZSBuZXR3b3JrIHdlaWdodHMmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZhbjI4Z3hkSkFPampHS3R5akJxZkNscGhrM21xR0M2Z291ZGtVWWd3TjBGOHY1OHFUNUF0S2Z0TWNGYkdpNG1vQUFDaWlNQ1ZLNDZKRHdyMFlzVXNpZ2JxeUJaNEUwVWp2NENORTFFUi1XVWVoanMyMmJWV050NmFzVDhEMDFjMWVOU014WkJGU0tPQW9mRDlGNjQzQTRneUk0VTBQSHBCc3lLMkNqNF9FM2FLS18yTkRlc1F1a2ZocXNIUUlpUzJkZnRuNWJJVkpvRBIEGgIIABrXBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCzBggAEAAYACAAKoYBCghwcm9wb3NlZBUAAAAAGgNuZXcaB3BsYW5uZWQaCHByb3Bvc2FsGglwcm9wb3NhbHMaB3Byb3Bvc2UaCXN1Z2dlc3RlZBoNaXY7ZDtwcm9wb3NlZBoIaXY7ZDtuZXcaDGl2O2Q7cHJvcG9zZRoOaXY7ZDtzdWdnZXN0ZWQaB3Byb2plY3QqFgoEYWRhbRXAAr5AGglpdjtkO2FkYW0qewoMb3B0aW1pc2F0aW9uFY1r0j8aDG9wdGltaXphdGlvbhoIb3B0aW1pemUaCW9wdGltaXplZBoJb3B0aW1pemVyGgpvcHRpbWl6aW5nGg1pdjtkO29wdGltaXplGglvcHRpbWlzZWQaCW9wdGltaXNlchoHb3B0aW1hbCo6CglhbGdvcml0aG0V_LauQBoKYWxnb3JpdGhtcxoEY29kZRoGbWV0aG9kGg5pdjtkO2FsZ29yaXRobTLiAS9nb3RvP3VybD1DQUVTblFFQjZ6c3dGYW4yOGd4ZEpBT2pqR0t0eWpCcWZDbHBoazNtcUdDNmdvdWRrVVlnd04wRjh2NThxVDVBdEtmdE1jRmJHaTRtb0FBQ2lpTUNWSzQ2SkR3cjBZc1VzaWdicXlCWjRFMFVqdjRDTkUxRVItV1VlaGpzMjJiVldOdDZhc1Q4RDAxYzFlTlNNeFpCRlNLT0FvZkQ5RjY0M0E0Z3lJNFUwUEhwQnN5SzJDajRfRTNhS0tfMk5EZXNRdWtmaHFzSFFJaVMyZGZ0bjViSVZKb0Q6RUdlbnRsZSBJbnRyb2R1Y3Rpb24gdG8gdGhlIDxiPkFkYW0gT3B0aW1pemF0aW9uIEFsZ29yaXRobTwvYj4gZm9yIC4uLkKdATxiPkFkYW0gaXMgYW4gb3B0aW1pc2F0aW9uIGFsZ29yaXRobTwvYj4gdGhhdCBjYW4gYmUgdXNlZCBpbnN0ZWFkIG9mIHRoZSB0cmFkaXRpb25hbCBzdG9jaGFzdGljIGdyYWRpZW50IGRlc2NlbnQgcHJvY2VkdXJlIHRvIHVwZGF0ZSBuZXR3b3JrIHdlaWdodHMmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Adam is a replacement optimization algorithm for stochastic gradient descent for training deep learning models.",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEWDqsZ_pcFJSUZEREE_PzxGRkN0mLKGr8xidYFBPjhlZWPk5OPx8fHBwcBUXWEqKiW3t7a8vLt7oLtITE3U1NMyMi7e3t5FQjxQVVZZWValpaRdbHaGhoTa2trOzs1ycnBCQj88Ny5sh5mNjYuZmZiBqMRWZW9nfY1ukKmoqKd-fnxEPjXIyMiwsK9gfZJoiKEICTBRAAABh0lEQVR4AW3Rh5ajMAwFUMfYpMJKpHsAOzEdDP__dytt3xne6dxjNcSfbGSkpNIyFl-z3e0Px1OitdyuYKqPh2-Aap-t4PlwuWp5U_d4BR9PfmnW8WOfF7eitKtlU-20Kq-X13tt2ruUzl-q18pLkRFKF6nHVqw11ZKyNg8lvjOeV43rUv6rWv-K2DY_y7639e_8QnqX8kPW9s8LsaHUomv2e1ozipxze7XLRM3fGbP28fIH422f595XA-Rj-mYV2aYb71IhFNCDR8RTnzip75IeiSx7UzPVHwERbJFgOV2emvfNGFtGgyaExJg-VHAZIsKOMM74qHI4hKcfqtwO3lrjeKUsFnHMZ9NYWV8GmC44XRLPL-eYsWGEKvQJXMwJzAknRbiLO9F1KaG7AQaE3mAw2JeE-qP7g_nTemUGk1d-sDYibAiX5SFp2mMIRw82QYeIgV-my0J4ZkwuYargAJiXScjppXwQzotkDNMEU5EDmACV1fxjl1nMs2Z1iuIo2rlIS848fwctFyqRK-Ws0gAAAABJRU5ErkJggg.png",
-      "source_info_link": "https://www.machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/"
+      "description": "Adam is an optimisation algorithm that can be used instead of the traditional stochastic gradient descent procedure to update network weights ...",
+      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "source_info_link": "https://www.linkedin.com/pulse/gentle-introduction-adam-optimization-algorithm-deep-ali-soofastaei"
      }
     },
-    "date": "Jan 13, 2021",
-    "displayed_link": "https://www.machinelearningmastery.com › Blog",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEWDqsZ_pcFJSUZEREE_PzxGRkN0mLKGr8xidYFBPjhlZWPk5OPx8fHBwcBUXWEqKiW3t7a8vLt7oLtITE3U1NMyMi7e3t5FQjxQVVZZWValpaRdbHaGhoTa2trOzs1ycnBCQj88Ny5sh5mNjYuZmZiBqMRWZW9nfY1ukKmoqKd-fnxEPjXIyMiwsK9gfZJoiKEICTBRAAABh0lEQVR4AW3Rh5ajMAwFUMfYpMJKpHsAOzEdDP__dytt3xne6dxjNcSfbGSkpNIyFl-z3e0Px1OitdyuYKqPh2-Aap-t4PlwuWp5U_d4BR9PfmnW8WOfF7eitKtlU-20Kq-X13tt2ruUzl-q18pLkRFKF6nHVqw11ZKyNg8lvjOeV43rUv6rWv-K2DY_y7639e_8QnqX8kPW9s8LsaHUomv2e1ozipxze7XLRM3fGbP28fIH422f595XA-Rj-mYV2aYb71IhFNCDR8RTnzip75IeiSx7UzPVHwERbJFgOV2emvfNGFtGgyaExJg-VHAZIsKOMM74qHI4hKcfqtwO3lrjeKUsFnHMZ9NYWV8GmC44XRLPL-eYsWGEKvQJXMwJzAknRbiLO9F1KaG7AQaE3mAw2JeE-qP7g_nTemUGk1d-sDYibAiX5SFp2mMIRw82QYeIgV-my0J4ZkwuYargAJiXScjppXwQzotkDNMEU5EDmACV1fxjl1nMs2Z1iuIo2rlIS848fwctFyqRK-Ws0gAAAABJRU5ErkJggg.png",
-    "link": "https://www.machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/",
-    "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFduhlLJhHdsq6Q-Wae4WRQvemFeI7DNocJnMqalxbouq0uhQHl3RySbdofQbXm4hG4tFA6klSLNWpIniSUma1Qk1b0HA-5ODVpAy6fWvjp3Q-hsdC94iExVPmWJeAg52Thno0bYWTVtPq6vz1J7PbDcVWb7-77glrL9hILBFtAsKH5AA0I7cmlM&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQFnoECDMQAQ&uoh=1",
-    "snippet": "Adam is a replacement optimization algorithm for stochastic gradient descent for training deep learning models.",
+    "displayed_link": "Reakcijų: 5 · prieš 8 metus",
+    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+    "link": "https://www.linkedin.com/pulse/gentle-introduction-adam-optimization-algorithm-deep-ali-soofastaei",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFan28gxdJAOjjGKtyjBqfClphk3mqGC6goudkUYgwN0F8v58qT5AtKftMcFbGi4moAACiiMCVK46JDwr0YsUsigbqyBZ4E0Ujv4CNE1ER-WUehjs22bVWNt6asT8D01c1eNSMxZBFSKOAofD9F643A4gyI4U0PHpBsyK2Cj4_E3aKK_2NDesQukfhqsHQIiS2dftn5bIVJoD&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECCIQAQ&uoh=1",
+    "snippet": "Adam is an optimisation algorithm that can be used instead of the traditional stochastic gradient descent procedure to update network weights ...",
     "snippet_highlighted_words": [
-     "Adam is a replacement optimization algorithm"
+     "Adam is an optimisation algorithm"
     ],
-    "source": "Machine Learning Mastery",
+    "source": "LinkedIn · Ali Soofastaei",
     "title": "Gentle Introduction to the Adam Optimization Algorithm for ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVk5NX2xVNWpqelNtRHRlZU1jQ05uMlNGd0VrbmVrVmFDOTAxbHFsNjA5X3ZOTC1oazZnWEwtVFJSOS1YVFBuSXE3ZjlpRnozbWV5WTRJVGEwM2RFVlhQYkhGQTh0cWtFa1ZhcFRXcERFUGdtb19oWldfUk1FQ05WT3dKRlV1SzByMldBa280amFVRHFzNGEwEgQaAggAGo4GEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQOoFCAAQABgAIAAqhgEKCHByb3Bvc2VkFVmz2T4aA25ldxoHcGxhbm5lZBoIcHJvcG9zYWwaCXByb3Bvc2FscxoHcHJvcG9zZRoJc3VnZ2VzdGVkGg1pdjtkO3Byb3Bvc2VkGghpdjtkO25ldxoMaXY7ZDtwcm9wb3NlGg5pdjtkO3N1Z2dlc3RlZBoHcHJvamVjdCoWCgRhZGFtFad6hkAaCWl2O2Q7YWRhbSp7CgxvcHRpbWlzYXRpb24VTOV8QBoMb3B0aW1pemF0aW9uGghvcHRpbWl6ZRoJb3B0aW1pemVkGglvcHRpbWl6ZXIaCm9wdGltaXppbmcaDWl2O2Q7b3B0aW1pemUaCW9wdGltaXNlZBoJb3B0aW1pc2VyGgdvcHRpbWFsKjoKCWFsZ29yaXRobRWUUI9AGgphbGdvcml0aG1zGgRjb2RlGgZtZXRob2QaDml2O2Q7YWxnb3JpdGhtMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVk5NX2xVNWpqelNtRHRlZU1jQ05uMlNGd0VrbmVrVmFDOTAxbHFsNjA5X3ZOTC1oazZnWEwtVFJSOS1YVFBuSXE3ZjlpRnozbWV5WTRJVGEwM2RFVlhQYkhGQTh0cWtFa1ZhcFRXcERFUGdtb19oWldfUk1FQ05WT3dKRlV1SzByMldBa280amFVRHFzNGEwOjtBdXRvbWF0ZWQgUmVxdWlyZW1lbnQgUHJpb3JpdGlzYXRpb24gVGVjaG5pcXVlIFVzaW5nIGFuIC4uLkKbAVRoZSBvcHRpbWlzYXRpb24gYWxnb3JpdGhtIGFpbXMgdG8gc2VsZWN0IGZlYXR1cmVzIHRvIGdpdmUgPGI-bWVhbmluZ2Z1bCBpbmZvcm1hdGlvbiBhYm91dCByZXF1aXJlbWVudHM8L2I-LiBUaGVzZSBmZWF0dXJlcyBjYW4gYmUgdXNlZCB0byB0cmFpbiBhJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVk5NX2xVNWpqelNtRHRlZU1jQ05uMlNGd0VrbmVrVmFDOTAxbHFsNjA5X3ZOTC1oazZnWEwtVFJSOS1YVFBuSXE3ZjlpRnozbWV5WTRJVGEwM2RFVlhQYkhGQTh0cWtFa1ZhcFRXcERFUGdtb19oWldfUk1FQ05WT3dKRlV1SzByMldBa280amFVRHFzNGEwEgQaAggAGo4GEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQOoFCAAQABgAIAAqhgEKCHByb3Bvc2VkFVmz2T4aA25ldxoHcGxhbm5lZBoIcHJvcG9zYWwaCXByb3Bvc2FscxoHcHJvcG9zZRoJc3VnZ2VzdGVkGg1pdjtkO3Byb3Bvc2VkGghpdjtkO25ldxoMaXY7ZDtwcm9wb3NlGg5pdjtkO3N1Z2dlc3RlZBoHcHJvamVjdCoWCgRhZGFtFad6hkAaCWl2O2Q7YWRhbSp7CgxvcHRpbWlzYXRpb24VTOV8QBoMb3B0aW1pemF0aW9uGghvcHRpbWl6ZRoJb3B0aW1pemVkGglvcHRpbWl6ZXIaCm9wdGltaXppbmcaDWl2O2Q7b3B0aW1pemUaCW9wdGltaXNlZBoJb3B0aW1pc2VyGgdvcHRpbWFsKjoKCWFsZ29yaXRobRWUUI9AGgphbGdvcml0aG1zGgRjb2RlGgZtZXRob2QaDml2O2Q7YWxnb3JpdGhtMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVk5NX2xVNWpqelNtRHRlZU1jQ05uMlNGd0VrbmVrVmFDOTAxbHFsNjA5X3ZOTC1oazZnWEwtVFJSOS1YVFBuSXE3ZjlpRnozbWV5WTRJVGEwM2RFVlhQYkhGQTh0cWtFa1ZhcFRXcERFUGdtb19oWldfUk1FQ05WT3dKRlV1SzByMldBa280amFVRHFzNGEwOjtBdXRvbWF0ZWQgUmVxdWlyZW1lbnQgUHJpb3JpdGlzYXRpb24gVGVjaG5pcXVlIFVzaW5nIGFuIC4uLkKbAVRoZSBvcHRpbWlzYXRpb24gYWxnb3JpdGhtIGFpbXMgdG8gc2VsZWN0IGZlYXR1cmVzIHRvIGdpdmUgPGI-bWVhbmluZ2Z1bCBpbmZvcm1hdGlvbiBhYm91dCByZXF1aXJlbWVudHM8L2I-LiBUaGVzZSBmZWF0dXJlcyBjYW4gYmUgdXNlZCB0byB0cmFpbiBhJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "The Adam optimizer was proposed in December 2014, combining the advantages of the AdaGrad and RMSProp optimization algorithms.",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAABwcHCoqKifn58bGxt8fHzKysr___8rKyv5-fnW1tbp6emQkJCsrKxaWlq0tLTBwcE-Pj777dpoAAAABnRSTlMAS8D5_5mXKh4CAAAA3ElEQVR4AXzRUQ6EIAwEUNRZClgFQb3_UbfQEDUbd76qL5WMGGOGccJPpnEwkg9e8pE9vGYw4zuOZnrHyeBPFC055zw0wTkKN8TMzEHHZWWOuCMJJh03QXpgrlr0IzLmB-6L4KzHZ0Ub947-EF3q4rI3zByuzSLogDOiYeCICxGZVxmsYuR8x9DaJFQkL3UoX-iTvNg2xbPVvrB37ZgfeGr7_tl0Q_2HXjEjSe0HWnlWJGz1DEXEAsla2lyXcIj2K6O6Wvr1kQXCnL7DG9l4kwneBIY3aeJN1HizAwDOfRO3mlC3PQAAAABJRU5ErkJggg.png",
-      "source_info_link": "https://medium.com/@florian_algo/optimization-algorithm-from-sgd-to-adam-50ea22187951"
+      "description": "The optimisation algorithm aims to select features to give meaningful information about requirements. These features can be used to train a ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAADwBgCdASoaACAAPtE-tFooIigoFAEAGgliAKknZLhwrgW_Xmx-oAuaCKddT-cnBlRoXthOdHtExPSjj6cRoXoAAP6-LT_m_3RoX8UdVmNYWoXAQOCESAUEhdLJ3RmHLkTVww2FpCuwkRDUP-bVUDGo1MDA8bI0cuFDZMun3vH4q13SI4W-2HidHQpXB6f-xqtruH8OkDMjircTYNv-zrvh__GBsXxsH5nvdKu0E9leBSt4u6UtR4fMlepLfNBfBjWMA0CWQg_qtvUpQkFwRQGZHivEvutDyMTnJmlxkZuRYx4I0eLEqwX_rso2J2MQcmzcqlLVuPuf9xU6SB8ayOEP_F1aR9aCf5yev_opvAaJ3__X6dSvl4viA47vHDHKV-ZbJM_5M5A-OGTAL2DP_M7XLlm52i4t__yQ10auTXvOMj9pJTLWkLX8Y4mj5_bcD9pvOVnFCPhZGj9s98_uEvptW94v__qN8IMR_zls_r12G-r-322oBU7-WlDdze7R-i6GxKYiktDgN3VYzTPoVU19u4SQYMAA.webp",
+      "source_info_link": "https://ijisae.org/index.php/IJISAE/article/view/3380"
      }
     },
-    "displayed_link": "70+ likes · 2 years ago",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAABwcHCoqKifn58bGxt8fHzKysr___8rKyv5-fnW1tbp6emQkJCsrKxaWlq0tLTBwcE-Pj777dpoAAAABnRSTlMAS8D5_5mXKh4CAAAA3ElEQVR4AXzRUQ6EIAwEUNRZClgFQb3_UbfQEDUbd76qL5WMGGOGccJPpnEwkg9e8pE9vGYw4zuOZnrHyeBPFC055zw0wTkKN8TMzEHHZWWOuCMJJh03QXpgrlr0IzLmB-6L4KzHZ0Ub947-EF3q4rI3zByuzSLogDOiYeCICxGZVxmsYuR8x9DaJFQkL3UoX-iTvNg2xbPVvrB37ZgfeGr7_tl0Q_2HXjEjSe0HWnlWJGz1DEXEAsla2lyXcIj2K6O6Wvr1kQXCnL7DG9l4kwneBIY3aeJN1HizAwDOfRO3mlC3PQAAAABJRU5ErkJggg.png",
-    "link": "https://medium.com/@florian_algo/optimization-algorithm-from-sgd-to-adam-50ea22187951",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFSD1yPX0C5x-b4i4sqaU3QbeAypVoLKmevjrJ_kYU8-0p4kDahax9YiOBgniYDo0-LY78iDnRwDZCfM2HdXNG_CsHB6qIV2fOgaJhkomMzHufx6vXjoE-X0s7DZka2EjXyHBMltHW1tl5ZqdqRjue3VTR8hOPigDqCi9KE-vT_r298D_wXgrGsE&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQFnoECDUQAQ&uoh=1",
-    "snippet": "The Adam optimizer was proposed in December 2014, combining the advantages of the AdaGrad and RMSProp optimization algorithms.",
+    "date": "2023-07-16",
+    "displayed_link": "https://ijisae.org › article › view",
+    "favicon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAADwBgCdASoaACAAPtE-tFooIigoFAEAGgliAKknZLhwrgW_Xmx-oAuaCKddT-cnBlRoXthOdHtExPSjj6cRoXoAAP6-LT_m_3RoX8UdVmNYWoXAQOCESAUEhdLJ3RmHLkTVww2FpCuwkRDUP-bVUDGo1MDA8bI0cuFDZMun3vH4q13SI4W-2HidHQpXB6f-xqtruH8OkDMjircTYNv-zrvh__GBsXxsH5nvdKu0E9leBSt4u6UtR4fMlepLfNBfBjWMA0CWQg_qtvUpQkFwRQGZHivEvutDyMTnJmlxkZuRYx4I0eLEqwX_rso2J2MQcmzcqlLVuPuf9xU6SB8ayOEP_F1aR9aCf5yev_opvAaJ3__X6dSvl4viA47vHDHKV-ZbJM_5M5A-OGTAL2DP_M7XLlm52i4t__yQ10auTXvOMj9pJTLWkLX8Y4mj5_bcD9pvOVnFCPhZGj9s98_uEvptW94v__qN8IMR_zls_r12G-r-322oBU7-WlDdze7R-i6GxKYiktDgN3VYzTPoVU19u4SQYMAA.webp",
+    "link": "https://ijisae.org/index.php/IJISAE/article/view/3380",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVNM_lU5jjzSmDteeMcCNn2SFwEknekVaC901lql609_vNL-hk6gXL-TRR9-XTPnIq7f9iFz3meyY4ITa03dEVXPbHFA8tqkEkVapTWpDEPgmo_hZW_RMECNVOwJFUuK0r2WAko4jaUDqs4a0&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECB4QAQ&uoh=1",
+    "snippet": "The optimisation algorithm aims to select features to give meaningful information about requirements. These features can be used to train a ...",
     "snippet_highlighted_words": [
-     "Adam optimizer was proposed in December 2014"
+     "meaningful information about requirements"
     ],
-    "source": "Medium · Florian June",
-    "title": "Optimization Algorithm: From SGD to Adam | by Florian June"
+    "source": "ijisae.org",
+    "title": "Automated Requirement Prioritisation Technique Using an ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZXdFAwc2tZdm1HTzJUekVUWkhscTE0VklWTVZIQnhuZm9YaWZYN1JqMUhUc3hoQWwzUlI2ZjhYU2tSOElZc2ppVnkzRUdPM0RvWEF6Rk10eGRXUU5GUTAyMU1HVk5ZMy1CVjZhOHdFQXZ5MXBmMDB4a1JTc3JPSVRxU19UMzdreWNZc3llMFgzMURUSVJ6MDJ3QzVWNVhsdklRSFNRblFKc0VidUk3OUFaMnJNWDZTU3FLbFdramESBBoCCAAa1AYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAsAYIABAAGAAgACqGAQoIcHJvcG9zZWQVEsBUPxoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0VGD6iQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUT-TE-GgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFVf7gD8aCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0yzgEvZ290bz91cmw9Q0FFU2pnRUI2enN3Rld0UDBza1l2bUdPMlR6RVRaSGxxMTRWSVZNVkhCeG5mb1hpZlg3UmoxSFRzeGhBbDNSUjZmOFhTa1I4SVlzamlWeTNFR08zRG9YQXpGTXR4ZFdRTkZRMDIxTUdWTlkzLUJWNmE4d0VBdnkxcGYwMHhrUlNzck9JVHFTX1QzN2t5Y1lzeWUwWDMxRFRJUnowMndDNVY1WGx2SVFIU1FuUUpzRWJ1STc5QVoyck1YNlNTcUtsV2tqYTpBQmV5b25kIDxiPkFkYW08L2I-OiBFZmZlY3RpdmUgPGI-T3B0aW1pemF0aW9uPC9iPiBNZXRob2QgLSBLYWdnbGVCsgFJdCBpcyBhbiA8Yj5pdGVyYXRpdmUgZmlyc3Qtb3JkZXIgb3B0aW1pc2F0aW9uIGFsZ29yaXRobTwvYj4gdXNlZCB0byBmaW5kIGEgbG9jYWwgbWluaW11bS9tYXhpbXVtIG9mIGEgZ2l2ZW4gZnVuY3Rpb24uICZtaWRkb3Q7IFRoZSBncmFkaWVudCBkZXNjZW50IGFsZ29yaXRobSByZXF1aXJlcyBhJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZXdFAwc2tZdm1HTzJUekVUWkhscTE0VklWTVZIQnhuZm9YaWZYN1JqMUhUc3hoQWwzUlI2ZjhYU2tSOElZc2ppVnkzRUdPM0RvWEF6Rk10eGRXUU5GUTAyMU1HVk5ZMy1CVjZhOHdFQXZ5MXBmMDB4a1JTc3JPSVRxU19UMzdreWNZc3llMFgzMURUSVJ6MDJ3QzVWNVhsdklRSFNRblFKc0VidUk3OUFaMnJNWDZTU3FLbFdramESBBoCCAAa1AYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAsAYIABAAGAAgACqGAQoIcHJvcG9zZWQVEsBUPxoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0VGD6iQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUT-TE-GgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFVf7gD8aCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0yzgEvZ290bz91cmw9Q0FFU2pnRUI2enN3Rld0UDBza1l2bUdPMlR6RVRaSGxxMTRWSVZNVkhCeG5mb1hpZlg3UmoxSFRzeGhBbDNSUjZmOFhTa1I4SVlzamlWeTNFR08zRG9YQXpGTXR4ZFdRTkZRMDIxTUdWTlkzLUJWNmE4d0VBdnkxcGYwMHhrUlNzck9JVHFTX1QzN2t5Y1lzeWUwWDMxRFRJUnowMndDNVY1WGx2SVFIU1FuUUpzRWJ1STc5QVoyck1YNlNTcUtsV2tqYTpBQmV5b25kIDxiPkFkYW08L2I-OiBFZmZlY3RpdmUgPGI-T3B0aW1pemF0aW9uPC9iPiBNZXRob2QgLSBLYWdnbGVCsgFJdCBpcyBhbiA8Yj5pdGVyYXRpdmUgZmlyc3Qtb3JkZXIgb3B0aW1pc2F0aW9uIGFsZ29yaXRobTwvYj4gdXNlZCB0byBmaW5kIGEgbG9jYWwgbWluaW11bS9tYXhpbXVtIG9mIGEgZ2l2ZW4gZnVuY3Rpb24uICZtaWRkb3Q7IFRoZSBncmFkaWVudCBkZXNjZW50IGFsZ29yaXRobSByZXF1aXJlcyBhJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "It is an iterative first-order optimisation algorithm used to find a local minimum/maximum of a given function. · The gradient descent algorithm requires a ...",
+      "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAADQBQCdASocABwAPtEutFooIagoGAEAGglsALshOHwOABtgLuKAlHBdyx3T6Qa-pjJXOEq0SnNAAP72E-Dmu1V6Bujv2I9pMib89wf5PYVP-Ab9cqPIC9DkPpawLVsGRxE_wmgL1Jmq0Nte-czqMXQdOMG-XRIUxLkowYKlKUu0Te85BPbeb_R4Bl_mGWuYbCI7EPHj_d29MAmlob8xdwGhkmVSN1SL7pV8N8iIwoLcXwGhS1D9m1M7mnHq4Uaptzi2IfTQ7qcKuO9XaLCaULKq0oe71EPtxsY_uf-PQmaIAA.webp",
+      "source_info_link": "https://www.kaggle.com/code/usamabalochhh/beyond-adam-effective-optimization-method"
+     }
+    },
+    "displayed_link": "https://www.kaggle.com › code › b...",
+    "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAADQBQCdASocABwAPtEutFooIagoGAEAGglsALshOHwOABtgLuKAlHBdyx3T6Qa-pjJXOEq0SnNAAP72E-Dmu1V6Bujv2I9pMib89wf5PYVP-Ab9cqPIC9DkPpawLVsGRxE_wmgL1Jmq0Nte-czqMXQdOMG-XRIUxLkowYKlKUu0Te85BPbeb_R4Bl_mGWuYbCI7EPHj_d29MAmlob8xdwGhkmVSN1SL7pV8N8iIwoLcXwGhS1D9m1M7mnHq4Uaptzi2IfTQ7qcKuO9XaLCaULKq0oe71EPtxsY_uf-PQmaIAA.webp",
+    "link": "https://www.kaggle.com/code/usamabalochhh/beyond-adam-effective-optimization-method",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFWtP0skYvmGO2TzETZHlq14VIVMVHBxnfoXifX7Rj1HTsxhAl3RR6f8XSkR8IYsjiVy3EGO3DoXAzFMtxdWQNFQ021MGVNY3-BV6a8wEAvy1pf00xkRSsrOITqS_T37kycYsye0X31DTIRz02wC5V5XlvIQHSQnQJsEbuI79AZ2rMX6SSqKlWkja&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECB0QAQ&uoh=1",
+    "snippet": "It is an iterative first-order optimisation algorithm used to find a local minimum/maximum of a given function. · The gradient descent algorithm requires a ...",
+    "snippet_highlighted_words": [
+     "iterative first-order optimisation algorithm"
+    ],
+    "source": "Kaggle",
+    "title": "Beyond Adam: Effective Optimization Method"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVmNSUUdOMFRfSy1aYjJBRWo0YklFS3pLc2h6cjVuREZ2X0NtVzdWaThXb2NCb21SRlI0MEZ4TTA5aGMxSHFFalQwWHFxb0dJMVdTUmUtT1F0Rk5TdnhhbTJqLUlrR2J6UmhyeHRmeFQ0MkxmVXI0VzhrNHRha08xUWFncFV3WE0SBBoCCAAaiAYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA5AUIABAAGAAgACqGAQoIcHJvcG9zZWQVPifGPxoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0VzAOWQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUAAAAAGgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFfGfg0AaCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0ylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWY1JRR04wVF9LLVpiMkFFajRiSUVLektzaHpyNW5ERnZfQ21XN1ZpOFdvY0JvbVJGUjQwRnhNMDloYzFIcUVqVDBYcXFvR0kxV1NSZS1PUXRGTlN2eGFtMmotSWtHYnpSaHJ4dGZ4VDQyTGZVcjRXOGs0dGFrTzFRYWdwVXdYTTpBQSBQaGFzZWxlc3MgU291cmNlIFJlY29uc3RydWN0aW9uIE1ldGhvZCBCYXNlZCBvbiA8Yj5BZGFtPC9iPiAuLi5CnwFUaGUgcHJvcG9zZWQgbWV0aG9kIDxiPnVzZXMgQWRhbSBvcHRpbWl6YXRpb248L2I-IHRvIGF2b2lkIHRoZSBkaXJlY3QgaW52ZXJzaW9uIG9mIGlsbC1jb25kaXRpb25lZCBtYXRyaWNlcywgd2hpY2ggaW1wcm92ZXMgdGhlIGFjY3VyYWN5IG9mIG5lYXItZmllbGQmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVmNSUUdOMFRfSy1aYjJBRWo0YklFS3pLc2h6cjVuREZ2X0NtVzdWaThXb2NCb21SRlI0MEZ4TTA5aGMxSHFFalQwWHFxb0dJMVdTUmUtT1F0Rk5TdnhhbTJqLUlrR2J6UmhyeHRmeFQ0MkxmVXI0VzhrNHRha08xUWFncFV3WE0SBBoCCAAaiAYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA5AUIABAAGAAgACqGAQoIcHJvcG9zZWQVPifGPxoDbmV3GgdwbGFubmVkGghwcm9wb3NhbBoJcHJvcG9zYWxzGgdwcm9wb3NlGglzdWdnZXN0ZWQaDWl2O2Q7cHJvcG9zZWQaCGl2O2Q7bmV3GgxpdjtkO3Byb3Bvc2UaDml2O2Q7c3VnZ2VzdGVkGgdwcm9qZWN0KhYKBGFkYW0VzAOWQBoJaXY7ZDthZGFtKnsKDG9wdGltaXNhdGlvbhUAAAAAGgxvcHRpbWl6YXRpb24aCG9wdGltaXplGglvcHRpbWl6ZWQaCW9wdGltaXplchoKb3B0aW1pemluZxoNaXY7ZDtvcHRpbWl6ZRoJb3B0aW1pc2VkGglvcHRpbWlzZXIaB29wdGltYWwqOgoJYWxnb3JpdGhtFfGfg0AaCmFsZ29yaXRobXMaBGNvZGUaBm1ldGhvZBoOaXY7ZDthbGdvcml0aG0ylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWY1JRR04wVF9LLVpiMkFFajRiSUVLektzaHpyNW5ERnZfQ21XN1ZpOFdvY0JvbVJGUjQwRnhNMDloYzFIcUVqVDBYcXFvR0kxV1NSZS1PUXRGTlN2eGFtMmotSWtHYnpSaHJ4dGZ4VDQyTGZVcjRXOGs0dGFrTzFRYWdwVXdYTTpBQSBQaGFzZWxlc3MgU291cmNlIFJlY29uc3RydWN0aW9uIE1ldGhvZCBCYXNlZCBvbiA8Yj5BZGFtPC9iPiAuLi5CnwFUaGUgcHJvcG9zZWQgbWV0aG9kIDxiPnVzZXMgQWRhbSBvcHRpbWl6YXRpb248L2I-IHRvIGF2b2lkIHRoZSBkaXJlY3QgaW52ZXJzaW9uIG9mIGlsbC1jb25kaXRpb25lZCBtYXRyaWNlcywgd2hpY2ggaW1wcm92ZXMgdGhlIGFjY3VyYWN5IG9mIG5lYXItZmllbGQmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "The proposed method uses Adam optimization to avoid the direct inversion of ill-conditioned matrices, which improves the accuracy of near-field ...",
+      "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADwBQCdASocABwAPtEutFooIagoGAEAGglqAMixoDbACnj3QCsi13AWY3jeSE8kXP3gnmhDP-Tq6AD-7mZvnFWx8hQbIAfk_Mjv1fLFmJs8KMfz0xoKMg2DX5G-fIAVazcuRcfzsMHHeLK3e9dDbEu2AkjC1Rp4hri-ebcTjChh979xV8qr_g1mV1ina4f20Q9WfvPos1XgikAzAskx5av_ool21lDb_YbtxKbFfJR3N44z-NqP7_2W-z7P41dtxt2uN8GCtz47XdezCj77stKS9_ArCtCRq29enrahYEZ8ekz3R4Xp5fp0eFYAAA.webp",
+      "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/41682454/"
+     }
+    },
+    "author": "cituojant Z Ma",
+    "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADwBQCdASocABwAPtEutFooIagoGAEAGglqAMixoDbACnj3QCsi13AWY3jeSE8kXP3gnmhDP-Tq6AD-7mZvnFWx8hQbIAfk_Mjv1fLFmJs8KMfz0xoKMg2DX5G-fIAVazcuRcfzsMHHeLK3e9dDbEu2AkjC1Rp4hri-ebcTjChh979xV8qr_g1mV1ina4f20Q9WfvPos1XgikAzAskx5av_ool21lDb_YbtxKbFfJR3N44z-NqP7_2W-z7P41dtxt2uN8GCtz47XdezCj77stKS9_ArCtCRq29enrahYEZ8ekz3R4Xp5fp0eFYAAA.webp",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41682454/",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVcRQGN0T_K-Zb2AEj4bIEKzKshzr5nDFv_CmW7Vi8WocBomRFR40FxM09hc1HqEjT0XqqoGI1WSRe-OQtFNSvxam2j-IkGbzRhrxtfxT42LfUr4W8k4takO1QagpUwXM&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECBwQAQ&uoh=1",
+    "snippet": "The proposed method uses Adam optimization to avoid the direct inversion of ill-conditioned matrices, which improves the accuracy of near-field ...",
+    "snippet_highlighted_words": [
+     "uses Adam optimization"
+    ],
+    "source": "National Institutes of Health (NIH) | (.gov)",
+    "title": "A Phaseless Source Reconstruction Method Based on ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZYenN4S2J0blZhT082SDY0bmZTd2NMQlZIbVdya3MwUGZVNl9yMF96Q19KNFJHQ3U3dG1ROU8zM3JBa2VST0pCOXB3UEJNNk1WbmczRy0yM0R5X0lsTm00M0JUTmdtX0pjMWoxUlRfZTlnLXA1d2xDUnYxNk9OcmUtX2puVnlvei1YMHN2NGo5ZGJzRWNzWDY3OU9EMFg1cExpOVFvdzYtMzg2dnFpeEJtckNIeUNVUnpRSGx0Qkp5ZxIEGgIIABrGBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCiBggAEAAYACAAKoYBCghwcm9wb3NlZBUAAAAAGgNuZXcaB3BsYW5uZWQaCHByb3Bvc2FsGglwcm9wb3NhbHMaB3Byb3Bvc2UaCXN1Z2dlc3RlZBoNaXY7ZDtwcm9wb3NlZBoIaXY7ZDtuZXcaDGl2O2Q7cHJvcG9zZRoOaXY7ZDtzdWdnZXN0ZWQaB3Byb2plY3QqFgoEYWRhbRX8fJ9AGglpdjtkO2FkYW0qewoMb3B0aW1pc2F0aW9uFQAAAAAaDG9wdGltaXphdGlvbhoIb3B0aW1pemUaCW9wdGltaXplZBoJb3B0aW1pemVyGgpvcHRpbWl6aW5nGg1pdjtkO29wdGltaXplGglvcHRpbWlzZWQaCW9wdGltaXNlchoHb3B0aW1hbCo6CglhbGdvcml0aG0VutCgQBoKYWxnb3JpdGhtcxoEY29kZRoGbWV0aG9kGg5pdjtkO2FsZ29yaXRobTLQAS9nb3RvP3VybD1DQUVTandFQjZ6c3dGWHpzeEtidG5WYU9PNkg2NG5mU3djTEJWSG1XcmtzMFBmVTZfcjBfekNfSjRSR0N1N3RtUTlPMzNyQWtlUk9KQjlwd1BCTTZNVm5nM0ctMjNEeV9JbE5tNDNCVE5nbV9KYzFqMVJUX2U5Zy1wNXdsQ1J2MTZPTnJlLV9qblZ5b3otWDBzdjRqOWRic0Vjc1g2NzlPRDBYNXBMaTlRb3c2LTM4NnZxaXhCbXJDSHlDVVJ6UUhsdEJKeWc6OjxiPkFkYW0gT3B0aW1pemF0aW9uIEFsZ29yaXRobTwvYj4gT3ZlcnZpZXcgfCBQREYgLSBTY3JpYmRCqQE8Yj5BZGFtIGlzIGFuIG9wdGltaXphdGlvbiBhbGdvcml0aG0gdXNlZCBpbiBtYWNoaW5lIGxlYXJuaW5nPC9iPiBmb3IgdXBkYXRpbmcgd2VpZ2h0cyBkdXJpbmcgdHJhaW5pbmcuIEl0IGlzIGJhc2VkIG9uIGFkYXB0aXZlIGVzdGltYXRlcyBvZiBsb3dlci1vcmRlciBtb21lbnRzJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZYenN4S2J0blZhT082SDY0bmZTd2NMQlZIbVdya3MwUGZVNl9yMF96Q19KNFJHQ3U3dG1ROU8zM3JBa2VST0pCOXB3UEJNNk1WbmczRy0yM0R5X0lsTm00M0JUTmdtX0pjMWoxUlRfZTlnLXA1d2xDUnYxNk9OcmUtX2puVnlvei1YMHN2NGo5ZGJzRWNzWDY3OU9EMFg1cExpOVFvdzYtMzg2dnFpeEJtckNIeUNVUnpRSGx0Qkp5ZxIEGgIIABrGBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCiBggAEAAYACAAKoYBCghwcm9wb3NlZBUAAAAAGgNuZXcaB3BsYW5uZWQaCHByb3Bvc2FsGglwcm9wb3NhbHMaB3Byb3Bvc2UaCXN1Z2dlc3RlZBoNaXY7ZDtwcm9wb3NlZBoIaXY7ZDtuZXcaDGl2O2Q7cHJvcG9zZRoOaXY7ZDtzdWdnZXN0ZWQaB3Byb2plY3QqFgoEYWRhbRX8fJ9AGglpdjtkO2FkYW0qewoMb3B0aW1pc2F0aW9uFQAAAAAaDG9wdGltaXphdGlvbhoIb3B0aW1pemUaCW9wdGltaXplZBoJb3B0aW1pemVyGgpvcHRpbWl6aW5nGg1pdjtkO29wdGltaXplGglvcHRpbWlzZWQaCW9wdGltaXNlchoHb3B0aW1hbCo6CglhbGdvcml0aG0VutCgQBoKYWxnb3JpdGhtcxoEY29kZRoGbWV0aG9kGg5pdjtkO2FsZ29yaXRobTLQAS9nb3RvP3VybD1DQUVTandFQjZ6c3dGWHpzeEtidG5WYU9PNkg2NG5mU3djTEJWSG1XcmtzMFBmVTZfcjBfekNfSjRSR0N1N3RtUTlPMzNyQWtlUk9KQjlwd1BCTTZNVm5nM0ctMjNEeV9JbE5tNDNCVE5nbV9KYzFqMVJUX2U5Zy1wNXdsQ1J2MTZPTnJlLV9qblZ5b3otWDBzdjRqOWRic0Vjc1g2NzlPRDBYNXBMaTlRb3c2LTM4NnZxaXhCbXJDSHlDVVJ6UUhsdEJKeWc6OjxiPkFkYW0gT3B0aW1pemF0aW9uIEFsZ29yaXRobTwvYj4gT3ZlcnZpZXcgfCBQREYgLSBTY3JpYmRCqQE8Yj5BZGFtIGlzIGFuIG9wdGltaXphdGlvbiBhbGdvcml0aG0gdXNlZCBpbiBtYWNoaW5lIGxlYXJuaW5nPC9iPiBmb3IgdXBkYXRpbmcgd2VpZ2h0cyBkdXJpbmcgdHJhaW5pbmcuIEl0IGlzIGJhc2VkIG9uIGFkYXB0aXZlIGVzdGltYXRlcyBvZiBsb3dlci1vcmRlciBtb21lbnRzJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "Adam is an optimization algorithm used in machine learning for updating weights during training. It is based on adaptive estimates of lower-order moments ...",
+      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALsNcA6TAiSRiU0ciNsNw4-ckvZckbI8Q0Lri0nWvPTAAP6fWoc5hI1waVpH4HPI-z3W07wkXNBNlhQO9hAKmOv8njeniRb9FCg1c1JmF3efXUUmw2bU_zMmv4y8p_nL016PcG2_Kkra3QUXk6GbHsoOEa89zFXoAnXirQsiNRzPXeKrniAu0unVpGtsEeMjevYRjJ48Bp-DMJ4D_R_y1f316ypJ0S_9mXgcgm8VoTywUh86jiUV9Al4I6yaumsUkda-7a6L12tg8hgBlh0gWv0-rnf3aeCVRG6cfsuzLtT0ruwHdbHm1C0wW2RxRakx4lXvH-JOfzi7UEbqOQ5wVHgAAA.webp",
+      "source_info_link": "https://www.scribd.com/presentation/495943387/09-adam-optimization-algorithm-C2W2L07"
+     }
+    },
+    "displayed_link": "https://www.scribd.com › presentation",
+    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALsNcA6TAiSRiU0ciNsNw4-ckvZckbI8Q0Lri0nWvPTAAP6fWoc5hI1waVpH4HPI-z3W07wkXNBNlhQO9hAKmOv8njeniRb9FCg1c1JmF3efXUUmw2bU_zMmv4y8p_nL016PcG2_Kkra3QUXk6GbHsoOEa89zFXoAnXirQsiNRzPXeKrniAu0unVpGtsEeMjevYRjJ48Bp-DMJ4D_R_y1f316ypJ0S_9mXgcgm8VoTywUh86jiUV9Al4I6yaumsUkda-7a6L12tg8hgBlh0gWv0-rnf3aeCVRG6cfsuzLtT0ruwHdbHm1C0wW2RxRakx4lXvH-JOfzi7UEbqOQ5wVHgAAA.webp",
+    "link": "https://www.scribd.com/presentation/495943387/09-adam-optimization-algorithm-C2W2L07",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFXzsxKbtnVaOO6H64nfSwcLBVHmWrks0PfU6_r0_zC_J4RGCu7tmQ9O33rAkeROJB9pwPBM6MVng3G-23Dy_IlNm43BTNgm_Jc1j1RT_e9g-p5wlCRv16ONre-_jnVyoz-X0sv4j9dbsEcsX679OD0X5pLi9Qow6-386vqixBmrCHyCURzQHltBJyg&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECFIQAQ&uoh=1",
+    "snippet": "Adam is an optimization algorithm used in machine learning for updating weights during training. It is based on adaptive estimates of lower-order moments ...",
+    "snippet_highlighted_words": [
+     "Adam is an optimization algorithm used in machine learning"
+    ],
+    "source": "Scribd",
+    "title": "Adam Optimization Algorithm Overview | PDF"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZVRm1wSVg4M21xZWlwV1F6S3RybHEzS1V6SWl0c2lvd2RaVzdiTWpoajBvTl84Y3JxZV9WM1lxN0c5Nnc1NmRndkJheEF6b3hrT0RHU2pVR01mWm5mRTJLZjJodFRhNXp4bzAyZW9waFhwVVNSaDlzMHhvUnltTGxqRG5ENzN4M1pHTFNjMVN3UGFhbEZ4Vk5pMFBmY1V5ZG0teUdETHlQa0VjZkh2cnQwNndDUnpwS1hVTjByb0VzeEF0Y2dGTjRHbGpOQlJpTGpLSGlHOBIEGgIIABq0BhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCQBggAEAAYACAAKoYBCghwcm9wb3NlZBUAAAAAGgNuZXcaB3BsYW5uZWQaCHByb3Bvc2FsGglwcm9wb3NhbHMaB3Byb3Bvc2UaCXN1Z2dlc3RlZBoNaXY7ZDtwcm9wb3NlZBoIaXY7ZDtuZXcaDGl2O2Q7cHJvcG9zZRoOaXY7ZDtzdWdnZXN0ZWQaB3Byb2plY3QqFgoEYWRhbRVpp6pAGglpdjtkO2FkYW0qewoMb3B0aW1pc2F0aW9uFQAAAAAaDG9wdGltaXphdGlvbhoIb3B0aW1pemUaCW9wdGltaXplZBoJb3B0aW1pemVyGgpvcHRpbWl6aW5nGg1pdjtkO29wdGltaXplGglvcHRpbWlzZWQaCW9wdGltaXNlchoHb3B0aW1hbCo6CglhbGdvcml0aG0VeHCaQBoKYWxnb3JpdGhtcxoEY29kZRoGbWV0aG9kGg5pdjtkO2FsZ29yaXRobTLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGVUZtcElYODNtcWVpcFdRekt0cmxxM0tVeklpdHNpb3dkWlc3Yk1qaGowb05fOGNycWVfVjNZcTdHOTZ3NTZkZ3ZCYXhBem94a09ER1NqVUdNZlpuZkUyS2YyaHRUYTV6eG8wMmVvcGhYcFVTUmg5czB4b1J5bUxsakRuRDczeDNaR0xTYzFTd1BhYWxGeFZOaTBQZmNVeWRtLXlHREx5UGtFY2ZIdnJ0MDZ3Q1J6cEtYVU4wcm9Fc3hBdGNnRk40R2xqTkJSaUxqS0hpRzg6OkNvZGluZyB0aGUgPGI-QWRhbSBPcHRpbWl6YXRpb24gQWxnb3JpdGhtPC9iPiB1c2luZyBQeXRob25CggFUaGUgQWRhbSAo4oCcYWRhcHRpdmUgbW9tZW50IGVzdGltYXRpb27igJ0sIG5vdCBhbiBhY3JvbnltKSBvcHRpbWl6YXRpb24gYWxnb3JpdGhtIDxiPmlzIG9mdGVuIHVzZWQgdG8gdHJhaW4gYSBuZXVyYWwgbmV0d29yazwvYj4uUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZVRm1wSVg4M21xZWlwV1F6S3RybHEzS1V6SWl0c2lvd2RaVzdiTWpoajBvTl84Y3JxZV9WM1lxN0c5Nnc1NmRndkJheEF6b3hrT0RHU2pVR01mWm5mRTJLZjJodFRhNXp4bzAyZW9waFhwVVNSaDlzMHhvUnltTGxqRG5ENzN4M1pHTFNjMVN3UGFhbEZ4Vk5pMFBmY1V5ZG0teUdETHlQa0VjZkh2cnQwNndDUnpwS1hVTjByb0VzeEF0Y2dGTjRHbGpOQlJpTGpLSGlHOBIEGgIIABq0BhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCQBggAEAAYACAAKoYBCghwcm9wb3NlZBUAAAAAGgNuZXcaB3BsYW5uZWQaCHByb3Bvc2FsGglwcm9wb3NhbHMaB3Byb3Bvc2UaCXN1Z2dlc3RlZBoNaXY7ZDtwcm9wb3NlZBoIaXY7ZDtuZXcaDGl2O2Q7cHJvcG9zZRoOaXY7ZDtzdWdnZXN0ZWQaB3Byb2plY3QqFgoEYWRhbRVpp6pAGglpdjtkO2FkYW0qewoMb3B0aW1pc2F0aW9uFQAAAAAaDG9wdGltaXphdGlvbhoIb3B0aW1pemUaCW9wdGltaXplZBoJb3B0aW1pemVyGgpvcHRpbWl6aW5nGg1pdjtkO29wdGltaXplGglvcHRpbWlzZWQaCW9wdGltaXNlchoHb3B0aW1hbCo6CglhbGdvcml0aG0VeHCaQBoKYWxnb3JpdGhtcxoEY29kZRoGbWV0aG9kGg5pdjtkO2FsZ29yaXRobTLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGVUZtcElYODNtcWVpcFdRekt0cmxxM0tVeklpdHNpb3dkWlc3Yk1qaGowb05fOGNycWVfVjNZcTdHOTZ3NTZkZ3ZCYXhBem94a09ER1NqVUdNZlpuZkUyS2YyaHRUYTV6eG8wMmVvcGhYcFVTUmg5czB4b1J5bUxsakRuRDczeDNaR0xTYzFTd1BhYWxGeFZOaTBQZmNVeWRtLXlHREx5UGtFY2ZIdnJ0MDZ3Q1J6cEtYVU4wcm9Fc3hBdGNnRk40R2xqTkJSaUxqS0hpRzg6OkNvZGluZyB0aGUgPGI-QWRhbSBPcHRpbWl6YXRpb24gQWxnb3JpdGhtPC9iPiB1c2luZyBQeXRob25CggFUaGUgQWRhbSAo4oCcYWRhcHRpdmUgbW9tZW50IGVzdGltYXRpb27igJ0sIG5vdCBhbiBhY3JvbnltKSBvcHRpbWl6YXRpb24gYWxnb3JpdGhtIDxiPmlzIG9mdGVuIHVzZWQgdG8gdHJhaW4gYSBuZXVyYWwgbmV0d29yazwvYj4uUgNuZXciAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "The Adam (“adaptive moment estimation”, not an acronym) optimization algorithm is often used to train a neural network.",
+      "icon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAADQBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0vPZSKMBtk9DMyV5fgrQUAHtmYSKrjSVBz4X__IJTp4lf2x_VYDwkoL8JWAAD-9-pGlt6sYkGGhqQska-nohMFv0-w1dg-td3pJ7Cp237Z2IhswqycqRzS_uwt-8mAUxJZ1ax6z_Ps6UQxvYOI899rY_K6WFXjDNxsptWoAs3V4YY1U_PDJHB9QdaxRbv-KxRivt72PHlA043RPHBtvG1_MwR-ddr98BuXzRbvY-yXKtqqyMDvLby2JNJN9tZNpJQa5fZVc6kIfvP2bBC9nQYAIgp7ns5a4hmnx7gLNsoOY1kB8tlZ_jOPGv85QLQ4iENdw0Yi4pXI2VUwKMRj3pkhjDe8p99qi9YkR6mhu5h4JQ5uHem7IoC67ViR5mCbWzA3mIi1FTu0OC3EE3RxBUP2rHFUiyP0M9MtKlNW4Z0fm4TXFZTTL8IvY22I4eCGL51g7Vy3u2z7i2AAAA.webp",
+      "source_info_link": "https://jamesmccaffrey.wordpress.com/2018/06/05/coding-the-adam-optimization-algorithm-using-python/"
+     }
+    },
+    "date": "2018-06-05",
+    "displayed_link": "https://jamesmccaffrey.wordpress.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAADQBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0vPZSKMBtk9DMyV5fgrQUAHtmYSKrjSVBz4X__IJTp4lf2x_VYDwkoL8JWAAD-9-pGlt6sYkGGhqQska-nohMFv0-w1dg-td3pJ7Cp237Z2IhswqycqRzS_uwt-8mAUxJZ1ax6z_Ps6UQxvYOI899rY_K6WFXjDNxsptWoAs3V4YY1U_PDJHB9QdaxRbv-KxRivt72PHlA043RPHBtvG1_MwR-ddr98BuXzRbvY-yXKtqqyMDvLby2JNJN9tZNpJQa5fZVc6kIfvP2bBC9nQYAIgp7ns5a4hmnx7gLNsoOY1kB8tlZ_jOPGv85QLQ4iENdw0Yi4pXI2VUwKMRj3pkhjDe8p99qi9YkR6mhu5h4JQ5uHem7IoC67ViR5mCbWzA3mIi1FTu0OC3EE3RxBUP2rHFUiyP0M9MtKlNW4Z0fm4TXFZTTL8IvY22I4eCGL51g7Vy3u2z7i2AAAA.webp",
+    "link": "https://jamesmccaffrey.wordpress.com/2018/06/05/coding-the-adam-optimization-algorithm-using-python/",
+    "position": 10,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFUFmpIX83mqeipWQzKtrlq3KUzIitsiowdZW7bMjhj0oN_8crqe_V3Yq7G96w56dgvBaxAzoxkODGSjUGMfZnfE2Kf2htTa5zxo02eophXpUSRh9s0xoRymLljDnD73x3ZGLSc1SwPaalFxVNi0PfcUydm-yGDLyPkEcfHvrt06wCRzpKXUN0roEsxAtcgFN4GljNBRiLjKHiG8&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQFnoECFMQAQ&uoh=1",
+    "snippet": "The Adam (“adaptive moment estimation”, not an acronym) optimization algorithm is often used to train a neural network.",
+    "snippet_highlighted_words": [
+     "is often used to train a neural network"
+    ],
+    "source": "WordPress.com",
+    "title": "Coding the Adam Optimization Algorithm using Python"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=10&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8NMDegQIKxAW",
+   "next": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnt0Fa7ht9UT_FKdHt7L60NFtVbFqg:1790779190437&ei=Nh-9aviUGvKZvr0PhZWCmA8&start=10&sa=N&sstk=AS6-VmIJqFVrH9GWfL8X0SQkWPBJQ5TyZA3LnstZnLkCTyV1o-O6ZUMDXFduXZHGPrh3NljwBZDwbXcN3BN3jWZDwnqVbkfbnM7jfg&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQ8NMDegQITBAM",
    "other_pages": {
-    "10": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=90&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8tMDegQIKxAU",
-    "2": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=10&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8tMDegQIKxAE",
-    "3": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=20&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8tMDegQIKxAG",
-    "4": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=30&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8tMDegQIKxAI",
-    "5": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=40&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8tMDegQIKxAK",
-    "6": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=50&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8tMDegQIKxAM",
-    "7": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=60&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8tMDegQIKxAO",
-    "8": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=70&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8tMDegQIKxAQ",
-    "9": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=646215d9fbd2647e&ei=v8Svatj8K_OSwbkP5_KUyAQ&start=80&sa=N&sstk=AS6-VmLJkYjmGEJSyMXOMocdBtoaOD7yGQDFE-eQd7bMdU77JVtSi5UAfqwrCllJRpzmnKUJ0nzPcgrlEu2PIa8hQhXvT2uXGVebSQ&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ8tMDegQIKxAS"
+    "2": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnt0Fa7ht9UT_FKdHt7L60NFtVbFqg:1790779190437&ei=Nh-9aviUGvKZvr0PhZWCmA8&start=10&sa=N&sstk=AS6-VmIJqFVrH9GWfL8X0SQkWPBJQ5TyZA3LnstZnLkCTyV1o-O6ZUMDXFduXZHGPrh3NljwBZDwbXcN3BN3jWZDwnqVbkfbnM7jfg&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQ8tMDegQITBAE",
+    "3": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnt0Fa7ht9UT_FKdHt7L60NFtVbFqg:1790779190437&ei=Nh-9aviUGvKZvr0PhZWCmA8&start=20&sa=N&sstk=AS6-VmIJqFVrH9GWfL8X0SQkWPBJQ5TyZA3LnstZnLkCTyV1o-O6ZUMDXFduXZHGPrh3NljwBZDwbXcN3BN3jWZDwnqVbkfbnM7jfg&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQ8tMDegQITBAG",
+    "4": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnt0Fa7ht9UT_FKdHt7L60NFtVbFqg:1790779190437&ei=Nh-9aviUGvKZvr0PhZWCmA8&start=30&sa=N&sstk=AS6-VmIJqFVrH9GWfL8X0SQkWPBJQ5TyZA3LnstZnLkCTyV1o-O6ZUMDXFduXZHGPrh3NljwBZDwbXcN3BN3jWZDwnqVbkfbnM7jfg&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQ8tMDegQITBAI",
+    "5": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnt0Fa7ht9UT_FKdHt7L60NFtVbFqg:1790779190437&ei=Nh-9aviUGvKZvr0PhZWCmA8&start=40&sa=N&sstk=AS6-VmIJqFVrH9GWfL8X0SQkWPBJQ5TyZA3LnstZnLkCTyV1o-O6ZUMDXFduXZHGPrh3NljwBZDwbXcN3BN3jWZDwnqVbkfbnM7jfg&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQ8tMDegQITBAK"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpXYzJZelEzTUZSS2MzWmplRkJmY0hwRk1HeEJlRGRHVVc1emExcExNVmxhZVROalZYcHZUSEJ6TTNkS2R6VnVRbXhqUlY5b0xVaEZia2cxUlVoUVozcFZUbVZOZG1kMVYwWTVhM2hsTmswelVtRnNWREJxZDNkQ1VSSVhkamhUZG1GMGFqaExYMDlUZDJKclVEVmZTMVY1UVZFYUlrRkVjM0k1WmxORlkwNTZiMFJuYjJOd1owSm9SRmhIYkhWcE1XUlZXazFHUVVFIiwiZmN2IjoiMyIsImVpIjoidjhTdmF0ajhLX09Td2JrUDVfS1V5QVEiLCJxYyI6IkNpZGhiaUJ3Y205d2IzTmxaQ0JoWkdGdElHOXdkR2x0YVhOaGRHbHZiaUJoYkdkdmNtbDBhRzBRQUgyaGJCd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgQWRhbSdzIG9wdGltaXphdGlvbiBhbGdvcml0aG0/IiwibGsiOiJHaU4zYUdGMElHbHpJR0ZrWVcwZ2IzQjBhVzFwZW1GMGFXOXVJR0ZzWjI5eWFYUm9iUSIsImJzIjoiYzRYUHZRdkNNQkFGY0Z3ek9jZXZBMUZIdGJzVVVYRHM0TkQ1cEdjU2FIT1NuZ1Q5NnhWcmtRcmlfSDczZUtjeU5jOHRDcmdhdGdWV2l4cjRJcTV5ZHhUSEhyQTBISnpZS2sxbWVocmZFcF95aDFNN05ja3RlZkFzSUF6WG1sN0ZMYWVRSnFESDhZdGdoNmlOR3ViMjFvNkNFNGxRQUxIbzRYallwOGxJRDJLVDQzZGVtMEtSV3JWUElSam1Ba3JDNEowM0VGQUl6aHlhNHV3emFxMlg4ZDlOZDJXXzl3QSIsImlkIjoiZmNfdjhTdmF0ajhLX09Td2JrUDVfS1V5QVFfNSJ9",
-    "page_token": "_swnjHicHdDPboIwHADg7GU8Kn-CCyZmCRtVnC220F8LlwUQRWih25g6b3uXPdWeZsvO3-37-lanvvu5OzfjaN4Xs9nlcpkeh-Go6mk16Fnx_tlXs6pQqiyqbjG_n9sPh2oZfkTB42sUUG4MPDEr0b5OLHSGlUnFamyorq6cmxEcz4v5uMZqI4jLrwSCPBaRK23DSddkZW88hiKnbpsTEUzUMiCAGKZqE-Wa0LLbn3iPBizghkWeJo4vShexuoWu4MiqV_xC5XCVFndAhl5iec8ZsB3pg6a0FcaiSdPVpij_oGhVKFo05D0UtM2NECgE7dsssSVY-a5-AlSv94aD74bN3okRcTLJXuNwPKQ2cTM9UgL-FqQKOBtOlLNb1SrNHeLgjl4x8m-ZaJAQgIlGxVbu3TjchIkVfXI6OVTnpTv5_1y-HPS4MG_D8ReDbIF9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FpMTZibWxOYTFOQlluVklRMDR5UTJsNFlVSjRXRFJWVG1OZlpXVTJNbmhPYVZSNlYzTjVlWFprUkRGeU0yOTFNRUpNZWtNeVZVTTBNR05TVW5Fd1kyeHlOMFl5WlZoRmFXRTRWSEoxVWs1b1JHZHJhSEkwTVUxVVp4SVhUbWd0T1dGMmFWVkhka3RhZG5Jd1VHaGFWME50UVRnYUlrRkVjM0k1WmxKT1MyNHpaRk14UkdjeFJuVjNjVVZ6UzBGVGNVUlVRelJPV0djIiwiZmN2IjoiMyIsImVpIjoiTmgtOWF2aVVHdktadnIwUGhaV0NtQTgiLCJxYyI6IkNpUndjbTl3YjNObFpDQmhaR0Z0SUc5d2RHbHRhWE5oZEdsdmJpQmhiR2R2Y21sMGFHMFFBSDBBRVM4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBBZGFtJ3Mgb3B0aW1pemF0aW9uIGFsZ29yaXRobT8iLCJsayI6IkdpTjNhR0YwSUdseklHRmtZVzBnYjNCMGFXMXBlbUYwYVc5dUlHRnNaMjl5YVhSb2JRIiwiYnMiOiJjM1hOdnd2Q01CQ0dZVnh2Y280X2VpTHEzbDJLcURnNk9HUS02V0VDTnBIbU5PaGZiOUFLdHVMOFBid2Y3R0d1RFFuYWdLdVNxa1ZBZnhGYjJRZUo5UTdwZlBLMUZWTVYtVXhOWXlNcHlUOE9sakRVNXY3cDRaRkZ1RVl4NVBDdzJ4VDVTQTFpMmwtSmhMNzNjQ3BoQzZpTlItdHU3SVRMTlBBNzFOeHhYZVFUbGNXdW9aYUJOV1Rhc0VQbkJjWGpOZnhXVUkxamg3UWpfZDRUIiwiaWQiOiJmY19OaC05YXZpVUd2S1p2cjBQaFpXQ21BOF81In0=",
+    "page_token": "86UCsHicHdBdboIwAADg7DI-aos_myZmCUIVJzigrbUvS2lVhJYydYK87S471U6zZN8Rvu8ffa7K36d7frvV19lg0DRN_2TtSR_60pqBuD4qOZBC60zIcjZ5nsDXo5z7X4G7-AzcmNQ19RKQFshgpgIKecRXaJSWtd7p6I7Zmkp_euGMAuXrKzcwFUQL4VEjl_kkLa2T7fQlYdxPPDSOO_0Weao9kBeIh-sHdqbXEIcOxQHIdH6UneoiknDcaSyGLlarGNCiHHHQNBlBIkK2ZSC_E2NbvlJ5COA79gMYUXVj4NSEVdlKM4WctEkK4Dk22mxwtNgu83G4tGCL9610dOXnaisWYLxnvKZEOSmsHVm4sUA1ix3obl17jknSyUIbUvFkX679lCEvNC3Z0OmDozwUiDOloyJbuWPe9I7yPh_2_j_nH0dzm9UXe_oDcAWDZg",
     "question": "What is Adam's optimization algorithm?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_swnjHicHdDPboIwHADg7GU8Kn-CCyZmCRtVnC220F8LlwUQRWih25g6b3uXPdWeZsvO3-37-lanvvu5OzfjaN4Xs9nlcpkeh-Go6mk16Fnx_tlXs6pQqiyqbjG_n9sPh2oZfkTB42sUUG4MPDEr0b5OLHSGlUnFamyorq6cmxEcz4v5uMZqI4jLrwSCPBaRK23DSddkZW88hiKnbpsTEUzUMiCAGKZqE-Wa0LLbn3iPBizghkWeJo4vShexuoWu4MiqV_xC5XCVFndAhl5iec8ZsB3pg6a0FcaiSdPVpij_oGhVKFo05D0UtM2NECgE7dsssSVY-a5-AlSv94aD74bN3okRcTLJXuNwPKQ2cTM9UgL-FqQKOBtOlLNb1SrNHeLgjl4x8m-ZaJAQgIlGxVbu3TjchIkVfXI6OVTnpTv5_1y-HPS4MG_D8ReDbIF9",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpXYzJZelEzTUZSS2MzWmplRkJmY0hwRk1HeEJlRGRHVVc1emExcExNVmxhZVROalZYcHZUSEJ6TTNkS2R6VnVRbXhqUlY5b0xVaEZia2cxUlVoUVozcFZUbVZOZG1kMVYwWTVhM2hsTmswelVtRnNWREJxZDNkQ1VSSVhkamhUZG1GMGFqaExYMDlUZDJKclVEVmZTMVY1UVZFYUlrRkVjM0k1WmxORlkwNTZiMFJuYjJOd1owSm9SRmhIYkhWcE1XUlZXazFHUVVFIiwiZmN2IjoiMyIsImVpIjoidjhTdmF0ajhLX09Td2JrUDVfS1V5QVEiLCJxYyI6IkNpZGhiaUJ3Y205d2IzTmxaQ0JoWkdGdElHOXdkR2x0YVhOaGRHbHZiaUJoYkdkdmNtbDBhRzBRQUgyaGJCd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgQWRhbSdzIG9wdGltaXphdGlvbiBhbGdvcml0aG0%2FIiwibGsiOiJHaU4zYUdGMElHbHpJR0ZrWVcwZ2IzQjBhVzFwZW1GMGFXOXVJR0ZzWjI5eWFYUm9iUSIsImJzIjoiYzRYUHZRdkNNQkFGY0Z3ek9jZXZBMUZIdGJzVVVYRHM0TkQ1cEdjU2FIT1NuZ1Q5NnhWcmtRcmlfSDczZUtjeU5jOHRDcmdhdGdWV2l4cjRJcTV5ZHhUSEhyQTBISnpZS2sxbWVocmZFcF95aDFNN05ja3RlZkFzSUF6WG1sN0ZMYWVRSnFESDhZdGdoNmlOR3ViMjFvNkNFNGxRQUxIbzRYallwOGxJRDJLVDQzZGVtMEtSV3JWUElSam1Ba3JDNEowM0VGQUl6aHlhNHV3emFxMlg4ZDlOZDJXXzl3QSIsImlkIjoiZmNfdjhTdmF0ajhLX09Td2JrUDVfS1V5QVFfNSJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=86UCsHicHdBdboIwAADg7DI-aos_myZmCUIVJzigrbUvS2lVhJYydYK87S471U6zZN8Rvu8ffa7K36d7frvV19lg0DRN_2TtSR_60pqBuD4qOZBC60zIcjZ5nsDXo5z7X4G7-AzcmNQ19RKQFshgpgIKecRXaJSWtd7p6I7Zmkp_euGMAuXrKzcwFUQL4VEjl_kkLa2T7fQlYdxPPDSOO_0Weao9kBeIh-sHdqbXEIcOxQHIdH6UneoiknDcaSyGLlarGNCiHHHQNBlBIkK2ZSC_E2NbvlJ5COA79gMYUXVj4NSEVdlKM4WctEkK4Dk22mxwtNgu83G4tGCL9610dOXnaisWYLxnvKZEOSmsHVm4sUA1ix3obl17jknSyUIbUvFkX679lCEvNC3Z0OmDozwUiDOloyJbuWPe9I7yPh_2_j_nH0dzm9UXe_oDcAWDZg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FpMTZibWxOYTFOQlluVklRMDR5UTJsNFlVSjRXRFJWVG1OZlpXVTJNbmhPYVZSNlYzTjVlWFprUkRGeU0yOTFNRUpNZWtNeVZVTTBNR05TVW5Fd1kyeHlOMFl5WlZoRmFXRTRWSEoxVWs1b1JHZHJhSEkwTVUxVVp4SVhUbWd0T1dGMmFWVkhka3RhZG5Jd1VHaGFWME50UVRnYUlrRkVjM0k1WmxKT1MyNHpaRk14UkdjeFJuVjNjVVZ6UzBGVGNVUlVRelJPV0djIiwiZmN2IjoiMyIsImVpIjoiTmgtOWF2aVVHdktadnIwUGhaV0NtQTgiLCJxYyI6IkNpUndjbTl3YjNObFpDQmhaR0Z0SUc5d2RHbHRhWE5oZEdsdmJpQmhiR2R2Y21sMGFHMFFBSDBBRVM4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBBZGFtJ3Mgb3B0aW1pemF0aW9uIGFsZ29yaXRobT8iLCJsayI6IkdpTjNhR0YwSUdseklHRmtZVzBnYjNCMGFXMXBlbUYwYVc5dUlHRnNaMjl5YVhSb2JRIiwiYnMiOiJjM1hOdnd2Q01CQ0dZVnh2Y280X2VpTHEzbDJLcURnNk9HUS02V0VDTnBIbU5PaGZiOUFLdHVMOFBid2Y3R0d1RFFuYWdLdVNxa1ZBZnhGYjJRZUo5UTdwZlBLMUZWTVYtVXhOWXlNcHlUOE9sakRVNXY3cDRaRkZ1RVl4NVBDdzJ4VDVTQTFpMmwtSmhMNzNjQ3BoQzZpTlItdHU3SVRMTlBBNzFOeHhYZVFUbGNXdW9aYUJOV1Rhc0VQbkJjWGpOZnhXVUkxamg3UWpfZDRUIiwiaWQiOiJmY19OaC05YXZpVUd2S1p2cjBQaFpXQ21BOF81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpXYzJZelEzTUZSS2MzWmplRkJmY0hwRk1HeEJlRGRHVVc1emExcExNVmxhZVROalZYcHZUSEJ6TTNkS2R6VnVRbXhqUlY5b0xVaEZia2cxUlVoUVozcFZUbVZOZG1kMVYwWTVhM2hsTmswelVtRnNWREJxZDNkQ1VSSVhkamhUZG1GMGFqaExYMDlUZDJKclVEVmZTMVY1UVZFYUlrRkVjM0k1WmxORlkwNTZiMFJuYjJOd1owSm9SRmhIYkhWcE1XUlZXazFHUVVFIiwiZmN2IjoiMyIsImVpIjoidjhTdmF0ajhLX09Td2JrUDVfS1V5QVEiLCJxYyI6IkNpZGhiaUJ3Y205d2IzTmxaQ0JoWkdGdElHOXdkR2x0YVhOaGRHbHZiaUJoYkdkdmNtbDBhRzBRQUgyaGJCd18iLCJxdWVzdGlvbiI6IldoZW4gbm90IHRvIHVzZSBBZGFtIG9wdGltaXplcj8iLCJsayI6IkdoNTNhR1Z1SUc1dmRDQjBieUIxYzJVZ1lXUmhiU0J2Y0hScGJXbDZaWEkiLCJicyI6ImM0WFB2UXZDTUJBRmNGd3pPY2V2QTFGSHRic1VVWERzNE5ENXBHY1NhSE9TbmdUOTZ4VnJrUXJpX0g3M2VLY3lOYzh0Q3JnYXRnVldpeHI0SXE1eWR4VEhIckEwSEp6WUtrMW1laHJmRXBfeWgxTTdOY2t0ZWZBc0lBelhtbDdGTGFlUUpxREg4WXRnaDZpTkd1YjIxbzZDRTRsUUFMSG80WGpZcDhsSUQyS1Q0M2RlbTBLUldyVlBJUmptQWtyQzRKMDNFRkFJemh5YTR1d3phcTJYOGQ5TmQyV185d0EiLCJpZCI6ImZjX3Y4U3ZhdGo4S19PU3dia1A1X0tVeUFRXzUifQ==",
-    "page_token": "fN_52XicHdDbboIwAIDh7GW8VArqMhOzBG09bLRyaIHeLFLACgWqoih3e5c91Z5mZi_w58v__aOOdfn7cpNtqy-z0ajruuGhaQ4qG4qmGu0vj1qMxF6pZC_K2fR1Ct5zMYfXjb04bWyXas2WnuEbovPXjND11gmUhCxA2g8x4rVn8UhipwJjEqGzs8S3wNqMeUXvSa_OgYF2HpxovNJjYWxJArZMWPojMuU4jRjyV-juUMPKVNwGBa4SK-3CNXLcCiwzqipaoF0WHYxnc5JQeYyVV4SK2QEsO0Kx7ff2ikNp0lWbi3obezV9kAVYCApIWqZhuuR9DPg1ZZvOhwikrDEJZBaUqUkQNuPIOxHY5gHAVly1LmZvnyxSNvWao0u9XhRPg9GYFDkd75UdK73PFGe81GaIyt4vpORrOHHdQS5uc2vw_3P-lVftTJ-bwx8ScYJr",
-    "question": "When not to use Adam optimizer?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fN_52XicHdDbboIwAIDh7GW8VArqMhOzBG09bLRyaIHeLFLACgWqoih3e5c91Z5mZi_w58v__aOOdfn7cpNtqy-z0ajruuGhaQ4qG4qmGu0vj1qMxF6pZC_K2fR1Ct5zMYfXjb04bWyXas2WnuEbovPXjND11gmUhCxA2g8x4rVn8UhipwJjEqGzs8S3wNqMeUXvSa_OgYF2HpxovNJjYWxJArZMWPojMuU4jRjyV-juUMPKVNwGBa4SK-3CNXLcCiwzqipaoF0WHYxnc5JQeYyVV4SK2QEsO0Kx7ff2ikNp0lWbi3obezV9kAVYCApIWqZhuuR9DPg1ZZvOhwikrDEJZBaUqUkQNuPIOxHY5gHAVly1LmZvnyxSNvWao0u9XhRPg9GYFDkd75UdK73PFGe81GaIyt4vpORrOHHdQS5uc2vw_3P-lVftTJ-bwx8ScYJr",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpXYzJZelEzTUZSS2MzWmplRkJmY0hwRk1HeEJlRGRHVVc1emExcExNVmxhZVROalZYcHZUSEJ6TTNkS2R6VnVRbXhqUlY5b0xVaEZia2cxUlVoUVozcFZUbVZOZG1kMVYwWTVhM2hsTmswelVtRnNWREJxZDNkQ1VSSVhkamhUZG1GMGFqaExYMDlUZDJKclVEVmZTMVY1UVZFYUlrRkVjM0k1WmxORlkwNTZiMFJuYjJOd1owSm9SRmhIYkhWcE1XUlZXazFHUVVFIiwiZmN2IjoiMyIsImVpIjoidjhTdmF0ajhLX09Td2JrUDVfS1V5QVEiLCJxYyI6IkNpZGhiaUJ3Y205d2IzTmxaQ0JoWkdGdElHOXdkR2x0YVhOaGRHbHZiaUJoYkdkdmNtbDBhRzBRQUgyaGJCd18iLCJxdWVzdGlvbiI6IldoZW4gbm90IHRvIHVzZSBBZGFtIG9wdGltaXplcj8iLCJsayI6IkdoNTNhR1Z1SUc1dmRDQjBieUIxYzJVZ1lXUmhiU0J2Y0hScGJXbDZaWEkiLCJicyI6ImM0WFB2UXZDTUJBRmNGd3pPY2V2QTFGSHRic1VVWERzNE5ENXBHY1NhSE9TbmdUOTZ4VnJrUXJpX0g3M2VLY3lOYzh0Q3JnYXRnVldpeHI0SXE1eWR4VEhIckEwSEp6WUtrMW1laHJmRXBfeWgxTTdOY2t0ZWZBc0lBelhtbDdGTGFlUUpxREg4WXRnaDZpTkd1YjIxbzZDRTRsUUFMSG80WGpZcDhsSUQyS1Q0M2RlbTBLUldyVlBJUmptQWtyQzRKMDNFRkFJemh5YTR1d3phcTJYOGQ5TmQyV185d0EiLCJpZCI6ImZjX3Y4U3ZhdGo4S19PU3dia1A1X0tVeUFRXzUifQ%3D%3D",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpXYzJZelEzTUZSS2MzWmplRkJmY0hwRk1HeEJlRGRHVVc1emExcExNVmxhZVROalZYcHZUSEJ6TTNkS2R6VnVRbXhqUlY5b0xVaEZia2cxUlVoUVozcFZUbVZOZG1kMVYwWTVhM2hsTmswelVtRnNWREJxZDNkQ1VSSVhkamhUZG1GMGFqaExYMDlUZDJKclVEVmZTMVY1UVZFYUlrRkVjM0k1WmxORlkwNTZiMFJuYjJOd1owSm9SRmhIYkhWcE1XUlZXazFHUVVFIiwiZmN2IjoiMyIsImVpIjoidjhTdmF0ajhLX09Td2JrUDVfS1V5QVEiLCJxYyI6IkNpZGhiaUJ3Y205d2IzTmxaQ0JoWkdGdElHOXdkR2x0YVhOaGRHbHZiaUJoYkdkdmNtbDBhRzBRQUgyaGJCd18iLCJxdWVzdGlvbiI6IldoeSBpcyBBZGFtIGJldHRlciB0aGFuIFNHRD8iLCJsayI6IkdodDNhSGtnYVhNZ1lXUmhiU0JpWlhSMFpYSWdkR2hoYmlCeloyUSIsImJzIjoiYzRYUHZRdkNNQkFGY0Z3ek9jZXZBMUZIdGJzVVVYRHM0TkQ1cEdjU2FIT1NuZ1Q5NnhWcmtRcmlfSDczZUtjeU5jOHRDcmdhdGdWV2l4cjRJcTV5ZHhUSEhyQTBISnpZS2sxbWVocmZFcF95aDFNN05ja3RlZkFzSUF6WG1sN0ZMYWVRSnFESDhZdGdoNmlOR3ViMjFvNkNFNGxRQUxIbzRYallwOGxJRDJLVDQzZGVtMEtSV3JWUElSam1Ba3JDNEowM0VGQUl6aHlhNHV3emFxMlg4ZDlOZDJXXzl3QSIsImlkIjoiZmNfdjhTdmF0ajhLX09Td2JrUDVfS1V5QVFfNSJ9",
-    "page_token": "y8KfB3icHdBLToNAGADgeJkuZabUmjZpjLQMSOy0_MMMj42B4VUZHhUihZ138VSeRuMFvsX39a0uTfVzF5TD0PVbTRvH8b5o20Jl97KttbifGqnJWKkkltV2_bjGT7ncmf1o7NvRcHnXiQMgxospWTpNxoUl7GjvNsBeA2oddRiYTW7SdPp0hiGa0zk5ODHjoo8sNXNEsdfAADZcU0S6o16eKUl92ZCILR1EkTJEtTFDr5pgWa7BKzFYoqc19rmeNi5X1wS1D5QYQeYpBAHUsBS50CmFCqvEdxB7N_FJpE0mDOLhFxRxQU-2y4gerrgelanVrhjenP-8S4yfcYAGkXEC1sUxwKbTyY9YOB9HD286z3JMryoZq9UtrG4kwURJqzvHdgmLXH7u9MX_2O4tr4dt99EWv8iPdyw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FpMTZibWxOYTFOQlluVklRMDR5UTJsNFlVSjRXRFJWVG1OZlpXVTJNbmhPYVZSNlYzTjVlWFprUkRGeU0yOTFNRUpNZWtNeVZVTTBNR05TVW5Fd1kyeHlOMFl5WlZoRmFXRTRWSEoxVWs1b1JHZHJhSEkwTVUxVVp4SVhUbWd0T1dGMmFWVkhka3RhZG5Jd1VHaGFWME50UVRnYUlrRkVjM0k1WmxKT1MyNHpaRk14UkdjeFJuVjNjVVZ6UzBGVGNVUlVRelJPV0djIiwiZmN2IjoiMyIsImVpIjoiTmgtOWF2aVVHdktadnIwUGhaV0NtQTgiLCJxYyI6IkNpUndjbTl3YjNObFpDQmhaR0Z0SUc5d2RHbHRhWE5oZEdsdmJpQmhiR2R2Y21sMGFHMFFBSDBBRVM4XyIsInF1ZXN0aW9uIjoiV2h5IGlzIEFkYW0gYmV0dGVyIHRoYW4gU0dEPyIsImxrIjoiR2h0M2FIa2dZV1JoYlNCcGN5QmlaWFIwWlhJZ2RHaGhiaUJ6WjJRIiwiYnMiOiJjM1hOdnd2Q01CQ0dZVnh2Y280X2VpTHEzbDJLcURnNk9HUS02V0VDTnBIbU5PaGZiOUFLdHVMOFBid2Y3R0d1RFFuYWdLdVNxa1ZBZnhGYjJRZUo5UTdwZlBLMUZWTVYtVXhOWXlNcHlUOE9sakRVNXY3cDRaRkZ1RVl4NVBDdzJ4VDVTQTFpMmwtSmhMNzNjQ3BoQzZpTlItdHU3SVRMTlBBNzFOeHhYZVFUbGNXdW9aYUJOV1Rhc0VQbkJjWGpOZnhXVUkxamg3UWpfZDRUIiwiaWQiOiJmY19OaC05YXZpVUd2S1p2cjBQaFpXQ21BOF81In0=",
+    "page_token": "MbsyG3icHdBRboIwAIDh7DI-SrHopolZwgAZgzqBtsDLAi2ItlA2iIhvu8tOtdPM7ALfn_zfP_LUit-HpB6Grt9o2jiO86NSR1nOmWq0vJ9aprFcyiJnYrN6XOnPFdva_Wi-qNE84K4jVgiiMzOIWJ5Cq76lMEORK_NyRywcH6bshi4HIcdIX79z-0ln1AmJK6uQdAbX-bmUJkjxsokbb8VEChDwrgeYGoSYPWuda7ZwaJBwFACl38Vb0Axd3nhBmahh75pvhU1qJq4xdhAIBV6gGMVYcMiSzsf0dXHvUUaJlVHk52Bt4ZOuOFSRA5bKj2XNG0lCmPm0zabAMRWV3CqwbexOnhm6aNrT7O6RHXEQLmj9mVlhjyAXKV1DnHh5oneXCEg4q9hlC2f_x7YfVTNsui91_AM61ngh",
     "question": "Why is Adam better than SGD?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y8KfB3icHdBLToNAGADgeJkuZabUmjZpjLQMSOy0_MMMj42B4VUZHhUihZ138VSeRuMFvsX39a0uTfVzF5TD0PVbTRvH8b5o20Jl97KttbifGqnJWKkkltV2_bjGT7ncmf1o7NvRcHnXiQMgxospWTpNxoUl7GjvNsBeA2oddRiYTW7SdPp0hiGa0zk5ODHjoo8sNXNEsdfAADZcU0S6o16eKUl92ZCILR1EkTJEtTFDr5pgWa7BKzFYoqc19rmeNi5X1wS1D5QYQeYpBAHUsBS50CmFCqvEdxB7N_FJpE0mDOLhFxRxQU-2y4gerrgelanVrhjenP-8S4yfcYAGkXEC1sUxwKbTyY9YOB9HD286z3JMryoZq9UtrG4kwURJqzvHdgmLXH7u9MX_2O4tr4dt99EWv8iPdyw",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpXYzJZelEzTUZSS2MzWmplRkJmY0hwRk1HeEJlRGRHVVc1emExcExNVmxhZVROalZYcHZUSEJ6TTNkS2R6VnVRbXhqUlY5b0xVaEZia2cxUlVoUVozcFZUbVZOZG1kMVYwWTVhM2hsTmswelVtRnNWREJxZDNkQ1VSSVhkamhUZG1GMGFqaExYMDlUZDJKclVEVmZTMVY1UVZFYUlrRkVjM0k1WmxORlkwNTZiMFJuYjJOd1owSm9SRmhIYkhWcE1XUlZXazFHUVVFIiwiZmN2IjoiMyIsImVpIjoidjhTdmF0ajhLX09Td2JrUDVfS1V5QVEiLCJxYyI6IkNpZGhiaUJ3Y205d2IzTmxaQ0JoWkdGdElHOXdkR2x0YVhOaGRHbHZiaUJoYkdkdmNtbDBhRzBRQUgyaGJCd18iLCJxdWVzdGlvbiI6IldoeSBpcyBBZGFtIGJldHRlciB0aGFuIFNHRD8iLCJsayI6IkdodDNhSGtnYVhNZ1lXUmhiU0JpWlhSMFpYSWdkR2hoYmlCeloyUSIsImJzIjoiYzRYUHZRdkNNQkFGY0Z3ek9jZXZBMUZIdGJzVVVYRHM0TkQ1cEdjU2FIT1NuZ1Q5NnhWcmtRcmlfSDczZUtjeU5jOHRDcmdhdGdWV2l4cjRJcTV5ZHhUSEhyQTBISnpZS2sxbWVocmZFcF95aDFNN05ja3RlZkFzSUF6WG1sN0ZMYWVRSnFESDhZdGdoNmlOR3ViMjFvNkNFNGxRQUxIbzRYallwOGxJRDJLVDQzZGVtMEtSV3JWUElSam1Ba3JDNEowM0VGQUl6aHlhNHV3emFxMlg4ZDlOZDJXXzl3QSIsImlkIjoiZmNfdjhTdmF0ajhLX09Td2JrUDVfS1V5QVFfNSJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MbsyG3icHdBRboIwAIDh7DI-SrHopolZwgAZgzqBtsDLAi2ItlA2iIhvu8tOtdPM7ALfn_zfP_LUit-HpB6Grt9o2jiO86NSR1nOmWq0vJ9aprFcyiJnYrN6XOnPFdva_Wi-qNE84K4jVgiiMzOIWJ5Cq76lMEORK_NyRywcH6bshi4HIcdIX79z-0ln1AmJK6uQdAbX-bmUJkjxsokbb8VEChDwrgeYGoSYPWuda7ZwaJBwFACl38Vb0Axd3nhBmahh75pvhU1qJq4xdhAIBV6gGMVYcMiSzsf0dXHvUUaJlVHk52Bt4ZOuOFSRA5bKj2XNG0lCmPm0zabAMRWV3CqwbexOnhm6aNrT7O6RHXEQLmj9mVlhjyAXKV1DnHh5oneXCEg4q9hlC2f_x7YfVTNsui91_AM61ngh",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FpMTZibWxOYTFOQlluVklRMDR5UTJsNFlVSjRXRFJWVG1OZlpXVTJNbmhPYVZSNlYzTjVlWFprUkRGeU0yOTFNRUpNZWtNeVZVTTBNR05TVW5Fd1kyeHlOMFl5WlZoRmFXRTRWSEoxVWs1b1JHZHJhSEkwTVUxVVp4SVhUbWd0T1dGMmFWVkhka3RhZG5Jd1VHaGFWME50UVRnYUlrRkVjM0k1WmxKT1MyNHpaRk14UkdjeFJuVjNjVVZ6UzBGVGNVUlVRelJPV0djIiwiZmN2IjoiMyIsImVpIjoiTmgtOWF2aVVHdktadnIwUGhaV0NtQTgiLCJxYyI6IkNpUndjbTl3YjNObFpDQmhaR0Z0SUc5d2RHbHRhWE5oZEdsdmJpQmhiR2R2Y21sMGFHMFFBSDBBRVM4XyIsInF1ZXN0aW9uIjoiV2h5IGlzIEFkYW0gYmV0dGVyIHRoYW4gU0dEPyIsImxrIjoiR2h0M2FIa2dZV1JoYlNCcGN5QmlaWFIwWlhJZ2RHaGhiaUJ6WjJRIiwiYnMiOiJjM1hOdnd2Q01CQ0dZVnh2Y280X2VpTHEzbDJLcURnNk9HUS02V0VDTnBIbU5PaGZiOUFLdHVMOFBid2Y3R0d1RFFuYWdLdVNxa1ZBZnhGYjJRZUo5UTdwZlBLMUZWTVYtVXhOWXlNcHlUOE9sakRVNXY3cDRaRkZ1RVl4NVBDdzJ4VDVTQTFpMmwtSmhMNzNjQ3BoQzZpTlItdHU3SVRMTlBBNzFOeHhYZVFUbGNXdW9aYUJOV1Rhc0VQbkJjWGpOZnhXVUkxamg3UWpfZDRUIiwiaWQiOiJmY19OaC05YXZpVUd2S1p2cjBQaFpXQ21BOF81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpXYzJZelEzTUZSS2MzWmplRkJmY0hwRk1HeEJlRGRHVVc1emExcExNVmxhZVROalZYcHZUSEJ6TTNkS2R6VnVRbXhqUlY5b0xVaEZia2cxUlVoUVozcFZUbVZOZG1kMVYwWTVhM2hsTmswelVtRnNWREJxZDNkQ1VSSVhkamhUZG1GMGFqaExYMDlUZDJKclVEVmZTMVY1UVZFYUlrRkVjM0k1WmxORlkwNTZiMFJuYjJOd1owSm9SRmhIYkhWcE1XUlZXazFHUVVFIiwiZmN2IjoiMyIsImVpIjoidjhTdmF0ajhLX09Td2JrUDVfS1V5QVEiLCJxYyI6IkNpZGhiaUJ3Y205d2IzTmxaQ0JoWkdGdElHOXdkR2x0YVhOaGRHbHZiaUJoYkdkdmNtbDBhRzBRQUgyaGJCd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIGxlYXJuaW5nIHJhdGUgZm9yIEFkYW0gT3B0aW1pemVyPyIsImxrIjoiR2k5M2FHRjBJR2x6SUdFZ1oyOXZaQ0JzWldGeWJtbHVaeUJ5WVhSbElHWnZjaUJoWkdGdElHOXdkR2x0YVhwbGNnIiwiYnMiOiJjNFhQdlF2Q01CQUZjRnd6T2NldkExRkh0YnNVVVhEczRORDVwR2NTYUhPU25nVDk2eFZya1FyaV9INzNlS2N5TmM4dENyZ2F0Z1ZXaXhyNElxNXlkeFRISHJBMEhKellLazFtZWhyZkVwX3loMU03TmNrdGVmQXNJQXpYbWw3RkxhZVFKcURIOFl0Z2g2aU5HdWIyMW82Q0U0bFFBTEhvNFhqWXA4bElEMktUNDNkZW0wS1JXclZQSVJqbUFrckM0SjAzRUZBSXpoeWE0dXd6YXEyWDhkOU5kMldfOXdBIiwiaWQiOiJmY192OFN2YXRqOEtfT1N3YmtQNV9LVXlBUV81In0=",
-    "page_token": "xtCdRnicHdBdbtowAABg7TJ9LI5Z2EBCVWnzo7Qxs7GdxC9TYgMh_olHA2F52xV2hp5qp-nUG3z6_rybk9P_vvxth8G_rWazcRzvj31_NPt72dtZ_fbbyZmsjWlqqVeLb4vg4SDX0VVuns5yg5n3_JkAmpiQOnGTjDukbw6zwYhiYCTgnAViwcs2YwB9bToekRj5fZFPTcJpUxJEy8exhoHlAPVcY5gbdd2lasdp-0InNeYTGSvb6hpE83ruQ1L6VNjwTI1yWJsLghnkkDgZ91MRoUuRxF3DSVizQeASdSheYpSqoAI-e2XLHTYmExpttsnwso9UJ6xIZEqSqmgBN8QwGPvCtj8qC4ByGch1cKH_DYJlpyIRJGoV3MYIViX5tY2GAw3QvLIDRnz5ykuzYaQ_YUYm2RnL9Pcb6Y6AlLFHQQZzrToJQicnThDzJ5maJ4zvDvK6nt99Xq9_Huyw8uf--AFMV423",
-    "question": "What is a good learning rate for Adam Optimizer?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xtCdRnicHdBdbtowAABg7TJ9LI5Z2EBCVWnzo7Qxs7GdxC9TYgMh_olHA2F52xV2hp5qp-nUG3z6_rybk9P_vvxth8G_rWazcRzvj31_NPt72dtZ_fbbyZmsjWlqqVeLb4vg4SDX0VVuns5yg5n3_JkAmpiQOnGTjDukbw6zwYhiYCTgnAViwcs2YwB9bToekRj5fZFPTcJpUxJEy8exhoHlAPVcY5gbdd2lasdp-0InNeYTGSvb6hpE83ruQ1L6VNjwTI1yWJsLghnkkDgZ91MRoUuRxF3DSVizQeASdSheYpSqoAI-e2XLHTYmExpttsnwso9UJ6xIZEqSqmgBN8QwGPvCtj8qC4ByGch1cKH_DYJlpyIRJGoV3MYIViX5tY2GAw3QvLIDRnz5ykuzYaQ_YUYm2RnL9Pcb6Y6AlLFHQQZzrToJQicnThDzJ5maJ4zvDvK6nt99Xq9_Huyw8uf--AFMV423",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpXYzJZelEzTUZSS2MzWmplRkJmY0hwRk1HeEJlRGRHVVc1emExcExNVmxhZVROalZYcHZUSEJ6TTNkS2R6VnVRbXhqUlY5b0xVaEZia2cxUlVoUVozcFZUbVZOZG1kMVYwWTVhM2hsTmswelVtRnNWREJxZDNkQ1VSSVhkamhUZG1GMGFqaExYMDlUZDJKclVEVmZTMVY1UVZFYUlrRkVjM0k1WmxORlkwNTZiMFJuYjJOd1owSm9SRmhIYkhWcE1XUlZXazFHUVVFIiwiZmN2IjoiMyIsImVpIjoidjhTdmF0ajhLX09Td2JrUDVfS1V5QVEiLCJxYyI6IkNpZGhiaUJ3Y205d2IzTmxaQ0JoWkdGdElHOXdkR2x0YVhOaGRHbHZiaUJoYkdkdmNtbDBhRzBRQUgyaGJCd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIGxlYXJuaW5nIHJhdGUgZm9yIEFkYW0gT3B0aW1pemVyPyIsImxrIjoiR2k5M2FHRjBJR2x6SUdFZ1oyOXZaQ0JzWldGeWJtbHVaeUJ5WVhSbElHWnZjaUJoWkdGdElHOXdkR2x0YVhwbGNnIiwiYnMiOiJjNFhQdlF2Q01CQUZjRnd6T2NldkExRkh0YnNVVVhEczRORDVwR2NTYUhPU25nVDk2eFZya1FyaV9INzNlS2N5TmM4dENyZ2F0Z1ZXaXhyNElxNXlkeFRISHJBMEhKellLazFtZWhyZkVwX3loMU03TmNrdGVmQXNJQXpYbWw3RkxhZVFKcURIOFl0Z2g2aU5HdWIyMW82Q0U0bFFBTEhvNFhqWXA4bElEMktUNDNkZW0wS1JXclZQSVJqbUFrckM0SjAzRUZBSXpoeWE0dXd6YXEyWDhkOU5kMldfOXdBIiwiaWQiOiJmY192OFN2YXRqOEtfT1N3YmtQNV9LVXlBUV81In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FpMTZibWxOYTFOQlluVklRMDR5UTJsNFlVSjRXRFJWVG1OZlpXVTJNbmhPYVZSNlYzTjVlWFprUkRGeU0yOTFNRUpNZWtNeVZVTTBNR05TVW5Fd1kyeHlOMFl5WlZoRmFXRTRWSEoxVWs1b1JHZHJhSEkwTVUxVVp4SVhUbWd0T1dGMmFWVkhka3RhZG5Jd1VHaGFWME50UVRnYUlrRkVjM0k1WmxKT1MyNHpaRk14UkdjeFJuVjNjVVZ6UzBGVGNVUlVRelJPV0djIiwiZmN2IjoiMyIsImVpIjoiTmgtOWF2aVVHdktadnIwUGhaV0NtQTgiLCJxYyI6IkNpUndjbTl3YjNObFpDQmhaR0Z0SUc5d2RHbHRhWE5oZEdsdmJpQmhiR2R2Y21sMGFHMFFBSDBBRVM4XyIsInF1ZXN0aW9uIjoiV2hvIGludmVudGVkIHRoZSBBZGFtIG9wdGltaXplcj8iLCJsayI6IkdoOTNhRzhnYVc1MlpXNTBaV1FnZEdobElHRmtZVzBnYjNCMGFXMXBlbVZ5IiwiYnMiOiJjM1hOdnd2Q01CQ0dZVnh2Y280X2VpTHEzbDJLcURnNk9HUS02V0VDTnBIbU5PaGZiOUFLdHVMOFBid2Y3R0d1RFFuYWdLdVNxa1ZBZnhGYjJRZUo5UTdwZlBLMUZWTVYtVXhOWXlNcHlUOE9sakRVNXY3cDRaRkZ1RVl4NVBDdzJ4VDVTQTFpMmwtSmhMNzNjQ3BoQzZpTlItdHU3SVRMTlBBNzFOeHhYZVFUbGNXdW9aYUJOV1Rhc0VQbkJjWGpOZnhXVUkxamg3UWpfZDRUIiwiaWQiOiJmY19OaC05YXZpVUd2S1p2cjBQaFpXQ21BOF81In0=",
+    "page_token": "IU_kM3icHdBfToMwHADgeJk9DhgyzZLFyKBMxh9X2h_YF9MVBgsFquAYvHkXT-VpTPyO8H3_yEtb_95l1TCofqNp4zguy64rZbEUXaPxfmqFJriUJy7qzfphbTydxdbtR3vXjfaRKgUO1okrhsxQRuEqG0ucJhKjk1cdigxCojOHQBUDUlx4iEdgO0BQyGf_FpqRDSb6og7-ila3D-5UM3jKFzvjQEzZJavaojVDiVFaBUJXQXzv2FZuQBkl9ePEHVan4M5vK3ilGcYxtSQmUcgaQNkqj4ibe0BVnHr-C9cNhhNjDiFS0PQJ0q0uILLKGwnYZEHasilEdpfK3DlR9967-DbeR1OcMpLUUQsNVuBRvUitPWuFGc6oSSkKWPY8Mkfai7O4bs3F_9j2_dwMG_XZlX_W_3f3",
+    "question": "Who invented the Adam optimizer?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IU_kM3icHdBfToMwHADgeJk9DhgyzZLFyKBMxh9X2h_YF9MVBgsFquAYvHkXT-VpTPyO8H3_yEtb_95l1TCofqNp4zguy64rZbEUXaPxfmqFJriUJy7qzfphbTydxdbtR3vXjfaRKgUO1okrhsxQRuEqG0ucJhKjk1cdigxCojOHQBUDUlx4iEdgO0BQyGf_FpqRDSb6og7-ila3D-5UM3jKFzvjQEzZJavaojVDiVFaBUJXQXzv2FZuQBkl9ePEHVan4M5vK3ilGcYxtSQmUcgaQNkqj4ibe0BVnHr-C9cNhhNjDiFS0PQJ0q0uILLKGwnYZEHasilEdpfK3DlR9967-DbeR1OcMpLUUQsNVuBRvUitPWuFGc6oSSkKWPY8Mkfai7O4bs3F_9j2_dwMG_XZlX_W_3f3",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FpMTZibWxOYTFOQlluVklRMDR5UTJsNFlVSjRXRFJWVG1OZlpXVTJNbmhPYVZSNlYzTjVlWFprUkRGeU0yOTFNRUpNZWtNeVZVTTBNR05TVW5Fd1kyeHlOMFl5WlZoRmFXRTRWSEoxVWs1b1JHZHJhSEkwTVUxVVp4SVhUbWd0T1dGMmFWVkhka3RhZG5Jd1VHaGFWME50UVRnYUlrRkVjM0k1WmxKT1MyNHpaRk14UkdjeFJuVjNjVVZ6UzBGVGNVUlVRelJPV0djIiwiZmN2IjoiMyIsImVpIjoiTmgtOWF2aVVHdktadnIwUGhaV0NtQTgiLCJxYyI6IkNpUndjbTl3YjNObFpDQmhaR0Z0SUc5d2RHbHRhWE5oZEdsdmJpQmhiR2R2Y21sMGFHMFFBSDBBRVM4XyIsInF1ZXN0aW9uIjoiV2hvIGludmVudGVkIHRoZSBBZGFtIG9wdGltaXplcj8iLCJsayI6IkdoOTNhRzhnYVc1MlpXNTBaV1FnZEdobElHRmtZVzBnYjNCMGFXMXBlbVZ5IiwiYnMiOiJjM1hOdnd2Q01CQ0dZVnh2Y280X2VpTHEzbDJLcURnNk9HUS02V0VDTnBIbU5PaGZiOUFLdHVMOFBid2Y3R0d1RFFuYWdLdVNxa1ZBZnhGYjJRZUo5UTdwZlBLMUZWTVYtVXhOWXlNcHlUOE9sakRVNXY3cDRaRkZ1RVl4NVBDdzJ4VDVTQTFpMmwtSmhMNzNjQ3BoQzZpTlItdHU3SVRMTlBBNzFOeHhYZVFUbGNXdW9aYUJOV1Rhc0VQbkJjWGpOZnhXVUkxamg3UWpfZDRUIiwiaWQiOiJmY19OaC05YXZpVUd2S1p2cjBQaFpXQ21BOF81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FpMTZibWxOYTFOQlluVklRMDR5UTJsNFlVSjRXRFJWVG1OZlpXVTJNbmhPYVZSNlYzTjVlWFprUkRGeU0yOTFNRUpNZWtNeVZVTTBNR05TVW5Fd1kyeHlOMFl5WlZoRmFXRTRWSEoxVWs1b1JHZHJhSEkwTVUxVVp4SVhUbWd0T1dGMmFWVkhka3RhZG5Jd1VHaGFWME50UVRnYUlrRkVjM0k1WmxKT1MyNHpaRk14UkdjeFJuVjNjVVZ6UzBGVGNVUlVRelJPV0djIiwiZmN2IjoiMyIsImVpIjoiTmgtOWF2aVVHdktadnIwUGhaV0NtQTgiLCJxYyI6IkNpUndjbTl3YjNObFpDQmhaR0Z0SUc5d2RHbHRhWE5oZEdsdmJpQmhiR2R2Y21sMGFHMFFBSDBBRVM4XyIsInF1ZXN0aW9uIjoiV2hlbiBub3QgdG8gdXNlIEFkYW0gb3B0aW1pemVyPyIsImxrIjoiR2g1M2FHVnVJRzV2ZENCMGJ5QjFjMlVnWVdSaGJTQnZjSFJwYldsNlpYSSIsImJzIjoiYzNYTnZ3dkNNQkNHWVZ4dmNvNF9laUxxM2wyS3FEZzZPR1EtNldFQ05wSG1OT2hmYjlBS3R1TDhQYndmN0dHdURRbmFnS3VTcWtWQWZ4RmIyUWVKOVE3cGZQSzFGVk1WLVV4Tll5TXB5VDhPbGpEVTV2N3A0WkZGdUVZeDVQQ3cyeFQ1U0ExaTJsLUpoTDczY0NwaEM2aU5SLXR1N0lUTE5QQTcxTnh4WGVRVGxjV3VvWmFCTldUYXNFUG5CY1hqTmZ4V1VJMWpoN1FqX2Q0VCIsImlkIjoiZmNfTmgtOWF2aVVHdktadnIwUGhaV0NtQThfNSJ9",
+    "page_token": "6ycmA3icHdDBToMwAIDh-DI7urZzMy5ZTBCGoJS1tB1wMV3LYFCgOhxzN9_Fp_JpXLz_3-X__jGHrvm9OVXDYI_L6XQcx9uy70tT3Kq-ncrjV6emShqzk6pZLu4X8HGvVt5n4Dy9Bw7h1gqXgqTGPgHhhtd5oIH-UKZBAj6AiFVn5uHnhIWg2GKfoWGMhdgw_9zI7TxkAFvt5WfVmJSuH4Tg6yBDuMu47egBGt6aF-rqoXBFxPxyRrbz95jlvqrDmF6Ei11Dsq68kwAeOatyjcSoW_sqhfNZCB1SY14yEJwpEoF8VmOO1CVL80Z2tIlSTKUI_WhGjaw1iyDecLfC2xR3XqVj-QTm19YKrlECLVK1Q-TapgRBJ3b6A-H0omrTcoTNDmKyM82YpWGeeOWsuNoEegNjBpKWnjiZ7NVpNZv8_1y97dthaT_68g-bO4JI",
+    "question": "When not to use Adam optimizer?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6ycmA3icHdDBToMwAIDh-DI7urZzMy5ZTBCGoJS1tB1wMV3LYFCgOhxzN9_Fp_JpXLz_3-X__jGHrvm9OVXDYI_L6XQcx9uy70tT3Kq-ncrjV6emShqzk6pZLu4X8HGvVt5n4Dy9Bw7h1gqXgqTGPgHhhtd5oIH-UKZBAj6AiFVn5uHnhIWg2GKfoWGMhdgw_9zI7TxkAFvt5WfVmJSuH4Tg6yBDuMu47egBGt6aF-rqoXBFxPxyRrbz95jlvqrDmF6Ei11Dsq68kwAeOatyjcSoW_sqhfNZCB1SY14yEJwpEoF8VmOO1CVL80Z2tIlSTKUI_WhGjaw1iyDecLfC2xR3XqVj-QTm19YKrlECLVK1Q-TapgRBJ3b6A-H0omrTcoTNDmKyM82YpWGeeOWsuNoEegNjBpKWnjiZ7NVpNZv8_1y97dthaT_68g-bO4JI",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FpMTZibWxOYTFOQlluVklRMDR5UTJsNFlVSjRXRFJWVG1OZlpXVTJNbmhPYVZSNlYzTjVlWFprUkRGeU0yOTFNRUpNZWtNeVZVTTBNR05TVW5Fd1kyeHlOMFl5WlZoRmFXRTRWSEoxVWs1b1JHZHJhSEkwTVUxVVp4SVhUbWd0T1dGMmFWVkhka3RhZG5Jd1VHaGFWME50UVRnYUlrRkVjM0k1WmxKT1MyNHpaRk14UkdjeFJuVjNjVVZ6UzBGVGNVUlVRelJPV0djIiwiZmN2IjoiMyIsImVpIjoiTmgtOWF2aVVHdktadnIwUGhaV0NtQTgiLCJxYyI6IkNpUndjbTl3YjNObFpDQmhaR0Z0SUc5d2RHbHRhWE5oZEdsdmJpQmhiR2R2Y21sMGFHMFFBSDBBRVM4XyIsInF1ZXN0aW9uIjoiV2hlbiBub3QgdG8gdXNlIEFkYW0gb3B0aW1pemVyPyIsImxrIjoiR2g1M2FHVnVJRzV2ZENCMGJ5QjFjMlVnWVdSaGJTQnZjSFJwYldsNlpYSSIsImJzIjoiYzNYTnZ3dkNNQkNHWVZ4dmNvNF9laUxxM2wyS3FEZzZPR1EtNldFQ05wSG1OT2hmYjlBS3R1TDhQYndmN0dHdURRbmFnS3VTcWtWQWZ4RmIyUWVKOVE3cGZQSzFGVk1WLVV4Tll5TXB5VDhPbGpEVTV2N3A0WkZGdUVZeDVQQ3cyeFQ1U0ExaTJsLUpoTDczY0NwaEM2aU5SLXR1N0lUTE5QQTcxTnh4WGVRVGxjV3VvWmFCTldUYXNFUG5CY1hqTmZ4V1VJMWpoN1FqX2Q0VCIsImlkIjoiZmNfTmgtOWF2aVVHdktadnIwUGhaV0NtQThfNSJ9",
     "type": "ai_overview"
    }
   ],
   "related_searches": [
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Adam:+a+method+for+stochastic+optimization&sa=X&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ1QJ6BAgvEAE",
-    "query": "Adam: a method for stochastic optimization",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Adam%3A+a+method+for+stochastic+optimization"
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnt0Fa7ht9UT_FKdHt7L60NFtVbFqg:1790779190437&q=Adam+training&sa=X&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQ1QJ6BAhQEAE",
+    "query": "Adam training",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Adam+training"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=An+proposed+adam+optimisation+algorithm+python&sa=X&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ1QJ6BAhMEAE",
-    "query": "An proposed adam optimisation algorithm python",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=An+proposed+adam+optimisation+algorithm+python"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=An+proposed+adam+optimisation+algorithm+matlab&sa=X&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ1QJ6BAhGEAE",
-    "query": "An proposed adam optimisation algorithm matlab",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=An+proposed+adam+optimisation+algorithm+matlab"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=An+proposed+adam+optimisation+algorithm+pdf&sa=X&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ1QJ6BAhDEAE",
-    "query": "An proposed adam optimisation algorithm pdf",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=An+proposed+adam+optimisation+algorithm+pdf"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=An+proposed+adam+optimisation+algorithm+example&sa=X&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ1QJ6BAg6EAE",
-    "query": "An proposed adam optimisation algorithm example",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=An+proposed+adam+optimisation+algorithm+example"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=An+proposed+adam+optimisation+algorithm+geeksforgeeks&sa=X&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ1QJ6BAg3EAE",
-    "query": "An proposed adam optimisation algorithm geeksforgeeks",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=An+proposed+adam+optimisation+algorithm+geeksforgeeks"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=An+proposed+adam+optimisation+algorithm+in+machine+learning&sa=X&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ1QJ6BAg2EAE",
-    "query": "An proposed adam optimisation algorithm in machine learning",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=An+proposed+adam+optimisation+algorithm+in+machine+learning"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Adam:+a+method+for+stochastic+optimization+ICLR+2015&sa=X&ved=2ahUKEwiY2JmfiP2WAxVzSTABHWc5BUkQ1QJ6BAgxEAE",
-    "query": "Adam: a method for stochastic optimization ICLR 2015",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Adam%3A+a+method+for+stochastic+optimization+ICLR+2015"
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnt0Fa7ht9UT_FKdHt7L60NFtVbFqg:1790779190437&q=trainingOptions+MATLAB&sa=X&ved=2ahUKEwj4h5GsxJaXAxXyjK8BHYWKAPMQ1QJ6BAhREAE",
+    "query": "trainingOptions MATLAB",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=trainingOptions+MATLAB"
    }
   ],
   "scholarly_articles": {
    "articles": [
     {
-     "author": "‎Leimkuhler",
+     "author": "‎Nwankpa",
+     "highlighted_words": [
+      "optimisation algorithms"
+     ],
+     "link": "https://strathprints.strath.ac.uk/74369/1/Nwankpa_ASTESJ_2020_Advances_in_optimisation_algorithms_and_techniques_for_deep.pdf",
+     "title": "Advances in optimisation algorithms and techniques for …"
+    },
+    {
+     "author": "‎Li",
      "highlighted_words": [
       "algorithm",
-      "Adam optimizer"
+      "Adam"
      ],
-     "link": "https://dl.acm.org/doi/full/10.1145/3806203",
-     "title": "… sampling algorithm inspired by the Adam optimizer"
+     "link": "https://ieeexplore.ieee.org/iel7/6287639/9312710/09380433.pdf",
+     "title": "… based on an enhanced clustering algorithm and Adam"
     },
     {
-     "author": "‎Hase",
-     "highlighted_words": [
-      "optimizer"
-     ],
-     "link": "https://pubs.acs.org/acscii/article/4/9/1134/733437",
-     "title": "Phoenics: a Bayesian optimizer for chemistry"
-    },
-    {
-     "author": "‎Ghosh",
-     "link": "https://proceedings.neurips.cc/paper_files/paper/2021/file/d5ff135377d39f1de7372c95c74dd962-Paper.pdf",
-     "title": "Why generalization in rl is difficult: Epistemic pomdps …"
+     "author": "‎Mills",
+     "link": "https://arxiv.org/pdf/2007.09236",
+     "title": "Multi-task federated learning for personalised deep …"
     }
    ],
-   "link": "https://scholar.google.com/scholar?q=proposed+adam+optimisation+algorithm&hl=en&as_sdt=0&as_vis=1&oi=scholart",
-   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=en&q=proposed+adam+optimisation+algorithm",
-   "title": "Scholarly articles for an proposed adam optimisation algorithm"
+   "link": "https://scholar.google.lt/scholar?q=proposed+adam+optimisation+algorithm&hl=lt&as_sdt=0&as_vis=1&oi=scholart",
+   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=lt&q=proposed+adam+optimisation+algorithm",
+   "title": "Moksliniai straipsniai iš proposed adam optimisation algorithm"
   },
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "proposed adam optimisation algorithm",
-   "time_taken_displayed": 0.35,
-   "total_results": 135
+   "time_taken_displayed": 0.43,
+   "total_results": 119000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:34:20 UTC",
+   "created_at": "2026-09-30 14:39:49 UTC",
    "google_url": "https://www.google.com/search?q=proposed+adam+optimisation+algorithm&oq=proposed+adam+optimisation+algorithm&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc4bcab28c604843e981e",
-   "json_endpoint": "https://serpapi.com/searches/6X8ctjnxGNPksYHwjf-gn_BMrzqunZEXIgB58SjKsd0/6aafc4bcab28c604843e981e.json",
-   "markdown_endpoint": "https://serpapi.com/searches/6X8ctjnxGNPksYHwjf-gn_BMrzqunZEXIgB58SjKsd0/6aafc4bcab28c604843e981e.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/6X8ctjnxGNPksYHwjf-gn_BMrzqunZEXIgB58SjKsd0/6aafc4bcab28c604843e981e.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:34:20 UTC",
-   "raw_html_file": "https://serpapi.com/searches/6X8ctjnxGNPksYHwjf-gn_BMrzqunZEXIgB58SjKsd0/6aafc4bcab28c604843e981e.html",
+   "id": "6abd1f35054e5f371b45c9f4",
+   "json_endpoint": "https://serpapi.com/searches/1zIrdkg1wjCV9JwjbWhm8tvJrvY72VSvt-xu9-f4M8I/6abd1f35054e5f371b45c9f4.json",
+   "markdown_endpoint": "https://serpapi.com/searches/1zIrdkg1wjCV9JwjbWhm8tvJrvY72VSvt-xu9-f4M8I/6abd1f35054e5f371b45c9f4.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/1zIrdkg1wjCV9JwjbWhm8tvJrvY72VSvt-xu9-f4M8I/6abd1f35054e5f371b45c9f4.json_with_pixel_position",
+   "processed_at": "2026-09-30 14:39:49 UTC",
+   "raw_html_file": "https://serpapi.com/searches/1zIrdkg1wjCV9JwjbWhm8tvJrvY72VSvt-xu9-f4M8I/6abd1f35054e5f371b45c9f4.html",
    "status": "Success",
-   "total_time_taken": 4.38
+   "total_time_taken": 1.68
   },
   "search_parameters": {
    "device": "desktop",
@@ -559,15 +411,10 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=20",
     "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=80"
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=proposed+adam+optimisation+algorithm&start=40"
    }
   }
  },

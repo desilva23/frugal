@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1656.536,
+ "elapsed_ms": 1146.27,
  "engine": "google",
- "fetched_at": "2026-09-20T13:42:06.785174+00:00",
+ "fetched_at": "2026-09-30T14:40:24.720156+00:00",
  "frugal_cache_version": 1,
  "key": "3028c10e84788a489f91e3f9aaf6687af3e7e5c18268e526d4809ed9cd076460",
  "params": {
@@ -10,397 +10,334 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "OfZd6niczVXdcqJIFH6AfY7xJlHwL2KqqKlubBUlKlEnMTcUfyIKNKFRlLt9l619qH2aaVAUjSY7c7G1p6ptuvk453Sf8_n9-Zdje6t__vh7EYY-eWSYKIpKFsaWY5Z07DIq2Xk6M8cOCfTFd4LXgW7aBq8vAuyahd2GrxZ0wrMF0-YDs79RcTzpN4fxe0hGcaigHVgVUhe8oqnEXNII2yVhFIb-rL5VW3RRIiUnLNnsqjGRgmqlypUqbLlZGjKqSwHgv7MnGcBk7gHhNoi-Ql-7ShyIAKKcJxFY6QyPADDbT4KcvhKsm97gPuZzCpHpaClxN2qBdoZo3fyWhoAgd4tClOYCQJQmAYH99Wkyk_fBk--zc31yUyBDn9vh9vBpJ19jeNtZdLkhKkAQTkHywaibxVkaKIuiW4DrYtiCYHo7FL2fvgjqKyCja0fIm4x-1I6Vk2YdusMYFm1cltECOpUZW1_o6UNAkn4WJk0Wo2Ux0vFQQuNgibuDolFW3aX3UIzmz4DRNYpzsGqYhrJQ2O_pulwp19lmtcHdp0TSyZFJJM-kEVhrY2lRs2NQkkqwnNFI2BcdfKgYomtBvHIwKBygV0oMT7tJwQ4llds5CDqUEp4hM-uPknvtZEvaozEtTR5xipo0_0ca7c3OgSmN0kREfACmlkMLoJOjbq6wvcvzXWRw-KB7bFS59QF4RkDhGYAVyC7msoXkGZAFCyUcEFAXHm5Nz_ugJ-4fFzBLGAHZgjBDZAmiAyiXU3IFogyegIioT3sq2lbiXEb7RJNmyGIhCM5Kc6PhRRrmRfg3f31XDH5FosTkjC8X7Z-nTTtq-xrpT19REDU3HaHltmNr9yT1NjXrOk2wq_2C4uj_KyLt9Qgd9Og2kdDXREr1CH6iRymRTnqUNK-AbxIJdq7r0SBDnOnR-bkF8Jwn0ud69MtEEj4lknxwc4VI-DqR_NtEii6JRPWoddIjdF2PjkT6HT2Cv6lHKa_M_XQuTuuldVuk_JH_6oYP6nYY-hp-0qbyaNpXuKBStL4UqbkbPrqq4dwrtvEIK71wZ9wrdAM_mkbhnfdV3wzubC8MsLHWTeOOmO9r09PN04NjqoFne9adZ64D1aFTGOFgRQquE2CeVRsLro5GSrMDwlqv11j2OF167VfH81ovsDYTVB_E0-Jku2XLPul62uS9Fm8epGk3mOP6uCipSqO-mA0GXW4z0GdLNRKd8dCRht2K9PaGHNMVq2VMI0dvM85_r8TIefsRctZ8pknTRc2ab0H7qe8VraFIHCVSVaH8kmZG-JeBwomx3JQ4XHADnac9UbPAQAYvFm1OIW1aOjAdER0PtGawQHRVMcmGV6tmQ6_VNdZsGlpDNQuuFe58vskWiBfw5Z-Qck7x",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OfZd6niczVXdcqJIFH6AfY7xJlHwL2KqqKlubBUlKlEnMTcUfyIKNKFRlLt9l619qH2aaVAUjSY7c7G1p6ptuvk453Sf8_n9-Zdje6t__vh7EYY-eWSYKIpKFsaWY5Z07DIq2Xk6M8cOCfTFd4LXgW7aBq8vAuyahd2GrxZ0wrMF0-YDs79RcTzpN4fxe0hGcaigHVgVUhe8oqnEXNII2yVhFIb-rL5VW3RRIiUnLNnsqjGRgmqlypUqbLlZGjKqSwHgv7MnGcBk7gHhNoi-Ql-7ShyIAKKcJxFY6QyPADDbT4KcvhKsm97gPuZzCpHpaClxN2qBdoZo3fyWhoAgd4tClOYCQJQmAYH99Wkyk_fBk--zc31yUyBDn9vh9vBpJ19jeNtZdLkhKkAQTkHywaibxVkaKIuiW4DrYtiCYHo7FL2fvgjqKyCja0fIm4x-1I6Vk2YdusMYFm1cltECOpUZW1_o6UNAkn4WJk0Wo2Ux0vFQQuNgibuDolFW3aX3UIzmz4DRNYpzsGqYhrJQ2O_pulwp19lmtcHdp0TSyZFJJM-kEVhrY2lRs2NQkkqwnNFI2BcdfKgYomtBvHIwKBygV0oMT7tJwQ4llds5CDqUEp4hM-uPknvtZEvaozEtTR5xipo0_0ca7c3OgSmN0kREfACmlkMLoJOjbq6wvcvzXWRw-KB7bFS59QF4RkDhGYAVyC7msoXkGZAFCyUcEFAXHm5Nz_ugJ-4fFzBLGAHZgjBDZAmiAyiXU3IFogyegIioT3sq2lbiXEb7RJNmyGIhCM5Kc6PhRRrmRfg3f31XDH5FosTkjC8X7Z-nTTtq-xrpT19REDU3HaHltmNr9yT1NjXrOk2wq_2C4uj_KyLt9Qgd9Og2kdDXREr1CH6iRymRTnqUNK-AbxIJdq7r0SBDnOnR-bkF8Jwn0ud69MtEEj4lknxwc4VI-DqR_NtEii6JRPWoddIjdF2PjkT6HT2Cv6lHKa_M_XQuTuuldVuk_JH_6oYP6nYY-hp-0qbyaNpXuKBStL4UqbkbPrqq4dwrtvEIK71wZ9wrdAM_mkbhnfdV3wzubC8MsLHWTeOOmO9r09PN04NjqoFne9adZ64D1aFTGOFgRQquE2CeVRsLro5GSrMDwlqv11j2OF167VfH81ovsDYTVB_E0-Jku2XLPul62uS9Fm8epGk3mOP6uCipSqO-mA0GXW4z0GdLNRKd8dCRht2K9PaGHNMVq2VMI0dvM85_r8TIefsRctZ8pknTRc2ab0H7qe8VraFIHCVSVaH8kmZG-JeBwomx3JQ4XHADnac9UbPAQAYvFm1OIW1aOjAdER0PtGawQHRVMcmGV6tmQ6_VNdZsGlpDNQuuFe58vskWiBfw5Z-Qck7x"
+   "page_token": "WG9xSniczVXdcqpIEH6AfY71JomA4lFTRZ0aBlSMweBPYvbGggFH5E8ZlJC7fZe92Vfap9kBgqJHkjrnYmtboZmZnp7umf7m-_Mv1_adf377ex1FW3LPMHEc13EQYNeqo8BjdJL4iFkFLgnR-ntyEJo1RAS2ZtnC89tdV48O8eM-2dujx6cmb7hEQ7VsirA0dGJtqMe3DWGWDH05vzcl2qiTuuXX4TCBL8OGuUav9QbLdetjRveoAfgPRZOBAkSqc1UlEAD5a2epiQZg6qsQDE9DuUi5v3RNnHU8VC6ppLNE-lNAZvrEv7XWhLrQCqNpdcRauRFnShTzFadpUPjrfE6Sb42oHUOrFOV6dz4TlhZ9_WH0mrfH83YARIkHmiYWIVycyrSclSinWaYWdDPupDcgxnbFZn9MoP8ZGDjB5ylmgUClU2wH6BF6qApjYlq8LGOEVHGMjdYo-whJWtNw1mUDebt9IMCQdLXnI03uLbhksHLb_kzyYgYZ1M4NdNMyl-sl-z1rcw2uxXab7c5tBiZEjmgiZTSNg0ms7rgueZTro7rIFVCCxwO5SEimbXjtrOjOwmsTjl6KHS9NtmG5muYfmpY3qwDlrCKwrDylul8c-ZgeKBBRGXrFAqnLa1A6M8qhhLPCUvICU07TjybzUhi4PCRdgcEP9wCEIP7ISSp8fASgXWwTBFOFjhW94rl7mrS9llMtTmnQJDNDZ_XPypNTyrCIJy14WT46UY5fWdonKEFa3zCreDW1cSB2RIUGK4J8Es5AkUmAL45frrjiYEy3eF4J0U8FV90HZ6IUmLmAQBk6A1MbqpOYT6ZkTRyDbTvOwvb91eRbJ74OlcAzfoJ50P8LTAUvzT94qRpM8tdgSu_Bz3gpex15CU9zMD1Ug0lWTryES7wUF0YnXroEE5yWwJTzEhZ713npZ8EEPwGT8hmY0kyvgUmrAlPGS2dgGl7y0hmYjrxUgOnXeEn5NV7KsGXl6pyk9htcTVaHlrPqbleD8UyVRDjs763NgA8P0bL5NVmtvOje0033dmmb92JjGCXm7ZJ2BPeWWdsJW31rhTe2H4WBuUeWeUOs3d7ykXX6cC099G0f3_jWPtRdqqI4CB1S89wwEFi9_Ty03Ld-4jrtXSSqM95ynUTd9iQu3CzQ3IlJi7R2fzxYnL8wHXTgt-PH3ivgn5r-YHRQ7-7eG7rdRlJwZy_2DXc-QY6kkT5-fnlodlbzkf0-j30VGMh5Gqmx2jS0_mrTj2Y7D40mCfL493AkDboL4zWIV9PGQs4CI4L4rmN2uNyOdbZGEyaWwNW8EAn05HgMVA28YFql8JVSB6ZPQJ-YPt8o5MUaQfrSIgcBdVpdQ9c5ZLT1jtVp1TwcJVuB52rEDwXuX2PCUtc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WG9xSniczVXdcqpIEH6AfY71JomA4lFTRZ0aBlSMweBPYvbGggFH5E8ZlJC7fZe92Vfap9kBgqJHkjrnYmtboZmZnp7umf7m-_Mv1_adf377ex1FW3LPMHEc13EQYNeqo8BjdJL4iFkFLgnR-ntyEJo1RAS2ZtnC89tdV48O8eM-2dujx6cmb7hEQ7VsirA0dGJtqMe3DWGWDH05vzcl2qiTuuXX4TCBL8OGuUav9QbLdetjRveoAfgPRZOBAkSqc1UlEAD5a2epiQZg6qsQDE9DuUi5v3RNnHU8VC6ppLNE-lNAZvrEv7XWhLrQCqNpdcRauRFnShTzFadpUPjrfE6Sb42oHUOrFOV6dz4TlhZ9_WH0mrfH83YARIkHmiYWIVycyrSclSinWaYWdDPupDcgxnbFZn9MoP8ZGDjB5ylmgUClU2wH6BF6qApjYlq8LGOEVHGMjdYo-whJWtNw1mUDebt9IMCQdLXnI03uLbhksHLb_kzyYgYZ1M4NdNMyl-sl-z1rcw2uxXab7c5tBiZEjmgiZTSNg0ms7rgueZTro7rIFVCCxwO5SEimbXjtrOjOwmsTjl6KHS9NtmG5muYfmpY3qwDlrCKwrDylul8c-ZgeKBBRGXrFAqnLa1A6M8qhhLPCUvICU07TjybzUhi4PCRdgcEP9wCEIP7ISSp8fASgXWwTBFOFjhW94rl7mrS9llMtTmnQJDNDZ_XPypNTyrCIJy14WT46UY5fWdonKEFa3zCreDW1cSB2RIUGK4J8Es5AkUmAL45frrjiYEy3eF4J0U8FV90HZ6IUmLmAQBk6A1MbqpOYT6ZkTRyDbTvOwvb91eRbJ74OlcAzfoJ50P8LTAUvzT94qRpM8tdgSu_Bz3gpex15CU9zMD1Ug0lWTryES7wUF0YnXroEE5yWwJTzEhZ713npZ8EEPwGT8hmY0kyvgUmrAlPGS2dgGl7y0hmYjrxUgOnXeEn5NV7KsGXl6pyk9htcTVaHlrPqbleD8UyVRDjs763NgA8P0bL5NVmtvOje0033dmmb92JjGCXm7ZJ2BPeWWdsJW31rhTe2H4WBuUeWeUOs3d7ykXX6cC099G0f3_jWPtRdqqI4CB1S89wwEFi9_Ty03Ld-4jrtXSSqM95ynUTd9iQu3CzQ3IlJi7R2fzxYnL8wHXTgt-PH3ivgn5r-YHRQ7-7eG7rdRlJwZy_2DXc-QY6kkT5-fnlodlbzkf0-j30VGMh5Gqmx2jS0_mrTj2Y7D40mCfL493AkDboL4zWIV9PGQs4CI4L4rmN2uNyOdbZGEyaWwNW8EAn05HgMVA28YFql8JVSB6ZPQJ-YPt8o5MUaQfrSIgcBdVpdQ9c5ZLT1jtVp1TwcJVuB52rEDwXuX2PCUtc"
   },
-  "inline_videos": [
-   {
-    "channel": "Aladdin Persson",
-    "date": "2020-06-03",
-    "duration": "11:30",
-    "link": "https://www.youtube.com/watch?v=Ui-K4RUkC58&xstg=CAMSBhUD-7L2Hw%3D%3D",
-    "platform": "YouTube",
-    "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQvVqGU7xRqQ7tin_uLOksMZAhbfs8DfHAHNA",
-    "thumbnail": "https://serpapi.com/searches/6aafe2ada0cb109eb3c11fcf/images/FuNbjnlCCJ_0bTMfpX5acZElyjj-pymaeOMtkiWtszY.png",
-    "title": "Paper Review: Sequence to Sequence Learning with Neural ..."
-   },
-   {
-    "channel": "Practical Data Science and Machine learning",
-    "date": "2024-07-09",
-    "duration": "36:06",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=156",
-      "time": "02:36",
-      "title": "Architecture of Language Translation"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=407",
-      "time": "06:47",
-      "title": "Technicalities"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=655",
-      "time": "10:55",
-      "title": "Decoding Step"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=961",
-      "time": "16:01",
-      "title": "Architecture"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=1432",
-      "time": "23:52",
-      "title": "Training Phase"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=1542",
-      "time": "25:42",
-      "title": "Output Layer at the Decoder"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=1545",
-      "time": "25:45",
-      "title": "Output Layer"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=1595",
-      "time": "26:35",
-      "title": "Context Vector"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=1683",
-      "time": "28:03",
-      "title": "Parameters"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&t=1908",
-      "time": "31:48",
-      "title": "Example of English to Hindi"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=exu9GYdOV-g&xstg=CAMSBhUD-7L2Hw%3D%3D",
-    "platform": "YouTube",
-    "position": 2,
-    "thumbnail": "https://serpapi.com/searches/6aafe2ada0cb109eb3c11fcf/images/E0viG0AbQUOMejGouT6EF7uqbaDwvBolG33Mqom6hc4.jpeg",
-    "title": "Summarizing the paper \"Sequence to Sequence learning with ..."
-   },
-   {
-    "channel": "WSMatrix",
-    "date": "2023-05-13",
-    "duration": "4:58",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=nBbs3a2_04o&t=3",
-      "time": "00:03",
-      "title": "Sequence To Sequence Learning with Neural Networks"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nBbs3a2_04o&t=17",
-      "time": "00:17",
-      "title": "What Sequence To Sequence Learning Is"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nBbs3a2_04o&t=41",
-      "time": "00:41",
-      "title": "An Encoder Decoder Model"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nBbs3a2_04o&t=46",
-      "time": "00:46",
-      "title": "Encoder"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nBbs3a2_04o&t=49",
-      "time": "00:49",
-      "title": "Recurrent Neural Networks"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nBbs3a2_04o&t=157",
-      "time": "02:37",
-      "title": "Lstm Cells"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nBbs3a2_04o&t=191",
-      "time": "03:11",
-      "title": "Example"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nBbs3a2_04o&t=244",
-      "time": "04:04",
-      "title": "Beam Search"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=nBbs3a2_04o&xstg=CAMSBhUD-7L2Hw%3D%3D",
-    "platform": "YouTube",
-    "position": 3,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSuBMU1T06bzP6evWDYlHbjsqCg4T8_QyM5wQ",
-    "thumbnail": "https://serpapi.com/searches/6aafe2ada0cb109eb3c11fcf/images/vVE0lMx4ZDxygqw7AmpxYdCPRv8uT2qs_bttyKN6V-o.jpeg",
-    "title": "Sequence-to-Sequence Learning with Neural Networks"
-   }
-  ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZZVEhMOG1rM2tPd3l3bzNnYWRxS0dwYXQ2VGJ0WDZKZEdJMWtGWS1fYTFwY0RUcjEtNm5NWWlqUmNlcWd0djlvOTdoLXMtaEd0STJDNmptVzEzMW1rMDkxdDNFeEJMQU1yd0VFMFBza0R4Q01nTzctTEVDY2tfRGZfQmVnY1ZQUjlSdy1MTDhYZjF2a1BhdjBwM0RGTkpSckp4Q0NMS1ZpUzNuVWl6NUUyWngwRW5HQWJmaHpweGdKNFJtSEgxaHJIS05nNU9JaEdWMndwQ2oxSWR1a3FLSmpmSmtucVRJTUVEWjVjMC0zeTNWSVESBBoCCAAa3gYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAugYIABAAGAAgACoUCgVwYXBlchXTBBpAGgZwYXBlcnMqVAoKaW50cm9kdWNlZBUAAAAAGgdjcmVhdGVkGgtpbXBsZW1lbnRlZBoKaW50cm9kdWNlcxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoHc3RhcnRlZCopCghzZXF1ZW5jZRUjyNNAGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqKQoIc2VxdWVuY2UVMcLWQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKiEKCGxlYXJuaW5nFa4pU0AaEHNlcXVlbmNlbGVhcm5pbmcqNAoGbmV1cmFsFSbGfkAaCG5ldXJvbmFsGg5uZXVyYWxuZXR3b3JrcxoLaXY7cDtuZXVyYWwqLgoIbmV0d29ya3MVa9NuQBoEbmV0cxoHbmV0d29yaxoObmV1cmFsbmV0d29ya3MyhAIvZ290bz91cmw9Q0FFU3RnRUI2enN3RllUSEw4bWsza093eXdvM2dhZHFLR3BhdDZUYnRYNkpkR0kxa0ZZLV9hMXBjRFRyMS02bk1ZaWpSY2VxZ3R2OW85N2gtcy1oR3RJMkM2am1XMTMxbWswOTF0M0V4QkxBTXJ3RUUwUHNrRHhDTWdPNy1MRUNja19EZl9CZWdjVlBSOVJ3LUxMOFhmMXZrUGF2MHAzREZOSlJySnhDQ0xLVmlTM25VaXo1RTJaeDBFbkdBYmZoenB4Z0o0Um1ISDFockhLTmc1T0loR1Yyd3BDajFJZHVrcUtKamZKa25xVElNRURaNWMwLTN5M1ZJUTpDRnJvbSBWYW5pbGxhIFJOTnMgdG8gVHJhbnNmb3JtZXJzOiBBIFJvYWRtYXAgb2YgPGI-U2VxdWVuY2U8L2I-IC4uLkKYAUluIHRoZSBwYXBlciwgPGI-U2VxdWVuY2UgdG8gU2VxdWVuY2UgTGVhcm5pbmcgd2l0aCBOZXVyYWwgTmV0d29ya3M8L2I-OiBBbiBhZGRpdGlvbmFsIGRlZXAgbG9uZyBzaG9ydC10ZXJtIG1lbW9yeSAoTFNUTSkgaXMgdXNlZCB0byBkZWNvZGUgdGhlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZZVEhMOG1rM2tPd3l3bzNnYWRxS0dwYXQ2VGJ0WDZKZEdJMWtGWS1fYTFwY0RUcjEtNm5NWWlqUmNlcWd0djlvOTdoLXMtaEd0STJDNmptVzEzMW1rMDkxdDNFeEJMQU1yd0VFMFBza0R4Q01nTzctTEVDY2tfRGZfQmVnY1ZQUjlSdy1MTDhYZjF2a1BhdjBwM0RGTkpSckp4Q0NMS1ZpUzNuVWl6NUUyWngwRW5HQWJmaHpweGdKNFJtSEgxaHJIS05nNU9JaEdWMndwQ2oxSWR1a3FLSmpmSmtucVRJTUVEWjVjMC0zeTNWSVESBBoCCAAa3gYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAugYIABAAGAAgACoUCgVwYXBlchXTBBpAGgZwYXBlcnMqVAoKaW50cm9kdWNlZBUAAAAAGgdjcmVhdGVkGgtpbXBsZW1lbnRlZBoKaW50cm9kdWNlcxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoHc3RhcnRlZCopCghzZXF1ZW5jZRUjyNNAGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqKQoIc2VxdWVuY2UVMcLWQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKiEKCGxlYXJuaW5nFa4pU0AaEHNlcXVlbmNlbGVhcm5pbmcqNAoGbmV1cmFsFSbGfkAaCG5ldXJvbmFsGg5uZXVyYWxuZXR3b3JrcxoLaXY7cDtuZXVyYWwqLgoIbmV0d29ya3MVa9NuQBoEbmV0cxoHbmV0d29yaxoObmV1cmFsbmV0d29ya3MyhAIvZ290bz91cmw9Q0FFU3RnRUI2enN3RllUSEw4bWsza093eXdvM2dhZHFLR3BhdDZUYnRYNkpkR0kxa0ZZLV9hMXBjRFRyMS02bk1ZaWpSY2VxZ3R2OW85N2gtcy1oR3RJMkM2am1XMTMxbWswOTF0M0V4QkxBTXJ3RUUwUHNrRHhDTWdPNy1MRUNja19EZl9CZWdjVlBSOVJ3LUxMOFhmMXZrUGF2MHAzREZOSlJySnhDQ0xLVmlTM25VaXo1RTJaeDBFbkdBYmZoenB4Z0o0Um1ISDFockhLTmc1T0loR1Yyd3BDajFJZHVrcUtKamZKa25xVElNRURaNWMwLTN5M1ZJUTpDRnJvbSBWYW5pbGxhIFJOTnMgdG8gVHJhbnNmb3JtZXJzOiBBIFJvYWRtYXAgb2YgPGI-U2VxdWVuY2U8L2I-IC4uLkKYAUluIHRoZSBwYXBlciwgPGI-U2VxdWVuY2UgdG8gU2VxdWVuY2UgTGVhcm5pbmcgd2l0aCBOZXVyYWwgTmV0d29ya3M8L2I-OiBBbiBhZGRpdGlvbmFsIGRlZXAgbG9uZyBzaG9ydC10ZXJtIG1lbW9yeSAoTFNUTSkgaXMgdXNlZCB0byBkZWNvZGUgdGhlJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "In this paper, we present a general end-to-end approach to sequence learning that makes minimal assumptions on the sequence structure. Our method uses a ...",
-      "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
-      "source_info_link": "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks"
+      "description": "In the paper, Sequence to Sequence Learning with Neural Networks: An additional deep long short-term memory (LSTM) is used to decode the ...",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+      "source_info_link": "https://medium.com/@vidhikamarodia/from-vanilla-rnns-to-transformers-a-roadmap-of-sequence-modeling-techniques-6c61ed80a80d"
      }
     },
-    "author": "cituojant I Sutskever",
-    "displayed_link": "https://papers.nips.cc › paper › 534...",
-    "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
-    "link": "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks",
+    "displayed_link": "2 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+    "link": "https://medium.com/@vidhikamarodia/from-vanilla-rnns-to-transformers-a-roadmap-of-sequence-modeling-techniques-6c61ed80a80d",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFfD3uhv74b8_ViFPxF4x5S6EAHjKSGdxoBV3JOdbrAi_A44QIIIEy7H4g9gypvH7YRPNir3kn9PWV9l4TM8QH7B-1O5N-yYLd6nb4Pfb-WKORiqGVgwI81fFXcW71XYIuflwm8KH7ZSWWm1j15xQatOqC7ptdXRHENDwOmfoR4f5z5j1mQaPdQ&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQFnoECCAQAQ&uoh=1",
-    "snippet": "In this paper, we present a general end-to-end approach to sequence learning that makes minimal assumptions on the sequence structure. Our method uses a ...",
+    "read_more_link": "https://medium.com/@vidhikamarodia/from-vanilla-rnns-to-transformers-a-roadmap-of-sequence-modeling-techniques-6c61ed80a80d#:~:text=In%20the%20paper%2C%20Sequence%20to,sequence%20to%20a%20fixed%2Ddimensionality%20vector.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFYTHL8mk3kOwywo3gadqKGpat6TbtX6JdGI1kFY-_a1pcDTr1-6nMYijRceqgtv9o97h-s-hGtI2C6jmW131mk091t3ExBLAMrwEE0PskDxCMgO7-LECck_Df_BegcVPR9Rw-LL8Xf1vkPav0p3DFNJRrJxCCLKViS3nUiz5E2Zx0EnGAbfhzpxgJ4RmHH1hrHKNg5OIhGV2wpCj1IdukqKJjfJknqTIMEDZ5c0-3y3VIQ&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQFnoECBkQAQ&uoh=1",
+    "snippet": "In the paper, Sequence to Sequence Learning with Neural Networks: An additional deep long short-term memory (LSTM) is used to decode the ...",
     "snippet_highlighted_words": [
-     "paper",
-     "sequence learning",
-     "sequence"
+     "Sequence to Sequence Learning with Neural Networks"
     ],
-    "source": "NeurIPS 2026",
-    "title": "Sequence to Sequence Learning with Neural Networks"
+    "source": "Medium · Vidhika Marodia",
+    "title": "From Vanilla RNNs to Transformers: A Roadmap of ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkVGelBGUnl3NGx5cHNudFFFbWxFTnRGVzZBMGYxbDdfQ05MVEdoWFJfWngtSnNEdVhxdFFzS0YyZm1URlVucHBaTVoxQmM4TkVieHpzaXRuV3dOWmNaMy1Pb2xUdllxWlo2ZVlXRk1FOGpBb1lfVm1Zc3MSBBoCCAAa8QUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDLBQgAEAAYACAAKhQKBXBhcGVyFTtcaz4aBnBhcGVycypUCgppbnRyb2R1Y2VkFbKN9T4aB2NyZWF0ZWQaC2ltcGxlbWVudGVkGgppbnRyb2R1Y2VzGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGgdzdGFydGVkKikKCHNlcXVlbmNlFYrHnUAaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSopCghzZXF1ZW5jZRVh-Z5AGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqIQoIbGVhcm5pbmcVu2uBQBoQc2VxdWVuY2VsZWFybmluZyo0CgZuZXVyYWwVKHwTPxoIbmV1cm9uYWwaDm5ldXJhbG5ldHdvcmtzGgtpdjtwO25ldXJhbCouCghuZXR3b3JrcxUofBM_GgRuZXRzGgduZXR3b3JrGg5uZXVyYWxuZXR3b3JrczKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZFRnpQRlJ5dzRseXBzbnRRRW1sRU50Rlc2QTBmMWw3X0NOTFRHaFhSX1p4LUpzRHVYcXRRc0tGMmZtVEZVbnBwWk1aMUJjOE5FYnh6c2l0bld3TlpjWjMtT29sVHZZcVpaNmVZV0ZNRThqQW9ZX1ZtWXNzOkRBcHByb3hpbWF0ZSBEaXN0cmlidXRpb24gTWF0Y2hpbmcgZm9yIDxiPlNlcXVlbmNlPC9iPi10byAuLi4gLSBhclhpdkKjATo8Yj5TZXF1ZW5jZTwvYj4tdG8tPGI-U2VxdWVuY2U8L2I-IG1vZGVscyB3ZXJlIDxiPmludHJvZHVjZWQ8L2I-IHRvIHRhY2tsZSBtYW55IHJlYWwtbGlmZSBwcm9ibGVtcyBsaWtlIG1hY2hpbmUgdHJhbnNsYXRpb24sIHN1bW1hcml6YXRpb24sIGltYWdlIGNhcHRpb25pbmcsIGV0Yy4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkVGelBGUnl3NGx5cHNudFFFbWxFTnRGVzZBMGYxbDdfQ05MVEdoWFJfWngtSnNEdVhxdFFzS0YyZm1URlVucHBaTVoxQmM4TkVieHpzaXRuV3dOWmNaMy1Pb2xUdllxWlo2ZVlXRk1FOGpBb1lfVm1Zc3MSBBoCCAAa8QUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDLBQgAEAAYACAAKhQKBXBhcGVyFTtcaz4aBnBhcGVycypUCgppbnRyb2R1Y2VkFbKN9T4aB2NyZWF0ZWQaC2ltcGxlbWVudGVkGgppbnRyb2R1Y2VzGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGgdzdGFydGVkKikKCHNlcXVlbmNlFYrHnUAaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSopCghzZXF1ZW5jZRVh-Z5AGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqIQoIbGVhcm5pbmcVu2uBQBoQc2VxdWVuY2VsZWFybmluZyo0CgZuZXVyYWwVKHwTPxoIbmV1cm9uYWwaDm5ldXJhbG5ldHdvcmtzGgtpdjtwO25ldXJhbCouCghuZXR3b3JrcxUofBM_GgRuZXRzGgduZXR3b3JrGg5uZXVyYWxuZXR3b3JrczKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZFRnpQRlJ5dzRseXBzbnRRRW1sRU50Rlc2QTBmMWw3X0NOTFRHaFhSX1p4LUpzRHVYcXRRc0tGMmZtVEZVbnBwWk1aMUJjOE5FYnh6c2l0bld3TlpjWjMtT29sVHZZcVpaNmVZV0ZNRThqQW9ZX1ZtWXNzOkRBcHByb3hpbWF0ZSBEaXN0cmlidXRpb24gTWF0Y2hpbmcgZm9yIDxiPlNlcXVlbmNlPC9iPi10byAuLi4gLSBhclhpdkKjATo8Yj5TZXF1ZW5jZTwvYj4tdG8tPGI-U2VxdWVuY2U8L2I-IG1vZGVscyB3ZXJlIDxiPmludHJvZHVjZWQ8L2I-IHRvIHRhY2tsZSBtYW55IHJlYWwtbGlmZSBwcm9ibGVtcyBsaWtlIG1hY2hpbmUgdHJhbnNsYXRpb24sIHN1bW1hcml6YXRpb24sIGltYWdlIGNhcHRpb25pbmcsIGV0Yy4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "In this paper, we present a general end-to-end approach to sequence learning that makes minimal assumptions on the sequence structure. Our method uses a ...",
-      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASocABwAPrUurVanIacnG_DgFolpAAbIDvLv7fyO_QGoAFe1-t1fUHhUzur4aYft-acC5396AAD--b2J9SW9N9ZJnsjpcQE-0QRkCl_4VnAcRiHjkXx1DaFzeD7Bnm13ePAivffs5pT8UDIsUoZvLPhmYFjZ__4bpOz07P-Qu3DfVppAaGH1Sd4VYmeBt5uM-Bd1T_IXX9_kWYWDRInhLlxbvH7nv9I-2ZvVZCGeR8TO-JnekIGRNH1ilLNCosPrIXQyPYy_mwvRLldYshcljCsjTuS2P-Oi_3kg6VewIAh_0qLRdML6z81qvyKzJjjfvWMAAAAA.webp",
-      "source_info_link": "https://dl.acm.org/doi/10.5555/2969033.2969173"
-     }
-    },
-    "displayed_link": "https://dl.acm.org › doi",
-    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASocABwAPrUurVanIacnG_DgFolpAAbIDvLv7fyO_QGoAFe1-t1fUHhUzur4aYft-acC5396AAD--b2J9SW9N9ZJnsjpcQE-0QRkCl_4VnAcRiHjkXx1DaFzeD7Bnm13ePAivffs5pT8UDIsUoZvLPhmYFjZ__4bpOz07P-Qu3DfVppAaGH1Sd4VYmeBt5uM-Bd1T_IXX9_kWYWDRInhLlxbvH7nv9I-2ZvVZCGeR8TO-JnekIGRNH1ilLNCosPrIXQyPYy_mwvRLldYshcljCsjTuS2P-Oi_3kg6VewIAh_0qLRdML6z81qvyKzJjjfvWMAAAAA.webp",
-    "link": "https://dl.acm.org/doi/10.5555/2969033.2969173",
-    "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVNSIP6kEbNALYR2OiyUIcNfVsf0io2JSwoIPWxTtvwzey8eLb5fbknxtwmTCaGRJmaJA3r3HXkLCTZ8eQZeuQ9t2R69PrpnfGoZKwMwkEvjUDijDf7YnoLEcKkURTFqPnpA&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQFnoECC0QAQ&uoh=1",
-    "snippet": "In this paper, we present a general end-to-end approach to sequence learning that makes minimal assumptions on the sequence structure. Our method uses a ...",
-    "snippet_highlighted_words": [
-     "paper",
-     "sequence learning",
-     "sequence"
-    ],
-    "source": "ACM Digital Library",
-    "title": "Sequence to sequence learning with neural networks"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "In this paper, we show that a straightforward application of the Long. Short-Term Memory (LSTM) architecture [16] can solve general sequence to ...",
+      "description": ":Sequence-to-Sequence models were introduced to tackle many real-life problems like machine translation, summarization, image captioning, etc.",
       "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
-      "source_info_link": "https://arxiv.org/pdf/1409.3215"
+      "source_info_link": "https://arxiv.org/abs/1808.08003"
      }
     },
-    "author": "cituojant I Sutskever",
-    "displayed_link": "https://arxiv.org › pdf",
+    "author": "by W Chen",
+    "displayed_link": "https://arxiv.org › abs",
     "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
-    "link": "https://arxiv.org/pdf/1409.3215",
-    "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAVASnxxE64rhZyjPMXQoikPB6JeLCUepk-BSTus_butqoswbMn6WS_OAv6Anb7txnCQWriFk6hF0rpfOmux8msQYduWj1S5chvwV73k4qxx_6jiA&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQFnoECCoQAQ&uoh=1",
-    "snippet": "In this paper, we show that a straightforward application of the Long. Short-Term Memory (LSTM) architecture [16] can solve general sequence to ...",
+    "link": "https://arxiv.org/abs/1808.08003",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVEFzPFRyw4lypsntQEmlENtFW6A0f1l7_CNLTGhXR_Zx-JsDuXqtQsKF2fmTFUnppZMZ1Bc8NEbxzsitnWwNZcZ3-OolTvYqZZ6eYWFME8jAoY_VmYss&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQFnoECB0QAQ&uoh=1",
+    "snippet": ":Sequence-to-Sequence models were introduced to tackle many real-life problems like machine translation, summarization, image captioning, etc.",
     "snippet_highlighted_words": [
-     "paper",
-     "sequence"
+     "Sequence",
+     "Sequence",
+     "introduced"
     ],
     "source": "arXiv.org",
-    "title": "Sequence to Sequence Learning with Neural Networks"
+    "title": "Approximate Distribution Matching for Sequence-to- ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUCL2dvdG8_dXJsPUNBRVMyd0VCNnpzd0ZTNGhIdGg2QXBUR3c2SFpIb2p5MjIxNE9iLVhsZmRUREJWZGN5Wi1CSW9YZ0hBYUxIblJHdjRFRktzNUdCQ0o1ZEZwellnODJNS1Y2NFZRZ1lkTEJZUi1kTGxxNmwyTVlBLWhLUWs3Nll6LXRNOW03eGkzZzlicmFGekNrRzVrLVBUcElMbG5Ud2Y5SDYxcF9MckhTR2ZUV2pkcUZGcWs1Vmp0LWhTT19pRlJoSk9KZkJxMVJIdng0cUVjVld2WlVWLUc1dEt6WllGTGRBVjlwMkhvbzBkeWVUb0pxSFA4NEJHSEp5d2NBNHBtUnFaTjNhc2lkV2lVbERlMWdBak5PMVVFSHlSZTE4Mm9PRXk0ajgzWnVKOW8xc3FUYTRVEgQaAggAGpAHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOwGCAAQABgAIAAqFAoFcGFwZXIVZjP0PxoGcGFwZXJzKlQKCmludHJvZHVjZWQVAAAAABoHY3JlYXRlZBoLaW1wbGVtZW50ZWQaCmludHJvZHVjZXMaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaB3N0YXJ0ZWQqKQoIc2VxdWVuY2UVe3K8QBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKikKCHNlcXVlbmNlFaIfvkAaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSohCghsZWFybmluZxWwnYFAGhBzZXF1ZW5jZWxlYXJuaW5nKjQKBm5ldXJhbBXn_I1AGghuZXVyb25hbBoObmV1cmFsbmV0d29ya3MaC2l2O3A7bmV1cmFsKi4KCG5ldHdvcmtzFSEsSUAaBG5ldHMaB25ldHdvcmsaDm5ldXJhbG5ldHdvcmtzMrUCL2dvdG8_dXJsPUNBRVMyd0VCNnpzd0ZTNGhIdGg2QXBUR3c2SFpIb2p5MjIxNE9iLVhsZmRUREJWZGN5Wi1CSW9YZ0hBYUxIblJHdjRFRktzNUdCQ0o1ZEZwellnODJNS1Y2NFZRZ1lkTEJZUi1kTGxxNmwyTVlBLWhLUWs3Nll6LXRNOW03eGkzZzlicmFGekNrRzVrLVBUcElMbG5Ud2Y5SDYxcF9MckhTR2ZUV2pkcUZGcWs1Vmp0LWhTT19pRlJoSk9KZkJxMVJIdng0cUVjVld2WlVWLUc1dEt6WllGTGRBVjlwMkhvbzBkeWVUb0pxSFA4NEJHSEp5d2NBNHBtUnFaTjNhc2lkV2lVbERlMWdBak5PMVVFSHlSZTE4Mm9PRXk0ajgzWnVKOW8xc3FUYTRVOkRTb2x2ZWQgUmVhZCB0aGUgZm9sbG93aW5nIGFydGljbGU6IFN1dHNrZXZlciwgSWx5YSAmYW1wOyB8IENoZWdnLmNvbUKYASgyMDE0KS4gPGI-U2VxdWVuY2UgdG8gU2VxdWVuY2UgTGVhcm5pbmcgd2l0aCBOZXVyYWwgTmV0d29ya3M8L2I-LiBUaGUgbW9kZWwgdXNlZCBpbiB0aGUgcGFwZXIgaXMgYSBzZXF1ZW5jZS10by1zZXF1ZW5jZSAoU2VxMlNlcSkgbW9kZWwsIHdoaWNoJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUCL2dvdG8_dXJsPUNBRVMyd0VCNnpzd0ZTNGhIdGg2QXBUR3c2SFpIb2p5MjIxNE9iLVhsZmRUREJWZGN5Wi1CSW9YZ0hBYUxIblJHdjRFRktzNUdCQ0o1ZEZwellnODJNS1Y2NFZRZ1lkTEJZUi1kTGxxNmwyTVlBLWhLUWs3Nll6LXRNOW03eGkzZzlicmFGekNrRzVrLVBUcElMbG5Ud2Y5SDYxcF9MckhTR2ZUV2pkcUZGcWs1Vmp0LWhTT19pRlJoSk9KZkJxMVJIdng0cUVjVld2WlVWLUc1dEt6WllGTGRBVjlwMkhvbzBkeWVUb0pxSFA4NEJHSEp5d2NBNHBtUnFaTjNhc2lkV2lVbERlMWdBak5PMVVFSHlSZTE4Mm9PRXk0ajgzWnVKOW8xc3FUYTRVEgQaAggAGpAHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOwGCAAQABgAIAAqFAoFcGFwZXIVZjP0PxoGcGFwZXJzKlQKCmludHJvZHVjZWQVAAAAABoHY3JlYXRlZBoLaW1wbGVtZW50ZWQaCmludHJvZHVjZXMaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaB3N0YXJ0ZWQqKQoIc2VxdWVuY2UVe3K8QBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKikKCHNlcXVlbmNlFaIfvkAaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSohCghsZWFybmluZxWwnYFAGhBzZXF1ZW5jZWxlYXJuaW5nKjQKBm5ldXJhbBXn_I1AGghuZXVyb25hbBoObmV1cmFsbmV0d29ya3MaC2l2O3A7bmV1cmFsKi4KCG5ldHdvcmtzFSEsSUAaBG5ldHMaB25ldHdvcmsaDm5ldXJhbG5ldHdvcmtzMrUCL2dvdG8_dXJsPUNBRVMyd0VCNnpzd0ZTNGhIdGg2QXBUR3c2SFpIb2p5MjIxNE9iLVhsZmRUREJWZGN5Wi1CSW9YZ0hBYUxIblJHdjRFRktzNUdCQ0o1ZEZwellnODJNS1Y2NFZRZ1lkTEJZUi1kTGxxNmwyTVlBLWhLUWs3Nll6LXRNOW03eGkzZzlicmFGekNrRzVrLVBUcElMbG5Ud2Y5SDYxcF9MckhTR2ZUV2pkcUZGcWs1Vmp0LWhTT19pRlJoSk9KZkJxMVJIdng0cUVjVld2WlVWLUc1dEt6WllGTGRBVjlwMkhvbzBkeWVUb0pxSFA4NEJHSEp5d2NBNHBtUnFaTjNhc2lkV2lVbERlMWdBak5PMVVFSHlSZTE4Mm9PRXk0ajgzWnVKOW8xc3FUYTRVOkRTb2x2ZWQgUmVhZCB0aGUgZm9sbG93aW5nIGFydGljbGU6IFN1dHNrZXZlciwgSWx5YSAmYW1wOyB8IENoZWdnLmNvbUKYASgyMDE0KS4gPGI-U2VxdWVuY2UgdG8gU2VxdWVuY2UgTGVhcm5pbmcgd2l0aCBOZXVyYWwgTmV0d29ya3M8L2I-LiBUaGUgbW9kZWwgdXNlZCBpbiB0aGUgcGFwZXIgaXMgYSBzZXF1ZW5jZS10by1zZXF1ZW5jZSAoU2VxMlNlcSkgbW9kZWwsIHdoaWNoJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "“Sequence to Sequence Learning with Neural Networks” is one of the most important research papers of the last decade in the domain of Deep ...",
-      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
-      "source_info_link": "https://medium.com/@tensorhii2005/sequence-to-sequence-learning-explained-inside-the-landmark-2014-paper-10f0b02518a3"
+      "description": "(2014). Sequence to Sequence Learning with Neural Networks. The model used in the paper is a sequence-to-sequence (Seq2Seq) model, which ...",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHVmguQHqA2wHmA_VX9APf_8-DfAN5Ob4GaDDBM3DLgTmtRodU-D87gH_HRaZ_uW9KHrDAAA_u5U__h9nEJOXm7xOMmUrFfmFKSkHCLmwXGbdd9c6trVz_zs76zOqHnrOvrfr4Df3U_q0-F_h9YNB93rKT2GJlDP84nuDNlHMfn4gataC71aKpQGqYSZC5vP6m_d2uTEsQ8hweiZ17QuhyakF5r59-8rA_nz7xLmwot-OYwP6Y34e0a8RCk964SRg8Dh3Rr8K6Q4WdtsuYT31-Jj0gKEsQ38zvQenGEQ3jmm-DSdDT30ZgVxcO-SXWCa27aqtAOIL3W_ZNhobuw92362Wa3OxOS2TxJ6ZKWrIEFmDM-HH7sX2r_fiXUTQa5yKhO947ZZ0f3GaoAA.webp",
+      "source_info_link": "https://www.chegg.com/homework-help/questions-and-answers/read-following-article-sutskever-ilya-vinyals-oriol-le-quoc-2014--sequence-sequence-learni-q185745801"
      }
     },
-    "displayed_link": "Mygtuko „Patinka“ paspaudimų: daugiau nei 100 · prieš 9 mėnesius",
-    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
-    "link": "https://medium.com/@tensorhii2005/sequence-to-sequence-learning-explained-inside-the-landmark-2014-paper-10f0b02518a3",
+    "date": "Jun 14, 2024",
+    "displayed_link": "https://www.chegg.com › questions-and-answers › read-f...",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHVmguQHqA2wHmA_VX9APf_8-DfAN5Ob4GaDDBM3DLgTmtRodU-D87gH_HRaZ_uW9KHrDAAA_u5U__h9nEJOXm7xOMmUrFfmFKSkHCLmwXGbdd9c6trVz_zs76zOqHnrOvrfr4Df3U_q0-F_h9YNB93rKT2GJlDP84nuDNlHMfn4gataC71aKpQGqYSZC5vP6m_d2uTEsQ8hweiZ17QuhyakF5r59-8rA_nz7xLmwot-OYwP6Y34e0a8RCk964SRg8Dh3Rr8K6Q4WdtsuYT31-Jj0gKEsQ38zvQenGEQ3jmm-DSdDT30ZgVxcO-SXWCa27aqtAOIL3W_ZNhobuw92362Wa3OxOS2TxJ6ZKWrIEFmDM-HH7sX2r_fiXUTQa5yKhO947ZZ0f3GaoAA.webp",
+    "link": "https://www.chegg.com/homework-help/questions-and-answers/read-following-article-sutskever-ilya-vinyals-oriol-le-quoc-2014--sequence-sequence-learni-q185745801",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2wEB6zswFS4hHth6ApTGw6HZHojy2214Ob-XlfdTDBVdcyZ-BIoXgHAaLHnRGv4EFKs5GBCJ5dFpzYg82MKV64VQgYdLBYR-dLlq6l2MYA-hKQk76Yz-tM9m7xi3g9braFzCkG5k-PTpILlnTwf9H61p_LrHSGfTWjdqFFqk5Vjt-hSO_iFRhJOJfBq1RHvx4qEcVWvZUV-G5tKzZYFLdAV9p2Hoo0dyeToJqHP84BGHJywcA4pmRqZN3asidWiUlDe1gAjNO1UEHyRe182oOEy4j83ZuJ9o1sqTa4U&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQFnoECBwQAQ&uoh=1",
+    "snippet": "(2014). Sequence to Sequence Learning with Neural Networks. The model used in the paper is a sequence-to-sequence (Seq2Seq) model, which ...",
+    "snippet_highlighted_words": [
+     "Sequence to Sequence Learning with Neural Networks"
+    ],
+    "source": "Chegg",
+    "title": "Solved Read the following article: Sutskever, Ilya &"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoEDL2dvdG8_dXJsPUNBRVNsQUlCNnpzd0ZhenpiZUFJQVE0WjdCNlV4UTFoZG9zMS1PZ2ZCVXBnWWdvdFlIVDBXUmVZRXhTT2lZUG0tZGF1WVNVSWVqbk83em9oSnJTRTdCaVo5eFFGN3JtOUlubnM0R1RKN2hYUXVFQzRfNWFaVk1saGx6OGdFZlZOX0FvMEZScTc5a0VNVHVRVHpsSkhkdmRudUE4SW9XLV9hZUt0MXpyTzRZR3BkNXRTb2dHYzltSVB5VWVlMXhfUl9zWVY2MXROYjAzTlNTcE1MLS1NUXpJTnBBRFRMRUlXRVowUzVPUnFQa0JXSmZwUlhRcVNYd0dxU0ZiSDBZRXpsTWF0ZHpXcXJOMnAtaXZHWlo1ZVhNVkhkcGF0RFVmaHdnLWJPank3UFhIQmRENVplUC0tMDdWdTlFSTc4eVhPQnFFaEdvRU9fcDNEZ1BMM1NjV2E5QTZqWllGMkxXYVRJbEgwZHE4RENQQ1FnbGhNYUZVYzFVTRIEGgIIABr3BxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNEHCAAQABgAIAAqFAoFcGFwZXIVU-GaPBoGcGFwZXJzKlQKCmludHJvZHVjZWQVJLyLPxoHY3JlYXRlZBoLaW1wbGVtZW50ZWQaCmludHJvZHVjZXMaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaB3N0YXJ0ZWQqKQoIc2VxdWVuY2UVcjDFQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKikKCHNlcXVlbmNlFfocyUAaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSohCghsZWFybmluZxWyRK1AGhBzZXF1ZW5jZWxlYXJuaW5nKjQKBm5ldXJhbBWnnDhAGghuZXVyb25hbBoObmV1cmFsbmV0d29ya3MaC2l2O3A7bmV1cmFsKi4KCG5ldHdvcmtzFajzLEAaBG5ldHMaB25ldHdvcmsaDm5ldXJhbG5ldHdvcmtzMoEDL2dvdG8_dXJsPUNBRVNsQUlCNnpzd0ZhenpiZUFJQVE0WjdCNlV4UTFoZG9zMS1PZ2ZCVXBnWWdvdFlIVDBXUmVZRXhTT2lZUG0tZGF1WVNVSWVqbk83em9oSnJTRTdCaVo5eFFGN3JtOUlubnM0R1RKN2hYUXVFQzRfNWFaVk1saGx6OGdFZlZOX0FvMEZScTc5a0VNVHVRVHpsSkhkdmRudUE4SW9XLV9hZUt0MXpyTzRZR3BkNXRTb2dHYzltSVB5VWVlMXhfUl9zWVY2MXROYjAzTlNTcE1MLS1NUXpJTnBBRFRMRUlXRVowUzVPUnFQa0JXSmZwUlhRcVNYd0dxU0ZiSDBZRXpsTWF0ZHpXcXJOMnAtaXZHWlo1ZVhNVkhkcGF0RFVmaHdnLWJPank3UFhIQmRENVplUC0tMDdWdTlFSTc4eVhPQnFFaEdvRU9fcDNEZ1BMM1NjV2E5QTZqWllGMkxXYVRJbEgwZHE4RENQQ1FnbGhNYUZVYzFVTTpKPGI-SW50cm9kdWN0aW9uPC9iPiB0byA8Yj5TZXF1ZW5jZSBMZWFybmluZzwvYj4gTW9kZWxzOiBSTk4sIExTVE0sIEdSVSAuLi5CqwE8Yj5STk5zIGFyZSBjb25uZWN0aW9uaXN0IG1vZGVscyB0aGF0IGNhcHR1cmUgdGhlIGR5bmFtaWNzIG9mIHNlcXVlbmNlczwvYj4gdmlhIGN5Y2xlcyBpbiB0aGUgbmV0d29yayBvZiBub2Rlcy4gVW5saWtlIHN0YW5kYXJkIGZlZWQtZm9yd2FyZCBuZXVyYWwgbmV0d29ya3MvTUxQcywmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoEDL2dvdG8_dXJsPUNBRVNsQUlCNnpzd0ZhenpiZUFJQVE0WjdCNlV4UTFoZG9zMS1PZ2ZCVXBnWWdvdFlIVDBXUmVZRXhTT2lZUG0tZGF1WVNVSWVqbk83em9oSnJTRTdCaVo5eFFGN3JtOUlubnM0R1RKN2hYUXVFQzRfNWFaVk1saGx6OGdFZlZOX0FvMEZScTc5a0VNVHVRVHpsSkhkdmRudUE4SW9XLV9hZUt0MXpyTzRZR3BkNXRTb2dHYzltSVB5VWVlMXhfUl9zWVY2MXROYjAzTlNTcE1MLS1NUXpJTnBBRFRMRUlXRVowUzVPUnFQa0JXSmZwUlhRcVNYd0dxU0ZiSDBZRXpsTWF0ZHpXcXJOMnAtaXZHWlo1ZVhNVkhkcGF0RFVmaHdnLWJPank3UFhIQmRENVplUC0tMDdWdTlFSTc4eVhPQnFFaEdvRU9fcDNEZ1BMM1NjV2E5QTZqWllGMkxXYVRJbEgwZHE4RENQQ1FnbGhNYUZVYzFVTRIEGgIIABr3BxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNEHCAAQABgAIAAqFAoFcGFwZXIVU-GaPBoGcGFwZXJzKlQKCmludHJvZHVjZWQVJLyLPxoHY3JlYXRlZBoLaW1wbGVtZW50ZWQaCmludHJvZHVjZXMaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaB3N0YXJ0ZWQqKQoIc2VxdWVuY2UVcjDFQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKikKCHNlcXVlbmNlFfocyUAaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSohCghsZWFybmluZxWyRK1AGhBzZXF1ZW5jZWxlYXJuaW5nKjQKBm5ldXJhbBWnnDhAGghuZXVyb25hbBoObmV1cmFsbmV0d29ya3MaC2l2O3A7bmV1cmFsKi4KCG5ldHdvcmtzFajzLEAaBG5ldHMaB25ldHdvcmsaDm5ldXJhbG5ldHdvcmtzMoEDL2dvdG8_dXJsPUNBRVNsQUlCNnpzd0ZhenpiZUFJQVE0WjdCNlV4UTFoZG9zMS1PZ2ZCVXBnWWdvdFlIVDBXUmVZRXhTT2lZUG0tZGF1WVNVSWVqbk83em9oSnJTRTdCaVo5eFFGN3JtOUlubnM0R1RKN2hYUXVFQzRfNWFaVk1saGx6OGdFZlZOX0FvMEZScTc5a0VNVHVRVHpsSkhkdmRudUE4SW9XLV9hZUt0MXpyTzRZR3BkNXRTb2dHYzltSVB5VWVlMXhfUl9zWVY2MXROYjAzTlNTcE1MLS1NUXpJTnBBRFRMRUlXRVowUzVPUnFQa0JXSmZwUlhRcVNYd0dxU0ZiSDBZRXpsTWF0ZHpXcXJOMnAtaXZHWlo1ZVhNVkhkcGF0RFVmaHdnLWJPank3UFhIQmRENVplUC0tMDdWdTlFSTc4eVhPQnFFaEdvRU9fcDNEZ1BMM1NjV2E5QTZqWllGMkxXYVRJbEgwZHE4RENQQ1FnbGhNYUZVYzFVTTpKPGI-SW50cm9kdWN0aW9uPC9iPiB0byA8Yj5TZXF1ZW5jZSBMZWFybmluZzwvYj4gTW9kZWxzOiBSTk4sIExTVE0sIEdSVSAuLi5CqwE8Yj5STk5zIGFyZSBjb25uZWN0aW9uaXN0IG1vZGVscyB0aGF0IGNhcHR1cmUgdGhlIGR5bmFtaWNzIG9mIHNlcXVlbmNlczwvYj4gdmlhIGN5Y2xlcyBpbiB0aGUgbmV0d29yayBvZiBub2Rlcy4gVW5saWtlIHN0YW5kYXJkIGZlZWQtZm9yd2FyZCBuZXVyYWwgbmV0d29ya3MvTUxQcywmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "RNNs are connectionist models that capture the dynamics of sequences via cycles in the network of nodes. Unlike standard feed-forward neural networks/MLPs, ...",
+      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
+      "source_info_link": "https://www.researchgate.net/profile/Sakib-Zargar-2/publication/350950396_Introduction_to_Sequence_Learning_Models_RNN_LSTM_GRU/links/607b41c0907dcf667ba83ade/Introduction-to-Sequence-Learning-Models-RNN-LSTM-GRU.pdf"
+     }
+    },
+    "displayed_link": "https://www.researchgate.net › publication › links",
+    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
+    "link": "https://www.researchgate.net/profile/Sakib-Zargar-2/publication/350950396_Introduction_to_Sequence_Learning_Models_RNN_LSTM_GRU/links/607b41c0907dcf667ba83ade/Introduction-to-Sequence-Learning-Models-RNN-LSTM-GRU.pdf",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFaJ3ZYDB-A_R2uYcHxz9qUJttdH8GMmVJa2pwub4Wlx6nUhN6_71kIevjfXCAxt45ffa_EfpM7S8z-n7OTA1zrbTqDx786h97t3mCnNwGB9TTiM47-YCOUQ0BZEEID6o5xTSSdgfa4COx5modKk_dixa4vVk-INUkQzeDZf-U6w0lUejbIbtGj_LPmdF7n-gQ8nSy3LfTZQc5VSM6-ZIZlrOA5MDkZ3IeA&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQFnoECCIQAQ&uoh=1",
-    "snippet": "“Sequence to Sequence Learning with Neural Networks” is one of the most important research papers of the last decade in the domain of Deep ...",
-    "snippet_highlighted_words": [
-     "“Sequence to Sequence Learning with Neural Networks"
-    ],
-    "source": "Medium · My Tensors",
-    "title": "Sequence-to-Sequence Learning Explained: Inside the ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "In this paper, we present a general end-to-end approach to sequence ... 1 Introduction Deep Neural Networks (DNNs) are extremely powerful machine learning ...",
-      "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAAAQBQCdASocABwAPtEutFooIagoGAEAGglpAARAnxroN_j4blu_Z5ac2drfQL98Mr4AAP72AlUE5ci0_UfUX-NWu7QpdFxg8RpD10jr6SWQzlUEUqJ69ehx3RDjt_YCK-5szbv9l6wraSLgbJw46_wsyHiap_46dxle3EXj_KkuTCx8kVssm56WvPz1Dz743vQKnDelkXTrJuN5vlMRXxWmdvoNW_rujT7eZf6Y3vgTyFE5jBLPll6Z99z2Tt0ZXUhOP9QAAAA.webp",
-      "source_info_link": "https://www.academia.edu/30780191/Sequence_to_Sequence_Learning_with_Neural_Networks"
+    "read_more_link": "https://www.researchgate.net/profile/Sakib-Zargar-2/publication/350950396_Introduction_to_Sequence_Learning_Models_RNN_LSTM_GRU/links/607b41c0907dcf667ba83ade/Introduction-to-Sequence-Learning-Models-RNN-LSTM-GRU.pdf#:~:text=RNNs%20are%20connectionist%20models%20that,feed%2Dforward%20neural%20networks%2FMLPs%2C%20recurrent%20networks",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAIB6zswFazzbeAIAQ4Z7B6UxQ1hdos1-OgfBUpgYgotYHT0WReYExSOiYPm-dauYSUIejnO7zohJrSE7BiZ9xQF7rm9Inns4GTJ7hXQuEC4_5aZVMlhlz8gEfVN_Ao0FRq79kEMTuQTzlJHdvdnuA8IoW-_aeKt1zrO4YGpd5tSogGc9mIPyUee1x_R_sYV61tNb03NSSpML--MQzINpADTLEIWEZ0S5ORqPkBWJfpRXQqSXwGqSFbH0YEzlMatdzWqrN2p-ivGZZ5eXMVHdpatDUfhwg-bOjy7PXHBdD5ZeP--07Vu9EI78yXOBqEhGoEO_p3DgPL3ScWa9A6jZYF2LWaTIlH0dq8DCPCQglhMaFUc1UM&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQFnoECBoQAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "pages": 13
+      },
+      "extensions": [
+       "13 pages"
+      ]
      }
     },
-    "displayed_link": "https://www.academia.edu › Sequen...",
-    "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAAAQBQCdASocABwAPtEutFooIagoGAEAGglpAARAnxroN_j4blu_Z5ac2drfQL98Mr4AAP72AlUE5ci0_UfUX-NWu7QpdFxg8RpD10jr6SWQzlUEUqJ69ehx3RDjt_YCK-5szbv9l6wraSLgbJw46_wsyHiap_46dxle3EXj_KkuTCx8kVssm56WvPz1Dz743vQKnDelkXTrJuN5vlMRXxWmdvoNW_rujT7eZf6Y3vgTyFE5jBLPll6Z99z2Tt0ZXUhOP9QAAAA.webp",
-    "link": "https://www.academia.edu/30780191/Sequence_to_Sequence_Learning_with_Neural_Networks",
+    "snippet": "RNNs are connectionist models that capture the dynamics of sequences via cycles in the network of nodes. Unlike standard feed-forward neural networks/MLPs, ...",
+    "snippet_highlighted_words": [
+     "RNNs are connectionist models that capture the dynamics of sequences"
+    ],
+    "source": "ResearchGate",
+    "title": "Introduction to Sequence Learning Models: RNN, LSTM, ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZmMUltSV9zMGU0Yk9VOEZGWDZSUVczMm5uNl84ZmNoWTVfSDg4dWRIVkozOUFBMUN5eE5KTk1VRDA0RzI4Qm9QMVJub19mbVdnMnIzb1U1RUlkblJOSl96dzRaMzJGXzNEd1dQcHVPWUF6am5xM2l3aTNnYl9oZE40a2xIZTVWblgxaEQxRjZSWG5qWkItLWRHVjMyWDhqVUFUdlBsSHJJMzJHbWZMQ3FLMG0yVFpON3IxNy1LSTdZMnEyLXdqOG1DeS1XTWRhY3JlQWk2dTQSBBoCCAAavgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmgYIABAAGAAgACoUCgVwYXBlchU1sJ0-GgZwYXBlcnMqVAoKaW50cm9kdWNlZBUAAAAAGgdjcmVhdGVkGgtpbXBsZW1lbnRlZBoKaW50cm9kdWNlcxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoHc3RhcnRlZCopCghzZXF1ZW5jZRUyZYdAGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqKQoIc2VxdWVuY2UVohyMQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKiEKCGxlYXJuaW5nFVKot0AaEHNlcXVlbmNlbGVhcm5pbmcqNAoGbmV1cmFsFTk8SkAaCG5ldXJvbmFsGg5uZXVyYWxuZXR3b3JrcxoLaXY7cDtuZXVyYWwqLgoIbmV0d29ya3MV7FZ0QBoEbmV0cxoHbmV0d29yaxoObmV1cmFsbmV0d29ya3My5gEvZ290bz91cmw9Q0FFU29BRUI2enN3RmYxSW1JX3MwZTRiT1U4RkZYNlJRVzMybm42XzhmY2hZNV9IODh1ZEhWSjM5QUExQ3l4TkpOTVVEMDRHMjhCb1AxUm5vX2ZtV2cycjNvVTVFSWRuUk5KX3p3NFozMkZfM0R3V1BwdU9ZQXpqbnEzaXdpM2diX2hkTjRrbEhlNVZuWDFoRDFGNlJYbmpaQi0tZEdWMzJYOGpVQVR2UGxIckkzMkdtZkxDcUswbTJUWk43cjE3LUtJN1kycTItd2o4bUN5LVdNZGFjcmVBaTZ1NDovSW50cm9kdWNpbmcgc2VxMnNlcSBtb2RlbHMgLSBQYWNrdCBTdWJzY3JpcHRpb25CqgFUaGUgbW9kZWwgY29uc2lzdHMgb2YgdHdvIHBhcnRzOiBhbiBlbmNvZGVyIGFuZCBhIGRlY29kZXIuIEhlcmUmIzM5O3MgaG93IHRoZSBpbmZlcmVuY2UgcGFydCB3b3JrczogVGhlIGVuY29kZXIgaXMgYW4gUk5OLiBUaGUgb3JpZ2luYWwgPGI-cGFwZXI8L2I-IHVzZXMgTFNUTSwgYnV0IEdSVS4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZmMUltSV9zMGU0Yk9VOEZGWDZSUVczMm5uNl84ZmNoWTVfSDg4dWRIVkozOUFBMUN5eE5KTk1VRDA0RzI4Qm9QMVJub19mbVdnMnIzb1U1RUlkblJOSl96dzRaMzJGXzNEd1dQcHVPWUF6am5xM2l3aTNnYl9oZE40a2xIZTVWblgxaEQxRjZSWG5qWkItLWRHVjMyWDhqVUFUdlBsSHJJMzJHbWZMQ3FLMG0yVFpON3IxNy1LSTdZMnEyLXdqOG1DeS1XTWRhY3JlQWk2dTQSBBoCCAAavgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmgYIABAAGAAgACoUCgVwYXBlchU1sJ0-GgZwYXBlcnMqVAoKaW50cm9kdWNlZBUAAAAAGgdjcmVhdGVkGgtpbXBsZW1lbnRlZBoKaW50cm9kdWNlcxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoHc3RhcnRlZCopCghzZXF1ZW5jZRUyZYdAGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqKQoIc2VxdWVuY2UVohyMQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKiEKCGxlYXJuaW5nFVKot0AaEHNlcXVlbmNlbGVhcm5pbmcqNAoGbmV1cmFsFTk8SkAaCG5ldXJvbmFsGg5uZXVyYWxuZXR3b3JrcxoLaXY7cDtuZXVyYWwqLgoIbmV0d29ya3MV7FZ0QBoEbmV0cxoHbmV0d29yaxoObmV1cmFsbmV0d29ya3My5gEvZ290bz91cmw9Q0FFU29BRUI2enN3RmYxSW1JX3MwZTRiT1U4RkZYNlJRVzMybm42XzhmY2hZNV9IODh1ZEhWSjM5QUExQ3l4TkpOTVVEMDRHMjhCb1AxUm5vX2ZtV2cycjNvVTVFSWRuUk5KX3p3NFozMkZfM0R3V1BwdU9ZQXpqbnEzaXdpM2diX2hkTjRrbEhlNVZuWDFoRDFGNlJYbmpaQi0tZEdWMzJYOGpVQVR2UGxIckkzMkdtZkxDcUswbTJUWk43cjE3LUtJN1kycTItd2o4bUN5LVdNZGFjcmVBaTZ1NDovSW50cm9kdWNpbmcgc2VxMnNlcSBtb2RlbHMgLSBQYWNrdCBTdWJzY3JpcHRpb25CqgFUaGUgbW9kZWwgY29uc2lzdHMgb2YgdHdvIHBhcnRzOiBhbiBlbmNvZGVyIGFuZCBhIGRlY29kZXIuIEhlcmUmIzM5O3MgaG93IHRoZSBpbmZlcmVuY2UgcGFydCB3b3JrczogVGhlIGVuY29kZXIgaXMgYW4gUk5OLiBUaGUgb3JpZ2luYWwgPGI-cGFwZXI8L2I-IHVzZXMgTFNUTSwgYnV0IEdSVS4uLiICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The model consists of two parts: an encoder and a decoder. Here's how the inference part works: The encoder is an RNN. The original paper uses LSTM, but GRU...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJFBMVEVHcEzzcUP0cUPzcUPzcUTzcUPzcUPzcUPzcUPzcUPzcUPzcUPUi--6AAAAC3RSTlMAkAppFLo33kuALILnq2MAAACwSURBVDiN7VHBFsMgCAtaqC3__79DUFz7tp122GE5KGIkAYE_FjZDXwogcmYmUVWVYQuRdlSAYwuIHXZAFxjYbZO4Lz1VLgQ9Movgdl1_asJHD4Az6j6pzYQz6nTmG2EQamr2FHmG04wFDTPiYZ5DuryqMG3K1L57yEZpVPQuSriyl5zmnFrvc6hZcIjJdZKy5mRoflp_cWDT1VMiJtyavPtzJ3zCVwj0kUBEd98_ggdy6wr5Q5-QdwAAAABJRU5ErkJggg.png",
+      "source_info_link": "https://subscription.packtpub.com/book/data/9781789956177/11/ch11lvl1sec47/introducing-seq2seq-models"
+     }
+    },
+    "displayed_link": "https://subscription.packtpub.com › book › data",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJFBMVEVHcEzzcUP0cUPzcUPzcUTzcUPzcUPzcUPzcUPzcUPzcUPzcUPUi--6AAAAC3RSTlMAkAppFLo33kuALILnq2MAAACwSURBVDiN7VHBFsMgCAtaqC3__79DUFz7tp122GE5KGIkAYE_FjZDXwogcmYmUVWVYQuRdlSAYwuIHXZAFxjYbZO4Lz1VLgQ9Movgdl1_asJHD4Az6j6pzYQz6nTmG2EQamr2FHmG04wFDTPiYZ5DuryqMG3K1L57yEZpVPQuSriyl5zmnFrvc6hZcIjJdZKy5mRoflp_cWDT1VMiJtyavPtzJ3zCVwj0kUBEd98_ggdy6wr5Q5-QdwAAAABJRU5ErkJggg.png",
+    "link": "https://subscription.packtpub.com/book/data/9781789956177/11/ch11lvl1sec47/introducing-seq2seq-models",
     "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFZ2Pwj6ikCR-qwdoh1qws9iYtsHW7vPB6Wyz1k0F2YZvGFfh1IPNGbikuF_876b83hS-xf9UbUswv-yqh7cmAx3jvcLHUhAAl_ZnvX-1EBHiGONRclV7xHD1l67jUUX-vL-Vi4CkGesaiaK_j4NdgzJh1ncpI4nFzD4rn-WAeYFz_dnhPswzuA&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQFnoECEQQAQ&uoh=1",
-    "snippet": "In this paper, we present a general end-to-end approach to sequence ... 1 Introduction Deep Neural Networks (DNNs) are extremely powerful machine learning ...",
+    "read_more_link": "https://subscription.packtpub.com/book/data/9781789956177/11/ch11lvl1sec47/introducing-seq2seq-models#:~:text=The%20model%20consists%20of%20two,paper%20uses%20LSTM%2C%20but%20GRU...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFf1ImI_s0e4bOU8FFX6RQW32nn6_8fchY5_H88udHVJ39AA1CyxNJNMUD04G28BoP1Rno_fmWg2r3oU5EIdnRNJ_zw4Z32F_3DwWPpuOYAzjnq3iwi3gb_hdN4klHe5VnX1hD1F6RXnjZB--dGV32X8jUATvPlHrI32GmfLCqK0m2TZN7r17-KI7Y2q2-wj8mCy-WMdacreAi6u4&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQFnoECBgQAQ&uoh=1",
+    "snippet": "The model consists of two parts: an encoder and a decoder. Here's how the inference part works: The encoder is an RNN. The original paper uses LSTM, but GRU...",
     "snippet_highlighted_words": [
-     "paper",
-     "sequence",
-     "Introduction",
-     "Neural Networks",
-     "learning"
+     "paper"
     ],
-    "source": "Academia.edu",
-    "title": "Sequence to Sequence Learning with Neural Networks"
+    "source": "Packt",
+    "title": "Introducing seq2seq models"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZRc1Rlb0VkaWV4WFo5Uk5wMXhOclF3VDdMTnR1RHdJVjAxVy1taE15X0ZDZk1tdDZ1SUF4c3NiMmxxZnFwOWdsTGJTb0VwaENXNkFxdmI0MWV2cklMbENHV1FYSlN1OHZuUkV5ZDVMX0puVEVFMThXTTFxTG5nNXNic1V2RUVtRFRnU0FLNFFUWkhXNDdNLTcwYjcyOGxnX3Rka2lVZDFpM2dDbVBMa0ZpYUs4QlM4U05PUHMzTXdFZWw4dnVzWmtocTdqUVBDNGMxa2gzSFdxakVna0VuYzZvbTBtRFhmUEJxNlE3RHNGWWlhYk5yTnF6Wk9GNGE0MWdka01Cc1pNT3Jua2tREgQaAggAGvsGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNcGCAAQABgAIAAqFAoFcGFwZXIVSDvgPxoGcGFwZXJzKlQKCmludHJvZHVjZWQVuFMGQBoHY3JlYXRlZBoLaW1wbGVtZW50ZWQaCmludHJvZHVjZXMaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaB3N0YXJ0ZWQqKQoIc2VxdWVuY2UV22suQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKikKCHNlcXVlbmNlFSn2N0AaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSohCghsZWFybmluZxULWMhAGhBzZXF1ZW5jZWxlYXJuaW5nKjQKBm5ldXJhbBXAmZBAGghuZXVyb25hbBoObmV1cmFsbmV0d29ya3MaC2l2O3A7bmV1cmFsKi4KCG5ldHdvcmtzFQnMOkAaBG5ldHMaB25ldHdvcmsaDm5ldXJhbG5ldHdvcmtzMp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZRc1Rlb0VkaWV4WFo5Uk5wMXhOclF3VDdMTnR1RHdJVjAxVy1taE15X0ZDZk1tdDZ1SUF4c3NiMmxxZnFwOWdsTGJTb0VwaENXNkFxdmI0MWV2cklMbENHV1FYSlN1OHZuUkV5ZDVMX0puVEVFMThXTTFxTG5nNXNic1V2RUVtRFRnU0FLNFFUWkhXNDdNLTcwYjcyOGxnX3Rka2lVZDFpM2dDbVBMa0ZpYUs4QlM4U05PUHMzTXdFZWw4dnVzWmtocTdqUVBDNGMxa2gzSFdxakVna0VuYzZvbTBtRFhmUEJxNlE3RHNGWWlhYk5yTnF6Wk9GNGE0MWdka01Cc1pNT3Jua2tROkBhIE5leHQtR2VuZXJhdGlvbiBPcGVuIFNvdXJjZSBGcmFtZXdvcmsgZm9yIERlZXAgPGI-TGVhcm5pbmc8L2I-Qp8BPGI-TmV1cmFsIE5ldHdvcmsgTGlicmFyaWVzIGlzIGludHJvZHVjZWQ8L2I-LCBhIGRlZXAgbGVhcm5pbmcgZnJhbWV3b3JrIGRlc2lnbmVkIGZyb20gZW5naW5lZXImIzM5O3MgcGVyc3BlY3RpdmUsIHdpdGggZW1waGFzaXMgb24gdXNhYmlsaXR5IGFuZCBjb21wYXRpYmlsaXR5IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZRc1Rlb0VkaWV4WFo5Uk5wMXhOclF3VDdMTnR1RHdJVjAxVy1taE15X0ZDZk1tdDZ1SUF4c3NiMmxxZnFwOWdsTGJTb0VwaENXNkFxdmI0MWV2cklMbENHV1FYSlN1OHZuUkV5ZDVMX0puVEVFMThXTTFxTG5nNXNic1V2RUVtRFRnU0FLNFFUWkhXNDdNLTcwYjcyOGxnX3Rka2lVZDFpM2dDbVBMa0ZpYUs4QlM4U05PUHMzTXdFZWw4dnVzWmtocTdqUVBDNGMxa2gzSFdxakVna0VuYzZvbTBtRFhmUEJxNlE3RHNGWWlhYk5yTnF6Wk9GNGE0MWdka01Cc1pNT3Jua2tREgQaAggAGvsGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNcGCAAQABgAIAAqFAoFcGFwZXIVSDvgPxoGcGFwZXJzKlQKCmludHJvZHVjZWQVuFMGQBoHY3JlYXRlZBoLaW1wbGVtZW50ZWQaCmludHJvZHVjZXMaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaB3N0YXJ0ZWQqKQoIc2VxdWVuY2UV22suQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKikKCHNlcXVlbmNlFSn2N0AaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSohCghsZWFybmluZxULWMhAGhBzZXF1ZW5jZWxlYXJuaW5nKjQKBm5ldXJhbBXAmZBAGghuZXVyb25hbBoObmV1cmFsbmV0d29ya3MaC2l2O3A7bmV1cmFsKi4KCG5ldHdvcmtzFQnMOkAaBG5ldHMaB25ldHdvcmsaDm5ldXJhbG5ldHdvcmtzMp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZRc1Rlb0VkaWV4WFo5Uk5wMXhOclF3VDdMTnR1RHdJVjAxVy1taE15X0ZDZk1tdDZ1SUF4c3NiMmxxZnFwOWdsTGJTb0VwaENXNkFxdmI0MWV2cklMbENHV1FYSlN1OHZuUkV5ZDVMX0puVEVFMThXTTFxTG5nNXNic1V2RUVtRFRnU0FLNFFUWkhXNDdNLTcwYjcyOGxnX3Rka2lVZDFpM2dDbVBMa0ZpYUs4QlM4U05PUHMzTXdFZWw4dnVzWmtocTdqUVBDNGMxa2gzSFdxakVna0VuYzZvbTBtRFhmUEJxNlE3RHNGWWlhYk5yTnF6Wk9GNGE0MWdka01Cc1pNT3Jua2tROkBhIE5leHQtR2VuZXJhdGlvbiBPcGVuIFNvdXJjZSBGcmFtZXdvcmsgZm9yIERlZXAgPGI-TGVhcm5pbmc8L2I-Qp8BPGI-TmV1cmFsIE5ldHdvcmsgTGlicmFyaWVzIGlzIGludHJvZHVjZWQ8L2I-LCBhIGRlZXAgbGVhcm5pbmcgZnJhbWV3b3JrIGRlc2lnbmVkIGZyb20gZW5naW5lZXImIzM5O3MgcGVyc3BlY3RpdmUsIHdpdGggZW1waGFzaXMgb24gdXNhYmlsaXR5IGFuZCBjb21wYXRpYmlsaXR5IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "Seq2seq is a family of machine learning approaches used for natural language processing. Originally developed by Lê Viết Quốc, a Vietnamese computer ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Seq2seq"
+      "description": "Neural Network Libraries is introduced, a deep learning framework designed from engineer's perspective, with emphasis on usability and compatibility",
+      "icon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAACQBQCdASocABwAPtEutFooIagoGAEAGglqALEMikmrZJZEXC_4FHUNJjX1bC-Axr2XFGvQAAD-9hCo3wKZu1n-_erV6TiwWe9r5l7F9_xmQzBIPp0S9H_tbi72T24ikdhX2O54eAOEqMjEVzX3--QOh4HLFH733fHAFAUSjd3jafN16_EQaHeJ_QSX9dEnbcoaR_jtrV_nTZPA4VOvZSpsnSLmJ1pOOm9W62Z-D9ckpR8uA_0YdQqNJAa6qT80ZjnNS-q3ZPFziq-G8tX425hlFzCD9i45OHZds_zi_2_DX18AAAA.webp",
+      "source_info_link": "https://www.semanticscholar.org/paper/Chainer-%3A-a-Next-Generation-Open-Source-Framework-Tokui-Oono/67156902beca9bc90b728c8d5dd4ac9d8b27d3a3"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Seq2seq",
+    "displayed_link": "https://www.semanticscholar.org › paper › Chainer-:-a-...",
+    "favicon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAACQBQCdASocABwAPtEutFooIagoGAEAGglqALEMikmrZJZEXC_4FHUNJjX1bC-Axr2XFGvQAAD-9hCo3wKZu1n-_erV6TiwWe9r5l7F9_xmQzBIPp0S9H_tbi72T24ikdhX2O54eAOEqMjEVzX3--QOh4HLFH733fHAFAUSjd3jafN16_EQaHeJ_QSX9dEnbcoaR_jtrV_nTZPA4VOvZSpsnSLmJ1pOOm9W62Z-D9ckpR8uA_0YdQqNJAa6qT80ZjnNS-q3ZPFziq-G8tX425hlFzCD9i45OHZds_zi_2_DX18AAAA.webp",
+    "link": "https://www.semanticscholar.org/paper/Chainer-%3A-a-Next-Generation-Open-Source-Framework-Tokui-Oono/67156902beca9bc90b728c8d5dd4ac9d8b27d3a3",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVRdq_FhD2K5tQ8o1lqOvQvFAyJxG45ifdr3oMJsmNBGo5teELaZhDvDpzmla1NSYxL00O_Ov0ZFh94mO4EWNkQ3g-ujPrwhX6DJI6w8kgAjibER9eUmuheg&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQFnoECD8QAQ&uoh=1",
-    "snippet": "Seq2seq is a family of machine learning approaches used for natural language processing. Originally developed by Lê Viết Quốc, a Vietnamese computer ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFQsTeoEdiexXZ9RNp1xNrQwT7LNtuDwIV01W-mhMy_FCfMmt6uIAxssb2lqfqp9glLbSoEphCW6Aqvb41evrILlCGWQXJSu8vnREyd5L_JnTEE18WM1qLng5sbsUvEEmDTgSAK4QTZHW47M-70b728lg_tdkiUd1i3gCmPLkFiaK8BS8SNOPs3MwEel8vusZkhq7jQPC4c1kh3HWqjEgkEnc6om0mDXfPBq6Q7DsFYiabNrNqzZOF4a41gdkMBsZMOrnkkQ&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQFnoECBsQAQ&uoh=1",
+    "snippet": "Neural Network Libraries is introduced, a deep learning framework designed from engineer's perspective, with emphasis on usability and compatibility",
     "snippet_highlighted_words": [
-     "Seq2seq"
+     "Neural Network Libraries is introduced"
     ],
-    "source": "Wikipedia",
-    "title": "Seq2seq"
+    "source": "Semantic Scholar",
+    "title": "Chainer : a Next-Generation Open Source Framework for ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjlWbGtzc0Q2VzhPUWEtcUY1eGw0SFBSa2IzZlJIZnBBcUtRS2hSc281MkFFcExzU19LYngycjlWaWlLX0xJbk1pa25LN0FvNXJQUU1FdTBlbGJTM1oyNWJ2T0FNTnpUTXlPUEpCbHU1U3Npa3RqZl9Hc0FYWGhFTUZBEgQaAggAGskFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAowUIABAAGAAgACoUCgVwYXBlchVRVM49GgZwYXBlcnMqVAoKaW50cm9kdWNlZBUFGT89GgdjcmVhdGVkGgtpbXBsZW1lbnRlZBoKaW50cm9kdWNlcxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoHc3RhcnRlZCopCghzZXF1ZW5jZRXTr0M_GglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqKQoIc2VxdWVuY2UV069DPxoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKiEKCGxlYXJuaW5nFYAmgT4aEHNlcXVlbmNlbGVhcm5pbmcqNAoGbmV1cmFsFa0EkUAaCG5ldXJvbmFsGg5uZXVyYWxuZXR3b3JrcxoLaXY7cDtuZXVyYWwqLgoIbmV0d29ya3MVcUeMQBoEbmV0cxoHbmV0d29yaxoObmV1cmFsbmV0d29ya3MykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWOVZsa3NzRDZXOE9RYS1xRjV4bDRIUFJrYjNmUkhmcEFxS1FLaFJzbzUyQUVwTHNTX0tieDJyOVZpaUtfTEluTWlrbks3QW81clBRTUV1MGVsYlMzWjI1YnZPQU1OelRNeU9QSkJsdTVTc2lrdGpmX0dzQVhYaEVNRkE6PTxiPlNlcXVlbnRpYWwgTmV1cmFsIE5ldHdvcmtzPC9iPiBhcyBBdXRvbWF0YSAtIEFDTCBBbnRob2xvZ3lCfFRoaXMgd29yayBhdHRlbXB0cyB0byBleHBsYWluIHRoZSB0eXBlcyBvZiBjb21wdXRhdGlvbiB0aGF0IDxiPm5ldXJhbCBuZXR3b3JrczwvYj4gY2FuIHBlcmZvcm0gYnkgcmVsYXRpbmcgdGhlbSB0byBhdXRvbWF0YS4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjlWbGtzc0Q2VzhPUWEtcUY1eGw0SFBSa2IzZlJIZnBBcUtRS2hSc281MkFFcExzU19LYngycjlWaWlLX0xJbk1pa25LN0FvNXJQUU1FdTBlbGJTM1oyNWJ2T0FNTnpUTXlPUEpCbHU1U3Npa3RqZl9Hc0FYWGhFTUZBEgQaAggAGskFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAowUIABAAGAAgACoUCgVwYXBlchVRVM49GgZwYXBlcnMqVAoKaW50cm9kdWNlZBUFGT89GgdjcmVhdGVkGgtpbXBsZW1lbnRlZBoKaW50cm9kdWNlcxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoHc3RhcnRlZCopCghzZXF1ZW5jZRXTr0M_GglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqKQoIc2VxdWVuY2UV069DPxoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKiEKCGxlYXJuaW5nFYAmgT4aEHNlcXVlbmNlbGVhcm5pbmcqNAoGbmV1cmFsFa0EkUAaCG5ldXJvbmFsGg5uZXVyYWxuZXR3b3JrcxoLaXY7cDtuZXVyYWwqLgoIbmV0d29ya3MVcUeMQBoEbmV0cxoHbmV0d29yaxoObmV1cmFsbmV0d29ya3MykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWOVZsa3NzRDZXOE9RYS1xRjV4bDRIUFJrYjNmUkhmcEFxS1FLaFJzbzUyQUVwTHNTX0tieDJyOVZpaUtfTEluTWlrbks3QW81clBRTUV1MGVsYlMzWjI1YnZPQU1OelRNeU9QSkJsdTVTc2lrdGpmX0dzQVhYaEVNRkE6PTxiPlNlcXVlbnRpYWwgTmV1cmFsIE5ldHdvcmtzPC9iPiBhcyBBdXRvbWF0YSAtIEFDTCBBbnRob2xvZ3lCfFRoaXMgd29yayBhdHRlbXB0cyB0byBleHBsYWluIHRoZSB0eXBlcyBvZiBjb21wdXRhdGlvbiB0aGF0IDxiPm5ldXJhbCBuZXR3b3JrczwvYj4gY2FuIHBlcmZvcm0gYnkgcmVsYXRpbmcgdGhlbSB0byBhdXRvbWF0YS4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "The paper introduces a straightforward yet powerful encoder-decoder architecture using deep LSTM networks. The approach consists of two main components working ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEX____-_PzQnp64Y2PGh4fw4uLp1NTu3d379_epMzOjFhamJyegAADiw8OhCwuwTU2rOzvbt7f06upUN5YCAAAAE3RSTlP__fz9_fz7-_z8____-f_8_Pr9fs9ZgwAAAH5JREFUeAHdzkUSBDEIBVDiCRC9_13HWklNr0f-jnoY_GGUNtZthQ_CYkIkzksRSgnCiHR96GLUojB0AA_ti6nZooLK-r1Bqwq6MLHTw2zQ-cIWDdJMFizMFhbaETd7dQq1aA-bVGms0S-2qIEjgwnxMJAPeypsFFxlRPj-3AG4cwbyFcwCFAAAAABJRU5ErkJggg.png",
-      "source_info_link": "https://www.alphaxiv.org/abs/1409.3215"
+      "description": "This work attempts to explain the types of computation that neural networks can perform by relating them to automata.",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEzvGR_uGyLsGyLtHCPtGyLwGSDtGyLtHCPtHCTsGyPtGyLtHCPtHCPtGyMqzSoKAAAAD3RSTlMACzuzxKEWddn_3Y71WyieVrE3AAAAXElEQVR4AWOgAWBE5Sq7uCaAREtcwKBz5iwwd-dMKJhBDndKORDEwLlTQRbdQefOws6d_A4IambO0nsnAOLOgrhqjovzAxAXDuYoEOSegYNZCgwMuncRIIGK4QkAn1JqNeIpqWIAAAAASUVORK5CYII.png",
+      "source_info_link": "https://aclanthology.org/W19-3901.pdf"
      }
     },
-    "displayed_link": "https://www.alphaxiv.org › abs",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEX____-_PzQnp64Y2PGh4fw4uLp1NTu3d379_epMzOjFhamJyegAADiw8OhCwuwTU2rOzvbt7f06upUN5YCAAAAE3RSTlP__fz9_fz7-_z8____-f_8_Pr9fs9ZgwAAAH5JREFUeAHdzkUSBDEIBVDiCRC9_13HWklNr0f-jnoY_GGUNtZthQ_CYkIkzksRSgnCiHR96GLUojB0AA_ti6nZooLK-r1Bqwq6MLHTw2zQ-cIWDdJMFizMFhbaETd7dQq1aA-bVGms0S-2qIEjgwnxMJAPeypsFFxlRPj-3AG4cwbyFcwCFAAAAABJRU5ErkJggg.png",
-    "link": "https://www.alphaxiv.org/abs/1409.3215",
+    "author": "by W Merrill",
+    "displayed_link": "https://aclanthology.org › ...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEzvGR_uGyLsGyLtHCPtGyLwGSDtGyLtHCPtHCTsGyPtGyLtHCPtHCPtGyMqzSoKAAAAD3RSTlMACzuzxKEWddn_3Y71WyieVrE3AAAAXElEQVR4AWOgAWBE5Sq7uCaAREtcwKBz5iwwd-dMKJhBDndKORDEwLlTQRbdQefOws6d_A4IambO0nsnAOLOgrhqjovzAxAXDuYoEOSegYNZCgwMuncRIIGK4QkAn1JqNeIpqWIAAAAASUVORK5CYII.png",
+    "link": "https://aclanthology.org/W19-3901.pdf",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVuNeEWHlSkoxx6CaXxbo3WuA1SdFWRvMxi0W9ZfZrR56cwzkwYcRMp7u6dCVWV0bu8bU41S1ENkKYcOCOKGc2mLWicplfLy8FbkZtnuQVuMjPmbOmCxiIig0&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQFnoECD4QAQ&uoh=1",
-    "snippet": "The paper introduces a straightforward yet powerful encoder-decoder architecture using deep LSTM networks. The approach consists of two main components working ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV9VlkssD6W8OQa-qF5xl4HPRkb3fRHfpAqKQKhRso52AEpLsS_Kbx2r9ViiK_LInMiknK7Ao5rPQMEu0elbS3Z25bvOAMNzTMyOPJBlu5Ssiktjf_GsAXXhEMFA&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQFnoECBcQAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "pages": 13
+      },
+      "extensions": [
+       "13 pages"
+      ]
+     }
+    },
+    "snippet": "This work attempts to explain the types of computation that neural networks can perform by relating them to automata.",
     "snippet_highlighted_words": [
-     "paper",
+     "neural networks"
+    ],
+    "source": "ACL Anthology",
+    "title": "Sequential Neural Networks as Automata"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnY4OWJJMkxOa2hMQXd2bW1XZXo0SUt2QU1FNGJ6X2JQQTFjaWRkeFFvSHRUQlBtbDFNc0lsckhOU0tEQWhrY21iVV81OUFlSFc2dGV0bjRwNThERzI5c09wNFlMM2tDak0yQ2VyQjE0eDhNQkNRbTh6M0pGaGpERjNyNURNMWJuSncSBBoCCAAapgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAggYIABAAGAAgACoUCgVwYXBlchVPef08GgZwYXBlcnMqVAoKaW50cm9kdWNlZBWQjZU-GgdjcmVhdGVkGgtpbXBsZW1lbnRlZBoKaW50cm9kdWNlcxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoHc3RhcnRlZCopCghzZXF1ZW5jZRUG1iZAGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqKQoIc2VxdWVuY2UVloBVQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKiEKCGxlYXJuaW5nFc5MfEAaEHNlcXVlbmNlbGVhcm5pbmcqNAoGbmV1cmFsFfbZjEAaCG5ldXJvbmFsGg5uZXVyYWxuZXR3b3JrcxoLaXY7cDtuZXVyYWwqLgoIbmV0d29ya3MVxTyVQBoEbmV0cxoHbmV0d29yaxoObmV1cmFsbmV0d29ya3MymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWdjg5YkkyTE5raExBd3ZtbVdlejRJS3ZBTUU0YnpfYlBBMWNpZGR4UW9IdFRCUG1sMU1zSWxySE5TS0RBaGtjbWJVXzU5QWVIVzZ0ZXRuNHA1OERHMjlzT3A0WUwza0NqTTJDZXJCMTR4OE1CQ1FtOHozSkZoakRGM3I1RE0xYm5KdzpIPGI-U2VxdWVuY2UgTGVhcm5pbmc8L2I-IHdpdGggSW5jcmVtZW50YWwgSGlnaGVyLU9yZGVyIDxiPk5ldXJhbDwvYj4gLi4uQscBQWJzdHJhY3QuIEFuIGluY3JlbWVudGFsLCBoaWdoZXItb3JkZXIsIG5vbi1yZWN1cnJlbnQgPGI-bmV1cmFsPC9iPi08Yj5uZXR3b3JrPC9iPiBjb21iaW5lcyB0d28gcHJvcGVydGllcyBmb3VuZCB0byBiZSB1c2UtIGZ1bCBmb3IgPGI-c2VxdWVuY2UgbGVhcm5pbmc8L2I-IGluIDxiPm5ldXJhbDwvYj4tPGI-bmV0d29ya3M8L2I-OiZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnY4OWJJMkxOa2hMQXd2bW1XZXo0SUt2QU1FNGJ6X2JQQTFjaWRkeFFvSHRUQlBtbDFNc0lsckhOU0tEQWhrY21iVV81OUFlSFc2dGV0bjRwNThERzI5c09wNFlMM2tDak0yQ2VyQjE0eDhNQkNRbTh6M0pGaGpERjNyNURNMWJuSncSBBoCCAAapgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAggYIABAAGAAgACoUCgVwYXBlchVPef08GgZwYXBlcnMqVAoKaW50cm9kdWNlZBWQjZU-GgdjcmVhdGVkGgtpbXBsZW1lbnRlZBoKaW50cm9kdWNlcxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoHc3RhcnRlZCopCghzZXF1ZW5jZRUG1iZAGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqKQoIc2VxdWVuY2UVloBVQBoJc2VxdWVuY2VzGg1pdjtwO3NlcXVlbmNlKiEKCGxlYXJuaW5nFc5MfEAaEHNlcXVlbmNlbGVhcm5pbmcqNAoGbmV1cmFsFfbZjEAaCG5ldXJvbmFsGg5uZXVyYWxuZXR3b3JrcxoLaXY7cDtuZXVyYWwqLgoIbmV0d29ya3MVxTyVQBoEbmV0cxoHbmV0d29yaxoObmV1cmFsbmV0d29ya3MymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWdjg5YkkyTE5raExBd3ZtbVdlejRJS3ZBTUU0YnpfYlBBMWNpZGR4UW9IdFRCUG1sMU1zSWxySE5TS0RBaGtjbWJVXzU5QWVIVzZ0ZXRuNHA1OERHMjlzT3A0WUwza0NqTTJDZXJCMTR4OE1CQ1FtOHozSkZoakRGM3I1RE0xYm5KdzpIPGI-U2VxdWVuY2UgTGVhcm5pbmc8L2I-IHdpdGggSW5jcmVtZW50YWwgSGlnaGVyLU9yZGVyIDxiPk5ldXJhbDwvYj4gLi4uQscBQWJzdHJhY3QuIEFuIGluY3JlbWVudGFsLCBoaWdoZXItb3JkZXIsIG5vbi1yZWN1cnJlbnQgPGI-bmV1cmFsPC9iPi08Yj5uZXR3b3JrPC9iPiBjb21iaW5lcyB0d28gcHJvcGVydGllcyBmb3VuZCB0byBiZSB1c2UtIGZ1bCBmb3IgPGI-c2VxdWVuY2UgbGVhcm5pbmc8L2I-IGluIDxiPm5ldXJhbDwvYj4tPGI-bmV0d29ya3M8L2I-OiZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Abstract. An incremental, higher-order, non-recurrent neural-network combines two properties found to be use- ful for sequence learning in neural\n-networks: ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAAVklEQVR4AWPg9f5CDGKw_X750vFTxIERauiooaOGjhrK4_uHGMRg___W9SMXLxwnBjGIqmsSg8SUGYDmAt1LFBLTciYKqWsB3UtkWI1MQ0cNHTV01FAAl24tUrx3hl0AAAAASUVORK5CYII.png",
+      "source_info_link": "https://people.idsia.ch/~ring/Ring-TTHs.pdf"
+     }
+    },
+    "displayed_link": "https://people.idsia.ch › ~ring › Ring-TTHs",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAAVklEQVR4AWPg9f5CDGKw_X750vFTxIERauiooaOGjhrK4_uHGMRg___W9SMXLxwnBjGIqmsSg8SUGYDmAt1LFBLTciYKqWsB3UtkWI1MQ0cNHTV01FAAl24tUrx3hl0AAAAASUVORK5CYII.png",
+    "link": "https://people.idsia.ch/~ring/Ring-TTHs.pdf",
+    "position": 8,
+    "read_more_link": "https://people.idsia.ch/~ring/Ring-TTHs.pdf#:~:text=Abstract,connections%20and%20the%20incremental%20introduction",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVv89bI2LNkhLAwvmmWez4IKvAME4bz_bPA1ciddxQoHtTBPml1MsIlrHNSKDAhkcmbU_59AeHW6tetn4p58DG29sOp4YL3kCjM2CerB14x8MBCQm8z3JFhjDF3r5DM1bnJw&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQFnoECBYQAQ&uoh=1",
+    "snippet": "Abstract. An incremental, higher-order, non-recurrent neural-network combines two properties found to be use- ful for sequence learning in neural-networks: ...",
+    "snippet_highlighted_words": [
+     "neural",
+     "network",
+     "sequence learning",
+     "neural",
      "networks"
     ],
-    "source": "alphaXiv",
-    "title": "Sequence to Sequence Learning with Neural Networks"
+    "source": "Dalle Molle Institute for Artificial Intelligence",
+    "title": "Sequence Learning with Incremental Higher-Order Neural ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZjSEZ2VE9hV2FUVXNfekN2SVFvNlJmd21kdjYxSk83Tkl2Q2pBTnMyeVpIcktHZlE2a0wxOHg0b3pVUWIxdHVISlpoU1pqaVpWaXBxYzQtSXhLNmpiNFVHTzhBempRRUd6TjM3TXV0czE0VkV1UzFWeEdJTEg4UEJUMUFtMmMycThNLU53RGJqclJ6QzNVSEoxcmxGamRtZ3Z0MGxOQUdseC1MWk1JQlR2cmEzRUNDR2xzcXBiQmZTbF82NUhnbUdvNExFdxIEGgIIABq7BhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKhQKBXBhcGVyFZuqBT8aBnBhcGVycypUCgppbnRyb2R1Y2VkFQAAAAAaB2NyZWF0ZWQaC2ltcGxlbWVudGVkGgppbnRyb2R1Y2VzGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGgdzdGFydGVkKikKCHNlcXVlbmNlFQjsYUAaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSopCghzZXF1ZW5jZRX8Um1AGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqIQoIbGVhcm5pbmcVRopfQBoQc2VxdWVuY2VsZWFybmluZyo0CgZuZXVyYWwVDrBxPxoIbmV1cm9uYWwaDm5ldXJhbG5ldHdvcmtzGgtpdjtwO25ldXJhbCouCghuZXR3b3JrcxXjTyg_GgRuZXRzGgduZXR3b3JrGg5uZXVyYWxuZXR3b3JrczLcAS9nb3RvP3VybD1DQUVTbUFFQjZ6c3dGY0hGdlRPYVdhVFVzX3pDdklRbzZSZndtZHY2MUpPN05JdkNqQU5zMnlaSHJLR2ZRNmtMMTh4NG96VVFiMXR1SEpaaFNaamlaVmlwcWM0LUl4SzZqYjRVR084QXpqUUVHek4zN011dHMxNFZFdVMxVnhHSUxIOFBCVDFBbTJjMnE4TS1Od0RianJSekMzVUhKMXJsRmpkbWd2dDBsTkFHbHgtTFpNSUJUdnJhM0VDQ0dsc3FwYkJmU2xfNjVIZ21HbzRMRXc6NFRlbnNvcml6ZWQgTFNUTXMgZm9yIDxiPlNlcXVlbmNlIExlYXJuaW5nPC9iPiAtIE5JUFNCrAFBYnN0cmFjdC4gTG9uZyBTaG9ydC1UZXJtIE1lbW9yeSAoTFNUTSkgaXMgYSBwb3B1bGFyIGFwcHJvYWNoIHRvIGJvb3N0aW5nIHRoZSBhYmlsaXR5IG9mIFJlY3VycmVudCA8Yj5OZXVyYWwgTmV0d29ya3M8L2I-IHRvIHN0b3JlIGxvbmdlciB0ZXJtIHRlbXBvcmFsIGluZm9ybWF0aW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZjSEZ2VE9hV2FUVXNfekN2SVFvNlJmd21kdjYxSk83Tkl2Q2pBTnMyeVpIcktHZlE2a0wxOHg0b3pVUWIxdHVISlpoU1pqaVpWaXBxYzQtSXhLNmpiNFVHTzhBempRRUd6TjM3TXV0czE0VkV1UzFWeEdJTEg4UEJUMUFtMmMycThNLU53RGJqclJ6QzNVSEoxcmxGamRtZ3Z0MGxOQUdseC1MWk1JQlR2cmEzRUNDR2xzcXBiQmZTbF82NUhnbUdvNExFdxIEGgIIABq7BhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKhQKBXBhcGVyFZuqBT8aBnBhcGVycypUCgppbnRyb2R1Y2VkFQAAAAAaB2NyZWF0ZWQaC2ltcGxlbWVudGVkGgppbnRyb2R1Y2VzGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGgdzdGFydGVkKikKCHNlcXVlbmNlFQjsYUAaCXNlcXVlbmNlcxoNaXY7cDtzZXF1ZW5jZSopCghzZXF1ZW5jZRX8Um1AGglzZXF1ZW5jZXMaDWl2O3A7c2VxdWVuY2UqIQoIbGVhcm5pbmcVRopfQBoQc2VxdWVuY2VsZWFybmluZyo0CgZuZXVyYWwVDrBxPxoIbmV1cm9uYWwaDm5ldXJhbG5ldHdvcmtzGgtpdjtwO25ldXJhbCouCghuZXR3b3JrcxXjTyg_GgRuZXRzGgduZXR3b3JrGg5uZXVyYWxuZXR3b3JrczLcAS9nb3RvP3VybD1DQUVTbUFFQjZ6c3dGY0hGdlRPYVdhVFVzX3pDdklRbzZSZndtZHY2MUpPN05JdkNqQU5zMnlaSHJLR2ZRNmtMMTh4NG96VVFiMXR1SEpaaFNaamlaVmlwcWM0LUl4SzZqYjRVR084QXpqUUVHek4zN011dHMxNFZFdVMxVnhHSUxIOFBCVDFBbTJjMnE4TS1Od0RianJSekMzVUhKMXJsRmpkbWd2dDBsTkFHbHgtTFpNSUJUdnJhM0VDQ0dsc3FwYkJmU2xfNjVIZ21HbzRMRXc6NFRlbnNvcml6ZWQgTFNUTXMgZm9yIDxiPlNlcXVlbmNlIExlYXJuaW5nPC9iPiAtIE5JUFNCrAFBYnN0cmFjdC4gTG9uZyBTaG9ydC1UZXJtIE1lbW9yeSAoTFNUTSkgaXMgYSBwb3B1bGFyIGFwcHJvYWNoIHRvIGJvb3N0aW5nIHRoZSBhYmlsaXR5IG9mIFJlY3VycmVudCA8Yj5OZXVyYWwgTmV0d29ya3M8L2I-IHRvIHN0b3JlIGxvbmdlciB0ZXJtIHRlbXBvcmFsIGluZm9ybWF0aW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "“Sequence to Sequence Learning with Neural Networks”: Paper Discussion · The fifth blog post in the 5-minute Papers series. · Decentralize AI.",
-      "icon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAABQCQCdASocABwAPtEwtFooIigoGAEAGglsAJ0yhHPvkv418gZoEQl-Wb3AaADvAPf_9AG8V-gB5Wnskj6IExzNmr_FxP-6ryj9Onhu7iuTtPrQAAD-jTd2kjtdpAhkMlcvYPG3L51a677X5x0Htb0zlCqf-d79pbhA_-3Al4_XlMuugXTIelfIqjhwpWGLZKTmWmnSTQIiS3oeN1blNn-NNW_6UX_9UyGBXB9SPTn77l1_ggTyFXf_299Vec0_57F0vI-9COM7jgCK0Frt6zusHWZWaNzFp0gUaqUVE7F08TeT9-jGuWBIVRuUYnprU_cba01KZpQ84a28G-Aq8BqcMNazzzYvntfoQ8ueB3yKxR2md9ckgAzy7p3gxWc3ig4-Uf7b6V7M8ia9EuC-KVrJcOJlHy1T8cZx7Xvt3OZkeijxVUG5z04gdsA664Aa8MDoRn7iNrLjX4B9L7grdbVTK3oCYhs6rxiJnn5YbeknHKcfWsRAAA.webp",
-      "source_info_link": "https://hackernoon.com/sequence-to-sequence-learning-with-neural-networks-paper-discussion-6be16f19ecae"
+      "description": "Abstract. Long Short-Term Memory (LSTM) is a popular approach to boosting the ability of Recurrent Neural Networks to store longer term temporal information ...",
+      "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
+      "source_info_link": "https://proceedings.neurips.cc/paper/2017/hash/70efdf2ec9b086079795c442636b55fb-Abstract.html"
      }
     },
-    "date": "2019-03-16",
-    "displayed_link": "https://hackernoon.com › sequence-...",
-    "favicon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAABQCQCdASocABwAPtEwtFooIigoGAEAGglsAJ0yhHPvkv418gZoEQl-Wb3AaADvAPf_9AG8V-gB5Wnskj6IExzNmr_FxP-6ryj9Onhu7iuTtPrQAAD-jTd2kjtdpAhkMlcvYPG3L51a677X5x0Htb0zlCqf-d79pbhA_-3Al4_XlMuugXTIelfIqjhwpWGLZKTmWmnSTQIiS3oeN1blNn-NNW_6UX_9UyGBXB9SPTn77l1_ggTyFXf_299Vec0_57F0vI-9COM7jgCK0Frt6zusHWZWaNzFp0gUaqUVE7F08TeT9-jGuWBIVRuUYnprU_cba01KZpQ84a28G-Aq8BqcMNazzzYvntfoQ8ueB3yKxR2md9ckgAzy7p3gxWc3ig4-Uf7b6V7M8ia9EuC-KVrJcOJlHy1T8cZx7Xvt3OZkeijxVUG5z04gdsA664Aa8MDoRn7iNrLjX4B9L7grdbVTK3oCYhs6rxiJnn5YbeknHKcfWsRAAA.webp",
-    "link": "https://hackernoon.com/sequence-to-sequence-learning-with-neural-networks-paper-discussion-6be16f19ecae",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFV7knjS_OZMxNNkJZacAwFYYX49GBuYio6U2sMmD_-WuhFslkS_NSU85xSEiJ9d2geKgHF54n9mQCvzeXOrs9Ww_AFjq-IWLakwSxbliQ2D_zPRaKl-Z-c3EaXbV5ZY-nOH7wFoBzhXl-lYDpSRuj51DLfnc8yo_gcgjxw8sQl2AvvDh2jWxy3vYgN7WBfPV_EmhhmP4SnaaNCk&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQFnoECEcQAQ&uoh=1",
-    "snippet": "“Sequence to Sequence Learning with Neural Networks”: Paper Discussion · The fifth blog post in the 5-minute Papers series. · Decentralize AI.",
+    "author": "by Z He",
+    "displayed_link": "https://proceedings.neurips.cc › paper › hash",
+    "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtEutFooIagoGAEAGglnAAUQIZV4qfpDpjvWB-qvsm_pKOzUZGtAgK8rOAku3C5zmAAA_vYC_cAVT3k5NDCDCj2LE1VyoJA3UZiImqyX02C40jeNCuwGXAzMatSSGPkNKVqN3WQwgwrbzJ94th89ouZ3N19W0GnuGncf8_LMvH74CnDQCbnavriOMog6Fz-tDaX-Hb2Oi_N07ddQ6H9wq5Upm5ib31EnKOeQ6MP44NwDg7XD7rEnRSTwQWwzJVtqwz36LI4WLjfU5fvF16MSum_qqTWu3AG53zc18jzeD2gg6yFxcCEyhFxXhWm5ffiqvgm4xKWpcPx5BJC6o8-L3-xiSI_TUVK3uVvvd7gbcNuMxhQAMJqhT6rY3pgn_HtHiRyHX5QAAAA.webp",
+    "link": "https://proceedings.neurips.cc/paper/2017/hash/70efdf2ec9b086079795c442636b55fb-Abstract.html",
+    "position": 9,
+    "read_more_link": "https://proceedings.neurips.cc/paper/2017/hash/70efdf2ec9b086079795c442636b55fb-Abstract.html#:~:text=Abstract,store%20longer%20term%20temporal%20information.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFcHFvTOaWaTUs_zCvIQo6Rfwmdv61JO7NIvCjANs2yZHrKGfQ6kL18x4ozUQb1tuHJZhSZjiZVipqc4-IxK6jb4UGO8AzjQEGzN37Muts14VEuS1VxGILH8PBT1Am2c2q8M-NwDbjrRzC3UHJ1rlFjdmgvt0lNAGlx-LZMIBTvra3ECCGlsqpbBfSl_65HgmGo4LEw&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQFnoECEQQAQ&uoh=1",
+    "snippet": "Abstract. Long Short-Term Memory (LSTM) is a popular approach to boosting the ability of Recurrent Neural Networks to store longer term temporal information ...",
     "snippet_highlighted_words": [
-     "“Sequence to Sequence Learning with Neural Networks”"
+     "Neural Networks"
     ],
-    "source": "HackerNoon",
-    "title": "Sequence to Sequence Learning with Neural Networks"
+    "source": "NeurIPS 2026",
+    "title": "Tensorized LSTMs for Sequence Learning"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=10&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8NMDegQIPBAW",
+   "next": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnugHe-lRXT8IVCbOU83GZVlnA0OAw:1790779223844&ei=Vx-9atvwMuyuiLMP34blsQc&start=10&sa=N&sstk=AS6-VmKP6wiqRwYpekS9lXoBeEkFs2X-jDopL1jm0vvaXjacLnusg-CkknVqSn0fY59dycob0W7q46XbTL_zM5XxsP5qj27G8CMOtQ&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQ8NMDegQIPhAI",
    "other_pages": {
-    "10": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=90&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8tMDegQIPBAU",
-    "2": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=10&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8tMDegQIPBAE",
-    "3": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=20&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8tMDegQIPBAG",
-    "4": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=30&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8tMDegQIPBAI",
-    "5": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=40&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8tMDegQIPBAK",
-    "6": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=50&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8tMDegQIPBAM",
-    "7": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=60&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8tMDegQIPBAO",
-    "8": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=70&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8tMDegQIPBAQ",
-    "9": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=a3e7c45b0e9db7ae&sxsrf=APpeQnvbBufWfoNic7V-AOhO3qxTNCueHQ:1789911725849&ei=reKvaozTK9OzqtsPzt_EyAk&start=80&sa=N&sstk=AS6-VmKeSdkZqls9iID-aamcuDyW3qKT3TScKq_8z7RnIE-38C63B1nN9UHM7R6RZ9K2QbSmy-5I3zJGM3Th8G8oCPDG4X-qS5Ihaw&ved=2ahUKEwjM3dzkpP2WAxXTmWoFHc4vEZkQ8tMDegQIPBAS"
+    "2": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnugHe-lRXT8IVCbOU83GZVlnA0OAw:1790779223844&ei=Vx-9atvwMuyuiLMP34blsQc&start=10&sa=N&sstk=AS6-VmKP6wiqRwYpekS9lXoBeEkFs2X-jDopL1jm0vvaXjacLnusg-CkknVqSn0fY59dycob0W7q46XbTL_zM5XxsP5qj27G8CMOtQ&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQ8tMDegQIPhAE",
+    "3": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnugHe-lRXT8IVCbOU83GZVlnA0OAw:1790779223844&ei=Vx-9atvwMuyuiLMP34blsQc&start=20&sa=N&sstk=AS6-VmKP6wiqRwYpekS9lXoBeEkFs2X-jDopL1jm0vvaXjacLnusg-CkknVqSn0fY59dycob0W7q46XbTL_zM5XxsP5qj27G8CMOtQ&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQ8tMDegQIPhAG"
    }
   },
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnugHe-lRXT8IVCbOU83GZVlnA0OAw:1790779223844&q=Paper+introduced+sequence+sequence+learning+neural+networks+pdf&sa=X&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQ1QJ6BAhCEAE",
+    "query": "Paper introduced sequence sequence learning neural networks pdf",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+introduced+sequence+sequence+learning+neural+networks+pdf"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnugHe-lRXT8IVCbOU83GZVlnA0OAw:1790779223844&q=Introduction+to+sequence+learning+models+rnn+lstm+gru&sa=X&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQ1QJ6BAhBEAE",
+    "query": "Introduction to sequence learning models rnn lstm gru",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Introduction+to+sequence+learning+models+rnn+lstm+gru"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnugHe-lRXT8IVCbOU83GZVlnA0OAw:1790779223844&q=A+comprehensive+overview+and+comparative+analysis+on+deep+learning+models:+CNN,+RNN,+LSTM,+GRU&sa=X&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQ1QJ6BAhDEAE",
+    "query": "A comprehensive overview and comparative analysis on deep learning models: CNN, RNN, LSTM, GRU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=A+comprehensive+overview+and+comparative+analysis+on+deep+learning+models%3A+CNN%2C+RNN%2C+LSTM%2C+GRU"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnugHe-lRXT8IVCbOU83GZVlnA0OAw:1790779223844&q=Deep+learning+overview&sa=X&ved=2ahUKEwib-Ie8xJaXAxVsF2IAHV9DOXYQ1QJ6BAhAEAE",
+    "query": "Deep learning overview",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deep+learning+overview"
+   }
+  ],
   "scholarly_articles": {
    "articles": [
-    {
-     "author": "‎Yousuf",
-     "highlighted_words": [
-      "sequence",
-      "sequence learning",
-      "neural network"
-     ],
-     "link": "https://www.academia.edu/download/87703522/14780.pdf",
-     "title": "… on sequence-to-sequence learning with neural network …"
-    },
-    {
-     "author": "‎Sutskever",
-     "highlighted_words": [
-      "Sequence",
-      "sequence learning",
-      "neural networks"
-     ],
-     "link": "https://proceedings.neurips.cc/paper_files/paper/2014/file/5a18e133cbf9f257297f410bb7eca942-Paper.pdf",
-     "title": "Sequence to sequence learning with neural networks"
-    },
     {
      "author": "‎Lipton",
      "highlighted_words": [
@@ -409,29 +346,46 @@
      ],
      "link": "https://arxiv.org/pdf/1506.00019",
      "title": "… of recurrent neural networks for sequence learning"
+    },
+    {
+     "author": "‎Yue",
+     "highlighted_words": [
+      "neural networks",
+      "learning sequential"
+     ],
+     "link": "https://www.mdpi.com/2078-2489/9/3/56",
+     "title": "… recurrent neural networks for learning sequential …"
+    },
+    {
+     "author": "‎Huynh",
+     "highlighted_words": [
+      "sequential learning"
+     ],
+     "link": "https://www.sciencedirect.com/science/article/pii/S0167865511002297",
+     "title": "… online sequential learning algorithm for single-hidden …"
     }
    ],
-   "link": "https://scholar.google.lt/scholar?q=paper+introduced+sequence+sequence+learning+neural+networks&hl=lt&as_sdt=0&as_vis=1&oi=scholart",
-   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=lt&q=paper+introduced+sequence+sequence+learning+neural+networks",
-   "title": "Moksliniai straipsniai iš paper introduced sequence sequence learning neural networks"
+   "link": "https://scholar.google.com/scholar?q=paper+introduced+sequence+sequence+learning+neural+networks&hl=en&as_sdt=0&as_vis=1&oi=scholart",
+   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=en&q=paper+introduced+sequence+sequence+learning+neural+networks",
+   "title": "Scholarly articles for paper introduced sequence sequence learning neural networks"
   },
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "paper introduced sequence sequence learning neural networks",
-   "time_taken_displayed": 0.55,
-   "total_results": 133
+   "time_taken_displayed": 0.6,
+   "total_results": 101000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 13:42:05 UTC",
+   "created_at": "2026-09-30 14:40:23 UTC",
    "google_url": "https://www.google.com/search?q=paper+introduced+sequence+sequence+learning+neural+networks&oq=paper+introduced+sequence+sequence+learning+neural+networks&sourceid=chrome&ie=UTF-8",
-   "id": "6aafe2ada0cb109eb3c11fcf",
-   "json_endpoint": "https://serpapi.com/searches/gVj2iie8lfIaAupqym4ivccWn2-ih37xJZMrg1qKQ6A/6aafe2ada0cb109eb3c11fcf.json",
-   "markdown_endpoint": "https://serpapi.com/searches/gVj2iie8lfIaAupqym4ivccWn2-ih37xJZMrg1qKQ6A/6aafe2ada0cb109eb3c11fcf.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/gVj2iie8lfIaAupqym4ivccWn2-ih37xJZMrg1qKQ6A/6aafe2ada0cb109eb3c11fcf.json_with_pixel_position",
-   "processed_at": "2026-09-20 13:42:05 UTC",
-   "raw_html_file": "https://serpapi.com/searches/gVj2iie8lfIaAupqym4ivccWn2-ih37xJZMrg1qKQ6A/6aafe2ada0cb109eb3c11fcf.html",
+   "id": "6abd1f576372f3b534fa3713",
+   "json_endpoint": "https://serpapi.com/searches/QLTlzZAVJs4MzE8fe27B-z5o4AcJRy6k6XmfMmlxQBE/6abd1f576372f3b534fa3713.json",
+   "markdown_endpoint": "https://serpapi.com/searches/QLTlzZAVJs4MzE8fe27B-z5o4AcJRy6k6XmfMmlxQBE/6abd1f576372f3b534fa3713.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/QLTlzZAVJs4MzE8fe27B-z5o4AcJRy6k6XmfMmlxQBE/6abd1f576372f3b534fa3713.json_with_pixel_position",
+   "processed_at": "2026-09-30 14:40:23 UTC",
+   "raw_html_file": "https://serpapi.com/searches/QLTlzZAVJs4MzE8fe27B-z5o4AcJRy6k6XmfMmlxQBE/6abd1f576372f3b534fa3713.html",
    "status": "Success",
-   "total_time_taken": 1.22
+   "total_time_taken": 0.75
   },
   "search_parameters": {
    "device": "desktop",
@@ -444,15 +398,8 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=80"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+sequence+sequence+learning+neural+networks&start=20"
    }
   }
  },

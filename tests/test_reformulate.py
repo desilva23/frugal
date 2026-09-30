@@ -182,8 +182,37 @@ def test_each_shaped_engine_declares_a_reason() -> None:
         assert rationale
 
 
-def test_web_search_needs_no_special_shape() -> None:
-    assert shape_for_engine("anything", "google") is None
+def test_web_search_is_sent_the_question_as_asked() -> None:
+    """Keywords are for engines that match terms; web search parses a question.
+
+    "Who invented the telephone?" sent as "invented telephone" came back with a
+    tweet, a car review and the history of the Caesar salad. The verbatim form
+    was tried once and rejected on a single recording for scoring one question
+    lower; a second recording had it four higher, and a third of single-search
+    answers change between recordings anyway.
+    """
+    question = "Who invented the telephone?"
+    shaped = shape_for_engine(question, "google")
+    assert shaped is not None
+    assert shaped[0] == question
+    assert reformulate(question, engine="google", limit=1)[0].query == question
+
+
+def test_the_keyword_baseline_does_not_depend_on_what_the_planner_sends() -> None:
+    """The keyword arm is defined by its own function, not by the planner's first choice.
+
+    It used to ask for "the first reformulation for google", which was the
+    keyword form only while the planner happened to send keywords -- so changing
+    the planner would have silently turned the keyword baseline into a second
+    copy of the verbatim one, and the table would have gone on printing both.
+    """
+    from frugal.planner import baseline_step
+    from frugal.reformulate import keyword_query
+
+    question = "Who invented the telephone?"
+    assert keyword_query(question) == "invented telephone"
+    assert baseline_step("keyword", question).params["q"] == "invented telephone"
+    assert baseline_step("naive", question).params["q"] == question
 
 
 def test_the_shaped_query_leads_for_an_engine_that_needs_it() -> None:

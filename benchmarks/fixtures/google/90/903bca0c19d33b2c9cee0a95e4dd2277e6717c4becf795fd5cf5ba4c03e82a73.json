@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 5832.181,
+ "elapsed_ms": 5933.312,
  "engine": "google",
- "fetched_at": "2026-09-20T11:29:59.759767+00:00",
+ "fetched_at": "2026-09-30T14:34:10.724732+00:00",
  "frugal_cache_version": 1,
  "key": "903bca0c19d33b2c9cee0a95e4dd2277e6717c4becf795fd5cf5ba4c03e82a73",
  "params": {
@@ -10,304 +10,367 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "T5ezL3iczVXdcqJIFH6AfY71xij4b1JFTXU3LZL410aj5oZCQEBREBCG3M277FPt00yDRCHRODMXW3uqmqa7D6fP38f34x_L3G3-_SsyfN_xHhgmDMOybtu6pZUVe8vIXrRTmJVtea5ifIsCrlZQPI4taCbnt4eBfHgz-F5TCNvKqBTMtiZhC8knnLSUPW1NLX5fe4zE0Mfm7xpPF2WvLLtleSKsx0_dCdrY5SpbrZWHjLylCuC_E0x0GM-PAF1Xokf4tqnYgAggzlgSgZ7M8Ky1OB4jkhwh_ao1eLxznKgTOnjprRvydDfND3_1W3oFzC3DxBcAwsRLCMzb0WSEpLG8x_VFpk7aeUmzZ593sjXO-ZqXMLfqUC8kgND5kuxl1IyRc-OUKUUH7a4NeQim16-i-XkSQWMDCL4UQlYIfqmfKtdbCHSHUXXauCyzdOlUYUzFUJIX14v7GU3uWbu72c_kcH9QvaEkuU3_cSgEgT4h6940ZJQl1bNsWdVUyZDYb8m6Uq002Ptaq32XAEnxTkjyskja9NyuOtspiMXlcRlW3mGEjkUHmYodXzCdkPgpfJpClGpcKHGmseOC4aMa6WRUcFpKmFiHAOrZ0j6N4rwKZ1fgGy1NVuN8a9z8n2F0FD2jTGGUOCLa5yBAVhsBIQPdTGFFcOk38yFukXTP3_KfFHMARGMANuC91z-10AIQpOMYAwh3YZo1JW8DZROQmsGA_qHSFT45iFOljE9xCkQC-kDE1KY5FU0d6CIk-Oho3AzpXR38AXFXGx6DGfqVX98FgbdAFAt5x8uH9s_CphNIYXSP-hWyKqkknHqC2OMno9X4uRRehom9Xf4G4yj_KyAd-QinfHQdSPg2kBI-gl_wUfJ-5qO4eZF9FUhQuMxH_Yt8lI8bieMskL7mo98GEvoSSCQ1cwFI9mUgOdeBFH4EUp6P8DU-SoH0J3wE_5CPElxpxylPToe1fpWkhPAtlCNQakY1pWK9wnkbDnbPZCW_Pt4mqdXWf9jKqnUnmeoDrD76kXon0Q37QVMLe86SHd92vKIcyKYlLy2teNipmltssFSK7sHRNK9o7lRTLmwt1-ZYuSnOrUb1xW-RamkWPfKDBdFLUqU36S8Ew7D5p2dSD-tiNBgFB2ceDdwWK7AvAjva1RZz31iR0capuYLTa2jtYL9UhX6npDhCcyxN0cFxvWfJCOvj2r7mdAdandDEGHv2tWu21vJwoiNeGg3HMy3xxuOs6PsiMGuz3TwsbF2Fo2Wv62BAwEyn_YeSvqTDpiOko0nLAgueIkuaF3DNepPmSb1fLdVqs96iNnU_crh6peDtXK7yE7dOPK8",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=T5ezL3iczVXdcqJIFH6AfY71xij4b1JFTXU3LZL410aj5oZCQEBREBCG3M277FPt00yDRCHRODMXW3uqmqa7D6fP38f34x_L3G3-_SsyfN_xHhgmDMOybtu6pZUVe8vIXrRTmJVtea5ifIsCrlZQPI4taCbnt4eBfHgz-F5TCNvKqBTMtiZhC8knnLSUPW1NLX5fe4zE0Mfm7xpPF2WvLLtleSKsx0_dCdrY5SpbrZWHjLylCuC_E0x0GM-PAF1Xokf4tqnYgAggzlgSgZ7M8Ky1OB4jkhwh_ao1eLxznKgTOnjprRvydDfND3_1W3oFzC3DxBcAwsRLCMzb0WSEpLG8x_VFpk7aeUmzZ593sjXO-ZqXMLfqUC8kgND5kuxl1IyRc-OUKUUH7a4NeQim16-i-XkSQWMDCL4UQlYIfqmfKtdbCHSHUXXauCyzdOlUYUzFUJIX14v7GU3uWbu72c_kcH9QvaEkuU3_cSgEgT4h6940ZJQl1bNsWdVUyZDYb8m6Uq002Ptaq32XAEnxTkjyskja9NyuOtspiMXlcRlW3mGEjkUHmYodXzCdkPgpfJpClGpcKHGmseOC4aMa6WRUcFpKmFiHAOrZ0j6N4rwKZ1fgGy1NVuN8a9z8n2F0FD2jTGGUOCLa5yBAVhsBIQPdTGFFcOk38yFukXTP3_KfFHMARGMANuC91z-10AIQpOMYAwh3YZo1JW8DZROQmsGA_qHSFT45iFOljE9xCkQC-kDE1KY5FU0d6CIk-Oho3AzpXR38AXFXGx6DGfqVX98FgbdAFAt5x8uH9s_CphNIYXSP-hWyKqkknHqC2OMno9X4uRRehom9Xf4G4yj_KyAd-QinfHQdSPg2kBI-gl_wUfJ-5qO4eZF9FUhQuMxH_Yt8lI8bieMskL7mo98GEvoSSCQ1cwFI9mUgOdeBFH4EUp6P8DU-SoH0J3wE_5CPElxpxylPToe1fpWkhPAtlCNQakY1pWK9wnkbDnbPZCW_Pt4mqdXWf9jKqnUnmeoDrD76kXon0Q37QVMLe86SHd92vKIcyKYlLy2teNipmltssFSK7sHRNK9o7lRTLmwt1-ZYuSnOrUb1xW-RamkWPfKDBdFLUqU36S8Ew7D5p2dSD-tiNBgFB2ceDdwWK7AvAjva1RZz31iR0capuYLTa2jtYL9UhX6npDhCcyxN0cFxvWfJCOvj2r7mdAdandDEGHv2tWu21vJwoiNeGg3HMy3xxuOs6PsiMGuz3TwsbF2Fo2Wv62BAwEyn_YeSvqTDpiOko0nLAgueIkuaF3DNepPmSb1fLdVqs96iNnU_crh6peDtXK7yE7dOPK8"
+   "page_token": "6co80niczVbddqo4FH6AeY7xpkcB62_XYp2VBGhTay3F2p8bFn9GVMQSEPHuPMW8wDzVPM0EKIoeadc5F7Nmq4Qke-_snewvnz_-XrqrxT9__DULwzW94rg4jhvE98nSaVi-xxk0WVnc1F_SwJp9TzbiZc2iIl9zXLH12OwbkdbHb0YQ96yHJkUjH6i1zETUTYM6c-ZxO6eczrHH4s9LiXUatOGsGhPqDNaroS101EaTb142RpzhMQXwH4oqAwwga_OmShAA8tfOUhUVoNRXIQQdpnKRcn_pmiQbGFQuiVMryD4YZKoPrW17RpkLtVDSqiNWy504ayDMV9TSoMjX-Rwk3xqo7kOrFHx-OLdEpUVff5o952143PcBlFpAVWERwsmpaOWsoJxmmWqwzahLWwBjt2KzPwzYdwxuFv7nKWaBINwrtgMolB0q5mzCipfnzIA1AudaMyt7CWha02jc5_3r1-ZACcKky1ASeYpkyVuN2C9bUxkRzjKZ3tI3bMfWZzr_PesLTaHN9y-7vW8ZmCy6RxMto2nkP8b370KfDuXGXQMKBZTQ_kBOEpJZH507K7az6JxBJqSEg5Kxi8rV9PTRsvLmMcBHFUFk_JC218XAiB0ogBYslUCxQOryHJSOlHIokaywcF5g-GC-V3kqhUHKU9IZGPx0DyAE4o-cpMLHRwDqyTYhoGE2V4zCY_csSXcmpy3UWNA0U7OO6p-XHw8poyKetOBlee8E79-ytA9QQqy-UVbx96nOApEFxCxYCHIjkoEiE5-cHL9cccWhmG3xUyVEPxVSdR8cCS4wcwKBMnQUiqePT3eD8MX0eS1wyOQ27GhKXx1F5DxUfM_8Beax_l9gKnjp6YOXqsEkfw2m9B78jJeyx56XiJaDaVANJhkfeImUeCkulA68dAompJXAlPMSgcp5XvpVMKFPwIQ_A1Oa6TkwqVVgynjpCEy3p7x0BKY9LxVg-j1ewr_HSxm2nLw5JqloTirJSjHH05vtdrhaPt-8vsJxsujB7YT2O8qd-iVZTb3wyjPs5Tfdta9g8zZM7G86G_CvHLv2Li6Ndeiv6YWxMdylYS6di2hlO8FFm2dyEURrx6EX7sp2jZq3DHyRN9pe3VM39Z2lS_G0GS12vC4kU37dnZAWP3jDUWTq4-RutXlYg8kusobj927n5mUZRGAtz_vhKOlKniSQydDeSeH1vRsH9RenY094aTUXZON5IF0L5LlubEbKA9gt-pPbt1arN5N29W3Txvxcl8betWLPu0ZMngHI4qLi3TgZjWGc3E8XNZYedUSh5gWWyM6plYBHFTwTVpPolREFYT_235jVvIo6DOCwRi1Dd-hGtHrtvmkYgmV2jZ7Ta9c8EiZrsSXU6CoQhX8BGU9I1Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6co80niczVbddqo4FH6AeY7xpkcB62_XYp2VBGhTay3F2p8bFn9GVMQSEPHuPMW8wDzVPM0EKIoeadc5F7Nmq4Qke-_snewvnz_-XrqrxT9__DULwzW94rg4jhvE98nSaVi-xxk0WVnc1F_SwJp9TzbiZc2iIl9zXLH12OwbkdbHb0YQ96yHJkUjH6i1zETUTYM6c-ZxO6eczrHH4s9LiXUatOGsGhPqDNaroS101EaTb142RpzhMQXwH4oqAwwga_OmShAA8tfOUhUVoNRXIQQdpnKRcn_pmiQbGFQuiVMryD4YZKoPrW17RpkLtVDSqiNWy504ayDMV9TSoMjX-Rwk3xqo7kOrFHx-OLdEpUVff5o952143PcBlFpAVWERwsmpaOWsoJxmmWqwzahLWwBjt2KzPwzYdwxuFv7nKWaBINwrtgMolB0q5mzCipfnzIA1AudaMyt7CWha02jc5_3r1-ZACcKky1ASeYpkyVuN2C9bUxkRzjKZ3tI3bMfWZzr_PesLTaHN9y-7vW8ZmCy6RxMto2nkP8b370KfDuXGXQMKBZTQ_kBOEpJZH507K7az6JxBJqSEg5Kxi8rV9PTRsvLmMcBHFUFk_JC218XAiB0ogBYslUCxQOryHJSOlHIokaywcF5g-GC-V3kqhUHKU9IZGPx0DyAE4o-cpMLHRwDqyTYhoGE2V4zCY_csSXcmpy3UWNA0U7OO6p-XHw8poyKetOBlee8E79-ytA9QQqy-UVbx96nOApEFxCxYCHIjkoEiE5-cHL9cccWhmG3xUyVEPxVSdR8cCS4wcwKBMnQUiqePT3eD8MX0eS1wyOQ27GhKXx1F5DxUfM_8Beax_l9gKnjp6YOXqsEkfw2m9B78jJeyx56XiJaDaVANJhkfeImUeCkulA68dAompJXAlPMSgcp5XvpVMKFPwIQ_A1Oa6TkwqVVgynjpCEy3p7x0BKY9LxVg-j1ewr_HSxm2nLw5JqloTirJSjHH05vtdrhaPt-8vsJxsujB7YT2O8qd-iVZTb3wyjPs5Tfdta9g8zZM7G86G_CvHLv2Li6Ndeiv6YWxMdylYS6di2hlO8FFm2dyEURrx6EX7sp2jZq3DHyRN9pe3VM39Z2lS_G0GS12vC4kU37dnZAWP3jDUWTq4-RutXlYg8kusobj927n5mUZRGAtz_vhKOlKniSQydDeSeH1vRsH9RenY094aTUXZON5IF0L5LlubEbKA9gt-pPbt1arN5N29W3Txvxcl8betWLPu0ZMngHI4qLi3TgZjWGc3E8XNZYedUSh5gWWyM6plYBHFTwTVpPolREFYT_235jVvIo6DOCwRi1Dd-hGtHrtvmkYgmV2jZ7Ta9c8EiZrsSXU6CoQhX8BGU9I1Q"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZmU25NVk1wZDVzbWZZNG01X2dkNlJTdVBZRVQzMkZWMV9UTzk0VlFVc1lQQWlHa0FhaEt3aTFFdHFreFFhcmJDbktfQnZfalFWeEpoVUVTSV9faU02cXVULXNhTUF5d3lsTno3ZWJRT0wtckZQZ3VKOXJDbEstdi1FNi1ObTFwZEdmUXI4NmtjVy1NZUtJa2Vmbm9Ndk9faWlTLXYtNnBHVUtFd0U3VWVETFFuZ2ZNd1Z4YxIEGgIIABryBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDOBQgAEAAYACAAKiQKB2xhcHRvcHMVh_eZQBoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFcp6mDwqLQoFdW5kZXIVAqifQBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBUCqJ9AGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRUwpoJAGgdpbmRpYSdzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZmU25NVk1wZDVzbWZZNG01X2dkNlJTdVBZRVQzMkZWMV9UTzk0VlFVc1lQQWlHa0FhaEt3aTFFdHFreFFhcmJDbktfQnZfalFWeEpoVUVTSV9faU02cXVULXNhTUF5d3lsTno3ZWJRT0wtckZQZ3VKOXJDbEstdi1FNi1ObTFwZEdmUXI4NmtjVy1NZUtJa2Vmbm9Ndk9faWlTLXYtNnBHVUtFd0U3VWVETFFuZ2ZNd1Z4YzpKQmVzdCBJbnRlbCBDb3JlIGk3IFByb2Nlc3NvciA8Yj5MYXB0b3BzIFVuZGVyIFJzIDUwMDAwPC9iPiBpbiA8Yj5JbmRpYTwvYj5CpwFCZXN0IEludGVsIENvcmUgaTcgUHJvY2Vzc29yIExhcHRvcHMgVW5kZXIgUnMgNTAwMDAgOyA8Yj5NU0kgVGl0YW4gR1Q3NyAxMlVIUy0wNTRJTjwvYj4gKENvcmUgaTkgMTJ0aCBHZW4vNjQgR0IvMiBUQiBTU0QvV2luZG93cyAxMS8xNiBHQikuIOKCuTQsOTksOTkwIDsgQXN1cyZuYnNwOy4uLlIEd2l0aFICb24iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZmU25NVk1wZDVzbWZZNG01X2dkNlJTdVBZRVQzMkZWMV9UTzk0VlFVc1lQQWlHa0FhaEt3aTFFdHFreFFhcmJDbktfQnZfalFWeEpoVUVTSV9faU02cXVULXNhTUF5d3lsTno3ZWJRT0wtckZQZ3VKOXJDbEstdi1FNi1ObTFwZEdmUXI4NmtjVy1NZUtJa2Vmbm9Ndk9faWlTLXYtNnBHVUtFd0U3VWVETFFuZ2ZNd1Z4YxIEGgIIABryBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDOBQgAEAAYACAAKiQKB2xhcHRvcHMVh_eZQBoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFcp6mDwqLQoFdW5kZXIVAqifQBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBUCqJ9AGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRUwpoJAGgdpbmRpYSdzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZmU25NVk1wZDVzbWZZNG01X2dkNlJTdVBZRVQzMkZWMV9UTzk0VlFVc1lQQWlHa0FhaEt3aTFFdHFreFFhcmJDbktfQnZfalFWeEpoVUVTSV9faU02cXVULXNhTUF5d3lsTno3ZWJRT0wtckZQZ3VKOXJDbEstdi1FNi1ObTFwZEdmUXI4NmtjVy1NZUtJa2Vmbm9Ndk9faWlTLXYtNnBHVUtFd0U3VWVETFFuZ2ZNd1Z4YzpKQmVzdCBJbnRlbCBDb3JlIGk3IFByb2Nlc3NvciA8Yj5MYXB0b3BzIFVuZGVyIFJzIDUwMDAwPC9iPiBpbiA8Yj5JbmRpYTwvYj5CpwFCZXN0IEludGVsIENvcmUgaTcgUHJvY2Vzc29yIExhcHRvcHMgVW5kZXIgUnMgNTAwMDAgOyA8Yj5NU0kgVGl0YW4gR1Q3NyAxMlVIUy0wNTRJTjwvYj4gKENvcmUgaTkgMTJ0aCBHZW4vNjQgR0IvMiBUQiBTU0QvV2luZG93cyAxMS8xNiBHQikuIOKCuTQsOTksOTkwIDsgQXN1cyZuYnNwOy4uLlIEd2l0aFICb24iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Buy laptops under 50000 online in India. Explore top models from HP, ASUS, Lenovo & Dell with 16GB RAM, 512GB SSD, and powerful processors on Flipkart ...",
-      "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
-      "source_info_link": "https://www.flipkart.com/laptops/~laptops-under-rs50000/pr?sid=6bo,b5g"
+      "description": "Best Intel Core i7 Processor Laptops Under Rs 50000 ; MSI Titan GT77 12UHS-054IN (Core i9 12th Gen/64 GB/2 TB SSD/Windows 11/16 GB). ₹4,99,990 ; Asus ...",
+      "icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABwBgCdASobABwAPtEutFooIagoGAEAGglsAJ0y3qST8Rnx8YBHgC1QuDnIBKSnH-SAtMeYrEM6lZo2cwAA_vYQSSB2LAnv4hH5AG2VHf6RdC1a6nb4h0bOeHd7bplTBxdm-1bY_YzhpwYPk8KXA7dAz8i9f_xW1LPGKTh2_c_Q7L98RRmpT4kT7vDPBuUu-8jugoD34ZBwxCk_PV0ZVi028vFuLi8DFR8CCv26ZaPfmpZ5z__NBpec-O8xIAFufEf-wFrDp7QZhpXsdfMkE3yRcL7NLdVque33xnKr9Q-6yp7Pyn8JYNhSriYj7wLFyLvYsU13D5iN__R2m40xGb81lxcX57pHX8_fZxKv99z1RZQxEB71pzGMsAA.webp",
+      "source_info_link": "https://www.cashify.in/best-intel-core-i7-processor-laptops-under-50000-in-india"
      }
     },
-    "displayed_link": "https://www.flipkart.com › laptops",
-    "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
-    "link": "https://www.flipkart.com/laptops/~laptops-under-rs50000/pr?sid=6bo,b5g",
+    "displayed_link": "https://www.cashify.in › best-intel-core-i7-processor-lap...",
+    "favicon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABwBgCdASobABwAPtEutFooIagoGAEAGglsAJ0y3qST8Rnx8YBHgC1QuDnIBKSnH-SAtMeYrEM6lZo2cwAA_vYQSSB2LAnv4hH5AG2VHf6RdC1a6nb4h0bOeHd7bplTBxdm-1bY_YzhpwYPk8KXA7dAz8i9f_xW1LPGKTh2_c_Q7L98RRmpT4kT7vDPBuUu-8jugoD34ZBwxCk_PV0ZVi028vFuLi8DFR8CCv26ZaPfmpZ5z__NBpec-O8xIAFufEf-wFrDp7QZhpXsdfMkE3yRcL7NLdVque33xnKr9Q-6yp7Pyn8JYNhSriYj7wLFyLvYsU13D5iN__R2m40xGb81lxcX57pHX8_fZxKv99z1RZQxEB71pzGMsAA.webp",
+    "link": "https://www.cashify.in/best-intel-core-i7-processor-laptops-under-50000-in-india",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVawm_9p5Cs0RlqPPq2IdtR7xwUePlcXraNWr6PiqLli9O7coDfE-ei6zztS7m2VPHCeT3f-sX5z_1YH8XyTW6kdkEFEwk8xD1Wh0CTlG64L6gcnjs-xpfLnQb3Ib0WYVxqozqLDxc38Kb_cAsFIREq5to4NyVipElSw&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQFnoECB4QAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "rating": 3.9,
-       "تقييم_المتجر": 19
-      },
-      "extensions": [
-       "3.9",
-       "تقييم المتجر (19)"
-      ]
-     }
-    },
-    "snippet": "Buy laptops under 50000 online in India. Explore top models from HP, ASUS, Lenovo & Dell with 16GB RAM, 512GB SSD, and powerful processors on Flipkart ...",
+    "read_more_link": "https://www.cashify.in/best-intel-core-i7-processor-laptops-under-50000-in-india#:~:text=Best%20Intel%20Core%20i7%20Processor,Laptops%20Under%20Rs%2050000&text=MSI%20Titan%20GT77%2012UHS%2D054IN%20(Core,%E2%82%B94%2C99%2C990&text=Asus%20ROG%20Strix%20Scar%2016",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFfSnMVMpd5smfY4m5_gd6RSuPYET32FV1_TO94VQUsYPAiGkAahKwi1EtqkxQarbCnK_Bv_jQVxJhUESI__iM6quT-saMAywylNz7ebQOL-rFPguJ9rClK-v-E6-Nm1pdGfQr86kcW-MeKIkefnoMvO_iiS-v-6pGUKEwE7UeDLQngfMwVxc&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQFnoECBwQAQ&uoh=1",
+    "snippet": "Best Intel Core i7 Processor Laptops Under Rs 50000 ; MSI Titan GT77 12UHS-054IN (Core i9 12th Gen/64 GB/2 TB SSD/Windows 11/16 GB). ₹4,99,990 ; Asus ...",
     "snippet_highlighted_words": [
-     "Explore top models from HP, ASUS, Lenovo & Dell"
+     "MSI Titan GT77 12UHS-054IN"
     ],
-    "source": "Flipkart",
-    "title": "Laptops Under 50000 Online at Best Prices in India"
+    "source": "Cashify",
+    "title": "Best Intel Core i7 Processor Laptops Under Rs 50000"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZVSjRxQWZUbDFWRGR5YlBWNUFiMGMwamcxQjJhZGI0NWU2NVNLd2FqU1dlNnNzQWZmbjJhMld0QzNQRzZZTTRKWWVyQ25GTHFvY0hxNVhUSUVYbjlaTG1BTlpLdkt6aGY4MTVHeU5RTnZHZ1lNWnVnZG9NVVJFSllKVTc0MUZvTFdNUTJYWmx5SS1pT1VYWV9JY0VkUHUydElzekxUTFpDR1pJbHlqVWVHem9JQnpkMGJRVkxXSmUzb3NwamxMWnBMWEFmekdJdGE0OERDYkJQeDASBBoCCAAazAUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqAUIABAAGAAgACokCgdsYXB0b3BzFSR6jEAaBmxhcHRvcBoMaXY7cDtsYXB0b3BzKhAKCWF2YWlsYWJsZRVgVxM-Ki0KBXVuZGVyFYzBNUAaCWxlc3MgdGhhbhoCb24aBHdpdGgaCnVuZGVyNTAwMDAqRgoFNTAwMDAVFhSNPxoGJDUwMDAwGgY1MCAwMDAaCzUwIHRob3VzYW5kGgM1MGsaCnVuZGVyNTAwMDAaCml2O247NTAwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVTVq6PhoHaW5kaWEnczLpAS9nb3RvP3VybD1DQUVTb2dFQjZ6c3dGVUo0cUFmVGwxVkRkeWJQVjVBYjBjMGpnMUIyYWRiNDVlNjVTS3dhalNXZTZzc0FmZm4yYTJXdEMzUEc2WU00SlllckNuRkxxb2NIcTVYVElFWG45WkxtQU5aS3ZLemhmODE1R3lOUU52R2dZTVp1Z2RvTVVSRUpZSlU3NDFGb0xXTVEyWFpseUktaU9VWFlfSWNFZFB1MnRJc3pMVExaQ0daSWx5alVlR3pvSUJ6ZDBiUVZMV0plM29zcGpsTFpwTFhBZnpHSXRhNDhEQ2JCUHgwOkNXaGljaCA8Yj5sYXB0b3BzPC9iPiBhcmUgZ29vZCBmb3IgZ2FtaW5nIDxiPjUwazwvYj4gYnVkZ2V0IC0gUmVkZGl0QmpJIGdvdCA8Yj5hY2VyIGFsZyBmb3IgNTJrPC9iPi4gUnR4MzA1MCAsNmdiIHZyYW0sYW5kIGEgbGlnaHRlciBsYXB0b3AgdGhhbiBhc3VzIHR1Zi4gWW91IGNhbiBjaGVjayBpdCBvdXQuUgJvblIEd2l0aCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZVSjRxQWZUbDFWRGR5YlBWNUFiMGMwamcxQjJhZGI0NWU2NVNLd2FqU1dlNnNzQWZmbjJhMld0QzNQRzZZTTRKWWVyQ25GTHFvY0hxNVhUSUVYbjlaTG1BTlpLdkt6aGY4MTVHeU5RTnZHZ1lNWnVnZG9NVVJFSllKVTc0MUZvTFdNUTJYWmx5SS1pT1VYWV9JY0VkUHUydElzekxUTFpDR1pJbHlqVWVHem9JQnpkMGJRVkxXSmUzb3NwamxMWnBMWEFmekdJdGE0OERDYkJQeDASBBoCCAAazAUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqAUIABAAGAAgACokCgdsYXB0b3BzFSR6jEAaBmxhcHRvcBoMaXY7cDtsYXB0b3BzKhAKCWF2YWlsYWJsZRVgVxM-Ki0KBXVuZGVyFYzBNUAaCWxlc3MgdGhhbhoCb24aBHdpdGgaCnVuZGVyNTAwMDAqRgoFNTAwMDAVFhSNPxoGJDUwMDAwGgY1MCAwMDAaCzUwIHRob3VzYW5kGgM1MGsaCnVuZGVyNTAwMDAaCml2O247NTAwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVTVq6PhoHaW5kaWEnczLpAS9nb3RvP3VybD1DQUVTb2dFQjZ6c3dGVUo0cUFmVGwxVkRkeWJQVjVBYjBjMGpnMUIyYWRiNDVlNjVTS3dhalNXZTZzc0FmZm4yYTJXdEMzUEc2WU00SlllckNuRkxxb2NIcTVYVElFWG45WkxtQU5aS3ZLemhmODE1R3lOUU52R2dZTVp1Z2RvTVVSRUpZSlU3NDFGb0xXTVEyWFpseUktaU9VWFlfSWNFZFB1MnRJc3pMVExaQ0daSWx5alVlR3pvSUJ6ZDBiUVZMV0plM29zcGpsTFpwTFhBZnpHSXRhNDhEQ2JCUHgwOkNXaGljaCA8Yj5sYXB0b3BzPC9iPiBhcmUgZ29vZCBmb3IgZ2FtaW5nIDxiPjUwazwvYj4gYnVkZ2V0IC0gUmVkZGl0QmpJIGdvdCA8Yj5hY2VyIGFsZyBmb3IgNTJrPC9iPi4gUnR4MzA1MCAsNmdiIHZyYW0sYW5kIGEgbGlnaHRlciBsYXB0b3AgdGhhbiBhc3VzIHR1Zi4gWW91IGNhbiBjaGVjayBpdCBvdXQuUgJvblIEd2l0aCICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "The Infinix Inbook Air Pro+ offers a premium and sturdy design language. The handset is easily one of the lightest and slimmest laptops in the sub-Rs 50,000 ...",
-      "icon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAACwCQCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHmfs3CEvd1VfUBtnfFg9f_TAOfE9jLydLmM3QeAFwbZxkM45VOFtUpTz8CBbkWIn1dzJ9EqDTvmAAD--LoKX0NdviX1J_iTNDwESVkVPQuQdr_tKEqQrxRWujpDlIvT4L_jzy_GPw5tzTfSvuUGHKuVXY9ClkEj2Yh6zex4TtlqGN6QIhFPVVmz97sn9hAxJaWYlqGqu52bWPyZHcFSir4h5tT3tIs0Va5lH_ynDyPIHNdxf0S7dvrWa31I_ai4hniNCxU4HsWM5Cf8Z3RSvUksRknsMZmYlsH9WVqwLmnKgm4WOkZ9sBAeMv5wG5Y5TKmRyQDGmgo5l4T3_2vLq0BktVZYY7cNIixMRSlXAHjTd6_6zJbUj4IMYT6g9uvyIG9AWpiPwrmmfMl-4oh1I7yQxRAWs44RVom8HV8wIo0G_gl-NF_f_qSRtwVqPjrGGtLCMY0q4Qt7pHtmB8T0n_NBuwcad9ejGIBBYQQnv-3GPY5P6F2B-DYdzx-pSC7F-G171hZZK3Y3pj169pkCJ3P6W4r_cX1jn-J2-vH-XjOL07ThhvzCAAAA.webp",
-      "source_info_link": "https://www.gadgets360.com/laptops/laptops-under-50000"
-     }
-    },
-    "displayed_link": "https://www.gadgets360.com › lapt...",
-    "favicon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAACwCQCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHmfs3CEvd1VfUBtnfFg9f_TAOfE9jLydLmM3QeAFwbZxkM45VOFtUpTz8CBbkWIn1dzJ9EqDTvmAAD--LoKX0NdviX1J_iTNDwESVkVPQuQdr_tKEqQrxRWujpDlIvT4L_jzy_GPw5tzTfSvuUGHKuVXY9ClkEj2Yh6zex4TtlqGN6QIhFPVVmz97sn9hAxJaWYlqGqu52bWPyZHcFSir4h5tT3tIs0Va5lH_ynDyPIHNdxf0S7dvrWa31I_ai4hniNCxU4HsWM5Cf8Z3RSvUksRknsMZmYlsH9WVqwLmnKgm4WOkZ9sBAeMv5wG5Y5TKmRyQDGmgo5l4T3_2vLq0BktVZYY7cNIixMRSlXAHjTd6_6zJbUj4IMYT6g9uvyIG9AWpiPwrmmfMl-4oh1I7yQxRAWs44RVom8HV8wIo0G_gl-NF_f_qSRtwVqPjrGGtLCMY0q4Qt7pHtmB8T0n_NBuwcad9ejGIBBYQQnv-3GPY5P6F2B-DYdzx-pSC7F-G171hZZK3Y3pj169pkCJ3P6W4r_cX1jn-J2-vH-XjOL07ThhvzCAAAA.webp",
-    "link": "https://www.gadgets360.com/laptops/laptops-under-50000",
-    "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVy7alWiKaeNFhhfj7CDJAfeHMpR6yGBrOetgGv0s_H2olr5SMKce3Db6VMEbjBjO7UKoF3iMRUkroLki0BQ0-9yWb3bMIyDDoDpBKrq2bqyUz3sfQObGe1pIx4h454j_jMbQEijy5T84c&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQFnoECCEQAQ&uoh=1",
-    "snippet": "The Infinix Inbook Air Pro+ offers a premium and sturdy design language. The handset is easily one of the lightest and slimmest laptops in the sub-Rs 50,000 ...",
-    "snippet_highlighted_words": [
-     "Infinix Inbook Air Pro"
-    ],
-    "source": "Gadgets 360",
-    "title": "Best Laptops Under Rs 50000 in India With Price, Features ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "Top 5 16GB Ram Laptops Under 50000 with Prices & Specs · Acer Aspire 15 AS15-42 (UN. · MSI Modern 14 C7M-283IN Laptop · MSI Modern 14 C7M-400IN Laptop · Acer Aspire ...",
-      "icon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAACQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvFBO12x_QBtgOZg_TPqbusz9E3pXfIzMBq0Tu4BCuORtGbYUtWUq1vIS4bwOPuc5k_C8eoAAP4AihNYzqcLaTiPx9XHhfOsSBpyVPvTHvSRJN6-8PHrRZHOv8qfPHacNGGnJnX-plytXPhfP-Krv_8AqdRU3K3QSe7VXgbZZMTdt2ymow1b4Av05UXwplhvwuv6UViN6riwj-hTvgmt03sZL6fsa06410qD-GqeIeca3ov4c-U1zSv-CVwF-FPJfzqhcZ_6jcWfl8QZfLirRFR-uE-bftj17fJ3vqvK46IEUsOSV67P3S6UfefBCZJ5ovWXDTxIdKMuyLitZPA7G_qwzgsl6-gTzSC52niDbrQhx3I_Evk10qoiERJL8Y539D4KxVGK3ccRxZTs0fBVUBT20ljY95EuRYvM0rs3r4QcR-MXuYy8D7Ym6LVn_jMraqimUeAp_9RuKfNvkMMqZ--fa8to8__-PWX0eUmbz2CdYAA.webp",
-      "source_info_link": "https://www.91mobiles.com/list-of-laptops/16gb-ram-laptops-under-50000"
-     }
-    },
-    "displayed_link": "https://www.91mobiles.com › 16gb-r...",
-    "favicon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAACQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvFBO12x_QBtgOZg_TPqbusz9E3pXfIzMBq0Tu4BCuORtGbYUtWUq1vIS4bwOPuc5k_C8eoAAP4AihNYzqcLaTiPx9XHhfOsSBpyVPvTHvSRJN6-8PHrRZHOv8qfPHacNGGnJnX-plytXPhfP-Krv_8AqdRU3K3QSe7VXgbZZMTdt2ymow1b4Av05UXwplhvwuv6UViN6riwj-hTvgmt03sZL6fsa06410qD-GqeIeca3ov4c-U1zSv-CVwF-FPJfzqhcZ_6jcWfl8QZfLirRFR-uE-bftj17fJ3vqvK46IEUsOSV67P3S6UfefBCZJ5ovWXDTxIdKMuyLitZPA7G_qwzgsl6-gTzSC52niDbrQhx3I_Evk10qoiERJL8Y539D4KxVGK3ccRxZTs0fBVUBT20ljY95EuRYvM0rs3r4QcR-MXuYy8D7Ym6LVn_jMraqimUeAp_9RuKfNvkMMqZ--fa8to8__-PWX0eUmbz2CdYAA.webp",
-    "link": "https://www.91mobiles.com/list-of-laptops/16gb-ram-laptops-under-50000",
-    "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAV6fptJQYNmDCIvLdx1hQQVvH1l5E4HPnzxlR2jC6ofshMcWzxEzcD7PFier4xMsxPmvKbfdN-zPnyWwIkO44VrbICy7H2uXpz1LEwj-taMKYoVpHDt-iiEBT4kxmBq83SLQOMe5F8eDjjwpBx8G_CyQKkBLnl6X5e2A&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQFnoECB8QAQ&uoh=1",
-    "snippet": "Top 5 16GB Ram Laptops Under 50000 with Prices & Specs · Acer Aspire 15 AS15-42 (UN. · MSI Modern 14 C7M-283IN Laptop · MSI Modern 14 C7M-400IN Laptop · Acer Aspire ...",
-    "snippet_highlighted_words": [
-     "Acer Aspire 15 AS15-42"
-    ],
-    "source": "91Mobiles",
-    "title": "16GB Ram Laptops Under 50000 in India (Sep 2026)"
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "... laptop for both gaming and productivity at a budget price. If you prioritize vibrant visuals and content consumption, the ASUS Vivobook OLED ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "أكثر من 1.6 مليون مشاهدة · قبل سنة واحدة",
-    "duration": "16:26",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=6LIOTBGxtGI",
-    "position": 4,
-    "snippet": "... laptop for both gaming and productivity at a budget price. If you prioritize vibrant visuals and content consumption, the ASUS Vivobook OLED ...",
-    "source": "YouTube · Tech Burner",
-    "thumbnail": "https://serpapi.com/searches/6aafc3b2abe7ec5dc31364b9/images/WT1Os_gJdUlCDIwdNdhYC5y6idsGxcttyruSqJjfZoE.jpeg",
-    "title": "5 Best Laptops Under ₹50000 – Don't Make Mistake !",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRVZ0BKfibHHows5RZlKO1xp_FggvgnIakRjQ"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "Acer's best laptops under ₹50000, designed for gaming, programming, and more. Get high performance at an unbeatable price.",
-      "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAADwAQCdASoQABAAAsBMJbACdAD0jiOhmQAA_vo4mK-dX6-3UngmBjWJHW0vb4WRSoql1nvO1DLkvkrQ_4C1d4oWTyN32Je3OXa19m2n9kWloEgJ0VfGQ8-abDfXmVc1gjNAxmbFwDXntGnCa0pewPrmNWs73uWZN79m7nssRGus5UdI3dAAAA.webp",
-      "source_info_link": "https://store.acer.com/en-in/best-laptop-under-50000?srsltid=AU7gw4VL7x_dNkHzXLiDXWZDuV3Rfl-lf4iQSrd_JcoSlbQeStR-arYF"
-     }
-    },
-    "displayed_link": "https://store.acer.com › en-in › best-l...",
-    "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAADwAQCdASoQABAAAsBMJbACdAD0jiOhmQAA_vo4mK-dX6-3UngmBjWJHW0vb4WRSoql1nvO1DLkvkrQ_4C1d4oWTyN32Je3OXa19m2n9kWloEgJ0VfGQ8-abDfXmVc1gjNAxmbFwDXntGnCa0pewPrmNWs73uWZN79m7nssRGus5UdI3dAAAA.webp",
-    "link": "https://store.acer.com/en-in/best-laptop-under-50000?srsltid=AU7gw4VL7x_dNkHzXLiDXWZDuV3Rfl-lf4iQSrd_JcoSlbQeStR-arYF",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFZ-mSx-snIVhsKaRI77bTa5Sph1oJVdX0bSVG87fRqPa4I7XKmYlJYl-loeuC84Jhjy4hBJSNwJHkytvCD_4saj3Arc-crw0YsMc5G_BaK1tghSPw6yV0tOP9VPgugYYqt_HAU402Fu-JYfTvO1nSJKnS4pAaGpZuxbnyqoq29U5IAKBwzEi6gBtg_xuA5X290Vov1V4k8i-KmW4_9Lxnfk5ffQij6sVug&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQFnoECCAQAQ&uoh=1",
-    "snippet": "Acer's best laptops under ₹50000, designed for gaming, programming, and more. Get high performance at an unbeatable price.",
-    "snippet_highlighted_words": [
-     "Acer's best laptops under ₹50000"
-    ],
-    "source": "Acer Store",
-    "title": "best laptop under 50000"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "My eyes are on Acer Aspire 7, Intel 12th gen, GTX 1650, 8GB RAM. Adding another 8GB stick would make it better. It's 55k something but I guess ...",
+      "description": "I got acer alg for 52k. Rtx3050 ,6gb vram,and a lighter laptop than asus tuf. You can check it out.",
       "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-      "source_info_link": "https://www.reddit.com/r/india/comments/y4frqo/whats_the_best_laptop_right_now_in_india_in_under/"
+      "source_info_link": "https://www.reddit.com/r/IndiaTechnology/comments/1q79msn/which_laptops_are_good_for_gaming_50k_budget/"
      }
     },
-    "displayed_link": "أكثر من 50 تعليق · قبل 3 سنوات",
+    "displayed_link": "20+ comments · 8 months ago",
     "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-    "link": "https://www.reddit.com/r/india/comments/y4frqo/whats_the_best_laptop_right_now_in_india_in_under/",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFReK1slLwRsyJYaq83I1Z3qzfBzo6L36RXWoJcBAWZ8XWaXcuskcZKq8LrFhZuo3106avrU8Jw0MEkWr_ZTFdxgKOGDvnv9GqLvve8SpkaXnWc506-avZDjx233koL-v-nDul3VD22WE98SXff3z1_yDbXgP99Rx2PLKT5WcO4F-QhVRdxn3Vsst27lZVjbwiSEf3XE&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQFnoECCgQAQ&uoh=1",
-    "snippet": "Priorities include * Long battery life * Good screen quality * Shouldn't lag after a year or 2 of usuage. * Good build quality.",
-    "source": "Reddit · r/india",
-    "title": "What's the best laptop right now in India in under 50k and ..."
+    "link": "https://www.reddit.com/r/IndiaTechnology/comments/1q79msn/which_laptops_are_good_for_gaming_50k_budget/",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEB6zswFUJ4qAfTl1VDdybPV5Ab0c0jg1B2adb45e65SKwajSWe6ssAffn2a2WtC3PG6YM4JYerCnFLqocHq5XTIEXn9ZLmANZKvKzhf815GyNQNvGgYMZugdoMUREJYJU741FoLWMQ2XZlyI-iOUXY_IcEdPu2tIszLTLZCGZIlyjUeGzoIBzd0bQVLWJe3ospjlLZpLXAfzGIta48DCbBPx0&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQFnoECCEQAQ&uoh=1",
+    "snippet": "I am looking for good gaming laptops probably with good battery life and performance for the price. If there is anything slightly over 50 also no problem. ...",
+    "source": "Reddit · r/IndiaTechnology",
+    "title": "Which laptops are good for gaming 50k budget"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvACL2dvdG8_dXJsPUNBRVNod0lCNnpzd0ZTdW5kWWZCLVVaNl9QNGZKLWhwZGtvVXJfN1pNVW9aMTZWU2FlV2pNT3h4WjhDN0JJeHV3VVRWUnJpX09nX2taYnEwR3UtZnFmU1lIOHRTMXdfVUlaX0dDd1ZsUmFrWDNJWTZrRnlZby01cUxaVkIzYWlLczFMZ2tubjlWOGxXWnMzZFlaSjlLQm9LRFF1MHFsVlh5WVZmM3FlMHcyaGlaSVZfU3F0Nmw0eVpLci1pbnNPSEE1amx0V1lQNjBabWZYS1pZRkthT0VlTjNFU2QwbEVwVHRrcW9INWxmOGVRZ3Etdm03UzVoS04yc0dMU1JRcGlTWG5vY1VzdFBWNnpzS25UWEVvV25ySWpXZzl4cXBFeFB1NGVUb0doNFl1ZkFXRW05NE5fQXN0aFV2Tl91SUtVQjBBb1NxbGJPVkp2UF9KOXRsbHdoR2MyU1JQQ1pjZDhsTUg4M3cSBBoCCAAakQcSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDrBggAEAAYACAAKiQKB2xhcHRvcHMVeNABQBoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFccIAj8qLQoFdW5kZXIV90zbQBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBX3TNtAGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRUjzhtAGgdpbmRpYSdzMvACL2dvdG8_dXJsPUNBRVNod0lCNnpzd0ZTdW5kWWZCLVVaNl9QNGZKLWhwZGtvVXJfN1pNVW9aMTZWU2FlV2pNT3h4WjhDN0JJeHV3VVRWUnJpX09nX2taYnEwR3UtZnFmU1lIOHRTMXdfVUlaX0dDd1ZsUmFrWDNJWTZrRnlZby01cUxaVkIzYWlLczFMZ2tubjlWOGxXWnMzZFlaSjlLQm9LRFF1MHFsVlh5WVZmM3FlMHcyaGlaSVZfU3F0Nmw0eVpLci1pbnNPSEE1amx0V1lQNjBabWZYS1pZRkthT0VlTjNFU2QwbEVwVHRrcW9INWxmOGVRZ3Etdm03UzVoS04yc0dMU1JRcGlTWG5vY1VzdFBWNnpzS25UWEVvV25ySWpXZzl4cXBFeFB1NGVUb0doNFl1ZkFXRW05NE5fQXN0aFV2Tl91SUtVQjBBb1NxbGJPVkp2UF9KOXRsbHdoR2MyU1JQQ1pjZDhsTUg4M3c6QkJlc3QgPGI-TGFwdG9wIFVuZGVyIFJzIDUwLDAwMDwvYj46IEZyb20gRGVsbCAxNSBUbyBNU0kgTW9kZXJuIC4uLkKmAUZyb20gRGVsbCAxNSBUbyBNU0kgTW9kZXJuIDE0ICZhbXA7IE1vcmUuIDxiPkhQIDE1cywgUnl6ZW4gNS01NTAwVSwgMTZHQiBSQU0vNTEyR0IgU1NEPC9iPi4gRnJvbSBEZWxsIDE1IFRvIE1TSSBNb2Rlcm4gMTQgJmFtcDsgTW9yZSBEaXNjb3VudGVkIFByaWNlOiA0NCw0OTAmbmJzcDsuLi5SAm9uUgR3aXRoIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvACL2dvdG8_dXJsPUNBRVNod0lCNnpzd0ZTdW5kWWZCLVVaNl9QNGZKLWhwZGtvVXJfN1pNVW9aMTZWU2FlV2pNT3h4WjhDN0JJeHV3VVRWUnJpX09nX2taYnEwR3UtZnFmU1lIOHRTMXdfVUlaX0dDd1ZsUmFrWDNJWTZrRnlZby01cUxaVkIzYWlLczFMZ2tubjlWOGxXWnMzZFlaSjlLQm9LRFF1MHFsVlh5WVZmM3FlMHcyaGlaSVZfU3F0Nmw0eVpLci1pbnNPSEE1amx0V1lQNjBabWZYS1pZRkthT0VlTjNFU2QwbEVwVHRrcW9INWxmOGVRZ3Etdm03UzVoS04yc0dMU1JRcGlTWG5vY1VzdFBWNnpzS25UWEVvV25ySWpXZzl4cXBFeFB1NGVUb0doNFl1ZkFXRW05NE5fQXN0aFV2Tl91SUtVQjBBb1NxbGJPVkp2UF9KOXRsbHdoR2MyU1JQQ1pjZDhsTUg4M3cSBBoCCAAakQcSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDrBggAEAAYACAAKiQKB2xhcHRvcHMVeNABQBoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFccIAj8qLQoFdW5kZXIV90zbQBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBX3TNtAGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRUjzhtAGgdpbmRpYSdzMvACL2dvdG8_dXJsPUNBRVNod0lCNnpzd0ZTdW5kWWZCLVVaNl9QNGZKLWhwZGtvVXJfN1pNVW9aMTZWU2FlV2pNT3h4WjhDN0JJeHV3VVRWUnJpX09nX2taYnEwR3UtZnFmU1lIOHRTMXdfVUlaX0dDd1ZsUmFrWDNJWTZrRnlZby01cUxaVkIzYWlLczFMZ2tubjlWOGxXWnMzZFlaSjlLQm9LRFF1MHFsVlh5WVZmM3FlMHcyaGlaSVZfU3F0Nmw0eVpLci1pbnNPSEE1amx0V1lQNjBabWZYS1pZRkthT0VlTjNFU2QwbEVwVHRrcW9INWxmOGVRZ3Etdm03UzVoS04yc0dMU1JRcGlTWG5vY1VzdFBWNnpzS25UWEVvV25ySWpXZzl4cXBFeFB1NGVUb0doNFl1ZkFXRW05NE5fQXN0aFV2Tl91SUtVQjBBb1NxbGJPVkp2UF9KOXRsbHdoR2MyU1JQQ1pjZDhsTUg4M3c6QkJlc3QgPGI-TGFwdG9wIFVuZGVyIFJzIDUwLDAwMDwvYj46IEZyb20gRGVsbCAxNSBUbyBNU0kgTW9kZXJuIC4uLkKmAUZyb20gRGVsbCAxNSBUbyBNU0kgTW9kZXJuIDE0ICZhbXA7IE1vcmUuIDxiPkhQIDE1cywgUnl6ZW4gNS01NTAwVSwgMTZHQiBSQU0vNTEyR0IgU1NEPC9iPi4gRnJvbSBEZWxsIDE1IFRvIE1TSSBNb2Rlcm4gMTQgJmFtcDsgTW9yZSBEaXNjb3VudGVkIFByaWNlOiA0NCw0OTAmbmJzcDsuLi5SAm9uUgR3aXRoIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Laptops under Rs. 50,000 - Price list with features and specifications · 1. Lenovo ThinkBook 16 21MWA0BSIN · 2. Dell Inspiron 3530 OIN353034071RINS1M · 3. Lenovo ...",
-      "icon": "https://serpapi.com/images/i/UklGRtwBAABXRUJQVlA4INABAABQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0y43mfmfFUu9wIttfdpO8y1zjVa6QNIEzJu8imf9MvAnulK3N_jF85cYlayvvsox9bjEvslCegAAD--Ln0Ed929_1DRx7CEW_S5r9iR3a0H_NFCV76pRSyglPX5X4orvtucUbVR03HYQRZ23A0zkx0sduWMwqY4t23qN1MBIkxw512JQJ7puYcFqyl4RGYEWIFsdDhLNmUOswYjSEm6fAZOs1NY5ojAoHTNNLIr7X_ocHHJSh_O9HSUgBLBITNCgqk2P1CmdQPT1MgqNGoXuPqjsJLk_WNlMyiurpcSTgbfP9XvibnyD902MLWe3MsAWWL6f7MR9udyJ20H8t7uaVy2PSh_rbEVQ23S6E7Kakacw21tG2FNHd6L4TqCH52VbWAp5u_RCrY7VkOLv3-OtcVeffJXUfMPfx_SfSaapsWTIz4cfjQSvVmbylooYjb1LQX_GcurCga2JWMHwJ7FLD0y4AXMUf08P3f7e9SLv4-s0OylD0evjkFJXBD-ZXz_mP03Udy0Kj_pxxi43cRnNfsX7RV1n4YPxGs-X9XDdZX4czqPWPBW2TlfrofabvHWyooswAAAA.webp",
-      "source_info_link": "https://www.bajajfinserv.in/insights/best-laptop-under-50000"
+      "description": "From Dell 15 To MSI Modern 14 & More. HP 15s, Ryzen 5-5500U, 16GB RAM/512GB SSD. From Dell 15 To MSI Modern 14 & More Discounted Price: 44,490 ...",
+      "icon": "https://serpapi.com/images/i/UklGRrQAAABXRUJQVlA4IKgAAAAQBACdASoQABAAAsBMJbACdD2AOAA6TP9dCaDeJ1MAOA_rM_UUVudjgAD--q36cyROZpDg4-qVPRK8OLQGwZczXEmyAxJGOmbjBn4jLl898LIXPRgdC3H4BistOHJJYvQQ9T3nyK8qHbAt_TmG1TGVSxZps7JBEeoOozgTVTpa9Yoge_78P4Trpf-k1A7t7Rhe__M1BC9-8qrF5qOf_5XD_PrFRVClcAA.webp",
+      "source_info_link": "https://news.abplive.com/technology/gadgets/best-laptop-under-50000-rs-buy-discount-lucrative-deals-price-in-india-specifications-hp-dell-msi-asus-lenovo-2024-i7-i5-for-students-gaming-office-use-1690645"
      }
     },
-    "displayed_link": "https://www.bajajfinserv.in › insights",
-    "favicon": "https://serpapi.com/images/i/UklGRtwBAABXRUJQVlA4INABAABQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0y43mfmfFUu9wIttfdpO8y1zjVa6QNIEzJu8imf9MvAnulK3N_jF85cYlayvvsox9bjEvslCegAAD--Ln0Ed929_1DRx7CEW_S5r9iR3a0H_NFCV76pRSyglPX5X4orvtucUbVR03HYQRZ23A0zkx0sduWMwqY4t23qN1MBIkxw512JQJ7puYcFqyl4RGYEWIFsdDhLNmUOswYjSEm6fAZOs1NY5ojAoHTNNLIr7X_ocHHJSh_O9HSUgBLBITNCgqk2P1CmdQPT1MgqNGoXuPqjsJLk_WNlMyiurpcSTgbfP9XvibnyD902MLWe3MsAWWL6f7MR9udyJ20H8t7uaVy2PSh_rbEVQ23S6E7Kakacw21tG2FNHd6L4TqCH52VbWAp5u_RCrY7VkOLv3-OtcVeffJXUfMPfx_SfSaapsWTIz4cfjQSvVmbylooYjb1LQX_GcurCga2JWMHwJ7FLD0y4AXMUf08P3f7e9SLv4-s0OylD0evjkFJXBD-ZXz_mP03Udy0Kj_pxxi43cRnNfsX7RV1n4YPxGs-X9XDdZX4czqPWPBW2TlfrofabvHWyooswAAAA.webp",
-    "link": "https://www.bajajfinserv.in/insights/best-laptop-under-50000",
-    "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVr6g_UjCsU2scMvABJSDcvOfOL8XwXWLlNGE5DD3W0fN5nnqesOnKHhx5oAnAyUzDSY_f7AiwWXP8tnlqJYhw4WQnowusRRQB5s15XN7NbjaG6XZbUJ-ZZYNidopUORXBqukWKUovRWd6TkwRzYB6&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQFnoECDgQAQ&uoh=1",
-    "snippet": "Laptops under Rs. 50,000 - Price list with features and specifications · 1. Lenovo ThinkBook 16 21MWA0BSIN · 2. Dell Inspiron 3530 OIN353034071RINS1M · 3. Lenovo ...",
+    "date": "May 27, 2024",
+    "displayed_link": "https://news.abplive.com › Technology › Gadgets",
+    "favicon": "https://serpapi.com/images/i/UklGRrQAAABXRUJQVlA4IKgAAAAQBACdASoQABAAAsBMJbACdD2AOAA6TP9dCaDeJ1MAOA_rM_UUVudjgAD--q36cyROZpDg4-qVPRK8OLQGwZczXEmyAxJGOmbjBn4jLl898LIXPRgdC3H4BistOHJJYvQQ9T3nyK8qHbAt_TmG1TGVSxZps7JBEeoOozgTVTpa9Yoge_78P4Trpf-k1A7t7Rhe__M1BC9-8qrF5qOf_5XD_PrFRVClcAA.webp",
+    "link": "https://news.abplive.com/technology/gadgets/best-laptop-under-50000-rs-buy-discount-lucrative-deals-price-in-india-specifications-hp-dell-msi-asus-lenovo-2024-i7-i5-for-students-gaming-office-use-1690645",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwIB6zswFSundYfB-UZ6_P4fJ-hpdkoUr_7ZMUoZ16VSaeWjMOxxZ8C7BIxuwUTVRri_Og_kZbq0Gu-fqfSYH8tS1w_UIZ_GCwVlRakX3IY6kFyYo-5qLZVB3aiKs1Lgknn9V8lWZs3dYZJ9KBoKDQu0qlVXyYVf3qe0w2hiZIV_Sqt6l4yZKr-insOHA5jltWYP60ZmfXKZYFKaOEeN3ESd0lEpTtkqoH5lf8eQgq-vm7S5hKN2sGLSRQpiSXnocUstPV6zsKnTXEoWnrIjWg9xqpExPu4eToGh4YufAWEm94N_AsthUvN_uIKUB0AoSqlbOVJvP_J9tllwhGc2SRPCZcd8lMH83w&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQFnoECCcQAQ&uoh=1",
+    "snippet": "From Dell 15 To MSI Modern 14 & More. HP 15s, Ryzen 5-5500U, 16GB RAM/512GB SSD. From Dell 15 To MSI Modern 14 & More Discounted Price: 44,490 ...",
     "snippet_highlighted_words": [
-     "1. Lenovo ThinkBook 16 21MWA0BSIN"
+     "HP 15s, Ryzen 5-5500U, 16GB RAM/512GB SSD"
     ],
-    "source": "Bajaj Finserv",
-    "title": "Best Laptops under Rs. 50000 in India"
+    "source": "ABP Live English",
+    "thumbnail": "https://serpapi.com/searches/6abd1dddb13aa70ca8cdbf18/images/qmYQFGty1fRjkK7zULfCuYR_DvmXFBpqaAr3Ms25bNg.jpeg",
+    "title": "Best Laptop Under Rs 50000: From Dell 15 To MSI ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvYCL2dvdG8_dXJsPUNBRVNqQUlCNnpzd0ZkeFU1WTRMTF9hQzBJdEduaHdxRXV2b3lrdUF2anpGMjMtQWZOSHhhTTJCdGNQODFjNFlxWTF0eXNLWFppQXh1VngxZGhNMTE5ejRZUG1zcTQ5VkV1aW9CVl93MTZpa1RPRm92TjNPaG5VdTBjODg0b1o3b3BoUHdqWnBjOWgycElTM2tpb1RyTzdzYTFPbXpXQWhWVThxUlZiRG5rOXd6S01OYUtJY3gwZkcyU3h2OElYbXFWX185OF80ZFJydHNTUFgwOHVwWDAwVEVsQWNuV0U0TzBXa2hMdnQyMGhrQ3IwRW1LVGFUeDBUTGlXYkxxLXdfWmZST2ppUGtDYnFZdV85RzVTZVVxN0FFR084SnJncUdWNjVHekQ3YzNMcXFJN2hSNGkwNmp0dWI2bEtYajFTellMbmgtMDBSVE9IOFNqMmd4ZjN1UmdsRGFxR19pd1Z4Z3o4WU5QSDdwa3kSBBoCCAAangcSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkD4BggAEAAYACAAKiQKB2xhcHRvcHMVpNSfQBoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFTBbHD8qLQoFdW5kZXIVjPWoQBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBWM9ahAGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRXWf2c_GgdpbmRpYSdzMvYCL2dvdG8_dXJsPUNBRVNqQUlCNnpzd0ZkeFU1WTRMTF9hQzBJdEduaHdxRXV2b3lrdUF2anpGMjMtQWZOSHhhTTJCdGNQODFjNFlxWTF0eXNLWFppQXh1VngxZGhNMTE5ejRZUG1zcTQ5VkV1aW9CVl93MTZpa1RPRm92TjNPaG5VdTBjODg0b1o3b3BoUHdqWnBjOWgycElTM2tpb1RyTzdzYTFPbXpXQWhWVThxUlZiRG5rOXd6S01OYUtJY3gwZkcyU3h2OElYbXFWX185OF80ZFJydHNTUFgwOHVwWDAwVEVsQWNuV0U0TzBXa2hMdnQyMGhrQ3IwRW1LVGFUeDBUTGlXYkxxLXdfWmZST2ppUGtDYnFZdV85RzVTZVVxN0FFR084SnJncUdWNjVHekQ3YzNMcXFJN2hSNGkwNmp0dWI2bEtYajFTellMbmgtMDBSVE9IOFNqMmd4ZjN1UmdsRGFxR19pd1Z4Z3o4WU5QSDdwa3k6R0Jlc3QgPGI-TGFwdG9wcyBVbmRlciBScyA1MCwwMDA8L2I-IEZvciBBcnRpZmljaWFsIEludGVsbGlnZW5jZSBhbmQgLi4uQqgBVG9wIFBpY2tzIEZyb20gTGVub3ZvLCBIUCwgQWNlciwgYW5kIE1vcmUuIExlbm92byBUaGlua1BhZCBFMTQgQU1EIFJ5emVuIDUg4oCmIGlzIDxiPmF2YWlsYWJsZTwvYj4gYXQgPGI-UnM8L2I-IDQ3LDk5MC4gQVNVUyBWaXZvYm9vayBHbyAxNSAoMjAyMykgTGVub3ZvIFYxNCBHJm5ic3A7Li4uUgJvblIEd2l0aCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvYCL2dvdG8_dXJsPUNBRVNqQUlCNnpzd0ZkeFU1WTRMTF9hQzBJdEduaHdxRXV2b3lrdUF2anpGMjMtQWZOSHhhTTJCdGNQODFjNFlxWTF0eXNLWFppQXh1VngxZGhNMTE5ejRZUG1zcTQ5VkV1aW9CVl93MTZpa1RPRm92TjNPaG5VdTBjODg0b1o3b3BoUHdqWnBjOWgycElTM2tpb1RyTzdzYTFPbXpXQWhWVThxUlZiRG5rOXd6S01OYUtJY3gwZkcyU3h2OElYbXFWX185OF80ZFJydHNTUFgwOHVwWDAwVEVsQWNuV0U0TzBXa2hMdnQyMGhrQ3IwRW1LVGFUeDBUTGlXYkxxLXdfWmZST2ppUGtDYnFZdV85RzVTZVVxN0FFR084SnJncUdWNjVHekQ3YzNMcXFJN2hSNGkwNmp0dWI2bEtYajFTellMbmgtMDBSVE9IOFNqMmd4ZjN1UmdsRGFxR19pd1Z4Z3o4WU5QSDdwa3kSBBoCCAAangcSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkD4BggAEAAYACAAKiQKB2xhcHRvcHMVpNSfQBoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFTBbHD8qLQoFdW5kZXIVjPWoQBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBWM9ahAGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRXWf2c_GgdpbmRpYSdzMvYCL2dvdG8_dXJsPUNBRVNqQUlCNnpzd0ZkeFU1WTRMTF9hQzBJdEduaHdxRXV2b3lrdUF2anpGMjMtQWZOSHhhTTJCdGNQODFjNFlxWTF0eXNLWFppQXh1VngxZGhNMTE5ejRZUG1zcTQ5VkV1aW9CVl93MTZpa1RPRm92TjNPaG5VdTBjODg0b1o3b3BoUHdqWnBjOWgycElTM2tpb1RyTzdzYTFPbXpXQWhWVThxUlZiRG5rOXd6S01OYUtJY3gwZkcyU3h2OElYbXFWX185OF80ZFJydHNTUFgwOHVwWDAwVEVsQWNuV0U0TzBXa2hMdnQyMGhrQ3IwRW1LVGFUeDBUTGlXYkxxLXdfWmZST2ppUGtDYnFZdV85RzVTZVVxN0FFR084SnJncUdWNjVHekQ3YzNMcXFJN2hSNGkwNmp0dWI2bEtYajFTellMbmgtMDBSVE9IOFNqMmd4ZjN1UmdsRGFxR19pd1Z4Z3o4WU5QSDdwa3k6R0Jlc3QgPGI-TGFwdG9wcyBVbmRlciBScyA1MCwwMDA8L2I-IEZvciBBcnRpZmljaWFsIEludGVsbGlnZW5jZSBhbmQgLi4uQqgBVG9wIFBpY2tzIEZyb20gTGVub3ZvLCBIUCwgQWNlciwgYW5kIE1vcmUuIExlbm92byBUaGlua1BhZCBFMTQgQU1EIFJ5emVuIDUg4oCmIGlzIDxiPmF2YWlsYWJsZTwvYj4gYXQgPGI-UnM8L2I-IDQ3LDk5MC4gQVNVUyBWaXZvYm9vayBHbyAxNSAoMjAyMykgTGVub3ZvIFYxNCBHJm5ic3A7Li4uUgJvblIEd2l0aCICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Top Picks From Lenovo, HP, Acer, and More. Lenovo ThinkPad E14 AMD Ryzen 5 … is available at Rs 47,990. ASUS Vivobook Go 15 (2023) Lenovo V14 G ...",
+      "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAAAQBQCdASocABwAPtFAtFooIqgoFAEAGglsALYWXAA9xfFD564NNEiO1fw7v6c7ZMMAAP7wehB6_4pP6hyHq_3o9uLQr9DVqobylRuKO2-8z3FqHiam6w_9eAZR-kq6YUD_tsb2Ip-Tf_pOx8_05GpK4I08U6l6aDv_oJB0oVScHgneukgvn3ZvssEUxyX_dir5Ab_To__kN8__4yZHIKO9o1Uzjk9LFigsRqpRf_fRr8zPncvkV94yClvwhCd24AA.webp",
+      "source_info_link": "https://www.techlusive.in/photo-gallery/best-laptops-under-rs-50000-for-artificial-intelligence-and-programming-check-out-specifications-india-price-availability-deals-discounts-where-to-buy-and-more-1554944/"
+     }
+    },
+    "date": "Apr 15, 2025",
+    "displayed_link": "https://www.techlusive.in › Photos",
+    "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAAAQBQCdASocABwAPtFAtFooIqgoFAEAGglsALYWXAA9xfFD564NNEiO1fw7v6c7ZMMAAP7wehB6_4pP6hyHq_3o9uLQr9DVqobylRuKO2-8z3FqHiam6w_9eAZR-kq6YUD_tsb2Ip-Tf_pOx8_05GpK4I08U6l6aDv_oJB0oVScHgneukgvn3ZvssEUxyX_dir5Ab_To__kN8__4yZHIKO9o1Uzjk9LFigsRqpRf_fRr8zPncvkV94yClvwhCd24AA.webp",
+    "link": "https://www.techlusive.in/photo-gallery/best-laptops-under-rs-50000-for-artificial-intelligence-and-programming-check-out-specifications-india-price-availability-deals-discounts-where-to-buy-and-more-1554944/",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAIB6zswFdxU5Y4LL_aC0ItGnhwqEuvoykuAvjzF23-AfNHxaM2BtcP81c4YqY1tysKXZiAxuVx1dhM119z4YPmsq49VEuioBV_w16ikTOFovN3OhnUu0c884oZ7ophPwjZpc9h2pIS3kioTrO7sa1OmzWAhVU8qRVbDnk9wzKMNaKIcx0fG2Sxv8IXmqV__98_4dRrtsSPX08upX00TElAcnWE4O0WkhLvt20hkCr0EmKTaTx0TLiWbLq-w_ZfROjiPkCbqYu_9G5SeUq7AEGO8JrgqGV65GzD7c3LqqI7hR4i06jtub6lKXj1SzYLnh-00RTOH8Sj2gxf3uRglDaqG_iwVxgz8YNPH7pky&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQFnoECBsQAQ&uoh=1",
+    "snippet": "Top Picks From Lenovo, HP, Acer, and More. Lenovo ThinkPad E14 AMD Ryzen 5 … is available at Rs 47,990. ASUS Vivobook Go 15 (2023) Lenovo V14 G ...",
+    "snippet_highlighted_words": [
+     "available",
+     "Rs"
+    ],
+    "source": "Techlusive",
+    "thumbnail": "https://serpapi.com/searches/6abd1dddb13aa70ca8cdbf18/images/qmYQFGty1fRjkK7zULfCuWRP8fwnFrpUbqGV4QK_PPc.jpeg",
+    "title": "Best Laptops Under Rs 50000 For Artificial Intelligence ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZkQnFyRWtCVUhvYkMtZUhIMnJCN1N0aTZKNHdWY1lYQnZZZFZTcTdZM1NCWC1pRnZyR3hudU1nMi1GeVdzLUVmdG50aC1HVi1iYWdXZGJjYkh3RnNIdE5NWW1pSU8wVVhBSzVCczdtWFVOQ3pvSTk1WWxwTkc3MzRVXzVIWm5tcERHbEhtUWZaN3lMVnA5S2ZidTZSblVpREUycFVmQTB4cDZXZkZwcFpfNnpFZ0JfdUtFWXNhUzlWT0J4ajZSekd5SWpKMG0zWnYzZUtzOBIEGgIIABqqBhIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCGBggAEAAYACAAKiQKB2xhcHRvcHMVfSDkPxoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFZeaFz8qLQoFdW5kZXIVbGG6QBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBXN0ZJAGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVQdUxPxoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRVfRzg_GgdpbmRpYSdzMuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZkQnFyRWtCVUhvYkMtZUhIMnJCN1N0aTZKNHdWY1lYQnZZZFZTcTdZM1NCWC1pRnZyR3hudU1nMi1GeVdzLUVmdG50aC1HVi1iYWdXZGJjYkh3RnNIdE5NWW1pSU8wVVhBSzVCczdtWFVOQ3pvSTk1WWxwTkc3MzRVXzVIWm5tcERHbEhtUWZaN3lMVnA5S2ZidTZSblVpREUycFVmQTB4cDZXZkZwcFpfNnpFZ0JfdUtFWXNhUzlWT0J4ajZSekd5SWpKMG0zWnYzZUtzODpOV2hpY2ggaXMgdGhlIGJlc3QgPGI-bGFwdG9wIHVuZGVyIFJzPC9iPi4gPGI-NTAsMDAwPC9iPiBmb3IgY29kaW5nIC4uLiAtIFF1b3JhQsABPGI-QWNlciBBc3BpcmUgMyBJbnRlbCBDb3JlIGk1LTEwdGggR2VuIDE1LjY8L2I-JnF1b3Q7ICZtaWRkb3Q7IEhQIDE0IDEwdGggR2VuIEludGVsIENvcmUgaTMgMTQmcXVvdDsgJm1pZGRvdDsgSFAgMTUgMTB0aCBHZW4gSW50ZWwgQ29yZSBpMyBQcm9jZXNzb3IgMTUuNi1pbmNoICZtaWRkb3Q7IEhQIDE1IDExdGggR2VuJm5ic3A7Li4uUgJvblIEd2l0aCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZkQnFyRWtCVUhvYkMtZUhIMnJCN1N0aTZKNHdWY1lYQnZZZFZTcTdZM1NCWC1pRnZyR3hudU1nMi1GeVdzLUVmdG50aC1HVi1iYWdXZGJjYkh3RnNIdE5NWW1pSU8wVVhBSzVCczdtWFVOQ3pvSTk1WWxwTkc3MzRVXzVIWm5tcERHbEhtUWZaN3lMVnA5S2ZidTZSblVpREUycFVmQTB4cDZXZkZwcFpfNnpFZ0JfdUtFWXNhUzlWT0J4ajZSekd5SWpKMG0zWnYzZUtzOBIEGgIIABqqBhIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCGBggAEAAYACAAKiQKB2xhcHRvcHMVfSDkPxoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFZeaFz8qLQoFdW5kZXIVbGG6QBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBXN0ZJAGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVQdUxPxoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRVfRzg_GgdpbmRpYSdzMuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZkQnFyRWtCVUhvYkMtZUhIMnJCN1N0aTZKNHdWY1lYQnZZZFZTcTdZM1NCWC1pRnZyR3hudU1nMi1GeVdzLUVmdG50aC1HVi1iYWdXZGJjYkh3RnNIdE5NWW1pSU8wVVhBSzVCczdtWFVOQ3pvSTk1WWxwTkc3MzRVXzVIWm5tcERHbEhtUWZaN3lMVnA5S2ZidTZSblVpREUycFVmQTB4cDZXZkZwcFpfNnpFZ0JfdUtFWXNhUzlWT0J4ajZSekd5SWpKMG0zWnYzZUtzODpOV2hpY2ggaXMgdGhlIGJlc3QgPGI-bGFwdG9wIHVuZGVyIFJzPC9iPi4gPGI-NTAsMDAwPC9iPiBmb3IgY29kaW5nIC4uLiAtIFF1b3JhQsABPGI-QWNlciBBc3BpcmUgMyBJbnRlbCBDb3JlIGk1LTEwdGggR2VuIDE1LjY8L2I-JnF1b3Q7ICZtaWRkb3Q7IEhQIDE0IDEwdGggR2VuIEludGVsIENvcmUgaTMgMTQmcXVvdDsgJm1pZGRvdDsgSFAgMTUgMTB0aCBHZW4gSW50ZWwgQ29yZSBpMyBQcm9jZXNzb3IgMTUuNi1pbmNoICZtaWRkb3Q7IEhQIDE1IDExdGggR2VuJm5ic3A7Li4uUgJvblIEd2l0aCICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Acer Aspire 3 Intel Core i5-10th Gen 15.6\" · HP 14 10th Gen Intel Core i3 14\" · HP 15 10th Gen Intel Core i3 Processor 15.6-inch · HP 15 11th Gen ...",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "source_info_link": "https://www.quora.com/Which-is-the-best-laptop-under-Rs-50-000-for-coding-and-average-gaming-in-2023"
+     }
+    },
+    "displayed_link": "50+ answers · 3 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+    "link": "https://www.quora.com/Which-is-the-best-laptop-under-Rs-50-000-for-coding-and-average-gaming-in-2023",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFdBqrEkBUHobC-eHH2rB7Sti6J4wVcYXBvYdVSq7Y3SBX-iFvrGxnuMg2-FyWs-Eftnth-GV-bagWdbcbHwFsHtNMYmiIO0UXAK5Bs7mXUNCzoI95YlpNG734U_5HZnmpDGlHmQfZ7yLVp9Kfbu6RnUiDE2pUfA0xp6WfFppZ_6zEgB_uKEYsaS9VOBxj6RzGyIjJ0m3Zv3eKs8&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQFnoECCoQAQ&uoh=1",
+    "sitelinks": {
+     "list": [
+      {
+       "answer_count": 33,
+       "date": "Jul 27, 2020",
+       "link": "https://www.quora.com/What-is-the-best-laptop-under-Rs-1-50-000-One-Lakh-Fifty-Thousand-Rs-No-gaming-only-for-personal-uses-like-surfing-video-streaming-movies-Micosoft-office-uses-etc",
+       "title": "What is the best laptop under Rs 1,50,000 (One Lakh ..."
+      },
+      {
+       "answer_count": 59,
+       "date": "May 23, 2023",
+       "link": "https://www.quora.com/What-are-the-best-laptops-under-Rs-45-000-in-India",
+       "title": "What are the best laptops under Rs. 45,000 in India?"
+      }
+     ]
+    },
+    "snippet": "Which is the best laptop under Rs. 50,000 for coding and average gaming in 2023?",
+    "source": "Quora",
+    "title": "Which is the best laptop under Rs. 50000 for coding and ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkFwUkNQVE40QVg1RVI3YVFrUTlNRGVKcTBMWUh1azY1TDhnQm4wNGYtUUloanBzWkk2N2JybUpacF9ScVU5VXROSW5QZEpkSF9WblAzMEhKSERsRDRvS0RmTmJTeWYtQm4xRlBmQUJfeU93ak4tWWNJM1dGbEJaSmNydm96VDNGajZpdUZLcVRpbFNOVHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkFwUkNQVE40QVg1RVI3YVFrUTlNRGVKcTBMWUh1azY1TDhnQm4wNGYtUUloanBzWkk2N2JybUpacF9ScVU5VXROSW5QZEpkSF9WblAzMEhKSERsRDRvS0RmTmJTeWYtQm4xRlBmQUJfeU93ak4tWWNJM1dGbEJaSmNydm96VDNGajZpdUZLcVRpbFNOVHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
      "source": {
-      "description": "Here we covered the Best laptop under 50000 in 2026. · HP 15 Core 3 100U (i3 14th Gen) Check View Tagged Product Review: · Dell 15 Core 3 ...",
+      "description": "✅ ASUS Vivobook 16/Intel Core i5-12500H/15.6\" ✅ HP 15s Intel Core i5 12th Gen fq5330TU. MSI Modern 15 H AI, Intel 1st Gen. th Gen i5-13420H",
       "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "displayed_link": "أكثر من 49.6 ألف مشاهدة · قبل شهر واحد",
-    "duration": "9:15",
+    "displayed_link": "4.1K+ views · 1 year ago",
+    "duration": "17:01",
     "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=5JlHYePrLIA",
-    "position": 8,
-    "snippet": "Here we covered the Best laptop under 50000 in 2026. · HP 15 Core 3 100U (i3 14th Gen) Check View Tagged Product Review: · Dell 15 Core 3 ...",
-    "source": "YouTube · Tech Terminus",
-    "thumbnail": "https://serpapi.com/searches/6aafc3b2abe7ec5dc31364b9/images/WT1Os_gJdUlCDIwdNdhYC3JNXdniff-pRUOT4zMjZtw.jpeg",
-    "title": "Best Laptop Under 50000 in 2026 TOP 5 Laptops for Students ...",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSY5maBPw4ftlKZSicSZhgdq64SQTwlcB7wUw"
+    "link": "https://www.youtube.com/watch?v=Jwnp72Wc1eI&vl=en-US",
+    "missing": [
+     "rupees"
+    ],
+    "must_include": {
+     "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntVKY97ALP30SdROhL3SaeUT-Y9-g:1790778849555&q=laptops+available+under+50000+%22rupees%22+india&sa=X&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQ5t4CegQIDxAU",
+     "word": "rupees"
+    },
+    "position": 6,
+    "snippet": "✅ ASUS Vivobook 16/Intel Core i5-12500H/15.6\" ✅ HP 15s Intel Core i5 12th Gen fq5330TU. MSI Modern 15 H AI, Intel 1st Gen. th Gen i5-13420H",
+    "source": "YouTube · Fresh Tech Updates",
+    "thumbnail": "https://serpapi.com/searches/6abd1dddb13aa70ca8cdbf18/images/qmYQFGty1fRjkK7zULfCuUN67IgeQ0PQJCSB_YCeZec.jpeg",
+    "title": "Best Laptops Under ₹50000 in 2025 Top 5 ...",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSbUeE6CSzhLqhrGNbq0kdO7fdGoFq7AIFrcA"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZZNVZzcTNvckZEZXZvcER3c2lsaEtKdXlrZmp1Z1BEeXk2cVVYTk5KTzRrT0VFNW5nQkdMM1RfYkd3UFc3dXNWRzZ4b0lPUnJCNkxhX2R5WjIwOUVFOE9jOWtkTzBPTnlMYmNJQWhsSXo2aHMwMlZnS1JmN1N0MDBJWXBQZHVfMWpjSVpLSUhQdmpLYkIweXlQQzk0SHFnMjBZLThUQnZXcDk5X29RY0ZGWlF4NVZFWmhUSl9mem5idHZSS0tXS3R5UFFpcWFQcWJUcnVrN0hteHBFN0tzZDlmUDhmSnpCQy02RlAwRjRUUlRXdi1FWTVTWGdjSHJUeDVXN184UGNVbjhtEgQaAggAGrwGEgAaAggBIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAlgYIABAAGAAgACokCgdsYXB0b3BzFWTAtkAaBmxhcHRvcBoMaXY7cDtsYXB0b3BzKhAKCWF2YWlsYWJsZRUAAAAAKi0KBXVuZGVyFS00wkAaCWxlc3MgdGhhbhoCb24aBHdpdGgaCnVuZGVyNTAwMDAqRgoFNTAwMDAVvP25QBoGJDUwMDAwGgY1MCAwMDAaCzUwIHRob3VzYW5kGgM1MGsaCnVuZGVyNTAwMDAaCml2O247NTAwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVhSiWQBoHaW5kaWEnczKaAi9nb3RvP3VybD1DQUVTeHdFQjZ6c3dGWTVWc3Ezb3JGRGV2b3BEd3NpbGhLSnV5a2ZqdWdQRHl5NnFVWE5OSk80a09FRTVuZ0JHTDNUX2JHd1BXN3VzVkc2eG9JT1JyQjZMYV9keVoyMDlFRThPYzlrZE8wT055TGJjSUFobEl6NmhzMDJWZ0tSZjdTdDAwSVlwUGR1XzFqY0laS0lIUHZqS2JCMHl5UEM5NEhxZzIwWS04VEJ2V3A5OV9vUWNGRlpReDVWRVpoVEpfZnpuYnR2UktLV0t0eVBRaXFhUHFiVHJ1azdIbXhwRTdLc2Q5ZlA4Zkp6QkMtNkZQMEY0VFJUV3YtRVk1U1hnY0hyVHg1VzdfOFBjVW44bTpIVG9wIDEwIDxiPkxhcHRvcHMgVW5kZXI8L2I-IOKCuSA8Yj41MDAwMDwvYj4gaW4gPGI-SW5kaWE8L2I-IChKdW5lIDIwMjUpQqEBVG9wIDEwIExhcHRvcHMgVW5kZXIg4oK5IDUwMDAwIGluIEluZGlhICgyMDI1KTogUGlja3MgRnJvbSBCcmFuZHMgTGlrZSBIUCwgRGVsbCwgTGVub3ZvLCBhbmQgTW9yZS4gPGI-RGVsbCwgSFAsIExlbm92bywgQVNVUywgYW5kIG1vcmU8L2I-LCBvZmZlciBtb2RlbHMmbmJzcDsuLi5SAm9uUgR3aXRoIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZZNVZzcTNvckZEZXZvcER3c2lsaEtKdXlrZmp1Z1BEeXk2cVVYTk5KTzRrT0VFNW5nQkdMM1RfYkd3UFc3dXNWRzZ4b0lPUnJCNkxhX2R5WjIwOUVFOE9jOWtkTzBPTnlMYmNJQWhsSXo2aHMwMlZnS1JmN1N0MDBJWXBQZHVfMWpjSVpLSUhQdmpLYkIweXlQQzk0SHFnMjBZLThUQnZXcDk5X29RY0ZGWlF4NVZFWmhUSl9mem5idHZSS0tXS3R5UFFpcWFQcWJUcnVrN0hteHBFN0tzZDlmUDhmSnpCQy02RlAwRjRUUlRXdi1FWTVTWGdjSHJUeDVXN184UGNVbjhtEgQaAggAGrwGEgAaAggBIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAlgYIABAAGAAgACokCgdsYXB0b3BzFWTAtkAaBmxhcHRvcBoMaXY7cDtsYXB0b3BzKhAKCWF2YWlsYWJsZRUAAAAAKi0KBXVuZGVyFS00wkAaCWxlc3MgdGhhbhoCb24aBHdpdGgaCnVuZGVyNTAwMDAqRgoFNTAwMDAVvP25QBoGJDUwMDAwGgY1MCAwMDAaCzUwIHRob3VzYW5kGgM1MGsaCnVuZGVyNTAwMDAaCml2O247NTAwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVhSiWQBoHaW5kaWEnczKaAi9nb3RvP3VybD1DQUVTeHdFQjZ6c3dGWTVWc3Ezb3JGRGV2b3BEd3NpbGhLSnV5a2ZqdWdQRHl5NnFVWE5OSk80a09FRTVuZ0JHTDNUX2JHd1BXN3VzVkc2eG9JT1JyQjZMYV9keVoyMDlFRThPYzlrZE8wT055TGJjSUFobEl6NmhzMDJWZ0tSZjdTdDAwSVlwUGR1XzFqY0laS0lIUHZqS2JCMHl5UEM5NEhxZzIwWS04VEJ2V3A5OV9vUWNGRlpReDVWRVpoVEpfZnpuYnR2UktLV0t0eVBRaXFhUHFiVHJ1azdIbXhwRTdLc2Q5ZlA4Zkp6QkMtNkZQMEY0VFJUV3YtRVk1U1hnY0hyVHg1VzdfOFBjVW44bTpIVG9wIDEwIDxiPkxhcHRvcHMgVW5kZXI8L2I-IOKCuSA8Yj41MDAwMDwvYj4gaW4gPGI-SW5kaWE8L2I-IChKdW5lIDIwMjUpQqEBVG9wIDEwIExhcHRvcHMgVW5kZXIg4oK5IDUwMDAwIGluIEluZGlhICgyMDI1KTogUGlja3MgRnJvbSBCcmFuZHMgTGlrZSBIUCwgRGVsbCwgTGVub3ZvLCBhbmQgTW9yZS4gPGI-RGVsbCwgSFAsIExlbm92bywgQVNVUywgYW5kIG1vcmU8L2I-LCBvZmZlciBtb2RlbHMmbmJzcDsuLi5SAm9uUgR3aXRoIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Several reliable brands in India offer the best laptops under Rs. 50,000, catering to students, professionals, and everyday users. HP, Lenovo, Dell, ASUS, Acer, ...",
-      "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAwBQCdASocABwAPtEutFooIagoGAEAGgloADUACnpE4HZXYhE0VhtchpmXwC26H8dvcADUoemYYHlmtK-dgpjrPRXoAjHrXcNVBKGfRUBcwlXtV3RpfbJAa9__UaAud3ylveIZk7_smq3xlo-1GjEuVNxhRhYlD0dt9hF0ksiKk3vkUn4vcvhKQjDb2yJ0G9Lxh_CepCLVkrXBxlhjQo6f7sXWc4K6qs7z2t9y36YmKMUEXgwgoWdY3cddnh468xjid4ahiqdwhvqFQNEwEc_86Q_9IO_l9icCOV-WFSUMY8iU4YElDaAA.webp",
-      "source_info_link": "https://www.croma.com/clp/best-laptops-between-30000-to-50000?srsltid=AU7gw4UkrMPCQuSStjsWU1Qr18tvEzsD6-3yrgvJGiagS7AB2SzJgLnx"
+      "description": "Top 10 Laptops Under ₹ 50000 in India (2025): Picks From Brands Like HP, Dell, Lenovo, and More. Dell, HP, Lenovo, ASUS, and more, offer models ...",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAL9ndxQA8EmP_C_CcVE94if-qdEa2t3qUe0mhTj0zjAA_vYQqYCiXdvgqYUscbkIDOe_QhzVp_Zm0FIPVBbVcg0MpFk9yOph6eTFtuM7gI0VME3uG4z7L7d23TKsY6VQRsyGFFFXL1dx78JbAlIf_-H-Hj6rjB3iLQecnx_gflWjpvRdtBWUBuzVL2zHFMa9-WiSYwsrZcSAycoFYBzhqj_7cftJZGdP42xgsbFwAXRrEm7LASFeympqt_aYiNZLwY0SzxBTDmfaGx0kJKZCMgSvWLYPrxfVhkFlX-0s-nOenH7nu-XvQl0ZfmZ_CAkpfgAA.webp",
+      "source_info_link": "https://www.herzindagi.com/your-picks/gadget-zone/top-laptops-under-50000-in-india-2025-picks-from-brands-like-hp-dell-lenovo-and-more-4203"
      }
     },
-    "displayed_link": "https://www.croma.com › clp › best...",
-    "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAwBQCdASocABwAPtEutFooIagoGAEAGgloADUACnpE4HZXYhE0VhtchpmXwC26H8dvcADUoemYYHlmtK-dgpjrPRXoAjHrXcNVBKGfRUBcwlXtV3RpfbJAa9__UaAud3ylveIZk7_smq3xlo-1GjEuVNxhRhYlD0dt9hF0ksiKk3vkUn4vcvhKQjDb2yJ0G9Lxh_CepCLVkrXBxlhjQo6f7sXWc4K6qs7z2t9y36YmKMUEXgwgoWdY3cddnh468xjid4ahiqdwhvqFQNEwEc_86Q_9IO_l9icCOV-WFSUMY8iU4YElDaAA.webp",
-    "link": "https://www.croma.com/clp/best-laptops-between-30000-to-50000?srsltid=AU7gw4UkrMPCQuSStjsWU1Qr18tvEzsD6-3yrgvJGiagS7AB2SzJgLnx",
-    "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFWFeQp_LqU-YYFKva5Mc9RT83wWNNt-zLDgPK1S2fwRi5HcQNcFkPvKnu5rrTaDXE6diuoQu678gych1WTzf9B9_dK6CS4AC98Qy6o00K3tzLSj9GqIk_i2RLQZm5JwRK8YJ5Un3OzM_KrlMJYuEj2_3_sUx5VvFdyB9dk3-QeEB1TjtXskuyfWcNan41bSsCOsT_M6aKFipKD23E4X42e0bXoz2s_fbEmHCFMeyjdUryg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQFnoECDcQAQ&uoh=1",
-    "snippet": "Several reliable brands in India offer the best laptops under Rs. 50,000, catering to students, professionals, and everyday users. HP, Lenovo, Dell, ASUS, Acer, ...",
+    "date": "May 19, 2025",
+    "displayed_link": "https://www.herzindagi.com › Home › Gadget Zone",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAL9ndxQA8EmP_C_CcVE94if-qdEa2t3qUe0mhTj0zjAA_vYQqYCiXdvgqYUscbkIDOe_QhzVp_Zm0FIPVBbVcg0MpFk9yOph6eTFtuM7gI0VME3uG4z7L7d23TKsY6VQRsyGFFFXL1dx78JbAlIf_-H-Hj6rjB3iLQecnx_gflWjpvRdtBWUBuzVL2zHFMa9-WiSYwsrZcSAycoFYBzhqj_7cftJZGdP42xgsbFwAXRrEm7LASFeympqt_aYiNZLwY0SzxBTDmfaGx0kJKZCMgSvWLYPrxfVhkFlX-0s-nOenH7nu-XvQl0ZfmZ_CAkpfgAA.webp",
+    "link": "https://www.herzindagi.com/your-picks/gadget-zone/top-laptops-under-50000-in-india-2025-picks-from-brands-like-hp-dell-lenovo-and-more-4203",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFY5Vsq3orFDevopDwsilhKJuykfjugPDyy6qUXNNJO4kOEE5ngBGL3T_bGwPW7usVG6xoIORrB6La_dyZ209EE8Oc9kdO0ONyLbcIAhlIz6hs02VgKRf7St00IYpPdu_1jcIZKIHPvjKbB0yyPC94Hqg20Y-8TBvWp99_oQcFFZQx5VEZhTJ_fznbtvRKKWKtyPQiqaPqbTruk7HmxpE7Ksd9fP8fJzBC-6FP0F4TRTWv-EY5SXgcHrTx5W7_8PcUn8m&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQFnoECEAQAQ&uoh=1",
+    "snippet": "Top 10 Laptops Under ₹ 50000 in India (2025): Picks From Brands Like HP, Dell, Lenovo, and More. Dell, HP, Lenovo, ASUS, and more, offer models ...",
     "snippet_highlighted_words": [
-     "HP, Lenovo, Dell, ASUS, Acer"
+     "Dell, HP, Lenovo, ASUS, and more"
     ],
-    "source": "Croma",
-    "title": "Buy Best Laptops Under 50000 Online At Best Prices In India"
+    "source": "Herzindagi",
+    "title": "Top 10 Laptops Under ₹ 50000 in India (June 2025)"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0Zja19MTmNIVUl6ZW0zdHI5RTM5bUlrNDE5QzlWbGZucGtZNDlwYi1tUF9Xd0lRazBBdmk3eGNUX3laWjhRcU9XSVBTdkhHUDUtOUMxX0ozdTgyNGc0akhfbmR3cFRIV1U4aThCTWd5S19FamF6TmloUUdveUM3OVFPLWN2UVlVM1Y2SEFaWEwyTFB5RmRPUDV5Q2Jjdk1MRkcyNGVaZ0JMWl81Y3gwV0QydmR6THdUak5MMnVBTU9HU2gyQ0EyNEZlNkJVWjVENjJXS3diQm53TXd4VXlpWXRJRHdDN2NaUmg4UFFQd01hY3RmdjhSTm1PbVI0YjdHQ0FnMTE3NVN0ZmpPaVFsSxIEGgIIABrYBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC0BQgAEAAYACAAKiQKB2xhcHRvcHMVH72tPxoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFenmHj8qLQoFdW5kZXIV04-wQBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBVWKIVAGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRUYpoU-GgdpbmRpYSdzMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZUQ1NYSTZpM1JMdE9NbktsM2lxMGxueWJEZnJfc1FvRDNlWWs1STRKam8yRkZJT1JtVHF0Zjk2M3luNzRFam5nYzRFX0VZeVdlUktWREQtcl91NEtBbDdfVDZUU0JyTFhWNmFHZnhhUUMzTFZ6WEFZcWEzOE4xVlMtVHlJcUI3VXcyU3NRazhETVBGYTJHejc0NVBjZGVkN3JJNDdWaUs2THBqZ2VQMDhmV2Zjcy1rOj1HYW1pbmcgPGI-TGFwdG9wIHVuZGVyIFJzPC9iPi48Yj41MDAwMDwvYj4gLSBEaWdpdCBlLU1hZ2F6aW5lQp4BPGI-R2FtaW5nIExhcHRvcCB1bmRlciBScy41MCwwMDA8L2I-LiBJbnRlbCBDb3JlIGk1LCA0R0IgMTYwME1oeiBSQU0sIDk1ME0gR1BVLCAxVEIgSERELCBCYWNrbGl0LiBIUCwgTGVub3ZvLCBEZWxsLCBBc3VzLiBBc3VzIEs1NTVMQi1ETTUwMEQgQ29yZSBpNS4mbmJzcDsuLi5SAm9uUgR3aXRoIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0Zja19MTmNIVUl6ZW0zdHI5RTM5bUlrNDE5QzlWbGZucGtZNDlwYi1tUF9Xd0lRazBBdmk3eGNUX3laWjhRcU9XSVBTdkhHUDUtOUMxX0ozdTgyNGc0akhfbmR3cFRIV1U4aThCTWd5S19FamF6TmloUUdveUM3OVFPLWN2UVlVM1Y2SEFaWEwyTFB5RmRPUDV5Q2Jjdk1MRkcyNGVaZ0JMWl81Y3gwV0QydmR6THdUak5MMnVBTU9HU2gyQ0EyNEZlNkJVWjVENjJXS3diQm53TXd4VXlpWXRJRHdDN2NaUmg4UFFQd01hY3RmdjhSTm1PbVI0YjdHQ0FnMTE3NVN0ZmpPaVFsSxIEGgIIABrYBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC0BQgAEAAYACAAKiQKB2xhcHRvcHMVH72tPxoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFenmHj8qLQoFdW5kZXIV04-wQBoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBVWKIVAGgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRUYpoU-GgdpbmRpYSdzMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZUQ1NYSTZpM1JMdE9NbktsM2lxMGxueWJEZnJfc1FvRDNlWWs1STRKam8yRkZJT1JtVHF0Zjk2M3luNzRFam5nYzRFX0VZeVdlUktWREQtcl91NEtBbDdfVDZUU0JyTFhWNmFHZnhhUUMzTFZ6WEFZcWEzOE4xVlMtVHlJcUI3VXcyU3NRazhETVBGYTJHejc0NVBjZGVkN3JJNDdWaUs2THBqZ2VQMDhmV2Zjcy1rOj1HYW1pbmcgPGI-TGFwdG9wIHVuZGVyIFJzPC9iPi48Yj41MDAwMDwvYj4gLSBEaWdpdCBlLU1hZ2F6aW5lQp4BPGI-R2FtaW5nIExhcHRvcCB1bmRlciBScy41MCwwMDA8L2I-LiBJbnRlbCBDb3JlIGk1LCA0R0IgMTYwME1oeiBSQU0sIDk1ME0gR1BVLCAxVEIgSERELCBCYWNrbGl0LiBIUCwgTGVub3ZvLCBEZWxsLCBBc3VzLiBBc3VzIEs1NTVMQi1ETTUwMEQgQ29yZSBpNS4mbmJzcDsuLi5SAm9uUgR3aXRoIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Gaming Laptop under Rs.50,000. Intel Core i5, 4GB 1600Mhz RAM, 950M GPU, 1TB HDD, Backlit. HP, Lenovo, Dell, Asus. Asus K555LB-DM500D Core i5. ...",
+      "icon": "https://serpapi.com/images/i/UklGRtQAAABXRUJQVlA4IMgAAAAQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhH-HoHGZWqAJNFM5HZlHat7vUN107WO8fIwCqAAA_px0xo1J_-CrVwRVGrmChJmsEuvAjp_qIffkFz7Q4ZKfUpJCY8j_-emdy9awgjL9jJnnm71XloXtAJnUalNKE3-nzjL1p-1jf0lHP4pNSo_3Fv8GffRXdi_Qo6HdgQdFS7q6RFFDvlqlucC7VxkX_xyUmve89z1BaxS7rg4iAuaelVQX_vku_2Nuep5gAA.webp",
+      "source_info_link": "https://geek.digit.in/community/threads/gaming-laptop-under-rs-50-000.195121/?srsltid=AU7gw4XgNyoZX5rSO0DbJgDc0Qmt5_NUtemyqJ2gNwasRAz-SRJuy7YY"
+     }
+    },
+    "date": "Oct 6, 2015",
+    "displayed_link": "https://geek.digit.in › ... › Laptops and Netbooks",
+    "favicon": "https://serpapi.com/images/i/UklGRtQAAABXRUJQVlA4IMgAAAAQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhH-HoHGZWqAJNFM5HZlHat7vUN107WO8fIwCqAAA_px0xo1J_-CrVwRVGrmChJmsEuvAjp_qIffkFz7Q4ZKfUpJCY8j_-emdy9awgjL9jJnnm71XloXtAJnUalNKE3-nzjL1p-1jf0lHP4pNSo_3Fv8GffRXdi_Qo6HdgQdFS7q6RFFDvlqlucC7VxkX_xyUmve89z1BaxS7rg4iAuaelVQX_vku_2Nuep5gAA.webp",
+    "link": "https://geek.digit.in/community/threads/gaming-laptop-under-rs-50-000.195121/?srsltid=AU7gw4XgNyoZX5rSO0DbJgDc0Qmt5_NUtemyqJ2gNwasRAz-SRJuy7YY",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEB6zswFck_LNcHUIzem3tr9E39mIk419C9VlfnpkY49pb-mP_WwIQk0Avi7xcT_yZZ8QqOWIPSvHGP5-9C1_J3u824g4jH_ndwpTHWU8i8BMgyK_EjazNihQGoyC79QO-cvQYU3V6HAZXL2LPyFdOP5yCbcvMLFG24eZgBLZ_5cx0WD2vdzLwTjNL2uAMOGSh2CA24Fe6BUZ5D62WKwbBnwMwxUyiYtIDwC7cZRh8PQPwMactfv8RNmOmR4b7GCAg1175StfjOiQlK&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQFnoECEwQAQ&uoh=1",
+    "snippet": "Gaming Laptop under Rs.50,000. Intel Core i5, 4GB 1600Mhz RAM, 950M GPU, 1TB HDD, Backlit. HP, Lenovo, Dell, Asus. Asus K555LB-DM500D Core i5. ...",
+    "snippet_highlighted_words": [
+     "Gaming Laptop under Rs.50,000"
+    ],
+    "source": "Digit Magazine",
+    "title": "Gaming Laptop under Rs.50000 - Digit e-Magazine"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkR5c0ZJVG9LRTdTc1NIaC1DNmZ6WmNELWFpQkhWSXhiLWpjc01nQmUwcVNzb25nTUl2VXRfYUZqWnlnWl9QWWRrZkxIMW5EZC1sRFBPV21pRXhiTkRpalM3S3FlUDQtSHNkczlxWUI4QkE2aVRwWHk0QVlzSjZaRVprdl8yay05VUJlTS1kZ0E1Zmg0UXdLZGprb2ozSFV1RHphNjlXbxIEGgIIABq1BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCRBQgAEAAYACAAKiQKB2xhcHRvcHMVSKzwPxoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFSP0Jz8qLQoFdW5kZXIVK7h3PxoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBUruHc_GgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRVXFug_GgdpbmRpYSdzMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkR5c0ZJVG9LRTdTc1NIaC1DNmZ6WmNELWFpQkhWSXhiLWpjc01nQmUwcVNzb25nTUl2VXRfYUZqWnlnWl9QWWRrZkxIMW5EZC1sRFBPV21pRXhiTkRpalM3S3FlUDQtSHNkczlxWUI4QkE2aVRwWHk0QVlzSjZaRVprdl8yay05VUJlTS1kZ0E1Zmg0UXdLZGprb2ozSFV1RHphNjlXbzovPGI-TGFwdG9wPC9iPiBmb3IgcGVyc29uYWwgdXNlIC0gSGlGaVZpc2lvbi5jb21CmgE8Yj4xMCBCZXN0IExhcHRvcHMgdW5kZXIgNTAwMDAgaW4gSW5kaWE8L2I-ICgyMDIyKSB8IEJ1eWVyJiMzOTtzIEd1aWRlIC0gVlNCeXRlcyAuLi4gcHJpY2UgaW4gSW5kaWEgb24gQW1hem9uLmluLiBDaGVjayBvdXQgQVNVUyBWaXZvQm9vayBTMTQgQU1EJm5ic3A7Li4uUgR3aXRoUgJvbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkR5c0ZJVG9LRTdTc1NIaC1DNmZ6WmNELWFpQkhWSXhiLWpjc01nQmUwcVNzb25nTUl2VXRfYUZqWnlnWl9QWWRrZkxIMW5EZC1sRFBPV21pRXhiTkRpalM3S3FlUDQtSHNkczlxWUI4QkE2aVRwWHk0QVlzSjZaRVprdl8yay05VUJlTS1kZ0E1Zmg0UXdLZGprb2ozSFV1RHphNjlXbxIEGgIIABq1BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCRBQgAEAAYACAAKiQKB2xhcHRvcHMVSKzwPxoGbGFwdG9wGgxpdjtwO2xhcHRvcHMqEAoJYXZhaWxhYmxlFSP0Jz8qLQoFdW5kZXIVK7h3PxoJbGVzcyB0aGFuGgJvbhoEd2l0aBoKdW5kZXI1MDAwMCpGCgU1MDAwMBUruHc_GgYkNTAwMDAaBjUwIDAwMBoLNTAgdGhvdXNhbmQaAzUwaxoKdW5kZXI1MDAwMBoKaXY7bjs1MDAwMCoxCgZydXBlZXMVAAAAABoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRVXFug_GgdpbmRpYSdzMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkR5c0ZJVG9LRTdTc1NIaC1DNmZ6WmNELWFpQkhWSXhiLWpjc01nQmUwcVNzb25nTUl2VXRfYUZqWnlnWl9QWWRrZkxIMW5EZC1sRFBPV21pRXhiTkRpalM3S3FlUDQtSHNkczlxWUI4QkE2aVRwWHk0QVlzSjZaRVprdl8yay05VUJlTS1kZ0E1Zmg0UXdLZGprb2ozSFV1RHphNjlXbzovPGI-TGFwdG9wPC9iPiBmb3IgcGVyc29uYWwgdXNlIC0gSGlGaVZpc2lvbi5jb21CmgE8Yj4xMCBCZXN0IExhcHRvcHMgdW5kZXIgNTAwMDAgaW4gSW5kaWE8L2I-ICgyMDIyKSB8IEJ1eWVyJiMzOTtzIEd1aWRlIC0gVlNCeXRlcyAuLi4gcHJpY2UgaW4gSW5kaWEgb24gQW1hem9uLmluLiBDaGVjayBvdXQgQVNVUyBWaXZvQm9vayBTMTQgQU1EJm5ic3A7Li4uUgR3aXRoUgJvbiICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "10 Best Laptops under 50000 in India (2022) | Buyer's Guide - VSBytes ... price in India on Amazon.in. Check out ASUS VivoBook S14 AMD ...",
+      "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmfpvCDUKbgC9UQGLGgGv27m1rfDaG3m0hao2-vEHJl8bVYAAD-y1hwap1Zakqa_3pRE8cfDZvzDUxDoOH3kY849TmPgP_hYyzrcwgKwJla5Wl313HX4Z8E_TQGn2wkok-WfQt3aKnGBIi0POhtX8fE4TEncxETC_g4mjsrRGVIf0w2VPxP6YD3mnp7bzDmjzMS5V_C7YEHa_qifvdjVrb_yFiolGPNPq7zDK1bm98RHc_fN5F_9ZoKnW1_toIlHk9YKjK2dlpgbnFmXvmMJOTWyH-Z3-PC6hU-_rh5daPQ0uBwIaUjwoKn1_-P-f-PYP8_8a3--KiEfCCh-vFqvAOr6FwQ5MjQKQNirPHrNVwUWpVnASNlBd_pA7WP2Q4p87bBWHt7N5_8AA.webp",
+      "source_info_link": "https://www.hifivision.com/threads/laptop-for-personal-use.80619/"
+     }
+    },
+    "date": "Aug 7, 2020",
+    "displayed_link": "https://www.hifivision.com › ... › What Should I Buy?",
+    "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmfpvCDUKbgC9UQGLGgGv27m1rfDaG3m0hao2-vEHJl8bVYAAD-y1hwap1Zakqa_3pRE8cfDZvzDUxDoOH3kY849TmPgP_hYyzrcwgKwJla5Wl313HX4Z8E_TQGn2wkok-WfQt3aKnGBIi0POhtX8fE4TEncxETC_g4mjsrRGVIf0w2VPxP6YD3mnp7bzDmjzMS5V_C7YEHa_qifvdjVrb_yFiolGPNPq7zDK1bm98RHc_fN5F_9ZoKnW1_toIlHk9YKjK2dlpgbnFmXvmMJOTWyH-Z3-PC6hU-_rh5daPQ0uBwIaUjwoKn1_-P-f-PYP8_8a3--KiEfCCh-vFqvAOr6FwQ5MjQKQNirPHrNVwUWpVnASNlBd_pA7WP2Q4p87bBWHt7N5_8AA.webp",
+    "link": "https://www.hifivision.com/threads/laptop-for-personal-use.80619/",
+    "position": 9,
+    "read_more_link": "https://www.hifivision.com/threads/laptop-for-personal-use.80619/#:~:text=10%20Best%20Laptops%20under%2050000,%7C%20Buyer's%20Guide%20%2D%20VSBytes&text=price%20in%20India%20on%20Amazon.in.,Ryzen%205%204500U%2C%2014%2Dinch%20FHD...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVDysFIToKE7SsSHh-C6fzZcD-aiBHVIxb-jcsMgBe0qSsongMIvUt_aFjZygZ_PYdkfLH1nDd-lDPOWmiExbNDijS7KqeP4-Hsds9qYB8BA6iTpXy4AYsJ6ZEZkv_2k-9UBeM-dgA5fh4QwKdjkoj3HUuDza69Wo&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQFnoECEkQAQ&uoh=1",
+    "snippet": "10 Best Laptops under 50000 in India (2022) | Buyer's Guide - VSBytes ... price in India on Amazon.in. Check out ASUS VivoBook S14 AMD ...",
+    "snippet_highlighted_words": [
+     "10 Best Laptops under 50000 in India"
+    ],
+    "source": "HiFiVision.com",
+    "title": "Laptop for personal use"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=10&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8NMDegQINRAW",
+   "next": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntVKY97ALP30SdROhL3SaeUT-Y9-g:1790778849555&ei=4R29auS9IZarw8cP2sCOoAQ&start=10&sa=N&sstk=AS6-VmKVLQZ7AtQuHJ1qTvX94D5CrO6D7Yf6ITLRIKXo-hfnP7ZSqqGeOTqWxCgNSvfGNXJAs5csIK3NVXhNTpIeJJedVtTlshyOZA&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQ8NMDegQIQRAI",
    "other_pages": {
-    "10": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=90&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8tMDegQINRAU",
-    "2": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=10&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8tMDegQINRAE",
-    "3": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=20&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8tMDegQINRAG",
-    "4": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=30&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8tMDegQINRAI",
-    "5": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=40&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8tMDegQINRAK",
-    "6": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=50&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8tMDegQINRAM",
-    "7": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=60&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8tMDegQINRAO",
-    "8": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=70&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8tMDegQINRAQ",
-    "9": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=646215d9fbd2647e&ei=t8OvauzhDL6Gw8cP-vWmiQ0&start=80&sa=N&sstk=AS6-VmLkDkkmsZF9wWBopHh6rhWyZglfKpPuiOiZm5KLwYBMl5iLAkO6S5eBI73qTqTIkv0gbcYHWsbY0XYVDNTvU6onze6vhi0QFg&ved=2ahUKEwismYmhh_2WAxU-w_ACHfq6KdEQ8tMDegQINRAS"
+    "2": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntVKY97ALP30SdROhL3SaeUT-Y9-g:1790778849555&ei=4R29auS9IZarw8cP2sCOoAQ&start=10&sa=N&sstk=AS6-VmKVLQZ7AtQuHJ1qTvX94D5CrO6D7Yf6ITLRIKXo-hfnP7ZSqqGeOTqWxCgNSvfGNXJAs5csIK3NVXhNTpIeJJedVtTlshyOZA&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQ8tMDegQIQRAE",
+    "3": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntVKY97ALP30SdROhL3SaeUT-Y9-g:1790778849555&ei=4R29auS9IZarw8cP2sCOoAQ&start=20&sa=N&sstk=AS6-VmKVLQZ7AtQuHJ1qTvX94D5CrO6D7Yf6ITLRIKXo-hfnP7ZSqqGeOTqWxCgNSvfGNXJAs5csIK3NVXhNTpIeJJedVtTlshyOZA&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQ8tMDegQIQRAG"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFV6TlFUbmxVVm5wbFJWaHljMkpCTUMxS05UZEpUSHBUWW5BMFkxRlNTemR2V1c1R1gyb3lURnBsVjFkelIxQlpZa1ZFVWtWZk9IUTNjbkF3T0RaUFZHTmhMVVl0Y0ZaMlFVTTJSMVpXY1ZsTGN6TjRiRGRzVm5WWWR4SVhkRGhQZG1GMWVtaEVURFpIZHpoalVDMTJWMjFwVVRBYUlrRkVjM0k1WmxJMFgwZGZhVzA1V2pGSFZIUnBRV3MwY1hwSVVXeERZazFNWkhjIiwiZmN2IjoiMyIsImVpIjoidDhPdmF1emhETDZHdzhjUC12V21pUTAiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMjJtX2stIiwicXVlc3Rpb24iOiJXaGljaCBicmFuZCBpcyBiZXN0IGZvciBsYXB0b3BzIHVuZGVyIOKCuTUwLDAwMD8iLCJsayI6IkdpNTNhR2xqYUNCaWNtRnVaQ0JwY3lCaVpYTjBJR1p2Y2lCc1lYQjBiM0FnZFc1a1pYSWc0b0s1SURVd01EQXciLCJicyI6ImM0MlF2UTdDSUJTRjQ4cmtwakxkWFZPdlRabTc2dHFsTXkwb0pBWWFvT251V19rNlBvbWliZnczenZmN3pqbTVSQkFzbGE0VlZJNGJBZHBESlgyQXJYV3c1MDJ3allmV0NPbmdkRGd5WENCaW5pSk51cF9PWFFGMk1aRElvYVdfUHlxMUZkcnMzbHRXZE5uOTZfUTFhekl2RlE4UkRVcmU4S2RGV2VUQXRZMlVQazluZFBJRklRWEpya25jeWRlbzRTR0ZUNEN4dUJXMGdZMFJtdWNwcGRNUEtJdVo0OUVaIiwiaWQiOiJmY190OE92YXV6aERMNkd3OGNQLXZXbWlRMF8xIn0=",
-    "page_token": "y5ZsA3icHdBNjtowGIBh9TKzHPLD0A4SqhRITBFOJgZ_cbypYpuQib_8DBMmhF2v0DP0VD1NR92-q0fvrz_42tq_X35Xw9C_L2ezcRwfz113xtOj7ppZ8T61eqYLRFVou1x8XbjfS70KP3Swvugg5X0PG-YcYLdjHJFGz1RbNklv7ufWvCVb2TP3m0ND6SsuxV5UkKNsGfnsGZTgmjIRdNCkKiG7Sb2BPOPRtcD-pYjkmERw0Q0mRY2tDAeqGjdQrZzHR3aNyejFhBHjsxfZhnPd9hgfq47Z6gp82FLndlcN1upoJ7D0ybjBWqHxko28MesiJ6ykENd0u5t0G_XiHouCAN0fXAkZvh2suTAEkXBWp9zccld-mioZVsZJwmcvF7AoQkZja_yExOleSKEyZDToXlPO7rrGhtfAoLVTmhli6mAN2dPitPkxnoi85p4zV54UPH0o9cfKf_j_evWzbIZlf-nO_wDx5I6a",
-    "question": "Which brand is best for laptops under ₹50,000?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y5ZsA3icHdBNjtowGIBh9TKzHPLD0A4SqhRITBFOJgZ_cbypYpuQib_8DBMmhF2v0DP0VD1NR92-q0fvrz_42tq_X35Xw9C_L2ezcRwfz113xtOj7ppZ8T61eqYLRFVou1x8XbjfS70KP3Swvugg5X0PG-YcYLdjHJFGz1RbNklv7ufWvCVb2TP3m0ND6SsuxV5UkKNsGfnsGZTgmjIRdNCkKiG7Sb2BPOPRtcD-pYjkmERw0Q0mRY2tDAeqGjdQrZzHR3aNyejFhBHjsxfZhnPd9hgfq47Z6gp82FLndlcN1upoJ7D0ybjBWqHxko28MesiJ6ykENd0u5t0G_XiHouCAN0fXAkZvh2suTAEkXBWp9zccld-mioZVsZJwmcvF7AoQkZja_yExOleSKEyZDToXlPO7rrGhtfAoLVTmhli6mAN2dPitPkxnoi85p4zV54UPH0o9cfKf_j_evWzbIZlf-nO_wDx5I6a",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFV6TlFUbmxVVm5wbFJWaHljMkpCTUMxS05UZEpUSHBUWW5BMFkxRlNTemR2V1c1R1gyb3lURnBsVjFkelIxQlpZa1ZFVWtWZk9IUTNjbkF3T0RaUFZHTmhMVVl0Y0ZaMlFVTTJSMVpXY1ZsTGN6TjRiRGRzVm5WWWR4SVhkRGhQZG1GMWVtaEVURFpIZHpoalVDMTJWMjFwVVRBYUlrRkVjM0k1WmxJMFgwZGZhVzA1V2pGSFZIUnBRV3MwY1hwSVVXeERZazFNWkhjIiwiZmN2IjoiMyIsImVpIjoidDhPdmF1emhETDZHdzhjUC12V21pUTAiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMjJtX2stIiwicXVlc3Rpb24iOiJXaGljaCBicmFuZCBpcyBiZXN0IGZvciBsYXB0b3BzIHVuZGVyIOKCuTUwLDAwMD8iLCJsayI6IkdpNTNhR2xqYUNCaWNtRnVaQ0JwY3lCaVpYTjBJR1p2Y2lCc1lYQjBiM0FnZFc1a1pYSWc0b0s1SURVd01EQXciLCJicyI6ImM0MlF2UTdDSUJTRjQ4cmtwakxkWFZPdlRabTc2dHFsTXkwb0pBWWFvT251V19rNlBvbWliZnczenZmN3pqbTVSQkFzbGE0VlZJNGJBZHBESlgyQXJYV3c1MDJ3allmV0NPbmdkRGd5WENCaW5pSk51cF9PWFFGMk1aRElvYVdfUHlxMUZkcnMzbHRXZE5uOTZfUTFhekl2RlE4UkRVcmU4S2RGV2VUQXRZMlVQazluZFBJRklRWEpya25jeWRlbzRTR0ZUNEN4dUJXMGdZMFJtdWNwcGRNUEtJdVo0OUVaIiwiaWQiOiJmY190OE92YXV6aERMNkd3OGNQLXZXbWlRMF8xIn0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJEUmZkV2R4VWpselkzVmhMVk4wY0dSZmFGaGpURjlGVVRGRWVUTk1VRm8zTlhocFdHWkRRbWcxVlU1b2RXWjJaUzFZTkhKd2VuVnRUbTV3VDFKUllqWXdWRkE0ZFhNeFZuUkpiR3BFZUVVemIyZDRXR3A2WTA1ZlVSSVhORkl5T1dGMVV6bEpXbUZ5ZHpoalVESnpRMDl2UVZFYUlrRkVjM0k1WmxORVIxZE1RalJtZW5SMGNqZFhWMlJZU1ZOU2NFaFdWMWc1ZVVFIiwiZmN2IjoiMyIsImVpIjoiNFIyOWF1UzlJWmFydzhjUDJzQ09vQVEiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMVdVNzgtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGxhcHRvcCBJIGNhbiBidXkgZm9yIDUwLDAwMCBydXBlZXM/IiwibGsiOiJHaUozYUdsamFDQnBjeUIwYUdVZ1ltVnpkQ0JzWVhCMGIzQWdabTl5SURVd01EQXciLCJicyI6ImMzMk9zUXJDTUJSRmNjM2tLRUhrSXVya0VFdGJ4NktMT0lnZ1NCRmNVaHR0VUp1U3RCUlhfOHJmOFV0c3EwSXA0bDNmdWVkZHNpZTJIX0VVMGlDTkJBSmhVbHg0a3FvRVN4eDRqQ0M3NGFnMEhEWm1qRUZuaVJER3N3YTBuMGZ5RVAwcXZ2RWlaRTJHZmtWOUxnVmNnVmtjQ28zbl9XRTdwZFd6Um5TUV93VmhsMGF5SmROcUx0ZWktZFo4WUxjLUZETEdNZzRsOXl4S096X3BVcnVyYVkyNkNweVVDakZ4RjNOc1pxdEd4V0hubXJaSHV4TVhwd0NhWDdfcnYxeVJkdXNGIiwiaWQiOiJmY180UjI5YXVTOUlaYXJ3OGNQMnNDT29BUV81In0=",
+    "page_token": "0IRq5XicHdBdboIwAADg7DI-DmrVRROzWBGUxLq2FAovSykoyF-jZAXedpedaqdZsu8I3_dPXbbV74so-l4_N5ZljHm9dd2tzl9V11jyObbKUrKuU6mqzeptBd6vant4GrTvDCJc69ChNgOZKwAt1XwpFURRYCeEAI0pB550K5u5a51XQ68cHGe1jplDH6lHlgIinwcZp07WqUbzYNoNrKV1zvEYHaueCBRLgU4SYp816zmvbCj5YCKnOPJ5yAj396mDYBRhDzduwBt7IbmOz8CP0qkI2R2XWGQmmagTi3DInWRgECWJ1zF3oux8r4ssPC9ZqAvVqkUMdqOy8Udqu9QrfUSPeLxECQ24GrM5Bbymd3ro4cUL3bQ6gQwiQ4SmJCro7Kq-tnD2P7b9vDb9Rj-62x_M8XgU",
+    "question": "What is the best laptop I can buy for 50,000 rupees?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0IRq5XicHdBdboIwAADg7DI-DmrVRROzWBGUxLq2FAovSykoyF-jZAXedpedaqdZsu8I3_dPXbbV74so-l4_N5ZljHm9dd2tzl9V11jyObbKUrKuU6mqzeptBd6vant4GrTvDCJc69ChNgOZKwAt1XwpFURRYCeEAI0pB550K5u5a51XQ68cHGe1jplDH6lHlgIinwcZp07WqUbzYNoNrKV1zvEYHaueCBRLgU4SYp816zmvbCj5YCKnOPJ5yAj396mDYBRhDzduwBt7IbmOz8CP0qkI2R2XWGQmmagTi3DInWRgECWJ1zF3oux8r4ssPC9ZqAvVqkUMdqOy8Udqu9QrfUSPeLxECQ24GrM5Bbymd3ro4cUL3bQ6gQwiQ4SmJCro7Kq-tnD2P7b9vDb9Rj-62x_M8XgU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJEUmZkV2R4VWpselkzVmhMVk4wY0dSZmFGaGpURjlGVVRGRWVUTk1VRm8zTlhocFdHWkRRbWcxVlU1b2RXWjJaUzFZTkhKd2VuVnRUbTV3VDFKUllqWXdWRkE0ZFhNeFZuUkpiR3BFZUVVemIyZDRXR3A2WTA1ZlVSSVhORkl5T1dGMVV6bEpXbUZ5ZHpoalVESnpRMDl2UVZFYUlrRkVjM0k1WmxORVIxZE1RalJtZW5SMGNqZFhWMlJZU1ZOU2NFaFdWMWc1ZVVFIiwiZmN2IjoiMyIsImVpIjoiNFIyOWF1UzlJWmFydzhjUDJzQ09vQVEiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMVdVNzgtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGxhcHRvcCBJIGNhbiBidXkgZm9yIDUwLDAwMCBydXBlZXM%2FIiwibGsiOiJHaUozYUdsamFDQnBjeUIwYUdVZ1ltVnpkQ0JzWVhCMGIzQWdabTl5SURVd01EQXciLCJicyI6ImMzMk9zUXJDTUJSRmNjM2tLRUhrSXVya0VFdGJ4NktMT0lnZ1NCRmNVaHR0VUp1U3RCUlhfOHJmOFV0c3EwSXA0bDNmdWVkZHNpZTJIX0VVMGlDTkJBSmhVbHg0a3FvRVN4eDRqQ0M3NGFnMEhEWm1qRUZuaVJER3N3YTBuMGZ5RVAwcXZ2RWlaRTJHZmtWOUxnVmNnVmtjQ28zbl9XRTdwZFd6Um5TUV93VmhsMGF5SmROcUx0ZWktZFo4WUxjLUZETEdNZzRsOXl4S096X3BVcnVyYVkyNkNweVVDakZ4RjNOc1pxdEd4V0hubXJaSHV4TVhwd0NhWDdfcnYxeVJkdXNGIiwiaWQiOiJmY180UjI5YXVTOUlaYXJ3OGNQMnNDT29BUV81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFV6TlFUbmxVVm5wbFJWaHljMkpCTUMxS05UZEpUSHBUWW5BMFkxRlNTemR2V1c1R1gyb3lURnBsVjFkelIxQlpZa1ZFVWtWZk9IUTNjbkF3T0RaUFZHTmhMVVl0Y0ZaMlFVTTJSMVpXY1ZsTGN6TjRiRGRzVm5WWWR4SVhkRGhQZG1GMWVtaEVURFpIZHpoalVDMTJWMjFwVVRBYUlrRkVjM0k1WmxJMFgwZGZhVzA1V2pGSFZIUnBRV3MwY1hwSVVXeERZazFNWkhjIiwiZmN2IjoiMyIsImVpIjoidDhPdmF1emhETDZHdzhjUC12V21pUTAiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMjJtX2stIiwicXVlc3Rpb24iOiJXaGljaCBsYXB0b3AgaXMgYmVzdCBmb3IgY29kaW5nIHVuZGVyIOKCuTUwLDAwMD8iLCJsayI6IkdpOTNhR2xqYUNCc1lYQjBiM0FnYVhNZ1ltVnpkQ0JtYjNJZ1kyOWthVzVuSUhWdVpHVnlJT0tDdVNBMU1EQXdNQSIsImJzIjoiYzQyUXZRN0NJQlNGNDhya3BqTGRYVk92VFptNzZ0cWxNeTBvSkFZYW9PbnVXX2s2UG9taWJmdzN6dmY3emptNVJCQXNsYTRWVkk0YkFkcERKWDJBclhXdzUwMndqWWZXQ09uZ2REZ3lYQ0JpbmlKTnVwX09YUUYyTVpESW9hV19QeXExRmRyczNsdFdkTm45Nl9RMWF6SXZGUThSRFVyZThLZEZXZVRBdFkyVVBrOW5kUElGSVFYSnJrbmN5ZGVvNFNHRlQ0Q3h1QlcwZ1kwUm11Y3BwZE1QS0l1WjQ5RVoiLCJpZCI6ImZjX3Q4T3ZhdXpoREw2R3c4Y1AtdldtaVEwXzEifQ==",
-    "page_token": "LsfG9nicHdBNjpswAEBh9TKznPAjUiVSVInBQJnYFION8aYyJoQBGzwJDQm7uULP0FP1NB11-6Rv8z7-qLdx-PvldzfP5rrfbJZleT5P01mdnuWkN-L6GOVGCqVqIYf99uvW_tbKA7hJ_-Ui_YwYQwNsFQFSEFwdGdMcFgrUBSJpGf6izFTCabJTdF-rHmlmA5c5lccL9AoZfSWhAUUBFxk3Y1nwsiacYieca4onPvqaA9TmQbLWDo5TZh4imvlpTG6f3ifavpUBMoLsYDbgdxx0Vkr9XuqOoIgn2YommttVRdD3xgZergzH0U4IvXPrInRpzxWNvG1KVEAUv9RW4sE18XCAFmiZd8mmR8bwveyhnce-xmFy_-wu6BorBTunYnQrAIZoaNw0QtmRcVaXCkN_essIXmWvNI2Sx7HMnMY2P8qQ2ihWHQb3F1GoY67tttTzwJenVt4O7tP_14efrZ735jKd_wH4RIwq",
-    "question": "Which laptop is best for coding under ₹50,000?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LsfG9nicHdBNjpswAEBh9TKznPAjUiVSVInBQJnYFION8aYyJoQBGzwJDQm7uULP0FP1NB11-6Rv8z7-qLdx-PvldzfP5rrfbJZleT5P01mdnuWkN-L6GOVGCqVqIYf99uvW_tbKA7hJ_-Ui_YwYQwNsFQFSEFwdGdMcFgrUBSJpGf6izFTCabJTdF-rHmlmA5c5lccL9AoZfSWhAUUBFxk3Y1nwsiacYieca4onPvqaA9TmQbLWDo5TZh4imvlpTG6f3ifavpUBMoLsYDbgdxx0Vkr9XuqOoIgn2YommttVRdD3xgZergzH0U4IvXPrInRpzxWNvG1KVEAUv9RW4sE18XCAFmiZd8mmR8bwveyhnce-xmFy_-wu6BorBTunYnQrAIZoaNw0QtmRcVaXCkN_essIXmWvNI2Sx7HMnMY2P8qQ2ihWHQb3F1GoY67tttTzwJenVt4O7tP_14efrZ735jKd_wH4RIwq",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFV6TlFUbmxVVm5wbFJWaHljMkpCTUMxS05UZEpUSHBUWW5BMFkxRlNTemR2V1c1R1gyb3lURnBsVjFkelIxQlpZa1ZFVWtWZk9IUTNjbkF3T0RaUFZHTmhMVVl0Y0ZaMlFVTTJSMVpXY1ZsTGN6TjRiRGRzVm5WWWR4SVhkRGhQZG1GMWVtaEVURFpIZHpoalVDMTJWMjFwVVRBYUlrRkVjM0k1WmxJMFgwZGZhVzA1V2pGSFZIUnBRV3MwY1hwSVVXeERZazFNWkhjIiwiZmN2IjoiMyIsImVpIjoidDhPdmF1emhETDZHdzhjUC12V21pUTAiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMjJtX2stIiwicXVlc3Rpb24iOiJXaGljaCBsYXB0b3AgaXMgYmVzdCBmb3IgY29kaW5nIHVuZGVyIOKCuTUwLDAwMD8iLCJsayI6IkdpOTNhR2xqYUNCc1lYQjBiM0FnYVhNZ1ltVnpkQ0JtYjNJZ1kyOWthVzVuSUhWdVpHVnlJT0tDdVNBMU1EQXdNQSIsImJzIjoiYzQyUXZRN0NJQlNGNDhya3BqTGRYVk92VFptNzZ0cWxNeTBvSkFZYW9PbnVXX2s2UG9taWJmdzN6dmY3emptNVJCQXNsYTRWVkk0YkFkcERKWDJBclhXdzUwMndqWWZXQ09uZ2REZ3lYQ0JpbmlKTnVwX09YUUYyTVpESW9hV19QeXExRmRyczNsdFdkTm45Nl9RMWF6SXZGUThSRFVyZThLZEZXZVRBdFkyVVBrOW5kUElGSVFYSnJrbmN5ZGVvNFNHRlQ0Q3h1QlcwZ1kwUm11Y3BwZE1QS0l1WjQ5RVoiLCJpZCI6ImZjX3Q4T3ZhdXpoREw2R3c4Y1AtdldtaVEwXzEifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJEUmZkV2R4VWpselkzVmhMVk4wY0dSZmFGaGpURjlGVVRGRWVUTk1VRm8zTlhocFdHWkRRbWcxVlU1b2RXWjJaUzFZTkhKd2VuVnRUbTV3VDFKUllqWXdWRkE0ZFhNeFZuUkpiR3BFZUVVemIyZDRXR3A2WTA1ZlVSSVhORkl5T1dGMVV6bEpXbUZ5ZHpoalVESnpRMDl2UVZFYUlrRkVjM0k1WmxORVIxZE1RalJtZW5SMGNqZFhWMlJZU1ZOU2NFaFdWMWc1ZVVFIiwiZmN2IjoiMyIsImVpIjoiNFIyOWF1UzlJWmFydzhjUDJzQ09vQVEiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMVdVNzgtIiwicXVlc3Rpb24iOiJXaGljaCBsYXB0b3AgaXMgYmVzdCB1bmRlciDigrk0NSwwMDA/IiwibGsiOiJHaVIzYUdsamFDQnNZWEIwYjNBZ2FYTWdZbVZ6ZENCMWJtUmxjaURpZ3JrZ05EVXdNREEiLCJicyI6ImMzMk9zUXJDTUJSRmNjM2tLRUhrSXVya0VFdGJ4NktMT0lnZ1NCRmNVaHR0VUp1U3RCUlhfOHJmOFV0c3EwSXA0bDNmdWVkZHNpZTJIX0VVMGlDTkJBSmhVbHg0a3FvRVN4eDRqQ0M3NGFnMEhEWm1qRUZuaVJER3N3YTBuMGZ5RVAwcXZ2RWlaRTJHZmtWOUxnVmNnVmtjQ28zbl9XRTdwZFd6Um5TUV93VmhsMGF5SmROcUx0ZWktZFo4WUxjLUZETEdNZzRsOXl4S096X3BVcnVyYVkyNkNweVVDakZ4RjNOc1pxdEd4V0hubXJaSHV4TVhwd0NhWDdfcnYxeVJkdXNGIiwiaWQiOiJmY180UjI5YXVTOUlaYXJ3OGNQMnNDT29BUV81In0=",
+    "page_token": "-Oc6w3icHdDRbqJAFADQ7M_0sSJTbTQxTUaGCq24jHOvwstmmFm0eBlYZcXy1n_Zr9qvadNPOOfjH7250_8f12PXtZf5aNT3_f2haQ70-9409Uhf3p0ZGU1UaHOaTx-n46fSLMTfiC__RDyFtsVAelvIxgUiwZh7xoMHI5ISKKYtWbSOQ-baZq3EZAfyJRt4qJ1lMsgfVE3LzEmBYsZ3Fb-Bb9dqwGeF-TQ5ta8F8WsS5FO5s686nJ3NeKawOvr2ZG7FgL0N4tIORwaeXSb-hOXQ3yxhUDAe4YqD3YfMuLBEMj36N2HqaAKUXxLR1Rrzs64OXTpEnSLwZd2SXYUrVJyL45eiiibZHtUGSGf7mG2ek3TtkkD5Mw6yeUtBDqaiGlexyFV8XddWbl3mfXmYBuEnfj_kAn9ulGBpelea64LdfX8ufpV1N2_PzeET5ZCCpQ",
+    "question": "Which laptop is best under ₹45,000?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-Oc6w3icHdDRbqJAFADQ7M_0sSJTbTQxTUaGCq24jHOvwstmmFm0eBlYZcXy1n_Zr9qvadNPOOfjH7250_8f12PXtZf5aNT3_f2haQ70-9409Uhf3p0ZGU1UaHOaTx-n46fSLMTfiC__RDyFtsVAelvIxgUiwZh7xoMHI5ISKKYtWbSOQ-baZq3EZAfyJRt4qJ1lMsgfVE3LzEmBYsZ3Fb-Bb9dqwGeF-TQ5ta8F8WsS5FO5s686nJ3NeKawOvr2ZG7FgL0N4tIORwaeXSb-hOXQ3yxhUDAe4YqD3YfMuLBEMj36N2HqaAKUXxLR1Rrzs64OXTpEnSLwZd2SXYUrVJyL45eiiibZHtUGSGf7mG2ek3TtkkD5Mw6yeUtBDqaiGlexyFV8XddWbl3mfXmYBuEnfj_kAn9ulGBpelea64LdfX8ufpV1N2_PzeET5ZCCpQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJEUmZkV2R4VWpselkzVmhMVk4wY0dSZmFGaGpURjlGVVRGRWVUTk1VRm8zTlhocFdHWkRRbWcxVlU1b2RXWjJaUzFZTkhKd2VuVnRUbTV3VDFKUllqWXdWRkE0ZFhNeFZuUkpiR3BFZUVVemIyZDRXR3A2WTA1ZlVSSVhORkl5T1dGMVV6bEpXbUZ5ZHpoalVESnpRMDl2UVZFYUlrRkVjM0k1WmxORVIxZE1RalJtZW5SMGNqZFhWMlJZU1ZOU2NFaFdWMWc1ZVVFIiwiZmN2IjoiMyIsImVpIjoiNFIyOWF1UzlJWmFydzhjUDJzQ09vQVEiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMVdVNzgtIiwicXVlc3Rpb24iOiJXaGljaCBsYXB0b3AgaXMgYmVzdCB1bmRlciDigrk0NSwwMDA%2FIiwibGsiOiJHaVIzYUdsamFDQnNZWEIwYjNBZ2FYTWdZbVZ6ZENCMWJtUmxjaURpZ3JrZ05EVXdNREEiLCJicyI6ImMzMk9zUXJDTUJSRmNjM2tLRUhrSXVya0VFdGJ4NktMT0lnZ1NCRmNVaHR0VUp1U3RCUlhfOHJmOFV0c3EwSXA0bDNmdWVkZHNpZTJIX0VVMGlDTkJBSmhVbHg0a3FvRVN4eDRqQ0M3NGFnMEhEWm1qRUZuaVJER3N3YTBuMGZ5RVAwcXZ2RWlaRTJHZmtWOUxnVmNnVmtjQ28zbl9XRTdwZFd6Um5TUV93VmhsMGF5SmROcUx0ZWktZFo4WUxjLUZETEdNZzRsOXl4S096X3BVcnVyYVkyNkNweVVDakZ4RjNOc1pxdEd4V0hubXJaSHV4TVhwd0NhWDdfcnYxeVJkdXNGIiwiaWQiOiJmY180UjI5YXVTOUlaYXJ3OGNQMnNDT29BUV81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFV6TlFUbmxVVm5wbFJWaHljMkpCTUMxS05UZEpUSHBUWW5BMFkxRlNTemR2V1c1R1gyb3lURnBsVjFkelIxQlpZa1ZFVWtWZk9IUTNjbkF3T0RaUFZHTmhMVVl0Y0ZaMlFVTTJSMVpXY1ZsTGN6TjRiRGRzVm5WWWR4SVhkRGhQZG1GMWVtaEVURFpIZHpoalVDMTJWMjFwVVRBYUlrRkVjM0k1WmxJMFgwZGZhVzA1V2pGSFZIUnBRV3MwY1hwSVVXeERZazFNWkhjIiwiZmN2IjoiMyIsImVpIjoidDhPdmF1emhETDZHdzhjUC12V21pUTAiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMjJtX2stIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGxhcHRvcCB1bmRlciA0NTAwMCBydXBlZXM/IiwibGsiOiJHaGRpWlhOMElHeGhjSFJ2Y0NCMWJtUmxjaUEwTlRBd01BIiwiYnMiOiJjNDJRdlE3Q0lCU0Y0OHJrcGpMZFhWT3ZUWm03NnRxbE15MG9KQVlhb09udVdfazZQb21pYmZ3M3p2Zjd6am01UkJBc2xhNFZWSTRiQWRwREpYMkFyWFd3NTAyd2pZZldDT25nZERneVhDQmluaUpOdXBfT1hRRjJNWkRJb2FXX1B5cTFGZHJzM2x0V2RObjk2X1ExYXpJdkZROFJEVXJlOEtkRldlVEF0WTJVUGs5bmRQSUZJUVhKcmtuY3lkZW80U0dGVDRDeHVCVzBnWTBSbXVjcHBkTVBLSXVaNDlFWiIsImlkIjoiZmNfdDhPdmF1emhETDZHdzhjUC12V21pUTBfMSJ9",
-    "page_token": "TRcxdnicHdBdToMwAADgeJk9yp-iW7KYzBUYGyUtbYG-GChsDMqPDsfom3fxVJ5G4wW-h-_rW5675ufuWo3jcFlp2jRN96e-P8nyXvStll3mTmgikzLPRLOyn2zj5SjW4HO3eX3fbRAdBrbFetQ2OvGwzS2hSOL3MOE9UcVYOpAi5Ud5Ag8wnkxcV31EMQ8Z25cMhll722OrsDiRQcoGkhusjiw_4lZqRATpYitVQYo_31CMsEPeOR6JWcABu3HXfyi9qhPAsQuT7WF7mzkdMPGqMPdSg56NECZYRd3gwZrNic6hkDITxLmQpghLl40HCh-JLoGIIYtZqiOzmtMWW6Aq9BAszTRhdgZwAJvCCl2IDglP8ljiYNOfEcVK1LKlsT-l8ZLHQB8Dyjvq-k7Z-YrIZ8XbyRQKjAgtjuK6thb_n-u3Yzuuho_-9AtZBYN9",
-    "question": "What is the best laptop under 45000 rupees?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TRcxdnicHdBdToMwAADgeJk9yp-iW7KYzBUYGyUtbYG-GChsDMqPDsfom3fxVJ5G4wW-h-_rW5675ufuWo3jcFlp2jRN96e-P8nyXvStll3mTmgikzLPRLOyn2zj5SjW4HO3eX3fbRAdBrbFetQ2OvGwzS2hSOL3MOE9UcVYOpAi5Ud5Ag8wnkxcV31EMQ8Z25cMhll722OrsDiRQcoGkhusjiw_4lZqRATpYitVQYo_31CMsEPeOR6JWcABu3HXfyi9qhPAsQuT7WF7mzkdMPGqMPdSg56NECZYRd3gwZrNic6hkDITxLmQpghLl40HCh-JLoGIIYtZqiOzmtMWW6Aq9BAszTRhdgZwAJvCCl2IDglP8ljiYNOfEcVK1LKlsT-l8ZLHQB8Dyjvq-k7Z-YrIZ8XbyRQKjAgtjuK6thb_n-u3Yzuuho_-9AtZBYN9",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFV6TlFUbmxVVm5wbFJWaHljMkpCTUMxS05UZEpUSHBUWW5BMFkxRlNTemR2V1c1R1gyb3lURnBsVjFkelIxQlpZa1ZFVWtWZk9IUTNjbkF3T0RaUFZHTmhMVVl0Y0ZaMlFVTTJSMVpXY1ZsTGN6TjRiRGRzVm5WWWR4SVhkRGhQZG1GMWVtaEVURFpIZHpoalVDMTJWMjFwVVRBYUlrRkVjM0k1WmxJMFgwZGZhVzA1V2pGSFZIUnBRV3MwY1hwSVVXeERZazFNWkhjIiwiZmN2IjoiMyIsImVpIjoidDhPdmF1emhETDZHdzhjUC12V21pUTAiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMjJtX2stIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGxhcHRvcCB1bmRlciA0NTAwMCBydXBlZXM%2FIiwibGsiOiJHaGRpWlhOMElHeGhjSFJ2Y0NCMWJtUmxjaUEwTlRBd01BIiwiYnMiOiJjNDJRdlE3Q0lCU0Y0OHJrcGpMZFhWT3ZUWm03NnRxbE15MG9KQVlhb09udVdfazZQb21pYmZ3M3p2Zjd6am01UkJBc2xhNFZWSTRiQWRwREpYMkFyWFd3NTAyd2pZZldDT25nZERneVhDQmluaUpOdXBfT1hRRjJNWkRJb2FXX1B5cTFGZHJzM2x0V2RObjk2X1ExYXpJdkZROFJEVXJlOEtkRldlVEF0WTJVUGs5bmRQSUZJUVhKcmtuY3lkZW80U0dGVDRDeHVCVzBnWTBSbXVjcHBkTVBLSXVaNDlFWiIsImlkIjoiZmNfdDhPdmF1emhETDZHdzhjUC12V21pUTBfMSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJEUmZkV2R4VWpselkzVmhMVk4wY0dSZmFGaGpURjlGVVRGRWVUTk1VRm8zTlhocFdHWkRRbWcxVlU1b2RXWjJaUzFZTkhKd2VuVnRUbTV3VDFKUllqWXdWRkE0ZFhNeFZuUkpiR3BFZUVVemIyZDRXR3A2WTA1ZlVSSVhORkl5T1dGMVV6bEpXbUZ5ZHpoalVESnpRMDl2UVZFYUlrRkVjM0k1WmxORVIxZE1RalJtZW5SMGNqZFhWMlJZU1ZOU2NFaFdWMWc1ZVVFIiwiZmN2IjoiMyIsImVpIjoiNFIyOWF1UzlJWmFydzhjUDJzQ09vQVEiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMVdVNzgtIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBsYXB0b3BzIHVuZGVyIDYwLDAwMCBydXBlZXMgaW4gSW5kaWE/IiwibGsiOiJHaGhpWlhOMElHeGhjSFJ2Y0hNZ2RXNWtaWElnTmpBd01EQSIsImJzIjoiYzMyT3NRckNNQlJGY2Mza0tFSGtJdXJrRUV0Yng2S0xPSWdnU0JGY1VodHRVSnVTdEJSWF84cmY4VXRzcTBJcDRsM2Z1ZWRkc2llMkhfRVUwaUNOQkFKaFVseDRrcW9FU3h4NGpDQzc0YWcwSERabWpFRm5pUkRHc3dhMG4wZnlFUDBxdnZFaVpFMkdma1Y5TGdWY2dWa2NDbzNuX1dFN3BkV3pSblNRX3dWaGwwYXlKZE5xTHRlaS1kWjhZTGMtRkRMR01nNGw5eXhLT3pfcFVydXJhWTI2Q3B5VUNqRnhGM05zWnF0R3hXSG5tclpIdXhNWHB3Q2FYN19ydjF5UmR1c0YiLCJpZCI6ImZjXzRSMjlhdVM5SVphcnc4Y1Ayc0NPb0FRXzUifQ==",
+    "page_token": "foezf3icHdBdToMwAADgeJk9SjtgZksWIwrbiFRooVBeDJSfzlIgDO3Ym3fxVJ7GxO8I3_dPd-7l710m5nm87AxDa33fDkPb1fd8UEZxWXpu8KLryoLL3eZhAx8bvncv2nketBMl40hfMCDpFZWmYPjQKQwQI1mrERVJlcAm9kRP1DbE7jbnUFxJXC2sy10mbR9n1aHukR8rMQXH3MxMsVQxlcHaApEc-2JNp1pZVgb8oaC-wtDJeFwJnp2uSNpNHaOcuO0tiruQrv0CSxSk0tI0sZsIIFQrFAbubCdr32Wmo5GCBQf5yKBLvBsmwUcnKhrYhI6C99xi8GnhAIUl8PDh7Dv4iJa3NCfECxZmClICPKUUfUZSnF5TqEpYbWjvTBRgvGr4195c_Y_t3xs178ZpaP8AnF54XA",
+    "question": "What are the best laptops under 60,000 rupees in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=foezf3icHdBdToMwAADgeJk9SjtgZksWIwrbiFRooVBeDJSfzlIgDO3Ym3fxVJ7GxO8I3_dPd-7l710m5nm87AxDa33fDkPb1fd8UEZxWXpu8KLryoLL3eZhAx8bvncv2nketBMl40hfMCDpFZWmYPjQKQwQI1mrERVJlcAm9kRP1DbE7jbnUFxJXC2sy10mbR9n1aHukR8rMQXH3MxMsVQxlcHaApEc-2JNp1pZVgb8oaC-wtDJeFwJnp2uSNpNHaOcuO0tiruQrv0CSxSk0tI0sZsIIFQrFAbubCdr32Wmo5GCBQf5yKBLvBsmwUcnKhrYhI6C99xi8GnhAIUl8PDh7Dv4iJa3NCfECxZmClICPKUUfUZSnF5TqEpYbWjvTBRgvGr4195c_Y_t3xs178ZpaP8AnF54XA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJEUmZkV2R4VWpselkzVmhMVk4wY0dSZmFGaGpURjlGVVRGRWVUTk1VRm8zTlhocFdHWkRRbWcxVlU1b2RXWjJaUzFZTkhKd2VuVnRUbTV3VDFKUllqWXdWRkE0ZFhNeFZuUkpiR3BFZUVVemIyZDRXR3A2WTA1ZlVSSVhORkl5T1dGMVV6bEpXbUZ5ZHpoalVESnpRMDl2UVZFYUlrRkVjM0k1WmxORVIxZE1RalJtZW5SMGNqZFhWMlJZU1ZOU2NFaFdWMWc1ZVVFIiwiZmN2IjoiMyIsImVpIjoiNFIyOWF1UzlJWmFydzhjUDJzQ09vQVEiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMVdVNzgtIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBsYXB0b3BzIHVuZGVyIDYwLDAwMCBydXBlZXMgaW4gSW5kaWE%2FIiwibGsiOiJHaGhpWlhOMElHeGhjSFJ2Y0hNZ2RXNWtaWElnTmpBd01EQSIsImJzIjoiYzMyT3NRckNNQlJGY2Mza0tFSGtJdXJrRUV0Yng2S0xPSWdnU0JGY1VodHRVSnVTdEJSWF84cmY4VXRzcTBJcDRsM2Z1ZWRkc2llMkhfRVUwaUNOQkFKaFVseDRrcW9FU3h4NGpDQzc0YWcwSERabWpFRm5pUkRHc3dhMG4wZnlFUDBxdnZFaVpFMkdma1Y5TGdWY2dWa2NDbzNuX1dFN3BkV3pSblNRX3dWaGwwYXlKZE5xTHRlaS1kWjhZTGMtRkRMR01nNGw5eXhLT3pfcFVydXJhWTI2Q3B5VUNqRnhGM05zWnF0R3hXSG5tclpIdXhNWHB3Q2FYN19ydjF5UmR1c0YiLCJpZCI6ImZjXzRSMjlhdVM5SVphcnc4Y1Ayc0NPb0FRXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFV6TlFUbmxVVm5wbFJWaHljMkpCTUMxS05UZEpUSHBUWW5BMFkxRlNTemR2V1c1R1gyb3lURnBsVjFkelIxQlpZa1ZFVWtWZk9IUTNjbkF3T0RaUFZHTmhMVVl0Y0ZaMlFVTTJSMVpXY1ZsTGN6TjRiRGRzVm5WWWR4SVhkRGhQZG1GMWVtaEVURFpIZHpoalVDMTJWMjFwVVRBYUlrRkVjM0k1WmxJMFgwZGZhVzA1V2pGSFZIUnBRV3MwY1hwSVVXeERZazFNWkhjIiwiZmN2IjoiMyIsImVpIjoidDhPdmF1emhETDZHdzhjUC12V21pUTAiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMjJtX2stIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBsYXB0b3BzIHVuZGVyIFJzLiA1NSwwMDAgaW4gSW5kaWE/IiwibGsiOiJHaGhpWlhOMElHeGhjSFJ2Y0hNZ2RXNWtaWElnTlRVd01EQSIsImJzIjoiYzQyUXZRN0NJQlNGNDhya3BqTGRYVk92VFptNzZ0cWxNeTBvSkFZYW9PbnVXX2s2UG9taWJmdzN6dmY3emptNVJCQXNsYTRWVkk0YkFkcERKWDJBclhXdzUwMndqWWZXQ09uZ2REZ3lYQ0JpbmlKTnVwX09YUUYyTVpESW9hV19QeXExRmRyczNsdFdkTm45Nl9RMWF6SXZGUThSRFVyZThLZEZXZVRBdFkyVVBrOW5kUElGSVFYSnJrbmN5ZGVvNFNHRlQ0Q3h1QlcwZ1kwUm11Y3BwZE1QS0l1WjQ5RVoiLCJpZCI6ImZjX3Q4T3ZhdXpoREw2R3c4Y1AtdldtaVEwXzEifQ==",
-    "page_token": "Lk1R13icHdBRTsIwGADgeBke2boiBhJinKzAlMJa2q57MaMVhvthwzWO7c27eCpPY-J3hO_7B06X8vcuLZyrm6nntW07PFbVEd6Hpjp7edNdjGdygH1uyun4YYweD2YWNW34XLVhIupazpnPIUMyMgH7KLGCMhBk1QslOwWAZE98HdjVRtq5KVGog6zRwuK1rCMuC5QDfZVqskt82YmgkIpAuO_jDV2ShEM1ElC4fcSoANaaPss1miy4jxpKwkLN6S5BdsvLG-zPDuuLveZpPOLqdtV-vUyx3Wq5dkrEKy3qjYaCUcy2Alec4GS0w1lh07piURswbEYaPTkL1uUyahenOGRL2m1UxqXKXiSBsQ0QNkBc6t_Hti9OZmF5Rgil0SQcHMzXDA_-x2Zvh7Ob1p_V8Q8HsXfO",
-    "question": "What are the best laptops under Rs. 55,000 in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Lk1R13icHdBRTsIwGADgeBke2boiBhJinKzAlMJa2q57MaMVhvthwzWO7c27eCpPY-J3hO_7B06X8vcuLZyrm6nntW07PFbVEd6Hpjp7edNdjGdygH1uyun4YYweD2YWNW34XLVhIupazpnPIUMyMgH7KLGCMhBk1QslOwWAZE98HdjVRtq5KVGog6zRwuK1rCMuC5QDfZVqskt82YmgkIpAuO_jDV2ShEM1ElC4fcSoANaaPss1miy4jxpKwkLN6S5BdsvLG-zPDuuLveZpPOLqdtV-vUyx3Wq5dkrEKy3qjYaCUcy2Alec4GS0w1lh07piURswbEYaPTkL1uUyahenOGRL2m1UxqXKXiSBsQ0QNkBc6t_Hti9OZmF5Rgil0SQcHMzXDA_-x2Zvh7Ob1p_V8Q8HsXfO",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFV6TlFUbmxVVm5wbFJWaHljMkpCTUMxS05UZEpUSHBUWW5BMFkxRlNTemR2V1c1R1gyb3lURnBsVjFkelIxQlpZa1ZFVWtWZk9IUTNjbkF3T0RaUFZHTmhMVVl0Y0ZaMlFVTTJSMVpXY1ZsTGN6TjRiRGRzVm5WWWR4SVhkRGhQZG1GMWVtaEVURFpIZHpoalVDMTJWMjFwVVRBYUlrRkVjM0k1WmxJMFgwZGZhVzA1V2pGSFZIUnBRV3MwY1hwSVVXeERZazFNWkhjIiwiZmN2IjoiMyIsImVpIjoidDhPdmF1emhETDZHdzhjUC12V21pUTAiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMjJtX2stIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBsYXB0b3BzIHVuZGVyIFJzLiA1NSwwMDAgaW4gSW5kaWE%2FIiwibGsiOiJHaGhpWlhOMElHeGhjSFJ2Y0hNZ2RXNWtaWElnTlRVd01EQSIsImJzIjoiYzQyUXZRN0NJQlNGNDhya3BqTGRYVk92VFptNzZ0cWxNeTBvSkFZYW9PbnVXX2s2UG9taWJmdzN6dmY3emptNVJCQXNsYTRWVkk0YkFkcERKWDJBclhXdzUwMndqWWZXQ09uZ2REZ3lYQ0JpbmlKTnVwX09YUUYyTVpESW9hV19QeXExRmRyczNsdFdkTm45Nl9RMWF6SXZGUThSRFVyZThLZEZXZVRBdFkyVVBrOW5kUElGSVFYSnJrbmN5ZGVvNFNHRlQ0Q3h1QlcwZ1kwUm11Y3BwZE1QS0l1WjQ5RVoiLCJpZCI6ImZjX3Q4T3ZhdXpoREw2R3c4Y1AtdldtaVEwXzEifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJEUmZkV2R4VWpselkzVmhMVk4wY0dSZmFGaGpURjlGVVRGRWVUTk1VRm8zTlhocFdHWkRRbWcxVlU1b2RXWjJaUzFZTkhKd2VuVnRUbTV3VDFKUllqWXdWRkE0ZFhNeFZuUkpiR3BFZUVVemIyZDRXR3A2WTA1ZlVSSVhORkl5T1dGMVV6bEpXbUZ5ZHpoalVESnpRMDl2UVZFYUlrRkVjM0k1WmxORVIxZE1RalJtZW5SMGNqZFhWMlJZU1ZOU2NFaFdWMWc1ZVVFIiwiZmN2IjoiMyIsImVpIjoiNFIyOWF1UzlJWmFydzhjUDJzQ09vQVEiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMVdVNzgtIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGdvb2QgMTZHQiBSQU0gbGFwdG9wcyB1bmRlciA1MGsgaW4gSW5kaWE/IiwibGsiOiJHaHd4TmlCbllpQnlZVzBnYkdGd2RHOXdJSFZ1WkdWeUlEVXdNREF3IiwiYnMiOiJjMzJPc1FyQ01CUkZjYzNrS0VIa0l1cmtFRXRieDZLTE9JZ2dTQkZjVWh0dFVKdVN0QlJYXzhyZjhVdHNxMElwNGwzZnVlZGRzaWUySF9FVTBpQ05CQUpoVWx4NGtxb0VTeHg0akNDNzRhZzBIRFptakVGbmlSREdzd2EwbjBmeUVQMHF2dkVpWkUyR2ZrVjlMZ1ZjZ1ZrY0NvM25fV0U3cGRXelJuU1Ffd1ZobDBheUpkTnFMdGVpLWRaOFlMYy1GRExHTWc0bDl5eEtPel9wVXJ1cmFZMjZDcHlVQ2pGeEYzTnNacXRHeFdIbm1yWkh1eE1YcHdDYVg3X3J2MXlSZHVzRiIsImlkIjoiZmNfNFIyOWF1UzlJWmFydzhjUDJzQ09vQVFfNSJ9",
+    "page_token": "qHDEg3icHdBLjpswGABg9TKznPBMlUhRVRKcggYjGz_G3lTwJ4SAATdhQpJdr9Az9FQ9Tate4Ft8P3-b89D9-fSrmSZ7XS8W8zy_nsbxZI6vMPaL8voYYAGlMVUJ3Xr5eel-qWET3yDaXiAi3Fqxo07h2UH52Zy1jSBPfWaIBsKL_VyYj0yGUc7d28FLP1SPUh6bnD8zT7NoZjFM1b7ZQjcJLRHCTKPSoKeW7v7Q34M8TktAiVcgPHMnlKTH6Lh1DePupTS6rloeFHzVVnGoZUeXMHx11EBCIvWblHdaGd1Bq5XqD1g52aNAq91B6ES4jQZh7TG-W2D6RymvgXLtAxh-owgvtW857jTl30xGUTQKX_wzjBBtdIsbcHibhOpdsJybUr2nfr7HJBvwjnmriNPxTDh9Qmt6Luks_CQo3VQVPk6wEANHyCs6UeMB9YyRByEvNdw2_sv_6833up_W9jKe_gLbIIvx",
+    "question": "What are some good 16GB RAM laptops under 50k in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qHDEg3icHdBLjpswGABg9TKznPBMlUhRVRKcggYjGz_G3lTwJ4SAATdhQpJdr9Az9FQ9Tate4Ft8P3-b89D9-fSrmSZ7XS8W8zy_nsbxZI6vMPaL8voYYAGlMVUJ3Xr5eel-qWET3yDaXiAi3Fqxo07h2UH52Zy1jSBPfWaIBsKL_VyYj0yGUc7d28FLP1SPUh6bnD8zT7NoZjFM1b7ZQjcJLRHCTKPSoKeW7v7Q34M8TktAiVcgPHMnlKTH6Lh1DePupTS6rloeFHzVVnGoZUeXMHx11EBCIvWblHdaGd1Bq5XqD1g52aNAq91B6ES4jQZh7TG-W2D6RymvgXLtAxh-owgvtW857jTl30xGUTQKX_wzjBBtdIsbcHibhOpdsJybUr2nfr7HJBvwjnmriNPxTDh9Qmt6Luks_CQo3VQVPk6wEANHyCs6UeMB9YyRByEvNdw2_sv_6833up_W9jKe_gLbIIvx",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJEUmZkV2R4VWpselkzVmhMVk4wY0dSZmFGaGpURjlGVVRGRWVUTk1VRm8zTlhocFdHWkRRbWcxVlU1b2RXWjJaUzFZTkhKd2VuVnRUbTV3VDFKUllqWXdWRkE0ZFhNeFZuUkpiR3BFZUVVemIyZDRXR3A2WTA1ZlVSSVhORkl5T1dGMVV6bEpXbUZ5ZHpoalVESnpRMDl2UVZFYUlrRkVjM0k1WmxORVIxZE1RalJtZW5SMGNqZFhWMlJZU1ZOU2NFaFdWMWc1ZVVFIiwiZmN2IjoiMyIsImVpIjoiNFIyOWF1UzlJWmFydzhjUDJzQ09vQVEiLCJxYyI6IkNpcHNZWEIwYjNCeklHRjJZV2xzWVdKc1pTQjFibVJsY2lBMU1EQXdNQ0J5ZFhCbFpYTWdhVzVrYVdFUUFIMVdVNzgtIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGdvb2QgMTZHQiBSQU0gbGFwdG9wcyB1bmRlciA1MGsgaW4gSW5kaWE%2FIiwibGsiOiJHaHd4TmlCbllpQnlZVzBnYkdGd2RHOXdJSFZ1WkdWeUlEVXdNREF3IiwiYnMiOiJjMzJPc1FyQ01CUkZjYzNrS0VIa0l1cmtFRXRieDZLTE9JZ2dTQkZjVWh0dFVKdVN0QlJYXzhyZjhVdHNxMElwNGwzZnVlZGRzaWUySF9FVTBpQ05CQUpoVWx4NGtxb0VTeHg0akNDNzRhZzBIRFptakVGbmlSREdzd2EwbjBmeUVQMHF2dkVpWkUyR2ZrVjlMZ1ZjZ1ZrY0NvM25fV0U3cGRXelJuU1Ffd1ZobDBheUpkTnFMdGVpLWRaOFlMYy1GRExHTWc0bDl5eEtPel9wVXJ1cmFZMjZDcHlVQ2pGeEYzTnNacXRHeFdIbm1yWkh1eE1YcHdDYVg3X3J2MXlSZHVzRiIsImlkIjoiZmNfNFIyOWF1UzlJWmFydzhjUDJzQ09vQVFfNSJ9",
     "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntVKY97ALP30SdROhL3SaeUT-Y9-g:1790778849555&q=Dell+laptops+available+under+50000+rupees+india&sa=X&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQ1QJ6BAhHEAE",
+    "query": "Dell laptops available under 50000 rupees india",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dell+laptops+available+under+50000+rupees+india"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntVKY97ALP30SdROhL3SaeUT-Y9-g:1790778849555&q=Laptops+available+under+50000+rupees+india+amazon&sa=X&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQ1QJ6BAhIEAE",
+    "query": "Laptops available under 50000 rupees india amazon",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Laptops+available+under+50000+rupees+india+amazon"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntVKY97ALP30SdROhL3SaeUT-Y9-g:1790778849555&q=Gaming+laptops+available+under+50000+rupees+india&sa=X&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQ1QJ6BAhFEAE",
+    "query": "Gaming laptops available under 50000 rupees india",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gaming+laptops+available+under+50000+rupees+india"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQntVKY97ALP30SdROhL3SaeUT-Y9-g:1790778849555&q=Gaming+laptop+under+500&sa=X&ved=2ahUKEwikssuJw5aXAxWW1fACHVqgA0QQ1QJ6BAhGEAE",
+    "query": "Gaming laptop under 500",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gaming+laptop+under+500"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "laptops available under 50000 rupees india",
-   "time_taken_displayed": 0.19,
-   "total_results": 104
+   "time_taken_displayed": 0.75,
+   "total_results": 128000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:29:54 UTC",
+   "created_at": "2026-09-30 14:34:05 UTC",
    "google_url": "https://www.google.com/search?q=laptops+available+under+50000+rupees+india&oq=laptops+available+under+50000+rupees+india&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc3b2abe7ec5dc31364b9",
-   "json_endpoint": "https://serpapi.com/searches/7jreCnezZn4kSPmjgdJ42Z1c-0vpGuh4klbxgSKo19I/6aafc3b2abe7ec5dc31364b9.json",
-   "markdown_endpoint": "https://serpapi.com/searches/7jreCnezZn4kSPmjgdJ42Z1c-0vpGuh4klbxgSKo19I/6aafc3b2abe7ec5dc31364b9.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/7jreCnezZn4kSPmjgdJ42Z1c-0vpGuh4klbxgSKo19I/6aafc3b2abe7ec5dc31364b9.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:29:54 UTC",
-   "raw_html_file": "https://serpapi.com/searches/7jreCnezZn4kSPmjgdJ42Z1c-0vpGuh4klbxgSKo19I/6aafc3b2abe7ec5dc31364b9.html",
+   "id": "6abd1dddb13aa70ca8cdbf18",
+   "json_endpoint": "https://serpapi.com/searches/fZBtDRT52p1FI5erBZw_9HRr0y6Ac5EqKn0h0qdyI5w/6abd1dddb13aa70ca8cdbf18.json",
+   "markdown_endpoint": "https://serpapi.com/searches/fZBtDRT52p1FI5erBZw_9HRr0y6Ac5EqKn0h0qdyI5w/6abd1dddb13aa70ca8cdbf18.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/fZBtDRT52p1FI5erBZw_9HRr0y6Ac5EqKn0h0qdyI5w/6abd1dddb13aa70ca8cdbf18.json_with_pixel_position",
+   "processed_at": "2026-09-30 14:34:05 UTC",
+   "raw_html_file": "https://serpapi.com/searches/fZBtDRT52p1FI5erBZw_9HRr0y6Ac5EqKn0h0qdyI5w/6abd1dddb13aa70ca8cdbf18.html",
    "status": "Success",
-   "total_time_taken": 5.37
+   "total_time_taken": 5.51
   },
   "search_parameters": {
    "device": "desktop",
@@ -320,15 +383,8 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=80"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=laptops+available+under+50000+rupees+india&start=20"
    }
   }
  },

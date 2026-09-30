@@ -22,6 +22,10 @@ htmlcov/
 # Frugal: live cache is local-only. Benchmark fixtures are committed
 # deliberately (see benchmarks/fixtures) so results reproduce without a key.
 .frugal-cache/
+# ...and any archived copy of it. A renamed cache is still a cache: the rule
+# above matched only the exact name, so setting one aside under another name
+# put the whole raw recording one `git add -A` away from being committed.
+.frugal-cache*/
 
 # OS
 .DS_Store

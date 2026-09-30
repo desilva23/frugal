@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 31451.125,
+ "elapsed_ms": 2008.435,
  "engine": "google",
- "fetched_at": "2026-09-20T12:05:27.926652+00:00",
+ "fetched_at": "2026-09-30T15:19:36.669962+00:00",
  "frugal_cache_version": 1,
  "key": "2877ea3bea1447fcc52001e4f93f5b77359acca7e9829963f4222f0def574479",
  "params": {
@@ -10,296 +10,373 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "DH8hWniczVXbcqpIFP2A-Y7xJYmI0Qipok51N413j5ioQ14obiKidkKjqG_nYf5kvmq-ZhrwAgkmc87D1Oyqtulmue-L_eOvpbf2__7tz3kYvtJHjouiqOwS4i6dskVWnEH3a4ubkSUNrPk3SjaB5Xi2ZM0DsnJK-610X7KoVCk5ngSF_dag-gzXmiGvtrS5dQdAVEo0SLppUGfBDOwWlNM59uP_fi-zQ5mWnXV5M6Mvssjbzz2hXK3wYvk7Z6wYAPx3glUXxnsHoOsg9gp_rSpW0AYQZzS1gZvs8ILS0tdITV4h96o2mNocJXCVLVk_tCKZ3R7zI1_9LzMBc8co8YXVJfESAu_raDKiHmM5xfVJps7ovByzRy432RrnfM2JG-WOCvNCBwhdjGSNMTXznBvnTFkuEFoEyhCMr_vN8tNtg7oPVFwUQlZUPKmdK9fTmuyGs13WuBXODNjGc541t5KHgMb9jJ7FClGe5w1xLIff7WWF-DtDMbXqSBBeZoM-4CyT4ZbEsB1bn-uVb8mZr_L1injfEG4TIln0zCSaZdIQbMyn3rzmHUC5V4b8iUYoLTr4UDHMzqhdEBhER2hBiTONHRfsWFJVyeo9lhICRAAegXxpu8M4r83TkfXogZUmi7hYjZv_I41ScTNgNEodadeOwCwiRTUz1M0Utg2KPjPv41Zbl0f5AzBHQOYK8MEpMdp7zRpQkYtjDiDcgsesWVkdLOLu-QBPDmPAvlDwhLhgU1DGpzZjV1sFfdDGTKc3brMOdeNeTR2Nm-FoS8HvGHel4TVmZor-zaevQOBXJIpFPfHlXfvnaCM0l7tqZ_cg2OpidIDmtI71Fxj64RYU04SszJ-YONb_ikjpPMLHeXSdSPhrIiXzCH4yj5Jn7UykuHkRuUok2CyeR_3CeZSPG4FRlkifz6OfJhL6lEhpHxYSiRQT6fUqkdzoPZHy8wgXz6MzkX5lHsFfnEcJr5x0yw-nzcK9PqSqY3CY7K3QqImjMX6rd6q-uib16W749ZCarcLHlWEvb3XPfoTVTri3b3V2QR4du_QmLY3QoeHN2onojbe2PcPwblYepR5Zl1bLgEgV4-HZBPu3mqHLmragdy9euBdGNW0x3XUBrppuoxY-bTvwqbFrispWNZAzR1sgK6ITyfvOm2-10LQzDgnaCb5S7QR_HJrdaVMcDPwe7ztaU-n4m9amPrmbQN4fDFyrpQzVV7IcrzEONiGIzAnfC5zNGsuK1h02XyaJZ1TqjyM_dL1-341Kq8CSWM1rLhioYOqy5kNJU7JF2IrYemA1gSVqGbpDt5J4X7Wc-0ZjZlYEyxbt0soN96-SWCnRdSDx_wAYN0Ch",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DH8hWniczVXbcqpIFP2A-Y7xJYmI0Qipok51N413j5ioQ14obiKidkKjqG_nYf5kvmq-ZhrwAgkmc87D1Oyqtulmue-L_eOvpbf2__7tz3kYvtJHjouiqOwS4i6dskVWnEH3a4ubkSUNrPk3SjaB5Xi2ZM0DsnJK-610X7KoVCk5ngSF_dag-gzXmiGvtrS5dQdAVEo0SLppUGfBDOwWlNM59uP_fi-zQ5mWnXV5M6Mvssjbzz2hXK3wYvk7Z6wYAPx3glUXxnsHoOsg9gp_rSpW0AYQZzS1gZvs8ILS0tdITV4h96o2mNocJXCVLVk_tCKZ3R7zI1_9LzMBc8co8YXVJfESAu_raDKiHmM5xfVJps7ovByzRy432RrnfM2JG-WOCvNCBwhdjGSNMTXznBvnTFkuEFoEyhCMr_vN8tNtg7oPVFwUQlZUPKmdK9fTmuyGs13WuBXODNjGc541t5KHgMb9jJ7FClGe5w1xLIff7WWF-DtDMbXqSBBeZoM-4CyT4ZbEsB1bn-uVb8mZr_L1injfEG4TIln0zCSaZdIQbMyn3rzmHUC5V4b8iUYoLTr4UDHMzqhdEBhER2hBiTONHRfsWFJVyeo9lhICRAAegXxpu8M4r83TkfXogZUmi7hYjZv_I41ScTNgNEodadeOwCwiRTUz1M0Utg2KPjPv41Zbl0f5AzBHQOYK8MEpMdp7zRpQkYtjDiDcgsesWVkdLOLu-QBPDmPAvlDwhLhgU1DGpzZjV1sFfdDGTKc3brMOdeNeTR2Nm-FoS8HvGHel4TVmZor-zaevQOBXJIpFPfHlXfvnaCM0l7tqZ_cg2OpidIDmtI71Fxj64RYU04SszJ-YONb_ikjpPMLHeXSdSPhrIiXzCH4yj5Jn7UykuHkRuUok2CyeR_3CeZSPG4FRlkifz6OfJhL6lEhpHxYSiRQT6fUqkdzoPZHy8wgXz6MzkX5lHsFfnEcJr5x0yw-nzcK9PqSqY3CY7K3QqImjMX6rd6q-uib16W749ZCarcLHlWEvb3XPfoTVTri3b3V2QR4du_QmLY3QoeHN2onojbe2PcPwblYepR5Zl1bLgEgV4-HZBPu3mqHLmragdy9euBdGNW0x3XUBrppuoxY-bTvwqbFrispWNZAzR1sgK6ITyfvOm2-10LQzDgnaCb5S7QR_HJrdaVMcDPwe7ztaU-n4m9amPrmbQN4fDFyrpQzVV7IcrzEONiGIzAnfC5zNGsuK1h02XyaJZ1TqjyM_dL1-341Kq8CSWM1rLhioYOqy5kNJU7JF2IrYemA1gSVqGbpDt5J4X7Wc-0ZjZlYEyxbt0soN96-SWCnRdSDx_wAYN0Ch"
+   "page_token": "txjknHiczVXdcqJKEH6A8xzrTaKABpVUUVszIzFo_CHGuObGwgHHiSCRQdHc7RuchzhPdZ7mDCCKRpLavdg6XeLATHdPd09_8_38x6HLxb9__T0Pgjd2KwhhGJaI5xHHLmHPFUy2W2Jh5jnMx_PvzFv72KaWiue-59qF3UatFDBTxYJN1fmOKiZD5fuqK4t9rR_W6FvdGBdiF-pkajL7le-wfWXCROB_i2-VBv8osZITlIaPw432PAicVb1UFiWl1BNMlyuAPyiGBnQA-ZgMeYIA0L52FqkYAEW-UiHouBQtAtBI_EV7kniynbulHllBMOf-YtX-zVaeM_4yTJUG-RFHe43TjzAeIEx2HERBka_z2QsE-9JA4xBaruiXpxNLlNl0_GH1knQ-BNO4AYYB0xDOTmWQzQpqUZaRBi9GsbEFMKQ5xd4b8N8TuF94n6cYiYf0eloOcMf4oeqCRXjzisLU54MkUDzH8YvPop5GT4roNWtNvF2NGniH7ZY0G4krfdsGd83taEwEPOV6jmdatjWZT8Tv8bdUlmRRqdTq1zGYMDugiWXR1PMew-5KUlhHKz2UoJRCCR0O5CwhjX-jS2fFK4suGcRCeCHTimeMKcp2U9qc-_Y-6Qii6f1obKYTPX6gAOIs9NINIvNLUEqUDi0TQyluLD0Z9aP5QWWoHx2Rk9ZffMwyE8y-FAiESbsajdTHPkrjrEwIDHS-ls6eXSkGBHSuRWnBAc-HxWo42_-aqD0eU0apk6jhtXTLQ4qJmZ6BEuL9jeKO70Y6C0QWUOfBQpAYkRgU-xzOjl_LueIQzxEO8yH6mZC8--BE9BQzZxA4gc5z-4dB62Ol-14sNmubl7bvi9Pq9EWph5eh4rnTX2Ae_P8CU8pLwz0v5YNJ-xpM0T34GS9pp7w0SMDUzgeTph95iWR4SUyVjrx0DiY0yIAp4SUC7y7z0q-CCX0CJv0zMEWZXgKTkQumDjgDU-ucl07AdOClFEy_x0v67_FSjC07GU5Jav1KcslKe-l03ic2HPXBolKfPa6NxnP7bvcUUdaXZDVzg1vXtJzrCbVuYbkV7KzrCZ_wbm2rsFIdM7BZcLW0Q3ZFlxY1TXrlUsaotyy4ju-poim_95WRPTVqj_0aHaGHtjiudk2942xhaBcx6CnL13VtuzQq605LUxo_nKDv-EhqDcoNOSi37mXoVOnCBR0NTXqSJXdaT5Vn_6ZWfNBXzVp7WAe9TWs39N8rfQNpeA1mqzdZlFcP01Fjdr_oGFSR78ZWSJ7WO1MmcVxM9Yvde0pb3Sm-Kbg-VvmB3BDQNcCI8OZDY84IhD8ef0L-VDmSYYFhc2KzjToVsWLWy3YV45oyk2YFlwS7N1URC2zpq9J_9mpDaA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=txjknHiczVXdcqJKEH6A8xzrTaKABpVUUVszIzFo_CHGuObGwgHHiSCRQdHc7RuchzhPdZ7mDCCKRpLavdg6XeLATHdPd09_8_38x6HLxb9__T0Pgjd2KwhhGJaI5xHHLmHPFUy2W2Jh5jnMx_PvzFv72KaWiue-59qF3UatFDBTxYJN1fmOKiZD5fuqK4t9rR_W6FvdGBdiF-pkajL7le-wfWXCROB_i2-VBv8osZITlIaPw432PAicVb1UFiWl1BNMlyuAPyiGBnQA-ZgMeYIA0L52FqkYAEW-UiHouBQtAtBI_EV7kniynbulHllBMOf-YtX-zVaeM_4yTJUG-RFHe43TjzAeIEx2HERBka_z2QsE-9JA4xBaruiXpxNLlNl0_GH1knQ-BNO4AYYB0xDOTmWQzQpqUZaRBi9GsbEFMKQ5xd4b8N8TuF94n6cYiYf0eloOcMf4oeqCRXjzisLU54MkUDzH8YvPop5GT4roNWtNvF2NGniH7ZY0G4krfdsGd83taEwEPOV6jmdatjWZT8Tv8bdUlmRRqdTq1zGYMDugiWXR1PMew-5KUlhHKz2UoJRCCR0O5CwhjX-jS2fFK4suGcRCeCHTimeMKcp2U9qc-_Y-6Qii6f1obKYTPX6gAOIs9NINIvNLUEqUDi0TQyluLD0Z9aP5QWWoHx2Rk9ZffMwyE8y-FAiESbsajdTHPkrjrEwIDHS-ls6eXSkGBHSuRWnBAc-HxWo42_-aqD0eU0apk6jhtXTLQ4qJmZ6BEuL9jeKO70Y6C0QWUOfBQpAYkRgU-xzOjl_LueIQzxEO8yH6mZC8--BE9BQzZxA4gc5z-4dB62Ol-14sNmubl7bvi9Pq9EWph5eh4rnTX2Ae_P8CU8pLwz0v5YNJ-xpM0T34GS9pp7w0SMDUzgeTph95iWR4SUyVjrx0DiY0yIAp4SUC7y7z0q-CCX0CJv0zMEWZXgKTkQumDjgDU-ucl07AdOClFEy_x0v67_FSjC07GU5Jav1KcslKe-l03ic2HPXBolKfPa6NxnP7bvcUUdaXZDVzg1vXtJzrCbVuYbkV7KzrCZ_wbm2rsFIdM7BZcLW0Q3ZFlxY1TXrlUsaotyy4ju-poim_95WRPTVqj_0aHaGHtjiudk2942xhaBcx6CnL13VtuzQq605LUxo_nKDv-EhqDcoNOSi37mXoVOnCBR0NTXqSJXdaT5Vn_6ZWfNBXzVp7WAe9TWs39N8rfQNpeA1mqzdZlFcP01Fjdr_oGFSR78ZWSJ7WO1MmcVxM9Yvde0pb3Sm-Kbg-VvmB3BDQNcCI8OZDY84IhD8ef0L-VDmSYYFhc2KzjToVsWLWy3YV45oyk2YFlwS7N1URC2zpq9J_9mpDaA"
   },
+  "inline_images": [
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3979241860081911434",
+    "source": "https://www.instagram.com/p/DUiRqDdDRJR/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJi7ndBX9hilmH1gYBQNFjS6ePcEI8mK3BlrMrgVcRgDGrD-Kc_N20WY&s",
+    "title": "The IndiaAI Mission isn't just building compute, it's ..."
+   },
+   {
+    "original": "https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/news/fi/69ce5802aae69.webp",
+    "source": "https://www.entrepreneurindia.com/blog/en/tag/indiaai-mission",
+    "source_name": "Entrepreneur India",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYaO8KfcdOxYu_5yHsA_1sYKPofbKZk2sSl9hK6ugKIFUNHYJqFbtwq9E&s",
+    "title": "IndiaAI Mission latest News, Articles, Market Insights ..."
+   },
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3828700289935675985",
+    "source": "https://www.instagram.com/p/DUiRqDdDRJR/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvE3nALvCyUTwL9OTmJyea4zMpyrNYcEJHFSHvqN1iIg-gB2JcL9ZmLS3ug&s",
+    "title": "The IndiaAI Mission isn't just building compute, it's ..."
+   },
+   {
+    "original": "https://cdn.zeebiz.com/sites/default/files/2026/02/16/400764-pm-modi-5.jpg",
+    "source": "https://www.zeebiz.com/topics/indiaai-mission?page=1",
+    "source_name": "Zee Business",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC8M7iDbB248QKReyT68oQEB8-pq017gdrkl-uIHG1Ec8HllQlV1hP1y8&s",
+    "title": "IndiaAI Mission Latest News- Top News on IndiaAI Mission ..."
+   },
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3459781804233353668",
+    "source": "https://www.instagram.com/reel/DADnThhsGnE/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWoyJ5NQvRE1DdxKoGIeajmorpVJHWFu9HN0Z070mVt2u-VstjMEklF0&s",
+    "title": "Discover the latest news, trends, and insights from the world of Artificial  Intelligence in just 3 easy steps:, Step 1: Visit indiaai.gov.in, Step 2:  Click \"Sign In\" on the homepage, Step 3: Register ..."
+   },
+   {
+    "original": "https://i.ytimg.com/vi/kxEtmTr8XKQ/maxresdefault.jpg",
+    "source": "https://www.youtube.com/watch?v=kxEtmTr8XKQ",
+    "source_name": "YouTube",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMB81GddXimh-Tn5ViIbOceZHVuUrFdEkOmwmmiph&s",
+    "title": "India's Electronics and Information Technology Minister addresses 'India AI  Mission' | DD India"
+   },
+   {
+    "original": "https://apacnewsnetwork.com/wp-content/uploads/2026/02/News-11.webp?v=1771247410",
+    "source": "https://apacnewsnetwork.com/category/indiaai-mission/",
+    "source_name": "APAC Media",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9_mAtOQGXbxY7Cz7IEcS8fNvrdMiPdUCFtMPI0m68916IV0k7SWvZUxRwQ&s",
+    "title": "IndiaAI Mission | APAC Media | Latest News & Events"
+   },
+   {
+    "original": "https://ddnews.gov.in/wp-content/uploads/2026/01/AI-Submiit.jpg",
+    "source": "https://ddnews.gov.in/en/ai-must-empower-citizens-not-replace-them-indiaai-mission-ceo/",
+    "source_name": "ddnews.gov.in",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq66jH8aiEoXzrJDSHpBbfnlvBN6hS2De9mvuj2MmZLfYPms5w03d3w5M&s",
+    "title": "AI must empower citizens, not replace them: IndiaAI Mission ..."
+   },
+   {
+    "original": "https://apacnewsnetwork.com/wp-content/uploads/2026/03/News-2-350x175.webp",
+    "source": "https://apacnewsnetwork.com/category/indiaai-mission/",
+    "source_name": "APAC Media",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKM7RWBCmyXAz-5gWN7Af7CqGjaewAzejSv6G0TjDF86rgrJd6d2lOQ98UA&s",
+    "title": "IndiaAI Mission | APAC Media | Latest News & Events"
+   }
+  ],
   "inline_videos": [
    {
-    "channel": "Business Today",
-    "date": "3 days ago",
-    "duration": "5:11",
-    "link": "https://www.youtube.com/watch?v=tuX8CLe88DA",
+    "channel": "CNBC-TV18",
+    "date": "2026-02-18",
+    "duration": "1:12",
+    "link": "https://www.youtube.com/shorts/cAajw0GpPpo",
     "platform": "YouTube",
     "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSXdp4S115HqIvCDv_oa-C7bsJc38dcjsL2yQ",
-    "thumbnail": "https://serpapi.com/searches/6aafcc0797c19f6081d6391c/images/mRJ3e2mFbeQIFbv7QXK_KaLYQmpg6eVWOtoT7bKbxsc.jpeg",
-    "title": "India's Semiconductor Mission 2.0: $13.5 Billion Push For ..."
+    "thumbnail": "https://serpapi.com/searches/6abd2886a68855ce0ee5b6d8/images/dHasgisEyNkWsGJ6MXb2qp9zavS1PXeuBPe5LRooTes.jpeg",
+    "title": "IndiaAI Mission Makes History | Ashwini Vaishnaw | N18S"
    },
    {
-    "channel": "NDTV Profit",
-    "date": "4 days ago",
-    "duration": "12:37",
-    "link": "https://www.youtube.com/watch?v=YT3x8PLV1Gk",
+    "channel": "TechDogs",
+    "date": "2026-02-12",
+    "duration": "5:09",
+    "link": "https://www.youtube.com/watch?v=ms-xuGfxRCM",
     "platform": "YouTube",
     "position": 2,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTCvRsQhb05oI2-cLGxsje-IzWcDcSnugrR2w",
-    "thumbnail": "https://serpapi.com/searches/6aafcc0797c19f6081d6391c/images/ujnxEsL_ZGXICdeD14yzakrBaHKBA86VzUFa8lbb8X0.jpeg",
-    "title": "The World Wants To Put Brakes On AI. Should India? | Experts ..."
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQwooWK1WQk0vmnQCLtNcXUnS-HAJNVNq-dPA",
+    "thumbnail": "https://serpapi.com/searches/6abd2886a68855ce0ee5b6d8/images/00XzNKKq_xsivfdEbekgWHu5V6Ppt8vCXIHfW2gv9hk.jpeg",
+    "title": "Inside The IndiaAI Mission: Enterprise Participation And Progress"
    },
    {
-    "channel": "AIM Network",
-    "date": "1 day ago",
-    "duration": "4:22",
-    "link": "https://www.youtube.com/watch?v=X6olWDri8Vw",
-    "platform": "YouTube",
+    "channel": "India in Cyprus (High Commission of India, Nicosia)",
+    "date": "2026-01-07",
+    "duration": "3:42",
+    "link": "https://www.facebook.com/IndiainCyprus/videos/-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%94-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A7-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%AA-%F0%9D%97%97%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%9B%F0%9D%97%9C-httpsimpactindiaaigovinindias-ai-journey-/1235531945109023/",
+    "platform": "Facebook",
     "position": 3,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRkYegV9Oh8Hh76VyBNygCrnURDuCwirvVDuA",
-    "snippet": "Goldman Sachs identified 42 Indian companies, rallying 60% in 2026, benefiting from the AI infrastructure buildout in power, data centers & semiconductors.",
-    "thumbnail": "https://serpapi.com/searches/6aafcc0797c19f6081d6391c/images/ZhqasEziChq1PvLBVH_kCGa7AJQlZWroc26_r06sBbw.jpeg",
-    "title": "REPORT: Goldman Sachs Finds 42 Indian Companies ..."
+    "thumbnail": "https://serpapi.com/searches/6abd2886a68855ce0ee5b6d8/images/WuF_NBlMQ8cTfoO94gHK24WOtR9vszrg_aJueMMeCIk.jpeg",
+    "title": "🇮🇳 𝗜𝗡𝗗𝗜𝗔 𝗔𝗜 𝗜𝗠𝗣𝗔𝗖𝗧 𝗦𝗨𝗠𝗠𝗜𝗧 𝟮𝟬𝟮𝟲 | 𝗡𝗘𝗪 𝗗𝗘𝗟𝗛𝗜 ..."
    },
    {
-    "channel": "Sanjay Kathuria",
-    "date": "3 days ago",
-    "duration": "28:35",
-    "link": "https://www.youtube.com/watch?v=rxirf0ibSrg",
+    "channel": "Mint",
+    "date": "2025-10-23",
+    "duration": "1:00",
+    "link": "https://www.youtube.com/shorts/SnpM4e7Vbm0",
     "platform": "YouTube",
     "position": 4,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSBcHFCu2VKmMboRpQQbspAbdcYWvEizEl1BQ",
-    "thumbnail": "https://serpapi.com/searches/6aafcc0797c19f6081d6391c/images/TUf3nUCxhyWU6W1BNcu5Q4Umfog1wo_L9VB_VGenfMg.jpeg",
-    "title": "The END of US Tech Jobs? | AI Layoffs, H-1B Visa Fear ..."
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTnQGMpLyVAPOWrYVbvtmDMzlNMvJm4uoSTnA",
+    "thumbnail": "https://serpapi.com/searches/6abd2886a68855ce0ee5b6d8/images/TuB7_BoQg3EOXpZOBBvjO_fRx0xfJ3fx3FQTbHyy0As.jpeg",
+    "title": "India's AI Mission for Global South #indiafortheworld #shorts"
    }
   ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVlE5WkpFemttR0tSdlFRakVnU2RiZldPZ0h5b1NVS093M0Y3WTZGUFFTOFZpVEZ1emNZZVB5enVGd0ZpNnJ5TVd3VmZPSnFWV3hSYzlRYnFwQkY2T0VJeUQ4aHRVX01zTTNkUHY5UEozMFhPdnVxVkNGX1pOVHFhanpYZzM1dGM5MFpyQVk4R3pTZTgSBBoCCAAa5QUSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAwQUIABAAGAAgACqrAQoGbGF0ZXN0FaSZGj8aBGJlc3QaCGJyZWFraW5nGgdjdXJyZW50GgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GgZ1cGRhdGUaCmxhdGVzdG5ld3MaC2l2O2Q7bGF0ZXN0Gg1pdjtkO2JyZWFraW5nGgxpdjtkO2N1cnJlbnQaCGl2O2Q7aG90GglpdjtkO2xhc3QaCGl2O2Q7bmV3GgtpdjtkO3JlY2VudCoqCgRuZXdzFfwbtj8aBmV2ZW50cxoKbGF0ZXN0bmV3cxoJaXY7ZDtuZXdzKigKB2luZGlhYWkVeFKIQBoIaW5kaWEgYWkaDmluZGlhYWltaXNzaW9uKjYKB21pc3Npb24VeFKIQBoIbWlzc2lvbnMaDmluZGlhYWltaXNzaW9uGgxpdjtkO21pc3Npb24yoQEvZ290bz91cmw9Q0FFU2JRSHJPekFWUTlaSkV6a21HS1J2UVFqRWdTZGJmV09nSHlvU1VLT3czRjdZNkZQUVM4VmlURnV6Y1llUHl6dUZ3Rmk2cnlNV3dWZk9KcVZXeFJjOVFicXBCRjZPRUl5RDhodFVfTXNNM2RQdjlQSjMwWE92dXFWQ0ZfWk5UcWFqelhnMzV0YzkwWnJBWThHelNlODoiPGI-SW5kaWFBSSBNaXNzaW9uPC9iPiB8IFlvdXJTdG9yeUKnATxiPkluZGlhQUkgTWlzc2lvbiBleHBhbmRzIGluZGlnZW5vdXMgQUkgcHJvZ3JhbW1lIHdpdGggOCBuZXcgcGFydGljaXBhbnRzPC9iPi4gMTh0aCBTZXAgMjAyNS4gSW5kaWFBSSBNaXNzaW9uIGV4cGFuZHMgaW5kaWdlbm91cyBBSSBwcm9ncmFtbWUgd2l0aCA4IG5ldyBwYXJ0aWNpcGFudHMuUgNuZXdSBGJlc3QiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVlE5WkpFemttR0tSdlFRakVnU2RiZldPZ0h5b1NVS093M0Y3WTZGUFFTOFZpVEZ1emNZZVB5enVGd0ZpNnJ5TVd3VmZPSnFWV3hSYzlRYnFwQkY2T0VJeUQ4aHRVX01zTTNkUHY5UEozMFhPdnVxVkNGX1pOVHFhanpYZzM1dGM5MFpyQVk4R3pTZTgSBBoCCAAa5QUSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAwQUIABAAGAAgACqrAQoGbGF0ZXN0FaSZGj8aBGJlc3QaCGJyZWFraW5nGgdjdXJyZW50GgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GgZ1cGRhdGUaCmxhdGVzdG5ld3MaC2l2O2Q7bGF0ZXN0Gg1pdjtkO2JyZWFraW5nGgxpdjtkO2N1cnJlbnQaCGl2O2Q7aG90GglpdjtkO2xhc3QaCGl2O2Q7bmV3GgtpdjtkO3JlY2VudCoqCgRuZXdzFfwbtj8aBmV2ZW50cxoKbGF0ZXN0bmV3cxoJaXY7ZDtuZXdzKigKB2luZGlhYWkVeFKIQBoIaW5kaWEgYWkaDmluZGlhYWltaXNzaW9uKjYKB21pc3Npb24VeFKIQBoIbWlzc2lvbnMaDmluZGlhYWltaXNzaW9uGgxpdjtkO21pc3Npb24yoQEvZ290bz91cmw9Q0FFU2JRSHJPekFWUTlaSkV6a21HS1J2UVFqRWdTZGJmV09nSHlvU1VLT3czRjdZNkZQUVM4VmlURnV6Y1llUHl6dUZ3Rmk2cnlNV3dWZk9KcVZXeFJjOVFicXBCRjZPRUl5RDhodFVfTXNNM2RQdjlQSjMwWE92dXFWQ0ZfWk5UcWFqelhnMzV0YzkwWnJBWThHelNlODoiPGI-SW5kaWFBSSBNaXNzaW9uPC9iPiB8IFlvdXJTdG9yeUKnATxiPkluZGlhQUkgTWlzc2lvbiBleHBhbmRzIGluZGlnZW5vdXMgQUkgcHJvZ3JhbW1lIHdpdGggOCBuZXcgcGFydGljaXBhbnRzPC9iPi4gMTh0aCBTZXAgMjAyNS4gSW5kaWFBSSBNaXNzaW9uIGV4cGFuZHMgaW5kaWdlbm91cyBBSSBwcm9ncmFtbWUgd2l0aCA4IG5ldyBwYXJ0aWNpcGFudHMuUgNuZXdSBGJlc3QiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Explore modern Latin cuisine at The Mission. In 2024, Carter was named Arizona Restaurant Association's Foodist Award's Food Pioneer Award recipient, lifetime ...",
-      "icon": "https://serpapi.com/images/i/UklGRrYBAABXRUJQVlA4IKoBAADQBwCdASogACAAPtEwtFooIigoGAEAGglsAJ0yhHtO6LgJlma7o2TwRP9H6gGhXKvTxZuExIiATokBLJ7YYzw2xDrt_VO2vgD-9BfYO7HaNKtKwjkn8zvj__YV6P1dL_ZT1PGh8bHxbHKdAdjE7pCkO_9rlAKbpdXxmU6Rf_f2mDP8gtjvN_29vcasahfYIFvFgjQgNrEXDOaksQAfjtc5l5-R9w-H_YQ9Ogkr3E7OdQjzqmJi_1WOov4-4RquK8NfxSz6bpCGAZnrpC3aPHmkTJXu41OCfyndMDtvqLGdW2Rc0lo_pv2b92_1_i-pCAUMAv7HSK-OBGQgdTH8ncn_ddMFJeCZaDPBSjzd_rLBMel_X_9_-ttmiWnDMs3Kcsc-FXs_CK1vGvv9NSlF5D559BwQSMvmsPsLl8XY-UTtps5vXNB4_b3ZQIbjO04b0GfLP_gH9_q_UO652TT4FGmRRHVXf_KGZEbfSqHummmzbuTGhXDYb3cWLWb6Ivz0pPh8m1-J_NxnG5SmxlCZ8G5Hg5-tT4c2tg3Kd9ANfwcdzp19XmweSicAAAA.webp",
-      "source_info_link": "https://www.themissionaz.com/"
+      "description": "IndiaAI Mission expands indigenous AI programme with 8 new participants. 18th Sep 2025. IndiaAI Mission expands indigenous AI programme with 8 new participants.",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAABQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHVw005GIi0K1cKDajtz5uf5zxVV4Ww2bH_TAvT-AAD-nwCSDRwAo884UobSnksXEeE3G1HwXUu9J3KvN_y2uHDWimsy3r7JWgVvhh2x6pFwfMUY6TJKowoScibjgT6eA3qo7BoNYv_xzj4tiRXfcDICRPHrOTkk5E6h1v4otSgQ2L7mA1mIOP4HA8LaqAvp151mhSCO38GFPf32js6s8BREDZEO0Gsw9aob5bgcw-0mwNitwEsEiCxkTvxbn4nfzcVFEDJKile_-Tum0OxGijxg46AY9VNJ7ASpV1mIuObiPmpVFomthB4SGf3rkTf9-CzGlp4rah5UIhGEqw7DIrGjeeKu4LyVhrLPOf9S9XM89JPfs_DPqxJC7uOf37Tp_v5_5tkyrqKwAAAA.webp",
+      "source_info_link": "https://yourstory.com/ai-story/tag/indiaai-mission"
      }
     },
-    "displayed_link": "https://www.themissionaz.com",
-    "favicon": "https://serpapi.com/images/i/UklGRrYBAABXRUJQVlA4IKoBAADQBwCdASogACAAPtEwtFooIigoGAEAGglsAJ0yhHtO6LgJlma7o2TwRP9H6gGhXKvTxZuExIiATokBLJ7YYzw2xDrt_VO2vgD-9BfYO7HaNKtKwjkn8zvj__YV6P1dL_ZT1PGh8bHxbHKdAdjE7pCkO_9rlAKbpdXxmU6Rf_f2mDP8gtjvN_29vcasahfYIFvFgjQgNrEXDOaksQAfjtc5l5-R9w-H_YQ9Ogkr3E7OdQjzqmJi_1WOov4-4RquK8NfxSz6bpCGAZnrpC3aPHmkTJXu41OCfyndMDtvqLGdW2Rc0lo_pv2b92_1_i-pCAUMAv7HSK-OBGQgdTH8ncn_ddMFJeCZaDPBSjzd_rLBMel_X_9_-ttmiWnDMs3Kcsc-FXs_CK1vGvv9NSlF5D559BwQSMvmsPsLl8XY-UTtps5vXNB4_b3ZQIbjO04b0GfLP_gH9_q_UO652TT4FGmRRHVXf_KGZEbfSqHummmzbuTGhXDYb3cWLWb6Ivz0pPh8m1-J_NxnG5SmxlCZ8G5Hg5-tT4c2tg3Kd9ANfwcdzp19XmweSicAAAA.webp",
-    "link": "https://www.themissionaz.com/",
+    "displayed_link": "https://yourstory.com › ai-story › tag",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAABQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHVw005GIi0K1cKDajtz5uf5zxVV4Ww2bH_TAvT-AAD-nwCSDRwAo884UobSnksXEeE3G1HwXUu9J3KvN_y2uHDWimsy3r7JWgVvhh2x6pFwfMUY6TJKowoScibjgT6eA3qo7BoNYv_xzj4tiRXfcDICRPHrOTkk5E6h1v4otSgQ2L7mA1mIOP4HA8LaqAvp151mhSCO38GFPf32js6s8BREDZEO0Gsw9aob5bgcw-0mwNitwEsEiCxkTvxbn4nfzcVFEDJKile_-Tum0OxGijxg46AY9VNJ7ASpV1mIuObiPmpVFomthB4SGf3rkTf9-CzGlp4rah5UIhGEqw7DIrGjeeKu4LyVhrLPOf9S9XM89JPfs_DPqxJC7uOf37Tp_v5_5tkyrqKwAAAA.webp",
+    "link": "https://yourstory.com/ai-story/tag/indiaai-mission",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAV_-WgkRVFZtMQNdt9ioOgyEi6yxQoqupP55pzd4I6UM88iOZaH2zXp0VFIzm3uqhkuNOLV2CpZcuEO7LVGP8WxfguqJIHookGecEhvhwuWTc&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQFnoECB0QAQ&uoh=1",
-    "snippet": "Explore modern Latin cuisine at The Mission. In 2024, Carter was named Arizona Restaurant Association's Foodist Award's Food Pioneer Award recipient, lifetime ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVQ9ZJEzkmGKRvQQjEgSdbfWOgHyoSUKOw3F7Y6FPQS8ViTFuzcYePyzuFwFi6ryMWwVfOJqVWxRc9QbqpBF6OEIyD8htU_MsM3dPv9PJ30XOvuqVCF_ZNTqajzXg35tc90ZrAY8GzSe8&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4QFnoECCcQAQ&uoh=1",
+    "snippet": "IndiaAI Mission expands indigenous AI programme with 8 new participants. 18th Sep 2025. IndiaAI Mission expands indigenous AI programme with 8 new participants.",
     "snippet_highlighted_words": [
-     "Explore modern Latin cuisine at The Mission"
+     "IndiaAI Mission expands indigenous AI programme with 8 new participants"
     ],
-    "source": "themissionaz.com",
-    "title": "The Mission | Modern Latin Restaurant from Chef Matt Carter"
+    "source": "YourStory.com",
+    "title": "IndiaAI Mission"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVm45TWVNOU5PNWVzWks2cHYzQUhDeEVnT1VWXzRnbGtjNTRZX3BwdjdfS3JHZ1BjN2ZZdlNkY211ZDhEX3NXalNPUWNTVUdLeXVidzFKOVJkdE1zaVhsLTQwSGxHUEwwR2NDeTFkaTdmaXJzd2tQajVoSHg4OFNZSm5IU0I4Z0JVbkhubnNoclJZYm9mTmhGTTNyMBIEGgIIABqnBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCDBggAEAAYACAAKqsBCgZsYXRlc3QVCMmUQBoEYmVzdBoIYnJlYWtpbmcaB2N1cnJlbnQaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaBnVwZGF0ZRoKbGF0ZXN0bmV3cxoLaXY7ZDtsYXRlc3QaDWl2O2Q7YnJlYWtpbmcaDGl2O2Q7Y3VycmVudBoIaXY7ZDtob3QaCWl2O2Q7bGFzdBoIaXY7ZDtuZXcaC2l2O2Q7cmVjZW50KioKBG5ld3MV0z6rQBoGZXZlbnRzGgpsYXRlc3RuZXdzGglpdjtkO25ld3MqKAoHaW5kaWFhaRUl7dhAGghpbmRpYSBhaRoOaW5kaWFhaW1pc3Npb24qNgoHbWlzc2lvbhVNvr9AGghtaXNzaW9ucxoOaW5kaWFhaW1pc3Npb24aDGl2O2Q7bWlzc2lvbjKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZuOU1lTTlOTzVlc1pLNnB2M0FIQ3hFZ09VVl80Z2xrYzU0WV9wcHY3X0tyR2dQYzdmWXZTZGNtdWQ4RF9zV2pTT1FjU1VHS3l1YncxSjlSZHRNc2lYbC00MEhsR1BMMEdjQ3kxZGk3Zmlyc3drUGo1aEh4ODhTWUpuSFNCOGdCVW5Ibm5zaHJSWWJvZk5oRk0zcjA6RzxiPkxhdGVzdCBOZXdzPC9iPiBBYm91dCA8Yj5pbmRpYWFpPC9iPi08Yj5taXNzaW9uPC9iPiAtIEV4Y2hhbmdlNG1lZGlhQrwBVGhlIEFJIFRyaWNvbG91cjogQ29tcHV0ZSwgZGF0YSBhbmQgbW9kZWxzIHdpbGwgZGVjaWRlIEluZGlhJiMzOTtzIHRlY2hub2xvZ2ljYWwgc292ZXJlaWdudHkgJm1pZGRvdDsgV2hvIE93bnMgQUk_ICZtaWRkb3Q7IE11a2VzaCBBbWJhbmkgYW5ub3VuY2VzIFJzIDEwIGxha2ggY3JvcmUgQUkgaW52ZXN0bWVudCwmbmJzcDsuLi5SBGJlc3RSA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVm45TWVNOU5PNWVzWks2cHYzQUhDeEVnT1VWXzRnbGtjNTRZX3BwdjdfS3JHZ1BjN2ZZdlNkY211ZDhEX3NXalNPUWNTVUdLeXVidzFKOVJkdE1zaVhsLTQwSGxHUEwwR2NDeTFkaTdmaXJzd2tQajVoSHg4OFNZSm5IU0I4Z0JVbkhubnNoclJZYm9mTmhGTTNyMBIEGgIIABqnBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCDBggAEAAYACAAKqsBCgZsYXRlc3QVCMmUQBoEYmVzdBoIYnJlYWtpbmcaB2N1cnJlbnQaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaBnVwZGF0ZRoKbGF0ZXN0bmV3cxoLaXY7ZDtsYXRlc3QaDWl2O2Q7YnJlYWtpbmcaDGl2O2Q7Y3VycmVudBoIaXY7ZDtob3QaCWl2O2Q7bGFzdBoIaXY7ZDtuZXcaC2l2O2Q7cmVjZW50KioKBG5ld3MV0z6rQBoGZXZlbnRzGgpsYXRlc3RuZXdzGglpdjtkO25ld3MqKAoHaW5kaWFhaRUl7dhAGghpbmRpYSBhaRoOaW5kaWFhaW1pc3Npb24qNgoHbWlzc2lvbhVNvr9AGghtaXNzaW9ucxoOaW5kaWFhaW1pc3Npb24aDGl2O2Q7bWlzc2lvbjKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZuOU1lTTlOTzVlc1pLNnB2M0FIQ3hFZ09VVl80Z2xrYzU0WV9wcHY3X0tyR2dQYzdmWXZTZGNtdWQ4RF9zV2pTT1FjU1VHS3l1YncxSjlSZHRNc2lYbC00MEhsR1BMMEdjQ3kxZGk3Zmlyc3drUGo1aEh4ODhTWUpuSFNCOGdCVW5Ibm5zaHJSWWJvZk5oRk0zcjA6RzxiPkxhdGVzdCBOZXdzPC9iPiBBYm91dCA8Yj5pbmRpYWFpPC9iPi08Yj5taXNzaW9uPC9iPiAtIEV4Y2hhbmdlNG1lZGlhQrwBVGhlIEFJIFRyaWNvbG91cjogQ29tcHV0ZSwgZGF0YSBhbmQgbW9kZWxzIHdpbGwgZGVjaWRlIEluZGlhJiMzOTtzIHRlY2hub2xvZ2ljYWwgc292ZXJlaWdudHkgJm1pZGRvdDsgV2hvIE93bnMgQUk_ICZtaWRkb3Q7IE11a2VzaCBBbWJhbmkgYW5ub3VuY2VzIFJzIDEwIGxha2ggY3JvcmUgQUkgaW52ZXN0bWVudCwmbmJzcDsuLi5SBGJlc3RSA25ldyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "News. Mission Bio. PressSeptember 16, 2026. Mission Bio Launches Tapestri® Triomics for Simultaneous DNA, RNA, and Protein Analysis at Single-Cell Resolution.",
-      "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBgCdASocABwAPtEwtFooIigoGAEAGglsALsvUiQP5ndlZ2AratZAEV5V8HUI3DQRRH-b-QIWJM6AAAD-_pOh-d7lqGfR99dUDPPR_P2xZ_0tf9-4AvG0xURvS4xiiaRe9tAjNi96ndwhA3T_ygbuL-qiwfpQdwvL47AqyT9rNvwGALd__mi81qfv9cIrG3_5xQHjI7w6E1aKcz7M-1hLK8qCBshjo0tH2k7KE-aQSo6K4Pthj9tu53VYwhd06rsTl4A4sAmu7TLuxJd-40739MzDRac6UF9SkDoOyNRAzuLySycMb5N-Q9yZXrigaJ9PC36oZgU396osc3ap55N7knmXLjfu9ki9At3qftsSH7H4H8Vzl6Qb98s9fPWTISnU8a96NiQAAA.webp",
-      "source_info_link": "https://www.missionbio.com/"
+      "description": "The AI Tricolour: Compute, data and models will decide India's technological sovereignty · Who Owns AI? · Mukesh Ambani announces Rs 10 lakh crore AI investment, ...",
+      "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAAAwBQCdASocABwAPtEutFooIagoGAEAGglsACPAN4-IiYX-tHY_N_rFbo-Xq2vXby2VIAD-9gF19QyabuXsJftVM0h6-oLkvZvLPGPJ68Km7mkOLtSSUpUcStA8onENR-0wUPNQL6d2F_-wFwuhB6XYvwWE7s9rw_iAEJ4Yu-7l3AzRvmhCF9NdA7UJI477b_6MFB_iPmP_jQDRC02u41n7Sx5rAZMnuJBXT3zo-CozH7qq1DzQ28E9fn2i0xTBNZeZmOihNhIAk1IutWssPcLfVANSDtomSQfWOIG9gCOEoz_2d26jciGhFjK5dNu2EofpAHugK47lJSe597kR7YAA.webp",
+      "source_info_link": "https://www.exchange4media.com/tags/indiaai-mission.html"
      }
     },
-    "displayed_link": "https://www.missionbio.com",
-    "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBgCdASocABwAPtEwtFooIigoGAEAGglsALsvUiQP5ndlZ2AratZAEV5V8HUI3DQRRH-b-QIWJM6AAAD-_pOh-d7lqGfR99dUDPPR_P2xZ_0tf9-4AvG0xURvS4xiiaRe9tAjNi96ndwhA3T_ygbuL-qiwfpQdwvL47AqyT9rNvwGALd__mi81qfv9cIrG3_5xQHjI7w6E1aKcz7M-1hLK8qCBshjo0tH2k7KE-aQSo6K4Pthj9tu53VYwhd06rsTl4A4sAmu7TLuxJd-40739MzDRac6UF9SkDoOyNRAzuLySycMb5N-Q9yZXrigaJ9PC36oZgU396osc3ap55N7knmXLjfu9ki9At3qftsSH7H4H8Vzl6Qb98s9fPWTISnU8a96NiQAAA.webp",
-    "link": "https://www.missionbio.com/",
+    "displayed_link": "https://www.exchange4media.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAAAwBQCdASocABwAPtEutFooIagoGAEAGglsACPAN4-IiYX-tHY_N_rFbo-Xq2vXby2VIAD-9gF19QyabuXsJftVM0h6-oLkvZvLPGPJ68Km7mkOLtSSUpUcStA8onENR-0wUPNQL6d2F_-wFwuhB6XYvwWE7s9rw_iAEJ4Yu-7l3AzRvmhCF9NdA7UJI477b_6MFB_iPmP_jQDRC02u41n7Sx5rAZMnuJBXT3zo-CozH7qq1DzQ28E9fn2i0xTBNZeZmOihNhIAk1IutWssPcLfVANSDtomSQfWOIG9gCOEoz_2d26jciGhFjK5dNu2EofpAHugK47lJSe597kR7YAA.webp",
+    "link": "https://www.exchange4media.com/tags/indiaai-mission.html",
     "position": 2,
-    "read_more_link": "https://www.missionbio.com/#:~:text=News,Protein%20Analysis%20at%20Single%2DCell%20Resolution",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVeHeqSsXDeekGV0YTETG0pjTanTNQ7cpt0YAsKJv1Q2e7Ud_e99Ymfr9dHc2VMu-9LUqZfKlAK4jR-tihla1iNxOce_atXT2eb0U4akex&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQFnoECBsQAQ&uoh=1",
-    "snippet": "News. Mission Bio. PressSeptember 16, 2026. Mission Bio Launches Tapestri® Triomics for Simultaneous DNA, RNA, and Protein Analysis at Single-Cell Resolution.",
-    "snippet_highlighted_words": [
-     "News",
-     "Mission",
-     "Mission"
-    ],
-    "source": "Mission Bio",
-    "title": "Mission Bio: Single-cell Technology"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVn9MeM9NO5esZK6pv3AHCxEgOUV_4glkc54Y_ppv7_KrGgPc7fYvSdcmud8D_sWjSOQcSUGKyubw1J9RdtMsiXl-40HlGPL0GcCy1di7firswkPj5hHx88SYJnHSB8gBUnHnnshrRYbofNhFM3r0&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4QFnoECCgQAQ&uoh=1",
+    "snippet": "The AI Tricolour: Compute, data and models will decide India's technological sovereignty · Who Owns AI? · Mukesh Ambani announces Rs 10 lakh crore AI investment, ...",
+    "source": "Exchange4Media",
+    "title": "Latest News About indiaai-mission"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkh6aFI4Szc5Z2tOeVFKb3h3Q0d6V05RQl9walZLc3dvdUtBTW51ZndVYWx4d2FaSWJmeVo3ZVBUTmpkZko0MmxaTGdaajhtOTZrZXphZ0dPelNHMjRJSk5Bd3N1SkJWWDBRRGM2cEhlM3FGRHBYcnpVSnc4NGhHWXdDbEZYdERrbGpvZnBoVVZtV3hjNWpBEgQaAggAGrcGEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQJMGCAAQABgAIAAqqwEKBmxhdGVzdBWji_4_GgRiZXN0GghicmVha2luZxoHY3VycmVudBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoGdXBkYXRlGgpsYXRlc3RuZXdzGgtpdjtkO2xhdGVzdBoNaXY7ZDticmVha2luZxoMaXY7ZDtjdXJyZW50GghpdjtkO2hvdBoJaXY7ZDtsYXN0GghpdjtkO25ldxoLaXY7ZDtyZWNlbnQqKgoEbmV3cxVBDrFAGgZldmVudHMaCmxhdGVzdG5ld3MaCWl2O2Q7bmV3cyooCgdpbmRpYWFpFZ1duEAaCGluZGlhIGFpGg5pbmRpYWFpbWlzc2lvbio2CgdtaXNzaW9uFW9Xv0AaCG1pc3Npb25zGg5pbmRpYWFpbWlzc2lvbhoMaXY7ZDttaXNzaW9uMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkh6aFI4Szc5Z2tOeVFKb3h3Q0d6V05RQl9walZLc3dvdUtBTW51ZndVYWx4d2FaSWJmeVo3ZVBUTmpkZko0MmxaTGdaajhtOTZrZXphZ0dPelNHMjRJSk5Bd3N1SkJWWDBRRGM2cEhlM3FGRHBYcnpVSnc4NGhHWXdDbEZYdERrbGpvZnBoVVZtV3hjNWpBOlU8Yj5MYXRlc3QgTmV3czwvYj4gb24gPGI-aW5kaWEgYWkgbWlzc2lvbjwvYj4gLSBBc2lhJiMzOTtzIFByZW1pZXIgPGI-TmV3czwvYj4gQWdlbmN5QsIBPGI-QUkgaW50ZWdyYXRpb24gaW4gZmluYW5jZSBzZWN0b3IgdW5sb2NrcyBuZXcgb3Bwb3J0dW5pdGllczwvYj46IFNoYWt0aWthbnRhIERhICZtaWRkb3Q7IE52aWRpYSB3aWxsIGJlIGludGVyZXN0ZWQgaW4gSW5kaWEmIzM5O2EgQUkgTWlzc2lvbiBpZiB0aGVyZSBpcyBhbiBvcHBvcnR1bml0eSAmbWlkZG90OyBPcGVuQUkmbmJzcDsuLi5SA25ld1IEYmVzdCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkh6aFI4Szc5Z2tOeVFKb3h3Q0d6V05RQl9walZLc3dvdUtBTW51ZndVYWx4d2FaSWJmeVo3ZVBUTmpkZko0MmxaTGdaajhtOTZrZXphZ0dPelNHMjRJSk5Bd3N1SkJWWDBRRGM2cEhlM3FGRHBYcnpVSnc4NGhHWXdDbEZYdERrbGpvZnBoVVZtV3hjNWpBEgQaAggAGrcGEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQJMGCAAQABgAIAAqqwEKBmxhdGVzdBWji_4_GgRiZXN0GghicmVha2luZxoHY3VycmVudBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoGdXBkYXRlGgpsYXRlc3RuZXdzGgtpdjtkO2xhdGVzdBoNaXY7ZDticmVha2luZxoMaXY7ZDtjdXJyZW50GghpdjtkO2hvdBoJaXY7ZDtsYXN0GghpdjtkO25ldxoLaXY7ZDtyZWNlbnQqKgoEbmV3cxVBDrFAGgZldmVudHMaCmxhdGVzdG5ld3MaCWl2O2Q7bmV3cyooCgdpbmRpYWFpFZ1duEAaCGluZGlhIGFpGg5pbmRpYWFpbWlzc2lvbio2CgdtaXNzaW9uFW9Xv0AaCG1pc3Npb25zGg5pbmRpYWFpbWlzc2lvbhoMaXY7ZDttaXNzaW9uMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkh6aFI4Szc5Z2tOeVFKb3h3Q0d6V05RQl9walZLc3dvdUtBTW51ZndVYWx4d2FaSWJmeVo3ZVBUTmpkZko0MmxaTGdaajhtOTZrZXphZ0dPelNHMjRJSk5Bd3N1SkJWWDBRRGM2cEhlM3FGRHBYcnpVSnc4NGhHWXdDbEZYdERrbGpvZnBoVVZtV3hjNWpBOlU8Yj5MYXRlc3QgTmV3czwvYj4gb24gPGI-aW5kaWEgYWkgbWlzc2lvbjwvYj4gLSBBc2lhJiMzOTtzIFByZW1pZXIgPGI-TmV3czwvYj4gQWdlbmN5QsIBPGI-QUkgaW50ZWdyYXRpb24gaW4gZmluYW5jZSBzZWN0b3IgdW5sb2NrcyBuZXcgb3Bwb3J0dW5pdGllczwvYj46IFNoYWt0aWthbnRhIERhICZtaWRkb3Q7IE52aWRpYSB3aWxsIGJlIGludGVyZXN0ZWQgaW4gSW5kaWEmIzM5O2EgQUkgTWlzc2lvbiBpZiB0aGVyZSBpcyBhbiBvcHBvcnR1bml0eSAmbWlkZG90OyBPcGVuQUkmbmJzcDsuLi5SA25ld1IEYmVzdCICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Ethan Hunt (Tom Cruise) and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=avz06PDqDbM"
+      "description": "AI integration in finance sector unlocks new opportunities: Shaktikanta Da · Nvidia will be interested in India'a AI Mission if there is an opportunity · OpenAI ...",
+      "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBwCdASocABwAPrkurlcnIacnG_DgFwliAM3Gnq4UR_oeUrUA6Kv7Aew7-sBLfqb63N30yud1vVKMQ5y91SNDkRH08DtTsAAA_q31T8Zq6iW_1lPBIsbusdzNVrLONuA31rIsqI2oby8EK5mFANnPwSTfTpHpEaoiQP-CvWpX7zs-tyrV4sjYqUSGp_zX3c_eU749w6KsvPD_jva02a-Vv1g_UFWuGxpsF8uVs2ZRhtg-bcvlgPtBxA4izJnH1cCOxn9CNmqCl57AehJiE8PmKVKjjkOQyxxby4frOofoEytPQ2vb9SrgRqAKBaXt2nXlCREW6smr8MuBE3uULlHr4qXMSopasxmlZE9mf7lo1oz_2MIGNt3e-ulSHQeviAnr8XhKnoMPPHn94my5maOXHcUIPcwMCYdnWymkJTIu3vm4CsqK6MOX6aB9XpWcX7i7XNmH1rApq1ScO3fzNhJAiYid8tVpSWtSFiNVu7xVsHBg07d1cUcAAAA.webp",
+      "source_info_link": "https://www.aninews.in/topic/india-ai-mission/page/4/"
      }
     },
-    "date": "May 17, 2023",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=avz06PDqDbM",
+    "displayed_link": "https://www.aninews.in › topic › page",
+    "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBwCdASocABwAPrkurlcnIacnG_DgFwliAM3Gnq4UR_oeUrUA6Kv7Aew7-sBLfqb63N30yud1vVKMQ5y91SNDkRH08DtTsAAA_q31T8Zq6iW_1lPBIsbusdzNVrLONuA31rIsqI2oby8EK5mFANnPwSTfTpHpEaoiQP-CvWpX7zs-tyrV4sjYqUSGp_zX3c_eU749w6KsvPD_jva02a-Vv1g_UFWuGxpsF8uVs2ZRhtg-bcvlgPtBxA4izJnH1cCOxn9CNmqCl57AehJiE8PmKVKjjkOQyxxby4frOofoEytPQ2vb9SrgRqAKBaXt2nXlCREW6smr8MuBE3uULlHr4qXMSopasxmlZE9mf7lo1oz_2MIGNt3e-ulSHQeviAnr8XhKnoMPPHn94my5maOXHcUIPcwMCYdnWymkJTIu3vm4CsqK6MOX6aB9XpWcX7i7XNmH1rApq1ScO3fzNhJAiYid8tVpSWtSFiNVu7xVsHBg07d1cUcAAAA.webp",
+    "link": "https://www.aninews.in/topic/india-ai-mission/page/4/",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVrSUNcJJNI9vLU-aXs72l1chXvkOEQH7S33MW1e9agtE2amsx_lhvoqlQ9QX8u0GZmczcqiSXuxLW9weES9kooAFq_ZjKQYlqfx8IzW_LSYUsg73OaPxF035bFsOZjA&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQFnoECCMQAQ&uoh=1",
-    "snippet": "Ethan Hunt (Tom Cruise) and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVHzhR8K79gkNyQJoxwCGzWNQB_pjVKswouKAMnufwUalxwaZIbfyZ7ePTNjdfJ42lZLgZj8m96kezagGOzSG24IJNAwsuJBVX0QDc6pHe3qFDpXrzUJw84hGYwClFXtDkljofphUVmWxc5jA&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4QFnoECCkQAQ&uoh=1",
+    "snippet": "AI integration in finance sector unlocks new opportunities: Shaktikanta Da · Nvidia will be interested in India'a AI Mission if there is an opportunity · OpenAI ...",
     "snippet_highlighted_words": [
-     "Ethan Hunt (Tom Cruise) and his IMF team embark on their most dangerous mission yet"
+     "AI integration in finance sector unlocks new opportunities"
     ],
-    "source": "YouTube",
-    "title": "Dead Reckoning | Official Trailer (2023 Movie) - Tom Cruise"
+    "source": "ANI News",
+    "title": "Latest News on india ai mission"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVjZtX1BmanU4US1nSFJiVng0YU5qWlljR3puV0x4N1MwbFFRaGQ1UDRWLUxMcThGN2c4ZktNVm9LblF4aXRjdkVfZlVZWHZfRW1qYml6bE5sbm9SNEhtdUlIQU1yaUc4R3puRi1jMVZSa1lfZnpZSlRvYUVPbE1vYVBadXRhdGh5ZDZtdzZxRGhpaW9FMjZPbUhBWVgtWlFMOUESBBoCCAAa9gUSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA0gUIABAAGAAgACqrAQoGbGF0ZXN0FareaEAaBGJlc3QaCGJyZWFraW5nGgdjdXJyZW50GgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GgZ1cGRhdGUaCmxhdGVzdG5ld3MaC2l2O2Q7bGF0ZXN0Gg1pdjtkO2JyZWFraW5nGgxpdjtkO2N1cnJlbnQaCGl2O2Q7aG90GglpdjtkO2xhc3QaCGl2O2Q7bmV3GgtpdjtkO3JlY2VudCoqCgRuZXdzFc73Z0AaBmV2ZW50cxoKbGF0ZXN0bmV3cxoJaXY7ZDtuZXdzKigKB2luZGlhYWkVkoTVQBoIaW5kaWEgYWkaDmluZGlhYWltaXNzaW9uKjYKB21pc3Npb24VkoTVQBoIbWlzc2lvbnMaDmluZGlhYWltaXNzaW9uGgxpdjtkO21pc3Npb24ysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWNm1fUGZqdThRLWdIUmJWeDRhTmpaWWNHem5XTHg3UzBsUVFoZDVQNFYtTExxOEY3ZzhmS01Wb0tuUXhpdGN2RV9mVVlYdl9FbWpiaXpsTmxub1I0SG11SUhBTXJpRzhHem5GLWMxVlJrWV9mellKVG9hRU9sTW9hUFp1dGF0aHlkNm13NnFEaGlpb0UyNk9tSEFZWC1aUUw5QTorPGI-SW5kaWFBSSBNaXNzaW9uPC9iPiAtIEVudHJlcHJlbmV1ciBJbmRpYUKgAVN0YXkgdXBkYXRlZCB3aXRoIHRoZSBsYXRlc3QgPGI-SW5kaWFBSSBNaXNzaW9uIG5ld3M8L2I-LCBhcnRpY2xlcywgYW5kIG1hcmtldCBpbnNpZ2h0cy4gUmVhZCBleHBlcnQgYW5hbHlzaXMsIGluZHVzdHJ5IHJlcG9ydHMsIGFuZCBidXNpbmVzcyB0cmVuZHMgb24mbmJzcDsuLi5SBGJlc3RSA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVjZtX1BmanU4US1nSFJiVng0YU5qWlljR3puV0x4N1MwbFFRaGQ1UDRWLUxMcThGN2c4ZktNVm9LblF4aXRjdkVfZlVZWHZfRW1qYml6bE5sbm9SNEhtdUlIQU1yaUc4R3puRi1jMVZSa1lfZnpZSlRvYUVPbE1vYVBadXRhdGh5ZDZtdzZxRGhpaW9FMjZPbUhBWVgtWlFMOUESBBoCCAAa9gUSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA0gUIABAAGAAgACqrAQoGbGF0ZXN0FareaEAaBGJlc3QaCGJyZWFraW5nGgdjdXJyZW50GgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GgZ1cGRhdGUaCmxhdGVzdG5ld3MaC2l2O2Q7bGF0ZXN0Gg1pdjtkO2JyZWFraW5nGgxpdjtkO2N1cnJlbnQaCGl2O2Q7aG90GglpdjtkO2xhc3QaCGl2O2Q7bmV3GgtpdjtkO3JlY2VudCoqCgRuZXdzFc73Z0AaBmV2ZW50cxoKbGF0ZXN0bmV3cxoJaXY7ZDtuZXdzKigKB2luZGlhYWkVkoTVQBoIaW5kaWEgYWkaDmluZGlhYWltaXNzaW9uKjYKB21pc3Npb24VkoTVQBoIbWlzc2lvbnMaDmluZGlhYWltaXNzaW9uGgxpdjtkO21pc3Npb24ysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWNm1fUGZqdThRLWdIUmJWeDRhTmpaWWNHem5XTHg3UzBsUVFoZDVQNFYtTExxOEY3ZzhmS01Wb0tuUXhpdGN2RV9mVVlYdl9FbWpiaXpsTmxub1I0SG11SUhBTXJpRzhHem5GLWMxVlJrWV9mellKVG9hRU9sTW9hUFp1dGF0aHlkNm13NnFEaGlpb0UyNk9tSEFZWC1aUUw5QTorPGI-SW5kaWFBSSBNaXNzaW9uPC9iPiAtIEVudHJlcHJlbmV1ciBJbmRpYUKgAVN0YXkgdXBkYXRlZCB3aXRoIHRoZSBsYXRlc3QgPGI-SW5kaWFBSSBNaXNzaW9uIG5ld3M8L2I-LCBhcnRpY2xlcywgYW5kIG1hcmtldCBpbnNpZ2h0cy4gUmVhZCBleHBlcnQgYW5hbHlzaXMsIGluZHVzdHJ5IHJlcG9ydHMsIGFuZCBidXNpbmVzcyB0cmVuZHMgb24mbmJzcDsuLi5SBGJlc3RSA25ldyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Latest News. Stay up to date. FFF Vendor call out · Vendors Wanted: Family Faith Festival! Read on... 2026 FP Flyer · Mission Fire Department Fire Safety Fest.",
-      "icon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAAAwBwCdASocABwAPtE-tFooIigoFAEAGgliAJ0zNDtHX8qwRzoQDlIc4XMADijNSgv3GFbvRX2cR2LJKJcrMP4lgKAA_veCaXyrc1prT1_dMRA4hbW8Il6tcHyGsCHyGRpDkcT75BEJxXd0ATuIjcHf5K-rQ7WB-BLIjoOkjpTN9c3iqyX7gYYY-_NP-j3ZzvMnZUnLhBE1Gmt0qXPLmLx2qKidg4UOmcFtoI2besghPvkjbJNJ4vgOrb9IW-fMJNK2V_wTdD9Nkja3WqAMKWcpa7lTW_CREz5P4xu1psvnROOnYDmrDsCfhu-FLWEaIzH65-KObfdAZT61vowoKctZyf7zW737x5zFetiZm55FfJABowIUkV9d9WgjAfhd0s6zOMRLYqUdp63HVM8BGnJhXIcxKfKXCCzZpysf6lELhZtZtUGtOOEDRCnPCIX0BIMIZ9XrxHswAAAA.webp",
-      "source_info_link": "https://missiontexas.us/"
+      "description": "Stay updated with the latest IndiaAI Mission news, articles, and market insights. Read expert analysis, industry reports, and business trends on ...",
+      "icon": "https://serpapi.com/images/i/UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASocAA0APtEutFooIagoGAEAGglAE6AxTxvlAqLhVrTu36AA_vYF2ub0ZKVWwX-AV8dg90f4jkQ9oh-NZOXvuD3erJKVc8KeXIf-el9wGhjJvqLJhTlOSgBmec3agQEAAAA.webp",
+      "source_info_link": "https://www.entrepreneurindia.com/blog/en/tag/indiaai-mission"
      }
     },
-    "displayed_link": "https://missiontexas.us",
-    "favicon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAAAwBwCdASocABwAPtE-tFooIigoFAEAGgliAJ0zNDtHX8qwRzoQDlIc4XMADijNSgv3GFbvRX2cR2LJKJcrMP4lgKAA_veCaXyrc1prT1_dMRA4hbW8Il6tcHyGsCHyGRpDkcT75BEJxXd0ATuIjcHf5K-rQ7WB-BLIjoOkjpTN9c3iqyX7gYYY-_NP-j3ZzvMnZUnLhBE1Gmt0qXPLmLx2qKidg4UOmcFtoI2besghPvkjbJNJ4vgOrb9IW-fMJNK2V_wTdD9Nkja3WqAMKWcpa7lTW_CREz5P4xu1psvnROOnYDmrDsCfhu-FLWEaIzH65-KObfdAZT61vowoKctZyf7zW737x5zFetiZm55FfJABowIUkV9d9WgjAfhd0s6zOMRLYqUdp63HVM8BGnJhXIcxKfKXCCzZpysf6lELhZtZtUGtOOEDRCnPCIX0BIMIZ9XrxHswAAAA.webp",
-    "link": "https://missiontexas.us/",
+    "displayed_link": "https://www.entrepreneurindia.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASocAA0APtEutFooIagoGAEAGglAE6AxTxvlAqLhVrTu36AA_vYF2ub0ZKVWwX-AV8dg90f4jkQ9oh-NZOXvuD3erJKVc8KeXIf-el9wGhjJvqLJhTlOSgBmec3agQEAAAA.webp",
+    "link": "https://www.entrepreneurindia.com/blog/en/tag/indiaai-mission",
     "position": 4,
-    "read_more_link": "https://missiontexas.us/#:~:text=Latest%20News,Fire%20Department%20Fire%20Safety%20Fest",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVYSN0zJ1hYjIEBAj6FI0hyISVAcHU_4qdB7Lixf7FngrPaQ9tqJUGaDz__SsPdadJqQvQ3vDmr5O5m02RsHn-agVBbnG1uTk9u08n&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQFnoECBwQAQ&uoh=1",
-    "snippet": "Latest News. Stay up to date. FFF Vendor call out · Vendors Wanted: Family Faith Festival! Read on... 2026 FP Flyer · Mission Fire Department Fire Safety Fest.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAV6m_Pfju8Q-gHRbVx4aNjZYcGznWLx7S0lQQhd5P4V-LLq8F7g8fKMVoKnQxitcvE_fUYXv_EmjbizlNlnoR4HmuIHAMriG8GznF-c1VRkY_fzYJToaEOlMoaPZutathyd6mw6qDhiioE26OmHAYX-ZQL9A&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4QFnoECD4QAQ&uoh=1",
+    "snippet": "Stay updated with the latest IndiaAI Mission news, articles, and market insights. Read expert analysis, industry reports, and business trends on ...",
     "snippet_highlighted_words": [
-     "Latest News",
-     "Mission"
+     "IndiaAI Mission news"
     ],
-    "source": "City of Mission TX",
-    "title": "Mission, TX | Official Website"
+    "source": "Entrepreneur India",
+    "title": "IndiaAI Mission latest News, Articles, Market ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZiT0licW10bEVnSzRJUlNpLXdOLWtvNnZLT0JSTWk3YnFJYmhPU21VdmtLU3J1VEt6Nk9qcGV4SGw2NnpxU1IxVzYtQ3pqXzdlaURUSHZNTmJZSmxaaFVHR29SWVBLSXlFWUd3M1oteFF4WXRRZ0NoU29CZmtWcnVCYmRCVVkydmVrbFViU0hiM2gybG9CWWhOd3dLUTJCWERNYzFJMzJoVXR1VUduTS1wM19PUzI0cFRqQTBwVzV1eElTLUESBBoCCAAaogYSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkD8BQgAEAAYACAAKqsBCgZsYXRlc3QVIoSmPhoEYmVzdBoIYnJlYWtpbmcaB2N1cnJlbnQaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaBnVwZGF0ZRoKbGF0ZXN0bmV3cxoLaXY7ZDtsYXRlc3QaDWl2O2Q7YnJlYWtpbmcaDGl2O2Q7Y3VycmVudBoIaXY7ZDtob3QaCWl2O2Q7bGFzdBoIaXY7ZDtuZXcaC2l2O2Q7cmVjZW50KioKBG5ld3MVm7rfPxoGZXZlbnRzGgpsYXRlc3RuZXdzGglpdjtkO25ld3MqKAoHaW5kaWFhaRXw1m1AGghpbmRpYSBhaRoOaW5kaWFhaW1pc3Npb24qNgoHbWlzc2lvbhXS111AGghtaXNzaW9ucxoOaW5kaWFhaW1pc3Npb24aDGl2O2Q7bWlzc2lvbjLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGYk9JYnFtdGxFZ0s0SVJTaS13Ti1rbzZ2S09CUk1pN2JxSWJoT1NtVXZrS1NydVRLejZPanBleEhsNjZ6cVNSMVc2LUN6al83ZWlEVEh2TU5iWUpsWmhVR0dvUllQS0l5RVlHdzNaLXhReFl0UWdDaFNvQmZrVnJ1QmJkQlVZMnZla2xVYlNIYjNoMmxvQlloTnd3S1EyQlhETWMxSTMyaFV0dVVHbk0tcDNfT1MyNHBUakEwcFc1dXhJUy1BOkhCdWRnZXQgMjAyNjogT25seSA0MCUgT2YgPGI-SW5kaWFBSSBNaXNzaW9uJiMzOTtzPC9iPiBPdXRsYXkgVXNlZCBJbiAuLi5CiQFXaGlsZSB0aGUgQ2VudHJlIHNldCBhc2lkZSBJTlIgMjAwMCBDciBmb3IgPGI-SW5kaWFBSSBNaXNzaW9uPC9iPiBpbiBGWTI2LCByZXZpc2VkIEJ1ZGdldCBlc3RpbWF0ZXMgc2hvd2VkIHRoYXQgb25seSBJTlIgODAwIENyIHdhcyB1c2VkLlIDbmV3UgRiZXN0IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZiT0licW10bEVnSzRJUlNpLXdOLWtvNnZLT0JSTWk3YnFJYmhPU21VdmtLU3J1VEt6Nk9qcGV4SGw2NnpxU1IxVzYtQ3pqXzdlaURUSHZNTmJZSmxaaFVHR29SWVBLSXlFWUd3M1oteFF4WXRRZ0NoU29CZmtWcnVCYmRCVVkydmVrbFViU0hiM2gybG9CWWhOd3dLUTJCWERNYzFJMzJoVXR1VUduTS1wM19PUzI0cFRqQTBwVzV1eElTLUESBBoCCAAaogYSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkD8BQgAEAAYACAAKqsBCgZsYXRlc3QVIoSmPhoEYmVzdBoIYnJlYWtpbmcaB2N1cnJlbnQaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaBnVwZGF0ZRoKbGF0ZXN0bmV3cxoLaXY7ZDtsYXRlc3QaDWl2O2Q7YnJlYWtpbmcaDGl2O2Q7Y3VycmVudBoIaXY7ZDtob3QaCWl2O2Q7bGFzdBoIaXY7ZDtuZXcaC2l2O2Q7cmVjZW50KioKBG5ld3MVm7rfPxoGZXZlbnRzGgpsYXRlc3RuZXdzGglpdjtkO25ld3MqKAoHaW5kaWFhaRXw1m1AGghpbmRpYSBhaRoOaW5kaWFhaW1pc3Npb24qNgoHbWlzc2lvbhXS111AGghtaXNzaW9ucxoOaW5kaWFhaW1pc3Npb24aDGl2O2Q7bWlzc2lvbjLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGYk9JYnFtdGxFZ0s0SVJTaS13Ti1rbzZ2S09CUk1pN2JxSWJoT1NtVXZrS1NydVRLejZPanBleEhsNjZ6cVNSMVc2LUN6al83ZWlEVEh2TU5iWUpsWmhVR0dvUllQS0l5RVlHdzNaLXhReFl0UWdDaFNvQmZrVnJ1QmJkQlVZMnZla2xVYlNIYjNoMmxvQlloTnd3S1EyQlhETWMxSTMyaFV0dVVHbk0tcDNfT1MyNHBUakEwcFc1dXhJUy1BOkhCdWRnZXQgMjAyNjogT25seSA0MCUgT2YgPGI-SW5kaWFBSSBNaXNzaW9uJiMzOTtzPC9iPiBPdXRsYXkgVXNlZCBJbiAuLi5CiQFXaGlsZSB0aGUgQ2VudHJlIHNldCBhc2lkZSBJTlIgMjAwMCBDciBmb3IgPGI-SW5kaWFBSSBNaXNzaW9uPC9iPiBpbiBGWTI2LCByZXZpc2VkIEJ1ZGdldCBlc3RpbWF0ZXMgc2hvd2VkIHRoYXQgb25seSBJTlIgODAwIENyIHdhcyB1c2VkLlIDbmV3UgRiZXN0IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "MISSION BBQ is a fast casual BBQ restaurant. Our mission is to serve you the most authentic, mouth-watering all-American food that's done right.",
-      "icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAABwBgCdASogACAAPtEutFooIagoGAEAGglqAMHNiyvoj2A_1N3yAdWvkP1Rle2vENVhL9kyainfzsx05AAA_vYBmoWbR-ChVUDjgK4qK0S_EJ9UTGXMLjT2L5ycJ7eZGIcyeJ48bENo_wLfINrX0Y3QyIgsvJO1pN11JA2AqSH8Pu-TsOY9pscVBRwIgxy8Ide4eJx7plxcKaFVd0gKsqUkv3ImZ2sIlpnsGDMn2zrL6z1Xf9y9H3LN5pL_an3uwuSvV_XN-Ouo9Dtr5f2Soh6eEefbQYHTvRsYkhNj_lM9sy9xt4dp88jHVI0T92rzQy6nWhpOJYqHviBhIBF708tUg98m3_ix_0jYd853v_4EP-H7zEkZFWPcTgO0HG0X9n7m7N9jr3_6YnDTcT9uZXtgnQUqgBifcaruU3_-SK7Rke__Cye3h0poG_jhO10aTBz8zAtoAAA.webp",
-      "source_info_link": "https://mission-bbq.com/"
+      "description": "While the Centre set aside INR 2000 Cr for IndiaAI Mission in FY26, revised Budget estimates showed that only INR 800 Cr was used.",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzcJDPtJzjtJzjtJzftJzfuJzjuJzjsJzjuJzjuJzjuJzjsJjfnJjbsJzfrJjfuJziiEx7_AAAAEXRSTlMABcjWhjW6_09CqudxECdc8hBwkwwAAACnSURBVHgBxdFBDoQgFATRUgARAb3_aUf7h4nqzNpasHnaIYEXG8ae82G4YZx6gXvpa8NzdNrTzzOQcg63URf2YwGKPrqO1nk_MqD1eBn1HFigCZfz6ILQQxU6oPbRZui898IEBMBGDXsrkGYb3TjjVjjaAmj0jKXfxNCtpSQMlyqqbhJa0XBD6VYPbJ0Ms1WEUTd5vo9wBVrMKrYbVn4n5F_BjSOv9wEN2AjjhKqURQAAAABJRU5ErkJggg.png",
+      "source_info_link": "https://inc42.com/buzz/budget-2026-less-than-50-of-indiaai-mission-outlay-used-in-fy26/"
      }
     },
-    "displayed_link": "https://mission-bbq.com",
-    "favicon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAABwBgCdASogACAAPtEutFooIagoGAEAGglqAMHNiyvoj2A_1N3yAdWvkP1Rle2vENVhL9kyainfzsx05AAA_vYBmoWbR-ChVUDjgK4qK0S_EJ9UTGXMLjT2L5ycJ7eZGIcyeJ48bENo_wLfINrX0Y3QyIgsvJO1pN11JA2AqSH8Pu-TsOY9pscVBRwIgxy8Ide4eJx7plxcKaFVd0gKsqUkv3ImZ2sIlpnsGDMn2zrL6z1Xf9y9H3LN5pL_an3uwuSvV_XN-Ouo9Dtr5f2Soh6eEefbQYHTvRsYkhNj_lM9sy9xt4dp88jHVI0T92rzQy6nWhpOJYqHviBhIBF708tUg98m3_ix_0jYd853v_4EP-H7zEkZFWPcTgO0HG0X9n7m7N9jr3_6YnDTcT9uZXtgnQUqgBifcaruU3_-SK7Rke__Cye3h0poG_jhO10aTBz8zAtoAAA.webp",
-    "link": "https://mission-bbq.com/",
+    "date": "2026-02-01",
+    "displayed_link": "https://inc42.com › buzz › budget-2...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzcJDPtJzjtJzjtJzftJzfuJzjuJzjsJzjuJzjuJzjuJzjsJjfnJjbsJzfrJjfuJziiEx7_AAAAEXRSTlMABcjWhjW6_09CqudxECdc8hBwkwwAAACnSURBVHgBxdFBDoQgFATRUgARAb3_aUf7h4nqzNpasHnaIYEXG8ae82G4YZx6gXvpa8NzdNrTzzOQcg63URf2YwGKPrqO1nk_MqD1eBn1HFigCZfz6ILQQxU6oPbRZui898IEBMBGDXsrkGYb3TjjVjjaAmj0jKXfxNCtpSQMlyqqbhJa0XBD6VYPbJ0Ms1WEUTd5vo9wBVrMKrYbVn4n5F_BjSOv9wEN2AjjhKqURQAAAABJRU5ErkJggg.png",
+    "link": "https://inc42.com/buzz/budget-2026-less-than-50-of-indiaai-mission-outlay-used-in-fy26/",
     "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVsHNEkOkJEwXrOeYlqQ-MyI-4gQKujUgOTwPby4nRwALizcO-7pbT5mdc7Q9rfjs5wyb9PNgnIB_NCeMvcVZmzRSinVJ52IqNe7bT&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQFnoECDgQAQ&uoh=1",
-    "snippet": "MISSION BBQ is a fast casual BBQ restaurant. Our mission is to serve you the most authentic, mouth-watering all-American food that's done right.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFbOIbqmtlEgK4IRSi-wN-ko6vKOBRMi7bqIbhOSmUvkKSruTKz6OjpexHl66zqSR1W6-Czj_7eiDTHvMNbYJlZhUGGoRYPKIyEYGw3Z-xQxYtQgChSoBfkVruBbdBUY2veklUbSHb3h2loBYhNwwKQ2BXDMc1I32hUtuUGnM-p3_OS24pTjA0pW5uxIS-A&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4QFnoECD0QAQ&uoh=1",
+    "snippet": "While the Centre set aside INR 2000 Cr for IndiaAI Mission in FY26, revised Budget estimates showed that only INR 800 Cr was used.",
     "snippet_highlighted_words": [
-     "MISSION BBQ is a fast casual BBQ restaurant"
+     "IndiaAI Mission"
     ],
-    "source": "Mission BBQ",
-    "title": "Home - MISSION BBQ"
+    "source": "Inc42",
+    "title": "Budget 2026: Only 40% Of IndiaAI Mission's Outlay Used In ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0CL2dvdG8_dXJsPUNBRVMxUUVCNnpzd0ZWeVdNZXdTT1pINHhPQm9hSnBnMzBQb2pPV3ZxTGpWMENjV3I4OGZFNVVEVkx2S0tLN0g5UXE4RDRvelFxcVE4ZHl0NnRvZF8xNDg4bXhaWTVxOGtsbU16ZDdpNkF0dGdMb3JfcTZKc3REWU5xSU9raTMzOFhfcGNYVk05ckpWUERaRkFrcU9rYkJnSzV1TTFnY3FWQUlFdHpzQ3RkNE5ITFVpZ04yZjN6ZnhFbXdQWmF5Nk5xbTZvVUpJRXFfRTJNYUZYektScDF5dHA4cFhXY1ZPOUNZWXNPZFhQVG5UYXdjbkNpNTRnTS1kYW9EZFkxZThrUko1ZnMtRjhsY1B2bkZZM1ZibGRaTV9PcDFTYmxSTHFvdxIEGgIIABr1BhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDRBggAEAAYACAAKqsBCgZsYXRlc3QVAAAAABoEYmVzdBoIYnJlYWtpbmcaB2N1cnJlbnQaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaBnVwZGF0ZRoKbGF0ZXN0bmV3cxoLaXY7ZDtsYXRlc3QaDWl2O2Q7YnJlYWtpbmcaDGl2O2Q7Y3VycmVudBoIaXY7ZDtob3QaCWl2O2Q7bGFzdBoIaXY7ZDtuZXcaC2l2O2Q7cmVjZW50KioKBG5ld3MV66tsPhoGZXZlbnRzGgpsYXRlc3RuZXdzGglpdjtkO25ld3MqKAoHaW5kaWFhaRWAInVAGghpbmRpYSBhaRoOaW5kaWFhaW1pc3Npb24qNgoHbWlzc2lvbhWAInVAGghtaXNzaW9ucxoOaW5kaWFhaW1pc3Npb24aDGl2O2Q7bWlzc2lvbjKtAi9nb3RvP3VybD1DQUVTMVFFQjZ6c3dGVnlXTWV3U09aSDR4T0JvYUpwZzMwUG9qT1d2cUxqVjBDY1dyODhmRTVVRFZMdktLSzdIOVFxOEQ0b3pRcXFROGR5dDZ0b2RfMTQ4OG14Wlk1cThrbG1NemQ3aTZBdHRnTG9yX3E2SnN0RFlOcUlPa2kzMzhYX3BjWFZNOXJKVlBEWkZBa3FPa2JCZ0s1dU0xZ2NxVkFJRXR6c0N0ZDROSExVaWdOMmYzemZ4RW13UFpheTZOcW02b1VKSUVxX0UyTWFGWHpLUnAxeXRwOHBYV2NWTzlDWVlzT2RYUFRuVGF3Y25DaTU0Z00tZGFvRGRZMWU4a1JKNWZzLUY4bGNQdm5GWTNWYmxkWk1fT3AxU2JsUkxxb3c6RDxiPkluZGlhQUkgTWlzc2lvbjwvYj4gMi4wIHRvIGZvY3VzIG9uIFVQSS1saWtlIEFJIHNlcnZpY2UgZm9yIE1TTUVzQokBPGI-SW5kaWFBSSBNaXNzaW9uIDIuMCB0byBsYXVuY2ggVVBJLWxpa2UgQUkgc2VydmljZSBmb3IgTVNNRXM8L2I-OyBJbmRpYSB0byBzY2FsZSBjb21wdXRlIGNhcGFjaXR5IHdpdGggMjAsMDAwIG1vcmUgR1BVcy4gUHJhY3RpY2UgTUNRcy5SA25ld1IEYmVzdCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0CL2dvdG8_dXJsPUNBRVMxUUVCNnpzd0ZWeVdNZXdTT1pINHhPQm9hSnBnMzBQb2pPV3ZxTGpWMENjV3I4OGZFNVVEVkx2S0tLN0g5UXE4RDRvelFxcVE4ZHl0NnRvZF8xNDg4bXhaWTVxOGtsbU16ZDdpNkF0dGdMb3JfcTZKc3REWU5xSU9raTMzOFhfcGNYVk05ckpWUERaRkFrcU9rYkJnSzV1TTFnY3FWQUlFdHpzQ3RkNE5ITFVpZ04yZjN6ZnhFbXdQWmF5Nk5xbTZvVUpJRXFfRTJNYUZYektScDF5dHA4cFhXY1ZPOUNZWXNPZFhQVG5UYXdjbkNpNTRnTS1kYW9EZFkxZThrUko1ZnMtRjhsY1B2bkZZM1ZibGRaTV9PcDFTYmxSTHFvdxIEGgIIABr1BhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDRBggAEAAYACAAKqsBCgZsYXRlc3QVAAAAABoEYmVzdBoIYnJlYWtpbmcaB2N1cnJlbnQaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaBnVwZGF0ZRoKbGF0ZXN0bmV3cxoLaXY7ZDtsYXRlc3QaDWl2O2Q7YnJlYWtpbmcaDGl2O2Q7Y3VycmVudBoIaXY7ZDtob3QaCWl2O2Q7bGFzdBoIaXY7ZDtuZXcaC2l2O2Q7cmVjZW50KioKBG5ld3MV66tsPhoGZXZlbnRzGgpsYXRlc3RuZXdzGglpdjtkO25ld3MqKAoHaW5kaWFhaRWAInVAGghpbmRpYSBhaRoOaW5kaWFhaW1pc3Npb24qNgoHbWlzc2lvbhWAInVAGghtaXNzaW9ucxoOaW5kaWFhaW1pc3Npb24aDGl2O2Q7bWlzc2lvbjKtAi9nb3RvP3VybD1DQUVTMVFFQjZ6c3dGVnlXTWV3U09aSDR4T0JvYUpwZzMwUG9qT1d2cUxqVjBDY1dyODhmRTVVRFZMdktLSzdIOVFxOEQ0b3pRcXFROGR5dDZ0b2RfMTQ4OG14Wlk1cThrbG1NemQ3aTZBdHRnTG9yX3E2SnN0RFlOcUlPa2kzMzhYX3BjWFZNOXJKVlBEWkZBa3FPa2JCZ0s1dU0xZ2NxVkFJRXR6c0N0ZDROSExVaWdOMmYzemZ4RW13UFpheTZOcW02b1VKSUVxX0UyTWFGWHpLUnAxeXRwOHBYV2NWTzlDWVlzT2RYUFRuVGF3Y25DaTU0Z00tZGFvRGRZMWU4a1JKNWZzLUY4bGNQdm5GWTNWYmxkWk1fT3AxU2JsUkxxb3c6RDxiPkluZGlhQUkgTWlzc2lvbjwvYj4gMi4wIHRvIGZvY3VzIG9uIFVQSS1saWtlIEFJIHNlcnZpY2UgZm9yIE1TTUVzQokBPGI-SW5kaWFBSSBNaXNzaW9uIDIuMCB0byBsYXVuY2ggVVBJLWxpa2UgQUkgc2VydmljZSBmb3IgTVNNRXM8L2I-OyBJbmRpYSB0byBzY2FsZSBjb21wdXRlIGNhcGFjaXR5IHdpdGggMjAsMDAwIG1vcmUgR1BVcy4gUHJhY3RpY2UgTUNRcy5SA25ld1IEYmVzdCICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Agrees to Pay $100 Million to Resolve Administrative Action After Federal Court Finds that It Violated the FTC Act by Charging Unauthorized Fees September 17,",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAACQAgCdASoQABAAAsBMJYgCdEf_i1oN9kw1-FPKwAD-7bP9UMdGMplosXrokSbt4WH8hsal01r70iSaPvyFm1U_tYSkbIR9sRsul-i_Natf-yf-b25d_nyaPuYQ6GiZb2fYRVvhMT8Bwv_r58yX5ehHCu37CsbLYNUXBAtzZ5pPXHfBoJyHG8P4AtCG6ZLeoAA.webp",
-      "source_info_link": "https://www.ftc.gov/about-ftc/mission"
+      "description": "IndiaAI Mission 2.0 to launch UPI-like AI service for MSMEs; India to scale compute capacity with 20,000 more GPUs. Practice MCQs.",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEwtgPYtgfctgPctgPctgPYsgPYtgPYsgPYsgfYkffY-i_dcm_gVefbF2v3q8_77_f-10Px2qfnZ5_4CdPabv_uEhHr3AAAACnRSTlMAIkubzfT_5xSLcDH47gAAAWpJREFUeAGVU4tuwzAIzJN2GAzGyf__6gxWHms3VUNqTg2X4-HzcMU4zcsKsC7zNA7vMc4POOMxv1KeX_ASX88f-QVaIAJcuNwY0xqvEyUGcAjKOp3fRz5lUSmApUFOwXje9NG0EFBt0aCo4VUl-tukMAJCldSAi2zRacwXfZEnAE3EHJNQdOoScxCshk4tpfq3WC0IcxN4HAohkFJIHAqPcZgcmbLWFqr9156Z2DNTr7BrKWpWq1l_-v-911hiROIktqkxIptuJokpRl2GFYDrzl6_5lDFUr0P3isDrIP3roRO04RBSOopJPV5OsF-I1gQzhLsJTohZzE-SvzdpPUmY0zcNceYYi0kxszHmH1RqcR6xBclsaiS-qKuVQMj91UzMpyr_nhY9-MOELof93gzTGb0xJthDsuRZkoktYolykLdcnfTYhaRHXFvkOEw7c323e8AHHC3fa8SFDgg9P9z9d4v75n-eP2_AWWNIhGDRvvTAAAAAElFTkSuQmCC.png",
+      "source_info_link": "https://superkalam.com/current-affairs/18-02-2026/indiaai-mission-2-0-to-focus-on-upi-like-ai-service-for-msmes-pg21-0d873cf7-8b60-4425-9a37-5a87424753ab"
      }
     },
-    "displayed_link": "https://www.ftc.gov › about-ftc › mission",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAACQAgCdASoQABAAAsBMJYgCdEf_i1oN9kw1-FPKwAD-7bP9UMdGMplosXrokSbt4WH8hsal01r70iSaPvyFm1U_tYSkbIR9sRsul-i_Natf-yf-b25d_nyaPuYQ6GiZb2fYRVvhMT8Bwv_r58yX5ehHCu37CsbLYNUXBAtzZ5pPXHfBoJyHG8P4AtCG6ZLeoAA.webp",
-    "link": "https://www.ftc.gov/about-ftc/mission",
+    "displayed_link": "https://superkalam.com › indiaai-miss...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEwtgPYtgfctgPctgPctgPYsgPYtgPYsgPYsgfYkffY-i_dcm_gVefbF2v3q8_77_f-10Px2qfnZ5_4CdPabv_uEhHr3AAAACnRSTlMAIkubzfT_5xSLcDH47gAAAWpJREFUeAGVU4tuwzAIzJN2GAzGyf__6gxWHms3VUNqTg2X4-HzcMU4zcsKsC7zNA7vMc4POOMxv1KeX_ASX88f-QVaIAJcuNwY0xqvEyUGcAjKOp3fRz5lUSmApUFOwXje9NG0EFBt0aCo4VUl-tukMAJCldSAi2zRacwXfZEnAE3EHJNQdOoScxCshk4tpfq3WC0IcxN4HAohkFJIHAqPcZgcmbLWFqr9156Z2DNTr7BrKWpWq1l_-v-911hiROIktqkxIptuJokpRl2GFYDrzl6_5lDFUr0P3isDrIP3roRO04RBSOopJPV5OsF-I1gQzhLsJTohZzE-SvzdpPUmY0zcNceYYi0kxszHmH1RqcR6xBclsaiS-qKuVQMj91UzMpyr_nhY9-MOELof93gzTGb0xJthDsuRZkoktYolykLdcnfTYhaRHXFvkOEw7c323e8AHHC3fa8SFDgg9P9z9d4v75n-eP2_AWWNIhGDRvvTAAAAAElFTkSuQmCC.png",
+    "link": "https://superkalam.com/current-affairs/18-02-2026/indiaai-mission-2-0-to-focus-on-upi-like-ai-service-for-msmes-pg21-0d873cf7-8b60-4425-9a37-5a87424753ab",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVf8_oXUSwFFMNcC9vLodjaGQHvuKak_9u8iyX0ksYbQ54xZNvrUiEb8rfLDf_AQ8hxnEf8UBLnRAs6IAtuNB0WfslQkzMHv8IzdNS-Ya88BxMiZwo5E90dA&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQFnoECDUQAQ&uoh=1",
-    "snippet": "Agrees to Pay $100 Million to Resolve Administrative Action After Federal Court Finds that It Violated the FTC Act by Charging Unauthorized Fees September 17,",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1QEB6zswFVyWMewSOZH4xOBoaJpg30PojOWvqLjV0CcWr88fE5UDVLvKKK7H9Qq8D4ozQqqQ8dyt6tod_1488mxZY5q8klmMzd7i6AttgLor_q6JstDYNqIOki338X_pcXVM9rJVPDZFAkqOkbBgK5uM1gcqVAIEtzsCtd4NHLUigN2f3zfxEmwPZay6Nqm6oUJIEq_E2MaFXzKRp1ytp8pXWcVO9CYYsOdXPTnTawcnCi54gM-daoDdY1e8kRJ5fs-F8lcPvnFY3VbldZM_Op1SblRLqow&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4QFnoECEEQAQ&uoh=1",
+    "snippet": "IndiaAI Mission 2.0 to launch UPI-like AI service for MSMEs; India to scale compute capacity with 20,000 more GPUs. Practice MCQs.",
     "snippet_highlighted_words": [
-     "Agrees to Pay $100 Million to Resolve Administrative"
+     "IndiaAI Mission 2.0 to launch UPI-like AI service for MSMEs"
     ],
-    "source": "Federal Trade Commission (.gov)",
-    "title": "Mission | Federal Trade Commission"
+    "source": "SuperKalam",
+    "title": "IndiaAI Mission 2.0 to focus on UPI-like AI service for MSMEs"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZTX3BMRjZSMV8xSDJEVnJXZ0l0VWNuVW5RdGFhdnh5T3YtcUp2eGh6YVdkTF93SDNxbmdhVWhHQnhzOXJWNjhselpWYm9BV3pIWFl0dDNON1lKc1BoR2JDT29GYVYxS2RoSDcxa2lMVlJuR1dDY1hGV250OVBhTHJOSVZEUUNnU0M5aW5wY0p2WlcwRlVZb1VGWjd0OWd1R0hvQjRNWG5ZMllIdlBDUFZMR2NMU3c4QkZSWml6UzFqalBmZ1RjUjdDbnYzNkp6NDlMdTFkVFlONXYwZ2tlNlQ0eHlDUmZrYjBpOVJsdGZRbVFocFptcHBkWEhxdE5XeVlmMm01NGNqZjlLEgQaAggAGvsGEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQNcGCAAQABgAIAAqqwEKBmxhdGVzdBXjfrQ9GgRiZXN0GghicmVha2luZxoHY3VycmVudBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoGdXBkYXRlGgpsYXRlc3RuZXdzGgtpdjtkO2xhdGVzdBoNaXY7ZDticmVha2luZxoMaXY7ZDtjdXJyZW50GghpdjtkO2hvdBoJaXY7ZDtsYXN0GghpdjtkO25ldxoLaXY7ZDtyZWNlbnQqKgoEbmV3cxXLJLg-GgZldmVudHMaCmxhdGVzdG5ld3MaCWl2O2Q7bmV3cyooCgdpbmRpYWFpFQ0Yf0AaCGluZGlhIGFpGg5pbmRpYWFpbWlzc2lvbio2CgdtaXNzaW9uFTb1dkAaCG1pc3Npb25zGg5pbmRpYWFpbWlzc2lvbhoMaXY7ZDttaXNzaW9uMpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZTX3BMRjZSMV8xSDJEVnJXZ0l0VWNuVW5RdGFhdnh5T3YtcUp2eGh6YVdkTF93SDNxbmdhVWhHQnhzOXJWNjhselpWYm9BV3pIWFl0dDNON1lKc1BoR2JDT29GYVYxS2RoSDcxa2lMVlJuR1dDY1hGV250OVBhTHJOSVZEUUNnU0M5aW5wY0p2WlcwRlVZb1VGWjd0OWd1R0hvQjRNWG5ZMllIdlBDUFZMR2NMU3c4QkZSWml6UzFqalBmZ1RjUjdDbnYzNkp6NDlMdTFkVFlONXYwZ2tlNlQ0eHlDUmZrYjBpOVJsdGZRbVFocFptcHBkWEhxdE5XeVlmMm01NGNqZjlLOkxDYWJpbmV0JiMzOTtzIGFwcHJvdmFsIG9mIHRoZSAjPGI-SW5kaWFBSU1pc3Npb248L2I-IG1hcmtzIGEgc2lnbmlmaWNhbnQgLi4uQpoBSW5kaWEgTGF1bmNoZXMgQUkgQ29tcHV0ZSBQb3J0YWwgYW5kIFBsYW5zIGZvciAyNyBBSSBMYWJzIFVuaW9uIE1pbmlzdGVyIEFzaHdpbmkgVmFpc2huYXcgaGFzIHVudmVpbGVkIHRoZSBBSSBDb21wdXRlIFBvcnRhbCBpbiA8Yj5OZXc8L2I-IERlbGhpLCZuYnNwOy4uLlIDbmV3UgRiZXN0IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZTX3BMRjZSMV8xSDJEVnJXZ0l0VWNuVW5RdGFhdnh5T3YtcUp2eGh6YVdkTF93SDNxbmdhVWhHQnhzOXJWNjhselpWYm9BV3pIWFl0dDNON1lKc1BoR2JDT29GYVYxS2RoSDcxa2lMVlJuR1dDY1hGV250OVBhTHJOSVZEUUNnU0M5aW5wY0p2WlcwRlVZb1VGWjd0OWd1R0hvQjRNWG5ZMllIdlBDUFZMR2NMU3c4QkZSWml6UzFqalBmZ1RjUjdDbnYzNkp6NDlMdTFkVFlONXYwZ2tlNlQ0eHlDUmZrYjBpOVJsdGZRbVFocFptcHBkWEhxdE5XeVlmMm01NGNqZjlLEgQaAggAGvsGEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQNcGCAAQABgAIAAqqwEKBmxhdGVzdBXjfrQ9GgRiZXN0GghicmVha2luZxoHY3VycmVudBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoGdXBkYXRlGgpsYXRlc3RuZXdzGgtpdjtkO2xhdGVzdBoNaXY7ZDticmVha2luZxoMaXY7ZDtjdXJyZW50GghpdjtkO2hvdBoJaXY7ZDtsYXN0GghpdjtkO25ldxoLaXY7ZDtyZWNlbnQqKgoEbmV3cxXLJLg-GgZldmVudHMaCmxhdGVzdG5ld3MaCWl2O2Q7bmV3cyooCgdpbmRpYWFpFQ0Yf0AaCGluZGlhIGFpGg5pbmRpYWFpbWlzc2lvbio2CgdtaXNzaW9uFTb1dkAaCG1pc3Npb25zGg5pbmRpYWFpbWlzc2lvbhoMaXY7ZDttaXNzaW9uMpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZTX3BMRjZSMV8xSDJEVnJXZ0l0VWNuVW5RdGFhdnh5T3YtcUp2eGh6YVdkTF93SDNxbmdhVWhHQnhzOXJWNjhselpWYm9BV3pIWFl0dDNON1lKc1BoR2JDT29GYVYxS2RoSDcxa2lMVlJuR1dDY1hGV250OVBhTHJOSVZEUUNnU0M5aW5wY0p2WlcwRlVZb1VGWjd0OWd1R0hvQjRNWG5ZMllIdlBDUFZMR2NMU3c4QkZSWml6UzFqalBmZ1RjUjdDbnYzNkp6NDlMdTFkVFlONXYwZ2tlNlQ0eHlDUmZrYjBpOVJsdGZRbVFocFptcHBkWEhxdE5XeVlmMm01NGNqZjlLOkxDYWJpbmV0JiMzOTtzIGFwcHJvdmFsIG9mIHRoZSAjPGI-SW5kaWFBSU1pc3Npb248L2I-IG1hcmtzIGEgc2lnbmlmaWNhbnQgLi4uQpoBSW5kaWEgTGF1bmNoZXMgQUkgQ29tcHV0ZSBQb3J0YWwgYW5kIFBsYW5zIGZvciAyNyBBSSBMYWJzIFVuaW9uIE1pbmlzdGVyIEFzaHdpbmkgVmFpc2huYXcgaGFzIHVudmVpbGVkIHRoZSBBSSBDb21wdXRlIFBvcnRhbCBpbiA8Yj5OZXc8L2I-IERlbGhpLCZuYnNwOy4uLlIDbmV3UgRiZXN0IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Discover Mission Dupont in DC for brunch, dinner, tacos, and cocktails in Dupont Circle. 1606 20th Street NW, Washington, DC 20009 202-525-2010. Mission is a ...",
-      "icon": "https://serpapi.com/images/i/UklGRgIBAABXRUJQVlA4IPYAAADwBQCdASogACAAPrUurVanIacnG_DgFolpAASZ3zXs3Lz6R_XTsQfzRRh6WL_MSgXvv4GkgOlPAAD--LBDJFeO-0OPoD8MZzXM6Pp_5yY9Z6sOXJMNmyu64yn6rvsxsutmzcPZ08k-MS-NUuM7pK8eVUN-rou9g1Gn0-PXLKH1Z06Mb9u3-eJRXwQZKtay1tkuTu08R9mFvs5DvRRYFyWrx41bIOojaLZ2Sk82_V8Ycy7GLbPGR-__b_2-ocgTbUjngnQqcSrPmf_aKoTf_Ejn_V2elD_fuz6X2MJZklYqEo2pcm5rdUMsvhAgqfh6R-VyiXXAAAA.webp",
-      "source_info_link": "https://www.missiondupont.com/"
+      "description": "India Launches AI Compute Portal and Plans for 27 AI Labs Union Minister Ashwini Vaishnaw has unveiled the AI Compute Portal in New Delhi, ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/meityindia/posts/cabinetdecision-cabinets-approval-of-the-indiaaimission-marks-a-significant-step/720644086918032/"
      }
     },
-    "displayed_link": "https://www.missiondupont.com",
-    "favicon": "https://serpapi.com/images/i/UklGRgIBAABXRUJQVlA4IPYAAADwBQCdASogACAAPrUurVanIacnG_DgFolpAASZ3zXs3Lz6R_XTsQfzRRh6WL_MSgXvv4GkgOlPAAD--LBDJFeO-0OPoD8MZzXM6Pp_5yY9Z6sOXJMNmyu64yn6rvsxsutmzcPZ08k-MS-NUuM7pK8eVUN-rou9g1Gn0-PXLKH1Z06Mb9u3-eJRXwQZKtay1tkuTu08R9mFvs5DvRRYFyWrx41bIOojaLZ2Sk82_V8Ycy7GLbPGR-__b_2-ocgTbUjngnQqcSrPmf_aKoTf_Ejn_V2elD_fuz6X2MJZklYqEo2pcm5rdUMsvhAgqfh6R-VyiXXAAAA.webp",
-    "link": "https://www.missiondupont.com/",
+    "displayed_link": "Reakcijų: 4 · prieš 2 metus",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/meityindia/posts/cabinetdecision-cabinets-approval-of-the-indiaaimission-marks-a-significant-step/720644086918032/",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVDudKM9WIPUcXcEY2SigcsobgDI4IgqHLR9V5Jqlwn3vOWU-Pla7CCV55ANht1AYmduHKhc0ina4vvgsFTBLQ3hleFUX0geo5FT427hEsUsIg&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQFnoECDcQAQ&uoh=1",
-    "snippet": "Discover Mission Dupont in DC for brunch, dinner, tacos, and cocktails in Dupont Circle. 1606 20th Street NW, Washington, DC 20009 202-525-2010. Mission is a ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFS_pLF6R1_1H2DVrWgItUcnUnQtaavxyOv-qJvxhzaWdL_wH3qngaUhGBxs9rV68lzZVboAWzHXYtt3N7YJsPhGbCOoFaV1KdhH71kiLVRnGWCcXFWnt9PaLrNIVDQCgSC9inpcJvZW0FUYoUFZ7t9guGHoB4MXnY2YHvPCPVLGcLSw8BFRZizS1jjPfgTcR7Cnv36Jz49Lu1dTYN5v0gke6T4xyCRfkb0i9RltfQmQhpZmppdXHqtNWyYf2m54cjf9K&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4QFnoECD8QAQ&uoh=1",
+    "snippet": "India Launches AI Compute Portal and Plans for 27 AI Labs Union Minister Ashwini Vaishnaw has unveiled the AI Compute Portal in New Delhi, ...",
     "snippet_highlighted_words": [
-     "1606 20th Street NW, Washington, DC 20009"
+     "New"
     ],
-    "source": "Mission Dupont",
-    "title": "Mission Dupont: Brunch, Dinner & Drinks in Dupont Circle DC"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Since 1977, Mission Foods has been creating fresh and authentic Mexican food products. See our full line of tortillas, chips, and other products",
-      "icon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsALElQIQBNJ6NBkgKUA5k_th7gYy0HnTSjuO9sH24FD1XhYajaGIgAP72AlodFaJddxLUkTzB5C1qjlbuIt8cxRL04aLcK0wQpdYqvC0VTCsvPylJjh32tOMKTxuK6ai8e18u76LPQDXOwALSqpa00KmCZ7yHQ_Y5HJpvgz6Dtz6boHJkbk_zH_4ftccSz5m4mZkguL1MG8_xWGX_miMWEAUtIUDQaw9XJXG_gWM-JALFy0XD81Aymv_3pzMXovxQ5ZPAqpdNtEoKz-_ROO-VPq_GgMLmjsq5hmWMgIwibeJAOeNT_9Bp89_psSPdrUKUjScSwOhbPn__TjLb7FGPlOrua9xRXzy5hMpnfZPw0AtX5yVMt-Pov90excscqApDm93N4CfmozNeyQE-1klelUAJ69sAFNvCJjrNOfzVAAAA.webp",
-      "source_info_link": "https://www.missionfoods.com/"
-     }
-    },
-    "displayed_link": "https://www.missionfoods.com",
-    "favicon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsALElQIQBNJ6NBkgKUA5k_th7gYy0HnTSjuO9sH24FD1XhYajaGIgAP72AlodFaJddxLUkTzB5C1qjlbuIt8cxRL04aLcK0wQpdYqvC0VTCsvPylJjh32tOMKTxuK6ai8e18u76LPQDXOwALSqpa00KmCZ7yHQ_Y5HJpvgz6Dtz6boHJkbk_zH_4ftccSz5m4mZkguL1MG8_xWGX_miMWEAUtIUDQaw9XJXG_gWM-JALFy0XD81Aymv_3pzMXovxQ5ZPAqpdNtEoKz-_ROO-VPq_GgMLmjsq5hmWMgIwibeJAOeNT_9Bp89_psSPdrUKUjScSwOhbPn__TjLb7FGPlOrua9xRXzy5hMpnfZPw0AtX5yVMt-Pov90excscqApDm93N4CfmozNeyQE-1klelUAJ69sAFNvCJjrNOfzVAAAA.webp",
-    "link": "https://www.missionfoods.com/",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVWJ4haATIv4zMrls0GXCTYA0iXtDnNYlilWLa2FX5g3yWDJeI_AbNqKY3aOl8vjMUeuQ722h7LNBt8Lt9zd9An_UxIldD9LZe6Tpyq-BGIaA&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQFnoECDYQAQ&uoh=1",
-    "snippet": "Since 1977, Mission Foods has been creating fresh and authentic Mexican food products. See our full line of tortillas, chips, and other products",
-    "snippet_highlighted_words": [
-     "Mission Foods has been creating fresh and authentic Mexican food products"
-    ],
-    "source": "Mission Foods",
-    "title": "Mission Foods - Mexican Food Products and Recipes"
+    "source": "Facebook · Ministry of Electronics & Information Technology, Government of India",
+    "title": "Cabinet's approval of the #IndiaAIMission marks a ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=latest+news+indiaai+mission&sca_esv=932ce377fb08cd9d&ei=B8yvas_fE4Gt1QHYhc-AAw&start=10&sa=N&sstk=AS6-VmKdgS3Gvb42PfM1jxbdeUxMq_1k7REUA8rD3YwuPIP1mZDXre4T6zUULhCyrmOvN9YBfwS37DOcKGbXt-U2n3GVDrnm6JygmQ&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQ8NMDegQIMBAG",
+   "next": "https://www.google.com/search?q=latest+news+indiaai+mission&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnu1wbHZnWwlf6aTSETGkqgEYZskFg:1790781575542&ei=hyi9asC2H6m50PEPw7ip8QY&start=10&sa=N&sstk=AS6-VmI_girONOyL5ugu5RZ6aGPgtki0tU--6wt02xyHJ5od3K_VZ7m7sf-di1GsED5fTmmvK3NI3zMoR4mTiv1vbV-DtQ4iKsUmtg&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4Q8NMDegQINRAI",
    "other_pages": {
-    "2": "https://www.google.com/search?q=latest+news+indiaai+mission&sca_esv=932ce377fb08cd9d&ei=B8yvas_fE4Gt1QHYhc-AAw&start=10&sa=N&sstk=AS6-VmKdgS3Gvb42PfM1jxbdeUxMq_1k7REUA8rD3YwuPIP1mZDXre4T6zUULhCyrmOvN9YBfwS37DOcKGbXt-U2n3GVDrnm6JygmQ&ved=2ahUKEwiP_-qXj_2WAxWBVjUKHdjCEzAQ8tMDegQIMBAE"
+    "2": "https://www.google.com/search?q=latest+news+indiaai+mission&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnu1wbHZnWwlf6aTSETGkqgEYZskFg:1790781575542&ei=hyi9asC2H6m50PEPw7ip8QY&start=10&sa=N&sstk=AS6-VmI_girONOyL5ugu5RZ6aGPgtki0tU--6wt02xyHJ5od3K_VZ7m7sf-di1GsED5fTmmvK3NI3zMoR4mTiv1vbV-DtQ4iKsUmtg&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4Q8tMDegQINRAE",
+    "3": "https://www.google.com/search?q=latest+news+indiaai+mission&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnu1wbHZnWwlf6aTSETGkqgEYZskFg:1790781575542&ei=hyi9asC2H6m50PEPw7ip8QY&start=20&sa=N&sstk=AS6-VmI_girONOyL5ugu5RZ6aGPgtki0tU--6wt02xyHJ5od3K_VZ7m7sf-di1GsED5fTmmvK3NI3zMoR4mTiv1vbV-DtQ4iKsUmtg&ved=2ahUKEwiAlredzZaXAxWpHDQIHUNcKm4Q8tMDegQINRAG"
    }
   },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IyRkRiekZMVWpGcmQxbGpWakJYT1c1Q1NGcFBkV1paTmtreVQwdHBRM1JSZW5jeWNIcExRM1F4TVZoV1NYSmZSbXBDTld0clUyVlBkRXAxVkdGV2JtZEVNbU40VjNkeVMxQlZXV3hFUjFGemFGQlROV05oU0VSaFp4SVhhSGxwT1dGelF6SklObTAxTUZCRlVIYzNhWEE0VVZrYUlrRkVjM0k1WmxJelFYUTVhamwxVmpSTFdHSTJObGd3VkcxWE9HdHZiMXBXZVVFIiwiZmN2IjoiMyIsImVpIjoiaHlpOWFzQzJINm01MFBFUHc3aXA4UVkiLCJxYyI6IkNodHNZWFJsYzNRZ2JtVjNjeUJwYm1ScFlXRnBJRzFwYzNOcGIyNFFBSDFld2ZNLSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGxhdGVzdCBuZXdzIG9uIEFJIGluIEluZGlhPyIsImxrIjoiR2cxaGFTQnVaWGR6SUdsdVpHbGgiLCJicyI6ImMxMk9NUXZDTUJDRmNUMFFpMk9zY3FPam5PRFNJWFRNNE9UZ0hEQzBCeWFWSk5LX2I5Tm9DcTd2dnUtOWd3YU85MTVIMU41ZzdBMC1kVFFob2pOandNRmhxNUFkS3ZkZ0xXa2oxcHJ6aVZNQ0V2YXp6Q0VqQ2ItOXJlV0lkS0tMcElPb3h5OHdHemo1WVFIZ3ZCU2s4Vkp5NVJCNGNKSzJvaXFpelNFMHNGT193WmNmT20tbTNIWHAwVlpKcW9Vb2MzOW56ZFhxQXciLCJpZCI6ImZjX2h5aTlhc0MySDZtNTBQRVB3N2lwOFFZXzQifQ==",
+    "page_token": "lCJ6GXicHdDPTsIwHADg-DIeZX9AMxJiMjZAwwbt1t9YL2a0G4W2a8UJbDffxafyaTTev9P39a2Orfy5u4iusx_T0eh6vT4cjDmo-oEZPao--paNWKXUvmJy-vj06D43bBZ_voTz95cQEWshwk4mgwZBqKlUZ1iITSFxXy_seQ3BJY9VmEdpn534rQKuyRJv6cCLzGddsYQL1UALsGsO1tvvVMkk3jJn3CURpMh5DdHAPJyLcUWwzpTaVo5K0pUaqOzmdexONsRmEPEbbV8Fkuk6613K_yzohZ86lu4897Ps3a4G7pY74WASnLJIJGuAlnrjcQlBV-XCwMqGSFkDSxvGgpu6kJNyl0aJPHj7nFxJDIgP3LJI4AKbIyJ4YCelYSl8MkgPt_hYy4CCdysTHTQ8VmZTuCr15Q2h-4ZdZv79_-fsrdHd1J7N4RcADoWr",
+    "question": "What are the latest news on AI in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lCJ6GXicHdDPTsIwHADg-DIeZX9AMxJiMjZAwwbt1t9YL2a0G4W2a8UJbDffxafyaTTev9P39a2Orfy5u4iusx_T0eh6vT4cjDmo-oEZPao--paNWKXUvmJy-vj06D43bBZ_voTz95cQEWshwk4mgwZBqKlUZ1iITSFxXy_seQ3BJY9VmEdpn534rQKuyRJv6cCLzGddsYQL1UALsGsO1tvvVMkk3jJn3CURpMh5DdHAPJyLcUWwzpTaVo5K0pUaqOzmdexONsRmEPEbbV8Fkuk6613K_yzohZ86lu4897Ps3a4G7pY74WASnLJIJGuAlnrjcQlBV-XCwMqGSFkDSxvGgpu6kJNyl0aJPHj7nFxJDIgP3LJI4AKbIyJ4YCelYSl8MkgPt_hYy4CCdysTHTQ8VmZTuCr15Q2h-4ZdZv79_-fsrdHd1J7N4RcADoWr",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IyRkRiekZMVWpGcmQxbGpWakJYT1c1Q1NGcFBkV1paTmtreVQwdHBRM1JSZW5jeWNIcExRM1F4TVZoV1NYSmZSbXBDTld0clUyVlBkRXAxVkdGV2JtZEVNbU40VjNkeVMxQlZXV3hFUjFGemFGQlROV05oU0VSaFp4SVhhSGxwT1dGelF6SklObTAxTUZCRlVIYzNhWEE0VVZrYUlrRkVjM0k1WmxJelFYUTVhamwxVmpSTFdHSTJObGd3VkcxWE9HdHZiMXBXZVVFIiwiZmN2IjoiMyIsImVpIjoiaHlpOWFzQzJINm01MFBFUHc3aXA4UVkiLCJxYyI6IkNodHNZWFJsYzNRZ2JtVjNjeUJwYm1ScFlXRnBJRzFwYzNOcGIyNFFBSDFld2ZNLSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGxhdGVzdCBuZXdzIG9uIEFJIGluIEluZGlhPyIsImxrIjoiR2cxaGFTQnVaWGR6SUdsdVpHbGgiLCJicyI6ImMxMk9NUXZDTUJDRmNUMFFpMk9zY3FPam5PRFNJWFRNNE9UZ0hEQzBCeWFWSk5LX2I5Tm9DcTd2dnUtOWd3YU85MTVIMU41ZzdBMC1kVFFob2pOandNRmhxNUFkS3ZkZ0xXa2oxcHJ6aVZNQ0V2YXp6Q0VqQ2ItOXJlV0lkS0tMcElPb3h5OHdHemo1WVFIZ3ZCU2s4Vkp5NVJCNGNKSzJvaXFpelNFMHNGT193WmNmT20tbTNIWHAwVlpKcW9Vb2MzOW56ZFhxQXciLCJpZCI6ImZjX2h5aTlhc0MySDZtNTBQRVB3N2lwOFFZXzQifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IyRkRiekZMVWpGcmQxbGpWakJYT1c1Q1NGcFBkV1paTmtreVQwdHBRM1JSZW5jeWNIcExRM1F4TVZoV1NYSmZSbXBDTld0clUyVlBkRXAxVkdGV2JtZEVNbU40VjNkeVMxQlZXV3hFUjFGemFGQlROV05oU0VSaFp4SVhhSGxwT1dGelF6SklObTAxTUZCRlVIYzNhWEE0VVZrYUlrRkVjM0k1WmxJelFYUTVhamwxVmpSTFdHSTJObGd3VkcxWE9HdHZiMXBXZVVFIiwiZmN2IjoiMyIsImVpIjoiaHlpOWFzQzJINm01MFBFUHc3aXA4UVkiLCJxYyI6IkNodHNZWFJsYzNRZ2JtVjNjeUJwYm1ScFlXRnBJRzFwYzNOcGIyNFFBSDFld2ZNLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBJbmRpYSBBSSBTdW1taXQgMjAyNj8iLCJsayI6IkdoeDNhR0YwSUdseklHbHVaR2xoSUdGcElITjFiVzFwZENBeU1ESTIiLCJicyI6ImMxMk9NUXZDTUJDRmNUMFFpMk9zY3FPam5PRFNJWFRNNE9UZ0hEQzBCeWFWSk5LX2I5Tm9DcTd2dnUtOWd3YU85MTVIMU41ZzdBMC1kVFFob2pOandNRmhxNUFkS3ZkZ0xXa2oxcHJ6aVZNQ0V2YXp6Q0VqQ2ItOXJlV0lkS0tMcElPb3h5OHdHemo1WVFIZ3ZCU2s4Vkp5NVJCNGNKSzJvaXFpelNFMHNGT193WmNmT20tbTNIWHAwVlpKcW9Vb2MzOW56ZFhxQXciLCJpZCI6ImZjX2h5aTlhc0MySDZtNTBQRVB3N2lwOFFZXzQifQ==",
+    "page_token": "_CvJE3icHdDdbpswGABQ9WV62WBYuypSNIkCAVoc2cYfPzcT-ZzgxCbQhIaEu73LnmpPs2lvcHR-_baHk_nzcNXjOFyWi8U0TU9t37d294R9t2gu9xMusLF226BZvnx_IT_2uAq_Ev_tM_GZHAYIuCPc9Ci80GGWch7rnEv1VXoA6Fmu7oRuypoCad2MVC6WkUDyeoO1tltir7Vz89FlM4bRRQbJTThDUJW0qYjuNwE03IwHdhoMFEpXoC5ZbK_C1O9AorMIzAhhO-1kcm9iKqDjPbg2VZGe61zdSzeaS6LTWlJQNn3LTBQXa-mBjM55pIVy6LGQkNC85hmE3z4K54aEeqFW_a4wz_8cQWZad5vLSYbA1KwGDDQveH9gks94tJ20aYLgV8x9zndxnVfEjiWh72iVxqPfbdajYOxxj9eV9_j_c_Vz343L4dy3fwH-PYOG",
+    "question": "What is India AI Summit 2026?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_CvJE3icHdDdbpswGABQ9WV62WBYuypSNIkCAVoc2cYfPzcT-ZzgxCbQhIaEu73LnmpPs2lvcHR-_baHk_nzcNXjOFyWi8U0TU9t37d294R9t2gu9xMusLF226BZvnx_IT_2uAq_Ev_tM_GZHAYIuCPc9Ci80GGWch7rnEv1VXoA6Fmu7oRuypoCad2MVC6WkUDyeoO1tltir7Vz89FlM4bRRQbJTThDUJW0qYjuNwE03IwHdhoMFEpXoC5ZbK_C1O9AorMIzAhhO-1kcm9iKqDjPbg2VZGe61zdSzeaS6LTWlJQNn3LTBQXa-mBjM55pIVy6LGQkNC85hmE3z4K54aEeqFW_a4wz_8cQWZad5vLSYbA1KwGDDQveH9gks94tJ20aYLgV8x9zndxnVfEjiWh72iVxqPfbdajYOxxj9eV9_j_c_Vz343L4dy3fwH-PYOG",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IyRkRiekZMVWpGcmQxbGpWakJYT1c1Q1NGcFBkV1paTmtreVQwdHBRM1JSZW5jeWNIcExRM1F4TVZoV1NYSmZSbXBDTld0clUyVlBkRXAxVkdGV2JtZEVNbU40VjNkeVMxQlZXV3hFUjFGemFGQlROV05oU0VSaFp4SVhhSGxwT1dGelF6SklObTAxTUZCRlVIYzNhWEE0VVZrYUlrRkVjM0k1WmxJelFYUTVhamwxVmpSTFdHSTJObGd3VkcxWE9HdHZiMXBXZVVFIiwiZmN2IjoiMyIsImVpIjoiaHlpOWFzQzJINm01MFBFUHc3aXA4UVkiLCJxYyI6IkNodHNZWFJsYzNRZ2JtVjNjeUJwYm1ScFlXRnBJRzFwYzNOcGIyNFFBSDFld2ZNLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBJbmRpYSBBSSBTdW1taXQgMjAyNj8iLCJsayI6IkdoeDNhR0YwSUdseklHbHVaR2xoSUdGcElITjFiVzFwZENBeU1ESTIiLCJicyI6ImMxMk9NUXZDTUJDRmNUMFFpMk9zY3FPam5PRFNJWFRNNE9UZ0hEQzBCeWFWSk5LX2I5Tm9DcTd2dnUtOWd3YU85MTVIMU41ZzdBMC1kVFFob2pOandNRmhxNUFkS3ZkZ0xXa2oxcHJ6aVZNQ0V2YXp6Q0VqQ2ItOXJlV0lkS0tMcElPb3h5OHdHemo1WVFIZ3ZCU2s4Vkp5NVJCNGNKSzJvaXFpelNFMHNGT193WmNmT20tbTNIWHAwVlpKcW9Vb2MzOW56ZFhxQXciLCJpZCI6ImZjX2h5aTlhc0MySDZtNTBQRVB3N2lwOFFZXzQifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IyRkRiekZMVWpGcmQxbGpWakJYT1c1Q1NGcFBkV1paTmtreVQwdHBRM1JSZW5jeWNIcExRM1F4TVZoV1NYSmZSbXBDTld0clUyVlBkRXAxVkdGV2JtZEVNbU40VjNkeVMxQlZXV3hFUjFGemFGQlROV05oU0VSaFp4SVhhSGxwT1dGelF6SklObTAxTUZCRlVIYzNhWEE0VVZrYUlrRkVjM0k1WmxJelFYUTVhamwxVmpSTFdHSTJObGd3VkcxWE9HdHZiMXBXZVVFIiwiZmN2IjoiMyIsImVpIjoiaHlpOWFzQzJINm01MFBFUHc3aXA4UVkiLCJxYyI6IkNodHNZWFJsYzNRZ2JtVjNjeUJwYm1ScFlXRnBJRzFwYzNOcGIyNFFBSDFld2ZNLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgSW5kaWEgQUkgTWlzc2lvbj8iLCJsayI6IkdoQnBibVJwWVNCaGFTQnRhWE56YVc5dSIsImJzIjoiYzEyT01RdkNNQkNGY1QwUWkyT3NjcU9qbk9EU0lYVE00T1RnSERDMEJ5YVZKTktfYjlOb0NxN3Z2dS05Z3dhTzkxNUgxTjVnN0EwLWRUUWhvak5qd01GaHE1QWRLdmRnTFdrajFwcnppVk1DRXZhenpDRWpDYi05cmVXSWRLS0xwSU9veHk4d0d6ajVZUUhndkJTazhWSnk1UkI0Y0pLMm9pcWl6U0Uwc0ZPX3daY2ZPbS1tM0hYcDBWWkpxb1VvYzM5bnpkWHFBdyIsImlkIjoiZmNfaHlpOWFzQzJINm01MFBFUHc3aXA4UVlfNCJ9",
+    "page_token": "_mv5I3icHdBNcoIwAEDh6WVcVsVKW2ecjhgD_TGWQBLIphMSFUmAaKkgu96lp-pp6nT7Ft_iff-YQ6V_b85509jP2XDYtu3tvq73Znsr63IoPi-VHEphTCaknrn37vhpJ-err2dveXz2QmItBXgUOfBdFh4XxaLLKiVIQHdRoRzULy5vSXqJNCqVfuEKGjdOXnIW8PfUWJ6N6FlCDrjBaxXggNLHLxnzWgBvSo11icYnEdgJGuuOAXp1Gp9TbqLeMJHYOPOtwIYDxChiAbqECewxXHTMf-hjh25YyV_Xo87Lxl7CYroUq8eGFrCJSuTHDmq3AT9eXRcDmITXTnS3SRnGq1zVW6anaYLAWu-dLCYtWdFQ9cpKkGOG60NIcC8LU5IKu9SBk9RRrpwYf20wQIZuSJWHCPLkjd31vB3s5Hk-Gfz_nH_symZmT_X-D7uNhPg",
+    "question": "What is the India AI Mission?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_mv5I3icHdBNcoIwAEDh6WVcVsVKW2ecjhgD_TGWQBLIphMSFUmAaKkgu96lp-pp6nT7Ft_iff-YQ6V_b85509jP2XDYtu3tvq73Znsr63IoPi-VHEphTCaknrn37vhpJ-err2dveXz2QmItBXgUOfBdFh4XxaLLKiVIQHdRoRzULy5vSXqJNCqVfuEKGjdOXnIW8PfUWJ6N6FlCDrjBaxXggNLHLxnzWgBvSo11icYnEdgJGuuOAXp1Gp9TbqLeMJHYOPOtwIYDxChiAbqECewxXHTMf-hjh25YyV_Xo87Lxl7CYroUq8eGFrCJSuTHDmq3AT9eXRcDmITXTnS3SRnGq1zVW6anaYLAWu-dLCYtWdFQ9cpKkGOG60NIcC8LU5IKu9SBk9RRrpwYf20wQIZuSJWHCPLkjd31vB3s5Hk-Gfz_nH_symZmT_X-D7uNhPg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IyRkRiekZMVWpGcmQxbGpWakJYT1c1Q1NGcFBkV1paTmtreVQwdHBRM1JSZW5jeWNIcExRM1F4TVZoV1NYSmZSbXBDTld0clUyVlBkRXAxVkdGV2JtZEVNbU40VjNkeVMxQlZXV3hFUjFGemFGQlROV05oU0VSaFp4SVhhSGxwT1dGelF6SklObTAxTUZCRlVIYzNhWEE0VVZrYUlrRkVjM0k1WmxJelFYUTVhamwxVmpSTFdHSTJObGd3VkcxWE9HdHZiMXBXZVVFIiwiZmN2IjoiMyIsImVpIjoiaHlpOWFzQzJINm01MFBFUHc3aXA4UVkiLCJxYyI6IkNodHNZWFJsYzNRZ2JtVjNjeUJwYm1ScFlXRnBJRzFwYzNOcGIyNFFBSDFld2ZNLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgSW5kaWEgQUkgTWlzc2lvbj8iLCJsayI6IkdoQnBibVJwWVNCaGFTQnRhWE56YVc5dSIsImJzIjoiYzEyT01RdkNNQkNGY1QwUWkyT3NjcU9qbk9EU0lYVE00T1RnSERDMEJ5YVZKTktfYjlOb0NxN3Z2dS05Z3dhTzkxNUgxTjVnN0EwLWRUUWhvak5qd01GaHE1QWRLdmRnTFdrajFwcnppVk1DRXZhenpDRWpDYi05cmVXSWRLS0xwSU9veHk4d0d6ajVZUUhndkJTazhWSnk1UkI0Y0pLMm9pcWl6U0Uwc0ZPX3daY2ZPbS1tM0hYcDBWWkpxb1VvYzM5bnpkWHFBdyIsImlkIjoiZmNfaHlpOWFzQzJINm01MFBFUHc3aXA4UVlfNCJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IyRkRiekZMVWpGcmQxbGpWakJYT1c1Q1NGcFBkV1paTmtreVQwdHBRM1JSZW5jeWNIcExRM1F4TVZoV1NYSmZSbXBDTld0clUyVlBkRXAxVkdGV2JtZEVNbU40VjNkeVMxQlZXV3hFUjFGemFGQlROV05oU0VSaFp4SVhhSGxwT1dGelF6SklObTAxTUZCRlVIYzNhWEE0VVZrYUlrRkVjM0k1WmxJelFYUTVhamwxVmpSTFdHSTJObGd3VkcxWE9HdHZiMXBXZVVFIiwiZmN2IjoiMyIsImVpIjoiaHlpOWFzQzJINm01MFBFUHc3aXA4UVkiLCJxYyI6IkNodHNZWFJsYzNRZ2JtVjNjeUJwYm1ScFlXRnBJRzFwYzNOcGIyNFFBSDFld2ZNLSIsInF1ZXN0aW9uIjoiSXMgSW5kaWEgcHJvZ3Jlc3NpbmcgaW4gQUk/IiwibGsiOiJHaHBwY3lCcGJtUnBZU0J3Y205bmNtVnpjMmx1WnlCcGJpQmhhUSIsImJzIjoiYzEyT01RdkNNQkNGY1QwUWkyT3NjcU9qbk9EU0lYVE00T1RnSERDMEJ5YVZKTktfYjlOb0NxN3Z2dS05Z3dhTzkxNUgxTjVnN0EwLWRUUWhvak5qd01GaHE1QWRLdmRnTFdrajFwcnppVk1DRXZhenpDRWpDYi05cmVXSWRLS0xwSU9veHk4d0d6ajVZUUhndkJTazhWSnk1UkI0Y0pLMm9pcWl6U0Uwc0ZPX3daY2ZPbS1tM0hYcDBWWkpxb1VvYzM5bnpkWHFBdyIsImlkIjoiZmNfaHlpOWFzQzJINm01MFBFUHc3aXA4UVlfNCJ9",
+    "page_token": "x2__4XicHdBLboJAGADg9DIuKw-xqYlpShUoLb9hmIfOphlnBKwzMBEi4q536al6mja9wLf4vr71sTn93G3rvrfdYjodhuG-attKH-5la6aiGxs5lULrvZCnxfxh7j6VcrnuhvClHcKcWEtXyCkM8TlNbzC6HXVhpk7Xy07XOPdopzx1wTddkCRMRJPN8ttzDys-QhN1BaaBimn8zq4laEU4q0aBa3_v5dfdNnUQhj-XG2wGX0ZVoHzeUm2zwgBjaxUDSZF06hg5j5qxzN019Eo-1wFjyMMeGkUM9kBgXmAY9wmcsyRluauMcEkReXUgsK6lk43FiveAwxzR0AdPD5so4vExDVEC44Zxkt0oE8YKhOuGYgV0xV-lhreDsVGxtQafAE1KeVn6k_-x5Udp-oU9t9UvAfJ5ig",
+    "question": "Is India progressing in AI?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=x2__4XicHdBLboJAGADg9DIuKw-xqYlpShUoLb9hmIfOphlnBKwzMBEi4q536al6mja9wLf4vr71sTn93G3rvrfdYjodhuG-attKH-5la6aiGxs5lULrvZCnxfxh7j6VcrnuhvClHcKcWEtXyCkM8TlNbzC6HXVhpk7Xy07XOPdopzx1wTddkCRMRJPN8ttzDys-QhN1BaaBimn8zq4laEU4q0aBa3_v5dfdNnUQhj-XG2wGX0ZVoHzeUm2zwgBjaxUDSZF06hg5j5qxzN019Eo-1wFjyMMeGkUM9kBgXmAY9wmcsyRluauMcEkReXUgsK6lk43FiveAwxzR0AdPD5so4vExDVEC44Zxkt0oE8YKhOuGYgV0xV-lhreDsVGxtQafAE1KeVn6k_-x5Udp-oU9t9UvAfJ5ig",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IyRkRiekZMVWpGcmQxbGpWakJYT1c1Q1NGcFBkV1paTmtreVQwdHBRM1JSZW5jeWNIcExRM1F4TVZoV1NYSmZSbXBDTld0clUyVlBkRXAxVkdGV2JtZEVNbU40VjNkeVMxQlZXV3hFUjFGemFGQlROV05oU0VSaFp4SVhhSGxwT1dGelF6SklObTAxTUZCRlVIYzNhWEE0VVZrYUlrRkVjM0k1WmxJelFYUTVhamwxVmpSTFdHSTJObGd3VkcxWE9HdHZiMXBXZVVFIiwiZmN2IjoiMyIsImVpIjoiaHlpOWFzQzJINm01MFBFUHc3aXA4UVkiLCJxYyI6IkNodHNZWFJsYzNRZ2JtVjNjeUJwYm1ScFlXRnBJRzFwYzNOcGIyNFFBSDFld2ZNLSIsInF1ZXN0aW9uIjoiSXMgSW5kaWEgcHJvZ3Jlc3NpbmcgaW4gQUk%2FIiwibGsiOiJHaHBwY3lCcGJtUnBZU0J3Y205bmNtVnpjMmx1WnlCcGJpQmhhUSIsImJzIjoiYzEyT01RdkNNQkNGY1QwUWkyT3NjcU9qbk9EU0lYVE00T1RnSERDMEJ5YVZKTktfYjlOb0NxN3Z2dS05Z3dhTzkxNUgxTjVnN0EwLWRUUWhvak5qd01GaHE1QWRLdmRnTFdrajFwcnppVk1DRXZhenpDRWpDYi05cmVXSWRLS0xwSU9veHk4d0d6ajVZUUhndkJTazhWSnk1UkI0Y0pLMm9pcWl6U0Uwc0ZPX3daY2ZPbS1tM0hYcDBWWkpxb1VvYzM5bnpkWHFBdyIsImlkIjoiZmNfaHlpOWFzQzJINm01MFBFUHc3aXA4UVlfNCJ9",
+    "type": "ai_overview"
+   }
+  ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "latest news indiaai mission",
-   "time_taken_displayed": 0.31,
-   "total_results": 29
+   "time_taken_displayed": 0.3,
+   "total_results": 84800
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:05:27 UTC",
+   "created_at": "2026-09-30 15:19:34 UTC",
    "google_url": "https://www.google.com/search?q=latest+news+indiaai+mission&oq=latest+news+indiaai+mission&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcc0797c19f6081d6391c",
-   "json_endpoint": "https://serpapi.com/searches/MpGCcW3rOSEi3dnJR2h8JaTCkI8koyGNRvlIXZZV8is/6aafcc0797c19f6081d6391c.json",
-   "markdown_endpoint": "https://serpapi.com/searches/MpGCcW3rOSEi3dnJR2h8JaTCkI8koyGNRvlIXZZV8is/6aafcc0797c19f6081d6391c.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/MpGCcW3rOSEi3dnJR2h8JaTCkI8koyGNRvlIXZZV8is/6aafcc0797c19f6081d6391c.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:05:27 UTC",
-   "raw_html_file": "https://serpapi.com/searches/MpGCcW3rOSEi3dnJR2h8JaTCkI8koyGNRvlIXZZV8is/6aafcc0797c19f6081d6391c.html",
+   "id": "6abd2886a68855ce0ee5b6d8",
+   "json_endpoint": "https://serpapi.com/searches/0AKZ8VNrQOxoyMAHZHeE0eFa8TR94e57ASJyHNnwoCo/6abd2886a68855ce0ee5b6d8.json",
+   "markdown_endpoint": "https://serpapi.com/searches/0AKZ8VNrQOxoyMAHZHeE0eFa8TR94e57ASJyHNnwoCo/6abd2886a68855ce0ee5b6d8.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/0AKZ8VNrQOxoyMAHZHeE0eFa8TR94e57ASJyHNnwoCo/6abd2886a68855ce0ee5b6d8.json_with_pixel_position",
+   "processed_at": "2026-09-30 15:19:34 UTC",
+   "raw_html_file": "https://serpapi.com/searches/0AKZ8VNrQOxoyMAHZHeE0eFa8TR94e57ASJyHNnwoCo/6abd2886a68855ce0ee5b6d8.html",
    "status": "Success",
-   "total_time_taken": 0.44
+   "total_time_taken": 1.5
   },
   "search_parameters": {
    "device": "desktop",
@@ -312,7 +389,8 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+indiaai+mission&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+indiaai+mission&start=10",
    "other_pages": {
-    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+indiaai+mission&start=10"
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+indiaai+mission&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+indiaai+mission&start=20"
    }
   }
  },

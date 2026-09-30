@@ -2,16 +2,16 @@
 
 **A cost-aware search planner for SerpApi.**
 
-On 100 benchmark questions, a plan answers **98** where a plain web search
-answers **79** — for two searches a question. More than that, it can tell you
-what the *next* search is worth before you buy it:
+One web search answers about four questions in five — and not the same four
+twice. Recorded twice, a week apart, a single search got the same question right
+**both times for 65 of 100 questions**. A plan of two searches across two
+different indexes did it for **92**.
 
-![Questions answered against searches spent](docs/frontier.svg)
+![Questions answered against searches spent, in two recordings](docs/frontier.svg)
 
-**98 answers cost 2.0 searches each. 99 costs 2.3. 100 costs 4.1 — and that
-hundredth answer costs 184 searches by itself.** No other number this project
-produced is as useful as that curve, because a recall percentage cannot tell
-anyone whether to spend the next call and this can.
+**The second search is the one worth buying: twelve or thirteen more answers in
+both recordings. A third engine buys one, or none.** Knowing that before paying
+for it is the point of the project.
 
 Most agents search badly. They take a question, fire a single query at one
 engine, take the top ten results, and stuff them into a context window. When
@@ -23,13 +23,13 @@ budget, it compiles a *search plan*: which of SerpApi's engines to call, with
 which query shaped for each, under a ceiling the caller sets — then executes it
 and reports what it spent.
 
-Every figure here replays from committed fixtures with no API key and no spend,
-**including the ones that went against the design.** The purple ring on that
-chart is the control: pairing web search with `google_scholar` for every
-question, whatever it is about, lands on the identical 98 answers at the
-identical cost. On this question set, choosing the engine per question earns
-nothing measurable — and the benchmark that says so is in this repository. See
-[Results](#results).
+Every figure here replays from two committed recordings with no API key and no
+spend, **including the ones that went against the design.** Choosing the engine
+per question does no better than always pairing web search with a broad index.
+Rewording the query, and adding locale parameters to it, have no effect that
+survives a second recording — and an earlier version of this file claimed both
+did, from one. What reproducibly matters is one thing: asking a second,
+different index. See [Results](#results).
 
 ## What an agent gets from this
 
@@ -73,7 +73,10 @@ waste a great many of them:
 - **No stopping rule.** An agent that has already found the answer keeps
   searching, because nothing tells it the evidence has saturated.
 
-Each of those is a planning failure, and each is measurable.
+Each of those is a planning failure, and each is measurable — and measuring
+them did not go the way this list expects. Rewording really is redundant. Which
+engine turned out not to matter measurably, only that there is a second one. And
+the stopping rule never had occasion to fire. See [Results](#results).
 
 ## How it works
 
@@ -120,80 +123,98 @@ the stored record.
 
 One hundred questions with verifiable answers, scored on whether the retrieved
 evidence contains the answer. Scoring is string matching against marker terms on
-word boundaries, so there is no judge model and nothing to take on trust. Every
-number below replays from committed fixtures without an API key.
+word boundaries, so there is no judge model and nothing to take on trust.
 
-| strategy | what it adds | answered | recall | searches/question |
-|---|---|---|---|---|
-| naive | the question verbatim to web search | 79/100 | 79% | 1.0 |
-| keyword | + reformulation | 73/100 | 73% | 1.0 |
-| parameterised | + engine parameters | 87/100 | 87% | 1.0 |
-| **planned** | + routing, under a budget | **98/100** | **98%** | 2.0 |
+**Everything was recorded twice**, on 20 September and again on 27–30 September,
+and both recordings are committed. Every number below replays from them without
+an API key.
 
-Four strategies, each adding one mechanism to the one before, so that every gap
-isolates a single thing. It took three revisions to get there: two strategies
-could not separate reformulation from routing, and three could not separate
-routing from the engine parameters that come with it.
+| strategy | first | second | right both times |
+|---|---|---|---|
+| one web search, the question verbatim | 79/100 | 83/100 | 65 |
+| one web search, reduced to keywords | 73/100 | 86/100 | 63 |
+| one web search, keywords + locale parameters | 87/100 | 84/100 | 74 |
+| **the plan — two searches, two indexes** | **97/100** | **95/100** | **92** |
 
-All 98 are answered from evidence that contains the answer. One was not, until
-recently: `iitm-location` scored on a sociology paper about caste that happened
-to contain both "chennai" and "iit madras". It was disclosed here rather than
-fixed, because editing a question's markers after seeing how it scored is how a
-benchmark stops meaning anything. It was then fixed the legitimate way, by
-routing the question to an engine that knows where buildings are — see
-[the local routing note](#limitations).
+The last column is the one to read. A single web search answers about four
+questions in five, but *which* four changes: **32 of the 100 verbatim answers
+flipped between the two recordings.** Only 65 questions were answered both
+times. The plan answered 92 both times, and there is no question it missed
+twice.
 
-### Which mechanism earns what
+### Why there are two recordings
 
-Five mechanisms. Three decide what gets retrieved and are measured below; two
-are governors — a budget and a stopping rule — which bound a run rather than
-improve it, and are shown working [further down](#the-budget-and-the-stopping-rule-shown-firing).
+The second one was not planned. Checking what a first-time user would see, the
+most ordinary question in the set — *"Who invented the telephone?"* — returned a
+tweet, a car review and the history of the Caesar salad. The recorded response
+said Google had found **38** results. Re-run a week later, the same request
+reported 393,000 and put Alexander Graham Bell second.
 
-| mechanism | net | what it costs |
-|---|---|---|
-| engine parameters | **+14** | nothing |
-| taking a second search | **+11** | +1.0 searches/question |
-| reformulation | **−6** | nothing |
-| routing's choice of engine | **0** | — |
+On 20 September, 92% of the Google responses in the first recording reported
+fewer than a thousand results. A week later 6% did. The specialist engines were
+unaffected. That looked like a broken baseline inflating the plan's lead, so
+the baseline was recorded again.
 
-**Reformulation loses six questions.** Stripping a question to keywords helps an
-index that matches terms and hurts one that parses intent. Asked *"Who proposed
-the Adam optimisation algorithm?"*, web search returns an answer box naming
-Kingma; asked `proposed adam optimisation algorithm`, it returns pages about
-Adam. The interrogative was carrying the meaning.
+It moved from 79 to 83. The alarming-looking result counts turned out to predict
+almost nothing — responses reporting tiny counts answered as often as the rest.
+What the second recording actually showed was larger and more ordinary: web
+search results are not stable from one request to the next, and **a single
+recording of a web benchmark is one sample, not a measurement.** An earlier
+version of this file reported one recording's numbers to the question, and drew
+conclusions from differences of one and two. Those are retracted below.
 
-It ships anyway, and for a better reason than inertia. `google_shopping`,
-`google_jobs`, `google_maps` and `google_trends` match terms rather than
-sentences, and sending them a sentence returns nothing — so reformulation is
-applied per engine because engines differ, and the −6 is the price of applying
-it to web search too.
+One thing about the second recording limits what it can show. The web step was
+recorded again for every arm; **each plan's second engine was recorded once and
+is shared by both.** The plan's two scores are therefore less independent than
+the baseline's, and its steadiness is flattered by that. The gap between 65 and
+92 is large enough to survive the caveat; it should not be read as exact.
 
-**The obvious fix was tested and it makes things worse.** Sending the planner's
-web step the verbatim question instead of the keyword query scores 97 rather
-than 98: one question changes and it changes the wrong way. The −6 is real as a
-statement about reformulation *alone*, which is what that arm isolates — and it
-is fully absorbed inside a plan, where engine parameters, routing and a second
-search compensate for it. **There is no question the verbatim baseline answers
-that the planner misses.**
+### What survives a second recording, and what does not
 
-This cost nothing to establish, since the verbatim responses were already
-recorded by the `naive` arm. A negative result about an isolated mechanism is
-not automatically a defect in the system that contains it, and the difference is
-cheap to check.
+| claim | first | second | verdict |
+|---|---|---|---|
+| a second search, from a different index, helps | +13 | +12 | **holds** |
+| rewording the question into keywords changes recall | −6 | +3 | does not replicate |
+| locale parameters on the web search change recall | +14 | −2 | does not replicate |
+| a third engine helps | +1 | 0 | nothing measurable |
+| choosing the engine beats always using Scholar | 0 | +2 | nothing measurable |
 
-**Engine parameters earn the most of any single mechanism.** `gl`, `hl`,
-`location`, `geo` and `as_ylo` were added because sending none of them was a
-correctness bug — a question about interest in electric vehicles *in India* was
-being answered with worldwide data. They turn out to be worth fourteen questions,
-and they cost nothing, because a parameter rides along with a search already
-being issued.
+**One thing reproducibly matters: asking a second, different index.** It is
+worth twelve or thirteen questions over the best single engine in both
+recordings, and twelve to eighteen over a plain web search.
 
-On 57 of the 100 questions the parameterised arm builds a request byte-identical
-to the keyword arm, because no locale or recency constraint applies. The +14 is
-earned on the other 43.
+**Two claims this file used to make are withdrawn.** From the first recording
+alone it reported that reformulation cost six questions and that engine
+parameters earned fourteen, and named parameters the largest contributor. In the
+second recording reformulation gained three and parameters lost two. The three
+single-search arms cannot be told apart; their order reverses between
+recordings. Neither number was ever a finding.
 
-**Taking a second search earns eleven.** This is the routing machinery's real
-contribution, and it is not the part that chooses.
+The parameters themselves are not in doubt where they are structural. Trends
+without `geo` answers about the wrong country, jobs without `location` returns
+vacancies from anywhere, and maps without `z` returns HTTP 400. Those are
+correctness, established by the failures they fix, and they stay. What is
+withdrawn is the claim that adding `gl` and `hl` to a *web* search buys recall.
+
+### Web search is sent the question as asked
+
+The plan used to reduce every query to keywords, web search included. It now
+sends web search the question verbatim, and keeps the keyword forms for the
+engines that match terms rather than parse sentences.
+
+| the plan's web step | first | second | mean |
+|---|---|---|---|
+| keywords + parameters — the old default | 98 | 91 | 94.5 |
+| **the verbatim question — the default now** | **97** | **95** | **96.0** |
+
+The honest account of this decision is that it was made badly once. On the first
+recording alone the verbatim form scored 97 against 98, and this file said the
+change had been "tested" and "makes things worse". That was a one-question
+difference on one recording. With two, the verbatim form averages higher and
+varies less — and a difference of 1.5 is still inside the noise, so the
+measurement does not decide it. What decides it is that *"invented telephone"*
+is what returned the Caesar salad, and that parameters on the web step changed
+no outcome in either recording: 98 and 91 with them, 98 and 91 without.
 
 ### Is the routing doing the work?
 
@@ -201,83 +222,55 @@ The obvious objection is that any second engine would do. That deserves a
 control, so the benchmark runs fixed pairings: web search plus the *same* second
 engine for every question, whatever the question is about.
 
-| configuration | answered | recall | searches/question |
+| configuration | first | second | searches/question |
 |---|---|---|---|
-| naive — verbatim question | 79/100 | 79% | 1.0 |
-| keyword — reformulated, one engine | 73/100 | 73% | 1.0 |
-| parameterised — reformulated, with parameters | 87/100 | 87% | 1.0 |
-| routed to one engine, **no web search** | 85/100 | 85% | 1.0 |
-| web + a fixed second engine (shopping) | 88/100 | 88% | 2.0 |
-| web + a fixed second engine (news) | 96/100 | 96% | 2.0 |
-| web + a fixed second engine (scholar) | **98/100** | 98% | 2.0 |
-| **web + the routed second engine** | **98/100** | **98%** | **2.0** |
+| routed to one engine, no web search | 84/100 | 83/100 | 1.0 |
+| web + a fixed second engine (shopping) | 87/100 | 85/100 | 2.0 |
+| web + a fixed second engine (news) | 95/100 | 93/100 | 2.0 |
+| web + a fixed second engine (scholar) | 97/100 | 93/100 | 2.0 |
+| **web + the routed second engine** | **97/100** | **95/100** | **2.0** |
+| web + two routed engines | 98/100 | 95/100 | 2.3 |
 
-**Routing ties the best fixed pairing exactly**, on the same number of searches,
-and they answer the *identical* 98 questions — not merely the same count. On
-this question set, choosing the engine per question earns nothing measurable
-over always choosing `google_scholar`.
+Routing is never behind a fixed pairing and is ahead of the best one by two in
+the second recording and level in the first. That is not a result. **On this
+question set, choosing the engine per question has no measurable advantage over
+always pairing web search with a broad index.**
 
-That is the control doing its job, and the result is not the one this project
-set out to show. The honest statement:
+What the control does show is that the second index has to be *broad*. Added to
+a verbatim web search, shopping — a narrow index — is worth two to eight
+questions; news and scholar are broad and are worth ten to eighteen. A signal in
+the question selects the second engine on 72 of the 100, and that produces
+better-shaped evidence — a demand series rather
+than an article about one, a street address rather than a page mentioning a
+city. It does not produce more answers.
 
-> The router selects a specialist engine on 54 of the 100 questions, and that
-> selection produces better-shaped evidence — a demand series rather than an
-> article about one. It does not produce more answers. What produced the answers
-> was deciding to search a second time at all.
-
-Routing finds no specialist signal on 34 questions — *"Who invented the
-telephone?"* is not a places question or a jobs question. It used to search once
-and stop, which cost six answers to save 34 searches. It now falls back to a
-broad index. Three alternatives were measured on the six questions where that
-fallback decides the outcome:
-
-| fallback | rescued |
-|---|---|
-| `google_scholar` | **6 / 6** |
-| `google_news` | 4 / 6 |
-| a second web query, reworded | 2 / 6 |
-| `google_shopping` | 1 / 6 |
-| `bing`, the verbatim question | 1 / 6 |
-| `bing`, the keyword query | 0 / 6 |
-
-Two things follow. **Asking somewhere else beats asking again** — rewording
-recovered two, and on 15 of the 34 questions it could not even produce a second
-phrasing, since stripping *"What is the capital of Karnataka?"* leaves two words
-and no alternative. And **the index has to be broad**: `google_shopping` is
-narrow and behaves accordingly.
-
-`bing` is the surprise. Asked the verbatim question, with the request confirmed
-correct in the response's own `bing_url`, it returned Cambridge Dictionary and
-Merriam-Webster entries for *"created"* and *"wrote"* — 263,000 results, and the
-word "mendeleev" nowhere in the payload.
-
-The rule and the preference order were written down before any of these were
-scored, because choosing whichever engine won would be fitting the router to the
-benchmark. The reasoning is in
-[`router.py`](src/frugal/router.py): a question reaching the fallback is a plain
-factual one, rarely about this week, so it wants the least time-bound general
-index.
+For the 28 questions with no specialist signal — *"Who invented the telephone?"*
+is not a places question or a jobs question — the router used to search once and
+stop. It now adds a broad index. `bing` was tried for that role and is recorded
+here because the result was surprising: asked *"Who created the periodic table of
+elements?"*, with the request confirmed correct in the response's own
+`bing_url`, it returned Cambridge Dictionary and Merriam-Webster entries for
+"created", and the word "mendeleev" appeared nowhere in the payload.
 
 ### What more searches buy
 
-The default is not the highest-scoring configuration. It is the one that returns
-the most answers per search.
+| plan size | first | second | searches/question |
+|---|---|---|---|
+| one engine | 84/100 | 83/100 | 1.0 |
+| **two engines** — the default | **97/100** | **95/100** | **2.0** |
+| three engines | 98/100 | 95/100 | 2.3 |
 
-| plan size | answered | searches/question | answers/search | the next answer costs |
-|---|---|---|---|---|
-| 1 engine, 1 round | 85/100 | 1.0 | 0.85 | — |
-| **2 engines, 1 round** — the default | **98/100** | **2.0** | **0.49** | 5.7 searches |
-| 3 engines, 1 round | 99/100 | 2.3 | 0.44 | 26 searches |
-| 3 engines, 2 rounds | **100/100** | 4.1 | 0.24 | **184 searches** |
+The second search buys twelve or thirteen answers. The third buys one or none,
+for 13% more searches. That is the whole curve: **one more search is worth
+buying, and on this evidence nothing after it is.**
 
-**One hundred out of one hundred is reachable**, with `--engines 3 --rounds 2`,
-and it costs twice the searches. The last answer costs 184 searches on its own,
-because the deeper plan searches every question again in order to help two.
-
-That curve is the product. A single recall figure tells a user nothing about
-whether to buy the next search; this tells them exactly. The default stops at two
-because the 99th and 100th answers are not worth doubling a bill — but that is a
-judgement, and the flag is there for anyone who judges differently.
+An earlier version of this file carried the curve further — 99 at 2.3 searches,
+100 at 4.1, "the hundredth answer costs 184 searches by itself". Those were
+single-recording differences of one question each, and the two-round arm they
+came from adapts its second round to the first round's results, so it cannot be
+replayed now that the web step has changed. The arm is gone from the sweep and
+the claims with it. `--engines` and `--rounds` still exist; what they buy on a
+harder question set is unmeasured.
 
 ### Questions a web page should not have answered
 
@@ -286,45 +279,41 @@ of engine does not distinguish itself on them. A separate, smaller set was
 written to find questions where the specialist engine is the only one that can
 serve: places with their street addresses, the organisations named on a patent
 record, two search-interest series compared. Committed before being run, scored
-by the same rules, reported separately rather than folded into the hundred.
+by the same rules, reported separately rather than folded into the hundred, and
+recorded once.
 
 | strategy | answered | searches/question |
 |---|---|---|
-| **naive** — verbatim question | **8/8** | **1.0** |
-| keyword | 5/8 | 1.0 |
-| parameterised | 7/8 | 1.0 |
-| planned | 8/8 | 2.0 |
+| **one web search, verbatim** | **8/8** | **1.0** |
+| one web search, keywords | 5/8 | 1.0 |
+| one web search, keywords + parameters | 7/8 | 1.0 |
+| the plan | 8/8 | 2.0 |
 
 **The premise was wrong.** Plain web search answered all eight, at half the
-planner's cost. Indian directory sites publish hospital, pharmacy and ATM
-addresses as ordinary web pages, so asking for a street address does not require
-a maps index after all.
-
-Across all 108 questions, the specialist engine was decisive exactly once —
-`patents-perovskite-assignees`, where `google_patents` answered and the
-reformulated web query did not. Eight questions is far too few to conclude much,
-and the set is kept because a benchmark that only contains cases the project wins
-is not a benchmark.
+plan's cost. Indian directory sites publish hospital, pharmacy and ATM addresses
+as ordinary web pages, so asking for a street address does not require a maps
+index after all. Eight questions recorded once is far too few to conclude much,
+and the set is kept because a benchmark that only contains cases the project
+wins is not a benchmark.
 
 ### Which kind of evidence came back
 
 | strategy | time series returned |
 |---|---|
-| naive | 0 |
-| keyword | 0 |
-| planned | 12 |
+| any single web search | 0 |
+| the plan | 12 |
 
-Twelve questions ask whether something is rising or falling. Both baselines
-answer them in prose and count as answered; the planner also returns a demand
+Twelve questions ask whether something is rising or falling. A web search
+answers them in prose and counts as answered; the plan also returns a demand
 series that can be plotted, dated and compared. Asked whether interest in millets
 exceeds quinoa, it returns both series — 37.0 against 50.0 — which is an answer
 no web page publishes as data.
 
 This is **stated as a fact about which engines were called, not scored as a
-result.** Only `google_trends` produces a series and only the routed strategy
-calls it, so a score here would report the configuration rather than measure
-anything. An earlier version did score it, out of thirty, and quoted the figure
-as the project's sturdiest claim. It was not a claim at all.
+result.** Only `google_trends` produces a series and only the plan calls it, so a
+score here would report the configuration rather than measure anything. An
+earlier version did score it, out of thirty, and quoted the figure as the
+project's sturdiest claim. It was not a claim at all.
 
 ### Do later rounds know what earlier ones found?
 
@@ -338,13 +327,9 @@ ISRO mission launch" and does not name the mission. Round one's results do, and
 round two asks about `eos` — the mission designation — which no rewording of the
 question could have produced.
 
-Morphological variants are excluded, because they are not new vocabulary. An
-earlier version nominated "launches" for a question about a "launch", and
-"crispr" for a question about "CRISPR-Cas9", which spends a search to ask what
-was already asked.
-
-A second round is worth two questions and doubles the bill, which is why the
-default is one round. See the curve above.
+The default is a single round, and what a second round is worth is not
+currently measured: the arm that measured it could not be replayed after the web
+step changed, and was removed rather than left quoting stale numbers.
 
 ### The budget and the stopping rule, shown firing
 
@@ -388,8 +373,8 @@ novelty        : [0.00, 0.00]
 The second batch returned nothing the first had not, so the third search was
 never bought. It does not fire on the benchmark for a more interesting reason:
 marginal novelty never falls. Each step queries a *different* index, and
-Scholar's papers are not Google's pages, so 90 to 100% of every batch is new
-even on a question that was answered by the first search. The signal the rule
+Scholar's papers are not Google's pages, so nearly every batch is new even on
+a question that was answered by the first search. The signal the rule
 watches for does not occur in a cross-engine plan. It occurs when one index is
 queried repeatedly, which is what it was written for.
 
@@ -400,6 +385,20 @@ measure it, so the threshold is unchanged and this paragraph exists instead.
 
 Worth reading before drawing conclusions from the tables above.
 
+- **Two recordings are two samples, not many.** A third of single-search answers
+  changed between them, so any difference of a few questions between two arms in
+  one recording means nothing, and this file has been caught treating it as
+  though it did. The claims kept above are the ones with the same sign and a
+  similar size in both. More recordings would tighten every number here.
+- **The plan's second engine was recorded once.** Both recordings share it; only
+  the web step was recorded twice. The plan's scores are therefore less
+  independent than the baseline's and its steadiness is overstated by some
+  amount this benchmark cannot put a number on.
+- **The first recording's web results were strange.** 92% of its Google
+  responses reported under a thousand results where a week later 6% did. It is
+  kept as a recording rather than discarded as a bad one because its scores
+  turned out close to the second's — but it was not a normal day, and a reader is
+  entitled to weight it accordingly.
 - **Local routing was reached by vocabulary, and a vocabulary is never
   finished.** The signal listed restaurants and cafes but not pharmacies,
   museums or coworking spaces, so six of the ten local questions never reached
@@ -417,35 +416,29 @@ Worth reading before drawing conclusions from the tables above.
   that happened to contain "chennai" and "iit madras", and is now answered by a
   map record giving the campus address. The markers were never touched.
 - **Routing's choice of engine earns nothing measurable here**, as the fixed
-  pairings show. It earns better-shaped evidence and one question in 108. A
-  question set with more flight prices, share prices and map pins would test it
-  properly; this one does not have them.
-- **Reformulation is net negative and ships anyway.** −6 on web search, and
-  necessary for the term-matching engines. It should probably be conditional on
-  the engine. It is not.
-- **Two of the five mechanisms never fire** on this benchmark, though both are
-  shown working above against a transport that charges. They are the two
-  *governors* — a budget and a stopping rule — rather than two of the three that
-  earn recall, and a circuit breaker is not judged by how often it trips. Across 200 plan runs, every single
-  one reports "completed the plan": not once does the budget bind, and not once
-  does the stopping rule stop anything. The budget is 12 and a plan spends 2. The
-  stopping rule looks for new evidence to stop arriving, and it never does,
-  because each step queries a *different* index — 90 to 100% of every batch is
-  new. The mechanism is sound for repeatedly querying one index; on a
-  cross-engine plan its signal does not occur. Raising the threshold until it
-  fired would manufacture the result rather than measure it.
-- **Deep plans waste half their spend.** At 3 engines and 2 rounds, 196 of 410
-  searches go to questions already answered at search two — because nothing stops
-  them. That is the cost of the previous item, measured.
+  pairings show in both recordings. It earns better-shaped evidence. A question
+  set with flight prices, share prices and map pins would test it properly; this
+  one does not have them.
+- **Neither governor ever fires on this benchmark.** The budget and the stopping
+  rule bound a run rather than improve it, and both are shown working above
+  against a transport that charges — but in both recordings every plan reports
+  "completed the plan". The budget is 12 and a plan spends 2. The stopping rule
+  waits for new evidence to stop arriving, and it never does, because each step
+  queries a *different* index and nearly every batch is new. The mechanism is
+  sound for repeatedly querying one index; on a cross-engine plan its signal
+  does not occur. Raising the threshold until it fired would manufacture the
+  result rather than measure it. A circuit breaker is not judged by how often it
+  trips, but nor has this one been seen to trip in use.
 - **Scoring is lexical.** Markers match on word boundaries, which fixed the worst
   of it, but a correct answer phrased without any listed marker still scores as a
   miss, and a page mentioning a marker incidentally still scores as a hit.
-- **The cost report is a lower bound.** Over one session this project recorded
-  760 billed searches while SerpApi's own counter showed 817. A request that
-  reaches SerpApi is a search SerpApi runs, whether or not the response arrives,
-  so `searches_charged` undercounts by however much a run fails or retries. The
-  client now reports requests sent alongside searches recorded, so the gap is
-  visible from inside the tool rather than only from the dashboard.
+- **The cost report is a lower bound.** A request that reaches SerpApi is a
+  search SerpApi runs, whether or not the response arrives, so
+  `searches_charged` undercounts by however much a run fails or retries. Over one
+  session this project recorded 760 searches while the account counter showed
+  817; in another, on a day of heavy timeouts, it sent 253 requests to record 140
+  searches and was billed for 178. The client now reports requests sent alongside
+  searches recorded, which is how the second figure is known at all.
 - **Routing is lexical.** Three failure modes of that are handled — a signal word
   inside a name ("Steve Jobs biography"), a signal shortly after a negation ("not
   recent news"), and ambiguous words admitted only in unambiguous phrasings
@@ -465,18 +458,27 @@ Worth reading before drawing conclusions from the tables above.
 
 ### Reproducing this
 
-The recorded responses are committed, so this needs no API key and spends
-nothing:
+Both recordings are committed, so this needs no API key and spends nothing:
 
 ```bash
+# the second recording, 27–30 September
 python -m frugal.benchmark --replay --cache benchmarks/fixtures
 python -m frugal.benchmark --replay --cache benchmarks/fixtures --ablate
-python -m frugal.benchmark --replay --cache benchmarks/fixtures \
+
+# the first recording, 20 September
+python -m frugal.benchmark --replay --cache benchmarks/fixtures-first
+python -m frugal.benchmark --replay --cache benchmarks/fixtures-first --ablate
+
+# the eight structured questions, recorded once
+python -m frugal.benchmark --replay --cache benchmarks/fixtures-first \
     --questions benchmarks/structured.json
 ```
 
-Replay fails loudly on a missing fixture rather than skipping it, so the
-committed set either covers the workload completely or says it does not.
+Replay fails loudly on a missing fixture rather than skipping it, so each
+committed set either covers the workload completely or says it does not. The
+results each command prints are also committed, as `results.json` and
+`ablation.json` for the second recording and `results-first.json` and
+`ablation-first.json` for the first.
 
 The question sets, including the reasoning behind each question, are in
 [benchmarks/questions.json](benchmarks/questions.json) and
@@ -732,15 +734,15 @@ How often each is reached across the hundred questions:
 | engine | questions |
 |---|---|
 | `google` | 99 |
-| `google_scholar` | 47 |
+| `google_scholar` | 41 |
 | `google_trends` | 12 |
 | `google_news` | 11 |
 | `google_jobs` | 10 |
+| `google_maps` | 10 |
 | `google_shopping` | 9 |
 | `google_patents` | 8 |
-| `google_maps` | 4 |
 
-`google_scholar` is high because 34 of those are the fallback for questions with
+`google_scholar` is high because 28 of those are the fallback for questions with
 no specialist signal, rather than a scholarly judgement.
 
 **What is not served.** Flights, hotels and finance are not profiled, so a

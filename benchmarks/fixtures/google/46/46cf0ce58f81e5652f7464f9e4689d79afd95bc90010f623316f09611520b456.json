@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 918.255,
+ "elapsed_ms": 1044.876,
  "engine": "google",
- "fetched_at": "2026-09-20T11:52:32.188463+00:00",
+ "fetched_at": "2026-09-30T15:01:09.244877+00:00",
  "frugal_cache_version": 1,
  "key": "46cf0ce58f81e5652f7464f9e4689d79afd95bc90010f623316f09611520b456",
  "params": {
@@ -10,57 +10,77 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "sc8Sc3iczVXbcqJIGH6AfY7xJhkBz6SKmupuWiRiIiYeyA2FQFoSsR0QGb3bJ9iX2Kfap5kGUSHBZGcutrar2qbpz7__08f3599Lb_X6zx9_LTabdXjDcXEcVwmlZOlWbepzVrhb2dwzXYaBvfi220r1ih1KfMX1JLPjbS26U1Tjfu9r-jAcIEgAraR_kcy5FbovzOKPl5AzOfbz-qUus001rLqravQcPsmi4DxqnWqNF8TqPWf5DAD-uzHQAUzWW4Aug9gR_txUYkAFEOcsqYCkKzyjjMMx0tMjRC5ag4c7RylcZ1M2971YZm-z_MgX_8uugIVtnPoCQJx6CYH3eTS5oWexHOP6IFMndHFk2aPnN_kaF3wtDBIXtl3mhQkQOl-Sv4yZWRTcOGXKJqDTo1CGYHzZb5afvgqar0DHZSHkh44njVPlNENhbziHsMbluXnAFoHz7IWdPgRh0s_oUeRpj_gPWlib8NFkptxObp_uBF57tGuvjVnM2XOGW1LLcR1zYfLf0r1QE5q8WG93rlMi2eGJSWGeSUMQzR-0RcPbg6pWhcKRRuhQdPCuYpjtkVoSGEQZtKTEucZOCoYPML2bt5uVEgJEAR6BYmn7wySvyrFmrEf3rDR5xPnWpPnf0-gwSA7MaJQ6otIMmEccUEqOurnCqqDsM_M2br13fpTfAQsERCzeV3DsdeOtZQPoiOCEAwj3YJY1-2xDBT7w-ic4PDqMgU5gtsMnB3EGyvmUpEDVwQComNn0xqpHEuM6PjiaNEN2Vxe_YdyFhjfYNVP0bz59JQN-RqJk6Ee-vGn_PG264v1s5nhIhb0dAbZjGF_vHhbx2t3tSDlNqD__BcWx_1dEOugRzvToMpHw50RK9Qh-oEfp81mPkuZF9CKRoFKuR4NSPSrGjcAoT6SP9eiXiYQ-JNIhS6VEouVEWl8kEonfEqmoR7hcj05E-h09gr-pRymv3MNSFKfohVwUKTxqAXlCt6j_0r5V9oNRa4SUJj8lK418KlLP_ubGt5zltek5N7B2u9k51yZ7QW9cp_JdCn0r2MTWxl644ZW1tbylNV-6V9HKcYOrJs_zV0G0dtmZt3I8q-IvAyrxVrM3aQymLT6-v5N3k_lysFkYQsd52QfeeLQ3x8sfsQMn4uCh5jeVBZ450XbX-y4-dfw9MKfdiY837XuNKlt57PYfh3IUt8e6os0iUVQ9jXx1UDPQxr2JAZqjvlp_7vP74XygRNGQTIdhw-8JT9gh7qrrDfbChsapX6EEjHnfra_wuGVUWIihKwkVP7Al1gwNAu50MGUfK4DSbmWTshmz2WLFgpXQtkw33EpivWa79Xb7ec53bEd0Kj7Z7NZSq1kJV4Ek_AQhSkQ8",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sc8Sc3iczVXbcqJIGH6AfY7xJhkBz6SKmupuWiRiIiYeyA2FQFoSsR0QGb3bJ9iX2Kfap5kGUSHBZGcutrar2qbpz7__08f3599Lb_X6zx9_LTabdXjDcXEcVwmlZOlWbepzVrhb2dwzXYaBvfi220r1ih1KfMX1JLPjbS26U1Tjfu9r-jAcIEgAraR_kcy5FbovzOKPl5AzOfbz-qUus001rLqravQcPsmi4DxqnWqNF8TqPWf5DAD-uzHQAUzWW4Aug9gR_txUYkAFEOcsqYCkKzyjjMMx0tMjRC5ag4c7RylcZ1M2971YZm-z_MgX_8uugIVtnPoCQJx6CYH3eTS5oWexHOP6IFMndHFk2aPnN_kaF3wtDBIXtl3mhQkQOl-Sv4yZWRTcOGXKJqDTo1CGYHzZb5afvgqar0DHZSHkh44njVPlNENhbziHsMbluXnAFoHz7IWdPgRh0s_oUeRpj_gPWlib8NFkptxObp_uBF57tGuvjVnM2XOGW1LLcR1zYfLf0r1QE5q8WG93rlMi2eGJSWGeSUMQzR-0RcPbg6pWhcKRRuhQdPCuYpjtkVoSGEQZtKTEucZOCoYPML2bt5uVEgJEAR6BYmn7wySvyrFmrEf3rDR5xPnWpPnf0-gwSA7MaJQ6otIMmEccUEqOurnCqqDsM_M2br13fpTfAQsERCzeV3DsdeOtZQPoiOCEAwj3YJY1-2xDBT7w-ic4PDqMgU5gtsMnB3EGyvmUpEDVwQComNn0xqpHEuM6PjiaNEN2Vxe_YdyFhjfYNVP0bz59JQN-RqJk6Ee-vGn_PG264v1s5nhIhb0dAbZjGF_vHhbx2t3tSDlNqD__BcWx_1dEOugRzvToMpHw50RK9Qh-oEfp81mPkuZF9CKRoFKuR4NSPSrGjcAoT6SP9eiXiYQ-JNIhS6VEouVEWl8kEonfEqmoR7hcj05E-h09gr-pRymv3MNSFKfohVwUKTxqAXlCt6j_0r5V9oNRa4SUJj8lK418KlLP_ubGt5zltek5N7B2u9k51yZ7QW9cp_JdCn0r2MTWxl644ZW1tbylNV-6V9HKcYOrJs_zV0G0dtmZt3I8q-IvAyrxVrM3aQymLT6-v5N3k_lysFkYQsd52QfeeLQ3x8sfsQMn4uCh5jeVBZ450XbX-y4-dfw9MKfdiY837XuNKlt57PYfh3IUt8e6os0iUVQ9jXx1UDPQxr2JAZqjvlp_7vP74XygRNGQTIdhw-8JT9gh7qrrDfbChsapX6EEjHnfra_wuGVUWIihKwkVP7Al1gwNAu50MGUfK4DSbmWTshmz2WLFgpXQtkw33EpivWa79Xb7ec53bEd0Kj7Z7NZSq1kJV4Ek_AQhSkQ8"
+   "page_token": "RU5nP3iczVXbkqI4GH6AfY71prsFPNtV1FSI0cnYHhDRdW4sBIy0YpSA2H2377GX-1T7NBtAFB3prpmLrY1CSPLnz3_68v3598bZrv_57a-V7-_YsyCEYVgklJKNXTSpKxjsbWsKS7phnrn68naQywWTyWLBduQ-1JqGN_Q6e_dQ7dPhhsJBRVUL8RZ5vjCY_co1Hl-ZMBf4a_17ucUHRVa0t8UJs7u7bc-SamqxJJbKxYFguFwA_IdNRQADhfdJl9cgAOhzZZGICmCkK20EXpaS1kr0RWeSeKKbeySOdin8h0EsOqwcqyvGVaipkJZvsZodhHGnKMmJWmQU-dyfS0tCo6hn03Ibvj-d7ISZQ2c_rN7T1rseU6C0KkBVldSEm6xoWa8UFHkZSfBgPLWOQAmdnGCfNvD_GHxd049djA2BuJGGA7QZTyoWLMKLVxQWHu8kwTFXZvzhsaim4bgp0s6s1G17_lsdDmjgtlsmOmrE-uO4aA-IYC643IYalm3NV3PxSzyWSlJVbJbrjccYTCY7o4ll0TSgo7C_l5qsh4ovRUVKoQTPCblxCPExvJcrHll4b0OcJMIDmUY8s9mB2WrSU3kCRAzwVUUQhIdR30knBjyhQDGz0EsPICCB5XkvvCN0glJcWDjp8WX7WUTPmEGyS607MPjhHoAQhCefWqmOkwHqTZgg0DBfS2eVa_U8hM4KRb2icX9YLGZm6x-JaIQz2k72RAWP0FkJPn_Fbl-gBHl9w7ji-5HMGq7WCubGRi5hHNmtpJGj5Cb9KOeKgyEPsZ4L0Q8bybsPrhpOMXMDgSx00Hrn0H0_eGlZNcacZSfoBOtRvR-Ml-Q-VKi7-AnmMf9fYEp5ST_xUj6Y0Odgiu7Bj3gpfl14SUvA1M0HE8IXXiIZXgpToQsv3YIJahkwJbxElPZ9XvpZMMEPwIQ_AlPk6T0wqXlgwr1bMH275aUrMJ15KQXTr_ES_jVeirFlJ901SQWvJJesUGM3HtbX7_SIpuZ0a4381Z7icNjX-5-T1dL1n13D2jzOHetZKX3z36zHOZ-gz7ZV2MvMNTw_NHxzZbMH42A4G2OxsR-CrWV7D1VRFB-8YGfzNWdrOUbB3XhUFo36qFbaheI-0GudwXT69KS_4I7uaUtmGWVz3dBBQOZu5X1s2Nyylst8fQtKzXemVbbtyVfx4A9n6MV-HwdO2eQXyuvSnZTeS1Kv3Vt433uO--TZk1kfoU1gOO1GZz6EXus4qKHOd9Orzw76SPQnXWn7cpyA132zTWPDmExngyYyx2zaWBe4j8yWpYLrmTJPVoWAvgqmhBcmnHG2IPyh_An5U-MoVwrMNOY2O8hmo9pcGIZkLupGw25UCy7x33ZyrVpgW0-W_gV1u0zl",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RU5nP3iczVXbkqI4GH6AfY71prsFPNtV1FSI0cnYHhDRdW4sBIy0YpSA2H2377GX-1T7NBtAFB3prpmLrY1CSPLnz3_68v3598bZrv_57a-V7-_YsyCEYVgklJKNXTSpKxjsbWsKS7phnrn68naQywWTyWLBduQ-1JqGN_Q6e_dQ7dPhhsJBRVUL8RZ5vjCY_co1Hl-ZMBf4a_17ucUHRVa0t8UJs7u7bc-SamqxJJbKxYFguFwA_IdNRQADhfdJl9cgAOhzZZGICmCkK20EXpaS1kr0RWeSeKKbeySOdin8h0EsOqwcqyvGVaipkJZvsZodhHGnKMmJWmQU-dyfS0tCo6hn03Ibvj-d7ISZQ2c_rN7T1rseU6C0KkBVldSEm6xoWa8UFHkZSfBgPLWOQAmdnGCfNvD_GHxd049djA2BuJGGA7QZTyoWLMKLVxQWHu8kwTFXZvzhsaim4bgp0s6s1G17_lsdDmjgtlsmOmrE-uO4aA-IYC643IYalm3NV3PxSzyWSlJVbJbrjccYTCY7o4ll0TSgo7C_l5qsh4ovRUVKoQTPCblxCPExvJcrHll4b0OcJMIDmUY8s9mB2WrSU3kCRAzwVUUQhIdR30knBjyhQDGz0EsPICCB5XkvvCN0glJcWDjp8WX7WUTPmEGyS607MPjhHoAQhCefWqmOkwHqTZgg0DBfS2eVa_U8hM4KRb2icX9YLGZm6x-JaIQz2k72RAWP0FkJPn_Fbl-gBHl9w7ji-5HMGq7WCubGRi5hHNmtpJGj5Cb9KOeKgyEPsZ4L0Q8bybsPrhpOMXMDgSx00Hrn0H0_eGlZNcacZSfoBOtRvR-Ml-Q-VKi7-AnmMf9fYEp5ST_xUj6Y0Odgiu7Bj3gpfl14SUvA1M0HE8IXXiIZXgpToQsv3YIJahkwJbxElPZ9XvpZMMEPwIQ_AlPk6T0wqXlgwr1bMH275aUrMJ15KQXTr_ES_jVeirFlJ901SQWvJJesUGM3HtbX7_SIpuZ0a4381Z7icNjX-5-T1dL1n13D2jzOHetZKX3z36zHOZ-gz7ZV2MvMNTw_NHxzZbMH42A4G2OxsR-CrWV7D1VRFB-8YGfzNWdrOUbB3XhUFo36qFbaheI-0GudwXT69KS_4I7uaUtmGWVz3dBBQOZu5X1s2Nyylst8fQtKzXemVbbtyVfx4A9n6MV-HwdO2eQXyuvSnZTeS1Kv3Vt433uO--TZk1kfoU1gOO1GZz6EXus4qKHOd9Orzw76SPQnXWn7cpyA132zTWPDmExngyYyx2zaWBe4j8yWpYLrmTJPVoWAvgqmhBcmnHG2IPyh_An5U-MoVwrMNOY2O8hmo9pcGIZkLupGw25UCy7x33ZyrVpgW0-W_gV1u0zl"
   },
-  "inline_videos": [
+  "discussions_and_forums": [
    {
-    "channel": "Tech Leading",
-    "date": "Jul 4, 2026",
-    "duration": "5:36",
-    "link": "https://www.youtube.com/watch?v=i_aYF2HWZeI",
-    "platform": "YouTube",
-    "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQAwdg6pfBYn5NmoLUBXL3HWJoF4qWp5kAIfQ",
-    "thumbnail": "https://serpapi.com/searches/6aafc8ff3f79e83b5982ae60/images/7GUFbUPjYD8dv6fv3jUR4b7vTh2UMKRgQad8f6ZS94E.jpeg",
-    "title": "[2026] Best Smartwatch Under ₹5000 in India Top 5 Premium ..."
+    "answers": [
+     {
+      "link": "https://www.reddit.com/r/IndiaTech/comments/17p1wwg/please_suggest_smartwatch_under_rs_5000/"
+     }
+    ],
+    "date": "2 years ago",
+    "extensions": [
+     "r/IndiaTech",
+     "10+ comments"
+    ],
+    "link": "https://www.reddit.com/r/IndiaTech/comments/17p1wwg/please_suggest_smartwatch_under_rs_5000/",
+    "source": "Reddit",
+    "title": "Please suggest smartwatch under Rs. 5000"
    },
    {
-    "channel": "Spec Check",
-    "date": "Apr 23, 2026",
-    "duration": "2:29",
-    "link": "https://www.youtube.com/watch?v=3faelUc39f4",
-    "platform": "YouTube",
-    "position": 2,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTxfbfDWLlVxDR9Y3GOpxwHqaaBIDlKNsBnpA",
-    "thumbnail": "https://serpapi.com/searches/6aafc8ff3f79e83b5982ae60/images/qmGGGGUkSdbEzQ8gRAk9AaKYoOmciNLbyosshXBtQ8c.jpeg",
-    "title": "Best Smartwatch Under ₹5000 Top 3 Smartwatches 2026 ..."
+    "answers": [
+     {
+      "extensions": [
+       "Top answer",
+       "728 votes",
+       "5 years ago"
+      ],
+      "link": "https://www.quora.com/Which-are-the-best-smart-watches-under-5-000-INR-in-India-in-2021?top_ans=299585355"
+     },
+     {
+      "extensions": [
+       "15 votes",
+       "4 years ago"
+      ],
+      "link": "https://www.quora.com/Which-are-the-best-smart-watches-under-5-000-INR-in-India-in-2021?top_ans=345455574"
+     },
+     {
+      "extensions": [
+       "5 votes",
+       "4 years ago"
+      ],
+      "link": "https://www.quora.com/Which-are-the-best-smart-watches-under-5-000-INR-in-India-in-2021?top_ans=331374756"
+     }
+    ],
+    "date": "5 years ago",
+    "extensions": [
+     "50+ answers"
+    ],
+    "link": "https://www.quora.com/Which-are-the-best-smart-watches-under-5-000-INR-in-India-in-2021",
+    "source": "Quora",
+    "title": "Which are the best smart watches under 5000 INR in India in 2021?"
    },
    {
-    "channel": "Bhavesh Rai",
-    "date": "Oct 12, 2025",
-    "duration": "16:16",
-    "link": "https://www.youtube.com/watch?v=GvuxwAFl928",
-    "platform": "YouTube",
-    "position": 3,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQsY9mhObI0B8cfNhuln-K7cCQfpfECfsMf7A",
-    "thumbnail": "https://serpapi.com/searches/6aafc8ff3f79e83b5982ae60/images/TUUGkgCnfh15VZttqVjptX04QGz1eVrw_eT9D2CwcaI.jpeg",
-    "title": "I Tested Every Popular Smartwatch Under ₹5000."
-   },
-   {
-    "channel": "Techy Arsh",
-    "date": "Jun 19, 2026",
-    "duration": "7:19",
-    "link": "https://www.youtube.com/watch?v=G1fLYKheH4Q&vl=en",
-    "platform": "YouTube",
-    "position": 4,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRsGph4u0tUR3KQKcgNEsayI-EoSggHzllShw",
-    "thumbnail": "https://serpapi.com/searches/6aafc8ff3f79e83b5982ae60/images/7hhwzPn-lw2fTsots-_t_EuMCXcrswaWopnT7J_lHjw.jpeg",
-    "title": "Top 5 Best Smartwatch under ₹5000 in 2026 Best Smart ..."
+    "answers": [
+     {
+      "link": "https://www.reddit.com/r/indianshoppingdeals/comments/u6bahs/5_best_budget_smartwatches_under_rs_5000_in_india/"
+     }
+    ],
+    "date": "4 years ago",
+    "extensions": [
+     "r/indianshoppingdeals"
+    ],
+    "link": "https://www.reddit.com/r/indianshoppingdeals/comments/u6bahs/5_best_budget_smartwatches_under_rs_5000_in_india/",
+    "source": "Reddit",
+    "title": "5 Best Budget Smartwatches Under Rs 5000 In India"
    }
   ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmcVRUdWdOTFlybm9uOVRDUDdka3ZyNmR3aThGODBIdUg4aEJKU1NvM3RkZTUxbHVDTFlJVWxRakJKTzUxUlNIcVoxcHQ2TDRPUTN2RnpMS2xpdVR5QU1jeTBRQU11WDRiNU1fUGRiVk9kZ3NBYnJScFNqdGY5NU5WcHJPeUs1U05udzd6MXNSOWFSUnNxTGFUNlpSTXNnUmRXWUxRdzNZODlQTWtzRmRMaFA5RzJQeXRPQXZHeWE5eXlJV1VIbVM2ZmI2ZGMyNlgtNnRuSRIEGgIIABrSBRIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKwFCAAQABgAIAAqTgoMc21hcnR3YXRjaGVzFcIslEAaC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoQCglhdmFpbGFibGUVfQwBQCoTCgV1bmRlchWs16VAGgViZWxvdyoaCgQ1MDAwFazXpUAaAjVrGglpdjtuOzUwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVF5_wPxoHaW5kaWEnczLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGZnFUVHVnTkxZcm5vbjlUQ1A3ZGt2cjZkd2k4RjgwSHVIOGhCSlNTbzN0ZGU1MWx1Q0xZSVVsUWpCSk81MVJTSHFaMXB0Nkw0T1EzdkZ6TEtsaXVUeUFNY3kwUUFNdVg0YjVNX1BkYlZPZGdzQWJyUnBTanRmOTVOVnByT3lLNVNObnc3ejFzUjlhUlJzcUxhVDZaUk1zZ1JkV1lMUXczWTg5UE1rc0ZkTGhQOUcyUHl0T0F2R3lhOXl5SVdVSG1TNmZiNmRjMjZYLTZ0bkk6O0Jlc3QgPGI-c21hcnR3YXRjaGVzIHVuZGVyIFJzIDUsMDAwPC9iPiB3aXRoIEFNT0xFRCBkaXNwbGF5Qp8BPGI-VGl0YW4gWmVhbCBQcmVtaXVtPC9iPi4gVGl0YW4gWmVhbCBQcmVtaXVtIGNhbiBiZSBwdXJjaGFzZWQgZnJvbSB0aGUgSW5kaWFuIG1hcmtldCB2aWEgQW1hem9uIEluZGlhIGZvciBScyA0LDk5OSBkb3duIGZyb20gaXRzIG9yaWdpbmFsIHByaWNlIG9mIFJzJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmcVRUdWdOTFlybm9uOVRDUDdka3ZyNmR3aThGODBIdUg4aEJKU1NvM3RkZTUxbHVDTFlJVWxRakJKTzUxUlNIcVoxcHQ2TDRPUTN2RnpMS2xpdVR5QU1jeTBRQU11WDRiNU1fUGRiVk9kZ3NBYnJScFNqdGY5NU5WcHJPeUs1U05udzd6MXNSOWFSUnNxTGFUNlpSTXNnUmRXWUxRdzNZODlQTWtzRmRMaFA5RzJQeXRPQXZHeWE5eXlJV1VIbVM2ZmI2ZGMyNlgtNnRuSRIEGgIIABrSBRIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKwFCAAQABgAIAAqTgoMc21hcnR3YXRjaGVzFcIslEAaC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoQCglhdmFpbGFibGUVfQwBQCoTCgV1bmRlchWs16VAGgViZWxvdyoaCgQ1MDAwFazXpUAaAjVrGglpdjtuOzUwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVF5_wPxoHaW5kaWEnczLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGZnFUVHVnTkxZcm5vbjlUQ1A3ZGt2cjZkd2k4RjgwSHVIOGhCSlNTbzN0ZGU1MWx1Q0xZSVVsUWpCSk81MVJTSHFaMXB0Nkw0T1EzdkZ6TEtsaXVUeUFNY3kwUUFNdVg0YjVNX1BkYlZPZGdzQWJyUnBTanRmOTVOVnByT3lLNVNObnc3ejFzUjlhUlJzcUxhVDZaUk1zZ1JkV1lMUXczWTg5UE1rc0ZkTGhQOUcyUHl0T0F2R3lhOXl5SVdVSG1TNmZiNmRjMjZYLTZ0bkk6O0Jlc3QgPGI-c21hcnR3YXRjaGVzIHVuZGVyIFJzIDUsMDAwPC9iPiB3aXRoIEFNT0xFRCBkaXNwbGF5Qp8BPGI-VGl0YW4gWmVhbCBQcmVtaXVtPC9iPi4gVGl0YW4gWmVhbCBQcmVtaXVtIGNhbiBiZSBwdXJjaGFzZWQgZnJvbSB0aGUgSW5kaWFuIG1hcmtldCB2aWEgQW1hem9uIEluZGlhIGZvciBScyA0LDk5OSBkb3duIGZyb20gaXRzIG9yaWdpbmFsIHByaWNlIG9mIFJzJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -69,37 +89,29 @@
       "US"
      ],
      "source": {
-      "description": "CMF by Nothing Watch Pro 2, 1.32\" AMOLED, auto-brightness,Gesture Control, 3D warmup guide,GPS Smartwatch. 9%. ₹5,499. ₹4,999. Upto. ₹3,550.",
-      "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
-      "source_info_link": "https://www.flipkart.com/q/smart-watch-under-5000"
+      "description": "Titan Zeal Premium. Titan Zeal Premium can be purchased from the Indian market via Amazon India for Rs 4,999 down from its original price of Rs ...",
+      "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAAAQBQCdASocABwAPtFAtFooIqgoFAEAGglsALYWXAA9xfFD564NNEiO1fw7v6c7ZMMAAP7wehB6_4pP6hyHq_3o9uLQr9DVqobylRuKO2-8z3FqHiam6w_9eAZR-kq6YUD_tsb2Ip-Tf_pOx8_05GpK4I08U6l6aDv_oJB0oVScHgneukgvn3ZvssEUxyX_dir5Ab_To__kN8__4yZHIKO9o1Uzjk9LFigsRqpRf_fRr8zPncvkV94yClvwhCd24AA.webp",
+      "source_info_link": "https://www.techlusive.in/photo-gallery/best-smartwatches-under-rs-5000-with-amoled-display-1526591/"
      }
     },
-    "displayed_link": "https://www.flipkart.com › smart-watch-under-5000",
-    "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
-    "link": "https://www.flipkart.com/q/smart-watch-under-5000",
+    "date": "Oct 15, 2024",
+    "displayed_link": "https://www.techlusive.in › Photos",
+    "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAAAQBQCdASocABwAPtFAtFooIqgoFAEAGglsALYWXAA9xfFD564NNEiO1fw7v6c7ZMMAAP7wehB6_4pP6hyHq_3o9uLQr9DVqobylRuKO2-8z3FqHiam6w_9eAZR-kq6YUD_tsb2Ip-Tf_pOx8_05GpK4I08U6l6aDv_oJB0oVScHgneukgvn3ZvssEUxyX_dir5Ab_To__kN8__4yZHIKO9o1Uzjk9LFigsRqpRf_fRr8zPncvkV94yClvwhCd24AA.webp",
+    "link": "https://www.techlusive.in/photo-gallery/best-smartwatches-under-rs-5000-with-amoled-display-1526591/",
     "position": 1,
-    "read_more_link": "https://www.flipkart.com/q/smart-watch-under-5000#:~:text=CMF%20by%20Nothing%20Watch%20Pro,%E2%82%B93%2C550",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVGCD2s4nD98CoMxjqgEPjHR8TGvsdtLMM7s5zW8aNiu87YijQU4fcjyVb6JY2FYc0SwNNGztgZmUYgu6Zk1N9Pd-kuojh_u9hySD79hVc7Dy_dHHQ8O3GzCrvZz_JKIgwhuoXNA&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQFnoECCMQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "rating": 4.2,
-       "store_rating": 128
-      },
-      "extensions": [
-       "4.2",
-       "store rating (128)"
-      ]
-     }
-    },
-    "snippet": "CMF by Nothing Watch Pro 2, 1.32\" AMOLED, auto-brightness,Gesture Control, 3D warmup guide,GPS Smartwatch. 9%. ₹5,499. ₹4,999. Upto. ₹3,550.",
+    "read_more_link": "https://www.techlusive.in/photo-gallery/best-smartwatches-under-rs-5000-with-amoled-display-1526591/#:~:text=Titan%20Zeal%20Premium,watch%20faces%2C%20IP68%20certification%2C%20etc.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFfqTTugNLYrnon9TCP7dkvr6dwi8F80HuH8hBJSSo3tde51luCLYIUlQjBJO51RSHqZ1pt6L4OQ3vFzLKliuTyAMcy0QAMuX4b5M_PdbVOdgsAbrRpSjtf95NVprOyK5SNnw7z1sR9aRRsqLaT6ZRMsgRdWYLQw3Y89PMksFdLhP9G2PytOAvGya9yyIWUHmS6fb6dc26X-6tnI&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQFnoECBgQAQ&uoh=1",
+    "snippet": "Titan Zeal Premium. Titan Zeal Premium can be purchased from the Indian market via Amazon India for Rs 4,999 down from its original price of Rs ...",
     "snippet_highlighted_words": [
-     "Smartwatch"
+     "Titan Zeal Premium"
     ],
-    "source": "Flipkart",
-    "title": "Smart Watch Under 5000 Online in India | 20-Sep-26"
+    "source": "Techlusive",
+    "thumbnail": "https://serpapi.com/searches/6abd2434abe7ecc8b87e038f/images/eEKayxhqKT0RQBo9F4JN3lC4d6olN5huwn6USwuIHt0.jpeg",
+    "title": "Best smartwatches under Rs 5000 with AMOLED display"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnNVQlNLaVlhT1lBVktMcEhHWHRKNHVPMzJ0XzJkUjdHZEZJa3pSSHIzOGNqMG9fTWlDM25pc1hQMmZTVEVGbjctQWFzWHhxUzdlQWtHcmpkbnhLRVR5VTh2dVBZelR5bXNxbGdUeGF4c05tRXJtS3ZFenBYYmlLaFhMMk5lN1RocmVyZzBLQ3ZUZzhvNGVuU0kzV2pZc1ZYbUZmUDZfMBIEGgIIABq6BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCWBQgAEAAYACAAKk4KDHNtYXJ0d2F0Y2hlcxUAAAAAGgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqEAoJYXZhaWxhYmxlFQAAAAAqEwoFdW5kZXIVrR2cQBoFYmVsb3cqGgoENTAwMBWtHYxAGgI1axoJaXY7bjs1MDAwKjEKBnJ1cGVlcxUAAAAAGgJycxoFcnVwZWUaC2l2O3A7cnVwZWVzGgVwcmljZRoDaW5yKhUKBWluZGlhFQAAAAAaB2luZGlhJ3MytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWc1VCU0tpWWFPWUFWS0xwSEdYdEo0dU8zMnRfMmRSN0dkRklrelJIcjM4Y2owb19NaUMzbmlzWFAyZlNURUZuNy1BYXNYeHFTN2VBa0dyamRueEtFVHlVOHZ1UFl6VHltc3FsZ1R4YXhzTm1Fcm1LdkV6cFhiaUtoWEwyTmU3VGhyZXJnMEtDdlRnOG80ZW5TSTNXallzVlhtRmZQNl8wOkVCZXN0IDxiPnNtYXJ0d2F0Y2ggdW5kZXIgUnM8L2I-LiA8Yj41MDAwPC9iPj8gLSBHYWRnZXRzMzYwIFZvbHQgRm9ydW1CrwE8Yj5CZXN0IHNtYXJ0d2F0Y2ggdW5kZXIgUnMuIDUsMDAwPC9iPj8gSSYjMzk7bSBwbGFubmluZyB0byBidXkgYSBidWRnZXQgc21hcnR3YXRjaCBtYWlubHkgZm9yIHN0ZXAgdHJhY2tpbmcgYW5kIGltcG9ydGFudCBub3RpZmljYXRpb25zLiBBTU9MRUQgZGlzcGxheSBpcyBhIG11c3QgYW5kJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnNVQlNLaVlhT1lBVktMcEhHWHRKNHVPMzJ0XzJkUjdHZEZJa3pSSHIzOGNqMG9fTWlDM25pc1hQMmZTVEVGbjctQWFzWHhxUzdlQWtHcmpkbnhLRVR5VTh2dVBZelR5bXNxbGdUeGF4c05tRXJtS3ZFenBYYmlLaFhMMk5lN1RocmVyZzBLQ3ZUZzhvNGVuU0kzV2pZc1ZYbUZmUDZfMBIEGgIIABq6BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCWBQgAEAAYACAAKk4KDHNtYXJ0d2F0Y2hlcxUAAAAAGgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqEAoJYXZhaWxhYmxlFQAAAAAqEwoFdW5kZXIVrR2cQBoFYmVsb3cqGgoENTAwMBWtHYxAGgI1axoJaXY7bjs1MDAwKjEKBnJ1cGVlcxUAAAAAGgJycxoFcnVwZWUaC2l2O3A7cnVwZWVzGgVwcmljZRoDaW5yKhUKBWluZGlhFQAAAAAaB2luZGlhJ3MytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWc1VCU0tpWWFPWUFWS0xwSEdYdEo0dU8zMnRfMmRSN0dkRklrelJIcjM4Y2owb19NaUMzbmlzWFAyZlNURUZuNy1BYXNYeHFTN2VBa0dyamRueEtFVHlVOHZ1UFl6VHltc3FsZ1R4YXhzTm1Fcm1LdkV6cFhiaUtoWEwyTmU3VGhyZXJnMEtDdlRnOG80ZW5TSTNXallzVlhtRmZQNl8wOkVCZXN0IDxiPnNtYXJ0d2F0Y2ggdW5kZXIgUnM8L2I-LiA8Yj41MDAwPC9iPj8gLSBHYWRnZXRzMzYwIFZvbHQgRm9ydW1CrwE8Yj5CZXN0IHNtYXJ0d2F0Y2ggdW5kZXIgUnMuIDUsMDAwPC9iPj8gSSYjMzk7bSBwbGFubmluZyB0byBidXkgYSBidWRnZXQgc21hcnR3YXRjaCBtYWlubHkgZm9yIHN0ZXAgdHJhY2tpbmcgYW5kIGltcG9ydGFudCBub3RpZmljYXRpb25zLiBBTU9MRUQgZGlzcGxheSBpcyBhIG11c3QgYW5kJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -108,25 +120,27 @@
       "US"
      ],
      "source": {
-      "description": "Smartwatches Under 5000 In India (20 September 2026) ; Amazfit GTS 2, Rs. 4,999 ; Huawei Band 10, Rs. 3,799 ; OnePlus Nord Watch, Rs. 3,899 ; CMF Watch Pro, Rs.",
-      "icon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAACwCQCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHmfs3CEvd1VfUBtnfFg9f_TAOfE9jLydLmM3QeAFwbZxkM45VOFtUpTz8CBbkWIn1dzJ9EqDTvmAAD--LoKX0NdviX1J_iTNDwESVkVPQuQdr_tKEqQrxRWujpDlIvT4L_jzy_GPw5tzTfSvuUGHKuVXY9ClkEj2Yh6zex4TtlqGN6QIhFPVVmz97sn9hAxJaWYlqGqu52bWPyZHcFSir4h5tT3tIs0Va5lH_ynDyPIHNdxf0S7dvrWa31I_ai4hniNCxU4HsWM5Cf8Z3RSvUksRknsMZmYlsH9WVqwLmnKgm4WOkZ9sBAeMv5wG5Y5TKmRyQDGmgo5l4T3_2vLq0BktVZYY7cNIixMRSlXAHjTd6_6zJbUj4IMYT6g9uvyIG9AWpiPwrmmfMl-4oh1I7yQxRAWs44RVom8HV8wIo0G_gl-NF_f_qSRtwVqPjrGGtLCMY0q4Qt7pHtmB8T0n_NBuwcad9ejGIBBYQQnv-3GPY5P6F2B-DYdzx-pSC7F-G171hZZK3Y3pj169pkCJ3P6W4r_cX1jn-J2-vH-XjOL07ThhvzCAAAA.webp",
-      "source_info_link": "https://www.gadgets360.com/wearables/smartwatches-under-5000"
+      "description": "Best smartwatch under Rs. 5,000? I'm planning to buy a budget smartwatch mainly for step tracking and important notifications. AMOLED display is a must and ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEx2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECBLEebfAAAAD3RSTlMAcIYUB1nD8TKmtNhEmOJq-RCQAAAA4klEQVQokW2T2xLEIAhDUfFaW___b1dRELflaTNnIiZ2AWScv8sNX4P2aX3MFzONJkyVrLblyZqfMrTghF2Llalt_xmZsm8Zk97g22F0YSrai5FhInizdGsDTSZWWZL1YVEnNGPGaRHBnca-RmInuU5Mr0qsrFSl-Mi355C2b6pntLAb4Npr3NBudo1kSVg_1m842kvX1nZHoTadYqOxRxm51xkOd30BAYtiFI6L94C3ZlT8ulJQ7yFGfuyqQzV5bIBrZDIHi_sjyi350ydsZD99f58vGon_GITXjL9DyUYd-ANqAhlkZNSQewAAAABJRU5ErkJggg.png",
+      "source_info_link": "https://volt.gadgets360.com/best-smartwatch-under-rs-5-000-214541"
      }
     },
-    "displayed_link": "https://www.gadgets360.com › ... › Smartwatch Finder",
-    "favicon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAACwCQCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHmfs3CEvd1VfUBtnfFg9f_TAOfE9jLydLmM3QeAFwbZxkM45VOFtUpTz8CBbkWIn1dzJ9EqDTvmAAD--LoKX0NdviX1J_iTNDwESVkVPQuQdr_tKEqQrxRWujpDlIvT4L_jzy_GPw5tzTfSvuUGHKuVXY9ClkEj2Yh6zex4TtlqGN6QIhFPVVmz97sn9hAxJaWYlqGqu52bWPyZHcFSir4h5tT3tIs0Va5lH_ynDyPIHNdxf0S7dvrWa31I_ai4hniNCxU4HsWM5Cf8Z3RSvUksRknsMZmYlsH9WVqwLmnKgm4WOkZ9sBAeMv5wG5Y5TKmRyQDGmgo5l4T3_2vLq0BktVZYY7cNIixMRSlXAHjTd6_6zJbUj4IMYT6g9uvyIG9AWpiPwrmmfMl-4oh1I7yQxRAWs44RVom8HV8wIo0G_gl-NF_f_qSRtwVqPjrGGtLCMY0q4Qt7pHtmB8T0n_NBuwcad9ejGIBBYQQnv-3GPY5P6F2B-DYdzx-pSC7F-G171hZZK3Y3pj169pkCJ3P6W4r_cX1jn-J2-vH-XjOL07ThhvzCAAAA.webp",
-    "link": "https://www.gadgets360.com/wearables/smartwatches-under-5000",
+    "displayed_link": "https://volt.gadgets360.com › Ask The Expert",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEx2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECB2ECBLEebfAAAAD3RSTlMAcIYUB1nD8TKmtNhEmOJq-RCQAAAA4klEQVQokW2T2xLEIAhDUfFaW___b1dRELflaTNnIiZ2AWScv8sNX4P2aX3MFzONJkyVrLblyZqfMrTghF2Llalt_xmZsm8Zk97g22F0YSrai5FhInizdGsDTSZWWZL1YVEnNGPGaRHBnca-RmInuU5Mr0qsrFSl-Mi355C2b6pntLAb4Npr3NBudo1kSVg_1m842kvX1nZHoTadYqOxRxm51xkOd30BAYtiFI6L94C3ZlT8ulJQ7yFGfuyqQzV5bIBrZDIHi_sjyi350ydsZD99f58vGon_GITXjL9DyUYd-ANqAhlkZNSQewAAAABJRU5ErkJggg.png",
+    "link": "https://volt.gadgets360.com/best-smartwatch-under-rs-5-000-214541",
     "position": 2,
-    "read_more_link": "https://www.gadgets360.com/wearables/smartwatches-under-5000#:~:text=Smartwatches%20Under%205000%20In%20India,(20%20September%202026)&text=Amazfit%20GTS%202,Rs.%204%2C999&text=Huawei%20Band%2010,Rs.%203%2C799&text=OnePlus%20Nord%20Watch,Rs.%203%2C899&text=CMF%20Watch%20Pro,Rs.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVKfeybP31c6RJSPg3BSOwLE2jkPhWZHM3qYsM0Cq0VHVWhbhVKewPA-OnIm51H7vSdNfdS8GPfb6SuLmmjdkdGEAPZ8_p5iuKu-OaQQ0k3ET3gVDbADCOpzGtZjp_jPKK4nFqanjWMa6pzcfd6SIc&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQFnoECCIQAQ&uoh=1",
-    "snippet": "Smartwatches Under 5000 In India (20 September 2026) ; Amazfit GTS 2, Rs. 4,999 ; Huawei Band 10, Rs. 3,799 ; OnePlus Nord Watch, Rs. 3,899 ; CMF Watch Pro, Rs.",
+    "read_more_link": "https://volt.gadgets360.com/best-smartwatch-under-rs-5-000-214541#:~:text=Best%20smartwatch%20under%20Rs.%205%2C000%3F,feature%20would%20also%20be%20helpful.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVsUBSKiYaOYAVKLpHGXtJ4uO32t_2dR7GdFIkzRHr38cj0o_MiC3nisXP2fSTEFn7-AasXxqS7eAkGrjdnxKETyU8vuPYzTymsqlgTxaxsNmErmKvEzpXbiKhXL2Ne7Threrg0KCvTg8o4enSI3WjYsVXmFfP6_0&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQFnoECBMQAQ&uoh=1",
+    "snippet": "Best smartwatch under Rs. 5,000? I'm planning to buy a budget smartwatch mainly for step tracking and important notifications. AMOLED display is a must and ...",
     "snippet_highlighted_words": [
-     "Amazfit GTS 2, Rs. 4,999"
+     "Best smartwatch under Rs. 5,000"
     ],
     "source": "Gadgets 360",
-    "title": "Smartwatches Under 5000 In India"
+    "title": "Best smartwatch under Rs. 5000?"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZRcldLa2U4MEhWejB1UTkxc004R1hYRFdtN2kzcUg1OGpuREhaSTMwbEN0V2pHeERrNnFESnNSX0RmbkxvbnRuX243UldYdkZ3cjhlcEtMdFhJWE14Wmg0TEpTQVBIZkVrbWFiRkh5b280bUxodGtwdjVZb0YzdlFyQlBYU0hLdS00eHBXNDdac0plb1Q2SExlY1BRcktDaGVTWlNBY2tsX3RZLXhHYUUxUDkwdFdkYk5SNlN6dmd4TjJCalFrLTJaWTNJQUg5azVuUE5PWTE4c2R6WlQ5WVR3TFpXcnNTblVWREVjNXlfQTNoWWR2c1dmOTByQXNLcHoyMmZ4MEpQbm50QWg4ZDVBdHV3NDA3Wmw5cjJkWjlVRHRpWUESBBoCCAAa1gYSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCwBggAEAAYACAAKk4KDHNtYXJ0d2F0Y2hlcxXm9s9AGgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqEAoJYXZhaWxhYmxlFQAAAAAqEwoFdW5kZXIV3D3EQBoFYmVsb3cqGgoENTAwMBVqG8JAGgI1axoJaXY7bjs1MDAwKjEKBnJ1cGVlcxUAAAAAGgJycxoFcnVwZWUaC2l2O3A7cnVwZWVzGgVwcmljZRoDaW5yKhUKBWluZGlhFQAAAD8aB2luZGlhJ3MytAIvZ290bz91cmw9Q0FFUzJnRUI2enN3RlFyV0trZTgwSFZ6MHVROTFzTThHWFhEV203aTNxSDU4am5ESFpJMzBsQ3RXakd4RGs2cURKc1JfRGZuTG9udG5fbjdSV1h2RndyOGVwS0x0WElYTXhaaDRMSlNBUEhmRWttYWJGSHlvbzRtTGh0a3B2NVlvRjN2UXJCUFhTSEt1LTR4cFc0N1pzSmVvVDZITGVjUFFyS0NoZVNaU0Fja2xfdFkteEdhRTFQOTB0V2RiTlI2U3p2Z3hOMkJqUWstMlpZM0lBSDlrNW5QTk9ZMThzZHpaVDlZVHdMWldyc1NuVVZERWM1eV9BM2hZZHZzV2Y5MHJBc0twejIyZngwSlBubnRBaDhkNUF0dXc0MDdabDlyMmRaOVVEdGlZQTpHQmVzdCA8Yj5TbWFydHdhdGNoZXMgVW5kZXIgUnM8L2I-LiA8Yj41LDAwMDwvYj4gZm9yIE91dGRvb3IgUnVubmVycyAuLi5CyAFCZXN0IFNtYXJ0d2F0Y2hlcyBVbmRlciBScy4gNSwwMDAgZm9yIE91dGRvb3IgUnVubmVycyAoMjAyNiBFZGl0aW9uKSAmbWlkZG90OyA8Yj5Ob2lzZSBDb2xvckZpdCBQcm8gNTwvYj4gJm1pZGRvdDsgRmlyZS1Cb2x0dCBOaW5qYSBDYWxsIFBybyBNYXggJm1pZGRvdDsgYm9BdCBXYXZlIEVsZXZhdGUgJm1pZGRvdDsgUmVhbG1lIFdhdGNoIDMgUHJvLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZRcldLa2U4MEhWejB1UTkxc004R1hYRFdtN2kzcUg1OGpuREhaSTMwbEN0V2pHeERrNnFESnNSX0RmbkxvbnRuX243UldYdkZ3cjhlcEtMdFhJWE14Wmg0TEpTQVBIZkVrbWFiRkh5b280bUxodGtwdjVZb0YzdlFyQlBYU0hLdS00eHBXNDdac0plb1Q2SExlY1BRcktDaGVTWlNBY2tsX3RZLXhHYUUxUDkwdFdkYk5SNlN6dmd4TjJCalFrLTJaWTNJQUg5azVuUE5PWTE4c2R6WlQ5WVR3TFpXcnNTblVWREVjNXlfQTNoWWR2c1dmOTByQXNLcHoyMmZ4MEpQbm50QWg4ZDVBdHV3NDA3Wmw5cjJkWjlVRHRpWUESBBoCCAAa1gYSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCwBggAEAAYACAAKk4KDHNtYXJ0d2F0Y2hlcxXm9s9AGgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqEAoJYXZhaWxhYmxlFQAAAAAqEwoFdW5kZXIV3D3EQBoFYmVsb3cqGgoENTAwMBVqG8JAGgI1axoJaXY7bjs1MDAwKjEKBnJ1cGVlcxUAAAAAGgJycxoFcnVwZWUaC2l2O3A7cnVwZWVzGgVwcmljZRoDaW5yKhUKBWluZGlhFQAAAD8aB2luZGlhJ3MytAIvZ290bz91cmw9Q0FFUzJnRUI2enN3RlFyV0trZTgwSFZ6MHVROTFzTThHWFhEV203aTNxSDU4am5ESFpJMzBsQ3RXakd4RGs2cURKc1JfRGZuTG9udG5fbjdSV1h2RndyOGVwS0x0WElYTXhaaDRMSlNBUEhmRWttYWJGSHlvbzRtTGh0a3B2NVlvRjN2UXJCUFhTSEt1LTR4cFc0N1pzSmVvVDZITGVjUFFyS0NoZVNaU0Fja2xfdFkteEdhRTFQOTB0V2RiTlI2U3p2Z3hOMkJqUWstMlpZM0lBSDlrNW5QTk9ZMThzZHpaVDlZVHdMWldyc1NuVVZERWM1eV9BM2hZZHZzV2Y5MHJBc0twejIyZngwSlBubnRBaDhkNUF0dXc0MDdabDlyMmRaOVVEdGlZQTpHQmVzdCA8Yj5TbWFydHdhdGNoZXMgVW5kZXIgUnM8L2I-LiA8Yj41LDAwMDwvYj4gZm9yIE91dGRvb3IgUnVubmVycyAuLi5CyAFCZXN0IFNtYXJ0d2F0Y2hlcyBVbmRlciBScy4gNSwwMDAgZm9yIE91dGRvb3IgUnVubmVycyAoMjAyNiBFZGl0aW9uKSAmbWlkZG90OyA8Yj5Ob2lzZSBDb2xvckZpdCBQcm8gNTwvYj4gJm1pZGRvdDsgRmlyZS1Cb2x0dCBOaW5qYSBDYWxsIFBybyBNYXggJm1pZGRvdDsgYm9BdCBXYXZlIEVsZXZhdGUgJm1pZGRvdDsgUmVhbG1lIFdhdGNoIDMgUHJvLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -135,161 +149,135 @@
       "US"
      ],
      "source": {
-      "description": "Without any competition, the Amazfit BIP U Pro is the best smartwatch under Rs 5000 in India as of Mar'22. GPS tracking feature under the Rs 5000 segment.",
-      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
-      "source_info_link": "https://www.quora.com/Which-smartwatch-is-the-best-under-5k-in-India"
+      "description": "Best Smartwatches Under Rs. 5,000 for Outdoor Runners (2026 Edition) · Noise ColorFit Pro 5 · Fire-Boltt Ninja Call Pro Max · boAt Wave Elevate · Realme Watch 3 Pro.",
+      "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAADwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvCGbWmAUIDbJ-YDzc_QBvNm8rkSQL7-qWtGAGyIEJ_TV34zPXBJVBQoi1wSszR6AAD-4n0s5F75vdiL1zrnwLJfZyPFyWmytKeKuyM_jp0pYp_NlWh3-CT6cH8VIE9lHAhr9xe6PRmSCzML_Zb-EgFYH62HKAKLM5QcsEYHH4QUCbsXvo1Ahq3iaI59uWWCW2QC76AtqFaU9wWSzb9ljdwRlJXefXzZ-8sF-nVObRcaSeCpOTK7uTPMb6jhG90uwiDF_C7kjNNtR41J71LQWOMX7KBHVnaA32_JJe9refPB_mF_hqCNWWFQ7plJLOj5o_3hRD33_Uf5RfPeBNz-MOMFESsab7kuxGE1vGxbI774sgwYATDsOlgnY2_mDsobFi22_cm6ZXMfklvr7HzgM58XY_p2S3_3bmv70oW_feDEB0OAAA.webp",
+      "source_info_link": "https://m.dailyhunt.in/news/india/english/analytics+insight-epaper-anycinst/best+smartwatches+under+rs+5000+for+outdoor+runners+2026+edition-newsid-n705362230"
      }
     },
-    "displayed_link": "110+ answers",
-    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
-    "link": "https://www.quora.com/Which-smartwatch-is-the-best-under-5k-in-India",
+    "displayed_link": "https://m.dailyhunt.in › News › India › English",
+    "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAADwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvCGbWmAUIDbJ-YDzc_QBvNm8rkSQL7-qWtGAGyIEJ_TV34zPXBJVBQoi1wSszR6AAD-4n0s5F75vdiL1zrnwLJfZyPFyWmytKeKuyM_jp0pYp_NlWh3-CT6cH8VIE9lHAhr9xe6PRmSCzML_Zb-EgFYH62HKAKLM5QcsEYHH4QUCbsXvo1Ahq3iaI59uWWCW2QC76AtqFaU9wWSzb9ljdwRlJXefXzZ-8sF-nVObRcaSeCpOTK7uTPMb6jhG90uwiDF_C7kjNNtR41J71LQWOMX7KBHVnaA32_JJe9refPB_mF_hqCNWWFQ7plJLOj5o_3hRD33_Uf5RfPeBNz-MOMFESsab7kuxGE1vGxbI774sgwYATDsOlgnY2_mDsobFi22_cm6ZXMfklvr7HzgM58XY_p2S3_3bmv70oW_feDEB0OAAA.webp",
+    "link": "https://m.dailyhunt.in/news/india/english/analytics+insight-epaper-anycinst/best+smartwatches+under+rs+5000+for+outdoor+runners+2026+edition-newsid-n705362230",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVZUgqxgMHCS48W8NGdXb3DVQrm1C2lXSS02eCQ3Q5uZEC69rmomNcS3VjtMpC_gek5nPTuPa902zej4zEKKZVkWyNWFXA3p9FUeGebPO7X8bJiDG8jhUtfso-MSnH11rBkFfjRqOALFJOB1PGrVfK2FUIuevD9bQ&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQFnoECE8QAQ&uoh=1",
-    "snippet": "Which smartwatch is the best under ₹5k in India?",
-    "source": "Quora",
-    "title": "Which smartwatch is the best under ₹5k in India?"
+    "read_more_link": "https://m.dailyhunt.in/news/india/english/analytics+insight-epaper-anycinst/best+smartwatches+under+rs+5000+for+outdoor+runners+2026+edition-newsid-n705362230#:~:text=Best%20Smartwatches%20Under%20Rs.%205%2C000,for%20Outdoor%20Runners%20(2026%20Edition)&text=Noise%20ColorFit%20Pro%205&text=Fire%2DBoltt%20Ninja%20Call%20Pro%20Max&text=boAt%20Wave%20Elevate&text=Realme%20Watch%203%20Pro",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2gEB6zswFQrWKke80HVz0uQ91sM8GXXDWm7i3qH58jnDHZI30lCtWjGxDk6qDJsR_DfnLontn_n7RWXvFwr8epKLtXIXMxZh4LJSAPHfEkmabFHyoo4mLhtkpv5YoF3vQrBPXSHKu-4xpW47ZsJeoT6HLecPQrKCheSZSAckl_tY-xGaE1P90tWdbNR6SzvgxN2BjQk-2ZY3IAH9k5nPNOY18sdzZT9YTwLZWrsSnUVDEc5y_A3hYdvsWf90rAsKpz22fx0JPnntAh8d5Atuw407Zl9r2dZ9UDtiYA&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQFnoECBUQAQ&uoh=1",
+    "snippet": "Best Smartwatches Under Rs. 5,000 for Outdoor Runners (2026 Edition) · Noise ColorFit Pro 5 · Fire-Boltt Ninja Call Pro Max · boAt Wave Elevate · Realme Watch 3 Pro.",
+    "snippet_highlighted_words": [
+     "Noise ColorFit Pro 5"
+    ],
+    "source": "Dailyhunt",
+    "title": "Best Smartwatches Under Rs. 5000 for Outdoor Runners ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZjSEVER0JVMEJ2S213T0lOSFI2aWhFN0N4OG1TRzNDR2hBU0RCYmFVZEJNcDlxcTJ1UzFvb045b0l2anowbUJKQmlDX1JwczVnSWpSNFhHSFFSZS1FRHVKUHJMa1pxMGJtaFluVVo5VHZLNl9aRFRDRmM0UnFSSmVqbFIwTmQ4alU5NGUtT3FHekJXRnhOZzZzemgwY0lkYUZfNnVUc1R1ZFJjWnVVMk1FQUJxQXB2cHZCcFVREgQaAggAGqwFEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqTgoMc21hcnR3YXRjaGVzFUHFDT8aC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoQCglhdmFpbGFibGUVn3oEPyoTCgV1bmRlchW3DKE-GgViZWxvdyoaCgQ1MDAwFbcMoT4aAjVrGglpdjtuOzUwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEV9uNaPRoHaW5kaWEnczLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGY0hFREdCVTBCdkttd09JTkhSNmloRTdDeDhtU0czQ0doQVNEQmJhVWRCTXA5cXEydVMxb29OOW9Jdmp6MG1CSkJpQ19ScHM1Z0lqUjRYR0hRUmUtRUR1SlByTGtacTBibWhZblVaOVR2SzZfWkRUQ0ZjNFJxUkplamxSME5kOGpVOTRlLU9xR3pCV0Z4Tmc2c3poMGNJZGFGXzZ1VHNUdWRSY1p1VTJNRUFCcUFwdnB2QnBVUTo3TmVlZCByZWNvbW1lbmRhdGlvbnMgZm9yIDxiPlNtYXJ0IFdhdGNoPC9iPiAyLTNrIGJ1ZGdldEKYATxiPkdsb3JpZmllZCBGaXRuZXNzIFRyYWNrZXIgZm9yIGFwcHJveCBScy41SzwvYj4gJm1pZGRvdDsgV2VhcmFibGVzIGFuZCBTbWFydCBIZWFsdGggLi4uIExvb2tpbmcgZm9yIGEgU21hcnR3YXRjaCB3aXRoIEdvb2QgQ2FsbCBRdWFsaXR5IFVuZGVyIOKCuTUwMDAuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZjSEVER0JVMEJ2S213T0lOSFI2aWhFN0N4OG1TRzNDR2hBU0RCYmFVZEJNcDlxcTJ1UzFvb045b0l2anowbUJKQmlDX1JwczVnSWpSNFhHSFFSZS1FRHVKUHJMa1pxMGJtaFluVVo5VHZLNl9aRFRDRmM0UnFSSmVqbFIwTmQ4alU5NGUtT3FHekJXRnhOZzZzemgwY0lkYUZfNnVUc1R1ZFJjWnVVMk1FQUJxQXB2cHZCcFVREgQaAggAGqwFEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqTgoMc21hcnR3YXRjaGVzFUHFDT8aC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoQCglhdmFpbGFibGUVn3oEPyoTCgV1bmRlchW3DKE-GgViZWxvdyoaCgQ1MDAwFbcMoT4aAjVrGglpdjtuOzUwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEV9uNaPRoHaW5kaWEnczLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGY0hFREdCVTBCdkttd09JTkhSNmloRTdDeDhtU0czQ0doQVNEQmJhVWRCTXA5cXEydVMxb29OOW9Jdmp6MG1CSkJpQ19ScHM1Z0lqUjRYR0hRUmUtRUR1SlByTGtacTBibWhZblVaOVR2SzZfWkRUQ0ZjNFJxUkplamxSME5kOGpVOTRlLU9xR3pCV0Z4Tmc2c3poMGNJZGFGXzZ1VHNUdWRSY1p1VTJNRUFCcUFwdnB2QnBVUTo3TmVlZCByZWNvbW1lbmRhdGlvbnMgZm9yIDxiPlNtYXJ0IFdhdGNoPC9iPiAyLTNrIGJ1ZGdldEKYATxiPkdsb3JpZmllZCBGaXRuZXNzIFRyYWNrZXIgZm9yIGFwcHJveCBScy41SzwvYj4gJm1pZGRvdDsgV2VhcmFibGVzIGFuZCBTbWFydCBIZWFsdGggLi4uIExvb2tpbmcgZm9yIGEgU21hcnR3YXRjaCB3aXRoIEdvb2QgQ2FsbCBRdWFsaXR5IFVuZGVyIOKCuTUwMDAuIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Glorified Fitness Tracker for approx Rs.5K · Wearables and Smart Health ... Looking for a Smartwatch with Good Call Quality Under ₹5000.",
+      "icon": "https://serpapi.com/images/i/UklGRq4BAABXRUJQVlA4IKIBAABwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHw_uluHa7PANwnvF-8nS2CYANl48zDxaewYy4byAzAoTS2ZfqYbnFNJfmDnoy0AAP6b8jUsI3isXYCOZX8B39E7nJ-wqDdVQzu9fj8pzNxVGCO2a0zaynfGXgrNVjQ614aW9mx5IsuRc_r4munR0bpSdLHyntQr3jHuIA2Hd_yEpxn_Ex_uGR2Jocv2I5vsWsyKzu9hQ5a4if4i3VSKApSFXsKb-nFnTFqXN5sQhnYl0P-v56RBdj0FQMAc9T_CBO4F1lwyaKwI-mkVuj7GE5eACduGSsieq0LNeKiExkzfuUfIn-2qzH0-NpwOncK4JkzO9kcYIQ2-ER6iSuMneMcW-LEg1lp-yB18rHYNlsA9tBpB4-mL_mi3YHdUyh3oTm068ykyXaBzGpvBYJ_K-J1_p37QftJR_bKtpZNurW8KenU1hc4_Iw58j2FFFNk9VrbpfbiFENXJVHeRJDDIdmJvCYRFwxlwUYyQhC4__X9HZrooFRlVNGOmc3jfsp8cvLtCwAAA.webp",
+      "source_info_link": "https://techenclave.com/t/need-recommendations-for-smart-watch-2-3k-budget/260605"
+     }
+    },
+    "date": "Nov 16, 2022",
+    "displayed_link": "https://techenclave.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRq4BAABXRUJQVlA4IKIBAABwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHw_uluHa7PANwnvF-8nS2CYANl48zDxaewYy4byAzAoTS2ZfqYbnFNJfmDnoy0AAP6b8jUsI3isXYCOZX8B39E7nJ-wqDdVQzu9fj8pzNxVGCO2a0zaynfGXgrNVjQ614aW9mx5IsuRc_r4munR0bpSdLHyntQr3jHuIA2Hd_yEpxn_Ex_uGR2Jocv2I5vsWsyKzu9hQ5a4if4i3VSKApSFXsKb-nFnTFqXN5sQhnYl0P-v56RBdj0FQMAc9T_CBO4F1lwyaKwI-mkVuj7GE5eACduGSsieq0LNeKiExkzfuUfIn-2qzH0-NpwOncK4JkzO9kcYIQ2-ER6iSuMneMcW-LEg1lp-yB18rHYNlsA9tBpB4-mL_mi3YHdUyh3oTm068ykyXaBzGpvBYJ_K-J1_p37QftJR_bKtpZNurW8KenU1hc4_Iw58j2FFFNk9VrbpfbiFENXJVHeRJDDIdmJvCYRFwxlwUYyQhC4__X9HZrooFRlVNGOmc3jfsp8cvLtCwAAA.webp",
+    "link": "https://techenclave.com/t/need-recommendations-for-smart-watch-2-3k-budget/260605",
+    "position": 4,
+    "read_more_link": "https://techenclave.com/t/need-recommendations-for-smart-watch-2-3k-budget/260605#:~:text=Glorified%20Fitness%20Tracker%20for%20approx,Wearables%20and%20Smart%20Health%20Devices&text=Looking%20for%20a%20Smartwatch%20with,Good%20Call%20Quality%20Under%20%E2%82%B95000",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFcHEDGBU0BvKmwOINHR6ihE7Cx8mSG3CGhASDBbaUdBMp9qq2uS1ooN9oIvjz0mBJBiC_Rps5gIjR4XGHQRe-EDuJPrLkZq0bmhYnUZ9TvK6_ZDTCFc4RqRJejlR0Nd8jU94e-OqGzBWFxNg6szh0cIdaF_6uTsTudRcZuU2MEABqApvpvBpUQ&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQFnoECBcQAQ&uoh=1",
+    "snippet": "Glorified Fitness Tracker for approx Rs.5K · Wearables and Smart Health ... Looking for a Smartwatch with Good Call Quality Under ₹5000.",
+    "snippet_highlighted_words": [
+     "Glorified Fitness Tracker for approx Rs.5K"
+    ],
+    "source": "TechEnclave",
+    "title": "Need recommendations for Smart Watch 2-3k budget"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZVdWtrWFZSdDhaRHNFUmp0VFIwcnFvLWMxNEFmY0RfTk1UaHZOTHNMMGtCV2tWbTFqN0hDcFV0X01hV3ZTbkdieVJyTDBLZk1EWHREejNLU1JqWUlPR3JodEJsSlV0MURoWmxnb29WX0ZKckt5RUluVmJyN0xIU0FwSi1ZcUR6OS10ZE0zb051UklmSllBYTFHUWNuUmktT0VSZ0xTZTVaQ3c4R3c4TmlSRRIEGgIIABquBRIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqTgoMc21hcnR3YXRjaGVzFSw4wUAaC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoQCglhdmFpbGFibGUVUPyzPioTCgV1bmRlchV-ke5AGgViZWxvdyoaCgQ1MDAwFcArbT8aAjVrGglpdjtuOzUwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVNhuYQBoHaW5kaWEnczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGVXVra1hWUnQ4WkRzRVJqdFRSMHJxby1jMTRBZmNEX05NVGh2TkxzTDBrQldrVm0xajdIQ3BVdF9NYVd2U25HYnlSckwwS2ZNRFh0RHozS1NSallJT0dyaHRCbEpVdDFEaFpsZ29vVl9GSnJLeUVJblZicjdMSFNBcEotWXFEejktdGRNM29OdVJJZkpZQWExR1FjblJpLU9FUmdMU2U1WkN3OEd3OE5pUkU6PkJlc3QgPGI-U21hcnR3YXRjaGVzIFVuZGVyIFJzPC9iPi4gNzAwMCBpbiA8Yj5JbmRpYTwvYj4gLSAyMDI2QpwBVG9wIDEwIFNtYXJ0d2F0Y2hlcyBVbmRlciA3MDAwIGluIEluZGlhIDsgPGI-QW1hemZpdCBHVFMsIOKCuTU4ODg8L2I-IDsgUmVhbG1lIFdhdGNoIDIgUHJvLCDigrk0NDk5IDsgUmVhbG1lIFdhdGNoIDMsIOKCuTI3OTkgOyBSZWRtaSBXYXRjaCAyIExpdGUsIOKCuTIyMTAuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZVdWtrWFZSdDhaRHNFUmp0VFIwcnFvLWMxNEFmY0RfTk1UaHZOTHNMMGtCV2tWbTFqN0hDcFV0X01hV3ZTbkdieVJyTDBLZk1EWHREejNLU1JqWUlPR3JodEJsSlV0MURoWmxnb29WX0ZKckt5RUluVmJyN0xIU0FwSi1ZcUR6OS10ZE0zb051UklmSllBYTFHUWNuUmktT0VSZ0xTZTVaQ3c4R3c4TmlSRRIEGgIIABquBRIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqTgoMc21hcnR3YXRjaGVzFSw4wUAaC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoQCglhdmFpbGFibGUVUPyzPioTCgV1bmRlchV-ke5AGgViZWxvdyoaCgQ1MDAwFcArbT8aAjVrGglpdjtuOzUwMDAqMQoGcnVwZWVzFQAAAAAaAnJzGgVydXBlZRoLaXY7cDtydXBlZXMaBXByaWNlGgNpbnIqFQoFaW5kaWEVNhuYQBoHaW5kaWEnczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGVXVra1hWUnQ4WkRzRVJqdFRSMHJxby1jMTRBZmNEX05NVGh2TkxzTDBrQldrVm0xajdIQ3BVdF9NYVd2U25HYnlSckwwS2ZNRFh0RHozS1NSallJT0dyaHRCbEpVdDFEaFpsZ29vVl9GSnJLeUVJblZicjdMSFNBcEotWXFEejktdGRNM29OdVJJZkpZQWExR1FjblJpLU9FUmdMU2U1WkN3OEd3OE5pUkU6PkJlc3QgPGI-U21hcnR3YXRjaGVzIFVuZGVyIFJzPC9iPi4gNzAwMCBpbiA8Yj5JbmRpYTwvYj4gLSAyMDI2QpwBVG9wIDEwIFNtYXJ0d2F0Y2hlcyBVbmRlciA3MDAwIGluIEluZGlhIDsgPGI-QW1hemZpdCBHVFMsIOKCuTU4ODg8L2I-IDsgUmVhbG1lIFdhdGNoIDIgUHJvLCDigrk0NDk5IDsgUmVhbG1lIFdhdGNoIDMsIOKCuTI3OTkgOyBSZWRtaSBXYXRjaCAyIExpdGUsIOKCuTIyMTAuIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Top 10 Smartwatches Under 7000 in India ; Amazfit GTS, ₹5888 ; Realme Watch 2 Pro, ₹4499 ; Realme Watch 3, ₹2799 ; Redmi Watch 2 Lite, ₹2210.",
+      "icon": "https://serpapi.com/images/i/UklGRsQAAABXRUJQVlA4ILgAAACwBQCdASocABwAPtE-tFooIigoFAEAGgliAJ0zZzNNwH__AMJEXvmptWLyToRLoheQ17NCFAAA9hXkzP4V7KdLtVtOPH3i34s08lha15PaO-dQkxH6atdgnDreC4hNLDI3U4Tce9no-MTH_A6Y4W0wgJK_6XEKpCmqdpLFa1oKORs54opTM-_Srqmuesrh2AicRHc4nXTxkrk9r1ioxEHyxbz__2RRep4-_PtOAKSdDURKzXrHAAAA.webp",
+      "source_info_link": "https://gadgets.techlomedia.in/list/smartwatches-under-7000-in-india.html"
+     }
+    },
+    "displayed_link": "https://gadgets.techlomedia.in › list › smartwatches-und...",
+    "favicon": "https://serpapi.com/images/i/UklGRsQAAABXRUJQVlA4ILgAAACwBQCdASocABwAPtE-tFooIigoFAEAGgliAJ0zZzNNwH__AMJEXvmptWLyToRLoheQ17NCFAAA9hXkzP4V7KdLtVtOPH3i34s08lha15PaO-dQkxH6atdgnDreC4hNLDI3U4Tce9no-MTH_A6Y4W0wgJK_6XEKpCmqdpLFa1oKORs54opTM-_Srqmuesrh2AicRHc4nXTxkrk9r1ioxEHyxbz__2RRep4-_PtOAKSdDURKzXrHAAAA.webp",
+    "images": [
+     "https://serpapi.com/searches/6abd2434abe7ecc8b87e038f/images/eEKayxhqKT0RQBo9F4JN3t-M_NIZM6SbCZUtugEQFRk.jpeg"
+    ],
+    "link": "https://gadgets.techlomedia.in/list/smartwatches-under-7000-in-india.html",
+    "position": 5,
+    "read_more_link": "https://gadgets.techlomedia.in/list/smartwatches-under-7000-in-india.html#:~:text=Top%2010%20Smartwatches%20Under%207000,in%20India&text=Amazfit%20GTS,%E2%82%B95888&text=Realme%20Watch%202%20Pro,%E2%82%B94499&text=Realme%20Watch%203,%E2%82%B92799&text=Redmi%20Watch%202%20Lite,%E2%82%B92210",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFUukkXVRt8ZDsERjtTR0rqo-c14AfcD_NMThvNLsL0kBWkVm1j7HCpUt_MaWvSnGbyRrL0KfMDXtDz3KSRjYIOGrhtBlJUt1DhZlgooV_FJrKyEInVbr7LHSApJ-YqDz9-tdM3oNuRIfJYAa1GQcnRi-OERgLSe5ZCw8Gw8NiRE&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQFnoECBsQAQ&uoh=1",
+    "snippet": "Top 10 Smartwatches Under 7000 in India ; Amazfit GTS, ₹5888 ; Realme Watch 2 Pro, ₹4499 ; Realme Watch 3, ₹2799 ; Redmi Watch 2 Lite, ₹2210.",
+    "snippet_highlighted_words": [
+     "Amazfit GTS, ₹5888"
+    ],
+    "source": "Techlomedia Gadgets",
+    "thumbnail": "https://serpapi.com/searches/6abd2434abe7ecc8b87e038f/images/eEKayxhqKT0RQBo9F4JN3kEBfmWeK44iugoyyx3ebi8.jpeg",
+    "title": "Best Smartwatches Under Rs. 7000 in India - 2026"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVZmhtR0xZZnJjUVR2QlR6cktXaUU3SU9HNk1WQUhLaUN0RGhIZnZnSDJMcllNbnNycWxoX3B4SXBtLXMtbHlrVUVTa3U3ckxaYVhJeXBaNmU5V2hnNkFvNlhDODhiRTNqZUN3VndQNUx3VFZaWFVlbFNOcGdqRENyNHk1MlVNajZ4SGl5eFExVFMxTEVScE90Wk1sbTh6YnBSR2dSQ1VONjNsTHlwS0FkbDdyME9ibmpXSGMyaUF5eXNybl9yZFF0TzkyT1FPdlESBBoCCAAa3AUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAuAUIABAAGAAgACpOCgxzbWFydHdhdGNoZXMVBUbPPxoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKhAKCWF2YWlsYWJsZRUSco5AKhMKBXVuZGVyFVerwz8aBWJlbG93KhoKBDUwMDAVKHmVPxoCNWsaCWl2O247NTAwMCoxCgZydXBlZXMVD2d1PxoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRUEspJAGgdpbmRpYSdzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVZmhtR0xZZnJjUVR2QlR6cktXaUU3SU9HNk1WQUhLaUN0RGhIZnZnSDJMcllNbnNycWxoX3B4SXBtLXMtbHlrVUVTa3U3ckxaYVhJeXBaNmU5V2hnNkFvNlhDODhiRTNqZUN3VndQNUx3VFZaWFVlbFNOcGdqRENyNHk1MlVNajZ4SGl5eFExVFMxTEVScE90Wk1sbTh6YnBSR2dSQ1VONjNsTHlwS0FkbDdyME9ibmpXSGMyaUF5eXNybl9yZFF0TzkyT1FPdlE6T1doaWNoIGlzIHRoZSBiZXN0IGFuZCBjaGVhcGVzdCA8Yj5TbWFydCBXYXRjaCBhdmFpbGFibGU8L2I-IGluIDxiPkluZGlhPC9iPiAuLi5CnAFXaXRob3V0IGFueSBjb21wZXRpdGlvbiwgdGhlIDxiPkFtYXpmaXQgQklQIFUgUHJvPC9iPiBpcyB0aGUgYmVzdCBzbWFydHdhdGNoIHVuZGVyIFJzIDUwMDAgaW4gSW5kaWEgYXMgb2YgTWFyJiMzOTsyMi4gQW1hemZpdCBCSVAgVSBQcm8gaXMgdGhlIG9ubHkmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVZmhtR0xZZnJjUVR2QlR6cktXaUU3SU9HNk1WQUhLaUN0RGhIZnZnSDJMcllNbnNycWxoX3B4SXBtLXMtbHlrVUVTa3U3ckxaYVhJeXBaNmU5V2hnNkFvNlhDODhiRTNqZUN3VndQNUx3VFZaWFVlbFNOcGdqRENyNHk1MlVNajZ4SGl5eFExVFMxTEVScE90Wk1sbTh6YnBSR2dSQ1VONjNsTHlwS0FkbDdyME9ibmpXSGMyaUF5eXNybl9yZFF0TzkyT1FPdlESBBoCCAAa3AUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAuAUIABAAGAAgACpOCgxzbWFydHdhdGNoZXMVBUbPPxoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKhAKCWF2YWlsYWJsZRUSco5AKhMKBXVuZGVyFVerwz8aBWJlbG93KhoKBDUwMDAVKHmVPxoCNWsaCWl2O247NTAwMCoxCgZydXBlZXMVD2d1PxoCcnMaBXJ1cGVlGgtpdjtwO3J1cGVlcxoFcHJpY2UaA2lucioVCgVpbmRpYRUEspJAGgdpbmRpYSdzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVZmhtR0xZZnJjUVR2QlR6cktXaUU3SU9HNk1WQUhLaUN0RGhIZnZnSDJMcllNbnNycWxoX3B4SXBtLXMtbHlrVUVTa3U3ckxaYVhJeXBaNmU5V2hnNkFvNlhDODhiRTNqZUN3VndQNUx3VFZaWFVlbFNOcGdqRENyNHk1MlVNajZ4SGl5eFExVFMxTEVScE90Wk1sbTh6YnBSR2dSQ1VONjNsTHlwS0FkbDdyME9ibmpXSGMyaUF5eXNybl9yZFF0TzkyT1FPdlE6T1doaWNoIGlzIHRoZSBiZXN0IGFuZCBjaGVhcGVzdCA8Yj5TbWFydCBXYXRjaCBhdmFpbGFibGU8L2I-IGluIDxiPkluZGlhPC9iPiAuLi5CnAFXaXRob3V0IGFueSBjb21wZXRpdGlvbiwgdGhlIDxiPkFtYXpmaXQgQklQIFUgUHJvPC9iPiBpcyB0aGUgYmVzdCBzbWFydHdhdGNoIHVuZGVyIFJzIDUwMDAgaW4gSW5kaWEgYXMgb2YgTWFyJiMzOTsyMi4gQW1hemZpdCBCSVAgVSBQcm8gaXMgdGhlIG9ubHkmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Without any competition, the Amazfit BIP U Pro is the best smartwatch under Rs 5000 in India as of Mar'22. Amazfit BIP U Pro is the only ...",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "source_info_link": "https://www.quora.com/Which-is-the-best-and-cheapest-Smart-Watch-available-in-India-below-Rs-10k"
+     }
+    },
+    "displayed_link": "40+ answers · 10 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+    "link": "https://www.quora.com/Which-is-the-best-and-cheapest-Smart-Watch-available-in-India-below-Rs-10k",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFUfhmGLYfrcQTvBTzrKWiE7IOG6MVAHKiCtDhHfvgH2LrYMnsrqlh_pxIpm-s-lykUESku7rLZaXIypZ6e9Whg6Ao6XC88bE3jeCwVwP5LwTVZXUelSNpgjDCr4y52UMj6xHiyxQ1TS1LERpOtZMlm8zbpRGgRCUN63lLypKAdl7r0ObnjWHc2iAyysrn_rdQtO92OQOvQ&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQFnoECEIQAQ&uoh=1",
+    "snippet": "Which is the best and cheapest Smart Watch available in India below Rs.10k?",
+    "source": "Quora",
+    "title": "Which is the best and cheapest Smart Watch available in ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZxajNsdkI0dmRsTzR1MXNuUTNDWlBOeFZEcGpTMDU4UU5iV3pDelRCWVVRMFpKenA2MVNXWXlXYjExcHVZVTdYRTM2SlEyMTUxc2MzY29IYXh4aVJYQ2lrd0FfRmNSY3B4bk9qM3BfM3NrTEhQTk9pWXFfWjRuMUwxQmpmRFRDMFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZxajNsdkI0dmRsTzR1MXNuUTNDWlBOeFZEcGpTMDU4UU5iV3pDelRCWVVRMFpKenA2MVNXWXlXYjExcHVZVTdYRTM2SlEyMTUxc2MzY29IYXh4aVJYQ2lrd0FfRmNSY3B4bk9qM3BfM3NrTEhQTk9pWXFfWjRuMUwxQmpmRFRDMFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
      "source": {
-      "description": "1. Apple watch ultra replica 2. Crossbeats Ignite Advanced Calling&nbsp;... 4. OnePlus Nord Watch … 5. Realme Watch 3 Pro",
+      "description": "Part 2: LOKMAT APPLLP MAX (S999) 4GB+64GB 13MP+5MP 2300mAh Android 9 Smartwatch - Unboxing and Setup. SmartWatch Ticks · 150K views ; These 13 ...",
       "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "displayed_link": "694.6K+ views · 3 years ago",
-    "duration": "6:50",
+    "displayed_link": "47.3K+ views · 7 years ago",
+    "duration": "6:36",
     "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=ncabu8ynGGc&t=30",
-      "time": "00:30",
-      "title": "Apple Watch Ultra"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ncabu8ynGGc&t=54",
-      "time": "00:54",
-      "title": "Apple Watch"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ncabu8ynGGc&t=197",
-      "time": "03:17",
-      "title": "Amaze Fit Pop 2"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ncabu8ynGGc&t=278",
-      "time": "04:38",
-      "title": "Oneplus Nord Watch"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ncabu8ynGGc&t=326",
-      "time": "05:26",
-      "title": "Realme Watch 3 Pro"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=ncabu8ynGGc&t=394",
-      "time": "06:34",
-      "title": "Android Smartwatch"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=ncabu8ynGGc",
-    "position": 4,
-    "snippet": "1. Apple watch ultra replica 2. Crossbeats Ignite Advanced Calling&nbsp;... 4. OnePlus Nord Watch … 5. Realme Watch 3 Pro",
-    "source": "YouTube · TechWiser",
-    "thumbnail": "https://serpapi.com/searches/6aafc8ff3f79e83b5982ae60/images/hN1RVPh3Uql9z8iXk08aBp27Wtpy2KFkjJ8USTWwa3o.jpeg",
-    "title": "We Test Best Smartwatches in India under 5000!"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "CMF by Nothing. Watch pro 2 with 1.32\" AMOLED. ₹5,999 ; GOBOULT. Thrux HD Smartwatch. ₹7,999 ; Fastrack. MYND IP68 Smartwatch. ₹5,499 ; GOBOULT. Crown 1.95\" HD ...",
-      "icon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMNJAC7AN5i8kAmcBf6f2TVkY7mfbTAGafmAAAD-9gjvd-9io-KSYCbRaRb4ml56i008EH950Uup4h0WsqK1IfzHzEXOt7JftYcrbWy3Fpm7HIVLjn3pW4zL9XZQQN6eZ_7ScFO0m5Bbb_lBcVWHvvLqm4u-mu4GHm9No2--2JJQ9bNwYjC9isIXgGiAv97lt3SthVVq_DIUV5w3P_NiS5q_841PE5k043VKRei6gK1qDZsrvH_1Zy3-u5uvSsAAAA.webp",
-      "source_info_link": "https://www.myntra.com/smartwatches-under-5000"
-     }
-    },
-    "displayed_link": "https://www.myntra.com › smartwatches-under-5000",
-    "favicon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMNJAC7AN5i8kAmcBf6f2TVkY7mfbTAGafmAAAD-9gjvd-9io-KSYCbRaRb4ml56i008EH950Uup4h0WsqK1IfzHzEXOt7JftYcrbWy3Fpm7HIVLjn3pW4zL9XZQQN6eZ_7ScFO0m5Bbb_lBcVWHvvLqm4u-mu4GHm9No2--2JJQ9bNwYjC9isIXgGiAv97lt3SthVVq_DIUV5w3P_NiS5q_841PE5k043VKRei6gK1qDZsrvH_1Zy3-u5uvSsAAAA.webp",
-    "link": "https://www.myntra.com/smartwatches-under-5000",
-    "position": 5,
-    "read_more_link": "https://www.myntra.com/smartwatches-under-5000#:~:text=CMF%20by%20Nothing,%E2%82%B95%2C999&text=GOBOULT,%E2%82%B97%2C999&text=Fastrack,%E2%82%B95%2C499&text=GOBOULT,Crown%201.95%22%20HD%20Smart%20Watch",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVJlqslHtLDKCJ5T2sNCVrpDscaEugwt3Ne8R8wWb1QHhOFKQ0hRx1WW8Ur2EIZqJq6Zb7NGnMnQIm1YsBzJ6wvzi2h1EYpmd6j2clR0pXBT3w0PZHhO5OX6tpFz8t4tl59Q&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQFnoECE0QAQ&uoh=1",
-    "snippet": "CMF by Nothing. Watch pro 2 with 1.32\" AMOLED. ₹5,999 ; GOBOULT. Thrux HD Smartwatch. ₹7,999 ; Fastrack. MYND IP68 Smartwatch. ₹5,499 ; GOBOULT. Crown 1.95\" HD ...",
-    "snippet_highlighted_words": [
-     "CMF by Nothing. Watch pro 2 with 1.32\" AMOLED. ₹5,999"
-    ],
-    "source": "Myntra",
-    "title": "Buy Best Smartwatches Under 5000 Online in India"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "From Nothing Pro 2 to the NoiseFit Diva, The Nothing Watch Pro 2 for Rs 4,499 is one of the nicest looking smart watches you can buy under 5k.",
-      "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAwBQCdASocABwAPtEutFooIagoGAEAGgloADUACnpE4HZXYhE0VhtchpmXwC26H8dvcADUoemYYHlmtK-dgpjrPRXoAjHrXcNVBKGfRUBcwlXtV3RpfbJAa9__UaAud3ylveIZk7_smq3xlo-1GjEuVNxhRhYlD0dt9hF0ksiKk3vkUn4vcvhKQjDb2yJ0G9Lxh_CepCLVkrXBxlhjQo6f7sXWc4K6qs7z2t9y36YmKMUEXgwgoWdY3cddnh468xjid4ahiqdwhvqFQNEwEc_86Q_9IO_l9icCOV-WFSUMY8iU4YElDaAA.webp",
-      "source_info_link": "https://www.croma.com/unboxed/best-smartwatches-under-5000-in-2026-for-fitness-and-calling?srsltid=AU7gw4WEBedpBBmvWkLvXGY0nWoUdp4RNSvCQhU533H8bid7BtOLJ6NP"
-     }
-    },
-    "date": "Jul 18, 2026",
-    "displayed_link": "https://www.croma.com › unboxed › best-smartwatches...",
-    "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAwBQCdASocABwAPtEutFooIagoGAEAGgloADUACnpE4HZXYhE0VhtchpmXwC26H8dvcADUoemYYHlmtK-dgpjrPRXoAjHrXcNVBKGfRUBcwlXtV3RpfbJAa9__UaAud3ylveIZk7_smq3xlo-1GjEuVNxhRhYlD0dt9hF0ksiKk3vkUn4vcvhKQjDb2yJ0G9Lxh_CepCLVkrXBxlhjQo6f7sXWc4K6qs7z2t9y36YmKMUEXgwgoWdY3cddnh468xjid4ahiqdwhvqFQNEwEc_86Q_9IO_l9icCOV-WFSUMY8iU4YElDaAA.webp",
-    "link": "https://www.croma.com/unboxed/best-smartwatches-under-5000-in-2026-for-fitness-and-calling?srsltid=AU7gw4WEBedpBBmvWkLvXGY0nWoUdp4RNSvCQhU533H8bid7BtOLJ6NP",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1AEB6zswFfsT-qvVcyHI7vQLjdilSq695vSpjhfc8xHsfEDHiVSHMUAuYjXoBZeT1lF2UFTis7Ke0u27aIVO3ur4-CieFN3KUhX7NzGMMwlggEKnkuxQ8NRbhZ5dq_pmrIkdoBXvSzrE-bfgpNWgeAJdimbCVfwXCV8Jh059Tyez3MSMqIuqx7_4RMRm8Qdl9XUEjJcrU94F0AnZkdRVSNnsqfrVB2wBu19cHZmg5e3aUnUDHRgDq16zDO-YKQz5RocO3wnYqJ84xjNp6QUMXbT9YjfRLQ&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQFnoECFQQAQ&uoh=1",
-    "snippet": "From Nothing Pro 2 to the NoiseFit Diva, The Nothing Watch Pro 2 for Rs 4,499 is one of the nicest looking smart watches you can buy under 5k.",
-    "snippet_highlighted_words": [
-     "Nothing Watch Pro 2 for Rs 4,499"
-    ],
-    "source": "Croma",
-    "title": "Best smartwatches under Rs 5000 | Croma Unboxed"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Buy boAt smartwatches under ₹5000 with AMOLED display, Bluetooth calling, health tracking, and stylish designs for smart performance and connectivity.",
-      "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMHhCC7AAgC6bjfQhu_2GSjHwLRHU2yMVgMsUAD-_qBeBidJAUg5ImOdyUi7yBIlZZ0svFVkG_1Q_KzAgt7lUl__iw_7RzOP7__xd17jFivZrq5Ljx31ieaLRd2Xj9r6pBsYpxhrctecHMjdTkQd008NOMDrABpyFqvTB7n36JLj8HQ_8HGdtbTYjNMZo9JyHJBoEhhCDOlbcL66g8FAAAA.webp",
-      "source_info_link": "https://www.boat-lifestyle.com/collections/smartwatch-under-5000?srsltid=AU7gw4VZbS-M8z2QikNxDTz1ZFBp6x1zlivQfn95hrsLhRvQPu6_9qII"
-     }
-    },
-    "displayed_link": "https://www.boat-lifestyle.com › collections › smartwatc...",
-    "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAMHhCC7AAgC6bjfQhu_2GSjHwLRHU2yMVgMsUAD-_qBeBidJAUg5ImOdyUi7yBIlZZ0svFVkG_1Q_KzAgt7lUl__iw_7RzOP7__xd17jFivZrq5Ljx31ieaLRd2Xj9r6pBsYpxhrctecHMjdTkQd008NOMDrABpyFqvTB7n36JLj8HQ_8HGdtbTYjNMZo9JyHJBoEhhCDOlbcL66g8FAAAA.webp",
-    "link": "https://www.boat-lifestyle.com/collections/smartwatch-under-5000?srsltid=AU7gw4VZbS-M8z2QikNxDTz1ZFBp6x1zlivQfn95hrsLhRvQPu6_9qII",
+    "link": "https://www.youtube.com/watch?v=DVzBPDGX5PM",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESugEB6zswFdeUsthCC0d1UFBTDAiycCoq8StsBtGq3Qff7D2OAt-XnsWZtZfluymt0E9YzvPAtQ5HITEmARJpbX8JC0LMZBNRj9MYtBf5iDCzzfAbH8ggana2dpc5tIOziBhkhShOoz_4LiLMeKX383nm6ex-ON-WbHkdmsE56dWcNF3dzAV3hw5j1U8SU1NbJsu-wWU4KD2ZRwTQjBFNyAATg3hfwBWK0cdflsRjhcuZYDihlV9lmw2DayI&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQFnoECFEQAQ&uoh=1",
-    "rich_snippet": {
-     "bottom": {
-      "detected_extensions": {
-       "unknown": 7
-      },
-      "extensions": [
-       "7",
-       "day returns"
-      ]
-     }
-    },
-    "snippet": "Buy boAt smartwatches under ₹5000 with AMOLED display, Bluetooth calling, health tracking, and stylish designs for smart performance and connectivity.",
-    "snippet_highlighted_words": [
-     "boAt smartwatches under ₹5000"
-    ],
-    "source": "boAt",
-    "title": "Smartwatch Under 5000"
+    "snippet": "Part 2: LOKMAT APPLLP MAX (S999) 4GB+64GB 13MP+5MP 2300mAh Android 9 Smartwatch - Unboxing and Setup. SmartWatch Ticks · 150K views ; These 13 ...",
+    "source": "YouTube · HFV Unbox",
+    "thumbnail": "https://serpapi.com/searches/6abd2434abe7ecc8b87e038f/images/eEKayxhqKT0RQBo9F4JN3jHmTYBoblbBTCNrfmsbnzY.jpeg",
+    "title": "Best smartwatch 2019 under Rs 6000 || UNBOXING + REVIEW",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT-3EdPUnKT2J6XCQFMRE4HvTZ1MNnhmVk84Q"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZmWlZrQ21ZUk1PaGhBUDcyck02Sjk3LUdLM1BRY3FTNVdjZ0lHUnlhd2NVTEZqSmF5UEk5VFY5QmVJR1VDSDBHbURSTHdtaGwyb19vS3NPLVVlU0lwelJTY2FWamhfWHRKTmRmeFU4MV9uajJnQy1NVExRNkpFSlVvMkhVamc2QXpJVmJSUFdJNUNiQ0taY3RDSk5PQzRhdGx5RkExWkJVc0xZbnpockhLNU10S1ZTbVFYWnZFcUR2U1NZcUESBBoCCAAaywUSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkClBQgAEAAYACAAKk4KDHNtYXJ0d2F0Y2hlcxVa5cJAGgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqEAoJYXZhaWxhYmxlFUpBrT8qEwoFdW5kZXIVEhe7QBoFYmVsb3cqGgoENTAwMBXKcMZAGgI1axoJaXY7bjs1MDAwKjEKBnJ1cGVlcxUAAAAAGgJycxoFcnVwZWUaC2l2O3A7cnVwZWVzGgVwcmljZRoDaW5yKhUKBWluZGlhFdXjskAaB2luZGlhJ3My1AEvZ290bz91cmw9Q0FFU2tnRUI2enN3RmZaVmtDbVlSTU9oaEFQNzJyTTZKOTctR0szUFFjcVM1V2NnSUdSeWF3Y1VMRmpKYXlQSTlUVjlCZUlHVUNIMEdtRFJMd21obDJvX29Lc08tVWVTSXB6UlNjYVZqaF9YdEpOZGZ4VTgxX25qMmdDLU1UTFE2SkVKVW8ySFVqZzZBeklWYlJQV0k1Q2JDS1pjdENKTk9DNGF0bHlGQTFaQlVzTFluemhySEs1TXRLVlNtUVhadkVxRHZTU1lxQTpFPGI-SW5kaWEmIzM5O3M8L2I-IFRvcCA1IDxiPlNtYXJ0d2F0Y2hlcyBVbmRlciBScyA1MDAwPC9iPiAoTWF5IDIwMjIpQp8BVGhlIDxiPlJFQUxNRSBXQVRDSCBTPC9iPiBpcyBhIHBvcHVsYXIgb3B0aW9uIGZvciB0aG9zZSBzZWVraW5nIGEgc21hcnR3YXRjaCB1bmRlciBScyA1LDAwMC4gVGhlIHNtYXJ0d2F0Y2ggaGFzIGEgMS4zLWluY2ggdG91Y2hzY3JlZW4gYW5kIGNhbiBsYXN0IHVwJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZmWlZrQ21ZUk1PaGhBUDcyck02Sjk3LUdLM1BRY3FTNVdjZ0lHUnlhd2NVTEZqSmF5UEk5VFY5QmVJR1VDSDBHbURSTHdtaGwyb19vS3NPLVVlU0lwelJTY2FWamhfWHRKTmRmeFU4MV9uajJnQy1NVExRNkpFSlVvMkhVamc2QXpJVmJSUFdJNUNiQ0taY3RDSk5PQzRhdGx5RkExWkJVc0xZbnpockhLNU10S1ZTbVFYWnZFcUR2U1NZcUESBBoCCAAaywUSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkClBQgAEAAYACAAKk4KDHNtYXJ0d2F0Y2hlcxVa5cJAGgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqEAoJYXZhaWxhYmxlFUpBrT8qEwoFdW5kZXIVEhe7QBoFYmVsb3cqGgoENTAwMBXKcMZAGgI1axoJaXY7bjs1MDAwKjEKBnJ1cGVlcxUAAAAAGgJycxoFcnVwZWUaC2l2O3A7cnVwZWVzGgVwcmljZRoDaW5yKhUKBWluZGlhFdXjskAaB2luZGlhJ3My1AEvZ290bz91cmw9Q0FFU2tnRUI2enN3RmZaVmtDbVlSTU9oaEFQNzJyTTZKOTctR0szUFFjcVM1V2NnSUdSeWF3Y1VMRmpKYXlQSTlUVjlCZUlHVUNIMEdtRFJMd21obDJvX29Lc08tVWVTSXB6UlNjYVZqaF9YdEpOZGZ4VTgxX25qMmdDLU1UTFE2SkVKVW8ySFVqZzZBeklWYlJQV0k1Q2JDS1pjdENKTk9DNGF0bHlGQTFaQlVzTFluemhySEs1TXRLVlNtUVhadkVxRHZTU1lxQTpFPGI-SW5kaWEmIzM5O3M8L2I-IFRvcCA1IDxiPlNtYXJ0d2F0Y2hlcyBVbmRlciBScyA1MDAwPC9iPiAoTWF5IDIwMjIpQp8BVGhlIDxiPlJFQUxNRSBXQVRDSCBTPC9iPiBpcyBhIHBvcHVsYXIgb3B0aW9uIGZvciB0aG9zZSBzZWVraW5nIGEgc21hcnR3YXRjaCB1bmRlciBScyA1LDAwMC4gVGhlIHNtYXJ0d2F0Y2ggaGFzIGEgMS4zLWluY2ggdG91Y2hzY3JlZW4gYW5kIGNhbiBsYXN0IHVwJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -298,223 +286,178 @@
       "US"
      ],
      "source": {
-      "description": "Top 5 smartwatch with calling function under 5,000 with Prices & Specs · Apple Watch Series 12 · Pebble Royale Legend · Boat Chrome Eon · realme Watch S2 · Pebble ...",
-      "icon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAACQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvFBO12x_QBtgOZg_TPqbusz9E3pXfIzMBq0Tu4BCuORtGbYUtWUq1vIS4bwOPuc5k_C8eoAAP4AihNYzqcLaTiPx9XHhfOsSBpyVPvTHvSRJN6-8PHrRZHOv8qfPHacNGGnJnX-plytXPhfP-Krv_8AqdRU3K3QSe7VXgbZZMTdt2ymow1b4Av05UXwplhvwuv6UViN6riwj-hTvgmt03sZL6fsa06410qD-GqeIeca3ov4c-U1zSv-CVwF-FPJfzqhcZ_6jcWfl8QZfLirRFR-uE-bftj17fJ3vqvK46IEUsOSV67P3S6UfefBCZJ5ovWXDTxIdKMuyLitZPA7G_qwzgsl6-gTzSC52niDbrQhx3I_Evk10qoiERJL8Y539D4KxVGK3ccRxZTs0fBVUBT20ljY95EuRYvM0rs3r4QcR-MXuYy8D7Ym6LVn_jMraqimUeAp_9RuKfNvkMMqZ--fa8to8__-PWX0eUmbz2CdYAA.webp",
-      "source_info_link": "https://www.91mobiles.com/list-of-smartwatch/best-smartwatch-with-calling-function-under-5000"
+      "description": "The REALME WATCH S is a popular option for those seeking a smartwatch under Rs 5,000. The smartwatch has a 1.3-inch touchscreen and can last up ...",
+      "icon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAABwCACdASogACAAPtE-tFooIigoFAEAGglsAJ0ygxg9gRqv1AeX_0ANwBvDf7AewB5ZnsWESCeOd-nLZOwm0NMKPw9no-uAJNrkZEMAAP79K9UNM8hmrfnvVSWdLAhO363dbzdLwJ-fE4Ol0ZEV-WDDDY2wMjnhPmLO-twc20r1D5_nZirNAbcwEHk6Pp_2N-eRG98Wzv8WFuackZDPmOWrfP_c34-g-AYiVGdDk4kTXKrSy15V8rxI6Qt43sdtVv_PnducDRx0dMgDSFJiNST1KIgEjMAOtSeukCCiiDvFqLxY4VGXVU1Xr3xOefT4ZuHfiH2tLxlC10AE8u_YBBRXSZuqMa4TJRXAAFJWKwx2eEd6t41RVaTyhN2PzgC1giScFTKynt22EZz388-GSGrGN9aODVUw6HT9gLXbQehbDl9hrW9-Xrg0kMB55Zy0PMY6zCxk9aW6_r2j-P1e_M2h-b8tQTH3oQiP1a8AISPGvUSrrCC044sj-odbBUXm3uQAAA.webp",
+      "source_info_link": "https://www.passionateinmarketing.com/indias-top-5-smartwatches-under-rs-5000-may-2022/"
      }
     },
-    "displayed_link": "https://www.91mobiles.com › list-of-smartwatch › best-s...",
-    "favicon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAACQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvFBO12x_QBtgOZg_TPqbusz9E3pXfIzMBq0Tu4BCuORtGbYUtWUq1vIS4bwOPuc5k_C8eoAAP4AihNYzqcLaTiPx9XHhfOsSBpyVPvTHvSRJN6-8PHrRZHOv8qfPHacNGGnJnX-plytXPhfP-Krv_8AqdRU3K3QSe7VXgbZZMTdt2ymow1b4Av05UXwplhvwuv6UViN6riwj-hTvgmt03sZL6fsa06410qD-GqeIeca3ov4c-U1zSv-CVwF-FPJfzqhcZ_6jcWfl8QZfLirRFR-uE-bftj17fJ3vqvK46IEUsOSV67P3S6UfefBCZJ5ovWXDTxIdKMuyLitZPA7G_qwzgsl6-gTzSC52niDbrQhx3I_Evk10qoiERJL8Y539D4KxVGK3ccRxZTs0fBVUBT20ljY95EuRYvM0rs3r4QcR-MXuYy8D7Ym6LVn_jMraqimUeAp_9RuKfNvkMMqZ--fa8to8__-PWX0eUmbz2CdYAA.webp",
-    "link": "https://www.91mobiles.com/list-of-smartwatch/best-smartwatch-with-calling-function-under-5000",
+    "date": "May 19, 2022",
+    "displayed_link": "https://www.passionateinmarketing.com › indias-top-5-s...",
+    "favicon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAABwCACdASogACAAPtE-tFooIigoFAEAGglsAJ0ygxg9gRqv1AeX_0ANwBvDf7AewB5ZnsWESCeOd-nLZOwm0NMKPw9no-uAJNrkZEMAAP79K9UNM8hmrfnvVSWdLAhO363dbzdLwJ-fE4Ol0ZEV-WDDDY2wMjnhPmLO-twc20r1D5_nZirNAbcwEHk6Pp_2N-eRG98Wzv8WFuackZDPmOWrfP_c34-g-AYiVGdDk4kTXKrSy15V8rxI6Qt43sdtVv_PnducDRx0dMgDSFJiNST1KIgEjMAOtSeukCCiiDvFqLxY4VGXVU1Xr3xOefT4ZuHfiH2tLxlC10AE8u_YBBRXSZuqMa4TJRXAAFJWKwx2eEd6t41RVaTyhN2PzgC1giScFTKynt22EZz388-GSGrGN9aODVUw6HT9gLXbQehbDl9hrW9-Xrg0kMB55Zy0PMY6zCxk9aW6_r2j-P1e_M2h-b8tQTH3oQiP1a8AISPGvUSrrCC044sj-odbBUXm3uQAAA.webp",
+    "link": "https://www.passionateinmarketing.com/indias-top-5-smartwatches-under-rs-5000-may-2022/",
     "position": 8,
-    "read_more_link": "https://www.91mobiles.com/list-of-smartwatch/best-smartwatch-with-calling-function-under-5000#:~:text=...%20read%20more&text=Apple%20Watch%20Series%2012&text=Pebble%20Royale%20Legend&text=Boat%20Chrome%20Eon&text=realme%20Watch%20S2&text=Pebble%20Royale",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFXe7d9m_AgyfAUuaEyYWrclISSDW8OX8EefBLsC8L7Te8iH9YwiwgGnNLZz1rNke5bwOG1p8WQHqbjj2bLtp3n-CfCFGYXZ7U0sLhrFJtTexr4VcDMisH4hLnCwHewbBuk7YZKiPXQnXfKx7fbT34aZo6Dsxem4WmPUfK98NnwF-CppvQsgqrA81G1gUDDYyaA&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQFnoECFIQAQ&uoh=1",
-    "snippet": "Top 5 smartwatch with calling function under 5,000 with Prices & Specs · Apple Watch Series 12 · Pebble Royale Legend · Boat Chrome Eon · realme Watch S2 · Pebble ...",
+    "read_more_link": "https://www.passionateinmarketing.com/indias-top-5-smartwatches-under-rs-5000-may-2022/#:~:text=The%20REALME%20WATCH%20S%20is,days%20on%20a%20single%20charge.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFfZVkCmYRMOhhAP72rM6J97-GK3PQcqS5WcgIGRyawcULFjJayPI9TV9BeIGUCH0GmDRLwmhl2o_oKsO-UeSIpzRScaVjh_XtJNdfxU81_nj2gC-MTLQ6JEJUo2HUjg6AzIVbRPWI5CbCKZctCJNOC4atlyFA1ZBUsLYnzhrHK5MtKVSmQXZvEqDvSSYqA&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQFnoECEQQAQ&uoh=1",
+    "snippet": "The REALME WATCH S is a popular option for those seeking a smartwatch under Rs 5,000. The smartwatch has a 1.3-inch touchscreen and can last up ...",
     "snippet_highlighted_words": [
-     "Apple Watch Series 12"
+     "REALME WATCH S"
     ],
-    "source": "91Mobiles",
-    "title": "smartwatch with calling function under 5000"
+    "source": "Passionate In Marketing",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdoxw1fgaSICcoP-H1sFOLFxUWjuYdAXXwSWCrspI&usqp=CAE&s=10",
+    "title": "India's Top 5 Smartwatches Under Rs 5000 (May 2022)"
    }
   ],
-  "pagination": {
-   "current": 1,
-   "next": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&ei=_8ivaoyGIYOzmLQPsMCBgAo&start=10&sa=N&sstk=AS6-VmLPsvLkICmyfr0rreEr2ZaS_X6URXjMv52G5H-d48Ch_VlLvtZ3eSqwqa2wsscZ16s4L_Uzb3_Nkdx5FT3sBYGHiPFTuQEUsg&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ8NMDegQIQhAU",
-   "other_pages": {
-    "2": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&ei=_8ivaoyGIYOzmLQPsMCBgAo&start=10&sa=N&sstk=AS6-VmLPsvLkICmyfr0rreEr2ZaS_X6URXjMv52G5H-d48Ch_VlLvtZ3eSqwqa2wsscZ16s4L_Uzb3_Nkdx5FT3sBYGHiPFTuQEUsg&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ8tMDegQIQhAE",
-    "3": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&ei=_8ivaoyGIYOzmLQPsMCBgAo&start=20&sa=N&sstk=AS6-VmLPsvLkICmyfr0rreEr2ZaS_X6URXjMv52G5H-d48Ch_VlLvtZ3eSqwqa2wsscZ16s4L_Uzb3_Nkdx5FT3sBYGHiPFTuQEUsg&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ8tMDegQIQhAG",
-    "4": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&ei=_8ivaoyGIYOzmLQPsMCBgAo&start=30&sa=N&sstk=AS6-VmLPsvLkICmyfr0rreEr2ZaS_X6URXjMv52G5H-d48Ch_VlLvtZ3eSqwqa2wsscZ16s4L_Uzb3_Nkdx5FT3sBYGHiPFTuQEUsg&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ8tMDegQIQhAI",
-    "5": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&ei=_8ivaoyGIYOzmLQPsMCBgAo&start=40&sa=N&sstk=AS6-VmLPsvLkICmyfr0rreEr2ZaS_X6URXjMv52G5H-d48Ch_VlLvtZ3eSqwqa2wsscZ16s4L_Uzb3_Nkdx5FT3sBYGHiPFTuQEUsg&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ8tMDegQIQhAK",
-    "6": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&ei=_8ivaoyGIYOzmLQPsMCBgAo&start=50&sa=N&sstk=AS6-VmLPsvLkICmyfr0rreEr2ZaS_X6URXjMv52G5H-d48Ch_VlLvtZ3eSqwqa2wsscZ16s4L_Uzb3_Nkdx5FT3sBYGHiPFTuQEUsg&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ8tMDegQIQhAM",
-    "7": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&ei=_8ivaoyGIYOzmLQPsMCBgAo&start=60&sa=N&sstk=AS6-VmLPsvLkICmyfr0rreEr2ZaS_X6URXjMv52G5H-d48Ch_VlLvtZ3eSqwqa2wsscZ16s4L_Uzb3_Nkdx5FT3sBYGHiPFTuQEUsg&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ8tMDegQIQhAO",
-    "8": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&ei=_8ivaoyGIYOzmLQPsMCBgAo&start=70&sa=N&sstk=AS6-VmLPsvLkICmyfr0rreEr2ZaS_X6URXjMv52G5H-d48Ch_VlLvtZ3eSqwqa2wsscZ16s4L_Uzb3_Nkdx5FT3sBYGHiPFTuQEUsg&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ8tMDegQIQhAQ",
-    "9": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&ei=_8ivaoyGIYOzmLQPsMCBgAo&start=80&sa=N&sstk=AS6-VmLPsvLkICmyfr0rreEr2ZaS_X6URXjMv52G5H-d48Ch_VlLvtZ3eSqwqa2wsscZ16s4L_Uzb3_Nkdx5FT3sBYGHiPFTuQEUsg&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ8tMDegQIQhAS"
-   }
-  },
   "refine_this_search": [
    {
-    "link": "https://www.google.com/search?q=women's+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYoaogYAE&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAB6BAgQEAI",
+    "link": "https://www.google.com/search?q=women's+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYoaogYAE&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAB6BAgLEAI",
     "query": "Women's",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=women%27s+smartwatches+available+under+5000+rupees+india"
    },
    {
-    "link": "https://www.google.com/search?q=men's+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIVCAESBU1lbidzOgoIgKM-EIGjPjAFWKGqIGAB&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAF6BAgQEAM",
+    "link": "https://www.google.com/search?q=men's+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIVCAESBU1lbidzOgoIgKM-EIGjPjAFWKGqIGAB&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAF6BAgLEAM",
     "query": "Men's",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=men%27s+smartwatches+available+under+5000+rupees+india"
    },
    {
-    "link": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india+nearby&shoprs=CAEYAyouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIMCAMSBk5lYXJieRgCWKGqIGAB&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAJ6BAgQEAQ",
-    "query": "Nearby",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india+nearby"
-   },
-   {
-    "link": "https://www.google.com/search?q=water+resistant+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIfCAESD1dhdGVyIFJlc2lzdGFudDoKCPbvOhD37zowA1ihqiBgAQ&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAN6BAgQEAU",
+    "link": "https://www.google.com/search?q=water+resistant+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIfCAESD1dhdGVyIFJlc2lzdGFudDoKCPbvOhD37zowA1ihqiBgAQ&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAJ6BAgLEAQ",
     "query": "Water Resistant",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=water+resistant+smartwatches+available+under+5000+rupees+india"
    },
    {
-    "link": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india+sale&shoprs=CAESBEoCGAEYBiouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTITCAYSB09uIHNhbGUYAiIESgIYAVihqiBgAQ&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAR6BAgQEAY",
+    "link": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india+nearby&shoprs=CAEYAyouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIMCAMSBk5lYXJieRgCWKGqIGAB&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAN6BAgLEAU",
+    "query": "Nearby",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india+nearby"
+   },
+   {
+    "link": "https://www.google.com/search?q=kids'+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIVCAESBUtpZHMnOgoIgKM-EISjPjAFWKGqIGAB&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAR6BAgLEAY",
+    "query": "Kids'",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=kids%27+smartwatches+available+under+5000+rupees+india"
+   },
+   {
+    "link": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india+sale&shoprs=CAESBEoCGAEYBiouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTITCAYSB09uIHNhbGUYAiIESgIYAVihqiBgAQ&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAV6BAgLEAc",
     "query": "On sale",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india+sale"
    },
    {
-    "link": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+with+gps+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIcCAESCFdpdGggR1BTGAI6DAjBmvEBEMKa8QEwA1ihqiBgAQ&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAV6BAgQEAc",
+    "link": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+with+gps+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIcCAESCFdpdGggR1BTGAI6DAjBmvEBEMKa8QEwA1ihqiBgAQ&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAZ6BAgLEAg",
     "query": "With GPS",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+with+gps+india"
    },
    {
-    "link": "https://www.google.com/search?q=bluetooth+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIbCAESCUJsdWV0b290aDoMCK-8lAEQsLyUATAAWKGqIGAB&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAZ6BAgQEAg",
+    "link": "https://www.google.com/search?q=bluetooth+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIbCAESCUJsdWV0b290aDoMCK-8lAEQsLyUATAAWKGqIGAB&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAd6BAgLEAk",
     "query": "Bluetooth",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bluetooth+smartwatches+available+under+5000+rupees+india"
    },
    {
-    "link": "https://www.google.com/search?q=wi-fi+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIXCAESBVdpLUZpOgwIr7yUARCIu_ACMABYoaogYAE&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAd6BAgQEAk",
+    "link": "https://www.google.com/search?q=wi-fi+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIXCAESBVdpLUZpOgwIr7yUARCIu_ACMABYoaogYAE&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAh6BAgLEAo",
     "query": "Wi-Fi",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wi-fi+smartwatches+available+under+5000+rupees+india"
    },
    {
-    "link": "https://www.google.com/search?q=cellular+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIaCAESCENlbGx1bGFyOgwIr7yUARDQndoDMABYoaogYAE&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAh6BAgQEAo",
+    "link": "https://www.google.com/search?q=cellular+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIaCAESCENlbGx1bGFyOgwIr7yUARDQndoDMABYoaogYAE&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAl6BAgLEAs",
     "query": "Cellular",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cellular+smartwatches+available+under+5000+rupees+india"
    },
    {
-    "link": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&shoprs=CAESDZoBCgoIEAM4AUADSAEYFCouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFAA0gBKgQQARgBYAE&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAl6BAgQEAs",
-    "query": "Get it fast",
+    "link": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&shoprs=CAESDZoBCgoIEAI4AUAFSAEYFCouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTImCBQSDUdldCBpdCBieSBGcmkiDZoBCgoIEAI4AUAFSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAp6BAgLEAw",
+    "query": "Get it by Fri",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india"
    },
    {
-    "link": "https://www.google.com/search?q=round+case+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIcCAESClJvdW5kIENhc2U6DAiA8qQDEK_opAMwAFihqiBgAQ&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAp6BAgQEAw",
-    "query": "Round Case",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=round+case+smartwatches+available+under+5000+rupees+india"
-   },
-   {
-    "link": "https://www.google.com/search?q=activity+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIaCAESCEFjdGl2aXR5OgwItbyUARC2vJQBMAJYoaogYAE&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQip4GKAt6BAgQEA0",
+    "link": "https://www.google.com/search?q=activity+smartwatches+available+under+5000+rupees+india&shoprs=CAEYASouc21hcnR3YXRjaGVzIGF2YWlsYWJsZSB1bmRlciA1MDAwIHJ1cGVlcyBpbmRpYTIaCAESCEFjdGl2aXR5OgwItbyUARC2vJQBMAJYoaogYAE&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQip4GKAt6BAgLEA0",
     "query": "Activity",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=activity+smartwatches+available+under+5000+rupees+india"
    }
   ],
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wVjFVVU55TjFodE1HWjZWM010UXkwMFdVWmZiRGxyUVhWdlRWVlJXa0p0V2tRdFRHOHdUeTFSYURGT1owMXdMVGw2WkRsak1WcDZhemhKUWtOeldWcGFSVkJXV0Voa09VVkdhMGs1WVU5dFptdHVVME5QYW1WRVp4SVhYemhwZG1GdmVVZEpXVTk2YlV4UlVITk5RMEpuUVc4YUlrRkVjM0k1WmxOVFEwMW1XRUZ6WkVabFRFcDJXREJvYzJSbFJVNXZZbU5UY21jIiwiZmN2IjoiMyIsImVpIjoiXzhpdmFveUdJWU96bUxRUHNNQ0JnQW8iLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5RXZZSlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHNtYXJ0IHdhdGNoIHVuZGVyIDUsMDAwIHJ1cGVlcyBpbiBJbmRpYT8iLCJsayI6IkdpUmlaWE4wSUhOdFlYSjBJSGRoZEdOb0lIVnVaR1Z5SURVd01EQWdhVzRnYVc1a2FXRSIsImJzIjoiYy1OSzVySU16MGdzVWNnc1ZpakpTRlZJU2kwdVVTak9UU3dxVVNoUExFbk9VQ2pOUzBrdFVqRFZNVEF3VUNncUxVaE5MVmJJekZQd3pFdkpUTFEzVXBOU3dhVUJwQjZvTUJPa2tNdVJTeE5zU1dKUnFrSnhmbTZxUW5wLWZncEVQZEE4aUk1SFRUdEJtdXlOUktTRVVHVkF3bHlSWEZyaEdabEE4NkVPQmNvbkZzRHRobGlOY0ppMmxHWTVFYW9ocmt2bE1rQXhPZ2xOWVdKWlltWk9ZbEpPS3BJRmhsTDY1VVRyQVZzandBZ0EiLCJpZCI6ImZjX184aXZhb3lHSVlPem1MUVBzTUNCZ0FvXzUifQ==",
-    "page_token": "8GS2YHicHdBdbpswAABg7TJ9bDDUnRIpqkTANNlwhOMf4pcJ7BBSG-MFFhLedoWdYafaaTbtBJ_0_fxtL878-fSrHUc_rBaLaZqez31_tqdn1XeLang4tVCVtXWlzOr18yt4a9Q6val4c1VxwbznCQkOM8qOjicVKqaT5TuMSC4tb6kZX2ogC-nstowYPATbETN0Z67d1Nn0YAkn2hRAhmYiSH_wDFIZkexrSXaUxj-IjYc81EiW-ZyHd3HaBJAIfZMMOprEg2R9RISEwklyDIE5lGnIZj0fDK5EB7pKLOMq8C_8XQfCoAtj9xRn7aQ6_WChlBXAIBdwwKX-opN0JKUv8CwbxuBeBrv9EaA2f-fX2vENp7ph6RKnrW72mQ2PYglJYCWN_EgRKlQAkqLTcX3vLwUjs_qwHXP-qi9BVId4xp3_Luj2QQwcSPqPtemYzwTK6alRt3X09P96_a3pxpW_9ue_9lOMjA",
-    "question": "What is the best smart watch under 5,000 rupees in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8GS2YHicHdBdbpswAABg7TJ9bDDUnRIpqkTANNlwhOMf4pcJ7BBSG-MFFhLedoWdYafaaTbtBJ_0_fxtL878-fSrHUc_rBaLaZqez31_tqdn1XeLang4tVCVtXWlzOr18yt4a9Q6val4c1VxwbznCQkOM8qOjicVKqaT5TuMSC4tb6kZX2ogC-nstowYPATbETN0Z67d1Nn0YAkn2hRAhmYiSH_wDFIZkexrSXaUxj-IjYc81EiW-ZyHd3HaBJAIfZMMOprEg2R9RISEwklyDIE5lGnIZj0fDK5EB7pKLOMq8C_8XQfCoAtj9xRn7aQ6_WChlBXAIBdwwKX-opN0JKUv8CwbxuBeBrv9EaA2f-fX2vENp7ph6RKnrW72mQ2PYglJYCWN_EgRKlQAkqLTcX3vLwUjs_qwHXP-qi9BVId4xp3_Luj2QQwcSPqPtemYzwTK6alRt3X09P96_a3pxpW_9ue_9lOMjA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wVjFVVU55TjFodE1HWjZWM010UXkwMFdVWmZiRGxyUVhWdlRWVlJXa0p0V2tRdFRHOHdUeTFSYURGT1owMXdMVGw2WkRsak1WcDZhemhKUWtOeldWcGFSVkJXV0Voa09VVkdhMGs1WVU5dFptdHVVME5QYW1WRVp4SVhYemhwZG1GdmVVZEpXVTk2YlV4UlVITk5RMEpuUVc4YUlrRkVjM0k1WmxOVFEwMW1XRUZ6WkVabFRFcDJXREJvYzJSbFJVNXZZbU5UY21jIiwiZmN2IjoiMyIsImVpIjoiXzhpdmFveUdJWU96bUxRUHNNQ0JnQW8iLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5RXZZSlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHNtYXJ0IHdhdGNoIHVuZGVyIDUsMDAwIHJ1cGVlcyBpbiBJbmRpYT8iLCJsayI6IkdpUmlaWE4wSUhOdFlYSjBJSGRoZEdOb0lIVnVaR1Z5SURVd01EQWdhVzRnYVc1a2FXRSIsImJzIjoiYy1OSzVySU16MGdzVWNnc1ZpakpTRlZJU2kwdVVTak9UU3dxVVNoUExFbk9VQ2pOUzBrdFVqRFZNVEF3VUNncUxVaE5MVmJJekZQd3pFdkpUTFEzVXBOU3dhVUJwQjZvTUJPa2tNdVJTeE5zU1dKUnFrSnhmbTZxUW5wLWZncEVQZEE4aUk1SFRUdEJtdXlOUktTRVVHVkF3bHlSWEZyaEdabEE4NkVPQmNvbkZzRHRobGlOY0ppMmxHWTVFYW9ocmt2bE1rQXhPZ2xOWVdKWlltWk9ZbEpPS3BJRmhsTDY1VVRyQVZzandBZ0EiLCJpZCI6ImZjX184aXZhb3lHSVlPem1MUVBzTUNCZ0FvXzUifQ%3D%3D",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wVjFVVU55TjFodE1HWjZWM010UXkwMFdVWmZiRGxyUVhWdlRWVlJXa0p0V2tRdFRHOHdUeTFSYURGT1owMXdMVGw2WkRsak1WcDZhemhKUWtOeldWcGFSVkJXV0Voa09VVkdhMGs1WVU5dFptdHVVME5QYW1WRVp4SVhYemhwZG1GdmVVZEpXVTk2YlV4UlVITk5RMEpuUVc4YUlrRkVjM0k1WmxOVFEwMW1XRUZ6WkVabFRFcDJXREJvYzJSbFJVNXZZbU5UY21jIiwiZmN2IjoiMyIsImVpIjoiXzhpdmFveUdJWU96bUxRUHNNQ0JnQW8iLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5RXZZSlB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGdvb2Qgd2F0Y2hlcyB1bmRlciDigrk1MDAwPyIsImxrIjoiR2hKM1lYUmphR1Z6SUhWdVpHVnlJRFV3TURBIiwiYnMiOiJjLU5LNXJJTXowZ3NVY2dzVmlqSlNGVklTaTB1VVNqT1RTd3FVU2hQTEVuT1VDak5TMGt0VWpEVk1UQXdVQ2dxTFVoTkxWYkl6RlB3ekV2SlRMUTNVcE5Td2FVQnBCNm9NQk9ra011UlN4TnNTV0pScWtKeGZtNnFRbnAtZmdwRVBkQThpSTVIVFR0Qm11eU5SS1NFVUdWQXdseVJYRnJoR1psQTg2RU9CY29uRnNEdGhsaU5jSmkybEdZNUVhb2hya3ZsTWtBeE9nbE5ZV0paWW1aT1lsSk9LcElGaGxMNjVVVHJBVnNqd0FnQSIsImlkIjoiZmNfXzhpdmFveUdJWU96bUxRUHNNQ0JnQW9fNSJ9",
-    "page_token": "Lrmz3HicHdBbbptAFABQdTP5jHnYiWzJikrxIFAYh8s8PPxUeDDG-A4MCQ02f91LV5XVROpZwvn7Dy_d9evHZzOO9mOzWEzT9Hju-zOeHnVvFuXHvdMLXSIeS33dPD0_uS-13u7-xMGvIQ4ybq0Iwcl9WIKnPdYGpvRInyKFPLotNeKU-yjVAVOGDSpvFXMiRpD0nbUip20zU2JJfoAQhEhP1yY-dklWSDW_8tTNWihOhsjKo4ISnDjBUKGNMrkejrzyS6bnyiR7bnAQfuyAR1DwG0_Fzzu460kyvmQzGcBALtwiVFKk-wMx-Q4G2Yp92tll5SUOkCSikvYgirfct7BrqnofoafkegUOFsy3IyMk044bZqYKjrf-knGYdYuG--SNRde7MmPAW4qpo1eKwwWErQ8urFSXjDx7qPXn1n_4_7n9XZtxY9_78zcZKYLl",
-    "question": "What are some good watches under ₹5000?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Lrmz3HicHdBbbptAFABQdTP5jHnYiWzJikrxIFAYh8s8PPxUeDDG-A4MCQ02f91LV5XVROpZwvn7Dy_d9evHZzOO9mOzWEzT9Hju-zOeHnVvFuXHvdMLXSIeS33dPD0_uS-13u7-xMGvIQ4ybq0Iwcl9WIKnPdYGpvRInyKFPLotNeKU-yjVAVOGDSpvFXMiRpD0nbUip20zU2JJfoAQhEhP1yY-dklWSDW_8tTNWihOhsjKo4ISnDjBUKGNMrkejrzyS6bnyiR7bnAQfuyAR1DwG0_Fzzu460kyvmQzGcBALtwiVFKk-wMx-Q4G2Yp92tll5SUOkCSikvYgirfct7BrqnofoafkegUOFsy3IyMk044bZqYKjrf-knGYdYuG--SNRde7MmPAW4qpo1eKwwWErQ8urFSXjDx7qPXn1n_4_7n9XZtxY9_78zcZKYLl",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wVjFVVU55TjFodE1HWjZWM010UXkwMFdVWmZiRGxyUVhWdlRWVlJXa0p0V2tRdFRHOHdUeTFSYURGT1owMXdMVGw2WkRsak1WcDZhemhKUWtOeldWcGFSVkJXV0Voa09VVkdhMGs1WVU5dFptdHVVME5QYW1WRVp4SVhYemhwZG1GdmVVZEpXVTk2YlV4UlVITk5RMEpuUVc4YUlrRkVjM0k1WmxOVFEwMW1XRUZ6WkVabFRFcDJXREJvYzJSbFJVNXZZbU5UY21jIiwiZmN2IjoiMyIsImVpIjoiXzhpdmFveUdJWU96bUxRUHNNQ0JnQW8iLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5RXZZSlB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGdvb2Qgd2F0Y2hlcyB1bmRlciDigrk1MDAwPyIsImxrIjoiR2hKM1lYUmphR1Z6SUhWdVpHVnlJRFV3TURBIiwiYnMiOiJjLU5LNXJJTXowZ3NVY2dzVmlqSlNGVklTaTB1VVNqT1RTd3FVU2hQTEVuT1VDak5TMGt0VWpEVk1UQXdVQ2dxTFVoTkxWYkl6RlB3ekV2SlRMUTNVcE5Td2FVQnBCNm9NQk9ra011UlN4TnNTV0pScWtKeGZtNnFRbnAtZmdwRVBkQThpSTVIVFR0Qm11eU5SS1NFVUdWQXdseVJYRnJoR1psQTg2RU9CY29uRnNEdGhsaU5jSmkybEdZNUVhb2hya3ZsTWtBeE9nbE5ZV0paWW1aT1lsSk9LcElGaGxMNjVVVHJBVnNqd0FnQSIsImlkIjoiZmNfXzhpdmFveUdJWU96bUxRUHNNQ0JnQW9fNSJ9",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wVjFVVU55TjFodE1HWjZWM010UXkwMFdVWmZiRGxyUVhWdlRWVlJXa0p0V2tRdFRHOHdUeTFSYURGT1owMXdMVGw2WkRsak1WcDZhemhKUWtOeldWcGFSVkJXV0Voa09VVkdhMGs1WVU5dFptdHVVME5QYW1WRVp4SVhYemhwZG1GdmVVZEpXVTk2YlV4UlVITk5RMEpuUVc4YUlrRkVjM0k1WmxOVFEwMW1XRUZ6WkVabFRFcDJXREJvYzJSbFJVNXZZbU5UY21jIiwiZmN2IjoiMyIsImVpIjoiXzhpdmFveUdJWU96bUxRUHNNQ0JnQW8iLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5RXZZSlB3IiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgY2hlYXBlc3Qgc21hcnR3YXRjaCBpbiBJbmRpYT8iLCJsayI6ImM1UFNMTV9JVE01UXlDeFdLTWxJVlVqT1NFMHNTQzB1VVNqT1RTd3FLVThzQVVubEFWRktaaUlBIiwiYnMiOiJjLU5LNXJJTXowZ3NVY2dzVmlqSlNGVklTaTB1VVNqT1RTd3FVU2hQTEVuT1VDak5TMGt0VWpEVk1UQXdVQ2dxTFVoTkxWYkl6RlB3ekV2SlRMUTNVcE5Td2FVQnBCNm9NQk9ra011UlN4TnNTV0pScWtKeGZtNnFRbnAtZmdwRVBkQThpSTVIVFR0Qm11eU5SS1NFVUdWQXdseVJYRnJoR1psQTg2RU9CY29uRnNEdGhsaU5jSmkybEdZNUVhb2hya3ZsTWtBeE9nbE5ZV0paWW1aT1lsSk9LcElGaGxMNjVVVHJBVnNqd0FnQSIsImlkIjoiZmNfXzhpdmFveUdJWU96bUxRUHNNQ0JnQW9fNSJ9",
-    "page_token": "F7nzSHicHdDPboIwAIDx7GU8KqXTRROzDKWIf0qKtNReFigqSitVqzhue5c91Z5mZqfv9jt83z_qcKp-X-6lteY66vWapunu63qvtl1Z6152_TrJnsyUyjNZjQZvA_C-k2P_FnqTc-gRagybxs6aex7meyiq0o3S0G59sZZJLHLGvCiYky0ql5ThS-zHWRQQy1tWJpVdMKDaYqaOmCLD3bnAGrQZQ6vELx5pQhyRDiOs7TlzzS1iPqQcTVbcWwg4d1ctSqkWYMlNFfuMCz5_XXHmUY6P2-QD5MBYGdQAB0NB0lgQhw3W0yJZp2EjKeNPd4arfpsz-ZAz2eIZ1hKWN6of0C-LXRQod5MO-7GjRAKNTRAi0gFTogsvf9QHQuNWHpWmUAQbyGChUYkrg54N06NqKdi4meM4jIpANJ2dvI9h5__n-HOn7chc6v0fokmCRw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FtOWpObTFhT1dNMGFIbDZjRk5yUm5CdGVESlhiMnBtVURZd1NYQlNabmd3VUZZeVpXZzFlbEZGTVhGRVNWOUNjbmRHTFRGaU9IUnFRa0ZIYmpWNE5YVnBkVXMwUlRKNFEzRjFUVVl3TTFBNFdXdEdiblJtWkZZMFp4SVhUa05UT1dGeVVISkhjVzEyTlU1dlVHeHZRMDgwVVZFYUlrRkVjM0k1WmxOYWREWjFiRWcyT0ZwbFowOVBjR1JKUjJoUlpFaEtSelI2YUVFIiwiZmN2IjoiMyIsImVpIjoiTkNTOWFyUHJHcW12NU5vUGxvQ080UVEiLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5MEt1YlBnIiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgY2hlYXBlc3Qgc21hcnR3YXRjaCBpbiBJbmRpYT8iLCJsayI6ImM1UFNMTV9JVE01UXlDeFdLTWxJVlVqT1NFMHNTQzB1VVNqT1RTd3FLVThzQVVubEFWRktaaUlBIiwiYnMiOiJjNDNQUFF2Q01CQUdZRnd6T2RjUGJ2VURLWVYyRTJmQnlhVTRwczFoQWpZcHpVbDNfNVZfeDE5aWs1WWFCTUh0NEo1N2s1ZGQyRHFYcXBTZ0xKQkVLQ1h5R2kyQnJYaERMU2UzMG5EVVF2RkRzb2xXN1I5YU9jMU9McG9UOEFZOUpsTkQya3Z3RkcwUXZZem1QMENmZG1QN01jMmFDdUZxalBqQ0JWS0xxT0gxZUNaeEhBUFh3czFwTl91X0J6cTBFR0p3bXVVczg2OE5QWXV4NDNCOTF3SWJPTnNkWkZ0M19PbXhpR1lfZE5iQjZlUU4iLCJpZCI6ImZjX05DUzlhclByR3FtdjVOb1Bsb0NPNFFRXzUifQ==",
+    "page_token": "zQCfqnicHdBdboIwAADg7DI-ThB10cQscxSETFhLW6EvS39UhFZwVmS87S471U6zZN8Rvu8ffTrXvw9daW17XY7H9_v98dg0R71_lI0Z8-vXWY4l11pwWS_nT3P3-SBX4BatXy_RGpK2pT5yMlraxMQRNMklA7NiG_abvbE9xHSSAbaTTomRmQ6ZBi6lpc_84MCdGBZavSsH0RSzdgdskXgqV35SbSf2RoHy1ISeso3qMFZ57sWxMG6X5uwqTJunGFiImZ8M6A2HrBMG9WQTFKnPXF7riQJlqHDkZkR5rNIRwUGHSGJlXXYCoEsW0JaCIBL-i0eDdcvDxZ1VijFdrkGpUuhuZ0UeQ1mrXuSFi80CinDh4wEhgpoTJGiQlTY0nPa0krMk1_PCYWa7czkdGOQhvQjCuPQYI3B0kN3KG_1_rj4Oxi7bz-b4B5HEg8s",
     "question": "Which is the cheapest smartwatch in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=F7nzSHicHdDPboIwAIDx7GU8KqXTRROzDKWIf0qKtNReFigqSitVqzhue5c91Z5mZqfv9jt83z_qcKp-X-6lteY66vWapunu63qvtl1Z6152_TrJnsyUyjNZjQZvA_C-k2P_FnqTc-gRagybxs6aex7meyiq0o3S0G59sZZJLHLGvCiYky0ql5ThS-zHWRQQy1tWJpVdMKDaYqaOmCLD3bnAGrQZQ6vELx5pQhyRDiOs7TlzzS1iPqQcTVbcWwg4d1ctSqkWYMlNFfuMCz5_XXHmUY6P2-QD5MBYGdQAB0NB0lgQhw3W0yJZp2EjKeNPd4arfpsz-ZAz2eIZ1hKWN6of0C-LXRQod5MO-7GjRAKNTRAi0gFTogsvf9QHQuNWHpWmUAQbyGChUYkrg54N06NqKdi4meM4jIpANJ2dvI9h5__n-HOn7chc6v0fokmCRw",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wVjFVVU55TjFodE1HWjZWM010UXkwMFdVWmZiRGxyUVhWdlRWVlJXa0p0V2tRdFRHOHdUeTFSYURGT1owMXdMVGw2WkRsak1WcDZhemhKUWtOeldWcGFSVkJXV0Voa09VVkdhMGs1WVU5dFptdHVVME5QYW1WRVp4SVhYemhwZG1GdmVVZEpXVTk2YlV4UlVITk5RMEpuUVc4YUlrRkVjM0k1WmxOVFEwMW1XRUZ6WkVabFRFcDJXREJvYzJSbFJVNXZZbU5UY21jIiwiZmN2IjoiMyIsImVpIjoiXzhpdmFveUdJWU96bUxRUHNNQ0JnQW8iLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5RXZZSlB3IiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgY2hlYXBlc3Qgc21hcnR3YXRjaCBpbiBJbmRpYT8iLCJsayI6ImM1UFNMTV9JVE01UXlDeFdLTWxJVlVqT1NFMHNTQzB1VVNqT1RTd3FLVThzQVVubEFWRktaaUlBIiwiYnMiOiJjLU5LNXJJTXowZ3NVY2dzVmlqSlNGVklTaTB1VVNqT1RTd3FVU2hQTEVuT1VDak5TMGt0VWpEVk1UQXdVQ2dxTFVoTkxWYkl6RlB3ekV2SlRMUTNVcE5Td2FVQnBCNm9NQk9ra011UlN4TnNTV0pScWtKeGZtNnFRbnAtZmdwRVBkQThpSTVIVFR0Qm11eU5SS1NFVUdWQXdseVJYRnJoR1psQTg2RU9CY29uRnNEdGhsaU5jSmkybEdZNUVhb2hya3ZsTWtBeE9nbE5ZV0paWW1aT1lsSk9LcElGaGxMNjVVVHJBVnNqd0FnQSIsImlkIjoiZmNfXzhpdmFveUdJWU96bUxRUHNNQ0JnQW9fNSJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zQCfqnicHdBdboIwAADg7DI-ThB10cQscxSETFhLW6EvS39UhFZwVmS87S471U6zZN8Rvu8ffTrXvw9daW17XY7H9_v98dg0R71_lI0Z8-vXWY4l11pwWS_nT3P3-SBX4BatXy_RGpK2pT5yMlraxMQRNMklA7NiG_abvbE9xHSSAbaTTomRmQ6ZBi6lpc_84MCdGBZavSsH0RSzdgdskXgqV35SbSf2RoHy1ISeso3qMFZ57sWxMG6X5uwqTJunGFiImZ8M6A2HrBMG9WQTFKnPXF7riQJlqHDkZkR5rNIRwUGHSGJlXXYCoEsW0JaCIBL-i0eDdcvDxZ1VijFdrkGpUuhuZ0UeQ1mrXuSFi80CinDh4wEhgpoTJGiQlTY0nPa0krMk1_PCYWa7czkdGOQhvQjCuPQYI3B0kN3KG_1_rj4Oxi7bz-b4B5HEg8s",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FtOWpObTFhT1dNMGFIbDZjRk5yUm5CdGVESlhiMnBtVURZd1NYQlNabmd3VUZZeVpXZzFlbEZGTVhGRVNWOUNjbmRHTFRGaU9IUnFRa0ZIYmpWNE5YVnBkVXMwUlRKNFEzRjFUVVl3TTFBNFdXdEdiblJtWkZZMFp4SVhUa05UT1dGeVVISkhjVzEyTlU1dlVHeHZRMDgwVVZFYUlrRkVjM0k1WmxOYWREWjFiRWcyT0ZwbFowOVBjR1JKUjJoUlpFaEtSelI2YUVFIiwiZmN2IjoiMyIsImVpIjoiTkNTOWFyUHJHcW12NU5vUGxvQ080UVEiLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5MEt1YlBnIiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgY2hlYXBlc3Qgc21hcnR3YXRjaCBpbiBJbmRpYT8iLCJsayI6ImM1UFNMTV9JVE01UXlDeFdLTWxJVlVqT1NFMHNTQzB1VVNqT1RTd3FLVThzQVVubEFWRktaaUlBIiwiYnMiOiJjNDNQUFF2Q01CQUdZRnd6T2RjUGJ2VURLWVYyRTJmQnlhVTRwczFoQWpZcHpVbDNfNVZfeDE5aWs1WWFCTUh0NEo1N2s1ZGQyRHFYcXBTZ0xKQkVLQ1h5R2kyQnJYaERMU2UzMG5EVVF2RkRzb2xXN1I5YU9jMU9McG9UOEFZOUpsTkQya3Z3RkcwUXZZem1QMENmZG1QN01jMmFDdUZxalBqQ0JWS0xxT0gxZUNaeEhBUFh3czFwTl91X0J6cTBFR0p3bXVVczg2OE5QWXV4NDNCOTF3SWJPTnNkWkZ0M19PbXhpR1lfZE5iQjZlUU4iLCJpZCI6ImZjX05DUzlhclByR3FtdjVOb1Bsb0NPNFFRXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wVjFVVU55TjFodE1HWjZWM010UXkwMFdVWmZiRGxyUVhWdlRWVlJXa0p0V2tRdFRHOHdUeTFSYURGT1owMXdMVGw2WkRsak1WcDZhemhKUWtOeldWcGFSVkJXV0Voa09VVkdhMGs1WVU5dFptdHVVME5QYW1WRVp4SVhYemhwZG1GdmVVZEpXVTk2YlV4UlVITk5RMEpuUVc4YUlrRkVjM0k1WmxOVFEwMW1XRUZ6WkVabFRFcDJXREJvYzJSbFJVNXZZbU5UY21jIiwiZmN2IjoiMyIsImVpIjoiXzhpdmFveUdJWU96bUxRUHNNQ0JnQW8iLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5RXZZSlB3IiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgYmVzdCBzbWFydHdhdGNoIGF2YWlsYWJsZSBpbiBJbmRpYT8iLCJsayI6ImM1UFNMOF9JVE01UXlDeFdLTWxJVlVoS0xTNVJLTTVOTENvcFR5d0JDaWVXSldibUpDYmxwQ3BrNWdGUlNtWWlBQSIsImJzIjoiYy1OSzVySU16MGdzVWNnc1ZpakpTRlZJU2kwdVVTak9UU3dxVVNoUExFbk9VQ2pOUzBrdFVqRFZNVEF3VUNncUxVaE5MVmJJekZQd3pFdkpUTFEzVXBOU3dhVUJwQjZvTUJPa2tNdVJTeE5zU1dKUnFrSnhmbTZxUW5wLWZncEVQZEE4aUk1SFRUdEJtdXlOUktTRVVHVkF3bHlSWEZyaEdabEE4NkVPQmNvbkZzRHRobGlOY0ppMmxHWTVFYW9ocmt2bE1rQXhPZ2xOWVdKWlltWk9ZbEpPS3BJRmhsTDY1VVRyQVZzandBZ0EiLCJpZCI6ImZjX184aXZhb3lHSVlPem1MUVBzTUNCZ0FvXzUifQ==",
-    "page_token": "hCGH2XicHdBdboIwAADg7DI-SivqholZggPEQFXoD_ZlgYLiKD8TZqVvu8tOtdMs2XeE7_tHXpvq9ykph6HrV4ahlJpe2vYii6loayPtx0YYIpUyS0W1Wj4v4etZrJ1e2ZtW2UfSdfQtAnFlzU-zBcAfNiE6AieazwOWQ5zsQsKsg6h9zT3rE7v-iECoEhNBbro-q0qfOCUMqDWiBB0Fkz1ppIpkVwnM6yyhfkDkLJIWzSr6RZl7x7PF7ETcm6hyHWDuJNDXWZN3FEi38LoBecOiILsNw0IfsYxSwAPuKS0YXB5hp6hDFgU7xS58macJLzNTbmMqD0UNQ0JtjQnacODevevOjrZo3DMehVcAQ7x7UIfrGDy8uEJNTMr5niGANO3zOmomZ3Ffm5P_sfX7uR5W3a29_AHC6ngz",
-    "question": "Which is the best smartwatch available in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hCGH2XicHdBdboIwAADg7DI-SivqholZggPEQFXoD_ZlgYLiKD8TZqVvu8tOtdMs2XeE7_tHXpvq9ykph6HrV4ahlJpe2vYii6loayPtx0YYIpUyS0W1Wj4v4etZrJ1e2ZtW2UfSdfQtAnFlzU-zBcAfNiE6AieazwOWQ5zsQsKsg6h9zT3rE7v-iECoEhNBbro-q0qfOCUMqDWiBB0Fkz1ppIpkVwnM6yyhfkDkLJIWzSr6RZl7x7PF7ETcm6hyHWDuJNDXWZN3FEi38LoBecOiILsNw0IfsYxSwAPuKS0YXB5hp6hDFgU7xS58macJLzNTbmMqD0UNQ0JtjQnacODevevOjrZo3DMehVcAQ7x7UIfrGDy8uEJNTMr5niGANO3zOmomZ3Ffm5P_sfX7uR5W3a29_AHC6ngz",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wVjFVVU55TjFodE1HWjZWM010UXkwMFdVWmZiRGxyUVhWdlRWVlJXa0p0V2tRdFRHOHdUeTFSYURGT1owMXdMVGw2WkRsak1WcDZhemhKUWtOeldWcGFSVkJXV0Voa09VVkdhMGs1WVU5dFptdHVVME5QYW1WRVp4SVhYemhwZG1GdmVVZEpXVTk2YlV4UlVITk5RMEpuUVc4YUlrRkVjM0k1WmxOVFEwMW1XRUZ6WkVabFRFcDJXREJvYzJSbFJVNXZZbU5UY21jIiwiZmN2IjoiMyIsImVpIjoiXzhpdmFveUdJWU96bUxRUHNNQ0JnQW8iLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5RXZZSlB3IiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgYmVzdCBzbWFydHdhdGNoIGF2YWlsYWJsZSBpbiBJbmRpYT8iLCJsayI6ImM1UFNMOF9JVE01UXlDeFdLTWxJVlVoS0xTNVJLTTVOTENvcFR5d0JDaWVXSldibUpDYmxwQ3BrNWdGUlNtWWlBQSIsImJzIjoiYy1OSzVySU16MGdzVWNnc1ZpakpTRlZJU2kwdVVTak9UU3dxVVNoUExFbk9VQ2pOUzBrdFVqRFZNVEF3VUNncUxVaE5MVmJJekZQd3pFdkpUTFEzVXBOU3dhVUJwQjZvTUJPa2tNdVJTeE5zU1dKUnFrSnhmbTZxUW5wLWZncEVQZEE4aUk1SFRUdEJtdXlOUktTRVVHVkF3bHlSWEZyaEdabEE4NkVPQmNvbkZzRHRobGlOY0ppMmxHWTVFYW9ocmt2bE1rQXhPZ2xOWVdKWlltWk9ZbEpPS3BJRmhsTDY1VVRyQVZzandBZ0EiLCJpZCI6ImZjX184aXZhb3lHSVlPem1MUVBzTUNCZ0FvXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FtOWpObTFhT1dNMGFIbDZjRk5yUm5CdGVESlhiMnBtVURZd1NYQlNabmd3VUZZeVpXZzFlbEZGTVhGRVNWOUNjbmRHTFRGaU9IUnFRa0ZIYmpWNE5YVnBkVXMwUlRKNFEzRjFUVVl3TTFBNFdXdEdiblJtWkZZMFp4SVhUa05UT1dGeVVISkhjVzEyTlU1dlVHeHZRMDgwVVZFYUlrRkVjM0k1WmxOYWREWjFiRWcyT0ZwbFowOVBjR1JKUjJoUlpFaEtSelI2YUVFIiwiZmN2IjoiMyIsImVpIjoiTkNTOWFyUHJHcW12NU5vUGxvQ080UVEiLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5MEt1YlBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgc21hcnQgd2F0Y2hlcyBpbiBJbmRpYT8iLCJsayI6IkdoeDBiM0FnTlNCemJXRnlkQ0IzWVhSamFHVnpJR2x1SUdsdVpHbGgiLCJicyI6ImM0M1BQUXZDTUJBR1lGd3pPZGNQYnZVREtZVjJFMmZCeWFVNHBzMWhBallwelVsM181Vl94MTlpazVZYUJNSHQ0SjU3azVkZDJEcVhxcFNnTEpCRUtDWHlHaTJCclhoRExTZTMwbkRVUXZGRHNvbFc3UjlhT2MxT0xwb1Q4QVk5SmxORDJrdndGRzBRdll6bVAwQ2ZkbVA3TWMyYUN1RnFqUGpDQlZLTHFPSDFlQ1p4SEFQWHdzMXBOX3VfQnpxMEVHSndtdVVzODY4TlBZdXg0M0I5MXdJYk9Oc2RaRnQzX09teGlHWV9kTmJCNmVRTiIsImlkIjoiZmNfTkNTOWFyUHJHcW12NU5vUGxvQ080UVFfNSJ9",
+    "page_token": "5IaL-HicHdDbboIwGADg7GV2qRTCFkzMEiegZHTpTw-uN0tbVIQCneLxbu-yp9rTzOwNvnzfP3bXNb8Pp2oY3GEyHp_P59G277d2PTJ9O1aHa2fGRlmrlWkmT89P6GVjpvFxOXv9Ws4Ic47PwSuCSq476UQNXKXRTLBonntJjf1LLLsZoz6vcZdYhUgoGA5UV614Wx4kgnRd457WNtHz5lKwaKd8t8hvOCx9eZUC3JsoB52GWNcwiHjAhHkhoQYVqYMcVeEKWStvMqMLGRsPPNplrFzIKg-ASj9bsGQb3B1H7ctX1uEjpBkuPDgLmljNnAcWB4XI9nnNG8XLUNsyiKvynaA8_FhlxDTlRa8-EG0jotNoTm8ADPodYXAztW2ZQF7BuAIOzLBouF8Rw5MQKMeq4UtBs4CQx405TYPH_8_p56YdJm7fb_8ARzaBxQ",
+    "question": "What are the top 5 smart watches in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5IaL-HicHdDbboIwGADg7GV2qRTCFkzMEiegZHTpTw-uN0tbVIQCneLxbu-yp9rTzOwNvnzfP3bXNb8Pp2oY3GEyHp_P59G277d2PTJ9O1aHa2fGRlmrlWkmT89P6GVjpvFxOXv9Ws4Ic47PwSuCSq476UQNXKXRTLBonntJjf1LLLsZoz6vcZdYhUgoGA5UV614Wx4kgnRd457WNtHz5lKwaKd8t8hvOCx9eZUC3JsoB52GWNcwiHjAhHkhoQYVqYMcVeEKWStvMqMLGRsPPNplrFzIKg-ASj9bsGQb3B1H7ctX1uEjpBkuPDgLmljNnAcWB4XI9nnNG8XLUNsyiKvynaA8_FhlxDTlRa8-EG0jotNoTm8ADPodYXAztW2ZQF7BuAIOzLBouF8Rw5MQKMeq4UtBs4CQx405TYPH_8_p56YdJm7fb_8ARzaBxQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FtOWpObTFhT1dNMGFIbDZjRk5yUm5CdGVESlhiMnBtVURZd1NYQlNabmd3VUZZeVpXZzFlbEZGTVhGRVNWOUNjbmRHTFRGaU9IUnFRa0ZIYmpWNE5YVnBkVXMwUlRKNFEzRjFUVVl3TTFBNFdXdEdiblJtWkZZMFp4SVhUa05UT1dGeVVISkhjVzEyTlU1dlVHeHZRMDgwVVZFYUlrRkVjM0k1WmxOYWREWjFiRWcyT0ZwbFowOVBjR1JKUjJoUlpFaEtSelI2YUVFIiwiZmN2IjoiMyIsImVpIjoiTkNTOWFyUHJHcW12NU5vUGxvQ080UVEiLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5MEt1YlBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgc21hcnQgd2F0Y2hlcyBpbiBJbmRpYT8iLCJsayI6IkdoeDBiM0FnTlNCemJXRnlkQ0IzWVhSamFHVnpJR2x1SUdsdVpHbGgiLCJicyI6ImM0M1BQUXZDTUJBR1lGd3pPZGNQYnZVREtZVjJFMmZCeWFVNHBzMWhBallwelVsM181Vl94MTlpazVZYUJNSHQ0SjU3azVkZDJEcVhxcFNnTEpCRUtDWHlHaTJCclhoRExTZTMwbkRVUXZGRHNvbFc3UjlhT2MxT0xwb1Q4QVk5SmxORDJrdndGRzBRdll6bVAwQ2ZkbVA3TWMyYUN1RnFqUGpDQlZLTHFPSDFlQ1p4SEFQWHdzMXBOX3VfQnpxMEVHSndtdVVzODY4TlBZdXg0M0I5MXdJYk9Oc2RaRnQzX09teGlHWV9kTmJCNmVRTiIsImlkIjoiZmNfTkNTOWFyUHJHcW12NU5vUGxvQ080UVFfNSJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FtOWpObTFhT1dNMGFIbDZjRk5yUm5CdGVESlhiMnBtVURZd1NYQlNabmd3VUZZeVpXZzFlbEZGTVhGRVNWOUNjbmRHTFRGaU9IUnFRa0ZIYmpWNE5YVnBkVXMwUlRKNFEzRjFUVVl3TTFBNFdXdEdiblJtWkZZMFp4SVhUa05UT1dGeVVISkhjVzEyTlU1dlVHeHZRMDgwVVZFYUlrRkVjM0k1WmxOYWREWjFiRWcyT0ZwbFowOVBjR1JKUjJoUlpFaEtSelI2YUVFIiwiZmN2IjoiMyIsImVpIjoiTkNTOWFyUHJHcW12NU5vUGxvQ080UVEiLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5MEt1YlBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGdvb2Qgc21hcnQgd2F0Y2hlcyBiZXR3ZWVuIOKCuTIwMDAgYW5kIOKCuTUwMDA/IiwibGsiOiJjNVBTTE01TkxDcFJLRThzU2M1UVNFb3RLVTlOelZONDFMUlR3Y2pBd0VBaE1TOEZ6REVGY2dBIiwiYnMiOiJjNDNQUFF2Q01CQUdZRnd6T2RjUGJ2VURLWVYyRTJmQnlhVTRwczFoQWpZcHpVbDNfNVZfeDE5aWs1WWFCTUh0NEo1N2s1ZGQyRHFYcXBTZ0xKQkVLQ1h5R2kyQnJYaERMU2UzMG5EVVF2RkRzb2xXN1I5YU9jMU9McG9UOEFZOUpsTkQya3Z3RkcwUXZZem1QMENmZG1QN01jMmFDdUZxalBqQ0JWS0xxT0gxZUNaeEhBUFh3czFwTl91X0J6cTBFR0p3bXVVczg2OE5QWXV4NDNCOTF3SWJPTnNkWkZ0M19PbXhpR1lfZE5iQjZlUU4iLCJpZCI6ImZjX05DUzlhclByR3FtdjVOb1Bsb0NPNFFRXzUifQ==",
+    "page_token": "Rn4GL3icHdFLcpswAADQ6WWyjFHkuGPPeDoxXzuVXAGSkTYdENgykoDUciDsepeue6Cepp0e4K3ez1_m2uk_n34r54bbZrEYx_Hx0vcX0zzK3i7K20cnF7I0piql3qw-r8CXs9yG_ej7t3FH6DCwIPWyVpmmEwE2rGtC5wtbe02CHYGqPZnoSr1nTenwDVt3JXY6Ir2-Cw-8Zwl-rWDqp5RPxDN51e72aMZ7Dg6vuFOFDEdQWifIHHH-NEKuoyQDeBY2GjhgE2vVuYoP2T-_JGAPswDDWpu36gNACo0T1iSngqHSRkh4zKfaUKJFy8C6YPkeCI2cyBFAsTthT-X1rJeok0vkTfgYvMxVp1JBhxXqxCptDZCWTZzt3r7mhlLIl7xV92PI_NLURQ0VCFV9JAA98-JApK6nquAgt2tSxesgn9OUpv2V0HSWrbFUOygiHOPocGsCOrLuZcqSAfGncK4s1sc4ulPycJbvW_jw_2H7_WzdZvjRX_4CgACXag",
+    "question": "What are some good smart watches between ₹2000 and ₹5000?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Rn4GL3icHdFLcpswAADQ6WWyjFHkuGPPeDoxXzuVXAGSkTYdENgykoDUciDsepeue6Cepp0e4K3ez1_m2uk_n34r54bbZrEYx_Hx0vcX0zzK3i7K20cnF7I0piql3qw-r8CXs9yG_ej7t3FH6DCwIPWyVpmmEwE2rGtC5wtbe02CHYGqPZnoSr1nTenwDVt3JXY6Ir2-Cw-8Zwl-rWDqp5RPxDN51e72aMZ7Dg6vuFOFDEdQWifIHHH-NEKuoyQDeBY2GjhgE2vVuYoP2T-_JGAPswDDWpu36gNACo0T1iSngqHSRkh4zKfaUKJFy8C6YPkeCI2cyBFAsTthT-X1rJeok0vkTfgYvMxVp1JBhxXqxCptDZCWTZzt3r7mhlLIl7xV92PI_NLURQ0VCFV9JAA98-JApK6nquAgt2tSxesgn9OUpv2V0HSWrbFUOygiHOPocGsCOrLuZcqSAfGncK4s1sc4ulPycJbvW_jw_2H7_WzdZvjRX_4CgACXag",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FtOWpObTFhT1dNMGFIbDZjRk5yUm5CdGVESlhiMnBtVURZd1NYQlNabmd3VUZZeVpXZzFlbEZGTVhGRVNWOUNjbmRHTFRGaU9IUnFRa0ZIYmpWNE5YVnBkVXMwUlRKNFEzRjFUVVl3TTFBNFdXdEdiblJtWkZZMFp4SVhUa05UT1dGeVVISkhjVzEyTlU1dlVHeHZRMDgwVVZFYUlrRkVjM0k1WmxOYWREWjFiRWcyT0ZwbFowOVBjR1JKUjJoUlpFaEtSelI2YUVFIiwiZmN2IjoiMyIsImVpIjoiTkNTOWFyUHJHcW12NU5vUGxvQ080UVEiLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5MEt1YlBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGdvb2Qgc21hcnQgd2F0Y2hlcyBiZXR3ZWVuIOKCuTIwMDAgYW5kIOKCuTUwMDA%2FIiwibGsiOiJjNVBTTE01TkxDcFJLRThzU2M1UVNFb3RLVTlOelZONDFMUlR3Y2pBd0VBaE1TOEZ6REVGY2dBIiwiYnMiOiJjNDNQUFF2Q01CQUdZRnd6T2RjUGJ2VURLWVYyRTJmQnlhVTRwczFoQWpZcHpVbDNfNVZfeDE5aWs1WWFCTUh0NEo1N2s1ZGQyRHFYcXBTZ0xKQkVLQ1h5R2kyQnJYaERMU2UzMG5EVVF2RkRzb2xXN1I5YU9jMU9McG9UOEFZOUpsTkQya3Z3RkcwUXZZem1QMENmZG1QN01jMmFDdUZxalBqQ0JWS0xxT0gxZUNaeEhBUFh3czFwTl91X0J6cTBFR0p3bXVVczg2OE5QWXV4NDNCOTF3SWJPTnNkWkZ0M19PbXhpR1lfZE5iQjZlUU4iLCJpZCI6ImZjX05DUzlhclByR3FtdjVOb1Bsb0NPNFFRXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FtOWpObTFhT1dNMGFIbDZjRk5yUm5CdGVESlhiMnBtVURZd1NYQlNabmd3VUZZeVpXZzFlbEZGTVhGRVNWOUNjbmRHTFRGaU9IUnFRa0ZIYmpWNE5YVnBkVXMwUlRKNFEzRjFUVVl3TTFBNFdXdEdiblJtWkZZMFp4SVhUa05UT1dGeVVISkhjVzEyTlU1dlVHeHZRMDgwVVZFYUlrRkVjM0k1WmxOYWREWjFiRWcyT0ZwbFowOVBjR1JKUjJoUlpFaEtSelI2YUVFIiwiZmN2IjoiMyIsImVpIjoiTkNTOWFyUHJHcW12NU5vUGxvQ080UVEiLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5MEt1YlBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHNtYXJ0IHdhdGNoIHVuZGVyIFJzLiA2LDAwMCBpbiBJbmRpYT8iLCJsayI6IkdodGlaWE4wSUhOdFlYSjBJSGRoZEdOb0lIVnVaR1Z5SURZd01EQSIsImJzIjoiYzQzUFBRdkNNQkFHWUZ3ek9kY1BidlVES1lWMkUyZkJ5YVU0cHMxaEFqWXB6VWwzXzVWX3gxOWlrNVlhQk1IdDRKNTdrNWRkMkRxWHFwU2dMSkJFS0NYeUdpMkJyWGhETFNlMzBuRFVRdkZEc29sVzdSOWFPYzFPTHBvVDhBWTlKbE5EMmt2d0ZHMFF2WXptUDBDZmRtUDdNYzJhQ3VGcWpQakNCVktMcU9IMWVDWnhIQVBYd3MxcE5fdV9CenEwRUdKd211VXM4NjhOUFl1eDQzQjkxd0liT05zZFpGdDNfT214aUdZX2ROYkI2ZVFOIiwiaWQiOiJmY19OQ1M5YXJQckdxbXY1Tm9QbG9DTzRRUV81In0=",
+    "page_token": "F74Dr3icHdBdbpswAABg9TJ9bDAU1kSKKhFsvExQ2bEN-GXCdggN5kdJWqjfdoWdoafqaTrtAt_D9-fTvg7d193f9nabrpvVap7nh9M4nuzxQY_9qr5-DHqla2tVrbtN9CMCz43ewncd7y46JnyaREK9QydakYJA9UueeU-eBCjN3SmsfPlWeUDSAnmEh4ny5agcnUg3PxLfc8QioAaK6gQ-ajiHAkvIhjhjmCYFFs4URqrSptSTrXSZnzv7S2HUGSRYVYiCBQjqQpwFD0UVGFH64YdMQcwZutRizQ38CTRcBhJImvNld2R7WZV7QBFqj1y-STxdjINh6UyjUhCRYmkqJ0Y27J0YpijraCKx2BlsLQN7X-M4hq15ISAL_zlEd2ZRZQVYvyYqXSfMUcrp-Eo4dfpse4Hj9OBnywsWkfBkbmB-PiT6xhN5pX2esa5znNw3-n0b3P-_3v5u-ttmuoynbyjritk",
+    "question": "What is the best smart watch under Rs. 6,000 in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=F74Dr3icHdBdbpswAABg9TJ9bDAU1kSKKhFsvExQ2bEN-GXCdggN5kdJWqjfdoWdoafqaTrtAt_D9-fTvg7d193f9nabrpvVap7nh9M4nuzxQY_9qr5-DHqla2tVrbtN9CMCz43ewncd7y46JnyaREK9QydakYJA9UueeU-eBCjN3SmsfPlWeUDSAnmEh4ny5agcnUg3PxLfc8QioAaK6gQ-ajiHAkvIhjhjmCYFFs4URqrSptSTrXSZnzv7S2HUGSRYVYiCBQjqQpwFD0UVGFH64YdMQcwZutRizQ38CTRcBhJImvNld2R7WZV7QBFqj1y-STxdjINh6UyjUhCRYmkqJ0Y27J0YpijraCKx2BlsLQN7X-M4hq15ISAL_zlEd2ZRZQVYvyYqXSfMUcrp-Eo4dfpse4Hj9OBnywsWkfBkbmB-PiT6xhN5pX2esa5znNw3-n0b3P-_3v5u-ttmuoynbyjritk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FtOWpObTFhT1dNMGFIbDZjRk5yUm5CdGVESlhiMnBtVURZd1NYQlNabmd3VUZZeVpXZzFlbEZGTVhGRVNWOUNjbmRHTFRGaU9IUnFRa0ZIYmpWNE5YVnBkVXMwUlRKNFEzRjFUVVl3TTFBNFdXdEdiblJtWkZZMFp4SVhUa05UT1dGeVVISkhjVzEyTlU1dlVHeHZRMDgwVVZFYUlrRkVjM0k1WmxOYWREWjFiRWcyT0ZwbFowOVBjR1JKUjJoUlpFaEtSelI2YUVFIiwiZmN2IjoiMyIsImVpIjoiTkNTOWFyUHJHcW12NU5vUGxvQ080UVEiLCJxYyI6IkNpNXpiV0Z5ZEhkaGRHTm9aWE1nWVhaaGFXeGhZbXhsSUhWdVpHVnlJRFV3TURBZ2NuVndaV1Z6SUdsdVpHbGhFQUI5MEt1YlBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHNtYXJ0IHdhdGNoIHVuZGVyIFJzLiA2LDAwMCBpbiBJbmRpYT8iLCJsayI6IkdodGlaWE4wSUhOdFlYSjBJSGRoZEdOb0lIVnVaR1Z5SURZd01EQSIsImJzIjoiYzQzUFBRdkNNQkFHWUZ3ek9kY1BidlVES1lWMkUyZkJ5YVU0cHMxaEFqWXB6VWwzXzVWX3gxOWlrNVlhQk1IdDRKNTdrNWRkMkRxWHFwU2dMSkJFS0NYeUdpMkJyWGhETFNlMzBuRFVRdkZEc29sVzdSOWFPYzFPTHBvVDhBWTlKbE5EMmt2d0ZHMFF2WXptUDBDZmRtUDdNYzJhQ3VGcWpQakNCVktMcU9IMWVDWnhIQVBYd3MxcE5fdV9CenEwRUdKd211VXM4NjhOUFl1eDQzQjkxd0liT05zZFpGdDNfT214aUdZX2ROYkI2ZVFOIiwiaWQiOiJmY19OQ1M5YXJQckdxbXY1Tm9QbG9DTzRRUV81In0%3D",
     "type": "ai_overview"
    }
   ],
   "related_searches": [
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&q=Smartwatches+available+under+5000+rupees+india+flipkart&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ1QJ6BAhEEAE",
-    "query": "Smartwatches available under 5000 rupees india flipkart",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Smartwatches+available+under+5000+rupees+india+flipkart"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&q=Samsung+smartwatches+available+under+5000+rupees+india&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ1QJ6BAhOEAE",
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsR4tmd8WjCDyE5H84Cb8U5H1fPRg:1790780468450&q=Samsung+smartwatches+available+under+5000+rupees+india&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQ1QJ6BAhKEAE",
     "query": "Samsung smartwatches available under 5000 rupees india",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Samsung+smartwatches+available+under+5000+rupees+india"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&q=Best+smartwatches+available+under+5000+rupees+india&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ1QJ6BAhLEAE",
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsR4tmd8WjCDyE5H84Cb8U5H1fPRg:1790780468450&q=Best+smartwatches+available+under+5000+rupees+india&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQ1QJ6BAhOEAE",
     "query": "Best smartwatches available under 5000 rupees india",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+smartwatches+available+under+5000+rupees+india"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&q=Smartwatches+available+under+5000+rupees+india+amazon&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ1QJ6BAhKEAE",
-    "query": "Smartwatches available under 5000 rupees india amazon",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Smartwatches+available+under+5000+rupees+india+amazon"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&q=Apple+smartwatches+available+under+5000+rupees+india&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ1QJ6BAhJEAE",
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsR4tmd8WjCDyE5H84Cb8U5H1fPRg:1790780468450&q=Apple+smartwatches+available+under+5000+rupees+india&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQ1QJ6BAhNEAE",
     "query": "Apple smartwatches available under 5000 rupees india",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+smartwatches+available+under+5000+rupees+india"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&q=Smart+Watch+under+2000&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ1QJ6BAhHEAE",
-    "query": "Smart Watch under 2000",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Smart+Watch+under+2000"
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsR4tmd8WjCDyE5H84Cb8U5H1fPRg:1790780468450&q=Smartwatches+available+under+5000+rupees+india+amazon&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQ1QJ6BAhMEAE",
+    "query": "Smartwatches available under 5000 rupees india amazon",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Smartwatches+available+under+5000+rupees+india+amazon"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&q=Nothing+Smart+Watch&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ1QJ6BAhGEAE",
-    "query": "Nothing Smart Watch",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nothing+Smart+Watch"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsoHaQ9tX3HQbI5WZ3rJAQklc_oBw:1789905151548&q=CMF+Smart+Watch&sa=X&ved=2ahUKEwjMgfWljP2WAxWDGYYAHTBgAKAQ1QJ6BAhFEAE",
-    "query": "CMF Smart Watch",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CMF+Smart+Watch"
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsR4tmd8WjCDyE5H84Cb8U5H1fPRg:1790780468450&q=Smartwatches+available+under+5000+rupees+india+2022&sa=X&ved=2ahUKEwiz1cSNyZaXAxWpF1kFHRaAI0wQ1QJ6BAhLEAE",
+    "query": "Smartwatches available under 5000 rupees india 2022",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Smartwatches+available+under+5000+rupees+india+2022"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "smartwatches available under 5000 rupees india",
-   "time_taken_displayed": 0.23,
-   "total_results": 155
+   "time_taken_displayed": 0.35,
+   "total_results": 10
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:52:31 UTC",
+   "created_at": "2026-09-30 15:01:08 UTC",
    "google_url": "https://www.google.com/search?q=smartwatches+available+under+5000+rupees+india&oq=smartwatches+available+under+5000+rupees+india&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc8ff3f79e83b5982ae60",
-   "json_endpoint": "https://serpapi.com/searches/pna_jsfKue9uMXHgZuJJCnJhrt-d32ERhrW0uWnTOzs/6aafc8ff3f79e83b5982ae60.json",
-   "markdown_endpoint": "https://serpapi.com/searches/pna_jsfKue9uMXHgZuJJCnJhrt-d32ERhrW0uWnTOzs/6aafc8ff3f79e83b5982ae60.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/pna_jsfKue9uMXHgZuJJCnJhrt-d32ERhrW0uWnTOzs/6aafc8ff3f79e83b5982ae60.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:52:31 UTC",
-   "raw_html_file": "https://serpapi.com/searches/pna_jsfKue9uMXHgZuJJCnJhrt-d32ERhrW0uWnTOzs/6aafc8ff3f79e83b5982ae60.html",
+   "id": "6abd2434abe7ecc8b87e038f",
+   "json_endpoint": "https://serpapi.com/searches/AqkLNjoctO2ld4GWRg29Yt0ve5mYdA61cyNT-a26Zx4/6abd2434abe7ecc8b87e038f.json",
+   "markdown_endpoint": "https://serpapi.com/searches/AqkLNjoctO2ld4GWRg29Yt0ve5mYdA61cyNT-a26Zx4/6abd2434abe7ecc8b87e038f.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/AqkLNjoctO2ld4GWRg29Yt0ve5mYdA61cyNT-a26Zx4/6abd2434abe7ecc8b87e038f.json_with_pixel_position",
+   "processed_at": "2026-09-30 15:01:08 UTC",
+   "raw_html_file": "https://serpapi.com/searches/AqkLNjoctO2ld4GWRg29Yt0ve5mYdA61cyNT-a26Zx4/6abd2434abe7ecc8b87e038f.html",
    "status": "Success",
-   "total_time_taken": 0.49
+   "total_time_taken": 0.58
   },
   "search_parameters": {
    "device": "desktop",
    "engine": "google",
    "google_domain": "google.com",
    "q": "smartwatches available under 5000 rupees india"
-  },
-  "serpapi_pagination": {
-   "current": 1,
-   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=10",
-   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=10",
-   "other_pages": {
-    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=smartwatches+available+under+5000+rupees+india&start=80"
-   }
   }
  },
  "searches_charged": 1

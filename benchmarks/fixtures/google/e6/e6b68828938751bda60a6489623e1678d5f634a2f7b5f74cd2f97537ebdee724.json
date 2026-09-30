@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 876.559,
+ "elapsed_ms": 16208.601,
  "engine": "google",
- "fetched_at": "2026-09-20T11:38:52.567501+00:00",
+ "fetched_at": "2026-09-30T14:42:57.838521+00:00",
  "frugal_cache_version": 1,
  "key": "e6b68828938751bda60a6489623e1678d5f634a2f7b5f74cd2f97537ebdee724",
  "params": {
@@ -10,326 +10,374 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "ZU5hd3iczVbdcqpIEH6AfY71xqzgP6aKOjUzjkL-FBM1nhsKAQEFxzAExLvzJnuxT7VPswNihESSPedia7tKhx6a7p7u_vj48ZfrbDd___anHQQ7es1xURTVLEIs16zpxOM0Gm91bkVc6uv2N0pefd10DFG3feKZlTgUmxWdinzFdMTD_TzU_EcNdFV1FyhjfzT3eLCppC5EdalRc80i7NeUUzn2t_m92WdKjdY0v3YYz2g_sC0BLmoNvt6rjTjNYwbgvxOsWDBZbwAqN2K38NeuEgcygDjnSQZWusKz1eJ4GynpLWSVeoPHmJPUXGG_vnqQoj7bzerTL32WhYAFNUpzASBKs4TA-fo0OVGys5zO9Uml3qyLklWPnHfyPS7kWpSooA1YFipA6BwkH4y5sQtpvFVKt4AgEdiHYFoeitXnVgbtDVDwpSPkRcGz1lvn7hZDtsMZFhtcnlv6bKlzjm7r6YVPk3lGTz2eDG95vrne33orazDR19Lz-MXGa8FY-DOL05fMziWaYRqqrfLfUr3eqLf5XrMrXKVA0ukbkmgeSZs7XzLmWx3xuDapwfoJRujYdPChY5jpSL5wMIgy08ID8qm8p92kYVlLlUHeb9ZKmHqHAFr51t6ukroOTyqb0QNrTd7iHDUZ_o8wOoqVM2YwShORSS7TvDUCwxx0c42VwaXXzLtCyYp0fjazj86GBQCiCQAbcCrMhxFaAAVZOMEAwhLMqqaffSTwcvIFyNxgwN5QmYbfEsSZUe4MSQlkBdwDGTOfzlRmE2rJUMHHRJNhyGIN8DvElQ48BnP0b159FwR-BaJElBNe3o1_ATb7cCGjdvx9iW5urR4eTO2gLTfIvaCAyzAh3vInGEf_XwHpyEc446NyIOGvgZTyEfyEj9LrMx8lw4tIKZDg8DIf3V_ko2KhkDzJA-nIR1EJH_00kNCnQFIyNxeARC4DaVcOpOg9kIp8hMv4KAPSr_AR_EU-SnFlHpciOb2urVKSGqA1xDvHj81dOPLN1sZx5sJTvT3rN6MvSWrlBdeeZrhXqmNcw8ZNEBtXKtsg16ZReREj4rtG5BhmlZoa-7KsOtvA9E0aVGNiaVXd1raWaVRdje2snNCsxsyMVjzXJyKvtbUnX_c2jSa2lU081jy4CNR92AknW9yKYqp_h57h-HfyVuqHk8ODzXdfXh5XcVeYdXrr_QJtV48RBAdj9CSH0k45ONFo4Y1b_WeBzLtL--GmRUbS82tPWLp6LD0CwX1YCe32lIbGbqj4aO_-oTVHNBo1w2A-u5-miVHRC-atcX8grXZyxfN1kU1Dy48mCphbbCxROq5gqhG2RkAZdli3YIXqmmrSUOy0Oqx8Rm-1NBqdVteseFYQ78QeX6FbX6z_A6YKTqs",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZU5hd3iczVbdcqpIEH6AfY71xqzgP6aKOjUzjkL-FBM1nhsKAQEFxzAExLvzJnuxT7VPswNihESSPedia7tKhx6a7p7u_vj48ZfrbDd___anHQQ7es1xURTVLEIs16zpxOM0Gm91bkVc6uv2N0pefd10DFG3feKZlTgUmxWdinzFdMTD_TzU_EcNdFV1FyhjfzT3eLCppC5EdalRc80i7NeUUzn2t_m92WdKjdY0v3YYz2g_sC0BLmoNvt6rjTjNYwbgvxOsWDBZbwAqN2K38NeuEgcygDjnSQZWusKz1eJ4GynpLWSVeoPHmJPUXGG_vnqQoj7bzerTL32WhYAFNUpzASBKs4TA-fo0OVGys5zO9Uml3qyLklWPnHfyPS7kWpSooA1YFipA6BwkH4y5sQtpvFVKt4AgEdiHYFoeitXnVgbtDVDwpSPkRcGz1lvn7hZDtsMZFhtcnlv6bKlzjm7r6YVPk3lGTz2eDG95vrne33orazDR19Lz-MXGa8FY-DOL05fMziWaYRqqrfLfUr3eqLf5XrMrXKVA0ukbkmgeSZs7XzLmWx3xuDapwfoJRujYdPChY5jpSL5wMIgy08ID8qm8p92kYVlLlUHeb9ZKmHqHAFr51t6ukroOTyqb0QNrTd7iHDUZ_o8wOoqVM2YwShORSS7TvDUCwxx0c42VwaXXzLtCyYp0fjazj86GBQCiCQAbcCrMhxFaAAVZOMEAwhLMqqaffSTwcvIFyNxgwN5QmYbfEsSZUe4MSQlkBdwDGTOfzlRmE2rJUMHHRJNhyGIN8DvElQ48BnP0b159FwR-BaJElBNe3o1_ATb7cCGjdvx9iW5urR4eTO2gLTfIvaCAyzAh3vInGEf_XwHpyEc446NyIOGvgZTyEfyEj9LrMx8lw4tIKZDg8DIf3V_ko2KhkDzJA-nIR1EJH_00kNCnQFIyNxeARC4DaVcOpOg9kIp8hMv4KAPSr_AR_EU-SnFlHpciOb2urVKSGqA1xDvHj81dOPLN1sZx5sJTvT3rN6MvSWrlBdeeZrhXqmNcw8ZNEBtXKtsg16ZReREj4rtG5BhmlZoa-7KsOtvA9E0aVGNiaVXd1raWaVRdje2snNCsxsyMVjzXJyKvtbUnX_c2jSa2lU081jy4CNR92AknW9yKYqp_h57h-HfyVuqHk8ODzXdfXh5XcVeYdXrr_QJtV48RBAdj9CSH0k45ONFo4Y1b_WeBzLtL--GmRUbS82tPWLp6LD0CwX1YCe32lIbGbqj4aO_-oTVHNBo1w2A-u5-miVHRC-atcX8grXZyxfN1kU1Dy48mCphbbCxROq5gqhG2RkAZdli3YIXqmmrSUOy0Oqx8Rm-1NBqdVteseFYQ78QeX6FbX6z_A6YKTqs"
+   "page_token": "Yq0SPHiczVbdcqpIEH6AfY7lxiigMdFUUaeGEXImCSr-JOu5sWCAARVQRiXkbt9lH2GfZp9mBxDFRJI652JrW4t2Znp6unv64_PPv1ZesPznt7_d7XZN73g-juMGCUOyshs49HmDJgHmnXBFI-x-o-EuwrZnSdiNQt_mkr3U4jCVBM72pI5c7xr7enOgmdN2PxxGm7pI9BmXuZDmpkHtBTvhdUH5Oc8ey99bPTZo0IYdNOBDAl8empaLZ42mIHYbA97wmQH4D0VXAAIy07mqEgiA8rWz1EQHMPVVCIGnpVx6ub_0TJJNPFYeidJdMvsgkJkOr1_bLmUu9MJoXB2xXh7EmZLl_MRxGhT5Op-T5KWR9WNolYIuT-c7YenQ2YfVS96083EI5N410HW5COHdrYzLWclKmmVqwYpR770COfYqin3YwL4T8H0Zfp5iFghEnaIcQKXsUhFvEda8Am9GTIm8h12c_Yho2tNw0hVCZb1-pMDsGX01wLqi_iEm353VbTDp-TGPTWa3Cg3LtubuXPiWjcWm2Ba6rdvOVQYmTI9oomU0DcJR3N-IXaopjaeGLBZQgscLeZeQwsbw0l2xysJLGzIhJRyUNnuw3E3Tg2btLSCAzjqCKGiY6vviygfsQoGM3XJohS3IYVk-_IPRAUpZY6Fco9P2o8m0FAYpL_UuwODDewBCEB9y6hU-DgHo78oEwRixtWJWPnfPkvZcJdXymOVDMzN81v-CMjqlDIt40oZXlKMTUP6FSlCCrL9h1vH91MsSkqWMWLAyyOtCMlBkEhIEzm5RqXjFwZiVeFoJ0U-FVL0PzgQVmHkHgTJ0vhNV0-HC6beD5bKHFmDcGilPc_jjuk8uQyX0zZ9gHvz_AlPBS9MDL1WDSfkaTOl78DNeyh4nXhrnYHqsBpOCTrxESrwUF0YnXnoPJjgugSnnJSKrl3npZ8EEPwET-gxMaaaXwKRXgSnjpTMwPTBempV56QxMR14qwPRrvIR-jZcybNm5Oiep3YJUkpXa9dZdr727tX5oOlbHi0G8mdwI2-gtBF-SleNv73zDWl3NPetObj5sE-tqzibCO9viNlIcRisr9iy7Rm2D_cusecHWjmy6rSUhMWrYNQJiW7WVwWYcb2_XEmZGOX8VhZJgXN_un-vOW-Q498Z04TwNzbps70EAZzrYDdVkkyyx-tZqod1wvVVGoDMf4DZyRRuT-6ap4o63GGkz9GI8usaLowjt6XrnuPpghxY0ljVnUtciLVD7waTVfoqs591ebU6Tjm-JwSh4jrRtz1dGGpBDdWau6EbUssCo9BZuaOflxvFMhWO5UlsSOT_CEru0awL6OnghrEHhjLEGAVMjZDoG-v0NQ7vMUWzMbbqXTAF3jU7TvsH4tuuIDueTbbKWugJHg0gS_wUfYlS7",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Yq0SPHiczVbdcqpIEH6AfY7lxiigMdFUUaeGEXImCSr-JOu5sWCAARVQRiXkbt9lH2GfZp9mBxDFRJI652JrW4t2Znp6unv64_PPv1ZesPznt7_d7XZN73g-juMGCUOyshs49HmDJgHmnXBFI-x-o-EuwrZnSdiNQt_mkr3U4jCVBM72pI5c7xr7enOgmdN2PxxGm7pI9BmXuZDmpkHtBTvhdUH5Oc8ey99bPTZo0IYdNOBDAl8empaLZ42mIHYbA97wmQH4D0VXAAIy07mqEgiA8rWz1EQHMPVVCIGnpVx6ub_0TJJNPFYeidJdMvsgkJkOr1_bLmUu9MJoXB2xXh7EmZLl_MRxGhT5Op-T5KWR9WNolYIuT-c7YenQ2YfVS96083EI5N410HW5COHdrYzLWclKmmVqwYpR770COfYqin3YwL4T8H0Zfp5iFghEnaIcQKXsUhFvEda8Am9GTIm8h12c_Yho2tNw0hVCZb1-pMDsGX01wLqi_iEm353VbTDp-TGPTWa3Cg3LtubuXPiWjcWm2Ba6rdvOVQYmTI9oomU0DcJR3N-IXaopjaeGLBZQgscLeZeQwsbw0l2xysJLGzIhJRyUNnuw3E3Tg2btLSCAzjqCKGiY6vviygfsQoGM3XJohS3IYVk-_IPRAUpZY6Fco9P2o8m0FAYpL_UuwODDewBCEB9y6hU-DgHo78oEwRixtWJWPnfPkvZcJdXymOVDMzN81v-CMjqlDIt40oZXlKMTUP6FSlCCrL9h1vH91MsSkqWMWLAyyOtCMlBkEhIEzm5RqXjFwZiVeFoJ0U-FVL0PzgQVmHkHgTJ0vhNV0-HC6beD5bKHFmDcGilPc_jjuk8uQyX0zZ9gHvz_AlPBS9MDL1WDSfkaTOl78DNeyh4nXhrnYHqsBpOCTrxESrwUF0YnXnoPJjgugSnnJSKrl3npZ8EEPwET-gxMaaaXwKRXgSnjpTMwPTBempV56QxMR14qwPRrvIR-jZcybNm5Oiep3YJUkpXa9dZdr727tX5oOlbHi0G8mdwI2-gtBF-SleNv73zDWl3NPetObj5sE-tqzibCO9viNlIcRisr9iy7Rm2D_cusecHWjmy6rSUhMWrYNQJiW7WVwWYcb2_XEmZGOX8VhZJgXN_un-vOW-Q498Z04TwNzbps70EAZzrYDdVkkyyx-tZqod1wvVVGoDMf4DZyRRuT-6ap4o63GGkz9GI8usaLowjt6XrnuPpghxY0ljVnUtciLVD7waTVfoqs591ebU6Tjm-JwSh4jrRtz1dGGpBDdWau6EbUssCo9BZuaOflxvFMhWO5UlsSOT_CEru0awL6OnghrEHhjLEGAVMjZDoG-v0NQ7vMUWzMbbqXTAF3jU7TvsH4tuuIDueTbbKWugJHg0gS_wUfYlS7"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVjdjTktRc1lYaVktZmR4VnlaUm5JWmpGVW9lODFwWjVKdEFMRmd3LXNsNFhjekJlNkdPNHZZQjJ1ckJod3V0OVRBMUp1MzhuZUpFWnAwRnBoY3hpSm9jUVBXUUZKRFRoaHVIZE5HU1h4MTc3SUJQMExRMVFYOVESBBoCCAAagQQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDbAwgAEAAYACAAKmsKCXdvcmxkd2lkZRVmv7pAGhBhcm91bmQgdGhlIHdvcmxkGgZnbG9iYWwaCGdsb2JhbGx5GgxpbiB0aGUgd29ybGQaDWludGVybmF0aW9uYWwaDG9mIHRoZSB3b3JsZBoKd29ybGQgd2lkZTKMAS9nb3RvP3VybD1DQUVTWFFIck96QVY3Y05LUXNZWGlZLWZkeFZ5WlJuSVpqRlVvZTgxcFo1SnRBTEZndy1zbDRYY3pCZTZHTzR2WUIydXJCaHd1dDlUQTFKdTM4bmVKRVpwMEZwaGN4aUpvY1FQV1FGSkRUaGh1SGROR1NYeDE3N0lCUDBMUTFRWDlROhc8Yj5Zb2dhPC9iPiAtIFdpa2lwZWRpYUK4AU1vZGVybiBmb3JtcyBvZiA8Yj55b2dhPC9iPiBhcmUgcHJhY3RpY2VkIDxiPndvcmxkd2lkZTwvYj4sIFs3XSBvZnRlbiBtYWlubHkgZm9yIGV4ZXJjaXNlIGFjY29tcGFuaWVkIGJ5IG90aGVyIGVsZW1lbnRzIGxpa2UgcmVsYXhhdGlvbi4gQ2xhc3NpY2FsIGVyYSAoMjAwIEJDRSDigJMgNTAwIENFKSB0aGUmbmJzcDsuLi5SATUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVjdjTktRc1lYaVktZmR4VnlaUm5JWmpGVW9lODFwWjVKdEFMRmd3LXNsNFhjekJlNkdPNHZZQjJ1ckJod3V0OVRBMUp1MzhuZUpFWnAwRnBoY3hpSm9jUVBXUUZKRFRoaHVIZE5HU1h4MTc3SUJQMExRMVFYOVESBBoCCAAagQQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDbAwgAEAAYACAAKmsKCXdvcmxkd2lkZRVmv7pAGhBhcm91bmQgdGhlIHdvcmxkGgZnbG9iYWwaCGdsb2JhbGx5GgxpbiB0aGUgd29ybGQaDWludGVybmF0aW9uYWwaDG9mIHRoZSB3b3JsZBoKd29ybGQgd2lkZTKMAS9nb3RvP3VybD1DQUVTWFFIck96QVY3Y05LUXNZWGlZLWZkeFZ5WlJuSVpqRlVvZTgxcFo1SnRBTEZndy1zbDRYY3pCZTZHTzR2WUIydXJCaHd1dDlUQTFKdTM4bmVKRVpwMEZwaGN4aUpvY1FQV1FGSkRUaGh1SGROR1NYeDE3N0lCUDBMUTFRWDlROhc8Yj5Zb2dhPC9iPiAtIFdpa2lwZWRpYUK4AU1vZGVybiBmb3JtcyBvZiA8Yj55b2dhPC9iPiBhcmUgcHJhY3RpY2VkIDxiPndvcmxkd2lkZTwvYj4sIFs3XSBvZnRlbiBtYWlubHkgZm9yIGV4ZXJjaXNlIGFjY29tcGFuaWVkIGJ5IG90aGVyIGVsZW1lbnRzIGxpa2UgcmVsYXhhdGlvbi4gQ2xhc3NpY2FsIGVyYSAoMjAwIEJDRSDigJMgNTAwIENFKSB0aGUmbmJzcDsuLi5SATUiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Conclusion: Google Trends captured a significant rise in interest of Yoga among the global community but diminished with time. Hence, the need ...",
-      "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
-      "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8191227/"
+      "description": "Modern forms of yoga are practiced worldwide, [7] often mainly for exercise accompanied by other elements like relaxation. Classical era (200 BCE – 500 CE) the ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Yoga"
      }
     },
-    "author": "بواسطة HA Jindal",
-    "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles",
-    "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
-    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8191227/",
+    "displayed_link": "https://en.wikipedia.org › wiki › Yoga",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Yoga",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVECKKrGU1X6vYEVtFUeDjhDt9Nr6yUvdErDiXGfatSwPH5IyCI-AG0TsLMYCYHzPSSB8oJ1rCywgtPrwu48yFMbaQi6T5oXhFzP5teH8HGbRAh-ft7WtvqnmBkwzW5LVkTIbenw&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQFnoECBwQAQ&uoh=1",
-    "snippet": "Conclusion: Google Trends captured a significant rise in interest of Yoga among the global community but diminished with time. Hence, the need ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAV7cNKQsYXiY-fdxVyZRnIZjFUoe81pZ5JtALFgw-sl4XczBe6GO4vYB2urBhwut9TA1Ju38neJEZp0FphcxiJocQPWQFJDThhuHdNGSXx177IBP0LQ1QX9Q&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQFnoECB8QAQ&uoh=1",
+    "snippet": "Modern forms of yoga are practiced worldwide, [7] often mainly for exercise accompanied by other elements like relaxation. Classical era (200 BCE – 500 CE) the ...",
     "snippet_highlighted_words": [
-     "Google Trends captured a significant rise in interest of Yoga"
+     "yoga",
+     "worldwide"
     ],
-    "source": "National Institutes of Health (NIH) | (.gov)",
-    "title": "Global Change in Interest toward Yoga for Mental Health ..."
+    "source": "Wikipedia",
+    "title": "Yoga"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVm55T05WcGh0WmtpQjZzeUtaTjJrN1RwNHIwTnFBaXQ2ZzRDTmxIWHp2aGVMaHNLZmEtQVdkVGZQbWZfSmNPTDE5TTZ6Unc4aDk0ZmUzN0t6Zm80a3V6WGpvbUFZTEVUckN0c0ljZmtKNVhFV1h4ckZ2QUxxQmUycU54MHc4QTF2dHdFNFdZLUw1TTd4b0t4SkFBYxIEGgIIABqRBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOsDCAAQABgAIAAqawoJd29ybGR3aWRlFdoK0kAaEGFyb3VuZCB0aGUgd29ybGQaBmdsb2JhbBoIZ2xvYmFsbHkaDGluIHRoZSB3b3JsZBoNaW50ZXJuYXRpb25hbBoMb2YgdGhlIHdvcmxkGgp3b3JsZCB3aWRlMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVm55T05WcGh0WmtpQjZzeUtaTjJrN1RwNHIwTnFBaXQ2ZzRDTmxIWHp2aGVMaHNLZmEtQVdkVGZQbWZfSmNPTDE5TTZ6Unc4aDk0ZmUzN0t6Zm80a3V6WGpvbUFZTEVUckN0c0ljZmtKNVhFV1h4ckZ2QUxxQmUycU54MHc4QTF2dHdFNFdZLUw1TTd4b0t4SkFBYzoiPGI-WW9nYTwvYj4gV2l0aCBBZHJpZW5lIC0gWW91VHViZUKgAU91ciBtaXNzaW9uIGlzIHRvIGNvbm5lY3QgYXMgbWFueSBwZW9wbGUgYXMgcG9zc2libGUgdGhyb3VnaCBoaWdoLXF1YWxpdHkgZnJlZSB5b2dhIHZpZGVvcy4gPGI-U2VhcmNoIFlvZ2EgZm9yIEJldHRlciBQb3N0dXJlPC9iPiB8IENoZXN0LCBTaG91bGRlcnMgJmFtcDsgVXBwZXJSATUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVm55T05WcGh0WmtpQjZzeUtaTjJrN1RwNHIwTnFBaXQ2ZzRDTmxIWHp2aGVMaHNLZmEtQVdkVGZQbWZfSmNPTDE5TTZ6Unc4aDk0ZmUzN0t6Zm80a3V6WGpvbUFZTEVUckN0c0ljZmtKNVhFV1h4ckZ2QUxxQmUycU54MHc4QTF2dHdFNFdZLUw1TTd4b0t4SkFBYxIEGgIIABqRBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOsDCAAQABgAIAAqawoJd29ybGR3aWRlFdoK0kAaEGFyb3VuZCB0aGUgd29ybGQaBmdsb2JhbBoIZ2xvYmFsbHkaDGluIHRoZSB3b3JsZBoNaW50ZXJuYXRpb25hbBoMb2YgdGhlIHdvcmxkGgp3b3JsZCB3aWRlMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVm55T05WcGh0WmtpQjZzeUtaTjJrN1RwNHIwTnFBaXQ2ZzRDTmxIWHp2aGVMaHNLZmEtQVdkVGZQbWZfSmNPTDE5TTZ6Unc4aDk0ZmUzN0t6Zm80a3V6WGpvbUFZTEVUckN0c0ljZmtKNVhFV1h4ckZ2QUxxQmUycU54MHc4QTF2dHdFNFdZLUw1TTd4b0t4SkFBYzoiPGI-WW9nYTwvYj4gV2l0aCBBZHJpZW5lIC0gWW91VHViZUKgAU91ciBtaXNzaW9uIGlzIHRvIGNvbm5lY3QgYXMgbWFueSBwZW9wbGUgYXMgcG9zc2libGUgdGhyb3VnaCBoaWdoLXF1YWxpdHkgZnJlZSB5b2dhIHZpZGVvcy4gPGI-U2VhcmNoIFlvZ2EgZm9yIEJldHRlciBQb3N0dXJlPC9iPiB8IENoZXN0LCBTaG91bGRlcnMgJmFtcDsgVXBwZXJSATUiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Even so, various statistics show that in the United States there's been a steady drop in search interest in \"yoga\" over the past five years, ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/yogitimes/posts/given-the-latest-yoga-statistics-and-intriguing-yoga-facts-its-evident-that-its-/653065497102065/"
+      "description": "Our mission is to connect as many people as possible through high-quality free yoga videos. Search Yoga for Better Posture | Chest, Shoulders & Upper",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "source_info_link": "https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA"
      }
     },
-    "displayed_link": "‫2 تفاعل · قبل سنة واحدة",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/yogitimes/posts/given-the-latest-yoga-statistics-and-intriguing-yoga-facts-its-evident-that-its-/653065497102065/",
+    "displayed_link": "13.7M+ followers",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwwEB6zswFS481AiET7hmOxuYubBGwauH85EXKBVV2al0vx8V9VbThxLhv2QZYeFpfBTR6-gNhcytFSEo0i2m2GQ1OZUDO4TNjba2acRTkSs3-pSe304K_iadgH3EHTX8cqyJWJ-VOLrV-qhFIVRKCff27AHtWnMhp5gcm8bQMFu0-TNOA_mr1bGELI1hzoexUaAgDGfO7upMQ2x8MlP47scn_fbGaJK3of22gJfkFKp1g5EfjEN2JevAhTIGIyt1JN69xpE&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQFnoECCEQAQ&uoh=1",
-    "snippet": "Even so, various statistics show that in the United States there's been a steady drop in search interest in \"yoga\" over the past five years, ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVnyONVphtZkiB6syKZN2k7Tp4r0NqAit6g4CNlHXzvheLhsKfa-AWdTfPmf_JcOL19M6zRw8h94fe37Kzfo4kuzXjomAYLETrCtsIcfkJ5XEWXxrFvALqBe2qNx0w8A1vtwE4WY-L5M7xoKxJAAc&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQFnoECCYQAQ&uoh=1",
+    "snippet": "Our mission is to connect as many people as possible through high-quality free yoga videos. Search Yoga for Better Posture | Chest, Shoulders & Upper",
     "snippet_highlighted_words": [
-     "search interest",
-     "yoga",
-     "over",
-     "five years"
+     "Search Yoga for Better Posture"
     ],
-    "source": "Facebook · YOGI TIMES",
-    "title": "Given the latest yoga statistics and intriguing yoga facts, it's ..."
+    "source": "YouTube · Yoga With Adriene",
+    "title": "Yoga With Adriene"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlkyczZNbnRhNVNhX2hxYUtDd1ZzTlY3VFE0eVdWeFhEckU4dnFHWEJqcDRmTFpTQmxVcHR1bFc5SElLUHlkT3ZabTJzejJMa1kwUm5hRlRFWWlMaDRacU5Dc1NUVHFDeXZFaXdEeHhUOWx2d3ZHMVlLRU5Gd1hxV011YkpxdGp0dzI2djhpSF9Da3huMnkteTZKek55dW1MTjlBEgQaAggAGpcEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8QMIABAAGAAgACprCgl3b3JsZHdpZGUVvLCLQBoQYXJvdW5kIHRoZSB3b3JsZBoGZ2xvYmFsGghnbG9iYWxseRoMaW4gdGhlIHdvcmxkGg1pbnRlcm5hdGlvbmFsGgxvZiB0aGUgd29ybGQaCndvcmxkIHdpZGUysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWWTJzNk1udGE1U2FfaHFhS0N3VnNOVjdUUTR5V1Z4WERyRTh2cUdYQmpwNGZMWlNCbFVwdHVsVzlISUtQeWRPdlptMnN6MkxrWTBSbmFGVEVZaUxoNFpxTkNzU1RUcUN5dkVpd0R4eFQ5bHZ3dkcxWUtFTkZ3WHFXTXViSnF0anR3MjZ2OGlIX0NreG4yeS15Nkp6Tnl1bUxOOUE6LTxiPllvZ2E8L2I-OiBFZmZlY3RpdmVuZXNzIGFuZCBTYWZldHkgfCBOQ0NJSEKTAUFjY29yZGluZyB0byBhIG5hdGlvbmFsIHN1cnZleSwgdGhlIHBlcmNlbnRhZ2Ugb2YgVS5TLiBhZHVsdHMgd2hvIHByYWN0aWNlZCA8Yj55b2dhPC9iPiBpbmNyZWFzZWQgZnJvbSA1LjAgcGVyY2VudCBpbiAyMDAyIHRvIDE1LjggcGVyY2VudCBpbiAyMDIyLlIBNSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlkyczZNbnRhNVNhX2hxYUtDd1ZzTlY3VFE0eVdWeFhEckU4dnFHWEJqcDRmTFpTQmxVcHR1bFc5SElLUHlkT3ZabTJzejJMa1kwUm5hRlRFWWlMaDRacU5Dc1NUVHFDeXZFaXdEeHhUOWx2d3ZHMVlLRU5Gd1hxV011YkpxdGp0dzI2djhpSF9Da3huMnkteTZKek55dW1MTjlBEgQaAggAGpcEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8QMIABAAGAAgACprCgl3b3JsZHdpZGUVvLCLQBoQYXJvdW5kIHRoZSB3b3JsZBoGZ2xvYmFsGghnbG9iYWxseRoMaW4gdGhlIHdvcmxkGg1pbnRlcm5hdGlvbmFsGgxvZiB0aGUgd29ybGQaCndvcmxkIHdpZGUysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWWTJzNk1udGE1U2FfaHFhS0N3VnNOVjdUUTR5V1Z4WERyRTh2cUdYQmpwNGZMWlNCbFVwdHVsVzlISUtQeWRPdlptMnN6MkxrWTBSbmFGVEVZaUxoNFpxTkNzU1RUcUN5dkVpd0R4eFQ5bHZ3dkcxWUtFTkZ3WHFXTXViSnF0anR3MjZ2OGlIX0NreG4yeS15Nkp6Tnl1bUxOOUE6LTxiPllvZ2E8L2I-OiBFZmZlY3RpdmVuZXNzIGFuZCBTYWZldHkgfCBOQ0NJSEKTAUFjY29yZGluZyB0byBhIG5hdGlvbmFsIHN1cnZleSwgdGhlIHBlcmNlbnRhZ2Ugb2YgVS5TLiBhZHVsdHMgd2hvIHByYWN0aWNlZCA8Yj55b2dhPC9iPiBpbmNyZWFzZWQgZnJvbSA1LjAgcGVyY2VudCBpbiAyMDAyIHRvIDE1LjggcGVyY2VudCBpbiAyMDIyLlIBNSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Millions of people around the world have rolled out their yoga mats to celebrate a tradition that was once the preserve of Hindu holy men but is ...",
-      "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp",
-      "source_info_link": "https://www.bbc.com/news/world-40354525"
+      "description": "According to a national survey, the percentage of U.S. adults who practiced yoga increased from 5.0 percent in 2002 to 15.8 percent in 2022.",
+      "icon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAQBgCdASocABwAPtEutFooIagoGAEAGgllAARB3yH_Q3sADLQ2diu2VsPVXsPnW_xYCW035o3PlBgA_vYSiuc0CBv_u0ntvjo9P-OoJJLqq0bs6JASV2cA34eWOoFmvwjH1tQZhs0lcwPhj9XJBU_QRijBd9UF_8MG-A0KkBrkPrtYLLv6Ih5k_Uaj0bXl6T42eD4aN0MGLMF76Lnvqlq34xXZyddQjb8OHhLDyOv-nLSUWH77qUbRhCjUd7guPbaNZ0UHegCNwpNP2wfzmYPzNOJ8Y1OWj1_k3l64n7MBAusHD7PI_N_cEatv95aY6v8xqn8KZlBU0g-HcUCH-ty3_7l2-1Eqj21RmAIBp-7AAA.webp",
+      "source_info_link": "https://www.nccih.nih.gov/health/yoga-effectiveness-and-safety"
      }
     },
-    "date": "22‏/06‏/2017",
-    "displayed_link": "https://www.bbc.com › news › worl...",
-    "favicon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp",
-    "link": "https://www.bbc.com/news/world-40354525",
+    "displayed_link": "https://www.nccih.nih.gov › health › yoga-effectiveness...",
+    "favicon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAQBgCdASocABwAPtEutFooIagoGAEAGgllAARB3yH_Q3sADLQ2diu2VsPVXsPnW_xYCW035o3PlBgA_vYSiuc0CBv_u0ntvjo9P-OoJJLqq0bs6JASV2cA34eWOoFmvwjH1tQZhs0lcwPhj9XJBU_QRijBd9UF_8MG-A0KkBrkPrtYLLv6Ih5k_Uaj0bXl6T42eD4aN0MGLMF76Lnvqlq34xXZyddQjb8OHhLDyOv-nLSUWH77qUbRhCjUd7guPbaNZ0UHegCNwpNP2wfzmYPzNOJ8Y1OWj1_k3l64n7MBAusHD7PI_N_cEatv95aY6v8xqn8KZlBU0g-HcUCH-ty3_7l2-1Eqj21RmAIBp-7AAA.webp",
+    "link": "https://www.nccih.nih.gov/health/yoga-effectiveness-and-safety",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVGwLK68iuH_88DxfBXNuAY7sTfzHCCxrrKmIZvWX2m5Aft7X2-Hq-w4B-x8-NAiTfSjxSyXSa3Jp6PUrMdRH0O3Ibss8yx6nxpy4l3nmqxbd6rpZfpOw0LtbL&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQFnoECB4QAQ&uoh=1",
-    "snippet": "Millions of people around the world have rolled out their yoga mats to celebrate a tradition that was once the preserve of Hindu holy men but is ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVY2s6Mnta5Sa_hqaKCwVsNV7TQ4yWVxXDrE8vqGXBjp4fLZSBlUptulW9HIKPydOvZm2sz2LkY0RnaFTEYiLh4ZqNCsSTTqCyvEiwDxxT9lvwvG1YKENFwXqWMubJqtjtw26v8iH_Ckxn2y-y6JzNyumLN9A&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQFnoECCMQAQ&uoh=1",
+    "snippet": "According to a national survey, the percentage of U.S. adults who practiced yoga increased from 5.0 percent in 2002 to 15.8 percent in 2022.",
     "snippet_highlighted_words": [
      "yoga"
     ],
-    "source": "BBC",
-    "title": "Yoga: How did it conquer the world and what's changed?"
+    "source": "National Center for Complementary and Integrative Health (.gov)",
+    "title": "Yoga: Effectiveness and Safety | NCCIH"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQBL2dvdG8_dXJsPUNBRVNWd0hyT3pBVng2RzlyQ3NZZHVBb1phY05wTkNFazN2dkJrSGxuemx0OUQtbzNJSEoteVRMa1lJYlYtdm5SeHpnRDdleVk5Z1VHMWMwUTNyN19VNEhiWVBGb2RlRlZ3QndZOFpjNWV5c09ES2o1cXZIcnZfUHdBEgQaAggAGpIEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7AMIABAAGAAgACprCgl3b3JsZHdpZGUVGB21QBoQYXJvdW5kIHRoZSB3b3JsZBoGZ2xvYmFsGghnbG9iYWxseRoMaW4gdGhlIHdvcmxkGg1pbnRlcm5hdGlvbmFsGgxvZiB0aGUgd29ybGQaCndvcmxkIHdpZGUyhAEvZ290bz91cmw9Q0FFU1Z3SHJPekFWeDZHOXJDc1lkdUFvWmFjTnBOQ0VrM3Z2QmtIbG56bHQ5RC1vM0lISi15VExrWUliVi12blJ4emdEN2V5WTlnVUcxYzBRM3I3X1U0SGJZUEZvZGVGVndCd1k4WmM1ZXlzT0RLajVxdkhydl9Qd0E6STxiPllvZ2E8L2I-IEpvdXJuYWwgfCA8Yj5Zb2dhPC9iPiBQb3NlcyAtIFNlcXVlbmNlcyAtIFBoaWxvc29waHkgLSBFdmVudHNCnwE8Yj5Zb2dhPC9iPiBKb3VybmFsIGlzIHlvdXIgc291cmNlIGZvciA8Yj55b2dhPC9iPiBwb3NlIGluc3RydWN0aW9uLCBzZXF1ZW5jZXMsIGZyZWUgdmlkZW8gY2xhc3NlcywgZ3VpZGVkIG1lZGl0YXRpb25zLCBhbmQgaW5mb3JtYXRpb24gb24gdGhlIHlvZ2ljIGxpZmVzdHlsZS5SATUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQBL2dvdG8_dXJsPUNBRVNWd0hyT3pBVng2RzlyQ3NZZHVBb1phY05wTkNFazN2dkJrSGxuemx0OUQtbzNJSEoteVRMa1lJYlYtdm5SeHpnRDdleVk5Z1VHMWMwUTNyN19VNEhiWVBGb2RlRlZ3QndZOFpjNWV5c09ES2o1cXZIcnZfUHdBEgQaAggAGpIEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7AMIABAAGAAgACprCgl3b3JsZHdpZGUVGB21QBoQYXJvdW5kIHRoZSB3b3JsZBoGZ2xvYmFsGghnbG9iYWxseRoMaW4gdGhlIHdvcmxkGg1pbnRlcm5hdGlvbmFsGgxvZiB0aGUgd29ybGQaCndvcmxkIHdpZGUyhAEvZ290bz91cmw9Q0FFU1Z3SHJPekFWeDZHOXJDc1lkdUFvWmFjTnBOQ0VrM3Z2QmtIbG56bHQ5RC1vM0lISi15VExrWUliVi12blJ4emdEN2V5WTlnVUcxYzBRM3I3X1U0SGJZUEZvZGVGVndCd1k4WmM1ZXlzT0RLajVxdkhydl9Qd0E6STxiPllvZ2E8L2I-IEpvdXJuYWwgfCA8Yj5Zb2dhPC9iPiBQb3NlcyAtIFNlcXVlbmNlcyAtIFBoaWxvc29waHkgLSBFdmVudHNCnwE8Yj5Zb2dhPC9iPiBKb3VybmFsIGlzIHlvdXIgc291cmNlIGZvciA8Yj55b2dhPC9iPiBwb3NlIGluc3RydWN0aW9uLCBzZXF1ZW5jZXMsIGZyZWUgdmlkZW8gY2xhc3NlcywgZ3VpZGVkIG1lZGl0YXRpb25zLCBhbmQgaW5mb3JtYXRpb24gb24gdGhlIHlvZ2ljIGxpZmVzdHlsZS5SATUiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "More than 300 million people practice yoga worldwide. 78% of travelers are interested in a yoga retreat in the next 12 months. Searches for yoga retreats are up ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwApv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Ap_8Apv8Apv-0KcDbAAAAEXRSTlMAMoXC6v5h_xffbkAjkQnQnnvo4HMAAADYSURBVHgBZJEBCsQgDARXE7uq1vb_rz1qMNTeAIhsGJMIJ0TRlFRiwJdD6eixRbmQlNp6b1VIlgynkTzHuo2TZHtlmjeReprJCx8u0soLFX8oy-zTihzXHbPmfC71xVN8Pr5ADqBzowODDIgUADeLOIU3AGGEsFoIx8JKgbLZ-3Fl0TpsVCR2zDo75_PVzrRCXGta5YUVmnZ2F03KAZjWGlpil1pDNsoSu9RGsSW4OL5vwda3RGlJbX3b4oWUbfHbl-XfOJCiDG9k40sm-BIYvqRJOFHjzQ4AA90Kix55VUcAAAAASUVORK5CYII.png",
-      "source_info_link": "https://bookretreats.com/blog/yoga-statistics/"
+      "description": "Yoga Journal is your source for yoga pose instruction, sequences, free video classes, guided meditations, and information on the yogic lifestyle.",
+      "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAACQBACdASocABwAPtE-tFooIigoFAEAGglAFR6CIzMCp4peTTJuiIdtwClZcIAA_lK8aoyVHgmR8yXAr4O4o7Il6Qym-zjQd-zRzFAdXp4vhlJvwV0hWXJdlzggoktHMDVSNdDqzWs8q5fhtiCv7TwG9qqXjjGDhRaJNH44wZpKEMM8EAxxRkKR_2H7O3u6Ay0ONfzP8m9XRCAAAAA.webp",
+      "source_info_link": "https://www.yogajournal.com/"
      }
     },
-    "displayed_link": "https://bookretreats.com › blog › yo...",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwApv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Apv8Ap_8Apv8Apv-0KcDbAAAAEXRSTlMAMoXC6v5h_xffbkAjkQnQnnvo4HMAAADYSURBVHgBZJEBCsQgDARXE7uq1vb_rz1qMNTeAIhsGJMIJ0TRlFRiwJdD6eixRbmQlNp6b1VIlgynkTzHuo2TZHtlmjeReprJCx8u0soLFX8oy-zTihzXHbPmfC71xVN8Pr5ADqBzowODDIgUADeLOIU3AGGEsFoIx8JKgbLZ-3Fl0TpsVCR2zDo75_PVzrRCXGta5YUVmnZ2F03KAZjWGlpil1pDNsoSu9RGsSW4OL5vwda3RGlJbX3b4oWUbfHbl-XfOJCiDG9k40sm-BIYvqRJOFHjzQ4AA90Kix55VUcAAAAASUVORK5CYII.png",
-    "link": "https://bookretreats.com/blog/yoga-statistics/",
+    "displayed_link": "https://www.yogajournal.com",
+    "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAACQBACdASocABwAPtE-tFooIigoFAEAGglAFR6CIzMCp4peTTJuiIdtwClZcIAA_lK8aoyVHgmR8yXAr4O4o7Il6Qym-zjQd-zRzFAdXp4vhlJvwV0hWXJdlzggoktHMDVSNdDqzWs8q5fhtiCv7TwG9qqXjjGDhRaJNH44wZpKEMM8EAxxRkKR_2H7O3u6Ay0ONfzP8m9XRCAAAAA.webp",
+    "link": "https://www.yogajournal.com/",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVFuJMgTGDwO-2ImbOatBbMGdS4G-Bl7Jmza0caX6-wvx_5BZQbxYiPBOwtOcRJMuwcb0WKwnOOhzU9g9tkyfwusUMFFHsBLG4gSXDpyd0AdG9QVriszmjVMI-edqZmgHBOQ&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQFnoECCAQAQ&uoh=1",
-    "snippet": "More than 300 million people practice yoga worldwide. 78% of travelers are interested in a yoga retreat in the next 12 months. Searches for yoga retreats are up ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAVx6G9rCsYduAoZacNpNCEk3vvBkHlnzlt9D-o3IHJ-yTLkYIbV-vnRxzgD7eyY9gUG1c0Q3r7_U4HbYPFodeFVwBwY8Zc5eysODKj5qvHrv_PwA&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQFnoECCAQAQ&uoh=1",
+    "snippet": "Yoga Journal is your source for yoga pose instruction, sequences, free video classes, guided meditations, and information on the yogic lifestyle.",
     "snippet_highlighted_words": [
-     "yoga worldwide",
-     "yoga",
-     "next",
-     "Searches",
+     "Yoga",
      "yoga"
     ],
-    "source": "BookRetreats.com",
-    "title": "Latest Yoga Statistics 2026/2027: 60+ Facts, Trends and ..."
+    "source": "Yoga Journal",
+    "title": "Yoga Journal | Yoga Poses - Sequences - Philosophy - Events"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVkZvODZDNUhxeG51VFJWS0UyaWxVdVc5SjdXMV81X0xUX3QweFJmQ3JBTDNJU203Y3FaeVkzNFYyMnRRdktXZ2drTmVEZGp0Y2Q3OVQxelBiMHZtUlNnNEZBNVBqNUllM0pQZVVJNzZzVG1wRzM2SGgSBBoCCAAa_gMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDYAwgAEAAYACAAKmsKCXdvcmxkd2lkZRVY57pAGhBhcm91bmQgdGhlIHdvcmxkGgZnbG9iYWwaCGdsb2JhbGx5GgxpbiB0aGUgd29ybGQaDWludGVybmF0aW9uYWwaDG9mIHRoZSB3b3JsZBoKd29ybGQgd2lkZTKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZGbzg2QzVIcXhudVRSVktFMmlsVXVXOUo3VzFfNV9MVF90MHhSZkNyQUwzSVNtN2NxWnlZMzRWMjJ0UXZLV2dna05lRGRqdGNkNzlUMXpQYjB2bVJTZzRGQTVQajVJZTNKUGVVSTc2c1RtcEczNkhoOhZyLzxiPnlvZ2E8L2I-IC0gUmVkZGl0QrwBVGhlIGluZHVzdHJ5IGZlZWxzIGRyYW1hdGljYWxseSBkaWZmZXJlbnQgbm93IHRoYW4gMTAgPGI-eWVhcnM8L2I-IGFnby4gV2hhdCBoYXMgaGFwcGVuZWQgdG8gPGI-eW9nYTwvYj4_IHRoZXkgc3VkZGVubHkgd2VyZSBjbG9zaW5nIGFmdGVyIDIwKyA8Yj55ZWFyczwvYj4sIFRoaXMgaXMgYSBjb21tdW5pdHkgb2YmbmJzcDsuLi5SATUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVkZvODZDNUhxeG51VFJWS0UyaWxVdVc5SjdXMV81X0xUX3QweFJmQ3JBTDNJU203Y3FaeVkzNFYyMnRRdktXZ2drTmVEZGp0Y2Q3OVQxelBiMHZtUlNnNEZBNVBqNUllM0pQZVVJNzZzVG1wRzM2SGgSBBoCCAAa_gMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDYAwgAEAAYACAAKmsKCXdvcmxkd2lkZRVY57pAGhBhcm91bmQgdGhlIHdvcmxkGgZnbG9iYWwaCGdsb2JhbGx5GgxpbiB0aGUgd29ybGQaDWludGVybmF0aW9uYWwaDG9mIHRoZSB3b3JsZBoKd29ybGQgd2lkZTKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZGbzg2QzVIcXhudVRSVktFMmlsVXVXOUo3VzFfNV9MVF90MHhSZkNyQUwzSVNtN2NxWnlZMzRWMjJ0UXZLV2dna05lRGRqdGNkNzlUMXpQYjB2bVJTZzRGQTVQajVJZTNKUGVVSTc2c1RtcEczNkhoOhZyLzxiPnlvZ2E8L2I-IC0gUmVkZGl0QrwBVGhlIGluZHVzdHJ5IGZlZWxzIGRyYW1hdGljYWxseSBkaWZmZXJlbnQgbm93IHRoYW4gMTAgPGI-eWVhcnM8L2I-IGFnby4gV2hhdCBoYXMgaGFwcGVuZWQgdG8gPGI-eW9nYTwvYj4_IHRoZXkgc3VkZGVubHkgd2VyZSBjbG9zaW5nIGFmdGVyIDIwKyA8Yj55ZWFyczwvYj4sIFRoaXMgaXMgYSBjb21tdW5pdHkgb2YmbmJzcDsuLi5SATUiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "In 2026, yoga is undergoing a significant evolution. Once largely framed as a global fitness practice, it is increasingly recognized as a ...",
-      "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yg8dqTjkAZrbgTTXXN-QCZp544N1HUJtkWH3jL7rV2IPCz6vjBU6YDX_LUAD-9g2F-38_2J1EV_NwWYt6Tk2XhIGFvpgnhVUJDUhgi8mnMDF09h4MgTpizr43DxC7eWHuBj1ZIsAerSi79b8OYH2fWfaRrOxxsIiaCiOCp1wypbz0XEX98bVRWAe5LOUUmXd31H7cyDBK9aVphDQlP4bpOkVIzHNoT_66VQpyCO0iRRrmNZs-vfmZJ5KtNGiq__VpDZ384x2kiPCbxdoh_ID3WdqnZXPw45jR1-_QX-84j_5is5VU1CaKDRtrvq1rw_Iwr-UnwNkWBGbtT_8GqQJ03_yb9sFnuu193rraab6DkBC9a6X4A6e5fAdMF808odbHuX92bwbKIs_WyQYAAhO3Po5bOGoQq48aRqArjtEBh63hH4juPsc39vdAAAA.webp",
-      "source_info_link": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/07/the-science-of-yoga-initiative-trends-for-2026/"
+      "description": "The industry feels dramatically different now than 10 years ago. What has happened to yoga? they suddenly were closing after 20+ years, This is a community of ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/yoga/"
      }
     },
-    "date": "07‏/04‏/2026",
-    "displayed_link": "https://globalwellnessinstitute.org › t...",
-    "favicon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yg8dqTjkAZrbgTTXXN-QCZp544N1HUJtkWH3jL7rV2IPCz6vjBU6YDX_LUAD-9g2F-38_2J1EV_NwWYt6Tk2XhIGFvpgnhVUJDUhgi8mnMDF09h4MgTpizr43DxC7eWHuBj1ZIsAerSi79b8OYH2fWfaRrOxxsIiaCiOCp1wypbz0XEX98bVRWAe5LOUUmXd31H7cyDBK9aVphDQlP4bpOkVIzHNoT_66VQpyCO0iRRrmNZs-vfmZJ5KtNGiq__VpDZ384x2kiPCbxdoh_ID3WdqnZXPw45jR1-_QX-84j_5is5VU1CaKDRtrvq1rw_Iwr-UnwNkWBGbtT_8GqQJ03_yb9sFnuu193rraab6DkBC9a6X4A6e5fAdMF808odbHuX92bwbKIs_WyQYAAhO3Po5bOGoQq48aRqArjtEBh63hH4juPsc39vdAAAA.webp",
-    "link": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/07/the-science-of-yoga-initiative-trends-for-2026/",
+    "displayed_link": "3.4M+ followers",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/yoga/",
     "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStQEB6zswFe6EgpFJQu8816xZToEccueYN_bGZj-VAhbCEbon6cexK7iAIShtz5MzK9h93KM2uUKC29Yg0aGfUFn3l7Aai-_qNSLlljdO6cwAHpXpdSDLemYGY_yWbXt4O4TUz5s5py7P-dgT7JpTVqZv1xTrfgpb0M76ON_iGk6iU4ywQOWW-VjPLGd0sRWE1vBzTNUYVr1uiNzWA0r5weXJWQJDwRRDUnhfXYCcQLsjnMfBasAi&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQFnoECCIQAQ&uoh=1",
-    "snippet": "In 2026, yoga is undergoing a significant evolution. Once largely framed as a global fitness practice, it is increasingly recognized as a ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVFo86C5HqxnuTRVKE2ilUuW9J7W1_5_LT_t0xRfCrAL3ISm7cqZyY34V22tQvKWggkNeDdjtcd79T1zPb0vmRSg4FA5Pj5Ie3JPeUI76sTmpG36Hh&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQFnoECCUQAQ&uoh=1",
+    "snippet": "The industry feels dramatically different now than 10 years ago. What has happened to yoga? they suddenly were closing after 20+ years, This is a community of ...",
     "snippet_highlighted_words": [
+     "years",
      "yoga",
-     "global"
+     "years"
     ],
-    "source": "Global Wellness Institute",
-    "title": "The Science of Yoga Initiative Trends for 2026"
+    "source": "Reddit · r/yoga",
+    "title": "r/yoga"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVno2MlNfNkJKanBjMDdaVERrU0ZOb2RGOTczUTBQbVo0aFQ5R3k1WHFFc1AzMi1UTERLTW5RdDRUbE9pX1RJS2FEVUdGMXFjN2x6QXl4bmk1em12UjhBNFRXMTF6QVNGVkhEVjRpUFNTdHhRMTI5Z18zTnpuN2MwUDlKQjJYbGlDYVESIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVno2MlNfNkJKanBjMDdaVERrU0ZOb2RGOTczUTBQbVo0aFQ5R3k1WHFFc1AzMi1UTERLTW5RdDRUbE9pX1RJS2FEVUdGMXFjN2x6QXl4bmk1em12UjhBNFRXMTF6QVNGVkhEVjRpUFNTdHhRMTI5Z18zTnpuN2MwUDlKQjJYbGlDYVESIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
     "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
      "source": {
-      "description": "This year marks the 20th anniversary of my yoga practice. But wait, before you pull out the trumpets and ribbons: You could argue with me.",
-      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAABwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmfme9hPRtAGoA2wGhVear7DG8mER8ERvvxCc48Ra1i9L3e8hA0Dmfr8FzCUPQAAP72E811v3J_QiZilVrI7Qs9AASyGlD10ddRum55Dkbhv5P_-Th2EyFK-natU0mWHf9xP8seahcXZF29QYWKg11jYNXSzJxqRX0brINBrxNXWXZ_Y30icW8w3r5rD70dJA4KiceDIr92-bkTMDLwP-hJu0Dpd63B-dXYHddHh8l3dhYclbFRTKGMhkPXUZqKgBcS0o8f7J2OWIfbgu2XA6LjSER0pwVBKIGn-77xcrXzhlLo7d1tuaPahJGQ1ioYTogcOacp2Ky-sMtgi-A99pgxT9Y0d3chiW1Qxjwyyxli3xi6u-Q1Y3gBPncBwDr_Jz58TyOrFfNpQAAA.webp",
-      "source_info_link": "https://yogainternational.com/article/view/10-ways-my-practice-has-changed-over-the-past-20-years/?srsltid=AU7gw4W8v0yvyBaDry0WKkHBuJzqz79xTK3OJpT5XAVf3o16_O4ch_l_"
+      "description": "In yoga philosophy, mental overload can be viewed as “citta vritti” or “mind chatter” and this often happens when our awareness becomes clouded ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "displayed_link": "https://yogainternational.com › view",
-    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAABwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmfme9hPRtAGoA2wGhVear7DG8mER8ERvvxCc48Ra1i9L3e8hA0Dmfr8FzCUPQAAP72E811v3J_QiZilVrI7Qs9AASyGlD10ddRum55Dkbhv5P_-Th2EyFK-natU0mWHf9xP8seahcXZF29QYWKg11jYNXSzJxqRX0brINBrxNXWXZ_Y30icW8w3r5rD70dJA4KiceDIr92-bkTMDLwP-hJu0Dpd63B-dXYHddHh8l3dhYclbFRTKGMhkPXUZqKgBcS0o8f7J2OWIfbgu2XA6LjSER0pwVBKIGn-77xcrXzhlLo7d1tuaPahJGQ1ioYTogcOacp2Ky-sMtgi-A99pgxT9Y0d3chiW1Qxjwyyxli3xi6u-Q1Y3gBPncBwDr_Jz58TyOrFfNpQAAA.webp",
-    "link": "https://yogainternational.com/article/view/10-ways-my-practice-has-changed-over-the-past-20-years/?srsltid=AU7gw4W8v0yvyBaDry0WKkHBuJzqz79xTK3OJpT5XAVf3o16_O4ch_l_",
+    "displayed_link": "384.8K+ views · 1 month ago",
+    "duration": "19:16",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=Cl3-Ebtefss",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3AEB6zswFVOEA3hKeij_4ATFjPf9Gi5uGJcND7YMSPlhR0Hb5PPL4DhlLZp9wmtSyJALgVjqYUFKF0Hb95CeYpEg0Ep6s3bSMNU24xJ0hMN059VJTEinFhg6MjNtQg53-Uf_Er7PBWbsFMxmlydtgFyLRjujVNlotTkMNq3Xas2fg69n12n4HUcZDiSshoD_BH_FMlRkRqXC8NXPkQo0lo66Lj6DByodK9XqW2DbT-oSB80Zs7I-_4ImYtn4K2a1i-fQ34thF846rT0VGZXl56V0-kQ-xr9Wd0Jy-Gkt&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQFnoECB0QAQ&uoh=1",
-    "snippet": "This year marks the 20th anniversary of my yoga practice. But wait, before you pull out the trumpets and ribbons: You could argue with me.",
-    "snippet_highlighted_words": [
-     "year",
-     "yoga"
-    ],
-    "source": "Yoga International",
-    "title": "10 Ways My Practice Has Changed Over the Past 20 Years"
+    "snippet": "In yoga philosophy, mental overload can be viewed as “citta vritti” or “mind chatter” and this often happens when our awareness becomes clouded ...",
+    "source": "YouTube · Yoga With Adriene",
+    "thumbnail": "https://serpapi.com/searches/6abd1fe19b762d2c6c834ee6/images/G0QcziXVXMrjRg4LVcFHsiJUBNae0-W5i5sN2Lz7Ezg.jpeg",
+    "title": "Yoga For Anxiety and Overthinking | 20 Minute Practice",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRwG4f7l0SNp37dhiIHFr2JGdsVxnGU-jCqGQ"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVnhMdDdhSnh3MHhlTnp4MVlJSDZhMzVGY1BIUXowRHBxM1JRcENHdkdZcnYxUmVLNjd1ajBrYlhPb1V1QWUxTzlCUzZmRFAta1R4VzdiM0JJVk9wcER1M0xudDdHTWVueTYyT3NhY2ZuSjZQMFhxVRIEGgIIABqBBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsDCAAQABgAIAAqawoJd29ybGR3aWRlFVcQtEAaEGFyb3VuZCB0aGUgd29ybGQaBmdsb2JhbBoIZ2xvYmFsbHkaDGluIHRoZSB3b3JsZBoNaW50ZXJuYXRpb25hbBoMb2YgdGhlIHdvcmxkGgp3b3JsZCB3aWRlMoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVnhMdDdhSnh3MHhlTnp4MVlJSDZhMzVGY1BIUXowRHBxM1JRcENHdkdZcnYxUmVLNjd1ajBrYlhPb1V1QWUxTzlCUzZmRFAta1R4VzdiM0JJVk9wcER1M0xudDdHTWVueTYyT3NhY2ZuSjZQMFhxVToZQm9keSBQb3NpdGl2ZSA8Yj5Zb2dhPC9iPkK9AUJvZHkgUG9zaXRpdmUgPGI-WW9nYTwvYj4sIHdoZXJlIEkgdGVhY2ggYWNjZXNzaWJsZSwgYWRhcHRpdmUgPGI-eW9nYTwvYj4gcHJhY3RpY2UgZm9yIHBlb3BsZSB3aXRoIGJvZGllcyBvZiBhbGwgc2hhcGVzLCBzaXplcywgYW5kIGFiaWxpdGllcy4gSXQgd2lsbCA8Yj5jaGFuZ2U8L2I-IG15IHByYWN0aWNlIGZvciZuYnNwOy4uLlIBNSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVnhMdDdhSnh3MHhlTnp4MVlJSDZhMzVGY1BIUXowRHBxM1JRcENHdkdZcnYxUmVLNjd1ajBrYlhPb1V1QWUxTzlCUzZmRFAta1R4VzdiM0JJVk9wcER1M0xudDdHTWVueTYyT3NhY2ZuSjZQMFhxVRIEGgIIABqBBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsDCAAQABgAIAAqawoJd29ybGR3aWRlFVcQtEAaEGFyb3VuZCB0aGUgd29ybGQaBmdsb2JhbBoIZ2xvYmFsbHkaDGluIHRoZSB3b3JsZBoNaW50ZXJuYXRpb25hbBoMb2YgdGhlIHdvcmxkGgp3b3JsZCB3aWRlMoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVnhMdDdhSnh3MHhlTnp4MVlJSDZhMzVGY1BIUXowRHBxM1JRcENHdkdZcnYxUmVLNjd1ajBrYlhPb1V1QWUxTzlCUzZmRFAta1R4VzdiM0JJVk9wcER1M0xudDdHTWVueTYyT3NhY2ZuSjZQMFhxVToZQm9keSBQb3NpdGl2ZSA8Yj5Zb2dhPC9iPkK9AUJvZHkgUG9zaXRpdmUgPGI-WW9nYTwvYj4sIHdoZXJlIEkgdGVhY2ggYWNjZXNzaWJsZSwgYWRhcHRpdmUgPGI-eW9nYTwvYj4gcHJhY3RpY2UgZm9yIHBlb3BsZSB3aXRoIGJvZGllcyBvZiBhbGwgc2hhcGVzLCBzaXplcywgYW5kIGFiaWxpdGllcy4gSXQgd2lsbCA8Yj5jaGFuZ2U8L2I-IG15IHByYWN0aWNlIGZvciZuYnNwOy4uLlIBNSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Even so, various statistics show that in the United States there's been a steady drop in search interest in \"yoga\" over the past five years, ...",
-      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-      "source_info_link": "https://www.instagram.com/p/DOn7FGyjIOV/?hl=ar"
+      "description": "Body Positive Yoga, where I teach accessible, adaptive yoga practice for people with bodies of all shapes, sizes, and abilities. It will change my practice for ...",
+      "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAABwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmFoDbjc-rpgG8hTEX7s9gY_jm9_bgzRJqpakyNzbgU1ojKy9HNCu0y6LA546QAAP72Dm3HfS5P3_reoUFGOE-JxtFJpowrwNd6gwXpGlYZlVJsST0bB5uoSpCQPHlmlvvfnVrzv42TNLaeOuWpJkJMVFtWKte4B_sU-u-6Tkw2Dp1kH6SuixnhA3DGj9cmX7qlKNH1LnWusS9dlf2Ct9RZjtNdwSq2P2SKx16u8oelc0vfV5dZlz9_RVE21dWSIKg-cTn5jRcqVMpT0MiSY2xa30usBwNwXcfrKPW2yBpRNsBWWBUBj_0DUHRz4PgDtdej_FLYg55S8S2APdjpPV4Xlg8bPo_Mx5v-B72T7ZpsvZE8dQdWfcn1nWpejZ-yc_NmRon3_e-kk88Z-sUVI4rVHglu24mdztFQEpELHrQhz86E9-iN_imyEM57Xu9ACdJ6S7FCNKxefu0LHk4qQKOtBzYP7ZZOlCKv_j6tt_MmMdAOvn_aueCWzv_dvNlTg4vFUF8015Q2-_jMto2ScSPlsvHqrGNyITimcabqEvbUr8UAAAA.webp",
+      "source_info_link": "https://bodypositiveyoga.com/"
      }
     },
-    "displayed_link": "أكثر من 1.1 ألف معجب · قبل سنة واحدة",
-    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "link": "https://www.instagram.com/p/DOn7FGyjIOV/?hl=ar",
+    "displayed_link": "https://bodypositiveyoga.com",
+    "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAABwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmFoDbjc-rpgG8hTEX7s9gY_jm9_bgzRJqpakyNzbgU1ojKy9HNCu0y6LA546QAAP72Dm3HfS5P3_reoUFGOE-JxtFJpowrwNd6gwXpGlYZlVJsST0bB5uoSpCQPHlmlvvfnVrzv42TNLaeOuWpJkJMVFtWKte4B_sU-u-6Tkw2Dp1kH6SuixnhA3DGj9cmX7qlKNH1LnWusS9dlf2Ct9RZjtNdwSq2P2SKx16u8oelc0vfV5dZlz9_RVE21dWSIKg-cTn5jRcqVMpT0MiSY2xa30usBwNwXcfrKPW2yBpRNsBWWBUBj_0DUHRz4PgDtdej_FLYg55S8S2APdjpPV4Xlg8bPo_Mx5v-B72T7ZpsvZE8dQdWfcn1nWpejZ-yc_NmRon3_e-kk88Z-sUVI4rVHglu24mdztFQEpELHrQhz86E9-iN_imyEM57Xu9ACdJ6S7FCNKxefu0LHk4qQKOtBzYP7ZZOlCKv_j6tt_MmMdAOvn_aueCWzv_dvNlTg4vFUF8015Q2-_jMto2ScSPlsvHqrGNyITimcabqEvbUr8UAAAA.webp",
+    "link": "https://bodypositiveyoga.com/",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVOcNHIQ_3xUvqflxbT3ipcIU0GbMFz7LNknarX-kHu85c7-7A5swGazQW4XWaRdCvu2LudZrUnjGpCQdr_H53VinKG-pXBLMZI7MkRa85G2jd-VfLHOVLDuVON6L3TBFu3g&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQFnoECEMQAQ&uoh=1",
-    "snippet": "Even so, various statistics show that in the United States there's been a steady drop in search interest in \"yoga\" over the past five years, ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVxLt7aJxw0xeNzx1YIH6a35FcPHQz0Dpq3RQpCGvGYrv1ReK67uj0kbXOoUuAe1O9BS6fDP-kTxW7b3BIVOppDu3Lnt7GMeny62OsacfnJ6P0XqU&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQFnoECEYQAQ&uoh=1",
+    "snippet": "Body Positive Yoga, where I teach accessible, adaptive yoga practice for people with bodies of all shapes, sizes, and abilities. It will change my practice for ...",
     "snippet_highlighted_words": [
-     "search interest",
+     "Yoga",
      "yoga",
-     "over",
-     "five years"
+     "change"
     ],
-    "source": "Instagram · yoga_medicine",
-    "title": "\"Is yoga still trending? 🤔⁠ ⁠ We guess that depends on ..."
+    "source": "Body Positive Yoga",
+    "title": "Body Positive Yoga"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlNIY0pQbTdVTkNrVWF2dHdURm1vaE9fMzg4V01PdHZTWkY3U3hzUndTYkRCMnFCN1FGY1hTQ043R2lLN0dIcVA3cU5tdGgxdVhBRXNGZDRsMnpSSl9BUUdNMEhjLTRhNHlEUkFPTHJERl90SW9oOGN5dlBrNjc0MU91RnJseGVhRUg2cUNOVmRSZxIEGgIIABq0BBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI4ECAAQABgAIAAqawoJd29ybGR3aWRlFbeuhEAaEGFyb3VuZCB0aGUgd29ybGQaBmdsb2JhbBoIZ2xvYmFsbHkaDGluIHRoZSB3b3JsZBoNaW50ZXJuYXRpb25hbBoMb2YgdGhlIHdvcmxkGgp3b3JsZCB3aWRlMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlNIY0pQbTdVTkNrVWF2dHdURm1vaE9fMzg4V01PdHZTWkY3U3hzUndTYkRCMnFCN1FGY1hTQ043R2lLN0dIcVA3cU5tdGgxdVhBRXNGZDRsMnpSSl9BUUdNMEhjLTRhNHlEUkFPTHJERl90SW9oOGN5dlBrNjc0MU91RnJseGVhRUg2cUNOVmRSZzpHRXhwbG9yaW5nIHRoZSB0aGVyYXBldXRpYyBlZmZlY3RzIG9mIDxiPnlvZ2E8L2I-IGFuZCBpdHMgYWJpbGl0eSB0byAuLi5CpwFSZXN1bHRzIGZyb20gdGhpcyBzdHVkeSBzaG93IHRoYXQgeW9naWMgcHJhY3RpY2VzIGVuaGFuY2UgbXVzY3VsYXIgc3RyZW5ndGggYW5kIGJvZHkgZmxleGliaWxpdHksIHByb21vdGUgYW5kIGltcHJvdmUgcmVzcGlyYXRvcnkgYW5kIGNhcmRpb3Zhc2N1bGFyIGZ1bmN0aW9uLCZuYnNwOy4uLlIBNSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlNIY0pQbTdVTkNrVWF2dHdURm1vaE9fMzg4V01PdHZTWkY3U3hzUndTYkRCMnFCN1FGY1hTQ043R2lLN0dIcVA3cU5tdGgxdVhBRXNGZDRsMnpSSl9BUUdNMEhjLTRhNHlEUkFPTHJERl90SW9oOGN5dlBrNjc0MU91RnJseGVhRUg2cUNOVmRSZxIEGgIIABq0BBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI4ECAAQABgAIAAqawoJd29ybGR3aWRlFbeuhEAaEGFyb3VuZCB0aGUgd29ybGQaBmdsb2JhbBoIZ2xvYmFsbHkaDGluIHRoZSB3b3JsZBoNaW50ZXJuYXRpb25hbBoMb2YgdGhlIHdvcmxkGgp3b3JsZCB3aWRlMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlNIY0pQbTdVTkNrVWF2dHdURm1vaE9fMzg4V01PdHZTWkY3U3hzUndTYkRCMnFCN1FGY1hTQ043R2lLN0dIcVA3cU5tdGgxdVhBRXNGZDRsMnpSSl9BUUdNMEhjLTRhNHlEUkFPTHJERl90SW9oOGN5dlBrNjc0MU91RnJseGVhRUg2cUNOVmRSZzpHRXhwbG9yaW5nIHRoZSB0aGVyYXBldXRpYyBlZmZlY3RzIG9mIDxiPnlvZ2E8L2I-IGFuZCBpdHMgYWJpbGl0eSB0byAuLi5CpwFSZXN1bHRzIGZyb20gdGhpcyBzdHVkeSBzaG93IHRoYXQgeW9naWMgcHJhY3RpY2VzIGVuaGFuY2UgbXVzY3VsYXIgc3RyZW5ndGggYW5kIGJvZHkgZmxleGliaWxpdHksIHByb21vdGUgYW5kIGltcHJvdmUgcmVzcGlyYXRvcnkgYW5kIGNhcmRpb3Zhc2N1bGFyIGZ1bmN0aW9uLCZuYnNwOy4uLlIBNSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "The global yoga market is projected to grow from US$ 125.82 Billion in 2025 to US$ 230 Billion by 2032, registering a CAGR of 9% during the forecast period.",
-      "icon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAADwBQCdASocABwAPrUurVanIacnG_DgFolsAKwg_5ghVaTLgdlDLNS51--olYUicT_77E56PK9zAAD-9wimj2Y9Nvt5H5_fraieRPNDO5w4Ds96-WGS9RGGrGuiUCB_utv4KWw44ZzUnHIX7ZoD_mQ04uPbsWuYeXhBsIYio1dvSF7XUrT8gJnvRkyYwnCP5CrLfyOiQEjb-OW2PHgmNxZUKKx8N4VH67M2L_oI-QZ5-LLOLaFPiK05S6sWJHTXLWT0_hKqrx7x9KRshZnlBFjUxWzhrTTdClaU3V3WnbSKfSnTGAwAAA.webp",
-      "source_info_link": "https://www.persistencemarketresearch.com/market-research/yoga-market.asp"
+      "description": "Results from this study show that yogic practices enhance muscular strength and body flexibility, promote and improve respiratory and cardiovascular function, ...",
+      "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+      "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3193654/"
      }
     },
-    "displayed_link": "https://www.persistencemarketresearch.com › ...",
-    "favicon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAADwBQCdASocABwAPrUurVanIacnG_DgFolsAKwg_5ghVaTLgdlDLNS51--olYUicT_77E56PK9zAAD-9wimj2Y9Nvt5H5_fraieRPNDO5w4Ds96-WGS9RGGrGuiUCB_utv4KWw44ZzUnHIX7ZoD_mQ04uPbsWuYeXhBsIYio1dvSF7XUrT8gJnvRkyYwnCP5CrLfyOiQEjb-OW2PHgmNxZUKKx8N4VH67M2L_oI-QZ5-LLOLaFPiK05S6sWJHTXLWT0_hKqrx7x9KRshZnlBFjUxWzhrTTdClaU3V3WnbSKfSnTGAwAAA.webp",
-    "link": "https://www.persistencemarketresearch.com/market-research/yoga-market.asp",
+    "author": "by C Woodyard",
+    "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC3193654",
+    "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3193654/",
     "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFQkdwKOlOG2Xz3DyLZSyGHxJkKLxeZ1LOOgY3RVIN2u8hvhZybFA0mQ4wJ1j31pnrDHxwztCHIDNyVF9Tgvg0E4CMJcEhPAnhaf26tgTYb4BQhvHtERV7Skq8huJTWSu8ZGFluK9MfHu-DqWl2i95_EerCIUbi241GZdKGo&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQFnoECEUQAQ&uoh=1",
-    "snippet": "The global yoga market is projected to grow from US$ 125.82 Billion in 2025 to US$ 230 Billion by 2032, registering a CAGR of 9% during the forecast period.",
-    "snippet_highlighted_words": [
-     "global yoga"
-    ],
-    "source": "Persistence Market Research",
-    "title": "Yoga Market Size, Overview & Competitive Landscape, 2032"
+    "read_more_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3193654/#:~:text=Results%20from%20this%20study%20show,improve%20respiratory%20and%20cardiovascular%20function%2C",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVSHcJPm7UNCkUavtwTFmohO_388WMOtvSZF7SxsRwSbDB2qB7QFcXSCN7GiK7GHqP7qNmth1uXAEsFd4l2zRJ_AQGM0Hc-4a4yDRAOLrDF_tIoh8cyvPk6741OuFrlxeaEH6qCNVdRg&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQFnoECEsQAQ&uoh=1",
+    "snippet": "Results from this study show that yogic practices enhance muscular strength and body flexibility, promote and improve respiratory and cardiovascular function, ...",
+    "source": "National Institutes of Health (NIH) | (.gov)",
+    "title": "Exploring the therapeutic effects of yoga and its ability to ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWbGZ4V00za0lxQVNvSjdwMjhQZW9RZmRWM1ZranVpajZOYl9WNDdPWG1abVRRNkxxdERnMVItZy0zMWJPMlE1dS1OVWZhWlVwaV9Sb0R5UWhzaHc1NWRJenJoWnZRREJ3c2lLNU93EgQaAggAGpAEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gMIABAAGAAgACprCgl3b3JsZHdpZGUV68PfQBoQYXJvdW5kIHRoZSB3b3JsZBoGZ2xvYmFsGghnbG9iYWxseRoMaW4gdGhlIHdvcmxkGg1pbnRlcm5hdGlvbmFsGgxvZiB0aGUgd29ybGQaCndvcmxkIHdpZGUyfC9nb3RvP3VybD1DQUVTVVFIck96QVZsZnhXTTNrSXFBU29KN3AyOFBlb1FmZFYzVmtqdWlqNk5iX1Y0N09YbVptVFE2THF0RGcxUi1nLTMxYk8yUTV1LU5VZmFaVXBpX1JvRHlRaHNodzU1ZEl6cmhadlFEQndzaUs1T3c6KExldCYjMzk7cyBUYWxrIDxiPllvZ2E8L2I-OiBQb2RjYXN0IEhvbWVCxwFUaHJvdWdoIGhlciBwb2RjYXN0LCA8Yj55b2dhPC9iPiB0ZWFjaGVyIHRyYWluaW5ncywgb25saW5lIGNsYXNzZXMsIDxiPnlvZ2E8L2I-IHN0dWRpbywgJmFtcDsgYmxvZ3MsIEFydW5kaGF0aSBzaGFyZXMgYW5kIGVtcG93ZXJzIDxiPnlvZ2E8L2I-IHRlYWNoZXJzIGFuZCBzdHVkZW50cyBhbGlrZS4gV2l0aCA8Yj5vdmVyPC9iPiBhJm5ic3A7Li4uUgE1IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWbGZ4V00za0lxQVNvSjdwMjhQZW9RZmRWM1ZranVpajZOYl9WNDdPWG1abVRRNkxxdERnMVItZy0zMWJPMlE1dS1OVWZhWlVwaV9Sb0R5UWhzaHc1NWRJenJoWnZRREJ3c2lLNU93EgQaAggAGpAEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gMIABAAGAAgACprCgl3b3JsZHdpZGUV68PfQBoQYXJvdW5kIHRoZSB3b3JsZBoGZ2xvYmFsGghnbG9iYWxseRoMaW4gdGhlIHdvcmxkGg1pbnRlcm5hdGlvbmFsGgxvZiB0aGUgd29ybGQaCndvcmxkIHdpZGUyfC9nb3RvP3VybD1DQUVTVVFIck96QVZsZnhXTTNrSXFBU29KN3AyOFBlb1FmZFYzVmtqdWlqNk5iX1Y0N09YbVptVFE2THF0RGcxUi1nLTMxYk8yUTV1LU5VZmFaVXBpX1JvRHlRaHNodzU1ZEl6cmhadlFEQndzaUs1T3c6KExldCYjMzk7cyBUYWxrIDxiPllvZ2E8L2I-OiBQb2RjYXN0IEhvbWVCxwFUaHJvdWdoIGhlciBwb2RjYXN0LCA8Yj55b2dhPC9iPiB0ZWFjaGVyIHRyYWluaW5ncywgb25saW5lIGNsYXNzZXMsIDxiPnlvZ2E8L2I-IHN0dWRpbywgJmFtcDsgYmxvZ3MsIEFydW5kaGF0aSBzaGFyZXMgYW5kIGVtcG93ZXJzIDxiPnlvZ2E8L2I-IHRlYWNoZXJzIGFuZCBzdHVkZW50cyBhbGlrZS4gV2l0aCA8Yj5vdmVyPC9iPiBhJm5ic3A7Li4uUgE1IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "The global yoga market size was valued at USD 127.0 billion in 2025 and is projected to grow from USD 138.7 billion in 2026 to USD 269.1 billion by 2033, ...",
-      "icon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAACwBQCdASogACAAPtEutFooIagoGAEAGglsALEfNELItEc7-xoHWcdeiMxKWvhHQl4Efhl4XQAA_v0UqAO0sGu2-L3ZG2bT_8XW9r_CCEnbeEqqglPeEH_8Nf-EoFxF-KCHl2C6F-IzXVWzpcYQCodVnNjzVpdcfh-8asPzaA-xz0N7SsnG9x-yxXyvdrlMDtEazsJCh_Ds7toXUGI5iVSm39JQe_yiAdyDkaDCfWRE4RuG6_2BKRFTU7JafeHSXT1zGRsXpH_wpDpm0AAkPk_23xgAAA.webp",
-      "source_info_link": "https://www.grandviewresearch.com/industry-analysis/yoga-market-report"
+      "description": "Through her podcast, yoga teacher trainings, online classes, yoga studio, & blogs, Arundhati shares and empowers yoga teachers and students alike. With over a ...",
+      "icon": "https://serpapi.com/images/i/UklGRhwCAABXRUJQVlA4IBACAACQCQCdASogACAAAsBMJbACdMoRwJoM4EGA2yO4A3gD0AOmAswQ7uL5WA191jpyBDLvGb9KejBvqH7RnFXctCkSo44m7T5HG_wmf30rFBwOvO3bezAAAP76rfCPkdRARvyAdnSGmiRfpwCqJRSTWIECjekUzn_hhVVAsl1xOilMCCVPNSq-fXntArIAojUFXjRSW6lRvNOPgHjov1KnvM908D_4iMfBmRL3Be7xoD1NRa0YpEoKGJ11kYqnzZmWwd0yMMw4YUr7Xtz1eBmfHWrfpuxC2Sqff5O8hup4659-dKicFkS48e8ASMt0vcr_xNTtu9uWdLBVKXQcqfs2MCciH8DWi0h8tRt9g0ugmzbUmNkXOFpEK3mIh5CBW2IEqqFWUU8EOAeYgXSAQxntKdAtl7bEjxB_v5Pnhv9hs7qPWn4qy1c2M2jLQ6QMCo9-o3-8JpQz81h8fWxFkVgPultg4TMgWibtZMUYE1pREnx0wESh1q9MvmmuC5GnhPiwUZIl_VLZZBoDQe6r_6W89r_Wuo9lBzOnkkqYdXzu12QD3gRTIpX--T_NFRhVtWpxrANdfms7FJNtbVeYxKOP2fgSsEIMiq94OI91jaIU-KkdV7IcKBY2Y_-A6JvELwMAffO16McaMuYehseeND-vsozF61y5nBfjWygBTKQ1JB-z205rgeIpZYsomXaQvVcAAAA.webp",
+      "source_info_link": "https://letstalk.yoga/"
      }
     },
-    "displayed_link": "https://www.grandviewresearch.com › ...",
-    "favicon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAACwBQCdASogACAAPtEutFooIagoGAEAGglsALEfNELItEc7-xoHWcdeiMxKWvhHQl4Efhl4XQAA_v0UqAO0sGu2-L3ZG2bT_8XW9r_CCEnbeEqqglPeEH_8Nf-EoFxF-KCHl2C6F-IzXVWzpcYQCodVnNjzVpdcfh-8asPzaA-xz0N7SsnG9x-yxXyvdrlMDtEazsJCh_Ds7toXUGI5iVSm39JQe_yiAdyDkaDCfWRE4RuG6_2BKRFTU7JafeHSXT1zGRsXpH_wpDpm0AAkPk_23xgAAA.webp",
-    "link": "https://www.grandviewresearch.com/industry-analysis/yoga-market-report",
+    "displayed_link": "https://letstalk.yoga",
+    "favicon": "https://serpapi.com/images/i/UklGRhwCAABXRUJQVlA4IBACAACQCQCdASogACAAAsBMJbACdMoRwJoM4EGA2yO4A3gD0AOmAswQ7uL5WA191jpyBDLvGb9KejBvqH7RnFXctCkSo44m7T5HG_wmf30rFBwOvO3bezAAAP76rfCPkdRARvyAdnSGmiRfpwCqJRSTWIECjekUzn_hhVVAsl1xOilMCCVPNSq-fXntArIAojUFXjRSW6lRvNOPgHjov1KnvM908D_4iMfBmRL3Be7xoD1NRa0YpEoKGJ11kYqnzZmWwd0yMMw4YUr7Xtz1eBmfHWrfpuxC2Sqff5O8hup4659-dKicFkS48e8ASMt0vcr_xNTtu9uWdLBVKXQcqfs2MCciH8DWi0h8tRt9g0ugmzbUmNkXOFpEK3mIh5CBW2IEqqFWUU8EOAeYgXSAQxntKdAtl7bEjxB_v5Pnhv9hs7qPWn4qy1c2M2jLQ6QMCo9-o3-8JpQz81h8fWxFkVgPultg4TMgWibtZMUYE1pREnx0wESh1q9MvmmuC5GnhPiwUZIl_VLZZBoDQe6r_6W89r_Wuo9lBzOnkkqYdXzu12QD3gRTIpX--T_NFRhVtWpxrANdfms7FJNtbVeYxKOP2fgSsEIMiq94OI91jaIU-KkdV7IcKBY2Y_-A6JvELwMAffO16McaMuYehseeND-vsozF61y5nBfjWygBTKQ1JB-z205rgeIpZYsomXaQvVcAAAA.webp",
+    "link": "https://letstalk.yoga/",
     "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVVF0iDFVawW8EjZWI80z_ljbxYg7xPcNpuyRC5L3eV9y73sKh72xiJrViO1wdzmIrqqK17SMzeFZQwfFe_1a_IAvPok5bUH5VOXbS-8EvY6FcBWKUzXtMD_LevTcXynzqXLcGHm0KZ-qstNzwe4EEV7pUlWv_1scIoA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQFnoECEAQAQ&uoh=1",
-    "snippet": "The global yoga market size was valued at USD 127.0 billion in 2025 and is projected to grow from USD 138.7 billion in 2026 to USD 269.1 billion by 2033, ...",
+    "read_more_link": "https://letstalk.yoga/#:~:text=Through%20her%20podcast%2C%20yoga%20teacher,live%20their%20yoga%20in%20business.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVlfxWM3kIqASoJ7p28PeoQfdV3Vkjuij6Nb_V47OXmZmTQ6LqtDg1R-g-31bO2Q5u-NUfaZUpi_RoDyQhshw55dIzrhZvQDBwsiK5Ow&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQFnoECEUQAQ&uoh=1",
+    "snippet": "Through her podcast, yoga teacher trainings, online classes, yoga studio, & blogs, Arundhati shares and empowers yoga teachers and students alike. With over a ...",
     "snippet_highlighted_words": [
-     "global yoga"
+     "yoga",
+     "yoga",
+     "yoga",
+     "over"
     ],
-    "source": "Grand View Research",
-    "title": "Yoga Market Size, Share And Trends Report, 2026-2033"
+    "source": "Let's Talk Yoga",
+    "title": "Let's Talk Yoga: Podcast Home"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=10&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8NMDegQIOxAW",
+   "next": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&ei=8B-9av-2OMbU5NoPrq-1gQY&start=10&sa=N&sstk=AS6-VmK_Ze4NhSdFi22Jbe_o6Ttw3lCuGEqzQomvZOn1-bWkldcODnc8duuUiwS3gQJWwwz83y6OWfEVQG-4NDy86RUJ7-Nv2xJiYQ&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ8NMDegQIORAK",
    "other_pages": {
-    "10": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=90&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8tMDegQIOxAU",
-    "2": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=10&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8tMDegQIOxAE",
-    "3": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=20&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8tMDegQIOxAG",
-    "4": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=30&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8tMDegQIOxAI",
-    "5": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=40&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8tMDegQIOxAK",
-    "6": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=50&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8tMDegQIOxAM",
-    "7": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=60&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8tMDegQIOxAO",
-    "8": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=70&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8tMDegQIOxAQ",
-    "9": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=646215d9fbd2647e&sxsrf=APpeQnucplMOPn9sCL3bOueAEQfUIOw29w:1789904332059&ei=zMWvarSaA7__ptQPrOWm0Ak&start=80&sa=N&sstk=AS6-VmK1mvKHtftydOfw9hm5Kg1x2FalTyoNbwuUjfR1YboNSac-7WGStdOACIw0iJuGllrj14mvVBxrvnURRXjdWTkouZ4FAQKoUA&ved=2ahUKEwi0sJOfif2WAxW_v4kEHayyCZoQ8tMDegQIOxAS"
+    "2": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&ei=8B-9av-2OMbU5NoPrq-1gQY&start=10&sa=N&sstk=AS6-VmK_Ze4NhSdFi22Jbe_o6Ttw3lCuGEqzQomvZOn1-bWkldcODnc8duuUiwS3gQJWwwz83y6OWfEVQG-4NDy86RUJ7-Nv2xJiYQ&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ8tMDegQIORAE",
+    "3": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&ei=8B-9av-2OMbU5NoPrq-1gQY&start=20&sa=N&sstk=AS6-VmK_Ze4NhSdFi22Jbe_o6Ttw3lCuGEqzQomvZOn1-bWkldcODnc8duuUiwS3gQJWwwz83y6OWfEVQG-4NDy86RUJ7-Nv2xJiYQ&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ8tMDegQIORAG",
+    "4": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&ei=8B-9av-2OMbU5NoPrq-1gQY&start=30&sa=N&sstk=AS6-VmK_Ze4NhSdFi22Jbe_o6Ttw3lCuGEqzQomvZOn1-bWkldcODnc8duuUiwS3gQJWwwz83y6OWfEVQG-4NDy86RUJ7-Nv2xJiYQ&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ8tMDegQIORAI"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMySnFWMEpZWkVodE9IZEhRa1Z0TlRCS01GTTFPVVI0ZDBOc09FbHJiMU15UXpNeFVGTTBTRXhYT1hZeWRYWTVVVFpuUVRaR1NHVnhUQzFpTVRsUlZFVXlhamhPWDJFdFVrSkNTV2hRYURCTVdtTXdjVjl1ZVcxMlp4SVhlazFYZG1GeVUyRkJOMTlmY0hSUlVISlBWMjB3UVdzYUlrRkVjM0k1WmxGUVJFOWFUa3hIUTFaNmVERnpNbWcwTjJnMWJ6SjBWMHM1UTJjIiwiZmN2IjoiMyIsImVpIjoiek1XdmFyU2FBN19fcHRRUHJPV20wQWsiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFmR2hvXyIsInF1ZXN0aW9uIjoiSXMgeW9nYSBpbmNyZWFzaW5nIGluIHBvcHVsYXJpdHk/IiwibGsiOiJHaUJwY3lCNWIyZGhJR2x1WTNKbFlYTnBibWNnYVc0Z2NHOXdkV3hoY21sMGVRIiwiYnMiOiJjNVdQUHd2Q01CQkhjYzNrM09rVXE0T0QyaV9RVFhIU3ljNW5tamFCTmxlU2xKQnZiLXBmaElLNDNmQi03M2pzd0daSEM0RnFCS1c1RVdpVnJ1TUpIWFY5ZzBhNWtHZnpCTlFQaUoxWVdraDBVS29TenRRSjJCdlVQTTRzQnNBcjllNHV5TE5sc3ZBdnNCdkFhaFJrRjdZdXBPSVNPUFhhbVFBU0xUZ3BvQ1ViMTZKRlhVSkY1cWxkSmFuX3dxTnhqR1NDYlFzWjNrRTFLajNVZkZJQXVTSDctT1hKTkdXZTdaS05fMjh6bmR3QSIsImlkIjoiZmNfek1XdmFyU2FBN19fcHRRUHJPV20wQWtfNCJ9",
-    "page_token": "82py4XicHdBdjqIwAADg7GXmcaQF3GhiNkFblERcCq20L5PSimh_YFZGdN7mLnuqPc0m8x3h-_prL978-3HvxnG4LWezaZpez31_tqdX1buZvD29milpbSOVWc5_zsGvVq3Qxy5Zv--Sgg4D25CgZDygqNvqOrHUM8QN8AxOIznikCLQF479LhHYN4zsq1Qnwmi7hziSSHfHYxRRTxy_8ujkmKlSCyjNWmHAOocD55W9lk_wOKGxbqxwhzS2gmWXA8ZRFTyM3CatDll8SIUozDBKjxGB2cjhFOXwEalNV-gUzBXNdiUFmHiBpU3uyp9h4_I7v2Zxk4KUOBzLgHxQtvCo0_OKacjrrOIUhTVYTBrjQplF3VRJIh_9paDkU12tozZf12EfFyaj5Sb_FGBRk3Afsm0fCHh7EmTfafHSqvsqfPn-XL21blwOf_rzf9_ygQo",
-    "question": "Is yoga increasing in popularity?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=82py4XicHdBdjqIwAADg7GXmcaQF3GhiNkFblERcCq20L5PSimh_YFZGdN7mLnuqPc0m8x3h-_prL978-3HvxnG4LWezaZpez31_tqdX1buZvD29milpbSOVWc5_zsGvVq3Qxy5Zv--Sgg4D25CgZDygqNvqOrHUM8QN8AxOIznikCLQF479LhHYN4zsq1Qnwmi7hziSSHfHYxRRTxy_8ujkmKlSCyjNWmHAOocD55W9lk_wOKGxbqxwhzS2gmWXA8ZRFTyM3CatDll8SIUozDBKjxGB2cjhFOXwEalNV-gUzBXNdiUFmHiBpU3uyp9h4_I7v2Zxk4KUOBzLgHxQtvCo0_OKacjrrOIUhTVYTBrjQplF3VRJIh_9paDkU12tozZf12EfFyaj5Sb_FGBRk3Afsm0fCHh7EmTfafHSqvsqfPn-XL21blwOf_rzf9_ygQo",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMySnFWMEpZWkVodE9IZEhRa1Z0TlRCS01GTTFPVVI0ZDBOc09FbHJiMU15UXpNeFVGTTBTRXhYT1hZeWRYWTVVVFpuUVRaR1NHVnhUQzFpTVRsUlZFVXlhamhPWDJFdFVrSkNTV2hRYURCTVdtTXdjVjl1ZVcxMlp4SVhlazFYZG1GeVUyRkJOMTlmY0hSUlVISlBWMjB3UVdzYUlrRkVjM0k1WmxGUVJFOWFUa3hIUTFaNmVERnpNbWcwTjJnMWJ6SjBWMHM1UTJjIiwiZmN2IjoiMyIsImVpIjoiek1XdmFyU2FBN19fcHRRUHJPV20wQWsiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFmR2hvXyIsInF1ZXN0aW9uIjoiSXMgeW9nYSBpbmNyZWFzaW5nIGluIHBvcHVsYXJpdHk%2FIiwibGsiOiJHaUJwY3lCNWIyZGhJR2x1WTNKbFlYTnBibWNnYVc0Z2NHOXdkV3hoY21sMGVRIiwiYnMiOiJjNVdQUHd2Q01CQkhjYzNrM09rVXE0T0QyaV9RVFhIU3ljNW5tamFCTmxlU2xKQnZiLXBmaElLNDNmQi03M2pzd0daSEM0RnFCS1c1RVdpVnJ1TUpIWFY5ZzBhNWtHZnpCTlFQaUoxWVdraDBVS29TenRRSjJCdlVQTTRzQnNBcjllNHV5TE5sc3ZBdnNCdkFhaFJrRjdZdXBPSVNPUFhhbVFBU0xUZ3BvQ1ViMTZKRlhVSkY1cWxkSmFuX3dxTnhqR1NDYlFzWjNrRTFLajNVZkZJQXVTSDctT1hKTkdXZTdaS05fMjh6bmR3QSIsImlkIjoiZmNfek1XdmFyU2FBN19fcHRRUHJPV20wQWtfNCJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtNTFOalV5Um5WYU5sbFVZVTl1YTJjeFduRkRhMmRaY0dadlduSkVURWg0TWs5TmRWaEVTVFV0ZFcxdVVrbDNkazVZV2tORVJIbzJURVpEUjI1YVJ6RlRlRWhVWHpKMU4yTk1hM1kxVDBWVmNGVjBNRk00WDBoMmR4SVhPRUl0T1dGMkxUSlBUV0pWTlU1dlVISnhMVEZuVVZrYUlrRkVjM0k1WmxGM2VqVkRlVzQ0TjBzMVRGbHBSMWRGWmxkRlYxSjRVMTlmZUhjIiwiZmN2IjoiMyIsImVpIjoiOEItOWF2LTJPTWJVNU5vUHJxLTFnUVkiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFXRGkwXyIsInF1ZXN0aW9uIjoiSXMgeW9nYSBsZXNzIHBvcHVsYXIgbm93PyIsImxrIjoiR2hocGN5QjViMmRoSUd4bGMzTWdjRzl3ZFd4aGNpQnViM2MiLCJicyI6ImMzWE9NUS1DTUJBRjRMamU1S1kweHR5Z2pnNHNqblV5TVE2Nk1aOXcwQ2JZTm0wSjRkLUxoRzY0dnZmZHk4RUZzbnZBd1RhRUxZZUF6cnF1SllfRzlqSVhZcXZfbFBDRVk2RW9ZcVVyZkZuSGVQTmt5cEVIR3BEZXRvdlRvY3hQNHRBbjZINndYb1J3aFYyaGhuRTdUbzJoRDRYSXFNMjhnMkxmejMyMFN3UWVjSjVlSXM4WUZhUG5razNFV3B0S215WWtOLWFCeVpkSzVwbll6Q2hsQ2ExWFh3IiwiaWQiOiJmY184Qi05YXYtMk9NYlU1Tm9QcnEtMWdRWV81In0=",
+    "page_token": "SMl9nHicHdDNboIwAADg7GU8zhaGCyZmCWrRTmC0pWAvCxT5kSJViYi3vcueak-zZffv9H19q_rU_DwlVd_r63w6HYbhuey6Uh2eZddO0-t4klOZKpWlspnPXmfwrZCL9XVwlt3ghJHWfEUANcVH5m5fPMMCBDpWYuiKRvaaHQkOXFjksX1jHLvUvfeZQi1vqvjgNoafOLVE-M9ixlBuCVRt6ca7sxouRata0WImYn3xkN75gGNhklBCNcab0PLi3s9WvisfWHOz8uQKn72VeKdxY1Fk98Ga1OJU6bQliid47QN7RsHeyhJxDqM9RY9quWOqymswMgBrzniQQWeUFNwFRMKtsUM2_hjEglBDFVGCAIPkEbUERdHe4Efsx6g0JEDMV7kzKeRtYU7-xxafRdvP9aUrfwHkjXZx",
+    "question": "Is yoga less popular now?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SMl9nHicHdDNboIwAADg7GU8zhaGCyZmCWrRTmC0pWAvCxT5kSJViYi3vcueak-zZffv9H19q_rU_DwlVd_r63w6HYbhuey6Uh2eZddO0-t4klOZKpWlspnPXmfwrZCL9XVwlt3ghJHWfEUANcVH5m5fPMMCBDpWYuiKRvaaHQkOXFjksX1jHLvUvfeZQi1vqvjgNoafOLVE-M9ixlBuCVRt6ca7sxouRata0WImYn3xkN75gGNhklBCNcab0PLi3s9WvisfWHOz8uQKn72VeKdxY1Fk98Ga1OJU6bQliid47QN7RsHeyhJxDqM9RY9quWOqymswMgBrzniQQWeUFNwFRMKtsUM2_hjEglBDFVGCAIPkEbUERdHe4Efsx6g0JEDMV7kzKeRtYU7-xxafRdvP9aUrfwHkjXZx",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtNTFOalV5Um5WYU5sbFVZVTl1YTJjeFduRkRhMmRaY0dadlduSkVURWg0TWs5TmRWaEVTVFV0ZFcxdVVrbDNkazVZV2tORVJIbzJURVpEUjI1YVJ6RlRlRWhVWHpKMU4yTk1hM1kxVDBWVmNGVjBNRk00WDBoMmR4SVhPRUl0T1dGMkxUSlBUV0pWTlU1dlVISnhMVEZuVVZrYUlrRkVjM0k1WmxGM2VqVkRlVzQ0TjBzMVRGbHBSMWRGWmxkRlYxSjRVMTlmZUhjIiwiZmN2IjoiMyIsImVpIjoiOEItOWF2LTJPTWJVNU5vUHJxLTFnUVkiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFXRGkwXyIsInF1ZXN0aW9uIjoiSXMgeW9nYSBsZXNzIHBvcHVsYXIgbm93PyIsImxrIjoiR2hocGN5QjViMmRoSUd4bGMzTWdjRzl3ZFd4aGNpQnViM2MiLCJicyI6ImMzWE9NUS1DTUJBRjRMamU1S1kweHR5Z2pnNHNqblV5TVE2Nk1aOXcwQ2JZTm0wSjRkLUxoRzY0dnZmZHk4RUZzbnZBd1RhRUxZZUF6cnF1SllfRzlqSVhZcXZfbFBDRVk2RW9ZcVVyZkZuSGVQTmt5cEVIR3BEZXRvdlRvY3hQNHRBbjZINndYb1J3aFYyaGhuRTdUbzJoRDRYSXFNMjhnMkxmejMyMFN3UWVjSjVlSXM4WUZhUG5razNFV3B0S215WWtOLWFCeVpkSzVwbll6Q2hsQ2ExWFh3IiwiaWQiOiJmY184Qi05YXYtMk9NYlU1Tm9QcnEtMWdRWV81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMySnFWMEpZWkVodE9IZEhRa1Z0TlRCS01GTTFPVVI0ZDBOc09FbHJiMU15UXpNeFVGTTBTRXhYT1hZeWRYWTVVVFpuUVRaR1NHVnhUQzFpTVRsUlZFVXlhamhPWDJFdFVrSkNTV2hRYURCTVdtTXdjVjl1ZVcxMlp4SVhlazFYZG1GeVUyRkJOMTlmY0hSUlVISlBWMjB3UVdzYUlrRkVjM0k1WmxGUVJFOWFUa3hIUTFaNmVERnpNbWcwTjJnMWJ6SjBWMHM1UTJjIiwiZmN2IjoiMyIsImVpIjoiek1XdmFyU2FBN19fcHRRUHJPV20wQWsiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFmR2hvXyIsInF1ZXN0aW9uIjoiV2hhdCBkaWQgUG9wZSBGcmFuY2lzIHNheSBhYm91dCB5b2dhPyIsImxrIjoiR2lSM2FHRjBJR1JwWkNCd2IzQmxJR1p5WVc1amFYTWdjMkY1SUdGaWIzVjBJSGx2WjJFIiwiYnMiOiJjNVdQUHd2Q01CQkhjYzNrM09rVXE0T0QyaV9RVFhIU3ljNW5tamFCTmxlU2xKQnZiLXBmaElLNDNmQi03M2pzd0daSEM0RnFCS1c1RVdpVnJ1TUpIWFY5ZzBhNWtHZnpCTlFQaUoxWVdraDBVS29TenRRSjJCdlVQTTRzQnNBcjllNHV5TE5sc3ZBdnNCdkFhaFJrRjdZdXBPSVNPUFhhbVFBU0xUZ3BvQ1ViMTZKRlhVSkY1cWxkSmFuX3dxTnhqR1NDYlFzWjNrRTFLajNVZkZJQXVTSDctT1hKTkdXZTdaS05fMjh6bmR3QSIsImlkIjoiZmNfek1XdmFyU2FBN19fcHRRUHJPV20wQWtfNCJ9",
-    "page_token": "54Y7i3icHdBfcqIwHADg2cv0sYbFtcUZpzOIVmObFcgfyMtOSNRIfhC60iK-9S49VU-zM_sd4fv8gnPrvn982L7vLvPJZBiG-5P3Jzjca99M1GVs9UQrgEppN589zIKno16s3rfx8m0bp6zreJKhXDwOCvGuvPENC_hOBXaXtXYrBOwP1MhKZBv1fG0Y4EEivJQs6oSTuQFDXgpQHJG14TgoQje-3mJcQVRysOh1Y8e05q4UBJu6DEli9qrgM-0gpmDeZPProlG3eyn8kAsIDo3pBfiR1dhrhC9ZAlau7HPqopog3ueh_Z2LjOqan0kYE4qkr1reZi0AEeu9DqKWJzheWTOj3PwsC0xLtgqLIBrMep1qFxUVjWN19eeUZTddQ8MTd6PLYEpZdq2QH2hdTiuGU5mwKXdkT5wcWXp31B-L8O7_5-LPsenn3V9_-gdArYRm",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtNTFOalV5Um5WYU5sbFVZVTl1YTJjeFduRkRhMmRaY0dadlduSkVURWg0TWs5TmRWaEVTVFV0ZFcxdVVrbDNkazVZV2tORVJIbzJURVpEUjI1YVJ6RlRlRWhVWHpKMU4yTk1hM1kxVDBWVmNGVjBNRk00WDBoMmR4SVhPRUl0T1dGMkxUSlBUV0pWTlU1dlVISnhMVEZuVVZrYUlrRkVjM0k1WmxGM2VqVkRlVzQ0TjBzMVRGbHBSMWRGWmxkRlYxSjRVMTlmZUhjIiwiZmN2IjoiMyIsImVpIjoiOEItOWF2LTJPTWJVNU5vUHJxLTFnUVkiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFXRGkwXyIsInF1ZXN0aW9uIjoiV2hhdCBkaWQgUG9wZSBGcmFuY2lzIHNheSBhYm91dCB5b2dhPyIsImxrIjoiR2lSM2FHRjBJR1JwWkNCd2IzQmxJR1p5WVc1amFYTWdjMkY1SUdGaWIzVjBJSGx2WjJFIiwiYnMiOiJjM1hPTVEtQ01CQUY0TGplNUtZMHh0eWdqZzRzam5VeU1RNjZNWjl3MENiWU5tMEo0ZC1MaEc2NHZ2ZmR5OEVGc252QXdUYUVMWWVBenJxdUpZX0c5aklYWXF2X2xQQ0VZNkVvWXFVcmZGbkhlUE5reXBFSEdwRGV0b3ZUb2N4UDR0QW42SDZ3WG9Sd2hWMmhobkU3VG8yaEQ0WElxTTI4ZzJMZnozMjBTd1FlY0o1ZUlzOFlGYVBua2szRVdwdEtteVlrTi1hQnlaZEs1cG5ZekNobENhMVhYdyIsImlkIjoiZmNfOEItOWF2LTJPTWJVNU5vUHJxLTFnUVlfNSJ9",
+    "page_token": "AIZ5pnicHdDLToNAFADQ-DMuLUOhhiaNCRZaGmcsFy6vjaEz9jXDgJZ2Wnb-i1_l12jcn9X5-lYHLX_uLvu-707T0cgY87Br2516f-BtM6pPN81HvFZqU3M5nTxOyNOWz4Jz5D9_RH6MXZfNwUr0npS2x2ixyujAjFhKCxq3FQQcTroPIFVKm9WflVdIS5sNzM3Rq9Hu1nUY3YTFHTEWk2yRnelS5WnobzdjEaH2Oziy16QQi5ccakzDMarwWllkKQiaymbnjeWRTbGasyNz2BBG73O042I_YYXQcRMOUPgp19LEdoiFDVAlpKZzWOAgThzdHgLok0xJJMGVamqqY-UHe-7EB8sti7Kn0mOlQpI2Xsx10NNcQA7tIUYY-FE1KFWQ6N2NBsIHy_SAVysjlZtJssbm5CQ6rIS53_LLbHz__zl72zb9tPtsd7_IhYIc",
     "question": "What did Pope Francis say about yoga?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=54Y7i3icHdBfcqIwHADg2cv0sYbFtcUZpzOIVmObFcgfyMtOSNRIfhC60iK-9S49VU-zM_sd4fv8gnPrvn982L7vLvPJZBiG-5P3Jzjca99M1GVs9UQrgEppN589zIKno16s3rfx8m0bp6zreJKhXDwOCvGuvPENC_hOBXaXtXYrBOwP1MhKZBv1fG0Y4EEivJQs6oSTuQFDXgpQHJG14TgoQje-3mJcQVRysOh1Y8e05q4UBJu6DEli9qrgM-0gpmDeZPProlG3eyn8kAsIDo3pBfiR1dhrhC9ZAlau7HPqopog3ueh_Z2LjOqan0kYE4qkr1reZi0AEeu9DqKWJzheWTOj3PwsC0xLtgqLIBrMep1qFxUVjWN19eeUZTddQ8MTd6PLYEpZdq2QH2hdTiuGU5mwKXdkT5wcWXp31B-L8O7_5-LPsenn3V9_-gdArYRm",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMySnFWMEpZWkVodE9IZEhRa1Z0TlRCS01GTTFPVVI0ZDBOc09FbHJiMU15UXpNeFVGTTBTRXhYT1hZeWRYWTVVVFpuUVRaR1NHVnhUQzFpTVRsUlZFVXlhamhPWDJFdFVrSkNTV2hRYURCTVdtTXdjVjl1ZVcxMlp4SVhlazFYZG1GeVUyRkJOMTlmY0hSUlVISlBWMjB3UVdzYUlrRkVjM0k1WmxGUVJFOWFUa3hIUTFaNmVERnpNbWcwTjJnMWJ6SjBWMHM1UTJjIiwiZmN2IjoiMyIsImVpIjoiek1XdmFyU2FBN19fcHRRUHJPV20wQWsiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFmR2hvXyIsInF1ZXN0aW9uIjoiV2hhdCBkaWQgUG9wZSBGcmFuY2lzIHNheSBhYm91dCB5b2dhPyIsImxrIjoiR2lSM2FHRjBJR1JwWkNCd2IzQmxJR1p5WVc1amFYTWdjMkY1SUdGaWIzVjBJSGx2WjJFIiwiYnMiOiJjNVdQUHd2Q01CQkhjYzNrM09rVXE0T0QyaV9RVFhIU3ljNW5tamFCTmxlU2xKQnZiLXBmaElLNDNmQi03M2pzd0daSEM0RnFCS1c1RVdpVnJ1TUpIWFY5ZzBhNWtHZnpCTlFQaUoxWVdraDBVS29TenRRSjJCdlVQTTRzQnNBcjllNHV5TE5sc3ZBdnNCdkFhaFJrRjdZdXBPSVNPUFhhbVFBU0xUZ3BvQ1ViMTZKRlhVSkY1cWxkSmFuX3dxTnhqR1NDYlFzWjNrRTFLajNVZkZJQXVTSDctT1hKTkdXZTdaS05fMjh6bmR3QSIsImlkIjoiZmNfek1XdmFyU2FBN19fcHRRUHJPV20wQWtfNCJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AIZ5pnicHdDLToNAFADQ-DMuLUOhhiaNCRZaGmcsFy6vjaEz9jXDgJZ2Wnb-i1_l12jcn9X5-lYHLX_uLvu-707T0cgY87Br2516f-BtM6pPN81HvFZqU3M5nTxOyNOWz4Jz5D9_RH6MXZfNwUr0npS2x2ixyujAjFhKCxq3FQQcTroPIFVKm9WflVdIS5sNzM3Rq9Hu1nUY3YTFHTEWk2yRnelS5WnobzdjEaH2Oziy16QQi5ccakzDMarwWllkKQiaymbnjeWRTbGasyNz2BBG73O042I_YYXQcRMOUPgp19LEdoiFDVAlpKZzWOAgThzdHgLok0xJJMGVamqqY-UHe-7EB8sti7Kn0mOlQpI2Xsx10NNcQA7tIUYY-FE1KFWQ6N2NBsIHy_SAVysjlZtJssbm5CQ6rIS53_LLbHz__zl72zb9tPtsd7_IhYIc",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtNTFOalV5Um5WYU5sbFVZVTl1YTJjeFduRkRhMmRaY0dadlduSkVURWg0TWs5TmRWaEVTVFV0ZFcxdVVrbDNkazVZV2tORVJIbzJURVpEUjI1YVJ6RlRlRWhVWHpKMU4yTk1hM1kxVDBWVmNGVjBNRk00WDBoMmR4SVhPRUl0T1dGMkxUSlBUV0pWTlU1dlVISnhMVEZuVVZrYUlrRkVjM0k1WmxGM2VqVkRlVzQ0TjBzMVRGbHBSMWRGWmxkRlYxSjRVMTlmZUhjIiwiZmN2IjoiMyIsImVpIjoiOEItOWF2LTJPTWJVNU5vUHJxLTFnUVkiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFXRGkwXyIsInF1ZXN0aW9uIjoiV2hhdCBkaWQgUG9wZSBGcmFuY2lzIHNheSBhYm91dCB5b2dhPyIsImxrIjoiR2lSM2FHRjBJR1JwWkNCd2IzQmxJR1p5WVc1amFYTWdjMkY1SUdGaWIzVjBJSGx2WjJFIiwiYnMiOiJjM1hPTVEtQ01CQUY0TGplNUtZMHh0eWdqZzRzam5VeU1RNjZNWjl3MENiWU5tMEo0ZC1MaEc2NHZ2ZmR5OEVGc252QXdUYUVMWWVBenJxdUpZX0c5aklYWXF2X2xQQ0VZNkVvWXFVcmZGbkhlUE5reXBFSEdwRGV0b3ZUb2N4UDR0QW42SDZ3WG9Sd2hWMmhobkU3VG8yaEQ0WElxTTI4ZzJMZnozMjBTd1FlY0o1ZUlzOFlGYVBua2szRVdwdEtteVlrTi1hQnlaZEs1cG5ZekNobENhMVhYdyIsImlkIjoiZmNfOEItOWF2LTJPTWJVNU5vUHJxLTFnUVlfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMySnFWMEpZWkVodE9IZEhRa1Z0TlRCS01GTTFPVVI0ZDBOc09FbHJiMU15UXpNeFVGTTBTRXhYT1hZeWRYWTVVVFpuUVRaR1NHVnhUQzFpTVRsUlZFVXlhamhPWDJFdFVrSkNTV2hRYURCTVdtTXdjVjl1ZVcxMlp4SVhlazFYZG1GeVUyRkJOMTlmY0hSUlVISlBWMjB3UVdzYUlrRkVjM0k1WmxGUVJFOWFUa3hIUTFaNmVERnpNbWcwTjJnMWJ6SjBWMHM1UTJjIiwiZmN2IjoiMyIsImVpIjoiek1XdmFyU2FBN19fcHRRUHJPV20wQWsiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFmR2hvXyIsInF1ZXN0aW9uIjoiV2hpY2ggY291bnRyeSBoYXMgdGhlIG1vc3QgZGVtYW5kIGZvciB5b2dhPyIsImxrIjoiR2lWM2FHbGphQ0JqYjNWdWRISjVJR2x6SUcxdmMzUWdaR1Z0WVc1a0lHWnZjaUI1YjJkaCIsImJzIjoiYzVXUFB3dkNNQkJIY2MzazNPa1VxNE9EMmlfUVRYSFN5YzVubWphQk5sZVNsSkJ2Yi1wZmhJSzQzZkItNzNqc3dHWkhDNEZxQktXNUVXaVZydU1KSFhWOWcwYTVrR2Z6Qk5RUGlKMVlXa2gwVUtvU3p0UUoyQnZVUE00c0JzQXI5ZTR1eUxObHN2QXZzQnZBYWhSa0Y3WXVwT0lTT1BYYW1RQVNMVGdwb0NVYjE2SkZYVUpGNXFsZEphbl93cU54akdTQ2JRc1oza0UxS2ozVWZGSUF1U0g3LU9YSk5HV2U3WktOXzI4em5kd0EiLCJpZCI6ImZjX3pNV3ZhclNhQTdfX3B0UVByT1dtMEFrXzQifQ==",
-    "page_token": "hBdtaHicHdBLjpswAABQ9TKznGAsUiVSVMkBEtLiKcYfwqYydsLHBtzEHTLd9S49VU8zox7hvT9_bT-Zf59eO-_dfbtaLcvy3M5zay_Pah5X8v42qZWS1jZSme368xp8uapd8itD-58ZKphzPCZBWYJjEW5CDjBlSbHkgavK1E4vwkS8QhmHJLrE6KqONShNROiAU7kHNzxGQgn7TQWuvnDXy5ikedgFauITDk6mTFoorMsFA33NQMJgB3ITvWBwhnysvaYkFpP1jXlgwk3QxPxwEadeH1yOGQHloGkV4IGGGZBhFuZh61XoLRPYcOFvkqVvGFiEuYaEJo8yJV_V0KGk02vKdXiuTvTMEliBzaLTtFBmUzUUIfmY-4KR32qwIz_4D77-TiiSBST32oCugG6fj_jYHDZ9AbHQy9NVve7g0__P3Y_r6LfuNrfvuNOAVw",
-    "question": "Which country has the most demand for yoga?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hBdtaHicHdBLjpswAABQ9TKznGAsUiVSVMkBEtLiKcYfwqYydsLHBtzEHTLd9S49VU8zox7hvT9_bT-Zf59eO-_dfbtaLcvy3M5zay_Pah5X8v42qZWS1jZSme368xp8uapd8itD-58ZKphzPCZBWYJjEW5CDjBlSbHkgavK1E4vwkS8QhmHJLrE6KqONShNROiAU7kHNzxGQgn7TQWuvnDXy5ikedgFauITDk6mTFoorMsFA33NQMJgB3ITvWBwhnysvaYkFpP1jXlgwk3QxPxwEadeH1yOGQHloGkV4IGGGZBhFuZh61XoLRPYcOFvkqVvGFiEuYaEJo8yJV_V0KGk02vKdXiuTvTMEliBzaLTtFBmUzUUIfmY-4KR32qwIz_4D77-TiiSBST32oCugG6fj_jYHDZ9AbHQy9NVve7g0__P3Y_r6LfuNrfvuNOAVw",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMySnFWMEpZWkVodE9IZEhRa1Z0TlRCS01GTTFPVVI0ZDBOc09FbHJiMU15UXpNeFVGTTBTRXhYT1hZeWRYWTVVVFpuUVRaR1NHVnhUQzFpTVRsUlZFVXlhamhPWDJFdFVrSkNTV2hRYURCTVdtTXdjVjl1ZVcxMlp4SVhlazFYZG1GeVUyRkJOMTlmY0hSUlVISlBWMjB3UVdzYUlrRkVjM0k1WmxGUVJFOWFUa3hIUTFaNmVERnpNbWcwTjJnMWJ6SjBWMHM1UTJjIiwiZmN2IjoiMyIsImVpIjoiek1XdmFyU2FBN19fcHRRUHJPV20wQWsiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFmR2hvXyIsInF1ZXN0aW9uIjoiV2hpY2ggY291bnRyeSBoYXMgdGhlIG1vc3QgZGVtYW5kIGZvciB5b2dhPyIsImxrIjoiR2lWM2FHbGphQ0JqYjNWdWRISjVJR2x6SUcxdmMzUWdaR1Z0WVc1a0lHWnZjaUI1YjJkaCIsImJzIjoiYzVXUFB3dkNNQkJIY2MzazNPa1VxNE9EMmlfUVRYSFN5YzVubWphQk5sZVNsSkJ2Yi1wZmhJSzQzZkItNzNqc3dHWkhDNEZxQktXNUVXaVZydU1KSFhWOWcwYTVrR2Z6Qk5RUGlKMVlXa2gwVUtvU3p0UUoyQnZVUE00c0JzQXI5ZTR1eUxObHN2QXZzQnZBYWhSa0Y3WXVwT0lTT1BYYW1RQVNMVGdwb0NVYjE2SkZYVUpGNXFsZEphbl93cU54akdTQ2JRc1oza0UxS2ozVWZGSUF1U0g3LU9YSk5HV2U3WktOXzI4em5kd0EiLCJpZCI6ImZjX3pNV3ZhclNhQTdfX3B0UVByT1dtMEFrXzQifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtNTFOalV5Um5WYU5sbFVZVTl1YTJjeFduRkRhMmRaY0dadlduSkVURWg0TWs5TmRWaEVTVFV0ZFcxdVVrbDNkazVZV2tORVJIbzJURVpEUjI1YVJ6RlRlRWhVWHpKMU4yTk1hM1kxVDBWVmNGVjBNRk00WDBoMmR4SVhPRUl0T1dGMkxUSlBUV0pWTlU1dlVISnhMVEZuVVZrYUlrRkVjM0k1WmxGM2VqVkRlVzQ0TjBzMVRGbHBSMWRGWmxkRlYxSjRVMTlmZUhjIiwiZmN2IjoiMyIsImVpIjoiOEItOWF2LTJPTWJVNU5vUHJxLTFnUVkiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFXRGkwXyIsInF1ZXN0aW9uIjoiV2h5IG5vdCBzYXkgbmFtYXN0ZSBpbiB5b2dhPyIsImxrIjoiR2g1M2FIa2dibTkwSUhSdklITmhlU0J1WVcxaGMzUmxJR2x1SUhsdloyRSIsImJzIjoiYzNYT01RLUNNQkFGNExqZTVLWTB4dHlnamc0c2puVXlNUTY2TVo5dzBDYllObTBKNGQtTGhHNjR2dmZkeThFRnNudkF3VGFFTFllQXpycXVKWV9HOWpJWFlxdl9sUENFWTZFb1lxVXJmRm5IZVBOa3lwRUhHcERldG92VG9jeFA0dEFuNkg2d1hvUndoVjJoaG5FN1RvMmhENFhJcU0yOGcyTGZ6MzIwU3dRZWNKNWVJczhZRmFQbmtrM0VXcHRLbXlZa04tYUJ5WmRLNXBuWXpDaGxDYTFYWHciLCJpZCI6ImZjXzhCLTlhdi0yT01iVTVOb1BycS0xZ1FZXzUifQ==",
+    "page_token": "PY9A7nicHdBdboIwAADg7DI-jlbURROzpGLZjNQItIW-LKVVy49QhQzhbXfZqXaaLTvBl3xf31Velz9Piek6264cp-_750vTXKrTs2qujmyHWjlKVlUmVblavCzg61mtt22PNk2PjtRa5oUgumqPMlREEM1O3AzplBxJIeLA3d1EYWQMlkcR45bRbkGATRVmReCyJhl3UgAw5xwCWYd3UumzgsIqH-fcI1tawnmArU25LqifjsJDQk_tTfpLI2szU_77VG-Bq9mu5OUyoIkNSYFajYP-hO1dcOHuKbMMph2Dts48-pA89NP4EuHRbPZxZXQOhhjAnMXskEE0qAg8BMTCz3cofCPDgQuqR5P_OTM6ipy41JWebujUyH1ioywhA0lwPTmrz7U7-R9bf5yv3crem8svGHp4ug",
+    "question": "Why not say namaste in yoga?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PY9A7nicHdBdboIwAADg7DI-jlbURROzpGLZjNQItIW-LKVVy49QhQzhbXfZqXaaLTvBl3xf31Velz9Piek6264cp-_750vTXKrTs2qujmyHWjlKVlUmVblavCzg61mtt22PNk2PjtRa5oUgumqPMlREEM1O3AzplBxJIeLA3d1EYWQMlkcR45bRbkGATRVmReCyJhl3UgAw5xwCWYd3UumzgsIqH-fcI1tawnmArU25LqifjsJDQk_tTfpLI2szU_77VG-Bq9mu5OUyoIkNSYFajYP-hO1dcOHuKbMMph2Dts48-pA89NP4EuHRbPZxZXQOhhjAnMXskEE0qAg8BMTCz3cofCPDgQuqR5P_OTM6ipy41JWebujUyH1ioywhA0lwPTmrz7U7-R9bf5yv3crem8svGHp4ug",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtNTFOalV5Um5WYU5sbFVZVTl1YTJjeFduRkRhMmRaY0dadlduSkVURWg0TWs5TmRWaEVTVFV0ZFcxdVVrbDNkazVZV2tORVJIbzJURVpEUjI1YVJ6RlRlRWhVWHpKMU4yTk1hM1kxVDBWVmNGVjBNRk00WDBoMmR4SVhPRUl0T1dGMkxUSlBUV0pWTlU1dlVISnhMVEZuVVZrYUlrRkVjM0k1WmxGM2VqVkRlVzQ0TjBzMVRGbHBSMWRGWmxkRlYxSjRVMTlmZUhjIiwiZmN2IjoiMyIsImVpIjoiOEItOWF2LTJPTWJVNU5vUHJxLTFnUVkiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFXRGkwXyIsInF1ZXN0aW9uIjoiV2h5IG5vdCBzYXkgbmFtYXN0ZSBpbiB5b2dhPyIsImxrIjoiR2g1M2FIa2dibTkwSUhSdklITmhlU0J1WVcxaGMzUmxJR2x1SUhsdloyRSIsImJzIjoiYzNYT01RLUNNQkFGNExqZTVLWTB4dHlnamc0c2puVXlNUTY2TVo5dzBDYllObTBKNGQtTGhHNjR2dmZkeThFRnNudkF3VGFFTFllQXpycXVKWV9HOWpJWFlxdl9sUENFWTZFb1lxVXJmRm5IZVBOa3lwRUhHcERldG92VG9jeFA0dEFuNkg2d1hvUndoVjJoaG5FN1RvMmhENFhJcU0yOGcyTGZ6MzIwU3dRZWNKNWVJczhZRmFQbmtrM0VXcHRLbXlZa04tYUJ5WmRLNXBuWXpDaGxDYTFYWHciLCJpZCI6ImZjXzhCLTlhdi0yT01iVTVOb1BycS0xZ1FZXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMySnFWMEpZWkVodE9IZEhRa1Z0TlRCS01GTTFPVVI0ZDBOc09FbHJiMU15UXpNeFVGTTBTRXhYT1hZeWRYWTVVVFpuUVRaR1NHVnhUQzFpTVRsUlZFVXlhamhPWDJFdFVrSkNTV2hRYURCTVdtTXdjVjl1ZVcxMlp4SVhlazFYZG1GeVUyRkJOMTlmY0hSUlVISlBWMjB3UVdzYUlrRkVjM0k1WmxGUVJFOWFUa3hIUTFaNmVERnpNbWcwTjJnMWJ6SjBWMHM1UTJjIiwiZmN2IjoiMyIsImVpIjoiek1XdmFyU2FBN19fcHRRUHJPV20wQWsiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFmR2hvXyIsInF1ZXN0aW9uIjoiV2h5IGlzIHlvZ2EgZ2FpbmluZyBwb3B1bGFyaXR5IGFjcm9zcyB0aGUgd29ybGQ/IiwibGsiOiJHaTkzYUhrZ2FYTWdlVzluWVNCbllXbHVhVzVuSUhCdmNIVnNZWEpwZEhrZ1lXTnliM056SUhSb1pTQjNiM0pzWkEiLCJicyI6ImM1V1BQd3ZDTUJCSGNjM2szT2tVcTRPRDJpX1FUWEhTeWM1bm1qYUJObGVTbEpCdmItcGZoSUs0M2ZCLTczanN3R1pIQzRGcUJLVzVFV2lWcnVNSkhYVjlnMGE1a0dmekJOUVBpSjFZV2toMFVLb1N6dFFKMkJ2VVBNNHNCc0FyOWU0dXlMTmxzdkF2c0J2QWFoUmtGN1l1cE9JU09QWGFtUUFTTFRncG9DVWIxNkpGWFVKRjVxbGRKYW5fd3FOeGpHU0NiUXNaM2tFMUtqM1VmRklBdVNINy1PWEpOR1dlN1pLTl8yOHpuZHdBIiwiaWQiOiJmY196TVd2YXJTYUE3X19wdFFQck9XbTBBa180In0=",
-    "page_token": "A3-pjHicHdBRbpswAABQ9TL9bAwkWYkUTaLBSZHi1MY2Nj-TsZNAMAYltCT-2xV2hp1qp9m0C7yP9_O3bVz75-lXPY7DbTWbTdP0cu77sz2-6L6bqdvD6ZlW1lZKt6vlt2Xw_aTX6ZdO3q46wWwY-IaA3OIAi2FBPKQkBFPRxkAKOGcQAuH5RXMZFWygzMuxENmk2kXJYZJiIB-Ht6CvCumpsM1hZz9NwE8V6P0eBDXu7oRCMlDAx-PF3GT3GsnWuD1jCxXVH6VL3hUgCDuU8PC-LXfZlhcsMiF6lzbOFYcuD2SkWpSVOxsebWy1jR8kgqJIsdchscyjJt-Qhu6gM264IoAK4bO6dLWq0ttcb01HefKPzXL1CFxamyXlJpQio5KlkQjiyUCIdRuLiiaJuvcNZsTri-0Y03PZoo3u7st9yAe0jQ_KJ2XRlvvSGV6mqMP4-aS_1tHz_-v1j1M3roZrf_4L6giMqw",
-    "question": "Why is yoga gaining popularity across the world?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=A3-pjHicHdBRbpswAABQ9TL9bAwkWYkUTaLBSZHi1MY2Nj-TsZNAMAYltCT-2xV2hp1qp9m0C7yP9_O3bVz75-lXPY7DbTWbTdP0cu77sz2-6L6bqdvD6ZlW1lZKt6vlt2Xw_aTX6ZdO3q46wWwY-IaA3OIAi2FBPKQkBFPRxkAKOGcQAuH5RXMZFWygzMuxENmk2kXJYZJiIB-Ht6CvCumpsM1hZz9NwE8V6P0eBDXu7oRCMlDAx-PF3GT3GsnWuD1jCxXVH6VL3hUgCDuU8PC-LXfZlhcsMiF6lzbOFYcuD2SkWpSVOxsebWy1jR8kgqJIsdchscyjJt-Qhu6gM264IoAK4bO6dLWq0ttcb01HefKPzXL1CFxamyXlJpQio5KlkQjiyUCIdRuLiiaJuvcNZsTri-0Y03PZoo3u7st9yAe0jQ_KJ2XRlvvSGV6mqMP4-aS_1tHz_-v1j1M3roZrf_4L6giMqw",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMySnFWMEpZWkVodE9IZEhRa1Z0TlRCS01GTTFPVVI0ZDBOc09FbHJiMU15UXpNeFVGTTBTRXhYT1hZeWRYWTVVVFpuUVRaR1NHVnhUQzFpTVRsUlZFVXlhamhPWDJFdFVrSkNTV2hRYURCTVdtTXdjVjl1ZVcxMlp4SVhlazFYZG1GeVUyRkJOMTlmY0hSUlVISlBWMjB3UVdzYUlrRkVjM0k1WmxGUVJFOWFUa3hIUTFaNmVERnpNbWcwTjJnMWJ6SjBWMHM1UTJjIiwiZmN2IjoiMyIsImVpIjoiek1XdmFyU2FBN19fcHRRUHJPV20wQWsiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFmR2hvXyIsInF1ZXN0aW9uIjoiV2h5IGlzIHlvZ2EgZ2FpbmluZyBwb3B1bGFyaXR5IGFjcm9zcyB0aGUgd29ybGQ%2FIiwibGsiOiJHaTkzYUhrZ2FYTWdlVzluWVNCbllXbHVhVzVuSUhCdmNIVnNZWEpwZEhrZ1lXTnliM056SUhSb1pTQjNiM0pzWkEiLCJicyI6ImM1V1BQd3ZDTUJCSGNjM2szT2tVcTRPRDJpX1FUWEhTeWM1bm1qYUJObGVTbEpCdmItcGZoSUs0M2ZCLTczanN3R1pIQzRGcUJLVzVFV2lWcnVNSkhYVjlnMGE1a0dmekJOUVBpSjFZV2toMFVLb1N6dFFKMkJ2VVBNNHNCc0FyOWU0dXlMTmxzdkF2c0J2QWFoUmtGN1l1cE9JU09QWGFtUUFTTFRncG9DVWIxNkpGWFVKRjVxbGRKYW5fd3FOeGpHU0NiUXNaM2tFMUtqM1VmRklBdVNINy1PWEpOR1dlN1pLTl8yOHpuZHdBIiwiaWQiOiJmY196TVd2YXJTYUE3X19wdFFQck9XbTBBa180In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtNTFOalV5Um5WYU5sbFVZVTl1YTJjeFduRkRhMmRaY0dadlduSkVURWg0TWs5TmRWaEVTVFV0ZFcxdVVrbDNkazVZV2tORVJIbzJURVpEUjI1YVJ6RlRlRWhVWHpKMU4yTk1hM1kxVDBWVmNGVjBNRk00WDBoMmR4SVhPRUl0T1dGMkxUSlBUV0pWTlU1dlVISnhMVEZuVVZrYUlrRkVjM0k1WmxGM2VqVkRlVzQ0TjBzMVRGbHBSMWRGWmxkRlYxSjRVMTlmZUhjIiwiZmN2IjoiMyIsImVpIjoiOEItOWF2LTJPTWJVNU5vUHJxLTFnUVkiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFXRGkwXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHJlY2VudCBmaW5kaW5ncyBpbiB5b2dhIHJlc2VhcmNoPyIsImxrIjoiR2hkeVpXTmxiblFnY21WelpXRnlZMmdnYVc0Z2VXOW5ZUSIsImJzIjoiYzNYT01RLUNNQkFGNExqZTVLWTB4dHlnamc0c2puVXlNUTY2TVo5dzBDYllObTBKNGQtTGhHNjR2dmZkeThFRnNudkF3VGFFTFllQXpycXVKWV9HOWpJWFlxdl9sUENFWTZFb1lxVXJmRm5IZVBOa3lwRUhHcERldG92VG9jeFA0dEFuNkg2d1hvUndoVjJoaG5FN1RvMmhENFhJcU0yOGcyTGZ6MzIwU3dRZWNKNWVJczhZRmFQbmtrM0VXcHRLbXlZa04tYUJ5WmRLNXBuWXpDaGxDYTFYWHciLCJpZCI6ImZjXzhCLTlhdi0yT01iVTVOb1BycS0xZ1FZXzUifQ==",
+    "page_token": "oTBtAnicHdBLjpswAABQ9TKznNgMpEqkqBLDJ0U1IxzbYG8qYxIcsAERKzDseoWeoafqaSr1HeH9-mPuQ__3y2_t3PQ47nbLsry249ia66sa7U4-Pge1U9KYWqr-uP-6h99u6hQ_Vfg-q7Cg08QiDC50TTFpfZQmM7H5Q6TTkzPxKXrjsQr7Apql9hysNgoq0JS0S7Ci64ArnTZ2lRVY7bUzHx9RRi5JG9RE7-uoX0SEtpziDic4lmedIe-7k2ceqAjBa6RDTDNQAD1jc6jEubEcIF-lkJDUpQTikJs8IUPzVtvDDRu0yS25N0mIuHVaQm2u_fROQRaQM_I5aH5ImD9Y7xizCVeev1y8bCCR0WXJ5hoKUEeGxVr5xR0EvOIO9YecGwqJPRRqiB0qG1zi8V5QvKnOWJauXtGP64WFVVMuQWHFwKlhrDJdGQekZhMVy8tNPU9vL_-vTz9v1h2neWz_AbKDjZs",
+    "question": "What are the recent findings in yoga research?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oTBtAnicHdBLjpswAABQ9TKznNgMpEqkqBLDJ0U1IxzbYG8qYxIcsAERKzDseoWeoafqaSr1HeH9-mPuQ__3y2_t3PQ47nbLsry249ia66sa7U4-Pge1U9KYWqr-uP-6h99u6hQ_Vfg-q7Cg08QiDC50TTFpfZQmM7H5Q6TTkzPxKXrjsQr7Apql9hysNgoq0JS0S7Ci64ArnTZ2lRVY7bUzHx9RRi5JG9RE7-uoX0SEtpziDic4lmedIe-7k2ceqAjBa6RDTDNQAD1jc6jEubEcIF-lkJDUpQTikJs8IUPzVtvDDRu0yS25N0mIuHVaQm2u_fROQRaQM_I5aH5ImD9Y7xizCVeev1y8bCCR0WXJ5hoKUEeGxVr5xR0EvOIO9YecGwqJPRRqiB0qG1zi8V5QvKnOWJauXtGP64WFVVMuQWHFwKlhrDJdGQekZhMVy8tNPU9vL_-vTz9v1h2neWz_AbKDjZs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtNTFOalV5Um5WYU5sbFVZVTl1YTJjeFduRkRhMmRaY0dadlduSkVURWg0TWs5TmRWaEVTVFV0ZFcxdVVrbDNkazVZV2tORVJIbzJURVpEUjI1YVJ6RlRlRWhVWHpKMU4yTk1hM1kxVDBWVmNGVjBNRk00WDBoMmR4SVhPRUl0T1dGMkxUSlBUV0pWTlU1dlVISnhMVEZuVVZrYUlrRkVjM0k1WmxGM2VqVkRlVzQ0TjBzMVRGbHBSMWRGWmxkRlYxSjRVMTlmZUhjIiwiZmN2IjoiMyIsImVpIjoiOEItOWF2LTJPTWJVNU5vUHJxLTFnUVkiLCJxYyI6IkNqWjNiM0pzWkhkcFpHVWdjMlZoY21Ob0lHbHVkR1Z5WlhOMElIbHZaMkVnWTJoaGJtZGxaQ0JzWVhOMElHWnBkbVVnZVdWaGNuTVFBSDFXRGkwXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHJlY2VudCBmaW5kaW5ncyBpbiB5b2dhIHJlc2VhcmNoPyIsImxrIjoiR2hkeVpXTmxiblFnY21WelpXRnlZMmdnYVc0Z2VXOW5ZUSIsImJzIjoiYzNYT01RLUNNQkFGNExqZTVLWTB4dHlnamc0c2puVXlNUTY2TVo5dzBDYllObTBKNGQtTGhHNjR2dmZkeThFRnNudkF3VGFFTFllQXpycXVKWV9HOWpJWFlxdl9sUENFWTZFb1lxVXJmRm5IZVBOa3lwRUhHcERldG92VG9jeFA0dEFuNkg2d1hvUndoVjJoaG5FN1RvMmhENFhJcU0yOGcyTGZ6MzIwU3dRZWNKNWVJczhZRmFQbmtrM0VXcHRLbXlZa04tYUJ5WmRLNXBuWXpDaGxDYTFYWHciLCJpZCI6ImZjXzhCLTlhdi0yT01iVTVOb1BycS0xZ1FZXzUifQ%3D%3D",
     "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&q=Worldwide+search+interest+yoga+changed+last+five+years+reddit&sa=X&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ1QJ6BAg_EAE",
+    "query": "Worldwide search interest yoga changed last five years reddit",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Worldwide+search+interest+yoga+changed+last+five+years+reddit"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&q=Worldwide+search+interest+yoga+changed+last+five+years+meaning&sa=X&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ1QJ6BAhEEAE",
+    "query": "Worldwide search interest yoga changed last five years meaning",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Worldwide+search+interest+yoga+changed+last+five+years+meaning"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&q=Worldwide+search+interest+yoga+changed+last+five+years+youtube&sa=X&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ1QJ6BAhDEAE",
+    "query": "Worldwide search interest yoga changed last five years youtube",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Worldwide+search+interest+yoga+changed+last+five+years+youtube"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&q=Yoga+definition&sa=X&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ1QJ6BAhCEAE",
+    "query": "Yoga definition",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yoga+definition"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&q=Yoga+history&sa=X&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ1QJ6BAhAEAE",
+    "query": "Yoga history",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yoga+history"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&q=What+is+Yoga+short+answer&sa=X&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ1QJ6BAg9EAE",
+    "query": "What is Yoga short answer",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+Yoga+short+answer"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&q=Yoga+origin+religion&sa=X&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ1QJ6BAhBEAE",
+    "query": "Yoga origin religion",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yoga+origin+religion"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQntgXxsUavZ-BpfWfH_ENSgc6bdytw:1790779376932&q=10+benefits+of+yoga&sa=X&ved=2ahUKEwj_7oeFxZaXAxVGKlkFHa5XLWAQ1QJ6BAg-EAE",
+    "query": "10 benefits of yoga",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=10+benefits+of+yoga"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "worldwide search interest yoga changed last five years",
    "time_taken_displayed": 0.24,
-   "total_results": 153
+   "total_results": 1270000000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:38:51 UTC",
+   "created_at": "2026-09-30 14:42:41 UTC",
    "google_url": "https://www.google.com/search?q=worldwide+search+interest+yoga+changed+last+five+years&oq=worldwide+search+interest+yoga+changed+last+five+years&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc5cb80c963648e761bec",
-   "json_endpoint": "https://serpapi.com/searches/bjf8iVRAOMCmO-TCFjP7ATy-xNgOozSVBDecuLl_O-Q/6aafc5cb80c963648e761bec.json",
-   "markdown_endpoint": "https://serpapi.com/searches/bjf8iVRAOMCmO-TCFjP7ATy-xNgOozSVBDecuLl_O-Q/6aafc5cb80c963648e761bec.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/bjf8iVRAOMCmO-TCFjP7ATy-xNgOozSVBDecuLl_O-Q/6aafc5cb80c963648e761bec.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:38:51 UTC",
-   "raw_html_file": "https://serpapi.com/searches/bjf8iVRAOMCmO-TCFjP7ATy-xNgOozSVBDecuLl_O-Q/6aafc5cb80c963648e761bec.html",
+   "id": "6abd1fe19b762d2c6c834ee6",
+   "json_endpoint": "https://serpapi.com/searches/FUfvcGduMnXsWXAEBSg6Mdcf0spUDnyv7EmMXw_eOwc/6abd1fe19b762d2c6c834ee6.json",
+   "markdown_endpoint": "https://serpapi.com/searches/FUfvcGduMnXsWXAEBSg6Mdcf0spUDnyv7EmMXw_eOwc/6abd1fe19b762d2c6c834ee6.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/FUfvcGduMnXsWXAEBSg6Mdcf0spUDnyv7EmMXw_eOwc/6abd1fe19b762d2c6c834ee6.json_with_pixel_position",
+   "processed_at": "2026-09-30 14:42:41 UTC",
+   "raw_html_file": "https://serpapi.com/searches/FUfvcGduMnXsWXAEBSg6Mdcf0spUDnyv7EmMXw_eOwc/6abd1fe19b762d2c6c834ee6.html",
    "status": "Success",
-   "total_time_taken": 0.49
+   "total_time_taken": 15.62
   },
   "search_parameters": {
    "device": "desktop",
@@ -342,15 +390,9 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=80"
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=worldwide+search+interest+yoga+changed+last+five+years&start=30"
    }
   }
  },

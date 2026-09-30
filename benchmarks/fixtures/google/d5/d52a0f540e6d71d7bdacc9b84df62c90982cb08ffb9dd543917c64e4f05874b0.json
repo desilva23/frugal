@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1877.083,
+ "elapsed_ms": 52193.302,
  "engine": "google",
- "fetched_at": "2026-09-20T12:04:37.816087+00:00",
+ "fetched_at": "2026-09-30T15:19:20.375047+00:00",
  "frugal_cache_version": 1,
  "key": "d52a0f540e6d71d7bdacc9b84df62c90982cb08ffb9dd543917c64e4f05874b0",
  "params": {
@@ -11,374 +11,75 @@
   "q": "latest monsoon forecast india"
  },
  "response": {
-  "ai_overview": {
-   "page_token": "mt8Fl3iczVXdcqJIFH6AfY7hZhJBcaKmiprqblExZiJGE80NxZ8N8tOEVki828t9j32qfZppECMYTXbmYmtPVdN09-H0-fv4_vzbd0Pvnz_-ctbriF7zfJqmNUwI9u2aSQJep6-hyS-JT2PT-e74kh1y2JfckHtNJJEzqSRwtivVbzeJHm_ckXm1SmJhHJHAbICUyz-XNEOn9opZf1lRXuPZw_sidtmiRmt2qPVhbd5K48uXnrLwb2sNoSHW7ng9YDrgPxQVw2waAnRehx3Jn1vKDCgAyiVLCsD5DA9ai90xUvMjhM9ag7s7J7m6ykZX2w7SLtst8tM9-y27AlaWae4LAGnuJQTu59GURC1i2cf1QabetKtSZI8cdso1rvhaEZxWlj3mhQYQOlxydJlTceMtUyYG7QGBXQhm5_1m-blRwDcPqPKpEMqiyg_Nt8qNFn22w1uYNa7AGzGb6rxrOmb-EtOsn9G0I5Ce2MQzd1OfqPO63r2zp2g0VVtD03FmmDcNpucT3bItzdGE7_m63qh_Ezpiq32RY8mkb2CiZTCNwca4HzlNdwtqoxqs72GEdkUH7yomszVSTgQGUaF6osTwsJsVrCip2ivbLUoJs76WJ6Ba2ptxltf-fsl6dMtKU9Y43Jo1_3sY7QSXlBmMckcUUiiWNXZa_RJ0S4VVwKnfzHHc6gDso1BX7xQrAEQsXg_sE7M4trwAKsJyhgEkD2CRNbNswwPo5virLDz2hyqSdIhk9wbLMWQpUFRwCxSZ2XRnQ1YDnPXqztGsGYq7evIR4s40vMKueUT_5td3QuBnIMpE3ePlqP3LsJHvjXujIb9MQzGY086GzptR-kQNun1KT8OEBMavkY75_8JSTklyQUnnsSR_jqWckuAHlJS_Hygp619EzmIJ9k9T0u1JSqrGjcCkjKWPKemXsYQ-xJJaPE9giZzGUnQWSzg9xlKVko6xVFDSG5Z-h5Lgb1JSDi17N1X5abPCZ3lq0LXbruW5YivditAaYrXbTuL7ZOlOPuepZbC-DnTLv9Bc6xo2hutX60JjG-TatrhnydfXNl1_DUhICQm_LklsmzrbcEPL1bnAj4kk6E0aDejTrBPMw816_Rpt_AR5MVnOIuzOtz291x9qTvridM1XOo6thx-jOxgsvedL5GqNxmjmPFleC3ogvRqFwRwo48Q1yHYSDePHy2evdWc0rtprHLkQCg8PbvJ4K0RXif58OYYIKXInempqzoOp3LSHwna0SrQ0d4xKi0ez3hWnqykSuCA2JVb0JgY_VPCIWfehvCvZIGykbFyxokCOmrpm00TqiA3TFlutpSG0TatjcQFmoUnNOkfDWKr_BOEhRXo",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mt8Fl3iczVXdcqJIFH6AfY7hZhJBcaKmiprqblExZiJGE80NxZ8N8tOEVki828t9j32qfZppECMYTXbmYmtPVdN09-H0-fv4_vzbd0Pvnz_-ctbriF7zfJqmNUwI9u2aSQJep6-hyS-JT2PT-e74kh1y2JfckHtNJJEzqSRwtivVbzeJHm_ckXm1SmJhHJHAbICUyz-XNEOn9opZf1lRXuPZw_sidtmiRmt2qPVhbd5K48uXnrLwb2sNoSHW7ng9YDrgPxQVw2waAnRehx3Jn1vKDCgAyiVLCsD5DA9ai90xUvMjhM9ag7s7J7m6ykZX2w7SLtst8tM9-y27AlaWae4LAGnuJQTu59GURC1i2cf1QabetKtSZI8cdso1rvhaEZxWlj3mhQYQOlxydJlTceMtUyYG7QGBXQhm5_1m-blRwDcPqPKpEMqiyg_Nt8qNFn22w1uYNa7AGzGb6rxrOmb-EtOsn9G0I5Ce2MQzd1OfqPO63r2zp2g0VVtD03FmmDcNpucT3bItzdGE7_m63qh_Ezpiq32RY8mkb2CiZTCNwca4HzlNdwtqoxqs72GEdkUH7yomszVSTgQGUaF6osTwsJsVrCip2ivbLUoJs76WJ6Ba2ptxltf-fsl6dMtKU9Y43Jo1_3sY7QSXlBmMckcUUiiWNXZa_RJ0S4VVwKnfzHHc6gDso1BX7xQrAEQsXg_sE7M4trwAKsJyhgEkD2CRNbNswwPo5virLDz2hyqSdIhk9wbLMWQpUFRwCxSZ2XRnQ1YDnPXqztGsGYq7evIR4s40vMKueUT_5td3QuBnIMpE3ePlqP3LsJHvjXujIb9MQzGY086GzptR-kQNun1KT8OEBMavkY75_8JSTklyQUnnsSR_jqWckuAHlJS_Hygp619EzmIJ9k9T0u1JSqrGjcCkjKWPKemXsYQ-xJJaPE9giZzGUnQWSzg9xlKVko6xVFDSG5Z-h5Lgb1JSDi17N1X5abPCZ3lq0LXbruW5YivditAaYrXbTuL7ZOlOPuepZbC-DnTLv9Bc6xo2hutX60JjG-TatrhnydfXNl1_DUhICQm_LklsmzrbcEPL1bnAj4kk6E0aDejTrBPMw816_Rpt_AR5MVnOIuzOtz291x9qTvridM1XOo6thx-jOxgsvedL5GqNxmjmPFleC3ogvRqFwRwo48Q1yHYSDePHy2evdWc0rtprHLkQCg8PbvJ4K0RXif58OYYIKXInempqzoOp3LSHwna0SrQ0d4xKi0ez3hWnqykSuCA2JVb0JgY_VPCIWfehvCvZIGykbFyxokCOmrpm00TqiA3TFlutpSG0TatjcQFmoUnNOkfDWKr_BOEhRXo"
-  },
-  "answer_box": {
-   "date": "Sunday",
-   "forecast": [
-    {
-     "day": "Sunday",
-     "humidity": "78%",
-     "precipitation": "20%",
-     "temperature": {
-      "high": "31",
-      "low": "26"
-     },
-     "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/SAsTnUtQ9v7tqeFIJkFBKbzfbqoJrvKW84eQe_I3Qf0.svg+xml",
-     "weather": "Sunny",
-     "wind": "14 km/h"
-    },
-    {
-     "day": "Monday",
-     "humidity": "73%",
-     "precipitation": "15%",
-     "temperature": {
-      "high": "32",
-      "low": "26"
-     },
-     "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/SAsTnUtQ9v7tqeFIJkFBKZFlUiWAkHUmPub-nMvieIs.svg+xml",
-     "weather": "Partly sunny",
-     "wind": "13 km/h"
-    },
-    {
-     "day": "Tuesday",
-     "humidity": "77%",
-     "precipitation": "30%",
-     "temperature": {
-      "high": "31",
-      "low": "26"
-     },
-     "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/SAsTnUtQ9v7tqeFIJkFBKaSwggennc_tqzWztTTCdgM.svg+xml",
-     "weather": "Light rain",
-     "wind": "13 km/h"
-    },
-    {
-     "day": "Wednesday",
-     "humidity": "78%",
-     "precipitation": "20%",
-     "temperature": {
-      "high": "31",
-      "low": "27"
-     },
-     "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/SAsTnUtQ9v7tqeFIJkFBKeLHnQa_KA7UBt2Zw2-e6FE.svg+xml",
-     "weather": "Partly sunny",
-     "wind": "14 km/h"
-    },
-    {
-     "day": "Thursday",
-     "humidity": "76%",
-     "precipitation": "15%",
-     "temperature": {
-      "high": "31",
-      "low": "27"
-     },
-     "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/SAsTnUtQ9v7tqeFIJkFBKdQqM8aNhxk_Lpe6bPnndoc.svg+xml",
-     "weather": "Partly sunny",
-     "wind": "18 km/h"
-    },
-    {
-     "day": "Friday",
-     "humidity": "73%",
-     "precipitation": "15%",
-     "temperature": {
-      "high": "31",
-      "low": "27"
-     },
-     "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/SAsTnUtQ9v7tqeFIJkFBKW2-yatXcp4_kbj5uxyADZY.svg+xml",
-     "weather": "Mostly cloudy",
-     "wind": "18 km/h"
-    },
-    {
-     "day": "Saturday",
-     "humidity": "70%",
-     "precipitation": "10%",
-     "temperature": {
-      "high": "31",
-      "low": "26"
-     },
-     "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/SAsTnUtQ9v7tqeFIJkFBKYoUuBmk0e1oq-MOaCcHvP4.svg+xml",
-     "weather": "Partly sunny",
-     "wind": "16 km/h"
-    },
-    {
-     "day": "Sunday",
-     "humidity": "67%",
-     "precipitation": "5%",
-     "temperature": {
-      "high": "31",
-      "low": "26"
-     },
-     "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/SAsTnUtQ9v7tqeFIJkFBKaB32WAprD6457aQ7L6hsME.svg+xml",
-     "weather": "Partly sunny",
-     "wind": "13 km/h"
-    }
-   ],
-   "hourly_forecast": [
-    {
-     "humidity": "76%",
-     "precipitation": "0%",
-     "temperature": "30",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
-     "time": "Sunday, 5:00 pm",
-     "weather": "Sunny",
-     "wind": "13 km/h"
-    },
-    {
-     "humidity": "76%",
-     "precipitation": "0%",
-     "temperature": "29",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
-     "time": "Sunday, 6:00 pm",
-     "weather": "Sunny",
-     "wind": "13 km/h"
-    },
-    {
-     "humidity": "79%",
-     "precipitation": "0%",
-     "temperature": "29",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
-     "time": "Sunday, 7:00 pm",
-     "weather": "Clear",
-     "wind": "11 km/h"
-    },
-    {
-     "humidity": "81%",
-     "precipitation": "0%",
-     "temperature": "28",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
-     "time": "Sunday, 8:00 pm",
-     "weather": "Clear",
-     "wind": "10 km/h"
-    },
-    {
-     "humidity": "83%",
-     "precipitation": "0%",
-     "temperature": "28",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
-     "time": "Sunday, 9:00 pm",
-     "weather": "Clear",
-     "wind": "8 km/h"
-    },
-    {
-     "humidity": "84%",
-     "precipitation": "0%",
-     "temperature": "28",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
-     "time": "Sunday, 10:00 pm",
-     "weather": "Clear with periodic clouds",
-     "wind": "6 km/h"
-    },
-    {
-     "humidity": "85%",
-     "precipitation": "0%",
-     "temperature": "28",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
-     "time": "Sunday, 11:00 pm",
-     "weather": "Clear",
-     "wind": "5 km/h"
-    },
-    {
-     "humidity": "84%",
-     "precipitation": "0%",
-     "temperature": "28",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
-     "time": "Monday, 12:00 am",
-     "weather": "Clear",
-     "wind": "5 km/h"
-    },
-    {
-     "humidity": "85%",
-     "precipitation": "0%",
-     "temperature": "27",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
-     "time": "Monday, 1:00 am",
-     "weather": "Clear",
-     "wind": "3 km/h"
-    },
-    {
-     "humidity": "86%",
-     "precipitation": "0%",
-     "temperature": "27",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
-     "time": "Monday, 2:00 am",
-     "weather": "Clear with periodic clouds",
-     "wind": "3 km/h"
-    },
-    {
-     "humidity": "87%",
-     "precipitation": "5%",
-     "temperature": "27",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
-     "time": "Monday, 3:00 am",
-     "weather": "Partly cloudy",
-     "wind": "2 km/h"
-    },
-    {
-     "humidity": "87%",
-     "precipitation": "0%",
-     "temperature": "27",
-     "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
-     "time": "Monday, 4:00 am",
-     "weather": "Clear with periodic clouds",
-     "wind": "2 km/h"
-    }
-   ],
-   "humidity": "78%",
-   "location": "India",
-   "precipitation": "20%",
-   "precipitation_forecast": [
-    {
-     "day": "Sunday,",
-     "precipitation": "0%",
-     "time": "5:00 pm"
-    },
-    {
-     "day": "Sunday,",
-     "precipitation": "0%",
-     "time": "6:00 pm"
-    },
-    {
-     "day": "Sunday,",
-     "precipitation": "0%",
-     "time": "7:00 pm"
-    },
-    {
-     "day": "Sunday,",
-     "precipitation": "0%",
-     "time": "8:00 pm"
-    },
-    {
-     "day": "Sunday,",
-     "precipitation": "0%",
-     "time": "9:00 pm"
-    },
-    {
-     "day": "Sunday,",
-     "precipitation": "0%",
-     "time": "10:00 pm"
-    },
-    {
-     "day": "Sunday,",
-     "precipitation": "0%",
-     "time": "11:00 pm"
-    },
-    {
-     "day": "Monday,",
-     "precipitation": "0%",
-     "time": "12:00 am"
-    },
-    {
-     "day": "Monday,",
-     "precipitation": "0%",
-     "time": "1:00 am"
-    },
-    {
-     "day": "Monday,",
-     "precipitation": "0%",
-     "time": "2:00 am"
-    },
-    {
-     "day": "Monday,",
-     "precipitation": "5%",
-     "time": "3:00 am"
-    },
-    {
-     "day": "Monday,",
-     "precipitation": "0%",
-     "time": "4:00 am"
-    }
-   ],
-   "sources": [
-    {
-     "link": "https://support.google.com/websearch/answer/13687874",
-     "title": "Google Weather"
-    }
-   ],
-   "temperature": "31",
-   "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/_6T1M_673p6PMKAnuLY91ijkdZQJbZzxtJLhzeueKLU.svg+xml",
-   "type": "weather_result",
-   "unit": "Celsius",
-   "weather": "Sunny",
-   "wind": "14 km/h",
-   "wind_forecast": [
-    {
-     "angle": 330,
-     "direction": "From northwest",
-     "speed": "13 km/h",
-     "time": "6 pm"
-    },
-    {
-     "angle": 311,
-     "direction": "From northwest",
-     "speed": "8 km/h",
-     "time": "9 pm"
-    },
-    {
-     "angle": 309,
-     "direction": "From northwest",
-     "speed": "5 km/h",
-     "time": "12 am"
-    },
-    {
-     "angle": 295,
-     "direction": "From northwest",
-     "speed": "2 km/h",
-     "time": "3 am"
-    },
-    {
-     "angle": 149,
-     "direction": "From southeast",
-     "speed": "2 km/h",
-     "time": "6 am"
-    },
-    {
-     "angle": 45,
-     "direction": "From southwest",
-     "speed": "3 km/h",
-     "time": "9 am"
-    },
-    {
-     "angle": 14,
-     "direction": "From west",
-     "speed": "10 km/h",
-     "time": "12 pm"
-    },
-    {
-     "angle": 360,
-     "direction": "From west",
-     "speed": "13 km/h",
-     "time": "3 pm"
-    },
-    {
-     "angle": 352,
-     "direction": "From west",
-     "speed": "8 km/h",
-     "time": "6 pm"
-    },
-    {
-     "angle": 39,
-     "direction": "From southwest",
-     "speed": "3 km/h",
-     "time": "9 pm"
-    },
-    {
-     "angle": 58,
-     "direction": "From southwest",
-     "speed": "5 km/h",
-     "time": "12 am"
-    },
-    {
-     "angle": 51,
-     "direction": "From southwest",
-     "speed": "5 km/h",
-     "time": "3 am"
-    }
-   ]
-  },
+  "inline_images": [
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1687901115853861&get_thumbnail=1",
+    "source": "https://www.facebook.com/India.Meteorological.Department/posts/southwest-monsoon-update-southwest-monsoon-is-likely-to-advance-into-some-more-p/1301084048863905/",
+    "source_name": "Facebook",
+    "thumbnail": "https://serpapi.com/searches/6abd286303b136ea126ba705/images/b8tIDq7Lttbfr3tQlhoihAXpNpEP_dypBGjqXrbP35M.jpeg",
+    "title": "Southwest Monsoon Update !, Southwest monsoon is likely to advance into  some more parts of Telangana, Odisha, Jharkhand & Bihar, and some parts of  Chhattisgarh around 23rd June 2026. #SouthwestMonsoon ..."
+   },
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3639429346264031859",
+    "source": "https://www.instagram.com/reel/DKB2bU5MyJz/",
+    "source_name": "Instagram",
+    "thumbnail": "https://serpapi.com/searches/6abd286303b136ea126ba705/images/F1SzB9dYv0MTAu1_UcqMdpjn4VEQKZGYkBoNVILJuhg.jpeg",
+    "title": "Update on southwest Monsoon Advance today, the 24th May 2025 over India ,  ❖The Southwest Monsoon has further advanced into remaining parts of south  Arabian Sea, some parts of westcentral & eastcentral ..."
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=688616532442225",
+    "source": "https://www.facebook.com/groups/444852633003952/posts/2155647075257824/",
+    "source_name": "Facebook",
+    "thumbnail": "https://serpapi.com/searches/6abd286303b136ea126ba705/images/OmsjGKwIjZRJydhmaC3FrOGMIgR75O6H13v-SsRikaI.jpeg",
+    "title": "India monsoon update for southern states"
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=706763683960843",
+    "source": "https://www.facebook.com/groups/444852633003952/posts/2155647075257824/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUM4YBttXjsE4iIL_-hK33kC0vu_bEbJ5GV2KOpVCO3Xihg-IbLw7q5I&s",
+    "title": "India monsoon update for southern states"
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2041419077259899",
+    "source": "https://www.facebook.com/groups/444852633003952/posts/2155647075257824/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8uwyUIzcKQCCqvwsRP-oIWZOtzOZPmT_Z1MMrG7RWBvPXWwDEc7cNtG4&s",
+    "title": "India monsoon update for southern states"
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1587334569608824&get_thumbnail=1",
+    "source": "https://www.facebook.com/thesaveraonline/videos/live-india-weather-alert-heavy-rain-forecast-in-punjab-maharashtra-odisha-imd-mo/1587334569608824/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Cd0_tH_t0DZp7g6DYzLa39RpHeguwN5um4mtNqDt&s",
+    "title": "Live | India Weather Alert: Heavy Rain Forecast in Punjab, Maharashtra &  Odisha | IMD Monsoon Update, #indiaweather #weatheralert #imdweather  #monsoonupdate #heavyrain #punjabweather #rainalert ..."
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=567286052243712",
+    "source": "https://www.facebook.com/India.Meteorological.Department/posts/southwest-monsoon-update-southwest-monsoon-is-likely-to-advance-into-some-more-p/1301084048863905/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb89L3kHu25xnr5smNtv2FiV444Qvn7q3un1iP6Ym582xbl-9OZOthmJKtgg&s",
+    "title": "Southwest Monsoon Update ! Southwest monsoon is likely to ..."
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4514986845408468",
+    "source": "https://www.facebook.com/India.Meteorological.Department/posts/southwest-monsoon-update-southwest-monsoon-is-likely-to-advance-into-some-more-p/1301084048863905/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIyxkfT_lqMrqgwx8vZhSvuP3taMSJH9EbsDAQXcixRPg9zqn4-xy3s64&s",
+    "title": "Southwest Monsoon Update ! Southwest monsoon is likely to ..."
+   },
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3984387645349933939",
+    "source": "https://www.instagram.com/reel/DKB2bU5MyJz/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRgq8i8rlcRvIh4LIQf4kGNjQ8Ovjc-o5c-qIMPTOmHw2YOUol6vKS3g&s",
+    "title": "Mausam Nwfc | Update on southwest Monsoon Advance today, the ..."
+   }
+  ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVnhiUFhHd2NPRDRQd1RCdkptVl9GYzFrLU5CSWdOdF9NNFVMUHN5aVpuZS00ZkJnVmFkLWhzeGJFRi1GU0w0ZmF2bFFadnRmNHJEejBJVUhRQVRiT25neXNYdFFBUnR1X1hUdlRadWdTeVdfcGEwN1o3TGtQY245cmhrNWIyZ21PQmdaSUxrMG9aZxIEGgIIABrGBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCiBAgAEAAYACAAKicKBmxhdGVzdBWce4U-GgRsYXN0GgNuZXcaBnJlY2VudBoFdG9kYXkqHAoHbW9uc29vbhWDqptAGgxpdjtwO21vbnNvb24qLgoIZm9yZWNhc3QVPz2WQBoGcmVwb3J0GgZ1cGRhdGUaDWl2O3A7Zm9yZWNhc3QqDAoFaW5kaWEVDn-WQCoRCgFhFcgL7z8aAmFuGgN0aGUyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWeGJQWEd3Y09ENFB3VEJ2Sm1WX0ZjMWstTkJJZ050X000VUxQc3lpWm5lLTRmQmdWYWQtaHN4YkVGLUZTTDRmYXZsUVp2dGY0ckR6MElVSFFBVGJPbmd5c1h0UUFSdHVfWFR2VFp1Z1N5V19wYTA3WjdMa1BjbjlyaGs1YjJnbU9CZ1pJTGswb1pnOj9CZWxvdy1ub3JtYWwgPGI-bW9uc29vbiBmb3JlY2FzdDwvYj4gZm9yIDxiPkluZGlhPC9iPiB0aGlzIHllYXJCjQE8Yj5JbmRpYSBpcyBsaWtlbHkgdG8gc2VlIGJlbG93LW5vcm1hbCBtb25zb29uIHJhaW5zIHRoaXMgeWVhcjwvYj4sIGV4cGVjdGVkIHRvIHJlYWNoIDkyIHBlciBjZW50IG9mIHRoZSBsb25nLXBlcmlvZCBhdmVyYWdlIHRoaXMgeWVhciwmcXVvdDtSA3RoZVIDbmV3UgJhbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVnhiUFhHd2NPRDRQd1RCdkptVl9GYzFrLU5CSWdOdF9NNFVMUHN5aVpuZS00ZkJnVmFkLWhzeGJFRi1GU0w0ZmF2bFFadnRmNHJEejBJVUhRQVRiT25neXNYdFFBUnR1X1hUdlRadWdTeVdfcGEwN1o3TGtQY245cmhrNWIyZ21PQmdaSUxrMG9aZxIEGgIIABrGBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCiBAgAEAAYACAAKicKBmxhdGVzdBWce4U-GgRsYXN0GgNuZXcaBnJlY2VudBoFdG9kYXkqHAoHbW9uc29vbhWDqptAGgxpdjtwO21vbnNvb24qLgoIZm9yZWNhc3QVPz2WQBoGcmVwb3J0GgZ1cGRhdGUaDWl2O3A7Zm9yZWNhc3QqDAoFaW5kaWEVDn-WQCoRCgFhFcgL7z8aAmFuGgN0aGUyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWeGJQWEd3Y09ENFB3VEJ2Sm1WX0ZjMWstTkJJZ050X000VUxQc3lpWm5lLTRmQmdWYWQtaHN4YkVGLUZTTDRmYXZsUVp2dGY0ckR6MElVSFFBVGJPbmd5c1h0UUFSdHVfWFR2VFp1Z1N5V19wYTA3WjdMa1BjbjlyaGs1YjJnbU9CZ1pJTGswb1pnOj9CZWxvdy1ub3JtYWwgPGI-bW9uc29vbiBmb3JlY2FzdDwvYj4gZm9yIDxiPkluZGlhPC9iPiB0aGlzIHllYXJCjQE8Yj5JbmRpYSBpcyBsaWtlbHkgdG8gc2VlIGJlbG93LW5vcm1hbCBtb25zb29uIHJhaW5zIHRoaXMgeWVhcjwvYj4sIGV4cGVjdGVkIHRvIHJlYWNoIDkyIHBlciBjZW50IG9mIHRoZSBsb25nLXBlcmlvZCBhdmVyYWdlIHRoaXMgeWVhciwmcXVvdDtSA3RoZVIDbmV3UgJhbiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -387,192 +88,46 @@
       "IN"
      ],
      "source": {
-      "description": "Progress of SW Monsoon · Withdrawal of SW Monsoon · Special daily weather report · All India Rainfall Time Series · Rainfall over homogeneous regions · Week by week ...",
-      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAMsti_ayJiRnOpJinOP4ryGNT2UbX1FhPoAAAP7-wst2BQVXHZ6uQlf0wUGZrXUW5hvZleBaJxkjX_yHPLyxys32GqXeoROjSp1qmmuO1SEN4saPIZUPyY3j2maHAjfJLvvOa6I9s_Jj_qhnYcHvl0xxD9SdccGu0YSF8wi-DZPdUqN7Mnh01I_pSTyhAwb9lyReCV1mZQBvUE9zVjXuGk_I7-KPWuSyJcNhRr3Shr1Qj3UJJwt9eXlTdkCKomp2i5rqW-Nn5VMSkJAm-uL1teUUBjS5V8gTrXLHl30qUqAA.webp",
-      "source_info_link": "https://mausam.imd.gov.in/imd_latest/contents/monsoon.php"
+      "description": "India is likely to see below-normal monsoon rains this year, expected to reach 92 per cent of the long-period average this year,\"",
+      "icon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAADwAgCdASoQABAAAsBMJbACdLoBEgNsBNKIL-8oYYAZwAD-7I6aHWQnMwlrEC1JCvGcn2DDhN-REP81KD8ZfbDgmICsm2w1sripQAPg_GDzLxHqL77u9JL4r9_KPmcJEekxqywkfqh7JjhO_jZN8AGevFfhiq-tSTSL1bPb_J06V9sh65EJaarYZ13kAAAA.webp",
+      "source_info_link": "https://www.babushahi.com/view-news.php?id=219732"
      }
     },
-    "displayed_link": "https://mausam.imd.gov.in › imd_latest › contents › mo...",
-    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAMsti_ayJiRnOpJinOP4ryGNT2UbX1FhPoAAAP7-wst2BQVXHZ6uQlf0wUGZrXUW5hvZleBaJxkjX_yHPLyxys32GqXeoROjSp1qmmuO1SEN4saPIZUPyY3j2maHAjfJLvvOa6I9s_Jj_qhnYcHvl0xxD9SdccGu0YSF8wi-DZPdUqN7Mnh01I_pSTyhAwb9lyReCV1mZQBvUE9zVjXuGk_I7-KPWuSyJcNhRr3Shr1Qj3UJJwt9eXlTdkCKomp2i5rqW-Nn5VMSkJAm-uL1teUUBjS5V8gTrXLHl30qUqAA.webp",
-    "link": "https://mausam.imd.gov.in/imd_latest/contents/monsoon.php",
+    "date": "13 Apr 2026",
+    "displayed_link": "https://www.babushahi.com › view-news",
+    "favicon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAADwAgCdASoQABAAAsBMJbACdLoBEgNsBNKIL-8oYYAZwAD-7I6aHWQnMwlrEC1JCvGcn2DDhN-REP81KD8ZfbDgmICsm2w1sripQAPg_GDzLxHqL77u9JL4r9_KPmcJEekxqywkfqh7JjhO_jZN8AGevFfhiq-tSTSL1bPb_J06V9sh65EJaarYZ13kAAAA.webp",
+    "link": "https://www.babushahi.com/view-news.php?id=219732",
     "position": 1,
-    "read_more_link": "https://mausam.imd.gov.in/imd_latest/contents/monsoon.php#:~:text=Progress%20of%20SW%20Monsoon&text=Withdrawal%20of%20SW%20Monsoon&text=Special%20daily%20weather%20report&text=All%20India%20Rainfall%20Time%20Series&text=Rainfall%20over%20homogeneous%20regions&text=Week%20by%20week%20rainfall%20activity",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVmghwxTLMQxezeccZoJaoB-bNQp1BgS8JJre1EVpG0QeWIELElfLHaT6TPYbQ6uzRVa0MQstmSps_sI5inrAYyD-zGCVn9J17074vsDbcQsaMzJnPjd_2Kk3fFxwVJzauYSns_lSpqPwwTOHj&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQFnoECCoQAQ&uoh=1",
-    "snippet": "Progress of SW Monsoon · Withdrawal of SW Monsoon · Special daily weather report · All India Rainfall Time Series · Rainfall over homogeneous regions · Week by week ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVxbPXGwcOD4PwTBvJmV_Fc1k-NBIgNt_M4ULPsyiZne-4fBgVad-hsxbEF-FSL4favlQZvtf4rDz0IUHQATbOngysXtQARtu_XTvTZugSyW_pa07Z7LkPcn9rhk5b2gmOBgZILk0oZg&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQFnoECCMQAQ&uoh=1",
+    "snippet": "India is likely to see below-normal monsoon rains this year, expected to reach 92 per cent of the long-period average this year,\"",
     "snippet_highlighted_words": [
-     "Progress of SW Monsoon"
+     "India is likely to see below-normal monsoon rains this year"
     ],
-    "source": "India Meteorological Department",
-    "title": "Monsoon - मौसम - India Meteorological Department"
+    "source": "Babushahi.com",
+    "title": "Below-normal monsoon forecast for India this year"
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "IN"
-     ],
-     "source": {
-      "description": "Current Weather Status and Extended Range Forecast for the next two weeks (17 to 30 September 2026) +91 9435669264,",
-      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAMsti_ayJiRnOpJinOP4ryGNT2UbX1FhPoAAAP7-wst2BQVXHZ6uQlf0wUGZrXUW5hvZleBaJxkjX_yHPLyxys32GqXeoROjSp1qmmuO1SEN4saPIZUPyY3j2maHAjfJLvvOa6I9s_Jj_qhnYcHvl0xxD9SdccGu0YSF8wi-DZPdUqN7Mnh01I_pSTyhAwb9lyReCV1mZQBvUE9zVjXuGk_I7-KPWuSyJcNhRr3Shr1Qj3UJJwt9eXlTdkCKomp2i5rqW-Nn5VMSkJAm-uL1teUUBjS5V8gTrXLHl30qUqAA.webp",
-      "source_info_link": "https://mausam.imd.gov.in/responsive/monsooninformation.php"
-     }
-    },
-    "displayed_link": "https://mausam.imd.gov.in › responsive › monsooninfo...",
-    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAMsti_ayJiRnOpJinOP4ryGNT2UbX1FhPoAAAP7-wst2BQVXHZ6uQlf0wUGZrXUW5hvZleBaJxkjX_yHPLyxys32GqXeoROjSp1qmmuO1SEN4saPIZUPyY3j2maHAjfJLvvOa6I9s_Jj_qhnYcHvl0xxD9SdccGu0YSF8wi-DZPdUqN7Mnh01I_pSTyhAwb9lyReCV1mZQBvUE9zVjXuGk_I7-KPWuSyJcNhRr3Shr1Qj3UJJwt9eXlTdkCKomp2i5rqW-Nn5VMSkJAm-uL1teUUBjS5V8gTrXLHl30qUqAA.webp",
-    "link": "https://mausam.imd.gov.in/responsive/monsooninformation.php",
-    "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVLzmOyGe2G7lg4ft02pP9HhL9K2sS5L024KGyaM8Luk1dFU6VSeIfUpe7t2zAve6im5qhL9RuuPvt3qBP7cLeSRsfWIc12HHUsDrFm7Kf1uftiwCxCmbBs1XJRGJtzPEwTYlP261MOHvpl4NGGvk&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQFnoECCwQAQ&uoh=1",
-    "snippet": "Current Weather Status and Extended Range Forecast for the next two weeks (17 to 30 September 2026) +91 9435669264,",
-    "snippet_highlighted_words": [
-     "Forecast"
-    ],
-    "source": "India Meteorological Department",
-    "title": "Monsoon Information | India Meteorological Department - मौसम"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "IN"
-     ],
-     "source": {
-      "description": "\"Southwest monsoon seasonal (June to September) rainfall over the country as a whole is likely to be normal (96-104%),\" the IMD said in its first stage Long ...",
-      "icon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp",
-      "source_info_link": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=202269"
-     }
-    },
-    "displayed_link": "https://www.pib.gov.in › newsite › PrintRelease",
-    "favicon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp",
-    "link": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=202269",
-    "position": 3,
-    "read_more_link": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=202269#:~:text=%22Southwest%20monsoon%20seasonal%20(June%20to,Range%20Forecast%20(LRF)%20for%20monsoons.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVUY7Sn9UaeQuNWfh3v-bBaMv3yUFRB9SB5Ka3gI6Ff_bKoPEzoqGhnuSVoxO0M9lE4-wJ_S3wmB-pSiVdaP6kseQmtjA0fuSXgneVUWPM_U85SRdPUmcGg5oYp3wxLFJO5N4QzV0juF0PeAh4yIrkdQ&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQFnoECCsQAQ&uoh=1",
-    "snippet": "\"Southwest monsoon seasonal (June to September) rainfall over the country as a whole is likely to be normal (96-104%),\" the IMD said in its first stage Long ...",
-    "snippet_highlighted_words": [
-     "monsoon"
-    ],
-    "source": "PIB",
-    "title": "IMD announces that it expects monsoon rainfall to be ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "IN"
-     ],
-     "source": {
-      "description": "Monsoon 2026 All-India Summer Monsoon Rainfall 01 June to 18 September , 2026 Actual: 691.9 mm Normal: 812.1 mm Departure from Normal: -14.80 % Date of",
-      "icon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAADQCACdASogACAAPrUurVanIacnG_DgFolsALElQTgKZp6gG8YvpUw6sfuFWcD6a1Dn9SStDqLO3YV7wME9J7W7__fRjEAL7Qp6UFwmEzHSAP74uXtmZDP_6EvAHS7OyYb5JMuKi5cfy3MVmnFOFenN6NiqIXgxuhiU3you5jo-7n3YrTmroA84Qa2ftjBBg7yTDNOtj8K79Dzqj1kXz_zVy_b4vP2uR59IKsNheZ-PH1qndy6NdVcLhsJSC8ruyqn9tGxxZUFIqPVgdZOiqDu9oO1h8J9H_ES8Vh8m3MeGJFdg9E1i0_lVFSNkykOzX84cYu6lhBugB2bT_tLuRuz_DeM4z_wT28KlKj-yeofAX0Wrfz-cffwDywLPXCF-NsyvQveGusIlLnbNYeuKdxOEQDFnSWWu0IQMbsB3FMhUDUb1peVY8GV6s5r7wdXhjnBl-v2YNyAIIEJrLjSwj8x9ku0YjjzQOMlX_DHFnM8E_r9f8f_q2pLSEuw8Eoczltof6k0BcT6E-wPYsptzXlSoRFZu2vmGp_eL33gmD7hVnpZcHh7EE3bOnTcjYHkcmw2VG8nZGsgaP6IuSeetE1VlKKM3UTExSTGQAA.webp",
-      "source_info_link": "https://mol.tropmet.res.in/"
-     }
-    },
-    "displayed_link": "https://mol.tropmet.res.in",
-    "favicon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAADQCACdASogACAAPrUurVanIacnG_DgFolsALElQTgKZp6gG8YvpUw6sfuFWcD6a1Dn9SStDqLO3YV7wME9J7W7__fRjEAL7Qp6UFwmEzHSAP74uXtmZDP_6EvAHS7OyYb5JMuKi5cfy3MVmnFOFenN6NiqIXgxuhiU3you5jo-7n3YrTmroA84Qa2ftjBBg7yTDNOtj8K79Dzqj1kXz_zVy_b4vP2uR59IKsNheZ-PH1qndy6NdVcLhsJSC8ruyqn9tGxxZUFIqPVgdZOiqDu9oO1h8J9H_ES8Vh8m3MeGJFdg9E1i0_lVFSNkykOzX84cYu6lhBugB2bT_tLuRuz_DeM4z_wT28KlKj-yeofAX0Wrfz-cffwDywLPXCF-NsyvQveGusIlLnbNYeuKdxOEQDFnSWWu0IQMbsB3FMhUDUb1peVY8GV6s5r7wdXhjnBl-v2YNyAIIEJrLjSwj8x9ku0YjjzQOMlX_DHFnM8E_r9f8f_q2pLSEuw8Eoczltof6k0BcT6E-wPYsptzXlSoRFZu2vmGp_eL33gmD7hVnpZcHh7EE3bOnTcjYHkcmw2VG8nZGsgaP6IuSeetE1VlKKM3UTExSTGQAA.webp",
-    "link": "https://mol.tropmet.res.in/",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVVtfmo05AS4WlHAgU133AmqCUAVo67-qmBECHonFPGh_gxnQfEzFBo4bLKrwpYz5pJltNn4M-96LmbKe0AL1e5957cktTvqBqJ76x_eTE&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQFnoECDoQAQ&uoh=1",
-    "snippet": "Monsoon 2026 All-India Summer Monsoon Rainfall 01 June to 18 September , 2026 Actual: 691.9 mm Normal: 812.1 mm Departure from Normal: -14.80 % Date of",
-    "snippet_highlighted_words": [
-     "All-India Summer Monsoon Rainfall 01 June to 18 September , 2026"
-    ],
-    "source": "Indian Institute of Tropical Meteorology (IITM)",
-    "title": "Monsoon OnLine – Indian Institute of Tropical Meteorology ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "IN"
-     ],
-     "source": {
-      "description": "Get the India weather forecast including weather radar and current conditions in India across major cities. Click for the forecast. Chennai 87° Delhi 94°",
-      "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOXo3D06d948mbgAbYDngNMA3kv_Io8DaYsFxmfoAQhE0rNjuqZKjvnl6RhN6gNxAAAD-9_Ct5j0oZ6be0P0W049cHz9vP1uvqEyOY5EEj9PNiEx1RXUsh4piUuMMFWvbanGP3Yg2LIzw9R8RPQaFv-vGmiDjufcvyV-eF5_pzYEqeaZ4niUeZj99QdU5h3NO_7jq3hNQ-2JBnyPuWh-_O6I3y79J5TAMwp_qM_eT2OlXSHCfv-WyJgc4N9cNdEuSDj39rz3Uy_7Q6E8V1Rf4aDu3fddHoGb2aONRADNHaZ62MMRRg80OAh45JbsEjnxTu7QDoQIPjdxyJWhvkmq0mFDUlTr-1m8l4s6mbbLEdiVADCHrpqyJ97t_XniK3azMLJh81KSUIBkfsQdVCKf4rIHWfZ5KwTFm0gqId0oid5dYjvzNJTTrvGQJNldbAjFx1OF6YAAA.webp",
-      "source_info_link": "https://www.accuweather.com/en/in/india-weather"
-     }
-    },
-    "displayed_link": "https://www.accuweather.com › india-weather",
-    "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOXo3D06d948mbgAbYDngNMA3kv_Io8DaYsFxmfoAQhE0rNjuqZKjvnl6RhN6gNxAAAD-9_Ct5j0oZ6be0P0W049cHz9vP1uvqEyOY5EEj9PNiEx1RXUsh4piUuMMFWvbanGP3Yg2LIzw9R8RPQaFv-vGmiDjufcvyV-eF5_pzYEqeaZ4niUeZj99QdU5h3NO_7jq3hNQ-2JBnyPuWh-_O6I3y79J5TAMwp_qM_eT2OlXSHCfv-WyJgc4N9cNdEuSDj39rz3Uy_7Q6E8V1Rf4aDu3fddHoGb2aONRADNHaZ62MMRRg80OAh45JbsEjnxTu7QDoQIPjdxyJWhvkmq0mFDUlTr-1m8l4s6mbbLEdiVADCHrpqyJ97t_XniK3azMLJh81KSUIBkfsQdVCKf4rIHWfZ5KwTFm0gqId0oid5dYjvzNJTTrvGQJNldbAjFx1OF6YAAA.webp",
-    "link": "https://www.accuweather.com/en/in/india-weather",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVG_usg6mrNmNdWFqeBYTVzh-5tmd85MnArXs7FHjYDy3jYSnHeUiWyZRBQ4u8jY76IuvCGwVfhBtFQJnKxFvxpX03MnZRj2b7QvnWzhN9zZvJS6QtJSm3VxDW2E2-nxVXoGk&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQFnoECDwQAQ&uoh=1",
-    "snippet": "Get the India weather forecast including weather radar and current conditions in India across major cities. Click for the forecast. Chennai 87° Delhi 94°",
-    "snippet_highlighted_words": [
-     "India",
-     "forecast",
-     "India",
-     "forecast"
-    ],
-    "source": "AccuWeather",
-    "title": "India Current Weather"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "IN"
-     ],
-     "source": {
-      "description": "Updated Long Range Forecast for the Southwest Monsoon 2026 : Forecast outlook for Rainfall and Temperature for the month of September 2026. Rainfall across ...",
-      "source_info_link": "https://www.imdpune.gov.in/"
-     }
-    },
-    "displayed_link": "https://www.imdpune.gov.in",
-    "link": "https://www.imdpune.gov.in/",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVfA1otY0mgLNzA6WwJRf6cgy3ayyOuFPol6bowGxIK0-N0QgJ38k4RFjkKO5shE6wnAG4fLmxwvINJXBnSf2nij9MfEFKm9Ox3ii6K5Ee&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQFnoECDkQAQ&uoh=1",
-    "snippet": "Updated Long Range Forecast for the Southwest Monsoon 2026 : Forecast outlook for Rainfall and Temperature for the month of September 2026. Rainfall across ...",
-    "snippet_highlighted_words": [
-     "Updated Long Range Forecast for the Southwest Monsoon 2026"
-    ],
-    "source": "IMD Pune",
-    "title": "Climate Research & Services, Pune"
-   },
-   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZSdE5Ca2ZGam5oR1QzR19JVzlOWWdtbTdSNXBvSTlKX1V6X1BGREE4QmIySzhQOGxRU3pDNjdFQmJ5M2xNTWM4endjeVJkSG9vbmNhN3o3LUh5NGJMVWY1dS1ZYTdib1dGYXl1RTB1RUhDMUVZREZxWDZaczFTVGdkMW1QVkJqUkp0OW5pYURxcmIxR2JvRzlGWUx6X01zVTFQNld1YXhnRWlMN0tfSlBodXNrc0Z1QWxza21KclZwSml1VzRhaU85V3l3ZGFQQzUyajZCcklYaGhGRVJqQ2txampKMVIwY2tXU1B2QjAxcEtpWEJhdDNOVFA3MFY0SW1ja1p1b2pVdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZSdE5Ca2ZGam5oR1QzR19JVzlOWWdtbTdSNXBvSTlKX1V6X1BGREE4QmIySzhQOGxRU3pDNjdFQmJ5M2xNTWM4endjeVJkSG9vbmNhN3o3LUh5NGJMVWY1dS1ZYTdib1dGYXl1RTB1RUhDMUVZREZxWDZaczFTVGdkMW1QVkJqUkp0OW5pYURxcmIxR2JvRzlGWUx6X01zVTFQNld1YXhnRWlMN0tfSlBodXNrc0Z1QWxza21KclZwSml1VzRhaU85V3l3ZGFQQzUyajZCcklYaGhGRVJqQ2txampKMVIwY2tXU1B2QjAxcEtpWEJhdDNOVFA3MFY0SW1ja1p1b2pVdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
     "about_this_result": {
      "source": {
-      "description": "The India Meteorological Department (IMD) has further reduced its estimate of monsoon rainfall to 90% from the 92% it forecast in April.",
+      "description": "Public India's early warning systems for monsoon rainfall have seen significant advancement, enabling more reliable and timely forecasts.",
       "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
      }
     },
-    "displayed_link": "20+ reactions · 3 months ago",
-    "duration": "2:57",
+    "displayed_link": "50+ reactions · 2 months ago",
+    "duration": "0:09",
     "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/thehindu/videos/the-india-meteorological-department-imd-has-further-reduced-its-estimate-of-mons/2101816024102402/",
-    "position": 7,
-    "snippet": "The India Meteorological Department (IMD) has further reduced its estimate of monsoon rainfall to 90% from the 92% it forecast in April.",
-    "source": "Facebook · The Hindu",
-    "thumbnail": "https://serpapi.com/searches/6aafcbd4aa0a88fb0bd498ad/images/k0Pfqt03n61GplSiw6we0uUqvuwwgOUSGUjlzo0mv4k.jpeg",
-    "title": "The India Meteorological Department (IMD) has further ..."
+    "link": "https://www.facebook.com/moesgoi/posts/stay-ahead-with-science-driven-seasonal-forecasts-the-seasonal-forecast-system-p/1482484607256961/",
+    "position": 2,
+    "snippet": "Public India's early warning systems for monsoon rainfall have seen significant advancement, enabling more reliable and timely forecasts.",
+    "source": "Facebook · Ministry of Earth Sciences Government of India",
+    "thumbnail": "https://serpapi.com/searches/6abd286303b136ea126ba705/images/YHhoXUetXJWmOLsukyxh1eYk-4NR3SgraHxd3blyANY.jpeg",
+    "title": "Stay ahead with science-driven seasonal forecasts. The ..."
    },
    {
-    "about_this_result": {
-     "source": {
-      "description": "Daily Weather Briefing (20.07.2026) Isolated heavy to very heavy rainfall at few places with extremely heavy rainfall likely at isolated ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "2.6K+ views · 2 months ago",
-    "duration": "5:35",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=NRE2up9GxAI",
-    "position": 8,
-    "snippet": "Daily Weather Briefing (20.07.2026) Isolated heavy to very heavy rainfall at few places with extremely heavy rainfall likely at isolated ...",
-    "source": "YouTube · India Meteorological Department",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAH5RE2-XOGfRmhs3EPOBkdnsToS_LFq-gqI2ysw9rl4O1EjQkKXGUA&s",
-    "title": "Active Monsoon Conditions likely over northwest, and ...",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcToXG5x1Jfisc4wryIsvmm4Gh9C17l3IatFzg"
-   },
-   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZXUi05WDdfMEpEbnZoSktKbFZSVmpBaHlCVzRpcGhhWFoydUxMal96TFFUOXJXckhoVFpZUVJ0SFdHSWFqNnJXZ0NZMWdaaE14VHlLSHRRQ19wVENncUJLeXI2VWxOZThRa0NzSkxWN1M2RGxDMk9PTmhITGZfaG1ycjBxQWJGUHhWM3NPd2RpR1g4OEJyMUx4ZjVvQktNMzRfRi1XQVFPR3FFVDEtTUtqRllXZkVUak9KNV80a1NFTXg0TE9vTmJpUFI4RGJoT3F2bUphdjA1ZVZzc2dpYUYyTmRrczRIVkVvd1dVV3dVWnlQV0kxVGRBOFViUUF6NndrEgQaAggAGuIEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQL4ECAAQABgAIAAqJwoGbGF0ZXN0FQAAAAAaBGxhc3QaA25ldxoGcmVjZW50GgV0b2RheSocCgdtb25zb29uFYh0mEAaDGl2O3A7bW9uc29vbiouCghmb3JlY2FzdBXnTIJAGgZyZXBvcnQaBnVwZGF0ZRoNaXY7cDtmb3JlY2FzdCoMCgVpbmRpYRWMroVAKhEKAWEVAiQFQBoCYW4aA3RoZTK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZTLW1VczNEMF9lNTkwc2E4LW0weGg1c2VhU0JCZjNzRC1hVTBQTER2OTE5N2xxMjMxcjlWcVg5ekFLMVQ2NUpVYWZ0WmVvZXgyczhXLWd2ZGhjVVdPZHRuNE44cE42aW93bkEzRUl6OTRpb0tZbTR0TXNScmpiYnpyaXZNU2hZS1R2MHpPMjlucUhDUnMyc1BCcFZFdUhkZVp6U3NKdksySFE6MDxiPkluZGlhIE1vbnNvb24gRm9yZWNhc3Q8L2I-IDIwMjUgLSBDNFMgQ291cnNlc0KgAVRoZSA8Yj5JbmRpYTwvYj4gTWV0ZW9yb2xvZ2ljYWwgRGVwYXJ0bWVudCAoSU1EKSBmb3JlY2FzdHMgMTA1JSBvZiBMb25nIFBlcmlvZCBBdmVyYWdlIChMUEEpIHJhaW5mYWxsIGZvciAyMDI1ICjCsSA1JSBtYXJnaW4pLiBBYm92ZSBOb3JtYWw6IDEwNeKAkzExMCUmbmJzcDsuLi5SAmFuUgNuZXdSA3RoZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZXUi05WDdfMEpEbnZoSktKbFZSVmpBaHlCVzRpcGhhWFoydUxMal96TFFUOXJXckhoVFpZUVJ0SFdHSWFqNnJXZ0NZMWdaaE14VHlLSHRRQ19wVENncUJLeXI2VWxOZThRa0NzSkxWN1M2RGxDMk9PTmhITGZfaG1ycjBxQWJGUHhWM3NPd2RpR1g4OEJyMUx4ZjVvQktNMzRfRi1XQVFPR3FFVDEtTUtqRllXZkVUak9KNV80a1NFTXg0TE9vTmJpUFI4RGJoT3F2bUphdjA1ZVZzc2dpYUYyTmRrczRIVkVvd1dVV3dVWnlQV0kxVGRBOFViUUF6NndrEgQaAggAGuIEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQL4ECAAQABgAIAAqJwoGbGF0ZXN0FQAAAAAaBGxhc3QaA25ldxoGcmVjZW50GgV0b2RheSocCgdtb25zb29uFYh0mEAaDGl2O3A7bW9uc29vbiouCghmb3JlY2FzdBXnTIJAGgZyZXBvcnQaBnVwZGF0ZRoNaXY7cDtmb3JlY2FzdCoMCgVpbmRpYRWMroVAKhEKAWEVAiQFQBoCYW4aA3RoZTK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZTLW1VczNEMF9lNTkwc2E4LW0weGg1c2VhU0JCZjNzRC1hVTBQTER2OTE5N2xxMjMxcjlWcVg5ekFLMVQ2NUpVYWZ0WmVvZXgyczhXLWd2ZGhjVVdPZHRuNE44cE42aW93bkEzRUl6OTRpb0tZbTR0TXNScmpiYnpyaXZNU2hZS1R2MHpPMjlucUhDUnMyc1BCcFZFdUhkZVp6U3NKdksySFE6MDxiPkluZGlhIE1vbnNvb24gRm9yZWNhc3Q8L2I-IDIwMjUgLSBDNFMgQ291cnNlc0KgAVRoZSA8Yj5JbmRpYTwvYj4gTWV0ZW9yb2xvZ2ljYWwgRGVwYXJ0bWVudCAoSU1EKSBmb3JlY2FzdHMgMTA1JSBvZiBMb25nIFBlcmlvZCBBdmVyYWdlIChMUEEpIHJhaW5mYWxsIGZvciAyMDI1ICjCsSA1JSBtYXJnaW4pLiBBYm92ZSBOb3JtYWw6IDEwNeKAkzExMCUmbmJzcDsuLi5SAmFuUgNuZXdSA3RoZSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -581,151 +136,240 @@
       "IN"
      ],
      "source": {
-      "description": "❖ Conditions are becoming favorable for the withdrawal of the Southwest Monsoon from some parts of West Rajasthan around 19th September 2026. ❖ The Low- ...",
-      "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAM45py-dJUATihMIbDsI3JFLyAEkADkmbLoN3cRtPAAA_v7Cy9Dz57_5wakd5dB17T6UobNvFbOLxk-L2bokXd8Qzof957f8__adpD_T-NVDPW06GlWfO5dq_ADNAy6f-Nf_6nwHacdBbLsm4iX3AB8xNu9aUA4A6Ma6T7tKxptdvyq9VkOd_P7uGBmvycV7rjwh_yHMzw0Jgi3Hd6W91BpQ72Vg_ForSmpS0Mh1JEzLLoZ6iabDHTHJ2z2RPVq1RfohT1LjsgBA49I2ejXIofQLwRMDHWc_a6t9iSHFk2OAMHaHI7DvlePUCA5vrpukXCDbSzDfSOm2qn387rpabP-qQaJaEWPD2cAA.webp",
-      "source_info_link": "https://internal.imd.gov.in/section/nhac/dynamic/extended.pdf"
+      "description": "The India Meteorological Department (IMD) forecasts 105% of Long Period Average (LPA) rainfall for 2025 (± 5% margin). Above Normal: 105–110% ...",
+      "source_info_link": "https://c4scourses.in/national-affairs/india-monsoon-forecast-2025/?srsltid=AU7gw4XvCFXOy4Demj7Ui5oxABoUMGJa1Q1I-M8bvtl-QPK8KHyWKaxn"
      }
     },
-    "displayed_link": "https://internal.imd.gov.in › dynamic › extended",
-    "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAM45py-dJUATihMIbDsI3JFLyAEkADkmbLoN3cRtPAAA_v7Cy9Dz57_5wakd5dB17T6UobNvFbOLxk-L2bokXd8Qzof957f8__adpD_T-NVDPW06GlWfO5dq_ADNAy6f-Nf_6nwHacdBbLsm4iX3AB8xNu9aUA4A6Ma6T7tKxptdvyq9VkOd_P7uGBmvycV7rjwh_yHMzw0Jgi3Hd6W91BpQ72Vg_ForSmpS0Mh1JEzLLoZ6iabDHTHJ2z2RPVq1RfohT1LjsgBA49I2ejXIofQLwRMDHWc_a6t9iSHFk2OAMHaHI7DvlePUCA5vrpukXCDbSzDfSOm2qn387rpabP-qQaJaEWPD2cAA.webp",
-    "link": "https://internal.imd.gov.in/section/nhac/dynamic/extended.pdf",
-    "position": 9,
-    "read_more_link": "https://internal.imd.gov.in/section/nhac/dynamic/extended.pdf#:~:text=%E2%9D%96%20Conditions%20are%20becoming%20favorable,adjoining%20Northeast%20Arabian%20Sea%20persisted",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVNDAxYY_oQQkfdACIWod8seVd3g5OR4FNezKv3fZHRivFl2Hwg0ACJYW09V6a7KaNbSxsyFxQ5J0SzENN9R6F0yLwqOowLYAtCLYAwAGg3uqZk6dnjJCS0TelIGX9hM4SPCBzNDKT-HhN4vovlwqOvA&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQFnoECDsQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "pages": 10
-      },
-      "extensions": [
-       "10 pages"
-      ]
-     }
-    },
-    "snippet": "❖ Conditions are becoming favorable for the withdrawal of the Southwest Monsoon from some parts of West Rajasthan around 19th September 2026. ❖ The Low- ...",
+    "date": "23 Apr 2025",
+    "displayed_link": "https://c4scourses.in › national-affairs › india-monsoon-f...",
+    "link": "https://c4scourses.in/national-affairs/india-monsoon-forecast-2025/?srsltid=AU7gw4XvCFXOy4Demj7Ui5oxABoUMGJa1Q1I-M8bvtl-QPK8KHyWKaxn",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwAEB6zswFWR-9X7_0JDnvhJKJlVRVjAhyBW4iphaXZ2uLLj_zLQT9rWrHhTZYQRtHWGIaj6rWgCY1gZhMxTyKHtQC_pTCgqBKyr6UlNe8QkCsJLV7S6DlC2OONhHLf_hmrr0qAbFPxV3sOwdiGX88Br1Lxf5oBKM34_F-WAQOGqET1-MKjFYWfETjOJ5_4kSEMx4LOoNbiPR8DbhOqvmJav05eVssgiaF2Ndks4HVEowWUWwUZyPWI1TdA8UbQAz6wk&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQFnoECC0QAQ&uoh=1",
+    "snippet": "The India Meteorological Department (IMD) forecasts 105% of Long Period Average (LPA) rainfall for 2025 (± 5% margin). Above Normal: 105–110% ...",
     "snippet_highlighted_words": [
-     "Conditions are becoming favorable for the withdrawal of the Southwest Monsoon"
+     "India"
     ],
-    "source": "India Meteorological Department",
-    "title": "Government of India Earth System Science Organization ..."
+    "source": "C4S Courses",
+    "title": "India Monsoon Forecast 2025"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm5teGxXcGxsV0hmMTl1Q19VYUhtWmRKRHFrX25pczc3ZEVRcS1xeDhoY3E4elRrMDJLY1ZmbVFiZ09ONkZSZVlfNmV0QWJUR1QyajJZTU8yUUNGbGJDTmlGWEowRXhoYjhhdDZxQ1QwRUk2VVo0Z3BCcTJ1bW93ekppd3JENC04b1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm5teGxXcGxsV0hmMTl1Q19VYUhtWmRKRHFrX25pczc3ZEVRcS1xeDhoY3E4elRrMDJLY1ZmbVFiZ09ONkZSZVlfNmV0QWJUR1QyajJZTU8yUUNGbGJDTmlGWEowRXhoYjhhdDZxQ1QwRUk2VVo0Z3BCcTJ1bW93ekppd3JENC04b1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_this_result": {
+     "source": {
+      "description": "Get the latest updates on monsoon patterns, regional rainfall expectations, and how it will impact agriculture, water resources, and daily life ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "1K+ views · 1 year ago",
+    "duration": "57:26",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=3qs1eKvDBu8",
+    "position": 4,
+    "snippet": "Get the latest updates on monsoon patterns, regional rainfall expectations, and how it will impact agriculture, water resources, and daily life ...",
+    "source": "YouTube · DD News",
+    "thumbnail": "https://serpapi.com/searches/6abd286303b136ea126ba705/images/YHhoXUetXJWmOLsukyxh1fuq9Sf9BD3bxO8rzOIH62U.jpeg",
+    "title": "2025 Southwest Monsoon Rainfall Forecast & June Outlook",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTxfRRhF122-lLSbGAZRsdaw-K2LkKmDsm8EA"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVkdBUVh1NkJnVlhROTN1RlE3NDB1Ri1pLWxrYi0wQVZjZzN4U0JuSnQyU1hsQmVHS3dUM2JJZjdyOEtsbi1zYXBicG5kbzM5QW1NaFZyZldkOEEwNG5WNmh2OWRhNS1DUWZWMUp4S1RZR21CSE9EVzBScUxMSVBXclZOREgzbFNKUTQyTk82X1BTQnJkV0hFclBLZGlONUtMdWFheTgzc0NtZxIEGgIIABrwBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDMBAgAEAAYACAAKicKBmxhdGVzdBUAAAAAGgRsYXN0GgNuZXcaBnJlY2VudBoFdG9kYXkqHAoHbW9uc29vbhUTgI9AGgxpdjtwO21vbnNvb24qLgoIZm9yZWNhc3QVkO4EQBoGcmVwb3J0GgZ1cGRhdGUaDWl2O3A7Zm9yZWNhc3QqDAoFaW5kaWEV5DePQCoRCgFhFWDxFEAaAmFuGgN0aGUyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWR0FRWHU2QmdWWFE5M3VGUTc0MHVGLWktbGtiLTBBVmNnM3hTQm5KdDJTWGxCZUdLd1QzYklmN3I4S2xuLXNhcGJwbmRvMzlBbU1oVnJmV2Q4QTA0blY2aHY5ZGE1LUNRZlYxSnhLVFlHbUJIT0RXMFJxTExJUFdyVk5ESDNsU0pRNDJOTzZfUFNCcmRXSEVyUEtkaU41S0x1YWF5ODNzQ21nOkA8Yj5SZWNlbnQ8L2I-IG1vZGVscyBmb3IgbG9uZyByYW5nZSBmb3JlY2FzdGluZyBvZiBTb3V0aHdlc3QgLi4uQp4BPGI-UmVjZW50IG1vZGVscyBmb3IgbG9uZyByYW5nZSBmb3JlY2FzdGluZyBvZiBTb3V0aHdlc3QgbW9uc29vbiByYWluZmFsbCBpbiBJbmRpYTwvYj4g44O7IGxvbmcgcmFuZ2UgZm9yZWNhc3Rpbmcgb2YgdGhlIHNvdXRod2VzdCBtb25zb29uIGV2ZXIgc2luY2UmbmJzcDsuLi5SAmFuUgNuZXdSA3RoZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVkdBUVh1NkJnVlhROTN1RlE3NDB1Ri1pLWxrYi0wQVZjZzN4U0JuSnQyU1hsQmVHS3dUM2JJZjdyOEtsbi1zYXBicG5kbzM5QW1NaFZyZldkOEEwNG5WNmh2OWRhNS1DUWZWMUp4S1RZR21CSE9EVzBScUxMSVBXclZOREgzbFNKUTQyTk82X1BTQnJkV0hFclBLZGlONUtMdWFheTgzc0NtZxIEGgIIABrwBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDMBAgAEAAYACAAKicKBmxhdGVzdBUAAAAAGgRsYXN0GgNuZXcaBnJlY2VudBoFdG9kYXkqHAoHbW9uc29vbhUTgI9AGgxpdjtwO21vbnNvb24qLgoIZm9yZWNhc3QVkO4EQBoGcmVwb3J0GgZ1cGRhdGUaDWl2O3A7Zm9yZWNhc3QqDAoFaW5kaWEV5DePQCoRCgFhFWDxFEAaAmFuGgN0aGUyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWR0FRWHU2QmdWWFE5M3VGUTc0MHVGLWktbGtiLTBBVmNnM3hTQm5KdDJTWGxCZUdLd1QzYklmN3I4S2xuLXNhcGJwbmRvMzlBbU1oVnJmV2Q4QTA0blY2aHY5ZGE1LUNRZlYxSnhLVFlHbUJIT0RXMFJxTExJUFdyVk5ESDNsU0pRNDJOTzZfUFNCcmRXSEVyUEtkaU41S0x1YWF5ODNzQ21nOkA8Yj5SZWNlbnQ8L2I-IG1vZGVscyBmb3IgbG9uZyByYW5nZSBmb3JlY2FzdGluZyBvZiBTb3V0aHdlc3QgLi4uQp4BPGI-UmVjZW50IG1vZGVscyBmb3IgbG9uZyByYW5nZSBmb3JlY2FzdGluZyBvZiBTb3V0aHdlc3QgbW9uc29vbiByYWluZmFsbCBpbiBJbmRpYTwvYj4g44O7IGxvbmcgcmFuZ2UgZm9yZWNhc3Rpbmcgb2YgdGhlIHNvdXRod2VzdCBtb25zb29uIGV2ZXIgc2luY2UmbmJzcDsuLi5SAmFuUgNuZXdSA3RoZSICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ],
+     "source": {
+      "description": "Recent models for long range forecasting of Southwest monsoon rainfall in India ・ long range forecasting of the southwest monsoon ever since ...",
+      "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAAAwBwCdASoXACAAPtE-tFooIigoFAEAGgloAMTp-qXYN8DSBTLvG-9Q_YxHEEP02YIT_mHL-G0xTxrxqZE-X7_PV-AA_v0s75psJNXNqQmf_nFwnlkuhOeGZO3ynDlrvyFCfAmKHrZvaiheOZxfDA-DsiqONjnW80OV2eALtJxZa1Hydpou2gpBG4LpRHmoCeaq7UK_U7ilIafUH1Kjx_OIui8y0EtSBt1PSVDOTBRZ1XCAOYkqknmuStbU7S6FTlkyJMj7Jb4WV3_hr3A7AXAKYePk8ydZlbELbTMYMu1A_rq0XbGBixTuMd05yE3CVDwtdWffd0yKQXmsxwOezuxoaug6l-_BXxygyJUx2Zm13XgDu2NBo2IgHlW0SYW6msUjHxVj8H4KGbdN7iDRP3alTqgBXXANYMAAAA.webp",
+      "source_info_link": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/3449"
+     }
+    },
+    "author": "by V THAPLIYAL",
+    "displayed_link": "https://mausamjournal.imd.gov.in › article › view",
+    "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAAAwBwCdASoXACAAPtE-tFooIigoFAEAGgloAMTp-qXYN8DSBTLvG-9Q_YxHEEP02YIT_mHL-G0xTxrxqZE-X7_PV-AA_v0s75psJNXNqQmf_nFwnlkuhOeGZO3ynDlrvyFCfAmKHrZvaiheOZxfDA-DsiqONjnW80OV2eALtJxZa1Hydpou2gpBG4LpRHmoCeaq7UK_U7ilIafUH1Kjx_OIui8y0EtSBt1PSVDOTBRZ1XCAOYkqknmuStbU7S6FTlkyJMj7Jb4WV3_hr3A7AXAKYePk8ydZlbELbTMYMu1A_rq0XbGBixTuMd05yE3CVDwtdWffd0yKQXmsxwOezuxoaug6l-_BXxygyJUx2Zm13XgDu2NBo2IgHlW0SYW6msUjHxVj8H4KGbdN7iDRP3alTqgBXXANYMAAAA.webp",
+    "link": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/3449",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVGAQXu6BgVXQ93uFQ740uF-i-lkb-0AVcg3xSBnJt2SXlBeGKwT3bIf7r8Kln-sapbpndo39AmMhVrfWd8A04nV6hv9da5-CQfV1JxKTYGmBHODW0RqLLIPWrVNDH3lSJQ42NO6_PSBrdWHErPKdiN5KLuaay83sCmg&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQFnoECDAQAQ&uoh=1",
+    "snippet": "Recent models for long range forecasting of Southwest monsoon rainfall in India ・ long range forecasting of the southwest monsoon ever since ...",
+    "snippet_highlighted_words": [
+     "Recent models for long range forecasting of Southwest monsoon rainfall in India"
+    ],
+    "source": "MAUSAM Journal",
+    "title": "Recent models for long range forecasting of Southwest ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjhERVNMdHpkZ1JmTmp2V2x4eFB2UkFOUTh0aFhCM2FaT2UyMjNjMTlkZldmMGVnMHVVYWtZUld3Q2dxckNiSFp6RDRUX1NRYUVabHdjNVhXeHZWTl9Ya1NoYmNaWk1kb0QwZ29HczlrVi1mYWtTWVpsdkdlU21TVmpKeEFGQ0gzLXcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjhERVNMdHpkZ1JmTmp2V2x4eFB2UkFOUTh0aFhCM2FaT2UyMjNjMTlkZldmMGVnMHVVYWtZUld3Q2dxckNiSFp6RDRUX1NRYUVabHdjNVhXeHZWTl9Ya1NoYmNaWk1kb0QwZ29HczlrVi1mYWtTWVpsdkdlU21TVmpKeEFGQ0gzLXcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_this_result": {
+     "source": {
+      "description": "Heavy to very heavy rain is expected in several areas, including the Himalayan region, Odisha, parts of eastern India and the Northeast.",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "130+ views · 1 month ago",
+    "duration": "2:35",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=dO_eTJsfSOA",
+    "position": 6,
+    "snippet": "Heavy to very heavy rain is expected in several areas, including the Himalayan region, Odisha, parts of eastern India and the Northeast.",
+    "source": "YouTube · India Today Global",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-zhw87AUNgA43IsU5qI54gQ77eTNqbnb1LBbUum33xSkaRxZU9Jcyg&s",
+    "title": "India Monsoon Alert: Heavy Rain From Himalayas To Assam ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZRS0p4c0tRM0lKcXdOSldFNjNYb0YwU0huMmhOZW9oeURDUHlJY1M3LWhyRnRHZjRma0lwaWIzZUdOdzAxckJzTC1rOXc4Y3ZZeUFIX2lFdzNhY2YtOE5mTGEwTDBzWlByS3Z0ZS0zYnBsWm1PN3Nld3ExWXpETktDdXg2N2I1dlpPVk4tWHJtdEJQZDZYNW9YVVVfci1CWXdrb2MzV0UxeHZPb3IwWlZORE9oVU16Q3BoOWJxWXRYNThLY1NVdFpEN1lTQmdkTjhDV2ZrMy1VNGZuZEs4cEVfTHY2SHl1OVJFYkowTTloQ3Y0elhTN0ozb3k3Y0pJd01PYnVoYlNXeHdzTWlrVTYzYzZVZ1dkEgQaAggAGtoFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLYFCAAQABgAIAAqJwoGbGF0ZXN0FcRyuz4aBGxhc3QaA25ldxoGcmVjZW50GgV0b2RheSocCgdtb25zb29uFVwVe0AaDGl2O3A7bW9uc29vbiouCghmb3JlY2FzdBWe7IVAGgZyZXBvcnQaBnVwZGF0ZRoNaXY7cDtmb3JlY2FzdCoMCgVpbmRpYRV0Lrg_KhEKAWEVSCS_PxoCYW4aA3RoZTKmAi9nb3RvP3VybD1DQUVTMEFFQjZ6c3dGUUtKeHNLUTNJSnF3TkpXRTYzWG9GMFNIbjJoTmVvaHlEQ1B5SWNTNy1ockZ0R2Y0ZmtJcGliM2VHTncwMXJCc0wtazl3OGN2WXlBSF9pRXczYWNmLThOZkxhMEwwc1pQckt2dGUtM2JwbFptTzdzZXdxMVl6RE5LQ3V4NjdiNXZaT1ZOLVhybXRCUGQ2WDVvWFVVX3ItQll3a29jM1dFMXh2T29yMFpWTkRPaFVNekNwaDlicVl0WDU4S2NTVXRaRDdZU0JnZE44Q1dmazMtVTRmbmRLOHBFX0x2Nkh5dTlSRWJKME05aEN2NHpYUzdKM295N2NKSXdNT2J1aGJTV3h3c01pa1U2M2M2VWdXZDpASU1EIGlzc3VlcyBmaXJzdCAyMDI2IFNvdXRod2VzdCA8Yj5tb25zb29uIGZvcmVjYXN0PC9iPiAtIEVUIE5vd0KaAVNvdXRod2VzdCBtb25zb29uIGZvcmVjYXN0OiA8Yj5CZWxvdy1ub3JtYWwgcmFpbmZhbGwgYXQgOTIlIG9mIGxvbmctcGVyaW9kIGF2ZXJhZ2U8L2I-LiBXZXN0ZXJuIERpc3R1cmJhbmNlcyBhcmUgbGlrZWx5IHRvIGFmZmVjdCBub3J0aHdlc3QgSW5kaWEmbmJzcDsuLi5SAmFuUgNuZXdSA3RoZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZRS0p4c0tRM0lKcXdOSldFNjNYb0YwU0huMmhOZW9oeURDUHlJY1M3LWhyRnRHZjRma0lwaWIzZUdOdzAxckJzTC1rOXc4Y3ZZeUFIX2lFdzNhY2YtOE5mTGEwTDBzWlByS3Z0ZS0zYnBsWm1PN3Nld3ExWXpETktDdXg2N2I1dlpPVk4tWHJtdEJQZDZYNW9YVVVfci1CWXdrb2MzV0UxeHZPb3IwWlZORE9oVU16Q3BoOWJxWXRYNThLY1NVdFpEN1lTQmdkTjhDV2ZrMy1VNGZuZEs4cEVfTHY2SHl1OVJFYkowTTloQ3Y0elhTN0ozb3k3Y0pJd01PYnVoYlNXeHdzTWlrVTYzYzZVZ1dkEgQaAggAGtoFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLYFCAAQABgAIAAqJwoGbGF0ZXN0FcRyuz4aBGxhc3QaA25ldxoGcmVjZW50GgV0b2RheSocCgdtb25zb29uFVwVe0AaDGl2O3A7bW9uc29vbiouCghmb3JlY2FzdBWe7IVAGgZyZXBvcnQaBnVwZGF0ZRoNaXY7cDtmb3JlY2FzdCoMCgVpbmRpYRV0Lrg_KhEKAWEVSCS_PxoCYW4aA3RoZTKmAi9nb3RvP3VybD1DQUVTMEFFQjZ6c3dGUUtKeHNLUTNJSnF3TkpXRTYzWG9GMFNIbjJoTmVvaHlEQ1B5SWNTNy1ockZ0R2Y0ZmtJcGliM2VHTncwMXJCc0wtazl3OGN2WXlBSF9pRXczYWNmLThOZkxhMEwwc1pQckt2dGUtM2JwbFptTzdzZXdxMVl6RE5LQ3V4NjdiNXZaT1ZOLVhybXRCUGQ2WDVvWFVVX3ItQll3a29jM1dFMXh2T29yMFpWTkRPaFVNekNwaDlicVl0WDU4S2NTVXRaRDdZU0JnZE44Q1dmazMtVTRmbmRLOHBFX0x2Nkh5dTlSRWJKME05aEN2NHpYUzdKM295N2NKSXdNT2J1aGJTV3h3c01pa1U2M2M2VWdXZDpASU1EIGlzc3VlcyBmaXJzdCAyMDI2IFNvdXRod2VzdCA8Yj5tb25zb29uIGZvcmVjYXN0PC9iPiAtIEVUIE5vd0KaAVNvdXRod2VzdCBtb25zb29uIGZvcmVjYXN0OiA8Yj5CZWxvdy1ub3JtYWwgcmFpbmZhbGwgYXQgOTIlIG9mIGxvbmctcGVyaW9kIGF2ZXJhZ2U8L2I-LiBXZXN0ZXJuIERpc3R1cmJhbmNlcyBhcmUgbGlrZWx5IHRvIGFmZmVjdCBub3J0aHdlc3QgSW5kaWEmbmJzcDsuLi5SAmFuUgNuZXdSA3RoZSICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ],
+     "source": {
+      "description": "Southwest monsoon forecast: Below-normal rainfall at 92% of long-period average. Western Disturbances are likely to affect northwest India ...",
+      "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vwqQLkl9AD9QOtmloiIX8r_NAGYZxF8WmKSn20tT5bn8TQR508QYAAP72A3fvF5C5fneT4-5q_CKeV95S2z2ReYs4qjrpRJrTfK4wmqIydGKdPr5UjXyVCSL3UoCBPDsI4yfQZotY0eE9sG9vy69__T3mrOuVJCDn-97Bqk5XBzd-A_seeN7J9Mp55H6fqEtP1FsYEerT8sLpt179NjYpsZ1ghIVigMsx2cOZ_2sKmDC31e_UuTz_j_n76o0S0_D_6TIaV0hK3Xw2xtVNGOZnwdRNk3kz_KXouo8M64e7LxkJ_uVVCDZIW9b1YaWVYuj0oUvxvt87Izy-Wbu3PFf11sfmXyOqBeQU00Ea_7_yu5s-HoLBU2Vo_5pSKh7sl_69wwRxkctrBPVkq0ivs-3kqGHu_Qj4AAAA.webp",
+      "source_info_link": "https://www.etnownews.com/news/imd-issues-first-2026-southwest-monsoon-forecast-below-normal-rainfall-at-92-of-long-period-average-article-154068075"
+     }
+    },
+    "date": "13 Apr 2026",
+    "displayed_link": "https://www.etnownews.com › News",
+    "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vwqQLkl9AD9QOtmloiIX8r_NAGYZxF8WmKSn20tT5bn8TQR508QYAAP72A3fvF5C5fneT4-5q_CKeV95S2z2ReYs4qjrpRJrTfK4wmqIydGKdPr5UjXyVCSL3UoCBPDsI4yfQZotY0eE9sG9vy69__T3mrOuVJCDn-97Bqk5XBzd-A_seeN7J9Mp55H6fqEtP1FsYEerT8sLpt179NjYpsZ1ghIVigMsx2cOZ_2sKmDC31e_UuTz_j_n76o0S0_D_6TIaV0hK3Xw2xtVNGOZnwdRNk3kz_KXouo8M64e7LxkJ_uVVCDZIW9b1YaWVYuj0oUvxvt87Izy-Wbu3PFf11sfmXyOqBeQU00Ea_7_yu5s-HoLBU2Vo_5pSKh7sl_69wwRxkctrBPVkq0ivs-3kqGHu_Qj4AAAA.webp",
+    "link": "https://www.etnownews.com/news/imd-issues-first-2026-southwest-monsoon-forecast-below-normal-rainfall-at-92-of-long-period-average-article-154068075",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0AEB6zswFQKJxsKQ3IJqwNJWE63XoF0SHn2hNeohyDCPyIcS7-hrFtGf4fkIpib3eGNw01rBsL-k9w8cvYyAH_iEw3acf-8NfLa0L0sZPrKvte-3bplZmO7sewq1YzDNKCux67b5vZOVN-XrmtBPd6X5oXUU_r-BYwkoc3WE1xvOor0ZVNDOhUMzCph9bqYtX58KcSUtZD7YSBgdN8CWfk3-U4fndK8pE_Lv6Hyu9REbJ0M9hCv4zXS7J3oy7cJIwMObuhbSWxwsMikU63c6UgWd&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQFnoECCsQAQ&uoh=1",
+    "snippet": "Southwest monsoon forecast: Below-normal rainfall at 92% of long-period average. Western Disturbances are likely to affect northwest India ...",
+    "snippet_highlighted_words": [
+     "Below-normal rainfall at 92% of long-period average"
+    ],
+    "source": "ET Now",
+    "title": "IMD issues first 2026 Southwest monsoon forecast"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZZOU1Wb1FTVkNtbnpPaUhGMUxxVi0yUkQtYk1qQVRBNzktczA4VFNZbTU3NTVBakZfa0d2TW1qejREa0F6SU1WbFp3bDhGNlJDQmpkZmxSTEhPZ19LVmpDcEFBeFdvTnRHLUUwam9QQVdsT2FPb0J2QTlCMENicm91QnRYYlBOQ1hkbC00c1JzdXd5YmRpWjd5V1dWSnRjdjNQVkxIV1cxa2VEdmJWd2tydWJHVGxFSkcybzk3V1hGeVkSBBoCCAAa8AQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzAQIABAAGAAgAConCgZsYXRlc3QVCj04PhoEbGFzdBoDbmV3GgZyZWNlbnQaBXRvZGF5KhwKB21vbnNvb24VT5XBQBoMaXY7cDttb25zb29uKi4KCGZvcmVjYXN0FReMYkAaBnJlcG9ydBoGdXBkYXRlGg1pdjtwO2ZvcmVjYXN0KgwKBWluZGlhFcBBJkAqEQoBYRWJEnVAGgJhbhoDdGhlMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZZOU1Wb1FTVkNtbnpPaUhGMUxxVi0yUkQtYk1qQVRBNzktczA4VFNZbTU3NTVBakZfa0d2TW1qejREa0F6SU1WbFp3bDhGNlJDQmpkZmxSTEhPZ19LVmpDcEFBeFdvTnRHLUUwam9QQVdsT2FPb0J2QTlCMENicm91QnRYYlBOQ1hkbC00c1JzdXd5YmRpWjd5V1dWSnRjdjNQVkxIV1cxa2VEdmJWd2tydWJHVGxFSkcybzk3V1hGeVk6OUlNRCBQcmVkaWN0cyBOb3JtYWwgUmFpbmZhbGwgZm9yIDxiPk1vbnNvb248L2I-IFRoaXMgWWVhckKMAU1vbmRheSBmb3JlY2FzdCB0aGF0IDxiPnRoZSBtb25zb29uIHRoaXMgeWVhciB3aWxsIGJlIG5vcm1hbDwvYj4sIHdpdGggcmFpbmZhbGwgb2YgOTclIG9mIHRoZSBsb25nIHBlcmlvZCBhdmVyYWdlIChMUEEpIHdpdGggYW4gZXJyb3Igb2YgNSUuUgJhblIDbmV3UgN0aGUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZZOU1Wb1FTVkNtbnpPaUhGMUxxVi0yUkQtYk1qQVRBNzktczA4VFNZbTU3NTVBakZfa0d2TW1qejREa0F6SU1WbFp3bDhGNlJDQmpkZmxSTEhPZ19LVmpDcEFBeFdvTnRHLUUwam9QQVdsT2FPb0J2QTlCMENicm91QnRYYlBOQ1hkbC00c1JzdXd5YmRpWjd5V1dWSnRjdjNQVkxIV1cxa2VEdmJWd2tydWJHVGxFSkcybzk3V1hGeVkSBBoCCAAa8AQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzAQIABAAGAAgAConCgZsYXRlc3QVCj04PhoEbGFzdBoDbmV3GgZyZWNlbnQaBXRvZGF5KhwKB21vbnNvb24VT5XBQBoMaXY7cDttb25zb29uKi4KCGZvcmVjYXN0FReMYkAaBnJlcG9ydBoGdXBkYXRlGg1pdjtwO2ZvcmVjYXN0KgwKBWluZGlhFcBBJkAqEQoBYRWJEnVAGgJhbhoDdGhlMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZZOU1Wb1FTVkNtbnpPaUhGMUxxVi0yUkQtYk1qQVRBNzktczA4VFNZbTU3NTVBakZfa0d2TW1qejREa0F6SU1WbFp3bDhGNlJDQmpkZmxSTEhPZ19LVmpDcEFBeFdvTnRHLUUwam9QQVdsT2FPb0J2QTlCMENicm91QnRYYlBOQ1hkbC00c1JzdXd5YmRpWjd5V1dWSnRjdjNQVkxIV1cxa2VEdmJWd2tydWJHVGxFSkcybzk3V1hGeVk6OUlNRCBQcmVkaWN0cyBOb3JtYWwgUmFpbmZhbGwgZm9yIDxiPk1vbnNvb248L2I-IFRoaXMgWWVhckKMAU1vbmRheSBmb3JlY2FzdCB0aGF0IDxiPnRoZSBtb25zb29uIHRoaXMgeWVhciB3aWxsIGJlIG5vcm1hbDwvYj4sIHdpdGggcmFpbmZhbGwgb2YgOTclIG9mIHRoZSBsb25nIHBlcmlvZCBhdmVyYWdlIChMUEEpIHdpdGggYW4gZXJyb3Igb2YgNSUuUgJhblIDbmV3UgN0aGUiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ],
+     "source": {
+      "description": "Monday forecast that the monsoon this year will be normal, with rainfall of 97% of the long period average (LPA) with an error of 5%.",
+      "source_info_link": "https://science.thewire.in/environment/imd-predicts-normal-rainfall-for-2018-monsoon/"
+     }
+    },
+    "date": "16 Apr 2018",
+    "displayed_link": "https://science.thewire.in › Environment",
+    "link": "https://science.thewire.in/environment/imd-predicts-normal-rainfall-for-2018-monsoon/",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFY9MVoQSVCmnzOiHF1LqV-2RD-bMjATA79-s08TSYm5755AjF_kGvMmjz4DkAzIMVlZwl8F6RCBjdflRLHOg_KVjCpAAxWoNtG-E0joPAWlOaOoBvA9B0CbrouBtXbPNCXdl-4sRsuwybdiZ7yWWVJtcv3PVLHWW1keDvbVwkrubGTlEJG2o97WXFyY&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQFnoECC4QAQ&uoh=1",
+    "snippet": "Monday forecast that the monsoon this year will be normal, with rainfall of 97% of the long period average (LPA) with an error of 5%.",
+    "snippet_highlighted_words": [
+     "the monsoon this year will be normal"
+    ],
+    "source": "The Wire Science",
+    "title": "IMD Predicts Normal Rainfall for Monsoon This Year"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZYZlhBWFliajhzZ2RIV2hmSFhVVEdwZl9VbUtvU2FLS3k5eXRNblBEUXBmeDVmVE5xOEIyS2p6SEctUDBVM0c3RlhWV05ncWZ5TnM2U1F0b3JHTWg1ZXMyVWdZclpqNVZqaUZHZVpWM3JjT0xtTDd2MGRfdWFnQ2FsYmRUUHpLRXFlMVdwdGczVzUydzFNb2lFZ2dTVEh2Q1ZQYmdxWmo0a3ZWeGZUcjBFbjdrUVpsdEs0Sl9BRUhOOWdtTEFoaXJXcUk3VlJnOFlWZkVhNlQxVmt6bVFfZzdHQ3QzOE9YNFhlRm8xUW92NkFzcXJHMBIEGgIIABrZBRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLMFCAAQABgAIAAqJwoGbGF0ZXN0FcCDCT4aBGxhc3QaA25ldxoGcmVjZW50GgV0b2RheSocCgdtb25zb29uFWuTREAaDGl2O3A7bW9uc29vbiouCghmb3JlY2FzdBXHCGVAGgZyZXBvcnQaBnVwZGF0ZRoNaXY7cDtmb3JlY2FzdCoMCgVpbmRpYRUldDdAKhEKAWEV3_twPxoCYW4aA3RoZTKGAi9nb3RvP3VybD1DQUVTdUFFQjZ6c3dGWGZYQVhZYmo4c2dkSFdoZkhYVVRHcGZfVW1Lb1NhS0t5OXl0TW5QRFFwZng1ZlROcThCMktqekhHLVAwVTNHN0ZYVldOZ3FmeU5zNlNRdG9yR01oNWVzMlVnWXJaajVWamlGR2VaVjNyY09MbUw3djBkX3VhZ0NhbGJkVFB6S0VxZTFXcHRnM1c1MncxTW9pRWdnU1RIdkNWUGJncVpqNGt2VnhmVHIwRW43a1FabHRLNEpfQUVITjlnbUxBaGlyV3FJN1ZSZzhZVmZFYTZUMVZrem1RX2c3R0N0MzhPWDRYZUZvMVFvdjZBc3FyRzA6TTxiPk1vbnNvb24gZm9yZWNhc3Q8L2I-ICYjMzk7YWJvdmUgbm9ybWFsJiMzOTsgdGhpcyB5ZWFyIGJ1dCBJTUQgbWF5IG1pc3MgLi4uQqoBRm9yIGV4YW1wbGUsIHRoZSBJTUQgPGI-Zm9yZWNhc3Q8L2I-IDkyMiBtbSByYWluIGluIHRoZSA8Yj5tb25zb29uPC9iPiBzZWFzb24gaW4gMjAyNC4gV2hpbGUgdGhlIGFjdHVhbCByYWluZmFsbCBpbiAyMDI0IDxiPm1vbnNvb248L2I-IHdhcyA5MzYgbW0gKDEwNy42JSBvZiBMUEEmbmJzcDsuLi5SAmFuUgNuZXdSA3RoZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZYZlhBWFliajhzZ2RIV2hmSFhVVEdwZl9VbUtvU2FLS3k5eXRNblBEUXBmeDVmVE5xOEIyS2p6SEctUDBVM0c3RlhWV05ncWZ5TnM2U1F0b3JHTWg1ZXMyVWdZclpqNVZqaUZHZVpWM3JjT0xtTDd2MGRfdWFnQ2FsYmRUUHpLRXFlMVdwdGczVzUydzFNb2lFZ2dTVEh2Q1ZQYmdxWmo0a3ZWeGZUcjBFbjdrUVpsdEs0Sl9BRUhOOWdtTEFoaXJXcUk3VlJnOFlWZkVhNlQxVmt6bVFfZzdHQ3QzOE9YNFhlRm8xUW92NkFzcXJHMBIEGgIIABrZBRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLMFCAAQABgAIAAqJwoGbGF0ZXN0FcCDCT4aBGxhc3QaA25ldxoGcmVjZW50GgV0b2RheSocCgdtb25zb29uFWuTREAaDGl2O3A7bW9uc29vbiouCghmb3JlY2FzdBXHCGVAGgZyZXBvcnQaBnVwZGF0ZRoNaXY7cDtmb3JlY2FzdCoMCgVpbmRpYRUldDdAKhEKAWEV3_twPxoCYW4aA3RoZTKGAi9nb3RvP3VybD1DQUVTdUFFQjZ6c3dGWGZYQVhZYmo4c2dkSFdoZkhYVVRHcGZfVW1Lb1NhS0t5OXl0TW5QRFFwZng1ZlROcThCMktqekhHLVAwVTNHN0ZYVldOZ3FmeU5zNlNRdG9yR01oNWVzMlVnWXJaajVWamlGR2VaVjNyY09MbUw3djBkX3VhZ0NhbGJkVFB6S0VxZTFXcHRnM1c1MncxTW9pRWdnU1RIdkNWUGJncVpqNGt2VnhmVHIwRW43a1FabHRLNEpfQUVITjlnbUxBaGlyV3FJN1ZSZzhZVmZFYTZUMVZrem1RX2c3R0N0MzhPWDRYZUZvMVFvdjZBc3FyRzA6TTxiPk1vbnNvb24gZm9yZWNhc3Q8L2I-ICYjMzk7YWJvdmUgbm9ybWFsJiMzOTsgdGhpcyB5ZWFyIGJ1dCBJTUQgbWF5IG1pc3MgLi4uQqoBRm9yIGV4YW1wbGUsIHRoZSBJTUQgPGI-Zm9yZWNhc3Q8L2I-IDkyMiBtbSByYWluIGluIHRoZSA8Yj5tb25zb29uPC9iPiBzZWFzb24gaW4gMjAyNC4gV2hpbGUgdGhlIGFjdHVhbCByYWluZmFsbCBpbiAyMDI0IDxiPm1vbnNvb248L2I-IHdhcyA5MzYgbW0gKDEwNy42JSBvZiBMUEEmbmJzcDsuLi5SAmFuUgNuZXdSA3RoZSICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ],
+     "source": {
+      "description": "For example, the IMD forecast 922 mm rain in the monsoon season in 2024. While the actual rainfall in 2024 monsoon was 936 mm (107.6% of LPA ...",
+      "icon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHp_qvFBuG9hDZ24DeQN59NoCqMWrBZU2l1T0JSgzBK5INpXj2m-YF04Id0IHlM_AAD-9N3XWvfwHuVSLn-ID0PuUhrTD-n1iXJ9g2wy1ZPjHqkNBecHaXbDEYrsV-_Mw_Miq2lzmIKiFZDAa_OnpHwKBo_cC3lBrEzbnzUeP8-uRz7aCcFn231otOZ0tAlCbe5NgqlaZeLjwRl_OuMUdcKDJ4wHaPqI3ZZF5-y5z9NxPd8_yxYyUd1tys_YnoCBL9lcFVd6s3SlF2-Lp1r3AfWItqwOdfBHfR_X_WUB2P4M2vYZoJm9-f7Vw1eEVdNpMHPlkQTkHl-IgbqybGR_-T-aWAYR-9vcuBwcqa8Q-m4G03_LeH_JYStrbl_hon2QzvGKidmYorS4KtODzOllom_-0CvnrykfC9zvG3l_VLmHcdYSCdh4uhe2qWnQC-HdpP2XU5VpKK0u5MFONpELjHflH3B-nq0T4na6T-W1t_ywKCgTomr_V2wduH9kgAAA.webp",
+      "source_info_link": "https://www.hindustantimes.com/india-news/above-normal-rainfall-seen-but-odds-are-forecast-may-miss-mark-101744742172311.html"
+     }
+    },
+    "date": "16 Apr 2025",
+    "displayed_link": "https://www.hindustantimes.com › India news",
+    "favicon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHp_qvFBuG9hDZ24DeQN59NoCqMWrBZU2l1T0JSgzBK5INpXj2m-YF04Id0IHlM_AAD-9N3XWvfwHuVSLn-ID0PuUhrTD-n1iXJ9g2wy1ZPjHqkNBecHaXbDEYrsV-_Mw_Miq2lzmIKiFZDAa_OnpHwKBo_cC3lBrEzbnzUeP8-uRz7aCcFn231otOZ0tAlCbe5NgqlaZeLjwRl_OuMUdcKDJ4wHaPqI3ZZF5-y5z9NxPd8_yxYyUd1tys_YnoCBL9lcFVd6s3SlF2-Lp1r3AfWItqwOdfBHfR_X_WUB2P4M2vYZoJm9-f7Vw1eEVdNpMHPlkQTkHl-IgbqybGR_-T-aWAYR-9vcuBwcqa8Q-m4G03_LeH_JYStrbl_hon2QzvGKidmYorS4KtODzOllom_-0CvnrykfC9zvG3l_VLmHcdYSCdh4uhe2qWnQC-HdpP2XU5VpKK0u5MFONpELjHflH3B-nq0T4na6T-W1t_ywKCgTomr_V2wduH9kgAAA.webp",
+    "link": "https://www.hindustantimes.com/india-news/above-normal-rainfall-seen-but-odds-are-forecast-may-miss-mark-101744742172311.html",
+    "position": 9,
+    "read_more_link": "https://www.hindustantimes.com/india-news/above-normal-rainfall-seen-but-odds-are-forecast-may-miss-mark-101744742172311.html#:~:text=For%20example%2C%20the%20IMD%20forecast,geographical%20variation%20in%20the%20rain.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuAEB6zswFXfXAXYbj8sgdHWhfHXUTGpf_UmKoSaKKy9ytMnPDQpfx5fTNq8B2KjzHG-P0U3G7FXVWNgqfyNs6SQtorGMh5es2UgYrZj5VjiFGeZV3rcOLmL7v0d_uagCalbdTPzKEqe1Wptg3W52w1MoiEggSTHvCVPbgqZj4kvVxfTr0En7kQZltK4J_AEHN9gmLAhirWqI7VRg8YVfEa6T1VkzmQ_g7GCt38OX4XeFo1Qov6AsqrG0&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQFnoECCwQAQ&uoh=1",
+    "snippet": "For example, the IMD forecast 922 mm rain in the monsoon season in 2024. While the actual rainfall in 2024 monsoon was 936 mm (107.6% of LPA ...",
+    "snippet_highlighted_words": [
+     "forecast",
+     "monsoon",
+     "monsoon"
+    ],
+    "source": "Hindustan Times",
+    "title": "Monsoon forecast 'above normal' this year but IMD may ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=10&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8NMDegQIMxAW",
+   "next": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnvgq2ip3dvIhKzZdHNe6bocAJaeVw:1790781559328&ei=dyi9aqClE4fiwN4PhvbzwA4&start=10&sa=N&sstk=AS6-VmLL_zHWABrIti30cTz-5F3Bjy2RZTMcZ0U2749lNkAa2bbnW29hBJnrl1eJ4rLFyZCuqA4I4SSrkV70x1n5hd6glVVhqFRVAA&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQ8NMDegQIJhAK",
    "other_pages": {
-    "10": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=90&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8tMDegQIMxAU",
-    "2": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=10&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8tMDegQIMxAE",
-    "3": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=20&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8tMDegQIMxAG",
-    "4": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=30&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8tMDegQIMxAI",
-    "5": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=40&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8tMDegQIMxAK",
-    "6": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=50&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8tMDegQIMxAM",
-    "7": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=60&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8tMDegQIMxAO",
-    "8": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=70&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8tMDegQIMxAQ",
-    "9": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=932ce377fb08cd9d&hl=en&gl=in&ei=1MuvaruiLc6jvr0Ppomc2Aw&start=80&sa=N&sstk=AS6-VmLH0nq04nkGLvy9Toqo350VI4b9FMi1oiE-mO6U4IzQynCSGreE4oHUCu7xgRQ5lW6VOHQhJkcCCbe92xQ7LODSaejhOebMrg&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ8tMDegQIMxAS"
+    "2": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnvgq2ip3dvIhKzZdHNe6bocAJaeVw:1790781559328&ei=dyi9aqClE4fiwN4PhvbzwA4&start=10&sa=N&sstk=AS6-VmLL_zHWABrIti30cTz-5F3Bjy2RZTMcZ0U2749lNkAa2bbnW29hBJnrl1eJ4rLFyZCuqA4I4SSrkV70x1n5hd6glVVhqFRVAA&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQ8tMDegQIJhAE",
+    "3": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnvgq2ip3dvIhKzZdHNe6bocAJaeVw:1790781559328&ei=dyi9aqClE4fiwN4PhvbzwA4&start=20&sa=N&sstk=AS6-VmLL_zHWABrIti30cTz-5F3Bjy2RZTMcZ0U2749lNkAa2bbnW29hBJnrl1eJ4rLFyZCuqA4I4SSrkV70x1n5hd6glVVhqFRVAA&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQ8tMDegQIJhAG",
+    "4": "https://www.google.com/search?q=latest+monsoon+forecast+india&sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnvgq2ip3dvIhKzZdHNe6bocAJaeVw:1790781559328&ei=dyi9aqClE4fiwN4PhvbzwA4&start=30&sa=N&sstk=AS6-VmLL_zHWABrIti30cTz-5F3Bjy2RZTMcZ0U2749lNkAa2bbnW29hBJnrl1eJ4rLFyZCuqA4I4SSrkV70x1n5hd6glVVhqFRVAA&ved=2ahUKEwjgvNqVzZaXAxUHMdAFHQb7HOgQ8tMDegQIJhAI"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFXSjNURWhTV20xWFNuWTBWbW8wWlMxSk1tdHFPVXRmZUZKVmQyaFZiRkpsYzBFdE1rRlFTa2QwVTFWeFUza3hRV2t6Y1c1V1JUTldTbE5vVDIwdE5EVkdSbmQyVTFoMlNFRmlaM2RYTW5WUlZFcE5XRGhRTURoU1FSSVhNVTExZG1GeWRXbE1ZelpxZG5Jd1VIQnZiV015UVhjYUlrRkVjM0k1WmxOUlRsTkVZbFpFZUdaTmJscEpUREF0U25KTGVHdFBhbWhXVkhjIiwiZmN2IjoiMyIsImVpIjoiMU11dmFydWlMYzZqdnIwUHBvbWMyQXciLCJxYyI6IkNoMXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZUkFBZmN3Y2NEOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGxhdGVzdCBuZXdzIG9uIHRoZSBJbmRpYW4gbW9uc29vbiBpbiAyMDI2PyIsImxrIjoiR2hGdGIyNXpiMjl1SUc1bGQzTWdNakF5TmciLCJicyI6ImM1MlFQUXZDTUJDR2NjMmt1RWltMjRxVDBzSFBvZWdtcUFnT25jXzJ0TUUwS1UyZy1POU5VdXJINGlCa2V1LWU1ejNDam15ZUZtZ0Jhd0piRUVpMFpDd29hZ3hvRmFLZHlnVXFLTFV5MmtWQ1FUeU5aMGs4NUlNdUMtcy1aUWMyU1lXVUhuVEdDd0YtZ3FsM2IwbmRVTDQ5bkktNmxjYlBMLTA4NkJxMkRPY0pFMDd4MmN0MzFUVmw2QUEwcnFXaU9pTmw4VWFncjdBX2JaSjR4UmZOUDdDc2tCVnMzUldmNzQtU2JHU2dxaWtYbVJVdF92TnZ4ano2cXZ0QWhYLU9BaE84X2Q0VCIsImlkIjoiZmNfMU11dmFydWlMYzZqdnIwUHBvbWMyQXdfNiJ9",
-    "page_token": "JxMUunicHdBdbpswAABg7TJ9bGyTdEqkqBqNnY6BG_9gsF8mMPkp2MAaGmjeeoWeYafqaSr1O8L3_t89t83nj4_TMPTn1Ww2juPtseuObn9rOz8rzm-tndnCubKwzeru5x28P9g1vtjw4cWGLO17teFAIB4LEu4oWeq9N2HSaiRItOMtQ08YFokKLyIdpARGJGoZJ5ItWBvSSrq2IqRRCL6VKZ6SlJ7jbJFmjR2pI5KCxdb4ZNA5BvRKlW76-V41YwGmIKtNTCEN4xTKRDFEW3pJc2WSnCD5qF7FhsTcQ0GxCzRkQMNfQPvhd7XlWrR0TLAKSh9dxaZ61ZLNSxxxrUxQAjgWAdllOfnHCVkoaTJFFGfohAyYanyyk8wV0nkEi3Sqqe-RrUNmt8tBX6OwmrpnlvKrrZ1XJPrDkeMK46DE1BvYD_bRDE9bY0rC5xU4tYzdHOxlHdx8X6__Hvyw6l-64xd4Lomi",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVTTJNREpHUkZwSGMwbEVkWEZwV0ZoZlltUkpUVXBXUm5KdlVIaDVXWE54VGpCNU9UWk5OMDV3VTNCclRVUmhUR2h6VW10WmFIcHRPVzlWYm5CbWMxaHdWVXh2VFVwVmJWOXJkWE5rWlc0NVlVVlRjSEJUTUhjd1p4SVhaSGxwT1dGeFEyeEZOR1pwZDA0MFVHaDJZbnAzUVRRYUlrRkVjM0k1WmxONk1VTjRlRXd6Wm04d1NVaDNXazQyWDIxdVpYTm9PRkZYV25jIiwiZmN2IjoiMyIsImVpIjoiZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTQiLCJxYyI6IkNoOXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZU0JoRUFCOUgxY2lQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgY3VycmVudCBtb25zb29uIHByZWRpY3Rpb24gZm9yIEluZGlhPyIsImxrIjoiR2hodGIyNXpiMjl1SUhCeVpXUnBZM1JwYjI0Z2FXNWthV0UiLCJicyI6ImM1MVFzWTdDTUF3VmF5WVFDOHJrOFdDQ0RNZmRMUlVqRWdLMnpsWXdiYVRXcVpLZ2lyOG5DUlF4SUNIZFpPdjUtYjFuaTROWWxUVUdNQjVDVGFBdnpoRUhhQzE3YXhrNlJ5ZWpnNG50MlRyWThzbGdvYVNjdlNHWU5CUjdzYzZDNkNnck5oaklCMkRxUFVSU2dySUtQejBNZzFxcTcwSk41V1RBTWoyaG9oVHpzamE2Qm4zVmpXVktTYlZ0RFZmRFlxcVBZQXY1MVg4bTM0UDI0dmYxOGp3YzdPT3RwREhHUmc4SUhUa2RuNElWZ1QzRDdyZ3AxSl84NmYtejNIUTRIdDBBIiwiaWQiOiJmY19keWk5YXFDbEU0Zml3TjRQaHZiendBNF81In0=",
+    "page_token": "Ah8tF3icHZBRToMwAEDjZfx0BcZ0SxYTHAXdqLbQlvXHsMLW0VKII2Py5xU8g6fyNC5e4OW99_Vjjlb_3nyrvu9Oi8lkGIa7Q9seTHUn22ZSnD6tnMjCmF0h9WJ2P3Me93IZnmXw9CEDTLuOrQhIHXKuaqMQh5sNfwFVLbZsZDlyIZMZxBUPp4nRPqG-3nFnnVg0ZVaC0pI0i4XY1sa80t4mkfNWjOoiGrhmDhwEOI1JrZ4KSlavOYnSCA6lwUB6eko82G-oylJwgcijLtYQFNEcps78Il3yjDzT7hwSkqabsZH0aQZDoS9uFkHL4MNnkrMQ2WBNYxbno2mpVWvCt35WMz9xSkFAXwurKOb9BjdXFu_2OVBeqEpdce1vc7jahRSIxnhZTXARi2NlywAF7RFTMsraNFSjUcDyyLngaXztHYOOMPRWRN3VYe6SqyPFt3t5Xnq3_6-X7_umX3Qf7eEPvzmMog",
+    "question": "What is the current monsoon prediction for India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ah8tF3icHZBRToMwAEDjZfx0BcZ0SxYTHAXdqLbQlvXHsMLW0VKII2Py5xU8g6fyNC5e4OW99_Vjjlb_3nyrvu9Oi8lkGIa7Q9seTHUn22ZSnD6tnMjCmF0h9WJ2P3Me93IZnmXw9CEDTLuOrQhIHXKuaqMQh5sNfwFVLbZsZDlyIZMZxBUPp4nRPqG-3nFnnVg0ZVaC0pI0i4XY1sa80t4mkfNWjOoiGrhmDhwEOI1JrZ4KSlavOYnSCA6lwUB6eko82G-oylJwgcijLtYQFNEcps78Il3yjDzT7hwSkqabsZH0aQZDoS9uFkHL4MNnkrMQ2WBNYxbno2mpVWvCt35WMz9xSkFAXwurKOb9BjdXFu_2OVBeqEpdce1vc7jahRSIxnhZTXARi2NlywAF7RFTMsraNFSjUcDyyLngaXztHYOOMPRWRN3VYe6SqyPFt3t5Xnq3_6-X7_umX3Qf7eEPvzmMog",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVTTJNREpHUkZwSGMwbEVkWEZwV0ZoZlltUkpUVXBXUm5KdlVIaDVXWE54VGpCNU9UWk5OMDV3VTNCclRVUmhUR2h6VW10WmFIcHRPVzlWYm5CbWMxaHdWVXh2VFVwVmJWOXJkWE5rWlc0NVlVVlRjSEJUTUhjd1p4SVhaSGxwT1dGeFEyeEZOR1pwZDA0MFVHaDJZbnAzUVRRYUlrRkVjM0k1WmxONk1VTjRlRXd6Wm04d1NVaDNXazQyWDIxdVpYTm9PRkZYV25jIiwiZmN2IjoiMyIsImVpIjoiZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTQiLCJxYyI6IkNoOXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZU0JoRUFCOUgxY2lQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgY3VycmVudCBtb25zb29uIHByZWRpY3Rpb24gZm9yIEluZGlhPyIsImxrIjoiR2hodGIyNXpiMjl1SUhCeVpXUnBZM1JwYjI0Z2FXNWthV0UiLCJicyI6ImM1MVFzWTdDTUF3VmF5WVFDOHJrOFdDQ0RNZmRMUlVqRWdLMnpsWXdiYVRXcVpLZ2lyOG5DUlF4SUNIZFpPdjUtYjFuaTROWWxUVUdNQjVDVGFBdnpoRUhhQzE3YXhrNlJ5ZWpnNG50MlRyWThzbGdvYVNjdlNHWU5CUjdzYzZDNkNnck5oaklCMkRxUFVSU2dySUtQejBNZzFxcTcwSk41V1RBTWoyaG9oVHpzamE2Qm4zVmpXVktTYlZ0RFZmRFlxcVBZQXY1MVg4bTM0UDI0dmYxOGp3YzdPT3RwREhHUmc4SUhUa2RuNElWZ1QzRDdyZ3AxSl84NmYtejNIUTRIdDBBIiwiaWQiOiJmY19keWk5YXFDbEU0Zml3TjRQaHZiendBNF81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVTTJNREpHUkZwSGMwbEVkWEZwV0ZoZlltUkpUVXBXUm5KdlVIaDVXWE54VGpCNU9UWk5OMDV3VTNCclRVUmhUR2h6VW10WmFIcHRPVzlWYm5CbWMxaHdWVXh2VFVwVmJWOXJkWE5rWlc0NVlVVlRjSEJUTUhjd1p4SVhaSGxwT1dGeFEyeEZOR1pwZDA0MFVHaDJZbnAzUVRRYUlrRkVjM0k1WmxONk1VTjRlRXd6Wm04d1NVaDNXazQyWDIxdVpYTm9PRkZYV25jIiwiZmN2IjoiMyIsImVpIjoiZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTQiLCJxYyI6IkNoOXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZU0JoRUFCOUgxY2lQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGxhdGVzdCBuZXdzIG9uIHRoZSBJbmRpYW4gbW9uc29vbiBpbiAyMDI2PyIsImxrIjoiR2hGdGIyNXpiMjl1SUc1bGQzTWdNakF5TmciLCJicyI6ImM1MVFzWTdDTUF3VmF5WVFDOHJrOFdDQ0RNZmRMUlVqRWdLMnpsWXdiYVRXcVpLZ2lyOG5DUlF4SUNIZFpPdjUtYjFuaTROWWxUVUdNQjVDVGFBdnpoRUhhQzE3YXhrNlJ5ZWpnNG50MlRyWThzbGdvYVNjdlNHWU5CUjdzYzZDNkNnck5oaklCMkRxUFVSU2dySUtQejBNZzFxcTcwSk41V1RBTWoyaG9oVHpzamE2Qm4zVmpXVktTYlZ0RFZmRFlxcVBZQXY1MVg4bTM0UDI0dmYxOGp3YzdPT3RwREhHUmc4SUhUa2RuNElWZ1QzRDdyZ3AxSl84NmYtejNIUTRIdDBBIiwiaWQiOiJmY19keWk5YXFDbEU0Zml3TjRQaHZiendBNF81In0=",
+    "page_token": "1F_VB3icHdBfbpswHABg7TJ9bLAR2RopmkTDn1HqzAb7B36ZwJAYMOA1SaF52xV2hp1qp5m07wjfrz-mm4a_n37r69VedpvNsiyP53k-m_ZRzeOmunxMaqMqY-pKDbvt5y36elL74F35z2_Kp9xacWBOZphHQLl5oW8ADbCeuBlPotI1wVGEMRman-IZRRDJAozdEkhAAsnZoMPGFTcB7LvEdmYg4xLLhQnTs8EiiLw8LQKcRWgC8HiFkwvH3zxuvuCqkFreB0c4tqMoRCQ2hyOgWU7zKkyIQcisxittc3KjU9KRnKMavzoQ64KC1NzR4ljY9RUZDLGIam5fAJ7SEj8tuWMzztey7gUpuaYquB5qY3F911Ogm6GFwSuL8FAH3JGjcfOe0SqWXTs1PvHnjnJ2V70ZOUapAOkeQZxSsFGGfJvjNUmFP-aBzNrRvFD6cFLve_fh__X-x2m87uzbfP4H91-Lfg",
     "question": "What are the latest news on the Indian monsoon in 2026?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JxMUunicHdBdbpswAABg7TJ9bGyTdEqkqBqNnY6BG_9gsF8mMPkp2MAaGmjeeoWeYafqaSr1O8L3_t89t83nj4_TMPTn1Ww2juPtseuObn9rOz8rzm-tndnCubKwzeru5x28P9g1vtjw4cWGLO17teFAIB4LEu4oWeq9N2HSaiRItOMtQ08YFokKLyIdpARGJGoZJ5ItWBvSSrq2IqRRCL6VKZ6SlJ7jbJFmjR2pI5KCxdb4ZNA5BvRKlW76-V41YwGmIKtNTCEN4xTKRDFEW3pJc2WSnCD5qF7FhsTcQ0GxCzRkQMNfQPvhd7XlWrR0TLAKSh9dxaZ61ZLNSxxxrUxQAjgWAdllOfnHCVkoaTJFFGfohAyYanyyk8wV0nkEi3Sqqe-RrUNmt8tBX6OwmrpnlvKrrZ1XJPrDkeMK46DE1BvYD_bRDE9bY0rC5xU4tYzdHOxlHdx8X6__Hvyw6l-64xd4Lomi",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFXSjNURWhTV20xWFNuWTBWbW8wWlMxSk1tdHFPVXRmZUZKVmQyaFZiRkpsYzBFdE1rRlFTa2QwVTFWeFUza3hRV2t6Y1c1V1JUTldTbE5vVDIwdE5EVkdSbmQyVTFoMlNFRmlaM2RYTW5WUlZFcE5XRGhRTURoU1FSSVhNVTExZG1GeWRXbE1ZelpxZG5Jd1VIQnZiV015UVhjYUlrRkVjM0k1WmxOUlRsTkVZbFpFZUdaTmJscEpUREF0U25KTGVHdFBhbWhXVkhjIiwiZmN2IjoiMyIsImVpIjoiMU11dmFydWlMYzZqdnIwUHBvbWMyQXciLCJxYyI6IkNoMXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZUkFBZmN3Y2NEOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGxhdGVzdCBuZXdzIG9uIHRoZSBJbmRpYW4gbW9uc29vbiBpbiAyMDI2PyIsImxrIjoiR2hGdGIyNXpiMjl1SUc1bGQzTWdNakF5TmciLCJicyI6ImM1MlFQUXZDTUJDR2NjMmt1RWltMjRxVDBzSFBvZWdtcUFnT25jXzJ0TUUwS1UyZy1POU5VdXJINGlCa2V1LWU1ejNDam15ZUZtZ0Jhd0piRUVpMFpDd29hZ3hvRmFLZHlnVXFLTFV5MmtWQ1FUeU5aMGs4NUlNdUMtcy1aUWMyU1lXVUhuVEdDd0YtZ3FsM2IwbmRVTDQ5bkktNmxjYlBMLTA4NkJxMkRPY0pFMDd4MmN0MzFUVmw2QUEwcnFXaU9pTmw4VWFncjdBX2JaSjR4UmZOUDdDc2tCVnMzUldmNzQtU2JHU2dxaWtYbVJVdF92TnZ4ano2cXZ0QWhYLU9BaE84X2Q0VCIsImlkIjoiZmNfMU11dmFydWlMYzZqdnIwUHBvbWMyQXdfNiJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1F_VB3icHdBfbpswHABg7TJ9bLAR2RopmkTDn1HqzAb7B36ZwJAYMOA1SaF52xV2hp1qp5m07wjfrz-mm4a_n37r69VedpvNsiyP53k-m_ZRzeOmunxMaqMqY-pKDbvt5y36elL74F35z2_Kp9xacWBOZphHQLl5oW8ADbCeuBlPotI1wVGEMRman-IZRRDJAozdEkhAAsnZoMPGFTcB7LvEdmYg4xLLhQnTs8EiiLw8LQKcRWgC8HiFkwvH3zxuvuCqkFreB0c4tqMoRCQ2hyOgWU7zKkyIQcisxittc3KjU9KRnKMavzoQ64KC1NzR4ljY9RUZDLGIam5fAJ7SEj8tuWMzztey7gUpuaYquB5qY3F911Ogm6GFwSuL8FAH3JGjcfOe0SqWXTs1PvHnjnJ2V70ZOUapAOkeQZxSsFGGfJvjNUmFP-aBzNrRvFD6cFLve_fh__X-x2m87uzbfP4H91-Lfg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVTTJNREpHUkZwSGMwbEVkWEZwV0ZoZlltUkpUVXBXUm5KdlVIaDVXWE54VGpCNU9UWk5OMDV3VTNCclRVUmhUR2h6VW10WmFIcHRPVzlWYm5CbWMxaHdWVXh2VFVwVmJWOXJkWE5rWlc0NVlVVlRjSEJUTUhjd1p4SVhaSGxwT1dGeFEyeEZOR1pwZDA0MFVHaDJZbnAzUVRRYUlrRkVjM0k1WmxONk1VTjRlRXd6Wm04d1NVaDNXazQyWDIxdVpYTm9PRkZYV25jIiwiZmN2IjoiMyIsImVpIjoiZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTQiLCJxYyI6IkNoOXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZU0JoRUFCOUgxY2lQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGxhdGVzdCBuZXdzIG9uIHRoZSBJbmRpYW4gbW9uc29vbiBpbiAyMDI2PyIsImxrIjoiR2hGdGIyNXpiMjl1SUc1bGQzTWdNakF5TmciLCJicyI6ImM1MVFzWTdDTUF3VmF5WVFDOHJrOFdDQ0RNZmRMUlVqRWdLMnpsWXdiYVRXcVpLZ2lyOG5DUlF4SUNIZFpPdjUtYjFuaTROWWxUVUdNQjVDVGFBdnpoRUhhQzE3YXhrNlJ5ZWpnNG50MlRyWThzbGdvYVNjdlNHWU5CUjdzYzZDNkNnck5oaklCMkRxUFVSU2dySUtQejBNZzFxcTcwSk41V1RBTWoyaG9oVHpzamE2Qm4zVmpXVktTYlZ0RFZmRFlxcVBZQXY1MVg4bTM0UDI0dmYxOGp3YzdPT3RwREhHUmc4SUhUa2RuNElWZ1QzRDdyZ3AxSl84NmYtejNIUTRIdDBBIiwiaWQiOiJmY19keWk5YXFDbEU0Zml3TjRQaHZiendBNF81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFXSjNURWhTV20xWFNuWTBWbW8wWlMxSk1tdHFPVXRmZUZKVmQyaFZiRkpsYzBFdE1rRlFTa2QwVTFWeFUza3hRV2t6Y1c1V1JUTldTbE5vVDIwdE5EVkdSbmQyVTFoMlNFRmlaM2RYTW5WUlZFcE5XRGhRTURoU1FSSVhNVTExZG1GeWRXbE1ZelpxZG5Jd1VIQnZiV015UVhjYUlrRkVjM0k1WmxOUlRsTkVZbFpFZUdaTmJscEpUREF0U25KTGVHdFBhbWhXVkhjIiwiZmN2IjoiMyIsImVpIjoiMU11dmFydWlMYzZqdnIwUHBvbWMyQXciLCJxYyI6IkNoMXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZUkFBZmN3Y2NEOCIsInF1ZXN0aW9uIjoiV2lsbCB0aGVyZSBiZSBhIG1vbnNvb24gaW4gV2VzdCBCZW5nYWwgaW4gMjAyNj8iLCJsayI6IkdoaHRiMjV6YjI5dUlIZGxjM1FnWW1WdVoyRnNJREl3TWpZIiwiYnMiOiJjNTJRUFF2Q01CQ0djYzJrdUVpbTI0cVQwc0hQb2VnbXFBZ09uY18ydE1FMEtVMmctTzlOVXVySDRpQmtldS1lNXozQ2pteWVGbWdCYXdKYkVFaTBaQ3dvYWd4b0ZhS2R5Z1VxS0xVeTJrVkNRVHlOWjBrODVJTXVDLXMtWlFjMlNZV1VIblRHQ3dGLWdxbDNiMG5kVUw0OW5JLTZsY2JQTC0wODZCcTJET2NKRTA3eDJjdDMxVFZsNkFBMHJxV2lPaU5sOFVhZ3I3QV9iWko0eFJmTlA3Q3NrQlZzM1JXZjc0LVNiR1NncWlrWG1SVXRfdk52eGp6NnF2dEFoWC1PQWhPOF9kNFQiLCJpZCI6ImZjXzFNdXZhcnVpTGM2anZyMFBwb21jMkF3XzYifQ==",
-    "page_token": "qviVoXicHdBdbpswAABg7TJ9bGwI2YgUTfXAUBpc4dgO9stETAk_5qctBcpbr9Az7FQ7zard4NP38cdUXfP322c5jsPrfrOZ5_n22vdX83Sr-3aTvb53eqMzYy6Zbva77zv4s9AHf9Lo14tGCR8G4VHAcGNx2zye1ruVp5icVn_L02GV0CXK8-cjo0cdRODsO1NsklkBd5JAggy6MvPKltn5lp2XPsZlKDrSywY-XLp--8gBUBVkJ44dyknBKlioBitqmUpbLpK1GkRISG7TVWOUChvd50bsZFeuKhTBBZiQ2eqZ1lhSL7KyGr0LQI_MiypeR5BYAsp2fGbgh6XA2Dz50fYEHC4FeiO4n2NfLLEVTSylgeKOwxss_FIvLBWWTCOY8aUm7WDpGiU6cEe5Rihf-irhX57atCI0MeECqBS3eWDCC8gfCHTvj1zNyZmYZI2cJLkp9HSwb_5fH34X7bgfXvrrP_AhifY",
-    "question": "Will there be a monsoon in West Bengal in 2026?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qviVoXicHdBdbpswAABg7TJ9bGwI2YgUTfXAUBpc4dgO9stETAk_5qctBcpbr9Az7FQ7zard4NP38cdUXfP322c5jsPrfrOZ5_n22vdX83Sr-3aTvb53eqMzYy6Zbva77zv4s9AHf9Lo14tGCR8G4VHAcGNx2zye1ruVp5icVn_L02GV0CXK8-cjo0cdRODsO1NsklkBd5JAggy6MvPKltn5lp2XPsZlKDrSywY-XLp--8gBUBVkJ44dyknBKlioBitqmUpbLpK1GkRISG7TVWOUChvd50bsZFeuKhTBBZiQ2eqZ1lhSL7KyGr0LQI_MiypeR5BYAsp2fGbgh6XA2Dz50fYEHC4FeiO4n2NfLLEVTSylgeKOwxss_FIvLBWWTCOY8aUm7WDpGiU6cEe5Rihf-irhX57atCI0MeECqBS3eWDCC8gfCHTvj1zNyZmYZI2cJLkp9HSwb_5fH34X7bgfXvrrP_AhifY",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFXSjNURWhTV20xWFNuWTBWbW8wWlMxSk1tdHFPVXRmZUZKVmQyaFZiRkpsYzBFdE1rRlFTa2QwVTFWeFUza3hRV2t6Y1c1V1JUTldTbE5vVDIwdE5EVkdSbmQyVTFoMlNFRmlaM2RYTW5WUlZFcE5XRGhRTURoU1FSSVhNVTExZG1GeWRXbE1ZelpxZG5Jd1VIQnZiV015UVhjYUlrRkVjM0k1WmxOUlRsTkVZbFpFZUdaTmJscEpUREF0U25KTGVHdFBhbWhXVkhjIiwiZmN2IjoiMyIsImVpIjoiMU11dmFydWlMYzZqdnIwUHBvbWMyQXciLCJxYyI6IkNoMXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZUkFBZmN3Y2NEOCIsInF1ZXN0aW9uIjoiV2lsbCB0aGVyZSBiZSBhIG1vbnNvb24gaW4gV2VzdCBCZW5nYWwgaW4gMjAyNj8iLCJsayI6IkdoaHRiMjV6YjI5dUlIZGxjM1FnWW1WdVoyRnNJREl3TWpZIiwiYnMiOiJjNTJRUFF2Q01CQ0djYzJrdUVpbTI0cVQwc0hQb2VnbXFBZ09uY18ydE1FMEtVMmctTzlOVXVySDRpQmtldS1lNXozQ2pteWVGbWdCYXdKYkVFaTBaQ3dvYWd4b0ZhS2R5Z1VxS0xVeTJrVkNRVHlOWjBrODVJTXVDLXMtWlFjMlNZV1VIblRHQ3dGLWdxbDNiMG5kVUw0OW5JLTZsY2JQTC0wODZCcTJET2NKRTA3eDJjdDMxVFZsNkFBMHJxV2lPaU5sOFVhZ3I3QV9iWko0eFJmTlA3Q3NrQlZzM1JXZjc0LVNiR1NncWlrWG1SVXRfdk52eGp6NnF2dEFoWC1PQWhPOF9kNFQiLCJpZCI6ImZjXzFNdXZhcnVpTGM2anZyMFBwb21jMkF3XzYifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVTTJNREpHUkZwSGMwbEVkWEZwV0ZoZlltUkpUVXBXUm5KdlVIaDVXWE54VGpCNU9UWk5OMDV3VTNCclRVUmhUR2h6VW10WmFIcHRPVzlWYm5CbWMxaHdWVXh2VFVwVmJWOXJkWE5rWlc0NVlVVlRjSEJUTUhjd1p4SVhaSGxwT1dGeFEyeEZOR1pwZDA0MFVHaDJZbnAzUVRRYUlrRkVjM0k1WmxONk1VTjRlRXd6Wm04d1NVaDNXazQyWDIxdVpYTm9PRkZYV25jIiwiZmN2IjoiMyIsImVpIjoiZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTQiLCJxYyI6IkNoOXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZU0JoRUFCOUgxY2lQdyIsInF1ZXN0aW9uIjoiV2hpY2ggY3ljbG9uZSBpcyBjb21pbmcgaW4gMjAyNiBpbiBJbmRpYT8iLCJsayI6ImM1UFNLTV9JVE01UVNLNU16c25QUzFYSUxGWkl6c19OekV0WHlNeFRNREl3TWdQUm1Ya3BtWWtBIiwiYnMiOiJjNTFRc1k3Q01Bd1ZheVlRQzhyazhXQ0NETWZkTFJVakVnSzJ6bFl3YmFUV3FaS2dpcjhuQ1JReElDSGRaT3Y1LWIxbmk0TllsVFVHTUI1Q1RhQXZ6aEVIYUMxN2F4azZSeWVqZzRudDJUclk4c2xnb2FTY3ZTR1lOQlI3c2M2QzZDZ3JOaGpJQjJEcVBVUlNncklLUHowTWcxcXE3MEpONVdUQU1qMmhvaFR6c2phNkJuM1ZqV1ZLU2JWdERWZkRZcXFQWUF2NTFYOG0zNFAyNHZmMThqd2M3T090cERIR1JnOElIVGtkbjRJVmdUM0Q3cmdwMUpfODZmLXozSFE0SHQwQSIsImlkIjoiZmNfZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTRfNSJ9",
+    "page_token": "YYqKX3icHdBRboIwAADQ7DJ-KhVx0cQsQSrCtJVSCvqzlBYVaSlRMoS_3WWn2mm27ALv4319q7Kufl6ya9s2j-Vk0nXd-GLMRRVjYfSEP_paTARXKueiWs5f5-DtLFbw0blr07lR0jTMIxb1Uc_BfsjthhMlZrxa9JjubZ7CZ5E4u9xmhkBlMA1amlzv1AqmPAERtyXGKTuctqgstGpPMDwnNzVEYKPiG-u5d5zmMCzzGs1IIg3TzbtMoF34yIqtZ1awRbi3rgeUtj3aukNUSz_2xCCA6BkgAfWYc6o3wZ8XxB6BzHbXHKASZzDeTInDqbqKBD0IJZpnEqONa6QO59KCll-GLtmiHqcnKrSjsS8zHINq75H4WMtdXjnWcQgbpAFPFXFHZ_G5skf_Y6uPs26Xzd1cfgEw1XfC",
+    "question": "Which cyclone is coming in 2026 in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YYqKX3icHdBRboIwAADQ7DJ-KhVx0cQsQSrCtJVSCvqzlBYVaSlRMoS_3WWn2mm27ALv4319q7Kufl6ya9s2j-Vk0nXd-GLMRRVjYfSEP_paTARXKueiWs5f5-DtLFbw0blr07lR0jTMIxb1Uc_BfsjthhMlZrxa9JjubZ7CZ5E4u9xmhkBlMA1amlzv1AqmPAERtyXGKTuctqgstGpPMDwnNzVEYKPiG-u5d5zmMCzzGs1IIg3TzbtMoF34yIqtZ1awRbi3rgeUtj3aukNUSz_2xCCA6BkgAfWYc6o3wZ8XxB6BzHbXHKASZzDeTInDqbqKBD0IJZpnEqONa6QO59KCll-GLtmiHqcnKrSjsS8zHINq75H4WMtdXjnWcQgbpAFPFXFHZ_G5skf_Y6uPs26Xzd1cfgEw1XfC",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVTTJNREpHUkZwSGMwbEVkWEZwV0ZoZlltUkpUVXBXUm5KdlVIaDVXWE54VGpCNU9UWk5OMDV3VTNCclRVUmhUR2h6VW10WmFIcHRPVzlWYm5CbWMxaHdWVXh2VFVwVmJWOXJkWE5rWlc0NVlVVlRjSEJUTUhjd1p4SVhaSGxwT1dGeFEyeEZOR1pwZDA0MFVHaDJZbnAzUVRRYUlrRkVjM0k1WmxONk1VTjRlRXd6Wm04d1NVaDNXazQyWDIxdVpYTm9PRkZYV25jIiwiZmN2IjoiMyIsImVpIjoiZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTQiLCJxYyI6IkNoOXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZU0JoRUFCOUgxY2lQdyIsInF1ZXN0aW9uIjoiV2hpY2ggY3ljbG9uZSBpcyBjb21pbmcgaW4gMjAyNiBpbiBJbmRpYT8iLCJsayI6ImM1UFNLTV9JVE01UVNLNU16c25QUzFYSUxGWkl6c19OekV0WHlNeFRNREl3TWdQUm1Ya3BtWWtBIiwiYnMiOiJjNTFRc1k3Q01Bd1ZheVlRQzhyazhXQ0NETWZkTFJVakVnSzJ6bFl3YmFUV3FaS2dpcjhuQ1JReElDSGRaT3Y1LWIxbmk0TllsVFVHTUI1Q1RhQXZ6aEVIYUMxN2F4azZSeWVqZzRudDJUclk4c2xnb2FTY3ZTR1lOQlI3c2M2QzZDZ3JOaGpJQjJEcVBVUlNncklLUHowTWcxcXE3MEpONVdUQU1qMmhvaFR6c2phNkJuM1ZqV1ZLU2JWdERWZkRZcXFQWUF2NTFYOG0zNFAyNHZmMThqd2M3T090cERIR1JnOElIVGtkbjRJVmdUM0Q3cmdwMUpfODZmLXozSFE0SHQwQSIsImlkIjoiZmNfZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTRfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFXSjNURWhTV20xWFNuWTBWbW8wWlMxSk1tdHFPVXRmZUZKVmQyaFZiRkpsYzBFdE1rRlFTa2QwVTFWeFUza3hRV2t6Y1c1V1JUTldTbE5vVDIwdE5EVkdSbmQyVTFoMlNFRmlaM2RYTW5WUlZFcE5XRGhRTURoU1FSSVhNVTExZG1GeWRXbE1ZelpxZG5Jd1VIQnZiV015UVhjYUlrRkVjM0k1WmxOUlRsTkVZbFpFZUdaTmJscEpUREF0U25KTGVHdFBhbWhXVkhjIiwiZmN2IjoiMyIsImVpIjoiMU11dmFydWlMYzZqdnIwUHBvbWMyQXciLCJxYyI6IkNoMXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZUkFBZmN3Y2NEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMjAyNiBtb25zb29uIGZvcmVjYXN0IGFzIGEgcGVyY2VudGFnZSBvZiBMUEE/IiwibGsiOiJHamgzYUdGMElHbHpJSFJvWlNBeU1ESTJJRzF2Ym5OdmIyNGdabTl5WldOaGMzUWdZWE1nWVNCd1pYSmpaVzUwWVdkbElHOW1JR3h3WVEiLCJicyI6ImM1MlFQUXZDTUJDR2NjMmt1RWltMjRxVDBzSFBvZWdtcUFnT25jXzJ0TUUwS1UyZy1POU5VdXJINGlCa2V1LWU1ejNDam15ZUZtZ0Jhd0piRUVpMFpDd29hZ3hvRmFLZHlnVXFLTFV5MmtWQ1FUeU5aMGs4NUlNdUMtcy1aUWMyU1lXVUhuVEdDd0YtZ3FsM2IwbmRVTDQ5bkktNmxjYlBMLTA4NkJxMkRPY0pFMDd4MmN0MzFUVmw2QUEwcnFXaU9pTmw4VWFncjdBX2JaSjR4UmZOUDdDc2tCVnMzUldmNzQtU2JHU2dxaWtYbVJVdF92TnZ4ano2cXZ0QWhYLU9BaE84X2Q0VCIsImlkIjoiZmNfMU11dmFydWlMYzZqdnIwUHBvbWMyQXdfNiJ9",
-    "page_token": "4UO7sHicHdBfbpswHABg7TJ9bDAkmRIpqsrAEDaMcOwff14msEkIYHATVghvu8LOsFPtNK12g0_f77_dtW__fflTj6O-71eraZqeL8Nw6apnMahVcX_0YiWKrisL0e63X7fo5SwO7ruwv92EHXOtwaHGiUsnYvReJAFID22rNpzSJZ6YkyPZSF2BPoYpeStxYOWOvQktcox44AgvRwXftSdMf9GE2qGB3tiSx1LNc-7iIzNHU0J3Lnv8g3vAygUob-NHacwmU5RkRpeefLlQDzbAg4i4fCE4G8HS60zBd-DZpkrJjXKkoSE1oFdEMJDI1UNotFPioqtocjPyIYuwpLR3LQEkE2rXM3NtQNquoYFMKn1MUtzzdpe7tZhZCmaWBp_2uSFKm6KxY-HtxmwJbDkP15jTRTSd4lbtVhj7VYN72rw-ioT6zOsUQ3Vb9PrB_TqS09NZvB-sp__Xh59nNe71bbh8AOIVjTk",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVTTJNREpHUkZwSGMwbEVkWEZwV0ZoZlltUkpUVXBXUm5KdlVIaDVXWE54VGpCNU9UWk5OMDV3VTNCclRVUmhUR2h6VW10WmFIcHRPVzlWYm5CbWMxaHdWVXh2VFVwVmJWOXJkWE5rWlc0NVlVVlRjSEJUTUhjd1p4SVhaSGxwT1dGeFEyeEZOR1pwZDA0MFVHaDJZbnAzUVRRYUlrRkVjM0k1WmxONk1VTjRlRXd6Wm04d1NVaDNXazQyWDIxdVpYTm9PRkZYV25jIiwiZmN2IjoiMyIsImVpIjoiZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTQiLCJxYyI6IkNoOXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZU0JoRUFCOUgxY2lQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMjAyNiBtb25zb29uIGZvcmVjYXN0IGFzIGEgcGVyY2VudGFnZSBvZiBMUEE/IiwibGsiOiJHamgzYUdGMElHbHpJSFJvWlNBeU1ESTJJRzF2Ym5OdmIyNGdabTl5WldOaGMzUWdZWE1nWVNCd1pYSmpaVzUwWVdkbElHOW1JR3h3WVEiLCJicyI6ImM1MVFzWTdDTUF3VmF5WVFDOHJrOFdDQ0RNZmRMUlVqRWdLMnpsWXdiYVRXcVpLZ2lyOG5DUlF4SUNIZFpPdjUtYjFuaTROWWxUVUdNQjVDVGFBdnpoRUhhQzE3YXhrNlJ5ZWpnNG50MlRyWThzbGdvYVNjdlNHWU5CUjdzYzZDNkNnck5oaklCMkRxUFVSU2dySUtQejBNZzFxcTcwSk41V1RBTWoyaG9oVHpzamE2Qm4zVmpXVktTYlZ0RFZmRFlxcVBZQXY1MVg4bTM0UDI0dmYxOGp3YzdPT3RwREhHUmc4SUhUa2RuNElWZ1QzRDdyZ3AxSl84NmYtejNIUTRIdDBBIiwiaWQiOiJmY19keWk5YXFDbEU0Zml3TjRQaHZiendBNF81In0=",
+    "page_token": "j7YhVXicHdBbbptAAEBRdTP5jHkIt7ZkVcIesGggYp7ATzUPbGAGGNvExPx1C11DV5XVJOoGro7un3-mHfTHt7_NNNnbdrWa5_n5PI5nUz_LsV_x22OQK8mNEVzq7fr72v15kjtwl-H-KsOcWEsP0EEkGgVRuQKm47iitTY-i5OLImSiAwmEa6_YOz8EcI06NPqV2QLi8FZ1Car797IuFFHMtjhWhrCoyXHIlB8NnEUDOlqOgIpRXGkBzEUOCnOQFGUnfYUzHw3Zvj4mh7TPPK7h8srGmXp2qhwKYWx-wThA0IvWogsbWVjECF1emJ6-7BdBXJTqhNV7942aTUC0uhPfHkVkF0VpKqJNTEgA0n7Duedy_JUEjdI100FZRAcBiFP1xscdzPmxautBhVk4tjmBi-xMT0zivRTVG2pdr9TOnLGbk3lVVLo_AoLTRRTmoeank7zv_Kf_r3e_T_20tdfx_AlWqY6D",
     "question": "What is the 2026 monsoon forecast as a percentage of LPA?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4UO7sHicHdBfbpswHABg7TJ9bDAkmRIpqsrAEDaMcOwff14msEkIYHATVghvu8LOsFPtNK12g0_f77_dtW__fflTj6O-71eraZqeL8Nw6apnMahVcX_0YiWKrisL0e63X7fo5SwO7ruwv92EHXOtwaHGiUsnYvReJAFID22rNpzSJZ6YkyPZSF2BPoYpeStxYOWOvQktcox44AgvRwXftSdMf9GE2qGB3tiSx1LNc-7iIzNHU0J3Lnv8g3vAygUob-NHacwmU5RkRpeefLlQDzbAg4i4fCE4G8HS60zBd-DZpkrJjXKkoSE1oFdEMJDI1UNotFPioqtocjPyIYuwpLR3LQEkE2rXM3NtQNquoYFMKn1MUtzzdpe7tZhZCmaWBp_2uSFKm6KxY-HtxmwJbDkP15jTRTSd4lbtVhj7VYN72rw-ioT6zOsUQ3Vb9PrB_TqS09NZvB-sp__Xh59nNe71bbh8AOIVjTk",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFXSjNURWhTV20xWFNuWTBWbW8wWlMxSk1tdHFPVXRmZUZKVmQyaFZiRkpsYzBFdE1rRlFTa2QwVTFWeFUza3hRV2t6Y1c1V1JUTldTbE5vVDIwdE5EVkdSbmQyVTFoMlNFRmlaM2RYTW5WUlZFcE5XRGhRTURoU1FSSVhNVTExZG1GeWRXbE1ZelpxZG5Jd1VIQnZiV015UVhjYUlrRkVjM0k1WmxOUlRsTkVZbFpFZUdaTmJscEpUREF0U25KTGVHdFBhbWhXVkhjIiwiZmN2IjoiMyIsImVpIjoiMU11dmFydWlMYzZqdnIwUHBvbWMyQXciLCJxYyI6IkNoMXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZUkFBZmN3Y2NEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMjAyNiBtb25zb29uIGZvcmVjYXN0IGFzIGEgcGVyY2VudGFnZSBvZiBMUEE%2FIiwibGsiOiJHamgzYUdGMElHbHpJSFJvWlNBeU1ESTJJRzF2Ym5OdmIyNGdabTl5WldOaGMzUWdZWE1nWVNCd1pYSmpaVzUwWVdkbElHOW1JR3h3WVEiLCJicyI6ImM1MlFQUXZDTUJDR2NjMmt1RWltMjRxVDBzSFBvZWdtcUFnT25jXzJ0TUUwS1UyZy1POU5VdXJINGlCa2V1LWU1ejNDam15ZUZtZ0Jhd0piRUVpMFpDd29hZ3hvRmFLZHlnVXFLTFV5MmtWQ1FUeU5aMGs4NUlNdUMtcy1aUWMyU1lXVUhuVEdDd0YtZ3FsM2IwbmRVTDQ5bkktNmxjYlBMLTA4NkJxMkRPY0pFMDd4MmN0MzFUVmw2QUEwcnFXaU9pTmw4VWFncjdBX2JaSjR4UmZOUDdDc2tCVnMzUldmNzQtU2JHU2dxaWtYbVJVdF92TnZ4ano2cXZ0QWhYLU9BaE84X2Q0VCIsImlkIjoiZmNfMU11dmFydWlMYzZqdnIwUHBvbWMyQXdfNiJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=j7YhVXicHdBbbptAAEBRdTP5jHkIt7ZkVcIesGggYp7ATzUPbGAGGNvExPx1C11DV5XVJOoGro7un3-mHfTHt7_NNNnbdrWa5_n5PI5nUz_LsV_x22OQK8mNEVzq7fr72v15kjtwl-H-KsOcWEsP0EEkGgVRuQKm47iitTY-i5OLImSiAwmEa6_YOz8EcI06NPqV2QLi8FZ1Car797IuFFHMtjhWhrCoyXHIlB8NnEUDOlqOgIpRXGkBzEUOCnOQFGUnfYUzHw3Zvj4mh7TPPK7h8srGmXp2qhwKYWx-wThA0IvWogsbWVjECF1emJ6-7BdBXJTqhNV7942aTUC0uhPfHkVkF0VpKqJNTEgA0n7Duedy_JUEjdI100FZRAcBiFP1xscdzPmxautBhVk4tjmBi-xMT0zivRTVG2pdr9TOnLGbk3lVVLo_AoLTRRTmoeank7zv_Kf_r3e_T_20tdfx_AlWqY6D",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNVTTJNREpHUkZwSGMwbEVkWEZwV0ZoZlltUkpUVXBXUm5KdlVIaDVXWE54VGpCNU9UWk5OMDV3VTNCclRVUmhUR2h6VW10WmFIcHRPVzlWYm5CbWMxaHdWVXh2VFVwVmJWOXJkWE5rWlc0NVlVVlRjSEJUTUhjd1p4SVhaSGxwT1dGeFEyeEZOR1pwZDA0MFVHaDJZbnAzUVRRYUlrRkVjM0k1WmxONk1VTjRlRXd6Wm04d1NVaDNXazQyWDIxdVpYTm9PRkZYV25jIiwiZmN2IjoiMyIsImVpIjoiZHlpOWFxQ2xFNGZpd040UGh2Ynp3QTQiLCJxYyI6IkNoOXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZU0JoRUFCOUgxY2lQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMjAyNiBtb25zb29uIGZvcmVjYXN0IGFzIGEgcGVyY2VudGFnZSBvZiBMUEE%2FIiwibGsiOiJHamgzYUdGMElHbHpJSFJvWlNBeU1ESTJJRzF2Ym5OdmIyNGdabTl5WldOaGMzUWdZWE1nWVNCd1pYSmpaVzUwWVdkbElHOW1JR3h3WVEiLCJicyI6ImM1MVFzWTdDTUF3VmF5WVFDOHJrOFdDQ0RNZmRMUlVqRWdLMnpsWXdiYVRXcVpLZ2lyOG5DUlF4SUNIZFpPdjUtYjFuaTROWWxUVUdNQjVDVGFBdnpoRUhhQzE3YXhrNlJ5ZWpnNG50MlRyWThzbGdvYVNjdlNHWU5CUjdzYzZDNkNnck5oaklCMkRxUFVSU2dySUtQejBNZzFxcTcwSk41V1RBTWoyaG9oVHpzamE2Qm4zVmpXVktTYlZ0RFZmRFlxcVBZQXY1MVg4bTM0UDI0dmYxOGp3YzdPT3RwREhHUmc4SUhUa2RuNElWZ1QzRDdyZ3AxSl84NmYtejNIUTRIdDBBIiwiaWQiOiJmY19keWk5YXFDbEU0Zml3TjRQaHZiendBNF81In0%3D",
     "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFXSjNURWhTV20xWFNuWTBWbW8wWlMxSk1tdHFPVXRmZUZKVmQyaFZiRkpsYzBFdE1rRlFTa2QwVTFWeFUza3hRV2t6Y1c1V1JUTldTbE5vVDIwdE5EVkdSbmQyVTFoMlNFRmlaM2RYTW5WUlZFcE5XRGhRTURoU1FSSVhNVTExZG1GeWRXbE1ZelpxZG5Jd1VIQnZiV015UVhjYUlrRkVjM0k1WmxOUlRsTkVZbFpFZUdaTmJscEpUREF0U25KTGVHdFBhbWhXVkhjIiwiZmN2IjoiMyIsImVpIjoiMU11dmFydWlMYzZqdnIwUHBvbWMyQXciLCJxYyI6IkNoMXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZUkFBZmN3Y2NEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBTa3ltZXQncyBwcmVkaWN0aW9uIGZvciB0aGUgSW5kaWFuIG1vbnNvb24gaW4gMjAyNj8iLCJsayI6ImM1TlNOekl3TWxQSXpjOHJ6c19QVXlnb1NrM0pUQzdKQkRJelFTZ2xNMUdoT0xzeU43VUVBQSIsImJzIjoiYzUyUVBRdkNNQkNHY2Mya3VFaW0yNHFUMHNIUG9lZ21xQWdPbmNfMnRNRTBLVTJnLU85TlV1ckg0aUJrZXUtZTV6M0NqbXllRm1nQmF3SmJFRWkwWkN3b2FneG9GYUtkeWdVcUtMVXkya1ZDUVR5Tlowazg1SU11Qy1zLVpRYzJTWVdVSG5UR0N3Ri1ncWwzYjBuZFVMNDluSS02bGNiUEwtMDg2QnEyRE9jSkUwN3gyY3QzMVRWbDZBQTBycVdpT2lObDhVYWdyN0FfYlpKNHhSZk5QN0Nza0JWczNSV2Y3NC1TYkdTZ3Fpa1htUlV0X3ZOdnhqejZxdnRBaFgtT0FoTzhfZDRUIiwiaWQiOiJmY18xTXV2YXJ1aUxjNmp2cjBQcG9tYzJBd182In0=",
-    "page_token": "C-ffGXicHdBhbpswGIBh7TL92YBpsiZSNImAUUjtyS7fB-HPBIbEBbuwlATCv11hZ9ipdppVu8H7vL_-mLf39u-X33oY-o_NYjGO4-O5686mflSdXRQf93e1UIUxZaHazerryv12UtvwpvzdRfkC-h4D6STR-lqQcWJevlOQR2n7fOdwHivKXdbqsAr8Bq1YsswckKB5Nfoi0nwviYkwHaR0wEG6jqFBckyllol_qHfuS2nopcaYHz0d8owzht0yR_mESR4U4ZP3gnjFgANCXNSZDFSi2zqp7rXlPxnFVR3gwAlN0ijWLB0OwtXkOEsD1iFyzqcUnBmtkSzdL3k72MITS5GZGySxKJFG4OQCQ8rKqOow0FcgvRdqNSXZZ2cWuwVMDbc9UY0vVLQejnPsV1P3JkDOqjEWZvppfSbfMT6wBjsGa1HOOWUzjGW7vzO3EtX4cFK3rffw__X2x8kOm_7Snf8Bc-WMvA",
-    "question": "What is Skymet's prediction for the Indian monsoon in 2026?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=C-ffGXicHdBhbpswGIBh7TL92YBpsiZSNImAUUjtyS7fB-HPBIbEBbuwlATCv11hZ9ipdppVu8H7vL_-mLf39u-X33oY-o_NYjGO4-O5686mflSdXRQf93e1UIUxZaHazerryv12UtvwpvzdRfkC-h4D6STR-lqQcWJevlOQR2n7fOdwHivKXdbqsAr8Bq1YsswckKB5Nfoi0nwviYkwHaR0wEG6jqFBckyllol_qHfuS2nopcaYHz0d8owzht0yR_mESR4U4ZP3gnjFgANCXNSZDFSi2zqp7rXlPxnFVR3gwAlN0ijWLB0OwtXkOEsD1iFyzqcUnBmtkSzdL3k72MITS5GZGySxKJFG4OQCQ8rKqOow0FcgvRdqNSXZZ2cWuwVMDbc9UY0vVLQejnPsV1P3JkDOqjEWZvppfSbfMT6wBjsGa1HOOWUzjGW7vzO3EtX4cFK3rffw__X2x8kOm_7Snf8Bc-WMvA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFXSjNURWhTV20xWFNuWTBWbW8wWlMxSk1tdHFPVXRmZUZKVmQyaFZiRkpsYzBFdE1rRlFTa2QwVTFWeFUza3hRV2t6Y1c1V1JUTldTbE5vVDIwdE5EVkdSbmQyVTFoMlNFRmlaM2RYTW5WUlZFcE5XRGhRTURoU1FSSVhNVTExZG1GeWRXbE1ZelpxZG5Jd1VIQnZiV015UVhjYUlrRkVjM0k1WmxOUlRsTkVZbFpFZUdaTmJscEpUREF0U25KTGVHdFBhbWhXVkhjIiwiZmN2IjoiMyIsImVpIjoiMU11dmFydWlMYzZqdnIwUHBvbWMyQXciLCJxYyI6IkNoMXNZWFJsYzNRZ2JXOXVjMjl2YmlCbWIzSmxZMkZ6ZENCcGJtUnBZUkFBZmN3Y2NEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBTa3ltZXQncyBwcmVkaWN0aW9uIGZvciB0aGUgSW5kaWFuIG1vbnNvb24gaW4gMjAyNj8iLCJsayI6ImM1TlNOekl3TWxQSXpjOHJ6c19QVXlnb1NrM0pUQzdKQkRJelFTZ2xNMUdoT0xzeU43VUVBQSIsImJzIjoiYzUyUVBRdkNNQkNHY2Mya3VFaW0yNHFUMHNIUG9lZ21xQWdPbmNfMnRNRTBLVTJnLU85TlV1ckg0aUJrZXUtZTV6M0NqbXllRm1nQmF3SmJFRWkwWkN3b2FneG9GYUtkeWdVcUtMVXkya1ZDUVR5Tlowazg1SU11Qy1zLVpRYzJTWVdVSG5UR0N3Ri1ncWwzYjBuZFVMNDluSS02bGNiUEwtMDg2QnEyRE9jSkUwN3gyY3QzMVRWbDZBQTBycVdpT2lObDhVYWdyN0FfYlpKNHhSZk5QN0Nza0JWczNSV2Y3NC1TYkdTZ3Fpa1htUlV0X3ZOdnhqejZxdnRBaFgtT0FoTzhfZDRUIiwiaWQiOiJmY18xTXV2YXJ1aUxjNmp2cjBQcG9tYzJBd182In0%3D",
-    "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&hl=en&gl=in&q=Monsoon+Update+today&sa=X&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ1QJ6BAg3EAE",
-    "query": "Monsoon Update today",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Monsoon+Update+today"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&hl=en&gl=in&q=2026+monsoon+prediction+in+India&sa=X&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ1QJ6BAhLEAE",
-    "query": "2026 monsoon prediction in India",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=2026+monsoon+prediction+in+India"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&hl=en&gl=in&q=Latest+monsoon+forecast+india+pdf&sa=X&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ1QJ6BAhJEAE",
-    "query": "Latest monsoon forecast india pdf",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Latest+monsoon+forecast+india+pdf"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&hl=en&gl=in&q=IMD+monsoon+update+today&sa=X&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ1QJ6BAhCEAE",
-    "query": "IMD monsoon update today",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IMD+monsoon+update+today"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&hl=en&gl=in&q=Monsoon+Update+2026&sa=X&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ1QJ6BAhAEAE",
-    "query": "Monsoon Update 2026",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Monsoon+Update+2026"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&hl=en&gl=in&q=Monsoon+2026+start+date&sa=X&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ1QJ6BAg_EAE",
-    "query": "Monsoon 2026 start date",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Monsoon+2026+start+date"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&hl=en&gl=in&q=IMD+Monsoon+satellite&sa=X&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ1QJ6BAg9EAE",
-    "query": "IMD Monsoon satellite",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IMD+Monsoon+satellite"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&hl=en&gl=in&q=Monsoon+arrival+in+India&sa=X&ved=2ahUKEwi73Nv_jv2WAxXOka8BHaYEB8sQ1QJ6BAg4EAE",
-    "query": "Monsoon arrival in India",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Monsoon+arrival+in+India"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "latest monsoon forecast india",
+   "results_for": "India",
    "time_taken_displayed": 0.27,
-   "total_results": 139
+   "total_results": 127000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:04:36 UTC",
+   "created_at": "2026-09-30 15:18:59 UTC",
    "google_url": "https://www.google.com/search?q=latest+monsoon+forecast+india&oq=latest+monsoon+forecast+india&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcbd4aa0a88fb0bd498ad",
-   "json_endpoint": "https://serpapi.com/searches/ssyG2IWqHxM0Tcq6TnHMH8mdoubUnDH-3WoKy5sXmw8/6aafcbd4aa0a88fb0bd498ad.json",
-   "markdown_endpoint": "https://serpapi.com/searches/ssyG2IWqHxM0Tcq6TnHMH8mdoubUnDH-3WoKy5sXmw8/6aafcbd4aa0a88fb0bd498ad.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/ssyG2IWqHxM0Tcq6TnHMH8mdoubUnDH-3WoKy5sXmw8/6aafcbd4aa0a88fb0bd498ad.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:04:36 UTC",
-   "raw_html_file": "https://serpapi.com/searches/ssyG2IWqHxM0Tcq6TnHMH8mdoubUnDH-3WoKy5sXmw8/6aafcbd4aa0a88fb0bd498ad.html",
+   "id": "6abd286303b136ea126ba705",
+   "json_endpoint": "https://serpapi.com/searches/9vjUJXO_l5AQ-JRSHRoRtsuvx10FG8o3Mx1QTHlnEqs/6abd286303b136ea126ba705.json",
+   "markdown_endpoint": "https://serpapi.com/searches/9vjUJXO_l5AQ-JRSHRoRtsuvx10FG8o3Mx1QTHlnEqs/6abd286303b136ea126ba705.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/9vjUJXO_l5AQ-JRSHRoRtsuvx10FG8o3Mx1QTHlnEqs/6abd286303b136ea126ba705.json_with_pixel_position",
+   "processed_at": "2026-09-30 15:18:59 UTC",
+   "raw_html_file": "https://serpapi.com/searches/9vjUJXO_l5AQ-JRSHRoRtsuvx10FG8o3Mx1QTHlnEqs/6abd286303b136ea126ba705.html",
    "status": "Success",
-   "total_time_taken": 1.43
+   "total_time_taken": 21.06
   },
   "search_parameters": {
    "device": "desktop",
@@ -740,15 +384,9 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=80"
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=latest+monsoon+forecast+india&start=30"
    }
   }
  },

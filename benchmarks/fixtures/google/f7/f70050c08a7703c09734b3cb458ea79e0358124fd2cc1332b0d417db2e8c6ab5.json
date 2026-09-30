@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 749.944,
+ "elapsed_ms": 957.401,
  "engine": "google",
- "fetched_at": "2026-09-20T12:07:29.620613+00:00",
+ "fetched_at": "2026-09-27T21:32:48.680801+00:00",
  "frugal_cache_version": 1,
  "key": "f70050c08a7703c09734b3cb458ea79e0358124fd2cc1332b0d417db2e8c6ab5",
  "params": {
@@ -9,276 +9,379 @@
   "q": "What is ownership in the Rust programming language?"
  },
  "response": {
-  "ai_overview": {
-   "page_token": "VKcQSHiczVXZcqpIGH6AeY7xxkQWN0wVlepG3BITMfEYc0NBAw0RaAQM6t28yFzNU83TTIMbJJjMORdT01VJ083nv398f_zlOv7y79_-tOM4iG4YJkmSGiYEu2YNEY_Roq2PGIu4UYjs24isQ2Q6hojskHhmZfsu1isoEtmK6YgYbd810t7AcctvPpDJalTvCmBcyUyIqq5F5hv1sHmLGJWh_5a_17v0UItqpl9bW9Frt8MZz_dCjWe5Tu2R0TwKAP_dkhUM030EpMsg-kr-3lRqYAignLM0BDjb4Rm12L-WlOyVhC9ag3uf0wyu0L-uuhskXXp7qE_34m-pC1g4JlksACRZlBA432eTW8ohl2NeX1TqhC6uQ_XI-Sbf40KshYWTwrFHo1CBJJ2d5J1RM3YhjFOlEAbCgMAuBLPLcdP63A1BcwkUuSyF_FLkH41T5-4XfXrDGJgOLsvoId04xkE2yh7CKJ1n6bnDkt6z3e7MuvGj4bJkudF6-oKfCsKr9TAGDNIpziWaYRqqrbK32ZnjuSbbqbeFq4xIKDoxKcozaQLW-tO93XB2oHZfg9yRRtK-6eBTx2R6loYliUHpAC1pMTzfpg2T9zCll7d7aCUEEgHyFBRbezdJ69o_HumM7mhr8oiz13T4P9Nov3AOTGmUBTIkB2AesUf1c9TNNXYIyj4zH_NWBufH7idggYASzXcJjrO--Gh5ARQJyykHJHkAD1VDeRs047vTAR4DlgH9QsEj4higfADlYkpLMFTAGAxlatOZDemE4nRW94Gmw3Dw1ZM_MO7CwC-om7n0bz59JQt-R6J0KUe-fBj_PG0GPNZ5dvOCrkn9bvSOo_iFV9sGmr8kSjlNiKf_hOKg_xWR9nokH_ToMpHk74mU6RH8Qo-y57MepcMrkYtEgv1yPRqX6lExbwlM80T6Wo9-mkjSl0Taz2EpkUg5kYKLRMLJRyIV9Ugu16MTkX5Fj-Av6lHGK3O_FcVp_YYvitSgIZPZwG2M4gBDgdNeLVMAT88a11p9L1KWF994muFeqY5xA_lRvDWuVHpBbkyjshLnthZXnahKEt8MI9sJqo5fjW2zOl1HcTUICQ41z3N8XHU1H681bN5WPDckIqu1H7kpN1LV3QO7aPVGfT5u_LDaw4QPraa03My09qphPgk7bhCvpkaAdLulGx3Iu57wYj_O75cu0owRu4W9XhDcXT81A8syVPdasyNOam1Q2DNt3unL4z7GK1-ftOa7aDmqc70OGXHcZhK_E23OeXMv3tYncnPaD7LIIjEY8aa69R8sc1HxQiTSWWhg8KCAOaZDKWXDCmYaoXsClH6L9gpWIqSpZvQuduo8MuvttqWzAjI6RsXD8TYQO2wl8kOR-weF7UlU",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VKcQSHiczVXZcqpIGH6AeY7xxkQWN0wVlepG3BITMfEYc0NBAw0RaAQM6t28yFzNU83TTIMbJJjMORdT01VJ083nv398f_zlOv7y79_-tOM4iG4YJkmSGiYEu2YNEY_Roq2PGIu4UYjs24isQ2Q6hojskHhmZfsu1isoEtmK6YgYbd810t7AcctvPpDJalTvCmBcyUyIqq5F5hv1sHmLGJWh_5a_17v0UItqpl9bW9Frt8MZz_dCjWe5Tu2R0TwKAP_dkhUM030EpMsg-kr-3lRqYAignLM0BDjb4Rm12L-WlOyVhC9ag3uf0wyu0L-uuhskXXp7qE_34m-pC1g4JlksACRZlBA432eTW8ohl2NeX1TqhC6uQ_XI-Sbf40KshYWTwrFHo1CBJJ2d5J1RM3YhjFOlEAbCgMAuBLPLcdP63A1BcwkUuSyF_FLkH41T5-4XfXrDGJgOLsvoId04xkE2yh7CKJ1n6bnDkt6z3e7MuvGj4bJkudF6-oKfCsKr9TAGDNIpziWaYRqqrbK32ZnjuSbbqbeFq4xIKDoxKcozaQLW-tO93XB2oHZfg9yRRtK-6eBTx2R6loYliUHpAC1pMTzfpg2T9zCll7d7aCUEEgHyFBRbezdJ69o_HumM7mhr8oiz13T4P9Nov3AOTGmUBTIkB2AesUf1c9TNNXYIyj4zH_NWBufH7idggYASzXcJjrO--Gh5ARQJyykHJHkAD1VDeRs047vTAR4DlgH9QsEj4higfADlYkpLMFTAGAxlatOZDemE4nRW94Gmw3Dw1ZM_MO7CwC-om7n0bz59JQt-R6J0KUe-fBj_PG0GPNZ5dvOCrkn9bvSOo_iFV9sGmr8kSjlNiKf_hOKg_xWR9nokH_ToMpHk74mU6RH8Qo-y57MepcMrkYtEgv1yPRqX6lExbwlM80T6Wo9-mkjSl0Taz2EpkUg5kYKLRMLJRyIV9Ugu16MTkX5Fj-Av6lHGK3O_FcVp_YYvitSgIZPZwG2M4gBDgdNeLVMAT88a11p9L1KWF994muFeqY5xA_lRvDWuVHpBbkyjshLnthZXnahKEt8MI9sJqo5fjW2zOl1HcTUICQ41z3N8XHU1H681bN5WPDckIqu1H7kpN1LV3QO7aPVGfT5u_LDaw4QPraa03My09qphPgk7bhCvpkaAdLulGx3Iu57wYj_O75cu0owRu4W9XhDcXT81A8syVPdasyNOam1Q2DNt3unL4z7GK1-ftOa7aDmqc70OGXHcZhK_E23OeXMv3tYncnPaD7LIIjEY8aa69R8sc1HxQiTSWWhg8KCAOaZDKWXDCmYaoXsClH6L9gpWIqSpZvQuduo8MuvttqWzAjI6RsXD8TYQO2wl8kOR-weF7UlU"
-  },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjBlSWVXRGNTUlFqUW16OUVmQWUtYXpTeGc2MlJVZlBvcUJYWm1TWmY5WGx2eTdiYUctbG1pQ3RHSFNoYjRISVZ0ZmQwajR3QmcweUxOaGpXRlE1NGtOMVhOMm5DLWlfNjB3cU42eHJ2Qmk3SnRzVVVNQmVjMkpXRkNxZ3dSZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjBlSWVXRGNTUlFqUW16OUVmQWUtYXpTeGc2MlJVZlBvcUJYWm1TWmY5WGx2eTdiYUctbG1pQ3RHSFNoYjRISVZ0ZmQwajR3QmcweUxOaGpXRlE1NGtOMVhOMm5DLWlfNjB3cU42eHJ2Qmk3SnRzVVVNQmVjMkpXRkNxZ3dSZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
     "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
      "source": {
-      "description": "It is inevitable that programmers working in ownership-oriented systems will “fight the borrow checker”, and frequently need to “turn it off”.",
-      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-      "source_info_link": "https://www.reddit.com/r/rust/comments/xc8enj/the_fatal_flaw_of_ownership_semantics/"
+      "description": "... Rust: Fast, Safe Systems Development\" by Jim Blandy and Jason Orendorff. \"The Rust Programming Language\" by Steve Klabnik and Carol Nichols.",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "date": "Sep 12, 2022",
-    "displayed_link": "https://www.reddit.com › rust › comments › the_fatal_f...",
-    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-    "link": "https://www.reddit.com/r/rust/comments/xc8enj/the_fatal_flaw_of_ownership_semantics/",
+    "displayed_link": "أكثر من 1.5 ألف مشاهدة · قبل سنتين",
+    "duration": "8:55",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=pHImrplIwGo&t=41",
+      "time": "00:41",
+      "title": "The Garbage Collector"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=pHImrplIwGo&t=193",
+      "time": "03:13",
+      "title": "Borrowing and References"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=pHImrplIwGo&t=329",
+      "time": "05:29",
+      "title": "Calculate Length"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=pHImrplIwGo&t=452",
+      "time": "07:32",
+      "title": "When the Owner Goes out of Scope the Value Will Be Dropped"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=pHImrplIwGo",
     "position": 1,
-    "read_more_link": "https://www.reddit.com/r/rust/comments/xc8enj/the_fatal_flaw_of_ownership_semantics/#:~:text=It%20is%20inevitable%20that%20programmers,need%20to%20%E2%80%9Cturn%20it%20off%E2%80%9D.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFQ3AmZ7j3Y1Ch4IEum1mfFXKZLwV7ZZ3RquaL3gu85g8DjK1HXy-25HwKtbARVHCoNGbzebyXczNUeRMwjpXVykVaxF94ji-LhRp5ODr3F21sgpPo2BCi4GTDdgO9f13qgDy8aQC7E8c8AuXhye7EjBJyJFom40EFrTqIl0ONxpGVpcs1BA5ow&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4QFnoECBMQAQ&uoh=1",
-    "snippet": "It is inevitable that programmers working in ownership-oriented systems will “fight the borrow checker”, and frequently need to “turn it off”.",
-    "snippet_highlighted_words": [
-     "ownership"
-    ],
-    "source": "Reddit",
-    "title": "\"The Fatal Flaw of Ownership Semantics\" : r/rust"
+    "snippet": "... Rust: Fast, Safe Systems Development\" by Jim Blandy and Jason Orendorff. \"The Rust Programming Language\" by Steve Klabnik and Carol Nichols.",
+    "source": "YouTube · BekBrace",
+    "thumbnail": "https://serpapi.com/searches/6ab98b7fbe918a030523bdd8/images/d2MIUT0ylWADhpDNaYf2iRXOsuBorw6tQC5M05RJAtk.png",
+    "title": "Rust Basics 2024: Lesson 4 | Ownership",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRCdlvxF0jNRcvjV9zid3WcY8tirdq6Tmi1wg"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZaV3VrUjY1dVI4amFFQl9vM2tkYzdBcURlb0xod1p5UWNuQjF5RHpEV0VGRDRld1lZaVNHanlZZzVCdEkyeTdqNUpWWHlGVWRyb0tQT3RPYWlWRVdDRFlpX0N6VnFRMVQyVkduNTZNdXpYT0FvUzNXLVlob0RWQk9wdHNwcVltOVJ0Z2pfam9PSGpOQzJtdFY2QVA4M0E4aXR3UU9mdUtPX0ZiNUloQklVd1ZWZFVXaDh2aUMxRDA4eW9USkd4ajZBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZaV3VrUjY1dVI4amFFQl9vM2tkYzdBcURlb0xod1p5UWNuQjF5RHpEV0VGRDRld1lZaVNHanlZZzVCdEkyeTdqNUpWWHlGVWRyb0tQT3RPYWlWRVdDRFlpX0N6VnFRMVQyVkduNTZNdXpYT0FvUzNXLVlob0RWQk9wdHNwcVltOVJ0Z2pfam9PSGpOQzJtdFY2QVA4M0E4aXR3UU9mdUtPX0ZiNUloQklVd1ZWZFVXaDh2aUMxRDA4eW9USkd4ajZBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
     "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
      "source": {
-      "description": "Ashish Tulsian is a pioneering entrepreneur who founded Restroworks, a technology platform transforming the restaurant industry in India.",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=8JkrH9AUMD4"
+      "description": "Here is a video explaining Rust ownership from a Java point of view. ... What got you to try programming in rust than other programming language?",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
      }
     },
-    "date": "Jan 27, 2025",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=8JkrH9AUMD4",
-    "position": 2,
-    "read_more_link": "https://www.youtube.com/watch?v=8JkrH9AUMD4#:~:text=Ownership%20as%20a%20mindset%20%7C",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVhtgFc70fMDz4UpIFW1hW3teEHc0fGUd1HsCDlveZTPnDq2YjwvF7guHgMsu7ZUjp1nN7UuvzhPRu-q9uOqsX6yHsA2Fs1EEJi81ZouhVb_-g94C5rJgz3HI3FRaIew&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4QFnoECBYQAQ&uoh=1",
-    "snippet": "Ashish Tulsian is a pioneering entrepreneur who founded Restroworks, a technology platform transforming the restaurant industry in India.",
-    "source": "YouTube",
-    "title": "Ownership as a mindset | Ashish Tulsian"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Buying a Used Tesla: Advice From a 7-Year Owner. ZachOnTheCharge · 333K views ; Tesla vs. Gas: The TRUE Cost After 35k miles! Griffin's Garage | ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=zOb16GdW4fs"
-     }
-    },
-    "date": "Oct 4, 2025",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=zOb16GdW4fs",
-    "position": 3,
-    "read_more_link": "https://www.youtube.com/watch?v=zOb16GdW4fs#:~:text=Buying%20a%20Used%20Tesla%3A%20Advice,ZachOnTheCharge%E2%80%A2333K%20views&text=ZachOnTheCharge%E2%80%A2333K%20views&text=Tesla%20vs.%20Gas%3A%20The%20TRUE,Griffin's%20Garage%20%7C%20AIRVOLT%E2%80%A215K%20views",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVBlLkUzxpKg8SzVafFMB7GPshEWHq17pAIJvnlNdwSZdIcPCBj_OJSnsSEWTan66KKU7HoOjBHjdFWDbwpWz9D4EgiKjQnU63Pr3lX1C5qLoBK3FHSOkGwOzEAqNVrQ&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4QFnoECBIQAQ&uoh=1",
-    "snippet": "Buying a Used Tesla: Advice From a 7-Year Owner. ZachOnTheCharge · 333K views ; Tesla vs. Gas: The TRUE Cost After 35k miles! Griffin's Garage | ...",
-    "snippet_highlighted_words": [
-     "Owner"
-    ],
-    "source": "YouTube",
-    "title": "Tesla vs Gas: REAL Costs After 1 Year Ownership"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Changing ownership of a lot of layers of folders and files is not easy, and its possible you can get the whole folder tree exactly as it was, ...",
-      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp",
-      "source_info_link": "https://support.google.com/drive/thread/366360997/transferring-ownership-does-not-transfer-sub-folders?hl=en"
-     }
-    },
-    "date": "Aug 19, 2025",
-    "displayed_link": "https://support.google.com › drive › thread › transferrin...",
-    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp",
-    "link": "https://support.google.com/drive/thread/366360997/transferring-ownership-does-not-transfer-sub-folders?hl=en",
-    "position": 4,
-    "read_more_link": "https://support.google.com/drive/thread/366360997/transferring-ownership-does-not-transfer-sub-folders?hl=en#:~:text=Changing%20ownership%20of%20a%20lot,branch%20of%20the%20folder%20tree.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.google.com/drive/thread/366360997/transferring-ownership-does-not-transfer-sub-folders%3Fhl%3Den&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4QFnoECBEQAQ",
-    "snippet": "Changing ownership of a lot of layers of folders and files is not easy, and its possible you can get the whole folder tree exactly as it was, ...",
-    "snippet_highlighted_words": [
-     "ownership"
-    ],
-    "source": "Google Help",
-    "title": "Transferring ownership does not transfer sub folders"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "If you created a Form under your Microsoft 365 account, but now also want others to edit it, you will need to transfer the form to a ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=bNkQm0zYhXI"
-     }
-    },
-    "date": "Jun 22, 2021",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=bNkQm0zYhXI",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVYzSudNiu41BGJGjh-8A8BVpdUdVfRpxm9hv8VBZdKQbf2Tkr5zRdA1RUXZT8oT4BTN0bW4EVN-obywYAadBAVFuu0aGgm-QmjGnekuaVMZFJupAVJ849NKc0RqlrGg&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4QFnoECBAQAQ&uoh=1",
-    "snippet": "If you created a Form under your Microsoft 365 account, but now also want others to edit it, you will need to transfer the form to a ...",
-    "source": "YouTube",
-    "title": "How to transfer the ownership of a MS Form"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "32 votes, 35 comments. In the famous Rust Book, I've learned that there are 3 rules about 'ownership': Each value in Rust has an owner.",
-      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-      "source_info_link": "https://www.reddit.com/r/rust/comments/13qcj0x/questions_about_ownership_rule/"
-     }
-    },
-    "date": "May 24, 2023",
-    "displayed_link": "https://www.reddit.com › rust › comments › questions_...",
+    "displayed_link": "‫4 تعليق · قبل 4 سنوات",
+    "duration": "15:04",
     "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
-    "link": "https://www.reddit.com/r/rust/comments/13qcj0x/questions_about_ownership_rule/",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFTMfmI24nXJezEqDkhZpBnKvQIHhk1a3TLNukJcRs-eLnJ3pIUfUxTFIqw91oL1-LHa-COcjiB_wK1iT5JKgMHssSHqliHtHILrDI0Qpxt9plulcHjaE0wQMNaX1goT_Bu0dwK0gq8I3HfIXI7gKS1A4tNOL4D6Qusmq0ZshSxT3xQ&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4QFnoECBgQAQ&uoh=1",
-    "snippet": "32 votes, 35 comments. In the famous Rust Book, I've learned that there are 3 rules about 'ownership': Each value in Rust has an owner.",
-    "snippet_highlighted_words": [
-     "Each value in Rust has an owner"
-    ],
-    "source": "Reddit",
-    "title": "Questions about ownership rule : r/rust"
+    "link": "https://www.reddit.com/r/learnrust/comments/qamnng/rust_for_java_developers_33_understanding/",
+    "position": 2,
+    "snippet": "Here is a video explaining Rust ownership from a Java point of view. ... What got you to try programming in rust than other programming language?",
+    "source": "Reddit · r/learnrust",
+    "thumbnail": "https://serpapi.com/searches/6ab98b7fbe918a030523bdd8/images/d2MIUT0ylWADhpDNaYf2iQb4FHeJVlMcTezCNYkTuIw.jpeg",
+    "title": "Rust for Java Developers 3/3 - Understanding Ownership"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVkU0R2ZYQk1YRlJ3NWptdGcwOVpzYXRfdEdDUEcyVjhlcnF2MWJWcnQtX2JUMmJYUE1CZ3FuY09xa1F4X0lSOE80ZGpnbjVLaTdHR2k0LThOQ0lYaXBndTloVzR6SmN5d1VpM2c3TUtsSVhvMldJM0xSa2U0TGNpR1l6alQSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVkU0R2ZYQk1YRlJ3NWptdGcwOVpzYXRfdEdDUEcyVjhlcnF2MWJWcnQtX2JUMmJYUE1CZ3FuY09xa1F4X0lSOE80ZGpnbjVLaTdHR2k0LThOQ0lYaXBndTloVzR6SmN5d1VpM2c3TUtsSVhvMldJM0xSa2U0TGNpR1l6alQSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
      "source": {
-      "description": "In this video, Timmy shows you the step by step easy process of how to transfer the ownership of a Google Doc, Google Sheet, Google ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=Dj1K9fieRK0"
+      "description": "Rust enforces a single owner for every value. That rule protects memory safety, but it creates a real problem when several parts of your ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "date": "Apr 2, 2019",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=Dj1K9fieRK0",
+    "displayed_link": "أكثر من 80 مشاهدة · قبل شهر واحد",
+    "duration": "2:20",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/shorts/yGc3JMMcXKI",
+    "position": 3,
+    "snippet": "Rust enforces a single owner for every value. That rule protects memory safety, but it creates a real problem when several parts of your ...",
+    "source": "YouTube · The Rust Guy",
+    "thumbnail": "https://serpapi.com/searches/6ab98b7fbe918a030523bdd8/images/d2MIUT0ylWADhpDNaYf2iVD6i5fnNmXM1Kb0GL2Gi8k.jpeg",
+    "title": "Rust Shared Ownership Explained: How Multiple Parts of Code ...",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRBzSVnuJhiott7Un6P6F-Ztor1eX9cWaMgBA"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZmQnZOWHhDOTNQbHZmdmlVQ2RBYjlOeERCRnhwUUdXYnZyQWRmMmY4bXpNWnEyejgxckNtaE1lME1MNUgwbHhYckp0R2d1cEVpVC13d3poZWdCa0JUb2tMRGtyejNCTi1USzhaVGlKTVQtcWZ5dUVNSUJfaktRajVSYWN5ZU1MOU1YYlpBTXVLTk41c2s2MHNiNUhlZ3h1b1J3dThMWXpORFNxMW94QTIxek9GSkhiVENiNndZNUdvSlUSBBoCCAAaygcSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJApgcIABAAGAAgACo3CgR3aGF0FXoCtT8aBtmI2KfYqhoJaXY7ZDt3aGF0GgppdjtkO3doaWNoGgtpdjtkO9mI2KfYqioJCgJpcxUAAAAAKkAKCW93bmVyc2hpcBUKmWtAGgVvd25lchoK2YXZhNmD2YrYqRoKaXY7ZDtvd25lchoPaXY7ZDvZhdmE2YPZitmHKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqWQoEcnVzdBUSJKJAGgrYp9mE2LXYr9ijGgbYsdiz2KoaD3J1c3Rwcm9ncmFtbWluZxoJaXY7ZDtydXN0Gg9pdjtkO9in2YTYtdiv2KcaC2l2O2Q72LHYs9iqKnQKC3Byb2dyYW1taW5nFSvKaj8aBmNvZGluZxoEbGFuZxoPcnVzdHByb2dyYW1taW5nGhNwcm9ncmFtbWluZ2xhbmd1YWdlGhBpdjtkO3Byb2dyYW1taW5nGglpdjtkO2xhbmcaD2l2O2Q7cHJvZ3JhbW1lcipfCghsYW5ndWFnZRXjQJM_GgRsYW5nGglsYW5ndWFnZXMaE3Byb2dyYW1taW5nbGFuZ3VhZ2UaDWl2O2Q7bGFuZ3VhZ2UaCWl2O2Q7bGFuZxoOaXY7ZDtsYW5ndWFnZXMy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmZCdk5YeEM5M1BsdmZ2aVVDZEFiOU54REJGeHBRR1didnJBZGYyZjhtek1acTJ6ODFyQ21oTWUwTUw1SDBseFhySnRHZ3VwRWlULXd3emhlZ0JrQlRva0xEa3J6M0JOLVRLOFpUaUpNVC1xZnl1RU1JQl9qS1FqNVJhY3llTUw5TVhiWkFNdUtOTjVzazYwc2I1SGVneHVvUnd1OExZek5EU3Exb3hBMjF6T0ZKSGJUQ2I2d1k1R29KVTpIV2VlayAxIG9mIExlYXJuaW5nIDxiPlJ1c3Q8L2I-OiA8Yj5Pd25lcnNoaXA8L2I-IEJyb2tlIE15IEJyYWluIChhbmQgLi4uQqEBPGI-RWFjaCB2YWx1ZSBpbiBSdXN0IGhhcyBhIHZhcmlhYmxlIHRoYXQmIzM5O3MgY2FsbGVkIGl0cyBvd25lcjwvYj4uIFRoZXJlIGNhbiBvbmx5IGJlIG9uZSBvd25lciBhdCBhIHRpbWUuIFdoZW4gdGhlIG93bmVyIGdvZXMgb3V0IG9mIHNjb3BlLCB0aGUgdmFsdWUmbmJzcDsuLi5KAmluSgJpc0oDdGhlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZmQnZOWHhDOTNQbHZmdmlVQ2RBYjlOeERCRnhwUUdXYnZyQWRmMmY4bXpNWnEyejgxckNtaE1lME1MNUgwbHhYckp0R2d1cEVpVC13d3poZWdCa0JUb2tMRGtyejNCTi1USzhaVGlKTVQtcWZ5dUVNSUJfaktRajVSYWN5ZU1MOU1YYlpBTXVLTk41c2s2MHNiNUhlZ3h1b1J3dThMWXpORFNxMW94QTIxek9GSkhiVENiNndZNUdvSlUSBBoCCAAaygcSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJApgcIABAAGAAgACo3CgR3aGF0FXoCtT8aBtmI2KfYqhoJaXY7ZDt3aGF0GgppdjtkO3doaWNoGgtpdjtkO9mI2KfYqioJCgJpcxUAAAAAKkAKCW93bmVyc2hpcBUKmWtAGgVvd25lchoK2YXZhNmD2YrYqRoKaXY7ZDtvd25lchoPaXY7ZDvZhdmE2YPZitmHKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqWQoEcnVzdBUSJKJAGgrYp9mE2LXYr9ijGgbYsdiz2KoaD3J1c3Rwcm9ncmFtbWluZxoJaXY7ZDtydXN0Gg9pdjtkO9in2YTYtdiv2KcaC2l2O2Q72LHYs9iqKnQKC3Byb2dyYW1taW5nFSvKaj8aBmNvZGluZxoEbGFuZxoPcnVzdHByb2dyYW1taW5nGhNwcm9ncmFtbWluZ2xhbmd1YWdlGhBpdjtkO3Byb2dyYW1taW5nGglpdjtkO2xhbmcaD2l2O2Q7cHJvZ3JhbW1lcipfCghsYW5ndWFnZRXjQJM_GgRsYW5nGglsYW5ndWFnZXMaE3Byb2dyYW1taW5nbGFuZ3VhZ2UaDWl2O2Q7bGFuZ3VhZ2UaCWl2O2Q7bGFuZxoOaXY7ZDtsYW5ndWFnZXMy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmZCdk5YeEM5M1BsdmZ2aVVDZEFiOU54REJGeHBRR1didnJBZGYyZjhtek1acTJ6ODFyQ21oTWUwTUw1SDBseFhySnRHZ3VwRWlULXd3emhlZ0JrQlRva0xEa3J6M0JOLVRLOFpUaUpNVC1xZnl1RU1JQl9qS1FqNVJhY3llTUw5TVhiWkFNdUtOTjVzazYwc2I1SGVneHVvUnd1OExZek5EU3Exb3hBMjF6T0ZKSGJUQ2I2d1k1R29KVTpIV2VlayAxIG9mIExlYXJuaW5nIDxiPlJ1c3Q8L2I-OiA8Yj5Pd25lcnNoaXA8L2I-IEJyb2tlIE15IEJyYWluIChhbmQgLi4uQqEBPGI-RWFjaCB2YWx1ZSBpbiBSdXN0IGhhcyBhIHZhcmlhYmxlIHRoYXQmIzM5O3MgY2FsbGVkIGl0cyBvd25lcjwvYj4uIFRoZXJlIGNhbiBvbmx5IGJlIG9uZSBvd25lciBhdCBhIHRpbWUuIFdoZW4gdGhlIG93bmVyIGdvZXMgb3V0IG9mIHNjb3BlLCB0aGUgdmFsdWUmbmJzcDsuLi5KAmluSgJpc0oDdGhlIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Each value in Rust has a variable that's called its owner. There can only be one owner at a time. When the owner goes out of scope, the value ...",
+      "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAADwBQCdASocABsAPtEwtFooIigoGAEAGglpAAzpr1V4AGPX53voBKe9oQ94VKeSyNSKu0g93iiGAAD-_ioAaY6KcSsasLSGKa-X_xMf6mZ72YS_2W_shom1dO9oMnnmBX-e-2ygZqf6__-MO_7tBEW_7X78xVvFuVifMbEzsH-Z4uVf1IsFkCUUuIahYXVhst6FXkA-FnTZ-D4wpFt2zTNpP4WhICoxCm9mAG-3-W3Rv12bQh0dwh3aPdAjVKb2qmZOVHVEL_nor5_u-T0k2nS2hQ7jZh8r-TlKuMz-mJ_bHju8_6HZoGyOI21CT6Fne__oAW43bb2sd3yPo-AAAA.webp",
+      "source_info_link": "https://dev.to/lymah/week-1-of-learning-rust-ownership-broke-my-brain-and-thats-okay-6aa"
+     }
+    },
+    "date": "25‏/05‏/2025",
+    "displayed_link": "https://dev.to › lymah › week-1-of-l...",
+    "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAADwBQCdASocABsAPtEwtFooIigoGAEAGglpAAzpr1V4AGPX53voBKe9oQ94VKeSyNSKu0g93iiGAAD-_ioAaY6KcSsasLSGKa-X_xMf6mZ72YS_2W_shom1dO9oMnnmBX-e-2ygZqf6__-MO_7tBEW_7X78xVvFuVifMbEzsH-Z4uVf1IsFkCUUuIahYXVhst6FXkA-FnTZ-D4wpFt2zTNpP4WhICoxCm9mAG-3-W3Rv12bQh0dwh3aPdAjVKb2qmZOVHVEL_nor5_u-T0k2nS2hQ7jZh8r-TlKuMz-mJ_bHju8_6HZoGyOI21CT6Fne__oAW43bb2sd3yPo-AAAA.webp",
+    "link": "https://dev.to/lymah/week-1-of-learning-rust-ownership-broke-my-brain-and-thats-okay-6aa",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFfBvNXxC93PlvfviUCdAb9NxDBFxpQGWbvrAdf2f8mzMZq2z81rCmhMe0ML5H0lxXrJtGgupEiT-wwzhegBkBTokLDkrz3BN-TK8ZTiJMT-qfyuEMIB_jKQj5RacyeML9MXbZAMuKNN5sk60sb5HegxuoRwu8LYzNDSq1oxA21zOFJHbTCb6wY5GoJU&ved=2ahUKEwjG3uiG24-XAxWFKFkFHRKlF6UQFnoECCMQAQ&uoh=1",
+    "snippet": "Each value in Rust has a variable that's called its owner. There can only be one owner at a time. When the owner goes out of scope, the value ...",
+    "snippet_highlighted_words": [
+     "Each value in Rust has a variable that's called its owner"
+    ],
+    "source": "DEV Community",
+    "title": "Week 1 of Learning Rust: Ownership Broke My Brain (and ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZRWW5mNlZ4U1dfNU5vaENwU1ltMUVxSDMzdGFnVEpnZHZ2MnR5cDhfUjdZRVlYcDd5RTh5UC1NN3gxWjltTExtTVQ4NUFSMnVNOFVTLXlUMlo2SHdTMWVoakpwLWlpbmFtWmJzZEdPYkp3Z0lKbG44TFhDZVBuUXp5UVJZVm1fWkllREJsMjhsTzNaaXZyVnNteU1MRnJuZ0xOZmZWbHBiRS1heDZiOEF0TVNLT092a24zWXp3bHF2OENwRjhMRFVYQTlKSHY5ZlESBBoCCAAa4wcSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC9BwgAEAAYACAAKjcKBHdoYXQV5uSYPhoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqQAoJb3duZXJzaGlwFcInaEAaBW93bmVyGgrZhdmE2YPZitipGgppdjtkO293bmVyGg9pdjtkO9mF2YTZg9mK2YcqCQoCaW4VAAAAACoKCgN0aGUVAAAAACpZCgRydXN0FUcVoUAaCtin2YTYtdiv2KMaBtix2LPYqhoPcnVzdHByb2dyYW1taW5nGglpdjtkO3J1c3QaD2l2O2Q72KfZhNi12K_YpxoLaXY7ZDvYsdiz2KoqdAoLcHJvZ3JhbW1pbmcV18TGPxoGY29kaW5nGgRsYW5nGg9ydXN0cHJvZ3JhbW1pbmcaE3Byb2dyYW1taW5nbGFuZ3VhZ2UaEGl2O2Q7cHJvZ3JhbW1pbmcaCWl2O2Q7bGFuZxoPaXY7ZDtwcm9ncmFtbWVyKl8KCGxhbmd1YWdlFXvwBEAaBGxhbmcaCWxhbmd1YWdlcxoTcHJvZ3JhbW1pbmdsYW5ndWFnZRoNaXY7ZDtsYW5ndWFnZRoJaXY7ZDtsYW5nGg5pdjtkO2xhbmd1YWdlczLgAS9nb3RvP3VybD1DQUVTbXdFQjZ6c3dGUVluZjZWeFNXXzVOb2hDcFNZbTFFcUgzM3RhZ1RKZ2R2djJ0eXA4X1I3WUVZWHA3eUU4eVAtTTd4MVo5bUxMbU1UODVBUjJ1TThVUy15VDJaNkh3UzFlaGpKcC1paW5hbVpic2RHT2JKd2dJSmxuOExYQ2VQblF6eVFSWVZtX1pJZURCbDI4bE8zWml2clZzbXlNTEZybmdMTmZmVmxwYkUtYXg2YjhBdE1TS09PdmtuM1l6d2xxdjhDcEY4TERVWEE5Skh2OWZROkxDb21tb24gPGI-UnVzdDwvYj4gcHJvYmxlbXMgZm9yIGJlZ2lubmVyczogPGI-T3duZXJzaGlwPC9iPiAmYW1wOyBtdXRhYmlsaXR5QqUBPGI-UnVzdCBvd25lcnNoaXA8L2I-IGFuZCBtdXRhYmlsaXR5IHJ1bGVzIGFyZSBjb21wbGV0ZWx5IGRpZmZlcmVudCBmcm9tIHRoZSB3YXkgb3RoZXIgPGI-bGFuZ3VhZ2VzPC9iPiBlbmZvcmNlIG1lbW9yeSBzYWZldHkuIFdoaWxlIHRoZXNlIHRvb2xzIGNhbiBtYWtlIGl0Jm5ic3A7Li4uSgN0aGVKAmlzSgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZRWW5mNlZ4U1dfNU5vaENwU1ltMUVxSDMzdGFnVEpnZHZ2MnR5cDhfUjdZRVlYcDd5RTh5UC1NN3gxWjltTExtTVQ4NUFSMnVNOFVTLXlUMlo2SHdTMWVoakpwLWlpbmFtWmJzZEdPYkp3Z0lKbG44TFhDZVBuUXp5UVJZVm1fWkllREJsMjhsTzNaaXZyVnNteU1MRnJuZ0xOZmZWbHBiRS1heDZiOEF0TVNLT092a24zWXp3bHF2OENwRjhMRFVYQTlKSHY5ZlESBBoCCAAa4wcSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC9BwgAEAAYACAAKjcKBHdoYXQV5uSYPhoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqQAoJb3duZXJzaGlwFcInaEAaBW93bmVyGgrZhdmE2YPZitipGgppdjtkO293bmVyGg9pdjtkO9mF2YTZg9mK2YcqCQoCaW4VAAAAACoKCgN0aGUVAAAAACpZCgRydXN0FUcVoUAaCtin2YTYtdiv2KMaBtix2LPYqhoPcnVzdHByb2dyYW1taW5nGglpdjtkO3J1c3QaD2l2O2Q72KfZhNi12K_YpxoLaXY7ZDvYsdiz2KoqdAoLcHJvZ3JhbW1pbmcV18TGPxoGY29kaW5nGgRsYW5nGg9ydXN0cHJvZ3JhbW1pbmcaE3Byb2dyYW1taW5nbGFuZ3VhZ2UaEGl2O2Q7cHJvZ3JhbW1pbmcaCWl2O2Q7bGFuZxoPaXY7ZDtwcm9ncmFtbWVyKl8KCGxhbmd1YWdlFXvwBEAaBGxhbmcaCWxhbmd1YWdlcxoTcHJvZ3JhbW1pbmdsYW5ndWFnZRoNaXY7ZDtsYW5ndWFnZRoJaXY7ZDtsYW5nGg5pdjtkO2xhbmd1YWdlczLgAS9nb3RvP3VybD1DQUVTbXdFQjZ6c3dGUVluZjZWeFNXXzVOb2hDcFNZbTFFcUgzM3RhZ1RKZ2R2djJ0eXA4X1I3WUVZWHA3eUU4eVAtTTd4MVo5bUxMbU1UODVBUjJ1TThVUy15VDJaNkh3UzFlaGpKcC1paW5hbVpic2RHT2JKd2dJSmxuOExYQ2VQblF6eVFSWVZtX1pJZURCbDI4bE8zWml2clZzbXlNTEZybmdMTmZmVmxwYkUtYXg2YjhBdE1TS09PdmtuM1l6d2xxdjhDcEY4TERVWEE5Skh2OWZROkxDb21tb24gPGI-UnVzdDwvYj4gcHJvYmxlbXMgZm9yIGJlZ2lubmVyczogPGI-T3duZXJzaGlwPC9iPiAmYW1wOyBtdXRhYmlsaXR5QqUBPGI-UnVzdCBvd25lcnNoaXA8L2I-IGFuZCBtdXRhYmlsaXR5IHJ1bGVzIGFyZSBjb21wbGV0ZWx5IGRpZmZlcmVudCBmcm9tIHRoZSB3YXkgb3RoZXIgPGI-bGFuZ3VhZ2VzPC9iPiBlbmZvcmNlIG1lbW9yeSBzYWZldHkuIFdoaWxlIHRoZXNlIHRvb2xzIGNhbiBtYWtlIGl0Jm5ic3A7Li4uSgN0aGVKAmlzSgJpbiICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Rust ownership and mutability rules are completely different from the way other languages enforce memory safety. While these tools can make it ...",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+      "source_info_link": "https://medium.com/@pfernandom/common-rust-problems-for-beginners-ownership-mutability-6c998cdbff0d"
+     }
+    },
+    "displayed_link": "قبل 4 سنوات",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+    "link": "https://medium.com/@pfernandom/common-rust-problems-for-beginners-ownership-mutability-6c998cdbff0d",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFQYnf6VxSW_5NohCpSYm1EqH33tagTJgdvv2typ8_R7YEYXp7yE8yP-M7x1Z9mLLmMT85AR2uM8US-yT2Z6HwS1ehjJp-iinamZbsdGObJwgIJln8LXCePnQzyQRYVm_ZIeDBl28lO3ZivrVsmyMLFrngLNffVlpbE-ax6b8AtMSKOOvkn3Yzwlqv8CpF8LDUXA9JHv9fQ&ved=2ahUKEwjG3uiG24-XAxWFKFkFHRKlF6UQFnoECCEQAQ&uoh=1",
+    "snippet": "Rust ownership and mutability rules are completely different from the way other languages enforce memory safety. While these tools can make it ...",
+    "snippet_highlighted_words": [
+     "Rust ownership",
+     "languages"
+    ],
+    "source": "Medium · Pedro Fernando Marquez Soto",
+    "title": "Common Rust problems for beginners: Ownership & ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZRZ3BfQkNwX0RickVqVG1YZ1RuaUpqcGZQOEdCTWphaHM5Y1I4YzdDQmdYTTZoaXlFd3V6d3ZfZG1xQUo4TGhITVRrWmZ1Q0RXODFveGt3djdlUE9rR3ZreVRiWl94eGdrMkxmUktqUjFXSTBiSVd1V1E2cG5RV3RkQjZZUDM3Y0lyM1dKLURraWs1TmpJdWt5ekt2cTRjVFJ2SkllOWkwLURQYWZBS0FpeFNJUFV6bnNCeEhEUXBiQ0ZKZ3A4QjktV2x6URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZRZ3BfQkNwX0RickVqVG1YZ1RuaUpqcGZQOEdCTWphaHM5Y1I4YzdDQmdYTTZoaXlFd3V6d3ZfZG1xQUo4TGhITVRrWmZ1Q0RXODFveGt3djdlUE9rR3ZreVRiWl94eGdrMkxmUktqUjFXSTBiSVd1V1E2cG5RV3RkQjZZUDM3Y0lyM1dKLURraWs1TmpJdWt5ekt2cTRjVFJ2SkllOWkwLURQYWZBS0FpeFNJUFV6bnNCeEhEUXBiQ0ZKZ3A4QjktV2x6URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_this_result": {
+     "source": {
+      "description": "424K subscribers in the rust community. A place for all things related to the Rust programming language—an open-source systems language ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+     }
+    },
+    "displayed_link": "قبل 8 أشهر",
+    "duration": "0:47",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/rust/comments/1qqnt0d/understand_ownership_and_borrowing_in_45_seconds/",
+    "position": 6,
+    "snippet": "424K subscribers in the rust community. A place for all things related to the Rust programming language—an open-source systems language ...",
+    "source": "Reddit · r/rust",
+    "thumbnail": "https://serpapi.com/searches/6ab98b7fbe918a030523bdd8/images/d2MIUT0ylWADhpDNaYf2iYArorGcCVbK8yc5Oz17MQY.jpeg",
+    "title": "Understand Ownership and Borrowing in 45 Seconds! : r/rust"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjljZkpReVg4VGpaWGlhR1RXRjJVdFJ2dnoxdzRVVWJXWnZhM3dNYWZJOTNtbHBwdG5kQ01QZ051RUlFaFNwZnhjSEc5XzVjXzE4VHZUWnJQbk5WTTdkNEFQaUpvRUNNT0laVWlxRUY4SmZVTWRTaWpfaTJ6aWwyMkVKZjl2QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjljZkpReVg4VGpaWGlhR1RXRjJVdFJ2dnoxdzRVVWJXWnZhM3dNYWZJOTNtbHBwdG5kQ01QZ051RUlFaFNwZnhjSEc5XzVjXzE4VHZUWnJQbk5WTTdkNEFQaUpvRUNNT0laVWlxRUY4SmZVTWRTaWpfaTJ6aWwyMkVKZjl2QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_this_result": {
+     "source": {
+      "description": "... rustprogramming #rust #learningrust #rustStream #Technology #Coding #\nProgramming #Design #Development #Reviews #VisualStudioCode #CodingTips ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "أكثر من 880 مشاهدة · قبل 3 سنوات",
+    "duration": "7:58",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=j8s0tHkm3T8&t=26",
+      "time": "00:26",
+      "title": "Memory Management"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=j8s0tHkm3T8&t=73",
+      "time": "01:13",
+      "title": "Difference between the Stack and the Heap"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=j8s0tHkm3T8&t=143",
+      "time": "02:23",
+      "title": "Adding Items to the Heap"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=j8s0tHkm3T8",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVc5CMfHtYvp54qelZq7gqYd5NrGKhlOEXXl3AYCAhu-05wRbcMnifhrEPfMDizJ3Xy_8T-nyx-b4405fU-fAIFLJI52nGf0oWlnSArodwTSrto_Y8pONOuAF2K8dvXw&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4QFnoECBkQAQ&uoh=1",
-    "snippet": "In this video, Timmy shows you the step by step easy process of how to transfer the ownership of a Google Doc, Google Sheet, Google ...",
+    "snippet": "... rustprogramming #rust #learningrust #rustStream #Technology #Coding #Programming #Design #Development #Reviews #VisualStudioCode #CodingTips ...",
+    "source": "YouTube · WhiteSponge",
+    "thumbnail": "https://serpapi.com/searches/6ab98b7fbe918a030523bdd8/images/d2MIUT0ylWADhpDNaYf2iQDEXGG60RiMlEB6449OwSM.jpeg",
+    "title": "Ownership, Memory & Pointers! - Rust for the ABSOLUTE ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZVdnZoeU1mTFdWTktJb1JhSmhNeThMLVNyZ3dPV21fMm1mYkdNc3h3THE5RVJqRzJyR1lET2xMVEt4RXlBN1dJQ2hNejc3aE1KdjViVTR4OWk5RmdETkpJYjJkb2gyWUxNMjNNcmppT19jd3d0MlNGUjFTVTNuR3RPY1ROLXk3ZXAtU1lvQjg3VmZEYkhFcUh4d2Z3bVd1b0JmVUlNWjFlWklVS3MxY2lSSmh5dxIEGgIIABq2BxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCSBwgAEAAYACAAKjcKBHdoYXQVTTtcPxoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqQAoJb3duZXJzaGlwFUa7UEAaBW93bmVyGgrZhdmE2YPZitipGgppdjtkO293bmVyGg9pdjtkO9mF2YTZg9mK2YcqCQoCaW4VAAAAACoKCgN0aGUVAAAAACpZCgRydXN0Fd_UgkAaCtin2YTYtdiv2KMaBtix2LPYqhoPcnVzdHByb2dyYW1taW5nGglpdjtkO3J1c3QaD2l2O2Q72KfZhNi12K_YpxoLaXY7ZDvYsdiz2KoqdAoLcHJvZ3JhbW1pbmcV8TnNPhoGY29kaW5nGgRsYW5nGg9ydXN0cHJvZ3JhbW1pbmcaE3Byb2dyYW1taW5nbGFuZ3VhZ2UaEGl2O2Q7cHJvZ3JhbW1pbmcaCWl2O2Q7bGFuZxoPaXY7ZDtwcm9ncmFtbWVyKl8KCGxhbmd1YWdlFQfcQD8aBGxhbmcaCWxhbmd1YWdlcxoTcHJvZ3JhbW1pbmdsYW5ndWFnZRoNaXY7ZDtsYW5ndWFnZRoJaXY7ZDtsYW5nGg5pdjtkO2xhbmd1YWdlczLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGVXZ2aHlNZkxXVk5LSW9SYUpoTXk4TC1Tcmd3T1dtXzJtZmJHTXN4d0xxOUVSakcyckdZRE9sTFRLeEV5QTdXSUNoTXo3N2hNSnY1YlU0eDlpOUZnRE5KSWIyZG9oMllMTTIzTXJqaU9fY3d3dDJTRlIxU1Uzbkd0T2NUTi15N2VwLVNZb0I4N1ZmRGJIRXFIeHdmd21XdW9CZlVJTVoxZVpJVUtzMWNpUkpoeXc6PjxiPk93bmVyc2hpcDwvYj4gaXMgbm90IHRoYXQgYmlnIGRlYWwgOiByLzxiPnJ1c3Q8L2I-IC0gUmVkZGl0QqQBVGhlIGNvbmNlcHQgaXNuJiMzOTt0IG5ldywgYnV0IGEgY29tcGlsZXIgdGhhdCBjaGVja3MgaXQgYW5kIHJlZnVzZXMgdG8gYWNjZXB0IGNvZGUgYnJlYWtpbmcgdGhlIDxiPm93bmVyc2hpcDwvYj4gcnVsZXMgaXMgbmV3LiAoQWN0dWFsbHkgbm90IHRoYXQgbmV3LCBidXQmbmJzcDsuLi5KA3RoZUoCaXNKAmluIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZVdnZoeU1mTFdWTktJb1JhSmhNeThMLVNyZ3dPV21fMm1mYkdNc3h3THE5RVJqRzJyR1lET2xMVEt4RXlBN1dJQ2hNejc3aE1KdjViVTR4OWk5RmdETkpJYjJkb2gyWUxNMjNNcmppT19jd3d0MlNGUjFTVTNuR3RPY1ROLXk3ZXAtU1lvQjg3VmZEYkhFcUh4d2Z3bVd1b0JmVUlNWjFlWklVS3MxY2lSSmh5dxIEGgIIABq2BxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCSBwgAEAAYACAAKjcKBHdoYXQVTTtcPxoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqQAoJb3duZXJzaGlwFUa7UEAaBW93bmVyGgrZhdmE2YPZitipGgppdjtkO293bmVyGg9pdjtkO9mF2YTZg9mK2YcqCQoCaW4VAAAAACoKCgN0aGUVAAAAACpZCgRydXN0Fd_UgkAaCtin2YTYtdiv2KMaBtix2LPYqhoPcnVzdHByb2dyYW1taW5nGglpdjtkO3J1c3QaD2l2O2Q72KfZhNi12K_YpxoLaXY7ZDvYsdiz2KoqdAoLcHJvZ3JhbW1pbmcV8TnNPhoGY29kaW5nGgRsYW5nGg9ydXN0cHJvZ3JhbW1pbmcaE3Byb2dyYW1taW5nbGFuZ3VhZ2UaEGl2O2Q7cHJvZ3JhbW1pbmcaCWl2O2Q7bGFuZxoPaXY7ZDtwcm9ncmFtbWVyKl8KCGxhbmd1YWdlFQfcQD8aBGxhbmcaCWxhbmd1YWdlcxoTcHJvZ3JhbW1pbmdsYW5ndWFnZRoNaXY7ZDtsYW5ndWFnZRoJaXY7ZDtsYW5nGg5pdjtkO2xhbmd1YWdlczLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGVXZ2aHlNZkxXVk5LSW9SYUpoTXk4TC1Tcmd3T1dtXzJtZmJHTXN4d0xxOUVSakcyckdZRE9sTFRLeEV5QTdXSUNoTXo3N2hNSnY1YlU0eDlpOUZnRE5KSWIyZG9oMllMTTIzTXJqaU9fY3d3dDJTRlIxU1Uzbkd0T2NUTi15N2VwLVNZb0I4N1ZmRGJIRXFIeHdmd21XdW9CZlVJTVoxZVpJVUtzMWNpUkpoeXc6PjxiPk93bmVyc2hpcDwvYj4gaXMgbm90IHRoYXQgYmlnIGRlYWwgOiByLzxiPnJ1c3Q8L2I-IC0gUmVkZGl0QqQBVGhlIGNvbmNlcHQgaXNuJiMzOTt0IG5ldywgYnV0IGEgY29tcGlsZXIgdGhhdCBjaGVja3MgaXQgYW5kIHJlZnVzZXMgdG8gYWNjZXB0IGNvZGUgYnJlYWtpbmcgdGhlIDxiPm93bmVyc2hpcDwvYj4gcnVsZXMgaXMgbmV3LiAoQWN0dWFsbHkgbm90IHRoYXQgbmV3LCBidXQmbmJzcDsuLi5KA3RoZUoCaXNKAmluIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "The concept isn't new, but a compiler that checks it and refuses to accept code breaking the ownership rules is new. (Actually not that new, but ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/rust/comments/1i776cq/ownership_is_not_that_big_deal/"
+     }
+    },
+    "displayed_link": "أكثر من 10 تعليق · قبل سنة واحدة",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/rust/comments/1i776cq/ownership_is_not_that_big_deal/",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFUvvhyMfLWVNKIoRaJhMy8L-SrgwOWm_2mfbGMsxwLq9ERjG2rGYDOlLTKxEyA7WIChMz77hMJv5bU4x9i9FgDNJIb2doh2YLM23MrjiO_cwwt2SFR1SU3nGtOcTN-y7ep-SYoB87VfDbHEqHxwfwmWuoBfUIMZ1eZIUKs1ciRJhyw&ved=2ahUKEwjG3uiG24-XAxWFKFkFHRKlF6UQFnoECCQQAQ&uoh=1",
+    "snippet": "The concept isn't new, but a compiler that checks it and refuses to accept code breaking the ownership rules is new. (Actually not that new, but ...",
     "snippet_highlighted_words": [
      "ownership"
     ],
-    "source": "YouTube",
-    "title": "How To Transfer Ownership Of A Google Doc, Sheet or ..."
+    "source": "Reddit · r/rust",
+    "title": "Ownership is not that big deal : r/rust"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVi1NQkdzQ2JPV2NiQkdaMENsZThwSW9TX3p3VXYwY0dfcGlVR1VlZU9mYnZsNllTbDU2Nl9sS1RSUy1SUEExdWl6emx3bjRRbmZfZUNDd2k0WFI4N1JGdGNFM2VmOEd1cXQxMUw4YmFxbHVBdjdWTU5CUnA3UFBERUhlZnV6SHVPEgQaAggAGvAGEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAygYIABAAGAAgACo3CgR3aGF0Fe9KcT8aBtmI2KfYqhoJaXY7ZDt3aGF0GgppdjtkO3doaWNoGgtpdjtkO9mI2KfYqioJCgJpcxUAAAAAKkAKCW93bmVyc2hpcBWE_ERAGgVvd25lchoK2YXZhNmD2YrYqRoKaXY7ZDtvd25lchoPaXY7ZDvZhdmE2YPZitmHKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqWQoEcnVzdBXmsYNAGgrYp9mE2LXYr9ijGgbYsdiz2KoaD3J1c3Rwcm9ncmFtbWluZxoJaXY7ZDtydXN0Gg9pdjtkO9in2YTYtdiv2KcaC2l2O2Q72LHYs9iqKnQKC3Byb2dyYW1taW5nFYlz5z4aBmNvZGluZxoEbGFuZxoPcnVzdHByb2dyYW1taW5nGhNwcm9ncmFtbWluZ2xhbmd1YWdlGhBpdjtkO3Byb2dyYW1taW5nGglpdjtkO2xhbmcaD2l2O2Q7cHJvZ3JhbW1lcipfCghsYW5ndWFnZRXvHao_GgRsYW5nGglsYW5ndWFnZXMaE3Byb2dyYW1taW5nbGFuZ3VhZ2UaDWl2O2Q7bGFuZ3VhZ2UaCWl2O2Q7bGFuZxoOaXY7ZDtsYW5ndWFnZXMylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWLU1CR3NDYk9XY2JCR1owQ2xlOHBJb1NfendVdjBjR19waVVHVWVlT2Zidmw2WVNsNTY2X2xLVFJTLVJQQTF1aXp6bHduNFFuZl9lQ0N3aTRYUjg3UkZ0Y0UzZWY4R3VxdDExTDhiYXFsdUF2N1ZNTkJScDdQUERFSGVmdXpIdU86KTxiPlJ1c3QgT3duZXJzaGlwPC9iPiBSdWxlcyAtIEhhY2tlciBOZXdzQp8BVGhpcyBpcyB0cnVlLCBidXQgdGhlIGludmVyc2UgaXMgdGhhdCA8Yj5SdXN0JiMzOTtzIG93bmVyc2hpcCBtb2RlbCBpdHNlbGYgcG9zZXMgaXRzIG93biBoaWdoIGNvc3Q8L2I-IGluIHRlcm1zIG9mIGEgc2lnbmlmaWNhbnQgY29nbml0aXZlIGJ1cmRlbiAoYW5kJm5ic3A7Li4uSgJpbkoCaXNKA3RoZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVi1NQkdzQ2JPV2NiQkdaMENsZThwSW9TX3p3VXYwY0dfcGlVR1VlZU9mYnZsNllTbDU2Nl9sS1RSUy1SUEExdWl6emx3bjRRbmZfZUNDd2k0WFI4N1JGdGNFM2VmOEd1cXQxMUw4YmFxbHVBdjdWTU5CUnA3UFBERUhlZnV6SHVPEgQaAggAGvAGEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAygYIABAAGAAgACo3CgR3aGF0Fe9KcT8aBtmI2KfYqhoJaXY7ZDt3aGF0GgppdjtkO3doaWNoGgtpdjtkO9mI2KfYqioJCgJpcxUAAAAAKkAKCW93bmVyc2hpcBWE_ERAGgVvd25lchoK2YXZhNmD2YrYqRoKaXY7ZDtvd25lchoPaXY7ZDvZhdmE2YPZitmHKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqWQoEcnVzdBXmsYNAGgrYp9mE2LXYr9ijGgbYsdiz2KoaD3J1c3Rwcm9ncmFtbWluZxoJaXY7ZDtydXN0Gg9pdjtkO9in2YTYtdiv2KcaC2l2O2Q72LHYs9iqKnQKC3Byb2dyYW1taW5nFYlz5z4aBmNvZGluZxoEbGFuZxoPcnVzdHByb2dyYW1taW5nGhNwcm9ncmFtbWluZ2xhbmd1YWdlGhBpdjtkO3Byb2dyYW1taW5nGglpdjtkO2xhbmcaD2l2O2Q7cHJvZ3JhbW1lcipfCghsYW5ndWFnZRXvHao_GgRsYW5nGglsYW5ndWFnZXMaE3Byb2dyYW1taW5nbGFuZ3VhZ2UaDWl2O2Q7bGFuZ3VhZ2UaCWl2O2Q7bGFuZxoOaXY7ZDtsYW5ndWFnZXMylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWLU1CR3NDYk9XY2JCR1owQ2xlOHBJb1NfendVdjBjR19waVVHVWVlT2Zidmw2WVNsNTY2X2xLVFJTLVJQQTF1aXp6bHduNFFuZl9lQ0N3aTRYUjg3UkZ0Y0UzZWY4R3VxdDExTDhiYXFsdUF2N1ZNTkJScDdQUERFSGVmdXpIdU86KTxiPlJ1c3QgT3duZXJzaGlwPC9iPiBSdWxlcyAtIEhhY2tlciBOZXdzQp8BVGhpcyBpcyB0cnVlLCBidXQgdGhlIGludmVyc2UgaXMgdGhhdCA8Yj5SdXN0JiMzOTtzIG93bmVyc2hpcCBtb2RlbCBpdHNlbGYgcG9zZXMgaXRzIG93biBoaWdoIGNvc3Q8L2I-IGluIHRlcm1zIG9mIGEgc2lnbmlmaWNhbnQgY29nbml0aXZlIGJ1cmRlbiAoYW5kJm5ic3A7Li4uSgJpbkoCaXNKA3RoZSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "This video shows how to fix an error that you may encounter when running virtual machines in VMware Workstation. The error may be received ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=Q98IvuaBW7I&vl=en-US"
+      "description": "This is true, but the inverse is that Rust's ownership model itself poses its own high cost in terms of a significant cognitive burden (and ...",
+      "icon": "https://serpapi.com/images/i/UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA2zPloAStqqGVV0EAA04CuIsnfYeCobjYkc_JffMYes8MOzwz__Fmqpc0gS-45H_xuwaf0t9uHFI2gOmx3GwVBxqsBciZ7PAysvOA70f_Lfn5BNEXamfoB_8hIqjA3za5TzLSUkCyD8S4sNJbPo3XFEMgAAA.webp",
+      "source_info_link": "https://news.ycombinator.com/item?id=22462134"
      }
     },
-    "date": "Dec 6, 2025",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=Q98IvuaBW7I&vl=en-US",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVC7ii6Dr6e-au8k-Vnd_3Libz1bXH75MqM0EXTFeyQkOGP7N2VCELFG7d7Fmqhlb9yAg669m6xcsRVyvsdZcw1PXqa54vYZuJPgnn7jR2kMTpeTRpSFPCkVF2jdnUN1IwOIXpR2d7Lw&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4QFnoECBUQAQ&uoh=1",
-    "snippet": "This video shows how to fix an error that you may encounter when running virtual machines in VMware Workstation. The error may be received ...",
-    "source": "YouTube",
-    "title": "Taking Ownership Error in VMware Workstation"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Ownership Review: Why I Sold My Zeekr 7X (It's Not What You Think) Owned a Zeekr 7X Performance AWD for a year: zero reliability issues, ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=eEuJIFNCZzo"
-     }
-    },
-    "date": "2 days ago",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=eEuJIFNCZzo",
+    "date": "02‏/03‏/2020",
+    "displayed_link": "https://news.ycombinator.com › item",
+    "favicon": "https://serpapi.com/images/i/UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA2zPloAStqqGVV0EAA04CuIsnfYeCobjYkc_JffMYes8MOzwz__Fmqpc0gS-45H_xuwaf0t9uHFI2gOmx3GwVBxqsBciZ7PAysvOA70f_Lfn5BNEXamfoB_8hIqjA3za5TzLSUkCyD8S4sNJbPo3XFEMgAAA.webp",
+    "link": "https://news.ycombinator.com/item?id=22462134",
     "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVuzFEgw1ccqU8DIhRt3L_Map_9K-KwhjESoPXRt4nHAve23G1_BD2HhRoE3dY1vLtvDvEtU13G1yOEwD9okq9V5AV8gqFHJSC2baFLx8f8T09F5xqv9w7FOqhsBJg9Q&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4QFnoECBoQAQ&uoh=1",
-    "snippet": "Ownership Review: Why I Sold My Zeekr 7X (It's Not What You Think) Owned a Zeekr 7X Performance AWD for a year: zero reliability issues, ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAV-MBGsCbOWcbBGZ0Cle8pIoS_zwUv0cG_piUGUeeOfbvl6YSl566_lKTRS-RPA1uizzlwn4Qnf_eCCwi4XR87RFtcE3ef8Guqt11L8baqluAv7VMNBRp7PPDEHefuzHuO&ved=2ahUKEwjG3uiG24-XAxWFKFkFHRKlF6UQFnoECDYQAQ&uoh=1",
+    "snippet": "This is true, but the inverse is that Rust's ownership model itself poses its own high cost in terms of a significant cognitive burden (and ...",
     "snippet_highlighted_words": [
-     "Ownership"
+     "Rust's ownership model itself poses its own high cost"
     ],
-    "source": "YouTube",
-    "title": "Why I Sold My Zeekr 7X (It's Not What You Think)"
+    "source": "Hacker News",
+    "title": "Rust Ownership Rules"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmhISEkyQkwzRVRsNE8wRXZWSTFUTFFfUWdxbDdoNzU0M3Vob1VmZzJpdW5iWlB0XzVhU2F1Q0VQVWUzaDJOT3hQa2t2THhCaTFJd0tlN3RlX19SMXRfR1BMLWVHbWwtVWtQYWpXT1Uyam4xdkpZcGp4U1RmLTlSaGV0eTZRURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmhISEkyQkwzRVRsNE8wRXZWSTFUTFFfUWdxbDdoNzU0M3Vob1VmZzJpdW5iWlB0XzVhU2F1Q0VQVWUzaDJOT3hQa2t2THhCaTFJd0tlN3RlX19SMXRfR1BMLWVHbWwtVWtQYWpXT1Uyam4xdkpZcGp4U1RmLTlSaGV0eTZRURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_this_result": {
+     "source": {
+      "description": "https://doc.rust-lang.... List of Copy types: ; https://stackoverflow.... End song: Track: LFZ - Popsicle [NCS Release] Music provided by ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "أكثر من 104 ألف مشاهدة · قبل 8 سنوات",
+    "duration": "7:46",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=8M0QfLUDaaA&t=29",
+      "time": "00:29",
+      "title": "Bad Memory Management"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=8M0QfLUDaaA&t=36",
+      "time": "00:36",
+      "title": "The Stack"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=8M0QfLUDaaA&t=133",
+      "time": "02:13",
+      "title": "Heap or a Locker Room"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=8M0QfLUDaaA&t=200",
+      "time": "03:20",
+      "title": "Rules of Ownership"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=8M0QfLUDaaA&t=214",
+      "time": "03:34",
+      "title": "Ownership"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=8M0QfLUDaaA&t=318",
+      "time": "05:18",
+      "title": "Function Arguments"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=8M0QfLUDaaA&t=332",
+      "time": "05:32",
+      "title": "Stack Frame Analogy"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=8M0QfLUDaaA&t=376",
+      "time": "06:16",
+      "title": "Borrowing"
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=8M0QfLUDaaA",
+    "position": 10,
+    "snippet": "https://doc.rust-lang.... List of Copy types: ; https://stackoverflow.... End song: Track: LFZ - Popsicle [NCS Release] Music provided by ...",
+    "source": "YouTube · YouCodeThings",
+    "thumbnail": "https://serpapi.com/searches/6ab98b7fbe918a030523bdd8/images/d2MIUT0ylWADhpDNaYf2ifDeABPqsn2gkuILSKV1uGk.jpeg",
+    "title": "Learning Rust: Memory, Ownership and Borrowing"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=What+is+ownership+in+the+Rust+programming+language?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQntKeNW5IIdGGjAePwMUI8P9WmkOsA:1789906049086&ei=gcyvao7xBM6n5NoPqJ3D8AM&start=10&sa=N&sstk=AS6-VmJBr45eE2G4594dFpn9rHjyLumu96xdZS0acT6_p5Wh_BzFKSpJaP5kVVmEx3Qqs8Xsg2YlaZnc9xhidWqGwPlOdLdHGA3Dng&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4Q8NMDegQIPhAK",
+   "next": "https://www.google.com/search?q=What+is+ownership+in+the+Rust+programming+language?&sca_esv=c16286b74a8621df&sxsrf=APpeQntP6_KkUANKzf7xub3xaGE5r05-2w:1790544768029&ei=gIu5asaeAYXR5NoPksreqAo&start=10&sa=N&sstk=AS6-VmKh_pHFLo584NswsGXAJi_JoEbk0nGQYcO-ROI2QWfklrT4NPtYm7i29ZVnIYLcf5LkFXwVa8gcdb2QMvrj99ya7BzPTm0M3w&ved=2ahUKEwjG3uiG24-XAxWFKFkFHRKlF6UQ8NMDegQIMhAI",
    "other_pages": {
-    "2": "https://www.google.com/search?q=What+is+ownership+in+the+Rust+programming+language?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQntKeNW5IIdGGjAePwMUI8P9WmkOsA:1789906049086&ei=gcyvao7xBM6n5NoPqJ3D8AM&start=10&sa=N&sstk=AS6-VmJBr45eE2G4594dFpn9rHjyLumu96xdZS0acT6_p5Wh_BzFKSpJaP5kVVmEx3Qqs8Xsg2YlaZnc9xhidWqGwPlOdLdHGA3Dng&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4Q8tMDegQIPhAE",
-    "3": "https://www.google.com/search?q=What+is+ownership+in+the+Rust+programming+language?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQntKeNW5IIdGGjAePwMUI8P9WmkOsA:1789906049086&ei=gcyvao7xBM6n5NoPqJ3D8AM&start=20&sa=N&sstk=AS6-VmJBr45eE2G4594dFpn9rHjyLumu96xdZS0acT6_p5Wh_BzFKSpJaP5kVVmEx3Qqs8Xsg2YlaZnc9xhidWqGwPlOdLdHGA3Dng&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4Q8tMDegQIPhAG",
-    "4": "https://www.google.com/search?q=What+is+ownership+in+the+Rust+programming+language?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQntKeNW5IIdGGjAePwMUI8P9WmkOsA:1789906049086&ei=gcyvao7xBM6n5NoPqJ3D8AM&start=30&sa=N&sstk=AS6-VmJBr45eE2G4594dFpn9rHjyLumu96xdZS0acT6_p5Wh_BzFKSpJaP5kVVmEx3Qqs8Xsg2YlaZnc9xhidWqGwPlOdLdHGA3Dng&ved=2ahUKEwjOtfLRj_2WAxXOE1kFHajOED4Q8tMDegQIPhAI"
+    "2": "https://www.google.com/search?q=What+is+ownership+in+the+Rust+programming+language?&sca_esv=c16286b74a8621df&sxsrf=APpeQntP6_KkUANKzf7xub3xaGE5r05-2w:1790544768029&ei=gIu5asaeAYXR5NoPksreqAo&start=10&sa=N&sstk=AS6-VmKh_pHFLo584NswsGXAJi_JoEbk0nGQYcO-ROI2QWfklrT4NPtYm7i29ZVnIYLcf5LkFXwVa8gcdb2QMvrj99ya7BzPTm0M3w&ved=2ahUKEwjG3uiG24-XAxWFKFkFHRKlF6UQ8tMDegQIMhAE",
+    "3": "https://www.google.com/search?q=What+is+ownership+in+the+Rust+programming+language?&sca_esv=c16286b74a8621df&sxsrf=APpeQntP6_KkUANKzf7xub3xaGE5r05-2w:1790544768029&ei=gIu5asaeAYXR5NoPksreqAo&start=20&sa=N&sstk=AS6-VmKh_pHFLo584NswsGXAJi_JoEbk0nGQYcO-ROI2QWfklrT4NPtYm7i29ZVnIYLcf5LkFXwVa8gcdb2QMvrj99ya7BzPTm0M3w&ved=2ahUKEwjG3uiG24-XAxWFKFkFHRKlF6UQ8tMDegQIMhAG"
    }
   },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFVUkZMV3BsZDJseVZGRXRjbWRWT1hweVdIUTNMVm8zT1RsNmRWZFZhM290VFdFdFZrZDZiMk5vU1hWNVVXeDBXbE41VWtaTGNFRnpPREJ6UmkwMVRGVTBaRmRqWVRVNWVYSlZXVGxFWnpKaVUxVlFYMVowWDBSalp4SVhaMGwxTldGellXVkJXVmhTTlU1dlVHdHpjbVZ4UVc4YUlrRkVjM0k1WmxSQk5FSlVTVnByVUZoeFlUZ3lMVXhOY0c1WVpGQkhlWE5JYzNjIiwiZmN2IjoiMyIsImVpIjoiZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW8iLCJxYyI6IkNqSjNhR0YwSUdseklHOTNibVZ5YzJocGNDQnBiaUIwYUdVZ2NuVnpkQ0J3Y205bmNtRnRiV2x1WnlCc1lXNW5kV0ZuWlJBQWZmdzVFejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgb3duZXJzaGlwIGluIFJ1c3QgYW5kIGhvdyBkb2VzIGl0IHdvcms/IiwibGsiOiJHZzV5ZFhOMElHOTNibVZ5YzJocGNBIiwiYnMiOiJjNFhQb1E3Q01CQ0E0V0JQa09rS09BRVlJSkFLN01RVWlnUXpoU2hac3paMDdYTHRhSGg3MXNBd2pLRHZ2eTkzVU1DdVZDS2c5dWlpbGVTVmJsRmJQSGMtb0xBVktoZXhjdEtqRGhnZDNYS2VzU21sNmFlSEMyeEs1Wkp4bFVyM1MwSEpsOUNTcTBrMGpiWTFHbUhyVHRReTUxdTJqbDg5X2VyaEJNdWpmMS1FMVNQTnh0MFZXX1FtX1F1aGdQa0EtcUNOUVpKRzNvVU42WE8tNTRlY0k1c04xSGlTVFo0IiwiaWQiOiJmY19nSXU1YXNhZUFZWFI1Tm9Qa3NyZXFBb181In0=",
+    "page_token": "EOvjEnicHdBtbpswGABg7TL92ZiQdFukqBqNTVsNb_gL8J-JvCYx2HwoQYHwb1fYGXaqnmbSniM8v__6unMfn_7YcRyuu9VqmqbHc9-fffUIfbsqr_cOVlB6fyzB7Z4-PwXPJ9jjG0QvF4hSOQzqwBAXOtHIIE6-IYq-3FVuXClJUYpoIxpFqnj-nnX6zRB_NZ0dK0GHpEk3P7BnKbK8yrZbId7bdDFrqSw5hvQCMdvyxq0LhEYhyJxkzBUdyYQvkETTRtVBLuOgh_Y6sbBYdKhv1L03Iutn3kUJyAEnRI1FSyba6BJe4Q4tcazBGx77Qr76qRJeATZWYvszR_MML0GZSOt1HcyZMzHE5gYLPVTOXtiiax1vQ2xNx3MZFDm1WhKdkbdAtF_TMqR3nZPoOPd1KtkCjW8lcqNa_DrNCVPYetaynB_oOlNmhJBojsdJpg8nuO3Dh__X-1-ndtwNl_78Dwtljqs",
+    "question": "What is ownership in Rust and how does it work?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EOvjEnicHdBtbpswGABg7TL92ZiQdFukqBqNTVsNb_gL8J-JvCYx2HwoQYHwb1fYGXaqnmbSniM8v__6unMfn_7YcRyuu9VqmqbHc9-fffUIfbsqr_cOVlB6fyzB7Z4-PwXPJ9jjG0QvF4hSOQzqwBAXOtHIIE6-IYq-3FVuXClJUYpoIxpFqnj-nnX6zRB_NZ0dK0GHpEk3P7BnKbK8yrZbId7bdDFrqSw5hvQCMdvyxq0LhEYhyJxkzBUdyYQvkETTRtVBLuOgh_Y6sbBYdKhv1L03Iutn3kUJyAEnRI1FSyba6BJe4Q4tcazBGx77Qr76qRJeATZWYvszR_MML0GZSOt1HcyZMzHE5gYLPVTOXtiiax1vQ2xNx3MZFDm1WhKdkbdAtF_TMqR3nZPoOPd1KtkCjW8lcqNa_DrNCVPYetaynB_oOlNmhJBojsdJpg8nuO3Dh__X-1-ndtwNl_78Dwtljqs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFVUkZMV3BsZDJseVZGRXRjbWRWT1hweVdIUTNMVm8zT1RsNmRWZFZhM290VFdFdFZrZDZiMk5vU1hWNVVXeDBXbE41VWtaTGNFRnpPREJ6UmkwMVRGVTBaRmRqWVRVNWVYSlZXVGxFWnpKaVUxVlFYMVowWDBSalp4SVhaMGwxTldGellXVkJXVmhTTlU1dlVHdHpjbVZ4UVc4YUlrRkVjM0k1WmxSQk5FSlVTVnByVUZoeFlUZ3lMVXhOY0c1WVpGQkhlWE5JYzNjIiwiZmN2IjoiMyIsImVpIjoiZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW8iLCJxYyI6IkNqSjNhR0YwSUdseklHOTNibVZ5YzJocGNDQnBiaUIwYUdVZ2NuVnpkQ0J3Y205bmNtRnRiV2x1WnlCc1lXNW5kV0ZuWlJBQWZmdzVFejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgb3duZXJzaGlwIGluIFJ1c3QgYW5kIGhvdyBkb2VzIGl0IHdvcms%2FIiwibGsiOiJHZzV5ZFhOMElHOTNibVZ5YzJocGNBIiwiYnMiOiJjNFhQb1E3Q01CQ0E0V0JQa09rS09BRVlJSkFLN01RVWlnUXpoU2hac3paMDdYTHRhSGg3MXNBd2pLRHZ2eTkzVU1DdVZDS2c5dWlpbGVTVmJsRmJQSGMtb0xBVktoZXhjdEtqRGhnZDNYS2VzU21sNmFlSEMyeEs1Wkp4bFVyM1MwSEpsOUNTcTBrMGpiWTFHbUhyVHRReTUxdTJqbDg5X2VyaEJNdWpmMS1FMVNQTnh0MFZXX1FtX1F1aGdQa0EtcUNOUVpKRzNvVU42WE8tNTRlY0k1c04xSGlTVFo0IiwiaWQiOiJmY19nSXU1YXNhZUFZWFI1Tm9Qa3NyZXFBb181In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFVUkZMV3BsZDJseVZGRXRjbWRWT1hweVdIUTNMVm8zT1RsNmRWZFZhM290VFdFdFZrZDZiMk5vU1hWNVVXeDBXbE41VWtaTGNFRnpPREJ6UmkwMVRGVTBaRmRqWVRVNWVYSlZXVGxFWnpKaVUxVlFYMVowWDBSalp4SVhaMGwxTldGellXVkJXVmhTTlU1dlVHdHpjbVZ4UVc4YUlrRkVjM0k1WmxSQk5FSlVTVnByVUZoeFlUZ3lMVXhOY0c1WVpGQkhlWE5JYzNjIiwiZmN2IjoiMyIsImVpIjoiZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW8iLCJxYyI6IkNqSjNhR0YwSUdseklHOTNibVZ5YzJocGNDQnBiaUIwYUdVZ2NuVnpkQ0J3Y205bmNtRnRiV2x1WnlCc1lXNW5kV0ZuWlJBQWZmdzVFejgiLCJxdWVzdGlvbiI6IldobyBpcyBiZWhpbmQgdGhlIFJ1c3QgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2U/IiwibGsiOiJHaXQzYUc4Z2FYTWdZbVZvYVc1a0lIUm9aU0J5ZFhOMElIQnliMmR5WVcxdGFXNW5JR3hoYm1kMVlXZGwiLCJicyI6ImM0WFBvUTdDTUJDQTRXQlBrT2tLT0FFWUlKQUs3TVFVaWdRemhTaFpzelowN1hMdGFIaDcxc0F3aktEdnZ5OTNVTUN1VkNLZzl1aWlsZVNWYmxGYlBIYy1vTEFWS2hleGN0S2pEaGdkM1hLZXNTbWw2YWVIQzJ4SzVaSnhsVXIzUzBISmw5Q1NxMGswamJZMUdtSHJUdFF5NTF1MmpsODlfZXJoQk11amYxLUUxU1BOeHQwVldfUW1fUXVoZ1BrQS1xQ05RWkpHM29VTjZYTy01NGVjSTVzTjFIaVNUWjQiLCJpZCI6ImZjX2dJdTVhc2FlQVlYUjVOb1Brc3JlcUFvXzUifQ==",
+    "page_token": "HNdBeHicHdBdboIwAADg7DI-CpTNZSZmCWolRMootJ19WaD82kKroihvu8tOtdMs2XeE7_tHtb38ffpshsFclpY1juO81rpW5Vzozsouj15YIlMqz4RcLl4XznslVtvL6K316MXEGLrBdgoVSthgDr1wcxCO4SRd7sNrPuETOjY3si2uIVRNCN943JtH6JqWbyiMFR4y--5ggL3Q55oTdE_9GmSON2GG1jxVQNhiyn10ipk5F9LRJeV9tlOAE75nPq2iVKEMmI_DJO9IDoBvkOROs853kIQAt4y92MJGPOmQjliQ0m3RYzYmEBRBkdJGAKhiqg7kSKPc8c7CDZQg8LZrAw_76BExjveseGY9v8ZT45ckGLNO0VB5qJT0KEiwSGiBZ5W4rdzZ_9jqq-qGpTnr-g-1Wnqp",
+    "question": "Who is behind the Rust programming language?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HNdBeHicHdBdboIwAADg7DI-CpTNZSZmCWolRMootJ19WaD82kKroihvu8tOtdMs2XeE7_tHtb38ffpshsFclpY1juO81rpW5Vzozsouj15YIlMqz4RcLl4XznslVtvL6K316MXEGLrBdgoVSthgDr1wcxCO4SRd7sNrPuETOjY3si2uIVRNCN943JtH6JqWbyiMFR4y--5ggL3Q55oTdE_9GmSON2GG1jxVQNhiyn10ipk5F9LRJeV9tlOAE75nPq2iVKEMmI_DJO9IDoBvkOROs853kIQAt4y92MJGPOmQjliQ0m3RYzYmEBRBkdJGAKhiqg7kSKPc8c7CDZQg8LZrAw_76BExjveseGY9v8ZT45ckGLNO0VB5qJT0KEiwSGiBZ5W4rdzZ_9jqq-qGpTnr-g-1Wnqp",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFVUkZMV3BsZDJseVZGRXRjbWRWT1hweVdIUTNMVm8zT1RsNmRWZFZhM290VFdFdFZrZDZiMk5vU1hWNVVXeDBXbE41VWtaTGNFRnpPREJ6UmkwMVRGVTBaRmRqWVRVNWVYSlZXVGxFWnpKaVUxVlFYMVowWDBSalp4SVhaMGwxTldGellXVkJXVmhTTlU1dlVHdHpjbVZ4UVc4YUlrRkVjM0k1WmxSQk5FSlVTVnByVUZoeFlUZ3lMVXhOY0c1WVpGQkhlWE5JYzNjIiwiZmN2IjoiMyIsImVpIjoiZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW8iLCJxYyI6IkNqSjNhR0YwSUdseklHOTNibVZ5YzJocGNDQnBiaUIwYUdVZ2NuVnpkQ0J3Y205bmNtRnRiV2x1WnlCc1lXNW5kV0ZuWlJBQWZmdzVFejgiLCJxdWVzdGlvbiI6IldobyBpcyBiZWhpbmQgdGhlIFJ1c3QgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2U%2FIiwibGsiOiJHaXQzYUc4Z2FYTWdZbVZvYVc1a0lIUm9aU0J5ZFhOMElIQnliMmR5WVcxdGFXNW5JR3hoYm1kMVlXZGwiLCJicyI6ImM0WFBvUTdDTUJDQTRXQlBrT2tLT0FFWUlKQUs3TVFVaWdRemhTaFpzelowN1hMdGFIaDcxc0F3aktEdnZ5OTNVTUN1VkNLZzl1aWlsZVNWYmxGYlBIYy1vTEFWS2hleGN0S2pEaGdkM1hLZXNTbWw2YWVIQzJ4SzVaSnhsVXIzUzBISmw5Q1NxMGswamJZMUdtSHJUdFF5NTF1MmpsODlfZXJoQk11amYxLUUxU1BOeHQwVldfUW1fUXVoZ1BrQS1xQ05RWkpHM29VTjZYTy01NGVjSTVzTjFIaVNUWjQiLCJpZCI6ImZjX2dJdTVhc2FlQVlYUjVOb1Brc3JlcUFvXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFVUkZMV3BsZDJseVZGRXRjbWRWT1hweVdIUTNMVm8zT1RsNmRWZFZhM290VFdFdFZrZDZiMk5vU1hWNVVXeDBXbE41VWtaTGNFRnpPREJ6UmkwMVRGVTBaRmRqWVRVNWVYSlZXVGxFWnpKaVUxVlFYMVowWDBSalp4SVhaMGwxTldGellXVkJXVmhTTlU1dlVHdHpjbVZ4UVc4YUlrRkVjM0k1WmxSQk5FSlVTVnByVUZoeFlUZ3lMVXhOY0c1WVpGQkhlWE5JYzNjIiwiZmN2IjoiMyIsImVpIjoiZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW8iLCJxYyI6IkNqSjNhR0YwSUdseklHOTNibVZ5YzJocGNDQnBiaUIwYUdVZ2NuVnpkQ0J3Y205bmNtRnRiV2x1WnlCc1lXNW5kV0ZuWlJBQWZmdzVFejgiLCJxdWVzdGlvbiI6IklzIFJ1c3QgYSBkeWluZyBwcm9ncmFtbWluZyBsYW5ndWFnZT8iLCJsayI6ImM1TlN5U3hXS0NvdExsRklWRWlwek14TFZ5Z295azh2U3N6TkJiRnpFdlBTU3hQVFV3RSIsImJzIjoiYzRYUG9RN0NNQkNBNFdCUGtPa0tPQUVZSUpBSzdNUVVpZ1F6aFNoWnN6WjA3WEx0YUhoNzFzQXdqS0R2dnk5M1VNQ3VWQ0tnOXVpaWxlU1ZibEZiUEhjLW9MQVZLaGV4Y3RLakRoZ2QzWEtlc1NtbDZhZUhDMnhLNVpKeGxVcjNTMEhKbDlDU3EwazBqYlkxR21IclR0UXk1MXUyamw4OV9lcmhCTXVqZjEtRTFTUE54dDBWV19RbV9RdWhnUGtBLXFDTlFaSkczb1VONlhPLTU0ZWNJNXNOMUhpU1RaNCIsImlkIjoiZmNfZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW9fNSJ9",
+    "page_token": "yj2LqHicHdBdboIwAADg7DI-agF1mYlZwqAaBnUttNS-LNBOC5SfKQP0bXfZqXaaJfuO8H3_mKKpfh-47vvuulksxnGcn9v2bD7msq0X2fXWyIXMjMkzWW3Wj2vr-SS3_nV0X9rRxbTrmEdAbNArts0nspSJmQEKBDfkwyDh7sBiCyR3vafpVEe1jiWdPORgILh7z1IY5L4CODE-cVAoUrEknrrmuyebJGoVAZGEXLNjI7SoGYvq6UItlSpOQF5YPANwDKmoEWcIG70innZk3Z1wSbLI76Os1CICK5xW1pTv4Jrw7i2yxYD2xxjaKlAJ09KGBjNzpCU75JZ7kU5gJIXDrghcske3Qyrig299UQ8WadXtaEmXwhb3kCIRG9hgME200e7sJIetM_sf276f6n7TXdrzH90neD4",
+    "question": "Is Rust a dying programming language?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yj2LqHicHdBdboIwAADg7DI-agF1mYlZwqAaBnUttNS-LNBOC5SfKQP0bXfZqXaaJfuO8H3_mKKpfh-47vvuulksxnGcn9v2bD7msq0X2fXWyIXMjMkzWW3Wj2vr-SS3_nV0X9rRxbTrmEdAbNArts0nspSJmQEKBDfkwyDh7sBiCyR3vafpVEe1jiWdPORgILh7z1IY5L4CODE-cVAoUrEknrrmuyebJGoVAZGEXLNjI7SoGYvq6UItlSpOQF5YPANwDKmoEWcIG70innZk3Z1wSbLI76Os1CICK5xW1pTv4Jrw7i2yxYD2xxjaKlAJ09KGBjNzpCU75JZ7kU5gJIXDrghcske3Qyrig299UQ8WadXtaEmXwhb3kCIRG9hgME200e7sJIetM_sf276f6n7TXdrzH90neD4",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFVUkZMV3BsZDJseVZGRXRjbWRWT1hweVdIUTNMVm8zT1RsNmRWZFZhM290VFdFdFZrZDZiMk5vU1hWNVVXeDBXbE41VWtaTGNFRnpPREJ6UmkwMVRGVTBaRmRqWVRVNWVYSlZXVGxFWnpKaVUxVlFYMVowWDBSalp4SVhaMGwxTldGellXVkJXVmhTTlU1dlVHdHpjbVZ4UVc4YUlrRkVjM0k1WmxSQk5FSlVTVnByVUZoeFlUZ3lMVXhOY0c1WVpGQkhlWE5JYzNjIiwiZmN2IjoiMyIsImVpIjoiZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW8iLCJxYyI6IkNqSjNhR0YwSUdseklHOTNibVZ5YzJocGNDQnBiaUIwYUdVZ2NuVnpkQ0J3Y205bmNtRnRiV2x1WnlCc1lXNW5kV0ZuWlJBQWZmdzVFejgiLCJxdWVzdGlvbiI6IklzIFJ1c3QgYSBkeWluZyBwcm9ncmFtbWluZyBsYW5ndWFnZT8iLCJsayI6ImM1TlN5U3hXS0NvdExsRklWRWlwek14TFZ5Z295azh2U3N6TkJiRnpFdlBTU3hQVFV3RSIsImJzIjoiYzRYUG9RN0NNQkNBNFdCUGtPa0tPQUVZSUpBSzdNUVVpZ1F6aFNoWnN6WjA3WEx0YUhoNzFzQXdqS0R2dnk5M1VNQ3VWQ0tnOXVpaWxlU1ZibEZiUEhjLW9MQVZLaGV4Y3RLakRoZ2QzWEtlc1NtbDZhZUhDMnhLNVpKeGxVcjNTMEhKbDlDU3EwazBqYlkxR21IclR0UXk1MXUyamw4OV9lcmhCTXVqZjEtRTFTUE54dDBWV19RbV9RdWhnUGtBLXFDTlFaSkczb1VONlhPLTU0ZWNJNXNOMUhpU1RaNCIsImlkIjoiZmNfZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW9fNSJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFVUkZMV3BsZDJseVZGRXRjbWRWT1hweVdIUTNMVm8zT1RsNmRWZFZhM290VFdFdFZrZDZiMk5vU1hWNVVXeDBXbE41VWtaTGNFRnpPREJ6UmkwMVRGVTBaRmRqWVRVNWVYSlZXVGxFWnpKaVUxVlFYMVowWDBSalp4SVhaMGwxTldGellXVkJXVmhTTlU1dlVHdHpjbVZ4UVc4YUlrRkVjM0k1WmxSQk5FSlVTVnByVUZoeFlUZ3lMVXhOY0c1WVpGQkhlWE5JYzNjIiwiZmN2IjoiMyIsImVpIjoiZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW8iLCJxYyI6IkNqSjNhR0YwSUdseklHOTNibVZ5YzJocGNDQnBiaUIwYUdVZ2NuVnpkQ0J3Y205bmNtRnRiV2x1WnlCc1lXNW5kV0ZuWlJBQWZmdzVFejgiLCJxdWVzdGlvbiI6IklzIFJ1c3Qgc3RpbGwgcmVsZXZhbnQgaW4gMjAyNj8iLCJsayI6IkdoNXBjeUJ5ZFhOMElITjBhV3hzSUhKbGJHVjJZVzUwSUdsdUlESXdNalkiLCJicyI6ImM0WFBvUTdDTUJDQTRXQlBrT2tLT0FFWUlKQUs3TVFVaWdRemhTaFpzelowN1hMdGFIaDcxc0F3aktEdnZ5OTNVTUN1VkNLZzl1aWlsZVNWYmxGYlBIYy1vTEFWS2hleGN0S2pEaGdkM1hLZXNTbWw2YWVIQzJ4SzVaSnhsVXIzUzBISmw5Q1NxMGswamJZMUdtSHJUdFF5NTF1MmpsODlfZXJoQk11amYxLUUxU1BOeHQwVldfUW1fUXVoZ1BrQS1xQ05RWkpHM29VTjZYTy01NGVjSTVzTjFIaVNUWjQiLCJpZCI6ImZjX2dJdTVhc2FlQVlYUjVOb1Brc3JlcUFvXzUifQ==",
+    "page_token": "xjgQv3icHdBdboIwAADg7DI-zhbQqYlZwqAokzp-WqAvC7T8CC0wZTJ92112qp1myb4jfN8_8tS1vw_XehyHy2Y-n6bpser7ShaPvFfz7HLr-JxnUuYZbzfLpyV8LvnW_tybLx970yfDQK0AhIodYio8z3KnsHNH2tQHQQY30LAVOnAiAIdYq61Dgk1BRiPRgzJqZExACnMoX_NkuIY2u6dtv8ARUoFWAR8ATbTMDJEZpzA4eYk3-bROOeJj3NZX4oxGYZmGB2nDFK49Am9MDzCWQvOoYIVD1dFZ3bDD-kxD1O-Q60sZRTIFXKdB3FR6QVbAc-hCdHJX2OOR7BCgd6bbtejChMA0wTUjiMVoDyO19jMd31iCzPyrP_kkuPNGKqLo8hjTPm_Xb3kinLhzz-SOydH2YdFRI9rhC5tmJb9u9dn_5_a9VONmOPfVHwWpgfs",
+    "question": "Is Rust still relevant in 2026?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xjgQv3icHdBdboIwAADg7DI-zhbQqYlZwqAokzp-WqAvC7T8CC0wZTJ92112qp1myb4jfN8_8tS1vw_XehyHy2Y-n6bpser7ShaPvFfz7HLr-JxnUuYZbzfLpyV8LvnW_tybLx970yfDQK0AhIodYio8z3KnsHNH2tQHQQY30LAVOnAiAIdYq61Dgk1BRiPRgzJqZExACnMoX_NkuIY2u6dtv8ARUoFWAR8ATbTMDJEZpzA4eYk3-bROOeJj3NZX4oxGYZmGB2nDFK49Am9MDzCWQvOoYIVD1dFZ3bDD-kxD1O-Q60sZRTIFXKdB3FR6QVbAc-hCdHJX2OOR7BCgd6bbtejChMA0wTUjiMVoDyO19jMd31iCzPyrP_kkuPNGKqLo8hjTPm_Xb3kinLhzz-SOydH2YdFRI9rhC5tmJb9u9dn_5_a9VONmOPfVHwWpgfs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFVUkZMV3BsZDJseVZGRXRjbWRWT1hweVdIUTNMVm8zT1RsNmRWZFZhM290VFdFdFZrZDZiMk5vU1hWNVVXeDBXbE41VWtaTGNFRnpPREJ6UmkwMVRGVTBaRmRqWVRVNWVYSlZXVGxFWnpKaVUxVlFYMVowWDBSalp4SVhaMGwxTldGellXVkJXVmhTTlU1dlVHdHpjbVZ4UVc4YUlrRkVjM0k1WmxSQk5FSlVTVnByVUZoeFlUZ3lMVXhOY0c1WVpGQkhlWE5JYzNjIiwiZmN2IjoiMyIsImVpIjoiZ0l1NWFzYWVBWVhSNU5vUGtzcmVxQW8iLCJxYyI6IkNqSjNhR0YwSUdseklHOTNibVZ5YzJocGNDQnBiaUIwYUdVZ2NuVnpkQ0J3Y205bmNtRnRiV2x1WnlCc1lXNW5kV0ZuWlJBQWZmdzVFejgiLCJxdWVzdGlvbiI6IklzIFJ1c3Qgc3RpbGwgcmVsZXZhbnQgaW4gMjAyNj8iLCJsayI6IkdoNXBjeUJ5ZFhOMElITjBhV3hzSUhKbGJHVjJZVzUwSUdsdUlESXdNalkiLCJicyI6ImM0WFBvUTdDTUJDQTRXQlBrT2tLT0FFWUlKQUs3TVFVaWdRemhTaFpzelowN1hMdGFIaDcxc0F3aktEdnZ5OTNVTUN1VkNLZzl1aWlsZVNWYmxGYlBIYy1vTEFWS2hleGN0S2pEaGdkM1hLZXNTbWw2YWVIQzJ4SzVaSnhsVXIzUzBISmw5Q1NxMGswamJZMUdtSHJUdFF5NTF1MmpsODlfZXJoQk11amYxLUUxU1BOeHQwVldfUW1fUXVoZ1BrQS1xQ05RWkpHM29VTjZYTy01NGVjSTVzTjFIaVNUWjQiLCJpZCI6ImZjX2dJdTVhc2FlQVlYUjVOb1Brc3JlcUFvXzUifQ%3D%3D",
+    "type": "ai_overview"
+   }
+  ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "What is ownership in the Rust programming language?",
-   "time_taken_displayed": 0.28,
-   "total_results": 34
+   "time_taken_displayed": 0.29,
+   "total_results": 73800
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:07:29 UTC",
+   "created_at": "2026-09-27 21:32:47 UTC",
    "google_url": "https://www.google.com/search?q=What+is+ownership+in+the+Rust+programming+language%3F&oq=What+is+ownership+in+the+Rust+programming+language%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcc816feec4554ad8aa4e",
-   "json_endpoint": "https://serpapi.com/searches/dI3_sJrE2iTsAk2kaqmxLe6FSiKMujhKwCu74B1xg-o/6aafcc816feec4554ad8aa4e.json",
-   "markdown_endpoint": "https://serpapi.com/searches/dI3_sJrE2iTsAk2kaqmxLe6FSiKMujhKwCu74B1xg-o/6aafcc816feec4554ad8aa4e.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/dI3_sJrE2iTsAk2kaqmxLe6FSiKMujhKwCu74B1xg-o/6aafcc816feec4554ad8aa4e.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:07:29 UTC",
-   "raw_html_file": "https://serpapi.com/searches/dI3_sJrE2iTsAk2kaqmxLe6FSiKMujhKwCu74B1xg-o/6aafcc816feec4554ad8aa4e.html",
+   "id": "6ab98b7fbe918a030523bdd8",
+   "json_endpoint": "https://serpapi.com/searches/weIJ3NTu22PVEIHzslgGoZAnSr21WgErcTZz7uXt8dg/6ab98b7fbe918a030523bdd8.json",
+   "markdown_endpoint": "https://serpapi.com/searches/weIJ3NTu22PVEIHzslgGoZAnSr21WgErcTZz7uXt8dg/6ab98b7fbe918a030523bdd8.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/weIJ3NTu22PVEIHzslgGoZAnSr21WgErcTZz7uXt8dg/6ab98b7fbe918a030523bdd8.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:32:47 UTC",
+   "raw_html_file": "https://serpapi.com/searches/weIJ3NTu22PVEIHzslgGoZAnSr21WgErcTZz7uXt8dg/6ab98b7fbe918a030523bdd8.html",
    "status": "Success",
-   "total_time_taken": 0.4
+   "total_time_taken": 0.54
   },
   "search_parameters": {
    "device": "desktop",
@@ -292,8 +395,7 @@
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+ownership+in+the+Rust+programming+language%3F&start=10",
    "other_pages": {
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+ownership+in+the+Rust+programming+language%3F&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+ownership+in+the+Rust+programming+language%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+ownership+in+the+Rust+programming+language%3F&start=30"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+ownership+in+the+Rust+programming+language%3F&start=20"
    }
   }
  },

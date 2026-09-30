@@ -1,0 +1,437 @@
+{
+ "elapsed_ms": 961.257,
+ "engine": "google",
+ "fetched_at": "2026-09-20T11:33:47.542926+00:00",
+ "frugal_cache_version": 1,
+ "key": "5a3e5af645ad8df3e29be8bc456898875d6763c90eeb0edfc5669fc52bc354e6",
+ "params": {
+  "num": 10,
+  "q": "Which paper proposed dropout to prevent neural network overfitting?"
+ },
+ "response": {
+  "ai_overview": {
+   "page_token": "RZfvPXiczVVbcqpIGF7ArGN8MRG8JZIqKtUNqHiZiNGTIS8UcmkUoT00gvo2W5g1zKpmNdMgKiQY55yHqfmrtC_8_PeP74-_1kvf_fuXP50w3JAnhonjuIYwRmurZmCP0cneNxgbr0lgOM_7iG9WDMKzFWvJe53XSA97BsAvK3ciTxAJdFdpVdJXeG2hE2tFLe5WhNEY-uf-2hTpoUZqll_b2uRd5OrmbNSpNdg6V3thdI8qgP9OJAXBZB0A4boSfSTdNpUYkAGUcpZkgNIVXrTU42NBSR8J6Ko1ePQ5TdUV-hO1Qz8W6W1WH_Hqu9QFLBzjNBYA4jRKCJa3s8mJkuVyyuuLSp21i5JVD19u8j0uxFoQFBeOXRqFBgTh4iTvjJpxCmGcK2Ug0OljKEIwvx43rc9QBm0XKFJZCnlRpG-tc-dGao_eMCaig8syi4AudWZpOEa6CUgyz8KMY3F35jxyczF8Mdcsdnd6d6E2pp3Ou_3bGDDGguqtsW5apuZo7HN6rjfqbZZrPnbuUiAZ5IwkkkfSBGwXryOntTyA2qgG6ycYCcemg08dk-hZkEsSg0KmWtLi3GAnDctaqnTzdrNWQiBgIE1BsbXDSVLX3ulIZ_RAW5PXuHhNhv8zjI6CcsrC9BiIjDPFvMZRq5eDbq6xMij7zHzMW-lftuInxQIAaSjABafCqB8tq0ARkJRgQJD6MKuakbdBMx6eD_AUsAToFwqeNE4BSplSLqakBLICxkCWqM3lXKYTipJZPQaaDEPmqytBUGjNlYFXqZs34d98-koE3gJRIsoJLx_GPw8baTYz2UYUxj3_bdLta4qpv9oA2o4ZoXKYYG_xA4xj_K-AdOQjKeOj60CSbgMp5SP4BR-le_UMpGR4BXwVSLBXzkfjUj4q5i2AaR5IX_PRDwNJ-BJIxzksBRIuB9LmKpBQ_BFIlI_ECx9J5Xx0BtLP8BH8ST5KcWUdlyI5bVfoKkn12WZ7537vvAuBuNp7-kYU79uHYbNuT26TlO2FT55uru-0pfkEG4Nwb95p9AI_WWblO__mUI_Vjb6xguomwBtMLLNqJpttWA0xvbMiyw-rvrUN9DVdwhgHbhVHVmAvw3Dpo-eKtw4wz-rt7my3nQ-1qK9NVtpmtdySVmPVOMCJIHsD0R2zO81qImkz6KjI3450dK_anUErGgbtvSoH36T1u7rrPfRjb2YdmpztNDjp9-36MHTUsS1xpMWC4cE2ZtPp_VYx2wrZaYN7jiN-bLijKemT5t6M0mgIv2KdubUyo-HLvOIFBk_noeWDgQLeEB1MIR1YMNcxXWOg9B5ov2CFGLpmkYh_aD3QApqcvTAbD61Hq-KhcL_hW_UK8QO-_g9Y2kfz",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RZfvPXiczVVbcqpIGF7ArGN8MRG8JZIqKtUNqHiZiNGTIS8UcmkUoT00gvo2W5g1zKpmNdMgKiQY55yHqfmrtC_8_PeP74-_1kvf_fuXP50w3JAnhonjuIYwRmurZmCP0cneNxgbr0lgOM_7iG9WDMKzFWvJe53XSA97BsAvK3ciTxAJdFdpVdJXeG2hE2tFLe5WhNEY-uf-2hTpoUZqll_b2uRd5OrmbNSpNdg6V3thdI8qgP9OJAXBZB0A4boSfSTdNpUYkAGUcpZkgNIVXrTU42NBSR8J6Ko1ePQ5TdUV-hO1Qz8W6W1WH_Hqu9QFLBzjNBYA4jRKCJa3s8mJkuVyyuuLSp21i5JVD19u8j0uxFoQFBeOXRqFBgTh4iTvjJpxCmGcK2Ug0OljKEIwvx43rc9QBm0XKFJZCnlRpG-tc-dGao_eMCaig8syi4AudWZpOEa6CUgyz8KMY3F35jxyczF8Mdcsdnd6d6E2pp3Ou_3bGDDGguqtsW5apuZo7HN6rjfqbZZrPnbuUiAZ5IwkkkfSBGwXryOntTyA2qgG6ycYCcemg08dk-hZkEsSg0KmWtLi3GAnDctaqnTzdrNWQiBgIE1BsbXDSVLX3ulIZ_RAW5PXuHhNhv8zjI6CcsrC9BiIjDPFvMZRq5eDbq6xMij7zHzMW-lftuInxQIAaSjABafCqB8tq0ARkJRgQJD6MKuakbdBMx6eD_AUsAToFwqeNE4BSplSLqakBLICxkCWqM3lXKYTipJZPQaaDEPmqytBUGjNlYFXqZs34d98-koE3gJRIsoJLx_GPw8baTYz2UYUxj3_bdLta4qpv9oA2o4ZoXKYYG_xA4xj_K-AdOQjKeOj60CSbgMp5SP4BR-le_UMpGR4BXwVSLBXzkfjUj4q5i2AaR5IX_PRDwNJ-BJIxzksBRIuB9LmKpBQ_BFIlI_ECx9J5Xx0BtLP8BH8ST5KcWUdlyI5bVfoKkn12WZ7537vvAuBuNp7-kYU79uHYbNuT26TlO2FT55uru-0pfkEG4Nwb95p9AI_WWblO__mUI_Vjb6xguomwBtMLLNqJpttWA0xvbMiyw-rvrUN9DVdwhgHbhVHVmAvw3Dpo-eKtw4wz-rt7my3nQ-1qK9NVtpmtdySVmPVOMCJIHsD0R2zO81qImkz6KjI3450dK_anUErGgbtvSoH36T1u7rrPfRjb2YdmpztNDjp9-36MHTUsS1xpMWC4cE2ZtPp_VYx2wrZaYN7jiN-bLijKemT5t6M0mgIv2KdubUyo-HLvOIFBk_noeWDgQLeEB1MIR1YMNcxXWOg9B5ov2CFGLpmkYh_aD3QApqcvTAbD61Hq-KhcL_hW_UK8QO-_g9Y2kfz"
+  },
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The key idea is to randomly drop units (along with their connections) from the neural network during training. This prevents units from co-adapting too much.",
+      "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAAAwBQCdASocABwAPtEutFooIagoGAEAGgliAL3U5NXOieSAjShSTdZ4TbnY8mJr5c2gAAD-9gEphrgvgqLsUcV1qlhR5UHgInaliNXwCp-0Bfcn5jynHKTocp7I8NDYHmI_oW91REe99tmjK_8q8PfAuEegOl2FmHIMXs6-3mnv8m3RvF8Gcll2RQgyQfhaLODtXnClGFVfXzpX8iZTfNo_Xv2_L-wQrIEv-j68O7fQMXxBHyiE8MHyp3Oz1qWlEacQLQr_W1xo2-4sACFltVTk9_TZDR94Mf3S4rAVvPUk7eYkrbDmPx584MGDLMf_Cb7VaVKFECAAAA.webp",
+      "source_info_link": "https://www.jmlr.org/papers/v15/srivastava14a.html?utm_source=chatgpt.com"
+     }
+    },
+    "author": "by N Srivastava",
+    "displayed_link": "https://www.jmlr.org › papers",
+    "favicon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAAAwBQCdASocABwAPtEutFooIagoGAEAGgliAL3U5NXOieSAjShSTdZ4TbnY8mJr5c2gAAD-9gEphrgvgqLsUcV1qlhR5UHgInaliNXwCp-0Bfcn5jynHKTocp7I8NDYHmI_oW91REe99tmjK_8q8PfAuEegOl2FmHIMXs6-3mnv8m3RvF8Gcll2RQgyQfhaLODtXnClGFVfXzpX8iZTfNo_Xv2_L-wQrIEv-j68O7fQMXxBHyiE8MHyp3Oz1qWlEacQLQr_W1xo2-4sACFltVTk9_TZDR94Mf3S4rAVvPUk7eYkrbDmPx584MGDLMf_Cb7VaVKFECAAAA.webp",
+    "link": "https://www.jmlr.org/papers/v15/srivastava14a.html?utm_source=chatgpt.com",
+    "position": 1,
+    "read_more_link": "https://www.jmlr.org/papers/v15/srivastava14a.html?utm_source=chatgpt.com#:~:text=The%20key%20idea%20is%20to,units%20from%20co%2Dadapting%20too%20much.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFbW5WHbzN4tSsLRCE7tFoBu0aKJjau8oShlZoWrYPCRwoaF9yjSxm7-XpHzSnBnfPmv-gkIK19hfTvkANRnZftQNQM5uQq2cXv4qbRgw3nQPqF22WnB8uaPkiyCl2vKOKaUs4G2LAxUDHWzZ9zvO4UYiOry1l0CClS8jVJw&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQFnoECB8QAQ&uoh=1",
+    "snippet": "The key idea is to randomly drop units (along with their connections) from the neural network during training. This prevents units from co-adapting too much.",
+    "snippet_highlighted_words": [
+     "neural network"
+    ],
+    "source": "Journal of Machine Learning Research",
+    "title": "A Simple Way to Prevent Neural Networks from Overfitting"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "However, dropout in the lower layers still helps be- cause it provides noisy inputs for the higher fully connected layers which prevents them from overfitting.",
+      "icon": "https://serpapi.com/images/i/UklGRgICAABXRUJQVlA4IPYBAADwCQCdASofAB8AAsBMJQBXJ5GX_2256ALztGDJArAawBjgvhXPKfNfmU-SPYE_kv9e9J31b_sZ7G37EHT81JBJ6HMB_iojDnwzDodW8bpjJVoOiHgXPuGeAP76qF_wdRZ0n0nvhzqtyP1pg6xKboVOrMbib874oWVhfkrev9nvl2brBPEbbZ_xcorsN21bkJCuWlAvh4JVpoFsp1NXzdokSiJOedbbgzeWswksDnllUA5nIs0Cu-gaPfrywogr0NhdjDkjdNA-WKxUGWK7affH4KWaMSz2a-mPpM-kPJ4246e1Rpm-Sw_Wyd-VIHcVqO_kluMaEiDuEHnYOMACdifC9E1N1tzWe4xS5GXSYxGMaBonB1eGzU-n9d_oV7ciNWRnRxutZboNTkd7ymspeF3QDYlcbzKMDYi1sDyreOE6GJTvwJb7oyHsRCvGtmLXbORMEbDWFla3kkYJiGpxzfqzDX-EvDVTwgL5kNyggyV-AOCLrSOoIuLKU4OCbApIQT7qcQyIFnwaM99g2W6-ysSdz48y8ZI0cwk0bailmEl4lALeI5kEuBA9WmkuSlmXaMjVtpv8EBuiY0I088cbX52HDU4L_P4Ces0aJ5WgX3OSdFz0G0NPHY7yEfYRWv93n0VIjrwPPnLhfsdjXScYAcnEJkRxjAAA.webp",
+      "source_info_link": "https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf"
+     }
+    },
+    "author": "by N Srivastava",
+    "displayed_link": "https://www.cs.toronto.edu › absps › JMLRdropout",
+    "favicon": "https://serpapi.com/images/i/UklGRgICAABXRUJQVlA4IPYBAADwCQCdASofAB8AAsBMJQBXJ5GX_2256ALztGDJArAawBjgvhXPKfNfmU-SPYE_kv9e9J31b_sZ7G37EHT81JBJ6HMB_iojDnwzDodW8bpjJVoOiHgXPuGeAP76qF_wdRZ0n0nvhzqtyP1pg6xKboVOrMbib874oWVhfkrev9nvl2brBPEbbZ_xcorsN21bkJCuWlAvh4JVpoFsp1NXzdokSiJOedbbgzeWswksDnllUA5nIs0Cu-gaPfrywogr0NhdjDkjdNA-WKxUGWK7affH4KWaMSz2a-mPpM-kPJ4246e1Rpm-Sw_Wyd-VIHcVqO_kluMaEiDuEHnYOMACdifC9E1N1tzWe4xS5GXSYxGMaBonB1eGzU-n9d_oV7ciNWRnRxutZboNTkd7ymspeF3QDYlcbzKMDYi1sDyreOE6GJTvwJb7oyHsRCvGtmLXbORMEbDWFla3kkYJiGpxzfqzDX-EvDVTwgL5kNyggyV-AOCLrSOoIuLKU4OCbApIQT7qcQyIFnwaM99g2W6-ysSdz48y8ZI0cwk0bailmEl4lALeI5kEuBA9WmkuSlmXaMjVtpv8EBuiY0I088cbX52HDU4L_P4Ces0aJ5WgX3OSdFz0G0NPHY7yEfYRWv93n0VIjrwPPnLhfsdjXScYAcnEJkRxjAAA.webp",
+    "link": "https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf",
+    "position": 2,
+    "read_more_link": "https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf#:~:text=However%2C%20dropout%20in%20the%20lower,from%20overfitting.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAV2Qq4SPIx-XqoaykIMXP2PoUX5F6tCiCwwkgnXt-9EQbNT6eFw73Cczx5euBv4vU6cx9WOdcWBFmhvHCGqXly-ZUVs1xer4oKZBtIq4cBW5IU2H7pki7H9ebTi2PHuKkdUrWPhEaXxHyRyRo&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQFnoECCEQAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "pages": 30
+      },
+      "extensions": [
+       "30 pages"
+      ]
+     }
+    },
+    "snippet": "However, dropout in the lower layers still helps be- cause it provides noisy inputs for the higher fully connected layers which prevents them from overfitting.",
+    "snippet_highlighted_words": [
+     "dropout",
+     "overfitting"
+    ],
+    "source": "Department of Computer Science, University of Toronto",
+    "title": "Dropout: A Simple Way to Prevent Neural Networks from ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Abstract: This paper briefly introduces an enhanced neural network regularization method, so called weight dropout, in order to prevent deep neural networks ...",
+      "source_info_link": "https://ieeexplore.ieee.org/document/9468799/"
+     }
+    },
+    "author": "by K Sanjar",
+    "displayed_link": "https://ieeexplore.ieee.org › document",
+    "link": "https://ieeexplore.ieee.org/document/9468799/",
+    "position": 3,
+    "read_more_link": "https://ieeexplore.ieee.org/document/9468799/#:~:text=Abstract%3A%20This%20paper%20briefly%20introduces,deep%20neural%20networks%20from%20overfitting.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAV23xqmfCXMj0WIqO9WdzpeHlSxHYuVp5xgVmQIJb4uYzuoklvhNwo2D_1GplUAqmYn85MV9mOHUPFgEmFZtr3pmKLObARsAhtAZxadrdol-OiDj3fz8zXOieS7MgSle6u&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQFnoECCkQAQ&uoh=1",
+    "snippet": "Abstract: This paper briefly introduces an enhanced neural network regularization method, so called weight dropout, in order to prevent deep neural networks ...",
+    "snippet_highlighted_words": [
+     "weight dropout"
+    ],
+    "source": "IEEE Xplore",
+    "title": "Weight Dropout for Preventing Neural Networks from ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Dropout is a regularization technique for reducing overfitting in artificial neural networks by preventing complex co-adaptations on training data.",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Dropout_(neural_networks)"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › Dropout_(neural_netw...",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Dropout_(neural_networks)",
+    "position": 4,
+    "read_more_link": "https://en.wikipedia.org/wiki/Dropout_(neural_networks)#:~:text=Dropout%20is%20a%20regularization%20technique,complex%20co%2Dadaptations%20on%20training%20data.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVWZSSpSNI_32FZbI6f179Y8tpFfg93BBTqQ-4hm4glOUDJq8j7hztAAMBotqY8RhoAzPK_yzEffzlH_ijlCGAcdOyQVy1MKtAlW6JNy721xfrqIQIMQe-ri9wiSqfIFdiNQnDBApHLEa_BA&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQFnoECCIQAQ&uoh=1",
+    "snippet": "Dropout is a regularization technique for reducing overfitting in artificial neural networks by preventing complex co-adaptations on training data.",
+    "snippet_highlighted_words": [
+     "Dropout",
+     "overfitting",
+     "neural networks",
+     "preventing"
+    ],
+    "source": "Wikipedia",
+    "title": "Dropout (neural networks)"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "One such technique they came up with was dropout regularization, in which neurons in the model are removed at random. In this article, we will explore how ...",
+      "icon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglAE6ZQBRofFOQr95ba7O_1HP31cVf3IjUAAP64d_iI8JnnRWlR2hbDAQyXOapuMM2tPxWZ_kNrui2-oB7SNXm40DKbQYYnAC_PgU6Pf3qxAE4vyOP1wWOF7Evt-ijYT5LC5QZn_lppojPJy59_PdCl5O3k8xTd6HkCPh-LEx3cbtqDDVkczm3nC7nD8C4Wxf7M9xeWvr-ahxLR24k3vLg9LRM4C9uyLoP0s8JZgbu0PFrRS6ydP2DEqMNCzLgAAkQv3WOzWAA.webp",
+      "source_info_link": "https://towardsdatascience.com/combating-overfitting-with-dropout-regularization-f721e8712fbe/"
+     }
+    },
+    "displayed_link": "https://towardsdatascience.com › Latest",
+    "favicon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglAE6ZQBRofFOQr95ba7O_1HP31cVf3IjUAAP64d_iI8JnnRWlR2hbDAQyXOapuMM2tPxWZ_kNrui2-oB7SNXm40DKbQYYnAC_PgU6Pf3qxAE4vyOP1wWOF7Evt-ijYT5LC5QZn_lppojPJy59_PdCl5O3k8xTd6HkCPh-LEx3cbtqDDVkczm3nC7nD8C4Wxf7M9xeWvr-ahxLR24k3vLg9LRM4C9uyLoP0s8JZgbu0PFrRS6ydP2DEqMNCzLgAAkQv3WOzWAA.webp",
+    "link": "https://towardsdatascience.com/combating-overfitting-with-dropout-regularization-f721e8712fbe/",
+    "position": 5,
+    "read_more_link": "https://towardsdatascience.com/combating-overfitting-with-dropout-regularization-f721e8712fbe/#:~:text=One%20such%20technique%20they%20came,article%2C%20we%20will%20explore%20how",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFUC_SlESNZMPPtDa3WCRoDErZ6ffWjjrqgpIJX_BAaGi68mCjeuaEusbmllejEQzC3hH07-gLpb-iZYo0ON4sU-U06e1oXVVDqqrXuQGiy8bi5Y3Uau86fttusevPChT1G7dorJBELEtOLInPnF0vdBm-otMAmxsUbQeePdGcvRSjxPVq28u-OB1DNf_alNoZHQ&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQFnoECBwQAQ&uoh=1",
+    "snippet": "One such technique they came up with was dropout regularization, in which neurons in the model are removed at random. In this article, we will explore how ...",
+    "snippet_highlighted_words": [
+     "dropout"
+    ],
+    "source": "Towards Data Science",
+    "title": "Combating Overfitting with Dropout Regularization"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "in their 2014 journal paper introducing dropout titled “Dropout: A Simple Way to Prevent Neural Networks from Overfitting” used dropout on a ...",
+      "icon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAACQBgCdASocABwAPtE-tFooIigoFAEAGglAE6ZhnOs8D_qipBDL_HNT2cn0Qy2olN5CAprIif1IXaPaU6IMAP7DW4Ans68LUWB65H-sXlCBefcuuZd9GK1ZpGOwZtR2IGv9xINm2QxH2h68mL8nAWVZFe5FTJL1TQiHEszK9glO-lFRb23_L8iLcTeZ6OkdFIm7mMIQHW-mJeiBwRAb4zbDKfUNapWK4281BLNN6d5FiOSHI842snpKi6l5MQwGbH1siuqIf9U15VReQYkB0aImkRBmsX5DVyKItIaLD_9U-rU2gcyCSANY1ntRzSZad62T7z7y6nWSIK91Z3X62EeQjKb6gyLS2pNO4cYrYglJz1AkYmCsp9Ho9Kmvyb7CdVyjE5wRNAA.webp",
+      "source_info_link": "https://www.machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/"
+     }
+    },
+    "date": "Aug 6, 2019",
+    "displayed_link": "https://www.machinelearningmastery.com › Blog",
+    "favicon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAACQBgCdASocABwAPtE-tFooIigoFAEAGglAE6ZhnOs8D_qipBDL_HNT2cn0Qy2olN5CAprIif1IXaPaU6IMAP7DW4Ans68LUWB65H-sXlCBefcuuZd9GK1ZpGOwZtR2IGv9xINm2QxH2h68mL8nAWVZFe5FTJL1TQiHEszK9glO-lFRb23_L8iLcTeZ6OkdFIm7mMIQHW-mJeiBwRAb4zbDKfUNapWK4281BLNN6d5FiOSHI842snpKi6l5MQwGbH1siuqIf9U15VReQYkB0aImkRBmsX5DVyKItIaLD_9U-rU2gcyCSANY1ntRzSZad62T7z7y6nWSIK91Z3X62EeQjKb6gyLS2pNO4cYrYglJz1AkYmCsp9Ho9Kmvyb7CdVyjE5wRNAA.webp",
+    "link": "https://www.machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/",
+    "position": 6,
+    "read_more_link": "https://www.machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/#:~:text=in%20their%202014%20journal%20paper,improved%20performance%20on%20each%20problem.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFfHTt3bJwNhJGwOQX75bfd0QOIAuLVmpnHCQEjVFrNWOpMsnbUzEkUsa-_SzHU-ul9qQIP7AXs7c8zACvmi0C_kXKk6WPTo6TwWFR3KtzS2Yc7sAhcBnhYxIIf4ughVhVEXjryr5mOK1wUCVeWmZWLYY8o4N09MxbYh4TNx-5uw60B6GVVna77U&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQFnoECCAQAQ&uoh=1",
+    "snippet": "in their 2014 journal paper introducing dropout titled “Dropout: A Simple Way to Prevent Neural Networks from Overfitting” used dropout on a ...",
+    "snippet_highlighted_words": [
+     "paper",
+     "dropout",
+     "Dropout",
+     "Prevent Neural Networks",
+     "Overfitting",
+     "dropout"
+    ],
+    "source": "Machine Learning Mastery",
+    "title": "A Gentle Introduction to Dropout for Regularizing Deep ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Dropout is a method that prevents overfitting when training deep neural networks. It involves sampling different sub-networks by temporarily removing nodes ...",
+      "icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAADwCACdASogACAAPtEutFooIagoGAEAGglsAJ0y4dWrs1doG8q_7qtS11dYCgA9tGoAm6LFpFfeVpJCoZGHlHit6eV2mFefvrQzOBQ33-d7AAD-_sNzcrD_9Cegl_D3O_jSwaz5M-DX6uzgEnjUG6SaPWvPlfGrRV2VCPD_7FU_RO3CFscJhbUfQCJrM8HaIiY_9V9hpRa67KuJpEH9NcBNiro2biDehhrQw__LVn6t87RF8-23rr_ajZq5-izab90F1vFy5jdZsjditgdOuMYbYoxCoOI2M9b_V7H39Fupic9z445kQKtRG4aArA4AXb4DZLwdaLo5XoHCq6NNTfJ84qz5I-2UzKSOwH3x4v_P9E__t4-Cw4AVXb3nr3849l7ablVMbuO8nYwz34cAul-XDZhvfy-mZC7bNDf0sR2bEu6TYNdZTWF1Z1BEMEEVujhMCvu6yhvbqo8NC75tFkA07SNBqvigwVZqhXle7UqR-sVjIfW8kQH0IQaG8hsFm3gDsjm5LKB9aZbVSiMxvuGoMgBXIPq4y3rJquSeZZOd_HiCghqU97J7Y8AAAA.webp",
+      "source_info_link": "https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf"
+     }
+    },
+    "author": "by J Duyck",
+    "displayed_link": "https://www.cs.cmu.edu › Class › DuyckLeeLei",
+    "favicon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAADwCACdASogACAAPtEutFooIagoGAEAGglsAJ0y4dWrs1doG8q_7qtS11dYCgA9tGoAm6LFpFfeVpJCoZGHlHit6eV2mFefvrQzOBQ33-d7AAD-_sNzcrD_9Cegl_D3O_jSwaz5M-DX6uzgEnjUG6SaPWvPlfGrRV2VCPD_7FU_RO3CFscJhbUfQCJrM8HaIiY_9V9hpRa67KuJpEH9NcBNiro2biDehhrQw__LVn6t87RF8-23rr_ajZq5-izab90F1vFy5jdZsjditgdOuMYbYoxCoOI2M9b_V7H39Fupic9z445kQKtRG4aArA4AXb4DZLwdaLo5XoHCq6NNTfJ84qz5I-2UzKSOwH3x4v_P9E__t4-Cw4AVXb3nr3849l7ablVMbuO8nYwz34cAul-XDZhvfy-mZC7bNDf0sR2bEu6TYNdZTWF1Z1BEMEEVujhMCvu6yhvbqo8NC75tFkA07SNBqvigwVZqhXle7UqR-sVjIfW8kQH0IQaG8hsFm3gDsjm5LKB9aZbVSiMxvuGoMgBXIPq4y3rJquSeZZOd_HiCghqU97J7Y8AAAA.webp",
+    "link": "https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf",
+    "position": 7,
+    "read_more_link": "https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf#:~:text=Dropout%20is%20a%20method%20that,temporarily%20removing%20nodes%20at%20ran%2D",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFV2gw1k_sFazGGIOLK6JTKbrGd2goFNCJdddU5vPUZXTGuSn0obY0-FJ9C3flXOuOeqpUfJQKUI6Xp7LNBj2_XGS9k7IRJqv5x3wc-x3CikmOn9e3filvkPyxkzszIzJARAxbKmXzY-j-D8vB8V0JmjL44DlbanHp4tKU1wO&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQFnoECD8QAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "pages": 9
+      },
+      "extensions": [
+       "9 pages"
+      ]
+     }
+    },
+    "snippet": "Dropout is a method that prevents overfitting when training deep neural networks. It involves sampling different sub-networks by temporarily removing nodes ...",
+    "snippet_highlighted_words": [
+     "Dropout is a method that prevents overfitting"
+    ],
+    "source": "CMU School of Computer Science",
+    "title": "Modified Dropout for Training Neural Network"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The authors state that dropout is a general technique for improving neural networks by reducing overfitting. It breaks up co-adaptations by ...",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+      "source_info_link": "https://karan3-zoh.medium.com/dropout-a-simple-way-to-prevent-neural-networks-from-overfitting-d50186502d1d"
+     }
+    },
+    "displayed_link": "3 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+    "link": "https://karan3-zoh.medium.com/dropout-a-simple-way-to-prevent-neural-networks-from-overfitting-d50186502d1d",
+    "position": 8,
+    "read_more_link": "https://karan3-zoh.medium.com/dropout-a-simple-way-to-prevent-neural-networks-from-overfitting-d50186502d1d#:~:text=The%20authors%20state%20that%20dropout,reliable%20and%20thereby%2C%20reduces%20overfitting.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFTLMZG2enhs_FyBNAVv-kecJi6EDuuPuDOZu3TdOHReZ42ynhFeWQ5r1JtEOumgr0Wb6dQ0xWBum1tkt5m0R6wqVVVaHVYNWagumLGv3Ux2ZrHHjgkIBKxPue6zTYFWGXJpZT5A35VF-oKcQgaaZNrE47yFL5AVxdZG9cpSvUqQtDfB0cXCfkx3wfT00pesbQBFcI3DeboAN9G_0Ny4P&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQFnoECEMQAQ&uoh=1",
+    "snippet": "The authors state that dropout is a general technique for improving neural networks by reducing overfitting. It breaks up co-adaptations by ...",
+    "snippet_highlighted_words": [
+     "dropout",
+     "neural networks",
+     "overfitting"
+    ],
+    "source": "Medium · Karan Uppal",
+    "title": "A Simple Way to Prevent Neural Networks from Overfitting"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The key idea is to randomly drop units (along with their connections) from the neural network during training. This prevents units from co-adapting too much.",
+      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASocABwAPrUurVanIacnG_DgFolpAAbIDvLv7fyO_QGoAFe1-t1fUHhUzur4aYft-acC5396AAD--b2J9SW9N9ZJnsjpcQE-0QRkCl_4VnAcRiHjkXx1DaFzeD7Bnm13ePAivffs5pT8UDIsUoZvLPhmYFjZ__4bpOz07P-Qu3DfVppAaGH1Sd4VYmeBt5uM-Bd1T_IXX9_kWYWDRInhLlxbvH7nv9I-2ZvVZCGeR8TO-JnekIGRNH1ilLNCosPrIXQyPYy_mwvRLldYshcljCsjTuS2P-Oi_3kg6VewIAh_0qLRdML6z81qvyKzJjjfvWMAAAAA.webp",
+      "source_info_link": "https://dl.acm.org/doi/10.5555/2627435.2670313"
+     }
+    },
+    "author": "by N Srivastava",
+    "displayed_link": "https://dl.acm.org › doi",
+    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASocABwAPrUurVanIacnG_DgFolpAAbIDvLv7fyO_QGoAFe1-t1fUHhUzur4aYft-acC5396AAD--b2J9SW9N9ZJnsjpcQE-0QRkCl_4VnAcRiHjkXx1DaFzeD7Bnm13ePAivffs5pT8UDIsUoZvLPhmYFjZ__4bpOz07P-Qu3DfVppAaGH1Sd4VYmeBt5uM-Bd1T_IXX9_kWYWDRInhLlxbvH7nv9I-2ZvVZCGeR8TO-JnekIGRNH1ilLNCosPrIXQyPYy_mwvRLldYshcljCsjTuS2P-Oi_3kg6VewIAh_0qLRdML6z81qvyKzJjjfvWMAAAAA.webp",
+    "link": "https://dl.acm.org/doi/10.5555/2627435.2670313",
+    "position": 9,
+    "read_more_link": "https://dl.acm.org/doi/10.5555/2627435.2670313#:~:text=The%20key%20idea%20is%20to,units%20from%20co%2Dadapting%20too%20much.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVhZLUhjRDRfLWFxQlMJ3y-jSFJ92zbXK5ZKiFpkAalXVI_-uU-O5HMpocjxDaAAo4EgQJlzqNUqiV3jzsSARfKfe2HlgIBCXQk5KBmhS9Akp8P146PaKW2lqZT4Nj8ueZJw&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQFnoECEIQAQ&uoh=1",
+    "snippet": "The key idea is to randomly drop units (along with their connections) from the neural network during training. This prevents units from co-adapting too much.",
+    "snippet_highlighted_words": [
+     "randomly drop units (along with their connections"
+    ],
+    "source": "ACM Digital Library",
+    "title": "Dropout: a simple way to prevent neural networks from ..."
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=10&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8NMDegQINRAW",
+   "other_pages": {
+    "10": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=90&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8tMDegQINRAU",
+    "2": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=10&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8tMDegQINRAE",
+    "3": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=20&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8tMDegQINRAG",
+    "4": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=30&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8tMDegQINRAI",
+    "5": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=40&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8tMDegQINRAK",
+    "6": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=50&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8tMDegQINRAM",
+    "7": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=60&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8tMDegQINRAO",
+    "8": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=70&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8tMDegQINRAQ",
+    "9": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&ei=m8SvatGcAoOjkPIPgsrakQ4&start=80&sa=N&sstk=AS6-VmLyuSMDV38tGsROlvPS4UmKTi7ExaLVURBiSWFC1BYtCZ-S79h9ci29M1jbfljDyV9A6-qjaGeB5QhA8R2Sv1htkXaYWGY72Q&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ8tMDegQINRAS"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9YUldZWGs0VGxGMFVGZzNiV3RCTm13NVZESlVUMnRzVDFaVmVYTXpiVzF2YkZjMlpGTTNaV1JHWlVoZlFtTlRUSGhYV0ZwTlJrVXhPVXhDUTBFNWVXZERjMDR3ZWpkc2NDMVFPRkJaVFU1WWNuRnlXVE5WTTFaNVFSSVhiVGhUZG1GMFIyTkJiMDlxYTFCSlVHZHpjbUZyVVRRYUlrRkVjM0k1WmxSV1FqaDBjRGhFYkdoQmNGSkZUWFZZTVhkVGVYaEZTMFozV1ZFIiwiZmN2IjoiMyIsImVpIjoibThTdmF0R2NBb09qa1BJUGdzcmFrUTQiLCJxYyI6ImMtTnlLc19JVE01UUtFZ3NTQzFTS0NqS0w4Z3ZUazFSU0FFeFNrc1VTdktCWXFsbHFYa2xDbm1wcFVXSk9VQ3FwRHlfS0ZzaHZ5eTFLQzJ6cENRekwxMkFvVFpNMGNVZUFBIiwicXVlc3Rpb24iOiJIb3cgdG8gcHJldmVudCBvdmVyZml0dGluZyBpbiBhIG5ldXJhbCBuZXR3b3JrPyIsImxrIjoiR2k1b2IzY2dkRzhnY0hKbGRtVnVkQ0J2ZG1WeVptbDBkR2x1WnlCcGJpQmhJRzVsZFhKaGJDQnVaWFIzYjNKciIsImJzIjoiYzVYUXNRckNRQXlBWVZ3ek9SOE9HVVJ4VWVuaVdCZkJOLWppY3JTcFBheVhJNWUyLVBacUViRTZxRk9XZlBraGtNTnF6eDBxWXhCcXlTdHlTMUk2VmVlUDZEeGE5TlNJclc5RE81WlRtcXpOc3ZxTHdBR1NyTEtLTHFKV2hLR1J3SkdRU3l5RUF6ZDZWME1UMDJSbXByOXN3aG0yMzZfbjdGdXVHM1hzZV9yV1dwajVqOHVRd2FiUFdhRm53UG9DZDFicUMwYmxFQjVfLUtoTWpIa1ZOQkRqMFJVIiwiaWQiOiJmY19tOFN2YXRHY0FvT2prUElQZ3NyYWtRNF81In0=",
+    "page_token": "WROhyXicHdFNjpswGIBh9TKznGAoqRopGonwF0_tKR_YgDeVg0k8wYAnoWHCrnfpugfqaTrqBV7p0fvrt3kdur-f_uhpstfNajXP8-NpHE-mfWzGfiWv96FZNdKYg2y6zfrLGj0dm200zrvddQ4yZi0PwcnNfs4XEzNXpMBNTrj9mXvcqxmd89S-8ZBb4ihoXNyxUFBIa0R5EEIEJUOilz2gtlABLOaeLcHzRzMVFSC5RIjGZDr0WMuQoja2OS99UhS8ZyZISAyYhnggiy7zxH8jHJuy0pQnKmnO-so5PItuXl4SvhZnnVaLmuRAXBFiIaL6czkYLQda8hL7OcPFoRMzcfVdFSZq-_g7OEBUYgfh-EsZB5HkoAvmj22BkUyFbQfYF8nXpEjwAC55j7SaXmLq1tWH0IlvhWsvLDKZ8Oi9LiegwfiaMVias-l5vHcOO_QtY_qSRyqvHGRanrmqgndIgxt4Sor54djctt7D_w_bH8d-2tjLePoHcd2WMA",
+    "question": "How to prevent overfitting in a neural network?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WROhyXicHdFNjpswGIBh9TKznGAoqRopGonwF0_tKR_YgDeVg0k8wYAnoWHCrnfpugfqaTrqBV7p0fvrt3kdur-f_uhpstfNajXP8-NpHE-mfWzGfiWv96FZNdKYg2y6zfrLGj0dm200zrvddQ4yZi0PwcnNfs4XEzNXpMBNTrj9mXvcqxmd89S-8ZBb4ihoXNyxUFBIa0R5EEIEJUOilz2gtlABLOaeLcHzRzMVFSC5RIjGZDr0WMuQoja2OS99UhS8ZyZISAyYhnggiy7zxH8jHJuy0pQnKmnO-so5PItuXl4SvhZnnVaLmuRAXBFiIaL6czkYLQda8hL7OcPFoRMzcfVdFSZq-_g7OEBUYgfh-EsZB5HkoAvmj22BkUyFbQfYF8nXpEjwAC55j7SaXmLq1tWH0IlvhWsvLDKZ8Oi9LiegwfiaMVias-l5vHcOO_QtY_qSRyqvHGRanrmqgndIgxt4Sor54djctt7D_w_bH8d-2tjLePoHcd2WMA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9YUldZWGs0VGxGMFVGZzNiV3RCTm13NVZESlVUMnRzVDFaVmVYTXpiVzF2YkZjMlpGTTNaV1JHWlVoZlFtTlRUSGhYV0ZwTlJrVXhPVXhDUTBFNWVXZERjMDR3ZWpkc2NDMVFPRkJaVFU1WWNuRnlXVE5WTTFaNVFSSVhiVGhUZG1GMFIyTkJiMDlxYTFCSlVHZHpjbUZyVVRRYUlrRkVjM0k1WmxSV1FqaDBjRGhFYkdoQmNGSkZUWFZZTVhkVGVYaEZTMFozV1ZFIiwiZmN2IjoiMyIsImVpIjoibThTdmF0R2NBb09qa1BJUGdzcmFrUTQiLCJxYyI6ImMtTnlLc19JVE01UUtFZ3NTQzFTS0NqS0w4Z3ZUazFSU0FFeFNrc1VTdktCWXFsbHFYa2xDbm1wcFVXSk9VQ3FwRHlfS0ZzaHZ5eTFLQzJ6cENRekwxMkFvVFpNMGNVZUFBIiwicXVlc3Rpb24iOiJIb3cgdG8gcHJldmVudCBvdmVyZml0dGluZyBpbiBhIG5ldXJhbCBuZXR3b3JrPyIsImxrIjoiR2k1b2IzY2dkRzhnY0hKbGRtVnVkQ0J2ZG1WeVptbDBkR2x1WnlCcGJpQmhJRzVsZFhKaGJDQnVaWFIzYjNKciIsImJzIjoiYzVYUXNRckNRQXlBWVZ3ek9SOE9HVVJ4VWVuaVdCZkJOLWppY3JTcFBheVhJNWUyLVBacUViRTZxRk9XZlBraGtNTnF6eDBxWXhCcXlTdHlTMUk2VmVlUDZEeGE5TlNJclc5RE81WlRtcXpOc3ZxTHdBR1NyTEtLTHFKV2hLR1J3SkdRU3l5RUF6ZDZWME1UMDJSbXByOXN3aG0yMzZfbjdGdXVHM1hzZV9yV1dwajVqOHVRd2FiUFdhRm53UG9DZDFicUMwYmxFQjVfLUtoTWpIa1ZOQkRqMFJVIiwiaWQiOiJmY19tOFN2YXRHY0FvT2prUElQZ3NyYWtRNF81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9YUldZWGs0VGxGMFVGZzNiV3RCTm13NVZESlVUMnRzVDFaVmVYTXpiVzF2YkZjMlpGTTNaV1JHWlVoZlFtTlRUSGhYV0ZwTlJrVXhPVXhDUTBFNWVXZERjMDR3ZWpkc2NDMVFPRkJaVFU1WWNuRnlXVE5WTTFaNVFSSVhiVGhUZG1GMFIyTkJiMDlxYTFCSlVHZHpjbUZyVVRRYUlrRkVjM0k1WmxSV1FqaDBjRGhFYkdoQmNGSkZUWFZZTVhkVGVYaEZTMFozV1ZFIiwiZmN2IjoiMyIsImVpIjoibThTdmF0R2NBb09qa1BJUGdzcmFrUTQiLCJxYyI6ImMtTnlLc19JVE01UUtFZ3NTQzFTS0NqS0w4Z3ZUazFSU0FFeFNrc1VTdktCWXFsbHFYa2xDbm1wcFVXSk9VQ3FwRHlfS0ZzaHZ5eTFLQzJ6cENRekwxMkFvVFpNMGNVZUFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwdXJwb3NlIG9mIGRyb3BvdXQgaW4gbmV1cmFsIG5ldHdvcmtzPyIsImxrIjoiR2lSd2RYSndiM05sSUc5bUlHUnliM0J2ZFhRZ2FXNGdibVYxY21Gc0lHNWxkSGR2Y21zIiwiYnMiOiJjNVhRc1FyQ1FBeUFZVnd6T1I4T0dVUnhVZW5pV0JmQk4tamljclNwUGF5WEk1ZTItUFpxRWJFNnFGT1dmUGtoa01OcXp4MHFZeEJxeVN0eVMxSTZWZWVQNkR4YTlOU0lyVzlETzVaVG1xek5zdnFMd0FHU3JMS0tMcUpXaEtHUndKR1FTeXlFQXpkNlYwTVQwMlJtcHI5c3dobTIzNl9uN0Z1dUczWHNlX3JXV3BqNWo4dVF3YWJQV2FGbndQb0NkMWJxQzBibEVCNV8tS2hNakhrVk5CRGowUlUiLCJpZCI6ImZjX204U3ZhdEdjQW9PamtQSVBnc3Jha1E0XzUifQ==",
+    "page_token": "tXi_h3icHdDNbtowAABg7WV6LDjuOhUJTTLEUFgc2Y7tJJfKsSEmcX4GGSHc9gp9hj5Vn6bT7t_p-_vhT239-e3dDUN_Wcxm4zg-ll1X-sOj6ZqZvkytmRntfaFNvXj-8Qx-Hs0yvBq0OhtERd_LNZtz-ZJwjzdmg29CRIGuEMgDuWWpe7V4N_IN9lxhpGt2iSawpw2YqCKtxU6LE-ARFMDWQ1U0kvGa_JGQTgVg40Hhk1bYKe9ZFFqmYd5EwL3-0-7Q7jiXrC-U1VmSX2Kc3RMpXdZKka8JjIVtEo9-R_WuJr4cbcuqOJVOpb2LgM9U5fYstStZmSe1xlR5to8VHTlEIgukpncCI_Bys6C8a4xQkVjyS8gqdHaIMQmylG2zOb4mQX8Woac5JFOmBkZQd6KC3U3lG1GTVqzm32Wab3ljR-0RsnCHD1s_T0J6I9AqSh-O5rqED_-vl2_HZlj05678AvqpjYg",
+    "question": "What is the purpose of dropout in neural networks?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tXi_h3icHdDNbtowAABg7WV6LDjuOhUJTTLEUFgc2Y7tJJfKsSEmcX4GGSHc9gp9hj5Vn6bT7t_p-_vhT239-e3dDUN_Wcxm4zg-ll1X-sOj6ZqZvkytmRntfaFNvXj-8Qx-Hs0yvBq0OhtERd_LNZtz-ZJwjzdmg29CRIGuEMgDuWWpe7V4N_IN9lxhpGt2iSawpw2YqCKtxU6LE-ARFMDWQ1U0kvGa_JGQTgVg40Hhk1bYKe9ZFFqmYd5EwL3-0-7Q7jiXrC-U1VmSX2Kc3RMpXdZKka8JjIVtEo9-R_WuJr4cbcuqOJVOpb2LgM9U5fYstStZmSe1xlR5to8VHTlEIgukpncCI_Bys6C8a4xQkVjyS8gqdHaIMQmylG2zOb4mQX8Woac5JFOmBkZQd6KC3U3lG1GTVqzm32Wab3ljR-0RsnCHD1s_T0J6I9AqSh-O5rqED_-vl2_HZlj05678AvqpjYg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9YUldZWGs0VGxGMFVGZzNiV3RCTm13NVZESlVUMnRzVDFaVmVYTXpiVzF2YkZjMlpGTTNaV1JHWlVoZlFtTlRUSGhYV0ZwTlJrVXhPVXhDUTBFNWVXZERjMDR3ZWpkc2NDMVFPRkJaVFU1WWNuRnlXVE5WTTFaNVFSSVhiVGhUZG1GMFIyTkJiMDlxYTFCSlVHZHpjbUZyVVRRYUlrRkVjM0k1WmxSV1FqaDBjRGhFYkdoQmNGSkZUWFZZTVhkVGVYaEZTMFozV1ZFIiwiZmN2IjoiMyIsImVpIjoibThTdmF0R2NBb09qa1BJUGdzcmFrUTQiLCJxYyI6ImMtTnlLc19JVE01UUtFZ3NTQzFTS0NqS0w4Z3ZUazFSU0FFeFNrc1VTdktCWXFsbHFYa2xDbm1wcFVXSk9VQ3FwRHlfS0ZzaHZ5eTFLQzJ6cENRekwxMkFvVFpNMGNVZUFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwdXJwb3NlIG9mIGRyb3BvdXQgaW4gbmV1cmFsIG5ldHdvcmtzPyIsImxrIjoiR2lSd2RYSndiM05sSUc5bUlHUnliM0J2ZFhRZ2FXNGdibVYxY21Gc0lHNWxkSGR2Y21zIiwiYnMiOiJjNVhRc1FyQ1FBeUFZVnd6T1I4T0dVUnhVZW5pV0JmQk4tamljclNwUGF5WEk1ZTItUFpxRWJFNnFGT1dmUGtoa01OcXp4MHFZeEJxeVN0eVMxSTZWZWVQNkR4YTlOU0lyVzlETzVaVG1xek5zdnFMd0FHU3JMS0tMcUpXaEtHUndKR1FTeXlFQXpkNlYwTVQwMlJtcHI5c3dobTIzNl9uN0Z1dUczWHNlX3JXV3BqNWo4dVF3YWJQV2FGbndQb0NkMWJxQzBibEVCNV8tS2hNakhrVk5CRGowUlUiLCJpZCI6ImZjX204U3ZhdEdjQW9PamtQSVBnc3Jha1E0XzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9YUldZWGs0VGxGMFVGZzNiV3RCTm13NVZESlVUMnRzVDFaVmVYTXpiVzF2YkZjMlpGTTNaV1JHWlVoZlFtTlRUSGhYV0ZwTlJrVXhPVXhDUTBFNWVXZERjMDR3ZWpkc2NDMVFPRkJaVFU1WWNuRnlXVE5WTTFaNVFSSVhiVGhUZG1GMFIyTkJiMDlxYTFCSlVHZHpjbUZyVVRRYUlrRkVjM0k1WmxSV1FqaDBjRGhFYkdoQmNGSkZUWFZZTVhkVGVYaEZTMFozV1ZFIiwiZmN2IjoiMyIsImVpIjoibThTdmF0R2NBb09qa1BJUGdzcmFrUTQiLCJxYyI6ImMtTnlLc19JVE01UUtFZ3NTQzFTS0NqS0w4Z3ZUazFSU0FFeFNrc1VTdktCWXFsbHFYa2xDbm1wcFVXSk9VQ3FwRHlfS0ZzaHZ5eTFLQzJ6cENRekwxMkFvVFpNMGNVZUFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwdXJwb3NlIG9mIGRyb3BvdXQgaW4gY29udm9sdXRpb25hbCBuZXVyYWwgbmV0d29ya3M/IiwibGsiOiJjNU5TVHluS0w4Z3ZMVkhJekZOSXpzOHJ5ODhwTGNuTXowdk1VY2hMTFMwQ1V5WGwtVVhaQUEiLCJicyI6ImM1WFFzUXJDUUF5QVlWd3pPUjhPR1VSeFVlbmlXQmZCTi1qaWNyU3BQYXlYSTVlMi1QWnFFYkU2cUZPV2ZQa2hrTU5xengwcVl4QnF5U3R5UzFJNlZlZVA2RHhhOU5TSXJXOURPNVpUbXF6TnN2cUx3QUdTckxLS0xxSldoS0dSd0pHUVN5eUVBemQ2VjBNVDAyUm1wcjlzd2htMjM2X243RnV1RzNYc2VfcldXcGo1ajh1UXdhYlBXYUZud1BvQ2QxYnFDMGJsRUI1Xy1LaE1qSGtWTkJEajBSVSIsImlkIjoiZmNfbThTdmF0R2NBb09qa1BJUGdzcmFrUTRfNSJ9",
+    "page_token": "kVKqoXicHdDbboIwGADg7GW81CLMRROzhHGazjJb-hd6s5RWRSiHKJHh3d5lT7Wn2bIn-JLv69ucm-rnIS36vruuZrNhGKantj2Zw1S19Uxex0bNlDQml6paLZ4W1vNRrf3r4L60g7tnXQceQfTumpyTa-LpGwe8wVHhYL_vNQDLys1WJBAoT5NDCPMciUghYUuLcBZaYwbFjaLKyRJ4lPVnnIOxadW_8cragmdaVWKHIcBxqMY4MoJwYLJ0y0PqOrkBwaxlTZLXQc5xmnMteBMQ2hQXUmHOPbdlqNjTNFiwu4A4JCk2usoaRoM5cpgtCu3rcs-X77Lu9xTcRtmbQlo-Cs8bl0R4jLlgO0tUKiU0tzSRTWZD8OfeMWgf9bt7EYhGkMlR3db25H9s_XGs-1V3aU-_Wvh4gw",
+    "question": "What is the purpose of dropout in convolutional neural networks?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kVKqoXicHdDbboIwGADg7GW81CLMRROzhHGazjJb-hd6s5RWRSiHKJHh3d5lT7Wn2bIn-JLv69ucm-rnIS36vruuZrNhGKantj2Zw1S19Uxex0bNlDQml6paLZ4W1vNRrf3r4L60g7tnXQceQfTumpyTa-LpGwe8wVHhYL_vNQDLys1WJBAoT5NDCPMciUghYUuLcBZaYwbFjaLKyRJ4lPVnnIOxadW_8cragmdaVWKHIcBxqMY4MoJwYLJ0y0PqOrkBwaxlTZLXQc5xmnMteBMQ2hQXUmHOPbdlqNjTNFiwu4A4JCk2usoaRoM5cpgtCu3rcs-X77Lu9xTcRtmbQlo-Cs8bl0R4jLlgO0tUKiU0tzSRTWZD8OfeMWgf9bt7EYhGkMlR3db25H9s_XGs-1V3aU-_Wvh4gw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9YUldZWGs0VGxGMFVGZzNiV3RCTm13NVZESlVUMnRzVDFaVmVYTXpiVzF2YkZjMlpGTTNaV1JHWlVoZlFtTlRUSGhYV0ZwTlJrVXhPVXhDUTBFNWVXZERjMDR3ZWpkc2NDMVFPRkJaVFU1WWNuRnlXVE5WTTFaNVFSSVhiVGhUZG1GMFIyTkJiMDlxYTFCSlVHZHpjbUZyVVRRYUlrRkVjM0k1WmxSV1FqaDBjRGhFYkdoQmNGSkZUWFZZTVhkVGVYaEZTMFozV1ZFIiwiZmN2IjoiMyIsImVpIjoibThTdmF0R2NBb09qa1BJUGdzcmFrUTQiLCJxYyI6ImMtTnlLc19JVE01UUtFZ3NTQzFTS0NqS0w4Z3ZUazFSU0FFeFNrc1VTdktCWXFsbHFYa2xDbm1wcFVXSk9VQ3FwRHlfS0ZzaHZ5eTFLQzJ6cENRekwxMkFvVFpNMGNVZUFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwdXJwb3NlIG9mIGRyb3BvdXQgaW4gY29udm9sdXRpb25hbCBuZXVyYWwgbmV0d29ya3M%2FIiwibGsiOiJjNU5TVHluS0w4Z3ZMVkhJekZOSXpzOHJ5ODhwTGNuTXowdk1VY2hMTFMwQ1V5WGwtVVhaQUEiLCJicyI6ImM1WFFzUXJDUUF5QVlWd3pPUjhPR1VSeFVlbmlXQmZCTi1qaWNyU3BQYXlYSTVlMi1QWnFFYkU2cUZPV2ZQa2hrTU5xengwcVl4QnF5U3R5UzFJNlZlZVA2RHhhOU5TSXJXOURPNVpUbXF6TnN2cUx3QUdTckxLS0xxSldoS0dSd0pHUVN5eUVBemQ2VjBNVDAyUm1wcjlzd2htMjM2X243RnV1RzNYc2VfcldXcGo1ajh1UXdhYlBXYUZud1BvQ2QxYnFDMGJsRUI1Xy1LaE1qSGtWTkJEajBSVSIsImlkIjoiZmNfbThTdmF0R2NBb09qa1BJUGdzcmFrUTRfNSJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9YUldZWGs0VGxGMFVGZzNiV3RCTm13NVZESlVUMnRzVDFaVmVYTXpiVzF2YkZjMlpGTTNaV1JHWlVoZlFtTlRUSGhYV0ZwTlJrVXhPVXhDUTBFNWVXZERjMDR3ZWpkc2NDMVFPRkJaVFU1WWNuRnlXVE5WTTFaNVFSSVhiVGhUZG1GMFIyTkJiMDlxYTFCSlVHZHpjbUZyVVRRYUlrRkVjM0k1WmxSV1FqaDBjRGhFYkdoQmNGSkZUWFZZTVhkVGVYaEZTMFozV1ZFIiwiZmN2IjoiMyIsImVpIjoibThTdmF0R2NBb09qa1BJUGdzcmFrUTQiLCJxYyI6ImMtTnlLc19JVE01UUtFZ3NTQzFTS0NqS0w4Z3ZUazFSU0FFeFNrc1VTdktCWXFsbHFYa2xDbm1wcFVXSk9VQ3FwRHlfS0ZzaHZ5eTFLQzJ6cENRekwxMkFvVFpNMGNVZUFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBkcm9wb3V0IGFuZCBFYXJseSBzdG9wcGluZyBpbiBuZXVyYWwgbmV0d29ya3M/IiwibGsiOiJHaHBrY205d2IzVjBJR0Z1WkNCbFlYSnNlU0J6ZEc5d2NHbHVadyIsImJzIjoiYzVYUXNRckNRQXlBWVZ3ek9SOE9HVVJ4VWVuaVdCZkJOLWppY3JTcFBheVhJNWUyLVBacUViRTZxRk9XZlBraGtNTnF6eDBxWXhCcXlTdHlTMUk2VmVlUDZEeGE5TlNJclc5RE81WlRtcXpOc3ZxTHdBR1NyTEtLTHFKV2hLR1J3SkdRU3l5RUF6ZDZWME1UMDJSbXByOXN3aG0yMzZfbjdGdXVHM1hzZV9yV1dwajVqOHVRd2FiUFdhRm53UG9DZDFicUMwYmxFQjVfLUtoTWpIa1ZOQkRqMFJVIiwiaWQiOiJmY19tOFN2YXRHY0FvT2prUElQZ3NyYWtRNF81In0=",
+    "page_token": "dzDkK3icHdBRboIwAIDh7DI-jhbUTROzBEWnE7QttKwvS2lVlAJ1MNG-7S471U4zsxP8X_7vH32sit-HNG9b04wdp-u6x0NdH_TuUdalI5pbJR0ptM6ELMbDpyF82ctJ0HT-tO58lBhDZxiQyh9uAn7l7NrEHp_RhCJZYA_FS08lrVVsQBjLByLgubIaEOuzrKLr2NIOsWvIy9FUUjrgidlGkMcC5vpd-6nSmqYWWTwfEX7KUQYUSa3-imbUFSA_Y9CHuwUfZqmZK_e5DRf1TUFdpcAsM0-_0aQ1gmLG2XxDABgkbmRoqjpR1mTugn7i3T2BOiE22oqyRYT6lfRWuYABWBxXPn6NbhvGMYeqRIm-9_gstJrjE7-sYxpmcCVIgc-ZVbi3l5eJ1_s_NvnYl-3YfNaHP_vkeXg",
+    "question": "What are dropout and Early stopping in neural networks?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dzDkK3icHdBRboIwAIDh7DI-jhbUTROzBEWnE7QttKwvS2lVlAJ1MNG-7S471U4zsxP8X_7vH32sit-HNG9b04wdp-u6x0NdH_TuUdalI5pbJR0ptM6ELMbDpyF82ctJ0HT-tO58lBhDZxiQyh9uAn7l7NrEHp_RhCJZYA_FS08lrVVsQBjLByLgubIaEOuzrKLr2NIOsWvIy9FUUjrgidlGkMcC5vpd-6nSmqYWWTwfEX7KUQYUSa3-imbUFSA_Y9CHuwUfZqmZK_e5DRf1TUFdpcAsM0-_0aQ1gmLG2XxDABgkbmRoqjpR1mTugn7i3T2BOiE22oqyRYT6lfRWuYABWBxXPn6NbhvGMYeqRIm-9_gstJrjE7-sYxpmcCVIgc-ZVbi3l5eJ1_s_NvnYl-3YfNaHP_vkeXg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9YUldZWGs0VGxGMFVGZzNiV3RCTm13NVZESlVUMnRzVDFaVmVYTXpiVzF2YkZjMlpGTTNaV1JHWlVoZlFtTlRUSGhYV0ZwTlJrVXhPVXhDUTBFNWVXZERjMDR3ZWpkc2NDMVFPRkJaVFU1WWNuRnlXVE5WTTFaNVFSSVhiVGhUZG1GMFIyTkJiMDlxYTFCSlVHZHpjbUZyVVRRYUlrRkVjM0k1WmxSV1FqaDBjRGhFYkdoQmNGSkZUWFZZTVhkVGVYaEZTMFozV1ZFIiwiZmN2IjoiMyIsImVpIjoibThTdmF0R2NBb09qa1BJUGdzcmFrUTQiLCJxYyI6ImMtTnlLc19JVE01UUtFZ3NTQzFTS0NqS0w4Z3ZUazFSU0FFeFNrc1VTdktCWXFsbHFYa2xDbm1wcFVXSk9VQ3FwRHlfS0ZzaHZ5eTFLQzJ6cENRekwxMkFvVFpNMGNVZUFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBkcm9wb3V0IGFuZCBFYXJseSBzdG9wcGluZyBpbiBuZXVyYWwgbmV0d29ya3M%2FIiwibGsiOiJHaHBrY205d2IzVjBJR0Z1WkNCbFlYSnNlU0J6ZEc5d2NHbHVadyIsImJzIjoiYzVYUXNRckNRQXlBWVZ3ek9SOE9HVVJ4VWVuaVdCZkJOLWppY3JTcFBheVhJNWUyLVBacUViRTZxRk9XZlBraGtNTnF6eDBxWXhCcXlTdHlTMUk2VmVlUDZEeGE5TlNJclc5RE81WlRtcXpOc3ZxTHdBR1NyTEtLTHFKV2hLR1J3SkdRU3l5RUF6ZDZWME1UMDJSbXByOXN3aG0yMzZfbjdGdXVHM1hzZV9yV1dwajVqOHVRd2FiUFdhRm53UG9DZDFicUMwYmxFQjVfLUtoTWpIa1ZOQkRqMFJVIiwiaWQiOiJmY19tOFN2YXRHY0FvT2prUElQZ3NyYWtRNF81In0%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&q=Dropout:+a+simple+way+to+prevent+neural+networks+from+overfitting+doi&sa=X&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ1QJ6BAg5EAE",
+    "query": "Dropout: a simple way to prevent neural networks from overfitting doi",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dropout%3A+a+simple+way+to+prevent+neural+networks+from+overfitting+doi"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting+ape&sa=X&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ1QJ6BAg9EAE",
+    "query": "Which paper proposed dropout to prevent neural network overfitting ape",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting+ape"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&q=Dropout+paper&sa=X&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ1QJ6BAg-EAE",
+    "query": "Dropout paper",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dropout+paper"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&q=Dropout+a+simple+way+to+prevent+neural+networks+from+overfitting+cite&sa=X&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ1QJ6BAg8EAE",
+    "query": "Dropout a simple way to prevent neural networks from overfitting cite",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dropout+a+simple+way+to+prevent+neural+networks+from+overfitting+cite"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&q=Dropout+a+simple+way+to+prevent+neural+networks+from+overfitting+google+scholar&sa=X&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ1QJ6BAg6EAE",
+    "query": "Dropout a simple way to prevent neural networks from overfitting google scholar",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dropout+a+simple+way+to+prevent+neural+networks+from+overfitting+google+scholar"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&q=Dropout+neural+network&sa=X&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ1QJ6BAg4EAE",
+    "query": "Dropout neural network",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dropout+neural+network"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&q=Dropout+a+simple+way+to+prevent+neural+networks+from+overfitting+arXiv&sa=X&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ1QJ6BAg3EAE",
+    "query": "Dropout a simple way to prevent neural networks from overfitting arXiv",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dropout+a+simple+way+to+prevent+neural+networks+from+overfitting+arXiv"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvf-gdR3gxjfXX42USD6t4QV3fK2g:1789904027042&q=PyTorch+dropout&sa=X&ved=2ahUKEwiR1tqNiP2WAxWDEUQIHQKlNuIQ1QJ6BAg7EAE",
+    "query": "PyTorch dropout",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PyTorch+dropout"
+   }
+  ],
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "Which paper proposed dropout to prevent neural network overfitting?",
+   "time_taken_displayed": 0.19,
+   "total_results": 135
+  },
+  "search_metadata": {
+   "created_at": "2026-09-20 11:33:46 UTC",
+   "google_url": "https://www.google.com/search?q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&oq=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&sourceid=chrome&ie=UTF-8",
+   "id": "6aafc49a7bf2f987e9454471",
+   "json_endpoint": "https://serpapi.com/searches/0tqzgvegUU46SmKALoQ7zVFEfHuHv7odJsWN4ZZillg/6aafc49a7bf2f987e9454471.json",
+   "markdown_endpoint": "https://serpapi.com/searches/0tqzgvegUU46SmKALoQ7zVFEfHuHv7odJsWN4ZZillg/6aafc49a7bf2f987e9454471.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/0tqzgvegUU46SmKALoQ7zVFEfHuHv7odJsWN4ZZillg/6aafc49a7bf2f987e9454471.json_with_pixel_position",
+   "processed_at": "2026-09-20 11:33:46 UTC",
+   "raw_html_file": "https://serpapi.com/searches/0tqzgvegUU46SmKALoQ7zVFEfHuHv7odJsWN4ZZillg/6aafc49a7bf2f987e9454471.html",
+   "status": "Success",
+   "total_time_taken": 0.58
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "Which paper proposed dropout to prevent neural network overfitting?"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=10",
+   "other_pages": {
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=90",
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+proposed+dropout+to+prevent+neural+network+overfitting%3F&start=80"
+   }
+  }
+ },
+ "searches_charged": 1
+}

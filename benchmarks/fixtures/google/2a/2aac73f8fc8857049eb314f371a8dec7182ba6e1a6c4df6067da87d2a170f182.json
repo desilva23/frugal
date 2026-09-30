@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 954.105,
+ "elapsed_ms": 985.384,
  "engine": "google",
- "fetched_at": "2026-09-20T12:02:39.450205+00:00",
+ "fetched_at": "2026-09-27T21:32:02.284227+00:00",
  "frugal_cache_version": 1,
  "key": "2aac73f8fc8857049eb314f371a8dec7182ba6e1a6c4df6067da87d2a170f182",
  "params": {
@@ -10,310 +10,482 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "QPnfQXiczVXddqo4FH6AeY7xxh4Bf0vXYnUlAZXWtoJVa29cCGlQxChBsd6dd5mnmqeZgKjQajvnXMyarBVCko-dnb33x_fzr_l04f39x083DJfsRhCiKCoRSskcl2zqCxZ7X9jCG52zwHZv3zdKpWAzRSzgqfLC1htrtXI6ry1vGRpdGfusbpBC8okynlgMz7jF7YwJY4E_vD8rKp-UWMkKSrvugKmhS67hqFQWJbn0JFg-B4D_rmkGgfF4B9BlEN_SvjcVG9AB1DKWdECSEZ5Qo_02MpItRC5ag_szzQRu8K6Od-1I5auH-JBk-bwrMDeNEl8AiBIvIZh-f5tMM9K7HO71RaSO6HxLo0dPK9kc53zNtyg3a3IvxgCh0yHZw7gZN-fGMVI2AddtClUI-peP4vG510HNA4Z2KaxH29qgesxcZ9TiK4JDeOGKwiTggyRMbddOXgIW1zN6lkXaNOZEsu5HuF6nsvjgj6zh60QOBtraMAR7wnFzajnYGbtj8TaZS2WpJsqVxvVVQiSbHZnEskzyOkHbGS5sJGolswSlA43QPungU8Y0Pkf6mYtBlEJzHyTZa2UKG4JjSo1mDgjT_dg6BJBkU3vfjePaOkx5je54arKI06lx8X-m0b6RDJjTKHFEpykwi9ijWhnqZhKrg3O_mQ-B0o326Vv1EzBHXmQC4IFDYD6V0AgYiGgxB5DWhmnU7JMNnUdmen-Ew4PDGuB_qHR2uomWgjI-xSHQDfAAdI3bnPZ1XqFEh4a2dzQuhvSspvaBcRcLXgND9G9-fWca_I5EcTMOfPlQ_lnatN1H0R0-D4ZNMYwmuLotR0G3PenpZgTO04T6k19QHPt_RaS9HmmpHl0mkvY9kRI9gl_oUfJ-0qO4eBG9SCTYOq9HD2f1KB8opJtZIn2tR79MJPQlkYzUzBki0fNEWl4mUvSRSHk90i7pUUqk39Ej-Jt6lPAK74e8OK1n5LJIPVuD3iiyNu2oh-p3G3Op31X7Syl6ewHfitSbH974ljO_Gk-dG1i-C9-dqzFfoDfYKayUoWuFRSvAxdDFxbkVYhYWHbzBc7r08SJkxemi2O_qxQCTNd-e0sVtwZ8HVBGt2ttrf7ZxG82eHG17yAqfKtKw_CgPWj8G3cmcNSui-XQ369XEH1K52t80djvt1diBgD0h0YZNSifYf6E1T-2EgayOzYFYhcYCd157a3U5FD1WFxvLwWrWHa3UTmNtyg-mvW2SoBaKctX1vMH6_SFxhinmj57ax9vKausV_MBWePqrBDwaYEh4HaKkPnmnvEe813l6YIHZ1hizjSJXyjauNBpvE_HadmSn4JPwfalUpQJbBIr0DxDcP-U",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QPnfQXiczVXddqo4FH6AeY7xxh4Bf0vXYnUlAZXWtoJVa29cCGlQxChBsd6dd5mnmqeZgKjQajvnXMyarBVCko-dnb33x_fzr_l04f39x083DJfsRhCiKCoRSskcl2zqCxZ7X9jCG52zwHZv3zdKpWAzRSzgqfLC1htrtXI6ry1vGRpdGfusbpBC8okynlgMz7jF7YwJY4E_vD8rKp-UWMkKSrvugKmhS67hqFQWJbn0JFg-B4D_rmkGgfF4B9BlEN_SvjcVG9AB1DKWdECSEZ5Qo_02MpItRC5ag_szzQRu8K6Od-1I5auH-JBk-bwrMDeNEl8AiBIvIZh-f5tMM9K7HO71RaSO6HxLo0dPK9kc53zNtyg3a3IvxgCh0yHZw7gZN-fGMVI2AddtClUI-peP4vG510HNA4Z2KaxH29qgesxcZ9TiK4JDeOGKwiTggyRMbddOXgIW1zN6lkXaNOZEsu5HuF6nsvjgj6zh60QOBtraMAR7wnFzajnYGbtj8TaZS2WpJsqVxvVVQiSbHZnEskzyOkHbGS5sJGolswSlA43QPungU8Y0Pkf6mYtBlEJzHyTZa2UKG4JjSo1mDgjT_dg6BJBkU3vfjePaOkx5je54arKI06lx8X-m0b6RDJjTKHFEpykwi9ijWhnqZhKrg3O_mQ-B0o326Vv1EzBHXmQC4IFDYD6V0AgYiGgxB5DWhmnU7JMNnUdmen-Ew4PDGuB_qHR2uomWgjI-xSHQDfAAdI3bnPZ1XqFEh4a2dzQuhvSspvaBcRcLXgND9G9-fWca_I5EcTMOfPlQ_lnatN1H0R0-D4ZNMYwmuLotR0G3PenpZgTO04T6k19QHPt_RaS9HmmpHl0mkvY9kRI9gl_oUfJ-0qO4eBG9SCTYOq9HD2f1KB8opJtZIn2tR79MJPQlkYzUzBki0fNEWl4mUvSRSHk90i7pUUqk39Ej-Jt6lPAK74e8OK1n5LJIPVuD3iiyNu2oh-p3G3Op31X7Syl6ewHfitSbH974ljO_Gk-dG1i-C9-dqzFfoDfYKayUoWuFRSvAxdDFxbkVYhYWHbzBc7r08SJkxemi2O_qxQCTNd-e0sVtwZ8HVBGt2ttrf7ZxG82eHG17yAqfKtKw_CgPWj8G3cmcNSui-XQ369XEH1K52t80djvt1diBgD0h0YZNSifYf6E1T-2EgayOzYFYhcYCd157a3U5FD1WFxvLwWrWHa3UTmNtyg-mvW2SoBaKctX1vMH6_SFxhinmj57ax9vKausV_MBWePqrBDwaYEh4HaKkPnmnvEe813l6YIHZ1hizjSJXyjauNBpvE_HadmSn4JPwfalUpQJbBIr0DxDcP-U"
+   "page_token": "Fz-CfniczZXbcqM4EIYfYJ9juXFiDD4mVVRKkjEBJ7Fx4mScGxcWjMDmZIRNyN08y-5T7dOswIdAYpKZudjaTpUVQavV6tbH_-Nv1_FX__zxlx3HIb3k-SRJ6iQIiGvVceDxBk19zH8PXBph-4oGmwhbjilhOwo8i0u3UpPDVGpwliNNZ5u2sUkVzfCvw15rnGBLdECLy0NI84VBrSXb4WVJ-TnPflZ_NvtsUqd1y68PFCLLeCt2-9O62BCb9RFveMwB_Iemy0AFkI27ocoQAPLXwTIXHaAs1sEIenu1s_4uXrYnyR8MK7dUs1WQ_aksLLNxb9ZLGuxRcHDSKnOBanEy22eT5HEhzBP9aTuG2u_7SaGqyiSXArBMSo6VtUXvLgOr1eQcyHIW4GMqKpCLpwYTAHYH76_ANekBFauIfJJ7tgCnUEPgGL_K1sAeH0qY3M2YO28Sdncb_CJig8A72Mb5PxHNrjR6uGgEijx6HaZhTO8f5WGELjRC3GActsVom_B4wfzcwDAtc27PG1f5XBCFduOi2e2d5SxheoSJFmGS442iOg9YXvfqN3UoHEhCx96hcvoymyMVfDSI9q7oxMsiBoXFDipWa7of2e1uqEAtOgIiq-NsVA6lGwHIOoyLXTxskIU8RVLJaU9S3lV1N6pvy48u00IapXsPkxOnfN_6PjwsUuHuXbKP-wEFCLRV8Wk5PMtiou96EoIETnO3UaGWBKhIfTsbPGQss2rC_Uw-9mbn6BTpcVh-drYtuWdumk6GOe9Z_ihPILviuQ3Vdx2egFPGukPYoSc_8fU7YcHXLhk5e2TeEVAmx1gtxVvnGi-1ldf1Yj9-vR09ifY6SE6TEniLX9Ad_P9i6aBK070qVbMkf81S9rH8TJXynzdVut-xNKxmKfvInlKl1sGpoErvWII3BZbs_OOcVKnSr7IEP2FJ_pSl4DRLqyqWclUqs1RWpRJLR1V6Y-l3VCn8TVXK0bJ2Q1miNktSKVWDa3u8niVp85s9VXUq-m13cJNe61sy-FqqvnvxpWeY7tncMS-hqMWpeTZnD4JLy-TW0pNtxDUjsmqxbdVcI7ZoXDOtreUGoWf5Ma05fm06VmuRRTbstRP4V5znRoHUMNqJ8eQ_aw5poZUGxt1Oa2jFmZQONnQtzvpNBUGiWJ7ZtY32XO7qS8VBrcVrOhK2t8_Pt094i24eE_hy20mW7VfxZbIQdD980Z6RHQ-IPJ_OaLM7uRFW68G3cHxh3-lt3bL9c2XkQrGNVdJQzpd5NlR6DJdaaj-ML8yEY6ejliRwXoQl1qgWAXc6eCIAAzQDOuvv1AjYmABd6TC8IUexMbfoVsJCR-x1Ft2W0euIgvmd80ichlJL4KgfScK_igpOEg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Fz-CfniczZXbcqM4EIYfYJ9juXFiDD4mVVRKkjEBJ7Fx4mScGxcWjMDmZIRNyN08y-5T7dOswIdAYpKZudjaTpUVQavV6tbH_-Nv1_FX__zxlx3HIb3k-SRJ6iQIiGvVceDxBk19zH8PXBph-4oGmwhbjilhOwo8i0u3UpPDVGpwliNNZ5u2sUkVzfCvw15rnGBLdECLy0NI84VBrSXb4WVJ-TnPflZ_NvtsUqd1y68PFCLLeCt2-9O62BCb9RFveMwB_Iemy0AFkI27ocoQAPLXwTIXHaAs1sEIenu1s_4uXrYnyR8MK7dUs1WQ_aksLLNxb9ZLGuxRcHDSKnOBanEy22eT5HEhzBP9aTuG2u_7SaGqyiSXArBMSo6VtUXvLgOr1eQcyHIW4GMqKpCLpwYTAHYH76_ANekBFauIfJJ7tgCnUEPgGL_K1sAeH0qY3M2YO28Sdncb_CJig8A72Mb5PxHNrjR6uGgEijx6HaZhTO8f5WGELjRC3GActsVom_B4wfzcwDAtc27PG1f5XBCFduOi2e2d5SxheoSJFmGS442iOg9YXvfqN3UoHEhCx96hcvoymyMVfDSI9q7oxMsiBoXFDipWa7of2e1uqEAtOgIiq-NsVA6lGwHIOoyLXTxskIU8RVLJaU9S3lV1N6pvy48u00IapXsPkxOnfN_6PjwsUuHuXbKP-wEFCLRV8Wk5PMtiou96EoIETnO3UaGWBKhIfTsbPGQss2rC_Uw-9mbn6BTpcVh-drYtuWdumk6GOe9Z_ihPILviuQ3Vdx2egFPGukPYoSc_8fU7YcHXLhk5e2TeEVAmx1gtxVvnGi-1ldf1Yj9-vR09ifY6SE6TEniLX9Ad_P9i6aBK070qVbMkf81S9rH8TJXynzdVut-xNKxmKfvInlKl1sGpoErvWII3BZbs_OOcVKnSr7IEP2FJ_pSl4DRLqyqWclUqs1RWpRJLR1V6Y-l3VCn8TVXK0bJ2Q1miNktSKVWDa3u8niVp85s9VXUq-m13cJNe61sy-FqqvnvxpWeY7tncMS-hqMWpeTZnD4JLy-TW0pNtxDUjsmqxbdVcI7ZoXDOtreUGoWf5Ma05fm06VmuRRTbstRP4V5znRoHUMNqJ8eQ_aw5poZUGxt1Oa2jFmZQONnQtzvpNBUGiWJ7ZtY32XO7qS8VBrcVrOhK2t8_Pt094i24eE_hy20mW7VfxZbIQdD980Z6RHQ-IPJ_OaLM7uRFW68G3cHxh3-lt3bL9c2XkQrGNVdJQzpd5NlR6DJdaaj-ML8yEY6ejliRwXoQl1qgWAXc6eCIAAzQDOuvv1AjYmABd6TC8IUexMbfoVsJCR-x1Ft2W0euIgvmd80ichlJL4KgfScK_igpOEg"
   },
+  "discussions_and_forums": [
+   {
+    "answers": [
+     {
+      "extensions": [
+       "Top answer",
+       "482 votes",
+       "a week ago"
+      ],
+      "link": "https://www.reddit.com/r/IndiaTech/comments/1whlgyt/do_you_know_what_just_changed_with_upi_in_india/pa49cqb/"
+     },
+     {
+      "extensions": [
+       "143 votes",
+       "a week ago"
+      ],
+      "link": "https://www.reddit.com/r/IndiaTech/comments/1whlgyt/do_you_know_what_just_changed_with_upi_in_india/pa4bodk/"
+     },
+     {
+      "extensions": [
+       "60 votes",
+       "a week ago"
+      ],
+      "link": "https://www.reddit.com/r/IndiaTech/comments/1whlgyt/do_you_know_what_just_changed_with_upi_in_india/pa4dbt1/"
+     }
+    ],
+    "date": "1 week ago",
+    "extensions": [
+     "r/IndiaTech",
+     "210+ comments"
+    ],
+    "link": "https://www.reddit.com/r/IndiaTech/comments/1whlgyt/do_you_know_what_just_changed_with_upi_in_india/",
+    "source": "Reddit",
+    "title": "Do you know what just changed with UPI in India?"
+   },
+   {
+    "answers": [
+     {
+      "link": "https://www.linkedin.com/posts/karuna-sharma-a5909620a_upi-npci-fintech-activity-7357281627493879810-w4hQ"
+     }
+    ],
+    "date": "1 year ago",
+    "extensions": [
+     "Karuna Sharma",
+     "30+ reactions"
+    ],
+    "link": "https://www.linkedin.com/posts/karuna-sharma-a5909620a_upi-npci-fintech-activity-7357281627493879810-w4hQ",
+    "source": "LinkedIn",
+    "title": "New UPI Rules Are Now Live — August 1, 2025 Onwards | Karuna Sharma"
+   },
+   {
+    "answers": [
+     {
+      "link": "https://www.linkedin.com/posts/laxmilalwani_upi-fintechindia-digitalpayments-activity-7355615950827675651-rxjA"
+     }
+    ],
+    "date": "1 year ago",
+    "extensions": [
+     "Laxmi Lalwani",
+     "10+ reactions"
+    ],
+    "link": "https://www.linkedin.com/posts/laxmilalwani_upi-fintechindia-digitalpayments-activity-7355615950827675651-rxjA",
+    "source": "LinkedIn",
+    "title": "🔔 Major UPI Changes Coming from 1st August 2025! | Laxmi Lalwani"
+   }
+  ],
   "inline_videos": [
    {
-    "channel": "NDTV",
-    "date": "قبل 16 ساعة",
-    "duration": "3:07",
-    "link": "https://www.youtube.com/watch?v=v_22CwrR0Yk",
+    "channel": "Organiser Weekly",
+    "date": "1 week ago",
+    "duration": "10:18",
+    "link": "https://www.youtube.com/watch?v=CoQwnX1R-Ao",
     "platform": "YouTube",
     "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRD6sABVqpl0Ml2P8tnFojBUMnrqIZCAXU6rw",
-    "thumbnail": "https://serpapi.com/searches/6aafcb5e9df9ddb62ad6bdbf/images/NWrYfpPHVDLcHg_ZNVL6HEcKbeUpdPmEvg7FA9kUR74.jpeg",
-    "title": "New UPI Rules Explained: Will You Now Have to Pay More?"
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSFAE8LpLQqUff2ceGw09-8lH3EdBRaNOv4-g",
+    "snippet": "UPI payments remain free for customers & P2P transfers. Merchants pay 0.4% MDR on transactions over ₹2,000, capped at ₹300.",
+    "thumbnail": "https://serpapi.com/searches/6ab98b510d0b29496fb538b1/images/ipiN9dw7f81uIQYu3rpHnrgut44IYO9QkC1aQeStEGA.jpeg",
+    "title": "UPI Payments No Longer Free? New Rules, Charges & ..."
    },
    {
-    "channel": "DD India",
-    "date": "قبل 3 أيام",
-    "duration": "4:24",
-    "link": "https://www.youtube.com/watch?v=jvgQ-tVpPvY",
-    "platform": "YouTube",
+    "channel": "The Hawk",
+    "date": "5 days ago",
+    "duration": "0:52",
+    "link": "https://www.facebook.com/thehawk/videos/new-upi-rule-to-come-into-effect-from-october-15-big-update-for-digital-payments/1087544213665595/",
+    "platform": "Facebook",
     "position": 2,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ4AVIbKwsMD2IjtCiHCoCgjnYPdijlkXxW4A",
-    "thumbnail": "https://serpapi.com/searches/6aafcb5e9df9ddb62ad6bdbf/images/XeCY0ljOKIB-IKRmiaAZdfVi2ia8YSnU6qzl0Dsycw8.jpeg",
-    "title": "UPI Payments: New MDR Rules Explained for Consumers"
-   },
-   {
-    "channel": "DD India",
-    "date": "قبل يومين (2)",
-    "duration": "26:19",
-    "link": "https://www.youtube.com/watch?v=z-sMvWDrwiU",
-    "platform": "YouTube",
-    "position": 3,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRZ0qu4dlNDUr4Ivo6LFLNuITZYgqGIos7EGg",
-    "thumbnail": "https://serpapi.com/searches/6aafcb5e9df9ddb62ad6bdbf/images/SpvMXfgVvOAcs3urMdoPWIUSyOMjmHwOBUOyYFmYxyA.jpeg",
-    "title": "New UPI MDR Rule from Oct 15 | All you need to know about ..."
+    "thumbnail": "https://serpapi.com/searches/6ab98b510d0b29496fb538b1/images/c9UPc1R0jokDCrGwoMdZhD2CYXVqU8xoNBhGipHYgag.jpeg",
+    "title": "New UPI Rule to Come Into Effect From October 15"
    },
    {
     "channel": "Firstpost",
-    "date": "قبل 3 أيام",
-    "duration": "9:30",
-    "link": "https://www.youtube.com/watch?v=pgi_U-IHFN4",
-    "platform": "YouTube",
+    "date": "1 week ago",
+    "duration": "1:18",
+    "link": "https://www.facebook.com/firstpostin/videos/new-upi-mdr-rule-5-shocking-things-you-need-to-know-before-your-next-paymentindi/1235726425386757/",
+    "platform": "Facebook",
+    "position": 3,
+    "thumbnail": "https://serpapi.com/searches/6ab98b510d0b29496fb538b1/images/C2R7AglD3hE0XSeBHE4yIlb8CN6hQXV0tqcqAq1mybU.jpeg",
+    "title": "New UPI MDR Rule: 5 Shocking Things You Need to Know ..."
+   },
+   {
+    "channel": "JK News Today",
+    "date": "1 week ago",
+    "duration": "3:49",
+    "link": "https://www.facebook.com/jknewstoday/posts/big-upi-rule-change-coming-from-october-15-jk-news-today/1520546056771381/",
+    "platform": "Facebook",
     "position": 4,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR4KSRChMOGp5hsE5jYNzqAOe2d68wnzGBsWg",
-    "thumbnail": "https://serpapi.com/searches/6aafcb5e9df9ddb62ad6bdbf/images/S64xdyhtC3H7sK-sxrov4fo4-AXIw0ibRaM6eBxaaHw.jpeg",
-    "title": "New UPI MDR Rule: Are Your UPI Payments About to Cost ..."
+    "thumbnail": "https://serpapi.com/searches/6ab98b510d0b29496fb538b1/images/6tg9AtfV47edDzcQSgIkOcW4mO1_U5edV-9n-WVBRsU.jpeg",
+    "title": "Big UPI Rule Change Coming From October 15 | JK News Today"
    }
   ],
   "organic_results": [
    {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "What are the new UPI rules in 2026? · Balance checks are limited per app to 50 per day · List account calls for linked bank accounts are capped ...",
-      "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAADQBACdASocABwAPrkurlcnIacnG_DgFwlAGRMGSigc5fZ-DJ42ZZVoApRwwv0c4AD-9-gZQgnC-mfBo2uOrTmwS0gZVUtHNUr5E-5rJdrLAmfrtqGnef4ph9Szb_aFvQnox8yW1tzFo3jKaaEmXf5gKrJ6oAA4RVHXMiX_MPFf3KbnsAAAAA.webp",
-      "source_info_link": "https://www.pinelabs.com/blog/upi-transaction-new-rules-complete-guide-for-2026"
-     }
-    },
-    "date": "06‏/02‏/2026",
-    "displayed_link": "https://www.pinelabs.com › Blog",
-    "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAADQBACdASocABwAPrkurlcnIacnG_DgFwlAGRMGSigc5fZ-DJ42ZZVoApRwwv0c4AD-9-gZQgnC-mfBo2uOrTmwS0gZVUtHNUr5E-5rJdrLAmfrtqGnef4ph9Szb_aFvQnox8yW1tzFo3jKaaEmXf5gKrJ6oAA4RVHXMiX_MPFf3KbnsAAAAA.webp",
-    "link": "https://www.pinelabs.com/blog/upi-transaction-new-rules-complete-guide-for-2026",
-    "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFed9bw5mBKcJ5PVvjz5QyURF_y-BOybgTfBIadA3KQMT-bkBgPT50hZildX74J56OazXbR0orYvCXqEC-I2H95zh-mIpAtjk7O_gXkf6M3COtluMPu6jwl3-FFPfvNtI-fmJ2YpXhD1_1Xm1EOQNKy_Lc8a0rUI-BX3oHAuL1IcS2R8&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40QFnoECCsQAQ&uoh=1",
-    "snippet": "What are the new UPI rules in 2026? · Balance checks are limited per app to 50 per day · List account calls for linked bank accounts are capped ...",
-    "snippet_highlighted_words": [
-     "Balance checks are limited per app to 50 per day"
-    ],
-    "source": "Pine Labs",
-    "title": "UPI transaction new rules: Complete guide for 2026"
-   },
-   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmNfeHZiekdMVkFkb2hDWHVoUXFqak9uOVllMHA4X2dtQzQwdzF1Y1NwUklsWWxhRW1xa29WRGg2TEN6eXI4eFlkeHQ1eGZVdzFKcHR3dXgwSjZyODFPNElGMW92c0UzNGNnNzBsc240R3hUZm9sMkhRWVN1cVNmYWhaeEw5dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmNfeHZiekdMVkFkb2hDWHVoUXFqak9uOVllMHA4X2dtQzQwdzF1Y1NwUklsWWxhRW1xa29WRGg2TEN6eXI4eFlkeHQ1eGZVdzFKcHR3dXgwSjZyODFPNElGMW92c0UzNGNnNzBsc240R3hUZm9sMkhRWVN1cVNmYWhaeEw5dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
     "about_this_result": {
      "source": {
-      "description": "Daily UPI Transaction Limits Remain Unchanged The overall daily transaction cap remains the same. Each user is allowed up to 20 UPI transactions ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
-     }
-    },
-    "displayed_link": "أكثر من 300 تفاعل · قبل سنة واحدة",
-    "duration": "1:05",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/FayeDSouzaOfficial/posts/explained-new-upi-rules-to-roll-out-from-august-1/1309558540541429/",
-    "position": 2,
-    "snippet": "Daily UPI Transaction Limits Remain Unchanged The overall daily transaction cap remains the same. Each user is allowed up to 20 UPI transactions ...",
-    "source": "Facebook · Faye D'Souza",
-    "thumbnail": "https://serpapi.com/searches/6aafcb5e9df9ddb62ad6bdbf/images/l77e8fx2YAfzzvQcyssXqCXBwYr3oxqBfhbDU_ON04s.jpeg",
-    "title": "Explained: New UPI rules to roll out from August 1."
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "India's digital payments system will see tighter security from April 1, 2026, with the Reserve Bank of India (RBI) making two-factor ...",
+      "description": "UPI New Rules 2026: Big Changes Coming From April | What Every User Must Know. @MBMVadodara2.6K likes39K views7 days ago",
       "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "displayed_link": "أكثر من 81 ألف مشاهدة · قبل 5 أشهر",
-    "duration": "2:44",
+    "displayed_link": "39.2K+ views · 1 week ago",
+    "duration": "7:11",
     "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=nbHLflG_Eyc",
-    "position": 3,
-    "snippet": "India's digital payments system will see tighter security from April 1, 2026, with the Reserve Bank of India (RBI) making two-factor ...",
-    "source": "YouTube · Business Standard",
-    "thumbnail": "https://serpapi.com/searches/6aafcb5e9df9ddb62ad6bdbf/images/l77e8fx2YAfzzvQcyssXqIjaKsAWn-uU_q59iehy92w.jpeg",
-    "title": "Explained: New digital payments rules | UPI payment | Online ...",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQuyFq-XPLAHAgCONlIhxmkzavJkLwXKTNYew"
+    "link": "https://www.youtube.com/watch?v=eZln3T8ziik",
+    "position": 1,
+    "snippet": "UPI New Rules 2026: Big Changes Coming From April | What Every User Must Know. @MBMVadodara2.6K likes39K views7 days ago",
+    "source": "YouTube · MBM News",
+    "thumbnail": "https://serpapi.com/searches/6ab98b510d0b29496fb538b1/images/83JyT5ZCOdRsGpGqTBrH46OYXdlxBfBtEst7MDBmaDk.jpeg",
+    "title": "UPI New Rules 2026: Big Changes Coming From April"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVndWNHRxeFYxd2FxUUNfemQyQzY5Wk1PQmhEVnVOMHlockRUaEhZS21CTVVKTDZIODBLUVZSSlpUQzRPYW5jOC1zNjVlNTVuMFpIdWJwNjBEU1pDMFh3X3RCOGdrZ3JiSlN4SkVicDR5NEFuaHBfNXNsLUlSWjIxNFc2VktYZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVndWNHRxeFYxd2FxUUNfemQyQzY5Wk1PQmhEVnVOMHlockRUaEhZS21CTVVKTDZIODBLUVZSSlpUQzRPYW5jOC1zNjVlNTVuMFpIdWJwNjBEU1pDMFh3X3RCOGdrZ3JiSlN4SkVicDR5NEFuaHBfNXNsLUlSWjIxNFc2VktYZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_this_result": {
+     "source": {
+      "description": "UPI Payment Free or Not? | New UPI Rules Explained | UPI Charges &amp; Latest Updates | By Shubham Sharma Sir",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "420+ views · 1 week ago",
+    "duration": "10:10",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=J7aTuYfPRow",
+    "position": 2,
+    "snippet": "UPI Payment Free or Not? | New UPI Rules Explained | UPI Charges &amp; Latest Updates | By Shubham Sharma Sir",
+    "source": "YouTube · KGS IAS English",
+    "thumbnail": "https://serpapi.com/searches/6ab98b510d0b29496fb538b1/images/83JyT5ZCOdRsGpGqTBrH45lTE5ujVJ575lSFpTyA1SA.jpeg",
+    "title": "New UPI Rules Explained | By Shubham Sharma Sir | KGS IAS ...",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTc84wAs6vEq40ByO05IFQB030pZVjC6NC0qw"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZabGV0WnFuMTZubUJzbTVjTHpvajBoWEsydGFFR1gxRndudU5OcWoyYm1FeXlTSkk0M19QSHptNUVFUnp3Y3lmS0FxLVI4UmNfdGRNeTBUYWlZVXFTQ2hXVUVnWVJTYTF3WnNYanlEbkdIbXBnSExOSEc3TGRhSHlIb0VoRDRnMDVfVzR2Q0ROOHlQdmllWE9EVEt3eWNudXpiM0tKOEp4aXpURlFqeU1TSUZPaUlNQnlpTHM1MVFJMThsTDZROXRVTEtTVklkeXYwakN1eDZLMVowd2taNXpsY0FaclRlMXlza1EzeWE1aVY3ckV4MlVZbGkxaFZlaFdjVU5laUxKQnRZcjJrWkdFeUxlOHpLEgQaAggAGtMIEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQK8ICAAQABgAIAAqHgoEd2hhdBVvmYA_GgV3aGF0cxoFd2hpY2gaA3dobyoKCgNhcmUVAAAAACoKCgN0aGUVAAAAACpgCgZsYXRlc3QVAAAAABoHY3VycmVudBoFZmluYWwaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaEnJlY2VudCBkZXZlbG9wbWVudBoSbGF0ZXN0ZGV2ZWxvcG1lbnRzKr8BCgxkZXZlbG9wbWVudHMVAAAAABoMYWNoaWV2ZW1lbnRzGgxhZHZhbmNlbWVudHMaCGFkdmFuY2VzGgdjaGFuZ2VzGgtkZXZlbG9wbWVudBoLaW5ub3ZhdGlvbnMaBG5ld3MaB25ld3Mgb24aEnJlY2VudCBkZXZlbG9wbWVudBoKdGVjaG5vbG9neRoGdHJlbmRzGhJsYXRlc3RkZXZlbG9wbWVudHMaEWl2O3A7ZGV2ZWxvcG1lbnRzGgNuZXcqCQoCaW4VAAAAACoUCgN1cGkVTjjGQBoIaXY7cDt1cGkqjAEKCnJlZ3VsYXRpb24VAAAAABoJZGlyZWN0aXZlGgRsYXdzGgRyZWdzGghyZWd1bGF0ZRoJcmVndWxhdGVkGgpyZWd1bGF0aW5nGgtyZWd1bGF0aW9ucxoKcmVndWxhdG9yeRoEcnVsZRoFcnVsZXMaD2l2O3A7cmVndWxhdGlvbhoKZ3VpZGVsaW5lczKmAi9nb3RvP3VybD1DQUVTMEFFQjZ6c3dGWmxldFpxbjE2bm1Cc201Y0x6b2owaFhLMnRhRUdYMUZ3bnVOTnFqMmJtRXl5U0pJNDNfUEh6bTVFRVJ6d2N5ZktBcS1SOFJjX3RkTXkwVGFpWVVxU0NoV1VFZ1lSU2Exd1pzWGp5RG5HSG1wZ0hMTkhHN0xkYUh5SG9FaEQ0ZzA1X1c0dkNETjh5UHZpZVhPRFRLd3ljbnV6YjNLSjhKeGl6VEZRanlNU0lGT2lJTUJ5aUxzNTFRSTE4bEw2UTl0VUxLU1ZJZHl2MGpDdXg2SzFaMHdrWjV6bGNBWnJUZTF5c2tRM3lhNWlWN3JFeDJVWWxpMWhWZWhXY1VOZWlMSkJ0WXIya1pHRXlMZTh6SzpMPGI-VVBJPC9iPiBDaGFyZ2VzIDIwMjYgRXhwbGFpbmVkOiBQMlAgRnJlZSwgTURSIDxiPlJ1bGVzPC9iPiAmYW1wOyBDTEFUIC4uLkKOAVRoaXMgdmlkZW8gcHJvdmlkZXMgYSBkZXRhaWxlZCBleHBsYW5hdGlvbiBvZiB0aGUgPGI-bmV3IFVQSSBjaGFyZ2VzIGFuZCBydWxlczwvYj4gZm9yIHRoZSAyMDI2IGN1cnJlbnQgYWZmYWlycyBleGFtcywgc3VjaCBhcyBDTEFUIGFuZCBBSUxFVC5KA3RoZUoDYXJlSgJpblIDbmV3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZabGV0WnFuMTZubUJzbTVjTHpvajBoWEsydGFFR1gxRndudU5OcWoyYm1FeXlTSkk0M19QSHptNUVFUnp3Y3lmS0FxLVI4UmNfdGRNeTBUYWlZVXFTQ2hXVUVnWVJTYTF3WnNYanlEbkdIbXBnSExOSEc3TGRhSHlIb0VoRDRnMDVfVzR2Q0ROOHlQdmllWE9EVEt3eWNudXpiM0tKOEp4aXpURlFqeU1TSUZPaUlNQnlpTHM1MVFJMThsTDZROXRVTEtTVklkeXYwakN1eDZLMVowd2taNXpsY0FaclRlMXlza1EzeWE1aVY3ckV4MlVZbGkxaFZlaFdjVU5laUxKQnRZcjJrWkdFeUxlOHpLEgQaAggAGtMIEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQK8ICAAQABgAIAAqHgoEd2hhdBVvmYA_GgV3aGF0cxoFd2hpY2gaA3dobyoKCgNhcmUVAAAAACoKCgN0aGUVAAAAACpgCgZsYXRlc3QVAAAAABoHY3VycmVudBoFZmluYWwaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaEnJlY2VudCBkZXZlbG9wbWVudBoSbGF0ZXN0ZGV2ZWxvcG1lbnRzKr8BCgxkZXZlbG9wbWVudHMVAAAAABoMYWNoaWV2ZW1lbnRzGgxhZHZhbmNlbWVudHMaCGFkdmFuY2VzGgdjaGFuZ2VzGgtkZXZlbG9wbWVudBoLaW5ub3ZhdGlvbnMaBG5ld3MaB25ld3Mgb24aEnJlY2VudCBkZXZlbG9wbWVudBoKdGVjaG5vbG9neRoGdHJlbmRzGhJsYXRlc3RkZXZlbG9wbWVudHMaEWl2O3A7ZGV2ZWxvcG1lbnRzGgNuZXcqCQoCaW4VAAAAACoUCgN1cGkVTjjGQBoIaXY7cDt1cGkqjAEKCnJlZ3VsYXRpb24VAAAAABoJZGlyZWN0aXZlGgRsYXdzGgRyZWdzGghyZWd1bGF0ZRoJcmVndWxhdGVkGgpyZWd1bGF0aW5nGgtyZWd1bGF0aW9ucxoKcmVndWxhdG9yeRoEcnVsZRoFcnVsZXMaD2l2O3A7cmVndWxhdGlvbhoKZ3VpZGVsaW5lczKmAi9nb3RvP3VybD1DQUVTMEFFQjZ6c3dGWmxldFpxbjE2bm1Cc201Y0x6b2owaFhLMnRhRUdYMUZ3bnVOTnFqMmJtRXl5U0pJNDNfUEh6bTVFRVJ6d2N5ZktBcS1SOFJjX3RkTXkwVGFpWVVxU0NoV1VFZ1lSU2Exd1pzWGp5RG5HSG1wZ0hMTkhHN0xkYUh5SG9FaEQ0ZzA1X1c0dkNETjh5UHZpZVhPRFRLd3ljbnV6YjNLSjhKeGl6VEZRanlNU0lGT2lJTUJ5aUxzNTFRSTE4bEw2UTl0VUxLU1ZJZHl2MGpDdXg2SzFaMHdrWjV6bGNBWnJUZTF5c2tRM3lhNWlWN3JFeDJVWWxpMWhWZWhXY1VOZWlMSkJ0WXIya1pHRXlMZTh6SzpMPGI-VVBJPC9iPiBDaGFyZ2VzIDIwMjYgRXhwbGFpbmVkOiBQMlAgRnJlZSwgTURSIDxiPlJ1bGVzPC9iPiAmYW1wOyBDTEFUIC4uLkKOAVRoaXMgdmlkZW8gcHJvdmlkZXMgYSBkZXRhaWxlZCBleHBsYW5hdGlvbiBvZiB0aGUgPGI-bmV3IFVQSSBjaGFyZ2VzIGFuZCBydWxlczwvYj4gZm9yIHRoZSAyMDI2IGN1cnJlbnQgYWZmYWlycyBleGFtcywgc3VjaCBhcyBDTEFUIGFuZCBBSUxFVC5KA3RoZUoDYXJlSgJpblIDbmV3IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Discover the key updates in UPI rules 2025, including biometric authentication, multi-signatory accounts, AutoPay, AI support, ...",
-      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABwBQCdASobABwAPtEutFooIagoGAEAGglmAMTZi_ThIxm7HZ5UCRWAarVoeZYppWwMeMtkAP72EQ9K8kGNx-QhDHiqwt8Rmq1novQNmGjLl-Ym0jIRmrfS04vDFRYxZ0tWona-SBywxRej_Xvb81m_YpKsWcjtbzZDxvM1kseneO5ofAt_B9kH3Pm9b3y1V85jPazbmGk90m5xUPEs7CQ7i5urxelPP1yYcjBqCXTzAaDQAAA.webp",
-      "source_info_link": "https://www.lawrbit.com/article/what-is-new-in-upi-rules-2025-key-changes-you-should-know/"
+      "description": "This video provides a detailed explanation of the new UPI charges and rules for the 2026 current affairs exams, such as CLAT and AILET.",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/MaansarovarLawCentre/videos/-upi-charges-will-you-have-to-paythere-has-been-massive-confusion-around-the-new/1852504796167089/"
      }
     },
-    "date": "07‏/11‏/2025",
-    "displayed_link": "https://www.lawrbit.com › article",
-    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABwBQCdASobABwAPtEutFooIagoGAEAGglmAMTZi_ThIxm7HZ5UCRWAarVoeZYppWwMeMtkAP72EQ9K8kGNx-QhDHiqwt8Rmq1novQNmGjLl-Ym0jIRmrfS04vDFRYxZ0tWona-SBywxRej_Xvb81m_YpKsWcjtbzZDxvM1kseneO5ofAt_B9kH3Pm9b3y1V85jPazbmGk90m5xUPEs7CQ7i5urxelPP1yYcjBqCXTzAaDQAAA.webp",
-    "link": "https://www.lawrbit.com/article/what-is-new-in-upi-rules-2025-key-changes-you-should-know/",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFZUh7vTRBm4x_bs1ClmxmAk5rRPdB5rN0D7zDC-KEBfg4PXG3KN2UlR6Z1vUyFRE0we-z6a-zuPq3Ku4e_EsBxmJTe0AhNboOnl9UcFUtDFBf7dVX0dw_dYIeCWdtH_-KXdePrHYGaKhYV7KH-K48kFKUuQ5KB7hOLSNpQ8yG4KT5QvTBAWmHXpkUonJ-Q&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40QFnoECDYQAQ&uoh=1",
-    "snippet": "Discover the key updates in UPI rules 2025, including biometric authentication, multi-signatory accounts, AutoPay, AI support, ...",
-    "snippet_highlighted_words": [
-     "biometric authentication, multi-signatory accounts, AutoPay, AI support"
-    ],
-    "source": "Lawrbit",
-    "title": "What's New in UPI Rules 2025: Key Changes You Should ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "Know the latest UPI new rules for 2026, including transaction limits, payment changes, security updates, and important guidelines for users.",
-      "icon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAAAQCgCdASogACAAPrUurVanIacnG_DgFolsAJ0yhH4mgr2e2A58Dz4N8A3kKzcsqJEDsBrAxkXNE-9eg7-wBTzRsuSOQpgx_DtArK1Cu6JrJ_cxaHqA8D5uAAD--LkS7QHQEXHiYctgykZd9UVC07MjAf5Ml3DqXhwaeZl7KZpG78jWKeJkIsENzfS4sWu2iHXPjTl3DBFvGdazKJm0S5wRFQc27dL0IzoxFm54p_fqIlfpvqcjoCb-pUDOUJUvavgIOl-ZQHszRXTlCR-XusByRaeGv6VAxsb7BADw2rJtgCGKaHRZXPvaEpn98ipOdsNIn2-J25w13es9BPXM0uPNN7Um41tts9KOZO0a2bvVMuLOyjF2CasT3OubpOzrfQTxumnWZQWmlMPPhrV6DvD5N6T8x-AXrrZbBQxQ60nbj1GwNX-KfKIc84JcIAE-1H34kI-mlYl5vGfINv495FM3IQ3ESwnQwgapMhVD1_s1_IonH82z4XxG5r8ZiPUVe5HZLyLhLSauY8SC4O47c_ZM9mhrRmTwliuUOAMnby63eKJga6WNvWkRi705_7KfhA0C2CLvR8vaextdKpdKdH0vky_5xgAA.webp",
-      "source_info_link": "https://www.smctradeonline.com/blog/news/new-upi-rules"
-     }
-    },
-    "date": "قبل 3 أيام",
-    "displayed_link": "https://www.smctradeonline.com › news",
-    "favicon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAAAQCgCdASogACAAPrUurVanIacnG_DgFolsAJ0yhH4mgr2e2A58Dz4N8A3kKzcsqJEDsBrAxkXNE-9eg7-wBTzRsuSOQpgx_DtArK1Cu6JrJ_cxaHqA8D5uAAD--LkS7QHQEXHiYctgykZd9UVC07MjAf5Ml3DqXhwaeZl7KZpG78jWKeJkIsENzfS4sWu2iHXPjTl3DBFvGdazKJm0S5wRFQc27dL0IzoxFm54p_fqIlfpvqcjoCb-pUDOUJUvavgIOl-ZQHszRXTlCR-XusByRaeGv6VAxsb7BADw2rJtgCGKaHRZXPvaEpn98ipOdsNIn2-J25w13es9BPXM0uPNN7Um41tts9KOZO0a2bvVMuLOyjF2CasT3OubpOzrfQTxumnWZQWmlMPPhrV6DvD5N6T8x-AXrrZbBQxQ60nbj1GwNX-KfKIc84JcIAE-1H34kI-mlYl5vGfINv495FM3IQ3ESwnQwgapMhVD1_s1_IonH82z4XxG5r8ZiPUVe5HZLyLhLSauY8SC4O47c_ZM9mhrRmTwliuUOAMnby63eKJga6WNvWkRi705_7KfhA0C2CLvR8vaextdKpdKdH0vky_5xgAA.webp",
-    "link": "https://www.smctradeonline.com/blog/news/new-upi-rules",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVQCQQ-wztzygFX2kah_Mar1HH5BhpexLum3LKReEUWpRRnO8umw5gSJpmmwA4f1rZ-uby_Ui5MihfkqjVwqy3A1P-mA3s40xpSGQURyqtyLElboNNolTNtOWoyEl5JnT8clPbqdBfH_6_&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40QFnoECDQQAQ&uoh=1",
-    "snippet": "Know the latest UPI new rules for 2026, including transaction limits, payment changes, security updates, and important guidelines for users.",
-    "snippet_highlighted_words": [
-     "transaction limits, payment changes, security updates, and important guidelines"
-    ],
-    "source": "SMC Global Securities",
-    "title": "New UPI Rules 2026: What Changes for Users & Merchants?"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "Starting in April 2026, UPI transactions will need to implement two-factor authentication that includes a minimum of one dynamic security ...",
-      "icon": "https://serpapi.com/images/i/UklGRswBAABXRUJQVlA4IMABAAAwCACdASogACAAPtE-tFooIigoFAEAGglsAMNCIz3k98A1qjF_EBpApjfjr-mt-AGz_l8rYn-CKX2mxHJ6cgWJ6v7quHU4gdOV4AD-94IWQu5S54nPeAfBhbyBCswYEXuJpdKRLY_dt6iWMNmVPVbysfejFolV1UnIEVhwCz5G2QIflqjv3Bj1tZvY8Ox_POEpisLCPWdpNt6DVjoUp9uY-rsZBgnWCXa1C7vI2rhZQA__hNNUA0ijhnA194OI0cDyWVi3CeLoErphd1x7N5z1ZLyn9t7pumg4P-5tkiqKzD065yBALpqkHNlaaGlLFTntvuO5qtE7sKRelj_z8ad1Fl51HIs-4mMrzR0KKOxHJj-BZ71xO8zJZ-Y_f5Z9X6WIW7i7JUOc19j_JUKofsnwIuj__6h75dr8dJPbhpipSLMzRimCT1SYu4rhxH7yKf9jYoeaj9omzp89aCd7HYUNb06xde_zNYrfc5yKZ_21uuckPWnqk49VfBuOL2RGtLB4YEi4kga9f_6jf7Cd75YbFi2_fd_OxuwTPx56HLkbSAzwddiz_DjnppUsjyHuIRLulz__Egv3-hGDvwtpAAAA.webp",
-      "source_info_link": "https://www.oxigenwallet.com/upi/new-rules/"
-     }
-    },
-    "date": "12‏/01‏/2026",
-    "displayed_link": "https://www.oxigenwallet.com › upi",
-    "favicon": "https://serpapi.com/images/i/UklGRswBAABXRUJQVlA4IMABAAAwCACdASogACAAPtE-tFooIigoFAEAGglsAMNCIz3k98A1qjF_EBpApjfjr-mt-AGz_l8rYn-CKX2mxHJ6cgWJ6v7quHU4gdOV4AD-94IWQu5S54nPeAfBhbyBCswYEXuJpdKRLY_dt6iWMNmVPVbysfejFolV1UnIEVhwCz5G2QIflqjv3Bj1tZvY8Ox_POEpisLCPWdpNt6DVjoUp9uY-rsZBgnWCXa1C7vI2rhZQA__hNNUA0ijhnA194OI0cDyWVi3CeLoErphd1x7N5z1ZLyn9t7pumg4P-5tkiqKzD065yBALpqkHNlaaGlLFTntvuO5qtE7sKRelj_z8ad1Fl51HIs-4mMrzR0KKOxHJj-BZ71xO8zJZ-Y_f5Z9X6WIW7i7JUOc19j_JUKofsnwIuj__6h75dr8dJPbhpipSLMzRimCT1SYu4rhxH7yKf9jYoeaj9omzp89aCd7HYUNb06xde_zNYrfc5yKZ_21uuckPWnqk49VfBuOL2RGtLB4YEi4kga9f_6jf7Cd75YbFi2_fd_OxuwTPx56HLkbSAzwddiz_DjnppUsjyHuIRLulz__Egv3-hGDvwtpAAAA.webp",
-    "link": "https://www.oxigenwallet.com/upi/new-rules/",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVZs6zPlgljGZqWIrSArdb2YvyjUOxuOXFLorXZUfqSRITyNnlZZkoPGJNmKZP9WsR26exCctc_bUElK8lU-arJPaXJovFCpQOsi0rxPeKJzQvYPhbe9dq3DTL6eKuMQ&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40QFnoECDUQAQ&uoh=1",
-    "snippet": "Starting in April 2026, UPI transactions will need to implement two-factor authentication that includes a minimum of one dynamic security ...",
-    "snippet_highlighted_words": [
-     "UPI transactions will need to implement two-factor authentication"
-    ],
-    "source": "Oxigen Wallet",
-    "title": "UPI Payment New Rules (2026) – Transaction Limits & ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "Beginning August 1, 2025, a new set of UPI rules will come into effect. These new rules will further enhance system performance and reduce fraud ...",
-      "icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAADwCACdASocABwAPtEutFooIagoGAEAGglsALElQQs_xTWD4_xQBz5HsRfcB7LmYAPwDkNPT_QA_TNbOwb-CJjMIUjkWjdw3tsaYcLQxwIAAAD-8Lee0_wmr93pmPkjtmqi9q7vEi052opGqa5VXdszzO-hseuX5Zn0w-45QBf3neI-bIHaXlY2HY2n7vzbHLwqrpjCrzmR7os-PKXagnP0GfEI-liymLWPduazBp1Nvb5-1INnSMArozf57__lzF7mDjBGDs_z_Lk9T062uv34klj5qju1euoAuqN2_X_tO6Hh0LwAxF07Ry-kNn7CS2GMmnvj7tu3YkfJnLmIKw8uoC36q6bVP5UVw0jKgdbl2ZC4I5_W5wAOT8_dYV5Y860oMSgalHgn_Xruk66Rso10arcv1gkZyZYXk1-e6FIF7UGSBnQiJGIxpaBPCLswSaR8_VgdGEByXJM7euH8wbJcDhbmmr__y5hfZwhXB2MonRf84AoTYK2ow35nl1Nn_83s6VqhulTSpofAAAA.webp",
-      "source_info_link": "https://indianexpress.com/article/india/upi-new-rules-from-august-1-all-you-need-to-know-10162121/"
-     }
-    },
-    "date": "31‏/07‏/2025",
-    "displayed_link": "https://indianexpress.com › India",
-    "favicon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAADwCACdASocABwAPtEutFooIagoGAEAGglsALElQQs_xTWD4_xQBz5HsRfcB7LmYAPwDkNPT_QA_TNbOwb-CJjMIUjkWjdw3tsaYcLQxwIAAAD-8Lee0_wmr93pmPkjtmqi9q7vEi052opGqa5VXdszzO-hseuX5Zn0w-45QBf3neI-bIHaXlY2HY2n7vzbHLwqrpjCrzmR7os-PKXagnP0GfEI-liymLWPduazBp1Nvb5-1INnSMArozf57__lzF7mDjBGDs_z_Lk9T062uv34klj5qju1euoAuqN2_X_tO6Hh0LwAxF07Ry-kNn7CS2GMmnvj7tu3YkfJnLmIKw8uoC36q6bVP5UVw0jKgdbl2ZC4I5_W5wAOT8_dYV5Y860oMSgalHgn_Xruk66Rso10arcv1gkZyZYXk1-e6FIF7UGSBnQiJGIxpaBPCLswSaR8_VgdGEByXJM7euH8wbJcDhbmmr__y5hfZwhXB2MonRf84AoTYK2ow35nl1Nn_83s6VqhulTSpofAAAA.webp",
-    "link": "https://indianexpress.com/article/india/upi-new-rules-from-august-1-all-you-need-to-know-10162121/",
-    "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFbn8CruW2YzjRzPDyrsDivqASutoe_rZFoTlQwC37khQs_Oaxes3em8-UrdpKk_fEpHZ6pVcdIBAuHvqIIm9e5GZ0SAR0mAni6iPQKvdB1LqaXB03PmbvbcUnwwidq3bYf5CdWmRbbyopKhX4JFppJVpLt4IJy_dEjvMqCdxO6SyMsyZ_kCJdH7gdHe2uG3QfJuih6xo&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40QFnoECDMQAQ&uoh=1",
-    "snippet": "Beginning August 1, 2025, a new set of UPI rules will come into effect. These new rules will further enhance system performance and reduce fraud ...",
-    "snippet_highlighted_words": [
-     "Beginning August 1, 2025, a new set of UPI rules will come into effect"
-    ],
-    "source": "The Indian Express",
-    "title": "New UPI rules from today: All you need to know | India News"
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "UPI is evolving. But what really changes for you? Good news: Most UPI payments remain unaffected. The new MDR framework impacts only a limited ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
-     }
-    },
-    "displayed_link": "أكثر من 20 تفاعل · قبل 3 أيام",
-    "duration": "3:29",
+    "displayed_link": "1 week ago",
     "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/SansadTelevision/videos/upi-is-evolving-but-what-really-changes-for-yougood-news-most-upi-payments-remai/1551746416966783/",
-    "position": 8,
-    "snippet": "UPI is evolving. But what really changes for you? Good news: Most UPI payments remain unaffected. The new MDR framework impacts only a limited ...",
-    "source": "Facebook · Sansad TV",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZk4iM9GfAwyEufpa9uLFzV_SSWoL-qeoR8GWf0Me6ATBKSEeLCxoyIw&s",
-    "title": "UPI is evolving. But what really changes for you? Good news ..."
+    "link": "https://www.facebook.com/MaansarovarLawCentre/videos/-upi-charges-will-you-have-to-paythere-has-been-massive-confusion-around-the-new/1852504796167089/",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0AEB6zswFZletZqn16nmBsm5cLzoj0hXK2taEGX1FwnuNNqj2bmEyySJI43_PHzm5EERzwcyfKAq-R8Rc_tdMy0TaiYUqSChWUEgYRSa1wZsXjyDnGHmpgHLNHG7LdaHyHoEhD4g05_W4vCDN8yPvieXODTKwycnuzb3KJ8JxizTFQjyMSIFOiIMByiLs51QI18lL6Q9tULKSVIdyv0jCux6K1Z0wkZ5zlcAZrTe1yskQ3ya5iV7rEx2UYli1hVehWcUNeiLJBtYr2kZGEyLe8zK&ved=2ahUKEwis89fw2o-XAxWp48kDHcGjDeEQFnoECDIQAQ&uoh=1",
+    "snippet": "This video provides a detailed explanation of the new UPI charges and rules for the 2026 current affairs exams, such as CLAT and AILET.",
+    "snippet_highlighted_words": [
+     "new UPI charges and rules"
+    ],
+    "source": "Facebook · Maansarovar Law Centre",
+    "title": "UPI Charges 2026 Explained: P2P Free, MDR Rules & ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZXQ01SWHV1LVloQkhHMXVtUzNFYno3RXRTdmpkbUtROFZ6ZDJfSENWSmc0Y3Y1ME9aN1NaRGZuVkhOTGlOQl94OGRyMlZzbUd2QlRlMUQtQVlldHc2VlpUbE1wTVp5MnNLSHdBejd5NVJjMWJ6QTJRVmdkamk3bUtwaFY4OHZPYTA0UG00dFlOcE5mWktVbnVtellKamNRdmN5MHJWM3ZCY2RualQtU3N4QTNyQnhoX0FKT1NJQzIycklPSk4wckdRZkpLZ2dubVgzbnB1SlViRlRIeFNKN0ZEMl96ajcxNnNwNnZjNW9XV3VYR1M5TVViU0V2aUswUGxvR0RRXzk4SXJmbzVtMVc4URIEGgIIABrcCBIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC4CAgAEAAYACAAKh4KBHdoYXQVBOrUPhoFd2hhdHMaBXdoaWNoGgN3aG8qCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqYAoGbGF0ZXN0FTu89z0aB2N1cnJlbnQaBWZpbmFsGgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GhJyZWNlbnQgZGV2ZWxvcG1lbnQaEmxhdGVzdGRldmVsb3BtZW50cyq_AQoMZGV2ZWxvcG1lbnRzFQAAAAAaDGFjaGlldmVtZW50cxoMYWR2YW5jZW1lbnRzGghhZHZhbmNlcxoHY2hhbmdlcxoLZGV2ZWxvcG1lbnQaC2lubm92YXRpb25zGgRuZXdzGgduZXdzIG9uGhJyZWNlbnQgZGV2ZWxvcG1lbnQaCnRlY2hub2xvZ3kaBnRyZW5kcxoSbGF0ZXN0ZGV2ZWxvcG1lbnRzGhFpdjtwO2RldmVsb3BtZW50cxoDbmV3KgkKAmluFQAAAAAqFAoDdXBpFWASi0AaCGl2O3A7dXBpKowBCgpyZWd1bGF0aW9uFYT5jTsaCWRpcmVjdGl2ZRoEbGF3cxoEcmVncxoIcmVndWxhdGUaCXJlZ3VsYXRlZBoKcmVndWxhdGluZxoLcmVndWxhdGlvbnMaCnJlZ3VsYXRvcnkaBHJ1bGUaBXJ1bGVzGg9pdjtwO3JlZ3VsYXRpb24aCmd1aWRlbGluZXMyoQIvZ290bz91cmw9Q0FFU3pBRUI2enN3RldDTVJYdXUtWWhCSEcxdW1TM0ViejdFdFN2amRtS1E4VnpkMl9IQ1ZKZzRjdjUwT1o3U1pEZm5WSE5MaU5CX3g4ZHIyVnNtR3ZCVGUxRC1BWWV0dzZWWlRsTXBNWnkyc0tId0F6N3k1UmMxYnpBMlFWZ2RqaTdtS3BoVjg4dk9hMDRQbTR0WU5wTmZaS1VudW16WUpqY1F2Y3kwclYzdkJjZG5qVC1Tc3hBM3JCeGhfQUpPU0lDMjJySU9KTjByR1FmSktnZ25tWDNucHVKVWJGVEh4U0o3RkQyX3pqNzE2c3A2dmM1b1dXdVhHUzlNVWJTRXZpSzBQbG9HRFFfOThJcmZvNW0xVzhROkxNYWpvciBGaW5hbmNpYWwgPGI-Q2hhbmdlczwvYj4gRnJvbSBKdW5lIDE6IEZyb20gPGI-VVBJPC9iPiwgQVRNcyBMaW1pdHMgLi4uQpwBMS4gPGI-VVBJIHBheW1lbnRzIGFyZSBzZXQgdG8gc2VlIHN0cm9uZ2VyIHNlY3VyaXR5IG1lYXN1cmVzIGluIDIwMjY8L2I-IGJleW9uZCBqdXN0IE9UUC1iYXNlZCB2ZXJpZmljYXRpb24uIEZvciBoaWdoLXZhbHVlIHRyYW5zYWN0aW9ucywgYXBwcyBsaWtlJm5ic3A7Li4uSgN0aGVKA2FyZUoCaW5SA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZXQ01SWHV1LVloQkhHMXVtUzNFYno3RXRTdmpkbUtROFZ6ZDJfSENWSmc0Y3Y1ME9aN1NaRGZuVkhOTGlOQl94OGRyMlZzbUd2QlRlMUQtQVlldHc2VlpUbE1wTVp5MnNLSHdBejd5NVJjMWJ6QTJRVmdkamk3bUtwaFY4OHZPYTA0UG00dFlOcE5mWktVbnVtellKamNRdmN5MHJWM3ZCY2RualQtU3N4QTNyQnhoX0FKT1NJQzIycklPSk4wckdRZkpLZ2dubVgzbnB1SlViRlRIeFNKN0ZEMl96ajcxNnNwNnZjNW9XV3VYR1M5TVViU0V2aUswUGxvR0RRXzk4SXJmbzVtMVc4URIEGgIIABrcCBIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC4CAgAEAAYACAAKh4KBHdoYXQVBOrUPhoFd2hhdHMaBXdoaWNoGgN3aG8qCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqYAoGbGF0ZXN0FTu89z0aB2N1cnJlbnQaBWZpbmFsGgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GhJyZWNlbnQgZGV2ZWxvcG1lbnQaEmxhdGVzdGRldmVsb3BtZW50cyq_AQoMZGV2ZWxvcG1lbnRzFQAAAAAaDGFjaGlldmVtZW50cxoMYWR2YW5jZW1lbnRzGghhZHZhbmNlcxoHY2hhbmdlcxoLZGV2ZWxvcG1lbnQaC2lubm92YXRpb25zGgRuZXdzGgduZXdzIG9uGhJyZWNlbnQgZGV2ZWxvcG1lbnQaCnRlY2hub2xvZ3kaBnRyZW5kcxoSbGF0ZXN0ZGV2ZWxvcG1lbnRzGhFpdjtwO2RldmVsb3BtZW50cxoDbmV3KgkKAmluFQAAAAAqFAoDdXBpFWASi0AaCGl2O3A7dXBpKowBCgpyZWd1bGF0aW9uFYT5jTsaCWRpcmVjdGl2ZRoEbGF3cxoEcmVncxoIcmVndWxhdGUaCXJlZ3VsYXRlZBoKcmVndWxhdGluZxoLcmVndWxhdGlvbnMaCnJlZ3VsYXRvcnkaBHJ1bGUaBXJ1bGVzGg9pdjtwO3JlZ3VsYXRpb24aCmd1aWRlbGluZXMyoQIvZ290bz91cmw9Q0FFU3pBRUI2enN3RldDTVJYdXUtWWhCSEcxdW1TM0ViejdFdFN2amRtS1E4VnpkMl9IQ1ZKZzRjdjUwT1o3U1pEZm5WSE5MaU5CX3g4ZHIyVnNtR3ZCVGUxRC1BWWV0dzZWWlRsTXBNWnkyc0tId0F6N3k1UmMxYnpBMlFWZ2RqaTdtS3BoVjg4dk9hMDRQbTR0WU5wTmZaS1VudW16WUpqY1F2Y3kwclYzdkJjZG5qVC1Tc3hBM3JCeGhfQUpPU0lDMjJySU9KTjByR1FmSktnZ25tWDNucHVKVWJGVEh4U0o3RkQyX3pqNzE2c3A2dmM1b1dXdVhHUzlNVWJTRXZpSzBQbG9HRFFfOThJcmZvNW0xVzhROkxNYWpvciBGaW5hbmNpYWwgPGI-Q2hhbmdlczwvYj4gRnJvbSBKdW5lIDE6IEZyb20gPGI-VVBJPC9iPiwgQVRNcyBMaW1pdHMgLi4uQpwBMS4gPGI-VVBJIHBheW1lbnRzIGFyZSBzZXQgdG8gc2VlIHN0cm9uZ2VyIHNlY3VyaXR5IG1lYXN1cmVzIGluIDIwMjY8L2I-IGJleW9uZCBqdXN0IE9UUC1iYXNlZCB2ZXJpZmljYXRpb24uIEZvciBoaWdoLXZhbHVlIHRyYW5zYWN0aW9ucywgYXBwcyBsaWtlJm5ic3A7Li4uSgN0aGVKA2FyZUoCaW5SA25ldyICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "1. UPI payments are set to see stronger security measures in 2026 beyond just OTP-based verification. For high-value transactions, apps like ...",
+      "icon": "https://serpapi.com/images/i/UklGRkwBAABXRUJQVlA4IEABAADwBgCdASocABwAPtEutFooIagoGAEAGglsAFMDUAN5LrAH4SqgB5JOoi5RmaZ_r07oHbVLd5jhfOsoDwO-Y8sAAP7-wi6KUuI__Ne3_xhiBG7vn_3_9__YBL065zn4Vj-yf_E9_lGVtf-t1xf57sf_uur0OXn5BkedJ7nmiSPt_-ZdiLH5iNHe0HKRT-1ajt4PnsF3ROv12r3lbz6BEqJUv8M2e3LJ2nIH_ydRI186OpkD5fLaS0f8bR7mtR3Efdb_0ueXoZNmszfxIVZKqmSlPZ2PVyQVGofa9ZCMe_mAnuVpN6z-CUP_fjaKMCEa7i0NGErVmjbILfdS5x9gczKhgabYfdgC0iIzQyVS44mYr95dHPgge_PTsQvgbd7uVwaFaEgo7IpT6elusFjG3pSqLcFBw0Fk_YKc8hX04rUAAA.webp",
+      "source_info_link": "https://www.ndtvprofit.com/personal-finance/major-financial-changes-from-june-1-from-upi-atms-limits-to-pan-card-rules-check-updated-norms-11573718"
+     }
+    },
+    "date": "Jun 1, 2026",
+    "displayed_link": "https://www.ndtvprofit.com › personal-finance › major-...",
+    "favicon": "https://serpapi.com/images/i/UklGRkwBAABXRUJQVlA4IEABAADwBgCdASocABwAPtEutFooIagoGAEAGglsAFMDUAN5LrAH4SqgB5JOoi5RmaZ_r07oHbVLd5jhfOsoDwO-Y8sAAP7-wi6KUuI__Ne3_xhiBG7vn_3_9__YBL065zn4Vj-yf_E9_lGVtf-t1xf57sf_uur0OXn5BkedJ7nmiSPt_-ZdiLH5iNHe0HKRT-1ajt4PnsF3ROv12r3lbz6BEqJUv8M2e3LJ2nIH_ydRI186OpkD5fLaS0f8bR7mtR3Efdb_0ueXoZNmszfxIVZKqmSlPZ2PVyQVGofa9ZCMe_mAnuVpN6z-CUP_fjaKMCEa7i0NGErVmjbILfdS5x9gczKhgabYfdgC0iIzQyVS44mYr95dHPgge_PTsQvgbd7uVwaFaEgo7IpT6elusFjG3pSqLcFBw0Fk_YKc8hX04rUAAA.webp",
+    "link": "https://www.ndtvprofit.com/personal-finance/major-financial-changes-from-june-1-from-upi-atms-limits-to-pan-card-rules-check-updated-norms-11573718",
+    "position": 4,
+    "read_more_link": "https://www.ndtvprofit.com/personal-finance/major-financial-changes-from-june-1-from-upi-atms-limits-to-pan-card-rules-check-updated-norms-11573718#:~:text=1.%20UPI%20payments%20are%20set,For%20high%2Dvalue%20transactions%2C%20apps%20like",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzAEB6zswFWCMRXuu-YhBHG1umS3Ebz7EtSvjdmKQ8Vzd2_HCVJg4cv50OZ7SZDfnVHNLiNB_x8dr2VsmGvBTe1D-AYetw6VZTlMpMZy2sKHwAz7y5Rc1bzA2QVgdji7mKphV88vOa04Pm4tYNpNfZKUnumzYJjcQvcy0rV3vBcdnjT-SsxA3rBxh_AJOSIC22rIOJN0rGQfJKggnmX3npuJUbFTHxSJ7FD2_zj716sp6vc5oWWuXGS9MUbSEviK0PloGDQ_98Irfo5m1W8Q&ved=2ahUKEwis89fw2o-XAxWp48kDHcGjDeEQFnoECDAQAQ&uoh=1",
+    "snippet": "1. UPI payments are set to see stronger security measures in 2026 beyond just OTP-based verification. For high-value transactions, apps like ...",
+    "snippet_highlighted_words": [
+     "UPI payments are set to see stronger security measures in 2026"
+    ],
+    "source": "NDTV Profit",
+    "title": "Major Financial Changes From June 1: From UPI, ATMs ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlNFdTZZVWtCekJ5NjlvY0FEc0RqdjVodlRITkVsS29IYXd5ZWY2WEt4VlFHZ2tqbEVfOXIzQkNHZjBlZFBGcGRvRF9Dbl9aaGZoS1FPb3p6dXo4MEk2THRwd2JxaHNnbVhSc0R2ZHM2QnpGbzVkY3IwdV9NMk13YWZndW13UFM1QWJ3bW5XNkIyUjBlUlhoTjBkdENkVHFSRFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlNFdTZZVWtCekJ5NjlvY0FEc0RqdjVodlRITkVsS29IYXd5ZWY2WEt4VlFHZ2tqbEVfOXIzQkNHZjBlZFBGcGRvRF9Dbl9aaGZoS1FPb3p6dXo4MEk2THRwd2JxaHNnbVhSc0R2ZHM2QnpGbzVkY3IwdV9NMk13YWZndW13UFM1QWJ3bW5XNkIyUjBlUlhoTjBkdENkVHFSRFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_this_result": {
+     "source": {
+      "description": "New UPI rules from October 15 — will this change how you use UPI? New UPI transaction rules · r/india. • 4y ago. New UPI transaction rules. 0. 5 ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+     }
+    },
+    "displayed_link": "30+ comments · 1 week ago",
+    "duration": "2:14",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/Haryana/comments/1wh2v7e/new_upi_rules/",
+    "position": 5,
+    "snippet": "New UPI rules from October 15 — will this change how you use UPI? New UPI transaction rules · r/india. • 4y ago. New UPI transaction rules. 0. 5 ...",
+    "source": "Reddit · r/Haryana",
+    "thumbnail": "https://serpapi.com/searches/6ab98b510d0b29496fb538b1/images/83JyT5ZCOdRsGpGqTBrH4xIxbDtAGA8jD2O_lL2GyRc.jpeg",
+    "title": "New upi rules : r/Haryana"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZYNkZvVWhrMjN2ZkQzazZvcHVoR2ZFMV9TZG5NTU5MOUdBcm9waUJ6cHJtV2FEblc5dW5Cc2M2YmMxSGtlM3ZsVjYybHNDbGFiX0Z1SGdvdHlrdHBnbFVZYU8wZUk1cGlaNVNneURyMDdnUVY5V3J1YmhMejVmcUtjWl9FY21QWUpZaERjUE85MXp2cGdRaWllNEM4X3dZY0h4MHJhbndGZVFNOXlYeUZDNURzdWZMVTZjYxIEGgIIABrnBxIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDDBwgAEAAYACAAKh4KBHdoYXQVq7a0QBoFd2hhdHMaBXdoaWNoGgN3aG8qCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqYAoGbGF0ZXN0Fbz4AT4aB2N1cnJlbnQaBWZpbmFsGgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GhJyZWNlbnQgZGV2ZWxvcG1lbnQaEmxhdGVzdGRldmVsb3BtZW50cyq_AQoMZGV2ZWxvcG1lbnRzFQAAAAAaDGFjaGlldmVtZW50cxoMYWR2YW5jZW1lbnRzGghhZHZhbmNlcxoHY2hhbmdlcxoLZGV2ZWxvcG1lbnQaC2lubm92YXRpb25zGgRuZXdzGgduZXdzIG9uGhJyZWNlbnQgZGV2ZWxvcG1lbnQaCnRlY2hub2xvZ3kaBnRyZW5kcxoSbGF0ZXN0ZGV2ZWxvcG1lbnRzGhFpdjtwO2RldmVsb3BtZW50cxoDbmV3KgkKAmluFQAAAAAqFAoDdXBpFY8pn0AaCGl2O3A7dXBpKowBCgpyZWd1bGF0aW9uFQAAAAAaCWRpcmVjdGl2ZRoEbGF3cxoEcmVncxoIcmVndWxhdGUaCXJlZ3VsYXRlZBoKcmVndWxhdGluZxoLcmVndWxhdGlvbnMaCnJlZ3VsYXRvcnkaBHJ1bGUaBXJ1bGVzGg9pdjtwO3JlZ3VsYXRpb24aCmd1aWRlbGluZXMyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3Rlg2Rm9VaGsyM3ZmRDNrNm9wdWhHZkUxX1Nkbk1NTkw5R0Fyb3BpQnpwcm1XYURuVzl1bkJzYzZiYzFIa2UzdmxWNjJsc0NsYWJfRnVIZ290eWt0cGdsVVlhTzBlSTVwaVo1U2d5RHIwN2dRVjlXcnViaEx6NWZxS2NaX0VjbVBZSlloRGNQTzkxenZwZ1FpaWU0Qzhfd1ljSHgwcmFud0ZlUU05eVh5RkM1RHN1ZkxVNmNjOkM8Yj5OZXcgVVBJIFJ1bGVzPC9iPiBFZmZlY3RpdmUgQXVndXN0IDEsIDIwMjU6IFdoYXQgWW91IE5lZWQgdG8gLi4uQocBPGI-YSBzZXQgb2YgbmV3IHJ1bGVzIGZvciBVUEkgdHJhbnNhY3Rpb24gY2hhcmdlczwvYj4gdG8gZW5oYW5jZSB0cmFuc2FjdGlvbiBlZmZpY2llbmN5LCByZWR1Y2Ugc3lzdGVtIGxvYWQsIGFuZCBpbXByb3ZlIHVzZXIgc2VjdXJpdHkuSgJpbkoDYXJlSgN0aGVSA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZYNkZvVWhrMjN2ZkQzazZvcHVoR2ZFMV9TZG5NTU5MOUdBcm9waUJ6cHJtV2FEblc5dW5Cc2M2YmMxSGtlM3ZsVjYybHNDbGFiX0Z1SGdvdHlrdHBnbFVZYU8wZUk1cGlaNVNneURyMDdnUVY5V3J1YmhMejVmcUtjWl9FY21QWUpZaERjUE85MXp2cGdRaWllNEM4X3dZY0h4MHJhbndGZVFNOXlYeUZDNURzdWZMVTZjYxIEGgIIABrnBxIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDDBwgAEAAYACAAKh4KBHdoYXQVq7a0QBoFd2hhdHMaBXdoaWNoGgN3aG8qCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqYAoGbGF0ZXN0Fbz4AT4aB2N1cnJlbnQaBWZpbmFsGgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GhJyZWNlbnQgZGV2ZWxvcG1lbnQaEmxhdGVzdGRldmVsb3BtZW50cyq_AQoMZGV2ZWxvcG1lbnRzFQAAAAAaDGFjaGlldmVtZW50cxoMYWR2YW5jZW1lbnRzGghhZHZhbmNlcxoHY2hhbmdlcxoLZGV2ZWxvcG1lbnQaC2lubm92YXRpb25zGgRuZXdzGgduZXdzIG9uGhJyZWNlbnQgZGV2ZWxvcG1lbnQaCnRlY2hub2xvZ3kaBnRyZW5kcxoSbGF0ZXN0ZGV2ZWxvcG1lbnRzGhFpdjtwO2RldmVsb3BtZW50cxoDbmV3KgkKAmluFQAAAAAqFAoDdXBpFY8pn0AaCGl2O3A7dXBpKowBCgpyZWd1bGF0aW9uFQAAAAAaCWRpcmVjdGl2ZRoEbGF3cxoEcmVncxoIcmVndWxhdGUaCXJlZ3VsYXRlZBoKcmVndWxhdGluZxoLcmVndWxhdGlvbnMaCnJlZ3VsYXRvcnkaBHJ1bGUaBXJ1bGVzGg9pdjtwO3JlZ3VsYXRpb24aCmd1aWRlbGluZXMyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3Rlg2Rm9VaGsyM3ZmRDNrNm9wdWhHZkUxX1Nkbk1NTkw5R0Fyb3BpQnpwcm1XYURuVzl1bkJzYzZiYzFIa2UzdmxWNjJsc0NsYWJfRnVIZ290eWt0cGdsVVlhTzBlSTVwaVo1U2d5RHIwN2dRVjlXcnViaEx6NWZxS2NaX0VjbVBZSlloRGNQTzkxenZwZ1FpaWU0Qzhfd1ljSHgwcmFud0ZlUU05eVh5RkM1RHN1ZkxVNmNjOkM8Yj5OZXcgVVBJIFJ1bGVzPC9iPiBFZmZlY3RpdmUgQXVndXN0IDEsIDIwMjU6IFdoYXQgWW91IE5lZWQgdG8gLi4uQocBPGI-YSBzZXQgb2YgbmV3IHJ1bGVzIGZvciBVUEkgdHJhbnNhY3Rpb24gY2hhcmdlczwvYj4gdG8gZW5oYW5jZSB0cmFuc2FjdGlvbiBlZmZpY2llbmN5LCByZWR1Y2Ugc3lzdGVtIGxvYWQsIGFuZCBpbXByb3ZlIHVzZXIgc2VjdXJpdHkuSgJpbkoDYXJlSgN0aGVSA25ldyICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "a set of new rules for UPI transaction charges to enhance transaction efficiency, reduce system load, and improve user security.",
+      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "source_info_link": "https://www.linkedin.com/pulse/new-upi-rules-effective-august-1-2025-what-you-tc43c"
+     }
+    },
+    "displayed_link": "5 reactions · 1 year ago",
+    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+    "link": "https://www.linkedin.com/pulse/new-upi-rules-effective-august-1-2025-what-you-tc43c",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFX6FoUhk23vfD3k6opuhGfE1_SdnMMNL9GAropiBzprmWaDnW9unBsc6bc1Hke3vlV62lsClab_FuHgotyktpglUYaO0eI5piZ5SgyDr07gQV9WrubhLz5fqKcZ_EcmPYJYhDcPO91zvpgQiie4C8_wYcHx0ranwFeQM9yXyFC5DsufLU6cc&ved=2ahUKEwis89fw2o-XAxWp48kDHcGjDeEQFnoECDEQAQ&uoh=1",
+    "snippet": "a set of new rules for UPI transaction charges to enhance transaction efficiency, reduce system load, and improve user security.",
+    "snippet_highlighted_words": [
+     "a set of new rules for UPI transaction charges"
+    ],
+    "source": "LinkedIn · Fincart Financial Planners",
+    "title": "New UPI Rules Effective August 1, 2025: What You Need ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=10&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8NMDegQILhAW",
+   "next": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsAcnvVQTBnkv0vSVj3HPvK58G2-Q:1790544721614&ei=UYu5auyGJanHp84Pwce2iA4&start=10&sa=N&sstk=AS6-VmLc7OnATjzMjVc6_WKsis-W3f6gI1QyTJeYXtR0Yh22H3O15vyRt53G4syyNWaA32kjIZ__iFxCzSC1WEqKe50BUZ1bvc6Ayw&ved=2ahUKEwis89fw2o-XAxWp48kDHcGjDeEQ8NMDegQIKhAM",
    "other_pages": {
-    "10": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=90&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8tMDegQILhAU",
-    "2": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=10&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8tMDegQILhAE",
-    "3": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=20&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8tMDegQILhAG",
-    "4": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=30&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8tMDegQILhAI",
-    "5": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=40&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8tMDegQILhAK",
-    "6": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=50&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8tMDegQILhAM",
-    "7": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=60&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8tMDegQILhAO",
-    "8": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=70&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8tMDegQILhAQ",
-    "9": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=932ce377fb08cd9d&ei=XsuvaqqdLZGkptQP9ems6Qg&start=80&sa=N&sstk=AS6-VmI3OMLgF5jq8x_0dY3a7JPGyWGFJKqqEKR6qpKgZVp2Aib_6AfUBAYxfLIF8VEuMdXqYZLbzeIEBTrM7ophpEifExo4VWgXPw&ved=2ahUKEwiqxLnHjv2WAxURkokEHfU0K40Q8tMDegQILhAS"
+    "2": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsAcnvVQTBnkv0vSVj3HPvK58G2-Q:1790544721614&ei=UYu5auyGJanHp84Pwce2iA4&start=10&sa=N&sstk=AS6-VmLc7OnATjzMjVc6_WKsis-W3f6gI1QyTJeYXtR0Yh22H3O15vyRt53G4syyNWaA32kjIZ__iFxCzSC1WEqKe50BUZ1bvc6Ayw&ved=2ahUKEwis89fw2o-XAxWp48kDHcGjDeEQ8tMDegQIKhAE",
+    "3": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsAcnvVQTBnkv0vSVj3HPvK58G2-Q:1790544721614&ei=UYu5auyGJanHp84Pwce2iA4&start=20&sa=N&sstk=AS6-VmLc7OnATjzMjVc6_WKsis-W3f6gI1QyTJeYXtR0Yh22H3O15vyRt53G4syyNWaA32kjIZ__iFxCzSC1WEqKe50BUZ1bvc6Ayw&ved=2ahUKEwis89fw2o-XAxWp48kDHcGjDeEQ8tMDegQIKhAG",
+    "4": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsAcnvVQTBnkv0vSVj3HPvK58G2-Q:1790544721614&ei=UYu5auyGJanHp84Pwce2iA4&start=30&sa=N&sstk=AS6-VmLc7OnATjzMjVc6_WKsis-W3f6gI1QyTJeYXtR0Yh22H3O15vyRt53G4syyNWaA32kjIZ__iFxCzSC1WEqKe50BUZ1bvc6Ayw&ved=2ahUKEwis89fw2o-XAxWp48kDHcGjDeEQ8tMDegQIKhAI",
+    "5": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsAcnvVQTBnkv0vSVj3HPvK58G2-Q:1790544721614&ei=UYu5auyGJanHp84Pwce2iA4&start=40&sa=N&sstk=AS6-VmLc7OnATjzMjVc6_WKsis-W3f6gI1QyTJeYXtR0Yh22H3O15vyRt53G4syyNWaA32kjIZ__iFxCzSC1WEqKe50BUZ1bvc6Ayw&ved=2ahUKEwis89fw2o-XAxWp48kDHcGjDeEQ8tMDegQIKhAK"
    }
   },
+  "perspectives": [
+   {
+    "author": "Facebook",
+    "date": "1 week ago",
+    "duration": "1:44",
+    "link": "https://www.facebook.com/61568900968607/videos/upi-charges-whats-changing-above-2000-a-new-update-around-upi-merchant-transacti/1626877469015771/",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF87sKYl0VlH4Qf1i52wZSg5RqY1ba-Rv1x2I719FY0lLOHf17S7qhQ662dQ&usqp=CAI&s=10"
+    ],
+    "title": "TruthofIndiaofficial TruthofIndiaofficial"
+   },
+   {
+    "author": "r/IndiaTech",
+    "date": "1 week ago",
+    "extensions": [
+     "210+ comments "
+    ],
+    "link": "https://www.reddit.com/r/IndiaTech/comments/1whlgyt/do_you_know_what_just_changed_with_upi_in_india/",
+    "source": "Reddit",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf03eCB4YhzK-PNA6-8-Dfy0cKpDzf6rG4qH-v4g3j8SSyF13UfhsCDoFa8A&usqp=CAI&s"
+    ],
+    "title": "Do you know what just changed with UPI in India?"
+   },
+   {
+    "author": "AskAnshul",
+    "date": "1 week ago",
+    "link": "https://www.facebook.com/AskAnshul/posts/new-upi-rule-coming-into-effect-next-month-in-octoberupi-payments-to-friends-or-/1640730630756770/",
+    "source": "Facebook",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5rJfvyr0jxjuxaNqqlqO6URAvjokvl5HyeMz8e7UKTBrL2q-JlFToLzq_iw&usqp=CAI&s"
+    ],
+    "title": "New UPI rule coming into effect next month, in October: UPI payments to friends or family will remain completely free, no matter the amount. For small merchants, UPI QR payments will remain MDR-free. For larger merchants, UPI payments up to Rs 2000 will re"
+   },
+   {
+    "author": "HDFC.bank",
+    "date": "2 days ago",
+    "extensions": [
+     "270+ reactions "
+    ],
+    "link": "https://www.facebook.com/HDFC.bank/posts/a-new-upi-rule-comes-into-effect-from-15-october-2026upi-mdr-merchantdiscountrat/1637521604404275/",
+    "source": "Facebook",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWsVlDBHoeqeXQ3PzQ2L5UVqw0w3pX0PSEA_pxv0u9q5uJ3daXYM69u-lZIQ&usqp=CAI&s"
+    ],
+    "title": "A new UPI rule comes into effect from 15 October 2026. #UPI #MDR #MerchantDiscountRate #NewUPIRule"
+   },
+   {
+    "author": "prettymuchfinance",
+    "date": "1 week ago",
+    "extensions": [
+     "3K+ likes "
+    ],
+    "link": "https://www.instagram.com/p/DdgsIDzFHfg/",
+    "source": "Instagram",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLeEp6RL950MouVwI06bT3nqykL4N6eisBZVp5Fc8VLtUD0YHEuesV5hYuw&usqp=CAI&s"
+    ],
+    "title": "Every Indian should know these new UPI rules #upi #payment #money #charge #onlinepayment"
+   },
+   {
+    "author": "decoded.law",
+    "date": "5 days ago",
+    "duration": "2:59",
+    "extensions": [
+     "1.7K+ likes "
+    ],
+    "link": "https://www.instagram.com/reel/Ddl6nk0IEgv/",
+    "source": "Instagram",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg41ZR6N-QHnCF16umU6bXGxnEuTuGrwrYSh0o8TdXwNDH-kGbBk_GPGVhmis&usqp=CAI&s=10"
+    ],
+    "title": "In this video, I have explained the recent confusion around UPI charges, clarifying that person-to-person transfers remain free and that the new Merchant Discount Rate (MDR) applies only to certain merchant transactions above ₹2000, not to customers directly. I emphasize the importance of reading official notifications rather than relying on WhatsApp forwards. . . . Disclaimer: The contents of this video are intended solely for public legal awareness. Laws, regulations, and payment policies may change over time. Viewers are advised to verify the latest official notifications before making any financial decisions. . #law #upi #digital #india #decodedlaw"
+   },
+   {
+    "author": "bizzindia",
+    "date": "1 week ago",
+    "duration": "0:12",
+    "extensions": [
+     "1.2K+ likes "
+    ],
+    "link": "https://www.instagram.com/reel/DdYgyonSzfx/",
+    "source": "Instagram",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ-0D1ywU9ouwLjjSQj19_tvbn1ImNdcEs-TjTC-L7EmynZI3EusGQ6CWshA&usqp=CAI&s=10"
+    ],
+    "title": "UPI’s new rules are already triggering reactions on the ground. Some vendors in Delhi were reportedly seen removing UPI QR codes and “UPI Accepted” boards amid concerns over the new 0.4% MDR on eligible merchant payments above ₹2,000. Customers won’t directly pay this fee, but for businesses operating on thin margins, even a small additional cost can matter. The big question now is whether this pushes some merchants back towards cash. Follow @bizzindia for more such business updates."
+   },
+   {
+    "author": "Faye D'Souza",
+    "date": "1 month ago",
+    "duration": "11:48",
+    "extensions": [
+     "52K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=o55VfwDGPpo",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://img.youtube.com/vi/o55VfwDGPpo/hqdefault.jpg"
+    ],
+    "title": "Will You Soon Pay to Use UPI? | Explained | Faye D'Souza",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRkx2m_Gk8s8enUiiES5KTLzMEMw5rfP4vaug"
+   },
+   {
+    "author": "SansadTelevision",
+    "date": "1 week ago",
+    "duration": "3:29",
+    "extensions": [
+     "20+ reactions "
+    ],
+    "link": "https://www.facebook.com/SansadTelevision/videos/upi-is-evolving-but-what-really-changes-for-yougood-news-most-upi-payments-remai/1551746416966783/",
+    "source": "Facebook",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3QaUXSshKNKZQuLEa_zY-Eij9S_nK720K83p4pUZzkl5o3eUurJ8jeXT3Q&usqp=CAI&s"
+    ],
+    "title": "Sansad TV. . UPI is evolving. But what really changes for you? Good news: Most UPI payments remain unaffected. The new MDR framework impacts only a limited set of merchant transactions. Curious about who pays, who benefits, and why it matters? Watch '"
+   },
+   {
+    "author": "meradeshmahaann",
+    "date": "2 days ago",
+    "extensions": [
+     "10+ reactions "
+    ],
+    "link": "https://www.facebook.com/meradeshmahaann/posts/omar-abdullah-has-weighed-in-on-the-debate-over-upi-transaction-charges-saying-t/1478340127675504/",
+    "source": "Facebook",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgS2afWXcNd0m0ePt7Zbk5kj4OhC8uDObUoaKiPECFlWc6vqJgf7rZdS0DOw&usqp=CAI&s"
+    ],
+    "title": "Omar Abdullah has weighed in on the debate over UPI transaction charges, saying that operating India’s massive digital-payment infrastructure involves significant costs. At the same time, the Jammu and Kashmir Chief Minister stressed that ordinary consumer"
+   },
+   {
+    "author": "sandraarobinson",
+    "date": "1 week ago",
+    "duration": "1:01",
+    "extensions": [
+     "140+ likes "
+    ],
+    "link": "https://www.instagram.com/reel/DdY_h6-z0zS/",
+    "source": "Instagram",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7FLsJs5z_sHd4ML95heI9p1dN9ixl9qRYMgeOMZ7V5ZLIUuAHYTZphPBIUQ&usqp=CAI&s=10"
+    ],
+    "title": "UPI stays 100% free for consumers. New 0.4% MDR charge applies only to merchants, only on transactions above ₹2,000, capped at ₹300. Shops with under ₹1L monthly UPI volume are exempt. Merchants cannot pass this charge to customers. . ( UPI, UPI is not free, charges on upi ) . #upi",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQZsOCzu6FxGG24JcPYVm7TGQ6Y94q5F8WuAw"
+   },
+   {
+    "author": "Facebook",
+    "date": "1 week ago",
+    "duration": "1:58",
+    "link": "https://www.facebook.com/61584475941726/posts/new-upi-rule-explained-who-will-actually-pay-upi-charges-from-october-15-heres-w/122152188699149198/",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEDdI3TwStTmrWLPgzFwROCg5tB1At507izvzfhIc9dRo_WMmjhvIj-iG60M&usqp=CAI&s=10"
+    ],
+    "title": "summarybysamir"
+   }
+  ],
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlptZFBlVGhTU0MxallVTktZWE51V0VkSFpGbGtZMk52Ym1rMGJEVXdjVEZsVFRCRE1FaDNjbU5MTUc4NFVIZ3dXSGx4U0RKeFoyNDFXREJPYmpCRFZEUkdOV2xLV2todlVtZ3lSR2xoT1dnd1VYTTJkVVprWkVReFFSSVhXSE4xZG1GeGNXUk1Xa2RyY0hSUlVEbGxiWE0yVVdjYUlrRkVjM0k1WmxKRGIxUndVVVpZVlZKbFVWZHFSVXRITVUxbFJ5MXFOa2x5VTJjIiwiZmN2IjoiMyIsImVpIjoiWHN1dmFxcWRMWkdrcHRRUDllbXM2UWciLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZlS2lMejgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSByZWNlbnQgZGV2ZWxvcG1lbnRzIGluIFVQST8iLCJsayI6IkdocHlaV05sYm5RZ1pHVjJaV3h2Y0cxbGJuUnpJR2x1SUhWd2FRIiwiYnMiOiJjLVB5NE5JSXowZ3NVVWdzU2xVb3lVaFZLRXBOVHMwclVVaEpMVXZOeVNfSUJiS0xGVEx6RkVJRFBPMk5aS1NrY0VpWEZtUnlXWEVwbzVpVWwxb08wcVpRVkpxVENsWmtaR0JrWm04a0xDVUlrZ0hxQU11QVJZRjZGVEgwcHFVbWxwUVdBYlhtcDBHc0Y1VVNSaGNIMmV2SFpRYldtMW1NWWExQ1duNlJRa0ZpSmNTZGlVbjVaYWtLajVwMkdocm9HQmdZMkJ1SlNBbWhPTVVRS0dvZ3dBZ0EiLCJpZCI6ImZjX1hzdXZhcXFkTFpHa3B0UVA5ZW1zNlFnXzEifQ==",
-    "page_token": "ieMgfnicHdDbboIwGADg7GW8nBymiyZmEaUomdVW-xd6s5QColZgs8rhbu-yp9rTLNn3CN_3jz6Vl9-nR2FMfZsOh03TPB-r6qizZ1Vdh_LWlWqopNaJVJfp-HVsv-Vq5t_X3uJz7RFW17Ck1gHhTlzquwRs4oNXEWbnXM87XHpbcQ596rJR4sICVuiMrdGWlIAOvrgJu7jDRdRiVbSprgE7yNq7Aoto3qgeSApQxQcIKYJdojUh3OSJU78DKjwaQZj6ackDQ2UQdxtX79Klcugq7Pd2iLOgtVgQrpOgajKEDO6x4WfYcRZbwg9fBCK2tCdow8Idtpp-g5jNASgPsOsXaaxccOIItcJvJXVMkyJEthyM6gUVbXUijPbqrK8s0j5nVO6ZIRt7QtS1ZRl4Mu2xJSxwsQZgZJCrx8wd_H_OPvKrmdZf1fEPKcuDDg",
-    "question": "What are the recent developments in UPI?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ieMgfnicHdDbboIwGADg7GW8nBymiyZmEaUomdVW-xd6s5QColZgs8rhbu-yp9rTLNn3CN_3jz6Vl9-nR2FMfZsOh03TPB-r6qizZ1Vdh_LWlWqopNaJVJfp-HVsv-Vq5t_X3uJz7RFW17Ck1gHhTlzquwRs4oNXEWbnXM87XHpbcQ596rJR4sICVuiMrdGWlIAOvrgJu7jDRdRiVbSprgE7yNq7Aoto3qgeSApQxQcIKYJdojUh3OSJU78DKjwaQZj6ackDQ2UQdxtX79Klcugq7Pd2iLOgtVgQrpOgajKEDO6x4WfYcRZbwg9fBCK2tCdow8Idtpp-g5jNASgPsOsXaaxccOIItcJvJXVMkyJEthyM6gUVbXUijPbqrK8s0j5nVO6ZIRt7QtS1ZRl4Mu2xJSxwsQZgZJCrx8wd_H_OPvKrmdZf1fEPKcuDDg",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlptZFBlVGhTU0MxallVTktZWE51V0VkSFpGbGtZMk52Ym1rMGJEVXdjVEZsVFRCRE1FaDNjbU5MTUc4NFVIZ3dXSGx4U0RKeFoyNDFXREJPYmpCRFZEUkdOV2xLV2todlVtZ3lSR2xoT1dnd1VYTTJkVVprWkVReFFSSVhXSE4xZG1GeGNXUk1Xa2RyY0hSUlVEbGxiWE0yVVdjYUlrRkVjM0k1WmxKRGIxUndVVVpZVlZKbFVWZHFSVXRITVUxbFJ5MXFOa2x5VTJjIiwiZmN2IjoiMyIsImVpIjoiWHN1dmFxcWRMWkdrcHRRUDllbXM2UWciLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZlS2lMejgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSByZWNlbnQgZGV2ZWxvcG1lbnRzIGluIFVQST8iLCJsayI6IkdocHlaV05sYm5RZ1pHVjJaV3h2Y0cxbGJuUnpJR2x1SUhWd2FRIiwiYnMiOiJjLVB5NE5JSXowZ3NVVWdzU2xVb3lVaFZLRXBOVHMwclVVaEpMVXZOeVNfSUJiS0xGVEx6RkVJRFBPMk5aS1NrY0VpWEZtUnlXWEVwbzVpVWwxb08wcVpRVkpxVENsWmtaR0JrWm04a0xDVUlrZ0hxQU11QVJZRjZGVEgwcHFVbWxwUVdBYlhtcDBHc0Y1VVNSaGNIMmV2SFpRYldtMW1NWWExQ1duNlJRa0ZpSmNTZGlVbjVaYWtLajVwMkdocm9HQmdZMkJ1SlNBbWhPTVVRS0dvZ3dBZ0EiLCJpZCI6ImZjX1hzdXZhcXFkTFpHa3B0UVA5ZW1zNlFnXzEifQ%3D%3D",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlptZFBlVGhTU0MxallVTktZWE51V0VkSFpGbGtZMk52Ym1rMGJEVXdjVEZsVFRCRE1FaDNjbU5MTUc4NFVIZ3dXSGx4U0RKeFoyNDFXREJPYmpCRFZEUkdOV2xLV2todlVtZ3lSR2xoT1dnd1VYTTJkVVprWkVReFFSSVhXSE4xZG1GeGNXUk1Xa2RyY0hSUlVEbGxiWE0yVVdjYUlrRkVjM0k1WmxKRGIxUndVVVpZVlZKbFVWZHFSVXRITVUxbFJ5MXFOa2x5VTJjIiwiZmN2IjoiMyIsImVpIjoiWHN1dmFxcWRMWkdrcHRRUDllbXM2UWciLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZlS2lMejgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBuZXcgVVBJIHJ1bGVzIGluIDIwMjY/IiwibGsiOiJHaEZ1WlhjZ2RYQnBJSEoxYkdVZ01qQXlOZyIsImJzIjoiYy1QeTROSUl6MGdzVVVnc1NsVW95VWhWS0VwTlRzMHJVVWhKTFV2TnlTX0lCYktMRlRMekZFSURQTzJOWktTa2NFaVhGbVJ5V1hFcG81aVVsMW9PMHFaUVZKcVRDbFprWkdCa1ptOGtMQ1VJa2dIcUFNdUFSWUY2RlRIMHBxVW1scFFXQWJYbXAwR3NGNVVTUmhjSDJldkhaUWJXbTFtTVlhMUNXbjZSUWtGaUpjU2RpVW41WmFrS2o1cDJHaHJvR0JnWTJCdUpTQW1oT01VUUtHb2d3QWdBIiwiaWQiOiJmY19Yc3V2YXFxZExaR2twdFFQOWVtczZRZ18xIn0=",
-    "page_token": "4iHRJHicHdDBbpswAIBh9WV6bIyrZGukaBIFoxBCZBts8GWidgIJNtDGjYlvfZc91Z5m1c7_d_q__ujz0P99uHXWTtf1YuGce2rHsdXHJzmaRXO9D3IhG63fGtmvVz9Wwa-T3MSf2_D1fRvicppYREARCS99CPnAZmJGlydpdogYkHGaUoR2-JLWje_vGAhAI9UTXzvsNec8JVnVLrMqh1nx3c8B3AOFqWc5rtSSDt2qCMLsGAe3up92JEn3jVa7N5Yb8W2ZISEFyuwDcW0YQcdLF5Zo65hvoQrSvkQ_LalGSy6C0oRVAl7nY4UDyUWUQ2F5n99wmQ-1eXnlcZCp3nkBxBB3qpbPDNYVmkU8NwRapxDCB86s9IKIeTzjknh50YbFL64wy-0hKe8H7mBZhJSCzpYJY0wzsNeoUe7xJG-b58f_Pze_T8aup4-x_Qdv94QQ",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VIbGlRMGxmUjNGdFpVbFNUR013VVhBemFYVnJPSEY2ZWtrd1dXZHpabVJ5WW01SmMwWnBhMlkyT1ZCWVFXRmFhREI1Tm1jeVNFSllZVWRaWW5VMVZIYzRaVzlTTmtSWFdXWlNUa3R2Ukd4cFQyeFplV014ZDFwR1VSSVhWVmwxTldGMWVVZEtZVzVJY0RnMFVIZGpaVEpwUVRRYUlrRkVjM0k1WmxOMlVWTnFkM3B1V2t0WmVuaHdhbUUxY1hRd1FVUkJVemd4TWxFIiwiZmN2IjoiMyIsImVpIjoiVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTQiLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZiQ1EyejQiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBuZXcgVVBJIHJ1bGVzIGluIDIwMjY/IiwibGsiOiJHaEZ1WlhjZ2RYQnBJSEoxYkdVZ01qQXlOZyIsImJzIjoiYzEyT1BRX0NJQkNHNDNxVFh4UFR4Y2JOb1dGdzZNSm8zRndhNTR2U2xLU2hEUnpwM3hkUUU5b043dDdudVJjYXFKNDlNWkxUeUwxR3EyZHNIM2QwWWRBZWpVVlp5NnVTQjdGTG16Q1p2TWxUYU9DVVdlUF9xUGFNblNZTzBSYlpLRkx5S1BZSkxjYlJBamVvRjNjSDRnU0g2WjBlT0dZWTJaSDE5R0l6V3A5THBBS0xLTFJ3V1pYNE5oeTdfRjlabER5TGF2N2x5MndTRjdudDVnTSIsImlkIjoiZmNfVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTRfNSJ9",
+    "page_token": "FALrvHicHdDRToMwFIDh-DJeOloyjUsWE4RtVoFQOIfBjWHtts6WgpPZjTvfxafyaTTe_Xdf8n99m4PVP1efahj6j9lk4py72Xfd3mxvRNdOmo-LFRPRGLNphJ7d3t2Sh52YR6en4PH9Kcig7zHkXl7iX8tMAHNok7oIjQcYqFirRV4wm5dEVZ7J8yImMC7q7ZL0fKyGoqibMkQtAfyM4mlDqyFdcSa1UujrMdbTZ-mzS0XMuViyGkftpWtziHW9i-HMGiucsOzIKQvWFClGyBO4R0nNmBc1g1BqSRYrGDFtQlVwn7c8AoehoZzgSzIaJih3YNUxXxL1Z2UQnW2kJJZrINUap9zr1UYrl4Y8kzQxcWuCJOgOGfBRvJkWTOKaRbBC7Et5IXm67JutnqaJTWi8MqEEPEF2vROfc__6_-f8ddcOs_7Y7X8BdoqD1g",
     "question": "What are the new UPI rules in 2026?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4iHRJHicHdDBbpswAIBh9WV6bIyrZGukaBIFoxBCZBts8GWidgIJNtDGjYlvfZc91Z5m1c7_d_q__ujz0P99uHXWTtf1YuGce2rHsdXHJzmaRXO9D3IhG63fGtmvVz9Wwa-T3MSf2_D1fRvicppYREARCS99CPnAZmJGlydpdogYkHGaUoR2-JLWje_vGAhAI9UTXzvsNec8JVnVLrMqh1nx3c8B3AOFqWc5rtSSDt2qCMLsGAe3up92JEn3jVa7N5Yb8W2ZISEFyuwDcW0YQcdLF5Zo65hvoQrSvkQ_LalGSy6C0oRVAl7nY4UDyUWUQ2F5n99wmQ-1eXnlcZCp3nkBxBB3qpbPDNYVmkU8NwRapxDCB86s9IKIeTzjknh50YbFL64wy-0hKe8H7mBZhJSCzpYJY0wzsNeoUe7xJG-b58f_Pze_T8aup4-x_Qdv94QQ",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlptZFBlVGhTU0MxallVTktZWE51V0VkSFpGbGtZMk52Ym1rMGJEVXdjVEZsVFRCRE1FaDNjbU5MTUc4NFVIZ3dXSGx4U0RKeFoyNDFXREJPYmpCRFZEUkdOV2xLV2todlVtZ3lSR2xoT1dnd1VYTTJkVVprWkVReFFSSVhXSE4xZG1GeGNXUk1Xa2RyY0hSUlVEbGxiWE0yVVdjYUlrRkVjM0k1WmxKRGIxUndVVVpZVlZKbFVWZHFSVXRITVUxbFJ5MXFOa2x5VTJjIiwiZmN2IjoiMyIsImVpIjoiWHN1dmFxcWRMWkdrcHRRUDllbXM2UWciLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZlS2lMejgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBuZXcgVVBJIHJ1bGVzIGluIDIwMjY%2FIiwibGsiOiJHaEZ1WlhjZ2RYQnBJSEoxYkdVZ01qQXlOZyIsImJzIjoiYy1QeTROSUl6MGdzVVVnc1NsVW95VWhWS0VwTlRzMHJVVWhKTFV2TnlTX0lCYktMRlRMekZFSURQTzJOWktTa2NFaVhGbVJ5V1hFcG81aVVsMW9PMHFaUVZKcVRDbFprWkdCa1ptOGtMQ1VJa2dIcUFNdUFSWUY2RlRIMHBxVW1scFFXQWJYbXAwR3NGNVVTUmhjSDJldkhaUWJXbTFtTVlhMUNXbjZSUWtGaUpjU2RpVW41WmFrS2o1cDJHaHJvR0JnWTJCdUpTQW1oT01VUUtHb2d3QWdBIiwiaWQiOiJmY19Yc3V2YXFxZExaR2twdFFQOWVtczZRZ18xIn0%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FALrvHicHdDRToMwFIDh-DJeOloyjUsWE4RtVoFQOIfBjWHtts6WgpPZjTvfxafyaTTe_Xdf8n99m4PVP1efahj6j9lk4py72Xfd3mxvRNdOmo-LFRPRGLNphJ7d3t2Sh52YR6en4PH9Kcig7zHkXl7iX8tMAHNok7oIjQcYqFirRV4wm5dEVZ7J8yImMC7q7ZL0fKyGoqibMkQtAfyM4mlDqyFdcSa1UujrMdbTZ-mzS0XMuViyGkftpWtziHW9i-HMGiucsOzIKQvWFClGyBO4R0nNmBc1g1BqSRYrGDFtQlVwn7c8AoehoZzgSzIaJih3YNUxXxL1Z2UQnW2kJJZrINUap9zr1UYrl4Y8kzQxcWuCJOgOGfBRvJkWTOKaRbBC7Et5IXm67JutnqaJTWi8MqEEPEF2vROfc__6_-f8ddcOs_7Y7X8BdoqD1g",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VIbGlRMGxmUjNGdFpVbFNUR013VVhBemFYVnJPSEY2ZWtrd1dXZHpabVJ5WW01SmMwWnBhMlkyT1ZCWVFXRmFhREI1Tm1jeVNFSllZVWRaWW5VMVZIYzRaVzlTTmtSWFdXWlNUa3R2Ukd4cFQyeFplV014ZDFwR1VSSVhWVmwxTldGMWVVZEtZVzVJY0RnMFVIZGpaVEpwUVRRYUlrRkVjM0k1WmxOMlVWTnFkM3B1V2t0WmVuaHdhbUUxY1hRd1FVUkJVemd4TWxFIiwiZmN2IjoiMyIsImVpIjoiVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTQiLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZiQ1EyejQiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBuZXcgVVBJIHJ1bGVzIGluIDIwMjY%2FIiwibGsiOiJHaEZ1WlhjZ2RYQnBJSEoxYkdVZ01qQXlOZyIsImJzIjoiYzEyT1BRX0NJQkNHNDNxVFh4UFR4Y2JOb1dGdzZNSm8zRndhNTR2U2xLU2hEUnpwM3hkUUU5b043dDdudVJjYXFKNDlNWkxUeUwxR3EyZHNIM2QwWWRBZWpVVlp5NnVTQjdGTG16Q1p2TWxUYU9DVVdlUF9xUGFNblNZTzBSYlpLRkx5S1BZSkxjYlJBamVvRjNjSDRnU0g2WjBlT0dZWTJaSDE5R0l6V3A5THBBS0xLTFJ3V1pYNE5oeTdfRjlabER5TGF2N2x5MndTRjdudDVnTSIsImlkIjoiZmNfVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTRfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlptZFBlVGhTU0MxallVTktZWE51V0VkSFpGbGtZMk52Ym1rMGJEVXdjVEZsVFRCRE1FaDNjbU5MTUc4NFVIZ3dXSGx4U0RKeFoyNDFXREJPYmpCRFZEUkdOV2xLV2todlVtZ3lSR2xoT1dnd1VYTTJkVVprWkVReFFSSVhXSE4xZG1GeGNXUk1Xa2RyY0hSUlVEbGxiWE0yVVdjYUlrRkVjM0k1WmxKRGIxUndVVVpZVlZKbFVWZHFSVXRITVUxbFJ5MXFOa2x5VTJjIiwiZmN2IjoiMyIsImVpIjoiWHN1dmFxcWRMWkdrcHRRUDllbXM2UWciLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZlS2lMejgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBuZXcgZmVhdHVyZXMgb2YgVVBJPyIsImxrIjoiR2hOdVpYY2dabVZoZEhWeVpYTWdiMllnZFhCcCIsImJzIjoiYy1QeTROSUl6MGdzVVVnc1NsVW95VWhWS0VwTlRzMHJVVWhKTFV2TnlTX0lCYktMRlRMekZFSURQTzJOWktTa2NFaVhGbVJ5V1hFcG81aVVsMW9PMHFaUVZKcVRDbFprWkdCa1ptOGtMQ1VJa2dIcUFNdUFSWUY2RlRIMHBxVW1scFFXQWJYbXAwR3NGNVVTUmhjSDJldkhaUWJXbTFtTVlhMUNXbjZSUWtGaUpjU2RpVW41WmFrS2o1cDJHaHJvR0JnWTJCdUpTQW1oT01VUUtHb2d3QWdBIiwiaWQiOiJmY19Yc3V2YXFxZExaR2twdFFQOWVtczZRZ18xIn0=",
-    "page_token": "r8jXDnicHdBbbuIwFABQdTP9LIkDHYGEKjHYQDSE5vqR2D-j2ObRxI5DSRvgb_Yyq-pqOpodHJ0_f91b23w9fJ76vrvMRqNhGJ6OIRzd_skEP6out9aMTOWcrkwze_7xHL8czBx_bBY_z5tFzrtOLCGi0XWskQjgbdjizAmmOEWTV4v6DUNO7Ncc2SZVbBXdthGJrYezjG3GnBWySStYOq-Eu-35FGlMwtYP423Tp7p2hC4dMZiUGRJUYPtrh9UFInKmiQs7DkEnWUXFSbJ1urZFdisYvO49KJmkObTZOmvEqsLTUrYQSzFtqb_EVakKwLCRbFHS2kqN4xWr7fKfbWKaCeCTlSYRSJbkqvC1AtQPlpB8V4je3BWoa3jLOdxN7Txv3I55J6gDotuu0wn5MGgcWw6FrhVmTNQ8fzyYz3ny-P9z_vvg-1n3Ho7flmGDJA",
-    "question": "What are the new features of UPI?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r8jXDnicHdBbbuIwFABQdTP9LIkDHYGEKjHYQDSE5vqR2D-j2ObRxI5DSRvgb_Yyq-pqOpodHJ0_f91b23w9fJ76vrvMRqNhGJ6OIRzd_skEP6out9aMTOWcrkwze_7xHL8czBx_bBY_z5tFzrtOLCGi0XWskQjgbdjizAmmOEWTV4v6DUNO7Ncc2SZVbBXdthGJrYezjG3GnBWySStYOq-Eu-35FGlMwtYP423Tp7p2hC4dMZiUGRJUYPtrh9UFInKmiQs7DkEnWUXFSbJ1urZFdisYvO49KJmkObTZOmvEqsLTUrYQSzFtqb_EVakKwLCRbFHS2kqN4xWr7fKfbWKaCeCTlSYRSJbkqvC1AtQPlpB8V4je3BWoa3jLOdxN7Txv3I55J6gDotuu0wn5MGgcWw6FrhVmTNQ8fzyYz3ny-P9z_vvg-1n3Ho7flmGDJA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlptZFBlVGhTU0MxallVTktZWE51V0VkSFpGbGtZMk52Ym1rMGJEVXdjVEZsVFRCRE1FaDNjbU5MTUc4NFVIZ3dXSGx4U0RKeFoyNDFXREJPYmpCRFZEUkdOV2xLV2todlVtZ3lSR2xoT1dnd1VYTTJkVVprWkVReFFSSVhXSE4xZG1GeGNXUk1Xa2RyY0hSUlVEbGxiWE0yVVdjYUlrRkVjM0k1WmxKRGIxUndVVVpZVlZKbFVWZHFSVXRITVUxbFJ5MXFOa2x5VTJjIiwiZmN2IjoiMyIsImVpIjoiWHN1dmFxcWRMWkdrcHRRUDllbXM2UWciLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZlS2lMejgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBuZXcgZmVhdHVyZXMgb2YgVVBJPyIsImxrIjoiR2hOdVpYY2dabVZoZEhWeVpYTWdiMllnZFhCcCIsImJzIjoiYy1QeTROSUl6MGdzVVVnc1NsVW95VWhWS0VwTlRzMHJVVWhKTFV2TnlTX0lCYktMRlRMekZFSURQTzJOWktTa2NFaVhGbVJ5V1hFcG81aVVsMW9PMHFaUVZKcVRDbFprWkdCa1ptOGtMQ1VJa2dIcUFNdUFSWUY2RlRIMHBxVW1scFFXQWJYbXAwR3NGNVVTUmhjSDJldkhaUWJXbTFtTVlhMUNXbjZSUWtGaUpjU2RpVW41WmFrS2o1cDJHaHJvR0JnWTJCdUpTQW1oT01VUUtHb2d3QWdBIiwiaWQiOiJmY19Yc3V2YXFxZExaR2twdFFQOWVtczZRZ18xIn0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VIbGlRMGxmUjNGdFpVbFNUR013VVhBemFYVnJPSEY2ZWtrd1dXZHpabVJ5WW01SmMwWnBhMlkyT1ZCWVFXRmFhREI1Tm1jeVNFSllZVWRaWW5VMVZIYzRaVzlTTmtSWFdXWlNUa3R2Ukd4cFQyeFplV014ZDFwR1VSSVhWVmwxTldGMWVVZEtZVzVJY0RnMFVIZGpaVEpwUVRRYUlrRkVjM0k1WmxOMlVWTnFkM3B1V2t0WmVuaHdhbUUxY1hRd1FVUkJVemd4TWxFIiwiZmN2IjoiMyIsImVpIjoiVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTQiLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZiQ1EyejQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5ld2VzdCBmZWF0dXJlIGluIFVQST8iLCJsayI6IkdoSnVaWGNnWm1WaGRIVnlaU0JwYmlCMWNHayIsImJzIjoiYzEyT1BRX0NJQkNHNDNxVFh4UFR4Y2JOb1dGdzZNSm8zRndhNTR2U2xLU2hEUnpwM3hkUUU5b043dDdudVJjYXFKNDlNWkxUeUwxR3EyZHNIM2QwWWRBZWpVVlp5NnVTQjdGTG16Q1p2TWxUYU9DVVdlUF9xUGFNblNZTzBSYlpLRkx5S1BZSkxjYlJBamVvRjNjSDRnU0g2WjBlT0dZWTJaSDE5R0l6V3A5THBBS0xLTFJ3V1pYNE5oeTdfRjlabER5TGF2N2x5MndTRjdudDVnTSIsImlkIjoiZmNfVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTRfNSJ9",
+    "page_token": "BwSRQnicHdBLbqMwGABgzWW6bHCYtJpIUSUaSEKLJzZ-gDcjsJuQ-ufRhsHAbu4yp-ppWnX17b9__-HS2I8fQ9X33XW9WDjnbs9te4aXW93Wi-I6NXqhC4Cy0HZ9d3-HHk56E_49BI9vh4DwrhNb6qW2msWEVILiHkfUL-yXoZgIjwMK3SXZ85k0wWPCUVtImhChdmKGnEiV4R3_WVgTpyh6Zww_5008JLIfqTf6wiNe6UW4DLVLhfVL9Cs1Te6XO3gzFpjMqkGFgHO5ohSqWoUrIhrzLKUBVlPKkJ0lV4xnIGgUx9yOA5-rrLTtlIOY8FY9YQRHxaJU7nDGGT2qvQrCygiZcZRnYkW9ript5X5vKTFLDEkNAQ7aC-F01q9Qi-jQM29caWEmHVknIVBm2b2-MNWme-PocnTK3Zz0sPFvvj83f051v-7e2_MnFNeFcw",
+    "question": "What is the newest feature in UPI?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BwSRQnicHdBLbqMwGABgzWW6bHCYtJpIUSUaSEKLJzZ-gDcjsJuQ-ufRhsHAbu4yp-ppWnX17b9__-HS2I8fQ9X33XW9WDjnbs9te4aXW93Wi-I6NXqhC4Cy0HZ9d3-HHk56E_49BI9vh4DwrhNb6qW2msWEVILiHkfUL-yXoZgIjwMK3SXZ85k0wWPCUVtImhChdmKGnEiV4R3_WVgTpyh6Zww_5008JLIfqTf6wiNe6UW4DLVLhfVL9Cs1Te6XO3gzFpjMqkGFgHO5ohSqWoUrIhrzLKUBVlPKkJ0lV4xnIGgUx9yOA5-rrLTtlIOY8FY9YQRHxaJU7nDGGT2qvQrCygiZcZRnYkW9ript5X5vKTFLDEkNAQ7aC-F01q9Qi-jQM29caWEmHVknIVBm2b2-MNWme-PocnTK3Zz0sPFvvj83f051v-7e2_MnFNeFcw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VIbGlRMGxmUjNGdFpVbFNUR013VVhBemFYVnJPSEY2ZWtrd1dXZHpabVJ5WW01SmMwWnBhMlkyT1ZCWVFXRmFhREI1Tm1jeVNFSllZVWRaWW5VMVZIYzRaVzlTTmtSWFdXWlNUa3R2Ukd4cFQyeFplV014ZDFwR1VSSVhWVmwxTldGMWVVZEtZVzVJY0RnMFVIZGpaVEpwUVRRYUlrRkVjM0k1WmxOMlVWTnFkM3B1V2t0WmVuaHdhbUUxY1hRd1FVUkJVemd4TWxFIiwiZmN2IjoiMyIsImVpIjoiVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTQiLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZiQ1EyejQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5ld2VzdCBmZWF0dXJlIGluIFVQST8iLCJsayI6IkdoSnVaWGNnWm1WaGRIVnlaU0JwYmlCMWNHayIsImJzIjoiYzEyT1BRX0NJQkNHNDNxVFh4UFR4Y2JOb1dGdzZNSm8zRndhNTR2U2xLU2hEUnpwM3hkUUU5b043dDdudVJjYXFKNDlNWkxUeUwxR3EyZHNIM2QwWWRBZWpVVlp5NnVTQjdGTG16Q1p2TWxUYU9DVVdlUF9xUGFNblNZTzBSYlpLRkx5S1BZSkxjYlJBamVvRjNjSDRnU0g2WjBlT0dZWTJaSDE5R0l6V3A5THBBS0xLTFJ3V1pYNE5oeTdfRjlabER5TGF2N2x5MndTRjdudDVnTSIsImlkIjoiZmNfVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTRfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlptZFBlVGhTU0MxallVTktZWE51V0VkSFpGbGtZMk52Ym1rMGJEVXdjVEZsVFRCRE1FaDNjbU5MTUc4NFVIZ3dXSGx4U0RKeFoyNDFXREJPYmpCRFZEUkdOV2xLV2todlVtZ3lSR2xoT1dnd1VYTTJkVVprWkVReFFSSVhXSE4xZG1GeGNXUk1Xa2RyY0hSUlVEbGxiWE0yVVdjYUlrRkVjM0k1WmxKRGIxUndVVVpZVlZKbFVWZHFSVXRITVUxbFJ5MXFOa2x5VTJjIiwiZmN2IjoiMyIsImVpIjoiWHN1dmFxcWRMWkdrcHRRUDllbXM2UWciLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZlS2lMejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5ldyBVUEkgcnVsZSBmb3IgcGF5bWVudHMgYWJvdmUg4oK5MTAsMDAwPyIsImxrIjoiR2hKdVpYY2dkWEJwSUhKMWJHVWdNVEF3TURBIiwiYnMiOiJjLVB5NE5JSXowZ3NVVWdzU2xVb3lVaFZLRXBOVHMwclVVaEpMVXZOeVNfSUJiS0xGVEx6RkVJRFBPMk5aS1NrY0VpWEZtUnlXWEVwbzVpVWwxb08wcVpRVkpxVENsWmtaR0JrWm04a0xDVUlrZ0hxQU11QVJZRjZGVEgwcHFVbWxwUVdBYlhtcDBHc0Y1VVNSaGNIMmV2SFpRYldtMW1NWWExQ1duNlJRa0ZpSmNTZGlVbjVaYWtLajVwMkdocm9HQmdZMkJ1SlNBbWhPTVVRS0dvZ3dBZ0EiLCJpZCI6ImZjX1hzdXZhcXFkTFpHa3B0UVA5ZW1zNlFnXzEifQ==",
-    "page_token": "_FRYLXicHdDNbpswAABg9WV6bMCUbIkUTSLgTqhmBfyHL5MxEBIbsBo3UG59hT7DnmpPs2rX7_h9_DHnUf-9--yds9f9ZjPP88Npmk6mfVDTsJHX91FtlDSmlkrvt9-2_o9OHZKbio6vKsqJtTQuvHKEj5TZmCXimDELC89HkoW4iLMO057lAXosQfhSjmgWgc0Q7y-CLPyZUCz87JoB42MOUeO5FA8IZMP3gCSU1ARqZGyJf-ZAaeE1ZOfo2d9KQyF5KphY06dWL8fWpF01ph4awlAFUJBYPMuLiXPgQI3pIEGK6ZeR0hetQa7msCRaAMKzia4CMe0T7hnT8Oio_FS2pteSRkQkodeORZ6vPZbar2rg0qRvKhVQUHG4iGSRBXBzA2H-i1GnVlGIZTrnpFjVxQyEpG9Ma4C95fZlFsMdFdxGFY5ixHZ9RnZvzXzfqdshuP9_ffjdDW5vX6fTP4Zvi9s",
-    "question": "What is the new UPI rule for payments above ₹10,000?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_FRYLXicHdDNbpswAABg9WV6bMCUbIkUTSLgTqhmBfyHL5MxEBIbsBo3UG59hT7DnmpPs2rX7_h9_DHnUf-9--yds9f9ZjPP88Npmk6mfVDTsJHX91FtlDSmlkrvt9-2_o9OHZKbio6vKsqJtTQuvHKEj5TZmCXimDELC89HkoW4iLMO057lAXosQfhSjmgWgc0Q7y-CLPyZUCz87JoB42MOUeO5FA8IZMP3gCSU1ARqZGyJf-ZAaeE1ZOfo2d9KQyF5KphY06dWL8fWpF01ph4awlAFUJBYPMuLiXPgQI3pIEGK6ZeR0hetQa7msCRaAMKzia4CMe0T7hnT8Oio_FS2pteSRkQkodeORZ6vPZbar2rg0qRvKhVQUHG4iGSRBXBzA2H-i1GnVlGIZTrnpFjVxQyEpG9Ma4C95fZlFsMdFdxGFY5ixHZ9RnZvzXzfqdshuP9_ffjdDW5vX6fTP4Zvi9s",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlptZFBlVGhTU0MxallVTktZWE51V0VkSFpGbGtZMk52Ym1rMGJEVXdjVEZsVFRCRE1FaDNjbU5MTUc4NFVIZ3dXSGx4U0RKeFoyNDFXREJPYmpCRFZEUkdOV2xLV2todlVtZ3lSR2xoT1dnd1VYTTJkVVprWkVReFFSSVhXSE4xZG1GeGNXUk1Xa2RyY0hSUlVEbGxiWE0yVVdjYUlrRkVjM0k1WmxKRGIxUndVVVpZVlZKbFVWZHFSVXRITVUxbFJ5MXFOa2x5VTJjIiwiZmN2IjoiMyIsImVpIjoiWHN1dmFxcWRMWkdrcHRRUDllbXM2UWciLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZlS2lMejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5ldyBVUEkgcnVsZSBmb3IgcGF5bWVudHMgYWJvdmUg4oK5MTAsMDAwPyIsImxrIjoiR2hKdVpYY2dkWEJwSUhKMWJHVWdNVEF3TURBIiwiYnMiOiJjLVB5NE5JSXowZ3NVVWdzU2xVb3lVaFZLRXBOVHMwclVVaEpMVXZOeVNfSUJiS0xGVEx6RkVJRFBPMk5aS1NrY0VpWEZtUnlXWEVwbzVpVWwxb08wcVpRVkpxVENsWmtaR0JrWm04a0xDVUlrZ0hxQU11QVJZRjZGVEgwcHFVbWxwUVdBYlhtcDBHc0Y1VVNSaGNIMmV2SFpRYldtMW1NWWExQ1duNlJRa0ZpSmNTZGlVbjVaYWtLajVwMkdocm9HQmdZMkJ1SlNBbWhPTVVRS0dvZ3dBZ0EiLCJpZCI6ImZjX1hzdXZhcXFkTFpHa3B0UVA5ZW1zNlFnXzEifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VIbGlRMGxmUjNGdFpVbFNUR013VVhBemFYVnJPSEY2ZWtrd1dXZHpabVJ5WW01SmMwWnBhMlkyT1ZCWVFXRmFhREI1Tm1jeVNFSllZVWRaWW5VMVZIYzRaVzlTTmtSWFdXWlNUa3R2Ukd4cFQyeFplV014ZDFwR1VSSVhWVmwxTldGMWVVZEtZVzVJY0RnMFVIZGpaVEpwUVRRYUlrRkVjM0k1WmxOMlVWTnFkM3B1V2t0WmVuaHdhbUUxY1hRd1FVUkJVemd4TWxFIiwiZmN2IjoiMyIsImVpIjoiVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTQiLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZiQ1EyejQiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBsYXRlc3QgdXBkYXRlcyBvbiBVUEkgdHJhbnNhY3Rpb25zPyIsImxrIjoiR2hGMWNHa2diR0YwWlhOMElIVndaR0YwWlEiLCJicyI6ImMxMk9QUV9DSUJDRzQzcVRYeFBUeGNiTm9XRnc2TUpvM0Z3YTU0dlNsS1NoRFJ6cDN4ZFFFOW9ON3Q3bnVSY2FxSjQ5TVpMVHlMMUdxMmRzSDNkMFlkQWVqVVZaeTZ1U0I3RkxtekNadk1sVGFPQ1VXZVBfcVBhTW5TWU8wUmJaS0ZMeUtQWUpMY2JSQWplb0YzY0g0Z1NINlowZU9HWVkyWkgxOUdJeldwOUxwQUtMS0xSd1daWDROaHk3X0Y5WmxEeUxhdjdseTJ3U0Y3bnQ1Z00iLCJpZCI6ImZjX1VZdTVhdXlHSmFuSHA4NFB3Y2UyaUE0XzUifQ==",
+    "page_token": "PZ96MnicHdBdbpswAABg7TJ9bGxSMjVSNI0EiJAww_gHeJmwTXDANjRlpeFtV9gZdqqeptOO8H2__5qrGz6-_NHzPL3uN5tlWR67cexM-yhHu2le705uZGOMaOSw333dwW8XeQjfZHC8ySCn08ROGBTgGdTnpCJgdoJGIeVo5n3Qk0hfZYmd6CWoDEpqD1alF6Ui-j6LeOZZrLfVMB9rgmM5JC-i7Na2ZGvhVMYAS8lJEeqCobDwpbjDrB1U0bgaVwAsItRxbuVT0yvaFvBWeQknA8rEinm9RSk6ayBhcpTA3xImoaAA1OA5Fysr0xVNbaRZxhKGPP2LwtDnsQ6RU0URoh8s9h0hHVQUGXUK7o1lT9LWVp0TF2rFeEn_QZiPwaTFoJfshHPlIZNaE6BgvOYUr7I3lnrYVt4CcTi-sxVxbv0dK6N3FOqJ28TVZeDVy8NFvh22D_-vDz8vdt5Pt7H7BMiOjGQ",
+    "question": "What are the latest updates on UPI transactions?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PZ96MnicHdBdbpswAABg7TJ9bGxSMjVSNI0EiJAww_gHeJmwTXDANjRlpeFtV9gZdqqeptOO8H2__5qrGz6-_NHzPL3uN5tlWR67cexM-yhHu2le705uZGOMaOSw333dwW8XeQjfZHC8ySCn08ROGBTgGdTnpCJgdoJGIeVo5n3Qk0hfZYmd6CWoDEpqD1alF6Ui-j6LeOZZrLfVMB9rgmM5JC-i7Na2ZGvhVMYAS8lJEeqCobDwpbjDrB1U0bgaVwAsItRxbuVT0yvaFvBWeQknA8rEinm9RSk6ayBhcpTA3xImoaAA1OA5Fysr0xVNbaRZxhKGPP2LwtDnsQ6RU0URoh8s9h0hHVQUGXUK7o1lT9LWVp0TF2rFeEn_QZiPwaTFoJfshHPlIZNaE6BgvOYUr7I3lnrYVt4CcTi-sxVxbv0dK6N3FOqJ28TVZeDVy8NFvh22D_-vDz8vdt5Pt7H7BMiOjGQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VIbGlRMGxmUjNGdFpVbFNUR013VVhBemFYVnJPSEY2ZWtrd1dXZHpabVJ5WW01SmMwWnBhMlkyT1ZCWVFXRmFhREI1Tm1jeVNFSllZVWRaWW5VMVZIYzRaVzlTTmtSWFdXWlNUa3R2Ukd4cFQyeFplV014ZDFwR1VSSVhWVmwxTldGMWVVZEtZVzVJY0RnMFVIZGpaVEpwUVRRYUlrRkVjM0k1WmxOMlVWTnFkM3B1V2t0WmVuaHdhbUUxY1hRd1FVUkJVemd4TWxFIiwiZmN2IjoiMyIsImVpIjoiVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTQiLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZiQ1EyejQiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBsYXRlc3QgdXBkYXRlcyBvbiBVUEkgdHJhbnNhY3Rpb25zPyIsImxrIjoiR2hGMWNHa2diR0YwWlhOMElIVndaR0YwWlEiLCJicyI6ImMxMk9QUV9DSUJDRzQzcVRYeFBUeGNiTm9XRnc2TUpvM0Z3YTU0dlNsS1NoRFJ6cDN4ZFFFOW9ON3Q3bnVSY2FxSjQ5TVpMVHlMMUdxMmRzSDNkMFlkQWVqVVZaeTZ1U0I3RkxtekNadk1sVGFPQ1VXZVBfcVBhTW5TWU8wUmJaS0ZMeUtQWUpMY2JSQWplb0YzY0g0Z1NINlowZU9HWVkyWkgxOUdJeldwOUxwQUtMS0xSd1daWDROaHk3X0Y5WmxEeUxhdjdseTJ3U0Y3bnQ1Z00iLCJpZCI6ImZjX1VZdTVhdXlHSmFuSHA4NFB3Y2UyaUE0XzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VIbGlRMGxmUjNGdFpVbFNUR013VVhBemFYVnJPSEY2ZWtrd1dXZHpabVJ5WW01SmMwWnBhMlkyT1ZCWVFXRmFhREI1Tm1jeVNFSllZVWRaWW5VMVZIYzRaVzlTTmtSWFdXWlNUa3R2Ukd4cFQyeFplV014ZDFwR1VSSVhWVmwxTldGMWVVZEtZVzVJY0RnMFVIZGpaVEpwUVRRYUlrRkVjM0k1WmxOMlVWTnFkM3B1V2t0WmVuaHdhbUUxY1hRd1FVUkJVemd4TWxFIiwiZmN2IjoiMyIsImVpIjoiVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTQiLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZiQ1EyejQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5ldyBydWxlIG9mIHRoZSBVUEkgdHJhbnNhY3Rpb24/IiwibGsiOiJHaU4zYUdGMElHbHpJRzVsZHlCeWRXeGxJRzltSUhWd2FTQjBjbUZ1YzJGamRHbHZiZyIsImJzIjoiYzEyT1BRX0NJQkNHNDNxVFh4UFR4Y2JOb1dGdzZNSm8zRndhNTR2U2xLU2hEUnpwM3hkUUU5b043dDdudVJjYXFKNDlNWkxUeUwxR3EyZHNIM2QwWWRBZWpVVlp5NnVTQjdGTG16Q1p2TWxUYU9DVVdlUF9xUGFNblNZTzBSYlpLRkx5S1BZSkxjYlJBamVvRjNjSDRnU0g2WjBlT0dZWTJaSDE5R0l6V3A5THBBS0xLTFJ3V1pYNE5oeTdfRjlabER5TGF2N2x5MndTRjdudDVnTSIsImlkIjoiZmNfVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTRfNSJ9",
+    "page_token": "xf2PLXicHdBdboIwAADg7DI-SvmZmyZmSYUOzKgp0gJ9WaBVEcrPlIn0bXfZqXaaLbvBl-_rW53b-ufhVg5Df10ZxjiO81PXndRhLrrGyK9TKwyRK1Xkol4tnhbmy1Gsvc8Abj4CSGjfMzcCe3N74Wppx8lW47rvYnBX3N-iIpU6akNbsmUrmiHfeUyHPnR4M1QFoJrX9_Ne1VYIlognw-6NokgmVxvTZ500LM9UMMhUjsSGAauQmwPEMxvuCciAtBSKQTjFiHex1bu5jRzayg2phEM0z7CPnYN3tTLFs9QqSUQHWiDIaXNf5AgRkZjTwfOsQmc6rqQTU6pJLTVLEPRKyZKUmlnKHiPQl0Vdjjs3ItLCKmwUxLA7ExppUamGUscsXsuJVVGQgu258Mvpz4FJhW-YOjb1yh0fZ0dxW9uz_8_1-7EZVv2lO_0CUfaDfw",
+    "question": "What is the new rule of the UPI transaction?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xf2PLXicHdBdboIwAADg7DI-SvmZmyZmSYUOzKgp0gJ9WaBVEcrPlIn0bXfZqXaaLbvBl-_rW53b-ufhVg5Df10ZxjiO81PXndRhLrrGyK9TKwyRK1Xkol4tnhbmy1Gsvc8Abj4CSGjfMzcCe3N74Wppx8lW47rvYnBX3N-iIpU6akNbsmUrmiHfeUyHPnR4M1QFoJrX9_Ne1VYIlognw-6NokgmVxvTZ500LM9UMMhUjsSGAauQmwPEMxvuCciAtBSKQTjFiHex1bu5jRzayg2phEM0z7CPnYN3tTLFs9QqSUQHWiDIaXNf5AgRkZjTwfOsQmc6rqQTU6pJLTVLEPRKyZKUmlnKHiPQl0Vdjjs3ItLCKmwUxLA7ExppUamGUscsXsuJVVGQgu258Mvpz4FJhW-YOjb1yh0fZ0dxW9uz_8_1-7EZVv2lO_0CUfaDfw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VIbGlRMGxmUjNGdFpVbFNUR013VVhBemFYVnJPSEY2ZWtrd1dXZHpabVJ5WW01SmMwWnBhMlkyT1ZCWVFXRmFhREI1Tm1jeVNFSllZVWRaWW5VMVZIYzRaVzlTTmtSWFdXWlNUa3R2Ukd4cFQyeFplV014ZDFwR1VSSVhWVmwxTldGMWVVZEtZVzVJY0RnMFVIZGpaVEpwUVRRYUlrRkVjM0k1WmxOMlVWTnFkM3B1V2t0WmVuaHdhbUUxY1hRd1FVUkJVemd4TWxFIiwiZmN2IjoiMyIsImVpIjoiVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTQiLCJxYyI6IkNqSjNhR0YwSUdGeVpTQjBhR1VnYkdGMFpYTjBJR1JsZG1Wc2IzQnRaVzUwY3lCcGJpQjFjR2tnY21WbmRXeGhkR2x2YmhBQWZiQ1EyejQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5ldyBydWxlIG9mIHRoZSBVUEkgdHJhbnNhY3Rpb24%2FIiwibGsiOiJHaU4zYUdGMElHbHpJRzVsZHlCeWRXeGxJRzltSUhWd2FTQjBjbUZ1YzJGamRHbHZiZyIsImJzIjoiYzEyT1BRX0NJQkNHNDNxVFh4UFR4Y2JOb1dGdzZNSm8zRndhNTR2U2xLU2hEUnpwM3hkUUU5b043dDdudVJjYXFKNDlNWkxUeUwxR3EyZHNIM2QwWWRBZWpVVlp5NnVTQjdGTG16Q1p2TWxUYU9DVVdlUF9xUGFNblNZTzBSYlpLRkx5S1BZSkxjYlJBamVvRjNjSDRnU0g2WjBlT0dZWTJaSDE5R0l6V3A5THBBS0xLTFJ3V1pYNE5oeTdfRjlabER5TGF2N2x5MndTRjdudDVnTSIsImlkIjoiZmNfVVl1NWF1eUdKYW5IcDg0UHdjZTJpQTRfNSJ9",
     "type": "ai_overview"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "What are the latest developments in UPI regulation?",
-   "time_taken_displayed": 0.2,
-   "total_results": 133
+   "time_taken_displayed": 0.23,
+   "total_results": 145000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:02:38 UTC",
+   "created_at": "2026-09-27 21:32:01 UTC",
    "google_url": "https://www.google.com/search?q=What+are+the+latest+developments+in+UPI+regulation%3F&oq=What+are+the+latest+developments+in+UPI+regulation%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcb5e9df9ddb62ad6bdbf",
-   "json_endpoint": "https://serpapi.com/searches/EBZoYRzXb6dSXGcTlGJfk6cj9_lGgV7C9UwNHYEWkVg/6aafcb5e9df9ddb62ad6bdbf.json",
-   "markdown_endpoint": "https://serpapi.com/searches/EBZoYRzXb6dSXGcTlGJfk6cj9_lGgV7C9UwNHYEWkVg/6aafcb5e9df9ddb62ad6bdbf.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/EBZoYRzXb6dSXGcTlGJfk6cj9_lGgV7C9UwNHYEWkVg/6aafcb5e9df9ddb62ad6bdbf.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:02:38 UTC",
-   "raw_html_file": "https://serpapi.com/searches/EBZoYRzXb6dSXGcTlGJfk6cj9_lGgV7C9UwNHYEWkVg/6aafcb5e9df9ddb62ad6bdbf.html",
+   "id": "6ab98b510d0b29496fb538b1",
+   "json_endpoint": "https://serpapi.com/searches/EWSv2SyKdME6r_3DjOHdyGfLog9mJRC1Wfs0H6CYZCc/6ab98b510d0b29496fb538b1.json",
+   "markdown_endpoint": "https://serpapi.com/searches/EWSv2SyKdME6r_3DjOHdyGfLog9mJRC1Wfs0H6CYZCc/6ab98b510d0b29496fb538b1.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/EWSv2SyKdME6r_3DjOHdyGfLog9mJRC1Wfs0H6CYZCc/6ab98b510d0b29496fb538b1.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:32:01 UTC",
+   "raw_html_file": "https://serpapi.com/searches/EWSv2SyKdME6r_3DjOHdyGfLog9mJRC1Wfs0H6CYZCc/6ab98b510d0b29496fb538b1.html",
    "status": "Success",
-   "total_time_taken": 0.37
+   "total_time_taken": 0.51
   },
   "search_parameters": {
    "device": "desktop",
@@ -326,15 +498,10 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=20",
     "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=80"
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+latest+developments+in+UPI+regulation%3F&start=40"
    }
   }
  },

@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 896.377,
+ "elapsed_ms": 1433.053,
  "engine": "google",
- "fetched_at": "2026-09-20T12:02:48.018733+00:00",
+ "fetched_at": "2026-09-30T15:16:51.818833+00:00",
  "frugal_cache_version": 1,
  "key": "079fc370726386e04ddbfa50be041eeff7a57c57b18351690326042f7a3a7ff8",
  "params": {
@@ -10,311 +10,422 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "XxvJAHiczVVbcqpIGF7ArGN8SSKo8ZYq6lR3A_GKYm7qC8W1UcE2NIr6NjuYRcyqZjXTIEYwmsw5D1PzV7VNN5___eP_4y9vtlz8_dufbhiu6APHRVFUxIRgzy6axOd0uluanEM8GpjuD0rWgWnPLMF0A-Lbhd1GqBRMKvAFeyZMG-uNvkIleVgOqwoZBsEY3INGIVEhaIZO7TmzsJ1TTuPYz-L3isgORVq0l8W1Q6dis2Q99xrFMl9qFgec7jMA-A9FxTDeOgBdx7BX0veaYgVtAKWMpjbAyQ5PqMnhNVKTVwhf1QYPNkcJXGVL1PatSGS3aX7Eq_9lJmDuGCW-ABAlXkIw-z6ajKhpLMe4vsjUBzovafbI6SZb45yvOcFR7igzLzSA0MnImTE358ZHpkwMGi0CRQhervvN8tNtg-oCqNKlELKiSq_3H5XrTR7ZDWdh1rg8ZwRsK3Ez0zWTh4DG_Yyemzx53GzFvigr7-uBG8ndTm-w7487irFbNTBnGgznEd2yLc3V-B_JuVQuVflmpd64TYhk0g8m0SyThmBtPPXc-9keFHtFWDrSCB2KDj5VTGJn1L4QGEQp9EKJ4ek2LlhaUlXO6k1LCQEiQBqBfGm7wzivj8easR7ds9JkESercfN_ptFBcAbMaJQ40iYpMIs4oB4z1M0Utg0ufWbO41Zbp0fxEzBHQMTiXYBjYibnmidARViKOYCkFkyzZmZ1sIi7Hwd4dFiKv1DwiDhhD6CMT3EK2irog7bEdM5eOqxDcdyrB0fjZkhtydIZ4640_ISZeUP_5tN3QeB3JIpFPfLlrP2ztGnx3V7JIStFt6uzlejcS2igA1veNzrRZZoQ3_iJiWP-v4iUzCMpnUfXiSR9T6RkHsEv5lHyfJpHcfMicpVI8PHyPOpfnEf5uBEYZYn09Tz6aSKhL4l0yNJFIpHLRFpdJRKOzomUn0fnRHKPLqdE-pV5BH9xHiW8sg9bfjit5_jqkGpt-NogfBriiv2kljv8607R-tv9Vt50om-HlOOHD75uebfazHqA5U64s241dkEebKvwLnh6aNPwZhUQHNiU3piuvVzqsxvfDgNys3IZdwu-FxCB12s6mhtbkX-ZWqPypN1SaiNj3BmP-s-02bqbl5194PAoGE9rb4HnLC1jvh1s3IpT84bdO7myid69PVS6Bq5qZG7U1IZXn87xoq68ejW_Y_JymcoVW-1VFmVPKbUH8CnUX995PaqOlcnG3u668p0uGnD6BL0h0tbUkXHiGxWULgUOXE1rYqPgB6bAqn-PgaKCN8zaECXtyRZhK2KrxqoDC9TUNZtuhGalbNqVet0x-IZpNa2Cj8PdSmjyBboMhNI_AQdEzw",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XxvJAHiczVVbcqpIGF7ArGN8SSKo8ZYq6lR3A_GKYm7qC8W1UcE2NIr6NjuYRcyqZjXTIEYwmsw5D1PzV7VNN5___eP_4y9vtlz8_dufbhiu6APHRVFUxIRgzy6axOd0uluanEM8GpjuD0rWgWnPLMF0A-Lbhd1GqBRMKvAFeyZMG-uNvkIleVgOqwoZBsEY3INGIVEhaIZO7TmzsJ1TTuPYz-L3isgORVq0l8W1Q6dis2Q99xrFMl9qFgec7jMA-A9FxTDeOgBdx7BX0veaYgVtAKWMpjbAyQ5PqMnhNVKTVwhf1QYPNkcJXGVL1PatSGS3aX7Eq_9lJmDuGCW-ABAlXkIw-z6ajKhpLMe4vsjUBzovafbI6SZb45yvOcFR7igzLzSA0MnImTE358ZHpkwMGi0CRQhervvN8tNtg-oCqNKlELKiSq_3H5XrTR7ZDWdh1rg8ZwRsK3Ez0zWTh4DG_Yyemzx53GzFvigr7-uBG8ndTm-w7487irFbNTBnGgznEd2yLc3V-B_JuVQuVflmpd64TYhk0g8m0SyThmBtPPXc-9keFHtFWDrSCB2KDj5VTGJn1L4QGEQp9EKJ4ek2LlhaUlXO6k1LCQEiQBqBfGm7wzivj8easR7ds9JkESercfN_ptFBcAbMaJQ40iYpMIs4oB4z1M0Utg0ufWbO41Zbp0fxEzBHQMTiXYBjYibnmidARViKOYCkFkyzZmZ1sIi7Hwd4dFiKv1DwiDhhD6CMT3EK2irog7bEdM5eOqxDcdyrB0fjZkhtydIZ4640_ISZeUP_5tN3QeB3JIpFPfLlrP2ztGnx3V7JIStFt6uzlejcS2igA1veNzrRZZoQ3_iJiWP-v4iUzCMpnUfXiSR9T6RkHsEv5lHyfJpHcfMicpVI8PHyPOpfnEf5uBEYZYn09Tz6aSKhL4l0yNJFIpHLRFpdJRKOzomUn0fnRHKPLqdE-pV5BH9xHiW8sg9bfjit5_jqkGpt-NogfBriiv2kljv8607R-tv9Vt50om-HlOOHD75uebfazHqA5U64s241dkEebKvwLnh6aNPwZhUQHNiU3piuvVzqsxvfDgNys3IZdwu-FxCB12s6mhtbkX-ZWqPypN1SaiNj3BmP-s-02bqbl5194PAoGE9rb4HnLC1jvh1s3IpT84bdO7myid69PVS6Bq5qZG7U1IZXn87xoq68ejW_Y_JymcoVW-1VFmVPKbUH8CnUX995PaqOlcnG3u668p0uGnD6BL0h0tbUkXHiGxWULgUOXE1rYqPgB6bAqn-PgaKCN8zaECXtyRZhK2KrxqoDC9TUNZtuhGalbNqVet0x-IZpNa2Cj8PdSmjyBboMhNI_AQdEzw"
+   "page_token": "Z7I1BniczVZdcuI4ED7AnmN5ScAGHH5S5ZqShQji3xjyMy-UkY0wYEQsgoG3ucSeYE-1p1nZjsEwmNTMw9Y22EJSq9Wt7k8fP_5eOqvFP3_8Ndts1vxRknzfz1HG6NLOEeZKJt-viDRlS-6R2TfOPjxiO5ZKZh5z7cx-qxYzhKtyxnZUxbGrpmeU2u0y87tKn1bnDaYrmdCEOp6Y3J6LHXZzLo0l8Vr8WayJTo7n7FXumdut9apj5Ut6riAXirmeZLpCAfyHoiOAgSbaqEkTCAD62ligogMY2IqFwtNUJLXIXrAnDQdaqVviYJUmPhiEqn1l9zDjwoQeKxnpHuvJjh82mhbtaARO0a_jOUl0NJp-dC1V8PXhaCVMbPr20-w1a53zPgNaTQG6rsUuXGTFSEaloSDKQEMcRra2A5rvpBz25wLxHYLGgt0OMXQE4kp8HKDORVKxZFFRvLI08USTlxwyI-EPjwc1DYdVmT29FVp1b7Mvwx77cOs1gnYGtV53k3qPSmQi9JbMtGxrPBvL38J-vpB_kKvFcuU-BBPhRzTxJJp6bOB33_NV3kG5dk7Lx1CCx4RcBIREH17LlThZeG1BmCSawEFisQOT1TSK9SmQMcBnFUER7gftU5zynkgo0EgSevEGFESwPK6FV5QiKNGwsHBUYPi0_KgySrhBk1O1KzD46R6AEPifMdViG58O6BfHBIGBxVw8qp2bF0E7MxS0miGc5qEaOat_GQ1OIcPYn6DgEToaAclfOAElKOobhhXfDawsIF1oWDirgehcaAiKUBi9SD9KueKgL454lArRm0LT7oMzwTFmLiCQhE6jz2r9V1Z1lPmo0-ocmmTa2LvoYDp7eh0qzJ38AvOQ_xeYYl4affJSOpjQ12AK7sFbvBS-jrxEjQhMrXQwIXziJZrgJT9WOvHSJZigkQBTxEtUq1_npV8FE7wBJnwLTEGk18Ckp4Ep5KUzMDUveekMTEdeisH0e7yEf4-XQmzZUXNOUh9zmkpWCDt6Rel189Op39VKvPfSrKHS9_7offs1WU3dzaNrWsv7sWM9aoXmZm_dj8UAe7StzLu6NDc239ytPUY9m_M7MrNXK9O5c-2Nx-7WM4HfjLv0mCqbD1t9h4eTYbvnTwtIUQZj6GWzY-oTBbsNg9emreJwYT1tHrrowe-3rUGJK_28J_6KLtyGjwyr5ReRSWajF_u9ym2r6Q4Oq2WzVGavctZ7PaD985qXmjvL-9593mez_SolstVoHtBgi3oFNH7eVlpsvu2u0ccu9Iqr-_ZTa02aC8UlGdcjqkiLQkFXBy9UlCB8E7xAxcPE44unJPCsZTgxxzbfqhOZVM1KwS4RUq5O89OMSzf7taoUM3zlqfl_AeLvSlM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Z7I1BniczVZdcuI4ED7AnmN5ScAGHH5S5ZqShQji3xjyMy-UkY0wYEQsgoG3ucSeYE-1p1nZjsEwmNTMw9Y22EJSq9Wt7k8fP_5eOqvFP3_8Ndts1vxRknzfz1HG6NLOEeZKJt-viDRlS-6R2TfOPjxiO5ZKZh5z7cx-qxYzhKtyxnZUxbGrpmeU2u0y87tKn1bnDaYrmdCEOp6Y3J6LHXZzLo0l8Vr8WayJTo7n7FXumdut9apj5Ut6riAXirmeZLpCAfyHoiOAgSbaqEkTCAD62ligogMY2IqFwtNUJLXIXrAnDQdaqVviYJUmPhiEqn1l9zDjwoQeKxnpHuvJjh82mhbtaARO0a_jOUl0NJp-dC1V8PXhaCVMbPr20-w1a53zPgNaTQG6rsUuXGTFSEaloSDKQEMcRra2A5rvpBz25wLxHYLGgt0OMXQE4kp8HKDORVKxZFFRvLI08USTlxwyI-EPjwc1DYdVmT29FVp1b7Mvwx77cOs1gnYGtV53k3qPSmQi9JbMtGxrPBvL38J-vpB_kKvFcuU-BBPhRzTxJJp6bOB33_NV3kG5dk7Lx1CCx4RcBIREH17LlThZeG1BmCSawEFisQOT1TSK9SmQMcBnFUER7gftU5zynkgo0EgSevEGFESwPK6FV5QiKNGwsHBUYPi0_KgySrhBk1O1KzD46R6AEPifMdViG58O6BfHBIGBxVw8qp2bF0E7MxS0miGc5qEaOat_GQ1OIcPYn6DgEToaAclfOAElKOobhhXfDawsIF1oWDirgehcaAiKUBi9SD9KueKgL454lArRm0LT7oMzwTFmLiCQhE6jz2r9V1Z1lPmo0-ocmmTa2LvoYDp7eh0qzJ38AvOQ_xeYYl4affJSOpjQ12AK7sFbvBS-jrxEjQhMrXQwIXziJZrgJT9WOvHSJZigkQBTxEtUq1_npV8FE7wBJnwLTEGk18Ckp4Ep5KUzMDUveekMTEdeisH0e7yEf4-XQmzZUXNOUh9zmkpWCDt6Rel189Op39VKvPfSrKHS9_7offs1WU3dzaNrWsv7sWM9aoXmZm_dj8UAe7StzLu6NDc239ytPUY9m_M7MrNXK9O5c-2Nx-7WM4HfjLv0mCqbD1t9h4eTYbvnTwtIUQZj6GWzY-oTBbsNg9emreJwYT1tHrrowe-3rUGJK_28J_6KLtyGjwyr5ReRSWajF_u9ym2r6Q4Oq2WzVGavctZ7PaD985qXmjvL-9593mez_SolstVoHtBgi3oFNH7eVlpsvu2u0ccu9Iqr-_ZTa02aC8UlGdcjqkiLQkFXBy9UlCB8E7xAxcPE44unJPCsZTgxxzbfqhOZVM1KwS4RUq5O89OMSzf7taoUM3zlqfl_AeLvSlM"
   },
-  "organic_results": [
+  "inline_images": [
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The official music video for Ariana Grande's “petal” out july 31 at 11am et. Director: Christian Breslauer Prod , a division of UMG Recordings, ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
-     }
-    },
-    "date": "Jul 31, 2026",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
-    "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVkiWZu3x4N7XwkL1fT5iwnK5sKkhm-80h2cuuoJRvyn3-qU-eChFrzxI1KV8IpXwNaI1DWVIaOC3DpXssNs4KLyS2qIAkd9LrH07klGSz15KPYOo02FJWwHuSTjge8A&ved=2ahUKEwjQhMbLjv2WAxX9FlkFHa4aEPwQFnoECBwQAQ&uoh=1",
-    "snippet": "The official music video for Ariana Grande's “petal” out july 31 at 11am et. Director: Christian Breslauer Prod , a division of UMG Recordings, ...",
-    "source": "YouTube",
-    "title": "Ariana Grande - petal"
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3900955402578060446",
+    "source": "https://www.instagram.com/reel/DYi-kU_TmSe/",
+    "source_name": "Instagram",
+    "thumbnail": "https://serpapi.com/searches/6abd27e25c018f8b9c2570de/images/ezhrGpAB9k483ceIaw9f8YfqhL1t-DXEIi5GSjNAPKE.jpeg",
+    "title": "Chennai Metro Rail Limited (CMRL) achieved another important milestone in  its Phase-2 expansion project after tunnel boring machine “Servarayan”  successfully completed underground tunnelling near ..."
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "During the sixth assessment cycle ( October 2015 to July 2023) the IPCC produced the Sixth Assessment Report (AR6) with contributions by its three Working ...",
-      "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAABwBQCdASocABwAPtEutFooIagoGAEAGgliALEfIpRsSpD_AeYEYfpk4L0bDe4dWm2k0jsAANJ6rnUIfGcGNfWQajgGu4F6FShzJJUdahlY76YquGRZxublORd8Miot-3lwO0TTM6X69YCJJUd9AUQliYVq553HbzPH8xz8TWimhxar5szvNysUf_cDav9_LyIb92FuG5EMjmCDAojZb2OJxAzjTuK1018rhoVDoPkfu09FaDbENRYzkVb1TXTwrzRmE6kIMI2U5JWQ4ki3u6z-AcTcmuJ3_ZEUQvgO7OgoAhDbgkwpesgAAAA.webp",
-      "source_info_link": "https://www.ipcc.ch/assessment-report/ar6/"
-     }
-    },
-    "displayed_link": "https://www.ipcc.ch › assessment-report",
-    "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAABwBQCdASocABwAPtEutFooIagoGAEAGgliALEfIpRsSpD_AeYEYfpk4L0bDe4dWm2k0jsAANJ6rnUIfGcGNfWQajgGu4F6FShzJJUdahlY76YquGRZxublORd8Miot-3lwO0TTM6X69YCJJUd9AUQliYVq553HbzPH8xz8TWimhxar5szvNysUf_cDav9_LyIb92FuG5EMjmCDAojZb2OJxAzjTuK1018rhoVDoPkfu09FaDbENRYzkVb1TXTwrzRmE6kIMI2U5JWQ4ki3u6z-AcTcmuJ3_ZEUQvgO7OgoAhDbgkwpesgAAAA.webp",
-    "link": "https://www.ipcc.ch/assessment-report/ar6/",
-    "position": 2,
-    "read_more_link": "https://www.ipcc.ch/assessment-report/ar6/#:~:text=During%20the%20sixth%20assessment%20cycle,to%20its%20latest%20Methodology%20Report.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVA5espICO2HXctmTwfTlnXo7cPFhtSOnhGlNKru7gPz39qmFMRt565cW7Iaggk5pZjLl56fo_JLHQcH6LjakhsBmzeqx_Z88EwhwPitzsh5d9dvN5oYCbptNz2TKH&ved=2ahUKEwjQhMbLjv2WAxX9FlkFHa4aEPwQFnoECB0QAQ&uoh=1",
-    "snippet": "During the sixth assessment cycle ( October 2015 to July 2023) the IPCC produced the Sixth Assessment Report (AR6) with contributions by its three Working ...",
-    "source": "Intergovernmental Panel on Climate Change (IPCC)",
-    "title": "Sixth Assessment Report"
+    "original": "https://www.smec.com/wp-content/uploads/2022/10/SMEC-Station-Digital-Model.jpg",
+    "source": "https://www.smec.com/lk/project/chennai-metro-phase-2/",
+    "source_name": "SMEC",
+    "thumbnail": "https://serpapi.com/searches/6abd27e25c018f8b9c2570de/images/jB75KHB4SCOAu3gVbaLiNkHp1Cx2mTcCm13L4a54UIc.jpeg",
+    "title": "Chennai Metro Phase 2 - SMEC"
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "EVERYTHING YOU NEED TO KNOW ABOUT HUMAN RIGHTS. Explore our extensive library of news, blogs, films and reports, updated daily. Content Types. Campaigns",
-      "icon": "https://serpapi.com/images/i/UklGRuIAAABXRUJQVlA4INYAAABwBQCdASocABwAPtEutFooIagoGAEAGglqAJ0zHGQOEAfDxBv8HO8BN9fsmyFqLLPa56AAAP7vs6tD-pvzsW9D-r8QehVUXXm-iOEOzX-J2pnOsut2f22KH3VN__ow_9l5E4i7_GkUUMROdAtMzOwK8gGFF6wTfQ5Qy54eEyGmXB7sLLxL0kI5Xou4Z02FjV9f-45C7PPYckumOg0O5koHxlveZZ7_5h2hFNopSmirZv8dPEO71JP1HsTxNkFNZp35Vz57sUEBs8ujvERhPFKWHvNgAAAA.webp",
-      "source_info_link": "https://www.amnesty.org/en/latest/"
-     }
-    },
-    "displayed_link": "https://www.amnesty.org › latest",
-    "favicon": "https://serpapi.com/images/i/UklGRuIAAABXRUJQVlA4INYAAABwBQCdASocABwAPtEutFooIagoGAEAGglqAJ0zHGQOEAfDxBv8HO8BN9fsmyFqLLPa56AAAP7vs6tD-pvzsW9D-r8QehVUXXm-iOEOzX-J2pnOsut2f22KH3VN__ow_9l5E4i7_GkUUMROdAtMzOwK8gGFF6wTfQ5Qy54eEyGmXB7sLLxL0kI5Xou4Z02FjV9f-45C7PPYckumOg0O5koHxlveZZ7_5h2hFNopSmirZv8dPEO71JP1HsTxNkFNZp35Vz57sUEBs8ujvERhPFKWHvNgAAAA.webp",
-    "link": "https://www.amnesty.org/en/latest/",
-    "position": 3,
-    "read_more_link": "https://www.amnesty.org/en/latest/#:~:text=EVERYTHING%20YOU%20NEED%20TO%20KNOW,Content%20Types",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVIFUxNLGi58xzl4hPPt3NrQ4JjL3GHBgz10sWUVeIiiVeqEM0043guQBujt5rXauXAb7i1n_jF89cGFQE3nJ6PMdrL4JT_otM28KMh4zCGtBWWDZEew&ved=2ahUKEwjQhMbLjv2WAxX9FlkFHa4aEPwQFnoECB8QAQ&uoh=1",
-    "snippet": "EVERYTHING YOU NEED TO KNOW ABOUT HUMAN RIGHTS. Explore our extensive library of news, blogs, films and reports, updated daily. Content Types. Campaigns",
-    "snippet_highlighted_words": [
-     "news"
-    ],
-    "source": "Amnesty International",
-    "title": "Latest"
+    "original": "https://i.ytimg.com/vi/n95ffxGbcBI/mqdefault.jpg",
+    "source": "https://www.youtube.com/watch?v=n95ffxGbcBI",
+    "source_name": "YouTube",
+    "thumbnail": "https://serpapi.com/searches/6abd27e25c018f8b9c2570de/images/yv0D-B2akfISM6yO_icBAiVoCXq6dtae5BAIG6p5dtg.jpeg",
+    "title": "Chennai metro phase 2 - 2026 progress"
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "JUST BEFORE FOREVER is a romantic Nollywood drama filled with love, emotions, difficult choices, and unexpected moments. Latest 2026 Nigerian ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=WIQUH0YSZAs"
-     }
-    },
-    "date": "Aug 11, 2026",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=WIQUH0YSZAs",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV6LCsJMa1GKKM25YDwO-VBpNz0J-z4XrDFmSE2JBq1qQ2nXgZq3Wed6dIyyUwfniVnaBWl1uuNJdu1tjvXcReP9lujRCqeTEJPtAtdm1jgs8XExVOlk-1285KW4HiCQ&ved=2ahUKEwjQhMbLjv2WAxX9FlkFHa4aEPwQFnoECB4QAQ&uoh=1",
-    "snippet": "JUST BEFORE FOREVER is a romantic Nollywood drama filled with love, emotions, difficult choices, and unexpected moments. Latest 2026 Nigerian ...",
-    "snippet_highlighted_words": [
-     "Latest"
-    ],
-    "source": "YouTube",
-    "title": "JUST BEFORE FOREVER - MAURICE SAM, UCHE ..."
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3982929284181689525",
+    "source": "https://www.instagram.com/p/DdGN7iDCXQe/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7tldakqAWSuQITyozUa5aErdWc-MC7J9OAEtJo7OYrLi_YEw1AQ3NLI&s",
+    "title": "Chennai's Metro network is set for a major expansion, with ..."
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Latest is a free and open source app for macOS that checks if all your apps are up to date. Get a quick overview of which apps changed and what changed and ...",
-      "source_info_link": "https://max.codes/latest/"
-     }
-    },
-    "displayed_link": "https://max.codes › latest",
-    "link": "https://max.codes/latest/",
-    "position": 5,
-    "read_more_link": "https://max.codes/latest/#:~:text=Latest%20is%20a%20free%20and,and%20update%20them%20right%20away.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVT9-WpIRrxfsdHfwodi2GdMzJLr3gHfYnTkJIRbwllzxkSEe9Up95cz-6H-z7Jivf1i4W4o-dP6DJyGs0gcjP4fB5dNnQS3dvpNsMCQ&ved=2ahUKEwjQhMbLjv2WAxX9FlkFHa4aEPwQFnoECBsQAQ&uoh=1",
-    "snippet": "Latest is a free and open source app for macOS that checks if all your apps are up to date. Get a quick overview of which apps changed and what changed and ...",
-    "snippet_highlighted_words": [
-     "Latest"
-    ],
-    "source": "max.codes",
-    "title": "Latest"
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=907335141403004",
+    "source": "https://www.facebook.com/EconomicTimes/posts/tamilnadu-cm-vijay-reviews-chennai-metro-phase-ii-progress-rides-driverless-trai/1537277081761528/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ns7MORXDC5iw3ihg0sPxFT52DKn-MHRdbv_6ZmDEKH7JQ7Ka3-JNB2o&s",
+    "title": "TamilNadu CM Vijay reviews #Chennai metro phase-II progress ..."
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Watch this space for further details, as plans progress. Or you can follow our progress in the press, where we are getting plenty of coverage. THE GUARDIAN.",
-      "icon": "https://serpapi.com/images/i/UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoQABAAAsBMJZwC7IExF8cg0rS3QAD-8Jn8PfIdV18b7qPLYZDxvKcnQ9SR_fpHuly1Ouhbbt4i-FdY_vr8_plLn_Zf_2odVuFFtYuC7lmSsny6SUMY-Hk3seEx195EtoY3dNBXq9QyaantyBcNEqh368yhc6eBqAA.webp",
-      "source_info_link": "https://georgerrmartin.com/notablog/"
-     }
-    },
-    "displayed_link": "https://georgerrmartin.com › notablog",
-    "favicon": "https://serpapi.com/images/i/UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoQABAAAsBMJZwC7IExF8cg0rS3QAD-8Jn8PfIdV18b7qPLYZDxvKcnQ9SR_fpHuly1Ouhbbt4i-FdY_vr8_plLn_Zf_2odVuFFtYuC7lmSsny6SUMY-Hk3seEx195EtoY3dNBXq9QyaantyBcNEqh368yhc6eBqAA.webp",
-    "link": "https://georgerrmartin.com/notablog/",
-    "position": 6,
-    "read_more_link": "https://georgerrmartin.com/notablog/#:~:text=Watch%20this%20space%20for%20further,THE%20GUARDIAN",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAV1KCNSTgtWPfO3Z-CD5QMuMOoOhOZJCr_MfUm1trF9H9Zcp9zRraremvgoKF70CIlgvfMSMHQ57Hg0KYKHTx2gztUwyAN6k9W2Ldoj7kCbI7Bd1A_4Zeu&ved=2ahUKEwjQhMbLjv2WAxX9FlkFHa4aEPwQFnoECEgQAQ&uoh=1",
-    "snippet": "Watch this space for further details, as plans progress. Or you can follow our progress in the press, where we are getting plenty of coverage. THE GUARDIAN.",
-    "snippet_highlighted_words": [
-     "progress",
-     "progress"
-    ],
-    "source": "George RR Martin | Website",
-    "title": "Not a Blog | George R.R. Martin"
+    "original": "https://tunnelingonline.com/wp-content/uploads/2026/01/S97-251127-TN-07.jpg",
+    "source": "https://tunnelingonline.com/terratec-marks-milestones-on-chennai-metro-phase-ii/",
+    "source_name": "Tunnel Business Magazine",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgUdvldDwgSLIE8vfClEt8_4tJlnvTTfwdTb1Ij124Uf4MiY3qAUBIaIo&s",
+    "title": "TERRATEC Marks Milestones on Chennai Metro Phase II"
+   },
+   {
+    "original": "https://timesofindia.indiatimes.com/photo/msid-128348575/128348575.jpg?resizemode=4",
+    "source": "https://timesofindia.indiatimes.com/videos/ai-top-news/chennai-metro-phase-ii-delay-tn-quarry-regularisation-scheme-udhayanidhi-gives-awards-and-more/videoshow/128348575.cms",
+    "source_name": "The Times of India",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIktSPnwJDBx_VmZGUMCxEQq3PRbV0sZsKslrTDsEf&s",
+    "title": "Chennai: Metro Phase II Delay, TN Quarry Regularisation Scheme, Udhayanidhi  Gives Awards and More"
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=862552912547894",
+    "source": "https://www.facebook.com/groups/124020808225555/posts/888890388405256/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo7ntQWzSobKeSRKXrZRe7LYypU6MHxS_k-ksmt4ZLmZSpXlaZJgPcLbM&s",
+    "title": "Chennai Metro Phase 3 proposal for 22nd century connectivity"
+   },
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3995306363014051250",
+    "source": "https://www.instagram.com/p/DdGN7iDCXQe/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnphfWELKPTed-HlAIejcSkasPryPXAtOQZ27Dg-hvd0Tjze0NPqMZpo&s",
+    "title": "Chennai's Metro network is set for a major expansion, with ..."
    }
   ],
-  "perspectives": [
+  "inline_videos": [
    {
-    "author": "Priya Deb",
-    "date": "1 month ago",
-    "duration": "2:27",
-    "extensions": [
-     "1.6K+ views "
+    "channel": "VMRin Payanangal",
+    "date": "Jul 7, 2026",
+    "duration": "14:24",
+    "link": "https://www.youtube.com/watch?v=NpYTKIRKBKE",
+    "platform": "YouTube",
+    "position": 1,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ3v-aHBZmJkDEwtbYjG75Y8Vy01hPHWh-1tQ",
+    "thumbnail": "https://serpapi.com/searches/6abd27e25c018f8b9c2570de/images/l-gi3Od5lRYqlRYQC4yZJ6WgEJbZ1jfpLSD9qEdWUwA.jpeg",
+    "title": "Chennai Metro Red Line Work Speed Increased?"
+   },
+   {
+    "channel": "VMRin Payanangal",
+    "date": "May 9, 2026",
+    "duration": "9:38",
+    "link": "https://www.youtube.com/watch?v=xohtIOVAIqY",
+    "platform": "YouTube",
+    "position": 2,
+    "thumbnail": "https://serpapi.com/searches/6abd27e25c018f8b9c2570de/images/0wI-RFWh4XUGFjIrlXWYtlJyym5pyqiLny46TKbAgi0.jpeg",
+    "title": "Mugalivakkam to Chennai Trade Centre Metro Update 2026  ..."
+   },
+   {
+    "channel": "Priya Deb",
+    "date": "Mar 22, 2026",
+    "duration": "3:20",
+    "link": "https://www.youtube.com/watch?v=kpviEJnrICo",
+    "platform": "YouTube",
+    "position": 3,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSJEM8Tst1kkdIkqu9l5-1c6Jqj4MKJbh01yA",
+    "thumbnail": "https://serpapi.com/searches/6abd27e25c018f8b9c2570de/images/lSm9iMIPoJmwsGTwwsYznZXt78yk1vAs6arF77wSeb0.jpeg",
+    "title": "Chennai Metro Rail Update 2026  | Perumbakkam to ..."
+   },
+   {
+    "channel": "The Economic Times",
+    "date": "Jul 30, 2026",
+    "duration": "2:51",
+    "link": "https://www.facebook.com/EconomicTimes/posts/tamilnadu-cm-vijay-reviews-chennai-metro-phase-ii-progress-rides-driverless-trai/1537277081761528/",
+    "platform": "Facebook",
+    "position": 4,
+    "thumbnail": "https://serpapi.com/searches/6abd27e25c018f8b9c2570de/images/gOPjcU54kZQ_iAF5ImtEYsfB5cZAZc5VtgUIart7YwY.jpeg",
+    "title": "#TamilNadu CM Vijay reviews #Chennai metro phase-II ..."
+   }
+  ],
+  "organic_results": [
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZWS1JKZGVzUG9MTFF1YWV5VDhjbUNkaXhPOG5yN2FaQ3R1dU90SXdrUEF2YWZ1TkdRb0doTGF5RFNsQWhNOWtEZnRIMTl6akRCY1gza09RNzJFaWp6Y0FEdE5TUWNwUG1TeDZnLUFGMXJzZWVuWEkzT05zdUFzRm9UWUl1VVBPN2U2VkdhMFRUUzR1eEFfUGpWQmVSM2p4SUtKSXBPU2YxT3NmVk0zSHhnSTl3ajRLRDFpYmZEczcxN2FoaVhsZ2NOMmpsUXlpeDR1SGJOR2JvY3NRd3E4EgQaAggAGsIGEgAaAggBIgAqADIGCAISAnVzOgBCBAgCEABKAFoAcgB6AIJAnAYIABAAGAAgACouCgZsYXRlc3QV6R0-PhoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxUP9KZAGghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFbn1z0AaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8V2B0MQRoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFQyStkAaBnBoYXNlcxoGc3RhZ2VzMu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZWS1JKZGVzUG9MTFF1YWV5VDhjbUNkaXhPOG5yN2FaQ3R1dU90SXdrUEF2YWZ1TkdRb0doTGF5RFNsQWhNOWtEZnRIMTl6akRCY1gza09RNzJFaWp6Y0FEdE5TUWNwUG1TeDZnLUFGMXJzZWVuWEkzT05zdUFzRm9UWUl1VVBPN2U2VkdhMFRUUzR1eEFfUGpWQmVSM2p4SUtKSXBPU2YxT3NmVk0zSHhnSTl3ajRLRDFpYmZEczcxN2FoaVhsZ2NOMmpsUXlpeDR1SGJOR2JvY3NRd3E4OklUYW1pbCBOYWR1IENNIFJldmlld3MgPGI-UHJvZ3Jlc3M8L2I-IG9mIDxiPkNoZW5uYWkgTWV0cm8gUGhhc2U8L2I-IDIgLi4uQqYBQXQgS2lscGF1aywgVGhvdXNhbmQgTGlnaHRzLCBhbmQgTmFuZGFuYW0sIHRoZSA8Yj5uZXcgUGhhc2U8L2I-IElJIHR1bm5lbHMgaGF2ZSB0byBwYXNzIHJpZ2h0IGJlbG93IHRoZSBvbGRlciA8Yj5QaGFzZTwvYj4gSSB0dW5uZWxzIHRoYXQgYXJlIGFscmVhZHkgcnVubmluZyZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZWS1JKZGVzUG9MTFF1YWV5VDhjbUNkaXhPOG5yN2FaQ3R1dU90SXdrUEF2YWZ1TkdRb0doTGF5RFNsQWhNOWtEZnRIMTl6akRCY1gza09RNzJFaWp6Y0FEdE5TUWNwUG1TeDZnLUFGMXJzZWVuWEkzT05zdUFzRm9UWUl1VVBPN2U2VkdhMFRUUzR1eEFfUGpWQmVSM2p4SUtKSXBPU2YxT3NmVk0zSHhnSTl3ajRLRDFpYmZEczcxN2FoaVhsZ2NOMmpsUXlpeDR1SGJOR2JvY3NRd3E4EgQaAggAGsIGEgAaAggBIgAqADIGCAISAnVzOgBCBAgCEABKAFoAcgB6AIJAnAYIABAAGAAgACouCgZsYXRlc3QV6R0-PhoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxUP9KZAGghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFbn1z0AaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8V2B0MQRoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFQyStkAaBnBoYXNlcxoGc3RhZ2VzMu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZWS1JKZGVzUG9MTFF1YWV5VDhjbUNkaXhPOG5yN2FaQ3R1dU90SXdrUEF2YWZ1TkdRb0doTGF5RFNsQWhNOWtEZnRIMTl6akRCY1gza09RNzJFaWp6Y0FEdE5TUWNwUG1TeDZnLUFGMXJzZWVuWEkzT05zdUFzRm9UWUl1VVBPN2U2VkdhMFRUUzR1eEFfUGpWQmVSM2p4SUtKSXBPU2YxT3NmVk0zSHhnSTl3ajRLRDFpYmZEczcxN2FoaVhsZ2NOMmpsUXlpeDR1SGJOR2JvY3NRd3E4OklUYW1pbCBOYWR1IENNIFJldmlld3MgPGI-UHJvZ3Jlc3M8L2I-IG9mIDxiPkNoZW5uYWkgTWV0cm8gUGhhc2U8L2I-IDIgLi4uQqYBQXQgS2lscGF1aywgVGhvdXNhbmQgTGlnaHRzLCBhbmQgTmFuZGFuYW0sIHRoZSA8Yj5uZXcgUGhhc2U8L2I-IElJIHR1bm5lbHMgaGF2ZSB0byBwYXNzIHJpZ2h0IGJlbG93IHRoZSBvbGRlciA8Yj5QaGFzZTwvYj4gSSB0dW5uZWxzIHRoYXQgYXJlIGFscmVhZHkgcnVubmluZyZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "At Kilpauk, Thousand Lights, and Nandanam, the new Phase II tunnels have to pass right below the older Phase I tunnels that are already running ...",
+      "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAACwBgCdASocABwAPtEutFooIagoGAEAGglqAHfFkq8QHPq6aTvKv_HIqdJusoXWckPf65g3-z8G3Cxfyhk8AAD-_sIlW1c4fp4Lxbn2TZ7SVQOZ6DQSj8st6sLG_enMTH6Z4i4J_xdyjBNs-7rn9I-gf7nHRWu0o6fyb_2z8qDvplrkokeG_9WiyW5qzq7u_n90AZma04eolQAgBf0jfPbi1yLF9d-4_BW7gVmpykQVjnIJE8M35tjioAiPm97-ms169fTbe1ffV5i1oxsvNQPUiU6zIyAJ-p3b8t_vNjJtcprQHbtPTMK5slT49EcSAAvXQMte-NTIAyThTz6d0aZ1yfilnhXrqf1oa5C6VRFT9xXXGX5mE-BtgHYVM7eMLKQM8cPLD4AAAA.webp",
+      "source_info_link": "https://metrorailnews.in/as/tamil-nadu-cm-reviews-progress-of-chennai-metro-phase-2-at-kathipara-junction/"
+     }
+    },
+    "date": "Jul 30, 2026",
+    "displayed_link": "https://metrorailnews.in › tamil-na...",
+    "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAACwBgCdASocABwAPtEutFooIagoGAEAGglqAHfFkq8QHPq6aTvKv_HIqdJusoXWckPf65g3-z8G3Cxfyhk8AAD-_sIlW1c4fp4Lxbn2TZ7SVQOZ6DQSj8st6sLG_enMTH6Z4i4J_xdyjBNs-7rn9I-gf7nHRWu0o6fyb_2z8qDvplrkokeG_9WiyW5qzq7u_n90AZma04eolQAgBf0jfPbi1yLF9d-4_BW7gVmpykQVjnIJE8M35tjioAiPm97-ms169fTbe1ffV5i1oxsvNQPUiU6zIyAJ-p3b8t_vNjJtcprQHbtPTMK5slT49EcSAAvXQMte-NTIAyThTz6d0aZ1yfilnhXrqf1oa5C6VRFT9xXXGX5mE-BtgHYVM7eMLKQM8cPLD4AAAA.webp",
+    "link": "https://metrorailnews.in/as/tamil-nadu-cm-reviews-progress-of-chennai-metro-phase-2-at-kathipara-junction/",
+    "position": 1,
+    "read_more_link": "https://metrorailnews.in/as/tamil-nadu-cm-reviews-progress-of-chennai-metro-phase-2-at-kathipara-junction/#:~:text=At%20Kilpauk%2C%20Thousand%20Lights%2C%20and,safety%20gap%20separating%20the%20two.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFVKRJdesPoLLQuaeyT8cmCdixO8nr7aZCtuuOtIwkPAvafuNGQoGhLayDSlAhM9kDftH19zjDBcX3kOQ72EijzcADtNSQcpPmSx6g-AF1rseenXI3ONsuAsFoTYIuUPO7e6VGa0TTS4uxA_PjVBeR3jxIKJIpOSf1OsfVM3HxgI9wj4KD1ibfDs717ahiXlgcN2jlQyix4uHbNGbocsQwq8&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQFnoECCUQAQ&uoh=1",
+    "snippet": "At Kilpauk, Thousand Lights, and Nandanam, the new Phase II tunnels have to pass right below the older Phase I tunnels that are already running ...",
+    "snippet_highlighted_words": [
+     "new Phase",
+     "Phase"
     ],
-    "link": "https://www.youtube.com/watch?v=r0WZ36h6na4",
+    "source": "Metro Rail News",
+    "thumbnail": "https://serpapi.com/searches/6abd27e25c018f8b9c2570de/images/qaBTZ58ovpfCaC1jF3yd2h8GMAoAuj-EvpwJH9FNw9U.jpeg",
+    "title": "Tamil Nadu CM Reviews Progress of Chennai Metro ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZUa2xHc21vRnhUWDRUVVFiWTJfV0FzNFhGN3VDTGhXd1dtQTlWQmQxV0lXWGpvMnZIeTlFLXZ4aFd5eUswRHZnZjB4MWRaVWhUQnY2SlpmbHZsSjNDRWxrNEYxdHFHTmRid2xGTzZ0Qy1lNHJHN2ZIOFVJQnA4NWEtTkJoUTg2X0ESBBoCCAAa7AQSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyAQIABAAGAAgACouCgZsYXRlc3QVAAAAABoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxXcwYlAGghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFT8SmEAaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8VPxKYQBoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFTaxkkAaBnBoYXNlcxoGc3RhZ2VzMpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZUa2xHc21vRnhUWDRUVVFiWTJfV0FzNFhGN3VDTGhXd1dtQTlWQmQxV0lXWGpvMnZIeTlFLXZ4aFd5eUswRHZnZjB4MWRaVWhUQnY2SlpmbHZsSjNDRWxrNEYxdHFHTmRid2xGTzZ0Qy1lNHJHN2ZIOFVJQnA4NWEtTkJoUTg2X0E6PTxiPkNoZW5uYWkgbWV0cm8gcGhhc2U8L2I-IDIgLSAyMDI2IDxiPnByb2dyZXNzPC9iPiAtIFlvdVR1YmVCNDxiPkNoZW5uYWkgbWV0cm8gcGhhc2U8L2I-IDIgLSAyMDI2IDxiPnByb2dyZXNzPC9iPi5SA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZUa2xHc21vRnhUWDRUVVFiWTJfV0FzNFhGN3VDTGhXd1dtQTlWQmQxV0lXWGpvMnZIeTlFLXZ4aFd5eUswRHZnZjB4MWRaVWhUQnY2SlpmbHZsSjNDRWxrNEYxdHFHTmRid2xGTzZ0Qy1lNHJHN2ZIOFVJQnA4NWEtTkJoUTg2X0ESBBoCCAAa7AQSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyAQIABAAGAAgACouCgZsYXRlc3QVAAAAABoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxXcwYlAGghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFT8SmEAaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8VPxKYQBoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFTaxkkAaBnBoYXNlcxoGc3RhZ2VzMpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZUa2xHc21vRnhUWDRUVVFiWTJfV0FzNFhGN3VDTGhXd1dtQTlWQmQxV0lXWGpvMnZIeTlFLXZ4aFd5eUswRHZnZjB4MWRaVWhUQnY2SlpmbHZsSjNDRWxrNEYxdHFHTmRid2xGTzZ0Qy1lNHJHN2ZIOFVJQnA4NWEtTkJoUTg2X0E6PTxiPkNoZW5uYWkgbWV0cm8gcGhhc2U8L2I-IDIgLSAyMDI2IDxiPnByb2dyZXNzPC9iPiAtIFlvdVR1YmVCNDxiPkNoZW5uYWkgbWV0cm8gcGhhc2U8L2I-IDIgLSAyMDI2IDxiPnByb2dyZXNzPC9iPi5SA25ldyICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Chennai metro phase 2 - 2026 progress.",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=n95ffxGbcBI"
+     }
+    },
+    "displayed_link": "110+ views · 3 weeks ago",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=n95ffxGbcBI",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVvTklGsmoFxTX4TUQbY2_WAs4XF7uCLhWwWmA9VBd1WIWXjo2vHy9E-vxhWyyK0Dvgf0x1dZUhTBv6JZflvlJ3CElk4F1tqGNdbwlFO6tC-e4rG7fH8UIBp85a-NBhQ86_A&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQFnoECCIQAQ&uoh=1",
+    "snippet": "Chennai metro phase 2 - 2026 progress.",
+    "snippet_highlighted_words": [
+     "Chennai metro phase",
+     "progress"
+    ],
     "source": "YouTube",
-    "thumbnails": [
-     "https://serpapi.com/searches/6aafcb675922f453ea6e55e2/images/7UXf4E4-_DEfy7qNog-AHftlWu7ea0yGmFr482baJTQ.jpeg"
-    ],
-    "title": "Chennai Metro Rail Work Update 🚇 | IT Corridor Metro: Benefit for IT Companies or Employees?",
-    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT0Qbj93n7Vi5qRk3t0aUin0Ze19Qajp7lZ-Q"
+    "title": "Chennai metro phase 2 - 2026 progress"
    },
    {
-    "author": "r/Chennai",
-    "date": "1 month ago",
-    "extensions": [
-     "20+ comments "
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZSbnpPQWlweFRaaUtSbjJIQ3lYS09nS3huUm5MR3Z0MEdtd3g3R1paNnp0T2hNS2FNZXB0OFZvMXFZeXFNZ2YwZkw0N05UQW5Qb1ZjbTV1cHNOSEYwU0dXbmN6TjhieEhfWHpVRy03MjlISzJpUHBPZDNfWE9oWUVYcHNHQXVRWlNWYWc1eVJxdXBueElVdHBaYlN0V1VKSTZYbEZudGpLN0JWUko5dkFHQ0k3VkdVVUswWBIEGgIIABqNBhICCAAaAggBIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA5QUIABAAGAAgACouCgZsYXRlc3QVFRO4PhoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxU5vJM_GghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFaKyrEAaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8VvOyxQBoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFUSGnUAaBnBoYXNlcxoGc3RhZ2VzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZSbnpPQWlweFRaaUtSbjJIQ3lYS09nS3huUm5MR3Z0MEdtd3g3R1paNnp0T2hNS2FNZXB0OFZvMXFZeXFNZ2YwZkw0N05UQW5Qb1ZjbTV1cHNOSEYwU0dXbmN6TjhieEhfWHpVRy03MjlISzJpUHBPZDNfWE9oWUVYcHNHQXVRWlNWYWc1eVJxdXBueElVdHBaYlN0V1VKSTZYbEZudGpLN0JWUko5dkFHQ0k3VkdVVUswWDo6VEVSUkFURUMgTWFya3MgTWlsZXN0b25lcyBvbiA8Yj5DaGVubmFpIE1ldHJvIFBoYXNlPC9iPiBJSUKhATxiPlBoYXNlPC9iPiBJSSBvZiB0aGUgPGI-Q2hlbm5haSBNZXRybzwvYj4gd2lsbCBhZGQgbmVhcmx5IDExOSBrbSBvZiA8Yj5uZXc8L2I-IGxpbmVzIGFuZCBhcHByb3hpbWF0ZWx5IDEyOCBzdGF0aW9ucywgZWFzaW5nIHJvYWQgY29uZ2VzdGlvbiwgaW1wcm92aW5nJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZSbnpPQWlweFRaaUtSbjJIQ3lYS09nS3huUm5MR3Z0MEdtd3g3R1paNnp0T2hNS2FNZXB0OFZvMXFZeXFNZ2YwZkw0N05UQW5Qb1ZjbTV1cHNOSEYwU0dXbmN6TjhieEhfWHpVRy03MjlISzJpUHBPZDNfWE9oWUVYcHNHQXVRWlNWYWc1eVJxdXBueElVdHBaYlN0V1VKSTZYbEZudGpLN0JWUko5dkFHQ0k3VkdVVUswWBIEGgIIABqNBhICCAAaAggBIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA5QUIABAAGAAgACouCgZsYXRlc3QVFRO4PhoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxU5vJM_GghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFaKyrEAaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8VvOyxQBoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFUSGnUAaBnBoYXNlcxoGc3RhZ2VzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZSbnpPQWlweFRaaUtSbjJIQ3lYS09nS3huUm5MR3Z0MEdtd3g3R1paNnp0T2hNS2FNZXB0OFZvMXFZeXFNZ2YwZkw0N05UQW5Qb1ZjbTV1cHNOSEYwU0dXbmN6TjhieEhfWHpVRy03MjlISzJpUHBPZDNfWE9oWUVYcHNHQXVRWlNWYWc1eVJxdXBueElVdHBaYlN0V1VKSTZYbEZudGpLN0JWUko5dkFHQ0k3VkdVVUswWDo6VEVSUkFURUMgTWFya3MgTWlsZXN0b25lcyBvbiA8Yj5DaGVubmFpIE1ldHJvIFBoYXNlPC9iPiBJSUKhATxiPlBoYXNlPC9iPiBJSSBvZiB0aGUgPGI-Q2hlbm5haSBNZXRybzwvYj4gd2lsbCBhZGQgbmVhcmx5IDExOSBrbSBvZiA8Yj5uZXc8L2I-IGxpbmVzIGFuZCBhcHByb3hpbWF0ZWx5IDEyOCBzdGF0aW9ucywgZWFzaW5nIHJvYWQgY29uZ2VzdGlvbiwgaW1wcm92aW5nJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Phase II of the Chennai Metro will add nearly 119 km of new lines and approximately 128 stations, easing road congestion, improving ...",
+      "icon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAACwBACdASocABwAPtE-tFooIigoFAEAGglAF2AK8z3SxBHbo-vYhymzu7uFB54AAP7nLJHfRSRp1SwXXVVtaGcUYR4_2JPV2eUX4y_pwEckj59LUX19AGGlIBAZ0VTeXg85n140Yaesjxffq23sgnO0uIZyPwDJ6NcbjGeUWRsqMkepohJSHph-b96T9jExrBYfg-PQ-NFiZPM8H-2iPXogKV6roHl6xaxuUVqLkAA.webp",
+      "source_info_link": "https://tunnelingonline.com/terratec-marks-milestones-on-chennai-metro-phase-ii/"
+     }
+    },
+    "date": "Jan 2, 2026",
+    "displayed_link": "https://tunnelingonline.com › terratec-marks-milestones...",
+    "favicon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAACwBACdASocABwAPtE-tFooIigoFAEAGglAF2AK8z3SxBHbo-vYhymzu7uFB54AAP7nLJHfRSRp1SwXXVVtaGcUYR4_2JPV2eUX4y_pwEckj59LUX19AGGlIBAZ0VTeXg85n140Yaesjxffq23sgnO0uIZyPwDJ6NcbjGeUWRsqMkepohJSHph-b96T9jExrBYfg-PQ-NFiZPM8H-2iPXogKV6roHl6xaxuUVqLkAA.webp",
+    "link": "https://tunnelingonline.com/terratec-marks-milestones-on-chennai-metro-phase-ii/",
+    "position": 3,
+    "read_more_link": "https://tunnelingonline.com/terratec-marks-milestones-on-chennai-metro-phase-ii/#:~:text=Phase%20II%20of%20the%20Chennai,and%20supporting%20long%2Dterm%20economic%20growth.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFRnzOAipxTZiKRn2HCyXKOgKxnRnLGvt0Gmwx7GZZ6ztOhMKaMept8Vo1qYyqMgf0fL47NTAnPoVcm5upsNHF0SGWnczN8bxH_XzUG-729HK2iPpOd3_XOhYEXpsGAuQZSVag5yRqupnxIUtpZbStWUJI6XlFntjK7BVRJ9vAGCI7VGUUK0X&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQFnoECCgQAQ&uoh=1",
+    "snippet": "Phase II of the Chennai Metro will add nearly 119 km of new lines and approximately 128 stations, easing road congestion, improving ...",
+    "snippet_highlighted_words": [
+     "Phase",
+     "Chennai Metro",
+     "new"
     ],
-    "link": "https://www.reddit.com/r/Chennai/comments/1vtbj75/what_is_up_with_the_constant_delay_of_opening_the/",
-    "source": "Reddit",
-    "title": "What is up with the constant delay of opening the Poonamallee-Vadapalani Metro Line?"
+    "source": "Tunnel Business Magazine",
+    "thumbnail": "https://serpapi.com/searches/6abd27e25c018f8b9c2570de/images/qaBTZ58ovpfCaC1jF3yd2qulO2XJSEHoSO18roXpQMw.jpeg",
+    "title": "TERRATEC Marks Milestones on Chennai Metro Phase II"
    },
    {
-    "author": "unseenchennai",
-    "date": "1 month ago",
-    "extensions": [
-     "5K+ likes "
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4CL2dvdG8_dXJsPUNBRVM0Z0VCNnpzd0ZZMkVaMXJmZVBzQjNjdkpoeHB0bWFWUnpZSXRacXZSb3ZNT3l4SGNOT3VJNm9PM2hrSkpxY0dBYkNxLXlkZTcweXdlbXRqamVPQlY3em53eXN4VURFaDM3bUloWnJyUnBPaFBfSTM4RjVPY0J6SUwzczlhYjBMMEg5S19YQWVDNWp4c3FYNEpKeGhlTENZVWlLYmNZYzNFZ0lka3kzREtibnptUW5MUElPOU1XNERKVm5DN29rel9faVgwZHdzN2lZNzB4V2dBbGxFU0FBa21ZS2RleHBzYlZwZllfRjJ3VFk4Qm94VzJ5WTJfdk1TdzdqeUFFMXNqLUtYREN2VDJhS0hnbXk5bnM1UFprU0Z6X2xHQ1NSM2dSN0FGTnJLc3lrWVlNeGVtEgQaAggAGo8HEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA6QYIABAAGAAgACouCgZsYXRlc3QVSTOePhoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxUAAAAAGghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFYJDnkAaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8V7ZCwQBoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFVowlUAaBnBoYXNlcxoGc3RhZ2VzMr4CL2dvdG8_dXJsPUNBRVM0Z0VCNnpzd0ZZMkVaMXJmZVBzQjNjdkpoeHB0bWFWUnpZSXRacXZSb3ZNT3l4SGNOT3VJNm9PM2hrSkpxY0dBYkNxLXlkZTcweXdlbXRqamVPQlY3em53eXN4VURFaDM3bUloWnJyUnBPaFBfSTM4RjVPY0J6SUwzczlhYjBMMEg5S19YQWVDNWp4c3FYNEpKeGhlTENZVWlLYmNZYzNFZ0lka3kzREtibnptUW5MUElPOU1XNERKVm5DN29rel9faVgwZHdzN2lZNzB4V2dBbGxFU0FBa21ZS2RleHBzYlZwZllfRjJ3VFk4Qm94VzJ5WTJfdk1TdzdqeUFFMXNqLUtYREN2VDJhS0hnbXk5bnM1UFprU0Z6X2xHQ1NSM2dSN0FGTnJLc3lrWVlNeGVtOkI8Yj5DaGVubmFpIE1ldHJvIFBoYXNlPC9iPiBJSSB0byBCb29zdCBDb25uZWN0aXZpdHkgdG8gV2VzdGVybiAuLi5CqQFCeSAyMDMwLCA8Yj5DaGVubmFpIE1ldHJvPC9iPiBSYWlsIExpbWl0ZWQgKDxiPkNNUkw8L2I-KSBwbGFucyB0byBleHRlbmQgdGhlIDxiPlBoYXNlPC9iPiBJSSBjb3JyaWRvciBmcm9tIEtveWFtYmVkdSB0byBQYXR0YWJpcmFtLCBwYXNzaW5nIHRocm91Z2ggQW1iYXR0dXIgYW5kJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4CL2dvdG8_dXJsPUNBRVM0Z0VCNnpzd0ZZMkVaMXJmZVBzQjNjdkpoeHB0bWFWUnpZSXRacXZSb3ZNT3l4SGNOT3VJNm9PM2hrSkpxY0dBYkNxLXlkZTcweXdlbXRqamVPQlY3em53eXN4VURFaDM3bUloWnJyUnBPaFBfSTM4RjVPY0J6SUwzczlhYjBMMEg5S19YQWVDNWp4c3FYNEpKeGhlTENZVWlLYmNZYzNFZ0lka3kzREtibnptUW5MUElPOU1XNERKVm5DN29rel9faVgwZHdzN2lZNzB4V2dBbGxFU0FBa21ZS2RleHBzYlZwZllfRjJ3VFk4Qm94VzJ5WTJfdk1TdzdqeUFFMXNqLUtYREN2VDJhS0hnbXk5bnM1UFprU0Z6X2xHQ1NSM2dSN0FGTnJLc3lrWVlNeGVtEgQaAggAGo8HEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA6QYIABAAGAAgACouCgZsYXRlc3QVSTOePhoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxUAAAAAGghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFYJDnkAaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8V7ZCwQBoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFVowlUAaBnBoYXNlcxoGc3RhZ2VzMr4CL2dvdG8_dXJsPUNBRVM0Z0VCNnpzd0ZZMkVaMXJmZVBzQjNjdkpoeHB0bWFWUnpZSXRacXZSb3ZNT3l4SGNOT3VJNm9PM2hrSkpxY0dBYkNxLXlkZTcweXdlbXRqamVPQlY3em53eXN4VURFaDM3bUloWnJyUnBPaFBfSTM4RjVPY0J6SUwzczlhYjBMMEg5S19YQWVDNWp4c3FYNEpKeGhlTENZVWlLYmNZYzNFZ0lka3kzREtibnptUW5MUElPOU1XNERKVm5DN29rel9faVgwZHdzN2lZNzB4V2dBbGxFU0FBa21ZS2RleHBzYlZwZllfRjJ3VFk4Qm94VzJ5WTJfdk1TdzdqeUFFMXNqLUtYREN2VDJhS0hnbXk5bnM1UFprU0Z6X2xHQ1NSM2dSN0FGTnJLc3lrWVlNeGVtOkI8Yj5DaGVubmFpIE1ldHJvIFBoYXNlPC9iPiBJSSB0byBCb29zdCBDb25uZWN0aXZpdHkgdG8gV2VzdGVybiAuLi5CqQFCeSAyMDMwLCA8Yj5DaGVubmFpIE1ldHJvPC9iPiBSYWlsIExpbWl0ZWQgKDxiPkNNUkw8L2I-KSBwbGFucyB0byBleHRlbmQgdGhlIDxiPlBoYXNlPC9iPiBJSSBjb3JyaWRvciBmcm9tIEtveWFtYmVkdSB0byBQYXR0YWJpcmFtLCBwYXNzaW5nIHRocm91Z2ggQW1iYXR0dXIgYW5kJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "By 2030, Chennai Metro Rail Limited (CMRL) plans to extend the Phase II corridor from Koyambedu to Pattabiram, passing through Ambattur and ...",
+      "icon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0vsR2eKBwAJYd9AD9ZutdrgEEAw1fkzBUf7GvHSR8EQgHnyRFoVKgByvuAAP72Bg4hD1_NMX4J29FneqBjrRw8hyu_9c3jdnr9Q2EjDakGqP30Q5hl3ybW5600HktPM2429hupTb36iPjIuVgFO0-sVfMyXdc3R64FX_edaITD_e7k0K-EYSX6EtaFgEhIDhDGq5-6ys3UHReNNgoQLslFQjyW3gbmWNDME_xyX-MVT7Ynsx38zM_8Q5cb9RKiopwDys7YQAbfb-DSg3mn6kP3wS3heMvneJqu-z5ieqKOPe8INTuT8gTw28bpB6ZUHWHNKPs0Nk06IjJhMUT__5qSDI9f-Nxi94EbMfu21uAapy1uH_PNdiet4kiGi1eMagdJbNDUjT7fRUjiDq-kRoWhfwKmxXYkZXw0unVfqzgAAAA.webp",
+      "source_info_link": "https://www.constructionworld.in/transport-infrastructure/metro-rail-and-railways-infrastructure/chennai-metro-phase-ii-to-boost-connectivity-to-western-suburbs/78720"
+     }
+    },
+    "date": "Sep 12, 2025",
+    "displayed_link": "https://www.constructionworld.in › chennai-metro-phas...",
+    "favicon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0vsR2eKBwAJYd9AD9ZutdrgEEAw1fkzBUf7GvHSR8EQgHnyRFoVKgByvuAAP72Bg4hD1_NMX4J29FneqBjrRw8hyu_9c3jdnr9Q2EjDakGqP30Q5hl3ybW5600HktPM2429hupTb36iPjIuVgFO0-sVfMyXdc3R64FX_edaITD_e7k0K-EYSX6EtaFgEhIDhDGq5-6ys3UHReNNgoQLslFQjyW3gbmWNDME_xyX-MVT7Ynsx38zM_8Q5cb9RKiopwDys7YQAbfb-DSg3mn6kP3wS3heMvneJqu-z5ieqKOPe8INTuT8gTw28bpB6ZUHWHNKPs0Nk06IjJhMUT__5qSDI9f-Nxi94EbMfu21uAapy1uH_PNdiet4kiGi1eMagdJbNDUjT7fRUjiDq-kRoWhfwKmxXYkZXw0unVfqzgAAAA.webp",
+    "link": "https://www.constructionworld.in/transport-infrastructure/metro-rail-and-railways-infrastructure/chennai-metro-phase-ii-to-boost-connectivity-to-western-suburbs/78720",
+    "position": 4,
+    "read_more_link": "https://www.constructionworld.in/transport-infrastructure/metro-rail-and-railways-infrastructure/chennai-metro-phase-ii-to-boost-connectivity-to-western-suburbs/78720#:~:text=By%202030%2C%20Chennai%20Metro%20Rail,Pattabiram%2C%20passing%20through%20Ambattur%20and",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES4gEB6zswFY2EZ1rfePsB3cvJhxptmaVRzYItZqvRovMOyxHcNOuI6oO3hkJJqcGAbCq-yde70ywemtjjeOBV7znwysxUDEh37mIhZrrRpOhP_I38F5OcBzIL3s9ab0L0H9K_XAeC5jxsqX4JJxheLCYUiKbcYc3EgIdky3DKbnzmQnLPIO9MW4DJVnC7okz__iX0dws7iY70xWgAllESAAkmYKdexpsbVpfY_F2wTY8BoxW2yY2_vMSw7jyAE1sj-KXDCvT2aKHgmy9ns5PZkSFz_lGCSR3gR7AFNrKsykYYMxem&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQFnoECEcQAQ&uoh=1",
+    "snippet": "By 2030, Chennai Metro Rail Limited (CMRL) plans to extend the Phase II corridor from Koyambedu to Pattabiram, passing through Ambattur and ...",
+    "snippet_highlighted_words": [
+     "Chennai Metro",
+     "CMRL",
+     "Phase"
     ],
-    "link": "https://www.instagram.com/p/Db0FTimTwCA/",
-    "source": "Instagram",
-    "thumbnails": [
-     "https://serpapi.com/searches/6aafcb675922f453ea6e55e2/images/01hEC-BY0jYpsjA8UYwiHsnAhCqYkoUAo-Lnq84eq-s.jpeg"
-    ],
-    "title": "Chennai’s metro network is literally finding new ways to fit into the city! 🚇💙 At Adambakkam, CMRL’s Phase 2 metro corridor is being built through the roof area of the existing MRTS station, creating an interesting overlap between the two rail systems. Basically, Chennai is slowly turning into one big connected rail network. 😮‍💨 Imagine getting off one train and having another line right there. This is the kind of connectivity Chennai needs! Would you use the Metro + MRTS more if the interchange was this easy? 👀 (unseenchennai, ChennaiMetro, CMRL, ChennaiMRTS, Adambakkam, Chennai, ChennaiUpdates, ChennaiNews, MetroRail, PublicTransport)"
+    "source": "Construction World India",
+    "title": "Chennai Metro Phase II to Boost Connectivity to Western ..."
    },
    {
-    "author": "KEC International Ltd.",
-    "date": "3 weeks ago",
-    "extensions": [
-     "870+ reactions "
-    ],
-    "link": "https://www.linkedin.com/posts/kec-international-ltd._kecinternational-chennaimetro-chennaimetrophase2-activity-7498341452419063809-B6rh",
-    "source": "LinkedIn",
-    "thumbnails": [
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOGNyyaULOEeZzb3E1lkgoRB_pHsO5W1Tth0DdW8IY1O-cQuRcP191i5ETg&usqp=CAI&s"
-    ],
-    "title": "KEC International has successfully completed 100% of pier works for the CMRL ECV-03 Project, marking a significant milestone in the execution of Chennai Metro Phase-2. The project will strengthen connectivity between Madipakkam and Sholinganallur and"
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnV2WTN2bUxmNHRqTTRUSFlGeGhna3F1WU9ra1NXTHo5TUQxemR0bFJQeENjMjh4dGlZakE3aEJTeHR5LVVrUnMwc3BLQVFibUhNNThNQTBDb0ZsN25CdWN3dm95aG1LYlVHRkJ5bWM5MWNVTWlLMlY3alZta3RRdlNQRDV3Wl9UZ0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnV2WTN2bUxmNHRqTTRUSFlGeGhna3F1WU9ra1NXTHo5TUQxemR0bFJQeENjMjh4dGlZakE3aEJTeHR5LVVrUnMwc3BLQVFibUhNNThNQTBDb0ZsN25CdWN3dm95aG1LYlVHRkJ5bWM5MWNVTWlLMlY3alZta3RRdlNQRDV3Wl9UZ0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_this_result": {
+     "source": {
+      "description": "Chennai Metro expansion latest update covering three major proposed routes — Airport to Kilambakkam Metro extension, Koyambedu to Avadi to ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "2.2K+ views · 4 months ago",
+    "duration": "1:30",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=pRBfUBJ7Trc",
+    "position": 5,
+    "snippet": "Chennai Metro expansion latest update covering three major proposed routes — Airport to Kilambakkam Metro extension, Koyambedu to Avadi to ...",
+    "source": "YouTube · LookUpChennai",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-OXeq2ci6prxUKFpmL6Dc4nHXrBqA53EV3BZIKSl9UpzpT48jrcbjcg&s",
+    "title": "Airport, Avadi & Parandur Routes | Chennai Metro Latest Update",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRT_UnrOATee7RgumHKEmW3RBq_O59XoJQjBA"
    },
    {
-    "author": "streetsofchennai",
-    "date": "2 weeks ago",
-    "extensions": [
-     "180+ reactions "
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrECL2dvdG8_dXJsPUNBRVMyQUVCNnpzd0ZkeFpDZU9TZU9CTUU3TlhFTk1HenhHZDE3Y1QzTFNwXy1mbFFocy1VRDVub0dxMjZRaU9GYl83aU9Mcy1zcXZ0bzc4eXlNNFNieTlQX1RTeGs5SVJmTUxHYXhwaF9HUjNCbVZ0U1laWXdkTzhaaGh6eWYwMnM2SjVuaHpucUp5ckRFVWJnYWVhX1lYR3pXQm5hS1ZBRFNKWVhwR1VQOVRkUWRMaTBKWGRmOXlKR3l4cjRQdjNYV0h3cV9tbjNEbGNlalpsSzRPRk1lYi1LQVYtM3IteVhLN3ZRQXBPTzNkakhCMW45X09RWDVIVUNndHRXakVCYUh2TDRpY0lvM2lNQmo4UldWc1IxeUpvWG5Ta3puSlZtS1JfR28SBBoCCAAa8AYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAzAYIABAAGAAgACouCgZsYXRlc3QVMDDWPRoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxUAAAAAGghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFSN6z0AaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8VL1XUQBoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFcOYtUAaBnBoYXNlcxoGc3RhZ2VzMrECL2dvdG8_dXJsPUNBRVMyQUVCNnpzd0ZkeFpDZU9TZU9CTUU3TlhFTk1HenhHZDE3Y1QzTFNwXy1mbFFocy1VRDVub0dxMjZRaU9GYl83aU9Mcy1zcXZ0bzc4eXlNNFNieTlQX1RTeGs5SVJmTUxHYXhwaF9HUjNCbVZ0U1laWXdkTzhaaGh6eWYwMnM2SjVuaHpucUp5ckRFVWJnYWVhX1lYR3pXQm5hS1ZBRFNKWVhwR1VQOVRkUWRMaTBKWGRmOXlKR3l4cjRQdjNYV0h3cV9tbjNEbGNlalpsSzRPRk1lYi1LQVYtM3IteVhLN3ZRQXBPTzNkakhCMW45X09RWDVIVUNndHRXakVCYUh2TDRpY0lvM2lNQmo4UldWc1IxeUpvWG5Ta3puSlZtS1JfR286QzxiPkNoZW5uYWkgTWV0cm8gUGhhc2U8L2I-IDIgTGFuZCBBY3F1aXNpdGlvbjogS2V5IExlZ2FsIElzc3VlcyAuLi5CmAFBIGRldGFpbGVkIG92ZXJ2aWV3IG9mIENoZW5uYWkgTWV0cm8gUGhhc2UgMiA8Yj5sYW5kPC9iPiBhY3F1aXNpdGlvbiwgbGVnYWwgZGlzcHV0ZXMsIGFmZmVjdGVkIGFyZWFzLCBjb21wZW5zYXRpb24gbWVjaGFuaXNtcywgYW5kIHRoZSBwb3NzaWJsZSZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrECL2dvdG8_dXJsPUNBRVMyQUVCNnpzd0ZkeFpDZU9TZU9CTUU3TlhFTk1HenhHZDE3Y1QzTFNwXy1mbFFocy1VRDVub0dxMjZRaU9GYl83aU9Mcy1zcXZ0bzc4eXlNNFNieTlQX1RTeGs5SVJmTUxHYXhwaF9HUjNCbVZ0U1laWXdkTzhaaGh6eWYwMnM2SjVuaHpucUp5ckRFVWJnYWVhX1lYR3pXQm5hS1ZBRFNKWVhwR1VQOVRkUWRMaTBKWGRmOXlKR3l4cjRQdjNYV0h3cV9tbjNEbGNlalpsSzRPRk1lYi1LQVYtM3IteVhLN3ZRQXBPTzNkakhCMW45X09RWDVIVUNndHRXakVCYUh2TDRpY0lvM2lNQmo4UldWc1IxeUpvWG5Ta3puSlZtS1JfR28SBBoCCAAa8AYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAzAYIABAAGAAgACouCgZsYXRlc3QVMDDWPRoEbGFzdBoDbmV3GgZyZWNlbnQaBG5ld3MaBnVwZGF0ZSpPCghwcm9ncmVzcxUAAAAAGghhZHZhbmNlcxoLZGV2ZWxvcG1lbnQaDGRldmVsb3BtZW50cxoEbmV3cxoLcHJvZ3Jlc3Npb24aBnN0YXR1cypcCgdjaGVubmFpFSN6z0AaBGNtcmwaDGNoZW5uYWltZXRybxoUZ2VvOzNhNTI1MDAwMDAwMDAwMDAaFGdlbzszYTUyNzAwMDAwMDAwMDAwGgxpdjtwO2NoZW5uYWkqLAoFbWV0cm8VL1XUQBoEY21ybBoMY2hlbm5haW1ldHJvGgppdjtwO21ldHJvKhwKBXBoYXNlFcOYtUAaBnBoYXNlcxoGc3RhZ2VzMrECL2dvdG8_dXJsPUNBRVMyQUVCNnpzd0ZkeFpDZU9TZU9CTUU3TlhFTk1HenhHZDE3Y1QzTFNwXy1mbFFocy1VRDVub0dxMjZRaU9GYl83aU9Mcy1zcXZ0bzc4eXlNNFNieTlQX1RTeGs5SVJmTUxHYXhwaF9HUjNCbVZ0U1laWXdkTzhaaGh6eWYwMnM2SjVuaHpucUp5ckRFVWJnYWVhX1lYR3pXQm5hS1ZBRFNKWVhwR1VQOVRkUWRMaTBKWGRmOXlKR3l4cjRQdjNYV0h3cV9tbjNEbGNlalpsSzRPRk1lYi1LQVYtM3IteVhLN3ZRQXBPTzNkakhCMW45X09RWDVIVUNndHRXakVCYUh2TDRpY0lvM2lNQmo4UldWc1IxeUpvWG5Ta3puSlZtS1JfR286QzxiPkNoZW5uYWkgTWV0cm8gUGhhc2U8L2I-IDIgTGFuZCBBY3F1aXNpdGlvbjogS2V5IExlZ2FsIElzc3VlcyAuLi5CmAFBIGRldGFpbGVkIG92ZXJ2aWV3IG9mIENoZW5uYWkgTWV0cm8gUGhhc2UgMiA8Yj5sYW5kPC9iPiBhY3F1aXNpdGlvbiwgbGVnYWwgZGlzcHV0ZXMsIGFmZmVjdGVkIGFyZWFzLCBjb21wZW5zYXRpb24gbWVjaGFuaXNtcywgYW5kIHRoZSBwb3NzaWJsZSZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "A detailed overview of Chennai Metro Phase 2 land acquisition, legal disputes, affected areas, compensation mechanisms, and the possible ...",
+      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vPb-vYDbAc__pgG8q-Tc4AFpKfXf1JHHWDdQNlJF636clF2hep6ghLgJwAAD-9gm4Sj8NXzs4ZE9nGwROnOq5hlVji7hNMRs8hZiqPSz5FEGQeU1kU_pncDjQ5NPENxVyyBUDcLot1vls_nyWNrX3j8SZBBtAh07p3wEdZ9voiIMsr90BWzibPGjgXG-9zcr2O_lD3tmM0xVGpx3paq6Edp1_zPnikzj99U0x0qag8zs5gBvKzCbKr28CMieu3Z8SrGe161vyoRRWIOL_MLbkgJRwZ4L0oKaDc3AeDs4TapWrowvrReZXBT6p9j24KHJbDmt2O-p_XDzBcyepuAAAAA.webp",
+      "source_info_link": "https://community.verified.realestate/article/chennai-metro-phase-2-land-acquisition-key-legal-issues-affected-areas-compensation-property-impact-explained/"
+     }
+    },
+    "date": "May 8, 2026",
+    "displayed_link": "https://community.verified.realestate › article › chennai-...",
+    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vPb-vYDbAc__pgG8q-Tc4AFpKfXf1JHHWDdQNlJF636clF2hep6ghLgJwAAD-9gm4Sj8NXzs4ZE9nGwROnOq5hlVji7hNMRs8hZiqPSz5FEGQeU1kU_pncDjQ5NPENxVyyBUDcLot1vls_nyWNrX3j8SZBBtAh07p3wEdZ9voiIMsr90BWzibPGjgXG-9zcr2O_lD3tmM0xVGpx3paq6Edp1_zPnikzj99U0x0qag8zs5gBvKzCbKr28CMieu3Z8SrGe161vyoRRWIOL_MLbkgJRwZ4L0oKaDc3AeDs4TapWrowvrReZXBT6p9j24KHJbDmt2O-p_XDzBcyepuAAAAA.webp",
+    "link": "https://community.verified.realestate/article/chennai-metro-phase-2-land-acquisition-key-legal-issues-affected-areas-compensation-property-impact-explained/",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2AEB6zswFdxZCeOSeOBME7NXENMGzxGd17cT3LSp_-flQhs-UD5noGq26QiOFb_7iOLs-sqvto78yyM4Sby9P_TSxk9IRfMLGaxph_GR3BmVtSYZYwdO8Zhhzyf02s6J5nhznqJyrDEUbgaea_YXGzWBnaKVADSJYXpGUP9TdQdLi0JXdf9yJGyxr4Pv3XWHwq_mn3DlcejZlK4OFMeb-KAV-3r-yXK7vQApOO3djHB1n9_OQX5HUCgttWjEBaHvL4icIo3iMBj8RWVsR1yJoXnSkznJVmKR_Go&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQFnoECEUQAQ&uoh=1",
+    "snippet": "A detailed overview of Chennai Metro Phase 2 land acquisition, legal disputes, affected areas, compensation mechanisms, and the possible ...",
+    "snippet_highlighted_words": [
+     "land"
     ],
-    "link": "https://www.facebook.com/streetsofchennai/posts/-chennai-metro-eyes-november-trial-runs-on-koyambedutrade-centre-line-the-26-km-/1636654178492204/",
+    "source": "Verified.RealEstate",
+    "title": "Chennai Metro Phase 2 Land Acquisition: Key Legal Issues ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUCL2dvdG8_dXJsPUNBRVN6d0VCNnpzd0ZmdU0wdGZ6by1KczIxUTFtTlk1QUZTVWZsazNVaGExZ2NETlNCWEZlQ2RTbU1zb1ZDYkZQN2M4bkZMamNLUTVvVmpYWkM4NlFaem5ZLWNKZ0pSVkNiSFl4azFjZFBLMFlrQ28yeW9zU1ZMbE5fNzNYSFRIdUJoZkN4a0NmVmxwYi1FTDNXVEFnMnhkZVdZUl90RG1MOVJnc0RMQVlYcGdtQkN1WnlaUVNLQURRRVNENlc1U1dWby1QdnNuWG95d1U5WjFoWU9lSGVUR3pEYXQ0MW5ISlFlRW1sUHN3VV9NVFVRdkNYSWMtWThXb01TNFpaN0V0RGxrcWpOT2RFSVJOZDJoN3Q1bVZ5YjA4OVUSBBoCCAAa2gYSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC0BggAEAAYACAAKi4KBmxhdGVzdBUAAAAAGgRsYXN0GgNuZXcaBnJlY2VudBoEbmV3cxoGdXBkYXRlKk8KCHByb2dyZXNzFaWAoT4aCGFkdmFuY2VzGgtkZXZlbG9wbWVudBoMZGV2ZWxvcG1lbnRzGgRuZXdzGgtwcm9ncmVzc2lvbhoGc3RhdHVzKlwKB2NoZW5uYWkV5hjzQBoEY21ybBoMY2hlbm5haW1ldHJvGhRnZW87M2E1MjUwMDAwMDAwMDAwMBoUZ2VvOzNhNTI3MDAwMDAwMDAwMDAaDGl2O3A7Y2hlbm5haSosCgVtZXRybxUpIf1AGgRjbXJsGgxjaGVubmFpbWV0cm8aCml2O3A7bWV0cm8qHAoFcGhhc2UVeke-QBoGcGhhc2VzGgZzdGFnZXMypQIvZ290bz91cmw9Q0FFU3p3RUI2enN3RmZ1TTB0ZnpvLUpzMjFRMW1OWTVBRlNVZmxrM1VoYTFnY0ROU0JYRmVDZFNtTXNvVkNiRlA3YzhuRkxqY0tRNW9WalhaQzg2UVp6blktY0pnSlJWQ2JIWXhrMWNkUEswWWtDbzJ5b3NTVkxsTl83M1hIVEh1QmhmQ3hrQ2ZWbHBiLUVMM1dUQWcyeGRlV1lSX3REbUw5UmdzRExBWVhwZ21CQ3VaeVpRU0tBRFFFU0Q2VzVTV1ZvLVB2c25Yb3l3VTlaMWhZT2VIZVRHekRhdDQxbkhKUWVFbWxQc3dVX01UVVF2Q1hJYy1ZOFdvTVM0Wlo3RXREbGtxak5PZEVJUk5kMmg3dDVtVnliMDg5VTooUmFpbCAmYW1wOyA8Yj5NZXRybzwvYj4gVG9kYXkgLSBGYWNlYm9va0KnATxiPkNoZW5uYWkgTWV0cm8gUGhhc2U8L2I-IDIgdXBkYXRlOiBMYXJzZW4gJmFtcDsgVG91YnJvIGNvbW1pc3Npb25zIGF1dG9tYXRlZCBjb25jcmV0ZSBzeXN0ZW0uIFJhaWwgQW5hbHlzaXMgSW5kaWEuIDJ5IMK3IFB1YmxpYy4gPGI-Q2hlbm5haSBNZXRybzwvYj4gVXBkYXRlJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUCL2dvdG8_dXJsPUNBRVN6d0VCNnpzd0ZmdU0wdGZ6by1KczIxUTFtTlk1QUZTVWZsazNVaGExZ2NETlNCWEZlQ2RTbU1zb1ZDYkZQN2M4bkZMamNLUTVvVmpYWkM4NlFaem5ZLWNKZ0pSVkNiSFl4azFjZFBLMFlrQ28yeW9zU1ZMbE5fNzNYSFRIdUJoZkN4a0NmVmxwYi1FTDNXVEFnMnhkZVdZUl90RG1MOVJnc0RMQVlYcGdtQkN1WnlaUVNLQURRRVNENlc1U1dWby1QdnNuWG95d1U5WjFoWU9lSGVUR3pEYXQ0MW5ISlFlRW1sUHN3VV9NVFVRdkNYSWMtWThXb01TNFpaN0V0RGxrcWpOT2RFSVJOZDJoN3Q1bVZ5YjA4OVUSBBoCCAAa2gYSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC0BggAEAAYACAAKi4KBmxhdGVzdBUAAAAAGgRsYXN0GgNuZXcaBnJlY2VudBoEbmV3cxoGdXBkYXRlKk8KCHByb2dyZXNzFaWAoT4aCGFkdmFuY2VzGgtkZXZlbG9wbWVudBoMZGV2ZWxvcG1lbnRzGgRuZXdzGgtwcm9ncmVzc2lvbhoGc3RhdHVzKlwKB2NoZW5uYWkV5hjzQBoEY21ybBoMY2hlbm5haW1ldHJvGhRnZW87M2E1MjUwMDAwMDAwMDAwMBoUZ2VvOzNhNTI3MDAwMDAwMDAwMDAaDGl2O3A7Y2hlbm5haSosCgVtZXRybxUpIf1AGgRjbXJsGgxjaGVubmFpbWV0cm8aCml2O3A7bWV0cm8qHAoFcGhhc2UVeke-QBoGcGhhc2VzGgZzdGFnZXMypQIvZ290bz91cmw9Q0FFU3p3RUI2enN3RmZ1TTB0ZnpvLUpzMjFRMW1OWTVBRlNVZmxrM1VoYTFnY0ROU0JYRmVDZFNtTXNvVkNiRlA3YzhuRkxqY0tRNW9WalhaQzg2UVp6blktY0pnSlJWQ2JIWXhrMWNkUEswWWtDbzJ5b3NTVkxsTl83M1hIVEh1QmhmQ3hrQ2ZWbHBiLUVMM1dUQWcyeGRlV1lSX3REbUw5UmdzRExBWVhwZ21CQ3VaeVpRU0tBRFFFU0Q2VzVTV1ZvLVB2c25Yb3l3VTlaMWhZT2VIZVRHekRhdDQxbkhKUWVFbWxQc3dVX01UVVF2Q1hJYy1ZOFdvTVM0Wlo3RXREbGtxak5PZEVJUk5kMmg3dDVtVnliMDg5VTooUmFpbCAmYW1wOyA8Yj5NZXRybzwvYj4gVG9kYXkgLSBGYWNlYm9va0KnATxiPkNoZW5uYWkgTWV0cm8gUGhhc2U8L2I-IDIgdXBkYXRlOiBMYXJzZW4gJmFtcDsgVG91YnJvIGNvbW1pc3Npb25zIGF1dG9tYXRlZCBjb25jcmV0ZSBzeXN0ZW0uIFJhaWwgQW5hbHlzaXMgSW5kaWEuIDJ5IMK3IFB1YmxpYy4gPGI-Q2hlbm5haSBNZXRybzwvYj4gVXBkYXRlJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Chennai Metro Phase 2 update: Larsen & Toubro commissions automated concrete system. Rail Analysis India. 2y · Public. Chennai Metro Update ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/railandmetrotoday/posts/congratulations-aecom-led-jv-bags-design-consultancy-contract-for-chennai-metro-/1420641616786432/"
+     }
+    },
+    "displayed_link": "10+ reactions · 2 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/railandmetrotoday/posts/congratulations-aecom-led-jv-bags-design-consultancy-contract-for-chennai-metro-/1420641616786432/",
+    "position": 7,
+    "read_more_link": "https://www.facebook.com/railandmetrotoday/posts/congratulations-aecom-led-jv-bags-design-consultancy-contract-for-chennai-metro-/1420641616786432/#:~:text=Chennai%20Metro%20Phase%202%20update%3A,Chennai%20Metro%20Update",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzwEB6zswFfuM0tfzo-Js21Q1mNY5AFSUflk3Uha1gcDNSBXFeCdSmMsoVCbFP7c8nFLjcKQ5oVjXZC86QZznY-cJgJRVCbHYxk1cdPK0YkCo2yosSVLlN_73XHTHuBhfCxkCfVlpb-EL3WTAg2xdeWYR_tDmL9RgsDLAYXpgmBCuZyZQSKADQESD6W5SWVo-PvsnXoywU9Z1hYOeHeTGzDat41nHJQeEmlPswU_MTUQvCXIc-Y8WoMS4ZZ7EtDlkqjNOdEIRNd2h7t5mVyb089U&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQFnoECEwQAQ&uoh=1",
+    "snippet": "Chennai Metro Phase 2 update: Larsen & Toubro commissions automated concrete system. Rail Analysis India. 2y · Public. Chennai Metro Update ...",
+    "snippet_highlighted_words": [
+     "Chennai Metro Phase",
+     "Chennai Metro"
+    ],
     "source": "Facebook",
-    "thumbnails": [
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVsdCglnt9_D47BnHw4RhR05NAD4Vl-mH7h2tzFeoEoXI-4B6XuegxkWGlQ&usqp=CAI&s"
-    ],
-    "title": "🚨🚇 Chennai Metro Eyes November Trial Runs on Koyambedu–Trade Centre Line 🔸 The 26-km corridor is 90% complete, with 1.5 km of track remaining. 🔸 CMRL is considering extending operations to Alandur. 🔸 The 3.6-km Alandur–Trade Centre section nee"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkHV9GPGVUDjsiWjkumGX60kvp9vyJUO-OKZX_1L9UkoStmrJVxez&usqp=CAE&s",
+    "title": "Congratulations!! AECOM-led JV bags Design Consultancy ..."
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=latest+progress+chennai+metro+phase&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnvbosC8nDySM0e7tAhPIGt5eGFFtQ:1790781410734&ei=4ie9arS6LL7owN4Pg9jHoQ4&start=10&sa=N&sstk=AS6-VmJuOHJ9Lpe2gNiDZTNGZB56q5QOQ3sXaxcHOerzmb8K84ibeguYMS5BUHsz3UjZWmmA6n-dQjLKK8LFbPJOeXjoTNCoOKzyDA&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQ8NMDegQIORAK",
+   "other_pages": {
+    "2": "https://www.google.com/search?q=latest+progress+chennai+metro+phase&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnvbosC8nDySM0e7tAhPIGt5eGFFtQ:1790781410734&ei=4ie9arS6LL7owN4Pg9jHoQ4&start=10&sa=N&sstk=AS6-VmJuOHJ9Lpe2gNiDZTNGZB56q5QOQ3sXaxcHOerzmb8K84ibeguYMS5BUHsz3UjZWmmA6n-dQjLKK8LFbPJOeXjoTNCoOKzyDA&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQ8tMDegQIORAE",
+    "3": "https://www.google.com/search?q=latest+progress+chennai+metro+phase&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnvbosC8nDySM0e7tAhPIGt5eGFFtQ:1790781410734&ei=4ie9arS6LL7owN4Pg9jHoQ4&start=20&sa=N&sstk=AS6-VmJuOHJ9Lpe2gNiDZTNGZB56q5QOQ3sXaxcHOerzmb8K84ibeguYMS5BUHsz3UjZWmmA6n-dQjLKK8LFbPJOeXjoTNCoOKzyDA&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQ8tMDegQIORAG",
+    "4": "https://www.google.com/search?q=latest+progress+chennai+metro+phase&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnvbosC8nDySM0e7tAhPIGt5eGFFtQ:1790781410734&ei=4ie9arS6LL7owN4Pg9jHoQ4&start=30&sa=N&sstk=AS6-VmJuOHJ9Lpe2gNiDZTNGZB56q5QOQ3sXaxcHOerzmb8K84ibeguYMS5BUHsz3UjZWmmA6n-dQjLKK8LFbPJOeXjoTNCoOKzyDA&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQ8tMDegQIORAI"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JsWTRZVjlqWmxCU1ZHOVJUSEI2ZEhKSGQwRlhhVXd3ZGtJd2VWYzBkSGM1YkhoMlIxOWlTRkpoTVdwc1IwZEtaR1l0VW1SMldHTmtUSEZIV0V0WFZub3hhMGw2WjFGMFJUTnpTVk0wTWpKSGFrWlhkVzVpY0hKQlFSSVhOR2xsT1dGeVV6Wk1URGR2ZDA0MFVHYzVha2h2VVRRYUlrRkVjM0k1WmxSc1prSTNZbVZFTlhCeFUyVXpUa0pWZFZGUGFIWjBiV0V5U0VFIiwiZmN2IjoiMyIsImVpIjoiNGllOWFyUzZMTDdvd040UGc5akhvUTQiLCJxYyI6IkNpTnNZWFJsYzNRZ2NISnZaM0psYzNNZ1kyaGxibTVoYVNCdFpYUnlieUJ3YUdGelpSQUFmZUlSNkQ0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHN0YXR1cyBvZiB0aGUgQ2hlbm5haSBNZXRybyBwcm9qZWN0PyIsImxrIjoiR2h4amFHVnVibUZwSUcxbGRISnZJSEJ5YjJwbFkzUWdjM1JoZEhWeiIsImJzIjoiYzMyT01RdkNNQkNGY2Mza0hLcmVwaTRPbWR3eU9Dc3VJdWgwaE5ORVlpckpsZjU5YXlob3FyaS05LTY3VDV6RS1taVJ3U1ZnUzJDYUdDa3dKRVp1RXRTWG5HNHNoWUFPdHNTeGhrZXNiMlJZcTZtc1ROX2NQNXYtV3V6RUtyTXhVc1o0WkVvTWdkcU9ITDdKV2xWU2xzUzhwWEQxTGxseExsM19PZTR0SmdMMWRwM0p5Y0MxWElpRFdHUjQ5X0VsakFsYTVfMEEyLVhHYXJXVThfYkh0bnlRdC1QUkV3IiwiaWQiOiJmY180aWU5YXJTNkxMN293TjRQZzlqSG9RNF81In0=",
+    "page_token": "I5_zqHicHdBbjpswFABQdTPzOcEwpE2kqBLlVZQ45WJfE_9UYCdhwCSeBIWBv9lC19BVdTWtuoOj8_HbvF66P59-NcNg7-vFYhzH5_P1ejbHZ3XtF9V9uqiFqoypK9Wtl5-X5OtJbaKHCr7dVJBzazEEp2DGLx0MkMmCerrPe5wEb-4UD4MmUGp32NL4yyydbAkpxFUahIzJrUwGLLwmqHuTiTT39lE31ak1iltTh_pGSz0LDsXBADumWmDyMuqI7OtYE8rjqBIEtbuKlAPeDmmzRag4wZeaW6cgGInIt8cEBZ2VnzOYaYq9jnCU3A-LyZlKb-cWPL7Itnk7du-PqrddRWAE19whbAgjmSnwn781w77sXBBxHDXKqQT3D2XGaPe-o-7KYy3kcjZvRbICGlxfcw6zak2PSSN3pfUYoz548B1bjSIGmbPsx4H7vI6lo8enk3psvKf_15ufp35Y29v1_BdaR4t7",
+    "question": "What is the current status of the Chennai Metro project?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=I5_zqHicHdBbjpswFABQdTPzOcEwpE2kqBLlVZQ45WJfE_9UYCdhwCSeBIWBv9lC19BVdTWtuoOj8_HbvF66P59-NcNg7-vFYhzH5_P1ejbHZ3XtF9V9uqiFqoypK9Wtl5-X5OtJbaKHCr7dVJBzazEEp2DGLx0MkMmCerrPe5wEb-4UD4MmUGp32NL4yyydbAkpxFUahIzJrUwGLLwmqHuTiTT39lE31ak1iltTh_pGSz0LDsXBADumWmDyMuqI7OtYE8rjqBIEtbuKlAPeDmmzRag4wZeaW6cgGInIt8cEBZ2VnzOYaYq9jnCU3A-LyZlKb-cWPL7Itnk7du-PqrddRWAE19whbAgjmSnwn781w77sXBBxHDXKqQT3D2XGaPe-o-7KYy3kcjZvRbICGlxfcw6zak2PSSN3pfUYoz548B1bjSIGmbPsx4H7vI6lo8enk3psvKf_15ufp35Y29v1_BdaR4t7",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JsWTRZVjlqWmxCU1ZHOVJUSEI2ZEhKSGQwRlhhVXd3ZGtJd2VWYzBkSGM1YkhoMlIxOWlTRkpoTVdwc1IwZEtaR1l0VW1SMldHTmtUSEZIV0V0WFZub3hhMGw2WjFGMFJUTnpTVk0wTWpKSGFrWlhkVzVpY0hKQlFSSVhOR2xsT1dGeVV6Wk1URGR2ZDA0MFVHYzVha2h2VVRRYUlrRkVjM0k1WmxSc1prSTNZbVZFTlhCeFUyVXpUa0pWZFZGUGFIWjBiV0V5U0VFIiwiZmN2IjoiMyIsImVpIjoiNGllOWFyUzZMTDdvd040UGc5akhvUTQiLCJxYyI6IkNpTnNZWFJsYzNRZ2NISnZaM0psYzNNZ1kyaGxibTVoYVNCdFpYUnlieUJ3YUdGelpSQUFmZUlSNkQ0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHN0YXR1cyBvZiB0aGUgQ2hlbm5haSBNZXRybyBwcm9qZWN0PyIsImxrIjoiR2h4amFHVnVibUZwSUcxbGRISnZJSEJ5YjJwbFkzUWdjM1JoZEhWeiIsImJzIjoiYzMyT01RdkNNQkNGY2Mza0hLcmVwaTRPbWR3eU9Dc3VJdWgwaE5ORVlpckpsZjU5YXlob3FyaS05LTY3VDV6RS1taVJ3U1ZnUzJDYUdDa3dKRVp1RXRTWG5HNHNoWUFPdHNTeGhrZXNiMlJZcTZtc1ROX2NQNXYtV3V6RUtyTXhVc1o0WkVvTWdkcU9ITDdKV2xWU2xzUzhwWEQxTGxseExsM19PZTR0SmdMMWRwM0p5Y0MxWElpRFdHUjQ5X0VsakFsYTVfMEEyLVhHYXJXVThfYkh0bnlRdC1QUkV3IiwiaWQiOiJmY180aWU5YXJTNkxMN293TjRQZzlqSG9RNF81In0%3D",
+    "type": "ai_overview"
    },
    {
-    "author": "UpdatesChennai",
-    "date": "Jul 21, 2026",
-    "extensions": [
-     "1K+ likes "
-    ],
-    "link": "https://x.com/UpdatesChennai/status/2079768883595268105?lang=en&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "source": "X",
-    "title": "🚨Chennai Metro phase II project has made only 54.62% physical progress so far!!"
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JsWTRZVjlqWmxCU1ZHOVJUSEI2ZEhKSGQwRlhhVXd3ZGtJd2VWYzBkSGM1YkhoMlIxOWlTRkpoTVdwc1IwZEtaR1l0VW1SMldHTmtUSEZIV0V0WFZub3hhMGw2WjFGMFJUTnpTVk0wTWpKSGFrWlhkVzVpY0hKQlFSSVhOR2xsT1dGeVV6Wk1URGR2ZDA0MFVHYzVha2h2VVRRYUlrRkVjM0k1WmxSc1prSTNZbVZFTlhCeFUyVXpUa0pWZFZGUGFIWjBiV0V5U0VFIiwiZmN2IjoiMyIsImVpIjoiNGllOWFyUzZMTDdvd040UGc5akhvUTQiLCJxYyI6IkNpTnNZWFJsYzNRZ2NISnZaM0psYzNNZ1kyaGxibTVoYVNCdFpYUnlieUJ3YUdGelpSQUFmZUlSNkQ0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgbGF0ZXN0IG5ld3Mgb24gdGhlIENoZW5uYWkgTWV0cm8/IiwibGsiOiJHaHBqYUdWdWJtRnBJRzFsZEhKdklHNWxkM01nWlc1bmJHbHphQSIsImJzIjoiYzMyT01RdkNNQkNGY2Mza0hLcmVwaTRPbWR3eU9Dc3VJdWgwaE5ORVlpckpsZjU5YXlob3FyaS05LTY3VDV6RS1taVJ3U1ZnUzJDYUdDa3dKRVp1RXRTWG5HNHNoWUFPdHNTeGhrZXNiMlJZcTZtc1ROX2NQNXYtV3V6RUtyTXhVc1o0WkVvTWdkcU9ITDdKV2xWU2xzUzhwWEQxTGxseExsM19PZTR0SmdMMWRwM0p5Y0MxWElpRFdHUjQ5X0VsakFsYTVfMEEyLVhHYXJXVThfYkh0bnlRdC1QUkV3IiwiaWQiOiJmY180aWU5YXJTNkxMN293TjRQZzlqSG9RNF81In0=",
+    "page_token": "tGzilnicHdBfToMwAIDxeBkfHV2dZksWIxsFm62zhRboi4HCxmj540RA3ryCZ_BUnkbjBb7k931-m3Otf66-iq5r31az2TAMN6emOZn8RjXVLHn7qNVMJcakidKru_s78HBUa6dX9uaibMrbVmyZ5WsxEo1KImSoPGwTYHoyLzZ8-whzN0OyNHEKSKQ0Jokg7ylnJedGENFeYiAhDaSQsBiENYIM4b0y-Jw5qEkFpmmFDSv1hw-KnZxkwQ3yaGj2bLKfGEQHCsWzFI3FPNb7GnQ51zBzujgPFwmNjPSrrKPzEdH5wqN6dAPtwB3H29DIIC_FVvIx8Deg9j17l7voNi_lWbgY-mDZi_q0CCw-HngMd1FbxH89p1BWEvJFHOGA6HFP5ksYlIzKybz67pIRuzlTziZVmorXGhCExD4qJl7J4yFcOjIcxZ9WJxWAPGplNlwfVb-G1_-v1y_Hqlu1l-b0C3T4jQ4",
+    "question": "What are the latest news on the Chennai Metro?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tGzilnicHdBfToMwAIDxeBkfHV2dZksWIxsFm62zhRboi4HCxmj540RA3ryCZ_BUnkbjBb7k931-m3Otf66-iq5r31az2TAMN6emOZn8RjXVLHn7qNVMJcakidKru_s78HBUa6dX9uaibMrbVmyZ5WsxEo1KImSoPGwTYHoyLzZ8-whzN0OyNHEKSKQ0Jokg7ylnJedGENFeYiAhDaSQsBiENYIM4b0y-Jw5qEkFpmmFDSv1hw-KnZxkwQ3yaGj2bLKfGEQHCsWzFI3FPNb7GnQ51zBzujgPFwmNjPSrrKPzEdH5wqN6dAPtwB3H29DIIC_FVvIx8Deg9j17l7voNi_lWbgY-mDZi_q0CCw-HngMd1FbxH89p1BWEvJFHOGA6HFP5ksYlIzKybz67pIRuzlTziZVmorXGhCExD4qJl7J4yFcOjIcxZ9WJxWAPGplNlwfVb-G1_-v1y_Hqlu1l-b0C3T4jQ4",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JsWTRZVjlqWmxCU1ZHOVJUSEI2ZEhKSGQwRlhhVXd3ZGtJd2VWYzBkSGM1YkhoMlIxOWlTRkpoTVdwc1IwZEtaR1l0VW1SMldHTmtUSEZIV0V0WFZub3hhMGw2WjFGMFJUTnpTVk0wTWpKSGFrWlhkVzVpY0hKQlFSSVhOR2xsT1dGeVV6Wk1URGR2ZDA0MFVHYzVha2h2VVRRYUlrRkVjM0k1WmxSc1prSTNZbVZFTlhCeFUyVXpUa0pWZFZGUGFIWjBiV0V5U0VFIiwiZmN2IjoiMyIsImVpIjoiNGllOWFyUzZMTDdvd040UGc5akhvUTQiLCJxYyI6IkNpTnNZWFJsYzNRZ2NISnZaM0psYzNNZ1kyaGxibTVoYVNCdFpYUnlieUJ3YUdGelpSQUFmZUlSNkQ0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgbGF0ZXN0IG5ld3Mgb24gdGhlIENoZW5uYWkgTWV0cm8%2FIiwibGsiOiJHaHBqYUdWdWJtRnBJRzFsZEhKdklHNWxkM01nWlc1bmJHbHphQSIsImJzIjoiYzMyT01RdkNNQkNGY2Mza0hLcmVwaTRPbWR3eU9Dc3VJdWgwaE5ORVlpckpsZjU5YXlob3FyaS05LTY3VDV6RS1taVJ3U1ZnUzJDYUdDa3dKRVp1RXRTWG5HNHNoWUFPdHNTeGhrZXNiMlJZcTZtc1ROX2NQNXYtV3V6RUtyTXhVc1o0WkVvTWdkcU9ITDdKV2xWU2xzUzhwWEQxTGxseExsM19PZTR0SmdMMWRwM0p5Y0MxWElpRFdHUjQ5X0VsakFsYTVfMEEyLVhHYXJXVThfYkh0bnlRdC1QUkV3IiwiaWQiOiJmY180aWU5YXJTNkxMN293TjRQZzlqSG9RNF81In0%3D",
+    "type": "ai_overview"
    },
    {
-    "author": "Facebook",
-    "date": "1 week ago",
-    "link": "https://www.facebook.com/61570570591416/posts/-chennai-metro-phase-2-update-koyambedu-to-alwarthirunagar-red-line-curious-abou/122182434518685686/",
-    "thumbnails": [
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWM2yhiFZY17aj-kr50hYjYuk72Nyfa-pPe8YxhBNAeyCq6WmVJ-YB9gMtfg&usqp=CAI&s"
-    ],
-    "title": "Chennai Metro Phase 2 update: Koyambedu to Alwarthirunagar Red Line progress"
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JsWTRZVjlqWmxCU1ZHOVJUSEI2ZEhKSGQwRlhhVXd3ZGtJd2VWYzBkSGM1YkhoMlIxOWlTRkpoTVdwc1IwZEtaR1l0VW1SMldHTmtUSEZIV0V0WFZub3hhMGw2WjFGMFJUTnpTVk0wTWpKSGFrWlhkVzVpY0hKQlFSSVhOR2xsT1dGeVV6Wk1URGR2ZDA0MFVHYzVha2h2VVRRYUlrRkVjM0k1WmxSc1prSTNZbVZFTlhCeFUyVXpUa0pWZFZGUGFIWjBiV0V5U0VFIiwiZmN2IjoiMyIsImVpIjoiNGllOWFyUzZMTDdvd040UGc5akhvUTQiLCJxYyI6IkNpTnNZWFJsYzNRZ2NISnZaM0psYzNNZ1kyaGxibTVoYVNCdFpYUnlieUJ3YUdGelpSQUFmZUlSNkQ0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdGF0dXMgb2YgdGhlIENoZW5uYWkgTWV0cm8gUGhhc2UgMiBwcm9qZWN0PyIsImxrIjoiR2gxamFHVnVibUZwSUcxbGRISnZJSEJvWVhObElESWdjSEp2YW1WamRBIiwiYnMiOiJjMzJPTVF2Q01CQ0ZjYzNrSEtyZXBpNE9tZHd5T0NzdUl1aDBoTk5FWWlySmxmNTlheWhvcXJpLTktNjdUNXpFLW1pUndTVmdTMkNhR0Nrd0pFWnVFdFNYbkc0c2hZQU90c1N4aGtlc2IyUllxNm1zVE5fY1A1di1XdXpFS3JNeFVzWjRaRW9NZ2RxT0hMN0pXbFZTbHNTOHBYRDFMbGx4TGwzX09lNHRKZ0wxZHAzSnljQzFYSWlEV0dSNDlfRWxqQWxhNV8wQTItWEdhcldVOF9iSHRueVF0LVBSRXciLCJpZCI6ImZjXzRpZTlhclM2TEw3b3dONFBnOWpIb1E0XzUifQ==",
+    "page_token": "7gGeNXicHdBRjqIwAADQ7GXmc6RDdIOJ2QQpIpHOUmhL-zOBVi1tEVQiDn9zhT3DnmpPs8m8I7yvv6692H8__uhxHO7rxWKaptdz35_d8VX23aK-f17kQtbONbW069XPFfh1khv4kOH2JsOcDAONsFc4C6hHwwyOtgGOE7g01Ne_hZ9WGRAj7ZTOL-gqdyPiZcqxt382ZBopDFZl7O4sQnu0ExBT9c7B0B0j5eRbfFIseHCgl8jpmXd0VEDrHPRAJYgfmLg1VUqzKp0a3_nYuKGwiotE49ru50MVkmMSMmSUzlqwVzOZFFQ3lvBPcRHLmgWmIfr6DoMi9_VWmjSSRmcZpMmhigEpRd046qkkvWMQ-yiiYcFiCrX0akaWvEpLZJ8Zegv80uBczO5a7AKMwr7NCZ6lcR2xCmCo2xo-S1XFibRYF2QoSBRuWQuqo3G9mF5O8rHxX76vNx-nblwPt_78H5pYjWY",
+    "question": "What is the status of the Chennai Metro Phase 2 project?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7gGeNXicHdBRjqIwAADQ7GXmc6RDdIOJ2QQpIpHOUmhL-zOBVi1tEVQiDn9zhT3DnmpPs8m8I7yvv6692H8__uhxHO7rxWKaptdz35_d8VX23aK-f17kQtbONbW069XPFfh1khv4kOH2JsOcDAONsFc4C6hHwwyOtgGOE7g01Ne_hZ9WGRAj7ZTOL-gqdyPiZcqxt382ZBopDFZl7O4sQnu0ExBT9c7B0B0j5eRbfFIseHCgl8jpmXd0VEDrHPRAJYgfmLg1VUqzKp0a3_nYuKGwiotE49ru50MVkmMSMmSUzlqwVzOZFFQ3lvBPcRHLmgWmIfr6DoMi9_VWmjSSRmcZpMmhigEpRd046qkkvWMQ-yiiYcFiCrX0akaWvEpLZJ8Zegv80uBczO5a7AKMwr7NCZ6lcR2xCmCo2xo-S1XFibRYF2QoSBRuWQuqo3G9mF5O8rHxX76vNx-nblwPt_78H5pYjWY",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JsWTRZVjlqWmxCU1ZHOVJUSEI2ZEhKSGQwRlhhVXd3ZGtJd2VWYzBkSGM1YkhoMlIxOWlTRkpoTVdwc1IwZEtaR1l0VW1SMldHTmtUSEZIV0V0WFZub3hhMGw2WjFGMFJUTnpTVk0wTWpKSGFrWlhkVzVpY0hKQlFSSVhOR2xsT1dGeVV6Wk1URGR2ZDA0MFVHYzVha2h2VVRRYUlrRkVjM0k1WmxSc1prSTNZbVZFTlhCeFUyVXpUa0pWZFZGUGFIWjBiV0V5U0VFIiwiZmN2IjoiMyIsImVpIjoiNGllOWFyUzZMTDdvd040UGc5akhvUTQiLCJxYyI6IkNpTnNZWFJsYzNRZ2NISnZaM0psYzNNZ1kyaGxibTVoYVNCdFpYUnlieUJ3YUdGelpSQUFmZUlSNkQ0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdGF0dXMgb2YgdGhlIENoZW5uYWkgTWV0cm8gUGhhc2UgMiBwcm9qZWN0PyIsImxrIjoiR2gxamFHVnVibUZwSUcxbGRISnZJSEJvWVhObElESWdjSEp2YW1WamRBIiwiYnMiOiJjMzJPTVF2Q01CQ0ZjYzNrSEtyZXBpNE9tZHd5T0NzdUl1aDBoTk5FWWlySmxmNTlheWhvcXJpLTktNjdUNXpFLW1pUndTVmdTMkNhR0Nrd0pFWnVFdFNYbkc0c2hZQU90c1N4aGtlc2IyUllxNm1zVE5fY1A1di1XdXpFS3JNeFVzWjRaRW9NZ2RxT0hMN0pXbFZTbHNTOHBYRDFMbGx4TGwzX09lNHRKZ0wxZHAzSnljQzFYSWlEV0dSNDlfRWxqQWxhNV8wQTItWEdhcldVOF9iSHRueVF0LVBSRXciLCJpZCI6ImZjXzRpZTlhclM2TEw3b3dONFBnOWpIb1E0XzUifQ%3D%3D",
+    "type": "ai_overview"
    },
    {
-    "author": "rajeshamlw",
-    "date": "Jul 21, 2026",
-    "extensions": [
-     "40+ likes "
-    ],
-    "link": "https://x.com/rajeshamlw/status/2079741816992379268?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "source": "X",
-    "title": "Chennai Metro Phase II is moving—but not fast enough. Nearly five years after work began, the 118.9-km project has achieved only 54.62% physical progress as of June 2026. Meanwhile, the much-awaited Poonamallee–Vadapalani stretch remains unopened despite being completed, reportedly awaiting final approval. For a city battling congestion every day, completing construction is not enough. People benefit only when the trains start running. 🚇 #ChennaiMetro"
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JsWTRZVjlqWmxCU1ZHOVJUSEI2ZEhKSGQwRlhhVXd3ZGtJd2VWYzBkSGM1YkhoMlIxOWlTRkpoTVdwc1IwZEtaR1l0VW1SMldHTmtUSEZIV0V0WFZub3hhMGw2WjFGMFJUTnpTVk0wTWpKSGFrWlhkVzVpY0hKQlFSSVhOR2xsT1dGeVV6Wk1URGR2ZDA0MFVHYzVha2h2VVRRYUlrRkVjM0k1WmxSc1prSTNZbVZFTlhCeFUyVXpUa0pWZFZGUGFIWjBiV0V5U0VFIiwiZmN2IjoiMyIsImVpIjoiNGllOWFyUzZMTDdvd040UGc5akhvUTQiLCJxYyI6IkNpTnNZWFJsYzNRZ2NISnZaM0psYzNNZ1kyaGxibTVoYVNCdFpYUnlieUJ3YUdGelpSQUFmZUlSNkQ0IiwicXVlc3Rpb24iOiJXaGF0IG5ldyBhcmVhcyB3aWxsIENoZW5uYWkgTWV0cm8gcmVhY2g/IiwibGsiOiJHaWQzYUdGMElHNWxkeUJoY21WaGN5QjNhV3hzSUdOb1pXNXVZV2tnYldWMGNtOGdjbVZoWTJnIiwiYnMiOiJjMzJPTVF2Q01CQ0ZjYzNrSEtyZXBpNE9tZHd5T0NzdUl1aDBoTk5FWWlySmxmNTlheWhvcXJpLTktNjdUNXpFLW1pUndTVmdTMkNhR0Nrd0pFWnVFdFNYbkc0c2hZQU90c1N4aGtlc2IyUllxNm1zVE5fY1A1di1XdXpFS3JNeFVzWjRaRW9NZ2RxT0hMN0pXbFZTbHNTOHBYRDFMbGx4TGwzX09lNHRKZ0wxZHAzSnljQzFYSWlEV0dSNDlfRWxqQWxhNV8wQTItWEdhcldVOF9iSHRueVF0LVBSRXciLCJpZCI6ImZjXzRpZTlhclM2TEw3b3dONFBnOWpIb1E0XzUifQ==",
+    "page_token": "sMeqyHicHdBfboIwHADg7DJ7nFCmmyZmGZMqGGoo8Kv2ZSmtiLb8cSJM3naXnWqn2bIbfPm-vs2x0j93XdG2zWU2GvV9_3Co64PZP8i6HInLrZIjKYzJhNSzydPEfsnl3Lv67tvZd6O0aWBBrbgCl5lmkTCs1RLGyijgW77KBnzjiA6CNR2sGkyYb8cMEIWDI3H4SYcgFzbX0em1zZzC2g2YCcZ7igMGK3zdr0Ik7OkAldIbz2oJGnchuJuwpBrg2VZgarUNliS1deKYcZxwxFKeCCZvCeZBVPkOKUFnXhGEmnZxSteipJPtEKz3um9DRP5s6jGzOcilITuLn6nmjldIS7B0vNsGCdGfIUFTJznRiA_mHC-nlLj1MUrpIE-mBCxRaruTXUlygfEmxrTdL4yfIsqU5zmQkEL197ns5s79_-f8PS_bWfNRH34BQjOCtg",
+    "question": "What new areas will Chennai Metro reach?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sMeqyHicHdBfboIwHADg7DJ7nFCmmyZmGZMqGGoo8Kv2ZSmtiLb8cSJM3naXnWqn2bIbfPm-vs2x0j93XdG2zWU2GvV9_3Co64PZP8i6HInLrZIjKYzJhNSzydPEfsnl3Lv67tvZd6O0aWBBrbgCl5lmkTCs1RLGyijgW77KBnzjiA6CNR2sGkyYb8cMEIWDI3H4SYcgFzbX0em1zZzC2g2YCcZ7igMGK3zdr0Ik7OkAldIbz2oJGnchuJuwpBrg2VZgarUNliS1deKYcZxwxFKeCCZvCeZBVPkOKUFnXhGEmnZxSteipJPtEKz3um9DRP5s6jGzOcilITuLn6nmjldIS7B0vNsGCdGfIUFTJznRiA_mHC-nlLj1MUrpIE-mBCxRaruTXUlygfEmxrTdL4yfIsqU5zmQkEL197ns5s79_-f8PS_bWfNRH34BQjOCtg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JsWTRZVjlqWmxCU1ZHOVJUSEI2ZEhKSGQwRlhhVXd3ZGtJd2VWYzBkSGM1YkhoMlIxOWlTRkpoTVdwc1IwZEtaR1l0VW1SMldHTmtUSEZIV0V0WFZub3hhMGw2WjFGMFJUTnpTVk0wTWpKSGFrWlhkVzVpY0hKQlFSSVhOR2xsT1dGeVV6Wk1URGR2ZDA0MFVHYzVha2h2VVRRYUlrRkVjM0k1WmxSc1prSTNZbVZFTlhCeFUyVXpUa0pWZFZGUGFIWjBiV0V5U0VFIiwiZmN2IjoiMyIsImVpIjoiNGllOWFyUzZMTDdvd040UGc5akhvUTQiLCJxYyI6IkNpTnNZWFJsYzNRZ2NISnZaM0psYzNNZ1kyaGxibTVoYVNCdFpYUnlieUJ3YUdGelpSQUFmZUlSNkQ0IiwicXVlc3Rpb24iOiJXaGF0IG5ldyBhcmVhcyB3aWxsIENoZW5uYWkgTWV0cm8gcmVhY2g%2FIiwibGsiOiJHaWQzYUdGMElHNWxkeUJoY21WaGN5QjNhV3hzSUdOb1pXNXVZV2tnYldWMGNtOGdjbVZoWTJnIiwiYnMiOiJjMzJPTVF2Q01CQ0ZjYzNrSEtyZXBpNE9tZHd5T0NzdUl1aDBoTk5FWWlySmxmNTlheWhvcXJpLTktNjdUNXpFLW1pUndTVmdTMkNhR0Nrd0pFWnVFdFNYbkc0c2hZQU90c1N4aGtlc2IyUllxNm1zVE5fY1A1di1XdXpFS3JNeFVzWjRaRW9NZ2RxT0hMN0pXbFZTbHNTOHBYRDFMbGx4TGwzX09lNHRKZ0wxZHAzSnljQzFYSWlEV0dSNDlfRWxqQWxhNV8wQTItWEdhcldVOF9iSHRueVF0LVBSRXciLCJpZCI6ImZjXzRpZTlhclM2TEw3b3dONFBnOWpIb1E0XzUifQ%3D%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnvbosC8nDySM0e7tAhPIGt5eGFFtQ:1790781410734&q=Latest+progress+chennai+metro+phase+phase+2&sa=X&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQ1QJ6BAg-EAE",
+    "query": "Latest progress chennai metro phase phase 2",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latest+progress+chennai+metro+phase+phase+2"
    },
    {
-    "author": "indiabeforepolitics",
-    "date": "1 month ago",
-    "duration": "0:18",
-    "extensions": [
-     "190+ likes "
-    ],
-    "link": "https://www.instagram.com/reel/DbaMS41NX7P/",
-    "source": "Instagram",
-    "thumbnails": [
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GGVEoGHxnCMX04TDRkNfWf-yx_pruyPw4B9vhH0mpHIcVElEfhtOMe7QFQ&usqp=CAI&s=10"
-    ],
-    "title": "TN Chief Minister C. Joseph Vijay inspected the Chennai Metro Phase 2 project by walking atop the 101-foot Kathipara Metro viaduct in Guindy, reviewing the progress firsthand instead of relying only on reports. The visit also covered the Porur–Poonamallee driverless metro corridor, along with discussions on expanding integrated metro projects to Madurai and Coimbatore. A leader earns respect by showing up where the work is happening. Walking 101 feet above the ground to inspect a major public project reflects confidence, accountability, and a commitment to delivering development. If this hands-on approach continues, it could set a new benchmark for infrastructure leadership. [CM Vijay, Chennai Metro, Metro Phase 2, Kathipara Viaduct, Guindy, Tamil Nadu, Infrastructure, Development, Driverless Metro, Leadership] #ChennaiMetro #TamilNadu #CMVijay #Infrastructure #vijaythalapathy❤️"
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnvbosC8nDySM0e7tAhPIGt5eGFFtQ:1790781410734&q=Latest+progress+chennai+metro+phase+today&sa=X&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQ1QJ6BAhAEAE",
+    "query": "Latest progress chennai metro phase today",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latest+progress+chennai+metro+phase+today"
    },
    {
-    "author": "Kishore Chandran 🇮🇳",
-    "date": "Jul 6, 2026",
-    "extensions": [
-     "170+ reactions "
-    ],
-    "link": "https://www.linkedin.com/posts/kishore5185_chennai-cmrl-thirumangalam-activity-7480105325090611202-EVCq",
-    "source": "LinkedIn",
-    "thumbnails": [
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd44B2LtnP35KaTCCli6kqlzwSAGuapEplqUyJMKRmFTuQ_u0wOHIjSaZXFw&usqp=CAI&s"
-    ],
-    "title": "Chennai Metro : Thirumangalam #Chennai Metro : #CMRL to begin construction of the Commercial hub, comprising four towers, planned at #Thirumangalam in Sept 2026 - Four Towers to be built at cost of nearly ₹400 Cr will house Shopping areas and Office"
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnvbosC8nDySM0e7tAhPIGt5eGFFtQ:1790781410734&q=Latest+progress+chennai+metro+phase+map&sa=X&ved=2ahUKEwi0s-3OzJaXAxU-NNAFHQPsMeQQ1QJ6BAg9EAE",
+    "query": "Latest progress chennai metro phase map",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latest+progress+chennai+metro+phase+map"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "latest progress chennai metro phase",
-   "time_taken_displayed": 0.3,
-   "total_results": 6
+   "time_taken_displayed": 0.23,
+   "total_results": 117000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:02:47 UTC",
+   "created_at": "2026-09-30 15:16:50 UTC",
    "google_url": "https://www.google.com/search?q=latest+progress+chennai+metro+phase&oq=latest+progress+chennai+metro+phase&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcb675922f453ea6e55e2",
-   "json_endpoint": "https://serpapi.com/searches/0GRbHUwdS2nOAGdpaf_AKMxHBgslrmu-MtE3vnxEOjg/6aafcb675922f453ea6e55e2.json",
-   "markdown_endpoint": "https://serpapi.com/searches/0GRbHUwdS2nOAGdpaf_AKMxHBgslrmu-MtE3vnxEOjg/6aafcb675922f453ea6e55e2.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/0GRbHUwdS2nOAGdpaf_AKMxHBgslrmu-MtE3vnxEOjg/6aafcb675922f453ea6e55e2.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:02:47 UTC",
-   "raw_html_file": "https://serpapi.com/searches/0GRbHUwdS2nOAGdpaf_AKMxHBgslrmu-MtE3vnxEOjg/6aafcb675922f453ea6e55e2.html",
+   "id": "6abd27e25c018f8b9c2570de",
+   "json_endpoint": "https://serpapi.com/searches/xpOMAS7YEsqlS7nE9k69f5kTcOb_YOf8zuvfbz8Txhs/6abd27e25c018f8b9c2570de.json",
+   "markdown_endpoint": "https://serpapi.com/searches/xpOMAS7YEsqlS7nE9k69f5kTcOb_YOf8zuvfbz8Txhs/6abd27e25c018f8b9c2570de.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/xpOMAS7YEsqlS7nE9k69f5kTcOb_YOf8zuvfbz8Txhs/6abd27e25c018f8b9c2570de.json_with_pixel_position",
+   "processed_at": "2026-09-30 15:16:50 UTC",
+   "raw_html_file": "https://serpapi.com/searches/xpOMAS7YEsqlS7nE9k69f5kTcOb_YOf8zuvfbz8Txhs/6abd27e25c018f8b9c2570de.html",
    "status": "Success",
-   "total_time_taken": 0.53
+   "total_time_taken": 0.55
   },
   "search_parameters": {
    "device": "desktop",
    "engine": "google",
    "google_domain": "google.com",
    "q": "latest progress chennai metro phase"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+progress+chennai+metro+phase&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+progress+chennai+metro+phase&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+progress+chennai+metro+phase&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+progress+chennai+metro+phase&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+progress+chennai+metro+phase&start=30"
+   }
   }
  },
  "searches_charged": 1

@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 787.775,
+ "elapsed_ms": 1320.854,
  "engine": "google",
- "fetched_at": "2026-09-20T11:33:09.996591+00:00",
+ "fetched_at": "2026-09-27T21:25:06.263140+00:00",
  "frugal_cache_version": 1,
  "key": "60dabb4e0bc3e70e2a9e5d091d49e6f6eb3962758fced9791f5649d56fc3c3cc",
  "params": {
@@ -10,87 +10,260 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "21W2Z3iczVXbcqpIFP2A-Y7hJYngJV5SRaW6oRVMjGKMHn2xuNmAYBsaJeZtPmPe56vma6ZBVEg0mXMepmaX0HSz3ffF-uMv310t__7tTyeK1vSO5-M4LmFCsG-XTBLwOt2tTH5BfBqazj0lm9C0XUs0nZAENrfbilXOpKLA2a5omc9bPTQEhT7Uww0aOPQHudFMLjUhzg2d2h7z8OZRfs6z2_L3qsw2JVqyV6XNgs7kVtkaPTZLFaHcKvV5PWAK4L8TpGGYrF0gXVZir9D3phIDKoAoZ0kFOF3hSWu6fy1p6SsJX7QG9z6HqbrGLnn-rsQyO83qI1_8L3MBC9s4jQWAOI0SAvf7bHKiZbkc8vqiUkftomTVI6eTfI8LsRYEx4Vtm0UxB5J0cpJ3xsw4hTCOlTIxaCoEyhC8XI6b1edBBbdLoKFzKeRFQ-PasXOP0w474S3MBlfgjZAtZd41HTN9CGkyz9KoJZD2yGm0XuSob_kCWb7pbWNaGTabs8VTD_CmwfR8olu2NXfmwn26L1fKt0Kr2mhep0Ay6RFJNI-kAdgYz49OzX0HpccSLB9gJO2bDj51DLG9pJ5JDEqZ6qcW95PiH06ThqG9mtbO281aCYFEABqCYmsfBkldO4eesRl9Z63Ja5y8JsP_GUZ7wTllabgPRCWZYl4DplqdHHRzjVXBuc_Mx7w15fQof1IsAJCFApbgMOvTj5anQJMwSjAgIQVmVTPzNnA62eAUexowAuwLle3QMUCUKeViSkqgaqAHVMRsui8qm1CczOo-0GQYMl9t9AFxFwZ-ytxMpH_z6Tsj8DsQJaId8PJh_POwUV7ldq3-RIyGADYrD_e7W0e9KW8F80d8HiYkMH6Cccz_FZD2fIQyProMJPQ9kFI-gl_wUfo8PQIpGV6JXAQS7Jzno95ZPirmLYFhHkhf89FPA0n6Ekj7Kp0FEjkPpPVFIOH4I5CKfITO89ERSL_CR_AX-SjFlb1fiuS08fBFklK6TkOf1QYdqTsUHqdPzRbwFLPpLbASf0tSiyC6C3TLv5671h2sdKOddT1nB-TOtrhXceLo0ZVLryLHvop037dpdBWQzSrS3dUV-yXnMQl9654L_JCIgt4Yy5pqGsHu1Rj3e_FNb2RCdWGMh3DmoerSeNO7L93yxAJT2XrTIK02LG87q-MVVm4CbyZFvQH0h8D2OkQexa--23qYb53-LqQzoTIZxeONNrlt18feMKwpy86iN9itsf3AbgZuvLk7FI5Xramx7j2P112YRkVF-6a6ELZ1MN4AjiVHbbHMBaEpsjGoYfCkgQlm8yilc8ouwq6YXXXWJshRU5_bdCvWa3VWN6u1MKxKvdawuQBHu7XYEji6CsXyP4wzSHk",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=21W2Z3iczVXbcqpIFP2A-Y7hJYngJV5SRaW6oRVMjGKMHn2xuNmAYBsaJeZtPmPe56vma6ZBVEg0mXMepmaX0HSz3ffF-uMv310t__7tTyeK1vSO5-M4LmFCsG-XTBLwOt2tTH5BfBqazj0lm9C0XUs0nZAENrfbilXOpKLA2a5omc9bPTQEhT7Uww0aOPQHudFMLjUhzg2d2h7z8OZRfs6z2_L3qsw2JVqyV6XNgs7kVtkaPTZLFaHcKvV5PWAK4L8TpGGYrF0gXVZir9D3phIDKoAoZ0kFOF3hSWu6fy1p6SsJX7QG9z6HqbrGLnn-rsQyO83qI1_8L3MBC9s4jQWAOI0SAvf7bHKiZbkc8vqiUkftomTVI6eTfI8LsRYEx4Vtm0UxB5J0cpJ3xsw4hTCOlTIxaCoEyhC8XI6b1edBBbdLoKFzKeRFQ-PasXOP0w474S3MBlfgjZAtZd41HTN9CGkyz9KoJZD2yGm0XuSob_kCWb7pbWNaGTabs8VTD_CmwfR8olu2NXfmwn26L1fKt0Kr2mhep0Ay6RFJNI-kAdgYz49OzX0HpccSLB9gJO2bDj51DLG9pJ5JDEqZ6qcW95PiH06ThqG9mtbO281aCYFEABqCYmsfBkldO4eesRl9Z63Ja5y8JsP_GUZ7wTllabgPRCWZYl4DplqdHHRzjVXBuc_Mx7w15fQof1IsAJCFApbgMOvTj5anQJMwSjAgIQVmVTPzNnA62eAUexowAuwLle3QMUCUKeViSkqgaqAHVMRsui8qm1CczOo-0GQYMl9t9AFxFwZ-ytxMpH_z6Tsj8DsQJaId8PJh_POwUV7ldq3-RIyGADYrD_e7W0e9KW8F80d8HiYkMH6Cccz_FZD2fIQyProMJPQ9kFI-gl_wUfo8PQIpGV6JXAQS7Jzno95ZPirmLYFhHkhf89FPA0n6Ekj7Kp0FEjkPpPVFIOH4I5CKfITO89ERSL_CR_AX-SjFlb1fiuS08fBFklK6TkOf1QYdqTsUHqdPzRbwFLPpLbASf0tSiyC6C3TLv5671h2sdKOddT1nB-TOtrhXceLo0ZVLryLHvop037dpdBWQzSrS3dUV-yXnMQl9654L_JCIgt4Yy5pqGsHu1Rj3e_FNb2RCdWGMh3DmoerSeNO7L93yxAJT2XrTIK02LG87q-MVVm4CbyZFvQH0h8D2OkQexa--23qYb53-LqQzoTIZxeONNrlt18feMKwpy86iN9itsf3AbgZuvLk7FI5Xramx7j2P112YRkVF-6a6ELZ1MN4AjiVHbbHMBaEpsjGoYfCkgQlm8yilc8ouwq6YXXXWJshRU5_bdCvWa3VWN6u1MKxKvdawuQBHu7XYEji6CsXyP4wzSHk"
-  },
-  "knowledge_graph": {
-   "breadcrumbs": [
+   "references": [
     {
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=world&stick=H4sIAAAAAAAAAONgVuLQz9U3sMzLjX_EaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsbKW5xflpAAAaTXl2EoAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q1i96BAgKEAE",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=world&stick=H4sIAAAAAAAAAONgVuLQz9U3sMzLjX_EaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsbKW5xflpAAAaTXl2EoAAAA",
-     "title": "World"
+     "index": 0,
+     "link": "https://geology.com/records/highest-mountain-in-the-world.shtml",
+     "source": "geology.com"
     },
     {
-     "title": "Mountains (highest)"
+     "index": 1,
+     "link": "https://www.guinnessworldrecords.com/world-records/highest-mountain",
+     "source": "guinnessworldrecords.com"
+    },
+    {
+     "index": 2,
+     "link": "https://www.britannica.com/place/Mount-Everest",
+     "source": "britannica.com"
+    },
+    {
+     "index": 3,
+     "link": "https://www.facebook.com/100063889639005/videos/mount-everest-%EF%B8%8F-the-highest-mountain-in-the-world-standing-tall-at-884886-meters/2394580637628657/",
+     "source": "facebook.com"
+    },
+    {
+     "index": 4,
+     "link": "https://oceanservice.noaa.gov/facts/highestpoint.html",
+     "source": "oceanservice.noaa.gov"
+    },
+    {
+     "index": 5,
+     "link": "https://www.counton2.com/weather/a-moment-of-science/the-tallest-mountain-on-earth-and-why-its-not-mt-everest/",
+     "source": "counton2.com"
+    },
+    {
+     "index": 6,
+     "link": "https://www.britannica.com/story/is-mount-everest-really-the-tallest-mountain-in-the-world",
+     "source": "britannica.com"
+    },
+    {
+     "index": 7,
+     "link": "https://geology.com/records/highest-mountain-in-the-world.shtml",
+     "snippet": "Mount Everest: Highest Altitude If you ask almost anyone to name the highest mountain in the world, their answer will probably be \\\"Mount Everest.\\\" Mount Everest, l...",
+     "source": "Geology.com",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://geology.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXnSk28imCpbjWEuZvaNnw5q0-r_MurmaCENn0vZrayfd4QUqQaRirQ2LrBt87TRehlO1WTo41gEDg9mgEXXIz0tS2OLryKumw5es9",
+     "title": "Highest Mountain in the World - Tallest Mountain"
+    },
+    {
+     "index": 8,
+     "link": "https://www.guinnessworldrecords.com/world-records/highest-mountain",
+     "snippet": "Reddit Who Everest What 8,848.86 metre(s) Where Not Applicable (Not applicable) When 2020 With its summit at 8,848.86 m (29,031 ft 8 in) above sea level, Everest (",
+     "source": "Guinness World Records",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.guinnessworldrecords.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "title": "Highest mountain"
+    },
+    {
+     "index": 9,
+     "link": "https://www.britannica.com/place/Mount-Everest",
+     "snippet": "Mount Everest Reaching an elevation of 29,032 feet (8,849 meters), Mount Everest is the highest mountain in the world. * Height: 29,032 feet (8,849 meters) * Locat...",
+     "source": "Britannica",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdCLQPfCWKYfmfAlgX4WYgbTdbzeDNw5_E8nN91TXD9HucmOBqZntvfjXjIo8op8jLr-m1WLthYYdX96pI1i5-UOm__gIlkst4lIgu",
+     "title": "Mount Everest | Height, Map, Deaths, Facts, & Climbers | Britannica"
+    },
+    {
+     "index": 10,
+     "link": "https://www.facebook.com/100063889639005/videos/mount-everest-%EF%B8%8F-the-highest-mountain-in-the-world-standing-tall-at-884886-meters/2394580637628657/",
+     "snippet": "Mount Everest ️ — the highest mountain in the world, standing tall at 8,848.86 meters above sea level. Located on the border of Ne...",
+     "source": "Facebook",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0Ju6aNBpUQLUa7OpZJvNIOqh6c18Xtxtsn9LD08QhE0E-DleOTwO5nzh9aqnHQAK0tjp2TNjPT4aCFrUn01to2fU-8rbm9FqpKtlRg",
+     "title": "Mount Everest 🏔️ — the highest mountain in the world, standing tall at ..."
+    },
+    {
+     "index": 11,
+     "link": "https://oceanservice.noaa.gov/facts/highestpoint.html",
+     "snippet": "Mount Everest is usually considered the highest mountain on Earth. It's located in Nepal and Tibet and reaches: * **8,848 meters (29,029 feet)** * **The highest po...",
+     "source": "National Ocean Service (.gov)",
+     "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://oceanservice.noaa.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKNnchvOQ33tkq3H0ydDBF4GkKBgvjWgSd1M55sq_xDUYCR-Xgj_iZ9iZTlsRohsDONadPGGYcEQzh-gcQNW9Hyy0LfYuSmwZyfz6v",
+     "title": "What is the highest point on Earth as measured from Earth's center?"
     }
    ],
-   "mountains_highest": [
+   "text_blocks": [
     {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0aeSrUWwg3XomsqOwJcgf7x.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=Mount+Everest&stick=H4sIAAAAAAAAAONgFmJQ4tDP1TdIyklK0RL1zS_NK0nMzCsOLi1ILcpJLMksSy1-xOjFLfDyxz1hKcdJa05eY7Tmwq5OSIKLwyc_GcjJzxPikeLiAhtsmZcbb8UiwWjBWMXEwcaziJUXrFnBtSy1KLW4ZAIbIwCINPt8hQAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKEAU",
-     "name": "Mount Everest",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mount+Everest&stick=H4sIAAAAAAAAAONgFmJQ4tDP1TdIyklK0RL1zS_NK0nMzCsOLi1ILcpJLMksSy1-xOjFLfDyxz1hKcdJa05eY7Tmwq5OSIKLwyc_GcjJzxPikeLiAhtsmZcbb8UiwWjBWMXEwcaziJUXrFnBtSy1KLW4ZAIbIwCINPt8hQAAAA"
+     "snippet": "Mount Everest is the highest mountain in the world, with an altitude of 8,848.86 meters (29,031.7 feet) above sea level.",
+     "snippet_highlighted_words": [
+      "Mount Everest"
+     ],
+     "snippet_links": [
+      {
+       "link": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth",
+       "text": "Mount Everest"
+      }
+     ],
+     "type": "paragraph"
     },
     {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0ZtAgplnm7JYD0WV6K6886C.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=K2&stick=H4sIAAAAAAAAAONgFmJQ4tDP1TcwSTMr0RL1zS_NK0nMzCsOLi1ILcpJLMksSy1-xOjFLfDyxz1hKcdJa05eY7Tmwq5OSIKLwyc_GcjJzxPikeLiAhtsmZcbb8UiwWjBWMXEwcaziJXJ22gCGyMA9BH_QnoAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKEAo",
-     "name": "K2",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=K2&stick=H4sIAAAAAAAAAONgFmJQ4tDP1TcwSTMr0RL1zS_NK0nMzCsOLi1ILcpJLMksSy1-xOjFLfDyxz1hKcdJa05eY7Tmwq5OSIKLwyc_GcjJzxPikeLiAhtsmZcbb8UiwWjBWMXEwcaziJXJ22gCGyMA9BH_QnoAAAA"
+     "snippet": "Key Details",
+     "type": "heading"
     },
     {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0boEg6nvwTF2sJNeOQbNyGM.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=Kangchenjunga&stick=H4sIAAAAAAAAAONgFmJQ4tDP1TcwSTbO0RL1zS_NK0nMzCsOLi1ILcpJLMksSy1-xOjFLfDyxz1hKcdJa05eY7Tmwq5OSIKLwyc_GcjJzxPikeLiAhtsmZcbb8UiwWjBWMXEwcaziJXXOzEvPTkjNS-rNC89cQIbIwA27HYVhQAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKEA8",
-     "name": "Kangchenjunga",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kangchenjunga&stick=H4sIAAAAAAAAAONgFmJQ4tDP1TcwSTbO0RL1zS_NK0nMzCsOLi1ILcpJLMksSy1-xOjFLfDyxz1hKcdJa05eY7Tmwq5OSIKLwyc_GcjJzxPikeLiAhtsmZcbb8UiwWjBWMXEwcaziJXXOzEvPTkjNS-rNC89cQIbIwA27HYVhQAAAA"
+     "list": [
+      {
+       "snippet": "Location: On the border between Nepal and China (Tibet) in the Himalayas.",
+       "snippet_links": [
+        {
+         "link": "https://www.britannica.com/place/Mount-Everest",
+         "text": "Nepal and China (Tibet)"
+        }
+       ]
+      },
+      {
+       "snippet": "Local Names: Known as Sagarmatha in Nepali and Chomolungma in Tibetan."
+      },
+      {
+       "snippet": "First Ascent: Reached on May 29, 1953, by Tenzing Norgay and Edmund Hillary."
+      }
+     ],
+     "type": "list"
     },
     {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0Yp-Up-tI4DdjwZREVuiUDq.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=Lhotse&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwzDLKKNQS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIlc0nI7-kOHUCGyMAjbrme38AAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKEBQ",
-     "name": "Lhotse",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Lhotse&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwzDLKKNQS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIlc0nI7-kOHUCGyMAjbrme38AAAA"
+     "snippet": "Other Ways to Measure Mountains",
+     "type": "heading"
     },
     {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0bgMN9wMFF_dZIfi79Giquh.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=Makalu&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwLDLOqtAS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIlc03MTsxp3QCGyMA4drNyH8AAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKEBk",
-     "name": "Makalu",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Makalu&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwLDLOqtAS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIlc03MTsxp3QCGyMA4drNyH8AAAA"
+     "list": [
+      {
+       "snippet": "Tallest from Base to Peak: Mauna Kea in Hawaii measures over 10,210 meters (33,500 feet) from the ocean floor, making it taller than Everest even though its peak is lower above sea level.",
+       "snippet_links": [
+        {
+         "link": "https://oceanservice.noaa.gov/facts/highestpoint.html",
+         "text": "Mauna Kea"
+        }
+       ]
+      },
+      {
+       "snippet": "Farthest from Earth's Center: Mount Chimborazo in Ecuador bulges outward due to Earth's rotation, putting its summit farthest from the center of the planet.",
+       "snippet_links": [
+        {
+         "link": "https://www.counton2.com/weather/a-moment-of-science/the-tallest-mountain-on-earth-and-why-its-not-mt-everest",
+         "text": "Mount Chimborazo"
+        }
+       ]
+      }
+     ],
+     "type": "list"
     },
     {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0YAd-mv02Ba6oCUALTVqvVQ.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=Cho+Oyu&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwrCoxK9cS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIld05I1_Bv7J0AhsjAEDlwNCAAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKEB4",
-     "name": "Cho Oyu",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cho+Oyu&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwrCoxK9cS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIld05I1_Bv7J0AhsjAEDlwNCAAAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0bPZhcitQPkEV9NRwwBK_Mo.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=Dhaulagiri+I&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TcoTy8xMc3SEvXNL80rSczMKw4uLUgtykksySxLLX7E6MUt8PLHPWEpx0lrTl5jtObCrk5IgovDJz8ZyMnPE-KR4uLiABltmZcbb8UiwWjBWMXEwcaziJXHJSOxNCcxPbMoU8FzAhsjAH3cvnWGAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKECM",
-     "name": "Dhaulagiri I",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dhaulagiri+I&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TcoTy8xMc3SEvXNL80rSczMKw4uLUgtykksySxLLX7E6MUt8PLHPWEpx0lrTl5jtObCrk5IgovDJz8ZyMnPE-KR4uLiABltmZcbb8UiwWjBWMXEwcaziJXHJSOxNCcxPbMoU8FzAhsjAH3cvnWGAAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0bl0voaVkAm7Nn5sWOExk4j.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=Manaslu&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwrCqPL9cS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIld03MS-xOKd0AhsjANrQFrOAAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKECg",
-     "name": "Manaslu",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Manaslu&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwrCqPL9cS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIld03MS-xOKd0AhsjANrQFrOAAAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0YswVTFdi8jAhBsgQqXZnq2.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=Nanga+Parbat&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwrKowLtYS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIlccvMS89USEgsSgpsWQCGyMA4nnnWIUAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKEC0",
-     "name": "Nanga Parbat",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nanga+Parbat&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwrKowLtYS9c0vzStJzMwrDi4tSC3KSSzJLEstfsToxS3w8sc9YSnHSWtOXmO05sKuTkiCi8MnPxnIyc8T4pHi4uIAmWyZlxtvxSLBaMFYxcTBxrOIlccvMS89USEgsSgpsWQCGyMA4nnnWIUAAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafc475bca7e51e4b1c4b61/images/NjG3IUOO5gOZjU6wM1y-Wx6zdgnYmQKy62KlCnK2D0bYfUQFqq4Bm23h5F7rxslH.jpeg",
-     "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=Annapurna+I&stick=H4sIAAAAAAAAAONgFmJQ4tDP1TcoyM411BL1zS_NK0nMzCsOLi1ILcpJLMksSy1-xOjFLfDyxz1hKcdJa05eY7Tmwq5OSIKLwyc_GcjJzxPikeLiAhtsmZcbb8UiwWjBWMXEwcaziJXbMS8vsaC0KC9RwXMCGyMAFTEEVYMAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q-BZ6BAgKEDI",
-     "name": "Annapurna I",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Annapurna+I&stick=H4sIAAAAAAAAAONgFmJQ4tDP1TcoyM411BL1zS_NK0nMzCsOLi1ILcpJLMksSy1-xOjFLfDyxz1hKcdJa05eY7Tmwq5OSIKLwyc_GcjJzxPikeLiAhtsmZcbb8UiwWjBWMXEwcaziJXbMS8vsaC0KC9RwXMCGyMAFTEEVYMAAAA"
+     "snippet": "If you'd like, I can share information about the top 10 highest peaks or details on how people climb Everest.",
+     "type": "paragraph"
     }
-   ],
-   "mountains_highest_link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&q=world&stick=H4sIAAAAAAAAAONgVuLQz9U3sMzLjX_EaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsbKW5xflpAAAaTXl2EoAAAA&sa=X&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q1i96BAgKEAE",
-   "mountains_highest_stick": "H4sIAAAAAAAAAONgVuLQz9U3sMzLjX_EaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsbKW5xflpAAAaTXl2EoAAAA"
+   ]
   },
+  "inline_images": [
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=661825799559606",
+    "source": "https://www.facebook.com/groups/978574213732574/posts/1304942801095712/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjE0dETGKDakco-3a0uXnILZ7l--YGdCMYqdL2TsAsRBKsKD09v1Bzdfs&s",
+    "title": "What is the tallest mountain on earth?"
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1071328195239031",
+    "source": "https://www.facebook.com/groups/359587810035589/posts/713777667949933/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDMOks9Y6A-IM2B0nmn1eUXL19kX6FegFwpn0ztGm269K8Mk3cI1iLIk&s",
+    "title": "What is the highest mountain in the world?"
+   },
+   {
+    "original": "https://unofficialnetworks.com/wp-content/uploads/2025/11/uhn7aq6nwvs.jpg",
+    "source": "https://unofficialnetworks.com/2025/11/24/history-of-the-highest-mountains/",
+    "source_name": "Unofficial Networks",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg0VGnX-Y8yD8REAoiiUIvavEJhtXm5C-85lOI4aX&s",
+    "title": "A History Of The World's Highest Mountains - Unofficial Networks"
+   },
+   {
+    "original": "https://qph.cf2.quoracdn.net/main-qimg-abd0653ab404307593608a1150f962c5-pjlq",
+    "source": "https://www.quora.com/Which-is-the-tallest-mountain-range-in-the-world",
+    "source_name": "Quora",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ8rUMGb5B3Z936v3Evo_XjKnrVRRHvGYAoLWeUAK2dhG1Lrrh6eDIMMg&s",
+    "title": "Which is the tallest mountain range in the world? - Quora"
+   },
+   {
+    "original": "https://wewildtravel.com/wp-content/uploads/2026/06/Mt._Everest-scaled.jpg",
+    "source": "https://wewildtravel.com/is-everest-really-the-tallest-mountain-in-the-world/",
+    "source_name": "WeWild Travel",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTelWmEsmBzSeSoUqb5wDXgLRlOLOKrG0mwHtNRnN2Rympqf75PLSqPixY&s",
+    "title": "Is Everest Really the Tallest Mountain in the World? - WeWild ..."
+   },
+   {
+    "original": "https://eddytours-safaris.com/wp-content/uploads/2025/02/7xm.xyz788274-1024x896.jpg",
+    "source": "https://eddytours-safaris.com/tallest-mountain-in-the-world-on-2026-2027/",
+    "source_name": "Eddy Tours and Safaris",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBt-Ak8VT-HsXHHoOuFceDcUOsxycKQydnuNeKnLnKHIWDUKfwI0-Degs&s",
+    "title": "Tallest Mountain in the World on 2026-2027"
+   },
+   {
+    "original": "https://preview.redd.it/mount-everest-the-highest-mountain-above-sea-level-but-not-v0-qx8dtg2nrknh1.jpeg?width=640&crop=smart&auto=webp&s=febaaadaf110d5dcf03e146ba2cae55a2c8aeb36",
+    "source": "https://www.reddit.com/r/geography/comments/1w7i41w/mount_everest_the_highest_mountain_above_sea/",
+    "source_name": "Reddit",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT996x_smU8wz519gER_wJJjyDucXFOep7Fxt3ir-LgJUxgmGf2QxUI6vv_mA&s",
+    "title": "Mount Everest the highest mountain above sea level, but not ..."
+   },
+   {
+    "original": "https://i.pinimg.com/736x/44/0b/6c/440b6c8813bef229efd6c870b4bc084c.jpg",
+    "source": "https://www.pinterest.com/pin/top-10-highest-moutain-ranges-in-the-world--95349717104785812/",
+    "source_name": "Pinterest",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ53PnQhmglg8OTRq6iITRTGBrQLsJSIyGBbR7-qkUbxNAFljiccodjWU&s",
+    "title": "Top 10 Highest Moutain Ranges in the World"
+   },
+   {
+    "original": "https://easyscienceforkids.com/wp-content/uploads/2014/03/All-about-the-Tallest-Mountains-in-the-Worls-Fun-Geography-Facts-for-Kids-Snowy-Mountains-image.jpg",
+    "source": "https://easyscienceforkids.com/all-about-the-tallest-mountains-in-the-world/",
+    "source_name": "Easy Science For Kids -",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhWl-UXZ4F_FVum_pJIJRtdgX9yzJqczZ1ITq6GGzKsjlyWdk6ul08mM&s",
+    "title": "Tallest Mountains in the World Facts"
+   }
+  ],
+  "inline_videos": [
+   {
+    "channel": "Jayography",
+    "date": "Nov 26, 2024",
+    "duration": "1:00",
+    "link": "https://www.facebook.com/jayographyy/videos/mount-everest-is-often-thought-of-as-the-tallest-mountain-in-the-world-but-that-/892757602944781/",
+    "platform": "Facebook",
+    "position": 1,
+    "thumbnail": "https://serpapi.com/searches/6ab989b150d43e60e4bcba59/images/dOkklha-M495Iok_n1WgQDAxB9K2YuuOcx_a30YbBmM.jpeg",
+    "title": "Mount Everest is often thought of as the tallest mountain in ..."
+   },
+   {
+    "channel": "StarTalk",
+    "date": "Jun 15, 2026",
+    "duration": "3:34",
+    "link": "https://www.facebook.com/StarTalk/videos/whats-the-tallest-mountain-in-the-world/1545786976881477/",
+    "platform": "Facebook",
+    "position": 2,
+    "thumbnail": "https://serpapi.com/searches/6ab989b150d43e60e4bcba59/images/jUuXTPEKycRrtt3-T-XrTO2p515oFqHyZypADy9W5aM.jpeg",
+    "title": "What's the tallest mountain in the world? | StarTalk"
+   },
+   {
+    "channel": "Be Smart",
+    "date": "Aug 9, 2022",
+    "duration": "10:19",
+    "link": "https://gearjunkie.com/climbing/video-worlds-tallest-mountain-question",
+    "platform": "GearJunkie",
+    "position": 3,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQIduBjpO4gZS6yMZwR_EOc-Bhu5tq8lh3D9A",
+    "thumbnail": "https://serpapi.com/searches/6ab989b150d43e60e4bcba59/images/kqxjrcJCswmBJPok4tv1KBs_7mQAiI8jnmltgTgfnDY.jpeg",
+    "title": "Which Mountain Is Really the Tallest? Experts Still Disagree"
+   }
+  ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZmUW8tYy0wWC1nTWtRVHl0My1ZaElCb2lBcXBwY1puU2ozVjRfTlFEZjd2cDVMaWVBY2RTTXdxYmYtR25hcWw5N2lJR1l6OERqb1JJV3E5S19vaXdhaUc2cFB4NWc0UGFFRGdjdHQxcFNMLTNQRDlNMUtOV1Z2TmYxX08tdFpiQmZCejVuUHBqWEZZRU5mcm9mTUNvWXBGOGk3M3EwaDZNWURWY1ESBBoCCAAaqwYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBggAEAAYACAAKhkKBHdoYXQVAAAAABoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYQoHdGFsbGVzdBUAAAAAGgdiaWdnZXN0GgdoaWdoZXN0GhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoPdGFsbGVzdG1vdW50YWluGgxpdjtwO3RhbGxlc3QqYQoIbW91bnRhaW4Vjq-nQBoRaGlnaGVzdCBtb3VudGFpbnMaDWhpZ2hlc3QgcG9pbnQaCW1vdW50YWlucxoMbW91bnRhaW5zIG9mGgRwZWFrGg90YWxsZXN0bW91bnRhaW4qCQoCaW4VAAAAACoKCgN0aGUVAAAAACoyCgV3b3JsZBUu3K1AGgVlYXJ0aBoEZXZlchoGZ2xvYmFsGgd3b3JsZCdzGgZ3b3JsZHMyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RmZRby1jLTBYLWdNa1FUeXQzLVloSUJvaUFxcHBjWm5TajNWNF9OUURmN3ZwNUxpZUFjZFNNd3FiZi1HbmFxbDk3aUlHWXo4RGpvUklXcTlLX29pd2FpRzZwUHg1ZzRQYUVEZ2N0dDFwU0wtM1BEOU0xS05XVnZOZjFfTy10WmJCZkJ6NW5QcGpYRllFTmZyb2ZNQ29ZcEY4aTczcTBoNk1ZRFZjUTpAPGI-SGlnaGVzdCBNb3VudGFpbjwvYj4gUGVha3Mgb2YgdGhlIDxiPldvcmxkPC9iPiAtIEZhY3QgTW9uc3RlckKpATEuIFRoZSAxOTU0IGVsZXZhdGlvbiBvZiBFdmVyZXN0LCAyOSwwMjggZnQuICg4LDg0OCBtKSB3YXMgcmV2aXNlZCBvbiBOb3YuIDExLCAxOTk5LCBhbmQgbm93IHN0YW5kcyBhdCAyOSwwMzUgZnQuICg4LDg1MCBtKS4gMi4gS2FzaG1pciBpcyBkaXZpZGVkIGJldHdlZW4gSW5kaWEmbmJzcDsuLi5KA3RoZUoCaXNKAmluIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZmUW8tYy0wWC1nTWtRVHl0My1ZaElCb2lBcXBwY1puU2ozVjRfTlFEZjd2cDVMaWVBY2RTTXdxYmYtR25hcWw5N2lJR1l6OERqb1JJV3E5S19vaXdhaUc2cFB4NWc0UGFFRGdjdHQxcFNMLTNQRDlNMUtOV1Z2TmYxX08tdFpiQmZCejVuUHBqWEZZRU5mcm9mTUNvWXBGOGk3M3EwaDZNWURWY1ESBBoCCAAaqwYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBggAEAAYACAAKhkKBHdoYXQVAAAAABoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYQoHdGFsbGVzdBUAAAAAGgdiaWdnZXN0GgdoaWdoZXN0GhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoPdGFsbGVzdG1vdW50YWluGgxpdjtwO3RhbGxlc3QqYQoIbW91bnRhaW4Vjq-nQBoRaGlnaGVzdCBtb3VudGFpbnMaDWhpZ2hlc3QgcG9pbnQaCW1vdW50YWlucxoMbW91bnRhaW5zIG9mGgRwZWFrGg90YWxsZXN0bW91bnRhaW4qCQoCaW4VAAAAACoKCgN0aGUVAAAAACoyCgV3b3JsZBUu3K1AGgVlYXJ0aBoEZXZlchoGZ2xvYmFsGgd3b3JsZCdzGgZ3b3JsZHMyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RmZRby1jLTBYLWdNa1FUeXQzLVloSUJvaUFxcHBjWm5TajNWNF9OUURmN3ZwNUxpZUFjZFNNd3FiZi1HbmFxbDk3aUlHWXo4RGpvUklXcTlLX29pd2FpRzZwUHg1ZzRQYUVEZ2N0dDFwU0wtM1BEOU0xS05XVnZOZjFfTy10WmJCZkJ6NW5QcGpYRllFTmZyb2ZNQ29ZcEY4aTczcTBoNk1ZRFZjUTpAPGI-SGlnaGVzdCBNb3VudGFpbjwvYj4gUGVha3Mgb2YgdGhlIDxiPldvcmxkPC9iPiAtIEZhY3QgTW9uc3RlckKpATEuIFRoZSAxOTU0IGVsZXZhdGlvbiBvZiBFdmVyZXN0LCAyOSwwMjggZnQuICg4LDg0OCBtKSB3YXMgcmV2aXNlZCBvbiBOb3YuIDExLCAxOTk5LCBhbmQgbm93IHN0YW5kcyBhdCAyOSwwMzUgZnQuICg4LDg1MCBtKS4gMi4gS2FzaG1pciBpcyBkaXZpZGVkIGJldHdlZW4gSW5kaWEmbmJzcDsuLi5KA3RoZUoCaXNKAmluIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -99,24 +272,24 @@
       "US"
      ],
      "source": {
-      "description": "Mauna Kea (4,207 m (13,802 ft) above sea level) is the world's tallest mountain and volcano, rising about 10,203 m (33,474 ft) from the Pacific Ocean floor.",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Mountain"
+      "description": "1. The 1954 elevation of Everest, 29,028 ft. (8,848 m) was revised on Nov. 11, 1999, and now stands at 29,035 ft. (8,850 m). 2. Kashmir is divided between India ...",
+      "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAADwBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0vonqvCDUAWBX0qoD4lEVAJad8Nuc2TOdp38YV4AAwNSBonb4UwLI3yyXc4o4yZby8fguQ4zoRaTSstvwI-1F8EQfiaKUm_mEIX_5sD21g1mvIELhtmUuijJ_MulD0ua-2fv6QYP0AV2u8iCe_2jxKND2cfu2qYlt29IwY-RhxINqrvz6Wvc5lnPPzHyK7H_V9cyxD_9atur6yIEDufVNxlID4qjxM5OjSUjTETdBKh7lYph9rXw3s2zf4Y7wamJXEsMBHGkhvt7hCt0l5lNmGzdHj-3JyUymrZSig3AXad7YeXAAA.webp",
+      "source_info_link": "https://www.factmonster.com/world/geography/highest-mountain-peaks-world"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › Mountain",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Mountain",
+    "displayed_link": "https://www.factmonster.com › world › geography › hig...",
+    "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAADwBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0vonqvCDUAWBX0qoD4lEVAJad8Nuc2TOdp38YV4AAwNSBonb4UwLI3yyXc4o4yZby8fguQ4zoRaTSstvwI-1F8EQfiaKUm_mEIX_5sD21g1mvIELhtmUuijJ_MulD0ua-2fv6QYP0AV2u8iCe_2jxKND2cfu2qYlt29IwY-RhxINqrvz6Wvc5lnPPzHyK7H_V9cyxD_9atur6yIEDufVNxlID4qjxM5OjSUjTETdBKh7lYph9rXw3s2zf4Y7wamJXEsMBHGkhvt7hCt0l5lNmGzdHj-3JyUymrZSig3AXad7YeXAAA.webp",
+    "link": "https://www.factmonster.com/world/geography/highest-mountain-peaks-world",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVtn3BLMPINXSBnugqEFUHeBAORyB-V8Sd3LmpA3kFfZg7GPAeD9REPK862mbmcGXS3-pdKRBLFk6Wt8o5Yh7vxybVZcpUA5Lk1sQBrXwmHyyjxg-tQZncSKM&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8QFnoECA0QAQ&uoh=1",
-    "snippet": "Mauna Kea (4,207 m (13,802 ft) above sea level) is the world's tallest mountain and volcano, rising about 10,203 m (33,474 ft) from the Pacific Ocean floor.",
-    "snippet_highlighted_words": [
-     "world's tallest mountain"
-    ],
-    "source": "Wikipedia",
-    "title": "Mountain"
+    "read_more_link": "https://www.factmonster.com/world/geography/highest-mountain-peaks-world#:~:text=1.%20The%201954%20elevation%20of,three%20countries%20dispute%20the%20boundaries.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFfQo-c-0X-gMkQTyt3-YhIBoiAqppcZnSj3V4_NQDf7vp5LieAcdSMwqbf-Gnaql97iIGYz8DjoRIWq9K_oiwaiG6pPx5g4PaEDgctt1pSL-3PD9M1KNWVvNf1_O-tZbBfBz5nPpjXFYENfrofMCoYpF8i73q0h6MYDVcQ&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQFnoECCwQAQ&uoh=1",
+    "snippet": "1. The 1954 elevation of Everest, 29,028 ft. (8,848 m) was revised on Nov. 11, 1999, and now stands at 29,035 ft. (8,850 m). 2. Kashmir is divided between India ...",
+    "source": "Fact Monster",
+    "title": "Highest Mountain Peaks of the World"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVlkwb1BHTTNBdGZLREJlOUFPQXc0ZV9KT2hGTjlBWDEzSF9PVVg0NnBkNTc1VGVlYkp0RFI2dHVrWF9SQW5DTTNPbWRhOHpQcGJFUEdvc3dvbC03V3JJa3dsRXFFWU43cW11VkxfZHhla0MyaTA4MG1iUmcwN3NGQTMtc2pqbWFOc2NneGZVcnVfa0x0X2pKU0NtVEE0LVUSBBoCCAAaqQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAhQYIABAAGAAgACoZCgR3aGF0FRdpdD8aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKmEKB3RhbGxlc3QVWBzqPxoHYmlnZ2VzdBoHaGlnaGVzdBoRaGlnaGVzdCBtb3VudGFpbnMaDWhpZ2hlc3QgcG9pbnQaD3RhbGxlc3Rtb3VudGFpbhoMaXY7cDt0YWxsZXN0KmEKCG1vdW50YWluFSromkAaEWhpZ2hlc3QgbW91bnRhaW5zGg1oaWdoZXN0IHBvaW50Ggltb3VudGFpbnMaDG1vdW50YWlucyBvZhoEcGVhaxoPdGFsbGVzdG1vdW50YWluKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqMgoFd29ybGQVCEK8QBoFZWFydGgaBGV2ZXIaBmdsb2JhbBoHd29ybGQncxoGd29ybGRzMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVlkwb1BHTTNBdGZLREJlOUFPQXc0ZV9KT2hGTjlBWDEzSF9PVVg0NnBkNTc1VGVlYkp0RFI2dHVrWF9SQW5DTTNPbWRhOHpQcGJFUEdvc3dvbC03V3JJa3dsRXFFWU43cW11VkxfZHhla0MyaTA4MG1iUmcwN3NGQTMtc2pqbWFOc2NneGZVcnVfa0x0X2pKU0NtVEE0LVU6PVRvcCAxMCA8Yj5IaWdoZXN0IE1vdW50YWluIGluIHRoZSBXb3JsZDwvYj4gLSBBZHZlbnR1cmUgVHJpcHJCuwE8Yj5Nb3VudCBFdmVyZXN0PC9iPiAmbWlkZG90OyBIZWlnaHQ6IDI5LDAzMiBmZWV0ICg4LDg0OSBtZXRlcnMpICZtaWRkb3Q7IExvY2F0aW9uOiBOZXBhbC1DaGluYSBCb3JkZXIsIEhpbWFsYXlhbiBSYW5nZSAmbWlkZG90OyBDbGltYmluZyBEaWZmaWN1bHR5OiBFeHRyZW1lbHkgSGFyZCAmbWlkZG90OyBCZXN0Jm5ic3A7Li4uSgN0aGVKAmlzSgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVlkwb1BHTTNBdGZLREJlOUFPQXc0ZV9KT2hGTjlBWDEzSF9PVVg0NnBkNTc1VGVlYkp0RFI2dHVrWF9SQW5DTTNPbWRhOHpQcGJFUEdvc3dvbC03V3JJa3dsRXFFWU43cW11VkxfZHhla0MyaTA4MG1iUmcwN3NGQTMtc2pqbWFOc2NneGZVcnVfa0x0X2pKU0NtVEE0LVUSBBoCCAAaqQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAhQYIABAAGAAgACoZCgR3aGF0FRdpdD8aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKmEKB3RhbGxlc3QVWBzqPxoHYmlnZ2VzdBoHaGlnaGVzdBoRaGlnaGVzdCBtb3VudGFpbnMaDWhpZ2hlc3QgcG9pbnQaD3RhbGxlc3Rtb3VudGFpbhoMaXY7cDt0YWxsZXN0KmEKCG1vdW50YWluFSromkAaEWhpZ2hlc3QgbW91bnRhaW5zGg1oaWdoZXN0IHBvaW50Ggltb3VudGFpbnMaDG1vdW50YWlucyBvZhoEcGVhaxoPdGFsbGVzdG1vdW50YWluKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqMgoFd29ybGQVCEK8QBoFZWFydGgaBGV2ZXIaBmdsb2JhbBoHd29ybGQncxoGd29ybGRzMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVlkwb1BHTTNBdGZLREJlOUFPQXc0ZV9KT2hGTjlBWDEzSF9PVVg0NnBkNTc1VGVlYkp0RFI2dHVrWF9SQW5DTTNPbWRhOHpQcGJFUEdvc3dvbC03V3JJa3dsRXFFWU43cW11VkxfZHhla0MyaTA4MG1iUmcwN3NGQTMtc2pqbWFOc2NneGZVcnVfa0x0X2pKU0NtVEE0LVU6PVRvcCAxMCA8Yj5IaWdoZXN0IE1vdW50YWluIGluIHRoZSBXb3JsZDwvYj4gLSBBZHZlbnR1cmUgVHJpcHJCuwE8Yj5Nb3VudCBFdmVyZXN0PC9iPiAmbWlkZG90OyBIZWlnaHQ6IDI5LDAzMiBmZWV0ICg4LDg0OSBtZXRlcnMpICZtaWRkb3Q7IExvY2F0aW9uOiBOZXBhbC1DaGluYSBCb3JkZXIsIEhpbWFsYXlhbiBSYW5nZSAmbWlkZG90OyBDbGltYmluZyBEaWZmaWN1bHR5OiBFeHRyZW1lbHkgSGFyZCAmbWlkZG90OyBCZXN0Jm5ic3A7Li4uSgN0aGVKAmlzSgJpbiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -125,24 +298,28 @@
       "US"
      ],
      "source": {
-      "description": "Hi, my name is Mountain Butorac. Catholic Traveler in 2004. I am originally from Atlanta, Georgia. just a 90 second walk from Saint Peter's Basilica. I've been ...",
-      "icon": "https://serpapi.com/images/i/UklGRkgAAABXRUJQVlA4IDwAAAAwAwCdASocABwAPtE-tFooIigoFAEAGgllALb2gABAX3AAAP6XF_G83mta3_8lP67vKLtJoDO_VCqAAAA.webp",
-      "source_info_link": "https://thecatholictraveler.com/about/mountain-butorac/"
+      "description": "Mount Everest · Height: 29,032 feet (8,849 meters) · Location: Nepal-China Border, Himalayan Range · Climbing Difficulty: Extremely Hard · Best ...",
+      "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBwCdASogAB4APtEutFooIagoGAEAGglsALs5QTpaZv5cQgGfR9Zf6AHlb-zSRGyTiugoujkpPblhBrbBTUh8-yqMhCrCAP7-wqChj-NBtjUpClGcB7vcv3t6ORECGOWnPrZ2gJ_aPgf98rAGsAzXs3_xYTFywMJvarZGoA-crBHzRf6vxVHfv6QRxAuxs-clKqqe2TKXHg1okrBeJ4oI9N34dvQnERDFoz_pPc_hCsalj1ZJd1EAgrJ0a0GQu4Gg43v_PWcEFGnmjXtIA6ewsFmSM5XCQAKlwJTqn8fpzbUs4Lbq8ePM-bHmI5lYSmaJ5uAZc4plsYPwPUgAAA.webp",
+      "source_info_link": "https://adventuretripr.com/blog/highest-mountains-in-the-world"
      }
     },
-    "displayed_link": "https://thecatholictraveler.com › about › mountain-buto...",
-    "favicon": "https://serpapi.com/images/i/UklGRkgAAABXRUJQVlA4IDwAAAAwAwCdASocABwAPtE-tFooIigoFAEAGgllALb2gABAX3AAAP6XF_G83mta3_8lP67vKLtJoDO_VCqAAAA.webp",
-    "link": "https://thecatholictraveler.com/about/mountain-butorac/",
+    "date": "Oct 23, 2025",
+    "displayed_link": "https://adventuretripr.com › blog › highest-mountains-in...",
+    "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBwCdASogAB4APtEutFooIagoGAEAGglsALs5QTpaZv5cQgGfR9Zf6AHlb-zSRGyTiugoujkpPblhBrbBTUh8-yqMhCrCAP7-wqChj-NBtjUpClGcB7vcv3t6ORECGOWnPrZ2gJ_aPgf98rAGsAzXs3_xYTFywMJvarZGoA-crBHzRf6vxVHfv6QRxAuxs-clKqqe2TKXHg1okrBeJ4oI9N34dvQnERDFoz_pPc_hCsalj1ZJd1EAgrJ0a0GQu4Gg43v_PWcEFGnmjXtIA6ewsFmSM5XCQAKlwJTqn8fpzbUs4Lbq8ePM-bHmI5lYSmaJ5uAZc4plsYPwPUgAAA.webp",
+    "link": "https://adventuretripr.com/blog/highest-mountains-in-the-world",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVgE487PGaUWK6RFL2AJ7rHFtED2a2Sy5i-ApSuqQbQitnaL9LN32NsM7qfc70LJ8y6YlCZe6r8Drnzg-1sTQ6xsRsLteo6IfD_2RW7vYligsV6A9WyrMUD-IWjMfMp53QWQXceNWh4M5rSw&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8QFnoECBEQAQ&uoh=1",
-    "snippet": "Hi, my name is Mountain Butorac. Catholic Traveler in 2004. I am originally from Atlanta, Georgia. just a 90 second walk from Saint Peter's Basilica. I've been ...",
+    "read_more_link": "https://adventuretripr.com/blog/highest-mountains-in-the-world#:~:text=Mount%20Everest&text=Height%3A%2029%2C032%20feet%20(8%2C849%20meters)&text=Location%3A%20Nepal%2DChina%20Border%2C%20Himalayan%20Range&text=Climbing%20Difficulty%3A%20Extremely%20Hard&text=Best%20time%20to%20climb%3A%20Late,April%20to%20early%20June",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVY0oPGM3AtfKDBe9AOAw4e_JOhFN9AX13H_OUX46pd575TeebJtDR6tukX_RAnCM3Omda8zPpbEPGoswol-7WrIkwlEqEYN7qmuVL_dxekC2i080mbRg07sFA3-sjjmaNscgxfUru_kLt_jJSCmTA4-U&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQFnoECCoQAQ&uoh=1",
+    "snippet": "Mount Everest · Height: 29,032 feet (8,849 meters) · Location: Nepal-China Border, Himalayan Range · Climbing Difficulty: Extremely Hard · Best ...",
     "snippet_highlighted_words": [
-     "Mountain"
+     "Mount Everest"
     ],
-    "source": "The Catholic Traveler",
-    "title": "Hi, I'm Mountain"
+    "source": "AdventureTripr",
+    "title": "Top 10 Highest Mountain in the World"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVnk2TWNzWV9yOHUteXlxZkYyeG01MzhZMnNwNzBuQ0xtX3lSWTNiNlV1V0Y2YWxtQnktWmJ1OFJacmxsT3hUY250WnlORjJmNkdJT1VGZkEtVHVocGk2ZG13MlBOV3d3TTB5OW1iRW9Ld0xINzdITEFHUDV6VV81Qm9uZmhvalFmWHZSNTVjMV8xdXFrSGlWRndmSk5xbHVUZWN4dxIEGgIIABqpBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBggAEAAYACAAKhkKBHdoYXQVf8ERPxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYQoHdGFsbGVzdBV5fKxAGgdiaWdnZXN0GgdoaWdoZXN0GhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoPdGFsbGVzdG1vdW50YWluGgxpdjtwO3RhbGxlc3QqYQoIbW91bnRhaW4V5-moQBoRaGlnaGVzdCBtb3VudGFpbnMaDWhpZ2hlc3QgcG9pbnQaCW1vdW50YWlucxoMbW91bnRhaW5zIG9mGgRwZWFrGg90YWxsZXN0bW91bnRhaW4qCQoCaW4VAAAAACoKCgN0aGUVAAAAACoyCgV3b3JsZBXGaXBAGgVlYXJ0aBoEZXZlchoGZ2xvYmFsGgd3b3JsZCdzGgZ3b3JsZHMysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWeTZNY3NZX3I4dS15eXFmRjJ4bTUzOFkyc3A3MG5DTG1feVJZM2I2VXVXRjZhbG1CeS1aYnU4UlpybGxPeFRjbnRaeU5GMmY2R0lPVUZmQS1UdWhwaTZkbXcyUE5Xd3dNMHk5bWJFb0t3TEg3N0hMQUdQNXpVXzVCb25maG9qUWZYdlI1NWMxXzF1cWtIaVZGd2ZKTnFsdVRlY3h3OkZJcyBFdmVyZXN0IFJlYWxseSB0aGUgPGI-VGFsbGVzdCBNb3VudGFpbiBpbiB0aGUgV29ybGQ8L2I-ID8gRmFjdHMgLi4uQq0BRXZlcmVzdCBSZWFsbHkgdGhlIDxiPlRhbGxlc3QgTW91bnRhaW48L2I-IDogTW91bnQgRXZlcmVzdCwgdG93ZXJpbmcgYXQgOCw4NDguODYgbWV0ZXJzICgyOSwwMzEuNyBmZWV0KSwgaXMgd2lkZWx5IHJlY29nbml6ZWQgYXMgdGhlIDxiPnRhbGxlc3QgbW91bnRhaW48L2I-IG9uIDxiPkVhcnRoPC9iPi5KA3RoZUoCaXNKAmluIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVnk2TWNzWV9yOHUteXlxZkYyeG01MzhZMnNwNzBuQ0xtX3lSWTNiNlV1V0Y2YWxtQnktWmJ1OFJacmxsT3hUY250WnlORjJmNkdJT1VGZkEtVHVocGk2ZG13MlBOV3d3TTB5OW1iRW9Ld0xINzdITEFHUDV6VV81Qm9uZmhvalFmWHZSNTVjMV8xdXFrSGlWRndmSk5xbHVUZWN4dxIEGgIIABqpBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBggAEAAYACAAKhkKBHdoYXQVf8ERPxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYQoHdGFsbGVzdBV5fKxAGgdiaWdnZXN0GgdoaWdoZXN0GhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoPdGFsbGVzdG1vdW50YWluGgxpdjtwO3RhbGxlc3QqYQoIbW91bnRhaW4V5-moQBoRaGlnaGVzdCBtb3VudGFpbnMaDWhpZ2hlc3QgcG9pbnQaCW1vdW50YWlucxoMbW91bnRhaW5zIG9mGgRwZWFrGg90YWxsZXN0bW91bnRhaW4qCQoCaW4VAAAAACoKCgN0aGUVAAAAACoyCgV3b3JsZBXGaXBAGgVlYXJ0aBoEZXZlchoGZ2xvYmFsGgd3b3JsZCdzGgZ3b3JsZHMysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWeTZNY3NZX3I4dS15eXFmRjJ4bTUzOFkyc3A3MG5DTG1feVJZM2I2VXVXRjZhbG1CeS1aYnU4UlpybGxPeFRjbnRaeU5GMmY2R0lPVUZmQS1UdWhwaTZkbXcyUE5Xd3dNMHk5bWJFb0t3TEg3N0hMQUdQNXpVXzVCb25maG9qUWZYdlI1NWMxXzF1cWtIaVZGd2ZKTnFsdVRlY3h3OkZJcyBFdmVyZXN0IFJlYWxseSB0aGUgPGI-VGFsbGVzdCBNb3VudGFpbiBpbiB0aGUgV29ybGQ8L2I-ID8gRmFjdHMgLi4uQq0BRXZlcmVzdCBSZWFsbHkgdGhlIDxiPlRhbGxlc3QgTW91bnRhaW48L2I-IDogTW91bnQgRXZlcmVzdCwgdG93ZXJpbmcgYXQgOCw4NDguODYgbWV0ZXJzICgyOSwwMzEuNyBmZWV0KSwgaXMgd2lkZWx5IHJlY29nbml6ZWQgYXMgdGhlIDxiPnRhbGxlc3QgbW91bnRhaW48L2I-IG9uIDxiPkVhcnRoPC9iPi5KA3RoZUoCaXNKAmluIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -151,26 +328,29 @@
       "US"
      ],
      "source": {
-      "description": "How to Do a Mountain Climber | Boot Camp Workout.",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+      "description": "Everest Really the Tallest Mountain : Mount Everest, towering at 8,848.86 meters (29,031.7 feet), is widely recognized as the tallest mountain on Earth.",
+      "icon": "https://serpapi.com/images/i/UklGRsYBAABXRUJQVlA4ILoBAAAQCQCdASogACAAPtEwtFooIigoGAEAGglsAKwyhHtO5wg7vLz5iMA7AawMZIze_vXoAfpKO0aIVniInJwM4YCWnGSye2C8o74OerPFc_BrDYQA_vYJ0mPHKGIpxJ7DvUp4DvLPCTr1B77CrLq6EMakjzYUCBAFr2soLbnPSpV5OAf6QNpzskAfvj_lOP6N0sYLrt2PXXlwTXGg8vzNTS-eUcAmMFXnjF7lTU0z0pOospMWLdwFM00jcaBjb3qK0A52rpNa4NwkUoi2oNYUB4PqqZ6FzGISW2zLEzjl8SVoU5c0Et5DmuMVArj3B7HrY_f8rtR_-3TX4hbl9dxbcFfX2gc1AZ5zQh65uOZgYQlAFJ4KGuetkJc6z61EY1najH2Mi2_D5wfRMfbZ-5OXGhuW5fgdWOr86je0HzJ1tpscGrbo0nOa9_cypD71aTfuTyYOcEyZL4xnU68GrgF9HVjXXMAPGBmji5dQy27aTTnyjGiyR-_Zryv9SSVSg5KFZV7sS5oeeMwoOjlk7T7kHEQODbjziCblXvrBRsUCWFD_6JqHrDgwwhYUpupKUS-zGJWRZRPHQrz1oswA.webp",
+      "source_info_link": "https://eddytours-safaris.com/everest-really-the-tallest-mountain/"
      }
     },
-    "date": "May 7, 2012",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=nmwgirgXLYM",
+    "displayed_link": "https://eddytours-safaris.com › everest-really-the-tallest-...",
+    "favicon": "https://serpapi.com/images/i/UklGRsYBAABXRUJQVlA4ILoBAAAQCQCdASogACAAPtEwtFooIigoGAEAGglsAKwyhHtO5wg7vLz5iMA7AawMZIze_vXoAfpKO0aIVniInJwM4YCWnGSye2C8o74OerPFc_BrDYQA_vYJ0mPHKGIpxJ7DvUp4DvLPCTr1B77CrLq6EMakjzYUCBAFr2soLbnPSpV5OAf6QNpzskAfvj_lOP6N0sYLrt2PXXlwTXGg8vzNTS-eUcAmMFXnjF7lTU0z0pOospMWLdwFM00jcaBjb3qK0A52rpNa4NwkUoi2oNYUB4PqqZ6FzGISW2zLEzjl8SVoU5c0Et5DmuMVArj3B7HrY_f8rtR_-3TX4hbl9dxbcFfX2gc1AZ5zQh65uOZgYQlAFJ4KGuetkJc6z61EY1najH2Mi2_D5wfRMfbZ-5OXGhuW5fgdWOr86je0HzJ1tpscGrbo0nOa9_cypD71aTfuTyYOcEyZL4xnU68GrgF9HVjXXMAPGBmji5dQy27aTTnyjGiyR-_Zryv9SSVSg5KFZV7sS5oeeMwoOjlk7T7kHEQODbjziCblXvrBRsUCWFD_6JqHrDgwwhYUpupKUS-zGJWRZRPHQrz1oswA.webp",
+    "link": "https://eddytours-safaris.com/everest-really-the-tallest-mountain/",
     "position": 3,
-    "read_more_link": "https://www.youtube.com/watch?v=nmwgirgXLYM#:~:text=How%20to%20Do%20a%20Mountain,Climber%20%7C%20Boot%20Camp%20Workout",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV3AXD3vIvnN5CvNY16_YmcVAT3nd4zl1MVAeidHXxabyztmOc1rHRPuIseQV2YOgrdSm83PbOVZrPz6iw3m1v4MCJ5VbReTCxu0DSjcQh2WBqDSAZaKy8g6bKwteAbA&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8QFnoECBgQAQ&uoh=1",
-    "snippet": "How to Do a Mountain Climber | Boot Camp Workout.",
+    "read_more_link": "https://eddytours-safaris.com/everest-really-the-tallest-mountain/#:~:text=Everest%20Really%20the%20Tallest%20Mountain,the%20tallest%20mountain%20on%20Earth.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVy6McsY_r8u-yyqfF2xm538Y2sp70nCLm_yRY3b6UuWF6almBy-Zbu8RZrllOxTcntZyNF2f6GIOUFfA-Tuhpi6dmw2PNWwwM0y9mbEoKwLH77HLAGP5zU_5BonfhojQfXvR55c1_1uqkHiVFwfJNqluTecxw&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQFnoECCkQAQ&uoh=1",
+    "snippet": "Everest Really the Tallest Mountain : Mount Everest, towering at 8,848.86 meters (29,031.7 feet), is widely recognized as the tallest mountain on Earth.",
     "snippet_highlighted_words": [
-     "Mountain"
+     "Tallest Mountain",
+     "tallest mountain",
+     "Earth"
     ],
-    "source": "YouTube",
-    "title": "How to Do a Mountain Climber | Boot Camp Workout"
+    "source": "Eddy Tours and Safaris",
+    "title": "Is Everest Really the Tallest Mountain in the World ? Facts ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZZRDZhTmlEeFpraWlwWWRoVmsxUFNBWkp4bnhWRW0ydEhDWHJPYTFOcjgxVm9WZTVjd2FiVk5fblRnWU9YdEZyUDlFVjhaUlZqQTdNNW1MTm9nZ2l1d05kZ0pfS3pnZDZJb3o3am5oZTVKQkJjX05WSHhOZ2FBNml0WmlvOW51emJmQ0xUdGJpZmtkRmN3SlhIV3BjZlZOT04tNVF4cTJaQTUzdWlFUnE5eHhtMWpveFNIZ3pyR3lZNnh1b3dMNlJfUDBQQ09Zc0dNEgQaAggAGtMGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQK8GCAAQABgAIAAqGQoEd2hhdBWg2MY_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACphCgd0YWxsZXN0FZIEiUAaB2JpZ2dlc3QaB2hpZ2hlc3QaEWhpZ2hlc3QgbW91bnRhaW5zGg1oaWdoZXN0IHBvaW50Gg90YWxsZXN0bW91bnRhaW4aDGl2O3A7dGFsbGVzdCphCghtb3VudGFpbhXX-I1AGhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoJbW91bnRhaW5zGgxtb3VudGFpbnMgb2YaBHBlYWsaD3RhbGxlc3Rtb3VudGFpbioJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFXIKxj8aBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGWUQ2YU5pRHhaa2lpcFlkaFZrMVBTQVpKeG54VkVtMnRIQ1hyT2ExTnI4MVZvVmU1Y3dhYlZOX25UZ1lPWHRGclA5RVY4WlJWakE3TTVtTE5vZ2dpdXdOZGdKX0t6Z2Q2SW96N2puaGU1SkJCY19OVkh4TmdhQTZpdFppbzludXpiZkNMVHRiaWZrZEZjd0pYSFdwY2ZWTk9OLTVReHEyWkE1M3VpRVJxOXh4bTFqb3hTSGd6ckd5WTZ4dW93TDZSX1AwUENPWXNHTTpRW1JlcXVlc3RdIElzIE1vdW50IEV2ZXJlc3QgcmVhbGx5IHRoZSA8Yj50YWxsZXN0IG1vdW50YWluPC9iPiBvbiA8Yj5FYXJ0aDwvYj4gLi4uQp0BVGhlIHBvaW50IGZhcnRoZXN0IGZyb20gdGhlIDxiPkVhcnRoJiMzOTtzPC9iPiBjZW50ZXIgaXMgdGhlIHN1bW1pdCBvZiBDaGltYm9yYXpvLCBpbiBFY3VhZG9yLCBhdCA2LDI2OCBtICgyMCw1NjQgZnQpLiBJdCBpcyA2LDM4NC40IGttICgzLDk2Ny4xIG1pKSZuYnNwOy4uLkoDdGhlSgJpc0oCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZZRDZhTmlEeFpraWlwWWRoVmsxUFNBWkp4bnhWRW0ydEhDWHJPYTFOcjgxVm9WZTVjd2FiVk5fblRnWU9YdEZyUDlFVjhaUlZqQTdNNW1MTm9nZ2l1d05kZ0pfS3pnZDZJb3o3am5oZTVKQkJjX05WSHhOZ2FBNml0WmlvOW51emJmQ0xUdGJpZmtkRmN3SlhIV3BjZlZOT04tNVF4cTJaQTUzdWlFUnE5eHhtMWpveFNIZ3pyR3lZNnh1b3dMNlJfUDBQQ09Zc0dNEgQaAggAGtMGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQK8GCAAQABgAIAAqGQoEd2hhdBWg2MY_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACphCgd0YWxsZXN0FZIEiUAaB2JpZ2dlc3QaB2hpZ2hlc3QaEWhpZ2hlc3QgbW91bnRhaW5zGg1oaWdoZXN0IHBvaW50Gg90YWxsZXN0bW91bnRhaW4aDGl2O3A7dGFsbGVzdCphCghtb3VudGFpbhXX-I1AGhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoJbW91bnRhaW5zGgxtb3VudGFpbnMgb2YaBHBlYWsaD3RhbGxlc3Rtb3VudGFpbioJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFXIKxj8aBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGWUQ2YU5pRHhaa2lpcFlkaFZrMVBTQVpKeG54VkVtMnRIQ1hyT2ExTnI4MVZvVmU1Y3dhYlZOX25UZ1lPWHRGclA5RVY4WlJWakE3TTVtTE5vZ2dpdXdOZGdKX0t6Z2Q2SW96N2puaGU1SkJCY19OVkh4TmdhQTZpdFppbzludXpiZkNMVHRiaWZrZEZjd0pYSFdwY2ZWTk9OLTVReHEyWkE1M3VpRVJxOXh4bTFqb3hTSGd6ckd5WTZ4dW93TDZSX1AwUENPWXNHTTpRW1JlcXVlc3RdIElzIE1vdW50IEV2ZXJlc3QgcmVhbGx5IHRoZSA8Yj50YWxsZXN0IG1vdW50YWluPC9iPiBvbiA8Yj5FYXJ0aDwvYj4gLi4uQp0BVGhlIHBvaW50IGZhcnRoZXN0IGZyb20gdGhlIDxiPkVhcnRoJiMzOTtzPC9iPiBjZW50ZXIgaXMgdGhlIHN1bW1pdCBvZiBDaGltYm9yYXpvLCBpbiBFY3VhZG9yLCBhdCA2LDI2OCBtICgyMCw1NjQgZnQpLiBJdCBpcyA2LDM4NC40IGttICgzLDk2Ny4xIG1pKSZuYnNwOy4uLkoDdGhlSgJpc0oCaW4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
       "en"
@@ -179,25 +359,27 @@
       "US"
      ],
      "source": {
-      "description": "I synchronized the song \"In the Hall of the Mountain King\" by Edvard Grieg to my first line rider track drawing everything by hand.",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=RIz3klPET3o"
+      "description": "The point farthest from the Earth's center is the summit of Chimborazo, in Ecuador, at 6,268 m (20,564 ft). It is 6,384.4 km (3,967.1 mi) ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/theydidthemath/comments/25tmuv/request_is_mount_everest_really_the_tallest/"
      }
     },
-    "date": "Oct 7, 2017",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=RIz3klPET3o",
+    "displayed_link": "6 comments · 12 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/theydidthemath/comments/25tmuv/request_is_mount_everest_really_the_tallest/",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVUc5jKfZ2FeS9KxVFX_uamvZz0VjiT_frFBSrn7m0sXF91uywT3lNl6SG--FEUR6mp3CXByVC2g1TdETTzN23XTo1jCe8N0ZzNR_1347IFBU1KJjklolOT0pW7KM2SA&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8QFnoECBIQAQ&uoh=1",
-    "snippet": "I synchronized the song \"In the Hall of the Mountain King\" by Edvard Grieg to my first line rider track drawing everything by hand.",
+    "read_more_link": "https://www.reddit.com/r/theydidthemath/comments/25tmuv/request_is_mount_everest_really_the_tallest/#:~:text=The%20point%20farthest%20from%20the,mi)%20from%20the%20Earth's%20center.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFYD6aNiDxZkiipYdhVk1PSAZJxnxVEm2tHCXrOa1Nr81VoVe5cwabVN_nTgYOXtFrP9EV8ZRVjA7M5mLNoggiuwNdgJ_Kzgd6Ioz7jnhe5JBBc_NVHxNgaA6itZio9nuzbfCLTtbifkdFcwJXHWpcfVNON-5Qxq2ZA53uiERq9xxm1joxSHgzrGyY6xuowL6R_P0PCOYsGM&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQFnoECDgQAQ&uoh=1",
+    "snippet": "The point farthest from the Earth's center is the summit of Chimborazo, in Ecuador, at 6,268 m (20,564 ft). It is 6,384.4 km (3,967.1 mi) ...",
     "snippet_highlighted_words": [
-     "Mountain"
+     "Earth's"
     ],
-    "source": "YouTube",
-    "title": "Line Rider - Mountain King"
+    "source": "Reddit · r/theydidthemath",
+    "title": "[Request] Is Mount Everest really the tallest mountain on ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZSLUZzSVFRUTBOT1E1OFhwbHAybXpTa1dRWFdWdVVnN2Y4LWJ4dE1FSGtsZlNUdExqbVBXNGNqMWFodDZfeDc2YzBYYzhZTjItQXFMRHVvajVqTEhXbTBaM2VDOHpUQXN2UVhQWURhTkhnMXNoWXBRZHBCWXRFblJabmlYRWRaaFMtVUdhbXp0WEw5aEY4QXhVZmFpQi1laXFJU21zeHpxYWQyOVlyaUFGOHpxZ1NPUEdrEgQaAggAGr8GEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJsGCAAQABgAIAAqGQoEd2hhdBXF8bk9GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACphCgd0YWxsZXN0FdL4SUAaB2JpZ2dlc3QaB2hpZ2hlc3QaEWhpZ2hlc3QgbW91bnRhaW5zGg1oaWdoZXN0IHBvaW50Gg90YWxsZXN0bW91bnRhaW4aDGl2O3A7dGFsbGVzdCphCghtb3VudGFpbhXT7sw_GhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoJbW91bnRhaW5zGgxtb3VudGFpbnMgb2YaBHBlYWsaD3RhbGxlc3Rtb3VudGFpbioJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFS4wakAaBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczLJAS9nb3RvP3VybD1DQUVTaWdFQjZ6c3dGUi1Gc0lRUVEwTk9RNThYcGxwMm16U2tXUVhXVnVVZzdmOC1ieHRNRUhrbGZTVHRMam1QVzRjajFhaHQ2X3g3NmMwWGM4WU4yLUFxTER1b2o1akxIV20wWjNlQzh6VEFzdlFYUFlEYU5IZzFzaFlwUWRwQll0RW5SWm5pWEVkWmhTLVVHYW16dFhMOWhGOEF4VWZhaUItZWlxSVNtc3h6cWFkMjlZcmlBRjh6cWdTT1BHazpFVG9wIDEwIDxiPlRhbGxlc3QgTW91bnRhaW5zIGluIHRoZSB3b3JsZDwvYj4gLSBTYWZlIEhvbGlkYXkgQWR2ZW50dXJlQq0BPGI-TW91bnQgRXZlcmVzdCBpcyB0aGUgdGFsbGVzdCBwZWFrIGluIHRoZSB3b3JsZDwvYj4sIHRvd2VyaW5nIGF0IGEgaGVpZ2h0IG9mIDgsODQ4IG1ldGVycyAoMjksMDI4IGZlZXQpLiBJdCBpcyBsb2NhdGVkIG9uIHRoZSBib3JkZXIgYmV0d2VlbiBOZXBhbCBhbmQgVGliZXQsIHdpdGgmbmJzcDsuLi5KAmluSgJpc0oDdGhlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZSLUZzSVFRUTBOT1E1OFhwbHAybXpTa1dRWFdWdVVnN2Y4LWJ4dE1FSGtsZlNUdExqbVBXNGNqMWFodDZfeDc2YzBYYzhZTjItQXFMRHVvajVqTEhXbTBaM2VDOHpUQXN2UVhQWURhTkhnMXNoWXBRZHBCWXRFblJabmlYRWRaaFMtVUdhbXp0WEw5aEY4QXhVZmFpQi1laXFJU21zeHpxYWQyOVlyaUFGOHpxZ1NPUEdrEgQaAggAGr8GEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJsGCAAQABgAIAAqGQoEd2hhdBXF8bk9GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACphCgd0YWxsZXN0FdL4SUAaB2JpZ2dlc3QaB2hpZ2hlc3QaEWhpZ2hlc3QgbW91bnRhaW5zGg1oaWdoZXN0IHBvaW50Gg90YWxsZXN0bW91bnRhaW4aDGl2O3A7dGFsbGVzdCphCghtb3VudGFpbhXT7sw_GhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoJbW91bnRhaW5zGgxtb3VudGFpbnMgb2YaBHBlYWsaD3RhbGxlc3Rtb3VudGFpbioJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFS4wakAaBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczLJAS9nb3RvP3VybD1DQUVTaWdFQjZ6c3dGUi1Gc0lRUVEwTk9RNThYcGxwMm16U2tXUVhXVnVVZzdmOC1ieHRNRUhrbGZTVHRMam1QVzRjajFhaHQ2X3g3NmMwWGM4WU4yLUFxTER1b2o1akxIV20wWjNlQzh6VEFzdlFYUFlEYU5IZzFzaFlwUWRwQll0RW5SWm5pWEVkWmhTLVVHYW16dFhMOWhGOEF4VWZhaUItZWlxSVNtc3h6cWFkMjlZcmlBRjh6cWdTT1BHazpFVG9wIDEwIDxiPlRhbGxlc3QgTW91bnRhaW5zIGluIHRoZSB3b3JsZDwvYj4gLSBTYWZlIEhvbGlkYXkgQWR2ZW50dXJlQq0BPGI-TW91bnQgRXZlcmVzdCBpcyB0aGUgdGFsbGVzdCBwZWFrIGluIHRoZSB3b3JsZDwvYj4sIHRvd2VyaW5nIGF0IGEgaGVpZ2h0IG9mIDgsODQ4IG1ldGVycyAoMjksMDI4IGZlZXQpLiBJdCBpcyBsb2NhdGVkIG9uIHRoZSBib3JkZXIgYmV0d2VlbiBOZXBhbCBhbmQgVGliZXQsIHdpdGgmbmJzcDsuLi5KAmluSgJpc0oDdGhlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -206,22 +388,27 @@
       "US"
      ],
      "source": {
-      "description": "Join me for a 10-minute standing yoga sequence designed to build strength, balance, and stability, without placing weight on the hands or ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=arydjHTU0iE"
+      "description": "Mount Everest is the tallest peak in the world, towering at a height of 8,848 meters (29,028 feet). It is located on the border between Nepal and Tibet, with ...",
+      "icon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAADwBQCdASocABwAPtEutFooIagoGAEAGgloAL9EE5_YAtATMaTdZ3DCNkSqfHFQxoLdmBxXXJl5QAD-_sIO1zNTkjIYPY6K86w-V_-0fbg-ZXrDvn_-9CrcywFeda_PUBXw9vDtYLfOryC4GI_Ogh35-aO9Unsnk-ISdZI1Og1oTGOfarksmwDCCkQTy_kK3unoxSqH2E3ftprll6uENm9jZvG05NPcSEzJP8G9Hk3VQE-NTKE9soRFcN3BgUm5e4wG5uQeciKxVjTE8rx3vxtZYZSvxtdh-0-zuMVTJ7hKxRS6yvIMQe2SGjqEtc6S8q9oda_yYRvOW8SgQ5qP17VMdzDEPvGsT2wqtIEmgNSIAA.webp",
+      "source_info_link": "https://www.safeholidayadventure.com/blog/top-10-tallest-mountains-in-the-world-2/"
      }
     },
-    "date": "Feb 24, 2026",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=arydjHTU0iE",
+    "displayed_link": "https://www.safeholidayadventure.com › Blog",
+    "favicon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAADwBQCdASocABwAPtEutFooIagoGAEAGgloAL9EE5_YAtATMaTdZ3DCNkSqfHFQxoLdmBxXXJl5QAD-_sIO1zNTkjIYPY6K86w-V_-0fbg-ZXrDvn_-9CrcywFeda_PUBXw9vDtYLfOryC4GI_Ogh35-aO9Unsnk-ISdZI1Og1oTGOfarksmwDCCkQTy_kK3unoxSqH2E3ftprll6uENm9jZvG05NPcSEzJP8G9Hk3VQE-NTKE9soRFcN3BgUm5e4wG5uQeciKxVjTE8rx3vxtZYZSvxtdh-0-zuMVTJ7hKxRS6yvIMQe2SGjqEtc6S8q9oda_yYRvOW8SgQ5qP17VMdzDEPvGsT2wqtIEmgNSIAA.webp",
+    "link": "https://www.safeholidayadventure.com/blog/top-10-tallest-mountains-in-the-world-2/",
     "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV739DEUJW9gJ6U29XazfN0Yvvk_6Mrnd_I3VSPLiZ5IysjiVvDWGR9izI_Lsmq1Y8jQoLf5qbwLQy-jePBvTrrZcJSBkjAZWeTkV2NstpJM6Hp0uAVeoELb_HzCDpeQ&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8QFnoECA4QAQ&uoh=1",
-    "snippet": "Join me for a 10-minute standing yoga sequence designed to build strength, balance, and stability, without placing weight on the hands or ...",
-    "source": "YouTube",
-    "title": "Mountain Flow - Hands Free Yoga Practice"
+    "read_more_link": "https://www.safeholidayadventure.com/blog/top-10-tallest-mountains-in-the-world-2/#:~:text=Mount%20Everest%20is%20the%20tallest,mountain%20falling%20under%20Nepal's%20territory.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFR-FsIQQQ0NOQ58Xplp2mzSkWQXWVuUg7f8-bxtMEHklfSTtLjmPW4cj1aht6_x76c0Xc8YN2-AqLDuoj5jLHWm0Z3eC8zTAsvQXPYDaNHg1shYpQdpBYtEnRZniXEdZhS-UGamztXL9hF8AxUfaiB-eiqISmsxzqad29YriAF8zqgSOPGk&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQFnoECDQQAQ&uoh=1",
+    "snippet": "Mount Everest is the tallest peak in the world, towering at a height of 8,848 meters (29,028 feet). It is located on the border between Nepal and Tibet, with ...",
+    "snippet_highlighted_words": [
+     "Mount Everest is the tallest peak in the world"
+    ],
+    "source": "Safe Holiday Adventure",
+    "title": "Top 10 Tallest Mountains in the world"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZSVWxiMzBMR1NieUZobkdTaWlIeF9TN3RqdmJBRkVPMHpEUTBDODJFd1BBVU42bUNXZFgwNy1yaEJYOURzVTFGUlBCdV9QV1JzSzQ1b0lOc3R2S0F1TTE5WGZJTXdsSmwzVVB4TjBnX1ltcm1FWDBDemhhQlNwemlucTBuekxfMjJxTzVla3I0anFSUTdTVXpJZGpCN2lweS1IMzVFalp1ZXFfcXBLOTExZldDTHdXelhSbDRSRjJtQkdCWEZ6cUhTd1BKU0ZKUnNrEgQaAggAGtkGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLUGCAAQABgAIAAqGQoEd2hhdBUnV0A_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACphCgd0YWxsZXN0FQSdgEAaB2JpZ2dlc3QaB2hpZ2hlc3QaEWhpZ2hlc3QgbW91bnRhaW5zGg1oaWdoZXN0IHBvaW50Gg90YWxsZXN0bW91bnRhaW4aDGl2O3A7dGFsbGVzdCphCghtb3VudGFpbhWKypxAGhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoJbW91bnRhaW5zGgxtb3VudGFpbnMgb2YaBHBlYWsaD3RhbGxlc3Rtb3VudGFpbioJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFXjdTj8aBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGUlVsYjMwTEdTYnlGaG5HU2lpSHhfUzd0anZiQUZFTzB6RFEwQzgyRXdQQVVONm1DV2RYMDctcmhCWDlEc1UxRlJQQnVfUFdSc0s0NW9JTnN0dktBdU0xOVhmSU13bEpsM1VQeE4wZ19ZbXJtRVgwQ3poYUJTcHppbnEwbnpMXzIycU81ZWtyNGpxUlE3U1V6SWRqQjdpcHktSDM1RWpadWVxX3FwSzkxMWZXQ0x3V3pYUmw0UkYybUJHQlhGenFIU3dQSlNGSlJzazpQTW91bnQgRXZlcmVzdCwgPGI-RWFydGgmIzM5O3MgdGFsbGVzdCBtb3VudGFpbjwvYj4sIGp1c3QgZ290IHRhbGxlciBieSBhYm91dCAuLi5CpAE8Yj5Nb3VudCBFdmVyZXN0LCB0aGUgd29ybGQmIzM5O3MgaGlnaGVzdCBwZWFrPC9iPiwgaXMgYWJvdXQgOCw4NDguODYgbWV0ZXJzICgyOSwwMzEuNyBmZWV0KSBoaWdoLCBDaGluYSBhbmQgTmVwYWwgaGF2ZSBkZWNpZGVkIGFmdGVyIHllYXJzIG9mIHJlLW1lYXN1cmluZyZuYnNwOy4uLkoDdGhlSgJpc0oCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZSVWxiMzBMR1NieUZobkdTaWlIeF9TN3RqdmJBRkVPMHpEUTBDODJFd1BBVU42bUNXZFgwNy1yaEJYOURzVTFGUlBCdV9QV1JzSzQ1b0lOc3R2S0F1TTE5WGZJTXdsSmwzVVB4TjBnX1ltcm1FWDBDemhhQlNwemlucTBuekxfMjJxTzVla3I0anFSUTdTVXpJZGpCN2lweS1IMzVFalp1ZXFfcXBLOTExZldDTHdXelhSbDRSRjJtQkdCWEZ6cUhTd1BKU0ZKUnNrEgQaAggAGtkGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLUGCAAQABgAIAAqGQoEd2hhdBUnV0A_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACphCgd0YWxsZXN0FQSdgEAaB2JpZ2dlc3QaB2hpZ2hlc3QaEWhpZ2hlc3QgbW91bnRhaW5zGg1oaWdoZXN0IHBvaW50Gg90YWxsZXN0bW91bnRhaW4aDGl2O3A7dGFsbGVzdCphCghtb3VudGFpbhWKypxAGhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoJbW91bnRhaW5zGgxtb3VudGFpbnMgb2YaBHBlYWsaD3RhbGxlc3Rtb3VudGFpbioJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFXjdTj8aBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGUlVsYjMwTEdTYnlGaG5HU2lpSHhfUzd0anZiQUZFTzB6RFEwQzgyRXdQQVVONm1DV2RYMDctcmhCWDlEc1UxRlJQQnVfUFdSc0s0NW9JTnN0dktBdU0xOVhmSU13bEpsM1VQeE4wZ19ZbXJtRVgwQ3poYUJTcHppbnEwbnpMXzIycU81ZWtyNGpxUlE3U1V6SWRqQjdpcHktSDM1RWpadWVxX3FwSzkxMWZXQ0x3V3pYUmw0UkYybUJHQlhGenFIU3dQSlNGSlJzazpQTW91bnQgRXZlcmVzdCwgPGI-RWFydGgmIzM5O3MgdGFsbGVzdCBtb3VudGFpbjwvYj4sIGp1c3QgZ290IHRhbGxlciBieSBhYm91dCAuLi5CpAE8Yj5Nb3VudCBFdmVyZXN0LCB0aGUgd29ybGQmIzM5O3MgaGlnaGVzdCBwZWFrPC9iPiwgaXMgYWJvdXQgOCw4NDguODYgbWV0ZXJzICgyOSwwMzEuNyBmZWV0KSBoaWdoLCBDaGluYSBhbmQgTmVwYWwgaGF2ZSBkZWNpZGVkIGFmdGVyIHllYXJzIG9mIHJlLW1lYXN1cmluZyZuYnNwOy4uLkoDdGhlSgJpc0oCaW4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
       "en"
@@ -230,25 +417,28 @@
       "US"
      ],
      "source": {
-      "description": "The official lyric video for Sam Ryder - Mountain by Sam Ryder was released on 12th May 2023 by Parlophone Records.",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=Iszl2jfuXsY"
+      "description": "Mount Everest, the world's highest peak, is about 8,848.86 meters (29,031.7 feet) high, China and Nepal have decided after years of re-measuring ...",
+      "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBACdASocABwAPtEutFooIagoGAEAGglsAJ0zJgFWEzAyEODWdIX7EkNIFnR4kAAA_u--jDs64DksFWVDTsHrNI5CL4UPG8RA-n9zXXuEFTBbascawcdbTeRX8gdE3IXe3VoNhv5G-Wc7kkvbee4ih7h2JGcTHt62PirY_wOsQnnrMevIqbnBDSVCUAfysO-Pj22g2z0HIuVqu4y7FiDhAVMIwif3ScbgedBqOAmT-Tv7pOAP51F574mQPwB-fnyklzvrXzL4RYASb7Q2Vwgw4HWv1-eh0_bTzm_cX-RynsHLP8_8_8__isiMRICAAAA.webp",
+      "source_info_link": "https://www.cnet.com/science/mount-everest-earths-tallest-mountain-just-got-taller-by-about-a-meter/"
      }
     },
-    "date": "May 16, 2023",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=Iszl2jfuXsY",
+    "date": "Dec 9, 2020",
+    "displayed_link": "https://www.cnet.com › science › mount-everest-earths-...",
+    "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBACdASocABwAPtEutFooIagoGAEAGglsAJ0zJgFWEzAyEODWdIX7EkNIFnR4kAAA_u--jDs64DksFWVDTsHrNI5CL4UPG8RA-n9zXXuEFTBbascawcdbTeRX8gdE3IXe3VoNhv5G-Wc7kkvbee4ih7h2JGcTHt62PirY_wOsQnnrMevIqbnBDSVCUAfysO-Pj22g2z0HIuVqu4y7FiDhAVMIwif3ScbgedBqOAmT-Tv7pOAP51F574mQPwB-fnyklzvrXzL4RYASb7Q2Vwgw4HWv1-eh0_bTzm_cX-RynsHLP8_8_8__isiMRICAAAA.webp",
+    "link": "https://www.cnet.com/science/mount-everest-earths-tallest-mountain-just-got-taller-by-about-a-meter/",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVbHcseUvy2tA95K9KFwNci8joSr6uXliV6-b0Jhs0sf31gDpteb5yEanT6uUUCt1aSDuO9nggjuohkOB3g3gSCfb4Uqu4Gf5omCZTYQtpmGANiE7tXBQWm1VyimQoIA&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8QFnoECBQQAQ&uoh=1",
-    "snippet": "The official lyric video for Sam Ryder - Mountain by Sam Ryder was released on 12th May 2023 by Parlophone Records.",
+    "read_more_link": "https://www.cnet.com/science/mount-everest-earths-tallest-mountain-just-got-taller-by-about-a-meter/#:~:text=How%20does%20the%20tallest%20mountain,decided%20after%20years%20of%20re%2Dmeasuring",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFRUlb30LGSbyFhnGSiiHx_S7tjvbAFEO0zDQ0C82EwPAUN6mCWdX07-rhBX9DsU1FRPBu_PWRsK45oINstvKAuM19XfIMwlJl3UPxN0g_YmrmEX0CzhaBSpzinq0nzL_22qO5ekr4jqRQ7SUzIdjB7ipy-H35EjZueq_qpK911fWCLwWzXRl4RF2mBGBXFzqHSwPJSFJRsk&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQFnoECD0QAQ&uoh=1",
+    "snippet": "Mount Everest, the world's highest peak, is about 8,848.86 meters (29,031.7 feet) high, China and Nepal have decided after years of re-measuring ...",
     "snippet_highlighted_words": [
-     "Mountain"
+     "Mount Everest, the world's highest peak"
     ],
-    "source": "YouTube",
-    "title": "Sam Ryder - Mountain (Official Lyric Video)"
+    "source": "CNET",
+    "title": "Mount Everest, Earth's tallest mountain, just got taller by ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVllLMUVaU081MmFYSnE1ZDN5VkttRVd2T1plWUtZaHpxVHoyRXVCTVY5SVVJX0cwc3NWTkd6Wkc5aFh3MXpfRXdOdGItTVRnS1hKcE55M3lWQzd2dWtYTndhRjZIMVhiN3VpMmV6LW9xYXFrU3gzTVdrWWo5MUVwNE5LNVFOT3lCc1MyRnB0X0ExdEhoT3BHM1EtNXdGdDVkUUESBBoCCAAagwYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDdBQgAEAAYACAAKhkKBHdoYXQV5i4_QBoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYQoHdGFsbGVzdBX6tpE_GgdiaWdnZXN0GgdoaWdoZXN0GhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoPdGFsbGVzdG1vdW50YWluGgxpdjtwO3RhbGxlc3QqYQoIbW91bnRhaW4VJENhQBoRaGlnaGVzdCBtb3VudGFpbnMaDWhpZ2hlc3QgcG9pbnQaCW1vdW50YWlucxoMbW91bnRhaW5zIG9mGgRwZWFrGg90YWxsZXN0bW91bnRhaW4qCQoCaW4VAAAAACoKCgN0aGUVAAAAACoyCgV3b3JsZBWDCzlAGgVlYXJ0aBoEZXZlchoGZ2xvYmFsGgd3b3JsZCdzGgZ3b3JsZHMysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWWUsxRVpTTzUyYVhKcTVkM3lWS21FV3ZPWmVZS1loenFUejJFdUJNVjlJVUlfRzBzc1ZOR3paRzloWHcxel9Fd050Yi1NVGdLWEpwTnkzeVZDN3Z1a1hOd2FGNkgxWGI3dWkyZXotb3FhcWtTeDNNV2tZajkxRXA0Tks1UU5PeUJzUzJGcHRfQTF0SGhPcEczUS01d0Z0NWRRQToxPGI-SGlnaGVzdCBNb3VudGFpbnMgaW4gdGhlIFdvcmxkPC9iPiAtIFRob3VnaHRDb0KcAUhpZ2hlc3QgTW91bnRhaW4gaW4gdGhlIFdvcmxkIChhbmQgQXNpYSkgPGI-RXZlcmVzdCwgTmVwYWwtQ2hpbmE6IDI5LDAzNSBmZWV0IC8gODg1MCBtZXRlcnM8L2I-IDsgSGlnaGVzdCBNb3VudGFpbiBpbiBBZnJpY2EgS2lsaW1hbmphcm8sIFRhbnphbmlhOiZuYnNwOy4uLkoCaW5KAmlzSgN0aGUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVllLMUVaU081MmFYSnE1ZDN5VkttRVd2T1plWUtZaHpxVHoyRXVCTVY5SVVJX0cwc3NWTkd6Wkc5aFh3MXpfRXdOdGItTVRnS1hKcE55M3lWQzd2dWtYTndhRjZIMVhiN3VpMmV6LW9xYXFrU3gzTVdrWWo5MUVwNE5LNVFOT3lCc1MyRnB0X0ExdEhoT3BHM1EtNXdGdDVkUUESBBoCCAAagwYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDdBQgAEAAYACAAKhkKBHdoYXQV5i4_QBoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYQoHdGFsbGVzdBX6tpE_GgdiaWdnZXN0GgdoaWdoZXN0GhFoaWdoZXN0IG1vdW50YWlucxoNaGlnaGVzdCBwb2ludBoPdGFsbGVzdG1vdW50YWluGgxpdjtwO3RhbGxlc3QqYQoIbW91bnRhaW4VJENhQBoRaGlnaGVzdCBtb3VudGFpbnMaDWhpZ2hlc3QgcG9pbnQaCW1vdW50YWlucxoMbW91bnRhaW5zIG9mGgRwZWFrGg90YWxsZXN0bW91bnRhaW4qCQoCaW4VAAAAACoKCgN0aGUVAAAAACoyCgV3b3JsZBWDCzlAGgVlYXJ0aBoEZXZlchoGZ2xvYmFsGgd3b3JsZCdzGgZ3b3JsZHMysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWWUsxRVpTTzUyYVhKcTVkM3lWS21FV3ZPWmVZS1loenFUejJFdUJNVjlJVUlfRzBzc1ZOR3paRzloWHcxel9Fd050Yi1NVGdLWEpwTnkzeVZDN3Z1a1hOd2FGNkgxWGI3dWkyZXotb3FhcWtTeDNNV2tZajkxRXA0Tks1UU5PeUJzUzJGcHRfQTF0SGhPcEczUS01d0Z0NWRRQToxPGI-SGlnaGVzdCBNb3VudGFpbnMgaW4gdGhlIFdvcmxkPC9iPiAtIFRob3VnaHRDb0KcAUhpZ2hlc3QgTW91bnRhaW4gaW4gdGhlIFdvcmxkIChhbmQgQXNpYSkgPGI-RXZlcmVzdCwgTmVwYWwtQ2hpbmE6IDI5LDAzNSBmZWV0IC8gODg1MCBtZXRlcnM8L2I-IDsgSGlnaGVzdCBNb3VudGFpbiBpbiBBZnJpY2EgS2lsaW1hbmphcm8sIFRhbnphbmlhOiZuYnNwOy4uLkoCaW5KAmlzSgN0aGUiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
       "en"
@@ -257,106 +447,232 @@
       "US"
      ],
      "source": {
-      "description": "Mountain climbers are a staple in core workouts & HIIT classes alike, Charlee Atkins teaches us how to do a mountain climber the right way,",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=cnyTQDSE884"
+      "description": "Highest Mountain in the World (and Asia) Everest, Nepal-China: 29,035 feet / 8850 meters ; Highest Mountain in Africa Kilimanjaro, Tanzania: ...",
+      "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBQCdASocABwAPrUurVanIacnG_DgFolpAAsAJZV4xHuxSj_Soaca31CCRW3oEKy_kl57E94AAP74ri_Sya3A5VmZduKbLF5LoFI4wd8Lgl7KKj2YYh9mpvepnL-XUnLsiZ913p0hDwqBEv-AZwkKn8p_-5ORuhHK2UKsb_-AC-RP8v1F7q1E_VurEeLswbcV5GgRud3o2lQFxbJQsfl5GtTZ57rwPfoAZTrh0JvZcMcMNMyTwFHcTopKE0D_GBD06QbtKhMAwkDrohirCo7FhwCo4GUAAAA.webp",
+      "source_info_link": "https://www.thoughtco.com/highest-mountains-in-the-world-1435094"
      }
     },
-    "date": "Jul 17, 2019",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=cnyTQDSE884",
+    "date": "Mar 17, 2017",
+    "displayed_link": "https://www.thoughtco.com › ... › Geography › Basics",
+    "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBQCdASocABwAPrUurVanIacnG_DgFolpAAsAJZV4xHuxSj_Soaca31CCRW3oEKy_kl57E94AAP74ri_Sya3A5VmZduKbLF5LoFI4wd8Lgl7KKj2YYh9mpvepnL-XUnLsiZ913p0hDwqBEv-AZwkKn8p_-5ORuhHK2UKsb_-AC-RP8v1F7q1E_VurEeLswbcV5GgRud3o2lQFxbJQsfl5GtTZ57rwPfoAZTrh0JvZcMcMNMyTwFHcTopKE0D_GBD06QbtKhMAwkDrohirCo7FhwCo4GUAAAA.webp",
+    "link": "https://www.thoughtco.com/highest-mountains-in-the-world-1435094",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVogm3f1PaPHA5AxdyGcKFy0NSDmBpyoYxCjbfqGuBvcfIINaHKuXHpaHIY6xBsEML3ZwIZBtvn1n-wCnoxvuYvVtvCKdkUgso6yELjP8YXlRue4E9d9wdQKKHyXHnLQ&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8QFnoECBMQAQ&uoh=1",
-    "snippet": "Mountain climbers are a staple in core workouts & HIIT classes alike, Charlee Atkins teaches us how to do a mountain climber the right way,",
+    "read_more_link": "https://www.thoughtco.com/highest-mountains-in-the-world-1435094#:~:text=Highest%20Mountain%20in%20the%20World,29%2C035%20feet%20%2F%208850%20meters&text=Highest%20Mountain%20in%20Africa,19%2C340%20feet%20%2F%205895%20meters",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVYK1EZSO52aXJq5d3yVKmEWvOZeYKYhzqTz2EuBMV9IUI_G0ssVNGzZG9hXw1z_EwNtb-MTgKXJpNy3yVC7vukXNwaF6H1Xb7ui2ez-oqaqkSx3MWkYj91Ep4NK5QNOyBsS2Fpt_A1tHhOpG3Q-5wFt5dQA&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQFnoECDUQAQ&uoh=1",
+    "snippet": "Highest Mountain in the World (and Asia) Everest, Nepal-China: 29,035 feet / 8850 meters ; Highest Mountain in Africa Kilimanjaro, Tanzania: ...",
     "snippet_highlighted_words": [
-     "Mountain",
-     "mountain"
+     "Everest, Nepal-China: 29,035 feet / 8850 meters"
     ],
-    "source": "YouTube",
-    "title": "How to Do Mountain Climbers | The Right Way | Well+Good"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "\"Tiger Mountain Peasant Song\" by Fleet Foxes. Still the best cover of this song.",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=HMrqBldlqzA"
-     }
-    },
-    "date": "Aug 13, 2008",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=HMrqBldlqzA",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVrn7iWjLtbiZ1tUmXw57UZa5WW-oIsZnf6rKs-nB35OH9cxLVwWKxUcZ9C85rrmbyHUBLpAyFQ58izw81MqaFCXUdaA0NHfeNxZgFm0UMezaWRq4RetC48qwh4QDAig&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8QFnoECBAQAQ&uoh=1",
-    "snippet": "\"Tiger Mountain Peasant Song\" by Fleet Foxes. Still the best cover of this song.",
-    "snippet_highlighted_words": [
-     "Mountain Peas"
-    ],
-    "source": "YouTube",
-    "title": "Fleet Foxes - Tiger Mountain Peasant Song (Cover)"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "REMASTERED IN HD! Official Music Video for Go Rest High On That Mountain performed by Vince Gill. Watch more 90's country music videos!",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=6jXrmAKBBTU"
-     }
-    },
-    "date": "Oct 7, 2009",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=6jXrmAKBBTU",
-    "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVduOSW-tjHok87mozVQK0EIJce0ffYNpebZuhB9qizlbL-zqMsA200agHgoc534BTWPKAKkQYsIKgSApjWhTEqPGy7ulJVunotTV0yzZzhVb2IRWQpk1rSwNccfYcwQ&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8QFnoECA8QAQ&uoh=1",
-    "snippet": "REMASTERED IN HD! Official Music Video for Go Rest High On That Mountain performed by Vince Gill. Watch more 90's country music videos!",
-    "snippet_highlighted_words": [
-     "Mountain"
-    ],
-    "source": "YouTube",
-    "title": "Vince Gill - Go Rest High On That Mountain (Official Music ..."
+    "source": "ThoughtCo",
+    "title": "Highest Mountains in the World"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=What+is+the+tallest+mountain+in+the+world?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&ei=dcSvarb0HsK6ruEPhsXo-Qc&start=10&sa=N&sstk=AS6-VmIgnFC-saEDc_UWMYZ5BajesLB__Qh7AfDItLlyu48_RO7K_4pjL6dDa5t6mIUhtCHG4JLNi4XEW95DQTN-FVJP2FXfEVbu0A&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q8NMDegQISBAK",
+   "next": "https://www.google.com/search?q=What+is+the+tallest+mountain+in+the+world?&sca_esv=c16286b74a8621df&sxsrf=APpeQntolI5qc4LQTnHdX54ZGFjGHE7TbQ:1790544305193&ei=sYm5ap6fC8_l5NoP_52FwAg&start=10&sa=N&sstk=AS6-VmJokGo9a8PmXBAEuecNy08T1cM-Dxh5EqLkrPsBEzpW4hS-gCmw3sOAUcCsBzQzSd6k8xFtmVxRC2jAe6yA8SCzi1dEgQX51A&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQ8NMDegQIMxAI",
    "other_pages": {
-    "2": "https://www.google.com/search?q=What+is+the+tallest+mountain+in+the+world?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&ei=dcSvarb0HsK6ruEPhsXo-Qc&start=10&sa=N&sstk=AS6-VmIgnFC-saEDc_UWMYZ5BajesLB__Qh7AfDItLlyu48_RO7K_4pjL6dDa5t6mIUhtCHG4JLNi4XEW95DQTN-FVJP2FXfEVbu0A&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q8tMDegQISBAE",
-    "3": "https://www.google.com/search?q=What+is+the+tallest+mountain+in+the+world?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&ei=dcSvarb0HsK6ruEPhsXo-Qc&start=20&sa=N&sstk=AS6-VmIgnFC-saEDc_UWMYZ5BajesLB__Qh7AfDItLlyu48_RO7K_4pjL6dDa5t6mIUhtCHG4JLNi4XEW95DQTN-FVJP2FXfEVbu0A&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q8tMDegQISBAG",
-    "4": "https://www.google.com/search?q=What+is+the+tallest+mountain+in+the+world?&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvO7M-jQwtzfHF0MLR_qKEnCMeAJA:1789903989512&ei=dcSvarb0HsK6ruEPhsXo-Qc&start=30&sa=N&sstk=AS6-VmIgnFC-saEDc_UWMYZ5BajesLB__Qh7AfDItLlyu48_RO7K_4pjL6dDa5t6mIUhtCHG4JLNi4XEW95DQTN-FVJP2FXfEVbu0A&ved=2ahUKEwj2guj7h_2WAxVCnSsGHYYiOn8Q8tMDegQISBAI"
+    "2": "https://www.google.com/search?q=What+is+the+tallest+mountain+in+the+world?&sca_esv=c16286b74a8621df&sxsrf=APpeQntolI5qc4LQTnHdX54ZGFjGHE7TbQ:1790544305193&ei=sYm5ap6fC8_l5NoP_52FwAg&start=10&sa=N&sstk=AS6-VmJokGo9a8PmXBAEuecNy08T1cM-Dxh5EqLkrPsBEzpW4hS-gCmw3sOAUcCsBzQzSd6k8xFtmVxRC2jAe6yA8SCzi1dEgQX51A&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQ8tMDegQIMxAE",
+    "3": "https://www.google.com/search?q=What+is+the+tallest+mountain+in+the+world?&sca_esv=c16286b74a8621df&sxsrf=APpeQntolI5qc4LQTnHdX54ZGFjGHE7TbQ:1790544305193&ei=sYm5ap6fC8_l5NoP_52FwAg&start=20&sa=N&sstk=AS6-VmJokGo9a8PmXBAEuecNy08T1cM-Dxh5EqLkrPsBEzpW4hS-gCmw3sOAUcCsBzQzSd6k8xFtmVxRC2jAe6yA8SCzi1dEgQX51A&ved=2ahUKEwjeu4-q2Y-XAxXPMlkFHf9OAYgQ8tMDegQIMxAG"
    }
   },
+  "perspectives": [
+   {
+    "author": "thelostatlas.official",
+    "date": "2 days ago",
+    "duration": "0:51",
+    "extensions": [
+     "60+ reactions "
+    ],
+    "link": "https://www.facebook.com/thelostatlas.official/videos/everest-is-the-tallest-mountain-on-earth-but-its-not-the-closest-point-to-space-/1667401455360607/",
+    "source": "Facebook",
+    "thumbnails": [
+     "https://serpapi.com/searches/6ab989b150d43e60e4bcba59/images/p5f90mljT8rkuVf2i83dtIoi9kCrjON29Wols3uMllg.jpeg"
+    ],
+    "title": "Everest is the tallest mountain on Earth… but it's NOT the closest point to space. 🏔️🚀 That title belongs to Chimborazo in Ecuador. It's 2.5 km shorter than Everest, but because Earth bulges at the equator, its summit sits more than 2 km farther from Earth's cent"
+   },
+   {
+    "author": "r/geography",
+    "date": "3 weeks ago",
+    "extensions": [
+     "130+ comments "
+    ],
+    "link": "https://www.reddit.com/r/geography/comments/1w7i41w/mount_everest_the_highest_mountain_above_sea/",
+    "source": "Reddit",
+    "thumbnails": [
+     "https://serpapi.com/searches/6ab989b150d43e60e4bcba59/images/Fi7AbF7jmL24mn29G3L8FdQk9Q5z0qaisoa3Hafw-CA.jpeg"
+    ],
+    "title": "Mount Everest the highest mountain above sea level, but not the tallest mountain from its base. What does this mean?"
+   },
+   {
+    "author": "StarTalk",
+    "date": "1 month ago",
+    "duration": "5:24",
+    "extensions": [
+     "11.8K+ reactions "
+    ],
+    "link": "https://www.facebook.com/StarTalk/posts/is-everest-the-tallest-mountain-think-again/1595212378904482/",
+    "source": "Facebook",
+    "thumbnails": [
+     "https://serpapi.com/searches/6ab989b150d43e60e4bcba59/images/uz2RnqPYZX75lYRFSF6RC3wtknmkkPuDS95wylO7MMQ.jpeg"
+    ],
+    "title": "Is Everest The Tallest Mountain? Think Again!"
+   },
+   {
+    "author": "quantum.0003",
+    "date": "Jul 25, 2026",
+    "duration": "0:22",
+    "extensions": [
+     "338.1K+ likes "
+    ],
+    "link": "https://www.instagram.com/reel/DbOOWr2oKPK/",
+    "source": "Instagram",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqhfO3bjR1IwHcL1KNAjHlBzlGK0o5rAVJiltxdbYTz3iyB2jrZkpFfu-bw&usqp=CAI&s=10"
+    ],
+    "title": "Everest is Earth's highest natural mountain above sea level, the Burj Khalifa is the tallest man-made building, and Mount Olympus is the legendary home of Greek gods (while Olympus Mons on Mars is the solar system's tallest volcano). #learning #theories #universe #physics"
+   },
+   {
+    "author": "caroline.d.leon",
+    "date": "2 days ago",
+    "duration": "0:28",
+    "extensions": [
+     "60+ likes "
+    ],
+    "link": "https://www.instagram.com/reel/Ddteo7-o_UR/",
+    "source": "Instagram",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNTTwYCwTHX2fS4094EHnXDYGPEJeSlmuOnu0_1kB8M4LiubIanPMRXi5KOA&usqp=CAI&s=10"
+    ],
+    "title": "The highest mountain in the world! • 8,848m tall • 6weeks to climb • Everest! • #everest #sevensummits #nepal #mountains #mountaineering"
+   },
+   {
+    "author": "ilovetheuniverseFB",
+    "date": "1 month ago",
+    "extensions": [
+     "3.4K+ reactions "
+    ],
+    "link": "https://www.facebook.com/ilovetheuniverseFB/posts/mount-everest-is-the-tallest-mountain-on-earth-its-about-88-km-high-pretty-tall-/1511284294346649/",
+    "source": "Facebook",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETtV_Iz1787ZA5RF7GNehdb0uBMJ4P8ttX1ttRuxXhNTDUI2n1L0XdZaugQ&usqp=CAI&s"
+    ],
+    "title": "Mount Everest is the tallest mountain on Earth. It's about 8.8 km high. Pretty tall, right? Now picture a mountain almost three times bigger than that. That's Olympus Mons, a giant volcano on Mars. It's about 22 km tall, making it the highest point on Mars and the b"
+   },
+   {
+    "author": "LTX IAS Classes",
+    "date": "1 month ago",
+    "duration": "14:32",
+    "extensions": [
+     "3.4K+ views "
+    ],
+    "link": "https://www.youtube.com/watch?v=WiBiSa0rjxc",
+    "source": "YouTube",
+    "thumbnails": [
+     "https://img.youtube.com/vi/WiBiSa0rjxc/hqdefault.jpg"
+    ],
+    "title": "Why Is Mount Everest Still Growing? 🏔️ | Dad Asks, Suhaas Explains",
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQvfnIBrSrAlD0EkvVdyB_H4Y5EmOqnxooCqw"
+   },
+   {
+    "author": "Dr. Ravinder Pall Saini",
+    "date": "4 weeks ago",
+    "link": "https://www.linkedin.com/posts/drrpsaini_is-it-true-that-everest-is-not-the-tallest-activity-7500738028286697472-tRB0",
+    "source": "LinkedIn",
+    "title": "Is it true that Everest is not the tallest mountain of all? The correct answer is: It Depends. Everest rises at 8,849.86 meters above sea level and is considered the tallest mountain on Earth. So if the question was, \"Is Everest the highest mountain above sea level?"
+   },
+   {
+    "author": "itsquantumphysics",
+    "date": "6 days ago",
+    "extensions": [
+     "20+ reactions "
+    ],
+    "link": "https://www.facebook.com/itsquantumphysics/posts/mount-everest-is-the-worlds-tallest-mountain-measured-from-sea-level-at-884886-m/1427433649501386/",
+    "source": "Facebook",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0z4ddseMgM2QLx0IewY2L8QGIfZkwNxpxczlzr3wOhVh_mO9PE2At2fG7w&usqp=CAI&s"
+    ],
+    "title": "Mount Everest is the world's tallest mountain measured from sea level, at 8,848.86 meters. But the real giant is Mauna Kea in Hawaii. From its base on the ocean floor to its summit, it measures 10,210 meters, surpassing Mount Everest by about 1,400 meters. O"
+   },
+   {
+    "author": "r/RedditGames",
+    "date": "3 weeks ago",
+    "extensions": [
+     "390+ comments "
+    ],
+    "link": "https://www.reddit.com/r/RedditGames/comments/1w7cps2/question_is_mount_everest_the_biggest_mountain_in/",
+    "source": "Reddit",
+    "title": "r/RedditGames on Reddit: [Question] Is mount everest the biggest mountain in the world?"
+   },
+   {
+    "author": "Facebook",
+    "date": "1 week ago",
+    "link": "https://www.facebook.com/61579420454094/posts/which-is-the-tallest-mountain-in-the-world-mcqs-highlight-question-mrbirendra144/122129509694980681/",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYy25X2HNYW2wsl7MnANKRyueXM_87BxoTYLtIhtztN9qXQS-ormW1cjIOiQ&usqp=CAI&s"
+    ],
+    "title": "Which is the tallest mountain in the world? #MCQs @highlight #question #mrbirendra1440"
+   },
+   {
+    "author": "Facebook",
+    "date": "4 days ago",
+    "link": "https://www.facebook.com/61592894031051/posts/%EF%B8%8F-8-highest-mountains-in-the-world-from-the-legendary-mount-everest-8849-m-to-th/122118950667429801/",
+    "thumbnails": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS591qxPvSeRMCW1ZgRbhrzNCbeUmap0Y5w0KYJ0AxAymTe5Tn8XWjT3CT62Q&usqp=CAI&s"
+    ],
+    "title": "The Power of Knowledge"
+   }
+  ],
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pYWlBYMHhrZGpWcFExRnhaV3ROTFhoamRHOHRNbTV4VlhOdlEwRTNPVFYzV1VKalUySlNXVVY2VVhvM09YaEtMVWRVYTBjNVJrNDVUekJ4YVY4MVdXUlZYMWxYUnpGMFZFRXdkRVZVVGpkTVJHdFlUVTl1YldOVFVSSVhjMWx0TldGd05tWkRPRjlzTlU1dlVGODFNa1ozUVdjYUlrRkVjM0k1WmxRek5ETjVjV3RvTFZseFVuTklia3h2Wm1SMFdWRlJaVE5MTFdjIiwiZmN2IjoiMyIsImVpIjoic1ltNWFwNmZDOF9sNU5vUF81MkZ3QWciLCJxYyI6ImMtUFNMTTlJTEZISUxGWW95VWhWS0VuTXlVa3RMbEhJelNfTkswbk16Rk1BSXBCNGVYNVJUb29BUTYyWEthTTlBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0ZWNobmljYWxseSB0aGUgdGFsbGVzdCBtb3VudGFpbiBvbiBFYXJ0aD8iLCJsayI6IkdqRjNhR0YwSUdseklIUmxZMmh1YVdOaGJHeDVJSFJvWlNCMFlXeHNaWE4wSUcxdmRXNTBZV2x1SUc5dUlHVmhjblJvIiwiYnMiOiJjNTJQTVd2RFFBeUY2WHBUWjAtUHRuOGdEclRaTWhsU1RPZk93aFctUzIwSmZISmM5OWZuN0JCREM0RWttNURlOTU2ZUN5N185R1FJRWNhVmwxQlIwNHd3ejdBMGNUUzAyb3RSRUtpZ29NNzhObDlucS1FR2lpZktSZmMyUnkyWF9fUkVkc21FQkItVEJzV0J1LVMxelRmWjYzQXRPbXZBSjlTVjd2azlvZ3hOYUVuMjFPa2Y3Ukx3a2owbHktOExzck5aYXJEVEFZMUtqU3J0Ui0wUmpVYWtqNmJ1WDB6bThhdkNHSUo1N1EzNk05WXNjd05fRl9yNGNBUSIsImlkIjoiZmNfc1ltNWFwNmZDOF9sNU5vUF81MkZ3QWdfMiJ9",
+    "page_token": "ANEgtnicHZBLjpswAEDVy8xygqHJlEhRVYqdTCRgwL_gTQU2CYmNcQMNDbteYc4wp-ppGnX_3uK9Px_mbPXfT-_tOLphvVhM0_R86vuTaZ5l3y2q4W7lQlbG1JXU69XLCnw9yg28yej7VUY5dY7FhYft61QEopNM_Moou5LtfmggQiULmdQgToieE88YbFKfdGKUXhspL3xLuStqEC4f3rLhe7_eGYZ1OGCkyoqiIAd6VnQJSxpyTME2Nfttbt2YogJj4EjFtd8QOWVI_WygF6RdiFNoBqFDKi3L6h0TjLWAG3SWlyLBnB2KmMXMyrmxjAsfvaldeScXA0uiqDiDJLeqelDto2dk2nnUWxY1BDmx7YoxFMBWzZx7oDx884VOPh_8CZAuzA8zvRdWReJ3f85pMcuL6Visbin6MtdARdIXJYetkRgM2TZ12U4cE-hWNH86ytsmePr_evPj2I1rd-1P_wDTOow6",
+    "question": "What is technically the tallest mountain on Earth?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ANEgtnicHZBLjpswAEDVy8xygqHJlEhRVYqdTCRgwL_gTQU2CYmNcQMNDbteYc4wp-ppGnX_3uK9Px_mbPXfT-_tOLphvVhM0_R86vuTaZ5l3y2q4W7lQlbG1JXU69XLCnw9yg28yej7VUY5dY7FhYft61QEopNM_Moou5LtfmggQiULmdQgToieE88YbFKfdGKUXhspL3xLuStqEC4f3rLhe7_eGYZ1OGCkyoqiIAd6VnQJSxpyTME2Nfttbt2YogJj4EjFtd8QOWVI_WygF6RdiFNoBqFDKi3L6h0TjLWAG3SWlyLBnB2KmMXMyrmxjAsfvaldeScXA0uiqDiDJLeqelDto2dk2nnUWxY1BDmx7YoxFMBWzZx7oDx884VOPh_8CZAuzA8zvRdWReJ3f85pMcuL6Visbin6MtdARdIXJYetkRgM2TZ12U4cE-hWNH86ytsmePr_evPj2I1rd-1P_wDTOow6",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pYWlBYMHhrZGpWcFExRnhaV3ROTFhoamRHOHRNbTV4VlhOdlEwRTNPVFYzV1VKalUySlNXVVY2VVhvM09YaEtMVWRVYTBjNVJrNDVUekJ4YVY4MVdXUlZYMWxYUnpGMFZFRXdkRVZVVGpkTVJHdFlUVTl1YldOVFVSSVhjMWx0TldGd05tWkRPRjlzTlU1dlVGODFNa1ozUVdjYUlrRkVjM0k1WmxRek5ETjVjV3RvTFZseFVuTklia3h2Wm1SMFdWRlJaVE5MTFdjIiwiZmN2IjoiMyIsImVpIjoic1ltNWFwNmZDOF9sNU5vUF81MkZ3QWciLCJxYyI6ImMtUFNMTTlJTEZISUxGWW95VWhWS0VuTXlVa3RMbEhJelNfTkswbk16Rk1BSXBCNGVYNVJUb29BUTYyWEthTTlBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0ZWNobmljYWxseSB0aGUgdGFsbGVzdCBtb3VudGFpbiBvbiBFYXJ0aD8iLCJsayI6IkdqRjNhR0YwSUdseklIUmxZMmh1YVdOaGJHeDVJSFJvWlNCMFlXeHNaWE4wSUcxdmRXNTBZV2x1SUc5dUlHVmhjblJvIiwiYnMiOiJjNTJQTVd2RFFBeUY2WHBUWjAtUHRuOGdEclRaTWhsU1RPZk93aFctUzIwSmZISmM5OWZuN0JCREM0RWttNURlOTU2ZUN5N185R1FJRWNhVmwxQlIwNHd3ejdBMGNUUzAyb3RSRUtpZ29NNzhObDlucS1FR2lpZktSZmMyUnkyWF9fUkVkc21FQkItVEJzV0J1LVMxelRmWjYzQXRPbXZBSjlTVjd2azlvZ3hOYUVuMjFPa2Y3Ukx3a2owbHktOExzck5aYXJEVEFZMUtqU3J0Ui0wUmpVYWtqNmJ1WDB6bThhdkNHSUo1N1EzNk05WXNjd05fRl9yNGNBUSIsImlkIjoiZmNfc1ltNWFwNmZDOF9sNU5vUF81MkZ3QWdfMiJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pYWlBYMHhrZGpWcFExRnhaV3ROTFhoamRHOHRNbTV4VlhOdlEwRTNPVFYzV1VKalUySlNXVVY2VVhvM09YaEtMVWRVYTBjNVJrNDVUekJ4YVY4MVdXUlZYMWxYUnpGMFZFRXdkRVZVVGpkTVJHdFlUVTl1YldOVFVSSVhjMWx0TldGd05tWkRPRjlzTlU1dlVGODFNa1ozUVdjYUlrRkVjM0k1WmxRek5ETjVjV3RvTFZseFVuTklia3h2Wm1SMFdWRlJaVE5MTFdjIiwiZmN2IjoiMyIsImVpIjoic1ltNWFwNmZDOF9sNU5vUF81MkZ3QWciLCJxYyI6ImMtUFNMTTlJTEZISUxGWW95VWhWS0VuTXlVa3RMbEhJelNfTkswbk16Rk1BSXBCNGVYNVJUb29BUTYyWEthTTlBQSIsInF1ZXN0aW9uIjoiV2hhdCBtb3VudGFpbiBpcyB0ZWNobmljYWxseSB0YWxsZXIgdGhhbiBNb3VudCBFdmVyZXN0PyIsImxrIjoiYzVNeUs4OUlMRkhJelNfTkswbk16RlBJTEZZb1NVM095TXRNVHN6SnFWUW9BWktwUlFvbEdZbDVFRFVLcVdXcFJhbkZKUUEiLCJicyI6ImM1MlBNV3ZEUUF5RjZYcFRaMC1QdG44Z0RyVFpNaGxTVE9mT3doVy1TMjBKZkhKYzk5Zm43QkJEQzRFa201RGU5NTZlQ3k3XzlHUUlFY2FWbDFCUjA0d3d6N0EwY1RTMDJvdFJFS2lnb003OE5sOW5xLUVHaWlmS1JmYzJSeTJYX19SRWRzbUVCQi1UQnNXQnUtUzF6VGZaNjNBdE9tdkFKOVNWN3ZrOW9neE5hRW4yMU9rZjdSTHdrajBseS04THNyTlphckRUQVkxS2pTcnRSLTBSalVha2o2YnVYMHptOGF2Q0dJSjU3UTM2TTlZc2N3Tl9GX3I0Y0FRIiwiaWQiOiJmY19zWW01YXA2ZkM4X2w1Tm9QXzUyRndBZ18yIn0=",
+    "page_token": "0varHXicHdBdbpswAABg7TJ9bLBpOiVSNJUBTdHsDMc_4JeJ2ElcsI0XsgZ42xV2hp2qp1m1C3wP3--_9tV375_-mOs1DOvF4na73Z_7_myP96p3i2aYvFqoxtpDo7r14-dH8OWkNtmbSr5eVFKyEHhKIprrgXXjjJ_HUxPVy8MWUwkJxF5eUFqPeGsnUZktb03FMwJkmqCDl4a6JSLRat8wa0qeVBJyswfWKCdpLXTQ-ct0pIknFs0oz7EWclCtXpK8-F5GQUh7fhApd4LqFw4kZa35hX0o1cwt_TBrqrnOrGsoRhyimObheZ8tqY6KqYwlJhMYDgLHu6yLsZNEivHbsc0jAlcBeR2kT3bEdVAILEhl_Ic3Z0bPQkSgrp6g7NBDBW-AulVZzWwiXidy7F9LRmbVWsd82EtnAErlTreF1ay4KEs66oqfmibguM0gK-9O6m0T3_2_3vw4ues6XPrzP4Oajos",
+    "question": "What mountain is technically taller than Mount Everest?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0varHXicHdBdbpswAABg7TJ9bLBpOiVSNJUBTdHsDMc_4JeJ2ElcsI0XsgZ42xV2hp2qp1m1C3wP3--_9tV375_-mOs1DOvF4na73Z_7_myP96p3i2aYvFqoxtpDo7r14-dH8OWkNtmbSr5eVFKyEHhKIprrgXXjjJ_HUxPVy8MWUwkJxF5eUFqPeGsnUZktb03FMwJkmqCDl4a6JSLRat8wa0qeVBJyswfWKCdpLXTQ-ct0pIknFs0oz7EWclCtXpK8-F5GQUh7fhApd4LqFw4kZa35hX0o1cwt_TBrqrnOrGsoRhyimObheZ8tqY6KqYwlJhMYDgLHu6yLsZNEivHbsc0jAlcBeR2kT3bEdVAILEhl_Ic3Z0bPQkSgrp6g7NBDBW-AulVZzWwiXidy7F9LRmbVWsd82EtnAErlTreF1ay4KEs66oqfmibguM0gK-9O6m0T3_2_3vw4ues6XPrzP4Oajos",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pYWlBYMHhrZGpWcFExRnhaV3ROTFhoamRHOHRNbTV4VlhOdlEwRTNPVFYzV1VKalUySlNXVVY2VVhvM09YaEtMVWRVYTBjNVJrNDVUekJ4YVY4MVdXUlZYMWxYUnpGMFZFRXdkRVZVVGpkTVJHdFlUVTl1YldOVFVSSVhjMWx0TldGd05tWkRPRjlzTlU1dlVGODFNa1ozUVdjYUlrRkVjM0k1WmxRek5ETjVjV3RvTFZseFVuTklia3h2Wm1SMFdWRlJaVE5MTFdjIiwiZmN2IjoiMyIsImVpIjoic1ltNWFwNmZDOF9sNU5vUF81MkZ3QWciLCJxYyI6ImMtUFNMTTlJTEZISUxGWW95VWhWS0VuTXlVa3RMbEhJelNfTkswbk16Rk1BSXBCNGVYNVJUb29BUTYyWEthTTlBQSIsInF1ZXN0aW9uIjoiV2hhdCBtb3VudGFpbiBpcyB0ZWNobmljYWxseSB0YWxsZXIgdGhhbiBNb3VudCBFdmVyZXN0PyIsImxrIjoiYzVNeUs4OUlMRkhJelNfTkswbk16RlBJTEZZb1NVM095TXRNVHN6SnFWUW9BWktwUlFvbEdZbDVFRFVLcVdXcFJhbkZKUUEiLCJicyI6ImM1MlBNV3ZEUUF5RjZYcFRaMC1QdG44Z0RyVFpNaGxTVE9mT3doVy1TMjBKZkhKYzk5Zm43QkJEQzRFa201RGU5NTZlQ3k3XzlHUUlFY2FWbDFCUjA0d3d6N0EwY1RTMDJvdFJFS2lnb003OE5sOW5xLUVHaWlmS1JmYzJSeTJYX19SRWRzbUVCQi1UQnNXQnUtUzF6VGZaNjNBdE9tdkFKOVNWN3ZrOW9neE5hRW4yMU9rZjdSTHdrajBseS04THNyTlphckRUQVkxS2pTcnRSLTBSalVha2o2YnVYMHptOGF2Q0dJSjU3UTM2TTlZc2N3Tl9GX3I0Y0FRIiwiaWQiOiJmY19zWW01YXA2ZkM4X2w1Tm9QXzUyRndBZ18yIn0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pYWlBYMHhrZGpWcFExRnhaV3ROTFhoamRHOHRNbTV4VlhOdlEwRTNPVFYzV1VKalUySlNXVVY2VVhvM09YaEtMVWRVYTBjNVJrNDVUekJ4YVY4MVdXUlZYMWxYUnpGMFZFRXdkRVZVVGpkTVJHdFlUVTl1YldOVFVSSVhjMWx0TldGd05tWkRPRjlzTlU1dlVGODFNa1ozUVdjYUlrRkVjM0k1WmxRek5ETjVjV3RvTFZseFVuTklia3h2Wm1SMFdWRlJaVE5MTFdjIiwiZmN2IjoiMyIsImVpIjoic1ltNWFwNmZDOF9sNU5vUF81MkZ3QWciLCJxYyI6ImMtUFNMTTlJTEZISUxGWW95VWhWS0VuTXlVa3RMbEhJelNfTkswbk16Rk1BSXBCNGVYNVJUb29BUTYyWEthTTlBQSIsInF1ZXN0aW9uIjoiSXMgS2lsaW1hbmphcm8gdGFsbGVyIHRoYW4gRXZlcmVzdD8iLCJsayI6IkdpSnBjeUJyYVd4cGJXRnVhbUZ5YnlCMFlXeHNaWElnZEdoaGJpQmxkbVZ5WlhOMCIsImJzIjoiYzUyUE1XdkRRQXlGNlhwVFowLVB0bjhnRHJUWk1obFNUT2ZPd2hXLVMyMEpmSEpjOTlmbjdCQkRDNEVrbTVEZTk1NmVDeTdfOUdRSUVjYVZsMUJSMDR3d3o3QTBjVFMwMm90UkVLaWdvTTc4Tmw5bnEtRUdpaWZLUmZjMlJ5MlhfX1JFZHNtRUJCLVRCc1dCdS1TMXpUZlo2M0F0T212QUo5U1Y3dms5b2d4TmFFbjIxT2tmN1JMd2tqMGx5LThMc3JOWmFyRFRBWTFLalNydFItMFJqVWFrajZidVgwem04YXZDR0lKNTdRMzZNOVlzY3dOX0ZfcjRjQVEiLCJpZCI6ImZjX3NZbTVhcDZmQzhfbDVOb1BfNTJGd0FnXzIifQ==",
+    "page_token": "yxGcnnicHdBbTsJAGEDhuBkf6R0jCTH2BlQhdtp_aOfFtDNAaWfoKKWXeXMvrsrVaNzAyZfz9c3Pl-bnrq-6Tl4XmjYMw-zUtid-mNFWaMV1ulCNFpyXBW0W84e58XSky-C2cb2PjRuDlNhHegLcQRj7JY8c2FecYEKKwAlBMQwwutmkd4lFhsKvzlQ4qAiqKVlFgnBGknRnYTHm232UlwaGg2fYTDzKoiHeYU1CBs7rX3NTNraeq9OEspCgrAJ8QR6sSZ8nxjVT7ltmIjvlYR9j14mFBFY_j7mKUqIPZhkis7DcOuFMsVC-MBNLut55f57ugEmATOgg5M0WSM-CzgoqpvZ73cizZ5M0WzszByMVj3GmYEIX5pKxPceAFK25AJ15zHdrZEhFAiPBgo47M7wlfmXvVhFPa-az4f5I-6V1__9z-X4U3UJ-tqdfuqaECw",
+    "question": "Is Kilimanjaro taller than Everest?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yxGcnnicHdBbTsJAGEDhuBkf6R0jCTH2BlQhdtp_aOfFtDNAaWfoKKWXeXMvrsrVaNzAyZfz9c3Pl-bnrq-6Tl4XmjYMw-zUtid-mNFWaMV1ulCNFpyXBW0W84e58XSky-C2cb2PjRuDlNhHegLcQRj7JY8c2FecYEKKwAlBMQwwutmkd4lFhsKvzlQ4qAiqKVlFgnBGknRnYTHm232UlwaGg2fYTDzKoiHeYU1CBs7rX3NTNraeq9OEspCgrAJ8QR6sSZ8nxjVT7ltmIjvlYR9j14mFBFY_j7mKUqIPZhkis7DcOuFMsVC-MBNLut55f57ugEmATOgg5M0WSM-CzgoqpvZ73cizZ5M0WzszByMVj3GmYEIX5pKxPceAFK25AJ15zHdrZEhFAiPBgo47M7wlfmXvVhFPa-az4f5I-6V1__9z-X4U3UJ-tqdfuqaECw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pYWlBYMHhrZGpWcFExRnhaV3ROTFhoamRHOHRNbTV4VlhOdlEwRTNPVFYzV1VKalUySlNXVVY2VVhvM09YaEtMVWRVYTBjNVJrNDVUekJ4YVY4MVdXUlZYMWxYUnpGMFZFRXdkRVZVVGpkTVJHdFlUVTl1YldOVFVSSVhjMWx0TldGd05tWkRPRjlzTlU1dlVGODFNa1ozUVdjYUlrRkVjM0k1WmxRek5ETjVjV3RvTFZseFVuTklia3h2Wm1SMFdWRlJaVE5MTFdjIiwiZmN2IjoiMyIsImVpIjoic1ltNWFwNmZDOF9sNU5vUF81MkZ3QWciLCJxYyI6ImMtUFNMTTlJTEZISUxGWW95VWhWS0VuTXlVa3RMbEhJelNfTkswbk16Rk1BSXBCNGVYNVJUb29BUTYyWEthTTlBQSIsInF1ZXN0aW9uIjoiSXMgS2lsaW1hbmphcm8gdGFsbGVyIHRoYW4gRXZlcmVzdD8iLCJsayI6IkdpSnBjeUJyYVd4cGJXRnVhbUZ5YnlCMFlXeHNaWElnZEdoaGJpQmxkbVZ5WlhOMCIsImJzIjoiYzUyUE1XdkRRQXlGNlhwVFowLVB0bjhnRHJUWk1obFNUT2ZPd2hXLVMyMEpmSEpjOTlmbjdCQkRDNEVrbTVEZTk1NmVDeTdfOUdRSUVjYVZsMUJSMDR3d3o3QTBjVFMwMm90UkVLaWdvTTc4Tmw5bnEtRUdpaWZLUmZjMlJ5MlhfX1JFZHNtRUJCLVRCc1dCdS1TMXpUZlo2M0F0T212QUo5U1Y3dms5b2d4TmFFbjIxT2tmN1JMd2tqMGx5LThMc3JOWmFyRFRBWTFLalNydFItMFJqVWFrajZidVgwem04YXZDR0lKNTdRMzZNOVlzY3dOX0ZfcjRjQVEiLCJpZCI6ImZjX3NZbTVhcDZmQzhfbDVOb1BfNTJGd0FnXzIifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pYWlBYMHhrZGpWcFExRnhaV3ROTFhoamRHOHRNbTV4VlhOdlEwRTNPVFYzV1VKalUySlNXVVY2VVhvM09YaEtMVWRVYTBjNVJrNDVUekJ4YVY4MVdXUlZYMWxYUnpGMFZFRXdkRVZVVGpkTVJHdFlUVTl1YldOVFVSSVhjMWx0TldGd05tWkRPRjlzTlU1dlVGODFNa1ozUVdjYUlrRkVjM0k1WmxRek5ETjVjV3RvTFZseFVuTklia3h2Wm1SMFdWRlJaVE5MTFdjIiwiZmN2IjoiMyIsImVpIjoic1ltNWFwNmZDOF9sNU5vUF81MkZ3QWciLCJxYyI6ImMtUFNMTTlJTEZISUxGWW95VWhWS0VuTXlVa3RMbEhJelNfTkswbk16Rk1BSXBCNGVYNVJUb29BUTYyWEthTTlBQSIsInF1ZXN0aW9uIjoiSG93IGxvbmcgY2FuIHlvdSBzdGF5IGluIHRoZSBkZWF0aCB6b25lIHdpdGhvdXQgb3h5Z2VuPyIsImxrIjoiY3dYQndRM0FJQXdEd0QzNjhoVGRKMm9qZ29Uc1I0TWduWjY3Nnc0dERMSGhNYUkwOGFVVk9wSGhlTjB5OEl1TzFUTTBFOXJWbkFjIiwiYnMiOiJjNTJQTVd2RFFBeUY2WHBUWjAtUHRuOGdEclRaTWhsU1RPZk93aFctUzIwSmZISmM5OWZuN0JCREM0RWttNURlOTU2ZUN5N185R1FJRWNhVmwxQlIwNHd3ejdBMGNUUzAyb3RSRUtpZ29NNzhObDlucS1FR2lpZktSZmMyUnkyWF9fUkVkc21FQkItVEJzV0J1LVMxelRmWjYzQXRPbXZBSjlTVjd2azlvZ3hOYUVuMjFPa2Y3Ukx3a2owbHktOExzck5aYXJEVEFZMUtqU3J0Ui0wUmpVYWtqNmJ1WDB6bThhdkNHSUo1N1EzNk05WXNjd05fRl9yNGNBUSIsImlkIjoiZmNfc1ltNWFwNmZDOF9sNU5vUF81MkZ3QWdfMiJ9",
+    "page_token": "uZy09XicHdBNjpswGIBh9TKznBgIUzVSVE0KDs3UjHD8A95UHjsJwR_BTVD42fUKPUNPNafpqLt3-7y__8L54t4__an73t9Wi8UwDI-nrjvB4dF07ULfpotZGA3wpo1bPX1-Cr4ezTq9m823q9kU3HuRULRvaVIBRwT7skAQM-xv-7CPWWTbN1zftTgNzKmkcjutZb3liY1Jg68q2VCO4plhNVLIqcYCWbDzgeMlc7ullQBF6HvLcEGCHdUubkhGa5blkRHqhTARaTmeSYlVnonMpsGgo9yzxsZVk6P9VkwEKX1oqVNOHTn2qeJosonqeURfyRT84pBL6nBosZ9MaWLZQGgbPtrteD989IevMiX8kAKfRUl3aW1nKVFQlc-hcmRZhkPA2i9FOfOJXuxGjd254HQ2DbT8QvE-7WcN3wOSQcBCwAJy_5rWjXT9Sx7ArIaHo7mvo4f_r9c_j22_8tfu9A-3544k",
+    "question": "How long can you stay in the death zone without oxygen?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uZy09XicHdBNjpswGIBh9TKznBgIUzVSVE0KDs3UjHD8A95UHjsJwR_BTVD42fUKPUNPNafpqLt3-7y__8L54t4__an73t9Wi8UwDI-nrjvB4dF07ULfpotZGA3wpo1bPX1-Cr4ezTq9m823q9kU3HuRULRvaVIBRwT7skAQM-xv-7CPWWTbN1zftTgNzKmkcjutZb3liY1Jg68q2VCO4plhNVLIqcYCWbDzgeMlc7ullQBF6HvLcEGCHdUubkhGa5blkRHqhTARaTmeSYlVnonMpsGgo9yzxsZVk6P9VkwEKX1oqVNOHTn2qeJosonqeURfyRT84pBL6nBosZ9MaWLZQGgbPtrteD989IevMiX8kAKfRUl3aW1nKVFQlc-hcmRZhkPA2i9FOfOJXuxGjd254HQ2DbT8QvE-7WcN3wOSQcBCwAJy_5rWjXT9Sx7ArIaHo7mvo4f_r9c_j22_8tfu9A-3544k",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pYWlBYMHhrZGpWcFExRnhaV3ROTFhoamRHOHRNbTV4VlhOdlEwRTNPVFYzV1VKalUySlNXVVY2VVhvM09YaEtMVWRVYTBjNVJrNDVUekJ4YVY4MVdXUlZYMWxYUnpGMFZFRXdkRVZVVGpkTVJHdFlUVTl1YldOVFVSSVhjMWx0TldGd05tWkRPRjlzTlU1dlVGODFNa1ozUVdjYUlrRkVjM0k1WmxRek5ETjVjV3RvTFZseFVuTklia3h2Wm1SMFdWRlJaVE5MTFdjIiwiZmN2IjoiMyIsImVpIjoic1ltNWFwNmZDOF9sNU5vUF81MkZ3QWciLCJxYyI6ImMtUFNMTTlJTEZISUxGWW95VWhWS0VuTXlVa3RMbEhJelNfTkswbk16Rk1BSXBCNGVYNVJUb29BUTYyWEthTTlBQSIsInF1ZXN0aW9uIjoiSG93IGxvbmcgY2FuIHlvdSBzdGF5IGluIHRoZSBkZWF0aCB6b25lIHdpdGhvdXQgb3h5Z2VuPyIsImxrIjoiY3dYQndRM0FJQXdEd0QzNjhoVGRKMm9qZ29Uc1I0TWduWjY3Nnc0dERMSGhNYUkwOGFVVk9wSGhlTjB5OEl1TzFUTTBFOXJWbkFjIiwiYnMiOiJjNTJQTVd2RFFBeUY2WHBUWjAtUHRuOGdEclRaTWhsU1RPZk93aFctUzIwSmZISmM5OWZuN0JCREM0RWttNURlOTU2ZUN5N185R1FJRWNhVmwxQlIwNHd3ejdBMGNUUzAyb3RSRUtpZ29NNzhObDlucS1FR2lpZktSZmMyUnkyWF9fUkVkc21FQkItVEJzV0J1LVMxelRmWjYzQXRPbXZBSjlTVjd2azlvZ3hOYUVuMjFPa2Y3Ukx3a2owbHktOExzck5aYXJEVEFZMUtqU3J0Ui0wUmpVYWtqNmJ1WDB6bThhdkNHSUo1N1EzNk05WXNjd05fRl9yNGNBUSIsImlkIjoiZmNfc1ltNWFwNmZDOF9sNU5vUF81MkZ3QWdfMiJ9",
+    "type": "ai_overview"
+   }
+  ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "What is the tallest mountain in the world?",
-   "time_taken_displayed": 0.23,
-   "total_results": 37
+   "time_taken_displayed": 0.29,
+   "total_results": 140000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:33:09 UTC",
+   "created_at": "2026-09-27 21:25:05 UTC",
    "google_url": "https://www.google.com/search?q=What+is+the+tallest+mountain+in+the+world%3F&oq=What+is+the+tallest+mountain+in+the+world%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc475bca7e51e4b1c4b61",
-   "json_endpoint": "https://serpapi.com/searches/NBOfk0UHp1c2BAeNuvGn9VrGFHe5UnnhOYtUv8tqVS8/6aafc475bca7e51e4b1c4b61.json",
-   "markdown_endpoint": "https://serpapi.com/searches/NBOfk0UHp1c2BAeNuvGn9VrGFHe5UnnhOYtUv8tqVS8/6aafc475bca7e51e4b1c4b61.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/NBOfk0UHp1c2BAeNuvGn9VrGFHe5UnnhOYtUv8tqVS8/6aafc475bca7e51e4b1c4b61.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:33:09 UTC",
-   "raw_html_file": "https://serpapi.com/searches/NBOfk0UHp1c2BAeNuvGn9VrGFHe5UnnhOYtUv8tqVS8/6aafc475bca7e51e4b1c4b61.html",
+   "id": "6ab989b150d43e60e4bcba59",
+   "json_endpoint": "https://serpapi.com/searches/GrtVLTB1f3cAK-U3FgPoNZuiyJpBl_cHZzSFqbehjQk/6ab989b150d43e60e4bcba59.json",
+   "markdown_endpoint": "https://serpapi.com/searches/GrtVLTB1f3cAK-U3FgPoNZuiyJpBl_cHZzSFqbehjQk/6ab989b150d43e60e4bcba59.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/GrtVLTB1f3cAK-U3FgPoNZuiyJpBl_cHZzSFqbehjQk/6ab989b150d43e60e4bcba59.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:25:05 UTC",
+   "raw_html_file": "https://serpapi.com/searches/GrtVLTB1f3cAK-U3FgPoNZuiyJpBl_cHZzSFqbehjQk/6ab989b150d43e60e4bcba59.html",
    "status": "Success",
-   "total_time_taken": 0.42
+   "total_time_taken": 0.5
   },
   "search_parameters": {
    "device": "desktop",
@@ -370,8 +686,7 @@
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+tallest+mountain+in+the+world%3F&start=10",
    "other_pages": {
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+tallest+mountain+in+the+world%3F&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+tallest+mountain+in+the+world%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+tallest+mountain+in+the+world%3F&start=30"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+tallest+mountain+in+the+world%3F&start=20"
    }
   }
  },

@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1337.85,
+ "elapsed_ms": 1095.158,
  "engine": "google",
- "fetched_at": "2026-09-20T11:32:58.414798+00:00",
+ "fetched_at": "2026-09-27T21:24:36.486701+00:00",
  "frugal_cache_version": 1,
  "key": "648db1b3766e830582cc32d3eb11f5c0492cf8bfd8c240f55a2a0fb6ac6d2f14",
  "params": {
@@ -10,430 +10,323 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "_lAI1HiczVbbkqJIEP2A_Y7xxR4RtVU6gpioQkTaS4u22vQLgVwKVCi1UNS3-Zf9qv2aLRAVbO3emYeJzQgtqkiyTmXm4fDz74Xrz__5a-sEwZI8MUwYhgWEMVpYBQN7jE72vsHYeEHWhvNjv-XLOYPwxZzl8rox3Oqb2kEOqs68L_drPVvBCsnFj_DaVCfWjEbczQijMfRv_q3coJMCKVh-YWOT9wbHmq-deqFUZLnCC6N71AH8ORMVBKPxGQj3negt8etQUQAZQDEVSQYoHuHFSz3eFpT4loDuRoPHPQexu0J_De3QCht09ZQfFC_fhgIz0zDGAkAYo4TA_fo0KVOSs5zO9Ummzt5ZS7KHLyvpGmewZgyFmWmTotCAIFw2SW9GwzgZGOdMGQjUWxg2IBjdx03z05bB4xwo4r20nmOL48q5ch1VoiuMiWjjFpnpmg4s4xqOEV-sSdTPwitXxK3uYizbu7KnOIArhfNdbTNcjfZWB1ZCxphSvwXWTcvUHK34I56zJfaxyJVr9YeYSAY5M4mkmdQHm-mw41TcAyh0CpA90Ug4Fh18qJhI54J842BQSFwzD8SeErysRgVLSqo003GTUkIgYCAOQLa07X6UV-k0pT16oKVJe1x2jZr_I42OhlLOlEYxEBlfkIK0twCkFHVThZXBrdfMdWsrrctl44NjhrwCPe8cnBKjXkdWgSIgMeKAILZgkjUjHQPFnZ0YPAEWAX1DJTPxDFBMnFKYohTICugCWaQx3ZFMOxRFvXoEGjVDsldTvGJcquHTXaHSbSbCf3n13TD4FYkiU058uWr_NG2a0Fy-1a1mYO-RahAEBmNZE9asyiHlNk2wN_0FxTH-V0Q66pGY6NF9IolfEynWI_iJHsXXFz2KmlfAd4kEpdt61L2pR9lECWCQJtLnevTLRBI-JdIR000i4dtEWt4lEgqviZTVowyRLnp0JtLv6BH8TT2KeWUdh6w4bWborkhJ7Pfh-3z2XhsepJHZrbe5fqcSGAdQ09CXImV7wZOnm4sHzTWfYOk52JsPGl3AT5aZW_ETRw_yLskHjpVf6IFFgrw8HLzkPZcQF_t0bePT78uct1hjvqhXRfzooOZ47bvdwVaCoeVYYW-6seuqUiL-yiwvVw58A749qQfsZsI9D_olvS5qtjWQdpKyAO25OnWDykun18B9Y-fvis6hrM8UZzF88WeDlk8MBTuiNX_r9Put5n6y8euebb-twGHHeesiux9vYzSEL_feayr7_bUd4Jy3Nnha8woCPQVMEG0-IW5KMNIxHUOgSFVaE5gjhq5ZZMtXK1WaJJOzp2apWqlZOQ8F-yVfYXPEX_Psv9ofPX8",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_lAI1HiczVbbkqJIEP2A_Y7xxR4RtVU6gpioQkTaS4u22vQLgVwKVCi1UNS3-Zf9qv2aLRAVbO3emYeJzQgtqkiyTmXm4fDz74Xrz__5a-sEwZI8MUwYhgWEMVpYBQN7jE72vsHYeEHWhvNjv-XLOYPwxZzl8rox3Oqb2kEOqs68L_drPVvBCsnFj_DaVCfWjEbczQijMfRv_q3coJMCKVh-YWOT9wbHmq-deqFUZLnCC6N71AH8ORMVBKPxGQj3negt8etQUQAZQDEVSQYoHuHFSz3eFpT4loDuRoPHPQexu0J_De3QCht09ZQfFC_fhgIz0zDGAkAYo4TA_fo0KVOSs5zO9Ummzt5ZS7KHLyvpGmewZgyFmWmTotCAIFw2SW9GwzgZGOdMGQjUWxg2IBjdx03z05bB4xwo4r20nmOL48q5ch1VoiuMiWjjFpnpmg4s4xqOEV-sSdTPwitXxK3uYizbu7KnOIArhfNdbTNcjfZWB1ZCxphSvwXWTcvUHK34I56zJfaxyJVr9YeYSAY5M4mkmdQHm-mw41TcAyh0CpA90Ug4Fh18qJhI54J842BQSFwzD8SeErysRgVLSqo003GTUkIgYCAOQLa07X6UV-k0pT16oKVJe1x2jZr_I42OhlLOlEYxEBlfkIK0twCkFHVThZXBrdfMdWsrrctl44NjhrwCPe8cnBKjXkdWgSIgMeKAILZgkjUjHQPFnZ0YPAEWAX1DJTPxDFBMnFKYohTICugCWaQx3ZFMOxRFvXoEGjVDsldTvGJcquHTXaHSbSbCf3n13TD4FYkiU058uWr_NG2a0Fy-1a1mYO-RahAEBmNZE9asyiHlNk2wN_0FxTH-V0Q66pGY6NF9IolfEynWI_iJHsXXFz2KmlfAd4kEpdt61L2pR9lECWCQJtLnevTLRBI-JdIR000i4dtEWt4lEgqviZTVowyRLnp0JtLv6BH8TT2KeWUdh6w4bWborkhJ7Pfh-3z2XhsepJHZrbe5fqcSGAdQ09CXImV7wZOnm4sHzTWfYOk52JsPGl3AT5aZW_ETRw_yLskHjpVf6IFFgrw8HLzkPZcQF_t0bePT78uct1hjvqhXRfzooOZ47bvdwVaCoeVYYW-6seuqUiL-yiwvVw58A749qQfsZsI9D_olvS5qtjWQdpKyAO25OnWDykun18B9Y-fvis6hrM8UZzF88WeDlk8MBTuiNX_r9Put5n6y8euebb-twGHHeesiux9vYzSEL_feayr7_bUd4Jy3Nnha8woCPQVMEG0-IW5KMNIxHUOgSFVaE5gjhq5ZZMtXK1WaJJOzp2apWqlZOQ8F-yVfYXPEX_Psv9ofPX8"
+   "page_token": "30k2hniczVbdcqJIFH6AfY7xxihgiNFUUVPdLTEtMf5kTAZvLGywQUCURom5m8t9j32qfZpt8A-NmJm5mNpjFQ3N6a-_Pud8HH_84zkz99-__rajaM7uBCGO4zINAupZZRL4gsHWMyJMAo-FxP66XinXBcIUsWA5iiv7N8YSfX8MtXm4VLuBtu75ICikS5TR2GDWlCO-TZkwEvjF_XLd4A9lVjbCcvTer3fgfE1LpFwRpXq5Ixg-dwB_0HoqwADycTPkGQJA_RwscekBlGDtjKLDq401NnjJnjSd0HK3xMkqyH-Yw3Lr1vRaLPKpYOfUyuUCcfZB37KJU1wIU6I_bXuo7b4XApUXJvUIgDM5csyP7Ukx8Fj1S0BVE4CPVDBQs6cGfQA2B2-44IHWACYY0QvckwVkDVsI7PHzbAHs7i6E8ZPO3QWT8toVhXHIB0lwiE3Sm5AlJY2-1cWgucIvDz30snSRbJHH4RR79G3RegvRWyyQMffzAsO0zJE9Er-mz1JFuhHr17e1q1RLhO3FxLJi8gZg9eDI86d2XO6XobRTEtrnDh3TTwKOMPhocOeKzryk6FA0mcUOykZrsB15dafZwHEGQMXdZGzuJjoA8gyTbBZ3tZBAnlPSkdNWSWlW8WbEh-V7lwE-AB3VPYzBRztOPQYNuFuE4eZdvMX9IAUIWm529hQK93ubnMxBDAepWycTSwp0hN0M2paxyqMJ4enRN3dOVj0O39BO-NFnzq_VczXOkt4n_FFKICnx1DR8kuE-yDHKD93_ia_fGQs-d0mUs5XMiQKyyrmvkqA09qWnxltbtlznZqCSLhVdVg_BeaUE_vgX-g75f2lp15UG266UryX1cy0lH8tLXSm9HLrS80ZLWr6WEirnupK8c8p0pRMBwMeMluz04xzndaVf1RK8oCX1opaC81pyc7XUAKdaOu5KR1rKdqWtln6nK81_syul0rI2w3GLWk5pbqu6l8nQ176Z8gppi666Du-ZucAruRL59NNWNfGjO98wvauRY97BSitam1cjPhHcWWZhobzaRlR0WDGyraJnRBaLivi53yn6DmNOMONzyxn_o1nwvTBQRKM6sN0mGS9tXTJscUjI9Vi3SsN17dH0546mGWqbtluirjY7k5ILqmHb90rvjRabIfd7aNZvp-16aTC9tmRx1FDpctYxh_py9TptE3H2NJRfomeXzW5ebiyJkYgaC7eKJYKXtQnWJm4Um7Fec-Cg137XKsOJB1JeTJHY63s4FptLgAt-SBSeHpmCpx54pYAApIMez-rACPgYg16zykUNC4wYI4utFCJVK7Xq-FY2atWKZE4KPo3Wc0WWCmwWKtJ_-mVG_A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=30k2hniczVbdcqJIFH6AfY7xxihgiNFUUVPdLTEtMf5kTAZvLGywQUCURom5m8t9j32qfZpt8A-NmJm5mNpjFQ3N6a-_Pud8HH_84zkz99-__rajaM7uBCGO4zINAupZZRL4gsHWMyJMAo-FxP66XinXBcIUsWA5iiv7N8YSfX8MtXm4VLuBtu75ICikS5TR2GDWlCO-TZkwEvjF_XLd4A9lVjbCcvTer3fgfE1LpFwRpXq5Ixg-dwB_0HoqwADycTPkGQJA_RwscekBlGDtjKLDq401NnjJnjSd0HK3xMkqyH-Yw3Lr1vRaLPKpYOfUyuUCcfZB37KJU1wIU6I_bXuo7b4XApUXJvUIgDM5csyP7Ukx8Fj1S0BVE4CPVDBQs6cGfQA2B2-44IHWACYY0QvckwVkDVsI7PHzbAHs7i6E8ZPO3QWT8toVhXHIB0lwiE3Sm5AlJY2-1cWgucIvDz30snSRbJHH4RR79G3RegvRWyyQMffzAsO0zJE9Er-mz1JFuhHr17e1q1RLhO3FxLJi8gZg9eDI86d2XO6XobRTEtrnDh3TTwKOMPhocOeKzryk6FA0mcUOykZrsB15dafZwHEGQMXdZGzuJjoA8gyTbBZ3tZBAnlPSkdNWSWlW8WbEh-V7lwE-AB3VPYzBRztOPQYNuFuE4eZdvMX9IAUIWm529hQK93ubnMxBDAepWycTSwp0hN0M2paxyqMJ4enRN3dOVj0O39BO-NFnzq_VczXOkt4n_FFKICnx1DR8kuE-yDHKD93_ia_fGQs-d0mUs5XMiQKyyrmvkqA09qWnxltbtlznZqCSLhVdVg_BeaUE_vgX-g75f2lp15UG266UryX1cy0lH8tLXSm9HLrS80ZLWr6WEirnupK8c8p0pRMBwMeMluz04xzndaVf1RK8oCX1opaC81pyc7XUAKdaOu5KR1rKdqWtln6nK81_syul0rI2w3GLWk5pbqu6l8nQ176Z8gppi666Du-ZucAruRL59NNWNfGjO98wvauRY97BSitam1cjPhHcWWZhobzaRlR0WDGyraJnRBaLivi53yn6DmNOMONzyxn_o1nwvTBQRKM6sN0mGS9tXTJscUjI9Vi3SsN17dH0546mGWqbtluirjY7k5ILqmHb90rvjRabIfd7aNZvp-16aTC9tmRx1FDpctYxh_py9TptE3H2NJRfomeXzW5ebiyJkYgaC7eKJYKXtQnWJm4Um7Fec-Cg137XKsOJB1JeTJHY63s4FptLgAt-SBSeHpmCpx54pYAApIMez-rACPgYg16zykUNC4wYI4utFCJVK7Xq-FY2atWKZE4KPo3Wc0WWCmwWKtJ_-mVG_A"
   },
-  "inline_videos": [
+  "inline_images": [
    {
-    "channel": "CNN-News18",
-    "date": "2 weeks ago",
-    "duration": "6:38",
-    "link": "https://www.youtube.com/watch?v=XjPgZhldfOU",
-    "platform": "YouTube",
-    "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRv_7A4MXZsn8BlAoxizcG4CvDObe5NaRgUjA",
-    "snippet": "India's GSLV-F17 successfully launched EOS-05, an Earth observation satellite, into geocynchronous orbit for continuous monitoring.",
-    "thumbnail": "https://serpapi.com/searches/6aafc469f3fc7be80c28df94/images/zL3Zr2wFGSjbWXv7Q8xyuuKwYSx06yBAAqeTCP1Y0u0.jpeg",
-    "title": "BREAKING: GSLV-F17 Mission Success: ISRO Launches ..."
+    "original": "https://i.ytimg.com/vi/_x1uKRE99So/maxresdefault.jpg",
+    "source": "https://www.youtube.com/watch?v=_x1uKRE99So",
+    "source_name": "YouTube",
+    "thumbnail": "https://serpapi.com/searches/6ab9899355ba655b2f38c75c/images/8JeECsxUrxqhDjwqSDJQrBXr8K3bDuHIZdlQruCZMNw.jpeg",
+    "title": "ISRO LIVE: ISRO Proba-3 mission launch LIVE | Proba-3 Launch Live | ISRO  Live | Sriharikota | N18L"
    },
    {
-    "channel": "DD News",
-    "date": "2 weeks ago",
-    "duration": "1:14:40",
-    "link": "https://www.youtube.com/watch?v=hIaOhQfnBgM",
-    "platform": "YouTube",
-    "position": 2,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSbHvPl26bVtY00ahoNJYKZvM-O-rd2WsGwwA",
-    "thumbnail": "https://serpapi.com/searches/6aafc469f3fc7be80c28df94/images/MwqKnxS_X3qRRxrZc8zL7Ndi8lvs8UFZOTUlY_j3ds0.jpeg",
-    "title": "LIVE: ISRO launches GSLV-F17/EOS-05 Mission from Satish ..."
+    "original": "https://i.ytimg.com/vi/vSSQsUq86Tc/maxresdefault.jpg",
+    "source": "https://www.youtube.com/watch?v=vSSQsUq86Tc",
+    "source_name": "YouTube",
+    "thumbnail": "https://serpapi.com/searches/6ab9899355ba655b2f38c75c/images/nn3ev7HAgF5BqKZSYJDZqiHK7JBY8HAfMNVK3lYoxeM.jpeg",
+    "title": "PSLV-C60 Launch | ISRO Successfully Launches SpaDeX Mission For \"In-Space  Docking\""
    },
    {
-    "channel": "India Today",
-    "date": "2 weeks ago",
-    "duration": "2:17",
-    "link": "https://www.youtube.com/watch?v=pIDsKYoJmi0",
-    "platform": "YouTube",
-    "position": 3,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT_Pkz1I4DUluq51tpxzDcv_Lilyl8V9v7Pog",
-    "snippet": "ISRO's GSLV F17 rocket launched EOS-05 (GSAT 1A) into a geostationary orbit 36,000 km above Earth, providing continuous observation.",
-    "thumbnail": "https://serpapi.com/searches/6aafc469f3fc7be80c28df94/images/OKKE7bLxLOmnu4jHcXkyrK_J2JC0PnDNOHXalgICas4.jpeg",
-    "title": "ISRO Returns To Launch Pad: GSLV-F17 Carries EOS-05 Into ..."
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1521076876733161",
+    "source": "https://www.facebook.com/TimesofIndia/posts/the-magic-behind-the-mission-isro-is-gearing-up-for-the-september-4-launch-of-th/1521077053399810/",
+    "source_name": "Facebook",
+    "thumbnail": "https://serpapi.com/searches/6ab9899355ba655b2f38c75c/images/rNWCYG-mcqWCrsaZi76zMhlyH1hb9D92GMWKFX_VBYE.jpeg",
+    "title": "The magic behind the mission! 🚀 ISRO is gearing up for the ..."
    },
    {
-    "channel": "CNN-News18",
-    "date": "2 weeks ago",
-    "duration": "3:23",
-    "link": "https://www.youtube.com/watch?v=qoaWW9QvZZM",
-    "platform": "YouTube",
-    "position": 4,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQXebJzV9R0aV-H1zpnWJkE0roX2Uug_QYKug",
-    "thumbnail": "https://serpapi.com/searches/6aafc469f3fc7be80c28df94/images/0PlhxA6OBWg_ttmB3MsTpZ-yi-tPm8lofBNgGm6_Ig8.jpeg",
-    "title": "ISRO Launches EOS-05: GSLV-F17 Takes India's Earth ..."
+    "original": "https://i.ytimg.com/vi/7MMcsX7qP9o/maxresdefault.jpg",
+    "source": "https://www.youtube.com/watch?v=7MMcsX7qP9o",
+    "source_name": "YouTube",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNlAATaw5PW2kyWpsRCO2n9dHKZZyR4gGMfvjiOosN&s",
+    "title": "ISRO Spadex Launch: Mission A Game Changer? Can India Join Elite Club Of  Space Docking Masters?"
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1521076976733151",
+    "source": "https://www.facebook.com/TimesofIndia/posts/the-magic-behind-the-mission-isro-is-gearing-up-for-the-september-4-launch-of-th/1521077053399810/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUqArzspPkZQz-8LMXV3YyuQoOx03K8-jyrO75sMhNgJ4MhKBjc29LqDE&s",
+    "title": "The magic behind the mission! 🚀 ISRO is gearing up for the ..."
+   },
+   {
+    "original": "https://www.satellitetoday.com/wp-content/uploads/2024/01/ISRO-launch.jpeg",
+    "source": "https://www.satellitetoday.com/launch/2024/01/02/isro-launches-astronomy-satellite-in-new-year-mission/",
+    "source_name": "Via Satellite",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQEqFhDj5pww2djJMh6z8iySU-o0sl6c6TiL5_z76lZX_2GiwSm-jLoaY&s",
+    "title": "ISRO Launches Astronomy Satellite in New Year Mission - Via ..."
+   },
+   {
+    "original": "https://i.ytimg.com/vi/XUDKX8u41rI/maxresdefault.jpg",
+    "source": "https://www.youtube.com/watch?v=XUDKX8u41rI",
+    "source_name": "YouTube",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgqaaZkDAxCuUj78YCXGLiWftQmbf28oYImY-OgsWE&s",
+    "title": "ISRO To Launch Its Key SpaDEX Mission on December 30 | World News | WION"
+   },
+   {
+    "original": "https://images.firstpost.com/uploads/2025/01/isro2-2025-01-68890fd69576b01a07c99167d62ecd7d-1200x675.jpg",
+    "source": "https://www.firstpost.com/world/as-isro-goes-on-100th-mission-taking-india-closer-to-its-own-gps-navic-a-timeline-of-its-journey-13857369.html",
+    "source_name": "Firstpost",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5ZOIiyE0JvU0nYJlZXNDxL6L-J7TrTdWSeMwUEsJqzyMX_GsOLDw4hE&s",
+    "title": "As Isro launches 100th satellite taking India closer to its ..."
+   },
+   {
+    "original": "https://i0.wp.com/spacenews.com/wp-content/uploads/2018/01/PSLV-C40.png?fit=780%2C510&ssl=1",
+    "source": "https://spacenews.com/isro-launches-pslv-return-to-flight-mission-with-31-satellites/",
+    "source_name": "SpaceNews",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ncZuMYFhB8Hzew6IEqYUxVBDO3IvDFXmYh277o3AGHQSLMg1Ey1AGkMaww&s",
+    "title": "ISRO launches PSLV return to flight mission with 31 ..."
    }
   ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjl2TmQ5LUNyX09qZWx1TURSWFFzd1RWSGw0Q1VDSlQ2b29tQnVBRko5TFdmOHRidERFY2RyOHlVa1p2aTFYYk5ZVjBEaUhmUkRrQnhHQmppVEJfWXM3V1U3dDhNTEV4ZmFHamRWOFhBeXFvTmJBU3FBQ0YxZVBzWF85S05tUkVaX2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjl2TmQ5LUNyX09qZWx1TURSWFFzd1RWSGw0Q1VDSlQ2b29tQnVBRko5TFdmOHRidERFY2RyOHlVa1p2aTFYYk5ZVjBEaUhmUkRrQnhHQmppVEJfWXM3V1U3dDhNTEV4ZmFHamRWOFhBeXFvTmJBU3FBQ0YxZVBzWF85S05tUkVaX2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
      "source": {
-      "description": "Directory of past and upcoming launch missions executed by ISRO. Mission Sept 04, 2026 GSLV EOS-05. Mission Jan 12, 2026. Blue Bird Block2 Mission Dec 24, 2025 ...",
-      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABsAPtE-tFooIigoFAEAGglsALOvShQI1BoALsAOwGsC36zjaJRFFfyUv6wFgHoOlRlnxw7yAAD-9geydtfTbHTO0WDqoPtn3qq9veGUDmZmKDJjAJNWGuBjCEVZrXuXgg1SVrGtQlaS2ABHwDtJzPBdZAcDFlon08-jJsi9l-fJi3SV0j8EuLZPmJMvA5jZ6nI6llgVOkz0QWv-rVJQJmL3pk_DzIQXWFPt78laPR5cz4H4drTNTfi3lr8B8L8I5-N98s7EcLeICt_6-hcjulqMzbAMlBQ6X6PwVHXx_QkyPgPXhvILtaNxWPIJhvaR7RWN20ydGvkHOjVc7PVQ0mHiSAAA.webp",
-      "source_info_link": "https://www.isro.gov.in/LaunchMissions.html"
+      "description": "ISRO-NASA Join Hands For NISAR, Launch Date Finally Out | Key Details Of Satellite Mission Revealed The NISAR satellite, a joint project ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "displayed_link": "https://www.isro.gov.in › LaunchMissions",
-    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABsAPtE-tFooIigoFAEAGglsALOvShQI1BoALsAOwGsC36zjaJRFFfyUv6wFgHoOlRlnxw7yAAD-9geydtfTbHTO0WDqoPtn3qq9veGUDmZmKDJjAJNWGuBjCEVZrXuXgg1SVrGtQlaS2ABHwDtJzPBdZAcDFlon08-jJsi9l-fJi3SV0j8EuLZPmJMvA5jZ6nI6llgVOkz0QWv-rVJQJmL3pk_DzIQXWFPt78laPR5cz4H4drTNTfi3lr8B8L8I5-N98s7EcLeICt_6-hcjulqMzbAMlBQ6X6PwVHXx_QkyPgPXhvILtaNxWPIJhvaR7RWN20ydGvkHOjVc7PVQ0mHiSAAA.webp",
-    "link": "https://www.isro.gov.in/LaunchMissions.html",
+    "displayed_link": "أكثر من 2 ألف مشاهدة · قبل سنة واحدة",
+    "duration": "3:09",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=Z9sqejpKjP4",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVlHuzbgORszRklEyvuRrHQH4SW0Ojba7caIp96AwQObjVYKzIFYukDTdqXIlunoIPzdcCc_L9KJABaWP7PbReoc0QIM7lG4TCzgy-x3jofN1q5ribs663kbFNMkybOg&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQFnoECCcQAQ&uoh=1",
-    "snippet": "Directory of past and upcoming launch missions executed by ISRO. Mission Sept 04, 2026 GSLV EOS-05. Mission Jan 12, 2026. Blue Bird Block2 Mission Dec 24, 2025 ...",
-    "snippet_highlighted_words": [
-     "Mission Sept 04, 2026"
-    ],
-    "source": "ISRO",
-    "title": "Launch Missions"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "ISRO has carried out 133 spacecraft missions, 104 launch missions [1] Venus Orbiter Mission 29 March 2028. Lunar Polar Exploration Mission 2028–29",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/List_of_ISRO_missions"
-     }
-    },
-    "displayed_link": "https://en.wikipedia.org › wiki › List_of_ISRO_missions",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/List_of_ISRO_missions",
-    "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVKcBdtVjK6r7R_w19O0DzKPYtJBuXYziEvXK2Fi72xSGmz9HqzGXNFTUxzKk77QcaTmvuIJEVwtAGig3zw_lXsv3Z1dv1EGb63iX4_F0jl3axFKHpXkPCrbjlRmAuzMLtUkHKulR5&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQFnoECCYQAQ&uoh=1",
-    "sitelinks": {
-     "inline": [
-      {
-       "link": "https://en.wikipedia.org/wiki/List_of_ISRO_missions#Completed_missions",
-       "title": "Completed missions"
-      },
-      {
-       "link": "https://en.wikipedia.org/wiki/List_of_ISRO_missions#Human_Spaceflight",
-       "title": "Human Spaceflight"
-      },
-      {
-       "link": "https://en.wikipedia.org/wiki/List_of_ISRO_missions#Astronomy",
-       "title": "Astronomy"
-      },
-      {
-       "link": "https://en.wikipedia.org/wiki/List_of_ISRO_missions#Planned_missions",
-       "title": "Planned missions"
-      }
-     ]
-    },
-    "snippet": "ISRO has carried out 133 spacecraft missions, 104 launch missions [1] Venus Orbiter Mission 29 March 2028. Lunar Polar Exploration Mission 2028–29",
-    "snippet_highlighted_words": [
-     "Venus Orbiter Mission 29 March 2028"
-    ],
-    "source": "Wikipedia",
-    "title": "List of ISRO missions"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The PSLV-C62 mission is proposed to lift-off on January 12, 2026 at 10:17 hrs, from the First Launch Pad at Satish Dhawan Space Centre, Sriharikota. PSLV is the ...",
-      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABsAPtE-tFooIigoFAEAGglsALOvShQI1BoALsAOwGsC36zjaJRFFfyUv6wFgHoOlRlnxw7yAAD-9geydtfTbHTO0WDqoPtn3qq9veGUDmZmKDJjAJNWGuBjCEVZrXuXgg1SVrGtQlaS2ABHwDtJzPBdZAcDFlon08-jJsi9l-fJi3SV0j8EuLZPmJMvA5jZ6nI6llgVOkz0QWv-rVJQJmL3pk_DzIQXWFPt78laPR5cz4H4drTNTfi3lr8B8L8I5-N98s7EcLeICt_6-hcjulqMzbAMlBQ6X6PwVHXx_QkyPgPXhvILtaNxWPIJhvaR7RWN20ydGvkHOjVc7PVQ0mHiSAAA.webp",
-      "source_info_link": "https://www.isro.gov.in/Mission_PSLV_C62.html"
-     }
-    },
-    "displayed_link": "https://www.isro.gov.in › Mission_PSLV_C62",
-    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABsAPtE-tFooIigoFAEAGglsALOvShQI1BoALsAOwGsC36zjaJRFFfyUv6wFgHoOlRlnxw7yAAD-9geydtfTbHTO0WDqoPtn3qq9veGUDmZmKDJjAJNWGuBjCEVZrXuXgg1SVrGtQlaS2ABHwDtJzPBdZAcDFlon08-jJsi9l-fJi3SV0j8EuLZPmJMvA5jZ6nI6llgVOkz0QWv-rVJQJmL3pk_DzIQXWFPt78laPR5cz4H4drTNTfi3lr8B8L8I5-N98s7EcLeICt_6-hcjulqMzbAMlBQ6X6PwVHXx_QkyPgPXhvILtaNxWPIJhvaR7RWN20ydGvkHOjVc7PVQ0mHiSAAA.webp",
-    "link": "https://www.isro.gov.in/Mission_PSLV_C62.html",
-    "position": 3,
-    "read_more_link": "https://www.isro.gov.in/Mission_PSLV_C62.html#:~:text=The%20PSLV%2DC62%20mission%20is%20proposed,PSLV%20is%20the",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVC0Xzb0hb2Wc97kPFC_8NOL-mDoKV-onegawuBrAjYRlBvtnKTqy9vpVB-7f4_jaocCkHvM09kQaZ-kAh4GRBvltq-HvhbiatLVow9A7jsZAbcqT3yUmJfMdqe68SP9LU&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQFnoECEAQAQ&uoh=1",
-    "snippet": "The PSLV-C62 mission is proposed to lift-off on January 12, 2026 at 10:17 hrs, from the First Launch Pad at Satish Dhawan Space Centre, Sriharikota. PSLV is the ...",
-    "snippet_highlighted_words": [
-     "PSLV-C62 mission is proposed to lift-off on January 12, 2026"
-    ],
-    "source": "ISRO",
-    "title": "PSLV-C62 / EOS-N1 Mission"
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "The Indian Space Research Organisation (ISRO) is set for its first mission of 2026, launching the Polar Satellite Launch Vehicle (PSLV-C62) ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "22.6K+ views · 8 months ago",
-    "duration": "9:09:01",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=DTwCxha_y6E",
-    "position": 4,
-    "snippet": "The Indian Space Research Organisation (ISRO) is set for its first mission of 2026, launching the Polar Satellite Launch Vehicle (PSLV-C62) ...",
+    "snippet": "ISRO-NASA Join Hands For NISAR, Launch Date Finally Out | Key Details Of Satellite Mission Revealed The NISAR satellite, a joint project ...",
     "source": "YouTube · Times Now",
-    "thumbnail": "https://serpapi.com/searches/6aafc469f3fc7be80c28df94/images/DOm_sC1n4EtfIcc3gS8jrnk7oV8h_K-DzVquPfpHnSw.jpeg",
-    "title": "ISRO LAUNCH LIVE | India's PSLV-C62 Rocket with Military ...",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTlVktEJtoFsMb4vKQ1NU1dpa09db1HPydlVg"
+    "thumbnail": "https://serpapi.com/searches/6ab9899355ba655b2f38c75c/images/gyAQhk94nkidl7Uoj-5UVHiYG0tbd3rBxzkFSzn_4Q4.jpeg",
+    "title": "ISRO-NASA Join Hands For NISAR, Launch Date Finally Out",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTOtGuFlTdzSli_9y-1fLubsjDpgm-Zhd7bpw"
    },
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Recent Launches ; SEP 19. PIESAT-2 13-16 ; SEP 19. \"Owl By The Dozen\" ; SEP 17. Kosmos TBD (Glonass-K) ; SEP 17. SpaceTY-51 & 52 ; SEP 17. USSF-259.",
-      "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAADQBACdASocABwAPtEytFooIigoGAEAGglnAAPjkg3xmkhj3GPXFGxG-UpIKAwfEAD-9govIf4TQE5AqK_4TvtpI_cwWocMNKJkJ8zMK9LIPx4tzlt6b02JzvGTaXEpvg9OCSOeUGip5Ey8swNbhysuHDlkZ1w5UfUf9hz29b_Gn2wS63WSAnjd-wimUtTGSjD71K8h4RMk3aOD9XBFE5FyX63IT1UAt3oZAam3hA4E1ZeyQczj_3EuYR7u6-4e9nkmvW35CKEpgi8PuNJyR5v_Cc7SVsnk-huA2IoNfol_pjVjDoF9eKAA.webp",
-      "source_info_link": "https://www.rocketlaunch.live/?filter=isro"
-     }
-    },
-    "displayed_link": "https://www.rocketlaunch.live › filter=isro",
-    "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAADQBACdASocABwAPtEytFooIigoGAEAGglnAAPjkg3xmkhj3GPXFGxG-UpIKAwfEAD-9govIf4TQE5AqK_4TvtpI_cwWocMNKJkJ8zMK9LIPx4tzlt6b02JzvGTaXEpvg9OCSOeUGip5Ey8swNbhysuHDlkZ1w5UfUf9hz29b_Gn2wS63WSAnjd-wimUtTGSjD71K8h4RMk3aOD9XBFE5FyX63IT1UAt3oZAam3hA4E1ZeyQczj_3EuYR7u6-4e9nkmvW35CKEpgi8PuNJyR5v_Cc7SVsnk-huA2IoNfol_pjVjDoF9eKAA.webp",
-    "link": "https://www.rocketlaunch.live/?filter=isro",
-    "position": 5,
-    "read_more_link": "https://www.rocketlaunch.live/?filter=isro#:~:text=Recent%20Launches&text=SEP%2003&text=SEP%2003&text=SEP%2003&text=SEP%2003&text=SEP%2003",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVRp_KcNDJFopOOjn2GTE1XQpkyzZW11V_CA5fENeJrGTAxUXaZvFQRZ8d-C_s2En-gEoVM1N6hw7O2fJ0MYq-jExzf08oHwi31GHYhm-8rwNq1U1Yb--FJ15O17cq&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQFnoECEIQAQ&uoh=1",
-    "snippet": "Recent Launches ; SEP 19. PIESAT-2 13-16 ; SEP 19. \"Owl By The Dozen\" ; SEP 17. Kosmos TBD (Glonass-K) ; SEP 17. SpaceTY-51 & 52 ; SEP 17. USSF-259.",
-    "snippet_highlighted_words": [
-     "Recent Launches"
-    ],
-    "source": "RocketLaunch.Live",
-    "title": "ISRO Launch Schedule"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Comprehensive archive of historical and operational spacecraft missions launched by ISRO. Launch unsuccessful 51 EOS-05 04-09-2026",
-      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABsAPtE-tFooIigoFAEAGglsALOvShQI1BoALsAOwGsC36zjaJRFFfyUv6wFgHoOlRlnxw7yAAD-9geydtfTbHTO0WDqoPtn3qq9veGUDmZmKDJjAJNWGuBjCEVZrXuXgg1SVrGtQlaS2ABHwDtJzPBdZAcDFlon08-jJsi9l-fJi3SV0j8EuLZPmJMvA5jZ6nI6llgVOkz0QWv-rVJQJmL3pk_DzIQXWFPt78laPR5cz4H4drTNTfi3lr8B8L8I5-N98s7EcLeICt_6-hcjulqMzbAMlBQ6X6PwVHXx_QkyPgPXhvILtaNxWPIJhvaR7RWN20ydGvkHOjVc7PVQ0mHiSAAA.webp",
-      "source_info_link": "https://www.isro.gov.in/SpacecraftMissions.html"
-     }
-    },
-    "date": "3 days ago",
-    "displayed_link": "https://www.isro.gov.in › SpacecraftMissions",
-    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABsAPtE-tFooIigoFAEAGglsALOvShQI1BoALsAOwGsC36zjaJRFFfyUv6wFgHoOlRlnxw7yAAD-9geydtfTbHTO0WDqoPtn3qq9veGUDmZmKDJjAJNWGuBjCEVZrXuXgg1SVrGtQlaS2ABHwDtJzPBdZAcDFlon08-jJsi9l-fJi3SV0j8EuLZPmJMvA5jZ6nI6llgVOkz0QWv-rVJQJmL3pk_DzIQXWFPt78laPR5cz4H4drTNTfi3lr8B8L8I5-N98s7EcLeICt_6-hcjulqMzbAMlBQ6X6PwVHXx_QkyPgPXhvILtaNxWPIJhvaR7RWN20ydGvkHOjVc7PVQ0mHiSAAA.webp",
-    "link": "https://www.isro.gov.in/SpacecraftMissions.html",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVeSkB7WTSKaumQ4gouKPJpqmZgZwpelhnW-Ow0jphvOxOig_Qf2x3qF1VqK-Xy6z52KMZ8WfMEmmp7ERSqcnctRp9fWVojPWpn29OhK0Pp98hM_iFrIpqZXu17OEYPMlZNLc&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQFnoECEEQAQ&uoh=1",
-    "snippet": "Comprehensive archive of historical and operational spacecraft missions launched by ISRO. Launch unsuccessful 51 EOS-05 04-09-2026",
-    "snippet_highlighted_words": [
-     "missions launched",
-     "ISRO",
-     "Launch"
-    ],
-    "source": "ISRO",
-    "title": "Spacecraft Missions"
-   },
-   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnhTbzNhYWdpUV9YeE9POEptUnY1MFdfWlpVUExRcHNyT0Z0M2VnSTBja2xoa2RZVjFPUnNiaExqTDA4ZDZpLVNDSEJSNVV2T3V4SWc1b2tDNXhtdVpnMmxvc053TnhsekxDYUVtRWd5UWQwRUFXTXBEdlZINEpyVmk4Y0ZTbVQ4a3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnhTbzNhYWdpUV9YeE9POEptUnY1MFdfWlpVUExRcHNyT0Z0M2VnSTBja2xoa2RZVjFPUnNiaExqTDA4ZDZpLVNDSEJSNVV2T3V4SWc1b2tDNXhtdVpnMmxvc053TnhsekxDYUVtRWd5UWQwRUFXTXBEdlZINEpyVmk4Y0ZTbVQ4a3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
      "source": {
-      "description": "ISRO is set to launch the EOS-N1 Anvesha hyperspectral satellite aboard the PSLV-C62 mission. Developed by DRDO, Anvesha will be deployed from ...",
+      "description": "Join us LIVE for the upcoming launch of ISRO ! Mission: PSLV C62 Date: January 12, 2026 Launch Time: 9:30 AM Location: Satish Dhawan ...",
       "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "displayed_link": "2.4K+ views · 8 months ago",
-    "duration": "4:01",
+    "displayed_link": "أكثر من 21 ألف مشاهدة · قبل 8 أشهر",
+    "duration": "1:19:15",
     "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=onGZVRLpriY",
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=n-wIdJYz5fI&t=570",
+      "time": "09:30",
+      "title": "Launch Time"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=n-wIdJYz5fI&t=617",
+      "time": "10:17",
+      "title": "The integration of the vehicle and satellites has been completed and pre-launch checks are in progress. The PSLV-C62 mission is proposed to lift-off on January 12, 2026 at.hrs, from the First Launch Pad at Satish Dhawan Space Centre, Sriharikota."
+     }
+    ],
+    "link": "https://www.youtube.com/watch?v=n-wIdJYz5fI",
+    "position": 2,
+    "snippet": "Join us LIVE for the upcoming launch of ISRO ! Mission: PSLV C62 Date: January 12, 2026 Launch Time: 9:30 AM Location: Satish Dhawan ...",
+    "source": "YouTube · Nimbus Education",
+    "thumbnail": "https://serpapi.com/searches/6ab9899355ba655b2f38c75c/images/gyAQhk94nkidl7Uoj-5UVHJ5nMFsr-Js_MjH6UQHOBI.jpeg",
+    "title": "LIVE: ISRO PSLV-C62 Mission | DRDO Satellite",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSVtJGQ1g2e-St_vQ3r2KePzRoy8H_aTqrQDQ"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwCL2dvdG8_dXJsPUNBRVM0QUVCNnpzd0ZXdHBqM0pPWi1PT29WM25kN0xhRU9BQWJjZzVDdU9ORGNxdTJXOU5Vc3FmOUpkOU1tR3NWY3VOUXpuYWN6ekdUUDlsMUhUVTFVVGp0X0c1TDNKajN6aGhsT216bUp4OGw4am5GWXJLWlo3SFk2Nnhnb3QzV2V0a2ZjQTZFRGIxSW84MkhPSTBGSlZNS3BTdVJpUWlOQ2s1MW1tSk1kNlRCZ3RSUmJjSmFUSk5NT1dwOVk0QXJueGYxR1hpUWhYMU9FcXRvYS1fb2dyWlVlcmRBVExOWk5XQVFzejhKenhBQTFnT1llQUNBZTRqdFc2akZLcU05dnY4cjJKdkp4cklTUm1DbURuLTdSU2lXVTE0Tm1SMVhkR2E2anFFQVA1ZkszTlVGQRIEGgIIABrGCRICCAAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQKAJCAAQABgAIAAqPgoEd2hhdBUAAAAAGgV3aGljaBoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqyQEKBmxhdGVzdBX0eg8_GgdjdXJyZW50GgRsYXN0Ggttb3N0IHJlY2VudBoDbmV3GgZuZXdlc3QaBnJlY2VudBoI2KfYrdiv2KsaCtmE2KfYqtiz2KoaC2l2O2Q7bGF0ZXN0GgxpdjtkO2N1cnJlbnQaCWl2O2Q7bGFzdBoIaXY7ZDtuZXcaC2l2O2Q7cmVjZW50Gg1pdjtkO9in2K3Yr9irGg9pdjtkO9mE2KfYqtiz2KoaBG5ld3MaCHVwY29taW5nGgZ1cGRhdGUqMQoEaXNybxUIYZpAGgjYp9iz2LHZiBoLaXNyb21pc3Npb24aDWl2O2Q72KfYs9ix2YgqbQoHbWlzc2lvbhUy37hAGghtaXNzaW9ucxoI2YXZh9mF2KkaDNmF2YrYs9mK2YjZhhoLaXNyb21pc3Npb24aDGl2O2Q7bWlzc2lvbhoNaXY7ZDvZhdmH2YXZhxoRaXY7ZDvZhdmK2LPZitmI2YYqkAEKBmxhdW5jaBU-rZpAGghsYXVuY2hlZBoIbGF1bmNoZXMaCWxhdW5jaGluZxoFc3RhcnQaCtil2LfZhNin2YIaCNmE2KfZhti0GgtpdjtkO2xhdW5jaBoMaXY7ZDtyZWxlYXNlGgppdjtkO3N0YXJ0Gg9pdjtkO9in2LfZhNin2YIaDWl2O2Q72YTYp9mG2LQyvAIvZ290bz91cmw9Q0FFUzRBRUI2enN3Rld0cGozSk9aLU9Pb1YzbmQ3TGFFT0FBYmNnNUN1T05EY3F1Mlc5TlVzcWY5SmQ5TW1Hc1ZjdU5Rem5hY3p6R1RQOWwxSFRVMVVUanRfRzVMM0pqM3poaGxPbXptSng4bDhqbkZZcktaWjdIWTY2eGdvdDNXZXRrZmNBNkVEYjFJbzgySE9JMEZKVk1LcFN1UmlRaU5DazUxbW1KTWQ2VEJndFJSYmNKYVRKTk1PV3A5WTRBcm54ZjFHWGlRaFgxT0VxdG9hLV9vZ3JaVWVyZEFUTE5aTldBUXN6OEp6eEFBMWdPWWVBQ0FlNGp0VzZqRktxTTl2djhyMkp2SnhySVNSbUNtRG4tN1JTaVdVMTRObVIxWGRHYTZqcUVBUDVmSzNOVUZBOlJOQVNBLTxiPklTUk8gbWlzc2lvbjwvYj46ICYjMzk7TklTQVIgc2F0ZWxsaXRlIDxiPmxhdW5jaDwvYj4gYnkgSnVseSAzMCAuLi4gLSBNaW50QpwBSW5kaWFuIFNwYWNlIFJlc2VhcmNoIE9yZ2FuaXNhdGlvbiBwbGFucyB0byBsYXVuY2ggdGhlIDxiPk5JU0FSIHNhdGVsbGl0ZTwvYj4gdmlhIEdTTFYtUzE2IHJvY2tldCBieSBKdWx5IDMwLiBUaHJlZSB1bmNyZXdlZCBtaXNzaW9ucyBhcmUgc2NoZWR1bGVkJm5ic3A7Li4uSgJpc0oDdGhlUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwCL2dvdG8_dXJsPUNBRVM0QUVCNnpzd0ZXdHBqM0pPWi1PT29WM25kN0xhRU9BQWJjZzVDdU9ORGNxdTJXOU5Vc3FmOUpkOU1tR3NWY3VOUXpuYWN6ekdUUDlsMUhUVTFVVGp0X0c1TDNKajN6aGhsT216bUp4OGw4am5GWXJLWlo3SFk2Nnhnb3QzV2V0a2ZjQTZFRGIxSW84MkhPSTBGSlZNS3BTdVJpUWlOQ2s1MW1tSk1kNlRCZ3RSUmJjSmFUSk5NT1dwOVk0QXJueGYxR1hpUWhYMU9FcXRvYS1fb2dyWlVlcmRBVExOWk5XQVFzejhKenhBQTFnT1llQUNBZTRqdFc2akZLcU05dnY4cjJKdkp4cklTUm1DbURuLTdSU2lXVTE0Tm1SMVhkR2E2anFFQVA1ZkszTlVGQRIEGgIIABrGCRICCAAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQKAJCAAQABgAIAAqPgoEd2hhdBUAAAAAGgV3aGljaBoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqyQEKBmxhdGVzdBX0eg8_GgdjdXJyZW50GgRsYXN0Ggttb3N0IHJlY2VudBoDbmV3GgZuZXdlc3QaBnJlY2VudBoI2KfYrdiv2KsaCtmE2KfYqtiz2KoaC2l2O2Q7bGF0ZXN0GgxpdjtkO2N1cnJlbnQaCWl2O2Q7bGFzdBoIaXY7ZDtuZXcaC2l2O2Q7cmVjZW50Gg1pdjtkO9in2K3Yr9irGg9pdjtkO9mE2KfYqtiz2KoaBG5ld3MaCHVwY29taW5nGgZ1cGRhdGUqMQoEaXNybxUIYZpAGgjYp9iz2LHZiBoLaXNyb21pc3Npb24aDWl2O2Q72KfYs9ix2YgqbQoHbWlzc2lvbhUy37hAGghtaXNzaW9ucxoI2YXZh9mF2KkaDNmF2YrYs9mK2YjZhhoLaXNyb21pc3Npb24aDGl2O2Q7bWlzc2lvbhoNaXY7ZDvZhdmH2YXZhxoRaXY7ZDvZhdmK2LPZitmI2YYqkAEKBmxhdW5jaBU-rZpAGghsYXVuY2hlZBoIbGF1bmNoZXMaCWxhdW5jaGluZxoFc3RhcnQaCtil2LfZhNin2YIaCNmE2KfZhti0GgtpdjtkO2xhdW5jaBoMaXY7ZDtyZWxlYXNlGgppdjtkO3N0YXJ0Gg9pdjtkO9in2LfZhNin2YIaDWl2O2Q72YTYp9mG2LQyvAIvZ290bz91cmw9Q0FFUzRBRUI2enN3Rld0cGozSk9aLU9Pb1YzbmQ3TGFFT0FBYmNnNUN1T05EY3F1Mlc5TlVzcWY5SmQ5TW1Hc1ZjdU5Rem5hY3p6R1RQOWwxSFRVMVVUanRfRzVMM0pqM3poaGxPbXptSng4bDhqbkZZcktaWjdIWTY2eGdvdDNXZXRrZmNBNkVEYjFJbzgySE9JMEZKVk1LcFN1UmlRaU5DazUxbW1KTWQ2VEJndFJSYmNKYVRKTk1PV3A5WTRBcm54ZjFHWGlRaFgxT0VxdG9hLV9vZ3JaVWVyZEFUTE5aTldBUXN6OEp6eEFBMWdPWWVBQ0FlNGp0VzZqRktxTTl2djhyMkp2SnhySVNSbUNtRG4tN1JTaVdVMTRObVIxWGRHYTZqcUVBUDVmSzNOVUZBOlJOQVNBLTxiPklTUk8gbWlzc2lvbjwvYj46ICYjMzk7TklTQVIgc2F0ZWxsaXRlIDxiPmxhdW5jaDwvYj4gYnkgSnVseSAzMCAuLi4gLSBNaW50QpwBSW5kaWFuIFNwYWNlIFJlc2VhcmNoIE9yZ2FuaXNhdGlvbiBwbGFucyB0byBsYXVuY2ggdGhlIDxiPk5JU0FSIHNhdGVsbGl0ZTwvYj4gdmlhIEdTTFYtUzE2IHJvY2tldCBieSBKdWx5IDMwLiBUaHJlZSB1bmNyZXdlZCBtaXNzaW9ucyBhcmUgc2NoZWR1bGVkJm5ic3A7Li4uSgJpc0oDdGhlUgNuZXciAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Indian Space Research Organisation plans to launch the NISAR satellite via GSLV-S16 rocket by July 30. Three uncrewed missions are scheduled ...",
+      "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0vd_nN6GxAt_8B6IEr5Sa3OnZh3gObpTQY9ojIUAD-kqv0KFfJdZC2Z-5KaKLQeVwl0qFmm66U2or_4tCYT2WQHIIm_CMv-G0m-zrnNQQuvrPn68PyAvSiX9BUhBh6eMFt0wPCpHtTtrrr3Y8tYwWsdLOz_By74Fp_uf-Pvr3_g3J6gcEvN9VaQPkp_rnp53JmtE1Cxef4RuhJ1IDkC4MivffCdKl3y1kKmten5wTgtvpuP7pNh87u0Uv4O1c21B-8tb98gUOXFGjg1UBb7rFkuMpYAAA.webp",
+      "source_info_link": "https://www.livemint.com/news/nasaisro-mission-nisar-satellite-launch-by-july-30-chairman-v-narayanan-confirms-drops-update-on-gaganyaan-mission-11753673795234.html"
+     }
+    },
+    "date": "28‏/07‏/2025",
+    "displayed_link": "https://www.livemint.com › News",
+    "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0vd_nN6GxAt_8B6IEr5Sa3OnZh3gObpTQY9ojIUAD-kqv0KFfJdZC2Z-5KaKLQeVwl0qFmm66U2or_4tCYT2WQHIIm_CMv-G0m-zrnNQQuvrPn68PyAvSiX9BUhBh6eMFt0wPCpHtTtrrr3Y8tYwWsdLOz_By74Fp_uf-Pvr3_g3J6gcEvN9VaQPkp_rnp53JmtE1Cxef4RuhJ1IDkC4MivffCdKl3y1kKmten5wTgtvpuP7pNh87u0Uv4O1c21B-8tb98gUOXFGjg1UBb7rFkuMpYAAA.webp",
+    "link": "https://www.livemint.com/news/nasaisro-mission-nisar-satellite-launch-by-july-30-chairman-v-narayanan-confirms-drops-update-on-gaganyaan-mission-11753673795234.html",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES4AEB6zswFWtpj3JOZ-OOoV3nd7LaEOAAbcg5CuONDcqu2W9NUsqf9Jd9MmGsVcuNQznaczzGTP9l1HTU1UTjt_G5L3Jj3zhhlOmzmJx8l8jnFYrKZZ7HY66xgot3WetkfcA6EDb1Io82HOI0FJVMKpSuRiQiNCk51mmJMd6TBgtRRbcJaTJNMOWp9Y4Arnxf1GXiQhX1OEqtoa-_ogrZUerdATLNZNWAQsz8JzxAA1gOYeACAe4jtW6jFKqM9vv8r2JvJxrISRmCmDn-7RSiWU14NmR1XdGa6jqEAP5fK3NUFA&ved=2ahUKEwigrYuc2Y-XAxWylCsGHSAWBKMQFnoECCkQAQ&uoh=1",
+    "snippet": "Indian Space Research Organisation plans to launch the NISAR satellite via GSLV-S16 rocket by July 30. Three uncrewed missions are scheduled ...",
+    "snippet_highlighted_words": [
+     "NISAR satellite"
+    ],
+    "source": "Livemint",
+    "title": "NASA-ISRO mission: 'NISAR satellite launch by July 30 ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVk5KVDl3OGViRVExUzhhenFSb1J2Wktkb25Yc3ZRemdwYVZZYTBrU2RELTF2VkdoMWc5QW1kdDBoSlR5c0txb01nUWM3ZkFkWVVxcHdBWWxEUmdCeVZkcUNXZlVEQVN1dk5wMUNMdjRUYTV1ZmJmWGZIM0JyVkpYYmpPM3lKelUtOHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVk5KVDl3OGViRVExUzhhenFSb1J2Wktkb25Yc3ZRemdwYVZZYTBrU2RELTF2VkdoMWc5QW1kdDBoSlR5c0txb01nUWM3ZkFkWVVxcHdBWWxEUmdCeVZkcUNXZlVEQVN1dk5wMUNMdjRUYTV1ZmJmWGZIM0JyVkpYYmpPM3lKelUtOHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_this_result": {
+     "source": {
+      "description": "LIVE: NISAR, a first-of-its-kind collaboration between NASA and ISRO (Indian Space Research Organisation), is scheduled to launch on ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "أكثر من 5.8 ألف مشاهدة · قبل سنة واحدة",
+    "duration": "2:05:59",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=n1l75QY7uKE",
+    "position": 4,
+    "snippet": "LIVE: NISAR, a first-of-its-kind collaboration between NASA and ISRO (Indian Space Research Organisation), is scheduled to launch on ...",
+    "source": "YouTube · CNN-News18",
+    "thumbnail": "https://serpapi.com/searches/6ab9899355ba655b2f38c75c/images/gyAQhk94nkidl7Uoj-5UVINC4DYId_S8Nttw4-fxZ3s.jpeg",
+    "title": "ISRO And NASA Collaboration Mission NISAR Launch"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlRpbGd3QzFpX2x3eG9JVC1oRVBIa3RXdDBJSlVkREFaQXNNblV3UUs3QlFkdGZaNjR1N25ObEppT0VSVm9WVlFZS0t2NGt4aGkyV1A5S25kX0g5a0FTbDQwVkFjdW1DOExNZ1NzWG1qMDVRaUpKRXNXS0pWSU93bUwzdF9MTXAxMGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlRpbGd3QzFpX2x3eG9JVC1oRVBIa3RXdDBJSlVkREFaQXNNblV3UUs3QlFkdGZaNjR1N25ObEppT0VSVm9WVlFZS0t2NGt4aGkyV1A5S25kX0g5a0FTbDQwVkFjdW1DOExNZ1NzWG1qMDVRaUpKRXNXS0pWSU93bUwzdF9MTXAxMGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_this_result": {
+     "source": {
+      "description": "LIVE | ISRO's New Year Mission 2024 | PSLV-C58/XPoSat Launch LIVE | SDSC | Sriharikota | News18 The Indian Space Research Organisation ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "أكثر من 81.6 ألف مشاهدة · قبل سنتين",
+    "duration": "22:31:12",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=bSYvjHwCYdQ",
+    "position": 5,
+    "snippet": "LIVE | ISRO's New Year Mission 2024 | PSLV-C58/XPoSat Launch LIVE | SDSC | Sriharikota | News18 The Indian Space Research Organisation ...",
+    "source": "YouTube · CNN-News18",
+    "thumbnail": "https://serpapi.com/searches/6ab9899355ba655b2f38c75c/images/gyAQhk94nkidl7Uoj-5UVEooIyloJi-l2jTItrM3QmE.jpeg",
+    "title": "ISRO's New Year Mission 2024 | PSLV-C58/XPoSat Launch LIVE"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZjR3lDRlhUYmZJNUdkQ190UTdLY1BEVC1Wc1VYRzBUOU9KRVR1MnItelZ6NktmNnRaYm5TR2VNUnpvTEFfem1PRTdjYTR1WGlER1B3Z2otNGhiTGxVRHltMW1BMFFNbzhsN2NncTgwa1hGM1RIcVp0TGVVdHBoaW5TeGZPWFdkckRuc2dfZDRwMl92NjJJa2lHenRJeEVSYzRndXFnbmhpV3NpSzlfUkZoTEN4ZHV0cUlnZWJYQ05GTnFjZnRGbm16TFVQTWFUSVhtWjVjekY3eDZybTcwbGtvQU1CWmI5Z1hjRndiSGFBbmM1U1ZDRRIEGgIIABqLCRIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDnCAgAEAAYACAAKj4KBHdoYXQVAAAAABoFd2hpY2gaBtmI2KfYqhoJaXY7ZDt3aGF0GgppdjtkO3doaWNoGgtpdjtkO9mI2KfYqioJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKskBCgZsYXRlc3QVYaEUPxoHY3VycmVudBoEbGFzdBoLbW9zdCByZWNlbnQaA25ldxoGbmV3ZXN0GgZyZWNlbnQaCNin2K3Yr9irGgrZhNin2KrYs9iqGgtpdjtkO2xhdGVzdBoMaXY7ZDtjdXJyZW50GglpdjtkO2xhc3QaCGl2O2Q7bmV3GgtpdjtkO3JlY2VudBoNaXY7ZDvYp9it2K_YqxoPaXY7ZDvZhNin2KrYs9iqGgRuZXdzGgh1cGNvbWluZxoGdXBkYXRlKjEKBGlzcm8VOSa6QBoI2KfYs9ix2YgaC2lzcm9taXNzaW9uGg1pdjtkO9in2LPYsdmIKm0KB21pc3Npb24VACzJQBoIbWlzc2lvbnMaCNmF2YfZhdipGgzZhdmK2LPZitmI2YYaC2lzcm9taXNzaW9uGgxpdjtkO21pc3Npb24aDWl2O2Q72YXZh9mF2YcaEWl2O2Q72YXZitiz2YrZiNmGKpABCgZsYXVuY2gV3ZfBQBoIbGF1bmNoZWQaCGxhdW5jaGVzGglsYXVuY2hpbmcaBXN0YXJ0GgrYpdi32YTYp9mCGgjZhNin2YbYtBoLaXY7ZDtsYXVuY2gaDGl2O2Q7cmVsZWFzZRoKaXY7ZDtzdGFydBoPaXY7ZDvYp9i32YTYp9mCGg1pdjtkO9mE2KfZhti0MoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZjR3lDRlhUYmZJNUdkQ190UTdLY1BEVC1Wc1VYRzBUOU9KRVR1MnItelZ6NktmNnRaYm5TR2VNUnpvTEFfem1PRTdjYTR1WGlER1B3Z2otNGhiTGxVRHltMW1BMFFNbzhsN2NncTgwa1hGM1RIcVp0TGVVdHBoaW5TeGZPWFdkckRuc2dfZDRwMl92NjJJa2lHenRJeEVSYzRndXFnbmhpV3NpSzlfUkZoTEN4ZHV0cUlnZWJYQ05GTnFjZnRGbm16TFVQTWFUSVhtWjVjekY3eDZybTcwbGtvQU1CWmI5Z1hjRndiSGFBbmM1U1ZDRTpQQ2F0Y2ggPGI-bmV3PC9iPiB2aXN1YWxzIG9mIDxiPklTUk8mIzM5O3M8L2I-IFBTTFYtQzQ1IDxiPm1pc3Npb24gbGF1bmNoPC9iPiAuLi5CmwFUaGUgSW5kaWFuIFNwYWNlIFJlc2VhcmNoIE9yZ2FuaXNhdGlvbiAoSVNSTykgY29tcGxldGVkIHRoZSA8Yj5QU0xWLUM0NS9FTUlTQVQgbWlzc2lvbjwvYj4gb24gMSBBcHJpbCBhbmQgcGxhY2VkIGFuIEluZGlhbiBlbGVjdHJvbmljIGludGVsbGlnZW5jZSZuYnNwOy4uLkoCaXNKA3RoZVIDbmV3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZjR3lDRlhUYmZJNUdkQ190UTdLY1BEVC1Wc1VYRzBUOU9KRVR1MnItelZ6NktmNnRaYm5TR2VNUnpvTEFfem1PRTdjYTR1WGlER1B3Z2otNGhiTGxVRHltMW1BMFFNbzhsN2NncTgwa1hGM1RIcVp0TGVVdHBoaW5TeGZPWFdkckRuc2dfZDRwMl92NjJJa2lHenRJeEVSYzRndXFnbmhpV3NpSzlfUkZoTEN4ZHV0cUlnZWJYQ05GTnFjZnRGbm16TFVQTWFUSVhtWjVjekY3eDZybTcwbGtvQU1CWmI5Z1hjRndiSGFBbmM1U1ZDRRIEGgIIABqLCRIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDnCAgAEAAYACAAKj4KBHdoYXQVAAAAABoFd2hpY2gaBtmI2KfYqhoJaXY7ZDt3aGF0GgppdjtkO3doaWNoGgtpdjtkO9mI2KfYqioJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKskBCgZsYXRlc3QVYaEUPxoHY3VycmVudBoEbGFzdBoLbW9zdCByZWNlbnQaA25ldxoGbmV3ZXN0GgZyZWNlbnQaCNin2K3Yr9irGgrZhNin2KrYs9iqGgtpdjtkO2xhdGVzdBoMaXY7ZDtjdXJyZW50GglpdjtkO2xhc3QaCGl2O2Q7bmV3GgtpdjtkO3JlY2VudBoNaXY7ZDvYp9it2K_YqxoPaXY7ZDvZhNin2KrYs9iqGgRuZXdzGgh1cGNvbWluZxoGdXBkYXRlKjEKBGlzcm8VOSa6QBoI2KfYs9ix2YgaC2lzcm9taXNzaW9uGg1pdjtkO9in2LPYsdmIKm0KB21pc3Npb24VACzJQBoIbWlzc2lvbnMaCNmF2YfZhdipGgzZhdmK2LPZitmI2YYaC2lzcm9taXNzaW9uGgxpdjtkO21pc3Npb24aDWl2O2Q72YXZh9mF2YcaEWl2O2Q72YXZitiz2YrZiNmGKpABCgZsYXVuY2gV3ZfBQBoIbGF1bmNoZWQaCGxhdW5jaGVzGglsYXVuY2hpbmcaBXN0YXJ0GgrYpdi32YTYp9mCGgjZhNin2YbYtBoLaXY7ZDtsYXVuY2gaDGl2O2Q7cmVsZWFzZRoKaXY7ZDtzdGFydBoPaXY7ZDvYp9i32YTYp9mCGg1pdjtkO9mE2KfZhti0MoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZjR3lDRlhUYmZJNUdkQ190UTdLY1BEVC1Wc1VYRzBUOU9KRVR1MnItelZ6NktmNnRaYm5TR2VNUnpvTEFfem1PRTdjYTR1WGlER1B3Z2otNGhiTGxVRHltMW1BMFFNbzhsN2NncTgwa1hGM1RIcVp0TGVVdHBoaW5TeGZPWFdkckRuc2dfZDRwMl92NjJJa2lHenRJeEVSYzRndXFnbmhpV3NpSzlfUkZoTEN4ZHV0cUlnZWJYQ05GTnFjZnRGbm16TFVQTWFUSVhtWjVjekY3eDZybTcwbGtvQU1CWmI5Z1hjRndiSGFBbmM1U1ZDRTpQQ2F0Y2ggPGI-bmV3PC9iPiB2aXN1YWxzIG9mIDxiPklTUk8mIzM5O3M8L2I-IFBTTFYtQzQ1IDxiPm1pc3Npb24gbGF1bmNoPC9iPiAuLi5CmwFUaGUgSW5kaWFuIFNwYWNlIFJlc2VhcmNoIE9yZ2FuaXNhdGlvbiAoSVNSTykgY29tcGxldGVkIHRoZSA8Yj5QU0xWLUM0NS9FTUlTQVQgbWlzc2lvbjwvYj4gb24gMSBBcHJpbCBhbmQgcGxhY2VkIGFuIEluZGlhbiBlbGVjdHJvbmljIGludGVsbGlnZW5jZSZuYnNwOy4uLkoCaXNKA3RoZVIDbmV3IgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "The Indian Space Research Organisation (ISRO) completed the PSLV-C45/EMISAT mission on 1 April and placed an Indian electronic intelligence ...",
+      "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtE-tFooIigoFAEAGgllAAPj3TkMuRslSzuYyel1zOt0k6IAAP79Kuf5K_sgdKNl8LK8f5x_-fl726P8r6dmrSg0DgsrsfpvNy8OxNgE0JZo6ftn9Lb_sxaXDe9TwI0-FHKIhx_WrDNC8Q5ziHnMY8gmL65g2_q__4Kcjmtr97WqIafyoD7gr6gjF089i-hPGFnLnNHuhjsYTUnL5aBoNzUmPhjx8EjnC8MVI8ffHvzn5aV6_rQnCAAA.webp",
+      "source_info_link": "https://www.firstpost.com/tech/science/catch-new-visuals-of-isros-pslv-c45-mission-launch-onboard-camera-footage-6371301.html"
+     }
+    },
+    "date": "02‏/04‏/2019",
+    "displayed_link": "https://www.firstpost.com › science",
+    "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtE-tFooIigoFAEAGgllAAPj3TkMuRslSzuYyel1zOt0k6IAAP79Kuf5K_sgdKNl8LK8f5x_-fl726P8r6dmrSg0DgsrsfpvNy8OxNgE0JZo6ftn9Lb_sxaXDe9TwI0-FHKIhx_WrDNC8Q5ziHnMY8gmL65g2_q__4Kcjmtr97WqIafyoD7gr6gjF089i-hPGFnLnNHuhjsYTUnL5aBoNzUmPhjx8EjnC8MVI8ffHvzn5aV6_rQnCAAA.webp",
+    "link": "https://www.firstpost.com/tech/science/catch-new-visuals-of-isros-pslv-c45-mission-launch-onboard-camera-footage-6371301.html",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuAEB6zswFcGyCFXTbfI5GdC_tQ7KcPDT-VsUXG0T9OJETu2r-zVz6Kf6tZbnSGeMRzoLA_zmOE7ca4uXiDGPwgj-4hbLlUDym1mA0QMo8l7cgq80kXF3THqZtLeUtphinSxfOXWdrDnsg_d4p2_v62IkiGztIxERc4guqgnhiWsiK9_RFhLCxdutqIgebXCNFNqcftFnmzLUPMaTIXmZ5czF7x6rm70lkoAMBZb9gXcFwbHaAnc5SVCE&ved=2ahUKEwigrYuc2Y-XAxWylCsGHSAWBKMQFnoECDYQAQ&uoh=1",
+    "snippet": "The Indian Space Research Organisation (ISRO) completed the PSLV-C45/EMISAT mission on 1 April and placed an Indian electronic intelligence ...",
+    "snippet_highlighted_words": [
+     "PSLV-C45/EMISAT mission"
+    ],
+    "source": "Firstpost",
+    "title": "Catch new visuals of ISRO's PSLV-C45 mission launch, ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmVoN3BEZ1RmUFY2ZGRkQjBLU243TGNLeEdKYzZHRWhDUWVYd213dHJFd05jRmhKZlRFaUJTZkV6RWVRalpiX0dLUktGa3FrTDRGN0dHdV9ZTFpWOF9pYS1ESGNmV2FjdExBSEVTV3BlYmZfLWs0YzdSaVdkS3NRUmhWMXJsdnV0a3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmVoN3BEZ1RmUFY2ZGRkQjBLU243TGNLeEdKYzZHRWhDUWVYd213dHJFd05jRmhKZlRFaUJTZkV6RWVRalpiX0dLUktGa3FrTDRGN0dHdV9ZTFpWOF9pYS1ESGNmV2FjdExBSEVTV3BlYmZfLWs0YzdSaVdkS3NRUmhWMXJsdnV0a3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_this_result": {
+     "source": {
+      "description": "ISRO's PSLV-C60 rocket carrying two spacecraft that would aid in the demonstration of space docking, a critical technology for future space ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "أكثر من 1 ألف مشاهدة · قبل سنة واحدة",
+    "duration": "1:46",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=F-iD6RiP75s",
     "position": 7,
-    "snippet": "ISRO is set to launch the EOS-N1 Anvesha hyperspectral satellite aboard the PSLV-C62 mission. Developed by DRDO, Anvesha will be deployed from ...",
-    "source": "YouTube · MIRROR NOW",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIMsocwPpSCoZcpMTHXrBmoUuL0CLZ_8rnmgsFUaRbnJFj9XltR8pmNw&s",
-    "title": "India's First Space Mission Of 2026: ISRO Launches PSLV ...",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQuLstGuJXqJ4qCEIlE2vkZEQJ78UXfqWN99A"
+    "snippet": "ISRO's PSLV-C60 rocket carrying two spacecraft that would aid in the demonstration of space docking, a critical technology for future space ...",
+    "source": "YouTube · NDTV",
+    "thumbnail": "https://serpapi.com/searches/6ab9899355ba655b2f38c75c/images/gyAQhk94nkidl7Uoj-5UVBgjTnE-A5r3hWNvvi9KVa4.jpeg",
+    "title": "ISRO Successfully Launches SpaDeX Mission For \"In-Space ...",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcREibEwPRIsFumTtu1pxaPnvopHlkFhC7oGdQ"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjhkcUpPejdwQzhkSEdfZ0hEaGZhMFN3WmVESjc1a0FMNTVNUEFuYnc1c2dPZ3BPRmUwejduMHNlOFZwNjZsUS1ja2dFQmtZZzlEMW9sUDJrdlNJb0VocTdncVlIdXBXdklwRmxIOUVDTTZmeFgyYnNxM2wxajhUSmRZZGNjZVBiVHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjhkcUpPejdwQzhkSEdfZ0hEaGZhMFN3WmVESjc1a0FMNTVNUEFuYnc1c2dPZ3BPRmUwejduMHNlOFZwNjZsUS1ja2dFQmtZZzlEMW9sUDJrdlNJb0VocTdncVlIdXBXdklwRmxIOUVDTTZmeFgyYnNxM2wxajhUSmRZZGNjZVBiVHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_this_result": {
+     "source": {
+      "description": "ISRO successfully launched twin satellites for a space docking experiment using a PSLV rocket. The mission includes 24 payloads from ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "displayed_link": "أكثر من 1.6 ألف مشاهدة · قبل سنة واحدة",
+    "duration": "5:46",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=kLpiWv2sJTo",
+    "position": 8,
+    "snippet": "ISRO successfully launched twin satellites for a space docking experiment using a PSLV rocket. The mission includes 24 payloads from ...",
+    "source": "YouTube · India Today",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QJ66s2ueE5c8oNyD7qLbVUOIpKVY4gzThxvXSOeegTBfMkBpEKBYfg&s",
+    "title": "ISRO Chief S Somnath On Latest Mission | PSLV-C60 Launch",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSNXOVwBpZ8nqBBQh4BF03raWRBotoGcKdvSQ"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=10&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8NMDegQIMxAW",
+   "next": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=c16286b74a8621df&sxsrf=APpeQnvC3Te2xzcWfBXwH_BxgCV3qDP2qQ:1790544275763&ei=k4m5auCXLrKpruEPoKyQmAo&start=10&sa=N&sstk=AS6-VmJ5CnWbCgZ6PuE8M_Gk8Uc73O9NsxPse1UyMCgxaSqyCkalqO4888gwTsGAlHx_O1OLjovKRTFO5qNufO8uTrTQi3mxX2byqg&ved=2ahUKEwigrYuc2Y-XAxWylCsGHSAWBKMQ8NMDegQILBAI",
    "other_pages": {
-    "10": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=90&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8tMDegQIMxAU",
-    "2": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=10&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8tMDegQIMxAE",
-    "3": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=20&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8tMDegQIMxAG",
-    "4": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=30&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8tMDegQIMxAI",
-    "5": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=40&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8tMDegQIMxAK",
-    "6": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=50&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8tMDegQIMxAM",
-    "7": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=60&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8tMDegQIMxAO",
-    "8": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=70&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8tMDegQIMxAQ",
-    "9": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&ei=acSvau7zIt6hkPIP7NfQoQs&start=80&sa=N&sstk=AS6-VmKqUXOtVCJkWjy8bx182B0BKaUIgB2mT9cfXcSucVjnrP89KUnVvEmzNqOFUQ8v-o4y2_Y6p5Kzx2lxKXHiw7L3kBP6kxShmw&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ8tMDegQIMxAS"
+    "2": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=c16286b74a8621df&sxsrf=APpeQnvC3Te2xzcWfBXwH_BxgCV3qDP2qQ:1790544275763&ei=k4m5auCXLrKpruEPoKyQmAo&start=10&sa=N&sstk=AS6-VmJ5CnWbCgZ6PuE8M_Gk8Uc73O9NsxPse1UyMCgxaSqyCkalqO4888gwTsGAlHx_O1OLjovKRTFO5qNufO8uTrTQi3mxX2byqg&ved=2ahUKEwigrYuc2Y-XAxWylCsGHSAWBKMQ8tMDegQILBAE",
+    "3": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch?&sca_esv=c16286b74a8621df&sxsrf=APpeQnvC3Te2xzcWfBXwH_BxgCV3qDP2qQ:1790544275763&ei=k4m5auCXLrKpruEPoKyQmAo&start=20&sa=N&sstk=AS6-VmJ5CnWbCgZ6PuE8M_Gk8Uc73O9NsxPse1UyMCgxaSqyCkalqO4888gwTsGAlHx_O1OLjovKRTFO5qNufO8uTrTQi3mxX2byqg&ved=2ahUKEwigrYuc2Y-XAxWylCsGHSAWBKMQ8tMDegQILBAG"
    }
   },
-  "perspectives": [
-   {
-    "author": "FactTechz",
-    "date": "1 week ago",
-    "duration": "0:55",
-    "extensions": [
-     "1.7M+ views "
-    ],
-    "link": "https://www.youtube.com/shorts/TDbwuJpQzto",
-    "source": "YouTube",
-    "thumbnails": [
-     "https://serpapi.com/searches/6aafc469f3fc7be80c28df94/images/gYMg2lOL6W_I7QawvX7JUCNBkRz_FvMikzSnl-kdgFs.jpeg"
-    ],
-    "title": "omg! 1st Time - HUGE CCTV Above India! ISRO’s EOS-05 Satellite #shorts",
-    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTt8EBHP4hAIHHMBKvhc7MIdKzIzlXKjlXiuA"
-   },
-   {
-    "author": "DEF Tallks by Aadi",
-    "date": "2 weeks ago",
-    "duration": "9:48",
-    "extensions": [
-     "69.4K+ views "
-    ],
-    "link": "https://www.youtube.com/watch?v=ngCzjDwwpPo",
-    "source": "YouTube",
-    "thumbnails": [
-     "https://serpapi.com/searches/6aafc469f3fc7be80c28df94/images/oVYO8kXuaBsHnV799dYu6xmE2Arbp52gNIEYnvsT6wg.jpeg"
-    ],
-    "title": "India's New Space Eye Launch Today: ISRO, What You Need to Know About EOS-05 I Aadi",
-    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR76I526Lct-c-01wNIvjf1EUF0iirWfMqaUQ"
-   },
-   {
-    "author": "Ankit Sir Clips",
-    "date": "6 days ago",
-    "duration": "14:45",
-    "extensions": [
-     "111.8K+ views "
-    ],
-    "link": "https://www.youtube.com/watch?v=1FW4LdGFcys",
-    "source": "YouTube",
-    "thumbnails": [
-     "https://serpapi.com/searches/6aafc469f3fc7be80c28df94/images/o_8s6dOSeLE480upKWG7Hb_0HBAH4wxTdgAEq9GshDI.jpeg"
-    ],
-    "title": "Steady gaze: On the launch of the ISRO's EOS-05 satellite! #ankitinspireindia #news #isro #satellite",
-    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ2ZHBCtgBLbFbW9Y4sjm4AT70ahS17AVeQag"
-   },
-   {
-    "author": "vaibhavsisinty",
-    "date": "2 weeks ago",
-    "duration": "2:22",
-    "extensions": [
-     "8.3K+ likes "
-    ],
-    "link": "https://www.instagram.com/reel/DdB_-vEgx7P/",
-    "source": "Instagram",
-    "thumbnails": [
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDiJUKgp11LbHHU1HoLMaHaebxnM-9m-eEgqhzIal04KRaWqAh0xWdaz-9fY4&usqp=CAI&s=10"
-    ],
-    "title": "India put an Camera 36,000km above us After two failed launches and five years of waiting, ISRO’s EOS-05 finally reached orbit. It never moves, scanning any spot in India every 5 minutes. It sees 414 colours, not 3, and AI labels every pixel as water, stressed"
-   },
-   {
-    "author": "bjp4goa",
-    "date": "2 weeks ago",
-    "duration": "0:12",
-    "extensions": [
-     "7.3K+ likes "
-    ],
-    "link": "https://www.instagram.com/reel/Dc29fBfungD/",
-    "source": "Instagram",
-    "thumbnails": [
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfeKnoaBr4Z0q3OgluQ_e1vKyoLQZy9YlPUYGM2R7jBThGuyZabmfrdvn9A&usqp=CAI&s=10"
-    ],
-    "title": "ISRO’s EOS-05 is now in orbit, giving India a sharper eye from space and strengthening our ability to monitor, respond and stay ahead."
-   },
-   {
-    "author": "DefenceDecode",
-    "date": "2 weeks ago",
-    "extensions": [
-     "530+ likes"
-    ],
-    "link": "https://x.com/DefenceDecode/status/2095669622720933899?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "snippet": "India gets a new eye in the sky. 🛰️ ISRO's GSLV-F17 has successfully placed EOS-05 into its intended mission profile frm Sriharikota. - 1st geosynchronous imaging satellite - Continuous monitoring instead of periodic flyovers - Enhanced observation of land,maritime, and borders",
-    "source": "X",
-    "thumbnails": [
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzJ0TliBot7MNpS0aYOJ6-gSzPyVFa2wFRQy-0WKNmfV4BXoKx6bCiqG05GolIeYkwANFCOyv&s=10"
-    ]
-   }
-  ],
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNtaDJRVFJCZUMxaFJGaE9Sak5STm5CdWVraHNaRmhaTFdoRk1qVldaVVJHUVU5ak5tZEdRelZ3TW1aSU1sQXhaRzlVY1hGSlFXMUtjVmRJVkZnd1ZtSjNTalJ2Wms1RFRrUklXRnBhVGxwWGNpMVZUVFI0Uld0blFSSVhZV05UZG1GMU4zcEpkRFpvYTFCSlVEZE9abEZ2VVhNYUlrRkVjM0k1WmxGWWFrdFBRamh6V1U1NWNreEpUR1ZWWjJObGQxUjBTRGxwVjFFIiwiZmN2IjoiMyIsImVpIjoiYWNTdmF1N3pJdDZoa1BJUDdOZlFvUXMiLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFhOcGJiMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIElTUk8ncyBuZXh0IGxhdW5jaCBtaXNzaW9uPyIsImxrIjoiR2hocGMzSnZJRzVsZUhRZ2JHRjFibU5vSUcxcGMzTnBiMjQiLCJicyI6ImMtTnk1RklPejBnc1VjZ3NWdkFNRHZKWEwxYklTNjBvVWNoSkxNMUx6bERJelN3dXpzelBzemVTa3BMSUxDN0t4eWJKRmNtbEJUT2lKQ01WS0Z0Y0FwT0RLazFOVVVpcUJKdHZiNlF0cFZsT2pHcVFkVnlPWEhKZ28xTXlVOERhWVZZWHBTYW41cFhrVk5vYnlVdkpsc05VZ0YySXBvTExsVXNUMlhWNXFlV3BRQnVMQ3hLVFUtSDI1cWRCSFNjaEpRYjFaam1xRWdGR0FBIiwiaWQiOiJmY19hY1N2YXU3ekl0NmhrUElQN05mUW9Rc180In0=",
-    "page_token": "I-8BV3icHdBRjqIwGADg7GV8HAsEJ5qYTRioozuUUPwL-DIpLYrQ2jp2R-Rt7rKn2tNMMt8Rvq9_6nwZ_v_67Jyzt9V8fr_fn07GnFT7JIye89vjIuaCK9VwMawWzwvv91Gsk7_b6OW6jXKwlsUUFVqE2WaZcWa7NlYPUBA2Dw8OTDoa06xQ2LF9pCmmpg7SsNauEN7SyAsE1BcBqaK0PHt8j8Ybj2XOlX1jw8iyDYylJrHc4BfGbHx4pazt8zEtXcLVbmI9vraJilPAYVbJoUAebRJ5bRQhIsActDuUsCvSQaC3cgyIj3VWDSGtjKuQ1VLjVxiMz1g3SSxxitKp3sso6WRXe8SvKwjaQSGiuw9IVE5QqKFcUjGacw50Er3SgNSW9jstN-FB9CShce7ngb3v_V3dTOC3ifcH8tlRfK6D2c_n-v2o3cp-mNM3rRKDcw",
-    "question": "What is ISRO's next launch mission?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=I-8BV3icHdBRjqIwGADg7GV8HAsEJ5qYTRioozuUUPwL-DIpLYrQ2jp2R-Rt7rKn2tNMMt8Rvq9_6nwZ_v_67Jyzt9V8fr_fn07GnFT7JIye89vjIuaCK9VwMawWzwvv91Gsk7_b6OW6jXKwlsUUFVqE2WaZcWa7NlYPUBA2Dw8OTDoa06xQ2LF9pCmmpg7SsNauEN7SyAsE1BcBqaK0PHt8j8Ybj2XOlX1jw8iyDYylJrHc4BfGbHx4pazt8zEtXcLVbmI9vraJilPAYVbJoUAebRJ5bRQhIsActDuUsCvSQaC3cgyIj3VWDSGtjKuQ1VLjVxiMz1g3SSxxitKp3sso6WRXe8SvKwjaQSGiuw9IVE5QqKFcUjGacw50Er3SgNSW9jstN-FB9CShce7ngb3v_V3dTOC3ifcH8tlRfK6D2c_n-v2o3cp-mNM3rRKDcw",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNtaDJRVFJCZUMxaFJGaE9Sak5STm5CdWVraHNaRmhaTFdoRk1qVldaVVJHUVU5ak5tZEdRelZ3TW1aSU1sQXhaRzlVY1hGSlFXMUtjVmRJVkZnd1ZtSjNTalJ2Wms1RFRrUklXRnBhVGxwWGNpMVZUVFI0Uld0blFSSVhZV05UZG1GMU4zcEpkRFpvYTFCSlVEZE9abEZ2VVhNYUlrRkVjM0k1WmxGWWFrdFBRamh6V1U1NWNreEpUR1ZWWjJObGQxUjBTRGxwVjFFIiwiZmN2IjoiMyIsImVpIjoiYWNTdmF1N3pJdDZoa1BJUDdOZlFvUXMiLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFhOcGJiMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIElTUk8ncyBuZXh0IGxhdW5jaCBtaXNzaW9uPyIsImxrIjoiR2hocGMzSnZJRzVsZUhRZ2JHRjFibU5vSUcxcGMzTnBiMjQiLCJicyI6ImMtTnk1RklPejBnc1VjZ3NWdkFNRHZKWEwxYklTNjBvVWNoSkxNMUx6bERJelN3dXpzelBzemVTa3BMSUxDN0t4eWJKRmNtbEJUT2lKQ01WS0Z0Y0FwT0RLazFOVVVpcUJKdHZiNlF0cFZsT2pHcVFkVnlPWEhKZ28xTXlVOERhWVZZWHBTYW41cFhrVk5vYnlVdkpsc05VZ0YySXBvTExsVXNUMlhWNXFlV3BRQnVMQ3hLVFUtSDI1cWRCSFNjaEpRYjFaam1xRWdGR0FBIiwiaWQiOiJmY19hY1N2YXU3ekl0NmhrUElQN05mUW9Rc180In0%3D",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNtaDJRVFJCZUMxaFJGaE9Sak5STm5CdWVraHNaRmhaTFdoRk1qVldaVVJHUVU5ak5tZEdRelZ3TW1aSU1sQXhaRzlVY1hGSlFXMUtjVmRJVkZnd1ZtSjNTalJ2Wms1RFRrUklXRnBhVGxwWGNpMVZUVFI0Uld0blFSSVhZV05UZG1GMU4zcEpkRFpvYTFCSlVEZE9abEZ2VVhNYUlrRkVjM0k1WmxGWWFrdFBRamh6V1U1NWNreEpUR1ZWWjJObGQxUjBTRGxwVjFFIiwiZmN2IjoiMyIsImVpIjoiYWNTdmF1N3pJdDZoa1BJUDdOZlFvUXMiLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFhOcGJiMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsYXN0IG1pc3Npb24gbGF1bmNoZWQgYnkgSVNSTz8iLCJsayI6ImM1UFNMTTlJTEZISUxGWW95VWhWeUVrc0xsSEl6U3d1enN6UEEzSks4NUl6VWxNVWtpcUI4a1g1QUEiLCJicyI6ImMtTnk1RklPejBnc1VjZ3NWdkFNRHZKWEwxYklTNjBvVWNoSkxNMUx6bERJelN3dXpzelBzemVTa3BMSUxDN0t4eWJKRmNtbEJUT2lKQ01WS0Z0Y0FwT0RLazFOVVVpcUJKdHZiNlF0cFZsT2pHcVFkVnlPWEhKZ28xTXlVOERhWVZZWHBTYW41cFhrVk5vYnlVdkpsc05VZ0YySXBvTExsVXNUMlhWNXFlV3BRQnVMQ3hLVFUtSDI1cWRCSFNjaEpRYjFaam1xRWdGR0FBIiwiaWQiOiJmY19hY1N2YXU3ekl0NmhrUElQN05mUW9Rc180In0=",
-    "page_token": "AGxt_XicHdBdcqIwAADg2cv4WBOsbuuM06lCUGrjJJhA8rIDQYgkIWxl_Xvbu_RUPU139gLfw_f30x478_XjrIehP83H48vl8tB439jDg_JuXJxunRqrwtqyUGY--zmDL7VaRH82y9XvzZKwvuchBSlAsgRXUxrasTDpZDb1B1RtJeI95vxUHiHOoW5xdgKyw1xAid-jp4CAasfiZKtaVCvY3NNOyn08iIKjgcZJnq5lTTsdEyhJGaPdP9tWnHoFabuHr7d0BX3m9I25qxWWigKiswBgKgJYH6y4CddPGRB3HHBdcvlGDTyXvIHEvAdZm7Q7_rxR-TLmXAVZpI-pQUY6SSNdaQFxIHI2ORgLsNMfLLIEg6lj2TNVV38kjN5Vax0LSMDCpd_mCSGWrtN19Lif8LDkiU1RJbMQa0JGtTovJqP_n4tftRvm_YdvvgG-w4Ik",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVsOU9ibTlOTVRreVgyTnVjMmhFUm01a04yWnZOR1k0UXpZemFsSldVVEZxUWtsQ1pHUm1NSFpSTWpKS05HVTRWMVF5UlRKTlNrOVZiRXBWUTFwRVFXTkhOWFpvYjA5aVprSjVaM0V0Wlc1cGRHZG1PQzFsTXpjdFp4SVhhelJ0TldGMVExaE1ja3R3Y25WRlVHOUxlVkZ0UVc4YUlrRkVjM0k1WmxSM01ETnBSSGRIZEd4ZllXVktWWEJRZHpSdU4wSlZNMkoxYTFFIiwiZmN2IjoiMyIsImVpIjoiazRtNWF1Q1hMcktwcnVFUG9LeVFtQW8iLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFZPaDZYdEFRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsYXN0IG1pc3Npb24gbGF1bmNoZWQgYnkgSVNSTz8iLCJsayI6ImM1UFNMTTlJTEZISUxGWW95VWhWeUVrc0xsSEl6U3d1enN6UEEzSks4NUl6VWxNVWtpcUI4a1g1QUEiLCJicyI6ImMtT0s1TklLejBnc1VjZ3NWaWpKU0ZYSVNTd3VVY2pOTEM3T3pNOERja3J6a2pOU1V4U1NLaFU4ZzRQODdZMjBwVFRMaVZHZFdWeVV6MlhIcFF3ekdxUmJ2VmdoTDdXaUJLcE9JVE5Qd2NqQXlNemVTRnhLRktRY1JSSWt3eFhJcFJhZWtRbFNDckd0dENBNVB6Y3pMeDF1WTM0YTFGbnFVcXJsaEZTQ25SVEZwZU1KZDQxN1lucGlYbVZpWWg1Y1dVcHFUbUlsMEFjbC1WQzNhVWxwZ1BRQkZhY1RVaXpBQ0FBIiwiaWQiOiJmY19rNG01YXVDWExyS3BydUVQb0t5UW1Bb181In0=",
+    "page_token": "0kmsvHicHdBdToMwAADgeBkfXcvPdEsWE6S4qW0stGX0xUA7Vkb5ccPB9uZdPJWnMfE7wvf9Y6u2_r05m2HoT8vZbBzHu33X7e3uTnXNLD9dWjVTubVFrurl_H4OH0u1Ql-b4OlzE1De9yKMAUMSS2HdRPRXvI79BCwY5-QoLL0wgDwhDMVi4xX1yznjD2CXYqCRqFi9KFkFnMwx8zch8x2ftoWLJw2jLm0mk0CCkxb7hJmpAKThkDoURpRYPO7CqMsskTgVua7gwGviyrWOWaiTOFpcqfvSq1rGmVWACAywiCRu_FQD8751qIeRj2S9d9SBeOm2L5lrjIQS09YGyOgjeQYw24owRdMlcYOL5oIWYPB5CoNi6irK46s62EastVccIpIgmBO44EVLXt9YEGZWnzgSkWq0lONtqc4r9_b_c_VRNsOyP3b7P1bvgOQ",
     "question": "What is the last mission launched by ISRO?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AGxt_XicHdBdcqIwAADg2cv4WBOsbuuM06lCUGrjJJhA8rIDQYgkIWxl_Xvbu_RUPU139gLfw_f30x478_XjrIehP83H48vl8tB439jDg_JuXJxunRqrwtqyUGY--zmDL7VaRH82y9XvzZKwvuchBSlAsgRXUxrasTDpZDb1B1RtJeI95vxUHiHOoW5xdgKyw1xAid-jp4CAasfiZKtaVCvY3NNOyn08iIKjgcZJnq5lTTsdEyhJGaPdP9tWnHoFabuHr7d0BX3m9I25qxWWigKiswBgKgJYH6y4CddPGRB3HHBdcvlGDTyXvIHEvAdZm7Q7_rxR-TLmXAVZpI-pQUY6SSNdaQFxIHI2ORgLsNMfLLIEg6lj2TNVV38kjN5Vax0LSMDCpd_mCSGWrtN19Lif8LDkiU1RJbMQa0JGtTovJqP_n4tftRvm_YdvvgG-w4Ik",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNtaDJRVFJCZUMxaFJGaE9Sak5STm5CdWVraHNaRmhaTFdoRk1qVldaVVJHUVU5ak5tZEdRelZ3TW1aSU1sQXhaRzlVY1hGSlFXMUtjVmRJVkZnd1ZtSjNTalJ2Wms1RFRrUklXRnBhVGxwWGNpMVZUVFI0Uld0blFSSVhZV05UZG1GMU4zcEpkRFpvYTFCSlVEZE9abEZ2VVhNYUlrRkVjM0k1WmxGWWFrdFBRamh6V1U1NWNreEpUR1ZWWjJObGQxUjBTRGxwVjFFIiwiZmN2IjoiMyIsImVpIjoiYWNTdmF1N3pJdDZoa1BJUDdOZlFvUXMiLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFhOcGJiMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsYXN0IG1pc3Npb24gbGF1bmNoZWQgYnkgSVNSTz8iLCJsayI6ImM1UFNMTTlJTEZISUxGWW95VWhWeUVrc0xsSEl6U3d1enN6UEEzSks4NUl6VWxNVWtpcUI4a1g1QUEiLCJicyI6ImMtTnk1RklPejBnc1VjZ3NWdkFNRHZKWEwxYklTNjBvVWNoSkxNMUx6bERJelN3dXpzelBzemVTa3BMSUxDN0t4eWJKRmNtbEJUT2lKQ01WS0Z0Y0FwT0RLazFOVVVpcUJKdHZiNlF0cFZsT2pHcVFkVnlPWEhKZ28xTXlVOERhWVZZWHBTYW41cFhrVk5vYnlVdkpsc05VZ0YySXBvTExsVXNUMlhWNXFlV3BRQnVMQ3hLVFUtSDI1cWRCSFNjaEpRYjFaam1xRWdGR0FBIiwiaWQiOiJmY19hY1N2YXU3ekl0NmhrUElQN05mUW9Rc180In0%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0kmsvHicHdBdToMwAADgeBkfXcvPdEsWE6S4qW0stGX0xUA7Vkb5ccPB9uZdPJWnMfE7wvf9Y6u2_r05m2HoT8vZbBzHu33X7e3uTnXNLD9dWjVTubVFrurl_H4OH0u1Ql-b4OlzE1De9yKMAUMSS2HdRPRXvI79BCwY5-QoLL0wgDwhDMVi4xX1yznjD2CXYqCRqFi9KFkFnMwx8zch8x2ftoWLJw2jLm0mk0CCkxb7hJmpAKThkDoURpRYPO7CqMsskTgVua7gwGviyrWOWaiTOFpcqfvSq1rGmVWACAywiCRu_FQD8751qIeRj2S9d9SBeOm2L5lrjIQS09YGyOgjeQYw24owRdMlcYOL5oIWYPB5CoNi6irK46s62EastVccIpIgmBO44EVLXt9YEGZWnzgSkWq0lONtqc4r9_b_c_VRNsOyP3b7P1bvgOQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVsOU9ibTlOTVRreVgyTnVjMmhFUm01a04yWnZOR1k0UXpZemFsSldVVEZxUWtsQ1pHUm1NSFpSTWpKS05HVTRWMVF5UlRKTlNrOVZiRXBWUTFwRVFXTkhOWFpvYjA5aVprSjVaM0V0Wlc1cGRHZG1PQzFsTXpjdFp4SVhhelJ0TldGMVExaE1ja3R3Y25WRlVHOUxlVkZ0UVc4YUlrRkVjM0k1WmxSM01ETnBSSGRIZEd4ZllXVktWWEJRZHpSdU4wSlZNMkoxYTFFIiwiZmN2IjoiMyIsImVpIjoiazRtNWF1Q1hMcktwcnVFUG9LeVFtQW8iLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFZPaDZYdEFRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsYXN0IG1pc3Npb24gbGF1bmNoZWQgYnkgSVNSTz8iLCJsayI6ImM1UFNMTTlJTEZISUxGWW95VWhWeUVrc0xsSEl6U3d1enN6UEEzSks4NUl6VWxNVWtpcUI4a1g1QUEiLCJicyI6ImMtT0s1TklLejBnc1VjZ3NWaWpKU0ZYSVNTd3VVY2pOTEM3T3pNOERja3J6a2pOU1V4U1NLaFU4ZzRQODdZMjBwVFRMaVZHZFdWeVV6MlhIcFF3ekdxUmJ2VmdoTDdXaUJLcE9JVE5Qd2NqQXlNemVTRnhLRktRY1JSSWt3eFhJcFJhZWtRbFNDckd0dENBNVB6Y3pMeDF1WTM0YTFGbnFVcXJsaEZTQ25SVEZwZU1KZDQxN1lucGlYbVZpWWg1Y1dVcHFUbUlsMEFjbC1WQzNhVWxwZ1BRQkZhY1RVaXpBQ0FBIiwiaWQiOiJmY19rNG01YXVDWExyS3BydUVQb0t5UW1Bb181In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNtaDJRVFJCZUMxaFJGaE9Sak5STm5CdWVraHNaRmhaTFdoRk1qVldaVVJHUVU5ak5tZEdRelZ3TW1aSU1sQXhaRzlVY1hGSlFXMUtjVmRJVkZnd1ZtSjNTalJ2Wms1RFRrUklXRnBhVGxwWGNpMVZUVFI0Uld0blFSSVhZV05UZG1GMU4zcEpkRFpvYTFCSlVEZE9abEZ2VVhNYUlrRkVjM0k1WmxGWWFrdFBRamh6V1U1NWNreEpUR1ZWWjJObGQxUjBTRGxwVjFFIiwiZmN2IjoiMyIsImVpIjoiYWNTdmF1N3pJdDZoa1BJUDdOZlFvUXMiLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFhOcGJiMkFBIiwicXVlc3Rpb24iOiJXaGF0IGRpZCBJU1JPIGxhdW5jaCByZWNlbnRseT8iLCJsayI6IkdoMTNhR0YwSUdScFpDQnBjM0p2SUd4aGRXNWphQ0J5WldObGJuUnNlUSIsImJzIjoiYy1OeTVGSU96MGdzVWNnc1Z2QU1EdkpYTDFiSVM2MG9VY2hKTE0xTHpsREl6U3d1enN6UHN6ZVNrcExJTEM3S3h5YkpGY21sQlRPaUpDTVZLRnRjQXBPREtrMU5VVWlxQkp0dmI2UXRwVmxPakdxUWRWeU9YSEpnbzFNeVU4RGFZVllYcFNhbjVwWGtWTm9ieVV2SmxzTlVnRjJJcG9MTGxVc1QyWFY1cWVXcFFCdUxDeEtUVS1IMjVxZEJIU2NoSlFiMVpqbXFFZ0ZHQUEiLCJpZCI6ImZjX2FjU3ZhdTd6SXQ2aGtQSVA3TmZRb1FzXzQifQ==",
-    "page_token": "93XSmHicHdDNboIwAADg7GU8CoXppolZhqM4ktbQ0ha4LBREtPw0QizstnfZU-1ptuz4Xb-v7-bSqZ-HpB5HPWwtyxizPPf9uTkti7618mHuCqvIm0bmhdqun9bgpSp2_mC8fW-8iGnN34hNxcY_wXBA7rtLAjwVVw4ZD10GsHPq9J3FqS06ryYwy7lNqgjUznEPLsIHSh5qjZUZmQ33qF3RMsB51o5D7GyQENORdThldh1IxRMEnx9lpwepMMuZvkkIeSxwioKJYlVXpatTHPuOYCuUzMBBDiekwUDaRP95SpmZmR2GVEQUOvDK3Kwu43JNk8jJgzGi_NWN24xIAD-DS-iRA56PIqMZLyHiG5SL0Ui4EYVSE4XaYIBdFnAfByVZVMV95y7-x3YfVTtu9a0__wJgNXdB",
-    "question": "What did ISRO launch recently?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=93XSmHicHdDNboIwAADg7GU8CoXppolZhqM4ktbQ0ha4LBREtPw0QizstnfZU-1ptuz4Xb-v7-bSqZ-HpB5HPWwtyxizPPf9uTkti7618mHuCqvIm0bmhdqun9bgpSp2_mC8fW-8iGnN34hNxcY_wXBA7rtLAjwVVw4ZD10GsHPq9J3FqS06ryYwy7lNqgjUznEPLsIHSh5qjZUZmQ33qF3RMsB51o5D7GyQENORdThldh1IxRMEnx9lpwepMMuZvkkIeSxwioKJYlVXpatTHPuOYCuUzMBBDiekwUDaRP95SpmZmR2GVEQUOvDK3Kwu43JNk8jJgzGi_NWN24xIAD-DS-iRA56PIqMZLyHiG5SL0Ui4EYVSE4XaYIBdFnAfByVZVMV95y7-x3YfVTtu9a0__wJgNXdB",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNtaDJRVFJCZUMxaFJGaE9Sak5STm5CdWVraHNaRmhaTFdoRk1qVldaVVJHUVU5ak5tZEdRelZ3TW1aSU1sQXhaRzlVY1hGSlFXMUtjVmRJVkZnd1ZtSjNTalJ2Wms1RFRrUklXRnBhVGxwWGNpMVZUVFI0Uld0blFSSVhZV05UZG1GMU4zcEpkRFpvYTFCSlVEZE9abEZ2VVhNYUlrRkVjM0k1WmxGWWFrdFBRamh6V1U1NWNreEpUR1ZWWjJObGQxUjBTRGxwVjFFIiwiZmN2IjoiMyIsImVpIjoiYWNTdmF1N3pJdDZoa1BJUDdOZlFvUXMiLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFhOcGJiMkFBIiwicXVlc3Rpb24iOiJXaGF0IGRpZCBJU1JPIGxhdW5jaCByZWNlbnRseT8iLCJsayI6IkdoMTNhR0YwSUdScFpDQnBjM0p2SUd4aGRXNWphQ0J5WldObGJuUnNlUSIsImJzIjoiYy1OeTVGSU96MGdzVWNnc1Z2QU1EdkpYTDFiSVM2MG9VY2hKTE0xTHpsREl6U3d1enN6UHN6ZVNrcExJTEM3S3h5YkpGY21sQlRPaUpDTVZLRnRjQXBPREtrMU5VVWlxQkp0dmI2UXRwVmxPakdxUWRWeU9YSEpnbzFNeVU4RGFZVllYcFNhbjVwWGtWTm9ieVV2SmxzTlVnRjJJcG9MTGxVc1QyWFY1cWVXcFFCdUxDeEtUVS1IMjVxZEJIU2NoSlFiMVpqbXFFZ0ZHQUEiLCJpZCI6ImZjX2FjU3ZhdTd6SXQ2aGtQSVA3TmZRb1FzXzQifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVsOU9ibTlOTVRreVgyTnVjMmhFUm01a04yWnZOR1k0UXpZemFsSldVVEZxUWtsQ1pHUm1NSFpSTWpKS05HVTRWMVF5UlRKTlNrOVZiRXBWUTFwRVFXTkhOWFpvYjA5aVprSjVaM0V0Wlc1cGRHZG1PQzFsTXpjdFp4SVhhelJ0TldGMVExaE1ja3R3Y25WRlVHOUxlVkZ0UVc4YUlrRkVjM0k1WmxSM01ETnBSSGRIZEd4ZllXVktWWEJRZHpSdU4wSlZNMkoxYTFFIiwiZmN2IjoiMyIsImVpIjoiazRtNWF1Q1hMcktwcnVFUG9LeVFtQW8iLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFZPaDZYdEFRIiwicXVlc3Rpb24iOiJXaGF0IGlzIElTUk8ncyBuZXh0IGxhdW5jaCBpbiAyMDI2PyIsImxrIjoiR2hWcGMzSnZJRzVsZUhRZ2JHRjFibU5vSURJd01qWSIsImJzIjoiYy1PSzVOSUt6MGdzVWNnc1ZpakpTRlhJU1N3dVVjak5MQzdPek04RGNrcnprak5TVXhTU0toVThnNFA4N1kyMHBUVExpVkdkV1Z5VXoyWEhwUXd6R3FSYnZWZ2hMN1dpQktwT0lUTlB3Y2pBeU16ZVNGeEtGS1FjUlJJa3d4WElwUmFla1FsU0NyR3R0Q0E1UHpjekx4MXVZMzRhMUZucVVxcmxoRlNDblJURnBlTUpkNDE3WW5waVhtVmlZaDVjV1VwcVRtSWwwQWNsLVZDM2FVbHBnUFFCRmFjVFVpekFDQUEiLCJpZCI6ImZjX2s0bTVhdUNYTHJLcHJ1RVBvS3lRbUFvXzUifQ==",
+    "page_token": "i8_H3XicHdDBboIwHIDx7GU8CtLhNhOzpMMOia2h0Ba4LFBQhD_ClEngtnfZU-1pZnb8Lr_D9_0Dp3P9-xCVfd9dV4YxDMP82LZHKOa6bYz0Op61oVOALNX1avm0XLwe9HpzHfBbO2BfdJ10uBlUnq-bPmAVfNKQf2khgdXcSSMPdspDUnE_WQiLmwwKkI6on61YapM3nUMVeQwRY5nZEx3pKZGS8rpESUUobdgo5MtJoC7ILF4WstsWG5ZQxO6WHmkErlI2U6SzWUgu0QQsnljsW9LOoYS9uhewiya4jOthSjfgUER21NkGxLqaWSjLXLA4dL2ddr0Fl_gWIOCZILf3k4e5y8a9SriYvK1vwhQgbKdm3ecOrmKUp1TqIQFZ5W6OZwd9W6PZ_7H1x6HpV92lPf4BVRl4gA",
+    "question": "What is ISRO's next launch in 2026?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=i8_H3XicHdDBboIwHIDx7GU8CtLhNhOzpMMOia2h0Ba4LFBQhD_ClEngtnfZU-1pZnb8Lr_D9_0Dp3P9-xCVfd9dV4YxDMP82LZHKOa6bYz0Op61oVOALNX1avm0XLwe9HpzHfBbO2BfdJ10uBlUnq-bPmAVfNKQf2khgdXcSSMPdspDUnE_WQiLmwwKkI6on61YapM3nUMVeQwRY5nZEx3pKZGS8rpESUUobdgo5MtJoC7ILF4WstsWG5ZQxO6WHmkErlI2U6SzWUgu0QQsnljsW9LOoYS9uhewiya4jOthSjfgUER21NkGxLqaWSjLXLA4dL2ddr0Fl_gWIOCZILf3k4e5y8a9SriYvK1vwhQgbKdm3ecOrmKUp1TqIQFZ5W6OZwd9W6PZ_7H1x6HpV92lPf4BVRl4gA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVsOU9ibTlOTVRreVgyTnVjMmhFUm01a04yWnZOR1k0UXpZemFsSldVVEZxUWtsQ1pHUm1NSFpSTWpKS05HVTRWMVF5UlRKTlNrOVZiRXBWUTFwRVFXTkhOWFpvYjA5aVprSjVaM0V0Wlc1cGRHZG1PQzFsTXpjdFp4SVhhelJ0TldGMVExaE1ja3R3Y25WRlVHOUxlVkZ0UVc4YUlrRkVjM0k1WmxSM01ETnBSSGRIZEd4ZllXVktWWEJRZHpSdU4wSlZNMkoxYTFFIiwiZmN2IjoiMyIsImVpIjoiazRtNWF1Q1hMcktwcnVFUG9LeVFtQW8iLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFZPaDZYdEFRIiwicXVlc3Rpb24iOiJXaGF0IGlzIElTUk8ncyBuZXh0IGxhdW5jaCBpbiAyMDI2PyIsImxrIjoiR2hWcGMzSnZJRzVsZUhRZ2JHRjFibU5vSURJd01qWSIsImJzIjoiYy1PSzVOSUt6MGdzVWNnc1ZpakpTRlhJU1N3dVVjak5MQzdPek04RGNrcnprak5TVXhTU0toVThnNFA4N1kyMHBUVExpVkdkV1Z5VXoyWEhwUXd6R3FSYnZWZ2hMN1dpQktwT0lUTlB3Y2pBeU16ZVNGeEtGS1FjUlJJa3d4WElwUmFla1FsU0NyR3R0Q0E1UHpjekx4MXVZMzRhMUZucVVxcmxoRlNDblJURnBlTUpkNDE3WW5waVhtVmlZaDVjV1VwcVRtSWwwQWNsLVZDM2FVbHBnUFFCRmFjVFVpekFDQUEiLCJpZCI6ImZjX2s0bTVhdUNYTHJLcHJ1RVBvS3lRbUFvXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNtaDJRVFJCZUMxaFJGaE9Sak5STm5CdWVraHNaRmhaTFdoRk1qVldaVVJHUVU5ak5tZEdRelZ3TW1aSU1sQXhaRzlVY1hGSlFXMUtjVmRJVkZnd1ZtSjNTalJ2Wms1RFRrUklXRnBhVGxwWGNpMVZUVFI0Uld0blFSSVhZV05UZG1GMU4zcEpkRFpvYTFCSlVEZE9abEZ2VVhNYUlrRkVjM0k1WmxGWWFrdFBRamh6V1U1NWNreEpUR1ZWWjJObGQxUjBTRGxwVjFFIiwiZmN2IjoiMyIsImVpIjoiYWNTdmF1N3pJdDZoa1BJUDdOZlFvUXMiLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFhOcGJiMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuZXdlc3Qgc3BhY2UgbWlzc2lvbiBvZiBJU1JPPyIsImxrIjoiR2hacGMzSnZJRzVsZHlCemNHRmpaU0J0YVhOemFXOXUiLCJicyI6ImMtTnk1RklPejBnc1VjZ3NWdkFNRHZKWEwxYklTNjBvVWNoSkxNMUx6bERJelN3dXpzelBzemVTa3BMSUxDN0t4eWJKRmNtbEJUT2lKQ01WS0Z0Y0FwT0RLazFOVVVpcUJKdHZiNlF0cFZsT2pHcVFkVnlPWEhKZ28xTXlVOERhWVZZWHBTYW41cFhrVk5vYnlVdkpsc05VZ0YySXBvTExsVXNUMlhWNXFlV3BRQnVMQ3hLVFUtSDI1cWRCSFNjaEpRYjFaam1xRWdGR0FBIiwiaWQiOiJmY19hY1N2YXU3ekl0NmhrUElQN05mUW9Rc180In0=",
-    "page_token": "aoV_Y3icHdBdboIwAADg7DI-aiuZS0zMovJTiUBabAt9WUqrIhRoBhmDt91lp9pptuwC38P39W0ebf3zlJXDYPvtajWO4_LedXdzXaquWcl-atVKSWMKqert5mUDX29q5_Xj4diNB0ytZS4BKRCfqqEThpYyN18TZM6RG9eKEy8DxF5AN3NjS-rcQeH1QCIxCXfvFG2Jc6ZhwsuAcx1J4zcRoqPm-UQcv7vMAsQ--UM1vCKSRFQcuQegRNq_UlGxKq7yOgQCGZqvGS8YS6Q5ZBHVp3MWotTBEzXeTJGIMTw9Kzd80LkMCoBTf-1X1BGlvuhNmuG1DAacsr1zaQQpoD8Hj_BAUDwlXKSkgZa38SyDkGJmc-WyOaqHmsJoOnOLE6bbxU197JzF_9ju7dYMW_ve3X8BIyh4gA",
-    "question": "What is the newest space mission of ISRO?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=aoV_Y3icHdBdboIwAADg7DI-aiuZS0zMovJTiUBabAt9WUqrIhRoBhmDt91lp9pptuwC38P39W0ebf3zlJXDYPvtajWO4_LedXdzXaquWcl-atVKSWMKqert5mUDX29q5_Xj4diNB0ytZS4BKRCfqqEThpYyN18TZM6RG9eKEy8DxF5AN3NjS-rcQeH1QCIxCXfvFG2Jc6ZhwsuAcx1J4zcRoqPm-UQcv7vMAsQ--UM1vCKSRFQcuQegRNq_UlGxKq7yOgQCGZqvGS8YS6Q5ZBHVp3MWotTBEzXeTJGIMTw9Kzd80LkMCoBTf-1X1BGlvuhNmuG1DAacsr1zaQQpoD8Hj_BAUDwlXKSkgZa38SyDkGJmc-WyOaqHmsJoOnOLE6bbxU197JzF_9ju7dYMW_ve3X8BIyh4gA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNtaDJRVFJCZUMxaFJGaE9Sak5STm5CdWVraHNaRmhaTFdoRk1qVldaVVJHUVU5ak5tZEdRelZ3TW1aSU1sQXhaRzlVY1hGSlFXMUtjVmRJVkZnd1ZtSjNTalJ2Wms1RFRrUklXRnBhVGxwWGNpMVZUVFI0Uld0blFSSVhZV05UZG1GMU4zcEpkRFpvYTFCSlVEZE9abEZ2VVhNYUlrRkVjM0k1WmxGWWFrdFBRamh6V1U1NWNreEpUR1ZWWjJObGQxUjBTRGxwVjFFIiwiZmN2IjoiMyIsImVpIjoiYWNTdmF1N3pJdDZoa1BJUDdOZlFvUXMiLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFhOcGJiMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuZXdlc3Qgc3BhY2UgbWlzc2lvbiBvZiBJU1JPPyIsImxrIjoiR2hacGMzSnZJRzVsZHlCemNHRmpaU0J0YVhOemFXOXUiLCJicyI6ImMtTnk1RklPejBnc1VjZ3NWdkFNRHZKWEwxYklTNjBvVWNoSkxNMUx6bERJelN3dXpzelBzemVTa3BMSUxDN0t4eWJKRmNtbEJUT2lKQ01WS0Z0Y0FwT0RLazFOVVVpcUJKdHZiNlF0cFZsT2pHcVFkVnlPWEhKZ28xTXlVOERhWVZZWHBTYW41cFhrVk5vYnlVdkpsc05VZ0YySXBvTExsVXNUMlhWNXFlV3BRQnVMQ3hLVFUtSDI1cWRCSFNjaEpRYjFaam1xRWdGR0FBIiwiaWQiOiJmY19hY1N2YXU3ekl0NmhrUElQN05mUW9Rc180In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVsOU9ibTlOTVRreVgyTnVjMmhFUm01a04yWnZOR1k0UXpZemFsSldVVEZxUWtsQ1pHUm1NSFpSTWpKS05HVTRWMVF5UlRKTlNrOVZiRXBWUTFwRVFXTkhOWFpvYjA5aVprSjVaM0V0Wlc1cGRHZG1PQzFsTXpjdFp4SVhhelJ0TldGMVExaE1ja3R3Y25WRlVHOUxlVkZ0UVc4YUlrRkVjM0k1WmxSM01ETnBSSGRIZEd4ZllXVktWWEJRZHpSdU4wSlZNMkoxYTFFIiwiZmN2IjoiMyIsImVpIjoiazRtNWF1Q1hMcktwcnVFUG9LeVFtQW8iLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFZPaDZYdEFRIiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgdXBjb21pbmcgbWlzc2lvbiBvZiBJU1JPPyIsImxrIjoiR2lWM2FHbGphQ0JwY3lCMGFHVWdkWEJqYjIxcGJtY2diV2x6YzJsdmJpQnZaaUJwYzNKdiIsImJzIjoiYy1PSzVOSUt6MGdzVWNnc1ZpakpTRlhJU1N3dVVjak5MQzdPek04RGNrcnprak5TVXhTU0toVThnNFA4N1kyMHBUVExpVkdkV1Z5VXoyWEhwUXd6R3FSYnZWZ2hMN1dpQktwT0lUTlB3Y2pBeU16ZVNGeEtGS1FjUlJJa3d4WElwUmFla1FsU0NyR3R0Q0E1UHpjekx4MXVZMzRhMUZucVVxcmxoRlNDblJURnBlTUpkNDE3WW5waVhtVmlZaDVjV1VwcVRtSWwwQWNsLVZDM2FVbHBnUFFCRmFjVFVpekFDQUEiLCJpZCI6ImZjX2s0bTVhdUNYTHJLcHJ1RVBvS3lRbUFvXzUifQ==",
+    "page_token": "z7m8f3icHdBBbqMwGEBhzWWybOw6ZJRI0UgUQ0CFqYHfNN5UYE9CYoPdhhbIbu4yp5rTtOryrT7p_f1nzr3-_-OjHQZ33S6X4zjenaw9mT930nbL-jr3cilrY5pa6u365xr_OsodfY_9h9fYZ-AcD3JU9PSWkvCRBzwUofEyI16FdnMD4wqwnB8rwAXdOEX8S6EF5UTOJbJTqbNjiTeYY0YyEp5LbqIy4lV6iWfACQMq4qJUVnV4xfduUkaEitup0JmGM_4qV9QkHOVeI2bCL2bzUN8z1JDWKKDo957bKhDAqvQGQRjLTlylbsXBqCg1yVPKM08GySHFfJaQJHmfT1Xk-bRVb1mE8OGZBxWd5oL4swLOGjR4UGG_meyZQX6TF9MBV0_lJWvTDq3gvn2ve0MrcHnN21VJB18i6wFbHOXHjiy-f-5ejt2wdW_29AlqDoJS",
+    "question": "Which is the upcoming mission of ISRO?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=z7m8f3icHdBBbqMwGEBhzWWybOw6ZJRI0UgUQ0CFqYHfNN5UYE9CYoPdhhbIbu4yp5rTtOryrT7p_f1nzr3-_-OjHQZ33S6X4zjenaw9mT930nbL-jr3cilrY5pa6u365xr_OsodfY_9h9fYZ-AcD3JU9PSWkvCRBzwUofEyI16FdnMD4wqwnB8rwAXdOEX8S6EF5UTOJbJTqbNjiTeYY0YyEp5LbqIy4lV6iWfACQMq4qJUVnV4xfduUkaEitup0JmGM_4qV9QkHOVeI2bCL2bzUN8z1JDWKKDo957bKhDAqvQGQRjLTlylbsXBqCg1yVPKM08GySHFfJaQJHmfT1Xk-bRVb1mE8OGZBxWd5oL4swLOGjR4UGG_meyZQX6TF9MBV0_lJWvTDq3gvn2ve0MrcHnN21VJB18i6wFbHOXHjiy-f-5ejt2wdW_29AlqDoJS",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVsOU9ibTlOTVRreVgyTnVjMmhFUm01a04yWnZOR1k0UXpZemFsSldVVEZxUWtsQ1pHUm1NSFpSTWpKS05HVTRWMVF5UlRKTlNrOVZiRXBWUTFwRVFXTkhOWFpvYjA5aVprSjVaM0V0Wlc1cGRHZG1PQzFsTXpjdFp4SVhhelJ0TldGMVExaE1ja3R3Y25WRlVHOUxlVkZ0UVc4YUlrRkVjM0k1WmxSM01ETnBSSGRIZEd4ZllXVktWWEJRZHpSdU4wSlZNMkoxYTFFIiwiZmN2IjoiMyIsImVpIjoiazRtNWF1Q1hMcktwcnVFUG9LeVFtQW8iLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFZPaDZYdEFRIiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgdXBjb21pbmcgbWlzc2lvbiBvZiBJU1JPPyIsImxrIjoiR2lWM2FHbGphQ0JwY3lCMGFHVWdkWEJqYjIxcGJtY2diV2x6YzJsdmJpQnZaaUJwYzNKdiIsImJzIjoiYy1PSzVOSUt6MGdzVWNnc1ZpakpTRlhJU1N3dVVjak5MQzdPek04RGNrcnprak5TVXhTU0toVThnNFA4N1kyMHBUVExpVkdkV1Z5VXoyWEhwUXd6R3FSYnZWZ2hMN1dpQktwT0lUTlB3Y2pBeU16ZVNGeEtGS1FjUlJJa3d4WElwUmFla1FsU0NyR3R0Q0E1UHpjekx4MXVZMzRhMUZucVVxcmxoRlNDblJURnBlTUpkNDE3WW5waVhtVmlZaDVjV1VwcVRtSWwwQWNsLVZDM2FVbHBnUFFCRmFjVFVpekFDQUEiLCJpZCI6ImZjX2s0bTVhdUNYTHJLcHJ1RVBvS3lRbUFvXzUifQ%3D%3D",
     "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&q=What+is+the+latest+isro+mission+launch+today&sa=X&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ1QJ6BAg4EAE",
-    "query": "What is the latest isro mission launch today",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+isro+mission+launch+today"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&q=Recent+satellite+launched+by+NASA&sa=X&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ1QJ6BAg7EAE",
-    "query": "Recent satellite launched by NASA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Recent+satellite+launched+by+NASA"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&q=ISRO+latest+launch&sa=X&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ1QJ6BAg6EAE",
-    "query": "ISRO latest launch",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ISRO+latest+launch"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQntUEMScae0SgyBQU6f8-FkqROq07g:1789903977578&q=What+is+the+latest+isro+mission+launch+2022&sa=X&ved=2ahUKEwiuzI_2h_2WAxXeEEQIHewrNLQQ1QJ6BAg5EAE",
-    "query": "What is the latest isro mission launch 2022",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+isro+mission+launch+2022"
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVsOU9ibTlOTVRreVgyTnVjMmhFUm01a04yWnZOR1k0UXpZemFsSldVVEZxUWtsQ1pHUm1NSFpSTWpKS05HVTRWMVF5UlRKTlNrOVZiRXBWUTFwRVFXTkhOWFpvYjA5aVprSjVaM0V0Wlc1cGRHZG1PQzFsTXpjdFp4SVhhelJ0TldGMVExaE1ja3R3Y25WRlVHOUxlVkZ0UVc4YUlrRkVjM0k1WmxSM01ETnBSSGRIZEd4ZllXVktWWEJRZHpSdU4wSlZNMkoxYTFFIiwiZmN2IjoiMyIsImVpIjoiazRtNWF1Q1hMcktwcnVFUG9LeVFtQW8iLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFZPaDZYdEFRIiwicXVlc3Rpb24iOiJJcyBJU1JPJ3MgR2FnYW55YWFuIG1pc3Npb24gZGVsYXllZCB0byAyMDI2PyIsImxrIjoiR2locGMzSnZKM01nWjJGbllXNTVZV0Z1SUcxcGMzTnBiMjRnWkdWc1lYbGxaQ0IwYnlBeU1ESTIiLCJicyI6ImMtT0s1TklLejBnc1VjZ3NWaWpKU0ZYSVNTd3VVY2pOTEM3T3pNOERja3J6a2pOU1V4U1NLaFU4ZzRQODdZMjBwVFRMaVZHZFdWeVV6MlhIcFF3ekdxUmJ2VmdoTDdXaUJLcE9JVE5Qd2NqQXlNemVTRnhLRktRY1JSSWt3eFhJcFJhZWtRbFNDckd0dENBNVB6Y3pMeDF1WTM0YTFGbnFVcXJsaEZTQ25SVEZwZU1KZDQxN1lucGlYbVZpWWg1Y1dVcHFUbUlsMEFjbC1WQzNhVWxwZ1BRQkZhY1RVaXpBQ0FBIiwiaWQiOiJmY19rNG01YXVDWExyS3BydUVQb0t5UW1Bb181In0=",
+    "page_token": "spVt2XicHdBLUsIwAADQ8TIsgVBRywzjWIiFalOT5tNm45SEftOPUKCw8y6eytM44zvC-_4xRVP93p3zvu-Oi8nkcrmMs7bNzH6s2nqSHK-NmqjEmF2iqsXD4wN4TtUSnrbO6mvrYNZ1fE2mdK2xMv4M05fBL9EpNBzGVG8F9HwByUlWxpfukyVWAAVR53LYUWVIHIts9i7sd-72UgpC9sxje5jNkav6pJGvdKMAp-aD1_ZRcpmGAK1CNqRs49-LJj_ENLMk9wCbsQE1eaHhENPSqxQnCab6TVBuRPMaJE0GRMQDZHlvuLYbVplCR-hLVf2UGePtS2yRiBQBIz0FnMBcH5A7BXHE1wIO19ByrppxvJv2cyaAsxvaAjNyU6WpOeSlduduEjl5GCE33MhW1_JMbnkQM_uoZ3bI8ChV56U1-v9cfqZ1v-gObfYHPjeDtg",
+    "question": "Is ISRO's Gaganyaan mission delayed to 2026?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=spVt2XicHdBLUsIwAADQ8TIsgVBRywzjWIiFalOT5tNm45SEftOPUKCw8y6eytM44zvC-_4xRVP93p3zvu-Oi8nkcrmMs7bNzH6s2nqSHK-NmqjEmF2iqsXD4wN4TtUSnrbO6mvrYNZ1fE2mdK2xMv4M05fBL9EpNBzGVG8F9HwByUlWxpfukyVWAAVR53LYUWVIHIts9i7sd-72UgpC9sxje5jNkav6pJGvdKMAp-aD1_ZRcpmGAK1CNqRs49-LJj_ENLMk9wCbsQE1eaHhENPSqxQnCab6TVBuRPMaJE0GRMQDZHlvuLYbVplCR-hLVf2UGePtS2yRiBQBIz0FnMBcH5A7BXHE1wIO19ByrppxvJv2cyaAsxvaAjNyU6WpOeSlduduEjl5GCE33MhW1_JMbnkQM_uoZ3bI8ChV56U1-v9cfqZ1v-gObfYHPjeDtg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVsOU9ibTlOTVRreVgyTnVjMmhFUm01a04yWnZOR1k0UXpZemFsSldVVEZxUWtsQ1pHUm1NSFpSTWpKS05HVTRWMVF5UlRKTlNrOVZiRXBWUTFwRVFXTkhOWFpvYjA5aVprSjVaM0V0Wlc1cGRHZG1PQzFsTXpjdFp4SVhhelJ0TldGMVExaE1ja3R3Y25WRlVHOUxlVkZ0UVc4YUlrRkVjM0k1WmxSM01ETnBSSGRIZEd4ZllXVktWWEJRZHpSdU4wSlZNMkoxYTFFIiwiZmN2IjoiMyIsImVpIjoiazRtNWF1Q1hMcktwcnVFUG9LeVFtQW8iLCJxYyI6ImMtTlNLODlJTEZISUxGWW95VWhWeUVrc1NTMEc4WXJ5RlhJemk0c3o4X09BWXFWNXlSa0NETFZPaDZYdEFRIiwicXVlc3Rpb24iOiJJcyBJU1JPJ3MgR2FnYW55YWFuIG1pc3Npb24gZGVsYXllZCB0byAyMDI2PyIsImxrIjoiR2locGMzSnZKM01nWjJGbllXNTVZV0Z1SUcxcGMzTnBiMjRnWkdWc1lYbGxaQ0IwYnlBeU1ESTIiLCJicyI6ImMtT0s1TklLejBnc1VjZ3NWaWpKU0ZYSVNTd3VVY2pOTEM3T3pNOERja3J6a2pOU1V4U1NLaFU4ZzRQODdZMjBwVFRMaVZHZFdWeVV6MlhIcFF3ekdxUmJ2VmdoTDdXaUJLcE9JVE5Qd2NqQXlNemVTRnhLRktRY1JSSWt3eFhJcFJhZWtRbFNDckd0dENBNVB6Y3pMeDF1WTM0YTFGbnFVcXJsaEZTQ25SVEZwZU1KZDQxN1lucGlYbVZpWWg1Y1dVcHFUbUlsMEFjbC1WQzNhVWxwZ1BRQkZhY1RVaXpBQ0FBIiwiaWQiOiJmY19rNG01YXVDWExyS3BydUVQb0t5UW1Bb181In0%3D",
+    "type": "ai_overview"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "What is the latest ISRO mission launch?",
-   "time_taken_displayed": 0.18,
-   "total_results": 111
+   "time_taken_displayed": 0.24,
+   "total_results": 102000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:32:57 UTC",
+   "created_at": "2026-09-27 21:24:35 UTC",
    "google_url": "https://www.google.com/search?q=What+is+the+latest+ISRO+mission+launch%3F&oq=What+is+the+latest+ISRO+mission+launch%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc469f3fc7be80c28df94",
-   "json_endpoint": "https://serpapi.com/searches/uc2I87gtNGSGOybJs6eT76xWUBcfuiodl-H5Tjnkmq0/6aafc469f3fc7be80c28df94.json",
-   "markdown_endpoint": "https://serpapi.com/searches/uc2I87gtNGSGOybJs6eT76xWUBcfuiodl-H5Tjnkmq0/6aafc469f3fc7be80c28df94.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/uc2I87gtNGSGOybJs6eT76xWUBcfuiodl-H5Tjnkmq0/6aafc469f3fc7be80c28df94.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:32:57 UTC",
-   "raw_html_file": "https://serpapi.com/searches/uc2I87gtNGSGOybJs6eT76xWUBcfuiodl-H5Tjnkmq0/6aafc469f3fc7be80c28df94.html",
+   "id": "6ab9899355ba655b2f38c75c",
+   "json_endpoint": "https://serpapi.com/searches/Z1t5E6kE0kFkIMN4UQtk_MtpqwFojCFCIYRD__Mw4ww/6ab9899355ba655b2f38c75c.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Z1t5E6kE0kFkIMN4UQtk_MtpqwFojCFCIYRD__Mw4ww/6ab9899355ba655b2f38c75c.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/Z1t5E6kE0kFkIMN4UQtk_MtpqwFojCFCIYRD__Mw4ww/6ab9899355ba655b2f38c75c.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:24:35 UTC",
+   "raw_html_file": "https://serpapi.com/searches/Z1t5E6kE0kFkIMN4UQtk_MtpqwFojCFCIYRD__Mw4ww/6ab9899355ba655b2f38c75c.html",
    "status": "Success",
-   "total_time_taken": 0.86
+   "total_time_taken": 0.66
   },
   "search_parameters": {
    "device": "desktop",
@@ -446,15 +339,8 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=80"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+ISRO+mission+launch%3F&start=20"
    }
   }
  },

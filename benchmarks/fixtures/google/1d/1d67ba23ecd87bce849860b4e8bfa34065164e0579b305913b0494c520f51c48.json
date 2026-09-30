@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 5935.31,
+ "elapsed_ms": 1093.549,
  "engine": "google",
- "fetched_at": "2026-09-20T11:37:40.256157+00:00",
+ "fetched_at": "2026-09-30T14:40:30.494513+00:00",
  "frugal_cache_version": 1,
  "key": "1d67ba23ecd87bce849860b4e8bfa34065164e0579b305913b0494c520f51c48",
  "params": {
@@ -10,431 +10,380 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "2fqp03iczVXbcqpIFP2A-Y7xJYlAvERSRZ3qhjbiHXNMwnmhuKVBgVbaSPRtPmL-YL5qvmaaiwYSTeach6nZVW3TzXZf12L_8VfgR8u_f_vT22xW9JbjkiSpY0Jw4NZtEnIm3UU290wCGtveN0peYtv1Hcn2YhK6td1WatRsKvE115dw53Fr0qf-wA7j1phMox_Klte0WmZCMiyTugvm4XVBOYNjP8vfGwo71GndjYw7WJ-bHZ7vToYvkV6_5gWxPuHMkOmA_06QhmG694F8Xom9Ql-bSg2oAKKSJRXgbIdvWnr-WtayVzI-aw3mPmeZusaWYux7icJui_ooZ__LXMDKMcliASDJooTA_zqbkmhFLoe8PqnUUbsqRfXI2025x5VYK4KTyrHLojCALL85KTtjZrxKGMdK2Rh0egQqEMzPx83qM1BBawk0dCqFsmjooXns3FC_Yzecgxlwec6K2SZwvu3Z2UNMUzzL30We9MbB_rWRbC3RC5et4JVvLWVMe_LGVDFnW0wvIKbjOoZn8N-ys3AttHixcdO5zLhk0yOZaJlMU_Bi3Q-9pr8H9WEdCgcayXnTwYeOIXaW1ROJQblQPdHiErDThhUt1bplu0UrYYprNAPV1g6maV3vDkeG0T1rTVnjzWsK_o80ygWXlOVZHohKCsWyRq51h473Zbio4NRn5n3eWg8cstAWHxQrBGShgCU4FEZ_b1kHmoxRygEZ9WBRNbtqQy4XoAgYAfaFKk7oGCAqlEo5pCVQNTACKmI2_bnKeoBTrOaBpmAofHXRO8adAbzK3DzK_-bTd0LgVyRKRTvw5R38y7RBg6eH73jgbkfX49d545mCUBfVGyzOdHCaJiS0fm7o2P8rLuUjCRUj6TyX0NdcykYS_GQkZc_6kUspfmVylksw59KHkTQ6OZKqectgVubS5yPpp7kkf8qlHIonuUROc2l1lks4ec-l6khCp0fSkUu_MpLgL46kjFpuvlXn08sCn51TCKyTlR2FQ3-y82JBGe2DeavXGUzxKPlyTj2Hm9vQdIJLw3du4XV_s3MuDXZBbl2ntpZW5sqNL_xoExPnxXadC8vc2N5FROLQDPy9ufFJVAuDmEi82Qo8mjjzSO6MBcVtw6uoFz0FluuHLdV-CqZNzZkKXSz7IaW9h9XKGImaCZwOAaqyAs5wq89C1ZmFV_wPvBzB3XptP4aCuzDbHX3bNOfi8AqSxv1ktLISBS3WY0eP7vqK23FoE4diD_Ufg_u4qxNv0ue9vQC3WWRU2jxNwIwurJ3YrIWxLbHmNzEYa-ARMxTKGTrZImwlbLVZc2CN2qbh0q3UbrZZtRzx2XKu280btxbizW4lNYUajWJJ-AdVHUfU",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2fqp03iczVXbcqpIFP2A-Y7xJYlAvERSRZ3qhjbiHXNMwnmhuKVBgVbaSPRtPmL-YL5qvmaaiwYSTeach6nZVW3TzXZf12L_8VfgR8u_f_vT22xW9JbjkiSpY0Jw4NZtEnIm3UU290wCGtveN0peYtv1Hcn2YhK6td1WatRsKvE115dw53Fr0qf-wA7j1phMox_Klte0WmZCMiyTugvm4XVBOYNjP8vfGwo71GndjYw7WJ-bHZ7vToYvkV6_5gWxPuHMkOmA_06QhmG694F8Xom9Ql-bSg2oAKKSJRXgbIdvWnr-WtayVzI-aw3mPmeZusaWYux7icJui_ooZ__LXMDKMcliASDJooTA_zqbkmhFLoe8PqnUUbsqRfXI2025x5VYK4KTyrHLojCALL85KTtjZrxKGMdK2Rh0egQqEMzPx83qM1BBawk0dCqFsmjooXns3FC_Yzecgxlwec6K2SZwvu3Z2UNMUzzL30We9MbB_rWRbC3RC5et4JVvLWVMe_LGVDFnW0wvIKbjOoZn8N-ys3AttHixcdO5zLhk0yOZaJlMU_Bi3Q-9pr8H9WEdCgcayXnTwYeOIXaW1ROJQblQPdHiErDThhUt1bplu0UrYYprNAPV1g6maV3vDkeG0T1rTVnjzWsK_o80ygWXlOVZHohKCsWyRq51h473Zbio4NRn5n3eWg8cstAWHxQrBGShgCU4FEZ_b1kHmoxRygEZ9WBRNbtqQy4XoAgYAfaFKk7oGCAqlEo5pCVQNTACKmI2_bnKeoBTrOaBpmAofHXRO8adAbzK3DzK_-bTd0LgVyRKRTvw5R38y7RBg6eH73jgbkfX49d545mCUBfVGyzOdHCaJiS0fm7o2P8rLuUjCRUj6TyX0NdcykYS_GQkZc_6kUspfmVylksw59KHkTQ6OZKqectgVubS5yPpp7kkf8qlHIonuUROc2l1lks4ec-l6khCp0fSkUu_MpLgL46kjFpuvlXn08sCn51TCKyTlR2FQ3-y82JBGe2DeavXGUzxKPlyTj2Hm9vQdIJLw3du4XV_s3MuDXZBbl2ntpZW5sqNL_xoExPnxXadC8vc2N5FROLQDPy9ufFJVAuDmEi82Qo8mjjzSO6MBcVtw6uoFz0FluuHLdV-CqZNzZkKXSz7IaW9h9XKGImaCZwOAaqyAs5wq89C1ZmFV_wPvBzB3XptP4aCuzDbHX3bNOfi8AqSxv1ktLISBS3WY0eP7vqK23FoE4diD_Ufg_u4qxNv0ue9vQC3WWRU2jxNwIwurJ3YrIWxLbHmNzEYa-ARMxTKGTrZImwlbLVZc2CN2qbh0q3UbrZZtRzx2XKu280btxbizW4lNYUajWJJ-AdVHUfU"
+   "page_token": "tveKJHiczVXdcqpIEH6AfY71JlHwX1JFnRpGNOM__iQxNxYMZECBMYBBc7evsdf7VPs0O4AoupLUORdb2wrNDD093T398f3xl225m79_-9MMgq3_wHFhGJYIpcQ2Spg6nOofXMy9Udv3sPnDpzsPG5YuYtOjjlE4fIjVAvZFvmBY4su0KKjbd7v_OrHqIzp5H8_mLcUvxC7Elab6xprtsF_73Ipjt83v1TYblPyS4ZaefKO_dYd6uaGUKnylWhpzqsMMwH8oigwQkJhOVJ5AAOTvnUUmCoCRr1QIPL9KpJ34i_Yk8UQ_d0sUrZLYD4HYdFLb102fuVBSo1l-xEp2EMZKkpIdZ1FQ5Pt8zpKURlJOoeUKuj2drISZTZf_envL2_ByTIHUrgFFkdIQrk5lls1KkqMsIwtWjGJ7D6TQyin2cQH7z8Hjhn6dYhwIRK20HKDjs0NFnE5Y8_Kc5jFV5ixs4vjB86OehnOBp91lpd_xgkMTjunO6bSxvJ8R_WWvdcaEwxqzs6mqG_rKXPE_4nG5Uq7zQrXZuo_BhP0TmvwsmsZ0Go7ey4I_lEuDklROoQRPB3KVkMzG8NZZscrCWwtOXtKKZxZbMNtNi6Nm7c0jgC46gshoEuluOjFmBwokbGZDS21BAsvTWnjDKIESiRsLJQ2GzstPJotMGCT7qn0DBpnvwLEUEITHnNqpj2MAylWZIJgh9i6dlS7ds4axTDnS0owF7cdm-KL_eXl6Thmm8UQNL8snJ-j0FKd9hhJk_Q3jjh9FNhtINhJiwUYpIRTFLaWVowSBi1OUs2DKRARDVuJFLkS_FJL3PbgQlGLmCgIX0NntvZVKPnebRmeu9Oedqhk8bYagp1bIbahQR_sJ5sH_LzClvLQ48lI-mOTvwRR9B7_ipfh24iUyS8DUzweTjM68RDK8FKZGZ166BhOcZcCU8BKROrd56WfBBL8AE_oKTFGmt8Ck5IEJDa_B1GO8tMzy0gWYTryUgunXeAn9Gi_F2DISdUlSuzXJJ6vW20DofHR6a1zb1noVvr111kpNlke28i1ZvTnBg6Pq9v3K0h-kSi846PcrNkEfDL3wLm7VreHdWW7gUX2HDf1OUwNs3rnUc1Tb-lQDi7oFx_aoyKuN9mLYfVmq9qj8um1YPf55Pkf8rudVvc_x3FLD1mtFMOxdt0i6wCpOm5PGgBS93njpOKqweN7zPVpvmu7kQ-ttRyssDwWNfnZ2TYEXBo8B1j4PxFhAOi0bReNRc5fd4UFemEVE6o9gUGuaQm9iusH6dQIqzWZQBHFgvjhf1-ZPitl9McKC42GRHU3tAKYKeCasDeGScQNhF2VXyK4Gw7RU8LG6MvwPEbfqgqaqZaw11ZbRqhccEhy2osAXfNcTy_8ACY1J5Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tveKJHiczVXdcqpIEH6AfY71JlHwX1JFnRpGNOM__iQxNxYMZECBMYBBc7evsdf7VPs0O4AoupLUORdb2wrNDD093T398f3xl225m79_-9MMgq3_wHFhGJYIpcQ2Spg6nOofXMy9Udv3sPnDpzsPG5YuYtOjjlE4fIjVAvZFvmBY4su0KKjbd7v_OrHqIzp5H8_mLcUvxC7Elab6xprtsF_73Ipjt83v1TYblPyS4ZaefKO_dYd6uaGUKnylWhpzqsMMwH8oigwQkJhOVJ5AAOTvnUUmCoCRr1QIPL9KpJ34i_Yk8UQ_d0sUrZLYD4HYdFLb102fuVBSo1l-xEp2EMZKkpIdZ1FQ5Pt8zpKURlJOoeUKuj2drISZTZf_envL2_ByTIHUrgFFkdIQrk5lls1KkqMsIwtWjGJ7D6TQyin2cQH7z8Hjhn6dYhwIRK20HKDjs0NFnE5Y8_Kc5jFV5ixs4vjB86OehnOBp91lpd_xgkMTjunO6bSxvJ8R_WWvdcaEwxqzs6mqG_rKXPE_4nG5Uq7zQrXZuo_BhP0TmvwsmsZ0Go7ey4I_lEuDklROoQRPB3KVkMzG8NZZscrCWwtOXtKKZxZbMNtNi6Nm7c0jgC46gshoEuluOjFmBwokbGZDS21BAsvTWnjDKIESiRsLJQ2GzstPJotMGCT7qn0DBpnvwLEUEITHnNqpj2MAylWZIJgh9i6dlS7ds4axTDnS0owF7cdm-KL_eXl6Thmm8UQNL8snJ-j0FKd9hhJk_Q3jjh9FNhtINhJiwUYpIRTFLaWVowSBi1OUs2DKRARDVuJFLkS_FJL3PbgQlGLmCgIX0NntvZVKPnebRmeu9Oedqhk8bYagp1bIbahQR_sJ5sH_LzClvLQ48lI-mOTvwRR9B7_ipfh24iUyS8DUzweTjM68RDK8FKZGZ166BhOcZcCU8BKROrd56WfBBL8AE_oKTFGmt8Ck5IEJDa_B1GO8tMzy0gWYTryUgunXeAn9Gi_F2DISdUlSuzXJJ6vW20DofHR6a1zb1noVvr111kpNlke28i1ZvTnBg6Pq9v3K0h-kSi846PcrNkEfDL3wLm7VreHdWW7gUX2HDf1OUwNs3rnUc1Tb-lQDi7oFx_aoyKuN9mLYfVmq9qj8um1YPf55Pkf8rudVvc_x3FLD1mtFMOxdt0i6wCpOm5PGgBS93njpOKqweN7zPVpvmu7kQ-ttRyssDwWNfnZ2TYEXBo8B1j4PxFhAOi0bReNRc5fd4UFemEVE6o9gUGuaQm9iusH6dQIqzWZQBHFgvjhf1-ZPitl9McKC42GRHU3tAKYKeCasDeGScQNhF2VXyK4Gw7RU8LG6MvwPEbfqgqaqZaw11ZbRqhccEhy2osAXfNcTy_8ACY1J5Q"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnUvZ290bz91cmw9Q0FFU1RBSHJPekFWNWtGNUEtSktIWGNkSDV0R2lIZjlEci1qOGxJd3pGVExXRkNBMm1WQmtPSFNvUV94d0RCMW1pclZ3c1E1V2pJbzlNeVQ5NXJBZXdLTzNta00tRWZIM0dsVDdNczQ2S1kSBBoCCAAatQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCPAwgAEAAYACAAKigKBXBhcGVyFVdRhkAaCW5ld3NwYXBlchoGcGFwZXJzGgdhcnRpY2xlMnUvZ290bz91cmw9Q0FFU1RBSHJPekFWNWtGNUEtSktIWGNkSDV0R2lIZjlEci1qOGxJd3pGVExXRkNBMm1WQmtPSFNvUV94d0RCMW1pclZ3c1E1V2pJbzlNeVQ5NXJBZXdLTzNta00tRWZIM0dsVDdNczQ2S1k6RjxiPlBhcGVyPC9iPjogSGlnaCBJbXBhY3QgVHV0b3JpbmcgfCBOU1NBIENlcnRpZmllZCAmYW1wOyBFU1NBIElJSSAuLi5CmwFIaWdoLWltcGFjdCB0dXRvcmluZyBmb2N1c2VkIG9uIGluc3RydWN0aW9uYWwgY29udGludWl0eSwgY2xhc3Nyb29tLWFsaWduZWQgY3VycmljdWx1bSwgYW5kIGNvbnNpc3RlbnQgdHV0b3Jz4oCUYmFja2VkIGJ5IE5TU0EgYW5kIEVTU0EgTGV2ZWwgSUlJIGV2aWRlbmNlLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnUvZ290bz91cmw9Q0FFU1RBSHJPekFWNWtGNUEtSktIWGNkSDV0R2lIZjlEci1qOGxJd3pGVExXRkNBMm1WQmtPSFNvUV94d0RCMW1pclZ3c1E1V2pJbzlNeVQ5NXJBZXdLTzNta00tRWZIM0dsVDdNczQ2S1kSBBoCCAAatQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCPAwgAEAAYACAAKigKBXBhcGVyFVdRhkAaCW5ld3NwYXBlchoGcGFwZXJzGgdhcnRpY2xlMnUvZ290bz91cmw9Q0FFU1RBSHJPekFWNWtGNUEtSktIWGNkSDV0R2lIZjlEci1qOGxJd3pGVExXRkNBMm1WQmtPSFNvUV94d0RCMW1pclZ3c1E1V2pJbzlNeVQ5NXJBZXdLTzNta00tRWZIM0dsVDdNczQ2S1k6RjxiPlBhcGVyPC9iPjogSGlnaCBJbXBhY3QgVHV0b3JpbmcgfCBOU1NBIENlcnRpZmllZCAmYW1wOyBFU1NBIElJSSAuLi5CmwFIaWdoLWltcGFjdCB0dXRvcmluZyBmb2N1c2VkIG9uIGluc3RydWN0aW9uYWwgY29udGludWl0eSwgY2xhc3Nyb29tLWFsaWduZWQgY3VycmljdWx1bSwgYW5kIGNvbnNpc3RlbnQgdHV0b3Jz4oCUYmFja2VkIGJ5IE5TU0EgYW5kIEVTU0EgTGV2ZWwgSUlJIGV2aWRlbmNlLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
      ],
      "regions": [
-      "AU"
+      "US"
      ],
      "source": {
-      "description": "Batch Normalization allows us to use much higher learning rates and be less careful about initialization. It also acts as a regularizer,",
-      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
-      "source_info_link": "https://arxiv.org/abs/1502.03167"
+      "description": "High-impact tutoring focused on instructional continuity, classroom-aligned curriculum, and consistent tutors—backed by NSSA and ESSA Level III evidence.",
+      "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAAAQBgCdASogACAAPrUurVanIacnG_DgFolsAJ0yhILPgB-KCNARcsOXZ-XYc8EwUU1YzNc3SYp0fgAA_vz_ybKzI9lFRTPeaql573QHMH3f-5f-N5SA0zfD0pnv2ro-Xp30jn_TFH_zFvUYr8jP__8Cd-9D4ybb-BOFtN-v-3lvlZcfVr2K38jBXFNoV8C2Crf8sf48o2MHwDMWE_n_mJp5rBxM5_mPPKzT47kX3RU8iJunYElt2osw5BzC9rqtRWsby0sIlZJ8-UtYA4DaINENx0kRZbYKwjvi_4bU8tKx99KnxkjDhE66aWejwTa_MNGd1nrzIe3HDwN1H15Rqyddgx-_3KY8d6vtlp7_5__AgtdYAAA.webp",
+      "source_info_link": "https://paper.co/"
      }
     },
-    "author": "by S Ioffe",
-    "displayed_link": "https://arxiv.org › abs",
-    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
-    "link": "https://arxiv.org/abs/1502.03167",
+    "displayed_link": "https://paper.co",
+    "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAAAQBgCdASogACAAPrUurVanIacnG_DgFolsAJ0yhILPgB-KCNARcsOXZ-XYc8EwUU1YzNc3SYp0fgAA_vz_ybKzI9lFRTPeaql573QHMH3f-5f-N5SA0zfD0pnv2ro-Xp30jn_TFH_zFvUYr8jP__8Cd-9D4ybb-BOFtN-v-3lvlZcfVr2K38jBXFNoV8C2Crf8sf48o2MHwDMWE_n_mJp5rBxM5_mPPKzT47kX3RU8iJunYElt2osw5BzC9rqtRWsby0sIlZJ8-UtYA4DaINENx0kRZbYKwjvi_4bU8tKx99KnxkjDhE66aWejwTa_MNGd1nrzIe3HDwN1H15Rqyddgx-_3KY8d6vtlp7_5__AgtdYAAA.webp",
+    "link": "https://paper.co/",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVYoayghv3qBcEH6ZV1buAO8F7uQiXUu7ziI-LdSjDKuvOJc1zqEMbqt80di1dewyomrHne-Q7g5gXCAVDGTbovkX6hBrgKp36mO4PUEdEXTQkvvw&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQFnoECCsQAQ&uoh=1",
-    "snippet": "Batch Normalization allows us to use much higher learning rates and be less careful about initialization. It also acts as a regularizer,",
-    "snippet_highlighted_words": [
-     "Batch Normalization"
-    ],
-    "source": "arXiv.org",
-    "title": "Batch Normalization: Accelerating Deep Network Training ..."
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTAHrOzAV5kF5A-JKHXcdH5tGiHf9Dr-j8lIwzFTLWFCA2mVBkOHSoQ_xwDB1mirVwsQ5WjIo9MyT95rAewKO3mkM-EfH3GlT7Ms46KY&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4QFnoECBYQAQ&uoh=1",
+    "snippet": "High-impact tutoring focused on instructional continuity, classroom-aligned curriculum, and consistent tutors—backed by NSSA and ESSA Level III evidence.",
+    "source": "paper.co",
+    "title": "Paper: High Impact Tutoring | NSSA Certified & ESSA III ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWWGZhcWF6TmtOM3VBYUg1SXdKZUFibnJwLXpPRFJnSWpYSkFEaUNUNUpibTczV3RXQ1FyTm96aTZNLWp3bnB5YVBpMHBfd3NmZmpaYXRyd3F5a0ZGaHlYX1ZiTlNpRUdXVHBKeBIEGgIIABqsAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIYDCAAQABgAIAAqKAoFcGFwZXIVJpe8QBoJbmV3c3BhcGVyGgZwYXBlcnMaB2FydGljbGUyei9nb3RvP3VybD1DQUVTVUFIck96QVZYZmFxYXpOa04zdUFhSDVJd0plQWJucnAtek9EUmdJalhKQURpQ1Q1SmJtNzNXdFdDUXJOb3ppNk0tanducHlhUGkwcF93c2ZmalphdHJ3cXlrRkZoeVhfVmJOU2lFR1dUcEp4OiQ8Yj5QYXBlcjwvYj4g4oCTIGRlc2lnbiwgc2hhcmUsIHNoaXBCrwE8Yj5QYXBlcjwvYj4gaXMgYSBtb2Rlcm4gYW5kIHBvd2VyZnVsIGRlc2lnbiB0b29sIHRoYXQgaGVscHMgeW91IGNyZWF0ZSwgc2hhcmUsIGFuZCBzaGlwIHlvdXIgYmVzdCB3b3JrLiBQYXBlciBjb25uZWN0cyB5b3VyIHRlYW1zLCBhZ2VudHMsIGNvZGUsIGFuZCBkYXRhIG9uIGEgc2luZ2xlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWWGZhcWF6TmtOM3VBYUg1SXdKZUFibnJwLXpPRFJnSWpYSkFEaUNUNUpibTczV3RXQ1FyTm96aTZNLWp3bnB5YVBpMHBfd3NmZmpaYXRyd3F5a0ZGaHlYX1ZiTlNpRUdXVHBKeBIEGgIIABqsAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIYDCAAQABgAIAAqKAoFcGFwZXIVJpe8QBoJbmV3c3BhcGVyGgZwYXBlcnMaB2FydGljbGUyei9nb3RvP3VybD1DQUVTVUFIck96QVZYZmFxYXpOa04zdUFhSDVJd0plQWJucnAtek9EUmdJalhKQURpQ1Q1SmJtNzNXdFdDUXJOb3ppNk0tanducHlhUGkwcF93c2ZmalphdHJ3cXlrRkZoeVhfVmJOU2lFR1dUcEp4OiQ8Yj5QYXBlcjwvYj4g4oCTIGRlc2lnbiwgc2hhcmUsIHNoaXBCrwE8Yj5QYXBlcjwvYj4gaXMgYSBtb2Rlcm4gYW5kIHBvd2VyZnVsIGRlc2lnbiB0b29sIHRoYXQgaGVscHMgeW91IGNyZWF0ZSwgc2hhcmUsIGFuZCBzaGlwIHlvdXIgYmVzdCB3b3JrLiBQYXBlciBjb25uZWN0cyB5b3VyIHRlYW1zLCBhZ2VudHMsIGNvZGUsIGFuZCBkYXRhIG9uIGEgc2luZ2xlJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
      ],
      "regions": [
-      "AU"
+      "US"
      ],
      "source": {
-      "description": "Batch Normalization allows us to use much higher learning rates and be less careful about initialization, and in some cases eliminates the need for Dropout.",
-      "icon": "https://serpapi.com/images/i/UklGRvwBAABXRUJQVlA4IPABAABQCgCdASogACAAPtE-tFooIigoFAEAGglsAJ0y4iyxgQauWVY87-x8rtkBYA-a3AL_FVwMsD8A_p2sDd6eeblOU6neWckcst_IWKIGETaHjilewbm8JQVT5QAAAP79LmarfWno18AtJzMU37SwzqilmW1keCxSr4t7x7LQEk91KKb4f05XuJWT7sV_fe19fOBC0gPGuM0Pz955GKlPWvkfPw-SD6Mpfy5_-sDsTtC72tQa-l-gH_pEQ2mUdqX4klx5LgR_1lTFVdsfeTLhzVqKVy9qrIxA2ehMpPYJ1zn612ziXq-5ad_akFA7BWOfPKLvOWIPJ-tnx1eSHv3m1j4LPfLSR1Ut3BjXiUdU3uIcNGaUF8Lnnq3m13v9ytWY4-V-uAaQp6TfDxE4HfzzkLdNcKJhQTJwl7wYtoFeP5D3pI2MAIhH631PblOg94Y8nH3TZ6Rs6hiaCpp6Jt1J8CI7CptJLDe7ArIrTejwh_ZOAQL-3RSe7j3NLhPvj00BNfXDbx528Qg-5tGQUITCUXjoqf9xJ0_4oLY-L8-tHFeHU9_-_NvBL0VVUp8BHIfblta5s6uB9Y4zyiAoS4EF0jR6eWDW2e2eRuB3EdIUBlm0ftieNcbBisXuAO04D7aIvo2hlCcGJ6c8ggpQSGkCkAAA.webp",
-      "source_info_link": "https://proceedings.mlr.press/v37/ioffe15.html"
+      "description": "Paper is a modern and powerful design tool that helps you create, share, and ship your best work. Paper connects your teams, agents, code, and data on a single ...",
+      "icon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAADwBACdASocABwAPtFMtFooIqgoFAEAGglsAJ0yhH_4apBxcan_o4lwJiQIXcwzJwAA_q489fPXafeTa_hnVzTnsn9p3_wQhwAjmar4Td6ZFpbKaZvEsHE_9tN2NkDRYXNiJ-ubpUEnhZY2SeTCc8r5C-fHu4oWetqIAA.webp",
+      "source_info_link": "https://paper.design/"
      }
     },
-    "author": "by S Ioffe",
-    "displayed_link": "https://proceedings.mlr.press › ioffe15",
-    "favicon": "https://serpapi.com/images/i/UklGRvwBAABXRUJQVlA4IPABAABQCgCdASogACAAPtE-tFooIigoFAEAGglsAJ0y4iyxgQauWVY87-x8rtkBYA-a3AL_FVwMsD8A_p2sDd6eeblOU6neWckcst_IWKIGETaHjilewbm8JQVT5QAAAP79LmarfWno18AtJzMU37SwzqilmW1keCxSr4t7x7LQEk91KKb4f05XuJWT7sV_fe19fOBC0gPGuM0Pz955GKlPWvkfPw-SD6Mpfy5_-sDsTtC72tQa-l-gH_pEQ2mUdqX4klx5LgR_1lTFVdsfeTLhzVqKVy9qrIxA2ehMpPYJ1zn612ziXq-5ad_akFA7BWOfPKLvOWIPJ-tnx1eSHv3m1j4LPfLSR1Ut3BjXiUdU3uIcNGaUF8Lnnq3m13v9ytWY4-V-uAaQp6TfDxE4HfzzkLdNcKJhQTJwl7wYtoFeP5D3pI2MAIhH631PblOg94Y8nH3TZ6Rs6hiaCpp6Jt1J8CI7CptJLDe7ArIrTejwh_ZOAQL-3RSe7j3NLhPvj00BNfXDbx528Qg-5tGQUITCUXjoqf9xJ0_4oLY-L8-tHFeHU9_-_NvBL0VVUp8BHIfblta5s6uB9Y4zyiAoS4EF0jR6eWDW2e2eRuB3EdIUBlm0ftieNcbBisXuAO04D7aIvo2hlCcGJ6c8ggpQSGkCkAAA.webp",
-    "link": "https://proceedings.mlr.press/v37/ioffe15.html",
+    "displayed_link": "https://paper.design",
+    "favicon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAADwBACdASocABwAPtFMtFooIqgoFAEAGglsAJ0yhH_4apBxcan_o4lwJiQIXcwzJwAA_q489fPXafeTa_hnVzTnsn9p3_wQhwAjmar4Td6ZFpbKaZvEsHE_9tN2NkDRYXNiJ-ubpUEnhZY2SeTCc8r5C-fHu4oWetqIAA.webp",
+    "link": "https://paper.design/",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVSn4PC8AsLUZcwp9oJ-UPXiicxFxQblj75mpRcl2kK5p1kGffYjeziNoRVG48FMNdGIzbeaj1nhvMRdATcue9_d4r_88uwxtlrCSFHoghEvSkMYvQ0pM98XjIUpckL8VCbA&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQFnoECCUQAQ&uoh=1",
-    "snippet": "Batch Normalization allows us to use much higher learning rates and be less careful about initialization, and in some cases eliminates the need for Dropout.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVXfaqazNkN3uAaH5IwJeAbnrp-zODRgIjXJADiCT5Jbm73WtWCQrNozi6M-jwnpyaPi0p_wsffjZatrwqykFFhyX_VbNSiEGWTpJx&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4QFnoECB4QAQ&uoh=1",
+    "snippet": "Paper is a modern and powerful design tool that helps you create, share, and ship your best work. Paper connects your teams, agents, code, and data on a single ...",
     "snippet_highlighted_words": [
-     "Batch Normalization"
+     "Paper"
     ],
-    "source": "Proceedings of Machine Learning Research",
-    "title": "Batch Normalization: Accelerating Deep Network Training by ..."
+    "source": "Paper – design, share, ship",
+    "title": "Paper – design, share, ship"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVjhsV1B4eFUycWZ2XzBsbzBHcjMtcG1zQnVIaVBXZFJCWHB3SXFTSzhGMzU1dllET3pzSG5uWnd2c0x5c2Q5c2k5VkJKSjBSdHd5LWxyTEJWRjFyRDY1aEhROV9DaGhkekdSMGJncW1SU2g3SFI0VXkzM0ozQWR3EgQaAggAGqIDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_AIIABAAGAAgACooCgVwYXBlchXocLVAGgluZXdzcGFwZXIaBnBhcGVycxoHYXJ0aWNsZTKNAS9nb3RvP3VybD1DQUVTWGdIck96QVY4bFdQeHhVMnFmdl8wbG8wR3IzLXBtc0J1SGlQV2RSQlhwd0lxU0s4RjM1NXZZRE96c0hublp3dnNMeXNkOXNpOVZCSkowUnR3eS1sckxCVkYxckQ2NWhIUTlfQ2hoZHpHUjBiZ3FtUlNoN0hSNFV5MzNKM0FkdzoWPGI-UGFwZXI8L2I-IC0gRHJvcGJveEKfATxiPkRyb3Bib3ggUGFwZXI8L2I-IGlzIGEgbmV3IHR5cGUgb2YgZG9jdW1lbnQgZGVzaWduZWQgZm9yIGNyZWF0aXZlIHdvcmsuIENvbGxhYm9yYXRlIGluIHJlYWwgdGltZSwgYXNzaWduIHRhc2tzLCBtYWtlIHRvLWRvIGxpc3RzIGFuZCBtdWNoIG1vcmUuIFN0YXJ0IHRvZGF5ISICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVjhsV1B4eFUycWZ2XzBsbzBHcjMtcG1zQnVIaVBXZFJCWHB3SXFTSzhGMzU1dllET3pzSG5uWnd2c0x5c2Q5c2k5VkJKSjBSdHd5LWxyTEJWRjFyRDY1aEhROV9DaGhkekdSMGJncW1SU2g3SFI0VXkzM0ozQWR3EgQaAggAGqIDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_AIIABAAGAAgACooCgVwYXBlchXocLVAGgluZXdzcGFwZXIaBnBhcGVycxoHYXJ0aWNsZTKNAS9nb3RvP3VybD1DQUVTWGdIck96QVY4bFdQeHhVMnFmdl8wbG8wR3IzLXBtc0J1SGlQV2RSQlhwd0lxU0s4RjM1NXZZRE96c0hublp3dnNMeXNkOXNpOVZCSkowUnR3eS1sckxCVkYxckQ2NWhIUTlfQ2hoZHpHUjBiZ3FtUlNoN0hSNFV5MzNKM0FkdzoWPGI-UGFwZXI8L2I-IC0gRHJvcGJveEKfATxiPkRyb3Bib3ggUGFwZXI8L2I-IGlzIGEgbmV3IHR5cGUgb2YgZG9jdW1lbnQgZGVzaWduZWQgZm9yIGNyZWF0aXZlIHdvcmsuIENvbGxhYm9yYXRlIGluIHJlYWwgdGltZSwgYXNzaWduIHRhc2tzLCBtYWtlIHRvLWRvIGxpc3RzIGFuZCBtdWNoIG1vcmUuIFN0YXJ0IHRvZGF5ISICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
      ],
      "regions": [
-      "AU"
+      "US"
      ],
      "source": {
-      "description": "It was introduced by Sergey Ioffe and Christian Szegedy in 2015. Experts still debate why batch normalization works so well. It was initially thought to tackle ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Batch_normalization"
+      "description": "Dropbox Paper is a new type of document designed for creative work. Collaborate in real time, assign tasks, make to-do lists and much more. Start today!",
+      "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAAAQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHV3mfCGcW7gHKV_rNZAG8qs0zYfjmyHG2LAnH6Y--vS5mA6NZUefA7XnkzkAP6cp5CKvPbnMR5y46WNj2qy4iI0nNTDUj0eAfM2yJ2wXKPXFEfyTJVjs41mgCIGzf-SnLiWnk8LbOPFdy6TKU_4kRCBZ-SaOSXM_3vP92LH3r3mpYavvTWa8zBtkgDpM7d34QIPV2GXycXhulr6Vdd4QT2BxXPOwt5FKb8eEJtSrsK1zVFiA8HUL6CY0Wqoufjy__FDbzRiwVUt7vTlTPOtayLpGVfnH9NW51t-yz-KjF7DXxf_x_zKN_-d4TLddrFob_nwq56VRks40cJJfXRvpbNZ0sSwGKhFNErFL-la76HREzDtwQvnJ9UAW1QwAA.webp",
+      "source_info_link": "https://www.dropbox.com/paper/start"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › Batch_normalization",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Batch_normalization",
+    "displayed_link": "https://www.dropbox.com › paper › start",
+    "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAAAQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHV3mfCGcW7gHKV_rNZAG8qs0zYfjmyHG2LAnH6Y--vS5mA6NZUefA7XnkzkAP6cp5CKvPbnMR5y46WNj2qy4iI0nNTDUj0eAfM2yJ2wXKPXFEfyTJVjs41mgCIGzf-SnLiWnk8LbOPFdy6TKU_4kRCBZ-SaOSXM_3vP92LH3r3mpYavvTWa8zBtkgDpM7d34QIPV2GXycXhulr6Vdd4QT2BxXPOwt5FKb8eEJtSrsK1zVFiA8HUL6CY0Wqoufjy__FDbzRiwVUt7vTlTPOtayLpGVfnH9NW51t-yz-KjF7DXxf_x_zKN_-d4TLddrFob_nwq56VRks40cJJfXRvpbNZ0sSwGKhFNErFL-la76HREzDtwQvnJ9UAW1QwAA.webp",
+    "link": "https://www.dropbox.com/paper/start",
     "position": 3,
-    "read_more_link": "https://en.wikipedia.org/wiki/Batch_normalization#:~:text=It%20was%20introduced%20by%20Sergey,was%20initially%20thought%20to%20tackle",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAV5Vb4-I8ax5zfiTzshYxbQQMVN32ttDxh-KhOgc3izNR66RP-38gsBlyGKdjL7boIGvZA1a4kgoJNNXvbM0nlAzxzN6HLNvM2MfE5o0QLAQScY3b6FH_oGQMBVzI38FGjoNtDkw&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQFnoECCIQAQ&uoh=1",
-    "snippet": "It was introduced by Sergey Ioffe and Christian Szegedy in 2015. Experts still debate why batch normalization works so well. It was initially thought to tackle ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAV8lWPxxU2qfv_0lo0Gr3-pmsBuHiPWdRBXpwIqSK8F355vYDOzsHnnZwvsLysd9si9VBJJ0Rtwy-lrLBVF1rD65hHQ9_ChhdzGR0bgqmRSh7HR4Uy33J3Adw&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4QFnoECBoQAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.8,
+       "reviews": 424618
+      },
+      "extensions": [
+       "4.8(424,618)",
+       "Free",
+       "Business/Productivity"
+      ]
+     }
+    },
+    "snippet": "Dropbox Paper is a new type of document designed for creative work. Collaborate in real time, assign tasks, make to-do lists and much more. Start today!",
     "snippet_highlighted_words": [
-     "introduced",
-     "batch normalization"
+     "Dropbox Paper"
+    ],
+    "source": "Dropbox",
+    "title": "Paper"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVjY2a2FZVUlvbjI3Zm9GdjdVN2ludWFaRktwMkx1UXZQV2dwVmM0YWJHVWNvY0RycUh0enZPUHJ3cjRfQjBKaXF5SjRidzQ2SmJCdVg2V1hvWkE0SnRQUFFwc2VNTmlKZGZFVUpUbFkzNGcSBBoCCAAalwMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDxAggAEAAYACAAKigKBXBhcGVyFQg3mUAaCW5ld3NwYXBlchoGcGFwZXJzGgdhcnRpY2xlMoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVjY2a2FZVUlvbjI3Zm9GdjdVN2ludWFaRktwMkx1UXZQV2dwVmM0YWJHVWNvY0RycUh0enZPUHJ3cjRfQjBKaXF5SjRidzQ2SmJCdVg2V1hvWkE0SnRQUFFwc2VNTmlKZGZFVUpUbFkzNGc6FTxiPlBBUEVSPC9iPiBNYWdhemluZUKiAVdFIEFSRSBUSEUgSU5URVJORVQgLSBNdXNpYy4gRW50ZXJ0YWlubWVudC4gSW50ZXJuZXQuIEZhc2hpb24uIENlbGVicml0eS4gRXNwYcOxb2wuIEJyZWFrIHRoZSBpbnRlcm5ldC4gTmlnaHRsaWZlLiBMR0JUUS4gU2V4ICZhbXA7IERhdGluZy4gQmVhdXR5LiBGaWxtICZhbXA7IFRWLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVjY2a2FZVUlvbjI3Zm9GdjdVN2ludWFaRktwMkx1UXZQV2dwVmM0YWJHVWNvY0RycUh0enZPUHJ3cjRfQjBKaXF5SjRidzQ2SmJCdVg2V1hvWkE0SnRQUFFwc2VNTmlKZGZFVUpUbFkzNGcSBBoCCAAalwMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDxAggAEAAYACAAKigKBXBhcGVyFQg3mUAaCW5ld3NwYXBlchoGcGFwZXJzGgdhcnRpY2xlMoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVjY2a2FZVUlvbjI3Zm9GdjdVN2ludWFaRktwMkx1UXZQV2dwVmM0YWJHVWNvY0RycUh0enZPUHJ3cjRfQjBKaXF5SjRidzQ2SmJCdVg2V1hvWkE0SnRQUFFwc2VNTmlKZGZFVUpUbFkzNGc6FTxiPlBBUEVSPC9iPiBNYWdhemluZUKiAVdFIEFSRSBUSEUgSU5URVJORVQgLSBNdXNpYy4gRW50ZXJ0YWlubWVudC4gSW50ZXJuZXQuIEZhc2hpb24uIENlbGVicml0eS4gRXNwYcOxb2wuIEJyZWFrIHRoZSBpbnRlcm5ldC4gTmlnaHRsaWZlLiBMR0JUUS4gU2V4ICZhbXA7IERhdGluZy4gQmVhdXR5LiBGaWxtICZhbXA7IFRWLiICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "WE ARE THE INTERNET - Music. Entertainment. Internet. Fashion. Celebrity. Español. Break the internet. Nightlife. LGBTQ. Sex & Dating. Beauty. Film & TV.",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAf0lEQVR4AWOgHcjpRgLtjcEokmf-o4HDxgjJY_8xwCR8kv9n4JP8b4VP8jCapDIDg6h3-isI5wuGJAjEQXlYJYMxJBFcqSfYjX0FBF9gDtpDrle68QRCJc7gewUMOwzJ7kYgyAFbhikpiiKKGQiUS2ImE1VskpP2gMFhKQb6AABWDUVg62lbLQAAAABJRU5ErkJggg.png",
+      "source_info_link": "https://www.papermag.com/"
+     }
+    },
+    "displayed_link": "https://www.papermag.com",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAf0lEQVR4AWOgHcjpRgLtjcEokmf-o4HDxgjJY_8xwCR8kv9n4JP8b4VP8jCapDIDg6h3-isI5wuGJAjEQXlYJYMxJBFcqSfYjX0FBF9gDtpDrle68QRCJc7gewUMOwzJ7kYgyAFbhikpiiKKGQiUS2ImE1VskpP2gMFhKQb6AABWDUVg62lbLQAAAABJRU5ErkJggg.png",
+    "link": "https://www.papermag.com/",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAV66kaYUIon27foFv7U7inuaZFKp2LuQvPWgpVc4abGUcocDrqHtzvOPrwr4_B0JiqyJ4bw46JbBuX6WXoZA4JtPPQpseMNiJdfEUJTlY34g&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4QFnoECBkQAQ&uoh=1",
+    "snippet": "WE ARE THE INTERNET - Music. Entertainment. Internet. Fashion. Celebrity. Español. Break the internet. Nightlife. LGBTQ. Sex & Dating. Beauty. Film & TV.",
+    "source": "PAPER Magazine",
+    "title": "PAPER Magazine"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVlVCZElCaXdTekdZdTNyYUIyY1NxaFpndEd5ajFHV1d4WXdSa1ZvUS1kQ1RZZ1Y4ZzZETU12NTM5dWN1dS0zSXd4c21hblJ1Q1NCd2xUdjI2cmJLNkFIdktBU2FQSDFlekF0SDRrUnRTSF9QZkpGMFliQjhQbV9zEgQaAggAGr4DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmAMIABAAGAAgACooCgVwYXBlchXgU89AGgluZXdzcGFwZXIaBnBhcGVycxoHYXJ0aWNsZTKNAS9nb3RvP3VybD1DQUVTWGdIck96QVZVQmRJQml3U3pHWXUzcmFCMmNTcWhaZ3RHeWoxR1dXeFl3UmtWb1EtZENUWWdWOGc2RE1NdjUzOXVjdXUtM0l3eHNtYW5SdUNTQndsVHYyNnJiSzZBSHZLQVNhUEgxZXpBdEg0a1J0U0hfUGZKRjBZYkI4UG1fczoYPGI-UGFwZXI8L2I-IC0gV2lraXBlZGlhQrkBPGI-UGFwZXI8L2I-IGlzIGEgdGhpbiBzaGVldCBvZiBtYXR0ZWQgY2VsbHVsb3NlIGZpYmVycy4gTGFyZ2VseSBkZXJpdmVkIGZyb20gbGlnbm9jZWxsdWxvc2UsIDxiPnBhcGVyPC9iPiBpcyA8Yj5jcmVhdGVkPC9iPiBmcm9tIGEgcHVscCBkaXNzb2x2ZWQgaW50byBhIHNsdXJyeSB0aGF0IGlzIGRyYWluZWQmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVlVCZElCaXdTekdZdTNyYUIyY1NxaFpndEd5ajFHV1d4WXdSa1ZvUS1kQ1RZZ1Y4ZzZETU12NTM5dWN1dS0zSXd4c21hblJ1Q1NCd2xUdjI2cmJLNkFIdktBU2FQSDFlekF0SDRrUnRTSF9QZkpGMFliQjhQbV9zEgQaAggAGr4DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmAMIABAAGAAgACooCgVwYXBlchXgU89AGgluZXdzcGFwZXIaBnBhcGVycxoHYXJ0aWNsZTKNAS9nb3RvP3VybD1DQUVTWGdIck96QVZVQmRJQml3U3pHWXUzcmFCMmNTcWhaZ3RHeWoxR1dXeFl3UmtWb1EtZENUWWdWOGc2RE1NdjUzOXVjdXUtM0l3eHNtYW5SdUNTQndsVHYyNnJiSzZBSHZLQVNhUEgxZXpBdEg0a1J0U0hfUGZKRjBZYkI4UG1fczoYPGI-UGFwZXI8L2I-IC0gV2lraXBlZGlhQrkBPGI-UGFwZXI8L2I-IGlzIGEgdGhpbiBzaGVldCBvZiBtYXR0ZWQgY2VsbHVsb3NlIGZpYmVycy4gTGFyZ2VseSBkZXJpdmVkIGZyb20gbGlnbm9jZWxsdWxvc2UsIDxiPnBhcGVyPC9iPiBpcyA8Yj5jcmVhdGVkPC9iPiBmcm9tIGEgcHVscCBkaXNzb2x2ZWQgaW50byBhIHNsdXJyeSB0aGF0IGlzIGRyYWluZWQmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Paper is a thin sheet of matted cellulose fibers. Largely derived from lignocellulose, paper is created from a pulp dissolved into a slurry that is drained ...",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Paper"
+     }
+    },
+    "displayed_link": "https://en.wikipedia.org › wiki › Paper",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Paper",
+    "position": 5,
+    "read_more_link": "https://en.wikipedia.org/wiki/Paper#:~:text=Paper%20is%20a%20thin%20sheet,drained%20and%20dried%20into%20sheets.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVUBdIBiwSzGYu3raB2cSqhZgtGyj1GWWxYwRkVoQ-dCTYgV8g6DMMv539ucuu-3IwxsmanRuCSBwlTv26rbK6AHvKASaPH1ezAtH4kRtSH_PfJF0YbB8Pm_s&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4QFnoECBsQAQ&uoh=1",
+    "snippet": "Paper is a thin sheet of matted cellulose fibers. Largely derived from lignocellulose, paper is created from a pulp dissolved into a slurry that is drained ...",
+    "snippet_highlighted_words": [
+     "Paper",
+     "paper",
+     "created"
     ],
     "source": "Wikipedia",
-    "title": "Batch normalization"
+    "title": "Paper"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnppM2hvckNpbTFNNkRtT2JKNE8xc1lSUkVSSmxwTzNpeVhLSFZIU0JRQ2RJZHd5OG1BN0g1Vmw4Vi14Nm84UWdmbFhXTFp0eGRkNF91ME5GcXFPZEVOYlQ0Tm9Lb0hyYmp0TjFGXzBkSnNBYUFmMHRNS1M4emEwV1JsNk1EdU1LN3F3dWdmekhaZWU3MHY1cFBwZklOb0ZqR25VaWJUOVgSBBoCCAAa9gMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDQAwgAEAAYACAAKigKBXBhcGVyFfyct0AaCW5ld3NwYXBlchoGcGFwZXJzGgdhcnRpY2xlMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnppM2hvckNpbTFNNkRtT2JKNE8xc1lSUkVSSmxwTzNpeVhLSFZIU0JRQ2RJZHd5OG1BN0g1Vmw4Vi14Nm84UWdmbFhXTFp0eGRkNF91ME5GcXFPZEVOYlQ0Tm9Lb0hyYmp0TjFGXzBkSnNBYUFmMHRNS1M4emEwV1JsNk1EdU1LN3F3dWdmekhaZWU3MHY1cFBwZklOb0ZqR25VaWJUOVg6OzxiPlBhcGVyPC9iPjogU2tldGNoLCBEcmF3ICZhbXA7IENyZWF0ZSAtIEFwcCBTdG9yZSAtIEFwcGxlQqUBPGI-UGFwZXI8L2I-IHByZXNlbnRzIGEgcG93ZXJmdWxseSBtb2Rlcm4gdG9vbCBmb3Igd3JpdGluZywgZHJhd2luZywgbm90ZS10YWtpbmcsIGFuZCBiZXlvbmQuIFNrZXRjaCBvdXQgaWRlYXMgYW5kIHdoaXAgdXAgZGlhZ3JhbXMgd2l0aCBhIHJpY2ggc2VsZWN0aW9uIG9mJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnppM2hvckNpbTFNNkRtT2JKNE8xc1lSUkVSSmxwTzNpeVhLSFZIU0JRQ2RJZHd5OG1BN0g1Vmw4Vi14Nm84UWdmbFhXTFp0eGRkNF91ME5GcXFPZEVOYlQ0Tm9Lb0hyYmp0TjFGXzBkSnNBYUFmMHRNS1M4emEwV1JsNk1EdU1LN3F3dWdmekhaZWU3MHY1cFBwZklOb0ZqR25VaWJUOVgSBBoCCAAa9gMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDQAwgAEAAYACAAKigKBXBhcGVyFfyct0AaCW5ld3NwYXBlchoGcGFwZXJzGgdhcnRpY2xlMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnppM2hvckNpbTFNNkRtT2JKNE8xc1lSUkVSSmxwTzNpeVhLSFZIU0JRQ2RJZHd5OG1BN0g1Vmw4Vi14Nm84UWdmbFhXTFp0eGRkNF91ME5GcXFPZEVOYlQ0Tm9Lb0hyYmp0TjFGXzBkSnNBYUFmMHRNS1M4emEwV1JsNk1EdU1LN3F3dWdmekhaZWU3MHY1cFBwZklOb0ZqR25VaWJUOVg6OzxiPlBhcGVyPC9iPjogU2tldGNoLCBEcmF3ICZhbXA7IENyZWF0ZSAtIEFwcCBTdG9yZSAtIEFwcGxlQqUBPGI-UGFwZXI8L2I-IHByZXNlbnRzIGEgcG93ZXJmdWxseSBtb2Rlcm4gdG9vbCBmb3Igd3JpdGluZywgZHJhd2luZywgbm90ZS10YWtpbmcsIGFuZCBiZXlvbmQuIFNrZXRjaCBvdXQgaWRlYXMgYW5kIHdoaXAgdXAgZGlhZ3JhbXMgd2l0aCBhIHJpY2ggc2VsZWN0aW9uIG9mJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
      ],
      "regions": [
-      "AU"
+      "US"
      ],
      "source": {
-      "description": "We propose a reparameterization of LSTM that brings the benefits of batch nor- malization to recurrent neural networks. Whereas previous works only apply ...",
-      "icon": "https://serpapi.com/images/i/UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAAsBMJaQAMwAHU_VeHCtyAAD5BWSqR_EJ7MopEMzInmrtj_9aBG0vs-XSr83gkNLcOxvzcsjKlWvD7_Ghf_G2nKn1lvTUt6reEFwYcvMCy5Va0TgOgAA.webp",
-      "source_info_link": "https://openreview.net/pdf?id=r1VdcHcxx"
+      "description": "Paper presents a powerfully modern tool for writing, drawing, note-taking, and beyond. Sketch out ideas and whip up diagrams with a rich selection of ...",
+      "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3un4qxhPbgXbNvNBXge66tSokrl0v5vj9zs2XQxuLXXJHGpcPrpAZTYAA_vkIZIGfUiDzFfqAxbyYtEyy4V1a36NON4NOOXkEZqpHUh8XV2KOTwbSs7VKrG9g-uf_xMDGvAFjpofE32yKtDjq__NwADSp3ouZZxwyJttil7cpr2AGu_vAaKHHSxeyT8Pixo1xOXBQlIuHn0XAHdTwaD1RiA6Y0En4KPK3oZ8HMi8Xuwm4TDMLgcvsKybSNlJDh2dMhqMABfTBggSnUMfQsePNAEm3g1Nd9W5aWq6_hKtSJzNLI1iBxRUzo158P75lQSZnr-iqULYihzNO1uRPkhZ1Hgk3rl3jJGfdutfpTJWsJCV7zEJefBnxBh4lTm3ffKmR4tq7GBgAAA.webp",
+      "source_info_link": "https://apps.apple.com/us/app/paper-sketch-draw-create/id506003812"
      }
     },
-    "author": "by T Cooijmans",
-    "displayed_link": "https://openreview.net › pdf",
-    "favicon": "https://serpapi.com/images/i/UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAAsBMJaQAMwAHU_VeHCtyAAD5BWSqR_EJ7MopEMzInmrtj_9aBG0vs-XSr83gkNLcOxvzcsjKlWvD7_Ghf_G2nKn1lvTUt6reEFwYcvMCy5Va0TgOgAA.webp",
-    "link": "https://openreview.net/pdf?id=r1VdcHcxx",
-    "position": 4,
-    "read_more_link": "https://openreview.net/pdf?id=r1VdcHcxx#:~:text=We%20propose%20a%20reparameterization%20of,previous%20works%20only%20apply%20batch",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVopZerfcFv6Q4Zwaxvzuo0rj7HwU_TsGo8k5U5GuyyvRxwzB1UY4c9wGQbQ6IK5NzpIgCHAqDT26cCx9UfQkS8lrFfsg9nZzpeanzkcv1Zxgru2R_FOC99VZs&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQFnoECCMQAQ&uoh=1",
-    "snippet": "We propose a reparameterization of LSTM that brings the benefits of batch nor- malization to recurrent neural networks. Whereas previous works only apply ...",
-    "snippet_highlighted_words": [
-     "batch"
-    ],
-    "source": "OpenReview",
-    "title": "RECURRENT BATCH NORMALIZATION"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "AU"
-     ],
-     "source": {
-      "description": "Batch normalization has proven an indispensable method, applied in nearly all deployed image classifiers, earning the paper that introduced the technique tens ...",
-      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoNABAAAsBMJbACdLoAngDeMyIiLExgB3n7AAD-6zZyK5UaTtIL4wnSBoRqfH_JpzMZ85x2Gew_yBfk-pvgeqDtVGJ-bzfq_KSiY1mveslDNwM7H9Bokr9JrXDo6kPI9m3z3yyNQPkOdT8nB_4oU72qJvZi4-kzIXuiJb_xxJH0jRZQrs2wG4yDvK2i3woDE2P12gAA.webp",
-      "source_info_link": "https://d2l.ai/chapter_convolutional-modern/batch-norm.html"
-     }
-    },
-    "displayed_link": "https://d2l.ai › batch-norm",
-    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoNABAAAsBMJbACdLoAngDeMyIiLExgB3n7AAD-6zZyK5UaTtIL4wnSBoRqfH_JpzMZ85x2Gew_yBfk-pvgeqDtVGJ-bzfq_KSiY1mveslDNwM7H9Bokr9JrXDo6kPI9m3z3yyNQPkOdT8nB_4oU72qJvZi4-kzIXuiJb_xxJH0jRZQrs2wG4yDvK2i3woDE2P12gAA.webp",
-    "link": "https://d2l.ai/chapter_convolutional-modern/batch-norm.html",
-    "position": 5,
-    "read_more_link": "https://d2l.ai/chapter_convolutional-modern/batch-norm.html#:~:text=Batch%20normalization%20has%20proven%20an,tens%20of%20thousands%20of%20citations.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVFp8PZRhGu_0EPvwzVU6WpRb5svHk73dwU0MsQy_qN3fenZ2sttaesPbQ56KVhztvJhRRbLQyuN7wsCJo6_cqA0bzvR2nbnLmPiwiHV3gNgzhHZUC9Akoyx5ucJTm8Ekbx4x2lwfbIkKN8_SlJvQ&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQFnoECDAQAQ&uoh=1",
-    "snippet": "Batch normalization has proven an indispensable method, applied in nearly all deployed image classifiers, earning the paper that introduced the technique tens ...",
-    "snippet_highlighted_words": [
-     "Batch normalization",
-     "paper",
-     "introduced"
-    ],
-    "source": "Dive into Deep Learning",
-    "title": "8.5. Batch Normalization"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "AU"
-     ],
-     "source": {
-      "description": "The paper that introduced the Batch Normalization to the world attributed it's success to the fact that it gets rid of internal covariate shift. However ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwBAABXRUJQVlA4IJABAAAQCQCdASocABwAPtE-tFooIigoFAEAGglpABFUfruPf_js4XBIcnFne-ePYH_Vnqb-hL-wAcX95pVRo9a06vKJGmPwxE6zQ4h8rjt85RkzsgAA_vYThgzGPr-Alsx9U6hlFpRAbQqgB2QTyl1rf0tGlxY89Vfcnn--I9nIbggHOn5VXRJzlW3DvTPODmg_eq32i7HY3s4_tOO_v3Zo5SvDvMbyHzARZqsvXzHirRMB2b3_24mTSFXVgGtTJlZ-SQ4wL0lejtYD0aVl564-ydHbdzYGInu9VPPBtdHJMFfbH_3sgc-H7lD9JXvqtX5HtP6U4XVZN0ruH_63ufkc_eNR0e6P8NaV_Zb1ZvTVruUGf5Ka_9vue2kD93P_r5-VY__fr9PsIGR8ihkg-WaCIsMFmzfyYSAwCr_Ij_rwMvqsc27JiOHNqeEW2RY_bsJIfcHrvxVNDQUBoFHdCXSQTsxWxae-rb19yu4r8JvxSLaUwJfVaFVBl73TALX5i-c0FUiwQDBzwmsIEuEhLee89AAA.webp",
-      "source_info_link": "https://blog.paperspace.com/busting-the-myths-about-batch-normalization/"
-     }
-    },
-    "displayed_link": "https://blog.paperspace.com › busting-the-myths-about-...",
-    "favicon": "https://serpapi.com/images/i/UklGRpwBAABXRUJQVlA4IJABAAAQCQCdASocABwAPtE-tFooIigoFAEAGglpABFUfruPf_js4XBIcnFne-ePYH_Vnqb-hL-wAcX95pVRo9a06vKJGmPwxE6zQ4h8rjt85RkzsgAA_vYThgzGPr-Alsx9U6hlFpRAbQqgB2QTyl1rf0tGlxY89Vfcnn--I9nIbggHOn5VXRJzlW3DvTPODmg_eq32i7HY3s4_tOO_v3Zo5SvDvMbyHzARZqsvXzHirRMB2b3_24mTSFXVgGtTJlZ-SQ4wL0lejtYD0aVl564-ydHbdzYGInu9VPPBtdHJMFfbH_3sgc-H7lD9JXvqtX5HtP6U4XVZN0ruH_63ufkc_eNR0e6P8NaV_Zb1ZvTVruUGf5Ka_9vue2kD93P_r5-VY__fr9PsIGR8ihkg-WaCIsMFmzfyYSAwCr_Ij_rwMvqsc27JiOHNqeEW2RY_bsJIfcHrvxVNDQUBoFHdCXSQTsxWxae-rb19yu4r8JvxSLaUwJfVaFVBl73TALX5i-c0FUiwQDBzwmsIEuEhLee89AAA.webp",
-    "link": "https://blog.paperspace.com/busting-the-myths-about-batch-normalization/",
+    "displayed_link": "https://apps.apple.com › app › paper-sketch-draw-create",
+    "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3un4qxhPbgXbNvNBXge66tSokrl0v5vj9zs2XQxuLXXJHGpcPrpAZTYAA_vkIZIGfUiDzFfqAxbyYtEyy4V1a36NON4NOOXkEZqpHUh8XV2KOTwbSs7VKrG9g-uf_xMDGvAFjpofE32yKtDjq__NwADSp3ouZZxwyJttil7cpr2AGu_vAaKHHSxeyT8Pixo1xOXBQlIuHn0XAHdTwaD1RiA6Y0En4KPK3oZ8HMi8Xuwm4TDMLgcvsKybSNlJDh2dMhqMABfTBggSnUMfQsePNAEm3g1Nd9W5aWq6_hKtSJzNLI1iBxRUzo158P75lQSZnr-iqULYihzNO1uRPkhZ1Hgk3rl3jJGfdutfpTJWsJCV7zEJefBnxBh4lTm3ffKmR4tq7GBgAAA.webp",
+    "link": "https://apps.apple.com/us/app/paper-sketch-draw-create/id506003812",
     "position": 6,
-    "read_more_link": "https://blog.paperspace.com/busting-the-myths-about-batch-normalization/#:~:text=The%20paper%20that%20introduced%20the,doesn't%20prevent%20ICS%20at%20all.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFY2Q7W4zx-nv0lcw8Q2qFulFhSRSXPAR1eRa3pHTd3kkcHx-JQg81CWffZ6oyuphkmLrhsyWuYP5m5QE2AP6rvGqilE5N94Qt96RsS5zEMHM1_idxzOAXZEjNxKT3BFPNbzE2V6g21m-zC76yY6ZvJRyrBJyaxrIUH_goQ&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQFnoECCYQAQ&uoh=1",
-    "snippet": "The paper that introduced the Batch Normalization to the world attributed it's success to the fact that it gets rid of internal covariate shift. However ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVzi3horCim1M6DmObJ4O1sYRRERJlpO3iyXKHVHSBQCdIdwy8mA7H5Vl8V-x6o8QgflXWLZtxdd4_u0NFqqOdENbT4NoKoHrbjtN1F_0dJsAaAf0tMKS8za0WRl6MDuMK7qwugfzHZee70v5pPpfINoFjGnUibT9X&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4QFnoECCAQAQ&uoh=1",
+    "snippet": "Paper presents a powerfully modern tool for writing, drawing, note-taking, and beyond. Sketch out ideas and whip up diagrams with a rich selection of ...",
     "snippet_highlighted_words": [
-     "paper",
-     "introduced",
-     "Batch Normalization"
+     "Paper"
     ],
-    "source": "Paperspace",
-    "title": "Busting the Myth About Batch Normalization"
+    "source": "Apple",
+    "title": "Paper: Sketch, Draw & Create - App Store - Apple"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVnhLa1BlYXBSMGd4a3YxNGM3MkZZRGQtUTlkUVN5UzN5c2JPaFNRRlg2RHhkZUZfbF9oWHh5V3NaTzdlQndPOGVCVll4ZHZrQ1RkZmtHdENsR0gyWEI0Yll6OFhfanRfUVdhWjA2NFRzeHpXaVNWVVowUTc1EgQaAggAGsIDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnAMIABAAGAAgACooCgVwYXBlchV7ROc-GgluZXdzcGFwZXIaBnBhcGVycxoHYXJ0aWNsZTKKAS9nb3RvP3VybD1DQUVTWEFIck96QVZ4S2tQZWFwUjBneGt2MTRjNzJGWURkLVE5ZFFTeVMzeXNiT2hTUUZYNkR4ZGVGX2xfaFh4eVdzWk83ZUJ3TzhlQlZZeGR2a0NUZGZrR3RDbEdIMlhCNGJZejhYX2p0X1FXYVowNjRUc3h6V2lTVlVaMFE3NTo6TWluaW11bSBXYWdlcyBhbmQgRW1wbG95bWVudDogQSBDYXNlIFN0dWR5IG9mIHRoZSBGYXN0IC4uLkKeAU9uIEFwcmlsIDEsIDE5OTIgTmV3IEplcnNleSYjMzk7cyBtaW5pbXVtIHdhZ2UgaW5jcmVhc2VkIGZyb20gJDQuMjUgdG8gJDUuMDUgcGVyIGhvdXIuIGZhc3QgZm9vZCByZXN0YXVyYW50cyBpbiBOZXcgSmVyc2V5IGluY3JlYXNlZCBlbXBsb3ltZW50IGJ5IDEzIHBlcmNlbnQuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVnhLa1BlYXBSMGd4a3YxNGM3MkZZRGQtUTlkUVN5UzN5c2JPaFNRRlg2RHhkZUZfbF9oWHh5V3NaTzdlQndPOGVCVll4ZHZrQ1RkZmtHdENsR0gyWEI0Yll6OFhfanRfUVdhWjA2NFRzeHpXaVNWVVowUTc1EgQaAggAGsIDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnAMIABAAGAAgACooCgVwYXBlchV7ROc-GgluZXdzcGFwZXIaBnBhcGVycxoHYXJ0aWNsZTKKAS9nb3RvP3VybD1DQUVTWEFIck96QVZ4S2tQZWFwUjBneGt2MTRjNzJGWURkLVE5ZFFTeVMzeXNiT2hTUUZYNkR4ZGVGX2xfaFh4eVdzWk83ZUJ3TzhlQlZZeGR2a0NUZGZrR3RDbEdIMlhCNGJZejhYX2p0X1FXYVowNjRUc3h6V2lTVlVaMFE3NTo6TWluaW11bSBXYWdlcyBhbmQgRW1wbG95bWVudDogQSBDYXNlIFN0dWR5IG9mIHRoZSBGYXN0IC4uLkKeAU9uIEFwcmlsIDEsIDE5OTIgTmV3IEplcnNleSYjMzk7cyBtaW5pbXVtIHdhZ2UgaW5jcmVhc2VkIGZyb20gJDQuMjUgdG8gJDUuMDUgcGVyIGhvdXIuIGZhc3QgZm9vZCByZXN0YXVyYW50cyBpbiBOZXcgSmVyc2V5IGluY3JlYXNlZCBlbXBsb3ltZW50IGJ5IDEzIHBlcmNlbnQuIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
      ],
      "regions": [
-      "AU"
+      "US"
      ],
      "source": {
-      "description": "ization Batch normalization was introduced in 2015 by Sergey Ioffe and Christian Szegedy in their seminal paper, “Batch Normalization: ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEzmDDTlDDTlDDTjCzTmDDXmDDXlDDXjADDiACblMUfkDDTiABXxoqn____seIP-9vftgIrjBDLnSlv63uDjETL1v8PuiJLkITy6llXUAAAADHRSTlMAGb-a_2M75f___47hSXTqAAAAtklEQVR4AbzS0Q6DIAyFYdWqLVZkVZzv_6SDWCNjcLv_9ks8ibRJa7uubSr1EOqLNIA2_NA4QQgRQtOYjUGMjCGIpdPzRbxYu_DF89cY8upsyL0omW4hJLztkRKEVhH9cZF-luRB8VaTSMjvUx48b-RgcSFHp0hxIcOFFNlmaHbDUEEQQvEVjP0FfR0Pj1BG2jcWULzvg1anvw_1yfLHZtDmwpkg6JmUDgwKB_YZZtIknKjxZgcAq0kTBYMoJKMAAAAASUVORK5CYII.png",
-      "source_info_link": "https://www.pingcap.com/article/understanding-the-impact-of-batch-normalization-on-cnns/"
+      "description": "On April 1, 1992 New Jersey's minimum wage increased from $4.25 to $5.05 per hour. fast food restaurants in New Jersey increased employment by 13 percent.",
+      "icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAABQCACdASogACAAPrUurVanIacnG_DgFolsAJ0yhH4w2iwr1fnOxAeoDbAXarvPtZGNk_2rnm3MjuhXtNSrqObt0f-nAgBennnS8AAA_v5GeLh-C2ec9qIuFxb4CLVSCs9iMnX-ihvwkE6M31VD7-ZLMt-bvE9ZNOklp7bMeS_8wfBSjQ6z0SvPELdV6PXlYnkL7fK2RSMn1OzjRyvVRwHluWHBEwQBR8WVuGKNrEcKijjaMIUbGLBRAXxXk-j7eaj2HxKax8IcJCDewOm5xxzrTyNkdre9UNUfV9LxtxwSzBrUrYkDoEY8WMIjLsJsZunGlajh19f_IWx1hOlbOFpT9UQVA1FpJVH9Lk0f2NSVmuaDHuHtZMBGnk32Aj1vTL-V9fCrz3wL5dLPaRaubGD6xRN5EAof_qw265J7aXRVn31ES-iqzyzSu0jQ0Kb-hdfbQS8SGH8x93kVvYOC47qcaYnCjjKDS4M-dxDY-wAAAA.webp",
+      "source_info_link": "https://www.nber.org/papers/w4509"
      }
     },
-    "date": "16 July 2024",
-    "displayed_link": "https://www.pingcap.com › Articles",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEzmDDTlDDTlDDTjCzTmDDXmDDXlDDXjADDiACblMUfkDDTiABXxoqn____seIP-9vftgIrjBDLnSlv63uDjETL1v8PuiJLkITy6llXUAAAADHRSTlMAGb-a_2M75f___47hSXTqAAAAtklEQVR4AbzS0Q6DIAyFYdWqLVZkVZzv_6SDWCNjcLv_9ks8ibRJa7uubSr1EOqLNIA2_NA4QQgRQtOYjUGMjCGIpdPzRbxYu_DF89cY8upsyL0omW4hJLztkRKEVhH9cZF-luRB8VaTSMjvUx48b-RgcSFHp0hxIcOFFNlmaHbDUEEQQvEVjP0FfR0Pj1BG2jcWULzvg1anvw_1yfLHZtDmwpkg6JmUDgwKB_YZZtIknKjxZgcAq0kTBYMoJKMAAAAASUVORK5CYII.png",
-    "link": "https://www.pingcap.com/article/understanding-the-impact-of-batch-normalization-on-cnns/",
+    "author": "by D Card",
+    "displayed_link": "https://www.nber.org › papers",
+    "favicon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAABQCACdASogACAAPrUurVanIacnG_DgFolsAJ0yhH4w2iwr1fnOxAeoDbAXarvPtZGNk_2rnm3MjuhXtNSrqObt0f-nAgBennnS8AAA_v5GeLh-C2ec9qIuFxb4CLVSCs9iMnX-ihvwkE6M31VD7-ZLMt-bvE9ZNOklp7bMeS_8wfBSjQ6z0SvPELdV6PXlYnkL7fK2RSMn1OzjRyvVRwHluWHBEwQBR8WVuGKNrEcKijjaMIUbGLBRAXxXk-j7eaj2HxKax8IcJCDewOm5xxzrTyNkdre9UNUfV9LxtxwSzBrUrYkDoEY8WMIjLsJsZunGlajh19f_IWx1hOlbOFpT9UQVA1FpJVH9Lk0f2NSVmuaDHuHtZMBGnk32Aj1vTL-V9fCrz3wL5dLPaRaubGD6xRN5EAof_qw265J7aXRVn31ES-iqzyzSu0jQ0Kb-hdfbQS8SGH8x93kVvYOC47qcaYnCjjKDS4M-dxDY-wAAAA.webp",
+    "link": "https://www.nber.org/papers/w4509",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFQ5_aHZ_i6BGMNCZTVT_CwP_BpNpcR2XyDgvE-JpjIy2XAGuPlAGidNObqzK9z6NKGJ7FnJealh8JkPa_-FpjE3UthSAqABdMSnQLq_gOibDvoiwX7Z5RbZLfXHoZNpd06BQep6BUdg-iHYCfMe0zorg5lNteBbKcO_ypinh2oGOFChEQQUSlEgjLNE&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQFnoECEoQAQ&uoh=1",
-    "snippet": "ization Batch normalization was introduced in 2015 by Sergey Ioffe and Christian Szegedy in their seminal paper, “Batch Normalization: ...",
-    "snippet_highlighted_words": [
-     "Batch normalization",
-     "introduced",
-     "paper",
-     "Batch Normalization"
-    ],
-    "source": "TiDB",
-    "title": "Understanding the Impact of Batch Normalization on CNNs"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVxKkPeapR0gxkv14c72FYDd-Q9dQSyS3ysbOhSQFX6DxdeF_l_hXxyWsZO7eBwO8eBVYxdvkCTdfkGtClGH2XB4bYz8X_jt_QWaZ064TsxzWiSVUZ0Q75&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4QFnoECBwQAQ&uoh=1",
+    "snippet": "On April 1, 1992 New Jersey's minimum wage increased from $4.25 to $5.05 per hour. fast food restaurants in New Jersey increased employment by 13 percent.",
+    "source": "National Bureau of Economic Research | NBER",
+    "title": "Minimum Wages and Employment: A Case Study of the ..."
    },
    {
-    "about_this_result": {
-     "source": {
-      "description": "Batch Normalization improves gradient flow, leads to smoother loss landscape, helps mitigate vanishing and exploding gradients,",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "6.4K+ views · 1 year ago",
-    "duration": "38:19",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=0",
-      "time": "00:00",
-      "title": "Intro"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=28",
-      "time": "00:28",
-      "title": "Standardizing Input Features"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=229",
-      "time": "03:49",
-      "title": "Internal Covariate Shift"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=344",
-      "time": "05:44",
-      "title": "Transforming Layer Inputs using Batch Normalization"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=529",
-      "time": "08:49",
-      "title": "Batch Normalization before or after activation function"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=672",
-      "time": "11:12",
-      "title": "Scale and Shift Parameters in Batch Normalization"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=805",
-      "time": "13:25",
-      "title": "Training and Inference of Batch Normalization Layer"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=1122",
-      "time": "18:42",
-      "title": "BatchNorm Results and Benefits"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=1437",
-      "time": "23:57",
-      "title": "Paper Overview : Understanding Batch Normalization"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=1610",
-      "time": "26:50",
-      "title": "Paper Overview : How Does Batch Normalization Help Optimization ?"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=2023",
-      "time": "33:43",
-      "title": "Paper Overview : Batch Norm Biases Residual Blocks Towards Identity"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y&t=2274",
-      "time": "37:54",
-      "title": "Outro"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=nT9nKBCjS_Y",
-    "position": 8,
-    "snippet": "Batch Normalization improves gradient flow, leads to smoother loss landscape, helps mitigate vanishing and exploding gradients,",
-    "source": "YouTube · ExplainingAI",
-    "thumbnail": "https://serpapi.com/searches/6aafc57e8c60cad5ad5c1d3f/images/l81blizS3Kbykv1yaiiuxFUIY5u5_Yzy56v5DmO_Jaw.png",
-    "title": "Batch Normalization Explained | Why It Works in Deep Learning"
-   },
-   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZhdDhWQWF0Y2lraXk3LXlDRGZKRTVlb2d3aHp5RjRMT2RXdjkyRkc0Z3ZQUTMtLUpCTThTdHRwLTgwdmg2YzZ5MHFkRlZEVUktXzZYTTBQM1hYODQ2dGtjd3E1Yi1HTjhxYmhWbFloNXVwU01vZVNlNXBwVUQwLTZxcy13SHV1dzFoNzFPQTI5enFnQ2NTbzAyczE2cEVTakZGTFZxYklpS1g5NWRWUWtmY3VEV3JGOGtEdE53UUkzSTVOS0RlUzREM252UGF4Q3lCYTJpMWJmNlQtOUxWcFJldXRDNEFNcFRaXzdyd3FSZmF6RzdQZTVSMVhNREFqZjlBTnhwT2lXQV91TXhFbk9mejV1LWJoQjlTaG81by00SjJ1UXB2WWZBEgQaAggAGvIEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzAQIABAAGAAgACooCgVwYXBlchXgiolAGgluZXdzcGFwZXIaBnBhcGVycxoHYXJ0aWNsZTK4Ai9nb3RvP3VybD1DQUVTM1FFQjZ6c3dGYXQ4VkFhdGNpa2l5Ny15Q0RmSkU1ZW9nd2h6eUY0TE9kV3Y5MkZHNGd2UFEzLS1KQk04U3R0cC04MHZoNmM2eTBxZEZWRFVJLV82WE0wUDNYWDg0NnRrY3dxNWItR044cWJoVmxZaDV1cFNNb2VTZTVwcFVEMC02cXMtd0h1dXcxaDcxT0EyOXpxZ0NjU28wMnMxNnBFU2pGRkxWcWJJaUtYOTVkVlFrZmN1RFdyRjhrRHROd1FJM0k1TktEZVM0RDNudlBheEN5QmEyaTFiZjZULTlMVnBSZXV0QzRBTXBUWl83cndxUmZhekc3UGU1UjFYTURBamY5QU54cE9pV0FfdU14RW5PZno1dS1iaEI5U2hvNW8tNEoydVFwdllmQTo-Q29uc2lkZXJhdGlvbnMgZm9yIHRoZSBSZWd1bGF0aW9uIG9mIEdlbmVyYXRpdmUgQUktRW5hYmxlZCAuLi5CnAFUaGlzIGRpc2N1c3Npb24gPGI-cGFwZXI8L2I-IGlzIGludGVuZGVkIHRvIGVuZ2FnZSBzdGFrZWhvbGRlcnMgb24gdGhlIGNoYWxsZW5nZXMgYXNzb2NpYXRlZCB3aXRoIEdlbkFJLWVuYWJsZWQgbWVkaWNhbCBkZXZpY2VzIGFuZCB3YXlzIHRvIGFkdmFuY2UmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZhdDhWQWF0Y2lraXk3LXlDRGZKRTVlb2d3aHp5RjRMT2RXdjkyRkc0Z3ZQUTMtLUpCTThTdHRwLTgwdmg2YzZ5MHFkRlZEVUktXzZYTTBQM1hYODQ2dGtjd3E1Yi1HTjhxYmhWbFloNXVwU01vZVNlNXBwVUQwLTZxcy13SHV1dzFoNzFPQTI5enFnQ2NTbzAyczE2cEVTakZGTFZxYklpS1g5NWRWUWtmY3VEV3JGOGtEdE53UUkzSTVOS0RlUzREM252UGF4Q3lCYTJpMWJmNlQtOUxWcFJldXRDNEFNcFRaXzdyd3FSZmF6RzdQZTVSMVhNREFqZjlBTnhwT2lXQV91TXhFbk9mejV1LWJoQjlTaG81by00SjJ1UXB2WWZBEgQaAggAGvIEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzAQIABAAGAAgACooCgVwYXBlchXgiolAGgluZXdzcGFwZXIaBnBhcGVycxoHYXJ0aWNsZTK4Ai9nb3RvP3VybD1DQUVTM1FFQjZ6c3dGYXQ4VkFhdGNpa2l5Ny15Q0RmSkU1ZW9nd2h6eUY0TE9kV3Y5MkZHNGd2UFEzLS1KQk04U3R0cC04MHZoNmM2eTBxZEZWRFVJLV82WE0wUDNYWDg0NnRrY3dxNWItR044cWJoVmxZaDV1cFNNb2VTZTVwcFVEMC02cXMtd0h1dXcxaDcxT0EyOXpxZ0NjU28wMnMxNnBFU2pGRkxWcWJJaUtYOTVkVlFrZmN1RFdyRjhrRHROd1FJM0k1TktEZVM0RDNudlBheEN5QmEyaTFiZjZULTlMVnBSZXV0QzRBTXBUWl83cndxUmZhekc3UGU1UjFYTURBamY5QU54cE9pV0FfdU14RW5PZno1dS1iaEI5U2hvNW8tNEoydVFwdllmQTo-Q29uc2lkZXJhdGlvbnMgZm9yIHRoZSBSZWd1bGF0aW9uIG9mIEdlbmVyYXRpdmUgQUktRW5hYmxlZCAuLi5CnAFUaGlzIGRpc2N1c3Npb24gPGI-cGFwZXI8L2I-IGlzIGludGVuZGVkIHRvIGVuZ2FnZSBzdGFrZWhvbGRlcnMgb24gdGhlIGNoYWxsZW5nZXMgYXNzb2NpYXRlZCB3aXRoIEdlbkFJLWVuYWJsZWQgbWVkaWNhbCBkZXZpY2VzIGFuZCB3YXlzIHRvIGFkdmFuY2UmbmJzcDsuLi4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
       "en"
      ],
      "regions": [
-      "AU"
+      "US"
      ],
      "source": {
-      "description": "Batch Normalization was introduced in 2015 to mitigate the effects of Internal Covariate Shifts by normalizing the inputs to each layer within ...",
-      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
-      "source_info_link": "https://kwokanthony.medium.com/batch-normalization-in-neural-network-simply-explained-115fe281f4cd"
+      "description": "This discussion paper is intended to engage stakeholders on the challenges associated with GenAI-enabled medical devices and ways to advance ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAgMAAAAOFJJnAAAACVBMVEWtrKAAUJ_____xT7X9AAAASElEQVR4AZXOsRHAIAwEQTf5BHTw6kcJOYG-ShvA43GGLtrwrlTYHcHU5IiFGCAqWNpC_cH0oBb_QAxow9QnSEwoXngHc2OZbsUmRL1mo6oyAAAAAElFTkSuQmCC.png",
+      "source_info_link": "https://www.fda.gov/medical-devices/digital-health-center-excellence/considerations-regulation-generative-ai-enabled-medical-devices-discussion-paper-and-request"
      }
     },
-    "displayed_link": "90+ likes · 2 years ago",
-    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
-    "link": "https://kwokanthony.medium.com/batch-normalization-in-neural-network-simply-explained-115fe281f4cd",
-    "position": 9,
-    "read_more_link": "https://kwokanthony.medium.com/batch-normalization-in-neural-network-simply-explained-115fe281f4cd#:~:text=Batch%20Normalization%20was%20introduced%20in,batches%20in%20the%20training%20stage.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFSCLBKqPJrtw1xFh8CpIoVlce46A2xFRWH5h8iy_LUals5RQD5hCUhM8UUwcJWRlAwmd1wonTftCO5kBXJ6D5j_dyjDgX0PpNA6OFLsV2kkqrnje1g0tLtT_-XEp7JIE1NzdlzbaTeJMOBkpUkiyFkGH25qFIbt9t0rHHf8rpYfU67BbCGewSDBQD6VrTIAg1YfkC8vT&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQFnoECE4QAQ&uoh=1",
-    "snippet": "Batch Normalization was introduced in 2015 to mitigate the effects of Internal Covariate Shifts by normalizing the inputs to each layer within ...",
+    "date": "Aug 18, 2026",
+    "displayed_link": "https://www.fda.gov › digital-health-center-excellence",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAgMAAAAOFJJnAAAACVBMVEWtrKAAUJ_____xT7X9AAAASElEQVR4AZXOsRHAIAwEQTf5BHTw6kcJOYG-ShvA43GGLtrwrlTYHcHU5IiFGCAqWNpC_cH0oBb_QAxow9QnSEwoXngHc2OZbsUmRL1mo6oyAAAAAElFTkSuQmCC.png",
+    "link": "https://www.fda.gov/medical-devices/digital-health-center-excellence/considerations-regulation-generative-ai-enabled-medical-devices-discussion-paper-and-request",
+    "position": 8,
+    "read_more_link": "https://www.fda.gov/medical-devices/digital-health-center-excellence/considerations-regulation-generative-ai-enabled-medical-devices-discussion-paper-and-request#:~:text=This%20discussion%20paper%20is%20intended,regulatory%20approaches%20for%20these%20devices.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3QEB6zswFat8VAatcikiy7-yCDfJE5eogwhzyF4LOdWv92FG4gvPQ3--JBM8Sttp-80vh6c6y0qdFVDUI-_6XM0P3XX846tkcwq5b-GN8qbhVlYh5upSMoeSe5ppUD0-6qs-wHuuw1h71OA29zqgCcSo02s16pESjFFLVqbIiKX95dVQkfcuDWrF8kDtNwQI3I5NKDeS4D3nvPaxCyBa2i1bf6T-9LVpReutC4AMpTZ_7rwqRfazG7Pe5R1XMDAjf9ANxpOiWA_uMxEnOfz5u-bhB9Sho5o-4J2uQpvYfA&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4QFnoECFEQAQ&uoh=1",
+    "snippet": "This discussion paper is intended to engage stakeholders on the challenges associated with GenAI-enabled medical devices and ways to advance ...",
     "snippet_highlighted_words": [
-     "Batch Normalization was introduced in 2015"
+     "paper"
     ],
-    "source": "Medium · Anthony Kwok",
-    "title": "How Batch Normalization Stabilizes Your Deep Learning | by ..."
+    "source": "U.S. Food and Drug Administration (.gov)",
+    "title": "Considerations for the Regulation of Generative AI-Medical ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWUmFDRGJEczZJZnlCTEhvWU5JSFdXZEllN1FwWnQ5VEM1MVJNYVB4OXNZNGdNU2ZLTHlzMG1wY1g2eGF5a3pubUFvMW5ubVZMUlJqRGh5RG9zX1ozNjN3a0gxcXNrN01kT2cSBBoCCAAa5QISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC_AggAEAAYACAAKigKBXBhcGVyFdJL_z8aCW5ld3NwYXBlchoGcGFwZXJzGgdhcnRpY2xlMngvZ290bz91cmw9Q0FFU1RnSHJPekFWUmFDRGJEczZJZnlCTEhvWU5JSFdXZEllN1FwWnQ5VEM1MVJNYVB4OXNZNGdNU2ZLTHlzMG1wY1g2eGF5a3pubUFvMW5ubVZMUlJqRGh5RG9zX1ozNjN3a0gxcXNrN01kT2c6DVBhcGVyTUM6IEhvbWVCgQFQYXBlck1DIGlzIGEgTWluZWNyYWZ0IHNvZnR3YXJlIG9yZ2FuaXphdGlvbiBmb2N1c2luZyBvbiBpbXByb3ZpbmcgdGhlIGdhbWUmIzM5O3MgZWNvc3lzdGVtIHdpdGggZmFzdGVyIGFuZCBtb3JlIHNlY3VyZSBzb2Z0d2FyZS4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWUmFDRGJEczZJZnlCTEhvWU5JSFdXZEllN1FwWnQ5VEM1MVJNYVB4OXNZNGdNU2ZLTHlzMG1wY1g2eGF5a3pubUFvMW5ubVZMUlJqRGh5RG9zX1ozNjN3a0gxcXNrN01kT2cSBBoCCAAa5QISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC_AggAEAAYACAAKigKBXBhcGVyFdJL_z8aCW5ld3NwYXBlchoGcGFwZXJzGgdhcnRpY2xlMngvZ290bz91cmw9Q0FFU1RnSHJPekFWUmFDRGJEczZJZnlCTEhvWU5JSFdXZEllN1FwWnQ5VEM1MVJNYVB4OXNZNGdNU2ZLTHlzMG1wY1g2eGF5a3pubUFvMW5ubVZMUlJqRGh5RG9zX1ozNjN3a0gxcXNrN01kT2c6DVBhcGVyTUM6IEhvbWVCgQFQYXBlck1DIGlzIGEgTWluZWNyYWZ0IHNvZnR3YXJlIG9yZ2FuaXphdGlvbiBmb2N1c2luZyBvbiBpbXByb3ZpbmcgdGhlIGdhbWUmIzM5O3MgZWNvc3lzdGVtIHdpdGggZmFzdGVyIGFuZCBtb3JlIHNlY3VyZSBzb2Z0d2FyZS4iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "PaperMC is a Minecraft software organization focusing on improving the game's ecosystem with faster and more secure software.",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAACQBgCdASocABwAPtE-tFooIigoFAEAGglmALEM9TBBvHRXge4chPLsiO2y-9fqCY-_QGgULM6XLLtgvxgAAP72Bt3c7ZYahjssaQXn3R6a44zuKZzN1Qv7kZNMyNk46ott9cEaojY1fGwpWrnj2uF9e9GcSeL-YeTNJQfONOynqd-ABGwAQsVhOQMQ_41AF3dIuOPd9Pu04iOOYxsIG41SwJtjEncCV_VFcOnOcRQgy_i45k3LXMmBIa2NxhtBo2bEyhzp1ShMWy_BnEovPyx7I35647Bm52EbbBao4fott9GPiulEPeCb-MU8mOgPZLMM2B0mRWsCSGL4BiH8GcviGANjuSNnoFP3-mZcew-8aVKcXjfZhU1LUtr3ya52UKmWbibkoJZ7AMf2Ra_w04rrlSFB4C21QdZcfrSiAzBrxM4ZRnSloAAA.webp",
+      "source_info_link": "https://papermc.io/"
+     }
+    },
+    "displayed_link": "https://papermc.io",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAACQBgCdASocABwAPtE-tFooIigoFAEAGglmALEM9TBBvHRXge4chPLsiO2y-9fqCY-_QGgULM6XLLtgvxgAAP72Bt3c7ZYahjssaQXn3R6a44zuKZzN1Qv7kZNMyNk46ott9cEaojY1fGwpWrnj2uF9e9GcSeL-YeTNJQfONOynqd-ABGwAQsVhOQMQ_41AF3dIuOPd9Pu04iOOYxsIG41SwJtjEncCV_VFcOnOcRQgy_i45k3LXMmBIa2NxhtBo2bEyhzp1ShMWy_BnEovPyx7I35647Bm52EbbBao4fott9GPiulEPeCb-MU8mOgPZLMM2B0mRWsCSGL4BiH8GcviGANjuSNnoFP3-mZcew-8aVKcXjfZhU1LUtr3ya52UKmWbibkoJZ7AMf2Ra_w04rrlSFB4C21QdZcfrSiAzBrxM4ZRnSloAAA.webp",
+    "link": "https://papermc.io/",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVRaCDbDs6IfyBLHoYNIHWWdIe7QpZt9TC51RMaPx9sY4gMSfKLys0mpcX6xaykznmAo1nnmVLRRjDhyDos_Z363wkH1qsk7MdOg&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4QFnoECE4QAQ&uoh=1",
+    "snippet": "PaperMC is a Minecraft software organization focusing on improving the game's ecosystem with faster and more secure software.",
+    "source": "PaperMC",
+    "title": "PaperMC: Home"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=10&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8NMDegQIPBAW",
+   "next": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&ei=XR-9apqlKZPi5NoPqOST8Qs&start=10&sa=N&sstk=AS6-VmLSX4dVvsbuzzVAroWDmNKrxLlpJMwD__f1TO3npEADecyFZr0fDVW6tfk7hf91-dOTapylcU8uVowNQXPEcam1eM5HAYUboA&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q8NMDegQIQRAK",
    "other_pages": {
-    "10": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=90&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8tMDegQIPBAU",
-    "2": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=10&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8tMDegQIPBAE",
-    "3": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=20&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8tMDegQIPBAG",
-    "4": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=30&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8tMDegQIPBAI",
-    "5": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=40&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8tMDegQIPBAK",
-    "6": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=50&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8tMDegQIPBAM",
-    "7": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=60&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8tMDegQIPBAO",
-    "8": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=70&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8tMDegQIPBAQ",
-    "9": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&ei=g8WvasXJKcmr5NoPnZDv0QQ&start=80&sa=N&sstk=AS6-VmLC8RJMCF19rY7gxHDmAzCb491LBXzquQplQkBi0b7WTOoQG968Dp1DrMM31FWrIaEA0wjICuFIjPtyZiOvBOlbE8D4lSF73w&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ8tMDegQIPBAS"
+    "2": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&ei=XR-9apqlKZPi5NoPqOST8Qs&start=10&sa=N&sstk=AS6-VmLSX4dVvsbuzzVAroWDmNKrxLlpJMwD__f1TO3npEADecyFZr0fDVW6tfk7hf91-dOTapylcU8uVowNQXPEcam1eM5HAYUboA&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q8tMDegQIQRAE",
+    "3": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&ei=XR-9apqlKZPi5NoPqOST8Qs&start=20&sa=N&sstk=AS6-VmLSX4dVvsbuzzVAroWDmNKrxLlpJMwD__f1TO3npEADecyFZr0fDVW6tfk7hf91-dOTapylcU8uVowNQXPEcam1eM5HAYUboA&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q8tMDegQIQRAG",
+    "4": "https://www.google.com/search?q=paper+introduced+batch+normalization&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&ei=XR-9apqlKZPi5NoPqOST8Qs&start=30&sa=N&sstk=AS6-VmLSX4dVvsbuzzVAroWDmNKrxLlpJMwD__f1TO3npEADecyFZr0fDVW6tfk7hf91-dOTapylcU8uVowNQXPEcam1eM5HAYUboA&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q8tMDegQIQRAI"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1h6TkpXRWQ1V1RGQlNGQnBla2RhZVdSUU0zbHJlWEpJUzA4d1RVOXBUakIwUzNoUk1VMUdhRWRZVnpSSmVrcEVlRmc1VUU1WGRVVnVZVlI2VVRKaVlYTmFNVXg1VFRKVFdHUjZUa2RJVTJ0RVpUQm9abnBuUm5wc1FSSVhaemhYZG1GeldFcExZMjF5TlU1dlVHNWFSSFl3VVZFYUlrRkVjM0k1WmxGaE9UTnRiRFpIYkVOa2NqTTBaMXBrWmtoaVdrZFFPRjloYW1jIiwiZmN2IjoiMyIsImVpIjoiZzhXdmFzWEpLY21yNU5vUG5aRHYwUVEiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDM5SmpFXyIsInF1ZXN0aW9uIjoiV2hlbiB3YXMgYmF0Y2ggbm9ybWFsaXphdGlvbiBpbnRyb2R1Y2VkPyIsImxrIjoiR2lkM2FHVnVJSGRoY3lCaVlYUmphQ0J1YjNKdFlXeHBlbUYwYVc5dUlHbHVkSEp2WkhWalpXUSIsImJzIjoiYzQyT1BRdkNNQkNHY2Mza0hCVU9MWDZzV1p3azRDYUNpMGpuYTVPU1FFeEtlclhvcjdldG9vc0ZsLVBnbm52ZmgxM1lPalhhUTRNVlpFaTVBUl9pRloxOUlObmd3WHFLUWRXNVZsSnMtS3I1ajJYSXRtY1RhcWRnMzRHbmxvTk1BNWFsczFxMWF4R2loaEFCQzlMdHpNbmUtaEFwbGp6cHdfM3Jad2hrT3paTkRSTFluekpTelBpa0diNnpJMXNjS25CNDFfSGRSRjBCR2ZSZlp5a1NQcmREMkVkelBIb0MiLCJpZCI6ImZjX2c4V3Zhc1hKS2NtcjVOb1BuWkR2MFFRXzUifQ==",
-    "page_token": "vx4WjHicHdDBToMwHIDx-DIeHZ1OsyWLCQLbUDAU-qf0YqAd22hLq9aB3HwXn8qn0Xj-Dr_k-_pWp17-XJyPztn31Ww2DMPVwZiD2l9xo2f1-2fPZ7xWqqm5XN3e3aL7lq_Dj53_8LrzM2ItBNjLySLkIcaNPLhkY6ZSjjcCwWONcFtsWJt4FpV6Yfck3taSYSGt2cPSx0Hk2DxlbIK3fD6auohRCiJmHvhP5cLAFFMA9th41UR0FO87OTLkb5iXBqIUBaPHvtxgR5TSgiyeQcWRCLCuYFlWPTuL0FV5H34mFNLsLybINxWKbUGF5CBHCKCvOqAlTSXT45hsk7HeYhweRf8ciXlF0yqXrmvoDhV6mTXKhqLzMcHmlBE88U5pIm8c08sPTtipIcMgQshzigmfVPznvOII5ll22fLz-vry_-f6pdVuZd_M4RdaIIXq",
-    "question": "When was batch normalization introduced?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vx4WjHicHdDBToMwHIDx-DIeHZ1OsyWLCQLbUDAU-qf0YqAd22hLq9aB3HwXn8qn0Xj-Dr_k-_pWp17-XJyPztn31Ww2DMPVwZiD2l9xo2f1-2fPZ7xWqqm5XN3e3aL7lq_Dj53_8LrzM2ItBNjLySLkIcaNPLhkY6ZSjjcCwWONcFtsWJt4FpV6Yfck3taSYSGt2cPSx0Hk2DxlbIK3fD6auohRCiJmHvhP5cLAFFMA9th41UR0FO87OTLkb5iXBqIUBaPHvtxgR5TSgiyeQcWRCLCuYFlWPTuL0FV5H34mFNLsLybINxWKbUGF5CBHCKCvOqAlTSXT45hsk7HeYhweRf8ciXlF0yqXrmvoDhV6mTXKhqLzMcHmlBE88U5pIm8c08sPTtipIcMgQshzigmfVPznvOII5ll22fLz-vry_-f6pdVuZd_M4RdaIIXq",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1h6TkpXRWQ1V1RGQlNGQnBla2RhZVdSUU0zbHJlWEpJUzA4d1RVOXBUakIwUzNoUk1VMUdhRWRZVnpSSmVrcEVlRmc1VUU1WGRVVnVZVlI2VVRKaVlYTmFNVXg1VFRKVFdHUjZUa2RJVTJ0RVpUQm9abnBuUm5wc1FSSVhaemhYZG1GeldFcExZMjF5TlU1dlVHNWFSSFl3VVZFYUlrRkVjM0k1WmxGaE9UTnRiRFpIYkVOa2NqTTBaMXBrWmtoaVdrZFFPRjloYW1jIiwiZmN2IjoiMyIsImVpIjoiZzhXdmFzWEpLY21yNU5vUG5aRHYwUVEiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDM5SmpFXyIsInF1ZXN0aW9uIjoiV2hlbiB3YXMgYmF0Y2ggbm9ybWFsaXphdGlvbiBpbnRyb2R1Y2VkPyIsImxrIjoiR2lkM2FHVnVJSGRoY3lCaVlYUmphQ0J1YjNKdFlXeHBlbUYwYVc5dUlHbHVkSEp2WkhWalpXUSIsImJzIjoiYzQyT1BRdkNNQkNHY2Mza0hCVU9MWDZzV1p3azRDYUNpMGpuYTVPU1FFeEtlclhvcjdldG9vc0ZsLVBnbm52ZmgxM1lPalhhUTRNVlpFaTVBUl9pRloxOUlObmd3WHFLUWRXNVZsSnMtS3I1ajJYSXRtY1RhcWRnMzRHbmxvTk1BNWFsczFxMWF4R2loaEFCQzlMdHpNbmUtaEFwbGp6cHdfM3Jad2hrT3paTkRSTFluekpTelBpa0diNnpJMXNjS25CNDFfSGRSRjBCR2ZSZlp5a1NQcmREMkVkelBIb0MiLCJpZCI6ImZjX2c4V3Zhc1hKS2NtcjVOb1BuWkR2MFFRXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpHRkdaMVphWDI4d1FUTnRkbEJDUm1WRE5FNTBPV1pJTWtOb2VFRXhiR2hyUzJWdmVURlVjV3A2Vm5aNlltWlhSMEptV1Y5d1dWVk1VblZFU1d4cFUxUXpYMlpqYUVGRk5XeFhSVTR3TlZSaFIyZGlVVVJQWVhGRWR4SVhXRkl0T1dGd2NXeExXbEJwTlU1dlVIRlBVMVE0VVhNYUlrRkVjM0k1WmxKRVluTXlhalF3VWtGWmNFMU5ZUzB3Tm5keFZITkpjbVZTYVZFIiwiZmN2IjoiMyIsImVpIjoiWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXMiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDJ3Y2lnXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBwYXBlciBtY3A/IiwibGsiOiJHaEYzYUdGMElHbHpJSEJoY0dWeUlHMWpjQSIsImJzIjoiYy1QUzVCSUt6MGdzVWNnc1ZpaElMRWd0VXNoTkxyQTNFcFlTTEVjWDVUTGxVdlRJTDFmSUxVM09VRWpKVHkxV0tNbElWUWdBU3ljV0ZDZ2s1eGVYMkJzSlNQRVZvQWh4V1hISncyeEExVkJhbkpxaWtKWmZaRzhrTGlWYWpxUUViZ0NYSVpjWW11c1NVMUlWOHROUXRLRElDREFDQUEiLCJpZCI6ImZjX1hSLTlhcHFsS1pQaTVOb1BxT1NUOFFzXzUifQ==",
+    "page_token": "3E8JOnicHdBdboIwAADg7DI-SgvTTROzDG1hRIqUthBeFiwCQvmZoChvu8tOtdMs2XeE7_tHnZvq9ykqhqHr15o2juM8b9tcneayrbWkfzRSk4lSx0RW6-XLEr5lcoP60dy2o-nzrhM7CoIQ1kmUXuNSGK79MbkI964ghzSi1-AMewJNnOoL39VXh3jygV_SIhUSSN6ZlAmV2qTxQXyRTTfwSvBkUu0-wnc2KUzsGLhg5TA7N1yd7hLwevcCiCJDMW7TmDctPNnvU2zh0n8AeAzpFw0JEJHYC7SwwmplhCVGwnIyxoubLLkRARRgWAR7pgpp4z6AnZ8w4R2heWeQcA_jyTo7JrXJwwtjnggcprzVCUovARIHioqAbOGzaAQhdUHSnWPMMnnbGLP_sc1nVg_r7tLmf3AjdpI",
+    "question": "What is paper mcp?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3E8JOnicHdBdboIwAADg7DI-SgvTTROzDG1hRIqUthBeFiwCQvmZoChvu8tOtdMs2XeE7_tHnZvq9ykqhqHr15o2juM8b9tcneayrbWkfzRSk4lSx0RW6-XLEr5lcoP60dy2o-nzrhM7CoIQ1kmUXuNSGK79MbkI964ghzSi1-AMewJNnOoL39VXh3jygV_SIhUSSN6ZlAmV2qTxQXyRTTfwSvBkUu0-wnc2KUzsGLhg5TA7N1yd7hLwevcCiCJDMW7TmDctPNnvU2zh0n8AeAzpFw0JEJHYC7SwwmplhCVGwnIyxoubLLkRARRgWAR7pgpp4z6AnZ8w4R2heWeQcA_jyTo7JrXJwwtjnggcprzVCUovARIHioqAbOGzaAQhdUHSnWPMMnnbGLP_sc1nVg_r7tLmf3AjdpI",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpHRkdaMVphWDI4d1FUTnRkbEJDUm1WRE5FNTBPV1pJTWtOb2VFRXhiR2hyUzJWdmVURlVjV3A2Vm5aNlltWlhSMEptV1Y5d1dWVk1VblZFU1d4cFUxUXpYMlpqYUVGRk5XeFhSVTR3TlZSaFIyZGlVVVJQWVhGRWR4SVhXRkl0T1dGd2NXeExXbEJwTlU1dlVIRlBVMVE0VVhNYUlrRkVjM0k1WmxKRVluTXlhalF3VWtGWmNFMU5ZUzB3Tm5keFZITkpjbVZTYVZFIiwiZmN2IjoiMyIsImVpIjoiWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXMiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDJ3Y2lnXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBwYXBlciBtY3A%2FIiwibGsiOiJHaEYzYUdGMElHbHpJSEJoY0dWeUlHMWpjQSIsImJzIjoiYy1QUzVCSUt6MGdzVWNnc1ZpaElMRWd0VXNoTkxyQTNFcFlTTEVjWDVUTGxVdlRJTDFmSUxVM09VRWpKVHkxV0tNbElWUWdBU3ljV0ZDZ2s1eGVYMkJzSlNQRVZvQWh4V1hISncyeEExVkJhbkpxaWtKWmZaRzhrTGlWYWpxUUViZ0NYSVpjWW11c1NVMUlWOHROUXRLRElDREFDQUEiLCJpZCI6ImZjX1hSLTlhcHFsS1pQaTVOb1BxT1NUOFFzXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1h6TkpXRWQ1V1RGQlNGQnBla2RhZVdSUU0zbHJlWEpJUzA4d1RVOXBUakIwUzNoUk1VMUdhRWRZVnpSSmVrcEVlRmc1VUU1WGRVVnVZVlI2VVRKaVlYTmFNVXg1VFRKVFdHUjZUa2RJVTJ0RVpUQm9abnBuUm5wc1FSSVhaemhYZG1GeldFcExZMjF5TlU1dlVHNWFSSFl3VVZFYUlrRkVjM0k1WmxGaE9UTnRiRFpIYkVOa2NqTTBaMXBrWmtoaVdrZFFPRjloYW1jIiwiZmN2IjoiMyIsImVpIjoiZzhXdmFzWEpLY21yNU5vUG5aRHYwUVEiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDM5SmpFXyIsInF1ZXN0aW9uIjoiU2hvdWxkIEJhdGNoTm9ybSBiZSBhcHBsaWVkIGJlZm9yZSBvciBhZnRlciBhY3RpdmF0aW9uPyIsImxrIjoiR2lSaVlYUmphRzV2Y20wZ1ltVm1iM0psSUc5eUlHRm1kR1Z5SUdGamRHbDJZWFJwYjI0IiwiYnMiOiJjNDJPUFF2Q01CQ0djYzNrSEJVT0xYNnNXWndrNENhQ2kwam5hNU9TUUV4S2VyWG9yN2V0b29zRmwtUGdubnZmaDEzWU9qWGFRNE1WWkVpNUFSX2lGWjE5SU5uZ3dYcUtRZFc1VmxKcy1LcjVqMlhJdG1jVGFxZGczNEdubG9OTUE1YWxzMXExYXhHaWhoQUJDOUx0ek1uZS1oQXBsanpwd18zclp3aGtPelpORFJMWW56SlN6UGlrR2I2ekkxc2NLbkI0MV9IZFJGMEJHZlJmWnlrU1ByZEQyRWR6UEhvQyIsImlkIjoiZmNfZzhXdmFzWEpLY21yNU5vUG5aRHYwUVFfNSJ9",
-    "page_token": "SQe5NXicHdBdbqMwFEBhdTN9bPhJMkqkqJIbLikpbmOwjf0yArsJAQNWQiHhbbYwa5hVzWqmmhWcT-fXH3Nu678Pv8u-t9f1bDaO49Op607m80l1zSy_3ls1U7kxRa7q9fLH0n0-qk0wKPRyUehArWVb4iQT-Lq5CbyVWPgIFQEw0uJtAuRNO9HlYKiXT-iYhr0rQfdxaAbmLVzOoq-CkTfp9KVwIpG5MOesdjL35PPU3Elr5yngvaL2WmSWxmDuii6-hEGXmAIokBPfMSR53-UpqimXe-rLPYayjGsb5pl2chcP75QsdHjbE0pKzldhHJiPJIRQe9GZclvHvGxVSwZSvd5yWL2oHVTy7jK9NSJxpENbifgOYhrEY1Dq9h20JzIskrqviuzVTZvVoTA20BX6TnTnAyWTqkxDnZXFXjR9glzib2bOoZFZd0snVmPQDa3EKMfHoxo2_uP_15ufx6Zf20t3-gfSCo0-",
-    "question": "Should BatchNorm be applied before or after activation?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SQe5NXicHdBdbqMwFEBhdTN9bPhJMkqkqJIbLikpbmOwjf0yArsJAQNWQiHhbbYwa5hVzWqmmhWcT-fXH3Nu678Pv8u-t9f1bDaO49Op607m80l1zSy_3ls1U7kxRa7q9fLH0n0-qk0wKPRyUehArWVb4iQT-Lq5CbyVWPgIFQEw0uJtAuRNO9HlYKiXT-iYhr0rQfdxaAbmLVzOoq-CkTfp9KVwIpG5MOesdjL35PPU3Elr5yngvaL2WmSWxmDuii6-hEGXmAIokBPfMSR53-UpqimXe-rLPYayjGsb5pl2chcP75QsdHjbE0pKzldhHJiPJIRQe9GZclvHvGxVSwZSvd5yWL2oHVTy7jK9NSJxpENbifgOYhrEY1Dq9h20JzIskrqviuzVTZvVoTA20BX6TnTnAyWTqkxDnZXFXjR9glzib2bOoZFZd0snVmPQDa3EKMfHoxo2_uP_15ufx6Zf20t3-gfSCo0-",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1h6TkpXRWQ1V1RGQlNGQnBla2RhZVdSUU0zbHJlWEpJUzA4d1RVOXBUakIwUzNoUk1VMUdhRWRZVnpSSmVrcEVlRmc1VUU1WGRVVnVZVlI2VVRKaVlYTmFNVXg1VFRKVFdHUjZUa2RJVTJ0RVpUQm9abnBuUm5wc1FSSVhaemhYZG1GeldFcExZMjF5TlU1dlVHNWFSSFl3VVZFYUlrRkVjM0k1WmxGaE9UTnRiRFpIYkVOa2NqTTBaMXBrWmtoaVdrZFFPRjloYW1jIiwiZmN2IjoiMyIsImVpIjoiZzhXdmFzWEpLY21yNU5vUG5aRHYwUVEiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDM5SmpFXyIsInF1ZXN0aW9uIjoiU2hvdWxkIEJhdGNoTm9ybSBiZSBhcHBsaWVkIGJlZm9yZSBvciBhZnRlciBhY3RpdmF0aW9uPyIsImxrIjoiR2lSaVlYUmphRzV2Y20wZ1ltVm1iM0psSUc5eUlHRm1kR1Z5SUdGamRHbDJZWFJwYjI0IiwiYnMiOiJjNDJPUFF2Q01CQ0djYzNrSEJVT0xYNnNXWndrNENhQ2kwam5hNU9TUUV4S2VyWG9yN2V0b29zRmwtUGdubnZmaDEzWU9qWGFRNE1WWkVpNUFSX2lGWjE5SU5uZ3dYcUtRZFc1VmxKcy1LcjVqMlhJdG1jVGFxZGczNEdubG9OTUE1YWxzMXExYXhHaWhoQUJDOUx0ek1uZS1oQXBsanpwd18zclp3aGtPelpORFJMWW56SlN6UGlrR2I2ekkxc2NLbkI0MV9IZFJGMEJHZlJmWnlrU1ByZEQyRWR6UEhvQyIsImlkIjoiZmNfZzhXdmFzWEpLY21yNU5vUG5aRHYwUVFfNSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpHRkdaMVphWDI4d1FUTnRkbEJDUm1WRE5FNTBPV1pJTWtOb2VFRXhiR2hyUzJWdmVURlVjV3A2Vm5aNlltWlhSMEptV1Y5d1dWVk1VblZFU1d4cFUxUXpYMlpqYUVGRk5XeFhSVTR3TlZSaFIyZGlVVVJQWVhGRWR4SVhXRkl0T1dGd2NXeExXbEJwTlU1dlVIRlBVMVE0VVhNYUlrRkVjM0k1WmxKRVluTXlhalF3VWtGWmNFMU5ZUzB3Tm5keFZITkpjbVZTYVZFIiwiZmN2IjoiMyIsImVpIjoiWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXMiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDJ3Y2lnXyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyB0aGUgUGFwZXIgYXBwIGNvc3Q/IiwibGsiOiJHZzV3WVhCbGNpQmhjSEFnWTI5emRBIiwiYnMiOiJjLVBTNUJJS3owZ3NVY2dzVmloSUxFZ3RVc2hOTHJBM0VwWVNMRWNYNVRMbFV2VElMMWZJTFUzT1VFakpUeTFXS01sSVZRZ0FTeWNXRkNnazV4ZVgyQnNKU1BFVm9BaHhXWEhKdzJ4QTFWQmFuSnFpa0paZlpHOGtMaVZhanFRRWJnQ1hJWmNZbXVzU1UxSVY4dE5RdEtESUNEQUNBQSIsImlkIjoiZmNfWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXNfNSJ9",
+    "page_token": "wCoGgXicHdBfbpswHABg7TJ9bGxYOzVSVIlgE9LiiF_8J_hlckxICAbchhXC2-6yU-00k_Yd4fv9x9Vd8_fb12UY_G25WIzj-Hju-7M7Pdq-XZjbvbMLa5w7Gtssn38849fKrsivNFp_pFEuvJcxoH2Dg2OiKQ-dyahjAvsNC7ZpgemdqfLjtMkGc9i-HTe03sVllQUAmiCkOmZkGAnrvJYhpHsyxUZu611CJhuXhW1grYVTTMk1KIyNg1xgJ1VLuzLeqmzjPrPW3yCgbzDTd5VgzSXB7MreQcoUQhgZoWOONBII-ElIppIR7cgN2Vk_8c7v-bVMGaI9R3bSMXCJLhG5lIWo0VNxiKYjGYxIGszbl9yKFy7jC9ipr3MBs726VlzZ4UR1Vc4szWdZZDyatPh-30m3tgEUPPCRyB8q-7UKH_5_rn5W7bD0n_35H09rgUU",
+    "question": "How much does the Paper app cost?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wCoGgXicHdBfbpswHABg7TJ9bGxYOzVSVIlgE9LiiF_8J_hlckxICAbchhXC2-6yU-00k_Yd4fv9x9Vd8_fb12UY_G25WIzj-Hju-7M7Pdq-XZjbvbMLa5w7Gtssn38849fKrsivNFp_pFEuvJcxoH2Dg2OiKQ-dyahjAvsNC7ZpgemdqfLjtMkGc9i-HTe03sVllQUAmiCkOmZkGAnrvJYhpHsyxUZu611CJhuXhW1grYVTTMk1KIyNg1xgJ1VLuzLeqmzjPrPW3yCgbzDTd5VgzSXB7MreQcoUQhgZoWOONBII-ElIppIR7cgN2Vk_8c7v-bVMGaI9R3bSMXCJLhG5lIWo0VNxiKYjGYxIGszbl9yKFy7jC9ipr3MBs726VlzZ4UR1Vc4szWdZZDyatPh-30m3tgEUPPCRyB8q-7UKH_5_rn5W7bD0n_35H09rgUU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpHRkdaMVphWDI4d1FUTnRkbEJDUm1WRE5FNTBPV1pJTWtOb2VFRXhiR2hyUzJWdmVURlVjV3A2Vm5aNlltWlhSMEptV1Y5d1dWVk1VblZFU1d4cFUxUXpYMlpqYUVGRk5XeFhSVTR3TlZSaFIyZGlVVVJQWVhGRWR4SVhXRkl0T1dGd2NXeExXbEJwTlU1dlVIRlBVMVE0VVhNYUlrRkVjM0k1WmxKRVluTXlhalF3VWtGWmNFMU5ZUzB3Tm5keFZITkpjbVZTYVZFIiwiZmN2IjoiMyIsImVpIjoiWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXMiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDJ3Y2lnXyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyB0aGUgUGFwZXIgYXBwIGNvc3Q%2FIiwibGsiOiJHZzV3WVhCbGNpQmhjSEFnWTI5emRBIiwiYnMiOiJjLVBTNUJJS3owZ3NVY2dzVmloSUxFZ3RVc2hOTHJBM0VwWVNMRWNYNVRMbFV2VElMMWZJTFUzT1VFakpUeTFXS01sSVZRZ0FTeWNXRkNnazV4ZVgyQnNKU1BFVm9BaHhXWEhKdzJ4QTFWQmFuSnFpa0paZlpHOGtMaVZhanFRRWJnQ1hJWmNZbXVzU1UxSVY4dE5RdEtESUNEQUNBQSIsImlkIjoiZmNfWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXNfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1h6TkpXRWQ1V1RGQlNGQnBla2RhZVdSUU0zbHJlWEpJUzA4d1RVOXBUakIwUzNoUk1VMUdhRWRZVnpSSmVrcEVlRmc1VUU1WGRVVnVZVlI2VVRKaVlYTmFNVXg1VFRKVFdHUjZUa2RJVTJ0RVpUQm9abnBuUm5wc1FSSVhaemhYZG1GeldFcExZMjF5TlU1dlVHNWFSSFl3VVZFYUlrRkVjM0k1WmxGaE9UTnRiRFpIYkVOa2NqTTBaMXBrWmtoaVdrZFFPRjloYW1jIiwiZmN2IjoiMyIsImVpIjoiZzhXdmFzWEpLY21yNU5vUG5aRHYwUVEiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDM5SmpFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBiYXRjaCBub3JtYWxpemF0aW9uPyIsImxrIjoiR2h0M2FHRjBJR2x6SUdKaGRHTm9JRzV2Y20xaGJHbDZZWFJwYjI0IiwiYnMiOiJjNDJPUFF2Q01CQ0djYzNrSEJVT0xYNnNXWndrNENhQ2kwam5hNU9TUUV4S2VyWG9yN2V0b29zRmwtUGdubnZmaDEzWU9qWGFRNE1WWkVpNUFSX2lGWjE5SU5uZ3dYcUtRZFc1VmxKcy1LcjVqMlhJdG1jVGFxZGczNEdubG9OTUE1YWxzMXExYXhHaWhoQUJDOUx0ek1uZS1oQXBsanpwd18zclp3aGtPelpORFJMWW56SlN6UGlrR2I2ekkxc2NLbkI0MV9IZFJGMEJHZlJmWnlrU1ByZEQyRWR6UEhvQyIsImlkIjoiZmNfZzhXdmFzWEpLY21yNU5vUG5aRHYwUVFfNSJ9",
-    "page_token": "h-IdcHicHdBdToMwAADgeJk9jr9txiWLCUIHOLpQaIG-GCgMBh10rsrom3fxVJ5G4w2-fF_f_Dz0Pw9ZK6W4bTVtmqZlM44Nr5dsvGjFbR6YxgrOy4L1283jxng-sZ17m-yXcbIjLARxkB7rPI66XFVduyoTKCJ8t0LMz4nxBCIsVWjxOR-QF83GFRLSkgtYM0VpaY7zIeN-0eE7UQGkXaMIELRS8AD7qqt0GBYJvcamyCCgeuUa5nEvBTXXXtLl6zBtB0xgiDzkU48EyAEfOe8toucq3ss_V-ATD9q1K73aDTZpKu4wzS3i-DEw2YpYtGVG-xqbULKOHEvD_kh7ZIYAoP05sJEH52NK4zpFHBuRUXgIUGWPCDMrBCikjm1FQ5BhVQ2LE_vcWYv_sd3b6SK34n1sfgHg7Hgg",
-    "question": "What is batch normalization?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=h-IdcHicHdBdToMwAADgeJk9jr9txiWLCUIHOLpQaIG-GCgMBh10rsrom3fxVJ5G4w2-fF_f_Dz0Pw9ZK6W4bTVtmqZlM44Nr5dsvGjFbR6YxgrOy4L1283jxng-sZ17m-yXcbIjLARxkB7rPI66XFVduyoTKCJ8t0LMz4nxBCIsVWjxOR-QF83GFRLSkgtYM0VpaY7zIeN-0eE7UQGkXaMIELRS8AD7qqt0GBYJvcamyCCgeuUa5nEvBTXXXtLl6zBtB0xgiDzkU48EyAEfOe8toucq3ss_V-ATD9q1K73aDTZpKu4wzS3i-DEw2YpYtGVG-xqbULKOHEvD_kh7ZIYAoP05sJEH52NK4zpFHBuRUXgIUGWPCDMrBCikjm1FQ5BhVQ2LE_vcWYv_sd3b6SK34n1sfgHg7Hgg",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1h6TkpXRWQ1V1RGQlNGQnBla2RhZVdSUU0zbHJlWEpJUzA4d1RVOXBUakIwUzNoUk1VMUdhRWRZVnpSSmVrcEVlRmc1VUU1WGRVVnVZVlI2VVRKaVlYTmFNVXg1VFRKVFdHUjZUa2RJVTJ0RVpUQm9abnBuUm5wc1FSSVhaemhYZG1GeldFcExZMjF5TlU1dlVHNWFSSFl3VVZFYUlrRkVjM0k1WmxGaE9UTnRiRFpIYkVOa2NqTTBaMXBrWmtoaVdrZFFPRjloYW1jIiwiZmN2IjoiMyIsImVpIjoiZzhXdmFzWEpLY21yNU5vUG5aRHYwUVEiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDM5SmpFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBiYXRjaCBub3JtYWxpemF0aW9uPyIsImxrIjoiR2h0M2FHRjBJR2x6SUdKaGRHTm9JRzV2Y20xaGJHbDZZWFJwYjI0IiwiYnMiOiJjNDJPUFF2Q01CQ0djYzNrSEJVT0xYNnNXWndrNENhQ2kwam5hNU9TUUV4S2VyWG9yN2V0b29zRmwtUGdubnZmaDEzWU9qWGFRNE1WWkVpNUFSX2lGWjE5SU5uZ3dYcUtRZFc1VmxKcy1LcjVqMlhJdG1jVGFxZGczNEdubG9OTUE1YWxzMXExYXhHaWhoQUJDOUx0ek1uZS1oQXBsanpwd18zclp3aGtPelpORFJMWW56SlN6UGlrR2I2ekkxc2NLbkI0MV9IZFJGMEJHZlJmWnlrU1ByZEQyRWR6UEhvQyIsImlkIjoiZmNfZzhXdmFzWEpLY21yNU5vUG5aRHYwUVFfNSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpHRkdaMVphWDI4d1FUTnRkbEJDUm1WRE5FNTBPV1pJTWtOb2VFRXhiR2hyUzJWdmVURlVjV3A2Vm5aNlltWlhSMEptV1Y5d1dWVk1VblZFU1d4cFUxUXpYMlpqYUVGRk5XeFhSVTR3TlZSaFIyZGlVVVJQWVhGRWR4SVhXRkl0T1dGd2NXeExXbEJwTlU1dlVIRlBVMVE0VVhNYUlrRkVjM0k1WmxKRVluTXlhalF3VWtGWmNFMU5ZUzB3Tm5keFZITkpjbVZTYVZFIiwiZmN2IjoiMyIsImVpIjoiWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXMiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDJ3Y2lnXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgUGFwZXIgYXBwIHVzZWQgZm9yPyIsImxrIjoiR2hWM2FHRjBJR2x6SUhSb1pTQndZWEJsY2lCaGNIQSIsImJzIjoiYy1QUzVCSUt6MGdzVWNnc1ZpaElMRWd0VXNoTkxyQTNFcFlTTEVjWDVUTGxVdlRJTDFmSUxVM09VRWpKVHkxV0tNbElWUWdBU3ljV0ZDZ2s1eGVYMkJzSlNQRVZvQWh4V1hISncyeEExVkJhbkpxaWtKWmZaRzhrTGlWYWpxUUViZ0NYSVpjWW11c1NVMUlWOHROUXRLRElDREFDQUEiLCJpZCI6ImZjX1hSLTlhcHFsS1pQaTVOb1BxT1NUOFFzXzUifQ==",
+    "page_token": "dGQu5XicHdDLcoIwGEDh6cu4rCSorc44nVGBYiVKyB8um06IF5REsERFd32XPlWfpk5XZ3NW3_eP2h_L36dLYUzdjLrd6_X6vKuqndo8y0p3RXM7yq4USuVClqPBywC9beXYOfuT6cmfhFDXfEatqCQfWaxuATa9APg5LBUjOqPcVb3IXS-I17_neIdJUojkTlAaSys_ZFEcoXNmZyHgYkmY00_h0VnRPH4hea2FrmzAyCN7xNKkCBYREsR7xVBSXx7JlKBhENnUSZHy2WEyIK5E-Uydcjz0Yydoc5gfiUeb5btCEBd1hpHJrHmaxbxktrsSd7UKsWlliRrqmSjk7hniOXWKdQp7q58mkzZ3jACvREwPQwlDxmcFlW21D4He5UFpwC1JdatzppbSMluezC0GBj_MONett4GrBWFnKy9ju_PvOf7cajOqv6rdH8jKgi8",
+    "question": "What is the Paper app used for?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dGQu5XicHdDLcoIwGEDh6cu4rCSorc44nVGBYiVKyB8um06IF5REsERFd32XPlWfpk5XZ3NW3_eP2h_L36dLYUzdjLrd6_X6vKuqndo8y0p3RXM7yq4USuVClqPBywC9beXYOfuT6cmfhFDXfEatqCQfWaxuATa9APg5LBUjOqPcVb3IXS-I17_neIdJUojkTlAaSys_ZFEcoXNmZyHgYkmY00_h0VnRPH4hea2FrmzAyCN7xNKkCBYREsR7xVBSXx7JlKBhENnUSZHy2WEyIK5E-Uydcjz0Yydoc5gfiUeb5btCEBd1hpHJrHmaxbxktrsSd7UKsWlliRrqmSjk7hniOXWKdQp7q58mkzZ3jACvREwPQwlDxmcFlW21D4He5UFpwC1JdatzppbSMluezC0GBj_MONett4GrBWFnKy9ju_PvOf7cajOqv6rdH8jKgi8",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpHRkdaMVphWDI4d1FUTnRkbEJDUm1WRE5FNTBPV1pJTWtOb2VFRXhiR2hyUzJWdmVURlVjV3A2Vm5aNlltWlhSMEptV1Y5d1dWVk1VblZFU1d4cFUxUXpYMlpqYUVGRk5XeFhSVTR3TlZSaFIyZGlVVVJQWVhGRWR4SVhXRkl0T1dGd2NXeExXbEJwTlU1dlVIRlBVMVE0VVhNYUlrRkVjM0k1WmxKRVluTXlhalF3VWtGWmNFMU5ZUzB3Tm5keFZITkpjbVZTYVZFIiwiZmN2IjoiMyIsImVpIjoiWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXMiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDJ3Y2lnXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgUGFwZXIgYXBwIHVzZWQgZm9yPyIsImxrIjoiR2hWM2FHRjBJR2x6SUhSb1pTQndZWEJsY2lCaGNIQSIsImJzIjoiYy1QUzVCSUt6MGdzVWNnc1ZpaElMRWd0VXNoTkxyQTNFcFlTTEVjWDVUTGxVdlRJTDFmSUxVM09VRWpKVHkxV0tNbElWUWdBU3ljV0ZDZ2s1eGVYMkJzSlNQRVZvQWh4V1hISncyeEExVkJhbkpxaWtKWmZaRzhrTGlWYWpxUUViZ0NYSVpjWW11c1NVMUlWOHROUXRLRElDREFDQUEiLCJpZCI6ImZjX1hSLTlhcHFsS1pQaTVOb1BxT1NUOFFzXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1h6TkpXRWQ1V1RGQlNGQnBla2RhZVdSUU0zbHJlWEpJUzA4d1RVOXBUakIwUzNoUk1VMUdhRWRZVnpSSmVrcEVlRmc1VUU1WGRVVnVZVlI2VVRKaVlYTmFNVXg1VFRKVFdHUjZUa2RJVTJ0RVpUQm9abnBuUm5wc1FSSVhaemhYZG1GeldFcExZMjF5TlU1dlVHNWFSSFl3VVZFYUlrRkVjM0k1WmxGaE9UTnRiRFpIYkVOa2NqTTBaMXBrWmtoaVdrZFFPRjloYW1jIiwiZmN2IjoiMyIsImVpIjoiZzhXdmFzWEpLY21yNU5vUG5aRHYwUVEiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDM5SmpFXyIsInF1ZXN0aW9uIjoiSXMgbGF5ZXJub3JtIGJldHRlciB0aGFuIEJhdGNoTm9ybT8iLCJsayI6IkdpSnBjeUJzWVhsbGNtNXZjbTBnWW1WMGRHVnlJSFJvWVc0Z1ltRjBZMmh1YjNKdCIsImJzIjoiYzQyT1BRdkNNQkNHY2Mza0hCVU9MWDZzV1p3azRDYUNpMGpuYTVPU1FFeEtlclhvcjdldG9vc0ZsLVBnbm52ZmgxM1lPalhhUTRNVlpFaTVBUl9pRloxOUlObmd3WHFLUWRXNVZsSnMtS3I1ajJYSXRtY1RhcWRnMzRHbmxvTk1BNWFsczFxMWF4R2loaEFCQzlMdHpNbmUtaEFwbGp6cHdfM3Jad2hrT3paTkRSTFluekpTelBpa0diNnpJMXNjS25CNDFfSGRSRjBCR2ZSZlp5a1NQcmREMkVkelBIb0MiLCJpZCI6ImZjX2c4V3Zhc1hKS2NtcjVOb1BuWkR2MFFRXzUifQ==",
-    "page_token": "FOqrp3icHdBRboIwGADg7DJ7nFiMiyZmGQJTJjUU2iIvC7RgtX8BN7TTt91lp9pptuwI3_f1DYdW_9xd1DD0H_PRyFr7sO-6PdQPojOj8uPaipEoAapS6Pn0cTp-asQiOK-95WntJbTvmU-c1OmVbGG7zbwiC2BZuIEtfW_COT7HwBClmKUUdxkPMwbYjVdAiJYUL8ebxITNrlWXlGpbZ965QDLZZOog3RjVNNIJsjZ2SBy7MuKtSnO3myQoQUITW3Dcl6GC1MCL5MGN6MjBPkYb-rmieR9UegYlUr5oPSN82NIQt6lRB8EUKyh5YXSYCvY8qYG8Ei2QbKNGhowEf5ptKNEux7tUD8cqX48zM0sq6AN59Agl3SGh5CaOYGgeLesssuQYdpyzK7kVpkLsRMfgbjhZSSdwCnvfiMvCvf__XLw1Zpj3793-F1Cmg_M",
-    "question": "Is layernorm better than BatchNorm?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FOqrp3icHdBRboIwGADg7DJ7nFiMiyZmGQJTJjUU2iIvC7RgtX8BN7TTt91lp9pptuwI3_f1DYdW_9xd1DD0H_PRyFr7sO-6PdQPojOj8uPaipEoAapS6Pn0cTp-asQiOK-95WntJbTvmU-c1OmVbGG7zbwiC2BZuIEtfW_COT7HwBClmKUUdxkPMwbYjVdAiJYUL8ebxITNrlWXlGpbZ965QDLZZOog3RjVNNIJsjZ2SBy7MuKtSnO3myQoQUITW3Dcl6GC1MCL5MGN6MjBPkYb-rmieR9UegYlUr5oPSN82NIQt6lRB8EUKyh5YXSYCvY8qYG8Ei2QbKNGhowEf5ptKNEux7tUD8cqX48zM0sq6AN59Agl3SGh5CaOYGgeLesssuQYdpyzK7kVpkLsRMfgbjhZSSdwCnvfiMvCvf__XLw1Zpj3793-F1Cmg_M",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1h6TkpXRWQ1V1RGQlNGQnBla2RhZVdSUU0zbHJlWEpJUzA4d1RVOXBUakIwUzNoUk1VMUdhRWRZVnpSSmVrcEVlRmc1VUU1WGRVVnVZVlI2VVRKaVlYTmFNVXg1VFRKVFdHUjZUa2RJVTJ0RVpUQm9abnBuUm5wc1FSSVhaemhYZG1GeldFcExZMjF5TlU1dlVHNWFSSFl3VVZFYUlrRkVjM0k1WmxGaE9UTnRiRFpIYkVOa2NqTTBaMXBrWmtoaVdrZFFPRjloYW1jIiwiZmN2IjoiMyIsImVpIjoiZzhXdmFzWEpLY21yNU5vUG5aRHYwUVEiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDM5SmpFXyIsInF1ZXN0aW9uIjoiSXMgbGF5ZXJub3JtIGJldHRlciB0aGFuIEJhdGNoTm9ybT8iLCJsayI6IkdpSnBjeUJzWVhsbGNtNXZjbTBnWW1WMGRHVnlJSFJvWVc0Z1ltRjBZMmh1YjNKdCIsImJzIjoiYzQyT1BRdkNNQkNHY2Mza0hCVU9MWDZzV1p3azRDYUNpMGpuYTVPU1FFeEtlclhvcjdldG9vc0ZsLVBnbm52ZmgxM1lPalhhUTRNVlpFaTVBUl9pRloxOUlObmd3WHFLUWRXNVZsSnMtS3I1ajJYSXRtY1RhcWRnMzRHbmxvTk1BNWFsczFxMWF4R2loaEFCQzlMdHpNbmUtaEFwbGp6cHdfM3Jad2hrT3paTkRSTFluekpTelBpa0diNnpJMXNjS25CNDFfSGRSRjBCR2ZSZlp5a1NQcmREMkVkelBIb0MiLCJpZCI6ImZjX2c4V3Zhc1hKS2NtcjVOb1BuWkR2MFFRXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpHRkdaMVphWDI4d1FUTnRkbEJDUm1WRE5FNTBPV1pJTWtOb2VFRXhiR2hyUzJWdmVURlVjV3A2Vm5aNlltWlhSMEptV1Y5d1dWVk1VblZFU1d4cFUxUXpYMlpqYUVGRk5XeFhSVTR3TlZSaFIyZGlVVVJQWVhGRWR4SVhXRkl0T1dGd2NXeExXbEJwTlU1dlVIRlBVMVE0VVhNYUlrRkVjM0k1WmxKRVluTXlhalF3VWtGWmNFMU5ZUzB3Tm5keFZITkpjbVZTYVZFIiwiZmN2IjoiMyIsImVpIjoiWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXMiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDJ3Y2lnXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBwYXBlciBtYWRlIG9mPyIsImxrIjoiR2hWM2FHRjBJR2x6SUhCaGNHVnlJRzFoWkdVZ2IyWSIsImJzIjoiYy1QUzVCSUt6MGdzVWNnc1ZpaElMRWd0VXNoTkxyQTNFcFlTTEVjWDVUTGxVdlRJTDFmSUxVM09VRWpKVHkxV0tNbElWUWdBU3ljV0ZDZ2s1eGVYMkJzSlNQRVZvQWh4V1hISncyeEExVkJhbkpxaWtKWmZaRzhrTGlWYWpxUUViZ0NYSVpjWW11c1NVMUlWOHROUXRLRElDREFDQUEiLCJpZCI6ImZjX1hSLTlhcHFsS1pQaTVOb1BxT1NUOFFzXzUifQ==",
+    "page_token": "r_3hLHicHdBdboIwAADg7DI-TmrFZSZmiUJ1KCWU_kBfFigIWn7qcKC-7S471U6zZN8Rvu-f-tTq36e4ul5Nv5xOx3F8LruurItn1TXTtL-3aqrSus5SpZeLlwV4O6qV24_rTTeuQ2YMd4gVadIWbi5U7QKxtVkq-IUJ6ZPG3vlxTrB4bUhccVrzO27ys0Ke7XP5OMQm8nWlEy0H5SCfOxUPH9JikMxiKPf5zIWFw8OMegOG3kWIK48gMQpikLpoQwXSKUQH5YKANt5C8neYUzWnXPbxLLR8mswTC3dSy3O-BV_MkXsmzCkXYYRAFR1oXakd6iNgwpTyIAPrGwWYBQg9tidvTXb4HgjJCnbDvmUsSb1DJko7g-QcaR4ECA9JG84SQNrJUQ0rOPkfW30cm-vSfHblH8lLdys",
+    "question": "What is paper made of?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r_3hLHicHdBdboIwAADg7DI-TmrFZSZmiUJ1KCWU_kBfFigIWn7qcKC-7S471U6zZN8Rvu-f-tTq36e4ul5Nv5xOx3F8LruurItn1TXTtL-3aqrSus5SpZeLlwV4O6qV24_rTTeuQ2YMd4gVadIWbi5U7QKxtVkq-IUJ6ZPG3vlxTrB4bUhccVrzO27ys0Ke7XP5OMQm8nWlEy0H5SCfOxUPH9JikMxiKPf5zIWFw8OMegOG3kWIK48gMQpikLpoQwXSKUQH5YKANt5C8neYUzWnXPbxLLR8mswTC3dSy3O-BV_MkXsmzCkXYYRAFR1oXakd6iNgwpTyIAPrGwWYBQg9tidvTXb4HgjJCnbDvmUsSb1DJko7g-QcaR4ECA9JG84SQNrJUQ0rOPkfW30cm-vSfHblH8lLdys",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpHRkdaMVphWDI4d1FUTnRkbEJDUm1WRE5FNTBPV1pJTWtOb2VFRXhiR2hyUzJWdmVURlVjV3A2Vm5aNlltWlhSMEptV1Y5d1dWVk1VblZFU1d4cFUxUXpYMlpqYUVGRk5XeFhSVTR3TlZSaFIyZGlVVVJQWVhGRWR4SVhXRkl0T1dGd2NXeExXbEJwTlU1dlVIRlBVMVE0VVhNYUlrRkVjM0k1WmxKRVluTXlhalF3VWtGWmNFMU5ZUzB3Tm5keFZITkpjbVZTYVZFIiwiZmN2IjoiMyIsImVpIjoiWFItOWFwcWxLWlBpNU5vUHFPU1Q4UXMiLCJxYyI6IkNpUndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmhkR05vSUc1dmNtMWhiR2w2WVhScGIyNFFBSDJ3Y2lnXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBwYXBlciBtYWRlIG9mPyIsImxrIjoiR2hWM2FHRjBJR2x6SUhCaGNHVnlJRzFoWkdVZ2IyWSIsImJzIjoiYy1QUzVCSUt6MGdzVWNnc1ZpaElMRWd0VXNoTkxyQTNFcFlTTEVjWDVUTGxVdlRJTDFmSUxVM09VRWpKVHkxV0tNbElWUWdBU3ljV0ZDZ2s1eGVYMkJzSlNQRVZvQWh4V1hISncyeEExVkJhbkpxaWtKWmZaRzhrTGlWYWpxUUViZ0NYSVpjWW11c1NVMUlWOHROUXRLRElDREFDQUEiLCJpZCI6ImZjX1hSLTlhcHFsS1pQaTVOb1BxT1NUOFFzXzUifQ%3D%3D",
     "type": "ai_overview"
    }
   ],
   "related_searches": [
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&q=Paper+introduced+batch+normalization+python&sa=X&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ1QJ6BAhBEAE",
-    "query": "Paper introduced batch normalization python",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+introduced+batch+normalization+python"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&q=Paper+introduced+batch+normalization+example&sa=X&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ1QJ6BAhIEAE",
-    "query": "Paper introduced batch normalization example",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+introduced+batch+normalization+example"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&q=Batch+Normalization+Paper&sa=X&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ1QJ6BAhHEAE",
-    "query": "Batch Normalization Paper",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batch+Normalization+Paper"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&q=Paper+introduced+batch+normalization+pdf&sa=X&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ1QJ6BAhGEAE",
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&q=Paper+introduced+batch+normalization+pdf&sa=X&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q1QJ6BAhIEAE",
     "query": "Paper introduced batch normalization pdf",
     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+introduced+batch+normalization+pdf"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&q=PyTorch+Batch+Normalization&sa=X&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ1QJ6BAhCEAE",
-    "query": "PyTorch Batch Normalization",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PyTorch+Batch+Normalization"
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&q=Paper+introduced+batch+normalization+github&sa=X&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q1QJ6BAhNEAE",
+    "query": "Paper introduced batch normalization github",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+introduced+batch+normalization+github"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&q=Paper+introduced+batch+normalization+in+deep+learning&sa=X&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ1QJ6BAhFEAE",
-    "query": "Paper introduced batch normalization in deep learning",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+introduced+batch+normalization+in+deep+learning"
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&q=Paper+on&sa=X&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q1QJ6BAhMEAE",
+    "query": "Paper on",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+on"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&q=Batch+Normalization:+accelerating+deep+network+training+by+reducing+internal+covariate+shift&sa=X&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ1QJ6BAhEEAE",
-    "query": "Batch Normalization: accelerating deep network training by reducing internal covariate shift",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batch+Normalization%3A+accelerating+deep+network+training+by+reducing+internal+covariate+shift"
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&q=Paper+vs+Figma&sa=X&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q1QJ6BAhHEAE",
+    "query": "Paper vs Figma",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+vs+Figma"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnvNCjNiaj7n__VFb4mEjlQfZAvNdQ:1789904259688&q=Batch+normalization+PDF&sa=X&ved=2ahUKEwiFl9L8iP2WAxXJFVkFHR3IO0oQ1QJ6BAhDEAE",
-    "query": "Batch normalization PDF",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batch+normalization+PDF"
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&q=Paper+design+for+project&sa=X&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q1QJ6BAhJEAE",
+    "query": "Paper design for project",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+design+for+project"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&q=Paper+design+MCP&sa=X&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q1QJ6BAhLEAE",
+    "query": "Paper design MCP",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+design+MCP"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&q=Paper+design+art&sa=X&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q1QJ6BAhKEAE",
+    "query": "Paper design art",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper+design+art"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQnsjZ5pWJIacWW_KgvzZ3aeeNaQkmA:1790779229687&q=Paper-design+github&sa=X&ved=2ahUKEwjax-y-xJaXAxUTMVkFHSjyJL4Q1QJ6BAhGEAE",
+    "query": "Paper-design github",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paper-design+github"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "paper introduced batch normalization",
-   "time_taken_displayed": 0.25,
-   "total_results": 139
+   "time_taken_displayed": 0.46,
+   "total_results": 5210000000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:37:34 UTC",
+   "created_at": "2026-09-30 14:40:29 UTC",
    "google_url": "https://www.google.com/search?q=paper+introduced+batch+normalization&oq=paper+introduced+batch+normalization&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc57e8c60cad5ad5c1d3f",
-   "json_endpoint": "https://serpapi.com/searches/9j_dYscKC_n99bwMx3hFoLBl5iP056xx-rXa2b9et7I/6aafc57e8c60cad5ad5c1d3f.json",
-   "markdown_endpoint": "https://serpapi.com/searches/9j_dYscKC_n99bwMx3hFoLBl5iP056xx-rXa2b9et7I/6aafc57e8c60cad5ad5c1d3f.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/9j_dYscKC_n99bwMx3hFoLBl5iP056xx-rXa2b9et7I/6aafc57e8c60cad5ad5c1d3f.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:37:34 UTC",
-   "raw_html_file": "https://serpapi.com/searches/9j_dYscKC_n99bwMx3hFoLBl5iP056xx-rXa2b9et7I/6aafc57e8c60cad5ad5c1d3f.html",
+   "id": "6abd1f5df5c2f82828e349ae",
+   "json_endpoint": "https://serpapi.com/searches/CWqUHv1Smi1cWboDjWSoRWtPIeNoB4rFiVDg5pnqXK4/6abd1f5df5c2f82828e349ae.json",
+   "markdown_endpoint": "https://serpapi.com/searches/CWqUHv1Smi1cWboDjWSoRWtPIeNoB4rFiVDg5pnqXK4/6abd1f5df5c2f82828e349ae.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/CWqUHv1Smi1cWboDjWSoRWtPIeNoB4rFiVDg5pnqXK4/6abd1f5df5c2f82828e349ae.json_with_pixel_position",
+   "processed_at": "2026-09-30 14:40:29 UTC",
+   "raw_html_file": "https://serpapi.com/searches/CWqUHv1Smi1cWboDjWSoRWtPIeNoB4rFiVDg5pnqXK4/6abd1f5df5c2f82828e349ae.html",
    "status": "Success",
-   "total_time_taken": 5.46
+   "total_time_taken": 0.6
   },
   "search_parameters": {
    "device": "desktop",
@@ -447,15 +396,9 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=80"
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=paper+introduced+batch+normalization&start=30"
    }
   }
  },

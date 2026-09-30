@@ -269,5 +269,5 @@ def test_the_plan_prints_the_query_it_will_actually_send(
     assert '"companies hiring python developers"' in collapsed, (
         "the jobs step should print the query it sends, without the place word"
     )
-    # Web search gets no location parameter, so the place stays in its text.
-    assert '"companies hiring python developers chennai"' in collapsed
+    # Web search is sent the question as it was asked, place and all.
+    assert f'"{question}"' in collapsed

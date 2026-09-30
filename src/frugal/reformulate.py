@@ -173,8 +173,20 @@ class Reformulation:
 
 
 def _keyword_query(question: str) -> str:
-    """Content words only — what a search engine actually matches on."""
+    """Content words only — what a term-matching index actually matches on."""
     return " ".join(tokenise(question))
+
+
+def keyword_query(question: str) -> str:
+    """The keyword form of a question, or the question itself if nothing is left.
+
+    Public because the benchmark's keyword baseline is defined by it. That
+    baseline used to ask for "the first reformulation for google", which was the
+    keyword form only for as long as the planner happened to send web search
+    keywords -- and would have silently become a second copy of the verbatim
+    baseline the day that changed.
+    """
+    return _keyword_query(question) or question.strip()
 
 
 def _core_terms(question: str, keep: int = 3) -> str:
@@ -330,6 +342,24 @@ def comparison_terms(question: str) -> tuple[str, str] | None:
 
 def shape_for_engine(question: str, engine: str) -> tuple[str, str, str] | None:
     """Return ``(query, strategy, rationale)`` shaped for ``engine``, if it needs shaping."""
+    if engine == "google":
+        # Web search gets the question as it was asked. It parses intent, and a
+        # question stripped to keywords loses what it was asking: "Who invented
+        # the telephone?" sent as "invented telephone" came back with a tweet, a
+        # car review and the history of the Caesar salad.
+        #
+        # This was tested once before and rejected, on one recording, because it
+        # scored 97 against 98. A second recording put it at 95 against 91. A
+        # third of single-search answers change between recordings, so a
+        # one-question difference on one of them was never evidence of anything;
+        # across both, the verbatim question averages higher and moves less.
+        # The keyword forms below remain for the engines that match terms.
+        return (
+            question.strip(),
+            "verbatim",
+            "web search parses a question as asked; keywords lose what it was asking",
+        )
+
     entry = _ENGINE_SHAPES.get(engine)
     if entry is None:
         return None

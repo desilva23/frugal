@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 771.173,
+ "elapsed_ms": 1655.296,
  "engine": "google",
- "fetched_at": "2026-09-20T11:33:20.552102+00:00",
+ "fetched_at": "2026-09-27T21:25:49.691388+00:00",
  "frugal_cache_version": 1,
  "key": "78fa028706f3ab8069b6960de30c24c06e124636982d051a39ac93bcaa406651",
  "params": {
@@ -10,437 +10,322 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "4Sq_AHiczVXZcqpIGH6AeY7xxijikmCqqFR30y5RjHjMojcUm61haQ6oHHI3F_Mm81TzNNOACySYzDkXU_NXtU03n__-8f_xl7Px7L9_-3O93frhLcdFUVQnlBLHqhvU5bQw9gxuRZ0wMNZ38V5sVYxQbFSsjUjkb3ttv1rA8S70t8pUGLlGH1TSf4iqroXWK1P44zXkVI792L-3JHaoh3XLq-9W4VLq8uZ8LNSbDb5bf-A0lwHAfydYITDZ7wG6DGKv8NeqEgVDAHFO0xCQdIdn1CJ7jZT0FSIXtcHM5iyFK2xJ6tsgktjtIT_Sxf8yE7BwjFJfAIhSLyHYfB1NTpRDLMe4PsnUCV2UQ_bo-SZf44KvBSFR4dhjXqgAobORvDGmZl1w45QpgwBhQKEEweNlv1l-RkPQsYGCy0LIi4Kf2qfKjRd9dsOZhDVug9MDtvHcxlgb6UMQJv2M5t0G7c3XN91HaftgOg1q_9B6-qI5E4TlaiIDztAZzqGaaZnqWm3cpWe-yXca3daNcJUSyQhPTArzTJqCnf5tvG5v3kB9XIf8kUYoKzr4UDHMzmhYEhhEB2hJieH5NikYzmBKL6_3UEoIEAV4BoqlHU2TvPaPR9ajb6w0ecTZatL8H2mUCcmBGY1SR4b0AMwjMlQ_R91cYYeg7DPzPm5lcH6UPgALBEQsXhsce33xXvMCKIjghAMID-Aha0ZeB4t4dDrAo8MYsC8UPCLO2AyU8ylJwVABMhhipnPzOGQdSpJezRxNmuFgq4ffMe5Cwy-YmWf0bz59JQK_IlEiypEv79o_Txv8YKra64537VpXXo4Xsv4W2_LjbBfOQDlNqKv_xMQx_ldEyuYRPsyjy0TCXxMpnUfwk3mUPp_nUdK8iF4kEuyXzyO5dB4V40ZglifS5_Pop4mEPiVS1oelRKLlRPIvEolE74lUnEe4fB6diPQr8wj-4jxKeWVlW3E47V7JxSGF997SxZsQ9dq2P2m96lp7AscwMp-b0ZdDauVub13NdK7UjXkLm_fb2LxS2QW9tczKd_F5zSxWfc23gurG2wbU3BmWWYV4Nq-uaFB1NI_sNGJVd55pBeFW88yNR-4qrhNQsaF1FHtaU2q-tmzYsxmvWl68f6nxQHNq94241Z_PhKX89DCfuzW1Z_lDOVw5QJgGJhxQfkClwSqWzTiWWE6n8NpSp3OZCujthap25NS0jnTjI2O03jZ7QRtPVzXfUNuCOiEK1p-xp4_G4_ghfEm9CcXmXOl0nkyvRYSKGxgi64E2ARMFPBPWjChtUrYoWxFb16xGsBIammqFe_G6fc2SZnZXutm8bt9YFZdsY19s85XQC0T-H_v_P8o",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4Sq_AHiczVXZcqpIGH6AeY7xxijikmCqqFR30y5RjHjMojcUm61haQ6oHHI3F_Mm81TzNNOACySYzDkXU_NXtU03n__-8f_xl7Px7L9_-3O93frhLcdFUVQnlBLHqhvU5bQw9gxuRZ0wMNZ38V5sVYxQbFSsjUjkb3ttv1rA8S70t8pUGLlGH1TSf4iqroXWK1P44zXkVI792L-3JHaoh3XLq-9W4VLq8uZ8LNSbDb5bf-A0lwHAfydYITDZ7wG6DGKv8NeqEgVDAHFO0xCQdIdn1CJ7jZT0FSIXtcHM5iyFK2xJ6tsgktjtIT_Sxf8yE7BwjFJfAIhSLyHYfB1NTpRDLMe4PsnUCV2UQ_bo-SZf44KvBSFR4dhjXqgAobORvDGmZl1w45QpgwBhQKEEweNlv1l-RkPQsYGCy0LIi4Kf2qfKjRd9dsOZhDVug9MDtvHcxlgb6UMQJv2M5t0G7c3XN91HaftgOg1q_9B6-qI5E4TlaiIDztAZzqGaaZnqWm3cpWe-yXca3daNcJUSyQhPTArzTJqCnf5tvG5v3kB9XIf8kUYoKzr4UDHMzmhYEhhEB2hJieH5NikYzmBKL6_3UEoIEAV4BoqlHU2TvPaPR9ajb6w0ecTZatL8H2mUCcmBGY1SR4b0AMwjMlQ_R91cYYeg7DPzPm5lcH6UPgALBEQsXhsce33xXvMCKIjghAMID-Aha0ZeB4t4dDrAo8MYsC8UPCLO2AyU8ylJwVABMhhipnPzOGQdSpJezRxNmuFgq4ffMe5Cwy-YmWf0bz59JQK_IlEiypEv79o_Txv8YKra64537VpXXo4Xsv4W2_LjbBfOQDlNqKv_xMQx_ldEyuYRPsyjy0TCXxMpnUfwk3mUPp_nUdK8iF4kEuyXzyO5dB4V40ZglifS5_Pop4mEPiVS1oelRKLlRPIvEolE74lUnEe4fB6diPQr8wj-4jxKeWVlW3E47V7JxSGF997SxZsQ9dq2P2m96lp7AscwMp-b0ZdDauVub13NdK7UjXkLm_fb2LxS2QW9tczKd_F5zSxWfc23gurG2wbU3BmWWYV4Nq-uaFB1NI_sNGJVd55pBeFW88yNR-4qrhNQsaF1FHtaU2q-tmzYsxmvWl68f6nxQHNq94241Z_PhKX89DCfuzW1Z_lDOVw5QJgGJhxQfkClwSqWzTiWWE6n8NpSp3OZCujthap25NS0jnTjI2O03jZ7QRtPVzXfUNuCOiEK1p-xp4_G4_ghfEm9CcXmXOl0nkyvRYSKGxgi64E2ARMFPBPWjChtUrYoWxFb16xGsBIammqFe_G6fc2SZnZXutm8bt9YFZdsY19s85XQC0T-H_v_P8o"
+   "page_token": "2ekQMHiczZVdkqJIEIAPsOdYX2zlR1uxI4iOKkQtf1qxtW3nxcACCwRBAUX3bU-xF9hTzWmmAH_Qlu6ZedjYjNCiqjKzksr8yL__tU3H-v7HP0YQrP0nhgnDsEhcl9h6EbsrRvUPDmYWru172Hg-7MRSDvsim9NNsYRWj-qm_9ardle85w6W-ra3UUguNhFnc9XXl9TjfukzM4b-WX-W6nRS9It2UJzx3boCRkO_5hZ5li8V-4y6ogrgPxRFBghAOiZDlkgAyF87i1QUIEW-TkKky1a0CUA98RedSeLFTuaRKLKCwKD-IkswEKZCyAJy8d_OjAVGOr3TZHqMJoz9QniM5SfFvXn45KKyrkm-8USuFLPv9mMxDAtAliMHH0NBoIGuVAFIXrxugRYRAMJIItmhxwb4ANsSOPvPkg0wBqcrDF-mVJ3RCK1dlpl7dOAYExs4fvD8qKSlUY11m5VG4VVQC7ZgOV1soh4e1UZClwV1L2TwnOrZrqrp2syYsc_xnOO5R7ZWqgoPMUvYP8Pkp2GSg20TmSMsb4Ritwi5E0lRDSUxStfhy3QuIfBRoHRUle5spjFIGZtS-rbGx_FY3WlFQGQ0iMbmaaEPIM0wTmfxdEBkfo-kROlcvTFJcVZRMqKL-VlljC6O0nVP7lJwm_o6BEpCEoLJXnj0-wEFCNpWevXaFQLuUElysgYhHMdq_dQVUbIldIEBniKW6W3C4-yynTyZaXpMeqARxUdeaXxtxerEvEevKcUBRCV-DOYmw0NwT-ihhL708Ce-fnfE_VolIueIzA0BaXIam92AxWT6bWYQtKuY3rdJW94N3w9NTblPirua_0Lfwf8vlk5daXzsStksyV-zFH0sP-tK8nVXek1Y6mSzJKP7XWl6Ukp1pRuWYDfFkhEbhFld6VdZgp-wJH_KknufJSuTpTq4Zem6K12xdO5KF5Z-pyutf7MrxWjpyXDdorZLkt2q1pNyW1gSu48G3QLySotRf11qWTth-3WrWqyCp5Wq2Q8zU3uCfDs4aA8zuuA-6VpuI04MemJ-ra51L286gedqW6xreSgPR_mF6-Vt1SFblej5raPpnh-ojmY65Dm3sj1XZNUq9FCzBkdVZ7AJm92g_1fjXTi0uPdlresNXprcWNWHZrWlhg52fdC3pN2Y7YDN_v1Qd_Zb1rNfedWqqjWbm3feAv5QWE8eeXOvDV_WrR5fmi-qjcGyPGcNq7rhdwtOHlXwcjqoweZjew7Mzn5ulfd7wXvzppISR-WLlZImP1KFZbuXW3lYpMkqH8BQARMCMJCmQKE5ViSX_kL6q1DEYc7H6kz3dyLmKrxQmVfLqlDhOW2RW5HgsBZrbM53PJH7AbHrSA8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2ekQMHiczZVdkqJIEIAPsOdYX2zlR1uxI4iOKkQtf1qxtW3nxcACCwRBAUX3bU-xF9hTzWmmAH_Qlu6ZedjYjNCiqjKzksr8yL__tU3H-v7HP0YQrP0nhgnDsEhcl9h6EbsrRvUPDmYWru172Hg-7MRSDvsim9NNsYRWj-qm_9ardle85w6W-ra3UUguNhFnc9XXl9TjfukzM4b-WX-W6nRS9It2UJzx3boCRkO_5hZ5li8V-4y6ogrgPxRFBghAOiZDlkgAyF87i1QUIEW-TkKky1a0CUA98RedSeLFTuaRKLKCwKD-IkswEKZCyAJy8d_OjAVGOr3TZHqMJoz9QniM5SfFvXn45KKyrkm-8USuFLPv9mMxDAtAliMHH0NBoIGuVAFIXrxugRYRAMJIItmhxwb4ANsSOPvPkg0wBqcrDF-mVJ3RCK1dlpl7dOAYExs4fvD8qKSlUY11m5VG4VVQC7ZgOV1soh4e1UZClwV1L2TwnOrZrqrp2syYsc_xnOO5R7ZWqgoPMUvYP8Pkp2GSg20TmSMsb4Ritwi5E0lRDSUxStfhy3QuIfBRoHRUle5spjFIGZtS-rbGx_FY3WlFQGQ0iMbmaaEPIM0wTmfxdEBkfo-kROlcvTFJcVZRMqKL-VlljC6O0nVP7lJwm_o6BEpCEoLJXnj0-wEFCNpWevXaFQLuUElysgYhHMdq_dQVUbIldIEBniKW6W3C4-yynTyZaXpMeqARxUdeaXxtxerEvEevKcUBRCV-DOYmw0NwT-ihhL708Ce-fnfE_VolIueIzA0BaXIam92AxWT6bWYQtKuY3rdJW94N3w9NTblPirua_0Lfwf8vlk5daXzsStksyV-zFH0sP-tK8nVXek1Y6mSzJKP7XWl6Ukp1pRuWYDfFkhEbhFld6VdZgp-wJH_KknufJSuTpTq4Zem6K12xdO5KF5Z-pyutf7MrxWjpyXDdorZLkt2q1pNyW1gSu48G3QLySotRf11qWTth-3WrWqyCp5Wq2Q8zU3uCfDs4aA8zuuA-6VpuI04MemJ-ra51L286gedqW6xreSgPR_mF6-Vt1SFblej5raPpnh-ojmY65Dm3sj1XZNUq9FCzBkdVZ7AJm92g_1fjXTi0uPdlresNXprcWNWHZrWlhg52fdC3pN2Y7YDN_v1Qd_Zb1rNfedWqqjWbm3feAv5QWE8eeXOvDV_WrR5fmi-qjcGyPGcNq7rhdwtOHlXwcjqoweZjew7Mzn5ulfd7wXvzppISR-WLlZImP1KFZbuXW3lYpMkqH8BQARMCMJCmQKE5ViSX_kL6q1DEYc7H6kz3dyLmKrxQmVfLqlDhOW2RW5HgsBZrbM53PJH7AbHrSA8"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZZRlg0QWxHRTI5OW5iX1gxaDZTck81OHN0MXgzTUk3c0FUM2Z5NjIwM19ISnlQcVNGb3ZWMVJTQ2F0aXAwbHFrWHphT05zdGhxQlFYY0VLWnBGYl9qc0gzVlJPZXBaQlBOT05BRG1ZMFduMDh1TTU4TUpQZnB3UTFvNzBxVXJpRkZmYW13MXQ0NG9kcjFWY1ZSVEotbDJKa2diOWRCLWVHNldUdWZTb0VhM21HOWttRUF3ZmVxUDNTRDk2b2REdDZlb0k3X280Rm93EgQaAggAGtMIEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQK8ICAAQABgAIAAqGAoFd2hpY2gVAAAAABoKaXY7ZDt3aGljaCotCgVwYXBlchUtnwxBGgZwYXBlcnMaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzKp8CCgppbnRyb2R1Y2VkFSC0Jj8aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgppbnRyb2R1Y2VzGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGg9pdjtkO2ludHJvZHVjZWQaDGl2O2Q7YnJvdWdodBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGg5pdjtkO2ludHJvZHVjZRoQaXY7ZDtpbnRyb2R1Y2luZxoRaXY7ZDtpbnRyb2R1Y3Rpb24aDml2O2Q7cHJlc2VudGVkGgxpdjtkO3N0YXJ0ZWQqFgoEYmVydBWWWsFAGglpdjtkO2JlcnQqCgoDZm9yFQAAAAAqUAoIbGFuZ3VhZ2UV9ODAPxoJbGFuZ3VhZ2VzGhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaDWl2O2Q7bGFuZ3VhZ2UaDml2O2Q7bGFuZ3VhZ2VzKmEKDXVuZGVyc3RhbmRpbmcVHCnVPxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGhJpdjtkO3VuZGVyc3RhbmRpbmcaD2l2O2Q7cHJvY2Vzc2luZxoPaXY7ZDt1bmRlcnN0YW5kMuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZZRlg0QWxHRTI5OW5iX1gxaDZTck81OHN0MXgzTUk3c0FUM2Z5NjIwM19ISnlQcVNGb3ZWMVJTQ2F0aXAwbHFrWHphT05zdGhxQlFYY0VLWnBGYl9qc0gzVlJPZXBaQlBOT05BRG1ZMFduMDh1TTU4TUpQZnB3UTFvNzBxVXJpRkZmYW13MXQ0NG9kcjFWY1ZSVEotbDJKa2diOWRCLWVHNldUdWZTb0VhM21HOWttRUF3ZmVxUDNTRDk2b2REdDZlb0k3X280Rm93OkQ8Yj5CRVJUPC9iPiAtIEFubm90YXRlZCA8Yj5QYXBlcjwvYj4gKyA8Yj5QYXBlcjwvYj4gU3VtbWFyeSAtIFJlZGRpdEKxAVRoaXMgPGI-cGFwZXI8L2I-ICZxdW90OzxiPkJFUlQ8L2I-OiBQcmUtdHJhaW5pbmcgb2YgRGVlcCBCaWRpcmVjdGlvbmFsIFRyYW5zZm9ybWVycyBmb3IgPGI-TGFuZ3VhZ2UgVW5kZXJzdGFuZGluZzwvYj4mcXVvdDsgZmlyc3QgPGI-aW50cm9kdWNlZDwvYj4gdGhpcyBhbmQgaXQgaGFzIG5vdyZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZZRlg0QWxHRTI5OW5iX1gxaDZTck81OHN0MXgzTUk3c0FUM2Z5NjIwM19ISnlQcVNGb3ZWMVJTQ2F0aXAwbHFrWHphT05zdGhxQlFYY0VLWnBGYl9qc0gzVlJPZXBaQlBOT05BRG1ZMFduMDh1TTU4TUpQZnB3UTFvNzBxVXJpRkZmYW13MXQ0NG9kcjFWY1ZSVEotbDJKa2diOWRCLWVHNldUdWZTb0VhM21HOWttRUF3ZmVxUDNTRDk2b2REdDZlb0k3X280Rm93EgQaAggAGtMIEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQK8ICAAQABgAIAAqGAoFd2hpY2gVAAAAABoKaXY7ZDt3aGljaCotCgVwYXBlchUtnwxBGgZwYXBlcnMaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzKp8CCgppbnRyb2R1Y2VkFSC0Jj8aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgppbnRyb2R1Y2VzGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGg9pdjtkO2ludHJvZHVjZWQaDGl2O2Q7YnJvdWdodBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGg5pdjtkO2ludHJvZHVjZRoQaXY7ZDtpbnRyb2R1Y2luZxoRaXY7ZDtpbnRyb2R1Y3Rpb24aDml2O2Q7cHJlc2VudGVkGgxpdjtkO3N0YXJ0ZWQqFgoEYmVydBWWWsFAGglpdjtkO2JlcnQqCgoDZm9yFQAAAAAqUAoIbGFuZ3VhZ2UV9ODAPxoJbGFuZ3VhZ2VzGhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaDWl2O2Q7bGFuZ3VhZ2UaDml2O2Q7bGFuZ3VhZ2VzKmEKDXVuZGVyc3RhbmRpbmcVHCnVPxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGhJpdjtkO3VuZGVyc3RhbmRpbmcaD2l2O2Q7cHJvY2Vzc2luZxoPaXY7ZDt1bmRlcnN0YW5kMuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZZRlg0QWxHRTI5OW5iX1gxaDZTck81OHN0MXgzTUk3c0FUM2Z5NjIwM19ISnlQcVNGb3ZWMVJTQ2F0aXAwbHFrWHphT05zdGhxQlFYY0VLWnBGYl9qc0gzVlJPZXBaQlBOT05BRG1ZMFduMDh1TTU4TUpQZnB3UTFvNzBxVXJpRkZmYW13MXQ0NG9kcjFWY1ZSVEotbDJKa2diOWRCLWVHNldUdWZTb0VhM21HOWttRUF3ZmVxUDNTRDk2b2REdDZlb0k3X280Rm93OkQ8Yj5CRVJUPC9iPiAtIEFubm90YXRlZCA8Yj5QYXBlcjwvYj4gKyA8Yj5QYXBlcjwvYj4gU3VtbWFyeSAtIFJlZGRpdEKxAVRoaXMgPGI-cGFwZXI8L2I-ICZxdW90OzxiPkJFUlQ8L2I-OiBQcmUtdHJhaW5pbmcgb2YgRGVlcCBCaWRpcmVjdGlvbmFsIFRyYW5zZm9ybWVycyBmb3IgPGI-TGFuZ3VhZ2UgVW5kZXJzdGFuZGluZzwvYj4mcXVvdDsgZmlyc3QgPGI-aW50cm9kdWNlZDwvYj4gdGhpcyBhbmQgaXQgaGFzIG5vdyZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Abstract page for arXiv paper 1810.04805: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.",
-      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
-      "source_info_link": "https://arxiv.org/abs/1810.04805"
+      "description": "This paper \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\" first introduced this and it has now ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/learnmachinelearning/comments/n8il2e/bert_annotated_paper_paper_summary/"
      }
     },
-    "author": "by J Devlin",
-    "displayed_link": "https://arxiv.org › abs",
-    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
-    "link": "https://arxiv.org/abs/1810.04805",
+    "displayed_link": "1 komentaras · prieš 5 metus",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/learnmachinelearning/comments/n8il2e/bert_annotated_paper_paper_summary/",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAV_qUprr8-lmkRrLRTWjebFeHQWnReZIywfLDZSEEpD23YbM36NFx06d5mFtUy7FLLOAFP7duAW_rHgF0_VRmnPbkR3_tV8XpNzdPGbkQGLWeqhxY&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQFnoECBwQAQ&uoh=1",
-    "snippet": "Abstract page for arXiv paper 1810.04805: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFYFX4AlGE299nb_X1h6SrO58st1x3MI7sAT3fy6203_HJyPqSFovV1RSCatip0lqkXzaONsthqBQXcEKZpFb_jsH3VROepZBPNONADmY0Wn08uM58MJPfpwQ1o70qUriFFfamw1t44odr1VcVRTJ-l2Jkgb9dB-eG6WTufSoEa3mG9kmEAwfeqP3SD96odDt6eoI7_o4Fow&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQFnoECCkQAQ&uoh=1",
+    "snippet": "This paper \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\" first introduced this and it has now ...",
     "snippet_highlighted_words": [
-     "arXiv paper 1810.04805"
-    ],
-    "source": "arXiv.org",
-    "title": "BERT: Pre-training of Deep Bidirectional Transformers for ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "We introduce a new language representa- tion model called BERT, which stands for. Bidirectional Encoder Representations from. Transformers.",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEzvGR_uGyLsGyLtHCPtGyLwGSDtGyLtHCPtHCTsGyPtGyLtHCPtHCPtGyMqzSoKAAAAD3RSTlMACzuzxKEWddn_3Y71WyieVrE3AAAAXElEQVR4AWOgAWBE5Sq7uCaAREtcwKBz5iwwd-dMKJhBDndKORDEwLlTQRbdQefOws6d_A4IambO0nsnAOLOgrhqjovzAxAXDuYoEOSegYNZCgwMuncRIIGK4QkAn1JqNeIpqWIAAAAASUVORK5CYII.png",
-      "source_info_link": "https://aclanthology.org/N19-1423.pdf"
-     }
-    },
-    "author": "by J Devlin",
-    "displayed_link": "https://aclanthology.org › ...",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEzvGR_uGyLsGyLtHCPtGyLwGSDtGyLtHCPtHCTsGyPtGyLtHCPtHCPtGyMqzSoKAAAAD3RSTlMACzuzxKEWddn_3Y71WyieVrE3AAAAXElEQVR4AWOgAWBE5Sq7uCaAREtcwKBz5iwwd-dMKJhBDndKORDEwLlTQRbdQefOws6d_A4IambO0nsnAOLOgrhqjovzAxAXDuYoEOSegYNZCgwMuncRIIGK4QkAn1JqNeIpqWIAAAAASUVORK5CYII.png",
-    "link": "https://aclanthology.org/N19-1423.pdf",
-    "position": 2,
-    "read_more_link": "https://aclanthology.org/N19-1423.pdf#:~:text=We%20introduce%20a%20new%20language,Transformers.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVfb0NA5IhZlfHWPtYnVpcxuVp4XxkEZsuB2321a0YguOoBcP8ASAf1cHiyyWEQe0cC8Y-8KZL2xnYuXIU-m-twZgsAmGStA85ASPu6Uku0Qy8zVyO0DD72g&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQFnoECCAQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "pages": 16
-      },
-      "extensions": [
-       "16 pages"
-      ]
-     }
-    },
-    "snippet": "We introduce a new language representa- tion model called BERT, which stands for. Bidirectional Encoder Representations from. Transformers.",
-    "snippet_highlighted_words": [
-     "introduce",
-     "language",
-     "BERT"
-    ],
-    "source": "ACL Anthology",
-    "title": "BERT: Pre-training of Deep Bidirectional Transformers for ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Bidirectional encoder representations from transformers (BERT) is a language model introduced in October 2018 by researchers at Google.",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/BERT_(language_model)"
-     }
-    },
-    "displayed_link": "https://en.wikipedia.org › wiki › BERT_(language_mod...",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/BERT_(language_model)",
-    "position": 3,
-    "read_more_link": "https://en.wikipedia.org/wiki/BERT_(language_model)#:~:text=Bidirectional%20encoder%20representations%20from%20transformers,2018%20by%20researchers%20at%20Google.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVQT_kL-viv3YcNGGdVEaM9EKDJLfceb9OB-24Tul-RYmI7JVJJcJVnk2RJS2nWHm3lXvNT7I-TT-xBxlZhvn09stEAuoCDCHE7SvsIlEv1wAuK-7g6z60kRrpeW_mMxveo4WuDzir&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQFnoECBoQAQ&uoh=1",
-    "snippet": "Bidirectional encoder representations from transformers (BERT) is a language model introduced in October 2018 by researchers at Google.",
-    "snippet_highlighted_words": [
+     "paper",
      "BERT",
-     "language",
+     "Language Understanding",
      "introduced"
     ],
-    "source": "Wikipedia",
-    "title": "BERT (language model)"
+    "source": "Reddit · r/learnmachinelearning",
+    "title": "BERT - Annotated Paper + Paper Summary"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZSUGNSa3dFbENkRDRpSDBOcWJuVVd5ZnJ4N0dlazZnX2RWZTRCWEM0aU9LZ1NmX283UUJVLW9KaHR6ckJmNzhVMXR6ZjVxYkEzRnotRmtCdDR5M2ZWNmNZclQwRk00MHlJcUE2RERHNm5ROFlfYndDT09GZ05FU3BzbXZSTERqQ3RSM0FlZTY1QjNUVkVLWG9sUTFuU2syQWJieFNhN091d1o2V2ZpVlNTUG5ybWxLM2NjaGtIRXQ2ZFdyQXcwLXBZY2pqRktPMk9BdWRQTlhDaWxjTGFNU0F1RTgSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZSUGNSa3dFbENkRDRpSDBOcWJuVVd5ZnJ4N0dlazZnX2RWZTRCWEM0aU9LZ1NmX283UUJVLW9KaHR6ckJmNzhVMXR6ZjVxYkEzRnotRmtCdDR5M2ZWNmNZclQwRk00MHlJcUE2RERHNm5ROFlfYndDT09GZ05FU3BzbXZSTERqQ3RSM0FlZTY1QjNUVkVLWG9sUTFuU2syQWJieFNhN091d1o2V2ZpVlNTUG5ybWxLM2NjaGtIRXQ2ZFdyQXcwLXBZY2pqRktPMk9BdWRQTlhDaWxjTGFNU0F1RTgSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
      "source": {
-      "description": "In October 2018, Google introduced BERT through a groundbreaking paper titled “BERT: Pre-training of Deep Bidirectional Transformers for ...",
-      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
-      "source_info_link": "https://medium.com/@lmpo/bert-unleashed-the-model-that-redefined-language-understanding-afecf5545295"
+      "description": "\"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\", a very influential paper from Google that came out in ...",
+      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
      }
     },
-    "displayed_link": "20+ likes · 11 months ago",
-    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
-    "link": "https://medium.com/@lmpo/bert-unleashed-the-model-that-redefined-language-understanding-afecf5545295",
+    "displayed_link": "Reakcijų: daugiau nei 50 · prieš 2 metus",
+    "duration": "54:52",
+    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+    "link": "https://www.linkedin.com/posts/ujamil_bert-explained-training-inference-bert-activity-7123117347250307072-LIAs",
+    "position": 2,
+    "snippet": "\"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\", a very influential paper from Google that came out in ...",
+    "source": "LinkedIn · Umar Jamil",
+    "thumbnail": "https://serpapi.com/searches/6ab989dc0e4be0b8404ae836/images/-rxEnRRGDUR16Lc5QU6hycMAAd7Vg-EaCOT1OvhBI-Y.png",
+    "title": "Umar Jamil's Post - BERT explained"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZjS3dKSjgzLUtfcVpBR3YxLThyTlNoOGFuNndMSHg1WUhUSDhtOEdMay1Jdm1vbUJtT0M0cnlvTUpocVJ2aUFLaXJIQm9VellLazZFV0dTU09nTHNzc3p0bGhISHlRcG41S245M2N5U3cyY2RKbDRYQ1hRRXM2MnBkNlR6eE1LZ2dZSGJ3c1lkVVFVZUFCdmJTQ2xSaFRibXNUcEJJeVhIMENuT3NkVFRxcmxkcjgwcnpJdDRDSHpQOEoycFFyaEJ1b3pybUstWkFoM1dKOHAtSXI4cC1vSE9mN18ydkVBc1Vyc2ZIb3NFalIxcXJwYWduVFFicURtX2cSBBoCCAAa6wgSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAxwgIABAAGAAgACoYCgV3aGljaBXBdaI-GgppdjtkO3doaWNoKi0KBXBhcGVyFeBXvD8aBnBhcGVycxoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMqnwIKCmludHJvZHVjZWQVu1OpPRoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaCmludHJvZHVjZXMaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZCoWCgRiZXJ0FVDAhkAaCWl2O2Q7YmVydCoKCgNmb3IVAAAAACpQCghsYW5ndWFnZRVgyptAGglsYW5ndWFnZXMaFWxhbmd1YWdldW5kZXJzdGFuZGluZxoNaXY7ZDtsYW5ndWFnZRoOaXY7ZDtsYW5ndWFnZXMqYQoNdW5kZXJzdGFuZGluZxUMdDI_GhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaEml2O2Q7dW5kZXJzdGFuZGluZxoPaXY7ZDtwcm9jZXNzaW5nGg9pdjtkO3VuZGVyc3RhbmQykAIvZ290bz91cmw9Q0FFU3Z3RUI2enN3RmNLd0pKODMtS19xWkFHdjEtOHJOU2g4YW42d0xIeDVZSFRIOG04R0xrLUl2bW9tQm1PQzRyeW9NSmhxUnZpQUtpckhCb1V6WUtrNkVXR1NTT2dMc3NzenRsaEhIeVFwbjVLbjkzY3lTdzJjZEpsNFhDWFFFczYycGQ2VHp4TUtnZ1lIYndzWWRVUVVlQUJ2YlNDbFJoVGJtc1RwQkl5WEgwQ25Pc2RUVHFybGRyODByekl0NENIelA4SjJwUXJoQnVvenJtSy1aQWgzV0o4cC1JcjhwLW9IT2Y3XzJ2RUFzVXJzZkhvc0VqUjFxcnBhZ25UUWJxRG1fZzozRFBSSy08Yj5CRVJUPC9iPjogVGhlIFN1cHJlbWUgPGI-TGFuZ3VhZ2U8L2I-IE1vZGVsQqsBVGhpcyBzdHVkeSBwcmVzZW50cyB0aGUgZmlyc3QgZGVlcCBsYW5ndWFnZSBtb2RlbCwgPGI-RFBSSy1CRVJUPC9iPiwgZm9yIHRoZSBEUFJLIGxhbmd1YWdlLCBieSBjb21waWxpbmcgdGhlIGZpcnN0IHVubGFiZWxlZCBjb3JwdXMgZm9yIHRoZSBQeW9uZ3lhbmcgbGFuZ3VhZ2UgYW5kJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZjS3dKSjgzLUtfcVpBR3YxLThyTlNoOGFuNndMSHg1WUhUSDhtOEdMay1Jdm1vbUJtT0M0cnlvTUpocVJ2aUFLaXJIQm9VellLazZFV0dTU09nTHNzc3p0bGhISHlRcG41S245M2N5U3cyY2RKbDRYQ1hRRXM2MnBkNlR6eE1LZ2dZSGJ3c1lkVVFVZUFCdmJTQ2xSaFRibXNUcEJJeVhIMENuT3NkVFRxcmxkcjgwcnpJdDRDSHpQOEoycFFyaEJ1b3pybUstWkFoM1dKOHAtSXI4cC1vSE9mN18ydkVBc1Vyc2ZIb3NFalIxcXJwYWduVFFicURtX2cSBBoCCAAa6wgSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAxwgIABAAGAAgACoYCgV3aGljaBXBdaI-GgppdjtkO3doaWNoKi0KBXBhcGVyFeBXvD8aBnBhcGVycxoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMqnwIKCmludHJvZHVjZWQVu1OpPRoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaCmludHJvZHVjZXMaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZCoWCgRiZXJ0FVDAhkAaCWl2O2Q7YmVydCoKCgNmb3IVAAAAACpQCghsYW5ndWFnZRVgyptAGglsYW5ndWFnZXMaFWxhbmd1YWdldW5kZXJzdGFuZGluZxoNaXY7ZDtsYW5ndWFnZRoOaXY7ZDtsYW5ndWFnZXMqYQoNdW5kZXJzdGFuZGluZxUMdDI_GhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaEml2O2Q7dW5kZXJzdGFuZGluZxoPaXY7ZDtwcm9jZXNzaW5nGg9pdjtkO3VuZGVyc3RhbmQykAIvZ290bz91cmw9Q0FFU3Z3RUI2enN3RmNLd0pKODMtS19xWkFHdjEtOHJOU2g4YW42d0xIeDVZSFRIOG04R0xrLUl2bW9tQm1PQzRyeW9NSmhxUnZpQUtpckhCb1V6WUtrNkVXR1NTT2dMc3NzenRsaEhIeVFwbjVLbjkzY3lTdzJjZEpsNFhDWFFFczYycGQ2VHp4TUtnZ1lIYndzWWRVUVVlQUJ2YlNDbFJoVGJtc1RwQkl5WEgwQ25Pc2RUVHFybGRyODByekl0NENIelA4SjJwUXJoQnVvenJtSy1aQWgzV0o4cC1JcjhwLW9IT2Y3XzJ2RUFzVXJzZkhvc0VqUjFxcnBhZ25UUWJxRG1fZzozRFBSSy08Yj5CRVJUPC9iPjogVGhlIFN1cHJlbWUgPGI-TGFuZ3VhZ2U8L2I-IE1vZGVsQqsBVGhpcyBzdHVkeSBwcmVzZW50cyB0aGUgZmlyc3QgZGVlcCBsYW5ndWFnZSBtb2RlbCwgPGI-RFBSSy1CRVJUPC9iPiwgZm9yIHRoZSBEUFJLIGxhbmd1YWdlLCBieSBjb21waWxpbmcgdGhlIGZpcnN0IHVubGFiZWxlZCBjb3JwdXMgZm9yIHRoZSBQeW9uZ3lhbmcgbGFuZ3VhZ2UgYW5kJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "This study presents the first deep language model, DPRK-BERT, for the DPRK language, by compiling the first unlabeled corpus for the Pyongyang language and ...",
+      "icon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAACQBQCdASocABwAPtEutFooIagoGAEAGglqALEMikmrZJZEXC_4FHUNJjX1bC-Axr2XFGvQAAD-9hCo3wKZu1n-_erV6TiwWe9r5l7F9_xmQzBIPp0S9H_tbi72T24ikdhX2O54eAOEqMjEVzX3--QOh4HLFH733fHAFAUSjd3jafN16_EQaHeJ_QSX9dEnbcoaR_jtrV_nTZPA4VOvZSpsnSLmJ1pOOm9W62Z-D9ckpR8uA_0YdQqNJAa6qT80ZjnNS-q3ZPFziq-G8tX425hlFzCD9i45OHZds_zi_2_DX18AAAA.webp",
+      "source_info_link": "https://www.semanticscholar.org/paper/DPRK-BERT%3A-The-Supreme-Language-Model-Akdemir-Jeon/32b7639c062b3f33455b614658c7289eeb60071b"
+     }
+    },
+    "displayed_link": "https://www.semanticscholar.org › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAACQBQCdASocABwAPtEutFooIagoGAEAGglqALEMikmrZJZEXC_4FHUNJjX1bC-Axr2XFGvQAAD-9hCo3wKZu1n-_erV6TiwWe9r5l7F9_xmQzBIPp0S9H_tbi72T24ikdhX2O54eAOEqMjEVzX3--QOh4HLFH733fHAFAUSjd3jafN16_EQaHeJ_QSX9dEnbcoaR_jtrV_nTZPA4VOvZSpsnSLmJ1pOOm9W62Z-D9ckpR8uA_0YdQqNJAa6qT80ZjnNS-q3ZPFziq-G8tX425hlFzCD9i45OHZds_zi_2_DX18AAAA.webp",
+    "link": "https://www.semanticscholar.org/paper/DPRK-BERT%3A-The-Supreme-Language-Model-Akdemir-Jeon/32b7639c062b3f33455b614658c7289eeb60071b",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvwEB6zswFcKwJJ83-K_qZAGv1-8rNSh8an6wLHx5YHTH8m8GLk-IvmomBmOC4ryoMJhqRviAKirHBoUzYKk6EWGSSOgLsssztlhHHyQpn5Kn93cySw2cdJl4XCXQEs62pd6TzxMKggYHbwsYdUQUeABvbSClRhTbmsTpBIyXH0CnOsdTTqrldr80rzIt4CHzP8J2pQrhBuozrmK-ZAh3WJ8p-Ir8p-oHOf7_2vEAsUrsfHosEjR1qrpagnTQbqDm_g&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQFnoECB4QAQ&uoh=1",
+    "snippet": "This study presents the first deep language model, DPRK-BERT, for the DPRK language, by compiling the first unlabeled corpus for the Pyongyang language and ...",
+    "snippet_highlighted_words": [
+     "DPRK-BERT"
+    ],
+    "source": "Semantic Scholar",
+    "title": "DPRK-BERT: The Supreme Language Model"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZXOUZoMVhsSmlmVFdHb1lFb0p6VTh0OHBsT00xaDhoQmE3bm9Odi1IS1BLM3pzSVlXeTZLN0Z0NHVONFA5U3A0bHIwMTV0OWlmZDd5ekJiTjVHTzBHYjVsRXpoek9FMDR0RDVVTFpaYm10MnVRT2haUHJSMnFLaE9SbXo2YjZBTThRYi1XRURfUDZ2T2pJblhPTnJNbUNXS0lIMzNCclg4ZTFWWXFFNnF4ZEtndnJNbFkwEgQaAggAGpoIEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQPYHCAAQABgAIAAqGAoFd2hpY2gV60b7PhoKaXY7ZDt3aGljaCotCgVwYXBlchUDV4k_GgZwYXBlcnMaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzKp8CCgppbnRyb2R1Y2VkFSdJOD0aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgppbnRyb2R1Y2VzGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGg9pdjtkO2ludHJvZHVjZWQaDGl2O2Q7YnJvdWdodBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGg5pdjtkO2ludHJvZHVjZRoQaXY7ZDtpbnRyb2R1Y2luZxoRaXY7ZDtpbnRyb2R1Y3Rpb24aDml2O2Q7cHJlc2VudGVkGgxpdjtkO3N0YXJ0ZWQqFgoEYmVydBWC3DdAGglpdjtkO2JlcnQqCgoDZm9yFQAAAAAqUAoIbGFuZ3VhZ2UVqDFoPxoJbGFuZ3VhZ2VzGhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaDWl2O2Q7bGFuZ3VhZ2UaDml2O2Q7bGFuZ3VhZ2VzKmEKDXVuZGVyc3RhbmRpbmcVZ4_7PhoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGhJpdjtkO3VuZGVyc3RhbmRpbmcaD2l2O2Q7cHJvY2Vzc2luZxoPaXY7ZDt1bmRlcnN0YW5kMskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZXOUZoMVhsSmlmVFdHb1lFb0p6VTh0OHBsT00xaDhoQmE3bm9Odi1IS1BLM3pzSVlXeTZLN0Z0NHVONFA5U3A0bHIwMTV0OWlmZDd5ekJiTjVHTzBHYjVsRXpoek9FMDR0RDVVTFpaYm10MnVRT2haUHJSMnFLaE9SbXo2YjZBTThRYi1XRURfUDZ2T2pJblhPTnJNbUNXS0lIMzNCclg4ZTFWWXFFNnF4ZEtndnJNbFkwOjI8Yj5CRVJUPC9iPiBmb3IgUXVlc3Rpb24gR2VuZXJhdGlvbiAtIFJlc2VhcmNoR2F0ZUKiAUEgc3R1ZHkgYnkgQ2hhbiBldCBhbC4gc2hvd3MgdGhhdCB1c2luZyBhIHByZS10cmFpbmVkIG1vZGVsIG9mIDxiPkJFUlQ8L2I-IChCaWRpcmVjdGlvbmFsIEVuY29kZXIgUmVwcmVzZW50YXRpb24gZnJvbSBUcmFuc2Zvcm1lcikgY2FuIHNvbHZlIHRoZSBRdWVzdGlvbiZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZXOUZoMVhsSmlmVFdHb1lFb0p6VTh0OHBsT00xaDhoQmE3bm9Odi1IS1BLM3pzSVlXeTZLN0Z0NHVONFA5U3A0bHIwMTV0OWlmZDd5ekJiTjVHTzBHYjVsRXpoek9FMDR0RDVVTFpaYm10MnVRT2haUHJSMnFLaE9SbXo2YjZBTThRYi1XRURfUDZ2T2pJblhPTnJNbUNXS0lIMzNCclg4ZTFWWXFFNnF4ZEtndnJNbFkwEgQaAggAGpoIEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQPYHCAAQABgAIAAqGAoFd2hpY2gV60b7PhoKaXY7ZDt3aGljaCotCgVwYXBlchUDV4k_GgZwYXBlcnMaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzKp8CCgppbnRyb2R1Y2VkFSdJOD0aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgppbnRyb2R1Y2VzGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGg9pdjtkO2ludHJvZHVjZWQaDGl2O2Q7YnJvdWdodBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGg5pdjtkO2ludHJvZHVjZRoQaXY7ZDtpbnRyb2R1Y2luZxoRaXY7ZDtpbnRyb2R1Y3Rpb24aDml2O2Q7cHJlc2VudGVkGgxpdjtkO3N0YXJ0ZWQqFgoEYmVydBWC3DdAGglpdjtkO2JlcnQqCgoDZm9yFQAAAAAqUAoIbGFuZ3VhZ2UVqDFoPxoJbGFuZ3VhZ2VzGhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaDWl2O2Q7bGFuZ3VhZ2UaDml2O2Q7bGFuZ3VhZ2VzKmEKDXVuZGVyc3RhbmRpbmcVZ4_7PhoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGhJpdjtkO3VuZGVyc3RhbmRpbmcaD2l2O2Q7cHJvY2Vzc2luZxoPaXY7ZDt1bmRlcnN0YW5kMskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZXOUZoMVhsSmlmVFdHb1lFb0p6VTh0OHBsT00xaDhoQmE3bm9Odi1IS1BLM3pzSVlXeTZLN0Z0NHVONFA5U3A0bHIwMTV0OWlmZDd5ekJiTjVHTzBHYjVsRXpoek9FMDR0RDVVTFpaYm10MnVRT2haUHJSMnFLaE9SbXo2YjZBTThRYi1XRURfUDZ2T2pJblhPTnJNbUNXS0lIMzNCclg4ZTFWWXFFNnF4ZEtndnJNbFkwOjI8Yj5CRVJUPC9iPiBmb3IgUXVlc3Rpb24gR2VuZXJhdGlvbiAtIFJlc2VhcmNoR2F0ZUKiAUEgc3R1ZHkgYnkgQ2hhbiBldCBhbC4gc2hvd3MgdGhhdCB1c2luZyBhIHByZS10cmFpbmVkIG1vZGVsIG9mIDxiPkJFUlQ8L2I-IChCaWRpcmVjdGlvbmFsIEVuY29kZXIgUmVwcmVzZW50YXRpb24gZnJvbSBUcmFuc2Zvcm1lcikgY2FuIHNvbHZlIHRoZSBRdWVzdGlvbiZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "A study by Chan et al. shows that using a pre-trained model of BERT (Bidirectional Encoder Representation from Transformer) can solve the Question ...",
+      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
+      "source_info_link": "https://www.researchgate.net/publication/338056789_BERT_for_Question_Generation"
+     }
+    },
+    "displayed_link": "https://www.researchgate.net › 3380...",
+    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
+    "link": "https://www.researchgate.net/publication/338056789_BERT_for_Question_Generation",
     "position": 4,
-    "read_more_link": "https://medium.com/@lmpo/bert-unleashed-the-model-that-redefined-language-understanding-afecf5545295#:~:text=In%20October%202018%2C%20Google%20introduced,Bidirectional%20Transformers%20for%20Language%20Understanding.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFSQAmDDzp6NETVPaWCgCCIR3LBJhCEB7PO4BQ6VXD7gaWrKQDwYftrPo8q6Iw1fyVflaLd7SiSLMvrKr9YyXMl3A0_0hChjpixAGQaqEPlaJ6DwWdnBoT3xPA9UcO3K_1IktrNS-Mllu45gBEelHkty58C4Y90wnmmSvHmcqN2gmLtYesLLOXpkyMP7tEfS5G_ZDwfyp1EY&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQFnoECBsQAQ&uoh=1",
-    "snippet": "In October 2018, Google introduced BERT through a groundbreaking paper titled “BERT: Pre-training of Deep Bidirectional Transformers for ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFW9Fh1XlJifTWGoYEoJzU8t8plOM1h8hBa7noNv-HKPK3zsIYWy6K7Ft4uN4P9Sp4lr015t9ifd7yzBbN5GO0Gb5lEzhzOE04tD5ULZZbmt2uQOhZPrR2qKhORmz6b6AM8Qb-WED_P6vOjInXONrMmCWKIH33BrX8e1VYqE6qxdKgvrMlY0&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQFnoECCMQAQ&uoh=1",
+    "snippet": "A study by Chan et al. shows that using a pre-trained model of BERT (Bidirectional Encoder Representation from Transformer) can solve the Question ...",
     "snippet_highlighted_words": [
-     "Google introduced BERT"
+     "BERT"
     ],
-    "source": "Medium · LM Po",
-    "title": "BERT Unleashed: The Model That Redefined Language ..."
+    "source": "ResearchGate",
+    "title": "BERT for Question Generation"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVnpFZ3NGTmI5YkdGNFNwVjExY2FTLTg2VEhzU0tYQnJaaWhNWU8zREZLaUZEVzBPNGV4bFUyLUpTZEgtQ0g2XzZWeUM5WHVKcGdRX3cyUzFJZHV5MlM2RllrNW5tdFJpQ1ROc2tHQnFyenVjTlJ6bWRTMlNkcGYwVnJlYkdDa0pDMlpveRIEGgIIABr7BxIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDXBwgAEAAYACAAKhgKBXdoaWNoFQAAAAAaCml2O2Q7d2hpY2gqLQoFcGFwZXIVcJFkQBoGcGFwZXJzGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycyqfAgoKaW50cm9kdWNlZBUAAAAAGgdicm91Z2h0GgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoLaW1wbGVtZW50ZWQaCWludHJvZHVjZRoKaW50cm9kdWNlcxoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaCXByZXNlbnRlZBoHc3RhcnRlZBoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkKhYKBGJlcnQV7n2_QBoJaXY7ZDtiZXJ0KgoKA2ZvchUAAAAAKlAKCGxhbmd1YWdlFYLKb0AaCWxhbmd1YWdlcxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGg1pdjtkO2xhbmd1YWdlGg5pdjtkO2xhbmd1YWdlcyphCg11bmRlcnN0YW5kaW5nFYLKb0AaFWxhbmd1YWdldW5kZXJzdGFuZGluZxoSaXY7ZDt1bmRlcnN0YW5kaW5nGg9pdjtkO3Byb2Nlc3NpbmcaD2l2O2Q7dW5kZXJzdGFuZDKaAS9nb3RvP3VybD1DQUVTYUFIck96QVZ6RWdzRk5iOWJHRjRTcFYxMWNhUy04NlRIc1NLWEJyWmloTVlPM0RGS2lGRFcwTzRleGxVMi1KU2RILUNINl82VnlDOVh1SnBnUV93MlMxSWR1eTJTNkZZazVubXRSaUNUTnNrR0Jxcnp1Y05Sem1kUzJTZHBmMFZyZWJHQ2tKQzJab3k6SVs8Yj5QYXBlcjwvYj4gUmV2aWV3XSA8Yj5CRVJUPC9iPjogUHJlLXRyYWluaW5nIG9mIERlZXAgQmlkaXJlY3Rpb25hbCAuLi5CmwFbUGFwZXIgUmV2aWV3XSA8Yj5CRVJUOiBQcmUtdHJhaW5pbmcgb2YgRGVlcCBCaWRpcmVjdGlvbmFsIFRyYW5zZm9ybWVycyBmb3IgTGFuZ3VhZ2UgVW5kZXJzdGFuZGluZzwvYj4uIFBvc3RlZCBvbiBKdW5lIDExLCAyMDIxLiBCRVJUIEFyY2hpdGVjdHVyZSZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVnpFZ3NGTmI5YkdGNFNwVjExY2FTLTg2VEhzU0tYQnJaaWhNWU8zREZLaUZEVzBPNGV4bFUyLUpTZEgtQ0g2XzZWeUM5WHVKcGdRX3cyUzFJZHV5MlM2RllrNW5tdFJpQ1ROc2tHQnFyenVjTlJ6bWRTMlNkcGYwVnJlYkdDa0pDMlpveRIEGgIIABr7BxIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDXBwgAEAAYACAAKhgKBXdoaWNoFQAAAAAaCml2O2Q7d2hpY2gqLQoFcGFwZXIVcJFkQBoGcGFwZXJzGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycyqfAgoKaW50cm9kdWNlZBUAAAAAGgdicm91Z2h0GgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoLaW1wbGVtZW50ZWQaCWludHJvZHVjZRoKaW50cm9kdWNlcxoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaCXByZXNlbnRlZBoHc3RhcnRlZBoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkKhYKBGJlcnQV7n2_QBoJaXY7ZDtiZXJ0KgoKA2ZvchUAAAAAKlAKCGxhbmd1YWdlFYLKb0AaCWxhbmd1YWdlcxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGg1pdjtkO2xhbmd1YWdlGg5pdjtkO2xhbmd1YWdlcyphCg11bmRlcnN0YW5kaW5nFYLKb0AaFWxhbmd1YWdldW5kZXJzdGFuZGluZxoSaXY7ZDt1bmRlcnN0YW5kaW5nGg9pdjtkO3Byb2Nlc3NpbmcaD2l2O2Q7dW5kZXJzdGFuZDKaAS9nb3RvP3VybD1DQUVTYUFIck96QVZ6RWdzRk5iOWJHRjRTcFYxMWNhUy04NlRIc1NLWEJyWmloTVlPM0RGS2lGRFcwTzRleGxVMi1KU2RILUNINl82VnlDOVh1SnBnUV93MlMxSWR1eTJTNkZZazVubXRSaUNUTnNrR0Jxcnp1Y05Sem1kUzJTZHBmMFZyZWJHQ2tKQzJab3k6SVs8Yj5QYXBlcjwvYj4gUmV2aWV3XSA8Yj5CRVJUPC9iPjogUHJlLXRyYWluaW5nIG9mIERlZXAgQmlkaXJlY3Rpb25hbCAuLi5CmwFbUGFwZXIgUmV2aWV3XSA8Yj5CRVJUOiBQcmUtdHJhaW5pbmcgb2YgRGVlcCBCaWRpcmVjdGlvbmFsIFRyYW5zZm9ybWVycyBmb3IgTGFuZ3VhZ2UgVW5kZXJzdGFuZGluZzwvYj4uIFBvc3RlZCBvbiBKdW5lIDExLCAyMDIxLiBCRVJUIEFyY2hpdGVjdHVyZSZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "It was introduced by Google researchers in a 2018 paper titled “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\n ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEwAVdEAVdIAVdIAVtIAVtIAVtEAVdIAVtIAVNIAVdEAVdIATtE8dNmSr-jA0vKpwO1cid7R3_b____p8ft5neMYYtUAVtL6HGzKAAAAGHRSTlMAPYbE5_-GYOn_H9f______________4aQDE9oAAABDklEQVR4AX2ThQKDQAxDD-kgcIr-_5-OpnMh8z0uVdxDVd20Im1zqdynul4ElKDv3tAwCgV9QWQcXhxxIzzIL9WDiUF4Cvx1owNo6X2IKaVc4OluzqOxMM2mZSUdmaexlcCU6aw59-rhyxORCtBrNgo3M8xrpHkSMKddLXzm9eIPxXkqnvXUroFWuBxs8moGX-BZNRrX6kfQg8WzO6yEsHV6nuksG4TCIeukE3mFRHxXetjK01ZFW6p9T4hsDR7kjavpy1LSZqUska7Y701Y7k2wLxtsMD1-tM-D7WPjgffGs0PdY2R4GVmxkZ0MWwZC5mTeFJFUnwvGF4Xq52pS4_C51A99LDW9L3Y77E_HK7GiGZc4uDZkAAAAAElFTkSuQmCC.png",
-      "source_info_link": "https://www.coursera.org/articles/bert-model"
+      "description": "[Paper Review] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Posted on June 11, 2021. BERT Architecture ...",
+      "source_info_link": "https://seungmi122.github.io/2021-06-11-bert/"
      }
     },
-    "date": "Mar 6, 2026",
-    "displayed_link": "https://www.coursera.org › articles › bert-model",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEwAVdEAVdIAVdIAVtIAVtIAVtEAVdIAVtIAVNIAVdEAVdIATtE8dNmSr-jA0vKpwO1cid7R3_b____p8ft5neMYYtUAVtL6HGzKAAAAGHRSTlMAPYbE5_-GYOn_H9f______________4aQDE9oAAABDklEQVR4AX2ThQKDQAxDD-kgcIr-_5-OpnMh8z0uVdxDVd20Im1zqdynul4ElKDv3tAwCgV9QWQcXhxxIzzIL9WDiUF4Cvx1owNo6X2IKaVc4OluzqOxMM2mZSUdmaexlcCU6aw59-rhyxORCtBrNgo3M8xrpHkSMKddLXzm9eIPxXkqnvXUroFWuBxs8moGX-BZNRrX6kfQg8WzO6yEsHV6nuksG4TCIeukE3mFRHxXetjK01ZFW6p9T4hsDR7kjavpy1LSZqUska7Y701Y7k2wLxtsMD1-tM-D7WPjgffGs0PdY2R4GVmxkZ0MWwZC5mTeFJFUnwvGF4Xq52pS4_C51A99LDW9L3Y77E_HK7GiGZc4uDZkAAAAAElFTkSuQmCC.png",
-    "link": "https://www.coursera.org/articles/bert-model",
+    "date": "2021-06-11",
+    "displayed_link": "https://seungmi122.github.io › 2021-...",
+    "link": "https://seungmi122.github.io/2021-06-11-bert/",
     "position": 5,
-    "read_more_link": "https://www.coursera.org/articles/bert-model#:~:text=It%20was%20introduced%20by%20Google,Transformers%20for%20Language%20Understanding%E2%80%9D%20%5B1%5D.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVm5welIeL3plfoz2nvjALk-9mR6hJZPba9f9RrFRCeKSb-yuzZ6H1zRK4tgmln4FUJEnSQr6BGTQaIvVwT-UbAYWrp-zxgVKhDr1OWOkwnWsgYNtt5Ps_6LlQtk-eG5I&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQFnoECB0QAQ&uoh=1",
-    "snippet": "It was introduced by Google researchers in a 2018 paper titled “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVzEgsFNb9bGF4SpV11caS-86THsSKXBrZihMYO3DFKiFDW0O4exlU2-JSdH-CH6_6VyC9XuJpgQ_w2S1Iduy2S6FYk5nmtRiCTNskGBqrzucNRzmdS2Sdpf0VrebGCkJC2Zoy&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQFnoECCQQAQ&uoh=1",
+    "snippet": "[Paper Review] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Posted on June 11, 2021. BERT Architecture ...",
     "snippet_highlighted_words": [
-     "introduced",
-     "paper",
-     "BERT",
-     "Language Understanding"
+     "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
     ],
-    "source": "Coursera",
-    "title": "What Is the BERT Model and How Does It Work?"
+    "source": "GitHub Pages documentation",
+    "title": "[Paper Review] BERT: Pre-training of Deep Bidirectional ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVjNNZ2dDSGwxTTNyMWw0VEdreXd0NDdKQndDNUR3TVdSY0lrVXg4a2EySFVjbk1VR2hGNEp1TmN3dGJSSWlCODJUcS11NG05eGc1MWVYcDZLRUtETDE5ckpXakxCNWZ4VmhFWG9TRlFpVW1yX0pYNWRZRzASBBoCCAAawQcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCbBwgAEAAYACAAKhgKBXdoaWNoFXjgxT4aCml2O2Q7d2hpY2gqLQoFcGFwZXIVmt8iPxoGcGFwZXJzGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycyqfAgoKaW50cm9kdWNlZBUAAAAAGgdicm91Z2h0GgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoLaW1wbGVtZW50ZWQaCWludHJvZHVjZRoKaW50cm9kdWNlcxoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaCXByZXNlbnRlZBoHc3RhcnRlZBoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkKhYKBGJlcnQVzmAfQBoJaXY7ZDtiZXJ0KgoKA2ZvchUAAAAAKlAKCGxhbmd1YWdlFaujhD8aCWxhbmd1YWdlcxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGg1pdjtkO2xhbmd1YWdlGg5pdjtkO2xhbmd1YWdlcyphCg11bmRlcnN0YW5kaW5nFdABBD8aFWxhbmd1YWdldW5kZXJzdGFuZGluZxoSaXY7ZDt1bmRlcnN0YW5kaW5nGg9pdjtkO3Byb2Nlc3NpbmcaD2l2O2Q7dW5kZXJzdGFuZDKJAS9nb3RvP3VybD1DQUVTV3dIck96QVYzTWdnQ0hsMU0zcjFsNFRHa3l3dDQ3SkJ3QzVEd01XUmNJa1V4OGthMkhVY25NVUdoRjRKdU5jd3RiUklpQjgyVHEtdTRtOXhnNTFlWHA2S0VLREwxOXJKV2pMQjVmeFZoRVhvU0ZRaVVtcl9KWDVkWUcwOks8Yj5CRVJUPC9iPiBnb3QgYSBEYXRlOiA8Yj5JbnRyb2R1Y2luZzwvYj4gVHJhbnNmb3JtZXJzIHRvIFRlbXBvcmFsIFRhZ2dpbmdCb0Fic3RyYWN0IHBhZ2UgZm9yIDxiPmFyWGl2IHBhcGVyIDIxMDkuMTQ5Mjc8L2I-OiBCRVJUIGdvdCBhIERhdGU6IEludHJvZHVjaW5nIFRyYW5zZm9ybWVycyB0byBUZW1wb3JhbCBUYWdnaW5nLkoDZm9yIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVjNNZ2dDSGwxTTNyMWw0VEdreXd0NDdKQndDNUR3TVdSY0lrVXg4a2EySFVjbk1VR2hGNEp1TmN3dGJSSWlCODJUcS11NG05eGc1MWVYcDZLRUtETDE5ckpXakxCNWZ4VmhFWG9TRlFpVW1yX0pYNWRZRzASBBoCCAAawQcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCbBwgAEAAYACAAKhgKBXdoaWNoFXjgxT4aCml2O2Q7d2hpY2gqLQoFcGFwZXIVmt8iPxoGcGFwZXJzGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycyqfAgoKaW50cm9kdWNlZBUAAAAAGgdicm91Z2h0GgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoLaW1wbGVtZW50ZWQaCWludHJvZHVjZRoKaW50cm9kdWNlcxoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaCXByZXNlbnRlZBoHc3RhcnRlZBoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkKhYKBGJlcnQVzmAfQBoJaXY7ZDtiZXJ0KgoKA2ZvchUAAAAAKlAKCGxhbmd1YWdlFaujhD8aCWxhbmd1YWdlcxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGg1pdjtkO2xhbmd1YWdlGg5pdjtkO2xhbmd1YWdlcyphCg11bmRlcnN0YW5kaW5nFdABBD8aFWxhbmd1YWdldW5kZXJzdGFuZGluZxoSaXY7ZDt1bmRlcnN0YW5kaW5nGg9pdjtkO3Byb2Nlc3NpbmcaD2l2O2Q7dW5kZXJzdGFuZDKJAS9nb3RvP3VybD1DQUVTV3dIck96QVYzTWdnQ0hsMU0zcjFsNFRHa3l3dDQ3SkJ3QzVEd01XUmNJa1V4OGthMkhVY25NVUdoRjRKdU5jd3RiUklpQjgyVHEtdTRtOXhnNTFlWHA2S0VLREwxOXJKV2pMQjVmeFZoRVhvU0ZRaVVtcl9KWDVkWUcwOks8Yj5CRVJUPC9iPiBnb3QgYSBEYXRlOiA8Yj5JbnRyb2R1Y2luZzwvYj4gVHJhbnNmb3JtZXJzIHRvIFRlbXBvcmFsIFRhZ2dpbmdCb0Fic3RyYWN0IHBhZ2UgZm9yIDxiPmFyWGl2IHBhcGVyIDIxMDkuMTQ5Mjc8L2I-OiBCRVJUIGdvdCBhIERhdGU6IEludHJvZHVjaW5nIFRyYW5zZm9ybWVycyB0byBUZW1wb3JhbCBUYWdnaW5nLkoDZm9yIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "In October 2018, researchers from Google AI Language published \"BERT: Pre-training of Deep Bidirectional Transformers for Language ...",
-      "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACQBgCdASocABwAPtEutFooIagoGAEAGglpABFPft-O3_bF0DaAjt_-BE2SAyLJiLY1Sg9R9vFivfNHXfgAAPz8wTJuffOyaVWvmbuF9L9nxApOll_1SC5QvyEhl08edzj_6kD_5ppZEoMSzNgbh1-2LNO_kDv9SmKhdKbN4oIv5J_nTOOf0Tp5JV0TyCBhsf-frZPxVn_CXdvFWbV31KP-HoGjU4NUqF2DhNmnIGr5sHelyUzFKDlLgXEUbyhjhDuW_NHIGtU-5uaU_-rTZXvJSdv-ei-_Vyd6wVEzBXt4KXJaaCYNusboFeUP7-TP_qi3kDM1hX78_aX05vVv9Ge4UlIRG-3_beVR8scPlpJQcU0aQnxObYf-VovPdSx6SenNK39TD_LMJtAbX3rvxI2CwM8SrD79t8k9zVRJiGioEM-qFsQyV181-0W1x06dhV570v_uWmgAAA.webp",
-      "source_info_link": "https://mbrenndoerfer.com/writing/bert-bidirectional-pretraining-revolutionizes-language-understanding"
+      "description": "Abstract page for arXiv paper 2109.14927: BERT got a Date: Introducing Transformers to Temporal Tagging.",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
+      "source_info_link": "https://arxiv.org/abs/2109.14927"
      }
     },
-    "date": "Jun 13, 2025",
-    "displayed_link": "https://mbrenndoerfer.com › ... › History of Language AI",
-    "favicon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACQBgCdASocABwAPtEutFooIagoGAEAGglpABFPft-O3_bF0DaAjt_-BE2SAyLJiLY1Sg9R9vFivfNHXfgAAPz8wTJuffOyaVWvmbuF9L9nxApOll_1SC5QvyEhl08edzj_6kD_5ppZEoMSzNgbh1-2LNO_kDv9SmKhdKbN4oIv5J_nTOOf0Tp5JV0TyCBhsf-frZPxVn_CXdvFWbV31KP-HoGjU4NUqF2DhNmnIGr5sHelyUzFKDlLgXEUbyhjhDuW_NHIGtU-5uaU_-rTZXvJSdv-ei-_Vyd6wVEzBXt4KXJaaCYNusboFeUP7-TP_qi3kDM1hX78_aX05vVv9Ge4UlIRG-3_beVR8scPlpJQcU0aQnxObYf-VovPdSx6SenNK39TD_LMJtAbX3rvxI2CwM8SrD79t8k9zVRJiGioEM-qFsQyV181-0W1x06dhV570v_uWmgAAA.webp",
-    "link": "https://mbrenndoerfer.com/writing/bert-bidirectional-pretraining-revolutionizes-language-understanding",
+    "author": "cituojant S Almasian",
+    "displayed_link": "https://arxiv.org › cs",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
+    "link": "https://arxiv.org/abs/2109.14927",
     "position": 6,
-    "read_more_link": "https://mbrenndoerfer.com/writing/bert-bidirectional-pretraining-revolutionizes-language-understanding#:~:text=In%20October%202018%2C%20researchers%20from,Bidirectional%20Transformers%20for%20Language%20Understanding.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFcuWSBO05k8Kz3gIjXSVJaLrkEg0QKesOCLWGbXpSGXRjMd819yLUNd-hWBsFWxYv50t7rTSKQEaDIbi_0bF5jkjgZA4c_TRIVJBz7g7Rsb3b1TZ0VOMYVSLTJv4rQ-bU1OLMYACAXJVl29ZO1vi6o75_tnTzLM4fnYAWlT9363xyzJmpZkcYeqPqWy94qvCZpo7mcYbnZ-Rtw&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQFnoECCMQAQ&uoh=1",
-    "snippet": "In October 2018, researchers from Google AI Language published \"BERT: Pre-training of Deep Bidirectional Transformers for Language ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAV3MggCHl1M3r1l4TGkywt47JBwC5DwMWRcIkUx8ka2HUcnMUGhF4JuNcwtbRIiB82Tq-u4m9xg51eXp6KEKDL19rJWjLB5fxVhEXoSFQiUmr_JX5dYG0&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQFnoECB8QAQ&uoh=1",
+    "snippet": "Abstract page for arXiv paper 2109.14927: BERT got a Date: Introducing Transformers to Temporal Tagging.",
     "snippet_highlighted_words": [
-     "Language",
-     "BERT",
-     "Language"
+     "arXiv paper 2109.14927"
     ],
-    "source": "Michael Brenndoerfer",
-    "title": "BERT: Bidirectional Pretraining for Language Understanding"
+    "source": "arXiv.org",
+    "title": "BERT got a Date: Introducing Transformers to Temporal ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVmt6ZXhOVVF4RkZqNFBUdXFNb3JSSlIweGItTWlPaExZVzU4RV80SnM5dGQ2YUNTS2xjOVdiRDgycWgyRmVrY3hCNXBkMmxoRG5tb2hsRDI0Z2dta0h5aTVsOUxrSjZlanBQWUp4SzlRaXprQzdDRXoSBBoCCAAa2wcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkC1BwgAEAAYACAAKhgKBXdoaWNoFb34TTwaCml2O2Q7d2hpY2gqLQoFcGFwZXIV4QY1PxoGcGFwZXJzGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycyqfAgoKaW50cm9kdWNlZBUAAAAAGgdicm91Z2h0GgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoLaW1wbGVtZW50ZWQaCWludHJvZHVjZRoKaW50cm9kdWNlcxoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaCXByZXNlbnRlZBoHc3RhcnRlZBoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkKhYKBGJlcnQV4uyrQBoJaXY7ZDtiZXJ0KgoKA2ZvchUAAAAAKlAKCGxhbmd1YWdlFcUTFkAaCWxhbmd1YWdlcxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGg1pdjtkO2xhbmd1YWdlGg5pdjtkO2xhbmd1YWdlcyphCg11bmRlcnN0YW5kaW5nFWN8eUAaFWxhbmd1YWdldW5kZXJzdGFuZGluZxoSaXY7ZDt1bmRlcnN0YW5kaW5nGg9pdjtkO3Byb2Nlc3NpbmcaD2l2O2Q7dW5kZXJzdGFuZDKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZremV4TlVReEZGajRQVHVxTW9yUkpSMHhiLU1pT2hMWVc1OEVfNEpzOXRkNmFDU0tsYzlXYkQ4MnFoMkZla2N4QjVwZDJsaERubW9obEQyNGdnbWtIeWk1bDlMa0o2ZWpwUFlKeEs5UWl6a0M3Q0V6OkRHb29nbGUgPGI-QkVSVDwvYj46IEEgYmV0dGVyIDxiPnVuZGVyc3RhbmRpbmc8L2I-IG9mIGNvbXBsZXggcXVlcmllc0KSATxiPkJFUlQ8L2I-IGlzIGEgTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nIChOTFApIG1vZGVsIHRoYXQgaGVscHMgR29vZ2xlIHVuZGVyc3RhbmQgdGhlIGxhbmd1YWdlIGJldHRlciBpbiBvcmRlciB0byBzZXJ2ZSBtb3JlIHJlbGV2YW50IHJlc3VsdHMuSgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVmt6ZXhOVVF4RkZqNFBUdXFNb3JSSlIweGItTWlPaExZVzU4RV80SnM5dGQ2YUNTS2xjOVdiRDgycWgyRmVrY3hCNXBkMmxoRG5tb2hsRDI0Z2dta0h5aTVsOUxrSjZlanBQWUp4SzlRaXprQzdDRXoSBBoCCAAa2wcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkC1BwgAEAAYACAAKhgKBXdoaWNoFb34TTwaCml2O2Q7d2hpY2gqLQoFcGFwZXIV4QY1PxoGcGFwZXJzGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycyqfAgoKaW50cm9kdWNlZBUAAAAAGgdicm91Z2h0GgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoLaW1wbGVtZW50ZWQaCWludHJvZHVjZRoKaW50cm9kdWNlcxoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaCXByZXNlbnRlZBoHc3RhcnRlZBoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkKhYKBGJlcnQV4uyrQBoJaXY7ZDtiZXJ0KgoKA2ZvchUAAAAAKlAKCGxhbmd1YWdlFcUTFkAaCWxhbmd1YWdlcxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGg1pdjtkO2xhbmd1YWdlGg5pdjtkO2xhbmd1YWdlcyphCg11bmRlcnN0YW5kaW5nFWN8eUAaFWxhbmd1YWdldW5kZXJzdGFuZGluZxoSaXY7ZDt1bmRlcnN0YW5kaW5nGg9pdjtkO3Byb2Nlc3NpbmcaD2l2O2Q7dW5kZXJzdGFuZDKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZremV4TlVReEZGajRQVHVxTW9yUkpSMHhiLU1pT2hMWVc1OEVfNEpzOXRkNmFDU0tsYzlXYkQ4MnFoMkZla2N4QjVwZDJsaERubW9obEQyNGdnbWtIeWk1bDlMa0o2ZWpwUFlKeEs5UWl6a0M3Q0V6OkRHb29nbGUgPGI-QkVSVDwvYj46IEEgYmV0dGVyIDxiPnVuZGVyc3RhbmRpbmc8L2I-IG9mIGNvbXBsZXggcXVlcmllc0KSATxiPkJFUlQ8L2I-IGlzIGEgTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nIChOTFApIG1vZGVsIHRoYXQgaGVscHMgR29vZ2xlIHVuZGVyc3RhbmQgdGhlIGxhbmd1YWdlIGJldHRlciBpbiBvcmRlciB0byBzZXJ2ZSBtb3JlIHJlbGV2YW50IHJlc3VsdHMuSgNmb3IiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "You can also read our paper \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\" for more details. Labels: Machine ...",
-      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp",
-      "source_info_link": "https://research.google/blog/open-sourcing-bert-state-of-the-art-pre-training-for-natural-language-processing/"
+      "description": "BERT is a Natural Language Processing (NLP) model that helps Google understand the language better in order to serve more relevant results.",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0VBqwAB55mDo7NRw3dqxF-bHa29bkbHVYV2K6AAP735rBKJ33mApekf2BC_ET_sXr_gvPOk5_66UfmtmzGDC9Xrs2zd1nGoviu7GBak7CNqi37w341Bln3L6IwV2UYi2gXVrX_x6j3PVhDe8im8U19rQ5Du61_8ek3Ga08PS6Qip92SmuviayriusXr46X6rZK5bpcnR2Qc7CASoaQnBG8JoiGMZ2SziWNbPReSFoDLSi6XNsNI6XZuHsGMx1mYVSoV2DhbRJU0za53I_1JLQKQ8UXCAvgD0tTJ4IRCPNxsy9ycOpB-xxkkYQOXZ-qbEE_SjnEresUhjDEF9o1M3nNkv57ECPlnR4lN_OFG1YxO_wKXyY-Pn6IeCsm2lLQVC-5uht0qpeYdYeWAAAA.webp",
+      "source_info_link": "https://yoast.com/google-bert/"
      }
     },
-    "displayed_link": "https://research.google › blog › open-sourcing-bert-state-...",
-    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp",
-    "link": "https://research.google/blog/open-sourcing-bert-state-of-the-art-pre-training-for-natural-language-processing/",
+    "date": "2019-11-04",
+    "displayed_link": "https://yoast.com › google-bert",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0VBqwAB55mDo7NRw3dqxF-bHa29bkbHVYV2K6AAP735rBKJ33mApekf2BC_ET_sXr_gvPOk5_66UfmtmzGDC9Xrs2zd1nGoviu7GBak7CNqi37w341Bln3L6IwV2UYi2gXVrX_x6j3PVhDe8im8U19rQ5Du61_8ek3Ga08PS6Qip92SmuviayriusXr46X6rZK5bpcnR2Qc7CASoaQnBG8JoiGMZ2SziWNbPReSFoDLSi6XNsNI6XZuHsGMx1mYVSoV2DhbRJU0za53I_1JLQKQ8UXCAvgD0tTJ4IRCPNxsy9ycOpB-xxkkYQOXZ-qbEE_SjnEresUhjDEF9o1M3nNkv57ECPlnR4lN_OFG1YxO_wKXyY-Pn6IeCsm2lLQVC-5uht0qpeYdYeWAAAA.webp",
+    "link": "https://yoast.com/google-bert/",
     "position": 7,
-    "read_more_link": "https://research.google/blog/open-sourcing-bert-state-of-the-art-pre-training-for-natural-language-processing/#:~:text=You%20can%20also%20read%20our,Machine%20Intelligence",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFZjHh9yUu-tTnezPWmYdygI3mjgcDE5cYqsCIj_T72oS9sjoCJRKH9dTfU_bvfFOGPCkchd-B6lN7sl18xNM6Qph9YGNQNoEo69r8ULpDqhFqgZG7IbAiyN5pQ3BTgrEnqy61QRYhvlaWiRmU9qhj74zupW6nv9zNRoxbeEfwt-O39nlH8SrDQEOoGrr1Rdg7xaJQjmKKenM0juWFT9xHNZ9&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQFnoECEsQAQ&uoh=1",
-    "snippet": "You can also read our paper \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\" for more details. Labels: Machine ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVkzexNUQxFFj4PTuqMorRJR0xb-MiOhLYW58E_4Js9td6aCSKlc9WbD82qh2FekcxB5pd2lhDnmohlD24ggmkHyi5l9LkJ6ejpPYJxK9QizkC7CEz&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQFnoECEIQAQ&uoh=1",
+    "snippet": "BERT is a Natural Language Processing (NLP) model that helps Google understand the language better in order to serve more relevant results.",
+    "snippet_highlighted_words": [
+     "BERT"
+    ],
+    "source": "Yoast",
+    "title": "Google BERT: A better understanding of complex queries"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZkVWlVSVZmem1nYnNHRy1UTDM0NWU1NHZnOHVrWGo0c1RyUlFaR3RNaFhhY2tBQ1QzR1lQQkRJSERzN0Q3QmpadmdyZXhXTkMwZjlCV2dYS3g2c1VMMXZ6SVBDYjBEdWVxQzVYQkNQcVN2WFdXQVVQeUMzclVra2t4eGgwNmtZemVTN1NTV0NjcFN0TUt6SVZCNEt2d0NjWHEzZHZjMmhiWWpVczZJTmtEdVg4bDBHX3FxMjlQZHZJUnVwU01ieGtFOUtfbUs1V1VQN1AxVmpnNmxObU93EgQaAggAGt0IEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQLkICAAQABgAIAAqGAoFd2hpY2gV0nP0PhoKaXY7ZDt3aGljaCotCgVwYXBlchXfkHE_GgZwYXBlcnMaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzKp8CCgppbnRyb2R1Y2VkFfnmLz8aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgppbnRyb2R1Y2VzGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGg9pdjtkO2ludHJvZHVjZWQaDGl2O2Q7YnJvdWdodBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGg5pdjtkO2ludHJvZHVjZRoQaXY7ZDtpbnRyb2R1Y2luZxoRaXY7ZDtpbnRyb2R1Y3Rpb24aDml2O2Q7cHJlc2VudGVkGgxpdjtkO3N0YXJ0ZWQqFgoEYmVydBUm9FpAGglpdjtkO2JlcnQqCgoDZm9yFQAAAAAqUAoIbGFuZ3VhZ2UVvOuAQBoJbGFuZ3VhZ2VzGhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaDWl2O2Q7bGFuZ3VhZ2UaDml2O2Q7bGFuZ3VhZ2VzKmEKDXVuZGVyc3RhbmRpbmcVMX7KPxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGhJpdjtkO3VuZGVyc3RhbmRpbmcaD2l2O2Q7cHJvY2Vzc2luZxoPaXY7ZDt1bmRlcnN0YW5kMu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZkVWlVSVZmem1nYnNHRy1UTDM0NWU1NHZnOHVrWGo0c1RyUlFaR3RNaFhhY2tBQ1QzR1lQQkRJSERzN0Q3QmpadmdyZXhXTkMwZjlCV2dYS3g2c1VMMXZ6SVBDYjBEdWVxQzVYQkNQcVN2WFdXQVVQeUMzclVra2t4eGgwNmtZemVTN1NTV0NjcFN0TUt6SVZCNEt2d0NjWHEzZHZjMmhiWWpVczZJTmtEdVg4bDBHX3FxMjlQZHZJUnVwU01ieGtFOUtfbUs1V1VQN1AxVmpnNmxObU93OkVUcmFuc2Zvcm1lcnMsIEdQVC0xLCA8Yj5CRVJUPC9iPiwgYW5kIHRoZWlyIGltcGFjdCBvbiBhY2NlbGVyYXRlZCAuLi5CrgE8Yj5CRVJUPC9iPiBpcyBhbiBBdXRvLUVuY29kaW5nIE1hY2hpbmUgTGVhcm5pbmcgPGI-TGFuZ3VhZ2U8L2I-IG1vZGVsIHdoaWNoIHJldm9sdXRpb25pemVkIHRoZSBOTFAgcmVsYXRlZCB0YXNrcywgdGhpcyBtb2RlbCB3YXMgPGI-aW50cm9kdWNlZDwvYj4gYnkgZ29vZ2xlIGluIDIwMTgmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZkVWlVSVZmem1nYnNHRy1UTDM0NWU1NHZnOHVrWGo0c1RyUlFaR3RNaFhhY2tBQ1QzR1lQQkRJSERzN0Q3QmpadmdyZXhXTkMwZjlCV2dYS3g2c1VMMXZ6SVBDYjBEdWVxQzVYQkNQcVN2WFdXQVVQeUMzclVra2t4eGgwNmtZemVTN1NTV0NjcFN0TUt6SVZCNEt2d0NjWHEzZHZjMmhiWWpVczZJTmtEdVg4bDBHX3FxMjlQZHZJUnVwU01ieGtFOUtfbUs1V1VQN1AxVmpnNmxObU93EgQaAggAGt0IEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQLkICAAQABgAIAAqGAoFd2hpY2gV0nP0PhoKaXY7ZDt3aGljaCotCgVwYXBlchXfkHE_GgZwYXBlcnMaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzKp8CCgppbnRyb2R1Y2VkFfnmLz8aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgppbnRyb2R1Y2VzGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGg9pdjtkO2ludHJvZHVjZWQaDGl2O2Q7YnJvdWdodBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGg5pdjtkO2ludHJvZHVjZRoQaXY7ZDtpbnRyb2R1Y2luZxoRaXY7ZDtpbnRyb2R1Y3Rpb24aDml2O2Q7cHJlc2VudGVkGgxpdjtkO3N0YXJ0ZWQqFgoEYmVydBUm9FpAGglpdjtkO2JlcnQqCgoDZm9yFQAAAAAqUAoIbGFuZ3VhZ2UVvOuAQBoJbGFuZ3VhZ2VzGhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaDWl2O2Q7bGFuZ3VhZ2UaDml2O2Q7bGFuZ3VhZ2VzKmEKDXVuZGVyc3RhbmRpbmcVMX7KPxoVbGFuZ3VhZ2V1bmRlcnN0YW5kaW5nGhJpdjtkO3VuZGVyc3RhbmRpbmcaD2l2O2Q7cHJvY2Vzc2luZxoPaXY7ZDt1bmRlcnN0YW5kMu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZkVWlVSVZmem1nYnNHRy1UTDM0NWU1NHZnOHVrWGo0c1RyUlFaR3RNaFhhY2tBQ1QzR1lQQkRJSERzN0Q3QmpadmdyZXhXTkMwZjlCV2dYS3g2c1VMMXZ6SVBDYjBEdWVxQzVYQkNQcVN2WFdXQVVQeUMzclVra2t4eGgwNmtZemVTN1NTV0NjcFN0TUt6SVZCNEt2d0NjWHEzZHZjMmhiWWpVczZJTmtEdVg4bDBHX3FxMjlQZHZJUnVwU01ieGtFOUtfbUs1V1VQN1AxVmpnNmxObU93OkVUcmFuc2Zvcm1lcnMsIEdQVC0xLCA8Yj5CRVJUPC9iPiwgYW5kIHRoZWlyIGltcGFjdCBvbiBhY2NlbGVyYXRlZCAuLi5CrgE8Yj5CRVJUPC9iPiBpcyBhbiBBdXRvLUVuY29kaW5nIE1hY2hpbmUgTGVhcm5pbmcgPGI-TGFuZ3VhZ2U8L2I-IG1vZGVsIHdoaWNoIHJldm9sdXRpb25pemVkIHRoZSBOTFAgcmVsYXRlZCB0YXNrcywgdGhpcyBtb2RlbCB3YXMgPGI-aW50cm9kdWNlZDwvYj4gYnkgZ29vZ2xlIGluIDIwMTgmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "BERT is an Auto-Encoding Machine Learning Language model which revolutionized the NLP related tasks, this model was introduced by google in 2018 ...",
+      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "source_info_link": "https://www.linkedin.com/pulse/demystifying-ai-language-revolution-transformers-gpt-1-ishaq-miyawala-n7duf"
+     }
+    },
+    "displayed_link": "Reakcijų: daugiau nei 20 · prieš 2 metus",
+    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+    "link": "https://www.linkedin.com/pulse/demystifying-ai-language-revolution-transformers-gpt-1-ishaq-miyawala-n7duf",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFdUiUIVfzmgbsGG-TL345e54vg8ukXj4sTrRQZGtMhXackACT3GYPBDIHDs7D7BjZvgrexWNC0f9BWgXKx6sUL1vzIPCb0DueqC5XBCPqSvXWWAUPyC3rUkkkxxh06kYzeS7SSWCcpStMKzIVB4KvwCcXq3dvc2hbYjUs6INkDuX8l0G_qq29PdvIRupSMbxkE9K_mK5WUP7P1Vjg6lNmOw&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQFnoECD0QAQ&uoh=1",
+    "snippet": "BERT is an Auto-Encoding Machine Learning Language model which revolutionized the NLP related tasks, this model was introduced by google in 2018 ...",
+    "snippet_highlighted_words": [
+     "BERT",
+     "Language",
+     "introduced"
+    ],
+    "source": "LinkedIn · Ishaq Miyawala",
+    "title": "Transformers, GPT-1, BERT, and their impact on ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVm5FbXh2NTZPd09jVFRsaUFheU1LVjZMZnZNX2ZYS3VQZXFZeGIxck54YzJQb19tTGlXX1FXdF9uY1NQS2hmRFl2RGVqRkJWeXMwNEJzUnVRVE4tbk9XVVQ3ZndaMW0yVkdBVVRSQi1RT1NMdFp6ZnRWWEJ2VUNjTG5Dak1lQ0tEEgQaAggAGpAIEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA6gcIABAAGAAgACoYCgV3aGljaBXBbQw_GgppdjtkO3doaWNoKi0KBXBhcGVyFTReQj8aBnBhcGVycxoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMqnwIKCmludHJvZHVjZWQVAAAAABoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaCmludHJvZHVjZXMaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZCoWCgRiZXJ0FRIKhUAaCWl2O2Q7YmVydCoKCgNmb3IVAAAAACpQCghsYW5ndWFnZRUK5mNAGglsYW5ndWFnZXMaFWxhbmd1YWdldW5kZXJzdGFuZGluZxoNaXY7ZDtsYW5ndWFnZRoOaXY7ZDtsYW5ndWFnZXMqYQoNdW5kZXJzdGFuZGluZxX-nUJAGhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaEml2O2Q7dW5kZXJzdGFuZGluZxoPaXY7ZDtwcm9jZXNzaW5nGg9pdjtkO3VuZGVyc3RhbmQylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWbkVteHY1Nk93T2NUVGxpQWF5TUtWNkxmdk1fZlhLdVBlcVl4YjFyTnhjMlBvX21MaVdfUVd0X25jU1BLaGZEWXZEZWpGQlZ5czA0QnNSdVFUTi1uT1dVVDdmd1oxbTJWR0FVVFJCLVFPU0x0WnpmdFZYQnZVQ2NMbkNqTWVDS0Q6SlRpbnlCRVJUOiBEaXN0aWxsaW5nIDxiPkJFUlQ8L2I-IGZvciBOYXR1cmFsIDxiPkxhbmd1YWdlIFVuZGVyc3RhbmRpbmc8L2I-QrEBUmV2aWV3OiBUaGlzIDxiPnBhcGVyPC9iPiBwcm9wb3NlcyBhIG5ldyBrbm93bGVkZ2UgZGlzdGlsbGF0aW9uIG1ldGhvZCBmb3IgPGI-QkVSVDwvYj4gbW9kZWxzLiBBIG51bWJlciBvZiBtb2RpZmljYXRpb25zIHRvIHRoZSB2YW5pbGxhIGtub3dsZWRnZSBkaXN0aWxsYXRpb24gbWV0aG9kIG9mJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVm5FbXh2NTZPd09jVFRsaUFheU1LVjZMZnZNX2ZYS3VQZXFZeGIxck54YzJQb19tTGlXX1FXdF9uY1NQS2hmRFl2RGVqRkJWeXMwNEJzUnVRVE4tbk9XVVQ3ZndaMW0yVkdBVVRSQi1RT1NMdFp6ZnRWWEJ2VUNjTG5Dak1lQ0tEEgQaAggAGpAIEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA6gcIABAAGAAgACoYCgV3aGljaBXBbQw_GgppdjtkO3doaWNoKi0KBXBhcGVyFTReQj8aBnBhcGVycxoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMqnwIKCmludHJvZHVjZWQVAAAAABoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaCmludHJvZHVjZXMaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZCoWCgRiZXJ0FRIKhUAaCWl2O2Q7YmVydCoKCgNmb3IVAAAAACpQCghsYW5ndWFnZRUK5mNAGglsYW5ndWFnZXMaFWxhbmd1YWdldW5kZXJzdGFuZGluZxoNaXY7ZDtsYW5ndWFnZRoOaXY7ZDtsYW5ndWFnZXMqYQoNdW5kZXJzdGFuZGluZxX-nUJAGhVsYW5ndWFnZXVuZGVyc3RhbmRpbmcaEml2O2Q7dW5kZXJzdGFuZGluZxoPaXY7ZDtwcm9jZXNzaW5nGg9pdjtkO3VuZGVyc3RhbmQylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWbkVteHY1Nk93T2NUVGxpQWF5TUtWNkxmdk1fZlhLdVBlcVl4YjFyTnhjMlBvX21MaVdfUVd0X25jU1BLaGZEWXZEZWpGQlZ5czA0QnNSdVFUTi1uT1dVVDdmd1oxbTJWR0FVVFJCLVFPU0x0WnpmdFZYQnZVQ2NMbkNqTWVDS0Q6SlRpbnlCRVJUOiBEaXN0aWxsaW5nIDxiPkJFUlQ8L2I-IGZvciBOYXR1cmFsIDxiPkxhbmd1YWdlIFVuZGVyc3RhbmRpbmc8L2I-QrEBUmV2aWV3OiBUaGlzIDxiPnBhcGVyPC9iPiBwcm9wb3NlcyBhIG5ldyBrbm93bGVkZ2UgZGlzdGlsbGF0aW9uIG1ldGhvZCBmb3IgPGI-QkVSVDwvYj4gbW9kZWxzLiBBIG51bWJlciBvZiBtb2RpZmljYXRpb25zIHRvIHRoZSB2YW5pbGxhIGtub3dsZWRnZSBkaXN0aWxsYXRpb24gbWV0aG9kIG9mJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "Review: This paper proposes a new knowledge distillation method for BERT models. A number of modifications to the vanilla knowledge distillation method of ...",
+      "icon": "https://serpapi.com/images/i/UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAAsBMJaQAMwAHU_VeHCtyAAD5BWSqR_EJ7MopEMzInmrtj_9aBG0vs-XSr83gkNLcOxvzcsjKlWvD7_Ghf_G2nKn1lvTUt6reEFwYcvMCy5Va0TgOgAA.webp",
+      "source_info_link": "https://openreview.net/forum?id=rJx0Q6EFPB"
+     }
+    },
+    "author": "cituojant X Jiao",
+    "displayed_link": "https://openreview.net › forum",
+    "favicon": "https://serpapi.com/images/i/UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAAsBMJaQAMwAHU_VeHCtyAAD5BWSqR_EJ7MopEMzInmrtj_9aBG0vs-XSr83gkNLcOxvzcsjKlWvD7_Ghf_G2nKn1lvTUt6reEFwYcvMCy5Va0TgOgAA.webp",
+    "link": "https://openreview.net/forum?id=rJx0Q6EFPB",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVnEmxv56OwOcTTliAayMKV6LfvM_fXKuPeqYxb1rNxc2Po_mLiW_QWt_ncSPKhfDYvDejFBVys04BsRuQTN-nOWUT7fwZ1m2VGAUTRB-QOSLtZzftVXBvUCcLnCjMeCKD&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQFnoECD4QAQ&uoh=1",
+    "snippet": "Review: This paper proposes a new knowledge distillation method for BERT models. A number of modifications to the vanilla knowledge distillation method of ...",
     "snippet_highlighted_words": [
      "paper",
-     "BERT",
-     "Language Understanding"
+     "BERT"
     ],
-    "source": "Google Research",
-    "title": "Open Sourcing BERT: State-of-the-Art Pre-training for ..."
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "... Language Understanding” by Jacob Devlin et al. (Google AI). The BERT paper revolutionized natural language processing by introducing a truly ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "10.9K+ views · 10 months ago",
-    "duration": "3:03:46",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "key_moments": [
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=533",
-      "time": "08:53",
-      "title": "Bird's Eye View"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=736",
-      "time": "12:16",
-      "title": "Bert Architecture"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=2150",
-      "time": "35:50",
-      "title": "Mlm Objective"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=2978",
-      "time": "49:38",
-      "title": "Unsupervised Fine-Tuning Approaches"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=3479",
-      "time": "57:59",
-      "title": "Pre-Training"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=3899",
-      "time": "01:04:59",
-      "title": "Input Output Representations"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=4198",
-      "time": "01:09:58",
-      "title": "Pre-Training Bird"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=4972",
-      "time": "01:22:52",
-      "title": "Representation Learning Objective"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=5199",
-      "time": "01:26:39",
-      "title": "Fine-Tuning"
-     },
-     {
-      "link": "https://www.youtube.com/watch?v=IIvgDRYdQko&t=7331",
-      "time": "02:02:11",
-      "title": "Ablation Studies"
-     }
-    ],
-    "link": "https://www.youtube.com/watch?v=IIvgDRYdQko",
-    "position": 8,
-    "snippet": "... Language Understanding” by Jacob Devlin et al. (Google AI). The BERT paper revolutionized natural language processing by introducing a truly ...",
-    "source": "YouTube · Vizuara",
-    "thumbnail": "https://serpapi.com/searches/6aafc480a3ce84b5158096b5/images/L2w6BhQXwLYy04PAnMd4lJx05zqKZxCBAP_nxe_esHI.jpeg",
-    "title": "Dissecting BERT paper"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "At the time of its proposal, BERT obtained a new state-of-the-art on eleven different language understanding tasks, prompting a nearly-instant ...",
-      "icon": "https://serpapi.com/images/i/UklGRugBAABXRUJQVlA4INwBAAAwCgCdASocABwAPtE-tFooIigoFAEAGglpABPNH2PkvPXmYq_khlmXsvxgfQC70823z77AH8l_rP--64HoIfrMFs2WQI0tbLcRqzw28QI6dL-PSOEdX8XvsAAA_vYQJbxoAUwuEgJO3v41qg0Aqt5HRci2hryvs9qPrSkusutk0RkfIed5Z5YIXz-rckc9YeHV80-fDSfjC58LeZ__Ul7Nx32FBtFnPNPN5v5D4aNt6tB04wgUGc8sGR-NnFpDCowKT6yBfljL8iJVUVuMVvs-c_ZHg_b0Kh2sDg6SZdOORJP8pOP6RZckdGafM8i0Rwwrf7_l3fKgWz6f0EKue3nfuhyXTjOHq2vvK8eu8p0Ibz0VUdaKMRy0y_fuv7wUSx8UVOVmG5wwb9s77oIfeeggxk29L1K9DEmvxJ_-XnV_2l1RidZct7oEcsh7qJqKLfloqqCz98m3xBsIxD5ADvwdVzGPMwFjbpbqLHscv1Gfb6QEfzTPoEhN_DWtIYvBcyJ7SLfn4auGDL1Ku20DC7j9uOH6t2e8dyGCfZ-APJdcvGsViryyhXnL_Tr3BbaPy4iQCjiJr3IjYrGZy0Ex5SyaZCHDGeoI4ip5aqjIDh2gTvV8id5ItIuDOQAAAA.webp",
-      "source_info_link": "https://cameronrwolfe.substack.com/p/language-understanding-with-bert"
-     }
-    },
-    "displayed_link": "20+ likes · 3 years ago",
-    "favicon": "https://serpapi.com/images/i/UklGRugBAABXRUJQVlA4INwBAAAwCgCdASocABwAPtE-tFooIigoFAEAGglpABPNH2PkvPXmYq_khlmXsvxgfQC70823z77AH8l_rP--64HoIfrMFs2WQI0tbLcRqzw28QI6dL-PSOEdX8XvsAAA_vYQJbxoAUwuEgJO3v41qg0Aqt5HRci2hryvs9qPrSkusutk0RkfIed5Z5YIXz-rckc9YeHV80-fDSfjC58LeZ__Ul7Nx32FBtFnPNPN5v5D4aNt6tB04wgUGc8sGR-NnFpDCowKT6yBfljL8iJVUVuMVvs-c_ZHg_b0Kh2sDg6SZdOORJP8pOP6RZckdGafM8i0Rwwrf7_l3fKgWz6f0EKue3nfuhyXTjOHq2vvK8eu8p0Ibz0VUdaKMRy0y_fuv7wUSx8UVOVmG5wwb9s77oIfeeggxk29L1K9DEmvxJ_-XnV_2l1RidZct7oEcsh7qJqKLfloqqCz98m3xBsIxD5ADvwdVzGPMwFjbpbqLHscv1Gfb6QEfzTPoEhN_DWtIYvBcyJ7SLfn4auGDL1Ku20DC7j9uOH6t2e8dyGCfZ-APJdcvGsViryyhXnL_Tr3BbaPy4iQCjiJr3IjYrGZy0Ex5SyaZCHDGeoI4ip5aqjIDh2gTvV8id5ItIuDOQAAAA.webp",
-    "link": "https://cameronrwolfe.substack.com/p/language-understanding-with-bert",
-    "position": 9,
-    "read_more_link": "https://cameronrwolfe.substack.com/p/language-understanding-with-bert#:~:text=At%20the%20time%20of%20its,that%20has%20lasted%20ever%20since.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVFEtVfPKzorr59I_RLLFt0bvW-3_LcpMKPXR_hSpgVrsXavnXe41v51_tilXX2NnTBMlzE0rHPpZju8nYJWQ8Maka8ULPpGgKBTqFTaK0sz-2N7E7GiDW5VUq-Go_zc9xjoG4nwhkU6uY9t2Oa5XMRmYWVFL7x4aJ&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQFnoECEgQAQ&uoh=1",
-    "snippet": "At the time of its proposal, BERT obtained a new state-of-the-art on eleven different language understanding tasks, prompting a nearly-instant ...",
-    "snippet_highlighted_words": [
-     "BERT",
-     "language understanding"
-    ],
-    "source": "Substack · Deep (Learning) Focus",
-    "title": "Language Understanding with BERT - Deep (Learning) Focus"
+    "source": "OpenReview",
+    "title": "Distilling BERT for Natural Language Understanding"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=10&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8NMDegQIPBAW",
+   "next": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsRnKKHXJbH63qRJVfA6vFluk6YXg:1790544348845&ei=3Im5aqOVM7Lm2roPjeuMqQg&start=10&sa=N&sstk=AS6-VmLVK1WW1fcr4AZN0LHrkhEkgMtye5_UVtxWgLawBj967C6HSo7jkIIzKuhu_zzLjhyIbvNWm6bnXaUkPDuwbUCJ4XO8GAgHoA&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQ8NMDegQIOBAK",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=90&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8tMDegQIPBAU",
-    "2": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=10&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8tMDegQIPBAE",
-    "3": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=20&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8tMDegQIPBAG",
-    "4": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=30&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8tMDegQIPBAI",
-    "5": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=40&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8tMDegQIPBAK",
-    "6": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=50&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8tMDegQIPBAM",
-    "7": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=60&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8tMDegQIPBAO",
-    "8": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=70&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8tMDegQIPBAQ",
-    "9": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=646215d9fbd2647e&ei=gMSvavfYBLusptQP8KmcGA&start=80&sa=N&sstk=AS6-VmLxrjESY-J4YXNhjTl9qIWBbVyjSX3oJfIjvZp-m9TMtZA3vO4is6lQWjSwzqWs1B1lLyIKhYQyE0MNqDHqi6cEZgwSRpNapA&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ8tMDegQIPBAS"
+    "2": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsRnKKHXJbH63qRJVfA6vFluk6YXg:1790544348845&ei=3Im5aqOVM7Lm2roPjeuMqQg&start=10&sa=N&sstk=AS6-VmLVK1WW1fcr4AZN0LHrkhEkgMtye5_UVtxWgLawBj967C6HSo7jkIIzKuhu_zzLjhyIbvNWm6bnXaUkPDuwbUCJ4XO8GAgHoA&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQ8tMDegQIOBAE",
+    "3": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsRnKKHXJbH63qRJVfA6vFluk6YXg:1790544348845&ei=3Im5aqOVM7Lm2roPjeuMqQg&start=20&sa=N&sstk=AS6-VmLVK1WW1fcr4AZN0LHrkhEkgMtye5_UVtxWgLawBj967C6HSo7jkIIzKuhu_zzLjhyIbvNWm6bnXaUkPDuwbUCJ4XO8GAgHoA&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQ8tMDegQIOBAG",
+    "4": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsRnKKHXJbH63qRJVfA6vFluk6YXg:1790544348845&ei=3Im5aqOVM7Lm2roPjeuMqQg&start=30&sa=N&sstk=AS6-VmLVK1WW1fcr4AZN0LHrkhEkgMtye5_UVtxWgLawBj967C6HSo7jkIIzKuhu_zzLjhyIbvNWm6bnXaUkPDuwbUCJ4XO8GAgHoA&ved=2ahUKEwij8_e-2Y-XAxUys1YBHY01I4UQ8tMDegQIOBAI"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFNXRmtiSGRhWTNGemVuZE5SbGxDVHpaZmQwMHphR2RxV1hveVUxUmlSMFZFYkVrNU1IVlNhbHBOVVY5RlkyRTBMVWw0Tm5oV2VVbExXa1JZVjNCcllXSTVUR0ZYTm1wMGIxaHBVVTVxU1RVNFgzSXlOMlJPVkdWelVSSVdaMDFUZG1GMlpsbENUSFZ6Y0hSUlVEaExiV05IUVJvaVFVUnpjamxtVWxwUmN5MUJTMFV6TFd0V2EyZzJhR3BNTnpGeVprcHhURTVxZHciLCJmY3YiOiIzIiwiZWkiOiJnTVN2YXZmWUJMdXNwdFFQOEttY0dBIiwicWMiOiJDalozYUdsamFDQndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmxjblFnWm05eUlHeGhibWQxWVdkbElIVnVaR1Z5YzNSaGJtUnBibWNRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IkNhbiBCRVJUIGJlIHVzZWQgZm9yIGxhbmd1YWdlIHRyYW5zbGF0aW9uPyIsImxrIjoiR2gxaVpYSjBJR1p2Y2lCc1lXNW5kV0ZuWlNCMGNtRnVjMnhoZEdsdmJnIiwiYnMiOiJjM1dPdlF2Q01CQkhjYzNrcU1HUEF6ZnBZaGJIZ0ItSWc0TkY2SHcyWjF1b0NTU3BfZmMxcVVVb09OMkRlengtN01MV2U5U3dPNlkzdUJNMGpoUThqSVVhZGRGZ1FlQXRhbGVqcjR5V1lzbm5kN0wtcjhGT2JKV1ZwS0ZGQjc2a3J2czBpbXFvdExkR05Ua3BLWUF2Mmw2THdhSENybXlUbFZWZTlwX2dlVTgyaWNrRVVoTXVKdkJaY3FESVVzdzRqN1dYQTJzQ1lVQkZFZG1XVGMtdVc0U185YkV2QmVlVDZydGwtQnlQM2ciLCJpZCI6ImZjX2dNU3ZhdmZZQkx1c3B0UVA4S21jR0FfMSJ9",
-    "page_token": "Qy6DdHicHZBtboIwAECzy_hTQYbbTMySKqhVMC39gP5ZoIhoS0FFUf_tLjvVTjOzA7y8vPf9o_dG_b60Zds25_Fg0HVdf1fXO73ty7oapOe7kQOZap2lUo1HbyP7s5AT7-KB6XEJEG0aNsMWWTATWYKEc-hILSI5tSmicJbNgGIL_5rwpsBVGUdE3RiHlA0bjQwokS2SjLtz6d1eA-oeqJMrqdiDaO2jgz7FD78NrLObxyEItb_aTO0ToiXN5oIxR7SIAb3mTYnM0s6YuFKvXGH7I44MrCN1axKtnJyFQ8whJJZ72bJ3KyUh3Fbqkc_AGsXSyQ1e44PPkXKv1AHLgNvAK4UhTy6JRcUpDJ7-Lvd9tPHaNrFyMN9DgBfhfcMFEQddYGW7EQPLZ7tmpARBDEOq_WOqMWIxNL1CXidO7__m5Kuo2nFzqnd_3-aCAw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuZG1jMUpMVUZOUVZHSklWMjE1ZDB0Tk1WWndMVFJ2U1VrMFkxVnpWbWs1WmtKamVrTkxUMk50WmxGVFFVVnlNVXhtYVRJNVpVb3pjMmgyWDFocE9XVTJWbEZXZW1ONGRqQlplalZ4VGtSS1lXNDFSM2wxU0VOMWR4SVhNMGx0TldGeFQxWk5OMHh0TW5KdlVHcGxkVTF4VVdjYUlrRkVjM0k1WmxKR2QxWlFaa2RDYVZKR2NFOWlNelJsUVV0Q1NUVjRTblIyYjBFIiwiZmN2IjoiMyIsImVpIjoiM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWciLCJxYyI6IkNqWjNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUdKbGNuUWdabTl5SUd4aGJtZDFZV2RsSUhWdVpHVnljM1JoYm1ScGJtY1FBSDA4VWhjXyIsInF1ZXN0aW9uIjoiQ2FuIEJFUlQgYmUgdXNlZCBmb3IgbGFuZ3VhZ2UgdHJhbnNsYXRpb24/IiwibGsiOiJHaDFpWlhKMElHWnZjaUJzWVc1bmRXRm5aU0IwY21GdWMyeGhkR2x2YmciLCJicyI6ImMzV1BQUXZDTUJSRmNjMGtpRXY4dXVEbW1FMGNBaFVwRGk0aU9LZm1tUVppQWtsS183NjJxQ0RxZXRfaDNYUFpnYTIyeXFQWUhVLW9DRTBpald1SWNNcWJSaGxDanNvbnA3SU5Yb29GbjFVVTgxLUNsV3g1cnNtalZRbTVKaFFkZlF1YUhLelBNZWptUWxvSzhIbjd3cXBmQ051d3lUNmhETUU0UXNyV3VZZWI5YVkzbFdMS3VVMHczLWZ1RzFzem5HdVZZWjhTM2JpM2JsOGx4WmlQLXViUGZEaTRBdyIsImlkIjoiZmNfM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWdfNSJ9",
+    "page_token": "iwWTHnicHZBhboIwGECzy_hTKAynJmaJgzJrwFHgK_bPUtsh2iJMmaj_dpedaqeZ2QHey8v7_jG7g_59OFdd156mltX3_XDbNFvzMZRNbYnT9SAtKYzZCKmno6cRei7lLPhazF8-F_Mkb1vwqZ0eYi8PEAJEytSJvBSMm-_VLrZpsCrwG0fVToatppg0MTKFtCtnBTha56YT9djjezVa-eBHmBdRUMEaVJXhyM3CyfXuKtcOtUUQd-kNLxkQoezokYXoCFhfRMHninUj6iSeYDECR6XS8IRlJlEhcqQm_M6TzKewCRWRmp6EhiUvwI3qhcPCSUIZvsArOaqCuCtMaFDJW8pstL63g7bvHfZV1pNE1ICyAlN-aXZJTm9yb-ocgZv5MeO68TYMHSXQhTLjXsAkjxwPJRkXvB-U8jxzB_8_Z-9l3U3bY7P9A2Tgf5Y",
     "question": "Can BERT be used for language translation?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Qy6DdHicHZBtboIwAECzy_hTQYbbTMySKqhVMC39gP5ZoIhoS0FFUf_tLjvVTjOzA7y8vPf9o_dG_b60Zds25_Fg0HVdf1fXO73ty7oapOe7kQOZap2lUo1HbyP7s5AT7-KB6XEJEG0aNsMWWTATWYKEc-hILSI5tSmicJbNgGIL_5rwpsBVGUdE3RiHlA0bjQwokS2SjLtz6d1eA-oeqJMrqdiDaO2jgz7FD78NrLObxyEItb_aTO0ToiXN5oIxR7SIAb3mTYnM0s6YuFKvXGH7I44MrCN1axKtnJyFQ8whJJZ72bJ3KyUh3Fbqkc_AGsXSyQ1e44PPkXKv1AHLgNvAK4UhTy6JRcUpDJ7-Lvd9tPHaNrFyMN9DgBfhfcMFEQddYGW7EQPLZ7tmpARBDEOq_WOqMWIxNL1CXidO7__m5Kuo2nFzqnd_3-aCAw",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFNXRmtiSGRhWTNGemVuZE5SbGxDVHpaZmQwMHphR2RxV1hveVUxUmlSMFZFYkVrNU1IVlNhbHBOVVY5RlkyRTBMVWw0Tm5oV2VVbExXa1JZVjNCcllXSTVUR0ZYTm1wMGIxaHBVVTVxU1RVNFgzSXlOMlJPVkdWelVSSVdaMDFUZG1GMlpsbENUSFZ6Y0hSUlVEaExiV05IUVJvaVFVUnpjamxtVWxwUmN5MUJTMFV6TFd0V2EyZzJhR3BNTnpGeVprcHhURTVxZHciLCJmY3YiOiIzIiwiZWkiOiJnTVN2YXZmWUJMdXNwdFFQOEttY0dBIiwicWMiOiJDalozYUdsamFDQndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmxjblFnWm05eUlHeGhibWQxWVdkbElIVnVaR1Z5YzNSaGJtUnBibWNRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IkNhbiBCRVJUIGJlIHVzZWQgZm9yIGxhbmd1YWdlIHRyYW5zbGF0aW9uPyIsImxrIjoiR2gxaVpYSjBJR1p2Y2lCc1lXNW5kV0ZuWlNCMGNtRnVjMnhoZEdsdmJnIiwiYnMiOiJjM1dPdlF2Q01CQkhjYzNrcU1HUEF6ZnBZaGJIZ0ItSWc0TkY2SHcyWjF1b0NTU3BfZmMxcVVVb09OMkRlengtN01MV2U5U3dPNlkzdUJNMGpoUThqSVVhZGRGZ1FlQXRhbGVqcjR5V1lzbm5kN0wtcjhGT2JKV1ZwS0ZGQjc2a3J2czBpbXFvdExkR05Ua3BLWUF2Mmw2THdhSENybXlUbFZWZTlwX2dlVTgyaWNrRVVoTXVKdkJaY3FESVVzdzRqN1dYQTJzQ1lVQkZFZG1XVGMtdVc0U185YkV2QmVlVDZydGwtQnlQM2ciLCJpZCI6ImZjX2dNU3ZhdmZZQkx1c3B0UVA4S21jR0FfMSJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iwWTHnicHZBhboIwGECzy_hTKAynJmaJgzJrwFHgK_bPUtsh2iJMmaj_dpedaqeZ2QHey8v7_jG7g_59OFdd156mltX3_XDbNFvzMZRNbYnT9SAtKYzZCKmno6cRei7lLPhazF8-F_Mkb1vwqZ0eYi8PEAJEytSJvBSMm-_VLrZpsCrwG0fVToatppg0MTKFtCtnBTha56YT9djjezVa-eBHmBdRUMEaVJXhyM3CyfXuKtcOtUUQd-kNLxkQoezokYXoCFhfRMHninUj6iSeYDECR6XS8IRlJlEhcqQm_M6TzKewCRWRmp6EhiUvwI3qhcPCSUIZvsArOaqCuCtMaFDJW8pstL63g7bvHfZV1pNE1ICyAlN-aXZJTm9yb-ocgZv5MeO68TYMHSXQhTLjXsAkjxwPJRkXvB-U8jxzB_8_Z-9l3U3bY7P9A2Tgf5Y",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuZG1jMUpMVUZOUVZHSklWMjE1ZDB0Tk1WWndMVFJ2U1VrMFkxVnpWbWs1WmtKamVrTkxUMk50WmxGVFFVVnlNVXhtYVRJNVpVb3pjMmgyWDFocE9XVTJWbEZXZW1ONGRqQlplalZ4VGtSS1lXNDFSM2wxU0VOMWR4SVhNMGx0TldGeFQxWk5OMHh0TW5KdlVHcGxkVTF4VVdjYUlrRkVjM0k1WmxKR2QxWlFaa2RDYVZKR2NFOWlNelJsUVV0Q1NUVjRTblIyYjBFIiwiZmN2IjoiMyIsImVpIjoiM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWciLCJxYyI6IkNqWjNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUdKbGNuUWdabTl5SUd4aGJtZDFZV2RsSUhWdVpHVnljM1JoYm1ScGJtY1FBSDA4VWhjXyIsInF1ZXN0aW9uIjoiQ2FuIEJFUlQgYmUgdXNlZCBmb3IgbGFuZ3VhZ2UgdHJhbnNsYXRpb24%2FIiwibGsiOiJHaDFpWlhKMElHWnZjaUJzWVc1bmRXRm5aU0IwY21GdWMyeGhkR2x2YmciLCJicyI6ImMzV1BQUXZDTUJSRmNjMGtpRXY4dXVEbW1FMGNBaFVwRGk0aU9LZm1tUVppQWtsS183NjJxQ0RxZXRfaDNYUFpnYTIyeXFQWUhVLW9DRTBpald1SWNNcWJSaGxDanNvbnA3SU5Yb29GbjFVVTgxLUNsV3g1cnNtalZRbTVKaFFkZlF1YUhLelBNZWptUWxvSzhIbjd3cXBmQ051d3lUNmhETUU0UXNyV3VZZWI5YVkzbFdMS3VVMHczLWZ1RzFzem5HdVZZWjhTM2JpM2JsOGx4WmlQLXViUGZEaTRBdyIsImlkIjoiZmNfM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWdfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFNXRmtiSGRhWTNGemVuZE5SbGxDVHpaZmQwMHphR2RxV1hveVUxUmlSMFZFYkVrNU1IVlNhbHBOVVY5RlkyRTBMVWw0Tm5oV2VVbExXa1JZVjNCcllXSTVUR0ZYTm1wMGIxaHBVVTVxU1RVNFgzSXlOMlJPVkdWelVSSVdaMDFUZG1GMlpsbENUSFZ6Y0hSUlVEaExiV05IUVJvaVFVUnpjamxtVWxwUmN5MUJTMFV6TFd0V2EyZzJhR3BNTnpGeVprcHhURTVxZHciLCJmY3YiOiIzIiwiZWkiOiJnTVN2YXZmWUJMdXNwdFFQOEttY0dBIiwicWMiOiJDalozYUdsamFDQndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmxjblFnWm05eUlHeGhibWQxWVdkbElIVnVaR1Z5YzNSaGJtUnBibWNRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IldoZW4gd2FzIHRoZSBCRVJUIG1vZGVsIGludHJvZHVjZWQ/IiwibGsiOiJHaDUzYUdWdUlIZGhjeUJpWlhKMElHMXZaR1ZzSUdsdWRISnZaSFZqWldRIiwiYnMiOiJjM1dPdlF2Q01CQkhjYzNrcU1HUEF6ZnBZaGJIZ0ItSWc0TkY2SHcyWjF1b0NTU3BfZmMxcVVVb09OMkRlengtN01MV2U5U3dPNlkzdUJNMGpoUThqSVVhZGRGZ1FlQXRhbGVqcjR5V1lzbm5kN0wtcjhGT2JKV1ZwS0ZGQjc2a3J2czBpbXFvdExkR05Ua3BLWUF2Mmw2THdhSENybXlUbFZWZTlwX2dlVTgyaWNrRVVoTXVKdkJaY3FESVVzdzRqN1dYQTJzQ1lVQkZFZG1XVGMtdVc0U185YkV2QmVlVDZydGwtQnlQM2ciLCJpZCI6ImZjX2dNU3ZhdmZZQkx1c3B0UVA4S21jR0FfMSJ9",
-    "page_token": "vG9hUHicHdBRboIwAIDh7DI-jhbERROzTKEJbNRQoJW-LLWCKC1tBpPJ2-6yU-00M7vAny__9486d-3vA2uGwfYrxxnH8fFkzElVj9JoR_S3TjpSKHUQsl0tnhbwuZbrsO83WzNu0sJaGhCQo2NAGSc0iPfZBW8rRIxkyzPbo1pqDvglZskNjlkox4qW_tt-0yQh2h463qQANztGdYXife5Zw90EFh1ZFEHkJZDvROgbquEnYbCWN1jijtMDiIdU0yiZSEYZIkz3EOfKlq2ai-luUXI6FPRMdOlTT5kScF-oBiQ51se8EdgdM6SPuPB4c9Scp-0XlN4GFPRlnrnwQkAoohaF0ot8rhDI9LJIphiVOcp5F7oix_beeWXKWg7xtXTlrJbXtTf7H7Z-r_Wwsh_m9AeS9Hec",
-    "question": "When was the BERT model introduced?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vG9hUHicHdBRboIwAIDh7DI-jhbERROzTKEJbNRQoJW-LLWCKC1tBpPJ2-6yU-00M7vAny__9486d-3vA2uGwfYrxxnH8fFkzElVj9JoR_S3TjpSKHUQsl0tnhbwuZbrsO83WzNu0sJaGhCQo2NAGSc0iPfZBW8rRIxkyzPbo1pqDvglZskNjlkox4qW_tt-0yQh2h463qQANztGdYXife5Zw90EFh1ZFEHkJZDvROgbquEnYbCWN1jijtMDiIdU0yiZSEYZIkz3EOfKlq2ai-luUXI6FPRMdOlTT5kScF-oBiQ51se8EdgdM6SPuPB4c9Scp-0XlN4GFPRlnrnwQkAoohaF0ot8rhDI9LJIphiVOcp5F7oix_beeWXKWg7xtXTlrJbXtTf7H7Z-r_Wwsh_m9AeS9Hec",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFNXRmtiSGRhWTNGemVuZE5SbGxDVHpaZmQwMHphR2RxV1hveVUxUmlSMFZFYkVrNU1IVlNhbHBOVVY5RlkyRTBMVWw0Tm5oV2VVbExXa1JZVjNCcllXSTVUR0ZYTm1wMGIxaHBVVTVxU1RVNFgzSXlOMlJPVkdWelVSSVdaMDFUZG1GMlpsbENUSFZ6Y0hSUlVEaExiV05IUVJvaVFVUnpjamxtVWxwUmN5MUJTMFV6TFd0V2EyZzJhR3BNTnpGeVprcHhURTVxZHciLCJmY3YiOiIzIiwiZWkiOiJnTVN2YXZmWUJMdXNwdFFQOEttY0dBIiwicWMiOiJDalozYUdsamFDQndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmxjblFnWm05eUlHeGhibWQxWVdkbElIVnVaR1Z5YzNSaGJtUnBibWNRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IldoZW4gd2FzIHRoZSBCRVJUIG1vZGVsIGludHJvZHVjZWQ%2FIiwibGsiOiJHaDUzYUdWdUlIZGhjeUJpWlhKMElHMXZaR1ZzSUdsdWRISnZaSFZqWldRIiwiYnMiOiJjM1dPdlF2Q01CQkhjYzNrcU1HUEF6ZnBZaGJIZ0ItSWc0TkY2SHcyWjF1b0NTU3BfZmMxcVVVb09OMkRlengtN01MV2U5U3dPNlkzdUJNMGpoUThqSVVhZGRGZ1FlQXRhbGVqcjR5V1lzbm5kN0wtcjhGT2JKV1ZwS0ZGQjc2a3J2czBpbXFvdExkR05Ua3BLWUF2Mmw2THdhSENybXlUbFZWZTlwX2dlVTgyaWNrRVVoTXVKdkJaY3FESVVzdzRqN1dYQTJzQ1lVQkZFZG1XVGMtdVc0U185YkV2QmVlVDZydGwtQnlQM2ciLCJpZCI6ImZjX2dNU3ZhdmZZQkx1c3B0UVA4S21jR0FfMSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuZG1jMUpMVUZOUVZHSklWMjE1ZDB0Tk1WWndMVFJ2U1VrMFkxVnpWbWs1WmtKamVrTkxUMk50WmxGVFFVVnlNVXhtYVRJNVpVb3pjMmgyWDFocE9XVTJWbEZXZW1ONGRqQlplalZ4VGtSS1lXNDFSM2wxU0VOMWR4SVhNMGx0TldGeFQxWk5OMHh0TW5KdlVHcGxkVTF4VVdjYUlrRkVjM0k1WmxKR2QxWlFaa2RDYVZKR2NFOWlNelJsUVV0Q1NUVjRTblIyYjBFIiwiZmN2IjoiMyIsImVpIjoiM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWciLCJxYyI6IkNqWjNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUdKbGNuUWdabTl5SUd4aGJtZDFZV2RsSUhWdVpHVnljM1JoYm1ScGJtY1FBSDA4VWhjXyIsInF1ZXN0aW9uIjoiV2hlbiB3YXMgdGhlIEJlcnQgbW9kZWwgaW50cm9kdWNlZD8iLCJsayI6IkdoNTNhR1Z1SUhkaGN5QmlaWEowSUcxdlpHVnNJR2x1ZEhKdlpIVmpaV1EiLCJicyI6ImMzV1BQUXZDTUJSRmNjMGtpRXY4dXVEbW1FMGNBaFVwRGk0aU9LZm1tUVppQWtsS183NjJxQ0RxZXRfaDNYUFpnYTIyeXFQWUhVLW9DRTBpald1SWNNcWJSaGxDanNvbnA3SU5Yb29GbjFVVTgxLUNsV3g1cnNtalZRbTVKaFFkZlF1YUhLelBNZWptUWxvSzhIbjd3cXBmQ051d3lUNmhETUU0UXNyV3VZZWI5YVkzbFdMS3VVMHczLWZ1RzFzem5HdVZZWjhTM2JpM2JsOGx4WmlQLXViUGZEaTRBdyIsImlkIjoiZmNfM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWdfNSJ9",
+    "page_token": "bUzl3HicHdBRboIwAADQ7DJ-DlBh08QsYVoJgbqWtlR-FigKCoU6CAX-dpedaqdZsneE9_1T35rq94mXfa-6rWForZ-Lti3qy7NopZF2UyMMkdZ1lopq67w41ttV7A6ddt9b7SKqFNtjM5JK5ZU9ixU8hQw4GSsbKAGnBBwEHQPiJU5ER3q-YwtVlhkwNgiPdcJqLSIBygkcBMNpZI527LUT3J-XfGl5IgY0OQITWyw5eeojpjaEHlB42Xc0MtdhZVdEvuq8gpqaaA7i9RjwnPGVP6UzfHBT6YssTUzQdKHqgbjvZMfcQ-wQgRn6GWGloJuYkDzMiD9llvtIOIOCgeZ4813swekUJxjFYMayGBmrZ1hvdHaHAZLhCBkezqQaQ47x4iqG3WrxP7b7vMp-q77a4g9uE3nH",
+    "question": "When was the Bert model introduced?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bUzl3HicHdBRboIwAADQ7DJ-DlBh08QsYVoJgbqWtlR-FigKCoU6CAX-dpedaqdZsneE9_1T35rq94mXfa-6rWForZ-Lti3qy7NopZF2UyMMkdZ1lopq67w41ttV7A6ddt9b7SKqFNtjM5JK5ZU9ixU8hQw4GSsbKAGnBBwEHQPiJU5ER3q-YwtVlhkwNgiPdcJqLSIBygkcBMNpZI527LUT3J-XfGl5IgY0OQITWyw5eeojpjaEHlB42Xc0MtdhZVdEvuq8gpqaaA7i9RjwnPGVP6UzfHBT6YssTUzQdKHqgbjvZMfcQ-wQgRn6GWGloJuYkDzMiD9llvtIOIOCgeZ4813swekUJxjFYMayGBmrZ1hvdHaHAZLhCBkezqQaQ47x4iqG3WrxP7b7vMp-q77a4g9uE3nH",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuZG1jMUpMVUZOUVZHSklWMjE1ZDB0Tk1WWndMVFJ2U1VrMFkxVnpWbWs1WmtKamVrTkxUMk50WmxGVFFVVnlNVXhtYVRJNVpVb3pjMmgyWDFocE9XVTJWbEZXZW1ONGRqQlplalZ4VGtSS1lXNDFSM2wxU0VOMWR4SVhNMGx0TldGeFQxWk5OMHh0TW5KdlVHcGxkVTF4VVdjYUlrRkVjM0k1WmxKR2QxWlFaa2RDYVZKR2NFOWlNelJsUVV0Q1NUVjRTblIyYjBFIiwiZmN2IjoiMyIsImVpIjoiM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWciLCJxYyI6IkNqWjNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUdKbGNuUWdabTl5SUd4aGJtZDFZV2RsSUhWdVpHVnljM1JoYm1ScGJtY1FBSDA4VWhjXyIsInF1ZXN0aW9uIjoiV2hlbiB3YXMgdGhlIEJlcnQgbW9kZWwgaW50cm9kdWNlZD8iLCJsayI6IkdoNTNhR1Z1SUhkaGN5QmlaWEowSUcxdlpHVnNJR2x1ZEhKdlpIVmpaV1EiLCJicyI6ImMzV1BQUXZDTUJSRmNjMGtpRXY4dXVEbW1FMGNBaFVwRGk0aU9LZm1tUVppQWtsS183NjJxQ0RxZXRfaDNYUFpnYTIyeXFQWUhVLW9DRTBpald1SWNNcWJSaGxDanNvbnA3SU5Yb29GbjFVVTgxLUNsV3g1cnNtalZRbTVKaFFkZlF1YUhLelBNZWptUWxvSzhIbjd3cXBmQ051d3lUNmhETUU0UXNyV3VZZWI5YVkzbFdMS3VVMHczLWZ1RzFzem5HdVZZWjhTM2JpM2JsOGx4WmlQLXViUGZEaTRBdyIsImlkIjoiZmNfM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWdfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFNXRmtiSGRhWTNGemVuZE5SbGxDVHpaZmQwMHphR2RxV1hveVUxUmlSMFZFYkVrNU1IVlNhbHBOVVY5RlkyRTBMVWw0Tm5oV2VVbExXa1JZVjNCcllXSTVUR0ZYTm1wMGIxaHBVVTVxU1RVNFgzSXlOMlJPVkdWelVSSVdaMDFUZG1GMlpsbENUSFZ6Y0hSUlVEaExiV05IUVJvaVFVUnpjamxtVWxwUmN5MUJTMFV6TFd0V2EyZzJhR3BNTnpGeVprcHhURTVxZHciLCJmY3YiOiIzIiwiZWkiOiJnTVN2YXZmWUJMdXNwdFFQOEttY0dBIiwicWMiOiJDalozYUdsamFDQndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmxjblFnWm05eUlHeGhibWQxWVdkbElIVnVaR1Z5YzNSaGJtUnBibWNRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IldoaWNoIG1vZGVsIGlzIGJldHRlciwgQkVSVCwgUm9CRVJUYSwgb3IgRGVCRVJUYT8iLCJsayI6ImM1T1NTa290S2xFb0sxWW95Z2V4RWtITWxGUXdFd0EiLCJicyI6ImMzV092UXZDTUJCSGNjM2txTUdQQXpmcFloYkhnQi1JZzRORjZIdzJaMXVvQ1NTcF9mYzFxVVVvT04yRGV6eC03TUxXZTlTd082WTN1Qk0wamhROGpJVWFkZEZnUWVBdGFsZWpyNHlXWXNubmQ3TC1yOEZPYkpXVnBLRkZCNzZrcnZzMGltcW90TGRHTlRrcEtZQXYybDZMd2FIQ3JteVRsVlZlOXBfZ2VVODJpY2tFVWhNdUp2QlpjcURJVXN3NGo3V1hBMnNDWVVCRkVkbVdUYy11VzRTXzliRXZCZWVUNnJ0bC1CeVAzZyIsImlkIjoiZmNfZ01TdmF2ZllCTHVzcHRRUDhLbWNHQV8xIn0=",
-    "page_token": "8r9BRXicHdBbcpswGEDh6WbyGHOJ08Qznk4JIo4K8iAj_UgvHZBiY5CwGogxfssOuoiuqqvpZQHn4Tsfv8yx735_-tmMoxtWi8U0TbeH0-lgXm_VyS6qYe7VQlXG1JXqVvef7_0ve7VGZxE9vakoZ87xmHo7TnICD96rncaUYRDB44Z0dz60pq03UhCDe-q7uC6iPe91WBfZpC02KWsktNSXV_wkkRZZgqvcNh0H6umjP9dB0qWQvEDM3xVDQd67nLXyWwrDqFFCYEMooOWPv80E6EKyUM8idCYtzLuMyaCgu3LWzNIavEvMJfeStrwSXtjDUoYGdLB8Jv5Xn1knt-xupvxlFiC8LORQWYdLT1-3sR5oos_KkkAjGaFG9gUngSilBYYzXZJJJ0m-ReMoPB09H3FEN2TegtwBXCLuP_gVe2yKEltS8H8uokJDtcFxWlB6s1fndXjz__T6-96OK_d2OvwBpI-MCA",
-    "question": "Which model is better, BERT, RoBERTa, or DeBERTa?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8r9BRXicHdBbcpswGEDh6WbyGHOJ08Qznk4JIo4K8iAj_UgvHZBiY5CwGogxfssOuoiuqqvpZQHn4Tsfv8yx735_-tmMoxtWi8U0TbeH0-lgXm_VyS6qYe7VQlXG1JXqVvef7_0ve7VGZxE9vakoZ87xmHo7TnICD96rncaUYRDB44Z0dz60pq03UhCDe-q7uC6iPe91WBfZpC02KWsktNSXV_wkkRZZgqvcNh0H6umjP9dB0qWQvEDM3xVDQd67nLXyWwrDqFFCYEMooOWPv80E6EKyUM8idCYtzLuMyaCgu3LWzNIavEvMJfeStrwSXtjDUoYGdLB8Jv5Xn1knt-xupvxlFiC8LORQWYdLT1-3sR5oos_KkkAjGaFG9gUngSilBYYzXZJJJ0m-ReMoPB09H3FEN2TegtwBXCLuP_gVe2yKEltS8H8uokJDtcFxWlB6s1fndXjz__T6-96OK_d2OvwBpI-MCA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFNXRmtiSGRhWTNGemVuZE5SbGxDVHpaZmQwMHphR2RxV1hveVUxUmlSMFZFYkVrNU1IVlNhbHBOVVY5RlkyRTBMVWw0Tm5oV2VVbExXa1JZVjNCcllXSTVUR0ZYTm1wMGIxaHBVVTVxU1RVNFgzSXlOMlJPVkdWelVSSVdaMDFUZG1GMlpsbENUSFZ6Y0hSUlVEaExiV05IUVJvaVFVUnpjamxtVWxwUmN5MUJTMFV6TFd0V2EyZzJhR3BNTnpGeVprcHhURTVxZHciLCJmY3YiOiIzIiwiZWkiOiJnTVN2YXZmWUJMdXNwdFFQOEttY0dBIiwicWMiOiJDalozYUdsamFDQndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmxjblFnWm05eUlHeGhibWQxWVdkbElIVnVaR1Z5YzNSaGJtUnBibWNRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IldoaWNoIG1vZGVsIGlzIGJldHRlciwgQkVSVCwgUm9CRVJUYSwgb3IgRGVCRVJUYT8iLCJsayI6ImM1T1NTa290S2xFb0sxWW95Z2V4RWtITWxGUXdFd0EiLCJicyI6ImMzV092UXZDTUJCSGNjM2txTUdQQXpmcFloYkhnQi1JZzRORjZIdzJaMXVvQ1NTcF9mYzFxVVVvT04yRGV6eC03TUxXZTlTd082WTN1Qk0wamhROGpJVWFkZEZnUWVBdGFsZWpyNHlXWXNubmQ3TC1yOEZPYkpXVnBLRkZCNzZrcnZzMGltcW90TGRHTlRrcEtZQXYybDZMd2FIQ3JteVRsVlZlOXBfZ2VVODJpY2tFVWhNdUp2QlpjcURJVXN3NGo3V1hBMnNDWVVCRkVkbVdUYy11VzRTXzliRXZCZWVUNnJ0bC1CeVAzZyIsImlkIjoiZmNfZ01TdmF2ZllCTHVzcHRRUDhLbWNHQV8xIn0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuZG1jMUpMVUZOUVZHSklWMjE1ZDB0Tk1WWndMVFJ2U1VrMFkxVnpWbWs1WmtKamVrTkxUMk50WmxGVFFVVnlNVXhtYVRJNVpVb3pjMmgyWDFocE9XVTJWbEZXZW1ONGRqQlplalZ4VGtSS1lXNDFSM2wxU0VOMWR4SVhNMGx0TldGeFQxWk5OMHh0TW5KdlVHcGxkVTF4VVdjYUlrRkVjM0k1WmxKR2QxWlFaa2RDYVZKR2NFOWlNelJsUVV0Q1NUVjRTblIyYjBFIiwiZmN2IjoiMyIsImVpIjoiM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWciLCJxYyI6IkNqWjNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUdKbGNuUWdabTl5SUd4aGJtZDFZV2RsSUhWdVpHVnljM1JoYm1ScGJtY1FBSDA4VWhjXyIsInF1ZXN0aW9uIjoiSXMgR29vZ2xlIHN0aWxsIHVzaW5nIEJFUlQ/IiwibGsiOiJHaHBwY3lCbmIyOW5iR1VnYzNScGJHd2dkWE5wYm1jZ1ltVnlkQSIsImJzIjoiYzNXUFBRdkNNQlJGY2Mwa2lFdjh1dURtbUUwY0FoVXBEaTRpT0tmbW1RWmlBa2xLXzc2MnFDRHFldF9oM1hQWmdhMjJ5cVBZSFUtb0NFMGlqV3VJY01xYlJobENqc29ucDdJTlhvb0ZuMVVVODEtQ2xXeDVyc21qVlFtNUpoUWRmUXVhSEt6UE1lam1RbG9LOEhuN3dxcGZDTnV3eVQ2aERNRTRRc3JXdVllYjlhWTNsV0xLdVUwdzMtZnVHMXN6bkd1VllaOFMzYmkzYmw4bHhaaVAtdWJQZkRpNEF3IiwiaWQiOiJmY18zSW01YXFPVk03TG0ycm9QamV1TXFRZ181In0=",
+    "page_token": "8Lbhm3icHdBRboIwGADg7DI-qgVkamKWMCiMSRml_UFeFlqmKFS6SQR92112qp1myb4jfN8_7fHc_D7kdd_ry3o2G4Zheui6Q_sxlZ2alZfbWc5k2bailM3afrTR015uvMvgPHeDk3CtwaXzFFVxxatdqmpfclSSPLRJ0xPZ6Ezmu4EEjsFVnWw5zuEOeaRWloA6FhmlnNMrQzqPTHglZthCoG9JA2_CpZrNKzs18SnyhgV3i5T6izEDrcCwUGp4vWyrsgBiEIa3JY6shK-YVIUpfKBynowRrpu0XRqlV6DC0EPMX1DptdsdyBTfSSgY1JKvMsaqSLDwJpDzWeRAJOCzfwwdGpBbnBUsC6iZqHFMTlgJ7ABh4cgZaIaWFrhez7PRnOzldWNO_sc273vVr_VXd_gD0R53jQ",
+    "question": "Is Google still using BERT?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8Lbhm3icHdBRboIwGADg7DI-qgVkamKWMCiMSRml_UFeFlqmKFS6SQR92112qp1myb4jfN8_7fHc_D7kdd_ry3o2G4Zheui6Q_sxlZ2alZfbWc5k2bailM3afrTR015uvMvgPHeDk3CtwaXzFFVxxatdqmpfclSSPLRJ0xPZ6Ezmu4EEjsFVnWw5zuEOeaRWloA6FhmlnNMrQzqPTHglZthCoG9JA2_CpZrNKzs18SnyhgV3i5T6izEDrcCwUGp4vWyrsgBiEIa3JY6shK-YVIUpfKBynowRrpu0XRqlV6DC0EPMX1DptdsdyBTfSSgY1JKvMsaqSLDwJpDzWeRAJOCzfwwdGpBbnBUsC6iZqHFMTlgJ7ABh4cgZaIaWFrhez7PRnOzldWNO_sc273vVr_VXd_gD0R53jQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuZG1jMUpMVUZOUVZHSklWMjE1ZDB0Tk1WWndMVFJ2U1VrMFkxVnpWbWs1WmtKamVrTkxUMk50WmxGVFFVVnlNVXhtYVRJNVpVb3pjMmgyWDFocE9XVTJWbEZXZW1ONGRqQlplalZ4VGtSS1lXNDFSM2wxU0VOMWR4SVhNMGx0TldGeFQxWk5OMHh0TW5KdlVHcGxkVTF4VVdjYUlrRkVjM0k1WmxKR2QxWlFaa2RDYVZKR2NFOWlNelJsUVV0Q1NUVjRTblIyYjBFIiwiZmN2IjoiMyIsImVpIjoiM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWciLCJxYyI6IkNqWjNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUdKbGNuUWdabTl5SUd4aGJtZDFZV2RsSUhWdVpHVnljM1JoYm1ScGJtY1FBSDA4VWhjXyIsInF1ZXN0aW9uIjoiSXMgR29vZ2xlIHN0aWxsIHVzaW5nIEJFUlQ%2FIiwibGsiOiJHaHBwY3lCbmIyOW5iR1VnYzNScGJHd2dkWE5wYm1jZ1ltVnlkQSIsImJzIjoiYzNXUFBRdkNNQlJGY2Mwa2lFdjh1dURtbUUwY0FoVXBEaTRpT0tmbW1RWmlBa2xLXzc2MnFDRHFldF9oM1hQWmdhMjJ5cVBZSFUtb0NFMGlqV3VJY01xYlJobENqc29ucDdJTlhvb0ZuMVVVODEtQ2xXeDVyc21qVlFtNUpoUWRmUXVhSEt6UE1lam1RbG9LOEhuN3dxcGZDTnV3eVQ2aERNRTRRc3JXdVllYjlhWTNsV0xLdVUwdzMtZnVHMXN6bkd1VllaOFMzYmkzYmw4bHhaaVAtdWJQZkRpNEF3IiwiaWQiOiJmY18zSW01YXFPVk03TG0ycm9QamV1TXFRZ181In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFNXRmtiSGRhWTNGemVuZE5SbGxDVHpaZmQwMHphR2RxV1hveVUxUmlSMFZFYkVrNU1IVlNhbHBOVVY5RlkyRTBMVWw0Tm5oV2VVbExXa1JZVjNCcllXSTVUR0ZYTm1wMGIxaHBVVTVxU1RVNFgzSXlOMlJPVkdWelVSSVdaMDFUZG1GMlpsbENUSFZ6Y0hSUlVEaExiV05IUVJvaVFVUnpjamxtVWxwUmN5MUJTMFV6TFd0V2EyZzJhR3BNTnpGeVprcHhURTVxZHciLCJmY3YiOiIzIiwiZWkiOiJnTVN2YXZmWUJMdXNwdFFQOEttY0dBIiwicWMiOiJDalozYUdsamFDQndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmxjblFnWm05eUlHeGhibWQxWVdkbElIVnVaR1Z5YzNSaGJtUnBibWNRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IklzIEJFUlQgYSBsYW5ndWFnZSBtb2RlbD8iLCJsayI6IkdoaHBjeUJpWlhKMElHRWdiR0Z1WjNWaFoyVWdiVzlrWld3IiwiYnMiOiJjM1dPdlF2Q01CQkhjYzNrcU1HUEF6ZnBZaGJIZ0ItSWc0TkY2SHcyWjF1b0NTU3BfZmMxcVVVb09OMkRlengtN01MV2U5U3dPNlkzdUJNMGpoUThqSVVhZGRGZ1FlQXRhbGVqcjR5V1lzbm5kN0wtcjhGT2JKV1ZwS0ZGQjc2a3J2czBpbXFvdExkR05Ua3BLWUF2Mmw2THdhSENybXlUbFZWZTlwX2dlVTgyaWNrRVVoTXVKdkJaY3FESVVzdzRqN1dYQTJzQ1lVQkZFZG1XVGMtdVc0U185YkV2QmVlVDZydGwtQnlQM2ciLCJpZCI6ImZjX2dNU3ZhdmZZQkx1c3B0UVA4S21jR0FfMSJ9",
-    "page_token": "ucs8BXicHdBbboJAAEDRdDN-Cgxoq4lppDJEE0DmhfDT4PCy84CKFfSve-mqupqaLuAmJ_f7R560-H1Kmsul65eGMQzDtG7bWpZT3ioj72-aGzyX8phzsZw_z63Xiq-8vnff2sGNadexDTKxkoCILsIMgcR_AQwyFNNFH2sXBzKMqEhnEWtvuRod7DeE084hd5iWNLzGwhtLCXfpnd-5tdg8moomkBDSnNKEmvGhHUoCcaF2TiDpLaJbi9Osp0mxL_TaRmYNAoV8CtiQQ0aQCD0EUYQ1y5AuzjksGnLowNFnOtTSSWljEUIxVEVI7awpVJbFYrS47ZqUrR0MrA9kevlWQI_b21kmwx6b4ydJwn1sN18IZFfuzW6BVz9suz40UVZCb1Lx68qe_A9bvVfqsuzObf0HMe53-w",
-    "question": "Is BERT a language model?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ucs8BXicHdBbboJAAEDRdDN-Cgxoq4lppDJEE0DmhfDT4PCy84CKFfSve-mqupqaLuAmJ_f7R560-H1Kmsul65eGMQzDtG7bWpZT3ioj72-aGzyX8phzsZw_z63Xiq-8vnff2sGNadexDTKxkoCILsIMgcR_AQwyFNNFH2sXBzKMqEhnEWtvuRod7DeE084hd5iWNLzGwhtLCXfpnd-5tdg8moomkBDSnNKEmvGhHUoCcaF2TiDpLaJbi9Osp0mxL_TaRmYNAoV8CtiQQ0aQCD0EUYQ1y5AuzjksGnLowNFnOtTSSWljEUIxVEVI7awpVJbFYrS47ZqUrR0MrA9kevlWQI_b21kmwx6b4ydJwn1sN18IZFfuzW6BVz9suz40UVZCb1Lx68qe_A9bvVfqsuzObf0HMe53-w",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFNXRmtiSGRhWTNGemVuZE5SbGxDVHpaZmQwMHphR2RxV1hveVUxUmlSMFZFYkVrNU1IVlNhbHBOVVY5RlkyRTBMVWw0Tm5oV2VVbExXa1JZVjNCcllXSTVUR0ZYTm1wMGIxaHBVVTVxU1RVNFgzSXlOMlJPVkdWelVSSVdaMDFUZG1GMlpsbENUSFZ6Y0hSUlVEaExiV05IUVJvaVFVUnpjamxtVWxwUmN5MUJTMFV6TFd0V2EyZzJhR3BNTnpGeVprcHhURTVxZHciLCJmY3YiOiIzIiwiZWkiOiJnTVN2YXZmWUJMdXNwdFFQOEttY0dBIiwicWMiOiJDalozYUdsamFDQndZWEJsY2lCcGJuUnliMlIxWTJWa0lHSmxjblFnWm05eUlHeGhibWQxWVdkbElIVnVaR1Z5YzNSaGJtUnBibWNRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IklzIEJFUlQgYSBsYW5ndWFnZSBtb2RlbD8iLCJsayI6IkdoaHBjeUJpWlhKMElHRWdiR0Z1WjNWaFoyVWdiVzlrWld3IiwiYnMiOiJjM1dPdlF2Q01CQkhjYzNrcU1HUEF6ZnBZaGJIZ0ItSWc0TkY2SHcyWjF1b0NTU3BfZmMxcVVVb09OMkRlengtN01MV2U5U3dPNlkzdUJNMGpoUThqSVVhZGRGZ1FlQXRhbGVqcjR5V1lzbm5kN0wtcjhGT2JKV1ZwS0ZGQjc2a3J2czBpbXFvdExkR05Ua3BLWUF2Mmw2THdhSENybXlUbFZWZTlwX2dlVTgyaWNrRVVoTXVKdkJaY3FESVVzdzRqN1dYQTJzQ1lVQkZFZG1XVGMtdVc0U185YkV2QmVlVDZydGwtQnlQM2ciLCJpZCI6ImZjX2dNU3ZhdmZZQkx1c3B0UVA4S21jR0FfMSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuZG1jMUpMVUZOUVZHSklWMjE1ZDB0Tk1WWndMVFJ2U1VrMFkxVnpWbWs1WmtKamVrTkxUMk50WmxGVFFVVnlNVXhtYVRJNVpVb3pjMmgyWDFocE9XVTJWbEZXZW1ONGRqQlplalZ4VGtSS1lXNDFSM2wxU0VOMWR4SVhNMGx0TldGeFQxWk5OMHh0TW5KdlVHcGxkVTF4VVdjYUlrRkVjM0k1WmxKR2QxWlFaa2RDYVZKR2NFOWlNelJsUVV0Q1NUVjRTblIyYjBFIiwiZmN2IjoiMyIsImVpIjoiM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWciLCJxYyI6IkNqWjNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUdKbGNuUWdabTl5SUd4aGJtZDFZV2RsSUhWdVpHVnljM1JoYm1ScGJtY1FBSDA4VWhjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgQkVSVCBsYW5ndWFnZSBtb2RlbD8iLCJsayI6IkdoTmlaWEowSUd4aGJtZDFZV2RsSUcxdlpHVnMiLCJicyI6ImMzV1BQUXZDTUJSRmNjMGtpRXY4dXVEbW1FMGNBaFVwRGk0aU9LZm1tUVppQWtsS183NjJxQ0RxZXRfaDNYUFpnYTIyeXFQWUhVLW9DRTBpald1SWNNcWJSaGxDanNvbnA3SU5Yb29GbjFVVTgxLUNsV3g1cnNtalZRbTVKaFFkZlF1YUhLelBNZWptUWxvSzhIbjd3cXBmQ051d3lUNmhETUU0UXNyV3VZZWI5YVkzbFdMS3VVMHczLWZ1RzFzem5HdVZZWjhTM2JpM2JsOGx4WmlQLXViUGZEaTRBdyIsImlkIjoiZmNfM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWdfNSJ9",
+    "page_token": "5ITunnicHdBbboJAFADQdDN-ykusmpimqKMlZQjzuIz8NDCIKMOjMiniX_fSVXU1TXqWcL5_1KWpfp9EqXXXrwxjGIbpuW3P6jSVbW2k_dhIQ6ZKZamsVvPnufVSyPWuH7xNO3gR7zrYEpMKBdluMQrbnSW87INrdQ_3pklRrmIobS7ILXOgCvb4QLbByCqf5ZCbKeCR2gvNKs15rB-B86qTWmpadym-IvzOyiMo7hLLKyjyfIzyC3kc70mTX5lQDjGPFnaQfbpYHYg8JFV5iGoLEVNHIbUszJM2ED4L9r0TCu5i5rGohhCaN4oe2M8YlJIvY8byIGP-mFneZyIAS0DN_uJ75IDHME54coAbjcHm190sZiSMnG6DoXMJUrcTWm4pKG9SyK-1M_kfW38UtV51t_b8BzEsd9s",
+    "question": "What is the BERT language model?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5ITunnicHdBbboJAFADQdDN-ykusmpimqKMlZQjzuIz8NDCIKMOjMiniX_fSVXU1TXqWcL5_1KWpfp9EqXXXrwxjGIbpuW3P6jSVbW2k_dhIQ6ZKZamsVvPnufVSyPWuH7xNO3gR7zrYEpMKBdluMQrbnSW87INrdQ_3pklRrmIobS7ILXOgCvb4QLbByCqf5ZCbKeCR2gvNKs15rB-B86qTWmpadym-IvzOyiMo7hLLKyjyfIzyC3kc70mTX5lQDjGPFnaQfbpYHYg8JFV5iGoLEVNHIbUszJM2ED4L9r0TCu5i5rGohhCaN4oe2M8YlJIvY8byIGP-mFneZyIAS0DN_uJ75IDHME54coAbjcHm190sZiSMnG6DoXMJUrcTWm4pKG9SyK-1M_kfW38UtV51t_b8BzEsd9s",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuZG1jMUpMVUZOUVZHSklWMjE1ZDB0Tk1WWndMVFJ2U1VrMFkxVnpWbWs1WmtKamVrTkxUMk50WmxGVFFVVnlNVXhtYVRJNVpVb3pjMmgyWDFocE9XVTJWbEZXZW1ONGRqQlplalZ4VGtSS1lXNDFSM2wxU0VOMWR4SVhNMGx0TldGeFQxWk5OMHh0TW5KdlVHcGxkVTF4VVdjYUlrRkVjM0k1WmxKR2QxWlFaa2RDYVZKR2NFOWlNelJsUVV0Q1NUVjRTblIyYjBFIiwiZmN2IjoiMyIsImVpIjoiM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWciLCJxYyI6IkNqWjNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUdKbGNuUWdabTl5SUd4aGJtZDFZV2RsSUhWdVpHVnljM1JoYm1ScGJtY1FBSDA4VWhjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgQkVSVCBsYW5ndWFnZSBtb2RlbD8iLCJsayI6IkdoTmlaWEowSUd4aGJtZDFZV2RsSUcxdlpHVnMiLCJicyI6ImMzV1BQUXZDTUJSRmNjMGtpRXY4dXVEbW1FMGNBaFVwRGk0aU9LZm1tUVppQWtsS183NjJxQ0RxZXRfaDNYUFpnYTIyeXFQWUhVLW9DRTBpald1SWNNcWJSaGxDanNvbnA3SU5Yb29GbjFVVTgxLUNsV3g1cnNtalZRbTVKaFFkZlF1YUhLelBNZWptUWxvSzhIbjd3cXBmQ051d3lUNmhETUU0UXNyV3VZZWI5YVkzbFdMS3VVMHczLWZ1RzFzem5HdVZZWjhTM2JpM2JsOGx4WmlQLXViUGZEaTRBdyIsImlkIjoiZmNfM0ltNWFxT1ZNN0xtMnJvUGpldU1xUWdfNSJ9",
     "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+paper+introduced+bert+for+language+understanding+pdf&sa=X&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ1QJ6BAg_EAE",
-    "query": "Which paper introduced bert for language understanding pdf",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+bert+for+language+understanding+pdf"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=BERT+pre+training+of+deep+bidirectional+Transformers+for+language+understanding&sa=X&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ1QJ6BAhGEAE",
-    "query": "BERT pre training of deep bidirectional Transformers for language understanding",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BERT+pre+training+of+deep+bidirectional+Transformers+for+language+understanding"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=BERT+paper&sa=X&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ1QJ6BAhFEAE",
-    "query": "BERT paper",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BERT+paper"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=BERT+Google+Scholar&sa=X&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ1QJ6BAhEEAE",
-    "query": "BERT Google Scholar",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BERT+Google+Scholar"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=RoBERTa:+a+Robustly+optimized+BERT+pretraining+Approach&sa=X&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ1QJ6BAhCEAE",
-    "query": "RoBERTa: a Robustly optimized BERT pretraining Approach",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=RoBERTa%3A+a+Robustly+optimized+BERT+pretraining+Approach"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=BERT+architecture&sa=X&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ1QJ6BAhBEAE",
-    "query": "BERT architecture",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BERT+architecture"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=BERT+pre+training+of+deep+Bidirectional+Transformers+for+language+Understanding+citation&sa=X&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ1QJ6BAhDEAE",
-    "query": "BERT pre training of deep Bidirectional Transformers for language Understanding citation",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BERT+pre+training+of+deep+Bidirectional+Transformers+for+language+Understanding+citation"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=BERT+github&sa=X&ved=2ahUKEwj3mO2AiP2WAxU7lokEHfAUBwMQ1QJ6BAhAEAE",
-    "query": "BERT github",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BERT+github"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Which paper introduced BERT for language understanding?",
-   "time_taken_displayed": 0.18,
-   "total_results": 131
+   "time_taken_displayed": 0.2,
+   "total_results": 107000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:33:20 UTC",
+   "created_at": "2026-09-27 21:25:48 UTC",
    "google_url": "https://www.google.com/search?q=Which+paper+introduced+BERT+for+language+understanding%3F&oq=Which+paper+introduced+BERT+for+language+understanding%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc480a3ce84b5158096b5",
-   "json_endpoint": "https://serpapi.com/searches/AQWWvl7ch6s-tQQwqJ9oNTuip4rjqNE4MgwzY13ssp0/6aafc480a3ce84b5158096b5.json",
-   "markdown_endpoint": "https://serpapi.com/searches/AQWWvl7ch6s-tQQwqJ9oNTuip4rjqNE4MgwzY13ssp0/6aafc480a3ce84b5158096b5.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/AQWWvl7ch6s-tQQwqJ9oNTuip4rjqNE4MgwzY13ssp0/6aafc480a3ce84b5158096b5.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:33:20 UTC",
-   "raw_html_file": "https://serpapi.com/searches/AQWWvl7ch6s-tQQwqJ9oNTuip4rjqNE4MgwzY13ssp0/6aafc480a3ce84b5158096b5.html",
+   "id": "6ab989dc0e4be0b8404ae836",
+   "json_endpoint": "https://serpapi.com/searches/rl8ZyIs-wKYb6AzypKRR0ePVKYLrW-Tcr5A9cGXr8xc/6ab989dc0e4be0b8404ae836.json",
+   "markdown_endpoint": "https://serpapi.com/searches/rl8ZyIs-wKYb6AzypKRR0ePVKYLrW-Tcr5A9cGXr8xc/6ab989dc0e4be0b8404ae836.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/rl8ZyIs-wKYb6AzypKRR0ePVKYLrW-Tcr5A9cGXr8xc/6ab989dc0e4be0b8404ae836.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:25:48 UTC",
+   "raw_html_file": "https://serpapi.com/searches/rl8ZyIs-wKYb6AzypKRR0ePVKYLrW-Tcr5A9cGXr8xc/6ab989dc0e4be0b8404ae836.html",
    "status": "Success",
-   "total_time_taken": 0.36
+   "total_time_taken": 1.24
   },
   "search_parameters": {
    "device": "desktop",
@@ -453,15 +338,9 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=80"
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+BERT+for+language+understanding%3F&start=30"
    }
   }
  },

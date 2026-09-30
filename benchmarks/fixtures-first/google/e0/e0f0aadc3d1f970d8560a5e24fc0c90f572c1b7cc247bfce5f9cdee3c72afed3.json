@@ -1,0 +1,544 @@
+{
+ "elapsed_ms": 1204.666,
+ "engine": "google",
+ "fetched_at": "2026-09-20T12:07:26.838823+00:00",
+ "frugal_cache_version": 1,
+ "key": "e0f0aadc3d1f970d8560a5e24fc0c90f572c1b7cc247bfce5f9cdee3c72afed3",
+ "params": {
+  "num": 10,
+  "q": "time complexity binary search"
+ },
+ "response": {
+  "ai_overview": {
+   "references": [
+    {
+     "index": 0,
+     "link": "https://www.youtube.com/watch?v=hA8xu9vVZN4",
+     "source": "youtube.com"
+    },
+    {
+     "index": 1,
+     "link": "https://programiz.pro/resources/dsa-binary-search-complexity/",
+     "source": "programiz.pro"
+    },
+    {
+     "index": 2,
+     "link": "https://en.wikipedia.org/wiki/Binary_search",
+     "source": "en.wikipedia.org"
+    },
+    {
+     "index": 3,
+     "link": "https://www.youtube.com/watch?v=4i-arU_6kmA",
+     "source": "youtube.com"
+    },
+    {
+     "index": 4,
+     "link": "https://www.youtube.com/watch?v=AUtyHzRm1-M",
+     "source": "youtube.com"
+    },
+    {
+     "index": 5,
+     "link": "https://www.codecademy.com/resources/docs/general/algorithm/binary-search",
+     "source": "codecademy.com"
+    },
+    {
+     "index": 6,
+     "link": "https://www.scaler.com/topics/time-complexity-of-binary-search/",
+     "source": "scaler.com"
+    },
+    {
+     "index": 7,
+     "link": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/",
+     "source": "freecodecamp.org"
+    },
+    {
+     "index": 8,
+     "link": "https://www.youtube.com/watch?v=a4HLFXi9ARw",
+     "source": "youtube.com"
+    },
+    {
+     "index": 9,
+     "link": "https://stackoverflow.com/questions/8185079/how-to-calculate-binary-search-complexity",
+     "source": "stackoverflow.com"
+    },
+    {
+     "index": 10,
+     "link": "https://www.geeksforgeeks.org/dsa/complexity-analysis-of-binary-search/",
+     "source": "geeksforgeeks.org"
+    },
+    {
+     "index": 11,
+     "link": "https://uncodemy.com/blog/time-complexity-of-binary-search-algorithm",
+     "source": "uncodemy.com"
+    }
+   ],
+   "text_blocks": [
+    {
+     "snippet": "The time complexity of a binary search algorithm is $O(\\log n)$, and O(1) in the best case.",
+     "snippet_highlighted_words": [
+      "O(1) in the best case"
+     ],
+     "snippet_latex": [
+      "O(\\log n)"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "Here is a quick breakdown of how it performs depending on the scenario:",
+     "type": "paragraph"
+    },
+    {
+     "snippet": "📊 Time Complexity Overview",
+     "type": "heading"
+    },
+    {
+     "detailed": [
+      [
+       {
+        "snippet": "Case"
+       },
+       {
+        "snippet": "Time Complexity"
+       },
+       {
+        "snippet": "When it happens"
+       }
+      ],
+      [
+       {
+        "snippet": "Best Case"
+       },
+       {
+        "snippet": "O(1)"
+       },
+       {
+        "snippet": "The target element is located exactly at the middle index of the array on the very first check."
+       }
+      ],
+      [
+       {
+        "snippet": "Worst Case"
+       },
+       {
+        "snippet": "$O(\\log n)$",
+        "snippet_latex": [
+         "O(\\log n)"
+        ]
+       },
+       {
+        "snippet": "The target element is either at the far ends of the array, or it is not present in the array at all."
+       }
+      ],
+      [
+       {
+        "snippet": "Average Case"
+       },
+       {
+        "snippet": "$O(\\log n)$",
+        "snippet_latex": [
+         "O(\\log n)"
+        ]
+       },
+       {
+        "snippet": "The target element is found anywhere else during the halving process."
+       }
+      ]
+     ],
+     "formatted": [
+      {
+       "case": "Best Case",
+       "time_complexity": "O(1)",
+       "when_it_happens": "The target element is located exactly at the middle index of the array on the very first check."
+      },
+      {
+       "case": "Worst Case",
+       "time_complexity": "$O(\\log n)$",
+       "when_it_happens": "The target element is either at the far ends of the array, or it is not present in the array at all."
+      },
+      {
+       "case": "Average Case",
+       "time_complexity": "$O(\\log n)$",
+       "when_it_happens": "The target element is found anywhere else during the halving process."
+      }
+     ],
+     "table": [
+      [
+       "Case",
+       "Time Complexity",
+       "When it happens"
+      ],
+      [
+       "Best Case",
+       "O(1)",
+       "The target element is located exactly at the middle index of the array on the very first check."
+      ],
+      [
+       "Worst Case",
+       "$O(\\log n)$",
+       "The target element is either at the far ends of the array, or it is not present in the array at all."
+      ],
+      [
+       "Average Case",
+       "$O(\\log n)$",
+       "The target element is found anywhere else during the halving process."
+      ]
+     ],
+     "type": "table"
+    },
+    {
+     "snippet": "🔍 Why is it $O(\\log n)$?",
+     "snippet_latex": [
+      "O(\\log n)"
+     ],
+     "type": "heading"
+    },
+    {
+     "snippet": "The binary search algorithm uses a divide-and-conquer approach. Instead of checking elements one by one (like a linear search), it requires the array to be sorted and repeatedly splits the search area in half:",
+     "type": "paragraph"
+    },
+    {
+     "list": [
+      {
+       "snippet": "You start with n elements."
+      },
+      {
+       "snippet": "After 1 step, you eliminate half the data, leaving $\\frac{n}{2}$ elements.",
+       "snippet_latex": [
+        "\\frac{n}{2}"
+       ]
+      },
+      {
+       "snippet": "After 2 steps, you have $\\frac{n}{4}$ (or $\\frac{n}{2^{2}}$) elements.",
+       "snippet_latex": [
+        "\\frac{n}{4}",
+        "\\frac{n}{2^{2}}"
+       ]
+      },
+      {
+       "snippet": "After k steps, you have $\\frac{n}{2^{k}}$ elements.",
+       "snippet_latex": [
+        "\\frac{n}{2^{k}}"
+       ]
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "The search terminates in the worst-case scenario when the search space is reduced to just 1 element ( $\\frac{n}{2^k} = 1$).",
+     "snippet_latex": [
+      "\\frac{n}{2^k} = 1"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "If you solve for k (the number of steps):\n$n=2^{k}$\n$\\log _{2}(n)=k$",
+     "snippet_latex": [
+      "n=2^{k}",
+      "\\log _{2}(n)=k"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "Because big-O notation drops constant bases, this simplifies directly to $O(\\log n)$.",
+     "snippet_latex": [
+      "O(\\log n)"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "💡 Real-World Scale",
+     "type": "heading"
+    },
+    {
+     "snippet": "To understand how fast logarithmic time is, look at how many comparisons it takes to find an item as the dataset grows:",
+     "type": "paragraph"
+    }
+   ]
+  },
+  "organic_results": [
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "PHP Insights rates the four areas. A Complexity rating of 94 means 94% out of 100%, not a CC of 94. also helpful for putting in CI pipeline ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/PHP/comments/11tlvrv/how_much_do_you_care_about_cyclomatic_complexity/"
+     }
+    },
+    "date": "Mar 17, 2023",
+    "displayed_link": "https://www.reddit.com › PHP › comments › how_muc...",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/PHP/comments/11tlvrv/how_much_do_you_care_about_cyclomatic_complexity/",
+    "position": 1,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFYJMZNdUsD0Z4CUhPj-9ssJXfl0_aURQ3IIdVf8mrOW2kAqeR0kaZjABhat1uuBJb6W6yC_s324yaEdDcDNlGVdz3Ht_WQEbuuZUW9YC2kzjPB9lrnqmC6FoTZpU_0eMMWszQJBSRJ37ioiDBzTYxgsNQX_3ENtl4mmQ5DJFJG9itoc4xVhhf5VoILLs_f-XX2rV&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQFnoECDIQAQ&uoh=1",
+    "snippet": "I'm working on a Laravel project where I'm using PHP Insights to keep code quality in check. I mainly use it for the Code, Architecture and Style insights, ...",
+    "source": "Reddit",
+    "title": "How much do you care about cyclomatic complexity when ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "One SURE Way to Earn COMPLEXITY on a DBQ/LEQ. TWO Steps to a Perfect LEQ Score. Evidence Beyond the Documents (DBQ)—Your Students Will Get it ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=yBDbRnbiD24"
+     }
+    },
+    "date": "Apr 19, 2023",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=yBDbRnbiD24",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVwfcljCVVRp_sg8n5b2bDTKPyLioa4C6vN2i3_aRdKK8GPXXUDVGmhxNOps2aQmnq3BlWPgcD50LGNF-Ej3VBbfkyLfCz64fMAodXCmXiu2WCzOY8ARnzSCekxYjIHw&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQFnoECDAQAQ&uoh=1",
+    "snippet": "One SURE Way to Earn COMPLEXITY on a DBQ/LEQ. TWO Steps to a Perfect LEQ Score. Evidence Beyond the Documents (DBQ)—Your Students Will Get it ...",
+    "snippet_highlighted_words": [
+     "COMPLEXITY"
+    ],
+    "source": "YouTube",
+    "title": "One SURE Way to Earn COMPLEXITY on a DBQ/LEQ"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Kolmogorov Complexity is loosely the shortest computer program that outputs a given string. We'll use this to define a notation of being ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=baf_iPT7lqI&vl=en"
+     }
+    },
+    "date": "Feb 9, 2025",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=baf_iPT7lqI&vl=en",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVct9CV-KDB7po73gL5uNC3iBGDK07b7Iw4WzW9gZrVMrFI1ZINoe9YoZttAS6DbklaliSR8TNLa9pNmGClJ-Q9vRaMOLzvDQLTqxzR9CaUaxaqSeYGETMH-xP0QvPaAXxJPWDwA&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQFnoECCcQAQ&uoh=1",
+    "snippet": "Kolmogorov Complexity is loosely the shortest computer program that outputs a given string. We'll use this to define a notation of being ...",
+    "snippet_highlighted_words": [
+     "Kolmogorov Complexity"
+    ],
+    "source": "YouTube",
+    "title": "Intro to Kolmogorov Complexity"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "How to Earn COMPLEXITY for DBQ & LEQ - YouTube. Learn more @heimlershistory Subscribe",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/shorts/IGv8p2bg-Co"
+     }
+    },
+    "date": "Feb 6, 2022",
+    "displayed_link": "https://www.youtube.com › shorts",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/shorts/IGv8p2bg-Co",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVwWh9KyOXjGFTQoayGBETKMCK2yHH-uk2jz4dE5eelHL2rRTt5Lr0bxl5IcKQGXw0zMqpylsDPewMKBXdu07RLiGAj0Vq-wGimFvkTnlNjxe4BYk-bi4ljJpbAVx0&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQFnoECCkQAQ&uoh=1",
+    "snippet": "How to Earn COMPLEXITY for DBQ & LEQ - YouTube. Learn more @heimlershistory Subscribe",
+    "snippet_highlighted_words": [
+     "How to Earn COMPLEXITY for DBQ & LEQ"
+    ],
+    "source": "YouTube",
+    "title": "How to Earn COMPLEXITY for DBQ & LEQ"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "FI President David Krakauer sectioning the concept of complexity and exploring complexity epistemology and emergence. Complex systems in ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=FBkFu1g5PlE"
+     }
+    },
+    "date": "Feb 5, 2023",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=FBkFu1g5PlE",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVrcOSfkwgW435jTjf9A02PEDQR_gHKBlTPI6Qx96Md74xqgy2KP1i5ATt6IXYEaM8Sa5DCXXflSQZ9eTsQsnUPCDpQUsCpudQCIjg3qK7Ys9_I3Ya08LKzjIxfWKfRw&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQFnoECCoQAQ&uoh=1",
+    "snippet": "FI President David Krakauer sectioning the concept of complexity and exploring complexity epistemology and emergence. Complex systems in ...",
+    "snippet_highlighted_words": [
+     "complexity",
+     "complexity"
+    ],
+    "source": "YouTube",
+    "title": "David Krakauer - Complexity Explorer Lecture"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Ever wonder what a first therapy session using the complexity approach actually looks like?! Watch as I break down exactly how I introduced ...",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=GWFYymdbyOM"
+     }
+    },
+    "date": "Feb 22, 2026",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=GWFYymdbyOM",
+    "position": 6,
+    "read_more_link": "https://www.youtube.com/watch?v=GWFYymdbyOM#:~:text=Therapy%20Session%20Breakdown%20Complexity%20Approach",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVZbE6kczSHBrKqrpH2D9I9jG9ttA-va9JO0FlEIcaYUy1R0QfiCuq1LOV5ccJzeZMTWVvlKgjJoqaWs9i2-puaYxJn8Gtys7sb5pjijz0eX1gPdM9Y28HKEVo4T1Xnw&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQFnoECCUQAQ&uoh=1",
+    "snippet": "Ever wonder what a first therapy session using the complexity approach actually looks like?! Watch as I break down exactly how I introduced ...",
+    "snippet_highlighted_words": [
+     "complexity"
+    ],
+    "source": "YouTube",
+    "title": "Therapy Session Breakdown Complexity Approach for 'spl ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The official website of Complexity Gaming! The latest news, announcements and articles. Search Popular searches Jerseys T-shirts Bottoms Recommended products",
+      "icon": "https://serpapi.com/images/i/UklGRowAAABXRUJQVlA4IIAAAADwAwCdASocABwAPtEutFooIagoGAEAGglAGQuEO_iCcKhkImSU6cgAAP72AWd0NEUTZ2zkQu1OF_vvFHZVAl6Zcq_d9fG9aO-4hjPw0gUtk0qfGAhUwG6KEuMhE4dqxMeN5S-djYDot5eNY4-PFCitYh0_vXrIcVXcIHgjSAAAAA.webp",
+      "source_info_link": "https://complexity.gg/?srsltid=AU7gw4W41fPh4_zbCUYieneZ6PXcso7S0v_dDzgwOMaF9reiB-d6l4f6"
+     }
+    },
+    "displayed_link": "https://complexity.gg",
+    "favicon": "https://serpapi.com/images/i/UklGRowAAABXRUJQVlA4IIAAAADwAwCdASocABwAPtEutFooIagoGAEAGglAGQuEO_iCcKhkImSU6cgAAP72AWd0NEUTZ2zkQu1OF_vvFHZVAl6Zcq_d9fG9aO-4hjPw0gUtk0qfGAhUwG6KEuMhE4dqxMeN5S-djYDot5eNY4-PFCitYh0_vXrIcVXcIHgjSAAAAA.webp",
+    "link": "https://complexity.gg/?srsltid=AU7gw4W41fPh4_zbCUYieneZ6PXcso7S0v_dDzgwOMaF9reiB-d6l4f6",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFX4tPxS0aJ_FAbsFN6EC9dw5WLwk0OHlzkP8EYjNspQPdRCWe58T-f233IuZRyI2pBn47pMFYgBkmMpWRP8P7p0SZTRDUxRiW1TpcBikaqpWm1EBa-CYGMmTz91sZZsvpfjlGt5tOGFJ7yahZpBCWw7hxw1j0SeVQLZRrRfYmecZUqRhDNBS5SDBgQ&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQFnoECCYQAQ&uoh=1",
+    "snippet": "The official website of Complexity Gaming! The latest news, announcements and articles. Search Popular searches Jerseys T-shirts Bottoms Recommended products",
+    "snippet_highlighted_words": [
+     "Complexity",
+     "Search"
+    ],
+    "source": "Complexity Gaming",
+    "title": "Complexity Gaming: #WeAreCOL - Global Leader in Modern ..."
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Complexity transforms Perplexity into the best AI chatbot with search functionality on the market.",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAABQBgCdASocABwAPrUurVanIacnG_DgFollAMHQlVbgLdn-X-QATvuwyHQ8_N4e0wy5XVIucl1cMlZYAAD-9Hjr8_f-XS3cnM75tIy80RscTsen_uB_xmyXqdhEBd4363raAXaJt4E3ID4rrHXXaeA_zrY7uYlmgzQMB5V0vK7qJ2y-bXavOEpuGIsQTDGFTllFHf3IXZ7Ajb_xMcRkklQqVLLSxS30mjTz-hror5_j-5d2aHCu1VKLgH44f9fu1E9D3kuBo2SUsHgQxOAztgxhhmub2VU7P6OJPGdeogXoU_JI1ibB7HV3MpbGI-Laznzr4L_-QHDb6lu_zqcT7f-JHcjySQPtkzIoAAAA.webp",
+      "source_info_link": "https://www.cplx.app/"
+     }
+    },
+    "displayed_link": "https://www.cplx.app",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAABQBgCdASocABwAPrUurVanIacnG_DgFollAMHQlVbgLdn-X-QATvuwyHQ8_N4e0wy5XVIucl1cMlZYAAD-9Hjr8_f-XS3cnM75tIy80RscTsen_uB_xmyXqdhEBd4363raAXaJt4E3ID4rrHXXaeA_zrY7uYlmgzQMB5V0vK7qJ2y-bXavOEpuGIsQTDGFTllFHf3IXZ7Ajb_xMcRkklQqVLLSxS30mjTz-hror5_j-5d2aHCu1VKLgH44f9fu1E9D3kuBo2SUsHgQxOAztgxhhmub2VU7P6OJPGdeogXoU_JI1ibB7HV3MpbGI-Laznzr4L_-QHDb6lu_zqcT7f-JHcjySQPtkzIoAAAA.webp",
+    "link": "https://www.cplx.app/",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAVc7GpG2t1z3kfqGqAmh3q6QcV49LP5crSyaN25hepiWePn9SOz1ikxRMSdcKvLfO_ihZRT01RfM-PRNPqxcIqvQ2Rutr9mlGq&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQFnoECCgQAQ&uoh=1",
+    "snippet": "Complexity transforms Perplexity into the best AI chatbot with search functionality on the market.",
+    "snippet_highlighted_words": [
+     "Complexity",
+     "search"
+    ],
+    "source": "Complexity",
+    "title": "Complexity"
+   },
+   {
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The Java platform has added many major features over the years -- generics, lambdas, modules, virtual threads, and others.",
+      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "source_info_link": "https://www.youtube.com/watch?v=Yiye8lqh0Ig"
+     }
+    },
+    "date": "Oct 9, 2024",
+    "displayed_link": "https://www.youtube.com › watch",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+    "link": "https://www.youtube.com/watch?v=Yiye8lqh0Ig",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV_rHSEybaDjnGpbis4rI1bhatohMlfND2IoD4Nl45_JjWhKSq0sKZz0D_nGSD1lBESnGHtIJO_H-p7NinyOtimFeYnJKFU_15BzGyVxWxCsHc0ox2vGcTEJAosk6WMQ&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQFnoECC8QAQ&uoh=1",
+    "snippet": "The Java platform has added many major features over the years -- generics, lambdas, modules, virtual threads, and others.",
+    "source": "YouTube",
+    "title": "Postcards from the Peak of Complexity by Brian Goetz"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=time+complexity+binary+search&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnvclIzDXpryDc3RgJ8OsfLtyUnNsA:1789906045876&ei=fcyvau6MNYuKptQPsLXh0Qo&start=10&sa=N&sstk=AS6-VmKCZPOCDHlG1DoaEkg-vroYGesQDYLfnNoySp_ZOx2mWEVlMWX_KKKwxti7rmdT4RskzVd7Hh26GyXI4Lk1ujqoNgnjm3GISw&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQ8NMDegQIQRAK",
+   "other_pages": {
+    "2": "https://www.google.com/search?q=time+complexity+binary+search&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnvclIzDXpryDc3RgJ8OsfLtyUnNsA:1789906045876&ei=fcyvau6MNYuKptQPsLXh0Qo&start=10&sa=N&sstk=AS6-VmKCZPOCDHlG1DoaEkg-vroYGesQDYLfnNoySp_ZOx2mWEVlMWX_KKKwxti7rmdT4RskzVd7Hh26GyXI4Lk1ujqoNgnjm3GISw&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQ8tMDegQIQRAE",
+    "3": "https://www.google.com/search?q=time+complexity+binary+search&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnvclIzDXpryDc3RgJ8OsfLtyUnNsA:1789906045876&ei=fcyvau6MNYuKptQPsLXh0Qo&start=20&sa=N&sstk=AS6-VmKCZPOCDHlG1DoaEkg-vroYGesQDYLfnNoySp_ZOx2mWEVlMWX_KKKwxti7rmdT4RskzVd7Hh26GyXI4Lk1ujqoNgnjm3GISw&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQ8tMDegQIQRAG",
+    "4": "https://www.google.com/search?q=time+complexity+binary+search&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnvclIzDXpryDc3RgJ8OsfLtyUnNsA:1789906045876&ei=fcyvau6MNYuKptQPsLXh0Qo&start=30&sa=N&sstk=AS6-VmKCZPOCDHlG1DoaEkg-vroYGesQDYLfnNoySp_ZOx2mWEVlMWX_KKKwxti7rmdT4RskzVd7Hh26GyXI4Lk1ujqoNgnjm3GISw&ved=2ahUKEwiuv67Qj_2WAxULhYkEHbBaOKoQ8tMDegQIQRAI"
+   }
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "query_displayed": "time complexity binary search",
+   "time_taken_displayed": 0.17,
+   "total_results": 36
+  },
+  "search_metadata": {
+   "created_at": "2026-09-20 12:07:25 UTC",
+   "google_url": "https://www.google.com/search?q=time+complexity+binary+search&oq=time+complexity+binary+search&sourceid=chrome&ie=UTF-8",
+   "id": "6aafcc7d5abea519fad99556",
+   "json_endpoint": "https://serpapi.com/searches/mHP4zlEPcQLj7g3EUNf9FhwsOY8EHSe5OouIBOhuXPo/6aafcc7d5abea519fad99556.json",
+   "markdown_endpoint": "https://serpapi.com/searches/mHP4zlEPcQLj7g3EUNf9FhwsOY8EHSe5OouIBOhuXPo/6aafcc7d5abea519fad99556.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/mHP4zlEPcQLj7g3EUNf9FhwsOY8EHSe5OouIBOhuXPo/6aafcc7d5abea519fad99556.json_with_pixel_position",
+   "processed_at": "2026-09-20 12:07:25 UTC",
+   "raw_html_file": "https://serpapi.com/searches/mHP4zlEPcQLj7g3EUNf9FhwsOY8EHSe5OouIBOhuXPo/6aafcc7d5abea519fad99556.html",
+   "status": "Success",
+   "total_time_taken": 0.44
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "google_domain": "google.com",
+   "q": "time complexity binary search"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=time+complexity+binary+search&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=time+complexity+binary+search&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=time+complexity+binary+search&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=time+complexity+binary+search&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=time+complexity+binary+search&start=30"
+   }
+  }
+ },
+ "searches_charged": 1
+}

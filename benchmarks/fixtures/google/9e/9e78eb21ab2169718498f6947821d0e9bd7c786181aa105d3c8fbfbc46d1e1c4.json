@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 2525.664,
+ "elapsed_ms": 1207.145,
  "engine": "google",
- "fetched_at": "2026-09-20T12:02:04.875275+00:00",
+ "fetched_at": "2026-09-27T21:32:00.288051+00:00",
  "frugal_cache_version": 1,
  "key": "9e78eb21ab2169718498f6947821d0e9bd7c786181aa105d3c8fbfbc46d1e1c4",
  "params": {
@@ -9,324 +9,375 @@
   "q": "What is the latest news about India's Chandrayaan missions?"
  },
  "response": {
+  "ai_overview": {
+   "page_token": "J0O2xXiczZXdcqpIEIAfYJ_juBdG-RGNpopKzSAxYxIN_sR4bigEBIIwyqBo7vZZdp9qn2YHEAOJJOeci1PbVtkw09PT0z0f_dc_K8d3__3jbzsM1-SKYaIoqlsYWyuzrmOP0cjB15klXpFAt68PO7FR0YnIVkxHnAjbprbddRBuDNxH9MgidR8pQiVZIqoLjZgv1OP-hTAqQ__cb40ufamTuunXh-pO9v170jKFOs9ynfqQ0TxqAH6jKDJAAFKdqjKRAJC_dhabKECKfWViSW9TqXRTf_GeVjJwV7olildB-kPULZXH9rwdsXQIZ0b90lggyr_Mj9FEiV8Ik0B_WE6ujvt-kqiyNMkFBzSSgmFpbqV3l4HmalQDshw7-BgKAnL-1GAEQHrwrgturTZAOpKsT2KPF-gH2JfAyX-ZbID9mKUwGsypOWNY9O6yzCKgimMc3daTh4DEV1qadFgsm2TpT-XX1sqsPXnbuSPc1rpqax7tBxGjL6jdCmuGaai2yl4n7xzPNdlO47J9kbCkkxNMJA-THG57yJno8qZdv69DLiNJOtVOKoYfJ1xC4KPAzFQ6M5kfzC12pHy2pkdNbzeLAMobAktGj7HuZQNDAGmFdftdaIktSKk8rZXOGKUkWUlVqWms0dvykwm9FijzVLj3MPp4yA-l78JsEYLpXHT0-wEFCPpufrTonkYxUtKarEEEp4nZsJDLI_SZt2PEMs0mPL69TadPTp4eh8Znx9taYxpfX7HuEt7j-KUkgPiKJ3KH3lV4BM4JrY5FDz36ga_fGcFfm8TkHJF5R0CBnA6egaUNmqp3I3CYH_d7w6fnSQR2jeg8Kdhb_ETf0f9fLGVdaXrsSuUsyV-zFH8sP-tKyd-pK1njlKW7cpZkhM52JSEzynWldyzB-xxLdvJxjsq60s-yBD9hSf6UJXyeJbeMpaQrFVkqdqUCS6eu9MbSr3Sl9S92pQQtM1XFFrV9sUpb1W1Nkjd74u1Gd5fC3IWBKY1HnmXwawF82aqWXnjlacbqQnWMK8j3w4NxodIBfGUalY04s7Ww6pBqaJvVlRaaJKz6ZkSq2gJvwyryDUf7k1QlW_ONQDtoml_1HEIc7JPrircKsMhqAt-y57vF9Fa256PG9_XI41sDoR1d-ovwYY01-aZNxusmWHQ3oGZI_c3gcqSPo8N4zz-pz_5qpdzrqCd8h3v29cG76dmK7g4mNfKyHfbxNOBxczizec9sDdfGdoAegp257Q7RPHD4melE46a6nLrPeD3da678mkRFxGd5IkDPhU9EqdDTElPkKl6gi7RwggUGCphZQAfSHCi03lMNUx0BpdeiuMMK0TXVJDtR51p8u7W4FLR2i-eMZcWzwsNaFLgK8QOR-w86002Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J0O2xXiczZXdcqpIEIAfYJ_juBdG-RGNpopKzSAxYxIN_sR4bigEBIIwyqBo7vZZdp9qn2YHEAOJJOeci1PbVtkw09PT0z0f_dc_K8d3__3jbzsM1-SKYaIoqlsYWyuzrmOP0cjB15klXpFAt68PO7FR0YnIVkxHnAjbprbddRBuDNxH9MgidR8pQiVZIqoLjZgv1OP-hTAqQ__cb40ufamTuunXh-pO9v170jKFOs9ynfqQ0TxqAH6jKDJAAFKdqjKRAJC_dhabKECKfWViSW9TqXRTf_GeVjJwV7olildB-kPULZXH9rwdsXQIZ0b90lggyr_Mj9FEiV8Ik0B_WE6ujvt-kqiyNMkFBzSSgmFpbqV3l4HmalQDshw7-BgKAnL-1GAEQHrwrgturTZAOpKsT2KPF-gH2JfAyX-ZbID9mKUwGsypOWNY9O6yzCKgimMc3daTh4DEV1qadFgsm2TpT-XX1sqsPXnbuSPc1rpqax7tBxGjL6jdCmuGaai2yl4n7xzPNdlO47J9kbCkkxNMJA-THG57yJno8qZdv69DLiNJOtVOKoYfJ1xC4KPAzFQ6M5kfzC12pHy2pkdNbzeLAMobAktGj7HuZQNDAGmFdftdaIktSKk8rZXOGKUkWUlVqWms0dvykwm9FijzVLj3MPp4yA-l78JsEYLpXHT0-wEFCPpufrTonkYxUtKarEEEp4nZsJDLI_SZt2PEMs0mPL69TadPTp4eh8Znx9taYxpfX7HuEt7j-KUkgPiKJ3KH3lV4BM4JrY5FDz36ga_fGcFfm8TkHJF5R0CBnA6egaUNmqp3I3CYH_d7w6fnSQR2jeg8Kdhb_ETf0f9fLGVdaXrsSuUsyV-zFH8sP-tKyd-pK1njlKW7cpZkhM52JSEzynWldyzB-xxLdvJxjsq60s-yBD9hSf6UJXyeJbeMpaQrFVkqdqUCS6eu9MbSr3Sl9S92pQQtM1XFFrV9sUpb1W1Nkjd74u1Gd5fC3IWBKY1HnmXwawF82aqWXnjlacbqQnWMK8j3w4NxodIBfGUalY04s7Ww6pBqaJvVlRaaJKz6ZkSq2gJvwyryDUf7k1QlW_ONQDtoml_1HEIc7JPrircKsMhqAt-y57vF9Fa256PG9_XI41sDoR1d-ovwYY01-aZNxusmWHQ3oGZI_c3gcqSPo8N4zz-pz_5qpdzrqCd8h3v29cG76dmK7g4mNfKyHfbxNOBxczizec9sDdfGdoAegp257Q7RPHD4melE46a6nLrPeD3da678mkRFxGd5IkDPhU9EqdDTElPkKl6gi7RwggUGCphZQAfSHCi03lMNUx0BpdeiuMMK0TXVJDtR51p8u7W4FLR2i-eMZcWzwsNaFLgK8QOR-w86002Q"
+  },
+  "inline_videos": [
+   {
+    "channel": "WION",
+    "date": "1 month ago",
+    "duration": "3:26",
+    "link": "https://www.youtube.com/watch?v=4cKsdISh9XU",
+    "platform": "YouTube",
+    "position": 1,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRCzxmXRW1pr0m_FEBLytLkJxCfhTaUc8wFrA",
+    "snippet": "India's Chandrayaan 3 mission strengthens its role in lunar exploration, with NASA inviting ISRO to join its moon base program.",
+    "thumbnail": "https://serpapi.com/searches/6ab98b4f333617e13353926a/images/O4YVmn-fvwTkSueXP29uxilMzJ_gwPVaRN8ufUddp3w.jpeg",
+    "title": "Chandrayaan 3 Could Boost India's Role in NASA Moon Base"
+   },
+   {
+    "channel": "WION",
+    "date": "Mar 7, 2025",
+    "duration": "2:17",
+    "link": "https://www.youtube.com/watch?v=yDuLyGgSLrQ",
+    "platform": "YouTube",
+    "position": 2,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcToPBfir3eCJZSC7grN2UkR03NKUf8QhlsWXw",
+    "thumbnail": "https://serpapi.com/searches/6ab98b4f333617e13353926a/images/y7-YmXbdu8uUzHLefu-kKZtpf4-5FJm4C6DxcSvuUSg.jpeg",
+    "title": "India's Chandrayaan-3 Mission Uncovers Hidden Water ..."
+   },
+   {
+    "channel": "NDTV",
+    "date": "Sep 18, 2024",
+    "duration": "0:35",
+    "link": "https://www.youtube.com/shorts/MuxNPL3pcYE",
+    "platform": "YouTube",
+    "position": 3,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR08XPGmpM2VadGmuGZtLexZQUzQ8lcjCn0RQ",
+    "thumbnail": "https://serpapi.com/searches/6ab98b4f333617e13353926a/images/gFjaclZlqtqy8oG_1tH9EneUblu57xTA0ai0oAopkTY.jpeg",
+    "title": "Cabinet Approves New Moon Mission \"Chandrayaan-4\""
+   },
+   {
+    "channel": "Times Now",
+    "date": "Aug 21, 2023",
+    "duration": "3:48",
+    "link": "https://www.youtube.com/watch?v=lDKO-zF8d2E",
+    "platform": "YouTube",
+    "position": 4,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQg6DIy4KvZYjObnBzMfTjsIdN-tEgSI26Q2A",
+    "thumbnail": "https://serpapi.com/searches/6ab98b4f333617e13353926a/images/5M53Th3YYQLt3oPDyd-z3K77hBRU6t3fApP2h5wL9n8.jpeg",
+    "title": "Chandrayaan-3 Touchdown Countdown: India's Moon Mission ..."
+   }
+  ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVm5ad3RUU2tyUmY5U3F3TUVtbE9la05wV0tsWjBobTJOU0g0MFQtRGNzc1BJQUFvZEc1MHlUN18telhTRlhhQXloR19aaU1rdUtKSlFtcTY5YUJ3V2VPVi00dm9WbDl5OExEUHI0WTFITkx0bDR2VnlSX09USnN1WEVpMXFxc3lUdkNmUWJYTmlyTUplN3dqVTk3WGR3ekZpEgQaAggAGooGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOYFCAAQABgAIAAqGQoEd2hhdBUAAAAAGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgZsYXRlc3QVAADgPxoIYnJlYWtpbmcaB2N1cnJlbnQaA2hvdBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoKbGF0ZXN0bmV3cyooCgRuZXdzFbi_qkAaBnVwZGF0ZRoHdXBkYXRlcxoKbGF0ZXN0bmV3cyoMCgVhYm91dBUAAAAAKisKB2luZGlhJ3MVwt57QBoFaW5kaWEaBmluZGlhbhoMaXY7cDtpbmRpYSdzKiQKC2NoYW5kcmF5YWFuFT1310AaEGl2O3A7Y2hhbmRyYXlhYW4qJwoIbWlzc2lvbnMV5r-1PxoHbWlzc2lvbhoNaXY7cDttaXNzaW9uczKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZuWnd0VFNrclJmOVNxd01FbWxPZWtOcFdLbFowaG0yTlNINDBULURjc3NQSUFBb2RHNTB5VDdfLXpYU0ZYYUF5aEdfWmlNa3VLSkpRbXE2OWFCd1dlT1YtNHZvVmw5eThMRFByNFkxSE5MdGw0dlZ5Ul9PVEpzdVhFaTFxcXN5VHZDZlFiWE5pck1KZTd3alU5N1hkd3pGaTo_PGI-TGF0ZXN0IE5ld3M8L2I-IG9uIDxiPkNoYW5kcmF5YWFuPC9iPiAzIC0gVGhlIFRpbWVzIG9mIEluZGlhQqABQ2hlY2sgb3V0IGZvciB0aGUgbGF0ZXN0IG5ld3Mgb24gY2hhbmRyYXlhYW4gMy4gPGI-SXNybyBjaGllZiBzYXlzIHBsYW4gdG8gbGF1bmNoIDggdmVoaWNsZSwgMTIgc2F0ZWxsaXRlIG1pc3Npb25zPC9iPiDigKYgYXQgbGVhc3QgMTAwIHF1aXQgaW4gcGFzdCBmZXcgbW9udGhzOkoFYWJvdXRKAmlzSgN0aGVSA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVm5ad3RUU2tyUmY5U3F3TUVtbE9la05wV0tsWjBobTJOU0g0MFQtRGNzc1BJQUFvZEc1MHlUN18telhTRlhhQXloR19aaU1rdUtKSlFtcTY5YUJ3V2VPVi00dm9WbDl5OExEUHI0WTFITkx0bDR2VnlSX09USnN1WEVpMXFxc3lUdkNmUWJYTmlyTUplN3dqVTk3WGR3ekZpEgQaAggAGooGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOYFCAAQABgAIAAqGQoEd2hhdBUAAAAAGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgZsYXRlc3QVAADgPxoIYnJlYWtpbmcaB2N1cnJlbnQaA2hvdBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoKbGF0ZXN0bmV3cyooCgRuZXdzFbi_qkAaBnVwZGF0ZRoHdXBkYXRlcxoKbGF0ZXN0bmV3cyoMCgVhYm91dBUAAAAAKisKB2luZGlhJ3MVwt57QBoFaW5kaWEaBmluZGlhbhoMaXY7cDtpbmRpYSdzKiQKC2NoYW5kcmF5YWFuFT1310AaEGl2O3A7Y2hhbmRyYXlhYW4qJwoIbWlzc2lvbnMV5r-1PxoHbWlzc2lvbhoNaXY7cDttaXNzaW9uczKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZuWnd0VFNrclJmOVNxd01FbWxPZWtOcFdLbFowaG0yTlNINDBULURjc3NQSUFBb2RHNTB5VDdfLXpYU0ZYYUF5aEdfWmlNa3VLSkpRbXE2OWFCd1dlT1YtNHZvVmw5eThMRFByNFkxSE5MdGw0dlZ5Ul9PVEpzdVhFaTFxcXN5VHZDZlFiWE5pck1KZTd3alU5N1hkd3pGaTo_PGI-TGF0ZXN0IE5ld3M8L2I-IG9uIDxiPkNoYW5kcmF5YWFuPC9iPiAzIC0gVGhlIFRpbWVzIG9mIEluZGlhQqABQ2hlY2sgb3V0IGZvciB0aGUgbGF0ZXN0IG5ld3Mgb24gY2hhbmRyYXlhYW4gMy4gPGI-SXNybyBjaGllZiBzYXlzIHBsYW4gdG8gbGF1bmNoIDggdmVoaWNsZSwgMTIgc2F0ZWxsaXRlIG1pc3Npb25zPC9iPiDigKYgYXQgbGVhc3QgMTAwIHF1aXQgaW4gcGFzdCBmZXcgbW9udGhzOkoFYWJvdXRKAmlzSgN0aGVSA25ldyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "Chandrayaan-3 is a follow-on mission to Chandrayaan-2 to demonstrate end-to-end capability in safe landing and roving on the lunar surface.",
-      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABsAPtE-tFooIigoFAEAGglsALOvShQI1BoALsAOwGsC36zjaJRFFfyUv6wFgHoOlRlnxw7yAAD-9geydtfTbHTO0WDqoPtn3qq9veGUDmZmKDJjAJNWGuBjCEVZrXuXgg1SVrGtQlaS2ABHwDtJzPBdZAcDFlon08-jJsi9l-fJi3SV0j8EuLZPmJMvA5jZ6nI6llgVOkz0QWv-rVJQJmL3pk_DzIQXWFPt78laPR5cz4H4drTNTfi3lr8B8L8I5-N98s7EcLeICt_6-hcjulqMzbAMlBQ6X6PwVHXx_QkyPgPXhvILtaNxWPIJhvaR7RWN20ydGvkHOjVc7PVQ0mHiSAAA.webp",
-      "source_info_link": "https://www.isro.gov.in/Chandrayaan3_Details.html"
+      "description": "Check out for the latest news on chandrayaan 3. Isro chief says plan to launch 8 vehicle, 12 satellite missions … at least 100 quit in past few months:",
+      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp",
+      "source_info_link": "https://timesofindia.indiatimes.com/topic/chandrayaan-3/news"
      }
     },
-    "displayed_link": "https://www.isro.gov.in › Chandray...",
-    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABsAPtE-tFooIigoFAEAGglsALOvShQI1BoALsAOwGsC36zjaJRFFfyUv6wFgHoOlRlnxw7yAAD-9geydtfTbHTO0WDqoPtn3qq9veGUDmZmKDJjAJNWGuBjCEVZrXuXgg1SVrGtQlaS2ABHwDtJzPBdZAcDFlon08-jJsi9l-fJi3SV0j8EuLZPmJMvA5jZ6nI6llgVOkz0QWv-rVJQJmL3pk_DzIQXWFPt78laPR5cz4H4drTNTfi3lr8B8L8I5-N98s7EcLeICt_6-hcjulqMzbAMlBQ6X6PwVHXx_QkyPgPXhvILtaNxWPIJhvaR7RWN20ydGvkHOjVc7PVQ0mHiSAAA.webp",
-    "link": "https://www.isro.gov.in/Chandrayaan3_Details.html",
+    "displayed_link": "https://timesofindia.indiatimes.com › Topic",
+    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp",
+    "link": "https://timesofindia.indiatimes.com/topic/chandrayaan-3/news",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVmX4uJvstw3w3ba0VzMdq2kNNEwhGvNGpzd7lom0EsLlMxr3_Jv4j9MpO_cm4JMfuUgH5KnJMWe3vhuCm457Y9IcuI4g_2R1S5A9TdbSMYjkdxhf5EeufrtFc6ueOOKXFf6N1uA&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQFnoECBgQAQ&uoh=1",
-    "snippet": "Chandrayaan-3 is a follow-on mission to Chandrayaan-2 to demonstrate end-to-end capability in safe landing and roving on the lunar surface.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVnZwtTSkrRf9SqwMEmlOekNpWKlZ0hm2NSH40T-DcssPIAAodG50yT7_-zXSFXaAyhG_ZiMkuKJJQmq69aBwWeOV-4voVl9y8LDPr4Y1HNLtl4vVyR_OTJsuXEi1qqsyTvCfQbXNirMJe7wjU97XdwzFi&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQFnoECCgQAQ&uoh=1",
+    "snippet": "Check out for the latest news on chandrayaan 3. Isro chief says plan to launch 8 vehicle, 12 satellite missions … at least 100 quit in past few months:",
     "snippet_highlighted_words": [
-     "Chandrayaan-3 is a follow-on mission to Chandrayaan-2"
+     "Isro chief says plan to launch 8 vehicle, 12 satellite missions"
     ],
-    "source": "ISRO",
-    "title": "Chandrayaan-3 Details"
+    "source": "The Times of India",
+    "title": "Latest News on Chandrayaan 3"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZZLWp1Rl9NanpTREJpVjNEMDhfQS1ldFhVWXNnTTVoZ2VKUV9JcGxIZ2o3NVZHcXFHdEExdzlmc3J4RHR1LUhyVEFIaTN3ckgzUERoT3JJRmRXOXRRcVZNT3dxbjJLbU1yZnE5U0l0R29ZbTR3ZXBPcFdjTWxCNWtIS1NQb3hmZ2pfU0pEZElqUHRyNnNjczdEVS1la2x5NGZVMjg1V2hSVjVELWFUUG1PZ3ZWRm1CRDM1ZFhIak1rVGpCN29tMEEwc0VPdVVLXzVrMGg4V2Q5SGh4bllmTDIyQ0QtdkJsQktvNWZmWlNBdVFUWnBHM0lBenJ2VzczY0hEU3ZnEgQaAggAGukGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMUGCAAQABgAIAAqGQoEd2hhdBXwz8M9GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgZsYXRlc3QVCrsfPxoIYnJlYWtpbmcaB2N1cnJlbnQaA2hvdBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoKbGF0ZXN0bmV3cyooCgRuZXdzFToLiUAaBnVwZGF0ZRoHdXBkYXRlcxoKbGF0ZXN0bmV3cyoMCgVhYm91dBUAAAAAKisKB2luZGlhJ3MVTj0CPxoFaW5kaWEaBmluZGlhbhoMaXY7cDtpbmRpYSdzKiQKC2NoYW5kcmF5YWFuFYjfVUAaEGl2O3A7Y2hhbmRyYXlhYW4qJwoIbWlzc2lvbnMVk-hHQBoHbWlzc2lvbhoNaXY7cDttaXNzaW9uczKUAi9nb3RvP3VybD1DQUVTd2dFQjZ6c3dGWS1qdUZfTWp6U0RCaVYzRDA4X0EtZXRYVVlzZ001aGdlSlFfSXBsSGdqNzVWR3FxR3RBMXc5ZnNyeER0dS1IclRBSGkzd3JIM1BEaE9ySUZkVzl0UXFWTU93cW4yS21NcmZxOVNJdEdvWW00d2VwT3BXY01sQjVrSEtTUG94ZmdqX1NKRGRJalB0cjZzY3M3RFUtZWtseTRmVTI4NVdoUlY1RC1hVFBtT2d2VkZtQkQzNWRYSGpNa1RqQjdvbTBBMHNFT3VVS181azBoOFdkOUhoeG5ZZkwyMkNELXZCbEJLbzVmZlpTQXVRVFpwRzNJQXpydlc3M2NIRFN2Zzo7SVNSTyB0YXJnZXRzIGNyZXdlZCA8Yj5DaGFuZHJheWFhbiBNaXNzaW9uczwvYj4gYnkgMjAyOCAuLi5CnQFJU1JPIENoYWlybWFuIFYgTmFyYXlhbmFuIHNhaWQgPGI-SW5kaWEgaXMgd29ya2luZyB0b3dhcmRzIHRoZSBHYWdhbnlhYW4gaHVtYW4gc3BhY2VmbGlnaHQgbWlzc2lvbiBieSAyMDI3PC9iPiwgd2l0aCB0aHJlZSB1bmNyZXdlZCBtaXNzaW9ucyBwbGFubmVkJm5ic3A7Li4uSgN0aGVKAmlzSgVhYm91dFIDbmV3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZZLWp1Rl9NanpTREJpVjNEMDhfQS1ldFhVWXNnTTVoZ2VKUV9JcGxIZ2o3NVZHcXFHdEExdzlmc3J4RHR1LUhyVEFIaTN3ckgzUERoT3JJRmRXOXRRcVZNT3dxbjJLbU1yZnE5U0l0R29ZbTR3ZXBPcFdjTWxCNWtIS1NQb3hmZ2pfU0pEZElqUHRyNnNjczdEVS1la2x5NGZVMjg1V2hSVjVELWFUUG1PZ3ZWRm1CRDM1ZFhIak1rVGpCN29tMEEwc0VPdVVLXzVrMGg4V2Q5SGh4bllmTDIyQ0QtdkJsQktvNWZmWlNBdVFUWnBHM0lBenJ2VzczY0hEU3ZnEgQaAggAGukGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMUGCAAQABgAIAAqGQoEd2hhdBXwz8M9GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgZsYXRlc3QVCrsfPxoIYnJlYWtpbmcaB2N1cnJlbnQaA2hvdBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoKbGF0ZXN0bmV3cyooCgRuZXdzFToLiUAaBnVwZGF0ZRoHdXBkYXRlcxoKbGF0ZXN0bmV3cyoMCgVhYm91dBUAAAAAKisKB2luZGlhJ3MVTj0CPxoFaW5kaWEaBmluZGlhbhoMaXY7cDtpbmRpYSdzKiQKC2NoYW5kcmF5YWFuFYjfVUAaEGl2O3A7Y2hhbmRyYXlhYW4qJwoIbWlzc2lvbnMVk-hHQBoHbWlzc2lvbhoNaXY7cDttaXNzaW9uczKUAi9nb3RvP3VybD1DQUVTd2dFQjZ6c3dGWS1qdUZfTWp6U0RCaVYzRDA4X0EtZXRYVVlzZ001aGdlSlFfSXBsSGdqNzVWR3FxR3RBMXc5ZnNyeER0dS1IclRBSGkzd3JIM1BEaE9ySUZkVzl0UXFWTU93cW4yS21NcmZxOVNJdEdvWW00d2VwT3BXY01sQjVrSEtTUG94ZmdqX1NKRGRJalB0cjZzY3M3RFUtZWtseTRmVTI4NVdoUlY1RC1hVFBtT2d2VkZtQkQzNWRYSGpNa1RqQjdvbTBBMHNFT3VVS181azBoOFdkOUhoeG5ZZkwyMkNELXZCbEJLbzVmZlpTQXVRVFpwRzNJQXpydlc3M2NIRFN2Zzo7SVNSTyB0YXJnZXRzIGNyZXdlZCA8Yj5DaGFuZHJheWFhbiBNaXNzaW9uczwvYj4gYnkgMjAyOCAuLi5CnQFJU1JPIENoYWlybWFuIFYgTmFyYXlhbmFuIHNhaWQgPGI-SW5kaWEgaXMgd29ya2luZyB0b3dhcmRzIHRoZSBHYWdhbnlhYW4gaHVtYW4gc3BhY2VmbGlnaHQgbWlzc2lvbiBieSAyMDI3PC9iPiwgd2l0aCB0aHJlZSB1bmNyZXdlZCBtaXNzaW9ucyBwbGFubmVkJm5ic3A7Li4uSgN0aGVKAmlzSgVhYm91dFIDbmV3IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "The second lander and rover mission Chandrayaan-3 successfully landed on the Moon on 23 August 2023, making India the first nation to successfully land a ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Chandrayaan_programme"
+      "description": "ISRO Chairman V Narayanan said India is working towards the Gaganyaan human spaceflight mission by 2027, with three uncrewed missions planned ...",
+      "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBQCdASocABwAPtEwtFooIigoGAEAGgloAKwy6M4BtGUG_e7Uf_IM7saSf5E0ERQAAP6cqPZjr7J-9SavpOBfLsbhlRwsMG_a8Rbp-_R4cS-RyVWgx5cgvXgNo_-N4_cBT3AAfxeKB3GuT5gvQ2UDKHi3eJKJK7jykwBhT-W8b8M_9sh_hHbBkT3H1HVTQjuw2pclgD91RkaQw8HgF_E7-Uesx4U0eMZZ9A1fwXZEgmRpqxY79imRAM-wGZUCybLSh9vT7Cu1eXa4O844RnSmSGtBnZe52XwjAOzZeq5f8f8NlC3MH6AA.webp",
+      "source_info_link": "https://m.economictimes.com/news/science/isro-targets-crewed-chandrayaan-missions-by-2028-gaganyaan-for-2027/articleshow/127967529.cms"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › Ch...",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Chandrayaan_programme",
+    "date": "Feb 6, 2026",
+    "displayed_link": "https://m.economictimes.com › News › Science",
+    "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBQCdASocABwAPtEwtFooIigoGAEAGgloAKwy6M4BtGUG_e7Uf_IM7saSf5E0ERQAAP6cqPZjr7J-9SavpOBfLsbhlRwsMG_a8Rbp-_R4cS-RyVWgx5cgvXgNo_-N4_cBT3AAfxeKB3GuT5gvQ2UDKHi3eJKJK7jykwBhT-W8b8M_9sh_hHbBkT3H1HVTQjuw2pclgD91RkaQw8HgF_E7-Uesx4U0eMZZ9A1fwXZEgmRpqxY79imRAM-wGZUCybLSh9vT7Cu1eXa4O844RnSmSGtBnZe52XwjAOzZeq5f8f8NlC3MH6AA.webp",
+    "link": "https://m.economictimes.com/news/science/isro-targets-crewed-chandrayaan-missions-by-2028-gaganyaan-for-2027/articleshow/127967529.cms",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAV14hy2k8izPdykHffz-nHH-6vOw7Idk0790d7xHbpJ2ZNCQyqD4Q1YvCPVFXuDopgwgaSV1qMEGoW52Q2tDZ5OAA5-c8vzDb6XJcsBpzTm1lTDStm3LuLhL5F3Msk5IbhVg0GnRpZ&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQFnoECBcQAQ&uoh=1",
-    "snippet": "The second lander and rover mission Chandrayaan-3 successfully landed on the Moon on 23 August 2023, making India the first nation to successfully land a ...",
+    "read_more_link": "https://m.economictimes.com/news/science/isro-targets-crewed-chandrayaan-missions-by-2028-gaganyaan-for-2027/articleshow/127967529.cms#:~:text=ISRO%20Chairman%20V%20Narayanan%20said,missions%20planned%20ahead%20of%20it.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFY-juF_MjzSDBiV3D08_A-etXUYsgM5hgeJQ_IplHgj75VGqqGtA1w9fsrxDtu-HrTAHi3wrH3PDhOrIFdW9tQqVMOwqn2KmMrfq9SItGoYm4wepOpWcMlB5kHKSPoxfgj_SJDdIjPtr6scs7DU-ekly4fU285WhRV5D-aTPmOgvVFmBD35dXHjMkTjB7om0A0sEOuUK_5k0h8Wd9HhxnYfL22CD-vBlBKo5ffZSAuQTZpG3IAzrvW73cHDSvg&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQFnoECCkQAQ&uoh=1",
+    "snippet": "ISRO Chairman V Narayanan said India is working towards the Gaganyaan human spaceflight mission by 2027, with three uncrewed missions planned ...",
     "snippet_highlighted_words": [
-     "successfully landed on the Moon on 23 August 2023"
+     "India is working towards the Gaganyaan human spaceflight mission by 2027"
     ],
-    "source": "Wikipedia",
-    "title": "Chandrayaan programme"
+    "source": "The Economic Times",
+    "title": "ISRO targets crewed Chandrayaan Missions by 2028 ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZjOEVuQVhqUjN0Z09pZzVkaGhVLUt5VmZPTTFHSWVqdjZMTGtPcGtXQUtTRi1yMFBSNFdId2RtNFIweWJDamhXTFNiSklYSUhjTTBQY2RrVmM2U21hUl8xSnRDN2duTnpCcmpDZXZiZFotcG1fVkQ2Y3lGYmp3YXRBN3pDQmdTT3hSYXZldWF6UjlqMjhUZWI5MlJ4UWtrSWdHeUhyQ2pUem5FaU03WWNJb2dpLXBGaXlwc3BzdDFURTBoRmlDVnBlYk9HT3Vaek5WR01XRDV6ekxxWEN0Zy1ZNVROQ1lNSHNPNGh6OU1nT2ZYTVh3TUNoc2tTSUh3VVZKNHMtejN2MHRpdHlREgQaAggAGo4HEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOoGCAAQABgAIAAqGQoEd2hhdBUAAAAAGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgZsYXRlc3QVAAAAABoIYnJlYWtpbmcaB2N1cnJlbnQaA2hvdBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoKbGF0ZXN0bmV3cyooCgRuZXdzFYxUgD8aBnVwZGF0ZRoHdXBkYXRlcxoKbGF0ZXN0bmV3cyoMCgVhYm91dBUAAAAAKisKB2luZGlhJ3MVmuWLQBoFaW5kaWEaBmluZGlhbhoMaXY7cDtpbmRpYSdzKiQKC2NoYW5kcmF5YWFuFeezwkAaEGl2O3A7Y2hhbmRyYXlhYW4qJwoIbWlzc2lvbnMVh8-nQBoHbWlzc2lvbhoNaXY7cDttaXNzaW9uczKdAi9nb3RvP3VybD1DQUVTeVFFQjZ6c3dGYzhFbkFYalIzdGdPaWc1ZGhoVS1LeVZmT00xR0llanY2TExrT3BrV0FLU0YtcjBQUjRXSHdkbTRSMHliQ2poV0xTYkpJWElIY00wUGNka1ZjNlNtYVJfMUp0Qzdnbk56QnJqQ2V2YmRaLXBtX1ZENmN5RmJqd2F0QTd6Q0JnU094UmF2ZXVhelI5ajI4VGViOTJSeFFra0lnR3lIckNqVHpuRWlNN1ljSW9naS1wRml5cHNwc3QxVEUwaEZpQ1ZwZWJPR091WnpOVkdNV0Q1enpMcVhDdGctWTVUTkNZTUhzTzRoejlNZ09mWE1Yd01DaHNrU0lId1VWSjRzLXozdjB0aXR5UTpHPGI-Q2hhbmRyYXlhYW48L2I-LTMgdG8gQWRpdHlhLUwxOiBNYWRlLWluLTxiPkluZGlhPC9iPiBjaGlwcyBwb3dlciAuLi5CrQFBcyA8Yj5JbmRpYTwvYj4gcGxhbnMgZnVydGhlciA8Yj5taXNzaW9uczwvYj4gdG8gZXhwbG9yZSBzcGFjZSwgdGhlIHN1Y2Nlc3NmdWwgbGFuZGluZyBvZiA8Yj5DaGFuZHJheWFhbjwvYj4gMyBuZWFyIHRoZSBMdW5hciBTb3V0aCBQb2xlIG9mIHRoZSBNb29uLiBUaGUgc3VjY2VzcyBvZiZuYnNwOy4uLkoDdGhlSgJpc0oFYWJvdXRSA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZjOEVuQVhqUjN0Z09pZzVkaGhVLUt5VmZPTTFHSWVqdjZMTGtPcGtXQUtTRi1yMFBSNFdId2RtNFIweWJDamhXTFNiSklYSUhjTTBQY2RrVmM2U21hUl8xSnRDN2duTnpCcmpDZXZiZFotcG1fVkQ2Y3lGYmp3YXRBN3pDQmdTT3hSYXZldWF6UjlqMjhUZWI5MlJ4UWtrSWdHeUhyQ2pUem5FaU03WWNJb2dpLXBGaXlwc3BzdDFURTBoRmlDVnBlYk9HT3Vaek5WR01XRDV6ekxxWEN0Zy1ZNVROQ1lNSHNPNGh6OU1nT2ZYTVh3TUNoc2tTSUh3VVZKNHMtejN2MHRpdHlREgQaAggAGo4HEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOoGCAAQABgAIAAqGQoEd2hhdBUAAAAAGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgZsYXRlc3QVAAAAABoIYnJlYWtpbmcaB2N1cnJlbnQaA2hvdBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoKbGF0ZXN0bmV3cyooCgRuZXdzFYxUgD8aBnVwZGF0ZRoHdXBkYXRlcxoKbGF0ZXN0bmV3cyoMCgVhYm91dBUAAAAAKisKB2luZGlhJ3MVmuWLQBoFaW5kaWEaBmluZGlhbhoMaXY7cDtpbmRpYSdzKiQKC2NoYW5kcmF5YWFuFeezwkAaEGl2O3A7Y2hhbmRyYXlhYW4qJwoIbWlzc2lvbnMVh8-nQBoHbWlzc2lvbhoNaXY7cDttaXNzaW9uczKdAi9nb3RvP3VybD1DQUVTeVFFQjZ6c3dGYzhFbkFYalIzdGdPaWc1ZGhoVS1LeVZmT00xR0llanY2TExrT3BrV0FLU0YtcjBQUjRXSHdkbTRSMHliQ2poV0xTYkpJWElIY00wUGNka1ZjNlNtYVJfMUp0Qzdnbk56QnJqQ2V2YmRaLXBtX1ZENmN5RmJqd2F0QTd6Q0JnU094UmF2ZXVhelI5ajI4VGViOTJSeFFra0lnR3lIckNqVHpuRWlNN1ljSW9naS1wRml5cHNwc3QxVEUwaEZpQ1ZwZWJPR091WnpOVkdNV0Q1enpMcVhDdGctWTVUTkNZTUhzTzRoejlNZ09mWE1Yd01DaHNrU0lId1VWSjRzLXozdjB0aXR5UTpHPGI-Q2hhbmRyYXlhYW48L2I-LTMgdG8gQWRpdHlhLUwxOiBNYWRlLWluLTxiPkluZGlhPC9iPiBjaGlwcyBwb3dlciAuLi5CrQFBcyA8Yj5JbmRpYTwvYj4gcGxhbnMgZnVydGhlciA8Yj5taXNzaW9uczwvYj4gdG8gZXhwbG9yZSBzcGFjZSwgdGhlIHN1Y2Nlc3NmdWwgbGFuZGluZyBvZiA8Yj5DaGFuZHJheWFhbjwvYj4gMyBuZWFyIHRoZSBMdW5hciBTb3V0aCBQb2xlIG9mIHRoZSBNb29uLiBUaGUgc3VjY2VzcyBvZiZuYnNwOy4uLkoDdGhlSgJpc0oFYWJvdXRSA25ldyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "The race to unravel the mysteries of Moon's south pole. India's Chandrayaan-3 has become the first mission to land near the unexplored lunar region. 23 Aug 2023.",
-      "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp",
-      "source_info_link": "https://www.bbc.com/news/topics/clgnq7exe22t"
+      "description": "As India plans further missions to explore space, the successful landing of Chandrayaan 3 near the Lunar South Pole of the Moon. The success of ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/hcieswatini/posts/chandrayaan-3-to-aditya-l1-made-in-india-chips-power-indias-space-missions-via-n/1370947691874693/"
      }
     },
-    "displayed_link": "https://www.bbc.com › news › topics",
-    "favicon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp",
-    "link": "https://www.bbc.com/news/topics/clgnq7exe22t",
+    "displayed_link": "1 month ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/hcieswatini/posts/chandrayaan-3-to-aditya-l1-made-in-india-chips-power-indias-space-missions-via-n/1370947691874693/",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVMF64C4Oor8SHMS5pGnKOwTMDiIQdMat2CWBQ90nAsQjXgp8_IXEJceCyRS5NxvQjJQRYGKGvIokl4TaMLu1IDHgnyPOWknSjzF_HUeMCEAhBZhYsT31sGyk6aeAkEec&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQFnoECBwQAQ&uoh=1",
-    "snippet": "The race to unravel the mysteries of Moon's south pole. India's Chandrayaan-3 has become the first mission to land near the unexplored lunar region. 23 Aug 2023.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFc8EnAXjR3tgOig5dhhU-KyVfOM1GIejv6LLkOpkWAKSF-r0PR4WHwdm4R0ybCjhWLSbJIXIHcM0PcdkVc6SmaR_1JtC7gnNzBrjCevbdZ-pm_VD6cyFbjwatA7zCBgSOxRaveuazR9j28Teb92RxQkkIgGyHrCjTznEiM7YcIogi-pFiypspst1TE0hFiCVpebOGOuZzNVGMWD5zzLqXCtg-Y5TNCYMHsO4hz9MgOfXMXwMChskSIHwUVJ4s-z3v0tityQ&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQFnoECE0QAQ&uoh=1",
+    "snippet": "As India plans further missions to explore space, the successful landing of Chandrayaan 3 near the Lunar South Pole of the Moon. The success of ...",
     "snippet_highlighted_words": [
-     "India's Chandrayaan-3 has become the first mission to land near the unexplored lunar region"
+     "India",
+     "missions",
+     "Chandrayaan"
     ],
-    "source": "BBC",
-    "title": "Chandrayaan programme - BBC News"
+    "source": "Facebook · High Commission of India- Mbabane, Eswatini",
+    "title": "Chandrayaan-3 to Aditya-L1: Made-in-India chips power ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmVWWmxtMlFPbEtiUXE5OFIxczdjMnF1ZFg2TWtxa2paQWttdlFzakhYZjZZWGpZMjlFaTNaMEgzUWFqYVphUGMzWUZmV01DLUotQmk4Z2dlNEk3NVZ2TndEU25FeEVfZnRPUVdKZnppWDhQMGdFX3R5X2xzMmhvb3hRVnRid2NDYVZNTkxmNklRSDZobWR6b21REgQaAggAGo8GEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA6QUIABAAGAAgACoZCgR3aGF0FR5xrz4aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBmxhdGVzdBWIMElAGghicmVha2luZxoHY3VycmVudBoDaG90GgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GgpsYXRlc3RuZXdzKigKBG5ld3MVrIlrQBoGdXBkYXRlGgd1cGRhdGVzGgpsYXRlc3RuZXdzKgwKBWFib3V0FQAAAAAqKwoHaW5kaWEncxWq0Gg_GgVpbmRpYRoGaW5kaWFuGgxpdjtwO2luZGlhJ3MqJAoLY2hhbmRyYXlhYW4Vb9vlQBoQaXY7cDtjaGFuZHJheWFhbionCghtaXNzaW9ucxWRa4g_GgdtaXNzaW9uGg1pdjtwO21pc3Npb25zMqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmVWWmxtMlFPbEtiUXE5OFIxczdjMnF1ZFg2TWtxa2paQWttdlFzakhYZjZZWGpZMjlFaTNaMEgzUWFqYVphUGMzWUZmV01DLUotQmk4Z2dlNEk3NVZ2TndEU25FeEVfZnRPUVdKZnppWDhQMGdFX3R5X2xzMmhvb3hRVnRid2NDYVZNTkxmNklRSDZobWR6b21ROj08Yj5MYXRlc3QgTmV3czwvYj4sIFZpZGVvcyBhbmQgUGhvdG9zIG9mIDxiPkNoYW5kcmF5YWFuPC9iPiAyQqsBPGI-Q2hhbmRyYXlhYW48L2I-LTIgb3JiaXRlciBpcyBzdGlsbCBhbGl2ZSBhbmQgaGVscGluZyBpbiBzdWJzZXF1ZW50IGZ1dHVyZSBsdW5hciA8Yj5taXNzaW9uczwvYj46IFZpa3JhbSB3aWxsIHBpY2sgZmluYWwgbGFuZGluZyBzcG90IEFydGljbGUgaW1hZ2UgZm9yOiA8Yj48L2I-Jm5ic3A7Li4uSgN0aGVKAmlzSgVhYm91dFIDbmV3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmVWWmxtMlFPbEtiUXE5OFIxczdjMnF1ZFg2TWtxa2paQWttdlFzakhYZjZZWGpZMjlFaTNaMEgzUWFqYVphUGMzWUZmV01DLUotQmk4Z2dlNEk3NVZ2TndEU25FeEVfZnRPUVdKZnppWDhQMGdFX3R5X2xzMmhvb3hRVnRid2NDYVZNTkxmNklRSDZobWR6b21REgQaAggAGo8GEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA6QUIABAAGAAgACoZCgR3aGF0FR5xrz4aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBmxhdGVzdBWIMElAGghicmVha2luZxoHY3VycmVudBoDaG90GgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GgpsYXRlc3RuZXdzKigKBG5ld3MVrIlrQBoGdXBkYXRlGgd1cGRhdGVzGgpsYXRlc3RuZXdzKgwKBWFib3V0FQAAAAAqKwoHaW5kaWEncxWq0Gg_GgVpbmRpYRoGaW5kaWFuGgxpdjtwO2luZGlhJ3MqJAoLY2hhbmRyYXlhYW4Vb9vlQBoQaXY7cDtjaGFuZHJheWFhbionCghtaXNzaW9ucxWRa4g_GgdtaXNzaW9uGg1pdjtwO21pc3Npb25zMqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmVWWmxtMlFPbEtiUXE5OFIxczdjMnF1ZFg2TWtxa2paQWttdlFzakhYZjZZWGpZMjlFaTNaMEgzUWFqYVphUGMzWUZmV01DLUotQmk4Z2dlNEk3NVZ2TndEU25FeEVfZnRPUVdKZnppWDhQMGdFX3R5X2xzMmhvb3hRVnRid2NDYVZNTkxmNklRSDZobWR6b21ROj08Yj5MYXRlc3QgTmV3czwvYj4sIFZpZGVvcyBhbmQgUGhvdG9zIG9mIDxiPkNoYW5kcmF5YWFuPC9iPiAyQqsBPGI-Q2hhbmRyYXlhYW48L2I-LTIgb3JiaXRlciBpcyBzdGlsbCBhbGl2ZSBhbmQgaGVscGluZyBpbiBzdWJzZXF1ZW50IGZ1dHVyZSBsdW5hciA8Yj5taXNzaW9uczwvYj46IFZpa3JhbSB3aWxsIHBpY2sgZmluYWwgbGFuZGluZyBzcG90IEFydGljbGUgaW1hZ2UgZm9yOiA8Yj48L2I-Jm5ic3A7Li4uSgN0aGVKAmlzSgVhYm91dFIDbmV3IgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Chandrayaan-2 orbiter is still alive and helping in subsequent future lunar missions: Vikram will pick final landing spot Article image for:  ...",
+      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp",
+      "source_info_link": "https://timesofindia.indiatimes.com/topic/chandrayaan-2"
+     }
+    },
+    "displayed_link": "https://timesofindia.indiatimes.com › topic › chandraya...",
+    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp",
+    "link": "https://timesofindia.indiatimes.com/topic/chandrayaan-2",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVeVZlm2QOlKbQq98R1s7c2qudX6MkqkjZAkmvQsjHXf6YXjY29Ei3Z0H3QajaZaPc3YFfWMC-J-Bi8gge4I75VvNwDSnExE_ftOQWJfziX8P0gE_ty_ls2hooxQVtbwcCaVMNLf6IQH6hmdzomQ&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQFnoECE4QAQ&uoh=1",
+    "snippet": "Chandrayaan-2 orbiter is still alive and helping in subsequent future lunar missions: Vikram will pick final landing spot Article image for: ...",
+    "snippet_highlighted_words": [
+     "Chandrayaan",
+     "missions"
+    ],
+    "source": "The Times of India",
+    "title": "Latest News, Videos and Photos of Chandrayaan 2"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZXMWVnVGZqMDE2ejZXSm1ib3E4U1QzOXVvcTEweW9tRnJrY2NtUjRBeTY0b3A2eXZSQkhINFZyYkh5NzJROTZfUFAyZXVqRDRsQ3lET0xqR1pYdE1JLXZ5VnN0Z3Fpc1dsTmVFeGVEc2VBWEtlci10dlE5S0pCZjVqUFRNdVpYUzVmanJMQUpJV05zb0lwdWRQZmtXUUlUXzlUOFhSWEhFd1F5Qm5VcnA3cDdrRjEwZmk0RS1Pa2FRd0FkUnVaZ29hVERwWG53MmNZOWwtSEhzNzFWMmtzY0hREgQaAggAGtwGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQLgGCAAQABgAIAAqGQoEd2hhdBUN5fQ-GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgZsYXRlc3QV30RBPxoIYnJlYWtpbmcaB2N1cnJlbnQaA2hvdBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoKbGF0ZXN0bmV3cyooCgRuZXdzFUB-hj8aBnVwZGF0ZRoHdXBkYXRlcxoKbGF0ZXN0bmV3cyoMCgVhYm91dBUAAAAAKisKB2luZGlhJ3MVAmpJQBoFaW5kaWEaBmluZGlhbhoMaXY7cDtpbmRpYSdzKiQKC2NoYW5kcmF5YWFuFbQBhUAaEGl2O3A7Y2hhbmRyYXlhYW4qJwoIbWlzc2lvbnMVoyMsPxoHbWlzc2lvbhoNaXY7cDttaXNzaW9uczLwAS9nb3RvP3VybD1DQUVTcHdFQjZ6c3dGVzFlZ1RmajAxNno2V0ptYm9xOFNUMzl1b3ExMHlvbUZya2NjbVI0QXk2NG9wNnl2UkJISDRWcmJIeTcyUTk2X1BQMmV1akQ0bEN5RE9MakdaWHRNSS12eVZzdGdxaXNXbE5lRXhlRHNlQVhLZXItdHZROUtKQmY1alBUTXVaWFM1ZmpyTEFKSVdOc29JcHVkUGZrV1FJVF85VDhYUlhIRXdReUJuVXJwN3A3a0YxMGZpNEUtT2thUXdBZFJ1WmdvYVREcFhudzJjWTlsLUhIczcxVjJrc2NIUTpSV2hlbiA8Yj5DaGFuZHJheWFhbjwvYj4tMyYjMzk7cyBNb29uIGxhbmRpbmcgZXRjaGVkIDxiPkluZGlhJiMzOTtzPC9iPiBuYW1lIGluIC4uLkKdAUF1Z3VzdCAyMyBpcyByZW1lbWJlcmVkIGZvciA8Yj5JbmRpYSYjMzk7cyBDaGFuZHJheWFhbi0zIE1vb24gbGFuZGluZyBpbiAyMDIzPC9iPiwgYSBtaWxlc3RvbmUgaW4gZ2xvYmFsIHNwYWNlIGhpc3RvcnkuIFRoZSBkYXRlIGFsc28gcmVjYWxscyBTYXJkYXImbmJzcDsuLi5KBWFib3V0SgJpc0oDdGhlUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZXMWVnVGZqMDE2ejZXSm1ib3E4U1QzOXVvcTEweW9tRnJrY2NtUjRBeTY0b3A2eXZSQkhINFZyYkh5NzJROTZfUFAyZXVqRDRsQ3lET0xqR1pYdE1JLXZ5VnN0Z3Fpc1dsTmVFeGVEc2VBWEtlci10dlE5S0pCZjVqUFRNdVpYUzVmanJMQUpJV05zb0lwdWRQZmtXUUlUXzlUOFhSWEhFd1F5Qm5VcnA3cDdrRjEwZmk0RS1Pa2FRd0FkUnVaZ29hVERwWG53MmNZOWwtSEhzNzFWMmtzY0hREgQaAggAGtwGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQLgGCAAQABgAIAAqGQoEd2hhdBUN5fQ-GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgZsYXRlc3QV30RBPxoIYnJlYWtpbmcaB2N1cnJlbnQaA2hvdBoEbGFzdBoDbmV3GgZuZXdlc3QaBnJlY2VudBoKbGF0ZXN0bmV3cyooCgRuZXdzFUB-hj8aBnVwZGF0ZRoHdXBkYXRlcxoKbGF0ZXN0bmV3cyoMCgVhYm91dBUAAAAAKisKB2luZGlhJ3MVAmpJQBoFaW5kaWEaBmluZGlhbhoMaXY7cDtpbmRpYSdzKiQKC2NoYW5kcmF5YWFuFbQBhUAaEGl2O3A7Y2hhbmRyYXlhYW4qJwoIbWlzc2lvbnMVoyMsPxoHbWlzc2lvbhoNaXY7cDttaXNzaW9uczLwAS9nb3RvP3VybD1DQUVTcHdFQjZ6c3dGVzFlZ1RmajAxNno2V0ptYm9xOFNUMzl1b3ExMHlvbUZya2NjbVI0QXk2NG9wNnl2UkJISDRWcmJIeTcyUTk2X1BQMmV1akQ0bEN5RE9MakdaWHRNSS12eVZzdGdxaXNXbE5lRXhlRHNlQVhLZXItdHZROUtKQmY1alBUTXVaWFM1ZmpyTEFKSVdOc29JcHVkUGZrV1FJVF85VDhYUlhIRXdReUJuVXJwN3A3a0YxMGZpNEUtT2thUXdBZFJ1WmdvYVREcFhudzJjWTlsLUhIczcxVjJrc2NIUTpSV2hlbiA8Yj5DaGFuZHJheWFhbjwvYj4tMyYjMzk7cyBNb29uIGxhbmRpbmcgZXRjaGVkIDxiPkluZGlhJiMzOTtzPC9iPiBuYW1lIGluIC4uLkKdAUF1Z3VzdCAyMyBpcyByZW1lbWJlcmVkIGZvciA8Yj5JbmRpYSYjMzk7cyBDaGFuZHJheWFhbi0zIE1vb24gbGFuZGluZyBpbiAyMDIzPC9iPiwgYSBtaWxlc3RvbmUgaW4gZ2xvYmFsIHNwYWNlIGhpc3RvcnkuIFRoZSBkYXRlIGFsc28gcmVjYWxscyBTYXJkYXImbmJzcDsuLi5KBWFib3V0SgJpc0oDdGhlUgNuZXciAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "August 23 is remembered for India's Chandrayaan-3 Moon landing in 2023, a milestone in global space history. The date also recalls Sardar ...",
+      "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtE-tFooIigoFAEAGgllAAPj3TkMuRslSzuYyel1zOt0k6IAAP79Kuf5K_sgdKNl8LK8f5x_-fl726P8r6dmrSg0DgsrsfpvNy8OxNgE0JZo6ftn9Lb_sxaXDe9TwI0-FHKIhx_WrDNC8Q5ziHnMY8gmL65g2_q__4Kcjmtr97WqIafyoD7gr6gjF089i-hPGFnLnNHuhjsYTUnL5aBoNzUmPhjx8EjnC8MVI8ffHvzn5aV6_rQnCAAA.webp",
+      "source_info_link": "https://www.firstpost.com/explainers/history-today-august-23-events-chandrayaan-3-moon-landing-13926499.html"
+     }
+    },
+    "date": "Aug 23, 2025",
+    "displayed_link": "https://www.firstpost.com › Explainers",
+    "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtE-tFooIigoFAEAGgllAAPj3TkMuRslSzuYyel1zOt0k6IAAP79Kuf5K_sgdKNl8LK8f5x_-fl726P8r6dmrSg0DgsrsfpvNy8OxNgE0JZo6ftn9Lb_sxaXDe9TwI0-FHKIhx_WrDNC8Q5ziHnMY8gmL65g2_q__4Kcjmtr97WqIafyoD7gr6gjF089i-hPGFnLnNHuhjsYTUnL5aBoNzUmPhjx8EjnC8MVI8ffHvzn5aV6_rQnCAAA.webp",
+    "link": "https://www.firstpost.com/explainers/history-today-august-23-events-chandrayaan-3-moon-landing-13926499.html",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFW1egTfj016z6WJmboq8ST39uoq10yomFrkccmR4Ay64op6yvRBHH4VrbHy72Q96_PP2eujD4lCyDOLjGZXtMI-vyVstgqisWlNeExeDseAXKer-tvQ9KJBf5jPTMuZXS5fjrLAJIWNsoIpudPfkWQIT_9T8XRXHEwQyBnUrp7p7kF10fi4E-OkaQwAdRuZgoaTDpXnw2cY9l-HHs71V2kscHQ&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQFnoECEsQAQ&uoh=1",
+    "snippet": "August 23 is remembered for India's Chandrayaan-3 Moon landing in 2023, a milestone in global space history. The date also recalls Sardar ...",
+    "snippet_highlighted_words": [
+     "India's Chandrayaan-3 Moon landing in 2023"
+    ],
+    "source": "Firstpost",
+    "title": "When Chandrayaan-3's Moon landing etched India's name ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmpjdlJvak5LTW9ESFRxNGVoc2ZValF6YzlzZVNFZ2o5OGUtSmlIQndOaVgyNXJLbkU0UWN4RmpIaFc4VDZ6SG5UT1VfbGVZaWcwNEUxLUNtZTB1cko2bU5QQUdCXzFQR09zTzZhZ2NDYXQyamZCbW5qQ1lwY2RJMzFCdFM1QVJjY0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmpjdlJvak5LTW9ESFRxNGVoc2ZValF6YzlzZVNFZ2o5OGUtSmlIQndOaVgyNXJLbkU0UWN4RmpIaFc4VDZ6SG5UT1VfbGVZaWcwNEUxLUNtZTB1cko2bU5QQUdCXzFQR09zTzZhZ2NDYXQyamZCbW5qQ1lwY2RJMzFCdFM1QVJjY0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
      "source": {
-      "description": "India's Chandrayaan-2 mission may have detected subsurface water-ice beneath permanently shadowed craters near the Moon's south pole.",
+      "description": "If Chandrayaan-3 fails to be captured by the moon's gravity, the consequences could be significant. The spacecraft might either crash into ...",
       "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "displayed_link": "Peržiūrų: daugiau nei 55,7 tūkst. · prieš 3 mėnesius",
-    "duration": "5:40",
+    "displayed_link": "66.9K+ views · 3 years ago",
+    "duration": "2:03",
     "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=MuzA2EE0QIk",
-    "position": 4,
-    "snippet": "India's Chandrayaan-2 mission may have detected subsurface water-ice beneath permanently shadowed craters near the Moon's south pole.",
-    "source": "YouTube · Firstpost",
-    "thumbnail": "https://serpapi.com/searches/6aafcb3aa3f7302cc9d46953/images/vJlAKvm7FP4Po8mrkoJR3-sOsNu1aMcszXYiNxmZgo0.jpeg",
-    "title": "India Detects Possible Ice Near Moon's South Pole ...",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSMFTEKRCGCuApil4uXNXRc-fnKhncg8tsh2Q"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "*Update, 22 July, 2:45 p.m.: India's much-delayed Chandrayaan-2 lunar mission finally launched today on a 7-week journey to a landing site near the moon's ...",
-      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmewCMASwBvJflAGACZd3XI3FKc9u7lg0s8KvpFPwgA3NtpyNPrhAAA_tjYvPZ6kzNJDDg6ThYkt-nC_0bnquJjNI_8qX5dBDIN9popu1jfPu5TlPqvKmY7_5mdmbTmMuqP4gz7buK2Ivv-nAVxjFzOzyG9_KK3gUUDI2M3jo1vTFRLHKdBL86gF_B46_w1DqG_6vTqY24tPO_9BVlDwewUSYvXs6_pnSTTu3zqpK9_OlY7OJYp_Z1i9EB_AN9qnHmTEJSGls1Fs301EGsXnOi_SNe8XStlpVc9BZjOBJAvspZmscmx2qAZlY_w3nZ_-IOMOQdgMo57XcCGLeY74yD_SKsQxkblPsbL4Sg_5BRRzbZFUZJ_M7-0BgzWRIWeDooB6MAA.webp",
-      "source_info_link": "https://www.science.org/content/article/india-plans-tricky-and-unprecedented-landing-near-moon-s-south-pole"
-     }
-    },
-    "displayed_link": "https://www.science.org › article › i...",
-    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmewCMASwBvJflAGACZd3XI3FKc9u7lg0s8KvpFPwgA3NtpyNPrhAAA_tjYvPZ6kzNJDDg6ThYkt-nC_0bnquJjNI_8qX5dBDIN9popu1jfPu5TlPqvKmY7_5mdmbTmMuqP4gz7buK2Ivv-nAVxjFzOzyG9_KK3gUUDI2M3jo1vTFRLHKdBL86gF_B46_w1DqG_6vTqY24tPO_9BVlDwewUSYvXs6_pnSTTu3zqpK9_OlY7OJYp_Z1i9EB_AN9qnHmTEJSGls1Fs301EGsXnOi_SNe8XStlpVc9BZjOBJAvspZmscmx2qAZlY_w3nZ_-IOMOQdgMo57XcCGLeY74yD_SKsQxkblPsbL4Sg_5BRRzbZFUZJ_M7-0BgzWRIWeDooB6MAA.webp",
-    "link": "https://www.science.org/content/article/india-plans-tricky-and-unprecedented-landing-near-moon-s-south-pole",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFUOg3Lli4BUeZ4JsqxWvqhvpxRzDL5PT3FHDszNtmcCMgpdSdDbdEnzaMaD7tcCCABhxTo1zZXNqTeL44hwIOH-7u3VZbmNR3m_s8Sk9flumyC1fY7mL9SnrwZYS8BA_4tvnK6oJtBvEouUUj3Ei8yYVdVKfi_ySlEH-VIYgklQbQTZutUAimGrykjPKXvUxpRF4zijX_WiTtDlqdjns&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQFnoECB0QAQ&uoh=1",
-    "snippet": "*Update, 22 July, 2:45 p.m.: India's much-delayed Chandrayaan-2 lunar mission finally launched today on a 7-week journey to a landing site near the moon's ...",
-    "snippet_highlighted_words": [
-     "India's much-delayed Chandrayaan-2 lunar mission finally launched today"
-    ],
-    "source": "Science | AAAS",
-    "title": "Update: After 1.5 years of delay, India's ambitious lunar ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "Latest Chandrayaan & ISRO news · Chandrayaan-1 may have just detected oldest impact basin on moon · Chandrayaan-1 helped scientists find a 'lost' lunar basin more ...",
-      "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADwBgCdASocABwAPrkurlcnIacnG_DgFwllAM488A0V7OH65boAVhO10v6umxKtf5wg18LIz4qZNJQ2N8fgNpgAAP7374evAszPAR8b2Y-tfwDomnbHHiRQdAs-cUITJ5A7HCgMIzAljfzy8twbflWJ7Mjhazs_-CLvQIRrK9CDrBrr60jNA-MGtS4Y_7lcWdf03dl-iTWCrccSU3la1HstgpmYqTFgM_8q1SiG5TvnFbpv1wqcF417MzfX5sZQkFndRZJq-cbFp66z3AQldYqProzEDHeXQC_GUJibgjFr6Oq4wRevqieEC_8k079ev_qoOTfH71b4Yqrlbrj8rgnoRp-S3NLnJPQl3fxhr5_QH4vcjZdEdQaduPO16xuOaBtljQ5-EQhlwAAA.webp",
-      "source_info_link": "https://chandrayaan.com/"
-     }
-    },
-    "displayed_link": "https://chandrayaan.com",
-    "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADwBgCdASocABwAPrkurlcnIacnG_DgFwllAM488A0V7OH65boAVhO10v6umxKtf5wg18LIz4qZNJQ2N8fgNpgAAP7374evAszPAR8b2Y-tfwDomnbHHiRQdAs-cUITJ5A7HCgMIzAljfzy8twbflWJ7Mjhazs_-CLvQIRrK9CDrBrr60jNA-MGtS4Y_7lcWdf03dl-iTWCrccSU3la1HstgpmYqTFgM_8q1SiG5TvnFbpv1wqcF417MzfX5sZQkFndRZJq-cbFp66z3AQldYqProzEDHeXQC_GUJibgjFr6Oq4wRevqieEC_8k079ev_qoOTfH71b4Yqrlbrj8rgnoRp-S3NLnJPQl3fxhr5_QH4vcjZdEdQaduPO16xuOaBtljQ5-EQhlwAAA.webp",
-    "link": "https://chandrayaan.com/",
+    "link": "https://www.youtube.com/watch?v=eCP-RZnWGmM",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVSJHAXEhYB7aTPTW-ujWOHNoNdhnS_ifDB3VakHQbOAlBJxaZD_HOs52KkHGfjqierYAbxVb4ehEdIQsthK5aTQAXX7-ZWW6HGuw-&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQFnoECBYQAQ&uoh=1",
-    "snippet": "Latest Chandrayaan & ISRO news · Chandrayaan-1 may have just detected oldest impact basin on moon · Chandrayaan-1 helped scientists find a 'lost' lunar basin more ...",
-    "snippet_highlighted_words": [
-     "Chandrayaan-1 may have just detected oldest impact basin on moon"
-    ],
-    "source": "chandrayaan.com",
-    "title": "Chandrayaan Mission Hub — India's Moon Missions ..."
+    "snippet": "If Chandrayaan-3 fails to be captured by the moon's gravity, the consequences could be significant. The spacecraft might either crash into ...",
+    "source": "YouTube · India Today",
+    "thumbnail": "https://serpapi.com/searches/6ab98b4f333617e13353926a/images/g65jPjSbgnf1V35TUg3QDSFS1tq0I0MM_jetyCXmV0k.jpeg",
+    "title": "Chandrayaan-3 Mission Could Be Declared Failed If..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZaQjgtdTQ2UkhRZjBWVm9wY1YyR3lpdzVLaVJOcEhVM0VoMXZsNzhDdXo3ci1faDI0RmtqWTB2QlkydUpYczVtNzdlcG5tM3J2dURKVzVtd0dUNEtFQUNtZ1RMdm4tU3B1X1gwX2F1aWlkQnRDLXNfS2VXbWNPR3R3Y1VxR1doQThzRDdYMktTb1dxS1BXUWxvcFYzQ1UtMEtUSXRPS3ZOYXhLT2dKZ2dMeHROWENVYUt2MXItN1JpMmJkZjBxOEo0X3B6dXRvOWUxVEZxTGFySlZDZjNRYjhoc2pSU2N6WmtJQ3oyT3N3bzY0MmpoNXBhd1ZUcHdKQ0pQM0JBEgQaAggAGvYGEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA0AYIABAAGAAgACoZCgR3aGF0FTE57j4aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBmxhdGVzdBX-26s_GghicmVha2luZxoHY3VycmVudBoDaG90GgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GgpsYXRlc3RuZXdzKigKBG5ld3MVIu_YQBoGdXBkYXRlGgd1cGRhdGVzGgpsYXRlc3RuZXdzKgwKBWFib3V0FQAAAAAqKwoHaW5kaWEncxUUlxRAGgVpbmRpYRoGaW5kaWFuGgxpdjtwO2luZGlhJ3MqJAoLY2hhbmRyYXlhYW4VlpC0QBoQaXY7cDtjaGFuZHJheWFhbionCghtaXNzaW9ucxV1LC0_GgdtaXNzaW9uGg1pdjtwO21pc3Npb25zMpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZaQjgtdTQ2UkhRZjBWVm9wY1YyR3lpdzVLaVJOcEhVM0VoMXZsNzhDdXo3ci1faDI0RmtqWTB2QlkydUpYczVtNzdlcG5tM3J2dURKVzVtd0dUNEtFQUNtZ1RMdm4tU3B1X1gwX2F1aWlkQnRDLXNfS2VXbWNPR3R3Y1VxR1doQThzRDdYMktTb1dxS1BXUWxvcFYzQ1UtMEtUSXRPS3ZOYXhLT2dKZ2dMeHROWENVYUt2MXItN1JpMmJkZjBxOEo0X3B6dXRvOWUxVEZxTGFySlZDZjNRYjhoc2pSU2N6WmtJQ3oyT3N3bzY0MmpoNXBhd1ZUcHdKQ0pQM0JBOkU8Yj5DaGFuZHJheWFhbjwvYj4tMyA8Yj5taXNzaW9uPC9iPiByZWNlaXZlcyBwcmVzdGlnaW91cyBVUyBTcGFjZSAuLi5CngE8Yj5JbmRpYSYjMzk7cyBDaGFuZHJheWFhbjwvYj4tMyA8Yj5taXNzaW9uPC9iPiB0ZWFtIHdhcyByZWNlbnRseSBhd2FyZGVkIHRoZSBwcmVzdGlnaW91cyAyMDI0IEpvaG4gTC4gJiMzOTtKYWNrJiMzOTsgU3dpZ2VydCBKci4gQXdhcmQgZm9yIFNwYWNlIEV4cGxvcmF0aW9uLEoDdGhlSgJpc0oFYWJvdXRSA25ldyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZaQjgtdTQ2UkhRZjBWVm9wY1YyR3lpdzVLaVJOcEhVM0VoMXZsNzhDdXo3ci1faDI0RmtqWTB2QlkydUpYczVtNzdlcG5tM3J2dURKVzVtd0dUNEtFQUNtZ1RMdm4tU3B1X1gwX2F1aWlkQnRDLXNfS2VXbWNPR3R3Y1VxR1doQThzRDdYMktTb1dxS1BXUWxvcFYzQ1UtMEtUSXRPS3ZOYXhLT2dKZ2dMeHROWENVYUt2MXItN1JpMmJkZjBxOEo0X3B6dXRvOWUxVEZxTGFySlZDZjNRYjhoc2pSU2N6WmtJQ3oyT3N3bzY0MmpoNXBhd1ZUcHdKQ0pQM0JBEgQaAggAGvYGEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA0AYIABAAGAAgACoZCgR3aGF0FTE57j4aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBmxhdGVzdBX-26s_GghicmVha2luZxoHY3VycmVudBoDaG90GgRsYXN0GgNuZXcaBm5ld2VzdBoGcmVjZW50GgpsYXRlc3RuZXdzKigKBG5ld3MVIu_YQBoGdXBkYXRlGgd1cGRhdGVzGgpsYXRlc3RuZXdzKgwKBWFib3V0FQAAAAAqKwoHaW5kaWEncxUUlxRAGgVpbmRpYRoGaW5kaWFuGgxpdjtwO2luZGlhJ3MqJAoLY2hhbmRyYXlhYW4VlpC0QBoQaXY7cDtjaGFuZHJheWFhbionCghtaXNzaW9ucxV1LC0_GgdtaXNzaW9uGg1pdjtwO21pc3Npb25zMpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZaQjgtdTQ2UkhRZjBWVm9wY1YyR3lpdzVLaVJOcEhVM0VoMXZsNzhDdXo3ci1faDI0RmtqWTB2QlkydUpYczVtNzdlcG5tM3J2dURKVzVtd0dUNEtFQUNtZ1RMdm4tU3B1X1gwX2F1aWlkQnRDLXNfS2VXbWNPR3R3Y1VxR1doQThzRDdYMktTb1dxS1BXUWxvcFYzQ1UtMEtUSXRPS3ZOYXhLT2dKZ2dMeHROWENVYUt2MXItN1JpMmJkZjBxOEo0X3B6dXRvOWUxVEZxTGFySlZDZjNRYjhoc2pSU2N6WmtJQ3oyT3N3bzY0MmpoNXBhd1ZUcHdKQ0pQM0JBOkU8Yj5DaGFuZHJheWFhbjwvYj4tMyA8Yj5taXNzaW9uPC9iPiByZWNlaXZlcyBwcmVzdGlnaW91cyBVUyBTcGFjZSAuLi5CngE8Yj5JbmRpYSYjMzk7cyBDaGFuZHJheWFhbjwvYj4tMyA8Yj5taXNzaW9uPC9iPiB0ZWFtIHdhcyByZWNlbnRseSBhd2FyZGVkIHRoZSBwcmVzdGlnaW91cyAyMDI0IEpvaG4gTC4gJiMzOTtKYWNrJiMzOTsgU3dpZ2VydCBKci4gQXdhcmQgZm9yIFNwYWNlIEV4cGxvcmF0aW9uLEoDdGhlSgJpc0oFYWJvdXRSA25ldyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "India could become the first nation to land a spacecraft on the moon's south pole, days after a Russian probe crashed in the same region – an ...",
-      "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBQCdASocABwAPtEwtFooIigoGAEAGglsAJ0yhHA3qvDoPkgg38PVNk1qg4w8E9zkQ8gFNAAA_cj31Op65Mq2ukBCuE-lkFLrCL__lK0OLeGVcoNA1v-2zrREqIZ9x2OeYFSM2yQDNSKFz_8pspG68Q1ovv6NPFHX9UIuzCBnR7E0lJY-JZuf43-DSt2T0h9Pg6bB_CJ7XkOtRvaZmuZ6LD-MqjPwWVimy2w5ochwDVcKkegb7npAAAA.webp",
-      "source_info_link": "https://www.aljazeera.com/news/2023/8/23/chandrayaan-3-historic-india-mission-for-moons-south-pole-set-for-landing"
+      "description": "India's Chandrayaan-3 mission team was recently awarded the prestigious 2024 John L. 'Jack' Swigert Jr. Award for Space Exploration,",
+      "icon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAACwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0v1YwDPM-sr9ADpP_JyeOJwBbz_oPf6DfN9H0tz8L-_fit1ZlA6eM4eltgAP7Ywj4gb3U6BrAMrvLc9lih86GmvZM4TT9V60c6GyU7_Vxs7xbWVZcHsmK5VmY-kxUBBYkNUMV7q99g5MVyE_-BiAS79rPjWOT5efJux_MbRNC6J5TKna786ICWrzKe9Pjd3BxuDGVXmaj8AqYGmMhq5Z5f5STXTxPtkEzzJKzKmyp19qnUCBxGLAwOWd20_M4Yb0wXMOVMvjMfqP_uX32NJPrUf9aw1YTovlshqagTJX9AxUlMakkvZf0AVMyPn9_8pFvPaPp5R6hznuN4eCr37pt0Avz-YXlfw4lzOCOi1FzVU8-ztK_ajnf781dUeoFNcGinAHoMq88gWOHPuuZe__IdA2h8DoNtOi7SOYNlRMzco7HL31Rsv_f35QG4jGALB0sZct55kWR8AEq-flqWJDpfjZu3U-NgAA.webp",
+      "source_info_link": "https://www.business-standard.com/india-news/chandrayaan-3-mission-receives-prestigious-us-space-exploration-award-124041000464_1.html"
      }
     },
-    "date": "2023-08-23",
-    "displayed_link": "https://www.aljazeera.com › news",
-    "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBQCdASocABwAPtEwtFooIigoGAEAGglsAJ0yhHA3qvDoPkgg38PVNk1qg4w8E9zkQ8gFNAAA_cj31Op65Mq2ukBCuE-lkFLrCL__lK0OLeGVcoNA1v-2zrREqIZ9x2OeYFSM2yQDNSKFz_8pspG68Q1ovv6NPFHX9UIuzCBnR7E0lJY-JZuf43-DSt2T0h9Pg6bB_CJ7XkOtRvaZmuZ6LD-MqjPwWVimy2w5ochwDVcKkegb7npAAAA.webp",
-    "link": "https://www.aljazeera.com/news/2023/8/23/chandrayaan-3-historic-india-mission-for-moons-south-pole-set-for-landing",
+    "date": "Apr 10, 2024",
+    "displayed_link": "https://www.business-standard.com › India News",
+    "favicon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAACwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0v1YwDPM-sr9ADpP_JyeOJwBbz_oPf6DfN9H0tz8L-_fit1ZlA6eM4eltgAP7Ywj4gb3U6BrAMrvLc9lih86GmvZM4TT9V60c6GyU7_Vxs7xbWVZcHsmK5VmY-kxUBBYkNUMV7q99g5MVyE_-BiAS79rPjWOT5efJux_MbRNC6J5TKna786ICWrzKe9Pjd3BxuDGVXmaj8AqYGmMhq5Z5f5STXTxPtkEzzJKzKmyp19qnUCBxGLAwOWd20_M4Yb0wXMOVMvjMfqP_uX32NJPrUf9aw1YTovlshqagTJX9AxUlMakkvZf0AVMyPn9_8pFvPaPp5R6hznuN4eCr37pt0Avz-YXlfw4lzOCOi1FzVU8-ztK_ajnf781dUeoFNcGinAHoMq88gWOHPuuZe__IdA2h8DoNtOi7SOYNlRMzco7HL31Rsv_f35QG4jGALB0sZct55kWR8AEq-flqWJDpfjZu3U-NgAA.webp",
+    "link": "https://www.business-standard.com/india-news/chandrayaan-3-mission-receives-prestigious-us-space-exploration-award-124041000464_1.html",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFTPUEzu7d4JGYv1pqKmABrJa-0Lpkpk8brRyFdLBwqXSZjgxB7Mfewc5mSxjoExruz02AMNtab6YiDrjtp5NqtUtBNX6q9dHePilICW-TG2XQSMjIpa1YarD2VhEZ4jY_D_MQt57bSJBc6mGPQuReYe2LZJaVAhiSI2zfc4mSTezKXVbkuQN4sL_WPrSHg0-4iNBX4QQtKicS2au24dSCq1Nqulk_Q&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQFnoECBoQAQ&uoh=1",
-    "snippet": "India could become the first nation to land a spacecraft on the moon's south pole, days after a Russian probe crashed in the same region – an ...",
-    "snippet_highlighted_words": [
-     "India could become the first nation to land a spacecraft on the moon's south pole"
-    ],
-    "source": "Al Jazeera",
-    "title": "Chandrayaan-3: Historic India mission for moon's south ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "India's Chandrayaan-1 played a crucial role in the discovery of water molecules on the Moon. Chandrayaan-1 was India's first deep space mission.",
-      "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
-      "source_info_link": "https://science.nasa.gov/mission/chandrayaan-1/"
-     }
-    },
-    "date": "2024-11-03",
-    "displayed_link": "https://science.nasa.gov › mission",
-    "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
-    "link": "https://science.nasa.gov/mission/chandrayaan-1/",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAV0Z2HN4dWfzsVc1h66cWZD07TjB8TtnSSYvdzWrLEw9YQ3N9laHjgTtn8wTSdf2IXm237oMHxJBZR2PG4HkUZ6_vKrqmo6K_g68XFi8Tfs2C_4Oh14hDzFPkfkzfw-Fy39wQ&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQFnoECBsQAQ&uoh=1",
-    "snippet": "India's Chandrayaan-1 played a crucial role in the discovery of water molecules on the Moon. Chandrayaan-1 was India's first deep space mission.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFZB8-u46RHQf0VVopcV2Gyiw5KiRNpHU3Eh1vl78Cuz7r-_h24FkjY0vBY2uJXs5m77epnm3rvuDJW5mwGT4KEACmgTLvn-Spu_X0_auiidBtC-s_KeWmcOGtwcUqGWhA8sD7X2KSoWqKPWQlopV3CU-0KTItOKvNaxKOgJggLxtNXCUaKv1r-7Ri2bdf0q8J4_pzuto9e1TFqLarJVCf3Qb8hsjRSczZkICz2Oswo642jh5pawVTpwJCJP3BA&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQFnoECEcQAQ&uoh=1",
+    "snippet": "India's Chandrayaan-3 mission team was recently awarded the prestigious 2024 John L. 'Jack' Swigert Jr. Award for Space Exploration,",
     "snippet_highlighted_words": [
      "India's Chandrayaan",
-     "Chandrayaan",
-     "India's",
      "mission"
     ],
-    "source": "NASA Science (.gov)",
-    "title": "Chandrayaan-1 / Moon Impact Probe"
+    "source": "Business Standard",
+    "title": "Chandrayaan-3 mission receives prestigious US Space ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZWdV81MjJrQ1VpeHpFNWJidmVhWE5kdHhTdjFzaG44ZldyRnVKTTE1ZGpKUUJ5ZGt0cFd2b2dEYmZzSDQ5N0k5VVNKNDl4TVM1OVZwdEZhRkdqYlVXMkNOYzE3R1V5bDZDRXk4UmpIYzdyYVBsMDJ2T2NvYTRnUlFaOE52WnktT05MbV9TMHc4ZmNOUVBLZlRYS0JxQm5iODI2WmlwNDBmV2FjQnFNTWh6U0JWWXc2SVZ0RkNoRVBHMk1jVGl6cHNEQ3JtdUF6bmlIODBJMlA5MzRCdm4ySHVuQXdIQWxhbVBtNzB0RGZqeWFzV1FlNDdZTFNvSElWTGRHbFpsMlV2U054OFlfNE5hc2xWejNsMHN3SBIEGgIIABr_BhIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDbBggAEAAYACAAKhkKBHdoYXQVs7NoPhoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqTAoGbGF0ZXN0FZ6qmT8aCGJyZWFraW5nGgdjdXJyZW50GgNob3QaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaCmxhdGVzdG5ld3MqKAoEbmV3cxX8gZE_GgZ1cGRhdGUaB3VwZGF0ZXMaCmxhdGVzdG5ld3MqDAoFYWJvdXQVAAAAACorCgdpbmRpYSdzFYsxDT8aBWluZGlhGgZpbmRpYW4aDGl2O3A7aW5kaWEncyokCgtjaGFuZHJheWFhbhWukodAGhBpdjtwO2NoYW5kcmF5YWFuKicKCG1pc3Npb25zFXwth0AaB21pc3Npb24aDWl2O3A7bWlzc2lvbnMyqgIvZ290bz91cmw9Q0FFUzB3RUI2enN3RlZ1XzUyMmtDVWl4ekU1YmJ2ZWFYTmR0eFN2MXNobjhmV3JGdUpNMTVkakpRQnlka3RwV3ZvZ0RiZnNINDk3STlVU0o0OXhNUzU5VnB0RmFGR2piVVcyQ05jMTdHVXlsNkNFeThSakhjN3JhUGwwMnZPY29hNGdSUVo4TnZaeS1PTkxtX1MwdzhmY05RUEtmVFhLQnFCbmI4MjZaaXA0MGZXYWNCcU1NaHpTQlZZdzZJVnRGQ2hFUEcyTWNUaXpwc0RDcm11QXpuaUg4MEkyUDkzNEJ2bjJIdW5Bd0hBbGFtUG03MHREZmp5YXNXUWU0N1lMU29ISVZMZEdsWmwyVXZTTng4WV80TmFzbFZ6M2wwc3dIOjtJU1JPIHRhcmdldHMgY3Jld2VkIDxiPkNoYW5kcmF5YWFuIE1pc3Npb25zPC9iPiBieSAyMDI4IC4uLkKdAUlTUk8gQ2hhaXJtYW4gViBOYXJheWFuYW4gc2FpZCA8Yj5JbmRpYSBpcyB3b3JraW5nIHRvd2FyZHMgdGhlIEdhZ2FueWFhbiBodW1hbiBzcGFjZWZsaWdodCBtaXNzaW9uIGJ5IDIwMjc8L2I-LCB3aXRoIHRocmVlIHVuY3Jld2VkIG1pc3Npb25zIHBsYW5uZWQmbmJzcDsuLi5KBWFib3V0SgJpc0oDdGhlUgNuZXciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZWdV81MjJrQ1VpeHpFNWJidmVhWE5kdHhTdjFzaG44ZldyRnVKTTE1ZGpKUUJ5ZGt0cFd2b2dEYmZzSDQ5N0k5VVNKNDl4TVM1OVZwdEZhRkdqYlVXMkNOYzE3R1V5bDZDRXk4UmpIYzdyYVBsMDJ2T2NvYTRnUlFaOE52WnktT05MbV9TMHc4ZmNOUVBLZlRYS0JxQm5iODI2WmlwNDBmV2FjQnFNTWh6U0JWWXc2SVZ0RkNoRVBHMk1jVGl6cHNEQ3JtdUF6bmlIODBJMlA5MzRCdm4ySHVuQXdIQWxhbVBtNzB0RGZqeWFzV1FlNDdZTFNvSElWTGRHbFpsMlV2U054OFlfNE5hc2xWejNsMHN3SBIEGgIIABr_BhIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDbBggAEAAYACAAKhkKBHdoYXQVs7NoPhoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqTAoGbGF0ZXN0FZ6qmT8aCGJyZWFraW5nGgdjdXJyZW50GgNob3QaBGxhc3QaA25ldxoGbmV3ZXN0GgZyZWNlbnQaCmxhdGVzdG5ld3MqKAoEbmV3cxX8gZE_GgZ1cGRhdGUaB3VwZGF0ZXMaCmxhdGVzdG5ld3MqDAoFYWJvdXQVAAAAACorCgdpbmRpYSdzFYsxDT8aBWluZGlhGgZpbmRpYW4aDGl2O3A7aW5kaWEncyokCgtjaGFuZHJheWFhbhWukodAGhBpdjtwO2NoYW5kcmF5YWFuKicKCG1pc3Npb25zFXwth0AaB21pc3Npb24aDWl2O3A7bWlzc2lvbnMyqgIvZ290bz91cmw9Q0FFUzB3RUI2enN3RlZ1XzUyMmtDVWl4ekU1YmJ2ZWFYTmR0eFN2MXNobjhmV3JGdUpNMTVkakpRQnlka3RwV3ZvZ0RiZnNINDk3STlVU0o0OXhNUzU5VnB0RmFGR2piVVcyQ05jMTdHVXlsNkNFeThSakhjN3JhUGwwMnZPY29hNGdSUVo4TnZaeS1PTkxtX1MwdzhmY05RUEtmVFhLQnFCbmI4MjZaaXA0MGZXYWNCcU1NaHpTQlZZdzZJVnRGQ2hFUEcyTWNUaXpwc0RDcm11QXpuaUg4MEkyUDkzNEJ2bjJIdW5Bd0hBbGFtUG03MHREZmp5YXNXUWU0N1lMU29ISVZMZEdsWmwyVXZTTng4WV80TmFzbFZ6M2wwc3dIOjtJU1JPIHRhcmdldHMgY3Jld2VkIDxiPkNoYW5kcmF5YWFuIE1pc3Npb25zPC9iPiBieSAyMDI4IC4uLkKdAUlTUk8gQ2hhaXJtYW4gViBOYXJheWFuYW4gc2FpZCA8Yj5JbmRpYSBpcyB3b3JraW5nIHRvd2FyZHMgdGhlIEdhZ2FueWFhbiBodW1hbiBzcGFjZWZsaWdodCBtaXNzaW9uIGJ5IDIwMjc8L2I-LCB3aXRoIHRocmVlIHVuY3Jld2VkIG1pc3Npb25zIHBsYW5uZWQmbmJzcDsuLi5KBWFib3V0SgJpc0oDdGhlUgNuZXciAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "Future Chandrayaan missions · Chandrayaan 4 will bring unique Moon materials—and maybe a giant scientific leap for India · The Indo-Japanese ...",
-      "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBwCdASocABwAPtEutFooIagoGAEAGglpAAzIC6GM6T0RqHP63DijJ8DBv8aNUucCHMQpumkxmaqZsKXr7DiY_AAA_vYSJz0sI-2vgRi95zKhOrwkHmHzeLmBb31WdOp3FglNNAkzjz7pBy_16mubnKQjlAVz8G58SqxCl0aGHyBPX88bo8V_pSseaSzSyHaxuL9Aj4Z6haXGXkfIln-COEG3YfT05nFLksnnMu5LAIhNPHJ-ZsUrcbt-1JjAIUT4H0TSZ-74f11r7r6Wokh-xzcmR76im5Le_e3xj-hNVemCBc18BWU252OnWS72sPzruFv-GvX6cHNXinK7z8UnhElwyL6nf8xDuWcDaM6SgfgxXSAlXoUugsJqQ8JgcuLep9XJVPAAAA.webp",
-      "source_info_link": "https://jatan.space/chandrayaan/"
+      "description": "ISRO Chairman V Narayanan said India is working towards the Gaganyaan human spaceflight mission by 2027, with three uncrewed missions planned ...",
+      "icon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACwBwCdASogACAAPtEutFooIagoGAEAGglsAJ0vwkc5s7pme8jPjUwCPBImuWX9BiuUymjpr8XZXlVapwMyyKKRd28_rZ92AP6dzpNf6dkhjVb43mHffc1lNxGQ1nbh1JJa_1CEDGiXSR6oXQk-3tpRoJrPr-wjzMTuhpauf_Jqk7-UN_vMf_7wX-Yf-PmLy6_akHjwJxJS3xCWYzPlYvJ8g-Zo_KCedxRa6yY2raOsv262v7tF8j8nDlw8L2SZVT5LfuqC5wiXMeeQHSRHUrZ9hsn8EUdaV-W_3_5lvPwrbrjIssTsH8Dx-v_6cMRPwN7rQRlNdKko-iQWlucKH_hFfx7eV1DxEaTs4X6IwgcP1zpJqrnwOWpNQDG1OeouFgGbt-KR2b3mCN1Uk8MVybyPP-Tde_nCy_kJzQYHVHgiBkvR_fkdPz69YgVf5MMZ6nwqIdHvm2zTC2FQL-B9OjPvCwkDYJf-1mBtlPYhdJ-KOgZ1oNQsE4OB-tUfRRgZ0J8wPnUPm29nop5ETXT6GKuBdOxvQxNaGcukAAAA.webp",
+      "source_info_link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/isro-targets-crewed-chandrayaan-missions-by-2028-gaganyaan-for-2027/127970998"
      }
     },
-    "date": "2026-06-08",
-    "displayed_link": "https://jatan.space › chandrayaan",
-    "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBwCdASocABwAPtEutFooIagoGAEAGglpAAzIC6GM6T0RqHP63DijJ8DBv8aNUucCHMQpumkxmaqZsKXr7DiY_AAA_vYSJz0sI-2vgRi95zKhOrwkHmHzeLmBb31WdOp3FglNNAkzjz7pBy_16mubnKQjlAVz8G58SqxCl0aGHyBPX88bo8V_pSseaSzSyHaxuL9Aj4Z6haXGXkfIln-COEG3YfT05nFLksnnMu5LAIhNPHJ-ZsUrcbt-1JjAIUT4H0TSZ-74f11r7r6Wokh-xzcmR76im5Le_e3xj-hNVemCBc18BWU252OnWS72sPzruFv-GvX6cHNXinK7z8UnhElwyL6nf8xDuWcDaM6SgfgxXSAlXoUugsJqQ8JgcuLep9XJVPAAAA.webp",
-    "link": "https://jatan.space/chandrayaan/",
-    "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVfSRJjsfGvUERb-F8TTF5jQStluNFyJuEuDjuhLB-tAJ5P0_UirgbZx0QOputhqbz-X5iztVPPih88QRwCzhL5xeJy3L60lQr688U3-dQJDwG51Y&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQFnoECB4QAQ&uoh=1",
-    "snippet": "Future Chandrayaan missions · Chandrayaan 4 will bring unique Moon materials—and maybe a giant scientific leap for India · The Indo-Japanese ...",
+    "date": "Feb 6, 2026",
+    "displayed_link": "https://manufacturing.economictimes.indiatimes.com › is...",
+    "favicon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACwBwCdASogACAAPtEutFooIagoGAEAGglsAJ0vwkc5s7pme8jPjUwCPBImuWX9BiuUymjpr8XZXlVapwMyyKKRd28_rZ92AP6dzpNf6dkhjVb43mHffc1lNxGQ1nbh1JJa_1CEDGiXSR6oXQk-3tpRoJrPr-wjzMTuhpauf_Jqk7-UN_vMf_7wX-Yf-PmLy6_akHjwJxJS3xCWYzPlYvJ8g-Zo_KCedxRa6yY2raOsv262v7tF8j8nDlw8L2SZVT5LfuqC5wiXMeeQHSRHUrZ9hsn8EUdaV-W_3_5lvPwrbrjIssTsH8Dx-v_6cMRPwN7rQRlNdKko-iQWlucKH_hFfx7eV1DxEaTs4X6IwgcP1zpJqrnwOWpNQDG1OeouFgGbt-KR2b3mCN1Uk8MVybyPP-Tde_nCy_kJzQYHVHgiBkvR_fkdPz69YgVf5MMZ6nwqIdHvm2zTC2FQL-B9OjPvCwkDYJf-1mBtlPYhdJ-KOgZ1oNQsE4OB-tUfRRgZ0J8wPnUPm29nop5ETXT6GKuBdOxvQxNaGcukAAAA.webp",
+    "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/isro-targets-crewed-chandrayaan-missions-by-2028-gaganyaan-for-2027/127970998",
+    "position": 8,
+    "read_more_link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/isro-targets-crewed-chandrayaan-missions-by-2028-gaganyaan-for-2027/127970998#:~:text=ISRO%20Chairman%20V%20Narayanan%20said,with%20three%20uncrewed%20missions%20planned",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0wEB6zswFVu_522kCUixzE5bbveaXNdtxSv1shn8fWrFuJM15djJQBydktpWvogDbfsH497I9USJ49xMS59VptFaFGjbUW2CNc17GUyl6CEy8RjHc7raPl02vOcoa4gRQZ8NvZy-ONLm_S0w8fcNQPKfTXKBqBnb826Zip40fWacBqMMhzSBVYw6IVtFChEPG2McTizpsDCrmuAzniH80I2P934Bvn2HunAwHAlamPm70tDfjyasWQe47YLSoHIVLdGlZl2UvSNx8Y_4NaslVz3l0swH&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQFnoECEkQAQ&uoh=1",
+    "snippet": "ISRO Chairman V Narayanan said India is working towards the Gaganyaan human spaceflight mission by 2027, with three uncrewed missions planned ...",
     "snippet_highlighted_words": [
-     "Chandrayaan 4 will bring unique Moon materials"
+     "India is working towards the Gaganyaan human spaceflight mission by 2027"
     ],
-    "source": "jatan.space 🌙",
-    "title": "Deep dive into India's Chandrayaan Moon missions like ..."
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "India's Chandrayaan-2 Makes Groundbreaking Observation India's Chandrayaan-2 lunar orbiter on Saturday made the first-ever observation of ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "Peržiūrų: daugiau nei 78,8 tūkst. · prieš 11 mėnesių",
-    "duration": "1:42",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=QSUXICN7C20",
-    "position": 10,
-    "snippet": "India's Chandrayaan-2 Makes Groundbreaking Observation India's Chandrayaan-2 lunar orbiter on Saturday made the first-ever observation of ...",
-    "source": "YouTube · WION",
-    "thumbnail": "https://serpapi.com/searches/6aafcb3aa3f7302cc9d46953/images/vJlAKvm7FP4Po8mrkoJR36A3QgDCZAasUYX4XkutZxo.jpeg",
-    "title": "India's Chandrayaan-2 Makes Groundbreaking Observation ...",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTxAOwD-CKSieq1IIOUHPnwyzNWWNDb-WwnuQ"
+    "source": "ET Manufacturing",
+    "title": "ISRO targets crewed Chandrayaan Missions by 2028, ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=10&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8NMDegQIQhAW",
+   "next": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=c16286b74a8621df&sxsrf=APpeQntXg4EuQny2Nas1pyFpK5St3uyRMg:1790544719579&ei=T4u5auv9Io3NkPIP0I_xwQ4&start=10&sa=N&sstk=AS6-VmJT7ehpul1fE4du-I2LdF-m0b8Wj9bwJOHrFm6_sUUMcZmuyBfk3oVirydJ956BwbuB-aVXaJSjNJkbOGC6Rh5vWQSqRnjguw&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQ8NMDegQIPxAI",
    "other_pages": {
-    "10": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=90&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8tMDegQIQhAU",
-    "2": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=10&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8tMDegQIQhAE",
-    "3": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=20&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8tMDegQIQhAG",
-    "4": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=30&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8tMDegQIQhAI",
-    "5": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=40&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8tMDegQIQhAK",
-    "6": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=50&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8tMDegQIQhAM",
-    "7": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=60&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8tMDegQIQhAO",
-    "8": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=70&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8tMDegQIQhAQ",
-    "9": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=932ce377fb08cd9d&ei=O8uvao76FdSo4-EPl6380A8&start=80&sa=N&sstk=AS6-VmIJKwBcTh508NSpjzvOWw4Ab-nFUZjvHdtx9i3TQRa7oCWIxQs0LgKs0g2Hrwq8qiBC4vtz55Jl-GtAZlrkN1fnLS7G-jRcvw&ved=2ahUKEwjOg8q2jv2WAxVU1DgGHZcWH_oQ8tMDegQIQhAS"
+    "2": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=c16286b74a8621df&sxsrf=APpeQntXg4EuQny2Nas1pyFpK5St3uyRMg:1790544719579&ei=T4u5auv9Io3NkPIP0I_xwQ4&start=10&sa=N&sstk=AS6-VmJT7ehpul1fE4du-I2LdF-m0b8Wj9bwJOHrFm6_sUUMcZmuyBfk3oVirydJ956BwbuB-aVXaJSjNJkbOGC6Rh5vWQSqRnjguw&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQ8tMDegQIPxAE",
+    "3": "https://www.google.com/search?q=What+is+the+latest+news+about+India's+Chandrayaan+missions?&sca_esv=c16286b74a8621df&sxsrf=APpeQntXg4EuQny2Nas1pyFpK5St3uyRMg:1790544719579&ei=T4u5auv9Io3NkPIP0I_xwQ4&start=20&sa=N&sstk=AS6-VmJT7ehpul1fE4du-I2LdF-m0b8Wj9bwJOHrFm6_sUUMcZmuyBfk3oVirydJ956BwbuB-aVXaJSjNJkbOGC6Rh5vWQSqRnjguw&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQ8tMDegQIPxAG"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NsSlBhbXgxWjBjemIyMXhabFpmZWtKUFdGSmFXSEkwV25CbE0wMDJSVXBFYmxkcE1FUnFWMmwwTjFSMVpHMXliWEpQVDB0T2RYZElNVE5qWldaMFdVaDZhREZIWjBOU1QzbENRV0pPYldkcVJXcG1jelp4Y3pWNWR4SVhUemgxZG1Gdk56WkdaRk52TkMxRlVHdzJNemd3UVRnYUlrRkVjM0k1WmxGb2QyVnVSSGsyZDB4alVIVnpaRkpKUmxSd2JrRlViSGRHTlZFIiwiZmN2IjoiMyIsImVpIjoiTzh1dmFvNzZGZFNvNC1FUGw2MzgwQTgiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOUJMVXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZXN0IG5ld3Mgb24gdGhlIENoYW5kcmF5YWFuIHByb2dyYW0/IiwibGsiOiJHaFpqYUdGdVpISmhlV0Z1SUd4aGRHVnpkQ0J1WlhkeiIsImJzIjoiYzNXUE1RdkNNQkNGY2MxVUhFU0N5T0ZTTzdpa2kxc0dwLUpRVU1UNWFGTWJNQmRKSXNWX2Ixb29WS2piOGU2OWQ5LXhrdVgzRmdOb0Q2RlY4TVNnZkFCU25RZExnM1Jxa1dxSEgwU0NsN01QaDBhS05WOVZvMDdURkx1eF9iVFFCd3p2Mk5WTWV3NDVrTzJreUhqYXpYcXJ5YzNCeTQ1czk0LXpjZFpBY2IyVVVpeDVvcjJ6UDBCbmxvM0pnbXFOcVFkajQ5S3BTbEdJY196VGFPLTFKU20yZkRPajkwaTZ6eWFMTHciLCJpZCI6ImZjX084dXZhbzc2RmRTbzQtRVBsNjM4MEE4XzYifQ==",
-    "page_token": "y1HVvHicHdDBToMwAADQ-DM7DsrYdEsWEwaFkNC5Am3pxdCywUaBKjiEm__iV_k1Gm_v_L6-1bWtfx5YNQy63xnGOI7LsutKdV7KrjHyfmqlIXOlRC7r3eZxA54vcu_1o3PoRueUak1cbMakMHlQfIgavWQTuOUJhiSRFg3KNSU6xqxgMq1QpGpQ-KHCHjlJHzAecFd45Cggzs-wWFMIHcoyk8P6E3lbnsAilzQDWaM33IShcOFBKsfKbhBLS6-xQnei-JGSesrMqosm0KcMvtFmGyWwCv9MCUhB4sKUwnSVtJXP5pCjWcbQfLILxisxSws3OBHzacDE6dEtsiPPs_1r6OAATUfK00jxRgTSxkGFeZsBobjO6g4gTw1n4s0x2K4WF3nfrxb_Y_vXSzPs9HtX_gLRa3fa",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xXbzNkRE5wUlhKblUwVmtZMFZZZEdkb05IaFdPVzlZV2tzNGVWcHRiVU0wU1RBMGVVcE1UV295WW0xTE1FOUhaMVZWYUc5VlExTTVOV1JXU0VoUWRVWnRTRFJQUnpabFJFbDBaRlIxTFdWRVJFWTFPVWhSYWtSbFFSSVhWRFIxTldGMWRqbEpiek5PYTFCSlVEQkpYM2gzVVRRYUlrRkVjM0k1WmxGUFVsQkRWbTlTT1dwME5sbFVNMFZKVDBoT1RFOWZjRmxEVVdjIiwiZmN2IjoiMyIsImVpIjoiVDR1NWF1djlJbzNOa1BJUDBJX3h3UTQiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOThQWGlQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZXN0IG5ld3Mgb24gdGhlIENoYW5kcmF5YWFuIHByb2dyYW0/IiwibGsiOiJHaFpqYUdGdVpISmhlV0Z1SUd4aGRHVnpkQ0J1WlhkeiIsImJzIjoiYzNXT3Z3dkNNQkNGY2MxVUhQelI2WEIya0FqaTFzSEZUZ1VkbklfbU5BZnRwU1FCN1g5dkRTZ1djYnozN24xOHFsTGJpOFVJSENCYWdnWWpoUWhDOXdCT1VuU3dLTVpqanlqUWVYZnoyQlo2a2NfcWR5N2ZLM1ZVT2dIUjB3X1JFcHFHaFFLd1FDbUdFYUl6MkJkNm1tZnBJNTFETzFScXIxYl8xSzdldFZDZVQxVmFjdkJ1NUZDcTljaUJIaDNWa1V5YVFNc2hzSk1rb1RkNlYtaGxQay1NVDlQd2dIcDEyZVFKIiwiaWQiOiJmY19UNHU1YXV2OUlvM05rUElQMElfeHdRNF81In0=",
+    "page_token": "ZdRmtnicHdBRboIwGADg7DI-ainTDROzyGhBAiWU8oN9WaBMEUHIIAK-7S471U6zZN8Rvu-f-nK7_j6l5TB0_Xa1GsdxeW7bc_25VG2zyvr5plYqq-s8U9ft5mWjvZ3UjvSj-d6OZhh3HVgcCRIi4fiYJUavQD5kSk2RApV6YftITYCnJIi0h7oaVYjHKcfSEhbghKzdnBouYIMKJEWQ1m0BshEzmgNRZ7Fm2n4ar1ltUB_gztFh5oSemB6j3CptSfc4R93meCtJQHjCYtfyoMwyTLloeALOdQxBTYHwMXe6WNykx3TwBD5EVAtRIaAs0uM6Sl4fohnCCPZjBMZzoRFkX1yTO2wOEhlHuq9zhAZuk5lZZhUToyoo93LoUlYdJpW4fHFS952--B_bfZyaYdt9tec__vl05A",
     "question": "What is the latest news on the Chandrayaan program?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y1HVvHicHdDBToMwAADQ-DM7DsrYdEsWEwaFkNC5Am3pxdCywUaBKjiEm__iV_k1Gm_v_L6-1bWtfx5YNQy63xnGOI7LsutKdV7KrjHyfmqlIXOlRC7r3eZxA54vcu_1o3PoRueUak1cbMakMHlQfIgavWQTuOUJhiSRFg3KNSU6xqxgMq1QpGpQ-KHCHjlJHzAecFd45Cggzs-wWFMIHcoyk8P6E3lbnsAilzQDWaM33IShcOFBKsfKbhBLS6-xQnei-JGSesrMqosm0KcMvtFmGyWwCv9MCUhB4sKUwnSVtJXP5pCjWcbQfLILxisxSws3OBHzacDE6dEtsiPPs_1r6OAATUfK00jxRgTSxkGFeZsBobjO6g4gTw1n4s0x2K4WF3nfrxb_Y_vXSzPs9HtX_gLRa3fa",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NsSlBhbXgxWjBjemIyMXhabFpmZWtKUFdGSmFXSEkwV25CbE0wMDJSVXBFYmxkcE1FUnFWMmwwTjFSMVpHMXliWEpQVDB0T2RYZElNVE5qWldaMFdVaDZhREZIWjBOU1QzbENRV0pPYldkcVJXcG1jelp4Y3pWNWR4SVhUemgxZG1Gdk56WkdaRk52TkMxRlVHdzJNemd3UVRnYUlrRkVjM0k1WmxGb2QyVnVSSGsyZDB4alVIVnpaRkpKUmxSd2JrRlViSGRHTlZFIiwiZmN2IjoiMyIsImVpIjoiTzh1dmFvNzZGZFNvNC1FUGw2MzgwQTgiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOUJMVXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZXN0IG5ld3Mgb24gdGhlIENoYW5kcmF5YWFuIHByb2dyYW0%2FIiwibGsiOiJHaFpqYUdGdVpISmhlV0Z1SUd4aGRHVnpkQ0J1WlhkeiIsImJzIjoiYzNXUE1RdkNNQkNGY2MxVUhFU0N5T0ZTTzdpa2kxc0dwLUpRVU1UNWFGTWJNQmRKSXNWX2Ixb29WS2piOGU2OWQ5LXhrdVgzRmdOb0Q2RlY4TVNnZkFCU25RZExnM1Jxa1dxSEgwU0NsN01QaDBhS05WOVZvMDdURkx1eF9iVFFCd3p2Mk5WTWV3NDVrTzJreUhqYXpYcXJ5YzNCeTQ1czk0LXpjZFpBY2IyVVVpeDVvcjJ6UDBCbmxvM0pnbXFOcVFkajQ5S3BTbEdJY196VGFPLTFKU20yZkRPajkwaTZ6eWFMTHciLCJpZCI6ImZjX084dXZhbzc2RmRTbzQtRVBsNjM4MEE4XzYifQ%3D%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZdRmtnicHdBRboIwGADg7DI-ainTDROzyGhBAiWU8oN9WaBMEUHIIAK-7S471U6zZN8Rvu-f-nK7_j6l5TB0_Xa1GsdxeW7bc_25VG2zyvr5plYqq-s8U9ft5mWjvZ3UjvSj-d6OZhh3HVgcCRIi4fiYJUavQD5kSk2RApV6YftITYCnJIi0h7oaVYjHKcfSEhbghKzdnBouYIMKJEWQ1m0BshEzmgNRZ7Fm2n4ar1ltUB_gztFh5oSemB6j3CptSfc4R93meCtJQHjCYtfyoMwyTLloeALOdQxBTYHwMXe6WNykx3TwBD5EVAtRIaAs0uM6Sl4fohnCCPZjBMZzoRFkX1yTO2wOEhlHuq9zhAZuk5lZZhUToyoo93LoUlYdJpW4fHFS952--B_bfZyaYdt9tec__vl05A",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xXbzNkRE5wUlhKblUwVmtZMFZZZEdkb05IaFdPVzlZV2tzNGVWcHRiVU0wU1RBMGVVcE1UV295WW0xTE1FOUhaMVZWYUc5VlExTTVOV1JXU0VoUWRVWnRTRFJQUnpabFJFbDBaRlIxTFdWRVJFWTFPVWhSYWtSbFFSSVhWRFIxTldGMWRqbEpiek5PYTFCSlVEQkpYM2gzVVRRYUlrRkVjM0k1WmxGUFVsQkRWbTlTT1dwME5sbFVNMFZKVDBoT1RFOWZjRmxEVVdjIiwiZmN2IjoiMyIsImVpIjoiVDR1NWF1djlJbzNOa1BJUDBJX3h3UTQiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOThQWGlQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZXN0IG5ld3Mgb24gdGhlIENoYW5kcmF5YWFuIHByb2dyYW0%2FIiwibGsiOiJHaFpqYUdGdVpISmhlV0Z1SUd4aGRHVnpkQ0J1WlhkeiIsImJzIjoiYzNXT3Z3dkNNQkNGY2MxVUhQelI2WEIya0FqaTFzSEZUZ1VkbklfbU5BZnRwU1FCN1g5dkRTZ1djYnozN24xOHFsTGJpOFVJSENCYWdnWWpoUWhDOXdCT1VuU3dLTVpqanlqUWVYZnoyQlo2a2NfcWR5N2ZLM1ZVT2dIUjB3X1JFcHFHaFFLd1FDbUdFYUl6MkJkNm1tZnBJNTFETzFScXIxYl8xSzdldFZDZVQxVmFjdkJ1NUZDcTljaUJIaDNWa1V5YVFNc2hzSk1rb1RkNlYtaGxQay1NVDlQd2dIcDEyZVFKIiwiaWQiOiJmY19UNHU1YXV2OUlvM05rUElQMElfeHdRNF81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NsSlBhbXgxWjBjemIyMXhabFpmZWtKUFdGSmFXSEkwV25CbE0wMDJSVXBFYmxkcE1FUnFWMmwwTjFSMVpHMXliWEpQVDB0T2RYZElNVE5qWldaMFdVaDZhREZIWjBOU1QzbENRV0pPYldkcVJXcG1jelp4Y3pWNWR4SVhUemgxZG1Gdk56WkdaRk52TkMxRlVHdzJNemd3UVRnYUlrRkVjM0k1WmxGb2QyVnVSSGsyZDB4alVIVnpaRkpKUmxSd2JrRlViSGRHTlZFIiwiZmN2IjoiMyIsImVpIjoiTzh1dmFvNzZGZFNvNC1FUGw2MzgwQTgiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOUJMVXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3RhdHVzIG9mIENoYW5kcmF5YWFuLTMgbm93PyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQnpkR0YwZFhNZ2IyWWdZMmhoYm1SeVlYbGhZVzRnTXlCdWIzYyIsImJzIjoiYzNXUE1RdkNNQkNGY2MxVUhFU0N5T0ZTTzdpa2kxc0dwLUpRVU1UNWFGTWJNQmRKSXNWX2Ixb29WS2piOGU2OWQ5LXhrdVgzRmdOb0Q2RlY4TVNnZkFCU25RZExnM1Jxa1dxSEgwU0NsN01QaDBhS05WOVZvMDdURkx1eF9iVFFCd3p2Mk5WTWV3NDVrTzJreUhqYXpYcXJ5YzNCeTQ1czk0LXpjZFpBY2IyVVVpeDVvcjJ6UDBCbmxvM0pnbXFOcVFkajQ5S3BTbEdJY196VGFPLTFKU20yZkRPajkwaTZ6eWFMTHciLCJpZCI6ImZjX084dXZhbzc2RmRTbzQtRVBsNjM4MEE4XzYifQ==",
-    "page_token": "gLC7K3icHdBLcoIwAADQ6WVcykex4ozTKQIi1dAkJAE2nRBUhPCxIqi73qWn6mna6RHe-_qWp7r8eerzrmsvC0UZhmF8bJqj3I9FUyn8cq-FIriUKRflYvY8014OYulcN9bqvLEgaVtqIxVTX2UnrUcOAIHju9kkwzEzKC-SPtFjdUugJqJsm5C8weHxFq7RHUYZRuthgBKoiWpOQSG5iCSEoX_ZYW1FvKbjKsB74uu8iu8ZM89p_dqlBaK0dn1UGQ6mraRl3u3DHAjXnBI16bLCumYe1EVlRLiEOrdRHE7kCnuU8JXmsbWxQyz38YPc0drvUeTGSG_5NpJhyExCPat28uw98Kges_kElElJ9PmfgcLUjh-BbVmB1ZwgQQ9RyIpQ6QURGqBq6oCZb5giBGRsMHarwzJxhHSrZBgdRL-cjP4_lx-Hqlu0n83xF1ulgeI",
-    "question": "What is the status of Chandrayaan-3 now?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gLC7K3icHdBLcoIwAADQ6WVcykex4ozTKQIi1dAkJAE2nRBUhPCxIqi73qWn6mna6RHe-_qWp7r8eerzrmsvC0UZhmF8bJqj3I9FUyn8cq-FIriUKRflYvY8014OYulcN9bqvLEgaVtqIxVTX2UnrUcOAIHju9kkwzEzKC-SPtFjdUugJqJsm5C8weHxFq7RHUYZRuthgBKoiWpOQSG5iCSEoX_ZYW1FvKbjKsB74uu8iu8ZM89p_dqlBaK0dn1UGQ6mraRl3u3DHAjXnBI16bLCumYe1EVlRLiEOrdRHE7kCnuU8JXmsbWxQyz38YPc0drvUeTGSG_5NpJhyExCPat28uw98Kges_kElElJ9PmfgcLUjh-BbVmB1ZwgQQ9RyIpQ6QURGqBq6oCZb5giBGRsMHarwzJxhHSrZBgdRL-cjP4_lx-Hqlu0n83xF1ulgeI",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NsSlBhbXgxWjBjemIyMXhabFpmZWtKUFdGSmFXSEkwV25CbE0wMDJSVXBFYmxkcE1FUnFWMmwwTjFSMVpHMXliWEpQVDB0T2RYZElNVE5qWldaMFdVaDZhREZIWjBOU1QzbENRV0pPYldkcVJXcG1jelp4Y3pWNWR4SVhUemgxZG1Gdk56WkdaRk52TkMxRlVHdzJNemd3UVRnYUlrRkVjM0k1WmxGb2QyVnVSSGsyZDB4alVIVnpaRkpKUmxSd2JrRlViSGRHTlZFIiwiZmN2IjoiMyIsImVpIjoiTzh1dmFvNzZGZFNvNC1FUGw2MzgwQTgiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOUJMVXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3RhdHVzIG9mIENoYW5kcmF5YWFuLTMgbm93PyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQnpkR0YwZFhNZ2IyWWdZMmhoYm1SeVlYbGhZVzRnTXlCdWIzYyIsImJzIjoiYzNXUE1RdkNNQkNGY2MxVUhFU0N5T0ZTTzdpa2kxc0dwLUpRVU1UNWFGTWJNQmRKSXNWX2Ixb29WS2piOGU2OWQ5LXhrdVgzRmdOb0Q2RlY4TVNnZkFCU25RZExnM1Jxa1dxSEgwU0NsN01QaDBhS05WOVZvMDdURkx1eF9iVFFCd3p2Mk5WTWV3NDVrTzJreUhqYXpYcXJ5YzNCeTQ1czk0LXpjZFpBY2IyVVVpeDVvcjJ6UDBCbmxvM0pnbXFOcVFkajQ5S3BTbEdJY196VGFPLTFKU20yZkRPajkwaTZ6eWFMTHciLCJpZCI6ImZjX084dXZhbzc2RmRTbzQtRVBsNjM4MEE4XzYifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xXbzNkRE5wUlhKblUwVmtZMFZZZEdkb05IaFdPVzlZV2tzNGVWcHRiVU0wU1RBMGVVcE1UV295WW0xTE1FOUhaMVZWYUc5VlExTTVOV1JXU0VoUWRVWnRTRFJQUnpabFJFbDBaRlIxTFdWRVJFWTFPVWhSYWtSbFFSSVhWRFIxTldGMWRqbEpiek5PYTFCSlVEQkpYM2gzVVRRYUlrRkVjM0k1WmxGUFVsQkRWbTlTT1dwME5sbFVNMFZKVDBoT1RFOWZjRmxEVVdjIiwiZmN2IjoiMyIsImVpIjoiVDR1NWF1djlJbzNOa1BJUDBJX3h3UTQiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOThQWGlQZyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGxhdGVzdCBuZXdzIGhlYWRsaW5lcyBpbiBJbmRpYSB0b2RheT8iLCJsayI6IkdoQnVaWGR6SUhSdlpHRjVJR2x1WkdsaCIsImJzIjoiYzNXT3Z3dkNNQkNGY2MxVUhQelI2WEIya0FqaTFzSEZUZ1VkbklfbU5BZnRwU1FCN1g5dkRTZ1djYnozN24xOHFsTGJpOFVJSENCYWdnWWpoUWhDOXdCT1VuU3dLTVpqanlqUWVYZnoyQlo2a2NfcWR5N2ZLM1ZVT2dIUjB3X1JFcHFHaFFLd1FDbUdFYUl6MkJkNm1tZnBJNTFETzFScXIxYl8xSzdldFZDZVQxVmFjdkJ1NUZDcTljaUJIaDNWa1V5YVFNc2hzSk1rb1RkNlYtaGxQay1NVDlQd2dIcDEyZVFKIiwiaWQiOiJmY19UNHU1YXV2OUlvM05rUElQMElfeHdRNF81In0=",
+    "page_token": "EIG2bXicHZBbjpswGEY1m5nHSQxKOo0UVWKwQzzBGRP-n8tLZWxyw1zKIFLy1i10DV1VV9Oor5-OdI6-X3_span-Pv0-D0P3uZrNbrfby6ltT7Z80W09U59To2daWVsoXa2WX5bk21Gv6ai9t157EroO_Wh-qK2r0vOixLzL0ARR6m0M2c6zO4Y5RG4SRIFiea3cbhLzPAX8Ou1i3heNGcuqJYjIQ9--AbAmr7jVKRfAmL8HIYrKfOQ1dwqbvyuKNRB-eGyDRpjk3eMqtgxj42oXkwezOUDmZEAylTDngCIyjNO9Hw7g86FAukiuZhfWOImGXYx73up4OyDlP5MGu0erBAcH1dgxalibIWbSij6sia8SsixTfqdnAyJ4CFJ09mDHcL7ogVoZUnssAxMJr71IiO76amuI2Y-EvpLcZbSALhMp5mpDZEy6XXbdOrIRnpTPRz2u3ef_X6-_H-th1fXt6R-IOIyZ",
+    "question": "What are the latest news headlines in India today?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EIG2bXicHZBbjpswGEY1m5nHSQxKOo0UVWKwQzzBGRP-n8tLZWxyw1zKIFLy1i10DV1VV9Oor5-OdI6-X3_span-Pv0-D0P3uZrNbrfby6ltT7Z80W09U59To2daWVsoXa2WX5bk21Gv6ai9t157EroO_Wh-qK2r0vOixLzL0ARR6m0M2c6zO4Y5RG4SRIFiea3cbhLzPAX8Ou1i3heNGcuqJYjIQ9--AbAmr7jVKRfAmL8HIYrKfOQ1dwqbvyuKNRB-eGyDRpjk3eMqtgxj42oXkwezOUDmZEAylTDngCIyjNO9Hw7g86FAukiuZhfWOImGXYx73up4OyDlP5MGu0erBAcH1dgxalibIWbSij6sia8SsixTfqdnAyJ4CFJ09mDHcL7ogVoZUnssAxMJr71IiO76amuI2Y-EvpLcZbSALhMp5mpDZEy6XXbdOrIRnpTPRz2u3ef_X6-_H-th1fXt6R-IOIyZ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xXbzNkRE5wUlhKblUwVmtZMFZZZEdkb05IaFdPVzlZV2tzNGVWcHRiVU0wU1RBMGVVcE1UV295WW0xTE1FOUhaMVZWYUc5VlExTTVOV1JXU0VoUWRVWnRTRFJQUnpabFJFbDBaRlIxTFdWRVJFWTFPVWhSYWtSbFFSSVhWRFIxTldGMWRqbEpiek5PYTFCSlVEQkpYM2gzVVRRYUlrRkVjM0k1WmxGUFVsQkRWbTlTT1dwME5sbFVNMFZKVDBoT1RFOWZjRmxEVVdjIiwiZmN2IjoiMyIsImVpIjoiVDR1NWF1djlJbzNOa1BJUDBJX3h3UTQiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOThQWGlQZyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGxhdGVzdCBuZXdzIGhlYWRsaW5lcyBpbiBJbmRpYSB0b2RheT8iLCJsayI6IkdoQnVaWGR6SUhSdlpHRjVJR2x1WkdsaCIsImJzIjoiYzNXT3Z3dkNNQkNGY2MxVUhQelI2WEIya0FqaTFzSEZUZ1VkbklfbU5BZnRwU1FCN1g5dkRTZ1djYnozN24xOHFsTGJpOFVJSENCYWdnWWpoUWhDOXdCT1VuU3dLTVpqanlqUWVYZnoyQlo2a2NfcWR5N2ZLM1ZVT2dIUjB3X1JFcHFHaFFLd1FDbUdFYUl6MkJkNm1tZnBJNTFETzFScXIxYl8xSzdldFZDZVQxVmFjdkJ1NUZDcTljaUJIaDNWa1V5YVFNc2hzSk1rb1RkNlYtaGxQay1NVDlQd2dIcDEyZVFKIiwiaWQiOiJmY19UNHU1YXV2OUlvM05rUElQMElfeHdRNF81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NsSlBhbXgxWjBjemIyMXhabFpmZWtKUFdGSmFXSEkwV25CbE0wMDJSVXBFYmxkcE1FUnFWMmwwTjFSMVpHMXliWEpQVDB0T2RYZElNVE5qWldaMFdVaDZhREZIWjBOU1QzbENRV0pPYldkcVJXcG1jelp4Y3pWNWR4SVhUemgxZG1Gdk56WkdaRk52TkMxRlVHdzJNemd3UVRnYUlrRkVjM0k1WmxGb2QyVnVSSGsyZDB4alVIVnpaRkpKUmxSd2JrRlViSGRHTlZFIiwiZmN2IjoiMyIsImVpIjoiTzh1dmFvNzZGZFNvNC1FUGw2MzgwQTgiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOUJMVXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZXN0IG5ld3MgZnJvbSBJU1JPPyIsImxrIjoiR2hCcGMzSnZJR3hoZEdWemRDQnVaWGR6IiwiYnMiOiJjM1dQTVF2Q01CQ0ZjYzFVSEVTQ3lPRlNPN2lraTFzR3AtSlFVTVQ1YUZNYk1CZEpJc1ZfYjFvb1ZLamI4ZTY5ZDkteGt1WDNGZ05vRDZGVjhNU2dmQUJTblFkTGczUnFrV3FISDBTQ2w3TVBoMGFLTlY5Vm8wN1RGTHV4X2JUUUJ3enYyTlZNZXc0NWtPMmt5SGphelhxcnljM0J5NDVzOTQtemNkWkFjYjJVVWl4NW9yMnpQMEJubG8zSmdtcU5xUWRqNDlLcFNsR0ljX3pUYU8tMUpTbTJmRE9qOTBpNnp5YUxMdyIsImlkIjoiZmNfTzh1dmFvNzZGZFNvNC1FUGw2MzgwQThfNiJ9",
-    "page_token": "HphDXHicHdBdboIwAADg7DI-KuDPnIlZghSBCK7FlsrLUloVoQVUBtq33WWn2mlmdoMv3_ePPFfl70uXt21zW4xGfd8PT3V9kochr9WI3R4VH3EmZcZ4uZi9zsz3I1-CL99eXXwb4qYhDjLiyr1wQHYHaedZJc2QoI5Xacw897rBUu1l4yNaa7zOqSigxkZUYitd7VSguBk1mWovGLQAS6DDgrgIt4BqESBj-gWLIKBGbTEzOiMpSeg1j0wG0ZbkcVL2E4JJHyawx5acJdQGjIoOWg3NHmZ0qIIgHLvrcBw4iRNNhBY9Iu6ZlHeIHTHjSpg7krIQ-BpSGWcaEeYJBHLxsfWItU_m46hMn9a5scEEZs5ebx3b3tr1GWKkeSEVWQuaOjbeefkqq8SdPS9SRay4RH4C3qZJkedpPzjybjke_H8uP4-qXTTX-vQH3smEyg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xXbzNkRE5wUlhKblUwVmtZMFZZZEdkb05IaFdPVzlZV2tzNGVWcHRiVU0wU1RBMGVVcE1UV295WW0xTE1FOUhaMVZWYUc5VlExTTVOV1JXU0VoUWRVWnRTRFJQUnpabFJFbDBaRlIxTFdWRVJFWTFPVWhSYWtSbFFSSVhWRFIxTldGMWRqbEpiek5PYTFCSlVEQkpYM2gzVVRRYUlrRkVjM0k1WmxGUFVsQkRWbTlTT1dwME5sbFVNMFZKVDBoT1RFOWZjRmxEVVdjIiwiZmN2IjoiMyIsImVpIjoiVDR1NWF1djlJbzNOa1BJUDBJX3h3UTQiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOThQWGlQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZXN0IG5ld3MgZnJvbSBJU1JPPyIsImxrIjoiR2hCcGMzSnZJR3hoZEdWemRDQnVaWGR6IiwiYnMiOiJjM1dPdnd2Q01CQ0ZjYzFVSFB6UjZYQjJrQWppMXNIRlRnVWRuSV9tTkFmdHBTUUI3WDl2RFNnV2NiejM3bjE4cWxMYmk4VUlIQ0JhZ2dZamhRaEM5d0JPVW5Td0tNWmpqeWpRZVhmejJCWjZrY19xZHk3ZkszVlVPZ0hSMHdfUkVwcUdoUUt3UUNtR0VhSXoyQmQ2bW1mcEk1MURPMVJxcjFiXzFLN2V0VkNlVDFWYWN2QnU1RkNxOWNpQkhoM1ZrVXlhUU1zaHNKTWtvVGQ2Vi1obFBrLU1UOVB3Z0hwMTJlUUoiLCJpZCI6ImZjX1Q0dTVhdXY5SW8zTmtQSVAwSV94d1E0XzUifQ==",
+    "page_token": "bThx2XicHdDbboIwGADg7GW81ILBbSZmCbOcMuootFRuFmzlYH-BORTwbu-yp9rTLNn3CN_3D9SN_n24VX3ffa0Xi2EY5mXblnCcy_a8yL-mRi5kDnDIpV6vHlfGSyE3-Orbr5--HbGu41uKYqEyslQix7TgJgwRKq0std4OZp8ot5r26fjOGdFxwo2Iw5Vs1VbhEaXnvkk0H3duRiKzD3ZcGWmMEBfYPGqnz5dVwE7VSJ2KHkRphI4dRKLiselPOQYgtVEnJtVZ011Cj16lcFxlBsWekWHndUWClJ9ANVEcnBL07BAnc2P2ZGXNfqCpxUMB9xScG0WqjrlchprbPAUbV4oRjxl7wc0dg1uIrAvDEIUYiqOnKLHbOmL0Lk9wZokdSsNHxKNbJpSbCwJE91dqED91acw0GdUwK-Rts5z9f24-inO_7i5t-Qf0sYLZ",
     "question": "What is the latest news from ISRO?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HphDXHicHdBdboIwAADg7DI-KuDPnIlZghSBCK7FlsrLUloVoQVUBtq33WWn2mlmdoMv3_ePPFfl70uXt21zW4xGfd8PT3V9kochr9WI3R4VH3EmZcZ4uZi9zsz3I1-CL99eXXwb4qYhDjLiyr1wQHYHaedZJc2QoI5Xacw897rBUu1l4yNaa7zOqSigxkZUYitd7VSguBk1mWovGLQAS6DDgrgIt4BqESBj-gWLIKBGbTEzOiMpSeg1j0wG0ZbkcVL2E4JJHyawx5acJdQGjIoOWg3NHmZ0qIIgHLvrcBw4iRNNhBY9Iu6ZlHeIHTHjSpg7krIQ-BpSGWcaEeYJBHLxsfWItU_m46hMn9a5scEEZs5ebx3b3tr1GWKkeSEVWQuaOjbeefkqq8SdPS9SRay4RH4C3qZJkedpPzjybjke_H8uP4-qXTTX-vQH3smEyg",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NsSlBhbXgxWjBjemIyMXhabFpmZWtKUFdGSmFXSEkwV25CbE0wMDJSVXBFYmxkcE1FUnFWMmwwTjFSMVpHMXliWEpQVDB0T2RYZElNVE5qWldaMFdVaDZhREZIWjBOU1QzbENRV0pPYldkcVJXcG1jelp4Y3pWNWR4SVhUemgxZG1Gdk56WkdaRk52TkMxRlVHdzJNemd3UVRnYUlrRkVjM0k1WmxGb2QyVnVSSGsyZDB4alVIVnpaRkpKUmxSd2JrRlViSGRHTlZFIiwiZmN2IjoiMyIsImVpIjoiTzh1dmFvNzZGZFNvNC1FUGw2MzgwQTgiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOUJMVXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZXN0IG5ld3MgZnJvbSBJU1JPPyIsImxrIjoiR2hCcGMzSnZJR3hoZEdWemRDQnVaWGR6IiwiYnMiOiJjM1dQTVF2Q01CQ0ZjYzFVSEVTQ3lPRlNPN2lraTFzR3AtSlFVTVQ1YUZNYk1CZEpJc1ZfYjFvb1ZLamI4ZTY5ZDkteGt1WDNGZ05vRDZGVjhNU2dmQUJTblFkTGczUnFrV3FISDBTQ2w3TVBoMGFLTlY5Vm8wN1RGTHV4X2JUUUJ3enYyTlZNZXc0NWtPMmt5SGphelhxcnljM0J5NDVzOTQtemNkWkFjYjJVVWl4NW9yMnpQMEJubG8zSmdtcU5xUWRqNDlLcFNsR0ljX3pUYU8tMUpTbTJmRE9qOTBpNnp5YUxMdyIsImlkIjoiZmNfTzh1dmFvNzZGZFNvNC1FUGw2MzgwQThfNiJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bThx2XicHdDbboIwGADg7GW81ILBbSZmCbOcMuootFRuFmzlYH-BORTwbu-yp9rTLNn3CN_3D9SN_n24VX3ffa0Xi2EY5mXblnCcy_a8yL-mRi5kDnDIpV6vHlfGSyE3-Orbr5--HbGu41uKYqEyslQix7TgJgwRKq0std4OZp8ot5r26fjOGdFxwo2Iw5Vs1VbhEaXnvkk0H3duRiKzD3ZcGWmMEBfYPGqnz5dVwE7VSJ2KHkRphI4dRKLiselPOQYgtVEnJtVZ011Cj16lcFxlBsWekWHndUWClJ9ANVEcnBL07BAnc2P2ZGXNfqCpxUMB9xScG0WqjrlchprbPAUbV4oRjxl7wc0dg1uIrAvDEIUYiqOnKLHbOmL0Lk9wZokdSsNHxKNbJpSbCwJE91dqED91acw0GdUwK-Rts5z9f24-inO_7i5t-Qf0sYLZ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xXbzNkRE5wUlhKblUwVmtZMFZZZEdkb05IaFdPVzlZV2tzNGVWcHRiVU0wU1RBMGVVcE1UV295WW0xTE1FOUhaMVZWYUc5VlExTTVOV1JXU0VoUWRVWnRTRFJQUnpabFJFbDBaRlIxTFdWRVJFWTFPVWhSYWtSbFFSSVhWRFIxTldGMWRqbEpiek5PYTFCSlVEQkpYM2gzVVRRYUlrRkVjM0k1WmxGUFVsQkRWbTlTT1dwME5sbFVNMFZKVDBoT1RFOWZjRmxEVVdjIiwiZmN2IjoiMyIsImVpIjoiVDR1NWF1djlJbzNOa1BJUDBJX3h3UTQiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOThQWGlQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZXN0IG5ld3MgZnJvbSBJU1JPPyIsImxrIjoiR2hCcGMzSnZJR3hoZEdWemRDQnVaWGR6IiwiYnMiOiJjM1dPdnd2Q01CQ0ZjYzFVSFB6UjZYQjJrQWppMXNIRlRnVWRuSV9tTkFmdHBTUUI3WDl2RFNnV2NiejM3bjE4cWxMYmk4VUlIQ0JhZ2dZamhRaEM5d0JPVW5Td0tNWmpqeWpRZVhmejJCWjZrY19xZHk3ZkszVlVPZ0hSMHdfUkVwcUdoUUt3UUNtR0VhSXoyQmQ2bW1mcEk1MURPMVJxcjFiXzFLN2V0VkNlVDFWYWN2QnU1RkNxOWNpQkhoM1ZrVXlhUU1zaHNKTWtvVGQ2Vi1obFBrLU1UOVB3Z0hwMTJlUUoiLCJpZCI6ImZjX1Q0dTVhdXY5SW8zTmtQSVAwSV94d1E0XzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NsSlBhbXgxWjBjemIyMXhabFpmZWtKUFdGSmFXSEkwV25CbE0wMDJSVXBFYmxkcE1FUnFWMmwwTjFSMVpHMXliWEpQVDB0T2RYZElNVE5qWldaMFdVaDZhREZIWjBOU1QzbENRV0pPYldkcVJXcG1jelp4Y3pWNWR4SVhUemgxZG1Gdk56WkdaRk52TkMxRlVHdzJNemd3UVRnYUlrRkVjM0k1WmxGb2QyVnVSSGsyZDB4alVIVnpaRkpKUmxSd2JrRlViSGRHTlZFIiwiZmN2IjoiMyIsImVpIjoiTzh1dmFvNzZGZFNvNC1FUGw2MzgwQTgiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOUJMVXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBJbmRpYSdzIG1vc3QgcmVjZW50IG1vb24gbWlzc2lvbj8iLCJsayI6IkdoeHlaV05sYm5RZ2JXOXZiaUJ0YVhOemFXOXVJRzltSUdsdVpHbGgiLCJicyI6ImMzV1BNUXZDTUJDRmNjMVVIRVNDeU9GU083aWtpMXNHcC1KUVVNVDVhRk1iTUJkSklzVl9iMW9vVktqYjhlNjlkOS14a3VYM0ZnTm9ENkZWOE1TZ2ZBQlNuUWRMZzNScWtXcUhIMFNDbDdNUGgwYUtOVjlWbzA3VEZMdXhfYlRRQnd6djJOVk1ldzQ1a08ya3lIamF6WHFyeWMzQnk0NXM5NC16Y2RaQWNiMlVVaXg1b3IyelAwQm5sbzNKZ21xTnFRZGo0OUtwU2xHSWNfelRhTy0xSlNtMmZET2o5MGk2enlhTEx3IiwiaWQiOiJmY19POHV2YW83NkZkU280LUVQbDYzODBBOF82In0=",
-    "page_token": "2h7GenicHdBdboIwAADg7DI-Sis_myZmCVJwRCCUtkBfFihgFRAizRDfdpedaqdZsu8I3_dPd7m1vy-ZVGqcdpo2z_P6PAznrl6LodeKabkJTRRdVxai3VmvFnxvxB5Ns30YZjum48gcDJJNR7g7njLIo4S1RtW5XU2lGS7ADBC0asfOi9Y8EJdNNQmvca8ORJdpTOnCW0mY40dB_wgZMCB-cofBKsiJ3QgwgAixD9YqlUE5Ml0-hAdg3WKZQx-EgBkcVUsOVFRkflpRs8OI38ujGyRpdTwRe4nB9pYQ26oRPpY9BPQqk5SixAVvRpVxWT7FBveYlM9YYWZP4TUwAoQM7-Lb-BguUcpx4m1NQcMZ9ybNCY-FOwACq556ygkp9jOw1VeN-Nrrq_-x_WfTq914H85_9RV14g",
-    "question": "What is India's most recent moon mission?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2h7GenicHdBdboIwAADg7DI-Sis_myZmCVJwRCCUtkBfFihgFRAizRDfdpedaqdZsu8I3_dPd7m1vy-ZVGqcdpo2z_P6PAznrl6LodeKabkJTRRdVxai3VmvFnxvxB5Ns30YZjum48gcDJJNR7g7njLIo4S1RtW5XU2lGS7ADBC0asfOi9Y8EJdNNQmvca8ORJdpTOnCW0mY40dB_wgZMCB-cofBKsiJ3QgwgAixD9YqlUE5Ml0-hAdg3WKZQx-EgBkcVUsOVFRkflpRs8OI38ujGyRpdTwRe4nB9pYQ26oRPpY9BPQqk5SixAVvRpVxWT7FBveYlM9YYWZP4TUwAoQM7-Lb-BguUcpx4m1NQcMZ9ybNCY-FOwACq556ygkp9jOw1VeN-Nrrq_-x_WfTq914H85_9RV14g",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NsSlBhbXgxWjBjemIyMXhabFpmZWtKUFdGSmFXSEkwV25CbE0wMDJSVXBFYmxkcE1FUnFWMmwwTjFSMVpHMXliWEpQVDB0T2RYZElNVE5qWldaMFdVaDZhREZIWjBOU1QzbENRV0pPYldkcVJXcG1jelp4Y3pWNWR4SVhUemgxZG1Gdk56WkdaRk52TkMxRlVHdzJNemd3UVRnYUlrRkVjM0k1WmxGb2QyVnVSSGsyZDB4alVIVnpaRkpKUmxSd2JrRlViSGRHTlZFIiwiZmN2IjoiMyIsImVpIjoiTzh1dmFvNzZGZFNvNC1FUGw2MzgwQTgiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOUJMVXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBJbmRpYSdzIG1vc3QgcmVjZW50IG1vb24gbWlzc2lvbj8iLCJsayI6IkdoeHlaV05sYm5RZ2JXOXZiaUJ0YVhOemFXOXVJRzltSUdsdVpHbGgiLCJicyI6ImMzV1BNUXZDTUJDRmNjMVVIRVNDeU9GU083aWtpMXNHcC1KUVVNVDVhRk1iTUJkSklzVl9iMW9vVktqYjhlNjlkOS14a3VYM0ZnTm9ENkZWOE1TZ2ZBQlNuUWRMZzNScWtXcUhIMFNDbDdNUGgwYUtOVjlWbzA3VEZMdXhfYlRRQnd6djJOVk1ldzQ1a08ya3lIamF6WHFyeWMzQnk0NXM5NC16Y2RaQWNiMlVVaXg1b3IyelAwQm5sbzNKZ21xTnFRZGo0OUtwU2xHSWNfelRhTy0xSlNtMmZET2o5MGk2enlhTEx3IiwiaWQiOiJmY19POHV2YW83NkZkU280LUVQbDYzODBBOF82In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xXbzNkRE5wUlhKblUwVmtZMFZZZEdkb05IaFdPVzlZV2tzNGVWcHRiVU0wU1RBMGVVcE1UV295WW0xTE1FOUhaMVZWYUc5VlExTTVOV1JXU0VoUWRVWnRTRFJQUnpabFJFbDBaRlIxTFdWRVJFWTFPVWhSYWtSbFFSSVhWRFIxTldGMWRqbEpiek5PYTFCSlVEQkpYM2gzVVRRYUlrRkVjM0k1WmxGUFVsQkRWbTlTT1dwME5sbFVNMFZKVDBoT1RFOWZjRmxEVVdjIiwiZmN2IjoiMyIsImVpIjoiVDR1NWF1djlJbzNOa1BJUDBJX3h3UTQiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOThQWGlQZyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGV4cGVjdGVkIElTUk8gbWlzc2lvbnMgaW4gMjAyNj8iLCJsayI6IkdoZHBjM0p2SUcxcGMzTnBiMjV6SUd4cGMzUWdNakF5TmciLCJicyI6ImMzV092d3ZDTUJDRmNjMVVIUHpSNlhCMmtBamkxc0hGVGdVZG5JX21OQWZ0cFNRQjdYOXZEU2dXY2J6MzduMThxbExiaThVSUhDQmFnZ1lqaFFoQzl3Qk9VblN3S01aamp5alFlWGZ6MkJaNmtjX3FkeTdmSzNWVU9nSFIwd19SRXBxR2hRS3dRQ21HRWFJejJCZDZtbWZwSTUxRE8xUnFyMWJfMUs3ZXRWQ2VUMVZhY3ZCdTVGQ3E5Y2lCSGgzVmtVeWFRTXNoc0pNa29UZDZWLWhsUGstTVQ5UHdnSHAxMmVRSiIsImlkIjoiZmNfVDR1NWF1djlJbzNOa1BJUDBJX3h3UTRfNSJ9",
+    "page_token": "XMnqnnicHZDNboJAFEbTl3FZAYuNJqYJOhSNYhnmDjCbBmZQlDsw_lTUXd-lT9Wnqen-S8453_cP7pr69-lSnc_mNO73u6573rbtFstn2ep-fro1si9zxCKX9Xj4OrTfNnJCvube9DD3IjCGz6gVW8IIGBEJ6iXR7nuJZlhooQtiYwhdB_5iFycmie80UY76yrQKimbrlrPQigZ-yh2VLeFkF2BczuAaWZyFtW-zvZgywp3cXvjAPZulD5aD1yUoolK_iW_WY199lAnfrdMqFKj4ClsbkO8VUAP72mIzGlAHrTVfaJmaSiB1s7sa5o0IQFfLIvEPOfcwJ8gl83ReK0oqBWEAdvYwWwNeVpZ7BILRiuCmDBQNvXYXAb3LPWqo3erRPAvBtGIgFgr5NU5EzFKTsXp0UvfqprreRl4mg97_n5PPjT6PzbHd_gEjyoRZ",
+    "question": "What are the expected ISRO missions in 2026?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XMnqnnicHZDNboJAFEbTl3FZAYuNJqYJOhSNYhnmDjCbBmZQlDsw_lTUXd-lT9Wnqen-S8453_cP7pr69-lSnc_mNO73u6573rbtFstn2ep-fro1si9zxCKX9Xj4OrTfNnJCvube9DD3IjCGz6gVW8IIGBEJ6iXR7nuJZlhooQtiYwhdB_5iFycmie80UY76yrQKimbrlrPQigZ-yh2VLeFkF2BczuAaWZyFtW-zvZgywp3cXvjAPZulD5aD1yUoolK_iW_WY199lAnfrdMqFKj4ClsbkO8VUAP72mIzGlAHrTVfaJmaSiB1s7sa5o0IQFfLIvEPOfcwJ8gl83ReK0oqBWEAdvYwWwNeVpZ7BILRiuCmDBQNvXYXAb3LPWqo3erRPAvBtGIgFgr5NU5EzFKTsXp0UvfqprreRl4mg97_n5PPjT6PzbHd_gEjyoRZ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xXbzNkRE5wUlhKblUwVmtZMFZZZEdkb05IaFdPVzlZV2tzNGVWcHRiVU0wU1RBMGVVcE1UV295WW0xTE1FOUhaMVZWYUc5VlExTTVOV1JXU0VoUWRVWnRTRFJQUnpabFJFbDBaRlIxTFdWRVJFWTFPVWhSYWtSbFFSSVhWRFIxTldGMWRqbEpiek5PYTFCSlVEQkpYM2gzVVRRYUlrRkVjM0k1WmxGUFVsQkRWbTlTT1dwME5sbFVNMFZKVDBoT1RFOWZjRmxEVVdjIiwiZmN2IjoiMyIsImVpIjoiVDR1NWF1djlJbzNOa1BJUDBJX3h3UTQiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JzWVhSbGMzUWdibVYzY3lCaFltOTFkQ0JwYm1ScFlTZHpJR05vWVc1a2NtRjVZV0Z1SUcxcGMzTnBiMjV6RUFCOThQWGlQZyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGV4cGVjdGVkIElTUk8gbWlzc2lvbnMgaW4gMjAyNj8iLCJsayI6IkdoZHBjM0p2SUcxcGMzTnBiMjV6SUd4cGMzUWdNakF5TmciLCJicyI6ImMzV092d3ZDTUJDRmNjMVVIUHpSNlhCMmtBamkxc0hGVGdVZG5JX21OQWZ0cFNRQjdYOXZEU2dXY2J6MzduMThxbExiaThVSUhDQmFnZ1lqaFFoQzl3Qk9VblN3S01aamp5alFlWGZ6MkJaNmtjX3FkeTdmSzNWVU9nSFIwd19SRXBxR2hRS3dRQ21HRWFJejJCZDZtbWZwSTUxRE8xUnFyMWJfMUs3ZXRWQ2VUMVZhY3ZCdTVGQ3E5Y2lCSGgzVmtVeWFRTXNoc0pNa29UZDZWLWhsUGstTVQ5UHdnSHAxMmVRSiIsImlkIjoiZmNfVDR1NWF1djlJbzNOa1BJUDBJX3h3UTRfNSJ9",
     "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQntXg4EuQny2Nas1pyFpK5St3uyRMg:1790544719579&q=What+is+the+latest+news+about+india%27s+chandrayaan+missions+today&sa=X&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQ1QJ6BAhBEAE",
+    "query": "What is the latest news about india's chandrayaan missions today",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+india%27s+chandrayaan+missions+today"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQntXg4EuQny2Nas1pyFpK5St3uyRMg:1790544719579&q=Chandrayaan-3&sa=X&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQ1QJ6BAhEEAE",
+    "query": "Chandrayaan-3",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chandrayaan-3"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQntXg4EuQny2Nas1pyFpK5St3uyRMg:1790544719579&q=Chandrayaan-4&sa=X&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQ1QJ6BAhFEAE",
+    "query": "Chandrayaan-4",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chandrayaan-4"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQntXg4EuQny2Nas1pyFpK5St3uyRMg:1790544719579&q=Chandrayaan-5&sa=X&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQ1QJ6BAhDEAE",
+    "query": "Chandrayaan-5",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chandrayaan-5"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQntXg4EuQny2Nas1pyFpK5St3uyRMg:1790544719579&q=Gaganyaan+mission&sa=X&ved=2ahUKEwir4dvv2o-XAxWNJkQIHdBHPOgQ1QJ6BAhCEAE",
+    "query": "Gaganyaan mission",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gaganyaan+mission"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "What is the latest news about India's Chandrayaan missions?",
-   "time_taken_displayed": 0.25,
-   "total_results": 138
+   "time_taken_displayed": 0.27,
+   "total_results": 75600
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:02:02 UTC",
+   "created_at": "2026-09-27 21:31:59 UTC",
    "google_url": "https://www.google.com/search?q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&oq=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcb3aa3f7302cc9d46953",
-   "json_endpoint": "https://serpapi.com/searches/VhqmdXoxrSd9SFD6__jlFF3fKSS8KPDCnIDTEGBvGsw/6aafcb3aa3f7302cc9d46953.json",
-   "markdown_endpoint": "https://serpapi.com/searches/VhqmdXoxrSd9SFD6__jlFF3fKSS8KPDCnIDTEGBvGsw/6aafcb3aa3f7302cc9d46953.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/VhqmdXoxrSd9SFD6__jlFF3fKSS8KPDCnIDTEGBvGsw/6aafcb3aa3f7302cc9d46953.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:02:02 UTC",
-   "raw_html_file": "https://serpapi.com/searches/VhqmdXoxrSd9SFD6__jlFF3fKSS8KPDCnIDTEGBvGsw/6aafcb3aa3f7302cc9d46953.html",
+   "id": "6ab98b4f333617e13353926a",
+   "json_endpoint": "https://serpapi.com/searches/kRkPWRLH9-FhC0WbeaNQ8UY6OVwPpENxiTK8lY7FkMU/6ab98b4f333617e13353926a.json",
+   "markdown_endpoint": "https://serpapi.com/searches/kRkPWRLH9-FhC0WbeaNQ8UY6OVwPpENxiTK8lY7FkMU/6ab98b4f333617e13353926a.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/kRkPWRLH9-FhC0WbeaNQ8UY6OVwPpENxiTK8lY7FkMU/6ab98b4f333617e13353926a.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:31:59 UTC",
+   "raw_html_file": "https://serpapi.com/searches/kRkPWRLH9-FhC0WbeaNQ8UY6OVwPpENxiTK8lY7FkMU/6ab98b4f333617e13353926a.html",
    "status": "Success",
-   "total_time_taken": 2.13
+   "total_time_taken": 0.79
   },
   "search_parameters": {
    "device": "desktop",
@@ -339,15 +390,8 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=80"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+latest+news+about+India%27s+Chandrayaan+missions%3F&start=20"
    }
   }
  },

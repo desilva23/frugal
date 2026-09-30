@@ -522,7 +522,6 @@ ABLATIONS: tuple[tuple[str, int, int], ...] = (
     ("routed-1x1", 1, 1),
     ("routed-2x1", 2, 1),
     ("routed-3x1", 3, 1),
-    ("routed-3x2", 3, 2),
 )
 
 #: Fixed pairings: web search plus the same second engine for every question,
@@ -541,7 +540,7 @@ FIXED_PAIRINGS: tuple[tuple[str, tuple[str, ...]], ...] = (
 #: and a second round each add a search per question. Measured at twelve
 #: questions, where both bought no recall at all, and skippable at thirty so a
 #: sweep does not cost more than the benchmark it is checking.
-DEEP_ABLATIONS = frozenset({"routed-3x1", "routed-3x2"})
+DEEP_ABLATIONS = frozenset({"routed-3x1"})
 
 
 def run_ablation(

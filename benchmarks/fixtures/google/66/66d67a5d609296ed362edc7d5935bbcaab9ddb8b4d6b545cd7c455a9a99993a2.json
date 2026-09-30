@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 755.046,
+ "elapsed_ms": 1733.159,
  "engine": "google",
- "fetched_at": "2026-09-20T12:00:58.828276+00:00",
+ "fetched_at": "2026-09-27T21:31:22.916773+00:00",
  "frugal_cache_version": 1,
  "key": "66d67a5d609296ed362edc7d5935bbcaab9ddb8b4d6b545cd7c455a9a99993a2",
  "params": {
@@ -10,309 +10,341 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "IBMFL3iczVXNcqpIFH6AeY5xYxD8SSSpolJN2yJqDGgMl2woBQSi2IZG0OxmNS8yTzVPMw2iQoLJ3LuYmlPVNt0cz__H98dfK2-9_Pu3P90w3JA7lo3juOZg7Kzsmol9dkb2a5Nd4BUJTPd-HwnNikkErmJ7AkPeohlhdih4f7oeYQWHEWiociX9i2DMZ8R-pRZ3r4Q1WPqz_L3ZoYcaqdnrGu8PtRvFnA4Geq3BNZq1R3bmUwXw3wlSHTHZ-wBeVqKv0PemEgMyEFHOkgycdBfPWvrhNVTTV9C5aE08-Byn6ipdHeO9F3fobVafzsX_Uhdi4RinsQAQp1GKwPs-m5yoWS7HvL6o1Em7KFn18Pkm3-NCrAVx4sKxS6MwAIRnJ3ln1IxbCONUKdMBfA-LHRFML8dN6zOQwfUSqKgshbyo6Ll16txQl-gNazl0cDl2HtCtznqma6YPAUnmGT7dcri3eNG7G74ejKNhpBjrBkdU_uW5JbWgyppzqrfCM8u2DNfg7tNzvVG_5m6bbf4qBZJJTkgieSQpYDufDN2W9w5qw5pYP8IIHpoOPnUM0TOUSxITYaZa0uLcYCcNy1qqdvN2s1aKAGKAxqDY2oGS1FU6HumMvtPW5DXOXpPh_wyjgzg5ZTg-BCLjTDGvcdCSctDNNVYGZZ-Zj3mrvfNj55NiAYA0FLAEx8LoHy3rQIUOSjAAUU_MqmYWbcB8AbKAEaBfqOx0zgRlSrmYkhLIKngAMqI2vansOYlxFR0CTYYh89VFHxB3YeB16kaD_-bTVyLidyBKRD3i5cP452GDImbb706Ujc_rHVkCrsVH035r2-N1UA4T7M9_gnHM_xWQDnyEMj66DCT0PZBSPhK_4KP0WT8BKRleiC8CSZTK-eihlI-KeUMwzgPpaz76aSDBL4F0mMNSIOFyIG0uAsmJPwKpyEeonI9OQPoVPhJ_kY9SXNmHrUhO21fnIkkhYiJlGiMtbq6nwSCCfVUfiPuR9_gKviWphR_e-TNrdWV41p3Y6Id768qgF_jOtipvgubiqotXFqluZqG9DkkVr6tWgNd21bJXXmQH-yrZk9D2yX3FXwVY4GbX2zY3bbXVyWBkvg0Y5gaSDT81H94YV7P8H2owf-wwZEIsxlgCD0JrDztP2tqNmOULJOJbb6sofZm7ZXjtWXL8XSwxzz8kLlb6C3vHeJy0lVdN5kHbhwuHU3pBm5-OHrXucCcFC6TpkN9ObVXf4Vdn1L6uT1qDehoZEXp1eR4G7UU8jit-YAp0CFoOGKlAc-g0wnRK6cJ0xXTd0CaJFWLODJtEwm2zYdrNdnsx53jTurUqvhPuN0KrXiHrQKj_A9lPP8c",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IBMFL3iczVXNcqpIFH6AeY5xYxD8SSSpolJN2yJqDGgMl2woBQSi2IZG0OxmNS8yTzVPMw2iQoLJ3LuYmlPVNt0cz__H98dfK2-9_Pu3P90w3JA7lo3juOZg7Kzsmol9dkb2a5Nd4BUJTPd-HwnNikkErmJ7AkPeohlhdih4f7oeYQWHEWiociX9i2DMZ8R-pRZ3r4Q1WPqz_L3ZoYcaqdnrGu8PtRvFnA4Geq3BNZq1R3bmUwXw3wlSHTHZ-wBeVqKv0PemEgMyEFHOkgycdBfPWvrhNVTTV9C5aE08-Byn6ipdHeO9F3fobVafzsX_Uhdi4RinsQAQp1GKwPs-m5yoWS7HvL6o1Em7KFn18Pkm3-NCrAVx4sKxS6MwAIRnJ3ln1IxbCONUKdMBfA-LHRFML8dN6zOQwfUSqKgshbyo6Ll16txQl-gNazl0cDl2HtCtznqma6YPAUnmGT7dcri3eNG7G74ejKNhpBjrBkdU_uW5JbWgyppzqrfCM8u2DNfg7tNzvVG_5m6bbf4qBZJJTkgieSQpYDufDN2W9w5qw5pYP8IIHpoOPnUM0TOUSxITYaZa0uLcYCcNy1qqdvN2s1aKAGKAxqDY2oGS1FU6HumMvtPW5DXOXpPh_wyjgzg5ZTg-BCLjTDGvcdCSctDNNVYGZZ-Zj3mrvfNj55NiAYA0FLAEx8LoHy3rQIUOSjAAUU_MqmYWbcB8AbKAEaBfqOx0zgRlSrmYkhLIKngAMqI2vansOYlxFR0CTYYh89VFHxB3YeB16kaD_-bTVyLidyBKRD3i5cP452GDImbb706Ujc_rHVkCrsVH035r2-N1UA4T7M9_gnHM_xWQDnyEMj66DCT0PZBSPhK_4KP0WT8BKRleiC8CSZTK-eihlI-KeUMwzgPpaz76aSDBL4F0mMNSIOFyIG0uAsmJPwKpyEeonI9OQPoVPhJ_kY9SXNmHrUhO21fnIkkhYiJlGiMtbq6nwSCCfVUfiPuR9_gKviWphR_e-TNrdWV41p3Y6Id768qgF_jOtipvgubiqotXFqluZqG9DkkVr6tWgNd21bJXXmQH-yrZk9D2yX3FXwVY4GbX2zY3bbXVyWBkvg0Y5gaSDT81H94YV7P8H2owf-wwZEIsxlgCD0JrDztP2tqNmOULJOJbb6sofZm7ZXjtWXL8XSwxzz8kLlb6C3vHeJy0lVdN5kHbhwuHU3pBm5-OHrXucCcFC6TpkN9ObVXf4Vdn1L6uT1qDehoZEXp1eR4G7UU8jit-YAp0CFoOGKlAc-g0wnRK6cJ0xXTd0CaJFWLODJtEwm2zYdrNdnsx53jTurUqvhPuN0KrXiHrQKj_A9lPP8c"
+   "page_token": "DfdNlXiczZXdcqJIFIAfYJ9jvTEKqPEnVVSqwZ4ENSoyTmRuKGywQYRWQAm5mxfZq32qfZptfjRoJJmZi609Vdp09-nTh3POx_nx98b2nH_--MsKw21wxzBRFNUxIXhj1hFxGT2IPcSsyCbwkXUfkL2PTNvgkeUT16zEB75ZQQHPVkybH6r7Wz1Yy9PhQ6Phk-lu2PF2QKqkJnhtqQfmmt7wsg4YjaF_zp_NPp3Ug_omrCtzT3w09Kh_O683WK5XnzC6SxXAfygyBBIQ6JgNZSICAD83lqjIQExsHQWLb1vJJgD9zF5yJ04Xh6VXSskpAVjUXnISTLtqN2IBfrM_KPVFSHSejhM19yZK7QpC7stPCrl4-CBQZWGCF5bwmWJ5bN8Xw6wGIEwMvHdFAlA6UwUge_G-Ax5xF0hIEnG56-kBFAsDEZzsl8kOWNNjCKOxStUZA9PaZZmlTweOsZGF0gc_SEpa_NpjyZemvR--NpZyOBtO4taXSBlvWs8dOHiuYQYtqd6G6IZpaJbG3qdzrsHdsr1mp3uTsoSCE0xBESYY7h8k-yuCu259VBe4I0lJDWU-iufuQzoXJfBeBDFXFa9s4gIGhcO2WIzWPB_z6i4qAgylaTI-HBcmQKAZRsUsHi9Ijl8jKVM6VW9KUppVKRult-MnFVoWJ0PFusdXKbhMfV8AckaSJGR7UW73HQoCGDjF1XNTEiAzOcvJFkTCPFWbnIWIvrFTsJavQRpNIZ_BU26ySNlFemx6oZX4hxWqNpDxMOU9eU0xdSAp8dyZiwzPwDWhl2L60rOf-PpdEfK5SkJOjswFAWfkLIY9lmt3RVNvd9sQPbZufW3sLw64JV8nhbjLX-g76P_F0rErzfOuVM4S_Jyl5GP5UVeC511JyVgalrOUfGSvdSX1qFToShcsCaMCS1Z6ICrrSr_KkvABS_BDlsh1lpxSlvrgkqXzrnTG0qkrvbH0O11p-5tdKUXLzIbzFrVf49JWBb0HU20q3kEZwJ3Q1GVrqpr9L5HzCsGnrWrlhneubmxuNNu4ExqDMDZuNLpA7kyjsuOfLVK1yMYIqls9NL0wqBKvavjEM6uGubEPph9XgzgITTe4r7gbn_Cs3kad76K8OLBPU7Xmi-rLeO248rSlf9NXW1SbvrJNNnbGtUZvoczQutXuNeOdbdbAyukPl7uQxCtpbi1tMldM8Wnr7CeoL4sjR1MjRQGTR8ucixr76t925s31d3v6srBIm1VoLLtPMEAj_M2djTwthnDV2PsHnPoV8PPFmsUP9hM3IhXXRzzNUQuDsQyeMUBAVIFMUyuLhP4i-mtTsoVKgHTNDA484tqNbnvZaenddoMzVhUXh_GWb3GVwPN57l9Y6UvZ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DfdNlXiczZXdcqJIFIAfYJ9jvTEKqPEnVVSqwZ4ENSoyTmRuKGywQYRWQAm5mxfZq32qfZptfjRoJJmZi609Vdp09-nTh3POx_nx98b2nH_--MsKw21wxzBRFNUxIXhj1hFxGT2IPcSsyCbwkXUfkL2PTNvgkeUT16zEB75ZQQHPVkybH6r7Wz1Yy9PhQ6Phk-lu2PF2QKqkJnhtqQfmmt7wsg4YjaF_zp_NPp3Ug_omrCtzT3w09Kh_O683WK5XnzC6SxXAfygyBBIQ6JgNZSICAD83lqjIQExsHQWLb1vJJgD9zF5yJ04Xh6VXSskpAVjUXnISTLtqN2IBfrM_KPVFSHSejhM19yZK7QpC7stPCrl4-CBQZWGCF5bwmWJ5bN8Xw6wGIEwMvHdFAlA6UwUge_G-Ax5xF0hIEnG56-kBFAsDEZzsl8kOWNNjCKOxStUZA9PaZZmlTweOsZGF0gc_SEpa_NpjyZemvR--NpZyOBtO4taXSBlvWs8dOHiuYQYtqd6G6IZpaJbG3qdzrsHdsr1mp3uTsoSCE0xBESYY7h8k-yuCu259VBe4I0lJDWU-iufuQzoXJfBeBDFXFa9s4gIGhcO2WIzWPB_z6i4qAgylaTI-HBcmQKAZRsUsHi9Ijl8jKVM6VW9KUppVKRult-MnFVoWJ0PFusdXKbhMfV8AckaSJGR7UW73HQoCGDjF1XNTEiAzOcvJFkTCPFWbnIWIvrFTsJavQRpNIZ_BU26ySNlFemx6oZX4hxWqNpDxMOU9eU0xdSAp8dyZiwzPwDWhl2L60rOf-PpdEfK5SkJOjswFAWfkLIY9lmt3RVNvd9sQPbZufW3sLw64JV8nhbjLX-g76P_F0rErzfOuVM4S_Jyl5GP5UVeC511JyVgalrOUfGSvdSX1qFToShcsCaMCS1Z6ICrrSr_KkvABS_BDlsh1lpxSlvrgkqXzrnTG0qkrvbH0O11p-5tdKUXLzIbzFrVf49JWBb0HU20q3kEZwJ3Q1GVrqpr9L5HzCsGnrWrlhneubmxuNNu4ExqDMDZuNLpA7kyjsuOfLVK1yMYIqls9NL0wqBKvavjEM6uGubEPph9XgzgITTe4r7gbn_Cs3kad76K8OLBPU7Xmi-rLeO248rSlf9NXW1SbvrJNNnbGtUZvoczQutXuNeOdbdbAyukPl7uQxCtpbi1tMldM8Wnr7CeoL4sjR1MjRQGTR8ucixr76t925s31d3v6srBIm1VoLLtPMEAj_M2djTwthnDV2PsHnPoV8PPFmsUP9hM3IhXXRzzNUQuDsQyeMUBAVIFMUyuLhP4i-mtTsoVKgHTNDA484tqNbnvZaenddoMzVhUXh_GWb3GVwPN57l9Y6UvZ"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZaUDRyQTJWc2FZajRJbVF0RWJ6ZWVKMUZEN3dwbS00eWhhellSajhYM3RFVWRzTzBYeUhpbXdOaFF2TlBBQ1J5bi1ObHU3NHN2VTY5OUJBODIzY0xBSTF4ZmpYSW8tWklnWUZJdjlHTGJkMHB2TVpxaVFPV19UZnRZSFZkM2pJeGJtR2IzMGp6Y1d0VkxWRXM2bmNzLUx4VVV6QWQySHNKQ180eU9teWpfc09wdkR2QlNiQk91bG05blNIWG1hYmdlc0RrUzJrd0JjZ0lVZ0FiRUtsQ1NnN3NsVVcybDhIR1VzOVlCSRIEGgIIABqjCBIAGgAiAggBKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQP0HCAAQABgAIAAqOAoDd2hvFao0xT8aBHRoYXQaBXdoaWNoGghpdjtkO3dobxoJaXY7ZDt0aGF0GgppdjtkO3doaWNoKmoKBWhvbGRzFXK1Mj4aA2hhcxoEaGF2ZRoEaGVsZBoEaG9sZBoFa2VlcHMaCGl2O2Q7aGFzGglpdjtkO2hhdmUaCWl2O2Q7aGVsZBoJaXY7ZDtob2xkGgppdjtkO2tlZXBzGgdob2xkaW5nKiMKB3BhdGVudHMVeYGLQBoGcGF0ZW50GgtpdjtkO3BhdGVudCoJCgJvbhUAAAAAKjwKBWRyb25lFfv9u0AaBmRyb25lcxoNZHJvbmVkZWxpdmVyeRoKaXY7ZDtkcm9uZRoLaXY7ZDtkcm9uZXMqZQoIZGVsaXZlcnkVNZKzQBoKZGVsaXZlcmllcxoJdHJhbnNwb3J0Gg1kcm9uZWRlbGl2ZXJ5Gg9kZWxpdmVyeXN5c3RlbXMaDWl2O2Q7ZGVsaXZlcnkaDml2O2Q7dHJhbnNwb3J0KmUKB3N5c3RlbXMVR73gPxoHc2VydmljZRoGc3lzdGVtGgp0ZWNobm9sb2d5Gg9kZWxpdmVyeXN5c3RlbXMaDGl2O2Q7c3lzdGVtcxoMaXY7ZDtzZXJ2aWNlGgtpdjtkO3N5c3RlbTL9AS9nb3RvP3VybD1DQUVTc1FFQjZ6c3dGWlA0ckEyVnNhWWo0SW1RdEViemVlSjFGRDd3cG0tNHloYXpZUmo4WDN0RVVkc08wWHlIaW13TmhRdk5QQUNSeW4tTmx1NzRzdlU2OTlCQTgyM2NMQUkxeGZqWElvLVpJZ1lGSXY5R0xiZDBwdk1acWlRT1dfVGZ0WUhWZDNqSXhibUdiMzBqemNXdFZMVkVzNm5jcy1MeFVVekFkMkhzSkNfNHlPbXlqX3NPcHZEdkJTYkJPdWxtOW5TSFhtYWJnZXNEa1Mya3dCY2dJVWdBYkVLbENTZzdzbFVXMmw4SEdVczlZQkk6TjxiPkRyb25lPC9iPiBUZXRoZXJlZCBQb3dlciA8Yj5EZWxpdmVyeSBQYXRlbnRzPC9iPjogTGVhZGVycyAmYW1wOyBUcmVuZHMgMjAyNkKrAUEgZGF0YS1kcml2ZW4gbG9vayBhdCA8Yj5kcm9uZTwvYj4gdGV0aGVyZWQgcG93ZXIgPGI-ZGVsaXZlcnkgc3lzdGVtIHBhdGVudHM8L2I-OiB3aG8gbGVhZHMgZmlsaW5ncywgaG93IHRoZSBmaWVsZCA8Yj5oYXM8L2I-IGdyb3duIHNpbmNlIDIwMDgsIHdoaWNoIElQQyBicmFuY2hlcyZuYnNwOy4uLkoCb25SBGhhdmVSBHRoYXRSA2hhcyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZaUDRyQTJWc2FZajRJbVF0RWJ6ZWVKMUZEN3dwbS00eWhhellSajhYM3RFVWRzTzBYeUhpbXdOaFF2TlBBQ1J5bi1ObHU3NHN2VTY5OUJBODIzY0xBSTF4ZmpYSW8tWklnWUZJdjlHTGJkMHB2TVpxaVFPV19UZnRZSFZkM2pJeGJtR2IzMGp6Y1d0VkxWRXM2bmNzLUx4VVV6QWQySHNKQ180eU9teWpfc09wdkR2QlNiQk91bG05blNIWG1hYmdlc0RrUzJrd0JjZ0lVZ0FiRUtsQ1NnN3NsVVcybDhIR1VzOVlCSRIEGgIIABqjCBIAGgAiAggBKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQP0HCAAQABgAIAAqOAoDd2hvFao0xT8aBHRoYXQaBXdoaWNoGghpdjtkO3dobxoJaXY7ZDt0aGF0GgppdjtkO3doaWNoKmoKBWhvbGRzFXK1Mj4aA2hhcxoEaGF2ZRoEaGVsZBoEaG9sZBoFa2VlcHMaCGl2O2Q7aGFzGglpdjtkO2hhdmUaCWl2O2Q7aGVsZBoJaXY7ZDtob2xkGgppdjtkO2tlZXBzGgdob2xkaW5nKiMKB3BhdGVudHMVeYGLQBoGcGF0ZW50GgtpdjtkO3BhdGVudCoJCgJvbhUAAAAAKjwKBWRyb25lFfv9u0AaBmRyb25lcxoNZHJvbmVkZWxpdmVyeRoKaXY7ZDtkcm9uZRoLaXY7ZDtkcm9uZXMqZQoIZGVsaXZlcnkVNZKzQBoKZGVsaXZlcmllcxoJdHJhbnNwb3J0Gg1kcm9uZWRlbGl2ZXJ5Gg9kZWxpdmVyeXN5c3RlbXMaDWl2O2Q7ZGVsaXZlcnkaDml2O2Q7dHJhbnNwb3J0KmUKB3N5c3RlbXMVR73gPxoHc2VydmljZRoGc3lzdGVtGgp0ZWNobm9sb2d5Gg9kZWxpdmVyeXN5c3RlbXMaDGl2O2Q7c3lzdGVtcxoMaXY7ZDtzZXJ2aWNlGgtpdjtkO3N5c3RlbTL9AS9nb3RvP3VybD1DQUVTc1FFQjZ6c3dGWlA0ckEyVnNhWWo0SW1RdEViemVlSjFGRDd3cG0tNHloYXpZUmo4WDN0RVVkc08wWHlIaW13TmhRdk5QQUNSeW4tTmx1NzRzdlU2OTlCQTgyM2NMQUkxeGZqWElvLVpJZ1lGSXY5R0xiZDBwdk1acWlRT1dfVGZ0WUhWZDNqSXhibUdiMzBqemNXdFZMVkVzNm5jcy1MeFVVekFkMkhzSkNfNHlPbXlqX3NPcHZEdkJTYkJPdWxtOW5TSFhtYWJnZXNEa1Mya3dCY2dJVWdBYkVLbENTZzdzbFVXMmw4SEdVczlZQkk6TjxiPkRyb25lPC9iPiBUZXRoZXJlZCBQb3dlciA8Yj5EZWxpdmVyeSBQYXRlbnRzPC9iPjogTGVhZGVycyAmYW1wOyBUcmVuZHMgMjAyNkKrAUEgZGF0YS1kcml2ZW4gbG9vayBhdCA8Yj5kcm9uZTwvYj4gdGV0aGVyZWQgcG93ZXIgPGI-ZGVsaXZlcnkgc3lzdGVtIHBhdGVudHM8L2I-OiB3aG8gbGVhZHMgZmlsaW5ncywgaG93IHRoZSBmaWVsZCA8Yj5oYXM8L2I-IGdyb3duIHNpbmNlIDIwMDgsIHdoaWNoIElQQyBicmFuY2hlcyZuYnNwOy4uLkoCb25SBGhhdmVSBHRoYXRSA2hhcyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Amazon holds the largest number of drone delivery-related patents over the past decade but has been slower to roll out its services compared to ...",
-      "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAK45gB4gWdgNjqvu2GnwWMCYM3oM7WkbIwG6E_ICJ8wA_v0s9wN4pduBTJCRaZeuazV_JbNt3Er23-YELqvJ7u4FN8za-i7_TJz7zDhZIEs3vPOiltNroimnwrBrnfAX3m3RJr-a2NlBMA9Xt0Bxam7ZgJvrXMcAu6FG-pt2C0-JDj9rJJ1B2whsGNXCpHL1jqo9cQvBTD7IEUXzlDn_fO9Ywu6_CDUindMVSb1N4Hus9wvAA5HUsSE5_L5qf5m2umxsFOPiMbZ1v77-9ZXb2mOwRLkR90UHD9Re2_C_zOdLshXkMcVtMQdDQkqjW-AF8UVSwvL6FKUVI-m1ZwEgvVAvT7Sj8OEKecIRJFOWb6MFH-biBd2UUXksXgAA.webp",
-      "source_info_link": "https://parolaanalytics.com/parolanews/drone-delivery-patents-key-developments-and-trends/"
+      "description": "A data-driven look at drone tethered power delivery system patents: who leads filings, how the field has grown since 2008, which IPC branches ...",
+      "icon": "https://serpapi.com/images/i/UklGRngAAABXRUJQVlA4IGwAAACwAwCdASocABYAPtEutFooIagoGAEAGgllAABc6wbRBEobu-HIAAD-9gF2eZI-eBmrPTrOlFo7I-5UT2XLc3ss7jZ8swFGu-XqUiqWH7X5WXmtB6W4HiuFBiIInC3bYr5uR20xcyule5PdQAA.webp",
+      "source_info_link": "https://www.patsnap.com/resources/blog/rd-blog/drone-tethered-power-delivery-system-patent-landscape-patent-landscape/"
      }
     },
-    "date": "Oct 8, 2024",
-    "displayed_link": "https://parolaanalytics.com › parolanews › drone-delive...",
-    "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAK45gB4gWdgNjqvu2GnwWMCYM3oM7WkbIwG6E_ICJ8wA_v0s9wN4pduBTJCRaZeuazV_JbNt3Er23-YELqvJ7u4FN8za-i7_TJz7zDhZIEs3vPOiltNroimnwrBrnfAX3m3RJr-a2NlBMA9Xt0Bxam7ZgJvrXMcAu6FG-pt2C0-JDj9rJJ1B2whsGNXCpHL1jqo9cQvBTD7IEUXzlDn_fO9Ywu6_CDUindMVSb1N4Hus9wvAA5HUsSE5_L5qf5m2umxsFOPiMbZ1v77-9ZXb2mOwRLkR90UHD9Re2_C_zOdLshXkMcVtMQdDQkqjW-AF8UVSwvL6FKUVI-m1ZwEgvVAvT7Sj8OEKecIRJFOWb6MFH-biBd2UUXksXgAA.webp",
-    "link": "https://parolaanalytics.com/parolanews/drone-delivery-patents-key-developments-and-trends/",
+    "date": "prieš 5 dienas",
+    "displayed_link": "https://www.patsnap.com › rd-blog",
+    "favicon": "https://serpapi.com/images/i/UklGRngAAABXRUJQVlA4IGwAAACwAwCdASocABYAPtEutFooIagoGAEAGgllAABc6wbRBEobu-HIAAD-9gF2eZI-eBmrPTrOlFo7I-5UT2XLc3ss7jZ8swFGu-XqUiqWH7X5WXmtB6W4HiuFBiIInC3bYr5uR20xcyule5PdQAA.webp",
+    "link": "https://www.patsnap.com/resources/blog/rd-blog/drone-tethered-power-delivery-system-patent-landscape-patent-landscape/",
     "position": 1,
-    "read_more_link": "https://parolaanalytics.com/parolanews/drone-delivery-patents-key-developments-and-trends/#:~:text=Amazon%20holds%20the%20largest%20number,as%20DroneUp%2C%20Flytrex%2C%20and%20Zipline.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFdCHOuSquUrE6vyaXSJWmTvMJ_d-aAlvzBtHAtP12ock0Obd7dVPnX284BRUORCU34b87FU5tQcgR2o99O4GbkY7zHJifwjGIpVZukHs6gQ1YJmIZoMucAy7OMGd8DG_gPeVWP3GhvA0lc1szS5TANIO7XpLRE2DzVsVOmjhP2wmPLE1Ac-5uz-k1fx6GQ&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQFnoECBsQAQ&uoh=1",
-    "snippet": "Amazon holds the largest number of drone delivery-related patents over the past decade but has been slower to roll out its services compared to ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsQEB6zswFZP4rA2VsaYj4ImQtEbzeeJ1FD7wpm-4yhazYRj8X3tEUdsO0XyHimwNhQvNPACRyn-Nlu74svU699BA823cLAI1xfjXIo-ZIgYFIv9GLbd0pvMZqiQOW_TftYHVd3jIxbmGb30jzcWtVLVEs6ncs-LxUUzAd2HsJC_4yOmyj_sOpvDvBSbBOulm9nSHXmabgesDkS2kwBcgIUgAbEKlCSg7slUW2l8HGUs9YBI&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQFnoECCkQAQ&uoh=1",
+    "snippet": "A data-driven look at drone tethered power delivery system patents: who leads filings, how the field has grown since 2008, which IPC branches ...",
     "snippet_highlighted_words": [
-     "Amazon holds the largest number of drone delivery-related patents"
+     "drone",
+     "delivery system patents",
+     "has"
     ],
-    "source": "Parola Analytics",
-    "title": "Drone Delivery Patents: Key developments and trends"
+    "source": "Patsnap",
+    "title": "Drone tethered power delivery system patents"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZaQlMxOXEtZ1QtQzNvenFtUlRoOTJKRUFlXzJndnpaR2t4YWVlWlBsTlRTR1VJXzQ4Q2pKdktSbi1TRGc3bS0wLVNyVUJhN25fRFQxVmJZNHJCZDVtWWxmMXktd1h3V01CUklnRDlSLXIyZ1RzOTR4T3dLQnB6eW1vT2pQVGhYNXlmZUxYMVNBQzBOVmlKamxVVDUzMHp0WURtT3hhVTZoVm05NEFWUTA1S1RnNFpVSnVscGVqLUcSBBoCCAAa2QcSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAtQcIABAAGAAgACo4CgN3aG8Vcra2PxoEdGhhdBoFd2hpY2gaCGl2O2Q7d2hvGglpdjtkO3RoYXQaCml2O2Q7d2hpY2gqagoFaG9sZHMVLfjGPRoDaGFzGgRoYXZlGgRoZWxkGgRob2xkGgVrZWVwcxoIaXY7ZDtoYXMaCWl2O2Q7aGF2ZRoJaXY7ZDtoZWxkGglpdjtkO2hvbGQaCml2O2Q7a2VlcHMaB2hvbGRpbmcqIwoHcGF0ZW50cxVL6J8_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50KgkKAm9uFQAAAAAqPAoFZHJvbmUVgFiOQBoGZHJvbmVzGg1kcm9uZWRlbGl2ZXJ5GgppdjtkO2Ryb25lGgtpdjtkO2Ryb25lcyplCghkZWxpdmVyeRW6NaM_GgpkZWxpdmVyaWVzGgl0cmFuc3BvcnQaDWRyb25lZGVsaXZlcnkaD2RlbGl2ZXJ5c3lzdGVtcxoNaXY7ZDtkZWxpdmVyeRoOaXY7ZDt0cmFuc3BvcnQqZQoHc3lzdGVtcxWWwdA8GgdzZXJ2aWNlGgZzeXN0ZW0aCnRlY2hub2xvZ3kaD2RlbGl2ZXJ5c3lzdGVtcxoMaXY7ZDtzeXN0ZW1zGgxpdjtkO3NlcnZpY2UaC2l2O2Q7c3lzdGVtMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZaQlMxOXEtZ1QtQzNvenFtUlRoOTJKRUFlXzJndnpaR2t4YWVlWlBsTlRTR1VJXzQ4Q2pKdktSbi1TRGc3bS0wLVNyVUJhN25fRFQxVmJZNHJCZDVtWWxmMXktd1h3V01CUklnRDlSLXIyZ1RzOTR4T3dLQnB6eW1vT2pQVGhYNXlmZUxYMVNBQzBOVmlKamxVVDUzMHp0WURtT3hhVTZoVm05NEFWUTA1S1RnNFpVSnVscGVqLUc6PkEgRGVlcGVyIGxvb2sgaW50byB0aGUgMjAyNiBnbG9iYWwgPGI-RHJvbmU8L2I-IFRlY2hub2xvZ3kgLi4uQqIBVG8gdW5kZXJzdGFuZCB3aG8gaXMgd2lubmluZyB0aGlzIHJhY2UsIFBhdFNlZXImIzM5O3MgPGI-cGF0ZW50PC9iPiBpbnRlbGxpZ2VuY2UgcGxhdGZvcm0gYW5hbHl6ZWQgdGhlIDxiPmRyb25lIHBhdGVudDwvYj4gbGFuZHNjYXBlLiBIZXJlIGlzIHdoYXQgdGhlIGRhdGEgc2hvd3MuSgJvblIDaGFzUgR0aGF0UgRoYXZlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZaQlMxOXEtZ1QtQzNvenFtUlRoOTJKRUFlXzJndnpaR2t4YWVlWlBsTlRTR1VJXzQ4Q2pKdktSbi1TRGc3bS0wLVNyVUJhN25fRFQxVmJZNHJCZDVtWWxmMXktd1h3V01CUklnRDlSLXIyZ1RzOTR4T3dLQnB6eW1vT2pQVGhYNXlmZUxYMVNBQzBOVmlKamxVVDUzMHp0WURtT3hhVTZoVm05NEFWUTA1S1RnNFpVSnVscGVqLUcSBBoCCAAa2QcSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAtQcIABAAGAAgACo4CgN3aG8Vcra2PxoEdGhhdBoFd2hpY2gaCGl2O2Q7d2hvGglpdjtkO3RoYXQaCml2O2Q7d2hpY2gqagoFaG9sZHMVLfjGPRoDaGFzGgRoYXZlGgRoZWxkGgRob2xkGgVrZWVwcxoIaXY7ZDtoYXMaCWl2O2Q7aGF2ZRoJaXY7ZDtoZWxkGglpdjtkO2hvbGQaCml2O2Q7a2VlcHMaB2hvbGRpbmcqIwoHcGF0ZW50cxVL6J8_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50KgkKAm9uFQAAAAAqPAoFZHJvbmUVgFiOQBoGZHJvbmVzGg1kcm9uZWRlbGl2ZXJ5GgppdjtkO2Ryb25lGgtpdjtkO2Ryb25lcyplCghkZWxpdmVyeRW6NaM_GgpkZWxpdmVyaWVzGgl0cmFuc3BvcnQaDWRyb25lZGVsaXZlcnkaD2RlbGl2ZXJ5c3lzdGVtcxoNaXY7ZDtkZWxpdmVyeRoOaXY7ZDt0cmFuc3BvcnQqZQoHc3lzdGVtcxWWwdA8GgdzZXJ2aWNlGgZzeXN0ZW0aCnRlY2hub2xvZ3kaD2RlbGl2ZXJ5c3lzdGVtcxoMaXY7ZDtzeXN0ZW1zGgxpdjtkO3NlcnZpY2UaC2l2O2Q7c3lzdGVtMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZaQlMxOXEtZ1QtQzNvenFtUlRoOTJKRUFlXzJndnpaR2t4YWVlWlBsTlRTR1VJXzQ4Q2pKdktSbi1TRGc3bS0wLVNyVUJhN25fRFQxVmJZNHJCZDVtWWxmMXktd1h3V01CUklnRDlSLXIyZ1RzOTR4T3dLQnB6eW1vT2pQVGhYNXlmZUxYMVNBQzBOVmlKamxVVDUzMHp0WURtT3hhVTZoVm05NEFWUTA1S1RnNFpVSnVscGVqLUc6PkEgRGVlcGVyIGxvb2sgaW50byB0aGUgMjAyNiBnbG9iYWwgPGI-RHJvbmU8L2I-IFRlY2hub2xvZ3kgLi4uQqIBVG8gdW5kZXJzdGFuZCB3aG8gaXMgd2lubmluZyB0aGlzIHJhY2UsIFBhdFNlZXImIzM5O3MgPGI-cGF0ZW50PC9iPiBpbnRlbGxpZ2VuY2UgcGxhdGZvcm0gYW5hbHl6ZWQgdGhlIDxiPmRyb25lIHBhdGVudDwvYj4gbGFuZHNjYXBlLiBIZXJlIGlzIHdoYXQgdGhlIGRhdGEgc2hvd3MuSgJvblIDaGFzUgR0aGF0UgRoYXZlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "A2Z Drone Delivery has been granted U.S. Patent No. 12258153 B2 for its AirDock system, enabling autonomous drone recharging and payload ...",
-      "icon": "https://serpapi.com/images/i/UklGRuIAAABXRUJQVlA4INYAAACwBQCdASocABoAPtFEtFooIqgoFAEAGglpAARAfxBfLH-91SsOzYuqeXWud_rl5HT9dJXz1AAA_vYHW7O0SUGBnCli165amo_KKauoMiD2JY4aNDC0TNAM5TovPZC5Wnl3IbS5JKOnaC5nqIXp1Ev0wb6S48AhUIw_MW7Tr_10Q7Ph87ZjEU14p8_2Sz_HsLva7k_IxDLikfFRFm3l_xky7fvvyUmRJkD_MG-M4p8UV0mzaqzCgtegTy6VHHht-zFgH-be7SfjS4dy766Gv7j_owVpAAAA.webp",
-      "source_info_link": "https://www.a2zdronedelivery.com/airdockpatent"
+      "description": "To understand who is winning this race, PatSeer's patent intelligence platform analyzed the drone patent landscape. Here is what the data shows.",
+      "icon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAAAQAgCdASoQABAAAsBMJaQAD48OXii_6FhgAP7tGJ8iHFnhzj5r76ur5t5EhXx3_w1__sM_npg0xn3_3QPbLjhR8e3fj-cVGmcHNrH3a2nwk8wYD0p7de1J-hEh6qtiMln-bkXqU_3Zvp32X-kdJQNHrtp180fUm21iSt69xp7NtkV8XekDYDJrnuQuCAAA.webp",
+      "source_info_link": "https://www.lexology.com/library/detail.aspx?g=67437509-9718-408b-9c20-947c25ab0519"
      }
     },
-    "date": "Apr 8, 2025",
-    "displayed_link": "https://www.a2zdronedelivery.com › airdockpatent",
-    "favicon": "https://serpapi.com/images/i/UklGRuIAAABXRUJQVlA4INYAAACwBQCdASocABoAPtFEtFooIqgoFAEAGglpAARAfxBfLH-91SsOzYuqeXWud_rl5HT9dJXz1AAA_vYHW7O0SUGBnCli165amo_KKauoMiD2JY4aNDC0TNAM5TovPZC5Wnl3IbS5JKOnaC5nqIXp1Ev0wb6S48AhUIw_MW7Tr_10Q7Ph87ZjEU14p8_2Sz_HsLva7k_IxDLikfFRFm3l_xky7fvvyUmRJkD_MG-M4p8UV0mzaqzCgtegTy6VHHht-zFgH-be7SfjS4dy766Gv7j_owVpAAAA.webp",
-    "link": "https://www.a2zdronedelivery.com/airdockpatent",
+    "date": "2026-05-18",
+    "displayed_link": "https://www.lexology.com › detail",
+    "favicon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAAAQAgCdASoQABAAAsBMJaQAD48OXii_6FhgAP7tGJ8iHFnhzj5r76ur5t5EhXx3_w1__sM_npg0xn3_3QPbLjhR8e3fj-cVGmcHNrH3a2nwk8wYD0p7de1J-hEh6qtiMln-bkXqU_3Zvp32X-kdJQNHrtp180fUm21iSt69xp7NtkV8XekDYDJrnuQuCAAA.webp",
+    "link": "https://www.lexology.com/library/detail.aspx?g=67437509-9718-408b-9c20-947c25ab0519",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVecN3SZYWgPy2w4TT2etpltVRZHw4tXYTZdTLSSR6nRaiiJsilnRnhV_tX5Krjb0INVzWP3VQyAFomzenjym36VCYEEDkk8hTsqAfWf1o_V2sbOOZOaDEXZtUJYo4jUfK3g&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQFnoECB0QAQ&uoh=1",
-    "snippet": "A2Z Drone Delivery has been granted U.S. Patent No. 12258153 B2 for its AirDock system, enabling autonomous drone recharging and payload ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFZBS19q-gT-C3ozqmRTh92JEAe_2gvzZGkxaeeZPlNTSGUI_48CjJvKRn-SDg7m-0-SrUBa7n_DT1VbY4rBd5mYlf1y-wXwWMBRIgD9R-r2gTs94xOwKBpzymoOjPThX5yfeLX1SAC0NViJjlUT530ztYDmOxaU6hVm94AVQ05KTg4ZUJulpej-G&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQFnoECCQQAQ&uoh=1",
+    "snippet": "To understand who is winning this race, PatSeer's patent intelligence platform analyzed the drone patent landscape. Here is what the data shows.",
     "snippet_highlighted_words": [
-     "A2Z Drone Delivery"
+     "patent",
+     "drone patent"
     ],
-    "source": "A2Z Drone Delivery",
-    "title": "A2Z AirDock Secures U.S. Patent for Autonomous Drone ..."
+    "source": "Lexology",
+    "title": "A Deeper look into the 2026 global Drone Technology ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjBodHRwczovL3BhdGVudHMuZ29vZ2xlLmNvbS9wYXRlbnQvVVM5ODQwMzQwQjIvZW4SBBoCCAAayAYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJApAYIABAAGAAgACo4CgN3aG8VPKGrPBoEdGhhdBoFd2hpY2gaCGl2O2Q7d2hvGglpdjtkO3RoYXQaCml2O2Q7d2hpY2gqagoFaG9sZHMVAAAAABoDaGFzGgRoYXZlGgRoZWxkGgRob2xkGgVrZWVwcxoIaXY7ZDtoYXMaCWl2O2Q7aGF2ZRoJaXY7ZDtoZWxkGglpdjtkO2hvbGQaCml2O2Q7a2VlcHMaB2hvbGRpbmcqIwoHcGF0ZW50cxVyS3NAGgZwYXRlbnQaC2l2O2Q7cGF0ZW50KgkKAm9uFQAAAAAqPAoFZHJvbmUVRKKAQBoGZHJvbmVzGg1kcm9uZWRlbGl2ZXJ5GgppdjtkO2Ryb25lGgtpdjtkO2Ryb25lcyplCghkZWxpdmVyeRWq7HRAGgpkZWxpdmVyaWVzGgl0cmFuc3BvcnQaDWRyb25lZGVsaXZlcnkaD2RlbGl2ZXJ5c3lzdGVtcxoNaXY7ZDtkZWxpdmVyeRoOaXY7ZDt0cmFuc3BvcnQqZQoHc3lzdGVtcxUoeZo_GgdzZXJ2aWNlGgZzeXN0ZW0aCnRlY2hub2xvZ3kaD2RlbGl2ZXJ5c3lzdGVtcxoMaXY7ZDtzeXN0ZW1zGgxpdjtkO3NlcnZpY2UaC2l2O2Q7c3lzdGVtMjBodHRwczovL3BhdGVudHMuZ29vZ2xlLmNvbS9wYXRlbnQvVVM5ODQwMzQwQjIvZW46RVVTOTg0MDM0MEIyIC0gPGI-RHJvbmU8L2I-IGRvY2tpbmcgc3RhdGlvbiBhbmQgPGI-ZGVsaXZlcnkgc3lzdGVtPC9iPkKpAUZ1cnRoZXIsIHRoZSBwdXJwb3NlIG9mIHRoZSBmb3JlZ29pbmcgYWJzdHJhY3QgaXMgdG8gZW5hYmxlIHRoZSBVLlMuIDxiPlBhdGVudDwvYj4gYW5kIFRyYWRlbWFyayBPZmZpY2UgYW5kIHRoZSBwdWJsaWMgZ2VuZXJhbGx5LCBhbmQgZXNwZWNpYWxseSB0aGUgc2NpZW50aXN0cywmbmJzcDsuLi5KAm9uUgRoYXZlUgR0aGF0UgNoYXMiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjBodHRwczovL3BhdGVudHMuZ29vZ2xlLmNvbS9wYXRlbnQvVVM5ODQwMzQwQjIvZW4SBBoCCAAayAYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJApAYIABAAGAAgACo4CgN3aG8VPKGrPBoEdGhhdBoFd2hpY2gaCGl2O2Q7d2hvGglpdjtkO3RoYXQaCml2O2Q7d2hpY2gqagoFaG9sZHMVAAAAABoDaGFzGgRoYXZlGgRoZWxkGgRob2xkGgVrZWVwcxoIaXY7ZDtoYXMaCWl2O2Q7aGF2ZRoJaXY7ZDtoZWxkGglpdjtkO2hvbGQaCml2O2Q7a2VlcHMaB2hvbGRpbmcqIwoHcGF0ZW50cxVyS3NAGgZwYXRlbnQaC2l2O2Q7cGF0ZW50KgkKAm9uFQAAAAAqPAoFZHJvbmUVRKKAQBoGZHJvbmVzGg1kcm9uZWRlbGl2ZXJ5GgppdjtkO2Ryb25lGgtpdjtkO2Ryb25lcyplCghkZWxpdmVyeRWq7HRAGgpkZWxpdmVyaWVzGgl0cmFuc3BvcnQaDWRyb25lZGVsaXZlcnkaD2RlbGl2ZXJ5c3lzdGVtcxoNaXY7ZDtkZWxpdmVyeRoOaXY7ZDt0cmFuc3BvcnQqZQoHc3lzdGVtcxUoeZo_GgdzZXJ2aWNlGgZzeXN0ZW0aCnRlY2hub2xvZ3kaD2RlbGl2ZXJ5c3lzdGVtcxoMaXY7ZDtzeXN0ZW1zGgxpdjtkO3NlcnZpY2UaC2l2O2Q7c3lzdGVtMjBodHRwczovL3BhdGVudHMuZ29vZ2xlLmNvbS9wYXRlbnQvVVM5ODQwMzQwQjIvZW46RVVTOTg0MDM0MEIyIC0gPGI-RHJvbmU8L2I-IGRvY2tpbmcgc3RhdGlvbiBhbmQgPGI-ZGVsaXZlcnkgc3lzdGVtPC9iPkKpAUZ1cnRoZXIsIHRoZSBwdXJwb3NlIG9mIHRoZSBmb3JlZ29pbmcgYWJzdHJhY3QgaXMgdG8gZW5hYmxlIHRoZSBVLlMuIDxiPlBhdGVudDwvYj4gYW5kIFRyYWRlbWFyayBPZmZpY2UgYW5kIHRoZSBwdWJsaWMgZ2VuZXJhbGx5LCBhbmQgZXNwZWNpYWxseSB0aGUgc2NpZW50aXN0cywmbmJzcDsuLi5KAm9uUgRoYXZlUgR0aGF0UgNoYXMiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "The drone delivery system (1) may include a housing (2), a drone (3), either a timer (4) or a receiver (49), a lock mechanism (8), and a biasing mechanism (48).",
-      "source_info_link": "https://patents.google.com/patent/US11767129B2/en"
+      "description": "Further, the purpose of the foregoing abstract is to enable the U.S. Patent and Trademark Office and the public generally, and especially the scientists, ...",
+      "source_info_link": "https://patents.google.com/patent/US9840340B2/en"
      }
     },
     "displayed_link": "https://patents.google.com › patent",
-    "link": "https://patents.google.com/patent/US11767129B2/en",
+    "link": "https://patents.google.com/patent/US9840340B2/en",
     "position": 3,
-    "read_more_link": "https://patents.google.com/patent/US11767129B2/en#:~:text=The%20drone%20delivery%20system%20(1),and%20a%20biasing%20mechanism%20(48).",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://patents.google.com/patent/US11767129B2/en&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQFnoECBoQAQ",
-    "snippet": "The drone delivery system (1) may include a housing (2), a drone (3), either a timer (4) or a receiver (49), a lock mechanism (8), and a biasing mechanism (48).",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://patents.google.com/patent/US9840340B2/en&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQFnoECCAQAQ",
+    "snippet": "Further, the purpose of the foregoing abstract is to enable the U.S. Patent and Trademark Office and the public generally, and especially the scientists, ...",
     "snippet_highlighted_words": [
-     "drone delivery system"
+     "Patent"
     ],
     "source": "Google Patents",
-    "title": "US11767129B2 - Drone delivery system"
+    "title": "US9840340B2 - Drone docking station and delivery system"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZhZlFqT0JkUFBtR1JWTEFQUlJqOVNZbDJEemRYQ1duLVhoMUdNZkg4MFFTLWp5US1seEtTeFUwbTFZMUNfcjdpd2dwVHBEWFhLaDhGdTJCSndzdlhTNmQzU203SmFJWm9yQzVheVQ2TjRqMldUY2pYaEVfMTJuc3l1WXVRbGRYV1k5a3pzM2dTeEFoZzRnMElkUlZMa1R2ZzUzc0kzWHhveDF5LXZlYTN0ckVqekoxTENCWEVUU3ZtUTZwZmNPWml5SGswbG1KOEF3ZmhRUmtXRmx3c2cSBBoCCAAa-gcSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA1gcIABAAGAAgACo4CgN3aG8VAAAAABoEdGhhdBoFd2hpY2gaCGl2O2Q7d2hvGglpdjtkO3RoYXQaCml2O2Q7d2hpY2gqagoFaG9sZHMVAAAAABoDaGFzGgRoYXZlGgRoZWxkGgRob2xkGgVrZWVwcxoIaXY7ZDtoYXMaCWl2O2Q7aGF2ZRoJaXY7ZDtoZWxkGglpdjtkO2hvbGQaCml2O2Q7a2VlcHMaB2hvbGRpbmcqIwoHcGF0ZW50cxXIutM_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50KgkKAm9uFQAAAAAqPAoFZHJvbmUVuWfAQBoGZHJvbmVzGg1kcm9uZWRlbGl2ZXJ5GgppdjtkO2Ryb25lGgtpdjtkO2Ryb25lcyplCghkZWxpdmVyeRVh0aJAGgpkZWxpdmVyaWVzGgl0cmFuc3BvcnQaDWRyb25lZGVsaXZlcnkaD2RlbGl2ZXJ5c3lzdGVtcxoNaXY7ZDtkZWxpdmVyeRoOaXY7ZDt0cmFuc3BvcnQqZQoHc3lzdGVtcxUJ1889GgdzZXJ2aWNlGgZzeXN0ZW0aCnRlY2hub2xvZ3kaD2RlbGl2ZXJ5c3lzdGVtcxoMaXY7ZDtzeXN0ZW1zGgxpdjtkO3NlcnZpY2UaC2l2O2Q7c3lzdGVtMuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZhZlFqT0JkUFBtR1JWTEFQUlJqOVNZbDJEemRYQ1duLVhoMUdNZkg4MFFTLWp5US1seEtTeFUwbTFZMUNfcjdpd2dwVHBEWFhLaDhGdTJCSndzdlhTNmQzU203SmFJWm9yQzVheVQ2TjRqMldUY2pYaEVfMTJuc3l1WXVRbGRYV1k5a3pzM2dTeEFoZzRnMElkUlZMa1R2ZzUzc0kzWHhveDF5LXZlYTN0ckVqekoxTENCWEVUU3ZtUTZwZmNPWml5SGswbG1KOEF3ZmhRUmtXRmx3c2c6RkFtYXpvbiYjMzk7cyBSZWNlbnQgPGI-UGF0ZW50PC9iPiBSYWlzZXMgRnJlc2ggUHJpdmFjeSBJc3N1ZXMgd2l0aCAuLi5CnQFPbiBKdW5lIDQsIDIwMTksIDxiPkFtYXpvbjwvYj4gcmVjZWl2ZWQgYSBwYXRlbnQgZm9yIGRyb25lIHN1cnZlaWxsYW5jZSB0ZWNobm9sb2d5IHRvIHN1cHBsZW1lbnQgaXRzIGRyb25lIGRlbGl2ZXJ5IHBsYW5zLiBUaGUgcGF0ZW50IHdhcyBvcmlnaW5hbGx5Jm5ic3A7Li4uSgJvblIEaGF2ZVIEdGhhdFIDaGFzIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZhZlFqT0JkUFBtR1JWTEFQUlJqOVNZbDJEemRYQ1duLVhoMUdNZkg4MFFTLWp5US1seEtTeFUwbTFZMUNfcjdpd2dwVHBEWFhLaDhGdTJCSndzdlhTNmQzU203SmFJWm9yQzVheVQ2TjRqMldUY2pYaEVfMTJuc3l1WXVRbGRYV1k5a3pzM2dTeEFoZzRnMElkUlZMa1R2ZzUzc0kzWHhveDF5LXZlYTN0ckVqekoxTENCWEVUU3ZtUTZwZmNPWml5SGswbG1KOEF3ZmhRUmtXRmx3c2cSBBoCCAAa-gcSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA1gcIABAAGAAgACo4CgN3aG8VAAAAABoEdGhhdBoFd2hpY2gaCGl2O2Q7d2hvGglpdjtkO3RoYXQaCml2O2Q7d2hpY2gqagoFaG9sZHMVAAAAABoDaGFzGgRoYXZlGgRoZWxkGgRob2xkGgVrZWVwcxoIaXY7ZDtoYXMaCWl2O2Q7aGF2ZRoJaXY7ZDtoZWxkGglpdjtkO2hvbGQaCml2O2Q7a2VlcHMaB2hvbGRpbmcqIwoHcGF0ZW50cxXIutM_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50KgkKAm9uFQAAAAAqPAoFZHJvbmUVuWfAQBoGZHJvbmVzGg1kcm9uZWRlbGl2ZXJ5GgppdjtkO2Ryb25lGgtpdjtkO2Ryb25lcyplCghkZWxpdmVyeRVh0aJAGgpkZWxpdmVyaWVzGgl0cmFuc3BvcnQaDWRyb25lZGVsaXZlcnkaD2RlbGl2ZXJ5c3lzdGVtcxoNaXY7ZDtkZWxpdmVyeRoOaXY7ZDt0cmFuc3BvcnQqZQoHc3lzdGVtcxUJ1889GgdzZXJ2aWNlGgZzeXN0ZW0aCnRlY2hub2xvZ3kaD2RlbGl2ZXJ5c3lzdGVtcxoMaXY7ZDtzeXN0ZW1zGgxpdjtkO3NlcnZpY2UaC2l2O2Q7c3lzdGVtMuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZhZlFqT0JkUFBtR1JWTEFQUlJqOVNZbDJEemRYQ1duLVhoMUdNZkg4MFFTLWp5US1seEtTeFUwbTFZMUNfcjdpd2dwVHBEWFhLaDhGdTJCSndzdlhTNmQzU203SmFJWm9yQzVheVQ2TjRqMldUY2pYaEVfMTJuc3l1WXVRbGRYV1k5a3pzM2dTeEFoZzRnMElkUlZMa1R2ZzUzc0kzWHhveDF5LXZlYTN0ckVqekoxTENCWEVUU3ZtUTZwZmNPWml5SGswbG1KOEF3ZmhRUmtXRmx3c2c6RkFtYXpvbiYjMzk7cyBSZWNlbnQgPGI-UGF0ZW50PC9iPiBSYWlzZXMgRnJlc2ggUHJpdmFjeSBJc3N1ZXMgd2l0aCAuLi5CnQFPbiBKdW5lIDQsIDIwMTksIDxiPkFtYXpvbjwvYj4gcmVjZWl2ZWQgYSBwYXRlbnQgZm9yIGRyb25lIHN1cnZlaWxsYW5jZSB0ZWNobm9sb2d5IHRvIHN1cHBsZW1lbnQgaXRzIGRyb25lIGRlbGl2ZXJ5IHBsYW5zLiBUaGUgcGF0ZW50IHdhcyBvcmlnaW5hbGx5Jm5ic3A7Li4uSgJvblIEaGF2ZVIEdGhhdFIDaGFzIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "lt"
+     ],
+     "regions": [
+      "LT"
+     ],
+     "source": {
+      "description": "On June 4, 2019, Amazon received a patent for drone surveillance technology to supplement its drone delivery plans. The patent was originally ...",
+      "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAADQBACdASogACAAPtEytFooIigoGAEAGglqAM7tiy6yAFmR9dBvI1NIfwoBzb6XAAD-_pOVHu15U79IFKWvUWvDuZaa3d7_u4pmAjRWIZIUcxYGN22Xm-v_x-Aidf-D1gRI_MEZh8CnMfu4VAO7NfoWIyih9Zsb6Ud01ueu6Hvf8JHF9A841hESydhFcXDwC4J_CILX4eChBl_2NkwM3-DwfvWM2MpWR8-mxUYEp6vstLXTNKOMAA.webp",
+      "source_info_link": "https://fordhamiplj.org/2019/10/07/amazons-recent-patent-raises-fresh-privacy-issues-with-drone-delivery/"
+     }
+    },
+    "date": "2019-10-07",
+    "displayed_link": "https://fordhamiplj.org › 2019/10/07",
+    "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAADQBACdASogACAAPtEytFooIigoGAEAGglqAM7tiy6yAFmR9dBvI1NIfwoBzb6XAAD-_pOVHu15U79IFKWvUWvDuZaa3d7_u4pmAjRWIZIUcxYGN22Xm-v_x-Aidf-D1gRI_MEZh8CnMfu4VAO7NfoWIyih9Zsb6Ud01ueu6Hvf8JHF9A841hESydhFcXDwC4J_CILX4eChBl_2NkwM3-DwfvWM2MpWR8-mxUYEp6vstLXTNKOMAA.webp",
+    "link": "https://fordhamiplj.org/2019/10/07/amazons-recent-patent-raises-fresh-privacy-issues-with-drone-delivery/",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFafQjOBdPPmGRVLAPRRj9SYl2DzdXCWn-Xh1GMfH80QS-jyQ-lxKSxU0m1Y1C_r7iwgpTpDXXKh8Fu2BJwsvXS6d3Sm7JaIZorC5ayT6N4j2WTcjXhE_12nsyuYuQldXWY9kzs3gSxAhg4g0IdRVLkTvg53sI3Xxox1y-vea3trEjzJ1LCBXETSvmQ6pfcOZiyHk0lmJ8AwfhQRkWFlwsg&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQFnoECCEQAQ&uoh=1",
+    "snippet": "On June 4, 2019, Amazon received a patent for drone surveillance technology to supplement its drone delivery plans. The patent was originally ...",
+    "snippet_highlighted_words": [
+     "Amazon"
+    ],
+    "source": "fordhamiplj.org",
+    "title": "Amazon's Recent Patent Raises Fresh Privacy Issues with ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkhXSEtIYXUxZmNTLXdWQ2x3dzZPYUNEMWRaTmNtZFlPLUlLR29EMEhVMlY4MEEzWGNlLUhDdEIwZ1NIUDB1TEhQdVVZOU1CaGpjRDhhOUtkX1VCRF9tNy11SXo2LTJTaWNsVEtrTUVvVHIya1BDMHNwQlU0dW1nSE56bkhqM2Y5N1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkhXSEtIYXUxZmNTLXdWQ2x3dzZPYUNEMWRaTmNtZFlPLUlLR29EMEhVMlY4MEEzWGNlLUhDdEIwZ1NIUDB1TEhQdVVZOU1CaGpjRDhhOUtkX1VCRF9tNy11SXo2LTJTaWNsVEtrTUVvVHIya1BDMHNwQlU0dW1nSE56bkhqM2Y5N1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
      "source": {
-      "description": "Alphabet's Google unit was a granted a patent for a \"delivery receptacle\" designed to receive packages from a drone providing a fresh peek into ...",
+      "description": "... no guarantee that Amazon is really going forward with this system. UPS, on the other hand, has already tested drone delivery from its trucks ...",
       "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "displayed_link": "3.4K+ views · 10 years ago",
-    "duration": "1:45",
+    "displayed_link": "Peržiūrų: daugiau nei 6,2 tūkst. · prieš 9 metus",
+    "duration": "6:18",
     "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=YkYWRBaEMQY",
-    "position": 4,
-    "snippet": "Alphabet's Google unit was a granted a patent for a \"delivery receptacle\" designed to receive packages from a drone providing a fresh peek into ...",
-    "source": "YouTube · The Wall Street Journal",
-    "thumbnail": "https://serpapi.com/searches/6aafcafa14537b426d388a03/images/xw3WOdVZPNhUcNUXCgu_8qy6bL6XVb8QJB-7X-3RG8Y.jpeg",
-    "title": "Google's Patent Details Drone Delivery System",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSh_E9lGPgEiIOtA_8mrMkYoFIzaiOCLV5-Yw"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Patent Portfolio Spans Drone Docking and Secure Delivery. Arrive AI now holds 10 U.S. patents with filings across more than 20 countries.",
-      "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAABQBQCdASocABwAPtEutFooIagoGAEAGgloADUATSSEzIataoUsmQvHMy5q7qsMdCP4bpAA_v7Cl_H_eJTL1GjxgjLdoye6HQ7kWz5ITQhpzEJiwnivvr-ucU0XV8hFw3EhhIOWeqJGtNddz1G0qABsmiz34BwEW-VbA5UJ9ComOOsmlf6fX4Qv7fbLH6qD1f4PFILATHojc1V8a7dYUDbX9xXaGPhmPZ-3gwuomsjOuo2phftCrI698G6HjmPmFo1Vo_dgAAA.webp",
-      "source_info_link": "https://dronelife.com/2026/04/08/arrive-ai-patents-shared-drone-delivery-endpoint-with-tenth-u-s-patent/"
+    "key_moments": [
+     {
+      "link": "https://www.youtube.com/watch?v=FL54cnFjoHM&t=63",
+      "time": "01:03",
+      "title": "Amazon to deliver packages by parachute"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=FL54cnFjoHM&t=187",
+      "time": "03:07",
+      "title": "Amazon mini drone could be the personal assistant of the future"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=FL54cnFjoHM&t=261",
+      "time": "04:21",
+      "title": "Amazon submits patent for drone docking stations"
+     },
+     {
+      "link": "https://www.youtube.com/watch?v=FL54cnFjoHM&t=334",
+      "time": "05:34",
+      "title": "Amazon wants to allow drones to perch on existing tall structures"
      }
-    },
-    "date": "Apr 8, 2026",
-    "displayed_link": "https://dronelife.com › 2026/04/08 › arrive-ai-patents-s...",
-    "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAABQBQCdASocABwAPtEutFooIagoGAEAGgloADUATSSEzIataoUsmQvHMy5q7qsMdCP4bpAA_v7Cl_H_eJTL1GjxgjLdoye6HQ7kWz5ITQhpzEJiwnivvr-ucU0XV8hFw3EhhIOWeqJGtNddz1G0qABsmiz34BwEW-VbA5UJ9ComOOsmlf6fX4Qv7fbLH6qD1f4PFILATHojc1V8a7dYUDbX9xXaGPhmPZ-3gwuomsjOuo2phftCrI698G6HjmPmFo1Vo_dgAAA.webp",
-    "link": "https://dronelife.com/2026/04/08/arrive-ai-patents-shared-drone-delivery-endpoint-with-tenth-u-s-patent/",
+    ],
+    "link": "https://www.youtube.com/watch?v=FL54cnFjoHM",
     "position": 5,
-    "read_more_link": "https://dronelife.com/2026/04/08/arrive-ai-patents-shared-drone-delivery-endpoint-with-tenth-u-s-patent/#:~:text=Patent%20Portfolio%20Spans%20Drone%20Docking,across%20more%20than%2020%20countries.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFeZGFsAu9NREYJSEyQUo0rZSgTZUiT82KUYv44Z-GMu_L0gZL3FxchvoFb9x0S6-msfL2zZqUl7015Aj8rK3RZ5iqFXHisXg0S34YdsoOV6wkhUTTxrnCI-UJQAXuHKZJXiiQ7FwfMUAcKBksOKKenm9sCnENiHuJFverX0uVSDUZblor52v9ui91XqjVwGsS8kYhPVRMkjv04S3&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQFnoECB4QAQ&uoh=1",
-    "snippet": "Patent Portfolio Spans Drone Docking and Secure Delivery. Arrive AI now holds 10 U.S. patents with filings across more than 20 countries.",
-    "snippet_highlighted_words": [
-     "Arrive AI now holds 10 U.S. patents"
-    ],
-    "source": "Dronelife",
-    "title": "Arrive AI Patents Shared Drone Delivery Endpoint ..."
+    "snippet": "... no guarantee that Amazon is really going forward with this system. UPS, on the other hand, has already tested drone delivery from its trucks ...",
+    "source": "YouTube · TomoNews US",
+    "thumbnail": "https://serpapi.com/searches/6ab98b29eb55a3d1775dfc44/images/pI9JXIbwbR2uFxL3jzDaHrVS37AeeImC5YLXnM5XqLw.jpeg",
+    "title": "Amazon patents mobile drone delivery fulfillment centers from ...",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTP8yh_BZBTjzvwFEMbiNeW8PhMjQUUmXONvA"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZkM2ZsS0I2NGh3bTlRNjVXNGFpU2ZPU0p6MU9BelRvMl92cm5DMGdfdUVtWkI1MUcyR2Zka3Z6cFRHbTllT3BqRDVPdEJHaEhCUXdZVVNkd0NlN3FCS3hic0NQVVhfaEZBcUVrZ2NVRko0dmNWNF9hM2lad0pBUEhlRm5CRndPblRMeHBqRmUwazZRaHp3VUJQRlpfamNUYm1SRkJqSGRCdEJzdFVmWDdUNlpsNWpoSHNDbWM4S1VsOGJQOUI4TFF3Y0JwbE9FakF1TXFSMzFTMzZhOGYxZm9HdkZWdxIEGgIIABqTCBICCAEaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQO0HCAAQABgAIAAqOAoDd2hvFToJRT4aBHRoYXQaBXdoaWNoGghpdjtkO3dobxoJaXY7ZDt0aGF0GgppdjtkO3doaWNoKmoKBWhvbGRzFQAAAAAaA2hhcxoEaGF2ZRoEaGVsZBoEaG9sZBoFa2VlcHMaCGl2O2Q7aGFzGglpdjtkO2hhdmUaCWl2O2Q7aGVsZBoJaXY7ZDtob2xkGgppdjtkO2tlZXBzGgdob2xkaW5nKiMKB3BhdGVudHMVShlQQBoGcGF0ZW50GgtpdjtkO3BhdGVudCoJCgJvbhUAAAAAKjwKBWRyb25lFZ8p0D8aBmRyb25lcxoNZHJvbmVkZWxpdmVyeRoKaXY7ZDtkcm9uZRoLaXY7ZDtkcm9uZXMqZQoIZGVsaXZlcnkVmi-WQBoKZGVsaXZlcmllcxoJdHJhbnNwb3J0Gg1kcm9uZWRlbGl2ZXJ5Gg9kZWxpdmVyeXN5c3RlbXMaDWl2O2Q7ZGVsaXZlcnkaDml2O2Q7dHJhbnNwb3J0KmUKB3N5c3RlbXMVGmSRPxoHc2VydmljZRoGc3lzdGVtGgp0ZWNobm9sb2d5Gg9kZWxpdmVyeXN5c3RlbXMaDGl2O2Q7c3lzdGVtcxoMaXY7ZDtzZXJ2aWNlGgtpdjtkO3N5c3RlbTL0AS9nb3RvP3VybD1DQUVTcWdFQjZ6c3dGZDNmbEtCNjRod205UTY1VzRhaVNmT1NKejFPQXpUbzJfdnJuQzBnX3VFbVpCNTFHMkdmZGt2enBUR205ZU9wakQ1T3RCR2hIQlF3WVVTZHdDZTdxQkt4YnNDUFVYX2hGQXFFa2djVUZKNHZjVjRfYTNpWndKQVBIZUZuQkZ3T25UTHhwakZlMGs2UWh6d1VCUEZaX2pjVGJtUkZCakhkQnRCc3RVZlg3VDZabDVqaEhzQ21jOEtVbDhiUDlCOExRd2NCcGxPRWpBdU1xUjMxUzM2YThmMWZvR3ZGVnc6SkFtYXpvbiA8Yj5wYXRlbnRzPC9iPiBzaG93IGZseWluZyB3YXJlaG91c2VzIHRoYXQgc2VuZCA8Yj5kZWxpdmVyeTwvYj4gLi4uQqgBV2UmIzM5O3ZlIGtub3duIGFib3V0IDxiPkFtYXpvbjwvYj4mIzM5O3MgZHJvbmUgZGVsaXZlcnkgYW1iaXRpb25zIHNpbmNlIDIwMTMuIEJ1dCBwYXRlbnQgZmlsaW5ncyBmcm9tIEFtYXpvbiwgY2lyY3VsYXRlZCB0b2RheSBieSBDQiBJbnNpZ2h0cyYjMzk7IFpvZSBMZWF2aXR0Jm5ic3A7Li4uSgJvblIDaGFzUgR0aGF0UgRoYXZlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZkM2ZsS0I2NGh3bTlRNjVXNGFpU2ZPU0p6MU9BelRvMl92cm5DMGdfdUVtWkI1MUcyR2Zka3Z6cFRHbTllT3BqRDVPdEJHaEhCUXdZVVNkd0NlN3FCS3hic0NQVVhfaEZBcUVrZ2NVRko0dmNWNF9hM2lad0pBUEhlRm5CRndPblRMeHBqRmUwazZRaHp3VUJQRlpfamNUYm1SRkJqSGRCdEJzdFVmWDdUNlpsNWpoSHNDbWM4S1VsOGJQOUI4TFF3Y0JwbE9FakF1TXFSMzFTMzZhOGYxZm9HdkZWdxIEGgIIABqTCBICCAEaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQO0HCAAQABgAIAAqOAoDd2hvFToJRT4aBHRoYXQaBXdoaWNoGghpdjtkO3dobxoJaXY7ZDt0aGF0GgppdjtkO3doaWNoKmoKBWhvbGRzFQAAAAAaA2hhcxoEaGF2ZRoEaGVsZBoEaG9sZBoFa2VlcHMaCGl2O2Q7aGFzGglpdjtkO2hhdmUaCWl2O2Q7aGVsZBoJaXY7ZDtob2xkGgppdjtkO2tlZXBzGgdob2xkaW5nKiMKB3BhdGVudHMVShlQQBoGcGF0ZW50GgtpdjtkO3BhdGVudCoJCgJvbhUAAAAAKjwKBWRyb25lFZ8p0D8aBmRyb25lcxoNZHJvbmVkZWxpdmVyeRoKaXY7ZDtkcm9uZRoLaXY7ZDtkcm9uZXMqZQoIZGVsaXZlcnkVmi-WQBoKZGVsaXZlcmllcxoJdHJhbnNwb3J0Gg1kcm9uZWRlbGl2ZXJ5Gg9kZWxpdmVyeXN5c3RlbXMaDWl2O2Q7ZGVsaXZlcnkaDml2O2Q7dHJhbnNwb3J0KmUKB3N5c3RlbXMVGmSRPxoHc2VydmljZRoGc3lzdGVtGgp0ZWNobm9sb2d5Gg9kZWxpdmVyeXN5c3RlbXMaDGl2O2Q7c3lzdGVtcxoMaXY7ZDtzZXJ2aWNlGgtpdjtkO3N5c3RlbTL0AS9nb3RvP3VybD1DQUVTcWdFQjZ6c3dGZDNmbEtCNjRod205UTY1VzRhaVNmT1NKejFPQXpUbzJfdnJuQzBnX3VFbVpCNTFHMkdmZGt2enBUR205ZU9wakQ1T3RCR2hIQlF3WVVTZHdDZTdxQkt4YnNDUFVYX2hGQXFFa2djVUZKNHZjVjRfYTNpWndKQVBIZUZuQkZ3T25UTHhwakZlMGs2UWh6d1VCUEZaX2pjVGJtUkZCakhkQnRCc3RVZlg3VDZabDVqaEhzQ21jOEtVbDhiUDlCOExRd2NCcGxPRWpBdU1xUjMxUzM2YThmMWZvR3ZGVnc6SkFtYXpvbiA8Yj5wYXRlbnRzPC9iPiBzaG93IGZseWluZyB3YXJlaG91c2VzIHRoYXQgc2VuZCA8Yj5kZWxpdmVyeTwvYj4gLi4uQqgBV2UmIzM5O3ZlIGtub3duIGFib3V0IDxiPkFtYXpvbjwvYj4mIzM5O3MgZHJvbmUgZGVsaXZlcnkgYW1iaXRpb25zIHNpbmNlIDIwMTMuIEJ1dCBwYXRlbnQgZmlsaW5ncyBmcm9tIEFtYXpvbiwgY2lyY3VsYXRlZCB0b2RheSBieSBDQiBJbnNpZ2h0cyYjMzk7IFpvZSBMZWF2aXR0Jm5ic3A7Li4uSgJvblIDaGFzUgR0aGF0UgRoYXZlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "A2Z Drone Delivery has secured a significant advancement in drone infrastructure technology with the granting of U.S. Patent No. 12,258,153 B2 ...",
-      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
-      "source_info_link": "https://www.linkedin.com/posts/haye-kesteloo_a2z-drone-delivery-patents-breakthrough-drone-activity-7315739562977222657-jo4L"
+      "description": "We've known about Amazon's drone delivery ambitions since 2013. But patent filings from Amazon, circulated today by CB Insights' Zoe Leavitt ...",
+      "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDmYgM5AAVjh4wsOQu83qCflomlb9MOWrYAA_RvyTe8kOogXY86-qA2F2sjs-ent4u2Ejn2MI3gDhdQyzhGylZn__CtcrR25svMhYYV8ZsD5AvyyBvJD45UfZiY-zxQtLY3lGLt1nkuHEneRNujVrwQYW5LuExozH7kYyaNSjYuDoHRav0tZRw_Mf2yW8Qr-TyHId1CGu33jUegGZxohQLV0SlcZpuWTrrFA95pBpkG8ce0-j8yLLQmqoggoHQndFg0SLGyZrJVzWewLC-1SedRNhWTmsn9ZD5c2ao8oqHLwAA.webp",
+      "source_info_link": "https://techcrunch.com/2016/12/28/amazon-patents-show-flying-warehouses-that-send-delivery-drones-to-your-door/"
      }
     },
-    "displayed_link": "3 reactions · 1 year ago",
-    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
-    "link": "https://www.linkedin.com/posts/haye-kesteloo_a2z-drone-delivery-patents-breakthrough-drone-activity-7315739562977222657-jo4L",
+    "date": "2016-12-28",
+    "displayed_link": "https://techcrunch.com › 2016/12/28",
+    "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDmYgM5AAVjh4wsOQu83qCflomlb9MOWrYAA_RvyTe8kOogXY86-qA2F2sjs-ent4u2Ejn2MI3gDhdQyzhGylZn__CtcrR25svMhYYV8ZsD5AvyyBvJD45UfZiY-zxQtLY3lGLt1nkuHEneRNujVrwQYW5LuExozH7kYyaNSjYuDoHRav0tZRw_Mf2yW8Qr-TyHId1CGu33jUegGZxohQLV0SlcZpuWTrrFA95pBpkG8ce0-j8yLLQmqoggoHQndFg0SLGyZrJVzWewLC-1SedRNhWTmsn9ZD5c2ao8oqHLwAA.webp",
+    "link": "https://techcrunch.com/2016/12/28/amazon-patents-show-flying-warehouses-that-send-delivery-drones-to-your-door/",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStAEB6zswFYGyHPO21NyIlytEPjg0Hr1yzGnO9uV9toz8CiEnZkwnxy42Jmyn4GxVwbt3EHslVkP9o0t3bDf-AR0QQWY7Uvz8TgSqU9w0PmFIR4c93rLh0jTNIFBgt8aeAFPdJEC0vBsdTcAS2mcSW64krSkJ4L8eD5W16qVhiSG-AB_zhla1YElte4pVyZREehIZ-YCqvcq46VdOATOaNp1OjHsW2yzn8CIjOWq2knW7ZlyqVIU&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQFnoECCEQAQ&uoh=1",
-    "snippet": "A2Z Drone Delivery has secured a significant advancement in drone infrastructure technology with the granting of U.S. Patent No. 12,258,153 B2 ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFd3flKB64hwm9Q65W4aiSfOSJz1OAzTo2_vrnC0g_uEmZB51G2GfdkvzpTGm9eOpjD5OtBGhHBQwYUSdwCe7qBKxbsCPUX_hFAqEkgcUFJ4vcV4_a3iZwJAPHeFnBFwOnTLxpjFe0k6QhzwUBPFZ_jcTbmRFBjHdBtBstUfX7T6Zl5jhHsCmc8KUl8bP9B8LQwcBplOEjAuMqR31S36a8f1foGvFVw&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQFnoECCIQAQ&uoh=1",
+    "snippet": "We've known about Amazon's drone delivery ambitions since 2013. But patent filings from Amazon, circulated today by CB Insights' Zoe Leavitt ...",
     "snippet_highlighted_words": [
-     "Drone Delivery has",
-     "drone",
-     "Patent"
+     "Amazon"
     ],
-    "source": "LinkedIn · Haye Kesteloo",
-    "title": "A2Z Drone Delivery patents drone dock system for infinite ..."
+    "source": "TechCrunch",
+    "title": "Amazon patents show flying warehouses that send delivery ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZWTjVTcGFfVG9vd2RNYTc2eTlIYlY4TGZsTHZNRlVTZmx1TjV3aU4wNnNVU2VpZ0lUSGMzaWZnZW0zMWRzbEVPdkNYS0tyRGRJU1VGdUExQUlUQ2oybk41eGFiUzdNQ1d3dUI5bk8xRFZ1ZlpBZTVyX05vVnFWX05zUnlnTDd6TXBMUmFuTTE0WG1URjhJVDloRG8xR0NoRG1vY2xnOUR5Zk40ZVg1eFd5RnlTcENnRWNBQnRwN2FoZDdmSE1mWVNnVmthM1ZGdUESBBoCCAAahQgSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDfBwgAEAAYACAAKjgKA3dobxUAAAAAGgR0aGF0GgV3aGljaBoIaXY7ZDt3aG8aCWl2O2Q7dGhhdBoKaXY7ZDt3aGljaCpqCgVob2xkcxWeUyQ_GgNoYXMaBGhhdmUaBGhlbGQaBGhvbGQaBWtlZXBzGghpdjtkO2hhcxoJaXY7ZDtoYXZlGglpdjtkO2hlbGQaCWl2O2Q7aG9sZBoKaXY7ZDtrZWVwcxoHaG9sZGluZyojCgdwYXRlbnRzFRKVQT8aBnBhdGVudBoLaXY7ZDtwYXRlbnQqCQoCb24VAAAAACo8CgVkcm9uZRVbKehAGgZkcm9uZXMaDWRyb25lZGVsaXZlcnkaCml2O2Q7ZHJvbmUaC2l2O2Q7ZHJvbmVzKmUKCGRlbGl2ZXJ5FVSy6EAaCmRlbGl2ZXJpZXMaCXRyYW5zcG9ydBoNZHJvbmVkZWxpdmVyeRoPZGVsaXZlcnlzeXN0ZW1zGg1pdjtkO2RlbGl2ZXJ5Gg5pdjtkO3RyYW5zcG9ydCplCgdzeXN0ZW1zFQAAAAAaB3NlcnZpY2UaBnN5c3RlbRoKdGVjaG5vbG9neRoPZGVsaXZlcnlzeXN0ZW1zGgxpdjtkO3N5c3RlbXMaDGl2O2Q7c2VydmljZRoLaXY7ZDtzeXN0ZW0y4AEvZ290bz91cmw9Q0FFU213RUI2enN3RlZONVNwYV9Ub293ZE1hNzZ5OUhiVjhMZmxMdk1GVVNmbHVONXdpTjA2c1VTZWlnSVRIYzNpZmdlbTMxZHNsRU92Q1hLS3JEZElTVUZ1QTFBSVRDajJuTjV4YWJTN01DV3d1QjluTzFEVnVmWkFlNXJfTm9WcVZfTnNSeWdMN3pNcExSYW5NMTRYbVRGOElUOWhEbzFHQ2hEbW9jbGc5RHlmTjRlWDV4V3lGeVNwQ2dFY0FCdHA3YWhkN2ZITWZZU2dWa2EzVkZ1QTpRRmxpcnRleSYjMzk7cyBOZXcgR3JhbnRlZCA8Yj5QYXRlbnQ8L2I-IGlzIEluc3RydW1lbnRhbCBmb3IgPGI-RHJvbmUgRGVsaXZlcnk8L2I-QqcB4oCcV2UgYXJlIHRocmlsbGVkIHRoYXQgdGhlIDxiPlVuaXRlZCBTdGF0ZXMgUGF0ZW50IGFuZCBUcmFkZW1hcmsgT2ZmaWNlPC9iPiBoYXMgZ3JhbnRlZCBGbGlydGV5IGFub3RoZXIgcGF0ZW50IHRoYXQgaXMgZnVuZGFtZW50YWwgdG8gc2FmZSBhbmQgcHJlY2lzZSBkcm9uZSBkZWxpdmVyeS5KAm9uUgNoYXNSBHRoYXRSBGhhdmUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZWTjVTcGFfVG9vd2RNYTc2eTlIYlY4TGZsTHZNRlVTZmx1TjV3aU4wNnNVU2VpZ0lUSGMzaWZnZW0zMWRzbEVPdkNYS0tyRGRJU1VGdUExQUlUQ2oybk41eGFiUzdNQ1d3dUI5bk8xRFZ1ZlpBZTVyX05vVnFWX05zUnlnTDd6TXBMUmFuTTE0WG1URjhJVDloRG8xR0NoRG1vY2xnOUR5Zk40ZVg1eFd5RnlTcENnRWNBQnRwN2FoZDdmSE1mWVNnVmthM1ZGdUESBBoCCAAahQgSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDfBwgAEAAYACAAKjgKA3dobxUAAAAAGgR0aGF0GgV3aGljaBoIaXY7ZDt3aG8aCWl2O2Q7dGhhdBoKaXY7ZDt3aGljaCpqCgVob2xkcxWeUyQ_GgNoYXMaBGhhdmUaBGhlbGQaBGhvbGQaBWtlZXBzGghpdjtkO2hhcxoJaXY7ZDtoYXZlGglpdjtkO2hlbGQaCWl2O2Q7aG9sZBoKaXY7ZDtrZWVwcxoHaG9sZGluZyojCgdwYXRlbnRzFRKVQT8aBnBhdGVudBoLaXY7ZDtwYXRlbnQqCQoCb24VAAAAACo8CgVkcm9uZRVbKehAGgZkcm9uZXMaDWRyb25lZGVsaXZlcnkaCml2O2Q7ZHJvbmUaC2l2O2Q7ZHJvbmVzKmUKCGRlbGl2ZXJ5FVSy6EAaCmRlbGl2ZXJpZXMaCXRyYW5zcG9ydBoNZHJvbmVkZWxpdmVyeRoPZGVsaXZlcnlzeXN0ZW1zGg1pdjtkO2RlbGl2ZXJ5Gg5pdjtkO3RyYW5zcG9ydCplCgdzeXN0ZW1zFQAAAAAaB3NlcnZpY2UaBnN5c3RlbRoKdGVjaG5vbG9neRoPZGVsaXZlcnlzeXN0ZW1zGgxpdjtkO3N5c3RlbXMaDGl2O2Q7c2VydmljZRoLaXY7ZDtzeXN0ZW0y4AEvZ290bz91cmw9Q0FFU213RUI2enN3RlZONVNwYV9Ub293ZE1hNzZ5OUhiVjhMZmxMdk1GVVNmbHVONXdpTjA2c1VTZWlnSVRIYzNpZmdlbTMxZHNsRU92Q1hLS3JEZElTVUZ1QTFBSVRDajJuTjV4YWJTN01DV3d1QjluTzFEVnVmWkFlNXJfTm9WcVZfTnNSeWdMN3pNcExSYW5NMTRYbVRGOElUOWhEbzFHQ2hEbW9jbGc5RHlmTjRlWDV4V3lGeVNwQ2dFY0FCdHA3YWhkN2ZITWZZU2dWa2EzVkZ1QTpRRmxpcnRleSYjMzk7cyBOZXcgR3JhbnRlZCA8Yj5QYXRlbnQ8L2I-IGlzIEluc3RydW1lbnRhbCBmb3IgPGI-RHJvbmUgRGVsaXZlcnk8L2I-QqcB4oCcV2UgYXJlIHRocmlsbGVkIHRoYXQgdGhlIDxiPlVuaXRlZCBTdGF0ZXMgUGF0ZW50IGFuZCBUcmFkZW1hcmsgT2ZmaWNlPC9iPiBoYXMgZ3JhbnRlZCBGbGlydGV5IGFub3RoZXIgcGF0ZW50IHRoYXQgaXMgZnVuZGFtZW50YWwgdG8gc2FmZSBhbmQgcHJlY2lzZSBkcm9uZSBkZWxpdmVyeS5KAm9uUgNoYXNSBHRoYXRSBGhhdmUiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Arrive AI has developed and secured patents covering every essential aspect of last-inch delivery. Some of our most notable innovations include:.",
-      "icon": "https://serpapi.com/images/i/UklGRtwAAABXRUJQVlA4INAAAADQBACdASocABwAPtEutFooIagoGAEAGgllAABc6yxFwSfAIV0V26lZZjd079VQwAD-9CHc_b4WTs9CmH9N8XBfrBn7nhRUBGbf98ciHt-7kNW04fiK2FrfMvU9NzjMDbcLF5W7QPOs3GP4cNTwpxv03jUEgWynd4WR3FP733td_8XLzrux_opyDANPEZ_8hWgfiI-EpN95iHcn4mw9__fgGU0Y3YiJM_-ein_8Jn_8IH_7cUUt5_v0s2_rKP2v1FG-O-yuT0Mo_7iaudiRAAAA.webp",
-      "source_info_link": "https://www.arriveai.com/blog/arrive-ai-owning-the-future-of-precision-drone-deliveries"
+      "description": "“We are thrilled that the United States Patent and Trademark Office has granted Flirtey another patent that is fundamental to safe and precise drone delivery.",
+      "source_info_link": "https://www.suasnews.com/2020/05/flirteys-new-granted-patent-is-instrumental-for-drone-delivery/"
      }
     },
-    "date": "Feb 11, 2025",
-    "displayed_link": "https://www.arriveai.com › blog › arrive-ai-owning-the...",
-    "favicon": "https://serpapi.com/images/i/UklGRtwAAABXRUJQVlA4INAAAADQBACdASocABwAPtEutFooIagoGAEAGgllAABc6yxFwSfAIV0V26lZZjd079VQwAD-9CHc_b4WTs9CmH9N8XBfrBn7nhRUBGbf98ciHt-7kNW04fiK2FrfMvU9NzjMDbcLF5W7QPOs3GP4cNTwpxv03jUEgWynd4WR3FP733td_8XLzrux_opyDANPEZ_8hWgfiI-EpN95iHcn4mw9__fgGU0Y3YiJM_-ein_8Jn_8IH_7cUUt5_v0s2_rKP2v1FG-O-yuT0Mo_7iaudiRAAAA.webp",
-    "link": "https://www.arriveai.com/blog/arrive-ai-owning-the-future-of-precision-drone-deliveries",
+    "displayed_link": "https://www.suasnews.com › 2020/05",
+    "link": "https://www.suasnews.com/2020/05/flirteys-new-granted-patent-is-instrumental-for-drone-delivery/",
     "position": 7,
-    "read_more_link": "https://www.arriveai.com/blog/arrive-ai-owning-the-future-of-precision-drone-deliveries#:~:text=Arrive%20AI%20has%20developed%20and,our%20most%20notable%20innovations%20include%3A",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFW_Brcs7tvJFnECYQQbM-pjY8xOZSIkK9AbZkDw91uAzTS2vTkaiNhR_gVnRDJajYdKLZKQyFtTJnxluYwqXF9LpGwdPDqdmxMTQ2j6Wcqrfi2fBjuhI2-VgChpODDfSlEZmCwtWzGfL7J3WCyaRQW573kl7kxNB_KyShmNZrrOe_IAaEu9LLvRPPg&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQFnoECEYQAQ&uoh=1",
-    "snippet": "Arrive AI has developed and secured patents covering every essential aspect of last-inch delivery. Some of our most notable innovations include:.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFVN5Spa_ToowdMa76y9HbV8LflLvMFUSfluN5wiN06sUSeigITHc3ifgem31dslEOvCXKKrDdISUFuA1AITCj2nN5xabS7MCWwuB9nO1DVufZAe5r_NoVqV_NsRygL7zMpLRanM14XmTF8IT9hDo1GChDmoclg9DyfN4eX5xWyFySpCgEcABtp7ahd7fHMfYSgVka3VFuA&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQFnoECDQQAQ&uoh=1",
+    "snippet": "“We are thrilled that the United States Patent and Trademark Office has granted Flirtey another patent that is fundamental to safe and precise drone delivery.",
     "snippet_highlighted_words": [
-     "Arrive AI"
+     "United States Patent and Trademark Office"
     ],
-    "source": "Arrive AI",
-    "title": "Arrive AI: Owning the future of precision drone deliveries"
+    "source": "sUAS News",
+    "title": "Flirtey's New Granted Patent is Instrumental for Drone ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZXWW1iNmVSQ1BkaUI5ODdJaUprWHpWcTRQR1J6b0xvU2tvSU5KWUVPSzk4UnNMc0V5TVBSNUlGRTJqTWZfOFE3MGxDTTZndmprUktDMkNfLS1XV0hCZ0lnTzBBV1c0WklUVFkyVFJ1UUhrd1JCR0R4U0JfdG1NRkd6aGl5M3NTejFGYzVWdDhOYWJjZXU3NDhrV3M0X0xtZ3BrckhQaUloQlJkeVlmQ3B5VFNYZ0c5MnV1enRfd0FCVWFBUjdNUEhpVjl1SU1SQnVzMlB6V0lvWUM3RVhKZ1FPM1dyUVNIallpZjdTRHhSSlUwR24xa3VqTzZsWE1Cb2NHd3B3EgQaAggAGqkIEgAaAggBIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAgwgIABAAGAAgACo4CgN3aG8Vdo-1PhoEdGhhdBoFd2hpY2gaCGl2O2Q7d2hvGglpdjtkO3RoYXQaCml2O2Q7d2hpY2gqagoFaG9sZHMVYWSZPRoDaGFzGgRoYXZlGgRoZWxkGgRob2xkGgVrZWVwcxoIaXY7ZDtoYXMaCWl2O2Q7aGF2ZRoJaXY7ZDtoZWxkGglpdjtkO2hvbGQaCml2O2Q7a2VlcHMaB2hvbGRpbmcqIwoHcGF0ZW50cxXY-ZQ_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50KgkKAm9uFQAAAAAqPAoFZHJvbmUVHjceQBoGZHJvbmVzGg1kcm9uZWRlbGl2ZXJ5GgppdjtkO2Ryb25lGgtpdjtkO2Ryb25lcyplCghkZWxpdmVyeRWXVBFAGgpkZWxpdmVyaWVzGgl0cmFuc3BvcnQaDWRyb25lZGVsaXZlcnkaD2RlbGl2ZXJ5c3lzdGVtcxoNaXY7ZDtkZWxpdmVyeRoOaXY7ZDt0cmFuc3BvcnQqZQoHc3lzdGVtcxUeCxY_GgdzZXJ2aWNlGgZzeXN0ZW0aCnRlY2hub2xvZ3kaD2RlbGl2ZXJ5c3lzdGVtcxoMaXY7ZDtzeXN0ZW1zGgxpdjtkO3NlcnZpY2UaC2l2O2Q7c3lzdGVtMpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZXWW1iNmVSQ1BkaUI5ODdJaUprWHpWcTRQR1J6b0xvU2tvSU5KWUVPSzk4UnNMc0V5TVBSNUlGRTJqTWZfOFE3MGxDTTZndmprUktDMkNfLS1XV0hCZ0lnTzBBV1c0WklUVFkyVFJ1UUhrd1JCR0R4U0JfdG1NRkd6aGl5M3NTejFGYzVWdDhOYWJjZXU3NDhrV3M0X0xtZ3BrckhQaUloQlJkeVlmQ3B5VFNYZ0c5MnV1enRfd0FCVWFBUjdNUEhpVjl1SU1SQnVzMlB6V0lvWUM3RVhKZ1FPM1dyUVNIallpZjdTRHhSSlUwR24xa3VqTzZsWE1Cb2NHd3B3OkpUaGV5IGFsc28gb3duIGEgPGI-cGF0ZW50PC9iPiBvbiBhIDxiPnN5c3RlbTwvYj4gY2FwYWJsZSBvZiBkZWxpdmVyaW5nIC4uLkKeAVRoZXkgYWxzbyBvd24gYSBwYXRlbnQgb24gYSBzeXN0ZW0gY2FwYWJsZSBvZiBkZWxpdmVyaW5nIHBhY2thZ2VzIGJ5IHBhcmFjaHV0ZS4gPGI-QW1hem9uPC9iPiBoYXMgcGF0ZW50ZWQgYSBkcm9uZSB0aGF0IHJlYWN0cyB0byBwZW9wbGUgc2hvdXRpbmcgYW5kJm5ic3A7Li4uSgJvblIEaGF2ZVIEdGhhdFIDaGFzIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZXWW1iNmVSQ1BkaUI5ODdJaUprWHpWcTRQR1J6b0xvU2tvSU5KWUVPSzk4UnNMc0V5TVBSNUlGRTJqTWZfOFE3MGxDTTZndmprUktDMkNfLS1XV0hCZ0lnTzBBV1c0WklUVFkyVFJ1UUhrd1JCR0R4U0JfdG1NRkd6aGl5M3NTejFGYzVWdDhOYWJjZXU3NDhrV3M0X0xtZ3BrckhQaUloQlJkeVlmQ3B5VFNYZ0c5MnV1enRfd0FCVWFBUjdNUEhpVjl1SU1SQnVzMlB6V0lvWUM3RVhKZ1FPM1dyUVNIallpZjdTRHhSSlUwR24xa3VqTzZsWE1Cb2NHd3B3EgQaAggAGqkIEgAaAggBIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAgwgIABAAGAAgACo4CgN3aG8Vdo-1PhoEdGhhdBoFd2hpY2gaCGl2O2Q7d2hvGglpdjtkO3RoYXQaCml2O2Q7d2hpY2gqagoFaG9sZHMVYWSZPRoDaGFzGgRoYXZlGgRoZWxkGgRob2xkGgVrZWVwcxoIaXY7ZDtoYXMaCWl2O2Q7aGF2ZRoJaXY7ZDtoZWxkGglpdjtkO2hvbGQaCml2O2Q7a2VlcHMaB2hvbGRpbmcqIwoHcGF0ZW50cxXY-ZQ_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50KgkKAm9uFQAAAAAqPAoFZHJvbmUVHjceQBoGZHJvbmVzGg1kcm9uZWRlbGl2ZXJ5GgppdjtkO2Ryb25lGgtpdjtkO2Ryb25lcyplCghkZWxpdmVyeRWXVBFAGgpkZWxpdmVyaWVzGgl0cmFuc3BvcnQaDWRyb25lZGVsaXZlcnkaD2RlbGl2ZXJ5c3lzdGVtcxoNaXY7ZDtkZWxpdmVyeRoOaXY7ZDt0cmFuc3BvcnQqZQoHc3lzdGVtcxUeCxY_GgdzZXJ2aWNlGgZzeXN0ZW0aCnRlY2hub2xvZ3kaD2RlbGl2ZXJ5c3lzdGVtcxoMaXY7ZDtzeXN0ZW1zGgxpdjtkO3NlcnZpY2UaC2l2O2Q7c3lzdGVtMpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZXWW1iNmVSQ1BkaUI5ODdJaUprWHpWcTRQR1J6b0xvU2tvSU5KWUVPSzk4UnNMc0V5TVBSNUlGRTJqTWZfOFE3MGxDTTZndmprUktDMkNfLS1XV0hCZ0lnTzBBV1c0WklUVFkyVFJ1UUhrd1JCR0R4U0JfdG1NRkd6aGl5M3NTejFGYzVWdDhOYWJjZXU3NDhrV3M0X0xtZ3BrckhQaUloQlJkeVlmQ3B5VFNYZ0c5MnV1enRfd0FCVWFBUjdNUEhpVjl1SU1SQnVzMlB6V0lvWUM3RVhKZ1FPM1dyUVNIallpZjdTRHhSSlUwR24xa3VqTzZsWE1Cb2NHd3B3OkpUaGV5IGFsc28gb3duIGEgPGI-cGF0ZW50PC9iPiBvbiBhIDxiPnN5c3RlbTwvYj4gY2FwYWJsZSBvZiBkZWxpdmVyaW5nIC4uLkKeAVRoZXkgYWxzbyBvd24gYSBwYXRlbnQgb24gYSBzeXN0ZW0gY2FwYWJsZSBvZiBkZWxpdmVyaW5nIHBhY2thZ2VzIGJ5IHBhcmFjaHV0ZS4gPGI-QW1hem9uPC9iPiBoYXMgcGF0ZW50ZWQgYSBkcm9uZSB0aGF0IHJlYWN0cyB0byBwZW9wbGUgc2hvdXRpbmcgYW5kJm5ic3A7Li4uSgJvblIEaGF2ZVIEdGhhdFIDaGFzIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Browse drone & uav patents and portfolios for sale through IPOfferings. Contact our brokerage team for prospectus and acquisition details.",
-      "icon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAACwBQCdASocABwAPtEwtFooIigoGAEAGglsAJ0y43AZACuAALdsl2oeBA3OlkGZ2NnisvjmTgAA_vDFfbtdjrhf2IbNC6HYINS63OiNTdVDVH6OH4TX07cx7sVluDfiBIoWPQAFgo3RwQ1dIA4UbvVSZWW35GO3oi3_n3Nx5NJP2y8ZD2esicZAsXbYxpgxpHDJ614nsfRObzQxRExoj_P_f9S2JiYpu7O3DqLkm97H3xcSUNpoXfdhX1zKBgsu2gAAAA.webp",
-      "source_info_link": "https://ipofferings.com/patents-for-sale-drones-uavs.php"
+      "description": "They also own a patent on a system capable of delivering packages by parachute. Amazon has patented a drone that reacts to people shouting and ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/thv11/posts/they-also-own-a-patent-on-a-system-capable-of-delivering-packages-by-parachute/10156232535628554/"
      }
     },
-    "displayed_link": "https://ipofferings.com › Patent Marketplace",
-    "favicon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAACwBQCdASocABwAPtEwtFooIigoGAEAGglsAJ0y43AZACuAALdsl2oeBA3OlkGZ2NnisvjmTgAA_vDFfbtdjrhf2IbNC6HYINS63OiNTdVDVH6OH4TX07cx7sVluDfiBIoWPQAFgo3RwQ1dIA4UbvVSZWW35GO3oi3_n3Nx5NJP2y8ZD2esicZAsXbYxpgxpHDJ614nsfRObzQxRExoj_P_f9S2JiYpu7O3DqLkm97H3xcSUNpoXfdhX1zKBgsu2gAAAA.webp",
-    "link": "https://ipofferings.com/patents-for-sale-drones-uavs.php",
+    "displayed_link": "Reakcijų: daugiau nei 10 · prieš 8 metus",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/thv11/posts/they-also-own-a-patent-on-a-system-capable-of-delivering-packages-by-parachute/10156232535628554/",
     "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAV3sOIhE6mqszEy7rXVFx_hwktTE7qUw4IMYXOAf_I2WHmFGYLnNlHAdkKk_DXrnDfxHSh4rqmu2azWVNmDSz8lO7P5bKjEp5htKoIt9aGgcwZutn_PGi-cL61xJ2RccyC6-t1fYfl-5ZCOX8&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQFnoECEEQAQ&uoh=1",
-    "snippet": "Browse drone & uav patents and portfolios for sale through IPOfferings. Contact our brokerage team for prospectus and acquisition details.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFWYmb6eRCPdiB987IiJkXzVq4PGRzoLoSkoINJYEOK98RsLsEyMPR5IFE2jMf_8Q70lCM6gvjkRKC2C_--WWHBgIgO0AWW4ZITTY2TRuQHkwRBGDxSB_tmMFGzhiy3sSz1Fc5Vt8Nabceu748kWs4_LmgpkrHPiIhBRdyYfCpyTSXgG92uuzt_wABUaAR7MPHiV9uIMRBus2PzWIoYC7EXJgQO3WrQSHjYif7SDxRJU0Gn1kujO6lXMBocGwpw&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQFnoECDwQAQ&uoh=1",
+    "snippet": "They also own a patent on a system capable of delivering packages by parachute. Amazon has patented a drone that reacts to people shouting and ...",
     "snippet_highlighted_words": [
-     "IPOfferings"
+     "Amazon"
     ],
-    "source": "IPOfferings",
-    "title": "Drone & UAV Patents for Sale"
+    "source": "Facebook · THV11",
+    "title": "They also own a patent on a system capable of delivering ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZlcXduVU9EUzQzYkk2Z0dxcWFUWDlESmhBTVludkplRWkzRUdfVmJuQ1hSTmUwZVJDeTdHektqMlZBNmN3V0pkeDJvcDVQZE1ROWg0UDlNdkE1LWZpTXZKd291UHdEVDc0MzVzSE0yOWE3Sm1yZ0FoRkRqQ25pSTJIZUcwRE9zblUtYk9qbTRiN1NzczJLTUJMV0o1S2pocmRzSmNJVVRJb0ZXV1BjbU9vTUs1RElubFdPR0wwRDV0YUkSBBoCCAAa6QcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDDBwgAEAAYACAAKjgKA3dobxUAAAAAGgR0aGF0GgV3aGljaBoIaXY7ZDt3aG8aCWl2O2Q7dGhhdBoKaXY7ZDt3aGljaCpqCgVob2xkcxUAAAAAGgNoYXMaBGhhdmUaBGhlbGQaBGhvbGQaBWtlZXBzGghpdjtkO2hhcxoJaXY7ZDtoYXZlGglpdjtkO2hlbGQaCWl2O2Q7aG9sZBoKaXY7ZDtrZWVwcxoHaG9sZGluZyojCgdwYXRlbnRzFQAAAAAaBnBhdGVudBoLaXY7ZDtwYXRlbnQqCQoCb24VAAAAACo8CgVkcm9uZRU-BbFAGgZkcm9uZXMaDWRyb25lZGVsaXZlcnkaCml2O2Q7ZHJvbmUaC2l2O2Q7ZHJvbmVzKmUKCGRlbGl2ZXJ5FXxOw0AaCmRlbGl2ZXJpZXMaCXRyYW5zcG9ydBoNZHJvbmVkZWxpdmVyeRoPZGVsaXZlcnlzeXN0ZW1zGg1pdjtkO2RlbGl2ZXJ5Gg5pdjtkO3RyYW5zcG9ydCplCgdzeXN0ZW1zFQAAAAAaB3NlcnZpY2UaBnN5c3RlbRoKdGVjaG5vbG9neRoPZGVsaXZlcnlzeXN0ZW1zGgxpdjtkO3N5c3RlbXMaDGl2O2Q7c2VydmljZRoLaXY7ZDtzeXN0ZW0y0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmVxd25VT0RTNDNiSTZnR3FxYVRYOURKaEFNWW52SmVFaTNFR19WYm5DWFJOZTBlUkN5N0d6S2oyVkE2Y3dXSmR4Mm9wNVBkTVE5aDRQOU12QTUtZmlNdkp3b3VQd0RUNzQzNXNITTI5YTdKbXJnQWhGRGpDbmlJMkhlRzBET3NuVS1iT2ptNGI3U3NzMktNQkxXSjVLamhyZHNKY0lVVElvRldXUGNtT29NSzVESW5sV09HTDBENXRhSTpJQW1hem9uJiMzOTtzIDxiPkRyb25lIERlbGl2ZXJ5IFBhdGVudDwvYj4gSnVzdCBGZWVscyBMaWtlIFRyb2xsaW5nIEF0IC4uLkKiAU9yaWdpbmFsbHkgZmlsZWQgaW4gU2VwdGVtYmVyIDIwMTQgdGhlIFVTUFRPIGp1c3QgZ3JhbnRlZCA8Yj5BbWF6b248L2I-IGEgcGF0ZW50IGZvciBhbiDigJxVbm1hbm5lZCBBZXJpYWwgVmVoaWNsZSBEZWxpdmVyeSBTeXN0ZW0s4oCdIGluIHdoaWNoIFVBVnMgYXJlLCZuYnNwOy4uLkoCb25SA2hhc1IEdGhhdFIEaGF2ZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZlcXduVU9EUzQzYkk2Z0dxcWFUWDlESmhBTVludkplRWkzRUdfVmJuQ1hSTmUwZVJDeTdHektqMlZBNmN3V0pkeDJvcDVQZE1ROWg0UDlNdkE1LWZpTXZKd291UHdEVDc0MzVzSE0yOWE3Sm1yZ0FoRkRqQ25pSTJIZUcwRE9zblUtYk9qbTRiN1NzczJLTUJMV0o1S2pocmRzSmNJVVRJb0ZXV1BjbU9vTUs1RElubFdPR0wwRDV0YUkSBBoCCAAa6QcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDDBwgAEAAYACAAKjgKA3dobxUAAAAAGgR0aGF0GgV3aGljaBoIaXY7ZDt3aG8aCWl2O2Q7dGhhdBoKaXY7ZDt3aGljaCpqCgVob2xkcxUAAAAAGgNoYXMaBGhhdmUaBGhlbGQaBGhvbGQaBWtlZXBzGghpdjtkO2hhcxoJaXY7ZDtoYXZlGglpdjtkO2hlbGQaCWl2O2Q7aG9sZBoKaXY7ZDtrZWVwcxoHaG9sZGluZyojCgdwYXRlbnRzFQAAAAAaBnBhdGVudBoLaXY7ZDtwYXRlbnQqCQoCb24VAAAAACo8CgVkcm9uZRU-BbFAGgZkcm9uZXMaDWRyb25lZGVsaXZlcnkaCml2O2Q7ZHJvbmUaC2l2O2Q7ZHJvbmVzKmUKCGRlbGl2ZXJ5FXxOw0AaCmRlbGl2ZXJpZXMaCXRyYW5zcG9ydBoNZHJvbmVkZWxpdmVyeRoPZGVsaXZlcnlzeXN0ZW1zGg1pdjtkO2RlbGl2ZXJ5Gg5pdjtkO3RyYW5zcG9ydCplCgdzeXN0ZW1zFQAAAAAaB3NlcnZpY2UaBnN5c3RlbRoKdGVjaG5vbG9neRoPZGVsaXZlcnlzeXN0ZW1zGgxpdjtkO3N5c3RlbXMaDGl2O2Q7c2VydmljZRoLaXY7ZDtzeXN0ZW0y0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmVxd25VT0RTNDNiSTZnR3FxYVRYOURKaEFNWW52SmVFaTNFR19WYm5DWFJOZTBlUkN5N0d6S2oyVkE2Y3dXSmR4Mm9wNVBkTVE5aDRQOU12QTUtZmlNdkp3b3VQd0RUNzQzNXNITTI5YTdKbXJnQWhGRGpDbmlJMkhlRzBET3NuVS1iT2ptNGI3U3NzMktNQkxXSjVLamhyZHNKY0lVVElvRldXUGNtT29NSzVESW5sV09HTDBENXRhSTpJQW1hem9uJiMzOTtzIDxiPkRyb25lIERlbGl2ZXJ5IFBhdGVudDwvYj4gSnVzdCBGZWVscyBMaWtlIFRyb2xsaW5nIEF0IC4uLkKiAU9yaWdpbmFsbHkgZmlsZWQgaW4gU2VwdGVtYmVyIDIwMTQgdGhlIFVTUFRPIGp1c3QgZ3JhbnRlZCA8Yj5BbWF6b248L2I-IGEgcGF0ZW50IGZvciBhbiDigJxVbm1hbm5lZCBBZXJpYWwgVmVoaWNsZSBEZWxpdmVyeSBTeXN0ZW0s4oCdIGluIHdoaWNoIFVBVnMgYXJlLCZuYnNwOy4uLkoCb25SA2hhc1IEdGhhdFIEaGF2ZSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Draganfly recently announced it had been selected by Coldchain Technology Services, LLC to immediately develop and provide flight services of a robust vaccine ...",
-      "icon": "https://serpapi.com/images/i/UklGRr4AAABXRUJQVlA4ILIAAADwBACdASocABwAPtEwtFooIigoGAEAGglpAA58rRQWQA4-r1ldOp6isGfXiOz0DAAA_v6TmcnTp-rbS30v_-Nenvvwg_XoClZiP-VKlzJ_7dvO_1E-TGsVbhI06xUikQYMgt7EKugCnFfqw49sWeIcuEXbedQtQ_PB5gR61jyyWO6t-LeCmdpIYX6H_1u0_jMGNBX1feX-ZZQN7GY6v3b6v_bUX1z6gduYkRJyNuoIAAAA.webp",
-      "source_info_link": "https://draganfly.com/news/draganfly-issued-new-delivery-drone-patent/"
+      "description": "Originally filed in September 2014 the USPTO just granted Amazon a patent for an “Unmanned Aerial Vehicle Delivery System,” in which UAVs are, ...",
+      "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAwBwCdASocABwAPtE-tFooIigoFAEAGglsALElQQoMI_gAVTNlIvkqmACZZC_2Bw9-9Pk7RgPDbawT_0j4u3LRt5AA_vYC9j7jjjPYVz97lbbv5AveGiZYhOa3iB8Pb0-NRK2ovvkGD0eHyVU5Y5xY_T8r72ytPZnIN62gagGWMTR1_L0lcdpgWP53fvvz2vlWQPHBQhPTihltuhTgaApOrokvUlHQHZluyu1As29Koco2afldt25fh8Go_GUq5qrBp1CFmjTBe93nOx6wfv-PCs0TV4GkWVw7zNQ2Id7BvddSUm63wF_nHOtFfuJGv9c57gonzc1O80zfLhYmbSqHh8ma2rrQuzvATj_NaRsHHr5te3XLaadYFt8UdtwCesjL-jGfD__MV-vLKpHW5PAAAAA.webp",
+      "source_info_link": "https://gizmodo.com/amazons-drone-delivery-patent-just-feels-like-trolling-1703089005"
      }
     },
-    "displayed_link": "https://draganfly.com › news › draganfly-issued-new-d...",
-    "favicon": "https://serpapi.com/images/i/UklGRr4AAABXRUJQVlA4ILIAAADwBACdASocABwAPtEwtFooIigoGAEAGglpAA58rRQWQA4-r1ldOp6isGfXiOz0DAAA_v6TmcnTp-rbS30v_-Nenvvwg_XoClZiP-VKlzJ_7dvO_1E-TGsVbhI06xUikQYMgt7EKugCnFfqw49sWeIcuEXbedQtQ_PB5gR61jyyWO6t-LeCmdpIYX6H_1u0_jMGNBX1feX-ZZQN7GY6v3b6v_bUX1z6gduYkRJyNuoIAAAA.webp",
-    "link": "https://draganfly.com/news/draganfly-issued-new-delivery-drone-patent/",
+    "date": "2015-05-08",
+    "displayed_link": "https://gizmodo.com › amazons-dro...",
+    "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAwBwCdASocABwAPtE-tFooIigoFAEAGglsALElQQoMI_gAVTNlIvkqmACZZC_2Bw9-9Pk7RgPDbawT_0j4u3LRt5AA_vYC9j7jjjPYVz97lbbv5AveGiZYhOa3iB8Pb0-NRK2ovvkGD0eHyVU5Y5xY_T8r72ytPZnIN62gagGWMTR1_L0lcdpgWP53fvvz2vlWQPHBQhPTihltuhTgaApOrokvUlHQHZluyu1As29Koco2afldt25fh8Go_GUq5qrBp1CFmjTBe93nOx6wfv-PCs0TV4GkWVw7zNQ2Id7BvddSUm63wF_nHOtFfuJGv9c57gonzc1O80zfLhYmbSqHh8ma2rrQuzvATj_NaRsHHr5te3XLaadYFt8UdtwCesjL-jGfD__MV-vLKpHW5PAAAAA.webp",
+    "link": "https://gizmodo.com/amazons-drone-delivery-patent-just-feels-like-trolling-1703089005",
     "position": 9,
-    "read_more_link": "https://draganfly.com/news/draganfly-issued-new-delivery-drone-patent/#:~:text=Draganfly%20recently%20announced%20it%20had,delivery%20of%20the%20COVID%2D19%20vaccine.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAV_BExJGS5jz3rdEF1lcTXI_Ka3Q_4rrAEul27X1swDpXqgGKkqpfsY7ee6BWWxw9Np6R5bjF3rzNxIcebxW48mMhwlvO4ChXiCBkqOXVSnhyQeJtM44Sq-8C68qPFY_0qTOW3Tb6acOTc1lLdStZppLiyfUtWN-bwjw&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQFnoECD4QAQ&uoh=1",
-    "snippet": "Draganfly recently announced it had been selected by Coldchain Technology Services, LLC to immediately develop and provide flight services of a robust vaccine ...",
-    "source": "Draganfly",
-    "title": "Draganfly Issued New Delivery Drone Patent"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFeqwnUODS43bI6gGqqaTX9DJhAMYnvJeEi3EG_VbnCXRNe0eRCy7GzKj2VA6cwWJdx2op5PdMQ9h4P9MvA5-fiMvJwouPwDT7435sHM29a7JmrgAhFDjCniI2HeG0DOsnU-bOjm4b7Sss2KMBLWJ5KjhrdsJcIUTIoFWWPcmOoMK5DInlWOGL0D5taI&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQFnoECDUQAQ&uoh=1",
+    "snippet": "Originally filed in September 2014 the USPTO just granted Amazon a patent for an “Unmanned Aerial Vehicle Delivery System,” in which UAVs are, ...",
+    "snippet_highlighted_words": [
+     "Amazon"
+    ],
+    "source": "Gizmodo",
+    "title": "Amazon's Drone Delivery Patent Just Feels Like Trolling At ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=10&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8NMDegQIORAW",
+   "next": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsJvjzYlulvA8WUFWNy_J40clakdA:1790544682000&ei=KYu5asjQPKG22roPqK7nqAI&start=10&sa=N&sstk=AS6-VmLNDsmrWoS7dX4gpWx0KvvKka9MI8_9iuXsAsko7kelrUDaRjh_txkkfU0kRdwqs4wH1yBkQsUdDXSaiegpkblUAOTpb8pYIQ&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQ8NMDegQIMxAK",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=90&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8tMDegQIORAU",
-    "2": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=10&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8tMDegQIORAE",
-    "3": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=20&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8tMDegQIORAG",
-    "4": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=30&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8tMDegQIORAI",
-    "5": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=40&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8tMDegQIORAK",
-    "6": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=50&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8tMDegQIORAM",
-    "7": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=60&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8tMDegQIORAO",
-    "8": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=70&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8tMDegQIORAQ",
-    "9": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsJP9qsgA_awqozevEYg862ZJqnjA:1789905658309&ei=-sqvas-xErzT5NoPotvA2QI&start=80&sa=N&sstk=AS6-VmIAbjNyyz9CES2Jdu5rv4LFTSzkFfAy42dRxKtEyoSEMeQRPFtb8oVttJKFkSKUVjS84w-nsJnMfV3xtYh-41cQTpag5wYylA&ved=2ahUKEwjPlseXjv2WAxW8KVkFHaItMCsQ8tMDegQIORAS"
+    "2": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsJvjzYlulvA8WUFWNy_J40clakdA:1790544682000&ei=KYu5asjQPKG22roPqK7nqAI&start=10&sa=N&sstk=AS6-VmLNDsmrWoS7dX4gpWx0KvvKka9MI8_9iuXsAsko7kelrUDaRjh_txkkfU0kRdwqs4wH1yBkQsUdDXSaiegpkblUAOTpb8pYIQ&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQ8tMDegQIMxAE",
+    "3": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsJvjzYlulvA8WUFWNy_J40clakdA:1790544682000&ei=KYu5asjQPKG22roPqK7nqAI&start=20&sa=N&sstk=AS6-VmLNDsmrWoS7dX4gpWx0KvvKka9MI8_9iuXsAsko7kelrUDaRjh_txkkfU0kRdwqs4wH1yBkQsUdDXSaiegpkblUAOTpb8pYIQ&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQ8tMDegQIMxAG",
+    "4": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsJvjzYlulvA8WUFWNy_J40clakdA:1790544682000&ei=KYu5asjQPKG22roPqK7nqAI&start=30&sa=N&sstk=AS6-VmLNDsmrWoS7dX4gpWx0KvvKka9MI8_9iuXsAsko7kelrUDaRjh_txkkfU0kRdwqs4wH1yBkQsUdDXSaiegpkblUAOTpb8pYIQ&ved=2ahUKEwiIiebd2o-XAxUhm1YBHSjXGSUQ8tMDegQIMxAI"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rY3RabmhJTnpWUVRuQklMVmx6WkdWbVdtVjZiRXhqY1RGVFRIUlFZVU0wZVhwa1ZIZEZjMlZ6YUZWTVVVdHRUV1JVWm5aVlNrZDZUVjlKYjNkb05WOVphVGMxUTFRemRqWnRXbTlzTmtKMWJubzJkbFp0V0dkelVSSVhMWE54ZG1GekxYaEZjbnBVTlU1dlVHOTBka0V5VVVrYUlrRkVjM0k1WmxSeVgxaFlVMFl4TVd4NE1rRlFkMW8xWWxSRFgwNUNSRnBuUVVFIiwiZmN2IjoiMyIsImVpIjoiLXNxdmFzLXhFcnpUNU5vUG90dkEyUUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjk1czB2UHciLCJxdWVzdGlvbiI6IldobyBjb250cm9scyB0aGUgQW1hem9uIGRlbGl2ZXJ5IGRyb25lcz8iLCJsayI6IkdpZDNhRzhnWTI5dWRISnZiSE1nZEdobElHRnRZWHB2YmlCa1pXeHBkbVZ5ZVNCa2NtOXVaWE0iLCJicyI6ImMzM1BzUXJDTUJBR1lGd3pPUWNwTjltS1czUVBQb0JUS1hWTjA5QUUyNXdrcWFVLXZZWUtRaWlPeDMzMzN4MnBTRkZyQklrMk9PdzlCSzNnTW9nWFdtaFZiNTdLemRBNnRNcHpkcUQ1bEZxeGFzbVZIR3R0cEY3cVg5c0hsSGNQd24wbW9VTnNvUmxuempLNlc0Y0JJeUEzY2w3aUpBNFBZV2N3eV9aZXVFNzVrRzc1S3M2QVp2OEpLVWtlXzQ4SHhjREdkSEFDWTZFcWt3bk9DcnFmMXVqb0U3cmR2QUUiLCJpZCI6ImZjXy1zcXZhcy14RXJ6VDVOb1BvdHZBMlFJXzUifQ==",
-    "page_token": "lDBgKnicHdDdboIwGIDh7GY8VCjqpolZhlIFhayFflpOFmhRhPKz0enkbPeyq9rVzOwK3ifv94861-XvwyXXuu3mo9H1eh2emuaksqFoqlHS3WoxEolSaSLK-fRxaj4fxcL5dO3lu2sT1rawokZoaAgr3VEHv4q9dHlk1-HBxlDOklhJJUu59Zk0wgIX0Vq7Ys9R0mOVVXK32xuGqDGHshuzOg_TFdapo5ay8OiOPfXRCkgGlIuNh2QNtwwrQntZR5tGp8z0YeX2sfViiSK4EZVTgaAKqskE4DSJLbs_IHcSmKWmheyCXm0SpM8hbr9oqY0kEmNA3pSrlmXMg9QwUbCW1MmFFhZG_ODrzLk3FTGjakZSiyISeTSkzZkw2otCVcxUHA65tYN4G9fA_QLywIwd32zLu6PjvT9mZHAUl4U1-P-5eDtWet5-NKc_7MuDoQ",
-    "question": "Who controls the Amazon delivery drones?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lDBgKnicHdDdboIwGIDh7GY8VCjqpolZhlIFhayFflpOFmhRhPKz0enkbPeyq9rVzOwK3ifv94861-XvwyXXuu3mo9H1eh2emuaksqFoqlHS3WoxEolSaSLK-fRxaj4fxcL5dO3lu2sT1rawokZoaAgr3VEHv4q9dHlk1-HBxlDOklhJJUu59Zk0wgIX0Vq7Ys9R0mOVVXK32xuGqDGHshuzOg_TFdapo5ay8OiOPfXRCkgGlIuNh2QNtwwrQntZR5tGp8z0YeX2sfViiSK4EZVTgaAKqskE4DSJLbs_IHcSmKWmheyCXm0SpM8hbr9oqY0kEmNA3pSrlmXMg9QwUbCW1MmFFhZG_ODrzLk3FTGjakZSiyISeTSkzZkw2otCVcxUHA65tYN4G9fA_QLywIwd32zLu6PjvT9mZHAUl4U1-P-5eDtWet5-NKc_7MuDoQ",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rY3RabmhJTnpWUVRuQklMVmx6WkdWbVdtVjZiRXhqY1RGVFRIUlFZVU0wZVhwa1ZIZEZjMlZ6YUZWTVVVdHRUV1JVWm5aVlNrZDZUVjlKYjNkb05WOVphVGMxUTFRemRqWnRXbTlzTmtKMWJubzJkbFp0V0dkelVSSVhMWE54ZG1GekxYaEZjbnBVTlU1dlVHOTBka0V5VVVrYUlrRkVjM0k1WmxSeVgxaFlVMFl4TVd4NE1rRlFkMW8xWWxSRFgwNUNSRnBuUVVFIiwiZmN2IjoiMyIsImVpIjoiLXNxdmFzLXhFcnpUNU5vUG90dkEyUUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjk1czB2UHciLCJxdWVzdGlvbiI6IldobyBjb250cm9scyB0aGUgQW1hem9uIGRlbGl2ZXJ5IGRyb25lcz8iLCJsayI6IkdpZDNhRzhnWTI5dWRISnZiSE1nZEdobElHRnRZWHB2YmlCa1pXeHBkbVZ5ZVNCa2NtOXVaWE0iLCJicyI6ImMzM1BzUXJDTUJBR1lGd3pPUWNwTjltS1czUVBQb0JUS1hWTjA5QUUyNXdrcWFVLXZZWUtRaWlPeDMzMzN4MnBTRkZyQklrMk9PdzlCSzNnTW9nWFdtaFZiNTdLemRBNnRNcHpkcUQ1bEZxeGFzbVZIR3R0cEY3cVg5c0hsSGNQd24wbW9VTnNvUmxuempLNlc0Y0JJeUEzY2w3aUpBNFBZV2N3eV9aZXVFNzVrRzc1S3M2QVp2OEpLVWtlXzQ4SHhjREdkSEFDWTZFcWt3bk9DcnFmMXVqb0U3cmR2QUUiLCJpZCI6ImZjXy1zcXZhcy14RXJ6VDVOb1BvdHZBMlFJXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJXVkhjSEpLWTBseFlsQmtTVkk0Vld0eU0wRldMWFIzTUdWUVdVSkpTVGx4ZUU5S1NraFZOVTlTZW1acFVuZzJSeTFmWVdWeE1IZFBWR1JLZUZoSlRHeFpSMDFyVEZaemNrdE5VbmgyZEVsVmIyZHVOM1EzTmxGbVp4SVhTMWwxTldGemFsRlFTMGN5TW5KdlVIRkxOMjV4UVVrYUlrRkVjM0k1WmxGblJtcGxZWGR5TldsNVJqbGxVRTVtTjNsWWJXOVRNMVJIWjBFIiwiZmN2IjoiMyIsImVpIjoiS1l1NWFzalFQS0cyMnJvUHFLN25xQUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjlfQThRUHciLCJxdWVzdGlvbiI6IldoYXQgY29tcGFueSBtYWtlcyBkZWxpdmVyeSBkcm9uZXM/IiwibGsiOiJHaUozYUdGMElHTnZiWEJoYm5rZ2JXRnJaWE1nWkdWc2FYWmxjbmtnWkhKdmJtVnoiLCJicyI6ImMtUHk1bElPejBnc1VVak96eTFJekt0VXlFM01UaTFXU0VuTnlTeExMYXBVU0NuS3owc3R0amRTa1ZJcUo2aU15NTVMTmp3alh5R19QSzlZSVR3ekx4MGlEbGRtYnlRbkpWTU9VMUNPcVFCb2dFeDRCdEM0ekJRMEdZVzB4TXdjZXlONUtkbHkzUEtwS1Z4ZzctUkRuZWVZbTFpVm42ZU95enN3WllrNGxBa3dBZ0EiLCJpZCI6ImZjX0tZdTVhc2pRUEtHMjJyb1BxSzducUFJXzUifQ==",
+    "page_token": "kYIwjHicHdDbUoJAGADg6WW8TFbAyhmnGRREsq1d-BfhptmDirAcAgzlrnfpqXqaZvoe4fv-0eeq-L37yvq-6RbT6TAM96e6PunDvazLKe9ulZxKrrXgsljMH-bo-SiX7mXrrD63DoGmYWtqhIZnC43LyNevaua5srAGlasIZgEnhXpnBVxDL_MhZ2ccM8TWmU2BtmKFeBSxluwDLw0NW7AsxZBYb8Cuh1y3qa_fE9Ss-DqjUUStUOutKB9NPmNeeEat9JxKQtpxlliiUiUZT8YhZz71sEVGdaOI6qS4cjUGJcSoTzdYY7cwI53WuzgwXjfBS7zphpDJK_jqEqH6JgzsuJnaxXtAyR5_AnN2dNzeZPlEJHSmqDwnpPWZAB1lrktAQQ8mOwqd4XjT5OAnA7j2agcqAbDMpLADQiZH-bU0J_-fy49j2S-atj79AWfhg6Y",
+    "question": "What company makes delivery drones?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kYIwjHicHdDbUoJAGADg6WW8TFbAyhmnGRREsq1d-BfhptmDirAcAgzlrnfpqXqaZvoe4fv-0eeq-L37yvq-6RbT6TAM96e6PunDvazLKe9ulZxKrrXgsljMH-bo-SiX7mXrrD63DoGmYWtqhIZnC43LyNevaua5srAGlasIZgEnhXpnBVxDL_MhZ2ccM8TWmU2BtmKFeBSxluwDLw0NW7AsxZBYb8Cuh1y3qa_fE9Ss-DqjUUStUOutKB9NPmNeeEat9JxKQtpxlliiUiUZT8YhZz71sEVGdaOI6qS4cjUGJcSoTzdYY7cwI53WuzgwXjfBS7zphpDJK_jqEqH6JgzsuJnaxXtAyR5_AnN2dNzeZPlEJHSmqDwnpPWZAB1lrktAQQ8mOwqd4XjT5OAnA7j2agcqAbDMpLADQiZH-bU0J_-fy49j2S-atj79AWfhg6Y",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJXVkhjSEpLWTBseFlsQmtTVkk0Vld0eU0wRldMWFIzTUdWUVdVSkpTVGx4ZUU5S1NraFZOVTlTZW1acFVuZzJSeTFmWVdWeE1IZFBWR1JLZUZoSlRHeFpSMDFyVEZaemNrdE5VbmgyZEVsVmIyZHVOM1EzTmxGbVp4SVhTMWwxTldGemFsRlFTMGN5TW5KdlVIRkxOMjV4UVVrYUlrRkVjM0k1WmxGblJtcGxZWGR5TldsNVJqbGxVRTVtTjNsWWJXOVRNMVJIWjBFIiwiZmN2IjoiMyIsImVpIjoiS1l1NWFzalFQS0cyMnJvUHFLN25xQUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjlfQThRUHciLCJxdWVzdGlvbiI6IldoYXQgY29tcGFueSBtYWtlcyBkZWxpdmVyeSBkcm9uZXM%2FIiwibGsiOiJHaUozYUdGMElHTnZiWEJoYm5rZ2JXRnJaWE1nWkdWc2FYWmxjbmtnWkhKdmJtVnoiLCJicyI6ImMtUHk1bElPejBnc1VVak96eTFJekt0VXlFM01UaTFXU0VuTnlTeExMYXBVU0NuS3owc3R0amRTa1ZJcUo2aU15NTVMTmp3alh5R19QSzlZSVR3ekx4MGlEbGRtYnlRbkpWTU9VMUNPcVFCb2dFeDRCdEM0ekJRMEdZVzB4TXdjZXlONUtkbHkzUEtwS1Z4ZzctUkRuZWVZbTFpVm42ZU95enN3WllrNGxBa3dBZ0EiLCJpZCI6ImZjX0tZdTVhc2pRUEtHMjJyb1BxSzducUFJXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rY3RabmhJTnpWUVRuQklMVmx6WkdWbVdtVjZiRXhqY1RGVFRIUlFZVU0wZVhwa1ZIZEZjMlZ6YUZWTVVVdHRUV1JVWm5aVlNrZDZUVjlKYjNkb05WOVphVGMxUTFRemRqWnRXbTlzTmtKMWJubzJkbFp0V0dkelVSSVhMWE54ZG1GekxYaEZjbnBVTlU1dlVHOTBka0V5VVVrYUlrRkVjM0k1WmxSeVgxaFlVMFl4TVd4NE1rRlFkMW8xWWxSRFgwNUNSRnBuUVVFIiwiZmN2IjoiMyIsImVpIjoiLXNxdmFzLXhFcnpUNU5vUG90dkEyUUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjk1czB2UHciLCJxdWVzdGlvbiI6IldoaWNoIGRyb25lIGRlbGl2ZXJ5IHN0b2NrcyBhcmUgYSBnb29kIGJ1eT8iLCJsayI6IkdoeGtjbTl1WlNCa1pXeHBkbVZ5ZVNCemRHOWphM01nZEc4Z1luVjUiLCJicyI6ImMzM1BzUXJDTUJBR1lGd3pPUWNwTjltS1czUVBQb0JUS1hWTjA5QUUyNXdrcWFVLXZZWUtRaWlPeDMzMzN4MnBTRkZyQklrMk9PdzlCSzNnTW9nWFdtaFZiNTdLemRBNnRNcHpkcUQ1bEZxeGFzbVZIR3R0cEY3cVg5c0hsSGNQd24wbW9VTnNvUmxuempLNlc0Y0JJeUEzY2w3aUpBNFBZV2N3eV9aZXVFNzVrRzc1S3M2QVp2OEpLVWtlXzQ4SHhjREdkSEFDWTZFcWt3bk9DcnFmMXVqb0U3cmR2QUUiLCJpZCI6ImZjXy1zcXZhcy14RXJ6VDVOb1BvdHZBMlFJXzUifQ==",
-    "page_token": "wDKrqnicHdBfboIwAIDx7DI-TqDqoolZolLQKa6FFujLAuWftEBVFPBtd9mpdpqZXeDLL9_3jzzV4vflXrStui7G467rXvOmyWX6yptqHF2Hmo95JGUccbGYvc3094wvzdt2tT5vV4goRTdY82wxuLWjRSAHEaA6E3jqEHZhZQFSkmShX6yTusDYUDYTZJJCVTybYWJRI7Wd4QjhjAUqQKKnse9c3QfcEpK4rja1CBQgerAMBQlGQlWOoKfY6pVvM3akoZ7CXRNJeuIlA0mZTEIDHqgFz562a2Igzb2vR76VQAqlz8UEHDdh_zTtYxm2zCpMLOUlNFjgrrUBke2Uk742C95yAI0wOLSpSYdUIt2r5igG2EDeDru4OSGCH7yUFTHmd-IXH6SENZcKcGjqeLP69KlzQyXdx2JnsW6U8fsSjP5_Lr-yql2oS5P_AdXJhAA",
-    "question": "Which drone delivery stocks are a good buy?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wDKrqnicHdBfboIwAIDx7DI-TqDqoolZolLQKa6FFujLAuWftEBVFPBtd9mpdpqZXeDLL9_3jzzV4vflXrStui7G467rXvOmyWX6yptqHF2Hmo95JGUccbGYvc3094wvzdt2tT5vV4goRTdY82wxuLWjRSAHEaA6E3jqEHZhZQFSkmShX6yTusDYUDYTZJJCVTybYWJRI7Wd4QjhjAUqQKKnse9c3QfcEpK4rja1CBQgerAMBQlGQlWOoKfY6pVvM3akoZ7CXRNJeuIlA0mZTEIDHqgFz562a2Igzb2vR76VQAqlz8UEHDdh_zTtYxm2zCpMLOUlNFjgrrUBke2Uk742C95yAI0wOLSpSYdUIt2r5igG2EDeDru4OSGCH7yUFTHmd-IXH6SENZcKcGjqeLP69KlzQyXdx2JnsW6U8fsSjP5_Lr-yql2oS5P_AdXJhAA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rY3RabmhJTnpWUVRuQklMVmx6WkdWbVdtVjZiRXhqY1RGVFRIUlFZVU0wZVhwa1ZIZEZjMlZ6YUZWTVVVdHRUV1JVWm5aVlNrZDZUVjlKYjNkb05WOVphVGMxUTFRemRqWnRXbTlzTmtKMWJubzJkbFp0V0dkelVSSVhMWE54ZG1GekxYaEZjbnBVTlU1dlVHOTBka0V5VVVrYUlrRkVjM0k1WmxSeVgxaFlVMFl4TVd4NE1rRlFkMW8xWWxSRFgwNUNSRnBuUVVFIiwiZmN2IjoiMyIsImVpIjoiLXNxdmFzLXhFcnpUNU5vUG90dkEyUUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjk1czB2UHciLCJxdWVzdGlvbiI6IldoaWNoIGRyb25lIGRlbGl2ZXJ5IHN0b2NrcyBhcmUgYSBnb29kIGJ1eT8iLCJsayI6IkdoeGtjbTl1WlNCa1pXeHBkbVZ5ZVNCemRHOWphM01nZEc4Z1luVjUiLCJicyI6ImMzM1BzUXJDTUJBR1lGd3pPUWNwTjltS1czUVBQb0JUS1hWTjA5QUUyNXdrcWFVLXZZWUtRaWlPeDMzMzN4MnBTRkZyQklrMk9PdzlCSzNnTW9nWFdtaFZiNTdLemRBNnRNcHpkcUQ1bEZxeGFzbVZIR3R0cEY3cVg5c0hsSGNQd24wbW9VTnNvUmxuempLNlc0Y0JJeUEzY2w3aUpBNFBZV2N3eV9aZXVFNzVrRzc1S3M2QVp2OEpLVWtlXzQ4SHhjREdkSEFDWTZFcWt3bk9DcnFmMXVqb0U3cmR2QUUiLCJpZCI6ImZjXy1zcXZhcy14RXJ6VDVOb1BvdHZBMlFJXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJXVkhjSEpLWTBseFlsQmtTVkk0Vld0eU0wRldMWFIzTUdWUVdVSkpTVGx4ZUU5S1NraFZOVTlTZW1acFVuZzJSeTFmWVdWeE1IZFBWR1JLZUZoSlRHeFpSMDFyVEZaemNrdE5VbmgyZEVsVmIyZHVOM1EzTmxGbVp4SVhTMWwxTldGemFsRlFTMGN5TW5KdlVIRkxOMjV4UVVrYUlrRkVjM0k1WmxGblJtcGxZWGR5TldsNVJqbGxVRTVtTjNsWWJXOVRNMVJIWjBFIiwiZmN2IjoiMyIsImVpIjoiS1l1NWFzalFQS0cyMnJvUHFLN25xQUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjlfQThRUHciLCJxdWVzdGlvbiI6IldobyBvd25zIFdpbmcgZHJvbmUgZGVsaXZlcnk/IiwibGsiOiJHaHgzYUc4Z2IzZHVjeUIzYVc1bklHUnliMjVsSUdSbGJHbDJaWEo1IiwiYnMiOiJjLVB5NWxJT3owZ3NVVWpPenkxSXpLdFV5RTNNVGkxV1NFbk55U3hMTGFwVVNDbkt6MHN0dGpkU2tWSXFKNmlNeTU1TE5qd2pYeUdfUEs5WUlUd3pMeDBpRGxkbWJ5UW5KVk1PVTFDT3FRQm9nRXg0QnRDNHpCUTBHWVcweE13Y2V5TjVLZGx5M1BLcEtWeGc3LVJEbmVlWW0xaVZuNmVPeXpzd1pZazRsQWt3QWdBIiwiaWQiOiJmY19LWXU1YXNqUVBLRzIycm9QcUs3bnFBSV81In0=",
+    "page_token": "3UUiRHicHdBdToMwAADgeBkfBx2ibsliwtYiZFRbaMv6YqA4ulF-dDh-3ryLp_I0Jn5H-L5_zKmpfm-uuu-7y9qyhmFYlG1bmveFamsru0yNslRmTJ6pan3_cA-ejmoDvwJv-xF4hHUd31E7ZsjlvttJgXRkh5dDaiDmqwkDz8_huCtg2PNduFPMHiKzGmN_jF9Y-BzVdDwsUZAkVOMEPR8SqeWsP2mqvRe_9wXUWNmI7HlIcicEXGBHnhGQs3kljelEpVkBUEXMoyNEmESppKQibpzIETtweBd3S87LSZhw5jX-ihvccEeeklpKWSGGZ4li6GLC3CVdSlOAYIxs0EBd7EXKwCHFH4x7ezoHk6pXRLGLkzfIi2l7IozO6mxqjtREBewZL2hmsJPbaJBbu-eM7-NG1xEDr3K4Parrxrn9_9y8Het-3X225R8aKoJl",
+    "question": "Who owns Wing drone delivery?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3UUiRHicHdBdToMwAADgeBkfBx2ibsliwtYiZFRbaMv6YqA4ulF-dDh-3ryLp_I0Jn5H-L5_zKmpfm-uuu-7y9qyhmFYlG1bmveFamsru0yNslRmTJ6pan3_cA-ejmoDvwJv-xF4hHUd31E7ZsjlvttJgXRkh5dDaiDmqwkDz8_huCtg2PNduFPMHiKzGmN_jF9Y-BzVdDwsUZAkVOMEPR8SqeWsP2mqvRe_9wXUWNmI7HlIcicEXGBHnhGQs3kljelEpVkBUEXMoyNEmESppKQibpzIETtweBd3S87LSZhw5jX-ihvccEeeklpKWSGGZ4li6GLC3CVdSlOAYIxs0EBd7EXKwCHFH4x7ezoHk6pXRLGLkzfIi2l7IozO6mxqjtREBewZL2hmsJPbaJBbu-eM7-NG1xEDr3K4Parrxrn9_9y8Het-3X225R8aKoJl",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJXVkhjSEpLWTBseFlsQmtTVkk0Vld0eU0wRldMWFIzTUdWUVdVSkpTVGx4ZUU5S1NraFZOVTlTZW1acFVuZzJSeTFmWVdWeE1IZFBWR1JLZUZoSlRHeFpSMDFyVEZaemNrdE5VbmgyZEVsVmIyZHVOM1EzTmxGbVp4SVhTMWwxTldGemFsRlFTMGN5TW5KdlVIRkxOMjV4UVVrYUlrRkVjM0k1WmxGblJtcGxZWGR5TldsNVJqbGxVRTVtTjNsWWJXOVRNMVJIWjBFIiwiZmN2IjoiMyIsImVpIjoiS1l1NWFzalFQS0cyMnJvUHFLN25xQUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjlfQThRUHciLCJxdWVzdGlvbiI6IldobyBvd25zIFdpbmcgZHJvbmUgZGVsaXZlcnk%2FIiwibGsiOiJHaHgzYUc4Z2IzZHVjeUIzYVc1bklHUnliMjVsSUdSbGJHbDJaWEo1IiwiYnMiOiJjLVB5NWxJT3owZ3NVVWpPenkxSXpLdFV5RTNNVGkxV1NFbk55U3hMTGFwVVNDbkt6MHN0dGpkU2tWSXFKNmlNeTU1TE5qd2pYeUdfUEs5WUlUd3pMeDBpRGxkbWJ5UW5KVk1PVTFDT3FRQm9nRXg0QnRDNHpCUTBHWVcweE13Y2V5TjVLZGx5M1BLcEtWeGc3LVJEbmVlWW0xaVZuNmVPeXpzd1pZazRsQWt3QWdBIiwiaWQiOiJmY19LWXU1YXNqUVBLRzIycm9QcUs3bnFBSV81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rY3RabmhJTnpWUVRuQklMVmx6WkdWbVdtVjZiRXhqY1RGVFRIUlFZVU0wZVhwa1ZIZEZjMlZ6YUZWTVVVdHRUV1JVWm5aVlNrZDZUVjlKYjNkb05WOVphVGMxUTFRemRqWnRXbTlzTmtKMWJubzJkbFp0V0dkelVSSVhMWE54ZG1GekxYaEZjbnBVTlU1dlVHOTBka0V5VVVrYUlrRkVjM0k1WmxSeVgxaFlVMFl4TVd4NE1rRlFkMW8xWWxSRFgwNUNSRnBuUVVFIiwiZmN2IjoiMyIsImVpIjoiLXNxdmFzLXhFcnpUNU5vUG90dkEyUUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjk1czB2UHciLCJxdWVzdGlvbiI6IldoaWNoIGNvbXBhbnkgaXMgdGhlIGxhcmdlc3QgZHJvbmUgZGVsaXZlcnkgY29tcGFueT8iLCJsayI6IkdoNXNZWEpuWlhOMElHUnliMjVsSUdSbGJHbDJaWEo1SUdOdmJYQmhibmsiLCJicyI6ImMzM1BzUXJDTUJBR1lGd3pPUWNwTjltS1czUVBQb0JUS1hWTjA5QUUyNXdrcWFVLXZZWUtRaWlPeDMzMzN4MnBTRkZyQklrMk9PdzlCSzNnTW9nWFdtaFZiNTdLemRBNnRNcHpkcUQ1bEZxeGFzbVZIR3R0cEY3cVg5c0hsSGNQd24wbW9VTnNvUmxuempLNlc0Y0JJeUEzY2w3aUpBNFBZV2N3eV9aZXVFNzVrRzc1S3M2QVp2OEpLVWtlXzQ4SHhjREdkSEFDWTZFcWt3bk9DcnFmMXVqb0U3cmR2QUUiLCJpZCI6ImZjXy1zcXZhcy14RXJ6VDVOb1BvdHZBMlFJXzUifQ==",
-    "page_token": "w9l3UXicHdBfbpswHABg9TJ9bDAsnRYpmkqDN2hwxA__obxMxJC4wTZWQuPA267QM_RUO82mneCTvt-f-s32f-4-1Di6y2qx8N4_HIfhqLsHOZhFc5msXMhG630j-9Xj10f0_SDXyVXGz2cZF8w5voGgtEpJ45cVIlMRaUL0ccoNikqb-vr0NO7EiJlRhx3VbFfxRia9ZxtsQUDWhugsfsYEdGYkUgbCTBUzEKh4AZT3wuAzQbjhJ0VaC4hbzCDgzw3NXmmwTEuL41aT95pJv--dLQN4gYSne-y8_Gfk4SUCVDsSpHPzg01bdrt1SVvT6Gm5ZalvqriphR650Dbn8RJ0PwrLMx6QnAZfUGfhhVo5E-GGXYJwouQoIxy-VvnYJXzqdIGo-VbsIwgLmkEJw1vBYJYnbfiGXInBmombgRk7CLCjG7WVoTrRyEHeo7D19wd5XUf3_6_Xvw5mXLnzcPwLajON5A",
-    "question": "Which company is the largest drone delivery company?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=w9l3UXicHdBfbpswHABg9TJ9bDAsnRYpmkqDN2hwxA__obxMxJC4wTZWQuPA267QM_RUO82mneCTvt-f-s32f-4-1Di6y2qx8N4_HIfhqLsHOZhFc5msXMhG630j-9Xj10f0_SDXyVXGz2cZF8w5voGgtEpJ45cVIlMRaUL0ccoNikqb-vr0NO7EiJlRhx3VbFfxRia9ZxtsQUDWhugsfsYEdGYkUgbCTBUzEKh4AZT3wuAzQbjhJ0VaC4hbzCDgzw3NXmmwTEuL41aT95pJv--dLQN4gYSne-y8_Gfk4SUCVDsSpHPzg01bdrt1SVvT6Gm5ZalvqriphR650Dbn8RJ0PwrLMx6QnAZfUGfhhVo5E-GGXYJwouQoIxy-VvnYJXzqdIGo-VbsIwgLmkEJw1vBYJYnbfiGXInBmombgRk7CLCjG7WVoTrRyEHeo7D19wd5XUf3_6_Xvw5mXLnzcPwLajON5A",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rY3RabmhJTnpWUVRuQklMVmx6WkdWbVdtVjZiRXhqY1RGVFRIUlFZVU0wZVhwa1ZIZEZjMlZ6YUZWTVVVdHRUV1JVWm5aVlNrZDZUVjlKYjNkb05WOVphVGMxUTFRemRqWnRXbTlzTmtKMWJubzJkbFp0V0dkelVSSVhMWE54ZG1GekxYaEZjbnBVTlU1dlVHOTBka0V5VVVrYUlrRkVjM0k1WmxSeVgxaFlVMFl4TVd4NE1rRlFkMW8xWWxSRFgwNUNSRnBuUVVFIiwiZmN2IjoiMyIsImVpIjoiLXNxdmFzLXhFcnpUNU5vUG90dkEyUUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjk1czB2UHciLCJxdWVzdGlvbiI6IldoaWNoIGNvbXBhbnkgaXMgdGhlIGxhcmdlc3QgZHJvbmUgZGVsaXZlcnkgY29tcGFueT8iLCJsayI6IkdoNXNZWEpuWlhOMElHUnliMjVsSUdSbGJHbDJaWEo1SUdOdmJYQmhibmsiLCJicyI6ImMzM1BzUXJDTUJBR1lGd3pPUWNwTjltS1czUVBQb0JUS1hWTjA5QUUyNXdrcWFVLXZZWUtRaWlPeDMzMzN4MnBTRkZyQklrMk9PdzlCSzNnTW9nWFdtaFZiNTdLemRBNnRNcHpkcUQ1bEZxeGFzbVZIR3R0cEY3cVg5c0hsSGNQd24wbW9VTnNvUmxuempLNlc0Y0JJeUEzY2w3aUpBNFBZV2N3eV9aZXVFNzVrRzc1S3M2QVp2OEpLVWtlXzQ4SHhjREdkSEFDWTZFcWt3bk9DcnFmMXVqb0U3cmR2QUUiLCJpZCI6ImZjXy1zcXZhcy14RXJ6VDVOb1BvdHZBMlFJXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJXVkhjSEpLWTBseFlsQmtTVkk0Vld0eU0wRldMWFIzTUdWUVdVSkpTVGx4ZUU5S1NraFZOVTlTZW1acFVuZzJSeTFmWVdWeE1IZFBWR1JLZUZoSlRHeFpSMDFyVEZaemNrdE5VbmgyZEVsVmIyZHVOM1EzTmxGbVp4SVhTMWwxTldGemFsRlFTMGN5TW5KdlVIRkxOMjV4UVVrYUlrRkVjM0k1WmxGblJtcGxZWGR5TldsNVJqbGxVRTVtTjNsWWJXOVRNMVJIWjBFIiwiZmN2IjoiMyIsImVpIjoiS1l1NWFzalFQS0cyMnJvUHFLN25xQUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjlfQThRUHciLCJxdWVzdGlvbiI6IldoeSBkaWQgZHJvbmUgZGVsaXZlcnkgZmFpbD8iLCJsayI6IkdoMTNhSGtnWkdsa0lHUnliMjVsSUdSbGJHbDJaWEo1SUdaaGFXeGxaQSIsImJzIjoiYy1QeTVsSU96MGdzVVVqT3p5MUl6S3RVeUUzTVRpMVdTRW5OeVN4TExhcFVTQ25LejBzdHRqZFNrVklxSjZpTXk1NUxOandqWHlHX1BLOVlJVHd6THgwaURsZG1ieVFuSlZNT1UxQ09xUUJvZ0V4NEJ0QzR6QlEwR1lXMHhNd2NleU41S2RseTNQS3BLVnhnNy1SRG5lZVltMWlWbjZlT3l6c3daWWs0bEFrd0FnQSIsImlkIjoiZmNfS1l1NWFzalFQS0cyMnJvUHFLN25xQUlfNSJ9",
+    "page_token": "jRehKHicHdBdToMwAADgeJk9DgqCbsli7KAgk01KW6AvhpUxNspPBIHx5l08lafReIHv4fv6lpe6_LmLi75vu7WijOO4PDfNWZ6WoqmUtLvVQhGplMdUlGvzwQRPudjY3Qi3zQgD2rbMwipBz3NSrnJKEUyvYuS1R_mVDYHKNR88GglANZeFFFFPiD29EoABdgyc2tMQxPs8Iol2BHJkDKuYoV1SGS-RAwYRTT1z5YXH0sJ6MYV2u-MuLJKZ10Las4jZLlM7Pan6t8MWlCe20pKKadReUaE3INZlgx2O_yyXRobpI-5yLYszFIRI7XlGWCG0FlO7d_2rdzsCOIVz9iko8pyLB7G7vx0iTvaOUQkLh6nreZlamBkSE0PQ8isAE03eE6eAi1wMG33xP7Z5z6t-3X4051_6bXdQ",
+    "question": "Why did drone delivery fail?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jRehKHicHdBdToMwAADgeJk9DgqCbsli7KAgk01KW6AvhpUxNspPBIHx5l08lafReIHv4fv6lpe6_LmLi75vu7WijOO4PDfNWZ6WoqmUtLvVQhGplMdUlGvzwQRPudjY3Qi3zQgD2rbMwipBz3NSrnJKEUyvYuS1R_mVDYHKNR88GglANZeFFFFPiD29EoABdgyc2tMQxPs8Iol2BHJkDKuYoV1SGS-RAwYRTT1z5YXH0sJ6MYV2u-MuLJKZ10Las4jZLlM7Pan6t8MWlCe20pKKadReUaE3INZlgx2O_yyXRobpI-5yLYszFIRI7XlGWCG0FlO7d_2rdzsCOIVz9iko8pyLB7G7vx0iTvaOUQkLh6nreZlamBkSE0PQ8isAE03eE6eAi1wMG33xP7Z5z6t-3X4051_6bXdQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJXVkhjSEpLWTBseFlsQmtTVkk0Vld0eU0wRldMWFIzTUdWUVdVSkpTVGx4ZUU5S1NraFZOVTlTZW1acFVuZzJSeTFmWVdWeE1IZFBWR1JLZUZoSlRHeFpSMDFyVEZaemNrdE5VbmgyZEVsVmIyZHVOM1EzTmxGbVp4SVhTMWwxTldGemFsRlFTMGN5TW5KdlVIRkxOMjV4UVVrYUlrRkVjM0k1WmxGblJtcGxZWGR5TldsNVJqbGxVRTVtTjNsWWJXOVRNMVJIWjBFIiwiZmN2IjoiMyIsImVpIjoiS1l1NWFzalFQS0cyMnJvUHFLN25xQUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjlfQThRUHciLCJxdWVzdGlvbiI6IldoeSBkaWQgZHJvbmUgZGVsaXZlcnkgZmFpbD8iLCJsayI6IkdoMTNhSGtnWkdsa0lHUnliMjVsSUdSbGJHbDJaWEo1SUdaaGFXeGxaQSIsImJzIjoiYy1QeTVsSU96MGdzVVVqT3p5MUl6S3RVeUUzTVRpMVdTRW5OeVN4TExhcFVTQ25LejBzdHRqZFNrVklxSjZpTXk1NUxOandqWHlHX1BLOVlJVHd6THgwaURsZG1ieVFuSlZNT1UxQ09xUUJvZ0V4NEJ0QzR6QlEwR1lXMHhNd2NleU41S2RseTNQS3BLVnhnNy1SRG5lZVltMWlWbjZlT3l6c3daWWs0bEFrd0FnQSIsImlkIjoiZmNfS1l1NWFzalFQS0cyMnJvUHFLN25xQUlfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rY3RabmhJTnpWUVRuQklMVmx6WkdWbVdtVjZiRXhqY1RGVFRIUlFZVU0wZVhwa1ZIZEZjMlZ6YUZWTVVVdHRUV1JVWm5aVlNrZDZUVjlKYjNkb05WOVphVGMxUTFRemRqWnRXbTlzTmtKMWJubzJkbFp0V0dkelVSSVhMWE54ZG1GekxYaEZjbnBVTlU1dlVHOTBka0V5VVVrYUlrRkVjM0k1WmxSeVgxaFlVMFl4TVd4NE1rRlFkMW8xWWxSRFgwNUNSRnBuUVVFIiwiZmN2IjoiMyIsImVpIjoiLXNxdmFzLXhFcnpUNU5vUG90dkEyUUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjk1czB2UHciLCJxdWVzdGlvbiI6IldobyBhcmUgdGhlIGJpZyAzIGluIFVTIGRyb25lIGRlbGl2ZXJ5PyIsImxrIjoiR2laM2FHOGdZWEpsSUhSb1pTQmlhV2NnTXlCcGJpQjFjeUJrY205dVpTQmtaV3hwZG1WeWVRIiwiYnMiOiJjMzNQc1FyQ01CQUdZRnd6T1FjcE45bUtXM1FQUG9CVEtYVk4wOUFFMjV3a3FhVS12WVlLUWlpT3gzMzMzeDJwU0ZGckJJazJPT3c5QkszZ01vZ1hXbWhWYjU3S3pkQTZ0TXB6ZHFENWxGcXhhc21WSEd0dHBGN3FYOXNIbEhjUHduMG1vVU5zb1JsbnpqSzZXNGNCSXlBM2NsN2lKQTRQWVdjd3lfWmV1RTc1a0c3NUtzNkFadjhKS1VrZV80OEh4Y0RHZEhBQ1k2RXFrd25PQ3JxZjF1am9FN3JkdkFFIiwiaWQiOiJmY18tc3F2YXMteEVyelQ1Tm9Qb3R2QTJRSV81In0=",
-    "page_token": "v9oAinicHdBdbpswAABg7TJ9bAwknRIpmuSBSaPgFP_g4pcJbAjBNpDiJU3fdpedaqdptRN80vfnrz0P5t-3a-f9NG8Wi9vt9ngax5NtHtXoFtV8H9RCVdbWlTKbp-9PwY9WbZPfz_Dn5RnmfJqKmABquiVhuNehDhlY9TqSL2WPuUTrmAaZJ7vM82FPq13Ra4EuzPmhMXLITHEkoAxkUfQsMZEWslWuszWXXNDAaAbPh9d9UJp1Ug8JwAMHlZjDYwwP2LwTlXaCAQlp6mNsv5wBrzh4xzTmQDv0UnG8xHGHa4cSWsDLMfUHKvaQCORroMsjX65KgWyD9FS6ADfGv2UMRkmnvIpQWL5mvkmKe2PzgLl1XkckzNmeUDKec04-VG8d_0BztSM9EfOdp_LKhRVErFuOYC9TC8ooX_L8oVXXbfTw_3P7q3V-M72Np092UIJI",
-    "question": "Who are the big 3 in US drone delivery?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=v9oAinicHdBdbpswAABg7TJ9bAwknRIpmuSBSaPgFP_g4pcJbAjBNpDiJU3fdpedaqdptRN80vfnrz0P5t-3a-f9NG8Wi9vt9ngax5NtHtXoFtV8H9RCVdbWlTKbp-9PwY9WbZPfz_Dn5RnmfJqKmABquiVhuNehDhlY9TqSL2WPuUTrmAaZJ7vM82FPq13Ra4EuzPmhMXLITHEkoAxkUfQsMZEWslWuszWXXNDAaAbPh9d9UJp1Ug8JwAMHlZjDYwwP2LwTlXaCAQlp6mNsv5wBrzh4xzTmQDv0UnG8xHGHa4cSWsDLMfUHKvaQCORroMsjX65KgWyD9FS6ADfGv2UMRkmnvIpQWL5mvkmKe2PzgLl1XkckzNmeUDKec04-VG8d_0BztSM9EfOdp_LKhRVErFuOYC9TC8ooX_L8oVXXbfTw_3P7q3V-M72Np092UIJI",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rY3RabmhJTnpWUVRuQklMVmx6WkdWbVdtVjZiRXhqY1RGVFRIUlFZVU0wZVhwa1ZIZEZjMlZ6YUZWTVVVdHRUV1JVWm5aVlNrZDZUVjlKYjNkb05WOVphVGMxUTFRemRqWnRXbTlzTmtKMWJubzJkbFp0V0dkelVSSVhMWE54ZG1GekxYaEZjbnBVTlU1dlVHOTBka0V5VVVrYUlrRkVjM0k1WmxSeVgxaFlVMFl4TVd4NE1rRlFkMW8xWWxSRFgwNUNSRnBuUVVFIiwiZmN2IjoiMyIsImVpIjoiLXNxdmFzLXhFcnpUNU5vUG90dkEyUUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjk1czB2UHciLCJxdWVzdGlvbiI6IldobyBhcmUgdGhlIGJpZyAzIGluIFVTIGRyb25lIGRlbGl2ZXJ5PyIsImxrIjoiR2laM2FHOGdZWEpsSUhSb1pTQmlhV2NnTXlCcGJpQjFjeUJrY205dVpTQmtaV3hwZG1WeWVRIiwiYnMiOiJjMzNQc1FyQ01CQUdZRnd6T1FjcE45bUtXM1FQUG9CVEtYVk4wOUFFMjV3a3FhVS12WVlLUWlpT3gzMzMzeDJwU0ZGckJJazJPT3c5QkszZ01vZ1hXbWhWYjU3S3pkQTZ0TXB6ZHFENWxGcXhhc21WSEd0dHBGN3FYOXNIbEhjUHduMG1vVU5zb1JsbnpqSzZXNGNCSXlBM2NsN2lKQTRQWVdjd3lfWmV1RTc1a0c3NUtzNkFadjhKS1VrZV80OEh4Y0RHZEhBQ1k2RXFrd25PQ3JxZjF1am9FN3JkdkFFIiwiaWQiOiJmY18tc3F2YXMteEVyelQ1Tm9Qb3R2QTJRSV81In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJXVkhjSEpLWTBseFlsQmtTVkk0Vld0eU0wRldMWFIzTUdWUVdVSkpTVGx4ZUU5S1NraFZOVTlTZW1acFVuZzJSeTFmWVdWeE1IZFBWR1JLZUZoSlRHeFpSMDFyVEZaemNrdE5VbmgyZEVsVmIyZHVOM1EzTmxGbVp4SVhTMWwxTldGemFsRlFTMGN5TW5KdlVIRkxOMjV4UVVrYUlrRkVjM0k1WmxGblJtcGxZWGR5TldsNVJqbGxVRTVtTjNsWWJXOVRNMVJIWjBFIiwiZmN2IjoiMyIsImVpIjoiS1l1NWFzalFQS0cyMnJvUHFLN25xQUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjlfQThRUHciLCJxdWVzdGlvbiI6IldobyBtYWtlcyBBbWF6b24ncyBkZWxpdmVyeSBkcm9uZXM/IiwibGsiOiJHaUozYUc4Z2JXRnJaWE1nWVcxaGVtOXVKM01nWkdWc2FYWmxjbmtnWkhKdmJtVnoiLCJicyI6ImMtUHk1bElPejBnc1VVak96eTFJekt0VXlFM01UaTFXU0VuTnlTeExMYXBVU0NuS3owc3R0amRTa1ZJcUo2aU15NTVMTmp3alh5R19QSzlZSVR3ekx4MGlEbGRtYnlRbkpWTU9VMUNPcVFCb2dFeDRCdEM0ekJRMEdZVzB4TXdjZXlONUtkbHkzUEtwS1Z4ZzctUkRuZWVZbTFpVm42ZU95enN3WllrNGxBa3dBZ0EiLCJpZCI6ImZjX0tZdTVhc2pRUEtHMjJyb1BxSzducUFJXzUifQ==",
+    "page_token": "m_88EHicHdBRToMwGADgeBkfXTtQsyWLsWMdw41I6V9sXwxrHThKAYey8eZdPJWnMfE7wvf9Y99d9Xv1VfZ9e5pPJsMw3BRNU9i3G93Uk_x0cXqic2v3ua7md_d3-OGgF6vPDVl2G5JA24qAoRSThoelz2vhYpqMEs5oBwJiq9qMRrER9KCdinlI1mlInoS157RCZ5mdkQY7ilD5ulZrcKLb2whJ11xYQDpA_VIEemCBiHZO-hLwdCtUy7zVkFohchwJOUYdX1OnqXlmtQhizMDUZmoymmQhzQ2WtwzBaJCN9DHxZVWi3Cul5IbyY3xJqgJxr3W5mD2noMTbGpNVabbZC2D5EncgyJaNm4uuZ4mGk7d3lKSseU-Ajfpoa8AzlIwRyqHMdmCXKWc7PlVTjoo-HR99veqVGq4P-mvhXf9_Ll4PdT9vP5riDxsfgrQ",
+    "question": "Who makes Amazon's delivery drones?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=m_88EHicHdBRToMwGADgeBkfXTtQsyWLsWMdw41I6V9sXwxrHThKAYey8eZdPJWnMfE7wvf9Y99d9Xv1VfZ9e5pPJsMw3BRNU9i3G93Uk_x0cXqic2v3ua7md_d3-OGgF6vPDVl2G5JA24qAoRSThoelz2vhYpqMEs5oBwJiq9qMRrER9KCdinlI1mlInoS157RCZ5mdkQY7ilD5ulZrcKLb2whJ11xYQDpA_VIEemCBiHZO-hLwdCtUy7zVkFohchwJOUYdX1OnqXlmtQhizMDUZmoymmQhzQ2WtwzBaJCN9DHxZVWi3Cul5IbyY3xJqgJxr3W5mD2noMTbGpNVabbZC2D5EncgyJaNm4uuZ4mGk7d3lKSseU-Ajfpoa8AzlIwRyqHMdmCXKWc7PlVTjoo-HR99veqVGq4P-mvhXf9_Ll4PdT9vP5riDxsfgrQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJXVkhjSEpLWTBseFlsQmtTVkk0Vld0eU0wRldMWFIzTUdWUVdVSkpTVGx4ZUU5S1NraFZOVTlTZW1acFVuZzJSeTFmWVdWeE1IZFBWR1JLZUZoSlRHeFpSMDFyVEZaemNrdE5VbmgyZEVsVmIyZHVOM1EzTmxGbVp4SVhTMWwxTldGemFsRlFTMGN5TW5KdlVIRkxOMjV4UVVrYUlrRkVjM0k1WmxGblJtcGxZWGR5TldsNVJqbGxVRTVtTjNsWWJXOVRNMVJIWjBFIiwiZmN2IjoiMyIsImVpIjoiS1l1NWFzalFQS0cyMnJvUHFLN25xQUkiLCJxYyI6IkNpdDNhRzhnYUc5c1pITWdjR0YwWlc1MGN5QnZiaUJrY205dVpTQmtaV3hwZG1WeWVTQnplWE4wWlcxekVBQjlfQThRUHciLCJxdWVzdGlvbiI6IldobyBtYWtlcyBBbWF6b24ncyBkZWxpdmVyeSBkcm9uZXM%2FIiwibGsiOiJHaUozYUc4Z2JXRnJaWE1nWVcxaGVtOXVKM01nWkdWc2FYWmxjbmtnWkhKdmJtVnoiLCJicyI6ImMtUHk1bElPejBnc1VVak96eTFJekt0VXlFM01UaTFXU0VuTnlTeExMYXBVU0NuS3owc3R0amRTa1ZJcUo2aU15NTVMTmp3alh5R19QSzlZSVR3ekx4MGlEbGRtYnlRbkpWTU9VMUNPcVFCb2dFeDRCdEM0ekJRMEdZVzB4TXdjZXlONUtkbHkzUEtwS1Z4ZzctUkRuZWVZbTFpVm42ZU95enN3WllrNGxBa3dBZ0EiLCJpZCI6ImZjX0tZdTVhc2pRUEtHMjJyb1BxSzducUFJXzUifQ%3D%3D",
     "type": "ai_overview"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Who holds patents on drone delivery systems?",
-   "time_taken_displayed": 0.21,
-   "total_results": 157
+   "time_taken_displayed": 0.22,
+   "total_results": 104000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:00:58 UTC",
+   "created_at": "2026-09-27 21:31:21 UTC",
    "google_url": "https://www.google.com/search?q=Who+holds+patents+on+drone+delivery+systems%3F&oq=Who+holds+patents+on+drone+delivery+systems%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcafa14537b426d388a03",
-   "json_endpoint": "https://serpapi.com/searches/Xt2EE9ap7dOzGNo4UNO7_2pmWzg33Gi1YpzHcE1VQ9Q/6aafcafa14537b426d388a03.json",
-   "markdown_endpoint": "https://serpapi.com/searches/Xt2EE9ap7dOzGNo4UNO7_2pmWzg33Gi1YpzHcE1VQ9Q/6aafcafa14537b426d388a03.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/Xt2EE9ap7dOzGNo4UNO7_2pmWzg33Gi1YpzHcE1VQ9Q/6aafcafa14537b426d388a03.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:00:58 UTC",
-   "raw_html_file": "https://serpapi.com/searches/Xt2EE9ap7dOzGNo4UNO7_2pmWzg33Gi1YpzHcE1VQ9Q/6aafcafa14537b426d388a03.html",
+   "id": "6ab98b29eb55a3d1775dfc44",
+   "json_endpoint": "https://serpapi.com/searches/tFjr6XHNAN4Sf16dezW9a1YGy6xN8IgpdPSKt6n9MwE/6ab98b29eb55a3d1775dfc44.json",
+   "markdown_endpoint": "https://serpapi.com/searches/tFjr6XHNAN4Sf16dezW9a1YGy6xN8IgpdPSKt6n9MwE/6ab98b29eb55a3d1775dfc44.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/tFjr6XHNAN4Sf16dezW9a1YGy6xN8IgpdPSKt6n9MwE/6ab98b29eb55a3d1775dfc44.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:31:21 UTC",
+   "raw_html_file": "https://serpapi.com/searches/tFjr6XHNAN4Sf16dezW9a1YGy6xN8IgpdPSKt6n9MwE/6ab98b29eb55a3d1775dfc44.html",
    "status": "Success",
-   "total_time_taken": 0.36
+   "total_time_taken": 1.25
   },
   "search_parameters": {
    "device": "desktop",
@@ -325,15 +357,9 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=80"
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+holds+patents+on+drone+delivery+systems%3F&start=30"
    }
   }
  },

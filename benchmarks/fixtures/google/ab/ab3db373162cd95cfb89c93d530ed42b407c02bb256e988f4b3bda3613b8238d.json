@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 847.957,
+ "elapsed_ms": 1096.997,
  "engine": "google",
- "fetched_at": "2026-09-20T12:06:24.102104+00:00",
+ "fetched_at": "2026-09-27T21:32:23.383789+00:00",
  "frugal_cache_version": 1,
  "key": "ab3db373162cd95cfb89c93d530ed42b407c02bb256e988f4b3bda3613b8238d",
  "params": {
@@ -10,351 +10,463 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "F2H05HiczVZdcqpIFF7ArGN8MQqiRkkVlepuGiSaXDExhrxQiNigIgQQYt5mA7OKWdWsZhokCgkmc-_D1Jwqbbo5nP-Pjz_-2jjb9d-__WlHkR9eMUySJE3ieWRjNU3PZYxwvzWZpbcJA9O-3sdCu2aGAluzHGHc38dGjC4HyjDu3nljvjc2XkCnlj0i6HMjtFbU4usqZHSG_q1_b4t00wyb1rbZd0ezy7E5HQ61Jsdy7eYPxnCpAvjvBKsEpusNQOeV6C38vanUgAIgLlhSAMlWeNLSDreRmt1C5Kw1ePA5ydRV-hP1t0Ei0tO8PuLZZ6kLWNomWSwAJFmUEDjfZ1MQNc_lPa8vKnXULktePe90UuxxKdaSkKS0lWgUOkDo5KTojJqxS2EcK2US0B94UIRgej5uWp-hArproOKqFIqi4sfOsXMjTaYnzILQwWWZeUCXFuOYtpldBGE6z-iBZ73B8lmT_H4rmMSjeKxvOTZU-8-PHbmDVMacU72NZyyshW7r7HW2b3GtLsu3e_2LDEhmeERSWETSGOzm9yO747yB5qgJW-8wQoemg08dw3SPlIrEIMpVK1oMT6dpw_BBTZWKdvNWQoA8gCeg3NrhOK2r_N4zOqNvtDVFjZPXdPg_w-ggpKBMYZQFonRyxaLGQUsuQLfQWAVUvWY-5q0OTpfiJ8USABHNdw3eZ137aFkDKiI4xQDCA5hXzSzbQMUC5AFjQN9Q-Q4fA8S5UiEmhaJLUcEtUDC16Uxv6ISSdFYPgabDkPuS8AfEnRl4jbqZoX_z6qsQ-B2IUlHf8fJh_IuwkSavLzsuGsa9XWR3npZy-PQgrbqNxhMh1TDx3PlPMI75vwLSgY9wzkfngYS_B1LGR_ALPsquT3yUDi_yzgIJytV8dFvJR-W8EZgUgfQ1H_00kNCXQDpUqRJIXjWQ_LNAIslHIJX5CFfz0RFIv8JH8Bf5KMOVdVjK5LRbkbMkJXl3j2Gsz_vgaR6vg5XdbY1dlXBhNAPfktTSja5cY7G50J3FFeRuov3iQqcH3pW1qL0IM9uI6k5Yj2yrPvcc-s1J6r7nbKO6t6wnRmQFdWdblww7sLa25UTXNXcTeAJrdPm34Hkjrtg9kO841HqIZ92upnP82N7dc3x3w_ZueW_qjNjGdNq3lpI_efVlYzGKGmxHGe66O1OX1g2wXd8-Q6jFrp5MTOWOfRKNLeu_mFNRRG2l4TZeNq2e1F6_PjZ2mN37YI9l2Q7uE34tztzg5u3WmqPL17Xi95IstlBA2oa0NR90LnHNDUyBzkKHgDsVzAgdSjkbVjA1PLomQJUvaa9gLTQN3QpjgW9zptXu9ZZztm8u-EXNJdHeF3i2Fm4DofUPBc9A7g",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=F2H05HiczVZdcqpIFF7ArGN8MQqiRkkVlepuGiSaXDExhrxQiNigIgQQYt5mA7OKWdWsZhokCgkmc-_D1Jwqbbo5nP-Pjz_-2jjb9d-__WlHkR9eMUySJE3ieWRjNU3PZYxwvzWZpbcJA9O-3sdCu2aGAluzHGHc38dGjC4HyjDu3nljvjc2XkCnlj0i6HMjtFbU4usqZHSG_q1_b4t00wyb1rbZd0ezy7E5HQ61Jsdy7eYPxnCpAvjvBKsEpusNQOeV6C38vanUgAIgLlhSAMlWeNLSDreRmt1C5Kw1ePA5ydRV-hP1t0Ei0tO8PuLZZ6kLWNomWSwAJFmUEDjfZ1MQNc_lPa8vKnXULktePe90UuxxKdaSkKS0lWgUOkDo5KTojJqxS2EcK2US0B94UIRgej5uWp-hArproOKqFIqi4sfOsXMjTaYnzILQwWWZeUCXFuOYtpldBGE6z-iBZ73B8lmT_H4rmMSjeKxvOTZU-8-PHbmDVMacU72NZyyshW7r7HW2b3GtLsu3e_2LDEhmeERSWETSGOzm9yO747yB5qgJW-8wQoemg08dw3SPlIrEIMpVK1oMT6dpw_BBTZWKdvNWQoA8gCeg3NrhOK2r_N4zOqNvtDVFjZPXdPg_w-ggpKBMYZQFonRyxaLGQUsuQLfQWAVUvWY-5q0OTpfiJ8USABHNdw3eZ137aFkDKiI4xQDCA5hXzSzbQMUC5AFjQN9Q-Q4fA8S5UiEmhaJLUcEtUDC16Uxv6ISSdFYPgabDkPuS8AfEnRl4jbqZoX_z6qsQ-B2IUlHf8fJh_IuwkSavLzsuGsa9XWR3npZy-PQgrbqNxhMh1TDx3PlPMI75vwLSgY9wzkfngYS_B1LGR_ALPsquT3yUDi_yzgIJytV8dFvJR-W8EZgUgfQ1H_00kNCXQDpUqRJIXjWQ_LNAIslHIJX5CFfz0RFIv8JH8Bf5KMOVdVjK5LRbkbMkJXl3j2Gsz_vgaR6vg5XdbY1dlXBhNAPfktTSja5cY7G50J3FFeRuov3iQqcH3pW1qL0IM9uI6k5Yj2yrPvcc-s1J6r7nbKO6t6wnRmQFdWdblww7sLa25UTXNXcTeAJrdPm34Hkjrtg9kO841HqIZ92upnP82N7dc3x3w_ZueW_qjNjGdNq3lpI_efVlYzGKGmxHGe66O1OX1g2wXd8-Q6jFrp5MTOWOfRKNLeu_mFNRRG2l4TZeNq2e1F6_PjZ2mN37YI9l2Q7uE34tztzg5u3WmqPL17Xi95IstlBA2oa0NR90LnHNDUyBzkKHgDsVzAgdSjkbVjA1PLomQJUvaa9gLTQN3QpjgW9zptXu9ZZztm8u-EXNJdHeF3i2Fm4DofUPBc9A7g"
+   "references": [
+    {
+     "index": 0,
+     "link": "https://en.wikipedia.org/wiki/Boiling_point",
+     "source": "en.wikipedia.org"
+    },
+    {
+     "index": 1,
+     "link": "https://testbook.com/question-answer/what-is-boiling-point-of-water-in-fahrenheit--5e58bee3f60d5d6249450eaf",
+     "source": "testbook.com"
+    },
+    {
+     "index": 2,
+     "link": "https://www.brita.co.uk/news-stories/dispenser/what-temperature-does-water-boil-at",
+     "source": "brita.co.uk"
+    },
+    {
+     "index": 3,
+     "link": "https://www.ebsco.com/research-starters/science/boiling-points/",
+     "source": "ebsco.com"
+    },
+    {
+     "index": 4,
+     "link": "https://www.cordulus.com/glossary/fahrenheit",
+     "source": "cordulus.com"
+    },
+    {
+     "index": 5,
+     "link": "https://en.wikipedia.org/wiki/Boiling_point",
+     "snippet": "This article is about the boiling point of liquids. For other uses, see Boiling point (disambiguation). The boiling point of a substance is the temperature at whic...",
+     "source": "Wikipedia",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXm6tsivWltV6n34rCGfKknhXQoBLOUxNNf0hRgZdPs35ENTO80o4aJUV6ljOUiqYZEMfjc1GqV6T7IHd_JBzSmYsVZ5KZdhGFguLM",
+     "title": "Boiling point - Wikipedia"
+    },
+    {
+     "index": 6,
+     "link": "https://testbook.com/question-answer/what-is-boiling-point-of-water-in-fahrenheit--5e58bee3f60d5d6249450eaf",
+     "snippet": "What is boiling point of water in Fahrenheit? * 100°F. * 32°F. * 212°F. * 0°F. ... Table_title: Detailed Solution Table_content: | Measurement | °Fahrenheit | °Cel...",
+     "source": "Testbook",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://testbook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "title": "[Solved] What is boiling point of water in Fahrenheit? - Testbook"
+    },
+    {
+     "index": 7,
+     "link": "https://www.brita.co.uk/news-stories/dispenser/what-temperature-does-water-boil-at",
+     "snippet": "Water boils at 100°C (degrees Celsius) or 212°F (degrees Fahrenheit) at sea level. At this temperature, the water molecules have gained enough energy to break free...",
+     "source": "BRITA water filter",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.brita.co.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJisQquC-23nV69DZmJ1zSUt9cP_kc1SuGFwmhpNYtRyyrEVUxxEYOd4h64ix2AjN5FoO7cqlj_VrSmh7HFkoeJ6BnQnNZCxlV4I7w",
+     "title": "What Temperature Does Water Boil At? | BRITA"
+    },
+    {
+     "index": 8,
+     "link": "https://www.ebsco.com/research-starters/science/boiling-points/",
+     "snippet": "Boiling Point of Water. At sea level, water boils at 212 degrees Fahrenheit(212°F) or 100 degrees Celsius (100°C). Water's boiling point changes as altitude is inc...",
+     "source": "EBSCO",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "title": "Boiling points | Science | Research Starters | EBSCOhost"
+    },
+    {
+     "index": 9,
+     "link": "https://www.cordulus.com/glossary/fahrenheit",
+     "snippet": "Here's a breakdown of key reference points on the Fahrenheit scale: * 32°F: The freezing point of pure water. * 212°F: The boiling point of pure water under standa...",
+     "source": "Cordulus",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cordulus.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "title": "What is Fahrenheit?"
+    }
+   ],
+   "text_blocks": [
+    {
+     "snippet": "The boiling point of water is 212°F (degrees Fahrenheit) at standard atmospheric pressure at sea level.",
+     "snippet_highlighted_words": [
+      "212°F"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "Key Facts",
+     "type": "heading"
+    },
+    {
+     "list": [
+      {
+       "snippet": "Standard Pressure: 212°F equals 100°C (Celsius)."
+      },
+      {
+       "snippet": "Altitude Effect: Water boils at lower temperatures at higher altitudes because air pressure drops. For example, at 10,000 feet, water boils at about 193.2°F."
+      },
+      {
+       "snippet": "Freezing Point: For comparison, pure water freezes at 32°F (0°C)."
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "You can read more about the Boiling point on Wikipedia.",
+     "snippet_links": [
+      {
+       "link": "https://en.wikipedia.org/wiki/Boiling_point",
+       "text": "Boiling point"
+      }
+     ],
+     "type": "paragraph"
+    }
+   ]
   },
+  "inline_images": [
+   {
+    "original": "https://static.doubtnut.com/ss/web/326452.webp",
+    "source": "https://allen.in/dn/qna/13162773",
+    "source_name": "Allen",
+    "thumbnail": "https://serpapi.com/searches/6ab98b66abe7ec74151dc1f2/images/J1079eV_tEgmnvFfriwYUTn4oRK624DgUuIN0oACQy4.jpeg",
+    "title": "Melting and Boiling point of water on Fahrenheit scale of ..."
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=907971258117532",
+    "source": "https://www.facebook.com/schlolars/posts/in-fahrenheit-scale-the-freezing-point-of-water-is-______-and-boiling-point-of-w/1174910581316303/",
+    "source_name": "Facebook",
+    "thumbnail": "https://serpapi.com/searches/6ab98b66abe7ec74151dc1f2/images/RDOscmfDTw4RWmUg6KxF3Z2Z3qJHPeafkZdk8vR9oQY.jpeg",
+    "title": "In Fahrenheit scale the freezing point of water is ______ ..."
+   },
+   {
+    "original": "https://filo-question-diagrams.cdn.askfilo.com/5892147_BhaEWf_1737102725866566268_image_crop_887be814-e102-4bdc-9c74-7d084128ae1a514777807715601288.jpg",
+    "source": "https://askfilo.com/user-question-answers-smart-solutions/boiling-point-of-water-in-fahrenheit-scale-will-be-a-100-b-3230393039303336",
+    "source_name": "Filo",
+    "thumbnail": "https://serpapi.com/searches/6ab98b66abe7ec74151dc1f2/images/2VPVxinl5PuXwh1I010UsLV8Brov-evJhc0dHDZozYE.jpeg",
+    "title": "Boiling point of water in fahrenheit scale will be: (a) 100 ..."
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1267301655196773",
+    "source": "https://www.facebook.com/groups/833494811292015/posts/1688630292445125/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQx7xzl4F8sK7_2DGoGEy43SFbhv9_k9xGRa_FyO-QAo3HAl0y1cSdtv4&s",
+    "title": "What is the boiling point of water in Fahrenheit?"
+   },
+   {
+    "original": "https://filo-question-diagrams.cdn.askfilo.com/6450414_sNPror_1752083677722408991_image_crop_9f434ce7-99c3-4aa2-b8dc-2ee8eb75124e7236210146080289966.jpg",
+    "source": "https://askfilo.com/user-question-answers-smart-solutions/1-in-which-temperature-scale-does-the-boiling-point-of-water-3335393637353836",
+    "source_name": "Filo",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCBap-iOwH-QnGygYwwyBvbt1OSHipPkx6CGFI7Hv72oOAZUC2WPlSUfL&s",
+    "title": "In which temperature scale does the boiling point of water ..."
+   },
+   {
+    "original": "https://sciencenotes.org/wp-content/uploads/2020/12/Freezing-Point-of-Water.png",
+    "source": "https://www.potyambiental.com.br/?w=5313137011230",
+    "source_name": "www.potyambiental.com.br",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmCQK99U_NqbXDswkYAhBi7Qf04XRH8W1PWYCAvlSqgA&s",
+    "title": "Freezing And Boiling Point Of Kelvin Celsius And Fahrenheit What Is The  Freezing Point Of Water? Fahrenheit, Celsius, And Kelvin"
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122110509008933369",
+    "source": "https://www.facebook.com/groups/ppscpastpapers/posts/9812139498907359/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zM7HCgXsS1vON4FgZaUfx9NazRFANMgooWxe-d4gdBtqnb0IdinJQfI&s",
+    "title": "What are water's freezing and boiling points in Fahrenheit?"
+   },
+   {
+    "original": "https://d10lpgp6xz60nq.cloudfront.net/ss/web-overlay-thumb/326452.webp",
+    "source": "https://allen.in/dn/qna/13162773",
+    "source_name": "Allen",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5ujdjz1vJE2nbl6DgpwmdaAZWGiNBXS8gTTQlgUyHqEZgaBpZrzwfA0&s",
+    "title": "Melting and Boiling point of water on Fahrenheit scale of ..."
+   },
+   {
+    "original": "https://sciencenotes.org/wp-content/uploads/2021/10/Melting-Point-of-Water-1024x683.png",
+    "source": "https://www.potyambiental.com.br/?w=5313137011230",
+    "source_name": "www.potyambiental.com.br",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9GaNmt4XCVqkZ89dETOQ1IoBXWyZfd4OevhT3tLNHH6EWQ4_cxIxm754&s",
+    "title": "Freezing And Boiling Point Of Kelvin Celsius And Fahrenheit What Is The  Freezing Point Of Water? Fahrenheit, Celsius, And Kelvin"
+   }
+  ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZlMVpFU1JrYWFlSXdxWEYyanFIOTQxTUtwSWhTdkR6bHZRb2JRbDVnRlpwSWhyVkZlS0VpM2FfYk9xWjh0d3RJSGRnUjZmWEZQbFdhT3hkRnQ3VXhmTUt3Ti1kYkVGeFJJdTBFM1BPUFhERTZXT0VIQ3ZiX1c5a19ETFBnS3djR2lUMV94TWpzM2dMVncwemdSc19jamNVR3R6Nlo3M29NcFF5Yjh0NXNwamJLRmMSBBoCCAAahQgSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA4QcIABAAGAAgACo-CgR3aGF0FQPSkD8aBXdoaWNoGgbZiNin2KoaCWl2O2Q7d2hhdBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNin2KoqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqQAQoHYm9pbGluZxXGk9JAGg7Yp9mE2LrZhNmK2KfZhhoK2YXYs9mE2YjZghoI2YrYutmE2YoaDGJvaWxpbmdwb2ludBoMaXY7ZDtib2lsaW5nGglpdjtkO2JvaWwaE2l2O2Q72KfZhNi62YTZitin2YYaD2l2O2Q72YXYs9mE2YjZghoNaXY7ZDvZiti62YTZiiqlAQoFcG9pbnQV7MG5QBoHcHVycG9zZRoLdGVtcGVyYXR1cmUaCtio2YjZitmG2KoaDGJvaWxpbmdwb2ludBoKaXY7ZDtwb2ludBoLaXY7ZDtwb2ludHMaDGl2O2Q7cHVycG9zZRoKaXY7ZDtyYW5nZRoQaXY7ZDt0ZW1wZXJhdHVyZRoRaXY7ZDt0ZW1wZXJhdHVyZXMaD2l2O2Q72KjZiNmK2YbYqioJCgJvZhUAAAAAKi0KBXdhdGVyFfASe0AaBtmI2KrYsRoKaXY7ZDt3YXRlchoLaXY7ZDvZiNiq2LEqCQoCaW4VAAAAACpWCgpmYWhyZW5oZWl0FTTjmkAaAWYaENmB2YfYsdmG2YfYp9mK2KoaD2l2O2Q7ZmFocmVuaGVpdBoGaXY7ZDtmGhVpdjtkO9mB2YfYsdmG2YfYp9mK2KoyxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RmUxWkVTUmthYWVJd3FYRjJqcUg5NDFNS3BJaFN2RHpsdlFvYlFsNWdGWnBJaHJWRmVLRWkzYV9iT3FaOHR3dElIZGdSNmZYRlBsV2FPeGRGdDdVeGZNS3dOLWRiRUZ4Ukl1MEUzUE9QWERFNldPRUhDdmJfVzlrX0RMUGdLd2NHaVQxX3hNanMzZ0xWdzB6Z1JzX2NqY1VHdHo2Wjczb01wUXliOHQ1c3BqYktGYzo0PGI-Qm9pbGluZyBQb2ludDwvYj4gaW4gPGI-RmFocmVuaGVpdDwvYj4gLSBGYWNlYm9va0KYAUF0IHN0YW5kYXJkIHNlYS1sZXZlbCBwcmVzc3VyZSwgdGhlIGJvaWxpbmcgcG9pbnQgb2Ygd2F0ZXIgaXMgPGI-MjEywrAgRmFocmVuaGVpdDwvYj4uIFRoaXMgdGVtcGVyYXR1cmUgaXMgZXF1aXZhbGVudCB0byAxMDDCsCBDZWxzaXVzIG9yIDM3My4xNSBLZWx2aW4uSgJpbkoDdGhlSgJpc0oCb2YiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZlMVpFU1JrYWFlSXdxWEYyanFIOTQxTUtwSWhTdkR6bHZRb2JRbDVnRlpwSWhyVkZlS0VpM2FfYk9xWjh0d3RJSGRnUjZmWEZQbFdhT3hkRnQ3VXhmTUt3Ti1kYkVGeFJJdTBFM1BPUFhERTZXT0VIQ3ZiX1c5a19ETFBnS3djR2lUMV94TWpzM2dMVncwemdSc19jamNVR3R6Nlo3M29NcFF5Yjh0NXNwamJLRmMSBBoCCAAahQgSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA4QcIABAAGAAgACo-CgR3aGF0FQPSkD8aBXdoaWNoGgbZiNin2KoaCWl2O2Q7d2hhdBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNin2KoqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqQAQoHYm9pbGluZxXGk9JAGg7Yp9mE2LrZhNmK2KfZhhoK2YXYs9mE2YjZghoI2YrYutmE2YoaDGJvaWxpbmdwb2ludBoMaXY7ZDtib2lsaW5nGglpdjtkO2JvaWwaE2l2O2Q72KfZhNi62YTZitin2YYaD2l2O2Q72YXYs9mE2YjZghoNaXY7ZDvZiti62YTZiiqlAQoFcG9pbnQV7MG5QBoHcHVycG9zZRoLdGVtcGVyYXR1cmUaCtio2YjZitmG2KoaDGJvaWxpbmdwb2ludBoKaXY7ZDtwb2ludBoLaXY7ZDtwb2ludHMaDGl2O2Q7cHVycG9zZRoKaXY7ZDtyYW5nZRoQaXY7ZDt0ZW1wZXJhdHVyZRoRaXY7ZDt0ZW1wZXJhdHVyZXMaD2l2O2Q72KjZiNmK2YbYqioJCgJvZhUAAAAAKi0KBXdhdGVyFfASe0AaBtmI2KrYsRoKaXY7ZDt3YXRlchoLaXY7ZDvZiNiq2LEqCQoCaW4VAAAAACpWCgpmYWhyZW5oZWl0FTTjmkAaAWYaENmB2YfYsdmG2YfYp9mK2KoaD2l2O2Q7ZmFocmVuaGVpdBoGaXY7ZDtmGhVpdjtkO9mB2YfYsdmG2YfYp9mK2KoyxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RmUxWkVTUmthYWVJd3FYRjJqcUg5NDFNS3BJaFN2RHpsdlFvYlFsNWdGWnBJaHJWRmVLRWkzYV9iT3FaOHR3dElIZGdSNmZYRlBsV2FPeGRGdDdVeGZNS3dOLWRiRUZ4Ukl1MEUzUE9QWERFNldPRUhDdmJfVzlrX0RMUGdLd2NHaVQxX3hNanMzZ0xWdzB6Z1JzX2NqY1VHdHo2Wjczb01wUXliOHQ1c3BqYktGYzo0PGI-Qm9pbGluZyBQb2ludDwvYj4gaW4gPGI-RmFocmVuaGVpdDwvYj4gLSBGYWNlYm9va0KYAUF0IHN0YW5kYXJkIHNlYS1sZXZlbCBwcmVzc3VyZSwgdGhlIGJvaWxpbmcgcG9pbnQgb2Ygd2F0ZXIgaXMgPGI-MjEywrAgRmFocmVuaGVpdDwvYj4uIFRoaXMgdGVtcGVyYXR1cmUgaXMgZXF1aXZhbGVudCB0byAxMDDCsCBDZWxzaXVzIG9yIDM3My4xNSBLZWx2aW4uSgJpbkoDdGhlSgJpc0oCb2YiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Call me Mr. Carter. come join The Martian in my new community. THE F IS FOR FIRST AROUND DIS BISH!",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
-      "source_info_link": "https://x.com/LilTunechi?lang=en"
+      "description": "At standard sea-level pressure, the boiling point of water is 212° Fahrenheit. This temperature is equivalent to 100° Celsius or 373.15 Kelvin.",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/fb-answers/boiling-temp-in-fahrenheit/?locale=tr_TR"
      }
     },
-    "displayed_link": "https://x.com › LilTunechi",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
-    "link": "https://x.com/LilTunechi?lang=en",
+    "displayed_link": "https://www.facebook.com › fb-answers › boiling-temp...",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/fb-answers/boiling-temp-in-fahrenheit/?locale=tr_TR",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAV-eINYue9parYsC9pFozzfw_ddfZJ8G6T5S8WPevmTRMvEsm3tcFpth13hx2fr6kDyZlF48LYemYfYeZqA6n8jzHpsq0KAPDFlLxmoa0IWxNE7Ik&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQFnoECB4QAQ&uoh=1",
-    "snippet": "Call me Mr. Carter. come join The Martian in my new community. THE F IS FOR FIRST AROUND DIS BISH!",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFe1ZESRkaaeIwqXF2jqH941MKpIhSvDzlvQobQl5gFZpIhrVFeKEi3a_bOqZ8twtIHdgR6fXFPlWaOxdFt7UxfMKwN-dbEFxRIu0E3POPXDE6WOEHCvb_W9k_DLPgKwcGiT1_xMjs3gLVw0zgRs_cjcUGtz6Z73oMpQyb8t5spjbKFc&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQFnoECDAQAQ&uoh=1",
+    "snippet": "At standard sea-level pressure, the boiling point of water is 212° Fahrenheit. This temperature is equivalent to 100° Celsius or 373.15 Kelvin.",
     "snippet_highlighted_words": [
-     "F"
+     "212° Fahrenheit"
     ],
-    "source": "X",
-    "title": "Lil Wayne WEEZY F"
+    "source": "Facebook",
+    "title": "Boiling Point in Fahrenheit"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZibmxXT2lYY3pCeVFFVlhJWkFoQUtjZUs3UG9uMVBDeXV2ak11NTFVYVJ5eW8tZ2JVLXpNbFZ1TE9aaFVwdmZVODhIWEdldGVmNWYzSTlRMGlfUGVFdzVSZk9ZVUhTeGx0MTd2WWdESHV3MVB3LVlaeDJQeGxRMVBCUzZUS2Z6YVRjMkJqZ1BlelI4YlVNSkdYMDliRFdGVVBIV1czMXlnYkNSUnUtWnF3EgQaAggAGoMIEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQN8HCAAQABgAIAAqPgoEd2hhdBVuEXFAGgV3aGljaBoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqkAEKB2JvaWxpbmcVMfTePxoO2KfZhNi62YTZitin2YYaCtmF2LPZhNmI2YIaCNmK2LrZhNmKGgxib2lsaW5ncG9pbnQaDGl2O2Q7Ym9pbGluZxoJaXY7ZDtib2lsGhNpdjtkO9in2YTYutmE2YrYp9mGGg9pdjtkO9mF2LPZhNmI2YIaDWl2O2Q72YrYutmE2YoqpQEKBXBvaW50FTH03j8aB3B1cnBvc2UaC3RlbXBlcmF0dXJlGgrYqNmI2YrZhtiqGgxib2lsaW5ncG9pbnQaCml2O2Q7cG9pbnQaC2l2O2Q7cG9pbnRzGgxpdjtkO3B1cnBvc2UaCml2O2Q7cmFuZ2UaEGl2O2Q7dGVtcGVyYXR1cmUaEWl2O2Q7dGVtcGVyYXR1cmVzGg9pdjtkO9io2YjZitmG2KoqCQoCb2YVAAAAACotCgV3YXRlchVuRcBAGgbZiNiq2LEaCml2O2Q7d2F0ZXIaC2l2O2Q72YjYqtixKgkKAmluFQAAAAAqVgoKZmFocmVuaGVpdBUZKDdAGgFmGhDZgdmH2LHZhtmH2KfZitiqGg9pdjtkO2ZhaHJlbmhlaXQaBml2O2Q7ZhoVaXY7ZDvZgdmH2LHZhtmH2KfZitiqMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZibmxXT2lYY3pCeVFFVlhJWkFoQUtjZUs3UG9uMVBDeXV2ak11NTFVYVJ5eW8tZ2JVLXpNbFZ1TE9aaFVwdmZVODhIWEdldGVmNWYzSTlRMGlfUGVFdzVSZk9ZVUhTeGx0MTd2WWdESHV3MVB3LVlaeDJQeGxRMVBCUzZUS2Z6YVRjMkJqZ1BlelI4YlVNSkdYMDliRFdGVVBIV1czMXlnYkNSUnUtWnF3OjBEb2VzIDxiPndhdGVyPC9iPiBib2lsIGF0IDIyMCBkZWdyZWVzPyAtIEFuc3dlcnNCnwE8Yj5XYXRlcjwvYj4gZG9lcyBib2lsIGF0IDIxMsK6IDxiPkZhaHJlbmhlaXQ8L2I-ICgxMDDCuiBDZWxzaXVzKSBhdCB0aGUgUFJFU1NVUkUgQVQgU0VBIExFVkVMISBUaGUgbG93ZXIgdGhlIHByZXNzdXJlIChoaWdoZXIgYWx0aXR1ZGUpIHRoZSBsb3dlciB0aGUmbmJzcDsuLi5KAm9mSgJpc0oDdGhlSgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZibmxXT2lYY3pCeVFFVlhJWkFoQUtjZUs3UG9uMVBDeXV2ak11NTFVYVJ5eW8tZ2JVLXpNbFZ1TE9aaFVwdmZVODhIWEdldGVmNWYzSTlRMGlfUGVFdzVSZk9ZVUhTeGx0MTd2WWdESHV3MVB3LVlaeDJQeGxRMVBCUzZUS2Z6YVRjMkJqZ1BlelI4YlVNSkdYMDliRFdGVVBIV1czMXlnYkNSUnUtWnF3EgQaAggAGoMIEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQN8HCAAQABgAIAAqPgoEd2hhdBVuEXFAGgV3aGljaBoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqkAEKB2JvaWxpbmcVMfTePxoO2KfZhNi62YTZitin2YYaCtmF2LPZhNmI2YIaCNmK2LrZhNmKGgxib2lsaW5ncG9pbnQaDGl2O2Q7Ym9pbGluZxoJaXY7ZDtib2lsGhNpdjtkO9in2YTYutmE2YrYp9mGGg9pdjtkO9mF2LPZhNmI2YIaDWl2O2Q72YrYutmE2YoqpQEKBXBvaW50FTH03j8aB3B1cnBvc2UaC3RlbXBlcmF0dXJlGgrYqNmI2YrZhtiqGgxib2lsaW5ncG9pbnQaCml2O2Q7cG9pbnQaC2l2O2Q7cG9pbnRzGgxpdjtkO3B1cnBvc2UaCml2O2Q7cmFuZ2UaEGl2O2Q7dGVtcGVyYXR1cmUaEWl2O2Q7dGVtcGVyYXR1cmVzGg9pdjtkO9io2YjZitmG2KoqCQoCb2YVAAAAACotCgV3YXRlchVuRcBAGgbZiNiq2LEaCml2O2Q7d2F0ZXIaC2l2O2Q72YjYqtixKgkKAmluFQAAAAAqVgoKZmFocmVuaGVpdBUZKDdAGgFmGhDZgdmH2LHZhtmH2KfZitiqGg9pdjtkO2ZhaHJlbmhlaXQaBml2O2Q7ZhoVaXY7ZDvZgdmH2LHZhtmH2KfZitiqMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZibmxXT2lYY3pCeVFFVlhJWkFoQUtjZUs3UG9uMVBDeXV2ak11NTFVYVJ5eW8tZ2JVLXpNbFZ1TE9aaFVwdmZVODhIWEdldGVmNWYzSTlRMGlfUGVFdzVSZk9ZVUhTeGx0MTd2WWdESHV3MVB3LVlaeDJQeGxRMVBCUzZUS2Z6YVRjMkJqZ1BlelI4YlVNSkdYMDliRFdGVVBIV1czMXlnYkNSUnUtWnF3OjBEb2VzIDxiPndhdGVyPC9iPiBib2lsIGF0IDIyMCBkZWdyZWVzPyAtIEFuc3dlcnNCnwE8Yj5XYXRlcjwvYj4gZG9lcyBib2lsIGF0IDIxMsK6IDxiPkZhaHJlbmhlaXQ8L2I-ICgxMDDCuiBDZWxzaXVzKSBhdCB0aGUgUFJFU1NVUkUgQVQgU0VBIExFVkVMISBUaGUgbG93ZXIgdGhlIHByZXNzdXJlIChoaWdoZXIgYWx0aXR1ZGUpIHRoZSBsb3dlciB0aGUmbmJzcDsuLi5KAm9mSgJpc0oDdGhlSgJpbiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Fahrenheit offers an unparalleled dining experience with panoramic skyline views making it a sought-after destination for locals and tourists ...",
-      "icon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ05QVLeKW4AdLI3bjRAc-tm2zTQlYd3iRUrXD_neNS4wcOrJco84HAMQAD5e5Hl3uRL31C-K4o6859okOrm6hw-BkB_tKybE9N0QPFoyVr6WE3RGPpm9L6o7NnE_tvKUsy90k5mzVEOaR-DGREpc-2AbvZuRt_NwwdaIAPFO6x-YBfNX_bGdYy-uxKB8XvFJQKrZ82cJxXoIUutB_IqaBhVaIq_3nz_gDoDvmVyV2e5QbboEMh3tTu4AkRBrilsYq7qQZ5FXvrfbJZGf7siwmu9itfa9dB8TFuEySFaz3EA639aww6r9jQCLyqQv8yYs9UrTIwkvLgz4xdjoq8wwYyul-q4p-FwcBDWAMj-v3ks6flv-UuL281fclYXXkrLk62hp_L4JzidvXPOEOND6v7v_hFAyNG__Lz_3Lt-ujay3M93eW0QcQ_2iO7IOaozD9h_QoN2wA6be5s_NKKqVCQ6PsMwcnChIAAA.webp",
-      "source_info_link": "https://fahrenheitrestaurants.com/"
+      "description": "Water does boil at 212º Fahrenheit (100º Celsius) at the PRESSURE AT SEA LEVEL! The lower the pressure (higher altitude) the lower the ...",
+      "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhILOwBzHbtV3k5v4nCSMDZ0KclpMz8I9tsCnvrgYpnjMDAmkcUdQAAD-5uX5Vj-U-3g1-nfTj7K-KjjnCWgRaD75_6lxb3WmX_61kTavxBEb4RHPvU7YcCEJc4EGSfJYCp3qjGssJn301cwCopQbUwOWACue0ois9_-embu4LkD0j4mxQHk5_6a8B__wq6owll7X1aSznspftgfhj9ReiREk3pfjWX4-gyCA5_QRTYx74j8yqeasf22c8U0cGoNx4AiYlTgP0zKZ2VyMFKgJSeQyYBfIm3haxJX58UqOI7E3_RcWXiq4tTutum48rwFZowDLgWduB5SVLCIenywAkoqblvautExmcR6-OcRygwa3zabi2vn8xQUUST5T_0_7KqFm8ZqRMpBYstIMrJKirL2KiO88RDttcadDQXCu1Ex0Shm6DN-r_p_yq1wlEd56q6nSBZOGSfrXQGP6AAA.webp",
+      "source_info_link": "https://math.answers.com/natural-sciences/Does_water_boil_at_220_degrees"
      }
     },
-    "date": "Aug 23, 2023",
-    "displayed_link": "https://fahrenheitrestaurants.com",
-    "favicon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ05QVLeKW4AdLI3bjRAc-tm2zTQlYd3iRUrXD_neNS4wcOrJco84HAMQAD5e5Hl3uRL31C-K4o6859okOrm6hw-BkB_tKybE9N0QPFoyVr6WE3RGPpm9L6o7NnE_tvKUsy90k5mzVEOaR-DGREpc-2AbvZuRt_NwwdaIAPFO6x-YBfNX_bGdYy-uxKB8XvFJQKrZ82cJxXoIUutB_IqaBhVaIq_3nz_gDoDvmVyV2e5QbboEMh3tTu4AkRBrilsYq7qQZ5FXvrfbJZGf7siwmu9itfa9dB8TFuEySFaz3EA639aww6r9jQCLyqQv8yYs9UrTIwkvLgz4xdjoq8wwYyul-q4p-FwcBDWAMj-v3ks6flv-UuL281fclYXXkrLk62hp_L4JzidvXPOEOND6v7v_hFAyNG__Lz_3Lt-ujay3M93eW0QcQ_2iO7IOaozD9h_QoN2wA6be5s_NKKqVCQ6PsMwcnChIAAA.webp",
-    "link": "https://fahrenheitrestaurants.com/",
+    "date": "11‏/11‏/2014",
+    "displayed_link": "https://math.answers.com › Does_w...",
+    "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhILOwBzHbtV3k5v4nCSMDZ0KclpMz8I9tsCnvrgYpnjMDAmkcUdQAAD-5uX5Vj-U-3g1-nfTj7K-KjjnCWgRaD75_6lxb3WmX_61kTavxBEb4RHPvU7YcCEJc4EGSfJYCp3qjGssJn301cwCopQbUwOWACue0ois9_-embu4LkD0j4mxQHk5_6a8B__wq6owll7X1aSznspftgfhj9ReiREk3pfjWX4-gyCA5_QRTYx74j8yqeasf22c8U0cGoNx4AiYlTgP0zKZ2VyMFKgJSeQyYBfIm3haxJX58UqOI7E3_RcWXiq4tTutum48rwFZowDLgWduB5SVLCIenywAkoqblvautExmcR6-OcRygwa3zabi2vn8xQUUST5T_0_7KqFm8ZqRMpBYstIMrJKirL2KiO88RDttcadDQXCu1Ex0Shm6DN-r_p_yq1wlEd56q6nSBZOGSfrXQGP6AAA.webp",
+    "link": "https://math.answers.com/natural-sciences/Does_water_boil_at_220_degrees",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVPpeL-yBkxOPdNexYsnpudZmDh8DfDGLwEnaohySb9uuYDPVlz_fepWoOIuAQC09RGZQpCbQhggCGTPHMQEYiznysXApfiYsQZHO6fCdhubpAvZKjGA&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQFnoECCEQAQ&uoh=1",
-    "snippet": "Fahrenheit offers an unparalleled dining experience with panoramic skyline views making it a sought-after destination for locals and tourists ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFbnlWOiXczByQEVXIZAhAKceK7Pon1PCyuvjMu51UaRyyo-gbU-zMlVuLOZhUpvfU88HXGetef5f3I9Q0i_PeEw5RfOYUHSxlt17vYgDHuw1Pw-YZx2PxlQ1PBS6TKfzaTc2BjgPezR8bUMJGX09bDWFUPHWW31ygbCRRu-Zqw&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQFnoECC0QAQ&uoh=1",
+    "snippet": "Water does boil at 212º Fahrenheit (100º Celsius) at the PRESSURE AT SEA LEVEL! The lower the pressure (higher altitude) the lower the ...",
     "snippet_highlighted_words": [
+     "Water",
      "Fahrenheit"
     ],
-    "source": "Fahrenheit Restaurants",
-    "title": "Fahrenheit Restaurants | Cleveland & Charlotte Dining"
+    "source": "Answers",
+    "title": "Does water boil at 220 degrees?"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZTVndUbEZEbDItZndqQmxCUUxfd2dwXzNncktWMVQ1eU9tNXF6V0ZTRDRudkJtWU4yU0ZjNkpMQmZON0pld3dQTUlYTDEyVlItR2t2TXI2QXdKUnVwM2h0UEtEZW5QYVJxMTgyX25PZVVyV3BIcXpFdVF4Y1ZOdncxVkVZaExzUXE0WmRyYUdXVG04cDdCSjMxSkR5amZGbkVEX1ZZSXB0TWNLX3NiWG13UkFzbkRxR2RMdzNtXzdMWlk0bDZPdUxmN3d2bXZ1U2N0U2prRzZ4UURfEgQaAggAGtsIEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQLcICAAQABgAIAAqPgoEd2hhdBUAAAAAGgV3aGljaBoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqkAEKB2JvaWxpbmcVOCKzQBoO2KfZhNi62YTZitin2YYaCtmF2LPZhNmI2YIaCNmK2LrZhNmKGgxib2lsaW5ncG9pbnQaDGl2O2Q7Ym9pbGluZxoJaXY7ZDtib2lsGhNpdjtkO9in2YTYutmE2YrYp9mGGg9pdjtkO9mF2LPZhNmI2YIaDWl2O2Q72YrYutmE2YoqpQEKBXBvaW50FTgis0AaB3B1cnBvc2UaC3RlbXBlcmF0dXJlGgrYqNmI2YrZhtiqGgxib2lsaW5ncG9pbnQaCml2O2Q7cG9pbnQaC2l2O2Q7cG9pbnRzGgxpdjtkO3B1cnBvc2UaCml2O2Q7cmFuZ2UaEGl2O2Q7dGVtcGVyYXR1cmUaEWl2O2Q7dGVtcGVyYXR1cmVzGg9pdjtkO9io2YjZitmG2KoqCQoCb2YVAAAAACotCgV3YXRlchWowa1AGgbZiNiq2LEaCml2O2Q7d2F0ZXIaC2l2O2Q72YjYqtixKgkKAmluFQAAAAAqVgoKZmFocmVuaGVpdBX3E75AGgFmGhDZgdmH2LHZhtmH2KfZitiqGg9pdjtkO2ZhaHJlbmhlaXQaBml2O2Q7ZhoVaXY7ZDvZgdmH2LHZhtmH2KfZitiqMuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZTVndUbEZEbDItZndqQmxCUUxfd2dwXzNncktWMVQ1eU9tNXF6V0ZTRDRudkJtWU4yU0ZjNkpMQmZON0pld3dQTUlYTDEyVlItR2t2TXI2QXdKUnVwM2h0UEtEZW5QYVJxMTgyX25PZVVyV3BIcXpFdVF4Y1ZOdncxVkVZaExzUXE0WmRyYUdXVG04cDdCSjMxSkR5amZGbkVEX1ZZSXB0TWNLX3NiWG13UkFzbkRxR2RMdzNtXzdMWlk0bDZPdUxmN3d2bXZ1U2N0U2prRzZ4UURfOk08Yj5GYWhyZW5oZWl0PC9iPjogPGI-V2F0ZXIgQm9pbGluZyBQb2ludDwvYj4gfCBQcmludGFibGUgQ2xpcCBBcnQgYW5kIEltYWdlc0KwAUNlbHNpdXM6IFdhdGVyIEJvaWxpbmcgUG9pbnQuIFF1aWNrIExvb2suIENlbHNpdXM6IFdhdGVyIEJvaWxpbmcgUG9pbnQuIENsaXAgQXJ0IGFuZCBJbWFnZXMuIDxiPkZhaHJlbmhlaXQ6IE5vcm1hbCBCb2R5IFRlbXBlcmF0dXJlPC9iPi4gUXVpY2sgTG9vay4gRmFocmVuaGVpdDogTm9ybWFsJm5ic3A7Li4uSgJpbkoCb2ZKAmlzSgN0aGUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZTVndUbEZEbDItZndqQmxCUUxfd2dwXzNncktWMVQ1eU9tNXF6V0ZTRDRudkJtWU4yU0ZjNkpMQmZON0pld3dQTUlYTDEyVlItR2t2TXI2QXdKUnVwM2h0UEtEZW5QYVJxMTgyX25PZVVyV3BIcXpFdVF4Y1ZOdncxVkVZaExzUXE0WmRyYUdXVG04cDdCSjMxSkR5amZGbkVEX1ZZSXB0TWNLX3NiWG13UkFzbkRxR2RMdzNtXzdMWlk0bDZPdUxmN3d2bXZ1U2N0U2prRzZ4UURfEgQaAggAGtsIEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQLcICAAQABgAIAAqPgoEd2hhdBUAAAAAGgV3aGljaBoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqkAEKB2JvaWxpbmcVOCKzQBoO2KfZhNi62YTZitin2YYaCtmF2LPZhNmI2YIaCNmK2LrZhNmKGgxib2lsaW5ncG9pbnQaDGl2O2Q7Ym9pbGluZxoJaXY7ZDtib2lsGhNpdjtkO9in2YTYutmE2YrYp9mGGg9pdjtkO9mF2LPZhNmI2YIaDWl2O2Q72YrYutmE2YoqpQEKBXBvaW50FTgis0AaB3B1cnBvc2UaC3RlbXBlcmF0dXJlGgrYqNmI2YrZhtiqGgxib2lsaW5ncG9pbnQaCml2O2Q7cG9pbnQaC2l2O2Q7cG9pbnRzGgxpdjtkO3B1cnBvc2UaCml2O2Q7cmFuZ2UaEGl2O2Q7dGVtcGVyYXR1cmUaEWl2O2Q7dGVtcGVyYXR1cmVzGg9pdjtkO9io2YjZitmG2KoqCQoCb2YVAAAAACotCgV3YXRlchWowa1AGgbZiNiq2LEaCml2O2Q7d2F0ZXIaC2l2O2Q72YjYqtixKgkKAmluFQAAAAAqVgoKZmFocmVuaGVpdBX3E75AGgFmGhDZgdmH2LHZhtmH2KfZitiqGg9pdjtkO2ZhaHJlbmhlaXQaBml2O2Q7ZhoVaXY7ZDvZgdmH2LHZhtmH2KfZitiqMuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZTVndUbEZEbDItZndqQmxCUUxfd2dwXzNncktWMVQ1eU9tNXF6V0ZTRDRudkJtWU4yU0ZjNkpMQmZON0pld3dQTUlYTDEyVlItR2t2TXI2QXdKUnVwM2h0UEtEZW5QYVJxMTgyX25PZVVyV3BIcXpFdVF4Y1ZOdncxVkVZaExzUXE0WmRyYUdXVG04cDdCSjMxSkR5amZGbkVEX1ZZSXB0TWNLX3NiWG13UkFzbkRxR2RMdzNtXzdMWlk0bDZPdUxmN3d2bXZ1U2N0U2prRzZ4UURfOk08Yj5GYWhyZW5oZWl0PC9iPjogPGI-V2F0ZXIgQm9pbGluZyBQb2ludDwvYj4gfCBQcmludGFibGUgQ2xpcCBBcnQgYW5kIEltYWdlc0KwAUNlbHNpdXM6IFdhdGVyIEJvaWxpbmcgUG9pbnQuIFF1aWNrIExvb2suIENlbHNpdXM6IFdhdGVyIEJvaWxpbmcgUG9pbnQuIENsaXAgQXJ0IGFuZCBJbWFnZXMuIDxiPkZhaHJlbmhlaXQ6IE5vcm1hbCBCb2R5IFRlbXBlcmF0dXJlPC9iPi4gUXVpY2sgTG9vay4gRmFocmVuaGVpdDogTm9ybWFsJm5ic3A7Li4uSgJpbkoCb2ZKAmlzSgN0aGUiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Visit Fahrenheit, a Charlotte rooftop restaurant on the 21st floor, for skyline views, contemporary American dining, cocktails, and outdoor seating.",
-      "icon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ05QVLeKW4AdLI3bjRAc-tm2zTQlYd3iRUrXD_neNS4wcOrJco84HAMQAD5e5Hl3uRL31C-K4o6859okOrm6hw-BkB_tKybE9N0QPFoyVr6WE3RGPpm9L6o7NnE_tvKUsy90k5mzVEOaR-DGREpc-2AbvZuRt_NwwdaIAPFO6x-YBfNX_bGdYy-uxKB8XvFJQKrZ82cJxXoIUutB_IqaBhVaIq_3nz_gDoDvmVyV2e5QbboEMh3tTu4AkRBrilsYq7qQZ5FXvrfbJZGf7siwmu9itfa9dB8TFuEySFaz3EA639aww6r9jQCLyqQv8yYs9UrTIwkvLgz4xdjoq8wwYyul-q4p-FwcBDWAMj-v3ks6flv-UuL281fclYXXkrLk62hp_L4JzidvXPOEOND6v7v_hFAyNG__Lz_3Lt-ujay3M93eW0QcQ_2iO7IOaozD9h_QoN2wA6be5s_NKKqVCQ6PsMwcnChIAAA.webp",
-      "source_info_link": "https://fahrenheitrestaurants.com/charlotte/"
+      "description": "Celsius: Water Boiling Point. Quick Look. Celsius: Water Boiling Point. Clip Art and Images. Fahrenheit: Normal Body Temperature. Quick Look. Fahrenheit: Normal ...",
+      "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmFpiWAN478mAmZgvUAZrgdP0X6XJWNAuUd44SsEnVhxYAAAP6dWJJT2kEm-FX7cWUI54f-Frn1vxMl-AII4oWIFijYKT_3WlZ16NyOR9rla65f-WzPgMfjIRL7k0lnuz8jSM61s6zla0CZ3Pxjb2ptQu_tw8Dxet9MxLJuf-kNF0A0_eqRoFmbkGBm64Avxo9M85DGkKUTS7ThTFODmcPt32e5Ba2-v8UW53Sck5ND4jzLxjS3qB6SVJKRn1W_QcsA-K4i1wKiReePsaHp6xmSvU7gpv5Li7Z6Y-TgUcpK5_WUfHcKz1fid_Mlqxtk5RwmsSeNXah3iBu16JCp_GTGAkvM65nANeHncvdSknFQkmcNBQ3-IWP_zYP7ZveaF1qyeSzAAAA.webp",
+      "source_info_link": "https://teachables.scholastic.com/teachables/books/Fahrenheit-Water-Boiling-Point-9780439509787_025.html"
      }
     },
-    "displayed_link": "https://fahrenheitrestaurants.com › charlotte",
-    "favicon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ05QVLeKW4AdLI3bjRAc-tm2zTQlYd3iRUrXD_neNS4wcOrJco84HAMQAD5e5Hl3uRL31C-K4o6859okOrm6hw-BkB_tKybE9N0QPFoyVr6WE3RGPpm9L6o7NnE_tvKUsy90k5mzVEOaR-DGREpc-2AbvZuRt_NwwdaIAPFO6x-YBfNX_bGdYy-uxKB8XvFJQKrZ82cJxXoIUutB_IqaBhVaIq_3nz_gDoDvmVyV2e5QbboEMh3tTu4AkRBrilsYq7qQZ5FXvrfbJZGf7siwmu9itfa9dB8TFuEySFaz3EA639aww6r9jQCLyqQv8yYs9UrTIwkvLgz4xdjoq8wwYyul-q4p-FwcBDWAMj-v3ks6flv-UuL281fclYXXkrLk62hp_L4JzidvXPOEOND6v7v_hFAyNG__Lz_3Lt-ujay3M93eW0QcQ_2iO7IOaozD9h_QoN2wA6be5s_NKKqVCQ6PsMwcnChIAAA.webp",
-    "link": "https://fahrenheitrestaurants.com/charlotte/",
+    "displayed_link": "https://teachables.scholastic.com › F...",
+    "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmFpiWAN478mAmZgvUAZrgdP0X6XJWNAuUd44SsEnVhxYAAAP6dWJJT2kEm-FX7cWUI54f-Frn1vxMl-AII4oWIFijYKT_3WlZ16NyOR9rla65f-WzPgMfjIRL7k0lnuz8jSM61s6zla0CZ3Pxjb2ptQu_tw8Dxet9MxLJuf-kNF0A0_eqRoFmbkGBm64Avxo9M85DGkKUTS7ThTFODmcPt32e5Ba2-v8UW53Sck5ND4jzLxjS3qB6SVJKRn1W_QcsA-K4i1wKiReePsaHp6xmSvU7gpv5Li7Z6Y-TgUcpK5_WUfHcKz1fid_Mlqxtk5RwmsSeNXah3iBu16JCp_GTGAkvM65nANeHncvdSknFQkmcNBQ3-IWP_zYP7ZveaF1qyeSzAAAA.webp",
+    "link": "https://teachables.scholastic.com/teachables/books/Fahrenheit-Water-Boiling-Point-9780439509787_025.html",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVk5ZpnSlKcf4abVtv82IwHfXCZrEFF3Q6fcDIZze0zzD-zXd2o7HH5MmMLBqJC6tj9ZtG_H90gpf8ynG9OBT010k0Z5ZXwybbLJQip8-vwawK3Qt3znmBKpiXEu6MZc8&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQFnoECCAQAQ&uoh=1",
-    "snippet": "Visit Fahrenheit, a Charlotte rooftop restaurant on the 21st floor, for skyline views, contemporary American dining, cocktails, and outdoor seating.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFSVwTlFDl2-fwjBlBQL_wgp_3grKV1T5yOm5qzWFSD4nvBmYN2SFc6JLBfN7JewwPMIXL12VR-GkvMr6AwJRup3htPKDenPaRq182_nOeUrWpHqzEuQxcVNvw1VEYhLsQq4ZdraGWTm8p7BJ31JDyjfFnED_VYIptMcK_sbXmwRAsnDqGdLw3m_7LZY4l6OuLf7wvmvuSctSjkG6xQD_&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQFnoECCwQAQ&uoh=1",
+    "snippet": "Celsius: Water Boiling Point. Quick Look. Celsius: Water Boiling Point. Clip Art and Images. Fahrenheit: Normal Body Temperature. Quick Look. Fahrenheit: Normal ...",
     "snippet_highlighted_words": [
-     "Fahrenheit"
+     "Fahrenheit: Normal Body Temperature"
     ],
-    "source": "Fahrenheit Restaurants",
-    "title": "Charlotte Rooftop Restaurant: Stunning 21st-Floor Views"
+    "source": "Scholastic Teachables",
+    "title": "Fahrenheit: Water Boiling Point"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZXTDd1ZEVkMVc3Y0dmWjNoVTJVZ2NMcFNGZ2E2OHVmUnhmcUZzeGw4VVNJa0U4Q3NaS1BUUXJPbllZczI5UmhnZHExd2FHa2s5ZmwwLU9GSkZ0SHBlTzI0U0Z0Y0FQT0RNcE1yajZmR1cyWW4yVE5FZURpeXp4WndhM3AxRzI0QkdVdVlvcE1kM0thNG1JMUEwWTJWT19WaExNQUxTQmdvTEFNYndtNU9obUhxYmp2OFdKV05iWm4yc2ZrcVhOQUdTRmgtSV9EYnhST0I3SEdPNnQ4ZWYzYjFsUTVUMF9aY2NWTWlQUjRaMVNFN2RMYUMwaDhyTUFnNFESBBoCCAAagAkSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA3AgIABAAGAAgACo-CgR3aGF0FXS8M0AaBXdoaWNoGgbZiNin2KoaCWl2O2Q7d2hhdBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNin2KoqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqQAQoHYm9pbGluZxUKQ6JAGg7Yp9mE2LrZhNmK2KfZhhoK2YXYs9mE2YjZghoI2YrYutmE2YoaDGJvaWxpbmdwb2ludBoMaXY7ZDtib2lsaW5nGglpdjtkO2JvaWwaE2l2O2Q72KfZhNi62YTZitin2YYaD2l2O2Q72YXYs9mE2YjZghoNaXY7ZDvZiti62YTZiiqlAQoFcG9pbnQVS8zCQBoHcHVycG9zZRoLdGVtcGVyYXR1cmUaCtio2YjZitmG2KoaDGJvaWxpbmdwb2ludBoKaXY7ZDtwb2ludBoLaXY7ZDtwb2ludHMaDGl2O2Q7cHVycG9zZRoKaXY7ZDtyYW5nZRoQaXY7ZDt0ZW1wZXJhdHVyZRoRaXY7ZDt0ZW1wZXJhdHVyZXMaD2l2O2Q72KjZiNmK2YbYqioJCgJvZhUAAAAAKi0KBXdhdGVyFTwc7UAaBtmI2KrYsRoKaXY7ZDt3YXRlchoLaXY7ZDvZiNiq2LEqCQoCaW4VAAAAACpWCgpmYWhyZW5oZWl0FSSPkEAaAWYaENmB2YfYsdmG2YfYp9mK2KoaD2l2O2Q7ZmFocmVuaGVpdBoGaXY7ZDtmGhVpdjtkO9mB2YfYsdmG2YfYp9mK2KoykAIvZ290bz91cmw9Q0FFU3Z3RUI2enN3RldMN3VkRWQxVzdjR2ZaM2hVMlVnY0xwU0ZnYTY4dWZSeGZxRnN4bDhVU0lrRThDc1pLUFRRck9uWVlzMjlSaGdkcTF3YUdrazlmbDAtT0ZKRnRIcGVPMjRTRnRjQVBPRE1wTXJqNmZHVzJZbjJUTkVlRGl5enhad2EzcDFHMjRCR1V1WW9wTWQzS2E0bUkxQTBZMlZPX1ZoTE1BTFNCZ29MQU1id201T2htSHFianY4V0pXTmJabjJzZmtxWE5BR1NGaC1JX0RieFJPQjdIR082dDhlZjNiMWxRNVQwX1pjY1ZNaVBSNFoxU0U3ZExhQzBoOHJNQWc0UTpRVGhlIDxiPmJvaWxpbmcgcG9pbnQ8L2I-IGFuZCB0aGUgbWVsdGluZyBwb2ludCBmb3IgPGI-d2F0ZXI8L2I-IG9uIHRoZSAuLi4gLSBGaWxvQqsBVGhlIDxiPmJvaWxpbmcgcG9pbnQ8L2I-IGFuZCB0aGUgbWVsdGluZyBwb2ludCBmb3IgPGI-d2F0ZXI8L2I-IG9uIHRoZSA8Yj5GYWhyZW5oZWl0PC9iPiBzY2FsZSB3ZXJlIGNob3NlbiBzbyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIHRoZSB0d28gdGVtcGVyYXR1cmVzIHdvdWxkIGJlJm5ic3A7Li4uSgN0aGVKAmlzSgJvZkoCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZXTDd1ZEVkMVc3Y0dmWjNoVTJVZ2NMcFNGZ2E2OHVmUnhmcUZzeGw4VVNJa0U4Q3NaS1BUUXJPbllZczI5UmhnZHExd2FHa2s5ZmwwLU9GSkZ0SHBlTzI0U0Z0Y0FQT0RNcE1yajZmR1cyWW4yVE5FZURpeXp4WndhM3AxRzI0QkdVdVlvcE1kM0thNG1JMUEwWTJWT19WaExNQUxTQmdvTEFNYndtNU9obUhxYmp2OFdKV05iWm4yc2ZrcVhOQUdTRmgtSV9EYnhST0I3SEdPNnQ4ZWYzYjFsUTVUMF9aY2NWTWlQUjRaMVNFN2RMYUMwaDhyTUFnNFESBBoCCAAagAkSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA3AgIABAAGAAgACo-CgR3aGF0FXS8M0AaBXdoaWNoGgbZiNin2KoaCWl2O2Q7d2hhdBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNin2KoqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqQAQoHYm9pbGluZxUKQ6JAGg7Yp9mE2LrZhNmK2KfZhhoK2YXYs9mE2YjZghoI2YrYutmE2YoaDGJvaWxpbmdwb2ludBoMaXY7ZDtib2lsaW5nGglpdjtkO2JvaWwaE2l2O2Q72KfZhNi62YTZitin2YYaD2l2O2Q72YXYs9mE2YjZghoNaXY7ZDvZiti62YTZiiqlAQoFcG9pbnQVS8zCQBoHcHVycG9zZRoLdGVtcGVyYXR1cmUaCtio2YjZitmG2KoaDGJvaWxpbmdwb2ludBoKaXY7ZDtwb2ludBoLaXY7ZDtwb2ludHMaDGl2O2Q7cHVycG9zZRoKaXY7ZDtyYW5nZRoQaXY7ZDt0ZW1wZXJhdHVyZRoRaXY7ZDt0ZW1wZXJhdHVyZXMaD2l2O2Q72KjZiNmK2YbYqioJCgJvZhUAAAAAKi0KBXdhdGVyFTwc7UAaBtmI2KrYsRoKaXY7ZDt3YXRlchoLaXY7ZDvZiNiq2LEqCQoCaW4VAAAAACpWCgpmYWhyZW5oZWl0FSSPkEAaAWYaENmB2YfYsdmG2YfYp9mK2KoaD2l2O2Q7ZmFocmVuaGVpdBoGaXY7ZDtmGhVpdjtkO9mB2YfYsdmG2YfYp9mK2KoykAIvZ290bz91cmw9Q0FFU3Z3RUI2enN3RldMN3VkRWQxVzdjR2ZaM2hVMlVnY0xwU0ZnYTY4dWZSeGZxRnN4bDhVU0lrRThDc1pLUFRRck9uWVlzMjlSaGdkcTF3YUdrazlmbDAtT0ZKRnRIcGVPMjRTRnRjQVBPRE1wTXJqNmZHVzJZbjJUTkVlRGl5enhad2EzcDFHMjRCR1V1WW9wTWQzS2E0bUkxQTBZMlZPX1ZoTE1BTFNCZ29MQU1id201T2htSHFianY4V0pXTmJabjJzZmtxWE5BR1NGaC1JX0RieFJPQjdIR082dDhlZjNiMWxRNVQwX1pjY1ZNaVBSNFoxU0U3ZExhQzBoOHJNQWc0UTpRVGhlIDxiPmJvaWxpbmcgcG9pbnQ8L2I-IGFuZCB0aGUgbWVsdGluZyBwb2ludCBmb3IgPGI-d2F0ZXI8L2I-IG9uIHRoZSAuLi4gLSBGaWxvQqsBVGhlIDxiPmJvaWxpbmcgcG9pbnQ8L2I-IGFuZCB0aGUgbWVsdGluZyBwb2ludCBmb3IgPGI-d2F0ZXI8L2I-IG9uIHRoZSA8Yj5GYWhyZW5oZWl0PC9iPiBzY2FsZSB3ZXJlIGNob3NlbiBzbyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIHRoZSB0d28gdGVtcGVyYXR1cmVzIHdvdWxkIGJlJm5ic3A7Li4uSgN0aGVKAmlzSgJvZkoCaW4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Fahrenheit: Indigo Prophecy Remastered brings David Cage's interactive adventure game back in HD.",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=DCIyEigQWHI"
+      "description": "The boiling point and the melting point for water on the Fahrenheit scale were chosen so the difference between the two temperatures would be ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUJU8UATsQARsFNfNCmt-PN2vD____o7_qmdWq0xOczaMmRqd2HaoT_kgAAQMEANL5aY5h6mdoWXslCZ6WiIZZTAAAADXRSTlMAN4Ot0OG1Bf-UcHkRflvbLAAAASBJREFUeAGEkgcCgyAMRRFXOhLUtEjrvP8pG-h2Prf_sVE_RDpO0jTNdKQWyDX8cJjlR5hw-s8TmJHmP9WnsMR5PX-Rr9b_In33bxUdBAggIczxuQaPKcoCURwS8X8-nnnFfDHXK5K1Nf5VEYFATnJ3u99vDXPxK0Tq9KrAtiRC9xLw3ZJWsdwRL9wjDOOIQcCmKN1gvJCFSWhYqEq5DV4g8YXShKlI50IjeSWXo7cArTTRGHoJBXPdtJa58UKYZyMC4fASLFup3esoQrwmmCBk6jQXemYwjQtNaBXNBbnYVs9ORkrNBapZCO3Aa7God37-nANyrkY0zpaFeW9e8AZhuH_eXlO9v2H2t1xgb9Oq8862fwxHxiGU9YjNvASzPwD2QCb1RpKkdQAAAABJRU5ErkJggg.png",
+      "source_info_link": "https://askfilo.com/user-question-answers-smart-solutions/the-boiling-point-and-the-melting-point-for-water-on-the-3330383731313838"
      }
     },
-    "date": "Jan 30, 2015",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=DCIyEigQWHI",
+    "date": "01‏/04‏/2025",
+    "displayed_link": "https://askfilo.com › the-boiling-poin...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUTVsUJU8UATsQARsFNfNCmt-PN2vD____o7_qmdWq0xOczaMmRqd2HaoT_kgAAQMEANL5aY5h6mdoWXslCZ6WiIZZTAAAADXRSTlMAN4Ot0OG1Bf-UcHkRflvbLAAAASBJREFUeAGEkgcCgyAMRRFXOhLUtEjrvP8pG-h2Prf_sVE_RDpO0jTNdKQWyDX8cJjlR5hw-s8TmJHmP9WnsMR5PX-Rr9b_In33bxUdBAggIczxuQaPKcoCURwS8X8-nnnFfDHXK5K1Nf5VEYFATnJ3u99vDXPxK0Tq9KrAtiRC9xLw3ZJWsdwRL9wjDOOIQcCmKN1gvJCFSWhYqEq5DV4g8YXShKlI50IjeSWXo7cArTTRGHoJBXPdtJa58UKYZyMC4fASLFup3esoQrwmmCBk6jQXemYwjQtNaBXNBbnYVs9ORkrNBapZCO3Aa7God37-nANyrkY0zpaFeW9e8AZhuH_eXlO9v2H2t1xgb9Oq8862fwxHxiGU9YjNvASzPwD2QCb1RpKkdQAAAABJRU5ErkJggg.png",
+    "link": "https://askfilo.com/user-question-answers-smart-solutions/the-boiling-point-and-the-melting-point-for-water-on-the-3330383731313838",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVufD7wLGglMbGC1n4y8L7qHA1FmWb9_5IAcI5OXUte8HJAnioLmEFxYpxnhHFjy4zrGiXShgLuy4ZzZNhGQ3uiU96HJ8c75VXLi05fIjWCNNWeYd9Uh8WKbfkCqrfKg&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQFnoECCUQAQ&uoh=1",
-    "snippet": "Fahrenheit: Indigo Prophecy Remastered brings David Cage's interactive adventure game back in HD.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvwEB6zswFWL7udEd1W7cGfZ3hU2UgcLpSFga68ufRxfqFsxl8USIkE8CsZKPTQrOnYYs29Rhgdq1waGkk9fl0-OFJFtHpeO24SFtcAPODMpMrj6fGW2Yn2TNEeDiyzxZwa3p1G24BGUuYopMd3Ka4mI1A0Y2VO_VhLMALSBgoLAMbwm5OhmHqbjv8WJWNbZn2sfkqXNAGSFh-I_DbxROB7HGO6t8ef3b1lQ5T0_ZccVMiPR4Z1SE7dLaC0h8rMAg4Q&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQFnoECDMQAQ&uoh=1",
+    "snippet": "The boiling point and the melting point for water on the Fahrenheit scale were chosen so the difference between the two temperatures would be ...",
     "snippet_highlighted_words": [
+     "boiling point",
+     "water",
      "Fahrenheit"
     ],
-    "source": "YouTube",
-    "title": "Fahrenheit: Indigo Prophecy Remastered - Launch Trailer"
+    "source": "Filo",
+    "title": "The boiling point and the melting point for water on ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZkYjdTUjliRVhEaXpXVmZJVE53QTkwa0pSMGhrd1dVMlQ1MHRUcjlRZjVYcnI0cThIZXlBWmJMZDBGRjA4VVZ0NjV2VXBZVHVaZ0tXTEYzcEkxQTZOLXRmWGR2ejl6NExMajV1dURKSHFtUHRhU0tpTjNwZlhVMWhERzFEcmtvbXB1T0JiX2htYXhLS2ZuZ1pDaWJHeVlBNXZINExpZHlMbGFqVE9CVHJnEgQaAggAGsAHEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQJwHCAAQABgAIAAqPgoEd2hhdBUAAAAAGgV3aGljaBoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqkAEKB2JvaWxpbmcVGf-mQBoO2KfZhNi62YTZitin2YYaCtmF2LPZhNmI2YIaCNmK2LrZhNmKGgxib2lsaW5ncG9pbnQaDGl2O2Q7Ym9pbGluZxoJaXY7ZDtib2lsGhNpdjtkO9in2YTYutmE2YrYp9mGGg9pdjtkO9mF2LPZhNmI2YIaDWl2O2Q72YrYutmE2YoqpQEKBXBvaW50FRn_pkAaB3B1cnBvc2UaC3RlbXBlcmF0dXJlGgrYqNmI2YrZhtiqGgxib2lsaW5ncG9pbnQaCml2O2Q7cG9pbnQaC2l2O2Q7cG9pbnRzGgxpdjtkO3B1cnBvc2UaCml2O2Q7cmFuZ2UaEGl2O2Q7dGVtcGVyYXR1cmUaEWl2O2Q7dGVtcGVyYXR1cmVzGg9pdjtkO9io2YjZitmG2KoqCQoCb2YVAAAAACotCgV3YXRlchUZ_6ZAGgbZiNiq2LEaCml2O2Q7d2F0ZXIaC2l2O2Q72YjYqtixKgkKAmluFQAAAAAqVgoKZmFocmVuaGVpdBUZ_6ZAGgFmGhDZgdmH2LHZhtmH2KfZitiqGg9pdjtkO2ZhaHJlbmhlaXQaBml2O2Q7ZhoVaXY7ZDvZgdmH2LHZhtmH2KfZitiqMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZkYjdTUjliRVhEaXpXVmZJVE53QTkwa0pSMGhrd1dVMlQ1MHRUcjlRZjVYcnI0cThIZXlBWmJMZDBGRjA4VVZ0NjV2VXBZVHVaZ0tXTEYzcEkxQTZOLXRmWGR2ejl6NExMajV1dURKSHFtUHRhU0tpTjNwZlhVMWhERzFEcmtvbXB1T0JiX2htYXhLS2ZuZ1pDaWJHeVlBNXZINExpZHlMbGFqVE9CVHJnOjs8Yj5ib2lsaW5nIHBvaW50IG9mIHdhdGVyIGluIGZhaHJlbmhlaXQ8L2I-IC0gV29sZnJhbXxBbHBoYUJSPGI-Ym9pbGluZyBwb2ludCBvZiB3YXRlciBpbiBmYWhyZW5oZWl0PC9iPi4gYm9pbGluZyBwb2ludCBvZiB3YXRlciBpbiBmYWhyZW5oZWl0LkoCb2ZKAmlzSgN0aGVKAmluIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZkYjdTUjliRVhEaXpXVmZJVE53QTkwa0pSMGhrd1dVMlQ1MHRUcjlRZjVYcnI0cThIZXlBWmJMZDBGRjA4VVZ0NjV2VXBZVHVaZ0tXTEYzcEkxQTZOLXRmWGR2ejl6NExMajV1dURKSHFtUHRhU0tpTjNwZlhVMWhERzFEcmtvbXB1T0JiX2htYXhLS2ZuZ1pDaWJHeVlBNXZINExpZHlMbGFqVE9CVHJnEgQaAggAGsAHEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQJwHCAAQABgAIAAqPgoEd2hhdBUAAAAAGgV3aGljaBoG2YjYp9iqGglpdjtkO3doYXQaCml2O2Q7d2hpY2gaC2l2O2Q72YjYp9iqKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqkAEKB2JvaWxpbmcVGf-mQBoO2KfZhNi62YTZitin2YYaCtmF2LPZhNmI2YIaCNmK2LrZhNmKGgxib2lsaW5ncG9pbnQaDGl2O2Q7Ym9pbGluZxoJaXY7ZDtib2lsGhNpdjtkO9in2YTYutmE2YrYp9mGGg9pdjtkO9mF2LPZhNmI2YIaDWl2O2Q72YrYutmE2YoqpQEKBXBvaW50FRn_pkAaB3B1cnBvc2UaC3RlbXBlcmF0dXJlGgrYqNmI2YrZhtiqGgxib2lsaW5ncG9pbnQaCml2O2Q7cG9pbnQaC2l2O2Q7cG9pbnRzGgxpdjtkO3B1cnBvc2UaCml2O2Q7cmFuZ2UaEGl2O2Q7dGVtcGVyYXR1cmUaEWl2O2Q7dGVtcGVyYXR1cmVzGg9pdjtkO9io2YjZitmG2KoqCQoCb2YVAAAAACotCgV3YXRlchUZ_6ZAGgbZiNiq2LEaCml2O2Q7d2F0ZXIaC2l2O2Q72YjYqtixKgkKAmluFQAAAAAqVgoKZmFocmVuaGVpdBUZ_6ZAGgFmGhDZgdmH2LHZhtmH2KfZitiqGg9pdjtkO2ZhaHJlbmhlaXQaBml2O2Q7ZhoVaXY7ZDvZgdmH2LHZhtmH2KfZitiqMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZkYjdTUjliRVhEaXpXVmZJVE53QTkwa0pSMGhrd1dVMlQ1MHRUcjlRZjVYcnI0cThIZXlBWmJMZDBGRjA4VVZ0NjV2VXBZVHVaZ0tXTEYzcEkxQTZOLXRmWGR2ejl6NExMajV1dURKSHFtUHRhU0tpTjNwZlhVMWhERzFEcmtvbXB1T0JiX2htYXhLS2ZuZ1pDaWJHeVlBNXZINExpZHlMbGFqVE9CVHJnOjs8Yj5ib2lsaW5nIHBvaW50IG9mIHdhdGVyIGluIGZhaHJlbmhlaXQ8L2I-IC0gV29sZnJhbXxBbHBoYUJSPGI-Ym9pbGluZyBwb2ludCBvZiB3YXRlciBpbiBmYWhyZW5oZWl0PC9iPi4gYm9pbGluZyBwb2ludCBvZiB3YXRlciBpbiBmYWhyZW5oZWl0LkoCb2ZKAmlzSgN0aGVKAmluIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "sleeping Bindazzz for me is just about not having to worry about leaks, stains or waking up in the middle of the night to check. Bikinis, bubbles, backbends & ...",
-      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-      "source_info_link": "https://www.instagram.com/alayaf/?hl=en"
+      "description": "boiling point of water in fahrenheit. boiling point of water in fahrenheit.",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEz_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgDPeLVUAAAAD3RSTlMA9--Zgy1EV2nluXcNHdFuLLhCAAAAwklEQVQokY1S4RqEIAgzUVRIef-3PTXtuLK-2w8LprnRjNHAYB6xp7Tfuz73hxOB_pK9Ih1xLTGJJKxbI4EmRQoEkgoKUEScIuNW27Ytstm2RK2y97_YtGp_JaegPXvkK8ne5-oKgZIskAjQBDuqwq6Di7p4sqc1OGobTx83crqJ9jA4cNjlsZUXpJ0Hl58dVz4JamKn_5uVyr4O4WF82Mf3PviGcCXx35_9GhOgqAPGpMkRTZhHvBY0Q7EM9akaf8oPxT4UAHQx-Z0AAAAASUVORK5CYII.png",
+      "source_info_link": "https://es.wolframalpha.com/input?i=boiling+point+of+water+in+fahrenheit"
      }
     },
-    "displayed_link": "https://www.instagram.com › alayaf",
-    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "link": "https://www.instagram.com/alayaf/?hl=en",
+    "displayed_link": "https://es.wolframalpha.com › input",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEz_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgD_ZgDPeLVUAAAAD3RSTlMA9--Zgy1EV2nluXcNHdFuLLhCAAAAwklEQVQokY1S4RqEIAgzUVRIef-3PTXtuLK-2w8LprnRjNHAYB6xp7Tfuz73hxOB_pK9Ih1xLTGJJKxbI4EmRQoEkgoKUEScIuNW27Ytstm2RK2y97_YtGp_JaegPXvkK8ne5-oKgZIskAjQBDuqwq6Di7p4sqc1OGobTx83crqJ9jA4cNjlsZUXpJ0Hl58dVz4JamKn_5uVyr4O4WF82Mf3PviGcCXx35_9GhOgqAPGpMkRTZhHvBY0Q7EM9akaf8oPxT4UAHQx-Z0AAAAASUVORK5CYII.png",
+    "link": "https://es.wolframalpha.com/input?i=boiling+point+of+water+in+fahrenheit",
     "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVDafzlLUzjj78TUYPkcwXyLIQ-RznakIUmjhNEdpiwSy99xH9Z89eyFcipAnCpIVL_zTJTQvWL2djBmCrL7CpGipjVjk2kVC5I2t28pYB-uJiGVZL6WAXsHv6&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQFnoECB8QAQ&uoh=1",
-    "snippet": "sleeping Bindazzz for me is just about not having to worry about leaks, stains or waking up in the middle of the night to check. Bikinis, bubbles, backbends & ...",
-    "source": "Instagram",
-    "title": "ALAYA F (@alayaf) • Instagram photos and videos"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFdb7SR9bEXDizWVfITNwA90kJR0hkwWU2T50tTr9Qf5Xrr4q8HeyAZbLd0FF08UVt65vUpYTuZgKWLF3pI1A6N-tfXdvz9z4LLj5uuDJHqmPtaSKiN3pfXU1hDG1DrkompuOBb_hmaxKKfngZCibGyYA5vH4LidyLlajTOBTrg&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQFnoECCsQAQ&uoh=1",
+    "snippet": "boiling point of water in fahrenheit. boiling point of water in fahrenheit.",
+    "snippet_highlighted_words": [
+     "boiling point of water in fahrenheit"
+    ],
+    "source": "Wolfram|Alpha: Inteligencia Computacional",
+    "title": "boiling point of water in fahrenheit"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZiQjhvbXJsbkZmUUVGcWM4TDd1Y1diSTNHSkU5YjdGdE5TRDZ4TXBGeWFJcFVVVEtyVGZHU041TUdBODhtQXBZdFR0c3BUOVkyYkMtN0ZMTlU5UWJ1SHM3b1RZOWFnM3N3N2dmQndyeElSX1NJX1lmLUtjS1BPVnZBc3VJd0R6eFVyaGRfaW0temNWSmp2QVJPbWhXanFMelQwaWhKQVJWLWFURkdGS1V3EgQaAggAGp8IEgAaAggBIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA-QcIABAAGAAgACo-CgR3aGF0FYcpn0AaBXdoaWNoGgbZiNin2KoaCWl2O2Q7d2hhdBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNin2KoqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqQAQoHYm9pbGluZxX5CrxAGg7Yp9mE2LrZhNmK2KfZhhoK2YXYs9mE2YjZghoI2YrYutmE2YoaDGJvaWxpbmdwb2ludBoMaXY7ZDtib2lsaW5nGglpdjtkO2JvaWwaE2l2O2Q72KfZhNi62YTZitin2YYaD2l2O2Q72YXYs9mE2YjZghoNaXY7ZDvZiti62YTZiiqlAQoFcG9pbnQVDTa6QBoHcHVycG9zZRoLdGVtcGVyYXR1cmUaCtio2YjZitmG2KoaDGJvaWxpbmdwb2ludBoKaXY7ZDtwb2ludBoLaXY7ZDtwb2ludHMaDGl2O2Q7cHVycG9zZRoKaXY7ZDtyYW5nZRoQaXY7ZDt0ZW1wZXJhdHVyZRoRaXY7ZDt0ZW1wZXJhdHVyZXMaD2l2O2Q72KjZiNmK2YbYqioJCgJvZhUAAAAAKi0KBXdhdGVyFYceyUAaBtmI2KrYsRoKaXY7ZDt3YXRlchoLaXY7ZDvZiNiq2LEqCQoCaW4VAAAAACpWCgpmYWhyZW5oZWl0FW_xmkAaAWYaENmB2YfYsdmG2YfYp9mK2KoaD2l2O2Q7ZmFocmVuaGVpdBoGaXY7ZDtmGhVpdjtkO9mB2YfYsdmG2YfYp9mK2KoywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmJCOG9tcmxuRmZRRUZxYzhMN3VjV2JJM0dKRTliN0Z0TlNENnhNcEZ5YUlwVVVUS3JUZkdTTjVNR0E4OG1BcFl0VHRzcFQ5WTJiQy03RkxOVTlRYnVIczdvVFk5YWczc3c3Z2ZCd3J4SVJfU0lfWWYtS2NLUE9WdkFzdUl3RHp4VXJoZF9pbS16Y1ZKanZBUk9taFdqcUx6VDBpaEpBUlYtYVRGR0ZLVXc6UDxiPldoYXQgaXMgdGhlIGJvaWxpbmcgcG9pbnQgb2Ygd2F0ZXI8L2I-PyAxKS4gMjEyIGRlZ3JlZXMgPGI-RmFocmVuaGVpdDwvYj4gLi4uQpkBQXQgc2VhIGxldmVsLCB0aGUgYm9pbGluZyBwb2ludCBvZiB3YXRlciBpcyA8Yj4yMTIgZGVncmVlcyBGYWhyZW5oZWl0PC9iPi4gT24gdG9wIG9mIFBpa2UmIzM5O3MgUGVhayAoMTQsMDAwIGZlZXQgYWJvdmUgc2VhIGxldmVsKSwgaG93ZXZlciwgdGhlJm5ic3A7Li4uSgJpbkoCb2ZKAmlzSgN0aGUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZiQjhvbXJsbkZmUUVGcWM4TDd1Y1diSTNHSkU5YjdGdE5TRDZ4TXBGeWFJcFVVVEtyVGZHU041TUdBODhtQXBZdFR0c3BUOVkyYkMtN0ZMTlU5UWJ1SHM3b1RZOWFnM3N3N2dmQndyeElSX1NJX1lmLUtjS1BPVnZBc3VJd0R6eFVyaGRfaW0temNWSmp2QVJPbWhXanFMelQwaWhKQVJWLWFURkdGS1V3EgQaAggAGp8IEgAaAggBIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA-QcIABAAGAAgACo-CgR3aGF0FYcpn0AaBXdoaWNoGgbZiNin2KoaCWl2O2Q7d2hhdBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNin2KoqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqQAQoHYm9pbGluZxX5CrxAGg7Yp9mE2LrZhNmK2KfZhhoK2YXYs9mE2YjZghoI2YrYutmE2YoaDGJvaWxpbmdwb2ludBoMaXY7ZDtib2lsaW5nGglpdjtkO2JvaWwaE2l2O2Q72KfZhNi62YTZitin2YYaD2l2O2Q72YXYs9mE2YjZghoNaXY7ZDvZiti62YTZiiqlAQoFcG9pbnQVDTa6QBoHcHVycG9zZRoLdGVtcGVyYXR1cmUaCtio2YjZitmG2KoaDGJvaWxpbmdwb2ludBoKaXY7ZDtwb2ludBoLaXY7ZDtwb2ludHMaDGl2O2Q7cHVycG9zZRoKaXY7ZDtyYW5nZRoQaXY7ZDt0ZW1wZXJhdHVyZRoRaXY7ZDt0ZW1wZXJhdHVyZXMaD2l2O2Q72KjZiNmK2YbYqioJCgJvZhUAAAAAKi0KBXdhdGVyFYceyUAaBtmI2KrYsRoKaXY7ZDt3YXRlchoLaXY7ZDvZiNiq2LEqCQoCaW4VAAAAACpWCgpmYWhyZW5oZWl0FW_xmkAaAWYaENmB2YfYsdmG2YfYp9mK2KoaD2l2O2Q7ZmFocmVuaGVpdBoGaXY7ZDtmGhVpdjtkO9mB2YfYsdmG2YfYp9mK2KoywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmJCOG9tcmxuRmZRRUZxYzhMN3VjV2JJM0dKRTliN0Z0TlNENnhNcEZ5YUlwVVVUS3JUZkdTTjVNR0E4OG1BcFl0VHRzcFQ5WTJiQy03RkxOVTlRYnVIczdvVFk5YWczc3c3Z2ZCd3J4SVJfU0lfWWYtS2NLUE9WdkFzdUl3RHp4VXJoZF9pbS16Y1ZKanZBUk9taFdqcUx6VDBpaEpBUlYtYVRGR0ZLVXc6UDxiPldoYXQgaXMgdGhlIGJvaWxpbmcgcG9pbnQgb2Ygd2F0ZXI8L2I-PyAxKS4gMjEyIGRlZ3JlZXMgPGI-RmFocmVuaGVpdDwvYj4gLi4uQpkBQXQgc2VhIGxldmVsLCB0aGUgYm9pbGluZyBwb2ludCBvZiB3YXRlciBpcyA8Yj4yMTIgZGVncmVlcyBGYWhyZW5oZWl0PC9iPi4gT24gdG9wIG9mIFBpa2UmIzM5O3MgUGVhayAoMTQsMDAwIGZlZXQgYWJvdmUgc2VhIGxldmVsKSwgaG93ZXZlciwgdGhlJm5ic3A7Li4uSgJpbkoCb2ZKAmlzSgN0aGUiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "A scene from Michael Moore's 2018 film, \"Fahrenheit 11/9.\" This sequence maps the rise of fascism in Nazi Germany onto the rise of fascism ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=wfszwkoSdQA"
+      "description": "At sea level, the boiling point of water is 212 degrees Fahrenheit. On top of Pike's Peak (14,000 feet above sea level), however, the ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/groups/1934907523425183/posts/1941277426121526/"
      }
     },
-    "date": "Apr 7, 2026",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=wfszwkoSdQA",
+    "displayed_link": "‫2 تعليق · قبل 8 سنوات",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/groups/1934907523425183/posts/1941277426121526/",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVlqSATFxCtfUglbjX5BwVAPmL2bo0HXgFxvODCW5r4M6bHPaYVs052aEyGjgBYc_U4gyMlseuLWgMYL8hushi3V6PPhlAERTV97_jKlbqcRWpTk8gonu4kU0veuGAnw&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQFnoECCcQAQ&uoh=1",
-    "snippet": "A scene from Michael Moore's 2018 film, \"Fahrenheit 11/9.\" This sequence maps the rise of fascism in Nazi Germany onto the rise of fascism ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFbB8omrlnFfQEFqc8L7ucWbI3GJE9b7FtNSD6xMpFyaIpUUTKrTfGSN5MGA88mApYtTtspT9Y2bC-7FLNU9QbuHs7oTY9ag3sw7gfBwrxIR_SI_Yf-KcKPOVvAsuIwDzxUrhd_im-zcVJjvAROmhWjqLzT0ihJARV-aTFGFKUw&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQFnoECDcQAQ&uoh=1",
+    "snippet": "At sea level, the boiling point of water is 212 degrees Fahrenheit. On top of Pike's Peak (14,000 feet above sea level), however, the ...",
     "snippet_highlighted_words": [
-     "Fahrenheit"
+     "212 degrees Fahrenheit"
     ],
-    "source": "YouTube",
-    "title": "\"Fahrenheit 11/9\" - This is How Fascism Starts"
+    "source": "Facebook · Dictionary For Hotel Managemet Mentee By Mentors",
+    "title": "What is the boiling point of water? 1). 212 degrees ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvwCL2dvdG8_dXJsPUNBRVNrQUlCNnpzd0ZRYndlMW5SSEpxU0tpSUVQVVd4SFpUa0VFRVJtNzNWekE3WWZwMWVjZHRmTkRyd3NlOUdRUGE5a1NnNHV1YnlUaFpMQXRrX1ZiaHd3ZU93TVIxbFNMbnBNRnNpNDJPOVB4bHN0SkJEcml3ZDVuMXhIWlRpUnV3RUlraE11dWhFczBlRWYyUFJEdzVMUWN0ck9CdjVDOGdub1Vha3h0ZFg4enJvaTJna0liTUtLUjczdno5cTFOM05mTlJ5djA5anJMZ3EzVDZkaEZlcEZKemRmLVIzUXNDMmNyblV0VGVlQng5c1VFNmtwSzhYRE5SVmpncmIzZDFUZTZtcG5Mdlg5VnF3SUgzaFFDWDlSM2V6MUliejFBYXlJLUp3cElka1d6d3FYMjh0cGg0ZVVlU29GQW1tX0V6SFpkVHVKOHZ1WnI3aXhPZmlwZVYwRERsRXhQMmMtSWg0YmFxSjdXMFJVZmwyeHcSBBoCCAAa5wkSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAwwkIABAAGAAgACo-CgR3aGF0FTX_KkAaBXdoaWNoGgbZiNin2KoaCWl2O2Q7d2hhdBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNin2KoqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqQAQoHYm9pbGluZxWKlndAGg7Yp9mE2LrZhNmK2KfZhhoK2YXYs9mE2YjZghoI2YrYutmE2YoaDGJvaWxpbmdwb2ludBoMaXY7ZDtib2lsaW5nGglpdjtkO2JvaWwaE2l2O2Q72KfZhNi62YTZitin2YYaD2l2O2Q72YXYs9mE2YjZghoNaXY7ZDvZiti62YTZiiqlAQoFcG9pbnQVe8WFPxoHcHVycG9zZRoLdGVtcGVyYXR1cmUaCtio2YjZitmG2KoaDGJvaWxpbmdwb2ludBoKaXY7ZDtwb2ludBoLaXY7ZDtwb2ludHMaDGl2O2Q7cHVycG9zZRoKaXY7ZDtyYW5nZRoQaXY7ZDt0ZW1wZXJhdHVyZRoRaXY7ZDt0ZW1wZXJhdHVyZXMaD2l2O2Q72KjZiNmK2YbYqioJCgJvZhUAAAAAKi0KBXdhdGVyFZydqz8aBtmI2KrYsRoKaXY7ZDt3YXRlchoLaXY7ZDvZiNiq2LEqCQoCaW4VAAAAACpWCgpmYWhyZW5oZWl0FRQMfUAaAWYaENmB2YfYsdmG2YfYp9mK2KoaD2l2O2Q7ZmFocmVuaGVpdBoGaXY7ZDtmGhVpdjtkO9mB2YfYsdmG2YfYp9mK2Koy_AIvZ290bz91cmw9Q0FFU2tBSUI2enN3RlFid2UxblJISnFTS2lJRVBVV3hIWlRrRUVFUm03M1Z6QTdZZnAxZWNkdGZORHJ3c2U5R1FQYTlrU2c0dXVieVRoWkxBdGtfVmJod3dlT3dNUjFsU0xucE1Gc2k0Mk85UHhsc3RKQkRyaXdkNW4xeEhaVGlSdXdFSWtoTXV1aEVzMGVFZjJQUkR3NUxRY3RyT0J2NUM4Z25vVWFreHRkWDh6cm9pMmdrSWJNS0tSNzN2ejlxMU4zTmZOUnl2MDlqckxncTNUNmRoRmVwRkp6ZGYtUjNRc0MyY3JuVXRUZWVCeDlzVUU2a3BLOFhETlJWamdyYjNkMVRlNm1wbkx2WDlWcXdJSDNoUUNYOVIzZXoxSWJ6MUFheUktSndwSWRrV3p3cVgyOHRwaDRlVWVTb0ZBbW1fRXpIWmRUdUo4dnVacjdpeE9maXBlVjBERGxFeFAyYy1JaDRiYXFKN1cwUlVmbDJ4dzpWV2hhdCYjMzk7cyB0aGUgcmF0aW9uYWxlIGJlaGluZCA8Yj5GYWhyZW5oZWl0PC9iPiBpZiB0aGUgPGI-Ym9pbGluZzwvYj4gb3IgLi4uIC0gUXVvcmFCoQEwIMKwYyA9IDMyIMKwRiBmb3IgdGhlIG1lbHRpbmcgcG9pbnQgb2YgaWNlOy4gPGI-MTAwIMKwYyA9IDIxMsKwRiBmb3IgdGhlIGJvaWxpbmcgcG9pbnQgb2Ygd2F0ZXI8L2I-LiBCZWNhdXNlIGJvdGggc2NhbGVzIGFyZSBsaW5lYXIsIHdlIGhhdmUgdHdvIHBvaW50cyZuYnNwOy4uLkoCaW5KAm9mSgJpc0oDdGhlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvwCL2dvdG8_dXJsPUNBRVNrQUlCNnpzd0ZRYndlMW5SSEpxU0tpSUVQVVd4SFpUa0VFRVJtNzNWekE3WWZwMWVjZHRmTkRyd3NlOUdRUGE5a1NnNHV1YnlUaFpMQXRrX1ZiaHd3ZU93TVIxbFNMbnBNRnNpNDJPOVB4bHN0SkJEcml3ZDVuMXhIWlRpUnV3RUlraE11dWhFczBlRWYyUFJEdzVMUWN0ck9CdjVDOGdub1Vha3h0ZFg4enJvaTJna0liTUtLUjczdno5cTFOM05mTlJ5djA5anJMZ3EzVDZkaEZlcEZKemRmLVIzUXNDMmNyblV0VGVlQng5c1VFNmtwSzhYRE5SVmpncmIzZDFUZTZtcG5Mdlg5VnF3SUgzaFFDWDlSM2V6MUliejFBYXlJLUp3cElka1d6d3FYMjh0cGg0ZVVlU29GQW1tX0V6SFpkVHVKOHZ1WnI3aXhPZmlwZVYwRERsRXhQMmMtSWg0YmFxSjdXMFJVZmwyeHcSBBoCCAAa5wkSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAwwkIABAAGAAgACo-CgR3aGF0FTX_KkAaBXdoaWNoGgbZiNin2KoaCWl2O2Q7d2hhdBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNin2KoqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqQAQoHYm9pbGluZxWKlndAGg7Yp9mE2LrZhNmK2KfZhhoK2YXYs9mE2YjZghoI2YrYutmE2YoaDGJvaWxpbmdwb2ludBoMaXY7ZDtib2lsaW5nGglpdjtkO2JvaWwaE2l2O2Q72KfZhNi62YTZitin2YYaD2l2O2Q72YXYs9mE2YjZghoNaXY7ZDvZiti62YTZiiqlAQoFcG9pbnQVe8WFPxoHcHVycG9zZRoLdGVtcGVyYXR1cmUaCtio2YjZitmG2KoaDGJvaWxpbmdwb2ludBoKaXY7ZDtwb2ludBoLaXY7ZDtwb2ludHMaDGl2O2Q7cHVycG9zZRoKaXY7ZDtyYW5nZRoQaXY7ZDt0ZW1wZXJhdHVyZRoRaXY7ZDt0ZW1wZXJhdHVyZXMaD2l2O2Q72KjZiNmK2YbYqioJCgJvZhUAAAAAKi0KBXdhdGVyFZydqz8aBtmI2KrYsRoKaXY7ZDt3YXRlchoLaXY7ZDvZiNiq2LEqCQoCaW4VAAAAACpWCgpmYWhyZW5oZWl0FRQMfUAaAWYaENmB2YfYsdmG2YfYp9mK2KoaD2l2O2Q7ZmFocmVuaGVpdBoGaXY7ZDtmGhVpdjtkO9mB2YfYsdmG2YfYp9mK2Koy_AIvZ290bz91cmw9Q0FFU2tBSUI2enN3RlFid2UxblJISnFTS2lJRVBVV3hIWlRrRUVFUm03M1Z6QTdZZnAxZWNkdGZORHJ3c2U5R1FQYTlrU2c0dXVieVRoWkxBdGtfVmJod3dlT3dNUjFsU0xucE1Gc2k0Mk85UHhsc3RKQkRyaXdkNW4xeEhaVGlSdXdFSWtoTXV1aEVzMGVFZjJQUkR3NUxRY3RyT0J2NUM4Z25vVWFreHRkWDh6cm9pMmdrSWJNS0tSNzN2ejlxMU4zTmZOUnl2MDlqckxncTNUNmRoRmVwRkp6ZGYtUjNRc0MyY3JuVXRUZWVCeDlzVUU2a3BLOFhETlJWamdyYjNkMVRlNm1wbkx2WDlWcXdJSDNoUUNYOVIzZXoxSWJ6MUFheUktSndwSWRrV3p3cVgyOHRwaDRlVWVTb0ZBbW1fRXpIWmRUdUo4dnVacjdpeE9maXBlVjBERGxFeFAyYy1JaDRiYXFKN1cwUlVmbDJ4dzpWV2hhdCYjMzk7cyB0aGUgcmF0aW9uYWxlIGJlaGluZCA8Yj5GYWhyZW5oZWl0PC9iPiBpZiB0aGUgPGI-Ym9pbGluZzwvYj4gb3IgLi4uIC0gUXVvcmFCoQEwIMKwYyA9IDMyIMKwRiBmb3IgdGhlIG1lbHRpbmcgcG9pbnQgb2YgaWNlOy4gPGI-MTAwIMKwYyA9IDIxMsKwRiBmb3IgdGhlIGJvaWxpbmcgcG9pbnQgb2Ygd2F0ZXI8L2I-LiBCZWNhdXNlIGJvdGggc2NhbGVzIGFyZSBsaW5lYXIsIHdlIGhhdmUgdHdvIHBvaW50cyZuYnNwOy4uLkoCaW5KAm9mSgJpc0oDdGhlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Starring Michael B. Jordan and Michael Shannon, Fahrenheit 451 is based on Ray Bradbury's classic novel. In a future where the media is an ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=O3irxFd965s"
+      "description": "0 °c = 32 °F for the melting point of ice;. 100 °c = 212°F for the boiling point of water. Because both scales are linear, we have two points ...",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "source_info_link": "https://www.quora.com/Whats-the-rationale-behind-Fahrenheit-if-the-boiling-or-freezing-points-dont-correspond-to-0-or-100-Why-did-the-US-decide-to-use-this-metric-as-an-appropriate-measure-for-weather-temperature"
      }
     },
-    "date": "Apr 13, 2018",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=O3irxFd965s",
+    "displayed_link": "أكثر من 40 إجابة · قبل 6 سنوات",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+    "link": "https://www.quora.com/Whats-the-rationale-behind-Fahrenheit-if-the-boiling-or-freezing-points-dont-correspond-to-0-or-100-Why-did-the-US-decide-to-use-this-metric-as-an-appropriate-measure-for-weather-temperature",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVbRIoGCnuw3XZc89zP9ZXvhswqyz5nhGHgAWvTih79gPpt0gmXyK57rFTstgBFvfn0B1_i5u4zWXkAVMuiChaLlyN_mrNlWkHVTZONM4FdvOW5L838qpc82u5CJgC0Q&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQFnoECEAQAQ&uoh=1",
-    "snippet": "Starring Michael B. Jordan and Michael Shannon, Fahrenheit 451 is based on Ray Bradbury's classic novel. In a future where the media is an ...",
-    "snippet_highlighted_words": [
-     "Fahrenheit"
-    ],
-    "source": "YouTube",
-    "title": "Fahrenheit 451 - Official Trailer - Official HBO UK"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAIB6zswFQbwe1nRHJqSKiIEPUWxHZTkEEERm73VzA7Yfp1ecdtfNDrwse9GQPa9kSg4uubyThZLAtk_VbhwweOwMR1lSLnpMFsi42O9PxlstJBDriwd5n1xHZTiRuwEIkhMuuhEs0eEf2PRDw5LQctrOBv5C8gnoUakxtdX8zroi2gkIbMKKR73vz9q1N3NfNRyv09jrLgq3T6dhFepFJzdf-R3QsC2crnUtTeeBx9sUE6kpK8XDNRVjgrb3d1Te6mpnLvX9VqwIH3hQCX9R3ez1Ibz1AayI-JwpIdkWzwqX28tph4eUeSoFAmm_EzHZdTuJ8vuZr7ixOfipeV0DDlExP2c-Ih4baqJ7W0RUfl2xw&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQFnoECEsQAQ&uoh=1",
+    "snippet": "What's the rationale behind Fahrenheit if the boiling or freezing points don't correspond to 0 or 100? Why did the US decide to use this metric ...",
+    "source": "Quora",
+    "title": "What's the rationale behind Fahrenheit if the boiling or ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZadTlVeUg0MlZkVXNmLTdjb2kxS2ZiQjRqY3lPT2x4MXBCUFkwTGROUXJZSmt3cl9ldlRZOGNzYjVMQ2RzTThvRTdwMjBydjd2ZFZRU2dPbmtBZ0JaazNSOVhrM1hOcmNfRGRqSk5ic3lfZkhIY05xN0g0YjA1OEV2QUJIbW1lck55ZGtnWEFQb0lEbk1VWHIyYzlqSkNqSFBjaURxOFVXcEJCbnd3VVJvZG1VSzM3Y3BBaDl4aC14ejB2Q3JhcXZKQlQ2TWxMa0JWRVhqVFU5LWZMRFBIY0FaTzBzMDZNaVNTOWdLTRIEGgIIABqzCBIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCPCAgAEAAYACAAKj4KBHdoYXQVJm5yQBoFd2hpY2gaBtmI2KfYqhoJaXY7ZDt3aGF0GgppdjtkO3doaWNoGgtpdjtkO9mI2KfYqioJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKpABCgdib2lsaW5nFUnO6EAaDtin2YTYutmE2YrYp9mGGgrZhdiz2YTZiNmCGgjZiti62YTZihoMYm9pbGluZ3BvaW50GgxpdjtkO2JvaWxpbmcaCWl2O2Q7Ym9pbBoTaXY7ZDvYp9mE2LrZhNmK2KfZhhoPaXY7ZDvZhdiz2YTZiNmCGg1pdjtkO9mK2LrZhNmKKqUBCgVwb2ludBW2IOVAGgdwdXJwb3NlGgt0ZW1wZXJhdHVyZRoK2KjZiNmK2YbYqhoMYm9pbGluZ3BvaW50GgppdjtkO3BvaW50GgtpdjtkO3BvaW50cxoMaXY7ZDtwdXJwb3NlGgppdjtkO3JhbmdlGhBpdjtkO3RlbXBlcmF0dXJlGhFpdjtkO3RlbXBlcmF0dXJlcxoPaXY7ZDvYqNmI2YrZhtiqKgkKAm9mFQAAAAAqLQoFd2F0ZXIVpvjhQBoG2YjYqtixGgppdjtkO3dhdGVyGgtpdjtkO9mI2KrYsSoJCgJpbhUAAAAAKlYKCmZhaHJlbmhlaXQVz53bQBoBZhoQ2YHZh9ix2YbZh9in2YrYqhoPaXY7ZDtmYWhyZW5oZWl0GgZpdjtkO2YaFWl2O2Q72YHZh9ix2YbZh9in2YrYqjL9AS9nb3RvP3VybD1DQUVTc1FFQjZ6c3dGWnU5VXlINDJWZFVzZi03Y29pMUtmYkI0amN5T09seDFwQlBZMExkTlFyWUprd3JfZXZUWThjc2I1TENkc004b0U3cDIwcnY3dmRWUVNnT25rQWdCWmszUjlYazNYTnJjX0RkakpOYnN5X2ZISGNOcTdINGIwNThFdkFCSG1tZXJOeWRrZ1hBUG9JRG5NVVhyMmM5akpDakhQY2lEcThVV3BCQm53d1VSb2RtVUszN2NwQWg5eGgteHowdkNyYXF2SkJUNk1sTGtCVkVYalRVOS1mTERQSGNBWk8wczA2TWlTUzlnS006QEhvdyBtYW55IDxiPkZhaHJlbmhlaXQ8L2I-IGRlZ3JlZXMgc2VwYXJhdGUgdGhlIGZyZWV6aW5nIGFuZCAuLi5CggFUaGUgZnJlZXppbmcgcG9pbnQgb2Ygd2F0ZXIgaXMgMMKwQywgMzLCsEYgb3IgMjczLjE1IEtlbHZpbi4gVGhlIGJvaWxpbmcgcG9pbnQgb2Ygd2F0ZXIgaXMgPGI-MTAwwrBDLCAyMTLCsEY8L2I-IG9yIDM3My4xNSBLZWx2aW4uSgJvZkoCaXNKA3RoZUoCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZadTlVeUg0MlZkVXNmLTdjb2kxS2ZiQjRqY3lPT2x4MXBCUFkwTGROUXJZSmt3cl9ldlRZOGNzYjVMQ2RzTThvRTdwMjBydjd2ZFZRU2dPbmtBZ0JaazNSOVhrM1hOcmNfRGRqSk5ic3lfZkhIY05xN0g0YjA1OEV2QUJIbW1lck55ZGtnWEFQb0lEbk1VWHIyYzlqSkNqSFBjaURxOFVXcEJCbnd3VVJvZG1VSzM3Y3BBaDl4aC14ejB2Q3JhcXZKQlQ2TWxMa0JWRVhqVFU5LWZMRFBIY0FaTzBzMDZNaVNTOWdLTRIEGgIIABqzCBIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCPCAgAEAAYACAAKj4KBHdoYXQVJm5yQBoFd2hpY2gaBtmI2KfYqhoJaXY7ZDt3aGF0GgppdjtkO3doaWNoGgtpdjtkO9mI2KfYqioJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKpABCgdib2lsaW5nFUnO6EAaDtin2YTYutmE2YrYp9mGGgrZhdiz2YTZiNmCGgjZiti62YTZihoMYm9pbGluZ3BvaW50GgxpdjtkO2JvaWxpbmcaCWl2O2Q7Ym9pbBoTaXY7ZDvYp9mE2LrZhNmK2KfZhhoPaXY7ZDvZhdiz2YTZiNmCGg1pdjtkO9mK2LrZhNmKKqUBCgVwb2ludBW2IOVAGgdwdXJwb3NlGgt0ZW1wZXJhdHVyZRoK2KjZiNmK2YbYqhoMYm9pbGluZ3BvaW50GgppdjtkO3BvaW50GgtpdjtkO3BvaW50cxoMaXY7ZDtwdXJwb3NlGgppdjtkO3JhbmdlGhBpdjtkO3RlbXBlcmF0dXJlGhFpdjtkO3RlbXBlcmF0dXJlcxoPaXY7ZDvYqNmI2YrZhtiqKgkKAm9mFQAAAAAqLQoFd2F0ZXIVpvjhQBoG2YjYqtixGgppdjtkO3dhdGVyGgtpdjtkO9mI2KrYsSoJCgJpbhUAAAAAKlYKCmZhaHJlbmhlaXQVz53bQBoBZhoQ2YHZh9ix2YbZh9in2YrYqhoPaXY7ZDtmYWhyZW5oZWl0GgZpdjtkO2YaFWl2O2Q72YHZh9ix2YbZh9in2YrYqjL9AS9nb3RvP3VybD1DQUVTc1FFQjZ6c3dGWnU5VXlINDJWZFVzZi03Y29pMUtmYkI0amN5T09seDFwQlBZMExkTlFyWUprd3JfZXZUWThjc2I1TENkc004b0U3cDIwcnY3dmRWUVNnT25rQWdCWmszUjlYazNYTnJjX0RkakpOYnN5X2ZISGNOcTdINGIwNThFdkFCSG1tZXJOeWRrZ1hBUG9JRG5NVVhyMmM5akpDakhQY2lEcThVV3BCQm53d1VSb2RtVUszN2NwQWg5eGgteHowdkNyYXF2SkJUNk1sTGtCVkVYalRVOS1mTERQSGNBWk8wczA2TWlTUzlnS006QEhvdyBtYW55IDxiPkZhaHJlbmhlaXQ8L2I-IGRlZ3JlZXMgc2VwYXJhdGUgdGhlIGZyZWV6aW5nIGFuZCAuLi5CggFUaGUgZnJlZXppbmcgcG9pbnQgb2Ygd2F0ZXIgaXMgMMKwQywgMzLCsEYgb3IgMjczLjE1IEtlbHZpbi4gVGhlIGJvaWxpbmcgcG9pbnQgb2Ygd2F0ZXIgaXMgPGI-MTAwwrBDLCAyMTLCsEY8L2I-IG9yIDM3My4xNSBLZWx2aW4uSgJvZkoCaXNKA3RoZUoCaW4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "97 degrees and falling fast! Climb the steep, 121-foot lift hill before plummeting down the signature Fahrenheit® coaster 97-degree drop.",
-      "icon": "https://serpapi.com/images/i/UklGRqQAAABXRUJQVlA4IJgAAACQAgCdASoPABAAAsBMJbACdDiAByQoOHTa9uGfuAD--jUAkhHTm4dBRRHuTYa08r2QHukA6Lp82_DYzhE8_PUyobKfgUufU_qe0Lp32e9fYwdbHD00a2QOThLatm0ao4IBW9S_eW4zMd6FKSf4nqNs4SMhhkK3wGfbw08GJN3K8H7H7GK1NyMejzPIa0AZZ8KJ9yWjLuwAAA.webp",
-      "source_info_link": "https://www.hersheypark.com/things-to-do/rides-and-attractions/fahrenheit"
+      "description": "The freezing point of water is 0°C, 32°F or 273.15 Kelvin. The boiling point of water is 100°C, 212°F or 373.15 Kelvin.",
+      "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhILOwBzHbtV3k5v4nCSMDZ0KclpMz8I9tsCnvrgYpnjMDAmkcUdQAAD-5uX5Vj-U-3g1-nfTj7K-KjjnCWgRaD75_6lxb3WmX_61kTavxBEb4RHPvU7YcCEJc4EGSfJYCp3qjGssJn301cwCopQbUwOWACue0ois9_-embu4LkD0j4mxQHk5_6a8B__wq6owll7X1aSznspftgfhj9ReiREk3pfjWX4-gyCA5_QRTYx74j8yqeasf22c8U0cGoNx4AiYlTgP0zKZ2VyMFKgJSeQyYBfIm3haxJX58UqOI7E3_RcWXiq4tTutum48rwFZowDLgWduB5SVLCIenywAkoqblvautExmcR6-OcRygwa3zabi2vn8xQUUST5T_0_7KqFm8ZqRMpBYstIMrJKirL2KiO88RDttcadDQXCu1Ex0Shm6DN-r_p_yq1wlEd56q6nSBZOGSfrXQGP6AAA.webp",
+      "source_info_link": "https://math.answers.com/natural-sciences/How_many_Fahrenheit_degrees_separate_the_freezing_and_boiling_point_of_water"
      }
     },
-    "displayed_link": "https://www.hersheypark.com › ... › Rides and attractions",
-    "favicon": "https://serpapi.com/images/i/UklGRqQAAABXRUJQVlA4IJgAAACQAgCdASoPABAAAsBMJbACdDiAByQoOHTa9uGfuAD--jUAkhHTm4dBRRHuTYa08r2QHukA6Lp82_DYzhE8_PUyobKfgUufU_qe0Lp32e9fYwdbHD00a2QOThLatm0ao4IBW9S_eW4zMd6FKSf4nqNs4SMhhkK3wGfbw08GJN3K8H7H7GK1NyMejzPIa0AZZ8KJ9yWjLuwAAA.webp",
-    "link": "https://www.hersheypark.com/things-to-do/rides-and-attractions/fahrenheit",
+    "date": "09‏/11‏/2011",
+    "displayed_link": "https://math.answers.com › How_m...",
+    "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhILOwBzHbtV3k5v4nCSMDZ0KclpMz8I9tsCnvrgYpnjMDAmkcUdQAAD-5uX5Vj-U-3g1-nfTj7K-KjjnCWgRaD75_6lxb3WmX_61kTavxBEb4RHPvU7YcCEJc4EGSfJYCp3qjGssJn301cwCopQbUwOWACue0ois9_-embu4LkD0j4mxQHk5_6a8B__wq6owll7X1aSznspftgfhj9ReiREk3pfjWX4-gyCA5_QRTYx74j8yqeasf22c8U0cGoNx4AiYlTgP0zKZ2VyMFKgJSeQyYBfIm3haxJX58UqOI7E3_RcWXiq4tTutum48rwFZowDLgWduB5SVLCIenywAkoqblvautExmcR6-OcRygwa3zabi2vn8xQUUST5T_0_7KqFm8ZqRMpBYstIMrJKirL2KiO88RDttcadDQXCu1Ex0Shm6DN-r_p_yq1wlEd56q6nSBZOGSfrXQGP6AAA.webp",
+    "link": "https://math.answers.com/natural-sciences/How_many_Fahrenheit_degrees_separate_the_freezing_and_boiling_point_of_water",
     "position": 8,
-    "read_more_link": "https://www.hersheypark.com/things-to-do/rides-and-attractions/fahrenheit#:~:text=97%20degrees%20and%20falling%20fast!,signature%20Fahrenheit%C2%AE%20coaster%2097%2Ddegree%20drop.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFVSKanuQdaczkyU1s5aleQO5fLPzHk5tvmYmNvh4A4wW7mFrXky4SPbEkATtO9s_t-_Msus6kvHPW0MPUFNWuQiycaIAr9GhN3Mrz5cRQ3rj9rvuToUlbM8ZcDMvx0QPP7jQqzX2OBn5B6YT9tkGTGRw7TiD9SPHagMOWTM&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQFnoECDkQAQ&uoh=1",
-    "snippet": "97 degrees and falling fast! Climb the steep, 121-foot lift hill before plummeting down the signature Fahrenheit® coaster 97-degree drop.",
-    "snippet_highlighted_words": [
-     "Fahrenheit"
-    ],
-    "source": "Hershey Park",
-    "title": "Visit Fahrenheit at Pennsylvania's Largest Amusement Park"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Charlotte has plenty of plans tonight: baseball, comedy, concerts, theater, festivals… we'll handle dinner. ✨ Start with Ahi Tuna Nachos and cocktails on the ...",
-      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-      "source_info_link": "https://www.instagram.com/fahrenheitclt/?hl=en"
-     }
-    },
-    "displayed_link": "https://www.instagram.com › fahrenheitclt",
-    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "link": "https://www.instagram.com/fahrenheitclt/?hl=en",
-    "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVBaEPmqAN7Xkr_7LnoUJTHfGG1XIJOvSD3UtrW5WV7eDMfxbJSLwmmSRR-iwTiFzoukYo5YmE1alB48QZtBRqjVt_ERHIdUPp4i4m8SPZpq1SEVelN-8TNmHqbptLRIISkQ&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQFnoECD0QAQ&uoh=1",
-    "snippet": "Charlotte has plenty of plans tonight: baseball, comedy, concerts, theater, festivals… we'll handle dinner. ✨ Start with Ahi Tuna Nachos and cocktails on the ...",
-    "source": "Instagram",
-    "title": "Fahrenheit Charlotte (@fahrenheitclt)"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsQEB6zswFZu9UyH42VdUsf-7coi1KfbB4jcyOOlx1pBPY0LdNQrYJkwr_evTY8csb5LCdsM8oE7p20rv7vdVQSgOnkAgBZk3R9Xk3XNrc_DdjJNbsy_fHHcNq7H4b058EvABHmmerNydkgXAPoIDnMUXr2c9jJCjHPciDq8UWpBBnwwURodmUK37cpAh9xh-xz0vCraqvJBT6MlLkBVEXjTU9-fLDPHcAZO0s06MiSS9gKM&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQFnoECEMQAQ&uoh=1",
+    "snippet": "How many Fahrenheit degrees separate the freezing and boiling point of water?",
+    "source": "Answers",
+    "title": "How many Fahrenheit degrees separate the freezing and ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=What+is+the+boiling+point+of+water+in+Fahrenheit?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnuHGofuKU8QeMxw9Atfm-XurCFc5g:1789905983473&ei=P8yvavC6HIKv5NoP97PaqA4&start=10&sa=N&sstk=AS6-VmKMQO_jlYqedihnvgBlZXWwTF-QtMeV1jeBwUdWCPMYUbBBgkGsl8LSaRq6H9FYRgW9fET-G3axm28VoGX2YGiedLaCnbfu5A&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQ8NMDegQINBAK",
+   "next": "https://www.google.com/search?q=What+is+the+boiling+point+of+water+in+Fahrenheit?&sca_esv=c16286b74a8621df&sxsrf=APpeQnvKR_HQdcqqkGKAm7-EGIksy8loIA:1790544742640&ei=Zou5aq7cJv2YmLQP9eukmAo&start=10&sa=N&sstk=AS6-VmKbHSQ_isCMRmfk92gSnCD3l_L0aVfCsThuGahbDw1Pqs_PC0JlH3nbDBuaZQBKpnTS6L8uIe9Ue6iROeYvHp4TjfgZu3njdA&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQ8NMDegQIQRAI",
    "other_pages": {
-    "2": "https://www.google.com/search?q=What+is+the+boiling+point+of+water+in+Fahrenheit?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnuHGofuKU8QeMxw9Atfm-XurCFc5g:1789905983473&ei=P8yvavC6HIKv5NoP97PaqA4&start=10&sa=N&sstk=AS6-VmKMQO_jlYqedihnvgBlZXWwTF-QtMeV1jeBwUdWCPMYUbBBgkGsl8LSaRq6H9FYRgW9fET-G3axm28VoGX2YGiedLaCnbfu5A&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQ8tMDegQINBAE",
-    "3": "https://www.google.com/search?q=What+is+the+boiling+point+of+water+in+Fahrenheit?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnuHGofuKU8QeMxw9Atfm-XurCFc5g:1789905983473&ei=P8yvavC6HIKv5NoP97PaqA4&start=20&sa=N&sstk=AS6-VmKMQO_jlYqedihnvgBlZXWwTF-QtMeV1jeBwUdWCPMYUbBBgkGsl8LSaRq6H9FYRgW9fET-G3axm28VoGX2YGiedLaCnbfu5A&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQ8tMDegQINBAG",
-    "4": "https://www.google.com/search?q=What+is+the+boiling+point+of+water+in+Fahrenheit?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnuHGofuKU8QeMxw9Atfm-XurCFc5g:1789905983473&ei=P8yvavC6HIKv5NoP97PaqA4&start=30&sa=N&sstk=AS6-VmKMQO_jlYqedihnvgBlZXWwTF-QtMeV1jeBwUdWCPMYUbBBgkGsl8LSaRq6H9FYRgW9fET-G3axm28VoGX2YGiedLaCnbfu5A&ved=2ahUKEwiw1s2yj_2WAxWCF1kFHfeZFuUQ8tMDegQINBAI"
+    "2": "https://www.google.com/search?q=What+is+the+boiling+point+of+water+in+Fahrenheit?&sca_esv=c16286b74a8621df&sxsrf=APpeQnvKR_HQdcqqkGKAm7-EGIksy8loIA:1790544742640&ei=Zou5aq7cJv2YmLQP9eukmAo&start=10&sa=N&sstk=AS6-VmKbHSQ_isCMRmfk92gSnCD3l_L0aVfCsThuGahbDw1Pqs_PC0JlH3nbDBuaZQBKpnTS6L8uIe9Ue6iROeYvHp4TjfgZu3njdA&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQ8tMDegQIQRAE",
+    "3": "https://www.google.com/search?q=What+is+the+boiling+point+of+water+in+Fahrenheit?&sca_esv=c16286b74a8621df&sxsrf=APpeQnvKR_HQdcqqkGKAm7-EGIksy8loIA:1790544742640&ei=Zou5aq7cJv2YmLQP9eukmAo&start=20&sa=N&sstk=AS6-VmKbHSQ_isCMRmfk92gSnCD3l_L0aVfCsThuGahbDw1Pqs_PC0JlH3nbDBuaZQBKpnTS6L8uIe9Ue6iROeYvHp4TjfgZu3njdA&ved=2ahUKEwiup9v62o-XAxV9DIYAHfU1CaMQ8tMDegQIQRAG"
    }
   },
-  "questions_and_answers": [
+  "related_questions": [
    {
-    "answer": "It's reading incorrectly. At 600ft above, it should be boiling at 210.8F or so. Unless you are hitting the pan, which will be hotter, the thermometer needs calibration.",
-    "link": "https://www.reddit.com/r/AskCulinary/comments/13jdzk/can_boiling_water_ever_reach_above_212_degrees/",
-    "question": "Can boiling water ever reach above 212 degrees Fahrenheit?",
-    "source": "Reddit",
-    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 7
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVURktiMUIzUmw5dWVXdEpNelZIUVhGaFZrOTFNRXhRUlhsT05tVmhhalZPWDFZMlVXaFhOMXA0WmtOaFpHVnZSVXc1ZG5obFNERktla3hpVUVRM1pGUnlkbTB5UjFkbVUxbzBjekIzYUhOZmFWTlpRamh6WjNScGR4SVhXbTkxTldGeE4yTktkakpaYlV4UlVEbGxkV3R0UVc4YUlrRkVjM0k1WmxFd05HbDBkME5qVURSU1IzSm5aRGxzWjFrMFkwUkJZVUZxWVhjIiwiZmN2IjoiMyIsImVpIjoiWm91NWFxN2NKdjJZbUxRUDlldWttQW8iLCJxYyI6IkNqQjNhR0YwSUdseklIUm9aU0JpYjJsc2FXNW5JSEJ2YVc1MElHOW1JSGRoZEdWeUlHbHVJR1poYUhKbGJtaGxhWFFRQUgzUWM4SS0iLCJxdWVzdGlvbiI6IkNhbiB3YXRlciBnZXQgaG90dGVyIHRoYW4gMjEyPyIsImxrIjoiYzVPU1RVN01VeWhQTEVrdFVraFBMVkhJeUM4Qk1Vc3lnS0pHaGtZQSIsImJzIjoiYzRXTE1RNkNRQkJGWXp1VmxacE4xQUV2QU9NQk5rYWo0UVRXb3k3c1JvVEVtWVRydXdRS2JhVDctZTg5T01EbXlBMTJyTzZObFZQMHJmWlRmWHdwSjB0YnM3N19NNkNBOU9wWk1VajgzSUJGeDZCUFkyUnBaNUp1eW9JTEpLZldDUXJYaWk5LXVwSGYybEJqeVJLM3BkVGdZMEtDUFN3THdUekw4UHhGUTFOWldwbEZHRkQ1aS1hekR3IiwiaWQiOiJmY19ab3U1YXE3Y0p2MlltTFFQOWV1a21Bb18zIn0=",
+    "page_token": "COtIrnicHZDRbpswGEa1l-llg0HNtEjRJMBughandvht4GYyNgQSgt2WBjd3fZc91Z5m0a4-6dyco-_rz9CP57_frt00uffVYjHP8-PR2uPQPGp7Waj3z1EvtBqGWunzavl9iX62eo0_tnHyuo0ZOCdSHuQJ2uxTsjHnbNmMdq4JP_BbNtUkYznwmT9n21LyeSdpWAU_UnaKLSempBjZBroeCprQdHCm4DIfOexCErERz-pSeUFov5P-RYSuY8E0HjaGFDca1wXx6sYViLiEwGEjq_zus7-kcflZtIeounN6zbH_oCjr62fhq_vm0s7NKJDBXdScACnwlYi0ZycT68CnXNAYd0bVEaCywFEZuHA3DFNOCNtLgVSI4trbngG_6dNwAbSN9oQiABFWMLUS8BPFPNkX5O3e9URDlAB7aPV1HT38_3P9u71MK_dmj_8A4uuBug",
+    "question": "Can water get hotter than 212?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=COtIrnicHZDRbpswGEa1l-llg0HNtEjRJMBughandvht4GYyNgQSgt2WBjd3fZc91Z5m0a4-6dyco-_rz9CP57_frt00uffVYjHP8-PR2uPQPGp7Waj3z1EvtBqGWunzavl9iX62eo0_tnHyuo0ZOCdSHuQJ2uxTsjHnbNmMdq4JP_BbNtUkYznwmT9n21LyeSdpWAU_UnaKLSempBjZBroeCprQdHCm4DIfOexCErERz-pSeUFov5P-RYSuY8E0HjaGFDca1wXx6sYViLiEwGEjq_zus7-kcflZtIeounN6zbH_oCjr62fhq_vm0s7NKJDBXdScACnwlYi0ZycT68CnXNAYd0bVEaCywFEZuHA3DFNOCNtLgVSI4trbngG_6dNwAbSN9oQiABFWMLUS8BPFPNkX5O3e9URDlAB7aPV1HT38_3P9u71MK_dmj_8A4uuBug",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVURktiMUIzUmw5dWVXdEpNelZIUVhGaFZrOTFNRXhRUlhsT05tVmhhalZPWDFZMlVXaFhOMXA0WmtOaFpHVnZSVXc1ZG5obFNERktla3hpVUVRM1pGUnlkbTB5UjFkbVUxbzBjekIzYUhOZmFWTlpRamh6WjNScGR4SVhXbTkxTldGeE4yTktkakpaYlV4UlVEbGxkV3R0UVc4YUlrRkVjM0k1WmxFd05HbDBkME5qVURSU1IzSm5aRGxzWjFrMFkwUkJZVUZxWVhjIiwiZmN2IjoiMyIsImVpIjoiWm91NWFxN2NKdjJZbUxRUDlldWttQW8iLCJxYyI6IkNqQjNhR0YwSUdseklIUm9aU0JpYjJsc2FXNW5JSEJ2YVc1MElHOW1JSGRoZEdWeUlHbHVJR1poYUhKbGJtaGxhWFFRQUgzUWM4SS0iLCJxdWVzdGlvbiI6IkNhbiB3YXRlciBnZXQgaG90dGVyIHRoYW4gMjEyPyIsImxrIjoiYzVPU1RVN01VeWhQTEVrdFVraFBMVkhJeUM4Qk1Vc3lnS0pHaGtZQSIsImJzIjoiYzRXTE1RNkNRQkJGWXp1VmxacE4xQUV2QU9NQk5rYWo0UVRXb3k3c1JvVEVtWVRydXdRS2JhVDctZTg5T01EbXlBMTJyTzZObFZQMHJmWlRmWHdwSjB0YnM3N19NNkNBOU9wWk1VajgzSUJGeDZCUFkyUnBaNUp1eW9JTEpLZldDUXJYaWk5LXVwSGYybEJqeVJLM3BkVGdZMEtDUFN3THdUekw4UHhGUTFOWldwbEZHRkQ1aS1hekR3IiwiaWQiOiJmY19ab3U1YXE3Y0p2MlltTFFQOWV1a21Bb18zIn0%3D",
+    "type": "ai_overview"
    },
    {
-    "answer": "Depends on what altitude you are at. 212f at sea level, the higher the altitude the lower the boiling point.",
-    "link": "https://www.facebook.com/WCBDNews2/posts/what-is-the-boiling-point-of-water-in-fahrenheit/1042820211213368/",
-    "question": "What is the boiling point of water in Fahrenheit?",
-    "source": "Facebook",
-    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 4
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVURktiMUIzUmw5dWVXdEpNelZIUVhGaFZrOTFNRXhRUlhsT05tVmhhalZPWDFZMlVXaFhOMXA0WmtOaFpHVnZSVXc1ZG5obFNERktla3hpVUVRM1pGUnlkbTB5UjFkbVUxbzBjekIzYUhOZmFWTlpRamh6WjNScGR4SVhXbTkxTldGeE4yTktkakpaYlV4UlVEbGxkV3R0UVc4YUlrRkVjM0k1WmxFd05HbDBkME5qVURSU1IzSm5aRGxzWjFrMFkwUkJZVUZxWVhjIiwiZmN2IjoiMyIsImVpIjoiWm91NWFxN2NKdjJZbUxRUDlldWttQW8iLCJxYyI6IkNqQjNhR0YwSUdseklIUm9aU0JpYjJsc2FXNW5JSEJ2YVc1MElHOW1JSGRoZEdWeUlHbHVJR1poYUhKbGJtaGxhWFFRQUgzUWM4SS0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhvdHRlc3Qgd2F0ZXIgY2FuIGdldD8iLCJsayI6IkdpRjNhR0YwSUdseklIUm9aU0JvYjNSMFpYTjBJSGRoZEdWeUlHTmhiaUJuWlhRIiwiYnMiOiJjNFdMTVE2Q1FCQkZZenVWbFpwTjFBRXZBT01CTmthajRRVFdveTdzUm9URW1ZVHJ1d1FLYmFUNy1lODlPTURteUExMnJPNk5sVlAwcmZaVGZYd3BKMHRiczc3X002Q0E5T3BaTVVqODNJQkZ4NkJQWTJScFo1SnV5b0lMSktmV0NRclhpaTktdXBIZjJsQmp5UkszcGRUZ1kwS0NQU3dMd1R6TDhQeEZRMU5aV3BsRkdGRDVpLWF6RHciLCJpZCI6ImZjX1pvdTVhcTdjSnYyWW1MUVA5ZXVrbUFvXzMifQ==",
+    "page_token": "oW7QFnicHdDbToMwGADg-DK7dHQVjUsWE-Swoe1s6V-kN6YUdoBycOLGdue7-FQ-jcY3-PJ9fdt9W_9cHXfD0H_Mp9PT6XS97bqtLa9N10z1x7k1U6OtzbWp57d3t-hhYxbB58p7fF95DPpe-txJatSXVq3zVKUAvMkcN9SAWtVSpCsOzGFjgbwRkFclEMxkEAshapxV3nsGBaJYxknknkHGIIRyiXO_1qhIS6AvZTQyJW2bRm5D6_4p8Qsoa9fJkBzI0vpkqcbcmlFhvuN-rGkd3yRLFcAZuQKHB1aHLmncDYHi5c9pn0EKVfG9SUdLItnKSzw8CypIIFMBFOWth4NdoXMMKHsNcOb0M2LtIMKQrVOJ9Ax5-djtGfCLqWwDVfwJUmavyJ6IsGnpx4dccEoieuTYtsVsUIxNNua4wJP_z8Xbphnm_aHb_gKYcIF_",
+    "question": "What is the hottest water can get?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oW7QFnicHdDbToMwGADg-DK7dHQVjUsWE-Swoe1s6V-kN6YUdoBycOLGdue7-FQ-jcY3-PJ9fdt9W_9cHXfD0H_Mp9PT6XS97bqtLa9N10z1x7k1U6OtzbWp57d3t-hhYxbB58p7fF95DPpe-txJatSXVq3zVKUAvMkcN9SAWtVSpCsOzGFjgbwRkFclEMxkEAshapxV3nsGBaJYxknknkHGIIRyiXO_1qhIS6AvZTQyJW2bRm5D6_4p8Qsoa9fJkBzI0vpkqcbcmlFhvuN-rGkd3yRLFcAZuQKHB1aHLmncDYHi5c9pn0EKVfG9SUdLItnKSzw8CypIIFMBFOWth4NdoXMMKHsNcOb0M2LtIMKQrVOJ9Ax5-djtGfCLqWwDVfwJUmavyJ6IsGnpx4dccEoieuTYtsVsUIxNNua4wJP_z8Xbphnm_aHb_gKYcIF_",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVURktiMUIzUmw5dWVXdEpNelZIUVhGaFZrOTFNRXhRUlhsT05tVmhhalZPWDFZMlVXaFhOMXA0WmtOaFpHVnZSVXc1ZG5obFNERktla3hpVUVRM1pGUnlkbTB5UjFkbVUxbzBjekIzYUhOZmFWTlpRamh6WjNScGR4SVhXbTkxTldGeE4yTktkakpaYlV4UlVEbGxkV3R0UVc4YUlrRkVjM0k1WmxFd05HbDBkME5qVURSU1IzSm5aRGxzWjFrMFkwUkJZVUZxWVhjIiwiZmN2IjoiMyIsImVpIjoiWm91NWFxN2NKdjJZbUxRUDlldWttQW8iLCJxYyI6IkNqQjNhR0YwSUdseklIUm9aU0JpYjJsc2FXNW5JSEJ2YVc1MElHOW1JSGRoZEdWeUlHbHVJR1poYUhKbGJtaGxhWFFRQUgzUWM4SS0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhvdHRlc3Qgd2F0ZXIgY2FuIGdldD8iLCJsayI6IkdpRjNhR0YwSUdseklIUm9aU0JvYjNSMFpYTjBJSGRoZEdWeUlHTmhiaUJuWlhRIiwiYnMiOiJjNFdMTVE2Q1FCQkZZenVWbFpwTjFBRXZBT01CTmthajRRVFdveTdzUm9URW1ZVHJ1d1FLYmFUNy1lODlPTURteUExMnJPNk5sVlAwcmZaVGZYd3BKMHRiczc3X002Q0E5T3BaTVVqODNJQkZ4NkJQWTJScFo1SnV5b0lMSktmV0NRclhpaTktdXBIZjJsQmp5UkszcGRUZ1kwS0NQU3dMd1R6TDhQeEZRMU5aV3BsRkdGRDVpLWF6RHciLCJpZCI6ImZjX1pvdTVhcTdjSnYyWW1MUVA5ZXVrbUFvXzMifQ%3D%3D",
+    "type": "ai_overview"
    },
    {
-    "answer": "At sea level plain water boils at 212 F. Superheated water can go above 212 F without boiling, but this is an unusual case. Water in a pressurised container, such as a pressure cooker, can also go above 212 F without boiling.",
-    "link": "https://www.reddit.com/r/AskCulinary/comments/adg48x/if_i_boil_water_in_a_pot_does_the_water_ever_go/",
-    "question": "So just wondering, as I know the stove top goes much higher, but the double pot method would mean that the temperature of the water in the pot could not go above boiling right? Otherwise, the double pot method wouldn't work at higher stove temperatures. Should note this is for in a home, at sea level, in a normal pot with normal filtered water.",
-    "source": "Reddit",
-    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 6
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVURktiMUIzUmw5dWVXdEpNelZIUVhGaFZrOTFNRXhRUlhsT05tVmhhalZPWDFZMlVXaFhOMXA0WmtOaFpHVnZSVXc1ZG5obFNERktla3hpVUVRM1pGUnlkbTB5UjFkbVUxbzBjekIzYUhOZmFWTlpRamh6WjNScGR4SVhXbTkxTldGeE4yTktkakpaYlV4UlVEbGxkV3R0UVc4YUlrRkVjM0k1WmxFd05HbDBkME5qVURSU1IzSm5aRGxzWjFrMFkwUkJZVUZxWVhjIiwiZmN2IjoiMyIsImVpIjoiWm91NWFxN2NKdjJZbUxRUDlldWttQW8iLCJxYyI6IkNqQjNhR0YwSUdseklIUm9aU0JpYjJsc2FXNW5JSEJ2YVc1MElHOW1JSGRoZEdWeUlHbHVJR1poYUhKbGJtaGxhWFFRQUgzUWM4SS0iLCJxdWVzdGlvbiI6IkRvZXMgc2FsdCBtYWtlIHdhdGVyIGJvaWwgZmFzdGVyPyIsImxrIjoiR2lCa2IyVnpJSE5oYkhRZ2JXRnJaU0IzWVhSbGNpQmliMmxzSUdaaGMzUmxjZyIsImJzIjoiYzRXTE1RNkNRQkJGWXp1VmxacE4xQUV2QU9NQk5rYWo0UVRXb3k3c1JvVEVtWVRydXdRS2JhVDctZTg5T01EbXlBMTJyTzZObFZQMHJmWlRmWHdwSjB0YnM3N19NNkNBOU9wWk1VajgzSUJGeDZCUFkyUnBaNUp1eW9JTEpLZldDUXJYaWk5LXVwSGYybEJqeVJLM3BkVGdZMEtDUFN3THdUekw4UHhGUTFOWldwbEZHRkQ1aS1hekR3IiwiaWQiOiJmY19ab3U1YXE3Y0p2MlltTFFQOWV1a21Bb18zIn0=",
+    "page_token": "yh98gnicHdBdboIwAADg7DI-aluiiyZmSbWwkcFi6Q_wspSioi0_006Et91lp9pptuwGX76vb3tqzM_DrXKuu65ms77vp8e2Pdr9VLf1TF2HRs-0srZQ2qwWjwv4dNBr8vmCNx8veMe7TmwpSKx4VWi50SZHnMUXLeeQGvssyVyK0bjCAEdrPURoPiSmil6la2NCdymIL1SWmyRYLoRPn6nQgAWd2xu3TVgZyLp62wsME686FdtozBgmqu491fhDFPgnNuKe2c4lIw55iolg-C7MPKAilInIIB8J0HUYKaBRimCtg_xKufNFEJL8TxiZO6biCHPmHwoe3WXQgiztPFKVqvA4zFLiZaBDkbWO-f7uTQqoEMTFvT3tOB312da84SBvqCu3uaCNH2ZAD4Womj3LkZRLFZ9jVPaTg76tvcn_5_r9ULtVd2mPv-AWgsE",
+    "question": "Does salt make water boil faster?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yh98gnicHdBdboIwAADg7DI-aluiiyZmSbWwkcFi6Q_wspSioi0_006Et91lp9pptuwGX76vb3tqzM_DrXKuu65ms77vp8e2Pdr9VLf1TF2HRs-0srZQ2qwWjwv4dNBr8vmCNx8veMe7TmwpSKx4VWi50SZHnMUXLeeQGvssyVyK0bjCAEdrPURoPiSmil6la2NCdymIL1SWmyRYLoRPn6nQgAWd2xu3TVgZyLp62wsME686FdtozBgmqu491fhDFPgnNuKe2c4lIw55iolg-C7MPKAilInIIB8J0HUYKaBRimCtg_xKufNFEJL8TxiZO6biCHPmHwoe3WXQgiztPFKVqvA4zFLiZaBDkbWO-f7uTQqoEMTFvT3tOB312da84SBvqCu3uaCNH2ZAD4Womj3LkZRLFZ9jVPaTg76tvcn_5_r9ULtVd2mPv-AWgsE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVURktiMUIzUmw5dWVXdEpNelZIUVhGaFZrOTFNRXhRUlhsT05tVmhhalZPWDFZMlVXaFhOMXA0WmtOaFpHVnZSVXc1ZG5obFNERktla3hpVUVRM1pGUnlkbTB5UjFkbVUxbzBjekIzYUhOZmFWTlpRamh6WjNScGR4SVhXbTkxTldGeE4yTktkakpaYlV4UlVEbGxkV3R0UVc4YUlrRkVjM0k1WmxFd05HbDBkME5qVURSU1IzSm5aRGxzWjFrMFkwUkJZVUZxWVhjIiwiZmN2IjoiMyIsImVpIjoiWm91NWFxN2NKdjJZbUxRUDlldWttQW8iLCJxYyI6IkNqQjNhR0YwSUdseklIUm9aU0JpYjJsc2FXNW5JSEJ2YVc1MElHOW1JSGRoZEdWeUlHbHVJR1poYUhKbGJtaGxhWFFRQUgzUWM4SS0iLCJxdWVzdGlvbiI6IkRvZXMgc2FsdCBtYWtlIHdhdGVyIGJvaWwgZmFzdGVyPyIsImxrIjoiR2lCa2IyVnpJSE5oYkhRZ2JXRnJaU0IzWVhSbGNpQmliMmxzSUdaaGMzUmxjZyIsImJzIjoiYzRXTE1RNkNRQkJGWXp1VmxacE4xQUV2QU9NQk5rYWo0UVRXb3k3c1JvVEVtWVRydXdRS2JhVDctZTg5T01EbXlBMTJyTzZObFZQMHJmWlRmWHdwSjB0YnM3N19NNkNBOU9wWk1VajgzSUJGeDZCUFkyUnBaNUp1eW9JTEpLZldDUXJYaWk5LXVwSGYybEJqeVJLM3BkVGdZMEtDUFN3THdUekw4UHhGUTFOWldwbEZHRkQ1aS1hekR3IiwiaWQiOiJmY19ab3U1YXE3Y0p2MlltTFFQOWV1a21Bb18zIn0%3D",
+    "type": "ai_overview"
    },
    {
-    "answer": "Water boils at 212°F at standard atmospheric pressure (1 atm or 760 mmHg), which is the boiling point for pure water at sea level. Notes: • Boiling point varies with pressure: at higher altitude (lower pressure) the boiling point is lower; under pressure (e.g., a pressure cooker) it is higher. • Conversion: 212°F corresponds to 100°C and 373.15 K.",
-    "link": "https://www.quora.com/What-is-the-boiling-point-of-water-in-Fahrenheit",
-    "question": "What is the boiling point of water in Fahrenheit?",
-    "source": "Quora",
-    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 0
-   },
-   {
-    "answer": "\"The correct answer is 212°F. The boiling point of a liquid is the temperature at which the vapour pressure of a liquid equals the standard sea-level atmospheric pressure. At sea level, the boiling point of water is 100°C that is equal to 212°F. Celsius to Fahrenheit formula is F= 95 x C + 32 = (95) x 100 + 32 = 180+32 = 212ºF. Measurement °Fahrenheit °Celsius The boiling point of water 212° 100° The freezing point of water 32° 0° Human Body Temperature ~98° (Approx.) ~37°\"",
-    "link": "https://testbook.com/question-answer/what-is-boiling-point-of-water-in-fahrenheit--5e58bee3f60d5d6249450eaf",
-    "question": "\"What is boiling point of water in Fahrenheit?\"",
-    "source": "Testbook",
-    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://testbook.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 2307
-   },
-   {
-    "answer": "The boiling point for water is 100 o C and 212 o F under atmospheric pressure. The formulas used to convert back and forth between Fahrenheit and Celsius are: oF=oC×95+32 oC=(oF−32)×59",
-    "link": "https://homework.study.com/explanation/what-is-the-boiling-temperature-of-water-in-both-fahrenheit-and-celsius.html",
-    "question": "What is the boiling temperature of water in both Fahrenheit and Celsius?",
-    "source": "Homework.Study.com",
-    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://homework.study.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 0
-   },
-   {
-    "answer": "The melting point of water at normal atmospheric pressure is 0°C (32°F) and the boiling point is 100°C (212°F).",
-    "link": "https://www.vaia.com/en-us/textbooks/chemistry/introductory-chemistry-atoms-first-5-edition/chapter-1/problem-50-what-are-the-melting-point-and-boiling-point-of-w/",
-    "question": "What are the melting point and boiling point of water in degrees Celsius and degrees Fahrenheit (at normal atmospheric pressure)?",
-    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.vaia.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 0
-   },
-   {
-    "answer": "Hint: The boiling point of water is ${{100}^{\\circ }}C$ in Celsius scale. After converting into Fahrenheit, it comes out to be ${{212}^{\\circ }}F$. Complete step-by-step answer: Boiling point is that particular at which the more heat is added the more liquid starts converting into heat without any increase in temperature. At that temperature external pressure becomes equal to vapor pressure of liquid. That particular temperature is known as boiling point. With the change in applied pressure boiling point of liquid varies. Three types of scale are used to measure the temperature. The name of those scales is:- Fahrenheit scale- Celsius scale- Kelvin scale (standard unit to measure temperature)All three are interconvertible to each other using simple formulas.The temperature in Fahrenheit is measured by Fahrenheit scale formed by Daniel Gabriel Fahrenheit. This scale is the first standardized scale to be used worldwide. In the United States it is the official temperature scale.As per Cel…",
-    "link": "https://www.vedantu.com/question-answer/boiling-point-of-water-on-the-fahrenheit-class-11-chemistry-cbse-5f3ca4320255e9229e07875d",
-    "question": "What is the boiling point of water on the Fahrenheit scale?",
-    "source": "Vedantu",
-    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vedantu.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 0
-   },
-   {
-    "answer": "\"The correct answer is 212 Important Points 212°F is the boiling point of water on the Fahrenheit scale. The Fahrenheit scale is a temperature scale which is named after the famous physicist Daniel Gabriel Fahrenheit in 1724. On the Fahrenheit scale, the temperature at which pure water freezes into ice is 32 °F. The Celsius and Fahrenheit scale intersect at the temperature of −40°. Additional Information On the Celcius scale, 100°C is considered as the boiling point of water and 0°C is considered as the freezing point of water. The degree Celcius is the unit of temperature in the Celcius scale, it was named after Swedish physicist Anders Celsius.\"",
-    "link": "https://testbook.com/question-answer/the-boiling-point-of-water-on-fahrenheit-scale-is--5f8b0c2d182dafba5d2677fd",
-    "question": "\"The boiling point of water on Fahrenheit scale is ______&nbs\"",
-    "source": "Testbook",
-    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://testbook.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 2307
-   },
-   {
-    "answer": "The freezing point of water is 0°C, 32°F or 273.15 Kelvin. The boiling point of water is 100°C, 212°F or 373.15 Kelvin. Therefore the difference is 100°C, 180°F or 100 Kelvin.",
-    "link": "https://math.answers.com/natural-sciences/How_many_Fahrenheit_degrees_separate_the_freezing_and_boiling_point_of_water",
-    "question": "How many Fahrenheit degrees separate the freezing and boiling point of water?",
-    "source": "Answers",
-    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://math.answers.com&client=EDUCATION&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "votes": 0
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVURktiMUIzUmw5dWVXdEpNelZIUVhGaFZrOTFNRXhRUlhsT05tVmhhalZPWDFZMlVXaFhOMXA0WmtOaFpHVnZSVXc1ZG5obFNERktla3hpVUVRM1pGUnlkbTB5UjFkbVUxbzBjekIzYUhOZmFWTlpRamh6WjNScGR4SVhXbTkxTldGeE4yTktkakpaYlV4UlVEbGxkV3R0UVc4YUlrRkVjM0k1WmxFd05HbDBkME5qVURSU1IzSm5aRGxzWjFrMFkwUkJZVUZxWVhjIiwiZmN2IjoiMyIsImVpIjoiWm91NWFxN2NKdjJZbUxRUDlldWttQW8iLCJxYyI6IkNqQjNhR0YwSUdseklIUm9aU0JpYjJsc2FXNW5JSEJ2YVc1MElHOW1JSGRoZEdWeUlHbHVJR1poYUhKbGJtaGxhWFFRQUgzUWM4SS0iLCJxdWVzdGlvbiI6IklzIDEwMCBGIHdhdGVyIGJvaWxpbmc/IiwibGsiOiJHaFpwY3lBeE1EQWdaaUIzWVhSbGNpQmliMmxzYVc1biIsImJzIjoiYzRXTE1RNkNRQkJGWXp1VmxacE4xQUV2QU9NQk5rYWo0UVRXb3k3c1JvVEVtWVRydXdRS2JhVDctZTg5T01EbXlBMTJyTzZObFZQMHJmWlRmWHdwSjB0YnM3N19NNkNBOU9wWk1VajgzSUJGeDZCUFkyUnBaNUp1eW9JTEpLZldDUXJYaWk5LXVwSGYybEJqeVJLM3BkVGdZMEtDUFN3THdUekw4UHhGUTFOWldwbEZHRkQ1aS1hekR3IiwiaWQiOiJmY19ab3U1YXE3Y0p2MlltTFFQOWV1a21Bb18zIn0=",
+    "page_token": "G7bVOHicHdDdTuowAADg-DJeSn-QcyAhxukqI9mk3dqN3pz0B5hrt1U2AbnzXXwqn8bkfI_wfX37t8793JzqcQzDYjI5n893h74_-N2d6duJGj47MzHKe62MW8z-zODD3izjjyR6ek8iykMQzwzk-PFCgXjJOoJpsQ7bbn1Ou4goJ3oL5leJhLJYbDlx06yqQd6SOkU-ET692C67t4CR0s0bhf7eC1QX4sUnaSObtE0Q7_y7foIsxxSZThY6XtesekQKRh1tkk9d1DFfGcScnPFGbhgWkMPoVGE-zb0d7EpW1NdekzpoMHoFhCjAmNCSXuWzPO6cTF6J3ZjGDmk8TIUIUVxbpTGH2yrGWxBQ6v1YEEJfSwEVgpG-9G-Us6tpfMvLKdYuiwXKeoN9MCt71O28yEu42TmWMBgVnN7uzWmJb_9_Lv_t23ERjv3hF8b6gWI",
+    "question": "Is 100 F water boiling?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=G7bVOHicHdDdTuowAADg-DJeSn-QcyAhxukqI9mk3dqN3pz0B5hrt1U2AbnzXXwqn8bkfI_wfX37t8793JzqcQzDYjI5n893h74_-N2d6duJGj47MzHKe62MW8z-zODD3izjjyR6ek8iykMQzwzk-PFCgXjJOoJpsQ7bbn1Ou4goJ3oL5leJhLJYbDlx06yqQd6SOkU-ET692C67t4CR0s0bhf7eC1QX4sUnaSObtE0Q7_y7foIsxxSZThY6XtesekQKRh1tkk9d1DFfGcScnPFGbhgWkMPoVGE-zb0d7EpW1NdekzpoMHoFhCjAmNCSXuWzPO6cTF6J3ZjGDmk8TIUIUVxbpTGH2yrGWxBQ6v1YEEJfSwEVgpG-9G-Us6tpfMvLKdYuiwXKeoN9MCt71O28yEu42TmWMBgVnN7uzWmJb_9_Lv_t23ERjv3hF8b6gWI",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVURktiMUIzUmw5dWVXdEpNelZIUVhGaFZrOTFNRXhRUlhsT05tVmhhalZPWDFZMlVXaFhOMXA0WmtOaFpHVnZSVXc1ZG5obFNERktla3hpVUVRM1pGUnlkbTB5UjFkbVUxbzBjekIzYUhOZmFWTlpRamh6WjNScGR4SVhXbTkxTldGeE4yTktkakpaYlV4UlVEbGxkV3R0UVc4YUlrRkVjM0k1WmxFd05HbDBkME5qVURSU1IzSm5aRGxzWjFrMFkwUkJZVUZxWVhjIiwiZmN2IjoiMyIsImVpIjoiWm91NWFxN2NKdjJZbUxRUDlldWttQW8iLCJxYyI6IkNqQjNhR0YwSUdseklIUm9aU0JpYjJsc2FXNW5JSEJ2YVc1MElHOW1JSGRoZEdWeUlHbHVJR1poYUhKbGJtaGxhWFFRQUgzUWM4SS0iLCJxdWVzdGlvbiI6IklzIDEwMCBGIHdhdGVyIGJvaWxpbmc%2FIiwibGsiOiJHaFpwY3lBeE1EQWdaaUIzWVhSbGNpQmliMmxzYVc1biIsImJzIjoiYzRXTE1RNkNRQkJGWXp1VmxacE4xQUV2QU9NQk5rYWo0UVRXb3k3c1JvVEVtWVRydXdRS2JhVDctZTg5T01EbXlBMTJyTzZObFZQMHJmWlRmWHdwSjB0YnM3N19NNkNBOU9wWk1VajgzSUJGeDZCUFkyUnBaNUp1eW9JTEpLZldDUXJYaWk5LXVwSGYybEJqeVJLM3BkVGdZMEtDUFN3THdUekw4UHhGUTFOWldwbEZHRkQ1aS1hekR3IiwiaWQiOiJmY19ab3U1YXE3Y0p2MlltTFFQOWV1a21Bb18zIn0%3D",
+    "type": "ai_overview"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "What is the boiling point of water in Fahrenheit?",
-   "time_taken_displayed": 0.33,
-   "total_results": 36
+   "time_taken_displayed": 0.22,
+   "total_results": 68500
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:06:23 UTC",
+   "created_at": "2026-09-27 21:32:22 UTC",
    "google_url": "https://www.google.com/search?q=What+is+the+boiling+point+of+water+in+Fahrenheit%3F&oq=What+is+the+boiling+point+of+water+in+Fahrenheit%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcc3fd6eb72b493cdd9a1",
-   "json_endpoint": "https://serpapi.com/searches/ayGPsEzJ5yZh9YLvw-AqNwZyhoIw-KGBi8tizYO__m0/6aafcc3fd6eb72b493cdd9a1.json",
-   "markdown_endpoint": "https://serpapi.com/searches/ayGPsEzJ5yZh9YLvw-AqNwZyhoIw-KGBi8tizYO__m0/6aafcc3fd6eb72b493cdd9a1.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/ayGPsEzJ5yZh9YLvw-AqNwZyhoIw-KGBi8tizYO__m0/6aafcc3fd6eb72b493cdd9a1.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:06:23 UTC",
-   "raw_html_file": "https://serpapi.com/searches/ayGPsEzJ5yZh9YLvw-AqNwZyhoIw-KGBi8tizYO__m0/6aafcc3fd6eb72b493cdd9a1.html",
+   "id": "6ab98b66abe7ec74151dc1f2",
+   "json_endpoint": "https://serpapi.com/searches/y_fa2tNIE2Xrv6k0-VTeRNzXwvDg-JBo0vNm_VId2tY/6ab98b66abe7ec74151dc1f2.json",
+   "markdown_endpoint": "https://serpapi.com/searches/y_fa2tNIE2Xrv6k0-VTeRNzXwvDg-JBo0vNm_VId2tY/6ab98b66abe7ec74151dc1f2.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/y_fa2tNIE2Xrv6k0-VTeRNzXwvDg-JBo0vNm_VId2tY/6ab98b66abe7ec74151dc1f2.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:32:22 UTC",
+   "raw_html_file": "https://serpapi.com/searches/y_fa2tNIE2Xrv6k0-VTeRNzXwvDg-JBo0vNm_VId2tY/6ab98b66abe7ec74151dc1f2.html",
    "status": "Success",
-   "total_time_taken": 0.47
+   "total_time_taken": 0.61
   },
   "search_parameters": {
    "device": "desktop",
@@ -368,8 +480,7 @@
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+boiling+point+of+water+in+Fahrenheit%3F&start=10",
    "other_pages": {
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+boiling+point+of+water+in+Fahrenheit%3F&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+boiling+point+of+water+in+Fahrenheit%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+boiling+point+of+water+in+Fahrenheit%3F&start=30"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+boiling+point+of+water+in+Fahrenheit%3F&start=20"
    }
   }
  },

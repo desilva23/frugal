@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 962.331,
+ "elapsed_ms": 1148.737,
  "engine": "google",
- "fetched_at": "2026-09-20T11:58:34.948438+00:00",
+ "fetched_at": "2026-09-27T21:31:06.239816+00:00",
  "frugal_cache_version": 1,
  "key": "d67ff67eaeb501fe20e0c9748b1da88ddffd77042bc1be88f8e7cb74f54d9caf",
  "params": {
@@ -10,382 +10,418 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "JM0jpXiczVXbcqpIFP2A-Y7xxRxB1CipolJN0yjxijEx5oVC7hFsAiLRt6n5lfmq-ZppEBUMJnPOw9TsqrbpZrvvi_XHX66zXv3925_2ZuOHdxQVx3HNwthyjZqGPUoNd2uNMrEbBpp9v9tyjYoWcnTFcDg1fN-q_nssqDO5NcKTeOyZMVhU0r9wylINjTdi8eMtpBSK_Kx-bwjkUAtrxroWmeGrwNb12aBTY-g6WxtTqkcUwH8nSLb4ZH8A8LoSeYW-N5UYkACPcpYkYKU7f9ZaHF5DOX0FravW-IPPaaoukyUo-14skNusPsLV_xIXfOEYp7EAEKdR8sD5PpucyFkux7y-qNRJuyhZ9fD5Jt_jQqwFseLCUSRRKADCs5O8M2LGLoRxqpRmgU4P8wIPnq7HTerTl0BrBWRUlkJeZPTcPHVusOiSG0q3yODS1DIgW51yNFtLH4IwmWc4Y2kszuw2-yRsxrpL49WHKi4XzLTTeTVHQ0BpS6LnYlU3dMVW6Pv0XGfqLZpttDs3KZC08ISkMI-kCYiWjwO76exBbVDj60cYwUPTwaeOIXKGUkliPMxUS1rMn2-ThqGDmizm7Wat5AHEAE1BsbX9SVLX7vFIZnRPWpPXOHtNhv8zjA5i5ZQJjNJAJJwp5jUOWt0cdHONlUDZZ-Yyb7l3fhQ-KRYACEm-K3Cc9cWl5QWQoYUSDEDU47OqaUUbMF-ALGAEyBcqO6FTgChTysWUlECSwRBIiNh0niTHSozL6BBoMgyZLxFdIO7KwC-Imzn8N5--EuG_A1Ei8hEvF-Ofhw0a9SYD332ciaE0iQxvOBc2-5fRTHObcTlMsLf8CcbR_ldAOvARyvjoOpDQ90BK-Yj_go_S5zMfJcML8VUg8d1yPhqW8lExbwimeSB9zUc_DST4JZAOc1gKJFwOJP8qkKz4EkhFPkLlfHQC0q_wEf-LfJTiyjhsRXKK3qyrJNWFYPzAiNLHjMWKKf5wu2Y_dAeblhTI35KU6W3uPFV3bxRHv-OZh81Ov1HIBb4z9Mo7N7eNwKiqZDHNqo2joOrbauCpmmOEVWddhbaxXqvOfcVzA8zRasuNGkab8cP5qA-ZsTZxO89rP2ov_edoM79tuN3t2EWjVStuNHvCfl5_2M5dOInmzK02HO7A7UQVWHPyMttDdhgtRZ_3H93d_nXpG3u2zgz6rNnCK3UYiJ3YftnN5nu0Nz-2AAx3KyFGba2xZlqW8jidjIe2OBp3xDSykEM_XF98f9lE7lPFCzSODEDTAiMZzC0yiTCdULIwWTFZt6RBfCXUVMUItxzbYDSj0W6bS7qj6axe8azNzudYuhKuA67-D9rrQCk",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JM0jpXiczVXbcqpIFP2A-Y7xxRxB1CipolJN0yjxijEx5oVC7hFsAiLRt6n5lfmq-ZppEBUMJnPOw9TsqrbpZrvvi_XHX66zXv3925_2ZuOHdxQVx3HNwthyjZqGPUoNd2uNMrEbBpp9v9tyjYoWcnTFcDg1fN-q_nssqDO5NcKTeOyZMVhU0r9wylINjTdi8eMtpBSK_Kx-bwjkUAtrxroWmeGrwNb12aBTY-g6WxtTqkcUwH8nSLb4ZH8A8LoSeYW-N5UYkACPcpYkYKU7f9ZaHF5DOX0FravW-IPPaaoukyUo-14skNusPsLV_xIXfOEYp7EAEKdR8sD5PpucyFkux7y-qNRJuyhZ9fD5Jt_jQqwFseLCUSRRKADCs5O8M2LGLoRxqpRmgU4P8wIPnq7HTerTl0BrBWRUlkJeZPTcPHVusOiSG0q3yODS1DIgW51yNFtLH4IwmWc4Y2kszuw2-yRsxrpL49WHKi4XzLTTeTVHQ0BpS6LnYlU3dMVW6Pv0XGfqLZpttDs3KZC08ISkMI-kCYiWjwO76exBbVDj60cYwUPTwaeOIXKGUkliPMxUS1rMn2-ThqGDmizm7Wat5AHEAE1BsbX9SVLX7vFIZnRPWpPXOHtNhv8zjA5i5ZQJjNJAJJwp5jUOWt0cdHONlUDZZ-Yyb7l3fhQ-KRYACEm-K3Cc9cWl5QWQoYUSDEDU47OqaUUbMF-ALGAEyBcqO6FTgChTysWUlECSwRBIiNh0niTHSozL6BBoMgyZLxFdIO7KwC-Imzn8N5--EuG_A1Ei8hEvF-Ofhw0a9SYD332ciaE0iQxvOBc2-5fRTHObcTlMsLf8CcbR_ldAOvARyvjoOpDQ90BK-Yj_go_S5zMfJcML8VUg8d1yPhqW8lExbwimeSB9zUc_DST4JZAOc1gKJFwOJP8qkKz4EkhFPkLlfHQC0q_wEf-LfJTiyjhsRXKK3qyrJNWFYPzAiNLHjMWKKf5wu2Y_dAeblhTI35KU6W3uPFV3bxRHv-OZh81Ov1HIBb4z9Mo7N7eNwKiqZDHNqo2joOrbauCpmmOEVWddhbaxXqvOfcVzA8zRasuNGkab8cP5qA-ZsTZxO89rP2ov_edoM79tuN3t2EWjVStuNHvCfl5_2M5dOInmzK02HO7A7UQVWHPyMttDdhgtRZ_3H93d_nXpG3u2zgz6rNnCK3UYiJ3YftnN5nu0Nz-2AAx3KyFGba2xZlqW8jidjIe2OBp3xDSykEM_XF98f9lE7lPFCzSODEDTAiMZzC0yiTCdULIwWTFZt6RBfCXUVMUItxzbYDSj0W6bS7qj6axe8azNzudYuhKuA67-D9rrQCk"
-  },
-  "dmca_messages": {
-   "messages": [
-    {
-     "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 9 already displayed.If you like, you can repeat the search with the omitted results included.",
-     "highlighted_words": [
-      {
-       "link": "https://www.google.com/search?q=Where+are+24+hour+pharmacies+in+Chennai%3F&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsVC4yUua3PwBO5HgecSRo_CSMTOA:1789905514226&filter=0",
-       "text": "repeat the search with the omitted results included"
-      }
-     ]
-    }
-   ],
-   "title": "Notices about Filtered Results"
+   "page_token": "3Qa6qniczVXdkqI4FH6AfY71xlbA9rerqK4koo3aKjh2qzcUBAQERAFF525u9zn2qeZpJiA6YIs9MxdbeyyISU6-fDknH-fbv7a5tr7_9Y8RBBv_iaLCMCzrrqvbWhm7DiX7xzWmlq7te9h4Pu7ZxwL2WbqgmWx3vqvJ_jvujuXpATfH_nbpbMG0EC9hJUX2tRVBPKx8SqLIy_r7sU06Zb8se-Xgq9gawc1RL-FyhWZa5RElO8QB_IcmcIAHkLSnJs8QANznYJGLAFCEdTYd_Zw6WfuEF-2pxwP93C35aBUkP57AEhs3582QJkPu2amXywXy6c48YRPGuBDGRH_ZLlDJvncClRcmLgNAmGQc82N7dRlIrMQS4LgI4CMVHnDpUwMRgNPB2xZ40ZuAxzzS73CPFuAj7CFwwc-zLTDG5xCGwzlxp1Sd3F2aUjzSMJSJDRz_8fzoSqMvLdrt7vm3FwG97SxU1fBgseJt_bDtHTx0CCmsED_blVVNlQyJfo77TIWp0a3HRvMh1hL2L2Ly02Kyp2D_YlY3w9ewLJYhc1YSuuQOZelzpI948NEgSlzRjUk9JYPUYhOlozVNWnK742zwYQqA48dR2z0PjAAkGcbpLJ43iCBvKSnjlCgpzipxNfULsRQjFBG5AGXuPQzBR8umvgfa8LyIh6e5MMH9IAUIelZ6NAtFWIjCKScbEMJp7DbKxJKc2EqhJWMciSZMetwlN6cgmGn1RAEwIn76hLj1BL1PnPVOxB_FBKIrHlufv8qwCHJMJ4cWf-Hrd8Pcz10i5SSSuVJAWjncvKo9ykr3VeW0I2iZk8YXbAykXtVbh7eV4jrKb9Qd_P_S0rkqTZOqlK8l7nMtRR_Le1Upfv2sSpOTlvr5Woqo3KpK1bNTqipdaQkOUloy4o9zmFeVfldL8I6WuLtacm9rycrVUhtcaylblTJaSlelREt_UpU2f1iVYmlppyZbonYrPbdUce5uPiw1gtqAb6OKA4Q-3RktpAVjusKnpWrpBE-OrNoPkqk-wUovOKoPEhlwnzS1sGXfDc3TijJ5KtWi4e684saQPUfGpuYXzXURGdp6LZvPBcf2XJaWa4fSa5MJZ4LVkW0rOJgcp-xpswH3g1DhOAhHb02_0u3QirVYrQ6dimDWJ_tag8MvUtieujON2ZoBZrZ0v2O3vYM1EGvD4HX27i9H_GJ82Gm70WK1cxt-AzNw2cFCaK9mqtif7hrrlcrUv9L1GbSNMXJnvDgVYl4-azPNES4pdG_CFxwPsyQ_VR0MBfCuAwzQHAgkrQJyyROSp05UDQs-liXN37OYqVeadaVRlZv1CqMuC44eHDdsiy74a49lfgDd4UUV",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3Qa6qniczVXdkqI4FH6AfY71xlbA9rerqK4koo3aKjh2qzcUBAQERAFF525u9zn2qeZpJiA6YIs9MxdbeyyISU6-fDknH-fbv7a5tr7_9Y8RBBv_iaLCMCzrrqvbWhm7DiX7xzWmlq7te9h4Pu7ZxwL2WbqgmWx3vqvJ_jvujuXpATfH_nbpbMG0EC9hJUX2tRVBPKx8SqLIy_r7sU06Zb8se-Xgq9gawc1RL-FyhWZa5RElO8QB_IcmcIAHkLSnJs8QANznYJGLAFCEdTYd_Zw6WfuEF-2pxwP93C35aBUkP57AEhs3582QJkPu2amXywXy6c48YRPGuBDGRH_ZLlDJvncClRcmLgNAmGQc82N7dRlIrMQS4LgI4CMVHnDpUwMRgNPB2xZ40ZuAxzzS73CPFuAj7CFwwc-zLTDG5xCGwzlxp1Sd3F2aUjzSMJSJDRz_8fzoSqMvLdrt7vm3FwG97SxU1fBgseJt_bDtHTx0CCmsED_blVVNlQyJfo77TIWp0a3HRvMh1hL2L2Ly02Kyp2D_YlY3w9ewLJYhc1YSuuQOZelzpI948NEgSlzRjUk9JYPUYhOlozVNWnK742zwYQqA48dR2z0PjAAkGcbpLJ43iCBvKSnjlCgpzipxNfULsRQjFBG5AGXuPQzBR8umvgfa8LyIh6e5MMH9IAUIelZ6NAtFWIjCKScbEMJp7DbKxJKc2EqhJWMciSZMetwlN6cgmGn1RAEwIn76hLj1BL1PnPVOxB_FBKIrHlufv8qwCHJMJ4cWf-Hrd8Pcz10i5SSSuVJAWjncvKo9ykr3VeW0I2iZk8YXbAykXtVbh7eV4jrKb9Qd_P_S0rkqTZOqlK8l7nMtRR_Le1Upfv2sSpOTlvr5Woqo3KpK1bNTqipdaQkOUloy4o9zmFeVfldL8I6WuLtacm9rycrVUhtcaylblTJaSlelREt_UpU2f1iVYmlppyZbonYrPbdUce5uPiw1gtqAb6OKA4Q-3RktpAVjusKnpWrpBE-OrNoPkqk-wUovOKoPEhlwnzS1sGXfDc3TijJ5KtWi4e684saQPUfGpuYXzXURGdp6LZvPBcf2XJaWa4fSa5MJZ4LVkW0rOJgcp-xpswH3g1DhOAhHb02_0u3QirVYrQ6dimDWJ_tag8MvUtieujON2ZoBZrZ0v2O3vYM1EGvD4HX27i9H_GJ82Gm70WK1cxt-AzNw2cFCaK9mqtif7hrrlcrUv9L1GbSNMXJnvDgVYl4-azPNES4pdG_CFxwPsyQ_VR0MBfCuAwzQHAgkrQJyyROSp05UDQs-liXN37OYqVeadaVRlZv1CqMuC44eHDdsiy74a49lfgDd4UUV"
   },
   "knowledge_graph": {
-   "place_id": "ChIJn2P6QjNmUjoRfVCCjJF-8wM"
+   "place_id": "ChIJy5mUh1VnUjoRszIOb-D9uTE"
   },
   "local_map": {
    "gps_coordinates": {
-    "latitude": 13.043358711035388,
-    "longitude": 80.22285461425781
+    "latitude": 13.06509797181275,
+    "longitude": 80.21839141845703
    },
-   "image": "https://serpapi.com/searches/6aafca6a7223f44023405da1/images/FXWllL48LWOHa35vBy6g3g.png",
-   "link": "https://www.google.com/search?q=Where+are+24+hour+pharmacies+in+Chennai%3F&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsVC4yUua3PwBO5HgecSRo_CSMTOA:1789905514226&udm=1&lsack=asqvapqwDaTQ5NoPwOmfwAY&sa=X&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQtgN6BAgzEAM"
+   "image": "https://serpapi.com/searches/6ab98b19a1de12b42540c397/images/-CH5Cfu-0uck-5JnZdLdEA.png",
+   "link": "https://www.google.com/search?q=Where+are+24+hour+pharmacies+in+Chennai%3F&sca_esv=c16286b74a8621df&sxsrf=APpeQntobTtDZn_lobRhrdAaLnmllVKZuw:1790544665404&udm=local&lsack=GYu5asWcGPaUxc8PsqfmqAU&sa=X&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQtgN6BAgwEAM"
   },
   "local_results": {
-   "more_locations_link": "https://www.google.com/search?q=Where+are+24+hour+pharmacies+in+Chennai%3F&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnsVC4yUua3PwBO5HgecSRo_CSMTOA:1789905514226&udm=1&lsack=asqvapqwDaTQ5NoPwOmfwAY&sa=X&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQjGp6BAgxEAE",
+   "more_locations_link": "https://www.google.com/search?q=Where+are+24+hour+pharmacies+in+Chennai%3F&sca_esv=c16286b74a8621df&sxsrf=APpeQntobTtDZn_lobRhrdAaLnmllVKZuw:1790544665404&udm=local&lsack=GYu5asWcGPaUxc8PsqfmqAU&sa=X&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQjGp6BAgzEAE",
    "places": [
     {
-     "address": "139, 61, Luz Church Rd, Mylapore, Chennai, Tamil Nadu 600004, India",
-     "description": "In-store pickup·Delivery·Debit cards",
-     "gps_coordinates": {
-      "latitude": 13.037341,
-      "longitude": 80.261598
-     },
-     "hours": "Open 24 hours",
-     "links": {
-      "directions": "https://www.google.com/maps/dir//139,+Karuppiah+Pharmacy,+61,+Luz+Church+Rd,+Mylapore,+Chennai,+Tamil+Nadu+600004,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3a52663342fa639f:0x3f37e918c82507d?sa=X&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQ48ADegQIKhAA",
-      "phone": "tel:+91 44 2499 2240"
-     },
-     "phone": "+91 44 2499 2240",
-     "place_id": "284710365047181437",
-     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=284710365047181437&q=Where+are+24+hour+pharmacies+in+Chennai%3F",
-     "position": 1,
-     "provider_id": "/g/126020g7x",
-     "rating": 3.9,
-     "reviews": 122,
-     "title": "Karuppiah Pharmacy",
-     "type": "Pharmacy"
-    },
-    {
-     "address": "26, Egmore High Rd, Egmore, Chennai, Tamil Nadu 600008, India",
-     "description": "In-store pickup·Delivery·Debit cards",
-     "gps_coordinates": {
-      "latitude": 13.074728,
-      "longitude": 80.255667
-     },
-     "hours": "Open 24 hours",
-     "links": {
-      "directions": "https://www.google.com/maps/dir//Muthu+Pharmacy+-+Egmore+High+Road+(24+Hours),+26,+Egmore+High+Rd,+Egmore,+Chennai,+Tamil+Nadu+600008,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3a52660cbc0c1c33:0xdb9df1cc77a55b8d?sa=X&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQ48ADegQIKxAA",
-      "phone": "tel:+91 89254 13809",
-      "website": "http://www.muthupharmacy.com/"
-     },
-     "phone": "+91 89254 13809",
-     "place_id": "15825070526132738957",
-     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=15825070526132738957&q=Where+are+24+hour+pharmacies+in+Chennai%3F",
-     "position": 2,
-     "provider_id": "/g/11bxc59x8n",
-     "rating": 3.9,
-     "reviews": 156,
-     "title": "Muthu Pharmacy - Egmore High Road (24 Hours)",
-     "type": "Pharmacy"
-    },
-    {
-     "address": "Ground Floor, No: PC 10, Pari Salai, Mogappair East, Chennai, Tamil Nadu 600037, India",
-     "description": "In-store pickup·Delivery·Debit cards",
+     "address": "Ground Floor, No: PC 10, Pari Salai, Mogappair East, Chennai, Tamil Nadu 600037، الهند",
+     "description": "التسوّق داخل المتجر·الاستلام داخل المتجر·خدمة التوصيل",
      "gps_coordinates": {
       "latitude": 13.080697,
       "longitude": 80.180432
      },
-     "hours": "Open 24 hours",
+     "hours": "مفتوح على مدار الساعة",
      "links": {
-      "directions": "https://www.google.com/maps/dir//Sri+Suki+Pharmacy+-+Mogappair+East,+Ground+Floor,+No:+PC+10,+Pari+Salai,+Mogappair+East,+Chennai,+Tamil+Nadu+600037,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3a526755879499cb:0x31b9fde06f0e32b3?sa=X&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQ48ADegQILBAA",
       "phone": "tel:+91 93421 79931",
       "website": "https://srisukipharma.com/"
      },
      "phone": "+91 93421 79931",
      "place_id": "3583174118927643315",
      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=3583174118927643315&q=Where+are+24+hour+pharmacies+in+Chennai%3F",
-     "position": 3,
+     "position": 1,
      "provider_id": "/g/11q467d36s",
      "rating": 4.8,
      "reviews": 439,
      "title": "Sri Suki Pharmacy - Mogappair East",
-     "type": "Pharmacy"
+     "type": "صيدلية"
+    },
+    {
+     "address": "139, 61, Luz Church Rd, Mylapore, Chennai, Tamil Nadu 600004، الهند",
+     "description": "الاستلام داخل المتجر·خدمة التوصيل",
+     "gps_coordinates": {
+      "latitude": 13.037341,
+      "longitude": 80.261598
+     },
+     "hours": "مفتوح على مدار الساعة",
+     "links": {
+      "phone": "tel:+91 44 2499 2240"
+     },
+     "phone": "+91 44 2499 2240",
+     "place_id": "284710365047181437",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=284710365047181437&q=Where+are+24+hour+pharmacies+in+Chennai%3F",
+     "position": 2,
+     "provider_id": "/g/126020g7x",
+     "rating": 3.9,
+     "reviews": 122,
+     "title": "Karuppiah Pharmacy",
+     "type": "صيدلية"
+    },
+    {
+     "address": "26, Egmore High Rd, Egmore, Chennai, Tamil Nadu 600008، الهند",
+     "description": "التسوّق داخل المتجر·الاستلام داخل المتجر·خدمة التوصيل",
+     "gps_coordinates": {
+      "latitude": 13.074728,
+      "longitude": 80.255667
+     },
+     "hours": "مفتوح على مدار الساعة",
+     "links": {
+      "phone": "tel:+91 89254 13809",
+      "website": "http://www.muthupharmacy.com/"
+     },
+     "phone": "+91 89254 13809",
+     "place_id": "15825070526132738957",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=15825070526132738957&q=Where+are+24+hour+pharmacies+in+Chennai%3F",
+     "position": 3,
+     "provider_id": "/g/11bxc59x8n",
+     "rating": 3.9,
+     "reviews": 156,
+     "title": "Muthu Pharmacy - Egmore High Road (24 Hours)",
+     "type": "صيدلية"
     }
    ]
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZRdnJhaVVFQU5wY0tPOW05d3lORW1RMUlxRDdjQm5TWVg5T0FpZ0VOVE5PVlgzVEk0WXRwM2c1SUtYc291Y2hWTy1sNHFjRUhVdWdXdHNGMWxOeHF0THpGUjJkbDVGaUM1T2g0MXpJdFJ5bi05ODBTQmNLSF9aWF91NkNsV1JGbVRfWUVvYVZjd0FsVUpUR1hMcmxMLUtQeFVpUVdDdDVQUDV6Smp0SDRuaGNVZHo0ZzNMNhIEGgIIABrJBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkClBwgAEAAYACAAKi0KBXdoZXJlFSugOz4aBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQVl93YQBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFWkDPUAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMV77H9PhoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkVmxXTQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RlF2cmFpVUVBTnBjS085bTl3eU5FbVExSXFEN2NCblNZWDlPQWlnRU5UTk9WWDNUSTRZdHAzZzVJS1hzb3VjaFZPLWw0cWNFSFV1Z1d0c0YxbE54cXRMekZSMmRsNUZpQzVPaDQxekl0UnluLTk4MFNCY0tIX1pYX3U2Q2xXUkZtVF9ZRW9hVmN3QWxVSlRHWExybEwtS1B4VWlRV0N0NVBQNXpKanRING5oY1VkejRnM0w2OkhUb3AgPGI-MjQgSG91cnM8L2I-IENoZW1pc3RzIGluIEZsb3dlciBCYXphYXIsIDxiPkNoZW5uYWk8L2I-IC0gSnVzdGRpYWxCpAEuLi4gU2hvcCBpbiA8Yj5GbG93ZXIgQmF6YWFyLCBDaGVubmFpPC9iPi4gR2V0IFBob25lIE51bWJlcnMsIEFkZHJlc3MsIFJldmlld3MsIFBob3RvcywgbWFwcyBmb3IgVG9wIDI0IEhvdXIgUGhhcm1hY3kgbmVhciBtZSBpbiBGbG93ZXIgQmF6YWFyLCBDaGVubmFpIG9uIEp1c3RkaWFsLkoCaW5KA2FyZVIBNyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZRdnJhaVVFQU5wY0tPOW05d3lORW1RMUlxRDdjQm5TWVg5T0FpZ0VOVE5PVlgzVEk0WXRwM2c1SUtYc291Y2hWTy1sNHFjRUhVdWdXdHNGMWxOeHF0THpGUjJkbDVGaUM1T2g0MXpJdFJ5bi05ODBTQmNLSF9aWF91NkNsV1JGbVRfWUVvYVZjd0FsVUpUR1hMcmxMLUtQeFVpUVdDdDVQUDV6Smp0SDRuaGNVZHo0ZzNMNhIEGgIIABrJBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkClBwgAEAAYACAAKi0KBXdoZXJlFSugOz4aBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQVl93YQBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFWkDPUAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMV77H9PhoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkVmxXTQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RlF2cmFpVUVBTnBjS085bTl3eU5FbVExSXFEN2NCblNZWDlPQWlnRU5UTk9WWDNUSTRZdHAzZzVJS1hzb3VjaFZPLWw0cWNFSFV1Z1d0c0YxbE54cXRMekZSMmRsNUZpQzVPaDQxekl0UnluLTk4MFNCY0tIX1pYX3U2Q2xXUkZtVF9ZRW9hVmN3QWxVSlRHWExybEwtS1B4VWlRV0N0NVBQNXpKanRING5oY1VkejRnM0w2OkhUb3AgPGI-MjQgSG91cnM8L2I-IENoZW1pc3RzIGluIEZsb3dlciBCYXphYXIsIDxiPkNoZW5uYWk8L2I-IC0gSnVzdGRpYWxCpAEuLi4gU2hvcCBpbiA8Yj5GbG93ZXIgQmF6YWFyLCBDaGVubmFpPC9iPi4gR2V0IFBob25lIE51bWJlcnMsIEFkZHJlc3MsIFJldmlld3MsIFBob3RvcywgbWFwcyBmb3IgVG9wIDI0IEhvdXIgUGhhcm1hY3kgbmVhciBtZSBpbiBGbG93ZXIgQmF6YWFyLCBDaGVubmFpIG9uIEp1c3RkaWFsLkoCaW5KA2FyZVIBNyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Your go-to for Pharmacy, Health & Wellness and Photo products. Refill prescriptions online, order items for delivery or store pickup, and create Photo ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAADvIADnJADqJQDnJADmJADlJgDmJgDnJQDmJQDmJQDmJgDmJgDnIADmJgDmJQDmJQDmJQDlJQDlJgDlJQDmJgDmJQDnJgDmJQDlJQBqPcgvAAAAGnRSTlMAED8wQHCA_2CPoN-wIOC_kMDP0O9Q8H9vn9urP_0AAADzSURBVHgB1ZFHgkMhDENNKPq91_tfdOLCkHKCvI1BMohCP497eKtPiMIjvvsJQPW0a2SaN79iqSXq8E__HjCwRqH4SY04og0ykIb0ZJrnpsHgWPUtywsPA4CVDL9ht4phAHJDk_MWzFI31pJOdr2FMAESO8umKyYT4dQPKGsCBbvPWhJm6AkGaVxV78vFA4ASGnGI3pQNOktoONTbg_TgRsEBmCxh7TfMOTaSsudXBLAs9mCxBFCCTjyYw9tPrdKYozeeFT-ZX3ZAe14319GTv9riW9wXTfH19BoPY9jpjX4WNbpdWtfo6BMXgj6KD8HRz_EHKEwMolWq2LIAAAAASUVORK5CYII.png",
-      "source_info_link": "https://www.walgreens.com/"
+      "description": "... Shop in Flower Bazaar, Chennai. Get Phone Numbers, Address, Reviews, Photos, maps for Top 24 Hour Pharmacy near me in Flower Bazaar, Chennai on Justdial.",
+      "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+      "source_info_link": "https://www.justdial.com/Chennai/24-Hours-Chemists-in-Flower-Bazaar/nct-10000359"
      }
     },
-    "displayed_link": "https://www.walgreens.com",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAADvIADnJADqJQDnJADmJADlJgDmJgDnJQDmJQDmJQDmJgDmJgDnIADmJgDmJQDmJQDmJQDlJQDlJgDlJQDmJgDmJQDnJgDmJQDlJQBqPcgvAAAAGnRSTlMAED8wQHCA_2CPoN-wIOC_kMDP0O9Q8H9vn9urP_0AAADzSURBVHgB1ZFHgkMhDENNKPq91_tfdOLCkHKCvI1BMohCP497eKtPiMIjvvsJQPW0a2SaN79iqSXq8E__HjCwRqH4SY04og0ykIb0ZJrnpsHgWPUtywsPA4CVDL9ht4phAHJDk_MWzFI31pJOdr2FMAESO8umKyYT4dQPKGsCBbvPWhJm6AkGaVxV78vFA4ASGnGI3pQNOktoONTbg_TgRsEBmCxh7TfMOTaSsudXBLAs9mCxBFCCTjyYw9tPrdKYozeeFT-ZX3ZAe14319GTv9riW9wXTfH19BoPY9jpjX4WNbpdWtfo6BMXgj6KD8HRz_EHKEwMolWq2LIAAAAASUVORK5CYII.png",
-    "link": "https://www.walgreens.com/",
+    "displayed_link": "https://www.justdial.com › Chennai",
+    "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+    "link": "https://www.justdial.com/Chennai/24-Hours-Chemists-in-Flower-Bazaar/nct-10000359",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVl80E5XxyiftAN9Uvq-K7beTNlMnNCKN76FlfpmkXL9fiFldN4-Zdo7xHAoSZqMbBeR4FKJcRncIF2Xw4otLehbWUaUFXTbiMBPlg1Ok&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQFnoECCAQAQ&uoh=1",
-    "snippet": "Your go-to for Pharmacy, Health & Wellness and Photo products. Refill prescriptions online, order items for delivery or store pickup, and create Photo ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFQvraiUEANpcKO9m9wyNEmQ1IqD7cBnSYX9OAigENTNOVX3TI4Ytp3g5IKXsouchVO-l4qcEHUugWtsF1lNxqtLzFR2dl5FiC5Oh41zItRyn-980SBcKH_ZX_u6ClWRFmT_YEoaVcwAlUJTGXLrlL-KPxUiQWCt5PP5zJjtH4nhcUdz4g3L6&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQFnoECCYQAQ&uoh=1",
+    "snippet": "... Shop in Flower Bazaar, Chennai. Get Phone Numbers, Address, Reviews, Photos, maps for Top 24 Hour Pharmacy near me in Flower Bazaar, Chennai on Justdial.",
     "snippet_highlighted_words": [
-     "Pharmacy"
+     "Flower Bazaar, Chennai"
     ],
-    "source": "Walgreens",
-    "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+    "source": "Justdial",
+    "title": "Top 24 Hours Chemists in Flower Bazaar, Chennai"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjdYOHd5ZGh3SE8zNmN4NFZ3UnFZdG4wOGFOWTlLNVNUTjc1VEs5eWtKR1RIUV9qNUdyYllvTUpZUGlseWhPM1o5bHdfM1lSbS1LY0ItMU9YS1ZrUGdMNDFBenN1eGIwdWFwWkNWMVVwMVc5Ums5LVJpTFN6LUk1U2dHemRRa1RzZWJLM0FXaWZpeW1kNHR4cUlCYV94ZGZ3d01wQVVzaxIEGgIIABrbBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC3BwgAEAAYACAAKi0KBXdoZXJlFQAAAAAaBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQVajy0QBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFQAAAAAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMVkUm9QBoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkVZJ7cQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWN1g4d3lkaHdITzM2Y3g0VndScVl0bjA4YU5ZOUs1U1RONzVUSzl5a0pHVEhRX2o1R3JiWW9NSllQaWx5aE8zWjlsd18zWVJtLUtjQi0xT1hLVmtQZ0w0MUF6c3V4YjB1YXBaQ1YxVXAxVzlSazktUmlMU3otSTVTZ0d6ZFFrVHNlYkszQVdpZml5bWQ0dHhxSUJhX3hkZnd3TXBBVXNrOkM8Yj4yNCBIb3VycyBQaGFybWFjaWVzPC9iPiBOZWFyIE1lIGluIFdlc3QgTWFtYmFsYW0sIDxiPkNoZW5uYWk8L2I-QtABVG9wIDxiPjI0IEhvdXJzIFBoYXJtYWNpZXM8L2I-IGluIFdlc3QgTWFtYmFsYW0sIDxiPkNoZW5uYWk8L2I-ICZtaWRkb3Q7IEFhc2h3aW5pIEFnZW5jaWVzICZtaWRkb3Q7IEF1cm9iaW5kbyBQaGFybWFjeSAmbWlkZG90OyBEaGFuYWxha3NobWkgTWVkaWNhbHMuIFdlc3QgTWFtYmFsYW0sIDxiPkNoZW5uYWk8L2I-LCA2MDAwMzMuIEFsbG9wYXRoeSZuYnNwOy4uLkoCaW5KA2FyZVIBNyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjdYOHd5ZGh3SE8zNmN4NFZ3UnFZdG4wOGFOWTlLNVNUTjc1VEs5eWtKR1RIUV9qNUdyYllvTUpZUGlseWhPM1o5bHdfM1lSbS1LY0ItMU9YS1ZrUGdMNDFBenN1eGIwdWFwWkNWMVVwMVc5Ums5LVJpTFN6LUk1U2dHemRRa1RzZWJLM0FXaWZpeW1kNHR4cUlCYV94ZGZ3d01wQVVzaxIEGgIIABrbBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC3BwgAEAAYACAAKi0KBXdoZXJlFQAAAAAaBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQVajy0QBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFQAAAAAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMVkUm9QBoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkVZJ7cQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWN1g4d3lkaHdITzM2Y3g0VndScVl0bjA4YU5ZOUs1U1RONzVUSzl5a0pHVEhRX2o1R3JiWW9NSllQaWx5aE8zWjlsd18zWVJtLUtjQi0xT1hLVmtQZ0w0MUF6c3V4YjB1YXBaQ1YxVXAxVzlSazktUmlMU3otSTVTZ0d6ZFFrVHNlYkszQVdpZml5bWQ0dHhxSUJhX3hkZnd3TXBBVXNrOkM8Yj4yNCBIb3VycyBQaGFybWFjaWVzPC9iPiBOZWFyIE1lIGluIFdlc3QgTWFtYmFsYW0sIDxiPkNoZW5uYWk8L2I-QtABVG9wIDxiPjI0IEhvdXJzIFBoYXJtYWNpZXM8L2I-IGluIFdlc3QgTWFtYmFsYW0sIDxiPkNoZW5uYWk8L2I-ICZtaWRkb3Q7IEFhc2h3aW5pIEFnZW5jaWVzICZtaWRkb3Q7IEF1cm9iaW5kbyBQaGFybWFjeSAmbWlkZG90OyBEaGFuYWxha3NobWkgTWVkaWNhbHMuIFdlc3QgTWFtYmFsYW0sIDxiPkNoZW5uYWk8L2I-LCA2MDAwMzMuIEFsbG9wYXRoeSZuYnNwOy4uLkoCaW5KA2FyZVIBNyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "call 844-ReachNJ (732-2465). ReachNJ is a 24-hour-a-day, 7 day-a-week addictions hotline. View List of Participating Pharmacies!",
-      "icon": "https://serpapi.com/images/i/UklGRpQBAABXRUJQVlA4IIgBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhH4n0zjsZrbAc0VqLvoAdLY39iPurOOuBTboDJNpSqWis5ZOrN0sF0aD_6A22mxcAAD-9n_NM6Ad2bRZ2H8Z0fpaP6okK9lVu05bfRh9g4w59WmR-lEBsVfOpalPk6MiSV5PGnDdPD77-xEfHuh__lWwt4r7Y17dE3-qU9G88FPYBu50aPvmP2aWndot34XeJpC_NXK1n4iIwLsb7XfUxnuvg8C5MV-J-VYBNnBiux7OvRQawO7nnFWi5yh4fV2SiqmZjEnz0rBZJ7eAS_4T43gPd-Dcsd12IRblXWl9pg5XS7voLrhO9rvNXbHyFmokZv-UH9kBeJtiHA6f7Eq6aWBW53NAI4D2spmJs5DRWlH_fityz8Xg1oK2bD9OYaptHl3Bq_LUqG0kVqdZMhc7-KOKEGKptCNwL8q8j8-aUntpNL1IK9DlLJe9NVDFuh4c6VYIe4cEl0uIgW7W43NqnBnDh3ns_UxyF5QAAA.webp",
-      "source_info_link": "https://www.nj.gov/humanservices/stopoverdoses"
+      "description": "Top 24 Hours Pharmacies in West Mambalam, Chennai · Aashwini Agencies · Aurobindo Pharmacy · Dhanalakshmi Medicals. West Mambalam, Chennai, 600033. Allopathy ...",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+      "source_info_link": "https://www.sulekha.com/24-hours-pharmacies/west-mambalam-chennai"
      }
     },
-    "displayed_link": "https://www.nj.gov › humanservices › stopoverdoses",
-    "favicon": "https://serpapi.com/images/i/UklGRpQBAABXRUJQVlA4IIgBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhH4n0zjsZrbAc0VqLvoAdLY39iPurOOuBTboDJNpSqWis5ZOrN0sF0aD_6A22mxcAAD-9n_NM6Ad2bRZ2H8Z0fpaP6okK9lVu05bfRh9g4w59WmR-lEBsVfOpalPk6MiSV5PGnDdPD77-xEfHuh__lWwt4r7Y17dE3-qU9G88FPYBu50aPvmP2aWndot34XeJpC_NXK1n4iIwLsb7XfUxnuvg8C5MV-J-VYBNnBiux7OvRQawO7nnFWi5yh4fV2SiqmZjEnz0rBZJ7eAS_4T43gPd-Dcsd12IRblXWl9pg5XS7voLrhO9rvNXbHyFmokZv-UH9kBeJtiHA6f7Eq6aWBW53NAI4D2spmJs5DRWlH_fityz8Xg1oK2bD9OYaptHl3Bq_LUqG0kVqdZMhc7-KOKEGKptCNwL8q8j8-aUntpNL1IK9DlLJe9NVDFuh4c6VYIe4cEl0uIgW7W43NqnBnDh3ns_UxyF5QAAA.webp",
-    "link": "https://www.nj.gov/humanservices/stopoverdoses",
+    "displayed_link": "https://www.sulekha.com › west-mam...",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+    "link": "https://www.sulekha.com/24-hours-pharmacies/west-mambalam-chennai",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVS8aj427dq7JGsJiukheSh8NyBi7lKEEuaoYaRHhCz5wo1dgwUhx5u9jrNGBFtNBoCvwrz8X_HjD6Ch-t8FMAk-i-2tDvsmda2pMYTa_YWJTmVuiKTYcEuZQbARkVUwcbng&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQFnoECCEQAQ&uoh=1",
-    "snippet": "call 844-ReachNJ (732-2465). ReachNJ is a 24-hour-a-day, 7 day-a-week addictions hotline. View List of Participating Pharmacies!",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAV7X8wydhwHO36cx4VwRqYtn08aNY9K5STN75TK9ykJGTHQ_j5GrbYoMJYPilyhO3Z9lw_3YRm-KcB-1OXKVkPgL41Azsuxb0uapZCV1Up1W9Rk9-RiLSz-I5SgGzdQkTsebK3AWifiymd4txqIBa_xdfwwMpAUsk&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQFnoECCcQAQ&uoh=1",
+    "snippet": "Top 24 Hours Pharmacies in West Mambalam, Chennai · Aashwini Agencies · Aurobindo Pharmacy · Dhanalakshmi Medicals. West Mambalam, Chennai, 600033. Allopathy ...",
     "snippet_highlighted_words": [
-     "24",
-     "hour",
-     "7",
-     "Pharmacies"
+     "24 Hours Pharmacies",
+     "Chennai",
+     "Chennai"
     ],
-    "source": "NJ.gov",
-    "title": "Naloxone Distribution at Participating Pharmacies"
+    "source": "Sulekha",
+    "title": "24 Hours Pharmacies Near Me in West Mambalam, Chennai"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkxnOE5yV09aYW5ia3NwU1hZVExTekJrbjUtQzlhLUFfbVEySU1jR3dyMXJ4S2VRSjg2S3VzYWpoQzhZazZ6TndWTFJJbjJHdHF2TDFmRndmWjZOZXpSdFBHbi03Sm96ejBld2xxQlZNb2ZrQmJSZ2d2ZzV0dWE4OGtONTNmdDVTSno3N1Nubm13ZUR3ZlE1b2pPRHNtVzVXU3cSBBoCCAAaxQcSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAoQcIABAAGAAgACotCgV3aGVyZRUAAAAAGgbZiNmK2LEaCml2O2Q7d2hlcmUaC2l2O2Q72YjZitixKgoKA2FyZRUAAAAAKhoKAjI0Fb55tUAaBjI0aG91choHaXY7bjsyNCqJAQoEaG91chUAAAAAGgE3GgFoGgVob3VycxoCaHIaA2hycxoI2LPYp9i52KkaBtmH2YjYsRoGMjRob3VyGglpdjtkO2hvdXIaBml2O2Q7aBoKaXY7ZDtob3VycxoHaXY7ZDtochoIaXY7ZDtocnMaDWl2O2Q72LPYp9i52YcaC2l2O2Q72YfZiNixKqcBCgpwaGFybWFjaWVzFZNIwUAaA2N2cxoIbWVkaWNhbHMaCHBoYXJtYWN5Ggl3YWxncmVlbnMaDtin2YTYtdmK2K_ZhNipGg7YtdmK2K_ZhNmK2KfYqhoIaXY7ZDtjdnMaDWl2O2Q7bWVkaWNhbHMaDWl2O2Q7cGhhcm1hY3kaE2l2O2Q72KfZhNi12YrYr9mE2YcaE2l2O2Q72LXZitiv2YTZitin2KoqCQoCaW4VAAAAACo5CgdjaGVubmFpFV0A5EAaCti02YrZhtin2YoaDGl2O2Q7Y2hlbm5haRoPaXY7ZDvYtNmK2YbYp9mKMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkxnOE5yV09aYW5ia3NwU1hZVExTekJrbjUtQzlhLUFfbVEySU1jR3dyMXJ4S2VRSjg2S3VzYWpoQzhZazZ6TndWTFJJbjJHdHF2TDFmRndmWjZOZXpSdFBHbi03Sm96ejBld2xxQlZNb2ZrQmJSZ2d2ZzV0dWE4OGtONTNmdDVTSno3N1Nubm13ZUR3ZlE1b2pPRHNtVzVXU3c6RDxiPjI0IEhvdXJzIFBoYXJtYWN5PC9iPiwgTWVkaWNhbCBTaG9wcyBpbiBSb3lhcHVyYW0sIDxiPkNoZW5uYWk8L2I-Qr4BVG9wIDI0IEhvdXJzIFBoYXJtYWNpZXMgaW4gUm95YXB1cmFtLCBDaGVubmFpICZtaWRkb3Q7IDxiPlNhbWJoYXYgUGhhcm1hY3k8L2I-ICZtaWRkb3Q7IEZyaWVuZHMgTWVkaWNhbHMgJm1pZGRvdDsgS2FzdG9vcmkgTWVkaWNhbHMuIFJveWFwdXJhbSwgQ2hlbm5haSwgNjAwMDEzLiBBbGxvcGF0aHkgUGhhcm1hY2llcyZuYnNwOy4uLkoCaW5KA2FyZVIBNyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkxnOE5yV09aYW5ia3NwU1hZVExTekJrbjUtQzlhLUFfbVEySU1jR3dyMXJ4S2VRSjg2S3VzYWpoQzhZazZ6TndWTFJJbjJHdHF2TDFmRndmWjZOZXpSdFBHbi03Sm96ejBld2xxQlZNb2ZrQmJSZ2d2ZzV0dWE4OGtONTNmdDVTSno3N1Nubm13ZUR3ZlE1b2pPRHNtVzVXU3cSBBoCCAAaxQcSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAoQcIABAAGAAgACotCgV3aGVyZRUAAAAAGgbZiNmK2LEaCml2O2Q7d2hlcmUaC2l2O2Q72YjZitixKgoKA2FyZRUAAAAAKhoKAjI0Fb55tUAaBjI0aG91choHaXY7bjsyNCqJAQoEaG91chUAAAAAGgE3GgFoGgVob3VycxoCaHIaA2hycxoI2LPYp9i52KkaBtmH2YjYsRoGMjRob3VyGglpdjtkO2hvdXIaBml2O2Q7aBoKaXY7ZDtob3VycxoHaXY7ZDtochoIaXY7ZDtocnMaDWl2O2Q72LPYp9i52YcaC2l2O2Q72YfZiNixKqcBCgpwaGFybWFjaWVzFZNIwUAaA2N2cxoIbWVkaWNhbHMaCHBoYXJtYWN5Ggl3YWxncmVlbnMaDtin2YTYtdmK2K_ZhNipGg7YtdmK2K_ZhNmK2KfYqhoIaXY7ZDtjdnMaDWl2O2Q7bWVkaWNhbHMaDWl2O2Q7cGhhcm1hY3kaE2l2O2Q72KfZhNi12YrYr9mE2YcaE2l2O2Q72LXZitiv2YTZitin2KoqCQoCaW4VAAAAACo5CgdjaGVubmFpFV0A5EAaCti02YrZhtin2YoaDGl2O2Q7Y2hlbm5haRoPaXY7ZDvYtNmK2YbYp9mKMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkxnOE5yV09aYW5ia3NwU1hZVExTekJrbjUtQzlhLUFfbVEySU1jR3dyMXJ4S2VRSjg2S3VzYWpoQzhZazZ6TndWTFJJbjJHdHF2TDFmRndmWjZOZXpSdFBHbi03Sm96ejBld2xxQlZNb2ZrQmJSZ2d2ZzV0dWE4OGtONTNmdDVTSno3N1Nubm13ZUR3ZlE1b2pPRHNtVzVXU3c6RDxiPjI0IEhvdXJzIFBoYXJtYWN5PC9iPiwgTWVkaWNhbCBTaG9wcyBpbiBSb3lhcHVyYW0sIDxiPkNoZW5uYWk8L2I-Qr4BVG9wIDI0IEhvdXJzIFBoYXJtYWNpZXMgaW4gUm95YXB1cmFtLCBDaGVubmFpICZtaWRkb3Q7IDxiPlNhbWJoYXYgUGhhcm1hY3k8L2I-ICZtaWRkb3Q7IEZyaWVuZHMgTWVkaWNhbHMgJm1pZGRvdDsgS2FzdG9vcmkgTWVkaWNhbHMuIFJveWFwdXJhbSwgQ2hlbm5haSwgNjAwMDEzLiBBbGxvcGF0aHkgUGhhcm1hY2llcyZuYnNwOy4uLkoCaW5KA2FyZVIBNyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Services are available at various USC Pharmacy locations, including on the USC Health Sciences Campus and the University Park Campus.",
-      "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAAAQBgCdASocABwAPtE-tFooIigoFAEAGgliALDwCB2YDkU6U-d9mGIKaM1w7rZTUKiY2_buKvIvCAAA_vUU7m1Dtw3EhrTvxZxwBmejoRZiVlzsfrvrJSrh3iFxcV4UG0X--_2Etv5UXv4aUSbvA1mr4PvU5cXY4sPYqCXt7vzYo-SFM4IK0dxJzBPj3szOP6tfMVNuXrx5Sm_aZ6LwU-kdkgYluh2fcsjWQToeOdED10T1ZMq8ao-x_lfyZpscjisc4yjJwjhRcqTLODr3C5kQDM_26l8xzB2zA6hvQq7WRJR-0_nCf2P2H5XWloDQiYMgxa9PL2gAAA.webp",
-      "source_info_link": "https://pharmacies.usc.edu/"
+      "description": "Top 24 Hours Pharmacies in Royapuram, Chennai · Sambhav Pharmacy · Friends Medicals · Kastoori Medicals. Royapuram, Chennai, 600013. Allopathy Pharmacies ...",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+      "source_info_link": "https://www.sulekha.com/24-hours-pharmacies/royapuram-chennai"
      }
     },
-    "displayed_link": "https://pharmacies.usc.edu",
-    "favicon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAAAQBgCdASocABwAPtE-tFooIigoFAEAGgliALDwCB2YDkU6U-d9mGIKaM1w7rZTUKiY2_buKvIvCAAA_vUU7m1Dtw3EhrTvxZxwBmejoRZiVlzsfrvrJSrh3iFxcV4UG0X--_2Etv5UXv4aUSbvA1mr4PvU5cXY4sPYqCXt7vzYo-SFM4IK0dxJzBPj3szOP6tfMVNuXrx5Sm_aZ6LwU-kdkgYluh2fcsjWQToeOdED10T1ZMq8ao-x_lfyZpscjisc4yjJwjhRcqTLODr3C5kQDM_26l8xzB2zA6hvQq7WRJR-0_nCf2P2H5XWloDQiYMgxa9PL2gAAA.webp",
-    "link": "https://pharmacies.usc.edu/",
+    "displayed_link": "https://www.sulekha.com › royapura...",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+    "link": "https://www.sulekha.com/24-hours-pharmacies/royapuram-chennai",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAV52umsJ1xQynBTqGF-gnvhS9fMo-iP5CEHKnSWOXEYcMuGSgS97yUWJEPIMJcATFsKTkUuxG9gjqUt3mA1h6XibR-0H0L-dUZgepotceQ&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQFnoECCIQAQ&uoh=1",
-    "snippet": "Services are available at various USC Pharmacy locations, including on the USC Health Sciences Campus and the University Park Campus.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVLg8NrWOZanbkspSXYTLSzBkn5-C9a-A_mQ2IMcGwr1rxKeQJ86KusajhC8Yk6zNwVLRIn2GtqvL1fFwfZ6NezRtPGn-7Jozz0ewlqBVMofkBbRggvg5tua88kN53ft5SJz77SnnmweDwfQ5ojODsmW5WSw&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQFnoECDwQAQ&uoh=1",
+    "snippet": "Top 24 Hours Pharmacies in Royapuram, Chennai · Sambhav Pharmacy · Friends Medicals · Kastoori Medicals. Royapuram, Chennai, 600013. Allopathy Pharmacies ...",
     "snippet_highlighted_words": [
-     "Pharmacy"
+     "Sambhav Pharmacy"
     ],
-    "source": "USC Pharmacies",
-    "title": "USC Pharmacies: Home"
+    "source": "Sulekha",
+    "title": "24 Hours Pharmacy, Medical Shops in Royapuram, Chennai"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmhCclpndnV2enF6WEQ4R2tqT1hQWjZucFZmYkpEUzc3Wkk3TmpmRnNKRG1ybXJVc2VIdG5TRW5EcENfQlJXVHJ6T012T2U3TXZpdjQwNEtQMlpjOXQ4R1JtTzBBZFhCOE1mUmI3U3NvSHZpbV8zUjRwbGhOeHBkQ25YWHlEZmRZZlM4azhmTkZKTkJ3Mzg5R09McWlNTVR0M1lGNVpBEgQaAggAGuEHEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQL0HCAAQABgAIAAqLQoFd2hlcmUVAAAAABoG2YjZitixGgppdjtkO3doZXJlGgtpdjtkO9mI2YrYsSoKCgNhcmUVAAAAACoaCgIyNBWGbahAGgYyNGhvdXIaB2l2O247MjQqiQEKBGhvdXIVAAAAABoBNxoBaBoFaG91cnMaAmhyGgNocnMaCNiz2KfYudipGgbZh9mI2LEaBjI0aG91choJaXY7ZDtob3VyGgZpdjtkO2gaCml2O2Q7aG91cnMaB2l2O2Q7aHIaCGl2O2Q7aHJzGg1pdjtkO9iz2KfYudmHGgtpdjtkO9mH2YjYsSqnAQoKcGhhcm1hY2llcxXd_7pAGgNjdnMaCG1lZGljYWxzGghwaGFybWFjeRoJd2FsZ3JlZW5zGg7Yp9mE2LXZitiv2YTYqRoO2LXZitiv2YTZitin2KoaCGl2O2Q7Y3ZzGg1pdjtkO21lZGljYWxzGg1pdjtkO3BoYXJtYWN5GhNpdjtkO9in2YTYtdmK2K_ZhNmHGhNpdjtkO9i12YrYr9mE2YrYp9iqKgkKAmluFQAAAAAqOQoHY2hlbm5haRVt7NtAGgrYtNmK2YbYp9mKGgxpdjtkO2NoZW5uYWkaD2l2O2Q72LTZitmG2KfZijK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZoQnJaZ3Z1dnpxelhEOEdrak9YUFo2bnBWZmJKRFM3N1pJN05qZkZzSkRtcm1yVXNlSHRuU0VuRHBDX0JSV1Ryek9Ndk9lN012aXY0MDRLUDJaYzl0OEdSbU8wQWRYQjhNZlJiN1Nzb0h2aW1fM1I0cGxoTnhwZENuWFh5RGZkWWZTOGs4Zk5GSk5CdzM4OUdPTHFpTU1UdDNZRjVaQTpHPGI-MjQgSG91cnMgUGhhcm1hY3k8L2I-LCBNZWRpY2FsIFNob3BzIGluIFBhbGxpa2FyYW5haSwgPGI-Q2hlbm5haTwvYj5C0wFSZXZpZXdzIGZvciBUb3AgMjQgSG91cnMgUGhhcm1hY2llcyAmbWlkZG90OyA8Yj5TLiBTLiBNZWRpY2FsczwvYj4gJm1pZGRvdDsgTmV3IEFwb2xsbyBQaGFyYW1hY3kgJm1pZGRvdDsgTmV3IEFwb2xsbyBQaGFyYW1hY3kgJm1pZGRvdDsgUHJpeWEgTWVkaWNhbHMgJm1pZGRvdDsgU3JpIFNoYW50aGkgTWVkaWNhbHMgJm1pZGRvdDsgU3JpIE5hcmF5YW5hJm5ic3A7Li4uSgJpbkoDYXJlUgE3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmhCclpndnV2enF6WEQ4R2tqT1hQWjZucFZmYkpEUzc3Wkk3TmpmRnNKRG1ybXJVc2VIdG5TRW5EcENfQlJXVHJ6T012T2U3TXZpdjQwNEtQMlpjOXQ4R1JtTzBBZFhCOE1mUmI3U3NvSHZpbV8zUjRwbGhOeHBkQ25YWHlEZmRZZlM4azhmTkZKTkJ3Mzg5R09McWlNTVR0M1lGNVpBEgQaAggAGuEHEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQL0HCAAQABgAIAAqLQoFd2hlcmUVAAAAABoG2YjZitixGgppdjtkO3doZXJlGgtpdjtkO9mI2YrYsSoKCgNhcmUVAAAAACoaCgIyNBWGbahAGgYyNGhvdXIaB2l2O247MjQqiQEKBGhvdXIVAAAAABoBNxoBaBoFaG91cnMaAmhyGgNocnMaCNiz2KfYudipGgbZh9mI2LEaBjI0aG91choJaXY7ZDtob3VyGgZpdjtkO2gaCml2O2Q7aG91cnMaB2l2O2Q7aHIaCGl2O2Q7aHJzGg1pdjtkO9iz2KfYudmHGgtpdjtkO9mH2YjYsSqnAQoKcGhhcm1hY2llcxXd_7pAGgNjdnMaCG1lZGljYWxzGghwaGFybWFjeRoJd2FsZ3JlZW5zGg7Yp9mE2LXZitiv2YTYqRoO2LXZitiv2YTZitin2KoaCGl2O2Q7Y3ZzGg1pdjtkO21lZGljYWxzGg1pdjtkO3BoYXJtYWN5GhNpdjtkO9in2YTYtdmK2K_ZhNmHGhNpdjtkO9i12YrYr9mE2YrYp9iqKgkKAmluFQAAAAAqOQoHY2hlbm5haRVt7NtAGgrYtNmK2YbYp9mKGgxpdjtkO2NoZW5uYWkaD2l2O2Q72LTZitmG2KfZijK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZoQnJaZ3Z1dnpxelhEOEdrak9YUFo2bnBWZmJKRFM3N1pJN05qZkZzSkRtcm1yVXNlSHRuU0VuRHBDX0JSV1Ryek9Ndk9lN012aXY0MDRLUDJaYzl0OEdSbU8wQWRYQjhNZlJiN1Nzb0h2aW1fM1I0cGxoTnhwZENuWFh5RGZkWWZTOGs4Zk5GSk5CdzM4OUdPTHFpTU1UdDNZRjVaQTpHPGI-MjQgSG91cnMgUGhhcm1hY3k8L2I-LCBNZWRpY2FsIFNob3BzIGluIFBhbGxpa2FyYW5haSwgPGI-Q2hlbm5haTwvYj5C0wFSZXZpZXdzIGZvciBUb3AgMjQgSG91cnMgUGhhcm1hY2llcyAmbWlkZG90OyA8Yj5TLiBTLiBNZWRpY2FsczwvYj4gJm1pZGRvdDsgTmV3IEFwb2xsbyBQaGFyYW1hY3kgJm1pZGRvdDsgTmV3IEFwb2xsbyBQaGFyYW1hY3kgJm1pZGRvdDsgUHJpeWEgTWVkaWNhbHMgJm1pZGRvdDsgU3JpIFNoYW50aGkgTWVkaWNhbHMgJm1pZGRvdDsgU3JpIE5hcmF5YW5hJm5ic3A7Li4uSgJpbkoDYXJlUgE3IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Pharmacies near me - Google Maps. Find local businesses, view maps and get driving directions in Google Maps.",
-      "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABwBgCdASocABwAPtE-tFooIigoFAEAGglsALEbbIwDcAbySOUmQdgsmbIsCdIeDto73DY0onLILxPbAAAA_vYJo7E1oR7eiFKH2jLoxgBkozkIUt6XYNxtqZJJG0HW4g490UAN2gm9hJmJ009yfG09LqnBHm8JeXBg_3yNrFoC9RxQFeo7m3jNmTByude-Xr9LWNm5xKABMQsKHjTCgsAaKZPuCxriI1Y3b3b3I4Xu_EdXqFTRspaL7qeUaIDw5_g2QSBw_UVYJ4uvNrmt8WyUCvTEPWsFG-na3fmySJ5nME8h-cqjd6H8ovnPMKEI6UljjX_OVm1oNrj619jAAA.webp",
-      "source_info_link": "https://maps.google.com/maps/search/pharmacies+near+me"
+      "description": "Reviews for Top 24 Hours Pharmacies · S. S. Medicals · New Apollo Pharamacy · New Apollo Pharamacy · Priya Medicals · Sri Shanthi Medicals · Sri Narayana ...",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+      "source_info_link": "https://www.sulekha.com/24-hours-pharmacies/pallikaranai-chennai"
      }
     },
-    "displayed_link": "https://maps.google.com › maps › search › pharmacies+...",
-    "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABwBgCdASocABwAPtE-tFooIigoFAEAGglsALEbbIwDcAbySOUmQdgsmbIsCdIeDto73DY0onLILxPbAAAA_vYJo7E1oR7eiFKH2jLoxgBkozkIUt6XYNxtqZJJG0HW4g490UAN2gm9hJmJ009yfG09LqnBHm8JeXBg_3yNrFoC9RxQFeo7m3jNmTByude-Xr9LWNm5xKABMQsKHjTCgsAaKZPuCxriI1Y3b3b3I4Xu_EdXqFTRspaL7qeUaIDw5_g2QSBw_UVYJ4uvNrmt8WyUCvTEPWsFG-na3fmySJ5nME8h-cqjd6H8ovnPMKEI6UljjX_OVm1oNrj619jAAA.webp",
-    "link": "https://maps.google.com/maps/search/pharmacies+near+me",
+    "displayed_link": "https://www.sulekha.com › pallikaran...",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+    "link": "https://www.sulekha.com/24-hours-pharmacies/pallikaranai-chennai",
     "position": 4,
-    "read_more_link": "https://maps.google.com/maps/search/pharmacies+near+me#:~:text=Pharmacies%20near%20me%20%2D%20Google,driving%20directions%20in%20Google%20Maps.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://maps.google.com/maps/search/pharmacies%2Bnear%2Bme&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQFnoECCQQAQ",
-    "snippet": "Pharmacies near me - Google Maps. Find local businesses, view maps and get driving directions in Google Maps.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVhBrZgvuvzqzXD8GkjOXPZ6npVfbJDS77ZI7NjfFsJDmrmrUseHtnSEnDpC_BRWTrzOMvOe7Mviv404KP2Zc9t8GRmO0AdXB8MfRb7SsoHvim_3R4plhNxpdCnXXyDfdYfS8k8fNFJNBw389GOLqiMMTt3YF5ZA&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQFnoECD4QAQ&uoh=1",
+    "snippet": "Reviews for Top 24 Hours Pharmacies · S. S. Medicals · New Apollo Pharamacy · New Apollo Pharamacy · Priya Medicals · Sri Shanthi Medicals · Sri Narayana ...",
     "snippet_highlighted_words": [
-     "Pharmacies near me - Google Maps"
+     "S. S. Medicals"
     ],
-    "source": "Google Maps",
-    "title": "Pharmacies near me"
+    "source": "Sulekha",
+    "title": "24 Hours Pharmacy, Medical Shops in Pallikaranai, Chennai"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjdqUkkyOW1Ld0JIY3dPTTU1U1NRbWJuMXkyM0ZUSkxabDlSSUIxckJDbGl0dVZfcWZlb3RxcUJ0VWRGX09iNmxqOVJmZEtJOEZsTVdwWVhjUThKM2pPSFJHaE0yUURYcHNWSmUzQlN4WTFnM25TbHUzQ0dhZGNPaEFQenN3WkthMklpYldRbUE3MFJMMndGdkdMU0pNeTg5aXBfUHg0MUNBZxIEGgIIABraBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC2BwgAEAAYACAAKi0KBXdoZXJlFQAAAAAaBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQV7MTuQBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFQAAAAAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMVOSizQBoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkVFFbnQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWN2pSSTI5bUt3Qkhjd09NNTVTU1FtYm4xeTIzRlRKTFpsOVJJQjFyQkNsaXR1Vl9xZmVvdHFxQnRVZEZfT2I2bGo5UmZkS0k4RmxNV3BZWGNROEozak9IUkdoTTJRRFhwc1ZKZTNCU3hZMWczblNsdTNDR2FkY09oQVB6c3daS2EySWliV1FtQTcwUkwyd0Z2R0xTSk15ODlpcF9QeDQxQ0FnOkU8Yj4yNCBIb3VycyBQaGFybWFjaWVzPC9iPiBOZWFyIE1lIGluIEl5eWFwcGFudGhhbmdhbCwgPGI-Q2hlbm5haTwvYj5CygFUb3AgMjQgSG91cnMgUGhhcm1hY2llcyBpbiBJeXlhcHBhbnRoYW5nYWwsIENoZW5uYWkgYXMgb24gSnVuIDI0LCAyMDI2ICZtaWRkb3Q7IDxiPlNjYXBob2lkIFBoYXJtYWN5PC9iPiAmbWlkZG90OyBMYWtzaG1pIE1lZGljYWxzICZtaWRkb3Q7IEtva2lsYSAxMiBIcnMgRmlyc3QgQWlkIFBvbHkgY2xpbmljICZtaWRkb3Q7IFNjYXBob2lkJm5ic3A7Li4uSgJpbkoDYXJlUgE3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjdqUkkyOW1Ld0JIY3dPTTU1U1NRbWJuMXkyM0ZUSkxabDlSSUIxckJDbGl0dVZfcWZlb3RxcUJ0VWRGX09iNmxqOVJmZEtJOEZsTVdwWVhjUThKM2pPSFJHaE0yUURYcHNWSmUzQlN4WTFnM25TbHUzQ0dhZGNPaEFQenN3WkthMklpYldRbUE3MFJMMndGdkdMU0pNeTg5aXBfUHg0MUNBZxIEGgIIABraBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC2BwgAEAAYACAAKi0KBXdoZXJlFQAAAAAaBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQV7MTuQBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFQAAAAAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMVOSizQBoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkVFFbnQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWN2pSSTI5bUt3Qkhjd09NNTVTU1FtYm4xeTIzRlRKTFpsOVJJQjFyQkNsaXR1Vl9xZmVvdHFxQnRVZEZfT2I2bGo5UmZkS0k4RmxNV3BZWGNROEozak9IUkdoTTJRRFhwc1ZKZTNCU3hZMWczblNsdTNDR2FkY09oQVB6c3daS2EySWliV1FtQTcwUkwyd0Z2R0xTSk15ODlpcF9QeDQxQ0FnOkU8Yj4yNCBIb3VycyBQaGFybWFjaWVzPC9iPiBOZWFyIE1lIGluIEl5eWFwcGFudGhhbmdhbCwgPGI-Q2hlbm5haTwvYj5CygFUb3AgMjQgSG91cnMgUGhhcm1hY2llcyBpbiBJeXlhcHBhbnRoYW5nYWwsIENoZW5uYWkgYXMgb24gSnVuIDI0LCAyMDI2ICZtaWRkb3Q7IDxiPlNjYXBob2lkIFBoYXJtYWN5PC9iPiAmbWlkZG90OyBMYWtzaG1pIE1lZGljYWxzICZtaWRkb3Q7IEtva2lsYSAxMiBIcnMgRmlyc3QgQWlkIFBvbHkgY2xpbmljICZtaWRkb3Q7IFNjYXBob2lkJm5ic3A7Li4uSgJpbkoDYXJlUgE3IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "To assess whether text-based reminders can encourage pharmacy vaccination and what kinds of messages work best, we conducted a megastudy. We randomly assigned ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoUlEQVR4AWPAA-aTgBuA2AGIBRioCP6Tg6EOUqCvAzDxfSAOoL8DMLEDtR3QgAVPAPkYV0hQ1wH4QQO1QwHTMMJgPRY9E-jpgAQsejYMtAP209MBEwYyBBRw5IYEWjpAAGpxPRC_x6FHYSALooaBLAkXDEhRDI2KArpWRtDEtx5qsQDtqmMiwfBwwKgDRh0wCkaBTOme_9TAg94Bow4YdQAACKXkCJrH9KAAAAAASUVORK5CYII.png",
-      "source_info_link": "https://www.pnas.org/doi/10.1073/pnas.2115126119"
+      "description": "Top 24 Hours Pharmacies in Iyyappanthangal, Chennai as on Jun 24, 2026 · Scaphoid Pharmacy · Lakshmi Medicals · Kokila 12 Hrs First Aid Poly clinic · Scaphoid ...",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+      "source_info_link": "https://www.sulekha.com/24-hours-pharmacies/iyyappanthangal-chennai"
      }
     },
-    "author": "by KL Milkman",
-    "displayed_link": "https://www.pnas.org › doi › pnas.2115126119",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoUlEQVR4AWPAA-aTgBuA2AGIBRioCP6Tg6EOUqCvAzDxfSAOoL8DMLEDtR3QgAVPAPkYV0hQ1wH4QQO1QwHTMMJgPRY9E-jpgAQsejYMtAP209MBEwYyBBRw5IYEWjpAAGpxPRC_x6FHYSALooaBLAkXDEhRDI2KArpWRtDEtx5qsQDtqmMiwfBwwKgDRh0wCkaBTOme_9TAg94Bow4YdQAACKXkCJrH9KAAAAAASUVORK5CYII.png",
-    "link": "https://www.pnas.org/doi/10.1073/pnas.2115126119",
+    "displayed_link": "https://www.sulekha.com › iyyappant...",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+    "link": "https://www.sulekha.com/24-hours-pharmacies/iyyappanthangal-chennai",
     "position": 5,
-    "read_more_link": "https://www.pnas.org/doi/10.1073/pnas.2115126119#:~:text=Encouraging%20vaccination%20is%20a%20pressing,a%20megastudy.%20We%20randomly%20assigned",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAV3XhHfhtaWEYSIjS5JHdoDAy2aS2XwoNPMYWcKeXUC5hgd94Oi4o1BYCRKoGQV6TKlqCic2SkrHh89mgY3Aa2uFJKmKeavDHgoUXWxUYW-yLjaC8XSVVZv2s13UGBOPOYBV_N&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQFnoECD4QAQ&uoh=1",
-    "snippet": "To assess whether text-based reminders can encourage pharmacy vaccination and what kinds of messages work best, we conducted a megastudy. We randomly assigned ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAV7jRI29mKwBHcwOM55SSQmbn1y23FTJLZl9RIB1rBClituV_qfeotqqBtUdF_Ob6lj9RfdKI8FlMWpYXcQ8J3jOHRGhM2QDXpsVJe3BSxY1g3nSlu3CGadcOhAPzswZKa2IibWQmA70RL2wFvGLSJMy89ip_Px41CAg&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQFnoECEAQAQ&uoh=1",
+    "snippet": "Top 24 Hours Pharmacies in Iyyappanthangal, Chennai as on Jun 24, 2026 · Scaphoid Pharmacy · Lakshmi Medicals · Kokila 12 Hrs First Aid Poly clinic · Scaphoid ...",
     "snippet_highlighted_words": [
-     "pharmacy"
+     "Scaphoid Pharmacy"
     ],
-    "source": "PNAS",
-    "title": "A 680000-person megastudy of nudges to encourage ..."
+    "source": "Sulekha",
+    "title": "24 Hours Pharmacies Near Me in Iyyappanthangal, Chennai"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlVkOVB0ZnpGTTVjNlpQNmY4QUtvLXVtUWVCSldSbWFsMXV0TmNqOGlZQ1Bmc2loRGRLNlRPQS1ZNTRQN2Mtc1VLQS1tMS16VHFDTnd1Q3BfMVNfVzVZWTdQbk5qZWZPTXJqRWxMb0RNMTJ3bHZLcDhqQ0RDNi1ybTNKTVhZTTJnTTUzcm5vUm45MVplTHNMc2lMak0xZzdJU3cSBBoCCAAa2QcSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAtQcIABAAGAAgACotCgV3aGVyZRUAAAAAGgbZiNmK2LEaCml2O2Q7d2hlcmUaC2l2O2Q72YjZitixKgoKA2FyZRUAAAAAKhoKAjI0FWLguUAaBjI0aG91choHaXY7bjsyNCqJAQoEaG91chUAAAAAGgE3GgFoGgVob3VycxoCaHIaA2hycxoI2LPYp9i52KkaBtmH2YjYsRoGMjRob3VyGglpdjtkO2hvdXIaBml2O2Q7aBoKaXY7ZDtob3VycxoHaXY7ZDtochoIaXY7ZDtocnMaDWl2O2Q72LPYp9i52YcaC2l2O2Q72YfZiNixKqcBCgpwaGFybWFjaWVzFby_yUAaA2N2cxoIbWVkaWNhbHMaCHBoYXJtYWN5Ggl3YWxncmVlbnMaDtin2YTYtdmK2K_ZhNipGg7YtdmK2K_ZhNmK2KfYqhoIaXY7ZDtjdnMaDWl2O2Q7bWVkaWNhbHMaDWl2O2Q7cGhhcm1hY3kaE2l2O2Q72KfZhNi12YrYr9mE2YcaE2l2O2Q72LXZitiv2YTZitin2KoqCQoCaW4VAAAAACo5CgdjaGVubmFpFQZ36UAaCti02YrZhtin2YoaDGl2O2Q7Y2hlbm5haRoPaXY7ZDvYtNmK2YbYp9mKMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlVkOVB0ZnpGTTVjNlpQNmY4QUtvLXVtUWVCSldSbWFsMXV0TmNqOGlZQ1Bmc2loRGRLNlRPQS1ZNTRQN2Mtc1VLQS1tMS16VHFDTnd1Q3BfMVNfVzVZWTdQbk5qZWZPTXJqRWxMb0RNMTJ3bHZLcDhqQ0RDNi1ybTNKTVhZTTJnTTUzcm5vUm45MVplTHNMc2lMak0xZzdJU3c6RDxiPjI0IEhvdXJzIFBoYXJtYWN5PC9iPiwgTWVkaWNhbCBTaG9wcyBpbiBNYW5kYXZlbGksIDxiPkNoZW5uYWk8L2I-QtIBPGI-VG9wIDI0IEhvdXJzIFBoYXJtYWNpZXMgaW4gTWFuZGF2ZWxpLCBDaGVubmFpPC9iPiAmbWlkZG90OyBLYXJwYWdhbSBNZWRpY2FscyAmbWlkZG90OyBTcmkgS3VtYXJhbiBNZWRpY2FscyAmbWlkZG90OyBSLksuIFBoYXJtYWN5ICZtaWRkb3Q7IFBvaW50IHRvIFBvaW50IFRlbGVjb20gU2VydmljZXMgJm1pZGRvdDsgU3JpIE1hcnVuZGVlc3dhcmFyJm5ic3A7Li4uSgJpbkoDYXJlUgE3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlVkOVB0ZnpGTTVjNlpQNmY4QUtvLXVtUWVCSldSbWFsMXV0TmNqOGlZQ1Bmc2loRGRLNlRPQS1ZNTRQN2Mtc1VLQS1tMS16VHFDTnd1Q3BfMVNfVzVZWTdQbk5qZWZPTXJqRWxMb0RNMTJ3bHZLcDhqQ0RDNi1ybTNKTVhZTTJnTTUzcm5vUm45MVplTHNMc2lMak0xZzdJU3cSBBoCCAAa2QcSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAtQcIABAAGAAgACotCgV3aGVyZRUAAAAAGgbZiNmK2LEaCml2O2Q7d2hlcmUaC2l2O2Q72YjZitixKgoKA2FyZRUAAAAAKhoKAjI0FWLguUAaBjI0aG91choHaXY7bjsyNCqJAQoEaG91chUAAAAAGgE3GgFoGgVob3VycxoCaHIaA2hycxoI2LPYp9i52KkaBtmH2YjYsRoGMjRob3VyGglpdjtkO2hvdXIaBml2O2Q7aBoKaXY7ZDtob3VycxoHaXY7ZDtochoIaXY7ZDtocnMaDWl2O2Q72LPYp9i52YcaC2l2O2Q72YfZiNixKqcBCgpwaGFybWFjaWVzFby_yUAaA2N2cxoIbWVkaWNhbHMaCHBoYXJtYWN5Ggl3YWxncmVlbnMaDtin2YTYtdmK2K_ZhNipGg7YtdmK2K_ZhNmK2KfYqhoIaXY7ZDtjdnMaDWl2O2Q7bWVkaWNhbHMaDWl2O2Q7cGhhcm1hY3kaE2l2O2Q72KfZhNi12YrYr9mE2YcaE2l2O2Q72LXZitiv2YTZitin2KoqCQoCaW4VAAAAACo5CgdjaGVubmFpFQZ36UAaCti02YrZhtin2YoaDGl2O2Q7Y2hlbm5haRoPaXY7ZDvYtNmK2YbYp9mKMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlVkOVB0ZnpGTTVjNlpQNmY4QUtvLXVtUWVCSldSbWFsMXV0TmNqOGlZQ1Bmc2loRGRLNlRPQS1ZNTRQN2Mtc1VLQS1tMS16VHFDTnd1Q3BfMVNfVzVZWTdQbk5qZWZPTXJqRWxMb0RNMTJ3bHZLcDhqQ0RDNi1ybTNKTVhZTTJnTTUzcm5vUm45MVplTHNMc2lMak0xZzdJU3c6RDxiPjI0IEhvdXJzIFBoYXJtYWN5PC9iPiwgTWVkaWNhbCBTaG9wcyBpbiBNYW5kYXZlbGksIDxiPkNoZW5uYWk8L2I-QtIBPGI-VG9wIDI0IEhvdXJzIFBoYXJtYWNpZXMgaW4gTWFuZGF2ZWxpLCBDaGVubmFpPC9iPiAmbWlkZG90OyBLYXJwYWdhbSBNZWRpY2FscyAmbWlkZG90OyBTcmkgS3VtYXJhbiBNZWRpY2FscyAmbWlkZG90OyBSLksuIFBoYXJtYWN5ICZtaWRkb3Q7IFBvaW50IHRvIFBvaW50IFRlbGVjb20gU2VydmljZXMgJm1pZGRvdDsgU3JpIE1hcnVuZGVlc3dhcmFyJm5ic3A7Li4uSgJpbkoDYXJlUgE3IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Pharmacy Help Desk is available at 844-673-0910. Representatives are available to assist pharmacies with questions about the claims submission ...",
-      "icon": "https://serpapi.com/images/i/UklGRt4BAABXRUJQVlA4INIBAAAQCQCdASogACAAPtFAtFooIqgoFAEAGglkALsOIA3j6uPvi3Knnr_1LxdYWP_jfcB7RPnY9eHf_sZVdjsCdh31SykdMjYhtlx8UDomkl66rmgA_vzVvxS-bSZf-tbtxI5w4RSTbJjX_gehRtRIlQPDHrwLfy-Lo_yp4z3E5NgC9Ugw3FnciwEiyxSvb81Mfjw__8zvn1R33n2bhmwLTVQUBLmOELss5v3m34Y4au37-5bO6d3oipzk1Iv_h49TmunUgH2GnF_78Hwjlbx927H9FNFCn1thhPCUaaDHnUn70LIXZcBsj_Wk5DnbXb8zJigtwAohJT9LyGE7Q5U_P9tT_zqd3vs1XvMf7fnW5rbXUEHLnjXr6U2U_VgJf8nrIO8p3-HmE8-G5WM9xal8A17TAvrF88B3QoeZd4-Lq_0of7xn08XI2_EKA2whTqg_6Ttv1MHn5lj5zTTb0nMn_J3HReBF0UH6woS4gP9Zb1wQFtqNHZvrdYjdtWFWACXM2M0NvRv_4V_qHIfqq6hxMVfm5qfEUXBVmX54jQdL2pi-9zPHfUnYVUlaBlfiTT7uFaCHByODUYtsA2OqAt4VMc7oEr-D62-4EXqc7tJ_6ngAAAAA.webp",
-      "source_info_link": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-pharmacies"
+      "description": "Top 24 Hours Pharmacies in Mandaveli, Chennai · Karpagam Medicals · Sri Kumaran Medicals · R.K. Pharmacy · Point to Point Telecom Services · Sri Marundeeswarar ...",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+      "source_info_link": "https://www.sulekha.com/24-hours-pharmacies/mandaveli-chennai"
      }
     },
-    "date": "Aug 17, 2026",
-    "displayed_link": "https://www.cms.gov › coverage › medicare-glp-1-bridge",
-    "favicon": "https://serpapi.com/images/i/UklGRt4BAABXRUJQVlA4INIBAAAQCQCdASogACAAPtFAtFooIqgoFAEAGglkALsOIA3j6uPvi3Knnr_1LxdYWP_jfcB7RPnY9eHf_sZVdjsCdh31SykdMjYhtlx8UDomkl66rmgA_vzVvxS-bSZf-tbtxI5w4RSTbJjX_gehRtRIlQPDHrwLfy-Lo_yp4z3E5NgC9Ugw3FnciwEiyxSvb81Mfjw__8zvn1R33n2bhmwLTVQUBLmOELss5v3m34Y4au37-5bO6d3oipzk1Iv_h49TmunUgH2GnF_78Hwjlbx927H9FNFCn1thhPCUaaDHnUn70LIXZcBsj_Wk5DnbXb8zJigtwAohJT9LyGE7Q5U_P9tT_zqd3vs1XvMf7fnW5rbXUEHLnjXr6U2U_VgJf8nrIO8p3-HmE8-G5WM9xal8A17TAvrF88B3QoeZd4-Lq_0of7xn08XI2_EKA2whTqg_6Ttv1MHn5lj5zTTb0nMn_J3HReBF0UH6woS4gP9Zb1wQFtqNHZvrdYjdtWFWACXM2M0NvRv_4V_qHIfqq6hxMVfm5qfEUXBVmX54jQdL2pi-9zPHfUnYVUlaBlfiTT7uFaCHByODUYtsA2OqAt4VMc7oEr-D62-4EXqc7tJ_6ngAAAAA.webp",
-    "link": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-pharmacies",
+    "displayed_link": "https://www.sulekha.com › mandavel...",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+    "link": "https://www.sulekha.com/24-hours-pharmacies/mandaveli-chennai",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFTsvKXXWmJnNXoRgFW1SgTIpdbPM_ktIdhbXvgYJDWZeT6OUKf3P1Cwo2XbnASrlP1qCFchcqvxZiLSdfX0A5q7WGqd9A7uAzzKrMOetXFQeMV3cc3i5hAFmgT681tmGh6F2GW9wGFY8DHjftV508q5f8CZS66wAbVNqHcztVx0orw6kpMNhPb9lbL3VnggxeP09awksaPzQH-G--WNwnlk&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQFnoECEgQAQ&uoh=1",
-    "snippet": "Pharmacy Help Desk is available at 844-673-0910. Representatives are available to assist pharmacies with questions about the claims submission ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVUd9PtfzFM5c6ZP6f8AKo-umQeBJWRmal1utNcj8iYCPfsihDdK6TOA-Y54P7c-sUKA-m1-zTqCNwuCp_1S_W5YY7PnNjefOMrjElLoDM12wlvKp8jCDC6-rm3JMXYM2gM53rnoRn91ZeLsLsiLjM1g7ISw&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQFnoECD8QAQ&uoh=1",
+    "snippet": "Top 24 Hours Pharmacies in Mandaveli, Chennai · Karpagam Medicals · Sri Kumaran Medicals · R.K. Pharmacy · Point to Point Telecom Services · Sri Marundeeswarar ...",
     "snippet_highlighted_words": [
-     "Pharmacy",
-     "pharmacies"
+     "Top 24 Hours Pharmacies in Mandaveli, Chennai"
     ],
-    "source": "Centers for Medicare & Medicaid Services | CMS (.gov)",
-    "title": "Information for Pharmacies"
+    "source": "Sulekha",
+    "title": "24 Hours Pharmacy, Medical Shops in Mandaveli, Chennai"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVkt1bjFVUElneHdUMjYtS18yM2J0SC1CUTB5bDYzTERQdW5QQlB1ZDM2MWkzdE1HY0lrcGJjSkFxWk1LWExldTZRb2NhcWh0VFRiWElxU08zYmx3d1dlUWtNcGxfdmM0XzZZazB3dkwyLU5aWXZSNnpsTjAyTmRfRFhCUDdmSm96VW0tMy1EMGlseXJ4bjBrNXJfWWVVMGR3OWpfY2lEd0oSBBoCCAAa0gcSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJArgcIABAAGAAgACotCgV3aGVyZRUAAAAAGgbZiNmK2LEaCml2O2Q7d2hlcmUaC2l2O2Q72YjZitixKgoKA2FyZRUAAAAAKhoKAjI0FX8EtUAaBjI0aG91choHaXY7bjsyNCqJAQoEaG91chUAAAAAGgE3GgFoGgVob3VycxoCaHIaA2hycxoI2LPYp9i52KkaBtmH2YjYsRoGMjRob3VyGglpdjtkO2hvdXIaBml2O2Q7aBoKaXY7ZDtob3VycxoHaXY7ZDtochoIaXY7ZDtocnMaDWl2O2Q72LPYp9i52YcaC2l2O2Q72YfZiNixKqcBCgpwaGFybWFjaWVzFSAtvUAaA2N2cxoIbWVkaWNhbHMaCHBoYXJtYWN5Ggl3YWxncmVlbnMaDtin2YTYtdmK2K_ZhNipGg7YtdmK2K_ZhNmK2KfYqhoIaXY7ZDtjdnMaDWl2O2Q7bWVkaWNhbHMaDWl2O2Q7cGhhcm1hY3kaE2l2O2Q72KfZhNi12YrYr9mE2YcaE2l2O2Q72LXZitiv2YTZitin2KoqCQoCaW4VAAAAACo5CgdjaGVubmFpFVBP3kAaCti02YrZhtin2YoaDGl2O2Q7Y2hlbm5haRoPaXY7ZDvYtNmK2YbYp9mKMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVkt1bjFVUElneHdUMjYtS18yM2J0SC1CUTB5bDYzTERQdW5QQlB1ZDM2MWkzdE1HY0lrcGJjSkFxWk1LWExldTZRb2NhcWh0VFRiWElxU08zYmx3d1dlUWtNcGxfdmM0XzZZazB3dkwyLU5aWXZSNnpsTjAyTmRfRFhCUDdmSm96VW0tMy1EMGlseXJ4bjBrNXJfWWVVMGR3OWpfY2lEd0o6RDxiPjI0IEhvdXJzIFBoYXJtYWNpZXM8L2I-IE5lYXIgTWUgaW4gTW9nYXBwYWlyIFdlc3QsIDxiPkNoZW5uYWk8L2I-QsUBVG9wIDI0IEhvdXJzIFBoYXJtYWNpZXMgaW4gTW9nYXBwYWlyIFdlc3QsIENoZW5uYWkgJm1pZGRvdDsgPGI-Ui5KLiBNZWRpY2FsczwvYj4gJm1pZGRvdDsgU2FyYXZhbmEgUGhhcm1hY3kgJm1pZGRvdDsgTXVydWdhbiBNZWRpY2Fscy4gTW9nYXBwYWlyIFdlc3QsIENoZW5uYWksIDYwMDA1OC4gQWxsb3BhdGh5IFBoYXJtYWNpZXMmbmJzcDsuLi5KA2FyZUoCaW5SATciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVkt1bjFVUElneHdUMjYtS18yM2J0SC1CUTB5bDYzTERQdW5QQlB1ZDM2MWkzdE1HY0lrcGJjSkFxWk1LWExldTZRb2NhcWh0VFRiWElxU08zYmx3d1dlUWtNcGxfdmM0XzZZazB3dkwyLU5aWXZSNnpsTjAyTmRfRFhCUDdmSm96VW0tMy1EMGlseXJ4bjBrNXJfWWVVMGR3OWpfY2lEd0oSBBoCCAAa0gcSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJArgcIABAAGAAgACotCgV3aGVyZRUAAAAAGgbZiNmK2LEaCml2O2Q7d2hlcmUaC2l2O2Q72YjZitixKgoKA2FyZRUAAAAAKhoKAjI0FX8EtUAaBjI0aG91choHaXY7bjsyNCqJAQoEaG91chUAAAAAGgE3GgFoGgVob3VycxoCaHIaA2hycxoI2LPYp9i52KkaBtmH2YjYsRoGMjRob3VyGglpdjtkO2hvdXIaBml2O2Q7aBoKaXY7ZDtob3VycxoHaXY7ZDtochoIaXY7ZDtocnMaDWl2O2Q72LPYp9i52YcaC2l2O2Q72YfZiNixKqcBCgpwaGFybWFjaWVzFSAtvUAaA2N2cxoIbWVkaWNhbHMaCHBoYXJtYWN5Ggl3YWxncmVlbnMaDtin2YTYtdmK2K_ZhNipGg7YtdmK2K_ZhNmK2KfYqhoIaXY7ZDtjdnMaDWl2O2Q7bWVkaWNhbHMaDWl2O2Q7cGhhcm1hY3kaE2l2O2Q72KfZhNi12YrYr9mE2YcaE2l2O2Q72LXZitiv2YTZitin2KoqCQoCaW4VAAAAACo5CgdjaGVubmFpFVBP3kAaCti02YrZhtin2YoaDGl2O2Q7Y2hlbm5haRoPaXY7ZDvYtNmK2YbYp9mKMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVkt1bjFVUElneHdUMjYtS18yM2J0SC1CUTB5bDYzTERQdW5QQlB1ZDM2MWkzdE1HY0lrcGJjSkFxWk1LWExldTZRb2NhcWh0VFRiWElxU08zYmx3d1dlUWtNcGxfdmM0XzZZazB3dkwyLU5aWXZSNnpsTjAyTmRfRFhCUDdmSm96VW0tMy1EMGlseXJ4bjBrNXJfWWVVMGR3OWpfY2lEd0o6RDxiPjI0IEhvdXJzIFBoYXJtYWNpZXM8L2I-IE5lYXIgTWUgaW4gTW9nYXBwYWlyIFdlc3QsIDxiPkNoZW5uYWk8L2I-QsUBVG9wIDI0IEhvdXJzIFBoYXJtYWNpZXMgaW4gTW9nYXBwYWlyIFdlc3QsIENoZW5uYWkgJm1pZGRvdDsgPGI-Ui5KLiBNZWRpY2FsczwvYj4gJm1pZGRvdDsgU2FyYXZhbmEgUGhhcm1hY3kgJm1pZGRvdDsgTXVydWdhbiBNZWRpY2Fscy4gTW9nYXBwYWlyIFdlc3QsIENoZW5uYWksIDYwMDA1OC4gQWxsb3BhdGh5IFBoYXJtYWNpZXMmbmJzcDsuLi5KA2FyZUoCaW5SATciAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "This article is about the science and practice of Pharmacy. For community pharmacies, see Pharmacy (shop). Practice areas 5.1 Community pharmacy 5.2 Hospital  ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Pharmacy"
+      "description": "Top 24 Hours Pharmacies in Mogappair West, Chennai · R.J. Medicals · Saravana Pharmacy · Murugan Medicals. Mogappair West, Chennai, 600058. Allopathy Pharmacies ...",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+      "source_info_link": "https://www.sulekha.com/24-hours-pharmacies/mogappair-west-chennai"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › Pharmacy",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Pharmacy",
+    "displayed_link": "https://www.sulekha.com › mogappai...",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+    "link": "https://www.sulekha.com/24-hours-pharmacies/mogappair-west-chennai",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVTvFJtWEnMdDq3IAgiY3xMK_6bO0AdE98EoGEADJCKMt8ZYjOA3Dt4nviXJS6MUvIXuDCXBm_kaVxfOb6QH-7KIfXFZkSIuzJ0qV4HACPoN2uxbWNys0cQQM&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQFnoECEQQAQ&uoh=1",
-    "snippet": "This article is about the science and practice of Pharmacy. For community pharmacies, see Pharmacy (shop). Practice areas 5.1 Community pharmacy 5.2 Hospital ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVKun1UPIgxwT26-K_23btH-BQ0yl63LDPunPBPud361i3tMGcIkpbcJAqZMKXLeu6QocaqhtTTbXIqSO3blwwWeQkMpl_vc4_6Yk0wvL2-NZYvR6zlN02Nd_DXBP7fJozUm-3-D0ilyrxn0k5r_YeU0dw9j_ciDwJ&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQFnoECDoQAQ&uoh=1",
+    "snippet": "Top 24 Hours Pharmacies in Mogappair West, Chennai · R.J. Medicals · Saravana Pharmacy · Murugan Medicals. Mogappair West, Chennai, 600058. Allopathy Pharmacies ...",
     "snippet_highlighted_words": [
-     "Pharmacy",
-     "pharmacies",
-     "Pharmacy",
-     "pharmacy"
+     "R.J. Medicals"
     ],
-    "source": "Wikipedia",
-    "title": "Pharmacy"
+    "source": "Sulekha",
+    "title": "24 Hours Pharmacies Near Me in Mogappair West, Chennai"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVnowT2pKOWtPTDZuSXVSaThfN0FfU000TF9VMG03bElINWNFUzVGUU82Y2FOUUc5cG5tS0thcFJZMW95SUtjVXJ2UUtHOGNIZ1ZqNUp5eXF4V2llMWFSeXJQVFVMUmF1SzRmb3AtYlBXTjB1Zm03UE15NVpHd3gxMHpZMDVzQUF5SV9fMTdGYk1rQXgycUFHcEtKSzNIV1RXNzFiTxIEGgIIABqtBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCJBwgAEAAYACAAKi0KBXdoZXJlFQAAAAAaBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQVUBKwQBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFQAAAAAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMVs_K2QBoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkVMb_YQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWejBPako5a09MNm5JdVJpOF83QV9TTTRMX1UwbTdsSUg1Y0VTNUZRTzZjYU5RRzlwbm1LS2FwUlkxb3lJS2NVcnZRS0c4Y0hnVmo1Snl5cXhXaWUxYVJ5clBUVUxSYXVLNGZvcC1iUFdOMHVmbTdQTXk1Wkd3eDEwelkwNXNBQXlJX18xN0ZiTWtBeDJxQUdwS0pLM0hXVFc3MWJPOkY8Yj4yNCBIb3VycyBQaGFybWFjeTwvYj4sIE1lZGljYWwgU2hvcHMgaW4gUGVydW1iYWtrYW0sIDxiPkNoZW5uYWk8L2I-QqIBPGI-MjQgSG91cnMgUGhhcm1hY3kgaW4gUGVydW1iYWtrYW0sIENoZW5uYWk8L2I-IC0gTGlzdCBvZiAyNCBocnMgb3BlbiBjaGVtaXN0cywgbWVkaWNhbCBzaG9wcywgZHJ1ZyBzdG9yZXMgaW4gUGVydW1iYWtrYW0gYW5kIGdldCBhZnRlciBob3VycyBsYXRlIG5pZ2h0Jm5ic3A7Li4uSgJpbkoDYXJlUgE3IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVnowT2pKOWtPTDZuSXVSaThfN0FfU000TF9VMG03bElINWNFUzVGUU82Y2FOUUc5cG5tS0thcFJZMW95SUtjVXJ2UUtHOGNIZ1ZqNUp5eXF4V2llMWFSeXJQVFVMUmF1SzRmb3AtYlBXTjB1Zm03UE15NVpHd3gxMHpZMDVzQUF5SV9fMTdGYk1rQXgycUFHcEtKSzNIV1RXNzFiTxIEGgIIABqtBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCJBwgAEAAYACAAKi0KBXdoZXJlFQAAAAAaBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQVUBKwQBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFQAAAAAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMVs_K2QBoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkVMb_YQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWejBPako5a09MNm5JdVJpOF83QV9TTTRMX1UwbTdsSUg1Y0VTNUZRTzZjYU5RRzlwbm1LS2FwUlkxb3lJS2NVcnZRS0c4Y0hnVmo1Snl5cXhXaWUxYVJ5clBUVUxSYXVLNGZvcC1iUFdOMHVmbTdQTXk1Wkd3eDEwelkwNXNBQXlJX18xN0ZiTWtBeDJxQUdwS0pLM0hXVFc3MWJPOkY8Yj4yNCBIb3VycyBQaGFybWFjeTwvYj4sIE1lZGljYWwgU2hvcHMgaW4gUGVydW1iYWtrYW0sIDxiPkNoZW5uYWk8L2I-QqIBPGI-MjQgSG91cnMgUGhhcm1hY3kgaW4gUGVydW1iYWtrYW0sIENoZW5uYWk8L2I-IC0gTGlzdCBvZiAyNCBocnMgb3BlbiBjaGVtaXN0cywgbWVkaWNhbCBzaG9wcywgZHJ1ZyBzdG9yZXMgaW4gUGVydW1iYWtrYW0gYW5kIGdldCBhZnRlciBob3VycyBsYXRlIG5pZ2h0Jm5ic3A7Li4uSgJpbkoDYXJlUgE3IgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies.",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAACQAgCdASoQABAAAsBMJYgCdEf_i1oN9kw1-FPKwAD-7bP9UMdGMplosXrokSbt4WH8hsal01r70iSaPvyFm1U_tYSkbIR9sRsul-i_Natf-yf-b25d_nyaPuYQ6GiZb2fYRVvhMT8Bwv_r58yX5ehHCu37CsbLYNUXBAtzZ5pPXHfBoJyHG8P4AtCG6ZLeoAA.webp",
-      "source_info_link": "https://www.ftc.gov/reports/pharmacy-benefit-managers-report"
+      "description": "24 Hours Pharmacy in Perumbakkam, Chennai - List of 24 hrs open chemists, medical shops, drug stores in Perumbakkam and get after hours late night ...",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+      "source_info_link": "https://www.sulekha.com/24-hours-pharmacies/perumbakkam-chennai"
      }
     },
-    "date": "Jul 9, 2024",
-    "displayed_link": "https://www.ftc.gov › reports › pharmacy-benefit-manag...",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAACQAgCdASoQABAAAsBMJYgCdEf_i1oN9kw1-FPKwAD-7bP9UMdGMplosXrokSbt4WH8hsal01r70iSaPvyFm1U_tYSkbIR9sRsul-i_Natf-yf-b25d_nyaPuYQ6GiZb2fYRVvhMT8Bwv_r58yX5ehHCu37CsbLYNUXBAtzZ5pPXHfBoJyHG8P4AtCG6ZLeoAA.webp",
-    "link": "https://www.ftc.gov/reports/pharmacy-benefit-managers-report",
+    "displayed_link": "https://www.sulekha.com › perumbak...",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+    "link": "https://www.sulekha.com/24-hours-pharmacies/perumbakkam-chennai",
     "position": 8,
-    "read_more_link": "https://www.ftc.gov/reports/pharmacy-benefit-managers-report#:~:text=Pharmacy%20Benefit%20Managers%3A%20The%20Powerful,and%20Squeezing%20Main%20Street%20Pharmacies",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVxcVmkhMy2S7QQr2E55ury3rx0HOfaYLBNbfthAAN9slO1UQtl1vGvkRUAHOUMhef51xMq_H9dZDZO_7e4RXC4k8csqrZ1BFAMgbMxQxtKauIjigaD5up3tPfEe1FGRNQO_Nc4UXaPnUFTkH1kFFF&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQFnoECEcQAQ&uoh=1",
-    "snippet": "Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVz0OjJ9kOL6nIuRi8_7A_SM4L_U0m7lIH5cES5FQO6caNQG9pnmKKapRY1oyIKcUrvQKG8cHgVj5JyyqxWie1aRyrPTULRauK4fop-bPWN0ufm7PMy5ZGwx10zY05sAAyI__17FbMkAx2qAGpKJK3HWTW71bO&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQFnoECEMQAQ&uoh=1",
+    "snippet": "24 Hours Pharmacy in Perumbakkam, Chennai - List of 24 hrs open chemists, medical shops, drug stores in Perumbakkam and get after hours late night ...",
     "snippet_highlighted_words": [
-     "Pharmacy",
-     "Pharmacies"
+     "24 Hours Pharmacy in Perumbakkam, Chennai"
     ],
-    "source": "Federal Trade Commission (.gov)",
-    "title": "Pharmacy Benefit Managers: The Powerful Middlemen ..."
+    "source": "Sulekha",
+    "title": "24 Hours Pharmacies Near Me in Perumbakkam, Chennai"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlFfWHNRREdQa3djXzZKNktnWFJvdGp2RXozLVQwbEt1eHFTQm80R2twZWRfOFRmRjlOTUF6bi1nd1ZGeXVUc2d3dUM3R3E2ZU1aZFYzZjFQQ0JxZmpHZTJWMDhBQk9Ja2tPX2FVZW5wUWZQb0ZhN2owOWxVNUdCV1VBLW4xNTZrZEF6dnM2T3JCcE94R1J0MXVueEZtZxIEGgIIABrYBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC0BwgAEAAYACAAKi0KBXdoZXJlFZ-utz0aBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQVVae4QBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFQAAAAAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMVha_OQBoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkViC3tQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWUV9Yc1FER1Brd2NfNko2S2dYUm90anZFejMtVDBsS3V4cVNCbzRHa3BlZF84VGZGOU5NQXpuLWd3VkZ5dVRzZ3d1QzdHcTZlTVpkVjNmMVBDQnFmakdlMlYwOEFCT0lra09fYVVlbnBRZlBvRmE3ajA5bFU1R0JXVUEtbjE1NmtkQXp2czZPckJwT3hHUnQxdW54Rm1nOkE8Yj4yNCBIb3VycyBQaGFybWFjeTwvYj4sIE1lZGljYWwgU2hvcHMgaW4gTWFuYWxpLCA8Yj5DaGVubmFpPC9iPkLYAVRvcCAyNCBIb3VycyBQaGFybWFjaWVzIGluIE1hbmFsaSwgQ2hlbm5haSAmbWlkZG90OyA8Yj5BcG9sbG8gUGhhcm1hY3kgTWFuYWxpPC9iPiAmbWlkZG90OyBCYWxhamkgTWVkaWNhbHMgU3RvcmUgJm1pZGRvdDsgUGlsbCAmYW1wOyBQb3dkZXIgJm1pZGRvdDsgQXBvbGxvIFBoYXJtYWN5ICZtaWRkb3Q7IE1hbmkgTWVkaWNhbHMgJm1pZGRvdDsgT20gU2hha3RoaSZuYnNwOy4uLkoDYXJlSgJpblIBNyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlFfWHNRREdQa3djXzZKNktnWFJvdGp2RXozLVQwbEt1eHFTQm80R2twZWRfOFRmRjlOTUF6bi1nd1ZGeXVUc2d3dUM3R3E2ZU1aZFYzZjFQQ0JxZmpHZTJWMDhBQk9Ja2tPX2FVZW5wUWZQb0ZhN2owOWxVNUdCV1VBLW4xNTZrZEF6dnM2T3JCcE94R1J0MXVueEZtZxIEGgIIABrYBxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC0BwgAEAAYACAAKi0KBXdoZXJlFZ-utz0aBtmI2YrYsRoKaXY7ZDt3aGVyZRoLaXY7ZDvZiNmK2LEqCgoDYXJlFQAAAAAqGgoCMjQVVae4QBoGMjRob3VyGgdpdjtuOzI0KokBCgRob3VyFQAAAAAaATcaAWgaBWhvdXJzGgJochoDaHJzGgjYs9in2LnYqRoG2YfZiNixGgYyNGhvdXIaCWl2O2Q7aG91choGaXY7ZDtoGgppdjtkO2hvdXJzGgdpdjtkO2hyGghpdjtkO2hycxoNaXY7ZDvYs9in2LnZhxoLaXY7ZDvZh9mI2LEqpwEKCnBoYXJtYWNpZXMVha_OQBoDY3ZzGghtZWRpY2FscxoIcGhhcm1hY3kaCXdhbGdyZWVucxoO2KfZhNi12YrYr9mE2KkaDti12YrYr9mE2YrYp9iqGghpdjtkO2N2cxoNaXY7ZDttZWRpY2FscxoNaXY7ZDtwaGFybWFjeRoTaXY7ZDvYp9mE2LXZitiv2YTZhxoTaXY7ZDvYtdmK2K_ZhNmK2KfYqioJCgJpbhUAAAAAKjkKB2NoZW5uYWkViC3tQBoK2LTZitmG2KfZihoMaXY7ZDtjaGVubmFpGg9pdjtkO9i02YrZhtin2YoyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWUV9Yc1FER1Brd2NfNko2S2dYUm90anZFejMtVDBsS3V4cVNCbzRHa3BlZF84VGZGOU5NQXpuLWd3VkZ5dVRzZ3d1QzdHcTZlTVpkVjNmMVBDQnFmakdlMlYwOEFCT0lra09fYVVlbnBRZlBvRmE3ajA5bFU1R0JXVUEtbjE1NmtkQXp2czZPckJwT3hHUnQxdW54Rm1nOkE8Yj4yNCBIb3VycyBQaGFybWFjeTwvYj4sIE1lZGljYWwgU2hvcHMgaW4gTWFuYWxpLCA8Yj5DaGVubmFpPC9iPkLYAVRvcCAyNCBIb3VycyBQaGFybWFjaWVzIGluIE1hbmFsaSwgQ2hlbm5haSAmbWlkZG90OyA8Yj5BcG9sbG8gUGhhcm1hY3kgTWFuYWxpPC9iPiAmbWlkZG90OyBCYWxhamkgTWVkaWNhbHMgU3RvcmUgJm1pZGRvdDsgUGlsbCAmYW1wOyBQb3dkZXIgJm1pZGRvdDsgQXBvbGxvIFBoYXJtYWN5ICZtaWRkb3Q7IE1hbmkgTWVkaWNhbHMgJm1pZGRvdDsgT20gU2hha3RoaSZuYnNwOy4uLkoDYXJlSgJpblIBNyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Our pharmacies are strictly controlled by state agencies, and surprise visits by inspectors are not uncommon. I had not known it is so ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=Nuzi7LlSDVo"
+      "description": "Top 24 Hours Pharmacies in Manali, Chennai · Apollo Pharmacy Manali · Balaji Medicals Store · Pill & Powder · Apollo Pharmacy · Mani Medicals · Om Shakthi ...",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+      "source_info_link": "https://www.sulekha.com/24-hours-pharmacies/manali-chennai"
      }
     },
-    "date": "Sep 29, 2019",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=Nuzi7LlSDVo",
+    "displayed_link": "https://www.sulekha.com › manali-ch...",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAAsBMJbACdDiAN4vIikkKOxXXL9QiAAD--rAJCBKSpY810l_YGo1mj9pm2ZB8vrVgWdgCbGQTGiiuuvZcM4QS-XA_rWnyNE3SktgjyspxBO-vAQ8R1LYUzaViJ_wX9UyD7KE-zUr_6aTx_mXQNc-Dvpo5f6O-a_fcAIt_RjQt_4JCj_TMC9WZe78ecXnK5AAA.webp",
+    "link": "https://www.sulekha.com/24-hours-pharmacies/manali-chennai",
     "position": 9,
-    "read_more_link": "https://www.youtube.com/watch?v=Nuzi7LlSDVo#:~:text=Our%20pharmacies%20are%20strictly%20controlled,so%20different%20in%20the%20US....",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV9GCheSSZx0PNQFMMEdVfSbtD93IEJDZMV_naYMR1bCrWG9PKNUX4NxRqdYPhKW-AU-N7uptdlHQYo6KoSoyF0M0Ptz5ZdwSQIK02h8J1_yMoWeXF7uY1R51B4FXu3Q&ved=2ahUKEwiaje3Sjf2WAxUkKFkFHcD0B2gQFnoECD8QAQ&uoh=1",
-    "snippet": "Our pharmacies are strictly controlled by state agencies, and surprise visits by inspectors are not uncommon. I had not known it is so ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVQ_XsQDGPkwc_6J6KgXRotjvEz3-T0lKuxqSBo4Gkped_8TfF9NMAzn-gwVFyuTsgwuC7Gq6eMZdV3f1PCBqfjGe2V08ABOIkkO_aUenpQfPoFa7j09lU5GBWUA-n156kdAzvs6OrBpOxGRt1unxFmg&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQFnoECDkQAQ&uoh=1",
+    "snippet": "Top 24 Hours Pharmacies in Manali, Chennai · Apollo Pharmacy Manali · Balaji Medicals Store · Pill & Powder · Apollo Pharmacy · Mani Medicals · Om Shakthi ...",
     "snippet_highlighted_words": [
-     "pharmacies"
+     "Apollo Pharmacy Manali"
     ],
-    "source": "YouTube",
-    "title": "Compounding Pharmacies: Last Week Tonight with John ..."
+    "source": "Sulekha",
+    "title": "24 Hours Pharmacy, Medical Shops in Manali, Chennai"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=Where+are+24+hour+pharmacies+in+Chennai?&sca_esv=c16286b74a8621df&sxsrf=APpeQntobTtDZn_lobRhrdAaLnmllVKZuw:1790544665404&ei=GYu5asWcGPaUxc8PsqfmqAU&start=10&sa=N&sstk=AS6-VmK7aqVAd5TqowSstOP5So-8Ltb2fuHBKDbIju_cSzWAxXNbcEHKC6qlJnN6EoU_6a5nMheLmievQy8egzYKZXS7rP2WsAfFqw&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQ8NMDegQIOBAG",
+   "other_pages": {
+    "2": "https://www.google.com/search?q=Where+are+24+hour+pharmacies+in+Chennai?&sca_esv=c16286b74a8621df&sxsrf=APpeQntobTtDZn_lobRhrdAaLnmllVKZuw:1790544665404&ei=GYu5asWcGPaUxc8PsqfmqAU&start=10&sa=N&sstk=AS6-VmK7aqVAd5TqowSstOP5So-8Ltb2fuHBKDbIju_cSzWAxXNbcEHKC6qlJnN6EoU_6a5nMheLmievQy8egzYKZXS7rP2WsAfFqw&ved=2ahUKEwiFjfHV2o-XAxV2SvEDHbKTGVUQ8tMDegQIOBAE"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS04yeFJVMU5vT0ROM1drUjJhazVTYjJSVk5uSjNiamQyUkVSMmFFbExSR2R0Y1dvM1JWRjZVbWsyV2tGWU5qUTJPRWw0WjJWd2NVaG1PREZvVUhGTFJFUXhWa3BIVWpScmIzQnhlWGhvVkhWWFNHaEhWSGt3UWpndFp4SVhSMWwxTldGelYyTkhVR0ZWZUdNNFVITnhabTF4UVZVYUlrRkVjM0k1WmxKZk56ZGtUMVJVYldsS2NqaHJURGxRZWtSVmNuVmxWREpIVVVFIiwiZmN2IjoiMyIsImVpIjoiR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVUiLCJxYyI6IkNpZDNhR1Z5WlNCaGNtVWdNalFnYUc5MWNpQndhR0Z5YldGamFXVnpJR2x1SUdOb1pXNXVZV2tRQUJnQmZUcW85VDQiLCJxdWVzdGlvbiI6IkFyZSBwaGFybWFjaWVzIG9wZW4gb24gMjQvNz8iLCJsayI6IkdoaGhjbVVnY0doaGNtMWhZMmxsY3lCdmNHVnVJREkwSURjIiwiYnMiOiJjMjNQTVF2Q01CQUZZRnd6dVlnYUhHNFFIWVZRS0RoWTFLbV9vUE9aWHJpRE5pMUpMZlRmSzBwTEJlZnZ2WGVjT3F2ZE5SQzBqS0ZHS3hTaGFjbEQ0OEVrcHpReldtX3dqNXNFVW5WVHg0THByUlk5NU9ERWxfT2dlTGd6ZVktU21iVmVfWXI5aW1KMUtWZ3NqOFZoVm9QR09Rb1JPaVp3R0R1S0haUlVTVTloZ0VpaEYwdVpPZWo5aU5QR2xKcGRTdFUyajlNMFFrMmxXS3lBbjRfUG14TEg2Qzh1Rnk4IiwiaWQiOiJmY19HWXU1YXNXY0dQYVV4YzhQc3FmbXFBVV81In0=",
+    "page_token": "rx4KcHicHdDbToMwGADg-DK7FBgT45LFDKEQ5kpa6M_hxkAZZ1bc6rrtznfxqXwaE79H-L5_xu44_D6krZTzea1pSqnHRohmPDxyMWnF-XbkGi_GsSz4sLaeLeO15hv3rOw3oWzC5hkcqscu7iN3lhkLiv1xuFJvPOHlHDImVmVqA_WFifWggETcS5TXmQlp4oolYdmVTlzBADP4wScwWbC0bRkEXWyOHXYGhSe5I8lLRh1XVSwnkU4t0uOQ3_mV-1t56OkuG0Y9H2DMJ3Qp_O3TXsdfe2QTQME7eJXMjZZkCYQMBT41QKd6EyG9yqsYWm5UPTXsFtK2D5F950kuOUPgdYFNfXwLk5xWju3wHoVsyU3sBFbsilW1bLtomC9kEqr0DHNR88vGXPyPbT7qSa7nk2j-AFFZeUM",
+    "question": "Are pharmacies open on 24/7?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rx4KcHicHdDbToMwGADg-DK7FBgT45LFDKEQ5kpa6M_hxkAZZ1bc6rrtznfxqXwaE79H-L5_xu44_D6krZTzea1pSqnHRohmPDxyMWnF-XbkGi_GsSz4sLaeLeO15hv3rOw3oWzC5hkcqscu7iN3lhkLiv1xuFJvPOHlHDImVmVqA_WFifWggETcS5TXmQlp4oolYdmVTlzBADP4wScwWbC0bRkEXWyOHXYGhSe5I8lLRh1XVSwnkU4t0uOQ3_mV-1t56OkuG0Y9H2DMJ3Qp_O3TXsdfe2QTQME7eJXMjZZkCYQMBT41QKd6EyG9yqsYWm5UPTXsFtK2D5F950kuOUPgdYFNfXwLk5xWju3wHoVsyU3sBFbsilW1bLtomC9kEqr0DHNR88vGXPyPbT7qSa7nk2j-AFFZeUM",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS04yeFJVMU5vT0ROM1drUjJhazVTYjJSVk5uSjNiamQyUkVSMmFFbExSR2R0Y1dvM1JWRjZVbWsyV2tGWU5qUTJPRWw0WjJWd2NVaG1PREZvVUhGTFJFUXhWa3BIVWpScmIzQnhlWGhvVkhWWFNHaEhWSGt3UWpndFp4SVhSMWwxTldGelYyTkhVR0ZWZUdNNFVITnhabTF4UVZVYUlrRkVjM0k1WmxKZk56ZGtUMVJVYldsS2NqaHJURGxRZWtSVmNuVmxWREpIVVVFIiwiZmN2IjoiMyIsImVpIjoiR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVUiLCJxYyI6IkNpZDNhR1Z5WlNCaGNtVWdNalFnYUc5MWNpQndhR0Z5YldGamFXVnpJR2x1SUdOb1pXNXVZV2tRQUJnQmZUcW85VDQiLCJxdWVzdGlvbiI6IkFyZSBwaGFybWFjaWVzIG9wZW4gb24gMjQvNz8iLCJsayI6IkdoaGhjbVVnY0doaGNtMWhZMmxsY3lCdmNHVnVJREkwSURjIiwiYnMiOiJjMjNQTVF2Q01CQUZZRnd6dVlnYUhHNFFIWVZRS0RoWTFLbV9vUE9aWHJpRE5pMUpMZlRmSzBwTEJlZnZ2WGVjT3F2ZE5SQzBqS0ZHS3hTaGFjbEQ0OEVrcHpReldtX3dqNXNFVW5WVHg0THByUlk5NU9ERWxfT2dlTGd6ZVktU21iVmVfWXI5aW1KMUtWZ3NqOFZoVm9QR09Rb1JPaVp3R0R1S0haUlVTVTloZ0VpaEYwdVpPZWo5aU5QR2xKcGRTdFUyajlNMFFrMmxXS3lBbjRfUG14TEg2Qzh1Rnk4IiwiaWQiOiJmY19HWXU1YXNXY0dQYVV4YzhQc3FmbXFBVV81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS04yeFJVMU5vT0ROM1drUjJhazVTYjJSVk5uSjNiamQyUkVSMmFFbExSR2R0Y1dvM1JWRjZVbWsyV2tGWU5qUTJPRWw0WjJWd2NVaG1PREZvVUhGTFJFUXhWa3BIVWpScmIzQnhlWGhvVkhWWFNHaEhWSGt3UWpndFp4SVhSMWwxTldGelYyTkhVR0ZWZUdNNFVITnhabTF4UVZVYUlrRkVjM0k1WmxKZk56ZGtUMVJVYldsS2NqaHJURGxRZWtSVmNuVmxWREpIVVVFIiwiZmN2IjoiMyIsImVpIjoiR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVUiLCJxYyI6IkNpZDNhR1Z5WlNCaGNtVWdNalFnYUc5MWNpQndhR0Z5YldGamFXVnpJR2x1SUdOb1pXNXVZV2tRQUJnQmZUcW85VDQiLCJxdWVzdGlvbiI6IldoZXJlIGNhbiBJIGZpbmQgcGhhcm1hY2llcyBpbiBDaGVubmFpPyIsImxrIjoiR2hWd2FHRnliV0ZqYVdWeklHbHVJR05vWlc1dVlXayIsImJzIjoiYzIzUE1RdkNNQkFGWUZ3enVZZ2FIRzRRSFlWUUtEaFkxS21fb1BPWlhyaUROaTFKTGZUZkswcExCZWZ2dlhlY09xdmROUkMwaktGR0t4U2hhY2xENDhFa3B6UXpXbV93ajVzRVVuVlR4NExwclJZOTVPREVsX09nZUxnemVZLVNtYlZlX1lyOWltSjFLVmdzajhWaFZvUEdPUW9ST2lad0dEdUtIWlJVU1U5aGdFaWhGMHVaT2VqOWlOUEdsSnBkU3RVMmo5TTBRazJsV0t5QW40X1BteExINkM4dUZ5OCIsImlkIjoiZmNfR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVVfNSJ9",
+    "page_token": "gpPklnicHdBdToMwAADgeJk9Ct0EsyWLsY6CjEHW0nb2xUDLxk_5mcMBe_MunsrTaDzBl3xf37poqp-7Q9733WVlGMMw3J_a9qSze9nWRnKZGmnIROs0kdXKfrTB01GuncsAX9oB7mnXsQ02CQ8JZyHJKlHgBoqsUjme-7300DaIGU4XIopLuNgBbBOzR7w255QuS3lAdkDzs0BqKx0FdlTYmWslb007MEd_7moL0oqds9gZwxiOqmGAbtgkvZymzjJQjYYBoxbhyAuIaWVcFLzcg5i1t9AR16Tx49DrBskfxohiGJqa0Dl6jbxngkwlVMxyCVSJAczZIS8jBG-Si15SxNzCh9gLp4gLnDSw-DMnrvE-5cKN-Igk6nQKlm5GgE-QwLOjvK4Xs_-x9fux7lfdR3v6BfA9eDY",
+    "question": "Where can I find pharmacies in Chennai?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gpPklnicHdBdToMwAADgeJk9Ct0EsyWLsY6CjEHW0nb2xUDLxk_5mcMBe_MunsrTaDzBl3xf37poqp-7Q9733WVlGMMw3J_a9qSze9nWRnKZGmnIROs0kdXKfrTB01GuncsAX9oB7mnXsQ02CQ8JZyHJKlHgBoqsUjme-7300DaIGU4XIopLuNgBbBOzR7w255QuS3lAdkDzs0BqKx0FdlTYmWslb007MEd_7moL0oqds9gZwxiOqmGAbtgkvZymzjJQjYYBoxbhyAuIaWVcFLzcg5i1t9AR16Tx49DrBskfxohiGJqa0Dl6jbxngkwlVMxyCVSJAczZIS8jBG-Si15SxNzCh9gLp4gLnDSw-DMnrvE-5cKN-Igk6nQKlm5GgE-QwLOjvK4Xs_-x9fux7lfdR3v6BfA9eDY",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS04yeFJVMU5vT0ROM1drUjJhazVTYjJSVk5uSjNiamQyUkVSMmFFbExSR2R0Y1dvM1JWRjZVbWsyV2tGWU5qUTJPRWw0WjJWd2NVaG1PREZvVUhGTFJFUXhWa3BIVWpScmIzQnhlWGhvVkhWWFNHaEhWSGt3UWpndFp4SVhSMWwxTldGelYyTkhVR0ZWZUdNNFVITnhabTF4UVZVYUlrRkVjM0k1WmxKZk56ZGtUMVJVYldsS2NqaHJURGxRZWtSVmNuVmxWREpIVVVFIiwiZmN2IjoiMyIsImVpIjoiR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVUiLCJxYyI6IkNpZDNhR1Z5WlNCaGNtVWdNalFnYUc5MWNpQndhR0Z5YldGamFXVnpJR2x1SUdOb1pXNXVZV2tRQUJnQmZUcW85VDQiLCJxdWVzdGlvbiI6IldoZXJlIGNhbiBJIGZpbmQgcGhhcm1hY2llcyBpbiBDaGVubmFpPyIsImxrIjoiR2hWd2FHRnliV0ZqYVdWeklHbHVJR05vWlc1dVlXayIsImJzIjoiYzIzUE1RdkNNQkFGWUZ3enVZZ2FIRzRRSFlWUUtEaFkxS21fb1BPWlhyaUROaTFKTGZUZkswcExCZWZ2dlhlY09xdmROUkMwaktGR0t4U2hhY2xENDhFa3B6UXpXbV93ajVzRVVuVlR4NExwclJZOTVPREVsX09nZUxnemVZLVNtYlZlX1lyOWltSjFLVmdzajhWaFZvUEdPUW9ST2lad0dEdUtIWlJVU1U5aGdFaWhGMHVaT2VqOWlOUEdsSnBkU3RVMmo5TTBRazJsV0t5QW40X1BteExINkM4dUZ5OCIsImlkIjoiZmNfR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVVfNSJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS04yeFJVMU5vT0ROM1drUjJhazVTYjJSVk5uSjNiamQyUkVSMmFFbExSR2R0Y1dvM1JWRjZVbWsyV2tGWU5qUTJPRWw0WjJWd2NVaG1PREZvVUhGTFJFUXhWa3BIVWpScmIzQnhlWGhvVkhWWFNHaEhWSGt3UWpndFp4SVhSMWwxTldGelYyTkhVR0ZWZUdNNFVITnhabTF4UVZVYUlrRkVjM0k1WmxKZk56ZGtUMVJVYldsS2NqaHJURGxRZWtSVmNuVmxWREpIVVVFIiwiZmN2IjoiMyIsImVpIjoiR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVUiLCJxYyI6IkNpZDNhR1Z5WlNCaGNtVWdNalFnYUc5MWNpQndhR0Z5YldGamFXVnpJR2x1SUdOb1pXNXVZV2tRQUJnQmZUcW85VDQiLCJxdWVzdGlvbiI6IldoaWNoIHBoYXJtYWN5IGluIENoZW5uYWkgb2ZmZXJzIHRoZSBmYXN0ZXN0IGRlbGl2ZXJ5IHNlcnZpY2U/IiwibGsiOiJHaVJtWVhOMFpYTjBJSEJvWVhKdFlXTjVJR1JsYkdsMlpYSjVJR2x1SUdOb1pXNXVZV2siLCJicyI6ImMyM1BNUXZDTUJBRllGd3p1WWdhSEc0UUhZVlFLRGhZMUttX29QT1pYcmlETmkxSkxmVGZLMHBMQmVmdnZYZWNPcXZkTlJDMGpLRkdLeFNoYWNsRDQ4RWtwelF6V21fd2o1c0VVblZUeDRMcHJSWTk1T0RFbF9PZ2VMZ3plWS1TbWJWZV9ZcjlpbUoxS1Znc2o4VmhWb1BHT1FvUk9pWndHRHVLSFpSVVNVOWhnRWloRjB1Wk9lajlpTlBHbEpwZFN0VTJqOU0wUWsybFdLeUFuNF9QbXhMSDZDOHVGeTgiLCJpZCI6ImZjX0dZdTVhc1djR1BhVXhjOFBzcWZtcUFVXzUifQ==",
+    "page_token": "RBrRRnicHdBfbpswHABg7TJ9TAw0XRUpqkSJIWh4srF_NrxMYCdxwPxpkpbB2-6yU_U0lfod4fv331369vPHh73fx9t2vZ6maXUehrM7rvTQravb3Ou1rpyrK91un34-eS8nvdu_H8LXt0NIxThCxFDeZIhzE1Z9KVjrRuKFKAMIWETvwveuJE4d7NOpSkgOLQ1ozyyP0t9l4ITBw0wanBVLhnRs4zq2PfjPXuYz7-iAcIwRxGwmbkzLhASZNEruoaLKlry116IzsuAFqjvnpDB91YdN3hjBEjpBj9_ryJ60vxlKCUQKIuvIXZmC3CyM5KIcmTciogwzbbmh6jBnjQn31iRSCa9QRBXI0ALgsVgs1QHuaoVDYMOFCrboxnWA3e0Yb35JDlwn2cxm9Jc4slQSCxkZl_spN9PDSX_sgofvz92fU3ffjtfh_AXeCIO2",
+    "question": "Which pharmacy in Chennai offers the fastest delivery service?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RBrRRnicHdBfbpswHABg7TJ9TAw0XRUpqkSJIWh4srF_NrxMYCdxwPxpkpbB2-6yU_U0lfod4fv331369vPHh73fx9t2vZ6maXUehrM7rvTQravb3Ou1rpyrK91un34-eS8nvdu_H8LXt0NIxThCxFDeZIhzE1Z9KVjrRuKFKAMIWETvwveuJE4d7NOpSkgOLQ1ozyyP0t9l4ITBw0wanBVLhnRs4zq2PfjPXuYz7-iAcIwRxGwmbkzLhASZNEruoaLKlry116IzsuAFqjvnpDB91YdN3hjBEjpBj9_ryJ60vxlKCUQKIuvIXZmC3CyM5KIcmTciogwzbbmh6jBnjQn31iRSCa9QRBXI0ALgsVgs1QHuaoVDYMOFCrboxnWA3e0Yb35JDlwn2cxm9Jc4slQSCxkZl_spN9PDSX_sgofvz92fU3ffjtfh_AXeCIO2",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS04yeFJVMU5vT0ROM1drUjJhazVTYjJSVk5uSjNiamQyUkVSMmFFbExSR2R0Y1dvM1JWRjZVbWsyV2tGWU5qUTJPRWw0WjJWd2NVaG1PREZvVUhGTFJFUXhWa3BIVWpScmIzQnhlWGhvVkhWWFNHaEhWSGt3UWpndFp4SVhSMWwxTldGelYyTkhVR0ZWZUdNNFVITnhabTF4UVZVYUlrRkVjM0k1WmxKZk56ZGtUMVJVYldsS2NqaHJURGxRZWtSVmNuVmxWREpIVVVFIiwiZmN2IjoiMyIsImVpIjoiR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVUiLCJxYyI6IkNpZDNhR1Z5WlNCaGNtVWdNalFnYUc5MWNpQndhR0Z5YldGamFXVnpJR2x1SUdOb1pXNXVZV2tRQUJnQmZUcW85VDQiLCJxdWVzdGlvbiI6IldoaWNoIHBoYXJtYWN5IGluIENoZW5uYWkgb2ZmZXJzIHRoZSBmYXN0ZXN0IGRlbGl2ZXJ5IHNlcnZpY2U%2FIiwibGsiOiJHaVJtWVhOMFpYTjBJSEJvWVhKdFlXTjVJR1JsYkdsMlpYSjVJR2x1SUdOb1pXNXVZV2siLCJicyI6ImMyM1BNUXZDTUJBRllGd3p1WWdhSEc0UUhZVlFLRGhZMUttX29QT1pYcmlETmkxSkxmVGZLMHBMQmVmdnZYZWNPcXZkTlJDMGpLRkdLeFNoYWNsRDQ4RWtwelF6V21fd2o1c0VVblZUeDRMcHJSWTk1T0RFbF9PZ2VMZ3plWS1TbWJWZV9ZcjlpbUoxS1Znc2o4VmhWb1BHT1FvUk9pWndHRHVLSFpSVVNVOWhnRWloRjB1Wk9lajlpTlBHbEpwZFN0VTJqOU0wUWsybFdLeUFuNF9QbXhMSDZDOHVGeTgiLCJpZCI6ImZjX0dZdTVhc1djR1BhVXhjOFBzcWZtcUFVXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS04yeFJVMU5vT0ROM1drUjJhazVTYjJSVk5uSjNiamQyUkVSMmFFbExSR2R0Y1dvM1JWRjZVbWsyV2tGWU5qUTJPRWw0WjJWd2NVaG1PREZvVUhGTFJFUXhWa3BIVWpScmIzQnhlWGhvVkhWWFNHaEhWSGt3UWpndFp4SVhSMWwxTldGelYyTkhVR0ZWZUdNNFVITnhabTF4UVZVYUlrRkVjM0k1WmxKZk56ZGtUMVJVYldsS2NqaHJURGxRZWtSVmNuVmxWREpIVVVFIiwiZmN2IjoiMyIsImVpIjoiR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVUiLCJxYyI6IkNpZDNhR1Z5WlNCaGNtVWdNalFnYUc5MWNpQndhR0Z5YldGamFXVnpJR2x1SUdOb1pXNXVZV2tRQUJnQmZUcW85VDQiLCJxdWVzdGlvbiI6IklzIENoZW5uYWkgYSBtZWRpY2FsIGh1Yj8iLCJsayI6IkdoaHBjeUJqYUdWdWJtRnBJR0VnYldWa2FXTmhiQ0JvZFdJIiwiYnMiOiJjMjNQTVF2Q01CQUZZRnd6dVlnYUhHNFFIWVZRS0RoWTFLbV9vUE9aWHJpRE5pMUpMZlRmSzBwTEJlZnZ2WGVjT3F2ZE5SQzBqS0ZHS3hTaGFjbEQ0OEVrcHpReldtX3dqNXNFVW5WVHg0THByUlk5NU9ERWxfT2dlTGd6ZVktU21iVmVfWXI5aW1KMUtWZ3NqOFZoVm9QR09Rb1JPaVp3R0R1S0haUlVTVTloZ0VpaEYwdVpPZWo5aU5QR2xKcGRTdFUyajlNMFFrMmxXS3lBbjRfUG14TEg2Qzh1Rnk4IiwiaWQiOiJmY19HWXU1YXNXY0dQYVV4YzhQc3FmbXFBVV81In0=",
+    "page_token": "NdMPAnicHZDbboIwAECzn_FRbsqGiVnSCSqDGgptkZcFWgGxXCLNOnjbv-yr9jUz-4BzcnK-f8S1u_0-pbWUw7jRNKXUsur7SlyWrG-1fJw6prFciCJnt439bBuvJdu6owJvvQIRHgayQ3pMXnTWrhV162NoEgqb0MLUsQqBYKF_jRcP2XAHEcTwwPHaZwk45XNohhaw89ZZIeyn2AJdbjoWE77AmE8nyu-oQbvMXNe8QVPuegHbEyPAo4yS8yoWsIlm0dCuV-HMZJgcFaYQcAHKIBFnuh_sBHM_olwPsEOi-agexBS6RMK2ij2dZzwhNTMedgPUJK2bkwdmRjPJsEf2Vx-gA3x0ZHGAEUDGYCIsYZb658iUh7Dz30nrTcTL2sLNukXJPrfW4v_Y9qNs5Wa499Ufmld4cw",
+    "question": "Is Chennai a medical hub?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NdMPAnicHZDbboIwAECzn_FRbsqGiVnSCSqDGgptkZcFWgGxXCLNOnjbv-yr9jUz-4BzcnK-f8S1u_0-pbWUw7jRNKXUsur7SlyWrG-1fJw6prFciCJnt439bBuvJdu6owJvvQIRHgayQ3pMXnTWrhV162NoEgqb0MLUsQqBYKF_jRcP2XAHEcTwwPHaZwk45XNohhaw89ZZIeyn2AJdbjoWE77AmE8nyu-oQbvMXNe8QVPuegHbEyPAo4yS8yoWsIlm0dCuV-HMZJgcFaYQcAHKIBFnuh_sBHM_olwPsEOi-agexBS6RMK2ij2dZzwhNTMedgPUJK2bkwdmRjPJsEf2Vx-gA3x0ZHGAEUDGYCIsYZb658iUh7Dz30nrTcTL2sLNukXJPrfW4v_Y9qNs5Wa499Ufmld4cw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS04yeFJVMU5vT0ROM1drUjJhazVTYjJSVk5uSjNiamQyUkVSMmFFbExSR2R0Y1dvM1JWRjZVbWsyV2tGWU5qUTJPRWw0WjJWd2NVaG1PREZvVUhGTFJFUXhWa3BIVWpScmIzQnhlWGhvVkhWWFNHaEhWSGt3UWpndFp4SVhSMWwxTldGelYyTkhVR0ZWZUdNNFVITnhabTF4UVZVYUlrRkVjM0k1WmxKZk56ZGtUMVJVYldsS2NqaHJURGxRZWtSVmNuVmxWREpIVVVFIiwiZmN2IjoiMyIsImVpIjoiR1l1NWFzV2NHUGFVeGM4UHNxZm1xQVUiLCJxYyI6IkNpZDNhR1Z5WlNCaGNtVWdNalFnYUc5MWNpQndhR0Z5YldGamFXVnpJR2x1SUdOb1pXNXVZV2tRQUJnQmZUcW85VDQiLCJxdWVzdGlvbiI6IklzIENoZW5uYWkgYSBtZWRpY2FsIGh1Yj8iLCJsayI6IkdoaHBjeUJqYUdWdWJtRnBJR0VnYldWa2FXTmhiQ0JvZFdJIiwiYnMiOiJjMjNQTVF2Q01CQUZZRnd6dVlnYUhHNFFIWVZRS0RoWTFLbV9vUE9aWHJpRE5pMUpMZlRmSzBwTEJlZnZ2WGVjT3F2ZE5SQzBqS0ZHS3hTaGFjbEQ0OEVrcHpReldtX3dqNXNFVW5WVHg0THByUlk5NU9ERWxfT2dlTGd6ZVktU21iVmVfWXI5aW1KMUtWZ3NqOFZoVm9QR09Rb1JPaVp3R0R1S0haUlVTVTloZ0VpaEYwdVpPZWo5aU5QR2xKcGRTdFUyajlNMFFrMmxXS3lBbjRfUG14TEg2Qzh1Rnk4IiwiaWQiOiJmY19HWXU1YXNXY0dQYVV4YzhQc3FmbXFBVV81In0%3D",
+    "type": "ai_overview"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Where are 24 hour pharmacies in Chennai?",
-   "time_taken_displayed": 0.38,
-   "total_results": 9
+   "time_taken_displayed": 0.4,
+   "total_results": 94400
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:58:34 UTC",
+   "created_at": "2026-09-27 21:31:05 UTC",
    "google_url": "https://www.google.com/search?q=Where+are+24+hour+pharmacies+in+Chennai%3F&oq=Where+are+24+hour+pharmacies+in+Chennai%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafca6a7223f44023405da1",
-   "json_endpoint": "https://serpapi.com/searches/9DL6ne0f3cZx31XFf-nha-Brian6WdLp1ErX9CvQQTs/6aafca6a7223f44023405da1.json",
-   "markdown_endpoint": "https://serpapi.com/searches/9DL6ne0f3cZx31XFf-nha-Brian6WdLp1ErX9CvQQTs/6aafca6a7223f44023405da1.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/9DL6ne0f3cZx31XFf-nha-Brian6WdLp1ErX9CvQQTs/6aafca6a7223f44023405da1.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:58:34 UTC",
-   "raw_html_file": "https://serpapi.com/searches/9DL6ne0f3cZx31XFf-nha-Brian6WdLp1ErX9CvQQTs/6aafca6a7223f44023405da1.html",
+   "id": "6ab98b19a1de12b42540c397",
+   "json_endpoint": "https://serpapi.com/searches/ONXTZ9e262M8pJ-qVDajdri9u8dcGq6Ll5EfKs4uAdw/6ab98b19a1de12b42540c397.json",
+   "markdown_endpoint": "https://serpapi.com/searches/ONXTZ9e262M8pJ-qVDajdri9u8dcGq6Ll5EfKs4uAdw/6ab98b19a1de12b42540c397.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/ONXTZ9e262M8pJ-qVDajdri9u8dcGq6Ll5EfKs4uAdw/6ab98b19a1de12b42540c397.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:31:05 UTC",
+   "raw_html_file": "https://serpapi.com/searches/ONXTZ9e262M8pJ-qVDajdri9u8dcGq6Ll5EfKs4uAdw/6ab98b19a1de12b42540c397.html",
    "status": "Success",
-   "total_time_taken": 0.59
+   "total_time_taken": 0.77
   },
   "search_parameters": {
    "device": "desktop",
    "engine": "google",
    "google_domain": "google.com",
    "q": "Where are 24 hour pharmacies in Chennai?"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+are+24+hour+pharmacies+in+Chennai%3F&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+are+24+hour+pharmacies+in+Chennai%3F&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+are+24+hour+pharmacies+in+Chennai%3F&start=10"
+   }
   }
  },
  "searches_charged": 1

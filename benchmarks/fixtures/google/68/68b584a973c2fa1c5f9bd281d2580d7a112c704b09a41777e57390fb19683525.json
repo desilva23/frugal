@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 6777.941,
+ "elapsed_ms": 1151.275,
  "engine": "google",
- "fetched_at": "2026-09-20T12:06:55.076543+00:00",
+ "fetched_at": "2026-09-27T21:32:28.044779+00:00",
  "frugal_cache_version": 1,
  "key": "68b584a973c2fa1c5f9bd281d2580d7a112c704b09a41777e57390fb19683525",
  "params": {
@@ -10,348 +10,443 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "gyBk6XiczVXdcqpIEH6AfY71xigoJmqqqFTPQBR_ohg9_txYOCCi4CigqHfnXfap9ml2QDFoNNlzLra2q3Sc4aO7p_v77J9_2dZy8fcfu5nvr7xnjguCIGtSatpGllCH07z9knBTansumb3st6KQIp7IpwxLHHj7rebn9My4299BZroobEAyU9Eb4niiecacOdzNPW7Msa_Fn4LENlkva_tZi18Uuw1XyAulbJ7PlbMtTnMYAP47a6qAwrUG-D6IPZK_dxU6UADJCU8KmNGKzgAYHhesRo-wedcbOsbsRBCVfaTxoRpI8BojpLvvshAIElXEQZQLQBAlgcD6_jaxqcfg4fvxvb6oFMToSztVj36cJHuM7jsLrg-UMWD8EeQq2OwiDTmOQkwoVSmSEPTuh2L1qSvwuABVvnWFpKnyj8K5c41hhZ1wusmIy3MTly05ziIzEv1wvZDPuFvmafVg8F1FJhsyWr4fyJtPanveGRTcfV_lyIThbKrphj6ejfmXaJ_L5x75slAsPURCIt5ZSV5SSW3YTN4bs4J1gGwji3KxjPCx6fCpY2E7sHLjYiiG4ms4hMROwOKWqq8XQHR6jhPI2OrtsK6VeMs4emCtQfCRyEfUkPyfZXQ0KwFmMooSUegJGFkCjaGSkG6isTW4ZdfUVqtnoqrSJ-CFAHEHYAFxYa4ppA5BxaYcagDLVXSqGkn6YDeunzcoTlgG1UQoRsQJnlqSlFFYAkWFJigy82n1aoyhZsjVY6IhGeJY8pXi7hBeYWH6-N_89d0w9J2IQlNjvVzRPykb2axLdEsl1On1-dZiajiSv9lVO4d1y7wtE-pMfmHikP-VkI7zSD7No_tCkr8XUjSP0BfzKBLSxzwKyYvpXSGhyu159BYjLubRZaEwdJJC-noe_bKQ8JdCUk9ubgiJ3hbS6r6QgmshXc6jayGd5tFZSL8zj9BvzqNIV8ZxuRxOm7l5d0i9Etov5VvmpiOsSgLfr8-F5WBX19q-an47pKaO_-xouv0wtvRnlK_5e_1hzA7os6Gn1mJ_RtOB5qX9mZGeWq7np9uu5RjpprW0PN9w03SaVpa6pb2kHNulIq89uQeqrH-slOARJNnsGW7e243kJzprTtfGPFNtjtb-4LBq2PthsTQwjH19liOCbXYHc8i5i-Lbe-t95C5Xu22-u3qSOs4kn1falbZgBLyz7QpGRaJ2pkxht6k1htqhsJKckd1wsdw1Oq_eo9YSHotRNp44VDO99bpUmO96KcclImt7wYQ3Ffom4x-OeAk9jbI1ALXyxNqCUh7Rxoa3FctCnhhCsTid8CWil_WUY_r7lVjIpbylK-b-AeUvPEE",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gyBk6XiczVXdcqpIEH6AfY71xigoJmqqqFTPQBR_ohg9_txYOCCi4CigqHfnXfap9ml2QDFoNNlzLra2q3Sc4aO7p_v77J9_2dZy8fcfu5nvr7xnjguCIGtSatpGllCH07z9knBTansumb3st6KQIp7IpwxLHHj7rebn9My4299BZroobEAyU9Eb4niiecacOdzNPW7Msa_Fn4LENlkva_tZi18Uuw1XyAulbJ7PlbMtTnMYAP47a6qAwrUG-D6IPZK_dxU6UADJCU8KmNGKzgAYHhesRo-wedcbOsbsRBCVfaTxoRpI8BojpLvvshAIElXEQZQLQBAlgcD6_jaxqcfg4fvxvb6oFMToSztVj36cJHuM7jsLrg-UMWD8EeQq2OwiDTmOQkwoVSmSEPTuh2L1qSvwuABVvnWFpKnyj8K5c41hhZ1wusmIy3MTly05ziIzEv1wvZDPuFvmafVg8F1FJhsyWr4fyJtPanveGRTcfV_lyIThbKrphj6ejfmXaJ_L5x75slAsPURCIt5ZSV5SSW3YTN4bs4J1gGwji3KxjPCx6fCpY2E7sHLjYiiG4ms4hMROwOKWqq8XQHR6jhPI2OrtsK6VeMs4emCtQfCRyEfUkPyfZXQ0KwFmMooSUegJGFkCjaGSkG6isTW4ZdfUVqtnoqrSJ-CFAHEHYAFxYa4ppA5BxaYcagDLVXSqGkn6YDeunzcoTlgG1UQoRsQJnlqSlFFYAkWFJigy82n1aoyhZsjVY6IhGeJY8pXi7hBeYWH6-N_89d0w9J2IQlNjvVzRPykb2axLdEsl1On1-dZiajiSv9lVO4d1y7wtE-pMfmHikP-VkI7zSD7No_tCkr8XUjSP0BfzKBLSxzwKyYvpXSGhyu159BYjLubRZaEwdJJC-noe_bKQ8JdCUk9ubgiJ3hbS6r6QgmshXc6jayGd5tFZSL8zj9BvzqNIV8ZxuRxOm7l5d0i9Etov5VvmpiOsSgLfr8-F5WBX19q-an47pKaO_-xouv0wtvRnlK_5e_1hzA7os6Gn1mJ_RtOB5qX9mZGeWq7np9uu5RjpprW0PN9w03SaVpa6pb2kHNulIq89uQeqrH-slOARJNnsGW7e243kJzprTtfGPFNtjtb-4LBq2PthsTQwjH19liOCbXYHc8i5i-Lbe-t95C5Xu22-u3qSOs4kn1falbZgBLyz7QpGRaJ2pkxht6k1htqhsJKckd1wsdw1Oq_eo9YSHotRNp44VDO99bpUmO96KcclImt7wYQ3Ffom4x-OeAk9jbI1ALXyxNqCUh7Rxoa3FctCnhhCsTid8CWil_WUY_r7lVjIpbylK-b-AeUvPEE"
+   "references": [
+    {
+     "index": 0,
+     "link": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+     "source": "en.wikipedia.org"
+    },
+    {
+     "index": 1,
+     "link": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India",
+     "source": "en.wikipedia.org"
+    },
+    {
+     "index": 2,
+     "link": "https://www.britannica.com/biography/Jawaharlal-Nehru",
+     "source": "britannica.com"
+    },
+    {
+     "index": 3,
+     "link": "https://www.youtube.com/shorts/Fw066er5mxo",
+     "source": "youtube.com"
+    },
+    {
+     "index": 4,
+     "link": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+     "snippet": "Jawaharlal Nehru (14 November 1889 – 27 May 1964) was an Indian lawyer, anti-colonial nationalist, secular humanist, social democrat, and statesman who was a centr...",
+     "source": "Wikipedia",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9T8bLsTQbwjyklhxaxAzRj9O5mqxZEj20xsYlm_anbBBl9CqYsZc09LBiqSKfDWaHEdIFAtAi1O9DGNElCwwVOVCtAULGRUk0cYo7",
+     "title": "Jawaharlal Nehru - Wikipedia"
+    },
+    {
+     "index": 5,
+     "link": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India",
+     "snippet": "Top left: Jawaharlal Nehru was the first and the longest-serving prime minister in Indian history (no of days in office). Top centre: Indira Gandhi was the first a...",
+     "source": "Wikipedia",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScjttMb2yALgNxQiTPqlKv1ge6jQeXYbC03ZjUeiLBZkNkmlnAEEAYrXqElBsNRc0H4BIj7KQVPH201t69OuMlXcg8",
+     "title": "List of prime ministers of India - Wikipedia"
+    },
+    {
+     "index": 6,
+     "link": "https://www.britannica.com/biography/Jawaharlal-Nehru",
+     "snippet": "Jawaharlal Nehru | Biography, Significance, Family, Wife, Daughter, Death, & Children's Day | Britannica. ... Jawaharlal Nehru. ... Editor in Chief, The Indian Exp...",
+     "source": "Britannica",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbKr-2jSdt4KygmT88vxZGBDF5oEDbh-SRF834JZDjfuBKgAmEMkY1ui3M1HNvcfcN-ZVYSE_l34MN7RTuh4CzqeTSUM9W08MSlLYo",
+     "title": "Jawaharlal Nehru | Biography, Significance, Family, Wife ..."
+    },
+    {
+     "index": 7,
+     "link": "https://www.youtube.com/shorts/Fw066er5mxo",
+     "snippet": "Top left: Jawaharlal Nehru was the first and the longest-serving prime minister in Indian history (no of days in office). Top centre: Indira Gandhi was the first a...",
+     "source": "YouTube",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtyuYCwrF7sMXok6TQ1_Lc18UNrHTr6xVrmqVeiAYgpUbv4KjbskHzOxP1cV180OnxHdEy2Ypmgdqrz1tcvT7tLHuT0qwq4D0hlhuyiQ",
+     "title": "Prime Ministers of India from independence to Modi 3.0"
+    }
+   ],
+   "text_blocks": [
+    {
+     "snippet": "Jawaharlal Nehru was the first prime minister of independent India.",
+     "snippet_highlighted_words": [
+      "Jawaharlal Nehru"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "Key Details",
+     "type": "heading"
+    },
+    {
+     "list": [
+      {
+       "snippet": "Term in Office: August 15, 1947 – May 27, 1964 (16 years, 286 days)"
+      },
+      {
+       "snippet": "Political Party: Indian National Congress",
+       "snippet_links": [
+        {
+         "link": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India",
+         "text": "Indian National Congress"
+        }
+       ]
+      },
+      {
+       "snippet": "Legacy: He helped lead the Indian independence movement and shaped modern India as a secular, democratic nation."
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "If you would like, I can share information about his successor, key policies, or a list of subsequent prime ministers.",
+     "type": "paragraph"
+    }
+   ]
   },
-  "inline_videos": [
+  "inline_images": [
    {
-    "channel": "BBC News India",
-    "date": "Prieš 1 mėnesį",
-    "duration": "2:58",
-    "link": "https://www.facebook.com/bbcindia/videos/in-june-1953-indias-first-prime-minister-jawaharlal-nehru-appeared-on-the-bbc-fo/1966314614087360/",
-    "platform": "Facebook",
-    "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTGe2aUNejgQaAygFf9Nl6YYkGz5AEq3Wkp3w",
-    "thumbnail": "https://serpapi.com/searches/6aafcc5803b136959065c128/images/I8-0On31DyejTp72VN0QLPogKSfU-8AD7J353Ka4-r0.jpeg",
-    "title": "In June 1953, India's first prime minister, Jawaharlal Nehru ..."
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=831517305489266",
+    "source": "https://www.facebook.com/groups/1533501963560005/posts/4332327867010720/",
+    "source_name": "Facebook",
+    "thumbnail": "https://serpapi.com/searches/6ab98b6b550cc4a3536b778d/images/vWn-LBPteKVW-LByTnU6yFL9EON8dw7pKuUa_1PrWCY.jpeg",
+    "title": "one of the best Prime Minister of India"
    },
    {
-    "channel": "Ministry of Information & Broadcasting, Government of India",
-    "date": "2024-11-13",
-    "duration": "0:44",
-    "link": "https://www.facebook.com/inbministry/videos/remembering-independent-indias-first-prime-minister-jawaharlal-nehru-on-his-birt/2802424443253012/",
-    "platform": "Facebook",
-    "position": 2,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQCM5YlCaUvudzGLD0p3pdl0sEvyH6fZsa_hA",
-    "thumbnail": "https://serpapi.com/searches/6aafcc5803b136959065c128/images/-KQ-wrYQbhWoU_X9fYDt8tyud30FkyAGXa0CoilFeac.png",
-    "title": "Remembering independent India's first Prime Minister ..."
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/IndiraGandhi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://en.bharatpedia.org/wiki/List_of_prime_ministers_of_India",
+    "source_name": "Bharatpedia",
+    "thumbnail": "https://serpapi.com/searches/6ab98b6b550cc4a3536b778d/images/IEcs0GH553pKB_Hl3kM2arxBdPvwb3C-NdBQf4XAv3A.jpeg",
+    "title": "List of prime ministers of India - Bharatpedia"
    },
    {
-    "channel": "unseen gk",
-    "date": "2026-07-07",
-    "duration": "1:22",
-    "link": "https://www.facebook.com/61561196766695/posts/what-is-the-name-of-the-first-prime-minister-of-india/122222138918373225/",
-    "platform": "Facebook",
-    "position": 3,
-    "thumbnail": "https://serpapi.com/searches/6aafcc5803b136959065c128/images/AjhwWr9tkjQlxUC0aK1Mufld3maZ8tfTaqibVUK3QtQ.jpeg",
-    "title": "What is the name of the first Prime Minister of India?"
+    "original": "https://www.superstock.com/cdn/1746/Comp/1746-30009956.jpg",
+    "source": "https://www.superstock.com/asset/jawaharlal-nehru-first-prime-minister-india-well-central-figure-indian/1746-30009956?srsltid=AU7gw4UmG481hG-5hBr_fmHBFlmF3Mc_O_LufeM-8XPnAbujrq-ufGyi",
+    "source_name": "SuperStock",
+    "thumbnail": "https://serpapi.com/searches/6ab98b6b550cc4a3536b778d/images/mpFt3pIe3JMM2Tkxq30HQ7ksc3QJc31d66E3Rfp-Dsk.jpeg",
+    "title": "Jawaharlal Nehru (1889 - 1964) first Prime Minister of ..."
+   },
+   {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Inder_Kumar_Gujral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://en.bharatpedia.org/wiki/List_of_prime_ministers_of_India",
+    "source_name": "Bharatpedia",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJh-wPBk0d8kr3SQkPogcjqAg4XjsIIwiqlou8vBq0eLNq6Ku4Ll0P_wg&s",
+    "title": "List of prime ministers of India - Bharatpedia"
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4294350754228855",
+    "source": "https://www.facebook.com/abusalehnajmudddin/posts/renembering-bharatratna-pandith-jawaharlal-nehru-the-first-prime-minister-of-ind/4294350790895518/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkv1_7BsfCdyTaU45_QznTcxr6fME5LWf-4owJFzM09KL3j5APf73zuhi7Q&s",
+    "title": "Renembering BharatRatna Pandith JawaharLal Nehru the First ..."
+   },
+   {
+    "original": "https://i.ytimg.com/vi/nNRgVg_1CAk/maxresdefault.jpg",
+    "source": "https://www.youtube.com/watch?v=nNRgVg_1CAk",
+    "source_name": "YouTube",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7D4JocUpUhDaanjJpv8S6uG9TZXFV0t1aKbRTV9f&s",
+    "title": "PM Modi Becomes Second Longest-Serving Indian Prime Minister | Race To Power"
+   },
+   {
+    "original": "https://www.jpost.com/httphandlers/showimage.ashx?id=376489",
+    "source": "https://www.jpost.com/israel-news/politics-and-diplomacy/israeli-indian-ties-reach-new-heights-498376",
+    "source_name": "The Jerusalem Post",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3dHoFp_vr0oGy0-bUe9xM_4Y_Wqbh1nYqO-tQUDcaHJPxDGLzuQI4zI&s",
+    "title": "Israeli-Indian ties reach new heights | The Jerusalem Post"
+   },
+   {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Atal_Bihari_Vajpayee_tribute_image_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://en.bharatpedia.org/wiki/List_of_prime_ministers_of_India",
+    "source_name": "Bharatpedia",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH__wfezyW7rqYxGCb3c-ngvTKtWfjSW-Y4V6lTzazw4sqtN-a5SZrRv0&s",
+    "title": "List of prime ministers of India - Bharatpedia"
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=27549882694623372",
+    "source": "https://www.facebook.com/groups/1533501963560005/posts/4332327867010720/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFoIEskwwrLQNjXIOpu-pSEwHNOw7DmRSeIYj8awjyozJxzp_8dDvCZ5w&s",
+    "title": "one of the best Prime Minister of India"
    }
   ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZXb1YzeVNkSGVfeXN2NXpwVURTYldqYXBMU05MSTlIS3ZwSlMzd3MxbEhRQXlKSHJoX09mZkFpVE5YUlJJWWE1RWUwZk5hbEo2SkstcS1PMWhzcDF0Vi1WcHVHZzhuZGpkTTRXcEV2TF82eU9YLVM3cE1rTXhjZjlpNW5mUzBpdU1odFJIUkEtZUdIWENzY3k1MFNJa0lBRHdQRFMtNm96czhCejdwVWxUbGJyeGRkSUNWNWFkWDBFb3B4WjItMERPSWFFcVltSjJnEgQaAggAGu4FEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMoFCAAQABgAIAAqCgoDd2hvFWwwrj8qCgoDd2FzFQAAAAAqCgoDdGhlFQAAAAAqRQoFZmlyc3QVeBN8QBoDMXN0GghlYXJsaWVzdBoGZm9ybWVyGgdoaXN0b3J5GgJwbRoHcHJlbWllchoKZmlyc3RwcmltZSo0CgVwcmltZRWkcYZAGgJwbRoHcHJlbWllchoKZmlyc3RwcmltZRoNcHJpbWVtaW5pc3Rlcio8CghtaW5pc3RlchX8qIZAGgltaW5pc3RlcnMaAnBtGg1wcmltZW1pbmlzdGVyGg1pdjtwO21pbmlzdGVyKgkKAm9mFQAAAAAqDAoFaW5kaWEVBJNPQDLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGV29WM3lTZEhlX3lzdjV6cFVEU2JXamFwTFNOTEk5SEt2cEpTM3dzMWxIUUF5SkhyaF9PZmZBaVROWFJSSVlhNUVlMGZOYWxKNkpLLXEtTzFoc3AxdFYtVnB1R2c4bmRqZE00V3BFdkxfNnlPWC1TN3BNa014Y2Y5aTVuZlMwaXVNaHRSSFJBLWVHSFhDc2N5NTBTSWtJQUR3UERTLTZvenM4Qno3cFVsVGxicnhkZElDVjVhZFgwRW9weFoyLTBET0lhRXFZbUoyZzpEV2FzIFNhcmRhciBQYXRlbCB3cm9uZyB0byBhY2NlcHQgTmVocnUgYXMgdGhlIDxiPmZpcnN0IFByaW1lPC9iPiAuLi5CjwE8Yj5TYXJkYXIgUGF0ZWwgd29uIDEyIG9mIDE1IHByb3ZpbmNpYWwgdm90ZXM8L2I-IHRvIGJlY29tZSBpbmRlcGVuZGVudCBJbmRpYSYjMzk7cyBmaXJzdCBQcmltZSBNaW5pc3Rlciwgd2hpbGUgSmF3YWhhcmxhbCBOZWhydSByZWNlaXZlZCB6ZXJvLkoDdGhlSgN3YXNKAm9mIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZXb1YzeVNkSGVfeXN2NXpwVURTYldqYXBMU05MSTlIS3ZwSlMzd3MxbEhRQXlKSHJoX09mZkFpVE5YUlJJWWE1RWUwZk5hbEo2SkstcS1PMWhzcDF0Vi1WcHVHZzhuZGpkTTRXcEV2TF82eU9YLVM3cE1rTXhjZjlpNW5mUzBpdU1odFJIUkEtZUdIWENzY3k1MFNJa0lBRHdQRFMtNm96czhCejdwVWxUbGJyeGRkSUNWNWFkWDBFb3B4WjItMERPSWFFcVltSjJnEgQaAggAGu4FEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMoFCAAQABgAIAAqCgoDd2hvFWwwrj8qCgoDd2FzFQAAAAAqCgoDdGhlFQAAAAAqRQoFZmlyc3QVeBN8QBoDMXN0GghlYXJsaWVzdBoGZm9ybWVyGgdoaXN0b3J5GgJwbRoHcHJlbWllchoKZmlyc3RwcmltZSo0CgVwcmltZRWkcYZAGgJwbRoHcHJlbWllchoKZmlyc3RwcmltZRoNcHJpbWVtaW5pc3Rlcio8CghtaW5pc3RlchX8qIZAGgltaW5pc3RlcnMaAnBtGg1wcmltZW1pbmlzdGVyGg1pdjtwO21pbmlzdGVyKgkKAm9mFQAAAAAqDAoFaW5kaWEVBJNPQDLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGV29WM3lTZEhlX3lzdjV6cFVEU2JXamFwTFNOTEk5SEt2cEpTM3dzMWxIUUF5SkhyaF9PZmZBaVROWFJSSVlhNUVlMGZOYWxKNkpLLXEtTzFoc3AxdFYtVnB1R2c4bmRqZE00V3BFdkxfNnlPWC1TN3BNa014Y2Y5aTVuZlMwaXVNaHRSSFJBLWVHSFhDc2N5NTBTSWtJQUR3UERTLTZvenM4Qno3cFVsVGxicnhkZElDVjVhZFgwRW9weFoyLTBET0lhRXFZbUoyZzpEV2FzIFNhcmRhciBQYXRlbCB3cm9uZyB0byBhY2NlcHQgTmVocnUgYXMgdGhlIDxiPmZpcnN0IFByaW1lPC9iPiAuLi5CjwE8Yj5TYXJkYXIgUGF0ZWwgd29uIDEyIG9mIDE1IHByb3ZpbmNpYWwgdm90ZXM8L2I-IHRvIGJlY29tZSBpbmRlcGVuZGVudCBJbmRpYSYjMzk7cyBmaXJzdCBQcmltZSBNaW5pc3Rlciwgd2hpbGUgSmF3YWhhcmxhbCBOZWhydSByZWNlaXZlZCB6ZXJvLkoDdGhlSgN3YXNKAm9mIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "Upon India's independence in 1947, he served as the country's first prime minister, holding office for 16 years 286 days. Nehru promoted parliamentary democracy ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru"
+      "description": "Sardar Patel won 12 of 15 provincial votes to become independent India's first Prime Minister, while Jawaharlal Nehru received zero.",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "source_info_link": "https://www.quora.com/Was-Sardar-Patel-wrong-to-accept-Nehru-as-the-first-Prime-Minister-of-India"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › Ja...",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+    "displayed_link": "30+ answers · 11 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+    "link": "https://www.quora.com/Was-Sardar-Patel-wrong-to-accept-Nehru-as-the-first-Prime-Minister-of-India",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVAjBo80QDUgnL2ECT9VMY6eSGLLskqNhS1oJENSzWa7l-DZifVVV6_1T3xiN55odimyhF-qFmQKkWob4ER07TxXwwLcVnn6UKgA3WbwKNIHYKf_Aro3NaDVG_heYJEdD96w&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQFnoECCkQAQ&uoh=1",
-    "snippet": "Upon India's independence in 1947, he served as the country's first prime minister, holding office for 16 years 286 days. Nehru promoted parliamentary democracy ...",
-    "snippet_highlighted_words": [
-     "India's",
-     "first prime minister"
-    ],
-    "source": "Wikipedia",
-    "title": "Jawaharlal Nehru"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFWoV3ySdHe_ysv5zpUDSbWjapLSNLI9HKvpJS3ws1lHQAyJHrh_OffAiTNXRRIYa5Ee0fNalJ6JK-q-O1hsp1tV-VpuGg8ndjdM4WpEvL_6yOX-S7pMkMxcf9i5nfS0iuMhtRHRA-eGHXCscy50SIkIADwPDS-6ozs8Bz7pUlTlbrxddICV5adX0EopxZ2-0DOIaEqYmJ2g&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQFnoECDEQAQ&uoh=1",
+    "snippet": "Was Sardar Patel wrong to accept Nehru as the first Prime Minister of India?",
+    "source": "Quora",
+    "title": "Was Sardar Patel wrong to accept Nehru as the first Prime ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZidWI2NmpvY2RpcG04WUp2RkFJMVFPY1ZieXJ2VWNuSWJLVjFOclJFNEFUZ2xVdGs2TUdzWEV1UV9HcW91eTI0LXJsdUlGSFoxeVFuRk1PSVlvelhVdGhqYlpBTE1JOXV3T2wtSk1UNy0zLWVFcUh5OE41Q0Q3VnprWGZsLWFVMmJlOEk2WEFKc2dmRGxWc0hVckp3V2puSHVkdng2Vm5kSW9TeWpJZnUyUzYzVnc0S1hsTXFzUGx1Q0tSbHh2dV9nQ214a0lVaFYxTERrSVoSBBoCCAAawQUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAnQUIABAAGAAgACoKCgN3aG8VAAAAACoKCgN3YXMVAAAAACoKCgN0aGUVAAAAACpFCgVmaXJzdBWkvNJAGgMxc3QaCGVhcmxpZXN0GgZmb3JtZXIaB2hpc3RvcnkaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lKjQKBXByaW1lFXSNuEAaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lGg1wcmltZW1pbmlzdGVyKjwKCG1pbmlzdGVyFXSNuEAaCW1pbmlzdGVycxoCcG0aDXByaW1lbWluaXN0ZXIaDWl2O3A7bWluaXN0ZXIqCQoCb2YVAAAAACoMCgVpbmRpYRXRY7pAMuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZidWI2NmpvY2RpcG04WUp2RkFJMVFPY1ZieXJ2VWNuSWJLVjFOclJFNEFUZ2xVdGs2TUdzWEV1UV9HcW91eTI0LXJsdUlGSFoxeVFuRk1PSVlvelhVdGhqYlpBTE1JOXV3T2wtSk1UNy0zLWVFcUh5OE41Q0Q3VnprWGZsLWFVMmJlOEk2WEFKc2dmRGxWc0hVckp3V2puSHVkdng2Vm5kSW9TeWpJZnUyUzYzVnc0S1hsTXFzUGx1Q0tSbHh2dV9nQ214a0lVaFYxTERrSVo6R0phd2FoYXJsYWwgTmVocnUgYmVjYW1lIHRoZSA8Yj5maXJzdCBQcmltZSBNaW5pc3RlciBvZiBJbmRpYTwvYj4gaW4gLi4uQls8Yj5KYXdhaGFybGFsIE5laHJ1PC9iPiBiZWNhbWUgdGhlIGZpcnN0IFByaW1lIE1pbmlzdGVyIG9mIEluZGlhIGluIDE5NDcuIENoYWlybWFuIGluIDE5NTAuSgJvZkoDd2FzSgN0aGUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZidWI2NmpvY2RpcG04WUp2RkFJMVFPY1ZieXJ2VWNuSWJLVjFOclJFNEFUZ2xVdGs2TUdzWEV1UV9HcW91eTI0LXJsdUlGSFoxeVFuRk1PSVlvelhVdGhqYlpBTE1JOXV3T2wtSk1UNy0zLWVFcUh5OE41Q0Q3VnprWGZsLWFVMmJlOEk2WEFKc2dmRGxWc0hVckp3V2puSHVkdng2Vm5kSW9TeWpJZnUyUzYzVnc0S1hsTXFzUGx1Q0tSbHh2dV9nQ214a0lVaFYxTERrSVoSBBoCCAAawQUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAnQUIABAAGAAgACoKCgN3aG8VAAAAACoKCgN3YXMVAAAAACoKCgN0aGUVAAAAACpFCgVmaXJzdBWkvNJAGgMxc3QaCGVhcmxpZXN0GgZmb3JtZXIaB2hpc3RvcnkaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lKjQKBXByaW1lFXSNuEAaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lGg1wcmltZW1pbmlzdGVyKjwKCG1pbmlzdGVyFXSNuEAaCW1pbmlzdGVycxoCcG0aDXByaW1lbWluaXN0ZXIaDWl2O3A7bWluaXN0ZXIqCQoCb2YVAAAAACoMCgVpbmRpYRXRY7pAMuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZidWI2NmpvY2RpcG04WUp2RkFJMVFPY1ZieXJ2VWNuSWJLVjFOclJFNEFUZ2xVdGs2TUdzWEV1UV9HcW91eTI0LXJsdUlGSFoxeVFuRk1PSVlvelhVdGhqYlpBTE1JOXV3T2wtSk1UNy0zLWVFcUh5OE41Q0Q3VnprWGZsLWFVMmJlOEk2WEFKc2dmRGxWc0hVckp3V2puSHVkdng2Vm5kSW9TeWpJZnUyUzYzVnc0S1hsTXFzUGx1Q0tSbHh2dV9nQ214a0lVaFYxTERrSVo6R0phd2FoYXJsYWwgTmVocnUgYmVjYW1lIHRoZSA8Yj5maXJzdCBQcmltZSBNaW5pc3RlciBvZiBJbmRpYTwvYj4gaW4gLi4uQls8Yj5KYXdhaGFybGFsIE5laHJ1PC9iPiBiZWNhbWUgdGhlIGZpcnN0IFByaW1lIE1pbmlzdGVyIG9mIEluZGlhIGluIDE5NDcuIENoYWlybWFuIGluIDE5NTAuSgJvZkoDd2FzSgN0aGUiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "Shri Inder Kumar Gujral was sworn in as the 12th Prime Minister of India on Monday, the 21st of April, 1997. Son of Late Shri Avtar Narain Gujral and Late Smt.",
-      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACwBgCdASocABwAPtEutFooIagoGAEAGglsALEagCeK95VfANak50MC2lnuK9sCmePPjyFeYg9Fg26i47RcwAD-9gm4kzadrZKvYo_cQILHD2PfzUYek_9DtK5kQh7LS4Jce_f9eVPNcgfu6Yc7YvS2JlXeykYoahJp_SxoApZ9LjE3rKf581k4_W8MFc5Ys1-_S_TbFIIUL0ILuOqlKlNiLTPnSaoCQrFy61D5XBRNwSPprpNX-MN4PmhuD1FdKS0qSQDOTBz0ciS6rKPrKgUpjLWgSZ_J4o9ueP0joT4mC618_R6UASiujcBZxeDkf3MvX4AA.webp",
-      "source_info_link": "https://www.pmindia.gov.in/en/former-prime-ministers/"
+      "description": "Jawaharlal Nehru became the first Prime Minister of India in 1947. Chairman in 1950.",
+      "icon": "https://serpapi.com/images/i/UklGRrIAAABXRUJQVlA4IKYAAADQBACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiQAVC9KVwnnY76lsgayKXuJAAD-_sOWf21b91uegfr3oMfH-h_6Du2Gz_9P9Dske61f3h7-PQ9r14ezpMvGgol4JEypKavXfBARUlld1r-JYgrySg82KCkdVLEhc6oQgXp3ZiXdHiyYpJPTFZJbrPW8IlF0EZyOO8qQetwXSYpOyIujEKoYgAAA.webp",
+      "source_info_link": "https://prepp.in/question/jawaharlal-nehru-became-the-first-prime-minister-o-6a2e9d19f0103f0ac54f8374"
      }
     },
-    "displayed_link": "https://www.pmindia.gov.in › form...",
-    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACwBgCdASocABwAPtEutFooIagoGAEAGglsALEagCeK95VfANak50MC2lnuK9sCmePPjyFeYg9Fg26i47RcwAD-9gm4kzadrZKvYo_cQILHD2PfzUYek_9DtK5kQh7LS4Jce_f9eVPNcgfu6Yc7YvS2JlXeykYoahJp_SxoApZ9LjE3rKf581k4_W8MFc5Ys1-_S_TbFIIUL0ILuOqlKlNiLTPnSaoCQrFy61D5XBRNwSPprpNX-MN4PmhuD1FdKS0qSQDOTBz0ciS6rKPrKgUpjLWgSZ_J4o9ueP0joT4mC618_R6UASiujcBZxeDkf3MvX4AA.webp",
-    "link": "https://www.pmindia.gov.in/en/former-prime-ministers/",
+    "date": "Jun 14, 2026",
+    "displayed_link": "https://prepp.in › ... › Post Independence Events",
+    "favicon": "https://serpapi.com/images/i/UklGRrIAAABXRUJQVlA4IKYAAADQBACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiQAVC9KVwnnY76lsgayKXuJAAD-_sOWf21b91uegfr3oMfH-h_6Du2Gz_9P9Dske61f3h7-PQ9r14ezpMvGgol4JEypKavXfBARUlld1r-JYgrySg82KCkdVLEhc6oQgXp3ZiXdHiyYpJPTFZJbrPW8IlF0EZyOO8qQetwXSYpOyIujEKoYgAAA.webp",
+    "link": "https://prepp.in/question/jawaharlal-nehru-became-the-first-prime-minister-o-6a2e9d19f0103f0ac54f8374",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVjCjlw5jRgERKPu5PK3Qi1GSbpYu_LniK2AoQHamuB4_uGlnV5eTKlwjU8ej7bJWM7BfMsW9QgfWFExk9F2mDS10Qg9TAKJ5i93Y_Or-DSxcMCXKAW2nUd7ZZXWxAl3e9BacHpcl83Qs&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQFnoECCYQAQ&uoh=1",
-    "snippet": "Shri Inder Kumar Gujral was sworn in as the 12th Prime Minister of India on Monday, the 21st of April, 1997. Son of Late Shri Avtar Narain Gujral and Late Smt.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFbub66jocdipm8YJvFAI1QOcVbyrvUcnIbKV1NrRE4ATglUtk6MGsXEuQ_Gqouy24-rluIFHZ1yQnFMOIYozXUthjbZALMI9uwOl-JMT7-3-eEqHy8N5CD7VzkXfl-aU2be8I6XAJsgfDlVsHUrJwWjnHudvx6VndIoSyjIfu2S63Vw4KXlMqsPluCKRlxvu_gCmxkIUhV1LDkIZ&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQFnoECCwQAQ&uoh=1",
+    "snippet": "Jawaharlal Nehru became the first Prime Minister of India in 1947. Events under Nehru's leadership includes-A. The National Planning Commission appointed ...",
+    "source": "Prepp",
+    "title": "Jawaharlal Nehru became the first Prime Minister of India ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZicU9zVmNQc2YxbmVWYnM1cDkxR1g5UjhiRFNlWTZtWjRSblVrdW1YQWxCOF9TYnh6WjdfYWpEbHl0LUMtTGx6cUc3VUhfTlBDMFQ1c1hlVTVhVU1GV0U3QXBXWGRXcHZ6b2tWNkZwWkdBX3BCN3N2WDN2T1p2SkZuY3o3Zm5fdXY2VFZSWkMyQkN2bUdrbEJqaEZsUUtIbzNsRFNuRUptQWpBWHRFSRIEGgIIABrjBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC_BQgAEAAYACAAKgoKA3dobxWJIrM-KgoKA3dhcxUAAAAAKgoKA3RoZRUAAAAAKkUKBWZpcnN0FTYwgkAaAzFzdBoIZWFybGllc3QaBmZvcm1lchoHaGlzdG9yeRoCcG0aB3ByZW1pZXIaCmZpcnN0cHJpbWUqNAoFcHJpbWUV2IGCQBoCcG0aB3ByZW1pZXIaCmZpcnN0cHJpbWUaDXByaW1lbWluaXN0ZXIqPAoIbWluaXN0ZXIV2IGCQBoJbWluaXN0ZXJzGgJwbRoNcHJpbWVtaW5pc3RlchoNaXY7cDttaW5pc3RlcioJCgJvZhUAAAAAKgwKBWluZGlhFaCbtT8yvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RmJxT3NWY1BzZjFuZVZiczVwOTFHWDlSOGJEU2VZNm1aNFJuVWt1bVhBbEI4X1NieHpaN19hakRseXQtQy1MbHpxRzdVSF9OUEMwVDVzWGVVNWFVTUZXRTdBcFdYZFdwdnpva1Y2RnBaR0FfcEI3c3ZYM3ZPWnZKRm5jejdmbl91djZUVlJaQzJCQ3ZtR2tsQmpoRmxRS0hvM2xEU25FSm1BakFYdEVJOlA8Yj5QcmltZSBNaW5pc3RlcjwvYj4gTmVocnUmIzM5O3MgPGI-Zmlyc3Q8L2I-IHZpc2l0IHRvIEJodXRhbiBpbiBTZXB0ZW1iZXIgMTk1OEKbATxiPlBhbmRpdCBKYXdhaGFybGFsIE5laHJ1LCBJbmRpYSYjMzk7cyBmaXJzdCBQcmltZSBNaW5pc3RlcjwvYj4sIGFuZCBoaXMgZGF1Z2h0ZXIgSW5kaXJhIEdhbmRoaeKAlHN5bWJvbGl6aW5nIHRoZSBiZWdpbm5pbmcgb2YgdGhlIEluZG8tQmh1dGFuIGZyaWVuZHNoaXAuSgJvZkoDd2FzSgN0aGUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZicU9zVmNQc2YxbmVWYnM1cDkxR1g5UjhiRFNlWTZtWjRSblVrdW1YQWxCOF9TYnh6WjdfYWpEbHl0LUMtTGx6cUc3VUhfTlBDMFQ1c1hlVTVhVU1GV0U3QXBXWGRXcHZ6b2tWNkZwWkdBX3BCN3N2WDN2T1p2SkZuY3o3Zm5fdXY2VFZSWkMyQkN2bUdrbEJqaEZsUUtIbzNsRFNuRUptQWpBWHRFSRIEGgIIABrjBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC_BQgAEAAYACAAKgoKA3dobxWJIrM-KgoKA3dhcxUAAAAAKgoKA3RoZRUAAAAAKkUKBWZpcnN0FTYwgkAaAzFzdBoIZWFybGllc3QaBmZvcm1lchoHaGlzdG9yeRoCcG0aB3ByZW1pZXIaCmZpcnN0cHJpbWUqNAoFcHJpbWUV2IGCQBoCcG0aB3ByZW1pZXIaCmZpcnN0cHJpbWUaDXByaW1lbWluaXN0ZXIqPAoIbWluaXN0ZXIV2IGCQBoJbWluaXN0ZXJzGgJwbRoNcHJpbWVtaW5pc3RlchoNaXY7cDttaW5pc3RlcioJCgJvZhUAAAAAKgwKBWluZGlhFaCbtT8yvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RmJxT3NWY1BzZjFuZVZiczVwOTFHWDlSOGJEU2VZNm1aNFJuVWt1bVhBbEI4X1NieHpaN19hakRseXQtQy1MbHpxRzdVSF9OUEMwVDVzWGVVNWFVTUZXRTdBcFdYZFdwdnpva1Y2RnBaR0FfcEI3c3ZYM3ZPWnZKRm5jejdmbl91djZUVlJaQzJCQ3ZtR2tsQmpoRmxRS0hvM2xEU25FSm1BakFYdEVJOlA8Yj5QcmltZSBNaW5pc3RlcjwvYj4gTmVocnUmIzM5O3MgPGI-Zmlyc3Q8L2I-IHZpc2l0IHRvIEJodXRhbiBpbiBTZXB0ZW1iZXIgMTk1OEKbATxiPlBhbmRpdCBKYXdhaGFybGFsIE5laHJ1LCBJbmRpYSYjMzk7cyBmaXJzdCBQcmltZSBNaW5pc3RlcjwvYj4sIGFuZCBoaXMgZGF1Z2h0ZXIgSW5kaXJhIEdhbmRoaeKAlHN5bWJvbGl6aW5nIHRoZSBiZWdpbm5pbmcgb2YgdGhlIEluZG8tQmh1dGFuIGZyaWVuZHNoaXAuSgJvZkoDd2FzSgN0aGUiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Pandit Jawaharlal Nehru, India's first Prime Minister, and his daughter Indira Gandhi—symbolizing the beginning of the Indo-Bhutan friendship.",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/groups/338733083428419/posts/1112687326032987/"
+     }
+    },
+    "displayed_link": "3 comments · 3 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/groups/338733083428419/posts/1112687326032987/",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFbqOsVcPsf1neVbs5p91GX9R8bDSeY6mZ4RnUkumXAlB8_SbxzZ7_ajDlyt-C-LlzqG7UH_NPC0T5sXeU5aUMFWE7ApWXdWpvzokV6FpZGA_pB7svX3vOZvJFncz7fn_uv6TVRZC2BCvmGklBjhFlQKHo3lDSnEJmAjAXtEI&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQFnoECEIQAQ&uoh=1",
+    "snippet": "Pandit Jawaharlal Nehru, India's first Prime Minister, and his daughter Indira Gandhi—symbolizing the beginning of the Indo-Bhutan friendship.",
     "snippet_highlighted_words": [
-     "Prime Minister of India"
+     "Pandit Jawaharlal Nehru, India's first Prime Minister"
+    ],
+    "source": "Facebook · Druk & Drukpa-Vintage Photo Collections",
+    "title": "Prime Minister Nehru's first visit to Bhutan in September 1958"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvACL2dvdG8_dXJsPUNBRVNod0lCNnpzd0ZhZDVQNmRob0VELXd5a2hBRHljOVM4YzR4STg5MG5tT3VHWUJFUm55R25WSno5cWJZZlFPM0llMUZZYWVuZllETnRueUJNYndFOFN3bXQtUS1STkpwbFVfTTlTRkFHRV8teG81OE5ZdlFOZzFtTEEtaUJKQWdZY1RuMGkwU3U1R0ZXVDZ5eHhPcnRHSkRSZldXMGVVdXdtdEpLOHZ0bWJjaFVycHJqdDc0VGhOSExlT3V0dHJwY0tBYzBBVGxzdXVCanl4WmQ1d0w2TTdaeDZGY21ndk93MV9MTDQzelhOdWJRRS1ieEw4QXhZakYzTVp3aDVJOTlGUnRLT3pFT0NJY2lDQi1PR1RBYXBvRHhkTEd2SU85dXphX2o2cVJVd3JyWmN3cTJfQnBYenFXNDhqVnd4OWktcjlzOXJfOWN2ODBmUWN3dVFIR1dBTDRQQVgyR05pOEJWcmcSBBoCCAAaqwcSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAhwcIABAAGAAgACoKCgN3aG8VMO4WPioKCgN3YXMVAAAAACoKCgN0aGUVAAAAACpFCgVmaXJzdBUUDl9AGgMxc3QaCGVhcmxpZXN0GgZmb3JtZXIaB2hpc3RvcnkaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lKjQKBXByaW1lFdIzXEAaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lGg1wcmltZW1pbmlzdGVyKjwKCG1pbmlzdGVyFdIzXEAaCW1pbmlzdGVycxoCcG0aDXByaW1lbWluaXN0ZXIaDWl2O3A7bWluaXN0ZXIqCQoCb2YVAAAAACoMCgVpbmRpYRUuIHxAMvACL2dvdG8_dXJsPUNBRVNod0lCNnpzd0ZhZDVQNmRob0VELXd5a2hBRHljOVM4YzR4STg5MG5tT3VHWUJFUm55R25WSno5cWJZZlFPM0llMUZZYWVuZllETnRueUJNYndFOFN3bXQtUS1STkpwbFVfTTlTRkFHRV8teG81OE5ZdlFOZzFtTEEtaUJKQWdZY1RuMGkwU3U1R0ZXVDZ5eHhPcnRHSkRSZldXMGVVdXdtdEpLOHZ0bWJjaFVycHJqdDc0VGhOSExlT3V0dHJwY0tBYzBBVGxzdXVCanl4WmQ1d0w2TTdaeDZGY21ndk93MV9MTDQzelhOdWJRRS1ieEw4QXhZakYzTVp3aDVJOTlGUnRLT3pFT0NJY2lDQi1PR1RBYXBvRHhkTEd2SU85dXphX2o2cVJVd3JyWmN3cTJfQnBYenFXNDhqVnd4OWktcjlzOXJfOWN2ODBmUWN3dVFIR1dBTDRQQVgyR05pOEJWcmc6Uk1hdWxhbmEgQmFya2F0dWxsYWg6IFRoZSAmIzM5OzxiPmZpcnN0IHByaW1lIG1pbmlzdGVyIG9mIEluZGlhPC9iPiYjMzk7LCB3aG9zZSAuLi5CrwE8Yj5NYXVsYW5hIEJhcmthdHVsbGFoPC9iPiB3YXMgYSBub3RhYmxlIGZyZWVkb20gZmlnaHRlciBhbmQgdGhlICYjMzk7Zmlyc3QgcHJpbWUgbWluaXN0ZXIgb2YgaW5kZXBlbmRlbnQgSW5kaWEmIzM5Oy4gSGUgZXN0YWJsaXNoZWQgSW5kaWEmIzM5O3MgZmlyc3QgJiMzOTtnb3Zlcm5tZW50Jm5ic3A7Li4uSgN0aGVKA3dhc0oCb2YiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvACL2dvdG8_dXJsPUNBRVNod0lCNnpzd0ZhZDVQNmRob0VELXd5a2hBRHljOVM4YzR4STg5MG5tT3VHWUJFUm55R25WSno5cWJZZlFPM0llMUZZYWVuZllETnRueUJNYndFOFN3bXQtUS1STkpwbFVfTTlTRkFHRV8teG81OE5ZdlFOZzFtTEEtaUJKQWdZY1RuMGkwU3U1R0ZXVDZ5eHhPcnRHSkRSZldXMGVVdXdtdEpLOHZ0bWJjaFVycHJqdDc0VGhOSExlT3V0dHJwY0tBYzBBVGxzdXVCanl4WmQ1d0w2TTdaeDZGY21ndk93MV9MTDQzelhOdWJRRS1ieEw4QXhZakYzTVp3aDVJOTlGUnRLT3pFT0NJY2lDQi1PR1RBYXBvRHhkTEd2SU85dXphX2o2cVJVd3JyWmN3cTJfQnBYenFXNDhqVnd4OWktcjlzOXJfOWN2ODBmUWN3dVFIR1dBTDRQQVgyR05pOEJWcmcSBBoCCAAaqwcSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAhwcIABAAGAAgACoKCgN3aG8VMO4WPioKCgN3YXMVAAAAACoKCgN0aGUVAAAAACpFCgVmaXJzdBUUDl9AGgMxc3QaCGVhcmxpZXN0GgZmb3JtZXIaB2hpc3RvcnkaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lKjQKBXByaW1lFdIzXEAaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lGg1wcmltZW1pbmlzdGVyKjwKCG1pbmlzdGVyFdIzXEAaCW1pbmlzdGVycxoCcG0aDXByaW1lbWluaXN0ZXIaDWl2O3A7bWluaXN0ZXIqCQoCb2YVAAAAACoMCgVpbmRpYRUuIHxAMvACL2dvdG8_dXJsPUNBRVNod0lCNnpzd0ZhZDVQNmRob0VELXd5a2hBRHljOVM4YzR4STg5MG5tT3VHWUJFUm55R25WSno5cWJZZlFPM0llMUZZYWVuZllETnRueUJNYndFOFN3bXQtUS1STkpwbFVfTTlTRkFHRV8teG81OE5ZdlFOZzFtTEEtaUJKQWdZY1RuMGkwU3U1R0ZXVDZ5eHhPcnRHSkRSZldXMGVVdXdtdEpLOHZ0bWJjaFVycHJqdDc0VGhOSExlT3V0dHJwY0tBYzBBVGxzdXVCanl4WmQ1d0w2TTdaeDZGY21ndk93MV9MTDQzelhOdWJRRS1ieEw4QXhZakYzTVp3aDVJOTlGUnRLT3pFT0NJY2lDQi1PR1RBYXBvRHhkTEd2SU85dXphX2o2cVJVd3JyWmN3cTJfQnBYenFXNDhqVnd4OWktcjlzOXJfOWN2ODBmUWN3dVFIR1dBTDRQQVgyR05pOEJWcmc6Uk1hdWxhbmEgQmFya2F0dWxsYWg6IFRoZSAmIzM5OzxiPmZpcnN0IHByaW1lIG1pbmlzdGVyIG9mIEluZGlhPC9iPiYjMzk7LCB3aG9zZSAuLi5CrwE8Yj5NYXVsYW5hIEJhcmthdHVsbGFoPC9iPiB3YXMgYSBub3RhYmxlIGZyZWVkb20gZmlnaHRlciBhbmQgdGhlICYjMzk7Zmlyc3QgcHJpbWUgbWluaXN0ZXIgb2YgaW5kZXBlbmRlbnQgSW5kaWEmIzM5Oy4gSGUgZXN0YWJsaXNoZWQgSW5kaWEmIzM5O3MgZmlyc3QgJiMzOTtnb3Zlcm5tZW50Jm5ic3A7Li4uSgN0aGVKA3dhc0oCb2YiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Maulana Barkatullah was a notable freedom fighter and the 'first prime minister of independent India'. He established India's first 'government ...",
+      "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0gXsgD0TCvA9kdDMNcEWdSgnOz7E7I9JrB8-wf-u2srHexAAD-9gU0d6r52IXSVKHRQPLG3jpen7pWwV8ZIhntpSkT_O35vgokr9_F3S6PAPQmnGCEL8IYQIMZxeIQjB5vCSPvh6nEF8lJkDlDAfnjMRNHl26dK5QITMYCpBiwY_NqwCKZMTzH_yhLh-zhvCrFMs5ETVG6WymVoTLqyUiXu_o_kDhe4LOBSzY__HIwIahjC5WNnUVl2Cqi8JTU_EZ3b4VwiS-frW_nxtQBY-f-Im09bszteOmNl5-ArqdEClFqOl2UhUHX2SRtfHrP3v2RneJUdVs7w5xgv5kKf_g0mZTyVjBbS27BM5F-AZjFCURuuP8b9frfc6HR_IAAAA.webp",
+      "source_info_link": "https://visionias.in/current-affairs/upsc-daily-news-summary/article/2026-06-06/the-indian-express/history/maulana-barkatullah-the-first-prime-minister-of-india-whose-name-bhopal-university-wants-to-drop"
+     }
+    },
+    "date": "Jun 6, 2026",
+    "displayed_link": "https://visionias.in › article › the-indian-express › history",
+    "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0gXsgD0TCvA9kdDMNcEWdSgnOz7E7I9JrB8-wf-u2srHexAAD-9gU0d6r52IXSVKHRQPLG3jpen7pWwV8ZIhntpSkT_O35vgokr9_F3S6PAPQmnGCEL8IYQIMZxeIQjB5vCSPvh6nEF8lJkDlDAfnjMRNHl26dK5QITMYCpBiwY_NqwCKZMTzH_yhLh-zhvCrFMs5ETVG6WymVoTLqyUiXu_o_kDhe4LOBSzY__HIwIahjC5WNnUVl2Cqi8JTU_EZ3b4VwiS-frW_nxtQBY-f-Im09bszteOmNl5-ArqdEClFqOl2UhUHX2SRtfHrP3v2RneJUdVs7w5xgv5kKf_g0mZTyVjBbS27BM5F-AZjFCURuuP8b9frfc6HR_IAAAA.webp",
+    "link": "https://visionias.in/current-affairs/upsc-daily-news-summary/article/2026-06-06/the-indian-express/history/maulana-barkatullah-the-first-prime-minister-of-india-whose-name-bhopal-university-wants-to-drop",
+    "position": 4,
+    "read_more_link": "https://visionias.in/current-affairs/upsc-daily-news-summary/article/2026-06-06/the-indian-express/history/maulana-barkatullah-the-first-prime-minister-of-india-whose-name-bhopal-university-wants-to-drop#:~:text=Call%20Us",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwIB6zswFad5P6dhoED-wykhADyc9S8c4xI890nmOuGYBERnyGnVJz9qbYfQO3Ie1FYaenfYDNtnyBMbwE8Swmt-Q-RNJplU_M9SFAGE_-xo58NYvQNg1mLA-iBJAgYcTn0i0Su5GFWT6yxxOrtGJDRfWW0eUuwmtJK8vtmbchUrprjt74ThNHLeOuttrpcKAc0ATlsuuBjyxZd5wL6M7Zx6FcmgvOw1_LL43zXNubQE-bxL8AxYjF3MZwh5I99FRtKOzEOCIciCB-OGTAapoDxdLGvIO9uza_j6qRUwrrZcwq2_BpXzqW48jVwx9i-r9s9r_9cv80fQcwuQHGWAL4PAX2GNi8BVrg&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQFnoECEMQAQ&uoh=1",
+    "snippet": "Maulana Barkatullah was a notable freedom fighter and the 'first prime minister of independent India'. He established India's first 'government ...",
+    "snippet_highlighted_words": [
+     "Maulana Barkatullah"
+    ],
+    "source": "Vision IAS",
+    "title": "Maulana Barkatullah: The 'first prime minister of India' ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0Zmd19zcGJYdEJvb0FILTlNMjluTXZDdXRRVWlxbmJkYTBmaV93MzlYTVZVbkNPQ1RYRUZBY2VzcUpvRnp4NkFhY0k2V1I1NVVSS0dEOTNCUklFOTlYSTFXMS12dnFBNFd6WUo2WFludDN6T2d1YS1nS3JqWDF5MnlWUnhNSVFLbDU3WFdubV91QlBnWUl5dGdPN3NJM3RRTkJsOS1EVUMwV201S0FqMnZ6Z2wxNHBReF8yLVc5eVI5R09QT0hIeGVlSRIEGgIIABr5BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDVBQgAEAAYACAAKgoKA3dobxV5HE4_KgoKA3dhcxUAAAAAKgoKA3RoZRUAAAAAKkUKBWZpcnN0FahRtEAaAzFzdBoIZWFybGllc3QaBmZvcm1lchoHaGlzdG9yeRoCcG0aB3ByZW1pZXIaCmZpcnN0cHJpbWUqNAoFcHJpbWUVtkjSQBoCcG0aB3ByZW1pZXIaCmZpcnN0cHJpbWUaDXByaW1lbWluaXN0ZXIqPAoIbWluaXN0ZXIVoqfPQBoJbWluaXN0ZXJzGgJwbRoNcHJpbWVtaW5pc3RlchoNaXY7cDttaW5pc3RlcioJCgJvZhUAAAAAKgwKBWluZGlhFeqx3EAy2QEvZ290bz91cmw9Q0FFU2xnRUI2enN3RmZ3X3NwYlh0Qm9vQUgtOU0yOW5NdkN1dFFVaXFuYmRhMGZpX3czOVhNVlVuQ09DVFhFRkFjZXNxSm9Geng2QWFjSTZXUjU1VVJLR0Q5M0JSSUU5OVhJMVcxLXZ2cUE0V3pZSjZYWW50M3pPZ3VhLWdLcmpYMXkyeVZSeE1JUUtsNTdYV25tX3VCUGdZSXl0Z083c0kzdFFOQmw5LURVQzBXbTVLQWoydnpnbDE0cFF4XzItVzl5UjlHT1BPSEh4ZWVJOkRJbmRpcmEgR2FuZGhpOiBUaGUgPGI-Rmlyc3Q8L2I-IFdvbWFuIDxiPlByaW1lIE1pbmlzdGVyIG9mIEluZGlhPC9iPkKiAUluZGlyYSBHYW5kaGkgd2FzIHRoZSBkYXVnaHRlciBvZiBKYXdhaGFybGFsIE5laHJ1LCA8Yj5JbmRpYSYjMzk7cyBmaXJzdCBQcmltZSBNaW5pc3RlcjwvYj4uIEluZGlyYSBHYW5kaGkgd2FzIGJvcm4gb24gMTkgTm92ZW1iZXIgMTkxNyBpbiBBbGxhaGFiYWQgPGI-SW5kaWE8L2I-LkoCb2ZKA3dhc0oDdGhlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0Zmd19zcGJYdEJvb0FILTlNMjluTXZDdXRRVWlxbmJkYTBmaV93MzlYTVZVbkNPQ1RYRUZBY2VzcUpvRnp4NkFhY0k2V1I1NVVSS0dEOTNCUklFOTlYSTFXMS12dnFBNFd6WUo2WFludDN6T2d1YS1nS3JqWDF5MnlWUnhNSVFLbDU3WFdubV91QlBnWUl5dGdPN3NJM3RRTkJsOS1EVUMwV201S0FqMnZ6Z2wxNHBReF8yLVc5eVI5R09QT0hIeGVlSRIEGgIIABr5BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDVBQgAEAAYACAAKgoKA3dobxV5HE4_KgoKA3dhcxUAAAAAKgoKA3RoZRUAAAAAKkUKBWZpcnN0FahRtEAaAzFzdBoIZWFybGllc3QaBmZvcm1lchoHaGlzdG9yeRoCcG0aB3ByZW1pZXIaCmZpcnN0cHJpbWUqNAoFcHJpbWUVtkjSQBoCcG0aB3ByZW1pZXIaCmZpcnN0cHJpbWUaDXByaW1lbWluaXN0ZXIqPAoIbWluaXN0ZXIVoqfPQBoJbWluaXN0ZXJzGgJwbRoNcHJpbWVtaW5pc3RlchoNaXY7cDttaW5pc3RlcioJCgJvZhUAAAAAKgwKBWluZGlhFeqx3EAy2QEvZ290bz91cmw9Q0FFU2xnRUI2enN3RmZ3X3NwYlh0Qm9vQUgtOU0yOW5NdkN1dFFVaXFuYmRhMGZpX3czOVhNVlVuQ09DVFhFRkFjZXNxSm9Geng2QWFjSTZXUjU1VVJLR0Q5M0JSSUU5OVhJMVcxLXZ2cUE0V3pZSjZYWW50M3pPZ3VhLWdLcmpYMXkyeVZSeE1JUUtsNTdYV25tX3VCUGdZSXl0Z083c0kzdFFOQmw5LURVQzBXbTVLQWoydnpnbDE0cFF4XzItVzl5UjlHT1BPSEh4ZWVJOkRJbmRpcmEgR2FuZGhpOiBUaGUgPGI-Rmlyc3Q8L2I-IFdvbWFuIDxiPlByaW1lIE1pbmlzdGVyIG9mIEluZGlhPC9iPkKiAUluZGlyYSBHYW5kaGkgd2FzIHRoZSBkYXVnaHRlciBvZiBKYXdhaGFybGFsIE5laHJ1LCA8Yj5JbmRpYSYjMzk7cyBmaXJzdCBQcmltZSBNaW5pc3RlcjwvYj4uIEluZGlyYSBHYW5kaGkgd2FzIGJvcm4gb24gMTkgTm92ZW1iZXIgMTkxNyBpbiBBbGxhaGFiYWQgPGI-SW5kaWE8L2I-LkoCb2ZKA3dhc0oDdGhlIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Indira Gandhi was the daughter of Jawaharlal Nehru, India's first Prime Minister. Indira Gandhi was born on 19 November 1917 in Allahabad India.",
+      "icon": "https://serpapi.com/images/i/UklGRp4AAABXRUJQVlA4IJIAAAAQAgCdASoQABAAAsBMJbAAD42QiDPE4ngAAP76qO5_X0D_ExZ_L-hYd-rs0y0sKJhavfFm_pilQ_6zpfGjr7L9y6juH05Fx7faPSTvTguQnQoslXqcFAqTB9UGzNErxPn5VVFSkeEhB9Of_O-hgM0rKvo1t_LPfueeZ8ZAD-5MSbkkJn_-BsVrTkmbGS9B_raAAA.webp",
+      "source_info_link": "https://www.politicalfunda.com/2022/02/indira-gandhi-the-first-prime-minister-of-india.html"
+     }
+    },
+    "date": "Feb 1, 2022",
+    "displayed_link": "https://www.politicalfunda.com › Home › Political",
+    "favicon": "https://serpapi.com/images/i/UklGRp4AAABXRUJQVlA4IJIAAAAQAgCdASoQABAAAsBMJbAAD42QiDPE4ngAAP76qO5_X0D_ExZ_L-hYd-rs0y0sKJhavfFm_pilQ_6zpfGjr7L9y6juH05Fx7faPSTvTguQnQoslXqcFAqTB9UGzNErxPn5VVFSkeEhB9Of_O-hgM0rKvo1t_LPfueeZ8ZAD-5MSbkkJn_-BsVrTkmbGS9B_raAAA.webp",
+    "link": "https://www.politicalfunda.com/2022/02/indira-gandhi-the-first-prime-minister-of-india.html",
+    "position": 5,
+    "read_more_link": "https://www.politicalfunda.com/2022/02/indira-gandhi-the-first-prime-minister-of-india.html#:~:text=Indira%20Gandhi%20was%20the%20daughter,November%201917%20in%20Allahabad%20India.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFfw_spbXtBooAH-9M29nMvCutQUiqnbda0fi_w39XMVUnCOCTXEFAcesqJoFzx6AacI6WR55URKGD93BRIE99XI1W1-vvqA4WzYJ6XYnt3zOgua-gKrjX1y2yVRxMIQKl57XWnm_uBPgYIytgO7sI3tQNBl9-DUC0Wm5KAj2vzgl14pQx_2-W9yR9GOPOHHxeeI&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQFnoECD0QAQ&uoh=1",
+    "snippet": "Indira Gandhi was the daughter of Jawaharlal Nehru, India's first Prime Minister. Indira Gandhi was born on 19 November 1917 in Allahabad India.",
+    "snippet_highlighted_words": [
+     "India's first Prime Minister",
+     "India"
+    ],
+    "source": "politicalfunda.com",
+    "title": "Indira Gandhi: The First Woman Prime Minister of India"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZZcDhQZFQxaUVrU3BsWnoxMjZoWHM5UmlacXVOTGNCLWVHMEtJV29McU5kMkhfdUlyRUdqMlZqS0VzVVBiZXRpZHFyczRnWUJWSlhWTGRvU0l6YU4zdExUTFNwUm8tdWdqTE5wSy1RMllSSzFKWWMzakdDazNITTBjazRsYmxQU2pTd3l3TTJaYkc0TVBnN2ZXcWxVYjhKb3hCR2JNbF9RTTAwSVFOdTllamU2c3JZVUh1MU5XV3ZFeXlsUUNEbU9UQzVtdll1UXcSBBoCCAAa8QUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAzQUIABAAGAAgACoKCgN3aG8VAAAAACoKCgN3YXMVAAAAACoKCgN0aGUVAAAAACpFCgVmaXJzdBUAAAAAGgMxc3QaCGVhcmxpZXN0GgZmb3JtZXIaB2hpc3RvcnkaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lKjQKBXByaW1lFRMUlEAaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lGg1wcmltZW1pbmlzdGVyKjwKCG1pbmlzdGVyFW4UkEAaCW1pbmlzdGVycxoCcG0aDXByaW1lbWluaXN0ZXIaDWl2O3A7bWluaXN0ZXIqCQoCb2YVAAAAACoMCgVpbmRpYRWGVRhAMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZZcDhQZFQxaUVrU3BsWnoxMjZoWHM5UmlacXVOTGNCLWVHMEtJV29McU5kMkhfdUlyRUdqMlZqS0VzVVBiZXRpZHFyczRnWUJWSlhWTGRvU0l6YU4zdExUTFNwUm8tdWdqTE5wSy1RMllSSzFKWWMzakdDazNITTBjazRsYmxQU2pTd3l3TTJaYkc0TVBnN2ZXcWxVYjhKb3hCR2JNbF9RTTAwSVFOdTllamU2c3JZVUh1MU5XV3ZFeXlsUUNEbU9UQzVtdll1UXc6PDxiPlBNPC9iPiByZW1lbWJlcnMgU2hyaSBLLiBLYW1hcmFqIG9uIGhpcyBiaXJ0aCBhbm5pdmVyc2FyeUKbAVRoZSBQcmltZSBNaW5pc3RlciwgU2hyaSBOYXJlbmRyYSBNb2RpIGhhcyByZW1lbWJlcmVkIDxiPlNocmkgSy4gS2FtYXJhajwvYj4gb24gaGlzIGJpcnRoIGFubml2ZXJzYXJ5LiBTaHJpIE1vZGkgc2FpZCB0aGF0IFNocmkgSy5LYW1hcmFqIGhhcyBtYWRlJm5ic3A7Li4uSgN0aGVKA3dhc0oCb2YiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZZcDhQZFQxaUVrU3BsWnoxMjZoWHM5UmlacXVOTGNCLWVHMEtJV29McU5kMkhfdUlyRUdqMlZqS0VzVVBiZXRpZHFyczRnWUJWSlhWTGRvU0l6YU4zdExUTFNwUm8tdWdqTE5wSy1RMllSSzFKWWMzakdDazNITTBjazRsYmxQU2pTd3l3TTJaYkc0TVBnN2ZXcWxVYjhKb3hCR2JNbF9RTTAwSVFOdTllamU2c3JZVUh1MU5XV3ZFeXlsUUNEbU9UQzVtdll1UXcSBBoCCAAa8QUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAzQUIABAAGAAgACoKCgN3aG8VAAAAACoKCgN3YXMVAAAAACoKCgN0aGUVAAAAACpFCgVmaXJzdBUAAAAAGgMxc3QaCGVhcmxpZXN0GgZmb3JtZXIaB2hpc3RvcnkaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lKjQKBXByaW1lFRMUlEAaAnBtGgdwcmVtaWVyGgpmaXJzdHByaW1lGg1wcmltZW1pbmlzdGVyKjwKCG1pbmlzdGVyFW4UkEAaCW1pbmlzdGVycxoCcG0aDXByaW1lbWluaXN0ZXIaDWl2O3A7bWluaXN0ZXIqCQoCb2YVAAAAACoMCgVpbmRpYRWGVRhAMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZZcDhQZFQxaUVrU3BsWnoxMjZoWHM5UmlacXVOTGNCLWVHMEtJV29McU5kMkhfdUlyRUdqMlZqS0VzVVBiZXRpZHFyczRnWUJWSlhWTGRvU0l6YU4zdExUTFNwUm8tdWdqTE5wSy1RMllSSzFKWWMzakdDazNITTBjazRsYmxQU2pTd3l3TTJaYkc0TVBnN2ZXcWxVYjhKb3hCR2JNbF9RTTAwSVFOdTllamU2c3JZVUh1MU5XV3ZFeXlsUUNEbU9UQzVtdll1UXc6PDxiPlBNPC9iPiByZW1lbWJlcnMgU2hyaSBLLiBLYW1hcmFqIG9uIGhpcyBiaXJ0aCBhbm5pdmVyc2FyeUKbAVRoZSBQcmltZSBNaW5pc3RlciwgU2hyaSBOYXJlbmRyYSBNb2RpIGhhcyByZW1lbWJlcmVkIDxiPlNocmkgSy4gS2FtYXJhajwvYj4gb24gaGlzIGJpcnRoIGFubml2ZXJzYXJ5LiBTaHJpIE1vZGkgc2FpZCB0aGF0IFNocmkgSy5LYW1hcmFqIGhhcyBtYWRlJm5ic3A7Li4uSgN0aGVKA3dhc0oCb2YiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The Prime Minister, Shri Narendra Modi has remembered Shri K. Kamaraj on his birth anniversary. Shri Modi said that Shri K.Kamaraj has made ...",
+      "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAACQBgCdASocABwAPrkurlcnIacnG_DgFwlsALEbXjgQLlvMSNBCADebLMovXWxd2czPIRgMA0VKe7-c_ogAAP736bEGfmN_YRNWYHi9JBIP3XEIGanEmKMkWMHVn9J6mpNv7-Hp6GT_l4eb3MLLnJ-Tz2A4k_ukOv0LlMg_ig8-Lzy-v6jZ1DQJa3yajblxlIaisiuESz-3dl7Fyvg97uO0cRgkzPNZYgFd-TkcD11T8tzm26TrOK6pqS8-TO_kW7dFtsSfWDz1s_Q_5LDqy63k9n4V-IeDqScnvJHk9EFm5z3x8fpILlyCXrLOAAAA.webp",
+      "source_info_link": "https://www.pmindia.gov.in/en/news_updates/pm-remembers-shri-k-kamaraj-on-his-birth-anniversary/"
+     }
+    },
+    "date": "Jul 15, 2022",
+    "displayed_link": "https://www.pmindia.gov.in › news_updates › pm-reme...",
+    "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAACQBgCdASocABwAPrkurlcnIacnG_DgFwlsALEbXjgQLlvMSNBCADebLMovXWxd2czPIRgMA0VKe7-c_ogAAP736bEGfmN_YRNWYHi9JBIP3XEIGanEmKMkWMHVn9J6mpNv7-Hp6GT_l4eb3MLLnJ-Tz2A4k_ukOv0LlMg_ig8-Lzy-v6jZ1DQJa3yajblxlIaisiuESz-3dl7Fyvg97uO0cRgkzPNZYgFd-TkcD11T8tzm26TrOK6pqS8-TO_kW7dFtsSfWDz1s_Q_5LDqy63k9n4V-IeDqScnvJHk9EFm5z3x8fpILlyCXrLOAAAA.webp",
+    "link": "https://www.pmindia.gov.in/en/news_updates/pm-remembers-shri-k-kamaraj-on-his-birth-anniversary/",
+    "position": 6,
+    "read_more_link": "https://www.pmindia.gov.in/en/news_updates/pm-remembers-shri-k-kamaraj-on-his-birth-anniversary/#:~:text=The%20Prime%20Minister%2C%20Shri%20Narendra,mark%20as%20a%20compassionate%20administrator.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFYp8PdT1iEkSplZz126hXs9RiZquNLcB-eG0KIWoLqNd2H_uIrEGj2VjKEsUPbetidqrs4gYBVJXVLdoSIzaN3tLTLSpRo-ugjLNpK-Q2YRK1JYc3jGCk3HM0ck4lblPSjSwywM2ZbG4MPg7fWqlUb8JoxBGbMl_QM00IQNu9eje6srYUHu1NWWvEyylQCDmOTC5mvYuQw&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQFnoECDwQAQ&uoh=1",
+    "snippet": "The Prime Minister, Shri Narendra Modi has remembered Shri K. Kamaraj on his birth anniversary. Shri Modi said that Shri K.Kamaraj has made ...",
+    "snippet_highlighted_words": [
+     "Shri K. Kamaraj"
     ],
     "source": "PM India",
-    "title": "Former Prime Ministers"
+    "title": "PM remembers Shri K. Kamaraj on his birth anniversary"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZSM0hVT21Ya1FfYnZrRFVka0ZvNF9EZHN3TFVBNnpuYWJQQlI0a0tPa0daS3p3Q1NnOVRGMnBoZWtuRTFxbmJ5aExCdjM3YkNPa1VuS0lvVUQybWN6bjA0YWYxSlJGWjdOR3R2SFBwMGM0azVwbHVmd3NnRzZYbE9LV24ySDNSeDNVZjh2R0t4YzQtQ0lWZDZyTmMzdUhIVzZqT0Z5RXBiWFc3TUU1bEV4bnhOUFpjUHVSeDNjVnJDT2h1SXBLa04yN0FOWUMxMmdWa0FWZHpheVBHZUkwX1A2ZERrWTZTZDBuWTFhY0JDLWhBM3dtcGZMU3AyeW5RWVZwdEFMVzZGa3cxMVp0NnR5M2lhczdkEgQaAggAGsIGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJ4GCAAQABgAIAAqCgoDd2hvFWks_j4qCgoDd2FzFQAAAAAqCgoDdGhlFQAAAAAqRQoFZmlyc3QVfg5MPxoDMXN0GghlYXJsaWVzdBoGZm9ybWVyGgdoaXN0b3J5GgJwbRoHcHJlbWllchoKZmlyc3RwcmltZSo0CgVwcmltZRVmcXNAGgJwbRoHcHJlbWllchoKZmlyc3RwcmltZRoNcHJpbWVtaW5pc3Rlcio8CghtaW5pc3RlchWob2hAGgltaW5pc3RlcnMaAnBtGg1wcmltZW1pbmlzdGVyGg1pdjtwO21pbmlzdGVyKgkKAm9mFQAAAAAqDAoFaW5kaWEVJO88QDKmAi9nb3RvP3VybD1DQUVTMEFFQjZ6c3dGUjNIVU9tWGtRX2J2a0RVZGtGbzRfRGRzd0xVQTZ6bmFiUEJSNGtLT2tHWkt6d0NTZzlURjJwaGVrbkUxcW5ieWhMQnYzN2JDT2tVbktJb1VEMm1jem4wNGFmMUpSRlo3Tkd0dkhQcDBjNGs1cGx1ZndzZ0c2WGxPS1duMkgzUngzVWY4dkdLeGM0LUNJVmQ2ck5jM3VISFc2ak9GeUVwYlhXN01FNWxFeG54TlBaY1B1UngzY1ZyQ09odUlwS2tOMjdBTllDMTJnVmtBVmR6YXlQR2VJMF9QNmREa1k2U2QwblkxYWNCQy1oQTN3bXBmTFNwMnluUVlWcHRBTFc2Rmt3MTFadDZ0eTNpYXM3ZDpDV2h5IGlzIEluZGlyYSBHYW5kaGkgc2VlbiBieSBzb21lIGFzIHRoZSBzdHJvbmdlc3QgPGI-UHJpbWU8L2I-IC4uLkKfATxiPkluZGlyYSBHYW5kaGkgYmVjYW1lIHByaW1lIG1pbmlzdGVyIG9mIEluZGlhPC9iPiBub3QgdHdpY2UgYnV0IGEgd2hvcHBpbmcgZm91ciB0aW1lcyEgRmlyc3QgdGltZSBzaGUgd2FzIG1hZGUgdGhlIHByaW1lIG1pbmlzdGVyIGluIEphbnVhcnkgMTk2NiBieSZuYnNwOy4uLkoDdGhlSgN3YXNKAm9mIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZSM0hVT21Ya1FfYnZrRFVka0ZvNF9EZHN3TFVBNnpuYWJQQlI0a0tPa0daS3p3Q1NnOVRGMnBoZWtuRTFxbmJ5aExCdjM3YkNPa1VuS0lvVUQybWN6bjA0YWYxSlJGWjdOR3R2SFBwMGM0azVwbHVmd3NnRzZYbE9LV24ySDNSeDNVZjh2R0t4YzQtQ0lWZDZyTmMzdUhIVzZqT0Z5RXBiWFc3TUU1bEV4bnhOUFpjUHVSeDNjVnJDT2h1SXBLa04yN0FOWUMxMmdWa0FWZHpheVBHZUkwX1A2ZERrWTZTZDBuWTFhY0JDLWhBM3dtcGZMU3AyeW5RWVZwdEFMVzZGa3cxMVp0NnR5M2lhczdkEgQaAggAGsIGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJ4GCAAQABgAIAAqCgoDd2hvFWks_j4qCgoDd2FzFQAAAAAqCgoDdGhlFQAAAAAqRQoFZmlyc3QVfg5MPxoDMXN0GghlYXJsaWVzdBoGZm9ybWVyGgdoaXN0b3J5GgJwbRoHcHJlbWllchoKZmlyc3RwcmltZSo0CgVwcmltZRVmcXNAGgJwbRoHcHJlbWllchoKZmlyc3RwcmltZRoNcHJpbWVtaW5pc3Rlcio8CghtaW5pc3RlchWob2hAGgltaW5pc3RlcnMaAnBtGg1wcmltZW1pbmlzdGVyGg1pdjtwO21pbmlzdGVyKgkKAm9mFQAAAAAqDAoFaW5kaWEVJO88QDKmAi9nb3RvP3VybD1DQUVTMEFFQjZ6c3dGUjNIVU9tWGtRX2J2a0RVZGtGbzRfRGRzd0xVQTZ6bmFiUEJSNGtLT2tHWkt6d0NTZzlURjJwaGVrbkUxcW5ieWhMQnYzN2JDT2tVbktJb1VEMm1jem4wNGFmMUpSRlo3Tkd0dkhQcDBjNGs1cGx1ZndzZ0c2WGxPS1duMkgzUngzVWY4dkdLeGM0LUNJVmQ2ck5jM3VISFc2ak9GeUVwYlhXN01FNWxFeG54TlBaY1B1UngzY1ZyQ09odUlwS2tOMjdBTllDMTJnVmtBVmR6YXlQR2VJMF9QNmREa1k2U2QwblkxYWNCQy1oQTN3bXBmTFNwMnluUVlWcHRBTFc2Rmt3MTFadDZ0eTNpYXM3ZDpDV2h5IGlzIEluZGlyYSBHYW5kaGkgc2VlbiBieSBzb21lIGFzIHRoZSBzdHJvbmdlc3QgPGI-UHJpbWU8L2I-IC4uLkKfATxiPkluZGlyYSBHYW5kaGkgYmVjYW1lIHByaW1lIG1pbmlzdGVyIG9mIEluZGlhPC9iPiBub3QgdHdpY2UgYnV0IGEgd2hvcHBpbmcgZm91ciB0aW1lcyEgRmlyc3QgdGltZSBzaGUgd2FzIG1hZGUgdGhlIHByaW1lIG1pbmlzdGVyIGluIEphbnVhcnkgMTk2NiBieSZuYnNwOy4uLkoDdGhlSgN3YXNKAm9mIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "Jawaharlal Nehru was India's first prime minister. Beginning from 1946, Nehru secured a major victory in 1946 Indian Constituent Assembly election and served as ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+      "description": "Indira Gandhi became prime minister of India not twice but a whopping four times! First time she was made the prime minister in January 1966 by ...",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "source_info_link": "https://www.quora.com/Why-is-Indira-Gandhi-seen-by-some-as-the-strongest-Prime-Minister-India-has-ever-had-and-at-the-same-time-hated-by-some-others"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › Lis...",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India",
-    "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVIoIAYRBncTm96fg0Sctbm-pmiIz0j_3WLn3dI4BSJ3qRqFC4yv29FGvuTD3W7GDKcqHej8GguclGMLC6pWWeaN2epGK5dizDfpOuSd3FdtGjlTtr7aVXedpy3yZ4X4MJgI2eQr-E9GYojgxWxrHp_ps&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQFnoECDAQAQ&uoh=1",
-    "sitelinks": {
-     "inline": [
-      {
-       "link": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India#List",
-       "title": "List"
-      },
-      {
-       "link": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India#List_of_prime_ministers_by_length_of_term",
-       "title": "List of prime ministers by..."
-      },
-      {
-       "link": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India#List_by_party",
-       "title": "List by party"
-      }
-     ]
-    },
-    "snippet": "Jawaharlal Nehru was India's first prime minister. Beginning from 1946, Nehru secured a major victory in 1946 Indian Constituent Assembly election and served as ...",
-    "snippet_highlighted_words": [
-     "Jawaharlal Nehru was India's first prime minister"
-    ],
-    "source": "Wikipedia",
-    "title": "List of prime ministers of India"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "“Remembering our first Prime Minister, Pandit Jawaharlal Nehru on his birth anniversary. We recall his contribution to our freedom struggle and during his ...",
-      "icon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp",
-      "source_info_link": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=184732"
-     }
-    },
-    "displayed_link": "https://www.pib.gov.in › PrintRelease",
-    "favicon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp",
-    "link": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=184732",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVcJpnES0zKvcRjGJZgWEEj4ODIC0-PeEJkJHO8hg-0LF3bmAHI1O3BrvahPABK1tTlV2ZJfqssnbgZLl7hX0PxLA_QgnzVZvJ6dLyzAWeeTwA-v76Tf7WmwlhD8chuvzDI2e7XL8oCqjYpHHcXY-fhQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQFnoECCUQAQ&uoh=1",
-    "snippet": "“Remembering our first Prime Minister, Pandit Jawaharlal Nehru on his birth anniversary. We recall his contribution to our freedom struggle and during his ...",
-    "snippet_highlighted_words": [
-     "Pandit Jawaharlal Nehru"
-    ],
-    "source": "PIB",
-    "title": "PM pays tributes to first Prime Minister of India Pandit ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "The first prime minister of India was Jawarhal Nehru. He reigned from 1947 to 1964. He was the first to rule independent India after they broke free from Great ...",
-      "icon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAADwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0zdr4mgzpUYDbRXZLvKaNA2h9CAT1nWFbuI799mjaVF2HJgQWvaZB46Fs6VgAA_vfplW6LYBf93_9ed9R0sGzf9hrth84_JI-febizGjaxqoS94VLU2crVROdPn2AVYIHr8bQBHgUrljOc4PKk9zvEAgb12YcN_8tqleHe1QClq6B7yTANxq1N2OZ-evVPfrvb4mf0yywicDKA5RgRCojxibTkASgs_hjzCkxXRq_aUDf92zW9BdcKtACSLPb_wK3eCmgfpa9Oqfagx4c5fnKVczCtAcBb9Cl_yUYDF8aPdOK4upTAZYVqN6mQMkB6FttCVHc4QglzSAgpjOW82pUrLm85B_CsrJWHDdxDWNcCruUAGzws0ONsfC97Moh3TllJltrw53hR2lxprBgxmKMmyzFQAAA.webp",
-      "source_info_link": "https://study.com/academy/lesson/prime-ministers-of-india.html"
-     }
-    },
-    "displayed_link": "https://study.com › academy › lesson",
-    "favicon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAADwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0zdr4mgzpUYDbRXZLvKaNA2h9CAT1nWFbuI799mjaVF2HJgQWvaZB46Fs6VgAA_vfplW6LYBf93_9ed9R0sGzf9hrth84_JI-febizGjaxqoS94VLU2crVROdPn2AVYIHr8bQBHgUrljOc4PKk9zvEAgb12YcN_8tqleHe1QClq6B7yTANxq1N2OZ-evVPfrvb4mf0yywicDKA5RgRCojxibTkASgs_hjzCkxXRq_aUDf92zW9BdcKtACSLPb_wK3eCmgfpa9Oqfagx4c5fnKVczCtAcBb9Cl_yUYDF8aPdOK4upTAZYVqN6mQMkB6FttCVHc4QglzSAgpjOW82pUrLm85B_CsrJWHDdxDWNcCruUAGzws0ONsfC97Moh3TllJltrw53hR2lxprBgxmKMmyzFQAAA.webp",
-    "link": "https://study.com/academy/lesson/prime-ministers-of-india.html",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVs2HDc7Zq0rH9m80Omz7PJV9d2SIbvifrFX9rxE5f_a_5sSAiWPvHUhvh2ffn3Y8AgRMj3xvbGUpIfzaQmOCvrSuYAj8rllX7E52a-mawmQ-l0B_OKYHpbKBtsHHx2hWJjDtdoEumaG1x5q68vXLxLQA&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQFnoECCQQAQ&uoh=1",
-    "snippet": "The first prime minister of India was Jawarhal Nehru. He reigned from 1947 to 1964. He was the first to rule independent India after they broke free from Great ...",
-    "snippet_highlighted_words": [
-     "Jawarhal Nehru"
-    ],
-    "source": "Study.com",
-    "title": "Prime Ministers of India | Overview, Timeline & List of ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "Pt. Jawaharlal Nehru was born in Allabahad on November 14, 1889. He received his early education at home under private tutors. At the age of fifteen, ...",
-      "icon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABwBwCdASogACAAPtEutFooIagoGAEAGglsALsulf4AX29oIM1tgLtmHKNy2HC-TlLjSKn6O5jbfoKn17l9l7IHWIx6yAD-_sLL3FC6iVDkLyDx0WpojWqdAzN3Dzf-ikYK99D4nmi9JdEUfR__196-3_j_iUbiCLJf452Ry34-1NUE00RY237W1ve_guG2Pawq0oX6Gf78AVXna5KKQ99D5vkhvaRnv8aEeJuiWE1CfmnSItdrKN9RJQSv4xT0x7u0eza493Zw6cgVPz6UmLTCb7q--aA-YB_A8uNJEfwXY2flyF7Nu_YCeUrB5gINDZLjBzVRBmHCQsgVTCoofTPzwJmojwZjqrsJ0E7OiMJW_gkLqhf_iavbxzDgKTCHlnEAAA.webp",
-      "source_info_link": "https://www.archivepmo.nic.in/shrijawaharlalnehru.html"
-     }
-    },
-    "displayed_link": "https://www.archivepmo.nic.in › shrij...",
-    "favicon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABwBwCdASogACAAPtEutFooIagoGAEAGglsALsulf4AX29oIM1tgLtmHKNy2HC-TlLjSKn6O5jbfoKn17l9l7IHWIx6yAD-_sLL3FC6iVDkLyDx0WpojWqdAzN3Dzf-ikYK99D4nmi9JdEUfR__196-3_j_iUbiCLJf452Ry34-1NUE00RY237W1ve_guG2Pawq0oX6Gf78AVXna5KKQ99D5vkhvaRnv8aEeJuiWE1CfmnSItdrKN9RJQSv4xT0x7u0eza493Zw6cgVPz6UmLTCb7q--aA-YB_A8uNJEfwXY2flyF7Nu_YCeUrB5gINDZLjBzVRBmHCQsgVTCoofTPzwJmojwZjqrsJ0E7OiMJW_gkLqhf_iavbxzDgKTCHlnEAAA.webp",
-    "link": "https://www.archivepmo.nic.in/shrijawaharlalnehru.html",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVsS8MWh_x81ROApT-VkO4YDCnIpYtZ6Q6-eeExMl2-EZa5ychCH-HcAjZIdaDVLa9uzsxTLUd0LmK0UUcqHT02sfnlSiHb7kpX_hJXhSSVPEZS_YHjBXpyntzP_cavDPKU76SXLaaA-pO&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQFnoECEMQAQ&uoh=1",
-    "snippet": "Pt. Jawaharlal Nehru was born in Allabahad on November 14, 1889. He received his early education at home under private tutors. At the age of fifteen, ...",
-    "snippet_highlighted_words": [
-     "Pt. Jawaharlal Nehru"
-    ],
-    "source": "archivepmo.nic.in",
-    "title": "Shri Jawaharlal Nehru - Prime Ministers of India"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "Jawaharlal Nehru (1947–1964). As India's first and longest-serving Prime Minister, Jawaharlal Nehru laid the strong foundations of modern India. A visionary and ...",
-      "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAACwBQCdASocABwAPtEutFooIagoGAEAGgloAFRlVGFPToAA7NcUcUuICQtHB_n0q7fgdl1z3kwA_vTKJsKXEW-l6FdlcxGhI_dAXh5w9apiX9aV05moJblzYFJ_lnyXGfVZWsox6aSU_pJvIroNRPGnJ8Ofz9Wu5yzp4ksGoG49WlM7ywXNtBwfz_p3AFTIZeKZeA80yRUZr8N0-JBmz90HyPZH6YWsl8dTtWmJyCXp1Lhx64S2VTFeUu80W3Wg9gryh_TzbG1hO91wH1OL5mwH0S3YTcazzqzdVO6vPQU7kIAA.webp",
-      "source_info_link": "https://chrysalishigh.com/blog/nation/prime-ministers-of-india-pm-list/"
-     }
-    },
-    "displayed_link": "https://chrysalishigh.com › nation",
-    "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAACwBQCdASocABwAPtEutFooIagoGAEAGgloAFRlVGFPToAA7NcUcUuICQtHB_n0q7fgdl1z3kwA_vTKJsKXEW-l6FdlcxGhI_dAXh5w9apiX9aV05moJblzYFJ_lnyXGfVZWsox6aSU_pJvIroNRPGnJ8Ofz9Wu5yzp4ksGoG49WlM7ywXNtBwfz_p3AFTIZeKZeA80yRUZr8N0-JBmz90HyPZH6YWsl8dTtWmJyCXp1Lhx64S2VTFeUu80W3Wg9gryh_TzbG1hO91wH1OL5mwH0S3YTcazzqzdVO6vPQU7kIAA.webp",
-    "link": "https://chrysalishigh.com/blog/nation/prime-ministers-of-india-pm-list/",
+    "displayed_link": "30+ answers · 7 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+    "link": "https://www.quora.com/Why-is-Indira-Gandhi-seen-by-some-as-the-strongest-Prime-Minister-India-has-ever-had-and-at-the-same-time-hated-by-some-others",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVecTEjPeA7vQKX1TEMZBXF2g1q-qR4rEktDM1mMATDtkGgIBRHhs80CqfA36Xri72birKnCacGvGSYxTcdMxAygi_-6ihkYj3EbCwTKIvkIqboCoW-WNkS7DFFzIjd0U9Q9_fJidSUEuyH0NQ3UcrCMJVI2kYx-UyylA&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQFnoECEIQAQ&uoh=1",
-    "snippet": "Jawaharlal Nehru (1947–1964). As India's first and longest-serving Prime Minister, Jawaharlal Nehru laid the strong foundations of modern India. A visionary and ...",
-    "snippet_highlighted_words": [
-     "Jawaharlal Nehru"
-    ],
-    "source": "Chrysalis High",
-    "title": "Prime Ministers of India: PM List of India from 1947–2026"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0AEB6zswFR3HUOmXkQ_bvkDUdkFo4_DdswLUA6znabPBR4kKOkGZKzwCSg9TF2pheknE1qnbyhLBv37bCOkUnKIoUD2mczn04af1JRFZ7NGtvHPp0c4k5plufwsgG6XlOKWn2H3Rx3Uf8vGKxc4-CIVd6rNc3uHHW6jOFyEpbXW7ME5lExnxNPZcPuRx3cVrCOhuIpKkN27ANYC12gVkAVdzayPGeI0_P6dDkY6Sd0nY1acBC-hA3wmpfLSp2ynQYVptALW6Fkw11Zt6ty3ias7d&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQFnoECEQQAQ&uoh=1",
+    "snippet": "Why is Indira Gandhi seen by some as the strongest Prime Minister India has ever had and at the same time hated by some others?",
+    "source": "Quora",
+    "title": "Why is Indira Gandhi seen by some as the strongest Prime ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZUSjFqVlVmYWp6ckp4Q1FKWXB4NDBrR28tVUNSSHMxZENkekpOV1I1ZFM4X2pQSDJwOFo0dy1oeTBiMWxEQkpqa24yMVl2QmZlYWd0bFhFYXhGMHJTVUpJV1FMUlpxMlQ1bDkyNDlzYU50U2o3T0xwbi1aREl4TzI1dndfaW84N3FTd2ZjeGVDYmwyYlVoQXM5Mml1aGQwTFdKSzk4dGhtcmJkTWM1a3NrRWZRMUJlY3NUU2FKaExKODB6QkQ2MmQtWFdydWpObVh5N1dwN1lEZWE1V2k3Y3RmWjNidHUyY1lNMnJ1d3ZieHBGMTlDRUNmWDUzRk9XaUNLYWd2UVd2N0FLMG9SQxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZUSjFqVlVmYWp6ckp4Q1FKWXB4NDBrR28tVUNSSHMxZENkekpOV1I1ZFM4X2pQSDJwOFo0dy1oeTBiMWxEQkpqa24yMVl2QmZlYWd0bFhFYXhGMHJTVUpJV1FMUlpxMlQ1bDkyNDlzYU50U2o3T0xwbi1aREl4TzI1dndfaW84N3FTd2ZjeGVDYmwyYlVoQXM5Mml1aGQwTFdKSzk4dGhtcmJkTWM1a3NrRWZRMUJlY3NUU2FKaExKODB6QkQ2MmQtWFdydWpObVh5N1dwN1lEZWE1V2k3Y3RmWjNidHUyY1lNMnJ1d3ZieHBGMTlDRUNmWDUzRk9XaUNLYWd2UVd2N0FLMG9SQxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
     "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
      "source": {
-      "description": "Jawaharlal Nehru was the first Prime Minister of India and served the longest continuous term from 1947 to 1964. Narendra Modi is the current Prime Minister of ...",
-      "icon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAADQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHj3o3DtOG91DS7ajn1fQpvEu8ulexbnDHys9N4219Udp80xi3C6X8CcWPTCD9z-9JAAAP72E0Jva_03I5cSNjfEhlm3Lca85noYeqzVmM5e9JXDiQONrf-pu7m-PA8I3_lZC3XBl4et1ETBKvVbjCiHTo2_umehiRjP8Gnbrk406DreOELwCJCskYsa-YFX1wcADTN-QfOmM1HEVn8mqCwMoC1gsZzrr5mIQ5eAvZe68fPe_DaTNTQJrh8hLz_pfBQcDzzUMZ_p1OQ07kW9e-TSGgp2VxC2KCSLMJSLpITWjlvU2eiF-_F6_kZ7PgwGqkQmKo6PqgRs6blrMy_4Dtq3CaXEBmz7dsms9OyaS6OEQPl9Oh7W_N6k42RZUOoxncW12cfx-3Kk1YNZtCmMKewmue8xM3lPig91qAAA.webp",
-      "source_info_link": "https://www.vedantu.com/general-knowledge/list-of-all-prime-ministers-of-india"
+      "description": "PM Narendra Modi received a ceremonial welcome at the historic Akershus Oslo during his Norway visit, first by an Indian PM in over 40 years.",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
      }
     },
-    "displayed_link": "https://www.vedantu.com › list-of-a...",
-    "favicon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAADQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHj3o3DtOG91DS7ajn1fQpvEu8ulexbnDHys9N4219Udp80xi3C6X8CcWPTCD9z-9JAAAP72E0Jva_03I5cSNjfEhlm3Lca85noYeqzVmM5e9JXDiQONrf-pu7m-PA8I3_lZC3XBl4et1ETBKvVbjCiHTo2_umehiRjP8Gnbrk406DreOELwCJCskYsa-YFX1wcADTN-QfOmM1HEVn8mqCwMoC1gsZzrr5mIQ5eAvZe68fPe_DaTNTQJrh8hLz_pfBQcDzzUMZ_p1OQ07kW9e-TSGgp2VxC2KCSLMJSLpITWjlvU2eiF-_F6_kZ7PgwGqkQmKo6PqgRs6blrMy_4Dtq3CaXEBmz7dsms9OyaS6OEQPl9Oh7W_N6k42RZUOoxncW12cfx-3Kk1YNZtCmMKewmue8xM3lPig91qAAA.webp",
-    "link": "https://www.vedantu.com/general-knowledge/list-of-all-prime-ministers-of-india",
+    "displayed_link": "250+ reactions · 4 months ago",
+    "duration": "2:02",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/DDIndiaLive/videos/pmmodiinnorway-pm-narendra-modi-received-a-ceremonial-welcome-at-the-historic-ak/1014730151120273/",
     "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFe09yTaPnwbqgwKVk3jH3jvK-cLxGJhbmgA3wgBsqWNWrsaGmB8SKwx5u2JwKzrxTve2Ga71ZC0zccCRngoUlpGBAsrOOxleWj1IDxETeix0OyScEfJ36QFHGPxa6CKWYebv8w5lme7A1gkU3MYKQy4r46vqDlZ0nV4t08Yztn0PhQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQFnoECEgQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "rating": 4.2,
-       "reviews": 373000
-      },
-      "extensions": [
-       "4,2(373 000)",
-       "Daugiau informacijos apie atsiliepimų įvertinimus.Apžvalgos nepatvirtintos „Google“"
-      ]
-     }
-    },
-    "snippet": "Jawaharlal Nehru was the first Prime Minister of India and served the longest continuous term from 1947 to 1964. Narendra Modi is the current Prime Minister of ...",
-    "snippet_highlighted_words": [
-     "Jawaharlal Nehru was the first Prime Minister of India"
-    ],
-    "source": "Vedantu",
-    "title": "List of All Prime Ministers of India (1947–2026)"
+    "snippet": "PM Narendra Modi received a ceremonial welcome at the historic Akershus Oslo during his Norway visit, first by an Indian PM in over 40 years.",
+    "source": "Facebook · DD India",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA94uDXHuN0HzYfNbj8agQ9eq6zBjdHceNhwEVmOYdIWt35N0rhdIeTw&s",
+    "title": "PM Modi Receives Ceremonial Welcome at Akershus Castle in ...",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRT-SrGGhMt8qdvwE0g46W6dAsci_LVWOlGhA"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=10&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8NMDegQIOBAW",
+   "next": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsts4H0MzG1gLZ44pCnWQ1vh_hnpg:1790544747240&ei=a4u5apGhDs2ywPAPutP7yAs&start=10&sa=N&sstk=AS6-VmJdE8s0J4bVq5nwS4WeF4Ox-lMYUW5XEqKIgwLi3eKmaiNIataMLn9MIYIWXSqDmrhlCbCsAUXbn0uQipewco5iNtWLwUgblg&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQ8NMDegQINhAI",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=90&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8tMDegQIOBAU",
-    "2": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=10&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8tMDegQIOBAE",
-    "3": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=20&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8tMDegQIOBAG",
-    "4": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=30&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8tMDegQIOBAI",
-    "5": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=40&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8tMDegQIOBAK",
-    "6": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=50&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8tMDegQIOBAM",
-    "7": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=60&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8tMDegQIOBAO",
-    "8": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=70&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8tMDegQIOBAQ",
-    "9": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnv1uydbwGB1Eyb38UJAvMhCfXGh2g:1789906014019&ei=Xsyvat1d-_TWxA-fk4uADg&start=80&sa=N&sstk=AS6-VmKhvTfux0fAncvlmKkU7dFISi5V97scZIjLG6ri9j4nOwjC3qAPsQO-_zLpkZTuvaePriY84LAqVMfPJwmNqkj036ecEvtYzQ&ved=2ahUKEwjdhJbBj_2WAxV7upUCHZ_JAuAQ8tMDegQIOBAS"
+    "2": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsts4H0MzG1gLZ44pCnWQ1vh_hnpg:1790544747240&ei=a4u5apGhDs2ywPAPutP7yAs&start=10&sa=N&sstk=AS6-VmJdE8s0J4bVq5nwS4WeF4Ox-lMYUW5XEqKIgwLi3eKmaiNIataMLn9MIYIWXSqDmrhlCbCsAUXbn0uQipewco5iNtWLwUgblg&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQ8tMDegQINhAE",
+    "3": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsts4H0MzG1gLZ44pCnWQ1vh_hnpg:1790544747240&ei=a4u5apGhDs2ywPAPutP7yAs&start=20&sa=N&sstk=AS6-VmJdE8s0J4bVq5nwS4WeF4Ox-lMYUW5XEqKIgwLi3eKmaiNIataMLn9MIYIWXSqDmrhlCbCsAUXbn0uQipewco5iNtWLwUgblg&ved=2ahUKEwjRgvT82o-XAxVNGRAIHbrpHrkQ8tMDegQINhAG"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01XWnhOVGxXT0ZocWRqZERURTk2ZFZOeFRteHJWa055V0Vad1RWbGhUMUJsTWtST01HdFNaek50TUZwNVptVmZXRkZWWkVkWWJubHFNMDV1UlV0SWMwZG5hblJIVlVOeVFtWlFRVTV3UW1aT2RFMWFXR3BQY2s0elFSSVdXSE41ZG1GME1XUXRYMVJYZUVFdFptczBkVUZFWnhvaVFVUnpjamxtVkVNd2NYaE9UMmRXVjA5aVRXUmFjbEZTYW1sSllVVnJSbkJYUVEiLCJmY3YiOiIzIiwiZWkiOiJYc3l2YXQxZC1fVFd4QS1mazR1QURnIiwicWMiOiJDaWwzYUc4Z2QyRnpJSFJvWlNCbWFYSnpkQ0J3Y21sdFpTQnRhVzVwYzNSbGNpQnZaaUJwYm1ScFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIG5vLiAxIFByaW1lIE1pbmlzdGVyIGluIEluZGlhPyIsImxrIjoiR2lkM2FHOGdhWE1nZEdobElHNXZJREVnY0hKcGJXVWdiV2x1YVhOMFpYSWdhVzRnYVc1a2FXRSIsImJzIjoiYzMyUFBRLUNNQkNHNDNxVGM2ZmJDSnBvQUhkbUJ4TW5qV01qVmM2a1Y5S3I2ZDhYeEtFR2NYLWU5d05Pa0o5Ymh5UVlXb1BzTmxqZzBaTTFlQ0FtQ2NZak1lNjVJVjJYdWNwaUN2ZHM5Mlp0d3RMQXdnVldTYTZZcS1ObVBuaXQ4amloNTZJZlVBM1JVY3VvWjRJMzhoSjZ3UWcxaGdQcVNWbGRWcXI0ZE5BZjY3c1U3ckJOYm94Q2RGYnpfSmVkS3VOdlpYcklQZjI0WnJsNEFRIiwiaWQiOiJmY19Yc3l2YXQxZC1fVFd4QS1mazR1QURnXzUifQ==",
-    "page_token": "NOQhwXicHZBJboMwAEXVy2SZ2EDTJlJUCbAptAnCwXbwpgKTETM0uGHY9S49VU_TqAf4eu_97x91rorfB33SummXs1nXddNjXR_Vfirrcpa2QyVnMlUqS2WxnD_N4ctBrtAXsp1P345o0zCXgO2YX2nZ9lKx6zvzQe5ZJoNJtwN5m0EESOEP2etmyGLhpx6u1mOkaUFuGX_WGT65wtB2ustt5kCXGPnAUD9sTVxGUKHNSPWGPjqcAzP0AmNPMY75wqUFAvwM1dYkgzARTAEyJC1gbOQ-RcKNcWFJReYyVgkpMaUwYCwWbegtBLvcHWAzv_OcRAVt6KIhQ-q0Hv1OYGKik0ikqYxkF_XCgQeGcyvawjIdCYwoqbxzYJN7T8hFzCtphUgH-wu2UqB3HNVA0LoXsHkj913MlT05yNvKnPy_ufo4lHrZXOvjH9Mmf9k",
-    "question": "Who is the no. 1 Prime Minister in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NOQhwXicHZBJboMwAEXVy2SZ2EDTJlJUCbAptAnCwXbwpgKTETM0uGHY9S49VU_TqAf4eu_97x91rorfB33SummXs1nXddNjXR_Vfirrcpa2QyVnMlUqS2WxnD_N4ctBrtAXsp1P345o0zCXgO2YX2nZ9lKx6zvzQe5ZJoNJtwN5m0EESOEP2etmyGLhpx6u1mOkaUFuGX_WGT65wtB2ustt5kCXGPnAUD9sTVxGUKHNSPWGPjqcAzP0AmNPMY75wqUFAvwM1dYkgzARTAEyJC1gbOQ-RcKNcWFJReYyVgkpMaUwYCwWbegtBLvcHWAzv_OcRAVt6KIhQ-q0Hv1OYGKik0ikqYxkF_XCgQeGcyvawjIdCYwoqbxzYJN7T8hFzCtphUgH-wu2UqB3HNVA0LoXsHkj913MlT05yNvKnPy_ufo4lHrZXOvjH9Mmf9k",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01XWnhOVGxXT0ZocWRqZERURTk2ZFZOeFRteHJWa055V0Vad1RWbGhUMUJsTWtST01HdFNaek50TUZwNVptVmZXRkZWWkVkWWJubHFNMDV1UlV0SWMwZG5hblJIVlVOeVFtWlFRVTV3UW1aT2RFMWFXR3BQY2s0elFSSVdXSE41ZG1GME1XUXRYMVJYZUVFdFptczBkVUZFWnhvaVFVUnpjamxtVkVNd2NYaE9UMmRXVjA5aVRXUmFjbEZTYW1sSllVVnJSbkJYUVEiLCJmY3YiOiIzIiwiZWkiOiJYc3l2YXQxZC1fVFd4QS1mazR1QURnIiwicWMiOiJDaWwzYUc4Z2QyRnpJSFJvWlNCbWFYSnpkQ0J3Y21sdFpTQnRhVzVwYzNSbGNpQnZaaUJwYm1ScFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIG5vLiAxIFByaW1lIE1pbmlzdGVyIGluIEluZGlhPyIsImxrIjoiR2lkM2FHOGdhWE1nZEdobElHNXZJREVnY0hKcGJXVWdiV2x1YVhOMFpYSWdhVzRnYVc1a2FXRSIsImJzIjoiYzMyUFBRLUNNQkNHNDNxVGM2ZmJDSnBvQUhkbUJ4TW5qV01qVmM2a1Y5S3I2ZDhYeEtFR2NYLWU5d05Pa0o5Ymh5UVlXb1BzTmxqZzBaTTFlQ0FtQ2NZak1lNjVJVjJYdWNwaUN2ZHM5Mlp0d3RMQXdnVldTYTZZcS1ObVBuaXQ4amloNTZJZlVBM1JVY3VvWjRJMzhoSjZ3UWcxaGdQcVNWbGRWcXI0ZE5BZjY3c1U3ckJOYm94Q2RGYnpfSmVkS3VOdlpYcklQZjI0WnJsNEFRIiwiaWQiOiJmY19Yc3l2YXQxZC1fVFd4QS1mazR1QURnXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRESmtaSGRzVFc1QlEwRkxaRlZCYzFoZlJHaDNUazVtYlU4MVlrVnhVaTFLVVhwQmFuZGxkM013YjBZd04zcE1hRVkyTUZWR1NuRm9WVWxMTFROWmJYZEdiekZNYkdSbk0wMTNOMlJXTUVRMlVFTmtjMVZ5TUV0UVp4SVhZVFIxTldGd1IyaEVjeko1ZDFCQlVIVjBVRGQ1UVhNYUlrRkVjM0k1WmxKdFVIRjFObnBZWldWclFtZzBZVVphUjJaYVdtTlJVVWRmU1djIiwiZmN2IjoiMyIsImVpIjoiYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXMiLCJxYyI6IkNpbDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndjbWx0WlNCdGFXNXBjM1JsY2lCdlppQnBibVJwWVJBQWZWcnI0ajQiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgbm8uIDEgcHJpbWUgbWluaXN0ZXIgaW4gSW5kaWE/IiwibGsiOiJHaWQzYUc4Z2FYTWdkR2hsSUc1dklERWdjSEpwYldVZ2JXbHVhWE4wWlhJZ2FXNGdhVzVrYVdFIiwiYnMiOiJjNDNPTVF2Q01CQ0dZVnd6T1dmUWJ5dFZFTnItZ0E1T0RvS1Q0aGpiazE2aGFla0Y4dmROcVdCQWhjNzMzSHVucmlxOU5UMVk0QnFDN1FfSU1JemNFVHEyTEk1R3NNWEoxbXpLUE5XSmpfRlB5NU5WZDdXTHVrSlZiLXZfNGIxT19RSTlwNDlxTzZVZlZKa3d2NXhSd0FVcFVROTY0ejlrNkdJeVIxcFZUQkZ2Wk41SkJFOGV4WVdySkZ5VGRUQmZQNVI1b2JQM283eDRhNzE2QVEiLCJpZCI6ImZjX2E0dTVhcEdoRHMyeXdQQVB1dFA3eUFzXzUifQ==",
+    "page_token": "E7NdEHicHdBfboIwHADg7DI-TgvTZSZmCVrEjZbxqy2UlwVbFKT82WSCvO0uO9VOs2TfEb7vH1PU5e_dNe-69rKcTvu-vz81zclk96qppunlVqupSo05pKpcLh4X6PmoVvhr56w_dk7I21ZsYMb4fE48QWUd2hq1byFKiD5TwcyTT6phoO4LyKqtM5y8sVLcuK2ptNyGxaIM1ggrCxDhZcc3udRGjfuIeoftkGhsmBhNAKXwMzZD1CIP1HWKQICvRzP6e9UFcb4QxiBW4ZmM8kKWkIYmEWw79_Z8DmmBRIiwnfJEkC0wEecXjmHIDOnl2dlSpOXhDI1ydaTiPMj2tMa5zqnHkYwdL8UwktrYHLuhjiGktnHU0BQhh1GdTcURJcqGV26BxdDLZ4qTyI8gIFbrRXGLwdZS95Ojuq7syf_n6v1Ydcv2szn9AcjJgoI",
+    "question": "Who is the no. 1 prime minister in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=E7NdEHicHdBfboIwHADg7DI-TgvTZSZmCVrEjZbxqy2UlwVbFKT82WSCvO0uO9VOs2TfEb7vH1PU5e_dNe-69rKcTvu-vz81zclk96qppunlVqupSo05pKpcLh4X6PmoVvhr56w_dk7I21ZsYMb4fE48QWUd2hq1byFKiD5TwcyTT6phoO4LyKqtM5y8sVLcuK2ptNyGxaIM1ggrCxDhZcc3udRGjfuIeoftkGhsmBhNAKXwMzZD1CIP1HWKQICvRzP6e9UFcb4QxiBW4ZmM8kKWkIYmEWw79_Z8DmmBRIiwnfJEkC0wEecXjmHIDOnl2dlSpOXhDI1ydaTiPMj2tMa5zqnHkYwdL8UwktrYHLuhjiGktnHU0BQhh1GdTcURJcqGV26BxdDLZ4qTyI8gIFbrRXGLwdZS95Ojuq7syf_n6v1Ydcv2szn9AcjJgoI",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRESmtaSGRzVFc1QlEwRkxaRlZCYzFoZlJHaDNUazVtYlU4MVlrVnhVaTFLVVhwQmFuZGxkM013YjBZd04zcE1hRVkyTUZWR1NuRm9WVWxMTFROWmJYZEdiekZNYkdSbk0wMTNOMlJXTUVRMlVFTmtjMVZ5TUV0UVp4SVhZVFIxTldGd1IyaEVjeko1ZDFCQlVIVjBVRGQ1UVhNYUlrRkVjM0k1WmxKdFVIRjFObnBZWldWclFtZzBZVVphUjJaYVdtTlJVVWRmU1djIiwiZmN2IjoiMyIsImVpIjoiYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXMiLCJxYyI6IkNpbDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndjbWx0WlNCdGFXNXBjM1JsY2lCdlppQnBibVJwWVJBQWZWcnI0ajQiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgbm8uIDEgcHJpbWUgbWluaXN0ZXIgaW4gSW5kaWE%2FIiwibGsiOiJHaWQzYUc4Z2FYTWdkR2hsSUc1dklERWdjSEpwYldVZ2JXbHVhWE4wWlhJZ2FXNGdhVzVrYVdFIiwiYnMiOiJjNDNPTVF2Q01CQ0dZVnd6T1dmUWJ5dFZFTnItZ0E1T0RvS1Q0aGpiazE2aGFla0Y4dmROcVdCQWhjNzMzSHVucmlxOU5UMVk0QnFDN1FfSU1JemNFVHEyTEk1R3NNWEoxbXpLUE5XSmpfRlB5NU5WZDdXTHVrSlZiLXZfNGIxT19RSTlwNDlxTzZVZlZKa3d2NXhSd0FVcFVROTY0ejlrNkdJeVIxcFZUQkZ2Wk41SkJFOGV4WVdySkZ5VGRUQmZQNVI1b2JQM283eDRhNzE2QVEiLCJpZCI6ImZjX2E0dTVhcEdoRHMyeXdQQVB1dFA3eUFzXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01XWnhOVGxXT0ZocWRqZERURTk2ZFZOeFRteHJWa055V0Vad1RWbGhUMUJsTWtST01HdFNaek50TUZwNVptVmZXRkZWWkVkWWJubHFNMDV1UlV0SWMwZG5hblJIVlVOeVFtWlFRVTV3UW1aT2RFMWFXR3BQY2s0elFSSVdXSE41ZG1GME1XUXRYMVJYZUVFdFptczBkVUZFWnhvaVFVUnpjamxtVkVNd2NYaE9UMmRXVjA5aVRXUmFjbEZTYW1sSllVVnJSbkJYUVEiLCJmY3YiOiIzIiwiZWkiOiJYc3l2YXQxZC1fVFd4QS1mazR1QURnIiwicWMiOiJDaWwzYUc4Z2QyRnpJSFJvWlNCbWFYSnpkQ0J3Y21sdFpTQnRhVzVwYzNSbGNpQnZaaUJwYm1ScFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIHNlY29uZCBQcmltZSBNaW5pc3RlciBpbiBJbmRpYT8iLCJsayI6IkdpbDNhRzhnYVhNZ2RHaGxJSE5sWTI5dVpDQndjbWx0WlNCdGFXNXBjM1JsY2lCcGJpQnBibVJwWVEiLCJicyI6ImMzMlBQUS1DTUJDRzQzcVRjNmZiQ0pwb0FIZG1CeE1ualdNalZjNmtWOUtyNmQ4WHhLRUdjWC1lOXdOT2tKOWJoeVFZV29Qc05samcwWk0xZUNBbUNjWWpNZTY1SVYyWHVjcGlDdmRzOTJadHd0TEF3Z1ZXU2E2WXEtTm1Qbml0OGppaDU2SWZVQTNSVWN1b1o0STM4aEo2d1FnMWhnUHFTVmxkVnFyNGROQWY2N3NVN3JCTmJveENkRmJ6X0plZEt1TnZaWHJJUGYyNFpybDRBUSIsImlkIjoiZmNfWHN5dmF0MWQtX1RXeEEtZms0dUFEZ181In0=",
-    "page_token": "FgX_9nicHdBfToMwAIDxeBkfHeXP1CWLcUInixRpaQt9MVjGmG2hUxwbb97FU3kajRf48sv39a33nfq5GNphsB-L2Wwcx6td3-_09kr2ZlZ9nDs5k5XWr5VUi_n1HNw1chl9RquHQ7zKqLUsxA7ReI15NhSOf6qL2uJwYwmDAVbWS_gGUE-7KbQx84RNTBlIBwvk7rzE4Dxjvf8K7VF2ysHmZpT5_YjAbZyGMNl29MwcEKe8VrITEdX1gIrW1PzGTwv7XALR1RPLM3NytwoJMmGWQgQlaLNEoX21BnOhICE8OKTR8E4iGiCl43xiKOXCFY-bLp-0wS6mIoeHJ66bUiMvakUp_8xlkZ3EA2gYrP2MAFNNGGQUd-v9ZoUf0fmvQaTpAxkKJag8lw51mBLzbVH6nLKSExDWb-3qspHHpXf5f3P50phhYd_73S9j_IFp",
-    "question": "Who is the second Prime Minister in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FgX_9nicHdBfToMwAIDxeBkfHeXP1CWLcUInixRpaQt9MVjGmG2hUxwbb97FU3kajRf48sv39a33nfq5GNphsB-L2Wwcx6td3-_09kr2ZlZ9nDs5k5XWr5VUi_n1HNw1chl9RquHQ7zKqLUsxA7ReI15NhSOf6qL2uJwYwmDAVbWS_gGUE-7KbQx84RNTBlIBwvk7rzE4Dxjvf8K7VF2ysHmZpT5_YjAbZyGMNl29MwcEKe8VrITEdX1gIrW1PzGTwv7XALR1RPLM3NytwoJMmGWQgQlaLNEoX21BnOhICE8OKTR8E4iGiCl43xiKOXCFY-bLp-0wS6mIoeHJ66bUiMvakUp_8xlkZ3EA2gYrP2MAFNNGGQUd-v9ZoUf0fmvQaTpAxkKJag8lw51mBLzbVH6nLKSExDWb-3qspHHpXf5f3P50phhYd_73S9j_IFp",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01XWnhOVGxXT0ZocWRqZERURTk2ZFZOeFRteHJWa055V0Vad1RWbGhUMUJsTWtST01HdFNaek50TUZwNVptVmZXRkZWWkVkWWJubHFNMDV1UlV0SWMwZG5hblJIVlVOeVFtWlFRVTV3UW1aT2RFMWFXR3BQY2s0elFSSVdXSE41ZG1GME1XUXRYMVJYZUVFdFptczBkVUZFWnhvaVFVUnpjamxtVkVNd2NYaE9UMmRXVjA5aVRXUmFjbEZTYW1sSllVVnJSbkJYUVEiLCJmY3YiOiIzIiwiZWkiOiJYc3l2YXQxZC1fVFd4QS1mazR1QURnIiwicWMiOiJDaWwzYUc4Z2QyRnpJSFJvWlNCbWFYSnpkQ0J3Y21sdFpTQnRhVzVwYzNSbGNpQnZaaUJwYm1ScFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIHNlY29uZCBQcmltZSBNaW5pc3RlciBpbiBJbmRpYT8iLCJsayI6IkdpbDNhRzhnYVhNZ2RHaGxJSE5sWTI5dVpDQndjbWx0WlNCdGFXNXBjM1JsY2lCcGJpQnBibVJwWVEiLCJicyI6ImMzMlBQUS1DTUJDRzQzcVRjNmZiQ0pwb0FIZG1CeE1ualdNalZjNmtWOUtyNmQ4WHhLRUdjWC1lOXdOT2tKOWJoeVFZV29Qc05samcwWk0xZUNBbUNjWWpNZTY1SVYyWHVjcGlDdmRzOTJadHd0TEF3Z1ZXU2E2WXEtTm1Qbml0OGppaDU2SWZVQTNSVWN1b1o0STM4aEo2d1FnMWhnUHFTVmxkVnFyNGROQWY2N3NVN3JCTmJveENkRmJ6X0plZEt1TnZaWHJJUGYyNFpybDRBUSIsImlkIjoiZmNfWHN5dmF0MWQtX1RXeEEtZms0dUFEZ181In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRESmtaSGRzVFc1QlEwRkxaRlZCYzFoZlJHaDNUazVtYlU4MVlrVnhVaTFLVVhwQmFuZGxkM013YjBZd04zcE1hRVkyTUZWR1NuRm9WVWxMTFROWmJYZEdiekZNYkdSbk0wMTNOMlJXTUVRMlVFTmtjMVZ5TUV0UVp4SVhZVFIxTldGd1IyaEVjeko1ZDFCQlVIVjBVRGQ1UVhNYUlrRkVjM0k1WmxKdFVIRjFObnBZWldWclFtZzBZVVphUjJaYVdtTlJVVWRmU1djIiwiZmN2IjoiMyIsImVpIjoiYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXMiLCJxYyI6IkNpbDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndjbWx0WlNCdGFXNXBjM1JsY2lCdlppQnBibVJwWVJBQWZWcnI0ajQiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgc2Vjb25kIHByaW1lIG1pbmlzdGVyIGluIEluZGlhPyIsImxrIjoiR2lsM2FHOGdhWE1nZEdobElITmxZMjl1WkNCd2NtbHRaU0J0YVc1cGMzUmxjaUJwYmlCcGJtUnBZUSIsImJzIjoiYzQzT01RdkNNQkNHWVZ3ek9XZlFieXRWRU5yLWdBNU9Eb0tUNGhqYmsxNmhhZWtGOHZkTnFXQkFoYzczM0h1bnJpcTlOVDFZNEJxQzdRX0lNSXpjRVRxMkxJNUdzTVhKMW16S1BOV0pqX0ZQeTVOVmQ3V0x1a0pWYi12XzRiMU9fUUk5cDQ5cU82VWZWSmt3djV4UndBVXBVUTk2NHo5azZHSXlSMXBWVEJGdlpONUpCRThleFlXckpGeVRkVEJmUDVSNW9iUDNvN3g0YTcxNkFRIiwiaWQiOiJmY19hNHU1YXBHaERzMnl3UEFQdXRQN3lBc181In0=",
+    "page_token": "gf18eHicHZDdboIwGECzl_FSKTgXTcwSRiu60YxCP35uFmxBhAKd4kTu9i57qj3NzG7PxUnO-f5Rx7b-ffgq-16fV7PZ9XqdHrruoPKp6JpZdr61YiYypfaZqFeLpwV6LsQaX7b2y-fW9rnW4DAjgJLnbvkO5takLWhRkzmMngEbGYMDlJqo2QfIphUZIowWjOgTi9L-Degr39A65MsgMJDp17s2Q96Qh7SGCh7ZCOPddWFYOgzUgnNWsNAukqrcCaPXeQw0MwEzo--5Ay2PjCFslkfpkkjGxE-r7S3n3i1opcuVTiAwLBahzKsHXzq7IG0Ti473AowuAZEXEeuUhyXDpSypy1ES226G2ei1yuKY-DJmPrWULYbu6HM2iko14JS2RATncWoJUxHK_XkUk2NikYoakobh7o4mhfhaW5P_n-uPoulX-tQd_gBtfYIZ",
+    "question": "Who is the second prime minister in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gf18eHicHZDdboIwGECzl_FSKTgXTcwSRiu60YxCP35uFmxBhAKd4kTu9i57qj3NzG7PxUnO-f5Rx7b-ffgq-16fV7PZ9XqdHrruoPKp6JpZdr61YiYypfaZqFeLpwV6LsQaX7b2y-fW9rnW4DAjgJLnbvkO5takLWhRkzmMngEbGYMDlJqo2QfIphUZIowWjOgTi9L-Degr39A65MsgMJDp17s2Q96Qh7SGCh7ZCOPddWFYOgzUgnNWsNAukqrcCaPXeQw0MwEzo--5Ay2PjCFslkfpkkjGxE-r7S3n3i1opcuVTiAwLBahzKsHXzq7IG0Ti473AowuAZEXEeuUhyXDpSypy1ES226G2ei1yuKY-DJmPrWULYbu6HM2iko14JS2RATncWoJUxHK_XkUk2NikYoakobh7o4mhfhaW5P_n-uPoulX-tQd_gBtfYIZ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRESmtaSGRzVFc1QlEwRkxaRlZCYzFoZlJHaDNUazVtYlU4MVlrVnhVaTFLVVhwQmFuZGxkM013YjBZd04zcE1hRVkyTUZWR1NuRm9WVWxMTFROWmJYZEdiekZNYkdSbk0wMTNOMlJXTUVRMlVFTmtjMVZ5TUV0UVp4SVhZVFIxTldGd1IyaEVjeko1ZDFCQlVIVjBVRGQ1UVhNYUlrRkVjM0k1WmxKdFVIRjFObnBZWldWclFtZzBZVVphUjJaYVdtTlJVVWRmU1djIiwiZmN2IjoiMyIsImVpIjoiYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXMiLCJxYyI6IkNpbDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndjbWx0WlNCdGFXNXBjM1JsY2lCdlppQnBibVJwWVJBQWZWcnI0ajQiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgc2Vjb25kIHByaW1lIG1pbmlzdGVyIGluIEluZGlhPyIsImxrIjoiR2lsM2FHOGdhWE1nZEdobElITmxZMjl1WkNCd2NtbHRaU0J0YVc1cGMzUmxjaUJwYmlCcGJtUnBZUSIsImJzIjoiYzQzT01RdkNNQkNHWVZ3ek9XZlFieXRWRU5yLWdBNU9Eb0tUNGhqYmsxNmhhZWtGOHZkTnFXQkFoYzczM0h1bnJpcTlOVDFZNEJxQzdRX0lNSXpjRVRxMkxJNUdzTVhKMW16S1BOV0pqX0ZQeTVOVmQ3V0x1a0pWYi12XzRiMU9fUUk5cDQ5cU82VWZWSmt3djV4UndBVXBVUTk2NHo5azZHSXlSMXBWVEJGdlpONUpCRThleFlXckpGeVRkVEJmUDVSNW9iUDNvN3g0YTcxNkFRIiwiaWQiOiJmY19hNHU1YXBHaERzMnl3UEFQdXRQN3lBc181In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01XWnhOVGxXT0ZocWRqZERURTk2ZFZOeFRteHJWa055V0Vad1RWbGhUMUJsTWtST01HdFNaek50TUZwNVptVmZXRkZWWkVkWWJubHFNMDV1UlV0SWMwZG5hblJIVlVOeVFtWlFRVTV3UW1aT2RFMWFXR3BQY2s0elFSSVdXSE41ZG1GME1XUXRYMVJYZUVFdFptczBkVUZFWnhvaVFVUnpjamxtVkVNd2NYaE9UMmRXVjA5aVRXUmFjbEZTYW1sSllVVnJSbkJYUVEiLCJmY3YiOiIzIiwiZWkiOiJYc3l2YXQxZC1fVFd4QS1mazR1QURnIiwicWMiOiJDaWwzYUc4Z2QyRnpJSFJvWlNCbWFYSnpkQ0J3Y21sdFpTQnRhVzVwYzNSbGNpQnZaaUJwYm1ScFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gd2FzIEluZGlhJ3MgZmlyc3QgcHJlc2lkZW50IGFuZCBQcmltZSBNaW5pc3Rlcj8iLCJsayI6IkdqRjNhRzhnYVhNZ2FXNWthV0VuY3lCbWFYSnpkQ0J3Y21WemFXUmxiblFnWVc1a0lIQnlhVzFsSUcxcGJtbHpkR1Z5IiwiYnMiOiJjMzJQUFEtQ01CQ0c0M3FUYzZmYkNKcG9BSGRtQnhNbmpXTWpWYzZrVjlLcjZkOFh4S0VHY1gtZTl3Tk9rSjliaHlRWVdvUHNObGpnMFpNMWVDQW1DY1lqTWU2NUlWMlh1Y3BpQ3ZkczkyWnR3dExBd2dWV1NhNllxLU5tUG5pdDhqaWg1NklmVUEzUlVjdW9aNEkzOGhKNndRZzFoZ1BxU1ZsZFZxcjRkTkFmNjdzVTdyQk5ib3hDZEZiel9KZWRLdU52WlhySVBmMjRacmw0QVEiLCJpZCI6ImZjX1hzeXZhdDFkLV9UV3hBLWZrNHVBRGdfNSJ9",
-    "page_token": "ENLbe3icHdBZbqMwAABQ9TL9bHC2aSJFIxEwhBYjg5fYPyNiSGhslqQuS_56gznEnGpOM9K8I7zvP-aj0X-fflfWdp_b2WwYhpdL215M-aLaepZ_To2aqdyYU670dv1jDX6e1c7vhbu_KxfTrmNe6hCIZFyPveBWJsF4O2lIxdW8JZ5clqEYSvg6Kf9gZVDdpEZ9Ngc406PDzCbPdHeNSZQwLWzqg4lBuFehcSm3jdR4RFeYlHSlS35YnhgjEuBVkQEtgyIkfOOl3La5YyGlKxM7yGBqlrEjDaLVUByjPdVAIC0WiG1sDlnKMgegANxpUPkFNO-KwCwJihup40dyrB6ISEs86DKmJsxRz_zxHfF0LeZ6xY6o9ysp1MLMxRGPcg_ODBZLnIE6f6QA07QJPiI3DdGUcEkLWDSERxWuowOh7CsOQB1rYAsehbkDAfOM-3xW_W7x_H969-tc2213by__ALNCi4c",
-    "question": "Who was India's first president and Prime Minister?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ENLbe3icHdBZbqMwAABQ9TL9bHC2aSJFIxEwhBYjg5fYPyNiSGhslqQuS_56gznEnGpOM9K8I7zvP-aj0X-fflfWdp_b2WwYhpdL215M-aLaepZ_To2aqdyYU670dv1jDX6e1c7vhbu_KxfTrmNe6hCIZFyPveBWJsF4O2lIxdW8JZ5clqEYSvg6Kf9gZVDdpEZ9Ngc406PDzCbPdHeNSZQwLWzqg4lBuFehcSm3jdR4RFeYlHSlS35YnhgjEuBVkQEtgyIkfOOl3La5YyGlKxM7yGBqlrEjDaLVUByjPdVAIC0WiG1sDlnKMgegANxpUPkFNO-KwCwJihup40dyrB6ISEs86DKmJsxRz_zxHfF0LeZ6xY6o9ysp1MLMxRGPcg_ODBZLnIE6f6QA07QJPiI3DdGUcEkLWDSERxWuowOh7CsOQB1rYAsehbkDAfOM-3xW_W7x_H969-tc2213by__ALNCi4c",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01XWnhOVGxXT0ZocWRqZERURTk2ZFZOeFRteHJWa055V0Vad1RWbGhUMUJsTWtST01HdFNaek50TUZwNVptVmZXRkZWWkVkWWJubHFNMDV1UlV0SWMwZG5hblJIVlVOeVFtWlFRVTV3UW1aT2RFMWFXR3BQY2s0elFSSVdXSE41ZG1GME1XUXRYMVJYZUVFdFptczBkVUZFWnhvaVFVUnpjamxtVkVNd2NYaE9UMmRXVjA5aVRXUmFjbEZTYW1sSllVVnJSbkJYUVEiLCJmY3YiOiIzIiwiZWkiOiJYc3l2YXQxZC1fVFd4QS1mazR1QURnIiwicWMiOiJDaWwzYUc4Z2QyRnpJSFJvWlNCbWFYSnpkQ0J3Y21sdFpTQnRhVzVwYzNSbGNpQnZaaUJwYm1ScFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gd2FzIEluZGlhJ3MgZmlyc3QgcHJlc2lkZW50IGFuZCBQcmltZSBNaW5pc3Rlcj8iLCJsayI6IkdqRjNhRzhnYVhNZ2FXNWthV0VuY3lCbWFYSnpkQ0J3Y21WemFXUmxiblFnWVc1a0lIQnlhVzFsSUcxcGJtbHpkR1Z5IiwiYnMiOiJjMzJQUFEtQ01CQ0c0M3FUYzZmYkNKcG9BSGRtQnhNbmpXTWpWYzZrVjlLcjZkOFh4S0VHY1gtZTl3Tk9rSjliaHlRWVdvUHNObGpnMFpNMWVDQW1DY1lqTWU2NUlWMlh1Y3BpQ3ZkczkyWnR3dExBd2dWV1NhNllxLU5tUG5pdDhqaWg1NklmVUEzUlVjdW9aNEkzOGhKNndRZzFoZ1BxU1ZsZFZxcjRkTkFmNjdzVTdyQk5ib3hDZEZiel9KZWRLdU52WlhySVBmMjRacmw0QVEiLCJpZCI6ImZjX1hzeXZhdDFkLV9UV3hBLWZrNHVBRGdfNSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRESmtaSGRzVFc1QlEwRkxaRlZCYzFoZlJHaDNUazVtYlU4MVlrVnhVaTFLVVhwQmFuZGxkM013YjBZd04zcE1hRVkyTUZWR1NuRm9WVWxMTFROWmJYZEdiekZNYkdSbk0wMTNOMlJXTUVRMlVFTmtjMVZ5TUV0UVp4SVhZVFIxTldGd1IyaEVjeko1ZDFCQlVIVjBVRGQ1UVhNYUlrRkVjM0k1WmxKdFVIRjFObnBZWldWclFtZzBZVVphUjJaYVdtTlJVVWRmU1djIiwiZmN2IjoiMyIsImVpIjoiYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXMiLCJxYyI6IkNpbDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndjbWx0WlNCdGFXNXBjM1JsY2lCdlppQnBibVJwWVJBQWZWcnI0ajQiLCJxdWVzdGlvbiI6IldobyBiZWNhbWUgUE0gMyB0aW1lcyBpbiBJbmRpYT8iLCJsayI6IkdoNTNhRzhnWW1WallXMWxJSEJ0SURNZ2RHbHRaWE1nYVc0Z2FXNWthV0UiLCJicyI6ImM0M09NUXZDTUJDR1lWd3pPV2ZRYnl0VkVOci1nQTVPRG9LVDRoamJrMTZoYWVrRjh2ZE5xV0JBaGM3MzNIdW5yaXE5TlQxWTRCcUM3UV9JTUl6Y0VUcTJMSTVHc01YSjFtektQTldKal9GUHk1TlZkN1dMdWtKVmItdl80YjFPX1FJOXA0OXFPNlVmVkprd3Y1eFJ3QVVwVVE5NjR6OWs2R0l5UjFwVlRCRnZaTjVKQkU4ZXhZV3JKRnlUZFRCZlA1UjVvYlAzbzd4NGE3MTZBUSIsImlkIjoiZmNfYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXNfNSJ9",
+    "page_token": "DdK5tnicHZBBboJAFEDTy7isAtFGE9OEOiPSMoaB-aNsGphBET4MVirUXe_SU_U0NV293cvL-_7BU1P9PlyLrmsvi_G47_vHozFHzB-Vqcfp5atRY5UiZqmqFrOnmfV8UEvyuXFfzhs3FG0LKz6JZFFuPU3TNXpMYJzduaXFTlZ-vZeDzCwwOUWSVrSEG_pgJwaw3SXE94UkfeZRLy79IJpQwaq50TZ3tGiHuNKDFnMibr7ZC2NH3r5PSwgSLF71hEW5xFlkq46XeJYS-5xqsiU4QMxbTRllazjlAOdQJB1Y4IRiuMhKTxXBEiRtwOaNXMFbBPeMFTuFjcu0GFxS6IJ5wtrvXC8l_BY06AhCQ73jIXPQVYM5hYLfVIk1kCTQkrpbEkyUtHpe01lA5r2sOytZT9uM3E3h6KCuS2f0_3P5fqi7Rfthjn-RcYRU",
+    "question": "Who became PM 3 times in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DdK5tnicHZBBboJAFEDTy7isAtFGE9OEOiPSMoaB-aNsGphBET4MVirUXe_SU_U0NV293cvL-_7BU1P9PlyLrmsvi_G47_vHozFHzB-Vqcfp5atRY5UiZqmqFrOnmfV8UEvyuXFfzhs3FG0LKz6JZFFuPU3TNXpMYJzduaXFTlZ-vZeDzCwwOUWSVrSEG_pgJwaw3SXE94UkfeZRLy79IJpQwaq50TZ3tGiHuNKDFnMibr7ZC2NH3r5PSwgSLF71hEW5xFlkq46XeJYS-5xqsiU4QMxbTRllazjlAOdQJB1Y4IRiuMhKTxXBEiRtwOaNXMFbBPeMFTuFjcu0GFxS6IJ5wtrvXC8l_BY06AhCQ73jIXPQVYM5hYLfVIk1kCTQkrpbEkyUtHpe01lA5r2sOytZT9uM3E3h6KCuS2f0_3P5fqi7Rfthjn-RcYRU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRESmtaSGRzVFc1QlEwRkxaRlZCYzFoZlJHaDNUazVtYlU4MVlrVnhVaTFLVVhwQmFuZGxkM013YjBZd04zcE1hRVkyTUZWR1NuRm9WVWxMTFROWmJYZEdiekZNYkdSbk0wMTNOMlJXTUVRMlVFTmtjMVZ5TUV0UVp4SVhZVFIxTldGd1IyaEVjeko1ZDFCQlVIVjBVRGQ1UVhNYUlrRkVjM0k1WmxKdFVIRjFObnBZWldWclFtZzBZVVphUjJaYVdtTlJVVWRmU1djIiwiZmN2IjoiMyIsImVpIjoiYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXMiLCJxYyI6IkNpbDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndjbWx0WlNCdGFXNXBjM1JsY2lCdlppQnBibVJwWVJBQWZWcnI0ajQiLCJxdWVzdGlvbiI6IldobyBiZWNhbWUgUE0gMyB0aW1lcyBpbiBJbmRpYT8iLCJsayI6IkdoNTNhRzhnWW1WallXMWxJSEJ0SURNZ2RHbHRaWE1nYVc0Z2FXNWthV0UiLCJicyI6ImM0M09NUXZDTUJDR1lWd3pPV2ZRYnl0VkVOci1nQTVPRG9LVDRoamJrMTZoYWVrRjh2ZE5xV0JBaGM3MzNIdW5yaXE5TlQxWTRCcUM3UV9JTUl6Y0VUcTJMSTVHc01YSjFtektQTldKal9GUHk1TlZkN1dMdWtKVmItdl80YjFPX1FJOXA0OXFPNlVmVkprd3Y1eFJ3QVVwVVE5NjR6OWs2R0l5UjFwVlRCRnZaTjVKQkU4ZXhZV3JKRnlUZFRCZlA1UjVvYlAzbzd4NGE3MTZBUSIsImlkIjoiZmNfYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXNfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01XWnhOVGxXT0ZocWRqZERURTk2ZFZOeFRteHJWa055V0Vad1RWbGhUMUJsTWtST01HdFNaek50TUZwNVptVmZXRkZWWkVkWWJubHFNMDV1UlV0SWMwZG5hblJIVlVOeVFtWlFRVTV3UW1aT2RFMWFXR3BQY2s0elFSSVdXSE41ZG1GME1XUXRYMVJYZUVFdFptczBkVUZFWnhvaVFVUnpjamxtVkVNd2NYaE9UMmRXVjA5aVRXUmFjbEZTYW1sSllVVnJSbkJYUVEiLCJmY3YiOiIzIiwiZWkiOiJYc3l2YXQxZC1fVFd4QS1mazR1QURnIiwicWMiOiJDaWwzYUc4Z2QyRnpJSFJvWlNCbWFYSnpkQ0J3Y21sdFpTQnRhVzVwYzNSbGNpQnZaaUJwYm1ScFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGZpcnN0IHdvbWFuIFByaW1lIE1pbmlzdGVyIGluIEluZGlhPyIsImxrIjoiYzVNeUtzX0lWOGdzVmlqSlNGVkl5eXdxTGxFb3o4OU56Rk1vS01yTVRWWEl6Y3pMTEM1SkxWTEl6RlBJTHdWUktabUpBQSIsImJzIjoiYzMyUFBRLUNNQkNHNDNxVGM2ZmJDSnBvQUhkbUJ4TW5qV01qVmM2a1Y5S3I2ZDhYeEtFR2NYLWU5d05Pa0o5Ymh5UVlXb1BzTmxqZzBaTTFlQ0FtQ2NZak1lNjVJVjJYdWNwaUN2ZHM5Mlp0d3RMQXdnVldTYTZZcS1ObVBuaXQ4amloNTZJZlVBM1JVY3VvWjRJMzhoSjZ3UWcxaGdQcVNWbGRWcXI0ZE5BZjY3c1U3ckJOYm94Q2RGYnpfSmVkS3VOdlpYcklQZjI0WnJsNEFRIiwiaWQiOiJmY19Yc3l2YXQxZC1fVFd4QS1mazR1QURnXzUifQ==",
-    "page_token": "SwEl53icHdBfboIwHADg7DI-ThDmoolZxBXUzZr-6B_oy1KL6IQCujqQt91lp9pptuwI3_f1Xb5Xxc-dPVrbfEyHw7Zt7w91fSj397o2Q_Vxq_RQq7LcKV1Mx49j9ynXM3RFweK8CghrGv4MTnzKVlBJgk9zq_qAcQYtdiHdFSFQZhERMlK9fFCoA-WA0Qb5TKS9KCY5EXDFoRQy0e5uyXkW6U7S0ONcXikLGXWwyKLOp4ZfaLKxIBrKk3lLnOwlQzhOvPCV0CPBxo7TSl42I-nu0eRM-XpLo7LWVWbUMlts0BqnJ45jikaK4lYY7WjTCR5x4FTabRL4m6oewSnw0FGm2itHaUI6uXBzHmY-iV2jenAJgyp6XwewxLetkDRGxxdg4Qp67dPC9oz9WQ3uZFnGupBNjKAa5Ppz5g3-N2dvubHT5lIffgGGn4L_",
-    "question": "Who is the first woman Prime Minister in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SwEl53icHdBfboIwHADg7DI-ThDmoolZxBXUzZr-6B_oy1KL6IQCujqQt91lp9pptuwI3_f1Xb5Xxc-dPVrbfEyHw7Zt7w91fSj397o2Q_Vxq_RQq7LcKV1Mx49j9ynXM3RFweK8CghrGv4MTnzKVlBJgk9zq_qAcQYtdiHdFSFQZhERMlK9fFCoA-WA0Qb5TKS9KCY5EXDFoRQy0e5uyXkW6U7S0ONcXikLGXWwyKLOp4ZfaLKxIBrKk3lLnOwlQzhOvPCV0CPBxo7TSl42I-nu0eRM-XpLo7LWVWbUMlts0BqnJ45jikaK4lYY7WjTCR5x4FTabRL4m6oewSnw0FGm2itHaUI6uXBzHmY-iV2jenAJgyp6XwewxLetkDRGxxdg4Qp67dPC9oz9WQ3uZFnGupBNjKAa5Ppz5g3-N2dvubHT5lIffgGGn4L_",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01XWnhOVGxXT0ZocWRqZERURTk2ZFZOeFRteHJWa055V0Vad1RWbGhUMUJsTWtST01HdFNaek50TUZwNVptVmZXRkZWWkVkWWJubHFNMDV1UlV0SWMwZG5hblJIVlVOeVFtWlFRVTV3UW1aT2RFMWFXR3BQY2s0elFSSVdXSE41ZG1GME1XUXRYMVJYZUVFdFptczBkVUZFWnhvaVFVUnpjamxtVkVNd2NYaE9UMmRXVjA5aVRXUmFjbEZTYW1sSllVVnJSbkJYUVEiLCJmY3YiOiIzIiwiZWkiOiJYc3l2YXQxZC1fVFd4QS1mazR1QURnIiwicWMiOiJDaWwzYUc4Z2QyRnpJSFJvWlNCbWFYSnpkQ0J3Y21sdFpTQnRhVzVwYzNSbGNpQnZaaUJwYm1ScFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGZpcnN0IHdvbWFuIFByaW1lIE1pbmlzdGVyIGluIEluZGlhPyIsImxrIjoiYzVNeUtzX0lWOGdzVmlqSlNGVkl5eXdxTGxFb3o4OU56Rk1vS01yTVRWWEl6Y3pMTEM1SkxWTEl6RlBJTHdWUktabUpBQSIsImJzIjoiYzMyUFBRLUNNQkNHNDNxVGM2ZmJDSnBvQUhkbUJ4TW5qV01qVmM2a1Y5S3I2ZDhYeEtFR2NYLWU5d05Pa0o5Ymh5UVlXb1BzTmxqZzBaTTFlQ0FtQ2NZak1lNjVJVjJYdWNwaUN2ZHM5Mlp0d3RMQXdnVldTYTZZcS1ObVBuaXQ4amloNTZJZlVBM1JVY3VvWjRJMzhoSjZ3UWcxaGdQcVNWbGRWcXI0ZE5BZjY3c1U3ckJOYm94Q2RGYnpfSmVkS3VOdlpYcklQZjI0WnJsNEFRIiwiaWQiOiJmY19Yc3l2YXQxZC1fVFd4QS1mazR1QURnXzUifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRESmtaSGRzVFc1QlEwRkxaRlZCYzFoZlJHaDNUazVtYlU4MVlrVnhVaTFLVVhwQmFuZGxkM013YjBZd04zcE1hRVkyTUZWR1NuRm9WVWxMTFROWmJYZEdiekZNYkdSbk0wMTNOMlJXTUVRMlVFTmtjMVZ5TUV0UVp4SVhZVFIxTldGd1IyaEVjeko1ZDFCQlVIVjBVRGQ1UVhNYUlrRkVjM0k1WmxKdFVIRjFObnBZWldWclFtZzBZVVphUjJaYVdtTlJVVWRmU1djIiwiZmN2IjoiMyIsImVpIjoiYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXMiLCJxYyI6IkNpbDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndjbWx0WlNCdGFXNXBjM1JsY2lCdlppQnBibVJwWVJBQWZWcnI0ajQiLCJxdWVzdGlvbiI6IldobyB3YXMgSW5kaWEncyBmaXJzdCBwcmVzaWRlbnQgYW5kIHByaW1lIG1pbmlzdGVyPyIsImxrIjoiR2pGM2FHOGdhWE1nYVc1a2FXRW5jeUJtYVhKemRDQndjbVZ6YVdSbGJuUWdZVzVrSUhCeWFXMWxJRzFwYm1semRHVnkiLCJicyI6ImM0M09NUXZDTUJDR1lWd3pPV2ZRYnl0VkVOci1nQTVPRG9LVDRoamJrMTZoYWVrRjh2ZE5xV0JBaGM3MzNIdW5yaXE5TlQxWTRCcUM3UV9JTUl6Y0VUcTJMSTVHc01YSjFtektQTldKal9GUHk1TlZkN1dMdWtKVmItdl80YjFPX1FJOXA0OXFPNlVmVkprd3Y1eFJ3QVVwVVE5NjR6OWs2R0l5UjFwVlRCRnZaTjVKQkU4ZXhZV3JKRnlUZFRCZlA1UjVvYlAzbzd4NGE3MTZBUSIsImlkIjoiZmNfYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXNfNSJ9",
+    "page_token": "F6AYvHicHdBLbuIwAABQ9TJdFpsURkVCI2WwQRExtRM7iTcjYxNC_EloUqDs5go9Q0_V01Sad4T378udgv1--GzGsR8Wk8n1en06dt3RHZ505ydq-Ah6opVze6XtYv5rDn_XeokuOv7zpmPK-16sGMgyuMn8S6GDaFkkxkPbFKnAlYb9RQN3Zq63rD1-iMCkQGbY8eFZCqxUkVgT4ppGON3lcUqQfCWotxliRKyashBsvQdjkraJpaCf6Sm-5aCbbXOzzcAos5I_59PkbKCNKKymBUrqKiKvyt9sHnC997hmkK0VwuccwXcCCGKFbDjESq6qSIFxznFcSuiCcQ5mgWGB7cxMcVt4MkhAaG5ZU_nkdrCukhsZUGMasuGwKuONQuyeBhdxhKkpGSWRi_WtO1HO7rp1nosXn69hSspmNNic0jsmWxFzmhuQrZPdHsx28vpY68syevx_vfxb-3HRv3XHH-zWi80",
+    "question": "Who was India's first president and prime minister?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=F6AYvHicHdBLbuIwAABQ9TJdFpsURkVCI2WwQRExtRM7iTcjYxNC_EloUqDs5go9Q0_V01Sad4T378udgv1--GzGsR8Wk8n1en06dt3RHZ505ydq-Ah6opVze6XtYv5rDn_XeokuOv7zpmPK-16sGMgyuMn8S6GDaFkkxkPbFKnAlYb9RQN3Zq63rD1-iMCkQGbY8eFZCqxUkVgT4ppGON3lcUqQfCWotxliRKyashBsvQdjkraJpaCf6Sm-5aCbbXOzzcAos5I_59PkbKCNKKymBUrqKiKvyt9sHnC997hmkK0VwuccwXcCCGKFbDjESq6qSIFxznFcSuiCcQ5mgWGB7cxMcVt4MkhAaG5ZU_nkdrCukhsZUGMasuGwKuONQuyeBhdxhKkpGSWRi_WtO1HO7rp1nosXn69hSspmNNic0jsmWxFzmhuQrZPdHsx28vpY68syevx_vfxb-3HRv3XHH-zWi80",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRESmtaSGRzVFc1QlEwRkxaRlZCYzFoZlJHaDNUazVtYlU4MVlrVnhVaTFLVVhwQmFuZGxkM013YjBZd04zcE1hRVkyTUZWR1NuRm9WVWxMTFROWmJYZEdiekZNYkdSbk0wMTNOMlJXTUVRMlVFTmtjMVZ5TUV0UVp4SVhZVFIxTldGd1IyaEVjeko1ZDFCQlVIVjBVRGQ1UVhNYUlrRkVjM0k1WmxKdFVIRjFObnBZWldWclFtZzBZVVphUjJaYVdtTlJVVWRmU1djIiwiZmN2IjoiMyIsImVpIjoiYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXMiLCJxYyI6IkNpbDNhRzhnZDJGeklIUm9aU0JtYVhKemRDQndjbWx0WlNCdGFXNXBjM1JsY2lCdlppQnBibVJwWVJBQWZWcnI0ajQiLCJxdWVzdGlvbiI6IldobyB3YXMgSW5kaWEncyBmaXJzdCBwcmVzaWRlbnQgYW5kIHByaW1lIG1pbmlzdGVyPyIsImxrIjoiR2pGM2FHOGdhWE1nYVc1a2FXRW5jeUJtYVhKemRDQndjbVZ6YVdSbGJuUWdZVzVrSUhCeWFXMWxJRzFwYm1semRHVnkiLCJicyI6ImM0M09NUXZDTUJDR1lWd3pPV2ZRYnl0VkVOci1nQTVPRG9LVDRoamJrMTZoYWVrRjh2ZE5xV0JBaGM3MzNIdW5yaXE5TlQxWTRCcUM3UV9JTUl6Y0VUcTJMSTVHc01YSjFtektQTldKal9GUHk1TlZkN1dMdWtKVmItdl80YjFPX1FJOXA0OXFPNlVmVkprd3Y1eFJ3QVVwVVE5NjR6OWs2R0l5UjFwVlRCRnZaTjVKQkU4ZXhZV3JKRnlUZFRCZlA1UjVvYlAzbzd4NGE3MTZBUSIsImlkIjoiZmNfYTR1NWFwR2hEczJ5d1BBUHV0UDd5QXNfNSJ9",
     "type": "ai_overview"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Who was the first Prime Minister of India?",
-   "time_taken_displayed": 0.44,
-   "total_results": 128
+   "time_taken_displayed": 0.27,
+   "total_results": 175000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:06:48 UTC",
+   "created_at": "2026-09-27 21:32:27 UTC",
    "google_url": "https://www.google.com/search?q=Who+was+the+first+Prime+Minister+of+India%3F&oq=Who+was+the+first+Prime+Minister+of+India%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcc5803b136959065c128",
-   "json_endpoint": "https://serpapi.com/searches/8yxf4JnQ3CZpRTaxai6ExyM7wKwvR2BzcIXQwhJKHbU/6aafcc5803b136959065c128.json",
-   "markdown_endpoint": "https://serpapi.com/searches/8yxf4JnQ3CZpRTaxai6ExyM7wKwvR2BzcIXQwhJKHbU/6aafcc5803b136959065c128.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/8yxf4JnQ3CZpRTaxai6ExyM7wKwvR2BzcIXQwhJKHbU/6aafcc5803b136959065c128.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:06:48 UTC",
-   "raw_html_file": "https://serpapi.com/searches/8yxf4JnQ3CZpRTaxai6ExyM7wKwvR2BzcIXQwhJKHbU/6aafcc5803b136959065c128.html",
+   "id": "6ab98b6b550cc4a3536b778d",
+   "json_endpoint": "https://serpapi.com/searches/XWRfcVJs7-LjYAq3TDQdV4VpYiLwfky8ejAL5yTtBj8/6ab98b6b550cc4a3536b778d.json",
+   "markdown_endpoint": "https://serpapi.com/searches/XWRfcVJs7-LjYAq3TDQdV4VpYiLwfky8ejAL5yTtBj8/6ab98b6b550cc4a3536b778d.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/XWRfcVJs7-LjYAq3TDQdV4VpYiLwfky8ejAL5yTtBj8/6ab98b6b550cc4a3536b778d.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:32:27 UTC",
+   "raw_html_file": "https://serpapi.com/searches/XWRfcVJs7-LjYAq3TDQdV4VpYiLwfky8ejAL5yTtBj8/6ab98b6b550cc4a3536b778d.html",
    "status": "Success",
-   "total_time_taken": 6.39
+   "total_time_taken": 0.69
   },
   "search_parameters": {
    "device": "desktop",
@@ -364,15 +459,8 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=80"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+was+the+first+Prime+Minister+of+India%3F&start=20"
    }
   }
  },

@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 755.86,
+ "elapsed_ms": 1339.344,
  "engine": "google",
- "fetched_at": "2026-09-20T11:55:34.152760+00:00",
+ "fetched_at": "2026-09-27T21:30:56.897712+00:00",
  "frugal_cache_version": 1,
  "key": "227e566438d6dd7f4003258ce4dbfebba92e38d7246c656b36bd01f223154887",
  "params": {
@@ -10,373 +10,445 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "uJealXiczVXbcqJKFP2A8x3jizkC3k0VlepuG0FNTOMt-kJho4iIKKCMeZt_ma86X3MaxAiJJjPzcOrsqqTtZrF73xbrx8-1tbH_-evHMgi2_j3HhWFYMF3XXM8L1HU43T9uKLdw175Hlw_Hg1jKUV_kc3NLDKhz0AO0aNf-7mwD8izsnZ1FHnPxK6I20_35inn8vvI5jWP_7G-lJtsU_ILuFfRBa6V25AGy3UKRL5YKPU53GAD8d4aJCaO1DdBtEHuEv3YVOVAAxClPCjDjFV5Qk9NjROJHyLzpDZ7uVGM4YX9N7VUOm-w0qU_z5rvsCpjZhnEsAIRxlBBYX2eTMpLkcs7rk0q9obOWVM-9nKR7nIk1a2FmJ7EoNIDQ5ZL0ZczNMhPGW6WoCeqyC5sQDG9fxerTUUDFBgRfSyFtBI_Kb53rTlrshDNMNrg8N_PYInAWXdL4h-dH84wGDd6V7d1YD3d7w-9pmlcN2r3W4WAOyKo7DDk6Y7i1qxtzQ1tq_EO8F4pChW-UavW7mEjUf2OSn2aS3fVkY7yhiMcFtQCFM43QqengQ8cw2yPlSmIQJdArLYaX06hhSUuJlPabtBLG3iGAZrq1neeorq3zls3oK2tNGnG5NRr-jzQ6mZkCMxrFgShuAkwjTqhWirqpxirg2mfmXd4KkS_vNj8AMwREKgA2OBfmwwhNAEEmjjiAsAyTqtG0D5Zx520DzwFjwL5Q8Iy4YE-gVExRCRQCHoGCmU9rqLAJNRVI8CnQaBiSuyT8jnE3Bx6DMfqVT98Vg1-RKDJy5su78c_Q5kjwTlmPJKeNpsFEQCO9e5z2kBz0wus0cZ3ZbygO_V8R6aRHONGj20TCXxMp1iP4iR7Fvy96FA0vcm8SCbau69HjVT3K5o0UNU2kz_Xot4mEPiUSSdxcIZJ7nUjb20QK3xMpq0f4lh4lRPoTPYJ_qEcxr-anJStO-5V5U6SknS5VSupz3S9LSkXuPW2PtVF_eVCf-uBLkVo4wb2jG-s7zTLuYbEdHI07jR2493MjtxNlN8w7e7rMG-7cz-t5YQDz_X4zT10_yFubvLIxLP0h56w9V-T1aq8xtYZgvt9uGrrUsS3JeAEzqryMJCrpSiUIWkJN7cHjTFhpw1d74e3Wzqgydep8-Pyy8GqqCQ9P1X63HFahW9kZjqWGnX59sVeF7_KeXzUFvtPEMt8RlhrhG4N1H5et4kR6Hfbbs2P3ONIEo118aU3K1N45j3gcR-aLit6d2uWWviA453hUZO0vm-CJgLHJ5hDF8wmGusvWEJBWlbUH5nyqa3P_IDZKRTov1WqLGV-nRsPIOWZw3IrVcs7feKLwL2kfPVc",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uJealXiczVXbcqJKFP2A8x3jizkC3k0VlepuG0FNTOMt-kJho4iIKKCMeZt_ma86X3MaxAiJJjPzcOrsqqTtZrF73xbrx8-1tbH_-evHMgi2_j3HhWFYMF3XXM8L1HU43T9uKLdw175Hlw_Hg1jKUV_kc3NLDKhz0AO0aNf-7mwD8izsnZ1FHnPxK6I20_35inn8vvI5jWP_7G-lJtsU_ILuFfRBa6V25AGy3UKRL5YKPU53GAD8d4aJCaO1DdBtEHuEv3YVOVAAxClPCjDjFV5Qk9NjROJHyLzpDZ7uVGM4YX9N7VUOm-w0qU_z5rvsCpjZhnEsAIRxlBBYX2eTMpLkcs7rk0q9obOWVM-9nKR7nIk1a2FmJ7EoNIDQ5ZL0ZczNMhPGW6WoCeqyC5sQDG9fxerTUUDFBgRfSyFtBI_Kb53rTlrshDNMNrg8N_PYInAWXdL4h-dH84wGDd6V7d1YD3d7w-9pmlcN2r3W4WAOyKo7DDk6Y7i1qxtzQ1tq_EO8F4pChW-UavW7mEjUf2OSn2aS3fVkY7yhiMcFtQCFM43QqengQ8cw2yPlSmIQJdArLYaX06hhSUuJlPabtBLG3iGAZrq1neeorq3zls3oK2tNGnG5NRr-jzQ6mZkCMxrFgShuAkwjTqhWirqpxirg2mfmXd4KkS_vNj8AMwREKgA2OBfmwwhNAEEmjjiAsAyTqtG0D5Zx520DzwFjwL5Q8Iy4YE-gVExRCRQCHoGCmU9rqLAJNRVI8CnQaBiSuyT8jnE3Bx6DMfqVT98Vg1-RKDJy5su78c_Q5kjwTlmPJKeNpsFEQCO9e5z2kBz0wus0cZ3ZbygO_V8R6aRHONGj20TCXxMp1iP4iR7Fvy96FA0vcm8SCbau69HjVT3K5o0UNU2kz_Xot4mEPiUSSdxcIZJ7nUjb20QK3xMpq0f4lh4lRPoTPYJ_qEcxr-anJStO-5V5U6SknS5VSupz3S9LSkXuPW2PtVF_eVCf-uBLkVo4wb2jG-s7zTLuYbEdHI07jR2493MjtxNlN8w7e7rMG-7cz-t5YQDz_X4zT10_yFubvLIxLP0h56w9V-T1aq8xtYZgvt9uGrrUsS3JeAEzqryMJCrpSiUIWkJN7cHjTFhpw1d74e3Wzqgydep8-Pyy8GqqCQ9P1X63HFahW9kZjqWGnX59sVeF7_KeXzUFvtPEMt8RlhrhG4N1H5et4kR6Hfbbs2P3ONIEo118aU3K1N45j3gcR-aLit6d2uWWviA453hUZO0vm-CJgLHJ5hDF8wmGusvWEJBWlbUH5nyqa3P_IDZKRTov1WqLGV-nRsPIOWZw3IrVcs7feKLwL2kfPVc"
+   "page_token": "D0aaDHiczVbhcqo4FH6AfY71j72CgFY7w3QSxIptFbRW7R8HAwSKGEtEtP_uC-xT7FPt02xAtOiV9t77Y2ePM8SELycn5-TLx_e_F97S_-ePv9z1ekVvOC6O4womBC_sCiIBZ9LdEnEOWdAQubeURCGyPUtGbkgCu7TbyGIJUZkv2Z7ckqKaGc1Jby104rmvi43QJIAvpS7k2dyk9itbYftKuRnHHv6fYot1KrRiLyvtO6yqaCNct0YVgRfESp8zAwYA_6WpQAMQAGPfFJmSAH_CV-JISXwdDCsfr_bW2vtL1sTpwH3hkloyC7Kfxtwy0xvTRsyzIXIAdQtjgVq-M82iiVO_EKaB_rQdXWXrfpKoojSpJw5YJCfAwtwqZ4eB5WrwDahq4uBSKGp-12AAwH7jLR90cANoSFPwJ7EnE9AOdhVw9F9kb8DVDymMe1MG5yzMzi7PzUPWVDkPuSj9E9LkSCtPTZ60xw8kIPrj2I7Dh5pO3iQR7XotAW37BofmDLcgpmVbM3fG36b9qlCt8U3xunGVcgnRI5lonkzqOrrTvCekvjUqDxVYPTBJOdZOOcsT6ysa-NGgkkGVCy9xjga5yZ6Sz9Yoa9np5jWg5YEAq5qetHeHgT6ArMIoX8XDAonLS0w6Ae2ZhNOqMmjSah_Tj5BRLoyTcw_jS9s867fgYZIG9-_izO8P5w-Crp8fPXXPohgY-5qsQAxHKayfyyUGU0Xzc96yiFWWTZj11GNt9knw8uzxWHxusiweMljXwPcp35P4lTSA5Iindq-dVXgALhmrDmabHvzE7XfByNeQhDkZZc4YkGeO2n5f6BMR03HQlnrWgrfbKqaxEM75-DJTSDD_Bd1B_zMuZao0ylSpmEvq11xKLsvPVCl9HFUJD_dcui_mUnLJXlIl6QDKqdIZl-BDjktuejnHRar0q1yCn3BJ_ZRL5DKX_CIupap0yqVTVTrjUqZKH1z6HVVa_aYqpdSy982pREWvuFCq1H5drT-JbffF9ev26PlFFXt96f1bVdHjL6XKCdY3gWktrmaedQOF7npnXc3YALmxrdKb3CFxOYiQW7aITctmufoEy8Nhq4wIXZe9ZVlbWp55WwoWIZF5UwJQqFWDxWYSPRJBcvSO13nfrkRcc6LlXCCr2jASHvVrT2_u2tGG91YTfSJJc_9ZaD1bzfarGNkTQ-k6zsB62cIx7YnNetR4Ub11EwzHW3ew7W81jQeG0wF3fqs9aHYcn4wmNfw6W0ydroYenbc0GirT5Wi26WCMV6NSECKZ1UTCoGeAMQYIKFNgsFKO2CewocTAuKsDQ4UlisyZTTcyqtaFRn1-LZmNulC1nFKA17uVXJdKdBnK1X8Bw1hEBw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=D0aaDHiczVbhcqo4FH6AfY71j72CgFY7w3QSxIptFbRW7R8HAwSKGEtEtP_uC-xT7FPt02xAtOiV9t77Y2ePM8SELycn5-TLx_e_F97S_-ePv9z1ekVvOC6O4womBC_sCiIBZ9LdEnEOWdAQubeURCGyPUtGbkgCu7TbyGIJUZkv2Z7ckqKaGc1Jby104rmvi43QJIAvpS7k2dyk9itbYftKuRnHHv6fYot1KrRiLyvtO6yqaCNct0YVgRfESp8zAwYA_6WpQAMQAGPfFJmSAH_CV-JISXwdDCsfr_bW2vtL1sTpwH3hkloyC7Kfxtwy0xvTRsyzIXIAdQtjgVq-M82iiVO_EKaB_rQdXWXrfpKoojSpJw5YJCfAwtwqZ4eB5WrwDahq4uBSKGp-12AAwH7jLR90cANoSFPwJ7EnE9AOdhVw9F9kb8DVDymMe1MG5yzMzi7PzUPWVDkPuSj9E9LkSCtPTZ60xw8kIPrj2I7Dh5pO3iQR7XotAW37BofmDLcgpmVbM3fG36b9qlCt8U3xunGVcgnRI5lonkzqOrrTvCekvjUqDxVYPTBJOdZOOcsT6ysa-NGgkkGVCy9xjga5yZ6Sz9Yoa9np5jWg5YEAq5qetHeHgT6ArMIoX8XDAonLS0w6Ae2ZhNOqMmjSah_Tj5BRLoyTcw_jS9s867fgYZIG9-_izO8P5w-Crp8fPXXPohgY-5qsQAxHKayfyyUGU0Xzc96yiFWWTZj11GNt9knw8uzxWHxusiweMljXwPcp35P4lTSA5Iindq-dVXgALhmrDmabHvzE7XfByNeQhDkZZc4YkGeO2n5f6BMR03HQlnrWgrfbKqaxEM75-DJTSDD_Bd1B_zMuZao0ylSpmEvq11xKLsvPVCl9HFUJD_dcui_mUnLJXlIl6QDKqdIZl-BDjktuejnHRar0q1yCn3BJ_ZRL5DKX_CIupap0yqVTVTrjUqZKH1z6HVVa_aYqpdSy982pREWvuFCq1H5drT-JbffF9ev26PlFFXt96f1bVdHjL6XKCdY3gWktrmaedQOF7npnXc3YALmxrdKb3CFxOYiQW7aITctmufoEy8Nhq4wIXZe9ZVlbWp55WwoWIZF5UwJQqFWDxWYSPRJBcvSO13nfrkRcc6LlXCCr2jASHvVrT2_u2tGG91YTfSJJc_9ZaD1bzfarGNkTQ-k6zsB62cIx7YnNetR4Ub11EwzHW3ew7W81jQeG0wF3fqs9aHYcn4wmNfw6W0ydroYenbc0GirT5Wi26WCMV6NSECKZ1UTCoGeAMQYIKFNgsFKO2CewocTAuKsDQ4UlisyZTTcyqtaFRn1-LZmNulC1nFKA17uVXJdKdBnK1X8Bw1hEBw"
   },
+  "discussions_and_forums": [
+   {
+    "answers": [
+     {
+      "extensions": [
+       "Top answer",
+       "3 months ago"
+      ],
+      "link": "https://www.reddit.com/r/HDD/comments/1ughiy4/whats_the_cost_of_a_new_ssd_in_india/otzz9s4/"
+     },
+     {
+      "extensions": [
+       "3 months ago"
+      ],
+      "link": "https://www.reddit.com/r/HDD/comments/1ughiy4/comment/ou04guc/"
+     }
+    ],
+    "date": "3 months ago",
+    "extensions": [
+     "r/HDD",
+     "6 comments"
+    ],
+    "link": "https://www.reddit.com/r/HDD/comments/1ughiy4/whats_the_cost_of_a_new_ssd_in_india/",
+    "source": "Reddit",
+    "title": "What's the cost of a new SSD in India?"
+   },
+   {
+    "answers": [
+     {
+      "link": "https://www.reddit.com/r/IndiaTech/comments/1vspdc1/bought_this_ssd_for_5747_in_2023_same_one_is/"
+     }
+    ],
+    "date": "1 month ago",
+    "extensions": [
+     "r/IndiaTech",
+     "20+ comments"
+    ],
+    "link": "https://www.reddit.com/r/IndiaTech/comments/1vspdc1/bought_this_ssd_for_5747_in_2023_same_one_is/",
+    "source": "Reddit",
+    "title": "Bought this SSD for ₹5,747 in 2023. Same one is ₹28,449 today."
+   }
+  ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowCL2dvdG8_dXJsPUNBRVN2QUVCNnpzd0ZldkdqcWVKeW9RN3BEd2ROdzRhZEVyV3dNR3lrbWh1ZzYzQkVkTGNkX19kcDZRTHFkM0ZXWWxPWWlYS0Y5dkFTNGVyQ0VBT3VWaUppUC10d2dGWHRaNm9iOTk0Zk41WUc3aXlXakJWMm9EN3JQWGV2RldwTm1WSUp4MWwtQ1hkUnUtenFFYUg3R3ZOTmZvNXN2c2o3S2dFdGN1T0hMLVFaWEVNcmhMQzhEMkRTZm94Vk9CamhtNnRVcWRIUnp1Qy0tT1V6cnZBTTBhV0hNSFYxMVFqSDVBNmt0OFpuc0h6UDNzeUZ4VjJSWlBfb0dsUk9DcXhtURIEGgIIABqUBhIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQO4FCAAQABgAIAAqHQoDaG93FQAAAAAaBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gVAAAAABoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVAAAAABoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhWjhZNAGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBXFapVAGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVAAAAABoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRWijTE_MrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmkwTlM1Z29zbXpKaWtjUEdGdldiSzNzREQzN1VhbENlNVFJdHhudTYyQ0NVY25mV1FFbEprbm12QU05aS1ISkFqUkZXZzB4SGNPNzRiQnFlM0F5S0Vid2s2VGpPM0Z0azB4T242VE9IdWtnY1pzUVpxSmRnR0g4c1lubllaX1BmaC05RVNoNVo3enVncTdJVnF4dkVyTjFrbV9MSjo4PGI-MXRiPC9iPiBOdm1lIDxiPlNzZDwvYj4gYXQg4oK5IDk5OTgvcGllY2UgLSBJbmRpYU1BUlRCdk9mZmVyaW5nIDF0YiBOdm1lIFNzZCBhdCDigrkgOTk5OC9waWVjZSBpbiBNdW1iYWksIE1haGFyYXNodHJhLiA8Yj4xVEIgU1NEIOKCuSA3LDk5OTwvYj4g4oCmIOKCuSA2LDAwMC9QaWVjZSBDYXBhY2l0eTpKAWFKAmluUgR3aWxsUgNhcmVSBHdoYXRSA2NhblICaXNSAmRvIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowCL2dvdG8_dXJsPUNBRVN2QUVCNnpzd0ZldkdqcWVKeW9RN3BEd2ROdzRhZEVyV3dNR3lrbWh1ZzYzQkVkTGNkX19kcDZRTHFkM0ZXWWxPWWlYS0Y5dkFTNGVyQ0VBT3VWaUppUC10d2dGWHRaNm9iOTk0Zk41WUc3aXlXakJWMm9EN3JQWGV2RldwTm1WSUp4MWwtQ1hkUnUtenFFYUg3R3ZOTmZvNXN2c2o3S2dFdGN1T0hMLVFaWEVNcmhMQzhEMkRTZm94Vk9CamhtNnRVcWRIUnp1Qy0tT1V6cnZBTTBhV0hNSFYxMVFqSDVBNmt0OFpuc0h6UDNzeUZ4VjJSWlBfb0dsUk9DcXhtURIEGgIIABqUBhIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQO4FCAAQABgAIAAqHQoDaG93FQAAAAAaBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gVAAAAABoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVAAAAABoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhWjhZNAGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBXFapVAGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVAAAAABoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRWijTE_MrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmkwTlM1Z29zbXpKaWtjUEdGdldiSzNzREQzN1VhbENlNVFJdHhudTYyQ0NVY25mV1FFbEprbm12QU05aS1ISkFqUkZXZzB4SGNPNzRiQnFlM0F5S0Vid2s2VGpPM0Z0azB4T242VE9IdWtnY1pzUVpxSmRnR0g4c1lubllaX1BmaC05RVNoNVo3enVncTdJVnF4dkVyTjFrbV9MSjo4PGI-MXRiPC9iPiBOdm1lIDxiPlNzZDwvYj4gYXQg4oK5IDk5OTgvcGllY2UgLSBJbmRpYU1BUlRCdk9mZmVyaW5nIDF0YiBOdm1lIFNzZCBhdCDigrkgOTk5OC9waWVjZSBpbiBNdW1iYWksIE1haGFyYXNodHJhLiA8Yj4xVEIgU1NEIOKCuSA3LDk5OTwvYj4g4oCmIOKCuSA2LDAwMC9QaWVjZSBDYXBhY2l0eTpKAWFKAmluUgR3aWxsUgNhcmVSBHdoYXRSA2NhblICaXNSAmRvIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "4.34.3 out of 5 stars (407) · ₹12,599 · 12,599 ; 4.54.5 out of 5 stars (979) · ₹15,999 · 15,999 ; 4.04.0 out of 5 stars (188) · ₹12,199 · 12,199.",
-      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
-      "source_info_link": "https://www.amazon.in/1tb-ssd-internal/s?k=1tb+ssd+internal"
+      "description": "Offering 1tb Nvme Ssd at ₹ 9998/piece in Mumbai, Maharashtra. 1TB SSD ₹ 7,999 … ₹ 6,000/Piece Capacity:",
+      "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+      "source_info_link": "https://www.indiamart.com/proddetail/1tb-nvme-ssd-27457610573.html?srsltid=AU7gw4V2f7YavfxmVrZRP_UhWWGZzXWxLX4uOVmYJ7azAbH6FKTFKwOC"
      }
     },
-    "displayed_link": "https://www.amazon.in › 1tb-ssd-inte...",
-    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
-    "link": "https://www.amazon.in/1tb-ssd-internal/s?k=1tb+ssd+internal",
+    "displayed_link": "https://www.indiamart.com › proddetail › 1tb-nvme-ssd...",
+    "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+    "link": "https://www.indiamart.com/proddetail/1tb-nvme-ssd-27457610573.html?srsltid=AU7gw4V2f7YavfxmVrZRP_UhWWGZzXWxLX4uOVmYJ7azAbH6FKTFKwOC",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVEp3JpuycV7YGq8BSMIaUEwO-9q4RuOWDo3ojUcu_s_v_BD1t4z-87Ddk8VpkIpeRPZ-LYGub1IlXnAkoGqnZvDz-yOXWGPVE0mK4A0SHJPbWLIVg62ndH2msRCqRktNIS0e_MO4mwluprx60zIc&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQFnoECCgQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "rating": 4.4,
-       "تقييم_المتجر": 69
-      },
-      "extensions": [
-       "4.4",
-       "تقييم المتجر (69)"
-      ]
-     }
-    },
-    "snippet": "4.34.3 out of 5 stars (407) · ₹12,599 · 12,599 ; 4.54.5 out of 5 stars (979) · ₹15,999 · 15,999 ; 4.04.0 out of 5 stars (188) · ₹12,199 · 12,199.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFevGjqeJyoQ7pDwdNw4adErWwMGykmhug63BEdLcd__dp6QLqd3FWYlOYiXKF9vAS4erCEAOuViJiP-twgFXtZ6ob994fN5YG7iyWjBV2oD7rPXevFWpNmVIJx1l-CXdRu-zqEaH7GvNNfo5svsj7KgEtcuOHL-QZXEMrhLC8D2DSfoxVOBjhm6tUqdHRzuC--OUzrvAM0aWHMHV11QjH5A6kt8ZnsHzP3syFxV2RZP_oGlROCqxmQ&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQFnoECCwQAQ&uoh=1",
+    "snippet": "Offering 1tb Nvme Ssd at ₹ 9998/piece in Mumbai, Maharashtra. 1TB SSD ₹ 7,999 … ₹ 6,000/Piece Capacity:",
     "snippet_highlighted_words": [
-     "₹12,599"
+     "1TB SSD ₹ 7,999"
     ],
-    "source": "Amazon.in",
-    "title": "1tb Ssd Internal"
+    "source": "IndiaMART",
+    "thumbnail": "https://serpapi.com/searches/6ab98b0f97012132e112c1f4/images/igsr4tvh-KU4Q3auP3MX3jRZ4CQZ3FeitZRgyEMInlI.jpeg",
+    "title": "1tb Nvme Ssd at ₹ 9998/piece"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZWdWZaOWNnLXZYdzMtbXFVTFU2cUNMV3pSQmZ2LVk3eVRyZkhZb2VVU0tUTW9oUHRkSk51WGNqYnZfVFVBNEpUZEV1NUtBUUVGWGVxbnRKc0JMMjRpLUdsLUI5OU95WnVDQldSMzZ5ZXI2VlplZE5hRG5zc2hzUzEyb0ZFOGFHcFpCQTRQM0VfRUY1UkpjTHZIT3k3VWpMQlVpYm1tc3JyTTJicFZlMlZxbjMxQkZwVmJMQ3YtZ0dYQ0N4UjVNeFRkRRIEGgIIABqaBxIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQPQGCAAQABgAIAAqHQoDaG93FQAAAAAaBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gVAAAAABoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVAAAAABoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhVUCDtAGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBVMD19AGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVVJA-PxoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRVUkD4_MtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZWdWZaOWNnLXZYdzMtbXFVTFU2cUNMV3pSQmZ2LVk3eVRyZkhZb2VVU0tUTW9oUHRkSk51WGNqYnZfVFVBNEpUZEV1NUtBUUVGWGVxbnRKc0JMMjRpLUdsLUI5OU95WnVDQldSMzZ5ZXI2VlplZE5hRG5zc2hzUzEyb0ZFOGFHcFpCQTRQM0VfRUY1UkpjTHZIT3k3VWpMQlVpYm1tc3JyTTJicFZlMlZxbjMxQkZwVmJMQ3YtZ0dYQ0N4UjVNeFRkRTpMPGI-MVRCIFNTRDwvYj4sIDIuNWluIEsxMDAgPGI-U1NEPC9iPiBBQlMgTWF0ZXJpYWwgTXVsdGlmdW5jdGlvbiBWYXJpb3VzIC4uLkLAAUJ1eSBVQkVSU1dFRVTCriA8Yj4xVEIgU1NEPC9iPiwgMi41aW4gSzEwMCA8Yj5TU0Q8L2I-LiBFTUkgZnJvbSDigrkyOTUuIEJ1eSBmb3Ig4oK5OCwzOTkgKyBjYXNoYmFjay4gQnV5IGZvciDigrk3LDU1OS4xMCBCdXkgZm9yIOKCuTcsNTU5LjEwIEluZGlhbiBCYW5rIENyZWRpdCBDYXJkIC3igrk4MzkuOTAuIFRvdGFsOiZuYnNwOy4uLkoCaW5KAWFSA2NhblIEd2hhdFIDYXJlUgR3aWxsUgJpc1ICZG8iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZWdWZaOWNnLXZYdzMtbXFVTFU2cUNMV3pSQmZ2LVk3eVRyZkhZb2VVU0tUTW9oUHRkSk51WGNqYnZfVFVBNEpUZEV1NUtBUUVGWGVxbnRKc0JMMjRpLUdsLUI5OU95WnVDQldSMzZ5ZXI2VlplZE5hRG5zc2hzUzEyb0ZFOGFHcFpCQTRQM0VfRUY1UkpjTHZIT3k3VWpMQlVpYm1tc3JyTTJicFZlMlZxbjMxQkZwVmJMQ3YtZ0dYQ0N4UjVNeFRkRRIEGgIIABqaBxIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQPQGCAAQABgAIAAqHQoDaG93FQAAAAAaBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gVAAAAABoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVAAAAABoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhVUCDtAGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBVMD19AGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVVJA-PxoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRVUkD4_MtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZWdWZaOWNnLXZYdzMtbXFVTFU2cUNMV3pSQmZ2LVk3eVRyZkhZb2VVU0tUTW9oUHRkSk51WGNqYnZfVFVBNEpUZEV1NUtBUUVGWGVxbnRKc0JMMjRpLUdsLUI5OU95WnVDQldSMzZ5ZXI2VlplZE5hRG5zc2hzUzEyb0ZFOGFHcFpCQTRQM0VfRUY1UkpjTHZIT3k3VWpMQlVpYm1tc3JyTTJicFZlMlZxbjMxQkZwVmJMQ3YtZ0dYQ0N4UjVNeFRkRTpMPGI-MVRCIFNTRDwvYj4sIDIuNWluIEsxMDAgPGI-U1NEPC9iPiBBQlMgTWF0ZXJpYWwgTXVsdGlmdW5jdGlvbiBWYXJpb3VzIC4uLkLAAUJ1eSBVQkVSU1dFRVTCriA8Yj4xVEIgU1NEPC9iPiwgMi41aW4gSzEwMCA8Yj5TU0Q8L2I-LiBFTUkgZnJvbSDigrkyOTUuIEJ1eSBmb3Ig4oK5OCwzOTkgKyBjYXNoYmFjay4gQnV5IGZvciDigrk3LDU1OS4xMCBCdXkgZm9yIOKCuTcsNTU5LjEwIEluZGlhbiBCYW5rIENyZWRpdCBDYXJkIC3igrk4MzkuOTAuIFRvdGFsOiZuYnNwOy4uLkoCaW5KAWFSA2NhblIEd2hhdFIDYXJlUgR3aWxsUgJpc1ICZG8iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "1TB Solid State Drive ( SSD ) ; SAMSUNG 980 1TB M.2 NVME Gen3 Internal Solid State Drive ( SSD ). Rs. 13,000 Rs. 16,199 ; TEAM GROUP T-Force Vulcan Z 1TB 2.5 SATA ...",
-      "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAABQBQCdASocABwAPrkurlcnIacnG_DgFwlsAMdQiUwgPHAwkHHOMi1fSTLsYT9PiZZbgAAA_vkMIwjuExM9_V16jI0fuV43oJS_wMwJnRlcxvxuDlXsFuQG2xsRLcTf5VGfBzkeey8Z9g4JUrtsNvv-fVEeDaTxxYEAG7GDhJZCXJi_4Sv_rZVeOVdB-7gD6DAmNV6l7IghkrMbWwwd8Qrq-PuB1g_c5eebNpVSGPt2T1Hkowp33AN7Zlvxm_ynPl2kM96r_d8f_Q4N6u7BMKAoNJgrfUI_9fh6TYyP_O-5cps8FO7hTmWQAAA.webp",
-      "source_info_link": "https://elitehubs.com/collections/1tb-solid-state-drive-ssd?srsltid=AU7gw4UBh36HsDK8LMn-VVk_X6uARLp0lBc_W1AWegapTcxhmiO3pt1K"
-     }
-    },
-    "displayed_link": "https://elitehubs.com › collections",
-    "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAABQBQCdASocABwAPrkurlcnIacnG_DgFwlsAMdQiUwgPHAwkHHOMi1fSTLsYT9PiZZbgAAA_vkMIwjuExM9_V16jI0fuV43oJS_wMwJnRlcxvxuDlXsFuQG2xsRLcTf5VGfBzkeey8Z9g4JUrtsNvv-fVEeDaTxxYEAG7GDhJZCXJi_4Sv_rZVeOVdB-7gD6DAmNV6l7IghkrMbWwwd8Qrq-PuB1g_c5eebNpVSGPt2T1Hkowp33AN7Zlvxm_ynPl2kM96r_d8f_Q4N6u7BMKAoNJgrfUI_9fh6TYyP_O-5cps8FO7hTmWQAAA.webp",
-    "link": "https://elitehubs.com/collections/1tb-solid-state-drive-ssd?srsltid=AU7gw4UBh36HsDK8LMn-VVk_X6uARLp0lBc_W1AWegapTcxhmiO3pt1K",
-    "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStAEB6zswFTB_YpV2Hqx-4AUmXFnMmBJBiKUMZxF-pRjffv2EN2ChtokbimEbX6TKlTfCJoik0YbCNVWoYpRxUxkOlfS1V4OOvSzqyreeqT8ovFMXuXOuGXncPeiXvNKVKMuxmkDkPhs2KOBxATqsIjQEjrGM0wLMrs9wOofgtWFioZoHRTc8uzdoLEE5a24Ya19JZG8R7BiVxOygfnm5CrPnyNHp85erZYTFrx4RBZI5brTUQ2k&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQFnoECCAQAQ&uoh=1",
-    "snippet": "1TB Solid State Drive ( SSD ) ; SAMSUNG 980 1TB M.2 NVME Gen3 Internal Solid State Drive ( SSD ). Rs. 13,000 Rs. 16,199 ; TEAM GROUP T-Force Vulcan Z 1TB 2.5 SATA ...",
-    "snippet_highlighted_words": [
-     "1TB Solid State Drive ( SSD"
-    ],
-    "source": "EliteHubs",
-    "title": "1TB Internal SSD Price in India"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
-      "source_info_link": "https://www.flipkart.com/computers/storage/ssd/internal-ssd/1-tb~capacity/pr?sid=search.flipkart.com,6bo,jdy,dus,grs"
-     }
-    },
-    "displayed_link": "https://www.flipkart.com › ssd › 1-t...",
-    "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
-    "link": "https://www.flipkart.com/computers/storage/ssd/internal-ssd/1-tb~capacity/pr?sid=search.flipkart.com,6bo,jdy,dus,grs",
-    "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFSHym5YYVHLUdCrikSWi7KXCdUUw-wy11OzTKEq6ss_2dsC4axOeGTJGUVhDeMTOxaI2opupPMvVYdtdV3JpA2hllDA3LGptQt7HTFd2OzvVVZHWw5io44SNLsw8m3zoCRGtaCw2rDYwOluHLvYcLv8iw7Hxo12Q13a8QQmSAWZ2HpntH8zbH3rW74pvLh3fNhfqyMOBtLhVz0mjiKbefYxfvAtlJqKW&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQFnoECCUQAQ&uoh=1",
-    "snippet": "لا تتوفر معلومات عن هذه الصفحة.",
-    "source": "Flipkart",
-    "title": "1 TB SSD"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "EVM 1TB 2.5 Inch SATA III Internal SSD | Up to 550MB/s Read 500MB/s Write | Laptop Desktop Upgrade Storage | 5 Year Warranty (EVM25/1TB). ₹12,599.00\n₹12,599 ...",
+      "description": "Buy UBERSWEET® 1TB SSD, 2.5in K100 SSD. EMI from ₹295. Buy for ₹8,399 + cashback. Buy for ₹7,559.10 Buy for ₹7,559.10 Indian Bank Credit Card -₹839.90. Total: ...",
       "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
-      "source_info_link": "https://www.amazon.in/Internal-Solid-State-Drives/b?ie=UTF8&node=1375379031"
+      "source_info_link": "https://www.amazon.in/UBERSWEET%C2%AE-Material-Multifunction-Capacities-Channels/dp/B0C5SWKHV8"
      }
     },
-    "displayed_link": "https://www.amazon.in › Internal-Sol...",
+    "displayed_link": "https://www.amazon.in › ...",
     "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
-    "link": "https://www.amazon.in/Internal-Solid-State-Drives/b?ie=UTF8&node=1375379031",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFcOpPo5WOAk2Eo-VFNJI_aBoqlEPJewwL84HiCilyGX7xvEHfMtp13zhkzxS5Qx68LwVk-ihoB5aQhCf6jse6d6dJj_KECbvnGQmyA4EgL77aZL1Ir0njN8O1n7L1xEggU68qjig0HVJy5klDKIj4pyXJ_9paAJbQGTGX6JFxQ&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQFnoECCQQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "rating": 4.4,
-       "تقييم_المتجر": 69
-      },
-      "extensions": [
-       "4.4",
-       "تقييم المتجر (69)"
-      ]
-     }
-    },
-    "snippet": "EVM 1TB 2.5 Inch SATA III Internal SSD | Up to 550MB/s Read 500MB/s Write | Laptop Desktop Upgrade Storage | 5 Year Warranty (EVM25/1TB). ₹12,599.00₹12,599 ...",
+    "link": "https://www.amazon.in/UBERSWEET%C2%AE-Material-Multifunction-Capacities-Channels/dp/B0C5SWKHV8",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFVufZ9cg-vXw3-mqULU6qCLWzRBfv-Y7yTrfHYoeUSKTMohPtdJNuXcjbv_TUA4JTdEu5KAQEFXeqntJsBL24i-Gl-B99OyZuCBWR36yer6VZedNaDnsshsS12oFE8aGpZBA4P3E_EF5RJcLvHOy7UjLBUibmmsrrM2bpVe2Vqn31BFpVbLCv-gGXCCxR5MxTdE&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQFnoECCsQAQ&uoh=1",
+    "snippet": "Buy UBERSWEET® 1TB SSD, 2.5in K100 SSD. EMI from ₹295. Buy for ₹8,399 + cashback. Buy for ₹7,559.10 Buy for ₹7,559.10 Indian Bank Credit Card -₹839.90. Total: ...",
     "snippet_highlighted_words": [
-     "₹12,599.00"
-    ],
-    "source": "Amazon.in",
-    "title": "Buy Internal SSD Online with Up to 50% OFF at ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "Category name ; Price, ₹ 27.64 K - ₹ 28.5 K · ₹ 26.79 K - ₹ 28.5 K · ₹ 27.64 K - ₹ 28.5 K ; Specifications. Connectivity: Sata 3.0; Compatible Device: Laptop, ...",
-      "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
-      "source_info_link": "https://www.justdial.com/india/1tb-SSD-external"
-     }
-    },
-    "displayed_link": "https://www.justdial.com › india › 1t...",
-    "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
-    "link": "https://www.justdial.com/india/1tb-SSD-external",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVwXoCD_7NHzZ8O1oCni3ui9S52hw64VLPsx5vLlaofNOuZ0X135yrBfkak0WQtBxQLm63uGNmjpnrGhjxETACH8w2m_vU2nULSyPYvPFv607Wz2JIUM7Xk3Hnp1CSeJAKmxk&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQFnoECCIQAQ&uoh=1",
-    "snippet": "Category name ; Price, ₹ 27.64 K - ₹ 28.5 K · ₹ 26.79 K - ₹ 28.5 K · ₹ 27.64 K - ₹ 28.5 K ; Specifications. Connectivity: Sata 3.0; Compatible Device: Laptop, ...",
-    "snippet_highlighted_words": [
-     "₹ 27.64 K - ₹ 28.5 K"
-    ],
-    "source": "Justdial",
-    "title": "1tb Ssd External at the Best Price from Verified Sellers"
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "... SSD can make your workflow much faster and more convenient. This SSD is perfect for students, professionals, creators, and anyone who ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "أكثر من 19 ألف مشاهدة · قبل 4 أشهر",
-    "duration": "4:07",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=bIfkckRFyvA&vl=ar",
-    "position": 6,
-    "snippet": "... SSD can make your workflow much faster and more convenient. This SSD is perfect for students, professionals, creators, and anyone who ...",
-    "source": "YouTube · Complete Technology",
-    "thumbnail": "https://serpapi.com/searches/6aafc9b5a68855e826e8e893/images/s9XvIOiUPD6QlpyJSAmrkFZ578Y2fdJRq22eyRfJ3c4.jpeg",
-    "title": "Best Ultra Compact 1 TB SSD in Budget.",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQdk42OxqZxwUgVA5PyAJVI0UQiYW7uCt_0HA"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "SAMSUNG 990 EVO Plus 2TB M.2 NVMe SSD. ₹98,099 ₹34,799 ; Crucial P310 NVMe 1TB Gen4 SSD. ₹34,999 ₹16,660 ; WD Green 500GB Sata SSD. ₹10,800 ₹8,270 ; Sandisk ...",
-      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASogABoAPtEutFooIagoGAEAGgloAMD9PToDn_xvAuB5ZAF5W7dO-rBqTG6dwedsyvIIXzZlwAD-_sJ8AoBrfIBvtvwt3tYuDqIBBNZQLma-5_36ViZh5ie_nZ5Y1w-C37za7Mo97OSaAYmjifOsIFAxmfe8c4uqx8bSrV6BfE-4FGZT7ifheJ4_l4yE2wRerWPJgGTBHwo8N6Q66d4hXD03ly_AxO6K3Z_zY13Gcf3xEGDUYf_Li6Ns1DX2m3y5irBw8QC9qBOA7WUGjOA_MIbRY2_vjce2vI-9egjMNE52o3KpELpJR1Y_IL1FxPeWb1gTr2GcsgiJRKIi5idWAAAA.webp",
-      "source_info_link": "https://mdcomputers.in/catalog/storage/ssd-drive?srsltid=AU7gw4UEVRRZ_YDf4tcIgXmxcyyqYe9iyFxHAJSEOFh7Ihkc_5RFSHBJ"
-     }
-    },
-    "displayed_link": "https://mdcomputers.in › ssd-drive",
-    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASogABoAPtEutFooIagoGAEAGgloAMD9PToDn_xvAuB5ZAF5W7dO-rBqTG6dwedsyvIIXzZlwAD-_sJ8AoBrfIBvtvwt3tYuDqIBBNZQLma-5_36ViZh5ie_nZ5Y1w-C37za7Mo97OSaAYmjifOsIFAxmfe8c4uqx8bSrV6BfE-4FGZT7ifheJ4_l4yE2wRerWPJgGTBHwo8N6Q66d4hXD03ly_AxO6K3Z_zY13Gcf3xEGDUYf_Li6Ns1DX2m3y5irBw8QC9qBOA7WUGjOA_MIbRY2_vjce2vI-9egjMNE52o3KpELpJR1Y_IL1FxPeWb1gTr2GcsgiJRKIi5idWAAAA.webp",
-    "link": "https://mdcomputers.in/catalog/storage/ssd-drive?srsltid=AU7gw4UEVRRZ_YDf4tcIgXmxcyyqYe9iyFxHAJSEOFh7Ihkc_5RFSHBJ",
-    "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEB6zswFVulFFyjgYJR7mUQbbJPmjtiQLp4bWwgOCIvi_0c5UabJmV5U8TR7iaoQtXdjOLy9_DxiDDEu5Pa0SFuvJTUNMdIxNnFhDdM5thlyojAKzu6y-Jqx9BOUGWmGZYKRSznl307CBqoEOfydwUMwmJd4k1y17DR7BItRehQQxRhuQYrM08UgVq3MffgH7kjyvmMZtHiSN20qXNIDkowO8IXMS6dgIcm&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQFnoECEUQAQ&uoh=1",
-    "snippet": "SAMSUNG 990 EVO Plus 2TB M.2 NVMe SSD. ₹98,099 ₹34,799 ; Crucial P310 NVMe 1TB Gen4 SSD. ₹34,999 ₹16,660 ; WD Green 500GB Sata SSD. ₹10,800 ₹8,270 ; Sandisk ...",
-    "snippet_highlighted_words": [
-     "SSD",
-     "1TB",
-     "SSD",
+     "1TB SSD",
      "SSD"
     ],
-    "source": "MDComputers.in",
-    "title": "Buy SSD Online- Free Shipping, Best Price"
+    "source": "Amazon.in",
+    "thumbnail": "https://serpapi.com/searches/6ab98b0f97012132e112c1f4/images/igsr4tvh-KU4Q3auP3MX3k57zZZ5QWb1Zn87gqWkQNk.jpeg",
+    "title": "1TB SSD, 2.5in K100 SSD ABS Material Multifunction ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZkaDN4R05EZEExSHgwSC1MSVJ1VE0yanJPWFVEZXpSd0owWjRXbkwtQUZ1WVdieTVBREcwdjUtTHVrMktnVlpjSHJ3X2Q1QVhvc1Y3MEVLZ0ljN0RUUmFjajR4dUQ3WFJIdmdManBwbmhyQm05SkttenpFV2JzU19BM0hvWDZneEhvVUJlaVdON196cG1ZWmdMcnlrNGg3TmlGZTlsM0VkR1Zfa1p3dzZwblhUb0g4VXJ2Ym12bUhqWkc2cHJPWDU0MHNIQy1jR2w5MmstTTZUVVd4MUFNT3c3OE84X2VZU2VHemVVanESBBoCCAAaswYSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCNBggAEAAYACAAKh0KA2hvdxUKzQI_GgZwcmljZXMaBHdoYXQaA3dobyo9CgRtdWNoFSXT2T4aB2F2ZXJhZ2UaBWNvc3RzGgNmYXIaBG1hbnkaBW9mdGVuGgZwcmljZXMaBnByaWNlcypCCgRkb2VzFQAAAAAaA2FyZRoHYXZlcmFnZRoDY2FuGgVjb3VsZBoCZG8aAmlzGgZzaG91bGQaBHdpbGwaBXdvdWxkKggKAWEVAAAAACoiCgMxdGIV9DMqQBoEMSB0YhoGMXRic3NkGghpdjtwOzF0YioiCgNzc2QVdmIUQBoEc3NkcxoGMXRic3NkGghpdjtwO3NzZCpLCgRjb3N0FSJiNT0aBWNoZWFwGghjaGVhcGVzdBoGY29zdGx5GgVjb3N0cxoFcHJpY2UaBnByaWNlcxoGcHJpY2VzGgdwcmljaW5nKgkKAmluFQAAAAAqDAoFaW5kaWEVcmiRPzKmAS9nb3RvP3VybD1DQUVTY1FIck96QVZEOFR5T19wZWF6NDRfdEhvVjViMUVFLVZxcGY2b2J4TS1lUkFuZjJpQXJ4VFd1amV0MjR6R29ETFgyZDF6YzFMVTJKYTFoWkZ6WFRLdmZQVkRvUl9mQmhwMjI0VF8tZzdjM0pzdU1pNWViNG9WZ0NTUEE0RmdSUF95M0c0QUg2YzBfbzVITWZxa2ROSWw3Vm06K1NvbGlkIFN0YXRlIERyaXZlcyBBYm92ZSBScy4gMTAwMDAgLSBNb2dsaXhCrQFDb25zaXN0ZW50IDFUQiAyLjUgaW5jaCBTQVRBIElJSSA2R0IvcyBMYXB0b3AgU29saWQgU3RhdGUgRHJpdmUgJm1pZGRvdDsgPGI-4oK5MTksMDAwPC9iPiA7IFNhbkRpc2sgRTEwIDFUQiBQb3J0YWJsZSBCbGFjayBFeHRlcm5hbCBTU0QsIFNEU1NERTEwICZtaWRkb3Q7IOKCuTE5LDk5OSZuYnNwOy4uLkoCaW5KAWFSAmRvUgNhcmVSBHdoYXRSA2NhblICaXNSBHdpbGwiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZkaDN4R05EZEExSHgwSC1MSVJ1VE0yanJPWFVEZXpSd0owWjRXbkwtQUZ1WVdieTVBREcwdjUtTHVrMktnVlpjSHJ3X2Q1QVhvc1Y3MEVLZ0ljN0RUUmFjajR4dUQ3WFJIdmdManBwbmhyQm05SkttenpFV2JzU19BM0hvWDZneEhvVUJlaVdON196cG1ZWmdMcnlrNGg3TmlGZTlsM0VkR1Zfa1p3dzZwblhUb0g4VXJ2Ym12bUhqWkc2cHJPWDU0MHNIQy1jR2w5MmstTTZUVVd4MUFNT3c3OE84X2VZU2VHemVVanESBBoCCAAaswYSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCNBggAEAAYACAAKh0KA2hvdxUKzQI_GgZwcmljZXMaBHdoYXQaA3dobyo9CgRtdWNoFSXT2T4aB2F2ZXJhZ2UaBWNvc3RzGgNmYXIaBG1hbnkaBW9mdGVuGgZwcmljZXMaBnByaWNlcypCCgRkb2VzFQAAAAAaA2FyZRoHYXZlcmFnZRoDY2FuGgVjb3VsZBoCZG8aAmlzGgZzaG91bGQaBHdpbGwaBXdvdWxkKggKAWEVAAAAACoiCgMxdGIV9DMqQBoEMSB0YhoGMXRic3NkGghpdjtwOzF0YioiCgNzc2QVdmIUQBoEc3NkcxoGMXRic3NkGghpdjtwO3NzZCpLCgRjb3N0FSJiNT0aBWNoZWFwGghjaGVhcGVzdBoGY29zdGx5GgVjb3N0cxoFcHJpY2UaBnByaWNlcxoGcHJpY2VzGgdwcmljaW5nKgkKAmluFQAAAAAqDAoFaW5kaWEVcmiRPzKmAS9nb3RvP3VybD1DQUVTY1FIck96QVZEOFR5T19wZWF6NDRfdEhvVjViMUVFLVZxcGY2b2J4TS1lUkFuZjJpQXJ4VFd1amV0MjR6R29ETFgyZDF6YzFMVTJKYTFoWkZ6WFRLdmZQVkRvUl9mQmhwMjI0VF8tZzdjM0pzdU1pNWViNG9WZ0NTUEE0RmdSUF95M0c0QUg2YzBfbzVITWZxa2ROSWw3Vm06K1NvbGlkIFN0YXRlIERyaXZlcyBBYm92ZSBScy4gMTAwMDAgLSBNb2dsaXhCrQFDb25zaXN0ZW50IDFUQiAyLjUgaW5jaCBTQVRBIElJSSA2R0IvcyBMYXB0b3AgU29saWQgU3RhdGUgRHJpdmUgJm1pZGRvdDsgPGI-4oK5MTksMDAwPC9iPiA7IFNhbkRpc2sgRTEwIDFUQiBQb3J0YWJsZSBCbGFjayBFeHRlcm5hbCBTU0QsIFNEU1NERTEwICZtaWRkb3Q7IOKCuTE5LDk5OSZuYnNwOy4uLkoCaW5KAWFSAmRvUgNhcmVSBHdoYXRSA2NhblICaXNSBHdpbGwiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "A decent NVMe SSD from Crucial or WD (higher quality) or costs around 5500 INR, and even SATA SSDs from brands like “EVM” (lower quality) cost ...",
-      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
-      "source_info_link": "https://www.quora.com/Is-4500-INR-a-reasonable-price-for-a-1TB-SSD"
+      "description": "Consistent 1TB 2.5 inch SATA III 6GB/s Laptop Solid State Drive · ₹19,000 ; SanDisk E10 1TB Portable Black External SSD, SDSSDE10 · ₹19,999 ...",
+      "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoQABAAAsBMJbACdLoAEJqQqrvAAPkIFkPEq1QgHUK6umY3LC_tOBtsYKU2KVc4tw_bT0Q0mLn_n5Ebsfy_GYWLppYU9faDBNRNIwVtcPWyqxT__ORiKFGF_85KNdxjq3-I-dVuYk-PUAZF37OAAA.webp",
+      "source_info_link": "https://www.moglix.com/alp/solid-state-drives-above-10000?srsltid=AU7gw4WfU1mOJW1_aRZQAQDoA4mDcJ3hv9JsoM62Hd7-psqkqM1jhkUz"
      }
     },
-    "displayed_link": "أكثر من 30 إجابة · قبل سنة واحدة",
-    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
-    "link": "https://www.quora.com/Is-4500-INR-a-reasonable-price-for-a-1TB-SSD",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVjuv0QxwnSGiHw1PUZfrmMSHuozwcBdwBUIvpGpiEcccSjFCU0HN5NMZfr_ovb7FCrU8r5gjc9fla5o7tylu7VUdJz9Say2131uI9NE65ZsWI6DO8e5BRj-ceefwxZWD1IyzA866hXHu5JkKSkP6AemkOrDib&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQFnoECEkQAQ&uoh=1",
-    "snippet": "Is 4500 INR a reasonable price for a 1TB SSD?",
-    "source": "Quora",
-    "title": "Is 4500 INR a reasonable price for a 1TB SSD?"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "Adata XPG Gammix S60 1TB M.2 NVMe Gen4 Internal SSD AGAMMIXS60-1T-CS. ₹9,539 ₹6,359 (₹6.21/GB) Get notified · -43%. Crucial E100 1TB Gen4 M.2 ...",
-      "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAQBgCdASoSACAAPtEutFooIagoGAEAGglsAJ0zDj-AgCCU1laLuMMa4SRL1VGVwp2aFXK7ueQejgAA_vKF9NE4iygnMQteiG65cNKVaU3azeZqPa9QaYu-rGK0qTujnC81Q22MgpfeN7hB7QHHa5PMWpRidYtrXvqW-EpzF-WjSoxcf-z65TvKDAfRyx4ATEcJvLHxqGnyuoMcCXIgXPOTwJAPKiBVATp207-iLoJ3escYA_4iRJxsiJnRlaJuxoF_KdHJkXqvHg4bXYmkPz2h3OJFwuYGJiInzutqMvHZ_UQA.webp",
-      "source_info_link": "https://onlyssd.com/capacity/1-tb-ssd/?srsltid=AU7gw4V5Xw9B3KsccHbKhUXYut681vHaSSXl7LeriRm6a3uwxgw7h5tw"
-     }
-    },
-    "displayed_link": "https://onlyssd.com › capacity › 1-tb-...",
-    "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAQBgCdASoSACAAPtEutFooIagoGAEAGglsAJ0zDj-AgCCU1laLuMMa4SRL1VGVwp2aFXK7ueQejgAA_vKF9NE4iygnMQteiG65cNKVaU3azeZqPa9QaYu-rGK0qTujnC81Q22MgpfeN7hB7QHHa5PMWpRidYtrXvqW-EpzF-WjSoxcf-z65TvKDAfRyx4ATEcJvLHxqGnyuoMcCXIgXPOTwJAPKiBVATp207-iLoJ3escYA_4iRJxsiJnRlaJuxoF_KdHJkXqvHg4bXYmkPz2h3OJFwuYGJiInzutqMvHZ_UQA.webp",
-    "link": "https://onlyssd.com/capacity/1-tb-ssd/?srsltid=AU7gw4V5Xw9B3KsccHbKhUXYut681vHaSSXl7LeriRm6a3uwxgw7h5tw",
-    "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFTp5ZL5RNv5_eRU4fvRoOOHHmdNaMjO21_k5ooCmzaCU98BkKSQNCrCh_Vn-poLlu2Wjj6-UBc-y4ZTNFySxaY3nco4TpUm4M352sWlWqxfFGijdxqXFK7uZw8IQYn7w9-mN2ThLhbH2TIQoiycCK2qhBIdBs6BMk4w2R8toigbAC1zMbZrX1eQ9Pu_QH7CMfGiKePR2k2UvC5c&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQFnoECEwQAQ&uoh=1",
-    "snippet": "Adata XPG Gammix S60 1TB M.2 NVMe Gen4 Internal SSD AGAMMIXS60-1T-CS. ₹9,539 ₹6,359 (₹6.21/GB) Get notified · -43%. Crucial E100 1TB Gen4 M.2 ...",
-    "snippet_highlighted_words": [
-     "₹9,539"
+    "displayed_link": "https://www.moglix.com › ... › Solid State Drives",
+    "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoQABAAAsBMJbACdLoAEJqQqrvAAPkIFkPEq1QgHUK6umY3LC_tOBtsYKU2KVc4tw_bT0Q0mLn_n5Ebsfy_GYWLppYU9faDBNRNIwVtcPWyqxT__ORiKFGF_85KNdxjq3-I-dVuYk-PUAZF37OAAA.webp",
+    "images": [
+     "https://serpapi.com/searches/6ab98b0f97012132e112c1f4/images/igsr4tvh-KU4Q3auP3MX3vaK82P6ecbUZ6yka3IBwpg.jpeg"
     ],
-    "source": "OnlySSD",
-    "title": "Buy 1 TB SSD Online At Best Price in India"
+    "link": "https://www.moglix.com/alp/solid-state-drives-above-10000?srsltid=AU7gw4WfU1mOJW1_aRZQAQDoA4mDcJ3hv9JsoM62Hd7-psqkqM1jhkUz",
+    "position": 3,
+    "read_more_link": "https://www.moglix.com/alp/solid-state-drives-above-10000?srsltid=AU7gw4WfU1mOJW1_aRZQAQDoA4mDcJ3hv9JsoM62Hd7-psqkqM1jhkUz#:~:text=Consistent%201TB%202.5%20inch%20SATA,6GB%2Fs%20Laptop%20Solid%20State%20Drive&text=%E2%82%B919%2C00032%25%20OFF&text=SanDisk%20E10%201TB%20Portable%20Black,External%20SSD%2C%20SDSSDE10&text=%E2%82%B919%2C99923%25%20OFF",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsgEB6zswFdh3xGNDdA1Hx0H-LIRuTM2jrOXUDezRwJ0Z4WnL-AFuYWby5ADG0v5-Luk2KgVZcHrw_d5AXosV70EKgIc7DTRacj4xuD7XRHvgLjppnhrBm9JKmzzEWbsS_A3HoX6gxHoUBeiWN7_zpmYZgLryk4h7NiFe9l3EdGV_kZww6pnXToH8UrvbmvmHjZG6prOX540sHC-cGl92k-M6TUWx1AMOw78O8_eYSeGzeUjq&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQFnoECC8QAQ&uoh=1",
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "unknown": 1
+      },
+      "extensions": [
+       "1",
+       "day delivery"
+      ]
+     }
+    },
+    "snippet": "Consistent 1TB 2.5 inch SATA III 6GB/s Laptop Solid State Drive · ₹19,000 ; SanDisk E10 1TB Portable Black External SSD, SDSSDE10 · ₹19,999 ...",
+    "snippet_highlighted_words": [
+     "₹19,000"
+    ],
+    "source": "Moglix",
+    "thumbnail": "https://serpapi.com/searches/6ab98b0f97012132e112c1f4/images/igsr4tvh-KU4Q3auP3MX3tEBQvbu3J-B50EQaXL9_SE.jpeg",
+    "title": "Solid State Drives Above Rs. 10000"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk1Tck43U3hYTUh5TXI5cER2V0ozRk45aW40OFNYU1R5dGtaSk14M2paRzVxUUpjM25aamhoQTc1ZzZvUEJrZzhJS3NSUllnQmZfSHFxNFg2MU9iTENJMEtEb21BNGNfLWh4RXFLODI5YXNvQWw5YktUX2VIT0lGUkxhNjBPQRIEGgIIABrYBhIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQLIGCAAQABgAIAAqHQoDaG93FTvsqj4aBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gVw0Z0PhoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVAAAAABoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhUC571AGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBW6lvFAGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVjgEnPxoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRVytSRAMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk1Tck43U3hYTUh5TXI5cER2V0ozRk45aW40OFNYU1R5dGtaSk14M2paRzVxUUpjM25aamhoQTc1ZzZvUEJrZzhJS3NSUllnQmZfSHFxNFg2MU9iTENJMEtEb21BNGNfLWh4RXFLODI5YXNvQWw5YktUX2VIT0lGUkxhNjBPQTpHTnZtZSA8Yj5Tc2QgMXRiPC9iPiB8IEZpbmQgVmVyaWZpZWQgU2VsbGVycyBhdCBKdXN0ZGlhbCAtIEp1c3RkaWFsIChKZClCyAE8Yj5BdmVyYWdlIFByaWNlPC9iPiBvZiBudm1lIDxiPnNzZCAxdGI8L2I-IGluIDxiPmluZGlhIGlzPC9iPiBhcm91bmQg4oK5IDExLDUzNS4gU0FNU1VORyA5ODAgPGI-MVRCPC9iPiBQQ0lFLiBZb3UgPGI-Y2FuPC9iPiByZXF1ZXN0IGEgPGI-cHJpY2U8L2I-IHNoZWV0IGZyb20gdGhlIHN1cHBsaWVyIGJ5IGNsaWNraW5nIG9uIHRoZSAmIzM5O0dldEoCaW5KAWFSBHdpbGxSA2NhblIEd2hhdFIDYXJlUgJpc1ICZG8iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk1Tck43U3hYTUh5TXI5cER2V0ozRk45aW40OFNYU1R5dGtaSk14M2paRzVxUUpjM25aamhoQTc1ZzZvUEJrZzhJS3NSUllnQmZfSHFxNFg2MU9iTENJMEtEb21BNGNfLWh4RXFLODI5YXNvQWw5YktUX2VIT0lGUkxhNjBPQRIEGgIIABrYBhIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQLIGCAAQABgAIAAqHQoDaG93FTvsqj4aBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gVw0Z0PhoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVAAAAABoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhUC571AGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBW6lvFAGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVjgEnPxoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRVytSRAMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk1Tck43U3hYTUh5TXI5cER2V0ozRk45aW40OFNYU1R5dGtaSk14M2paRzVxUUpjM25aamhoQTc1ZzZvUEJrZzhJS3NSUllnQmZfSHFxNFg2MU9iTENJMEtEb21BNGNfLWh4RXFLODI5YXNvQWw5YktUX2VIT0lGUkxhNjBPQTpHTnZtZSA8Yj5Tc2QgMXRiPC9iPiB8IEZpbmQgVmVyaWZpZWQgU2VsbGVycyBhdCBKdXN0ZGlhbCAtIEp1c3RkaWFsIChKZClCyAE8Yj5BdmVyYWdlIFByaWNlPC9iPiBvZiBudm1lIDxiPnNzZCAxdGI8L2I-IGluIDxiPmluZGlhIGlzPC9iPiBhcm91bmQg4oK5IDExLDUzNS4gU0FNU1VORyA5ODAgPGI-MVRCPC9iPiBQQ0lFLiBZb3UgPGI-Y2FuPC9iPiByZXF1ZXN0IGEgPGI-cHJpY2U8L2I-IHNoZWV0IGZyb20gdGhlIHN1cHBsaWVyIGJ5IGNsaWNraW5nIG9uIHRoZSAmIzM5O0dldEoCaW5KAWFSBHdpbGxSA2NhblIEd2hhdFIDYXJlUgJpc1ICZG8iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Average Price of nvme ssd 1tb in india is around ₹ 11,535. SAMSUNG 980 1TB PCIE. You can request a price sheet from the supplier by clicking on the 'Get",
+      "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+      "source_info_link": "https://www.justdial.com/india/nvme-ssd-1tb"
+     }
+    },
+    "displayed_link": "https://www.justdial.com › ... › Solid State Drive in India",
+    "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+    "link": "https://www.justdial.com/india/nvme-ssd-1tb",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVMSrN7SxXMHyMr9pDvWJ3FN9in48SXSTytkZJMx3jZG5qQJc3nZjhhA75g6oPBkg8IKsRRYgBf_Hqq4X61ObLCI0KDomA4c_-hxEqK829asoAl9bKT_eHOIFRLa60OA&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQFnoECEYQAQ&uoh=1",
+    "snippet": "Average Price of nvme ssd 1tb in india is around ₹ 11,535. SAMSUNG 980 1TB PCIE. You can request a price sheet from the supplier by clicking on the 'Get",
+    "snippet_highlighted_words": [
+     "Average Price",
+     "ssd 1tb",
+     "india is",
+     "1TB",
+     "can",
+     "price"
+    ],
+    "source": "Justdial",
+    "thumbnail": "https://serpapi.com/searches/6ab98b0f97012132e112c1f4/images/igsr4tvh-KU4Q3auP3MX3iSNhPCdeuQXoImEAITlNMw.jpeg",
+    "title": "Nvme Ssd 1tb at the Best Price from Verified Sellers"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZST0NFa2tlQ2U4eGhnc2ZQWVlScXNPaVNDN290cmlZZkEyTUs0SFhJdHVjeDRmWmFrZ0Y4cHEyMWN4V0g4eDJkaGJ3bmxPbGZkTlNhM2hMeXRyeVR6aDJReHdOWUZ3bzdzc1Z4VlhnbWNxZkFNS0cxNTZDU3VXQ2RuZDNoR0NwT3REdEZsUDBVNXEzUXlVdGN6LWVEaFFMSFJPemFmaW0wVGhlS2VWR3gtNHFXa0k4OWRmSnMwTG5Uc09oU0VVEgQaAggAGo8HEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOsGCAAQABgAIAAqHQoDaG93FQAAAAAaBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gVAAAAABoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVAAAAABoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhVmG6dAGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBVmG6dAGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVAAAAABoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRXMaGI_MtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZST0NFa2tlQ2U4eGhnc2ZQWVlScXNPaVNDN290cmlZZkEyTUs0SFhJdHVjeDRmWmFrZ0Y4cHEyMWN4V0g4eDJkaGJ3bmxPbGZkTlNhM2hMeXRyeVR6aDJReHdOWUZ3bzdzc1Z4VlhnbWNxZkFNS0cxNTZDU3VXQ2RuZDNoR0NwT3REdEZsUDBVNXEzUXlVdGN6LWVEaFFMSFJPemFmaW0wVGhlS2VWR3gtNHFXa0k4OWRmSnMwTG5Uc09oU0VVOlNTQU1TVU5HIDxiPjFUQjwvYj4gU29saWQgU3RhdGUgZGlzayAtIDxiPlNTRDwvYj4gODUwIEVWTyAoRGVhbGVyJiMzOTtzIDxiPlByaWNlPC9iPkK0ATxiPkRlYWxlciYjMzk7cyBQcmljZTogSU5SIDI1NDAwPC9iPikgVW5pdCBQcmljZTog4oK5IDI1NDAwIFRheDogSW5jbHVzaXZlIE1pbi4gMSBQcmVzZW50bHkgSW4gU3RvY2s6IFlFUyBDb25kaXRpb246IEJyYW5kIE5ldy4gV2UgZ3VhcmFudGVlIHRoZSBsb3dlc3QgcHJpY2UgaW4gQWxsIEluZGlhbiZuYnNwOy4uLkoBYUoCaW5SA2NhblIEd2hhdFIDYXJlUgR3aWxsUgJpc1ICZG8iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZST0NFa2tlQ2U4eGhnc2ZQWVlScXNPaVNDN290cmlZZkEyTUs0SFhJdHVjeDRmWmFrZ0Y4cHEyMWN4V0g4eDJkaGJ3bmxPbGZkTlNhM2hMeXRyeVR6aDJReHdOWUZ3bzdzc1Z4VlhnbWNxZkFNS0cxNTZDU3VXQ2RuZDNoR0NwT3REdEZsUDBVNXEzUXlVdGN6LWVEaFFMSFJPemFmaW0wVGhlS2VWR3gtNHFXa0k4OWRmSnMwTG5Uc09oU0VVEgQaAggAGo8HEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOsGCAAQABgAIAAqHQoDaG93FQAAAAAaBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gVAAAAABoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVAAAAABoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhVmG6dAGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBVmG6dAGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVAAAAABoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRXMaGI_MtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZST0NFa2tlQ2U4eGhnc2ZQWVlScXNPaVNDN290cmlZZkEyTUs0SFhJdHVjeDRmWmFrZ0Y4cHEyMWN4V0g4eDJkaGJ3bmxPbGZkTlNhM2hMeXRyeVR6aDJReHdOWUZ3bzdzc1Z4VlhnbWNxZkFNS0cxNTZDU3VXQ2RuZDNoR0NwT3REdEZsUDBVNXEzUXlVdGN6LWVEaFFMSFJPemFmaW0wVGhlS2VWR3gtNHFXa0k4OWRmSnMwTG5Uc09oU0VVOlNTQU1TVU5HIDxiPjFUQjwvYj4gU29saWQgU3RhdGUgZGlzayAtIDxiPlNTRDwvYj4gODUwIEVWTyAoRGVhbGVyJiMzOTtzIDxiPlByaWNlPC9iPkK0ATxiPkRlYWxlciYjMzk7cyBQcmljZTogSU5SIDI1NDAwPC9iPikgVW5pdCBQcmljZTog4oK5IDI1NDAwIFRheDogSW5jbHVzaXZlIE1pbi4gMSBQcmVzZW50bHkgSW4gU3RvY2s6IFlFUyBDb25kaXRpb246IEJyYW5kIE5ldy4gV2UgZ3VhcmFudGVlIHRoZSBsb3dlc3QgcHJpY2UgaW4gQWxsIEluZGlhbiZuYnNwOy4uLkoBYUoCaW5SA2NhblIEd2hhdFIDYXJlUgR3aWxsUgJpc1ICZG8iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Dealer's Price: INR 25400) Unit Price: ₹ 25400 Tax: Inclusive Min. 1 Presently In Stock: YES Condition: Brand New. We guarantee the lowest price in All Indian ...",
+      "icon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAACwAgCdASoQABAAAsBMJbACdDBFiI4MFHWN3IB-sgAA_ud95BqImkBeZtTBS4XZ-MMRrU7Ce86_P0Fq4N6QNSX5_Ldz8Ef_U856asajnSv_R59gh-lFaPUQaGccw3FUv-uZXmmvOI3qfvG2C9iqIcvjsO0k0dMnr3n7H6G5JndZSEj4zvk1qj9zrx_5Tsp00zP7DR_zuILT33R-f9uQTLbsi6_dx1Q_T5LEwFsnQLAAAA.webp",
+      "source_info_link": "https://www.nehruplacemarket.com/Samsung-1TB-SSD-850-EVO-Solid-State-Hard-Disk-price-510242"
+     }
+    },
+    "displayed_link": "https://www.nehruplacemarket.com › Samsung-1TB-SSD...",
+    "favicon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAACwAgCdASoQABAAAsBMJbACdDBFiI4MFHWN3IB-sgAA_ud95BqImkBeZtTBS4XZ-MMRrU7Ce86_P0Fq4N6QNSX5_Ldz8Ef_U856asajnSv_R59gh-lFaPUQaGccw3FUv-uZXmmvOI3qfvG2C9iqIcvjsO0k0dMnr3n7H6G5JndZSEj4zvk1qj9zrx_5Tsp00zP7DR_zuILT33R-f9uQTLbsi6_dx1Q_T5LEwFsnQLAAAA.webp",
+    "link": "https://www.nehruplacemarket.com/Samsung-1TB-SSD-850-EVO-Solid-State-Hard-Disk-price-510242",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFROCEkkeCe8xhgsfPYYRqsOiSC7otriYfA2MK4HXItucx4fZakgF8pq21cxWH8x2dhbwnlOlfdNSa3hLytryTzh2QxwNYFwo7ssVxVXgmcqfAMKG156CSuWCdnd3hGCpOtDtFlP0U5q3QyUtcz-eDhQLHROzafim0TheKeVGx-4qWkI89dfJs0LnTsOhSEU&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQFnoECEQQAQ&uoh=1",
+    "snippet": "Dealer's Price: INR 25400) Unit Price: ₹ 25400 Tax: Inclusive Min. 1 Presently In Stock: YES Condition: Brand New. We guarantee the lowest price in All Indian ...",
+    "snippet_highlighted_words": [
+     "Dealer's Price: INR 25400"
+    ],
+    "source": "Nehru Place Computer Market",
+    "title": "Price of Samsung 1TB SSD 850 EVO Solid State Hard Disk ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZmMkJSOVNXamFGMUg3RjdBYi1aQ1g5QUVIcm1SbHNrSC1PQXNFdmRUSHZ0LWF2cENudElaYUZFUVNDeEQxWHkwczBKY1ZVa053Q3I0b0N2M0dlVlhYYkFJOVpKNHlIM3dRZjZNRTU4eWc3ZU9zZGtTRG45b2NlakNxeDFKem8tMnFHSzA0c2ZpX0FaNGZnNUo5Z3JzZHA0ckhfT0pOWjJmeEk3MjRxZXdHcDASBBoCCAAauwYSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCVBggAEAAYACAAKh0KA2hvdxUAAAAAGgZwcmljZXMaBHdoYXQaA3dobyo9CgRtdWNoFQAAAAAaB2F2ZXJhZ2UaBWNvc3RzGgNmYXIaBG1hbnkaBW9mdGVuGgZwcmljZXMaBnByaWNlcypCCgRkb2VzFQAAAAAaA2FyZRoHYXZlcmFnZRoDY2FuGgVjb3VsZBoCZG8aAmlzGgZzaG91bGQaBHdpbGwaBXdvdWxkKggKAWEVAAAAACoiCgMxdGIV-rqAQBoEMSB0YhoGMXRic3NkGghpdjtwOzF0YioiCgNzc2QVevo5QBoEc3NkcxoGMXRic3NkGghpdjtwO3NzZCpLCgRjb3N0FfQCaT8aBWNoZWFwGghjaGVhcGVzdBoGY29zdGx5GgVjb3N0cxoFcHJpY2UaBnByaWNlcxoGcHJpY2VzGgdwcmljaW5nKgkKAmluFQAAAAAqDAoFaW5kaWEVZI16PzLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGZjJCUjlTV2phRjFIN0Y3QWItWkNYOUFFSHJtUmxza0gtT0FzRXZkVEh2dC1hdnBDbnRJWmFGRVFTQ3hEMVh5MHMwSmNWVWtOd0NyNG9DdjNHZVZYWGJBSTlaSjR5SDN3UWY2TUU1OHlnN2VPc2RrU0RuOW9jZWpDcXgxSnpvLTJxR0swNHNmaV9BWjRmZzVKOWdyc2RwNHJIX09KTloyZnhJNzI0cWV3R3AwOj5UaW1ldGVjIDxiPjFUQiBTU0Q8L2I-IDNEIE5BTkQgVExDIFNBVEEgSUlJIDZHYi9zIE0uMiAyMjgwIC4uLkKGAUNvbG9yOiBCbGFjayA7IENhcGFjaXR5OiAxVEIgOyA8Yj7igrkxOCw4NjYuNDc8L2I-IDsgTS5SLlAuOiDigrk0NSw0OTnigrk0NSw0OTkgOyBFTUkgZnJvbSDigrk2NjMuIE5vIENvc3QgRU1JIGF2YWlsYWJsZS4gRU1JIG9wdGlvbnMuSgJpbkoBYVICZG9SA2NhblIEd2hhdFIDYXJlUgJpc1IEd2lsbCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZmMkJSOVNXamFGMUg3RjdBYi1aQ1g5QUVIcm1SbHNrSC1PQXNFdmRUSHZ0LWF2cENudElaYUZFUVNDeEQxWHkwczBKY1ZVa053Q3I0b0N2M0dlVlhYYkFJOVpKNHlIM3dRZjZNRTU4eWc3ZU9zZGtTRG45b2NlakNxeDFKem8tMnFHSzA0c2ZpX0FaNGZnNUo5Z3JzZHA0ckhfT0pOWjJmeEk3MjRxZXdHcDASBBoCCAAauwYSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCVBggAEAAYACAAKh0KA2hvdxUAAAAAGgZwcmljZXMaBHdoYXQaA3dobyo9CgRtdWNoFQAAAAAaB2F2ZXJhZ2UaBWNvc3RzGgNmYXIaBG1hbnkaBW9mdGVuGgZwcmljZXMaBnByaWNlcypCCgRkb2VzFQAAAAAaA2FyZRoHYXZlcmFnZRoDY2FuGgVjb3VsZBoCZG8aAmlzGgZzaG91bGQaBHdpbGwaBXdvdWxkKggKAWEVAAAAACoiCgMxdGIV-rqAQBoEMSB0YhoGMXRic3NkGghpdjtwOzF0YioiCgNzc2QVevo5QBoEc3NkcxoGMXRic3NkGghpdjtwO3NzZCpLCgRjb3N0FfQCaT8aBWNoZWFwGghjaGVhcGVzdBoGY29zdGx5GgVjb3N0cxoFcHJpY2UaBnByaWNlcxoGcHJpY2VzGgdwcmljaW5nKgkKAmluFQAAAAAqDAoFaW5kaWEVZI16PzLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGZjJCUjlTV2phRjFIN0Y3QWItWkNYOUFFSHJtUmxza0gtT0FzRXZkVEh2dC1hdnBDbnRJWmFGRVFTQ3hEMVh5MHMwSmNWVWtOd0NyNG9DdjNHZVZYWGJBSTlaSjR5SDN3UWY2TUU1OHlnN2VPc2RrU0RuOW9jZWpDcXgxSnpvLTJxR0swNHNmaV9BWjRmZzVKOWdyc2RwNHJIX09KTloyZnhJNzI0cWV3R3AwOj5UaW1ldGVjIDxiPjFUQiBTU0Q8L2I-IDNEIE5BTkQgVExDIFNBVEEgSUlJIDZHYi9zIE0uMiAyMjgwIC4uLkKGAUNvbG9yOiBCbGFjayA7IENhcGFjaXR5OiAxVEIgOyA8Yj7igrkxOCw4NjYuNDc8L2I-IDsgTS5SLlAuOiDigrk0NSw0OTnigrk0NSw0OTkgOyBFTUkgZnJvbSDigrk2NjMuIE5vIENvc3QgRU1JIGF2YWlsYWJsZS4gRU1JIG9wdGlvbnMuSgJpbkoBYVICZG9SA2NhblIEd2hhdFIDYXJlUgJpc1IEd2lsbCICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Color: Black ; Capacity: 1TB ; ₹18,866.47 ; M.R.P.: ₹45,499₹45,499 ; EMI from ₹663. No Cost EMI available. EMI options.",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+      "source_info_link": "https://www.amazon.in/Timetec-512TBW-Speed-Performance-Internal/dp/B08GJBL7QY"
+     }
+    },
+    "displayed_link": "https://www.amazon.in › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+    "link": "https://www.amazon.in/Timetec-512TBW-Speed-Performance-Internal/dp/B08GJBL7QY",
+    "position": 6,
+    "read_more_link": "https://www.amazon.in/Timetec-512TBW-Speed-Performance-Internal/dp/B08GJBL7QY#:~:text=Color%3A%20Black&text=Capacity%3A%201TB&text=%2D59%25%20%E2%82%B918%2C866,47&text=M.R.P.%3A,%E2%82%B945%2C499&text=EMI%20from%20%E2%82%B9663.%20No%20Cost,EMI%20available.%20EMI%20options",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFf2BR9SWjaF1H7F7Ab-ZCX9AEHrmRlskH-OAsEvdTHvt-avpCntIZaFEQSCxD1Xy0s0JcVUkNwCr4oCv3GeVXXbAI9ZJ4yH3wQf6ME58yg7eOsdkSDn9ocejCqx1Jzo-2qGK04sfi_AZ4fg5J9grsdp4rH_OJNZ2fxI724qewGp0&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQFnoECEgQAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.5,
+       "reviews": 495
+      },
+      "extensions": [
+       "4.5(495)"
+      ]
+     }
+    },
+    "snippet": "Color: Black ; Capacity: 1TB ; ₹18,866.47 ; M.R.P.: ₹45,499₹45,499 ; EMI from ₹663. No Cost EMI available. EMI options.",
+    "snippet_highlighted_words": [
+     "₹18,866.47"
+    ],
+    "source": "Amazon.in",
+    "thumbnail": "https://serpapi.com/searches/6ab98b0f97012132e112c1f4/images/igsr4tvh-KU4Q3auP3MX3sd0ni7Lt_7UX1537VA0j3w.jpeg",
+    "title": "Timetec 1TB SSD 3D NAND TLC SATA III 6Gb/s M.2 2280 ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZaOVhTYi1XTGJKVE5Dd0tEeUVFWnB4MnRYaTFWX2l5T2ktZTV1b2NrelpHRGY3dnIzWHNqV0RUU3NLSnNCYV9MZnBVQjBrbXE0SkhRUUNEVUg0Q0t3ekRqV2NuaXhrSGp2enM5WWQzd2dpbDBYdW81NksxVzZlbFlia005ekZ5SnQwbGljajlhOEZET084ZlY1RnVWdTdrUkVCQ0tSSmJ4amt1OUw1U0JRUk1QZUFHdHRhc3RLa2tvc3Z5MGxBSlVVeVlEWDJ6bU5FEgQaAggAGvoGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNYGCAAQABgAIAAqHQoDaG93FVX8Vz8aBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gV7lH1PRoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVSjJNPhoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhUy7n5AGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBU_k5JAGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVAAAAABoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRV38c49MuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZaOVhTYi1XTGJKVE5Dd0tEeUVFWnB4MnRYaTFWX2l5T2ktZTV1b2NrelpHRGY3dnIzWHNqV0RUU3NLSnNCYV9MZnBVQjBrbXE0SkhRUUNEVUg0Q0t3ekRqV2NuaXhrSGp2enM5WWQzd2dpbDBYdW81NksxVzZlbFlia005ekZ5SnQwbGljajlhOEZET084ZlY1RnVWdTdrUkVCQ0tSSmJ4amt1OUw1U0JRUk1QZUFHdHRhc3RLa2tvc3Z5MGxBSlVVeVlEWDJ6bU5FOkdJIGhhdmUgYSA8Yj4xVEIgU1NEPC9iPi4gPGI-U2hvdWxkPC9iPiBJIGdvIGZvciAxIG9yIDJUQiBtb3JlPyAtIFJlZGRpdEKfATxiPmFyb3VuZCAxMGsgd2l0aCBvZmZlcnM8L2I-LiBUaGF0IDguN2sgcHJpY2Ugd2FzIGZvciB0aGUgb2xkZXIgU043NzAuIEdldCB0aGUgU043MTAwIGF0IDEway4gRG91YnRmdWwgd2hlbiBpZiBhdCBhbGwgaXQgd2lsbCBnZXQgY2hlYXBlci4gOC43ayBvZmZlciZuYnNwOy4uLkoCaW5KAWFSA2NhblIEd2hhdFIDYXJlUgJpc1IEd2lsbFICZG8iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZaOVhTYi1XTGJKVE5Dd0tEeUVFWnB4MnRYaTFWX2l5T2ktZTV1b2NrelpHRGY3dnIzWHNqV0RUU3NLSnNCYV9MZnBVQjBrbXE0SkhRUUNEVUg0Q0t3ekRqV2NuaXhrSGp2enM5WWQzd2dpbDBYdW81NksxVzZlbFlia005ekZ5SnQwbGljajlhOEZET084ZlY1RnVWdTdrUkVCQ0tSSmJ4amt1OUw1U0JRUk1QZUFHdHRhc3RLa2tvc3Z5MGxBSlVVeVlEWDJ6bU5FEgQaAggAGvoGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNYGCAAQABgAIAAqHQoDaG93FVX8Vz8aBnByaWNlcxoEd2hhdBoDd2hvKj0KBG11Y2gV7lH1PRoHYXZlcmFnZRoFY29zdHMaA2ZhchoEbWFueRoFb2Z0ZW4aBnByaWNlcxoGcHJpY2VzKkIKBGRvZXMVSjJNPhoDYXJlGgdhdmVyYWdlGgNjYW4aBWNvdWxkGgJkbxoCaXMaBnNob3VsZBoEd2lsbBoFd291bGQqCAoBYRUAAAAAKiIKAzF0YhUy7n5AGgQxIHRiGgYxdGJzc2QaCGl2O3A7MXRiKiIKA3NzZBU_k5JAGgRzc2RzGgYxdGJzc2QaCGl2O3A7c3NkKksKBGNvc3QVAAAAABoFY2hlYXAaCGNoZWFwZXN0GgZjb3N0bHkaBWNvc3RzGgVwcmljZRoGcHJpY2VzGgZwcmljZXMaB3ByaWNpbmcqCQoCaW4VAAAAACoMCgVpbmRpYRV38c49MuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZaOVhTYi1XTGJKVE5Dd0tEeUVFWnB4MnRYaTFWX2l5T2ktZTV1b2NrelpHRGY3dnIzWHNqV0RUU3NLSnNCYV9MZnBVQjBrbXE0SkhRUUNEVUg0Q0t3ekRqV2NuaXhrSGp2enM5WWQzd2dpbDBYdW81NksxVzZlbFlia005ekZ5SnQwbGljajlhOEZET084ZlY1RnVWdTdrUkVCQ0tSSmJ4amt1OUw1U0JRUk1QZUFHdHRhc3RLa2tvc3Z5MGxBSlVVeVlEWDJ6bU5FOkdJIGhhdmUgYSA8Yj4xVEIgU1NEPC9iPi4gPGI-U2hvdWxkPC9iPiBJIGdvIGZvciAxIG9yIDJUQiBtb3JlPyAtIFJlZGRpdEKfATxiPmFyb3VuZCAxMGsgd2l0aCBvZmZlcnM8L2I-LiBUaGF0IDguN2sgcHJpY2Ugd2FzIGZvciB0aGUgb2xkZXIgU043NzAuIEdldCB0aGUgU043MTAwIGF0IDEway4gRG91YnRmdWwgd2hlbiBpZiBhdCBhbGwgaXQgd2lsbCBnZXQgY2hlYXBlci4gOC43ayBvZmZlciZuYnNwOy4uLkoCaW5KAWFSA2NhblIEd2hhdFIDYXJlUgJpc1IEd2lsbFICZG8iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "around 10k with offers. That 8.7k price was for the older SN770. Get the SN7100 at 10k. Doubtful when if at all it will get cheaper. 8.7k offer ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "source_info_link": "https://www.reddit.com/r/IndianGaming/comments/1micbqc/question_for_people_with_pc_i_have_a_1tb_ssd/"
+     }
+    },
+    "displayed_link": "10+ comments · 1 year ago",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "link": "https://www.reddit.com/r/IndianGaming/comments/1micbqc/question_for_people_with_pc_i_have_a_1tb_ssd/",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFZ9XSb-WLbJTNCwKDyEEZpx2tXi1V_iyOi-e5uockzZGDf7vr3XsjWDTSsKJsBa_LfpUB0kmq4JHQQCDUH4CKwzDjWcnixkHjvzs9Yd3wgil0Xuo56K1W6elYbkM9zFyJt0licj9a8FDOO8fV5FuVu7kREBCKRJbxjku9L5SBQRMPeAGttastKkkosvy0lAJUUyYDX2zmNE&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQFnoECEsQAQ&uoh=1",
+    "snippet": "Mainly going to use it for gaming, with possibility of learning some Video Editing in future. I usually don't want to have 10s of games installed at ...",
+    "source": "Reddit · r/IndianGaming",
+    "title": "I have a 1TB SSD. Should I go for 1 or 2TB more?"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=10&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8NMDegQIOhAW",
+   "next": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=c16286b74a8621df&sxsrf=APpeQnuTRCiKMO585owZySMguw3iXbl1Lw:1790544655906&ei=D4u5auboNt2HwbkP38raoA0&start=10&sa=N&sstk=AS6-VmI5k1Z6I_d4E8wYXPF8ceeGYe_lRxoZltMV6n_bI_ruTMSL08Ld-letMMucGvF0h9rEF9lQ8Go2jQ3tATEHEiWCkTujLb0Uxg&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQ8NMDegQIOBAM",
    "other_pages": {
-    "10": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=90&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8tMDegQIOhAU",
-    "2": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=10&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8tMDegQIOhAE",
-    "3": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=20&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8tMDegQIOhAG",
-    "4": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=30&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8tMDegQIOhAI",
-    "5": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=40&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8tMDegQIOhAK",
-    "6": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=50&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8tMDegQIOhAM",
-    "7": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=60&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8tMDegQIOhAO",
-    "8": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=70&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8tMDegQIOhAQ",
-    "9": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=932ce377fb08cd9d&ei=tcmvatCfJ7-KptQP1umqiQM&start=80&sa=N&sstk=AS6-VmILRmzHFq7B3D5CNQOS_TbTUHY7JywQi5JkZwhfpQVpBPPHzJjXhKekSuUmvNubY23jHGNGV-swa4DgI1LETvrBbFikvBP21w&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ8tMDegQIOhAS"
+    "2": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=c16286b74a8621df&sxsrf=APpeQnuTRCiKMO585owZySMguw3iXbl1Lw:1790544655906&ei=D4u5auboNt2HwbkP38raoA0&start=10&sa=N&sstk=AS6-VmI5k1Z6I_d4E8wYXPF8ceeGYe_lRxoZltMV6n_bI_ruTMSL08Ld-letMMucGvF0h9rEF9lQ8Go2jQ3tATEHEiWCkTujLb0Uxg&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQ8tMDegQIOBAE",
+    "3": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=c16286b74a8621df&sxsrf=APpeQnuTRCiKMO585owZySMguw3iXbl1Lw:1790544655906&ei=D4u5auboNt2HwbkP38raoA0&start=20&sa=N&sstk=AS6-VmI5k1Z6I_d4E8wYXPF8ceeGYe_lRxoZltMV6n_bI_ruTMSL08Ld-letMMucGvF0h9rEF9lQ8Go2jQ3tATEHEiWCkTujLb0Uxg&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQ8tMDegQIOBAG",
+    "4": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=c16286b74a8621df&sxsrf=APpeQnuTRCiKMO585owZySMguw3iXbl1Lw:1790544655906&ei=D4u5auboNt2HwbkP38raoA0&start=30&sa=N&sstk=AS6-VmI5k1Z6I_d4E8wYXPF8ceeGYe_lRxoZltMV6n_bI_ruTMSL08Ld-letMMucGvF0h9rEF9lQ8Go2jQ3tATEHEiWCkTujLb0Uxg&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQ8tMDegQIOBAI",
+    "5": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?&sca_esv=c16286b74a8621df&sxsrf=APpeQnuTRCiKMO585owZySMguw3iXbl1Lw:1790544655906&ei=D4u5auboNt2HwbkP38raoA0&start=40&sa=N&sstk=AS6-VmI5k1Z6I_d4E8wYXPF8ceeGYe_lRxoZltMV6n_bI_ruTMSL08Ld-letMMucGvF0h9rEF9lQ8Go2jQ3tATEHEiWCkTujLb0Uxg&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQ8tMDegQIOBAK"
    }
   },
-  "related_questions": [
+  "perspectives": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUjZjREV6WW1GMmJtVkxNR1ZQTUVSYU0weG9TVmxxTVdwWkxVRjVSakIwUkZWMWVVMVZWbmx4VXpWbGRtdFdSMVk0U1ZZMmVqVTJPVGx2ZG04Mk5rRXpTVjlVZDFSR1NVcFFTWFJxV205M1QzQk1OalIwUjFobmR4SVhkR050ZG1GMFEyWktOeTFMY0hSUlVERjFiWEZwVVUwYUlrRkVjM0k1WmxONmJrdDNPR1IyWkhOZmJXbDNkMjFsUkZWVkxXbE9XWFIzWldjIiwiZmN2IjoiMyIsImVpIjoidGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU0iLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5SEVRV1B3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBzaG91bGQgYSAxVEIgU1NEIGNvc3Q/IiwibGsiOiJHaDlvYjNjZ2JYVmphQ0J6YUc5MWJHUWdZU0F4SUhSaUlITnpaQ0JqYjNOMCIsImJzIjoiYzMzTXdRcUNRQlNGWWRyT3FtMUdlSHFDTU5vSDRxSzJHYldlbklsN3dSeVpHYlBIVDAxQ010emU4OTlQSkNJOG1CcVBLaU00TWxXdUlCR2RZNlJwZ3N3NHY5LXVnNURHQ2Z3TnpxbXVFUmNSWFVsNnNJTW5qZEp5cG1IdVBhVmZYdHRDNXAzSkJZNkZZdG01MzZXVm9rYjhmRFlOdDQxSXhXN0N6V1hwVFltYVBmM1F5MkRSajNfUWs5aE1vQ1N0Z3JMODFBTXZERmFELTlpY3o5NCIsImlkIjoiZmNfdGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU1fNCJ9",
-    "page_token": "mf0TznicHdDBTsIwGADg-DIcZd0AMxJiAqyAsavt2r-Di9k6YLBuq1oZ7Oa7-FQ-jcb7d_q-vs2pqX7uLqVz9mM6HHZdd39s26PZ3-u2HmYft0YPdWZMnulqOnmYoMeDnkWfm_nibTNn0lpYci8RXFEV8iS6NuSEBHg6oGIb0Gg0oqsnf4_DBUNFnAFxQpU9MdqpBvq8hzlD2BN1eJUyNkkfb6hylwTAkdWOEhN2fG0PQoUkDyJvD2aZpXCmqrqSCkrWWD_ziyCvuLdDpJMefskbmybr4jlZjS2rXaAkT4uV5QUGs08rJM9lDXDsGOJN6o-dVpjKVN80lAk5R7e4RjwqC2_rI3-b8uWuaoNn6boCY0ZS-POGC96emOS9PpsaMG5huetFMx9xFfPcH7e5iKOkHk-o4FTK4sTY4KAvs2Dw_zl7PdRuat_b4y-V1ILH",
-    "question": "How much should a 1TB SSD cost?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mf0TznicHdDBTsIwGADg-DIcZd0AMxJiAqyAsavt2r-Di9k6YLBuq1oZ7Oa7-FQ-jcb7d_q-vs2pqX7uLqVz9mM6HHZdd39s26PZ3-u2HmYft0YPdWZMnulqOnmYoMeDnkWfm_nibTNn0lpYci8RXFEV8iS6NuSEBHg6oGIb0Gg0oqsnf4_DBUNFnAFxQpU9MdqpBvq8hzlD2BN1eJUyNkkfb6hylwTAkdWOEhN2fG0PQoUkDyJvD2aZpXCmqrqSCkrWWD_ziyCvuLdDpJMefskbmybr4jlZjS2rXaAkT4uV5QUGs08rJM9lDXDsGOJN6o-dVpjKVN80lAk5R7e4RjwqC2_rI3-b8uWuaoNn6boCY0ZS-POGC96emOS9PpsaMG5huetFMx9xFfPcH7e5iKOkHk-o4FTK4sTY4KAvs2Dw_zl7PdRuat_b4y-V1ILH",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUjZjREV6WW1GMmJtVkxNR1ZQTUVSYU0weG9TVmxxTVdwWkxVRjVSakIwUkZWMWVVMVZWbmx4VXpWbGRtdFdSMVk0U1ZZMmVqVTJPVGx2ZG04Mk5rRXpTVjlVZDFSR1NVcFFTWFJxV205M1QzQk1OalIwUjFobmR4SVhkR050ZG1GMFEyWktOeTFMY0hSUlVERjFiWEZwVVUwYUlrRkVjM0k1WmxONmJrdDNPR1IyWkhOZmJXbDNkMjFsUkZWVkxXbE9XWFIzWldjIiwiZmN2IjoiMyIsImVpIjoidGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU0iLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5SEVRV1B3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBzaG91bGQgYSAxVEIgU1NEIGNvc3Q%2FIiwibGsiOiJHaDlvYjNjZ2JYVmphQ0J6YUc5MWJHUWdZU0F4SUhSaUlITnpaQ0JqYjNOMCIsImJzIjoiYzMzTXdRcUNRQlNGWWRyT3FtMUdlSHFDTU5vSDRxSzJHYldlbklsN3dSeVpHYlBIVDAxQ010emU4OTlQSkNJOG1CcVBLaU00TWxXdUlCR2RZNlJwZ3N3NHY5LXVnNURHQ2Z3TnpxbXVFUmNSWFVsNnNJTW5qZEp5cG1IdVBhVmZYdHRDNXAzSkJZNkZZdG01MzZXVm9rYjhmRFlOdDQxSXhXN0N6V1hwVFltYVBmM1F5MkRSajNfUWs5aE1vQ1N0Z3JMODFBTXZERmFELTlpY3o5NCIsImlkIjoiZmNfdGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU1fNCJ9",
-    "type": "ai_overview"
+    "author": "r/IndiaTech",
+    "date": "1 month ago",
+    "extensions": [
+     "20+ comments "
+    ],
+    "link": "https://www.reddit.com/r/IndiaTech/comments/1vspdc1/bought_this_ssd_for_5747_in_2023_same_one_is/",
+    "source": "Reddit",
+    "thumbnails": [
+     "https://serpapi.com/searches/6ab98b0f97012132e112c1f4/images/b-ddu_xQkg4qS9lgXDxKIBn87r8W5B8bfyuR8osAcZw.jpeg"
+    ],
+    "title": "Bought this SSD for ₹5,747 in 2023. Same one is ₹28,449 today."
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUjZjREV6WW1GMmJtVkxNR1ZQTUVSYU0weG9TVmxxTVdwWkxVRjVSakIwUkZWMWVVMVZWbmx4VXpWbGRtdFdSMVk0U1ZZMmVqVTJPVGx2ZG04Mk5rRXpTVjlVZDFSR1NVcFFTWFJxV205M1QzQk1OalIwUjFobmR4SVhkR050ZG1GMFEyWktOeTFMY0hSUlVERjFiWEZwVVUwYUlrRkVjM0k1WmxONmJrdDNPR1IyWkhOZmJXbDNkMjFsUkZWVkxXbE9XWFIzWldjIiwiZmN2IjoiMyIsImVpIjoidGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU0iLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5SEVRV1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBleHRlcm5hbCBTU0QgaW4gSW5kaWE/IiwibGsiOiJHaDlsZUhSbGNtNWhiQ0J6YzJRZ01YUmlJSEJ5YVdObElHbHVJR2x1WkdsaCIsImJzIjoiYzMzTXdRcUNRQlNGWWRyT3FtMUdlSHFDTU5vSDRxSzJHYldlbklsN3dSeVpHYlBIVDAxQ010emU4OTlQSkNJOG1CcVBLaU00TWxXdUlCR2RZNlJwZ3N3NHY5LXVnNURHQ2Z3TnpxbXVFUmNSWFVsNnNJTW5qZEp5cG1IdVBhVmZYdHRDNXAzSkJZNkZZdG01MzZXVm9rYjhmRFlOdDQxSXhXN0N6V1hwVFltYVBmM1F5MkRSajNfUWs5aE1vQ1N0Z3JMODFBTXZERmFELTlpY3o5NCIsImlkIjoiZmNfdGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU1fNCJ9",
-    "page_token": "2jvkGHicHdBRboIwAADQ7DJ-aqHipolZwgSBDVyLLZSfpbagQgtMq7j97S471U6zZTd4eV_f6tg2P3fXgzH9eTGZDMMw3nfdXpVj0ekJP3-0YiK4UjsumsXsfmY9VmLpXUL36T10Eel7usIgBfMLyqRNlEripnNifbN3LYFCUyxBwUoqnVL7Tg5MtdMRI8A05VpWvE28Tc5gSfwg9hw7W9-GUhczRB4Mt9QJB32CU-vG9dwSAXbjoLgUJHZSewq45yvsWRap9wbRKOB1EbH6zwIPz3F2W7PMKmTTH3Z0zjdBB7eUJoUfnfkaTElLHdSYM4H0FSlZixpBtsWuVFGWKB96BwmYbdksx6ui6eALMYP0fRTn1IhM4S3ujojgT1ErTRRlKYzCOO-PHAwmBT1JFNbSx2FqmzTJVUPQqBLXJRz9fy7fKm0W_anb_wJHQIJG",
-    "question": "What is the price of a 1TB external SSD in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2jvkGHicHdBRboIwAADQ7DJ-aqHipolZwgSBDVyLLZSfpbagQgtMq7j97S471U6zZTd4eV_f6tg2P3fXgzH9eTGZDMMw3nfdXpVj0ekJP3-0YiK4UjsumsXsfmY9VmLpXUL36T10Eel7usIgBfMLyqRNlEripnNifbN3LYFCUyxBwUoqnVL7Tg5MtdMRI8A05VpWvE28Tc5gSfwg9hw7W9-GUhczRB4Mt9QJB32CU-vG9dwSAXbjoLgUJHZSewq45yvsWRap9wbRKOB1EbH6zwIPz3F2W7PMKmTTH3Z0zjdBB7eUJoUfnfkaTElLHdSYM4H0FSlZixpBtsWuVFGWKB96BwmYbdksx6ui6eALMYP0fRTn1IhM4S3ujojgT1ErTRRlKYzCOO-PHAwmBT1JFNbSx2FqmzTJVUPQqBLXJRz9fy7fKm0W_anb_wJHQIJG",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUjZjREV6WW1GMmJtVkxNR1ZQTUVSYU0weG9TVmxxTVdwWkxVRjVSakIwUkZWMWVVMVZWbmx4VXpWbGRtdFdSMVk0U1ZZMmVqVTJPVGx2ZG04Mk5rRXpTVjlVZDFSR1NVcFFTWFJxV205M1QzQk1OalIwUjFobmR4SVhkR050ZG1GMFEyWktOeTFMY0hSUlVERjFiWEZwVVUwYUlrRkVjM0k1WmxONmJrdDNPR1IyWkhOZmJXbDNkMjFsUkZWVkxXbE9XWFIzWldjIiwiZmN2IjoiMyIsImVpIjoidGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU0iLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5SEVRV1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBleHRlcm5hbCBTU0QgaW4gSW5kaWE%2FIiwibGsiOiJHaDlsZUhSbGNtNWhiQ0J6YzJRZ01YUmlJSEJ5YVdObElHbHVJR2x1WkdsaCIsImJzIjoiYzMzTXdRcUNRQlNGWWRyT3FtMUdlSHFDTU5vSDRxSzJHYldlbklsN3dSeVpHYlBIVDAxQ010emU4OTlQSkNJOG1CcVBLaU00TWxXdUlCR2RZNlJwZ3N3NHY5LXVnNURHQ2Z3TnpxbXVFUmNSWFVsNnNJTW5qZEp5cG1IdVBhVmZYdHRDNXAzSkJZNkZZdG01MzZXVm9rYjhmRFlOdDQxSXhXN0N6V1hwVFltYVBmM1F5MkRSajNfUWs5aE1vQ1N0Z3JMODFBTXZERmFELTlpY3o5NCIsImlkIjoiZmNfdGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU1fNCJ9",
-    "type": "ai_overview"
+    "author": "r/IndianGaming",
+    "date": "Jul 27, 2026",
+    "extensions": [
+     "20+ comments "
+    ],
+    "link": "https://www.reddit.com/r/IndianGaming/comments/1v83bvr/where_can_i_find_a_cheap_1tb_m2_nvme_ssd/",
+    "source": "Reddit",
+    "title": "Where can I find a cheap 1TB m.2 nvme SSD?"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUjZjREV6WW1GMmJtVkxNR1ZQTUVSYU0weG9TVmxxTVdwWkxVRjVSakIwUkZWMWVVMVZWbmx4VXpWbGRtdFdSMVk0U1ZZMmVqVTJPVGx2ZG04Mk5rRXpTVjlVZDFSR1NVcFFTWFJxV205M1QzQk1OalIwUjFobmR4SVhkR050ZG1GMFEyWktOeTFMY0hSUlVERjFiWEZwVVUwYUlrRkVjM0k1WmxONmJrdDNPR1IyWkhOZmJXbDNkMjFsUkZWVkxXbE9XWFIzWldjIiwiZmN2IjoiMyIsImVpIjoidGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU0iLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5SEVRV1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBsYXB0b3Agd2l0aCBTU0QgaW4gSW5kaWE/IiwibGsiOiJHaGxzWVhCMGIzQWdNWFJpSUhCeWFXTmxJR2x1SUdsdVpHbGgiLCJicyI6ImMzM013UXFDUUJTRllkck9xbTFHZUhxQ01Ob0g0cUsyR2JXZW5JbDd3UnlaR2JQSFQwMUNNdHplODk5UEpDSThtQnFQS2lNNE1sV3VJQkdkWTZScGdzdzR2OS11ZzVER0Nmd056cW11RVJjUlhVbDZzSU1uamRKeXBtSHVQYVZmWHR0QzVwM0pCWTZGWXRtNTM2V1Zva2I4ZkRZTnQ0MUl4VzdDeldYcFRZbWFQZjNReTJEUmozX1FrOWhNb0NTdGdyTDgxQU12REZhRC05aWN6OTQiLCJpZCI6ImZjX3RjbXZhdENmSjctS3B0UVAxdW1xaVFNXzQifQ==",
-    "page_token": "_jdetXicHdBNbqMwGIBh9TJdNjEkGSVSVJXhL0z5UoxtsDcjsENIbH7Uorhl1yvMGeZUPc1Us3_1LN7Pv-bS66-7P-00jW-7xcJa-3AehrM5PcihW1RvH71cyMqYupJ6t_mxQY-N3Ac36f18lV5Gx5H5eEl8lohIruvyMOcEKkUTXVN8EzNF3GkNnfGKlE9L4ayzKlI9kGQNhLkpAk2CiRNqVxCbq-qCmSNPg25tXUACDDhQcazDLYfQ_Drp90nFLaXd1pKyfWFxNikXbkdmLvmMG3KlSxJs08wolJsEZ11mCyMINyJWOjEsemeqA6x6c_hugDksTwvUHyPkpb0Iag2rwm83vIAqQ1gUHRsqFmK4Mj-PwcUIe0GrltxBDi-xL_TgPtPJqjDM0pJNsjCY4OGSUTzLq-koTTapc0B1PPrqm6FINbg3DEfy4xSd56owIOx9I2979_7_6_3vppt24-tw_gdY_Iz6",
-    "question": "What is the price of a 1TB laptop with SSD in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_jdetXicHdBNbqMwGIBh9TJdNjEkGSVSVJXhL0z5UoxtsDcjsENIbH7Uorhl1yvMGeZUPc1Us3_1LN7Pv-bS66-7P-00jW-7xcJa-3AehrM5PcihW1RvH71cyMqYupJ6t_mxQY-N3Ac36f18lV5Gx5H5eEl8lohIruvyMOcEKkUTXVN8EzNF3GkNnfGKlE9L4ayzKlI9kGQNhLkpAk2CiRNqVxCbq-qCmSNPg25tXUACDDhQcazDLYfQ_Drp90nFLaXd1pKyfWFxNikXbkdmLvmMG3KlSxJs08wolJsEZ11mCyMINyJWOjEsemeqA6x6c_hugDksTwvUHyPkpb0Iag2rwm83vIAqQ1gUHRsqFmK4Mj-PwcUIe0GrltxBDi-xL_TgPtPJqjDM0pJNsjCY4OGSUTzLq-koTTapc0B1PPrqm6FINbg3DEfy4xSd56owIOx9I2979_7_6_3vppt24-tw_gdY_Iz6",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUjZjREV6WW1GMmJtVkxNR1ZQTUVSYU0weG9TVmxxTVdwWkxVRjVSakIwUkZWMWVVMVZWbmx4VXpWbGRtdFdSMVk0U1ZZMmVqVTJPVGx2ZG04Mk5rRXpTVjlVZDFSR1NVcFFTWFJxV205M1QzQk1OalIwUjFobmR4SVhkR050ZG1GMFEyWktOeTFMY0hSUlVERjFiWEZwVVUwYUlrRkVjM0k1WmxONmJrdDNPR1IyWkhOZmJXbDNkMjFsUkZWVkxXbE9XWFIzWldjIiwiZmN2IjoiMyIsImVpIjoidGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU0iLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5SEVRV1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBsYXB0b3Agd2l0aCBTU0QgaW4gSW5kaWE%2FIiwibGsiOiJHaGxzWVhCMGIzQWdNWFJpSUhCeWFXTmxJR2x1SUdsdVpHbGgiLCJicyI6ImMzM013UXFDUUJTRllkck9xbTFHZUhxQ01Ob0g0cUsyR2JXZW5JbDd3UnlaR2JQSFQwMUNNdHplODk5UEpDSThtQnFQS2lNNE1sV3VJQkdkWTZScGdzdzR2OS11ZzVER0Nmd056cW11RVJjUlhVbDZzSU1uamRKeXBtSHVQYVZmWHR0QzVwM0pCWTZGWXRtNTM2V1Zva2I4ZkRZTnQ0MUl4VzdDeldYcFRZbWFQZjNReTJEUmozX1FrOWhNb0NTdGdyTDgxQU12REZhRC05aWN6OTQiLCJpZCI6ImZjX3RjbXZhdENmSjctS3B0UVAxdW1xaVFNXzQifQ%3D%3D",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUjZjREV6WW1GMmJtVkxNR1ZQTUVSYU0weG9TVmxxTVdwWkxVRjVSakIwUkZWMWVVMVZWbmx4VXpWbGRtdFdSMVk0U1ZZMmVqVTJPVGx2ZG04Mk5rRXpTVjlVZDFSR1NVcFFTWFJxV205M1QzQk1OalIwUjFobmR4SVhkR050ZG1GMFEyWktOeTFMY0hSUlVERjFiWEZwVVUwYUlrRkVjM0k1WmxONmJrdDNPR1IyWkhOZmJXbDNkMjFsUkZWVkxXbE9XWFIzWldjIiwiZmN2IjoiMyIsImVpIjoidGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU0iLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5SEVRV1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBoYXJkIGRyaXZlIGluIEluZGlhPyIsImxrIjoiR2gxb1lYSmtJR1J5YVhabElERjBZaUJ3Y21salpTQnBiaUJwYm1ScFlRIiwiYnMiOiJjMzNNd1FxQ1FCU0ZZZHJPcW0xR2VIcUNNTm9INHFLMkdiV2VuSWw3d1J5WkdiUEhUMDFDTXR6ZTg5OVBKQ0k4bUJxUEtpTTRNbFd1SUJHZFk2UnBnc3c0djktdWc1REdDZndOenFtdUVSY1JYVWw2c0lNbmpkSnlwbUh1UGFWZlh0dEM1cDNKQlk2Rll0bTUzNldWb2tiOGZEWU50NDFJeFc3Q3pXWHBUWW1hUGYzUXkyRFJqM19RazloTW9DU3Rnckw4MUFNdkRGYUQtOWljejk0IiwiaWQiOiJmY190Y212YXRDZko3LUtwdFFQMXVtcWlRTV80In0=",
-    "page_token": "Jb_oUnicHdBLTuMwAABQzWVY0thtylCpQsokbtoSF9ux23iDUrvNx84HCCR4N3eZU3EaxJzgSe_vP1u15uvXRzkM_dtqNhvH8bbousJeblXXzPK3z1bNVG7tOVdmtbxbgoerWkfv2-DPyzYgvO9FSD2W0qczKJODsEAj6ctY9GevzKj5DZJUxpr7zSWmhNcUYltAiuiEa-1fKg-kddlmTu8zb-Gz44TyNFowBmId4pJVoEo5nnAEHg_h7kXCSSRh4S5CTLlDA_HKPdvYbWLuUykCIhvu5AkbHdm5BPeStAqevAExp9-JQ04KyZgnBm58LDYRpGY3URtAGVNOzO7p2OCWb2wQldrLIIDZiYbSdPNHPowaIZKcxKCOlqa0qwinTtW2EWh3JLXcZrx_VT8-6JysdaihOIgUX5N5sJfjzVV9rOc3_z_Xz9dmWPWvXfENGMSClA",
-    "question": "What is the price of a 1TB hard drive in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Jb_oUnicHdBLTuMwAABQzWVY0thtylCpQsokbtoSF9ux23iDUrvNx84HCCR4N3eZU3EaxJzgSe_vP1u15uvXRzkM_dtqNhvH8bbousJeblXXzPK3z1bNVG7tOVdmtbxbgoerWkfv2-DPyzYgvO9FSD2W0qczKJODsEAj6ctY9GevzKj5DZJUxpr7zSWmhNcUYltAiuiEa-1fKg-kddlmTu8zb-Gz44TyNFowBmId4pJVoEo5nnAEHg_h7kXCSSRh4S5CTLlDA_HKPdvYbWLuUykCIhvu5AkbHdm5BPeStAqevAExp9-JQ04KyZgnBm58LDYRpGY3URtAGVNOzO7p2OCWb2wQldrLIIDZiYbSdPNHPowaIZKcxKCOlqa0qwinTtW2EWh3JLXcZrx_VT8-6JysdaihOIgUX5N5sJfjzVV9rOc3_z_Xz9dmWPWvXfENGMSClA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUjZjREV6WW1GMmJtVkxNR1ZQTUVSYU0weG9TVmxxTVdwWkxVRjVSakIwUkZWMWVVMVZWbmx4VXpWbGRtdFdSMVk0U1ZZMmVqVTJPVGx2ZG04Mk5rRXpTVjlVZDFSR1NVcFFTWFJxV205M1QzQk1OalIwUjFobmR4SVhkR050ZG1GMFEyWktOeTFMY0hSUlVERjFiWEZwVVUwYUlrRkVjM0k1WmxONmJrdDNPR1IyWkhOZmJXbDNkMjFsUkZWVkxXbE9XWFIzWldjIiwiZmN2IjoiMyIsImVpIjoidGNtdmF0Q2ZKNy1LcHRRUDF1bXFpUU0iLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5SEVRV1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBoYXJkIGRyaXZlIGluIEluZGlhPyIsImxrIjoiR2gxb1lYSmtJR1J5YVhabElERjBZaUJ3Y21salpTQnBiaUJwYm1ScFlRIiwiYnMiOiJjMzNNd1FxQ1FCU0ZZZHJPcW0xR2VIcUNNTm9INHFLMkdiV2VuSWw3d1J5WkdiUEhUMDFDTXR6ZTg5OVBKQ0k4bUJxUEtpTTRNbFd1SUJHZFk2UnBnc3c0djktdWc1REdDZndOenFtdUVSY1JYVWw2c0lNbmpkSnlwbUh1UGFWZlh0dEM1cDNKQlk2Rll0bTUzNldWb2tiOGZEWU50NDFJeFc3Q3pXWHBUWW1hUGYzUXkyRFJqM19RazloTW9DU3Rnckw4MUFNdkRGYUQtOWljejk0IiwiaWQiOiJmY190Y212YXRDZko3LUtwdFFQMXVtcWlRTV80In0%3D",
-    "type": "ai_overview"
+    "author": "r/Flipkart",
+    "date": "Jul 19, 2026",
+    "extensions": [
+     "40+ comments "
+    ],
+    "link": "https://www.reddit.com/r/Flipkart/comments/1v0upgn/1tb_ssd_at_6kis_it_a_real_deal/",
+    "source": "Reddit",
+    "thumbnails": [
+     "https://serpapi.com/searches/6ab98b0f97012132e112c1f4/images/I4IwXngxdD7asWH1u8cvZJ2pbdO7KtXvg5mMe3SzBk4.jpeg"
+    ],
+    "title": "1tb ssd at 6k..is it a real deal?"
    }
   ],
-  "related_searches": [
+  "refine_this_search": [
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=1TB+SSD+price+for+Laptop&sa=X&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ1QJ6BAhAEAE",
-    "query": "1TB SSD price for Laptop",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1TB+SSD+price+for+Laptop"
+    "link": "https://www.google.com/search?q=external+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYASolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTIWCAESCEV4dGVybmFsOggICBCC8QQwAliRqiBgAQ&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAB6BAgTEAI",
+    "query": "External",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=external+How+much+does+a+1TB+SSD+cost+in+India"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=1TB+SSD+SATA+price&sa=X&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ1QJ6BAhDEAE",
-    "query": "1TB SSD SATA price",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1TB+SSD+SATA+price"
+    "link": "https://www.google.com/search?q=internal+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYASolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTIWCAESCEludGVybmFsOggICBCB8QQwAliRqiBgAQ&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAF6BAgTEAM",
+    "query": "Internal",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=internal+How+much+does+a+1TB+SSD+cost+in+India"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=1TB+SSD+External&sa=X&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ1QJ6BAhEEAE",
-    "query": "1TB SSD External",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1TB+SSD+External"
+    "link": "https://www.google.com/search?q=sata+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYASolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTISCAESBFNBVEE6CAgJEJS_BTAAWJGqIGAB&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAJ6BAgTEAQ",
+    "query": "SATA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sata+How+much+does+a+1TB+SSD+cost+in+India"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=1TB+SSD+for+PC&sa=X&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ1QJ6BAhCEAE",
-    "query": "1TB SSD for PC",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1TB+SSD+for+PC"
+    "link": "https://www.google.com/search?q=hard+drives+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYCSolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTIPCAkSC0hhcmQgRHJpdmVzYAE&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAN6BAgTEAU",
+    "query": "Hard Drives",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hard+drives+How+much+does+a+1TB+SSD+cost+in+India"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=1TB+SSD+NVMe+price&sa=X&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ1QJ6BAhBEAE",
-    "query": "1TB SSD NVMe price",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1TB+SSD+NVMe+price"
+    "link": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India?+sale&shoprs=CAESBEoCGAEYBiolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTITCAYSB09uIHNhbGUYAiIESgIYAViRqiBgAQ&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAR6BAgTEAY",
+    "query": "On sale",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F+sale"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=1TB+SSD+price+Amazon&sa=X&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ1QJ6BAg9EAE",
-    "query": "1TB SSD price Amazon",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1TB+SSD+price+Amazon"
+    "link": "https://www.google.com/search?q=usb+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYASolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTIRCAESA1VTQjoICAkQkb8FMABYkaogYAE&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAV6BAgTEAc",
+    "query": "USB",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=usb+How+much+does+a+1TB+SSD+cost+in+India"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=1TB+SSD+Samsung&sa=X&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ1QJ6BAg_EAE",
-    "query": "1TB SSD Samsung",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1TB+SSD+Samsung"
+    "link": "https://www.google.com/search?q=nvme+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYASolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTIWCAESBE5WTWU6DAicysMBEJ3KwwEwA1iRqiBgAQ&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAZ6BAgTEAg",
+    "query": "NVMe",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nvme+How+much+does+a+1TB+SSD+cost+in+India"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=SSD+1TB+Crucial&sa=X&ved=2ahUKEwiQzt_8jP2WAxU_hYkEHda0KjEQ1QJ6BAg-EAE",
-    "query": "SSD 1TB Crucial",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SSD+1TB+Crucial"
+    "link": "https://www.google.com/search?q=m.2+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYASolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTISCAESA00uMjoJCAkQl8rDATAAWJGqIGAB&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAd6BAgTEAk",
+    "query": "M.2",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=m.2+How+much+does+a+1TB+SSD+cost+in+India"
+   },
+   {
+    "link": "https://www.google.com/search?q=price+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYEiolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAh6BAgTEAo",
+    "query": "Price",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=price+How+much+does+a+1TB+SSD+cost+in+India"
+   },
+   {
+    "link": "https://www.google.com/search?q=brand+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYEiolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAl6BAgTEAs",
+    "query": "Brand",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=brand+How+much+does+a+1TB+SSD+cost+in+India"
+   },
+   {
+    "link": "https://www.google.com/search?q=black+How+much+does+a+1TB+SSD+cost+in+India&shoprs=CAEYASolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTIVCAESBUJsYWNrOgoImLlvEJu5bzAAWJGqIGAB&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAp6BAgTEAw",
+    "query": "Black",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=black+How+much+does+a+1TB+SSD+cost+in+India"
+   },
+   {
+    "link": "https://www.google.com/search?q=new+How+much+does+a+1TB+SSD+cost+in+India?&shoprs=CAEYCiolaG93IG11Y2ggZG9lcyBhIDF0YiBzc2QgY29zdCBpbiBpbmRpYTIHCAoSA05ld1iRqiBgAQ&sa=X&ved=2ahUKEwimrK3R2o-XAxXdQzABHV-lFtQQip4GKAt6BAgTEA0",
+    "query": "New",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=new+How+much+does+a+1TB+SSD+cost+in+India%3F"
+   }
+  ],
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJGVTBNalIxZFdoUmRYRmlhbFZKWjBoaVFUTTRhSEJzZUhSWE4xRkJORWx5VG5aemVXODJlV2xUWjJWQ1NrWjJNVnBsU21OeU0waEVWbXhYUkVKZlJtWkhNbGMwWlc5VWRYVXdlbTVCWkdWS1duTkRZbXRaWm5CSmR4SVhSRFIxTldGMVltOU9kREpJZDJKclVETTRjbUZ2UVRBYUlrRkVjM0k1WmxGWmNGUlpSazFVWjFaMFpsbHpOVkU1TjFKcGEzRlBlRGhIYTBFIiwiZmN2IjoiMyIsImVpIjoiRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTAiLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5NXBjTlB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBzaG91bGQgMVRCIFNTRCBjb3N0PyIsImxrIjoiR2h4b2IzY2diWFZqYUNCemFHOTFiR1FnTVhSaUlITnpaQ0JqYjNOMCIsImJzIjoiYzMyT3dRcUNRQmlFNmZxZnVyWmxUazhRU1hjaEN1cWFRZWZOM2ZnWHpCVjN6ZGN2cmN3S3VzNTg4ekVVVTdDMU5TNVZ5bkJzcTB4aGNWZ2hTZFpJcmZOeE5CVVRfZ2I4Q2M2cEZxQU5vUk1vcTEwM2hjbXh5NVdSY1RRVElYOHdyM1hEbUlhaFBjMlBMTy1CZzJlTm9qU3BoajFEdG5kWWxncXFORmZkczRZaTZPWE5xY2VxY3lhMF9PUE1aT0Z0Z2RwNGJqLV94V014ZXBhXzB1SGdCZyIsImlkIjoiZmNfRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTBfNSJ9",
+    "page_token": "Fed4aXicHdDbTsIwHIDx-DJeyg5BhYSYVNqxyYZ067_bbgy0O7B1B6Ay2Z3v4lP5NBIvv-R39X3_qENb_95dSq3783wyGYbhoei6QmUPomsmu_O1FROxU2q_E_X88enRfMnFAn-66PXooi3re1hSI6zhzKGYSi7GDbhf1FZve8OYZrFM0ip9ZxG5AKfWzb6tgazSthsjS4U-eNdbLzP2PKYK_Mgy_a0pxixChgDXSiuiOJRDAMRNQJ7CCnlJ7K2DVh1Zo70EAidQJM8IXYqGbATTpXSCOmOzI22mnuQarSPEBNbr1JFOiEkeOCr2m97YWa69x7Mh5TNOV30LpH9NmA4hUhSXEgcrZiYxHPbG1PDr0k4avfXH8prwGfJRd9gyOopKNawNzmFcjtESuRSnuTRJzllfSaMY_NrEgJklh_tcXBb2_f_PxUfe6Hl_6oo_M3uDZQ",
+    "question": "How much should 1TB SSD cost?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Fed4aXicHdDbTsIwHIDx-DJeyg5BhYSYVNqxyYZ067_bbgy0O7B1B6Ay2Z3v4lP5NBIvv-R39X3_qENb_95dSq3783wyGYbhoei6QmUPomsmu_O1FROxU2q_E_X88enRfMnFAn-66PXooi3re1hSI6zhzKGYSi7GDbhf1FZve8OYZrFM0ip9ZxG5AKfWzb6tgazSthsjS4U-eNdbLzP2PKYK_Mgy_a0pxixChgDXSiuiOJRDAMRNQJ7CCnlJ7K2DVh1Zo70EAidQJM8IXYqGbATTpXSCOmOzI22mnuQarSPEBNbr1JFOiEkeOCr2m97YWa69x7Mh5TNOV30LpH9NmA4hUhSXEgcrZiYxHPbG1PDr0k4avfXH8prwGfJRd9gyOopKNawNzmFcjtESuRSnuTRJzllfSaMY_NrEgJklh_tcXBb2_f_PxUfe6Hl_6oo_M3uDZQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJGVTBNalIxZFdoUmRYRmlhbFZKWjBoaVFUTTRhSEJzZUhSWE4xRkJORWx5VG5aemVXODJlV2xUWjJWQ1NrWjJNVnBsU21OeU0waEVWbXhYUkVKZlJtWkhNbGMwWlc5VWRYVXdlbTVCWkdWS1duTkRZbXRaWm5CSmR4SVhSRFIxTldGMVltOU9kREpJZDJKclVETTRjbUZ2UVRBYUlrRkVjM0k1WmxGWmNGUlpSazFVWjFaMFpsbHpOVkU1TjFKcGEzRlBlRGhIYTBFIiwiZmN2IjoiMyIsImVpIjoiRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTAiLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5NXBjTlB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBzaG91bGQgMVRCIFNTRCBjb3N0PyIsImxrIjoiR2h4b2IzY2diWFZqYUNCemFHOTFiR1FnTVhSaUlITnpaQ0JqYjNOMCIsImJzIjoiYzMyT3dRcUNRQmlFNmZxZnVyWmxUazhRU1hjaEN1cWFRZWZOM2ZnWHpCVjN6ZGN2cmN3S3VzNTg4ekVVVTdDMU5TNVZ5bkJzcTB4aGNWZ2hTZFpJcmZOeE5CVVRfZ2I4Q2M2cEZxQU5vUk1vcTEwM2hjbXh5NVdSY1RRVElYOHdyM1hEbUlhaFBjMlBMTy1CZzJlTm9qU3BoajFEdG5kWWxncXFORmZkczRZaTZPWE5xY2VxY3lhMF9PUE1aT0Z0Z2RwNGJqLV94V014ZXBhXzB1SGdCZyIsImlkIjoiZmNfRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTBfNSJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJGVTBNalIxZFdoUmRYRmlhbFZKWjBoaVFUTTRhSEJzZUhSWE4xRkJORWx5VG5aemVXODJlV2xUWjJWQ1NrWjJNVnBsU21OeU0waEVWbXhYUkVKZlJtWkhNbGMwWlc5VWRYVXdlbTVCWkdWS1duTkRZbXRaWm5CSmR4SVhSRFIxTldGMVltOU9kREpJZDJKclVETTRjbUZ2UVRBYUlrRkVjM0k1WmxGWmNGUlpSazFVWjFaMFpsbHpOVkU1TjFKcGEzRlBlRGhIYTBFIiwiZmN2IjoiMyIsImVpIjoiRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTAiLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5NXBjTlB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIFNTRCBjb3N0IGluIEluZGlhPyIsImxrIjoiR2g5b2IzY2diWFZqYUNCa2IyVnpJSE56WkNCamIzTjBJR2x1SUdsdVpHbGgiLCJicyI6ImMzMk93UXFDUUJpRTZmcWZ1clpsVGs4UVNYY2hDdXFhUWVmTjNmZ1h6QlYzemRjdnJjd0t1czU4OHpFVVU3QzFOUzVWeW5Cc3EweGhjVmdoU2RaSXJmTnhOQlVUX2diOENjNnBGcUFOb1JNb3ExMDNoY214eTVXUmNUUVRJWDh3cjNYRG1JYWhQYzJQTE8tQmcyZU5valNwaGoxRHRuZFlsZ3FxTkZmZHM0WWk2T1hOcWNlcWN5YTBfT1BNWk9GdGdkcDRiai1feFdNeGVwYV8wdUhnQmciLCJpZCI6ImZjX0Q0dTVhdWJvTnQySHdia1AzOHJhb0EwXzUifQ==",
+    "page_token": "TZWuh3icHdDPboIwAIDx7GU8TmrFqYlZwoDqYsuolH-XBVoEbSuoTITb3mVPtaeZ2fk7_JLv-0cdTvL36Va1bXNdjsdd1z2XdV2q4pnXepxd-xMf80ypPONyOXuZgdc9XzlfG-vtvLF81jShTY2dfvcI9CcpWuhtXNk5E6bQG-ghNiGO66axNEJ30WMp-2KNIVOW9GKR7SSbBoD2KTJhCB-Ic98y4FbhsSJ0KIdgUhk4oGscUYkd8SFc9yLC0uCKG7kWlE7mIJDzgaHmnAS8JcgEHps-ugVp3HSFbG84IhlHjSRMBSQK-_xInQRgM9PgtkOmS4B1Tm3cCYX7GBKGkaBOJRyyZiCJw0NumAaWFUx06-Oh6pNoYWGrPviMDvyoNBvSK5HX6c64W5FTTwNbxAVSsohlR-x0663Tc9qN9vy2gqP_n6vPvW6XzaUu_wDrvIKC",
+    "question": "How much does SSD cost in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TZWuh3icHdDPboIwAIDx7GU8TmrFqYlZwoDqYsuolH-XBVoEbSuoTITb3mVPtaeZ2fk7_JLv-0cdTvL36Va1bXNdjsdd1z2XdV2q4pnXepxd-xMf80ypPONyOXuZgdc9XzlfG-vtvLF81jShTY2dfvcI9CcpWuhtXNk5E6bQG-ghNiGO66axNEJ30WMp-2KNIVOW9GKR7SSbBoD2KTJhCB-Ic98y4FbhsSJ0KIdgUhk4oGscUYkd8SFc9yLC0uCKG7kWlE7mIJDzgaHmnAS8JcgEHps-ugVp3HSFbG84IhlHjSRMBSQK-_xInQRgM9PgtkOmS4B1Tm3cCYX7GBKGkaBOJRyyZiCJw0NumAaWFUx06-Oh6pNoYWGrPviMDvyoNBvSK5HX6c64W5FTTwNbxAVSsohlR-x0663Tc9qN9vy2gqP_n6vPvW6XzaUu_wDrvIKC",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJGVTBNalIxZFdoUmRYRmlhbFZKWjBoaVFUTTRhSEJzZUhSWE4xRkJORWx5VG5aemVXODJlV2xUWjJWQ1NrWjJNVnBsU21OeU0waEVWbXhYUkVKZlJtWkhNbGMwWlc5VWRYVXdlbTVCWkdWS1duTkRZbXRaWm5CSmR4SVhSRFIxTldGMVltOU9kREpJZDJKclVETTRjbUZ2UVRBYUlrRkVjM0k1WmxGWmNGUlpSazFVWjFaMFpsbHpOVkU1TjFKcGEzRlBlRGhIYTBFIiwiZmN2IjoiMyIsImVpIjoiRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTAiLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5NXBjTlB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIFNTRCBjb3N0IGluIEluZGlhPyIsImxrIjoiR2g5b2IzY2diWFZqYUNCa2IyVnpJSE56WkNCamIzTjBJR2x1SUdsdVpHbGgiLCJicyI6ImMzMk93UXFDUUJpRTZmcWZ1clpsVGs4UVNYY2hDdXFhUWVmTjNmZ1h6QlYzemRjdnJjd0t1czU4OHpFVVU3QzFOUzVWeW5Cc3EweGhjVmdoU2RaSXJmTnhOQlVUX2diOENjNnBGcUFOb1JNb3ExMDNoY214eTVXUmNUUVRJWDh3cjNYRG1JYWhQYzJQTE8tQmcyZU5valNwaGoxRHRuZFlsZ3FxTkZmZHM0WWk2T1hOcWNlcWN5YTBfT1BNWk9GdGdkcDRiai1feFdNeGVwYV8wdUhnQmciLCJpZCI6ImZjX0Q0dTVhdWJvTnQySHdia1AzOHJhb0EwXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJGVTBNalIxZFdoUmRYRmlhbFZKWjBoaVFUTTRhSEJzZUhSWE4xRkJORWx5VG5aemVXODJlV2xUWjJWQ1NrWjJNVnBsU21OeU0waEVWbXhYUkVKZlJtWkhNbGMwWlc5VWRYVXdlbTVCWkdWS1duTkRZbXRaWm5CSmR4SVhSRFIxTldGMVltOU9kREpJZDJKclVETTRjbUZ2UVRBYUlrRkVjM0k1WmxGWmNGUlpSazFVWjFaMFpsbHpOVkU1TjFKcGEzRlBlRGhIYTBFIiwiZmN2IjoiMyIsImVpIjoiRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTAiLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5NXBjTlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBoYXJkIGRyaXZlIGluIEluZGlhPyIsImxrIjoiR2gxb1lYSmtJR1J5YVhabElERjBZaUJ3Y21salpTQnBiaUJwYm1ScFlRIiwiYnMiOiJjMzJPd1FxQ1FCaUU2ZnFmdXJabFRrOFFTWGNoQ3VxYVFlZk4zZmdYekJWM3pkY3ZyY3dLdXM1ODh6RVVVN0MxTlM1VnluQnNxMHhoY1ZnaFNkWklyZk54TkJVVF9nYjhDYzZwRnFBTm9STW9xMTAzaGNteHk1V1JjVFFUSVg4d3IzWERtSWFoUGMyUExPLUJnMmVOb2pTcGhqMUR0bmRZbGdxcU5GZmRzNFlpNk9YTnFjZXFjeWEwX09QTVpPRnRnZHA0YmotX3hXTXhlcGFfMHVIZ0JnIiwiaWQiOiJmY19ENHU1YXVib050Mkh3YmtQMzhyYW9BMF81In0=",
+    "page_token": "ZaeQn3icHdBLboJAGADg9DIu6zCIVRPTdCojmIDl8Q8wm2Z4KMjwqFBEdr1LT9XTtOkFvsX39S2Luvx5GPK-b7vNfH673R7PTXOW2WPSVHPR3etknggpY5GUm-XTUnk-JVv90ySvHyZxoG3ZzkWeTylUK43V9hvojHPDXvr7gwbGiwYTHbOQUq9OP7wdr4878gr79RAiTROwGIXPaeZT4WF0T7GGoKZtRm2fI_nGL3bpBK7gGGHAaRmitoJKdjEaw2hyR09tsbXPcfpnx6GpWXi82rg_uTVhwc6cmHqgXFkLT5KSB4oTYYUcgRW-8YKz6rCIAj7EhXI9Gi1YkDJbyTuupkTPU902QIlCVsRIQ1aZq1HVO9aU36NgTSzSFA64U3KRFbDVBKU5AdaRjZifMHfgQfrp1rILLqR3GBXgzE7JsFVn_5_b91PVb9prc_4F71WBCw",
+    "question": "What is the price of a 1TB hard drive in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZaeQn3icHdBLboJAGADg9DIu6zCIVRPTdCojmIDl8Q8wm2Z4KMjwqFBEdr1LT9XTtOkFvsX39S2Luvx5GPK-b7vNfH673R7PTXOW2WPSVHPR3etknggpY5GUm-XTUnk-JVv90ySvHyZxoG3ZzkWeTylUK43V9hvojHPDXvr7gwbGiwYTHbOQUq9OP7wdr4878gr79RAiTROwGIXPaeZT4WF0T7GGoKZtRm2fI_nGL3bpBK7gGGHAaRmitoJKdjEaw2hyR09tsbXPcfpnx6GpWXi82rg_uTVhwc6cmHqgXFkLT5KSB4oTYYUcgRW-8YKz6rCIAj7EhXI9Gi1YkDJbyTuupkTPU902QIlCVsRIQ1aZq1HVO9aU36NgTSzSFA64U3KRFbDVBKU5AdaRjZifMHfgQfrp1rILLqR3GBXgzE7JsFVn_5_b91PVb9prc_4F71WBCw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJGVTBNalIxZFdoUmRYRmlhbFZKWjBoaVFUTTRhSEJzZUhSWE4xRkJORWx5VG5aemVXODJlV2xUWjJWQ1NrWjJNVnBsU21OeU0waEVWbXhYUkVKZlJtWkhNbGMwWlc5VWRYVXdlbTVCWkdWS1duTkRZbXRaWm5CSmR4SVhSRFIxTldGMVltOU9kREpJZDJKclVETTRjbUZ2UVRBYUlrRkVjM0k1WmxGWmNGUlpSazFVWjFaMFpsbHpOVkU1TjFKcGEzRlBlRGhIYTBFIiwiZmN2IjoiMyIsImVpIjoiRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTAiLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5NXBjTlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBoYXJkIGRyaXZlIGluIEluZGlhPyIsImxrIjoiR2gxb1lYSmtJR1J5YVhabElERjBZaUJ3Y21salpTQnBiaUJwYm1ScFlRIiwiYnMiOiJjMzJPd1FxQ1FCaUU2ZnFmdXJabFRrOFFTWGNoQ3VxYVFlZk4zZmdYekJWM3pkY3ZyY3dLdXM1ODh6RVVVN0MxTlM1VnluQnNxMHhoY1ZnaFNkWklyZk54TkJVVF9nYjhDYzZwRnFBTm9STW9xMTAzaGNteHk1V1JjVFFUSVg4d3IzWERtSWFoUGMyUExPLUJnMmVOb2pTcGhqMUR0bmRZbGdxcU5GZmRzNFlpNk9YTnFjZXFjeWEwX09QTVpPRnRnZHA0YmotX3hXTXhlcGFfMHVIZ0JnIiwiaWQiOiJmY19ENHU1YXVib050Mkh3YmtQMzhyYW9BMF81In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJGVTBNalIxZFdoUmRYRmlhbFZKWjBoaVFUTTRhSEJzZUhSWE4xRkJORWx5VG5aemVXODJlV2xUWjJWQ1NrWjJNVnBsU21OeU0waEVWbXhYUkVKZlJtWkhNbGMwWlc5VWRYVXdlbTVCWkdWS1duTkRZbXRaWm5CSmR4SVhSRFIxTldGMVltOU9kREpJZDJKclVETTRjbUZ2UVRBYUlrRkVjM0k1WmxGWmNGUlpSazFVWjFaMFpsbHpOVkU1TjFKcGEzRlBlRGhIYTBFIiwiZmN2IjoiMyIsImVpIjoiRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTAiLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5NXBjTlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBsYXB0b3Agd2l0aCBTU0QgaW4gSW5kaWE/IiwibGsiOiJHaGxzWVhCMGIzQWdNWFJpSUhCeWFXTmxJR2x1SUdsdVpHbGgiLCJicyI6ImMzMk93UXFDUUJpRTZmcWZ1clpsVGs4UVNYY2hDdXFhUWVmTjNmZ1h6QlYzemRjdnJjd0t1czU4OHpFVVU3QzFOUzVWeW5Cc3EweGhjVmdoU2RaSXJmTnhOQlVUX2diOENjNnBGcUFOb1JNb3ExMDNoY214eTVXUmNUUVRJWDh3cjNYRG1JYWhQYzJQTE8tQmcyZU5valNwaGoxRHRuZFlsZ3FxTkZmZHM0WWk2T1hOcWNlcWN5YTBfT1BNWk9GdGdkcDRiai1feFdNeGVwYV8wdUhnQmciLCJpZCI6ImZjX0Q0dTVhdWJvTnQySHdia1AzOHJhb0EwXzUifQ==",
+    "page_token": "vDlDhHicHdBdbpswAABg7TJ9bGxoOi1SNJWGhLDaK8Y_wS8TGBIHDFjBCj9vu8LOsFP1NJ12ge_h-_3XXLvm48sf7ZwdNqvVOI6Pl76_mOpR9e0qH-ZOrVRuTJGrZvP89Rl-P6tteFfB600FCbOW7whIKU9zX3vI05Fg-M6h7NLQUSVcjJc9qPbWnYCeU5_8rExAWVRSZUpImSOykb2IOKWRGchC4upAJtbu4Rvf12hnEFswFA1-TdqJpgd3ll3wVLXDnIHjxD2I8sjMuDVjLqakMmUga-LRhvuYOYbgy4RCeyugjZNOHhG0g2hlnzUQZL7uOX1x5aL98hS_0xTWObOMGCmZb66Kxkgd1nF-kAiH7sc_f11AjUNdhjhiMDvxawHWADXaz1qXoEXPmfgWoKC_JowsqjYt8yZcACfeaAMyMXos0hkLjS6XOMT18QnviJ8kD2d13_oP_6-3v86t29hbf_kEdqSNzQ",
+    "question": "What is the price of a 1TB laptop with SSD in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vDlDhHicHdBdbpswAABg7TJ9bGxoOi1SNJWGhLDaK8Y_wS8TGBIHDFjBCj9vu8LOsFP1NJ12ge_h-_3XXLvm48sf7ZwdNqvVOI6Pl76_mOpR9e0qH-ZOrVRuTJGrZvP89Rl-P6tteFfB600FCbOW7whIKU9zX3vI05Fg-M6h7NLQUSVcjJc9qPbWnYCeU5_8rExAWVRSZUpImSOykb2IOKWRGchC4upAJtbu4Rvf12hnEFswFA1-TdqJpgd3ll3wVLXDnIHjxD2I8sjMuDVjLqakMmUga-LRhvuYOYbgy4RCeyugjZNOHhG0g2hlnzUQZL7uOX1x5aL98hS_0xTWObOMGCmZb66Kxkgd1nF-kAiH7sc_f11AjUNdhjhiMDvxawHWADXaz1qXoEXPmfgWoKC_JowsqjYt8yZcACfeaAMyMXos0hkLjS6XOMT18QnviJ8kD2d13_oP_6-3v86t29hbf_kEdqSNzQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJGVTBNalIxZFdoUmRYRmlhbFZKWjBoaVFUTTRhSEJzZUhSWE4xRkJORWx5VG5aemVXODJlV2xUWjJWQ1NrWjJNVnBsU21OeU0waEVWbXhYUkVKZlJtWkhNbGMwWlc5VWRYVXdlbTVCWkdWS1duTkRZbXRaWm5CSmR4SVhSRFIxTldGMVltOU9kREpJZDJKclVETTRjbUZ2UVRBYUlrRkVjM0k1WmxGWmNGUlpSazFVWjFaMFpsbHpOVkU1TjFKcGEzRlBlRGhIYTBFIiwiZmN2IjoiMyIsImVpIjoiRDR1NWF1Ym9OdDJId2JrUDM4cmFvQTAiLCJxYyI6IkNpVm9iM2NnYlhWamFDQmtiMlZ6SUdFZ01YUmlJSE56WkNCamIzTjBJR2x1SUdsdVpHbGhFQUI5NXBjTlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIDFUQiBsYXB0b3Agd2l0aCBTU0QgaW4gSW5kaWE%2FIiwibGsiOiJHaGxzWVhCMGIzQWdNWFJpSUhCeWFXTmxJR2x1SUdsdVpHbGgiLCJicyI6ImMzMk93UXFDUUJpRTZmcWZ1clpsVGs4UVNYY2hDdXFhUWVmTjNmZ1h6QlYzemRjdnJjd0t1czU4OHpFVVU3QzFOUzVWeW5Cc3EweGhjVmdoU2RaSXJmTnhOQlVUX2diOENjNnBGcUFOb1JNb3ExMDNoY214eTVXUmNUUVRJWDh3cjNYRG1JYWhQYzJQTE8tQmcyZU5valNwaGoxRHRuZFlsZ3FxTkZmZHM0WWk2T1hOcWNlcWN5YTBfT1BNWk9GdGdkcDRiai1feFdNeGVwYV8wdUhnQmciLCJpZCI6ImZjX0Q0dTVhdWJvTnQySHdia1AzOHJhb0EwXzUifQ%3D%3D",
+    "type": "ai_overview"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "How much does a 1TB SSD cost in India?",
-   "time_taken_displayed": 0.22,
-   "total_results": 104
+   "time_taken_displayed": 0.5,
+   "total_results": 124000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:55:33 UTC",
+   "created_at": "2026-09-27 21:30:55 UTC",
    "google_url": "https://www.google.com/search?q=How+much+does+a+1TB+SSD+cost+in+India%3F&oq=How+much+does+a+1TB+SSD+cost+in+India%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc9b5a68855e826e8e893",
-   "json_endpoint": "https://serpapi.com/searches/v8V28jbyUGnZEE5_96w2fg5otp6obdBjddIZQpt1U1s/6aafc9b5a68855e826e8e893.json",
-   "markdown_endpoint": "https://serpapi.com/searches/v8V28jbyUGnZEE5_96w2fg5otp6obdBjddIZQpt1U1s/6aafc9b5a68855e826e8e893.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/v8V28jbyUGnZEE5_96w2fg5otp6obdBjddIZQpt1U1s/6aafc9b5a68855e826e8e893.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:55:33 UTC",
-   "raw_html_file": "https://serpapi.com/searches/v8V28jbyUGnZEE5_96w2fg5otp6obdBjddIZQpt1U1s/6aafc9b5a68855e826e8e893.html",
+   "id": "6ab98b0f97012132e112c1f4",
+   "json_endpoint": "https://serpapi.com/searches/K4Pt3Y1JzAw1231LhQAIju3scWe4Rzv7Od5KLm-mYpE/6ab98b0f97012132e112c1f4.json",
+   "markdown_endpoint": "https://serpapi.com/searches/K4Pt3Y1JzAw1231LhQAIju3scWe4Rzv7Od5KLm-mYpE/6ab98b0f97012132e112c1f4.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/K4Pt3Y1JzAw1231LhQAIju3scWe4Rzv7Od5KLm-mYpE/6ab98b0f97012132e112c1f4.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:30:55 UTC",
+   "raw_html_file": "https://serpapi.com/searches/K4Pt3Y1JzAw1231LhQAIju3scWe4Rzv7Od5KLm-mYpE/6ab98b0f97012132e112c1f4.html",
    "status": "Success",
-   "total_time_taken": 0.38
+   "total_time_taken": 0.79
   },
   "search_parameters": {
    "device": "desktop",
@@ -389,15 +461,10 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=20",
     "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=80"
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+a+1TB+SSD+cost+in+India%3F&start=40"
    }
   }
  },

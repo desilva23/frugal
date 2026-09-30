@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 823.212,
+ "elapsed_ms": 2024.882,
  "engine": "google",
- "fetched_at": "2026-09-20T12:00:55.100335+00:00",
+ "fetched_at": "2026-09-30T15:15:01.251215+00:00",
  "frugal_cache_version": 1,
  "key": "7f64df510d87c9e74e2f2f66b15a0218f285c0b5c2c69554355212bf912a503e",
  "params": {
@@ -10,270 +10,322 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "k6KTC3iczVXZcqpIGH6AeY7xJongEsVUUaeaphU3FLMYc0PJYoMCbWiV6N28wDzFPNU8zTRLFBJN5pyLqfmr2u6G33__-P74y3OD1d-__elsNmt6x3FRFJUxIdizyybxuTndBya3IB4NTecHJdvQtF1LNJ2Q-HZpvxNrJZOKfMl2xRZ93c1ft01la3u3Khm_UYNGGl9KTIi6Maf2knl4W1JO59jP6veazC5lWraD8nZBX-RWxXoYCOUqX2mVR9zcZwrgvxOkYSneewBeVmKv0PemYgNdIKGcpS7AyS6dtGbpa6glryC-aE1KfU4SdY0tWT8okcyeZvWRL_6XuZAK1yiJBYAoiVIC7vfZ5ETLcnnP64tKHbWLklWPnJ7ke1yItSA4KlzbLAodQHhyknfGTDqFMI6VMjEQFCLJEni8HDerT78LbldAQ-dSyIuGnurHzg1mHfaEszAbXJ4zQrZVONd0zOQQ0nie4UOLJ0rb3r-1pemUj2xHUnQzPNwslR46WDuNMw2m55G5ZVu6o_M_knulWrnlW7WmcJ0AyaRHJNE8ksZga9wPnLp7AOVBWaq8wwimTQe5jqUHxDbY_ZQ-68R9pnGmxbnBjhuGUjWtnVNBWSslAAlAE1BsbX8c17VzCkU6sNbkNU5e4-H_DKNUcE4ZTtJAuuSUBMhrQ9DJQTfX2C4495n5mLemnI7yJ8UCAFkoYAXeZ3320fIMaBCjGAMQKVJWNfNkI4aXmy9AFjAC7AuV3dAxQJQp5WKKS9DVwBB0EbPpPnbZhOJ4VtNA42HIfLXRB8RdGPgZczOF_-bTd0ak70AUi_aOlw_jX4DNW69uw14o8IJaQWvqdCxCgqGnhQ18HibEN36Cccz_FZBSPkIZH10GEvoeSAkfSV_wUXKeHYEUDy8kF4Ekdc7z0fAsHxXzhmCSB9LXfPTTQIJfAimdw7NAIueBtL4IJBx9BFKRj9B5PjoC6Vf4SPpFPkpwZadbkZy2S3yZpJoYDpWF39BHG4BhoC0fay_6YTJYBuBbklr4mzt_bnnXumvdSdXeZm9d6-wBubOt0qvoEM-iV-v5xg429MoMXboOr7Ad2Fe25W7cAJd8LyQiP28c-mrz1nWos9rWRn116-6QfOh3Xp6bymJhUGyo1b7csHumumiPXlzhefHUm-75xutop4L1oC7XotFbF0-C52jFG9t1dauBkDSEmVsHz7hF98LTU6C2vN76QVXWY2H0tKQ-oIKhTpvoBvu6HoxJrTe-34WuEMrL5xstiY2K03vNpp629_RhyQ9NkfW-joGqgSlmQwiT4WSLsBWx1WC9kUrUnOs23YmtWtW0a83mwuAF02pZJR9v9muxxZdoEIqVfwAyOUb8",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=k6KTC3iczVXZcqpIGH6AeY7xJongEsVUUaeaphU3FLMYc0PJYoMCbWiV6N28wDzFPNU8zTRLFBJN5pyLqfmr2u6G33__-P74y3OD1d-__elsNmt6x3FRFJUxIdizyybxuTndBya3IB4NTecHJdvQtF1LNJ2Q-HZpvxNrJZOKfMl2xRZ93c1ft01la3u3Khm_UYNGGl9KTIi6Maf2knl4W1JO59jP6veazC5lWraD8nZBX-RWxXoYCOUqX2mVR9zcZwrgvxOkYSneewBeVmKv0PemYgNdIKGcpS7AyS6dtGbpa6glryC-aE1KfU4SdY0tWT8okcyeZvWRL_6XuZAK1yiJBYAoiVIC7vfZ5ETLcnnP64tKHbWLklWPnJ7ke1yItSA4KlzbLAodQHhyknfGTDqFMI6VMjEQFCLJEni8HDerT78LbldAQ-dSyIuGnurHzg1mHfaEszAbXJ4zQrZVONd0zOQQ0nie4UOLJ0rb3r-1pemUj2xHUnQzPNwslR46WDuNMw2m55G5ZVu6o_M_knulWrnlW7WmcJ0AyaRHJNE8ksZga9wPnLp7AOVBWaq8wwimTQe5jqUHxDbY_ZQ-68R9pnGmxbnBjhuGUjWtnVNBWSslAAlAE1BsbX8c17VzCkU6sNbkNU5e4-H_DKNUcE4ZTtJAuuSUBMhrQ9DJQTfX2C4495n5mLemnI7yJ8UCAFkoYAXeZ3320fIMaBCjGAMQKVJWNfNkI4aXmy9AFjAC7AuV3dAxQJQp5WKKS9DVwBB0EbPpPnbZhOJ4VtNA42HIfLXRB8RdGPgZczOF_-bTd0ak70AUi_aOlw_jX4DNW69uw14o8IJaQWvqdCxCgqGnhQ18HibEN36Cccz_FZBSPkIZH10GEvoeSAkfSV_wUXKeHYEUDy8kF4Ekdc7z0fAsHxXzhmCSB9LXfPTTQIJfAimdw7NAIueBtL4IJBx9BFKRj9B5PjoC6Vf4SPpFPkpwZadbkZy2S3yZpJoYDpWF39BHG4BhoC0fay_6YTJYBuBbklr4mzt_bnnXumvdSdXeZm9d6-wBubOt0qvoEM-iV-v5xg429MoMXboOr7Ad2Fe25W7cAJd8LyQiP28c-mrz1nWos9rWRn116-6QfOh3Xp6bymJhUGyo1b7csHumumiPXlzhefHUm-75xutop4L1oC7XotFbF0-C52jFG9t1dauBkDSEmVsHz7hF98LTU6C2vN76QVXWY2H0tKQ-oIKhTpvoBvu6HoxJrTe-34WuEMrL5xstiY2K03vNpp629_RhyQ9NkfW-joGqgSlmQwiT4WSLsBWx1WC9kUrUnOs23YmtWtW0a83mwuAF02pZJR9v9muxxZdoEIqVfwAyOUb8"
+   "page_token": "dvPdsHiczVXdkqI4FH6AfY71prsFWkelq6ipJKITtVHEn3VuKAwYEZRugqJzty-xT7BPtU-zAcVGW7pr5mJrTwkxycn5yTkf359_--7G--e3v5ZR9MKeBCGO4zINAuo7ZRKsBYsdNkRYBD4LyfIrC7YhcVxbIcswWDulw06plAhTxJLjKjZyZGtrmkCeBhLTBzRqih7ApdSEYs4t5qy4h_2KCabAX97vlSaflFnZj8rj4XinTozIf22UH0VJLvcFa80VwH8ougowgHw8DkWCAFA_N5ao6AAltjKh6G0r2QSgebSX-KTpYrfQJU5OQbDk9lLVQXX_Zcn4n3GmZBRHnPiaZZM4HSA8ejSSoOjn-ZwEgtPVQP0cWqHg28vHkyjndPZu95Y8vwumWQW6DrMQrqpi5LOCapJlosEv46G5BzB2Cy77dID_RuCbF3ycYiIBwo3sOkCL8aJiwaa8eUVhHvJBElyyJOmfkCU9jUayGLTrbbJ_nTbJgTgdaTEVX_G-C1rt_XRGBTLnen5g2Y5tLk3xazqXHqUvolypN-5TMBF2RhPLo6kfDGPtVZLZs1rulaGUQQmdC3KVkMrn6Fat-M2iWwdSoTkc5A67KN9NWXOe2vuiI6iKB8nYzhb6vKAAkjz0MgfJ8VtQOiqdWyaFUtpY-Djit-NnlTEGOLNEL1rfe5_lu-8AQiA-tqvezGycotSvrgkBA_O9bPXKlA6Bu1STtKDB82GpGrnof1EdvqWMMiNJw6uZyzdz6RvnoIR4f6O047XEioeoBzEPFoLjvdAUFKccrsqv5sGUiwjxHOG4GKIfCS36HlwIzjBzBYE8dL5BrAXdnQo2UT1qT7_D3QOu9Wq-taDxbagE6_lPMA_5f4Ep46XxiZeKwaR-DqbkO_gRL6mXvGQcwdQtBpOK8ZmXaI6XxEzpjZeuwYSMHJiOvERh6zYv_SyY0Adgwh-BKcn0Fpj0QjA9gyswda556QJMZ17KwPRrvIR_jZdSbDnH4ZKktitaSFYq6YbkAIeDDda0vjFqVOrmBHrhqMfiT8lqsY6e1pbt35uu_QQfO9HBvjf5QvDk2KVXZRn4Nrt7sSJnE7E7ErrsJbyjzsa5c2w3cje0tPbDQBGtmttnnarTeqx7m4UmDR-2eDluVj1epsaqu3jeGsCsg7nkwpXveocVCxtSc4Jo5YfhD_XBvL7vthv77U7Tqr2-ozq9yq66bMcq6zTcWUy7O2cte51Gez4YDTeHaRBqFtut7JYs_9EKVg9d5PfsmVb78hKbZk8TQRoXU6Lm98lkpM8nklpah0ThZalSoOlgSnkLohnnBcqfgD8xf2ocz7DEiGU6bKfMRSJbjUenRkhdXkiL0ppGhxdFFktsEyrSv0UbSGU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dvPdsHiczVXdkqI4FH6AfY71prsFWkelq6ipJKITtVHEn3VuKAwYEZRugqJzty-xT7BPtU-zAcVGW7pr5mJrTwkxycn5yTkf359_--7G--e3v5ZR9MKeBCGO4zINAuo7ZRKsBYsdNkRYBD4LyfIrC7YhcVxbIcswWDulw06plAhTxJLjKjZyZGtrmkCeBhLTBzRqih7ApdSEYs4t5qy4h_2KCabAX97vlSaflFnZj8rj4XinTozIf22UH0VJLvcFa80VwH8ougowgHw8DkWCAFA_N5ao6AAltjKh6G0r2QSgebSX-KTpYrfQJU5OQbDk9lLVQXX_Zcn4n3GmZBRHnPiaZZM4HSA8ejSSoOjn-ZwEgtPVQP0cWqHg28vHkyjndPZu95Y8vwumWQW6DrMQrqpi5LOCapJlosEv46G5BzB2Cy77dID_RuCbF3ycYiIBwo3sOkCL8aJiwaa8eUVhHvJBElyyJOmfkCU9jUayGLTrbbJ_nTbJgTgdaTEVX_G-C1rt_XRGBTLnen5g2Y5tLk3xazqXHqUvolypN-5TMBF2RhPLo6kfDGPtVZLZs1rulaGUQQmdC3KVkMrn6Fat-M2iWwdSoTkc5A67KN9NWXOe2vuiI6iKB8nYzhb6vKAAkjz0MgfJ8VtQOiqdWyaFUtpY-Djit-NnlTEGOLNEL1rfe5_lu-8AQiA-tqvezGycotSvrgkBA_O9bPXKlA6Bu1STtKDB82GpGrnof1EdvqWMMiNJw6uZyzdz6RvnoIR4f6O047XEioeoBzEPFoLjvdAUFKccrsqv5sGUiwjxHOG4GKIfCS36HlwIzjBzBYE8dL5BrAXdnQo2UT1qT7_D3QOu9Wq-taDxbagE6_lPMA_5f4Ep46XxiZeKwaR-DqbkO_gRL6mXvGQcwdQtBpOK8ZmXaI6XxEzpjZeuwYSMHJiOvERh6zYv_SyY0Adgwh-BKcn0Fpj0QjA9gyswda556QJMZ17KwPRrvIR_jZdSbDnH4ZKktitaSFYq6YbkAIeDDda0vjFqVOrmBHrhqMfiT8lqsY6e1pbt35uu_QQfO9HBvjf5QvDk2KVXZRn4Nrt7sSJnE7E7ErrsJbyjzsa5c2w3cje0tPbDQBGtmttnnarTeqx7m4UmDR-2eDluVj1epsaqu3jeGsCsg7nkwpXveocVCxtSc4Jo5YfhD_XBvL7vthv77U7Tqr2-ozq9yq66bMcq6zTcWUy7O2cte51Gez4YDTeHaRBqFtut7JYs_9EKVg9d5PfsmVb78hKbZk8TQRoXU6Lm98lkpM8nklpah0ThZalSoOlgSnkLohnnBcqfgD8xf2ocz7DEiGU6bKfMRSJbjUenRkhdXkiL0ppGhxdFFktsEyrSv0UbSGU"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjlpQjVaN0dGY0lqZFY2SS1vaF93QVNQSVh3cmUyTHRvaGEtaE5Yb0VCOWNQNk83ekhhelhZUDhrUFNaUWlaNFVOWFNGVmxsUUJxWVFLRWNXeFhfOUZTSmxiRDVWQnd3eG5rVV9uUFBpM0J2WjBRdjhtQUZ1ZEV2czFxdWRDODgSBBoCCAAa_gUSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDYBQgAEAAYACAAKjUKBWhvbGRzFQAAAAAaA2hhcxoEaG9sZBoIaXY7ZDtoYXMaCWl2O2Q7aG9sZBoHaG9sZGluZyojCgdwYXRlbnRzFUNYWD8aBnBhdGVudBoLaXY7ZDtwYXRlbnQqDQoGY3Jpc3ByFaQ3bUAqdAoEZ2VuZRWnGO4_GgdnZW5ldGljGgZnZW5vbWUaBWdlbsSXGgZnxJduxJcaC2dlbmVlZGl0aW5nGglpdjtkO2dlbmUaCGl2O2Q7ZG5hGgppdjtkO2dlbmVzGgxpdjtkO2dlbmV0aWMaC2l2O2Q7Z2Vub21lKlEKB2VkaXRpbmcVMKFgPxoLZ2VuZWVkaXRpbmcaDGl2O2Q7ZWRpdGluZxoLaXY7ZDtlZGl0ZWQaC2l2O2Q7ZWRpdG9yGgxpdjtkO3RoZXJhcHkylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWOWlCNVo3R0ZjSWpkVjZJLW9oX3dBU1BJWHdyZTJMdG9oYS1oTlhvRUI5Y1A2Tzd6SGF6WFlQOGtQU1pRaVo0VU5YU0ZWbGxRQnFZUUtFY1d4WF85RlNKbGJENVZCd3d4bmtVX25QUGkzQnZaMFF2OG1BRnVkRXZzMXF1ZEM4ODo4PGI-Q1JJU1BSPC9iPiBDYXM5IC0gTGljZW5zaW5nIHRoZSB1bmxpY2Vuc2FibGUgLSBQdWJNZWRCwgFUaGUgdGVjaG5vbG9neSBiZWFycyB0aGUgY3J5cHRpYyBuYW1lICZxdW90OzxiPkNSSVNQUjwvYj4gQ2FzOSZxdW90OywgYW5kIGFsbG93cyB0aGUgbWFuaXB1bGF0aW9uIG9mIGdlbmVzIChzbyBjYWxsZWQgJnF1b3Q7PGI-Z2VuZSBlZGl0aW5nPC9iPiZxdW90Oykgd2l0aCBzbyBmYXIgdW5zZWVuIHNpbXBsaWNpdHkgYW5kIGVmZmljYWN5LlIDaGFzIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjlpQjVaN0dGY0lqZFY2SS1vaF93QVNQSVh3cmUyTHRvaGEtaE5Yb0VCOWNQNk83ekhhelhZUDhrUFNaUWlaNFVOWFNGVmxsUUJxWVFLRWNXeFhfOUZTSmxiRDVWQnd3eG5rVV9uUFBpM0J2WjBRdjhtQUZ1ZEV2czFxdWRDODgSBBoCCAAa_gUSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDYBQgAEAAYACAAKjUKBWhvbGRzFQAAAAAaA2hhcxoEaG9sZBoIaXY7ZDtoYXMaCWl2O2Q7aG9sZBoHaG9sZGluZyojCgdwYXRlbnRzFUNYWD8aBnBhdGVudBoLaXY7ZDtwYXRlbnQqDQoGY3Jpc3ByFaQ3bUAqdAoEZ2VuZRWnGO4_GgdnZW5ldGljGgZnZW5vbWUaBWdlbsSXGgZnxJduxJcaC2dlbmVlZGl0aW5nGglpdjtkO2dlbmUaCGl2O2Q7ZG5hGgppdjtkO2dlbmVzGgxpdjtkO2dlbmV0aWMaC2l2O2Q7Z2Vub21lKlEKB2VkaXRpbmcVMKFgPxoLZ2VuZWVkaXRpbmcaDGl2O2Q7ZWRpdGluZxoLaXY7ZDtlZGl0ZWQaC2l2O2Q7ZWRpdG9yGgxpdjtkO3RoZXJhcHkylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWOWlCNVo3R0ZjSWpkVjZJLW9oX3dBU1BJWHdyZTJMdG9oYS1oTlhvRUI5Y1A2Tzd6SGF6WFlQOGtQU1pRaVo0VU5YU0ZWbGxRQnFZUUtFY1d4WF85RlNKbGJENVZCd3d4bmtVX25QUGkzQnZaMFF2OG1BRnVkRXZzMXF1ZEM4ODo4PGI-Q1JJU1BSPC9iPiBDYXM5IC0gTGljZW5zaW5nIHRoZSB1bmxpY2Vuc2FibGUgLSBQdWJNZWRCwgFUaGUgdGVjaG5vbG9neSBiZWFycyB0aGUgY3J5cHRpYyBuYW1lICZxdW90OzxiPkNSSVNQUjwvYj4gQ2FzOSZxdW90OywgYW5kIGFsbG93cyB0aGUgbWFuaXB1bGF0aW9uIG9mIGdlbmVzIChzbyBjYWxsZWQgJnF1b3Q7PGI-Z2VuZSBlZGl0aW5nPC9iPiZxdW90Oykgd2l0aCBzbyBmYXIgdW5zZWVuIHNpbXBsaWNpdHkgYW5kIGVmZmljYWN5LlIDaGFzIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "One year on pretty girl avenue…. ! mans best friend holds such a special place in my heart and these songs have brought endless magic to my ...",
-      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-      "source_info_link": "https://www.instagram.com/p/Dcokp8sGvGt/"
+      "description": "The technology bears the cryptic name \"CRISPR Cas9\", and allows the manipulation of genes (so called \"gene editing\") with so far unseen simplicity and efficacy.",
+      "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADwBQCdASocABwAPtEutFooIagoGAEAGglqAMixoDbACnj3QCsi13AWY3jeSE8kXP3gnmhDP-Tq6AD-7mZvnFWx8hQbIAfk_Mjv1fLFmJs8KMfz0xoKMg2DX5G-fIAVazcuRcfzsMHHeLK3e9dDbEu2AkjC1Rp4hri-ebcTjChh979xV8qr_g1mV1ina4f20Q9WfvPos1XgikAzAskx5av_ool21lDb_YbtxKbFfJR3N44z-NqP7_2W-z7P41dtxt2uN8GCtz47XdezCj77stKS9_ArCtCRq29enrahYEZ8ekz3R4Xp5fp0eFYAAA.webp",
+      "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/29154806/"
      }
     },
-    "date": "Aug 29, 2026",
-    "displayed_link": "https://www.instagram.com › ...",
-    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "link": "https://www.instagram.com/p/Dcokp8sGvGt/",
+    "author": "cituojant U Storz",
+    "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADwBQCdASocABwAPtEutFooIagoGAEAGglqAMixoDbACnj3QCsi13AWY3jeSE8kXP3gnmhDP-Tq6AD-7mZvnFWx8hQbIAfk_Mjv1fLFmJs8KMfz0xoKMg2DX5G-fIAVazcuRcfzsMHHeLK3e9dDbEu2AkjC1Rp4hri-ebcTjChh979xV8qr_g1mV1ina4f20Q9WfvPos1XgikAzAskx5av_ool21lDb_YbtxKbFfJR3N44z-NqP7_2W-z7P41dtxt2uN8GCtz47XdezCj77stKS9_ArCtCRq29enrahYEZ8ekz3R4Xp5fp0eFYAAA.webp",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/29154806/",
     "position": 1,
-    "read_more_link": "https://www.instagram.com/p/Dcokp8sGvGt/#:~:text=One%20year%20on%20pretty%20girl,endless%20magic%20to%20my%20world.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVexKJXHdovovyVIkUNpspLRVO4dACWxIjlIx7gpM7JcCgPFOvBrLSIWpNRu8m3SMd1VTsqLokqG36P6UjSFSt6TsXh72tisQGEX7WzXfch71FCjHRqv9yjPMa7w&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQFnoECBkQAQ&uoh=1",
-    "snippet": "One year on pretty girl avenue…. ! mans best friend holds such a special place in my heart and these songs have brought endless magic to my ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAV9iB5Z7GFcIjdV6I-oh_wASPIXwre2Ltoha-hNXoEB9cP6O7zHazXYP8kPSZQiZ4UNXSFVllQBqYQKEcWxX_9FSJlbD5VBwwxnkU_nPPi3BvZ0Qv8mAFudEvs1qudC88&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQFnoECCcQAQ&uoh=1",
+    "snippet": "The technology bears the cryptic name \"CRISPR Cas9\", and allows the manipulation of genes (so called \"gene editing\") with so far unseen simplicity and efficacy.",
     "snippet_highlighted_words": [
-     "holds"
+     "CRISPR",
+     "gene editing"
     ],
-    "source": "Instagram",
-    "title": "One year on pretty girl avenue…. ! mans best friend holds ..."
+    "source": "National Institutes of Health (NIH) | (.gov)",
+    "title": "CRISPR Cas9 - Licensing the unlicensable"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZiM2ZfeTZ1Y2FpdGo3RHJKcG5ZT0xMVm1FXzhld0lOcDRCU3VkZ0o0bFdhTHF3VEYtYWhvc1Nwa0I2ZUlyMjBBX1ozWFNTbkx6cUZYSUU0bjBlcGppVXh3V1Y0WktZdEdBR3owc2ZCN09WdmJwdTQ5X3VUV1VxcWJpWndJLU5VNTNYRmdCZ3JpeFkzVDByeFdTTGs3NlRWdm8xeHZZN2FNdXY2UlJQenA3WWYtN19nRXNxQUFHaVUSBBoCCAAamQYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA9QUIABAAGAAgACo1CgVob2xkcxUAAAAAGgNoYXMaBGhvbGQaCGl2O2Q7aGFzGglpdjtkO2hvbGQaB2hvbGRpbmcqIwoHcGF0ZW50cxUd8W4_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50Kg0KBmNyaXNwchW224BAKnQKBGdlbmUVFFJ0QBoHZ2VuZXRpYxoGZ2Vub21lGgVnZW7ElxoGZ8SXbsSXGgtnZW5lZWRpdGluZxoJaXY7ZDtnZW5lGghpdjtkO2RuYRoKaXY7ZDtnZW5lcxoMaXY7ZDtnZW5ldGljGgtpdjtkO2dlbm9tZSpRCgdlZGl0aW5nFWpvB0AaC2dlbmVlZGl0aW5nGgxpdjtkO2VkaXRpbmcaC2l2O2Q7ZWRpdGVkGgtpdjtkO2VkaXRvchoMaXY7ZDt0aGVyYXB5Ms4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZiM2ZfeTZ1Y2FpdGo3RHJKcG5ZT0xMVm1FXzhld0lOcDRCU3VkZ0o0bFdhTHF3VEYtYWhvc1Nwa0I2ZUlyMjBBX1ozWFNTbkx6cUZYSUU0bjBlcGppVXh3V1Y0WktZdEdBR3owc2ZCN09WdmJwdTQ5X3VUV1VxcWJpWndJLU5VNTNYRmdCZ3JpeFkzVDByeFdTTGs3NlRWdm8xeHZZN2FNdXY2UlJQenA3WWYtN19nRXNxQUFHaVU6QVRoZSA8Yj5DUklTUFIgUGF0ZW50PC9iPiBXYXJzIEhpdCBKYXBhbjogQSBIaWdoLVN0YWtlcyBCYXR0bGUgLi4uQp0BVGhlIGRpc2Nsb3N1cmUgb2YgYSA8Yj5wcm9ncmFtbWFibGUgQ1JJU1BSLUNhczkgZ2VuZSBlZGl0aW5nIHRvb2w8L2I-IHdhcyBhIHNlaXNtaWMgZXZlbnQuIEV2ZXJ5b25lIGluIHRoZSBmaWVsZCBpbW1lZGlhdGVseSByZWNvZ25pemVkIGl0cyBwcm9mb3VuZCZuYnNwOy4uLlIDaGFzIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZiM2ZfeTZ1Y2FpdGo3RHJKcG5ZT0xMVm1FXzhld0lOcDRCU3VkZ0o0bFdhTHF3VEYtYWhvc1Nwa0I2ZUlyMjBBX1ozWFNTbkx6cUZYSUU0bjBlcGppVXh3V1Y0WktZdEdBR3owc2ZCN09WdmJwdTQ5X3VUV1VxcWJpWndJLU5VNTNYRmdCZ3JpeFkzVDByeFdTTGs3NlRWdm8xeHZZN2FNdXY2UlJQenA3WWYtN19nRXNxQUFHaVUSBBoCCAAamQYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA9QUIABAAGAAgACo1CgVob2xkcxUAAAAAGgNoYXMaBGhvbGQaCGl2O2Q7aGFzGglpdjtkO2hvbGQaB2hvbGRpbmcqIwoHcGF0ZW50cxUd8W4_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50Kg0KBmNyaXNwchW224BAKnQKBGdlbmUVFFJ0QBoHZ2VuZXRpYxoGZ2Vub21lGgVnZW7ElxoGZ8SXbsSXGgtnZW5lZWRpdGluZxoJaXY7ZDtnZW5lGghpdjtkO2RuYRoKaXY7ZDtnZW5lcxoMaXY7ZDtnZW5ldGljGgtpdjtkO2dlbm9tZSpRCgdlZGl0aW5nFWpvB0AaC2dlbmVlZGl0aW5nGgxpdjtkO2VkaXRpbmcaC2l2O2Q7ZWRpdGVkGgtpdjtkO2VkaXRvchoMaXY7ZDt0aGVyYXB5Ms4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZiM2ZfeTZ1Y2FpdGo3RHJKcG5ZT0xMVm1FXzhld0lOcDRCU3VkZ0o0bFdhTHF3VEYtYWhvc1Nwa0I2ZUlyMjBBX1ozWFNTbkx6cUZYSUU0bjBlcGppVXh3V1Y0WktZdEdBR3owc2ZCN09WdmJwdTQ5X3VUV1VxcWJpWndJLU5VNTNYRmdCZ3JpeFkzVDByeFdTTGs3NlRWdm8xeHZZN2FNdXY2UlJQenA3WWYtN19nRXNxQUFHaVU6QVRoZSA8Yj5DUklTUFIgUGF0ZW50PC9iPiBXYXJzIEhpdCBKYXBhbjogQSBIaWdoLVN0YWtlcyBCYXR0bGUgLi4uQp0BVGhlIGRpc2Nsb3N1cmUgb2YgYSA8Yj5wcm9ncmFtbWFibGUgQ1JJU1BSLUNhczkgZ2VuZSBlZGl0aW5nIHRvb2w8L2I-IHdhcyBhIHNlaXNtaWMgZXZlbnQuIEV2ZXJ5b25lIGluIHRoZSBmaWVsZCBpbW1lZGlhdGVseSByZWNvZ25pemVkIGl0cyBwcm9mb3VuZCZuYnNwOy4uLlIDaGFzIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "We look at all the different types of holds, how to hold the hard ones like slopers and crimps, and technique for every hold in between ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=_I6910-LExE"
+      "description": "The disclosure of a programmable CRISPR-Cas9 gene editing tool was a seismic event. Everyone in the field immediately recognized its profound ...",
+      "icon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAAAQAgCdASoQABAAAsBMJaQAD48OXii_6FhgAP7tGJ8iHFnhzj5r76ur5t5EhXx3_w1__sM_npg0xn3_3QPbLjhR8e3fj-cVGmcHNrH3a2nwk8wYD0p7de1J-hEh6qtiMln-bkXqU_3Zvp32X-kdJQNHrtp180fUm21iSt69xp7NtkV8XekDYDJrnuQuCAAA.webp",
+      "source_info_link": "https://www.lexology.com/library/detail.aspx?g=75014009-8264-48e4-b04b-d000c3100c1a"
      }
     },
-    "date": "Mar 8, 2024",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=_I6910-LExE",
+    "date": "2025-07-18",
+    "displayed_link": "https://www.lexology.com › detail",
+    "favicon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAAAQAgCdASoQABAAAsBMJaQAD48OXii_6FhgAP7tGJ8iHFnhzj5r76ur5t5EhXx3_w1__sM_npg0xn3_3QPbLjhR8e3fj-cVGmcHNrH3a2nwk8wYD0p7de1J-hEh6qtiMln-bkXqU_3Zvp32X-kdJQNHrtp180fUm21iSt69xp7NtkV8XekDYDJrnuQuCAAA.webp",
+    "link": "https://www.lexology.com/library/detail.aspx?g=75014009-8264-48e4-b04b-d000c3100c1a",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV92jJVKedXAVjrLtzoK7Gn86J63_QQWa24GLVPtbL2MeqlnwjhZylzB_K3wjGsErMJ8k7KzA8ouU_k9dFlL4xo6Yq0OnI8JuaOruTz3hksb8v15nDVKNsj8zrWlXxWg&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQFnoECB0QAQ&uoh=1",
-    "snippet": "We look at all the different types of holds, how to hold the hard ones like slopers and crimps, and technique for every hold in between ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFb3f_y6ucaitj7DrJpnYOLLVmE_8ewINp4BSudgJ4lWaLqwTF-ahosSpkB6eIr20A_Z3XSSnLzqFXIE4n0epjiUxwWV4ZKYtGAGz0sfB7OVvbpu49_uTWUqqbiZwI-NU53XFgBgrixY3T0rxWSLk76TVvo1xvY7aMuv6RRPzp7Yf-7_gEsqAAGiU&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQFnoECCMQAQ&uoh=1",
+    "snippet": "The disclosure of a programmable CRISPR-Cas9 gene editing tool was a seismic event. Everyone in the field immediately recognized its profound ...",
     "snippet_highlighted_words": [
-     "how to hold the hard ones like slopers and crimps"
+     "programmable CRISPR-Cas9 gene editing tool"
     ],
-    "source": "YouTube",
-    "title": "COMPLETE Guide to CLIMBING HOLDS"
+    "source": "Lexology",
+    "title": "The CRISPR Patent Wars Hit Japan: A High-Stakes Battle ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZkS0dUZDRlQ2RXTjdGY0NsVHdzYWhpQVcwTkRld2RHWFJrS3ViaE4xc004bmFpbmFSdEp3OFMxUERDV1RleTZDR19ZSUQ3Y2htU3gtZjdOcUFTeF9ObjUyWFpiTnJaVFBoOHh1OVFVbjl2UnlBT3ExaUE3UExqMjU2cU9Ha2pNZXJROHdUS1liV202eFhEb1VxM0FOV05vbVNuYkJDU0lTS3VDTVktUmVRZUx1bkM4c05ncUIyck0SBBoCCAAapwYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAgwYIABAAGAAgACo1CgVob2xkcxXhwlw-GgNoYXMaBGhvbGQaCGl2O2Q7aGFzGglpdjtkO2hvbGQaB2hvbGRpbmcqIwoHcGF0ZW50cxWxFvo_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50Kg0KBmNyaXNwchV8y9BAKnQKBGdlbmUVGvXFPxoHZ2VuZXRpYxoGZ2Vub21lGgVnZW7ElxoGZ8SXbsSXGgtnZW5lZWRpdGluZxoJaXY7ZDtnZW5lGghpdjtkO2RuYRoKaXY7ZDtnZW5lcxoMaXY7ZDtnZW5ldGljGgtpdjtkO2dlbm9tZSpRCgdlZGl0aW5nFX2j5EAaC2dlbmVlZGl0aW5nGgxpdjtkO2VkaXRpbmcaC2l2O2Q7ZWRpdGVkGgtpdjtkO2VkaXRvchoMaXY7ZDt0aGVyYXB5Ms4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZkS0dUZDRlQ2RXTjdGY0NsVHdzYWhpQVcwTkRld2RHWFJrS3ViaE4xc004bmFpbmFSdEp3OFMxUERDV1RleTZDR19ZSUQ3Y2htU3gtZjdOcUFTeF9ObjUyWFpiTnJaVFBoOHh1OVFVbjl2UnlBT3ExaUE3UExqMjU2cU9Ha2pNZXJROHdUS1liV202eFhEb1VxM0FOV05vbVNuYkJDU0lTS3VDTVktUmVRZUx1bkM4c05ncUIyck06SFdoYXQgQXJlIHRoZSA8Yj5QYXRlbnQ8L2I-IENoYWxsZW5nZXMgU3Vycm91bmRpbmcgPGI-Q1JJU1BSPC9iPiBCYXNlIC4uLkKkAVRoZSA8Yj5wYXRlbnQ8L2I-IGxhbmRzY2FwZSBzdXJyb3VuZGluZyA8Yj5DUklTUFI8L2I-IGJhc2UgPGI-ZWRpdGluZzwvYj4gaXMgcGFydGljdWxhcmx5IGZyYWdtZW50ZWQsIHdpdGggb3ZlcmxhcHBpbmcgY2xhaW1zIGNyZWF0aW5nIGNvbW1lcmNpYWxpemF0aW9uIGNoYWxsZW5nZXMuUgNoYXMiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZkS0dUZDRlQ2RXTjdGY0NsVHdzYWhpQVcwTkRld2RHWFJrS3ViaE4xc004bmFpbmFSdEp3OFMxUERDV1RleTZDR19ZSUQ3Y2htU3gtZjdOcUFTeF9ObjUyWFpiTnJaVFBoOHh1OVFVbjl2UnlBT3ExaUE3UExqMjU2cU9Ha2pNZXJROHdUS1liV202eFhEb1VxM0FOV05vbVNuYkJDU0lTS3VDTVktUmVRZUx1bkM4c05ncUIyck0SBBoCCAAapwYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAgwYIABAAGAAgACo1CgVob2xkcxXhwlw-GgNoYXMaBGhvbGQaCGl2O2Q7aGFzGglpdjtkO2hvbGQaB2hvbGRpbmcqIwoHcGF0ZW50cxWxFvo_GgZwYXRlbnQaC2l2O2Q7cGF0ZW50Kg0KBmNyaXNwchV8y9BAKnQKBGdlbmUVGvXFPxoHZ2VuZXRpYxoGZ2Vub21lGgVnZW7ElxoGZ8SXbsSXGgtnZW5lZWRpdGluZxoJaXY7ZDtnZW5lGghpdjtkO2RuYRoKaXY7ZDtnZW5lcxoMaXY7ZDtnZW5ldGljGgtpdjtkO2dlbm9tZSpRCgdlZGl0aW5nFX2j5EAaC2dlbmVlZGl0aW5nGgxpdjtkO2VkaXRpbmcaC2l2O2Q7ZWRpdGVkGgtpdjtkO2VkaXRvchoMaXY7ZDt0aGVyYXB5Ms4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZkS0dUZDRlQ2RXTjdGY0NsVHdzYWhpQVcwTkRld2RHWFJrS3ViaE4xc004bmFpbmFSdEp3OFMxUERDV1RleTZDR19ZSUQ3Y2htU3gtZjdOcUFTeF9ObjUyWFpiTnJaVFBoOHh1OVFVbjl2UnlBT3ExaUE3UExqMjU2cU9Ha2pNZXJROHdUS1liV202eFhEb1VxM0FOV05vbVNuYkJDU0lTS3VDTVktUmVRZUx1bkM4c05ncUIyck06SFdoYXQgQXJlIHRoZSA8Yj5QYXRlbnQ8L2I-IENoYWxsZW5nZXMgU3Vycm91bmRpbmcgPGI-Q1JJU1BSPC9iPiBCYXNlIC4uLkKkAVRoZSA8Yj5wYXRlbnQ8L2I-IGxhbmRzY2FwZSBzdXJyb3VuZGluZyA8Yj5DUklTUFI8L2I-IGJhc2UgPGI-ZWRpdGluZzwvYj4gaXMgcGFydGljdWxhcmx5IGZyYWdtZW50ZWQsIHdpdGggb3ZlcmxhcHBpbmcgY2xhaW1zIGNyZWF0aW5nIGNvbW1lcmNpYWxpemF0aW9uIGNoYWxsZW5nZXMuUgNoYXMiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Writing subversive essays or novels or editing underground journals would get one arrested; reading these banned works and quietly passing them ...",
-      "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp",
-      "source_info_link": "https://www.nytimes.com/2026/01/24/opinion/state-terror-has-arrived.html"
+      "description": "The patent landscape surrounding CRISPR base editing is particularly fragmented, with overlapping claims creating commercialization challenges.",
+      "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsALElQQoPyheAG8nFeB7MnwAcbbTS7WaVFUQ_r_B4ZVnBWIA0rw8AAP72AuYKDg3HcrIkZ1QFma1MuXpVqTvr0g9M64uSYfVQj09w4DCuSO9t5uMXPHn77mAOJ2LXc800x-8bWdvRWr2WKw5aM6RrrtFreFhjmASuGKbb9DGhYVerSCeDsBRcvG8G-1EHy83NLULalWP9pXzH14I0PUcM79rKHV352c68d-_ucD5100Ng-rUWNGx3rNGOxt8tTk77mJwNAgZvCup_l1Njt_0mjmt6R6lY6MuwpsjfRDB48oZ1c_rfvbSuF9fpc_n59XfeM3iBLiITKlnWnAq1ZkW9AO99ZAfXfSjUvvN9zVzVC2k6J-DZBnC0JINzbQrABgJmLGZS8P6NEOQJWvQGvG-AAAA.webp",
+      "source_info_link": "https://eureka.patsnap.com/report-patent-challenges-surrounding-crispr-base-editing"
      }
     },
-    "date": "Jan 24, 2026",
-    "displayed_link": "https://www.nytimes.com › 2026/01/24 › state-terror-h...",
-    "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp",
-    "link": "https://www.nytimes.com/2026/01/24/opinion/state-terror-has-arrived.html",
+    "date": "2025-10-10",
+    "displayed_link": "https://eureka.patsnap.com › report-...",
+    "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsALElQQoPyheAG8nFeB7MnwAcbbTS7WaVFUQ_r_B4ZVnBWIA0rw8AAP72AuYKDg3HcrIkZ1QFma1MuXpVqTvr0g9M64uSYfVQj09w4DCuSO9t5uMXPHn77mAOJ2LXc800x-8bWdvRWr2WKw5aM6RrrtFreFhjmASuGKbb9DGhYVerSCeDsBRcvG8G-1EHy83NLULalWP9pXzH14I0PUcM79rKHV352c68d-_ucD5100Ng-rUWNGx3rNGOxt8tTk77mJwNAgZvCup_l1Njt_0mjmt6R6lY6MuwpsjfRDB48oZ1c_rfvbSuF9fpc_n59XfeM3iBLiITKlnWnAq1ZkW9AO99ZAfXfSjUvvN9zVzVC2k6J-DZBnC0JINzbQrABgJmLGZS8P6NEOQJWvQGvG-AAAA.webp",
+    "link": "https://eureka.patsnap.com/report-patent-challenges-surrounding-crispr-base-editing",
     "position": 3,
-    "read_more_link": "https://www.nytimes.com/2026/01/24/opinion/state-terror-has-arrived.html#:~:text=Writing%20subversive%20essays%20or%20novels,to%20friends%20probably%20would%20not.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFc_OeS4RAkKYANWIM2iUIwxSBFa2goy4m6sBwviv45CxjkP8gDiaNUn2-1k2AEDUvSPXLDX79oSQildibIcOqyonD6aKNFItQjSYMrkwFqZT6nBJp-0Bg4ynFyrFxCuih6UXb5u3QLPmkcsWLfHWaqkDxW1VAps1Oc1yHw&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQFnoECBgQAQ&uoh=1",
-    "snippet": "Writing subversive essays or novels or editing underground journals would get one arrested; reading these banned works and quietly passing them ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFdKGTd4eCdWN7FcClTwsahiAW0NDewdGXRkKubhN1sM8nainaRtJw8S1PDCWTey6CG_YID7chmSx-f7NqASx_Nn52XZbNrZTPh8xu9QUn9vRyAOq1iA7PLj256qOGkjMerQ8wTKYbWm6xXDoUq3ANWNomSnbBCSISKuCMY-ReQeLunC8sNgqB2rM&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQFnoECCwQAQ&uoh=1",
+    "snippet": "The patent landscape surrounding CRISPR base editing is particularly fragmented, with overlapping claims creating commercialization challenges.",
     "snippet_highlighted_words": [
+     "patent",
+     "CRISPR",
      "editing"
     ],
-    "source": "The New York Times",
-    "title": "Opinion | State Terror Has Arrived"
+    "source": "Patsnap Eureka",
+    "title": "What Are the Patent Challenges Surrounding CRISPR ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZZNkRvV25ueVdub3pNWXRiLVNqNk04dWJMeXE1UkdLTzU5Y2tUVi1QdWxXbjdLek9nQkZhSHBBbW5OeElZdWpuNE42TzBlZHNYdlo0VnNRT2prXzg0MHJrdWVlM2tXanRJVDhjNE56eS1vU28xZVR3VHBmQjZsOUhyMXZCbzhmdU5nNWxnM29PZDdkUHlCWTgxVUNfSTBDQ05nYUcxOVY2WjVGeThuQlJSbDVTVmhna2NUalFua3hEallmdEZydnZUR01vQlBPanllU1FpQ3pQMzM4U2thOVhtNBIEGgIIABrJBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkClBggAEAAYACAAKjUKBWhvbGRzFQAAAAAaA2hhcxoEaG9sZBoIaXY7ZDtoYXMaCWl2O2Q7aG9sZBoHaG9sZGluZyojCgdwYXRlbnRzFXYgj0AaBnBhdGVudBoLaXY7ZDtwYXRlbnQqDQoGY3Jpc3ByFZ2plkAqdAoEZ2VuZRXxJ4JAGgdnZW5ldGljGgZnZW5vbWUaBWdlbsSXGgZnxJduxJcaC2dlbmVlZGl0aW5nGglpdjtkO2dlbmUaCGl2O2Q7ZG5hGgppdjtkO2dlbmVzGgxpdjtkO2dlbmV0aWMaC2l2O2Q7Z2Vub21lKlEKB2VkaXRpbmcVGaWTQBoLZ2VuZWVkaXRpbmcaDGl2O2Q7ZWRpdGluZxoLaXY7ZDtlZGl0ZWQaC2l2O2Q7ZWRpdG9yGgxpdjtkO3RoZXJhcHky8QEvZ290bz91cmw9Q0FFU3FBRUI2enN3Rlk2RG9Xbm55V25vek1ZdGItU2o2TTh1Ykx5cTVSR0tPNTlja1RWLVB1bFduN0t6T2dCRmFIcEFtbk54SVl1am40TjZPMGVkc1h2WjRWc1FPamtfODQwcmt1ZWUza1dqdElUOGM0Tnp5LW9TbzFlVHdUcGZCNmw5SHIxdkJvOGZ1Tmc1bGczb09kN2RQeUJZODFVQ19JMENDTmdhRzE5VjZaNUZ5OG5CUlJsNVNWaGdrY1RqUW5reERqWWZ0RnJ2dlRHTW9CUE9qeWVTUWlDelAzMzhTa2E5WG00OklXaG8gb3ducyA8Yj5nZW5lIGVkaXRpbmc8L2I-PyA8Yj5QYXRlbnRzPC9iPiBpbiB0aGUgdGltZSBvZiA8Yj5DUklTUFI8L2I-QqIBQnV0IHRoZSBwcm9taXNlIG9mIHRoZSB0ZWNobm9sb2d5IDxiPmhhczwvYj4gZ2VuZXJhdGVkIGEgPGI-cGF0ZW50PC9iPiBkaXNwdXRlIGFtb25nIHRoZSB0ZWNobm9sb2dpZXMmIzM5OyBjcmVhdG9yczogSmVubmlmZXIgRG91ZG5hIG9mIHRoZSBVbml2ZXJzaXR5IG9mJm5ic3A7Li4uUgNoYXMiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZZNkRvV25ueVdub3pNWXRiLVNqNk04dWJMeXE1UkdLTzU5Y2tUVi1QdWxXbjdLek9nQkZhSHBBbW5OeElZdWpuNE42TzBlZHNYdlo0VnNRT2prXzg0MHJrdWVlM2tXanRJVDhjNE56eS1vU28xZVR3VHBmQjZsOUhyMXZCbzhmdU5nNWxnM29PZDdkUHlCWTgxVUNfSTBDQ05nYUcxOVY2WjVGeThuQlJSbDVTVmhna2NUalFua3hEallmdEZydnZUR01vQlBPanllU1FpQ3pQMzM4U2thOVhtNBIEGgIIABrJBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkClBggAEAAYACAAKjUKBWhvbGRzFQAAAAAaA2hhcxoEaG9sZBoIaXY7ZDtoYXMaCWl2O2Q7aG9sZBoHaG9sZGluZyojCgdwYXRlbnRzFXYgj0AaBnBhdGVudBoLaXY7ZDtwYXRlbnQqDQoGY3Jpc3ByFZ2plkAqdAoEZ2VuZRXxJ4JAGgdnZW5ldGljGgZnZW5vbWUaBWdlbsSXGgZnxJduxJcaC2dlbmVlZGl0aW5nGglpdjtkO2dlbmUaCGl2O2Q7ZG5hGgppdjtkO2dlbmVzGgxpdjtkO2dlbmV0aWMaC2l2O2Q7Z2Vub21lKlEKB2VkaXRpbmcVGaWTQBoLZ2VuZWVkaXRpbmcaDGl2O2Q7ZWRpdGluZxoLaXY7ZDtlZGl0ZWQaC2l2O2Q7ZWRpdG9yGgxpdjtkO3RoZXJhcHky8QEvZ290bz91cmw9Q0FFU3FBRUI2enN3Rlk2RG9Xbm55V25vek1ZdGItU2o2TTh1Ykx5cTVSR0tPNTlja1RWLVB1bFduN0t6T2dCRmFIcEFtbk54SVl1am40TjZPMGVkc1h2WjRWc1FPamtfODQwcmt1ZWUza1dqdElUOGM0Tnp5LW9TbzFlVHdUcGZCNmw5SHIxdkJvOGZ1Tmc1bGczb09kN2RQeUJZODFVQ19JMENDTmdhRzE5VjZaNUZ5OG5CUlJsNVNWaGdrY1RqUW5reERqWWZ0RnJ2dlRHTW9CUE9qeWVTUWlDelAzMzhTa2E5WG00OklXaG8gb3ducyA8Yj5nZW5lIGVkaXRpbmc8L2I-PyA8Yj5QYXRlbnRzPC9iPiBpbiB0aGUgdGltZSBvZiA8Yj5DUklTUFI8L2I-QqIBQnV0IHRoZSBwcm9taXNlIG9mIHRoZSB0ZWNobm9sb2d5IDxiPmhhczwvYj4gZ2VuZXJhdGVkIGEgPGI-cGF0ZW50PC9iPiBkaXNwdXRlIGFtb25nIHRoZSB0ZWNobm9sb2dpZXMmIzM5OyBjcmVhdG9yczogSmVubmlmZXIgRG91ZG5hIG9mIHRoZSBVbml2ZXJzaXR5IG9mJm5ic3A7Li4uUgNoYXMiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Even at a high level, you have to cut both ends of the 2x12s at the correct angles; then screw in some u-brackets to the main floor to hold the ...",
-      "icon": "https://serpapi.com/images/i/UklGRoABAABXRUJQVlA4IHQBAACQCACdASogACAAPtEutFooIagoGAEAGglnAM2ICB2A1gYxJmY1APKO9Uv7Hexn-sC4W-ScunCRScakQn96gvjudesl-ELPxYD8NtLNQAD-_sOYrl_5F5Ff9Y3oZv3v6QbvQyGGe5A9_jsLUR3yegDCVt-Yz8d9X7LSJEdr6bf-kouzpNhAZWNZsVtLfgMZ8_ziHQ1nYRIAKxh0Gb_vW5oYsrpKdbZG4P5xImCsNnXmmTFz-q6kltvA6CxNqZKY3IMPU3kHWo-jLVqvGg-28O6U_cu-C1N8v49V32AEhBhGgslMb3-00lX2J17be1wXmawjMq23WEkBgDKCe2qoJKSitn0MfGEk4GpgZiGMhzLtAHlvPhK5BXPcrf5P7IFZxpi2k3sM5kBgR70mzCVDGpP7ahSHYm-3d7EI_qZvYVGp7nJ6eBXjcBkg5d0ZHDYuOcIcO5tMo2q6hahnuzc4dNZgz0uAN5m4GQnH4pfe6PInPn6AAAA.webp",
-      "source_info_link": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
+      "description": "But the promise of the technology has generated a patent dispute among the technologies' creators: Jennifer Doudna of the University of ...",
+      "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAABQBQCdASogACAAPtE-tFooIigoFAEAGglAAHy9px798TG_p44iORGYzD3MVPSf9go-N4AA_v0rYVH_4VJtP_Z4Lg6r7O9eLgy6porfSf-GpVJaHv-6Xy_AeGMVrG9JAY1pzsSqjTv2TLP5vkjH9BPxNaCxXUQfdjdADbixpxvHxaeZiFtZjFoBnb0XvwTmw-XW6Fxt3mD7ulQ5HWAsVei-8t-Oxi8Jig3n82UpQ7V3DCAHpksEqHDEHkY6h6I3bPp41PHaJYy8wOskoNx7nCyUtX29VSpGgAA.webp",
+      "source_info_link": "https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1024&context=fac_other_pubs"
      }
     },
-    "date": "May 13, 2017",
-    "displayed_link": "https://johnsalvatier.org › blog › reality-has-a-surprising-...",
-    "favicon": "https://serpapi.com/images/i/UklGRoABAABXRUJQVlA4IHQBAACQCACdASogACAAPtEutFooIagoGAEAGglnAM2ICB2A1gYxJmY1APKO9Uv7Hexn-sC4W-ScunCRScakQn96gvjudesl-ELPxYD8NtLNQAD-_sOYrl_5F5Ff9Y3oZv3v6QbvQyGGe5A9_jsLUR3yegDCVt-Yz8d9X7LSJEdr6bf-kouzpNhAZWNZsVtLfgMZ8_ziHQ1nYRIAKxh0Gb_vW5oYsrpKdbZG4P5xImCsNnXmmTFz-q6kltvA6CxNqZKY3IMPU3kHWo-jLVqvGg-28O6U_cu-C1N8v49V32AEhBhGgslMb3-00lX2J17be1wXmawjMq23WEkBgDKCe2qoJKSitn0MfGEk4GpgZiGMhzLtAHlvPhK5BXPcrf5P7IFZxpi2k3sM5kBgR70mzCVDGpP7ahSHYm-3d7EI_qZvYVGp7nJ6eBXjcBkg5d0ZHDYuOcIcO5tMo2q6hahnuzc4dNZgz0uAN5m4GQnH4pfe6PInPn6AAAA.webp",
-    "link": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+    "author": "cituojant CRIS Palindromic",
+    "displayed_link": "https://digitalcommons.nyls.edu › cgi › viewcontent",
+    "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAABQBQCdASogACAAPtE-tFooIigoFAEAGglAAHy9px798TG_p44iORGYzD3MVPSf9go-N4AA_v0rYVH_4VJtP_Z4Lg6r7O9eLgy6porfSf-GpVJaHv-6Xy_AeGMVrG9JAY1pzsSqjTv2TLP5vkjH9BPxNaCxXUQfdjdADbixpxvHxaeZiFtZjFoBnb0XvwTmw-XW6Fxt3mD7ulQ5HWAsVei-8t-Oxi8Jig3n82UpQ7V3DCAHpksEqHDEHkY6h6I3bPp41PHaJYy8wOskoNx7nCyUtX29VSpGgAA.webp",
+    "link": "https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1024&context=fac_other_pubs",
     "position": 4,
-    "read_more_link": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail#:~:text=Even%20at%20a%20high%20level%2C,main%20floor%20to%20hold%20the",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFUQBhr5qksoiKvYFwttU8cPL8VBPCY5jzAMsA1SCFU-MjBvMbX78Zh7IVvxNGXl4mQ2pwi5B48IlE4ENw4UY2zuGTiIMDxPETMBKgR_sKvRlVbXhhZQr2RRoXYMooCI3A43tWpeithvEJzISx3cuXN8GUyudgzD-F8LbNXjxXJRP&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQFnoECBYQAQ&uoh=1",
-    "snippet": "Even at a high level, you have to cut both ends of the 2x12s at the correct angles; then screw in some u-brackets to the main floor to hold the ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqAEB6zswFY6DoWnnyWnozMYtb-Sj6M8ubLyq5RGKO59ckTV-PulWn7KzOgBFaHpAmnNxIYujn4N6O0edsXvZ4VsQOjk_840rkuee3kWjtIT8c4Nzy-oSo1eTwTpfB6l9Hr1vBo8fuNg5lg3oOd7dPyBY81UC_I0CCNgaG19V6Z5Fy8nBRRl5SVhgkcTjQnkxDjYftFrvvTGMoBPOjyeSQiCzP338Ska9Xm4&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQFnoECCUQAQ&uoh=1",
+    "snippet": "But the promise of the technology has generated a patent dispute among the technologies' creators: Jennifer Doudna of the University of ...",
     "snippet_highlighted_words": [
-     "hold"
+     "has",
+     "patent"
     ],
-    "source": "John Salvatier",
-    "title": "Reality has a surprising amount of detail"
+    "source": "Digital Commons @ NYLS",
+    "title": "Who owns gene editing? Patents in the time of CRISPR"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjRodHRwczovL3BhdGVudHMuZ29vZ2xlLmNvbS9wYXRlbnQvVVMyMDE4MDE4NzE3NkExL2VuEgQaAggAGpQFEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA7gQIABAAGAAgACo1CgVob2xkcxUAAAAAGgNoYXMaBGhvbGQaCGl2O2Q7aGFzGglpdjtkO2hvbGQaB2hvbGRpbmcqIwoHcGF0ZW50cxWYnClAGgZwYXRlbnQaC2l2O2Q7cGF0ZW50Kg0KBmNyaXNwchVeHUlAKnQKBGdlbmUV70ppPxoHZ2VuZXRpYxoGZ2Vub21lGgVnZW7ElxoGZ8SXbsSXGgtnZW5lZWRpdGluZxoJaXY7ZDtnZW5lGghpdjtkO2RuYRoKaXY7ZDtnZW5lcxoMaXY7ZDtnZW5ldGljGgtpdjtkO2dlbm9tZSpRCgdlZGl0aW5nFbZ-bj8aC2dlbmVlZGl0aW5nGgxpdjtkO2VkaXRpbmcaC2l2O2Q7ZWRpdGVkGgtpdjtkO2VkaXRvchoMaXY7ZDt0aGVyYXB5MjRodHRwczovL3BhdGVudHMuZ29vZ2xlLmNvbS9wYXRlbnQvVVMyMDE4MDE4NzE3NkExL2VuOjhVUzIwMTgwMTg3MTc2QTEgLSA8Yj5DcmlzcHI8L2I-L2NwZjEgc3lzdGVtcyBhbmQgbWV0aG9kc0K6AVRoZSBwcmVzZW50IGludmVudGlvbiBkZWZpbmVzIHRoZSBzaG9ydGVzdCBBc0NwZjEgZ3VpZGUgUk5BIHRoYXQgPGI-aGFzPC9iPiBmdWxsIHBvdGVuY3kgdG8gZGlyZWN0IDxiPmdlbmUgZWRpdGluZzwvYj4gYnkgdGhlIDxiPkNSSVNQUjwvYj4vQ3BmMSBlbmRvbnVjbGVhc2UuIFRoaXMgaXMgdXNlZnVsIGZvciZuYnNwOy4uLlIDaGFzIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjRodHRwczovL3BhdGVudHMuZ29vZ2xlLmNvbS9wYXRlbnQvVVMyMDE4MDE4NzE3NkExL2VuEgQaAggAGpQFEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA7gQIABAAGAAgACo1CgVob2xkcxUAAAAAGgNoYXMaBGhvbGQaCGl2O2Q7aGFzGglpdjtkO2hvbGQaB2hvbGRpbmcqIwoHcGF0ZW50cxWYnClAGgZwYXRlbnQaC2l2O2Q7cGF0ZW50Kg0KBmNyaXNwchVeHUlAKnQKBGdlbmUV70ppPxoHZ2VuZXRpYxoGZ2Vub21lGgVnZW7ElxoGZ8SXbsSXGgtnZW5lZWRpdGluZxoJaXY7ZDtnZW5lGghpdjtkO2RuYRoKaXY7ZDtnZW5lcxoMaXY7ZDtnZW5ldGljGgtpdjtkO2dlbm9tZSpRCgdlZGl0aW5nFbZ-bj8aC2dlbmVlZGl0aW5nGgxpdjtkO2VkaXRpbmcaC2l2O2Q7ZWRpdGVkGgtpdjtkO2VkaXRvchoMaXY7ZDt0aGVyYXB5MjRodHRwczovL3BhdGVudHMuZ29vZ2xlLmNvbS9wYXRlbnQvVVMyMDE4MDE4NzE3NkExL2VuOjhVUzIwMTgwMTg3MTc2QTEgLSA8Yj5DcmlzcHI8L2I-L2NwZjEgc3lzdGVtcyBhbmQgbWV0aG9kc0K6AVRoZSBwcmVzZW50IGludmVudGlvbiBkZWZpbmVzIHRoZSBzaG9ydGVzdCBBc0NwZjEgZ3VpZGUgUk5BIHRoYXQgPGI-aGFzPC9iPiBmdWxsIHBvdGVuY3kgdG8gZGlyZWN0IDxiPmdlbmUgZWRpdGluZzwvYj4gYnkgdGhlIDxiPkNSSVNQUjwvYj4vQ3BmMSBlbmRvbnVjbGVhc2UuIFRoaXMgaXMgdXNlZnVsIGZvciZuYnNwOy4uLlIDaGFzIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "How To Do Superman Hold. @Calixpert152 likes32K views1 year ... Shaolin Monk: ONLY These 6 Holds Will Rebuild INSANE Strength (No Weights!)",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=hmc934fftKM"
+      "description": "The present invention defines the shortest AsCpf1 guide RNA that has full potency to direct gene editing by the CRISPR/Cpf1 endonuclease. This is useful for ...",
+      "source_info_link": "https://patents.google.com/patent/US20180187176A1/en"
      }
     },
-    "date": "Feb 18, 2025",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=hmc934fftKM",
+    "displayed_link": "https://patents.google.com › patent",
+    "link": "https://patents.google.com/patent/US20180187176A1/en",
     "position": 5,
-    "read_more_link": "https://www.youtube.com/watch?v=hmc934fftKM#:~:text=How%20To%20Do%20Superman%20Hold,%40Calixpert152%20likes32K%20views1%20year%20ago&text=Shaolin%20Monk%3A%20ONLY%20These%206,Rebuild%20INSANE%20Strength%20(No%20Weights!)",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVNRnoVfpF__kacUQ1_wcpf-DuNyKaWzynJsruh4-vIgA-rG7ntXU45NM6N6m95F3uYfpJu6OZgHpMuzAalnzeowpHL875X65Om2YOdLBtm9_ySsolYxYArFOWXXxB_A&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQFnoECBcQAQ&uoh=1",
-    "snippet": "How To Do Superman Hold. @Calixpert152 likes32K views1 year ... Shaolin Monk: ONLY These 6 Holds Will Rebuild INSANE Strength (No Weights!)",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://patents.google.com/patent/US20180187176A1/en&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQFnoECCQQAQ",
+    "snippet": "The present invention defines the shortest AsCpf1 guide RNA that has full potency to direct gene editing by the CRISPR/Cpf1 endonuclease. This is useful for ...",
     "snippet_highlighted_words": [
-     "How To Do Superman Hold"
+     "has",
+     "gene editing",
+     "CRISPR"
     ],
-    "source": "YouTube",
-    "title": "How To Do Superman Hold"
+    "source": "Google Patents",
+    "title": "US20180187176A1 - Crispr/cpf1 systems and methods"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVk1lanZqY1RpZ0pRZ1p5RDc1WW5abkRYejQ4RkFCc1FJRGlhZkdJRFNub1lKRDhWRURLRzBoalByeWhNbElYaFg3OG03cmMzN0JkOUw0V1FNVXRMeHpLeUpfUUVxUkd1RTBlVHVfc0EyNFBBWGpHNU5Kbi1vV0ZrTWx3Qy1YZUF2QmE5SFlNTFZKTUNrQmxKTU96UWVDdxIEGgIIABr_BRIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDbBQgAEAAYACAAKjUKBWhvbGRzFQAAAAAaA2hhcxoEaG9sZBoIaXY7ZDtoYXMaCWl2O2Q7aG9sZBoHaG9sZGluZyojCgdwYXRlbnRzFbmMvD8aBnBhdGVudBoLaXY7ZDtwYXRlbnQqDQoGY3Jpc3ByFcpxrUAqdAoEZ2VuZRUmOIBAGgdnZW5ldGljGgZnZW5vbWUaBWdlbsSXGgZnxJduxJcaC2dlbmVlZGl0aW5nGglpdjtkO2dlbmUaCGl2O2Q7ZG5hGgppdjtkO2dlbmVzGgxpdjtkO2dlbmV0aWMaC2l2O2Q7Z2Vub21lKlEKB2VkaXRpbmcVr--JQBoLZ2VuZWVkaXRpbmcaDGl2O2Q7ZWRpdGluZxoLaXY7ZDtlZGl0ZWQaC2l2O2Q7ZWRpdG9yGgxpdjtkO3RoZXJhcHkyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWTWVqdmpjVGlnSlFnWnlENzVZblpuRFh6NDhGQUJzUUlEaWFmR0lEU25vWUpEOFZFREtHMGhqUHJ5aE1sSVhoWDc4bTdyYzM3QmQ5TDRXUU1VdEx4ekt5Sl9RRXFSR3VFMGVUdV9zQTI0UEFYakc1TkpuLW9XRmtNbHdDLVhlQXZCYTlIWU1MVkpNQ2tCbEpNT3pRZUN3OklDbGFzaCBvZiBUaXRhbnM6IFRoZSBGaWdodCBPdmVyIHRoZSA8Yj5DUklTUFIgR2VuZTwvYj4tPGI-RWRpdGluZzwvYj4gLi4uQp0BQSBtYWpvciBkaXNwdXRlIG92ZXIgPGI-cGF0ZW50PC9iPiByaWdodHMgdG8gPGI-Q1JJU1BSPC9iPiAoZm9yIENsdXN0ZXJlZCBSZWd1bGFybHkgSW50ZXJzcGFjZWQgU2hvcnQgUGFsaW5kcm9taWMgUmVwZWF0cyktQ2FzOSBzeXN0ZW1zIGJyb2tlIG91dCBpbiZuYnNwOy4uLlIDaGFzIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVk1lanZqY1RpZ0pRZ1p5RDc1WW5abkRYejQ4RkFCc1FJRGlhZkdJRFNub1lKRDhWRURLRzBoalByeWhNbElYaFg3OG03cmMzN0JkOUw0V1FNVXRMeHpLeUpfUUVxUkd1RTBlVHVfc0EyNFBBWGpHNU5Kbi1vV0ZrTWx3Qy1YZUF2QmE5SFlNTFZKTUNrQmxKTU96UWVDdxIEGgIIABr_BRIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDbBQgAEAAYACAAKjUKBWhvbGRzFQAAAAAaA2hhcxoEaG9sZBoIaXY7ZDtoYXMaCWl2O2Q7aG9sZBoHaG9sZGluZyojCgdwYXRlbnRzFbmMvD8aBnBhdGVudBoLaXY7ZDtwYXRlbnQqDQoGY3Jpc3ByFcpxrUAqdAoEZ2VuZRUmOIBAGgdnZW5ldGljGgZnZW5vbWUaBWdlbsSXGgZnxJduxJcaC2dlbmVlZGl0aW5nGglpdjtkO2dlbmUaCGl2O2Q7ZG5hGgppdjtkO2dlbmVzGgxpdjtkO2dlbmV0aWMaC2l2O2Q7Z2Vub21lKlEKB2VkaXRpbmcVr--JQBoLZ2VuZWVkaXRpbmcaDGl2O2Q7ZWRpdGluZxoLaXY7ZDtlZGl0ZWQaC2l2O2Q7ZWRpdG9yGgxpdjtkO3RoZXJhcHkyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWTWVqdmpjVGlnSlFnWnlENzVZblpuRFh6NDhGQUJzUUlEaWFmR0lEU25vWUpEOFZFREtHMGhqUHJ5aE1sSVhoWDc4bTdyYzM3QmQ5TDRXUU1VdEx4ekt5Sl9RRXFSR3VFMGVUdV9zQTI0UEFYakc1TkpuLW9XRmtNbHdDLVhlQXZCYTlIWU1MVkpNQ2tCbEpNT3pRZUN3OklDbGFzaCBvZiBUaXRhbnM6IFRoZSBGaWdodCBPdmVyIHRoZSA8Yj5DUklTUFIgR2VuZTwvYj4tPGI-RWRpdGluZzwvYj4gLi4uQp0BQSBtYWpvciBkaXNwdXRlIG92ZXIgPGI-cGF0ZW50PC9iPiByaWdodHMgdG8gPGI-Q1JJU1BSPC9iPiAoZm9yIENsdXN0ZXJlZCBSZWd1bGFybHkgSW50ZXJzcGFjZWQgU2hvcnQgUGFsaW5kcm9taWMgUmVwZWF0cyktQ2FzOSBzeXN0ZW1zIGJyb2tlIG91dCBpbiZuYnNwOy4uLlIDaGFzIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "There are two basic grips: the handle grip, and the blade grip. If you've only ever been using the handle grip, give the other one a try—you may find your cuts ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwFgZIFgJIGgZIGgZIGgZIFgZEGgZIGgZIGg5IGgJIGgJLgFxFfAAAADHRSTlMADxbf_6kv78kIkH7my8KEAAAAY0lEQVR4AWPABhiVlASQuMwuLgFIXKYUJ6gsY7ExEJg4g0gLBgbOVQiwGtPQcgQonsDA6IIA7hMYOlyQQAfDKmTuKgZOZMUMaHoHKZehBcH1APo_BcF1A3LZIjqgoDWBAT8AAOPZWEDNA3JgAAAAAElFTkSuQmCC.png",
-      "source_info_link": "https://www.seriouseats.com/knife-skills-how-to-hold-a-knife"
+      "description": "A major dispute over patent rights to CRISPR (for Clustered Regularly Interspaced Short Palindromic Repeats)-Cas9 systems broke out in ...",
+      "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAABQBQCdASocABwAPtEutFooIagoGAEAGglmAJ0y3wNUAQJegoqWO1MZvcAy9Ra_tkhiwAAA_vKY5bie5RkwXd-MVObhukUp6nbxkaQcE3GWba0nY973BB8ttrib0GtFdzlQhON6ZVSq4bVyLl7ilyiMPpLScitDdaG3Ap37zxddh2sGZ24HkxL4nDLgCMXJ0j6e1WT8z5jgP906dcW3z4EMM_4FI3Kq8-f9Qs4z2qsQ4Bj7ekkpykmIAAA.webp",
+      "source_info_link": "https://www.robinsonbradshaw.com/newsroom/publications/620"
      }
     },
-    "displayed_link": "https://www.seriouseats.com › ... › Knife Skills",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwFgZIFgJIGgZIGgZIGgZIFgZEGgZIGgZIGg5IGgJIGgJLgFxFfAAAADHRSTlMADxbf_6kv78kIkH7my8KEAAAAY0lEQVR4AWPABhiVlASQuMwuLgFIXKYUJ6gsY7ExEJg4g0gLBgbOVQiwGtPQcgQonsDA6IIA7hMYOlyQQAfDKmTuKgZOZMUMaHoHKZehBcH1APo_BcF1A3LZIjqgoDWBAT8AAOPZWEDNA3JgAAAAAElFTkSuQmCC.png",
-    "link": "https://www.seriouseats.com/knife-skills-how-to-hold-a-knife",
+    "date": "2018-10-08",
+    "displayed_link": "https://www.robinsonbradshaw.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAABQBQCdASocABwAPtEutFooIagoGAEAGglmAJ0y3wNUAQJegoqWO1MZvcAy9Ra_tkhiwAAA_vKY5bie5RkwXd-MVObhukUp6nbxkaQcE3GWba0nY973BB8ttrib0GtFdzlQhON6ZVSq4bVyLl7ilyiMPpLScitDdaG3Ap37zxddh2sGZ24HkxL4nDLgCMXJ0j6e1WT8z5jgP906dcW3z4EMM_4FI3Kq8-f9Qs4z2qsQ4Bj7ekkpykmIAAA.webp",
+    "link": "https://www.robinsonbradshaw.com/newsroom/publications/620",
     "position": 6,
-    "read_more_link": "https://www.seriouseats.com/knife-skills-how-to-hold-a-knife#:~:text=There%20are%20two%20basic%20grips%3A,find%20your%20cuts%20improving%20dramatically.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVEKJzxiBoPZG5GVm9B0wJXdHZeZ_KaoKkXZDI-ahNnwGtnZrnPkPwXbBkQW1qY2CfT4SfwCVGrcr0RzLpZB-cdzF8HngY6GRHQaoFeKk92gPERb_yVNQBqFC7rskhqq-nUhEmFlS5a32D4SS_cqpa&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQFnoECBQQAQ&uoh=1",
-    "snippet": "There are two basic grips: the handle grip, and the blade grip. If you've only ever been using the handle grip, give the other one a try—you may find your cuts ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVMejvjcTigJQgZyD75YnZnDXz48FABsQIDiafGIDSnoYJD8VEDKG0hjPryhMlIXhX78m7rc37Bd9L4WQMUtLxzKyJ_QEqRGuE0eTu_sA24PAXjG5NJn-oWFkMlwC-XeAvBa9HYMLVJMCkBlJMOzQeCw&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQFnoECEEQAQ&uoh=1",
+    "snippet": "A major dispute over patent rights to CRISPR (for Clustered Regularly Interspaced Short Palindromic Repeats)-Cas9 systems broke out in ...",
     "snippet_highlighted_words": [
-     "There are two basic grips: the handle grip, and the blade grip"
+     "patent",
+     "CRISPR"
     ],
-    "source": "Serious Eats",
-    "title": "How to Hold a Knife"
+    "source": "Robinson Bradshaw",
+    "title": "Clash of Titans: The Fight Over the CRISPR Gene-Editing ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZYMmZNemU3MExEMVFDUlNJTmZmcnpjRy1INV9xLUVKYWhpR0gxcTZ6eEhYTXJfeXk2Y2NUZDBNX0QzX0NNa2FnMkNGX2hWVDlud21tTUk4b2FnZ1JuQW1KYXpEaUhKN2RoNW5uaF9CZjhROWpuRnRMQ0M2VDU4Q0xhT3JpU3Jld21QX0F5VnVGNHBpTi01NTR6WTc2cDhCbDJ6QTRJaUZpcFI0NlBZTUFVOFIyb01GTWxnZEt6Skh0UWk4SDViSkZrWEs2M2oxdlBtcmdHYlQ5clh3R3A3bzZtaTBCcm1Zcjg4EgQaAggAGucGEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQMMGCAAQABgAIAAqNQoFaG9sZHMVAAAAABoDaGFzGgRob2xkGghpdjtkO2hhcxoJaXY7ZDtob2xkGgdob2xkaW5nKiMKB3BhdGVudHMVPOvXPxoGcGF0ZW50GgtpdjtkO3BhdGVudCoNCgZjcmlzcHIVmf7bQCp0CgRnZW5lFY3v7z8aB2dlbmV0aWMaBmdlbm9tZRoFZ2VuxJcaBmfEl27ElxoLZ2VuZWVkaXRpbmcaCWl2O2Q7Z2VuZRoIaXY7ZDtkbmEaCml2O2Q7Z2VuZXMaDGl2O2Q7Z2VuZXRpYxoLaXY7ZDtnZW5vbWUqUQoHZWRpdGluZxVG_8BAGgtnZW5lZWRpdGluZxoMaXY7ZDtlZGl0aW5nGgtpdjtkO2VkaXRlZBoLaXY7ZDtlZGl0b3IaDGl2O2Q7dGhlcmFweTL5AS9nb3RvP3VybD1DQUVTcmdFQjZ6c3dGWDJmTXplNzBMRDFRQ1JTSU5mZnJ6Y0ctSDVfcS1FSmFoaUdIMXE2enhIWE1yX3l5NmNjVGQwTV9EM19DTWthZzJDRl9oVlQ5bndtbU1JOG9hZ2dSbkFtSmF6RGlISjdkaDVubmhfQmY4UTlqbkZ0TENDNlQ1OENMYU9yaVNyZXdtUF9BeVZ1RjRwaU4tNTU0elk3NnA4QmwyekE0SWlGaXBSNDZQWU1BVThSMm9NRk1sZ2RLekpIdFFpOEg1YkpGa1hLNjNqMXZQbXJnR2JUOXJYd0dwN282bWkwQnJtWXI4ODpRTWVyY2sgUmVjZWl2ZXMgPGI-UGF0ZW50PC9iPiBmb3IgSW1wcm92ZWQgPGI-Q1JJU1BSIEdlbm9tZTwvYj4tPGI-RWRpdGluZzwvYj4gLi4uQrABPGI-TWVyY2smIzM5O3MgQ1JJU1BSIHBhdGVudCBwb3J0Zm9saW88L2I-IGluY2x1ZGVzIGdyYW50ZWQgcGF0ZW50cyBpbiBBdXN0cmFsaWEsIENhbmFkYSwgdGhlIFVuaXRlZCBTdGF0ZXMsIEJyYXppbCwgRXVyb3BlLCBTaW5nYXBvcmUsIENoaW5hLCBKYXBhbiwgSXNyYWVsLCBhbmQgU291dGgmbmJzcDsuLi5SA2hhcyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZYMmZNemU3MExEMVFDUlNJTmZmcnpjRy1INV9xLUVKYWhpR0gxcTZ6eEhYTXJfeXk2Y2NUZDBNX0QzX0NNa2FnMkNGX2hWVDlud21tTUk4b2FnZ1JuQW1KYXpEaUhKN2RoNW5uaF9CZjhROWpuRnRMQ0M2VDU4Q0xhT3JpU3Jld21QX0F5VnVGNHBpTi01NTR6WTc2cDhCbDJ6QTRJaUZpcFI0NlBZTUFVOFIyb01GTWxnZEt6Skh0UWk4SDViSkZrWEs2M2oxdlBtcmdHYlQ5clh3R3A3bzZtaTBCcm1Zcjg4EgQaAggAGucGEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQMMGCAAQABgAIAAqNQoFaG9sZHMVAAAAABoDaGFzGgRob2xkGghpdjtkO2hhcxoJaXY7ZDtob2xkGgdob2xkaW5nKiMKB3BhdGVudHMVPOvXPxoGcGF0ZW50GgtpdjtkO3BhdGVudCoNCgZjcmlzcHIVmf7bQCp0CgRnZW5lFY3v7z8aB2dlbmV0aWMaBmdlbm9tZRoFZ2VuxJcaBmfEl27ElxoLZ2VuZWVkaXRpbmcaCWl2O2Q7Z2VuZRoIaXY7ZDtkbmEaCml2O2Q7Z2VuZXMaDGl2O2Q7Z2VuZXRpYxoLaXY7ZDtnZW5vbWUqUQoHZWRpdGluZxVG_8BAGgtnZW5lZWRpdGluZxoMaXY7ZDtlZGl0aW5nGgtpdjtkO2VkaXRlZBoLaXY7ZDtlZGl0b3IaDGl2O2Q7dGhlcmFweTL5AS9nb3RvP3VybD1DQUVTcmdFQjZ6c3dGWDJmTXplNzBMRDFRQ1JTSU5mZnJ6Y0ctSDVfcS1FSmFoaUdIMXE2enhIWE1yX3l5NmNjVGQwTV9EM19DTWthZzJDRl9oVlQ5bndtbU1JOG9hZ2dSbkFtSmF6RGlISjdkaDVubmhfQmY4UTlqbkZ0TENDNlQ1OENMYU9yaVNyZXdtUF9BeVZ1RjRwaU4tNTU0elk3NnA4QmwyekE0SWlGaXBSNDZQWU1BVThSMm9NRk1sZ2RLekpIdFFpOEg1YkpGa1hLNjNqMXZQbXJnR2JUOXJYd0dwN282bWkwQnJtWXI4ODpRTWVyY2sgUmVjZWl2ZXMgPGI-UGF0ZW50PC9iPiBmb3IgSW1wcm92ZWQgPGI-Q1JJU1BSIEdlbm9tZTwvYj4tPGI-RWRpdGluZzwvYj4gLi4uQrABPGI-TWVyY2smIzM5O3MgQ1JJU1BSIHBhdGVudCBwb3J0Zm9saW88L2I-IGluY2x1ZGVzIGdyYW50ZWQgcGF0ZW50cyBpbiBBdXN0cmFsaWEsIENhbmFkYSwgdGhlIFVuaXRlZCBTdGF0ZXMsIEJyYXppbCwgRXVyb3BlLCBTaW5nYXBvcmUsIENoaW5hLCBKYXBhbiwgSXNyYWVsLCBhbmQgU291dGgmbmJzcDsuLi5SA2hhcyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "My only tip would be simple: hold your wine glass in the way that feels most comfortable to you. When you're drinking wine, the last thing you ...",
-      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-      "source_info_link": "https://www.instagram.com/reel/DV50pfFmSKY/?hl=en"
+      "description": "Merck's CRISPR patent portfolio includes granted patents in Australia, Canada, the United States, Brazil, Europe, Singapore, China, Japan, Israel, and South ...",
+      "icon": "https://serpapi.com/images/i/UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoQABAAAsBMJbAC7AYvDyAxS337QAD-91g0OtpYbfvKp_lmqr8WYKvFtCG5_2zmvE8_N6y36UujGYQe2KzM5txp3HnMWh9WGcATEX5rzO4YDX3zIJVyh4GoYsu8pNfvpfH7-v0Wtfr_Y1A9Hd-jPaekoTa-i79pAAA.webp",
+      "source_info_link": "https://biopharmaapac.com/news/56/345/merck-receives-patent-for-improved-crispr-genome-editing-method-in-japan.html"
      }
     },
-    "date": "Mar 15, 2026",
-    "displayed_link": "https://www.instagram.com › reel",
-    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "link": "https://www.instagram.com/reel/DV50pfFmSKY/?hl=en",
+    "displayed_link": "https://biopharmaapac.com › news",
+    "favicon": "https://serpapi.com/images/i/UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoQABAAAsBMJbAC7AYvDyAxS337QAD-91g0OtpYbfvKp_lmqr8WYKvFtCG5_2zmvE8_N6y36UujGYQe2KzM5txp3HnMWh9WGcATEX5rzO4YDX3zIJVyh4GoYsu8pNfvpfH7-v0Wtfr_Y1A9Hd-jPaekoTa-i79pAAA.webp",
+    "link": "https://biopharmaapac.com/news/56/345/merck-receives-patent-for-improved-crispr-genome-editing-method-in-japan.html",
     "position": 7,
-    "read_more_link": "https://www.instagram.com/reel/DV50pfFmSKY/?hl=en#:~:text=My%20only%20tip%20would%20be,like%20it%20might%20topple%20over.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVlljMi3J3U2fcAuPY81NaBeq6BqESiKoMrACiS9gmQX1nkToB_U3CBbWipbfTMpY-4kCcit4FisARSSfoJkt4YpUEk7I_n2Jbgzz4Y-TzdyKwSic0maOinH2q1Pl-HmJldfaOUg&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQFnoECBUQAQ&uoh=1",
-    "snippet": "My only tip would be simple: hold your wine glass in the way that feels most comfortable to you. When you're drinking wine, the last thing you ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFX2fMze70LD1QCRSINffrzcG-H5_q-EJahiGH1q6zxHXMr_yy6ccTd0M_D3_CMkag2CF_hVT9nwmmMI8oaggRnAmJazDiHJ7dh5nnh_Bf8Q9jnFtLCC6T58CLaOriSrewmP_AyVuF4piN-554zY76p8Bl2zA4IiFipR46PYMAU8R2oMFMlgdKzJHtQi8H5bJFkXK63j1vPmrgGbT9rXwGp7o6mi0BrmYr88&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQFnoECEAQAQ&uoh=1",
+    "snippet": "Merck's CRISPR patent portfolio includes granted patents in Australia, Canada, the United States, Brazil, Europe, Singapore, China, Japan, Israel, and South ...",
     "snippet_highlighted_words": [
-     "hold your wine glass in the way that feels most comfortable to you"
+     "Merck's CRISPR patent portfolio"
     ],
-    "source": "Instagram",
-    "title": "How to Hold a Wine Glass 🍷 I've seen countless videos ..."
+    "source": "BioPharma APAC",
+    "title": "Merck Receives Patent for Improved CRISPR Genome ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZhNnh4SG9TM3c2YWtVSVVNS1I1TE01UDdzenhnYmVvWmRHLUJ3VEVZcldkWDRSZ1QwclowMjk5MUhEQ2s3MmthZ3VQeUoyeE5xTGtyX2lEb0pJT1F3d0t1aENDN0FJMlhPTmxJak1MN1RDRmNnVGh1Sm9aTm5SM1g4ZEFXS3pQVlNEemVmNXBuTlozUkdOckpPNU93TjFzUklWallSNnVvc1hXYWo4SG9JdHd6eGJ1ZDVSQU5pNU5YY2xHVkg4LU9NT3JUSHAxR1hUd1JUeUYzaE1nY1JUZlJJM0VjYnNoLUhjdVhTeEtJak1LEgQaAggAGuQGEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQMAGCAAQABgAIAAqNQoFaG9sZHMVAAAAABoDaGFzGgRob2xkGghpdjtkO2hhcxoJaXY7ZDtob2xkGgdob2xkaW5nKiMKB3BhdGVudHMVjHrlQBoGcGF0ZW50GgtpdjtkO3BhdGVudCoNCgZjcmlzcHIV0JOqQCp0CgRnZW5lFVVEr0AaB2dlbmV0aWMaBmdlbm9tZRoFZ2VuxJcaBmfEl27ElxoLZ2VuZWVkaXRpbmcaCWl2O2Q7Z2VuZRoIaXY7ZDtkbmEaCml2O2Q7Z2VuZXMaDGl2O2Q7Z2VuZXRpYxoLaXY7ZDtnZW5vbWUqUQoHZWRpdGluZxXfMKJAGgtnZW5lZWRpdGluZxoMaXY7ZDtlZGl0aW5nGgtpdjtkO2VkaXRlZBoLaXY7ZDtlZGl0b3IaDGl2O2Q7dGhlcmFweTKCAi9nb3RvP3VybD1DQUVTdFFFQjZ6c3dGYTZ4eEhvUzN3NmFrVUlVTUtSNUxNNVA3c3p4Z2Jlb1pkRy1Cd1RFWXJXZFg0UmdUMHJaMDI5OTFIRENrNzJrYWd1UHlKMnhOcUxrcl9pRG9KSU9Rd3dLdWhDQzdBSTJYT05sSWpNTDdUQ0ZjZ1RodUpvWk5uUjNYOGRBV0t6UFZTRHplZjVwbk5aM1JHTnJKTzVPd04xc1JJVmpZUjZ1b3NYV2FqOEhvSXR3enhidWQ1UkFOaTVOWGNsR1ZIOC1PTU9yVEhwMUdYVHdSVHlGM2hNZ2NSVGZSSTNFY2JzaC1IY3VYU3hLSWpNSzpBQmF0dGxlIGZvciA8Yj5nZW5lIGVkaXRpbmc8L2I-OiB0aGUgVVMgQXBwZWFscyBDb3VydCBydWxlcyBvbiAuLi5CtAEuLi4gPGI-Q1JJU1BSPC9iPi1iYXNlZCBtaWNyb2JpYWwgPGI-Z2VuZTwvYj4gdGhlcmFweSwgPGI-aGFzPC9iPiBvYnRhaW5lZCBhIGZhdm9yYWJsZSBkZWNpc2lvbiBpbiBkZWZlbnNlIG9mIGl0cyA8Yj5wYXRlbnRzPC9iPi4gVGhlIFUuUy4gQ291cnQgb2YgQXBwZWFscyBmb3IgdGhlIEZlZGVyYWwmbmJzcDsuLi5SA2hhcyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZhNnh4SG9TM3c2YWtVSVVNS1I1TE01UDdzenhnYmVvWmRHLUJ3VEVZcldkWDRSZ1QwclowMjk5MUhEQ2s3MmthZ3VQeUoyeE5xTGtyX2lEb0pJT1F3d0t1aENDN0FJMlhPTmxJak1MN1RDRmNnVGh1Sm9aTm5SM1g4ZEFXS3pQVlNEemVmNXBuTlozUkdOckpPNU93TjFzUklWallSNnVvc1hXYWo4SG9JdHd6eGJ1ZDVSQU5pNU5YY2xHVkg4LU9NT3JUSHAxR1hUd1JUeUYzaE1nY1JUZlJJM0VjYnNoLUhjdVhTeEtJak1LEgQaAggAGuQGEgAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQMAGCAAQABgAIAAqNQoFaG9sZHMVAAAAABoDaGFzGgRob2xkGghpdjtkO2hhcxoJaXY7ZDtob2xkGgdob2xkaW5nKiMKB3BhdGVudHMVjHrlQBoGcGF0ZW50GgtpdjtkO3BhdGVudCoNCgZjcmlzcHIV0JOqQCp0CgRnZW5lFVVEr0AaB2dlbmV0aWMaBmdlbm9tZRoFZ2VuxJcaBmfEl27ElxoLZ2VuZWVkaXRpbmcaCWl2O2Q7Z2VuZRoIaXY7ZDtkbmEaCml2O2Q7Z2VuZXMaDGl2O2Q7Z2VuZXRpYxoLaXY7ZDtnZW5vbWUqUQoHZWRpdGluZxXfMKJAGgtnZW5lZWRpdGluZxoMaXY7ZDtlZGl0aW5nGgtpdjtkO2VkaXRlZBoLaXY7ZDtlZGl0b3IaDGl2O2Q7dGhlcmFweTKCAi9nb3RvP3VybD1DQUVTdFFFQjZ6c3dGYTZ4eEhvUzN3NmFrVUlVTUtSNUxNNVA3c3p4Z2Jlb1pkRy1Cd1RFWXJXZFg0UmdUMHJaMDI5OTFIRENrNzJrYWd1UHlKMnhOcUxrcl9pRG9KSU9Rd3dLdWhDQzdBSTJYT05sSWpNTDdUQ0ZjZ1RodUpvWk5uUjNYOGRBV0t6UFZTRHplZjVwbk5aM1JHTnJKTzVPd04xc1JJVmpZUjZ1b3NYV2FqOEhvSXR3enhidWQ1UkFOaTVOWGNsR1ZIOC1PTU9yVEhwMUdYVHdSVHlGM2hNZ2NSVGZSSTNFY2JzaC1IY3VYU3hLSWpNSzpBQmF0dGxlIGZvciA8Yj5nZW5lIGVkaXRpbmc8L2I-OiB0aGUgVVMgQXBwZWFscyBDb3VydCBydWxlcyBvbiAuLi5CtAEuLi4gPGI-Q1JJU1BSPC9iPi1iYXNlZCBtaWNyb2JpYWwgPGI-Z2VuZTwvYj4gdGhlcmFweSwgPGI-aGFzPC9iPiBvYnRhaW5lZCBhIGZhdm9yYWJsZSBkZWNpc2lvbiBpbiBkZWZlbnNlIG9mIGl0cyA8Yj5wYXRlbnRzPC9iPi4gVGhlIFUuUy4gQ291cnQgb2YgQXBwZWFscyBmb3IgdGhlIEZlZGVyYWwmbmJzcDsuLi5SA2hhcyICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "Trump held a news conference from the White House following Saturday's shooting at the correspondents' dinner. Watch the president's remarks in ...",
-      "icon": "https://serpapi.com/images/i/UklGRuYBAABXRUJQVlA4INoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1T0FpqWJd5DK-LMy8cX0z7A36sdTP0K_1mHFXgsyvukt1TdARQSp0vcMwzWyNyzRnoWmAAD-9gtffVxrabM-R-u_HgNDheggz--Z5vm7y0eNvAC1EwX02yQq-fwxDyzaTDz_8lm4bGtG_s3xUSIYL0SXkWoI4onTfz26uB_7jMExfwmyYxk4l8cTsDkGRC-l-gANG64g07YINmu7N71t5Jw9UXfB3Oe6sGhzOU2giizCxImS-Set1n5xOJG1Aou2uaDp5dGZuef-oxKB3fmGnx-ganBlFeU-zTV5uJzzKba0pnT0GZVln8f7VI4cVaqTDgqiUK_2T02_-i2f1BD4ORk-6mriKi9qyp2sGJ23cf_4sJgwx9qIB6nZrMhr7F9aMCMOmIrrTFddSvW_rpoZMGTLiv0vgfj2_59xQV68VfYbJdI_IuMWgXcLh7loyw1bjkf_iW32XaJFWkT85J3AHU632ULmt_Le3tM_zr1JY9DZNeTxGwhC1Z1w4f0iDiaP-2UjuARWtAFTfPMKx0PwLq6xk5Oxj7raXLC4pV1-dK_I-ORk_NTeoIDze9QeZ314g6W8bfkeAfYcIoJGAAA.webp",
-      "source_info_link": "https://www.pbs.org/newshour/nation/watch-live-trump-holds-press-conference-after-shooting-at-white-house-correspondents-dinner"
+      "description": "... CRISPR-based microbial gene therapy, has obtained a favorable decision in defense of its patents. The U.S. Court of Appeals for the Federal ...",
+      "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADQBQCdASocABwAPrUurVanIacnG_DgFoliAIAAeQLe5pnbZFB60QmImH6f0R-Fcow6xPnh6IgAAP74uazkiPXWO1BSyF9ZOxM_84_M3Z7oke-vmNMrLLLi_P1XQBfBbLNutxGOuBWlWI-nbQRrzvs9jeLvhy6I36t4HoebN_N0DrVWp_qM4fPW-I2uNF5Owol9_Yfs7uTSf-O3-cUNM1Prv7697Y9-D-FnwCw__VnrZVtvlx4JnW2LgA9_fXHFA2GZ7U9Zvujl9Ybr04fWKWN1AVMVoQkE0ZMiHARA-3Mr3edXxCdr8xdjitOeNQDEk8eUv7exoPmvYBt5bTFM47WJOTXxGm7KX-EIy0vDe-AfC9NeUhkpn8DcjQvBEY4rGPojQAAA.webp",
+      "source_info_link": "https://blogip.garrigues.com/en/patents-trade-secrets/battle-for-gene-editing-the-us-appeals-court-rules-on-crispr-patents"
      }
     },
-    "date": "Apr 25, 2026",
-    "displayed_link": "https://www.pbs.org › newshour › nation › watch-live-t...",
-    "favicon": "https://serpapi.com/images/i/UklGRuYBAABXRUJQVlA4INoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1T0FpqWJd5DK-LMy8cX0z7A36sdTP0K_1mHFXgsyvukt1TdARQSp0vcMwzWyNyzRnoWmAAD-9gtffVxrabM-R-u_HgNDheggz--Z5vm7y0eNvAC1EwX02yQq-fwxDyzaTDz_8lm4bGtG_s3xUSIYL0SXkWoI4onTfz26uB_7jMExfwmyYxk4l8cTsDkGRC-l-gANG64g07YINmu7N71t5Jw9UXfB3Oe6sGhzOU2giizCxImS-Set1n5xOJG1Aou2uaDp5dGZuef-oxKB3fmGnx-ganBlFeU-zTV5uJzzKba0pnT0GZVln8f7VI4cVaqTDgqiUK_2T02_-i2f1BD4ORk-6mriKi9qyp2sGJ23cf_4sJgwx9qIB6nZrMhr7F9aMCMOmIrrTFddSvW_rpoZMGTLiv0vgfj2_59xQV68VfYbJdI_IuMWgXcLh7loyw1bjkf_iW32XaJFWkT85J3AHU632ULmt_Le3tM_zr1JY9DZNeTxGwhC1Z1w4f0iDiaP-2UjuARWtAFTfPMKx0PwLq6xk5Oxj7raXLC4pV1-dK_I-ORk_NTeoIDze9QeZ314g6W8bfkeAfYcIoJGAAA.webp",
-    "link": "https://www.pbs.org/newshour/nation/watch-live-trump-holds-press-conference-after-shooting-at-white-house-correspondents-dinner",
+    "date": "2023-07-26",
+    "displayed_link": "https://blogip.garrigues.com › battle...",
+    "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADQBQCdASocABwAPrUurVanIacnG_DgFoliAIAAeQLe5pnbZFB60QmImH6f0R-Fcow6xPnh6IgAAP74uazkiPXWO1BSyF9ZOxM_84_M3Z7oke-vmNMrLLLi_P1XQBfBbLNutxGOuBWlWI-nbQRrzvs9jeLvhy6I36t4HoebN_N0DrVWp_qM4fPW-I2uNF5Owol9_Yfs7uTSf-O3-cUNM1Prv7697Y9-D-FnwCw__VnrZVtvlx4JnW2LgA9_fXHFA2GZ7U9Zvujl9Ybr04fWKWN1AVMVoQkE0ZMiHARA-3Mr3edXxCdr8xdjitOeNQDEk8eUv7exoPmvYBt5bTFM47WJOTXxGm7KX-EIy0vDe-AfC9NeUhkpn8DcjQvBEY4rGPojQAAA.webp",
+    "link": "https://blogip.garrigues.com/en/patents-trade-secrets/battle-for-gene-editing-the-us-appeals-court-rules-on-crispr-patents",
     "position": 8,
-    "read_more_link": "https://www.pbs.org/newshour/nation/watch-live-trump-holds-press-conference-after-shooting-at-white-house-correspondents-dinner#:~:text=Trump%20held%20a%20news%20conference,remarks%20in%20the%20player%20above.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStwEB6zswFRacr1Mf8Rhmzef4NP_hyJF9X-bYd-qYj0M3mw04LVq8_xinOqInwA0FpLKa3T-w7ROs9OL422WTUtzneqkF-mabuLK3hMx_7Udr-kHi11GWAnAuQ7wdOiAYmpGF2oRdYG_KiQD2U8O5TOLUIVCXD75-PsgK8l_Bjflg4ABKOCmVoRdTM0Nxn_lo4Obfqkc7VKYf2Gm2GNkqUwML6KTfbedO_CSGS37oBXKZvWd4wBqTgtY&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQFnoECBwQAQ&uoh=1",
-    "snippet": "Trump held a news conference from the White House following Saturday's shooting at the correspondents' dinner. Watch the president's remarks in ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStQEB6zswFa6xxHoS3w6akUIUMKR5LM5P7szxgbeoZdG-BwTEYrWdX4RgT0rZ02991HDCk72kaguPyJ2xNqLkr_iDoJIOQwwKuhCC7AI2XONlIjML7TCFcgThuJoZNnR3X8dAWKzPVSDzef5pnNZ3RGNrJO5OwN1sRIVjYR6uosXWaj8HoItwzxbud5RANi5NXclGVH8-OMOrTHp1GXTwRTyF3hMgcRTfRI3Ecbsh-HcuXSxKIjMK&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQFnoECEIQAQ&uoh=1",
+    "snippet": "... CRISPR-based microbial gene therapy, has obtained a favorable decision in defense of its patents. The U.S. Court of Appeals for the Federal ...",
     "snippet_highlighted_words": [
-     "Trump held a news conference from the White House"
+     "CRISPR",
+     "gene",
+     "has",
+     "patents"
     ],
-    "source": "PBS",
-    "title": "WATCH: Trump holds news conference after shooting at ..."
+    "source": "Garrigues",
+    "title": "Battle for gene editing: the US Appeals Court rules on ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowCL2dvdG8_dXJsPUNBRVN2QUVCNnpzd0ZUWHp4QldPYmo2REh1c3hxSUU5SGdKdFZrSVVBcTMtWFJJeGNvRmRGZmpzcGllSktfTk1WclU2U2l2MlUtTmRNcE9nTngwN28tMzBSQWl5eXhodjZJTWlYX2F5bGIxZjB4RTkwN1VIZjE2Tks5cDRHZ0E5MHFLVTRINHZvSW1tT243dWp1OGt0UDVVWGY0Vk00NVVjTkxFeUR0MW1WVllRZ3drV1JRc2VFWkdfc0lfMHFfUnBDUms4NUkzWl9Ta21zUy1DdTA1SnlFVHI3bkxqaFM5cmkzaUxkeHUwSGc3c0JOaW5CODNEblFScWdvbmg3SmNjQRIEGgIIABrwBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDMBggAEAAYACAAKjUKBWhvbGRzFQAAAAAaA2hhcxoEaG9sZBoIaXY7ZDtoYXMaCWl2O2Q7aG9sZBoHaG9sZGluZyojCgdwYXRlbnRzFQWusD8aBnBhdGVudBoLaXY7ZDtwYXRlbnQqDQoGY3Jpc3ByFTLVqUAqdAoEZ2VuZRWNY4xAGgdnZW5ldGljGgZnZW5vbWUaBWdlbsSXGgZnxJduxJcaC2dlbmVlZGl0aW5nGglpdjtkO2dlbmUaCGl2O2Q7ZG5hGgppdjtkO2dlbmVzGgxpdjtkO2dlbmV0aWMaC2l2O2Q7Z2Vub21lKlEKB2VkaXRpbmcV-viRQBoLZ2VuZWVkaXRpbmcaDGl2O2Q7ZWRpdGluZxoLaXY7ZDtlZGl0ZWQaC2l2O2Q7ZWRpdG9yGgxpdjtkO3RoZXJhcHkyjAIvZ290bz91cmw9Q0FFU3ZBRUI2enN3RlRYenhCV09iajZESHVzeHFJRTlIZ0p0VmtJVUFxMy1YUkl4Y29GZEZmanNwaWVKS19OTVZyVTZTaXYyVS1OZE1wT2dOeDA3by0zMFJBaXl5eGh2NklNaVhfYXlsYjFmMHhFOTA3VUhmMTZOSzlwNEdnQTkwcUtVNEg0dm9JbW1Pbjd1anU4a3RQNVVYZjRWTTQ1VWNOTEV5RHQxbVZWWVFnd2tXUlFzZUVaR19zSV8wcV9ScENSazg1STNaX1NrbXNTLUN1MDVKeUVUcjduTGpoUzlyaTNpTGR4dTBIZzdzQk5pbkI4M0RuUVJxZ29uaDdKY2NBOldFeHRyYXRlcnJpdG9yaWFsIDxiPlBhdGVudDwvYj4gSW5mcmluZ2VtZW50OiA8Yj5HZW5lIEVkaXRpbmc8L2I-IHdpdGggPGI-Q1JJU1BSPC9iPiAuLi5CoAFUaGUgPGI-Q1JJU1BSPC9iPi1DYXMgc3lzdGVtIGNhbiBiZSB1c2VkIHRvIGVkaXQgdGhlIGh1bWFuIDxiPmdlbm9tZTwvYj4gdG8gY29ycmVjdCBkaXNlYXNlcyBieSB3YXkgb2YgYSBnUk5BIHRoYXQgZ3VpZGVzIGEgQ2FzIGVuenltZSB0byBhIGNlcnRhaW4gRE5BJm5ic3A7Li4uUgNoYXMiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowCL2dvdG8_dXJsPUNBRVN2QUVCNnpzd0ZUWHp4QldPYmo2REh1c3hxSUU5SGdKdFZrSVVBcTMtWFJJeGNvRmRGZmpzcGllSktfTk1WclU2U2l2MlUtTmRNcE9nTngwN28tMzBSQWl5eXhodjZJTWlYX2F5bGIxZjB4RTkwN1VIZjE2Tks5cDRHZ0E5MHFLVTRINHZvSW1tT243dWp1OGt0UDVVWGY0Vk00NVVjTkxFeUR0MW1WVllRZ3drV1JRc2VFWkdfc0lfMHFfUnBDUms4NUkzWl9Ta21zUy1DdTA1SnlFVHI3bkxqaFM5cmkzaUxkeHUwSGc3c0JOaW5CODNEblFScWdvbmg3SmNjQRIEGgIIABrwBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDMBggAEAAYACAAKjUKBWhvbGRzFQAAAAAaA2hhcxoEaG9sZBoIaXY7ZDtoYXMaCWl2O2Q7aG9sZBoHaG9sZGluZyojCgdwYXRlbnRzFQWusD8aBnBhdGVudBoLaXY7ZDtwYXRlbnQqDQoGY3Jpc3ByFTLVqUAqdAoEZ2VuZRWNY4xAGgdnZW5ldGljGgZnZW5vbWUaBWdlbsSXGgZnxJduxJcaC2dlbmVlZGl0aW5nGglpdjtkO2dlbmUaCGl2O2Q7ZG5hGgppdjtkO2dlbmVzGgxpdjtkO2dlbmV0aWMaC2l2O2Q7Z2Vub21lKlEKB2VkaXRpbmcV-viRQBoLZ2VuZWVkaXRpbmcaDGl2O2Q7ZWRpdGluZxoLaXY7ZDtlZGl0ZWQaC2l2O2Q7ZWRpdG9yGgxpdjtkO3RoZXJhcHkyjAIvZ290bz91cmw9Q0FFU3ZBRUI2enN3RlRYenhCV09iajZESHVzeHFJRTlIZ0p0VmtJVUFxMy1YUkl4Y29GZEZmanNwaWVKS19OTVZyVTZTaXYyVS1OZE1wT2dOeDA3by0zMFJBaXl5eGh2NklNaVhfYXlsYjFmMHhFOTA3VUhmMTZOSzlwNEdnQTkwcUtVNEg0dm9JbW1Pbjd1anU4a3RQNVVYZjRWTTQ1VWNOTEV5RHQxbVZWWVFnd2tXUlFzZUVaR19zSV8wcV9ScENSazg1STNaX1NrbXNTLUN1MDVKeUVUcjduTGpoUzlyaTNpTGR4dTBIZzdzQk5pbkI4M0RuUVJxZ29uaDdKY2NBOldFeHRyYXRlcnJpdG9yaWFsIDxiPlBhdGVudDwvYj4gSW5mcmluZ2VtZW50OiA8Yj5HZW5lIEVkaXRpbmc8L2I-IHdpdGggPGI-Q1JJU1BSPC9iPiAuLi5CoAFUaGUgPGI-Q1JJU1BSPC9iPi1DYXMgc3lzdGVtIGNhbiBiZSB1c2VkIHRvIGVkaXQgdGhlIGh1bWFuIDxiPmdlbm9tZTwvYj4gdG8gY29ycmVjdCBkaXNlYXNlcyBieSB3YXkgb2YgYSBnUk5BIHRoYXQgZ3VpZGVzIGEgQ2FzIGVuenltZSB0byBhIGNlcnRhaW4gRE5BJm5ic3A7Li4uUgNoYXMiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "lt"
      ],
      "regions": [
-      "US"
+      "LT"
      ],
      "source": {
-      "description": "THE MISSION SHIFTS. THE COMPASS HOLDS. This was never the plan. Initially, the plan was to climb just G2. But just before setting off for ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/NimsPurja/posts/the-mission-shifts-the-compass-holdsthis-was-never-the-plan-initially-the-plan-w/1598908794929277/"
+      "description": "The CRISPR-Cas system can be used to edit the human genome to correct diseases by way of a gRNA that guides a Cas enzyme to a certain DNA ...",
+      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
+      "source_info_link": "https://www.researchgate.net/publication/385403836_Extraterritorial_Patent_Infringement_Gene_Editing_with_CRISPR-Cas_Perspective"
      }
     },
-    "date": "Jul 27, 2026",
-    "displayed_link": "https://www.facebook.com › NimsPurja › posts › the-m...",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/NimsPurja/posts/the-mission-shifts-the-compass-holdsthis-was-never-the-plan-initially-the-plan-w/1598908794929277/",
+    "date": "2026-08-16",
+    "displayed_link": "https://www.researchgate.net › 3854...",
+    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD-_p4cSWBHjd47XoD_L__ak-L9vPnHTdV3QJYy_4H--A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj_iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo-wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB-zDWPAw2S-q3fSs9GxrbQsWuhASW0Ozt6j_QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA.webp",
+    "link": "https://www.researchgate.net/publication/385403836_Extraterritorial_Patent_Infringement_Gene_Editing_with_CRISPR-Cas_Perspective",
     "position": 9,
-    "read_more_link": "https://www.facebook.com/NimsPurja/posts/the-mission-shifts-the-compass-holdsthis-was-never-the-plan-initially-the-plan-w/1598908794929277/#:~:text=THE%20MISSION%20SHIFTS.%20THE%20COMPASS,numbers%20on%20my%208000m%20summits.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAEB6zswFQ6aMgllg8BVObZNguZyNtRdqRTTMuUuroLOTHUmLrnXSmpUiIU-YmvalkphjbhYTBLMX4t_6NLypbFue1l9lkxyzVKaaBVT6haOMumydafhqHBhkKBzqMa2ZIJaHvfnBvmM3NalhZ4HfIQeC7-zY1dqrv8nRozWmeuQcAG-GbtmYWRTVx63ggfDX0nJsskQfm3zg0eZybsSyYw8lVxVb58O2tqulSAmDD1Jk0nKzm8TDn8egbyPRhKZhNlXbAnB&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQFnoECD8QAQ&uoh=1",
-    "snippet": "THE MISSION SHIFTS. THE COMPASS HOLDS. This was never the plan. Initially, the plan was to climb just G2. But just before setting off for ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFTXzxBWObj6DHusxqIE9HgJtVkIUAq3-XRIxcoFdFfjspieJK_NMVrU6Siv2U-NdMpOgNx07o-30RAiyyxhv6IMiX_aylb1f0xE907UHf16NK9p4GgA90qKU4H4voImmOn7uju8ktP5UXf4VM45UcNLEyDt1mVVYQgwkWRQseEZG_sI_0q_RpCRk85I3Z_SkmsS-Cu05JyETr7nLjhS9ri3iLdxu0Hg7sBNinB83DnQRqgonh7JccA&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQFnoECEMQAQ&uoh=1",
+    "snippet": "The CRISPR-Cas system can be used to edit the human genome to correct diseases by way of a gRNA that guides a Cas enzyme to a certain DNA ...",
     "snippet_highlighted_words": [
-     "HOLDS"
+     "CRISPR",
+     "genome"
     ],
-    "source": "Facebook",
-    "title": "if I tick off Broad Peak whilst I'm here , only one remains “ ..."
+    "source": "ResearchGate",
+    "title": "Gene Editing with CRISPR-Cas Perspective"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=holds+patents+crispr+gene+editing&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnul-RQ5DGVIx_-vrBwostA-o12lJQ:1789905654506&ei=9sqvaqu7Huel5NoPxsbswQ0&start=10&sa=N&sstk=AS6-VmL2JB7smfz23R8KX80b38jJXYFwkkdE3wYcrXIrhI6QcXLd4PXla28cLP1E-LHOsFhVWA5Lhgi_HVuDrx383Ka8Hjj8M8Gbgg&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQ8NMDegQIPBAK",
+   "next": "https://www.google.com/search?q=holds+patents+crispr+gene+editing&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnufjlPwchYRQfXxcFs2lWWHsUJGPw:1790781300074&ei=dCe9au__A9Wo1sQPgtD0kAI&start=10&sa=N&sstk=AS6-VmJRKzhkFiiT5hPSE65XTgNtZYBX9Gt3ZwMeScv9VHdr2fRZ7kG8aGDJ0CK5k2QBUKLKu5odPBXew07KQQTkAwUiAL5iMpoY8A&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQ8NMDegQIOhAK",
    "other_pages": {
-    "2": "https://www.google.com/search?q=holds+patents+crispr+gene+editing&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnul-RQ5DGVIx_-vrBwostA-o12lJQ:1789905654506&ei=9sqvaqu7Huel5NoPxsbswQ0&start=10&sa=N&sstk=AS6-VmL2JB7smfz23R8KX80b38jJXYFwkkdE3wYcrXIrhI6QcXLd4PXla28cLP1E-LHOsFhVWA5Lhgi_HVuDrx383Ka8Hjj8M8Gbgg&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQ8tMDegQIPBAE",
-    "3": "https://www.google.com/search?q=holds+patents+crispr+gene+editing&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnul-RQ5DGVIx_-vrBwostA-o12lJQ:1789905654506&ei=9sqvaqu7Huel5NoPxsbswQ0&start=20&sa=N&sstk=AS6-VmL2JB7smfz23R8KX80b38jJXYFwkkdE3wYcrXIrhI6QcXLd4PXla28cLP1E-LHOsFhVWA5Lhgi_HVuDrx383Ka8Hjj8M8Gbgg&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQ8tMDegQIPBAG",
-    "4": "https://www.google.com/search?q=holds+patents+crispr+gene+editing&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnul-RQ5DGVIx_-vrBwostA-o12lJQ:1789905654506&ei=9sqvaqu7Huel5NoPxsbswQ0&start=30&sa=N&sstk=AS6-VmL2JB7smfz23R8KX80b38jJXYFwkkdE3wYcrXIrhI6QcXLd4PXla28cLP1E-LHOsFhVWA5Lhgi_HVuDrx383Ka8Hjj8M8Gbgg&ved=2ahUKEwirjt-Vjv2WAxXnElkFHUYjO9gQ8tMDegQIPBAI"
+    "2": "https://www.google.com/search?q=holds+patents+crispr+gene+editing&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnufjlPwchYRQfXxcFs2lWWHsUJGPw:1790781300074&ei=dCe9au__A9Wo1sQPgtD0kAI&start=10&sa=N&sstk=AS6-VmJRKzhkFiiT5hPSE65XTgNtZYBX9Gt3ZwMeScv9VHdr2fRZ7kG8aGDJ0CK5k2QBUKLKu5odPBXew07KQQTkAwUiAL5iMpoY8A&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQ8tMDegQIOhAE",
+    "3": "https://www.google.com/search?q=holds+patents+crispr+gene+editing&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnufjlPwchYRQfXxcFs2lWWHsUJGPw:1790781300074&ei=dCe9au__A9Wo1sQPgtD0kAI&start=20&sa=N&sstk=AS6-VmJRKzhkFiiT5hPSE65XTgNtZYBX9Gt3ZwMeScv9VHdr2fRZ7kG8aGDJ0CK5k2QBUKLKu5odPBXew07KQQTkAwUiAL5iMpoY8A&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQ8tMDegQIOhAG",
+    "4": "https://www.google.com/search?q=holds+patents+crispr+gene+editing&sca_esv=b0c9a82e6cc79f1f&sxsrf=APpeQnufjlPwchYRQfXxcFs2lWWHsUJGPw:1790781300074&ei=dCe9au__A9Wo1sQPgtD0kAI&start=30&sa=N&sstk=AS6-VmJRKzhkFiiT5hPSE65XTgNtZYBX9Gt3ZwMeScv9VHdr2fRZ7kG8aGDJ0CK5k2QBUKLKu5odPBXew07KQQTkAwUiAL5iMpoY8A&ved=2ahUKEwjviYuazJaXAxVVlJUCHQIoHSIQ8tMDegQIOhAI"
    }
   },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHTkRSbE53WkhGU1EwMXpkRkJSUlZkelpqaGpNRmhSZVc1RFVIQkRXa3BoU2pGRmFYRkZkazlYY2tKeGNrdFFUMk4zY2xodmJsZEJUbmRVYVdKek9HcFFUbVZrZGpjMGVsbExlR1pCUWpsUldtSldSbmhQYkV4cVp4SVhaRU5sT1dGMVgxOUJPVmR2TVhOUlVHZDBSREJyUVVrYUlrRkVjM0k1WmxOWUxVSkJORGhHT0hCTmVWSklPV0Z0TTBsc2EydHBhVmRGWTNjIiwiZmN2IjoiMyIsImVpIjoiZENlOWF1X19BOVdvMXNRUGd0RDBrQUkiLCJxYyI6IkNpRm9iMnhrY3lCd1lYUmxiblJ6SUdOeWFYTndjaUJuWlc1bElHVmthWFJwYm1jUUFIMFZaVE1fIiwicXVlc3Rpb24iOiJXaG8gaG9sZHMgdGhlIHBhdGVudCBmb3IgQ1JJU1BSPyIsImxrIjoiR2g5M2FHOGdhRzlzWkhNZ2RHaGxJSEJoZEdWdWRDQm1iM0lnWTNKcGMzQnkiLCJicyI6ImMzWE1NUS1DTUJDRzRiamU1R2JvNHVHZ3poMWNPNkF4YmdZRzV3cG5Ta0phMGg3eTl3V3hpUXpNM19OLWNBRjhHSWZHTlZWQU5vU3RacktNTC1jeHkyX0ZQVmN5RmR0LXlaUy1EcTJISzZUalRlX3NGMHhsZEVfTjNKQ1NPNEg5SDVyU09ZSVRKSm0yOGFEc1BBMUxVMWtLUWNsRWJINFJ1X2tHQlJ6T2prSU1oMy12Vy1xNExnTWFfU2JVLU9wNFNKUThpbjAxMG5pMVNOZXJEdyIsImlkIjoiZmNfZENlOWF1X19BOVdvMXNRUGd0RDBrQUlfNSJ9",
+    "page_token": "zlZKynicHdBdbpswAABg9TJ9bGwjshIpmkbB-WkBYfAPvEzGJCFgA21ocHnbXXaqnWbTDvC9fL9-62vf_Xm4N9M03jar1TzPT5dhuOjTkxrMSt6-erVSUutKqm6z_raG389qG34e_Jf3g5_ScWQBAZkmPO_cVIJpiZH9yhCZKHtGsSnvFEDMQ8_WcASp0Tsp8EsOOkDg0dAOz7KPA96xpOrjYx16h6IvW3mFeyJ8ewo9l7dsXeHjEuHLUhkvzfYYFKCAObVLxMgbMzfnpGu35Pb9jXtWAFeIpUmSHO8qoZu6m_zUxLeEN22184oTK91s0UByjZXwYY5sUgadQ3ETZbmvBbJO-E-liLqFYGcBQpehZ6sgTkuHhNFu8jMyXFNKFtVqw4IfTt6W1yxvXiPOEEV2zzULa-gHktd9wo-2nB_P6r51Hv9_bn-ezbQZP4bLXzxbga8",
+    "question": "Who holds the patent for CRISPR?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zlZKynicHdBdbpswAABg9TJ9bGwjshIpmkbB-WkBYfAPvEzGJCFgA21ocHnbXXaqnWbTDvC9fL9-62vf_Xm4N9M03jar1TzPT5dhuOjTkxrMSt6-erVSUutKqm6z_raG389qG34e_Jf3g5_ScWQBAZkmPO_cVIJpiZH9yhCZKHtGsSnvFEDMQ8_WcASp0Tsp8EsOOkDg0dAOz7KPA96xpOrjYx16h6IvW3mFeyJ8ewo9l7dsXeHjEuHLUhkvzfYYFKCAObVLxMgbMzfnpGu35Pb9jXtWAFeIpUmSHO8qoZu6m_zUxLeEN22184oTK91s0UByjZXwYY5sUgadQ3ETZbmvBbJO-E-liLqFYGcBQpehZ6sgTkuHhNFu8jMyXFNKFtVqw4IfTt6W1yxvXiPOEEV2zzULa-gHktd9wo-2nB_P6r51Hv9_bn-ezbQZP4bLXzxbga8",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHTkRSbE53WkhGU1EwMXpkRkJSUlZkelpqaGpNRmhSZVc1RFVIQkRXa3BoU2pGRmFYRkZkazlYY2tKeGNrdFFUMk4zY2xodmJsZEJUbmRVYVdKek9HcFFUbVZrZGpjMGVsbExlR1pCUWpsUldtSldSbmhQYkV4cVp4SVhaRU5sT1dGMVgxOUJPVmR2TVhOUlVHZDBSREJyUVVrYUlrRkVjM0k1WmxOWUxVSkJORGhHT0hCTmVWSklPV0Z0TTBsc2EydHBhVmRGWTNjIiwiZmN2IjoiMyIsImVpIjoiZENlOWF1X19BOVdvMXNRUGd0RDBrQUkiLCJxYyI6IkNpRm9iMnhrY3lCd1lYUmxiblJ6SUdOeWFYTndjaUJuWlc1bElHVmthWFJwYm1jUUFIMFZaVE1fIiwicXVlc3Rpb24iOiJXaG8gaG9sZHMgdGhlIHBhdGVudCBmb3IgQ1JJU1BSPyIsImxrIjoiR2g5M2FHOGdhRzlzWkhNZ2RHaGxJSEJoZEdWdWRDQm1iM0lnWTNKcGMzQnkiLCJicyI6ImMzWE1NUS1DTUJDRzRiamU1R2JvNHVHZ3poMWNPNkF4YmdZRzV3cG5Ta0phMGg3eTl3V3hpUXpNM19OLWNBRjhHSWZHTlZWQU5vU3RacktNTC1jeHkyX0ZQVmN5RmR0LXlaUy1EcTJISzZUalRlX3NGMHhsZEVfTjNKQ1NPNEg5SDVyU09ZSVRKSm0yOGFEc1BBMUxVMWtLUWNsRWJINFJ1X2tHQlJ6T2prSU1oMy12Vy1xNExnTWFfU2JVLU9wNFNKUThpbjAxMG5pMVNOZXJEdyIsImlkIjoiZmNfZENlOWF1X19BOVdvMXNRUGd0RDBrQUlfNSJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHTkRSbE53WkhGU1EwMXpkRkJSUlZkelpqaGpNRmhSZVc1RFVIQkRXa3BoU2pGRmFYRkZkazlYY2tKeGNrdFFUMk4zY2xodmJsZEJUbmRVYVdKek9HcFFUbVZrZGpjMGVsbExlR1pCUWpsUldtSldSbmhQYkV4cVp4SVhaRU5sT1dGMVgxOUJPVmR2TVhOUlVHZDBSREJyUVVrYUlrRkVjM0k1WmxOWUxVSkJORGhHT0hCTmVWSklPV0Z0TTBsc2EydHBhVmRGWTNjIiwiZmN2IjoiMyIsImVpIjoiZENlOWF1X19BOVdvMXNRUGd0RDBrQUkiLCJxYyI6IkNpRm9iMnhrY3lCd1lYUmxiblJ6SUdOeWFYTndjaUJuWlc1bElHVmthWFJwYm1jUUFIMFZaVE1fIiwicXVlc3Rpb24iOiJXaG8gd29uIHRoZSBDUklTUFIgcGF0ZW50IGJhdHRsZT8iLCJsayI6IkdpQjNhRzhnZDI5dUlIUm9aU0JqY21semNISWdjR0YwWlc1MElHSmhkSFJzWlEiLCJicyI6ImMzWE1NUS1DTUJDRzRiamU1R2JvNHVHZ3poMWNPNkF4YmdZRzV3cG5Ta0phMGg3eTl3V3hpUXpNM19OLWNBRjhHSWZHTlZWQU5vU3RacktNTC1jeHkyX0ZQVmN5RmR0LXlaUy1EcTJISzZUalRlX3NGMHhsZEVfTjNKQ1NPNEg5SDVyU09ZSVRKSm0yOGFEc1BBMUxVMWtLUWNsRWJINFJ1X2tHQlJ6T2prSU1oMy12Vy1xNExnTWFfU2JVLU9wNFNKUThpbjAxMG5pMVNOZXJEdyIsImlkIjoiZmNfZENlOWF1X19BOVdvMXNRUGd0RDBrQUlfNSJ9",
+    "page_token": "N_Wco3icHdBNbuIwGIBh9TJdFjtpmBYJjZRip0RtIE4-G2dTGQcwY-eH4hLIbu4yp5rTTDX7d_Ho_f3HHVv79-5ivO_Ps8lkGIaHQ9cd3O5Bd81EnW-tnmjl3FZpO5v-mOKfez0nX8v45bSMc-h7vmCoQNkba1Mvm2qVjanlDfYKzE0H3a0aCVolz1iL7MyhRjUxR8VpsUuGAEh6gtcDllDbnajWOoiComFrniwft4u4WQlPS8BSoogL8awgMJ9aPN4YRLzeUKoQppKb9x03WUauF8CGlcK3KkgrCOlQ4F7W7ttkr0m56ZciQb4uOdOlRdzyUIffnQAvbToWpXspF6zRmDNiapsHEMkN328QiXjwdNWY5lXIyHvi44J1xxzYqH-5Bsa4VYLClqetTtyCkfNVAj7JwDlB3LSkZg35_V5f5uH9_5_zj33jZ_1nd_gHdGiCGg",
+    "question": "Who won the CRISPR patent battle?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N_Wco3icHdBNbuIwGIBh9TJdFjtpmBYJjZRip0RtIE4-G2dTGQcwY-eH4hLIbu4yp5rTTDX7d_Ho_f3HHVv79-5ivO_Ps8lkGIaHQ9cd3O5Bd81EnW-tnmjl3FZpO5v-mOKfez0nX8v45bSMc-h7vmCoQNkba1Mvm2qVjanlDfYKzE0H3a0aCVolz1iL7MyhRjUxR8VpsUuGAEh6gtcDllDbnajWOoiComFrniwft4u4WQlPS8BSoogL8awgMJ9aPN4YRLzeUKoQppKb9x03WUauF8CGlcK3KkgrCOlQ4F7W7ttkr0m56ZciQb4uOdOlRdzyUIffnQAvbToWpXspF6zRmDNiapsHEMkN328QiXjwdNWY5lXIyHvi44J1xxzYqH-5Bsa4VYLClqetTtyCkfNVAj7JwDlB3LSkZg35_V5f5uH9_5_zj33jZ_1nd_gHdGiCGg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHTkRSbE53WkhGU1EwMXpkRkJSUlZkelpqaGpNRmhSZVc1RFVIQkRXa3BoU2pGRmFYRkZkazlYY2tKeGNrdFFUMk4zY2xodmJsZEJUbmRVYVdKek9HcFFUbVZrZGpjMGVsbExlR1pCUWpsUldtSldSbmhQYkV4cVp4SVhaRU5sT1dGMVgxOUJPVmR2TVhOUlVHZDBSREJyUVVrYUlrRkVjM0k1WmxOWUxVSkJORGhHT0hCTmVWSklPV0Z0TTBsc2EydHBhVmRGWTNjIiwiZmN2IjoiMyIsImVpIjoiZENlOWF1X19BOVdvMXNRUGd0RDBrQUkiLCJxYyI6IkNpRm9iMnhrY3lCd1lYUmxiblJ6SUdOeWFYTndjaUJuWlc1bElHVmthWFJwYm1jUUFIMFZaVE1fIiwicXVlc3Rpb24iOiJXaG8gd29uIHRoZSBDUklTUFIgcGF0ZW50IGJhdHRsZT8iLCJsayI6IkdpQjNhRzhnZDI5dUlIUm9aU0JqY21semNISWdjR0YwWlc1MElHSmhkSFJzWlEiLCJicyI6ImMzWE1NUS1DTUJDRzRiamU1R2JvNHVHZ3poMWNPNkF4YmdZRzV3cG5Ta0phMGg3eTl3V3hpUXpNM19OLWNBRjhHSWZHTlZWQU5vU3RacktNTC1jeHkyX0ZQVmN5RmR0LXlaUy1EcTJISzZUalRlX3NGMHhsZEVfTjNKQ1NPNEg5SDVyU09ZSVRKSm0yOGFEc1BBMUxVMWtLUWNsRWJINFJ1X2tHQlJ6T2prSU1oMy12Vy1xNExnTWFfU2JVLU9wNFNKUThpbjAxMG5pMVNOZXJEdyIsImlkIjoiZmNfZENlOWF1X19BOVdvMXNRUGd0RDBrQUlfNSJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHTkRSbE53WkhGU1EwMXpkRkJSUlZkelpqaGpNRmhSZVc1RFVIQkRXa3BoU2pGRmFYRkZkazlYY2tKeGNrdFFUMk4zY2xodmJsZEJUbmRVYVdKek9HcFFUbVZrZGpjMGVsbExlR1pCUWpsUldtSldSbmhQYkV4cVp4SVhaRU5sT1dGMVgxOUJPVmR2TVhOUlVHZDBSREJyUVVrYUlrRkVjM0k1WmxOWUxVSkJORGhHT0hCTmVWSklPV0Z0TTBsc2EydHBhVmRGWTNjIiwiZmN2IjoiMyIsImVpIjoiZENlOWF1X19BOVdvMXNRUGd0RDBrQUkiLCJxYyI6IkNpRm9iMnhrY3lCd1lYUmxiblJ6SUdOeWFYTndjaUJuWlc1bElHVmthWFJwYm1jUUFIMFZaVE1fIiwicXVlc3Rpb24iOiJDYW4gQ1JJU1BSIGN1cmUgYmFsZG5lc3M/IiwibGsiOiJHaGRqY21semNISWdkRzhnWTNWeVpTQmlZV3hrYm1WemN3IiwiYnMiOiJjM1hNTVEtQ01CQ0c0YmplNUdibzR1R2d6aDFjTzZBeGJnWUc1d3BuU2tKYTBoN3k5d1d4aVF6TTNfTi1jQUY4R0lmR05WVkFOb1N0WnJLTUwtY3h5Ml9GUFZjeUZkdC15WlMtRHEySEs2VGpUZV9zRjB4bGRFX04zSkNTTzRIOUg1clNPWUlUSkptMjhhRHNQQTFMVTFrS1FjbEViSDRSdV9rR0JSek9qa0lNaDMtdlctcTRMZ01hX1NiVS1PcDRTSlE4aW4wMTBuaTFTTmVyRHciLCJpZCI6ImZjX2RDZTlhdV9fQTlXbzFzUVBndEQwa0FJXzUifQ==",
+    "page_token": "YXLR8XicHdBdToMwAADgeBkfXQGn2ZLFhEHVRjop_YG-mFKEbpQftyqON-_iqTyNxgt8D9_Xt9337c9FbpwbT-vFYpqmq2YYGvt6pYduoU7nXi-0srZUul3f3N54d7XexKcp3A5TmLJx5BEBWY-3osfeay5TySHAew-ruHGS8kIyfGQxNkmAXNKt_MSSbUXhc5mTBENCNSy8JwGjkiJacGuIv6wTZucEkFwB86Fm9FbGANCZ7wrGHytm4qpFOxy7ZyrGVvqwU9yk-ICiP69XwA1pW3xqa65LQOrCdxPrzDun0mgGgyyo-kw0GfRJJKk1FV_VKbV5OcOZ8bCv4nRSAKL7PQrJAz7vhMzKtjqwGTkdWSsPocARDBLfy0WHhIjNg_SX4WWtPzbB5f_Y5qXu3Ho8Ds0vRDJ4vw",
+    "question": "Can CRISPR cure baldness?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YXLR8XicHdBdToMwAADgeBkfXQGn2ZLFhEHVRjop_YG-mFKEbpQftyqON-_iqTyNxgt8D9_Xt9337c9FbpwbT-vFYpqmq2YYGvt6pYduoU7nXi-0srZUul3f3N54d7XexKcp3A5TmLJx5BEBWY-3osfeay5TySHAew-ruHGS8kIyfGQxNkmAXNKt_MSSbUXhc5mTBENCNSy8JwGjkiJacGuIv6wTZucEkFwB86Fm9FbGANCZ7wrGHytm4qpFOxy7ZyrGVvqwU9yk-ICiP69XwA1pW3xqa65LQOrCdxPrzDun0mgGgyyo-kw0GfRJJKk1FV_VKbV5OcOZ8bCv4nRSAKL7PQrJAz7vhMzKtjqwGTkdWSsPocARDBLfy0WHhIjNg_SX4WWtPzbB5f_Y5qXu3Ho8Ds0vRDJ4vw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHTkRSbE53WkhGU1EwMXpkRkJSUlZkelpqaGpNRmhSZVc1RFVIQkRXa3BoU2pGRmFYRkZkazlYY2tKeGNrdFFUMk4zY2xodmJsZEJUbmRVYVdKek9HcFFUbVZrZGpjMGVsbExlR1pCUWpsUldtSldSbmhQYkV4cVp4SVhaRU5sT1dGMVgxOUJPVmR2TVhOUlVHZDBSREJyUVVrYUlrRkVjM0k1WmxOWUxVSkJORGhHT0hCTmVWSklPV0Z0TTBsc2EydHBhVmRGWTNjIiwiZmN2IjoiMyIsImVpIjoiZENlOWF1X19BOVdvMXNRUGd0RDBrQUkiLCJxYyI6IkNpRm9iMnhrY3lCd1lYUmxiblJ6SUdOeWFYTndjaUJuWlc1bElHVmthWFJwYm1jUUFIMFZaVE1fIiwicXVlc3Rpb24iOiJDYW4gQ1JJU1BSIGN1cmUgYmFsZG5lc3M%2FIiwibGsiOiJHaGRqY21semNISWdkRzhnWTNWeVpTQmlZV3hrYm1WemN3IiwiYnMiOiJjM1hNTVEtQ01CQ0c0YmplNUdibzR1R2d6aDFjTzZBeGJnWUc1d3BuU2tKYTBoN3k5d1d4aVF6TTNfTi1jQUY4R0lmR05WVkFOb1N0WnJLTUwtY3h5Ml9GUFZjeUZkdC15WlMtRHEySEs2VGpUZV9zRjB4bGRFX04zSkNTTzRIOUg1clNPWUlUSkptMjhhRHNQQTFMVTFrS1FjbEViSDRSdV9rR0JSek9qa0lNaDMtdlctcTRMZ01hX1NiVS1PcDRTSlE4aW4wMTBuaTFTTmVyRHciLCJpZCI6ImZjX2RDZTlhdV9fQTlXbzFzUVBndEQwa0FJXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHTkRSbE53WkhGU1EwMXpkRkJSUlZkelpqaGpNRmhSZVc1RFVIQkRXa3BoU2pGRmFYRkZkazlYY2tKeGNrdFFUMk4zY2xodmJsZEJUbmRVYVdKek9HcFFUbVZrZGpjMGVsbExlR1pCUWpsUldtSldSbmhQYkV4cVp4SVhaRU5sT1dGMVgxOUJPVmR2TVhOUlVHZDBSREJyUVVrYUlrRkVjM0k1WmxOWUxVSkJORGhHT0hCTmVWSklPV0Z0TTBsc2EydHBhVmRGWTNjIiwiZmN2IjoiMyIsImVpIjoiZENlOWF1X19BOVdvMXNRUGd0RDBrQUkiLCJxYyI6IkNpRm9iMnhrY3lCd1lYUmxiblJ6SUdOeWFYTndjaUJuWlc1bElHVmthWFJwYm1jUUFIMFZaVE1fIiwicXVlc3Rpb24iOiJEb2VzIENSSVNQUiB0aGVyYXBldXRpY3MgaGF2ZSBhIGZ1dHVyZT8iLCJsayI6IkdpWmtiMlZ6SUdOeWFYTndjaUIwYUdWeVlYQmxkWFJwWTNNZ2FHRjJaU0JoSUdaMWRIVnlaUSIsImJzIjoiYzNYTU1RLUNNQkNHNGJqZTVHYm80dUdnemgxY082QXhiZ1lHNXdwblNrSmEwaDd5OXdXeGlRek0zX04tY0FGOEdJZkdOVlZBTm9TdFpyS01MLWN4eTJfRlBWY3lGZHQteVpTLURxMkhLNlRqVGVfc0YweGxkRV9OM0pDU080SDlINXJTT1lJVEpKbTI4YURzUEExTFUxa0tRY2xFYkg0UnVfa0dCUnpPamtJTWgzLXZXLXE0TGdNYV9TYlUtT3A0U0pROGluMDEwbmkxU05lckR3IiwiaWQiOiJmY19kQ2U5YXVfX0E5V28xc1FQZ3REMGtBSV81In0=",
+    "page_token": "V0hSh3icHdBNUoMwGIDh8TIubYBSpTMdZ1ISf4klkC_AxkmD1DZpiRYLsvMunsrT6Lh-V8_79W23B_NzdnrtOnecTyZ9319s2nZjXy50u5-o4-dBT7Sydq20mc8uZ951oxfk4w4v3-5wKpyDmKPMYwSCGji1WEs6FGjYVjFlGQkVHxkGGw1AsXg53D9IQp-YHFxt6KxElHMy9Z9kpKSJPCFFAPQ-4zH7zI07Pcqo1yjEbJeEaumVecF8JaddInmjcoxqiJSOS1_TCCpSeSCYYSOY3HcW9kPBd4xXEB3rHLgsKAZjA24qq-SwyjMUKq_K8ls3QGynGfKkNMm4_jOQ19qkvgjLApoCkRD8q0F7NK0CTpKbDme83aaCj3pn9xBjAdY2mXRlMta9viUoFd1K3YRj8tfSvBZVf97o0yI4__-5eG723dy9t5tfyXOAfQ",
+    "question": "Does CRISPR therapeutics have a future?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=V0hSh3icHdBNUoMwGIDh8TIubYBSpTMdZ1ISf4klkC_AxkmD1DZpiRYLsvMunsrT6Lh-V8_79W23B_NzdnrtOnecTyZ9319s2nZjXy50u5-o4-dBT7Sydq20mc8uZ951oxfk4w4v3-5wKpyDmKPMYwSCGji1WEs6FGjYVjFlGQkVHxkGGw1AsXg53D9IQp-YHFxt6KxElHMy9Z9kpKSJPCFFAPQ-4zH7zI07Pcqo1yjEbJeEaumVecF8JaddInmjcoxqiJSOS1_TCCpSeSCYYSOY3HcW9kPBd4xXEB3rHLgsKAZjA24qq-SwyjMUKq_K8ls3QGynGfKkNMm4_jOQ19qkvgjLApoCkRD8q0F7NK0CTpKbDme83aaCj3pn9xBjAdY2mXRlMta9viUoFd1K3YRj8tfSvBZVf97o0yI4__-5eG723dy9t5tfyXOAfQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHTkRSbE53WkhGU1EwMXpkRkJSUlZkelpqaGpNRmhSZVc1RFVIQkRXa3BoU2pGRmFYRkZkazlYY2tKeGNrdFFUMk4zY2xodmJsZEJUbmRVYVdKek9HcFFUbVZrZGpjMGVsbExlR1pCUWpsUldtSldSbmhQYkV4cVp4SVhaRU5sT1dGMVgxOUJPVmR2TVhOUlVHZDBSREJyUVVrYUlrRkVjM0k1WmxOWUxVSkJORGhHT0hCTmVWSklPV0Z0TTBsc2EydHBhVmRGWTNjIiwiZmN2IjoiMyIsImVpIjoiZENlOWF1X19BOVdvMXNRUGd0RDBrQUkiLCJxYyI6IkNpRm9iMnhrY3lCd1lYUmxiblJ6SUdOeWFYTndjaUJuWlc1bElHVmthWFJwYm1jUUFIMFZaVE1fIiwicXVlc3Rpb24iOiJEb2VzIENSSVNQUiB0aGVyYXBldXRpY3MgaGF2ZSBhIGZ1dHVyZT8iLCJsayI6IkdpWmtiMlZ6SUdOeWFYTndjaUIwYUdWeVlYQmxkWFJwWTNNZ2FHRjJaU0JoSUdaMWRIVnlaUSIsImJzIjoiYzNYTU1RLUNNQkNHNGJqZTVHYm80dUdnemgxY082QXhiZ1lHNXdwblNrSmEwaDd5OXdXeGlRek0zX04tY0FGOEdJZkdOVlZBTm9TdFpyS01MLWN4eTJfRlBWY3lGZHQteVpTLURxMkhLNlRqVGVfc0YweGxkRV9OM0pDU080SDlINXJTT1lJVEpKbTI4YURzUEExTFUxa0tRY2xFYkg0UnVfa0dCUnpPamtJTWgzLXZXLXE0TGdNYV9TYlUtT3A0U0pROGluMDEwbmkxU05lckR3IiwiaWQiOiJmY19kQ2U5YXVfX0E5V28xc1FQZ3REMGtBSV81In0%3D",
+    "type": "ai_overview"
+   }
+  ],
   "scholarly_articles": {
    "articles": [
     {
@@ -285,35 +337,44 @@
      "title": "Worldwide CRISPR patent landscape shows strong …"
     },
     {
-     "author": "‎Ledford",
+     "author": "‎Ku",
      "highlighted_words": [
-      "CRISPR patent"
+      "Crispr",
+      "Cas9 genome editing"
      ],
-     "link": "https://www.nature.com/articles/nature.2015.17961.pdf",
-     "title": "Bitter fight over CRISPR patent heats up"
+     "link": "https://scholarship.kentlaw.iit.edu/cgi/viewcontent.cgi?article=1184&context=ckjip",
+     "title": "The patentability of the Crispr-Cas9 genome editing …"
+    },
+    {
+     "author": "‎Borg",
+     "highlighted_words": [
+      "gene editing"
+     ],
+     "link": "https://www.tandfonline.com/doi/pdf/10.1080/09538259.2024.2401480",
+     "title": "The gene editing business: rent extraction in the …"
     }
    ],
-   "link": "https://scholar.google.com/scholar?q=holds+patents+crispr+gene+editing&hl=en&as_sdt=0&as_vis=1&oi=scholart",
-   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=en&q=holds+patents+crispr+gene+editing",
-   "title": "Scholarly articles for holds patents crispr gene editing"
+   "link": "https://scholar.google.lt/scholar?q=holds+patents+crispr+gene+editing&hl=lt&as_sdt=0&as_vis=1&oi=scholart",
+   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=lt&q=holds+patents+crispr+gene+editing",
+   "title": "Moksliniai straipsniai iš holds patents crispr gene editing"
   },
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "holds patents crispr gene editing",
-   "time_taken_displayed": 0.33,
-   "total_results": 35
+   "time_taken_displayed": 0.42,
+   "total_results": 76700
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:00:54 UTC",
+   "created_at": "2026-09-30 15:14:59 UTC",
    "google_url": "https://www.google.com/search?q=holds+patents+crispr+gene+editing&oq=holds+patents+crispr+gene+editing&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcaf649579af9e28ae72f",
-   "json_endpoint": "https://serpapi.com/searches/V0qmzRxpCZhMmLUBPV39ec-OD8MLBrqp8oieelvGNmM/6aafcaf649579af9e28ae72f.json",
-   "markdown_endpoint": "https://serpapi.com/searches/V0qmzRxpCZhMmLUBPV39ec-OD8MLBrqp8oieelvGNmM/6aafcaf649579af9e28ae72f.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/V0qmzRxpCZhMmLUBPV39ec-OD8MLBrqp8oieelvGNmM/6aafcaf649579af9e28ae72f.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:00:54 UTC",
-   "raw_html_file": "https://serpapi.com/searches/V0qmzRxpCZhMmLUBPV39ec-OD8MLBrqp8oieelvGNmM/6aafcaf649579af9e28ae72f.html",
+   "id": "6abd277319c5f669bce568ee",
+   "json_endpoint": "https://serpapi.com/searches/XY--nDXKwXXIrXqesFGsFOuaw4pUjV92oeLreMlw1S4/6abd277319c5f669bce568ee.json",
+   "markdown_endpoint": "https://serpapi.com/searches/XY--nDXKwXXIrXqesFGsFOuaw4pUjV92oeLreMlw1S4/6abd277319c5f669bce568ee.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/XY--nDXKwXXIrXqesFGsFOuaw4pUjV92oeLreMlw1S4/6abd277319c5f669bce568ee.json_with_pixel_position",
+   "processed_at": "2026-09-30 15:14:59 UTC",
+   "raw_html_file": "https://serpapi.com/searches/XY--nDXKwXXIrXqesFGsFOuaw4pUjV92oeLreMlw1S4/6abd277319c5f669bce568ee.html",
    "status": "Success",
-   "total_time_taken": 0.47
+   "total_time_taken": 1.62
   },
   "search_parameters": {
    "device": "desktop",

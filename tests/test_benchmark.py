@@ -689,6 +689,8 @@ def test_the_readme_quotes_the_results_it_ships() -> None:
     sources = {
         "results.json": ("summaries",),
         "ablation.json": ("ablation",),
+        "results-first.json": ("summaries",),
+        "ablation-first.json": ("ablation",),
         "structured-results.json": ("summaries",),
     }
     checked = 0
@@ -701,7 +703,7 @@ def test_the_readme_quotes_the_results_it_ships() -> None:
                     f"{name}:{arm} scores {quoted}, which the README never states"
                 )
                 checked += 1
-    assert checked >= 18, f"only checked {checked} figures; a results file may be missing"
+    assert checked >= 30, f"only checked {checked} figures; a results file may be missing"
 
 
 def test_the_frontier_chart_matches_the_numbers_it_plots() -> None:
@@ -732,6 +734,40 @@ def test_the_frontier_chart_matches_the_numbers_it_plots() -> None:
     # And the figures it draws must be the ones the sweep recorded.
     import json
 
-    ablation = json.loads((root / "benchmarks" / "ablation.json").read_text(encoding="utf-8"))
-    for arm in ("routed-1x1", "routed-2x1", "routed-3x1", "routed-3x2", "fixed-scholar"):
-        assert str(ablation["ablation"][arm]["answered"]) in committed
+    for name in ("ablation.json", "ablation-first.json"):
+        sweep = json.loads((root / "benchmarks" / name).read_text(encoding="utf-8"))["ablation"]
+        for arm in ("routed-1x1", "routed-2x1", "routed-3x1"):
+            assert str(sweep[arm]["answered"]) in committed, (
+                f"{name}:{arm} is not the figure the chart draws"
+            )
+
+
+def test_both_recordings_replay_and_are_not_the_same_recording() -> None:
+    """The benchmark is reported from two recordings, so both have to be real.
+
+    One recording of a web benchmark is one sample: a third of single-search
+    answers changed between these two. Reporting from both is only honest if
+    each replays completely on its own and if they really are different --
+    a copy of the first labelled as the second would pass every other test.
+    """
+    from frugal.benchmark import run_benchmark, summarise
+    from frugal.cache import CacheMode, ResponseCache
+    from frugal.client import SerpApiClient
+
+    root = Path(__file__).parent.parent / "benchmarks"
+    questions = load_questions()
+    verdicts = {}
+    for name in ("fixtures", "fixtures-first"):
+        cache = ResponseCache(root / name, mode=CacheMode.REPLAY)
+        with SerpApiClient(cache=cache) as client:
+            outcomes = run_benchmark(client, questions, verbose=False)
+        assert client.log.searches_charged == 0
+        assert {s.questions for s in summarise(outcomes).values()} == {len(questions)}
+        verdicts[name] = {
+            o.question_id: o.score.found for o in outcomes if o.strategy == "naive"
+        }
+
+    flipped = sum(
+        verdicts["fixtures"][q] != verdicts["fixtures-first"][q] for q in verdicts["fixtures"]
+    )
+    assert flipped > 10, "the two recordings agree too closely to be independent"

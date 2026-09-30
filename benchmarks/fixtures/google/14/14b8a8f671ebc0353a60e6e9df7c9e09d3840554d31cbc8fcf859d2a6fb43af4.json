@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 749.361,
+ "elapsed_ms": 1260.007,
  "engine": "google",
- "fetched_at": "2026-09-20T12:07:21.259629+00:00",
+ "fetched_at": "2026-09-30T15:21:16.881086+00:00",
  "frugal_cache_version": 1,
  "key": "14b8a8f671ebc0353a60e6e9df7c9e09d3840554d31cbc8fcf859d2a6fb43af4",
  "params": {
@@ -12,76 +12,211 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "-aUoj3iczVXbcuo2FP2Afkf90hTbgANkxnNGEgbMJYmSQxLy4vEN2WBbgAEDb-239Kv6NZUvgE1M0nMeOt0ztix5a2vfltYff3luMP_7lz-d9XoR3vF8FEUVQinx7IpJfV4P94HJT6kXrkznG_FkN-AcT7YDbr-Va5wZygJnu7I92m_1BdoMh0tPuqePy83AjnCTS7bLmqGH9oxZ381CXuPZa_5rrc0mlbBiB1oXVsZ6UxA6D8NNMKlUBbFVeeB1n-mA_04UTGA89gG6rsR-KV-big2oACo5SyogyQjPWpP0N8LJL0SuWoPpmU-JOmZPWzv0ojZbzfLTvrqXHQEL0yjxBYAo8RIC9-tocoKzWI5xfZKpk3ZRsuzR80q-xgVfC0KiwrTDvNAAQudD8ocxM07BjVOmTAKaPQrbEIyv-83yM1CBNAdYKQshL1h5qZ8qN5x02QpvEda4Am-s2CDyrumYyccqjPsZfW8JtHfvHXa1aGu0HH8ueTtBmiMS9tBaVwlvGkzPo7plW5qjCd-SuVgVJaFVazRvEiyZ4QlMYR5Mj2BjPA-dunsAlWEFikcYobTo4EPFFDZHaklgEGWqJSWG59W4YEqqhjt5u1kpYdzXyhMolnbwGOe1e5yyHj2w0uQ1zqfGzf8RRqmQnDJ6Sh1RaaaY10i1ujno5gqrgrJr5jJu3APHKPDsg2IBgMwVMAfHXp9cWp4AjIgSYwApPZhlzTzZGMSb0eByF2bm2A2VJekcSfoF8zHEKVAxGAFVYTbdcZ_VgMS9mjoaN0N2Vke5QNyVhlfZMa_o31x9JQK_AlEs-IiXi_YvwGY6rD9LI6Ez3_3-bhm3QHoaOw_SYTbqReUwob7xY6Rj_q-wlFKSklHSdSwpX2MpoST4CSUl35MTluL-RfQqlmC3nJJGpZRUjBuBpzyWPqekH8YS-hRLOHuXYImWY2lxFUskusRSkZKUcko6YelnKAn-JCUl0LLTochPmxm5ylNda7eqR-P3mqD0VRjfK4fOTH_R7MNj9CVPTf31na9b3o3mWnew2l_vrRuNLdA72-KWcqCvXRro3m964PpscAPL1TnfW1FZ0G9b9cXwHe7em6_YVpZtabmVgNEdtDeDTn0wPYii-gKce9EU-7Xhjj5spRbtrrqjPlWaar9_q5C3twZZwiYdvKkbD6vL4DkEvt65r_b2RGs8PLej8GVDw6o3bpp14kqiU8Na_82Eu--bcDePDKXdAOMRmu4xiV7AMvEslCNK9UadTLoG5vyVKbNq1wm4x-CVsLZDSTuyh7InYs8tqwbkQlPX7HArt2pV0641GlNDaJpWy-J8st4v5JbAhcFKFv8BSpo_Gw",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-aUoj3iczVXbcuo2FP2Afkf90hTbgANkxnNGEgbMJYmSQxLy4vEN2WBbgAEDb-239Kv6NZUvgE1M0nMeOt0ztix5a2vfltYff3luMP_7lz-d9XoR3vF8FEUVQinx7IpJfV4P94HJT6kXrkznG_FkN-AcT7YDbr-Va5wZygJnu7I92m_1BdoMh0tPuqePy83AjnCTS7bLmqGH9oxZ381CXuPZa_5rrc0mlbBiB1oXVsZ6UxA6D8NNMKlUBbFVeeB1n-mA_04UTGA89gG6rsR-KV-big2oACo5SyogyQjPWpP0N8LJL0SuWoPpmU-JOmZPWzv0ojZbzfLTvrqXHQEL0yjxBYAo8RIC9-tocoKzWI5xfZKpk3ZRsuzR80q-xgVfC0KiwrTDvNAAQudD8ocxM07BjVOmTAKaPQrbEIyv-83yM1CBNAdYKQshL1h5qZ8qN5x02QpvEda4Am-s2CDyrumYyccqjPsZfW8JtHfvHXa1aGu0HH8ueTtBmiMS9tBaVwlvGkzPo7plW5qjCd-SuVgVJaFVazRvEiyZ4QlMYR5Mj2BjPA-dunsAlWEFikcYobTo4EPFFDZHaklgEGWqJSWG59W4YEqqhjt5u1kpYdzXyhMolnbwGOe1e5yyHj2w0uQ1zqfGzf8RRqmQnDJ6Sh1RaaaY10i1ujno5gqrgrJr5jJu3APHKPDsg2IBgMwVMAfHXp9cWp4AjIgSYwApPZhlzTzZGMSb0eByF2bm2A2VJekcSfoF8zHEKVAxGAFVYTbdcZ_VgMS9mjoaN0N2Vke5QNyVhlfZMa_o31x9JQK_AlEs-IiXi_YvwGY6rD9LI6Ez3_3-bhm3QHoaOw_SYTbqReUwob7xY6Rj_q-wlFKSklHSdSwpX2MpoST4CSUl35MTluL-RfQqlmC3nJJGpZRUjBuBpzyWPqekH8YS-hRLOHuXYImWY2lxFUskusRSkZKUcko6YelnKAn-JCUl0LLTochPmxm5ylNda7eqR-P3mqD0VRjfK4fOTH_R7MNj9CVPTf31na9b3o3mWnew2l_vrRuNLdA72-KWcqCvXRro3m964PpscAPL1TnfW1FZ0G9b9cXwHe7em6_YVpZtabmVgNEdtDeDTn0wPYii-gKce9EU-7Xhjj5spRbtrrqjPlWaar9_q5C3twZZwiYdvKkbD6vL4DkEvt65r_b2RGs8PLej8GVDw6o3bpp14kqiU8Na_82Eu--bcDePDKXdAOMRmu4xiV7AMvEslCNK9UadTLoG5vyVKbNq1wm4x-CVsLZDSTuyh7InYs8tqwbkQlPX7HArt2pV0641GlNDaJpWy-J8st4v5JbAhcFKFv8BSpo_Gw"
+   "header_images": [
+    {
+     "image": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/TIvEjd62BEN3exYhOGCwTHWYx-It8L-S_MIZyM4VsWy2RyLJX5m5j8cVymMgNAPn.jpeg",
+     "source": "https://anekamschool.com/national-symbols-of-india-guide-for-students/"
+    },
+    {
+     "image": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/TIvEjd62BEN3exYhOGCwTGXWOoV9y2NhAujriTZujVUhjMtSkji2vt-hd7G_kHDD.jpeg",
+     "source": "https://www.ndtv.com/webstories/feature/the-royal-bengal-tiger-facts-about-indias-national-animal-25855"
+    },
+    {
+     "image": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/TIvEjd62BEN3exYhOGCwTPtRKCwGmxKlVXoEUnGsXFg6wfjYWcHFwzYCVvJ2uOzg.jpeg",
+     "source": "https://www.ritiriwaz.com/national-animal-of-india-indian-national-animal/"
+    },
+    {
+     "image": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/TIvEjd62BEN3exYhOGCwTK9vuJzM3MXxlFu-5L5DhwlrNsKjNryH62zKL18so0dE.jpeg",
+     "source": "https://www.discoverwildlife.com/animal-facts/mammals/national-animal-of-india"
+    },
+    {
+     "image": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/TIvEjd62BEN3exYhOGCwTEA9QIAwavUOqAnk-aly3DHTCCWWDXLtCxEHp20lsI6D.jpeg",
+     "source": "https://onlineresult.in/article/national-animal-of-india"
+    }
+   ],
+   "references": [
+    {
+     "index": 0,
+     "link": "https://www.india.gov.in/explore-india/facts-of-india/national-identity/national-animal",
+     "source": "india.gov.in"
+    },
+    {
+     "index": 1,
+     "link": "https://brainly.in/question/27017714",
+     "source": "brainly.in"
+    },
+    {
+     "index": 2,
+     "link": "https://en.wikipedia.org/wiki/National_symbols_of_India",
+     "source": "en.wikipedia.org"
+    },
+    {
+     "index": 3,
+     "link": "https://sathee.iitk.ac.in/sathee-neet/gk-terms/national-animal-of-india/",
+     "source": "sathee.iitk.ac.in"
+    },
+    {
+     "index": 4,
+     "link": "https://www.youtube.com/shorts/kqedpMyDxXE",
+     "source": "youtube.com"
+    },
+    {
+     "index": 5,
+     "link": "https://byjus.com/free-ias-prep/interesting-facts-national-animal-of-india/",
+     "source": "byjus.com"
+    },
+    {
+     "index": 6,
+     "link": "https://www.india.gov.in/explore-india/facts-of-india/national-identity/national-animal",
+     "snippet": "National Animal. The magnificent tiger, Panthera tigris is a striped animal. It has a thick yellow coat of fur with dark stripes. The combination of grace, strengt...",
+     "source": "National Portal of India",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.india.gov.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRa3rzq2OXLn6St_WC0KEd3RS-z6vVNZFphvswx0CQhavS9pvjgboOEhu8Hwyf7uJkT2nvFP9VdNH9SRNPUnPZmifDmZKRrLkFFyrR",
+     "title": "National Animal"
+    },
+    {
+     "index": 7,
+     "link": "https://brainly.in/question/27017714",
+     "snippet": "The national animal of India is the magnificent Royal Bengal Tiger. Its scientific name is Panthera tigris tigris. The Bengal Tiger Species: Panthera tigris Kingdo...",
+     "source": "Brainly.in",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://brainly.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "title": "what is the national animal of India?\\u200b - Brainly.in"
+    },
+    {
+     "index": 8,
+     "link": "https://en.wikipedia.org/wiki/National_symbols_of_India",
+     "snippet": "List of national and official symbols ; National animal · Bengal tiger (Panthera tigris), April 1973, The Bengal tiger was chosen as the national animal in a meeti...",
+     "source": "Wikipedia",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLlLVUlZA0PwxTOY_iVZqBfh4DM6WL4qjLa-WkbQjRtn3OidbSLlSIbDdQ3qt5MBgXf0T-rF5GF9uCUS7RAJn7nXr47xoFBS-4UPbX",
+     "title": "National symbols of India - Wikipedia"
+    },
+    {
+     "index": 9,
+     "link": "https://sathee.iitk.ac.in/sathee-neet/gk-terms/national-animal-of-india/",
+     "snippet": "National Animal of India — Bengal Tiger, Adoption Year & Why The Bengal tiger (Panthera tigris) is the National Animal of India, officially adopted on 1 April 1973...",
+     "source": "SATHEE",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sathee.iitk.ac.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCHMEg79-2G-QQJx7R1iSbNQper2xG1OSaryhDdZsgpLSgSRSk4dBCuo9MaiKycoALa2rz-INYmYpUmKGHGwSk7ZblwvmZC4XGmPOS",
+     "title": "National Animal of India — Bengal Tiger, Adoption Year & Why"
+    },
+    {
+     "index": 10,
+     "link": "https://www.youtube.com/shorts/kqedpMyDxXE",
+     "snippet": "india's national animal. we do have one it's the Bengal tiger interestingly it wasn't India's first national animal that was the Asiatic lion at the time of indepe...",
+     "source": "YouTube",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZbM6ykmxmVuJ6ifM0QxMVwZQ8X08xWNF4sBENmltkZ7hoLVh5XH20oWgQ8UnDCgD111bV6ahIjNoHNZ1lRaFJK8TAso0k0MvKFV0p",
+     "title": "India's National Animal Wasn't Always the Tiger | IGR"
+    },
+    {
+     "index": 11,
+     "link": "https://byjus.com/free-ias-prep/interesting-facts-national-animal-of-india/",
+     "snippet": "National Animal. The magnificent tiger, Panthera tigris is a striped animal. It has a thick yellow coat of fur with dark stripes. The combination of grace, strengt...",
+     "source": "BYJU'S",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://byjus.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.india.gov.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "title": "National Animal of India (Royal Bengal Tiger)"
+    }
+   ],
+   "text_blocks": [
+    {
+     "snippet": "The national animal of India is the magnificent Royal Bengal Tiger (Panthera tigris).",
+     "snippet_highlighted_words": [
+      "Royal Bengal Tiger"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "Key Facts",
+     "type": "heading"
+    },
+    {
+     "list": [
+      {
+       "snippet": "Adoption Date: Officially adopted in April 1973 during the launch of Project Tiger, replacing the Asiatic lion.",
+       "snippet_links": [
+        {
+         "link": "https://www.india.gov.in/explore-india/facts-of-india/national-identity/national-animal",
+         "text": "Project Tiger"
+        }
+       ]
+      },
+      {
+       "snippet": "Selection Reason: Chosen for its grace, strength, agility, and immense power."
+      },
+      {
+       "snippet": "Previous Status: The Asiatic lion served as the national animal until November 1972."
+      },
+      {
+       "snippet": "Conservation: Protected under Project Tiger, which works to maintain a viable population of tigers in National symbols of India.",
+       "snippet_links": [
+        {
+         "link": "https://en.wikipedia.org/wiki/National_symbols_of_India",
+         "text": "National symbols of India"
+        }
+       ]
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "If you'd like, I can share information about:",
+     "type": "paragraph"
+    },
+    {
+     "list": [
+      {
+       "snippet": "Tiger reserves in India"
+      },
+      {
+       "snippet": "Conservation history and Project Tiger"
+      },
+      {
+       "snippet": "Other national symbols of India"
+      }
+     ],
+     "type": "list"
+    }
+   ]
   },
-  "inline_images": [
+  "inline_videos": [
    {
-    "original": "https://www.bseh-ac.in/images/national-animal-of-india.jpg",
-    "source": "https://www.bseh-ac.in/nationalanimal.aspx",
-    "source_name": ".:: Board of School Education Hubli, Karnataka ::.",
-    "thumbnail": "https://serpapi.com/searches/6aafcc78b13aa782f1d3a37d/images/QOd2LgNDZyXFwKTLfjGywdgPRP46ATypptEN4kP7bF0.jpeg",
-    "title": "Board of School Education Hubli, Karnataka ::."
+    "channel": "Bright beginning Classes",
+    "date": "7 Feb 2026",
+    "duration": "0:03",
+    "link": "https://www.instagram.com/reel/DUdekUcjPJD/",
+    "platform": "Instagram",
+    "position": 1,
+    "thumbnail": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/0lDeMyf24aMpO33x3g-7PAomj38sOfSf6JSGoTrlhF4.jpeg",
+    "title": "India ka National Animal – Royal Bengal Tiger  Strength ..."
    },
    {
-    "original": "https://www.statecouncil.in/wp-content/uploads/2019/04/animal.jpg",
-    "source": "https://www.statecouncil.in/national-animal-of-india/",
-    "source_name": "Karnataka State Council",
-    "thumbnail": "https://serpapi.com/searches/6aafcc78b13aa782f1d3a37d/images/89TFBE_o81nvGUFwpK_K_KJ6Z6-4hIalVcL9m2C92LY.jpeg",
-    "title": "National Animal of India – Welcome to Karnataka State Council"
+    "channel": "GPlus",
+    "date": "16 Aug 2025",
+    "duration": "0:31",
+    "link": "https://www.youtube.com/shorts/fw7jdiq9wTE",
+    "platform": "YouTube",
+    "position": 2,
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSyZcXuO-1WAaFKAX-oYP3cpFx61mLo9zrxqg",
+    "thumbnail": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/UoxzhAIzuBpMNBUe7eGezD8KW2F1S8KNTZkZLahEvSM.jpeg",
+    "title": "Rare video captures India's National Animal and Bird Together ..."
    },
    {
-    "original": "https://anekamschool.com/wp-content/uploads/2025/09/73e902e5-3739-44ca-8373-d644ccbc8aa4.png",
-    "source": "https://anekamschool.com/national-symbols-of-india-guide-for-students/",
-    "source_name": "Anekam School",
-    "thumbnail": "https://serpapi.com/searches/6aafcc78b13aa782f1d3a37d/images/-9PrsyHBW_xEwqIbmpxJ4b-zo7WzPUz2MP7zdiAtDX4.jpeg",
-    "title": "National Symbols of India: Easy Guide for Students to Learn"
-   },
-   {
-    "original": "https://c.ndtvimg.com/gws/ms/the-royal-bengal-tiger-facts-about-indias-national-animal/assets/2.jpeg?1728910500",
-    "source": "https://www.ndtv.com/webstories/feature/the-royal-bengal-tiger-facts-about-indias-national-animal-25855",
-    "source_name": "NDTV",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrt5GL6Ve3X5MLWoJ_i3TQktdcDiVUEwN_x7HgU_NA-oN4zig6euyW9Y&s",
-    "title": "The Royal Bengal Tiger: Facts About India's National Animal"
-   },
-   {
-    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3695281996741409395",
-    "source": "https://www.instagram.com/reel/DNIR2XIqvpz/",
-    "source_name": "Instagram",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYpBLDtlm1_YxZtGH4rpZxHqVIKz-waWRWYAscPYuwpH8L1QckGNYv0k&s",
-    "title": "Why is Tiger our National Animal? 🇮🇳, #india #bharat #independence  #independenceday🇮🇳 , #aarzookhuranaphotography #aarzookhurana  #wildlifephotography"
-   },
-   {
-    "original": "https://i.ytimg.com/vi/QKQLRfE7Bfk/maxresdefault.jpg",
-    "source": "https://www.youtube.com/watch?v=QKQLRfE7Bfk",
-    "source_name": "YouTube",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sI9z1MYRtv53OXWm_j1G6-IRe6RqosM9UdOVW07X&s",
-    "title": "Tiger drawing - National Animal of india drawing - National symbols of  india drawing #republicday"
-   },
-   {
-    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=685450123711600",
-    "source": "https://www.facebook.com/groups/1098967350204669/posts/8115063561928311/",
-    "source_name": "Facebook",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPc-ienxJfsrDsnRAmPVohQDmEi3OHUnMRiAUB_qjCWZPLD0sADDU2n4k&s",
-    "title": "Royal Bengal Tiger is National Animal of India with effect ..."
-   },
-   {
-    "original": "https://i.ytimg.com/vi/KwJhHluS_1k/sddefault.jpg",
-    "source": "https://www.youtube.com/watch?v=KwJhHluS_1k",
-    "source_name": "YouTube",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAMh0a18-utdZixcfs5tWJu-aeyLR6UAkAXPtAxSreJQ&s",
-    "title": "National animal of India Tiger | About National Animal Tiger | Why TIGER is  national animal of India"
-   },
-   {
-    "original": "https://www.psgtech.edu/ncc/images/symbols/tigerl.jpg",
-    "source": "https://www.psgtech.edu/ncc/3Animal.html",
-    "source_name": "NCC",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKrA0YMInBRAh8zRw6ZMY9q-20ESVDHxjmpngf1Pd1I5MzcjzaS8VnII&s",
-    "title": "NCC"
+    "channel": "ThePrint",
+    "date": "16 Aug 2025",
+    "duration": "0:31",
+    "link": "https://www.facebook.com/theprintindia/videos/india/1162794589228600/",
+    "platform": "Facebook",
+    "position": 3,
+    "thumbnail": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/k2YNz_qr6Oi0xFu4pXR6xLRgoE6PFpeJrR7sdNiV63s.jpeg",
+    "title": "As India celebrates its 79th Independence Day today ..."
    }
   ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZXcEc0Z09MWlZEYm1Ub3JIYVh0TjRnVW1ROG93VHpZMGc5NHZ2VGJMR0ZVWGVOUTQ3a2U2SThMVzJtTkp6NWRWeHJ6bzVzMnVaLVpnMTlHbGVQRERGWVNCMnhSYjFrNVM2NXlUVTlLS2pOVmdMTEpwUXh6YW5UZzl3OWFWV1JmbTNPUE96bkxhWXdOaDg5akVIdkJQMlZBdEZPb0N0OF9Kd28zdGxXbFJlNlISBBoCCAAa2gQSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAtgQIABAAGAAgACofCghuYXRpb25hbBXBPoxAGg5uYXRpb25hbGFuaW1hbComCgZhbmltYWwVUSJhQBoHYW5pbWFscxoObmF0aW9uYWxhbmltYWwqFQoFaW5kaWEV9YVgQBoHaW5kaWEnczLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGV3BHNGdPTFpWRGJtVG9ySGFYdE40Z1VtUThvd1R6WTBnOTR2dlRiTEdGVVhlTlE0N2tlNkk4TFcybU5KejVkVnhyem81czJ1Wi1aZzE5R2xlUERERllTQjJ4UmIxazVTNjV5VFU5S0tqTlZnTExKcFF4emFuVGc5dzlhVldSZm0zT1BPem5MYVl3Tmg4OWpFSHZCUDJWQXRGT29DdDhfSndvM3RsV2xSZTZSOlA8Yj5OYXRpb25hbCBBbmltYWw8L2I-IG9mIDxiPkluZGlhPC9iPiDigJQgQmVuZ2FsIFRpZ2VyLCBBZG9wdGlvbiBZZWFyICZhbXA7IFdoeUK0AVRoZSA8Yj5CZW5nYWwgdGlnZXIgKFBhbnRoZXJhIHRpZ3JpczwvYj4pIGlzIHRoZSBOYXRpb25hbCBBbmltYWwgb2YgSW5kaWEsIG9mZmljaWFsbHkgYWRvcHRlZCBvbiAxIEFwcmlsIDE5NzMgcmVwbGFjaW5nIHRoZSBsaW9uLiBUaGUgdGlnZXIgcmVwcmVzZW50cyBJbmRpYSYjMzk7cyB3aWxkbGlmZSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZXcEc0Z09MWlZEYm1Ub3JIYVh0TjRnVW1ROG93VHpZMGc5NHZ2VGJMR0ZVWGVOUTQ3a2U2SThMVzJtTkp6NWRWeHJ6bzVzMnVaLVpnMTlHbGVQRERGWVNCMnhSYjFrNVM2NXlUVTlLS2pOVmdMTEpwUXh6YW5UZzl3OWFWV1JmbTNPUE96bkxhWXdOaDg5akVIdkJQMlZBdEZPb0N0OF9Kd28zdGxXbFJlNlISBBoCCAAa2gQSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAtgQIABAAGAAgACofCghuYXRpb25hbBXBPoxAGg5uYXRpb25hbGFuaW1hbComCgZhbmltYWwVUSJhQBoHYW5pbWFscxoObmF0aW9uYWxhbmltYWwqFQoFaW5kaWEV9YVgQBoHaW5kaWEnczLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGV3BHNGdPTFpWRGJtVG9ySGFYdE40Z1VtUThvd1R6WTBnOTR2dlRiTEdGVVhlTlE0N2tlNkk4TFcybU5KejVkVnhyem81czJ1Wi1aZzE5R2xlUERERllTQjJ4UmIxazVTNjV5VFU5S0tqTlZnTExKcFF4emFuVGc5dzlhVldSZm0zT1BPem5MYVl3Tmg4OWpFSHZCUDJWQXRGT29DdDhfSndvM3RsV2xSZTZSOlA8Yj5OYXRpb25hbCBBbmltYWw8L2I-IG9mIDxiPkluZGlhPC9iPiDigJQgQmVuZ2FsIFRpZ2VyLCBBZG9wdGlvbiBZZWFyICZhbXA7IFdoeUK0AVRoZSA8Yj5CZW5nYWwgdGlnZXIgKFBhbnRoZXJhIHRpZ3JpczwvYj4pIGlzIHRoZSBOYXRpb25hbCBBbmltYWwgb2YgSW5kaWEsIG9mZmljaWFsbHkgYWRvcHRlZCBvbiAxIEFwcmlsIDE5NzMgcmVwbGFjaW5nIHRoZSBsaW9uLiBUaGUgdGlnZXIgcmVwcmVzZW50cyBJbmRpYSYjMzk7cyB3aWxkbGlmZSZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -90,22 +225,27 @@
       "IN"
      ],
      "source": {
-      "description": "Enjoy this 8K Scenic Wildlife film featuring the wonderful creatures of the world. From tigers in Asia, to Lions in Africa, there are so many ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=dTFlPqCxgdE"
+      "description": "The Bengal tiger (Panthera tigris) is the National Animal of India, officially adopted on 1 April 1973 replacing the lion. The tiger represents India's wildlife ...",
+      "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADwBQCdASocABwAPtE-tFooIigoFAEAGgloALe7LBhgmTd3MHG2J4fWbPqhUd3Nmgjbg83QfL2YgAD-9gYYpVmBsUsJqoha_c-54Dz4VKjhzAYTZPmAHz1l3ymqtK3keVywfHF_451C4_4cdcFOMHkeusgZJhrDgvuVokzLNNC1qu_4LNp6D8evHZTl9nwLQhA4S_VxV1m4yOUNX6HXHmdffegWR5R59o_KHxXYU5oki_u3e4DxhPcj2jCb7PnJ6nf_WieYV0ctSMlJ1ofOSqu6vnNXOI9mkyuauE_eIlsd7DmdqTtA7fYjIlee6aFEFpre_RJbuoBR3oiebAcyJF2vpdKR-H-0dPR2E3_8Exf7xqGJ1VOarklKmbUxOMsv5Lu0Iw2i6c3iAAAA.webp",
+      "source_info_link": "https://sathee.iitk.ac.in/pa/sathee-ssc/gk-terms/national-animal-of-india/"
      }
     },
-    "date": "5 Jul 2026",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=dTFlPqCxgdE",
+    "displayed_link": "https://sathee.iitk.ac.in › gk-terms",
+    "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADwBQCdASocABwAPtE-tFooIigoFAEAGgloALe7LBhgmTd3MHG2J4fWbPqhUd3Nmgjbg83QfL2YgAD-9gYYpVmBsUsJqoha_c-54Dz4VKjhzAYTZPmAHz1l3ymqtK3keVywfHF_451C4_4cdcFOMHkeusgZJhrDgvuVokzLNNC1qu_4LNp6D8evHZTl9nwLQhA4S_VxV1m4yOUNX6HXHmdffegWR5R59o_KHxXYU5oki_u3e4DxhPcj2jCb7PnJ6nf_WieYV0ctSMlJ1ofOSqu6vnNXOI9mkyuauE_eIlsd7DmdqTtA7fYjIlee6aFEFpre_RJbuoBR3oiebAcyJF2vpdKR-H-0dPR2E3_8Exf7xqGJ1VOarklKmbUxOMsv5Lu0Iw2i6c3iAAAA.webp",
+    "link": "https://sathee.iitk.ac.in/pa/sathee-ssc/gk-terms/national-animal-of-india/",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVRI5jrf1qtJQdV_ptG_qYpnkW2Ww0a24Ji8yEp3AOU43K43hzsAa30UcQOK0gGQw4v1g-HBpngVdubQux5oRrxueMffSF6pE5coXn48pby3ftQoGOzCmwsUBXtzNcIw&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQFnoECBYQAQ&uoh=1",
-    "snippet": "Enjoy this 8K Scenic Wildlife film featuring the wonderful creatures of the world. From tigers in Asia, to Lions in Africa, there are so many ...",
-    "source": "YouTube",
-    "title": "Animals 8K - Scenic Wildlife Film With Calming Music"
+    "read_more_link": "https://sathee.iitk.ac.in/pa/sathee-ssc/gk-terms/national-animal-of-india/#:~:text=The%20Bengal%20tiger%20(Panthera%20tigris),is%20protected%20under%20Project%20Tiger.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFWpG4gOLZVDbmTorHaXtN4gUmQ8owTzY0g94vvTbLGFUXeNQ47ke6I8LW2mNJz5dVxrzo5s2uZ-Zg19GlePDDFYSB2xRb1k5S65yTU9KKjNVgLLJpQxzanTg9w9aVWRfm3OPOznLaYwNh89jEHvBP2VAtFOoCt8_Jwo3tlWlRe6R&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQFnoECC8QAQ&uoh=1",
+    "snippet": "The Bengal tiger (Panthera tigris) is the National Animal of India, officially adopted on 1 April 1973 replacing the lion. The tiger represents India's wildlife ...",
+    "snippet_highlighted_words": [
+     "Bengal tiger (Panthera tigris"
+    ],
+    "source": "SATHEE",
+    "title": "National Animal of India — Bengal Tiger, Adoption Year & Why"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmxEdUh0ZFFHWXpaa0ltVmljZEI3MVZJNDhhQnJpUERIYzZQX2FkZDh1RlVWNmtwWldPWktZdjVDUmlVVURuZHl6dDYxNkFSZGx2Y1dGS216cldhWmpyWmtOWU53TkVhR2xRS01pWXE4TDhiSW9kVGJnT2RXZ0ZuTkdfM1FJV0U3EgQaAggAGtUEEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQLEECAAQABgAIAAqHwoIbmF0aW9uYWwVlPmsQBoObmF0aW9uYWxhbmltYWwqJgoGYW5pbWFsFZT5rEAaB2FuaW1hbHMaDm5hdGlvbmFsYW5pbWFsKhUKBWluZGlhFc6PtUAaB2luZGlhJ3MylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWbER1SHRkUUdZelprSW1WaWNkQjcxVkk0OGFCcmlQREhjNlBfYWRkOHVGVVY2a3BaV09aS1l2NUNSaVVVRG5keXp0NjE2QVJkbHZjV0ZLbXpyV2FaanJaa05ZTndORWFHbFFLTWlZcThMOGJJb2RUYmdPZFdnRm5OR18zUUlXRTc6cuCkreCkvuCksOCkpCDgpJXgpL4g4KSw4KS-4KS34KWN4KSf4KWN4KSw4KWA4KSvIOCkquCktuClgSDgpJXgpYzgpKgg4KS44KS-IOCkueCliD8gfCBUaWdlciBGYWN0cyAjU2hvcnRzIC0gWW91VHViZUK5ATxiPk5hdGlvbmFsIEFuaW1hbDwvYj4gb2YgPGI-SW5kaWE8L2I-IHwgVGlnZXIgRmFjdHMuIDxiPkluZGlhIE5hdGlvbmFsIEFuaW1hbDwvYj4sIFJveWFsIEJlbmdhbCBUaWdlciwgQmVuZ2FsIFRpZ2VyLCBUaWdlciBGYWN0cywgSW5kaWFuIFRpZ2VyLCA8Yj5OYXRpb25hbCBBbmltYWw8L2I-LCA8Yj48L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmxEdUh0ZFFHWXpaa0ltVmljZEI3MVZJNDhhQnJpUERIYzZQX2FkZDh1RlVWNmtwWldPWktZdjVDUmlVVURuZHl6dDYxNkFSZGx2Y1dGS216cldhWmpyWmtOWU53TkVhR2xRS01pWXE4TDhiSW9kVGJnT2RXZ0ZuTkdfM1FJV0U3EgQaAggAGtUEEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQLEECAAQABgAIAAqHwoIbmF0aW9uYWwVlPmsQBoObmF0aW9uYWxhbmltYWwqJgoGYW5pbWFsFZT5rEAaB2FuaW1hbHMaDm5hdGlvbmFsYW5pbWFsKhUKBWluZGlhFc6PtUAaB2luZGlhJ3MylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWbER1SHRkUUdZelprSW1WaWNkQjcxVkk0OGFCcmlQREhjNlBfYWRkOHVGVVY2a3BaV09aS1l2NUNSaVVVRG5keXp0NjE2QVJkbHZjV0ZLbXpyV2FaanJaa05ZTndORWFHbFFLTWlZcThMOGJJb2RUYmdPZFdnRm5OR18zUUlXRTc6cuCkreCkvuCksOCkpCDgpJXgpL4g4KSw4KS-4KS34KWN4KSf4KWN4KSw4KWA4KSvIOCkquCktuClgSDgpJXgpYzgpKgg4KS44KS-IOCkueCliD8gfCBUaWdlciBGYWN0cyAjU2hvcnRzIC0gWW91VHViZUK5ATxiPk5hdGlvbmFsIEFuaW1hbDwvYj4gb2YgPGI-SW5kaWE8L2I-IHwgVGlnZXIgRmFjdHMuIDxiPkluZGlhIE5hdGlvbmFsIEFuaW1hbDwvYj4sIFJveWFsIEJlbmdhbCBUaWdlciwgQmVuZ2FsIFRpZ2VyLCBUaWdlciBGYWN0cywgSW5kaWFuIFRpZ2VyLCA8Yj5OYXRpb25hbCBBbmltYWw8L2I-LCA8Yj48L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -114,25 +254,29 @@
       "IN"
      ],
      "source": {
-      "description": "Glass Animals. 467203 followers · 64 talking about this. VAMPIRE BAT. OUT NOW ... India. We wanted to come play forever. and you wanted us to come play ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/glassanimals/"
+      "description": "National Animal of India | Tiger Facts. India National Animal, Royal Bengal Tiger, Bengal Tiger, Tiger Facts, Indian Tiger, National Animal,  ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "source_info_link": "https://www.youtube.com/shorts/jzfpz7cvItA"
      }
     },
-    "displayed_link": "https://www.facebook.com › ... › Musician/band",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/glassanimals/",
+    "displayed_link": "90+ views · 3 weeks ago",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/shorts/jzfpz7cvItA",
     "position": 2,
-    "read_more_link": "https://www.facebook.com/glassanimals/#:~:text=India.%20We%20wanted%20to%20come,us%20to%20come%20play%20forever.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVAocaxhK9tU8YS_6DlQIQo8Xz9M97L8w0oxkf6GrYmUSL-x2bmJJwEy-rU_KzuGfbtEMY7pU3qaiKvXEzi0xmrBvDSgTvnYhPGGo8l8sqkALyCqBxB0Jotg4&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQFnoECA8QAQ&uoh=1",
-    "snippet": "Glass Animals. 467203 followers · 64 talking about this. VAMPIRE BAT. OUT NOW ... India. We wanted to come play forever. and you wanted us to come play ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVlDuHtdQGYzZkImVicdB71VI48aBriPDHc6P_add8uFUV6kpZWOZKYv5CRiUUDndyzt616ARdlvcWFKmzrWaZjrZkNYNwNEaGlQKMiYq8L8bIodTbgOdWgFnNG_3QIWE7&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQFnoECDMQAQ&uoh=1",
+    "snippet": "National Animal of India | Tiger Facts. India National Animal, Royal Bengal Tiger, Bengal Tiger, Tiger Facts, Indian Tiger, National Animal, ...",
     "snippet_highlighted_words": [
-     "Glass Animals"
+     "National Animal",
+     "India",
+     "India National Animal",
+     "National Animal"
     ],
-    "source": "Facebook",
-    "title": "Glass Animals (@glassanimals)"
+    "source": "YouTube · Mix Video 1.0",
+    "title": "Tiger Facts - भारत का राष्ट्रीय पशु कौन सा है?"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvYCL2dvdG8_dXJsPUNBRVNqQUlCNnpzd0ZaQklhc1gzQUozdmQ3Y1VWX19LLVpIMlMtb040eHlsRWhuTkI4ck1wdVBYYlM2WTVzZkJBZHRvNm1SRTJXQXFZMUR4NjQza25JUERDOUVMMDBsN2thLVhjZWxBcElScjFZbU9xb3psSHJ1ZkVIU3Etc2RBZWpYWWxFTXkxRjVaYXZ0Qy1ZUzBjOU1rYWxlcXRDMDVpSmNzOS1FdUQ5Qk5ic2VzOXk1Ry1ncjJXRWp2b0k3VEY1bXllVXdLcHo4ekc2VV9weEM0RzRNOGx4WTlKQzBhMGE3Y1RaSy1ZZjl5dUZiSHB5alhqOGlnUEZBVDhaaTRzU2U3Tm90cTlfVElNaXhXdUhORUhIWVU3RWQ0eXh0WmZ4MWMzbXF2VmZJUUJPR09lNElXQy0xeDhXMjFEV0hjTk1DT3U5UjR0RHFVbVh0OHUxdmRPazAxeWpBUFpQajFabWk4Q0l4MW9COHUSBBoCCAAa4gYSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAvgYIABAAGAAgACofCghuYXRpb25hbBVXkGVAGg5uYXRpb25hbGFuaW1hbComCgZhbmltYWwVtDBiQBoHYW5pbWFscxoObmF0aW9uYWxhbmltYWwqFQoFaW5kaWEVz5BYQBoHaW5kaWEnczL2Ai9nb3RvP3VybD1DQUVTakFJQjZ6c3dGWkJJYXNYM0FKM3ZkN2NVVl9fSy1aSDJTLW9ONHh5bEVobk5COHJNcHVQWGJTNlk1c2ZCQWR0bzZtUkUyV0FxWTFEeDY0M2tuSVBEQzlFTDAwbDdrYS1YY2VsQXBJUnIxWW1PcW96bEhydWZFSFNxLXNkQWVqWFlsRU15MUY1WmF2dEMtWVMwYzlNa2FsZXF0QzA1aUpjczktRXVEOUJOYnNlczl5NUctZ3IyV0Vqdm9JN1RGNW15ZVV3S3B6OHpHNlVfcHhDNEc0TThseFk5SkMwYTBhN2NUWkstWWY5eXVGYkhweWpYajhpZ1BGQVQ4Wmk0c1NlN05vdHE5X1RJTWl4V3VITkVISFlVN0VkNHl4dFpmeDFjM21xdlZmSVFCT0dPZTRJV0MtMXg4VzIxRFdIY05NQ091OVI0dERxVW1YdDh1MXZkT2swMXlqQVBaUGoxWm1pOENJeDFvQjh1OpQBPGI-TmF0aW9uYWwgQW5pbWFsPC9iPiA6IOCkl-CkvuCkr-ClgOCksuCkviDgpLDgpL7gpLfgpY3gpJ_gpY3gpLDgpYDgpK8g4KSq4KWN4KSw4KS-4KSj4KWAIOCkruCljeCkueCko-ClguCkqCDgpK7gpL7gpKjgpY3gpK_gpKTgpL4g4KSu4KS_4KSz4KWH4KSyP0LDAVRpZ2VyIGlzIE5hdGlvbmFsIEFuaW1hbCBvZiBJbmRpYSA6IDxiPuCkteCkvuCkmCDgpLngpL4g4KSt4KS-4KSw4KSk4KS-4KSa4KS-IOCksOCkvuCkt-CljeCkn-CljeCksOClgOCkryDgpKrgpY3gpLDgpL7gpKPgpYAg4KSG4KS54KWHPC9iPi4g4KSX4KS-4KSv4KWA4KSy4KS-IOCksOCkvuCkt-CljeCkn-CljeCksOClgOCkryZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvYCL2dvdG8_dXJsPUNBRVNqQUlCNnpzd0ZaQklhc1gzQUozdmQ3Y1VWX19LLVpIMlMtb040eHlsRWhuTkI4ck1wdVBYYlM2WTVzZkJBZHRvNm1SRTJXQXFZMUR4NjQza25JUERDOUVMMDBsN2thLVhjZWxBcElScjFZbU9xb3psSHJ1ZkVIU3Etc2RBZWpYWWxFTXkxRjVaYXZ0Qy1ZUzBjOU1rYWxlcXRDMDVpSmNzOS1FdUQ5Qk5ic2VzOXk1Ry1ncjJXRWp2b0k3VEY1bXllVXdLcHo4ekc2VV9weEM0RzRNOGx4WTlKQzBhMGE3Y1RaSy1ZZjl5dUZiSHB5alhqOGlnUEZBVDhaaTRzU2U3Tm90cTlfVElNaXhXdUhORUhIWVU3RWQ0eXh0WmZ4MWMzbXF2VmZJUUJPR09lNElXQy0xeDhXMjFEV0hjTk1DT3U5UjR0RHFVbVh0OHUxdmRPazAxeWpBUFpQajFabWk4Q0l4MW9COHUSBBoCCAAa4gYSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAvgYIABAAGAAgACofCghuYXRpb25hbBVXkGVAGg5uYXRpb25hbGFuaW1hbComCgZhbmltYWwVtDBiQBoHYW5pbWFscxoObmF0aW9uYWxhbmltYWwqFQoFaW5kaWEVz5BYQBoHaW5kaWEnczL2Ai9nb3RvP3VybD1DQUVTakFJQjZ6c3dGWkJJYXNYM0FKM3ZkN2NVVl9fSy1aSDJTLW9ONHh5bEVobk5COHJNcHVQWGJTNlk1c2ZCQWR0bzZtUkUyV0FxWTFEeDY0M2tuSVBEQzlFTDAwbDdrYS1YY2VsQXBJUnIxWW1PcW96bEhydWZFSFNxLXNkQWVqWFlsRU15MUY1WmF2dEMtWVMwYzlNa2FsZXF0QzA1aUpjczktRXVEOUJOYnNlczl5NUctZ3IyV0Vqdm9JN1RGNW15ZVV3S3B6OHpHNlVfcHhDNEc0TThseFk5SkMwYTBhN2NUWkstWWY5eXVGYkhweWpYajhpZ1BGQVQ4Wmk0c1NlN05vdHE5X1RJTWl4V3VITkVISFlVN0VkNHl4dFpmeDFjM21xdlZmSVFCT0dPZTRJV0MtMXg4VzIxRFdIY05NQ091OVI0dERxVW1YdDh1MXZkT2swMXlqQVBaUGoxWm1pOENJeDFvQjh1OpQBPGI-TmF0aW9uYWwgQW5pbWFsPC9iPiA6IOCkl-CkvuCkr-ClgOCksuCkviDgpLDgpL7gpLfgpY3gpJ_gpY3gpLDgpYDgpK8g4KSq4KWN4KSw4KS-4KSj4KWAIOCkruCljeCkueCko-ClguCkqCDgpK7gpL7gpKjgpY3gpK_gpKTgpL4g4KSu4KS_4KSz4KWH4KSyP0LDAVRpZ2VyIGlzIE5hdGlvbmFsIEFuaW1hbCBvZiBJbmRpYSA6IDxiPuCkteCkvuCkmCDgpLngpL4g4KSt4KS-4KSw4KSk4KS-4KSa4KS-IOCksOCkvuCkt-CljeCkn-CljeCksOClgOCkryDgpKrgpY3gpLDgpL7gpKPgpYAg4KSG4KS54KWHPC9iPi4g4KSX4KS-4KSv4KWA4KSy4KS-IOCksOCkvuCkt-CljeCkn-CljeCksOClgOCkryZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -141,25 +285,27 @@
       "IN"
      ],
      "source": {
-      "description": "Some of my favorite moments with animals … these animals always react to him. They are howler monkeys . All creatures love gentle, beautiful ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/plumesofficiel/videos/some-of-my-favorite-moments-with-animals-hope-youll-enjoy-it-%EF%B8%8F-animals-animal/1064207149417063/"
+      "description": "Tiger is National Animal of India : वाघ हा भारताचा राष्ट्रीय प्राणी आहे. गायीला राष्ट्रीय ...",
+      "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADQBgCdASocABwAPtEutFooIagoGAEAGglsALElQMhCi1bJmJVd5IkHC5yNzOt2-mAWbvojVOauIMhfNfxghzAA_vTWy6WetN78vp3cGca9VJY2VnNMgSXMhG4NC_fL78E_prwH92-0BqkAK86kD1D-DwQOrhWuPx1i9IS933siCjtfhj94RgHLHlHqI7xMruFRa7694Z9ipyW_oZwerxWiS5DUOCZkNdIvGIwnUCdT38f8Sjp4FBSqyn9gd37FBs4re64qHQuGts0Y1sIGxCo1VHqiQihEA__cL35dglh_xkEAH7rD2QTCqR-OeCcHNGWY5ICOpAwySlfLCtlX1v_nq95r103_jcCaivt8zHJT-nrXHMaS800P3hVg0tfc4wfDKuBVoVnLnOXfTAoGS8zfANBya0wgCtj7nf_ufUd9henR-g-QAA.webp",
+      "source_info_link": "https://saamtv.esakal.com/national-international/tiger-is-national-animal-of-india-government-does-not-intend-to-recognise-cow-as-national-animal-union-culture-minister-g-kishan-reddy-told-in-parliament-nrj84"
      }
     },
-    "date": "23 Aug 2026",
-    "displayed_link": "https://www.facebook.com › ... › Plumes › Videos",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/plumesofficiel/videos/some-of-my-favorite-moments-with-animals-hope-youll-enjoy-it-%EF%B8%8F-animals-animal/1064207149417063/",
+    "date": "7 Aug 2023",
+    "displayed_link": "https://saamtv.esakal.com › tiger-is...",
+    "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADQBgCdASocABwAPtEutFooIagoGAEAGglsALElQMhCi1bJmJVd5IkHC5yNzOt2-mAWbvojVOauIMhfNfxghzAA_vTWy6WetN78vp3cGca9VJY2VnNMgSXMhG4NC_fL78E_prwH92-0BqkAK86kD1D-DwQOrhWuPx1i9IS933siCjtfhj94RgHLHlHqI7xMruFRa7694Z9ipyW_oZwerxWiS5DUOCZkNdIvGIwnUCdT38f8Sjp4FBSqyn9gd37FBs4re64qHQuGts0Y1sIGxCo1VHqiQihEA__cL35dglh_xkEAH7rD2QTCqR-OeCcHNGWY5ICOpAwySlfLCtlX1v_nq95r103_jcCaivt8zHJT-nrXHMaS800P3hVg0tfc4wfDKuBVoVnLnOXfTAoGS8zfANBya0wgCtj7nf_ufUd9henR-g-QAA.webp",
+    "link": "https://saamtv.esakal.com/national-international/tiger-is-national-animal-of-india-government-does-not-intend-to-recognise-cow-as-national-animal-union-culture-minister-g-kishan-reddy-told-in-parliament-nrj84",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzwEB6zswFbnGU4qUC7CRLGyVqC8UIMvB19_s5GuFxh-hETS4gocUE0x6l-7fobXVrJrBed7c0PU3qOjxnZzwHNfcVWSdYkNVoZmMoUJdXfbGb6B0lKV0DrLJQKAoXv6TJobfDcclfwjP4_lVnBZ0q77GAODUENVi33kJguUYK-pXeiklyVucWqArIHUU7TEs66UTEDeGXQy2xw67oelBx-oBkjOytYvGKQWRh2tOdtqgagje4ubylSJtnR2Cs_6nZ-gDDOp2ogO08dLmqtjCIGU&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQFnoECA0QAQ&uoh=1",
-    "snippet": "Some of my favorite moments with animals … these animals always react to him. They are howler monkeys . All creatures love gentle, beautiful ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAIB6zswFZBIasX3AJ3vd7cUV__K-ZH2S-oN4xylEhnNB8rMpuPXbS6Y5sfBAdto6mRE2WAqY1Dx643knIPDC9EL00l7ka-XcelApIRr1YmOqozlHrufEHSq-sdAejXYlEMy1F5ZavtC-YS0c9MkaleqtC05iJcs9-EuD9BNbses9y5G-gr2WEjvoI7TF5myeUwKpz8zG6U_pxC4G4M8lxY9JC0a0a7cTZK-Yf9yuFbHpyjXj8igPFAT8Zi4sSe7Notq9_TIMixWuHNEHHYU7Ed4yxtZfx1c3mqvVfIQBOGOe4IWC-1x8W21DWHcNMCOu9R4tDqUmXt8u1vdOk01yjAPZPj1Zmi8CIx1oB8u&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQFnoECDAQAQ&uoh=1",
+    "snippet": "Tiger is National Animal of India : वाघ हा भारताचा राष्ट्रीय प्राणी आहे. गायीला राष्ट्रीय ...",
     "snippet_highlighted_words": [
-     "howler monkeys"
+     "वाघ हा भारताचा राष्ट्रीय प्राणी आहे"
     ],
-    "source": "Facebook",
-    "title": "Some of my favorite moments with animals 🥹 Hope you'll ..."
+    "source": "Saam Tv",
+    "title": "National Animal : गायीला राष्ट्रीय प्राणी म्हणून मान्यता मिळेल?"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVmRYVFQ0ZDJkTzMtRkR2ZEwzRTFmYXNYYzVxYTB0OEJmd1QxSkRPVHo2Ymk2RjctY0dMRllOWnFPY0F0dGUtM1p0NHl1LWRqTXRjQUszYmllcmd3TWRmLUZHSy1ncXR6dUtLb3ZqYTJKNmZOeWJhX2t0RXdvEgQaAggAGuYDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMIDCAAQABgAIAAqHwoIbmF0aW9uYWwVfk2cQBoObmF0aW9uYWxhbmltYWwqJgoGYW5pbWFsFUo_oEAaB2FuaW1hbHMaDm5hdGlvbmFsYW5pbWFsKhUKBWluZGlhFZL4lUAaB2luZGlhJ3MyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWZFhUVDRkMmRPMy1GRHZkTDNFMWZhc1hjNXFhMHQ4QmZ3VDFKRE9UejZiaTZGNy1jR0xGWU5acU9jQXR0ZS0zWnQ0eXUtZGpNdGNBSzNiaWVyZ3dNZGYtRkdLLWdxdHp1S0tvdmphMko2Zk55YmFfa3RFd286RVRoZSA8Yj5OYXRpb25hbDwvYj4gSGVyaXRhZ2UgPGI-YW5pbWFsPC9iPiBvZiA8Yj5JbmRpYTwvYj4gaXMgLSBBbGxlbkKDAVRoZSBOYXRpb25hbCBIZXJpdGFnZSBhbmltYWwgb2YgSW5kaWEgaXMgQSBCZW5nYWwgdGlnZXIgQiBMaW9uIExvY2sgSWNvbi4gVGhlIGNvcnJlY3QgQW5zd2VyIGlzOiA8Yj5CZW5nYWwgVGlnZXI8L2I-IC0gQikgTGlvbiAtIEMpIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVmRYVFQ0ZDJkTzMtRkR2ZEwzRTFmYXNYYzVxYTB0OEJmd1QxSkRPVHo2Ymk2RjctY0dMRllOWnFPY0F0dGUtM1p0NHl1LWRqTXRjQUszYmllcmd3TWRmLUZHSy1ncXR6dUtLb3ZqYTJKNmZOeWJhX2t0RXdvEgQaAggAGuYDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMIDCAAQABgAIAAqHwoIbmF0aW9uYWwVfk2cQBoObmF0aW9uYWxhbmltYWwqJgoGYW5pbWFsFUo_oEAaB2FuaW1hbHMaDm5hdGlvbmFsYW5pbWFsKhUKBWluZGlhFZL4lUAaB2luZGlhJ3MyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWZFhUVDRkMmRPMy1GRHZkTDNFMWZhc1hjNXFhMHQ4QmZ3VDFKRE9UejZiaTZGNy1jR0xGWU5acU9jQXR0ZS0zWnQ0eXUtZGpNdGNBSzNiaWVyZ3dNZGYtRkdLLWdxdHp1S0tvdmphMko2Zk55YmFfa3RFd286RVRoZSA8Yj5OYXRpb25hbDwvYj4gSGVyaXRhZ2UgPGI-YW5pbWFsPC9iPiBvZiA8Yj5JbmRpYTwvYj4gaXMgLSBBbGxlbkKDAVRoZSBOYXRpb25hbCBIZXJpdGFnZSBhbmltYWwgb2YgSW5kaWEgaXMgQSBCZW5nYWwgdGlnZXIgQiBMaW9uIExvY2sgSWNvbi4gVGhlIGNvcnJlY3QgQW5zd2VyIGlzOiA8Yj5CZW5nYWwgVGlnZXI8L2I-IC0gQikgTGlvbiAtIEMpIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -168,26 +314,26 @@
       "IN"
      ],
      "source": {
-      "description": "Make your own version of In-N-Out's Double-Double Animal Style burger with caramelized onions, two patties, American cheese, pickles, mustard, ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwFgZIFgJIGgZIGgZIGgZIFgZEGgZIGgZIGg5IGgJIGgJLgFxFfAAAADHRSTlMADxbf_6kv78kIkH7my8KEAAAAY0lEQVR4AWPABhiVlASQuMwuLgFIXKYUJ6gsY7ExEJg4g0gLBgbOVQiwGtPQcgQonsDA6IIA7hMYOlyQQAfDKmTuKgZOZMUMaHoHKZehBcH1APo_BcF1A3LZIjqgoDWBAT8AAOPZWEDNA3JgAAAAAElFTkSuQmCC.png",
-      "source_info_link": "https://www.seriouseats.com/in-n-outs-double-double-animal-style-burger-recipe"
+      "description": "The National Heritage animal of India is A Bengal tiger B Lion Lock Icon. The correct Answer is: Bengal Tiger - B) Lion - C)",
+      "icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAACwBgCdASogACAAPtEutFooIagoGAEAGglsALEe37aNXTtEEzOkX_W7qbniBUJalMWA_ridiHC4d7Mr0MTPAAD-_sOa6hpdp_DPNtXImRWJuweIbnvQotFesG8wN7AR6bp-hJnkTZHqt035O-Rdew3KF6MEcsJiwKSW_tbOgnfR5fS1BKMe9zaN24bg6pJkFlprCYT5ZMg7_cz5KSk-nC6Uc8qlR2So5eFpea8YbWofRMFuYwnurCX9GUycFAFEHlT_NuGyRXyOlcXIKCegH8SJF47GOI-fzzzCUFD7xBos_es_n3zzp7Uke-N7W639sMgx5XCeDSnoqYb86Tl2IanUO50y5lsGfVQmnAwh0NIVbLYuD26ihCyMlvlOyNZn_sLJ9AMI9gT0Wkbz9kD1qDhCeKPvZUgjLq6ng-R3HjyVE-nqRMwoG2k1qBXMEI27aaqq_2wAAAA.webp",
+      "source_info_link": "https://allen.in/dn/qna/393235813"
      }
     },
-    "date": "28 Jul 2010",
-    "displayed_link": "https://www.seriouseats.com › ... › Burgers",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwFgZIFgJIGgZIGgZIGgZIFgZEGgZIGgZIGg5IGgJIGgJLgFxFfAAAADHRSTlMADxbf_6kv78kIkH7my8KEAAAAY0lEQVR4AWPABhiVlASQuMwuLgFIXKYUJ6gsY7ExEJg4g0gLBgbOVQiwGtPQcgQonsDA6IIA7hMYOlyQQAfDKmTuKgZOZMUMaHoHKZehBcH1APo_BcF1A3LZIjqgoDWBAT8AAOPZWEDNA3JgAAAAAElFTkSuQmCC.png",
-    "link": "https://www.seriouseats.com/in-n-outs-double-double-animal-style-burger-recipe",
+    "displayed_link": "https://allen.in › qna",
+    "favicon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAACwBgCdASogACAAPtEutFooIagoGAEAGglsALEe37aNXTtEEzOkX_W7qbniBUJalMWA_ridiHC4d7Mr0MTPAAD-_sOa6hpdp_DPNtXImRWJuweIbnvQotFesG8wN7AR6bp-hJnkTZHqt035O-Rdew3KF6MEcsJiwKSW_tbOgnfR5fS1BKMe9zaN24bg6pJkFlprCYT5ZMg7_cz5KSk-nC6Uc8qlR2So5eFpea8YbWofRMFuYwnurCX9GUycFAFEHlT_NuGyRXyOlcXIKCegH8SJF47GOI-fzzzCUFD7xBos_es_n3zzp7Uke-N7W639sMgx5XCeDSnoqYb86Tl2IanUO50y5lsGfVQmnAwh0NIVbLYuD26ihCyMlvlOyNZn_sLJ9AMI9gT0Wkbz9kD1qDhCeKPvZUgjLq6ng-R3HjyVE-nqRMwoG2k1qBXMEI27aaqq_2wAAAA.webp",
+    "link": "https://allen.in/dn/qna/393235813",
     "position": 4,
-    "read_more_link": "https://www.seriouseats.com/in-n-outs-double-double-animal-style-burger-recipe#:~:text=Make%20your%20own%20version%20of,pickles%2C%20mustard%2C%20and%20special%20sauce.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFQaGjUobYfwV9z66YXxMfl54adgGppSz40FL1jAKpApiA2yoC-iqEsLf80DuH_dAbBBTY7QtcU-Em0b2IWzmIY4Fd-OHVDK5mw95b0Gg4uSaUdWOLI0KOiYBQ_av_XRIBeSkOLYrE2KTGn0aua3ulgD30yK-YOgViUn-mwjc-luJMA&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQFnoECA4QAQ&uoh=1",
-    "snippet": "Make your own version of In-N-Out's Double-Double Animal Style burger with caramelized onions, two patties, American cheese, pickles, mustard, ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVdXTT4d2dO3-FDvdL3E1fasXc5qa0t8BfwT1JDOTz6bi6F7-cGLFYNZqOcAtte-3Zt4yu-djMtcAK3biergwMdf-FGK-gqtzuKKovja2J6fNyba_ktEwo&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQFnoECEkQAQ&uoh=1",
+    "snippet": "The National Heritage animal of India is A Bengal tiger B Lion Lock Icon. The correct Answer is: Bengal Tiger - B) Lion - C)",
     "snippet_highlighted_words": [
-     "Make your own version of In-N-Out's Double-Double Animal Style burger"
+     "Bengal Tiger"
     ],
-    "source": "Serious Eats",
-    "title": "In-N-Out's Double-Double, Animal Style Recipe"
+    "source": "Allen",
+    "title": "The National Heritage animal of India is"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZZVWZqQXhMMjNaNFpibWE5Zlc1YU5NX0RRT3BmcTRmeXhXbmhDbGc0WEtNel9DVVloaklfUXczcHgzMGRWRUtMMVdla053anJQX0VZRUI5Zldxa3Y3ZFBrcXFiSWdXY1R5RHJEMlYxd0RzQUtVUVdvODFxUHNtZ1gwZ0xQcmlMTXZQaGZ6VmE5VS1WeENRVl83RXFUU3d5c2s4MlN4ZGtvWVVHc2lyeG9SbkhxMnlrWWpSRnhVZkZTcjFPNDhxdENwNER3WEUSBBoCCAAa4wQSABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC9BAgAEAAYACAAKh8KCG5hdGlvbmFsFTQwiUAaDm5hdGlvbmFsYW5pbWFsKiYKBmFuaW1hbBW5DIZAGgdhbmltYWxzGg5uYXRpb25hbGFuaW1hbCoVCgVpbmRpYRXu18A_GgdpbmRpYSdzMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZZVWZqQXhMMjNaNFpibWE5Zlc1YU5NX0RRT3BmcTRmeXhXbmhDbGc0WEtNel9DVVloaklfUXczcHgzMGRWRUtMMVdla053anJQX0VZRUI5Zldxa3Y3ZFBrcXFiSWdXY1R5RHJEMlYxd0RzQUtVUVdvODFxUHNtZ1gwZ0xQcmlMTXZQaGZ6VmE5VS1WeENRVl83RXFUU3d5c2s4MlN4ZGtvWVVHc2lyeG9SbkhxMnlrWWpSRnhVZkZTcjFPNDhxdENwNER3WEU6P0NvbmZyb250aW5nIHRoZSA8Yj5OYXRpb25hbCBBbmltYWw8L2I-IC0gQmVuZ2FsIFRpZ2VyIC0gVHJpcG90b0KxAVRoaXMgd2FzIGEgd2lsZGxpZmUgcmVzZXJ2ZSB1bnRpbCAxOTc4LCB3aGVuIGl0IHdhcyBnaXZlbiB0aGUgbmFtZSBvZiBhIFRpZ2VyIFJlc2VydmUgdW5kZXIgJiMzOTtQcm9qZWN0IFRpZ2VyJiMzOTsgLSBhIHRpZ2VyIGNvbnNlcnZhdGlvbiBwcm9ncmFtbWUsIG93aW5nIHRvIHdoaWNoLCBpdCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZZVWZqQXhMMjNaNFpibWE5Zlc1YU5NX0RRT3BmcTRmeXhXbmhDbGc0WEtNel9DVVloaklfUXczcHgzMGRWRUtMMVdla053anJQX0VZRUI5Zldxa3Y3ZFBrcXFiSWdXY1R5RHJEMlYxd0RzQUtVUVdvODFxUHNtZ1gwZ0xQcmlMTXZQaGZ6VmE5VS1WeENRVl83RXFUU3d5c2s4MlN4ZGtvWVVHc2lyeG9SbkhxMnlrWWpSRnhVZkZTcjFPNDhxdENwNER3WEUSBBoCCAAa4wQSABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC9BAgAEAAYACAAKh8KCG5hdGlvbmFsFTQwiUAaDm5hdGlvbmFsYW5pbWFsKiYKBmFuaW1hbBW5DIZAGgdhbmltYWxzGg5uYXRpb25hbGFuaW1hbCoVCgVpbmRpYRXu18A_GgdpbmRpYSdzMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZZVWZqQXhMMjNaNFpibWE5Zlc1YU5NX0RRT3BmcTRmeXhXbmhDbGc0WEtNel9DVVloaklfUXczcHgzMGRWRUtMMVdla053anJQX0VZRUI5Zldxa3Y3ZFBrcXFiSWdXY1R5RHJEMlYxd0RzQUtVUVdvODFxUHNtZ1gwZ0xQcmlMTXZQaGZ6VmE5VS1WeENRVl83RXFUU3d5c2s4MlN4ZGtvWVVHc2lyeG9SbkhxMnlrWWpSRnhVZkZTcjFPNDhxdENwNER3WEU6P0NvbmZyb250aW5nIHRoZSA8Yj5OYXRpb25hbCBBbmltYWw8L2I-IC0gQmVuZ2FsIFRpZ2VyIC0gVHJpcG90b0KxAVRoaXMgd2FzIGEgd2lsZGxpZmUgcmVzZXJ2ZSB1bnRpbCAxOTc4LCB3aGVuIGl0IHdhcyBnaXZlbiB0aGUgbmFtZSBvZiBhIFRpZ2VyIFJlc2VydmUgdW5kZXIgJiMzOTtQcm9qZWN0IFRpZ2VyJiMzOTsgLSBhIHRpZ2VyIGNvbnNlcnZhdGlvbiBwcm9ncmFtbWUsIG93aW5nIHRvIHdoaWNoLCBpdCZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -196,24 +342,25 @@
       "IN"
      ],
      "source": {
-      "description": "Over 1.5 million living animal species have been described, of which around 1.05 million are insects, over 85,000 are molluscs, and around 65,000 are ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Animal"
+      "description": "This was a wildlife reserve until 1978, when it was given the name of a Tiger Reserve under 'Project Tiger' - a tiger conservation programme, owing to which, it ...",
+      "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBQCdASocABwAPtE-tFooIigoFAEAGglsALcBQF8AEeB7tCFf5pIWgbSjMLO4XheA3GzXDAAA_vYHnJTfAJuNMdOD4icR6RsqTib5WL2dHNjJyVo9aaRLTbXN4BBq0SupwFcCdRtVaBpNH9YLRikRiWx6rHabMF17CFfpSzAtT2ge43WAXs6teyG5HjMBtsErgUdZWmXV-bRNhUrLcdPz5Xyy9lpQFjTeV9eck5cMiu5GxjZYZO3O2pV_J3eiDLd1PCB6o7F-dRWW0OsxCRrBPpRnns1qpnNDrvQVaLp6LO2iSImeL1dPH1cHYuAAAAA.webp",
+      "source_info_link": "https://www.tripoto.com/india/trips/confronting-the-national-animal-bengal-tiger-5b8d3bb8975e4"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › Animal",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Animal",
+    "displayed_link": "https://www.tripoto.com › ... › India Trips",
+    "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBQCdASocABwAPtE-tFooIigoFAEAGglsALcBQF8AEeB7tCFf5pIWgbSjMLO4XheA3GzXDAAA_vYHnJTfAJuNMdOD4icR6RsqTib5WL2dHNjJyVo9aaRLTbXN4BBq0SupwFcCdRtVaBpNH9YLRikRiWx6rHabMF17CFfpSzAtT2ge43WAXs6teyG5HjMBtsErgUdZWmXV-bRNhUrLcdPz5Xyy9lpQFjTeV9eck5cMiu5GxjZYZO3O2pV_J3eiDLd1PCB6o7F-dRWW0OsxCRrBPpRnns1qpnNDrvQVaLp6LO2iSImeL1dPH1cHYuAAAAA.webp",
+    "link": "https://www.tripoto.com/india/trips/confronting-the-national-animal-bengal-tiger-5b8d3bb8975e4",
     "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVgx-B9M1VM28fKKvHwZz2aSs3wRjPry7KQ3EIUNbau7_orwjpgQnRuJmWmsO0sLGtwBisW_SbONcXkTzaR_K_sg29XXPFr4porf0PY-s-P9sJsv5y3Esh&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQFnoECBQQAQ&uoh=1",
-    "snippet": "Over 1.5 million living animal species have been described, of which around 1.05 million are insects, over 85,000 are molluscs, and around 65,000 are ...",
-    "snippet_highlighted_words": [
-     "animal"
-    ],
-    "source": "Wikipedia",
-    "title": "Animal"
+    "read_more_link": "https://www.tripoto.com/india/trips/confronting-the-national-animal-bengal-tiger-5b8d3bb8975e4#:~:text=This%20was%20a%20wildlife%20reserve,reserve%20to%20relocate%20tigers%20successfully.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFYUfjAxL23Z4Zbma9fW5aNM_DQOpfq4fyxWnhClg4XKMz_CUYhjI_Qw3px30dVEKL1WekNwjrP_EYEB9fWqkv7dPkqqbIgWcTyDrD2V1wDsAKUQWo81qPsmgX0gLPriLMvPhfzVa9U-VxCQV_7EqTSwysk82SxdkoYUGsirxoRnHq2ykYjRFxUfFSr1O48qtCp4DwXE&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQFnoECFQQAQ&uoh=1",
+    "snippet": "This was a wildlife reserve until 1978, when it was given the name of a Tiger Reserve under 'Project Tiger' - a tiger conservation programme, owing to which, it ...",
+    "source": "Tripoto",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ5ZhGmNwku7ERaWtrhHxnhbra02ldEMS6xKT54jAUxJSHKDlGxRWp&usqp=CAE&s",
+    "title": "Confronting the National Animal - Bengal Tiger"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZUcmY4VVJUM2dOS3lHUFVaNTNQdE1nREZXbXNBS0J2ZEpfaENhbDN1bUpYNElibFZTNjc5QXRFVm1rLXhndVU1TzF0ZUhiYmNYSWVqRW5ET2tKcjgwSERxRExhMzl6bzduV1NVMGNILVNwWnNhZjRSaWVjT0JtTHR4NUw3eTRzM0lOcnp1U3FURmlXZldxTGo0MDRWWWNpUEZzWlhSRDVOejE3aWc2aHo0N3JHQTRKdzVaYURnNW5jekhvOGZUS1ZIMkgxbFJOMl9TN2VKQXMtUkd3Qjk4LXp0ZHRta2txZEVlZ3ItNkkSBBoCCAAagwUSABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDdBAgAEAAYACAAKh8KCG5hdGlvbmFsFYX9vkAaDm5hdGlvbmFsYW5pbWFsKiYKBmFuaW1hbBWqb7tAGgdhbmltYWxzGg5uYXRpb25hbGFuaW1hbCoVCgVpbmRpYRXJpbNAGgdpbmRpYSdzMv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZUcmY4VVJUM2dOS3lHUFVaNTNQdE1nREZXbXNBS0J2ZEpfaENhbDN1bUpYNElibFZTNjc5QXRFVm1rLXhndVU1TzF0ZUhiYmNYSWVqRW5ET2tKcjgwSERxRExhMzl6bzduV1NVMGNILVNwWnNhZjRSaWVjT0JtTHR4NUw3eTRzM0lOcnp1U3FURmlXZldxTGo0MDRWWWNpUEZzWlhSRDVOejE3aWc2aHo0N3JHQTRKdzVaYURnNW5jekhvOGZUS1ZIMkgxbFJOMl9TN2VKQXMtUkd3Qjk4LXp0ZHRta2txZEVlZ3ItNkk6VURvbiYjMzk7dCBpbnRlbmQgdG8gZGVjbGFyZSBjb3cgYXMgPGI-bmF0aW9uYWwgYW5pbWFsPC9iPiBvZiA8Yj5JbmRpYTwvYj4gLSBGaXJzdHBvc3RCmgE8Yj5UaGUgZ292ZXJubWVudCBkb2VzIG5vdCBpbnRlbmQgdG8gcmVjb2duaXNlIHRoZSBjb3cgYXMgdGhlIG5hdGlvbmFsIGFuaW1hbCBvZiBJbmRpYTwvYj4sIFVuaW9uIE1pbmlzdGVyIG9mIEN1bHR1cmUgRyBLaXNoYW4gUmVkZHkgaW5mb3JtZWQgdGhlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZUcmY4VVJUM2dOS3lHUFVaNTNQdE1nREZXbXNBS0J2ZEpfaENhbDN1bUpYNElibFZTNjc5QXRFVm1rLXhndVU1TzF0ZUhiYmNYSWVqRW5ET2tKcjgwSERxRExhMzl6bzduV1NVMGNILVNwWnNhZjRSaWVjT0JtTHR4NUw3eTRzM0lOcnp1U3FURmlXZldxTGo0MDRWWWNpUEZzWlhSRDVOejE3aWc2aHo0N3JHQTRKdzVaYURnNW5jekhvOGZUS1ZIMkgxbFJOMl9TN2VKQXMtUkd3Qjk4LXp0ZHRta2txZEVlZ3ItNkkSBBoCCAAagwUSABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDdBAgAEAAYACAAKh8KCG5hdGlvbmFsFYX9vkAaDm5hdGlvbmFsYW5pbWFsKiYKBmFuaW1hbBWqb7tAGgdhbmltYWxzGg5uYXRpb25hbGFuaW1hbCoVCgVpbmRpYRXJpbNAGgdpbmRpYSdzMv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZUcmY4VVJUM2dOS3lHUFVaNTNQdE1nREZXbXNBS0J2ZEpfaENhbDN1bUpYNElibFZTNjc5QXRFVm1rLXhndVU1TzF0ZUhiYmNYSWVqRW5ET2tKcjgwSERxRExhMzl6bzduV1NVMGNILVNwWnNhZjRSaWVjT0JtTHR4NUw3eTRzM0lOcnp1U3FURmlXZldxTGo0MDRWWWNpUEZzWlhSRDVOejE3aWc2aHo0N3JHQTRKdzVaYURnNW5jekhvOGZUS1ZIMkgxbFJOMl9TN2VKQXMtUkd3Qjk4LXp0ZHRta2txZEVlZ3ItNkk6VURvbiYjMzk7dCBpbnRlbmQgdG8gZGVjbGFyZSBjb3cgYXMgPGI-bmF0aW9uYWwgYW5pbWFsPC9iPiBvZiA8Yj5JbmRpYTwvYj4gLSBGaXJzdHBvc3RCmgE8Yj5UaGUgZ292ZXJubWVudCBkb2VzIG5vdCBpbnRlbmQgdG8gcmVjb2duaXNlIHRoZSBjb3cgYXMgdGhlIG5hdGlvbmFsIGFuaW1hbCBvZiBJbmRpYTwvYj4sIFVuaW9uIE1pbmlzdGVyIG9mIEN1bHR1cmUgRyBLaXNoYW4gUmVkZHkgaW5mb3JtZWQgdGhlJm5ic3A7Li4uIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -222,25 +369,29 @@
       "IN"
      ],
      "source": {
-      "description": "Animal, any of a group of multicellular eukaryotic organisms. Animals are multicellular eukaryotes whose cells are bound together by collagen.  ...",
-      "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADwCACdASogACAAPtE-tFooIigoFAEAGglqAJ0yy8Z4HYK8ufftA9jv017Af6x-kB7APQrTb2N0E-CzEqWCas8PAGtfs_hy1cd_Q-LxctPZgAD-0olmCDofFrwKNFJefRmYKRj8vZV0-MDEa3lnaI83UKUXRFf6nDzQB5JS4_F7TveOvzOY-fcRKtGW56THLd_2CUOwdS_0VZCKBSj_6uThdoY_tS3o3suv43iMshKMU0cih3wGuNpo2cEMKi7voFu7nl7B2UZT0UQOP_Gw33S6P-tlvj-N6MYNXDLikRV6L_jeJfhqBckx77otMycRIceJ6Z_TVxM_CspTu9nbuGuaNKZ7UQ91cLlucL5S_x0upmNDhJO51OvZr2ztTM7Q6aCPRMJfWNXyJlg16k3-zkqTn9IhOYJoCWagmE5A4-P28BP9L0NTEB_VayiHJyZ0J9WBpXLaF0y7pzd_x4T7lN2KEnk0EHPB0oa_Ro4EySv9WmrmEs5UjpKBDugoP2tQ8egNslCHCcL1Ib6jKNKNZ1gOqXq3JVAg-8-2opbfs2D56-nN7OcWhW1xCS3TXFBtN4BRG_AAAAA.webp",
-      "source_info_link": "https://www.britannica.com/animal/animal"
+      "description": "The government does not intend to recognise the cow as the national animal of India, Union Minister of Culture G Kishan Reddy informed the ...",
+      "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtE-tFooIigoFAEAGgllAAPj3TkMuRslSzuYyel1zOt0k6IAAP79Kuf5K_sgdKNl8LK8f5x_-fl726P8r6dmrSg0DgsrsfpvNy8OxNgE0JZo6ftn9Lb_sxaXDe9TwI0-FHKIhx_WrDNC8Q5ziHnMY8gmL65g2_q__4Kcjmtr97WqIafyoD7gr6gjF089i-hPGFnLnNHuhjsYTUnL5aBoNzUmPhjx8EjnC8MVI8ffHvzn5aV6_rQnCAAA.webp",
+      "source_info_link": "https://www.firstpost.com/india/dont-intend-to-declare-cow-as-national-animal-of-india-govt-to-parliament-12968882.html"
      }
     },
-    "date": "7 Sept 2026",
-    "displayed_link": "https://www.britannica.com › Science › Biology",
-    "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADwCACdASogACAAPtE-tFooIigoFAEAGglqAJ0yy8Z4HYK8ufftA9jv017Af6x-kB7APQrTb2N0E-CzEqWCas8PAGtfs_hy1cd_Q-LxctPZgAD-0olmCDofFrwKNFJefRmYKRj8vZV0-MDEa3lnaI83UKUXRFf6nDzQB5JS4_F7TveOvzOY-fcRKtGW56THLd_2CUOwdS_0VZCKBSj_6uThdoY_tS3o3suv43iMshKMU0cih3wGuNpo2cEMKi7voFu7nl7B2UZT0UQOP_Gw33S6P-tlvj-N6MYNXDLikRV6L_jeJfhqBckx77otMycRIceJ6Z_TVxM_CspTu9nbuGuaNKZ7UQ91cLlucL5S_x0upmNDhJO51OvZr2ztTM7Q6aCPRMJfWNXyJlg16k3-zkqTn9IhOYJoCWagmE5A4-P28BP9L0NTEB_VayiHJyZ0J9WBpXLaF0y7pzd_x4T7lN2KEnk0EHPB0oa_Ro4EySv9WmrmEs5UjpKBDugoP2tQ8egNslCHCcL1Ib6jKNKNZ1gOqXq3JVAg-8-2opbfs2D56-nN7OcWhW1xCS3TXFBtN4BRG_AAAAA.webp",
-    "link": "https://www.britannica.com/animal/animal",
+    "date": "7 Aug 2023",
+    "displayed_link": "https://www.firstpost.com › India",
+    "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtE-tFooIigoFAEAGgllAAPj3TkMuRslSzuYyel1zOt0k6IAAP79Kuf5K_sgdKNl8LK8f5x_-fl726P8r6dmrSg0DgsrsfpvNy8OxNgE0JZo6ftn9Lb_sxaXDe9TwI0-FHKIhx_WrDNC8Q5ziHnMY8gmL65g2_q__4Kcjmtr97WqIafyoD7gr6gjF089i-hPGFnLnNHuhjsYTUnL5aBoNzUmPhjx8EjnC8MVI8ffHvzn5aV6_rQnCAAA.webp",
+    "link": "https://www.firstpost.com/india/dont-intend-to-declare-cow-as-national-animal-of-india-govt-to-parliament-12968882.html",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVWBIM4XC4tbpK-r3Mi1Dp1htPR2BYTq2Iyc739zTN-hVtRlyDYKzTxBHqjy2bi0dpn1l6jTrBnGOKWiaK0NtYaofX_N9c9MSyj8Z6wyR0H-eN6ghYu7Jwlojhjg&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQFnoECBAQAQ&uoh=1",
-    "snippet": "Animal, any of a group of multicellular eukaryotic organisms. Animals are multicellular eukaryotes whose cells are bound together by collagen. ...",
+    "read_more_link": "https://www.firstpost.com/india/dont-intend-to-declare-cow-as-national-animal-of-india-govt-to-parliament-12968882.html#:~:text=The%20government%20does%20not%20intend,G%20Kishan%20Reddy%20informed%20the",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsgEB6zswFTrf8URT3gNKyGPUZ53PtMgDFWmsAKBvdJ_hCal3umJX4IblVS679AtEVmk-xguU5O1teHbbcXIejEnDOkJr80HDqDLa39zo7nWSU0cH-SpZsaf4RiecOBmLtx5L7y4s3INrzuSqTFiWfWqLj404VYciPFsZXRD5Nz17ig6hz47rGA4Jw5ZaDg5nczHo8fTKVH2H1lRN2_S7eJAs-RGwB98-ztdtmkkqdEegr-6I&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQFnoECEgQAQ&uoh=1",
+    "snippet": "The government does not intend to recognise the cow as the national animal of India, Union Minister of Culture G Kishan Reddy informed the ...",
     "snippet_highlighted_words": [
-     "Animal"
+     "The government does not intend to recognise the cow as the national animal of India"
     ],
-    "source": "Britannica",
-    "title": "Animal | Definition, Types, & Facts"
+    "source": "Firstpost",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsZavR5Ysg8POR6nbixF3wWY97WK_LsNddsB2sH-L2HAmazJs7uS1&usqp=CAE&s",
+    "title": "Don't intend to declare cow as national animal of India"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnYzcnpMMXNYWGVNOFJLQzhPNUtpTk5mdDlyZUhrY0N2aGM3dTJkOU8xY1lBdWFUSFBKeTRZLUpKWXdyekNNQ0ZWbW5tSmlBZGxZMVpLblFiZTNGUUx5RDUwWndYSkdKamFNVGhZeXdCdHFMOWZ3SFFZcGExa3JxaEF2eWNyT25ZQXo4MXNEWXgSBBoCCAAajAQSABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDmAwgAEAAYACAAKh8KCG5hdGlvbmFsFUqLr0AaDm5hdGlvbmFsYW5pbWFsKiYKBmFuaW1hbBXph39AGgdhbmltYWxzGg5uYXRpb25hbGFuaW1hbCoVCgVpbmRpYRX_8KhAGgdpbmRpYSdzMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnYzcnpMMXNYWGVNOFJLQzhPNUtpTk5mdDlyZUhrY0N2aGM3dTJkOU8xY1lBdWFUSFBKeTRZLUpKWXdyekNNQ0ZWbW5tSmlBZGxZMVpLblFiZTNGUUx5RDUwWndYSkdKamFNVGhZeXdCdHFMOWZ3SFFZcGExa3JxaEF2eWNyT25ZQXo4MXNEWXg6PTxiPk5hdGlvbmFsPC9iPiBTeW1ib2xzIG9mIDxiPkluZGlhPC9iPiBEaXNwbGF5ZWQgLSBQaW50ZXJlc3RCmwE8Yj5FeHBsb3JlIHRoZSB2YXJpb3VzIG5hdGlvbmFsIHN5bWJvbHMgb2YgSW5kaWE8L2I-IG9uIGEgdmlicmFudCBzaWduLCBOYXRpb25hbCBhbmltYWwgbmF0aW9uYWwgYmlyZCBhbmQgZmxvd2VycyBvZiBpbmRpYSwgSW5kaWFuIG5hdGlvbmFsIGFuaW1hbCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnYzcnpMMXNYWGVNOFJLQzhPNUtpTk5mdDlyZUhrY0N2aGM3dTJkOU8xY1lBdWFUSFBKeTRZLUpKWXdyekNNQ0ZWbW5tSmlBZGxZMVpLblFiZTNGUUx5RDUwWndYSkdKamFNVGhZeXdCdHFMOWZ3SFFZcGExa3JxaEF2eWNyT25ZQXo4MXNEWXgSBBoCCAAajAQSABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDmAwgAEAAYACAAKh8KCG5hdGlvbmFsFUqLr0AaDm5hdGlvbmFsYW5pbWFsKiYKBmFuaW1hbBXph39AGgdhbmltYWxzGg5uYXRpb25hbGFuaW1hbCoVCgVpbmRpYRX_8KhAGgdpbmRpYSdzMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnYzcnpMMXNYWGVNOFJLQzhPNUtpTk5mdDlyZUhrY0N2aGM3dTJkOU8xY1lBdWFUSFBKeTRZLUpKWXdyekNNQ0ZWbW5tSmlBZGxZMVpLblFiZTNGUUx5RDUwWndYSkdKamFNVGhZeXdCdHFMOWZ3SFFZcGExa3JxaEF2eWNyT25ZQXo4MXNEWXg6PTxiPk5hdGlvbmFsPC9iPiBTeW1ib2xzIG9mIDxiPkluZGlhPC9iPiBEaXNwbGF5ZWQgLSBQaW50ZXJlc3RCmwE8Yj5FeHBsb3JlIHRoZSB2YXJpb3VzIG5hdGlvbmFsIHN5bWJvbHMgb2YgSW5kaWE8L2I-IG9uIGEgdmlicmFudCBzaWduLCBOYXRpb25hbCBhbmltYWwgbmF0aW9uYWwgYmlyZCBhbmQgZmxvd2VycyBvZiBpbmRpYSwgSW5kaWFuIG5hdGlvbmFsIGFuaW1hbCZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -249,79 +400,110 @@
       "IN"
      ],
      "source": {
-      "description": "CaseOh playing animal hospital?! NEVER would've expected that. 48:52. Go to channel CaseOh · Shawarma Kiosk… CaseOh•2.2M views.",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=PYy17045AmE"
+      "description": "Explore the various national symbols of India on a vibrant sign, National animal national bird and flowers of india, Indian national animal ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "source_info_link": "https://in.pinterest.com/pin/730005420893187175/"
      }
     },
-    "date": "9 Jul 2026",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=PYy17045AmE",
+    "displayed_link": "3 months ago",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+    "link": "https://in.pinterest.com/pin/730005420893187175/",
     "position": 7,
-    "read_more_link": "https://www.youtube.com/watch?v=PYy17045AmE#:~:text=CaseOh%20playing%20animal%20hospital%3F!%20NEVER,CaseOh%E2%80%A22.2M%20views",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVZEDPyYlzcSRr9nNqY7pndsf49I6a_8kojU0Oi2UjT23gg9Sts_GJDZqJHx3P2QjekNql7K2UU-bCmTsZosg5ixOuMwF_2k8zFLHG2qL14uPMt1zXMu-n08zb2eg9qA&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQFnoECDwQAQ&uoh=1",
-    "snippet": "CaseOh playing animal hospital?! NEVER would've expected that. 48:52. Go to channel CaseOh · Shawarma Kiosk… CaseOh•2.2M views.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVv3rzL1sXXeM8RKC8O5KiNNft9reHkcCvhc7u2d9O1cYAuaTHPJy4Y-JJYwrzCMCFVmnmJiAdlY1ZKnQbe3FQLyD50ZwXJGJjaMThYywBtqL9fwHQYpa1krqhAvycrOnYAz81sDYx&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQFnoECEoQAQ&uoh=1",
+    "snippet": "Explore the various national symbols of India on a vibrant sign, National animal national bird and flowers of india, Indian national animal ...",
     "snippet_highlighted_words": [
-     "animal"
+     "Explore the various national symbols of India"
     ],
-    "source": "YouTube",
-    "title": "Animal Hospital…"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "IN"
-     ],
-     "source": {
-      "description": "\"Jungle Animal Discovery in 4K\" is an immersive visual experience that takes you deep into the heart of the world's most vibrant and ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=iMZzqdY4L6E"
-     }
-    },
-    "date": "15 Aug 2026",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=iMZzqdY4L6E",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVERJ6oJRjtnpkYzG06JOXl75BCzdKDgdJuEzBPqWC0rlQHFU_4UWTEz2r3C-qTUtcYeAgqvrRh9nPZWNIywCS2bJYxwkNyigEGAoqQGrzihdzPTIurrLbY0tJQEk-yg&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQFnoECDsQAQ&uoh=1",
-    "snippet": "\"Jungle Animal Discovery in 4K\" is an immersive visual experience that takes you deep into the heart of the world's most vibrant and ...",
-    "snippet_highlighted_words": [
-     "Jungle Animal Discovery in 4K"
-    ],
-    "source": "YouTube",
-    "title": "JUNGLE ANIMAL DISCOVERY / 60FPS 4K ULTRA HD ..."
+    "source": "Pinterest · dassushmita1996",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS23hpQCSrXJEWahb7vYnl4OMeUtCGhpgmZzY2CkvY&usqp=CAE&s",
+    "title": "National Symbols of India Displayed"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=national+animal+india&sca_esv=932ce377fb08cd9d&gl=in&hl=en&sxsrf=APpeQnv2RCJqWkopcxtzobrpK4gQt8jcGQ:1789906040732&ei=eMyvapCuLLql5NoPquKewQ8&start=10&sa=N&sstk=AS6-VmJJtKtHWKsl3Hm7eFFyuqkkT7XyjfERFknY1OTZf1uYcYTsBSyhZmcdwY3ryj0zh4-WZghf_Lcnr0Cf01LgRgjMoUyMlItkFQ&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQ8NMDegQINxAK",
+   "next": "https://www.google.com/search?q=national+animal+india&sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnuZxLuO2CeIhQQDlaPIcExb_Kd8aw:1790781675896&ei=6yi9aoeRNsrKp84P0MvByAg&start=10&sa=N&sstk=AS6-VmKVh1tguCHjoe-N-5q4jGZqt-uFbN1-tpnXJZb-YdsFQnLpvSFX2CxldmKim8dr7kHySzjJLCN7s-HuRTsGAWP0mhnxL5QL9Q&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQ8NMDegQIOhAI",
    "other_pages": {
-    "2": "https://www.google.com/search?q=national+animal+india&sca_esv=932ce377fb08cd9d&gl=in&hl=en&sxsrf=APpeQnv2RCJqWkopcxtzobrpK4gQt8jcGQ:1789906040732&ei=eMyvapCuLLql5NoPquKewQ8&start=10&sa=N&sstk=AS6-VmJJtKtHWKsl3Hm7eFFyuqkkT7XyjfERFknY1OTZf1uYcYTsBSyhZmcdwY3ryj0zh4-WZghf_Lcnr0Cf01LgRgjMoUyMlItkFQ&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQ8tMDegQINxAE",
-    "3": "https://www.google.com/search?q=national+animal+india&sca_esv=932ce377fb08cd9d&gl=in&hl=en&sxsrf=APpeQnv2RCJqWkopcxtzobrpK4gQt8jcGQ:1789906040732&ei=eMyvapCuLLql5NoPquKewQ8&start=20&sa=N&sstk=AS6-VmJJtKtHWKsl3Hm7eFFyuqkkT7XyjfERFknY1OTZf1uYcYTsBSyhZmcdwY3ryj0zh4-WZghf_Lcnr0Cf01LgRgjMoUyMlItkFQ&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQ8tMDegQINxAG",
-    "4": "https://www.google.com/search?q=national+animal+india&sca_esv=932ce377fb08cd9d&gl=in&hl=en&sxsrf=APpeQnv2RCJqWkopcxtzobrpK4gQt8jcGQ:1789906040732&ei=eMyvapCuLLql5NoPquKewQ8&start=30&sa=N&sstk=AS6-VmJJtKtHWKsl3Hm7eFFyuqkkT7XyjfERFknY1OTZf1uYcYTsBSyhZmcdwY3ryj0zh4-WZghf_Lcnr0Cf01LgRgjMoUyMlItkFQ&ved=2ahUKEwiQyvTNj_2WAxW6ElkFHSqxJ_gQ8tMDegQINxAI"
+    "2": "https://www.google.com/search?q=national+animal+india&sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnuZxLuO2CeIhQQDlaPIcExb_Kd8aw:1790781675896&ei=6yi9aoeRNsrKp84P0MvByAg&start=10&sa=N&sstk=AS6-VmKVh1tguCHjoe-N-5q4jGZqt-uFbN1-tpnXJZb-YdsFQnLpvSFX2CxldmKim8dr7kHySzjJLCN7s-HuRTsGAWP0mhnxL5QL9Q&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQ8tMDegQIOhAE",
+    "3": "https://www.google.com/search?q=national+animal+india&sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnuZxLuO2CeIhQQDlaPIcExb_Kd8aw:1790781675896&ei=6yi9aoeRNsrKp84P0MvByAg&start=20&sa=N&sstk=AS6-VmKVh1tguCHjoe-N-5q4jGZqt-uFbN1-tpnXJZb-YdsFQnLpvSFX2CxldmKim8dr7kHySzjJLCN7s-HuRTsGAWP0mhnxL5QL9Q&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQ8tMDegQIOhAG"
    }
   },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9HNXljRmhQY1ZwMVIyZDZSV2xmWm14cFUycGlXRGQ2VkRSbGEydGFVMEV5YzJrMlNHOXFORloyVnpWcGJucEVhbW94V2tSak5uWklha0Y2ZUdSM2EyVkJVMjFPTlUxSlNXbDFjR1UwWm1sck5Gb3djalpMTlRkdVFSSVhObmxwT1dGdlpWSk9jM0pMY0RnMFVEQk5ka0o1UVdjYUlrRkVjM0k1WmxKMlFUZHlZMWROTkZONWJXMXZibTkzWVdGQ1JVMXhNMGRYVlhjIiwiZmN2IjoiMyIsImVpIjoiNnlpOWFvZVJOc3JLcDg0UDBNdkJ5QWciLCJxYyI6IkNoVnVZWFJwYjI1aGJDQmhibWx0WVd3Z2FXNWthV0VRQUgzNGNfcy0iLCJxdWVzdGlvbiI6IldoaWNoIGlzIG91ciBuYXRpb25hbCBiaXJkIGFuZCBhbmltYWw/IiwibGsiOiJjNU5TTGNfSVRNNVF5Q3hXeUM4dFVzaExMTW5NejB2TVVVaktMRXBSU013RDRjemN4QndBIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c2SWg2SVZRU29aWEROM3ExTW5oOU1xT2F5SnRKSGd2emVwRmFGWWNManRlLThlN0dGWmFENXA1QWJ0bzBaRGpxMmhDbzljbDBnbUh0LW9VaklSQ18tUGhBT2toWDVHNXZRWnE0RFFXSWYwVGJ3aDJndG1wbVJTY2kxV1BrUmFHM0tSXzhBY01XUXdMelM1NkhLNmN1UElKRTJmS3prVDZEdDI3MWdmUVE2YlQxV2NPclF2UEVhNWxUc2xwMkl5dEtzVjQ5RUwiLCJpZCI6ImZjXzZ5aTlhb2VSTnNyS3A4NFAwTXZCeUFnXzMifQ==",
+    "page_token": "Ahfz_XicHdBbUuowGADgcTM-Si-ClhnmjLEtWGmxaS6QFydNgdL8vSjFSN7cy1nVWc2Z8VvC9_MXTp3-d_NVj-Nwnk8mxpi7Y98fYX-n-nYiz9dOTZQEKKXS89nDzP1zUIvo8oKeP15QToeBhdgpoJpRlpwqC82aPHmCxabyWMss3q359F4CdklTNekystIKIyE4Ef94le3UcJI0uZd9lCGE2Ra9Ukd4aTsWZUQNZ_Wm1JG332aFtAiJFZKcxKKCGjaEOZiLnsbZpYi1K3R6FWFyKJ3ITR1I0kbMFEPZzsY184LPssN-2mZS2JpgHsRrzhCnj07mY7Tmyar0B1ksH52c1F1UK2_P9XTHA6B6apUezSbEeRq5Xt4BEt_9KafYqgZaFgHbUTGmHIcMYCtYfc66eCBO8Fa6wZKttK3M7UF9Lfzb38_F-6Ed58Nnf_wPUl-DPA",
+    "question": "Which is our national bird and animal?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ahfz_XicHdBbUuowGADgcTM-Si-ClhnmjLEtWGmxaS6QFydNgdL8vSjFSN7cy1nVWc2Z8VvC9_MXTp3-d_NVj-Nwnk8mxpi7Y98fYX-n-nYiz9dOTZQEKKXS89nDzP1zUIvo8oKeP15QToeBhdgpoJpRlpwqC82aPHmCxabyWMss3q359F4CdklTNekystIKIyE4Ef94le3UcJI0uZd9lCGE2Ra9Ukd4aTsWZUQNZ_Wm1JG332aFtAiJFZKcxKKCGjaEOZiLnsbZpYi1K3R6FWFyKJ3ITR1I0kbMFEPZzsY184LPssN-2mZS2JpgHsRrzhCnj07mY7Tmyar0B1ksH52c1F1UK2_P9XTHA6B6apUezSbEeRq5Xt4BEt_9KafYqgZaFgHbUTGmHIcMYCtYfc66eCBO8Fa6wZKttK3M7UF9Lfzb38_F-6Ed58Nnf_wPUl-DPA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9HNXljRmhQY1ZwMVIyZDZSV2xmWm14cFUycGlXRGQ2VkRSbGEydGFVMEV5YzJrMlNHOXFORloyVnpWcGJucEVhbW94V2tSak5uWklha0Y2ZUdSM2EyVkJVMjFPTlUxSlNXbDFjR1UwWm1sck5Gb3djalpMTlRkdVFSSVhObmxwT1dGdlpWSk9jM0pMY0RnMFVEQk5ka0o1UVdjYUlrRkVjM0k1WmxKMlFUZHlZMWROTkZONWJXMXZibTkzWVdGQ1JVMXhNMGRYVlhjIiwiZmN2IjoiMyIsImVpIjoiNnlpOWFvZVJOc3JLcDg0UDBNdkJ5QWciLCJxYyI6IkNoVnVZWFJwYjI1aGJDQmhibWx0WVd3Z2FXNWthV0VRQUgzNGNfcy0iLCJxdWVzdGlvbiI6IldoaWNoIGlzIG91ciBuYXRpb25hbCBiaXJkIGFuZCBhbmltYWw%2FIiwibGsiOiJjNU5TTGNfSVRNNVF5Q3hXeUM4dFVzaExMTW5NejB2TVVVaktMRXBSU013RDRjemN4QndBIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c2SWg2SVZRU29aWEROM3ExTW5oOU1xT2F5SnRKSGd2emVwRmFGWWNManRlLThlN0dGWmFENXA1QWJ0bzBaRGpxMmhDbzljbDBnbUh0LW9VaklSQ18tUGhBT2toWDVHNXZRWnE0RFFXSWYwVGJ3aDJndG1wbVJTY2kxV1BrUmFHM0tSXzhBY01XUXdMelM1NkhLNmN1UElKRTJmS3prVDZEdDI3MWdmUVE2YlQxV2NPclF2UEVhNWxUc2xwMkl5dEtzVjQ5RUwiLCJpZCI6ImZjXzZ5aTlhb2VSTnNyS3A4NFAwTXZCeUFnXzMifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9HNXljRmhQY1ZwMVIyZDZSV2xmWm14cFUycGlXRGQ2VkRSbGEydGFVMEV5YzJrMlNHOXFORloyVnpWcGJucEVhbW94V2tSak5uWklha0Y2ZUdSM2EyVkJVMjFPTlUxSlNXbDFjR1UwWm1sck5Gb3djalpMTlRkdVFSSVhObmxwT1dGdlpWSk9jM0pMY0RnMFVEQk5ka0o1UVdjYUlrRkVjM0k1WmxKMlFUZHlZMWROTkZONWJXMXZibTkzWVdGQ1JVMXhNMGRYVlhjIiwiZmN2IjoiMyIsImVpIjoiNnlpOWFvZVJOc3JLcDg0UDBNdkJ5QWciLCJxYyI6IkNoVnVZWFJwYjI1aGJDQmhibWx0WVd3Z2FXNWthV0VRQUgzNGNfcy0iLCJxdWVzdGlvbiI6IldoeSBpcyB0aGUgbGlvbiBub3QgYSBuYXRpb25hbCBhbmltYWwgb2YgSW5kaWE/IiwibGsiOiJjNVBTS00tb1ZNakp6TTlUeUN4V3lNc3ZVY2hMTEFIeUVuTVVFdk15YzRGVWZwcENabDVLWmlJQSIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNkloNklWUVNvWlhETjNxMU1uaDlNcU9heUp0SkhndnplcEZhRlljTGp0ZS04ZTdHRlphRDVwNUFidG8wWkRqcTJoQ285Y2wwZ21IdC1vVWpJUkNfLVBoQU9raFg1RzV2UVpxNERRV0lmMFRid2gyZ3RtcG1SU2NpMVdQa1JhRzNLUl84QWNNV1F3THpTNTZISzZjdVBJSkUyZkt6a1Q2RHQyNzFnZlFRNmJUMVdjT3JRdlBFYTVsVHNscDJJeXRLc1Y0OUVMIiwiaWQiOiJmY182eWk5YW9lUk5zcktwODRQME12QnlBZ18zIn0=",
+    "page_token": "U_iNx3icHZDdTrMwAIbz3YyHDqhoXLKYIO02FvCj68_WE9MWNkYLVEdk48xb8Bq8Kq9G4vmTvM_7fH7bU2t-_n1Vfe_O89lsGIbbY9cdbXmru2Ymz9dWz7S0Vklt5vcP9_7TQS_gh46e33WUU-dYjL2tn3QFSmi5Q3tiGNax3aRAGIEowL6tZJO8lRxDaapVGkcVpn5SEttQz1oCuovgjzYD1bqARbrz3Cj4BeE6iYqm2JFguJI62SkouDD4tF0WNYGPRi79jQrWofQGj8KQ89at9tN2Uae-oOLEahYIn-1Lg-8mZswaRHmbXZWxALeVkF54kLBHtI5CiopBrTInRxYoUC2zyUMCtt4GmVXWphk8302fkIKeBysdlNyE-8mZmnDUph9eYpyn0A_y1kbi0p1yikdd24Yt2X8aRyK1bkNQQnKWYUH0mEIHVOMGjsQ6z28O-mMBbv5aL14PTT93793xF1t0jPI",
+    "question": "Why is the lion not a national animal of India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U_iNx3icHZDdTrMwAIbz3YyHDqhoXLKYIO02FvCj68_WE9MWNkYLVEdk48xb8Bq8Kq9G4vmTvM_7fH7bU2t-_n1Vfe_O89lsGIbbY9cdbXmru2Ymz9dWz7S0Vklt5vcP9_7TQS_gh46e33WUU-dYjL2tn3QFSmi5Q3tiGNax3aRAGIEowL6tZJO8lRxDaapVGkcVpn5SEttQz1oCuovgjzYD1bqARbrz3Cj4BeE6iYqm2JFguJI62SkouDD4tF0WNYGPRi79jQrWofQGj8KQ89at9tN2Uae-oOLEahYIn-1Lg-8mZswaRHmbXZWxALeVkF54kLBHtI5CiopBrTInRxYoUC2zyUMCtt4GmVXWphk8302fkIKeBysdlNyE-8mZmnDUph9eYpyn0A_y1kbi0p1yikdd24Yt2X8aRyK1bkNQQnKWYUH0mEIHVOMGjsQ6z28O-mMBbv5aL14PTT93793xF1t0jPI",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9HNXljRmhQY1ZwMVIyZDZSV2xmWm14cFUycGlXRGQ2VkRSbGEydGFVMEV5YzJrMlNHOXFORloyVnpWcGJucEVhbW94V2tSak5uWklha0Y2ZUdSM2EyVkJVMjFPTlUxSlNXbDFjR1UwWm1sck5Gb3djalpMTlRkdVFSSVhObmxwT1dGdlpWSk9jM0pMY0RnMFVEQk5ka0o1UVdjYUlrRkVjM0k1WmxKMlFUZHlZMWROTkZONWJXMXZibTkzWVdGQ1JVMXhNMGRYVlhjIiwiZmN2IjoiMyIsImVpIjoiNnlpOWFvZVJOc3JLcDg0UDBNdkJ5QWciLCJxYyI6IkNoVnVZWFJwYjI1aGJDQmhibWx0WVd3Z2FXNWthV0VRQUgzNGNfcy0iLCJxdWVzdGlvbiI6IldoeSBpcyB0aGUgbGlvbiBub3QgYSBuYXRpb25hbCBhbmltYWwgb2YgSW5kaWE%2FIiwibGsiOiJjNVBTS00tb1ZNakp6TTlUeUN4V3lNc3ZVY2hMTEFIeUVuTVVFdk15YzRGVWZwcENabDVLWmlJQSIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNkloNklWUVNvWlhETjNxMU1uaDlNcU9heUp0SkhndnplcEZhRlljTGp0ZS04ZTdHRlphRDVwNUFidG8wWkRqcTJoQ285Y2wwZ21IdC1vVWpJUkNfLVBoQU9raFg1RzV2UVpxNERRV0lmMFRid2gyZ3RtcG1SU2NpMVdQa1JhRzNLUl84QWNNV1F3THpTNTZISzZjdVBJSkUyZkt6a1Q2RHQyNzFnZlFRNmJUMVdjT3JRdlBFYTVsVHNscDJJeXRLc1Y0OUVMIiwiaWQiOiJmY182eWk5YW9lUk5zcktwODRQME12QnlBZ18zIn0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9HNXljRmhQY1ZwMVIyZDZSV2xmWm14cFUycGlXRGQ2VkRSbGEydGFVMEV5YzJrMlNHOXFORloyVnpWcGJucEVhbW94V2tSak5uWklha0Y2ZUdSM2EyVkJVMjFPTlUxSlNXbDFjR1UwWm1sck5Gb3djalpMTlRkdVFSSVhObmxwT1dGdlpWSk9jM0pMY0RnMFVEQk5ka0o1UVdjYUlrRkVjM0k1WmxKMlFUZHlZMWROTkZONWJXMXZibTkzWVdGQ1JVMXhNMGRYVlhjIiwiZmN2IjoiMyIsImVpIjoiNnlpOWFvZVJOc3JLcDg0UDBNdkJ5QWciLCJxYyI6IkNoVnVZWFJwYjI1aGJDQmhibWx0WVd3Z2FXNWthV0VRQUgzNGNfcy0iLCJxdWVzdGlvbiI6IldoYXQgaXMgUGFraXN0YW4ncyBuYXRpb25hbCBhbmltYWw/IiwibGsiOiJHaUIzYUdGMElHbHpJSEJoYTJsemRHRnVJRzVoZEdsdmJtRnNJR0Z1YVcxaGJBIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c2SWg2SVZRU29aWEROM3ExTW5oOU1xT2F5SnRKSGd2emVwRmFGWWNManRlLThlN0dGWmFENXA1QWJ0bzBaRGpxMmhDbzljbDBnbUh0LW9VaklSQ18tUGhBT2toWDVHNXZRWnE0RFFXSWYwVGJ3aDJndG1wbVJTY2kxV1BrUmFHM0tSXzhBY01XUXdMelM1NkhLNmN1UElKRTJmS3prVDZEdDI3MWdmUVE2YlQxV2NPclF2UEVhNWxUc2xwMkl5dEtzVjQ5RUwiLCJpZCI6ImZjXzZ5aTlhb2VSTnNyS3A4NFAwTXZCeUFnXzMifQ==",
+    "page_token": "Y9BbjXicHdBdboIwAADg7DI-Kj_DRROzpFJQojWtbZG-LNiCQIugMlHedpedaqfZshN8yff1bcqz_nm5F13X3uaTSd_341PTnEw2lk09SW_Ps5zI1JhjKvV8-ja133O5gJ9rsLysAWZty31i7Q0oKWMPAe0qqQpAHYMJLHoVer1y2yYdojCx1XUL0UFZfIWdB8uCtsJa7XerYkmDVjCf800cRMjFNjuAy9EJbgpGFhkUInHyzFbFdUOBVkyQhOJuD5WFYOLR0upTX71SMxOo7rio-DTTjUOCU0ct8ScKgLiIMm0MoryOQ-kp9oBZMGuYRn2qUYepusa6fWYhdDCLACykk8XaS-KZYdobpO76nU_wFtoOPhsgHk2JGRlkZWp2jgSzZpi62j4eeHlwRUmq7ROFnhdzUWNOcoxHubwv3NH_5-Ijr7t5e21Ov3Mjg6k",
+    "question": "What is Pakistan's national animal?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Y9BbjXicHdBdboIwAADg7DI-Kj_DRROzpFJQojWtbZG-LNiCQIugMlHedpedaqfZshN8yff1bcqz_nm5F13X3uaTSd_341PTnEw2lk09SW_Ps5zI1JhjKvV8-ja133O5gJ9rsLysAWZty31i7Q0oKWMPAe0qqQpAHYMJLHoVer1y2yYdojCx1XUL0UFZfIWdB8uCtsJa7XerYkmDVjCf800cRMjFNjuAy9EJbgpGFhkUInHyzFbFdUOBVkyQhOJuD5WFYOLR0upTX71SMxOo7rio-DTTjUOCU0ct8ScKgLiIMm0MoryOQ-kp9oBZMGuYRn2qUYepusa6fWYhdDCLACykk8XaS-KZYdobpO76nU_wFtoOPhsgHk2JGRlkZWp2jgSzZpi62j4eeHlwRUmq7ROFnhdzUWNOcoxHubwv3NH_5-Ijr7t5e21Ov3Mjg6k",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9HNXljRmhQY1ZwMVIyZDZSV2xmWm14cFUycGlXRGQ2VkRSbGEydGFVMEV5YzJrMlNHOXFORloyVnpWcGJucEVhbW94V2tSak5uWklha0Y2ZUdSM2EyVkJVMjFPTlUxSlNXbDFjR1UwWm1sck5Gb3djalpMTlRkdVFSSVhObmxwT1dGdlpWSk9jM0pMY0RnMFVEQk5ka0o1UVdjYUlrRkVjM0k1WmxKMlFUZHlZMWROTkZONWJXMXZibTkzWVdGQ1JVMXhNMGRYVlhjIiwiZmN2IjoiMyIsImVpIjoiNnlpOWFvZVJOc3JLcDg0UDBNdkJ5QWciLCJxYyI6IkNoVnVZWFJwYjI1aGJDQmhibWx0WVd3Z2FXNWthV0VRQUgzNGNfcy0iLCJxdWVzdGlvbiI6IldoYXQgaXMgUGFraXN0YW4ncyBuYXRpb25hbCBhbmltYWw%2FIiwibGsiOiJHaUIzYUdGMElHbHpJSEJoYTJsemRHRnVJRzVoZEdsdmJtRnNJR0Z1YVcxaGJBIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c2SWg2SVZRU29aWEROM3ExTW5oOU1xT2F5SnRKSGd2emVwRmFGWWNManRlLThlN0dGWmFENXA1QWJ0bzBaRGpxMmhDbzljbDBnbUh0LW9VaklSQ18tUGhBT2toWDVHNXZRWnE0RFFXSWYwVGJ3aDJndG1wbVJTY2kxV1BrUmFHM0tSXzhBY01XUXdMelM1NkhLNmN1UElKRTJmS3prVDZEdDI3MWdmUVE2YlQxV2NPclF2UEVhNWxUc2xwMkl5dEtzVjQ5RUwiLCJpZCI6ImZjXzZ5aTlhb2VSTnNyS3A4NFAwTXZCeUFnXzMifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9HNXljRmhQY1ZwMVIyZDZSV2xmWm14cFUycGlXRGQ2VkRSbGEydGFVMEV5YzJrMlNHOXFORloyVnpWcGJucEVhbW94V2tSak5uWklha0Y2ZUdSM2EyVkJVMjFPTlUxSlNXbDFjR1UwWm1sck5Gb3djalpMTlRkdVFSSVhObmxwT1dGdlpWSk9jM0pMY0RnMFVEQk5ka0o1UVdjYUlrRkVjM0k1WmxKMlFUZHlZMWROTkZONWJXMXZibTkzWVdGQ1JVMXhNMGRYVlhjIiwiZmN2IjoiMyIsImVpIjoiNnlpOWFvZVJOc3JLcDg0UDBNdkJ5QWciLCJxYyI6IkNoVnVZWFJwYjI1aGJDQmhibWx0WVd3Z2FXNWthV0VRQUgzNGNfcy0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5hdGlvbmFsIGFuaW1hbCBvZiBJbmRpYSBpbiAyMDI2PyIsImxrIjoiR2gxdVlYUnBiMjVoYkNCaGJtbHRZV3dnYjJZZ2FXNWthV0VnTWpBeU5nIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c2SWg2SVZRU29aWEROM3ExTW5oOU1xT2F5SnRKSGd2emVwRmFGWWNManRlLThlN0dGWmFENXA1QWJ0bzBaRGpxMmhDbzljbDBnbUh0LW9VaklSQ18tUGhBT2toWDVHNXZRWnE0RFFXSWYwVGJ3aDJndG1wbVJTY2kxV1BrUmFHM0tSXzhBY01XUXdMelM1NkhLNmN1UElKRTJmS3prVDZEdDI3MWdmUVE2YlQxV2NPclF2UEVhNWxUc2xwMkl5dEtzVjQ5RUwiLCJpZCI6ImZjXzZ5aTlhb2VSTnNyS3A4NFAwTXZCeUFnXzMifQ==",
+    "page_token": "TldvRHicHdBfbpswAIBx7TJ9bOxQWiVSVC2JDUHDkR0bB79UxglxwPxZYYXw1iv0DDvVTrOoJ_jp-z7_umtd_vvxZfu-7Zaz2TAMj5emubjzo2mqme5utZkZ7VymTbl8fnmGr7lZoQ-z3rybNRVtm2wZOAiYnh0FmfR9icjvQ4Bv5AbpPtz5JmkH4v0cUhCBDNoNBZ1nwEkSzmh8xNtE-AHbmpuC0a89UoWQFkkx5ipkmsPoGqPLdJzwQXs7IGCUivlCqxL_MXhxJFXcm4KVp9pa7UWWAsZJTdKMK6ZR_6RxPB1w7HHRTJSrkYpm5FJAUu3GPeo8JoYhLWLIMQvJ0SFd2nnMccVAz0-Fy1WQ-Aq3QIbxKF1CWGETZM38LEs_lQsnSn8yZT_st_cWBOe0dms1Nlcq2GQKVwkvuet4I8s-vpvDOYlAOqlQBbspC6xiFe4ofcjNx8p7-H69esurftm-N5f_vkGMEQ",
+    "question": "What is the national animal of India in 2026?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TldvRHicHdBfbpswAIBx7TJ9bOxQWiVSVC2JDUHDkR0bB79UxglxwPxZYYXw1iv0DDvVTrOoJ_jp-z7_umtd_vvxZfu-7Zaz2TAMj5emubjzo2mqme5utZkZ7VymTbl8fnmGr7lZoQ-z3rybNRVtm2wZOAiYnh0FmfR9icjvQ4Bv5AbpPtz5JmkH4v0cUhCBDNoNBZ1nwEkSzmh8xNtE-AHbmpuC0a89UoWQFkkx5ipkmsPoGqPLdJzwQXs7IGCUivlCqxL_MXhxJFXcm4KVp9pa7UWWAsZJTdKMK6ZR_6RxPB1w7HHRTJSrkYpm5FJAUu3GPeo8JoYhLWLIMQvJ0SFd2nnMccVAz0-Fy1WQ-Aq3QIbxKF1CWGETZM38LEs_lQsnSn8yZT_st_cWBOe0dms1Nlcq2GQKVwkvuet4I8s-vpvDOYlAOqlQBbspC6xiFe4ofcjNx8p7-H69esurftm-N5f_vkGMEQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9HNXljRmhQY1ZwMVIyZDZSV2xmWm14cFUycGlXRGQ2VkRSbGEydGFVMEV5YzJrMlNHOXFORloyVnpWcGJucEVhbW94V2tSak5uWklha0Y2ZUdSM2EyVkJVMjFPTlUxSlNXbDFjR1UwWm1sck5Gb3djalpMTlRkdVFSSVhObmxwT1dGdlpWSk9jM0pMY0RnMFVEQk5ka0o1UVdjYUlrRkVjM0k1WmxKMlFUZHlZMWROTkZONWJXMXZibTkzWVdGQ1JVMXhNMGRYVlhjIiwiZmN2IjoiMyIsImVpIjoiNnlpOWFvZVJOc3JLcDg0UDBNdkJ5QWciLCJxYyI6IkNoVnVZWFJwYjI1aGJDQmhibWx0WVd3Z2FXNWthV0VRQUgzNGNfcy0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5hdGlvbmFsIGFuaW1hbCBvZiBJbmRpYSBpbiAyMDI2PyIsImxrIjoiR2gxdVlYUnBiMjVoYkNCaGJtbHRZV3dnYjJZZ2FXNWthV0VnTWpBeU5nIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c2SWg2SVZRU29aWEROM3ExTW5oOU1xT2F5SnRKSGd2emVwRmFGWWNManRlLThlN0dGWmFENXA1QWJ0bzBaRGpxMmhDbzljbDBnbUh0LW9VaklSQ18tUGhBT2toWDVHNXZRWnE0RFFXSWYwVGJ3aDJndG1wbVJTY2kxV1BrUmFHM0tSXzhBY01XUXdMelM1NkhLNmN1UElKRTJmS3prVDZEdDI3MWdmUVE2YlQxV2NPclF2UEVhNWxUc2xwMkl5dEtzVjQ5RUwiLCJpZCI6ImZjXzZ5aTlhb2VSTnNyS3A4NFAwTXZCeUFnXzMifQ%3D%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnuZxLuO2CeIhQQDlaPIcExb_Kd8aw:1790781675896&q=National+animal+india+bengal&sa=X&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQ1QJ6BAg9EAE",
+    "query": "National animal india bengal",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=National+animal+india+bengal"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnuZxLuO2CeIhQQDlaPIcExb_Kd8aw:1790781675896&q=National+animal+india+tiger&sa=X&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQ1QJ6BAg-EAE",
+    "query": "National animal india tiger",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=National+animal+india+tiger"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnuZxLuO2CeIhQQDlaPIcExb_Kd8aw:1790781675896&q=National+animal+india+name&sa=X&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQ1QJ6BAg_EAE",
+    "query": "National animal india name",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=National+animal+india+name"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=b0c9a82e6cc79f1f&gl=in&hl=en&sxsrf=APpeQnuZxLuO2CeIhQQDlaPIcExb_Kd8aw:1790781675896&q=National+animal+india+bengal+tiger&sa=X&ved=2ahUKEwjHsqXNzZaXAxVK5ckDHdBlEIkQ1QJ6BAhAEAE",
+    "query": "National animal india bengal tiger",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=National+animal+india+bengal+tiger"
+   }
+  ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "national animal india",
-   "time_taken_displayed": 0.24,
-   "total_results": 53
+   "time_taken_displayed": 0.27,
+   "total_results": 136000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:07:20 UTC",
+   "created_at": "2026-09-30 15:21:15 UTC",
    "google_url": "https://www.google.com/search?q=national+animal+india&oq=national+animal+india&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcc78b13aa782f1d3a37d",
-   "json_endpoint": "https://serpapi.com/searches/kmB1g0VRViF8X1DU1dIvs9C3uHHuMq3um1bXdVCeAhE/6aafcc78b13aa782f1d3a37d.json",
-   "markdown_endpoint": "https://serpapi.com/searches/kmB1g0VRViF8X1DU1dIvs9C3uHHuMq3um1bXdVCeAhE/6aafcc78b13aa782f1d3a37d.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/kmB1g0VRViF8X1DU1dIvs9C3uHHuMq3um1bXdVCeAhE/6aafcc78b13aa782f1d3a37d.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:07:20 UTC",
-   "raw_html_file": "https://serpapi.com/searches/kmB1g0VRViF8X1DU1dIvs9C3uHHuMq3um1bXdVCeAhE/6aafcc78b13aa782f1d3a37d.html",
+   "id": "6abd28ebe6590e905f9d4244",
+   "json_endpoint": "https://serpapi.com/searches/LEtfCrYO8KsjjK_adXd9XXStBGB6pM-Ao5l54--9UBs/6abd28ebe6590e905f9d4244.json",
+   "markdown_endpoint": "https://serpapi.com/searches/LEtfCrYO8KsjjK_adXd9XXStBGB6pM-Ao5l54--9UBs/6abd28ebe6590e905f9d4244.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/LEtfCrYO8KsjjK_adXd9XXStBGB6pM-Ao5l54--9UBs/6abd28ebe6590e905f9d4244.json_with_pixel_position",
+   "processed_at": "2026-09-30 15:21:15 UTC",
+   "raw_html_file": "https://serpapi.com/searches/LEtfCrYO8KsjjK_adXd9XXStBGB6pM-Ao5l54--9UBs/6abd28ebe6590e905f9d4244.html",
    "status": "Success",
-   "total_time_taken": 0.37
+   "total_time_taken": 0.65
   },
   "search_parameters": {
    "device": "desktop",
@@ -337,10 +519,105 @@
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=national+animal+india&start=10",
    "other_pages": {
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=national+animal+india&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=national+animal+india&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=national+animal+india&start=30"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=national+animal+india&start=20"
    }
-  }
+  },
+  "short_videos": [
+   {
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS52MBA0xH4wGKDpBNYc-H9AOU96iR2-Rawkg",
+    "duration": "0:11",
+    "extensions": [
+     "Mix Video 1.0"
+    ],
+    "link": "https://www.youtube.com/shorts/jzfpz7cvItA",
+    "position": 1,
+    "profile_name": "Mix Video 1.0",
+    "source": "YouTube",
+    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "thumbnail": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/hh43MFt1iq6jJApfcfDqr_MfxWj5qsnBG6D5Nw0sNGc.jpeg",
+    "title": "Tiger Facts - भारत का राष्ट्रीय पशु कौन सा है?"
+   },
+   {
+    "duration": "0:03",
+    "extensions": [
+     "Bright beginning Classes"
+    ],
+    "link": "https://www.instagram.com/reel/DUdekUcjPJD/",
+    "position": 2,
+    "profile_name": "Bright beginning Classes",
+    "source": "Instagram",
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "thumbnail": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/B7gzT_nnF_oancaRwSF0LH05wab-IMJUvLAhrkoz8lg.jpeg",
+    "title": "India ka National Animal – Royal Bengal Tiger 🐯 Strength ... by Bright beginning Classes on Instagram. Play on Instagram. 0:03"
+   },
+   {
+    "duration": "0:31",
+    "extensions": [
+     "ThePrint"
+    ],
+    "link": "https://www.facebook.com/theprintindia/videos/india/1162794589228600/",
+    "position": 3,
+    "profile_name": "ThePrint",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/aavLtEXxj_doBb0sa_USGPCMcVXy4y60YyNLVCkOjDk.jpeg",
+    "title": "As India celebrates its 79th Independence Day today ... by ThePrint on Facebook. Play on Facebook. 0:31"
+   },
+   {
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRuctEm02ilkuqhjepnej1gF9DJZWaACtRVxQ",
+    "duration": "0:31",
+    "extensions": [
+     "GPlus"
+    ],
+    "link": "https://www.youtube.com/shorts/fw7jdiq9wTE",
+    "position": 4,
+    "profile_name": "GPlus",
+    "source": "YouTube",
+    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "thumbnail": "https://serpapi.com/searches/6abd28ebe6590e905f9d4244/images/c9tMSkXHCyLLrVB0WvwjcoaF1s58OUCLmG0P667AH_c.jpeg",
+    "title": "Rare video captures India's National Animal and Bird Together ..."
+   },
+   {
+    "duration": "0:30",
+    "extensions": [
+     "The Times of India"
+    ],
+    "link": "https://www.facebook.com/TimesofIndia/posts/a-video-shared-by-a-retired-ifs-officer-shows-indias-national-animal-and-bird-th/1171225758384943/",
+    "position": 5,
+    "profile_name": "The Times of India",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutjBUZE4kI_ktVfgas-rvgAjXvtHGO8SHts4bgDeArTexYAUDhZyIRHU&s=10",
+    "title": "A video shared by a retired IFS officer shows India's national ... by The Times of India on Facebook. Play on Facebook. 0:30"
+   },
+   {
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ9CPuiXjqvvoNIYZmdIAXrBzmpYOWzuvxXSQ",
+    "duration": "0:11",
+    "extensions": [
+     "Al Learning"
+    ],
+    "link": "https://www.youtube.com/shorts/6HpU_yGDOP0",
+    "position": 6,
+    "profile_name": "Al Learning",
+    "source": "YouTube",
+    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkB_fdMpoBrICA-yHobCWXjGSflE6XL-m8ailaMKrlXgcqgbq4ZdnZ51E&s=10",
+    "title": "What is the National Animal of India?"
+   },
+   {
+    "duration": "0:16",
+    "extensions": [
+     "World Elite Ranking"
+    ],
+    "link": "https://www.facebook.com/61589560438989/posts/descriptionevery-nation-has-a-unique-symbol-that-reflects-its-culture-heritage-a/122106380961318681/",
+    "position": 7,
+    "profile_name": "World Elite Ranking",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-C9TO-dflLz3lwh-ByYby8gbhVcJORfpKR0kwPl-elQr0eFlh3kOOk8&s=10",
+    "title": "Description: Every nation has a unique symbol that reflects its ... by World Elite Ranking on Facebook. Play on Facebook. 0:16"
+   }
+  ]
  },
  "searches_charged": 1
 }

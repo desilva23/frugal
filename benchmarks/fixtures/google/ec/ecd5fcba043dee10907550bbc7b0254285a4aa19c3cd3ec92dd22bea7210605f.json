@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1018.451,
+ "elapsed_ms": 1295.268,
  "engine": "google",
- "fetched_at": "2026-09-20T11:47:31.554803+00:00",
+ "fetched_at": "2026-09-27T21:29:36.963036+00:00",
  "frugal_cache_version": 1,
  "key": "ecd5fcba043dee10907550bbc7b0254285a4aa19c3cd3ec92dd22bea7210605f",
  "params": {
@@ -10,160 +10,243 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "YbcABHiczVXbcqpIFP2A-Y7hxSh4S0yqqFR32yqKOaIxxrxQ3AQUbKUNJL7Nv0zV_NN8zTSICgkmc87D1OyqpNnNdt8X648_PXe9-vu3v5zdbkPveD6KoopNiO1ZFYP4vEbf1wa_IB4NDOeektfAsFxTNJyA-Bb3Hop1zqCiwFmuKFAr1LaDQG4sZ80HMmo-uJELbC5xIaq6Rq0li_C2pLzKs3-r3-ttplRoxVpXWr48ux4Z08FgXqkJtXrlB6_5zAD8d4IVG8ZnH6DLRuwV_t5V7EACEGc8ScBOTni2mh9eIyV5heyL3uAh5jgxV9hfW933oja7TfvTvvhbFgLm1CjJBYAoyRIC9_tqMqKktRzr-qJTJ-u8pN0j55vsjHO55sSOcmqHZaEChM5BssGYGyeXxqlThg1aPQLbEEwv5836M5BAcwUUXFRCVhT81DhNTp532Q1v2mxxBV4P2FHlXcMxkoeAxvuMHm8F0lu8zDubVjUYh3I4Utc1gSqtl6dGt4EU3tCZnUc00zJVRxXuE71aqzaF2_pN6yoBkkFPSKJZJI3Aqz6RnYa7BxW5AqtHGKHD0MGniWGmI6mgMIhS04IRw_NtPLB0pEon6zcdJQSIADwG-dEORnFfu0eV7eiejSZrcY4aL_9nGB3EzhgzGCWJSCQ1zFrAxKqbgW5msBIo-sx8rFvpnR_bnwxzAESs3hU4Nmb-0fMcKMjGMQYQ7sG0a0bWB6t4cFLgMWEM2BcKHi2OCeLUKJNT3AJJAUMgYebTnUquHTtX8CHReBnSWB38AXEXFn7OwszQv_n0FQj8DkSxKEe8fFj_HGya3sQb1Jpj3TQey8FiDyeLzkRC3ZaqFMOE-PpPMI7xvwLSgY9wykeXgYS_B1LCR_ALPkqez3wULy8iF4EEu8V8NCzko3zdCIyzQPqaj34aSOhLIB32sBBIpBhIm4tAsqOPQMrzES7moxOQfoWP4C_yUYIr63Dkyel1aV8mqWHZAX0N7Z431qgVDWaDCOzCCZ2aQ_tbklr4uztfM70r1TXvYK2_ezevVHZB7iyT24ozR9uV-lqolUwrtDyysYLSkui0pAVWiV27nqZ7Vsldl5Bjrdeae8_5XkBEQWv4XjNc3AxqU6f8ug3bw2f35s21O_J-u8KwvNnXQ8N1bsv6rlPHMsFDEtHJdEvVYDwZToaw9rIURoaqrdTXUTCsdYmmTanTeyt3G32Bjtf1srVZCerAIDiqz5pY2pjy_rkv__CFxTsgw9lSeZFHT-az5Pizrt1aoU6U5EZFXWo9uo-KphiEY6VSS6xyfmCIbCkaNnhQwMxm24mSrQVTjbAzAkr3mg0NctTQVIuG4nXjmnXRvF3oZu26cWNxvr1734i3AkfXgVj9BzveTOs",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YbcABHiczVXbcqpIFP2A-Y7hxSh4S0yqqFR32yqKOaIxxrxQ3AQUbKUNJL7Nv0zV_NN8zTSICgkmc87D1OyqpNnNdt8X648_PXe9-vu3v5zdbkPveD6KoopNiO1ZFYP4vEbf1wa_IB4NDOeektfAsFxTNJyA-Bb3Hop1zqCiwFmuKFAr1LaDQG4sZ80HMmo-uJELbC5xIaq6Rq0li_C2pLzKs3-r3-ttplRoxVpXWr48ux4Z08FgXqkJtXrlB6_5zAD8d4IVG8ZnH6DLRuwV_t5V7EACEGc8ScBOTni2mh9eIyV5heyL3uAh5jgxV9hfW933oja7TfvTvvhbFgLm1CjJBYAoyRIC9_tqMqKktRzr-qJTJ-u8pN0j55vsjHO55sSOcmqHZaEChM5BssGYGyeXxqlThg1aPQLbEEwv5836M5BAcwUUXFRCVhT81DhNTp532Q1v2mxxBV4P2FHlXcMxkoeAxvuMHm8F0lu8zDubVjUYh3I4Utc1gSqtl6dGt4EU3tCZnUc00zJVRxXuE71aqzaF2_pN6yoBkkFPSKJZJI3Aqz6RnYa7BxW5AqtHGKHD0MGniWGmI6mgMIhS04IRw_NtPLB0pEon6zcdJQSIADwG-dEORnFfu0eV7eiejSZrcY4aL_9nGB3EzhgzGCWJSCQ1zFrAxKqbgW5msBIo-sx8rFvpnR_bnwxzAESs3hU4Nmb-0fMcKMjGMQYQ7sG0a0bWB6t4cFLgMWEM2BcKHi2OCeLUKJNT3AJJAUMgYebTnUquHTtX8CHReBnSWB38AXEXFn7OwszQv_n0FQj8DkSxKEe8fFj_HGya3sQb1Jpj3TQey8FiDyeLzkRC3ZaqFMOE-PpPMI7xvwLSgY9wykeXgYS_B1LCR_ALPkqez3wULy8iF4EEu8V8NCzko3zdCIyzQPqaj34aSOhLIB32sBBIpBhIm4tAsqOPQMrzES7moxOQfoWP4C_yUYIr63Dkyel1aV8mqWHZAX0N7Z431qgVDWaDCOzCCZ2aQ_tbklr4uztfM70r1TXvYK2_ezevVHZB7iyT24ozR9uV-lqolUwrtDyysYLSkui0pAVWiV27nqZ7Vsldl5Bjrdeae8_5XkBEQWv4XjNc3AxqU6f8ug3bw2f35s21O_J-u8KwvNnXQ8N1bsv6rlPHMsFDEtHJdEvVYDwZToaw9rIURoaqrdTXUTCsdYmmTanTeyt3G32Bjtf1srVZCerAIDiqz5pY2pjy_rkv__CFxTsgw9lSeZFHT-az5Pizrt1aoU6U5EZFXWo9uo-KphiEY6VSS6xyfmCIbCkaNnhQwMxm24mSrQVTjbAzAkr3mg0NctTQVIuG4nXjmnXRvF3oZu26cWNxvr1734i3AkfXgVj9BzveTOs"
+   "page_token": "GA9s33iczZXdkqI4FMcfYJ9jubEVUFTsKqorQbSjTiu2H2PfUBFoQAXkQ1Hv5l32Zl9pn2YDimK32DNzsbXHKmLCyclJTn78f_y1spzlP3_8bYbhOnik6SiKSobrGiu9pLo2jYO9o9Lv7irwVfMpcDe-qluaoJq-a-vUfitUKDUQGEq3hC3nVbH3vdYfePw6lAfem4gjmaGSEIIyx4G-ICvsFgGt0OSx_LPSJJ1SUNKdUl_ZSo7TC2o6VyozbKPUp7FNHMB_aLIEEICkPTZ5JgIgfR0sdpGBGMdKzRAvr47WPMaL1zSSgW7ukiieBckPkbDEBvyMjxgy5KZOz7m5QJTtzE7ZRElcCJNEf9rOoU7r3jmovGOSrgKQTK4cc89W_HAZyFkNi0CS4gCfU0FAyu4aDAE4bry5BM8GD5CKRONO7vEEdQ87IjjHzzMPmIP0CKOXGXGnNYPcXYae-6RhaUs11eSPH8RXWhw1GLf1shFtc7iQu7gVvT3LPDQjVOfMptGTaXVO_FYu1nRNMRXmKemzZbbKNCp1_iFhSQ3OMAVZmKRw00bWSJU8vtQrQTYlSTzXTrxOXyJ9EYHPBsWTq3jjpZHBIDPZErOnNT615HYzCKCsIzAkNIjbdjrQB5BUWM1WMV0gDnmLpCunE0lJVdGxRZfpZxcpk8bVvYfRrW1-6DdhOgnB47voFPcTChB0ltnR6_Aki6F8rMkaRHCcuPWzZ5lCn0Y7ZSyR04SnnnSuzdHRytJjkfzMeFnjlbh1ZAMnvMf5i0kC8RVPrItEcFXlIbhlpDoG2fTwJ75-N8z92iUm54TMBwKy5LSr03nRX45ahjKRjb3aO0zGZTjDk2gl3ybFtee_oDvq_4ulVJXGJ1XKZ0n6mqX4Y3lPlZLHRZVejyx181mKP7K3VIlLnTKq9IEl2MuwZCYf5yhPlX6VJXiHJekuS-5tlpZ5LCWqdM0SUaX2RZWuWDqr0oWl31Gl9W-qUoKWfmyuJWqzMHKlqr187U7MLlOcmMW-bPYP3OTQbLXRZhR-LVXvdvhoY231oFjaIyx3wr32oJAB91HXKE-YmjgsdPAWFzR9q6_cte4XFu48KGBfL5Bha4XnK71gOQXR1B0HW0-UvfJdgcFcEW35EDmmN2G3LAJ-M_A3z-vFYgNhZV_pTafV525NwpXdpN6ZgkHP4wDPDeyDM55KYGwo3_rt6rbcWHg1VDGtWuR4jBbOdu-BvZtsloq9n3GgZzUHu--wfphuXfA2sOao0tJ7_M5F1QboF5cjtzbwm22QJBUIsuQrk41f1r7xFNljoAssZfuqQMrFGeBFBlMDqECcAZlUeYxd0kZAbtcI5JAKVKzowVZQ2VqZr83rHOZrZVZ7p2wj3K8FjqUCxxfYfwHII06-",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GA9s33iczZXdkqI4FMcfYJ9jubEVUFTsKqorQbSjTiu2H2PfUBFoQAXkQ1Hv5l32Zl9pn2YDimK32DNzsbXHKmLCyclJTn78f_y1spzlP3_8bYbhOnik6SiKSobrGiu9pLo2jYO9o9Lv7irwVfMpcDe-qluaoJq-a-vUfitUKDUQGEq3hC3nVbH3vdYfePw6lAfem4gjmaGSEIIyx4G-ICvsFgGt0OSx_LPSJJ1SUNKdUl_ZSo7TC2o6VyozbKPUp7FNHMB_aLIEEICkPTZ5JgIgfR0sdpGBGMdKzRAvr47WPMaL1zSSgW7ukiieBckPkbDEBvyMjxgy5KZOz7m5QJTtzE7ZRElcCJNEf9rOoU7r3jmovGOSrgKQTK4cc89W_HAZyFkNi0CS4gCfU0FAyu4aDAE4bry5BM8GD5CKRONO7vEEdQ87IjjHzzMPmIP0CKOXGXGnNYPcXYae-6RhaUs11eSPH8RXWhw1GLf1shFtc7iQu7gVvT3LPDQjVOfMptGTaXVO_FYu1nRNMRXmKemzZbbKNCp1_iFhSQ3OMAVZmKRw00bWSJU8vtQrQTYlSTzXTrxOXyJ9EYHPBsWTq3jjpZHBIDPZErOnNT615HYzCKCsIzAkNIjbdjrQB5BUWM1WMV0gDnmLpCunE0lJVdGxRZfpZxcpk8bVvYfRrW1-6DdhOgnB47voFPcTChB0ltnR6_Aki6F8rMkaRHCcuPWzZ5lCn0Y7ZSyR04SnnnSuzdHRytJjkfzMeFnjlbh1ZAMnvMf5i0kC8RVPrItEcFXlIbhlpDoG2fTwJ75-N8z92iUm54TMBwKy5LSr03nRX45ahjKRjb3aO0zGZTjDk2gl3ybFtee_oDvq_4ulVJXGJ1XKZ0n6mqX4Y3lPlZLHRZVejyx181mKP7K3VIlLnTKq9IEl2MuwZCYf5yhPlX6VJXiHJekuS-5tlpZ5LCWqdM0SUaX2RZWuWDqr0oWl31Gl9W-qUoKWfmyuJWqzMHKlqr187U7MLlOcmMW-bPYP3OTQbLXRZhR-LVXvdvhoY231oFjaIyx3wr32oJAB91HXKE-YmjgsdPAWFzR9q6_cte4XFu48KGBfL5Bha4XnK71gOQXR1B0HW0-UvfJdgcFcEW35EDmmN2G3LAJ-M_A3z-vFYgNhZV_pTafV525NwpXdpN6ZgkHP4wDPDeyDM55KYGwo3_rt6rbcWHg1VDGtWuR4jBbOdu-BvZtsloq9n3GgZzUHu--wfphuXfA2sOao0tJ7_M5F1QboF5cjtzbwm22QJBUIsuQrk41f1r7xFNljoAssZfuqQMrFGeBFBlMDqECcAZlUeYxd0kZAbtcI5JAKVKzowVZQ2VqZr83rHOZrZVZ7p2wj3K8FjqUCxxfYfwHII06-"
   },
-  "dmca_messages": {
-   "messages": [
+  "filters": [
+   {
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryMyqIXL6RpCwPEsQPZy9LZV7xrnAijGvKKjA4lu6Rm9R4YFULp5mH-jE4mqW5IvDJTV-m1iHyK4u1LSypgXNCuAXIWt9I4Q5-3HiOkMYbm-TWkeXlEb4bKVYIDREMadMvO2lNc13e_HtaT2s1nRz4sS-8cEcSJA8Eb1uJ3o9BLC3zfApLELfRLYp0WdLRpK7Brl5Eg&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQxKsJKAB6BAgpEAE&ictx=0",
+    "name": "Remote",
+    "parameters": {
+     "q": "What Java developer jobs are available in Chennai? remote",
+     "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryMyqIXL6RpCwPEsQPZy9LZV7xrnAijGvKKjA4lu6Rm9R4YFULp5mH-jE4mqW5IvDJTV-m1iHyK4u1LSypgXNCuAXIWt9I4Q5-3HiOkMYbm-TWkeXlEb4bKVYIDREMadMvO2lNc13e_HtaT2s1nRz4sS-8cEcSJA8Eb1uJ3o9BLC3zfApLELfRLYp0WdLRpK7Brl5Eg"
+    },
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryMyqIXL6RpCwPEsQPZy9LZV7xrnAijGvKKjA4lu6Rm9R4YFULp5mH-jE4mqW5IvDJTV-m1iHyK4u1LSypgXNCuAXIWt9I4Q5-3HiOkMYbm-TWkeXlEb4bKVYIDREMadMvO2lNc13e_HtaT2s1nRz4sS-8cEcSJA8Eb1uJ3o9BLC3zfApLELfRLYp0WdLRpK7Brl5Eg"
+   },
+   {
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgy-Kd9aRN2UeNU2lgrMAjH3tKEpr25G59tciZ4KhQ0iEITcGf12X-78xVcdlrjPUM9HFXC8YapDMg64vz_JfcaN853nZ-LKSIVarfaxWcQOyy9oomVUAIu6g1tXb10quG14p8XIVtoc-l5yh2K9NGQXUCLNJeIA9YxC8odvt6Bh3yKh3W3SiD26R-eBnGp7DkIwUeQ&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQxKsJKAF6BAgnEAE&ictx=0",
+    "name": "No degree",
+    "parameters": {
+     "q": "What Java developer jobs are available in Chennai? no degree",
+     "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgy-Kd9aRN2UeNU2lgrMAjH3tKEpr25G59tciZ4KhQ0iEITcGf12X-78xVcdlrjPUM9HFXC8YapDMg64vz_JfcaN853nZ-LKSIVarfaxWcQOyy9oomVUAIu6g1tXb10quG14p8XIVtoc-l5yh2K9NGQXUCLNJeIA9YxC8odvt6Bh3yKh3W3SiD26R-eBnGp7DkIwUeQ"
+    },
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgy-Kd9aRN2UeNU2lgrMAjH3tKEpr25G59tciZ4KhQ0iEITcGf12X-78xVcdlrjPUM9HFXC8YapDMg64vz_JfcaN853nZ-LKSIVarfaxWcQOyy9oomVUAIu6g1tXb10quG14p8XIVtoc-l5yh2K9NGQXUCLNJeIA9YxC8odvt6Bh3yKh3W3SiD26R-eBnGp7DkIwUeQ"
+   },
+   {
+    "name": "Job type",
+    "options": [
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDtEdM_eYg0sHjQ446-qkMjIPEbVPadMjxmm0vNIXltLShvOM9p8MTAA4z3vCLkfmaa1IqPlEz1nhl0kWGcLadgcFNeR_mYWsFrvX8t1nBm7Ufpm2_GpNYY5RywT9V2MskYxDXf3-dUlPsW2rHPX-ay9622Z1o0cpn_XceuFwwG4TQ2tSIYRghNCb2_gEbA-G9tmPuPppwuajsjy6ypui9OzvOtHnB-NSdp-CuJjP-WRF_MN0b9eyFNQ6BYCEjq2i2T-4KFy7F6zljIxSOBNMBEqBBMa6&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJBAC",
+      "name": "Full time",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? full time",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDtEdM_eYg0sHjQ446-qkMjIPEbVPadMjxmm0vNIXltLShvOM9p8MTAA4z3vCLkfmaa1IqPlEz1nhl0kWGcLadgcFNeR_mYWsFrvX8t1nBm7Ufpm2_GpNYY5RywT9V2MskYxDXf3-dUlPsW2rHPX-ay9622Z1o0cpn_XceuFwwG4TQ2tSIYRghNCb2_gEbA-G9tmPuPppwuajsjy6ypui9OzvOtHnB-NSdp-CuJjP-WRF_MN0b9eyFNQ6BYCEjq2i2T-4KFy7F6zljIxSOBNMBEqBBMa6"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDtEdM_eYg0sHjQ446-qkMjIPEbVPadMjxmm0vNIXltLShvOM9p8MTAA4z3vCLkfmaa1IqPlEz1nhl0kWGcLadgcFNeR_mYWsFrvX8t1nBm7Ufpm2_GpNYY5RywT9V2MskYxDXf3-dUlPsW2rHPX-ay9622Z1o0cpn_XceuFwwG4TQ2tSIYRghNCb2_gEbA-G9tmPuPppwuajsjy6ypui9OzvOtHnB-NSdp-CuJjP-WRF_MN0b9eyFNQ6BYCEjq2i2T-4KFy7F6zljIxSOBNMBEqBBMa6"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDjEFuv5jAocebNaO8WtexQTZuTj5AGoBlAWZOwz9NZ5wMQvoN83kPq8qc3B_DIEGoWnfncZFRQQ2YOFvFQe5ebekzEI3DnQvzudzt8sfnThIcyRfaCYqos-Tw5UWGnwzRJO72LkZb3Et2iaA1B1RH1mNG7dVI5-3RkvHxV85rIy9weebJCZocQb4Zu-bq3AFro8ovLTToVAo6MkXxzVdNRTqkyVyA1nHd8TivO0ASpQBqEes13ursYzxCiNXRs8odxpny4Il3s-HhhE0Es_MJBGMdQbD&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJBAD",
+      "name": "Part time",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? part time",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDjEFuv5jAocebNaO8WtexQTZuTj5AGoBlAWZOwz9NZ5wMQvoN83kPq8qc3B_DIEGoWnfncZFRQQ2YOFvFQe5ebekzEI3DnQvzudzt8sfnThIcyRfaCYqos-Tw5UWGnwzRJO72LkZb3Et2iaA1B1RH1mNG7dVI5-3RkvHxV85rIy9weebJCZocQb4Zu-bq3AFro8ovLTToVAo6MkXxzVdNRTqkyVyA1nHd8TivO0ASpQBqEes13ursYzxCiNXRs8odxpny4Il3s-HhhE0Es_MJBGMdQbD"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDjEFuv5jAocebNaO8WtexQTZuTj5AGoBlAWZOwz9NZ5wMQvoN83kPq8qc3B_DIEGoWnfncZFRQQ2YOFvFQe5ebekzEI3DnQvzudzt8sfnThIcyRfaCYqos-Tw5UWGnwzRJO72LkZb3Et2iaA1B1RH1mNG7dVI5-3RkvHxV85rIy9weebJCZocQb4Zu-bq3AFro8ovLTToVAo6MkXxzVdNRTqkyVyA1nHd8TivO0ASpQBqEes13ursYzxCiNXRs8odxpny4Il3s-HhhE0Es_MJBGMdQbD"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcO6WjjpsZxW2EuIR797JpSrS7qclntBsTtIA_oMFsBtSirBGUPDSsGPeGF3lROKGMfwrh9RBDerDgsyC01ydoN5otyK89IzUiOdVqjgCrlBJIlhtpYcMcs__jie7fX6zfYdzVzt0y4d0aesfNCBbkbU-RQ2LU8picMXDZZufaTgW4zSQfKu2WG0ti1uTU3HD-SXFIVaqflrgYRQ1uNSceFRtPjIICetsD6GrVRpaV8KOM1NBl1ZYSKvoJe4qaoOMYs-RQEEtJaT4LjfJv8mIXs7Q6KWAFVVszdrWbbmULLw9ymU8L1qZetQgqsP35FJaG4ZQvdb5OABSDSOud_KGp5Z7DMY&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJBAE",
+      "name": "Contract",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? contract",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcO6WjjpsZxW2EuIR797JpSrS7qclntBsTtIA_oMFsBtSirBGUPDSsGPeGF3lROKGMfwrh9RBDerDgsyC01ydoN5otyK89IzUiOdVqjgCrlBJIlhtpYcMcs__jie7fX6zfYdzVzt0y4d0aesfNCBbkbU-RQ2LU8picMXDZZufaTgW4zSQfKu2WG0ti1uTU3HD-SXFIVaqflrgYRQ1uNSceFRtPjIICetsD6GrVRpaV8KOM1NBl1ZYSKvoJe4qaoOMYs-RQEEtJaT4LjfJv8mIXs7Q6KWAFVVszdrWbbmULLw9ymU8L1qZetQgqsP35FJaG4ZQvdb5OABSDSOud_KGp5Z7DMY"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcO6WjjpsZxW2EuIR797JpSrS7qclntBsTtIA_oMFsBtSirBGUPDSsGPeGF3lROKGMfwrh9RBDerDgsyC01ydoN5otyK89IzUiOdVqjgCrlBJIlhtpYcMcs__jie7fX6zfYdzVzt0y4d0aesfNCBbkbU-RQ2LU8picMXDZZufaTgW4zSQfKu2WG0ti1uTU3HD-SXFIVaqflrgYRQ1uNSceFRtPjIICetsD6GrVRpaV8KOM1NBl1ZYSKvoJe4qaoOMYs-RQEEtJaT4LjfJv8mIXs7Q6KWAFVVszdrWbbmULLw9ymU8L1qZetQgqsP35FJaG4ZQvdb5OABSDSOud_KGp5Z7DMY"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lx6FWFz3oCKk4vcN8Y6gGYMAat1ZPApPWxzBMLRGTY-iP46JF5gTQn8eLRF9v_EsfDKHoUMNEAEkT3Fn5nt1gfPCuAaModQLkvzsZWjr6N2hFA6tBpHziTjehYsifknPBAiCC6BKb_j9Ovd4qO4NxjMVGRlLcmtITDUKmVBLvBkmSiN0MdCViCqpRJuwFxWqkw4YaMlzu8tYqzYJ3lhFjGfeUJPwigKGPxrkbPHA1ftYI0BrKbSkZAxft8jjStBJZ8pLY7Z7fKUSuFeVibUVJj8vC2vSG3BIkhipgCCKSM73gcs6NaPZ20MbJbFbDMDW_eZRz6c&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJBAF",
+      "name": "Internship",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? internship",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lx6FWFz3oCKk4vcN8Y6gGYMAat1ZPApPWxzBMLRGTY-iP46JF5gTQn8eLRF9v_EsfDKHoUMNEAEkT3Fn5nt1gfPCuAaModQLkvzsZWjr6N2hFA6tBpHziTjehYsifknPBAiCC6BKb_j9Ovd4qO4NxjMVGRlLcmtITDUKmVBLvBkmSiN0MdCViCqpRJuwFxWqkw4YaMlzu8tYqzYJ3lhFjGfeUJPwigKGPxrkbPHA1ftYI0BrKbSkZAxft8jjStBJZ8pLY7Z7fKUSuFeVibUVJj8vC2vSG3BIkhipgCCKSM73gcs6NaPZ20MbJbFbDMDW_eZRz6c"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lx6FWFz3oCKk4vcN8Y6gGYMAat1ZPApPWxzBMLRGTY-iP46JF5gTQn8eLRF9v_EsfDKHoUMNEAEkT3Fn5nt1gfPCuAaModQLkvzsZWjr6N2hFA6tBpHziTjehYsifknPBAiCC6BKb_j9Ovd4qO4NxjMVGRlLcmtITDUKmVBLvBkmSiN0MdCViCqpRJuwFxWqkw4YaMlzu8tYqzYJ3lhFjGfeUJPwigKGPxrkbPHA1ftYI0BrKbSkZAxft8jjStBJZ8pLY7Z7fKUSuFeVibUVJj8vC2vSG3BIkhipgCCKSM73gcs6NaPZ20MbJbFbDMDW_eZRz6c"
+     }
+    ]
+   },
+   {
+    "name": "Job type",
+    "options": [
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDtEdM_eYg0sHjQ446-qkMjIPEbVPadMjxmm0vNIXltLShvOM9p8MTAA4z3vCLkfmaa1IqPlEz1nhl0kWGcLadgcFNeR_mYWsFrvX8t1nBm7Ufpm2_GpNYY5RywT9V2MskYxDXf3-dUlPsW2rHPX-ay9622Z1o0cpn_XceuFwwG4TQ2tSIYRghNCb2_gEbA-G9tmPuPppwuajsjy6ypui9OzvOtHnB-NSdp-CuJjP-WRF_MN0b9eyFNQ6BYCEjq2i2T-4KFy7F6zljIxSOBNMBEqBBMa6&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJBAC",
+      "name": "Full time",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? full time",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDtEdM_eYg0sHjQ446-qkMjIPEbVPadMjxmm0vNIXltLShvOM9p8MTAA4z3vCLkfmaa1IqPlEz1nhl0kWGcLadgcFNeR_mYWsFrvX8t1nBm7Ufpm2_GpNYY5RywT9V2MskYxDXf3-dUlPsW2rHPX-ay9622Z1o0cpn_XceuFwwG4TQ2tSIYRghNCb2_gEbA-G9tmPuPppwuajsjy6ypui9OzvOtHnB-NSdp-CuJjP-WRF_MN0b9eyFNQ6BYCEjq2i2T-4KFy7F6zljIxSOBNMBEqBBMa6"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDtEdM_eYg0sHjQ446-qkMjIPEbVPadMjxmm0vNIXltLShvOM9p8MTAA4z3vCLkfmaa1IqPlEz1nhl0kWGcLadgcFNeR_mYWsFrvX8t1nBm7Ufpm2_GpNYY5RywT9V2MskYxDXf3-dUlPsW2rHPX-ay9622Z1o0cpn_XceuFwwG4TQ2tSIYRghNCb2_gEbA-G9tmPuPppwuajsjy6ypui9OzvOtHnB-NSdp-CuJjP-WRF_MN0b9eyFNQ6BYCEjq2i2T-4KFy7F6zljIxSOBNMBEqBBMa6"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDjEFuv5jAocebNaO8WtexQTZuTj5AGoBlAWZOwz9NZ5wMQvoN83kPq8qc3B_DIEGoWnfncZFRQQ2YOFvFQe5ebekzEI3DnQvzudzt8sfnThIcyRfaCYqos-Tw5UWGnwzRJO72LkZb3Et2iaA1B1RH1mNG7dVI5-3RkvHxV85rIy9weebJCZocQb4Zu-bq3AFro8ovLTToVAo6MkXxzVdNRTqkyVyA1nHd8TivO0ASpQBqEes13ursYzxCiNXRs8odxpny4Il3s-HhhE0Es_MJBGMdQbD&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJBAD",
+      "name": "Part time",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? part time",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDjEFuv5jAocebNaO8WtexQTZuTj5AGoBlAWZOwz9NZ5wMQvoN83kPq8qc3B_DIEGoWnfncZFRQQ2YOFvFQe5ebekzEI3DnQvzudzt8sfnThIcyRfaCYqos-Tw5UWGnwzRJO72LkZb3Et2iaA1B1RH1mNG7dVI5-3RkvHxV85rIy9weebJCZocQb4Zu-bq3AFro8ovLTToVAo6MkXxzVdNRTqkyVyA1nHd8TivO0ASpQBqEes13ursYzxCiNXRs8odxpny4Il3s-HhhE0Es_MJBGMdQbD"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDLS6korZ5JZ0xR6Eua4B9dxMmjfzYmRc8W0x51JkJvSiSc6FRkPvhkg2A4yQo-NiwFIgfFvk1Ks2U9qO4u5nDjEFuv5jAocebNaO8WtexQTZuTj5AGoBlAWZOwz9NZ5wMQvoN83kPq8qc3B_DIEGoWnfncZFRQQ2YOFvFQe5ebekzEI3DnQvzudzt8sfnThIcyRfaCYqos-Tw5UWGnwzRJO72LkZb3Et2iaA1B1RH1mNG7dVI5-3RkvHxV85rIy9weebJCZocQb4Zu-bq3AFro8ovLTToVAo6MkXxzVdNRTqkyVyA1nHd8TivO0ASpQBqEes13ursYzxCiNXRs8odxpny4Il3s-HhhE0Es_MJBGMdQbD"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcO6WjjpsZxW2EuIR797JpSrS7qclntBsTtIA_oMFsBtSirBGUPDSsGPeGF3lROKGMfwrh9RBDerDgsyC01ydoN5otyK89IzUiOdVqjgCrlBJIlhtpYcMcs__jie7fX6zfYdzVzt0y4d0aesfNCBbkbU-RQ2LU8picMXDZZufaTgW4zSQfKu2WG0ti1uTU3HD-SXFIVaqflrgYRQ1uNSceFRtPjIICetsD6GrVRpaV8KOM1NBl1ZYSKvoJe4qaoOMYs-RQEEtJaT4LjfJv8mIXs7Q6KWAFVVszdrWbbmULLw9ymU8L1qZetQgqsP35FJaG4ZQvdb5OABSDSOud_KGp5Z7DMY&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJBAE",
+      "name": "Contract",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? contract",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcO6WjjpsZxW2EuIR797JpSrS7qclntBsTtIA_oMFsBtSirBGUPDSsGPeGF3lROKGMfwrh9RBDerDgsyC01ydoN5otyK89IzUiOdVqjgCrlBJIlhtpYcMcs__jie7fX6zfYdzVzt0y4d0aesfNCBbkbU-RQ2LU8picMXDZZufaTgW4zSQfKu2WG0ti1uTU3HD-SXFIVaqflrgYRQ1uNSceFRtPjIICetsD6GrVRpaV8KOM1NBl1ZYSKvoJe4qaoOMYs-RQEEtJaT4LjfJv8mIXs7Q6KWAFVVszdrWbbmULLw9ymU8L1qZetQgqsP35FJaG4ZQvdb5OABSDSOud_KGp5Z7DMY"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcO6WjjpsZxW2EuIR797JpSrS7qclntBsTtIA_oMFsBtSirBGUPDSsGPeGF3lROKGMfwrh9RBDerDgsyC01ydoN5otyK89IzUiOdVqjgCrlBJIlhtpYcMcs__jie7fX6zfYdzVzt0y4d0aesfNCBbkbU-RQ2LU8picMXDZZufaTgW4zSQfKu2WG0ti1uTU3HD-SXFIVaqflrgYRQ1uNSceFRtPjIICetsD6GrVRpaV8KOM1NBl1ZYSKvoJe4qaoOMYs-RQEEtJaT4LjfJv8mIXs7Q6KWAFVVszdrWbbmULLw9ymU8L1qZetQgqsP35FJaG4ZQvdb5OABSDSOud_KGp5Z7DMY"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lx6FWFz3oCKk4vcN8Y6gGYMAat1ZPApPWxzBMLRGTY-iP46JF5gTQn8eLRF9v_EsfDKHoUMNEAEkT3Fn5nt1gfPCuAaModQLkvzsZWjr6N2hFA6tBpHziTjehYsifknPBAiCC6BKb_j9Ovd4qO4NxjMVGRlLcmtITDUKmVBLvBkmSiN0MdCViCqpRJuwFxWqkw4YaMlzu8tYqzYJ3lhFjGfeUJPwigKGPxrkbPHA1ftYI0BrKbSkZAxft8jjStBJZ8pLY7Z7fKUSuFeVibUVJj8vC2vSG3BIkhipgCCKSM73gcs6NaPZ20MbJbFbDMDW_eZRz6c&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJBAF",
+      "name": "Internship",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? internship",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lx6FWFz3oCKk4vcN8Y6gGYMAat1ZPApPWxzBMLRGTY-iP46JF5gTQn8eLRF9v_EsfDKHoUMNEAEkT3Fn5nt1gfPCuAaModQLkvzsZWjr6N2hFA6tBpHziTjehYsifknPBAiCC6BKb_j9Ovd4qO4NxjMVGRlLcmtITDUKmVBLvBkmSiN0MdCViCqpRJuwFxWqkw4YaMlzu8tYqzYJ3lhFjGfeUJPwigKGPxrkbPHA1ftYI0BrKbSkZAxft8jjStBJZ8pLY7Z7fKUSuFeVibUVJj8vC2vSG3BIkhipgCCKSM73gcs6NaPZ20MbJbFbDMDW_eZRz6c"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lx6FWFz3oCKk4vcN8Y6gGYMAat1ZPApPWxzBMLRGTY-iP46JF5gTQn8eLRF9v_EsfDKHoUMNEAEkT3Fn5nt1gfPCuAaModQLkvzsZWjr6N2hFA6tBpHziTjehYsifknPBAiCC6BKb_j9Ovd4qO4NxjMVGRlLcmtITDUKmVBLvBkmSiN0MdCViCqpRJuwFxWqkw4YaMlzu8tYqzYJ3lhFjGfeUJPwigKGPxrkbPHA1ftYI0BrKbSkZAxft8jjStBJZ8pLY7Z7fKUSuFeVibUVJj8vC2vSG3BIkhipgCCKSM73gcs6NaPZ20MbJbFbDMDW_eZRz6c"
+     }
+    ]
+   },
+   {
+    "name": "Date posted",
+    "options": [
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+since+yesterday&uds=AJ5uw1-yOV4Ug3AM1acgCFaI_xCwGwJhLxm1Aq5ta6tBfXKFvfa0SQ-SjH6ecSI3IPavEqV2jQX0UWMhJ41w7oW6az5FNmwd6MgKWL_cTpQunZyzFjjNsYmvCFSi_Tt_aSIvOm3IODxk0tA5R7PqbXpQ5NMMN3dKaHk-GcyB47--Mc1Q6KUFWhZh_vLhGclhyJRDo6PQo5RqfIdlCvZ1kRe2U4sfJGDPGUAluGBadKHgj9KBu5BZt_0rDQ7QRBTYeqScn0qMJLIjjgf6rNkr0wjmr_aiMVKpswiTHGUjtahXjNL6ag1ZGap6hMLjpD2yzHCVF8blqH_xQ_OhCt0LYZToKRLmXJGEH2OcK5-Q3pqwuqv0jokEhRxS3HeEKhbd7ADkgQ84sWyK&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJRAC",
+      "name": "Yesterday",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? since yesterday",
+       "uds": "AJ5uw1-yOV4Ug3AM1acgCFaI_xCwGwJhLxm1Aq5ta6tBfXKFvfa0SQ-SjH6ecSI3IPavEqV2jQX0UWMhJ41w7oW6az5FNmwd6MgKWL_cTpQunZyzFjjNsYmvCFSi_Tt_aSIvOm3IODxk0tA5R7PqbXpQ5NMMN3dKaHk-GcyB47--Mc1Q6KUFWhZh_vLhGclhyJRDo6PQo5RqfIdlCvZ1kRe2U4sfJGDPGUAluGBadKHgj9KBu5BZt_0rDQ7QRBTYeqScn0qMJLIjjgf6rNkr0wjmr_aiMVKpswiTHGUjtahXjNL6ag1ZGap6hMLjpD2yzHCVF8blqH_xQ_OhCt0LYZToKRLmXJGEH2OcK5-Q3pqwuqv0jokEhRxS3HeEKhbd7ADkgQ84sWyK"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+since+yesterday&uds=AJ5uw1-yOV4Ug3AM1acgCFaI_xCwGwJhLxm1Aq5ta6tBfXKFvfa0SQ-SjH6ecSI3IPavEqV2jQX0UWMhJ41w7oW6az5FNmwd6MgKWL_cTpQunZyzFjjNsYmvCFSi_Tt_aSIvOm3IODxk0tA5R7PqbXpQ5NMMN3dKaHk-GcyB47--Mc1Q6KUFWhZh_vLhGclhyJRDo6PQo5RqfIdlCvZ1kRe2U4sfJGDPGUAluGBadKHgj9KBu5BZt_0rDQ7QRBTYeqScn0qMJLIjjgf6rNkr0wjmr_aiMVKpswiTHGUjtahXjNL6ag1ZGap6hMLjpD2yzHCVF8blqH_xQ_OhCt0LYZToKRLmXJGEH2OcK5-Q3pqwuqv0jokEhRxS3HeEKhbd7ADkgQ84sWyK"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9jacVhqiBz5alswAP24qHeOs7YqKr4PQ-vzpUKSksfwxKqBlLkEVcEaUYBqK_GyvkUYtWRmKv-jZCiJVgCTbf3bAwfEH0ph7VHrSKkGSEPCDdGHEdQoopVgJlmtiKMHWtL9ZHZ0XrnwmGEV03ucQ8RPVmJBsp4bPBh9xN4uSx5c-DG-HGZO03AM8OnPcuAvJwuLG392TMcAQJZWNZxZwasJJuW8J7QL8TeyVkVRyD_icho136Z_JcTfF9UiFMcqxN8Vii4uXLMe_8cMZBDEYFyjhze6GBj-uO6BqoGofO3VvOmnCJ-UsvPR4fOoHxZ0E7JL5HmkiW6StldO_cWtIChk-pkV4I_BU3HMJNygRLsBlIGr2ntQ1me_v2Jl6BNepZSmD-Q&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJRAD",
+      "name": "Last 3 days",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? in the last 3 days",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9jacVhqiBz5alswAP24qHeOs7YqKr4PQ-vzpUKSksfwxKqBlLkEVcEaUYBqK_GyvkUYtWRmKv-jZCiJVgCTbf3bAwfEH0ph7VHrSKkGSEPCDdGHEdQoopVgJlmtiKMHWtL9ZHZ0XrnwmGEV03ucQ8RPVmJBsp4bPBh9xN4uSx5c-DG-HGZO03AM8OnPcuAvJwuLG392TMcAQJZWNZxZwasJJuW8J7QL8TeyVkVRyD_icho136Z_JcTfF9UiFMcqxN8Vii4uXLMe_8cMZBDEYFyjhze6GBj-uO6BqoGofO3VvOmnCJ-UsvPR4fOoHxZ0E7JL5HmkiW6StldO_cWtIChk-pkV4I_BU3HMJNygRLsBlIGr2ntQ1me_v2Jl6BNepZSmD-Q"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9jacVhqiBz5alswAP24qHeOs7YqKr4PQ-vzpUKSksfwxKqBlLkEVcEaUYBqK_GyvkUYtWRmKv-jZCiJVgCTbf3bAwfEH0ph7VHrSKkGSEPCDdGHEdQoopVgJlmtiKMHWtL9ZHZ0XrnwmGEV03ucQ8RPVmJBsp4bPBh9xN4uSx5c-DG-HGZO03AM8OnPcuAvJwuLG392TMcAQJZWNZxZwasJJuW8J7QL8TeyVkVRyD_icho136Z_JcTfF9UiFMcqxN8Vii4uXLMe_8cMZBDEYFyjhze6GBj-uO6BqoGofO3VvOmnCJ-UsvPR4fOoHxZ0E7JL5HmkiW6StldO_cWtIChk-pkV4I_BU3HMJNygRLsBlIGr2ntQ1me_v2Jl6BNepZSmD-Q"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYvz-7FU8tClyNEwHYujywPAb1z2wRmzcC2Vth54geOykt7T_UNDJ35d9b9JBBOZr46xFxQhe55Aqwh9g4tjlqrw7HytdQiFkPUbujPu_MxIh_PNCb5o1wXX93GJxtjvwEA_MNsMKSYaE9qyVQmbGw1uPSyodnzC8llRsyHVuuxOicukTuMx_u99Qi_QOoIZW1Gfzm7D2bOj6kCb7aPxEMrYdDwO3kmvY69Rn9sttzz-X7uBVdH6grChqmJeVbcnIJ39qBKVK48bkzVrsf_NUX4Si4iREsQ9DAKQif7HYoTyu78T_g_lszWzmWM-nsnAH8nMl6Jlv6ExfEn7HlBGXTsi_C1032JBryVgMdHda-N8UJDu6Y7n5I5O0oY7Gj_Shaxbl2A&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJRAE",
+      "name": "Last week",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? in the last week",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYvz-7FU8tClyNEwHYujywPAb1z2wRmzcC2Vth54geOykt7T_UNDJ35d9b9JBBOZr46xFxQhe55Aqwh9g4tjlqrw7HytdQiFkPUbujPu_MxIh_PNCb5o1wXX93GJxtjvwEA_MNsMKSYaE9qyVQmbGw1uPSyodnzC8llRsyHVuuxOicukTuMx_u99Qi_QOoIZW1Gfzm7D2bOj6kCb7aPxEMrYdDwO3kmvY69Rn9sttzz-X7uBVdH6grChqmJeVbcnIJ39qBKVK48bkzVrsf_NUX4Si4iREsQ9DAKQif7HYoTyu78T_g_lszWzmWM-nsnAH8nMl6Jlv6ExfEn7HlBGXTsi_C1032JBryVgMdHda-N8UJDu6Y7n5I5O0oY7Gj_Shaxbl2A"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYvz-7FU8tClyNEwHYujywPAb1z2wRmzcC2Vth54geOykt7T_UNDJ35d9b9JBBOZr46xFxQhe55Aqwh9g4tjlqrw7HytdQiFkPUbujPu_MxIh_PNCb5o1wXX93GJxtjvwEA_MNsMKSYaE9qyVQmbGw1uPSyodnzC8llRsyHVuuxOicukTuMx_u99Qi_QOoIZW1Gfzm7D2bOj6kCb7aPxEMrYdDwO3kmvY69Rn9sttzz-X7uBVdH6grChqmJeVbcnIJ39qBKVK48bkzVrsf_NUX4Si4iREsQ9DAKQif7HYoTyu78T_g_lszWzmWM-nsnAH8nMl6Jlv6ExfEn7HlBGXTsi_C1032JBryVgMdHda-N8UJDu6Y7n5I5O0oY7Gj_Shaxbl2A"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRX6N_HKIHcTQToz0aIo3vjK7AAVGJIiEj9AAfyKuq_v4tXs_pvo_26sYJ1YFtSdnRIhUTxLi0GxLjII81XQslzxmAqBzGLa_x5Kziy8_oeLHEGRWXc6yEVoAdN2JtEr1NJCIi2FrbyJtGYO5lT_zJMX7UB0fy4_G-fkYDwz4guoqFKxTIEVDW_SAo1UUox8dhXXaHEhiRUOF70vRLgyhq3r5jJA93Ou_uan-zRx9voG2njSwgX1U8U89ITm1izW8jlKOiXHU6CrUu8o8-Dwwuov_2RJCau8x1jwg_XF1AtJuA5FCVjcpszs47TRceE2avFnkEMgjH3LGDU2ENOatBwNOcOVjU1awtoZBkNlzzGf6e4nicpZu1Ue1T_wfwICLO6mm7A&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJRAF",
+      "name": "Last month",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? in the last month",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRX6N_HKIHcTQToz0aIo3vjK7AAVGJIiEj9AAfyKuq_v4tXs_pvo_26sYJ1YFtSdnRIhUTxLi0GxLjII81XQslzxmAqBzGLa_x5Kziy8_oeLHEGRWXc6yEVoAdN2JtEr1NJCIi2FrbyJtGYO5lT_zJMX7UB0fy4_G-fkYDwz4guoqFKxTIEVDW_SAo1UUox8dhXXaHEhiRUOF70vRLgyhq3r5jJA93Ou_uan-zRx9voG2njSwgX1U8U89ITm1izW8jlKOiXHU6CrUu8o8-Dwwuov_2RJCau8x1jwg_XF1AtJuA5FCVjcpszs47TRceE2avFnkEMgjH3LGDU2ENOatBwNOcOVjU1awtoZBkNlzzGf6e4nicpZu1Ue1T_wfwICLO6mm7A"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRX6N_HKIHcTQToz0aIo3vjK7AAVGJIiEj9AAfyKuq_v4tXs_pvo_26sYJ1YFtSdnRIhUTxLi0GxLjII81XQslzxmAqBzGLa_x5Kziy8_oeLHEGRWXc6yEVoAdN2JtEr1NJCIi2FrbyJtGYO5lT_zJMX7UB0fy4_G-fkYDwz4guoqFKxTIEVDW_SAo1UUox8dhXXaHEhiRUOF70vRLgyhq3r5jJA93Ou_uan-zRx9voG2njSwgX1U8U89ITm1izW8jlKOiXHU6CrUu8o8-Dwwuov_2RJCau8x1jwg_XF1AtJuA5FCVjcpszs47TRceE2avFnkEMgjH3LGDU2ENOatBwNOcOVjU1awtoZBkNlzzGf6e4nicpZu1Ue1T_wfwICLO6mm7A"
+     }
+    ]
+   },
+   {
+    "name": "Date posted",
+    "options": [
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+since+yesterday&uds=AJ5uw1-yOV4Ug3AM1acgCFaI_xCwGwJhLxm1Aq5ta6tBfXKFvfa0SQ-SjH6ecSI3IPavEqV2jQX0UWMhJ41w7oW6az5FNmwd6MgKWL_cTpQunZyzFjjNsYmvCFSi_Tt_aSIvOm3IODxk0tA5R7PqbXpQ5NMMN3dKaHk-GcyB47--Mc1Q6KUFWhZh_vLhGclhyJRDo6PQo5RqfIdlCvZ1kRe2U4sfJGDPGUAluGBadKHgj9KBu5BZt_0rDQ7QRBTYeqScn0qMJLIjjgf6rNkr0wjmr_aiMVKpswiTHGUjtahXjNL6ag1ZGap6hMLjpD2yzHCVF8blqH_xQ_OhCt0LYZToKRLmXJGEH2OcK5-Q3pqwuqv0jokEhRxS3HeEKhbd7ADkgQ84sWyK&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJRAC",
+      "name": "Yesterday",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? since yesterday",
+       "uds": "AJ5uw1-yOV4Ug3AM1acgCFaI_xCwGwJhLxm1Aq5ta6tBfXKFvfa0SQ-SjH6ecSI3IPavEqV2jQX0UWMhJ41w7oW6az5FNmwd6MgKWL_cTpQunZyzFjjNsYmvCFSi_Tt_aSIvOm3IODxk0tA5R7PqbXpQ5NMMN3dKaHk-GcyB47--Mc1Q6KUFWhZh_vLhGclhyJRDo6PQo5RqfIdlCvZ1kRe2U4sfJGDPGUAluGBadKHgj9KBu5BZt_0rDQ7QRBTYeqScn0qMJLIjjgf6rNkr0wjmr_aiMVKpswiTHGUjtahXjNL6ag1ZGap6hMLjpD2yzHCVF8blqH_xQ_OhCt0LYZToKRLmXJGEH2OcK5-Q3pqwuqv0jokEhRxS3HeEKhbd7ADkgQ84sWyK"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+since+yesterday&uds=AJ5uw1-yOV4Ug3AM1acgCFaI_xCwGwJhLxm1Aq5ta6tBfXKFvfa0SQ-SjH6ecSI3IPavEqV2jQX0UWMhJ41w7oW6az5FNmwd6MgKWL_cTpQunZyzFjjNsYmvCFSi_Tt_aSIvOm3IODxk0tA5R7PqbXpQ5NMMN3dKaHk-GcyB47--Mc1Q6KUFWhZh_vLhGclhyJRDo6PQo5RqfIdlCvZ1kRe2U4sfJGDPGUAluGBadKHgj9KBu5BZt_0rDQ7QRBTYeqScn0qMJLIjjgf6rNkr0wjmr_aiMVKpswiTHGUjtahXjNL6ag1ZGap6hMLjpD2yzHCVF8blqH_xQ_OhCt0LYZToKRLmXJGEH2OcK5-Q3pqwuqv0jokEhRxS3HeEKhbd7ADkgQ84sWyK"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9jacVhqiBz5alswAP24qHeOs7YqKr4PQ-vzpUKSksfwxKqBlLkEVcEaUYBqK_GyvkUYtWRmKv-jZCiJVgCTbf3bAwfEH0ph7VHrSKkGSEPCDdGHEdQoopVgJlmtiKMHWtL9ZHZ0XrnwmGEV03ucQ8RPVmJBsp4bPBh9xN4uSx5c-DG-HGZO03AM8OnPcuAvJwuLG392TMcAQJZWNZxZwasJJuW8J7QL8TeyVkVRyD_icho136Z_JcTfF9UiFMcqxN8Vii4uXLMe_8cMZBDEYFyjhze6GBj-uO6BqoGofO3VvOmnCJ-UsvPR4fOoHxZ0E7JL5HmkiW6StldO_cWtIChk-pkV4I_BU3HMJNygRLsBlIGr2ntQ1me_v2Jl6BNepZSmD-Q&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJRAD",
+      "name": "Last 3 days",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? in the last 3 days",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9jacVhqiBz5alswAP24qHeOs7YqKr4PQ-vzpUKSksfwxKqBlLkEVcEaUYBqK_GyvkUYtWRmKv-jZCiJVgCTbf3bAwfEH0ph7VHrSKkGSEPCDdGHEdQoopVgJlmtiKMHWtL9ZHZ0XrnwmGEV03ucQ8RPVmJBsp4bPBh9xN4uSx5c-DG-HGZO03AM8OnPcuAvJwuLG392TMcAQJZWNZxZwasJJuW8J7QL8TeyVkVRyD_icho136Z_JcTfF9UiFMcqxN8Vii4uXLMe_8cMZBDEYFyjhze6GBj-uO6BqoGofO3VvOmnCJ-UsvPR4fOoHxZ0E7JL5HmkiW6StldO_cWtIChk-pkV4I_BU3HMJNygRLsBlIGr2ntQ1me_v2Jl6BNepZSmD-Q"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9jacVhqiBz5alswAP24qHeOs7YqKr4PQ-vzpUKSksfwxKqBlLkEVcEaUYBqK_GyvkUYtWRmKv-jZCiJVgCTbf3bAwfEH0ph7VHrSKkGSEPCDdGHEdQoopVgJlmtiKMHWtL9ZHZ0XrnwmGEV03ucQ8RPVmJBsp4bPBh9xN4uSx5c-DG-HGZO03AM8OnPcuAvJwuLG392TMcAQJZWNZxZwasJJuW8J7QL8TeyVkVRyD_icho136Z_JcTfF9UiFMcqxN8Vii4uXLMe_8cMZBDEYFyjhze6GBj-uO6BqoGofO3VvOmnCJ-UsvPR4fOoHxZ0E7JL5HmkiW6StldO_cWtIChk-pkV4I_BU3HMJNygRLsBlIGr2ntQ1me_v2Jl6BNepZSmD-Q"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYvz-7FU8tClyNEwHYujywPAb1z2wRmzcC2Vth54geOykt7T_UNDJ35d9b9JBBOZr46xFxQhe55Aqwh9g4tjlqrw7HytdQiFkPUbujPu_MxIh_PNCb5o1wXX93GJxtjvwEA_MNsMKSYaE9qyVQmbGw1uPSyodnzC8llRsyHVuuxOicukTuMx_u99Qi_QOoIZW1Gfzm7D2bOj6kCb7aPxEMrYdDwO3kmvY69Rn9sttzz-X7uBVdH6grChqmJeVbcnIJ39qBKVK48bkzVrsf_NUX4Si4iREsQ9DAKQif7HYoTyu78T_g_lszWzmWM-nsnAH8nMl6Jlv6ExfEn7HlBGXTsi_C1032JBryVgMdHda-N8UJDu6Y7n5I5O0oY7Gj_Shaxbl2A&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJRAE",
+      "name": "Last week",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? in the last week",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYvz-7FU8tClyNEwHYujywPAb1z2wRmzcC2Vth54geOykt7T_UNDJ35d9b9JBBOZr46xFxQhe55Aqwh9g4tjlqrw7HytdQiFkPUbujPu_MxIh_PNCb5o1wXX93GJxtjvwEA_MNsMKSYaE9qyVQmbGw1uPSyodnzC8llRsyHVuuxOicukTuMx_u99Qi_QOoIZW1Gfzm7D2bOj6kCb7aPxEMrYdDwO3kmvY69Rn9sttzz-X7uBVdH6grChqmJeVbcnIJ39qBKVK48bkzVrsf_NUX4Si4iREsQ9DAKQif7HYoTyu78T_g_lszWzmWM-nsnAH8nMl6Jlv6ExfEn7HlBGXTsi_C1032JBryVgMdHda-N8UJDu6Y7n5I5O0oY7Gj_Shaxbl2A"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYvz-7FU8tClyNEwHYujywPAb1z2wRmzcC2Vth54geOykt7T_UNDJ35d9b9JBBOZr46xFxQhe55Aqwh9g4tjlqrw7HytdQiFkPUbujPu_MxIh_PNCb5o1wXX93GJxtjvwEA_MNsMKSYaE9qyVQmbGw1uPSyodnzC8llRsyHVuuxOicukTuMx_u99Qi_QOoIZW1Gfzm7D2bOj6kCb7aPxEMrYdDwO3kmvY69Rn9sttzz-X7uBVdH6grChqmJeVbcnIJ39qBKVK48bkzVrsf_NUX4Si4iREsQ9DAKQif7HYoTyu78T_g_lszWzmWM-nsnAH8nMl6Jlv6ExfEn7HlBGXTsi_C1032JBryVgMdHda-N8UJDu6Y7n5I5O0oY7Gj_Shaxbl2A"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRX6N_HKIHcTQToz0aIo3vjK7AAVGJIiEj9AAfyKuq_v4tXs_pvo_26sYJ1YFtSdnRIhUTxLi0GxLjII81XQslzxmAqBzGLa_x5Kziy8_oeLHEGRWXc6yEVoAdN2JtEr1NJCIi2FrbyJtGYO5lT_zJMX7UB0fy4_G-fkYDwz4guoqFKxTIEVDW_SAo1UUox8dhXXaHEhiRUOF70vRLgyhq3r5jJA93Ou_uan-zRx9voG2njSwgX1U8U89ITm1izW8jlKOiXHU6CrUu8o8-Dwwuov_2RJCau8x1jwg_XF1AtJuA5FCVjcpszs47TRceE2avFnkEMgjH3LGDU2ENOatBwNOcOVjU1awtoZBkNlzzGf6e4nicpZu1Ue1T_wfwICLO6mm7A&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQkbEKegQIJRAF",
+      "name": "Last month",
+      "parameters": {
+       "q": "What Java developer jobs are available in Chennai? in the last month",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRX6N_HKIHcTQToz0aIo3vjK7AAVGJIiEj9AAfyKuq_v4tXs_pvo_26sYJ1YFtSdnRIhUTxLi0GxLjII81XQslzxmAqBzGLa_x5Kziy8_oeLHEGRWXc6yEVoAdN2JtEr1NJCIi2FrbyJtGYO5lT_zJMX7UB0fy4_G-fkYDwz4guoqFKxTIEVDW_SAo1UUox8dhXXaHEhiRUOF70vRLgyhq3r5jJA93Ou_uan-zRx9voG2njSwgX1U8U89ITm1izW8jlKOiXHU6CrUu8o8-Dwwuov_2RJCau8x1jwg_XF1AtJuA5FCVjcpszs47TRceE2avFnkEMgjH3LGDU2ENOatBwNOcOVjU1awtoZBkNlzzGf6e4nicpZu1Ue1T_wfwICLO6mm7A"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRX6N_HKIHcTQToz0aIo3vjK7AAVGJIiEj9AAfyKuq_v4tXs_pvo_26sYJ1YFtSdnRIhUTxLi0GxLjII81XQslzxmAqBzGLa_x5Kziy8_oeLHEGRWXc6yEVoAdN2JtEr1NJCIi2FrbyJtGYO5lT_zJMX7UB0fy4_G-fkYDwz4guoqFKxTIEVDW_SAo1UUox8dhXXaHEhiRUOF70vRLgyhq3r5jJA93Ou_uan-zRx9voG2njSwgX1U8U89ITm1izW8jlKOiXHU6CrUu8o8-Dwwuov_2RJCau8x1jwg_XF1AtJuA5FCVjcpszs47TRceE2avFnkEMgjH3LGDU2ENOatBwNOcOVjU1awtoZBkNlzzGf6e4nicpZu1Ue1T_wfwICLO6mm7A"
+     }
+    ]
+   }
+  ],
+  "jobs_results": {
+   "jobs": [
     {
-     "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
-     "highlighted_words": [
-      {
-       "link": "https://www.google.com/search?q=What+Java+developer+jobs+are+available+in+Chennai%3F&sca_esv=646215d9fbd2647e&sxsrf=APpeQntZHnzJLWCYk97QRXa66ybkgW1cVQ:1789904850782&filter=0",
-       "text": "repeat the search with the omitted results included"
-      }
-     ]
+     "company_name": "Capgemini",
+     "detected_extensions": {},
+     "extensions": [
+      "2 days ago",
+      "Full-time",
+      "No degree mentioned"
+     ],
+     "link": "https://in.linkedin.com/jobs/view/sr-java-developer-6-to-12-years-pune-chennai-bangalore-hyderabad-at-capgemini-4472256428?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+     "location": "Chennai, Tamil Nadu, India",
+     "thumbnail": "https://serpapi.com/searches/6ab98abfbd1c2043497a54f6/images/1M1mQC7RZv9WQqo50RIFa9WAfay9ssLAyM6BWTv-MNs.jpeg",
+     "title": "Sr Java Developer || 6 to 12 Years || Pune, Chennai, Bangalore & Hyderabad",
+     "via": "via LinkedIn"
+    },
+    {
+     "company_name": "UPS",
+     "detected_extensions": {},
+     "extensions": [
+      "Full-time"
+     ],
+     "link": "https://www.jobs-ups.com/global/en/job/UPBUPSGLOBALR24018283EXTERNALENGLOBAL/Senior-Application-Developer-Java?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+     "location": "Chennai, Tamil Nadu, India",
+     "thumbnail": "https://serpapi.com/searches/6ab98abfbd1c2043497a54f6/images/1M1mQC7RZv9WQqo50RIFa1ZOKvlHbL-ganoHsQFgg1Y.png",
+     "title": "Senior Application Developer - Java",
+     "via": "via UPS Jobs"
+    },
+    {
+     "company_name": "Hitachi Careers",
+     "detected_extensions": {},
+     "extensions": [
+      "3 days ago",
+      "Full-time",
+      "No degree mentioned"
+     ],
+     "link": "https://careers.hitachi.com/jobs/18275850-wba-digital-speciality-sr-java-dev-irc304210?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+     "location": "Chennai, Tamil Nadu, India",
+     "title": "WBA | Digital Speciality | Sr. Java Dev IRC304210",
+     "via": "via Hitachi Careers - Hitachi Global"
     }
    ],
-   "title": "Notices about Filtered Results"
+   "link": "https://www.google.com/search?q=What+Java+developer+jobs+are+available+in+Chennai%3F&sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&udm=jobs&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ3L8LegQIPBAM",
+   "link_text": "100+ more jobs",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_jobs&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F"
   },
   "organic_results": [
    {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Search and apply for federal jobs. Learn about unique hiring paths for veterans, students and graduates, individuals with a disability, and more.",
-      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABQAgCdASoQABAAAsBMJbACdAYr7fDQPuMvBQAA_uozA9-ltzC377E73QX_hsFH7xviF_anj2nANs81VC2Bi4SAcILrUCD7i5Y3Xg9Jwl31AIZHsPjlBerJPEhPNK6qWjH1MbwZz9zW6wUE9dNd7KTe-MYA1sc5e9PxPUnGesI0MkboANDuMnpn8Jv7GGa35RcF5Hwv8q33UAAA.webp",
-      "source_info_link": "https://www.usajobs.gov/"
-     }
-    },
-    "displayed_link": "https://www.usajobs.gov",
-    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABQAgCdASoQABAAAsBMJbACdAYr7fDQPuMvBQAA_uozA9-ltzC377E73QX_hsFH7xviF_anj2nANs81VC2Bi4SAcILrUCD7i5Y3Xg9Jwl31AIZHsPjlBerJPEhPNK6qWjH1MbwZz9zW6wUE9dNd7KTe-MYA1sc5e9PxPUnGesI0MkboANDuMnpn8Jv7GGa35RcF5Hwv8q33UAAA.webp",
-    "link": "https://www.usajobs.gov/",
-    "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVoslTqrYQd0W2Md0PkC0yubiMt85RF2GGZmHqYIN_FV405Tnm4_FsgfYr1ILdNnHDbDbcvZWN1B_LdJdLC2T7KRNbCw7y4KBS4Z8Q&ved=2ahUKEwii3L-Wi_2WAxUIK1kFHWQsDIEQFnoECBQQAQ&uoh=1",
-    "snippet": "Search and apply for federal jobs. Learn about unique hiring paths for veterans, students and graduates, individuals with a disability, and more.",
-    "snippet_highlighted_words": [
-     "Search and apply for federal jobs"
-    ],
-    "source": "USAJobs (.gov)",
-    "title": "USAJOBS - The Federal Government's official employment site"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Jobs, careers, and internship opportunities, and employment benefits information. Find full or part-time jobs in Hillsborough County. Equal Employment ...",
-      "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACQCACdASogACAAPrUurVanIacnG_DgFolsAJ0y434w2iwrwOABtuZpcX4K4dAB7iXoDKpXa-XITU9Fn4LXpAkwi9qG-hhAaWjX0Xf4wAD-_sOczJIDzRdf0cYKH7NkugouT_ulmZAnI_hf1_8ZfmrVvt6FoGtKKF_a0I49o-L7o0ycIu22_4rYti0L4bFWaAlRIaBMBJN5OP2oot_DqM_uf5-udi0NLIGHWuH5lQI-yR5d_DZHWVMMjz8bRvGOcdd9ZgCl8ToExP_k6x2a4Jigpv8HJy8E_VxUCfzyoyST8ycw6vNR3D1meBavNi84y06XoDG16UuwNk_yeHF8yf0nKeWL-GZX9MGETNjEkGdX4p2iKsuwmS6OkbLvYvIY5kvAvYbI1JSnoxifT-E8ohPbQhGLsUFr6pAwLGkniLZOZ-0ZBHNd6lSksAtD1194IYG3HupmWBaQSrK1-X3Wb3o7R2m-ZC-uQ3acD2EjSFqn9gAA.webp",
-      "source_info_link": "https://hcfl.gov/about-hillsborough/jobs-and-benefits"
-     }
-    },
-    "displayed_link": "https://hcfl.gov › about-hillsborough › jobs-and-benefits",
-    "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACQCACdASogACAAPrUurVanIacnG_DgFolsAJ0y434w2iwrwOABtuZpcX4K4dAB7iXoDKpXa-XITU9Fn4LXpAkwi9qG-hhAaWjX0Xf4wAD-_sOczJIDzRdf0cYKH7NkugouT_ulmZAnI_hf1_8ZfmrVvt6FoGtKKF_a0I49o-L7o0ycIu22_4rYti0L4bFWaAlRIaBMBJN5OP2oot_DqM_uf5-udi0NLIGHWuH5lQI-yR5d_DZHWVMMjz8bRvGOcdd9ZgCl8ToExP_k6x2a4Jigpv8HJy8E_VxUCfzyoyST8ycw6vNR3D1meBavNi84y06XoDG16UuwNk_yeHF8yf0nKeWL-GZX9MGETNjEkGdX4p2iKsuwmS6OkbLvYvIY5kvAvYbI1JSnoxifT-E8ohPbQhGLsUFr6pAwLGkniLZOZ-0ZBHNd6lSksAtD1194IYG3HupmWBaQSrK1-X3Wb3o7R2m-ZC-uQ3acD2EjSFqn9gAA.webp",
-    "link": "https://hcfl.gov/about-hillsborough/jobs-and-benefits",
-    "position": 2,
-    "read_more_link": "https://hcfl.gov/about-hillsborough/jobs-and-benefits#:~:text=Jobs%2C%20careers%2C%20and%20internship%20opportunities%2C,Equal%20Employment%20Opportunity%20Statement",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVk6BbRx3CbwDJl8AxczTFpbuGZsBHjryHhzvUu2ER61Ymu9JjarI5VdK_r2pHPlfm_BgI99idsRJg0HfZM2LUvbSgvzv2KWpOeI_D6d7RmydETShL0g9QggfMtkq6P3IEZYLsxyt1WAE&ved=2ahUKEwii3L-Wi_2WAxUIK1kFHWQsDIEQFnoECBAQAQ&uoh=1",
-    "snippet": "Jobs, careers, and internship opportunities, and employment benefits information. Find full or part-time jobs in Hillsborough County. Equal Employment ...",
-    "snippet_highlighted_words": [
-     "Jobs",
-     "jobs"
-    ],
-    "source": "Hillsborough County (.gov)",
-    "title": "Jobs & Benefits | Hillsborough County, FL"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The program is expanding career opportunities for more Americans to reach their full potential and secure good-paying jobs while producing a skilled workforce ...",
-      "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASocABwAPtE-tFooIigoFAEAGglsALe4ERzMLMR3ZTvi0YT9zrz62o_1IAAAAP72AdikE4-osClFfqPdhbH7Ocrr8zRmBsvJJHu71x7R6v437qc6hgTmFXqs4pg51pAgCh1_vBM2SAsTJUdng2oAAA.webp",
-      "source_info_link": "https://www.eda.gov/funding/programs/good-jobs-challenge"
-     }
-    },
-    "displayed_link": "https://www.eda.gov › funding › programs › good-jobs...",
-    "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASocABwAPtE-tFooIigoFAEAGglsALe4ERzMLMR3ZTvi0YT9zrz62o_1IAAAAP72AdikE4-osClFfqPdhbH7Ocrr8zRmBsvJJHu71x7R6v437qc6hgTmFXqs4pg51pAgCh1_vBM2SAsTJUdng2oAAA.webp",
-    "link": "https://www.eda.gov/funding/programs/good-jobs-challenge",
-    "position": 3,
-    "read_more_link": "https://www.eda.gov/funding/programs/good-jobs-challenge#:~:text=The%20program%20is%20expanding%20career,a%2021st%20century%20global%20economy.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAV6dTU1OTQvR0BxCUFbEFjMVeSrjLWkKVxT-YJfpbwpIxikiNro9CTczVDJxRCKKGSmXvde-zR4ZZqE8AV6_ZuPCLylfouLdsVxcj17bzA5jdV1_YyoNy8VdYpXYRXIv5lP4a7qv5VNpqqilc&ved=2ahUKEwii3L-Wi_2WAxUIK1kFHWQsDIEQFnoECBYQAQ&uoh=1",
-    "snippet": "The program is expanding career opportunities for more Americans to reach their full potential and secure good-paying jobs while producing a skilled workforce ...",
-    "snippet_highlighted_words": [
-     "career",
-     "jobs"
-    ],
-    "source": "U.S. Economic Development Administration (.gov)",
-    "title": "Good Jobs Challenge"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Here we see Steve Jobs delivering his commencement speech to the graduates of Stanford University in 2005. In it he talks about getting ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=D1R-jKKp3NA"
-     }
-    },
-    "date": "Mar 6, 2006",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=D1R-jKKp3NA",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVwDrmiPubzQoFoGLzDhEmLKMPt9Y6ccJy3eDmSVx4ZhJrszb40yrju1QzMPL4D3hA10JUzXzFdw3fKJ5-foo3J-wbBCina_XuA1GibNvBBZWTxllwFp5-s0T6ugujvQ&ved=2ahUKEwii3L-Wi_2WAxUIK1kFHWQsDIEQFnoECBsQAQ&uoh=1",
-    "snippet": "Here we see Steve Jobs delivering his commencement speech to the graduates of Stanford University in 2005. In it he talks about getting ...",
-    "snippet_highlighted_words": [
-     "Jobs"
-    ],
-    "source": "YouTube",
-    "title": "Steve Jobs Stanford Commencement Speech 2005"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Protect the American people and uphold the Constitution by joining the FBI as a special agent, intelligence analyst, or professional in over 200 career\n ...",
-      "icon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAADQBwCdASocABwAPrUurVanIacnG_DgFolsAKwozknegDbAXY1vJD6CrAw7LRhF_EmaJToP1C8nqqOyf-gKWDY8IOQJYFmwAAD--Loi06PNehE-6xEwr6MUfryTrQAkV0apigWEZzfZzJopHYG4AadQmBYVa9aiFWLgyAW1ZNOKG8v0791Jznn0Sernu4fUuhIolfZtKk47KxhOMmzHSDGA0iePQBWa1PQsik4y_AEotUz8qRQU6fgRDI0Ert4JC7rHUMV9CGG4t3FW9CU-bgdxyQirCTPFRK7eCRdlGlnYaXsNWhdXPGOMeoBYkxgMZdBMWDrhx5GXdye2xXIN5bgPr5OjpEwNpI4Qq0RPOmatmtjV7Xs4T3096bsvClFsJW3gZZkOO3iabWXbhheOqsvfI6eovg1JvdQH7nkrmzwB0AoResh3uCYKwO4s8frGe2DgAA.webp",
-      "source_info_link": "https://fbijobs.gov/"
-     }
-    },
-    "displayed_link": "https://fbijobs.gov",
-    "favicon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAADQBwCdASocABwAPrUurVanIacnG_DgFolsAKwozknegDbAXY1vJD6CrAw7LRhF_EmaJToP1C8nqqOyf-gKWDY8IOQJYFmwAAD--Loi06PNehE-6xEwr6MUfryTrQAkV0apigWEZzfZzJopHYG4AadQmBYVa9aiFWLgyAW1ZNOKG8v0791Jznn0Sernu4fUuhIolfZtKk47KxhOMmzHSDGA0iePQBWa1PQsik4y_AEotUz8qRQU6fgRDI0Ert4JC7rHUMV9CGG4t3FW9CU-bgdxyQirCTPFRK7eCRdlGlnYaXsNWhdXPGOMeoBYkxgMZdBMWDrhx5GXdye2xXIN5bgPr5OjpEwNpI4Qq0RPOmatmtjV7Xs4T3096bsvClFsJW3gZZkOO3iabWXbhheOqsvfI6eovg1JvdQH7nkrmzwB0AoResh3uCYKwO4s8frGe2DgAA.webp",
-    "link": "https://fbijobs.gov/",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTAHrOzAVuWTDgcReQopkMWXrulSAGa2cs8H4pgjq7lKia_hBfx1jFzyJzXULgHRd6DOPl61sjqlK5ABkzf1OkO__XFCRAxk8y5EcWOM&ved=2ahUKEwii3L-Wi_2WAxUIK1kFHWQsDIEQFnoECBMQAQ&uoh=1",
-    "snippet": "Protect the American people and uphold the Constitution by joining the FBI as a special agent, intelligence analyst, or professional in over 200 career ...",
-    "snippet_highlighted_words": [
-     "career"
-    ],
-    "source": "FBI Jobs (.gov)",
-    "title": "Home for FBI Careers | FBIJOBS"
-   },
-   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVnlUVk01SHh6UW9wdGp5Z0hMZVVJeVE0RDZYVGRpalNmb0swR3JhRXcydU8yTlM5VDYyd25FcnlFZktwRFRCbjc1LW9VbDJWMmdTTll1aDNiQkFsT2dCNE5WaDdWXy1TLWZsejhrbXNQanNOMXFsYxIEGgIIABqBBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsDCAAQABgAIAAqEgoEd2hhdBU0JYtAGgV3aGljaDKFAS9nb3RvP3VybD1DQUVTV0FIck96QVZ5VFZNNUh4elFvcHRqeWdITGVVSXlRNEQ2WFRkaWpTZm9LMEdyYUV3MnVPMk5TOVQ2MnduRXJ5RWZLcERUQm43NS1vVWwyVjJnU05ZdWgzYkJBbE9nQjROVmg3Vl8tUy1mbHo4a21zUGpzTjFxbGM6UUxpbmtlZEluIDxiPkpvYjwvYj4gU2VhcmNoOiBGaW5kIFVTIDxiPkpvYnM8L2I-LCBJbnRlcm5zaGlwcywgPGI-Sm9iczwvYj4gTmVhciBNZULYAU1pbGxpb25zIG9mIDxiPmpvYnM8L2I-IGFuZCBwZW9wbGUgaGlyaW5nLiBGaW5kIHRoZSByaWdodCA8Yj5qb2I8L2I-IG9yIGludGVybnNoaXAgZm9yIHlvdS4gRW5naW5lZXJpbmcgJm1pZGRvdDsgQnVzaW5lc3MgPGI-RGV2ZWxvcG1lbnQ8L2I-ICZtaWRkb3Q7IEZpbmFuY2UgJm1pZGRvdDsgQWRtaW5pc3RyYXRpdmUgQXNzaXN0YW50ICZtaWRkb3Q7IFJldGFpbCZuYnNwOy4uLkoDYXJlSgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVnlUVk01SHh6UW9wdGp5Z0hMZVVJeVE0RDZYVGRpalNmb0swR3JhRXcydU8yTlM5VDYyd25FcnlFZktwRFRCbjc1LW9VbDJWMmdTTll1aDNiQkFsT2dCNE5WaDdWXy1TLWZsejhrbXNQanNOMXFsYxIEGgIIABqBBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsDCAAQABgAIAAqEgoEd2hhdBU0JYtAGgV3aGljaDKFAS9nb3RvP3VybD1DQUVTV0FIck96QVZ5VFZNNUh4elFvcHRqeWdITGVVSXlRNEQ2WFRkaWpTZm9LMEdyYUV3MnVPMk5TOVQ2MnduRXJ5RWZLcERUQm43NS1vVWwyVjJnU05ZdWgzYkJBbE9nQjROVmg3Vl8tUy1mbHo4a21zUGpzTjFxbGM6UUxpbmtlZEluIDxiPkpvYjwvYj4gU2VhcmNoOiBGaW5kIFVTIDxiPkpvYnM8L2I-LCBJbnRlcm5zaGlwcywgPGI-Sm9iczwvYj4gTmVhciBNZULYAU1pbGxpb25zIG9mIDxiPmpvYnM8L2I-IGFuZCBwZW9wbGUgaGlyaW5nLiBGaW5kIHRoZSByaWdodCA8Yj5qb2I8L2I-IG9yIGludGVybnNoaXAgZm9yIHlvdS4gRW5naW5lZXJpbmcgJm1pZGRvdDsgQnVzaW5lc3MgPGI-RGV2ZWxvcG1lbnQ8L2I-ICZtaWRkb3Q7IEZpbmFuY2UgJm1pZGRvdDsgQWRtaW5pc3RyYXRpdmUgQXNzaXN0YW50ICZtaWRkb3Q7IFJldGFpbCZuYnNwOy4uLkoDYXJlSgJpbiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -180,9 +263,9 @@
     "displayed_link": "https://www.linkedin.com › jobs",
     "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png",
     "link": "https://www.linkedin.com/jobs",
-    "position": 6,
+    "position": 1,
     "read_more_link": "https://www.linkedin.com/jobs#:~:text=Find%20the%20right%20job%20or,Retail%20Associate",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAV9OaV934rQerUbh2jqO3Xq5ef95L2SqiPeLWIjWCs56uZFEfEz49cOA8Wz0YgE18Jv9owM9ZHczTeP6hS3lxXsq3l9KseEm2bf-w3xTu4-ZY&ved=2ahUKEwii3L-Wi_2WAxUIK1kFHWQsDIEQFnoECBIQAQ&uoh=1",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVyTVM5HxzQoptjygHLeUIyQ4D6XTdijSfoK0GraEw2uO2NS9T62wnEryEfKpDTBn75-oUl2V2gSNYuh3bBAlOgB4NVh7V_-S-flz8kmsPjsN1qlc&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQFnoECCEQAQ&uoh=1",
     "snippet": "Millions of jobs and people hiring. Find the right job or internship for you. Engineering · Business Development · Finance · Administrative Assistant · Retail ...",
     "snippet_highlighted_words": [
      "jobs",
@@ -193,6 +276,8 @@
     "title": "Find US Jobs, Internships, Jobs Near Me"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVld1enJyWTB1aTg1S2VIaElxOEhILWZRV0UwQTRNdjlPLU1FSWkwanFWN3g4cTBoTVhkMG5HMHFaUDF3RkdFRjZWUm50Sl9wS2Uzbm9udHptYXhMX3hOVTdfVzRMYVVPTVhNT28wYXUta25BQ2NRaVMSBBoCCAAawwISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCdAggAEAAYACAAKhIKBHdoYXQVlICPQBoFd2hpY2gyhgEvZ290bz91cmw9Q0FFU1dRSHJPekFWV3V6cnJZMHVpODVLZUhoSXE4SEgtZlFXRTBBNE12OU8tTUVJaTBqcVY3eDhxMGhNWGQwbkcwcVpQMXdGR0VGNlZSbnRKX3BLZTNub250em1heExfeE5VN19XNExhVU9NWE1PbzBhdS1rbkFDY1FpUzoWci88Yj5qb2JzPC9iPiAtIFJlZGRpdEJVL3IvPGI-am9iczwvYj4gaXMgdGhlIG51bWJlciBvbmUgY29tbXVuaXR5IGZvciBhZHZpY2UgcmVsYXRpbmcgdG8geW91ciA8Yj5jYXJlZXI8L2I-LkoCaW5KA2FyZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVld1enJyWTB1aTg1S2VIaElxOEhILWZRV0UwQTRNdjlPLU1FSWkwanFWN3g4cTBoTVhkMG5HMHFaUDF3RkdFRjZWUm50Sl9wS2Uzbm9udHptYXhMX3hOVTdfVzRMYVVPTVhNT28wYXUta25BQ2NRaVMSBBoCCAAawwISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCdAggAEAAYACAAKhIKBHdoYXQVlICPQBoFd2hpY2gyhgEvZ290bz91cmw9Q0FFU1dRSHJPekFWV3V6cnJZMHVpODVLZUhoSXE4SEgtZlFXRTBBNE12OU8tTUVJaTBqcVY3eDhxMGhNWGQwbkcwcVpQMXdGR0VGNlZSbnRKX3BLZTNub250em1heExfeE5VN19XNExhVU9NWE1PbzBhdS1rbkFDY1FpUzoWci88Yj5qb2JzPC9iPiAtIFJlZGRpdEJVL3IvPGI-am9iczwvYj4gaXMgdGhlIG51bWJlciBvbmUgY29tbXVuaXR5IGZvciBhZHZpY2UgcmVsYXRpbmcgdG8geW91ciA8Yj5jYXJlZXI8L2I-LkoCaW5KA2FyZSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
       "en"
@@ -201,102 +286,311 @@
       "US"
      ],
      "source": {
-      "description": "Drawing from some of the most pivotal points in his life, Steve Jobs, chief executive officer and co-founder of Apple Computer and of Pixar ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=UF8uR6Z6KLc"
-     }
-    },
-    "date": "Mar 7, 2008",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
-    "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVds5s1-GTiGQO2lzYmFAktppzwdMBb2folVUlbHyhxJ7XPh0YVzx-yhz_Sb5NEuJ_js7PtmtPCsZVokGOny6bgscqvMjgpzm4T_JB1jOm8tz_srdKjWCpgk4tpdtWMw&ved=2ahUKEwii3L-Wi_2WAxUIK1kFHWQsDIEQFnoECBcQAQ&uoh=1",
-    "snippet": "Drawing from some of the most pivotal points in his life, Steve Jobs, chief executive officer and co-founder of Apple Computer and of Pixar ...",
-    "snippet_highlighted_words": [
-     "Jobs"
-    ],
-    "source": "YouTube",
-    "title": "Steve Jobs' 2005 Stanford Commencement Address"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Discover career opportunities at AT&T. Find open roles in tech, sales, retail, customer service, and more. Apply today.",
-      "icon": "https://serpapi.com/images/i/UklGRrIAAABXRUJQVlA4IKYAAACwAgCdASoQABAAAsBMJbACdDiAN5VIisrepkyWwAAA_vo7MJ7SU5Q7X1DkxeDsjqRUAdKJg5W5nVtUijq_mcRxAv-J0V3IIZdhng89w0x49CuiDjz_4aFYxJfn7a1-9ZZmeP6vFHUvfxro09s-RCndBU_4U1_PlOHMDewPa_q8eemCfw-mu5G2Xjrv6ND9SXCSjXvV_rvGHHvG-lq3w0qsF7wYQAAA.webp",
-      "source_info_link": "https://www.att.jobs/"
-     }
-    },
-    "displayed_link": "https://www.att.jobs",
-    "favicon": "https://serpapi.com/images/i/UklGRrIAAABXRUJQVlA4IKYAAACwAgCdASoQABAAAsBMJbACdDiAN5VIisrepkyWwAAA_vo7MJ7SU5Q7X1DkxeDsjqRUAdKJg5W5nVtUijq_mcRxAv-J0V3IIZdhng89w0x49CuiDjz_4aFYxJfn7a1-9ZZmeP6vFHUvfxro09s-RCndBU_4U1_PlOHMDewPa_q8eemCfw-mu5G2Xjrv6ND9SXCSjXvV_rvGHHvG-lq3w0qsF7wYQAAA.webp",
-    "link": "https://www.att.jobs/",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAVEZkkJEB6A1rolaw_6gyXLSJLuuB34vuslxON4OB1hmPD03qlxTOQoUyJ0_iY_M5addbToXFr7CXRF-beJ-UT6aSwqRT5l2M4&ved=2ahUKEwii3L-Wi_2WAxUIK1kFHWQsDIEQFnoECBEQAQ&uoh=1",
-    "snippet": "Discover career opportunities at AT&T. Find open roles in tech, sales, retail, customer service, and more. Apply today.",
-    "snippet_highlighted_words": [
-     "career"
-    ],
-    "source": "AT&T Careers",
-    "title": "AT&T Careers: Shape the future of connectivity"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "I'm looking specifically for Backend / Software Engineer / Full-Stack Developer opportunities where my experience is relevant. ... All the jobs openings ...",
+      "description": "/r/jobs is the number one community for advice relating to your career.",
       "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
       "source_info_link": "https://www.reddit.com/r/jobs/"
      }
     },
-    "displayed_link": "https://www.reddit.com › jobs",
+    "displayed_link": "2.8M+ followers",
     "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
     "link": "https://www.reddit.com/r/jobs/",
-    "position": 9,
-    "read_more_link": "https://www.reddit.com/r/jobs/#:~:text=I'm%20looking%20specifically%20for%20Backend,where%20my%20experience%20is%20relevant.&text=All%20the%20jobs%20openings%2C%20or,2%2C%203%20or%20higher%20division.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAV4BDPwfRgkR1x36jmhkHK2uijWIUpRa1iIgbHeteaf9kR6Qm37JL5MOqlQ48LsxYNyrDSKARaENBY4ykuQYcoivTPJtu9NeTJC-p49-wY3QmO&ved=2ahUKEwii3L-Wi_2WAxUIK1kFHWQsDIEQFnoECBgQAQ&uoh=1",
-    "snippet": "I'm looking specifically for Backend / Software Engineer / Full-Stack Developer opportunities where my experience is relevant. ... All the jobs openings ...",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVWuzrrY0ui85KeHhIq8HH-fQWE0A4Mv9O-MEIi0jqV7x8q0hMXd0nG0qZP1wFGEF6VRntJ_pKe3nontzmaxL_xNU7_W4LaUOMXMOo0au-knACcQiS&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQFnoECCYQAQ&uoh=1",
+    "snippet": "/r/jobs is the number one community for advice relating to your career.",
     "snippet_highlighted_words": [
-     "Developer",
+     "jobs",
+     "career"
+    ],
+    "source": "Reddit · r/jobs",
+    "title": "r/jobs"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjBoS09ma29VSWE3NmFRZWswOElrb1hvTGRlTzlCMFR6b3NaSTNYSTlXNUUwVFlyc2lad3E3MUFYSVR5c05JaF8wNjNBQTdkcWtTNXFNNVNhUURycnE1c25oek1UaG9XVXY5SHAtOFgzam0xeXdfZzZ6SjNPUGtkQWh3SzZWSkZxckZReW9SdmhTaXlxSGF5OVFoNBIEGgIIABrcAxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLYDCAAQABgAIAAqEgoEd2hhdBU4X7xAGgV3aGljaDKpAS9nb3RvP3VybD1DQUVTY3dIck96QVYwaEtPZmtvVUlhNzZhUWVrMDhJa29Yb0xkZU85QjBUem9zWkkzWEk5VzVFMFRZcnNpWndxNzFBWElUeXNOSWhfMDYzQUE3ZHFrUzVxTTVTYVFEcnJxNXNuaHpNVGhvV1V2OUhwLThYM2ptMXl3X2c2ekozT1BrZEFod0s2VkpGcXJGUXlvUnZoU2l5cUhheTlRaDQ6QEdvb2QgPGI-Sm9iczwvYj4gQ2hhbGxlbmdlIC0gRWNvbm9taWMgRGV2ZWxvcG1lbnQgQWRtaW5pc3RyYXRpb25CoAFUaGUgR29vZCA8Yj5Kb2JzPC9iPiBDaGFsbGVuZ2Ugc3VwcG9ydHMgcmVnaW9uYWwgd29ya2ZvcmNlIHRyYWluaW5nIHN5c3RlbXMgdG8gZXN0YWJsaXNoIHNlY3RvcmFsIHBhcnRuZXJzaGlwcyB0aGF0IHRyYWluIGFuZCBwbGFjZSB3b3JrZXJzIGluIGdvb2QgPGI-am9iczwvYj4uSgJpbkoDYXJlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjBoS09ma29VSWE3NmFRZWswOElrb1hvTGRlTzlCMFR6b3NaSTNYSTlXNUUwVFlyc2lad3E3MUFYSVR5c05JaF8wNjNBQTdkcWtTNXFNNVNhUURycnE1c25oek1UaG9XVXY5SHAtOFgzam0xeXdfZzZ6SjNPUGtkQWh3SzZWSkZxckZReW9SdmhTaXlxSGF5OVFoNBIEGgIIABrcAxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLYDCAAQABgAIAAqEgoEd2hhdBU4X7xAGgV3aGljaDKpAS9nb3RvP3VybD1DQUVTY3dIck96QVYwaEtPZmtvVUlhNzZhUWVrMDhJa29Yb0xkZU85QjBUem9zWkkzWEk5VzVFMFRZcnNpWndxNzFBWElUeXNOSWhfMDYzQUE3ZHFrUzVxTTVTYVFEcnJxNXNuaHpNVGhvV1V2OUhwLThYM2ptMXl3X2c2ekozT1BrZEFod0s2VkpGcXJGUXlvUnZoU2l5cUhheTlRaDQ6QEdvb2QgPGI-Sm9iczwvYj4gQ2hhbGxlbmdlIC0gRWNvbm9taWMgRGV2ZWxvcG1lbnQgQWRtaW5pc3RyYXRpb25CoAFUaGUgR29vZCA8Yj5Kb2JzPC9iPiBDaGFsbGVuZ2Ugc3VwcG9ydHMgcmVnaW9uYWwgd29ya2ZvcmNlIHRyYWluaW5nIHN5c3RlbXMgdG8gZXN0YWJsaXNoIHNlY3RvcmFsIHBhcnRuZXJzaGlwcyB0aGF0IHRyYWluIGFuZCBwbGFjZSB3b3JrZXJzIGluIGdvb2QgPGI-am9iczwvYj4uSgJpbkoDYXJlIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The Good Jobs Challenge supports regional workforce training systems to establish sectoral partnerships that train and place workers in good jobs.",
+      "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASocABwAPtE-tFooIigoFAEAGglsALe4ERzMLMR3ZTvi0YT9zrz62o_1IAAAAP72AdikE4-osClFfqPdhbH7Ocrr8zRmBsvJJHu71x7R6v437qc6hgTmFXqs4pg51pAgCh1_vBM2SAsTJUdng2oAAA.webp",
+      "source_info_link": "https://www.eda.gov/funding/programs/good-jobs-challenge"
+     }
+    },
+    "displayed_link": "https://www.eda.gov › funding › programs › good-jobs...",
+    "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASocABwAPtE-tFooIigoFAEAGglsALe4ERzMLMR3ZTvi0YT9zrz62o_1IAAAAP72AdikE4-osClFfqPdhbH7Ocrr8zRmBsvJJHu71x7R6v437qc6hgTmFXqs4pg51pAgCh1_vBM2SAsTJUdng2oAAA.webp",
+    "link": "https://www.eda.gov/funding/programs/good-jobs-challenge",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAV0hKOfkoUIa76aQek08IkoXoLdeO9B0TzosZI3XI9W5E0TYrsiZwq71AXITysNIh_063AA7dqkS5qM5SaQDrrq5snhzMThoWUv9Hp-8X3jm1yw_g6zJ3OPkdAhwK6VJFqrFQyoRvhSiyqHay9Qh4&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQFnoECCMQAQ&uoh=1",
+    "snippet": "The Good Jobs Challenge supports regional workforce training systems to establish sectoral partnerships that train and place workers in good jobs.",
+    "snippet_highlighted_words": [
+     "Jobs",
      "jobs"
     ],
-    "source": "Reddit",
-    "title": "r/jobs"
+    "source": "U.S. Economic Development Administration (.gov)",
+    "title": "Good Jobs Challenge"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWSndGZzRQaWNMcGMxSUExOFMyVmx2N3VkNjVIR2JZMHNOVWZXbmtvMEpaSkxYU3c5LW5UaXpkeW93NWRGeVg5VjdVdlZ3bnA0MEZ3djNWZWI5TnJTOU4xeXktNVR2OXhUX1RtYldFUEoSBBoCCAAapwMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCBAwgAEAAYACAAKhIKBHdoYXQVqZk9QBoFd2hpY2gyfi9nb3RvP3VybD1DQUVTVXdIck96QVZKd0ZnNFBpY0xwYzFJQTE4UzJWbHY3dWQ2NUhHYlkwc05VZldua28wSlpKTFhTdzktblRpemR5b3c1ZEZ5WDlWN1V2VnducDQwRnd2M1ZlYjlOclM5TjF5eS01VHY5eFRfVG1iV0VQSjo_VVNBSk9CUyAtIFRoZSBGZWRlcmFsIEdvdmVybm1lbnQmIzM5O3Mgb2ZmaWNpYWwgZW1wbG95bWVudCBzaXRlQpgBPGI-U2VhcmNoIGFuZCBhcHBseSBmb3IgZmVkZXJhbCBqb2JzPC9iPi4gTGVhcm4gYWJvdXQgdW5pcXVlIGhpcmluZyBwYXRocyBmb3IgdmV0ZXJhbnMsIHN0dWRlbnRzIGFuZCBncmFkdWF0ZXMsIGluZGl2aWR1YWxzIHdpdGggYSBkaXNhYmlsaXR5LCBhbmQgbW9yZS5KAmluSgNhcmUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWSndGZzRQaWNMcGMxSUExOFMyVmx2N3VkNjVIR2JZMHNOVWZXbmtvMEpaSkxYU3c5LW5UaXpkeW93NWRGeVg5VjdVdlZ3bnA0MEZ3djNWZWI5TnJTOU4xeXktNVR2OXhUX1RtYldFUEoSBBoCCAAapwMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCBAwgAEAAYACAAKhIKBHdoYXQVqZk9QBoFd2hpY2gyfi9nb3RvP3VybD1DQUVTVXdIck96QVZKd0ZnNFBpY0xwYzFJQTE4UzJWbHY3dWQ2NUhHYlkwc05VZldua28wSlpKTFhTdzktblRpemR5b3c1ZEZ5WDlWN1V2VnducDQwRnd2M1ZlYjlOclM5TjF5eS01VHY5eFRfVG1iV0VQSjo_VVNBSk9CUyAtIFRoZSBGZWRlcmFsIEdvdmVybm1lbnQmIzM5O3Mgb2ZmaWNpYWwgZW1wbG95bWVudCBzaXRlQpgBPGI-U2VhcmNoIGFuZCBhcHBseSBmb3IgZmVkZXJhbCBqb2JzPC9iPi4gTGVhcm4gYWJvdXQgdW5pcXVlIGhpcmluZyBwYXRocyBmb3IgdmV0ZXJhbnMsIHN0dWRlbnRzIGFuZCBncmFkdWF0ZXMsIGluZGl2aWR1YWxzIHdpdGggYSBkaXNhYmlsaXR5LCBhbmQgbW9yZS5KAmluSgNhcmUiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Search and apply for federal jobs. Learn about unique hiring paths for veterans, students and graduates, individuals with a disability, and more.",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABQAgCdASoQABAAAsBMJbACdAYr7fDQPuMvBQAA_uozA9-ltzC377E73QX_hsFH7xviF_anj2nANs81VC2Bi4SAcILrUCD7i5Y3Xg9Jwl31AIZHsPjlBerJPEhPNK6qWjH1MbwZz9zW6wUE9dNd7KTe-MYA1sc5e9PxPUnGesI0MkboANDuMnpn8Jv7GGa35RcF5Hwv8q33UAAA.webp",
+      "source_info_link": "https://www.usajobs.gov/"
+     }
+    },
+    "displayed_link": "https://www.usajobs.gov",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABQAgCdASoQABAAAsBMJbACdAYr7fDQPuMvBQAA_uozA9-ltzC377E73QX_hsFH7xviF_anj2nANs81VC2Bi4SAcILrUCD7i5Y3Xg9Jwl31AIZHsPjlBerJPEhPNK6qWjH1MbwZz9zW6wUE9dNd7KTe-MYA1sc5e9PxPUnGesI0MkboANDuMnpn8Jv7GGa35RcF5Hwv8q33UAAA.webp",
+    "link": "https://www.usajobs.gov/",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVJwFg4PicLpc1IA18S2Vlv7ud65HGbY0sNUfWnko0JZJLXSw9-nTizdyow5dFyX9V7UvVwnp40Fwv3Veb9NrS9N1yy-5Tv9xT_TmbWEPJ&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQFnoECFcQAQ&uoh=1",
+    "snippet": "Search and apply for federal jobs. Learn about unique hiring paths for veterans, students and graduates, individuals with a disability, and more.",
+    "snippet_highlighted_words": [
+     "Search and apply for federal jobs"
+    ],
+    "source": "USAJobs (.gov)",
+    "title": "USAJOBS - The Federal Government's official employment site"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVl9TQnhhZ190Qk1oMG56b01rdUZRV29YYjZ3UmVELVI4a0tMYk8taWIwRXNQa1dvS2JCZUUtcjcxemxkQmN2U1ZBb3JzRExscWNaeVhYRnBmRUdmZFNrV1dROFYwT29aQTZHbkJfcG9XZVJZMHFlaU43MVZGbWcSBBoCCAAaogMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD8AggAEAAYACAAKhIKBHdoYXQV2wdXQBoFd2hpY2gyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWX1NCeGFnX3RCTWgwbnpvTWt1RlFXb1hiNndSZUQtUjhrS0xiTy1pYjBFc1BrV29LYkJlRS1yNzF6bGRCY3ZTVkFvcnNETGxxY1p5WFhGcGZFR2ZkU2tXV1E4VjBPb1pBNkduQl9wb1dlUlkwcWVpTjcxVkZtZzorU3RldmUgPGI-Sm9iczwvYj46IE1ha2UgU29tZXRoaW5nIFdvbmRlcmZ1bEKYAVJlYWQgU3RldmUgPGI-Sm9iczwvYj4gaW4gaGlzIG93biB3b3JkcyBpbiB0aGlzIGZyZWUgb25saW5lIGJvb2sgZmVhdHVyaW5nIHNwZWVjaGVzLCBxdW90ZXMsIGVtYWlscywgYW5kIHBob3RvZ3JhcGhzIGZyb20gdGhlIFN0ZXZlIDxiPkpvYnM8L2I-IEFyY2hpdmUuSgJpbkoDYXJlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVl9TQnhhZ190Qk1oMG56b01rdUZRV29YYjZ3UmVELVI4a0tMYk8taWIwRXNQa1dvS2JCZUUtcjcxemxkQmN2U1ZBb3JzRExscWNaeVhYRnBmRUdmZFNrV1dROFYwT29aQTZHbkJfcG9XZVJZMHFlaU43MVZGbWcSBBoCCAAaogMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD8AggAEAAYACAAKhIKBHdoYXQV2wdXQBoFd2hpY2gyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWX1NCeGFnX3RCTWgwbnpvTWt1RlFXb1hiNndSZUQtUjhrS0xiTy1pYjBFc1BrV29LYkJlRS1yNzF6bGRCY3ZTVkFvcnNETGxxY1p5WFhGcGZFR2ZkU2tXV1E4VjBPb1pBNkduQl9wb1dlUlkwcWVpTjcxVkZtZzorU3RldmUgPGI-Sm9iczwvYj46IE1ha2UgU29tZXRoaW5nIFdvbmRlcmZ1bEKYAVJlYWQgU3RldmUgPGI-Sm9iczwvYj4gaW4gaGlzIG93biB3b3JkcyBpbiB0aGlzIGZyZWUgb25saW5lIGJvb2sgZmVhdHVyaW5nIHNwZWVjaGVzLCBxdW90ZXMsIGVtYWlscywgYW5kIHBob3RvZ3JhcGhzIGZyb20gdGhlIFN0ZXZlIDxiPkpvYnM8L2I-IEFyY2hpdmUuSgJpbkoDYXJlIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Read Steve Jobs in his own words in this free online book featuring speeches, quotes, emails, and photographs from the Steve Jobs Archive.",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABwBgCdASocABwAPtE-tFooIigoFAEAGglpAAdQClgPS4zaPMPsAfqIGdzbAEdT0ftFY2jvRtt2aqMRAAAA_vTRNpl47mF0kKiZ56au-4u0M6a0-6u_ouwXnb6TeuSvAwW4czKFiFzA7lxd4Shv73N1abkSQC8UDqn4C4rebsBBHgAxj_lPXJ9bWObSPd4bauaRzMfajvxOaOhoZ3BJ__FKBULHf8TExv4K-LCRcR7V5L9fSON4-ZF4lTXlgpR-_TzXbqf_Dd_BWtgMHH85ToUhfWXV68f3a-El-Fv4i_x9P3NvCSV1_ZtwP6dyiYbfTm_5ifQ1WU120f0liFCw8BK5tbrcgAAA.webp",
+      "source_info_link": "https://book.stevejobsarchive.com/"
+     }
+    },
+    "displayed_link": "https://book.stevejobsarchive.com",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABwBgCdASocABwAPtE-tFooIigoFAEAGglpAAdQClgPS4zaPMPsAfqIGdzbAEdT0ftFY2jvRtt2aqMRAAAA_vTRNpl47mF0kKiZ56au-4u0M6a0-6u_ouwXnb6TeuSvAwW4czKFiFzA7lxd4Shv73N1abkSQC8UDqn4C4rebsBBHgAxj_lPXJ9bWObSPd4bauaRzMfajvxOaOhoZ3BJ__FKBULHf8TExv4K-LCRcR7V5L9fSON4-ZF4lTXlgpR-_TzXbqf_Dd_BWtgMHH85ToUhfWXV68f3a-El-Fv4i_x9P3NvCSV1_ZtwP6dyiYbfTm_5ifQ1WU120f0liFCw8BK5tbrcgAAA.webp",
+    "link": "https://book.stevejobsarchive.com/",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAV_SBxag_tBMh0nzoMkuFQWoXb6wReD-R8kKLbO-ib0EsPkWoKbBeE-r71zldBcvSVAorsDLlqcZyXXFpfEGfdSkWWQ8V0OoZA6GnB_poWeRY0qeiN71VFmg&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQFnoECFYQAQ&uoh=1",
+    "snippet": "Read Steve Jobs in his own words in this free online book featuring speeches, quotes, emails, and photographs from the Steve Jobs Archive.",
+    "snippet_highlighted_words": [
+     "Jobs",
+     "Jobs"
+    ],
+    "source": "Make Something Wonderful | Steve Jobs",
+    "title": "Steve Jobs: Make Something Wonderful"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnkvZ290bz91cmw9Q0FFU1R3SHJPekFWMXhJd0tHZ0tQdlNEclVDT2tXYjF1S3pIaEtSdnFEVWd4RC1Vd19Ca3piMG1USWViQ3ltNlpWN19sOUFuVlVaS2o3bF9Vdkt5c0Y3WWthNEZmZW96TGJHbmxZb1VsR1hmTGFBEgQaAggAGuoCEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAxAIIABAAGAAgACoSCgR3aGF0FSjaF0AaBXdoaWNoMnkvZ290bz91cmw9Q0FFU1R3SHJPekFWMXhJd0tHZ0tQdlNEclVDT2tXYjF1S3pIaEtSdnFEVWd4RC1Vd19Ca3piMG1USWViQ3ltNlpWN19sOUFuVlVaS2o3bF9Vdkt5c0Y3WWthNEZmZW96TGJHbmxZb1VsR1hmTGFBOh5Ib21lIGZvciBGQkkgQ2FyZWVycyB8IEZCSUpPQlNCgQFGQkkgcHJvdmlkZXMgeW91IHVucGFyYWxsZWxlZCBleHBlcmllbmNlcywgdHJhaW5pbmcsIGFuZCBsZWFkZXJzaGlwIGFuZCA8Yj5jYXJlZXIgZGV2ZWxvcG1lbnQ8L2I-IG9wcG9ydHVuaXRpZXMuIGEgc3BlY2lhbCBhZ2VudC5KA2FyZUoCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnkvZ290bz91cmw9Q0FFU1R3SHJPekFWMXhJd0tHZ0tQdlNEclVDT2tXYjF1S3pIaEtSdnFEVWd4RC1Vd19Ca3piMG1USWViQ3ltNlpWN19sOUFuVlVaS2o3bF9Vdkt5c0Y3WWthNEZmZW96TGJHbmxZb1VsR1hmTGFBEgQaAggAGuoCEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAxAIIABAAGAAgACoSCgR3aGF0FSjaF0AaBXdoaWNoMnkvZ290bz91cmw9Q0FFU1R3SHJPekFWMXhJd0tHZ0tQdlNEclVDT2tXYjF1S3pIaEtSdnFEVWd4RC1Vd19Ca3piMG1USWViQ3ltNlpWN19sOUFuVlVaS2o3bF9Vdkt5c0Y3WWthNEZmZW96TGJHbmxZb1VsR1hmTGFBOh5Ib21lIGZvciBGQkkgQ2FyZWVycyB8IEZCSUpPQlNCgQFGQkkgcHJvdmlkZXMgeW91IHVucGFyYWxsZWxlZCBleHBlcmllbmNlcywgdHJhaW5pbmcsIGFuZCBsZWFkZXJzaGlwIGFuZCA8Yj5jYXJlZXIgZGV2ZWxvcG1lbnQ8L2I-IG9wcG9ydHVuaXRpZXMuIGEgc3BlY2lhbCBhZ2VudC5KA2FyZUoCaW4iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "FBI provides you unparalleled experiences, training, and leadership and career development opportunities. a special agent.",
+      "icon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAADQBwCdASocABwAPrUurVanIacnG_DgFolsAKwozknegDbAXY1vJD6CrAw7LRhF_EmaJToP1C8nqqOyf-gKWDY8IOQJYFmwAAD--Loi06PNehE-6xEwr6MUfryTrQAkV0apigWEZzfZzJopHYG4AadQmBYVa9aiFWLgyAW1ZNOKG8v0791Jznn0Sernu4fUuhIolfZtKk47KxhOMmzHSDGA0iePQBWa1PQsik4y_AEotUz8qRQU6fgRDI0Ert4JC7rHUMV9CGG4t3FW9CU-bgdxyQirCTPFRK7eCRdlGlnYaXsNWhdXPGOMeoBYkxgMZdBMWDrhx5GXdye2xXIN5bgPr5OjpEwNpI4Qq0RPOmatmtjV7Xs4T3096bsvClFsJW3gZZkOO3iabWXbhheOqsvfI6eovg1JvdQH7nkrmzwB0AoResh3uCYKwO4s8frGe2DgAA.webp",
+      "source_info_link": "https://fbijobs.gov/"
+     }
+    },
+    "displayed_link": "https://fbijobs.gov",
+    "favicon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAADQBwCdASocABwAPrUurVanIacnG_DgFolsAKwozknegDbAXY1vJD6CrAw7LRhF_EmaJToP1C8nqqOyf-gKWDY8IOQJYFmwAAD--Loi06PNehE-6xEwr6MUfryTrQAkV0apigWEZzfZzJopHYG4AadQmBYVa9aiFWLgyAW1ZNOKG8v0791Jznn0Sernu4fUuhIolfZtKk47KxhOMmzHSDGA0iePQBWa1PQsik4y_AEotUz8qRQU6fgRDI0Ert4JC7rHUMV9CGG4t3FW9CU-bgdxyQirCTPFRK7eCRdlGlnYaXsNWhdXPGOMeoBYkxgMZdBMWDrhx5GXdye2xXIN5bgPr5OjpEwNpI4Qq0RPOmatmtjV7Xs4T3096bsvClFsJW3gZZkOO3iabWXbhheOqsvfI6eovg1JvdQH7nkrmzwB0AoResh3uCYKwO4s8frGe2DgAA.webp",
+    "link": "https://fbijobs.gov/",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAV1xIwKGgKPvSDrUCOkWb1uKzHhKRvqDUgxD-Uw_Bkzb0mTIebCym6ZV7_l9AnVUZKj7l_UvKysF7Yka4FfeozLbGnlYoUlGXfLaA&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQFnoECFUQAQ&uoh=1",
+    "snippet": "FBI provides you unparalleled experiences, training, and leadership and career development opportunities. a special agent.",
+    "snippet_highlighted_words": [
+     "career development"
+    ],
+    "source": "FBI Jobs (.gov)",
+    "title": "Home for FBI Careers | FBIJOBS"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZSX19FbXhqSy1MaUQ1eHFYNENpTWFPTmhqMTkxb0dCX3FiZ3JxaHJ6Wkl0UmE0TG44SFhraC1iMExQSW1ybkdpUTNxRHpEME5rcVFjZC1PY2ZMVUNNb0Z3dGEyYjl4aTNJOUc2QkxienNXNzQ4a1BjbXhnQ0pqSmhDRzE1aDY1T2tuX2Z0LUNaeWdoZUdjT2E3N0xYVENNZUMzeFpCM01UbFZHWFVVOGFRaVItZ000cHFjejY0WUMyUFROTnN3QTdnLTVLQ0c4SUwtN0FST20xN1NYTjZQUE9pU2cxVGF6cGcSBBoCCAAa7QMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDHAwgAEAAYACAAKhIKBHdoYXQV108gQBoFd2hpY2gy-AEvZ290bz91cmw9Q0FFU3JRRUI2enN3RlJfX0VteGpLLUxpRDV4cVg0Q2lNYU9OaGoxOTFvR0JfcWJncnFocnpaSXRSYTRMbjhIWGtoLWIwTFBJbXJuR2lRM3FEekQwTmtxUWNkLU9jZkxVQ01vRnd0YTJiOXhpM0k5RzZCTGJ6c1c3NDhrUGNteGdDSmpKaENHMTVoNjVPa25fZnQtQ1p5Z2hlR2NPYTc3TFhUQ01lQzN4WkIzTVRsVkdYVVU4YVFpUi1nTTRwcWN6NjRZQzJQVE5Oc3dBN2ctNUtDRzhJTC03QVJPbTE3U1hONlBQT2lTZzFUYXpwZzo-MiBOb3ZlbWJlciAyMDI2KSBpbiBGb3Jlc3QgSGlsbHMsIE5ZIGZvciBUaGUgS2V3LUZvcmVzdCBTY2hvb2xCZUlmIHlvdSBhcmUgYSA8Yj5qb2I8L2I-IHNlZWtlciBhbmQgbmVlZCBhc3Npc3RhbmNlLCBwbGVhc2UgcmVhY2ggb3V0IHRvIGNhbmRpZGF0ZXN1cHBvcnRAbmF5bG9yLmNvbSAuSgJpbkoDYXJlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZSX19FbXhqSy1MaUQ1eHFYNENpTWFPTmhqMTkxb0dCX3FiZ3JxaHJ6Wkl0UmE0TG44SFhraC1iMExQSW1ybkdpUTNxRHpEME5rcVFjZC1PY2ZMVUNNb0Z3dGEyYjl4aTNJOUc2QkxienNXNzQ4a1BjbXhnQ0pqSmhDRzE1aDY1T2tuX2Z0LUNaeWdoZUdjT2E3N0xYVENNZUMzeFpCM01UbFZHWFVVOGFRaVItZ000cHFjejY0WUMyUFROTnN3QTdnLTVLQ0c4SUwtN0FST20xN1NYTjZQUE9pU2cxVGF6cGcSBBoCCAAa7QMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDHAwgAEAAYACAAKhIKBHdoYXQV108gQBoFd2hpY2gy-AEvZ290bz91cmw9Q0FFU3JRRUI2enN3RlJfX0VteGpLLUxpRDV4cVg0Q2lNYU9OaGoxOTFvR0JfcWJncnFocnpaSXRSYTRMbjhIWGtoLWIwTFBJbXJuR2lRM3FEekQwTmtxUWNkLU9jZkxVQ01vRnd0YTJiOXhpM0k5RzZCTGJ6c1c3NDhrUGNteGdDSmpKaENHMTVoNjVPa25fZnQtQ1p5Z2hlR2NPYTc3TFhUQ01lQzN4WkIzTVRsVkdYVVU4YVFpUi1nTTRwcWN6NjRZQzJQVE5Oc3dBN2ctNUtDRzhJTC03QVJPbTE3U1hONlBQT2lTZzFUYXpwZzo-MiBOb3ZlbWJlciAyMDI2KSBpbiBGb3Jlc3QgSGlsbHMsIE5ZIGZvciBUaGUgS2V3LUZvcmVzdCBTY2hvb2xCZUlmIHlvdSBhcmUgYSA8Yj5qb2I8L2I-IHNlZWtlciBhbmQgbmVlZCBhc3Npc3RhbmNlLCBwbGVhc2UgcmVhY2ggb3V0IHRvIGNhbmRpZGF0ZXN1cHBvcnRAbmF5bG9yLmNvbSAuSgJpbkoDYXJlIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "If you are a job seeker and need assistance, please reach out to candidatesupport@naylor.com .",
+      "icon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAADwAgCdASoQABAAAsBMJZgAF2k5DbnNeUvRNJLs3aSeAAD-T6qFIN3pfl2Xrl9Htzb4Oa5KbF_nz5WW36cK5Ge7f34q6um_ckVj7Bqcvt_Pjw6bE7D-_dGPER_os_E8gjxnwqhL6P6nhU9CYIzSRf-CdurPXEg7wAz_EB0FJO3d4BAnmAczo21Yn8Nh5vvuO9UZ1bjD68fr1d9D_J_UnMebnWsP_gDKneLJbnwAAAA.webp",
+      "source_info_link": "https://careers.nais.org/jobs/22612646/girls-varsity-assistant-basketball-coach-position-available-2-november-2026"
+     }
+    },
+    "date": "Nov 2, 2026",
+    "displayed_link": "https://careers.nais.org › jobs › girls-varsity-assistant-bas...",
+    "favicon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAADwAgCdASoQABAAAsBMJZgAF2k5DbnNeUvRNJLs3aSeAAD-T6qFIN3pfl2Xrl9Htzb4Oa5KbF_nz5WW36cK5Ge7f34q6um_ckVj7Bqcvt_Pjw6bE7D-_dGPER_os_E8gjxnwqhL6P6nhU9CYIzSRf-CdurPXEg7wAz_EB0FJO3d4BAnmAczo21Yn8Nh5vvuO9UZ1bjD68fr1d9D_J_UnMebnWsP_gDKneLJbnwAAAA.webp",
+    "link": "https://careers.nais.org/jobs/22612646/girls-varsity-assistant-basketball-coach-position-available-2-november-2026",
+    "position": 7,
+    "read_more_link": "https://careers.nais.org/jobs/22612646/girls-varsity-assistant-basketball-coach-position-available-2-november-2026#:~:text=If%20you%20are%20a%20job,.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFR__EmxjK-LiD5xqX4CiMaONhj191oGB_qbgrqhrzZItRa4Ln8HXkh-b0LPImrnGiQ3qDzD0NkqQcd-OcfLUCMoFwta2b9xi3I9G6BLbzsW748kPcmxgCJjJhCG15h65Okn_ft-CZygheGcOa77LXTCMeC3xZB3MTlVGXUU8aQiR-gM4pqcz64YC2PTNNswA7g-5KCG8IL-7AROm17SXN6PPOiSg1Tazpg&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQFnoECFkQAQ&uoh=1",
+    "snippet": "If you are a job seeker and need assistance, please reach out to candidatesupport@naylor.com .",
+    "snippet_highlighted_words": [
+     "job"
+    ],
+    "source": "NAIS.org",
+    "title": "2 November 2026) in Forest Hills, NY for The Kew ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVi1ySV9ZUTBOMnFLUVFmYTNuWVJlckxEbEdKRzRCTDUwbktRRzJVWmxGdXg2SXNQQmdXalFOeW4xQmpBYVM0S0dKdjdWaVh6RFRRenBmd3JBbnRnZTgyWEYzQU9FeThwSHRsbWczREE0ZkRsdjJIUVRCVFRuS3ZCa1hrQU9pdVhnUHZ3V1V5cTM3bFBsTVRUOFJKRW1mZ2R1eHU5SxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVi1ySV9ZUTBOMnFLUVFmYTNuWVJlckxEbEdKRzRCTDUwbktRRzJVWmxGdXg2SXNQQmdXalFOeW4xQmpBYVM0S0dKdjdWaVh6RFRRenBmd3JBbnRnZTgyWEYzQU9FeThwSHRsbWczREE0ZkRsdjJIUVRCVFRuS3ZCa1hrQU9pdVhnUHZ3V1V5cTM3bFBsTVRUOFJKRW1mZ2R1eHU5SxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_this_result": {
+     "source": {
+      "description": "At his Stanford University commencement speech, Steve Jobs, CEO and co-founder of Apple and Pixar, urges us to pursue our dreams and see the opportunities ...",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBQCdASocABwAPtE-tFooIigoFAEAGglsAEuAtgD0AOlYB-Ih5RyQJRYLPbLt4zluyIAA_v0qcOON1PrqsKdWBNguMe39y6_pOXF-KiqZ6HQ600utuJ0xLbjUDxf7PFsF_-eUjqXxNQTX__8tnb_XAfdj_pAfysmp__hN7_MB7mg_8pjNilctuVSg_ueVcWM2l50C-cXdQV_1o8NE31YhpF06TVuZySwtjlt5c4jeVE_cwCbC5ZEEkabPx67q8dmwnABn1BZXtjoMXkv-zo2SBgE7YS9QX0S11eLbO-eGzpUZJ_VmkPEDc5zHgxlrzjfnEjrN7SdyCxFA6svtiWJ1rT-TQwAA.webp"
+     }
+    },
+    "displayed_link": "https://www.ted.com · Mar 7, 2008",
+    "duration": "15:05",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBQCdASocABwAPtE-tFooIigoFAEAGglsAEuAtgD0AOlYB-Ih5RyQJRYLPbLt4zluyIAA_v0qcOON1PrqsKdWBNguMe39y6_pOXF-KiqZ6HQ600utuJ0xLbjUDxf7PFsF_-eUjqXxNQTX__8tnb_XAfdj_pAfysmp__hN7_MB7mg_8pjNilctuVSg_ueVcWM2l50C-cXdQV_1o8NE31YhpF06TVuZySwtjlt5c4jeVE_cwCbC5ZEEkabPx67q8dmwnABn1BZXtjoMXkv-zo2SBgE7YS9QX0S11eLbO-eGzpUZJ_VmkPEDc5zHgxlrzjfnEjrN7SdyCxFA6svtiWJ1rT-TQwAA.webp",
+    "link": "https://www.ted.com/talks/steve_jobs_how_to_live_before_you_die",
+    "position": 8,
+    "snippet": "At his Stanford University commencement speech, Steve Jobs, CEO and co-founder of Apple and Pixar, urges us to pursue our dreams and see the opportunities ...",
+    "source": "TED Talks · Stanford",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9DBZbTPQAmNHU7TtcpusH7HDoMNvsLY5vAw_bzTQTsBhUf2QouZcOtA&s",
+    "title": "Steve Jobs: How to live before you die",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSomZ2qzJlY0gdeepIRu9HNDdPDkRZcMI_FYg"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.com/search?q=What+Java+developer+jobs+are+available+in+Chennai?&sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&ei=v4q5aqX6OPq8ptQPqZCawQ0&start=10&sa=N&sstk=AS6-VmJJ1Yqh3KUKh90WbuaAmNBNkGhDniFjzl7libMButt4nqatB-MxRWry6_AccCpkBz8kMAgntSC-4TgwHW5JQiEgQAsqvZhi9A&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ8NMDegQIShAG",
+   "other_pages": {
+    "2": "https://www.google.com/search?q=What+Java+developer+jobs+are+available+in+Chennai?&sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&ei=v4q5aqX6OPq8ptQPqZCawQ0&start=10&sa=N&sstk=AS6-VmJJ1Yqh3KUKh90WbuaAmNBNkGhDniFjzl7libMButt4nqatB-MxRWry6_AccCpkBz8kMAgntSC-4TgwHW5JQiEgQAsqvZhi9A&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ8tMDegQIShAE"
+   }
+  },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFY3dYMXB4ZEdNeE56Y3RSVXRxYUdVd1ZteG5SMkZTY205eFNtaG9kVWhRTFZCcGVXNU5SMWN3UzBReFpVbzNiWGx6TWxoa2RYWkVla0YyYW1veVdGbzBiMnhqU0ZBdFp6VTFWa3RCYTFOeVptVjJNVVIxUkVFMlVSSVhkalJ4TldGeFdEWlBVSEU0Y0hSUlVIRmFRMkYzVVRBYUlrRkVjM0k1WmxGSE9WRm9XVWRCZW1GQ1pEWnRVMUZ3WVZWYWRHMDNjMk10TW1jIiwiZmN2IjoiMyIsImVpIjoidjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTAiLCJxYyI6IkNqRjNhR0YwSUdwaGRtRWdaR1YyWld4dmNHVnlJR3B2WW5NZ1lYSmxJR0YyWVdsc1lXSnNaU0JwYmlCamFHVnVibUZwRUFCOWhabzdQdyIsInF1ZXN0aW9uIjoiSXMgSmF2YSBkZXZlbG9wZXIgYSBnb29kIGNhcmVlcj8iLCJsayI6IkdoOXBjeUJxWVhaaElHUmxkbVZzYjNCbGNpQmhJR2R2YjJRZ1kyRnlaV1Z5IiwiYnMiOiJjNDNPTVEtQ1FBeUc0YmgyY21ieFF3ZDE1UTh3T2VCdW5Dc1c3Z2poeUxVNV9yNEVUZHpRdVVfZXIzUWhWSW9ySjhaVGt2UmhsQWhHRzhJVE5VZVJXQlo1dHZPS2JzWFFuTGs3TnN5T0VZVjdyLWJyenhVam0xc3kwN3FoRzUyV1RCY2VDc2RKWUU3Z2ZPdEVEY3JtdGVIYWZCaks0cHdkcF84c1ZiVF9adWU1OS10TmlQQ0R4WkFrbXBiRkljdW5YMnE3ZVFFIiwiaWQiOiJmY192NHE1YXFYNk9QcThwdFFQcVpDYXdRMF82In0=",
+    "page_token": "hCoHMXicHdBdToMwAADgeBkfHWVOZcligtABCtpubaEvhrVjP5TSuW7dePMunsrTmPgd4fv-UTvd_t6ct9aa43Q0cs7dbfp-o9Z3ou9G9fGqxUjUSq1q0U4fHh_AcyNm8SkNXw5piIgxNMLeglxS7F0m5UCGJTNp3m6uBBY7XBavpLP0nVJOkmKyuIIID7LJdZatNFbEt3HlmQ_JAF4SfFgkJuEsGBMGU67wie7T-8I_XqtBRgtAQ-zbF1rySU4DwFgGeaQiquUb30PHNO3Rsh3XZRZhxgc6L7x6LruivXzUfqBpa8OcTeZchSYHXIskAytmHSEBqOmTkwNy6wSmFeU63kq_SGJQlbAq2gCJ5dZJCJGgJqpKifOw3yGCB7FXHfEsZ3PkJMXNOrYh69RB-BeFIQxFW_ksVieEbhtxno1v_z9nn01np-ar3_wBXn2DyA",
+    "question": "Is Java developer a good career?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hCoHMXicHdBdToMwAADgeBkfHWVOZcligtABCtpubaEvhrVjP5TSuW7dePMunsrTmPgd4fv-UTvd_t6ct9aa43Q0cs7dbfp-o9Z3ou9G9fGqxUjUSq1q0U4fHh_AcyNm8SkNXw5piIgxNMLeglxS7F0m5UCGJTNp3m6uBBY7XBavpLP0nVJOkmKyuIIID7LJdZatNFbEt3HlmQ_JAF4SfFgkJuEsGBMGU67wie7T-8I_XqtBRgtAQ-zbF1rySU4DwFgGeaQiquUb30PHNO3Rsh3XZRZhxgc6L7x6LruivXzUfqBpa8OcTeZchSYHXIskAytmHSEBqOmTkwNy6wSmFeU63kq_SGJQlbAq2gCJ5dZJCJGgJqpKifOw3yGCB7FXHfEsZ3PkJMXNOrYh69RB-BeFIQxFW_ksVieEbhtxno1v_z9nn01np-ar3_wBXn2DyA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFY3dYMXB4ZEdNeE56Y3RSVXRxYUdVd1ZteG5SMkZTY205eFNtaG9kVWhRTFZCcGVXNU5SMWN3UzBReFpVbzNiWGx6TWxoa2RYWkVla0YyYW1veVdGbzBiMnhqU0ZBdFp6VTFWa3RCYTFOeVptVjJNVVIxUkVFMlVSSVhkalJ4TldGeFdEWlBVSEU0Y0hSUlVIRmFRMkYzVVRBYUlrRkVjM0k1WmxGSE9WRm9XVWRCZW1GQ1pEWnRVMUZ3WVZWYWRHMDNjMk10TW1jIiwiZmN2IjoiMyIsImVpIjoidjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTAiLCJxYyI6IkNqRjNhR0YwSUdwaGRtRWdaR1YyWld4dmNHVnlJR3B2WW5NZ1lYSmxJR0YyWVdsc1lXSnNaU0JwYmlCamFHVnVibUZwRUFCOWhabzdQdyIsInF1ZXN0aW9uIjoiSXMgSmF2YSBkZXZlbG9wZXIgYSBnb29kIGNhcmVlcj8iLCJsayI6IkdoOXBjeUJxWVhaaElHUmxkbVZzYjNCbGNpQmhJR2R2YjJRZ1kyRnlaV1Z5IiwiYnMiOiJjNDNPTVEtQ1FBeUc0YmgyY21ieFF3ZDE1UTh3T2VCdW5Dc1c3Z2poeUxVNV9yNEVUZHpRdVVfZXIzUWhWSW9ySjhaVGt2UmhsQWhHRzhJVE5VZVJXQlo1dHZPS2JzWFFuTGs3TnN5T0VZVjdyLWJyenhVam0xc3kwN3FoRzUyV1RCY2VDc2RKWUU3Z2ZPdEVEY3JtdGVIYWZCaks0cHdkcF84c1ZiVF9adWU1OS10TmlQQ0R4WkFrbXBiRkljdW5YMnE3ZVFFIiwiaWQiOiJmY192NHE1YXFYNk9QcThwdFFQcVpDYXdRMF82In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFY3dYMXB4ZEdNeE56Y3RSVXRxYUdVd1ZteG5SMkZTY205eFNtaG9kVWhRTFZCcGVXNU5SMWN3UzBReFpVbzNiWGx6TWxoa2RYWkVla0YyYW1veVdGbzBiMnhqU0ZBdFp6VTFWa3RCYTFOeVptVjJNVVIxUkVFMlVSSVhkalJ4TldGeFdEWlBVSEU0Y0hSUlVIRmFRMkYzVVRBYUlrRkVjM0k1WmxGSE9WRm9XVWRCZW1GQ1pEWnRVMUZ3WVZWYWRHMDNjMk10TW1jIiwiZmN2IjoiMyIsImVpIjoidjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTAiLCJxYyI6IkNqRjNhR0YwSUdwaGRtRWdaR1YyWld4dmNHVnlJR3B2WW5NZ1lYSmxJR0YyWVdsc1lXSnNaU0JwYmlCamFHVnVibUZwRUFCOWhabzdQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHJlYWxpc3RpYyBjYXJlZXIgcGF0aD8iLCJsayI6IkdoOTNhR0YwSUdseklHRWdjbVZoYkdsemRHbGpJR05oY21WbGNpQndZWFJvIiwiYnMiOiJjNDNPTVEtQ1FBeUc0YmgyY21ieFF3ZDE1UTh3T2VCdW5Dc1c3Z2poeUxVNV9yNEVUZHpRdVVfZXIzUWhWSW9ySjhaVGt2UmhsQWhHRzhJVE5VZVJXQlo1dHZPS2JzWFFuTGs3TnN5T0VZVjdyLWJyenhVam0xc3kwN3FoRzUyV1RCY2VDc2RKWUU3Z2ZPdEVEY3JtdGVIYWZCaks0cHdkcF84c1ZiVF9adWU1OS10TmlQQ0R4WkFrbXBiRkljdW5YMnE3ZVFFIiwiaWQiOiJmY192NHE1YXFYNk9QcThwdFFQcVpDYXdRMF82In0=",
+    "page_token": "iX7UA3icHdBNboJAGADQ9DIuZQbUqolpCgUMtZD5-0Zm08BQURmEVCrgrnfpqXqaJn1HeN8_5nSpfh_2x65rr2vL6vt-WjZNaT6muqmt7DpetKUzY_JMV-vF4wI_HfTGv_au1_QuEW0LLxQx0QXUpB1DA3BRjFKAERJY5vg2MXDhQu0SucQpj6XaxgNxaJOFwZzyiLzxwuEmcPKK3OOw81hI28KPRIq6W1YTRNFKQGi-wG4wtRUm2LdFFQUMFM7rEsm64LRWr_kZgh1_noOMAoXwPq17pG1k07DdERSkqaMYE2KW-MuxkDMWOCnSHI4aSptjd0i2LhLgDrKKjwX2-_AUuXQbj4lUQp3BSwW0Sq482FNHhs09r8kdoO1piCsmYzo56NvGmfyPbd4PdbduP5vyD8iWdfs",
+    "question": "What is a realistic career path?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iX7UA3icHdBNboJAGADQ9DIuZQbUqolpCgUMtZD5-0Zm08BQURmEVCrgrnfpqXqaJn1HeN8_5nSpfh_2x65rr2vL6vt-WjZNaT6muqmt7DpetKUzY_JMV-vF4wI_HfTGv_au1_QuEW0LLxQx0QXUpB1DA3BRjFKAERJY5vg2MXDhQu0SucQpj6XaxgNxaJOFwZzyiLzxwuEmcPKK3OOw81hI28KPRIq6W1YTRNFKQGi-wG4wtRUm2LdFFQUMFM7rEsm64LRWr_kZgh1_noOMAoXwPq17pG1k07DdERSkqaMYE2KW-MuxkDMWOCnSHI4aSptjd0i2LhLgDrKKjwX2-_AUuXQbj4lUQp3BSwW0Sq482FNHhs09r8kdoO1piCsmYzo56NvGmfyPbd4PdbduP5vyD8iWdfs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFY3dYMXB4ZEdNeE56Y3RSVXRxYUdVd1ZteG5SMkZTY205eFNtaG9kVWhRTFZCcGVXNU5SMWN3UzBReFpVbzNiWGx6TWxoa2RYWkVla0YyYW1veVdGbzBiMnhqU0ZBdFp6VTFWa3RCYTFOeVptVjJNVVIxUkVFMlVSSVhkalJ4TldGeFdEWlBVSEU0Y0hSUlVIRmFRMkYzVVRBYUlrRkVjM0k1WmxGSE9WRm9XVWRCZW1GQ1pEWnRVMUZ3WVZWYWRHMDNjMk10TW1jIiwiZmN2IjoiMyIsImVpIjoidjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTAiLCJxYyI6IkNqRjNhR0YwSUdwaGRtRWdaR1YyWld4dmNHVnlJR3B2WW5NZ1lYSmxJR0YyWVdsc1lXSnNaU0JwYmlCamFHVnVibUZwRUFCOWhabzdQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHJlYWxpc3RpYyBjYXJlZXIgcGF0aD8iLCJsayI6IkdoOTNhR0YwSUdseklHRWdjbVZoYkdsemRHbGpJR05oY21WbGNpQndZWFJvIiwiYnMiOiJjNDNPTVEtQ1FBeUc0YmgyY21ieFF3ZDE1UTh3T2VCdW5Dc1c3Z2poeUxVNV9yNEVUZHpRdVVfZXIzUWhWSW9ySjhaVGt2UmhsQWhHRzhJVE5VZVJXQlo1dHZPS2JzWFFuTGs3TnN5T0VZVjdyLWJyenhVam0xc3kwN3FoRzUyV1RCY2VDc2RKWUU3Z2ZPdEVEY3JtdGVIYWZCaks0cHdkcF84c1ZiVF9adWU1OS10TmlQQ0R4WkFrbXBiRkljdW5YMnE3ZVFFIiwiaWQiOiJmY192NHE1YXFYNk9QcThwdFFQcVpDYXdRMF82In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFY3dYMXB4ZEdNeE56Y3RSVXRxYUdVd1ZteG5SMkZTY205eFNtaG9kVWhRTFZCcGVXNU5SMWN3UzBReFpVbzNiWGx6TWxoa2RYWkVla0YyYW1veVdGbzBiMnhqU0ZBdFp6VTFWa3RCYTFOeVptVjJNVVIxUkVFMlVSSVhkalJ4TldGeFdEWlBVSEU0Y0hSUlVIRmFRMkYzVVRBYUlrRkVjM0k1WmxGSE9WRm9XVWRCZW1GQ1pEWnRVMUZ3WVZWYWRHMDNjMk10TW1jIiwiZmN2IjoiMyIsImVpIjoidjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTAiLCJxYyI6IkNqRjNhR0YwSUdwaGRtRWdaR1YyWld4dmNHVnlJR3B2WW5NZ1lYSmxJR0YyWVdsc1lXSnNaU0JwYmlCamFHVnVibUZwRUFCOWhabzdQdyIsInF1ZXN0aW9uIjoiV2hhdCBqb2JzIGhhdmUgdGhlIGhpZ2hlc3Qgc2F0aXNmYWN0aW9uPyIsImxrIjoiR2lkM2FHRjBJR3B2WW5NZ2FHRjJaU0IwYUdVZ2FHbG5hR1Z6ZENCellYUnBjMlpoWTNScGIyNCIsImJzIjoiYzQzT01RLUNRQXlHNGJoMmNtYnhRd2QxNVE4d09lQnVuQ3NXN2dqaHlMVTVfcjRFVGR6UXVVX2VyM1FoVklvcko4WlRrdlJobEFoR0c4SVROVWVSV0JaNXR2T0tic1hRbkxrN05zeU9FWVY3ci1icnp4VWptMXN5MDdxaEc1MldUQmNlQ3NkSllFN2dmT3RFRGNybXRlSGFmQmpLNHB3ZHBfOHNWYlRfWnVlNTktdE5pUENEeFpBa21wYkZJY3VuWDJxN2VRRSIsImlkIjoiZmNfdjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTBfNiJ9",
+    "page_token": "3fSNHnicHdBdboIwAADg7DI-zoLRRROzBKFUInUttLa8LNiKSPmpzkngbXfZqXaaLbvA9_B9fdeX1vw8Pcr73X6sptO-75_PXXeuT8-qa6b5x9Cqqcrr-pgrs1q8LJzXQq2Dz623uW49wqzlPgUJpwRXuNWunPO2LrSIfOHQvWzgZ8ptkAEzj9nSOyI80CYeWAjHJKwvxImuGmmPgzM4CIoky246sJbBDKaus2OjrjJfhychx9zwQALVx6m-7XjkJyaqcMhZLkrJuEaqKpEE_Sydbd0kjPwDs2_aRFiOUZ4InaYIFieWRWz0JAuWAM_wZu-r4YC8Rwy18-fGzMT3Y4u9oNQuRoEjBZTYLIlKy15DSBS3vhSaxl53IYyOqqob5pIhRdbHwPT4UIY7hlscWk4hpAlYPsRYhoRMCvVYzyb_n-v3ormv7K07_wKzWIJl",
+    "question": "What jobs have the highest satisfaction?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3fSNHnicHdBdboIwAADg7DI-zoLRRROzBKFUInUttLa8LNiKSPmpzkngbXfZqXaaLbvA9_B9fdeX1vw8Pcr73X6sptO-75_PXXeuT8-qa6b5x9Cqqcrr-pgrs1q8LJzXQq2Dz623uW49wqzlPgUJpwRXuNWunPO2LrSIfOHQvWzgZ8ptkAEzj9nSOyI80CYeWAjHJKwvxImuGmmPgzM4CIoky246sJbBDKaus2OjrjJfhychx9zwQALVx6m-7XjkJyaqcMhZLkrJuEaqKpEE_Sydbd0kjPwDs2_aRFiOUZ4InaYIFieWRWz0JAuWAM_wZu-r4YC8Rwy18-fGzMT3Y4u9oNQuRoEjBZTYLIlKy15DSBS3vhSaxl53IYyOqqob5pIhRdbHwPT4UIY7hlscWk4hpAlYPsRYhoRMCvVYzyb_n-v3ormv7K07_wKzWIJl",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFY3dYMXB4ZEdNeE56Y3RSVXRxYUdVd1ZteG5SMkZTY205eFNtaG9kVWhRTFZCcGVXNU5SMWN3UzBReFpVbzNiWGx6TWxoa2RYWkVla0YyYW1veVdGbzBiMnhqU0ZBdFp6VTFWa3RCYTFOeVptVjJNVVIxUkVFMlVSSVhkalJ4TldGeFdEWlBVSEU0Y0hSUlVIRmFRMkYzVVRBYUlrRkVjM0k1WmxGSE9WRm9XVWRCZW1GQ1pEWnRVMUZ3WVZWYWRHMDNjMk10TW1jIiwiZmN2IjoiMyIsImVpIjoidjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTAiLCJxYyI6IkNqRjNhR0YwSUdwaGRtRWdaR1YyWld4dmNHVnlJR3B2WW5NZ1lYSmxJR0YyWVdsc1lXSnNaU0JwYmlCamFHVnVibUZwRUFCOWhabzdQdyIsInF1ZXN0aW9uIjoiV2hhdCBqb2JzIGhhdmUgdGhlIGhpZ2hlc3Qgc2F0aXNmYWN0aW9uPyIsImxrIjoiR2lkM2FHRjBJR3B2WW5NZ2FHRjJaU0IwYUdVZ2FHbG5hR1Z6ZENCellYUnBjMlpoWTNScGIyNCIsImJzIjoiYzQzT01RLUNRQXlHNGJoMmNtYnhRd2QxNVE4d09lQnVuQ3NXN2dqaHlMVTVfcjRFVGR6UXVVX2VyM1FoVklvcko4WlRrdlJobEFoR0c4SVROVWVSV0JaNXR2T0tic1hRbkxrN05zeU9FWVY3ci1icnp4VWptMXN5MDdxaEc1MldUQmNlQ3NkSllFN2dmT3RFRGNybXRlSGFmQmpLNHB3ZHBfOHNWYlRfWnVlNTktdE5pUENEeFpBa21wYkZJY3VuWDJxN2VRRSIsImlkIjoiZmNfdjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTBfNiJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFY3dYMXB4ZEdNeE56Y3RSVXRxYUdVd1ZteG5SMkZTY205eFNtaG9kVWhRTFZCcGVXNU5SMWN3UzBReFpVbzNiWGx6TWxoa2RYWkVla0YyYW1veVdGbzBiMnhqU0ZBdFp6VTFWa3RCYTFOeVptVjJNVVIxUkVFMlVSSVhkalJ4TldGeFdEWlBVSEU0Y0hSUlVIRmFRMkYzVVRBYUlrRkVjM0k1WmxGSE9WRm9XVWRCZW1GQ1pEWnRVMUZ3WVZWYWRHMDNjMk10TW1jIiwiZmN2IjoiMyIsImVpIjoidjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTAiLCJxYyI6IkNqRjNhR0YwSUdwaGRtRWdaR1YyWld4dmNHVnlJR3B2WW5NZ1lYSmxJR0YyWVdsc1lXSnNaU0JwYmlCamFHVnVibUZwRUFCOWhabzdQdyIsInF1ZXN0aW9uIjoiV2hhdCBqb2JzIGFyZSBnb29kIGZvciBpbnRyb3ZlcnRzPyIsImxrIjoiR2lGM2FHRjBJR3B2WW5NZ1lYSmxJR2R2YjJRZ1ptOXlJR2x1ZEhKdmRtVnlkSE0iLCJicyI6ImM0M09NUS1DUUF5RzRiaDJjbWJ4UXdkMTVROHdPZUJ1bkNzVzdnamh5TFU1X3I0RVRkelF1VV9lcjNRaFZJb3JKOFpUa3ZSaGxBaEdHOElUTlVlUldCWjV0dk9LYnNYUW5MazdOc3lPRVlWN3ItYnJ6eFVqbTFzeTA3cWhHNTJXVEJjZUNzZEpZRTdnZk90RURjcm10ZUhhZkJqSzRwd2RwXzhzVmJUX1p1ZTU5LXROaVBDRHhaQWttcGJGSWN1blgycTdlUUUiLCJpZCI6ImZjX3Y0cTVhcVg2T1BxOHB0UVBxWkNhd1EwXzYifQ==",
+    "page_token": "DAjAe3icHdBdboIwAADg7DI-Kj_qpolZAhRwixhKW6AvC7RVpAWq4lDedpedaqfZsgt8D9_Xtzq18ufps-p7fV3PZsMwTI9dd1RiyrpmVlwfLZuxQqmyYHK9fF6arwe2Abet4563Toy1Jh40EtxfUk9h1CoXu2ZWpt2c2SQszHyIWrXjhAaFRUA0Rg9Y74zEdDRsqRaKhFTeG6yoTHy_Kohc4Mzx0poYZcgraNOcpf2ZBnJIaohoo3wedpYInUVirgBSLz1EBO4D2pbyOhe180ANT4UkBq7poSBRIDJIoa1VKXtEA2Vxk9vIeruXiJxEDeY8WLwzWaVkjFxBdBab3AEVt6IQmHnm55FcxQxVA_f9mBHt5RmHO6c7xRiOrFYNrsEDjvkoSAUKwLt9YBhxFrV_5i1O6WUX-IoPkwP73NiT_8_Nx6Hp1_rSHX8BSGyFMQ",
+    "question": "What jobs are good for introverts?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DAjAe3icHdBdboIwAADg7DI-Kj_qpolZAhRwixhKW6AvC7RVpAWq4lDedpedaqfZsgt8D9_Xtzq18ufps-p7fV3PZsMwTI9dd1RiyrpmVlwfLZuxQqmyYHK9fF6arwe2Abet4563Toy1Jh40EtxfUk9h1CoXu2ZWpt2c2SQszHyIWrXjhAaFRUA0Rg9Y74zEdDRsqRaKhFTeG6yoTHy_Kohc4Mzx0poYZcgraNOcpf2ZBnJIaohoo3wedpYInUVirgBSLz1EBO4D2pbyOhe180ANT4UkBq7poSBRIDJIoa1VKXtEA2Vxk9vIeruXiJxEDeY8WLwzWaVkjFxBdBab3AEVt6IQmHnm55FcxQxVA_f9mBHt5RmHO6c7xRiOrFYNrsEDjvkoSAUKwLt9YBhxFrV_5i1O6WUX-IoPkwP73NiT_8_Nx6Hp1_rSHX8BSGyFMQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFY3dYMXB4ZEdNeE56Y3RSVXRxYUdVd1ZteG5SMkZTY205eFNtaG9kVWhRTFZCcGVXNU5SMWN3UzBReFpVbzNiWGx6TWxoa2RYWkVla0YyYW1veVdGbzBiMnhqU0ZBdFp6VTFWa3RCYTFOeVptVjJNVVIxUkVFMlVSSVhkalJ4TldGeFdEWlBVSEU0Y0hSUlVIRmFRMkYzVVRBYUlrRkVjM0k1WmxGSE9WRm9XVWRCZW1GQ1pEWnRVMUZ3WVZWYWRHMDNjMk10TW1jIiwiZmN2IjoiMyIsImVpIjoidjRxNWFxWDZPUHE4cHRRUHFaQ2F3UTAiLCJxYyI6IkNqRjNhR0YwSUdwaGRtRWdaR1YyWld4dmNHVnlJR3B2WW5NZ1lYSmxJR0YyWVdsc1lXSnNaU0JwYmlCamFHVnVibUZwRUFCOWhabzdQdyIsInF1ZXN0aW9uIjoiV2hhdCBqb2JzIGFyZSBnb29kIGZvciBpbnRyb3ZlcnRzPyIsImxrIjoiR2lGM2FHRjBJR3B2WW5NZ1lYSmxJR2R2YjJRZ1ptOXlJR2x1ZEhKdmRtVnlkSE0iLCJicyI6ImM0M09NUS1DUUF5RzRiaDJjbWJ4UXdkMTVROHdPZUJ1bkNzVzdnamh5TFU1X3I0RVRkelF1VV9lcjNRaFZJb3JKOFpUa3ZSaGxBaEdHOElUTlVlUldCWjV0dk9LYnNYUW5MazdOc3lPRVlWN3ItYnJ6eFVqbTFzeTA3cWhHNTJXVEJjZUNzZEpZRTdnZk90RURjcm10ZUhhZkJqSzRwd2RwXzhzVmJUX1p1ZTU5LXROaVBDRHhaQWttcGJGSWN1blgycTdlUUUiLCJpZCI6ImZjX3Y0cTVhcVg2T1BxOHB0UVBxWkNhd1EwXzYifQ%3D%3D",
+    "type": "ai_overview"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+java+developer+jobs+are+available+in+chennai+reddit&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ1QJ6BAhMEAE",
+    "query": "What java developer jobs are available in chennai reddit",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+java+developer+jobs+are+available+in+chennai+reddit"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=What+java+developer+jobs+are+available+in+chennai+salary&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ1QJ6BAhUEAE",
+    "query": "What java developer jobs are available in chennai salary",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+java+developer+jobs+are+available+in+chennai+salary"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=Best+job+sites+USA&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ1QJ6BAhREAE",
+    "query": "Best job sites USA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+job+sites+USA"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=Government+jobs+login&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ1QJ6BAhSEAE",
+    "query": "Government jobs login",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Government+jobs+login"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=List+of+government+jobs+and+salaries&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ1QJ6BAhTEAE",
+    "query": "List of government jobs and salaries",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=List+of+government+jobs+and+salaries"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=Free+job+search+sites&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ1QJ6BAhQEAE",
+    "query": "Free job search sites",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+job+search+sites"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=Reddit+jobs+remote&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ1QJ6BAhNEAE",
+    "query": "Reddit jobs remote",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Reddit+jobs+remote"
+   },
+   {
+    "block_position": 1,
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnt9F6cImyrP7oRSAutgmwvd-1-C2w:1790544575944&q=List+of+job+sites&sa=X&ved=2ahUKEwjl1Zyr2o-XAxV6nokEHSmIJtgQ1QJ6BAhOEAE",
+    "query": "List of job sites",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=List+of+job+sites"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "What Java developer jobs are available in Chennai?",
-   "time_taken_displayed": 0.4,
-   "total_results": 10
+   "time_taken_displayed": 0.57,
+   "total_results": 2140000000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:47:30 UTC",
+   "created_at": "2026-09-27 21:29:35 UTC",
    "google_url": "https://www.google.com/search?q=What+Java+developer+jobs+are+available+in+Chennai%3F&oq=What+Java+developer+jobs+are+available+in+Chennai%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc7d2cf887051cdd42abc",
-   "json_endpoint": "https://serpapi.com/searches/CcNVT7_3oXm_COaePRdrtnV7XPC-V_zh79fgQfei41Q/6aafc7d2cf887051cdd42abc.json",
-   "markdown_endpoint": "https://serpapi.com/searches/CcNVT7_3oXm_COaePRdrtnV7XPC-V_zh79fgQfei41Q/6aafc7d2cf887051cdd42abc.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/CcNVT7_3oXm_COaePRdrtnV7XPC-V_zh79fgQfei41Q/6aafc7d2cf887051cdd42abc.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:47:30 UTC",
-   "raw_html_file": "https://serpapi.com/searches/CcNVT7_3oXm_COaePRdrtnV7XPC-V_zh79fgQfei41Q/6aafc7d2cf887051cdd42abc.html",
+   "id": "6ab98abfbd1c2043497a54f6",
+   "json_endpoint": "https://serpapi.com/searches/QvssvF0AFCszOGK6rQmFPqlkTLNyxehNa4CFV84DylY/6ab98abfbd1c2043497a54f6.json",
+   "markdown_endpoint": "https://serpapi.com/searches/QvssvF0AFCszOGK6rQmFPqlkTLNyxehNa4CFV84DylY/6ab98abfbd1c2043497a54f6.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/QvssvF0AFCszOGK6rQmFPqlkTLNyxehNa4CFV84DylY/6ab98abfbd1c2043497a54f6.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:29:35 UTC",
+   "raw_html_file": "https://serpapi.com/searches/QvssvF0AFCszOGK6rQmFPqlkTLNyxehNa4CFV84DylY/6ab98abfbd1c2043497a54f6.html",
    "status": "Success",
-   "total_time_taken": 0.55
+   "total_time_taken": 0.79
   },
   "search_parameters": {
    "device": "desktop",
    "engine": "google",
    "google_domain": "google.com",
    "q": "What Java developer jobs are available in Chennai?"
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F&start=10",
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+Java+developer+jobs+are+available+in+Chennai%3F&start=10"
+   }
   }
  },
  "searches_charged": 1

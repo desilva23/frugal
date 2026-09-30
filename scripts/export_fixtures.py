@@ -47,7 +47,20 @@ def trim(payload: Any, depth: int = 0, *, whole: bool = False) -> Any:
     return payload
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
+    """Export one cache as one fixture set.
+
+    Takes an optional source and destination, because the repository carries two
+    recordings: the benchmark is reported from both, and a reader should be able
+    to replay either.
+    """
+    args = list(sys.argv[1:] if argv is None else argv)
+    source = Path(args[0]).resolve() if args else SOURCE
+    destination = Path(args[1]).resolve() if len(args) > 1 else DESTINATION
+    return export(source, destination)
+
+
+def export(SOURCE: Path, DESTINATION: Path) -> int:
     if not SOURCE.is_dir():
         print(f"no cache at {SOURCE}; run the benchmark first", file=sys.stderr)
         return 1

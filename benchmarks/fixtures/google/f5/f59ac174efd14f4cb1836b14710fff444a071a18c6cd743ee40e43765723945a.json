@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1327.499,
+ "elapsed_ms": 889.552,
  "engine": "google",
- "fetched_at": "2026-09-20T11:44:34.898385+00:00",
+ "fetched_at": "2026-09-27T21:29:32.430314+00:00",
  "frugal_cache_version": 1,
  "key": "f59ac174efd14f4cb1836b14710fff444a071a18c6cd743ee40e43765723945a",
  "params": {
@@ -10,689 +10,373 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "cVmZZniczZXNcuI4EIAfYJ9juZDBBhx-UuVKSbIBkxCQIcPAhfKPkB2wDRbgkNuc9kX2qfZpVjY_NgyQmTlsrapsyVJ3q1vqz_3977nrz_754y9ntVqwB0GIoqhAg4DOScEKPMFgW98SpsGchZbzuN3I5ZzFZDFHXFljZGOE5Tp8enLEntq77y6XIlZziYo8MQ1G3rjF9zcmTAT-mv1ZVvhHgRWMsDAE5bDWczesiwslsVgvdAXD4wLgv2uaA1Dc94F6XYgvaT9lDWOAtKwlCJMOpTNRIgdUmqzAeHx5T7Szwx0EyfY9x793GFcJDiKtq37ArLtwtHdulOwHKAa3gr1gbRcDBeexXGhXosEnJkAzs3TDHj3xkwtSBFsiwPS4nm0IZ7dXYwW4k-hiQJQacCi9cY1codEBVh9o6LPLDpBWg4etGoznqybYlCeuKJgh74qCazlWMghZnM9oUBeDVl8ZNQbF99I2aIOu-W533nVp8iGZYoAFy-Ry88CwiT1xJuJj8l0sFe_Ferlau0tAstiRJJYlqSMOW_UVqtAXq6AXYPGAETqm7dkZ89wCF4OEaC964VJQmjXx6l6dPmVEtKO2iuO3cmLnlcS30UknlBIAUlYivW0ELmG0G6fDGKOdIxw8FRyuPyPBZ9sZO5mYYfRjiPD0UwMKPGSUBum54Gmqa1Ttg_TgzkxxWddR44yNGfhqJT5Z5xkMNO1MO_4_8EtR9zH0D0HtWjONh2_QSM4cOpBbpa-vMTxNRzsq6OD4LzrjgJ67kdoEDecT4K-24HMRjs2el7P0P8Fm_FWbrSvK0NeahlauF1dbBXRnvfuPdnQZk8Azf6HiWP8rkHb1SNvXo-sgaT8FEsboej3aDdN6FDsCMcZXQELtK_VIOoik9egcJPicAcm5XY9-FSR0E6QDpBdBQrP9ahYkdB0k-gNIbvu0HmXdSOvREaTfqkfB79WjhCuy606L0_qNXi1SzVWoNKHmLcd1AkbhZtAYQGMsjaASRZ8Wqam3evAMe343ce0HWGqvtvbdhE8ED8TOLeWhw3fMczwXhu8SljdCknfc0PVpXieGtcrbZEPmwYKELO_6-c7aMw33MefNw0AWjSoIS7i-dSQy_NapVf3NVm2PG8YEKmtrbsye183Vy3tkvLb7elCpldSG1Z3Nq53N2CG6pz6Xpnqjv_5WXvjEab8tWlKoKGazY7RMqzMw1ZL94fel7hddx9tRRPTJQLpnLz0Eau2Rr75OR8uPhSv1ejpI_GHycjh26Je1HWAt54WWzLNBouAFgyHl-YhGPJEofwL-RPypAKzCHLOMCWEbuSJV-KnZ9alplypSleQ8utouZKmYY34oF_8FruhA8w",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cVmZZniczZXNcuI4EIAfYJ9juZDBBhx-UuVKSbIBkxCQIcPAhfKPkB2wDRbgkNuc9kX2qfZpVjY_NgyQmTlsrapsyVJ3q1vqz_3977nrz_754y9ntVqwB0GIoqhAg4DOScEKPMFgW98SpsGchZbzuN3I5ZzFZDFHXFljZGOE5Tp8enLEntq77y6XIlZziYo8MQ1G3rjF9zcmTAT-mv1ZVvhHgRWMsDAE5bDWczesiwslsVgvdAXD4wLgv2uaA1Dc94F6XYgvaT9lDWOAtKwlCJMOpTNRIgdUmqzAeHx5T7Szwx0EyfY9x793GFcJDiKtq37ArLtwtHdulOwHKAa3gr1gbRcDBeexXGhXosEnJkAzs3TDHj3xkwtSBFsiwPS4nm0IZ7dXYwW4k-hiQJQacCi9cY1codEBVh9o6LPLDpBWg4etGoznqybYlCeuKJgh74qCazlWMghZnM9oUBeDVl8ZNQbF99I2aIOu-W533nVp8iGZYoAFy-Ry88CwiT1xJuJj8l0sFe_Ferlau0tAstiRJJYlqSMOW_UVqtAXq6AXYPGAETqm7dkZ89wCF4OEaC964VJQmjXx6l6dPmVEtKO2iuO3cmLnlcS30UknlBIAUlYivW0ELmG0G6fDGKOdIxw8FRyuPyPBZ9sZO5mYYfRjiPD0UwMKPGSUBum54Gmqa1Ttg_TgzkxxWddR44yNGfhqJT5Z5xkMNO1MO_4_8EtR9zH0D0HtWjONh2_QSM4cOpBbpa-vMTxNRzsq6OD4LzrjgJ67kdoEDecT4K-24HMRjs2el7P0P8Fm_FWbrSvK0NeahlauF1dbBXRnvfuPdnQZk8Azf6HiWP8rkHb1SNvXo-sgaT8FEsboej3aDdN6FDsCMcZXQELtK_VIOoik9egcJPicAcm5XY9-FSR0E6QDpBdBQrP9ahYkdB0k-gNIbvu0HmXdSOvREaTfqkfB79WjhCuy606L0_qNXi1SzVWoNKHmLcd1AkbhZtAYQGMsjaASRZ8Wqam3evAMe343ce0HWGqvtvbdhE8ED8TOLeWhw3fMczwXhu8SljdCknfc0PVpXieGtcrbZEPmwYKELO_6-c7aMw33MefNw0AWjSoIS7i-dSQy_NapVf3NVm2PG8YEKmtrbsye183Vy3tkvLb7elCpldSG1Z3Nq53N2CG6pz6Xpnqjv_5WXvjEab8tWlKoKGazY7RMqzMw1ZL94fel7hddx9tRRPTJQLpnLz0Eau2Rr75OR8uPhSv1ejpI_GHycjh26Je1HWAt54WWzLNBouAFgyHl-YhGPJEofwL-RPypAKzCHLOMCWEbuSJV-KnZ9alplypSleQ8utouZKmYY34oF_8FruhA8w"
+   "page_token": "8SP733iczZVfd6I4FMA_wH6O9cVWwH_FnsPpSWLWgjpV1Fp84WDEQBVBQmWct_ki87Sfaj_NBlCLrbQz87BnL-dwSbi5ubnJL_f732t3s_rnjx9OFAXsVhDiOK5Q36dru0J8T7DYfkOEpb9mIXHu9julViJMEUu2q7zUtw2LDWhP9mDjoT9wSFWLh_1SOkQx5xazn7nHr89MMAX-Wv1Za_NGhVXsTeWvDsWY7Ko37UmlKlZrlQfB8rgB-A9liIEKINeZKhIEAP7cWWIyBCjxdRSKXn9l0s78JXPStKNbOKWajIL8UblbLgPZkGORd_lHI60wFqjmG8Yhmjj1C2Ea6E_LydVh3g8SVZQmfOaAR3JmWJhb9OYw8Fzp1wDjxMH7UFSA86sGOgDZwtsrcE9loBIV0Q9iTwaQPdQQOPkvki1wBscUxl8Mbi4sKD-7ojAPuZIElzgk_QhZcqTRuCX6HfzwrbsPIjZ6xN0QtTRK1_4gaFTDXSyQObdb-9bCXpiOKd6lbakqNcRW7Ua-Slki7AQTy8OEo5eO6o4J3sqVXgVKR5LQae_QefiYt5EK3gtEB1N04SfNYZAb7KJ8tiYHzU-3qAI1bwgoVgeJ7hw7HgDkO0ycfGhHW5BRmZ_8nVFGEk13lZsmWn0dfjLBuTDOzj2MLy3zTbsNj4NUmP2LD37foQCBtsr3nrvnUejDbE8CEMNJavZwlku-4lXO26EP82zCQ-t16dmXm6fH5fE5ybR0xOPThrSb8p7Ej9IAkiOeSld9s8M6uCR8dyhftP4Tt98F8T83Scg5IPOGgDw5mBrWqDm_Ifdt-rRl1Z2k9ePeuBYMpsPLpPje_BfqDvl_sXSsSpNDVSpmCX_OUnJZflSV0tepKtFRxlK3mKXkkr1UlepHo1xVesMS7OVYctLLOS6qSr_KEvyAJfwhS_5lllZFLKVV6Zyl86p0xtKpKr2y9DtVKfjNqpSiZWfqvES9PNPCUoUfm8jwJpYROvtxV-zPnrsjM9B8I5yBT0vV0otuPWuxvjLdxS2satF-cWXyDv_WXpS2ytThM5Y5oYG1cW1WtkK77Lihu6Fl3bZIVF7YO3vtB3bIyu6m3H_x5pZ7V_LWoa-IVtMN-9O9MVk8XdvT-boVN5YTw4cimlrRFj1pbXU68tCMNq_Vgbztmvf3Zq_xuH2Ub8gyMvylHamzJ9kcLkUjrs-jGIP-txlY6aoptZu0q2vScqzX_Xtr9VyzavqA7B_ZTJyhlaTrnX5o1INOY9q3tx39pUfsNCqmtFd9YLdM03SMEl8osxWp5IVE4XtWp-DLEEwpIAAZYMi3emL5XMdg2Gly0mGJEcu02U4hUrMq80uubsnNqrRYljwa7QOlLpXYJlSkfwHBr0ri",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8SP733iczZVfd6I4FMA_wH6O9cVWwH_FnsPpSWLWgjpV1Fp84WDEQBVBQmWct_ki87Sfaj_NBlCLrbQz87BnL-dwSbi5ubnJL_f732t3s_rnjx9OFAXsVhDiOK5Q36dru0J8T7DYfkOEpb9mIXHu9julViJMEUu2q7zUtw2LDWhP9mDjoT9wSFWLh_1SOkQx5xazn7nHr89MMAX-Wv1Za_NGhVXsTeWvDsWY7Ko37UmlKlZrlQfB8rgB-A9liIEKINeZKhIEAP7cWWIyBCjxdRSKXn9l0s78JXPStKNbOKWajIL8UblbLgPZkGORd_lHI60wFqjmG8Yhmjj1C2Ea6E_LydVh3g8SVZQmfOaAR3JmWJhb9OYw8Fzp1wDjxMH7UFSA86sGOgDZwtsrcE9loBIV0Q9iTwaQPdQQOPkvki1wBscUxl8Mbi4sKD-7ojAPuZIElzgk_QhZcqTRuCX6HfzwrbsPIjZ6xN0QtTRK1_4gaFTDXSyQObdb-9bCXpiOKd6lbakqNcRW7Ua-Slki7AQTy8OEo5eO6o4J3sqVXgVKR5LQae_QefiYt5EK3gtEB1N04SfNYZAb7KJ8tiYHzU-3qAI1bwgoVgeJ7hw7HgDkO0ycfGhHW5BRmZ_8nVFGEk13lZsmWn0dfjLBuTDOzj2MLy3zTbsNj4NUmP2LD37foQCBtsr3nrvnUejDbE8CEMNJavZwlku-4lXO26EP82zCQ-t16dmXm6fH5fE5ybR0xOPThrSb8p7Ej9IAkiOeSld9s8M6uCR8dyhftP4Tt98F8T83Scg5IPOGgDw5mBrWqDm_Ifdt-rRl1Z2k9ePeuBYMpsPLpPje_BfqDvl_sXSsSpNDVSpmCX_OUnJZflSV0tepKtFRxlK3mKXkkr1UlepHo1xVesMS7OVYctLLOS6qSr_KEvyAJfwhS_5lllZFLKVV6Zyl86p0xtKpKr2y9DtVKfjNqpSiZWfqvES9PNPCUoUfm8jwJpYROvtxV-zPnrsjM9B8I5yBT0vV0otuPWuxvjLdxS2satF-cWXyDv_WXpS2ytThM5Y5oYG1cW1WtkK77Lihu6Fl3bZIVF7YO3vtB3bIyu6m3H_x5pZ7V_LWoa-IVtMN-9O9MVk8XdvT-boVN5YTw4cimlrRFj1pbXU68tCMNq_Vgbztmvf3Zq_xuH2Ub8gyMvylHamzJ9kcLkUjrs-jGIP-txlY6aoptZu0q2vScqzX_Xtr9VyzavqA7B_ZTJyhlaTrnX5o1INOY9q3tx39pUfsNCqmtFd9YLdM03SMEl8osxWp5IVE4XtWp-DLEEwpIAAZYMi3emL5XMdg2Gly0mGJEcu02U4hUrMq80uubsnNqrRYljwa7QOlLpXYJlSkfwHBr0ri"
   },
-  "filters": [
-   {
-    "name": "نوع الوظيفة",
-    "options": [
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D9%83%D8%A7%D9%85%D9%84&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIBAC",
-      "name": "دوام كامل",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? دوام كامل",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D9%83%D8%A7%D9%85%D9%84&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D8%AC%D8%B2%D8%A6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIBAD",
-      "name": "دوام جزئي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? دوام جزئي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D8%AC%D8%B2%D8%A6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%A7%D9%84%D8%B9%D9%82%D8%AF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIBAE",
-      "name": "العقد",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? العقد",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%A7%D9%84%D8%B9%D9%82%D8%AF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D8%AA%D8%B1%D8%A9+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIBAF",
-      "name": "فترة تدريب",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? فترة تدريب",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D8%AA%D8%B1%D8%A9+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A"
-     }
-    ]
-   },
-   {
-    "name": "نوع الوظيفة",
-    "options": [
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D9%83%D8%A7%D9%85%D9%84&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIBAC",
-      "name": "دوام كامل",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? دوام كامل",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D9%83%D8%A7%D9%85%D9%84&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D8%AC%D8%B2%D8%A6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIBAD",
-      "name": "دوام جزئي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? دوام جزئي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D8%AC%D8%B2%D8%A6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%A7%D9%84%D8%B9%D9%82%D8%AF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIBAE",
-      "name": "العقد",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? العقد",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%A7%D9%84%D8%B9%D9%82%D8%AF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D8%AA%D8%B1%D8%A9+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIBAF",
-      "name": "فترة تدريب",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? فترة تدريب",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D8%AA%D8%B1%D8%A9+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A"
-     }
-    ]
-   },
-   {
-    "name": "تاريخ النشر",
-    "options": [
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%85%D9%86%D8%B0+%D8%A7%D9%84%D8%A3%D9%85%D8%B3&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIRAC",
-      "name": "أمس",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? منذ الأمس",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%85%D9%86%D8%B0+%D8%A7%D9%84%D8%A3%D9%85%D8%B3&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D9%8A+%D8%A2%D8%AE%D8%B1+3+%D8%A3%D9%8A%D8%A7%D9%85&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIRAD",
-      "name": "آخر 3 أيام",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? في آخر 3 أيام",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D9%8A+%D8%A2%D8%AE%D8%B1+3+%D8%A3%D9%8A%D8%A7%D9%85&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIRAE",
-      "name": "الأسبوع الماضي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? خلال الأسبوع الماضي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIRAF",
-      "name": "الشهر الماضي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? خلال الشهر الماضي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg"
-     }
-    ]
-   },
-   {
-    "name": "تاريخ النشر",
-    "options": [
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%85%D9%86%D8%B0+%D8%A7%D9%84%D8%A3%D9%85%D8%B3&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIRAC",
-      "name": "أمس",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? منذ الأمس",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%85%D9%86%D8%B0+%D8%A7%D9%84%D8%A3%D9%85%D8%B3&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D9%8A+%D8%A2%D8%AE%D8%B1+3+%D8%A3%D9%8A%D8%A7%D9%85&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIRAD",
-      "name": "آخر 3 أيام",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? في آخر 3 أيام",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D9%8A+%D8%A2%D8%AE%D8%B1+3+%D8%A3%D9%8A%D8%A7%D9%85&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIRAE",
-      "name": "الأسبوع الماضي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? خلال الأسبوع الماضي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIRAF",
-      "name": "الشهر الماضي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? خلال الشهر الماضي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg"
-     }
-    ]
-   },
-   {
-    "name": "نوع الوظيفة",
-    "options": [
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D9%83%D8%A7%D9%85%D9%84&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIhAC",
-      "name": "دوام كامل",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? دوام كامل",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D9%83%D8%A7%D9%85%D9%84&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D8%AC%D8%B2%D8%A6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIhAD",
-      "name": "دوام جزئي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? دوام جزئي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D8%AC%D8%B2%D8%A6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%A7%D9%84%D8%B9%D9%82%D8%AF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIhAE",
-      "name": "العقد",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? العقد",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%A7%D9%84%D8%B9%D9%82%D8%AF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D8%AA%D8%B1%D8%A9+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIhAF",
-      "name": "فترة تدريب",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? فترة تدريب",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D8%AA%D8%B1%D8%A9+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A"
-     }
-    ]
-   },
-   {
-    "name": "نوع الوظيفة",
-    "options": [
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D9%83%D8%A7%D9%85%D9%84&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIhAC",
-      "name": "دوام كامل",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? دوام كامل",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D9%83%D8%A7%D9%85%D9%84&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM5NION_R2YAnXliGPl4qpBuHvvytzjoPMX813MwDSlpb2pLtqkcHJ02F6o9kA3Z9HoLVwBiJYPTGsF6sL9szrgWgiM2ZNobdwgg58uKMc28n7AiCcwCNSa9c3QiuFCzgtkOucCae2AHWSZE0eqENNVY-UD4v_47XybGfpua6-X1IPyKr8QRgqvExnsyL6bc_5BdH6uNTxDS8RW-g18TDLzIc-nqPE-X3ho69jPTSRp35xdhAEEVTtGEl3DVEcEiygUAUUkll49vzQBT5vgsjp15QySBqHqtWYKkejik2ljWpvaCMKE"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D8%AC%D8%B2%D8%A6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIhAD",
-      "name": "دوام جزئي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? دوام جزئي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AF%D9%88%D8%A7%D9%85+%D8%AC%D8%B2%D8%A6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1bkSRs_qkspJg3eI5uxNBlstdhAu7A4Cs8NIvZwD7gEcagjilZX4DLTABLWjf2qkbMIOd9nhhqmCse6fS8HA6I9U-CJPRawM0-ZznF_SaM4YWRKYcy6OV-wEF4vNUblHbsbRMH-kr1bB2OuZVOZAtLnZXkMEMTIMtRXG0q8FA18OA0z9L52zCNprcaerzJfjnkFOY3qG0CzRwRnFaIyc55GV1P3g5JRIUkucnuxHf3BlLchsx75_X9gIJ9F5a98aKQo5M939TRw_WTc6MMso4VohOPWFmZNzk7lIXroQf14heAy8fzPJFitQYNRxyg6gajwSRuhiHwlOwhrppL9jkQQ6D8wnJBPMLgkLn_2cPdxh1NAzrD_6lX0GJWYGJyiQ41dre7Qr5F14sx_YCUUx_V76y7Y"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%A7%D9%84%D8%B9%D9%82%D8%AF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIhAE",
-      "name": "العقد",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? العقد",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%A7%D9%84%D8%B9%D9%82%D8%AF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rn31Q0IC5WqTB7nfWziiKIv1JUvGNhlmVKP7Fb6QOUy73kwToqs0aUAWVwhc6HPnpjRAnz7iIea7tqzhsyfG3SxzStcPXxzq02Np3N892n4oRJWY3OYJUYVoajYlpPvwUxWFXZDzxF_UfYqH9C1twsPHjBxZqxEwbIQXgpeY25oxKU3B5M6X2KKEU5yDgV7NL9s8NCoBc5YKGdnL0wUFnhCXLUis3k1xoqxWSwCgfad1njCp2TMw2Ju3QPk0mE7_Dh4f7lIjiZpg05fQTOGVurr65jQgBE0OwfZ-7q-Xv-4ZI7i3M4j0jo5iuvouDNbqG7YO_hNTxvhZB0SaGG29JwshBTxuCkFO2OcoFQ9npWCdyiCHFlktBOKWO3hTAIFGIRVwh-w"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D8%AA%D8%B1%D8%A9+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIIhAF",
-      "name": "فترة تدريب",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? فترة تدريب",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D8%AA%D8%B1%D8%A9+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r52_uDgRk-P_WISiypUjRJzoB2asCWLc3lq19JXrMiTUiiNx-xp89JXyE5-ulpQ9u3EWRm9nKOCB8wiHHrMZU-oQhcM6gaSSwTkwf6OhjMcPXkYQLhkp5Sih2C3Pw-8ADdyhjRL3aNj9rWa3ykKBYkmBaYkTKHivB8Ll_SKE3MC6dK8KEy6TqBA1RA_mGn97zbW3ZsmK0T0mIxykezDAphn7Qlsqf8Sr2ZR2zC9pUUYwmF2Cxj8p1dCBgQgQSF8OCqQvTXP2DY3CmMztt5w24eLDYnaBIPGMaEWhnWtl_1rqcJ2BYhiezbmKeDuK71gdmLUgdzJ6cHEuhGIm4QhsHXGzULgEDQj04UsritAZgmUgAvqpq2bB237QB6jpOstLAcOYc5A"
-     }
-    ]
-   },
-   {
-    "name": "تاريخ النشر",
-    "options": [
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%85%D9%86%D8%B0+%D8%A7%D9%84%D8%A3%D9%85%D8%B3&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIJxAC",
-      "name": "أمس",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? منذ الأمس",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%85%D9%86%D8%B0+%D8%A7%D9%84%D8%A3%D9%85%D8%B3&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D9%8A+%D8%A2%D8%AE%D8%B1+3+%D8%A3%D9%8A%D8%A7%D9%85&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIJxAD",
-      "name": "آخر 3 أيام",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? في آخر 3 أيام",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D9%8A+%D8%A2%D8%AE%D8%B1+3+%D8%A3%D9%8A%D8%A7%D9%85&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIJxAE",
-      "name": "الأسبوع الماضي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? خلال الأسبوع الماضي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIJxAF",
-      "name": "الشهر الماضي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? خلال الشهر الماضي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg"
-     }
-    ]
-   },
-   {
-    "name": "تاريخ النشر",
-    "options": [
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%85%D9%86%D8%B0+%D8%A7%D9%84%D8%A3%D9%85%D8%B3&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIJxAC",
-      "name": "أمس",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? منذ الأمس",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%85%D9%86%D8%B0+%D8%A7%D9%84%D8%A3%D9%85%D8%B3&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj0EM4NWEr8FOn2hUxpQ8421dNS0Jm1vSAYSOGGXVBQ8VNz8Hxh1jJghH59UwLdj9wNITAolReeDtznGnKA1ilc3X_PANxiwIS99Fts7ckgoYNXVm_sjHkTCM7YYD_-qimLPxvAz7z5OTKFjL_vjOs56aTSzK7TWarC2vOCKRP4LpuErk0rO9DYk6USWoD0UpcKvdrMFg3OIEBRhgstSfeLkkaSGpfov-QubFUiY2KqQ51BBpDEV-oIdLWGFgbRyBEGelaKLclBWplOG-TS1QBkZOqv6x2As4YWUwjynr956d_9ym2gu6NvesqjXVB5KOP2IEvBGt0JxIvFUb3bgcUNMF0vJI6Qndfety6lkAssFMFxicb3qsv4ptHjYr4F9umoBIout-kQME6ige3TujmvHF0eTTaiM9ZPObv7JFEuhMd1GxkYvTggSY3j0Rc2oo9wb4Fg"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D9%8A+%D8%A2%D8%AE%D8%B1+3+%D8%A3%D9%8A%D8%A7%D9%85&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIJxAD",
-      "name": "آخر 3 أيام",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? في آخر 3 أيام",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D9%81%D9%8A+%D8%A2%D8%AE%D8%B1+3+%D8%A3%D9%8A%D8%A7%D9%85&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfOyH20a_7FPZHG_0xPYEt5kNstAsQS4WhitJ-Urg0AyoNB6YcMBZX5x4-l9J9T6F3pHenzpZRUXTQB_72l19IcP4CAM9h8s38Xbt7WPKymy8MSxHmqtYLdO5s92ONVbNU8_B8C732gAiUklwxNduhe9FJEre6VmOW7y04JEXg3JwBcEwTfX_tvNgbyjOYLyg36Eu2bLfL5-nPT90LyFnT8IIPh2fIuGpLoOL3NE1b6r_iU9NLGVphMsKDrUsP6H4nmDPma86_WeTMPRN9H7Su1iGr2SZfVgBlaRKAXgiCWPt787gJ5MwDRiqu7aJ_e_jqb37muaBJxGRQYmS7KqIHUdXMZ-uOC5b1b9AmGxSWFJ0wL8HMR21OmoIdKfLbbtpElfmLBNCwsnfIW8Ax7b5eGI9Hj497GR9iz5qklzFaGdLGqag2aYwTxjh0p1pBFbEozGsbw"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIJxAE",
-      "name": "الأسبوع الماضي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? خلال الأسبوع الماضي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVu7dId6Q2gWUZCkyqc9qSqeSQS_7bQO59JTxbrMnhB3FxU-2LiiooeHXXfnUMVCGzFao7Q5hVntVejsZEMGOhzC_FhwCuM0anqXNk5kDYbc2Va1UNQFmyZfJcCXCIlI54rl7N15n1cAUm1ALB1fgl7WOvC18c_U0719kHLzH_z11TV3QWJLXm1nnDbhAMY6OPZ3dg_w7GbbDqDE6Gp6mQTjgCI6eVGR98lEhJqCDbXiZnpE6v6tbEomOSgrSrZbGkJJNmaesgrc_bg1aLtUDxfxYHtXgH2VIpMka0ol37ojL0PS1wpusw-XYA-uE7__PH6Wb0TVbRoHW7EcvgvoqVr_QLclCMqF-E6KCypZ7P9qeDsncDl08lAJOAblSERAt0KGDz-5QxDQ4dka5Mm-4ZffpvL_AcfpMkHWN0Uj1JImQf90tcyP6dAzaP-gYtgx7senNVw"
-     },
-     {
-      "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQkbEKegQIJxAF",
-      "name": "الشهر الماضي",
-      "parameters": {
-       "q": "Which companies are hiring React developers in Mumbai? خلال الشهر الماضي",
-       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg"
-      },
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F+%D8%AE%D9%84%D8%A7%D9%84+%D8%A7%D9%84%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rfbE-SUIFXmOg_V_LbK96kzAlhggzkLY79C_6KWKu82rcmI7aUdO9fam-yjz1-dekC8ORbWfA0pViysygvSaDPaHpspFsMX2GkaXgmMmWcgIfeN7v6QP7wIOSQ4SkLqt63OHrD97R7r8if56cgzdOA8TtemEznWyi70txf9U93Br50fYq27xzSoZfFbYh--MeWqgkZPozHFqkqO86tQw-C8bgZYFs5t7NPUqLkmhiRE9FnlZTg-pdD2OGoBv70QZ3FQ1L-T4pwtaVB3pKXQaUd9yLNnJCcJXjPtUT0z5EDm0UL3b8bBQ_Q-i2xrqO2gqL3or_CaxQ3aQJ7VGoL_eFd4vu4xYft4_rFFJv9y2ZvctAEhIWmHnuTDXuBwu4VOX-eyFLC0HALs1meapzlVYhwM2QKEUu45BAVpT41g7vDIXkxGNfiJ8fgQ3AxklAzMJCNAGUfg"
-     }
-    ]
-   }
-  ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmd3bW91LUVsdmFsRWFGZXJuSEF4VklyMEU3VHM4bEwzV2RGRVpOWVAwWW1CdjA3NklxX2ZuMGlGMnBwTzFGTC1lbjFYaVlrVXBuSW9uenl1OVVhUm81Q1g1MEtMa0dVRGZZZk1ZNkl0bW8tSGxMMG8wQm10ZGJQSmN3EgQaAggAGpADEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gIIABAAGAAgACoMCgV3aGljaBVEX9Q_MpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmd3bW91LUVsdmFsRWFGZXJuSEF4VklyMEU3VHM4bEwzV2RGRVpOWVAwWW1CdjA3NklxX2ZuMGlGMnBwTzFGTC1lbjFYaVlrVXBuSW9uenl1OVVhUm81Q1g1MEtMa0dVRGZZZk1ZNkl0bW8tSGxMMG8wQm10ZGJQSmN3Oho8Yj5Db21wYW55PC9iPiAtIFdpa2lwZWRpYUKZAUEgPGI-Y29tcGFueTwvYj4gaXMgYSBsZWdhbCBlbnRpdHkgcmVwcmVzZW50aW5nIGFuIGFzc29jaWF0aW9uIG9mIGxlZ2FsIHBlcnNvbnMgd2l0aCBhIHNoYXJlZCBvYmplY3RpdmUsIHN1Y2ggYXMgZ2VuZXJhdGluZyBwcm9maXQgb3IgYmVuZWZpdGluZyBzb2NpZXR5LkoCaW5KA2FyZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmd3bW91LUVsdmFsRWFGZXJuSEF4VklyMEU3VHM4bEwzV2RGRVpOWVAwWW1CdjA3NklxX2ZuMGlGMnBwTzFGTC1lbjFYaVlrVXBuSW9uenl1OVVhUm81Q1g1MEtMa0dVRGZZZk1ZNkl0bW8tSGxMMG8wQm10ZGJQSmN3EgQaAggAGpADEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gIIABAAGAAgACoMCgV3aGljaBVEX9Q_MpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmd3bW91LUVsdmFsRWFGZXJuSEF4VklyMEU3VHM4bEwzV2RGRVpOWVAwWW1CdjA3NklxX2ZuMGlGMnBwTzFGTC1lbjFYaVlrVXBuSW9uenl1OVVhUm81Q1g1MEtMa0dVRGZZZk1ZNkl0bW8tSGxMMG8wQm10ZGJQSmN3Oho8Yj5Db21wYW55PC9iPiAtIFdpa2lwZWRpYUKZAUEgPGI-Y29tcGFueTwvYj4gaXMgYSBsZWdhbCBlbnRpdHkgcmVwcmVzZW50aW5nIGFuIGFzc29jaWF0aW9uIG9mIGxlZ2FsIHBlcnNvbnMgd2l0aCBhIHNoYXJlZCBvYmplY3RpdmUsIHN1Y2ggYXMgZ2VuZXJhdGluZyBwcm9maXQgb3IgYmVuZWZpdGluZyBzb2NpZXR5LkoCaW5KA2FyZSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "React Developer jobs in Mumbai ; Sr React Developer. Aurous Consultancy 3.1 ; React Developer at XL Dynamics India Pvt Ltd. XL Dynamics 3.9 ;.NET React ...",
-      "icon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAABwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfmduGcA2ymezdaf6AHSer8Cpr10KeW9T1WzoP_EuXRUtAPA_dp3lI20yqm9AAAP72E0TJXaYL2PNCe4iW0hQE7T2QnXFFpP-dUon7JTZkHUf9vMq4kkkv3T7S1dSmod1nlyzu4cLxB4Qlm5J81Eh_4HhD6zisis2ZQmMqRpYm0ocSPYYLfSwMZj7-Z-KlUpwxobnrIoktzUBl_oZkHQcsLJTnM_yQCi2i9XpHQfk5Tzf-4tV7-YKscVRJSqLCzvNWuH55yT1lrnywQZjk5Q--iGKD_CCxSkoKqAi02bu_j1Jz-at0xkUsk9Wltfz8qG0NwzldUytzXgltei-airGrvU6LOOscNP_NJRVcKPqBi-a3TrvfRGEzahB2ZmuMy3p34gf6DyHlwHote4hNGr_TcFZ0m3rKpj2GIkDhPKnPkaqb3nF45QVGhUfB083Pl_8h7V4dV86sCRUXn3ng3pl8dKxeh_RAZzzHq3Uk4HL4JmLgAAA.webp",
-      "source_info_link": "https://www.naukri.com/react-developer-jobs-in-mumbai"
+      "description": "A company is a legal entity representing an association of legal persons with a shared objective, such as generating profit or benefiting society.",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "source_info_link": "https://en.wikipedia.org/wiki/Company"
      }
     },
-    "displayed_link": "https://www.naukri.com › ... › React Developer jobs",
-    "favicon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAABwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfmduGcA2ymezdaf6AHSer8Cpr10KeW9T1WzoP_EuXRUtAPA_dp3lI20yqm9AAAP72E0TJXaYL2PNCe4iW0hQE7T2QnXFFpP-dUon7JTZkHUf9vMq4kkkv3T7S1dSmod1nlyzu4cLxB4Qlm5J81Eh_4HhD6zisis2ZQmMqRpYm0ocSPYYLfSwMZj7-Z-KlUpwxobnrIoktzUBl_oZkHQcsLJTnM_yQCi2i9XpHQfk5Tzf-4tV7-YKscVRJSqLCzvNWuH55yT1lrnywQZjk5Q--iGKD_CCxSkoKqAi02bu_j1Jz-at0xkUsk9Wltfz8qG0NwzldUytzXgltei-airGrvU6LOOscNP_NJRVcKPqBi-a3TrvfRGEzahB2ZmuMy3p34gf6DyHlwHote4hNGr_TcFZ0m3rKpj2GIkDhPKnPkaqb3nF45QVGhUfB083Pl_8h7V4dV86sCRUXn3ng3pl8dKxeh_RAZzzHq3Uk4HL4JmLgAAA.webp",
-    "link": "https://www.naukri.com/react-developer-jobs-in-mumbai",
+    "displayed_link": "https://en.wikipedia.org › wiki › Company",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "link": "https://en.wikipedia.org/wiki/Company",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAV-7AebqMzB4OcIfB2gKB29i882AGjehQK1uxeYAI1Xt4TCH-B3zZwQqqUl4WPgV27DBxPOXbdTvsEQN2Ke_4dlnLgFQtqqSqhQPv1MNJj5FXSFh5TglIU_MOdD_Q7_0zhelJpCxG_RVM&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQFnoECBEQAQ&uoh=1",
-    "snippet": "React Developer jobs in Mumbai ; Sr React Developer. Aurous Consultancy 3.1 ; React Developer at XL Dynamics India Pvt Ltd. XL Dynamics 3.9 ;.NET React ...",
+    "read_more_link": "https://en.wikipedia.org/wiki/Company#:~:text=A%20company%20is%20a%20legal,generating%20profit%20or%20benefiting%20society.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVgwmou-ElvalEaFernHAxVIr0E7Ts8lL3WdFEZNYP0YmBv076Iq_fn0iF2ppO1FL-en1XiYkUpnIonzyu9UaRo5CX50KLkGUDfYfMY6Itmo-HlL0o0BmtdbPJcw&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQFnoECB8QAQ&uoh=1",
+    "snippet": "A company is a legal entity representing an association of legal persons with a shared objective, such as generating profit or benefiting society.",
     "snippet_highlighted_words": [
-     "React Developer jobs in Mumbai"
+     "company"
     ],
-    "source": "Naukri.com",
-    "title": "React Developer Jobs In Mumbai"
+    "source": "Wikipedia",
+    "title": "Company"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZYdy1Mc3JoZm9kRy1zMnZ5QUZoZXVQMmJHaVNRZ0J2Nm10Ymd2N1Z4b1BCUS1CeVlsRzdVSlo4SDBQTE9YbHR4OTdhNnNvZ054MlpnWlctLTZ1WEtDZDhjVGtKSGpISm9SQVdKM3h5cEV6VFNETkl5Y014dERDQ3M1VWp1bXFQUDFzRkxROElTQV8tN1ZNa3RDc196Tld3NUNUcGRfVkxQZ29UM01qcmc4Sm1FQVRKdS11WRIEGgIIABr8AxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNYDCAAQABgAIAAqDAoFd2hpY2gVypIOQDLKAS9nb3RvP3VybD1DQUVTaXdFQjZ6c3dGWHctTHNyaGZvZEctczJ2eUFGaGV1UDJiR2lTUWdCdjZtdGJndjdWeG9QQlEtQnlZbEc3VUpaOEgwUExPWGx0eDk3YTZzb2dOeDJaZ1pXLS02dVhLQ2Q4Y1RrSkhqSEpvUkFXSjN4eXBFelRTRE5JeWNNeHREQ0NzNVVqdW1xUFAxc0ZMUThJU0FfLTdWTWt0Q3Nfek5XdzVDVHBkX1ZMUGdvVDNNanJnOEptRUFUSnUtdVk6MDxiPkNvbXBhbnk8L2I-IGFzc2Vzc21lbnRzIHwgQ2xpbWF0ZSBBY3Rpb24gMTAwK0K1ATE2OSBmb2N1cyA8Yj5jb21wYW5pZXM8L2I-IGhhdmUgYmVlbiBzZWxlY3RlZCBmb3IgZW5nYWdlbWVudCBhbmQgMTY0IG9mIHRoZXNlIGhhdmUgYmVlbiBhc3Nlc3NlZCBhZ2FpbnN0IHRoZSBCZW5jaG1hcmsgaW4gMjAyNS4gRXhwbG9yZSB0aGUgZm9jdXMgPGI-Y29tcGFuaWVzPC9iPiBhbmQgdGhlaXImbmJzcDsuLi5KA2FyZUoCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZYdy1Mc3JoZm9kRy1zMnZ5QUZoZXVQMmJHaVNRZ0J2Nm10Ymd2N1Z4b1BCUS1CeVlsRzdVSlo4SDBQTE9YbHR4OTdhNnNvZ054MlpnWlctLTZ1WEtDZDhjVGtKSGpISm9SQVdKM3h5cEV6VFNETkl5Y014dERDQ3M1VWp1bXFQUDFzRkxROElTQV8tN1ZNa3RDc196Tld3NUNUcGRfVkxQZ29UM01qcmc4Sm1FQVRKdS11WRIEGgIIABr8AxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNYDCAAQABgAIAAqDAoFd2hpY2gVypIOQDLKAS9nb3RvP3VybD1DQUVTaXdFQjZ6c3dGWHctTHNyaGZvZEctczJ2eUFGaGV1UDJiR2lTUWdCdjZtdGJndjdWeG9QQlEtQnlZbEc3VUpaOEgwUExPWGx0eDk3YTZzb2dOeDJaZ1pXLS02dVhLQ2Q4Y1RrSkhqSEpvUkFXSjN4eXBFelRTRE5JeWNNeHREQ0NzNVVqdW1xUFAxc0ZMUThJU0FfLTdWTWt0Q3Nfek5XdzVDVHBkX1ZMUGdvVDNNanJnOEptRUFUSnUtdVk6MDxiPkNvbXBhbnk8L2I-IGFzc2Vzc21lbnRzIHwgQ2xpbWF0ZSBBY3Rpb24gMTAwK0K1ATE2OSBmb2N1cyA8Yj5jb21wYW5pZXM8L2I-IGhhdmUgYmVlbiBzZWxlY3RlZCBmb3IgZW5nYWdlbWVudCBhbmQgMTY0IG9mIHRoZXNlIGhhdmUgYmVlbiBhc3Nlc3NlZCBhZ2FpbnN0IHRoZSBCZW5jaG1hcmsgaW4gMjAyNS4gRXhwbG9yZSB0aGUgZm9jdXMgPGI-Y29tcGFuaWVzPC9iPiBhbmQgdGhlaXImbmJzcDsuLi5KA2FyZUoCaW4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "React js developer jobs in Mumbai, Maharashtra ; React JS/Next JS Developer. Skyleaf Consultants ; Frontend Developer (React Js). Vintage Solution ; Frontend ...",
-      "icon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBwCdASogACAAPtEutFooIagoGAEAGglsAMD8wPBAvjfpgXhnm71AOjN5AA4v8sNLl36pOjmq6mE5cwn1V8LKYuwAAP73ghRE9AWOB2PKrAzZQSS9d7khgzV1auw_odjabVlRCSAs74KT7btsF-N4Vms52jHJaP-oVhE1aA_GjhnDsbPeGM-ull1rCVwPuLnBKCUnw-obL_iU15Sl6A6hfk0IHJVkVW-MFVw0-MjR9GTHS3NOimnjygSxnpSOf7rVJjt3LAqJ4Wa1vHzkukaWp7CaymWcdv3h2IZe6BHJfZ-6F7CnZbSx_FmXbfsjGUKg3fBb-5n9LaAvr94LPr5c7_7BZHXZPdbX3c2CKphUi5R46LtwjCexZZrLYSSqRMzn-WfyZqqq_sOpRyRa_fDAQfE6RgD-xeGG5tujHheFulpKsZwFJpz_wfNeXu3WnIjH_NotHIkTEmmRdB_v-FDHgrdHnUPW1XPAaVIzdSY27h0L_4Pt52_LVAAAAA.webp",
-      "source_info_link": "https://in.indeed.com/q-react-js-developer-l-mumbai,-maharashtra-jobs.html"
+      "description": "169 focus companies have been selected for engagement and 164 of these have been assessed against the Benchmark in 2025. Explore the focus companies and their ...",
+      "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBgCdASogACAAPtEutFooIagoGAEAGglsAMUKgtQOBRhf9kmERyk3Uz5ec_twt-xUBNXRxz2pbgAAAP7-wsOeqMP6VAhjH3w8ZlreerfXc1a2Afg1OXnWXaydJ23yII9Be8-9qQBBlLXXtIhkT_lH6F3ICmqSv5dQjVyX5e6lY8J1mACuAAnn4GVos0ATvO-7bbkh4Nm1DXVHmxngnWU27u9YG_3B7gGm33NqD-6HXfBRHqPDetRGWf4qQAKw0dtD1VeOeUJtFoFaD25i-hEDd4JCEAcHCe31wfn2PzAlDVWJ1NNl7-snbuQbwmkAAAA.webp",
+      "source_info_link": "https://www.climateaction100.org/net-zero-company-benchmark/new-company-listing/"
      }
     },
-    "displayed_link": "https://in.indeed.com › q-react-js-dev...",
-    "favicon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBwCdASogACAAPtEutFooIagoGAEAGglsAMD8wPBAvjfpgXhnm71AOjN5AA4v8sNLl36pOjmq6mE5cwn1V8LKYuwAAP73ghRE9AWOB2PKrAzZQSS9d7khgzV1auw_odjabVlRCSAs74KT7btsF-N4Vms52jHJaP-oVhE1aA_GjhnDsbPeGM-ull1rCVwPuLnBKCUnw-obL_iU15Sl6A6hfk0IHJVkVW-MFVw0-MjR9GTHS3NOimnjygSxnpSOf7rVJjt3LAqJ4Wa1vHzkukaWp7CaymWcdv3h2IZe6BHJfZ-6F7CnZbSx_FmXbfsjGUKg3fBb-5n9LaAvr94LPr5c7_7BZHXZPdbX3c2CKphUi5R46LtwjCexZZrLYSSqRMzn-WfyZqqq_sOpRyRa_fDAQfE6RgD-xeGG5tujHheFulpKsZwFJpz_wfNeXu3WnIjH_NotHIkTEmmRdB_v-FDHgrdHnUPW1XPAaVIzdSY27h0L_4Pt52_LVAAAAA.webp",
-    "link": "https://in.indeed.com/q-react-js-developer-l-mumbai,-maharashtra-jobs.html",
+    "displayed_link": "https://www.climateaction100.org › new-company-listing",
+    "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBgCdASogACAAPtEutFooIagoGAEAGglsAMUKgtQOBRhf9kmERyk3Uz5ec_twt-xUBNXRxz2pbgAAAP7-wsOeqMP6VAhjH3w8ZlreerfXc1a2Afg1OXnWXaydJ23yII9Be8-9qQBBlLXXtIhkT_lH6F3ICmqSv5dQjVyX5e6lY8J1mACuAAnn4GVos0ATvO-7bbkh4Nm1DXVHmxngnWU27u9YG_3B7gGm33NqD-6HXfBRHqPDetRGWf4qQAKw0dtD1VeOeUJtFoFaD25i-hEDd4JCEAcHCe31wfn2PzAlDVWJ1NNl7-snbuQbwmkAAAA.webp",
+    "link": "https://www.climateaction100.org/net-zero-company-benchmark/new-company-listing/",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFTILzccisMpOX1SFzT776eqgQSBCu9sLooLu4omUL52D8PIdbmCISKWI0NovDEypjHTv9DI7NAo8I83ilAKoT1wub96suVFoZb2kycFDWDq5m-HsYncgVQwRuyaJhRs9YgPiz6qC5NE3zjx6i49pn7rzqEMG-IbBsngqX8jh&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQFnoECBAQAQ&uoh=1",
-    "snippet": "React js developer jobs in Mumbai, Maharashtra ; React JS/Next JS Developer. Skyleaf Consultants ; Frontend Developer (React Js). Vintage Solution ; Frontend ...",
+    "read_more_link": "https://www.climateaction100.org/net-zero-company-benchmark/new-company-listing/#:~:text=169%20focus%20companies%20have%20been,Zero%20Company%20Benchmark%20assessments%20below.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFXw-LsrhfodG-s2vyAFheuP2bGiSQgBv6mtbgv7VxoPBQ-ByYlG7UJZ8H0PLOXltx97a6sogNx2ZgZW--6uXKCd8cTkJHjHJoRAWJ3xypEzTSDNIycMxtDCCs5UjumqPP1sFLQ8ISA_-7VMktCs_zNWw5CTpd_VLPgoT3Mjrg8JmEATJu-uY&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQFnoECCcQAQ&uoh=1",
+    "snippet": "169 focus companies have been selected for engagement and 164 of these have been assessed against the Benchmark in 2025. Explore the focus companies and their ...",
     "snippet_highlighted_words": [
-     "React js developer jobs in Mumbai, Maharashtra"
+     "companies",
+     "companies"
     ],
-    "source": "Indeed",
-    "title": "React Js Developer jobs in Mumbai, Maharashtra"
+    "source": "Climate Action 100+",
+    "title": "Company assessments"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjdNZkswbFlnM1g4R1VEaDVzUm5TSkFXOVJCckVEOHF1LU9kLVJkSUctdDFzc2JWM3FBLVd2bW5RNnpZTlRnTjQyRllVV0RqXzVkNmpUNGo0M1FsWGZnMkdIR3loVzFtNFhpc2tLV05maUxNWGdMWHljcHpHaU9oX3d4Q0tERE1aRXpfZjd4YTgzYVVsR3djclM5ZjdMb0pfdEkyam1aemUSBBoCCAAa1QMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCvAwgAEAAYACAAKgwKBXdoaWNoFdh1skAytgEvZ290bz91cmw9Q0FFU2ZRSHJPekFWN01mSzBsWWczWDhHVURoNXNSblNKQVc5UkJyRUQ4cXUtT2QtUmRJRy10MXNzYlYzcUEtV3ZtblE2ellOVGdONDJGWVVXRGpfNWQ2alQ0ajQzUWxYZmcyR0hHeWhXMW00WGlza0tXTmZpTE1YZ0xYeWNwekdpT2hfd3hDS0RETVpFel9mN3hhODNhVWxHd2NyUzlmN0xvSl90STJqbVp6ZTo0VGhlIFdvcmxkJiMzOTtzIEJlc3QgPGI-Q29tcGFuaWVzPC9iPiBvZiAyMDI2IC0gVElNRUKeATxiPkNvbXBhbmllczwvYj4gbGlrZSBXaXN0cm9uIChuby4gMTYpLCBMZW5vdm8gKG5vLiA1MSkgYW5kIFp1cmljaCBJbnN1cmFuY2UgR3JvdXAgKG5vLiA3MCkgYXJlIG5ldyBhZGRpdGlvbnMgdG8gdGhlIDIwMjYgbGlzdC4gTWFqb3IgTnZpZGlhIHN1cHBsaWVyJm5ic3A7Li4uSgJpbkoDYXJlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjdNZkswbFlnM1g4R1VEaDVzUm5TSkFXOVJCckVEOHF1LU9kLVJkSUctdDFzc2JWM3FBLVd2bW5RNnpZTlRnTjQyRllVV0RqXzVkNmpUNGo0M1FsWGZnMkdIR3loVzFtNFhpc2tLV05maUxNWGdMWHljcHpHaU9oX3d4Q0tERE1aRXpfZjd4YTgzYVVsR3djclM5ZjdMb0pfdEkyam1aemUSBBoCCAAa1QMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCvAwgAEAAYACAAKgwKBXdoaWNoFdh1skAytgEvZ290bz91cmw9Q0FFU2ZRSHJPekFWN01mSzBsWWczWDhHVURoNXNSblNKQVc5UkJyRUQ4cXUtT2QtUmRJRy10MXNzYlYzcUEtV3ZtblE2ellOVGdONDJGWVVXRGpfNWQ2alQ0ajQzUWxYZmcyR0hHeWhXMW00WGlza0tXTmZpTE1YZ0xYeWNwekdpT2hfd3hDS0RETVpFel9mN3hhODNhVWxHd2NyUzlmN0xvSl90STJqbVp6ZTo0VGhlIFdvcmxkJiMzOTtzIEJlc3QgPGI-Q29tcGFuaWVzPC9iPiBvZiAyMDI2IC0gVElNRUKeATxiPkNvbXBhbmllczwvYj4gbGlrZSBXaXN0cm9uIChuby4gMTYpLCBMZW5vdm8gKG5vLiA1MSkgYW5kIFp1cmljaCBJbnN1cmFuY2UgR3JvdXAgKG5vLiA3MCkgYXJlIG5ldyBhZGRpdGlvbnMgdG8gdGhlIDIwMjYgbGlzdC4gTWFqb3IgTnZpZGlhIHN1cHBsaWVyJm5ic3A7Li4uSgJpbkoDYXJlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Today's top 806 React Js jobs in Mumbai Metropolitan Region. Leverage your professional network, and get hired. New React Js jobs added daily.",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png",
-      "source_info_link": "https://in.linkedin.com/jobs/react-js-jobs-mumbai-metropolitan-region"
+      "description": "Companies like Wistron (no. 16), Lenovo (no. 51) and Zurich Insurance Group (no. 70) are new additions to the 2026 list. Major Nvidia supplier ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAjElEQVR4AWNwL_ChK0bhvJVREYBiNmRMjEHoepDMEsBn4TIg_k9lvAyfhW1APBEXhsq_QTOwDReG6cNnYTERQXcFybI3RKhvo7eFxfgsNKOuhZhmYiiggYVsdLIQgQedhaMWXhgiFo5aOGrhqIWjFo5aCGuBYTQDEa05M-paiGjU4mw8U81C4tsthDEAcXqu9rwAtHkAAAAASUVORK5CYII.png",
+      "source_info_link": "https://time.com/article/2026/09/09/worlds-best-companies-of-2026/"
      }
     },
-    "displayed_link": "https://in.linkedin.com › jobs › react-...",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png",
-    "link": "https://in.linkedin.com/jobs/react-js-jobs-mumbai-metropolitan-region",
+    "date": "Sep 9, 2026",
+    "displayed_link": "https://time.com › World › Special Project",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAjElEQVR4AWNwL_ChK0bhvJVREYBiNmRMjEHoepDMEsBn4TIg_k9lvAyfhW1APBEXhsq_QTOwDReG6cNnYTERQXcFybI3RKhvo7eFxfgsNKOuhZhmYiiggYVsdLIQgQedhaMWXhgiFo5aOGrhqIWjFo5aCGuBYTQDEa05M-paiGjU4mw8U81C4tsthDEAcXqu9rwAtHkAAAAASUVORK5CYII.png",
+    "link": "https://time.com/article/2026/09/09/worlds-best-companies-of-2026/",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVN7B_zodWhh6jOfSQrVF2-GPrVRn9la9SLJNiusP-38h1yPBW0ts_ef1MviwcLGZLTWNPEDcvMjNhYdj0_uLmkQf5caXjWIntPm47E1KVSfbHbIsCZWsYb8aJ8fCysWUPPFaohb8jsKF9_2oESs6jU4D0i_JyjXp3&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQFnoECBIQAQ&uoh=1",
-    "snippet": "Today's top 806 React Js jobs in Mumbai Metropolitan Region. Leverage your professional network, and get hired. New React Js jobs added daily.",
+    "read_more_link": "https://time.com/article/2026/09/09/worlds-best-companies-of-2026/#:~:text=Companies%20like%20Wistron%20(no.%2016)%2C,servers%20continues%20to%20exceed%20supply.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV7MfK0lYg3X8GUDh5sRnSJAW9RBrED8qu-Od-RdIG-t1ssbV3qA-WvmnQ6zYNTgN42FYUWDj_5d6jT4j43QlXfg2GHGyhW1m4XiskKWNfiLMXgLXycpzGiOh_wxCKDDMZEz_f7xa83aUlGwcrS9f7LoJ_tI2jmZze&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQFnoECCAQAQ&uoh=1",
+    "snippet": "Companies like Wistron (no. 16), Lenovo (no. 51) and Zurich Insurance Group (no. 70) are new additions to the 2026 list. Major Nvidia supplier ...",
     "snippet_highlighted_words": [
-     "React Js jobs in Mumbai Metropolitan Region"
+     "Companies"
     ],
-    "source": "LinkedIn India",
-    "title": "806 React Js Jobs in Mumbai Metropolitan Region"
+    "source": "Time Magazine",
+    "title": "The World's Best Companies of 2026"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZZS0JwWEEwazVtbzJ6UHhEVDdsRnB4WG9TeTdCd0FVVXh2REVfOU00WVhjVXl3eDJESVpoR09PU0pDNlNPel9uLW5ab3JCX0o1U0EtMVU2YnpnUjlHbGRMZGZZX1ZSNHNWTkJNSzV2M1BfMmhkMXVHODNVel80UU9JODhVQnZoNC1IRjktSWxHc0dtVmM5TVU4RndlX1lkYzdQRGZ6NGVEUi1LM3E4OGdkeG94Ry1SEgQaAggAGsUDEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAnwMIABAAGAAgACoMCgV3aGljaBUrzjVAMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZZS0JwWEEwazVtbzJ6UHhEVDdsRnB4WG9TeTdCd0FVVXh2REVfOU00WVhjVXl3eDJESVpoR09PU0pDNlNPel9uLW5ab3JCX0o1U0EtMVU2YnpnUjlHbGRMZGZZX1ZSNHNWTkJNSzV2M1BfMmhkMXVHODNVel80UU9JODhVQnZoNC1IRjktSWxHc0dtVmM5TVU4RndlX1lkYzdQRGZ6NGVEUi1LM3E4OGdkeG94Ry1SOjJXcml0ZSBZb3VyIE93biBGbG9vZCBJbnN1cmFuY2UgPGI-Q29tcGFueTwvYj4gTGlzdEKAAVRoZSBXcml0ZSBZb3VyIE93biAoV1lPKSBQcm9ncmFtLCBlc3RhYmxpc2hlZCBpbiAxOTgzLCBpcyBhIHBhcnRuZXJzaGlwIGJldHdlZW4gRkVNQSBhbmQgcHJpdmF0ZSBwcm9wZXJ0eSBhbmQgY2FzdWFsdHkgaW5zdXJlcnMuSgJpbkoDYXJlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZZS0JwWEEwazVtbzJ6UHhEVDdsRnB4WG9TeTdCd0FVVXh2REVfOU00WVhjVXl3eDJESVpoR09PU0pDNlNPel9uLW5ab3JCX0o1U0EtMVU2YnpnUjlHbGRMZGZZX1ZSNHNWTkJNSzV2M1BfMmhkMXVHODNVel80UU9JODhVQnZoNC1IRjktSWxHc0dtVmM5TVU4RndlX1lkYzdQRGZ6NGVEUi1LM3E4OGdkeG94Ry1SEgQaAggAGsUDEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAnwMIABAAGAAgACoMCgV3aGljaBUrzjVAMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZZS0JwWEEwazVtbzJ6UHhEVDdsRnB4WG9TeTdCd0FVVXh2REVfOU00WVhjVXl3eDJESVpoR09PU0pDNlNPel9uLW5ab3JCX0o1U0EtMVU2YnpnUjlHbGRMZGZZX1ZSNHNWTkJNSzV2M1BfMmhkMXVHODNVel80UU9JODhVQnZoNC1IRjktSWxHc0dtVmM5TVU4RndlX1lkYzdQRGZ6NGVEUi1LM3E4OGdkeG94Ry1SOjJXcml0ZSBZb3VyIE93biBGbG9vZCBJbnN1cmFuY2UgPGI-Q29tcGFueTwvYj4gTGlzdEKAAVRoZSBXcml0ZSBZb3VyIE93biAoV1lPKSBQcm9ncmFtLCBlc3RhYmxpc2hlZCBpbiAxOTgzLCBpcyBhIHBhcnRuZXJzaGlwIGJldHdlZW4gRkVNQSBhbmQgcHJpdmF0ZSBwcm9wZXJ0eSBhbmQgY2FzdWFsdHkgaW5zdXJlcnMuSgJpbkoDYXJlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "React Developer Jobs in Mumbai · India Tech Engine · FactWise · Stylabs Technologies · Leadzen.ai · Xohani Solutions · Bitkraft Technologies · Noesis.tech.",
-      "source_info_link": "https://wellfound.com/role/l/react-developer/mumbai"
+      "description": "The Write Your Own (WYO) Program, established in 1983, is a partnership between FEMA and private property and casualty insurers.",
+      "icon": "https://serpapi.com/images/i/UklGRnoBAABXRUJQVlA4IG4BAABwCACdASocABwAPtEutFooIagoGAEAGglsALsyhGALcLMA9Uv6gdP_d0fr_-aq0QTJr1_fMRZAHvUIaMrLr_tfXYya7dGx39ynk3YgAP7-wh7ZAeGrEmLbQnHv6vfTZbD8qrblTV2fLLPvNYEpJ4k1_83bp-k-eNdRiMPfy8U-8PdTk6Px9o8MczRUZqX09R8x3_gReFjmvGSXbP_8YVhs4PPDklQuMFiC-ICQOPjnXz8QC6eMiUMQXlGGE8ADBj9sUVn7VQWtthbYyQBrD8ySuAlwGI4jkMdu6AwwO6x39UJzGsACPBZyubLxW5fp0DznswvmpTOnJh_7DJB05KNGq5KeTCHb6n8BQq-5d3d3sfM3rTEhYfpByRQSWEd0vdOjnnVD6yuJjiYFv9-v3D9_ostUByqWV04aSaCcy4taMZzo-i9CqQf6eDd5f-XU0_yxtOftOfglQ8YcwKHaRRYCtPeN0P06b7CjPuVIAAA.webp",
+      "source_info_link": "https://agents.floodsmart.gov/topics/writing-policies/wyo-insurance-companies"
      }
     },
-    "displayed_link": "https://wellfound.com › role › react-developer › mumbai",
-    "link": "https://wellfound.com/role/l/react-developer/mumbai",
+    "displayed_link": "https://agents.floodsmart.gov › ... › Writing Policies",
+    "favicon": "https://serpapi.com/images/i/UklGRnoBAABXRUJQVlA4IG4BAABwCACdASocABwAPtEutFooIagoGAEAGglsALsyhGALcLMA9Uv6gdP_d0fr_-aq0QTJr1_fMRZAHvUIaMrLr_tfXYya7dGx39ynk3YgAP7-wh7ZAeGrEmLbQnHv6vfTZbD8qrblTV2fLLPvNYEpJ4k1_83bp-k-eNdRiMPfy8U-8PdTk6Px9o8MczRUZqX09R8x3_gReFjmvGSXbP_8YVhs4PPDklQuMFiC-ICQOPjnXz8QC6eMiUMQXlGGE8ADBj9sUVn7VQWtthbYyQBrD8ySuAlwGI4jkMdu6AwwO6x39UJzGsACPBZyubLxW5fp0DznswvmpTOnJh_7DJB05KNGq5KeTCHb6n8BQq-5d3d3sfM3rTEhYfpByRQSWEd0vdOjnnVD6yuJjiYFv9-v3D9_ostUByqWV04aSaCcy4taMZzo-i9CqQf6eDd5f-XU0_yxtOftOfglQ8YcwKHaRRYCtPeN0P06b7CjPuVIAAA.webp",
+    "link": "https://agents.floodsmart.gov/topics/writing-policies/wyo-insurance-companies",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVPBSqftyfCxNfyNhejnRCxgNCJCOtYeDSk1jeG2D1mlCdPCpHGUJ_hC9FJhICAtnGjoSrlsr-I4ApnXPrbIG3Y4bxyrvdzfa5Dch2goARUR5rBCC71XUgIBz2mvlBCLI7K1C23NVG&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQFnoECBMQAQ&uoh=1",
-    "snippet": "React Developer Jobs in Mumbai · India Tech Engine · FactWise · Stylabs Technologies · Leadzen.ai · Xohani Solutions · Bitkraft Technologies · Noesis.tech.",
-    "snippet_highlighted_words": [
-     "React Developer Jobs in Mumbai"
-    ],
-    "source": "Wellfound",
-    "title": "React Developer Jobs in Mumbai, India - 2026"
+    "read_more_link": "https://agents.floodsmart.gov/topics/writing-policies/wyo-insurance-companies#:~:text=The%20Write%20Your%20Own%20(WYO),private%20property%20and%20casualty%20insurers.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFYKBpXA0k5mo2zPxDT7lFpxXoSy7BwAUUxvDE_9M4YXcUywx2DIZhGOOSJC6SOz_n-nZorB_J5SA-1U6bzgR9GldLdfY_VR4sVNBMK5v3P_2hd1uG83Uz_4QOI88UBvh4-HF9-IlGsGmVc9MU8Fwe_Ydc7PDfz4eDR-K3q88gdxoxG-R&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQFnoECCQQAQ&uoh=1",
+    "snippet": "The Write Your Own (WYO) Program, established in 1983, is a partnership between FEMA and private property and casualty insurers.",
+    "source": "Floodsmart (.gov)",
+    "title": "Write Your Own Flood Insurance Company List"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmM3Z0M5Nnk0VlFFQkNyUU1NZEJtWUFyaC1hcFYzb3EteC0zMnV4a3pzM0xvcV9LV3ptS0tYTXB4TEQwSjJxZ1Q5UVpoQlFkRHloYkFxLUFFUVAyU3pETzdzWnNFb0VXUERrLVlaR1lBT0pWeTRmUHEzd2VyU3YwSVNEQnp3UU1OXzBLYUxrQ3Q4TU9UQXQ5empWTVNfTkdhY2NrEgQaAggAGukDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwwMIABAAGAAgACoMCgV3aGljaBVgN40-MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmM3Z0M5Nnk0VlFFQkNyUU1NZEJtWUFyaC1hcFYzb3EteC0zMnV4a3pzM0xvcV9LV3ptS0tYTXB4TEQwSjJxZ1Q5UVpoQlFkRHloYkFxLUFFUVAyU3pETzdzWnNFb0VXUERrLVlaR1lBT0pWeTRmUHEzd2VyU3YwSVNEQnp3UU1OXzBLYUxrQ3Q4TU9UQXQ5empWTVNfTkdhY2NrOj1BbHRlcm5hdGl2ZSBwcm90ZWluIDxiPmNvbXBhbnk8L2I-IGRhdGFiYXNlICgyMDI2KSAtIGdmaS4gT3JnQq4BVXNlIHRoZSBkYXRhYmFzZSB0byBpZGVudGlmeSBhbmQgc3RheSB1cC10by1kYXRlIG9uIG5ldyBhbHRlcm5hdGl2ZSBwcm90ZWluIDxiPmNvbXBhbmllczwvYj4gYW5kIHByb2R1Y3RzLCBzb3VyY2UgZGVhbCBmbG93IGZvciA8Yj5jb21wYW5pZXM8L2I-IG9mIGludGVyZXN0LCBvciBmaW5kJm5ic3A7Li4uSgNhcmVKAmluIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmM3Z0M5Nnk0VlFFQkNyUU1NZEJtWUFyaC1hcFYzb3EteC0zMnV4a3pzM0xvcV9LV3ptS0tYTXB4TEQwSjJxZ1Q5UVpoQlFkRHloYkFxLUFFUVAyU3pETzdzWnNFb0VXUERrLVlaR1lBT0pWeTRmUHEzd2VyU3YwSVNEQnp3UU1OXzBLYUxrQ3Q4TU9UQXQ5empWTVNfTkdhY2NrEgQaAggAGukDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwwMIABAAGAAgACoMCgV3aGljaBVgN40-MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmM3Z0M5Nnk0VlFFQkNyUU1NZEJtWUFyaC1hcFYzb3EteC0zMnV4a3pzM0xvcV9LV3ptS0tYTXB4TEQwSjJxZ1Q5UVpoQlFkRHloYkFxLUFFUVAyU3pETzdzWnNFb0VXUERrLVlaR1lBT0pWeTRmUHEzd2VyU3YwSVNEQnp3UU1OXzBLYUxrQ3Q4TU9UQXQ5empWTVNfTkdhY2NrOj1BbHRlcm5hdGl2ZSBwcm90ZWluIDxiPmNvbXBhbnk8L2I-IGRhdGFiYXNlICgyMDI2KSAtIGdmaS4gT3JnQq4BVXNlIHRoZSBkYXRhYmFzZSB0byBpZGVudGlmeSBhbmQgc3RheSB1cC10by1kYXRlIG9uIG5ldyBhbHRlcm5hdGl2ZSBwcm90ZWluIDxiPmNvbXBhbmllczwvYj4gYW5kIHByb2R1Y3RzLCBzb3VyY2UgZGVhbCBmbG93IGZvciA8Yj5jb21wYW5pZXM8L2I-IG9mIGludGVyZXN0LCBvciBmaW5kJm5ic3A7Li4uSgNhcmVKAmluIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "302 React js developer jobs in Mumbai · Skyleaf Consultants Logo. Skyleaf Consultants · K.P. Infomedia Logo · Tekolutions.AI Logo. Tekolutions.AI · TalentWell ...",
-      "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
-      "source_info_link": "https://www.glassdoor.co.in/Job/mumbai-react-js-developer-jobs-SRCH_IL.0,6_IC2851180_KO7,25.htm"
+      "description": "Use the database to identify and stay up-to-date on new alternative protein companies and products, source deal flow for companies of interest, or find ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEVHcEwHfYoHfYoHfYoHfYoGfYoHfYoHfYoAeYcAdYNsqLCSvMNFlJ_z-fr___-919vh7u_N4eQAcH8chZGrzNDGxEZHAAAACHRSTlMAT5XQ7_8apwnhBosAAAEoSURBVHgBbFLRAoQgCKuSAlFU6_-_9fCKLuv20MsWzLHhhnGaHYCbp3H4g2WFG9blyU_wwNT_7uAFt9z4nkJCaFievNGeGeiucB0foigY25a__pRNWRKa08cCYolAFAguG2svKMIV8cpDBT9zhF9BYg6XQvM9aeSUPDWBwpMNGU-LuEVRZFRBLtkHH_AMdD5WR4m8i6TaPFBNsh825yME9CIbVf2iCnTRJXCDPa5UgCoSHgIY4JwQK-Kmc14CZ_mV4LPk-lox24gvglKMQPvP5GQ3KrEFgFSxmapkvRmvkEn3R4IeWk_LuaWpO7AXnMdCH-2ZvWC1cwelamUR6LFYYdqNShbzbphulSuiSD3v7qWlwBx6_llr68Cb_wxPxiGc9QhnXoLZHwCCYxh918xpWgAAAABJRU5ErkJggg.png",
+      "source_info_link": "https://gfi.org/resource/alternative-protein-company-database/"
      }
     },
-    "displayed_link": "https://www.glassdoor.co.in › Job",
-    "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
-    "link": "https://www.glassdoor.co.in/Job/mumbai-react-js-developer-jobs-SRCH_IL.0,6_IC2851180_KO7,25.htm",
+    "displayed_link": "https://gfi.org › resource › alternative-protein-company-...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEVHcEwHfYoHfYoHfYoHfYoGfYoHfYoHfYoAeYcAdYNsqLCSvMNFlJ_z-fr___-919vh7u_N4eQAcH8chZGrzNDGxEZHAAAACHRSTlMAT5XQ7_8apwnhBosAAAEoSURBVHgBbFLRAoQgCKuSAlFU6_-_9fCKLuv20MsWzLHhhnGaHYCbp3H4g2WFG9blyU_wwNT_7uAFt9z4nkJCaFievNGeGeiucB0foigY25a__pRNWRKa08cCYolAFAguG2svKMIV8cpDBT9zhF9BYg6XQvM9aeSUPDWBwpMNGU-LuEVRZFRBLtkHH_AMdD5WR4m8i6TaPFBNsh825yME9CIbVf2iCnTRJXCDPa5UgCoSHgIY4JwQK-Kmc14CZ_mV4LPk-lox24gvglKMQPvP5GQ3KrEFgFSxmapkvRmvkEn3R4IeWk_LuaWpO7AXnMdCH-2ZvWC1cwelamUR6LFYYdqNShbzbphulSuiSD3v7qWlwBx6_llr68Cb_wxPxiGc9QhnXoLZHwCCYxh918xpWgAAAABJRU5ErkJggg.png",
+    "link": "https://gfi.org/resource/alternative-protein-company-database/",
     "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFYKTIUhoGNz_O4uQjzcMyT9DowT_rl-ds-_9BKzbuRs8zJQK1wpVCMEsOIel0zziymYU5T2XzX0gU_WR8e-wz5JJuNIWSr31pRp8a3arWPy47xEmcRcNWKmSf2yOY7tGvJBH8qdGZLq7jP1p8Q9OWjc9DQrpzSswVrIKl7a7r6ls7PA-2EtsOxiNXGIJk85EroVZ&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQFnoECBQQAQ&uoh=1",
-    "snippet": "302 React js developer jobs in Mumbai · Skyleaf Consultants Logo. Skyleaf Consultants · K.P. Infomedia Logo · Tekolutions.AI Logo. Tekolutions.AI · TalentWell ...",
+    "read_more_link": "https://gfi.org/resource/alternative-protein-company-database/#:~:text=Use%20the%20database%20to%20identify,interest%2C%20or%20find%20manufacturing%20partners.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVc7gC96y4VQEBCrQMMdBmYArh-apV3oq-x-32uxkzs3Loq_KWzmKKXMpxLD0J2qgT9QZhBQdDyhbAq-AEQP2SzDO7sZsEoEWPDk-YZGYAOJVy4fPq3werSv0ISDBzwQMN_0KaLkCt8MOTAt9zjVMS_NGacck&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQFnoECCgQAQ&uoh=1",
+    "snippet": "Use the database to identify and stay up-to-date on new alternative protein companies and products, source deal flow for companies of interest, or find ...",
     "snippet_highlighted_words": [
-     "React js developer jobs in Mumbai"
+     "companies",
+     "companies"
     ],
-    "source": "Glassdoor",
-    "title": "302 react js developer jobs in Mumbai, September 2026"
+    "source": "The Good Food Institute",
+    "title": "Alternative protein company database (2026)"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWMlQ2WWZWeWprbDIwdWhkd2dmWmxUdDlJNnNtSlJmVUVkSm80c0ZydHVyYVJYaURHbG9vUVlrODZVMXIzb1dNb0dzenBnSUg5elprdHVvSll1RUZzR2lnbjE4WmNJTVlMNlpTU0NYZxIEGgIIABqMAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOYCCAAQABgAIAAqDAoFd2hpY2gVax7ZPzJ9L2dvdG8_dXJsPUNBRVNVZ0hyT3pBVjJUNllmVnlqa2wyMHVoZHdnZlpsVHQ5STZzbUpSZlVFZEpvNHNGcnR1cmFSWGlER2xvb1FZazg2VTFyM29XTW9Hc3pwZ0lIOXpaa3R1b0pZdUVGc0dpZ24xOFpjSU1ZTDZaU1NDWGc6DUFib3V0IC0gUGhSTUFCtgFXb3JraW5nIGZvciBDdXJlcyBpcyB0aGUgbGVhZGluZyB2b2ljZSBvZiB0aGUgbW9yZSB0aGFuIDEsMDAwLDAwMCBkaXJlY3QgZW1wbG95ZWVzIG9mIGJpb3BoYXJtYWNldXRpY2FsIHJlc2VhcmNoIDxiPmNvbXBhbmllczwvYj4gYW5kIHZhY2NpbmUgPGI-bWFudWZhY3R1cmVyczwvYj4gYWNyb3NzIHRoZSZuYnNwOy4uLkoDYXJlSgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWMlQ2WWZWeWprbDIwdWhkd2dmWmxUdDlJNnNtSlJmVUVkSm80c0ZydHVyYVJYaURHbG9vUVlrODZVMXIzb1dNb0dzenBnSUg5elprdHVvSll1RUZzR2lnbjE4WmNJTVlMNlpTU0NYZxIEGgIIABqMAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOYCCAAQABgAIAAqDAoFd2hpY2gVax7ZPzJ9L2dvdG8_dXJsPUNBRVNVZ0hyT3pBVjJUNllmVnlqa2wyMHVoZHdnZlpsVHQ5STZzbUpSZlVFZEpvNHNGcnR1cmFSWGlER2xvb1FZazg2VTFyM29XTW9Hc3pwZ0lIOXpaa3R1b0pZdUVGc0dpZ24xOFpjSU1ZTDZaU1NDWGc6DUFib3V0IC0gUGhSTUFCtgFXb3JraW5nIGZvciBDdXJlcyBpcyB0aGUgbGVhZGluZyB2b2ljZSBvZiB0aGUgbW9yZSB0aGFuIDEsMDAwLDAwMCBkaXJlY3QgZW1wbG95ZWVzIG9mIGJpb3BoYXJtYWNldXRpY2FsIHJlc2VhcmNoIDxiPmNvbXBhbmllczwvYj4gYW5kIHZhY2NpbmUgPGI-bWFudWZhY3R1cmVyczwvYj4gYWNyb3NzIHRoZSZuYnNwOy4uLkoDYXJlSgJpbiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "We are seeking a skilled React Developer to join a growing team in Navi Mumbai. This role requires proficiency in building and maintaining scalable web ...",
-      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACwBQCdASogACAAPtEutFooIagoGAEAGglAAnEqaZvMDUvtB5ZADd5jo1zXA32yhATN1_Dw-kgA_v7CF__fFc_yNEJ2Ie53E4mWjqv1lBkqSh8BqfjeTQwP2v5vzUy8KuOfjHurcIdXP_uhvUpAAtpc2k4eTBlk2H4-Xjxi8POj9Zcdr7xyiy8I-HyYLN97tSx3wcK_aQArxwl_3D9b5c6K0HgjM9edusgyxcRnKfm1trVg32IwvSYcB8037YDQfHz3FBU3aS7gFG-51NNp9EX5mZtZxyYh8BRDeZuVTffBCPI1ToYJa26mdifiDnr3Cj25QAAA.webp",
-      "source_info_link": "https://www.michaelpage.co.in/job-detail/react-developer/ref/jn-032026-6968309"
+      "description": "Working for Cures is the leading voice of the more than 1,000,000 direct employees of biopharmaceutical research companies and vaccine manufacturers across the ...",
+      "icon": "https://serpapi.com/images/i/UklGRuQBAABXRUJQVlA4INgBAACwCACdASogACAAPtEutFooIagoGAEAGgloAK5LwdYBUgZgEaDDazIfHX89_9Tg3ehf-uS0P8w6xkwIpzzjQkORpvXAnv8dOQiFeG8mpgAA_v7DniJXSLEe31_-LOZ32njIDN5UFTAmFueHk4cXYg_ytGmzyY5gAq7_G9f6jcJ_OiWab07eN7jb-uw6UTwyA5BWv3r4jgZWGKUAEz_afwGmR1SVOYCR2qKFNuv6_5a2dW03QntWF6YhwN7cd4-HQwgKfFe9yWEQMOfYzFvwNUbKUz5a5pWYNFvMTMXOMDCsDKr2wEILR1IDVliuFzqMvdIJPqYdFttX7sJJoIYypXp514TMc_bZfTPnRe3rXneOfB2PY84h_7YrIwpcWPJ_Pfcd_vYwwe6yFXn17jBCM3xI9l373JAgRyUH2wi_0BoG6Fch34sBfh1MHjpuK78sR6f8qB-jHs3JUbmrwGf7utRJCL7XGfqew_AFRnjWManWLwXQmUpcOjvv6vHedOpyu_07bKhvq0CqdaQ-DJ108kUmfLZ4cubKViRo3fQe4e2obPvXUGPvX-dWv3oJNK4jnGKErSJ92bUpo-voDu99whW2eVO03Fieh4Yt67XC4uDemxd9VyK19AAA.webp",
+      "source_info_link": "https://phrma.org/about"
      }
     },
-    "displayed_link": "https://www.michaelpage.co.in › ref",
-    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACwBQCdASogACAAPtEutFooIagoGAEAGglAAnEqaZvMDUvtB5ZADd5jo1zXA32yhATN1_Dw-kgA_v7CF__fFc_yNEJ2Ie53E4mWjqv1lBkqSh8BqfjeTQwP2v5vzUy8KuOfjHurcIdXP_uhvUpAAtpc2k4eTBlk2H4-Xjxi8POj9Zcdr7xyiy8I-HyYLN97tSx3wcK_aQArxwl_3D9b5c6K0HgjM9edusgyxcRnKfm1trVg32IwvSYcB8037YDQfHz3FBU3aS7gFG-51NNp9EX5mZtZxyYh8BRDeZuVTffBCPI1ToYJa26mdifiDnr3Cj25QAAA.webp",
-    "link": "https://www.michaelpage.co.in/job-detail/react-developer/ref/jn-032026-6968309",
+    "displayed_link": "https://phrma.org › about",
+    "favicon": "https://serpapi.com/images/i/UklGRuQBAABXRUJQVlA4INgBAACwCACdASogACAAPtEutFooIagoGAEAGgloAK5LwdYBUgZgEaDDazIfHX89_9Tg3ehf-uS0P8w6xkwIpzzjQkORpvXAnv8dOQiFeG8mpgAA_v7DniJXSLEe31_-LOZ32njIDN5UFTAmFueHk4cXYg_ytGmzyY5gAq7_G9f6jcJ_OiWab07eN7jb-uw6UTwyA5BWv3r4jgZWGKUAEz_afwGmR1SVOYCR2qKFNuv6_5a2dW03QntWF6YhwN7cd4-HQwgKfFe9yWEQMOfYzFvwNUbKUz5a5pWYNFvMTMXOMDCsDKr2wEILR1IDVliuFzqMvdIJPqYdFttX7sJJoIYypXp514TMc_bZfTPnRe3rXneOfB2PY84h_7YrIwpcWPJ_Pfcd_vYwwe6yFXn17jBCM3xI9l373JAgRyUH2wi_0BoG6Fch34sBfh1MHjpuK78sR6f8qB-jHs3JUbmrwGf7utRJCL7XGfqew_AFRnjWManWLwXQmUpcOjvv6vHedOpyu_07bKhvq0CqdaQ-DJ108kUmfLZ4cubKViRo3fQe4e2obPvXUGPvX-dWv3oJNK4jnGKErSJ92bUpo-voDu99whW2eVO03Fieh4Yt67XC4uDemxd9VyK19AAA.webp",
+    "link": "https://phrma.org/about",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFVWWeU6-cI2DTRGRXC2oW41lMxIRLdUg16UIbVs1BjTiEMKpvceK48TKDq8DpfSTRHEkxQN7pIIGb4ZaMoLQ9CnQKIe892ObBzrLxSVFlFCBjAAVEQTU7d-61HZcc2f_hyHFpiHB4xH8oIipbsZcw7Sv_1iT23GZYRBLjpkUilGa_w&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQFnoECBUQAQ&uoh=1",
-    "snippet": "We are seeking a skilled React Developer to join a growing team in Navi Mumbai. This role requires proficiency in building and maintaining scalable web ...",
+    "read_more_link": "https://phrma.org/about#:~:text=Stay%20current%20on%20policy%20making",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAV2T6YfVyjkl20uhdwgfZlTt9I6smJRfUEdJo4sFrturaRXiDGlooQYk86U1r3oWMoGszpgIH9zZktuoJYuEFsGign18ZcIMYL6ZSSCXg&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQFnoECCMQAQ&uoh=1",
+    "snippet": "Working for Cures is the leading voice of the more than 1,000,000 direct employees of biopharmaceutical research companies and vaccine manufacturers across the ...",
     "snippet_highlighted_words": [
-     "React Developer"
+     "companies",
+     "manufacturers"
     ],
-    "source": "Michael Page",
-    "title": "React Developer - JN-032026-6968309"
+    "source": "PhRMA",
+    "title": "About"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiTHBfVFFfNlFhQnM5dTBMOXBMNHFvZFVkNzV6c0s4V2VFLTVVS1ZLNmZpWkZFVTBKMVVXak80R042V0VqRE5EWVJJbGk2eGNVTjAzTkNiYXRWMWl6TnlaTlVpQ3pCXzFhLXFqNlNoTWxTSGVySF9EOUptVWxFb2JZeVgxam5OMTRDSzBDNkZUYnB6M0NhQkptMWpBTEE0SkVZRFdpaWlxTVpvcURZUEhCdFZ5MjlheU5HZEY3c1dXNGROeGpjN3hiNUJCLWZ3M1ESBBoCCAAaggQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDcAwgAEAAYACAAKgwKBXdoaWNoFQj8lUAy4AEvZ290bz91cmw9Q0FFU213RUI2enN3RmJMcF9UUV82UWFCczl1MEw5cEw0cW9kVWQ3NXpzSzhXZUUtNVVLVks2ZmlaRkVVMEoxVVdqTzRHTjZXRWpETkRZUklsaTZ4Y1VOMDNOQ2JhdFYxaXpOeVpOVWlDekJfMWEtcWo2U2hNbFNIZXJIX0Q5Sm1VbEVvYll5WDFqbk4xNENLMEM2RlRicHozQ2FCSm0xakFMQTRKRVlEV2lpaXFNWm9xRFlQSEJ0VnkyOWF5TkdkRjdzV1c0ZE54amM3eGI1QkItZnczUTpDT3ZlciAxLDAwMCA8Yj5Db21wYW5pZXM8L2I-IEhhdmUgQ3VydGFpbGVkIE9wZXJhdGlvbnMgaW4gUnVzc2lhIC4uLkKSAVVwZGF0ZWQgb246IDkvMjYvMjAyNi4gU2luY2UgdGhlIGludmFzaW9uIG9mIFVrcmFpbmUgYmVnYW4sIHdlIGhhdmUgYmVlbiB0cmFja2luZyB0aGUgcmVzcG9uc2VzIG9mIHdlbGwgb3ZlciAxLDUwMCA8Yj5jb21wYW5pZXM8L2I-LCBhbmQgY291bnRpbmcuSgJpbkoDYXJlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiTHBfVFFfNlFhQnM5dTBMOXBMNHFvZFVkNzV6c0s4V2VFLTVVS1ZLNmZpWkZFVTBKMVVXak80R042V0VqRE5EWVJJbGk2eGNVTjAzTkNiYXRWMWl6TnlaTlVpQ3pCXzFhLXFqNlNoTWxTSGVySF9EOUptVWxFb2JZeVgxam5OMTRDSzBDNkZUYnB6M0NhQkptMWpBTEE0SkVZRFdpaWlxTVpvcURZUEhCdFZ5MjlheU5HZEY3c1dXNGROeGpjN3hiNUJCLWZ3M1ESBBoCCAAaggQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDcAwgAEAAYACAAKgwKBXdoaWNoFQj8lUAy4AEvZ290bz91cmw9Q0FFU213RUI2enN3RmJMcF9UUV82UWFCczl1MEw5cEw0cW9kVWQ3NXpzSzhXZUUtNVVLVks2ZmlaRkVVMEoxVVdqTzRHTjZXRWpETkRZUklsaTZ4Y1VOMDNOQ2JhdFYxaXpOeVpOVWlDekJfMWEtcWo2U2hNbFNIZXJIX0Q5Sm1VbEVvYll5WDFqbk4xNENLMEM2RlRicHozQ2FCSm0xakFMQTRKRVlEV2lpaXFNWm9xRFlQSEJ0VnkyOWF5TkdkRjdzV1c0ZE54amM3eGI1QkItZnczUTpDT3ZlciAxLDAwMCA8Yj5Db21wYW5pZXM8L2I-IEhhdmUgQ3VydGFpbGVkIE9wZXJhdGlvbnMgaW4gUnVzc2lhIC4uLkKSAVVwZGF0ZWQgb246IDkvMjYvMjAyNi4gU2luY2UgdGhlIGludmFzaW9uIG9mIFVrcmFpbmUgYmVnYW4sIHdlIGhhdmUgYmVlbiB0cmFja2luZyB0aGUgcmVzcG9uc2VzIG9mIHdlbGwgb3ZlciAxLDUwMCA8Yj5jb21wYW5pZXM8L2I-LCBhbmQgY291bnRpbmcuSgJpbkoDYXJlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Apply to 77 React.js jobs in Mumbai. Find the highest paying React.js jobs in Mumbai at more than 10000 top MNCs and startups!",
-      "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAADwBACdASocABwAPtE-tFooIigoFAEAGglpALzhi1Rxtqny5sxZK-GcjeNru-bkmgAA_tihdkeLM3e08GgFOlWWCBW48SO1MXe0uvA6_VVOYOiN0q0f5eXyQCazJMX1iDdwnEPBmb_dTX9--e_YoWPa7rKlRN7XiFzKBdFA3zgeZ9zW11AJRN9UgsRTYJHnT-Rm43o6nqiNkeH3h4ZlJCUgxMFrJuBbIu7F42muzRKau3F7MAU8AA.webp",
-      "source_info_link": "https://www.instahyre.com/reactjs-jobs-in-mumbai/"
+      "description": "Updated on: 9/26/2026. Since the invasion of Ukraine began, we have been tracking the responses of well over 1,500 companies, and counting.",
+      "icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0ogdGGgD_gI-0dmL6O36voAfrMPHgyOMgw5HBqmcG-xr3iboNb_oAAAP72ErLeqGQolc0CSuYKLDomDLlrD2IjNtE3tlYh20aVpzfUE0HdYORf_PwSuxI1wthJPB9pGw7w9FA7-mHUfWsODwv_g0ifzTLEfM_mJNi-q6BqaPvbK5tQu0h7FkEgypus3SP-4OgW95JT__fc1N1beO6PmuMS_6OfDXqCuGd-ttmkUoE4jHztdyU5c-FsTv3Gv4n_X-KXeh7HkImu-o3xnHedNdo1fk9E_qF31abBOwyWnq8Cv_q5VwtdEe6RX1YbGeSl2TuoJ1pOSGrBYkjV5HR9mOUROh0Ju_cDCWpeLhaQnwkw6sdIQAAA.webp",
+      "source_info_link": "https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain"
      }
     },
-    "displayed_link": "https://www.instahyre.com › reactjs-...",
-    "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAADwBACdASocABwAPtE-tFooIigoFAEAGglpALzhi1Rxtqny5sxZK-GcjeNru-bkmgAA_tihdkeLM3e08GgFOlWWCBW48SO1MXe0uvA6_VVOYOiN0q0f5eXyQCazJMX1iDdwnEPBmb_dTX9--e_YoWPa7rKlRN7XiFzKBdFA3zgeZ9zW11AJRN9UgsRTYJHnT-Rm43o6nqiNkeH3h4ZlJCUgxMFrJuBbIu7F42muzRKau3F7MAU8AA.webp",
-    "link": "https://www.instahyre.com/reactjs-jobs-in-mumbai/",
+    "displayed_link": "https://som.yale.edu › story › over-1000-companies-ha...",
+    "favicon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0ogdGGgD_gI-0dmL6O36voAfrMPHgyOMgw5HBqmcG-xr3iboNb_oAAAP72ErLeqGQolc0CSuYKLDomDLlrD2IjNtE3tlYh20aVpzfUE0HdYORf_PwSuxI1wthJPB9pGw7w9FA7-mHUfWsODwv_g0ifzTLEfM_mJNi-q6BqaPvbK5tQu0h7FkEgypus3SP-4OgW95JT__fc1N1beO6PmuMS_6OfDXqCuGd-ttmkUoE4jHztdyU5c-FsTv3Gv4n_X-KXeh7HkImu-o3xnHedNdo1fk9E_qF31abBOwyWnq8Cv_q5VwtdEe6RX1YbGeSl2TuoJ1pOSGrBYkjV5HR9mOUROh0Ju_cDCWpeLhaQnwkw6sdIQAAA.webp",
+    "link": "https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVscqdmoepM55San1-hz3zqbEOV_GfCWA1HOy75slViHDgOon8Wp3P0Ico96OCoPSkdpSNP5GnHg2fmrEJTmpGPN4zfipbpLUpXnFjJhOizOKLY0RqQBY_cztfgioj0eLjPBsbQA&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQFnoECFMQAQ&uoh=1",
-    "snippet": "Apply to 77 React.js jobs in Mumbai. Find the highest paying React.js jobs in Mumbai at more than 10000 top MNCs and startups!",
+    "read_more_link": "https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain#:~:text=Updated%20on%3A,over%201%2C500%20companies%2C%20and%20counting.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFbLp_TQ_6QaBs9u0L9pL4qodUd75zsK8WeE-5UKVK6fiZFEU0J1UWjO4GN6WEjDNDYRIli6xcUN03NCbatV1izNyZNUiCzB_1a-qj6ShMlSHerH_D9JmUlEobYyX1jnN14CK0C6FTbpz3CaBJm1jALA4JEYDWiiiqMZoqDYPHBtVy29ayNGdF7sWW4dNxjc7xb5BB-fw3Q&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQFnoECEgQAQ&uoh=1",
+    "snippet": "Updated on: 9/26/2026. Since the invasion of Ukraine began, we have been tracking the responses of well over 1,500 companies, and counting.",
     "snippet_highlighted_words": [
-     "React.js jobs in Mumbai"
+     "companies"
     ],
-    "source": "Instahyre",
-    "title": "React.js jobs in Mumbai"
+    "source": "Yale School of Management",
+    "title": "Over 1,000 Companies Have Curtailed Operations in Russia ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmtQV3l4eF8xRk5mWnRCX1RuVzM0M1Z0WHN1bllZUjRWaFJESEJ1U3JWRjdsZ2RYMGZGaW5tT3JoYWNSQVhZR0J1YVRSN2xiVWpuWGZWNEVObS1rQXFDSW5oRVI2aXJLOExtNXJfT2EzTXRnWlBueHR4ZDJzOWhWeUR0cS1lZk43YkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmtQV3l4eF8xRk5mWnRCX1RuVzM0M1Z0WHN1bllZUjRWaFJESEJ1U3JWRjdsZ2RYMGZGaW5tT3JoYWNSQVhZR0J1YVRSN2xiVWpuWGZWNEVObS1rQXFDSW5oRVI2aXJLOExtNXJfT2EzTXRnWlBueHR4ZDJzOWhWeUR0cS1lZk43YkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
      "source": {
-      "description": "Apply to 50+ Frontend Developer Jobs in Mumbai on CutShort.io. Explore the latest Frontend Developer Job opportunities across top companies like Google, Amazon ...",
-      "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAACwBQCdASogACAAPtEutFooIagoGAEAGglsAL9nwUArHKry2HGcT6O8LMQFA5IOMNK5DyAsLgAA_v7CywQFIa15Ztt7F5zFVpIf3SZIGhSddJIjslJ8tWphYS04Vlbz_quIj1dg-fOluhwHx91MrMFX-qPO9esynvetUPq71a3o4sWCYS1vu_zU_S2LVf-2sn41iqPDwDnD4tpZ807X9Yr7WNKdC_t-f_wIRZ9_ifo7RGSY0YQgMlxFlA5KjK6HXwbNw_0R_7UCFkGijCojzNkRYaQKfva3HlWP1JKVqe3uQOvoKW6zPCnRcKx1qfP-bXuLRD97tC9fzkpUEaoK7m20X4r7FBZg_AAAAA.webp",
-      "source_info_link": "https://cutshort.io/jobs/frontend-developer-jobs-in-mumbai"
+      "description": "AI leaders like Sam Altman and Dario are reversing some of their predictions on the impact of AI. Let's take a closer look.",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
      }
     },
-    "displayed_link": "https://cutshort.io › jobs › frontend-d...",
-    "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAACwBQCdASogACAAPtEutFooIagoGAEAGglsAL9nwUArHKry2HGcT6O8LMQFA5IOMNK5DyAsLgAA_v7CywQFIa15Ztt7F5zFVpIf3SZIGhSddJIjslJ8tWphYS04Vlbz_quIj1dg-fOluhwHx91MrMFX-qPO9esynvetUPq71a3o4sWCYS1vu_zU_S2LVf-2sn41iqPDwDnD4tpZ807X9Yr7WNKdC_t-f_wIRZ9_ifo7RGSY0YQgMlxFlA5KjK6HXwbNw_0R_7UCFkGijCojzNkRYaQKfva3HlWP1JKVqe3uQOvoKW6zPCnRcKx1qfP-bXuLRD97tC9fzkpUEaoK7m20X4r7FBZg_AAAAA.webp",
-    "link": "https://cutshort.io/jobs/frontend-developer-jobs-in-mumbai",
+    "displayed_link": "166.6K+ views · 1 month ago",
+    "duration": "16:22",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "link": "https://www.youtube.com/watch?v=G0N9yxVHT38",
     "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVfJmNP83nJ-FVh3L2-jJLPnXWK9gBATL1Wrqb9t0noc6meOTJNlN4c429Lsbu7lXOZd4ad8LVyVi4Hiv7ieY3rbaK1xjpqnRot-ecuBUXNGsg_j_MhZVySVqRY7BSSqKMqnRZHl6x5gfPjye90g&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQFnoECFQQAQ&uoh=1",
-    "snippet": "Apply to 50+ Frontend Developer Jobs in Mumbai on CutShort.io. Explore the latest Frontend Developer Job opportunities across top companies like Google, Amazon ...",
-    "snippet_highlighted_words": [
-     "Google, Amazon"
-    ],
-    "source": "Cutshort",
-    "title": "50+ Frontend Developer Jobs in Mumbai"
+    "snippet": "AI leaders like Sam Altman and Dario are reversing some of their predictions on the impact of AI. Let's take a closer look.",
+    "source": "YouTube · NeetCode",
+    "thumbnail": "https://serpapi.com/searches/6ab98abbb9fc5f159aed6834/images/YLdF-v6l8jefEiBgQ-55d9ZkZaKxu3Yt0FKL7jjyNRk.jpeg",
+    "title": "Big companies are hiring again - a closer look"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlBuNjhEWXY5YlVYTU9JVm5fdWxZV3N5a3hKeFdMNFN1Xy1RR3pHY25DbHA0SFJsVUM4bm5NX1dNQjA4YTZQLXlibXBBSzV1Z3FUV0l4MXgyUmduTWcxcmVSWGFJMDdCRFNzYUdtazVlSkVlM0VDSnoySTYxYzZZOTdpNEdQRTYweXd2cjJuUmd6dzcwEgQaAggAGtcDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsQMIABAAGAAgACoMCgV3aGljaBXIvHlAMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlBuNjhEWXY5YlVYTU9JVm5fdWxZV3N5a3hKeFdMNFN1Xy1RR3pHY25DbHA0SFJsVUM4bm5NX1dNQjA4YTZQLXlibXBBSzV1Z3FUV0l4MXgyUmduTWcxcmVSWGFJMDdCRFNzYUdtazVlSkVlM0VDSnoySTYxYzZZOTdpNEdQRTYweXd2cjJuUmd6dzcwOiJMaXN0IG9mIDxiPkNvbXBhbmllczwvYj4gLSBTRUMuZ292QsYBVGlta2VuIDxiPkNvbXBhbnk8L2I-LiBUSlggPGI-Q29tcGFuaWVzPC9iPiBJbmMuIFRNUCBXb3JsZHdpZGUgSW5jLiBUb2xsIEJyb3RoZXJzIEluYy4gVG9yY2htYXJrIENvcnBvcmF0aW9uLiBUb3JvIDxiPkNvbXBhbnk8L2I-LiBUb3dlciBBdXRvbW90aXZlIEluYy4gVG95cyAmIzM5O1ImIzM5OyBVcyBJbmMuIFRyYW5zIFdvcmxkJm5ic3A7Li4uSgNhcmVKAmluIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlBuNjhEWXY5YlVYTU9JVm5fdWxZV3N5a3hKeFdMNFN1Xy1RR3pHY25DbHA0SFJsVUM4bm5NX1dNQjA4YTZQLXlibXBBSzV1Z3FUV0l4MXgyUmduTWcxcmVSWGFJMDdCRFNzYUdtazVlSkVlM0VDSnoySTYxYzZZOTdpNEdQRTYweXd2cjJuUmd6dzcwEgQaAggAGtcDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsQMIABAAGAAgACoMCgV3aGljaBXIvHlAMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlBuNjhEWXY5YlVYTU9JVm5fdWxZV3N5a3hKeFdMNFN1Xy1RR3pHY25DbHA0SFJsVUM4bm5NX1dNQjA4YTZQLXlibXBBSzV1Z3FUV0l4MXgyUmduTWcxcmVSWGFJMDdCRFNzYUdtazVlSkVlM0VDSnoySTYxYzZZOTdpNEdQRTYweXd2cjJuUmd6dzcwOiJMaXN0IG9mIDxiPkNvbXBhbmllczwvYj4gLSBTRUMuZ292QsYBVGlta2VuIDxiPkNvbXBhbnk8L2I-LiBUSlggPGI-Q29tcGFuaWVzPC9iPiBJbmMuIFRNUCBXb3JsZHdpZGUgSW5jLiBUb2xsIEJyb3RoZXJzIEluYy4gVG9yY2htYXJrIENvcnBvcmF0aW9uLiBUb3JvIDxiPkNvbXBhbnk8L2I-LiBUb3dlciBBdXRvbW90aXZlIEluYy4gVG95cyAmIzM5O1ImIzM5OyBVcyBJbmMuIFRyYW5zIFdvcmxkJm5ic3A7Li4uSgNhcmVKAmluIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Companies hiring for React Developer jobs in Mumbai include Jero Technologies, Logic Planet It Services, GoDigi InfoTech. Openings may change based on ...",
-      "icon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3loiFgv9c9oXixiVTAkvtsEtGmn1wgM1AAAP72Als7XKYYzLq-tgK3pW484tBhFCfELmuGXFgD2Wb_j1n4P5LgC4uqLPFPHjwb4bUmdLs91VMwV35t1We9AkjJIk3xZ_4s-bw45k7X4uw_xSpRk-8QzqXz8g43HLE7Aj4uDkMdmm9b_iQ6bNzHLHxxcQ3q1ane7BI3tFnt_zdP1Wh1A6X1E3Wf1vpaxDx9GeInNon-uk9PL6rAGWCDxQTrPK2SAAA.webp",
-      "source_info_link": "https://www.ambitionbox.com/jobs/react-developer-jobs-in-mumbai-prfloc"
+      "description": "Timken Company. TJX Companies Inc. TMP Worldwide Inc. Toll Brothers Inc. Torchmark Corporation. Toro Company. Tower Automotive Inc. Toys 'R' Us Inc. Trans World ...",
+      "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAADQBQCdASocABwAPtEutFooIagoGAEAGglAFve2LjArYvcmg4E42rZ9zO1AVnvdt5NvK38rUNAAAP72CQGh_6GnIDQSC7LxBwkFqe-Dw1AVL2vaaSSj1OWvHDp40xYfgoHtPgL9xdNPOoSK81o4p7SjtVPJNV3uC0Y8PIvTpqpVRnn3H9IK76RpOEMW2DwMT2p28QVHpb5MpSIGqhq-XxZiBtDi4Pa0HC-Rmf5PqKt_x6HSe6O_NeyVLGSmCHYZIhR8MG630X6dM2iNJrZ7FPinQW0Hzz2nD8bh9anuZ2n7H4At93Yt2QAA.webp",
+      "source_info_link": "https://www.sec.gov/files/rules/other/4-460list.htm"
      }
     },
-    "displayed_link": "https://www.ambitionbox.com › jobs",
-    "favicon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3loiFgv9c9oXixiVTAkvtsEtGmn1wgM1AAAP72Als7XKYYzLq-tgK3pW484tBhFCfELmuGXFgD2Wb_j1n4P5LgC4uqLPFPHjwb4bUmdLs91VMwV35t1We9AkjJIk3xZ_4s-bw45k7X4uw_xSpRk-8QzqXz8g43HLE7Aj4uDkMdmm9b_iQ6bNzHLHxxcQ3q1ane7BI3tFnt_zdP1Wh1A6X1E3Wf1vpaxDx9GeInNon-uk9PL6rAGWCDxQTrPK2SAAA.webp",
-    "link": "https://www.ambitionbox.com/jobs/react-developer-jobs-in-mumbai-prfloc",
+    "displayed_link": "https://www.sec.gov › files › rules › other",
+    "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAADQBQCdASocABwAPtEutFooIagoGAEAGglAFve2LjArYvcmg4E42rZ9zO1AVnvdt5NvK38rUNAAAP72CQGh_6GnIDQSC7LxBwkFqe-Dw1AVL2vaaSSj1OWvHDp40xYfgoHtPgL9xdNPOoSK81o4p7SjtVPJNV3uC0Y8PIvTpqpVRnn3H9IK76RpOEMW2DwMT2p28QVHpb5MpSIGqhq-XxZiBtDi4Pa0HC-Rmf5PqKt_x6HSe6O_NeyVLGSmCHYZIhR8MG630X6dM2iNJrZ7FPinQW0Hzz2nD8bh9anuZ2n7H4At93Yt2QAA.webp",
+    "link": "https://www.sec.gov/files/rules/other/4-460list.htm",
     "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAV8NATNNH0x9H0Tjru17PW67i3nWnwa1RnCbntskFISSTRKqLVnbKElcKiBxsH9vj_f_E8n1jsHwl7j9WkCAVEsOSLFJFXce5dMU8_6r-ZU6njtIMJtia_b_ZPokqzVPYSV2arkgyZBi-K62tbCkPA1Y4E33vJSqYrEA&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQFnoECFUQAQ&uoh=1",
-    "snippet": "Companies hiring for React Developer jobs in Mumbai include Jero Technologies, Logic Planet It Services, GoDigi InfoTech. Openings may change based on ...",
+    "read_more_link": "https://www.sec.gov/files/rules/other/4-460list.htm#:~:text=Timken%20Company,Trans%20World%20Entertainment%20Corp.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVPn68DYv9bUXMOIVn_ulYWsykxJxWL4Su_-QGzGcnClp4HRlUC8nnM_WMB08a6P-ybmpAK5ugqTWIx1x2RgnMg1reRXaI07BDSsaGmk5eJEe3ECJz2I61c6Y97i4GPE60ywvr2nRgzw70&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQFnoECEcQAQ&uoh=1",
+    "snippet": "Timken Company. TJX Companies Inc. TMP Worldwide Inc. Toll Brothers Inc. Torchmark Corporation. Toro Company. Tower Automotive Inc. Toys 'R' Us Inc. Trans World ...",
     "snippet_highlighted_words": [
-     "React Developer jobs in Mumbai"
+     "Company",
+     "Companies",
+     "Company"
     ],
-    "source": "AmbitionBox",
-    "title": "React Developer Jobs In Mumbai"
+    "source": "SEC.gov",
+    "title": "List of Companies"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=10&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8NMDegQIRRAW",
+   "next": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&ei=u4q5asPgL8mB5OMPhc2JwQM&start=10&sa=N&sstk=AS6-VmKlbdQe3yGYe-la90RO1nYQQafQq6z-PwEqUYq1O2F0WcA2jZtkupl_IF0HxZogRY-AhHS_TAQVFhgjce0OqzpUpVKzv55GxQ&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ8NMDegQIOxAG",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=90&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8tMDegQIRRAU",
-    "2": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=10&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8tMDegQIRRAE",
-    "3": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=20&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8tMDegQIRRAG",
-    "4": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=30&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8tMDegQIRRAI",
-    "5": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=40&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8tMDegQIRRAK",
-    "6": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=50&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8tMDegQIRRAM",
-    "7": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=60&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8tMDegQIRRAO",
-    "8": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=70&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8tMDegQIRRAQ",
-    "9": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=646215d9fbd2647e&ei=Isevar39BKKh0PEP5Oqq0QE&start=80&sa=N&sstk=AS6-VmIJqAdmzV9VLtxt8eHnRKxGyRY-vHTdJ9zDdBIy2cFb_8B5ng9T6OLmcDmLb0vViGT9TJYZr6W666yXGTBAeawtKLmbXBOjyw&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ8tMDegQIRRAS"
+    "2": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&ei=u4q5asPgL8mB5OMPhc2JwQM&start=10&sa=N&sstk=AS6-VmKlbdQe3yGYe-la90RO1nYQQafQq6z-PwEqUYq1O2F0WcA2jZtkupl_IF0HxZogRY-AhHS_TAQVFhgjce0OqzpUpVKzv55GxQ&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ8tMDegQIOxAE"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmEwcHBhMGhUVjAxVGFGZzVaMm8zYkRWaE5WbGZkVUUzYldoT1RISm5abUpZTlhWcmVrazFZbFJLY3paVWF6TlZPRTFVTlRReE5HaHlWak5mZDFwd2J6UkRlVzFrTVhkSWNFczBNVTVuTUZsNE1FRTVkMlo0Ukc1clVSSVhTWE5sZG1GeU16bENTMHRvTUZCRlVEVlBjWEV3VVVVYUlrRkVjM0k1WmxKcFZ6aG1kMWN5Vm05T01GazBOVUpGV0VSRlZreEhVR05YVTNjIiwiZmN2IjoiMyIsImVpIjoiSXNldmFyMzlCS0toMFBFUDVPcXEwUUUiLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmVEQtR2o4IiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBoaXJlIFJlYWN0SlMgZGV2ZWxvcGVycz8iLCJsayI6IkdoaG9hWEpsSUhKbFlXTjBJR3B6SUdSbGRtVnNiM0JsY25NIiwiYnMiOiJjMzJQUHd2Q01CREZjYzNrS0ptdVdQLXQtUUlCSnl1SW9Fam5zejFOcEVsTFVpMS1lOU02YUJYZDd1NzkzajBlVzdJNFZlUUlNclNRZ05KaDNCRm05WG9QT2Qyb0tDdHlYZ3JPUjUzbVdnMHVfazFrS3hZbF90Tmx5TmFnYlZnTjJseUtNWS0wXzdMM0tYWmc4MVJodUhpb0ZZSEhBdDBkeWhQZzhfMHJWWW9GbnpVX1dOZG4yWlpOVXFVekJWbHBLclNhUEdEb0VncHBlMjdqTjFkelJDM0ZsTWZOWDlCMDRIRHdBQSIsImlkIjoiZmNfSXNldmFyMzlCS0toMFBFUDVPcXEwUUVfMiJ9",
-    "page_token": "z8AicnicHdDNToMwAADg-DI7Dhgwx5LFyPiTCAuFttCLKe0GW_lzVNm4-S4-lU-j8f6dvq_v5tyJn4e8lnIYt4oyTdOy6vuqOS5Z3yp0vHdMYbRpSsrEdv241p5ObOeOk73vJzuBw4AcoGYBcJl7i3DL9wdsxdFqMLjgL9lK6gyjnGEA2QwCBL2C-ZYGYN2kyGpzNbzGbi2OHZA8I0ECiU5aq6cZuSYtcgvB3VQdQAzDfdkBE1_QB8DWOVYbk67iEMBhTEQoKQ4RhkJPHV6XwjBi4RWlz1Xc2T2dw_di5gXBqEvbjVFqUGVelXpqM5Oc1OwSmYmQr9SxE4CetUz3bpHnef45tEEQ3w-YwBQN3Z-ZWLMxuObqKbZmIJCDhDTLVhLih_rixD53-uJ_bPd2auV2uPbVL2PleLM",
-    "question": "Where can I hire ReactJS developers?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=z8AicnicHdDNToMwAADg-DI7Dhgwx5LFyPiTCAuFttCLKe0GW_lzVNm4-S4-lU-j8f6dvq_v5tyJn4e8lnIYt4oyTdOy6vuqOS5Z3yp0vHdMYbRpSsrEdv241p5ObOeOk73vJzuBw4AcoGYBcJl7i3DL9wdsxdFqMLjgL9lK6gyjnGEA2QwCBL2C-ZYGYN2kyGpzNbzGbi2OHZA8I0ECiU5aq6cZuSYtcgvB3VQdQAzDfdkBE1_QB8DWOVYbk67iEMBhTEQoKQ4RhkJPHV6XwjBi4RWlz1Xc2T2dw_di5gXBqEvbjVFqUGVelXpqM5Oc1OwSmYmQr9SxE4CetUz3bpHnef45tEEQ3w-YwBQN3Z-ZWLMxuObqKbZmIJCDhDTLVhLih_rixD53-uJ_bPd2auV2uPbVL2PleLM",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmEwcHBhMGhUVjAxVGFGZzVaMm8zYkRWaE5WbGZkVUUzYldoT1RISm5abUpZTlhWcmVrazFZbFJLY3paVWF6TlZPRTFVTlRReE5HaHlWak5mZDFwd2J6UkRlVzFrTVhkSWNFczBNVTVuTUZsNE1FRTVkMlo0Ukc1clVSSVhTWE5sZG1GeU16bENTMHRvTUZCRlVEVlBjWEV3VVVVYUlrRkVjM0k1WmxKcFZ6aG1kMWN5Vm05T01GazBOVUpGV0VSRlZreEhVR05YVTNjIiwiZmN2IjoiMyIsImVpIjoiSXNldmFyMzlCS0toMFBFUDVPcXEwUUUiLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmVEQtR2o4IiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBoaXJlIFJlYWN0SlMgZGV2ZWxvcGVycz8iLCJsayI6IkdoaG9hWEpsSUhKbFlXTjBJR3B6SUdSbGRtVnNiM0JsY25NIiwiYnMiOiJjMzJQUHd2Q01CREZjYzNrS0ptdVdQLXQtUUlCSnl1SW9Fam5zejFOcEVsTFVpMS1lOU02YUJYZDd1NzkzajBlVzdJNFZlUUlNclNRZ05KaDNCRm05WG9QT2Qyb0tDdHlYZ3JPUjUzbVdnMHVfazFrS3hZbF90Tmx5TmFnYlZnTjJseUtNWS0wXzdMM0tYWmc4MVJodUhpb0ZZSEhBdDBkeWhQZzhfMHJWWW9GbnpVX1dOZG4yWlpOVXFVekJWbHBLclNhUEdEb0VncHBlMjdqTjFkelJDM0ZsTWZOWDlCMDRIRHdBQSIsImlkIjoiZmNfSXNldmFyMzlCS0toMFBFUDVPcXEwUUVfMiJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwVk9iMmR2VTIwelRHazViVlJSYTE5RFEzWllNbTVVU2s5dVpqVnlWVWx1U2pSU2JXa3RXWGR5UTA1bFZYUkRaVTFJUmpOZk1qaDBkV2Q0T0dsWVNreEtkM0ZLYnpOcE5tMHpZWGd6Y1ZWR2NGRXhhbFZ0V0c5U1p4SVhkVFJ4TldGelVHZE1PRzFDTlU5TlVHaGpNa3AzVVUwYUlrRkVjM0k1WmxKTlZYUm1MVzV4V1VSc05EVm5hM05LTUV0a2FHYzVkbVZwV21jIiwiZmN2IjoiMyIsImVpIjoidTRxNWFzUGdMOG1CNU9NUGhjMkp3UU0iLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmWUJkTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgSVQgY29tcGFuaWVzIGluIE11bWJhaT8iLCJsayI6IkdoeDBiM0FnTlNCcGRDQmpiMjF3WVc1cFpYTWdhVzRnYlhWdFltRnAiLCJicyI6ImMtUHk0ZElLejBnc1VVZ3NTbFVveVFEaV9BSUZVd1hQRUlYa19OeUN4THpNMUdLRnpEd0YzOUxjcE1STWV5TTVLUm1JZ3N3U1ZBVzVZQVZjTVZ4R0tLWWxwUllqS3l6SlZ5alBMOHBXU01zdlFqWlZUVW9GdjBLbzZkWmN5czZKZVFxVi1hVUs2WmxscVFxNXFRcUdCZ1lHVUgyVkNubUp1YW5GOWtZaVVrS1l3bHktWENvb1RqTlZTTXBNVHdkWmkteFpleU5WS2VWeTdPcVFfU3pBQ0FBIiwiaWQiOiJmY191NHE1YXNQZ0w4bUI1T01QaGMySndRTV81In0=",
+    "page_token": "GqQXo3icHdBfToMwHADgeJk9upb90S1ZjA4Y07UZHf2V9cWUMsagjOpQGG_exVN5Go0n-JLv69uczuXPzWfeNPYyHw7btr091vXRHG51XQ3V5XrWQ62MSZQu59O7KX7I9ML7WD8t39ZPIbcWXIaiVQd7kVpd-RsKM8nhsU1cfwRXjFR5j5NAdqqnSgYQx4gtNVhKY8ZUBEgHcsMiQwT4u0jQOsHHnpSTqXJ0Q_Cz5N7MaNfDe2fcEEf3h5U8UacDQEB0ZSnh-Tt3n02KLg07-yTxZkBdFqVgtlyMJ6yiQvGJEi7LlMvWIaRi50uke1ocRJftVrbbcNyEiG5FQS0NcublKabBnxnTUKJ2nPA1jhAO1Ypcd-eURaw-hZz1ujAVuKEj4nLEA7jKavYCPumSIPd1nxYRvu95sXd4OMj052I0-P9cvGZVM7fv9fEXD1OBqQ",
+    "question": "What are the top 5 IT companies in Mumbai?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GqQXo3icHdBfToMwHADgeJk9upb90S1ZjA4Y07UZHf2V9cWUMsagjOpQGG_exVN5Go0n-JLv69uczuXPzWfeNPYyHw7btr091vXRHG51XQ3V5XrWQ62MSZQu59O7KX7I9ML7WD8t39ZPIbcWXIaiVQd7kVpd-RsKM8nhsU1cfwRXjFR5j5NAdqqnSgYQx4gtNVhKY8ZUBEgHcsMiQwT4u0jQOsHHnpSTqXJ0Q_Cz5N7MaNfDe2fcEEf3h5U8UacDQEB0ZSnh-Tt3n02KLg07-yTxZkBdFqVgtlyMJ6yiQvGJEi7LlMvWIaRi50uke1ocRJftVrbbcNyEiG5FQS0NcublKabBnxnTUKJ2nPA1jhAO1Ypcd-eURaw-hZz1ujAVuKEj4nLEA7jKavYCPumSIPd1nxYRvu95sXd4OMj052I0-P9cvGZVM7fv9fEXD1OBqQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwVk9iMmR2VTIwelRHazViVlJSYTE5RFEzWllNbTVVU2s5dVpqVnlWVWx1U2pSU2JXa3RXWGR5UTA1bFZYUkRaVTFJUmpOZk1qaDBkV2Q0T0dsWVNreEtkM0ZLYnpOcE5tMHpZWGd6Y1ZWR2NGRXhhbFZ0V0c5U1p4SVhkVFJ4TldGelVHZE1PRzFDTlU5TlVHaGpNa3AzVVUwYUlrRkVjM0k1WmxKTlZYUm1MVzV4V1VSc05EVm5hM05LTUV0a2FHYzVkbVZwV21jIiwiZmN2IjoiMyIsImVpIjoidTRxNWFzUGdMOG1CNU9NUGhjMkp3UU0iLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmWUJkTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgSVQgY29tcGFuaWVzIGluIE11bWJhaT8iLCJsayI6IkdoeDBiM0FnTlNCcGRDQmpiMjF3WVc1cFpYTWdhVzRnYlhWdFltRnAiLCJicyI6ImMtUHk0ZElLejBnc1VVZ3NTbFVveVFEaV9BSUZVd1hQRUlYa19OeUN4THpNMUdLRnpEd0YzOUxjcE1STWV5TTVLUm1JZ3N3U1ZBVzVZQVZjTVZ4R0tLWWxwUllqS3l6SlZ5alBMOHBXU01zdlFqWlZUVW9GdjBLbzZkWmN5czZKZVFxVi1hVUs2WmxscVFxNXFRcUdCZ1lHVUgyVkNubUp1YW5GOWtZaVVrS1l3bHktWENvb1RqTlZTTXBNVHdkWmkteFpleU5WS2VWeTdPcVFfU3pBQ0FBIiwiaWQiOiJmY191NHE1YXNQZ0w4bUI1T01QaGMySndRTV81In0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmEwcHBhMGhUVjAxVGFGZzVaMm8zYkRWaE5WbGZkVUUzYldoT1RISm5abUpZTlhWcmVrazFZbFJLY3paVWF6TlZPRTFVTlRReE5HaHlWak5mZDFwd2J6UkRlVzFrTVhkSWNFczBNVTVuTUZsNE1FRTVkMlo0Ukc1clVSSVhTWE5sZG1GeU16bENTMHRvTUZCRlVEVlBjWEV3VVVVYUlrRkVjM0k1WmxKcFZ6aG1kMWN5Vm05T01GazBOVUpGV0VSRlZreEhVR05YVTNjIiwiZmN2IjoiMyIsImVpIjoiSXNldmFyMzlCS0toMFBFUDVPcXEwUUUiLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmVEQtR2o4IiwicXVlc3Rpb24iOiJJcyBSZWFjdEpTIGRldmVsb3BtZW50IGluIGRlbWFuZD8iLCJsayI6IkdpRnBjeUJ5WldGamRDQnFjeUJrWlhabGJHOXdiV1Z1ZENCcGJpQmtaVzFoYm1RIiwiYnMiOiJjMzJQUHd2Q01CREZjYzNrS0ptdVdQLXQtUUlCSnl1SW9Fam5zejFOcEVsTFVpMS1lOU02YUJYZDd1NzkzajBlVzdJNFZlUUlNclNRZ05KaDNCRm05WG9QT2Qyb0tDdHlYZ3JPUjUzbVdnMHVfazFrS3hZbF90Tmx5TmFnYlZnTjJseUtNWS0wXzdMM0tYWmc4MVJodUhpb0ZZSEhBdDBkeWhQZzhfMHJWWW9GbnpVX1dOZG4yWlpOVXFVekJWbHBLclNhUEdEb0VncHBlMjdqTjFkelJDM0ZsTWZOWDlCMDRIRHdBQSIsImlkIjoiZmNfSXNldmFyMzlCS0toMFBFUDVPcXEwUUVfMiJ9",
-    "page_token": "WfCXGHicHdBRbpswHIBx9TJ9bDAs2RIpmkTACK8Y2fA3Di-TY5qQYIOX0ELz1rv0VDvNql3g-0nfx6c5993fh7d2HN1ts1hM0_R0GoaTeXnSg12o23uvF1oZc1C626y-r9DPo97Gr2m4-5OGDJwTEfeKriUamrmU7puAMdlXo8d9dMtKPlOcoaoaV6U3ZgCYFTI8a9tehJ2CwwU8FYmd8B0rA5JIxKMsaa6As6XCjag7F2fYGA7EZ3dyZpYISEbaeK1j3vpS2w7RHg959WMuqnTZdITk0hUKHH6ulrsXwSZqZ5zLRtaRycuA-odOf7VdWttG1QInhS9oEdHjoecOpL5DgnjcNkT7wt_L9J4DeS780wSxYBTWsy5DzvlwZsDv-mIs9DRUMhwUoEEH4peOp6BAa1Qn6ZRLc_2y94w9HvXbNnj8_3P7-2jHjbsOp3-cXIJR",
-    "question": "Is ReactJS development in demand?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WfCXGHicHdBRbpswHIBx9TJ9bDAs2RIpmkTACK8Y2fA3Di-TY5qQYIOX0ELz1rv0VDvNql3g-0nfx6c5993fh7d2HN1ts1hM0_R0GoaTeXnSg12o23uvF1oZc1C626y-r9DPo97Gr2m4-5OGDJwTEfeKriUamrmU7puAMdlXo8d9dMtKPlOcoaoaV6U3ZgCYFTI8a9tehJ2CwwU8FYmd8B0rA5JIxKMsaa6As6XCjag7F2fYGA7EZ3dyZpYISEbaeK1j3vpS2w7RHg959WMuqnTZdITk0hUKHH6ulrsXwSZqZ5zLRtaRycuA-odOf7VdWttG1QInhS9oEdHjoecOpL5DgnjcNkT7wt_L9J4DeS780wSxYBTWsy5DzvlwZsDv-mIs9DRUMhwUoEEH4peOp6BAa1Qn6ZRLc_2y94w9HvXbNnj8_3P7-2jHjbsOp3-cXIJR",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmEwcHBhMGhUVjAxVGFGZzVaMm8zYkRWaE5WbGZkVUUzYldoT1RISm5abUpZTlhWcmVrazFZbFJLY3paVWF6TlZPRTFVTlRReE5HaHlWak5mZDFwd2J6UkRlVzFrTVhkSWNFczBNVTVuTUZsNE1FRTVkMlo0Ukc1clVSSVhTWE5sZG1GeU16bENTMHRvTUZCRlVEVlBjWEV3VVVVYUlrRkVjM0k1WmxKcFZ6aG1kMWN5Vm05T01GazBOVUpGV0VSRlZreEhVR05YVTNjIiwiZmN2IjoiMyIsImVpIjoiSXNldmFyMzlCS0toMFBFUDVPcXEwUUUiLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmVEQtR2o4IiwicXVlc3Rpb24iOiJJcyBSZWFjdEpTIGRldmVsb3BtZW50IGluIGRlbWFuZD8iLCJsayI6IkdpRnBjeUJ5WldGamRDQnFjeUJrWlhabGJHOXdiV1Z1ZENCcGJpQmtaVzFoYm1RIiwiYnMiOiJjMzJQUHd2Q01CREZjYzNrS0ptdVdQLXQtUUlCSnl1SW9Fam5zejFOcEVsTFVpMS1lOU02YUJYZDd1NzkzajBlVzdJNFZlUUlNclNRZ05KaDNCRm05WG9QT2Qyb0tDdHlYZ3JPUjUzbVdnMHVfazFrS3hZbF90Tmx5TmFnYlZnTjJseUtNWS0wXzdMM0tYWmc4MVJodUhpb0ZZSEhBdDBkeWhQZzhfMHJWWW9GbnpVX1dOZG4yWlpOVXFVekJWbHBLclNhUEdEb0VncHBlMjdqTjFkelJDM0ZsTWZOWDlCMDRIRHdBQSIsImlkIjoiZmNfSXNldmFyMzlCS0toMFBFUDVPcXEwUUVfMiJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwVk9iMmR2VTIwelRHazViVlJSYTE5RFEzWllNbTVVU2s5dVpqVnlWVWx1U2pSU2JXa3RXWGR5UTA1bFZYUkRaVTFJUmpOZk1qaDBkV2Q0T0dsWVNreEtkM0ZLYnpOcE5tMHpZWGd6Y1ZWR2NGRXhhbFZ0V0c5U1p4SVhkVFJ4TldGelVHZE1PRzFDTlU5TlVHaGpNa3AzVVUwYUlrRkVjM0k1WmxKTlZYUm1MVzV4V1VSc05EVm5hM05LTUV0a2FHYzVkbVZwV21jIiwiZmN2IjoiMyIsImVpIjoidTRxNWFzUGdMOG1CNU9NUGhjMkp3UU0iLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmWUJkTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBjb21wYW5pZXMgdG8gd29yayBmb3IgaW4gTXVtYmFpPyIsImxrIjoiR2lSaVpYTjBJR052YlhCaGJtbGxjeUIwYnlCM2IzSnJJR1p2Y2lCcGJpQnRkVzFpWVdrIiwiYnMiOiJjLVB5NGRJS3owZ3NVVWdzU2xVb3lRRGlfQUlGVXdYUEVJWGtfTnlDeEx6TTFHS0Z6RHdGMzlMY3BNUk1leU01S1JtSWdzd1NWQVc1WUFWY01WeEdLS1lscFJZakt5ekpWeWpQTDhwV1NNc3ZRalpWVFVvRnYwS282ZFpjeXM2SmVRcVYtYVVLNlpsbHFRcTVxUXFHQmdZR1VIMlZDbm1KdWFuRjlrWWlVa0tZd2x5LVhDb29Uak5WU01wTVR3ZFppLXhaZXlOVktlVnk3T3FRX1N6QUNBQSIsImlkIjoiZmNfdTRxNWFzUGdMOG1CNU9NUGhjMkp3UU1fNSJ9",
+    "page_token": "7wd3IXicHdBLbqMwAIBhzWW6bDCPVI0UVaIxNGjwyMQP8GZkGxKKbWAKKUl2vcKcYU7V07Saxb_7Vv_HP_vam88ff9t5HqfNarUsy_1pGE62udeDW8np2uuVltYqqc1m_bAGT0e9he86fn7TMabjyHaFRyAiytS9JuhPzgcfGVYW3R6odPEpRwy57NA4cP4Fc0CC_a1xem6Y2El6MQQy-S2QACykaRaWwEQiGAdsUJ6X7UyDAgqSpN-thZmuvCt6ZVml-SlUHXNql0zNrt1XzrsoL0trTiPZZT5KH2HF7EXYpG9IFhVddsQm9GoPnXmCIu3aRZU0Irc8wjQpc2MHbXNfBmzSV3BWXp3KLvEVZDGx7U8GZ8pZnMC2BugFgqpEWHhLqOgeEA9gmebXQ18XpBheMS1uurOOktqpQGRVl1TaXQTnTBL6CCWJDSP1MzJixPjuqN-3wd3_19vfRzdvxrfh9AUuc4yR",
+    "question": "What are the best companies to work for in Mumbai?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7wd3IXicHdBLbqMwAIBhzWW6bDCPVI0UVaIxNGjwyMQP8GZkGxKKbWAKKUl2vcKcYU7V07Saxb_7Vv_HP_vam88ff9t5HqfNarUsy_1pGE62udeDW8np2uuVltYqqc1m_bAGT0e9he86fn7TMabjyHaFRyAiytS9JuhPzgcfGVYW3R6odPEpRwy57NA4cP4Fc0CC_a1xem6Y2El6MQQy-S2QACykaRaWwEQiGAdsUJ6X7UyDAgqSpN-thZmuvCt6ZVml-SlUHXNql0zNrt1XzrsoL0trTiPZZT5KH2HF7EXYpG9IFhVddsQm9GoPnXmCIu3aRZU0Irc8wjQpc2MHbXNfBmzSV3BWXp3KLvEVZDGx7U8GZ8pZnMC2BugFgqpEWHhLqOgeEA9gmebXQ18XpBheMS1uurOOktqpQGRVl1TaXQTnTBL6CCWJDSP1MzJixPjuqN-3wd3_19vfRzdvxrfh9AUuc4yR",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwVk9iMmR2VTIwelRHazViVlJSYTE5RFEzWllNbTVVU2s5dVpqVnlWVWx1U2pSU2JXa3RXWGR5UTA1bFZYUkRaVTFJUmpOZk1qaDBkV2Q0T0dsWVNreEtkM0ZLYnpOcE5tMHpZWGd6Y1ZWR2NGRXhhbFZ0V0c5U1p4SVhkVFJ4TldGelVHZE1PRzFDTlU5TlVHaGpNa3AzVVUwYUlrRkVjM0k1WmxKTlZYUm1MVzV4V1VSc05EVm5hM05LTUV0a2FHYzVkbVZwV21jIiwiZmN2IjoiMyIsImVpIjoidTRxNWFzUGdMOG1CNU9NUGhjMkp3UU0iLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmWUJkTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCBjb21wYW5pZXMgdG8gd29yayBmb3IgaW4gTXVtYmFpPyIsImxrIjoiR2lSaVpYTjBJR052YlhCaGJtbGxjeUIwYnlCM2IzSnJJR1p2Y2lCcGJpQnRkVzFpWVdrIiwiYnMiOiJjLVB5NGRJS3owZ3NVVWdzU2xVb3lRRGlfQUlGVXdYUEVJWGtfTnlDeEx6TTFHS0Z6RHdGMzlMY3BNUk1leU01S1JtSWdzd1NWQVc1WUFWY01WeEdLS1lscFJZakt5ekpWeWpQTDhwV1NNc3ZRalpWVFVvRnYwS282ZFpjeXM2SmVRcVYtYVVLNlpsbHFRcTVxUXFHQmdZR1VIMlZDbm1KdWFuRjlrWWlVa0tZd2x5LVhDb29Uak5WU01wTVR3ZFppLXhaZXlOVktlVnk3T3FRX1N6QUNBQSIsImlkIjoiZmNfdTRxNWFzUGdMOG1CNU9NUGhjMkp3UU1fNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmEwcHBhMGhUVjAxVGFGZzVaMm8zYkRWaE5WbGZkVUUzYldoT1RISm5abUpZTlhWcmVrazFZbFJLY3paVWF6TlZPRTFVTlRReE5HaHlWak5mZDFwd2J6UkRlVzFrTVhkSWNFczBNVTVuTUZsNE1FRTVkMlo0Ukc1clVSSVhTWE5sZG1GeU16bENTMHRvTUZCRlVEVlBjWEV3VVVVYUlrRkVjM0k1WmxKcFZ6aG1kMWN5Vm05T01GazBOVUpGV0VSRlZreEhVR05YVTNjIiwiZmN2IjoiMyIsImVpIjoiSXNldmFyMzlCS0toMFBFUDVPcXEwUUUiLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmVEQtR2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzYWxhcnkgb2YgYSBSZWFjdCBkZXZlbG9wZXI/IiwibGsiOiJHaWQzYUdGMElHbHpJSFJvWlNCellXeGhjbmtnYjJZZ1lTQnlaV0ZqZENCa1pYWmxiRzl3WlhJIiwiYnMiOiJjMzJQUHd2Q01CREZjYzNrS0ptdVdQLXQtUUlCSnl1SW9Fam5zejFOcEVsTFVpMS1lOU02YUJYZDd1NzkzajBlVzdJNFZlUUlNclNRZ05KaDNCRm05WG9QT2Qyb0tDdHlYZ3JPUjUzbVdnMHVfazFrS3hZbF90Tmx5TmFnYlZnTjJseUtNWS0wXzdMM0tYWmc4MVJodUhpb0ZZSEhBdDBkeWhQZzhfMHJWWW9GbnpVX1dOZG4yWlpOVXFVekJWbHBLclNhUEdEb0VncHBlMjdqTjFkelJDM0ZsTWZOWDlCMDRIRHdBQSIsImlkIjoiZmNfSXNldmFyMzlCS0toMFBFUDVPcXEwUUVfMiJ9",
-    "page_token": "t116B3icHdBRboIwHIDx7DJ7nBQ3F03MEoSKbLJR-6_Ql6W0ikKRTtEKb7vLTrXTzOwCX375vn_0_lD93l12bWtOk8HAWvtQNE2hNw-yqQfi1B3kQAqtcyGryeh5hF62chqcF97sa-ElYAzziUNDFhAHhdRRmVors8Jgk9qcmA46VWet6D28ot5ls0d9BuMuT7mzDJunZYVHkrKMMxXJ2pDEYWVWK5oP9ZFURcvm447Od1uutcjgKc4BfchUn4RPXInNebW-VjlurNA8VMCHcck-Nv7uDOHSZcBSjkwpZsgqGi1A40we2K2JU4qJD8APa8DdO0gkgoitq_iYIIJk6Q2D3c3jMjdLF_07RG8rt7AQsCSG8VVSjxDS7BMgvSx1zWboLe-52PjkkVf4EgfRK5uDhdTgmz2KU_Wq7P1WXqbD-_-f089t3U7MsSn-AHpMhI4",
-    "question": "What is the salary of a React developer?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=t116B3icHdBRboIwHIDx7DJ7nBQ3F03MEoSKbLJR-6_Ql6W0ikKRTtEKb7vLTrXTzOwCX375vn_0_lD93l12bWtOk8HAWvtQNE2hNw-yqQfi1B3kQAqtcyGryeh5hF62chqcF97sa-ElYAzziUNDFhAHhdRRmVors8Jgk9qcmA46VWet6D28ot5ls0d9BuMuT7mzDJunZYVHkrKMMxXJ2pDEYWVWK5oP9ZFURcvm447Od1uutcjgKc4BfchUn4RPXInNebW-VjlurNA8VMCHcck-Nv7uDOHSZcBSjkwpZsgqGi1A40we2K2JU4qJD8APa8DdO0gkgoitq_iYIIJk6Q2D3c3jMjdLF_07RG8rt7AQsCSG8VVSjxDS7BMgvSx1zWboLe-52PjkkVf4EgfRK5uDhdTgmz2KU_Wq7P1WXqbD-_-f089t3U7MsSn-AHpMhI4",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmEwcHBhMGhUVjAxVGFGZzVaMm8zYkRWaE5WbGZkVUUzYldoT1RISm5abUpZTlhWcmVrazFZbFJLY3paVWF6TlZPRTFVTlRReE5HaHlWak5mZDFwd2J6UkRlVzFrTVhkSWNFczBNVTVuTUZsNE1FRTVkMlo0Ukc1clVSSVhTWE5sZG1GeU16bENTMHRvTUZCRlVEVlBjWEV3VVVVYUlrRkVjM0k1WmxKcFZ6aG1kMWN5Vm05T01GazBOVUpGV0VSRlZreEhVR05YVTNjIiwiZmN2IjoiMyIsImVpIjoiSXNldmFyMzlCS0toMFBFUDVPcXEwUUUiLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmVEQtR2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzYWxhcnkgb2YgYSBSZWFjdCBkZXZlbG9wZXI%2FIiwibGsiOiJHaWQzYUdGMElHbHpJSFJvWlNCellXeGhjbmtnYjJZZ1lTQnlaV0ZqZENCa1pYWmxiRzl3WlhJIiwiYnMiOiJjMzJQUHd2Q01CREZjYzNrS0ptdVdQLXQtUUlCSnl1SW9Fam5zejFOcEVsTFVpMS1lOU02YUJYZDd1NzkzajBlVzdJNFZlUUlNclNRZ05KaDNCRm05WG9QT2Qyb0tDdHlYZ3JPUjUzbVdnMHVfazFrS3hZbF90Tmx5TmFnYlZnTjJseUtNWS0wXzdMM0tYWmc4MVJodUhpb0ZZSEhBdDBkeWhQZzhfMHJWWW9GbnpVX1dOZG4yWlpOVXFVekJWbHBLclNhUEdEb0VncHBlMjdqTjFkelJDM0ZsTWZOWDlCMDRIRHdBQSIsImlkIjoiZmNfSXNldmFyMzlCS0toMFBFUDVPcXEwUUVfMiJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwVk9iMmR2VTIwelRHazViVlJSYTE5RFEzWllNbTVVU2s5dVpqVnlWVWx1U2pSU2JXa3RXWGR5UTA1bFZYUkRaVTFJUmpOZk1qaDBkV2Q0T0dsWVNreEtkM0ZLYnpOcE5tMHpZWGd6Y1ZWR2NGRXhhbFZ0V0c5U1p4SVhkVFJ4TldGelVHZE1PRzFDTlU5TlVHaGpNa3AzVVUwYUlrRkVjM0k1WmxKTlZYUm1MVzV4V1VSc05EVm5hM05LTUV0a2FHYzVkbVZwV21jIiwiZmN2IjoiMyIsImVpIjoidTRxNWFzUGdMOG1CNU9NUGhjMkp3UU0iLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmWUJkTXo4IiwicXVlc3Rpb24iOiJDYW4geW91IGdpdmUgbWUgMTAwMCBjb21wYW55IG5hbWVzPyIsImxrIjoiR2hJeE1EQXdJR052YlhCaGJua2dibUZ0WlhNIiwiYnMiOiJjLVB5NGRJS3owZ3NVVWdzU2xVb3lRRGlfQUlGVXdYUEVJWGtfTnlDeEx6TTFHS0Z6RHdGMzlMY3BNUk1leU01S1JtSWdzd1NWQVc1WUFWY01WeEdLS1lscFJZakt5ekpWeWpQTDhwV1NNc3ZRalpWVFVvRnYwS282ZFpjeXM2SmVRcVYtYVVLNlpsbHFRcTVxUXFHQmdZR1VIMlZDbm1KdWFuRjlrWWlVa0tZd2x5LVhDb29Uak5WU01wTVR3ZFppLXhaZXlOVktlVnk3T3FRX1N6QUNBQSIsImlkIjoiZmNfdTRxNWFzUGdMOG1CNU9NUGhjMkp3UU1fNSJ9",
+    "page_token": "t1tnhnicHdBNcqowAADg6WW6rATFjs44nUYSCtOkJSYBs3kTE_8wQKq0KLvepafqad6bd4Bv833_uGNz-r37OnSdv8xHo77vH_Ztu3fbB9PWI325NWZktHMbbU7z6eMUPO3MAn2mcPmRwlx4L2MWrMb0TCqIRNJ9kjorxAu-qjA6q5qlOT94EkQfwtFGjuXktfAFRyQsOIss8m8miCrGnwEPo55ieJEct3QJjrSiSyVko7FkNJaDELOjqU2nJQMWRa9U-OvaZVwhlpnYDLq4vm9detViMthS_rOUqKSj69BO2fjAbOlvb8ks0zEcNkmU5MGMkzA6iVJBJey7jHGVlzZYcwXRwQL6gsC6pLkK-slGpIAHINcJua0ayzhrj7lgg6lcLTiuiIPTFVI3gnCchxJI0cFtnGmGMVInDGx_vzNfi_H9_8_Fn13dzf253f8FdvGANQ",
+    "question": "Can you give me 1000 company names?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=t1tnhnicHdBNcqowAADg6WW6rATFjs44nUYSCtOkJSYBs3kTE_8wQKq0KLvepafqad6bd4Bv833_uGNz-r37OnSdv8xHo77vH_Ztu3fbB9PWI325NWZktHMbbU7z6eMUPO3MAn2mcPmRwlx4L2MWrMb0TCqIRNJ9kjorxAu-qjA6q5qlOT94EkQfwtFGjuXktfAFRyQsOIss8m8miCrGnwEPo55ieJEct3QJjrSiSyVko7FkNJaDELOjqU2nJQMWRa9U-OvaZVwhlpnYDLq4vm9detViMthS_rOUqKSj69BO2fjAbOlvb8ks0zEcNkmU5MGMkzA6iVJBJey7jHGVlzZYcwXRwQL6gsC6pLkK-slGpIAHINcJua0ayzhrj7lgg6lcLTiuiIPTFVI3gnCchxJI0cFtnGmGMVInDGx_vzNfi_H9_8_Fn13dzf253f8FdvGANQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwVk9iMmR2VTIwelRHazViVlJSYTE5RFEzWllNbTVVU2s5dVpqVnlWVWx1U2pSU2JXa3RXWGR5UTA1bFZYUkRaVTFJUmpOZk1qaDBkV2Q0T0dsWVNreEtkM0ZLYnpOcE5tMHpZWGd6Y1ZWR2NGRXhhbFZ0V0c5U1p4SVhkVFJ4TldGelVHZE1PRzFDTlU5TlVHaGpNa3AzVVUwYUlrRkVjM0k1WmxKTlZYUm1MVzV4V1VSc05EVm5hM05LTUV0a2FHYzVkbVZwV21jIiwiZmN2IjoiMyIsImVpIjoidTRxNWFzUGdMOG1CNU9NUGhjMkp3UU0iLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmWUJkTXo4IiwicXVlc3Rpb24iOiJDYW4geW91IGdpdmUgbWUgMTAwMCBjb21wYW55IG5hbWVzPyIsImxrIjoiR2hJeE1EQXdJR052YlhCaGJua2dibUZ0WlhNIiwiYnMiOiJjLVB5NGRJS3owZ3NVVWdzU2xVb3lRRGlfQUlGVXdYUEVJWGtfTnlDeEx6TTFHS0Z6RHdGMzlMY3BNUk1leU01S1JtSWdzd1NWQVc1WUFWY01WeEdLS1lscFJZakt5ekpWeWpQTDhwV1NNc3ZRalpWVFVvRnYwS282ZFpjeXM2SmVRcVYtYVVLNlpsbHFRcTVxUXFHQmdZR1VIMlZDbm1KdWFuRjlrWWlVa0tZd2x5LVhDb29Uak5WU01wTVR3ZFppLXhaZXlOVktlVnk3T3FRX1N6QUNBQSIsImlkIjoiZmNfdTRxNWFzUGdMOG1CNU9NUGhjMkp3UU1fNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmEwcHBhMGhUVjAxVGFGZzVaMm8zYkRWaE5WbGZkVUUzYldoT1RISm5abUpZTlhWcmVrazFZbFJLY3paVWF6TlZPRTFVTlRReE5HaHlWak5mZDFwd2J6UkRlVzFrTVhkSWNFczBNVTVuTUZsNE1FRTVkMlo0Ukc1clVSSVhTWE5sZG1GeU16bENTMHRvTUZCRlVEVlBjWEV3VVVVYUlrRkVjM0k1WmxKcFZ6aG1kMWN5Vm05T01GazBOVUpGV0VSRlZreEhVR05YVTNjIiwiZmN2IjoiMyIsImVpIjoiSXNldmFyMzlCS0toMFBFUDVPcXEwUUUiLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmVEQtR2o4IiwicXVlc3Rpb24iOiJXaGljaCBjb21wYW5pZXMgYXJlIGhpcmluZyBpbiBNdW1iYWk/IiwibGsiOiJHaVIzYUdsamFDQmpiMjF3WVc1cFpYTWdZWEpsSUdocGNtbHVaeUJwYmlCdGRXMWlZV2siLCJicyI6ImMzMlBQd3ZDTUJERmNjM2tLSm11V1AtdC1RSUJKeXVJb0VqbnN6MU5wRWxMVWkxLWU5TTZhQlhkN3U3OTNqMGVXN0k0VmVRSU1yU1FnTkpoM0JGbTlYb1BPZDJvS0N0eVhnck9SNTNtV2cwdV9rMWtLeFlsX3RObHlOYWdiVmdOMmx5S01ZLTBfN0wzS1haZzgxUmh1SGlvRllISEF0MGR5aFBnOF8wclZZb0ZuelVfV05kbjJaWk5VcVV6QlZscEtyU2FQR0RvRWdwcGUyN2pOMWR6UkMzRmxNZk5YOUIwNEhEd0FBIiwiaWQiOiJmY19Jc2V2YXIzOUJLS2gwUEVQNU9xcTBRRV8yIn0=",
-    "page_token": "-tCEtXicHdBfboIwHADg7DI-TmijiyZmCQooTpb--g94WbBVUAp0k4nytrvsVDvNlp3gS76vb3Nqqp-Ha9l19jIfj_u-fyzatjCHR9XW4_xyb9RY5cbsc1XNp09T9_moFv7nxlu-bzzCrRUrcJhvI3BuYeyUSypmV-2kPQQZyRsjdiw6c1nupEhvjLpHhroJqTvDE-vASiMWRFigCVVJwHklMhAz51VGn7DO8M6Jtyope2n0Nhaty0OXkyS6K-wZIbuMV3r4c0KG9JqGmtFBM47sRUu7BVQme1y4cW0rGLQ8CLNMEVBm4CoFx1lShvtqtqW1AXkW6xxDsxfR5hBOGr_UkUICpclmeOXRC0VFz31BYj67KeYBQHsiHAZ1NjWXt5TUQS1Waaeoe8lR_JGty2mKPV82AQYn6wkZHdV1gUf_n4u3Y93N7Udb_AJwM4Jm",
-    "question": "Which companies are hiring in Mumbai?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-tCEtXicHdBfboIwHADg7DI-TmijiyZmCQooTpb--g94WbBVUAp0k4nytrvsVDvNlp3gS76vb3Nqqp-Ha9l19jIfj_u-fyzatjCHR9XW4_xyb9RY5cbsc1XNp09T9_moFv7nxlu-bzzCrRUrcJhvI3BuYeyUSypmV-2kPQQZyRsjdiw6c1nupEhvjLpHhroJqTvDE-vASiMWRFigCVVJwHklMhAz51VGn7DO8M6Jtyope2n0Nhaty0OXkyS6K-wZIbuMV3r4c0KG9JqGmtFBM47sRUu7BVQme1y4cW0rGLQ8CLNMEVBm4CoFx1lShvtqtqW1AXkW6xxDsxfR5hBOGr_UkUICpclmeOXRC0VFz31BYj67KeYBQHsiHAZ1NjWXt5TUQS1Waaeoe8lR_JGty2mKPV82AQYn6wkZHdV1gUf_n4u3Y93N7Udb_AJwM4Jm",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmEwcHBhMGhUVjAxVGFGZzVaMm8zYkRWaE5WbGZkVUUzYldoT1RISm5abUpZTlhWcmVrazFZbFJLY3paVWF6TlZPRTFVTlRReE5HaHlWak5mZDFwd2J6UkRlVzFrTVhkSWNFczBNVTVuTUZsNE1FRTVkMlo0Ukc1clVSSVhTWE5sZG1GeU16bENTMHRvTUZCRlVEVlBjWEV3VVVVYUlrRkVjM0k1WmxKcFZ6aG1kMWN5Vm05T01GazBOVUpGV0VSRlZreEhVR05YVTNjIiwiZmN2IjoiMyIsImVpIjoiSXNldmFyMzlCS0toMFBFUDVPcXEwUUUiLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmVEQtR2o4IiwicXVlc3Rpb24iOiJXaGljaCBjb21wYW5pZXMgYXJlIGhpcmluZyBpbiBNdW1iYWk%2FIiwibGsiOiJHaVIzYUdsamFDQmpiMjF3WVc1cFpYTWdZWEpsSUdocGNtbHVaeUJwYmlCdGRXMWlZV2siLCJicyI6ImMzMlBQd3ZDTUJERmNjM2tLSm11V1AtdC1RSUJKeXVJb0VqbnN6MU5wRWxMVWkxLWU5TTZhQlhkN3U3OTNqMGVXN0k0VmVRSU1yU1FnTkpoM0JGbTlYb1BPZDJvS0N0eVhnck9SNTNtV2cwdV9rMWtLeFlsX3RObHlOYWdiVmdOMmx5S01ZLTBfN0wzS1haZzgxUmh1SGlvRllISEF0MGR5aFBnOF8wclZZb0ZuelVfV05kbjJaWk5VcVV6QlZscEtyU2FQR0RvRWdwcGUyN2pOMWR6UkMzRmxNZk5YOUIwNEhEd0FBIiwiaWQiOiJmY19Jc2V2YXIzOUJLS2gwUEVQNU9xcTBRRV8yIn0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwVk9iMmR2VTIwelRHazViVlJSYTE5RFEzWllNbTVVU2s5dVpqVnlWVWx1U2pSU2JXa3RXWGR5UTA1bFZYUkRaVTFJUmpOZk1qaDBkV2Q0T0dsWVNreEtkM0ZLYnpOcE5tMHpZWGd6Y1ZWR2NGRXhhbFZ0V0c5U1p4SVhkVFJ4TldGelVHZE1PRzFDTlU5TlVHaGpNa3AzVVUwYUlrRkVjM0k1WmxKTlZYUm1MVzV4V1VSc05EVm5hM05LTUV0a2FHYzVkbVZwV21jIiwiZmN2IjoiMyIsImVpIjoidTRxNWFzUGdMOG1CNU9NUGhjMkp3UU0iLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmWUJkTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSBiaWdnZXN0IElUIGNvbXBhbmllcz8iLCJsayI6IkdpTjNhR0YwSUdGeVpTQjBhR1VnTlNCaWFXZG5aWE4wSUdsMElHTnZiWEJoYm1sbGN3IiwiYnMiOiJjLVB5NGRJS3owZ3NVVWdzU2xVb3lRRGlfQUlGVXdYUEVJWGtfTnlDeEx6TTFHS0Z6RHdGMzlMY3BNUk1leU01S1JtSWdzd1NWQVc1WUFWY01WeEdLS1lscFJZakt5ekpWeWpQTDhwV1NNc3ZRalpWVFVvRnYwS282ZFpjeXM2SmVRcVYtYVVLNlpsbHFRcTVxUXFHQmdZR1VIMlZDbm1KdWFuRjlrWWlVa0tZd2x5LVhDb29Uak5WU01wTVR3ZFppLXhaZXlOVktlVnk3T3FRX1N6QUNBQSIsImlkIjoiZmNfdTRxNWFzUGdMOG1CNU9NUGhjMkp3UU1fNSJ9",
+    "page_token": "YmcwY3icHdBLcoIwAIDh6WVcagLWFmecTqk8dCSWR4Jm04GAIEmEqjWQXe_SU_U0dbr-N9_83z_ieOK_D7f6eu0u88lEKTWu2rYS5Zi1cpJdhhObsEyIPGN8PnuawZcDWzhfK_vtc2WHuOvIMgKJXwehtAzSBArplWbQagouusiNnC3BfSjpNockizVysgEMseZgk1YgTRGhhtWVwm2o6d4CDvsY1zIAxflezpmPhpRPIXHrS4KhQeFebcmaBFCYzHTUHsMYC_Fe-q8aeUolGtnJ0pnmHrlSjnQuFchENUSG1VPQ97nHHql0MZVrWRAxi41aIH_dBbzzdlpIhAPjbrSduoDId-B-h0IK1DTHK5gAGGZeMMSnIkqi9hjiSLNGSNzQTczROncsO2-oRwBM8cnel5IKigUu3WcVhqMDuy3M0f_PxcdBXufdua3-ALWDg7M",
+    "question": "What are the 5 biggest IT companies?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YmcwY3icHdBLcoIwAIDh6WVcagLWFmecTqk8dCSWR4Jm04GAIEmEqjWQXe_SU_U0dbr-N9_83z_ieOK_D7f6eu0u88lEKTWu2rYS5Zi1cpJdhhObsEyIPGN8PnuawZcDWzhfK_vtc2WHuOvIMgKJXwehtAzSBArplWbQagouusiNnC3BfSjpNockizVysgEMseZgk1YgTRGhhtWVwm2o6d4CDvsY1zIAxflezpmPhpRPIXHrS4KhQeFebcmaBFCYzHTUHsMYC_Fe-q8aeUolGtnJ0pnmHrlSjnQuFchENUSG1VPQ97nHHql0MZVrWRAxi41aIH_dBbzzdlpIhAPjbrSduoDId-B-h0IK1DTHK5gAGGZeMMSnIkqi9hjiSLNGSNzQTczROncsO2-oRwBM8cnel5IKigUu3WcVhqMDuy3M0f_PxcdBXufdua3-ALWDg7M",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwVk9iMmR2VTIwelRHazViVlJSYTE5RFEzWllNbTVVU2s5dVpqVnlWVWx1U2pSU2JXa3RXWGR5UTA1bFZYUkRaVTFJUmpOZk1qaDBkV2Q0T0dsWVNreEtkM0ZLYnpOcE5tMHpZWGd6Y1ZWR2NGRXhhbFZ0V0c5U1p4SVhkVFJ4TldGelVHZE1PRzFDTlU5TlVHaGpNa3AzVVUwYUlrRkVjM0k1WmxKTlZYUm1MVzV4V1VSc05EVm5hM05LTUV0a2FHYzVkbVZwV21jIiwiZmN2IjoiMyIsImVpIjoidTRxNWFzUGdMOG1CNU9NUGhjMkp3UU0iLCJxYyI6IkNqVjNhR2xqYUNCamIyMXdZVzVwWlhNZ1lYSmxJR2hwY21sdVp5QnlaV0ZqZENCa1pYWmxiRzl3WlhKeklHbHVJRzExYldKaGFSQUFmWUJkTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSBiaWdnZXN0IElUIGNvbXBhbmllcz8iLCJsayI6IkdpTjNhR0YwSUdGeVpTQjBhR1VnTlNCaWFXZG5aWE4wSUdsMElHTnZiWEJoYm1sbGN3IiwiYnMiOiJjLVB5NGRJS3owZ3NVVWdzU2xVb3lRRGlfQUlGVXdYUEVJWGtfTnlDeEx6TTFHS0Z6RHdGMzlMY3BNUk1leU01S1JtSWdzd1NWQVc1WUFWY01WeEdLS1lscFJZakt5ekpWeWpQTDhwV1NNc3ZRalpWVFVvRnYwS282ZFpjeXM2SmVRcVYtYVVLNlpsbHFRcTVxUXFHQmdZR1VIMlZDbm1KdWFuRjlrWWlVa0tZd2x5LVhDb29Uak5WU01wTVR3ZFppLXhaZXlOVktlVnk3T3FRX1N6QUNBQSIsImlkIjoiZmNfdTRxNWFzUGdMOG1CNU9NUGhjMkp3UU1fNSJ9",
     "type": "ai_overview"
    }
   ],
   "related_searches": [
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=React+Developer+fresher&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ1QJ6BAhPEAE",
-    "query": "React Developer fresher",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=React+Developer+fresher"
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&q=Which+companies+are+hiring+react+developers+in+mumbai+2022&sa=X&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ1QJ6BAg-EAE",
+    "query": "Which companies are hiring react developers in mumbai 2022",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+react+developers+in+mumbai+2022"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=React+JS+Developer+jobs+Mumbai+for+freshers&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ1QJ6BAhREAE",
-    "query": "React JS Developer jobs Mumbai for freshers",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=React+JS+Developer+jobs+Mumbai+for+freshers"
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&q=Top+companies+tackling+climate+change&sa=X&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ1QJ6BAhFEAE",
+    "query": "Top companies tackling climate change",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Top+companies+tackling+climate+change"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=React+developer+in+mumbai&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ1QJ6BAhSEAE",
-    "query": "React developer in mumbai",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=React+developer+in+mumbai"
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&q=Company+name&sa=X&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ1QJ6BAhEEAE",
+    "query": "Company name",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Company+name"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=React+developer+2+years+experience+mumbai&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ1QJ6BAhQEAE",
-    "query": "React developer 2 years experience mumbai",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=React+developer+2+years+experience+mumbai"
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&q=Company+meaning+friends&sa=X&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ1QJ6BAhDEAE",
+    "query": "Company meaning friends",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Company+meaning+friends"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=React+JS+jobs+in+Mumbai&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ1QJ6BAhLEAE",
-    "query": "React JS jobs in Mumbai",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=React+JS+jobs+in+Mumbai"
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&q=What+is+the+Company+CIA&sa=X&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ1QJ6BAhCEAE",
+    "query": "What is the Company CIA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+Company+CIA"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=ReactJS+Developer+jobs&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ1QJ6BAhOEAE",
-    "query": "ReactJS Developer jobs",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ReactJS+Developer+jobs"
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&q=Company+example&sa=X&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ1QJ6BAhBEAE",
+    "query": "Company example",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Company+example"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Junior+React+Developer&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ1QJ6BAhNEAE",
-    "query": "Junior React Developer",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Junior+React+Developer"
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&q=Company+advantages+and+disadvantages&sa=X&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ1QJ6BAhAEAE",
+    "query": "Company advantages and disadvantages",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Company+advantages+and+disadvantages"
    },
    {
     "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Frontend+React+Developer+jobs&sa=X&ved=2ahUKEwi9lp_Civ2WAxWiEDQIHWS1KhoQ1QJ6BAhMEAE",
-    "query": "Frontend React Developer jobs",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Frontend+React+Developer+jobs"
+    "link": "https://www.google.com/search?sca_esv=c16286b74a8621df&sxsrf=APpeQnsO8KGT23Etb5dJXn3JDKXivfS1zw:1790544571790&q=Company+word+origin&sa=X&ved=2ahUKEwiDqp-p2o-XAxXJAHkGHYVmIjgQ1QJ6BAg_EAE",
+    "query": "Company word origin",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Company+word+origin"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Which companies are hiring React developers in Mumbai?",
-   "time_taken_displayed": 0.31,
-   "total_results": 112
+   "time_taken_displayed": 0.36,
+   "total_results": 10070000000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:44:33 UTC",
+   "created_at": "2026-09-27 21:29:31 UTC",
    "google_url": "https://www.google.com/search?q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&oq=Which+companies+are+hiring+React+developers+in+Mumbai%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc7213d0e4e3c7742ddcf",
-   "json_endpoint": "https://serpapi.com/searches/VWR00_-O6hIDtNiXaqYe1AWtZFENZNwYbu_TmO5ZsTU/6aafc7213d0e4e3c7742ddcf.json",
-   "markdown_endpoint": "https://serpapi.com/searches/VWR00_-O6hIDtNiXaqYe1AWtZFENZNwYbu_TmO5ZsTU/6aafc7213d0e4e3c7742ddcf.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/VWR00_-O6hIDtNiXaqYe1AWtZFENZNwYbu_TmO5ZsTU/6aafc7213d0e4e3c7742ddcf.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:44:33 UTC",
-   "raw_html_file": "https://serpapi.com/searches/VWR00_-O6hIDtNiXaqYe1AWtZFENZNwYbu_TmO5ZsTU/6aafc7213d0e4e3c7742ddcf.html",
+   "id": "6ab98abbb9fc5f159aed6834",
+   "json_endpoint": "https://serpapi.com/searches/Rzyd4phEJmdv7h6d6Cn73SPMuMQMKP6hK1f-6BNooik/6ab98abbb9fc5f159aed6834.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Rzyd4phEJmdv7h6d6Cn73SPMuMQMKP6hK1f-6BNooik/6ab98abbb9fc5f159aed6834.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/Rzyd4phEJmdv7h6d6Cn73SPMuMQMKP6hK1f-6BNooik/6ab98abbb9fc5f159aed6834.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:29:31 UTC",
+   "raw_html_file": "https://serpapi.com/searches/Rzyd4phEJmdv7h6d6Cn73SPMuMQMKP6hK1f-6BNooik/6ab98abbb9fc5f159aed6834.html",
    "status": "Success",
-   "total_time_taken": 0.82
+   "total_time_taken": 0.51
   },
   "search_parameters": {
    "device": "desktop",
@@ -705,15 +389,7 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=90",
-    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=80"
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+companies+are+hiring+React+developers+in+Mumbai%3F&start=10"
    }
   }
  },

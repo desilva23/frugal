@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 811.199,
+ "elapsed_ms": 1156.023,
  "engine": "google",
- "fetched_at": "2026-09-20T11:25:36.483548+00:00",
+ "fetched_at": "2026-09-27T21:21:39.078954+00:00",
  "frugal_cache_version": 1,
  "key": "705796d1693b263782ecafec370e28487195a9c3de5867c85036b3622bf802f6",
  "params": {
@@ -10,414 +10,335 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "YIRYCHiczVbbcqpIFP2A-Y7xJYng9WiqqFTTIBLB2CZqzAvFzQYFWoFI9G2-Zear5mumQYyQaDLnPEzNrtK-bXbv22Lxx1-eG6z-_u1PJ47X0S3DJElSxYRgz66axGf0aBeYzIJ4UWg6d7st16iYEcdWbJcLO4Otvm6YD0p72xqSERvPlAShSvYIpxl6ZC-pxbdlxGgM_Vv93hDoohpV7aDa8ZVZe2ROBoN5tc7WG9UHRvepAvjvREWAT8d7AC8r0SPxe1OpARnwYsGSDHA28iet-eEYouwI4ovW-MOd40wd0Z-g7fuJQHfz_AgXn6VX8KVlkvkCQJJ5yQP3-2gKgvJYjnF9kal37bLk2SOnnWKNS76WBCelZY96oQEIT5cUL6NmnJIb75kyMej0CS_wYHLZb5qfgQxaK4DEcyEUBYnT5nvllLlEdxgL08ZlGSOkQ41xTcfMJmGU9jN86rKk9-Arm_5OHhmt5qutszv75i14furOXA8xpkH1PKJbtqU5GnuXrWv1WovtNn50rjMgmdE7kqIikkbg1XhUnKa7B1WlyteOMIKHooNPFRPpGspnAuNhrvq5xFKhsdOC5SVFvaLdvJQ8gASIY1Au7WCU5lU6LmmP7mlpihqnW9Pm_wyjg-CCMoVR5ohMcsWixkFLKkC3UFgZnHvNfIwb9U9T4ZNiCYCQxrsCx8TMP1qeAwSxmGIAin0-z5pZtgGLCcgdFgHCfL46RSLmSgWf0hTICKhAFqlNdyJLODWOxIOjaTPkd_XED4i70PBzes0M_ptX3xnhvwNRKuiIlw_tX4LNkA-eVG-yVked5_jeUm_wMJwZaEcW4DxMiG_8BOOY_ysgHfhIzPnoMpDE74GU8RH_BR9l8xMfpc0LyUUg8dJ5PlLP8lE5bgjGRSB9zUc_DST4JZAOfXgWSOQ8kNYXgYSTj0Aq85F4no_egfQrfMT_Ih9luLIPQ5mcXpf4IklJ-2i9V-ELXjobO3iK0f2-ofjNl91ISb4lqYUf3_q65V1rrnXL1-_jnXWt0Q1ya1uVDSdHV5Gt00_IKzeI7dCOYjq50sPYXbimq3vZtue52A5MOz2SA8vVr0I3cgN8V_G9kHCs3npUl0Nh_6ywXWerdVbDljNI3JYznRvjyVRSzTeiTPBarLVIH8PJfroZt5bDeCdsE2eXvAKruUY3EVmp0mO3xfqLZ8HqLDbTt9dV48busJrT7hpSd2MgaSrO3U6v1k96o2QrbEAd7PtBI3Y2PfVlIsjsjek_jnTXskHmW8SpVn9kv3lIJahCw45srlbxQ5OjDdLEYIjADNNOhVkHg4lO6JgAJLVpAflKZOqaHW25drNNM2p1F4ZVbzd_2BUfx7s112UrURBytX8AgcdMZA",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YIRYCHiczVbbcqpIFP2A-Y7xJYng9WiqqFTTIBLB2CZqzAvFzQYFWoFI9G2-Zear5mumQYyQaDLnPEzNrtK-bXbv22Lxx1-eG6z-_u1PJ47X0S3DJElSxYRgz66axGf0aBeYzIJ4UWg6d7st16iYEcdWbJcLO4Otvm6YD0p72xqSERvPlAShSvYIpxl6ZC-pxbdlxGgM_Vv93hDoohpV7aDa8ZVZe2ROBoN5tc7WG9UHRvepAvjvREWAT8d7AC8r0SPxe1OpARnwYsGSDHA28iet-eEYouwI4ovW-MOd40wd0Z-g7fuJQHfz_AgXn6VX8KVlkvkCQJJ5yQP3-2gKgvJYjnF9kal37bLk2SOnnWKNS76WBCelZY96oQEIT5cUL6NmnJIb75kyMej0CS_wYHLZb5qfgQxaK4DEcyEUBYnT5nvllLlEdxgL08ZlGSOkQ41xTcfMJmGU9jN86rKk9-Arm_5OHhmt5qutszv75i14furOXA8xpkH1PKJbtqU5GnuXrWv1WovtNn50rjMgmdE7kqIikkbg1XhUnKa7B1WlyteOMIKHooNPFRPpGspnAuNhrvq5xFKhsdOC5SVFvaLdvJQ8gASIY1Au7WCU5lU6LmmP7mlpihqnW9Pm_wyjg-CCMoVR5ohMcsWixkFLKkC3UFgZnHvNfIwb9U9T4ZNiCYCQxrsCx8TMP1qeAwSxmGIAin0-z5pZtgGLCcgdFgHCfL46RSLmSgWf0hTICKhAFqlNdyJLODWOxIOjaTPkd_XED4i70PBzes0M_ptX3xnhvwNRKuiIlw_tX4LNkA-eVG-yVked5_jeUm_wMJwZaEcW4DxMiG_8BOOY_ysgHfhIzPnoMpDE74GU8RH_BR9l8xMfpc0LyUUg8dJ5PlLP8lE5bgjGRSB9zUc_DST4JZAOfXgWSOQ8kNYXgYSTj0Aq85F4no_egfQrfMT_Ih9luLIPQ5mcXpf4IklJ-2i9V-ELXjobO3iK0f2-ofjNl91ISb4lqYUf3_q65V1rrnXL1-_jnXWt0Q1ya1uVDSdHV5Gt00_IKzeI7dCOYjq50sPYXbimq3vZtue52A5MOz2SA8vVr0I3cgN8V_G9kHCs3npUl0Nh_6ywXWerdVbDljNI3JYznRvjyVRSzTeiTPBarLVIH8PJfroZt5bDeCdsE2eXvAKruUY3EVmp0mO3xfqLZ8HqLDbTt9dV48busJrT7hpSd2MgaSrO3U6v1k96o2QrbEAd7PtBI3Y2PfVlIsjsjek_jnTXskHmW8SpVn9kv3lIJahCw45srlbxQ5OjDdLEYIjADNNOhVkHg4lO6JgAJLVpAflKZOqaHW25drNNM2p1F4ZVbzd_2BUfx7s112UrURBytX8AgcdMZA"
+   "page_token": "bKC_X3iczVZLcuo4FF1Ar6OZJMHmb1LlSknGBPEJmEAImVC2bITAH7AMDpm9vfS4F9SradlgYhKcvPcGXX2psizp6uj6Xh0dfvxlU3f1zx9_L4JgzW4FIQzDPPE8Ylt57DmCzvYuFuaezXy8uGPe1scWNWW88D3Hyu13cimHmSzmLCqXPVrRd90ntW3dLww0oJ6-2WokF0PIM0Nn1pLv8Lpkwkzgj9WfpQbv5Fle9_PB27Deh-s9ucH5olio5_uC7nAH8B9aCAACEADt0GSZAoD6PVjkogElwkqMKO9TB2sc8KI9STzQydwSRasg_yEOy20gTaVQ5ENe4tTOjAWidGd6jCaMcSGMA_1pO0Ed9_0iUVlpUs8AeCRnjtm5_XAYeK6GN0BVI4DPoSCgpr8aDAE4fHhjBVpEAggjhXwRe7QA72FbASf8LNuAxSBJYfgw5e6CSfjZFQXD501BoHiB4xefRUdaGdVFr7kNt8Zk8rjAzW1nMlWmfmfQFnvUw69AwAb3sz3dtMzZYibexf1CsVAR66WadB1zCbMTmViaTPYY7Fq0vH7ohflhHhYSJimn2inn4au8ryDw2aBydFUuTBJ-tJNSpRZTJZ2t8bHlpzuuBgpTACqaR-19MtAHkFcYp6uYbBBBXmLSmdORSXFV0aFF78tPLmMEUIJ0du5hCD7beekRaMBkEYKHufCI-4kKELRX6dGPUGioHWqyBiEcx279VC4JmCpolUI7RqzybEJ4-vSzO4Wm2UP5hosoPvLI3doa6XBn0oziVw53wvDo2UEfKjwEGUb4Rw9_4va7YN73LhFzjpT5wIA0c1rh5n482FB77y5hhT08iKN1f0RnCzvULjPFc4xf0B38_-JSokrjoyplc0n9nkvRZfmVKsWPd1V6PHCpk80lFaGLqlROnFKq9IEAsJvi0iK-nMMsVfpVLsEvuKR-ySXvMpdWmVxqfOLSuSqdcSmtSkcu_Y4qrX9TlWJqWYfmXKK2S5IpVa0-U9kG7pRhE3RbL8uatNGDSbG53tS0b6Vq7gS3jm7a1zNq3sJiO9ib1zM-4N1aZm4jI3bFLJ3_t7yibmD5Fgv4y5XuB3ROMdXteNi2KbFcbEVTyDWpfuVTRl1yl3Ns35NFvVZ2e5qB0a5Xe6501-NGz6_zncqaKEmdpxsw17zd9D6o9B9tHwSbViGsVUZPAR64_dBtblbT0qtk4PpoS95mQ2dfDiEyXVIqF9-eu29Gtb55mZQ6z0vUIZL72Kh1lwOvbLzotepNLaxWqPMcaDut48xWdZPZLI6Kyarany6lUUEbaDnHxzKvWZmABw1MCMBAmQKNl3qse7wNgXZfBZoKcwzrM4vtZFyoFqWqUSvrUrVYMOc5hwT7tVwXc8z15cK_KEtVow",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bKC_X3iczVZLcuo4FF1Ar6OZJMHmb1LlSknGBPEJmEAImVC2bITAH7AMDpm9vfS4F9SradlgYhKcvPcGXX2psizp6uj6Xh0dfvxlU3f1zx9_L4JgzW4FIQzDPPE8Ylt57DmCzvYuFuaezXy8uGPe1scWNWW88D3Hyu13cimHmSzmLCqXPVrRd90ntW3dLww0oJ6-2WokF0PIM0Nn1pLv8Lpkwkzgj9WfpQbv5Fle9_PB27Deh-s9ucH5olio5_uC7nAH8B9aCAACEADt0GSZAoD6PVjkogElwkqMKO9TB2sc8KI9STzQydwSRasg_yEOy20gTaVQ5ENe4tTOjAWidGd6jCaMcSGMA_1pO0Ed9_0iUVlpUs8AeCRnjtm5_XAYeK6GN0BVI4DPoSCgpr8aDAE4fHhjBVpEAggjhXwRe7QA72FbASf8LNuAxSBJYfgw5e6CSfjZFQXD501BoHiB4xefRUdaGdVFr7kNt8Zk8rjAzW1nMlWmfmfQFnvUw69AwAb3sz3dtMzZYibexf1CsVAR66WadB1zCbMTmViaTPYY7Fq0vH7ohflhHhYSJimn2inn4au8ryDw2aBydFUuTBJ-tJNSpRZTJZ2t8bHlpzuuBgpTACqaR-19MtAHkFcYp6uYbBBBXmLSmdORSXFV0aFF78tPLmMEUIJ0du5hCD7beekRaMBkEYKHufCI-4kKELRX6dGPUGioHWqyBiEcx279VC4JmCpolUI7RqzybEJ4-vSzO4Wm2UP5hosoPvLI3doa6XBn0oziVw53wvDo2UEfKjwEGUb4Rw9_4va7YN73LhFzjpT5wIA0c1rh5n482FB77y5hhT08iKN1f0RnCzvULjPFc4xf0B38_-JSokrjoyplc0n9nkvRZfmVKsWPd1V6PHCpk80lFaGLqlROnFKq9IEAsJvi0iK-nMMsVfpVLsEvuKR-ySXvMpdWmVxqfOLSuSqdcSmtSkcu_Y4qrX9TlWJqWYfmXKK2S5IpVa0-U9kG7pRhE3RbL8uatNGDSbG53tS0b6Vq7gS3jm7a1zNq3sJiO9ib1zM-4N1aZm4jI3bFLJ3_t7yibmD5Fgv4y5XuB3ROMdXteNi2KbFcbEVTyDWpfuVTRl1yl3Ns35NFvVZ2e5qB0a5Xe6501-NGz6_zncqaKEmdpxsw17zd9D6o9B9tHwSbViGsVUZPAR64_dBtblbT0qtk4PpoS95mQ2dfDiEyXVIqF9-eu29Gtb55mZQ6z0vUIZL72Kh1lwOvbLzotepNLaxWqPMcaDut48xWdZPZLI6Kyarany6lUUEbaDnHxzKvWZmABw1MCMBAmQKNl3qse7wNgXZfBZoKcwzrM4vtZFyoFqWqUSvrUrVYMOc5hwT7tVwXc8z15cK_KEtVow"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZXMk55cUs1VEFJZkR6RVByaEFjeXkzUjRLU1piQ0hWQlhlbHRyTzhzT25mcV9FWGE3aVBaRlYtQW5NMVQwcHlla0xJS1B5Z0s5eUdkb1V5TWFfQzY0QkpLdE9tUm8zR3BaX2QycUR0R2RqOGFBNk9oNmMwMW4zdVZEY3BtemN3TlBvaDdsRFREUGFCTXAwaFlGb2V4eG05cEVYOFFfRjFEOWJpSGJEaVdYZng2a1doMk5DZ0RSeEw5NlZnTjhqbzlKeEhyT1ZRS3B3dnNqUjAzZ2dXc1NyQnozeE1hYkhxYVBKS1MxZWhzbEVIdGV4MnZyaEx3UnhJdFljYjF3EgQaAggAGv4LEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA2AsIABAAGAAgACpGCgJpcxWICWk_GgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gVHBidQBoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBWTxxM_Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwV1jeoPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVaKDcPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFai_gEAaBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUAAAAAGgdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZXMk55cUs1VEFJZkR6RVByaEFjeXkzUjRLU1piQ0hWQlhlbHRyTzhzT25mcV9FWGE3aVBaRlYtQW5NMVQwcHlla0xJS1B5Z0s5eUdkb1V5TWFfQzY0QkpLdE9tUm8zR3BaX2QycUR0R2RqOGFBNk9oNmMwMW4zdVZEY3BtemN3TlBvaDdsRFREUGFCTXAwaFlGb2V4eG05cEVYOFFfRjFEOWJpSGJEaVdYZng2a1doMk5DZ0RSeEw5NlZnTjhqbzlKeEhyT1ZRS3B3dnNqUjAzZ2dXc1NyQnozeE1hYkhxYVBKS1MxZWhzbEVIdGV4MnZyaEx3UnhJdFljYjF3Oj9Hb29nbGUgWWVhciBpbiA8Yj5TZWFyY2g8L2I-IDIwMjU6IFRoZSBtb3N0IHNlYXJjaGVkIHBlb3BsZSAuLi5ClAFUb3AgR29vZ2xlIHNlYXJjaGVzIG9mIDIwMjUgaW4gPGI-SW5kaWE8L2I-IHJldmVhbCBhIHllYXIgc2hhcGVkIGJ5IDxiPkFJPC9iPiwgbWFqb3Igc3BvcnRzIGV2ZW50cywga2V5IGVsZWN0aW9ucywgdHJhdmVsIHRyZW5kcywgYmxvY2tidXN0ZXIgZmlsbXMuSgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZXMk55cUs1VEFJZkR6RVByaEFjeXkzUjRLU1piQ0hWQlhlbHRyTzhzT25mcV9FWGE3aVBaRlYtQW5NMVQwcHlla0xJS1B5Z0s5eUdkb1V5TWFfQzY0QkpLdE9tUm8zR3BaX2QycUR0R2RqOGFBNk9oNmMwMW4zdVZEY3BtemN3TlBvaDdsRFREUGFCTXAwaFlGb2V4eG05cEVYOFFfRjFEOWJpSGJEaVdYZng2a1doMk5DZ0RSeEw5NlZnTjhqbzlKeEhyT1ZRS3B3dnNqUjAzZ2dXc1NyQnozeE1hYkhxYVBKS1MxZWhzbEVIdGV4MnZyaEx3UnhJdFljYjF3EgQaAggAGv4LEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJA2AsIABAAGAAgACpGCgJpcxWICWk_GgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gVHBidQBoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBWTxxM_Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwV1jeoPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVaKDcPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFai_gEAaBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUAAAAAGgdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZXMk55cUs1VEFJZkR6RVByaEFjeXkzUjRLU1piQ0hWQlhlbHRyTzhzT25mcV9FWGE3aVBaRlYtQW5NMVQwcHlla0xJS1B5Z0s5eUdkb1V5TWFfQzY0QkpLdE9tUm8zR3BaX2QycUR0R2RqOGFBNk9oNmMwMW4zdVZEY3BtemN3TlBvaDdsRFREUGFCTXAwaFlGb2V4eG05cEVYOFFfRjFEOWJpSGJEaVdYZng2a1doMk5DZ0RSeEw5NlZnTjhqbzlKeEhyT1ZRS3B3dnNqUjAzZ2dXc1NyQnozeE1hYkhxYVBKS1MxZWhzbEVIdGV4MnZyaEx3UnhJdFljYjF3Oj9Hb29nbGUgWWVhciBpbiA8Yj5TZWFyY2g8L2I-IDIwMjU6IFRoZSBtb3N0IHNlYXJjaGVkIHBlb3BsZSAuLi5ClAFUb3AgR29vZ2xlIHNlYXJjaGVzIG9mIDIwMjUgaW4gPGI-SW5kaWE8L2I-IHJldmVhbCBhIHllYXIgc2hhcGVkIGJ5IDxiPkFJPC9iPiwgbWFqb3Igc3BvcnRzIGV2ZW50cywga2V5IGVsZWN0aW9ucywgdHJhdmVsIHRyZW5kcywgYmxvY2tidXN0ZXIgZmlsbXMuSgJpbiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "The Year in Search 2025 shows India's fascination with AI tools, women's cricket, national events, viral memes and entertainment across movies, ...",
-      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAADwBQCdASocABwAPtEutFooIagoGAEAGglsALblgD3QCI6F7H13aB6xaa317YN81C5ECxU5Jps2gAD-9gnLkkbZTvuxgc4UqlGaDdIMpHgwAKhkdwqDOK9hk9oVyP9sdAd7fuEYn_sgl_K95WPpcJA4-o2fnggWbkROwmVySxn0DhU7WWg4rCQnPn0wPSn8x5Hg8WDOeQWj_-K81fp-Ht67cQeXY2kATGzFg0lEU2g7OuTk-igwC_nDAgTSkPG-LP8KnsW9EmnUWbVOPx7sozw2s35IvxgR__4J4HDCerrO6nJYIbuu5iuyW_iVfjSv3J4-58GEjDwU9-6tYAux8jERqGTP2cAA.webp",
-      "source_info_link": "https://bestmediainfo.com/insights/googles-year-in-search-shows-what-captures-indias-curiosity-in-2025-10884071"
+      "description": "Top Google searches of 2025 in India reveal a year shaped by AI, major sports events, key elections, travel trends, blockbuster films.",
+      "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAADQBQCdASocABwAPtE-tFooIigoFAEAGglpAAUQIZN4wiFUinkwzQSFUa3Hl7wZXq49pExScxAAAP72Bfv1KEwC3GqS-E8BNbMwF0aB7uaNhbHeo-hjuct9jCfDkvY2n22C2MEu8OVyH0Gt7P9Dt3Zd8Syl0bs6ih_TdLr79xdLcbWeeC66e6tPzmCvpvJBZSiLkKhBdrwnUQG2GL4SL2DAInP-4DKtze2Zf6CwTLyZSmNYDEII7W4axd_YcjNnD5HtcffFfVwiXj6nz87TL5aFiqe9z3PDjt_P_J-1FEB80BfcEKU7xV-e63vxha-P_0mN2h__jo-6mI0u2fZsOUGpkO9oT2f7WP_8UqC8PL_OxlmYbxbr8DJKP67cU3t616je9HqtO1zjgu-INogAAA.webp",
+      "source_info_link": "https://www.thestatesman.com/technology/google-year-in-search-2025-the-most-searched-people-places-and-events-in-india-1503521633.html"
      }
     },
-    "date": "Dec 5, 2025",
-    "displayed_link": "https://bestmediainfo.com › Insights",
-    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAADwBQCdASocABwAPtEutFooIagoGAEAGglsALblgD3QCI6F7H13aB6xaa317YN81C5ECxU5Jps2gAD-9gnLkkbZTvuxgc4UqlGaDdIMpHgwAKhkdwqDOK9hk9oVyP9sdAd7fuEYn_sgl_K95WPpcJA4-o2fnggWbkROwmVySxn0DhU7WWg4rCQnPn0wPSn8x5Hg8WDOeQWj_-K81fp-Ht67cQeXY2kATGzFg0lEU2g7OuTk-igwC_nDAgTSkPG-LP8KnsW9EmnUWbVOPx7sozw2s35IvxgR__4J4HDCerrO6nJYIbuu5iuyW_iVfjSv3J4-58GEjDwU9-6tYAux8jERqGTP2cAA.webp",
-    "link": "https://bestmediainfo.com/insights/googles-year-in-search-shows-what-captures-indias-curiosity-in-2025-10884071",
+    "date": "05‏/12‏/2025",
+    "displayed_link": "https://www.thestatesman.com › goo...",
+    "favicon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAADQBQCdASocABwAPtE-tFooIigoFAEAGglpAAUQIZN4wiFUinkwzQSFUa3Hl7wZXq49pExScxAAAP72Bfv1KEwC3GqS-E8BNbMwF0aB7uaNhbHeo-hjuct9jCfDkvY2n22C2MEu8OVyH0Gt7P9Dt3Zd8Syl0bs6ih_TdLr79xdLcbWeeC66e6tPzmCvpvJBZSiLkKhBdrwnUQG2GL4SL2DAInP-4DKtze2Zf6CwTLyZSmNYDEII7W4axd_YcjNnD5HtcffFfVwiXj6nz87TL5aFiqe9z3PDjt_P_J-1FEB80BfcEKU7xV-e63vxha-P_0mN2h__jo-6mI0u2fZsOUGpkO9oT2f7WP_8UqC8PL_OxlmYbxbr8DJKP67cU3t616je9HqtO1zjgu-INogAAA.webp",
+    "link": "https://www.thestatesman.com/technology/google-year-in-search-2025-the-most-searched-people-places-and-events-in-india-1503521633.html",
     "position": 1,
-    "read_more_link": "https://bestmediainfo.com/insights/googles-year-in-search-shows-what-captures-indias-curiosity-in-2025-10884071#:~:text=The%20Year%20in%20Search%202025,movies%2C%20music%20and%20celebrity%20culture",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFeowyD56Min4DwZ5QoL7ngOOUv4OUoH2vx7xl9OtHkVPFgKE9DWb5HSEVc_BzBri17oh8kiXRG5Kz76dTMhN23w99GgtO4w9ItcUDWVbqWtOgYwkrGYX6uXasdoiH1Gv9rcqQOeZwZZ7Iexlbg9eeDPKKC07xrTm8i-fbeH_uH7b_n5NbmokX4YcAmoGYKUwe4izV7ULjyPfX4AcWtY6O371_A&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECB8QAQ&uoh=1",
-    "snippet": "The Year in Search 2025 shows India's fascination with AI tools, women's cricket, national events, viral memes and entertainment across movies, ...",
-    "snippet_highlighted_words": [
-     "India's fascination with AI tools"
-    ],
-    "source": "bestmediainfo.com",
-    "title": "Google's year in search shows what captures India's curiosity ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "In YouGov's India web search and AI report 2026 we look at how urban Indians move between search engines, AI assistants, maps, marketplaces and ...",
-      "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAADQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHtY-DLkMttotDA6mbeUiIzFv_jKqr4lYlTFqHc6z3t0QcFT_6-1DP6QAAD-9hIz5ONGDZeAmpmq84aXux1Mzp0dW8M_SIKtFz3Q0Fhdw73KHm1aP6vmbS8yJyPiT2fBbrVDVKC3eZd8aR_L3Az_r-BzUTf6-HS_xKuAsPtwxoOGkfdXD5BBuPMDAe9J85B50zKBbk-c3QD1sHp_rrm3153cFxs2ljP8nWVpzr_DCc4ZC12SG9Oce-72qJmW9-GedDZ4s7P_iX96f5STF8L0dP17VlZVunPmIW1G7cV2cAQoyjnnHNi3W-ZjpBBAHmAJr1dofl_5JDSiyHqpgTZTPHqWJsUz0g5m3ssaV9JfDCyfqecVTuGZAj2qIfM05MyBxPsD2LL7ytm0qoK02ue0TmzgvfjKm6Sc_bMAAA.webp",
-      "source_info_link": "https://yougov.com/reports/55100-india-websearch-ai-report-2026"
-     }
-    },
-    "date": "Jul 8, 2026",
-    "displayed_link": "https://yougov.com › reports › 55100-india-websearch-...",
-    "favicon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAADQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHtY-DLkMttotDA6mbeUiIzFv_jKqr4lYlTFqHc6z3t0QcFT_6-1DP6QAAD-9hIz5ONGDZeAmpmq84aXux1Mzp0dW8M_SIKtFz3Q0Fhdw73KHm1aP6vmbS8yJyPiT2fBbrVDVKC3eZd8aR_L3Az_r-BzUTf6-HS_xKuAsPtwxoOGkfdXD5BBuPMDAe9J85B50zKBbk-c3QD1sHp_rrm3153cFxs2ljP8nWVpzr_DCc4ZC12SG9Oce-72qJmW9-GedDZ4s7P_iX96f5STF8L0dP17VlZVunPmIW1G7cV2cAQoyjnnHNi3W-ZjpBBAHmAJr1dofl_5JDSiyHqpgTZTPHqWJsUz0g5m3ssaV9JfDCyfqecVTuGZAj2qIfM05MyBxPsD2LL7ytm0qoK02ue0TmzgvfjKm6Sc_bMAAA.webp",
-    "link": "https://yougov.com/reports/55100-india-websearch-ai-report-2026",
-    "position": 2,
-    "read_more_link": "https://yougov.com/reports/55100-india-websearch-ai-report-2026#:~:text=In%20YouGov's%20India%20web%20search,real%20story%20isn't%20AI%20vs.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVw6OxmIEpDEpD1VoMX8o6l95usF48rYrZx81RXVkGReFNcaZe80K4657s2-BZm2x-0AgaUwEWP_QHMrXQxOYVMnJWq8aTL1oGqy7JvWtf0JG9PqFI4GEBJwvrR97ZrfpQesJhavF7MkJMB245yT2fBUO7&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECCEQAQ&uoh=1",
-    "snippet": "In YouGov's India web search and AI report 2026 we look at how urban Indians move between search engines, AI assistants, maps, marketplaces and ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFW2NyqK5TAIfDzEPrhAcyy3R4KSZbCHVBXeltrO8sOnfq_EXa7iPZFV-AnM1T0pyekLIKPygK9yGdoUyMa_C64BJKtOmRo3GpZ_d2qDtGdj8aA6Oh6c01n3uVDcpmzcwNPoh7lDTDPaBMp0hYFoexxm9pEX8Q_F1D9biHbDiWXfx6kWh2NCgDRxL96VgN8jo9JxHrOVQKpwvsjR03ggWsSrBz3xMabHqaPJKS1ehslEHtex2vrhLwRxItYcb1w&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQFnoECB8QAQ&uoh=1",
+    "snippet": "Top Google searches of 2025 in India reveal a year shaped by AI, major sports events, key elections, travel trends, blockbuster films.",
     "snippet_highlighted_words": [
      "India",
-     "search",
-     "AI",
-     "search",
      "AI"
     ],
-    "source": "YouGov",
-    "title": "[India] Searching for answers: How AI is changing online ..."
+    "source": "The Statesman",
+    "title": "Google Year in Search 2025: The most searched people, ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZkWHZyTUk5MG5rNFZpQ2ZJTWg3bUI3aUptdXN3aFh4UFJXVmRwSkV1RTcxWTJ6TG1JeF8xTDRjLXJ2REk0c3dnOUxjQVhTUkNhekFYaXJoUkRXYWdTZmluWGNVRDQ2aWFmT1R3RUVtRGJvTkJQX2dReDlQU2x3TTl6RzlUMjdfaFVGbW5xWVBzcENvaXlZNklxc0h4MDBvTGh4VEJNT01hREo2SHNpdUF2eFJCYTJ0RVZ5N1paTUxGRWtLS0x6UDlFNHNRVmxXTi1iY0pIM05vQlpqQ2ExcHFYUmVaWHdxc3REQhIEGgIIABrsCxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDICwgAEAAYACAAKkYKAmlzFTdOKkAaBtin2YrYsxoHaXY7ZDtpcxoIaXY7ZDthcmUaCWl2O2Q7ZG9lcxoIaXY7ZDt3YXMaC2l2O2Q72KfZitizKm0KBnNlYXJjaBX8g-I-GghyZXNlYXJjaBoJc2VhcmNoaW5nGgbYqNit2KsaCNiz2YrYsdi0GgtpdjtkO3NlYXJjaBoNaXY7ZDtyZXNlYXJjaBoOaXY7ZDtzZWFyY2hpbmcaC2l2O2Q72KjYrdirKm8KCGludGVyZXN0FZ8ktT4aDtin2YTZgdin2KbYr9ipGgzYp9mG2KrYsdiz2KoaDWl2O2Q7aW50ZXJlc3QaE2l2O2Q72KfZhNmB2KfYodiv2YcaEWl2O2Q72KfZhtiq2LHYs9iqGglpbnRlcmVzdHMqCQoCaW4VAAAAACqjAQoKYXJ0aWZpY2lhbBUopwg_GgJhaRoQbWFjaGluZSBsZWFybmluZxoS2KfZhNin2LXYt9mG2KfYudmKGhZhcnRpZmljaWFsaW50ZWxsaWdlbmNlGg9pdjtkO2FydGlmaWNpYWwaB2l2O2Q7YWkaF2l2O2Q72KfZhNin2LXYt9mG2KfYudmKGhtpdjtkO2FydGlmaWNpYWxpbnRlbGxpZ2VuY2UqxAEKDGludGVsbGlnZW5jZRXZDn8_GgJhaRoQbWFjaGluZSBsZWFybmluZxoM2KfZhNiw2YPYp9ihGhDYp9mG2KrZhNmK2KzZhtizGhZhcnRpZmljaWFsaW50ZWxsaWdlbmNlGhFpdjtkO2ludGVsbGlnZW5jZRoHaXY7ZDthaRoRaXY7ZDvYp9mE2LDZg9in2KEaFWl2O2Q72KfZhtiq2YTZitis2YbYsxobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKgkKAmluFQAAAAAqVwoFaW5kaWEVqjpnQBoGaW5kaWFuGgrYp9mG2K_ZitinGgtpbmRpYXJpc2luZxoKaXY7ZDtpbmRpYRoLaXY7ZDtpbmRpYW4aD2l2O2Q72KfZhtiv2YrYpyrWAQoGcmlzaW5nFQAAAAAaB2dyb3dpbmcaC2luY3JlYXNlIGluGgppbmNyZWFzaW5nGgdyYWlzaW5nGgRyaXNlGgzYp9ix2KrZgdin2LkaCtix2YrYs9mG2KwaC2luZGlhcmlzaW5nGgtpdjtkO3Jpc2luZxoMaXY7ZDtncm93aW5nGg9pdjtkO2luY3JlYXNpbmcaDGl2O2Q7cmFpc2luZxoJaXY7ZDtyaXNlGhFpdjtkO9in2LHYqtmB2KfYuRoPaXY7ZDvYsdmK2LPZhtisGgZncm93dGgy-gEvZ290bz91cmw9Q0FFU3J3RUI2enN3RmRYdnJNSTkwbms0VmlDZklNaDdtQjdpSm11c3doWHhQUldWZHBKRXVFNzFZMnpMbUl4XzFMNGMtcnZESTRzd2c5TGNBWFNSQ2F6QVhpcmhSRFdhZ1NmaW5YY1VENDZpYWZPVHdFRW1EYm9OQlBfZ1F4OVBTbHdNOXpHOVQyN19oVUZtbnFZUHNwQ29peVk2SXFzSHgwMG9MaHhUQk1PTWFESjZIc2l1QXZ4UkJhMnRFVnk3WlpNTEZFa0tLTHpQOUU0c1FWbFdOLWJjSkgzTm9CWmpDYTFwcVhSZVpYd3FzdERCOkM8Yj5JbmRpYSBBSTwvYj4gRXZhbHVhdGlvbjogQnJpZGdpbmcgdGhlIEdhcCBiZXR3ZWVuIE1vZGVscyBhbmQgLi4uQpoBPGI-SW5kaWE8L2I-IGlzIG9uZSBvZiB0aGUgbW9zdCByZXZlYWxpbmcgcGxhY2VzIGluIHRoZSB3b3JsZCB0byB0ZXN0IHdoYXQgdG9kYXkmIzM5O3MgPGI-QUk8L2I-IGNhbiBhY3R1YWxseSBkby4gV2l0aCBpdHMgcGxldGhvcmEgb2YgbGFuZ3VhZ2VzLCZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZkWHZyTUk5MG5rNFZpQ2ZJTWg3bUI3aUptdXN3aFh4UFJXVmRwSkV1RTcxWTJ6TG1JeF8xTDRjLXJ2REk0c3dnOUxjQVhTUkNhekFYaXJoUkRXYWdTZmluWGNVRDQ2aWFmT1R3RUVtRGJvTkJQX2dReDlQU2x3TTl6RzlUMjdfaFVGbW5xWVBzcENvaXlZNklxc0h4MDBvTGh4VEJNT01hREo2SHNpdUF2eFJCYTJ0RVZ5N1paTUxGRWtLS0x6UDlFNHNRVmxXTi1iY0pIM05vQlpqQ2ExcHFYUmVaWHdxc3REQhIEGgIIABrsCxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDICwgAEAAYACAAKkYKAmlzFTdOKkAaBtin2YrYsxoHaXY7ZDtpcxoIaXY7ZDthcmUaCWl2O2Q7ZG9lcxoIaXY7ZDt3YXMaC2l2O2Q72KfZitizKm0KBnNlYXJjaBX8g-I-GghyZXNlYXJjaBoJc2VhcmNoaW5nGgbYqNit2KsaCNiz2YrYsdi0GgtpdjtkO3NlYXJjaBoNaXY7ZDtyZXNlYXJjaBoOaXY7ZDtzZWFyY2hpbmcaC2l2O2Q72KjYrdirKm8KCGludGVyZXN0FZ8ktT4aDtin2YTZgdin2KbYr9ipGgzYp9mG2KrYsdiz2KoaDWl2O2Q7aW50ZXJlc3QaE2l2O2Q72KfZhNmB2KfYodiv2YcaEWl2O2Q72KfZhtiq2LHYs9iqGglpbnRlcmVzdHMqCQoCaW4VAAAAACqjAQoKYXJ0aWZpY2lhbBUopwg_GgJhaRoQbWFjaGluZSBsZWFybmluZxoS2KfZhNin2LXYt9mG2KfYudmKGhZhcnRpZmljaWFsaW50ZWxsaWdlbmNlGg9pdjtkO2FydGlmaWNpYWwaB2l2O2Q7YWkaF2l2O2Q72KfZhNin2LXYt9mG2KfYudmKGhtpdjtkO2FydGlmaWNpYWxpbnRlbGxpZ2VuY2UqxAEKDGludGVsbGlnZW5jZRXZDn8_GgJhaRoQbWFjaGluZSBsZWFybmluZxoM2KfZhNiw2YPYp9ihGhDYp9mG2KrZhNmK2KzZhtizGhZhcnRpZmljaWFsaW50ZWxsaWdlbmNlGhFpdjtkO2ludGVsbGlnZW5jZRoHaXY7ZDthaRoRaXY7ZDvYp9mE2LDZg9in2KEaFWl2O2Q72KfZhtiq2YTZitis2YbYsxobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKgkKAmluFQAAAAAqVwoFaW5kaWEVqjpnQBoGaW5kaWFuGgrYp9mG2K_ZitinGgtpbmRpYXJpc2luZxoKaXY7ZDtpbmRpYRoLaXY7ZDtpbmRpYW4aD2l2O2Q72KfZhtiv2YrYpyrWAQoGcmlzaW5nFQAAAAAaB2dyb3dpbmcaC2luY3JlYXNlIGluGgppbmNyZWFzaW5nGgdyYWlzaW5nGgRyaXNlGgzYp9ix2KrZgdin2LkaCtix2YrYs9mG2KwaC2luZGlhcmlzaW5nGgtpdjtkO3Jpc2luZxoMaXY7ZDtncm93aW5nGg9pdjtkO2luY3JlYXNpbmcaDGl2O2Q7cmFpc2luZxoJaXY7ZDtyaXNlGhFpdjtkO9in2LHYqtmB2KfYuRoPaXY7ZDvYsdmK2LPZhtisGgZncm93dGgy-gEvZ290bz91cmw9Q0FFU3J3RUI2enN3RmRYdnJNSTkwbms0VmlDZklNaDdtQjdpSm11c3doWHhQUldWZHBKRXVFNzFZMnpMbUl4XzFMNGMtcnZESTRzd2c5TGNBWFNSQ2F6QVhpcmhSRFdhZ1NmaW5YY1VENDZpYWZPVHdFRW1EYm9OQlBfZ1F4OVBTbHdNOXpHOVQyN19oVUZtbnFZUHNwQ29peVk2SXFzSHgwMG9MaHhUQk1PTWFESjZIc2l1QXZ4UkJhMnRFVnk3WlpNTEZFa0tLTHpQOUU0c1FWbFdOLWJjSkgzTm9CWmpDYTFwcVhSZVpYd3FzdERCOkM8Yj5JbmRpYSBBSTwvYj4gRXZhbHVhdGlvbjogQnJpZGdpbmcgdGhlIEdhcCBiZXR3ZWVuIE1vZGVscyBhbmQgLi4uQpoBPGI-SW5kaWE8L2I-IGlzIG9uZSBvZiB0aGUgbW9zdCByZXZlYWxpbmcgcGxhY2VzIGluIHRoZSB3b3JsZCB0byB0ZXN0IHdoYXQgdG9kYXkmIzM5O3MgPGI-QUk8L2I-IGNhbiBhY3R1YWxseSBkby4gV2l0aCBpdHMgcGxldGhvcmEgb2YgbGFuZ3VhZ2VzLCZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Half of consumers are using AI-powered search today, and it could impact $750 billion in revenue by 2028. Do you have a gen AI engine ...",
-      "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAADwBQCdASocABwAPtEutFooIagoGAEAGglkAKwHalNkUi_6QWo4U1XpQFb5_8mTZLXDNTaRmntfoAD-7yaqRDpwk3jGBBW0swALMZ8pT4sorJYKcUeblR4Ia_ORB4gLovt_0XUhRJtaWt8eR1gOaqgVAjPLZAwZtkvCcXC9AFtnlxKwDNJG4pa5b9ftNJ_hqnBlYWfyOaVrBw4C2eD559-E82wK1HswjKIXgARf0IUadCWihHb-DnxF2hrdr482Ceew3GrgXbNyruSNP-LKnw_n6apIoZvt0dxirPVvX9-idz-pd5l5DpaDMB88gBXR31YNzadiQ-_huCu-0pdT9fUq0FLuFypyQogMZkk1gmzAQcsaxLY2cXAA.webp",
-      "source_info_link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/new-front-door-to-the-internet-winning-in-the-age-of-ai-search"
+      "description": "India is one of the most revealing places in the world to test what today's AI can actually do. With its plethora of languages, ...",
+      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "source_info_link": "https://www.linkedin.com/posts/karya-inc_india-is-one-of-the-most-revealing-places-activity-7401172454330568705-GaKw"
      }
     },
-    "date": "Oct 16, 2025",
-    "displayed_link": "https://www.mckinsey.com › capabilities › our-insights",
-    "favicon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAADwBQCdASocABwAPtEutFooIagoGAEAGglkAKwHalNkUi_6QWo4U1XpQFb5_8mTZLXDNTaRmntfoAD-7yaqRDpwk3jGBBW0swALMZ8pT4sorJYKcUeblR4Ia_ORB4gLovt_0XUhRJtaWt8eR1gOaqgVAjPLZAwZtkvCcXC9AFtnlxKwDNJG4pa5b9ftNJ_hqnBlYWfyOaVrBw4C2eD559-E82wK1HswjKIXgARf0IUadCWihHb-DnxF2hrdr482Ceew3GrgXbNyruSNP-LKnw_n6apIoZvt0dxirPVvX9-idz-pd5l5DpaDMB88gBXR31YNzadiQ-_huCu-0pdT9fUq0FLuFypyQogMZkk1gmzAQcsaxLY2cXAA.webp",
-    "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/new-front-door-to-the-internet-winning-in-the-age-of-ai-search",
+    "displayed_link": "أكثر من 120 تفاعل · قبل 10 أشهر",
+    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+    "link": "https://www.linkedin.com/posts/karya-inc_india-is-one-of-the-most-revealing-places-activity-7401172454330568705-GaKw",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrwEB6zswFdXvrMI90nk4ViCfIMh7mB7iJmuswhXxPRWVdpJEuE71Y2zLmIx_1L4c-rvDI4swg9LcAXSRCazAXirhRDWagSfinXcUD46iafOTwEEmDboNBP_gQx9PSlwM9zG9T27_hUFmnqYPspCoiyY6IqsHx00oLhxTBMOMaDJ6HsiuAvxRBa2tEVy7ZZMLFEkKKLzP9E4sQVlWN-bcJH3NoBZjCa1pqXReZXwqstDB&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQFnoECCAQAQ&uoh=1",
+    "snippet": "India is one of the most revealing places in the world to test what today's AI can actually do. With its plethora of languages, ...",
+    "snippet_highlighted_words": [
+     "India",
+     "AI"
+    ],
+    "source": "LinkedIn · Karya",
+    "title": "India AI Evaluation: Bridging the Gap between Models and ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjdzUy1SLVRnYk5xWl9lU013eUpvd09wTVFCaE9pOWUxZHlqTlEzbFdxUXRveVd5U1ZPM2t1ZE5tcXd0Qnp1SjZfQVN6YmxhWjFmNWotbnBmQ1FMcHZOcHgzOVNoUlltTGQwWlF5WVBYYVU2d0paOTRUZ3VROVZJZ0dtRmUybkhKTGc4VENfUlFteDVqTGJpUHZhNC1pOWZnY2plRzZ3EgQaAggAGsULEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAnwsIABAAGAAgACpGCgJpcxV3NZBAGgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gV98u3QBoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBUd8iQ-Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwVOxqUPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVOxqUPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFUK--T8aBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUAAAAAGgdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjdzUy1SLVRnYk5xWl9lU013eUpvd09wTVFCaE9pOWUxZHlqTlEzbFdxUXRveVd5U1ZPM2t1ZE5tcXd0Qnp1SjZfQVN6YmxhWjFmNWotbnBmQ1FMcHZOcHgzOVNoUlltTGQwWlF5WVBYYVU2d0paOTRUZ3VROVZJZ0dtRmUybkhKTGc4VENfUlFteDVqTGJpUHZhNC1pOWZnY2plRzZ3OklIb3cgPGI-QUk8L2I-IElzIENoYW5naW5nIDxiPlNlYXJjaDwvYj4gQmVoYXZpb3IgYW5kIFJlc2hhcGluZyBTRU8gaW4gLi4uQrEBPGI-QXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2U8L2I-IHdpbGwgZHJpdmUgPGI-c2VhcmNoPC9iPiBzdHJhdGVnaWVzLCBtYXJrZXRpbmcsIGFuZCBicmFuZCBidWlsZGluZyBieSAyMDI1LiA8Yj5BSTwvYj4gaXMgYWxzbyBhbHRlcmluZyBpbmZvcm1hdGlvbiA8Yj5zZWFyY2g8L2I-IGJlaGF2aW9yJm5ic3A7Li4uSgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjdzUy1SLVRnYk5xWl9lU013eUpvd09wTVFCaE9pOWUxZHlqTlEzbFdxUXRveVd5U1ZPM2t1ZE5tcXd0Qnp1SjZfQVN6YmxhWjFmNWotbnBmQ1FMcHZOcHgzOVNoUlltTGQwWlF5WVBYYVU2d0paOTRUZ3VROVZJZ0dtRmUybkhKTGc4VENfUlFteDVqTGJpUHZhNC1pOWZnY2plRzZ3EgQaAggAGsULEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAnwsIABAAGAAgACpGCgJpcxV3NZBAGgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gV98u3QBoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBUd8iQ-Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwVOxqUPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVOxqUPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFUK--T8aBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUAAAAAGgdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjdzUy1SLVRnYk5xWl9lU013eUpvd09wTVFCaE9pOWUxZHlqTlEzbFdxUXRveVd5U1ZPM2t1ZE5tcXd0Qnp1SjZfQVN6YmxhWjFmNWotbnBmQ1FMcHZOcHgzOVNoUlltTGQwWlF5WVBYYVU2d0paOTRUZ3VROVZJZ0dtRmUybkhKTGc4VENfUlFteDVqTGJpUHZhNC1pOWZnY2plRzZ3OklIb3cgPGI-QUk8L2I-IElzIENoYW5naW5nIDxiPlNlYXJjaDwvYj4gQmVoYXZpb3IgYW5kIFJlc2hhcGluZyBTRU8gaW4gLi4uQrEBPGI-QXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2U8L2I-IHdpbGwgZHJpdmUgPGI-c2VhcmNoPC9iPiBzdHJhdGVnaWVzLCBtYXJrZXRpbmcsIGFuZCBicmFuZCBidWlsZGluZyBieSAyMDI1LiA8Yj5BSTwvYj4gaXMgYWxzbyBhbHRlcmluZyBpbmZvcm1hdGlvbiA8Yj5zZWFyY2g8L2I-IGJlaGF2aW9yJm5ic3A7Li4uSgJpbiICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Artificial intelligence will drive search strategies, marketing, and brand building by 2025. AI is also altering information search behavior ...",
+      "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABwBgCdASocABwAPtEutFooIagoGAEAGglsALsdgEcS9JujQDu0SmcGt2oNy1o0C7uMI8AMRfFmk2JnaoAA_v7CyXA_P3Y5f64A_OclvYCa_UNFbxwevOF_4PAMdt0t66nKArUuGdk6D3wZJ8uc5CY2K2AS8_R3OsP2edx0H_9Uz_WglwOy0f_8pabAPL4wH1bHkX93i4vPbJ9QbBCqLrHEiWm7XfDYfKfyuwPA3Zja3VTU6mCvo9j1WF1L-BQ2sAQy0tmZbnjYrTkfxzHtdwcVis_fTbLJ-EJhMgQNa8dvCnx5qm9X-TK-gVnNCWP4nboKL6a_7n_f5Ezq1UtH_IPeN1AAAA.webp",
+      "source_info_link": "https://brainwavesindia.com/ai-changing-search-behavior-in-2025/"
+     }
+    },
+    "date": "03‏/11‏/2017",
+    "displayed_link": "https://brainwavesindia.com › ai-cha...",
+    "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABwBgCdASocABwAPtEutFooIagoGAEAGglsALsdgEcS9JujQDu0SmcGt2oNy1o0C7uMI8AMRfFmk2JnaoAA_v7CyXA_P3Y5f64A_OclvYCa_UNFbxwevOF_4PAMdt0t66nKArUuGdk6D3wZJ8uc5CY2K2AS8_R3OsP2edx0H_9Uz_WglwOy0f_8pabAPL4wH1bHkX93i4vPbJ9QbBCqLrHEiWm7XfDYfKfyuwPA3Zja3VTU6mCvo9j1WF1L-BQ2sAQy0tmZbnjYrTkfxzHtdwcVis_fTbLJ-EJhMgQNa8dvCnx5qm9X-TK-gVnNCWP4nboKL6a_7n_f5Ezq1UtH_IPeN1AAAA.webp",
+    "link": "https://brainwavesindia.com/ai-changing-search-behavior-in-2025/",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEB6zswFV59fejW624jQZxi3yiD_D9RJncDoBN28tjK7wQWHgjQMElVoNYvniACj-IvB1_IeKdi8-WpFKGaf0eT2BS26k45elosqZOQNIfraFcPw6J8RM7IVpo08278hggI8GhNAQ2xVHdxyG9GgVDEikyKL2q3REFcvH_38GQi2hTUO_nsJn9UBJJWWQ5GGVS2q050E7bpn5wtkhA2k1dN0JFCNsUxOPuqJbYRnJHFMkMlXGQSwJ1H0c7N3e1bU9wFwqtntg&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECCUQAQ&uoh=1",
-    "snippet": "Half of consumers are using AI-powered search today, and it could impact $750 billion in revenue by 2028. Do you have a gen AI engine ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAV7sS-R-TgbNqZ_eSMwyJowOpMQBhOi9e1dyjNQ3lWqQtoyWySVO3kudNmqwtBzuJ6_ASzblaZ1f5j-npfCQLpvNpx39ShRYmLd0ZQyYPXaU6wJZ94TguQ9VIgGmFe2nHJLg8TC_RQmx5jLbiPva4-i9fgcjeG6w&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQFnoECBsQAQ&uoh=1",
+    "snippet": "Artificial intelligence will drive search strategies, marketing, and brand building by 2025. AI is also altering information search behavior ...",
     "snippet_highlighted_words": [
-     "AI",
-     "search",
-     "AI"
-    ],
-    "source": "McKinsey & Company",
-    "title": "New front door to the internet: Winning in the age of AI search"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "According to research completed by Exploding Topics, 77% of companies are either using or exploring the use of AI in their businesses, and 83% ...",
-      "icon": "https://serpapi.com/images/i/UklGRgIBAABXRUJQVlA4IPYAAACwBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0dgIMBtmAKqlo63iqiLXPKhC13h5d4MIxahgAA_vfmm3lf5Jy6uUt_993xfAs9da6XfRkFrvGH1qpd_sYU8XxnK1VDAXJ7fe-AjAzvBnO9gilYoZ41QozwSOZ5oG2T8I4-FncbuNFVD_IgLmJEd7f_29UaU_5Xb-bn1-LpypVIWQpFg5ktSNzelcqPGHRGx6K-WBaq9peBukNkcPzfK_yg81UtQKcpeEs-2ARCWMfZ7IDziwIFO7npuAnZGDamSE41176f7eiOSPuXo1w-pxPvLhlPVf0f5G4AAAA.webp",
-      "source_info_link": "https://www.nu.edu/blog/ai-statistics-trends/"
-     }
-    },
-    "date": "Apr 16, 2026",
-    "displayed_link": "https://www.nu.edu › blog › ai-statistics-trends",
-    "favicon": "https://serpapi.com/images/i/UklGRgIBAABXRUJQVlA4IPYAAACwBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0dgIMBtmAKqlo63iqiLXPKhC13h5d4MIxahgAA_vfmm3lf5Jy6uUt_993xfAs9da6XfRkFrvGH1qpd_sYU8XxnK1VDAXJ7fe-AjAzvBnO9gilYoZ41QozwSOZ5oG2T8I4-FncbuNFVD_IgLmJEd7f_29UaU_5Xb-bn1-LpypVIWQpFg5ktSNzelcqPGHRGx6K-WBaq9peBukNkcPzfK_yg81UtQKcpeEs-2ARCWMfZ7IDziwIFO7npuAnZGDamSE41176f7eiOSPuXo1w-pxPvLhlPVf0f5G4AAAA.webp",
-    "link": "https://www.nu.edu/blog/ai-statistics-trends/",
-    "position": 4,
-    "read_more_link": "https://www.nu.edu/blog/ai-statistics-trends/#:~:text=According%20to%20research%20completed%20by,priority%20in%20their%20business%20plans.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVSDh07uy87RxPPPfsgdDggH1Fp8yJq1OI8iA8vzL71tKtbb40g-soEUFy_d1jDvFpqQQbwUmklH0HwEDOgjdQfygFmVry20bRp_5kKUS3u42K0xcYFrAI3x4LWPZTo2zl&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECC4QAQ&uoh=1",
-    "snippet": "According to research completed by Exploding Topics, 77% of companies are either using or exploring the use of AI in their businesses, and 83% ...",
-    "snippet_highlighted_words": [
-     "AI"
-    ],
-    "source": "nu.edu",
-    "title": "137 AI Statistics and Trends for 2026 | National University"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "AI-related searches - covering tools for creation, transcription, and everyday utilities averaged 235 million per month, up 154% year-on-year.  ...",
-      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-      "source_info_link": "https://www.instagram.com/p/DW069sWkgd3/"
-     }
-    },
-    "displayed_link": "8 likes · 5 months ago",
-    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "link": "https://www.instagram.com/p/DW069sWkgd3/",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV9qWSU8JUgAhqqbBsCM7eU1N4WtZtgKYwMypIgNHh4vxRy2BgR8dkbSgFzUb22xHIvMfH2am8UjlNiahMeptg1j-KScsHzKOBGPdG6tT9zkXv8Z39KZUaGY4bDQ&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECCMQAQ&uoh=1",
-    "snippet": "AI-related searches - covering tools for creation, transcription, and everyday utilities averaged 235 million per month, up 154% year-on-year. ...",
-    "snippet_highlighted_words": [
-     "AI"
-    ],
-    "source": "Instagram · enlightenedpost",
-    "title": "Kantar has released the second edition of its 'India ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The India Artificial Intelligence Market Size is anticipated to Reach USD 257.45 Billion by 2035, Growing at a CAGR of 25.24% from 2025 to 2035.",
-      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASogABwAPtE-tFooIigoFAEAGglsAJ0yhIQiSBDEvHZWv-6jElGg5XmQd0ndpjwr_Y60wAAA_vv3MoBWuGQxhNSXbjwvcs-jCx1YT9fmKx6PllaO_9XZ21O8anyrRnPOPwOtajQ9KlRjC7LnXbiuJB0wSsvZSPf6G7T_TOxC_o1lub77_8grdn5zS1L35fbQFc1nPZ4VJ0rzC8pP8c5PyxUhNsik9iK64WBRNyZPmAZB3SWA6Z9fni_4O_Kp5K22ojqfGzIgOdNVzxgqQK011bHSei7SQy18Am3leIDxbHVOSvVxko-GVLhYOsRP5RAVe61DXsoA.webp",
-      "source_info_link": "https://www.sphericalinsights.com/reports/india-artificial-intelligence-market"
-     }
-    },
-    "displayed_link": "https://www.sphericalinsights.com › reports › india-artific...",
-    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASogABwAPtE-tFooIigoFAEAGglsAJ0yhIQiSBDEvHZWv-6jElGg5XmQd0ndpjwr_Y60wAAA_vv3MoBWuGQxhNSXbjwvcs-jCx1YT9fmKx6PllaO_9XZ21O8anyrRnPOPwOtajQ9KlRjC7LnXbiuJB0wSsvZSPf6G7T_TOxC_o1lub77_8grdn5zS1L35fbQFc1nPZ4VJ0rzC8pP8c5PyxUhNsik9iK64WBRNyZPmAZB3SWA6Z9fni_4O_Kp5K22ojqfGzIgOdNVzxgqQK011bHSei7SQy18Am3leIDxbHVOSvVxko-GVLhYOsRP5RAVe61DXsoA.webp",
-    "link": "https://www.sphericalinsights.com/reports/india-artificial-intelligence-market",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFepDOQtm6H56ovUpK9-RZ7u_Suzn7XDwliY1MpDJxn3b5qpg26i_zMhuJTNWRL5WQR7iJuK7ZNCrqgtYLauxEfTfvdv4k0O9ovcOqEpp6NTTkzNJAl433ooGD1vlYXODGlTIUJuG2XP6svp8Nt9VZgLdP8HMRjwtd0NpB5Saff5RpA&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECCAQAQ&uoh=1",
-    "snippet": "The India Artificial Intelligence Market Size is anticipated to Reach USD 257.45 Billion by 2035, Growing at a CAGR of 25.24% from 2025 to 2035.",
-    "snippet_highlighted_words": [
-     "India Artificial Intelligence",
-     "Growing"
-    ],
-    "source": "Spherical Insights",
-    "title": "India Artificial Intelligence Market Size, Share, Growth ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The latest data on our changing search behavior AI is transforming our lives. But how do we search for it every day? often asking how it can help",
-      "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBgCdASocABwAPtEutFooIagoGAEAGglsAMUHAnqtuGcA2zt2V7xkjQDvIk_VA-O2s8pLTq-PJG4uRQAA_v7CEt1OPnqJFunKXxcNm71mkvf05j2Gq3tSS3tBkA8LgR777rgiPC0KRMwl0lrmz5-9YGf1_4jntEnx8vsxhqeuI63JIL_eAD3kHr2RMOM9Un7YcbF5dj3g4A_HijSF9K58UgPoNYP144YY7oF8kKe6uRVdHcjaTmWaY4szcVQZWAVpPYECMN0W8iARTbgePzCioVQitOexWn9LJ5ZtkAAAAA.webp",
-      "source_info_link": "https://trends.withgoogle.com/trends/us/artificial-intelligence-search-trends/"
-     }
-    },
-    "displayed_link": "https://trends.withgoogle.com › trends › artificial-intelli...",
-    "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBgCdASocABwAPtEutFooIagoGAEAGglsAMUHAnqtuGcA2zt2V7xkjQDvIk_VA-O2s8pLTq-PJG4uRQAA_v7CEt1OPnqJFunKXxcNm71mkvf05j2Gq3tSS3tBkA8LgR777rgiPC0KRMwl0lrmz5-9YGf1_4jntEnx8vsxhqeuI63JIL_eAD3kHr2RMOM9Un7YcbF5dj3g4A_HijSF9K58UgPoNYP144YY7oF8kKe6uRVdHcjaTmWaY4szcVQZWAVpPYECMN0W8iARTbgePzCioVQitOexWn9LJ5ZtkAAAAA.webp",
-    "link": "https://trends.withgoogle.com/trends/us/artificial-intelligence-search-trends/",
-    "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFT5AAG4dk6NqAt1JEtGf74xMKhrsQKZIF6mQXM06Ld1AhMzWdmjbbh4_ZQUki4EfMuM7YYqITzUDn_kbS3LgntkCfBWj-n2JJwTKXZn8gUXsZpSbfMXYQgTJKTurOTnNwD7mWNscz6Ix_WwLiT5ScFzzyL7IXOtC68xpBcgddRAV9g&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECEAQAQ&uoh=1",
-    "snippet": "The latest data on our changing search behavior AI is transforming our lives. But how do we search for it every day? often asking how it can help",
-    "snippet_highlighted_words": [
+     "Artificial intelligence",
      "search",
      "AI",
      "search"
     ],
-    "source": "Google's Year in Search",
-    "title": "Artificial Intelligence Search Trends — Google Trends"
+    "source": "brainwavesindia.com",
+    "title": "How AI Is Changing Search Behavior and Reshaping SEO in ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZmUmgyZ2RTcTlTVGVEXzJNRDVQY1JRcVR4WFR2cHM5Y0xHZ1lGdld5WmxFYVpScDNKYUUxUU9Va3I5U2V0UFV4ODBZbXNPXzBpUU1NWG9vV1o0djRLWTFZaGd3SnJQY0hXU1FQU2tFb0UwSjFmdDl2akMzMzFIUm5Va3BILVZpbHNMXzVqbjlpczZKNGRFRTI1ZmV5ZzVsNkpsYV9BUHYzdE5QNkVkbmVENGxYeU1MVldHSzVoMTFGU213eWVlcWZoNGlsNEl6SHhzUTRYeEN5dEFpUGdKNk5WVGhRVjJWaDNWQnRETVJYSWxncUpVaks3bWRBNE1RUF9iRXFFb0REbU9mNnBVanRIUm1SV1Q2EgQaAggAGrELEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQI0LCAAQABgAIAAqRgoCaXMVZjc5QBoG2KfZitizGgdpdjtkO2lzGghpdjtkO2FyZRoJaXY7ZDtkb2VzGghpdjtkO3dhcxoLaXY7ZDvYp9mK2LMqbQoGc2VhcmNoFRU-yT0aCHJlc2VhcmNoGglzZWFyY2hpbmcaBtio2K3YqxoI2LPZitix2LQaC2l2O2Q7c2VhcmNoGg1pdjtkO3Jlc2VhcmNoGg5pdjtkO3NlYXJjaGluZxoLaXY7ZDvYqNit2KsqbwoIaW50ZXJlc3QVYAWXPxoO2KfZhNmB2KfYptiv2KkaDNin2YbYqtix2LPYqhoNaXY7ZDtpbnRlcmVzdBoTaXY7ZDvYp9mE2YHYp9ih2K_ZhxoRaXY7ZDvYp9mG2KrYsdiz2KoaCWludGVyZXN0cyoJCgJpbhUAAAAAKqMBCgphcnRpZmljaWFsFZJYzkAaAmFpGhBtYWNoaW5lIGxlYXJuaW5nGhLYp9mE2KfYtdi32YbYp9i52YoaFmFydGlmaWNpYWxpbnRlbGxpZ2VuY2UaD2l2O2Q7YXJ0aWZpY2lhbBoHaXY7ZDthaRoXaXY7ZDvYp9mE2KfYtdi32YbYp9i52YoaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSrEAQoMaW50ZWxsaWdlbmNlFaEUzkAaAmFpGhBtYWNoaW5lIGxlYXJuaW5nGgzYp9mE2LDZg9in2KEaENin2YbYqtmE2YrYrNmG2LMaFmFydGlmaWNpYWxpbnRlbGxpZ2VuY2UaEWl2O2Q7aW50ZWxsaWdlbmNlGgdpdjtkO2FpGhFpdjtkO9in2YTYsNmD2KfYoRoVaXY7ZDvYp9mG2KrZhNmK2KzZhtizGhtpdjtkO2FydGlmaWNpYWxpbnRlbGxpZ2VuY2UqCQoCaW4VAAAAACpXCgVpbmRpYRVhdGg_GgZpbmRpYW4aCtin2YbYr9mK2KcaC2luZGlhcmlzaW5nGgppdjtkO2luZGlhGgtpdjtkO2luZGlhbhoPaXY7ZDvYp9mG2K_ZitinKtYBCgZyaXNpbmcVJhqUQBoHZ3Jvd2luZxoLaW5jcmVhc2UgaW4aCmluY3JlYXNpbmcaB3JhaXNpbmcaBHJpc2UaDNin2LHYqtmB2KfYuRoK2LHZitiz2YbYrBoLaW5kaWFyaXNpbmcaC2l2O2Q7cmlzaW5nGgxpdjtkO2dyb3dpbmcaD2l2O2Q7aW5jcmVhc2luZxoMaXY7ZDtyYWlzaW5nGglpdjtkO3Jpc2UaEWl2O2Q72KfYsdiq2YHYp9i5Gg9pdjtkO9ix2YrYs9mG2KwaBmdyb3d0aDLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGWFBXbUFaWW1vSFdJQ19Wazhsc1hPQUM5VVNsRHltYXU3cm1zRkRrZXYzR2lwbEhfSWRScUNjUjlQZ1B4M25kOTJtU3RBOFAxRmJQaEl6a2libkVrSFJoMXFwNzR3enRPcXFfT2JBamFhZmlKWjNlUVBRUEtjMHZ2Wnd2MjBWeEEtemhFbEtQTTlCdEpuS3l6RlhkaFhPQW5Pb1FsdHd3bF9TMzlSV2JEYkFuRUVJcTV1b0RsVmdGOkVUaGUgPGI-UmlzaW5nPC9iPiBEZW1hbmQgZm9yIDxiPkFydGlmaWNpYWwgSW50ZWxsaWdlbmNlPC9iPiBpbiBNeXNvcmVCiQE8Yj5NeXNvcmUgaXMgd2l0bmVzc2luZyBhIGdyb3dpbmcgaW50ZXJlc3QgaW4gYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2U8L2I-IChBSSkgYXMgaW5kdXN0cmllcyBpbmNyZWFzaW5nbHkgZW1icmFjZSBkaWdpdGFsIHRyYW5zZm9ybWF0aW9uLkoCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZmUmgyZ2RTcTlTVGVEXzJNRDVQY1JRcVR4WFR2cHM5Y0xHZ1lGdld5WmxFYVpScDNKYUUxUU9Va3I5U2V0UFV4ODBZbXNPXzBpUU1NWG9vV1o0djRLWTFZaGd3SnJQY0hXU1FQU2tFb0UwSjFmdDl2akMzMzFIUm5Va3BILVZpbHNMXzVqbjlpczZKNGRFRTI1ZmV5ZzVsNkpsYV9BUHYzdE5QNkVkbmVENGxYeU1MVldHSzVoMTFGU213eWVlcWZoNGlsNEl6SHhzUTRYeEN5dEFpUGdKNk5WVGhRVjJWaDNWQnRETVJYSWxncUpVaks3bWRBNE1RUF9iRXFFb0REbU9mNnBVanRIUm1SV1Q2EgQaAggAGrELEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQI0LCAAQABgAIAAqRgoCaXMVZjc5QBoG2KfZitizGgdpdjtkO2lzGghpdjtkO2FyZRoJaXY7ZDtkb2VzGghpdjtkO3dhcxoLaXY7ZDvYp9mK2LMqbQoGc2VhcmNoFRU-yT0aCHJlc2VhcmNoGglzZWFyY2hpbmcaBtio2K3YqxoI2LPZitix2LQaC2l2O2Q7c2VhcmNoGg1pdjtkO3Jlc2VhcmNoGg5pdjtkO3NlYXJjaGluZxoLaXY7ZDvYqNit2KsqbwoIaW50ZXJlc3QVYAWXPxoO2KfZhNmB2KfYptiv2KkaDNin2YbYqtix2LPYqhoNaXY7ZDtpbnRlcmVzdBoTaXY7ZDvYp9mE2YHYp9ih2K_ZhxoRaXY7ZDvYp9mG2KrYsdiz2KoaCWludGVyZXN0cyoJCgJpbhUAAAAAKqMBCgphcnRpZmljaWFsFZJYzkAaAmFpGhBtYWNoaW5lIGxlYXJuaW5nGhLYp9mE2KfYtdi32YbYp9i52YoaFmFydGlmaWNpYWxpbnRlbGxpZ2VuY2UaD2l2O2Q7YXJ0aWZpY2lhbBoHaXY7ZDthaRoXaXY7ZDvYp9mE2KfYtdi32YbYp9i52YoaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSrEAQoMaW50ZWxsaWdlbmNlFaEUzkAaAmFpGhBtYWNoaW5lIGxlYXJuaW5nGgzYp9mE2LDZg9in2KEaENin2YbYqtmE2YrYrNmG2LMaFmFydGlmaWNpYWxpbnRlbGxpZ2VuY2UaEWl2O2Q7aW50ZWxsaWdlbmNlGgdpdjtkO2FpGhFpdjtkO9in2YTYsNmD2KfYoRoVaXY7ZDvYp9mG2KrZhNmK2KzZhtizGhtpdjtkO2FydGlmaWNpYWxpbnRlbGxpZ2VuY2UqCQoCaW4VAAAAACpXCgVpbmRpYRVhdGg_GgZpbmRpYW4aCtin2YbYr9mK2KcaC2luZGlhcmlzaW5nGgppdjtkO2luZGlhGgtpdjtkO2luZGlhbhoPaXY7ZDvYp9mG2K_ZitinKtYBCgZyaXNpbmcVJhqUQBoHZ3Jvd2luZxoLaW5jcmVhc2UgaW4aCmluY3JlYXNpbmcaB3JhaXNpbmcaBHJpc2UaDNin2LHYqtmB2KfYuRoK2LHZitiz2YbYrBoLaW5kaWFyaXNpbmcaC2l2O2Q7cmlzaW5nGgxpdjtkO2dyb3dpbmcaD2l2O2Q7aW5jcmVhc2luZxoMaXY7ZDtyYWlzaW5nGglpdjtkO3Jpc2UaEWl2O2Q72KfYsdiq2YHYp9i5Gg9pdjtkO9ix2YrYs9mG2KwaBmdyb3d0aDLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGWFBXbUFaWW1vSFdJQ19Wazhsc1hPQUM5VVNsRHltYXU3cm1zRkRrZXYzR2lwbEhfSWRScUNjUjlQZ1B4M25kOTJtU3RBOFAxRmJQaEl6a2libkVrSFJoMXFwNzR3enRPcXFfT2JBamFhZmlKWjNlUVBRUEtjMHZ2Wnd2MjBWeEEtemhFbEtQTTlCdEpuS3l6RlhkaFhPQW5Pb1FsdHd3bF9TMzlSV2JEYkFuRUVJcTV1b0RsVmdGOkVUaGUgPGI-UmlzaW5nPC9iPiBEZW1hbmQgZm9yIDxiPkFydGlmaWNpYWwgSW50ZWxsaWdlbmNlPC9iPiBpbiBNeXNvcmVCiQE8Yj5NeXNvcmUgaXMgd2l0bmVzc2luZyBhIGdyb3dpbmcgaW50ZXJlc3QgaW4gYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2U8L2I-IChBSSkgYXMgaW5kdXN0cmllcyBpbmNyZWFzaW5nbHkgZW1icmFjZSBkaWdpdGFsIHRyYW5zZm9ybWF0aW9uLkoCaW4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "This study looks into how artificial intelligence (AI) is changing the managerial and economic landscape in India. The paper examines how AI impacts the GDP ...",
-      "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADQBwCdASogACAAPrkurlcnIacnG_DgFwlqAMKgWe3PB_KsEcCuAlUTbp9Fkf0Vj_1mgKzOxAWkkfnk16RksBwzgKgWoLMAAAD-9-mVdHLLRpujV7iuDWr0s6ZtKEpOA1FWiFYyAqgwU423v0HfGv0Kai3j2XVQJJ2a444oEsmjl7i5u1yu8C5HEcUU7mX1PhHgOgUuYgNpaAbGUKSPsQsGF4r97yWSIqOObLeh5lBExy1Ahj4LBlY3Ap2vZdXlsYMgxS3fXAxWA9Ib-aF1gRXuf4ZeplRN_QXksSidOQkCRkBR0ose2Wy8Uc4nDQb1MLGS89-nzDnuwk5zDgkckii5mncVDb-wJ-W67cmWyOfzW686DnKY4752i10OdpcfnQi7ueYnWVQf6s-Gsm7gPL1EnrVl_tZWM04zmiiB-9lItfWfGfBS0VkTS-bhRI_Fy_FsO0_U4nL_V8NDpIzmSBwoI5o54JJbIijElBzoTJ95SaIq3Mw24g-XwAA.webp",
-      "source_info_link": "https://jmra.in/archive/volume/11/issue/1/article/16025"
+      "description": "Mysore is witnessing a growing interest in artificial intelligence (AI) as industries increasingly embrace digital transformation.",
+      "icon": "https://serpapi.com/images/i/UklGRqQBAABXRUJQVlA4IJgBAAAwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHmO3jk8ZaWZiPBDMvGnQzevZWP1IF8A4AuCinw8OIS8hA7ai8T2jhpr-npVQAD-93Dm9i_GeumGfuxBQ5eCnGnZwIrf9UeCMPbz7MnqY_5c-4f700Ov3Sd96ljMvPsHu2eO3-YVAmtfysb_0YTw67KzofxL7_ZFnNet_RGzZ81YXavIyNq3hWY-r4BCdKkhjfBzbABDDYGOKa1iWHRxrXWGSDBv80GuWFN8WSuPmtfom7Gz07rYY4O3AghxWVrJ51_0CtlVIs1I1MMZglkpt9B-kTT_LANjMXD3QMzvqT9GD1dQmRSDmCdbP4SwUB4J_Yv_uv1r-FNXQ_raSf3UjO3u4O-DCfBPAU-JzmKRyb5dKU5TJG91_2KYNRKoE752Lpmd_KB5IMWjpFjDgnFiLSBhtXh6AOXFRJ1-SjEgqaBU5VjBPa_e45ByDTbpN45BuabIemSI59xl4_6zJlN02gNvpxaIHVRo1_HOAzhfzuzCfGERNsnwbHaAAAA.webp",
+      "source_info_link": "https://datamites.com/blog/the-rising-demand-for-artificial-intelligence-in-mysore/?srsltid=AU7gw4U-TzZbL4KF5SrzhCIePxOyXpHAxJdWTVXr7w3QmoHsioq84w4r"
      }
     },
-    "displayed_link": "https://jmra.in › archive › volume › issue › article",
-    "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADQBwCdASogACAAPrkurlcnIacnG_DgFwlqAMKgWe3PB_KsEcCuAlUTbp9Fkf0Vj_1mgKzOxAWkkfnk16RksBwzgKgWoLMAAAD-9-mVdHLLRpujV7iuDWr0s6ZtKEpOA1FWiFYyAqgwU423v0HfGv0Kai3j2XVQJJ2a444oEsmjl7i5u1yu8C5HEcUU7mX1PhHgOgUuYgNpaAbGUKSPsQsGF4r97yWSIqOObLeh5lBExy1Ahj4LBlY3Ap2vZdXlsYMgxS3fXAxWA9Ib-aF1gRXuf4ZeplRN_QXksSidOQkCRkBR0ose2Wy8Uc4nDQb1MLGS89-nzDnuwk5zDgkckii5mncVDb-wJ-W67cmWyOfzW686DnKY4752i10OdpcfnQi7ueYnWVQf6s-Gsm7gPL1EnrVl_tZWM04zmiiB-9lItfWfGfBS0VkTS-bhRI_Fy_FsO0_U4nL_V8NDpIzmSBwoI5o54JJbIijElBzoTJ95SaIq3Mw24g-XwAA.webp",
-    "link": "https://jmra.in/archive/volume/11/issue/1/article/16025",
+    "date": "29‏/08‏/2026",
+    "displayed_link": "https://datamites.com › blog › the-risi...",
+    "favicon": "https://serpapi.com/images/i/UklGRqQBAABXRUJQVlA4IJgBAAAwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHmO3jk8ZaWZiPBDMvGnQzevZWP1IF8A4AuCinw8OIS8hA7ai8T2jhpr-npVQAD-93Dm9i_GeumGfuxBQ5eCnGnZwIrf9UeCMPbz7MnqY_5c-4f700Ov3Sd96ljMvPsHu2eO3-YVAmtfysb_0YTw67KzofxL7_ZFnNet_RGzZ81YXavIyNq3hWY-r4BCdKkhjfBzbABDDYGOKa1iWHRxrXWGSDBv80GuWFN8WSuPmtfom7Gz07rYY4O3AghxWVrJ51_0CtlVIs1I1MMZglkpt9B-kTT_LANjMXD3QMzvqT9GD1dQmRSDmCdbP4SwUB4J_Yv_uv1r-FNXQ_raSf3UjO3u4O-DCfBPAU-JzmKRyb5dKU5TJG91_2KYNRKoE752Lpmd_KB5IMWjpFjDgnFiLSBhtXh6AOXFRJ1-SjEgqaBU5VjBPa_e45ByDTbpN45BuabIemSI59xl4_6zJlN02gNvpxaIHVRo1_HOAzhfzuzCfGERNsnwbHaAAAA.webp",
+    "link": "https://datamites.com/blog/the-rising-demand-for-artificial-intelligence-in-mysore/?srsltid=AU7gw4U-TzZbL4KF5SrzhCIePxOyXpHAxJdWTVXr7w3QmoHsioq84w4r",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0AEB6zswFfRh2gdSq9STeD_2MD5PcRQqTxXTvps9cLGgYFvWyZlEaZRp3JaE1QOUkr9SetPUx80YmsO_0iQMMXooWZ4v4KY1YhgwJrPcHWSQPSkEoE0J1ft9vjC331HRnUkpH-VilsL_5jn9is6J4dEE25feyg5l6Jla_APv3tNP6EdneD4lXyMLVWGK5h11FSmwyeeqfh4il4IzHxsQ4XxCytAiPgJ6NVThQV2Vh3VBtDMRXIlgqJUjK7mdA4MQP_bEqEoDDmOf6pUjtHRmRWT6&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQFnoECBwQAQ&uoh=1",
+    "snippet": "Mysore is witnessing a growing interest in artificial intelligence (AI) as industries increasingly embrace digital transformation.",
+    "snippet_highlighted_words": [
+     "Mysore is witnessing a growing interest in artificial intelligence"
+    ],
+    "source": "Datamites Global Training Institute",
+    "title": "The Rising Demand for Artificial Intelligence in Mysore"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZmWVlhNDlGT0ZDOEgzWEFuT2lLbzlaRXBMX25ILU9USVFvNUdXeFdRVlB2QzA0Q0hDdXVWSGhBaXRiT1g0bEJSOXZOX2IyeTFXTnk3SzhGSVRxTkt0Um1CSnptZjBlN0EwVlpGSWpXNXh5V1FqdDBZNlBDWWFRaVRFUlE0MVRjeWFIREJQZElEeHVQRDRZeWp0UFNkMllqVmZMTUpwaFBnQ1JENU5oRWczNlNHZy1yMlM4S3l0UEpZbW5jZS1HdjVDcF9EQUcyZ0VSZjFfSkhVNE9PcGt4R3BiZk9XOXJUeDZab3p4RUQ5NkFxVEZzMFAzNmo5dktZVEVZVkp5RENrQRIEGgIIABqdDBIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkD5CwgAEAAYACAAKkYKAmlzFYVY1T8aBtin2YrYsxoHaXY7ZDtpcxoIaXY7ZDthcmUaCWl2O2Q7ZG9lcxoIaXY7ZDt3YXMaC2l2O2Q72KfZitizKm0KBnNlYXJjaBXVkSo8GghyZXNlYXJjaBoJc2VhcmNoaW5nGgbYqNit2KsaCNiz2YrYsdi0GgtpdjtkO3NlYXJjaBoNaXY7ZDtyZXNlYXJjaBoOaXY7ZDtzZWFyY2hpbmcaC2l2O2Q72KjYrdirKm8KCGludGVyZXN0FSvh5T0aDtin2YTZgdin2KbYr9ipGgzYp9mG2KrYsdiz2KoaDWl2O2Q7aW50ZXJlc3QaE2l2O2Q72KfZhNmB2KfYodiv2YcaEWl2O2Q72KfZhtiq2LHYs9iqGglpbnRlcmVzdHMqCQoCaW4VAAAAACqjAQoKYXJ0aWZpY2lhbBXraME_GgJhaRoQbWFjaGluZSBsZWFybmluZxoS2KfZhNin2LXYt9mG2KfYudmKGhZhcnRpZmljaWFsaW50ZWxsaWdlbmNlGg9pdjtkO2FydGlmaWNpYWwaB2l2O2Q7YWkaF2l2O2Q72KfZhNin2LXYt9mG2KfYudmKGhtpdjtkO2FydGlmaWNpYWxpbnRlbGxpZ2VuY2UqxAEKDGludGVsbGlnZW5jZRVD58U_GgJhaRoQbWFjaGluZSBsZWFybmluZxoM2KfZhNiw2YPYp9ihGhDYp9mG2KrZhNmK2KzZhtizGhZhcnRpZmljaWFsaW50ZWxsaWdlbmNlGhFpdjtkO2ludGVsbGlnZW5jZRoHaXY7ZDthaRoRaXY7ZDvYp9mE2LDZg9in2KEaFWl2O2Q72KfZhtiq2YTZitis2YbYsxobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKgkKAmluFQAAAAAqVwoFaW5kaWEVBE-pPxoGaW5kaWFuGgrYp9mG2K_ZitinGgtpbmRpYXJpc2luZxoKaXY7ZDtpbmRpYRoLaXY7ZDtpbmRpYW4aD2l2O2Q72KfZhtiv2YrYpyrWAQoGcmlzaW5nFQAAAAAaB2dyb3dpbmcaC2luY3JlYXNlIGluGgppbmNyZWFzaW5nGgdyYWlzaW5nGgRyaXNlGgzYp9ix2KrZgdin2LkaCtix2YrYs9mG2KwaC2luZGlhcmlzaW5nGgtpdjtkO3Jpc2luZxoMaXY7ZDtncm93aW5nGg9pdjtkO2luY3JlYXNpbmcaDGl2O2Q7cmFpc2luZxoJaXY7ZDtyaXNlGhFpdjtkO9in2LHYqtmB2KfYuRoPaXY7ZDvYsdmK2LPZhtisGgZncm93dGgymAIvZ290bz91cmw9Q0FFU3hRRUI2enN3RmZZWWE0OUZPRkM4SDNYQW5PaUtvOVpFcExfbkgtT1RJUW81R1d4V1FWUHZDMDRDSEN1dVZIaEFpdGJPWDRsQlI5dk5fYjJ5MVdOeTdLOEZJVHFOS3RSbUJKem1mMGU3QTBWWkZJalc1eHlXUWp0MFk2UENZYVFpVEVSUTQxVGN5YUhEQlBkSUR4dVBENFl5anRQU2QyWWpWZkxNSnBoUGdDUkQ1TmhFZzM2U0dnLXIyUzhLeXRQSlltbmNlLUd2NUNwX0RBRzJnRVJmMV9KSFU0T09wa3hHcGJmT1c5clR4NlpvenhFRDk2QXFURnMwUDM2ajl2S1lURVlWSnlEQ2tBOlVXaWxsIHRoZSA8Yj5yaXNlPC9iPiBvZiA8Yj5BSTwvYj4gZm9yY2UgdGhlIDxiPkluZGlhbjwvYj4gbWlkZGxlIGNsYXNzIHRvIC4uLiAtIFF1b3JhQpsBV2lsbCB0aGUgPGI-cmlzZTwvYj4gb2YgPGI-QUk8L2I-IGZvcmNlIHRoZSA8Yj5JbmRpYW48L2I-IG1pZGRsZSBjbGFzcyB0byBmaW5hbGx5IGFiYW5kb24gdGhlIHB1cnN1aXQgb2YgdHJhZGl0aW9uYWwgZW5naW5lZXJpbmcgZGVncmVlcz8gQWxsIHJlbGF0ZWQgKDMxKS5KAmluIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZmWVlhNDlGT0ZDOEgzWEFuT2lLbzlaRXBMX25ILU9USVFvNUdXeFdRVlB2QzA0Q0hDdXVWSGhBaXRiT1g0bEJSOXZOX2IyeTFXTnk3SzhGSVRxTkt0Um1CSnptZjBlN0EwVlpGSWpXNXh5V1FqdDBZNlBDWWFRaVRFUlE0MVRjeWFIREJQZElEeHVQRDRZeWp0UFNkMllqVmZMTUpwaFBnQ1JENU5oRWczNlNHZy1yMlM4S3l0UEpZbW5jZS1HdjVDcF9EQUcyZ0VSZjFfSkhVNE9PcGt4R3BiZk9XOXJUeDZab3p4RUQ5NkFxVEZzMFAzNmo5dktZVEVZVkp5RENrQRIEGgIIABqdDBIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkD5CwgAEAAYACAAKkYKAmlzFYVY1T8aBtin2YrYsxoHaXY7ZDtpcxoIaXY7ZDthcmUaCWl2O2Q7ZG9lcxoIaXY7ZDt3YXMaC2l2O2Q72KfZitizKm0KBnNlYXJjaBXVkSo8GghyZXNlYXJjaBoJc2VhcmNoaW5nGgbYqNit2KsaCNiz2YrYsdi0GgtpdjtkO3NlYXJjaBoNaXY7ZDtyZXNlYXJjaBoOaXY7ZDtzZWFyY2hpbmcaC2l2O2Q72KjYrdirKm8KCGludGVyZXN0FSvh5T0aDtin2YTZgdin2KbYr9ipGgzYp9mG2KrYsdiz2KoaDWl2O2Q7aW50ZXJlc3QaE2l2O2Q72KfZhNmB2KfYodiv2YcaEWl2O2Q72KfZhtiq2LHYs9iqGglpbnRlcmVzdHMqCQoCaW4VAAAAACqjAQoKYXJ0aWZpY2lhbBXraME_GgJhaRoQbWFjaGluZSBsZWFybmluZxoS2KfZhNin2LXYt9mG2KfYudmKGhZhcnRpZmljaWFsaW50ZWxsaWdlbmNlGg9pdjtkO2FydGlmaWNpYWwaB2l2O2Q7YWkaF2l2O2Q72KfZhNin2LXYt9mG2KfYudmKGhtpdjtkO2FydGlmaWNpYWxpbnRlbGxpZ2VuY2UqxAEKDGludGVsbGlnZW5jZRVD58U_GgJhaRoQbWFjaGluZSBsZWFybmluZxoM2KfZhNiw2YPYp9ihGhDYp9mG2KrZhNmK2KzZhtizGhZhcnRpZmljaWFsaW50ZWxsaWdlbmNlGhFpdjtkO2ludGVsbGlnZW5jZRoHaXY7ZDthaRoRaXY7ZDvYp9mE2LDZg9in2KEaFWl2O2Q72KfZhtiq2YTZitis2YbYsxobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKgkKAmluFQAAAAAqVwoFaW5kaWEVBE-pPxoGaW5kaWFuGgrYp9mG2K_ZitinGgtpbmRpYXJpc2luZxoKaXY7ZDtpbmRpYRoLaXY7ZDtpbmRpYW4aD2l2O2Q72KfZhtiv2YrYpyrWAQoGcmlzaW5nFQAAAAAaB2dyb3dpbmcaC2luY3JlYXNlIGluGgppbmNyZWFzaW5nGgdyYWlzaW5nGgRyaXNlGgzYp9ix2KrZgdin2LkaCtix2YrYs9mG2KwaC2luZGlhcmlzaW5nGgtpdjtkO3Jpc2luZxoMaXY7ZDtncm93aW5nGg9pdjtkO2luY3JlYXNpbmcaDGl2O2Q7cmFpc2luZxoJaXY7ZDtyaXNlGhFpdjtkO9in2LHYqtmB2KfYuRoPaXY7ZDvYsdmK2LPZhtisGgZncm93dGgymAIvZ290bz91cmw9Q0FFU3hRRUI2enN3RmZZWWE0OUZPRkM4SDNYQW5PaUtvOVpFcExfbkgtT1RJUW81R1d4V1FWUHZDMDRDSEN1dVZIaEFpdGJPWDRsQlI5dk5fYjJ5MVdOeTdLOEZJVHFOS3RSbUJKem1mMGU3QTBWWkZJalc1eHlXUWp0MFk2UENZYVFpVEVSUTQxVGN5YUhEQlBkSUR4dVBENFl5anRQU2QyWWpWZkxNSnBoUGdDUkQ1TmhFZzM2U0dnLXIyUzhLeXRQSlltbmNlLUd2NUNwX0RBRzJnRVJmMV9KSFU0T09wa3hHcGJmT1c5clR4NlpvenhFRDk2QXFURnMwUDM2ajl2S1lURVlWSnlEQ2tBOlVXaWxsIHRoZSA8Yj5yaXNlPC9iPiBvZiA8Yj5BSTwvYj4gZm9yY2UgdGhlIDxiPkluZGlhbjwvYj4gbWlkZGxlIGNsYXNzIHRvIC4uLiAtIFF1b3JhQpsBV2lsbCB0aGUgPGI-cmlzZTwvYj4gb2YgPGI-QUk8L2I-IGZvcmNlIHRoZSA8Yj5JbmRpYW48L2I-IG1pZGRsZSBjbGFzcyB0byBmaW5hbGx5IGFiYW5kb24gdGhlIHB1cnN1aXQgb2YgdHJhZGl0aW9uYWwgZW5naW5lZXJpbmcgZGVncmVlcz8gQWxsIHJlbGF0ZWQgKDMxKS5KAmluIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Will the rise of AI force the Indian middle class to finally abandon the pursuit of traditional engineering degrees? All related (31).",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "source_info_link": "https://www.quora.com/Will-the-rise-of-AI-force-the-Indian-middle-class-to-finally-abandon-the-pursuit-of-traditional-engineering-degrees"
+     }
+    },
+    "displayed_link": "أكثر من 30 إجابة · قبل 3 أشهر",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+    "link": "https://www.quora.com/Will-the-rise-of-AI-force-the-Indian-middle-class-to-finally-abandon-the-pursuit-of-traditional-engineering-degrees",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEB6zswFfYYa49FOFC8H3XAnOiKo9ZEpL_nH-OTIQo5GWxWQVPvC04CHCuuVHhAitbOX4lBR9vN_b2y1WNy7K8FITqNKtRmBJzmf0e7A0VZFIjW5xyWQjt0Y6PCYaQiTERQ41TcyaHDBPdIDxuPD4YyjtPSd2YjVfLMJphPgCRD5NhEg36SGg-r2S8KytPJYmnce-Gv5Cp_DAG2gERf1_JHU4OOpkxGpbfOW9rTx6ZozxED96AqTFs0P36j9vKYTEYVJyDCkA&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQFnoECCIQAQ&uoh=1",
+    "snippet": "Will the rise of AI force the Indian middle class to finally abandon the pursuit of traditional engineering degrees? All related (31).",
+    "snippet_highlighted_words": [
+     "rise",
+     "AI",
+     "Indian"
+    ],
+    "source": "Quora",
+    "title": "Will the rise of AI force the Indian middle class to finally ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZYNWszc2dIcV9PdHJrbXlZelMyQmgwdUJlSkJ3SXQ4WElMNU8yeXlFYVVFQ01WSk5TRmNKaTdFaXE4cFRRNkdZR3BTc1k0c29QZEpEWUpyUEVLVmhvTjFqRm1WWWR0cnhvNHVMZ3E3d2kwbkFCMUxob09pM2xfNzgtLVU1S3NZLTRab2dSNnZCNUYwV3pDWXdGS3lNX1dSZGJGSlpWdmpQQjJNdnZSZnRJemJVRDZibkpHQ0RZamx1S0cxbEhGV2Y2RFNWSk0SBBoCCAAa5AsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAwAsIABAAGAAgACpGCgJpcxUjnipAGgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gV1KvSQBoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBXBUiM_Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwVNEnfPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVNEnfPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFabyuEAaBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUAAAAAGgdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZYNWszc2dIcV9PdHJrbXlZelMyQmgwdUJlSkJ3SXQ4WElMNU8yeXlFYVVFQ01WSk5TRmNKaTdFaXE4cFRRNkdZR3BTc1k0c29QZEpEWUpyUEVLVmhvTjFqRm1WWWR0cnhvNHVMZ3E3d2kwbkFCMUxob09pM2xfNzgtLVU1S3NZLTRab2dSNnZCNUYwV3pDWXdGS3lNX1dSZGJGSlpWdmpQQjJNdnZSZnRJemJVRDZibkpHQ0RZamx1S0cxbEhGV2Y2RFNWSk06RkFnZW50aWMgPGI-QUk8L2I-IFNFTyBTZXJ2aWNlcyBpbiA8Yj5JbmRpYTwvYj46IFRyYW5zZm9ybWluZyBNb2Rlcm4uLi5CrAFUaGlzIHNoaWZ0IGhhcyBjcmVhdGVkIDxiPmdyb3dpbmcgaW50ZXJlc3Q8L2I-IGluIGFnZW50aWMgPGI-YWk8L2I-IHNlbyBzZXJ2aWNlcyBpbiA8Yj5pbmRpYTwvYj4gYW1vbmcgYnVzaW5lc3NlcyBzZWVraW5nIG1vcmUgZWZmaWNpZW50IGFuZCBhZGFwdGl2ZSA8Yj5zZWFyY2g8L2I-Jm5ic3A7Li4uSgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZYNWszc2dIcV9PdHJrbXlZelMyQmgwdUJlSkJ3SXQ4WElMNU8yeXlFYVVFQ01WSk5TRmNKaTdFaXE4cFRRNkdZR3BTc1k0c29QZEpEWUpyUEVLVmhvTjFqRm1WWWR0cnhvNHVMZ3E3d2kwbkFCMUxob09pM2xfNzgtLVU1S3NZLTRab2dSNnZCNUYwV3pDWXdGS3lNX1dSZGJGSlpWdmpQQjJNdnZSZnRJemJVRDZibkpHQ0RZamx1S0cxbEhGV2Y2RFNWSk0SBBoCCAAa5AsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAwAsIABAAGAAgACpGCgJpcxUjnipAGgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gV1KvSQBoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBXBUiM_Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwVNEnfPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVNEnfPxoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFabyuEAaBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUAAAAAGgdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZYNWszc2dIcV9PdHJrbXlZelMyQmgwdUJlSkJ3SXQ4WElMNU8yeXlFYVVFQ01WSk5TRmNKaTdFaXE4cFRRNkdZR3BTc1k0c29QZEpEWUpyUEVLVmhvTjFqRm1WWWR0cnhvNHVMZ3E3d2kwbkFCMUxob09pM2xfNzgtLVU1S3NZLTRab2dSNnZCNUYwV3pDWXdGS3lNX1dSZGJGSlpWdmpQQjJNdnZSZnRJemJVRDZibkpHQ0RZamx1S0cxbEhGV2Y2RFNWSk06RkFnZW50aWMgPGI-QUk8L2I-IFNFTyBTZXJ2aWNlcyBpbiA8Yj5JbmRpYTwvYj46IFRyYW5zZm9ybWluZyBNb2Rlcm4uLi5CrAFUaGlzIHNoaWZ0IGhhcyBjcmVhdGVkIDxiPmdyb3dpbmcgaW50ZXJlc3Q8L2I-IGluIGFnZW50aWMgPGI-YWk8L2I-IHNlbyBzZXJ2aWNlcyBpbiA8Yj5pbmRpYTwvYj4gYW1vbmcgYnVzaW5lc3NlcyBzZWVraW5nIG1vcmUgZWZmaWNpZW50IGFuZCBhZGFwdGl2ZSA8Yj5zZWFyY2g8L2I-Jm5ic3A7Li4uSgJpbiICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "This shift has created growing interest in agentic ai seo services in india among businesses seeking more efficient and adaptive search ...",
+      "source_info_link": "https://dailytrust.com/agentic-ai-seo-services-in-india-transforming-modern-search-strategies/"
+     }
+    },
+    "date": "16‏/08‏/2026",
+    "displayed_link": "https://dailytrust.com › agentic-ai-seo...",
+    "link": "https://dailytrust.com/agentic-ai-seo-services-in-india-transforming-modern-search-strategies/",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFX5k3sgHq_OtrkmyYzS2Bh0uBeJBwIt8XIL5O2yyEaUECMVJNSFcJi7Eiq8pTQ6GYGpSsY4soPdJDYJrPEKVhoN1jFmVYdtrxo4uLgq7wi0nAB1LhoOi3l_78--U5KsY-4ZogR6vB5F0WzCYwFKyM_WRdbFJZVvjPB2MvvRftIzbUD6bnJGCDYjluKG1lHFWf6DSVJM&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQFnoECB0QAQ&uoh=1",
+    "snippet": "This shift has created growing interest in agentic ai seo services in india among businesses seeking more efficient and adaptive search ...",
+    "snippet_highlighted_words": [
+     "growing interest",
+     "ai",
+     "india",
+     "search"
+    ],
+    "source": "Daily Trust",
+    "title": "Agentic AI SEO Services in India: Transforming Modern..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVk84bkZLbVhyN0FIeVZrVWh2eTYyODhGQWlZd2lRMk5teUFOV1U3bE1ETkVjUlFHMWc2cEdSS0d3SU9MaU4yamN4eHdYRndQX2FMTVVTbHBSckhxOFNwR3VqS3hEUUVQSWNOLTA5TWpqQTJhbkxVaHNWTWVuS1hSZ2tQUWZEMVN4eFY5VkZmMFJDQlJ5dE9paGJGWHFTVk0SBBoCCAAarwsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAiwsIABAAGAAgACpGCgJpcxWJpRpAGgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gVq_IhPhoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBU5ruY9Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwVnwojQBoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVRfsjQBoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFVwrmEAaBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUPYU89Ggdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVk84bkZLbVhyN0FIeVZrVWh2eTYyODhGQWlZd2lRMk5teUFOV1U3bE1ETkVjUlFHMWc2cEdSS0d3SU9MaU4yamN4eHdYRndQX2FMTVVTbHBSckhxOFNwR3VqS3hEUUVQSWNOLTA5TWpqQTJhbkxVaHNWTWVuS1hSZ2tQUWZEMVN4eFY5VkZmMFJDQlJ5dE9paGJGWHFTVk06T1doYXQgRG9lcyA8Yj5BSTwvYj4gUmVmaW5lZCBNZWFuPyA8Yj5JbmRpYSBBSTwvYj4gTWFya2V0ICZhbXA7IEZ1dHVyZSB8IFZlZ2F2aWRCngE8Yj5JbmRpYSBpcyBzaW11bHRhbmVvdXNseSBwb3NpdGlvbmluZyBpdHNlbGYgYXMgYSBtYWpvciBnbG9iYWwgQUkgaHViPC9iPiwgd2l0aCBhIHJhcGlkbHkgZ3Jvd2luZyBtYXJrZXQsIHN0cm9uZyB0YWxlbnQgYmFzZSwgYW5kIGFtYml0aW91cyBuYXRpb25hbCZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVk84bkZLbVhyN0FIeVZrVWh2eTYyODhGQWlZd2lRMk5teUFOV1U3bE1ETkVjUlFHMWc2cEdSS0d3SU9MaU4yamN4eHdYRndQX2FMTVVTbHBSckhxOFNwR3VqS3hEUUVQSWNOLTA5TWpqQTJhbkxVaHNWTWVuS1hSZ2tQUWZEMVN4eFY5VkZmMFJDQlJ5dE9paGJGWHFTVk0SBBoCCAAarwsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAiwsIABAAGAAgACpGCgJpcxWJpRpAGgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gVq_IhPhoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBU5ruY9Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwVnwojQBoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVRfsjQBoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFVwrmEAaBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUPYU89Ggdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVk84bkZLbVhyN0FIeVZrVWh2eTYyODhGQWlZd2lRMk5teUFOV1U3bE1ETkVjUlFHMWc2cEdSS0d3SU9MaU4yamN4eHdYRndQX2FMTVVTbHBSckhxOFNwR3VqS3hEUUVQSWNOLTA5TWpqQTJhbkxVaHNWTWVuS1hSZ2tQUWZEMVN4eFY5VkZmMFJDQlJ5dE9paGJGWHFTVk06T1doYXQgRG9lcyA8Yj5BSTwvYj4gUmVmaW5lZCBNZWFuPyA8Yj5JbmRpYSBBSTwvYj4gTWFya2V0ICZhbXA7IEZ1dHVyZSB8IFZlZ2F2aWRCngE8Yj5JbmRpYSBpcyBzaW11bHRhbmVvdXNseSBwb3NpdGlvbmluZyBpdHNlbGYgYXMgYSBtYWpvciBnbG9iYWwgQUkgaHViPC9iPiwgd2l0aCBhIHJhcGlkbHkgZ3Jvd2luZyBtYXJrZXQsIHN0cm9uZyB0YWxlbnQgYmFzZSwgYW5kIGFtYml0aW91cyBuYXRpb25hbCZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "India is simultaneously positioning itself as a major global AI hub, with a rapidly growing market, strong talent base, and ambitious national ...",
+      "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAAAQBgCdASogACAAPtE-tFooIigoFAEAGglsAMi1gEySjk8U5Cgc5FpaHGVvwAJwWcf5rjNrgwcJyYAA_v0qj26r-UrZn705PS4b6az7BWc3HIuYjWXwULbigvRet6va97Bnnl-U74uvLNL7Rt9b4rMF-RsbWBL6-UpVc-_pB09NVb_Hn7wzne9AU1Zmm-aRSabUvyGBrsfYjr3sMDdVAJvk-NjbGilvO6Vo3WTcndoVtL2MKUTIq62hd0vXoU1TsXRNka65cWWQsGnwwpkm2itctC-ivG6zCgtW4PfDL57JLe__2syGryAd0rDgGpJpl3_-S7-GcFPAUJeIZpVinYPvONlTpgS_QSoTv0fZ4Kh-Q_YdIWTShKYO-3mv7bBDujg_DAEGsXjHUfQYAAA.webp",
+      "source_info_link": "https://vegavid.com/blog/ai-refined-meaning-india-ai-market"
+     }
+    },
+    "date": "01‏/04‏/2026",
+    "displayed_link": "https://vegavid.com › Blog",
+    "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAAAQBgCdASogACAAPtE-tFooIigoFAEAGglsAMi1gEySjk8U5Cgc5FpaHGVvwAJwWcf5rjNrgwcJyYAA_v0qj26r-UrZn705PS4b6az7BWc3HIuYjWXwULbigvRet6va97Bnnl-U74uvLNL7Rt9b4rMF-RsbWBL6-UpVc-_pB09NVb_Hn7wzne9AU1Zmm-aRSabUvyGBrsfYjr3sMDdVAJvk-NjbGilvO6Vo3WTcndoVtL2MKUTIq62hd0vXoU1TsXRNka65cWWQsGnwwpkm2itctC-ivG6zCgtW4PfDL57JLe__2syGryAd0rDgGpJpl3_-S7-GcFPAUJeIZpVinYPvONlTpgS_QSoTv0fZ4Kh-Q_YdIWTShKYO-3mv7bBDujg_DAEGsXjHUfQYAAA.webp",
+    "link": "https://vegavid.com/blog/ai-refined-meaning-india-ai-market",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVO8nFKmXr7AHyVkUhvy6288FAiYwiQ2NmyANWU7lMDNEcRQG1g6pGRKGwIOLiN2jcxxwXFwP_aLMUSlpRrHq8SpGujKxDQEPIcN-09MjjA2anLUhsVMenKXRgkPQfD1SxxV9VFf0RCBRytOihbFXqSVM&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQFnoECEkQAQ&uoh=1",
+    "snippet": "India is simultaneously positioning itself as a major global AI hub, with a rapidly growing market, strong talent base, and ambitious national ...",
+    "snippet_highlighted_words": [
+     "India is simultaneously positioning itself as a major global AI hub"
+    ],
+    "source": "Vegavid",
+    "title": "What Does AI Refined Mean? India AI Market & Future"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZSVXRvVmV4dk9OYVRqWl9OREM3ZlI5QTkxSC1BQjk1QW9RYnpCSjhRb09iNEZkUGhrQ0tBamNLZ1oyTG9TUzUyU2NKS0FHUUhpVUhCaGJQclJvdmxoTXZ2c20zdTJHb0lRN20zeG5SeG9QZmxoQVUteU5qcHcyUENNeFV4UXo0NnZ1MXBfVDgxT0o5RFg5V3R2a3F5bDY0b0tVaXFkWWpGWUxiNmNiQjdnSDBoRFh2aU53VTNveEx1ekY0cGxtTGZiVllTUjhQbGV0dzhpbFNDaTRFNFljEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZSVXRvVmV4dk9OYVRqWl9OREM3ZlI5QTkxSC1BQjk1QW9RYnpCSjhRb09iNEZkUGhrQ0tBamNLZ1oyTG9TUzUyU2NKS0FHUUhpVUhCaGJQclJvdmxoTXZ2c20zdTJHb0lRN20zeG5SeG9QZmxoQVUteU5qcHcyUENNeFV4UXo0NnZ1MXBfVDgxT0o5RFg5V3R2a3F5bDY0b0tVaXFkWWpGWUxiNmNiQjdnSDBoRFh2aU53VTNveEx1ekY0cGxtTGZiVllTUjhQbGV0dzhpbFNDaTRFNFljEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "about_this_result": {
+     "source": {
+      "description": "Politicians see AI as job realignment or upskilling. They don't realize the unmanageable social upheaval coming soon. AI makes our education and ...",
+      "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+     }
+    },
+    "displayed_link": "أكثر من 10 تفاعل · قبل 10 أشهر",
+    "duration": "0:31",
+    "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+    "link": "https://www.linkedin.com/posts/vishal-krishna-theupstreamlife_ai-ai-jobs-activity-7393981365639143424-3Q7z",
     "position": 8,
-    "read_more_link": "https://jmra.in/archive/volume/11/issue/1/article/16025#:~:text=This%20study%20looks%20into%20how,aspects%20of%20the%20Indian%20economy.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAV8UeoEaAlpGprJlmkFHqLXiMJqNkDa-pMB_g50imuVqKL3CAcfC25OurOS8rvCEqYoPHuF_zTu5VWINUkPu4xvKA_w2LouQGMotfh4W2a7M6hkLuCKvL94nkccJ9CdRSqySdqK4qfOJkOSg&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECEcQAQ&uoh=1",
-    "snippet": "This study looks into how artificial intelligence (AI) is changing the managerial and economic landscape in India. The paper examines how AI impacts the GDP ...",
-    "snippet_highlighted_words": [
-     "artificial intelligence",
-     "AI",
-     "India",
-     "AI"
-    ],
-    "source": "Journal of Management Research and Analysis",
-    "title": "Impact of artificial intelligence on Indian economy"
+    "snippet": "Politicians see AI as job realignment or upskilling. They don't realize the unmanageable social upheaval coming soon. AI makes our education and ...",
+    "source": "LinkedIn · Vishal Krishna",
+    "thumbnail": "https://serpapi.com/searches/6ab988e2fbbebbff036b52f5/images/KATX2JyYzs0ALYfYbCuQrpo4z24OAKwo8qgMH1IUGAg.jpeg",
+    "title": "Indian politicians downplay AI's impact on jobs and living ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0CL2dvdG8_dXJsPUNBRVM3UUVCNnpzd0ZhekY3WFV1QnpRdmo2TzRQLTA0Sm9VWjJJZlNqT1dkYUlxQXc0LWtZdWJJUmMyNlRVMHJ1ZGhnanhORk9BLWtzbmJFSDJxQXRYTVZJX29vUHl3WU91TDVsdnNpYmtyRG1LeTJFQlFnOGVpNUZTOTBzMWkzZU5sQjVGVHhQY0NtdGxjemlHbWliLV8wUmdhMTlDQVVPakJ6S09UcExaY2FwVFZMamctTFRNblJDTm5JV0lEVTM3a2FOcS0zazRKUWUzNnMxeTJ2NWx0V2FoM3hRdC1aY1NXb2g0TlA2dllwelg3UEhIRFdfdm9kOTNNY2lwejlSbTNUR0dsU01KUmhsNjRWWWppblM2LUhJT00wNm5Wd2ZIeURycmdGTTdUT0phVG8wc0swRGxfdjdYYURpc1BlOU5vEgQaAggAGtwMEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAtgwIABAAGAAgACpGCgJpcxV4gfw_GgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gV_ag0PxoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBXdHgk9Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwVlNeXQBoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVlNeXQBoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFeHZWEAaBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUAAAAAGgdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMs0CL2dvdG8_dXJsPUNBRVM3UUVCNnpzd0ZhekY3WFV1QnpRdmo2TzRQLTA0Sm9VWjJJZlNqT1dkYUlxQXc0LWtZdWJJUmMyNlRVMHJ1ZGhnanhORk9BLWtzbmJFSDJxQXRYTVZJX29vUHl3WU91TDVsdnNpYmtyRG1LeTJFQlFnOGVpNUZTOTBzMWkzZU5sQjVGVHhQY0NtdGxjemlHbWliLV8wUmdhMTlDQVVPakJ6S09UcExaY2FwVFZMamctTFRNblJDTm5JV0lEVTM3a2FOcS0zazRKUWUzNnMxeTJ2NWx0V2FoM3hRdC1aY1NXb2g0TlA2dllwelg3UEhIRFdfdm9kOTNNY2lwejlSbTNUR0dsU01KUmhsNjRWWWppblM2LUhJT00wNm5Wd2ZIeURycmdGTTdUT0phVG8wc0swRGxfdjdYYURpc1BlOU5vOlJEZW1hbmQgZm9yIDxiPmFydGlmaWNpYWwgaW50ZWxsaWdlbmNlPC9iPiB0YWxlbnQgZ3Jvd3MhIFNhbGFyaWVzIGZvciA8Yj5BSTwvYj4gLi4uQqYBSGlyaW5nIHBsYXRmb3JtIGZvdW5kaXQgcmVwb3J0ZWQgYSAxMiUgPGI-aW5jcmVhc2UgaW48L2I-IGRlbWFuZCBmb3Igc2VuaW9yLWxldmVsIDxiPkFJPC9iPiByb2xlcywgd2l0aCBJVCwgcmV0YWlsLCBhdXRvLCB0ZWxlY29tLCBoZWFsdGhjYXJlLCBhbmQgQkZTSSBiZWluZyZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0CL2dvdG8_dXJsPUNBRVM3UUVCNnpzd0ZhekY3WFV1QnpRdmo2TzRQLTA0Sm9VWjJJZlNqT1dkYUlxQXc0LWtZdWJJUmMyNlRVMHJ1ZGhnanhORk9BLWtzbmJFSDJxQXRYTVZJX29vUHl3WU91TDVsdnNpYmtyRG1LeTJFQlFnOGVpNUZTOTBzMWkzZU5sQjVGVHhQY0NtdGxjemlHbWliLV8wUmdhMTlDQVVPakJ6S09UcExaY2FwVFZMamctTFRNblJDTm5JV0lEVTM3a2FOcS0zazRKUWUzNnMxeTJ2NWx0V2FoM3hRdC1aY1NXb2g0TlA2dllwelg3UEhIRFdfdm9kOTNNY2lwejlSbTNUR0dsU01KUmhsNjRWWWppblM2LUhJT00wNm5Wd2ZIeURycmdGTTdUT0phVG8wc0swRGxfdjdYYURpc1BlOU5vEgQaAggAGtwMEgIIABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAtgwIABAAGAAgACpGCgJpcxV4gfw_GgbYp9mK2LMaB2l2O2Q7aXMaCGl2O2Q7YXJlGglpdjtkO2RvZXMaCGl2O2Q7d2FzGgtpdjtkO9in2YrYsyptCgZzZWFyY2gV_ag0PxoIcmVzZWFyY2gaCXNlYXJjaGluZxoG2KjYrdirGgjYs9mK2LHYtBoLaXY7ZDtzZWFyY2gaDWl2O2Q7cmVzZWFyY2gaDml2O2Q7c2VhcmNoaW5nGgtpdjtkO9io2K3YqypvCghpbnRlcmVzdBXdHgk9Gg7Yp9mE2YHYp9im2K_YqRoM2KfZhtiq2LHYs9iqGg1pdjtkO2ludGVyZXN0GhNpdjtkO9in2YTZgdin2KHYr9mHGhFpdjtkO9in2YbYqtix2LPYqhoJaW50ZXJlc3RzKgkKAmluFQAAAAAqowEKCmFydGlmaWNpYWwVlNeXQBoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaEtin2YTYp9i12LfZhtin2LnZihoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoPaXY7ZDthcnRpZmljaWFsGgdpdjtkO2FpGhdpdjtkO9in2YTYp9i12LfZhtin2LnZihobaXY7ZDthcnRpZmljaWFsaW50ZWxsaWdlbmNlKsQBCgxpbnRlbGxpZ2VuY2UVlNeXQBoCYWkaEG1hY2hpbmUgbGVhcm5pbmcaDNin2YTYsNmD2KfYoRoQ2KfZhtiq2YTZitis2YbYsxoWYXJ0aWZpY2lhbGludGVsbGlnZW5jZRoRaXY7ZDtpbnRlbGxpZ2VuY2UaB2l2O2Q7YWkaEWl2O2Q72KfZhNiw2YPYp9ihGhVpdjtkO9in2YbYqtmE2YrYrNmG2LMaG2l2O2Q7YXJ0aWZpY2lhbGludGVsbGlnZW5jZSoJCgJpbhUAAAAAKlcKBWluZGlhFeHZWEAaBmluZGlhbhoK2KfZhtiv2YrYpxoLaW5kaWFyaXNpbmcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2Kcq1gEKBnJpc2luZxUAAAAAGgdncm93aW5nGgtpbmNyZWFzZSBpbhoKaW5jcmVhc2luZxoHcmFpc2luZxoEcmlzZRoM2KfYsdiq2YHYp9i5GgrYsdmK2LPZhtisGgtpbmRpYXJpc2luZxoLaXY7ZDtyaXNpbmcaDGl2O2Q7Z3Jvd2luZxoPaXY7ZDtpbmNyZWFzaW5nGgxpdjtkO3JhaXNpbmcaCWl2O2Q7cmlzZRoRaXY7ZDvYp9ix2KrZgdin2LkaD2l2O2Q72LHZitiz2YbYrBoGZ3Jvd3RoMs0CL2dvdG8_dXJsPUNBRVM3UUVCNnpzd0ZhekY3WFV1QnpRdmo2TzRQLTA0Sm9VWjJJZlNqT1dkYUlxQXc0LWtZdWJJUmMyNlRVMHJ1ZGhnanhORk9BLWtzbmJFSDJxQXRYTVZJX29vUHl3WU91TDVsdnNpYmtyRG1LeTJFQlFnOGVpNUZTOTBzMWkzZU5sQjVGVHhQY0NtdGxjemlHbWliLV8wUmdhMTlDQVVPakJ6S09UcExaY2FwVFZMamctTFRNblJDTm5JV0lEVTM3a2FOcS0zazRKUWUzNnMxeTJ2NWx0V2FoM3hRdC1aY1NXb2g0TlA2dllwelg3UEhIRFdfdm9kOTNNY2lwejlSbTNUR0dsU01KUmhsNjRWWWppblM2LUhJT00wNm5Wd2ZIeURycmdGTTdUT0phVG8wc0swRGxfdjdYYURpc1BlOU5vOlJEZW1hbmQgZm9yIDxiPmFydGlmaWNpYWwgaW50ZWxsaWdlbmNlPC9iPiB0YWxlbnQgZ3Jvd3MhIFNhbGFyaWVzIGZvciA8Yj5BSTwvYj4gLi4uQqYBSGlyaW5nIHBsYXRmb3JtIGZvdW5kaXQgcmVwb3J0ZWQgYSAxMiUgPGI-aW5jcmVhc2UgaW48L2I-IGRlbWFuZCBmb3Igc2VuaW9yLWxldmVsIDxiPkFJPC9iPiByb2xlcywgd2l0aCBJVCwgcmV0YWlsLCBhdXRvLCB0ZWxlY29tLCBoZWFsdGhjYXJlLCBhbmQgQkZTSSBiZWluZyZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "India, being the fastest growing economy with the second largest population in the world, has a significant stake in the AI revolution.",
-      "icon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAACQBQCdASocABkAPtE-tFooIigoFAEAGgllAASZrzzc0r0SecLqeIniZoZAtYt9eIXd1B2wAAD-_dtHPFIUCG1SHB6bav09uIjPbg2_REYvWfDhU7dXGKJXb2FpEPb8SAyqAHWGod146193zy_VoCYL4j9yNsq9_eOfTKIZ4APORj5zJlDOtHSAfplOChWOHdvEgEsdotJky-5zQFWWPP-yq3laIoNs13-Kz-1FKAaaphJ7AQWx9zXy1Rqj_XVcAti1itfRZ_uj-ATzdHQ-uScZbSPo8iisdP-XEkv30sq7yWYTrJKQ2JfzKn6yqxD5_v6zL2ue521F0p9xJAVvodD8TSiuEv-z_0eQD1yicZC84AAA.webp",
-      "source_info_link": "https://www.niti.gov.in/sites/default/files/2023-03/National-Strategy-for-Artificial-Intelligence.pdf"
+      "description": "Hiring platform foundit reported a 12% increase in demand for senior-level AI roles, with IT, retail, auto, telecom, healthcare, and BFSI being ...",
+      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp",
+      "source_info_link": "https://timesofindia.indiatimes.com/business/india-business/demand-for-artificial-intelligence-talent-grows-salaries-for-ai-roles-start-from-rs-50-lakh/articleshow/106066553.cms"
      }
     },
-    "displayed_link": "https://www.niti.gov.in › sites › default › files",
-    "favicon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAACQBQCdASocABkAPtE-tFooIigoFAEAGgllAASZrzzc0r0SecLqeIniZoZAtYt9eIXd1B2wAAD-_dtHPFIUCG1SHB6bav09uIjPbg2_REYvWfDhU7dXGKJXb2FpEPb8SAyqAHWGod146193zy_VoCYL4j9yNsq9_eOfTKIZ4APORj5zJlDOtHSAfplOChWOHdvEgEsdotJky-5zQFWWPP-yq3laIoNs13-Kz-1FKAaaphJ7AQWx9zXy1Rqj_XVcAti1itfRZ_uj-ATzdHQ-uScZbSPo8iisdP-XEkv30sq7yWYTrJKQ2JfzKn6yqxD5_v6zL2ue521F0p9xJAVvodD8TSiuEv-z_0eQD1yicZC84AAA.webp",
-    "link": "https://www.niti.gov.in/sites/default/files/2023-03/National-Strategy-for-Artificial-Intelligence.pdf",
+    "date": "18‏/12‏/2023",
+    "displayed_link": "https://timesofindia.indiatimes.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/demand-for-artificial-intelligence-talent-grows-salaries-for-ai-roles-start-from-rs-50-lakh/articleshow/106066553.cms",
     "position": 9,
-    "read_more_link": "https://www.niti.gov.in/sites/default/files/2023-03/National-Strategy-for-Artificial-Intelligence.pdf#:~:text=India%2C%20being%20the%20fastest%20growing,stake%20in%20the%20AI%20revolution.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFRy_TDOqhMlQU5F-Bvc2MUzmh4KzMIl5A15UdemZZ__w5yWAiUl_cTGYc4_lmfjK575VEUk1TxjVDurQwic-o6v4ip6UJKtt77tp0xJ_IcqkqwzD23Vly_k6Y-QxoPcKrGsAKNs8PLBg6Q9CMkiPyL55KpiwmDSopkRAj5yDMQVRryCk3TBD8RshVgFrVmVwJumcq_k6_SRq&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECEkQAQ&uoh=1",
-    "snippet": "India, being the fastest growing economy with the second largest population in the world, has a significant stake in the AI revolution.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES7QEB6zswFazF7XUuBzQvj6O4P-04JoUZ2IfSjOWdaIqAw4-kYubIRc26TU0rudhgjxNFOA-ksnbEH2qAtXMVI_ooPywYOuL5lvsibkrDmKy2EBQg8ei5FS90s1i3eNlB5FTxPcCmtlcziGmib-_0Rga19CAUOjBzKOTpLZcapTVLjg-LTMnRCNnIWIDU37kaNq-3k4JQe36s1y2v5ltWah3xQt-ZcSWoh4NP6vYpzX7PHHDW_vod93Mcipz9Rm3TGGlSMJRhl64VYjinS6-HIOM06nVwfHyDrrgFM7TOJaTo0sK0Dl_v7XaDisPe9No&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQFnoECEgQAQ&uoh=1",
+    "snippet": "Hiring platform foundit reported a 12% increase in demand for senior-level AI roles, with IT, retail, auto, telecom, healthcare, and BFSI being ...",
     "snippet_highlighted_words": [
-     "India",
-     "growing",
+     "increase in",
      "AI"
     ],
-    "source": "NITI Aayog",
-    "title": "National Strategy for Artificial Intelligence"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The artificial intelligence (AI) market in India is projected to reach $8 billion by 2025, growing at 40% CAGR from 2020 to 2025. This growth is part of the ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_India"
-     }
-    },
-    "displayed_link": "https://en.wikipedia.org › wiki › Artificial_intelligence_...",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_India",
-    "position": 10,
-    "read_more_link": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_India#:~:text=The%20artificial%20intelligence%20(AI)%20market,growth%20is%20part%20of%20the",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVHZqwatMhCdxuKZxYPu72m_VbztjE7Jo5tzwIxoY7DYQK9nMbR3Yd5pgqoO6C4mD2C8B_Qrw4jiwsK5NhNgkgS3TuAGlNy5lwBSC6D63BlB5fra1w2kTAoDuvt_RwxSMG0AhRWXYFBksXesWFcWnj7f8&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQFnoECEEQAQ&uoh=1",
-    "snippet": "The artificial intelligence (AI) market in India is projected to reach $8 billion by 2025, growing at 40% CAGR from 2020 to 2025. This growth is part of the ...",
-    "snippet_highlighted_words": [
-     "artificial intelligence",
-     "AI",
-     "India",
-     "growing"
-    ],
-    "source": "Wikipedia",
-    "title": "Artificial intelligence in India"
+    "source": "The Times of India",
+    "title": "Demand for artificial intelligence talent grows! Salaries ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=10&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8NMDegQINhAW",
+   "next": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=10&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8NMDegQIRRAW",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=90&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8tMDegQINhAU",
-    "2": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=10&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8tMDegQINhAE",
-    "3": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=20&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8tMDegQINhAG",
-    "4": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=30&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8tMDegQINhAI",
-    "5": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=40&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8tMDegQINhAK",
-    "6": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=50&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8tMDegQINhAM",
-    "7": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=60&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8tMDegQINhAO",
-    "8": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=70&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8tMDegQINhAQ",
-    "9": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=646215d9fbd2647e&ei=r8Kvap3cOL6v5NoP0tWLwQQ&start=80&sa=N&sstk=AS6-VmJC6zURUmH0onzyfUfqKcnDNcDS02yCZLPjxOmrqAuiY22l57W8hrnJwLqODkHZRqSzx6wSgqRFI8fe6XKYmR9ENjhuFwYPJw&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ8tMDegQINhAS"
+    "10": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=90&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8tMDegQIRRAU",
+    "2": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=10&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8tMDegQIRRAE",
+    "3": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=20&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8tMDegQIRRAG",
+    "4": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=30&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8tMDegQIRRAI",
+    "5": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=40&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8tMDegQIRRAK",
+    "6": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=50&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8tMDegQIRRAM",
+    "7": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=60&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8tMDegQIRRAO",
+    "8": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=70&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8tMDegQIRRAQ",
+    "9": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising?&sca_esv=c16286b74a8621df&sxsrf=APpeQnsv3o193D7HAmS2LZf8d1wgm-3Chg:1790544098280&ei=4oi5avLVEJeGhbIPioaquQg&start=80&sa=N&sstk=AS6-VmIqndSuPezMGgswV0HAoQBMqBh3McozJb9PciWXHVRfhlebIXBEcWtMWpsTF07Cb48SbDaa09Uph5OEienjFXJbtKHYFidQwQ&ved=2ahUKEwjyzrrH2I-XAxUXQ0EAHQqDKocQ8tMDegQIRRAS"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zbFpkMUpUV0c1RWJuSXlSRWROTjBwTllrRjRPRVpPYVZGalJWSkhSamw1V1dNM1ZHZFRaVEZCT1RkT1pEWXpjbEJaY0hSNFJHbERjbFJ1VVVFdE1rNU9VM2Q2TVd4NWNFNU5WMUJQZDJwblZHbEJObmM1UVhGYVFSSVhjamhMZG1Gd00yTlBURFoyTlU1dlVEQjBWMHgzVVZFYUlrRkVjM0k1WmxNM2VFeGZSMHR2VjNwQ2JETlZSbkY1U1RGQ1FVZEZXRWx6VDJjIiwiZmN2IjoiMyIsImVpIjoicjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVEiLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHMmp1WkN2WUEiLCJxdWVzdGlvbiI6IldoaWNoIDMgam9icyB3aWxsIHN1cnZpdmUgQUk/IiwibGsiOiJHaHgzYUdsamFDQXpJR3B2WW5NZ2QybHNiQ0J6ZFhKMmFYWmxJR0ZwIiwiYnMiOiJjMzJQTVF2Q01CQkdjYjNKU1NWV3VjVlZOQjBkZ21OX1FlY1lZM01TRWtqU0J2LTlDUzZDMVBGNDdfRnhJR0RYRzFJR1czejZXOFJNMW1JY3cwU1R4bXNuLUo0MWVWYVFCQzJzdTFoTUhJTFA1QVlraDUyN2t4Ujh3MVlVaV9PTnFDSXd3RC1yeW84dWhSY1d6X2tqbnFzaVE2SUhLWksyWEVsYlM0TjJTZ3ZPMlNuX1ZuOGp1TUMyTnpKVk5SbU43ZW1BWWJTNkp2VzdockU4Z3lVdEYyOCIsImlkIjoiZmNfcjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVFfNSJ9",
-    "page_token": "Fh_79XicHdBfToMwHADgeJk9ugIyw5LFuEHZjK1p6Y9CXwwUNraVPzqEyZt38VSeRuMNvnxf3-bYnH9uhqrvu8tyPh_H8fbQtgdT3uq2nmeXz0bPdWZMnunzcnG_sB72ehV87Nabt92aQdfFPkdRXUzFWTuxMCF1uiuBWOYWfcrtq6ASJnmCO2J7KEG4EZGFo-DpqFF_eU6qTDhrBzBtOI6xBEvxxIDwwVZbuGN27KqaT8opoGwoYeCiHNgYOczVAT4SpF3tF4OsTSUAjVKaPZWVEgYmjejwAv2oMN0VyOvKyDqpEPsljHYZ4w1LOCEBHbRJ7Ui6Km-qBQ29KPc5D6ri8yXo7TR5nFLkEdqklqg9RrY8EduCA2-PDPikT6aG2urBKSLwzVaEneTn9s-uKLH7NAtjo0-YMDbb62HlzP4_V6_7ul927-3hF5AvgTE",
-    "question": "Which 3 jobs will survive AI?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Fh_79XicHdBfToMwHADgeJk9ugIyw5LFuEHZjK1p6Y9CXwwUNraVPzqEyZt38VSeRuMNvnxf3-bYnH9uhqrvu8tyPh_H8fbQtgdT3uq2nmeXz0bPdWZMnunzcnG_sB72ehV87Nabt92aQdfFPkdRXUzFWTuxMCF1uiuBWOYWfcrtq6ASJnmCO2J7KEG4EZGFo-DpqFF_eU6qTDhrBzBtOI6xBEvxxIDwwVZbuGN27KqaT8opoGwoYeCiHNgYOczVAT4SpF3tF4OsTSUAjVKaPZWVEgYmjejwAv2oMN0VyOvKyDqpEPsljHYZ4w1LOCEBHbRJ7Ui6Km-qBQ29KPc5D6ri8yXo7TR5nFLkEdqklqg9RrY8EduCA2-PDPikT6aG2urBKSLwzVaEneTn9s-uKLH7NAtjo0-YMDbb62HlzP4_V6_7ul927-3hF5AvgTE",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zbFpkMUpUV0c1RWJuSXlSRWROTjBwTllrRjRPRVpPYVZGalJWSkhSamw1V1dNM1ZHZFRaVEZCT1RkT1pEWXpjbEJaY0hSNFJHbERjbFJ1VVVFdE1rNU9VM2Q2TVd4NWNFNU5WMUJQZDJwblZHbEJObmM1UVhGYVFSSVhjamhMZG1Gd00yTlBURFoyTlU1dlVEQjBWMHgzVVZFYUlrRkVjM0k1WmxNM2VFeGZSMHR2VjNwQ2JETlZSbkY1U1RGQ1FVZEZXRWx6VDJjIiwiZmN2IjoiMyIsImVpIjoicjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVEiLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHMmp1WkN2WUEiLCJxdWVzdGlvbiI6IldoaWNoIDMgam9icyB3aWxsIHN1cnZpdmUgQUk%2FIiwibGsiOiJHaHgzYUdsamFDQXpJR3B2WW5NZ2QybHNiQ0J6ZFhKMmFYWmxJR0ZwIiwiYnMiOiJjMzJQTVF2Q01CQkdjYjNKU1NWV3VjVlZOQjBkZ21OX1FlY1lZM01TRWtqU0J2LTlDUzZDMVBGNDdfRnhJR0RYRzFJR1czejZXOFJNMW1JY3cwU1R4bXNuLUo0MWVWYVFCQzJzdTFoTUhJTFA1QVlraDUyN2t4Ujh3MVlVaV9PTnFDSXd3RC1yeW84dWhSY1d6X2tqbnFzaVE2SUhLWksyWEVsYlM0TjJTZ3ZPMlNuX1ZuOGp1TUMyTnpKVk5SbU43ZW1BWWJTNkp2VzdockU4Z3lVdEYyOCIsImlkIjoiZmNfcjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVFfNSJ9",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zbFpkMUpUV0c1RWJuSXlSRWROTjBwTllrRjRPRVpPYVZGalJWSkhSamw1V1dNM1ZHZFRaVEZCT1RkT1pEWXpjbEJaY0hSNFJHbERjbFJ1VVVFdE1rNU9VM2Q2TVd4NWNFNU5WMUJQZDJwblZHbEJObmM1UVhGYVFSSVhjamhMZG1Gd00yTlBURFoyTlU1dlVEQjBWMHgzVVZFYUlrRkVjM0k1WmxNM2VFeGZSMHR2VjNwQ2JETlZSbkY1U1RGQ1FVZEZXRWx6VDJjIiwiZmN2IjoiMyIsImVpIjoicjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVEiLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHMmp1WkN2WUEiLCJxdWVzdGlvbiI6IklzIEFJIGdyb3dpbmcgaW4gSW5kaWE/IiwibGsiOiJHaFpwY3lCaGFTQm5jbTkzYVc1bklHbHVJR2x1WkdsaCIsImJzIjoiYzMyUE1RdkNNQkJHY2IzSlNTVld1Y1ZWTkIwZGdtTl9RZWNZWTNNU0VralNCdi05Q1M2QzFQRjQ3X0Z4SUdEWEcxSUdXM3o2VzhSTTFtSWN3MFNUeG1zbi1KNDFlVmFRQkMyc3UxaE1ISUxQNUFZa2g1MjdreFI4dzFZVWlfT05xQ0l3d0QtcnlvOHVoUmNXel9ram5xc2lRNklIS1pLMlhFbGJTNE4yU2d2TzJTbl9WbjhqdU1DMk56SlZOUm1ON2VtQVliUzZKdlc3aHJFOGd5VXRGMjgiLCJpZCI6ImZjX3I4S3ZhcDNjT0w2djVOb1AwdFdMd1FRXzUifQ==",
-    "page_token": "AtLGqnicHdBbboJAFADQdDN-KjDVVhPTiDwsylAuwwDz08CgIAyPCOkof91LV9XVNOlZwvn-Ede2_n2Ky3Hsh81iIaWcF11XiPOcd80iHR4tX_BUiCzl9Wb1slLfLnxrDlLfd1L3w76nBihBtCZuONxBwTWIWqWHnZLZPbiNRL7S93mMK2zQG5ucOAtFCqRYZoieTrH4IDWD3ACdTD6CFqbUzDVK4Oa3wk402HtWPrGW3wNNTEDXits4VVq_okSTShJ2GrFxySd2xNrdc62yYS0cCV3v3chcZs3oZE0fRoaYgqpGZ9sSxCqVRJiBhd6fA8RKbuCKKFLLK-pl6k7mVu7mqgX21dHhgB9exMCl5RjYg0orfDofYATEaFoJlTdjwlqWRkRHswv_2qLZ_9j289KMm_7WFX-ahXjk",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVteHBjMU42Ym01a1prTkNNR0ZZV1Y5a1FXbERZbFo2YW1WUlVITlRaa2Q0VTBOM1ZEQkRRMmxUUkVKM01HNXRSbEUyU0RJNFZVSmpYMlJRYTIxQlVtMVlUMDlRWDFCamRYZG1ZVVp1T0V4VE9FdEJPVGc1ZEhrM1p4SVhORzlwTldGMlRGWkZTbVZIYUdKSlVHbHZZWEYxVVdjYUlrRkVjM0k1WmxGTWFraHBUMmxSY0ZaSk4xcERUbkZFVG14eU5sTkNVVEZtU0hjIiwiZmN2IjoiMyIsImVpIjoiNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWciLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHV3IzRkwtMEEiLCJxdWVzdGlvbiI6IklzIEFJIGdyb3dpbmcgaW4gSW5kaWE/IiwibGsiOiJHaFpwY3lCaGFTQm5jbTkzYVc1bklHbHVJR2x1WkdsaCIsImJzIjoiYzJXUFFRckNNQkJGY1p1Vks1V0NPbmdBMGVpLWRKa1RGTnlOY2RvTTFnU1NTUEgycHExZ1M5Zl92VF96eFVXc1ZZQkNRZTFkeTdZR3RxRHNnekdYbTJ6RkFaREhFWGVSTUVLV2hyVUI3ZDQyLWc4a3pyb2puRHVrOEpFcjFveE5Lb3JVTkZ5VDFaUkxtWjNhdVRWSS1KZDRKSW1idUpZR1k0ZEdRX0JDXzZRSXdhQW5jQlVFUXA4S3lkWnNLWXgtUDJURHExTmk0b3RDN05MMFhvQUswOGswOFU0bWVmME1sY3Q5dHVYd0s1b1R5TXZGRnciLCJpZCI6ImZjXzRvaTVhdkxWRUplR2hiSVBpb2FxdVFnXzUifQ==",
+    "page_token": "eecEE3icHdBbboJAFADQdDN-lle11cQ0ooAlOoYZ5g7w0-BFRV4z1Ymgf91LV9XVNOlZwvn-ac5d_fuUlFqr68ww-r5_Pkl5ag7PKFsjv947NDBvmn2O9WzyOrHejzj3rr27lL0bcaVgRU1mlhWDbJsnJE_NKY-bhU5FuKE8sogflhlMXRTTAHxgUDf2DqY6r2DJgzCg68jh4D14TCXlWmFF7CJAJ4VMIhS33JbD1svGhzZ8ZFCWHNJxzMOPDajLjhONQL-IMDXh2YP76Zit0CErIkTgjVOhqm3iR8TTlNb4wjzLS2M0i_aN-Q96y2Moi3oQlKuG2uWZgav2tj8U4HfBOXTpmtx3IqPI4YxAWFQtrFiAZMHJ5onK0kS1KJoQgqEbHfE2d0b_Y_PPY6tn6iJPfxjQeSk",
     "question": "Is AI growing in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AtLGqnicHdBbboJAFADQdDN-KjDVVhPTiDwsylAuwwDz08CgIAyPCOkof91LV9XVNOlZwvn-Ede2_n2Ky3Hsh81iIaWcF11XiPOcd80iHR4tX_BUiCzl9Wb1slLfLnxrDlLfd1L3w76nBihBtCZuONxBwTWIWqWHnZLZPbiNRL7S93mMK2zQG5ucOAtFCqRYZoieTrH4IDWD3ACdTD6CFqbUzDVK4Oa3wk402HtWPrGW3wNNTEDXits4VVq_okSTShJ2GrFxySd2xNrdc62yYS0cCV3v3chcZs3oZE0fRoaYgqpGZ9sSxCqVRJiBhd6fA8RKbuCKKFLLK-pl6k7mVu7mqgX21dHhgB9exMCl5RjYg0orfDofYATEaFoJlTdjwlqWRkRHswv_2qLZ_9j289KMm_7WFX-ahXjk",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zbFpkMUpUV0c1RWJuSXlSRWROTjBwTllrRjRPRVpPYVZGalJWSkhSamw1V1dNM1ZHZFRaVEZCT1RkT1pEWXpjbEJaY0hSNFJHbERjbFJ1VVVFdE1rNU9VM2Q2TVd4NWNFNU5WMUJQZDJwblZHbEJObmM1UVhGYVFSSVhjamhMZG1Gd00yTlBURFoyTlU1dlVEQjBWMHgzVVZFYUlrRkVjM0k1WmxNM2VFeGZSMHR2VjNwQ2JETlZSbkY1U1RGQ1FVZEZXRWx6VDJjIiwiZmN2IjoiMyIsImVpIjoicjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVEiLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHMmp1WkN2WUEiLCJxdWVzdGlvbiI6IklzIEFJIGdyb3dpbmcgaW4gSW5kaWE%2FIiwibGsiOiJHaFpwY3lCaGFTQm5jbTkzYVc1bklHbHVJR2x1WkdsaCIsImJzIjoiYzMyUE1RdkNNQkJHY2IzSlNTVld1Y1ZWTkIwZGdtTl9RZWNZWTNNU0VralNCdi05Q1M2QzFQRjQ3X0Z4SUdEWEcxSUdXM3o2VzhSTTFtSWN3MFNUeG1zbi1KNDFlVmFRQkMyc3UxaE1ISUxQNUFZa2g1MjdreFI4dzFZVWlfT05xQ0l3d0QtcnlvOHVoUmNXel9ram5xc2lRNklIS1pLMlhFbGJTNE4yU2d2TzJTbl9WbjhqdU1DMk56SlZOUm1ON2VtQVliUzZKdlc3aHJFOGd5VXRGMjgiLCJpZCI6ImZjX3I4S3ZhcDNjT0w2djVOb1AwdFdMd1FRXzUifQ%3D%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eecEE3icHdBbboJAFADQdDN-lle11cQ0ooAlOoYZ5g7w0-BFRV4z1Ymgf91LV9XVNOlZwvn-ac5d_fuUlFqr68ww-r5_Pkl5ag7PKFsjv947NDBvmn2O9WzyOrHejzj3rr27lL0bcaVgRU1mlhWDbJsnJE_NKY-bhU5FuKE8sogflhlMXRTTAHxgUDf2DqY6r2DJgzCg68jh4D14TCXlWmFF7CJAJ4VMIhS33JbD1svGhzZ8ZFCWHNJxzMOPDajLjhONQL-IMDXh2YP76Zit0CErIkTgjVOhqm3iR8TTlNb4wjzLS2M0i_aN-Q96y2Moi3oQlKuG2uWZgav2tj8U4HfBOXTpmtx3IqPI4YxAWFQtrFiAZMHJ5onK0kS1KJoQgqEbHfE2d0b_Y_PPY6tn6iJPfxjQeSk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVteHBjMU42Ym01a1prTkNNR0ZZV1Y5a1FXbERZbFo2YW1WUlVITlRaa2Q0VTBOM1ZEQkRRMmxUUkVKM01HNXRSbEUyU0RJNFZVSmpYMlJRYTIxQlVtMVlUMDlRWDFCamRYZG1ZVVp1T0V4VE9FdEJPVGc1ZEhrM1p4SVhORzlwTldGMlRGWkZTbVZIYUdKSlVHbHZZWEYxVVdjYUlrRkVjM0k1WmxGTWFraHBUMmxSY0ZaSk4xcERUbkZFVG14eU5sTkNVVEZtU0hjIiwiZmN2IjoiMyIsImVpIjoiNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWciLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHV3IzRkwtMEEiLCJxdWVzdGlvbiI6IklzIEFJIGdyb3dpbmcgaW4gSW5kaWE%2FIiwibGsiOiJHaFpwY3lCaGFTQm5jbTkzYVc1bklHbHVJR2x1WkdsaCIsImJzIjoiYzJXUFFRckNNQkJGY1p1Vks1V0NPbmdBMGVpLWRKa1RGTnlOY2RvTTFnU1NTUEgycHExZ1M5Zl92VF96eFVXc1ZZQkNRZTFkeTdZR3RxRHNnekdYbTJ6RkFaREhFWGVSTUVLV2hyVUI3ZDQyLWc4a3pyb2puRHVrOEpFcjFveE5Lb3JVTkZ5VDFaUkxtWjNhdVRWSS1KZDRKSW1idUpZR1k0ZEdRX0JDXzZRSXdhQW5jQlVFUXA4S3lkWnNLWXgtUDJURHExTmk0b3RDN05MMFhvQUswOGswOFU0bWVmME1sY3Q5dHVYd0s1b1R5TXZGRnciLCJpZCI6ImZjXzRvaTVhdkxWRUplR2hiSVBpb2FxdVFnXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zbFpkMUpUV0c1RWJuSXlSRWROTjBwTllrRjRPRVpPYVZGalJWSkhSamw1V1dNM1ZHZFRaVEZCT1RkT1pEWXpjbEJaY0hSNFJHbERjbFJ1VVVFdE1rNU9VM2Q2TVd4NWNFNU5WMUJQZDJwblZHbEJObmM1UVhGYVFSSVhjamhMZG1Gd00yTlBURFoyTlU1dlVEQjBWMHgzVVZFYUlrRkVjM0k1WmxNM2VFeGZSMHR2VjNwQ2JETlZSbkY1U1RGQ1FVZEZXRWx6VDJjIiwiZmN2IjoiMyIsImVpIjoicjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVEiLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHMmp1WkN2WUEiLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cnkgaXMgbm8uIDEgaW4gYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2U/IiwibGsiOiJHakIzYUdsamFDQmpiM1Z1ZEhKNUlHbHpJRzV2SURFZ2FXNGdZWEowYVdacFkybGhiQ0JwYm5SbGJHeHBaMlZ1WTJVIiwiYnMiOiJjMzJQTVF2Q01CQkdjYjNKU1NWV3VjVlZOQjBkZ21OX1FlY1lZM01TRWtqU0J2LTlDUzZDMVBGNDdfRnhJR0RYRzFJR1czejZXOFJNMW1JY3cwU1R4bXNuLUo0MWVWYVFCQzJzdTFoTUhJTFA1QVlraDUyN2t4Ujh3MVlVaV9PTnFDSXd3RC1yeW84dWhSY1d6X2tqbnFzaVE2SUhLWksyWEVsYlM0TjJTZ3ZPMlNuX1ZuOGp1TUMyTnpKVk5SbU43ZW1BWWJTNkp2VzdockU4Z3lVdEYyOCIsImlkIjoiZmNfcjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVFfNSJ9",
-    "page_token": "zoYp13icHdBRbpswGABg7TJ9bABn2RopqkoGpakchuPfNn6ZwE4gsQ0ooUDytiv0DD1VT7OpN_j0_f2wx8Z8fnuv-767LGezcRzvq7at7P5etW5WXK6NmqnC2rJQZrn4sfAfD2oVDSpcn1WYQdexX8TbAUaQbF63Jxso16Eikqly9UL7Whb-BuvkpQeRzzXvB9WEc95oDGYrS6gCSDTsHDG4qV9KIaEQ7FWLyqd87AvHePnMRnA_PQLsO9CNSbkVJTIIhHwDygwNJkJo1GtKgKx9JFE-MdRZHluGnUzLoBq5iweJLIc4fJOB33EzHfeCtPoEHkYhz6xN90k9ULv9Tdhm1El8BX5BJbcXbOYTNdV194zHTNTnqNbXNOqDXDzdcu8Bb5vcp-4hwwkRNNH_Ee0xA3JTJ-tYLE87ATcMWkKsDxh1KYv0mlk5US9eZ40Ucrw7qGGF7r6uV38Orl9257b6B34fjto",
-    "question": "Which country is no. 1 in artificial intelligence?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zoYp13icHdBRbpswGABg7TJ9bABn2RopqkoGpakchuPfNn6ZwE4gsQ0ooUDytiv0DD1VT7OpN_j0_f2wx8Z8fnuv-767LGezcRzvq7at7P5etW5WXK6NmqnC2rJQZrn4sfAfD2oVDSpcn1WYQdexX8TbAUaQbF63Jxso16Eikqly9UL7Whb-BuvkpQeRzzXvB9WEc95oDGYrS6gCSDTsHDG4qV9KIaEQ7FWLyqd87AvHePnMRnA_PQLsO9CNSbkVJTIIhHwDygwNJkJo1GtKgKx9JFE-MdRZHluGnUzLoBq5iweJLIc4fJOB33EzHfeCtPoEHkYhz6xN90k9ULv9Tdhm1El8BX5BJbcXbOYTNdV194zHTNTnqNbXNOqDXDzdcu8Bb5vcp-4hwwkRNNH_Ee0xA3JTJ-tYLE87ATcMWkKsDxh1KYv0mlk5US9eZ40Ucrw7qGGF7r6uV38Orl9257b6B34fjto",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zbFpkMUpUV0c1RWJuSXlSRWROTjBwTllrRjRPRVpPYVZGalJWSkhSamw1V1dNM1ZHZFRaVEZCT1RkT1pEWXpjbEJaY0hSNFJHbERjbFJ1VVVFdE1rNU9VM2Q2TVd4NWNFNU5WMUJQZDJwblZHbEJObmM1UVhGYVFSSVhjamhMZG1Gd00yTlBURFoyTlU1dlVEQjBWMHgzVVZFYUlrRkVjM0k1WmxNM2VFeGZSMHR2VjNwQ2JETlZSbkY1U1RGQ1FVZEZXRWx6VDJjIiwiZmN2IjoiMyIsImVpIjoicjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVEiLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHMmp1WkN2WUEiLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cnkgaXMgbm8uIDEgaW4gYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2U%2FIiwibGsiOiJHakIzYUdsamFDQmpiM1Z1ZEhKNUlHbHpJRzV2SURFZ2FXNGdZWEowYVdacFkybGhiQ0JwYm5SbGJHeHBaMlZ1WTJVIiwiYnMiOiJjMzJQTVF2Q01CQkdjYjNKU1NWV3VjVlZOQjBkZ21OX1FlY1lZM01TRWtqU0J2LTlDUzZDMVBGNDdfRnhJR0RYRzFJR1czejZXOFJNMW1JY3cwU1R4bXNuLUo0MWVWYVFCQzJzdTFoTUhJTFA1QVlraDUyN2t4Ujh3MVlVaV9PTnFDSXd3RC1yeW84dWhSY1d6X2tqbnFzaVE2SUhLWksyWEVsYlM0TjJTZ3ZPMlNuX1ZuOGp1TUMyTnpKVk5SbU43ZW1BWWJTNkp2VzdockU4Z3lVdEYyOCIsImlkIjoiZmNfcjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVFfNSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVteHBjMU42Ym01a1prTkNNR0ZZV1Y5a1FXbERZbFo2YW1WUlVITlRaa2Q0VTBOM1ZEQkRRMmxUUkVKM01HNXRSbEUyU0RJNFZVSmpYMlJRYTIxQlVtMVlUMDlRWDFCamRYZG1ZVVp1T0V4VE9FdEJPVGc1ZEhrM1p4SVhORzlwTldGMlRGWkZTbVZIYUdKSlVHbHZZWEYxVVdjYUlrRkVjM0k1WmxGTWFraHBUMmxSY0ZaSk4xcERUbkZFVG14eU5sTkNVVEZtU0hjIiwiZmN2IjoiMyIsImVpIjoiNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWciLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHV3IzRkwtMEEiLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cnkgaXMgbm8uIDEgaW4gQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2U/IiwibGsiOiJHakIzYUdsamFDQmpiM1Z1ZEhKNUlHbHpJRzV2SURFZ2FXNGdZWEowYVdacFkybGhiQ0JwYm5SbGJHeHBaMlZ1WTJVIiwiYnMiOiJjMldQUVFyQ01CQkZjWnVWSzVXQ09uZ0EwZWktZEprVEZOeU5jZG9NMWdTU1NQSDJwcTFnUzlmX3ZUX3p4VVdzVllCQ1FlMWR5N1lHdHFEc2d6R1htMnpGQVpESEVYZVJNRUtXaHJVQjdkNDItZzhrenJvam5EdWs4SkVyMW94TktvclVORnlUMVpSTG1aM2F1VFZJLUpkNEpJbWJ1SllHWTRkR1FfQkNfNlFJd2FBbmNCVUVRcDhLeWRac0tZeC1QMlREcTFOaTRvdEM3TkwwWG9BSzA4azA4VTRtZWYwTWxjdDl0dVh3SzVvVHlNdkZGdyIsImlkIjoiZmNfNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWdfNSJ9",
+    "page_token": "yQ3Sd3icHdBRbpswGABg7TJ9bGzSZGqkaBrFHqXDqx382_hlIgZCwAbasJLytivsDDvVTrNpJ_ik7-dvd-67Px9-NdM0Xnar1TzPt6dhOLnq1g5-VVzee7uyhXPHwna77cct_lTbPXmz4cOrDbkcR4gEyiigg5oWIR2TVKIj4hNbxJ2I2Wg85rYPU9Oah9yP5CCnScVkrhTBbCm3EppIBiyR_eMmb52ozlib2CwqTuoCRmKRSFkwoIMO7yoKT3r9OWALexZL4rl2Rslp4b2J4IwT45MkI5v6n9lagB9SzsE3Wq4NKZ8Z3LfHoEk5TjrhIawgaXNgj2kmvqax0KU2eapgzHDJK-pemMJZ4WnA_JXaQGAV0U592axJY9Ex6HCuTQodPBlZDnnneKHuG6tBmOtw5lIstnVealpzVL6U_toCiKv07JJL_G5QE2XaaEnMppxvavu2X9_8v95_r_20G1-H01-m8oyK",
+    "question": "Which country is no. 1 in Artificial Intelligence?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yQ3Sd3icHdBRbpswGABg7TJ9bGzSZGqkaBrFHqXDqx382_hlIgZCwAbasJLytivsDDvVTrNpJ_ik7-dvd-67Px9-NdM0Xnar1TzPt6dhOLnq1g5-VVzee7uyhXPHwna77cct_lTbPXmz4cOrDbkcR4gEyiigg5oWIR2TVKIj4hNbxJ2I2Wg85rYPU9Oah9yP5CCnScVkrhTBbCm3EppIBiyR_eMmb52ozlib2CwqTuoCRmKRSFkwoIMO7yoKT3r9OWALexZL4rl2Rslp4b2J4IwT45MkI5v6n9lagB9SzsE3Wq4NKZ8Z3LfHoEk5TjrhIawgaXNgj2kmvqax0KU2eapgzHDJK-pemMJZ4WnA_JXaQGAV0U592axJY9Ex6HCuTQodPBlZDnnneKHuG6tBmOtw5lIstnVealpzVL6U_toCiKv07JJL_G5QE2XaaEnMppxvavu2X9_8v95_r_20G1-H01-m8oyK",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVteHBjMU42Ym01a1prTkNNR0ZZV1Y5a1FXbERZbFo2YW1WUlVITlRaa2Q0VTBOM1ZEQkRRMmxUUkVKM01HNXRSbEUyU0RJNFZVSmpYMlJRYTIxQlVtMVlUMDlRWDFCamRYZG1ZVVp1T0V4VE9FdEJPVGc1ZEhrM1p4SVhORzlwTldGMlRGWkZTbVZIYUdKSlVHbHZZWEYxVVdjYUlrRkVjM0k1WmxGTWFraHBUMmxSY0ZaSk4xcERUbkZFVG14eU5sTkNVVEZtU0hjIiwiZmN2IjoiMyIsImVpIjoiNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWciLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHV3IzRkwtMEEiLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cnkgaXMgbm8uIDEgaW4gQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2U%2FIiwibGsiOiJHakIzYUdsamFDQmpiM1Z1ZEhKNUlHbHpJRzV2SURFZ2FXNGdZWEowYVdacFkybGhiQ0JwYm5SbGJHeHBaMlZ1WTJVIiwiYnMiOiJjMldQUVFyQ01CQkZjWnVWSzVXQ09uZ0EwZWktZEprVEZOeU5jZG9NMWdTU1NQSDJwcTFnUzlmX3ZUX3p4VVdzVllCQ1FlMWR5N1lHdHFEc2d6R1htMnpGQVpESEVYZVJNRUtXaHJVQjdkNDItZzhrenJvam5EdWs4SkVyMW94TktvclVORnlUMVpSTG1aM2F1VFZJLUpkNEpJbWJ1SllHWTRkR1FfQkNfNlFJd2FBbmNCVUVRcDhLeWRac0tZeC1QMlREcTFOaTRvdEM3TkwwWG9BSzA4azA4VTRtZWYwTWxjdDl0dVh3SzVvVHlNdkZGdyIsImlkIjoiZmNfNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWdfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zbFpkMUpUV0c1RWJuSXlSRWROTjBwTllrRjRPRVpPYVZGalJWSkhSamw1V1dNM1ZHZFRaVEZCT1RkT1pEWXpjbEJaY0hSNFJHbERjbFJ1VVVFdE1rNU9VM2Q2TVd4NWNFNU5WMUJQZDJwblZHbEJObmM1UVhGYVFSSVhjamhMZG1Gd00yTlBURFoyTlU1dlVEQjBWMHgzVVZFYUlrRkVjM0k1WmxNM2VFeGZSMHR2VjNwQ2JETlZSbkY1U1RGQ1FVZEZXRWx6VDJjIiwiZmN2IjoiMyIsImVpIjoicjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVEiLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHMmp1WkN2WUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDMwJSBydWxlIGluIEFJPyIsImxrIjoiR2hwM2FHRjBJR2x6SUhSb1pTQXpNQ1VnY25Wc1pTQnBiaUJoYVEiLCJicyI6ImMzMlBNUXZDTUJCR2NiM0pTU1ZXdWNWVk5CMGRnbU5fUWVjWVkzTVNFa2pTQnYtOUNTNkMxUEY0N19GeElHRFhHMUlHVzN6Nlc4Uk0xbUljdzBTVHhtc24tSjQxZVZhUUJDMnN1MWhNSElMUDVBWWtoNTI3a3hSOHcxWVVpX09OcUNJd3dELXJ5bzh1aFJjV3pfa2pucXNpUTZJSEtaSzJYRWxiUzROMlNndk8yU25fVm44anVNQzJOekpWTlJtTjdlbUFZYlM2SnZXN2hyRThneVV0RjI4IiwiaWQiOiJmY19yOEt2YXAzY09MNnY1Tm9QMHRXTHdRUV81In0=",
-    "page_token": "fIWcJHicHdBdboIwAADg7DI-CogyNTHLUIo6KaPQFvqyQMuPyE83UMS33WWn2mmW7DvC9_1TnZvL71NY9L3s1ooyDMM0b9u8Sqe8rZW4Gxuu8Liqkphf1sazob1kfGN1g7ltB9PDUpIdUn3MHzBABrTvtlMvygSzL1Kit0D3Hr4tPHfP7KDJx4jAk0-LLK7BHIaiFGGRnQiTKV1cU_t-i3Rv7jSwJHvmeCo6OSFsvHrZR5gsKCEGAtbMU4uRgQqll-XIwXKgIOqTurgSYmlcBX40E01UsXeMZclDQlkAjjFmJsUrw7UKhqn8xNbBB_ph7uus4DtYBuowEyVxE-11EEA4QgPIPh9NtIejS5mPrJWOMNzi0LRxeRwTsupSQCJhET_W5Uiw0CcZv230yf_Y5iOr-7X8avM_rUZ4UA",
-    "question": "What is the 30% rule in AI?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fIWcJHicHdBdboIwAADg7DI-CogyNTHLUIo6KaPQFvqyQMuPyE83UMS33WWn2mmW7DvC9_1TnZvL71NY9L3s1ooyDMM0b9u8Sqe8rZW4Gxuu8Liqkphf1sazob1kfGN1g7ltB9PDUpIdUn3MHzBABrTvtlMvygSzL1Kit0D3Hr4tPHfP7KDJx4jAk0-LLK7BHIaiFGGRnQiTKV1cU_t-i3Rv7jSwJHvmeCo6OSFsvHrZR5gsKCEGAtbMU4uRgQqll-XIwXKgIOqTurgSYmlcBX40E01UsXeMZclDQlkAjjFmJsUrw7UKhqn8xNbBB_ph7uus4DtYBuowEyVxE-11EEA4QgPIPh9NtIejS5mPrJWOMNzi0LRxeRwTsupSQCJhET_W5Uiw0CcZv230yf_Y5iOr-7X8avM_rUZ4UA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zbFpkMUpUV0c1RWJuSXlSRWROTjBwTllrRjRPRVpPYVZGalJWSkhSamw1V1dNM1ZHZFRaVEZCT1RkT1pEWXpjbEJaY0hSNFJHbERjbFJ1VVVFdE1rNU9VM2Q2TVd4NWNFNU5WMUJQZDJwblZHbEJObmM1UVhGYVFSSVhjamhMZG1Gd00yTlBURFoyTlU1dlVEQjBWMHgzVVZFYUlrRkVjM0k1WmxNM2VFeGZSMHR2VjNwQ2JETlZSbkY1U1RGQ1FVZEZXRWx6VDJjIiwiZmN2IjoiMyIsImVpIjoicjhLdmFwM2NPTDZ2NU5vUDB0V0x3UVEiLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHMmp1WkN2WUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDMwJSBydWxlIGluIEFJPyIsImxrIjoiR2hwM2FHRjBJR2x6SUhSb1pTQXpNQ1VnY25Wc1pTQnBiaUJoYVEiLCJicyI6ImMzMlBNUXZDTUJCR2NiM0pTU1ZXdWNWVk5CMGRnbU5fUWVjWVkzTVNFa2pTQnYtOUNTNkMxUEY0N19GeElHRFhHMUlHVzN6Nlc4Uk0xbUljdzBTVHhtc24tSjQxZVZhUUJDMnN1MWhNSElMUDVBWWtoNTI3a3hSOHcxWVVpX09OcUNJd3dELXJ5bzh1aFJjV3pfa2pucXNpUTZJSEtaSzJYRWxiUzROMlNndk8yU25fVm44anVNQzJOekpWTlJtTjdlbUFZYlM2SnZXN2hyRThneVV0RjI4IiwiaWQiOiJmY19yOEt2YXAzY09MNnY1Tm9QMHRXTHdRUV81In0%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVteHBjMU42Ym01a1prTkNNR0ZZV1Y5a1FXbERZbFo2YW1WUlVITlRaa2Q0VTBOM1ZEQkRRMmxUUkVKM01HNXRSbEUyU0RJNFZVSmpYMlJRYTIxQlVtMVlUMDlRWDFCamRYZG1ZVVp1T0V4VE9FdEJPVGc1ZEhrM1p4SVhORzlwTldGMlRGWkZTbVZIYUdKSlVHbHZZWEYxVVdjYUlrRkVjM0k1WmxGTWFraHBUMmxSY0ZaSk4xcERUbkZFVG14eU5sTkNVVEZtU0hjIiwiZmN2IjoiMyIsImVpIjoiNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWciLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHV3IzRkwtMEEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1hcmtldCBzaGFyZSBvZiBzZWFyY2ggZW5naW5lcyBpbiBJbmRpYT8iLCJsayI6IkdpQnBibVJwWVNCelpXRnlZMmdnWlc1bmFXNWxJRzFoY210bGRDQnphR0Z5WlEiLCJicyI6ImMyV1BRUXJDTUJCRmNadVZLNVdDT25nQTBlaS1kSmtURk55TmNkb00xZ1NTU1BIMnBxMWdTOWZfdlRfenhVV3NWWUJDUWUxZHk3WUd0cURzZ3pHWG0yekZBWkRIRVhlUk1FS1doclVCN2Q0Mi1nOGt6cm9qbkR1azhKRXIxb3hOS29yVU5GeVQxWlJMbVozYXVUVkktSmQ0SkltYnVKWUdZNGRHUV9CQ182UUl3YUFuY0JVRVFwOEt5ZFpzS1l4LVAyVERxMU5pNG90QzdOTDBYb0FLMDhrMDhVNG1lZjBNbGN0OXR1WHdLNW9UeU12RkZ3IiwiaWQiOiJmY180b2k1YXZMVkVKZUdoYklQaW9hcXVRZ181In0=",
+    "page_token": "Qk3jMnicHdDbTsIwAIDh-DJcwg6CQkKM1Q2oMOzoYeuN2VpgsK4tOtjYne_iU_k0El_gz5f_-0cddPl7dynq2n5NBoOmafp7Y_Zq2xemGmRfVy0GIlMqz0Q5GT2M3KedmAbnBXg5LQAi1tLX2NlgUke6CJNOrgmFDOGoEaULUzZc4ND4GUM-Z3SYBzSQJPLlPF5xXKR5AspMw8Otc4kVXK8xAEKBIXbsUATtmmt4JY6dLZmLpbZpPIcm8eApZ-GcBeMWaYmp_3yl2jRLLDsaSm87azX34Tnp1CLHQONEbbZa2oipd-LzGldFnc_aY0RpwwLq8Sok-ZGfBX28F6SYc5_HQSGc3CvdNOErWtI3TqRJS4UyNi5EQmPemps57sRRVaSDNTm4S6RBFyUSIVrMMhV6JKAAM2tXThsR1NuJy9Tv_f-cfuyqemI_zf4PEHGFLA",
+    "question": "What is the market share of search engines in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Qk3jMnicHdDbTsIwAIDh-DJcwg6CQkKM1Q2oMOzoYeuN2VpgsK4tOtjYne_iU_k0El_gz5f_-0cddPl7dynq2n5NBoOmafp7Y_Zq2xemGmRfVy0GIlMqz0Q5GT2M3KedmAbnBXg5LQAi1tLX2NlgUke6CJNOrgmFDOGoEaULUzZc4ND4GUM-Z3SYBzSQJPLlPF5xXKR5AspMw8Otc4kVXK8xAEKBIXbsUATtmmt4JY6dLZmLpbZpPIcm8eApZ-GcBeMWaYmp_3yl2jRLLDsaSm87azX34Tnp1CLHQONEbbZa2oipd-LzGldFnc_aY0RpwwLq8Sok-ZGfBX28F6SYc5_HQSGc3CvdNOErWtI3TqRJS4UyNi5EQmPemps57sRRVaSDNTm4S6RBFyUSIVrMMhV6JKAAM2tXThsR1NuJy9Tv_f-cfuyqemI_zf4PEHGFLA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVteHBjMU42Ym01a1prTkNNR0ZZV1Y5a1FXbERZbFo2YW1WUlVITlRaa2Q0VTBOM1ZEQkRRMmxUUkVKM01HNXRSbEUyU0RJNFZVSmpYMlJRYTIxQlVtMVlUMDlRWDFCamRYZG1ZVVp1T0V4VE9FdEJPVGc1ZEhrM1p4SVhORzlwTldGMlRGWkZTbVZIYUdKSlVHbHZZWEYxVVdjYUlrRkVjM0k1WmxGTWFraHBUMmxSY0ZaSk4xcERUbkZFVG14eU5sTkNVVEZtU0hjIiwiZmN2IjoiMyIsImVpIjoiNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWciLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHV3IzRkwtMEEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1hcmtldCBzaGFyZSBvZiBzZWFyY2ggZW5naW5lcyBpbiBJbmRpYT8iLCJsayI6IkdpQnBibVJwWVNCelpXRnlZMmdnWlc1bmFXNWxJRzFoY210bGRDQnphR0Z5WlEiLCJicyI6ImMyV1BRUXJDTUJCRmNadVZLNVdDT25nQTBlaS1kSmtURk55TmNkb00xZ1NTU1BIMnBxMWdTOWZfdlRfenhVV3NWWUJDUWUxZHk3WUd0cURzZ3pHWG0yekZBWkRIRVhlUk1FS1doclVCN2Q0Mi1nOGt6cm9qbkR1azhKRXIxb3hOS29yVU5GeVQxWlJMbVozYXVUVkktSmQ0SkltYnVKWUdZNGRHUV9CQ182UUl3YUFuY0JVRVFwOEt5ZFpzS1l4LVAyVERxMU5pNG90QzdOTDBYb0FLMDhrMDhVNG1lZjBNbGN0OXR1WHdLNW9UeU12RkZ3IiwiaWQiOiJmY180b2k1YXZMVkVKZUdoYklQaW9hcXVRZ181In0%3D",
     "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Using+AI+as+a+search+engine&sa=X&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ1QJ6BAg6EAE",
-    "query": "Using AI as a search engine",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Using+AI+as+a+search+engine"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=AI+search+SEO&sa=X&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ1QJ6BAg_EAE",
-    "query": "AI search SEO",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+search+SEO"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=McKinsey+artificial+intelligence&sa=X&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ1QJ6BAg-EAE",
-    "query": "McKinsey artificial intelligence",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=McKinsey+artificial+intelligence"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=The+growth+of+AI&sa=X&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ1QJ6BAg9EAE",
-    "query": "The growth of AI",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+growth+of+AI"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Gartner+search+engine+magic+quadrant&sa=X&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ1QJ6BAg8EAE",
-    "query": "Gartner search engine magic quadrant",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gartner+search+engine+magic+quadrant"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Consumer+reliance+on+ai+search+results+signals+new+era+of+marketing+bain+company&sa=X&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ1QJ6BAg7EAE",
-    "query": "Consumer reliance on ai search results signals new era of marketing bain company",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Consumer+reliance+on+ai+search+results+signals+new+era+of+marketing+bain+company"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Is+google+search+volume+decreasing&sa=X&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ1QJ6BAg4EAE",
-    "query": "Is google search volume decreasing",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Is+google+search+volume+decreasing"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Semrush+study+where+ai+gets+its+facts&sa=X&ved=2ahUKEwjd78Ojhv2WAxW-F1kFHdLqIkgQ1QJ6BAg5EAE",
-    "query": "Semrush study where ai gets its facts",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Semrush+study+where+ai+gets+its+facts"
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVteHBjMU42Ym01a1prTkNNR0ZZV1Y5a1FXbERZbFo2YW1WUlVITlRaa2Q0VTBOM1ZEQkRRMmxUUkVKM01HNXRSbEUyU0RJNFZVSmpYMlJRYTIxQlVtMVlUMDlRWDFCamRYZG1ZVVp1T0V4VE9FdEJPVGc1ZEhrM1p4SVhORzlwTldGMlRGWkZTbVZIYUdKSlVHbHZZWEYxVVdjYUlrRkVjM0k1WmxGTWFraHBUMmxSY0ZaSk4xcERUbkZFVG14eU5sTkNVVEZtU0hjIiwiZmN2IjoiMyIsImVpIjoiNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWciLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHV3IzRkwtMEEiLCJxdWVzdGlvbiI6IklzIEluZGlhIGZhbGxpbmcgYmVoaW5kIGluIEFJPyIsImxrIjoiYzVPU3pTeFd5TXhMeVV4VVNFdk15Y25NUzFkSVNzMEFDZ0FGRlJJekFRIiwiYnMiOiJjMldQUVFyQ01CQkZjWnVWSzVXQ09uZ0EwZWktZEprVEZOeU5jZG9NMWdTU1NQSDJwcTFnUzlmX3ZUX3p4VVdzVllCQ1FlMWR5N1lHdHFEc2d6R1htMnpGQVpESEVYZVJNRUtXaHJVQjdkNDItZzhrenJvam5EdWs4SkVyMW94TktvclVORnlUMVpSTG1aM2F1VFZJLUpkNEpJbWJ1SllHWTRkR1FfQkNfNlFJd2FBbmNCVUVRcDhLeWRac0tZeC1QMlREcTFOaTRvdEM3TkwwWG9BSzA4azA4VTRtZWYwTWxjdDl0dVh3SzVvVHlNdkZGdyIsImlkIjoiZmNfNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWdfNSJ9",
+    "page_token": "icNI6nicHdDBToMwAIDh-DI7uhbcdEsWkzrKwKzYQsvWiyllg9l2oOJAbr6LT-XTaLz_-Q7_17c9nc3P1aXuuvZ9OZ32fX9dNU1lD9e6cVP1_nnWU62sLZQ2y_ntHN4f9Sr4iNDDa4Qob1uxZiBbI1duIig9MaOCPGZ8wCyUifRRWPD6I8lNJy27EFejHJf1Idv7FMpGcOAxQYZ0lFiNAud80TKLTAEGcHhBNDXxusgrPwloXwg8JkG5UZjeSHvXZa7jZFNGJNQw3YmegBtPCQ5JjpkKo54E9YkFAGqLwTbAWWkXQcFnkK9Ros7lkf21Zc4UMfYpFyjMvHh_4NjRMWZBrUHhGbjfya0w4lHystkbS1W-qPVOMDk0J8rZqF-sE-FiICD2M1jN6HnrpQ6__gEXLWRKnHyjJuaUTo76svIn_z9Xz0fXLdu3pvoF3H2BrQ",
+    "question": "Is India falling behind in AI?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=icNI6nicHdDBToMwAIDh-DI7uhbcdEsWkzrKwKzYQsvWiyllg9l2oOJAbr6LT-XTaLz_-Q7_17c9nc3P1aXuuvZ9OZ32fX9dNU1lD9e6cVP1_nnWU62sLZQ2y_ntHN4f9Sr4iNDDa4Qob1uxZiBbI1duIig9MaOCPGZ8wCyUifRRWPD6I8lNJy27EFejHJf1Idv7FMpGcOAxQYZ0lFiNAud80TKLTAEGcHhBNDXxusgrPwloXwg8JkG5UZjeSHvXZa7jZFNGJNQw3YmegBtPCQ5JjpkKo54E9YkFAGqLwTbAWWkXQcFnkK9Ros7lkf21Zc4UMfYpFyjMvHh_4NjRMWZBrUHhGbjfya0w4lHystkbS1W-qPVOMDk0J8rZqF-sE-FiICD2M1jN6HnrpQ6__gEXLWRKnHyjJuaUTo76svIn_z9Xz0fXLdu3pvoF3H2BrQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVteHBjMU42Ym01a1prTkNNR0ZZV1Y5a1FXbERZbFo2YW1WUlVITlRaa2Q0VTBOM1ZEQkRRMmxUUkVKM01HNXRSbEUyU0RJNFZVSmpYMlJRYTIxQlVtMVlUMDlRWDFCamRYZG1ZVVp1T0V4VE9FdEJPVGc1ZEhrM1p4SVhORzlwTldGMlRGWkZTbVZIYUdKSlVHbHZZWEYxVVdjYUlrRkVjM0k1WmxGTWFraHBUMmxSY0ZaSk4xcERUbkZFVG14eU5sTkNVVEZtU0hjIiwiZmN2IjoiMyIsImVpIjoiNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWciLCJxYyI6ImMtT3l6U3hXS0U1TkxFck9VTWpNSzBrdFNpMHVBVElVRW90S010TXlrek1UYzhEQ09UbVo2YWw1eWFrZ3FjeThsTXhFaGFMTTRzeThkQUdHV3IzRkwtMEEiLCJxdWVzdGlvbiI6IklzIEluZGlhIGZhbGxpbmcgYmVoaW5kIGluIEFJPyIsImxrIjoiYzVPU3pTeFd5TXhMeVV4VVNFdk15Y25NUzFkSVNzMEFDZ0FGRlJJekFRIiwiYnMiOiJjMldQUVFyQ01CQkZjWnVWSzVXQ09uZ0EwZWktZEprVEZOeU5jZG9NMWdTU1NQSDJwcTFnUzlmX3ZUX3p4VVdzVllCQ1FlMWR5N1lHdHFEc2d6R1htMnpGQVpESEVYZVJNRUtXaHJVQjdkNDItZzhrenJvam5EdWs4SkVyMW94TktvclVORnlUMVpSTG1aM2F1VFZJLUpkNEpJbWJ1SllHWTRkR1FfQkNfNlFJd2FBbmNCVUVRcDhLeWRac0tZeC1QMlREcTFOaTRvdEM3TkwwWG9BSzA4azA4VTRtZWYwTWxjdDl0dVh3SzVvVHlNdkZGdyIsImlkIjoiZmNfNG9pNWF2TFZFSmVHaGJJUGlvYXF1UWdfNSJ9",
+    "type": "ai_overview"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Is search interest in artificial intelligence in India rising?",
-   "time_taken_displayed": 0.25,
-   "total_results": 129000000
+   "time_taken_displayed": 0.48,
+   "total_results": 2740000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:25:35 UTC",
+   "created_at": "2026-09-27 21:21:38 UTC",
    "google_url": "https://www.google.com/search?q=Is+search+interest+in+artificial+intelligence+in+India+rising%3F&oq=Is+search+interest+in+artificial+intelligence+in+India+rising%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc2afd10c6ad6aa7c04ff",
-   "json_endpoint": "https://serpapi.com/searches/dw_33D62wXiJahGZ-eLVh1uq4NREXGY34rMn-PkHco8/6aafc2afd10c6ad6aa7c04ff.json",
-   "markdown_endpoint": "https://serpapi.com/searches/dw_33D62wXiJahGZ-eLVh1uq4NREXGY34rMn-PkHco8/6aafc2afd10c6ad6aa7c04ff.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/dw_33D62wXiJahGZ-eLVh1uq4NREXGY34rMn-PkHco8/6aafc2afd10c6ad6aa7c04ff.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:25:35 UTC",
-   "raw_html_file": "https://serpapi.com/searches/dw_33D62wXiJahGZ-eLVh1uq4NREXGY34rMn-PkHco8/6aafc2afd10c6ad6aa7c04ff.html",
+   "id": "6ab988e2fbbebbff036b52f5",
+   "json_endpoint": "https://serpapi.com/searches/ZD1qlem9i7hOyegjSAegwz6zWtUZxF4spndi6IVzJgs/6ab988e2fbbebbff036b52f5.json",
+   "markdown_endpoint": "https://serpapi.com/searches/ZD1qlem9i7hOyegjSAegwz6zWtUZxF4spndi6IVzJgs/6ab988e2fbbebbff036b52f5.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/ZD1qlem9i7hOyegjSAegwz6zWtUZxF4spndi6IVzJgs/6ab988e2fbbebbff036b52f5.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:21:38 UTC",
+   "raw_html_file": "https://serpapi.com/searches/ZD1qlem9i7hOyegjSAegwz6zWtUZxF4spndi6IVzJgs/6ab988e2fbbebbff036b52f5.html",
    "status": "Success",
-   "total_time_taken": 0.37
+   "total_time_taken": 0.78
   },
   "search_parameters": {
    "device": "desktop",

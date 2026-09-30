@@ -35,7 +35,7 @@ from frugal.budget import BudgetGovernor, Projection, SpendListener
 from frugal.client import SerpApiClient
 from frugal.errors import BudgetExceeded, FrugalError
 from frugal.parameters import Locale, build_params, detect_locale, wants_recent
-from frugal.reformulate import expand_query, feedback_terms, reformulate
+from frugal.reformulate import expand_query, feedback_terms, keyword_query, reformulate
 from frugal.router import RoutingDecision, route
 from frugal.saturation import (
     DEFAULT_PATIENCE,
@@ -348,13 +348,8 @@ class Planner:
                         cost=decision.cost,
                         round_number=round_number,
                         rationale=variant.rationale,
-                        params=build_params(
-                            decision.engine,
-                            variant.query,
-                            locale=locale,
-                            results=self.results_per_search,
-                            recent=recent,
-                            current_year=year,
+                        params=self._params_for(
+                            decision.engine, variant.query, locale, recent, year
                         ),
                     )
                 )
@@ -367,6 +362,35 @@ class Planner:
                 break
 
         return steps
+
+    def _params_for(
+        self,
+        engine: str,
+        query: str,
+        locale: Locale | None,
+        recent: bool,
+        year: int,
+    ) -> dict[str, Any]:
+        """The request one step sends.
+
+        Web search gets the question and a page size and nothing else. Locale
+        and recency parameters were sent to it until two recordings showed they
+        changed no outcome in either: the plan scored 98 and 91 with them and 98
+        and 91 without. On the specialist engines the same parameters are not
+        optional -- trends without ``geo`` answers about the wrong country, jobs
+        without ``location`` returns vacancies from anywhere, maps without ``z``
+        returns HTTP 400 -- so they stay exactly where they are.
+        """
+        if engine == "google":
+            return {"q": query, "num": self.results_per_search}
+        return build_params(
+            engine,
+            query,
+            locale=locale,
+            results=self.results_per_search,
+            recent=recent,
+            current_year=year,
+        )
 
     def dry_run(self, question: str, *, budget: int = DEFAULT_BUDGET) -> DryRun:
         """Report what a plan would cost without issuing anything."""
@@ -656,8 +680,7 @@ def baseline_step(
             params={"q": verbatim, "num": results},
         )
 
-    variants = reformulate(question, engine="google", limit=1)
-    query = variants[0].query if variants else verbatim
+    query = keyword_query(question)
 
     if strategy == "keyword":
         return PlanStep(

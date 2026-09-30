@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 936.82,
+ "elapsed_ms": 97024.294,
  "engine": "google",
- "fetched_at": "2026-09-20T11:25:19.179871+00:00",
+ "fetched_at": "2026-09-30T14:21:59.442286+00:00",
  "frugal_cache_version": 1,
  "key": "44e897d1274c2ffb39c5eb306d47c2545129fa89eb447b962c6e90dac2137bf7",
  "params": {
@@ -10,376 +10,346 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "c0YSe3iczVXdcqJIFH6AfY71JikBRdRUUVPd0CpRY2A0hrmhkF8VbLVRYu7mXfap9mm2AX8gwbgzF1t7qpqmm8Pp8_f19_OvYL5a_v3Hmx9Fa_LAMHEcVz2MvcCpWjhkTHJYWYyLA7K1_G-HvVivWERkK85cXJH-3lwLstLo7jYReeYbG6WlWpX0F9GYmcRZUItvC8IYDH0s_6zLdFElVWdV3bnkh9zm7PGgVa2xXLs6YsyQKoD_TpDqwWR-BNJ1JfoJ3TaVGFAARDlLCvDSGV609OyzpKafJO-qNZidqaXqKh2y8d6LZbp7zI989V96BCws49QXAOLUSwjmt6PJiXqM5RTXF5k6axflmD182cnXuOBrQby4sOxQLwwgSZdD8odRM37BjXOmLA-0ehjKEEyu-03z01dAYwlUVBZCXlT0wp8rN9C7dIexPdq4LDPb0olj5pZvpS9bkvSzNG6zuDP2m-2JHI3sgMXLN7Mz02taq_XDfRoCxppRvQCbtmMbvsF-S9dcjWuw7XqzdZ8CySJnJJE8kp7BbvZ94PPzd1AdVCF3gpGUFR18qhiia0kpCQxKR9WSEsPLblKwY0nVTt7usZQQSBggDRRL239O8to91Yz26DstTV7jcmrS_J9hlImXU6YwSh1RcBqqUtDItLo56OYKq4Cya-Zj3Grv8ip_UiwAUKLxLsEpMfpHyzpQJQ8lGJBQDx6zZuVt0Ij75wU8OYwAvaHgSeOimynlfKIpAIoKhkBB1OZ8otAO9ZJezRxNmuF4Vgd9QNyVhtfpMVPp31x9JQJvgSgR9YSXD-2fhw0aDbHwSqYdlZ1MX4ErKKoG-7LvkRdQDhMczn6Bcaz_FZAyPkJHProOJHQbSCkfwS_4KH2_8FHSvBK-CiTYLeejYSkfFeOWgJYH0td89MtAkr4EUpalUiDhciCtrwLJiz8CqchHqJyPzkD6HT6Cv8lHKa6cbCqS027hXSUp5HNmc-Fu3oO63LabE8NcTafsa7jTFupNknLD6CE07eDemNsPsPYYHex7g27gB8eubESCd5EfOyS6C_GKYLy6W-FtaAbB4W7rmJZ_t3S2ZmBWwmCLRdbkY-ElEmx27rzuLfVFsUBPt8Px4ftiv3bHnDbTyMsu1ofRNFZdVF8PAjeehm9o3R0-KWNZP3BWtzF2PGv45Bt-RzI2wzeE1mZH0HfaKpgvwromqFZLnz96SDGVychp85psNEYaXx_wazeSX0dy6KX-EFEfy2ztOY7p_VAJt5ZIq8574EkFU4-2n5S2JR2YjpgOgVYFVohlGg7ZiwIv0DTZbXdm1wS-6VRCLzqsRZ6rkNVW5P4BCv88ig",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=c0YSe3iczVXdcqJIFH6AfY71JikBRdRUUVPd0CpRY2A0hrmhkF8VbLVRYu7mXfap9mm2AX8gwbgzF1t7qpqmm8Pp8_f19_OvYL5a_v3Hmx9Fa_LAMHEcVz2MvcCpWjhkTHJYWYyLA7K1_G-HvVivWERkK85cXJH-3lwLstLo7jYReeYbG6WlWpX0F9GYmcRZUItvC8IYDH0s_6zLdFElVWdV3bnkh9zm7PGgVa2xXLs6YsyQKoD_TpDqwWR-BNJ1JfoJ3TaVGFAARDlLCvDSGV609OyzpKafJO-qNZidqaXqKh2y8d6LZbp7zI989V96BCws49QXAOLUSwjmt6PJiXqM5RTXF5k6axflmD182cnXuOBrQby4sOxQLwwgSZdD8odRM37BjXOmLA-0ehjKEEyu-03z01dAYwlUVBZCXlT0wp8rN9C7dIexPdq4LDPb0olj5pZvpS9bkvSzNG6zuDP2m-2JHI3sgMXLN7Mz02taq_XDfRoCxppRvQCbtmMbvsF-S9dcjWuw7XqzdZ8CySJnJJE8kp7BbvZ94PPzd1AdVCF3gpGUFR18qhiia0kpCQxKR9WSEsPLblKwY0nVTt7usZQQSBggDRRL239O8to91Yz26DstTV7jcmrS_J9hlImXU6YwSh1RcBqqUtDItLo56OYKq4Cya-Zj3Grv8ip_UiwAUKLxLsEpMfpHyzpQJQ8lGJBQDx6zZuVt0Ij75wU8OYwAvaHgSeOimynlfKIpAIoKhkBB1OZ8otAO9ZJezRxNmuF4Vgd9QNyVhtfpMVPp31x9JQJvgSgR9YSXD-2fhw0aDbHwSqYdlZ1MX4ErKKoG-7LvkRdQDhMczn6Bcaz_FZAyPkJHProOJHQbSCkfwS_4KH2_8FHSvBK-CiTYLeejYSkfFeOWgJYH0td89MtAkr4EUpalUiDhciCtrwLJiz8CqchHqJyPzkD6HT6Cv8lHKa6cbCqS027hXSUp5HNmc-Fu3oO63LabE8NcTafsa7jTFupNknLD6CE07eDemNsPsPYYHex7g27gB8eubESCd5EfOyS6C_GKYLy6W-FtaAbB4W7rmJZ_t3S2ZmBWwmCLRdbkY-ElEmx27rzuLfVFsUBPt8Px4ftiv3bHnDbTyMsu1ofRNFZdVF8PAjeehm9o3R0-KWNZP3BWtzF2PGv45Bt-RzI2wzeE1mZH0HfaKpgvwromqFZLnz96SDGVychp85psNEYaXx_wazeSX0dy6KX-EFEfy2ztOY7p_VAJt5ZIq8574EkFU4-2n5S2JR2YjpgOgVYFVohlGg7ZiwIv0DTZbXdm1wS-6VRCLzqsRZ6rkNVW5P4BCv88ig"
+   "page_token": "tK05GniczVVdkqJIED7AnmN96VbAv5aOICaKAh3UVhFtnXkhEBAQsJSiG-m3ucEeYk-1p9kCRNERO2YeNjYVkqrKysqsyq--H397ztb954-_7DDc4WeKiqKoZiFkeWZNRz6l4XirU2vk4UC3v8TvXKOiY46umA7Xme5ZbRe_dPsfBoPlCW6uvAigSjqFU1caNjfE42GDKZUiL_fPhkAaNVzbhSo_rbkrTenNes1oSNfqNMPWxpTmExvwH4osAgnwRGeqTCAA4ufOEhMZwMRXLhY8D2UiZP6SNa20Y1C6pJTM4slPAqnppHlo2Zi4kHMjpTxiudiIUsXz2YpKEpT1eT5nybaGl0-hlYp0uzubCQuLfvtp9Ja8XDYR4IUmkGU-D-HqVJRiVryYZJlYkM2oCgfAR07JZh8nkP8MfHXR_RTTQKDUybcDdDE5VIkyLFK8NLUKiGIoR7f19CPASU3DGUsj0Xu1tx8zSZxGQ1E1uuphgMYKDH15aVH6ith5SDNMQ7VV-kvaZupMi2YbT53HFE86PgEKFwE1RtNotGdY_CLWhjWeyaEETwdylZBI2vDWWZGdhbcmpGIVcFCY7MBiNc2PmpS3mBhJUcGBKE0S3cs7xuRAAa8XoZcvkLi8BaULoyOU0sKSMi2dp59M5tLZkVUcEm7A4Kd7AEJwzEEWch_HAOSrbYJAkchY3nvlihSMY4uJ5hWSD07N9Iv6p8XpOWWYO0kKXhRPTkDxSypACZL6hmnFjxIvLrRcXiLB8iDbFysFRSrIujp-seSKgyRHfl4O0Xtild0HFyLlmLmCQBE6PXHcDjvvrriR1f7InyvW5k3vxI211wW3oYL81a-Rj_7_wlNOTfMjNZXjSfwcT8lVeI-a0teZmpQMT4NyPCWh5NRkFajpFNyZmq7xBJUCnjJqsvjubWr6VTzBO3iS7uEpyfQWnuRSPL2AKzz1r6npAk8nasrx9HvUJP0eNaXwMjN1yVNvG6uUr3r9p4a3iLrqawBBq-fLwntDPsChykLwKV-t_fDZ1wzvUXWMZ77eD2PjUSUd6Nk0KnsOo7fQjkwcPvhoixHaPmxR4GueFz8EpqbbD64ZaJ5W8b0AcbTWtt06u1F07VAVJkvThfx6WZeZRfsAded1NtO0D2fA1nf1sRI329UlHe63ytsMVvsxbJtKX-rL6ry7Nnaqiaodb8HM4oPg9Bu4iZaaehB7zGj8vf3RY9ivbrCMRHu0RXg_aE4mI7Y-RPvvo0CpgoiUW91gpmlUmFvsJ23Bgf0eK1X8QOfI0TRjMJXBwiJlCL8RerDIg8gTkadNMM1XsK6pJn7n9E6LXWkao6-etI7ZaVV8K4x3XJOp4G3AMf8CbxJFNA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tK05GniczVVdkqJIED7AnmN96VbAv5aOICaKAh3UVhFtnXkhEBAQsJSiG-m3ucEeYk-1p9kCRNERO2YeNjYVkqrKysqsyq--H397ztb954-_7DDc4WeKiqKoZiFkeWZNRz6l4XirU2vk4UC3v8TvXKOiY46umA7Xme5ZbRe_dPsfBoPlCW6uvAigSjqFU1caNjfE42GDKZUiL_fPhkAaNVzbhSo_rbkrTenNes1oSNfqNMPWxpTmExvwH4osAgnwRGeqTCAA4ufOEhMZwMRXLhY8D2UiZP6SNa20Y1C6pJTM4slPAqnppHlo2Zi4kHMjpTxiudiIUsXz2YpKEpT1eT5nybaGl0-hlYp0uzubCQuLfvtp9Ja8XDYR4IUmkGU-D-HqVJRiVryYZJlYkM2oCgfAR07JZh8nkP8MfHXR_RTTQKDUybcDdDE5VIkyLFK8NLUKiGIoR7f19CPASU3DGUsj0Xu1tx8zSZxGQ1E1uuphgMYKDH15aVH6ith5SDNMQ7VV-kvaZupMi2YbT53HFE86PgEKFwE1RtNotGdY_CLWhjWeyaEETwdylZBI2vDWWZGdhbcmpGIVcFCY7MBiNc2PmpS3mBhJUcGBKE0S3cs7xuRAAa8XoZcvkLi8BaULoyOU0sKSMi2dp59M5tLZkVUcEm7A4Kd7AEJwzEEWch_HAOSrbYJAkchY3nvlihSMY4uJ5hWSD07N9Iv6p8XpOWWYO0kKXhRPTkDxSypACZL6hmnFjxIvLrRcXiLB8iDbFysFRSrIujp-seSKgyRHfl4O0Xtild0HFyLlmLmCQBE6PXHcDjvvrriR1f7InyvW5k3vxI211wW3oYL81a-Rj_7_wlNOTfMjNZXjSfwcT8lVeI-a0teZmpQMT4NyPCWh5NRkFajpFNyZmq7xBJUCnjJqsvjubWr6VTzBO3iS7uEpyfQWnuRSPL2AKzz1r6npAk8nasrx9HvUJP0eNaXwMjN1yVNvG6uUr3r9p4a3iLrqawBBq-fLwntDPsChykLwKV-t_fDZ1wzvUXWMZ77eD2PjUSUd6Nk0KnsOo7fQjkwcPvhoixHaPmxR4GueFz8EpqbbD64ZaJ5W8b0AcbTWtt06u1F07VAVJkvThfx6WZeZRfsAded1NtO0D2fA1nf1sRI329UlHe63ytsMVvsxbJtKX-rL6ry7Nnaqiaodb8HM4oPg9Bu4iZaaehB7zGj8vf3RY9ivbrCMRHu0RXg_aE4mI7Y-RPvvo0CpgoiUW91gpmlUmFvsJ23Bgf0eK1X8QOfI0TRjMJXBwiJlCL8RerDIg8gTkadNMM1XsK6pJn7n9E6LXWkao6-etI7ZaVV8K4x3XJOp4G3AMf8CbxJFNA"
   },
+  "inline_images": [
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1588694862760681&get_thumbnail=1",
+    "source": "https://www.facebook.com/rahul.sarkar.457332/posts/why-does-the-indian-monsoon-reach-kerala-first-but-delhi-almost-a-month-later-%EF%B8%8Ft/2218243735635588/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TslIazh8MwQ_rCoDlptwr4mFNEZx1s9swT9mTHc0tfCJ26Nc6xBf79E&s",
+    "title": "Why does the Indian Monsoon reach Kerala first but Delhi almost a month  later? 🌧️🇮🇳, The Southwest Monsoon usually enters India through Kerala,  where moisture-laden winds from the Arabian Sea meet the ..."
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1516023273876719",
+    "source": "https://www.facebook.com/GomantakTV/posts/southwest-monsoon-likely-to-reach-kerala-around-may-26goa-news-rainfall-kerala-m/1516023350543378/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkcmluqvbUOI7R_DD1-STw_Z1P5ZglX1j3NVzRDmd9RvsyYwiRVom9NNOYQ&s",
+    "title": "Southwest Monsoon Likely to Reach Kerala Around May 26 #goa ..."
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1607118013681628&get_thumbnail=1",
+    "source": "https://www.facebook.com/ETVAndhraPradesh/posts/southwest-monsoon-likely-to-reach-kerala-in-2-3-days-imd/1465562848946752/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556usbcNQu-m_9gaI68ScUcdjQPSnoANUypA0cp_7gQ69fTYhHYJo1Is&s",
+    "title": "Southwest Monsoon Likely to Reach Kerala in 2-3 Days | IMD | ETV Andhra  Pradesh | Facebook"
+   },
+   {
+    "original": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/175039-fialigdzkt-1653817089.jpg",
+    "source": "https://scroll.in/latest/1067968/southwest-monsoon-to-reach-kerala-around-may-31-imd",
+    "source_name": "Scroll.in",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPzEctF8kEYv-v9o3VedRX370cmV33DB4uCIjCwschkImQ5r0sDeckwY&s",
+    "title": "Southwest monsoon to reach Kerala around May 31, forecasts IMD"
+   },
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3639417993051553908",
+    "source": "https://www.instagram.com/reel/DKBz2HZAMB0/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5JsMtVfp2lSuP1d1nHYixdWDhdgQpX_h85QUc4tL8QI7oKKc_Cjt5RMZFSw&s",
+    "title": "Usually, the southwest monsoon makes its onset over Kerala by June 1 and  covers the entire country by July 8. It starts retreating from northwest  India around September 17 and withdraws completely by ..."
+   },
+   {
+    "original": "https://assets.odishabytes.com/wp-content/uploads/2021/06/WhatsApp-Image-2021-06-14-at-6.36.03-PM-1024x619.jpeg",
+    "source": "https://odishabytes.com/southwest-monsoon-likely-to-reach-kerala-around-may-31-imd/",
+    "source_name": "Odisha Bytes",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZKr3tS_8NqsQcMI9likYZLZ6kpbHI3ahtWMgH3gBoeVKEFA-xo45aiA&s",
+    "title": "Southwest Monsoon Likely To Reach Kerala Around May 31: IMD ..."
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1008236544829157",
+    "source": "https://www.facebook.com/statesentinelnews/posts/the-southwest-monsoon-reached-kerala-on-saturday-marking-its-earliest-onset-over/1008236568162488/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsPO3syAKN3qct2YlTVRWHX9S1mOGfYASKbFL7twdZcvLXuiBgOCx1mo_MKw&s",
+    "title": "The southwest monsoon reached Kerala on Saturday, marking ..."
+   },
+   {
+    "original": "https://www.hindustantimes.com/ht-img/img/2024/05/15/1600x900/monsoon_onset_kerala_imd_forecast_1715785772581_1715785772727.jpg",
+    "source": "https://www.hindustantimes.com/india-news/imd-forecasts-monsoon-onset-over-kerala-by-may-31-101715785373511.html",
+    "source_name": "Hindustan Times",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2zQjoMxtOLxp6ERNVEAO5J4LqW4m_uMRKvHl6XiQYirzl5dqBenKI_p6Cg&s",
+    "title": "Monsoon likely to reach Kerala around May 31: IMD | India News"
+   },
+   {
+    "original": "https://cf-images.assettype.com/tnm%2Fimport%2Fsites%2Fdefault%2Ffiles%2Fmonsoon_rain_PTI_1200X800.jpg?w=480&auto=format%2Ccompress&fit=max",
+    "source": "https://www.thenewsminute.com/news/kerala-get-monsoon-rains-may-27-imd-163941",
+    "source_name": "The News Minute",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxJ0_Lh-WA6JgedQu-UnIdbPwa9YbKlIASrlZnkJFKqpjctfhZsSyMkw&s",
+    "title": "Kerala to get monsoon rains by May 27: IMD"
+   }
+  ],
   "inline_videos": [
    {
-    "channel": "The Hindu",
-    "date": "May 15, 2026",
-    "duration": "5:42",
-    "link": "https://www.youtube.com/watch?v=YhaKvWls4DY",
-    "platform": "YouTube",
+    "channel": "Rahul Sarkar",
+    "date": " 1 mês atrás",
+    "duration": "0:43",
+    "link": "https://www.facebook.com/rahul.sarkar.457332/posts/why-does-the-indian-monsoon-reach-kerala-first-but-delhi-almost-a-month-later-%EF%B8%8Ft/2218243735635588/",
+    "platform": "Facebook",
     "position": 1,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQZZCvPvg-uFlZMzF3fs3p2bqLQmhPmj3aiVg",
-    "thumbnail": "https://serpapi.com/searches/6aafc29e2f47f8a3ccd35a4b/images/Ayvuxbl5ybdPvNFcDPPtKuDidVHUQThIBFX2Gax6G8s.jpeg",
-    "title": "Explained: Why does Monsoon always enter India via Kerala?"
+    "thumbnail": "https://serpapi.com/searches/6abd1aa62f47f873ea0e49c0/images/RkobHo1DfyHdgXLP426nH2-zbCKr-MWmSzGKlZIJIHg.jpeg",
+    "title": "Why does the Indian Monsoon reach Kerala first but Delhi ..."
    },
    {
-    "channel": "Firstpost",
-    "date": "May 24, 2026",
-    "duration": "5:04",
-    "link": "https://www.youtube.com/watch?v=3VQVCoUP2cE",
-    "platform": "YouTube",
+    "channel": "Satya X",
+    "date": "3 de ago. de 2026",
+    "duration": "0:28",
+    "link": "https://www.facebook.com/SatyaX06/posts/the-southwest-monsoon-remains-active-across-much-of-the-country-rain-is-expected/122136462741186207/",
+    "platform": "Facebook",
     "position": 2,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSAd-BDZ-6ttatOyxMy9nMNLzE-OcFYBiRZQA",
-    "thumbnail": "https://serpapi.com/searches/6aafc29e2f47f8a3ccd35a4b/images/_UZV11ikc4b32p69atQq78w82UwiyiyvpOWBV1Aq3zI.jpeg",
-    "title": "Southwest Monsoon Arrives Early in India | Will Heatwaves ..."
+    "thumbnail": "https://serpapi.com/searches/6abd1aa62f47f873ea0e49c0/images/G1iL6OsVlUGHd4FrLCP0iojUX98TvaaXp6WbLfQ82wU.jpeg",
+    "title": "The southwest monsoon remains active ..."
    },
    {
-    "channel": "StudyIQ IAS: English",
-    "date": "May 23, 2026",
-    "duration": "12:05",
-    "link": "https://www.youtube.com/watch?v=_mTgpYnGPvk",
-    "platform": "YouTube",
+    "channel": "Rahul Sarkar",
+    "date": " 1 mês atrás",
+    "duration": "0:42",
+    "link": "https://www.instagram.com/reel/DcfQCEHBQXy/",
+    "platform": "Instagram",
     "position": 3,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQOwsJJo5mbHeBUa4QUnXdT4kv5ltdvsisOoA",
-    "thumbnail": "https://serpapi.com/searches/6aafc29e2f47f8a3ccd35a4b/images/COt98FTya6t49VvxJb8Gt6sisThjyN_w8hUESekOkFU.jpeg",
-    "title": "Why Monsoon Enters India via Kerala First? | By Ankit Singh ..."
+    "thumbnail": "https://serpapi.com/searches/6abd1aa62f47f873ea0e49c0/images/ZWP64NeV7QpAO2PdkrV_smfiqWD-y0Br3B3v8YxMXVc.jpeg",
+    "title": "Why does the Indian Monsoon reach Kerala first but Delhi ..."
    },
    {
-    "channel": "DD India",
-    "date": "Jun 4, 2026",
-    "duration": "7:54",
-    "link": "https://www.youtube.com/watch?v=LzJFP7fdj7A",
-    "platform": "YouTube",
+    "channel": "Rahul Sarkar",
+    "date": " 1 mês atrás",
+    "duration": "0:43",
+    "link": "https://www.facebook.com/rahul.sarkar.457332/videos/why-does-the-indian-monsoon-reach-kerala-first-but-delhi-almost-a-month-later-%EF%B8%8Ft/1588694862760681/",
+    "platform": "Facebook",
     "position": 4,
-    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTYsmrWA3E6TPmiypXExAizRFBeQuSM_ddWXQ",
-    "thumbnail": "https://serpapi.com/searches/6aafc29e2f47f8a3ccd35a4b/images/RjxFBY0mhk6YcyYrumV7pe6oCpv3cwqNyYyk-LLfwU4.jpeg",
-    "title": "Southwest Monsoon Arrives in Kerala | Heavy Rain Alert ..."
+    "thumbnail": "https://serpapi.com/searches/6abd1aa62f47f873ea0e49c0/images/7eYviofKnpBNnBgtbIHQoNJw8YojXz9mgggC2BmCH9Y.jpeg",
+    "title": "Why does the Indian Monsoon reach Kerala first but Delhi ..."
    }
   ],
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUCL2dvdG8_dXJsPUNBRVMyd0VCNnpzd0ZkMFZRVTRaOVJ1bWdOOGFPeDRwOFNaZzlzMFVqbzdtZnhKNG8zRjg4NThTMlh6YkJRXzE2bWtVOUFVSi11eWx5NmdEZUVDU3pJOENqbDduRTJUSU4tUEpPek5lMm5rRHB3N2M4cVdHSjFmV2NOeHYtWkJsSGtVeGZQc203WWVsbHQyUWlNNnI0VnlBTm1kdmpoZ2lOLVQ0cjQ5S1RyNDhsbktBTWFma294NjcwZ2JJWlEyQUs0cmNjdGhRU1FsY2p6WkJRU3FlOU5fT2lGNzZKTTF3alVQSGd4MkRia3d3aWxyYkF0VHZNZktYN2dvemdKNjljNHdSTHItMER4c1JyOXJWRHNiLXhKM1B1dVNlX0pxdG9Zcm9pbmk0a1lVEgQaAggAGugGEgAaACIAKgAyBggCEgJicjoAQgQIAhBSSgBaAHIAegCCQMQGCAAQABgAIAAqHQoJc291dGh3ZXN0FTCfo0AaAnN3GgdpdjtkO3N3Kg4KB21vbnNvb24VU0jYQCqKAQoIbm9ybWFsbHkVGCRHPxoIY29tbW9ubHkaCmZyZXF1ZW50bHkaCWdlbmVyYWxseRoGbm9ybWFsGgVvZnRlbhoJdHlwaWNhbGx5Ggd1c3VhbGx5Gg5pdjtkO2dlbmVyYWxseRoLaXY7ZDtub3JtYWwaCml2O2Q7b2Z0ZW4aDGl2O2Q7dXN1YWxseSoxCgVyZWFjaBULHoA_GgNnZXQaAmdvGgVyYW5nZRoKaXY7ZDtyZWFjaBoHaXY7ZDtnbyoaCgZrZXJhbGEVlejCQBoLaXY7ZDtrZXJhbGEytQIvZ290bz91cmw9Q0FFUzJ3RUI2enN3RmQwVlFVNFo5UnVtZ044YU94NHA4U1pnOXMwVWpvN21meEo0bzNGODg1OFMyWHpiQlFfMTZta1U5QVVKLXV5bHk2Z0RlRUNTekk4Q2psN25FMlRJTi1QSk96TmUybmtEcHc3YzhxV0dKMWZXY054di1aQmxIa1V4ZlBzbTdZZWxsdDJRaU02cjRWeUFObWR2amhnaU4tVDRyNDlLVHI0OGxuS0FNYWZrb3g2NzBnYklaUTJBSzRyY2N0aFFTUWxjanpaQlFTcWU5Tl9PaUY3NkpNMXdqVVBIZ3gyRGJrd3dpbHJiQXRUdk1mS1g3Z296Z0o2OWM0d1JMci0wRHhzUnI5clZEc2IteEozUHV1U2VfSnF0b1lyb2luaTRrWVU6UTxiPlNvdXRod2VzdCBtb25zb29uPC9iPiBhcnJpdmVzIGluIDxiPktlcmFsYTwvYj4sIG1hcmtzIHN0YXJ0IG9mIEluZGlhJiMzOTtzIC4uLkKaASpNb25zb29uIGxpa2VseSB0byByZWFjaCBLZXJhbGEgaW4gNC01IGRheXM6IElNRCogTkVXIERFTEhJOiA8Yj5UaGUgc291dGh3ZXN0IG1vbnNvb24gaXMgbGlrZWx5IHRvIHJlYWNoIEtlcmFsYSBpbiB0aGUgbmV4dCBmb3VyIHRvIGZpdmUgZGF5czwvYj4mbmJzcDsuLi5SA2dldFICZ28iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUCL2dvdG8_dXJsPUNBRVMyd0VCNnpzd0ZkMFZRVTRaOVJ1bWdOOGFPeDRwOFNaZzlzMFVqbzdtZnhKNG8zRjg4NThTMlh6YkJRXzE2bWtVOUFVSi11eWx5NmdEZUVDU3pJOENqbDduRTJUSU4tUEpPek5lMm5rRHB3N2M4cVdHSjFmV2NOeHYtWkJsSGtVeGZQc203WWVsbHQyUWlNNnI0VnlBTm1kdmpoZ2lOLVQ0cjQ5S1RyNDhsbktBTWFma294NjcwZ2JJWlEyQUs0cmNjdGhRU1FsY2p6WkJRU3FlOU5fT2lGNzZKTTF3alVQSGd4MkRia3d3aWxyYkF0VHZNZktYN2dvemdKNjljNHdSTHItMER4c1JyOXJWRHNiLXhKM1B1dVNlX0pxdG9Zcm9pbmk0a1lVEgQaAggAGugGEgAaACIAKgAyBggCEgJicjoAQgQIAhBSSgBaAHIAegCCQMQGCAAQABgAIAAqHQoJc291dGh3ZXN0FTCfo0AaAnN3GgdpdjtkO3N3Kg4KB21vbnNvb24VU0jYQCqKAQoIbm9ybWFsbHkVGCRHPxoIY29tbW9ubHkaCmZyZXF1ZW50bHkaCWdlbmVyYWxseRoGbm9ybWFsGgVvZnRlbhoJdHlwaWNhbGx5Ggd1c3VhbGx5Gg5pdjtkO2dlbmVyYWxseRoLaXY7ZDtub3JtYWwaCml2O2Q7b2Z0ZW4aDGl2O2Q7dXN1YWxseSoxCgVyZWFjaBULHoA_GgNnZXQaAmdvGgVyYW5nZRoKaXY7ZDtyZWFjaBoHaXY7ZDtnbyoaCgZrZXJhbGEVlejCQBoLaXY7ZDtrZXJhbGEytQIvZ290bz91cmw9Q0FFUzJ3RUI2enN3RmQwVlFVNFo5UnVtZ044YU94NHA4U1pnOXMwVWpvN21meEo0bzNGODg1OFMyWHpiQlFfMTZta1U5QVVKLXV5bHk2Z0RlRUNTekk4Q2psN25FMlRJTi1QSk96TmUybmtEcHc3YzhxV0dKMWZXY054di1aQmxIa1V4ZlBzbTdZZWxsdDJRaU02cjRWeUFObWR2amhnaU4tVDRyNDlLVHI0OGxuS0FNYWZrb3g2NzBnYklaUTJBSzRyY2N0aFFTUWxjanpaQlFTcWU5Tl9PaUY3NkpNMXdqVVBIZ3gyRGJrd3dpbHJiQXRUdk1mS1g3Z296Z0o2OWM0d1JMci0wRHhzUnI5clZEc2IteEozUHV1U2VfSnF0b1lyb2luaTRrWVU6UTxiPlNvdXRod2VzdCBtb25zb29uPC9iPiBhcnJpdmVzIGluIDxiPktlcmFsYTwvYj4sIG1hcmtzIHN0YXJ0IG9mIEluZGlhJiMzOTtzIC4uLkKaASpNb25zb29uIGxpa2VseSB0byByZWFjaCBLZXJhbGEgaW4gNC01IGRheXM6IElNRCogTkVXIERFTEhJOiA8Yj5UaGUgc291dGh3ZXN0IG1vbnNvb24gaXMgbGlrZWx5IHRvIHJlYWNoIEtlcmFsYSBpbiB0aGUgbmV4dCBmb3VyIHRvIGZpdmUgZGF5czwvYj4mbmJzcDsuLi5SA2dldFICZ28iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "pt"
      ],
      "regions": [
-      "US"
+      "BR"
      ],
      "source": {
-      "description": "The southwest monsoon usually enters India through Kerala on June 1. Around the same time, it also reaches parts of the Northeast.",
-      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-      "source_info_link": "https://www.instagram.com/p/DZCFOqvDQO9/?hl=en"
-     }
-    },
-    "displayed_link": "2.6K+ likes · 3 months ago",
-    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "link": "https://www.instagram.com/p/DZCFOqvDQO9/?hl=en",
-    "position": 1,
-    "read_more_link": "https://www.instagram.com/p/DZCFOqvDQO9/?hl=en#:~:text=The%20southwest%20monsoon%20usually%20enters,reaches%20parts%20of%20the%20Northeast.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV6RoSgKA2Ogc2AR_9bHw6Zy7eGXJBhLGZBE0fb0Y9pmclxIQ5MCEVvahExiRQ9tFFEqb1sXxBy28EEishyViQllwT2bq3NGcyrO_qCoxkyfr1tgF-eBjQxZaANjFCzZJwCg&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4QFnoECBwQAQ&uoh=1",
-    "snippet": "The southwest monsoon usually enters India through Kerala on June 1. Around the same time, it also reaches parts of the Northeast.",
-    "snippet_highlighted_words": [
-     "southwest monsoon usually",
-     "Kerala"
-    ],
-    "source": "Instagram · indianexpress",
-    "title": "The southwest monsoon usually enters India through ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Southwest monsoon normally sets in over Kerala around 1st June. It advances northwards, usually in surges, and covers the entire country around 15th July.",
-      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAMsti_ayJiRnOpJinOP4ryGNT2UbX1FhPoAAAP7-wst2BQVXHZ6uQlf0wUGZrXUW5hvZleBaJxkjX_yHPLyxys32GqXeoROjSp1qmmuO1SEN4saPIZUPyY3j2maHAjfJLvvOa6I9s_Jj_qhnYcHvl0xxD9SdccGu0YSF8wi-DZPdUqN7Mnh01I_pSTyhAwb9lyReCV1mZQBvUE9zVjXuGk_I7-KPWuSyJcNhRr3Shr1Qj3UJJwt9eXlTdkCKomp2i5rqW-Nn5VMSkJAm-uL1teUUBjS5V8gTrXLHl30qUqAA.webp",
-      "source_info_link": "https://mausam.imd.gov.in/responsive/monsooninformation_onset.php"
-     }
-    },
-    "displayed_link": "https://mausam.imd.gov.in › responsive › monsooninfo...",
-    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAMsti_ayJiRnOpJinOP4ryGNT2UbX1FhPoAAAP7-wst2BQVXHZ6uQlf0wUGZrXUW5hvZleBaJxkjX_yHPLyxys32GqXeoROjSp1qmmuO1SEN4saPIZUPyY3j2maHAjfJLvvOa6I9s_Jj_qhnYcHvl0xxD9SdccGu0YSF8wi-DZPdUqN7Mnh01I_pSTyhAwb9lyReCV1mZQBvUE9zVjXuGk_I7-KPWuSyJcNhRr3Shr1Qj3UJJwt9eXlTdkCKomp2i5rqW-Nn5VMSkJAm-uL1teUUBjS5V8gTrXLHl30qUqAA.webp",
-    "link": "https://mausam.imd.gov.in/responsive/monsooninformation_onset.php",
-    "position": 2,
-    "read_more_link": "https://mausam.imd.gov.in/responsive/monsooninformation_onset.php#:~:text=Southwest%20monsoon%20normally%20sets%20in,entire%20country%20around%2015th%20July.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVn7S6jVv17WtGYpct2daIVXdh8HotrmACbRocgtSxxxlWWUz2r-1gXq-lEz0Zwb1pWwYDTlFpaxhzuCUVK-hEEZsDqEfQal3oG4YzuBhWbzBvOKAwoUDIFeSZFPdFUTqIN1bbou3r-PG79sx4lAxtGVguggg&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4QFnoECCMQAQ&uoh=1",
-    "snippet": "Southwest monsoon normally sets in over Kerala around 1st June. It advances northwards, usually in surges, and covers the entire country around 15th July.",
-    "snippet_highlighted_words": [
-     "Southwest monsoon normally sets in over Kerala around 1st June"
-    ],
-    "source": "India Meteorological Department",
-    "title": "Monsoon Information Onset | India Meteorological Department"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The India Meteorological Department (IMD) has announced that the southwest monsoon is now expected to reach Kerala on Thursday (June 4, ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACQBQCdASocABwAPtE-tFooIigoFAEAGglpABFNHTyIVMUfZ-dKdIMcZYyQn-G_V7kfyGH4AAD-9gohqrsLtqE8Cp27-JC617SqGVuAfyxOP5cqu7uFo6CkpTByFXkRU9vUtQbckAwVSJRC0_A_Lboij3l6a2mQwPJ0MzS8XsM3sQxDspQ1kbvOOnCsyX9mz0-WHTbYOxc_l8qn8gPBt58Wit53hbts9oAnX92OrIpjQcTwOJhbMmDBBGcvToAonRYWf36_sH-cLguRGBej_YxH8elqg_oA5Xcob-ACwPhyteGQduXTv769ecounkvFwnFSMkcyO40tikGC8dNvxedU8M_v9US66bphNfm2zu2rC-l-FJxDfdNv7YD862QAAAA.webp",
-      "source_info_link": "https://www.thehindu.com/news/national/kerala-monsoon-onset-june-4-imd-why-southwest-monsoon-arrival-matters-for-india/article71055995.ece"
-     }
-    },
-    "date": "Jun 4, 2026",
-    "displayed_link": "https://www.thehindu.com › News › India",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACQBQCdASocABwAPtE-tFooIigoFAEAGglpABFNHTyIVMUfZ-dKdIMcZYyQn-G_V7kfyGH4AAD-9gohqrsLtqE8Cp27-JC617SqGVuAfyxOP5cqu7uFo6CkpTByFXkRU9vUtQbckAwVSJRC0_A_Lboij3l6a2mQwPJ0MzS8XsM3sQxDspQ1kbvOOnCsyX9mz0-WHTbYOxc_l8qn8gPBt58Wit53hbts9oAnX92OrIpjQcTwOJhbMmDBBGcvToAonRYWf36_sH-cLguRGBej_YxH8elqg_oA5Xcob-ACwPhyteGQduXTv769ecounkvFwnFSMkcyO40tikGC8dNvxedU8M_v9US66bphNfm2zu2rC-l-FJxDfdNv7YD862QAAAA.webp",
-    "link": "https://www.thehindu.com/news/national/kerala-monsoon-onset-june-4-imd-why-southwest-monsoon-arrival-matters-for-india/article71055995.ece",
-    "position": 3,
-    "read_more_link": "https://www.thehindu.com/news/national/kerala-monsoon-onset-june-4-imd-why-southwest-monsoon-arrival-matters-for-india/article71055995.ece#:~:text=The%20India%20Meteorological%20Department%20(IMD),the%20rainy%20season%20in%20India.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwwEB6zswFW68NtyB9Ay_Y8Avjt0p-J_4pTgKuHgJCI_CH8c0a0rbko3illTBRhOTo7VBOWJcK3ZwGsyujGOHjkgmlpE2tBF1oFkRxykWLYsL82AcfPmSmpnz3ymOX4lH3HUtOcEKd3WbfRObK8znpZgxiqb-_uS744nvBHxgiYfZdWj-z9zlJZKS7SD0_op6D_fr7m4jMiKNHdhPa3gBF33upH6l9hHaf7zHRs7pGwBDYzbANRakhphtVaP3JXtDlgSvfYg&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4QFnoECBsQAQ&uoh=1",
-    "snippet": "The India Meteorological Department (IMD) has announced that the southwest monsoon is now expected to reach Kerala on Thursday (June 4, ...",
-    "snippet_highlighted_words": [
-     "southwest monsoon is now expected to reach Kerala"
-    ],
-    "source": "The Hindu",
-    "title": "Kerala monsoon onset: Why southwest monsoon arrival ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The southwest monsoon is likely to reach Kerala in the next four-five days, much earlier than the usual date of June 1, the India Meteorological ...",
+      "description": "*Monsoon likely to reach Kerala in 4-5 days: IMD* NEW DELHI: The southwest monsoon is likely to reach Kerala in the next four to five days ...",
       "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/ZeeNewsEnglish/posts/southwest-monsoon-has-officially-arrived-in-kerala-according-to-the-imd-bringing/1451246637042797/"
+      "source_info_link": "https://www.facebook.com/EconomicTimes/posts/%EF%B8%8F-monsoon-arrives-early-%EF%B8%8F-southwest-monsoon-reaches-kerala-officially-marking-th/1484877723668131/"
      }
     },
-    "displayed_link": "40+ reactions · 3 months ago",
+    "displayed_link": "5 reações · há 3 meses",
     "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/ZeeNewsEnglish/posts/southwest-monsoon-has-officially-arrived-in-kerala-according-to-the-imd-bringing/1451246637042797/",
-    "position": 4,
-    "read_more_link": "https://www.facebook.com/ZeeNewsEnglish/posts/southwest-monsoon-has-officially-arrived-in-kerala-according-to-the-imd-bringing/1451246637042797/#:~:text=The%20southwest%20monsoon%20is%20likely,Department%20(IMD)%20said%20on%20Tuesday.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFdc4OvzeVYDmLXwlbJr0VPwtOs05C3kojcP_SNExjOXGau-bjzxAsRnH89ybB5s4nSlSUwrmdWB6WYNErE6ZfC_VB9Zm56nTjIBXEKagBasEcsJUKpzAf_LN1CwvxfGtFhIyk1Phlg0izRpaEvVBhxfTT8OdmExLJPUhHFpot8rgd1kASwHcpQZk5d_eAZSTc7Nf_k23kckWGWqQShk3Hf6gIcssIlCas9AN3Qx-gwd_Ia81ocHjjzDXNIvKFCOWbd8p33E&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4QFnoECEkQAQ&uoh=1",
-    "snippet": "The southwest monsoon is likely to reach Kerala in the next four-five days, much earlier than the usual date of June 1, the India Meteorological ...",
+    "link": "https://www.facebook.com/EconomicTimes/posts/%EF%B8%8F-monsoon-arrives-early-%EF%B8%8F-southwest-monsoon-reaches-kerala-officially-marking-th/1484877723668131/",
+    "position": 1,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2wEB6zswFd0VQU4Z9RumgN8aOx4p8SZg9s0Ujo7mfxJ4o3F8858S2XzbBQ_16mkU9AUJ-uyly6gDeECSzI8Cjl7nE2TIN-PJOzNe2nkDpw7c8qWGJ1fWcNxv-ZBlHkUxfPsm7Yellt2QiM6r4VyANmdvjhgiN-T4r49KTr48lnKAMafkox670gbIZQ2AK4rccthQSQlcjzZBQSqe9N_OiF76JM1wjUPHgx2DbkwwilrbAtTvMfKX7gozgJ69c4wRLr-0DxsRr9rVDsb-xJ3PuuSe_JqtoYroini4kYU&ved=2ahUKEwjcyPOiwJaXAxWcrpUCHTNDGagQFnoECCsQAQ&uoh=1",
+    "snippet": "*Monsoon likely to reach Kerala in 4-5 days: IMD* NEW DELHI: The southwest monsoon is likely to reach Kerala in the next four to five days ...",
     "snippet_highlighted_words": [
-     "The southwest monsoon is likely to reach Kerala in the next four-five days"
+     "The southwest monsoon is likely to reach Kerala in the next four to five days"
     ],
-    "source": "Facebook · Zee News English",
-    "title": "Southwest Monsoon has officially arrived in Kerala ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Normally, the southwest monsoon arrives in Kerala around June 1. The development comes days after the weather department revised its ...",
-      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp",
-      "source_info_link": "https://timesofindia.indiatimes.com/city/delhi/southwest-monsoon-arrives-in-kerala-imd-warns-of-below-normal-rainfall-this-season/articleshow/131499789.cms"
-     }
-    },
-    "date": "Jun 4, 2026",
-    "displayed_link": "https://timesofindia.indiatimes.com › ... › delhi News",
-    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp",
-    "link": "https://timesofindia.indiatimes.com/city/delhi/southwest-monsoon-arrives-in-kerala-imd-warns-of-below-normal-rainfall-this-season/articleshow/131499789.cms",
-    "position": 5,
-    "read_more_link": "https://timesofindia.indiatimes.com/city/delhi/southwest-monsoon-arrives-in-kerala-imd-warns-of-below-normal-rainfall-this-season/articleshow/131499789.cms#:~:text=Normally%2C%20the%20southwest%20monsoon%20arrives,across%20the%20country%20this%20year.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1AEB6zswFUBTqIzUKy5mZexYTSEf8IdLfsn4sG0v5bURdShhYEV2TD6cFff-evi-90yowsONKiy7bwJ7n4M9mvsWkINQ2QOgO7TvzJiXT8SDGaVmT4bP2LMf8d3P6Hp9AZ_3ZqdJiV9htUY63RSqas9nadnNUpBYq2TI8_4VGsJYoo4V7sgPMfYRFXgfqd1owqe9kkY3IqCAZdwIlyuUhIGQLezMwWD9oX0cR9oWW-czTLQjuZulvAgSL6X9duYf-oWeW1B3G1_rH8VkjDxFl_RbIlYYxQ&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4QFnoECEsQAQ&uoh=1",
-    "snippet": "Normally, the southwest monsoon arrives in Kerala around June 1. The development comes days after the weather department revised its ...",
-    "snippet_highlighted_words": [
-     "Normally",
-     "southwest monsoon",
-     "Kerala"
-    ],
-    "source": "The Times of India",
-    "title": "Southwest monsoon arrives in Kerala; IMD warns of below- ..."
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "The southwest monsoon has now covered Kerala, Lakshwadeep and parts of Karnataka and Tamil Nadu marking the official start of India's rainy ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
-     }
-    },
-    "displayed_link": "10+ reactions · 3 months ago",
-    "duration": "2:51",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/WIONews/videos/0506-monsoon-1230pm/985827887695488/",
-    "position": 6,
-    "snippet": "The southwest monsoon has now covered Kerala, Lakshwadeep and parts of Karnataka and Tamil Nadu marking the official start of India's rainy ...",
-    "source": "Facebook · WION",
-    "thumbnail": "https://serpapi.com/searches/6aafc29e2f47f8a3ccd35a4b/images/Ruxy7VNBvLQGmI5g6_Iw27R8oS9UUiOU3YyoZE8w9eM.jpeg",
-    "title": "#WIONClimateTracker | The southwest monsoon has officially ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The southwest monsoon normally advances northward from Kerala and covers the entire country by mid-July. Google preferences in ET. Continue ...",
-      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBACdASocABwAPtE-tFooIigoFAEAGglqAKwAD1Wf0pGIUINbx-y-9jzxix3I4AAA_p8ELfqEO4Wi-FZva3gGpZHdf5-MYo8oSzzzCPPLILGCo2YbyqdMDdK_WkQg__xvH-Tvv3AAfxeLbfVfKBSnYQ-StNpcagq_fkuiYwZYvhTOnwz_vm26B605HEySsAU7RS1piaLfCHgEc_7f_sXQl6Wmewl0XkDYbkOdrFm-qWhHldI-9YbY3Aw4sa1bA9JBADWk7RAAivnDghbPT1eOHFYNfIUAUUO4AAt2cdd5ApR-sDP5hCxB0OdWJPBPcQ3x78f8ITa3KMAA.webp",
-      "source_info_link": "https://m.economictimes.com/news/india/southwest-monsoon-arrives-in-kerala-marks-start-of-indias-rainy-season/articleshow/131498183.cms"
-     }
-    },
-    "date": "Jun 4, 2026",
-    "displayed_link": "https://m.economictimes.com › News › India",
-    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBACdASocABwAPtE-tFooIigoFAEAGglqAKwAD1Wf0pGIUINbx-y-9jzxix3I4AAA_p8ELfqEO4Wi-FZva3gGpZHdf5-MYo8oSzzzCPPLILGCo2YbyqdMDdK_WkQg__xvH-Tvv3AAfxeLbfVfKBSnYQ-StNpcagq_fkuiYwZYvhTOnwz_vm26B605HEySsAU7RS1piaLfCHgEc_7f_sXQl6Wmewl0XkDYbkOdrFm-qWhHldI-9YbY3Aw4sa1bA9JBADWk7RAAivnDghbPT1eOHFYNfIUAUUO4AAt2cdd5ApR-sDP5hCxB0OdWJPBPcQ3x78f8ITa3KMAA.webp",
-    "link": "https://m.economictimes.com/news/india/southwest-monsoon-arrives-in-kerala-marks-start-of-indias-rainy-season/articleshow/131498183.cms",
-    "position": 7,
-    "read_more_link": "https://m.economictimes.com/news/india/southwest-monsoon-arrives-in-kerala-marks-start-of-indias-rainy-season/articleshow/131498183.cms#:~:text=The%20southwest%20monsoon%20normally%20advances,Continue%20Reading",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwAEB6zswFbnJX0ggbYf4qD6tySuV0V9azhtlodZ08c0bHkbm0PpU82gXt0DxGLb0lbXKbAP8tt-VcPohb89yKOelidAinbw1EEr2c8lE7VWC1VaG3pL60JKtUJaSm_3JlbHdDTqGzdgIUBeaIxu9O7ZLU2j2_HrFDxDk62YdSlGb0kPon90ZJhNSMNgG-ccXYP0aKlVSQAh2n0G41dYMlqytRHnYiKxOIoHbciRg8SidGlRg4ZakRgWwCON6m0GUo2E&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4QFnoECEYQAQ&uoh=1",
-    "snippet": "The southwest monsoon normally advances northward from Kerala and covers the entire country by mid-July. Google preferences in ET. Continue ...",
-    "snippet_highlighted_words": [
-     "The southwest monsoon normally advances northward from Kerala"
-    ],
-    "source": "The Economic Times",
+    "source": "Facebook · The Economic Times",
     "title": "Southwest monsoon arrives in Kerala, marks start of India's ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZkelpoYklCLVM3Q0FqV1hSdTY1YnFOS1l5ck1pZV9FTThmOVFPaGhDbTAzVkZwUG9acWZqc1k0ODRYRWt0d0Y4NzBIRkJGRVhJRW1wb0dCTUxKZ3RaZ0U1TTBJanpjaG9OYTMzaDlTemxOY0h4dmhCYUlIWjZyc1ZfeVpMMmJCLXhZcS1TM2xIQ29JdUJCLTMxRzRKc0tzWkJKU21ZV09xbHpPTGJId2I0V0l2WjhMdkw5SWx0Y3ZYVkFrX1M5Xzd4WnZxcGFfdkpJQzRTU1ZtYWpPdkRlVFA4UlQ2bURLaTRESWtoLTJIdm9YdC16NzBWSWRLRXNqTk9RX2tqb1RnRjdHdkU3MkMzeDRfeEFyUWMwU1Q3TWtzLU80cWRxampREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZkelpoYklCLVM3Q0FqV1hSdTY1YnFOS1l5ck1pZV9FTThmOVFPaGhDbTAzVkZwUG9acWZqc1k0ODRYRWt0d0Y4NzBIRkJGRVhJRW1wb0dCTUxKZ3RaZ0U1TTBJanpjaG9OYTMzaDlTemxOY0h4dmhCYUlIWjZyc1ZfeVpMMmJCLXhZcS1TM2xIQ29JdUJCLTMxRzRKc0tzWkJKU21ZV09xbHpPTGJId2I0V0l2WjhMdkw5SWx0Y3ZYVkFrX1M5Xzd4WnZxcGFfdkpJQzRTU1ZtYWpPdkRlVFA4UlQ2bURLaTRESWtoLTJIdm9YdC16NzBWSWRLRXNqTk9RX2tqb1RnRjdHdkU3MkMzeDRfeEFyUWMwU1Q3TWtzLU80cWRxampREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
     "about_this_result": {
      "source": {
-      "description": "The southwest monsoon typically arrives over Kerala by June 1 and ... Southwest monsoon advances, likely to reach Kerala on May 27, says IMD.",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+      "description": "IMD had in May predicted arrival of monsoon on June 4. Southwest monsoon normally sets in over Kerala on June 1 with a standard deviation of ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
      }
     },
-    "displayed_link": "1.9K+ views · 1 year ago",
-    "duration": "2:28",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=tNZfJ6bIeH0",
-    "position": 8,
-    "snippet": "The southwest monsoon typically arrives over Kerala by June 1 and ... Southwest monsoon advances, likely to reach Kerala on May 27, says IMD.",
-    "source": "YouTube · The Hindu",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfN2e1Sac70UJh4N09RgdYrvgedhM7JZM1ieUe3VBrpROZaVlNQCF9lg&s",
-    "title": "Southwest monsoon advances, likely to reach Kerala on May ...",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRkN7lK_WY0QelI6beB3ndUrmm7mVe9Yf310A"
+    "displayed_link": "Mais de 30 reações · há 3 meses",
+    "duration": "8:19",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://www.facebook.com/India.Meteorological.Department/posts/daily-weather-briefing-03062026southwest-monsoon-is-likely-to-set-in-over-kerala/1289199076719069/",
+    "position": 2,
+    "snippet": "IMD had in May predicted arrival of monsoon on June 4. Southwest monsoon normally sets in over Kerala on June 1 with a standard deviation of ...",
+    "source": "Facebook · India Meteorological Department",
+    "thumbnail": "https://serpapi.com/searches/6abd1aa62f47f873ea0e49c0/images/7AIrIU9AapHRh3h0AFTPW3SFvJBXofMTCsdoCsCmzxA.jpeg",
+    "title": "Daily Weather Briefing (03.06.2026) Southwest monsoon is ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZRNGNXejFvYV9CaE5nei1ZYlJzZjVUSXdKdzZKbGtaNzA2S0d0M1UzcG42Y2FHdjc2bTAzb0ZubVZncWJDbFF2T05EazNrLUNDZlY3Q0lVZVBNWEV1RDBuNVljejJhd0M4cHZpYUwzWXZGbEJWVjlFRzJENFQxajBzQWsxRHROUHRKU0cwZzlQLTZVZVhmb0RIYWFiNVlkcGVRd3lMeTc1U3FzOXNVQU5wTWRWSXR5Y3BLRTRQc3hVeEESBBoCCAAa_gUSABoAIgAqADIGCAISAmJyOgBCBAgCEFJKAFoAcgB6AIJA2gUIABAAGAAgACodCglzb3V0aHdlc3QViB7xPxoCc3caB2l2O2Q7c3cqDgoHbW9uc29vbhUqs81AKooBCghub3JtYWxseRWMR0A_Gghjb21tb25seRoKZnJlcXVlbnRseRoJZ2VuZXJhbGx5GgZub3JtYWwaBW9mdGVuGgl0eXBpY2FsbHkaB3VzdWFsbHkaDml2O2Q7Z2VuZXJhbGx5GgtpdjtkO25vcm1hbBoKaXY7ZDtvZnRlbhoMaXY7ZDt1c3VhbGx5KjEKBXJlYWNoFf5LokAaA2dldBoCZ28aBXJhbmdlGgppdjtkO3JlYWNoGgdpdjtkO2dvKhoKBmtlcmFsYRVAUMNAGgtpdjtkO2tlcmFsYTLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGUTRjV3oxb2FfQmhOZ3otWWJSc2Y1VEl3Snc2SmxrWjcwNktHdDNVM3BuNmNhR3Y3Nm0wM29Gbm1WZ3FiQ2xRdk9ORGszay1DQ2ZWN0NJVWVQTVhFdUQwbjVZY3oyYXdDOHB2aWFMM1l2RmxCVlY5RUcyRDRUMWowc0FrMUR0TlB0SlNHMGc5UC02VWVYZm9ESGFhYjVZZHBlUXd5THk3NVNxczlzVUFOcE1kVkl0eWNwS0U0UHN4VXhBOk0mIzM5OzxiPk1vbnNvb248L2I-IG1heSA8Yj5yZWFjaCBLZXJhbGE8L2I-IGluIDQtNSBkYXlzJiMzOTsgLSBNaWxsZW5uaXVtUG9zdEKYAU5vcm1hbGx5LCB0aGUgPGI-c291dGh3ZXN0IG1vbnNvb24gbWFrZXMgaXRzIG9uc2V0IG92ZXIgS2VyYWxhIGJ5IEp1bmUgMTwvYj4gYW5kIGNvdmVycyB0aGUgZW50aXJlIGNvdW50cnkgYnkgSnVseSA4LiBJdCBzdGFydHMgcmV0cmVhdGluZyBmcm9tJm5ic3A7Li4uUgNnZXRSAmdvIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZRNGNXejFvYV9CaE5nei1ZYlJzZjVUSXdKdzZKbGtaNzA2S0d0M1UzcG42Y2FHdjc2bTAzb0ZubVZncWJDbFF2T05EazNrLUNDZlY3Q0lVZVBNWEV1RDBuNVljejJhd0M4cHZpYUwzWXZGbEJWVjlFRzJENFQxajBzQWsxRHROUHRKU0cwZzlQLTZVZVhmb0RIYWFiNVlkcGVRd3lMeTc1U3FzOXNVQU5wTWRWSXR5Y3BLRTRQc3hVeEESBBoCCAAa_gUSABoAIgAqADIGCAISAmJyOgBCBAgCEFJKAFoAcgB6AIJA2gUIABAAGAAgACodCglzb3V0aHdlc3QViB7xPxoCc3caB2l2O2Q7c3cqDgoHbW9uc29vbhUqs81AKooBCghub3JtYWxseRWMR0A_Gghjb21tb25seRoKZnJlcXVlbnRseRoJZ2VuZXJhbGx5GgZub3JtYWwaBW9mdGVuGgl0eXBpY2FsbHkaB3VzdWFsbHkaDml2O2Q7Z2VuZXJhbGx5GgtpdjtkO25vcm1hbBoKaXY7ZDtvZnRlbhoMaXY7ZDt1c3VhbGx5KjEKBXJlYWNoFf5LokAaA2dldBoCZ28aBXJhbmdlGgppdjtkO3JlYWNoGgdpdjtkO2dvKhoKBmtlcmFsYRVAUMNAGgtpdjtkO2tlcmFsYTLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGUTRjV3oxb2FfQmhOZ3otWWJSc2Y1VEl3Snc2SmxrWjcwNktHdDNVM3BuNmNhR3Y3Nm0wM29Gbm1WZ3FiQ2xRdk9ORGszay1DQ2ZWN0NJVWVQTVhFdUQwbjVZY3oyYXdDOHB2aWFMM1l2RmxCVlY5RUcyRDRUMWowc0FrMUR0TlB0SlNHMGc5UC02VWVYZm9ESGFhYjVZZHBlUXd5THk3NVNxczlzVUFOcE1kVkl0eWNwS0U0UHN4VXhBOk0mIzM5OzxiPk1vbnNvb248L2I-IG1heSA8Yj5yZWFjaCBLZXJhbGE8L2I-IGluIDQtNSBkYXlzJiMzOTsgLSBNaWxsZW5uaXVtUG9zdEKYAU5vcm1hbGx5LCB0aGUgPGI-c291dGh3ZXN0IG1vbnNvb24gbWFrZXMgaXRzIG9uc2V0IG92ZXIgS2VyYWxhIGJ5IEp1bmUgMTwvYj4gYW5kIGNvdmVycyB0aGUgZW50aXJlIGNvdW50cnkgYnkgSnVseSA4LiBJdCBzdGFydHMgcmV0cmVhdGluZyBmcm9tJm5ic3A7Li4uUgNnZXRSAmdvIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "pt"
+     ],
+     "regions": [
+      "BR"
+     ],
+     "source": {
+      "description": "Normally, the southwest monsoon makes its onset over Kerala by June 1 and covers the entire country by July 8. It starts retreating from ...",
+      "icon": "https://serpapi.com/images/i/UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoQABAAAsBMJZAAD4rwcIOJADjhlAAA_vqmqfXunU65vQG_CeTjsN2B_orvteByPs9Tlgu2xCzfueT-8r0WQdvz_zVHXwn9Pe3NU4QV528y0T_oA626VFubS_7NMTzifLBAyOu_8tJcILxhy3kQeJ46G9v5aUUT1rs2tQZkp4_n-vO-gAA.webp",
+      "source_info_link": "https://www.millenniumpost.in/big-stories/monsoon-may-reach-kerala-in-4-5-days-611559"
+     }
+    },
+    "date": "20 de mai. de 2025",
+    "displayed_link": "https://www.millenniumpost.in › Big Story",
+    "favicon": "https://serpapi.com/images/i/UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoQABAAAsBMJZAAD4rwcIOJADjhlAAA_vqmqfXunU65vQG_CeTjsN2B_orvteByPs9Tlgu2xCzfueT-8r0WQdvz_zVHXwn9Pe3NU4QV528y0T_oA626VFubS_7NMTzifLBAyOu_8tJcILxhy3kQeJ46G9v5aUUT1rs2tQZkp4_n-vO-gAA.webp",
+    "link": "https://www.millenniumpost.in/big-stories/monsoon-may-reach-kerala-in-4-5-days-611559",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFQ4cWz1oa_BhNgz-YbRsf5TIwJw6JlkZ706KGt3U3pn6caGv76m03oFnmVgqbClQvONDk3k-CCfV7CIUePMXEuD0n5Ycz2awC8pviaL3YvFlBVV9EG2D4T1j0sAk1DtNPtJSG0g9P-6UeXfoDHaab5YdpeQwyLy75Sqs9sUANpMdVItycpKE4PsxUxA&ved=2ahUKEwjcyPOiwJaXAxWcrpUCHTNDGagQFnoECDMQAQ&uoh=1",
+    "snippet": "Normally, the southwest monsoon makes its onset over Kerala by June 1 and covers the entire country by July 8. It starts retreating from ...",
+    "snippet_highlighted_words": [
+     "southwest monsoon makes its onset over Kerala by June 1"
+    ],
+    "source": "MillenniumPost",
+    "title": "'Monsoon may reach Kerala in 4-5 days'"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZWdVpENGN6MTVwaTVqMkwzOWxFRWkwV0FUd1VnSjgzSWVVYU1pRHRPZmYwRFZtc1FFZ0w2V2VzMnVrUlQwSXd6OTA5RWRLTDFxSkZFaUkzZ0h0ODh6ZmF5QUUzR2ZQcklfSFlCbTRSOHRmTzdrcFJZMGRBeENfUlFieG9BY2puM21fczBYa0R5dElyS01ZUjhnVW9SaVlydlhfdF8yTGdNR0ZvNUJkQVVUSW9xNUI5WjRhUWdSQ0JMYk5NaUZNd1NrR2VvQ1YwSl91VkZsNzR6OVVOSWtFVDVSdE0yQm9uTGM5NzgxRWg2LVMtVUFVTmk4elVXV2x1EgQaAggAGroGEgAaACIAKgAyBggCEgJicjoAQgQIAhBSSgBaAHIAegCCQJYGCAAQABgAIAAqHQoJc291dGh3ZXN0FUWkmT8aAnN3GgdpdjtkO3N3Kg4KB21vbnNvb24VzAKrQCqKAQoIbm9ybWFsbHkVAAAAABoIY29tbW9ubHkaCmZyZXF1ZW50bHkaCWdlbmVyYWxseRoGbm9ybWFsGgVvZnRlbhoJdHlwaWNhbGx5Ggd1c3VhbGx5Gg5pdjtkO2dlbmVyYWxseRoLaXY7ZDtub3JtYWwaCml2O2Q7b2Z0ZW4aDGl2O2Q7dXN1YWxseSoxCgVyZWFjaBU2S0lAGgNnZXQaAmdvGgVyYW5nZRoKaXY7ZDtyZWFjaBoHaXY7ZDtnbyoaCgZrZXJhbGEVfFeWQBoLaXY7ZDtrZXJhbGEyjgIvZ290bz91cmw9Q0FFU3ZnRUI2enN3RlZ1WkQ0Y3oxNXBpNWoyTDM5bEVFaTBXQVR3VWdKODNJZVVhTWlEdE9mZjBEVm1zUUVnTDZXZXMydWtSVDBJd3o5MDlFZEtMMXFKRkVpSTNnSHQ4OHpmYXlBRTNHZlBySV9IWUJtNFI4dGZPN2twUlkwZEF4Q19SUWJ4b0Fjam4zbV9zMFhrRHl0SXJLTVlSOGdVb1JpWXJ2WF90XzJMZ01HRm81QmRBVVRJb3E1QjlaNGFRZ1JDQkxiTk1pRk13U2tHZW9DVjBKX3VWRmw3NHo5VU5Ja0VUNVJ0TTJCb25MYzk3ODFFaDYtUy1VQVVOaTh6VVdXbHU6REluZGlhIDxiPm1vbnNvb248L2I-IHJhaW5zIDxiPnJlYWNoIEtlcmFsYTwvYj4gYWZ0ZXIgZGVsYXkgb2YgYSB3ZWVrQqAB4oCcPGI-U291dGh3ZXN0IE1vbnNvb248L2I-IGhhcyBzZXQgaW4gb3ZlciA8Yj5LZXJhbGE8L2I-IHRvZGF5LCB0aGUgOHRoIEp1bmUsIDIwMjMsIGFnYWluc3QgdGhlIDxiPm5vcm1hbDwvYj4gZGF0ZSBvZiAxc3QgSnVuZSzigJ0gdGhlIHN0YXRlLXJ1biBJbmRpYSZuYnNwOy4uLlICZ29SA2dldCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZWdVpENGN6MTVwaTVqMkwzOWxFRWkwV0FUd1VnSjgzSWVVYU1pRHRPZmYwRFZtc1FFZ0w2V2VzMnVrUlQwSXd6OTA5RWRLTDFxSkZFaUkzZ0h0ODh6ZmF5QUUzR2ZQcklfSFlCbTRSOHRmTzdrcFJZMGRBeENfUlFieG9BY2puM21fczBYa0R5dElyS01ZUjhnVW9SaVlydlhfdF8yTGdNR0ZvNUJkQVVUSW9xNUI5WjRhUWdSQ0JMYk5NaUZNd1NrR2VvQ1YwSl91VkZsNzR6OVVOSWtFVDVSdE0yQm9uTGM5NzgxRWg2LVMtVUFVTmk4elVXV2x1EgQaAggAGroGEgAaACIAKgAyBggCEgJicjoAQgQIAhBSSgBaAHIAegCCQJYGCAAQABgAIAAqHQoJc291dGh3ZXN0FUWkmT8aAnN3GgdpdjtkO3N3Kg4KB21vbnNvb24VzAKrQCqKAQoIbm9ybWFsbHkVAAAAABoIY29tbW9ubHkaCmZyZXF1ZW50bHkaCWdlbmVyYWxseRoGbm9ybWFsGgVvZnRlbhoJdHlwaWNhbGx5Ggd1c3VhbGx5Gg5pdjtkO2dlbmVyYWxseRoLaXY7ZDtub3JtYWwaCml2O2Q7b2Z0ZW4aDGl2O2Q7dXN1YWxseSoxCgVyZWFjaBU2S0lAGgNnZXQaAmdvGgVyYW5nZRoKaXY7ZDtyZWFjaBoHaXY7ZDtnbyoaCgZrZXJhbGEVfFeWQBoLaXY7ZDtrZXJhbGEyjgIvZ290bz91cmw9Q0FFU3ZnRUI2enN3RlZ1WkQ0Y3oxNXBpNWoyTDM5bEVFaTBXQVR3VWdKODNJZVVhTWlEdE9mZjBEVm1zUUVnTDZXZXMydWtSVDBJd3o5MDlFZEtMMXFKRkVpSTNnSHQ4OHpmYXlBRTNHZlBySV9IWUJtNFI4dGZPN2twUlkwZEF4Q19SUWJ4b0Fjam4zbV9zMFhrRHl0SXJLTVlSOGdVb1JpWXJ2WF90XzJMZ01HRm81QmRBVVRJb3E1QjlaNGFRZ1JDQkxiTk1pRk13U2tHZW9DVjBKX3VWRmw3NHo5VU5Ja0VUNVJ0TTJCb25MYzk3ODFFaDYtUy1VQVVOaTh6VVdXbHU6REluZGlhIDxiPm1vbnNvb248L2I-IHJhaW5zIDxiPnJlYWNoIEtlcmFsYTwvYj4gYWZ0ZXIgZGVsYXkgb2YgYSB3ZWVrQqAB4oCcPGI-U291dGh3ZXN0IE1vbnNvb248L2I-IGhhcyBzZXQgaW4gb3ZlciA8Yj5LZXJhbGE8L2I-IHRvZGF5LCB0aGUgOHRoIEp1bmUsIDIwMjMsIGFnYWluc3QgdGhlIDxiPm5vcm1hbDwvYj4gZGF0ZSBvZiAxc3QgSnVuZSzigJ0gdGhlIHN0YXRlLXJ1biBJbmRpYSZuYnNwOy4uLlICZ29SA2dldCICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "pt"
+     ],
+     "regions": [
+      "BR"
+     ],
+     "source": {
+      "description": "“Southwest Monsoon has set in over Kerala today, the 8th June, 2023, against the normal date of 1st June,” the state-run India ...",
+      "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAABQBQCdASocABwAPtEutFooIagoGAEAGglpAARBvyCIN_DtpyzUjA1Um5_JyETxTMANrAAA_vYC9a-AMXZ5uRG5k9hRDAQ9asEJYX8_LC8T_5Ghe35H4QqPZ9SIfF3xu5GsKOB4B9v_qlS4F4WEuCfT9yeIMfbbI8YTNTnHri5bPDt3Oid7TZrwhRPoZknh0_79bGYms26ZXuIzyEuWRpdS3QXjSl4tQK6s2blr1JK-2LMpQAAAAA.webp",
+      "source_info_link": "https://english.alarabiya.net/News/world/2023/06/08/India-gets-57-pct-below-average-rains-in-first-week-of-June-weather-data-shows"
+     }
+    },
+    "date": "8 de jun. de 2023",
+    "displayed_link": "https://english.alarabiya.net › In...",
+    "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAABQBQCdASocABwAPtEutFooIagoGAEAGglpAARBvyCIN_DtpyzUjA1Um5_JyETxTMANrAAA_vYC9a-AMXZ5uRG5k9hRDAQ9asEJYX8_LC8T_5Ghe35H4QqPZ9SIfF3xu5GsKOB4B9v_qlS4F4WEuCfT9yeIMfbbI8YTNTnHri5bPDt3Oid7TZrwhRPoZknh0_79bGYms26ZXuIzyEuWRpdS3QXjSl4tQK6s2blr1JK-2LMpQAAAAA.webp",
+    "link": "https://english.alarabiya.net/News/world/2023/06/08/India-gets-57-pct-below-average-rains-in-first-week-of-June-weather-data-shows",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvgEB6zswFVuZD4cz15pi5j2L39lEEi0WATwUgJ83IeUaMiDtOff0DVmsQEgL6Wes2ukRT0Iwz909EdKL1qJFEiI3gHt88zfayAE3GfPrI_HYBm4R8tfO7kpRY0dAxC_RQbxoAcjn3m_s0XkDytIrKMYR8gUoRiYrvX_t_2LgMGFo5BdAUTIoq5B9Z4aQgRCBLbNMiFMwSkGeoCV0J_uVFl74z9UNIkET5RtM2BonLc9781Eh6-S-UAUNi8zUWWlu&ved=2ahUKEwjcyPOiwJaXAxWcrpUCHTNDGagQFnoECDcQAQ&uoh=1",
+    "snippet": "“Southwest Monsoon has set in over Kerala today, the 8th June, 2023, against the normal date of 1st June,” the state-run India ...",
+    "snippet_highlighted_words": [
+     "Southwest Monsoon",
+     "Kerala",
+     "normal"
+    ],
+    "source": "Al Arabiya English",
+    "title": "India monsoon rains reach Kerala after delay of a week"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZVV05ZOGNDSjM1ZVR4ZTlyMEZiZjdfSmFiRmgxQlJkTm5MN0pRRTdBWHRzLU50NzRqUEZCU21TaTR2cVBaT1E4RWFiSWdhQnVkbGJjZGJmUWpRbG83Q3JLT0lfWWZlaW9iVHFPLXBLM2dkaEtXUWoyN2VlWE4yam8yOVB6bXVlYm1tcUVCZ0NZZVUwZUZDbFY3SEd6eUV2dnlqcjRQY3lIYlVOQmQ3cnpZY1N0cW1jRkdZZFFwWWVKRGsta3VlVU81aHYSBBoCCAAamgYSAggAGgAiACoAMgYIAhICYnI6AEIECAIQUkoAWgByAHoAgkD0BQgAEAAYACAAKh0KCXNvdXRod2VzdBUD7YdAGgJzdxoHaXY7ZDtzdyoOCgdtb25zb29uFf0RlUAqigEKCG5vcm1hbGx5FQAAAAAaCGNvbW1vbmx5GgpmcmVxdWVudGx5GglnZW5lcmFsbHkaBm5vcm1hbBoFb2Z0ZW4aCXR5cGljYWxseRoHdXN1YWxseRoOaXY7ZDtnZW5lcmFsbHkaC2l2O2Q7bm9ybWFsGgppdjtkO29mdGVuGgxpdjtkO3VzdWFsbHkqMQoFcmVhY2gVF1V_PxoDZ2V0GgJnbxoFcmFuZ2UaCml2O2Q7cmVhY2gaB2l2O2Q7Z28qGgoGa2VyYWxhFbdsRUAaC2l2O2Q7a2VyYWxhMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZVV05ZOGNDSjM1ZVR4ZTlyMEZiZjdfSmFiRmgxQlJkTm5MN0pRRTdBWHRzLU50NzRqUEZCU21TaTR2cVBaT1E4RWFiSWdhQnVkbGJjZGJmUWpRbG83Q3JLT0lfWWZlaW9iVHFPLXBLM2dkaEtXUWoyN2VlWE4yam8yOVB6bXVlYm1tcUVCZ0NZZVUwZUZDbFY3SEd6eUV2dnlqcjRQY3lIYlVOQmQ3cnpZY1N0cW1jRkdZZFFwWWVKRGsta3VlVU81aHY6SzxiPlNvdXRod2VzdCBtb25zb29uPC9iPiBoYXMgYXJyaXZlZCBpbiA8Yj5LZXJhbGE8L2I-LCBzYXlzIElNRCAtIFNjcm9sbC5pbkKrAVRoaXMgaXMgdGhlIGVhcmxpZXN0IGRhdGUgb2YgbW9uc29vbiBvbnNldCBvdmVyIDxiPktlcmFsYTwvYj4gc2luY2UgMjAwOSB3aGVuIGl0IGFycml2ZWQgb24gTWF5IDIzLiBUaGUgPGI-c291dGh3ZXN0IG1vbnNvb248L2I-IHNlYXNvbiA8Yj5nZW5lcmFsbHk8L2I-IGJlZ2lucyBpbiZuYnNwOy4uLlICZ29SA2dldCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZVV05ZOGNDSjM1ZVR4ZTlyMEZiZjdfSmFiRmgxQlJkTm5MN0pRRTdBWHRzLU50NzRqUEZCU21TaTR2cVBaT1E4RWFiSWdhQnVkbGJjZGJmUWpRbG83Q3JLT0lfWWZlaW9iVHFPLXBLM2dkaEtXUWoyN2VlWE4yam8yOVB6bXVlYm1tcUVCZ0NZZVUwZUZDbFY3SEd6eUV2dnlqcjRQY3lIYlVOQmQ3cnpZY1N0cW1jRkdZZFFwWWVKRGsta3VlVU81aHYSBBoCCAAamgYSAggAGgAiACoAMgYIAhICYnI6AEIECAIQUkoAWgByAHoAgkD0BQgAEAAYACAAKh0KCXNvdXRod2VzdBUD7YdAGgJzdxoHaXY7ZDtzdyoOCgdtb25zb29uFf0RlUAqigEKCG5vcm1hbGx5FQAAAAAaCGNvbW1vbmx5GgpmcmVxdWVudGx5GglnZW5lcmFsbHkaBm5vcm1hbBoFb2Z0ZW4aCXR5cGljYWxseRoHdXN1YWxseRoOaXY7ZDtnZW5lcmFsbHkaC2l2O2Q7bm9ybWFsGgppdjtkO29mdGVuGgxpdjtkO3VzdWFsbHkqMQoFcmVhY2gVF1V_PxoDZ2V0GgJnbxoFcmFuZ2UaCml2O2Q7cmVhY2gaB2l2O2Q7Z28qGgoGa2VyYWxhFbdsRUAaC2l2O2Q7a2VyYWxhMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZVV05ZOGNDSjM1ZVR4ZTlyMEZiZjdfSmFiRmgxQlJkTm5MN0pRRTdBWHRzLU50NzRqUEZCU21TaTR2cVBaT1E4RWFiSWdhQnVkbGJjZGJmUWpRbG83Q3JLT0lfWWZlaW9iVHFPLXBLM2dkaEtXUWoyN2VlWE4yam8yOVB6bXVlYm1tcUVCZ0NZZVUwZUZDbFY3SEd6eUV2dnlqcjRQY3lIYlVOQmQ3cnpZY1N0cW1jRkdZZFFwWWVKRGsta3VlVU81aHY6SzxiPlNvdXRod2VzdCBtb25zb29uPC9iPiBoYXMgYXJyaXZlZCBpbiA8Yj5LZXJhbGE8L2I-LCBzYXlzIElNRCAtIFNjcm9sbC5pbkKrAVRoaXMgaXMgdGhlIGVhcmxpZXN0IGRhdGUgb2YgbW9uc29vbiBvbnNldCBvdmVyIDxiPktlcmFsYTwvYj4gc2luY2UgMjAwOSB3aGVuIGl0IGFycml2ZWQgb24gTWF5IDIzLiBUaGUgPGI-c291dGh3ZXN0IG1vbnNvb248L2I-IHNlYXNvbiA8Yj5nZW5lcmFsbHk8L2I-IGJlZ2lucyBpbiZuYnNwOy4uLlICZ29SA2dldCICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "pt"
+     ],
+     "regions": [
+      "BR"
+     ],
+     "source": {
+      "description": "This is the earliest date of monsoon onset over Kerala since 2009 when it arrived on May 23. The southwest monsoon season generally begins in ...",
+      "icon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNEEOwDk_sgJYA3kkrwPbxln0lzSJUTvrY8hEXUtWa-vvkYAA_pQBuAWgfYgozR-cf3o0AnMj1j9iMytXyQJMN93mT3t7_-fmeHn9wmbW9oU_8of_tLP1LPzkqA3T2zbqPa2QQbSZwbUCN1G6dEnV-nfFB-L1HNkicrN9NklOfWxLo1uurqtM33FRHlwJN1Dt2mKoF1u1E3qyGKAZ9SI_MPuqvFnTfoXPeqMFd_qAMiZ6ESX6eUC2A44tiWCxOWGEzxGap-UNPsZOM74RhHKWYZCJjAAAAA.webp",
+      "source_info_link": "https://scroll.in/latest/1082740/southwest-monsoon-to-reach-central-india-by-june-5-says-imd"
+     }
+    },
+    "date": "24 de mai. de 2025",
+    "displayed_link": "https://scroll.in › latest › southwe...",
+    "favicon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNEEOwDk_sgJYA3kkrwPbxln0lzSJUTvrY8hEXUtWa-vvkYAA_pQBuAWgfYgozR-cf3o0AnMj1j9iMytXyQJMN93mT3t7_-fmeHn9wmbW9oU_8of_tLP1LPzkqA3T2zbqPa2QQbSZwbUCN1G6dEnV-nfFB-L1HNkicrN9NklOfWxLo1uurqtM33FRHlwJN1Dt2mKoF1u1E3qyGKAZ9SI_MPuqvFnTfoXPeqMFd_qAMiZ6ESX6eUC2A44tiWCxOWGEzxGap-UNPsZOM74RhHKWYZCJjAAAAA.webp",
+    "link": "https://scroll.in/latest/1082740/southwest-monsoon-to-reach-central-india-by-june-5-says-imd",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFUWNY8cCJ35eTxe9r0Fbf7_JabFh1BRdNnL7JQE7AXts-Nt74jPFBSmSi4vqPZOQ8EabIgaBudlbcdbfQjQlo7CrKOI_YfeiobTqO-pK3gdhKWQj27eeXN2jo29PzmuebmmqEBgCYeU0eFClV7HGzyEvvyjr4PcyHbUNBd7rzYcStqmcFGYdQpYeJDk-kueUO5hv&ved=2ahUKEwjcyPOiwJaXAxWcrpUCHTNDGagQFnoECDgQAQ&uoh=1",
+    "snippet": "This is the earliest date of monsoon onset over Kerala since 2009 when it arrived on May 23. The southwest monsoon season generally begins in ...",
+    "snippet_highlighted_words": [
+     "Kerala",
+     "southwest monsoon",
+     "generally"
+    ],
+    "source": "Scroll.in",
+    "title": "Southwest monsoon has arrived in Kerala, says IMD"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZZZTE0alNjYmoyQ1ZIYkpZVmpwSVVYVEFEZmw2QXY3LU5qTlppZ0JKbEVibUJ1Ulg5TGtGcy1ldlBLemRiZzVRZFdrOEdmQjNZbFQ3aWdmaFVINmVSdF9rR0hfQ1lqMG1SUUtjUU1fWmZseS1RTFNkQ0cwSUtUNmZseS1WWXRyck9MTDB3LWJzMWtyUDZCR09GSGRpY1BNX2dMX1JGenRqLXFlLXlpazVVR3dXaVNQSExFeDlMNzUSBBoCCAAa-AUSABoAIgAqADIGCAISAmJyOgBCBAgCEFJKAFoAcgB6AIJA1AUIABAAGAAgACodCglzb3V0aHdlc3QV862XQBoCc3caB2l2O2Q7c3cqDgoHbW9uc29vbhXG1KxAKooBCghub3JtYWxseRV1S2g_Gghjb21tb25seRoKZnJlcXVlbnRseRoJZ2VuZXJhbGx5GgZub3JtYWwaBW9mdGVuGgl0eXBpY2FsbHkaB3VzdWFsbHkaDml2O2Q7Z2VuZXJhbGx5GgtpdjtkO25vcm1hbBoKaXY7ZDtvZnRlbhoMaXY7ZDt1c3VhbGx5KjEKBXJlYWNoFSMdikAaA2dldBoCZ28aBXJhbmdlGgppdjtkO3JlYWNoGgdpdjtkO2dvKhoKBmtlcmFsYRUQSphAGgtpdjtkO2tlcmFsYTLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGWWUxNGpTY2JqMkNWSGJKWVZqcElVWFRBRGZsNkF2Ny1Oak5aaWdCSmxFYm1CdVJYOUxrRnMtZXZQS3pkYmc1UWRXazhHZkIzWWxUN2lnZmhVSDZlUnRfa0dIX0NZajBtUlFLY1FNX1pmbHktUUxTZENHMElLVDZmbHktVll0cnJPTEwwdy1iczFrclA2QkdPRkhkaWNQTV9nTF9SRnp0ai1xZS15aWs1VUd3V2lTUEhMRXg5TDc1OkQ8Yj5Tb3V0aHdlc3QgTW9uc29vbjwvYj4gTGlrZWx5IFRvIDxiPlJlYWNoIEtlcmFsYTwvYj4gQXJvdW5kIE1heSAzMUKeAVRoZSA8Yj5zb3V0aHdlc3QgbW9uc29vbiBub3JtYWxseTwvYj4gYXJyaXZlcyBpbiA8Yj5LZXJhbGE8L2I-IG9uIEp1bmUgMSwgd2l0aCBhIHN0YW5kYXJkIGRldmlhdGlvbiBvZiBhYm91dCA3IGRheXMuIFRoZW4gaXQgYWR2YW5jZXMgbm9ydGh3YXJkcywgYW5kJm5ic3A7Li4uUgJnb1IDZ2V0IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZZZTE0alNjYmoyQ1ZIYkpZVmpwSVVYVEFEZmw2QXY3LU5qTlppZ0JKbEVibUJ1Ulg5TGtGcy1ldlBLemRiZzVRZFdrOEdmQjNZbFQ3aWdmaFVINmVSdF9rR0hfQ1lqMG1SUUtjUU1fWmZseS1RTFNkQ0cwSUtUNmZseS1WWXRyck9MTDB3LWJzMWtyUDZCR09GSGRpY1BNX2dMX1JGenRqLXFlLXlpazVVR3dXaVNQSExFeDlMNzUSBBoCCAAa-AUSABoAIgAqADIGCAISAmJyOgBCBAgCEFJKAFoAcgB6AIJA1AUIABAAGAAgACodCglzb3V0aHdlc3QV862XQBoCc3caB2l2O2Q7c3cqDgoHbW9uc29vbhXG1KxAKooBCghub3JtYWxseRV1S2g_Gghjb21tb25seRoKZnJlcXVlbnRseRoJZ2VuZXJhbGx5GgZub3JtYWwaBW9mdGVuGgl0eXBpY2FsbHkaB3VzdWFsbHkaDml2O2Q7Z2VuZXJhbGx5GgtpdjtkO25vcm1hbBoKaXY7ZDtvZnRlbhoMaXY7ZDt1c3VhbGx5KjEKBXJlYWNoFSMdikAaA2dldBoCZ28aBXJhbmdlGgppdjtkO3JlYWNoGgdpdjtkO2dvKhoKBmtlcmFsYRUQSphAGgtpdjtkO2tlcmFsYTLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGWWUxNGpTY2JqMkNWSGJKWVZqcElVWFRBRGZsNkF2Ny1Oak5aaWdCSmxFYm1CdVJYOUxrRnMtZXZQS3pkYmc1UWRXazhHZkIzWWxUN2lnZmhVSDZlUnRfa0dIX0NZajBtUlFLY1FNX1pmbHktUUxTZENHMElLVDZmbHktVll0cnJPTEwwdy1iczFrclA2QkdPRkhkaWNQTV9nTF9SRnp0ai1xZS15aWs1VUd3V2lTUEhMRXg5TDc1OkQ8Yj5Tb3V0aHdlc3QgTW9uc29vbjwvYj4gTGlrZWx5IFRvIDxiPlJlYWNoIEtlcmFsYTwvYj4gQXJvdW5kIE1heSAzMUKeAVRoZSA8Yj5zb3V0aHdlc3QgbW9uc29vbiBub3JtYWxseTwvYj4gYXJyaXZlcyBpbiA8Yj5LZXJhbGE8L2I-IG9uIEp1bmUgMSwgd2l0aCBhIHN0YW5kYXJkIGRldmlhdGlvbiBvZiBhYm91dCA3IGRheXMuIFRoZW4gaXQgYWR2YW5jZXMgbm9ydGh3YXJkcywgYW5kJm5ic3A7Li4uUgJnb1IDZ2V0IgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "pt"
+     ],
+     "regions": [
+      "BR"
+     ],
+     "source": {
+      "description": "The southwest monsoon normally arrives in Kerala on June 1, with a standard deviation of about 7 days. Then it advances northwards, and ...",
+      "icon": "https://serpapi.com/images/i/UklGRsYBAABXRUJQVlA4ILoBAAAwCQCdASogACAAPrUurVanIacnG_DgFolsAJ05QX4Bx_FfaduzZgFCA2zt26bynXHqR-WZpXGelZ2eOplexATN0kCCjPkCzXVBLePkBvedYx4AAP70F9ieXEcSXThugHUXw6l0QMPOXF6ipXzM_scRyURQiPsVzhzRXfd_gqxMFuaH07zN7wsJN6e_jSO_73-fy50dL_oq_9oIx-AaTh6XnNPVF8dIrOc9fx948gRB1X4fvAQyd2WvG7adCK9ZyPHDLFa_RY18RAHGdbggtxO3HnR6aU73zFkTDWZHWkErBKWkdl4xYRpGXzMuTXlWWc0iV_5sPGM2K_Y6B_JcC-qGz_RziGjFOfmIWs_vFveoTwoc4Qwwokyv7J-HPwLr17VgfH11iHRdZzeYy52BUepdsYmaMQDEob5PPVkLAQnbCN2JQ6qGfyofAvwF_ftfZUR6O63UqHCP-2khI4k1boqi9bpjV5SV1_sg8XFK3oxRpsNz33MHyMFCzKC8z1yzojeIMBUQ7_haUk-X4rlWGRleiYlGoDLMqf_CYkTdxMTlxYFfmtf_P_MoIhMKLgbr78d0-0xXVU3mU4AA.webp",
+      "source_info_link": "https://odishabytes.com/southwest-monsoon-likely-to-reach-kerala-around-may-31-imd/"
+     }
+    },
+    "date": "15 de mai. de 2024",
+    "displayed_link": "https://odishabytes.com › southwe...",
+    "favicon": "https://serpapi.com/images/i/UklGRsYBAABXRUJQVlA4ILoBAAAwCQCdASogACAAPrUurVanIacnG_DgFolsAJ05QX4Bx_FfaduzZgFCA2zt26bynXHqR-WZpXGelZ2eOplexATN0kCCjPkCzXVBLePkBvedYx4AAP70F9ieXEcSXThugHUXw6l0QMPOXF6ipXzM_scRyURQiPsVzhzRXfd_gqxMFuaH07zN7wsJN6e_jSO_73-fy50dL_oq_9oIx-AaTh6XnNPVF8dIrOc9fx948gRB1X4fvAQyd2WvG7adCK9ZyPHDLFa_RY18RAHGdbggtxO3HnR6aU73zFkTDWZHWkErBKWkdl4xYRpGXzMuTXlWWc0iV_5sPGM2K_Y6B_JcC-qGz_RziGjFOfmIWs_vFveoTwoc4Qwwokyv7J-HPwLr17VgfH11iHRdZzeYy52BUepdsYmaMQDEob5PPVkLAQnbCN2JQ6qGfyofAvwF_ftfZUR6O63UqHCP-2khI4k1boqi9bpjV5SV1_sg8XFK3oxRpsNz33MHyMFCzKC8z1yzojeIMBUQ7_haUk-X4rlWGRleiYlGoDLMqf_CYkTdxMTlxYFfmtf_P_MoIhMKLgbr78d0-0xXVU3mU4AA.webp",
+    "link": "https://odishabytes.com/southwest-monsoon-likely-to-reach-kerala-around-may-31-imd/",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFYe14jScbj2CVHbJYVjpIUXTADfl6Av7-NjNZigBJlEbmBuRX9LkFs-evPKzdbg5QdWk8GfB3YlT7igfhUH6eRt_kGH_CYj0mRQKcQM_Zfly-QLSdCG0IKT6fly-VYtrrOLL0w-bs1krP6BGOFHdicPM_gL_RFztj-qe-yik5UGwWiSPHLEx9L75&ved=2ahUKEwjcyPOiwJaXAxWcrpUCHTNDGagQFnoECDUQAQ&uoh=1",
+    "snippet": "The southwest monsoon normally arrives in Kerala on June 1, with a standard deviation of about 7 days. Then it advances northwards, and ...",
+    "snippet_highlighted_words": [
+     "southwest monsoon normally",
+     "Kerala"
+    ],
+    "source": "OdishaBytes",
+    "title": "Southwest Monsoon Likely To Reach Kerala Around May 31"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=10&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8NMDegQINhAW",
+   "next": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns_rk4xNP-rxBEDpkbrq4AqmVb_yA:1790778097338&ei=8Rq9apyMFJzd1sQPs4blwAo&start=10&sa=N&sstk=AS6-VmLQbUmA6BeK9-RV6pJIZ5Z8n3IfjZeTcQ0y5sUK9efoa9gHGB_1_ZezJGTLnuRA9zDZL1OhQ_agdxaFeT2Hni-iFs_r8cuO5g&ved=2ahUKEwjcyPOiwJaXAxWcrpUCHTNDGagQ8NMDegQILhAK",
    "other_pages": {
-    "10": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=90&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8tMDegQINhAU",
-    "2": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=10&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8tMDegQINhAE",
-    "3": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=20&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8tMDegQINhAG",
-    "4": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=30&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8tMDegQINhAI",
-    "5": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=40&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8tMDegQINhAK",
-    "6": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=50&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8tMDegQINhAM",
-    "7": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=60&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8tMDegQINhAO",
-    "8": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=70&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8tMDegQINhAQ",
-    "9": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&ei=nsKvap6DI5GuqtsP45qI8Qc&start=80&sa=N&sstk=AS6-VmJCCD0cO6sisyvxylFxzaMpD7UunlOrbwTeUQIGApVhOquRAO9uTdhJfbKWpeHHPAzBhFFCuwP6qCQiEvnCmNdNSFNI58BrhA&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q8tMDegQINhAS"
+    "2": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns_rk4xNP-rxBEDpkbrq4AqmVb_yA:1790778097338&ei=8Rq9apyMFJzd1sQPs4blwAo&start=10&sa=N&sstk=AS6-VmLQbUmA6BeK9-RV6pJIZ5Z8n3IfjZeTcQ0y5sUK9efoa9gHGB_1_ZezJGTLnuRA9zDZL1OhQ_agdxaFeT2Hni-iFs_r8cuO5g&ved=2ahUKEwjcyPOiwJaXAxWcrpUCHTNDGagQ8tMDegQILhAE",
+    "3": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns_rk4xNP-rxBEDpkbrq4AqmVb_yA:1790778097338&ei=8Rq9apyMFJzd1sQPs4blwAo&start=20&sa=N&sstk=AS6-VmLQbUmA6BeK9-RV6pJIZ5Z8n3IfjZeTcQ0y5sUK9efoa9gHGB_1_ZezJGTLnuRA9zDZL1OhQ_agdxaFeT2Hni-iFs_r8cuO5g&ved=2ahUKEwjcyPOiwJaXAxWcrpUCHTNDGagQ8tMDegQILhAG",
+    "4": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns_rk4xNP-rxBEDpkbrq4AqmVb_yA:1790778097338&ei=8Rq9apyMFJzd1sQPs4blwAo&start=30&sa=N&sstk=AS6-VmLQbUmA6BeK9-RV6pJIZ5Z8n3IfjZeTcQ0y5sUK9efoa9gHGB_1_ZezJGTLnuRA9zDZL1OhQ_agdxaFeT2Hni-iFs_r8cuO5g&ved=2ahUKEwjcyPOiwJaXAxWcrpUCHTNDGagQ8tMDegQILhAI"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxbDZiWEY1TFZsblJsQlROVUk0ZURCTVFsUTJSRlJRZW00MVJERTNTVEJmU0VWSGFEQlpSM3AyV2tKaU9FdE1RV2M1WDNvNVIzbGpPREJ1Y0hoU1dqazNUbWxoVFZWalFUWjFWSE5UVjJwV01XUlBSVkpFTkc5UmR4SVhibk5MZG1Gd05rUkpOVWQxY1hSelVEUTFjVWs0VVdNYUlrRkVjM0k1WmxJeVNXaDVSM1pRV1ZOTkxXMVNaVlZvT0hWTk1raGpSVGhhUjFFIiwiZmN2IjoiMyIsImVpIjoibnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWMiLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgzVC13MF8iLCJxdWVzdGlvbiI6IkluIHdoaWNoIG1vbnRoIHdpbGwgdGhlIHNvdXRod2VzdCBtb25zb29uIGFycml2ZSBpbiBLZXJhbGEgaW4gMjAyNj8iLCJsayI6IkdpSnRiMjV6YjI5dUlHbHVJR3RsY21Gc1lTQXlNREkySUhkb2FXTm9JRzF2Ym5SbyIsImJzIjoiYzNXUXZXc0RNUXpGNmVxcDgwMGlkTzFIWE9oVU9FcVhIaGs3WkJaM3ZsaWNZaFZieVpIX1B2WmRRa3U1Z0FjaHZkOTdrczFnUHBzQW82Zld3MTZDZWhpSkdkUTdTSEpRUDdxa1paQkVBbUNNZEhSQUFUWXVJbU9wN0l0OXEtMUR0YnFLY20tWXAyWDAxOW9rOF80bEk3Q0VIWFRpMG8wWVBmMVFpOHduWU16dGJOaUVqckMycjlXNkVFSGlIaG02UTBTbHJKZC13WVRLeTVUWm1ZLXR4Mnd6eF9VU1hWdHNjekUxdmdzSzIzX3NsUGg3MzZxYUkyQXhZeElaTkU5TkFsSkkyRHRRQVkxNGRGeXF5M2ZsalNtZmZzRnItMXc5MGcxaVdDTHU3ODQiLCJpZCI6ImZjX25zS3ZhcDZESTVHdXF0c1A0NXFJOFFjXzUifQ==",
-    "page_token": "YVSqrXicHdBdToMwAADgeBkfHWVT45LFWNvCmHTSQst4MdDKOvmrDjfgzbt4Kk-j8QRf8n1914e2-rk4mb63x-Vsdj6fr_Zdt69fr1TXzPLj2KqZyuu6yFW1vLm9AfelWuHPNXx8X8MosVYg5nApPjIvIBrXJy6Y3Xo05AiibWziZCJlBoJSt6biyXGx9UUfSs2pY5FwcV_4hOau7qIpMNIbvJhEC4mEeZJ3UzGv3NQlA3Oou0vDMUvpjtUapkAjKjOYA4vYFDzzSae8TcZEmiYHsN_6WSSJPcR-to5i0oomoJJ0i-Kt3rySYEPb4JTj674QDIqYlRqDa4XIpnADoKWB2OhP5fR_5oPLcAXYXAzapxFFYuCxYbuhO0QJm9Rb3SRuCIRvbejpUTmUx5iOeUWizAFQzS3kmPrZ-bJUp9X88v9z9VI2_dJ-dPtfgJiB3g",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RGcE9RMEpaZW5reVZVaFdlSEpQWkY5d1NqSTBRMlJNU2sxRlJGcG5ZMDQwYlZOUmRYbzFaRVpMWkRObVdqZ3dWVFZ2V1ZKSlYxRXRUV2R5YjA5WE4ydDRaVGhqUmtWRmFqWTBkMGhPY1dKWlVWbFphVll0YlZOUlFSSVhPRkp4T1dGd2VVMUdTbnBrTVhOUlVITTBZbXgzUVc4YUlrRkVjM0k1WmxSamVYVkNaa1JzVkc5ek5XSXpUMkZLV1dwbE5FRlpOSGhYUjNjIiwiZmN2IjoiMyIsImVpIjoiOFJxOWFweU1GSnpkMXNRUHM0Ymx3QW8iLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgwZUVOcy0iLCJxdWVzdGlvbiI6IkluIHdoaWNoIG1vbnRoIHdpbGwgdGhlIHNvdXRod2VzdCBtb25zb29uIGFycml2ZSBpbiBLZXJhbGEgaW4gMjAyNj8iLCJsayI6IkdpSnRiMjV6YjI5dUlHbHVJR3RsY21Gc1lTQXlNREkySUhkb2FXTm9JRzF2Ym5SbyIsImJzIjoiYzNXUVFXc0NRUXlGOFRvbmI2VjdNUzMtZ0hhRWdpRHNvUlJjdk50ejJCMDd3VEVwTTlIQmY5OFpyR1doQ2ptRXZKY3Y0Wm05ZWU4WXNxZmV3MEZZUFdRS0FkUTdTSEpVbjEzU0tpUVJCb3lSVGc2SVllTWlCcXlkZmJGdnJaMDN6MWRUbWUwdmFwWEdhTE0xeXk1VmRuU0EwSHZrM29Ic192aVoxQThSTTRaSzZYaWcwWW5INXVHR3Iyb21tZFZhTWdUaEx4akVwVHZ2Nl9tYmVnemhEQUhMLUhxaXRZdm10VzZ3eEVOQkRzZUlTc1ZmUHZzUG9WcGx5M3dZLUJ6RnhxS2dBaWRLcExfeHRQYXBtZVY3bmt0STA4a1AiLCJpZCI6ImZjXzhScTlhcHlNRkp6ZDFzUVBzNGJsd0FvXzUifQ==",
+    "page_token": "BM_bJ3icHdFLcpswAADQ6WWyjMXH7uAZTyY4kp3U4OgP2nRA8geQgMROwOx6l65zoJ6mne7e_v36bau2-fPt63y99pflbDYMw_2p6072cK87Nysut1bPdGFtWehmufi-8B6OegW7Yb2-DDHmfS-eCKBypKU0HwLaS7mNvYJHYeJMpVzEaIscn14k8Z9vO2Ffy40ACVAZzvok85VgwIhURiq10YcKLGJCrWUT-VJGVELBEz42zPcWe2TjxFmeMwywP3bCU10hjEtY45dB-sYg8NlmhFKOO4LSN4K6YZfFlWkQ38NrXbjzJ4VgonwO6FY8GxQtFCBztX1Ji-BMC54H2hGopvS9qM0rZY-3PDgN1PtnKyCdVJbXZjStYgrBkACU7KmXGI4qnOUhkyaEZx3yFs7zLJ4zrn4cHB61h7CeSFVuTVyOXYU5mXRtndh4jXJonziFcZ0OpAKj4Wl7eEKOBYaT1joz3B315yq4-_-w-nl012X_3p3-AlAXldg",
     "question": "In which month will the southwest monsoon arrive in Kerala in 2026?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YVSqrXicHdBdToMwAADgeBkfHWVT45LFWNvCmHTSQst4MdDKOvmrDjfgzbt4Kk-j8QRf8n1914e2-rk4mb63x-Vsdj6fr_Zdt69fr1TXzPLj2KqZyuu6yFW1vLm9AfelWuHPNXx8X8MosVYg5nApPjIvIBrXJy6Y3Xo05AiibWziZCJlBoJSt6biyXGx9UUfSs2pY5FwcV_4hOau7qIpMNIbvJhEC4mEeZJ3UzGv3NQlA3Oou0vDMUvpjtUapkAjKjOYA4vYFDzzSae8TcZEmiYHsN_6WSSJPcR-to5i0oomoJJ0i-Kt3rySYEPb4JTj674QDIqYlRqDa4XIpnADoKWB2OhP5fR_5oPLcAXYXAzapxFFYuCxYbuhO0QJm9Rb3SRuCIRvbejpUTmUx5iOeUWizAFQzS3kmPrZ-bJUp9X88v9z9VI2_dJ-dPtfgJiB3g",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxbDZiWEY1TFZsblJsQlROVUk0ZURCTVFsUTJSRlJRZW00MVJERTNTVEJmU0VWSGFEQlpSM3AyV2tKaU9FdE1RV2M1WDNvNVIzbGpPREJ1Y0hoU1dqazNUbWxoVFZWalFUWjFWSE5UVjJwV01XUlBSVkpFTkc5UmR4SVhibk5MZG1Gd05rUkpOVWQxY1hSelVEUTFjVWs0VVdNYUlrRkVjM0k1WmxJeVNXaDVSM1pRV1ZOTkxXMVNaVlZvT0hWTk1raGpSVGhhUjFFIiwiZmN2IjoiMyIsImVpIjoibnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWMiLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgzVC13MF8iLCJxdWVzdGlvbiI6IkluIHdoaWNoIG1vbnRoIHdpbGwgdGhlIHNvdXRod2VzdCBtb25zb29uIGFycml2ZSBpbiBLZXJhbGEgaW4gMjAyNj8iLCJsayI6IkdpSnRiMjV6YjI5dUlHbHVJR3RsY21Gc1lTQXlNREkySUhkb2FXTm9JRzF2Ym5SbyIsImJzIjoiYzNXUXZXc0RNUXpGNmVxcDgwMGlkTzFIWE9oVU9FcVhIaGs3WkJaM3ZsaWNZaFZieVpIX1B2WmRRa3U1Z0FjaHZkOTdrczFnUHBzQW82Zld3MTZDZWhpSkdkUTdTSEpRUDdxa1paQkVBbUNNZEhSQUFUWXVJbU9wN0l0OXEtMUR0YnFLY20tWXAyWDAxOW9rOF80bEk3Q0VIWFRpMG8wWVBmMVFpOHduWU16dGJOaUVqckMycjlXNkVFSGlIaG02UTBTbHJKZC13WVRLeTVUWm1ZLXR4Mnd6eF9VU1hWdHNjekUxdmdzSzIzX3NsUGg3MzZxYUkyQXhZeElaTkU5TkFsSkkyRHRRQVkxNGRGeXF5M2ZsalNtZmZzRnItMXc5MGcxaVdDTHU3ODQiLCJpZCI6ImZjX25zS3ZhcDZESTVHdXF0c1A0NXFJOFFjXzUifQ%3D%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BM_bJ3icHdFLcpswAADQ6WWyjMXH7uAZTyY4kp3U4OgP2nRA8geQgMROwOx6l65zoJ6mne7e_v36bau2-fPt63y99pflbDYMw_2p6072cK87Nysut1bPdGFtWehmufi-8B6OegW7Yb2-DDHmfS-eCKBypKU0HwLaS7mNvYJHYeJMpVzEaIscn14k8Z9vO2Ffy40ACVAZzvok85VgwIhURiq10YcKLGJCrWUT-VJGVELBEz42zPcWe2TjxFmeMwywP3bCU10hjEtY45dB-sYg8NlmhFKOO4LSN4K6YZfFlWkQ38NrXbjzJ4VgonwO6FY8GxQtFCBztX1Ji-BMC54H2hGopvS9qM0rZY-3PDgN1PtnKyCdVJbXZjStYgrBkACU7KmXGI4qnOUhkyaEZx3yFs7zLJ4zrn4cHB61h7CeSFVuTVyOXYU5mXRtndh4jXJonziFcZ0OpAKj4Wl7eEKOBYaT1joz3B315yq4-_-w-nl012X_3p3-AlAXldg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RGcE9RMEpaZW5reVZVaFdlSEpQWkY5d1NqSTBRMlJNU2sxRlJGcG5ZMDQwYlZOUmRYbzFaRVpMWkRObVdqZ3dWVFZ2V1ZKSlYxRXRUV2R5YjA5WE4ydDRaVGhqUmtWRmFqWTBkMGhPY1dKWlVWbFphVll0YlZOUlFSSVhPRkp4T1dGd2VVMUdTbnBrTVhOUlVITTBZbXgzUVc4YUlrRkVjM0k1WmxSamVYVkNaa1JzVkc5ek5XSXpUMkZLV1dwbE5FRlpOSGhYUjNjIiwiZmN2IjoiMyIsImVpIjoiOFJxOWFweU1GSnpkMXNRUHM0Ymx3QW8iLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgwZUVOcy0iLCJxdWVzdGlvbiI6IkluIHdoaWNoIG1vbnRoIHdpbGwgdGhlIHNvdXRod2VzdCBtb25zb29uIGFycml2ZSBpbiBLZXJhbGEgaW4gMjAyNj8iLCJsayI6IkdpSnRiMjV6YjI5dUlHbHVJR3RsY21Gc1lTQXlNREkySUhkb2FXTm9JRzF2Ym5SbyIsImJzIjoiYzNXUVFXc0NRUXlGOFRvbmI2VjdNUzMtZ0hhRWdpRHNvUlJjdk50ejJCMDd3VEVwTTlIQmY5OFpyR1doQ2ptRXZKY3Y0Wm05ZWU4WXNxZmV3MEZZUFdRS0FkUTdTSEpVbjEzU0tpUVJCb3lSVGc2SVllTWlCcXlkZmJGdnJaMDN6MWRUbWUwdmFwWEdhTE0xeXk1VmRuU0EwSHZrM29Ic192aVoxQThSTTRaSzZYaWcwWW5INXVHR3Iyb21tZFZhTWdUaEx4akVwVHZ2Nl9tYmVnemhEQUhMLUhxaXRZdm10VzZ3eEVOQkRzZUlTc1ZmUHZzUG9WcGx5M3dZLUJ6RnhxS2dBaWRLcExfeHRQYXBtZVY3bmt0STA4a1AiLCJpZCI6ImZjXzhScTlhcHlNRkp6ZDFzUVBzNGJsd0FvXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxbDZiWEY1TFZsblJsQlROVUk0ZURCTVFsUTJSRlJRZW00MVJERTNTVEJmU0VWSGFEQlpSM3AyV2tKaU9FdE1RV2M1WDNvNVIzbGpPREJ1Y0hoU1dqazNUbWxoVFZWalFUWjFWSE5UVjJwV01XUlBSVkpFTkc5UmR4SVhibk5MZG1Gd05rUkpOVWQxY1hSelVEUTFjVWs0VVdNYUlrRkVjM0k1WmxJeVNXaDVSM1pRV1ZOTkxXMVNaVlZvT0hWTk1raGpSVGhhUjFFIiwiZmN2IjoiMyIsImVpIjoibnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWMiLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgzVC13MF8iLCJxdWVzdGlvbiI6IkhvdyBsb25nIGRvZXMgdGhlIHNvdXRod2VzdCBtb25zb29uIHR5cGljYWxseSBsYXN0IGluIEluZGlhPyIsImxrIjoiYzVNeUxNbElWY2pMTDhwTnpGRklLUzFLTE1uTXoxUElUMU1vemk4dHlTaFBMUzVSeU0zUEs4NEhDbWFDVUVwbUlnQSIsImJzIjoiYzNXUXZXc0RNUXpGNmVxcDgwMGlkTzFIWE9oVU9FcVhIaGs3WkJaM3ZsaWNZaFZieVpIX1B2WmRRa3U1Z0FjaHZkOTdrczFnUHBzQW82Zld3MTZDZWhpSkdkUTdTSEpRUDdxa1paQkVBbUNNZEhSQUFUWXVJbU9wN0l0OXEtMUR0YnFLY20tWXAyWDAxOW9rOF80bEk3Q0VIWFRpMG8wWVBmMVFpOHduWU16dGJOaUVqckMycjlXNkVFSGlIaG02UTBTbHJKZC13WVRLeTVUWm1ZLXR4Mnd6eF9VU1hWdHNjekUxdmdzSzIzX3NsUGg3MzZxYUkyQXhZeElaTkU5TkFsSkkyRHRRQVkxNGRGeXF5M2ZsalNtZmZzRnItMXc5MGcxaVdDTHU3ODQiLCJpZCI6ImZjX25zS3ZhcDZESTVHdXF0c1A0NXFJOFFjXzUifQ==",
-    "page_token": "GUYC4nicHdFLjtowGABg9TKzHOKk0A4SqgpxyDDEUxv7z2NTJXbAxM6jxDTArnfpugfqaSr1u8L367c9d-bvhz_auWFczmbTND2f-v5k62fZt7NyvHdyJktrq1Ka5eLTAn05yhXup81mnNZUDAOEzDtYwhPMUN2iDQ_ovGrIWnbmY5UVHhhUCEHOlCtcbBVj9tVLtnpdotxlQTFUJn-oOFpAUBjVRU3e2kjxxKs6iAUGVD3YmFhiaccuAuuRGDhWeP5DbdUFBLyx1AqZFiDC3QQdvYExU41fKDQ7U6e5z4Xr65a1LNIeS6M4OaOOpWiE7NXxmMXKQlmm8zLN4JtEUcx8MvFG72mg7vtMX-VDvUEaXXkQbaqA7KmP0CHbicwTdyJ0C23vFbEOE9AOa3WVnvPz7KvPsEEsgJuKCSUh3A5cs_zWn6lgD9nYVoiXAPga1_izU50NWZA40eghjdW85PZdNqQR9Okof66Cp_8Pq-_H1i2HS3_6B_M_lzM",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RGcE9RMEpaZW5reVZVaFdlSEpQWkY5d1NqSTBRMlJNU2sxRlJGcG5ZMDQwYlZOUmRYbzFaRVpMWkRObVdqZ3dWVFZ2V1ZKSlYxRXRUV2R5YjA5WE4ydDRaVGhqUmtWRmFqWTBkMGhPY1dKWlVWbFphVll0YlZOUlFSSVhPRkp4T1dGd2VVMUdTbnBrTVhOUlVITTBZbXgzUVc4YUlrRkVjM0k1WmxSamVYVkNaa1JzVkc5ek5XSXpUMkZLV1dwbE5FRlpOSGhYUjNjIiwiZmN2IjoiMyIsImVpIjoiOFJxOWFweU1GSnpkMXNRUHM0Ymx3QW8iLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgwZUVOcy0iLCJxdWVzdGlvbiI6IklzIHRoZXJlIGEgY2hhbmNlIG9mIG1vbnNvb24gd2l0aGRyYXdhbCBpbiBJbmRpYSBpbiAyMDI2PyIsImxrIjoiR2hkdGIyNXpiMjl1SUhkcGRHaGtjbUYzWVd3Z01qQXlOZyIsImJzIjoiYzNXUVFXc0NRUXlGOFRvbmI2VjdNUzMtZ0hhRWdpRHNvUlJjdk50ejJCMDd3VEVwTTlIQmY5OFpyR1doQ2ptRXZKY3Y0Wm05ZWU4WXNxZmV3MEZZUFdRS0FkUTdTSEpVbjEzU0tpUVJCb3lSVGc2SVllTWlCcXlkZmJGdnJaMDN6MWRUbWUwdmFwWEdhTE0xeXk1VmRuU0EwSHZrM29Ic192aVoxQThSTTRaSzZYaWcwWW5INXVHR3Iyb21tZFZhTWdUaEx4akVwVHZ2Nl9tYmVnemhEQUhMLUhxaXRZdm10VzZ3eEVOQkRzZUlTc1ZmUHZzUG9WcGx5M3dZLUJ6RnhxS2dBaWRLcExfeHRQYXBtZVY3bmt0STA4a1AiLCJpZCI6ImZjXzhScTlhcHlNRkp6ZDFzUVBzNGJsd0FvXzUifQ==",
+    "page_token": "Cz5YI3icHdBfkpowHADg6WX2cU0WsOqM0ykK1VTSIckvQF46EFQ04U9dVoG3XqFn2FPtadrpd4Tv97u9NObj05-q77vX1Wz2eDyez217tsdn3daz_HVs9Ezn1ha5Nqv55zn-ctLr4K79zU37MXSd3DLE8QIJwSDD7O2Q0FaE5K6R9yI3-JfGywOEdM6DgXLAJkoqUIgEAMSWkoZQV1m-K-9FUu0F7N1yIoaj1stTKzjYIQqWJGvCuOT4jX5b7mLQfYaX26P0xwgxX5n-Kh0_OCSLvhCK503llFu1SYS6FYK43BJJTUiiiSK2Zfu4XjjsqlwF4ZiAvHHUKQ3DlKdfXVl3kEOV8hcalEnY_EgopUY2KWpdlZINE0QGlXahCbws9T0B6vuxjgeNw1hP7FLsSr8Y2ksMbNJXWwNWo3bKLgY0yX8bzBqHGT1mtXeIpiqS4FGIn076vnae_l-vf57qftXd2vNfIEuLDA",
+    "question": "Is there a chance of monsoon withdrawal in India in 2026?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Cz5YI3icHdBfkpowHADg6WX2cU0WsOqM0ykK1VTSIckvQF46EFQ04U9dVoG3XqFn2FPtadrpd4Tv97u9NObj05-q77vX1Wz2eDyez217tsdn3daz_HVs9Ezn1ha5Nqv55zn-ctLr4K79zU37MXSd3DLE8QIJwSDD7O2Q0FaE5K6R9yI3-JfGywOEdM6DgXLAJkoqUIgEAMSWkoZQV1m-K-9FUu0F7N1yIoaj1stTKzjYIQqWJGvCuOT4jX5b7mLQfYaX26P0xwgxX5n-Kh0_OCSLvhCK503llFu1SYS6FYK43BJJTUiiiSK2Zfu4XjjsqlwF4ZiAvHHUKQ3DlKdfXVl3kEOV8hcalEnY_EgopUY2KWpdlZINE0QGlXahCbws9T0B6vuxjgeNw1hP7FLsSr8Y2ksMbNJXWwNWo3bKLgY0yX8bzBqHGT1mtXeIpiqS4FGIn076vnae_l-vf57qftXd2vNfIEuLDA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RGcE9RMEpaZW5reVZVaFdlSEpQWkY5d1NqSTBRMlJNU2sxRlJGcG5ZMDQwYlZOUmRYbzFaRVpMWkRObVdqZ3dWVFZ2V1ZKSlYxRXRUV2R5YjA5WE4ydDRaVGhqUmtWRmFqWTBkMGhPY1dKWlVWbFphVll0YlZOUlFSSVhPRkp4T1dGd2VVMUdTbnBrTVhOUlVITTBZbXgzUVc4YUlrRkVjM0k1WmxSamVYVkNaa1JzVkc5ek5XSXpUMkZLV1dwbE5FRlpOSGhYUjNjIiwiZmN2IjoiMyIsImVpIjoiOFJxOWFweU1GSnpkMXNRUHM0Ymx3QW8iLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgwZUVOcy0iLCJxdWVzdGlvbiI6IklzIHRoZXJlIGEgY2hhbmNlIG9mIG1vbnNvb24gd2l0aGRyYXdhbCBpbiBJbmRpYSBpbiAyMDI2PyIsImxrIjoiR2hkdGIyNXpiMjl1SUhkcGRHaGtjbUYzWVd3Z01qQXlOZyIsImJzIjoiYzNXUVFXc0NRUXlGOFRvbmI2VjdNUzMtZ0hhRWdpRHNvUlJjdk50ejJCMDd3VEVwTTlIQmY5OFpyR1doQ2ptRXZKY3Y0Wm05ZWU4WXNxZmV3MEZZUFdRS0FkUTdTSEpVbjEzU0tpUVJCb3lSVGc2SVllTWlCcXlkZmJGdnJaMDN6MWRUbWUwdmFwWEdhTE0xeXk1VmRuU0EwSHZrM29Ic192aVoxQThSTTRaSzZYaWcwWW5INXVHR3Iyb21tZFZhTWdUaEx4akVwVHZ2Nl9tYmVnemhEQUhMLUhxaXRZdm10VzZ3eEVOQkRzZUlTc1ZmUHZzUG9WcGx5M3dZLUJ6RnhxS2dBaWRLcExfeHRQYXBtZVY3bmt0STA4a1AiLCJpZCI6ImZjXzhScTlhcHlNRkp6ZDFzUVBzNGJsd0FvXzUifQ%3D%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RGcE9RMEpaZW5reVZVaFdlSEpQWkY5d1NqSTBRMlJNU2sxRlJGcG5ZMDQwYlZOUmRYbzFaRVpMWkRObVdqZ3dWVFZ2V1ZKSlYxRXRUV2R5YjA5WE4ydDRaVGhqUmtWRmFqWTBkMGhPY1dKWlVWbFphVll0YlZOUlFSSVhPRkp4T1dGd2VVMUdTbnBrTVhOUlVITTBZbXgzUVc4YUlrRkVjM0k1WmxSamVYVkNaa1JzVkc5ek5XSXpUMkZLV1dwbE5FRlpOSGhYUjNjIiwiZmN2IjoiMyIsImVpIjoiOFJxOWFweU1GSnpkMXNRUHM0Ymx3QW8iLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgwZUVOcy0iLCJxdWVzdGlvbiI6IkhvdyBsb25nIGRvZXMgdGhlIHNvdXRod2VzdCBtb25zb29uIHR5cGljYWxseSBsYXN0IGluIEluZGlhPyIsImxrIjoiYzVNeUxNbElWY2pMTDhwTnpGRklLUzFLTE1uTXoxUElUMU1vemk4dHlTaFBMUzVSeU0zUEs4NEhDbWFDVUVwbUlnQSIsImJzIjoiYzNXUVFXc0NRUXlGOFRvbmI2VjdNUzMtZ0hhRWdpRHNvUlJjdk50ejJCMDd3VEVwTTlIQmY5OFpyR1doQ2ptRXZKY3Y0Wm05ZWU4WXNxZmV3MEZZUFdRS0FkUTdTSEpVbjEzU0tpUVJCb3lSVGc2SVllTWlCcXlkZmJGdnJaMDN6MWRUbWUwdmFwWEdhTE0xeXk1VmRuU0EwSHZrM29Ic192aVoxQThSTTRaSzZYaWcwWW5INXVHR3Iyb21tZFZhTWdUaEx4akVwVHZ2Nl9tYmVnemhEQUhMLUhxaXRZdm10VzZ3eEVOQkRzZUlTc1ZmUHZzUG9WcGx5M3dZLUJ6RnhxS2dBaWRLcExfeHRQYXBtZVY3bmt0STA4a1AiLCJpZCI6ImZjXzhScTlhcHlNRkp6ZDFzUVBzNGJsd0FvXzUifQ==",
+    "page_token": "KXZ8cXicHZFLjpswAEDVy8xyggtJlUhRJYJNJi0QDHYCmwrbJAYb8AQ6fHa9S9c9UE_TqCd4T-_9-q2rVv399EcOg-l3q9U4jq_3rrvr8pV3zaro55aveKE1K7jabb5swNcb38NuPBz60Y2JMdTDVgJOj9TSFVVTmtioDqhYSl-m2KIP0QwVg28OU2uUzGDGB3BMbAgIMmdBzZR8nkjgb00CZRYv1KGpeFDV2cJD8tKEbQn1FNo5jEm4hMBURR07eYs2vMFK1OKaaF0xD2d5S2Gh6S1UyA-ubs2O-sDodgg8PZZqu6btmxPREFEq5-gqowTy6UL0OSYYPf2jXImosKae-6c09OQ5Ry4iNooC0g-MgPdsyaaU6ICpPMewGxiUKGvMO1cgphcwE-oaKLlDWrjOru46Jfm3soknDlDMF1yxo3DZ1FVP3sJr3ZDF7QOFP7AVZoJsVZKK75ej-FnW7on4GPHm2Sh-ufGPvf3y_8P-x60ZdubR3f8BEbSYrQ",
     "question": "How long does the southwest monsoon typically last in India?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GUYC4nicHdFLjtowGABg9TKzHOKk0A4SqgpxyDDEUxv7z2NTJXbAxM6jxDTArnfpugfqaSr1u8L367c9d-bvhz_auWFczmbTND2f-v5k62fZt7NyvHdyJktrq1Ka5eLTAn05yhXup81mnNZUDAOEzDtYwhPMUN2iDQ_ovGrIWnbmY5UVHhhUCEHOlCtcbBVj9tVLtnpdotxlQTFUJn-oOFpAUBjVRU3e2kjxxKs6iAUGVD3YmFhiaccuAuuRGDhWeP5DbdUFBLyx1AqZFiDC3QQdvYExU41fKDQ7U6e5z4Xr65a1LNIeS6M4OaOOpWiE7NXxmMXKQlmm8zLN4JtEUcx8MvFG72mg7vtMX-VDvUEaXXkQbaqA7KmP0CHbicwTdyJ0C23vFbEOE9AOa3WVnvPz7KvPsEEsgJuKCSUh3A5cs_zWn6lgD9nYVoiXAPga1_izU50NWZA40eghjdW85PZdNqQR9Okof66Cp_8Pq-_H1i2HS3_6B_M_lzM",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxbDZiWEY1TFZsblJsQlROVUk0ZURCTVFsUTJSRlJRZW00MVJERTNTVEJmU0VWSGFEQlpSM3AyV2tKaU9FdE1RV2M1WDNvNVIzbGpPREJ1Y0hoU1dqazNUbWxoVFZWalFUWjFWSE5UVjJwV01XUlBSVkpFTkc5UmR4SVhibk5MZG1Gd05rUkpOVWQxY1hSelVEUTFjVWs0VVdNYUlrRkVjM0k1WmxJeVNXaDVSM1pRV1ZOTkxXMVNaVlZvT0hWTk1raGpSVGhhUjFFIiwiZmN2IjoiMyIsImVpIjoibnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWMiLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgzVC13MF8iLCJxdWVzdGlvbiI6IkhvdyBsb25nIGRvZXMgdGhlIHNvdXRod2VzdCBtb25zb29uIHR5cGljYWxseSBsYXN0IGluIEluZGlhPyIsImxrIjoiYzVNeUxNbElWY2pMTDhwTnpGRklLUzFLTE1uTXoxUElUMU1vemk4dHlTaFBMUzVSeU0zUEs4NEhDbWFDVUVwbUlnQSIsImJzIjoiYzNXUXZXc0RNUXpGNmVxcDgwMGlkTzFIWE9oVU9FcVhIaGs3WkJaM3ZsaWNZaFZieVpIX1B2WmRRa3U1Z0FjaHZkOTdrczFnUHBzQW82Zld3MTZDZWhpSkdkUTdTSEpRUDdxa1paQkVBbUNNZEhSQUFUWXVJbU9wN0l0OXEtMUR0YnFLY20tWXAyWDAxOW9rOF80bEk3Q0VIWFRpMG8wWVBmMVFpOHduWU16dGJOaUVqckMycjlXNkVFSGlIaG02UTBTbHJKZC13WVRLeTVUWm1ZLXR4Mnd6eF9VU1hWdHNjekUxdmdzSzIzX3NsUGg3MzZxYUkyQXhZeElaTkU5TkFsSkkyRHRRQVkxNGRGeXF5M2ZsalNtZmZzRnItMXc5MGcxaVdDTHU3ODQiLCJpZCI6ImZjX25zS3ZhcDZESTVHdXF0c1A0NXFJOFFjXzUifQ%3D%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KXZ8cXicHZFLjpswAEDVy8xyggtJlUhRJYJNJi0QDHYCmwrbJAYb8AQ6fHa9S9c9UE_TqCd4T-_9-q2rVv399EcOg-l3q9U4jq_3rrvr8pV3zaro55aveKE1K7jabb5swNcb38NuPBz60Y2JMdTDVgJOj9TSFVVTmtioDqhYSl-m2KIP0QwVg28OU2uUzGDGB3BMbAgIMmdBzZR8nkjgb00CZRYv1KGpeFDV2cJD8tKEbQn1FNo5jEm4hMBURR07eYs2vMFK1OKaaF0xD2d5S2Gh6S1UyA-ubs2O-sDodgg8PZZqu6btmxPREFEq5-gqowTy6UL0OSYYPf2jXImosKae-6c09OQ5Ry4iNooC0g-MgPdsyaaU6ICpPMewGxiUKGvMO1cgphcwE-oaKLlDWrjOru46Jfm3soknDlDMF1yxo3DZ1FVP3sJr3ZDF7QOFP7AVZoJsVZKK75ej-FnW7on4GPHm2Sh-ufGPvf3y_8P-x60ZdubR3f8BEbSYrQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RGcE9RMEpaZW5reVZVaFdlSEpQWkY5d1NqSTBRMlJNU2sxRlJGcG5ZMDQwYlZOUmRYbzFaRVpMWkRObVdqZ3dWVFZ2V1ZKSlYxRXRUV2R5YjA5WE4ydDRaVGhqUmtWRmFqWTBkMGhPY1dKWlVWbFphVll0YlZOUlFSSVhPRkp4T1dGd2VVMUdTbnBrTVhOUlVITTBZbXgzUVc4YUlrRkVjM0k1WmxSamVYVkNaa1JzVkc5ek5XSXpUMkZLV1dwbE5FRlpOSGhYUjNjIiwiZmN2IjoiMyIsImVpIjoiOFJxOWFweU1GSnpkMXNRUHM0Ymx3QW8iLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgwZUVOcy0iLCJxdWVzdGlvbiI6IkhvdyBsb25nIGRvZXMgdGhlIHNvdXRod2VzdCBtb25zb29uIHR5cGljYWxseSBsYXN0IGluIEluZGlhPyIsImxrIjoiYzVNeUxNbElWY2pMTDhwTnpGRklLUzFLTE1uTXoxUElUMU1vemk4dHlTaFBMUzVSeU0zUEs4NEhDbWFDVUVwbUlnQSIsImJzIjoiYzNXUVFXc0NRUXlGOFRvbmI2VjdNUzMtZ0hhRWdpRHNvUlJjdk50ejJCMDd3VEVwTTlIQmY5OFpyR1doQ2ptRXZKY3Y0Wm05ZWU4WXNxZmV3MEZZUFdRS0FkUTdTSEpVbjEzU0tpUVJCb3lSVGc2SVllTWlCcXlkZmJGdnJaMDN6MWRUbWUwdmFwWEdhTE0xeXk1VmRuU0EwSHZrM29Ic192aVoxQThSTTRaSzZYaWcwWW5INXVHR3Iyb21tZFZhTWdUaEx4akVwVHZ2Nl9tYmVnemhEQUhMLUhxaXRZdm10VzZ3eEVOQkRzZUlTc1ZmUHZzUG9WcGx5M3dZLUJ6RnhxS2dBaWRLcExfeHRQYXBtZVY3bmt0STA4a1AiLCJpZCI6ImZjXzhScTlhcHlNRkp6ZDFzUVBzNGJsd0FvXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxbDZiWEY1TFZsblJsQlROVUk0ZURCTVFsUTJSRlJRZW00MVJERTNTVEJmU0VWSGFEQlpSM3AyV2tKaU9FdE1RV2M1WDNvNVIzbGpPREJ1Y0hoU1dqazNUbWxoVFZWalFUWjFWSE5UVjJwV01XUlBSVkpFTkc5UmR4SVhibk5MZG1Gd05rUkpOVWQxY1hSelVEUTFjVWs0VVdNYUlrRkVjM0k1WmxJeVNXaDVSM1pRV1ZOTkxXMVNaVlZvT0hWTk1raGpSVGhhUjFFIiwiZmN2IjoiMyIsImVpIjoibnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWMiLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgzVC13MF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGZvcmVjYXN0IGZvciB0aGUgU291dGggV2VzdCBtb25zb29uIGluIEluZGlhIGluIDIwMjY/IiwibGsiOiJjNU5TS000dkxjbFFLRTh0TGxISXpjOHJ6c19QVThnRW9aVE1SQVVqQXlNekFBIiwiYnMiOiJjM1dRdldzRE1RekY2ZXFwODAwaWRPMUhYT2hVT0VxWEhoazdaQlozdmxpY1loVmJ5WkhfUHZaZFFrdTVnQWNodmQ5N2tzMWdQcHNBbzZmV3cxNkNlaGlKR2RRN1NISlFQN3FrWlpCRUFtQ01kSFJBQVRZdUltT3A3SXQ5cS0xRHRicUtjbS1ZcDJYMDE5b2s4XzRsSTdDRUhYVGkwbzBZUGYxUWk4d25ZTXp0Yk5pRWpyQzJyOVc2RUVIaUhobTZRMFNsckpkLXdZVEt5NVRabVktdHgyd3p4X1VTWFZ0c2N6RTF2Z3NLMjNfc2xQaDczNnFhSTJBeFl4SVpORTlOQWxKSTJEdFFBWTE0ZEZ5cXkzZmxqU21mZnNGci0xdzkwZzFpV0NMdTc4NCIsImlkIjoiZmNfbnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWNfNSJ9",
-    "page_token": "ubLf-XicHdDBcqIwHIDx2ZfxWAkZ3dUZZ6fWILJLWgIEkstOCALKX6FtLJDbvkufqk_TTu_f7_L9f4fTtf348dYY07-u5_NhGO7qrqvheKe7y1y9Tlc91wqgULpdL38u0e9Kb8jtsH14PmyjtO_5jjlxxoeElyzJehri7ZRBMHFXu-nee6Y-9BQzYEmQhe14DS2fEhTAI1mdKVC3IIwXOa0oiUyEg6cjCR0BnqdyGJXTTQWuB-57lfJWKLcSihR2j2S0HDUxx-CFtlkqQl_UWdpyV5u4NX3p9yzH7G-I0oH5qVGJXmhUMuqtbgJthfxSfB_YeC_DbH9YaJBT4QeGuubKvzrSlDftGFfk9y4jLWKYj6VPI7rjY5w0TIzdKUqZ1We4pFhYYT2ZpEge_XoqHflHuOFCwi8rssOCn8soimaVftvg2ffPzb_qYtb9S1d_Aqovg74",
-    "question": "What is the forecast for the South West monsoon in India in 2026?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ubLf-XicHdDBcqIwHIDx2ZfxWAkZ3dUZZ6fWILJLWgIEkstOCALKX6FtLJDbvkufqk_TTu_f7_L9f4fTtf348dYY07-u5_NhGO7qrqvheKe7y1y9Tlc91wqgULpdL38u0e9Kb8jtsH14PmyjtO_5jjlxxoeElyzJehri7ZRBMHFXu-nee6Y-9BQzYEmQhe14DS2fEhTAI1mdKVC3IIwXOa0oiUyEg6cjCR0BnqdyGJXTTQWuB-57lfJWKLcSihR2j2S0HDUxx-CFtlkqQl_UWdpyV5u4NX3p9yzH7G-I0oH5qVGJXmhUMuqtbgJthfxSfB_YeC_DbH9YaJBT4QeGuubKvzrSlDftGFfk9y4jLWKYj6VPI7rjY5w0TIzdKUqZ1We4pFhYYT2ZpEge_XoqHflHuOFCwi8rssOCn8soimaVftvg2ffPzb_qYtb9S1d_Aqovg74",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxbDZiWEY1TFZsblJsQlROVUk0ZURCTVFsUTJSRlJRZW00MVJERTNTVEJmU0VWSGFEQlpSM3AyV2tKaU9FdE1RV2M1WDNvNVIzbGpPREJ1Y0hoU1dqazNUbWxoVFZWalFUWjFWSE5UVjJwV01XUlBSVkpFTkc5UmR4SVhibk5MZG1Gd05rUkpOVWQxY1hSelVEUTFjVWs0VVdNYUlrRkVjM0k1WmxJeVNXaDVSM1pRV1ZOTkxXMVNaVlZvT0hWTk1raGpSVGhhUjFFIiwiZmN2IjoiMyIsImVpIjoibnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWMiLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgzVC13MF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGZvcmVjYXN0IGZvciB0aGUgU291dGggV2VzdCBtb25zb29uIGluIEluZGlhIGluIDIwMjY%2FIiwibGsiOiJjNU5TS000dkxjbFFLRTh0TGxISXpjOHJ6c19QVThnRW9aVE1SQVVqQXlNekFBIiwiYnMiOiJjM1dRdldzRE1RekY2ZXFwODAwaWRPMUhYT2hVT0VxWEhoazdaQlozdmxpY1loVmJ5WkhfUHZaZFFrdTVnQWNodmQ5N2tzMWdQcHNBbzZmV3cxNkNlaGlKR2RRN1NISlFQN3FrWlpCRUFtQ01kSFJBQVRZdUltT3A3SXQ5cS0xRHRicUtjbS1ZcDJYMDE5b2s4XzRsSTdDRUhYVGkwbzBZUGYxUWk4d25ZTXp0Yk5pRWpyQzJyOVc2RUVIaUhobTZRMFNsckpkLXdZVEt5NVRabVktdHgyd3p4X1VTWFZ0c2N6RTF2Z3NLMjNfc2xQaDczNnFhSTJBeFl4SVpORTlOQWxKSTJEdFFBWTE0ZEZ5cXkzZmxqU21mZnNGci0xdzkwZzFpV0NMdTc4NCIsImlkIjoiZmNfbnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWNfNSJ9",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RGcE9RMEpaZW5reVZVaFdlSEpQWkY5d1NqSTBRMlJNU2sxRlJGcG5ZMDQwYlZOUmRYbzFaRVpMWkRObVdqZ3dWVFZ2V1ZKSlYxRXRUV2R5YjA5WE4ydDRaVGhqUmtWRmFqWTBkMGhPY1dKWlVWbFphVll0YlZOUlFSSVhPRkp4T1dGd2VVMUdTbnBrTVhOUlVITTBZbXgzUVc4YUlrRkVjM0k1WmxSamVYVkNaa1JzVkc5ek5XSXpUMkZLV1dwbE5FRlpOSGhYUjNjIiwiZmN2IjoiMyIsImVpIjoiOFJxOWFweU1GSnpkMXNRUHM0Ymx3QW8iLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgwZUVOcy0iLCJxdWVzdGlvbiI6IldoaWNoIG1vbnRoIG5vdCB0byB2aXNpdCBLZXJhbGE/IiwibGsiOiJHaDkzYUdsamFDQnRiMjUwYUNCdWIzUWdkRzhnZG1semFYUWdhMlZ5WVd4aCIsImJzIjoiYzNXUVFXc0NRUXlGOFRvbmI2VjdNUzMtZ0hhRWdpRHNvUlJjdk50ejJCMDd3VEVwTTlIQmY5OFpyR1doQ2ptRXZKY3Y0Wm05ZWU4WXNxZmV3MEZZUFdRS0FkUTdTSEpVbjEzU0tpUVJCb3lSVGc2SVllTWlCcXlkZmJGdnJaMDN6MWRUbWUwdmFwWEdhTE0xeXk1VmRuU0EwSHZrM29Ic192aVoxQThSTTRaSzZYaWcwWW5INXVHR3Iyb21tZFZhTWdUaEx4akVwVHZ2Nl9tYmVnemhEQUhMLUhxaXRZdm10VzZ3eEVOQkRzZUlTc1ZmUHZzUG9WcGx5M3dZLUJ6RnhxS2dBaWRLcExfeHRQYXBtZVY3bmt0STA4a1AiLCJpZCI6ImZjXzhScTlhcHlNRkp6ZDFzUVBzNGJsd0FvXzUifQ==",
+    "page_token": "ucspqXicHdBbboJAFADQdDN-KgNiq4lpggWf2DAwA8xPg5enc3moCOhf99JVdTVNepZwvn-wqOTvS5e3bXNbTCZ934-zus4wGUNdTqLbo4IJRIinCORi9joj7ykszfvWWF22hsOahn9QxSV5n8jpwznnR7GuH0zDDSvnRyr10PZongTHIvSzlpeN62iWBSoW4CotBKI7eA75tOZXV0VCrfmMWrYGiig--XznnmXrS3wCF52PzT729d7l4srNfBcXpPO0uD5JMhz9wThwrFx10JIqThNTVwPy1gLHMnwKK94YARAkUWC3vCDMr_AeKmLlmTu0KxS-J1J_TSOqNh5d64aZw5RVph4Ghu4xsU9KZwBiOfCkxWkTG6ehLhxGn3DGkp1xZbNMCQk3oBw0Flh3bup3JoeLE-QikoiiH6XQLbXR_-fyKy3bRXOtsz8HzYUB",
+    "question": "Which month not to visit Kerala?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ucspqXicHdBbboJAFADQdDN-KgNiq4lpggWf2DAwA8xPg5enc3moCOhf99JVdTVNepZwvn-wqOTvS5e3bXNbTCZ934-zus4wGUNdTqLbo4IJRIinCORi9joj7ykszfvWWF22hsOahn9QxSV5n8jpwznnR7GuH0zDDSvnRyr10PZongTHIvSzlpeN62iWBSoW4CotBKI7eA75tOZXV0VCrfmMWrYGiig--XznnmXrS3wCF52PzT729d7l4srNfBcXpPO0uD5JMhz9wThwrFx10JIqThNTVwPy1gLHMnwKK94YARAkUWC3vCDMr_AeKmLlmTu0KxS-J1J_TSOqNh5d64aZw5RVph4Ghu4xsU9KZwBiOfCkxWkTG6ehLhxGn3DGkp1xZbNMCQk3oBw0Flh3bup3JoeLE-QikoiiH6XQLbXR_-fyKy3bRXOtsz8HzYUB",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RGcE9RMEpaZW5reVZVaFdlSEpQWkY5d1NqSTBRMlJNU2sxRlJGcG5ZMDQwYlZOUmRYbzFaRVpMWkRObVdqZ3dWVFZ2V1ZKSlYxRXRUV2R5YjA5WE4ydDRaVGhqUmtWRmFqWTBkMGhPY1dKWlVWbFphVll0YlZOUlFSSVhPRkp4T1dGd2VVMUdTbnBrTVhOUlVITTBZbXgzUVc4YUlrRkVjM0k1WmxSamVYVkNaa1JzVkc5ek5XSXpUMkZLV1dwbE5FRlpOSGhYUjNjIiwiZmN2IjoiMyIsImVpIjoiOFJxOWFweU1GSnpkMXNRUHM0Ymx3QW8iLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgwZUVOcy0iLCJxdWVzdGlvbiI6IldoaWNoIG1vbnRoIG5vdCB0byB2aXNpdCBLZXJhbGE%2FIiwibGsiOiJHaDkzYUdsamFDQnRiMjUwYUNCdWIzUWdkRzhnZG1semFYUWdhMlZ5WVd4aCIsImJzIjoiYzNXUVFXc0NRUXlGOFRvbmI2VjdNUzMtZ0hhRWdpRHNvUlJjdk50ejJCMDd3VEVwTTlIQmY5OFpyR1doQ2ptRXZKY3Y0Wm05ZWU4WXNxZmV3MEZZUFdRS0FkUTdTSEpVbjEzU0tpUVJCb3lSVGc2SVllTWlCcXlkZmJGdnJaMDN6MWRUbWUwdmFwWEdhTE0xeXk1VmRuU0EwSHZrM29Ic192aVoxQThSTTRaSzZYaWcwWW5INXVHR3Iyb21tZFZhTWdUaEx4akVwVHZ2Nl9tYmVnemhEQUhMLUhxaXRZdm10VzZ3eEVOQkRzZUlTc1ZmUHZzUG9WcGx5M3dZLUJ6RnhxS2dBaWRLcExfeHRQYXBtZVY3bmt0STA4a1AiLCJpZCI6ImZjXzhScTlhcHlNRkp6ZDFzUVBzNGJsd0FvXzUifQ%3D%3D",
     "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxbDZiWEY1TFZsblJsQlROVUk0ZURCTVFsUTJSRlJRZW00MVJERTNTVEJmU0VWSGFEQlpSM3AyV2tKaU9FdE1RV2M1WDNvNVIzbGpPREJ1Y0hoU1dqazNUbWxoVFZWalFUWjFWSE5UVjJwV01XUlBSVkpFTkc5UmR4SVhibk5MZG1Gd05rUkpOVWQxY1hSelVEUTFjVWs0VVdNYUlrRkVjM0k1WmxJeVNXaDVSM1pRV1ZOTkxXMVNaVlZvT0hWTk1raGpSVGhhUjFFIiwiZmN2IjoiMyIsImVpIjoibnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWMiLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgzVC13MF8iLCJxdWVzdGlvbiI6IklzIGl0IHNhZmUgdG8gdHJhdmVsIHRvIEtlcmFsYSBkdXJpbmcgbW9uc29vbj8iLCJsayI6ImM1UFN6U3hXeUN4UktFNU1TMVVveVZjb0tVb3NTODBCc2JKVGl4SnpFaFZTU29zeTg5SVZjdlB6aXZQejh3QSIsImJzIjoiYzNXUXZXc0RNUXpGNmVxcDgwMGlkTzFIWE9oVU9FcVhIaGs3WkJaM3ZsaWNZaFZieVpIX1B2WmRRa3U1Z0FjaHZkOTdrczFnUHBzQW82Zld3MTZDZWhpSkdkUTdTSEpRUDdxa1paQkVBbUNNZEhSQUFUWXVJbU9wN0l0OXEtMUR0YnFLY20tWXAyWDAxOW9rOF80bEk3Q0VIWFRpMG8wWVBmMVFpOHduWU16dGJOaUVqckMycjlXNkVFSGlIaG02UTBTbHJKZC13WVRLeTVUWm1ZLXR4Mnd6eF9VU1hWdHNjekUxdmdzSzIzX3NsUGg3MzZxYUkyQXhZeElaTkU5TkFsSkkyRHRRQVkxNGRGeXF5M2ZsalNtZmZzRnItMXc5MGcxaVdDTHU3ODQiLCJpZCI6ImZjX25zS3ZhcDZESTVHdXF0c1A0NXFJOFFjXzUifQ==",
-    "page_token": "-bmi9nicHdBNbqMwAEBh9TJdNhhIR4oUVZOCQ62JKxv_gDcjYodAMMZtSCDZ9S5zqjnNVHOAt_je1x_buu7vw7UZR39eLRbTND0dh-FoD0966BfV-eb0QlfW7ivdrZ5_PIOXWq_Ty9vm9eNtQ7j3IqFB3o0tDpfFbksBAWrmEF4paCp-UraUaiodanhmU80aWOVBsOPYmhtQ0tmZhEaQTuw0hyWOGklTnOkMtzwRMWNoYrCphSR3xpGX3XlZRCjOUxKyHmywg650w9JA1aoQJeJu5H7rwSFRJ56hWG2Rf5fQS6huuYznfQeassC_Din8ZIzu9on97v1sIsxVT1-F5KHhiKaNuehgDMviZ0jTDtBIzCbDBCdizllDy3loCad3fbI950rpb68sutHI2RmnLsT5mAXU0e3ybBJUc_JY6-s6evz_c_277seV_xyO_wAK7YPM",
-    "question": "Is it safe to travel to Kerala during monsoon?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-bmi9nicHdBNbqMwAEBh9TJdNhhIR4oUVZOCQ62JKxv_gDcjYodAMMZtSCDZ9S5zqjnNVHOAt_je1x_buu7vw7UZR39eLRbTND0dh-FoD0966BfV-eb0QlfW7ivdrZ5_PIOXWq_Ty9vm9eNtQ7j3IqFB3o0tDpfFbksBAWrmEF4paCp-UraUaiodanhmU80aWOVBsOPYmhtQ0tmZhEaQTuw0hyWOGklTnOkMtzwRMWNoYrCphSR3xpGX3XlZRCjOUxKyHmywg650w9JA1aoQJeJu5H7rwSFRJ56hWG2Rf5fQS6huuYznfQeassC_Din8ZIzu9on97v1sIsxVT1-F5KHhiKaNuehgDMviZ0jTDtBIzCbDBCdizllDy3loCad3fbI950rpb68sutHI2RmnLsT5mAXU0e3ybBJUc_JY6-s6evz_c_277seV_xyO_wAK7YPM",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxbDZiWEY1TFZsblJsQlROVUk0ZURCTVFsUTJSRlJRZW00MVJERTNTVEJmU0VWSGFEQlpSM3AyV2tKaU9FdE1RV2M1WDNvNVIzbGpPREJ1Y0hoU1dqazNUbWxoVFZWalFUWjFWSE5UVjJwV01XUlBSVkpFTkc5UmR4SVhibk5MZG1Gd05rUkpOVWQxY1hSelVEUTFjVWs0VVdNYUlrRkVjM0k1WmxJeVNXaDVSM1pRV1ZOTkxXMVNaVlZvT0hWTk1raGpSVGhhUjFFIiwiZmN2IjoiMyIsImVpIjoibnNLdmFwNkRJNUd1cXRzUDQ1cUk4UWMiLCJxYyI6IkNpZHpiM1YwYUhkbGMzUWdiVzl1YzI5dmJpQnViM0p0WVd4c2VTQnlaV0ZqYUNCclpYSmhiR0VRQUgzVC13MF8iLCJxdWVzdGlvbiI6IklzIGl0IHNhZmUgdG8gdHJhdmVsIHRvIEtlcmFsYSBkdXJpbmcgbW9uc29vbj8iLCJsayI6ImM1UFN6U3hXeUN4UktFNU1TMVVveVZjb0tVb3NTODBCc2JKVGl4SnpFaFZTU29zeTg5SVZjdlB6aXZQejh3QSIsImJzIjoiYzNXUXZXc0RNUXpGNmVxcDgwMGlkTzFIWE9oVU9FcVhIaGs3WkJaM3ZsaWNZaFZieVpIX1B2WmRRa3U1Z0FjaHZkOTdrczFnUHBzQW82Zld3MTZDZWhpSkdkUTdTSEpRUDdxa1paQkVBbUNNZEhSQUFUWXVJbU9wN0l0OXEtMUR0YnFLY20tWXAyWDAxOW9rOF80bEk3Q0VIWFRpMG8wWVBmMVFpOHduWU16dGJOaUVqckMycjlXNkVFSGlIaG02UTBTbHJKZC13WVRLeTVUWm1ZLXR4Mnd6eF9VU1hWdHNjekUxdmdzSzIzX3NsUGg3MzZxYUkyQXhZeElaTkU5TkFsSkkyRHRRQVkxNGRGeXF5M2ZsalNtZmZzRnItMXc5MGcxaVdDTHU3ODQiLCJpZCI6ImZjX25zS3ZhcDZESTVHdXF0c1A0NXFJOFFjXzUifQ%3D%3D",
-    "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&q=Southwest+monsoon+normally+reach+kerala+today&sa=X&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q1QJ6BAg9EAE",
-    "query": "Southwest monsoon normally reach kerala today",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Southwest+monsoon+normally+reach+kerala+today"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&q=Southwest+monsoon+normally+reach+kerala+map&sa=X&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q1QJ6BAhAEAE",
-    "query": "Southwest monsoon normally reach kerala map",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Southwest+monsoon+normally+reach+kerala+map"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&q=Southwest+monsoon+normally+reach+kerala+pdf&sa=X&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q1QJ6BAhDEAE",
-    "query": "Southwest monsoon normally reach kerala pdf",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Southwest+monsoon+normally+reach+kerala+pdf"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&q=Kerala+monsoon+season+2026&sa=X&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q1QJ6BAhCEAE",
-    "query": "Kerala monsoon season 2026",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kerala+monsoon+season+2026"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&q=When+do+monsoon+reach+Kerala&sa=X&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q1QJ6BAhBEAE",
-    "query": "When do monsoon reach Kerala",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+do+monsoon+reach+Kerala"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&q=Southwest+monsoon+in+Kerala&sa=X&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q1QJ6BAhEEAE",
-    "query": "Southwest monsoon in Kerala",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Southwest+monsoon+in+Kerala"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&q=Has+monsoon+arrived+in+maharashtra&sa=X&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q1QJ6BAg_EAE",
-    "query": "Has monsoon arrived in maharashtra",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Has+monsoon+arrived+in+maharashtra"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&sxsrf=APpeQnusxKBISpd53yJ0ubrchNOesi_tCQ:1789903518580&q=Monsoon+in+Kerala+today&sa=X&ved=2ahUKEwieyqCbhv2WAxURl2oFHWMNIn4Q1QJ6BAg-EAE",
-    "query": "Monsoon in Kerala today",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Monsoon+in+Kerala+today"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "southwest monsoon normally reach kerala",
-   "time_taken_displayed": 0.19,
-   "total_results": 136
+   "time_taken_displayed": 0.32,
+   "total_results": 82600
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:25:18 UTC",
+   "created_at": "2026-09-30 14:20:22 UTC",
    "google_url": "https://www.google.com/search?q=southwest+monsoon+normally+reach+kerala&oq=southwest+monsoon+normally+reach+kerala&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc29e2f47f8a3ccd35a4b",
-   "json_endpoint": "https://serpapi.com/searches/3oP-ZGH4zO63LoFP7hyi9Dx24n8zudX2Td-jEYdNtEg/6aafc29e2f47f8a3ccd35a4b.json",
-   "markdown_endpoint": "https://serpapi.com/searches/3oP-ZGH4zO63LoFP7hyi9Dx24n8zudX2Td-jEYdNtEg/6aafc29e2f47f8a3ccd35a4b.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/3oP-ZGH4zO63LoFP7hyi9Dx24n8zudX2Td-jEYdNtEg/6aafc29e2f47f8a3ccd35a4b.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:25:18 UTC",
-   "raw_html_file": "https://serpapi.com/searches/3oP-ZGH4zO63LoFP7hyi9Dx24n8zudX2Td-jEYdNtEg/6aafc29e2f47f8a3ccd35a4b.html",
+   "id": "6abd1aa62f47f873ea0e49c0",
+   "json_endpoint": "https://serpapi.com/searches/TXBFwqlUbl3rYm0D7_S1hqXPOlDaREiXpy4zVT3Eobs/6abd1aa62f47f873ea0e49c0.json",
+   "markdown_endpoint": "https://serpapi.com/searches/TXBFwqlUbl3rYm0D7_S1hqXPOlDaREiXpy4zVT3Eobs/6abd1aa62f47f873ea0e49c0.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/TXBFwqlUbl3rYm0D7_S1hqXPOlDaREiXpy4zVT3Eobs/6abd1aa62f47f873ea0e49c0.json_with_pixel_position",
+   "processed_at": "2026-09-30 14:20:22 UTC",
+   "raw_html_file": "https://serpapi.com/searches/TXBFwqlUbl3rYm0D7_S1hqXPOlDaREiXpy4zVT3Eobs/6abd1aa62f47f873ea0e49c0.html",
    "status": "Success",
-   "total_time_taken": 0.51
+   "total_time_taken": 75.58
   },
   "search_parameters": {
    "device": "desktop",
@@ -392,17 +362,144 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=80"
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=southwest+monsoon+normally+reach+kerala&start=30"
    }
-  }
+  },
+  "short_videos": [
+   {
+    "duration": "0:43",
+    "extensions": [
+     "Rahul Sarkar"
+    ],
+    "link": "https://www.facebook.com/rahul.sarkar.457332/posts/why-does-the-indian-monsoon-reach-kerala-first-but-delhi-almost-a-month-later-%EF%B8%8Ft/2218243735635588/",
+    "position": 1,
+    "profile_name": "Rahul Sarkar",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://serpapi.com/searches/6abd1aa62f47f873ea0e49c0/images/TDQhWU440NccxpE59s0O9KYZgkyYaodUjRP2mPhfw5Q.jpeg",
+    "title": "Why does the Indian Monsoon reach Kerala first but Delhi ... enviado por Rahul Sarkar em Facebook. Assistir em Facebook. 0:43"
+   },
+   {
+    "duration": "0:42",
+    "extensions": [
+     "Rahul Sarkar"
+    ],
+    "link": "https://www.instagram.com/reel/DcfQCEHBQXy/",
+    "position": 2,
+    "profile_name": "Rahul Sarkar",
+    "source": "Instagram",
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "thumbnail": "https://serpapi.com/searches/6abd1aa62f47f873ea0e49c0/images/nzU3Gpe5jRO_ocv9iFjzoXEYu5MpBgifjcJIML4ipTU.jpeg",
+    "title": "Why does the Indian Monsoon reach Kerala first but Delhi ... enviado por Rahul Sarkar em Instagram. Assistir em Instagram. 0:42"
+   },
+   {
+    "duration": "0:28",
+    "extensions": [
+     "Satya X"
+    ],
+    "link": "https://www.facebook.com/SatyaX06/posts/the-southwest-monsoon-remains-active-across-much-of-the-country-rain-is-expected/122136462741186207/",
+    "position": 3,
+    "profile_name": "Satya X",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://serpapi.com/searches/6abd1aa62f47f873ea0e49c0/images/74P0Lo6n-7So5diS8b1Ri9bzeUWza65bJnQ8ULXkfos.jpeg",
+    "title": "The southwest monsoon remains active ... enviado por Satya X em Facebook. Assistir em Facebook. 0:28"
+   },
+   {
+    "duration": "0:43",
+    "extensions": [
+     "Rahul Sarkar"
+    ],
+    "link": "https://www.facebook.com/rahul.sarkar.457332/videos/why-does-the-indian-monsoon-reach-kerala-first-but-delhi-almost-a-month-later-%EF%B8%8Ft/1588694862760681/",
+    "position": 4,
+    "profile_name": "Rahul Sarkar",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://serpapi.com/searches/6abd1aa62f47f873ea0e49c0/images/NUJypTefhbt6ePHzjmVtC72H2u6ms6LLCi8KmGy2uMg.jpeg",
+    "title": "Why does the Indian Monsoon reach Kerala first but Delhi ... enviado por Rahul Sarkar em Facebook. Assistir em Facebook. 0:43"
+   },
+   {
+    "duration": "0:40",
+    "extensions": [
+     "Vaishali | MindSphere (VMS)"
+    ],
+    "link": "https://www.instagram.com/reel/DO8djSwiXPG/",
+    "position": 5,
+    "profile_name": "Vaishali | MindSphere (VMS)",
+    "source": "Instagram",
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwApff_OBTrNsDMOb_RuFU9LSXnzzdDdWkr8g1x_q3uFLQdrdvNMvf0Eg&s=10",
+    "title": "Why does monsoon always arrive in Kerala first? 🌧️ Because ... enviado por Vaishali | MindSphere (VMS) em Instagram. Assistir em Instagram. 0:40"
+   },
+   {
+    "duration": "1:18",
+    "extensions": [
+     "TIMES NOW"
+    ],
+    "link": "https://www.facebook.com/Timesnow/posts/after-days-of-anticipation-the-southwest-monsoon-has-officially-arrived-in-keral/1497093875795203/",
+    "position": 6,
+    "profile_name": "TIMES NOW",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmyQK4_ITGmRwtiIzJ_dzBYgmDJckMpRWlCTY_9feQ9mwIZEG0KGXEB2I&s=10",
+    "title": "After days of anticipation, the Southwest Monsoon has officially ... enviado por TIMES NOW em Facebook. Assistir em Facebook. 1:18"
+   },
+   {
+    "duration": "0:14",
+    "extensions": [
+     "India Meteorological Department"
+    ],
+    "link": "https://www.facebook.com/India.Meteorological.Department/posts/the-southwest-monsoon-is-likely-to-set-in-over-kerala-on-26th-may-with-a-model-e/1273213751650935/",
+    "position": 7,
+    "profile_name": "India Meteorological Department",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDHth0y42LuCtCdYamrT8aZM4XUxXcL8-oLh8e87783qqd85tMkdvROds&s=10",
+    "title": "The southwest monsoon is likely to set in over Kerala on 26th ... enviado por India Meteorological Department em Facebook. Assistir em Facebook. 0:14"
+   },
+   {
+    "duration": "1:31",
+    "extensions": [
+     "Jose Mathew"
+    ],
+    "link": "https://www.facebook.com/jose.mathew.92/videos/life-in-the-time-of-monsoon-in-keralayou-havent-seen-a-kerala-monsoon-until-you-/4352464651730986/",
+    "position": 8,
+    "profile_name": "Jose Mathew",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTfAFF3dcLJB-s_tM-pCR-nWYosDf7e6aMabdP6NuFkvnhA6hQEesopY&s=10",
+    "title": "Life in the time of monsoon in Kerala You haven't seen a ... enviado por Jose Mathew em Facebook. Assistir em Facebook. 1:31"
+   },
+   {
+    "duration": "0:42",
+    "extensions": [
+     "theweek_magazine"
+    ],
+    "link": "https://www.instagram.com/reel/DKBz2HZAMB0/",
+    "position": 9,
+    "profile_name": "theweek_magazine",
+    "source": "Instagram",
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5K3sg68WlH1VjfyWFSg7xu4CzJVqrwEniq536bpIuyDD9l1mZZ1_Rhg&s=10",
+    "title": "Usually, the southwest monsoon makes its onset over Kerala ... enviado por theweek_magazine em Instagram. Assistir em Instagram. 0:42"
+   },
+   {
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSf5TPOkUoe6v0t5fxmcTaNVSzLP0oqNRYCow",
+    "duration": "2:54",
+    "extensions": [
+     "Jose Mathew"
+    ],
+    "link": "https://www.facebook.com/jose.mathew.92/posts/here-comes-the-monsoon-life-doesnt-stop-for-the-kerala-monsoon-now-monsoon-is-it/28206783745582035/",
+    "position": 10,
+    "profile_name": "Jose Mathew",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGvKZT1e4bMHT-9BsMeAnRCAz2skx3Sa3fDpWk8krKnvOOwMP_Rh6XMKs&s=10",
+    "title": "the monsoon rain expected over a month has fallen in just two ... enviado por Jose Mathew em Facebook. Assistir em Facebook. 2:54"
+   }
+  ]
  },
  "searches_charged": 1
 }

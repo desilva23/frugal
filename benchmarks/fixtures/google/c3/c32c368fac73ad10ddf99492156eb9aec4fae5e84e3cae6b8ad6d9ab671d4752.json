@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 1277.147,
+ "elapsed_ms": 941.492,
  "engine": "google",
- "fetched_at": "2026-09-20T11:33:32.940972+00:00",
+ "fetched_at": "2026-09-27T21:25:51.645294+00:00",
  "frugal_cache_version": 1,
  "key": "c32c368fac73ad10ddf99492156eb9aec4fae5e84e3cae6b8ad6d9ab671d4752",
  "params": {
@@ -10,385 +10,323 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "Hbj2lXiczVXdkqo4EH6AfY71ZuaIv6hTRU0lARVFj_gzrnNDQcCAiFFAGb0777JX-0j7NBvwD2Z0Zs-52Nqu0tBJ093p7o_vx59LZ-X-_dtfdhiugyeOi6IoTyglSyuPqcfpwX6FuTldBj62nwO69bHlmAK2fepZuf1OKOdwIBRyliMseqOdHm6qqD7uugN5cKiUthtQyCUuBM3QA2vBIrwtAk7j2J_7e1lkSj7IW6v8dh68io2iOVbq-VKh2Mh_53SPGYD_TiSVwHjtAHTfiB1JX7uKHcgASilPMiDJCq9Ws-MxUpMjRO56g8eYw8RcZT9RO7Qjke2e6iPefZeFgBk1SnIBIEqyhMD5-jYpUU93Od_rk0pdrLNyqh697qR7nMk1IyTKqE2WhQYQugZJB2Nu7Ewal0phAuptCkUIJvfzZvXpyqDqAlW6dYW0qNJL5dI5ZdZiO5xJ2OAWOMNnS5FzsI2TBz-I5xmNGwXaHNu1xkQMv5vLAnXf9KYxKw3r9dd5vwc4bDC7JdVNy9RsrfCc6MVSsVpolGv1xwRIOLggKUgjaQC2xkixK84B5JU8LJ5hhI5NBx86JjEdyTcuBtHJNPOCdC7veRdeNoHazBjC0zmiQBqCbGu7g7iurbPKZvTAWpO2uEaNh_8jjI5CUsYMRkkiMj0Zpi2OVq0UdFONlcGtz8z70Vbb10fxg2EGgIjd1wXnwszee54BFREpxgCS2vBUNZz24QLUvSjwnLAE2BfqpEmXBM8tSeUUl0BWQQ_IEvPpTGQ2oSSe1WOi8TCcYjWld4i7M_AzFmaK_s2n74bAr0AUi3rGy7vxz8Bm2VariuppvtOoz3F1WPZF1d67eGuB2zChnvETjIP_V0A68pF04qP7QJK-BlLCR_ATPkqer3wUDy-id4EEW7f5qHeTj7KFQmCYBtLnfPTTQEKfAuk4hzeBRG8DaX0XSCR6D6QsH0m3-egCpF_hI_iLfJTgyjouWXLaLshdkmq_rXfikh9q1cWIiMCYvYbbadf0RjogX5LU3AufPN1cPmqO-QRLnXBvPmpsgz5ZZm4jTG0W8WGtry3_wVmFPjW32DIffCtwzK2-fFhZYUR9N3iYU2bg6cRiZ5iSlRM6dPWc85Y-FQo6H_E2KuEO79XlDUZGx6jXtnNd6Zj9EXhd1Acu0fgdXyTKWu43pENZnoTlMt_b7FvGZjGdu9a3AxZngdIoEeuPiiIOqh1Hp95-4eMqKckVrbwbNy389uK97brORu27nQia35yqMV4rANQUe9Ibb8qgXbOxWHiZ75LMAmGoVqR1oIchjnKejwU2FxUC-iqYEjagKBlcMNEpWyOgtnjWN5gLsK5ZwU7gKzwrpNmYG2aJr9SsnEfC_VqoFHPByheK_wB2AE9-",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Hbj2lXiczVXdkqo4EH6AfY71ZuaIv6hTRU0lARVFj_gzrnNDQcCAiFFAGb0777JX-0j7NBvwD2Z0Zs-52Nqu0tBJ093p7o_vx59LZ-X-_dtfdhiugyeOi6IoTyglSyuPqcfpwX6FuTldBj62nwO69bHlmAK2fepZuf1OKOdwIBRyliMseqOdHm6qqD7uugN5cKiUthtQyCUuBM3QA2vBIrwtAk7j2J_7e1lkSj7IW6v8dh68io2iOVbq-VKh2Mh_53SPGYD_TiSVwHjtAHTfiB1JX7uKHcgASilPMiDJCq9Ws-MxUpMjRO56g8eYw8RcZT9RO7Qjke2e6iPefZeFgBk1SnIBIEqyhMD5-jYpUU93Od_rk0pdrLNyqh697qR7nMk1IyTKqE2WhQYQugZJB2Nu7Ewal0phAuptCkUIJvfzZvXpyqDqAlW6dYW0qNJL5dI5ZdZiO5xJ2OAWOMNnS5FzsI2TBz-I5xmNGwXaHNu1xkQMv5vLAnXf9KYxKw3r9dd5vwc4bDC7JdVNy9RsrfCc6MVSsVpolGv1xwRIOLggKUgjaQC2xkixK84B5JU8LJ5hhI5NBx86JjEdyTcuBtHJNPOCdC7veRdeNoHazBjC0zmiQBqCbGu7g7iurbPKZvTAWpO2uEaNh_8jjI5CUsYMRkkiMj0Zpi2OVq0UdFONlcGtz8z70Vbb10fxg2EGgIjd1wXnwszee54BFREpxgCS2vBUNZz24QLUvSjwnLAE2BfqpEmXBM8tSeUUl0BWQQ_IEvPpTGQ2oSSe1WOi8TCcYjWld4i7M_AzFmaK_s2n74bAr0AUi3rGy7vxz8Bm2VariuppvtOoz3F1WPZF1d67eGuB2zChnvETjIP_V0A68pF04qP7QJK-BlLCR_ATPkqer3wUDy-id4EEW7f5qHeTj7KFQmCYBtLnfPTTQEKfAuk4hzeBRG8DaX0XSCR6D6QsH0m3-egCpF_hI_iLfJTgyjouWXLaLshdkmq_rXfikh9q1cWIiMCYvYbbadf0RjogX5LU3AufPN1cPmqO-QRLnXBvPmpsgz5ZZm4jTG0W8WGtry3_wVmFPjW32DIffCtwzK2-fFhZYUR9N3iYU2bg6cRiZ5iSlRM6dPWc85Y-FQo6H_E2KuEO79XlDUZGx6jXtnNd6Zj9EXhd1Acu0fgdXyTKWu43pENZnoTlMt_b7FvGZjGdu9a3AxZngdIoEeuPiiIOqh1Hp95-4eMqKckVrbwbNy389uK97brORu27nQia35yqMV4rANQUe9Ibb8qgXbOxWHiZ75LMAmGoVqR1oIchjnKejwU2FxUC-iqYEjagKBlcMNEpWyOgtnjWN5gLsK5ZwU7gKzwrpNmYG2aJr9SsnEfC_VqoFHPByheK_wB2AE9-"
+   "page_token": "NA6mDHiczZVdcuI4EIAPsOdYXhKwzT-pcqUk2wRBBmwIIfBCGdnIBmwRy8Fh3uYuW7V32tOsbP4MwcnMPGxtU-VGUqvVUutT__hr5frLf_742wnDNbsThCiKCoRSsrILmHqCybY-FuZ0xQLs3DP6FmDbtWTsBNSzc9uNXMphJos525VL1KuYdGDrnUEzqmO9VNPnZWOZS1zI05nJ7AVf4X3BhKnAP8s_SypvFFjBDArh936jB9dbkseFoig1Cj3B9LgB-A_F0AACkOudyhIFAO1rZ7GJAZTY10GIchraibrzF69Jko5O5pIongX5D3G3XPT6uB6JvIsejFqZsUCUboz30USJXwiTQH9ajq72635yUFnHpJ054JGcGWaf7cVl4GfVzwNNix18DAUBLb1r0Adgt3F1CVqkDhBGCvkk9ngC3sK2Ao7-s-QVOPrhCKPumJsLFuF3VxRmAVeS4GIHJ38CFl9p5akhUg2-LNC4avvqFG5ZyLrf8KJSn7_2hooh4Bm3W1HTsq2pMxXvk7ZUlCpio1Sr3yYsYXaEiaVhWg3BpuWW191vUaFfgNKBJOWYO-U8fI23FQQ-ClT2psqVQZLCIDXZVdKnNdxrfruTbKAo5UBDeqwfDh09AHmGcTqLhwVil9dIOjPak5RkFe00Ok0_mgzRydHZvYcR-CjnqUdAhYdJCO7Gor3fDyhA0F6mey9dob6xy8kaRHCYmPVSZ0kAUtBpb_AQscZPE8Lj1s_eFDdNj8sXdOL4yICbtQ3S4cakGcevJAHEVzyRDrrIcB9kCOGb7v_E63dF6NcmMTl7ZC4ISJPT1Aa9qeewtlR5zT-WEO6NlfnI6XbVUXSdFOrNfqHu4P8XS4eqNNxXpWyWtK9Zih_Lz6pS8jlVpcGOpU42S3Eo16pS-WCUqkoXAMDHFEtO8jhHWVXpV1mCn7CkfcoSvc7SMpMlFVyydF6VzlhKV6U9S79Tlda_WZUStOydOi9RbwuSXapYI2g3q-2ePnystMXiDOh5iVlK_vUBfFmq5l5455nW6nbqWnew2A631u2Ud9A728q9yiOHr3izNtd2cOP6YUCtN2xbN4HNXOvNXN34dhjRYMlu5pQbeCax-RimxHdDl_r3OW8VUFk0K2K5_q43GurDjNqu8tLSFE1zu0_LJvERGou1qAZhCY3cdXs0hg4YbZtFFevuSJ2HE-l9Yjw-BpO22Vn2dKlV83tNy3npPj9bncUoPzE6TpU0YWnx3X-phU9Umm5ntbXjP29Xm_rTW0BfJNJXtZKYRMPk8aS1GT1MyHhTznkBlnmyygR0DTAiAANlDAye46FJuY6A8VDliMMcw-bUZhsZS9VivTqrlc16tShZ85xHwu1aLks55gey9C-8207t",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NA6mDHiczZVdcuI4EIAPsOdYXhKwzT-pcqUk2wRBBmwIIfBCGdnIBmwRy8Fh3uYuW7V32tOsbP4MwcnMPGxtU-VGUqvVUutT__hr5frLf_742wnDNbsThCiKCoRSsrILmHqCybY-FuZ0xQLs3DP6FmDbtWTsBNSzc9uNXMphJos525VL1KuYdGDrnUEzqmO9VNPnZWOZS1zI05nJ7AVf4X3BhKnAP8s_SypvFFjBDArh936jB9dbkseFoig1Cj3B9LgB-A_F0AACkOudyhIFAO1rZ7GJAZTY10GIchraibrzF69Jko5O5pIongX5D3G3XPT6uB6JvIsejFqZsUCUboz30USJXwiTQH9ajq72635yUFnHpJ054JGcGWaf7cVl4GfVzwNNix18DAUBLb1r0Adgt3F1CVqkDhBGCvkk9ngC3sK2Ao7-s-QVOPrhCKPumJsLFuF3VxRmAVeS4GIHJ38CFl9p5akhUg2-LNC4avvqFG5ZyLrf8KJSn7_2hooh4Bm3W1HTsq2pMxXvk7ZUlCpio1Sr3yYsYXaEiaVhWg3BpuWW191vUaFfgNKBJOWYO-U8fI23FQQ-ClT2psqVQZLCIDXZVdKnNdxrfruTbKAo5UBDeqwfDh09AHmGcTqLhwVil9dIOjPak5RkFe00Ok0_mgzRydHZvYcR-CjnqUdAhYdJCO7Gor3fDyhA0F6mey9dob6xy8kaRHCYmPVSZ0kAUtBpb_AQscZPE8Lj1s_eFDdNj8sXdOL4yICbtQ3S4cakGcevJAHEVzyRDrrIcB9kCOGb7v_E63dF6NcmMTl7ZC4ISJPT1Aa9qeewtlR5zT-WEO6NlfnI6XbVUXSdFOrNfqHu4P8XS4eqNNxXpWyWtK9Zih_Lz6pS8jlVpcGOpU42S3Eo16pS-WCUqkoXAMDHFEtO8jhHWVXpV1mCn7CkfcoSvc7SMpMlFVyydF6VzlhKV6U9S79Tlda_WZUStOydOi9RbwuSXapYI2g3q-2ePnystMXiDOh5iVlK_vUBfFmq5l5455nW6nbqWnew2A631u2Ud9A728q9yiOHr3izNtd2cOP6YUCtN2xbN4HNXOvNXN34dhjRYMlu5pQbeCax-RimxHdDl_r3OW8VUFk0K2K5_q43GurDjNqu8tLSFE1zu0_LJvERGou1qAZhCY3cdXs0hg4YbZtFFevuSJ2HE-l9Yjw-BpO22Vn2dKlV83tNy3npPj9bncUoPzE6TpU0YWnx3X-phU9Umm5ntbXjP29Xm_rTW0BfJNJXtZKYRMPk8aS1GT1MyHhTznkBlnmyygR0DTAiAANlDAye46FJuY6A8VDliMMcw-bUZhsZS9VivTqrlc16tShZ85xHwu1aLks55gey9C-8207t"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmxSNTVHZVZiV1JYTG9RSFpxX2lScDRtX29LTk1fSEVNOGRRU2JPcWZaUEVOaWs4ZEtZOGJwbG1EYjlkeEZ4dnRSaVZibXpqdDMyVnF1V3R3d2xoOUo5enlRbWJSdmQza05Nem1ubVhFWkJfckdHdUgzajNhWTc5RkpNM0ZZZHltS1h2alE3c1Vwbjc1OFESBBoCCAAazwsSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCpCwgAEAAYACAAKi0KBXdoaWNoFaovWj4aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIV28F7PRoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVAAAAABoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBVWA5xAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVZj2BQBoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRUERgBAGgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhUgO-s_Gg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWbFI1NUdlVmJXUlhMb1FIWnFfaVJwNG1fb0tOTV9IRU04ZFFTYk9xZlpQRU5pazhkS1k4YnBsbURiOWR4Rnh2dFJpVmJtemp0MzJWcXVXdHd3bGg5Sjl6eVFtYlJ2ZDNrTk16bW5tWEVaQl9yR0d1SDNqM2FZNzlGSk0zRllkeW1LWHZqUTdzVXBuNzU4UTpDRGVlcCA8Yj5SZXNpZHVhbDwvYj4gTGVhcm5pbmcgZm9yIDxiPkltYWdlIFJlY29nbml0aW9uPC9iPiAtIEdpdEh1YkKyATxiPlB5dGhvbiBpbXBsZW1lbnRhdGlvbiBvZiAmcXVvdDtEZWVwIFJlc2lkdWFsIExlYXJuaW5nIGZvciBJbWFnZSBSZWNvZ25pdGlvbjwvYj4mcXVvdDsgKGh0dHA6Ly9hcnhpdi5vcmcvYWJzLzE1MTIuMDMzODUgLSBNU1JBLCB3aW5uZXIgdGVhbSBvZiB0aGUgMjAxNSBJTFNWUkMgYW5kIENPQ08mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmxSNTVHZVZiV1JYTG9RSFpxX2lScDRtX29LTk1fSEVNOGRRU2JPcWZaUEVOaWs4ZEtZOGJwbG1EYjlkeEZ4dnRSaVZibXpqdDMyVnF1V3R3d2xoOUo5enlRbWJSdmQza05Nem1ubVhFWkJfckdHdUgzajNhWTc5RkpNM0ZZZHltS1h2alE3c1Vwbjc1OFESBBoCCAAazwsSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCpCwgAEAAYACAAKi0KBXdoaWNoFaovWj4aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIV28F7PRoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVAAAAABoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBVWA5xAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVZj2BQBoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRUERgBAGgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhUgO-s_Gg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWbFI1NUdlVmJXUlhMb1FIWnFfaVJwNG1fb0tOTV9IRU04ZFFTYk9xZlpQRU5pazhkS1k4YnBsbURiOWR4Rnh2dFJpVmJtemp0MzJWcXVXdHd3bGg5Sjl6eVFtYlJ2ZDNrTk16bW5tWEVaQl9yR0d1SDNqM2FZNzlGSk0zRllkeW1LWHZqUTdzVXBuNzU4UTpDRGVlcCA8Yj5SZXNpZHVhbDwvYj4gTGVhcm5pbmcgZm9yIDxiPkltYWdlIFJlY29nbml0aW9uPC9iPiAtIEdpdEh1YkKyATxiPlB5dGhvbiBpbXBsZW1lbnRhdGlvbiBvZiAmcXVvdDtEZWVwIFJlc2lkdWFsIExlYXJuaW5nIGZvciBJbWFnZSBSZWNvZ25pdGlvbjwvYj4mcXVvdDsgKGh0dHA6Ly9hcnhpdi5vcmcvYWJzLzE1MTIuMDMzODUgLSBNU1JBLCB3aW5uZXIgdGVhbSBvZiB0aGUgMjAxNSBJTFNWUkMgYW5kIENPQ08mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "Abstract page for arXiv paper 1512.03385: Deep Residual Learning for Image Recognition.",
-      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
-      "source_info_link": "https://arxiv.org/abs/1512.03385"
-     }
-    },
-    "author": "by K He",
-    "displayed_link": "https://arxiv.org › abs",
-    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
-    "link": "https://arxiv.org/abs/1512.03385",
-    "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVyiKnfNQqrbVs1C2Nc4EQSIh8WLPwq_znINpaGK9U_h96p8wEdlnisvo0YInIaxw7C04lDiIzqpeVOk5eP-iYlFaX29vs3yhyViyXOiTHbQJL4qU&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQFnoECCkQAQ&uoh=1",
-    "snippet": "Abstract page for arXiv paper 1512.03385: Deep Residual Learning for Image Recognition.",
-    "snippet_highlighted_words": [
-     "arXiv paper 1512.03385"
-    ],
-    "source": "arXiv.org",
-    "title": "[1512.03385] Deep Residual Learning for Image Recognition"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Deep residual nets are foundations of our submissions to ILSVRC. & COCO 2015 competitions1, where we also won the 1st places on the tasks of ImageNet detection, ...",
-      "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAACQBQCdASocABwAPtE-tFooIigoFAEAGglkAK49PTq8U9QX-zocF_3dqgRQwKW0IpOQrf5RIAD-9gNK8NcJF4mHFlkOL9Ojeoy_qKQAKpJg4N_p7oVY7LCf9umZTbbjSwKgDAlyZDd2Z0rGuc562aj2J_Jpkam3mr5eKqFfIQIpHPyijvECdPAc5VDbH0v_6Mu6HD-R4v6N0pXywuJWVOw07IY2xlCSaJEfJGRbmvqmYCT3o6bZoP3G4JcvOkej1zZ-XxzX3Jy3l-sKbtvJOdwmvPuhhvu9U0cqFn5L3NtW_NCivKaAciHQE4cwAA.webp",
-      "source_info_link": "https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf"
-     }
-    },
-    "author": "by K He",
-    "displayed_link": "https://www.cv-foundation.org › papers › He_De...",
-    "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAACQBQCdASocABwAPtE-tFooIigoFAEAGglkAK49PTq8U9QX-zocF_3dqgRQwKW0IpOQrf5RIAD-9gNK8NcJF4mHFlkOL9Ojeoy_qKQAKpJg4N_p7oVY7LCf9umZTbbjSwKgDAlyZDd2Z0rGuc562aj2J_Jpkam3mr5eKqFfIQIpHPyijvECdPAc5VDbH0v_6Mu6HD-R4v6N0pXywuJWVOw07IY2xlCSaJEfJGRbmvqmYCT3o6bZoP3G4JcvOkej1zZ-XxzX3Jy3l-sKbtvJOdwmvPuhhvu9U0cqFn5L3NtW_NCivKaAciHQE4cwAA.webp",
-    "link": "https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf",
-    "position": 2,
-    "read_more_link": "https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf#:~:text=Deep,of%20ImageNet%20detection%2C%20ImageNet%20local%2D",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFcAw-JJDStz9dvXNQhTARp8Nk_EW6pCfXqSXakq51BDXblvHN9zv9wIFcJKazfWOB5vvo7PmVKW3DtVtk5XCZ8W0MwvwPtCxtU2lRTkh7RHYoiyXetAe0LtT84xilonzuFO_9S7BNNWk9vu1AvgRp8ytMJl_Do95cyakp_0DjXOPhiJbPiuYfPzEJX7DRPXiOms0uWeFLuk_pVlE7IpP-7T4fg&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQFnoECCIQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "pages": 9
-      },
-      "extensions": [
-       "9 pages"
-      ]
-     }
-    },
-    "snippet": "Deep residual nets are foundations of our submissions to ILSVRC. & COCO 2015 competitions1, where we also won the 1st places on the tasks of ImageNet detection, ...",
-    "snippet_highlighted_words": [
-     "residual nets"
-    ],
-    "source": "The Computer Vision Foundation",
-    "title": "Deep Residual Learning for Image Recognition"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "The ResNet model introduced in [4] is our starting point for the network design. This model is specifically de- signed for images in ImageNet and accepts images ...",
-      "source_info_link": "https://cs231n.stanford.edu/reports/2016/pdfs/264_Report.pdf"
-     }
-    },
-    "author": "by MS Ebrahimi",
-    "displayed_link": "https://cs231n.stanford.edu › pdfs › 264_Report",
-    "link": "https://cs231n.stanford.edu/reports/2016/pdfs/264_Report.pdf",
-    "position": 3,
-    "read_more_link": "https://cs231n.stanford.edu/reports/2016/pdfs/264_Report.pdf#:~:text=The%20ResNet%20model%20introduced%20in,and%20accepts%20images%20with%20size",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVCVi8cNPTtHlWVAgnABYkCFAnAWGDWwK6ThaSnZnFtV98btZaublJs_YmwD4VwPrVqYTAXucmExOIwmrU1ol5TwBmgDzD1GxwTYvaCJWzaD4uR85TswgWl0b-0iotb4D4oBUNM6hnAsKxVRjFezom&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQFnoECCgQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "pages": 6
-      },
-      "extensions": [
-       "6 pages"
-      ]
-     }
-    },
-    "snippet": "The ResNet model introduced in [4] is our starting point for the network design. This model is specifically de- signed for images in ImageNet and accepts images ...",
-    "snippet_highlighted_words": [
-     "introduced",
-     "network"
-    ],
-    "source": "Stanford CS231n: Deep Learning for Computer Vision",
-    "title": "Study of Residual Networks for Image Recognition - CS231n"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "ResNets, or Residual Networks, are a type of deep learning model that was introduced by Kaiming He and his team at Microsoft Research in ...",
-      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
-      "source_info_link": "https://medium.com/@christoschr97/resnets-residual-networks-a-brief-about-08b6fe17ef1e"
-     }
-    },
-    "displayed_link": "1 year ago",
-    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
-    "link": "https://medium.com/@christoschr97/resnets-residual-networks-a-brief-about-08b6fe17ef1e",
-    "position": 4,
-    "read_more_link": "https://medium.com/@christoschr97/resnets-residual-networks-a-brief-about-08b6fe17ef1e#:~:text=ResNets%2C%20or%20Residual%20Networks%2C%20are,at%20Microsoft%20Research%20in%202015.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFTCPuj73lsyn2Nuy9Ir0LaZ8XkOvl0fOH9cP9ULkcLidWMjelowAmyYQIh3kaaDeREap_eTQENNhHDwmihix_ai4QDSoUy6389nDdgE7q4MZoQM1Ex6VFMNJc8SoC_4F6lB-n0paP8lixQdlPR9HsvleZoXXFz_BlriZxNWIO3qib6rYQdvgOuJX&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQFnoECCwQAQ&uoh=1",
-    "snippet": "ResNets, or Residual Networks, are a type of deep learning model that was introduced by Kaiming He and his team at Microsoft Research in ...",
-    "snippet_highlighted_words": [
-     "Residual Networks",
-     "introduced"
-    ],
-    "source": "Medium · christoschr97",
-    "title": "ResNets — Residual Networks: A brief about the paper"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Sepp Hochreiter introduced residual connections for recurrent NNs (RNNs) in a diploma thesis (June 1991) supervised by Jürgen Schmidhuber, at a time when ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAAVklEQVR4AWPg9f5CDGKw_X750vFTxIERauiooaOGjhrK4_uHGMRg___W9SMXLxwnBjGIqmsSg8SUGYDmAt1LFBLTciYKqWsB3UtkWI1MQ0cNHTV01FAAl24tUrx3hl0AAAAASUVORK5CYII.png",
-      "source_info_link": "https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html"
-     }
-    },
-    "author": "by J Schmidhuber",
-    "displayed_link": "https://people.idsia.ch › ~juergen › who-invented-resid...",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAAVklEQVR4AWPg9f5CDGKw_X750vFTxIERauiooaOGjhrK4_uHGMRg___W9SMXLxwnBjGIqmsSg8SUGYDmAt1LFBLTciYKqWsB3UtkWI1MQ0cNHTV01FAAl24tUrx3hl0AAAAASUVORK5CYII.png",
-    "link": "https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html",
-    "position": 5,
-    "read_more_link": "https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html#:~:text=Sepp%20Hochreiter%20introduced%20residual%20connections,more%20expensive%20than%20today%20(2025).",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFdrWDUs35xNXrpv4y9pFygaM22CryFxWLUs4IETXLAkcn5FRjWPr7ff15s69BpS2PaWvMppPOdFQwAZqtESE3ooOsWtU6iNcyMQCgVK6R8uUlYrekdSC7tbMC6xdNS2V5NbkdweCqr8B0DJZQ6uJp738amktrDHZYy-fXENBVA&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQFnoECCMQAQ&uoh=1",
-    "snippet": "Sepp Hochreiter introduced residual connections for recurrent NNs (RNNs) in a diploma thesis (June 1991) supervised by Jürgen Schmidhuber, at a time when ...",
-    "snippet_highlighted_words": [
-     "introduced residual"
-    ],
-    "source": "Dalle Molle Institute for Artificial Intelligence",
-    "title": "Who Invented Deep Residual Learning?"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "Microsoft Research introduced Residual Networks (ResNets), an architecture that solves the degradation problem in very deep neural networks by reformulating ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEX____-_PzQnp64Y2PGh4fw4uLp1NTu3d379_epMzOjFhamJyegAADiw8OhCwuwTU2rOzvbt7f06upUN5YCAAAAE3RSTlP__fz9_fz7-_z8____-f_8_Pr9fs9ZgwAAAH5JREFUeAHdzkUSBDEIBVDiCRC9_13HWklNr0f-jnoY_GGUNtZthQ_CYkIkzksRSgnCiHR96GLUojB0AA_ti6nZooLK-r1Bqwq6MLHTw2zQ-cIWDdJMFizMFhbaETd7dQq1aA-bVGms0S-2qIEjgwnxMJAPeypsFFxlRPj-3AG4cwbyFcwCFAAAAABJRU5ErkJggg.png",
-      "source_info_link": "https://www.alphaxiv.org/abs/1512.03385"
-     }
-    },
-    "displayed_link": "https://www.alphaxiv.org › abs",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEX____-_PzQnp64Y2PGh4fw4uLp1NTu3d379_epMzOjFhamJyegAADiw8OhCwuwTU2rOzvbt7f06upUN5YCAAAAE3RSTlP__fz9_fz7-_z8____-f_8_Pr9fs9ZgwAAAH5JREFUeAHdzkUSBDEIBVDiCRC9_13HWklNr0f-jnoY_GGUNtZthQ_CYkIkzksRSgnCiHR96GLUojB0AA_ti6nZooLK-r1Bqwq6MLHTw2zQ-cIWDdJMFizMFhbaETd7dQq1aA-bVGms0S-2qIEjgwnxMJAPeypsFFxlRPj-3AG4cwbyFcwCFAAAAABJRU5ErkJggg.png",
-    "link": "https://www.alphaxiv.org/abs/1512.03385",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVnv6NURURK98Dd7cHRyutFIJBsKb71URYgmIwxj2VBm1jqa0MMAO7741oGsUabVfI5_kcBFLFZTfzZ_1lapcAhM5-CkI6wl5q82vUuYD3wQfjML_HbPvhHSXK&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQFnoECEkQAQ&uoh=1",
-    "snippet": "Microsoft Research introduced Residual Networks (ResNets), an architecture that solves the degradation problem in very deep neural networks by reformulating ...",
-    "snippet_highlighted_words": [
-     "Microsoft Research"
-    ],
-    "source": "alphaXiv",
-    "title": "Deep Residual Learning for Image Recognition"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "It was developed in 2015 for image recognition, and won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) of that year. A residual block in ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Residual_neural_network"
-     }
-    },
-    "displayed_link": "https://en.wikipedia.org › wiki › Residual_neural_netw...",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Residual_neural_network",
-    "position": 7,
-    "read_more_link": "https://en.wikipedia.org/wiki/Residual_neural_network#:~:text=It%20was%20developed%20in%202015,in%20a%20deep%20residual%20network.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAV_EGYF9Jl1dEGocQXWqRmzBtvTVHCXjfHp-0dxENsPVERWrbgS7Gohqn4oGgifI_5q8fXTlR-5Psh_maTQzzUTOY6GhaYDLNzvvV5gH3yxxmTq2N65sTSSyng_kIPrlT46E8b3QGwgEo&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQFnoECE8QAQ&uoh=1",
-    "snippet": "It was developed in 2015 for image recognition, and won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) of that year. A residual block in ...",
-    "snippet_highlighted_words": [
-     "image recognition",
-     "residual"
-    ],
-    "source": "Wikipedia",
-    "title": "Residual neural network"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
-     "source": {
-      "description": "This repository contains the original models (ResNet-50, ResNet-101, and ResNet-152) described in the paper \"Deep Residual Learning for ...",
+      "description": "Python implementation of \"Deep Residual Learning for Image Recognition\" (http://arxiv.org/abs/1512.03385 - MSRA, winner team of the 2015 ILSVRC and COCO ...",
       "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASogACAAPtE-tFooIigoFAEAGglpABOY66msBQAhm_jie7on_u43Y8wznTq3o6RYivaXQwLqgtFvGxqSxD0AAP79L-I2CJh157_guzOImTEj4KETbf3LoXG53uwsqC7TNrPYvnj0JCbHaYHsiJ0dZxjZp00AIDh71pmydvV9rbfX7pBwD6xKTC28fi7cmmnaetDkFUKtNDh1oyUvgEJ5B0Jos2E3N5Wf9ywcn5v3_j66N4LrWwMgFUK8OJeK59_R9U8Iq0vdjaoGaiwCdWiWFqTkHXGL7cy9_twJalsMPdZeuuD4BKfDlkDiZPTQbYNs-KpL44LixNJqixiQZYn6Pg05yAzQrotV5msFHgGjybbpLCJP2Jxb24id-1ooSLAITw21MsGq7M_mh1A1SG77Y3rdqY4h760MO7-2OyFmK97IagzfP7hUwAAA.webp",
-      "source_info_link": "https://github.com/kaiminghe/deep-residual-networks"
+      "source_info_link": "https://github.com/dnlcrl/deep-residual-networks-pyfunt"
      }
     },
-    "date": "Feb 3, 2016",
-    "displayed_link": "https://github.com › kaiminghe › deep-residual-networks",
+    "displayed_link": "https://github.com › dnlcrl › deep-res...",
     "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASogACAAPtE-tFooIigoFAEAGglpABOY66msBQAhm_jie7on_u43Y8wznTq3o6RYivaXQwLqgtFvGxqSxD0AAP79L-I2CJh157_guzOImTEj4KETbf3LoXG53uwsqC7TNrPYvnj0JCbHaYHsiJ0dZxjZp00AIDh71pmydvV9rbfX7pBwD6xKTC28fi7cmmnaetDkFUKtNDh1oyUvgEJ5B0Jos2E3N5Wf9ywcn5v3_j66N4LrWwMgFUK8OJeK59_R9U8Iq0vdjaoGaiwCdWiWFqTkHXGL7cy9_twJalsMPdZeuuD4BKfDlkDiZPTQbYNs-KpL44LixNJqixiQZYn6Pg05yAzQrotV5msFHgGjybbpLCJP2Jxb24id-1ooSLAITw21MsGq7M_mh1A1SG77Y3rdqY4h760MO7-2OyFmK97IagzfP7hUwAAA.webp",
-    "link": "https://github.com/kaiminghe/deep-residual-networks",
-    "position": 8,
-    "read_more_link": "https://github.com/kaiminghe/deep-residual-networks#:~:text=This%20repository%20contains%20the%20original,Learning%20for%20Image%20Recognition%22%20(http%3A%2F%2Farxiv.org%2Fabs%2F1512.03385).",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVBp2yHieESv5pN43fjiAIabNx2P3skxqIIggskGRfR8pa-3WSQallW9AcQGLbqYL1xLIJ49OTn0klxD-xMAI_pO5iQhYRcKlgLTtVmq77gQljeITKHXkluNtItq0JYN0ECU2-6UAq&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQFnoECEoQAQ&uoh=1",
-    "snippet": "This repository contains the original models (ResNet-50, ResNet-101, and ResNet-152) described in the paper \"Deep Residual Learning for ...",
+    "link": "https://github.com/dnlcrl/deep-residual-networks-pyfunt",
+    "position": 1,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVlR55GeVbWRXLoQHZq_iRp4m_oKNM_HEM8dQSbOqfZPENik8dKY8bplmDb9dxFxvtRiVbmzjt32VquWtwwlh9J9zyQmbRvd3kNMzmnmXEZB_rGGuH3j3aY79FJM3FYdymKXvjQ7sUpn758Q&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQFnoECB8QAQ&uoh=1",
+    "snippet": "Python implementation of \"Deep Residual Learning for Image Recognition\" (http://arxiv.org/abs/1512.03385 - MSRA, winner team of the 2015 ILSVRC and COCO ...",
     "snippet_highlighted_words": [
-     "paper",
-     "Residual"
+     "Python implementation of \"Deep Residual Learning for Image Recognition"
     ],
     "source": "GitHub",
-    "title": "KaimingHe/deep-residual-networks"
+    "title": "Deep Residual Learning for Image Recognition"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkZucUpJbHZ1VnhtejlNZlRmOTV5Y2hfb3VaVVB1cEJHVWQ1QTR4OHZhS2pnejRTTWk3VXkxclUyOG50RXZXUkQ1WnVPbzJ5TDB0V1V6RnJwR3dUc1ZfYXB0SlBpbFpFZDVtdVNtOE52TDdianBDM2hHWnBnT1ZBWGhJRWtEaVNlY0lybzA5MkF0bkRZVGt6NjVhTlBqdjQSBBoCCAAauwsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAlwsIABAAGAAgACotCgV3aGljaBXXA1Y_GgbZiNmK2LQaCml2O2Q7d2hpY2gaC2l2O2Q72YjZiti0KlsKBXBhcGVyFRNJ6z8aBnBhcGVycxoI2KjYp9io2LEaBtmI2LHZghoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMaDWl2O2Q72KjYp9io2LEaC2l2O2Q72YjYsdmCKqgCCgppbnRyb2R1Y2VkFScpiT8aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGgbYudix2LYaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZBoLaXY7ZDvYudix2LYqZAoIcmVzaWR1YWwVs6N7QBoJcmVzaWR1YWxzGhDYp9mE2YXYqtio2YLZitipGhByZXNpZHVhbG5ldHdvcmtzGg1pdjtkO3Jlc2lkdWFsGhVpdjtkO9in2YTZhdiq2KjZgtmK2YcqqwEKCG5ldHdvcmtzFYWqJ0AaBG5ldHMaB25ldHdvcmsaCti02KjZg9in2KoaCNi02KjZg9ipGgzZhtiq2YjYsdmD2LMaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7bmV0d29ya3MaDWl2O2Q7bGVhcm5pbmcaCWl2O2Q7bmV0cxoMaXY7ZDtuZXR3b3JrGg9pdjtkO9i02KjZg9in2KoaDWl2O2Q72LTYqNmD2YcqCgoDZm9yFQAAAAAqdQoFaW1hZ2UVyq1IQBoHcGljdHVyZRoI2KfZhdin2KwaEGltYWdlcmVjb2duaXRpb24aCml2O2Q7aW1hZ2UaC2l2O2Q7aW1hZ2VzGgxpdjtkO3BhdHRlcm4aDGl2O2Q7cGljdHVyZRoNaXY7ZDvYp9mF2KfYrCqqAQoLcmVjb2duaXRpb24VU2o6QBoOaWRlbnRpZmljYXRpb24aENin2YTYp9i52KrYsdin2YEaEGltYWdlcmVjb2duaXRpb24aEGl2O2Q7cmVjb2duaXRpb24aE2l2O2Q7Y2xhc3NpZmljYXRpb24aE2l2O2Q7aWRlbnRpZmljYXRpb24aD2l2O2Q7cHJvY2Vzc2luZxoVaXY7ZDvYp9mE2KfYudiq2LHYp9mBMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkZucUpJbHZ1VnhtejlNZlRmOTV5Y2hfb3VaVVB1cEJHVWQ1QTR4OHZhS2pnejRTTWk3VXkxclUyOG50RXZXUkQ1WnVPbzJ5TDB0V1V6RnJwR3dUc1ZfYXB0SlBpbFpFZDVtdVNtOE52TDdianBDM2hHWnBnT1ZBWGhJRWtEaVNlY0lybzA5MkF0bkRZVGt6NjVhTlBqdjQ6N0V4cGxhaW4gUmVzTmV0IEFyY2hpdGVjdHVyZSBhbmQgSXRzIFZhcmlhbnRzIC0gQUlNTC5jb21CowFSZXNOZXQgKDxiPlJlc2lkdWFsIE5ldHdvcms8L2I-KSBpcyBhIGNvbnZvbHV0aW9uYWwgbmV1cmFsIG5ldHdvcmsgYXJjaGl0ZWN0dXJlIDxiPmludHJvZHVjZWQ8L2I-IGJ5IEthaW1pbmcgSGUgZXQgYWwuIGF0IE1pY3Jvc29mdCBSZXNlYXJjaCBpbiB0aGVpciAyMDE1Jm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkZucUpJbHZ1VnhtejlNZlRmOTV5Y2hfb3VaVVB1cEJHVWQ1QTR4OHZhS2pnejRTTWk3VXkxclUyOG50RXZXUkQ1WnVPbzJ5TDB0V1V6RnJwR3dUc1ZfYXB0SlBpbFpFZDVtdVNtOE52TDdianBDM2hHWnBnT1ZBWGhJRWtEaVNlY0lybzA5MkF0bkRZVGt6NjVhTlBqdjQSBBoCCAAauwsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAlwsIABAAGAAgACotCgV3aGljaBXXA1Y_GgbZiNmK2LQaCml2O2Q7d2hpY2gaC2l2O2Q72YjZiti0KlsKBXBhcGVyFRNJ6z8aBnBhcGVycxoI2KjYp9io2LEaBtmI2LHZghoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMaDWl2O2Q72KjYp9io2LEaC2l2O2Q72YjYsdmCKqgCCgppbnRyb2R1Y2VkFScpiT8aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGgbYudix2LYaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZBoLaXY7ZDvYudix2LYqZAoIcmVzaWR1YWwVs6N7QBoJcmVzaWR1YWxzGhDYp9mE2YXYqtio2YLZitipGhByZXNpZHVhbG5ldHdvcmtzGg1pdjtkO3Jlc2lkdWFsGhVpdjtkO9in2YTZhdiq2KjZgtmK2YcqqwEKCG5ldHdvcmtzFYWqJ0AaBG5ldHMaB25ldHdvcmsaCti02KjZg9in2KoaCNi02KjZg9ipGgzZhtiq2YjYsdmD2LMaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7bmV0d29ya3MaDWl2O2Q7bGVhcm5pbmcaCWl2O2Q7bmV0cxoMaXY7ZDtuZXR3b3JrGg9pdjtkO9i02KjZg9in2KoaDWl2O2Q72LTYqNmD2YcqCgoDZm9yFQAAAAAqdQoFaW1hZ2UVyq1IQBoHcGljdHVyZRoI2KfZhdin2KwaEGltYWdlcmVjb2duaXRpb24aCml2O2Q7aW1hZ2UaC2l2O2Q7aW1hZ2VzGgxpdjtkO3BhdHRlcm4aDGl2O2Q7cGljdHVyZRoNaXY7ZDvYp9mF2KfYrCqqAQoLcmVjb2duaXRpb24VU2o6QBoOaWRlbnRpZmljYXRpb24aENin2YTYp9i52KrYsdin2YEaEGltYWdlcmVjb2duaXRpb24aEGl2O2Q7cmVjb2duaXRpb24aE2l2O2Q7Y2xhc3NpZmljYXRpb24aE2l2O2Q7aWRlbnRpZmljYXRpb24aD2l2O2Q7cHJvY2Vzc2luZxoVaXY7ZDvYp9mE2KfYudiq2LHYp9mBMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkZucUpJbHZ1VnhtejlNZlRmOTV5Y2hfb3VaVVB1cEJHVWQ1QTR4OHZhS2pnejRTTWk3VXkxclUyOG50RXZXUkQ1WnVPbzJ5TDB0V1V6RnJwR3dUc1ZfYXB0SlBpbFpFZDVtdVNtOE52TDdianBDM2hHWnBnT1ZBWGhJRWtEaVNlY0lybzA5MkF0bkRZVGt6NjVhTlBqdjQ6N0V4cGxhaW4gUmVzTmV0IEFyY2hpdGVjdHVyZSBhbmQgSXRzIFZhcmlhbnRzIC0gQUlNTC5jb21CowFSZXNOZXQgKDxiPlJlc2lkdWFsIE5ldHdvcms8L2I-KSBpcyBhIGNvbnZvbHV0aW9uYWwgbmV1cmFsIG5ldHdvcmsgYXJjaGl0ZWN0dXJlIDxiPmludHJvZHVjZWQ8L2I-IGJ5IEthaW1pbmcgSGUgZXQgYWwuIGF0IE1pY3Jvc29mdCBSZXNlYXJjaCBpbiB0aGVpciAyMDE1Jm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "ar"
      ],
      "regions": [
-      "US"
+      "AE"
      ],
      "source": {
-      "description": "The introduction of deep neural networks has opened up many breakthroughs in several areas, such as image classification, image recognition, ...",
-      "icon": "https://serpapi.com/images/i/UklGRuIBAABXRUJQVlA4INYBAAAQCQCdASogACAAPtEutFooIagoGAEAGglsALElQToLcO2BGAlk3eHvKMuwL41PMO1Vp2_n6Z1uYAtPYN-yR-VeUJ0I08Cz3Cd5_TFV5ts_HgAA_v7CyVjGNYTYjy0C5_fY8T6XqYN9QYTe9V69XzvIju4PCDWX_uOcawInV-aQVXfj_sj-qOPs0irscx8yupn0kNCrxdkh_-b8lTh7u-Xqov9K3IgoXnVrH8xBuXkBu93NUV_Q9wy9MPOLjY89rHA62Nwt76F0_4nQsSB-v2N1X_gdn9wiHn9Se7f9XMwdvxtpsfH0hcxKGmwYad6P4ClbflnffckeSEQtccEwbYEXx6XLOIScV4v9p_wyRT9QHXSqn-_7-6BLeElBB8Iq2svFt9hiEaa5XN_rv7UHc8of8X1057jypjc1AKfIvHCBKM8Yz5jLBXetLR89PiAVVdZY8oLYNsiqbv4Z_vuq84w_wM3K_L0mfet68XQn4b2uHiv8Teop-YeegMXtab0fHZEEMAMd0pOBaK4RbYHOxhQu2gS7c-X1axJPQNANu2zUDBBb5hB-_AYK5IbrmCFg7LTD_edijEzk0FGI0Iza0V-7M8N709vY31Clfg5pB7rAHX9sWwAAAA.webp",
-      "source_info_link": "https://zilliz.com/learn/deep-residual-learning-for-image-recognition"
+      "description": "ResNet (Residual Network) is a convolutional neural network architecture introduced by Kaiming He et al. at Microsoft Research in their 2015 ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwICAgAAAAGBgYCAgIAAAABAQEEBAQDAwMAAAAAAAACAgIBAQEDAwMBAQEAAAACAgICAgIW84oAAAAAEnRSTlMAD-EfZ_9gO3uiV8bvULTWlovSma9JAAAAzElEQVR4AaTJRYIEMQwDQCW2wtT__-x6mNKnVcBQeMThPPC3IkrSh0-LTLglkwWfqWynKCT7GY5EzhN0FY2UPa6IRI49TgAk3Q7V11obeezQw-JIbrCva6mk3rC_TJiv9SApgCfzC7UEtVJCKUVFrYSA_6enlASwWKOi9gf31IOssCjprTROvJJMxeoYrFYmxzsKuYCoW3SLBDLqDsWRinWCqPT2n2AkKz5R4gPRGL_wEDyKEi-0H8Kr9TmiKVzw3gdR-0cezf-NQMACAFqDCDj6Gh6AAAAAAElFTkSuQmCC.png",
+      "source_info_link": "https://aiml.com/explain-resnet-architecture-and-its-variants/"
      }
     },
-    "date": "Sep 24, 2024",
-    "displayed_link": "https://zilliz.com › learn › deep-residual-learning-for-i...",
-    "favicon": "https://serpapi.com/images/i/UklGRuIBAABXRUJQVlA4INYBAAAQCQCdASogACAAPtEutFooIagoGAEAGglsALElQToLcO2BGAlk3eHvKMuwL41PMO1Vp2_n6Z1uYAtPYN-yR-VeUJ0I08Cz3Cd5_TFV5ts_HgAA_v7CyVjGNYTYjy0C5_fY8T6XqYN9QYTe9V69XzvIju4PCDWX_uOcawInV-aQVXfj_sj-qOPs0irscx8yupn0kNCrxdkh_-b8lTh7u-Xqov9K3IgoXnVrH8xBuXkBu93NUV_Q9wy9MPOLjY89rHA62Nwt76F0_4nQsSB-v2N1X_gdn9wiHn9Se7f9XMwdvxtpsfH0hcxKGmwYad6P4ClbflnffckeSEQtccEwbYEXx6XLOIScV4v9p_wyRT9QHXSqn-_7-6BLeElBB8Iq2svFt9hiEaa5XN_rv7UHc8of8X1057jypjc1AKfIvHCBKM8Yz5jLBXetLR89PiAVVdZY8oLYNsiqbv4Z_vuq84w_wM3K_L0mfet68XQn4b2uHiv8Teop-YeegMXtab0fHZEEMAMd0pOBaK4RbYHOxhQu2gS7c-X1axJPQNANu2zUDBBb5hB-_AYK5IbrmCFg7LTD_edijEzk0FGI0Iza0V-7M8N709vY31Clfg5pB7rAHX9sWwAAAA.webp",
-    "link": "https://zilliz.com/learn/deep-residual-learning-for-image-recognition",
-    "position": 9,
-    "read_more_link": "https://zilliz.com/learn/deep-residual-learning-for-image-recognition#:~:text=The%20introduction%20of%20deep%20neural,as%20image%20classification%2C%20image%20recognition%2C",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVyPe074EA8YeM98AC378IYM4vOlLMUrO0m3Tv5lhbknTOofe6pzm_rZdydZLBVVUQB1AeyWAc5AWcTHi-5E91PrCQASkWUBVSJOrrOzcB2M7TR0xGM-eLkT4-6QdcP9cyZLk0_EpcP3tG37E1XMb-MkAq5XjpcWZP&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQFnoECEsQAQ&uoh=1",
-    "snippet": "The introduction of deep neural networks has opened up many breakthroughs in several areas, such as image classification, image recognition, ...",
+    "date": "24‏/01‏/2026",
+    "displayed_link": "https://aiml.com › explain-resnet-arc...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwICAgAAAAGBgYCAgIAAAABAQEEBAQDAwMAAAAAAAACAgIBAQEDAwMBAQEAAAACAgICAgIW84oAAAAAEnRSTlMAD-EfZ_9gO3uiV8bvULTWlovSma9JAAAAzElEQVR4AaTJRYIEMQwDQCW2wtT__-x6mNKnVcBQeMThPPC3IkrSh0-LTLglkwWfqWynKCT7GY5EzhN0FY2UPa6IRI49TgAk3Q7V11obeezQw-JIbrCva6mk3rC_TJiv9SApgCfzC7UEtVJCKUVFrYSA_6enlASwWKOi9gf31IOssCjprTROvJJMxeoYrFYmxzsKuYCoW3SLBDLqDsWRinWCqPT2n2AkKz5R4gPRGL_wEDyKEi-0H8Kr9TmiKVzw3gdR-0cezf-NQMACAFqDCDj6Gh6AAAAAAElFTkSuQmCC.png",
+    "link": "https://aiml.com/explain-resnet-architecture-and-its-variants/",
+    "position": 2,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVFnqJIlvuVxmz9MfTf95ych_ouZUPupBGUd5A4x8vaKjgz4SMi7Uy1rU28ntEvWRD5ZuOo2yL0tWUzFrpGwTsV_aptJPilZEd5muSm8NvL7bjpC3hGZpgOVAXhIEkDiSecIro092AtnDYTkz65aNPjv4&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQFnoECCQQAQ&uoh=1",
+    "snippet": "ResNet (Residual Network) is a convolutional neural network architecture introduced by Kaiming He et al. at Microsoft Research in their 2015 ...",
+    "snippet_highlighted_words": [
+     "Residual Network",
+     "introduced"
+    ],
+    "source": "AIML.com",
+    "title": "Explain ResNet Architecture and Its Variants"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVnotSzFpdVNUdVc0RjlYcmVmQ3EtTkl1eDB2WV9xUXlxMHhxdjBtSld2ZkJSVGJ2cTJ1bW5YV0JPd2JNckdXSW1JS3dqZWRUUnR6RXMzUEZXb3ZCQmp3SjVhNWZhQTJkdmI4TnpHZjREblpNTzhNVkdPOWZpTFVRUGJJU2tJUHZVaXZRZzE0WW5lS3hOWHllSi1yRDJtRVhMYmpEdVZqbUxuaDASBBoCCAAa5gsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAwgsIABAAGAAgACotCgV3aGljaBUq14E_GgbZiNmK2LQaCml2O2Q7d2hpY2gaC2l2O2Q72YjZiti0KlsKBXBhcGVyFTmL9z4aBnBhcGVycxoI2KjYp9io2LEaBtmI2LHZghoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMaDWl2O2Q72KjYp9io2LEaC2l2O2Q72YjYsdmCKqgCCgppbnRyb2R1Y2VkFQAAAAAaB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGgbYudix2LYaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZBoLaXY7ZDvYudix2LYqZAoIcmVzaWR1YWwVagp_QBoJcmVzaWR1YWxzGhDYp9mE2YXYqtio2YLZitipGhByZXNpZHVhbG5ldHdvcmtzGg1pdjtkO3Jlc2lkdWFsGhVpdjtkO9in2YTZhdiq2KjZgtmK2YcqqwEKCG5ldHdvcmtzFbuoh0AaBG5ldHMaB25ldHdvcmsaCti02KjZg9in2KoaCNi02KjZg9ipGgzZhtiq2YjYsdmD2LMaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7bmV0d29ya3MaDWl2O2Q7bGVhcm5pbmcaCWl2O2Q7bmV0cxoMaXY7ZDtuZXR3b3JrGg9pdjtkO9i02KjZg9in2KoaDWl2O2Q72LTYqNmD2YcqCgoDZm9yFQAAAAAqdQoFaW1hZ2UVuwEeQBoHcGljdHVyZRoI2KfZhdin2KwaEGltYWdlcmVjb2duaXRpb24aCml2O2Q7aW1hZ2UaC2l2O2Q7aW1hZ2VzGgxpdjtkO3BhdHRlcm4aDGl2O2Q7cGljdHVyZRoNaXY7ZDvYp9mF2KfYrCqqAQoLcmVjb2duaXRpb24VcFmgQBoOaWRlbnRpZmljYXRpb24aENin2YTYp9i52KrYsdin2YEaEGltYWdlcmVjb2duaXRpb24aEGl2O2Q7cmVjb2duaXRpb24aE2l2O2Q7Y2xhc3NpZmljYXRpb24aE2l2O2Q7aWRlbnRpZmljYXRpb24aD2l2O2Q7cHJvY2Vzc2luZxoVaXY7ZDvYp9mE2KfYudiq2LHYp9mBMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVnotSzFpdVNUdVc0RjlYcmVmQ3EtTkl1eDB2WV9xUXlxMHhxdjBtSld2ZkJSVGJ2cTJ1bW5YV0JPd2JNckdXSW1JS3dqZWRUUnR6RXMzUEZXb3ZCQmp3SjVhNWZhQTJkdmI4TnpHZjREblpNTzhNVkdPOWZpTFVRUGJJU2tJUHZVaXZRZzE0WW5lS3hOWHllSi1yRDJtRVhMYmpEdVZqbUxuaDA6PUV4cGxvaXRpbmcgZGVlcCA8Yj5yZXNpZHVhbCBuZXR3b3JrczwvYj4gZm9yIGh1bWFuIGFjdGlvbiAuLi5CvAFCaWxlbiBldCBhbC4gRHluYW1pYyA8Yj5pbWFnZSBuZXR3b3JrczwvYj4gZm9yIGFjdGlvbiA8Yj5yZWNvZ25pdGlvbjwvYj4uIElFRUUgQ29uZmVyZW5jZSBvbiBDb21wdXRlciBWaXNpb24gYW5kIFBhdHRlcm4gPGI-UmVjb2duaXRpb248L2I-IChDVlBSKS4gKDIwMTYpLiBELk0uIEJsZWkgZXQgYWwuIExhdGVudCZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVnotSzFpdVNUdVc0RjlYcmVmQ3EtTkl1eDB2WV9xUXlxMHhxdjBtSld2ZkJSVGJ2cTJ1bW5YV0JPd2JNckdXSW1JS3dqZWRUUnR6RXMzUEZXb3ZCQmp3SjVhNWZhQTJkdmI4TnpHZjREblpNTzhNVkdPOWZpTFVRUGJJU2tJUHZVaXZRZzE0WW5lS3hOWHllSi1yRDJtRVhMYmpEdVZqbUxuaDASBBoCCAAa5gsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAwgsIABAAGAAgACotCgV3aGljaBUq14E_GgbZiNmK2LQaCml2O2Q7d2hpY2gaC2l2O2Q72YjZiti0KlsKBXBhcGVyFTmL9z4aBnBhcGVycxoI2KjYp9io2LEaBtmI2LHZghoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMaDWl2O2Q72KjYp9io2LEaC2l2O2Q72YjYsdmCKqgCCgppbnRyb2R1Y2VkFQAAAAAaB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGgbYudix2LYaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZBoLaXY7ZDvYudix2LYqZAoIcmVzaWR1YWwVagp_QBoJcmVzaWR1YWxzGhDYp9mE2YXYqtio2YLZitipGhByZXNpZHVhbG5ldHdvcmtzGg1pdjtkO3Jlc2lkdWFsGhVpdjtkO9in2YTZhdiq2KjZgtmK2YcqqwEKCG5ldHdvcmtzFbuoh0AaBG5ldHMaB25ldHdvcmsaCti02KjZg9in2KoaCNi02KjZg9ipGgzZhtiq2YjYsdmD2LMaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7bmV0d29ya3MaDWl2O2Q7bGVhcm5pbmcaCWl2O2Q7bmV0cxoMaXY7ZDtuZXR3b3JrGg9pdjtkO9i02KjZg9in2KoaDWl2O2Q72LTYqNmD2YcqCgoDZm9yFQAAAAAqdQoFaW1hZ2UVuwEeQBoHcGljdHVyZRoI2KfZhdin2KwaEGltYWdlcmVjb2duaXRpb24aCml2O2Q7aW1hZ2UaC2l2O2Q7aW1hZ2VzGgxpdjtkO3BhdHRlcm4aDGl2O2Q7cGljdHVyZRoNaXY7ZDvYp9mF2KfYrCqqAQoLcmVjb2duaXRpb24VcFmgQBoOaWRlbnRpZmljYXRpb24aENin2YTYp9i52KrYsdin2YEaEGltYWdlcmVjb2duaXRpb24aEGl2O2Q7cmVjb2duaXRpb24aE2l2O2Q7Y2xhc3NpZmljYXRpb24aE2l2O2Q7aWRlbnRpZmljYXRpb24aD2l2O2Q7cHJvY2Vzc2luZxoVaXY7ZDvYp9mE2KfYudiq2LHYp9mBMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVnotSzFpdVNUdVc0RjlYcmVmQ3EtTkl1eDB2WV9xUXlxMHhxdjBtSld2ZkJSVGJ2cTJ1bW5YV0JPd2JNckdXSW1JS3dqZWRUUnR6RXMzUEZXb3ZCQmp3SjVhNWZhQTJkdmI4TnpHZjREblpNTzhNVkdPOWZpTFVRUGJJU2tJUHZVaXZRZzE0WW5lS3hOWHllSi1yRDJtRVhMYmpEdVZqbUxuaDA6PUV4cGxvaXRpbmcgZGVlcCA8Yj5yZXNpZHVhbCBuZXR3b3JrczwvYj4gZm9yIGh1bWFuIGFjdGlvbiAuLi5CvAFCaWxlbiBldCBhbC4gRHluYW1pYyA8Yj5pbWFnZSBuZXR3b3JrczwvYj4gZm9yIGFjdGlvbiA8Yj5yZWNvZ25pdGlvbjwvYj4uIElFRUUgQ29uZmVyZW5jZSBvbiBDb21wdXRlciBWaXNpb24gYW5kIFBhdHRlcm4gPGI-UmVjb2duaXRpb248L2I-IChDVlBSKS4gKDIwMTYpLiBELk0uIEJsZWkgZXQgYWwuIExhdGVudCZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Bilen et al. Dynamic image networks for action recognition. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). (2016). D.M. Blei et al. Latent ...",
+      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+      "source_info_link": "https://www.sciencedirect.com/science/article/abs/pii/S1077314218300389"
+     }
+    },
+    "author": "بواسطة HH Pham",
+    "displayed_link": "https://www.sciencedirect.com › pii",
+    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S1077314218300389",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVz-K1iuSTuW4F9XrefCq-NIux0vY_qQyq0xqv0mJWvfBRTbvq2umnXWBOwbMrGWImIKwjedTRtzEs3PFWovBBjwJ5a5faA2dvb8NzGf4DnZMO8MVGO9fiLUQPbISkIPvUivQg14YneKxNXyeJ-rD2mEXLbjDuVjmLnh0&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQFnoECCgQAQ&uoh=1",
+    "snippet": "Bilen et al. Dynamic image networks for action recognition. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). (2016). D.M. Blei et al. Latent ...",
+    "snippet_highlighted_words": [
+     "image networks",
+     "recognition",
+     "Recognition"
+    ],
+    "source": "ScienceDirect.com",
+    "title": "Exploiting deep residual networks for human action ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVk52MEUwX013dmQyd3QyaVZKR1YtRU1yZlpSTWtGd1JMYl9EdkROb0NrLTVqVG91V2g3Wm1ieGMzeHE4U1FDUmFzMnhPeXJsVFIzT09qRUEwX09hTEVxeDIyQk1hVnBRdTBpUlRfclJ2aF9xRDdNOE81VzJpemlTck82LUVNVWMSBBoCCAAavgsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAmgsIABAAGAAgACotCgV3aGljaBVyobE_GgbZiNmK2LQaCml2O2Q7d2hpY2gaC2l2O2Q72YjZiti0KlsKBXBhcGVyFUo-qj4aBnBhcGVycxoI2KjYp9io2LEaBtmI2LHZghoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMaDWl2O2Q72KjYp9io2LEaC2l2O2Q72YjYsdmCKqgCCgppbnRyb2R1Y2VkFZr6iD8aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGgbYudix2LYaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZBoLaXY7ZDvYudix2LYqZAoIcmVzaWR1YWwVN8uZQBoJcmVzaWR1YWxzGhDYp9mE2YXYqtio2YLZitipGhByZXNpZHVhbG5ldHdvcmtzGg1pdjtkO3Jlc2lkdWFsGhVpdjtkO9in2YTZhdiq2KjZgtmK2YcqqwEKCG5ldHdvcmtzFYRiRUAaBG5ldHMaB25ldHdvcmsaCti02KjZg9in2KoaCNi02KjZg9ipGgzZhtiq2YjYsdmD2LMaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7bmV0d29ya3MaDWl2O2Q7bGVhcm5pbmcaCWl2O2Q7bmV0cxoMaXY7ZDtuZXR3b3JrGg9pdjtkO9i02KjZg9in2KoaDWl2O2Q72LTYqNmD2YcqCgoDZm9yFQAAAAAqdQoFaW1hZ2UVi2HBPxoHcGljdHVyZRoI2KfZhdin2KwaEGltYWdlcmVjb2duaXRpb24aCml2O2Q7aW1hZ2UaC2l2O2Q7aW1hZ2VzGgxpdjtkO3BhdHRlcm4aDGl2O2Q7cGljdHVyZRoNaXY7ZDvYp9mF2KfYrCqqAQoLcmVjb2duaXRpb24Vhd32PxoOaWRlbnRpZmljYXRpb24aENin2YTYp9i52KrYsdin2YEaEGltYWdlcmVjb2duaXRpb24aEGl2O2Q7cmVjb2duaXRpb24aE2l2O2Q7Y2xhc3NpZmljYXRpb24aE2l2O2Q7aWRlbnRpZmljYXRpb24aD2l2O2Q7cHJvY2Vzc2luZxoVaXY7ZDvYp9mE2KfYudiq2LHYp9mBMpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVk52MEUwX013dmQyd3QyaVZKR1YtRU1yZlpSTWtGd1JMYl9EdkROb0NrLTVqVG91V2g3Wm1ieGMzeHE4U1FDUmFzMnhPeXJsVFIzT09qRUEwX09hTEVxeDIyQk1hVnBRdTBpUlRfclJ2aF9xRDdNOE81VzJpemlTck82LUVNVWM6Q0luY2VwdGlvbi12NCwgSW5jZXB0aW9uLVJlc05ldCBhbmR0aGUgSW1wYWN0IG9mIDxiPlJlc2lkdWFsPC9iPiAuLi5CsgFSZWNlbnRseSwgdGhlIDxiPmludHJvZHVjdGlvbjwvYj4gb2YgPGI-cmVzaWR1YWw8L2I-IGNvbm5lY3Rpb25zIGluIGNvbmp1bmN0aW9uIHdpdGggYSBtb3JlIHRyYWRpdGlvbmFsIGFyY2hpdGVjdHVyZSBoYXMgeWllbGRlZCBzdGF0ZS1vZi10aGUtYXJ0IHBlcmZvcm1hbmNlIGluIHRoZSAyMDE1Jm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVk52MEUwX013dmQyd3QyaVZKR1YtRU1yZlpSTWtGd1JMYl9EdkROb0NrLTVqVG91V2g3Wm1ieGMzeHE4U1FDUmFzMnhPeXJsVFIzT09qRUEwX09hTEVxeDIyQk1hVnBRdTBpUlRfclJ2aF9xRDdNOE81VzJpemlTck82LUVNVWMSBBoCCAAavgsSABoAIgAqADIGCAISAmFlOgBCBAgCEDZKAFoAcgB6AIJAmgsIABAAGAAgACotCgV3aGljaBVyobE_GgbZiNmK2LQaCml2O2Q7d2hpY2gaC2l2O2Q72YjZiti0KlsKBXBhcGVyFUo-qj4aBnBhcGVycxoI2KjYp9io2LEaBtmI2LHZghoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMaDWl2O2Q72KjYp9io2LEaC2l2O2Q72YjYsdmCKqgCCgppbnRyb2R1Y2VkFZr6iD8aB2Jyb3VnaHQaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgtpbXBsZW1lbnRlZBoJaW50cm9kdWNlGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGghsYXVuY2hlZBoJcHJlc2VudGVkGgdzdGFydGVkGgbYudix2LYaD2l2O2Q7aW50cm9kdWNlZBoMaXY7ZDticm91Z2h0GgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaDml2O2Q7aW50cm9kdWNlGhBpdjtkO2ludHJvZHVjaW5nGhFpdjtkO2ludHJvZHVjdGlvbhoOaXY7ZDtwcmVzZW50ZWQaDGl2O2Q7c3RhcnRlZBoLaXY7ZDvYudix2LYqZAoIcmVzaWR1YWwVN8uZQBoJcmVzaWR1YWxzGhDYp9mE2YXYqtio2YLZitipGhByZXNpZHVhbG5ldHdvcmtzGg1pdjtkO3Jlc2lkdWFsGhVpdjtkO9in2YTZhdiq2KjZgtmK2YcqqwEKCG5ldHdvcmtzFYRiRUAaBG5ldHMaB25ldHdvcmsaCti02KjZg9in2KoaCNi02KjZg9ipGgzZhtiq2YjYsdmD2LMaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7bmV0d29ya3MaDWl2O2Q7bGVhcm5pbmcaCWl2O2Q7bmV0cxoMaXY7ZDtuZXR3b3JrGg9pdjtkO9i02KjZg9in2KoaDWl2O2Q72LTYqNmD2YcqCgoDZm9yFQAAAAAqdQoFaW1hZ2UVi2HBPxoHcGljdHVyZRoI2KfZhdin2KwaEGltYWdlcmVjb2duaXRpb24aCml2O2Q7aW1hZ2UaC2l2O2Q7aW1hZ2VzGgxpdjtkO3BhdHRlcm4aDGl2O2Q7cGljdHVyZRoNaXY7ZDvYp9mF2KfYrCqqAQoLcmVjb2duaXRpb24Vhd32PxoOaWRlbnRpZmljYXRpb24aENin2YTYp9i52KrYsdin2YEaEGltYWdlcmVjb2duaXRpb24aEGl2O2Q7cmVjb2duaXRpb24aE2l2O2Q7Y2xhc3NpZmljYXRpb24aE2l2O2Q7aWRlbnRpZmljYXRpb24aD2l2O2Q7cHJvY2Vzc2luZxoVaXY7ZDvYp9mE2KfYudiq2LHYp9mBMpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVk52MEUwX013dmQyd3QyaVZKR1YtRU1yZlpSTWtGd1JMYl9EdkROb0NrLTVqVG91V2g3Wm1ieGMzeHE4U1FDUmFzMnhPeXJsVFIzT09qRUEwX09hTEVxeDIyQk1hVnBRdTBpUlRfclJ2aF9xRDdNOE81VzJpemlTck82LUVNVWM6Q0luY2VwdGlvbi12NCwgSW5jZXB0aW9uLVJlc05ldCBhbmR0aGUgSW1wYWN0IG9mIDxiPlJlc2lkdWFsPC9iPiAuLi5CsgFSZWNlbnRseSwgdGhlIDxiPmludHJvZHVjdGlvbjwvYj4gb2YgPGI-cmVzaWR1YWw8L2I-IGNvbm5lY3Rpb25zIGluIGNvbmp1bmN0aW9uIHdpdGggYSBtb3JlIHRyYWRpdGlvbmFsIGFyY2hpdGVjdHVyZSBoYXMgeWllbGRlZCBzdGF0ZS1vZi10aGUtYXJ0IHBlcmZvcm1hbmNlIGluIHRoZSAyMDE1Jm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Recently, the introduction of residual connections in conjunction with a more traditional architecture has yielded state-of-the-art performance in the 2015 ...",
+      "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAADQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHtfoHGpuG8CDAbYDmTf1uy1XpevJATwMsAn_bOX-KFEVFCOhxoEtp88V4P3rfodcIUAAP74RkuHgSWYtT4O7GpyLiBJ7oSvcBI4_D8jHpmXuaT1dAVLh6-3_8q2Kia3_XXDO508PFScUjt__BpUQmE5_0HS2VpXWHxY8prPbkMiOMuUMLPsBkW8dIvxjY3_00fZm0AFlbXlOnckmmscd9j9VuOk4tpAu5foLCT0IP0i_hfRA5Mf2cmf4vxdNS7a82Phn7d1FLI8-PDGvx4-VWUuoYx0uqzuGFhMW-zxqVKpKXtsOnrwKfq9fR_Mz2TcdONq1_PeyUfN34FY_dX7hJd0xvhpbdcK1rqWP_ufQGMciVKFED7PrfuT0X7rdgQAQE-GTKBPWVOK9gxZ96PP6WCVhnSiDj7_Hk2j62YE3yRT1B-x3GkQAA.webp",
+      "source_info_link": "https://ar5iv.labs.arxiv.org/html/1602.07261"
+     }
+    },
+    "displayed_link": "https://ar5iv.labs.arxiv.org › html",
+    "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAADQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHtfoHGpuG8CDAbYDmTf1uy1XpevJATwMsAn_bOX-KFEVFCOhxoEtp88V4P3rfodcIUAAP74RkuHgSWYtT4O7GpyLiBJ7oSvcBI4_D8jHpmXuaT1dAVLh6-3_8q2Kia3_XXDO508PFScUjt__BpUQmE5_0HS2VpXWHxY8prPbkMiOMuUMLPsBkW8dIvxjY3_00fZm0AFlbXlOnckmmscd9j9VuOk4tpAu5foLCT0IP0i_hfRA5Mf2cmf4vxdNS7a82Phn7d1FLI8-PDGvx4-VWUuoYx0uqzuGFhMW-zxqVKpKXtsOnrwKfq9fR_Mz2TcdONq1_PeyUfN34FY_dX7hJd0xvhpbdcK1rqWP_ufQGMciVKFED7PrfuT0X7rdgQAQE-GTKBPWVOK9gxZ96PP6WCVhnSiDj7_Hk2j62YE3yRT1B-x3GkQAA.webp",
+    "link": "https://ar5iv.labs.arxiv.org/html/1602.07261",
+    "position": 4,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVNv0E0_Mwvd2wt2iVJGV-EMrfZRMkFwRLb_DvDNoCk-5jTouWh7Zmbxc3xq8SQCRas2xOyrlTR3OOjEA0_OaLEqx22BMaVpQu0iRT_rRvh_qD7M8O5W2iziSrO6-EMUc&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQFnoECCAQAQ&uoh=1",
+    "snippet": "Recently, the introduction of residual connections in conjunction with a more traditional architecture has yielded state-of-the-art performance in the 2015 ...",
     "snippet_highlighted_words": [
      "introduction",
-     "networks",
-     "image recognition"
+     "residual"
     ],
-    "source": "zilliz.com",
-    "title": "What is Deep Residual Learning? - Zilliz"
+    "source": "ar5iv",
+    "title": "Inception-v4, Inception-ResNet andthe Impact of Residual ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZVTXQ2cTRvMXl6djRUUEpDc0Q2NXNUdHdEUThNLTM5T2pNWjR2eENwRW5OaF9BVmg5UmxsSlRmcFl1SDZMdDNjcUVoQzZPaV95VUlvOGhjcklsbEhxbExmMkhfb1Z4T1NXNlYyM2kzMjNwM0lNQ0ZYd1laOVNnZ09QTHdRTy1jaGp4dDR3SEdfc2hZS3U2TXVQbEFSbVBNQ0dYTlN0OEF6c05DODQzWDgwSXAtZkpuYmdZdG0wajU1VDhEdmR6WUtqN3lNbXVNSmpnT1Y4TUVGcW5FbWl0YklaZFQxakUtEgQaAggAGpwMEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQPgLCAAQABgAIAAqLQoFd2hpY2gVlBGQPxoG2YjZiti0GgppdjtkO3doaWNoGgtpdjtkO9mI2YrYtCpbCgVwYXBlchWa0R9AGgZwYXBlcnMaCNio2KfYqNixGgbZiNix2YIaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzGg1pdjtkO9io2KfYqNixGgtpdjtkO9mI2LHZgiqoAgoKaW50cm9kdWNlZBXg7NA9Ggdicm91Z2h0GgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoLaW1wbGVtZW50ZWQaCWludHJvZHVjZRoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaCXByZXNlbnRlZBoHc3RhcnRlZBoG2LnYsdi2Gg9pdjtkO2ludHJvZHVjZWQaDGl2O2Q7YnJvdWdodBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGg5pdjtkO2ludHJvZHVjZRoQaXY7ZDtpbnRyb2R1Y2luZxoRaXY7ZDtpbnRyb2R1Y3Rpb24aDml2O2Q7cHJlc2VudGVkGgxpdjtkO3N0YXJ0ZWQaC2l2O2Q72LnYsdi2KmQKCHJlc2lkdWFsFSryNUAaCXJlc2lkdWFscxoQ2KfZhNmF2KrYqNmC2YrYqRoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtyZXNpZHVhbBoVaXY7ZDvYp9mE2YXYqtio2YLZitmHKqsBCghuZXR3b3JrcxVo8S9AGgRuZXRzGgduZXR3b3JrGgrYtNio2YPYp9iqGgjYtNio2YPYqRoM2YbYqtmI2LHZg9izGhByZXNpZHVhbG5ldHdvcmtzGg1pdjtkO25ldHdvcmtzGg1pdjtkO2xlYXJuaW5nGglpdjtkO25ldHMaDGl2O2Q7bmV0d29yaxoPaXY7ZDvYtNio2YPYp9iqGg1pdjtkO9i02KjZg9mHKgoKA2ZvchUAAAAAKnUKBWltYWdlFeptE0AaB3BpY3R1cmUaCNin2YXYp9isGhBpbWFnZXJlY29nbml0aW9uGgppdjtkO2ltYWdlGgtpdjtkO2ltYWdlcxoMaXY7ZDtwYXR0ZXJuGgxpdjtkO3BpY3R1cmUaDWl2O2Q72KfZhdin2KwqqgEKC3JlY29nbml0aW9uFdgr-T8aDmlkZW50aWZpY2F0aW9uGhDYp9mE2KfYudiq2LHYp9mBGhBpbWFnZXJlY29nbml0aW9uGhBpdjtkO3JlY29nbml0aW9uGhNpdjtkO2NsYXNzaWZpY2F0aW9uGhNpdjtkO2lkZW50aWZpY2F0aW9uGg9pdjtkO3Byb2Nlc3NpbmcaFWl2O2Q72KfZhNin2LnYqtix2KfZgTL2AS9nb3RvP3VybD1DQUVTckFFQjZ6c3dGVU10NnE0bzF5enY0VFBKQ3NENjVzVHR3RFE4TS0zOU9qTVo0dnhDcEVuTmhfQVZoOVJsbEpUZnBZdUg2THQzY3FFaEM2T2lfeVVJbzhoY3JJbGxIcWxMZjJIX29WeE9TVzZWMjNpMzIzcDNJTUNGWHdZWjlTZ2dPUEx3UU8tY2hqeHQ0d0hHX3NoWUt1Nk11UGxBUm1QTUNHWE5TdDhBenNOQzg0M1g4MElwLWZKbmJnWXRtMGo1NVQ4RHZkellLajd5TW11TUpqZ09WOE1FRnFuRW1pdGJJWmRUMWpFLTpMUmVzTmV0IOKAlCDigJxEZWVwIDxiPlJlc2lkdWFsPC9iPiBMZWFybmluZyBmb3IgPGI-SW1hZ2UgUmVjb2duaXRpb248L2I-IC4uLkKmAVRoZSA8Yj5wYXBlcjwvYj4gYWN0dWFsbHkgc2hvd2VkIGluIHRoZWlyIGV4cGVyaW1lbnRzIHNlY3Rpb24gdGhhdCBieSB1c2luZyBSZXNOZXQgYXJjaGl0ZWN0dXJlIHRoZXkgYWNoaWV2ZWQgYmV0dGVyIHBlcmZvcm1hbmNlIHRoYW4gcGxhaW4gPGI-bmV0d29yazwvYj4gYnkmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZVTXQ2cTRvMXl6djRUUEpDc0Q2NXNUdHdEUThNLTM5T2pNWjR2eENwRW5OaF9BVmg5UmxsSlRmcFl1SDZMdDNjcUVoQzZPaV95VUlvOGhjcklsbEhxbExmMkhfb1Z4T1NXNlYyM2kzMjNwM0lNQ0ZYd1laOVNnZ09QTHdRTy1jaGp4dDR3SEdfc2hZS3U2TXVQbEFSbVBNQ0dYTlN0OEF6c05DODQzWDgwSXAtZkpuYmdZdG0wajU1VDhEdmR6WUtqN3lNbXVNSmpnT1Y4TUVGcW5FbWl0YklaZFQxakUtEgQaAggAGpwMEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQPgLCAAQABgAIAAqLQoFd2hpY2gVlBGQPxoG2YjZiti0GgppdjtkO3doaWNoGgtpdjtkO9mI2YrYtCpbCgVwYXBlchWa0R9AGgZwYXBlcnMaCNio2KfYqNixGgbZiNix2YIaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzGg1pdjtkO9io2KfYqNixGgtpdjtkO9mI2LHZgiqoAgoKaW50cm9kdWNlZBXg7NA9Ggdicm91Z2h0GgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoLaW1wbGVtZW50ZWQaCWludHJvZHVjZRoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoIbGF1bmNoZWQaCXByZXNlbnRlZBoHc3RhcnRlZBoG2LnYsdi2Gg9pdjtkO2ludHJvZHVjZWQaDGl2O2Q7YnJvdWdodBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGg5pdjtkO2ludHJvZHVjZRoQaXY7ZDtpbnRyb2R1Y2luZxoRaXY7ZDtpbnRyb2R1Y3Rpb24aDml2O2Q7cHJlc2VudGVkGgxpdjtkO3N0YXJ0ZWQaC2l2O2Q72LnYsdi2KmQKCHJlc2lkdWFsFSryNUAaCXJlc2lkdWFscxoQ2KfZhNmF2KrYqNmC2YrYqRoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtyZXNpZHVhbBoVaXY7ZDvYp9mE2YXYqtio2YLZitmHKqsBCghuZXR3b3JrcxVo8S9AGgRuZXRzGgduZXR3b3JrGgrYtNio2YPYp9iqGgjYtNio2YPYqRoM2YbYqtmI2LHZg9izGhByZXNpZHVhbG5ldHdvcmtzGg1pdjtkO25ldHdvcmtzGg1pdjtkO2xlYXJuaW5nGglpdjtkO25ldHMaDGl2O2Q7bmV0d29yaxoPaXY7ZDvYtNio2YPYp9iqGg1pdjtkO9i02KjZg9mHKgoKA2ZvchUAAAAAKnUKBWltYWdlFeptE0AaB3BpY3R1cmUaCNin2YXYp9isGhBpbWFnZXJlY29nbml0aW9uGgppdjtkO2ltYWdlGgtpdjtkO2ltYWdlcxoMaXY7ZDtwYXR0ZXJuGgxpdjtkO3BpY3R1cmUaDWl2O2Q72KfZhdin2KwqqgEKC3JlY29nbml0aW9uFdgr-T8aDmlkZW50aWZpY2F0aW9uGhDYp9mE2KfYudiq2LHYp9mBGhBpbWFnZXJlY29nbml0aW9uGhBpdjtkO3JlY29nbml0aW9uGhNpdjtkO2NsYXNzaWZpY2F0aW9uGhNpdjtkO2lkZW50aWZpY2F0aW9uGg9pdjtkO3Byb2Nlc3NpbmcaFWl2O2Q72KfZhNin2LnYqtix2KfZgTL2AS9nb3RvP3VybD1DQUVTckFFQjZ6c3dGVU10NnE0bzF5enY0VFBKQ3NENjVzVHR3RFE4TS0zOU9qTVo0dnhDcEVuTmhfQVZoOVJsbEpUZnBZdUg2THQzY3FFaEM2T2lfeVVJbzhoY3JJbGxIcWxMZjJIX29WeE9TVzZWMjNpMzIzcDNJTUNGWHdZWjlTZ2dPUEx3UU8tY2hqeHQ0d0hHX3NoWUt1Nk11UGxBUm1QTUNHWE5TdDhBenNOQzg0M1g4MElwLWZKbmJnWXRtMGo1NVQ4RHZkellLajd5TW11TUpqZ09WOE1FRnFuRW1pdGJJWmRUMWpFLTpMUmVzTmV0IOKAlCDigJxEZWVwIDxiPlJlc2lkdWFsPC9iPiBMZWFybmluZyBmb3IgPGI-SW1hZ2UgUmVjb2duaXRpb248L2I-IC4uLkKmAVRoZSA8Yj5wYXBlcjwvYj4gYWN0dWFsbHkgc2hvd2VkIGluIHRoZWlyIGV4cGVyaW1lbnRzIHNlY3Rpb24gdGhhdCBieSB1c2luZyBSZXNOZXQgYXJjaGl0ZWN0dXJlIHRoZXkgYWNoaWV2ZWQgYmV0dGVyIHBlcmZvcm1hbmNlIHRoYW4gcGxhaW4gPGI-bmV0d29yazwvYj4gYnkmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "The paper actually showed in their experiments section that by using ResNet architecture they achieved better performance than plain network by ...",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+      "source_info_link": "https://medium.com/@nurlan.imanov/resnet-deep-residual-learning-for-image-recognition-paper-explanation-403351865ee7"
+     }
+    },
+    "displayed_link": "قبل 4 سنوات",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+    "link": "https://medium.com/@nurlan.imanov/resnet-deep-residual-learning-for-image-recognition-paper-explanation-403351865ee7",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFUMt6q4o1yzv4TPJCsD65sTtwDQ8M-39OjMZ4vxCpEnNh_AVh9RllJTfpYuH6Lt3cqEhC6Oi_yUIo8hcrIllHqlLf2H_oVxOSW6V23i323p3IMCFXwYZ9SggOPLwQO-chjxt4wHG_shYKu6MuPlARmPMCGXNSt8AzsNC843X80Ip-fJnbgYtm0j55T8DvdzYKj7yMmuMJjgOV8MEFqnEmitbIZdT1jE-&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQFnoECCIQAQ&uoh=1",
+    "snippet": "The paper actually showed in their experiments section that by using ResNet architecture they achieved better performance than plain network by ...",
+    "snippet_highlighted_words": [
+     "paper",
+     "network"
+    ],
+    "source": "Medium · Nurlan Imanov",
+    "title": "ResNet — “Deep Residual Learning for Image Recognition ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZTenF1RlVMakxmM2t2d3VwelNBU21NZ09aeGVpdmNTZk1MZnNabWVQRmxOT0YwdXlZb2NubUZyQzFTSlVNeU1CeEZqZ2VtMXVOQ2NnT19xcVlRNU1SQUo5SjBjR1ZJc1IwZGxjd0N4RmRwdFZSd28weHZJcmFDRHdFWnkxdS1nMjl5RW5idjRzZmhJSjRoTDZ3UndpeTBrX2RmbjQ1ZF9FZ3NFaXRYT3ZvUE16SUEzOHcSBBoCCAAa7gsSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDICwgAEAAYACAAKi0KBXdoaWNoFWvcAj8aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIVeKlmPhoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVjKFQPxoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBUKQ5VAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVdYmSQBoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRV1eKQ_GgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhWi1Fs-Gg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEyyAEvZ290bz91cmw9Q0FFU2lRRUI2enN3RlN6cXVGVUxqTGYza3Z3dXB6U0FTbU1nT1p4ZWl2Y1NmTUxmc1ptZVBGbE5PRjB1eVlvY25tRnJDMVNKVU15TUJ4RmpnZW0xdU5DY2dPX3FxWVE1TVJBSjlKMGNHVklzUjBkbGN3Q3hGZHB0VlJ3bzB4dklyYUNEd0VaeTF1LWcyOXlFbmJ2NHNmaElKNGhMNndSd2l5MGtfZGZuNDVkX0Vnc0VpdFhPdm9QTXpJQTM4dzpCPGI-UmVzaWR1YWwgTmV0d29ya3M8L2I-IGluIENvbXB1dGVyIFZpc2lvbiAtIFRvd2FyZHMgRGF0YSBTY2llbmNlQq4BRGVlcCByZXNpZHVhbCBsZWFybmluZyBmb3IgPGI-aW1hZ2UgcmVjb2duaXRpb248L2I-LiBbM10gW0hlIGV0IGFsLiwgMjAxNl0gSGUsIEsuLCBaaGFuZywgWC4sIFJlbiwgUy4sIGFuZCBTdW4sIEouICgyMDE2KS4gSWRlbnRpdHkgbWFwcGluZ3MgaW4gZGVlcCA8Yj5yZXNpZHVhbCBuZXR3b3JrczwvYj4uSgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZTenF1RlVMakxmM2t2d3VwelNBU21NZ09aeGVpdmNTZk1MZnNabWVQRmxOT0YwdXlZb2NubUZyQzFTSlVNeU1CeEZqZ2VtMXVOQ2NnT19xcVlRNU1SQUo5SjBjR1ZJc1IwZGxjd0N4RmRwdFZSd28weHZJcmFDRHdFWnkxdS1nMjl5RW5idjRzZmhJSjRoTDZ3UndpeTBrX2RmbjQ1ZF9FZ3NFaXRYT3ZvUE16SUEzOHcSBBoCCAAa7gsSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDICwgAEAAYACAAKi0KBXdoaWNoFWvcAj8aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIVeKlmPhoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVjKFQPxoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBUKQ5VAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVdYmSQBoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRV1eKQ_GgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhWi1Fs-Gg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEyyAEvZ290bz91cmw9Q0FFU2lRRUI2enN3RlN6cXVGVUxqTGYza3Z3dXB6U0FTbU1nT1p4ZWl2Y1NmTUxmc1ptZVBGbE5PRjB1eVlvY25tRnJDMVNKVU15TUJ4RmpnZW0xdU5DY2dPX3FxWVE1TVJBSjlKMGNHVklzUjBkbGN3Q3hGZHB0VlJ3bzB4dklyYUNEd0VaeTF1LWcyOXlFbmJ2NHNmaElKNGhMNndSd2l5MGtfZGZuNDVkX0Vnc0VpdFhPdm9QTXpJQTM4dzpCPGI-UmVzaWR1YWwgTmV0d29ya3M8L2I-IGluIENvbXB1dGVyIFZpc2lvbiAtIFRvd2FyZHMgRGF0YSBTY2llbmNlQq4BRGVlcCByZXNpZHVhbCBsZWFybmluZyBmb3IgPGI-aW1hZ2UgcmVjb2duaXRpb248L2I-LiBbM10gW0hlIGV0IGFsLiwgMjAxNl0gSGUsIEsuLCBaaGFuZywgWC4sIFJlbiwgUy4sIGFuZCBTdW4sIEouICgyMDE2KS4gSWRlbnRpdHkgbWFwcGluZ3MgaW4gZGVlcCA8Yj5yZXNpZHVhbCBuZXR3b3JrczwvYj4uSgNmb3IiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Deep residual learning for image recognition. [3] [He et al., 2016] He, K., Zhang, X., Ren, S., and Sun, J. (2016). Identity mappings in deep residual networks.",
+      "icon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglAE6ZQBRofFOQr95ba7O_1HP31cVf3IjUAAP64d_iI8JnnRWlR2hbDAQyXOapuMM2tPxWZ_kNrui2-oB7SNXm40DKbQYYnAC_PgU6Pf3qxAE4vyOP1wWOF7Evt-ijYT5LC5QZn_lppojPJy59_PdCl5O3k8xTd6HkCPh-LEx3cbtqDDVkczm3nC7nD8C4Wxf7M9xeWvr-ahxLR24k3vLg9LRM4C9uyLoP0s8JZgbu0PFrRS6ydP2DEqMNCzLgAAkQv3WOzWAA.webp",
+      "source_info_link": "https://towardsdatascience.com/residual-networks-in-computer-vision-ee118d3be68f/"
+     }
+    },
+    "displayed_link": "https://towardsdatascience.com › res...",
+    "favicon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglAE6ZQBRofFOQr95ba7O_1HP31cVf3IjUAAP64d_iI8JnnRWlR2hbDAQyXOapuMM2tPxWZ_kNrui2-oB7SNXm40DKbQYYnAC_PgU6Pf3qxAE4vyOP1wWOF7Evt-ijYT5LC5QZn_lppojPJy59_PdCl5O3k8xTd6HkCPh-LEx3cbtqDDVkczm3nC7nD8C4Wxf7M9xeWvr-ahxLR24k3vLg9LRM4C9uyLoP0s8JZgbu0PFrRS6ydP2DEqMNCzLgAAkQv3WOzWAA.webp",
+    "link": "https://towardsdatascience.com/residual-networks-in-computer-vision-ee118d3be68f/",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFSzquFULjLf3kvwupzSASmMgOZxeivcSfMLfsZmePFlNOF0uyYocnmFrC1SJUMyMBxFjgem1uNCcgO_qqYQ5MRAJ9J0cGVIsR0dlcwCxFdptVRwo0xvIraCDwEZy1u-g29yEnbv4sfhIJ4hL6wRwiy0k_dfn45d_EgsEitXOvoPMzIA38w&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQFnoECEAQAQ&uoh=1",
+    "snippet": "Deep residual learning for image recognition. [3] [He et al., 2016] He, K., Zhang, X., Ren, S., and Sun, J. (2016). Identity mappings in deep residual networks.",
+    "snippet_highlighted_words": [
+     "image recognition",
+     "residual networks"
+    ],
+    "source": "Towards Data Science",
+    "title": "Residual Networks in Computer Vision"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZlaFNWSjhEMy1GQzNXY3lqQWYxT1F1NnRWMzhtVDQ2ekRMaHRsUmU0SkdqUC1NcUNicFRyaDdoX1h0RTJUNUJaS01mbDJjYlNRMm5RNk5GUW9ySUY3Z1o0dnVoNzhUZlNSVzJaR3hjQ3hOUHFZSFA2OXlhZHIzMXU1bEpKVzhsZXBvb2lNc0tTT3piNzFMRFA4Z0h0ZTk0YVEyLWVKM1lxVFVmUTMtWFRvbUhnUXVpM1BhZlJHTVpCUXZadjUyMkROd1Rmd2pjMDNRMjNBM0RDdVRVNExvRRIEGgIIABqVDBIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDxCwgAEAAYACAAKi0KBXdoaWNoFfL48z4aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIV5u68QBoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVNJOCPxoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBVL_sRAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVMrxIQBoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRXnBq1AGgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhW4AqJAGg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RmVoU1ZKOEQzLUZDM1djeWpBZjFPUXU2dFYzOG1UNDZ6RExodGxSZTRKR2pQLU1xQ2JwVHJoN2hfWHRFMlQ1QlpLTWZsMmNiU1EyblE2TkZRb3JJRjdnWjR2dWg3OFRmU1JXMlpHeGNDeE5QcVlIUDY5eWFkcjMxdTVsSkpXOGxlcG9vaU1zS1NPemI3MUxEUDhnSHRlOTRhUTItZUozWXFUVWZRMy1YVG9tSGdRdWkzUGFmUkdNWkJRdlp2NTIyRE53VGZ3amMwM1EyM0EzREN1VFU0TG9FOklEZWVwIDxiPlJlc2lkdWFsPC9iPiBMZWFybmluZyBGb3IgPGI-SW1hZ2UgUmVjb2duaXRpb248L2I-IHwgUERGIC0gU2NyaWJkQqoBVGhpcyBsYW5kbWFyayA8Yj5wYXBlciBpbnRyb2R1Y2VkIFJlc2lkdWFsIE5ldHdvcmtzPC9iPiAoUmVzTmV0KSwgc29sdmluZyB0aGUgZGVncmFkYXRpb24gcHJvYmxlbSB3aGVyZSBkZWVwZXIgbmV1cmFsIG5ldHdvcmtzIGV4aGliaXQgaGlnaGVyIHRyYWluaW5nIGVycm9ycyBkdWUmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZlaFNWSjhEMy1GQzNXY3lqQWYxT1F1NnRWMzhtVDQ2ekRMaHRsUmU0SkdqUC1NcUNicFRyaDdoX1h0RTJUNUJaS01mbDJjYlNRMm5RNk5GUW9ySUY3Z1o0dnVoNzhUZlNSVzJaR3hjQ3hOUHFZSFA2OXlhZHIzMXU1bEpKVzhsZXBvb2lNc0tTT3piNzFMRFA4Z0h0ZTk0YVEyLWVKM1lxVFVmUTMtWFRvbUhnUXVpM1BhZlJHTVpCUXZadjUyMkROd1Rmd2pjMDNRMjNBM0RDdVRVNExvRRIEGgIIABqVDBIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDxCwgAEAAYACAAKi0KBXdoaWNoFfL48z4aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIV5u68QBoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVNJOCPxoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBVL_sRAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVMrxIQBoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRXnBq1AGgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhW4AqJAGg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RmVoU1ZKOEQzLUZDM1djeWpBZjFPUXU2dFYzOG1UNDZ6RExodGxSZTRKR2pQLU1xQ2JwVHJoN2hfWHRFMlQ1QlpLTWZsMmNiU1EyblE2TkZRb3JJRjdnWjR2dWg3OFRmU1JXMlpHeGNDeE5QcVlIUDY5eWFkcjMxdTVsSkpXOGxlcG9vaU1zS1NPemI3MUxEUDhnSHRlOTRhUTItZUozWXFUVWZRMy1YVG9tSGdRdWkzUGFmUkdNWkJRdlp2NTIyRE53VGZ3amMwM1EyM0EzREN1VFU0TG9FOklEZWVwIDxiPlJlc2lkdWFsPC9iPiBMZWFybmluZyBGb3IgPGI-SW1hZ2UgUmVjb2duaXRpb248L2I-IHwgUERGIC0gU2NyaWJkQqoBVGhpcyBsYW5kbWFyayA8Yj5wYXBlciBpbnRyb2R1Y2VkIFJlc2lkdWFsIE5ldHdvcmtzPC9iPiAoUmVzTmV0KSwgc29sdmluZyB0aGUgZGVncmFkYXRpb24gcHJvYmxlbSB3aGVyZSBkZWVwZXIgbmV1cmFsIG5ldHdvcmtzIGV4aGliaXQgaGlnaGVyIHRyYWluaW5nIGVycm9ycyBkdWUmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "This landmark paper introduced Residual Networks (ResNet), solving the degradation problem where deeper neural networks exhibit higher training errors due ...",
+      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALsNcA6TAiSRiU0ciNsNw4-ckvZckbI8Q0Lri0nWvPTAAP6fWoc5hI1waVpH4HPI-z3W07wkXNBNlhQO9hAKmOv8njeniRb9FCg1c1JmF3efXUUmw2bU_zMmv4y8p_nL016PcG2_Kkra3QUXk6GbHsoOEa89zFXoAnXirQsiNRzPXeKrniAu0unVpGtsEeMjevYRjJ48Bp-DMJ4D_R_y1f316ypJ0S_9mXgcgm8VoTywUh86jiUV9Al4I6yaumsUkda-7a6L12tg8hgBlh0gWv0-rnf3aeCVRG6cfsuzLtT0ruwHdbHm1C0wW2RxRakx4lXvH-JOfzi7UEbqOQ5wVHgAAA.webp",
+      "source_info_link": "https://www.scribd.com/document/1066625287/Research-Paper-Summary-Deep-Residual-Learning-for-Image-Recognition"
+     }
+    },
+    "displayed_link": "https://www.scribd.com › document",
+    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALsNcA6TAiSRiU0ciNsNw4-ckvZckbI8Q0Lri0nWvPTAAP6fWoc5hI1waVpH4HPI-z3W07wkXNBNlhQO9hAKmOv8njeniRb9FCg1c1JmF3efXUUmw2bU_zMmv4y8p_nL016PcG2_Kkra3QUXk6GbHsoOEa89zFXoAnXirQsiNRzPXeKrniAu0unVpGtsEeMjevYRjJ48Bp-DMJ4D_R_y1f316ypJ0S_9mXgcgm8VoTywUh86jiUV9Al4I6yaumsUkda-7a6L12tg8hgBlh0gWv0-rnf3aeCVRG6cfsuzLtT0ruwHdbHm1C0wW2RxRakx4lXvH-JOfzi7UEbqOQ5wVHgAAA.webp",
+    "link": "https://www.scribd.com/document/1066625287/Research-Paper-Summary-Deep-Residual-Learning-for-Image-Recognition",
+    "position": 7,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFehSVJ8D3-FC3WcyjAf1OQu6tV38mT46zDLhtlRe4JGjP-MqCbpTrh7h_XtE2T5BZKMfl2cbSQ2nQ6NFQorIF7gZ4vuh78TfSRW2ZGxcCxNPqYHP69yadr31u5lJJW8lepooiMsKSOzb71LDP8gHte94aQ2-eJ3YqTUfQ3-XTomHgQui3PafRGMZBQvZv522DNwTfwjc03Q23A3DCuTU4LoE&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQFnoECEIQAQ&uoh=1",
+    "snippet": "This landmark paper introduced Residual Networks (ResNet), solving the degradation problem where deeper neural networks exhibit higher training errors due ...",
+    "snippet_highlighted_words": [
+     "paper introduced Residual Networks"
+    ],
+    "source": "Scribd",
+    "title": "Deep Residual Learning For Image Recognition"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZXaURWQlhOZFJEc2lzMUp6bWlwalp0T3dLSS1oVWVabGQ0eDZ4VFpaTFBOMTkzZzhQSi05aG1Fb3hGbDFLYUtBR1VabE51SWRORFpVRFh2SUlzVTNaSzgwZHFGZmRzeDBMd3U1Z0E0VDNMMS1GQU1MQ1Y0c3lZMko0VE9FelExUmpmSW1zNkc5UDF0LVE2SFdaUXY3WVpUWkhuVDkxWFhJX1dXa2JFMy1sa19aTmRnOWRpdEFFSRIEGgIIABr1CxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDRCwgAEAAYACAAKi0KBXdoaWNoFTL3aj8aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIVrxSWQBoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVLT9CPhoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBWCm2hAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVLEdePhoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRVJ4KZAGgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhWysJ1AGg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEyzQEvZ290bz91cmw9Q0FFU2pRRUI2enN3RldpRFZCWE5kUkRzaXMxSnptaXBqWnRPd0tJLWhVZVpsZDR4NnhUWlpMUE4xOTNnOFBKLTlobUVveEZsMUthS0FHVVpsTnVJZE5EWlVEWHZJSXNVM1pLODBkcUZmZHN4MEx3dTVnQTRUM0wxLUZBTUxDVjRzeVkySjRUT0V6UTFSamZJbXM2RzlQMXQtUTZIV1pRdjdZWlRaSG5UOTFYWElfV1drYkUzLWxrX1pOZGc5ZGl0QUVJOkRSZXNOZXRzIC0gRGVlcCA8Yj5SZXNpZHVhbDwvYj4gTGVhcm5pbmcgZm9yIDxiPkltYWdlIFJlY29nbml0aW9uPC9iPkKwAVJlZ2lzdGVyOiB3YW5kYi5tZS9wcmcgUmVzTmV0cyA8Yj5QYXBlcjwvYj46IFsxNTEyLjAzMzg1XSBEZWVwIDxiPlJlc2lkdWFsPC9iPiBMZWFybmluZyBmb3IgPGI-SW1hZ2UgUmVjb2duaXRpb248L2I-IEZvcnVtOiBSZXNOZXRzIC0gRGVlcCA8Yj5SZXNpZHVhbDwvYj4gTGVhcm5pbmcgZm9yJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZXaURWQlhOZFJEc2lzMUp6bWlwalp0T3dLSS1oVWVabGQ0eDZ4VFpaTFBOMTkzZzhQSi05aG1Fb3hGbDFLYUtBR1VabE51SWRORFpVRFh2SUlzVTNaSzgwZHFGZmRzeDBMd3U1Z0E0VDNMMS1GQU1MQ1Y0c3lZMko0VE9FelExUmpmSW1zNkc5UDF0LVE2SFdaUXY3WVpUWkhuVDkxWFhJX1dXa2JFMy1sa19aTmRnOWRpdEFFSRIEGgIIABr1CxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDRCwgAEAAYACAAKi0KBXdoaWNoFTL3aj8aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIVrxSWQBoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVLT9CPhoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBWCm2hAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVLEdePhoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRVJ4KZAGgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhWysJ1AGg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEyzQEvZ290bz91cmw9Q0FFU2pRRUI2enN3RldpRFZCWE5kUkRzaXMxSnptaXBqWnRPd0tJLWhVZVpsZDR4NnhUWlpMUE4xOTNnOFBKLTlobUVveEZsMUthS0FHVVpsTnVJZE5EWlVEWHZJSXNVM1pLODBkcUZmZHN4MEx3dTVnQTRUM0wxLUZBTUxDVjRzeVkySjRUT0V6UTFSamZJbXM2RzlQMXQtUTZIV1pRdjdZWlRaSG5UOTFYWElfV1drYkUzLWxrX1pOZGc5ZGl0QUVJOkRSZXNOZXRzIC0gRGVlcCA8Yj5SZXNpZHVhbDwvYj4gTGVhcm5pbmcgZm9yIDxiPkltYWdlIFJlY29nbml0aW9uPC9iPkKwAVJlZ2lzdGVyOiB3YW5kYi5tZS9wcmcgUmVzTmV0cyA8Yj5QYXBlcjwvYj46IFsxNTEyLjAzMzg1XSBEZWVwIDxiPlJlc2lkdWFsPC9iPiBMZWFybmluZyBmb3IgPGI-SW1hZ2UgUmVjb2duaXRpb248L2I-IEZvcnVtOiBSZXNOZXRzIC0gRGVlcCA8Yj5SZXNpZHVhbDwvYj4gTGVhcm5pbmcgZm9yJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "Register: wandb.me/prg ResNets Paper: [1512.03385] Deep Residual Learning for Image Recognition Forum: ResNets - Deep Residual Learning for ...",
+      "icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAAAQBwCdASocABwAPtE8tFooIigoFAEAGgliAMTmIA3hL_aHQAVhj_neRfUA6NYcbaa7qYYnuOJdMkkG9HpkxTdYAAD-8pjTYDb2aRPsyveWwWfuc1QF5KbaEmg5qCjcwYc3rymCbsQxskvIAdvGZJhh0Vdn38NDhDpbumafpFcmEHU9SQPNEvyvmwZI-qY1-sgvsc7CIuKBL54PmK_AWNaJmwWwG8D5kFTI00_nTtiZbfZ83A7qe8lvjyK1xwtKx3QM3dfeI7loEJbxfozpcDTLX_iRABrhiYVry9xzAZ9dWT825nvYYTlADlO4itHDJRpDcwE9fxdne9f2rjyYkOvlxzT18U_HyTlk8IlyFOQCCmDqc9cAAA.webp",
+      "source_info_link": "https://community.wandb.ai/t/resnets-deep-residual-learning-for-image-recognition/461"
+     }
+    },
+    "date": "07‏/09‏/2021",
+    "displayed_link": "https://community.wandb.ai › resnet...",
+    "favicon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAAAQBwCdASocABwAPtE8tFooIigoFAEAGgliAMTmIA3hL_aHQAVhj_neRfUA6NYcbaa7qYYnuOJdMkkG9HpkxTdYAAD-8pjTYDb2aRPsyveWwWfuc1QF5KbaEmg5qCjcwYc3rymCbsQxskvIAdvGZJhh0Vdn38NDhDpbumafpFcmEHU9SQPNEvyvmwZI-qY1-sgvsc7CIuKBL54PmK_AWNaJmwWwG8D5kFTI00_nTtiZbfZ83A7qe8lvjyK1xwtKx3QM3dfeI7loEJbxfozpcDTLX_iRABrhiYVry9xzAZ9dWT825nvYYTlADlO4itHDJRpDcwE9fxdne9f2rjyYkOvlxzT18U_HyTlk8IlyFOQCCmDqc9cAAA.webp",
+    "link": "https://community.wandb.ai/t/resnets-deep-residual-learning-for-image-recognition/461",
+    "position": 8,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFWiDVBXNdRDsis1JzmipjZtOwKI-hUeZld4x6xTZZLPN193g8PJ-9hmEoxFl1KaKAGUZlNuIdNDZUDXvIIsU3ZK80dqFfdsx0Lwu5gA4T3L1-FAMLCV4syY2J4TOEzQ1RjfIms6G9P1t-Q6HWZQv7YZTZHnT91XXI_WWkbE3-lk_ZNdg9ditAEI&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQFnoECEgQAQ&uoh=1",
+    "snippet": "Register: wandb.me/prg ResNets Paper: [1512.03385] Deep Residual Learning for Image Recognition Forum: ResNets - Deep Residual Learning for ...",
+    "snippet_highlighted_words": [
+     "Paper",
+     "Residual",
+     "Image Recognition",
+     "Residual"
+    ],
+    "source": "W&B Community",
+    "title": "ResNets - Deep Residual Learning for Image Recognition"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZTYUVHbi1peERSZTc4S0tYRHc4d05iMFhqQnJPT2IxR0VFTVR5aTRrQzhwRjAzWmtndlJTT2stRnhmaHNZc1FuTE5SN2V0TjBXbmp1c21UUkc5Yk5aQTFkTUlqem4yY3dmaWNlX0N2eldROXZRQzV6RjNmMnU0bXJueWVjTnRqSm9zSWtzZzN0T2dhOWZ3VnFTcU02T2ZyaUhOcFgwdTZCXzMxekVZSzlWaUJodxIEGgIIABr1CxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDRCwgAEAAYACAAKi0KBXdoaWNoFUb5zz4aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIVzehCPxoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVSztoPhoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBVyTItAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVB9bAPxoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRVrn2pAGgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhVSU2ZAGg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RlNhRUduLWl4RFJlNzhLS1hEdzh3TmIwWGpCck9PYjFHRUVNVHlpNGtDOHBGMDNaa2d2UlNPay1GeGZoc1lzUW5MTlI3ZXROMFduanVzbVRSRzliTlpBMWRNSWp6bjJjd2ZpY2VfQ3Z6V1E5dlFDNXpGM2YydTRtcm55ZWNOdGpKb3NJa3NnM3RPZ2E5ZndWcVNxTTZPZnJpSE5wWDB1NkJfMzF6RVlLOVZpQmh3OklEZWVwIDxiPlJlc2lkdWFsPC9iPiBMZWFybmluZyBmb3IgPGI-SW1hZ2UgUmVjb2duaXRpb248L2I-IC0gQWNhZGVtaWEuZWR1QrQBV2UgcHJlc2VudCBhIDxiPnJlc2lkdWFsPC9iPiBsZWFybmluZyBmcmFtZXdvcmsgdG8gZWFzZSB0aGUgdHJhaW5pbmcgb2YgPGI-bmV0d29ya3M8L2I-IHRoYXQgYXJlIHN1YnN0YW50aWFsbHkgZGVlcGVyIHRoYW4gdGhvc2UgdXNlZCBwcmV2aW91c2x5LiBXZSBleHBsaWNpdGx5IHJlZm9ybXVsYXRlJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZTYUVHbi1peERSZTc4S0tYRHc4d05iMFhqQnJPT2IxR0VFTVR5aTRrQzhwRjAzWmtndlJTT2stRnhmaHNZc1FuTE5SN2V0TjBXbmp1c21UUkc5Yk5aQTFkTUlqem4yY3dmaWNlX0N2eldROXZRQzV6RjNmMnU0bXJueWVjTnRqSm9zSWtzZzN0T2dhOWZ3VnFTcU02T2ZyaUhOcFgwdTZCXzMxekVZSzlWaUJodxIEGgIIABr1CxIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDRCwgAEAAYACAAKi0KBXdoaWNoFUb5zz4aBtmI2YrYtBoKaXY7ZDt3aGljaBoLaXY7ZDvZiNmK2LQqWwoFcGFwZXIVzehCPxoGcGFwZXJzGgjYqNin2KjYsRoG2YjYsdmCGgppdjtkO3BhcGVyGgtpdjtkO3BhcGVycxoNaXY7ZDvYqNin2KjYsRoLaXY7ZDvZiNix2YIqqAIKCmludHJvZHVjZWQVSztoPhoHYnJvdWdodBoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaC2ltcGxlbWVudGVkGglpbnRyb2R1Y2UaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aCGxhdW5jaGVkGglwcmVzZW50ZWQaB3N0YXJ0ZWQaBti52LHYthoPaXY7ZDtpbnRyb2R1Y2VkGgxpdjtkO2Jyb3VnaHQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoOaXY7ZDtpbnRyb2R1Y2UaEGl2O2Q7aW50cm9kdWNpbmcaEWl2O2Q7aW50cm9kdWN0aW9uGg5pdjtkO3ByZXNlbnRlZBoMaXY7ZDtzdGFydGVkGgtpdjtkO9i52LHYtipkCghyZXNpZHVhbBVyTItAGglyZXNpZHVhbHMaENin2YTZhdiq2KjZgtmK2KkaEHJlc2lkdWFsbmV0d29ya3MaDWl2O2Q7cmVzaWR1YWwaFWl2O2Q72KfZhNmF2KrYqNmC2YrZhyqrAQoIbmV0d29ya3MVB9bAPxoEbmV0cxoHbmV0d29yaxoK2LTYqNmD2KfYqhoI2LTYqNmD2KkaDNmG2KrZiNix2YPYsxoQcmVzaWR1YWxuZXR3b3JrcxoNaXY7ZDtuZXR3b3JrcxoNaXY7ZDtsZWFybmluZxoJaXY7ZDtuZXRzGgxpdjtkO25ldHdvcmsaD2l2O2Q72LTYqNmD2KfYqhoNaXY7ZDvYtNio2YPZhyoKCgNmb3IVAAAAACp1CgVpbWFnZRVrn2pAGgdwaWN0dXJlGgjYp9mF2KfYrBoQaW1hZ2VyZWNvZ25pdGlvbhoKaXY7ZDtpbWFnZRoLaXY7ZDtpbWFnZXMaDGl2O2Q7cGF0dGVybhoMaXY7ZDtwaWN0dXJlGg1pdjtkO9in2YXYp9isKqoBCgtyZWNvZ25pdGlvbhVSU2ZAGg5pZGVudGlmaWNhdGlvbhoQ2KfZhNin2LnYqtix2KfZgRoQaW1hZ2VyZWNvZ25pdGlvbhoQaXY7ZDtyZWNvZ25pdGlvbhoTaXY7ZDtjbGFzc2lmaWNhdGlvbhoTaXY7ZDtpZGVudGlmaWNhdGlvbhoPaXY7ZDtwcm9jZXNzaW5nGhVpdjtkO9in2YTYp9i52KrYsdin2YEyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RlNhRUduLWl4RFJlNzhLS1hEdzh3TmIwWGpCck9PYjFHRUVNVHlpNGtDOHBGMDNaa2d2UlNPay1GeGZoc1lzUW5MTlI3ZXROMFduanVzbVRSRzliTlpBMWRNSWp6bjJjd2ZpY2VfQ3Z6V1E5dlFDNXpGM2YydTRtcm55ZWNOdGpKb3NJa3NnM3RPZ2E5ZndWcVNxTTZPZnJpSE5wWDB1NkJfMzF6RVlLOVZpQmh3OklEZWVwIDxiPlJlc2lkdWFsPC9iPiBMZWFybmluZyBmb3IgPGI-SW1hZ2UgUmVjb2duaXRpb248L2I-IC0gQWNhZGVtaWEuZWR1QrQBV2UgcHJlc2VudCBhIDxiPnJlc2lkdWFsPC9iPiBsZWFybmluZyBmcmFtZXdvcmsgdG8gZWFzZSB0aGUgdHJhaW5pbmcgb2YgPGI-bmV0d29ya3M8L2I-IHRoYXQgYXJlIHN1YnN0YW50aWFsbHkgZGVlcGVyIHRoYW4gdGhvc2UgdXNlZCBwcmV2aW91c2x5LiBXZSBleHBsaWNpdGx5IHJlZm9ybXVsYXRlJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "ar"
+     ],
+     "regions": [
+      "AE"
+     ],
+     "source": {
+      "description": "We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate ...",
+      "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAAAQBQCdASocABwAPtEutFooIagoGAEAGglpAARAnxroN_j4blu_Z5ac2drfQL98Mr4AAP72AlUE5ci0_UfUX-NWu7QpdFxg8RpD10jr6SWQzlUEUqJ69ehx3RDjt_YCK-5szbv9l6wraSLgbJw46_wsyHiap_46dxle3EXj_KkuTCx8kVssm56WvPz1Dz743vQKnDelkXTrJuN5vlMRXxWmdvoNW_rujT7eZf6Y3vgTyFE5jBLPll6Z99z2Tt0ZXUhOP9QAAAA.webp",
+      "source_info_link": "https://www.academia.edu/33993234/Deep_Residual_Learning_for_Image_Recognition"
+     }
+    },
+    "displayed_link": "https://www.academia.edu › Deep_...",
+    "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAAAQBQCdASocABwAPtEutFooIagoGAEAGglpAARAnxroN_j4blu_Z5ac2drfQL98Mr4AAP72AlUE5ci0_UfUX-NWu7QpdFxg8RpD10jr6SWQzlUEUqJ69ehx3RDjt_YCK-5szbv9l6wraSLgbJw46_wsyHiap_46dxle3EXj_KkuTCx8kVssm56WvPz1Dz743vQKnDelkXTrJuN5vlMRXxWmdvoNW_rujT7eZf6Y3vgTyFE5jBLPll6Z99z2Tt0ZXUhOP9QAAAA.webp",
+    "link": "https://www.academia.edu/33993234/Deep_Residual_Learning_for_Image_Recognition",
+    "position": 9,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFSaEGn-ixDRe78KKXDw8wNb0XjBrOOb1GEEMTyi4kC8pF03ZkgvRSOk-FxfhsYsQnLNR7etN0WnjusmTRG9bNZA1dMIjzn2cwfice_CvzWQ9vQC5zF3f2u4mrnyecNtjJosIksg3tOga9fwVqSqM6OfriHNpX0u6B_31zEYK9ViBhw&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQFnoECD8QAQ&uoh=1",
+    "snippet": "We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate ...",
+    "snippet_highlighted_words": [
+     "residual",
+     "networks"
+    ],
+    "source": "Academia.edu",
+    "title": "(PDF) Deep Residual Learning for Image Recognition"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=10&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8NMDegQIOhAW",
+   "next": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=c16286b74a8621df&sxsrf=APpeQntM3LHVUwkZ4fN_y8ZTA7F4COOEIQ:1790544350995&ei=3om5aoSePKSFw8cP37Pf4Qk&start=10&sa=N&sstk=AS6-VmIdGPGLD7Xqn0Zlli4XOf8htyGPoWC--7R6JcQ7ycfqoqSzfwGzii-Wv-8F8U81gmLGXNTUqPB0xqUps-VT1TLb2PIEe59KfA&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQ8NMDegQIORAK",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=90&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8tMDegQIOhAU",
-    "2": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=10&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8tMDegQIOhAE",
-    "3": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=20&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8tMDegQIOhAG",
-    "4": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=30&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8tMDegQIOhAI",
-    "5": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=40&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8tMDegQIOhAK",
-    "6": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=50&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8tMDegQIOhAM",
-    "7": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=60&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8tMDegQIOhAO",
-    "8": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=70&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8tMDegQIOhAQ",
-    "9": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=646215d9fbd2647e&ei=jMSvatq5C8TKkPIPz42uqA0&start=80&sa=N&sstk=AS6-VmKcGU5cQhbDm96yjedrc2U6lCw2cc4nEmoVHNG1Q3y6B6GlTJPj7tPsJpLdQgJ4l7MagF5H2e0okOditOrc4Z5y9x3WmXx08w&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ8tMDegQIOhAS"
+    "2": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=c16286b74a8621df&sxsrf=APpeQntM3LHVUwkZ4fN_y8ZTA7F4COOEIQ:1790544350995&ei=3om5aoSePKSFw8cP37Pf4Qk&start=10&sa=N&sstk=AS6-VmIdGPGLD7Xqn0Zlli4XOf8htyGPoWC--7R6JcQ7ycfqoqSzfwGzii-Wv-8F8U81gmLGXNTUqPB0xqUps-VT1TLb2PIEe59KfA&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQ8tMDegQIORAE",
+    "3": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=c16286b74a8621df&sxsrf=APpeQntM3LHVUwkZ4fN_y8ZTA7F4COOEIQ:1790544350995&ei=3om5aoSePKSFw8cP37Pf4Qk&start=20&sa=N&sstk=AS6-VmIdGPGLD7Xqn0Zlli4XOf8htyGPoWC--7R6JcQ7ycfqoqSzfwGzii-Wv-8F8U81gmLGXNTUqPB0xqUps-VT1TLb2PIEe59KfA&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQ8tMDegQIORAG",
+    "4": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition?&sca_esv=c16286b74a8621df&sxsrf=APpeQntM3LHVUwkZ4fN_y8ZTA7F4COOEIQ:1790544350995&ei=3om5aoSePKSFw8cP37Pf4Qk&start=30&sa=N&sstk=AS6-VmIdGPGLD7Xqn0Zlli4XOf8htyGPoWC--7R6JcQ7ycfqoqSzfwGzii-Wv-8F8U81gmLGXNTUqPB0xqUps-VT1TLb2PIEe59KfA&ved=2ahUKEwiEhfu_2Y-XAxWkwvACHd_ZN5wQ8tMDegQIORAI"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NITkdTbkZPVjFCRGIxTlViSGcyV201Q1JWVmxia1ZRTkdKbGRqZGFPV2czU1hGNlZqSlhXazFEWlRadVQzTjFlblpLYkRWTlZsRlJTMHd0Y1ZOS09IcFVWVTVWYkY4eVduaDJRVzlUV2xaRFoybExUSFpwZDBWUFp4SVhhazFUZG1GMGNUVkRPRlJMYTFCSlVIbzBNblZ4UVRBYUlrRkVjM0k1WmxFNFlVTnBNVWRCVlRCYVdGcFRjVnAxUjBSWFVFUlNibDgwVGtFIiwiZmN2IjoiMyIsImVpIjoiak1TdmF0cTVDOFRLa1BJUHo0MnVxQTAiLCJxYyI6ImN3M0tNUTZBSUF3QVFHY21udEJmdU9sYm1sS2hVVnRTSUV6LVhlYTdjTXdpVktCaVpRZlI3cFlHY1FMbkptbmdBOHA5bXQ4Tkxsdmh4Y3pMeUxKS0Y5TzRmVEhzNXc4IiwicXVlc3Rpb24iOiJJcyByZXNuZXQ1MCBzdGlsbCByZWxldmFudD8iLCJsayI6IkdocHBjeUJ5WlhOdVpYUTFNQ0J6ZEdsc2JDQnlaV3hsZG1GdWRBIiwiYnMiOiJjNVdPSVFfQ01CQ0ZnejJGQVpLQ09FTXdDQ2lnRUJOVG1Bbk1kQ20zclZsM1RkYU9fWDBhQmdpU0NkVGw4dDczOHNFWmxoZVBMWG1tY05xaEQ4YmEtRnA2S0E2SlhBbGhSbU9vNFpCWFJsZkkxTFhLeGhONjE5WVlrYzdUSFF2WG9tbFVTUkhScm1RVGpPTkVIb1hzXzhaZ0RfTm9laVdmVVVDRmFaWmg0LTVrRTdrUXM2OWtURFR6a0VBTzIxVHhoN25SNzd5MnludFRHSzBHc1kxWXYxZGVfR2h6T25rQyIsImlkIjoiZmNfak1TdmF0cTVDOFRLa1BJUHo0MnVxQTBfNCJ9",
-    "page_token": "Fw5z4XicHdBRboIwGADg7DI-iqXqEhOzDC04ojig_at9WUpRqxRhs1vBt91lp9ppluw7wvf9Y87X6vdhp61tbzPPc84NT01zMoehampP3vqr8pQ0ppCqmk0fp-jpqObk5oJF44KUtS0ss1HOM5KQ5Loh5SL3Vcewed1GEywYG29Xrd6GyR0YIlmd1QCw3mDQB8O6wpiu5OMe6k4CV1aN7BevTJNDZQ_LmKVIY8ZGuMShoSCQ9PUG_JBCPSGwAy6psAWzlYAYUdCR9I2TFD5LfOrKyrg1D1_2PDS50Z24xO8lEpeC20DycR76bcKw0OWKoPSuWe7bNIdgmixjpBhx0TkOslXSb7mgNNRRsWtswmwnWeoO12e0r0oNNOzTeoMoaYPBUX3N8eB_bP52rO2s_WhOf-sMefA",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZGRjNjVFZOU21ZM09VbHVhbEI2YTNKQmVWRmhhV2xhU2tkUFMySXRiM3B6YkZGc2JEZGtNMXBJUzNsUU9FSnVTVkpKWTBsc05rSlJVM0ZmUzJaMFlqYzFaMG90Y21VMmRGTTBOWFpuT0V4d1NXaHFUREY2WmxKUFp4SVhNMjl0TldGdlUyVlFTMU5HZHpoalVETTNVR1kwVVdzYUlrRkVjM0k1WmxNeGJYVm9OVWxPVDIxVlFWWk5UWEp4ZEhSa2MzQjBTUzFUYkhjIiwiZmN2IjoiMyIsImVpIjoiM29tNWFvU2VQS1NGdzhjUDM3UGY0UWsiLCJxYyI6IkNqNTNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUhKbGMybGtkV0ZzSUc1bGRIZHZjbXR6SUdadmNpQnBiV0ZuWlNCeVpXTnZaMjVwZEdsdmJoQUFmUjgwQno4IiwicXVlc3Rpb24iOiJJcyByZXNuZXQ1MCBzdGlsbCByZWxldmFudD8iLCJsayI6IkdocHBjeUJ5WlhOdVpYUTFNQ0J6ZEdsc2JDQnlaV3hsZG1GdWRBIiwiYnMiOiJjNVdQSVFfQ01CQkdnLVF3R0NBcGlMTzRVVmhDZ3BoQVlTWXc2R1k3dG1aZHU3UTM5dmNwMllKRG9DNTNMLV9MZDNDQjdTMmdwMkNKMHdRRGEyUGlhdWlsTEdkeUo0VC1pYUdCNDZQV1JZMldlcTlNSER3NDMyQlUta0FsUHAxSDNhcUtvbEs0eW1yV3ptYnlKT1R3dHdZSFdNZW1kd281TVNxODVqbTJyaVNUeVkxWWZVdEdVbGc3RWpqRF9sRXJfZ1NQWG54QjJSS0g2YWc1WU5mN3pnWEs1RUxNcDRnMFdjN2UiLCJpZCI6ImZjXzNvbTVhb1NlUEtTRnc4Y1AzN1BmNFFrXzUifQ==",
+    "page_token": "stcCinicHdBLcoIwAADQ6WVcFhCx1RmnU-RXauIQQsBsOiF8VMJHoUbY9S49VU_TTo_w3te3ODXVz0NyHIauXyuKlPKxbNtS5I-8rRXWjw1XOBMiZbxaL5-W2kvBN3YvzW0rzSDqOmIhFXvwBDw4BtG95pX4hPbdwBESuYvOpFpdQovQuDbqVBDIbVLTClnEHi5IlAvkvak8Oe4O2NRBZagsAfc01LbYpiAYtffQHgBwCEpjpyFxJPeeH_CExgj7XaYSxNRVQy3fBS5xM11INtEOOQcJq2cNqGS-I6ueJVnBPWTkVUZg0p2zuAydCd5STI6pBkVkDxg1fHHQXieomTV0nKt78k30Z9rHFIXYp4kqR4yFDut-gk0pgzk651E5EOKYbA7NWcFvG332P7b5KOph3V3b8hfh_Xll",
     "question": "Is resnet50 still relevant?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Fw5z4XicHdBRboIwGADg7DI-iqXqEhOzDC04ojig_at9WUpRqxRhs1vBt91lp9ppluw7wvf9Y87X6vdhp61tbzPPc84NT01zMoehampP3vqr8pQ0ppCqmk0fp-jpqObk5oJF44KUtS0ss1HOM5KQ5Loh5SL3Vcewed1GEywYG29Xrd6GyR0YIlmd1QCw3mDQB8O6wpiu5OMe6k4CV1aN7BevTJNDZQ_LmKVIY8ZGuMShoSCQ9PUG_JBCPSGwAy6psAWzlYAYUdCR9I2TFD5LfOrKyrg1D1_2PDS50Z24xO8lEpeC20DycR76bcKw0OWKoPSuWe7bNIdgmixjpBhx0TkOslXSb7mgNNRRsWtswmwnWeoO12e0r0oNNOzTeoMoaYPBUX3N8eB_bP52rO2s_WhOf-sMefA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NITkdTbkZPVjFCRGIxTlViSGcyV201Q1JWVmxia1ZRTkdKbGRqZGFPV2czU1hGNlZqSlhXazFEWlRadVQzTjFlblpLYkRWTlZsRlJTMHd0Y1ZOS09IcFVWVTVWYkY4eVduaDJRVzlUV2xaRFoybExUSFpwZDBWUFp4SVhhazFUZG1GMGNUVkRPRlJMYTFCSlVIbzBNblZ4UVRBYUlrRkVjM0k1WmxFNFlVTnBNVWRCVlRCYVdGcFRjVnAxUjBSWFVFUlNibDgwVGtFIiwiZmN2IjoiMyIsImVpIjoiak1TdmF0cTVDOFRLa1BJUHo0MnVxQTAiLCJxYyI6ImN3M0tNUTZBSUF3QVFHY21udEJmdU9sYm1sS2hVVnRTSUV6LVhlYTdjTXdpVktCaVpRZlI3cFlHY1FMbkptbmdBOHA5bXQ4Tkxsdmh4Y3pMeUxKS0Y5TzRmVEhzNXc4IiwicXVlc3Rpb24iOiJJcyByZXNuZXQ1MCBzdGlsbCByZWxldmFudD8iLCJsayI6IkdocHBjeUJ5WlhOdVpYUTFNQ0J6ZEdsc2JDQnlaV3hsZG1GdWRBIiwiYnMiOiJjNVdPSVFfQ01CQ0ZnejJGQVpLQ09FTXdDQ2lnRUJOVG1Bbk1kQ20zclZsM1RkYU9fWDBhQmdpU0NkVGw4dDczOHNFWmxoZVBMWG1tY05xaEQ4YmEtRnA2S0E2SlhBbGhSbU9vNFpCWFJsZkkxTFhLeGhONjE5WVlrYzdUSFF2WG9tbFVTUkhScm1RVGpPTkVIb1hzXzhaZ0RfTm9laVdmVVVDRmFaWmg0LTVrRTdrUXM2OWtURFR6a0VBTzIxVHhoN25SNzd5MnludFRHSzBHc1kxWXYxZGVfR2h6T25rQyIsImlkIjoiZmNfak1TdmF0cTVDOFRLa1BJUHo0MnVxQTBfNCJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=stcCinicHdBLcoIwAADQ6WVcFhCx1RmnU-RXauIQQsBsOiF8VMJHoUbY9S49VU_TTo_w3te3ODXVz0NyHIauXyuKlPKxbNtS5I-8rRXWjw1XOBMiZbxaL5-W2kvBN3YvzW0rzSDqOmIhFXvwBDw4BtG95pX4hPbdwBESuYvOpFpdQovQuDbqVBDIbVLTClnEHi5IlAvkvak8Oe4O2NRBZagsAfc01LbYpiAYtffQHgBwCEpjpyFxJPeeH_CExgj7XaYSxNRVQy3fBS5xM11INtEOOQcJq2cNqGS-I6ueJVnBPWTkVUZg0p2zuAydCd5STI6pBkVkDxg1fHHQXieomTV0nKt78k30Z9rHFIXYp4kqR4yFDut-gk0pgzk651E5EOKYbA7NWcFvG332P7b5KOph3V3b8hfh_Xll",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZGRjNjVFZOU21ZM09VbHVhbEI2YTNKQmVWRmhhV2xhU2tkUFMySXRiM3B6YkZGc2JEZGtNMXBJUzNsUU9FSnVTVkpKWTBsc05rSlJVM0ZmUzJaMFlqYzFaMG90Y21VMmRGTTBOWFpuT0V4d1NXaHFUREY2WmxKUFp4SVhNMjl0TldGdlUyVlFTMU5HZHpoalVETTNVR1kwVVdzYUlrRkVjM0k1WmxNeGJYVm9OVWxPVDIxVlFWWk5UWEp4ZEhSa2MzQjBTUzFUYkhjIiwiZmN2IjoiMyIsImVpIjoiM29tNWFvU2VQS1NGdzhjUDM3UGY0UWsiLCJxYyI6IkNqNTNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUhKbGMybGtkV0ZzSUc1bGRIZHZjbXR6SUdadmNpQnBiV0ZuWlNCeVpXTnZaMjVwZEdsdmJoQUFmUjgwQno4IiwicXVlc3Rpb24iOiJJcyByZXNuZXQ1MCBzdGlsbCByZWxldmFudD8iLCJsayI6IkdocHBjeUJ5WlhOdVpYUTFNQ0J6ZEdsc2JDQnlaV3hsZG1GdWRBIiwiYnMiOiJjNVdQSVFfQ01CQkdnLVF3R0NBcGlMTzRVVmhDZ3BoQVlTWXc2R1k3dG1aZHU3UTM5dmNwMllKRG9DNTNMLV9MZDNDQjdTMmdwMkNKMHdRRGEyUGlhdWlsTEdkeUo0VC1pYUdCNDZQV1JZMldlcTlNSER3NDMyQlUta0FsUHAxSDNhcUtvbEs0eW1yV3ptYnlKT1R3dHdZSFdNZW1kd281TVNxODVqbTJyaVNUeVkxWWZVdEdVbGc3RWpqRF9sRXJfZ1NQWG54QjJSS0g2YWc1WU5mN3pnWEs1RUxNcDRnMFdjN2UiLCJpZCI6ImZjXzNvbTVhb1NlUEtTRnc4Y1AzN1BmNFFrXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NITkdTbkZPVjFCRGIxTlViSGcyV201Q1JWVmxia1ZRTkdKbGRqZGFPV2czU1hGNlZqSlhXazFEWlRadVQzTjFlblpLYkRWTlZsRlJTMHd0Y1ZOS09IcFVWVTVWYkY4eVduaDJRVzlUV2xaRFoybExUSFpwZDBWUFp4SVhhazFUZG1GMGNUVkRPRlJMYTFCSlVIbzBNblZ4UVRBYUlrRkVjM0k1WmxFNFlVTnBNVWRCVlRCYVdGcFRjVnAxUjBSWFVFUlNibDgwVGtFIiwiZmN2IjoiMyIsImVpIjoiak1TdmF0cTVDOFRLa1BJUHo0MnVxQTAiLCJxYyI6ImN3M0tNUTZBSUF3QVFHY21udEJmdU9sYm1sS2hVVnRTSUV6LVhlYTdjTXdpVktCaVpRZlI3cFlHY1FMbkptbmdBOHA5bXQ4Tkxsdmh4Y3pMeUxKS0Y5TzRmVEhzNXc4IiwicXVlc3Rpb24iOiJXaGljaCBuZXVyYWwgbmV0d29yayBpcyB1c2VkIGZvciBpbWFnZSByZWNvZ25pdGlvbj8iLCJsayI6IkdqSjNhR2xqYUNCdVpYVnlZV3dnYm1WMGQyOXlheUJwY3lCMWMyVmtJR1p2Y2lCcGJXRm5aU0J5WldOdloyNXBkR2x2YmciLCJicyI6ImM1V09JUV9DTUJDRmd6MkZBWktDT0VNd0NDaWdFQk5UbUFuTWRDbTNyVmwzVGRhT19YMGFCZ2lTQ2RUbDh0NzM4c0VabGhlUExYbW1jTnFoRDhiYS1GcDZLQTZKWEFsaFJtT280WkJYUmxmSTFMWEt4aE42MTlZWWtjN1RIUXZYb21sVVNSSFJybVFUak9ORUhvWHNfOFpnRF9Ob2VpV2ZVVUNGYVpaaDQtNWtFN2tRczY5a1REVHprRUFPMjFUeGg3blI3N3kyeW50VEdLMEdzWTFZdjFkZV9HaHpPbmtDIiwiaWQiOiJmY19qTVN2YXRxNUM4VEtrUElQejQydXFBMF80In0=",
-    "page_token": "FbUNenicHdHbbpswGABg7WV62XAYrIsUTaKYpFFtZGP_Bm4mYkNCMIckdCa927vseg-0p1nVN_ik7_cf0w7dvy9_T_M83darlbX28TiOR1M_qrFfVbf7oFaqMuZQqW4dfgvdH43aoNE-P99sRMU0QcycbHhxhCCyQs6deeSN5qysTDQUzuIpYS4yPnkpPFnoA5JyPdbbuaEutpCQgchi1oOpSs5IwYFJtE-1R-hr5obFoO8sLzGGJ0d2J8i9wqc-CbEo4bAzp1q4b1Im-xRZV7jJjXXLS51oRmLW1nIRacIs86AtYBJ4BwHnRnIfeiKDvRLfZ7yLLuDosorLM5cm-3BBLVhcbZOgjkn1CtTJnHmbxSape8crBuworjvcgQWzJ8RjoRJTyH12Kfrlik76woF4Rc4WIvBXQPNVIEPrM73rPIlwNLZUsHd1Nj2gkgvRzRkqt2kCIyC3wedjoP2ozbopOLRuLuhDo35t_IfPh83Ppp_X03U8_geqsJWS",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZGRjNjVFZOU21ZM09VbHVhbEI2YTNKQmVWRmhhV2xhU2tkUFMySXRiM3B6YkZGc2JEZGtNMXBJUzNsUU9FSnVTVkpKWTBsc05rSlJVM0ZmUzJaMFlqYzFaMG90Y21VMmRGTTBOWFpuT0V4d1NXaHFUREY2WmxKUFp4SVhNMjl0TldGdlUyVlFTMU5HZHpoalVETTNVR1kwVVdzYUlrRkVjM0k1WmxNeGJYVm9OVWxPVDIxVlFWWk5UWEp4ZEhSa2MzQjBTUzFUYkhjIiwiZmN2IjoiMyIsImVpIjoiM29tNWFvU2VQS1NGdzhjUDM3UGY0UWsiLCJxYyI6IkNqNTNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUhKbGMybGtkV0ZzSUc1bGRIZHZjbXR6SUdadmNpQnBiV0ZuWlNCeVpXTnZaMjVwZEdsdmJoQUFmUjgwQno4IiwicXVlc3Rpb24iOiJXaGljaCBuZXVyYWwgbmV0d29yayBpcyB1c2VkIGZvciBpbWFnZSByZWNvZ25pdGlvbj8iLCJsayI6IkdqSjNhR2xqYUNCdVpYVnlZV3dnYm1WMGQyOXlheUJwY3lCMWMyVmtJR1p2Y2lCcGJXRm5aU0J5WldOdloyNXBkR2x2YmciLCJicyI6ImM1V1BJUV9DTUJCR2ctUXdHQ0FwaUxPNFVWaENncGhBWVNZdzZHWTd0bVpkdTdRMzl2Y3AyWUpEb0M1M0wtX0xkM0NCN1MyZ3AyQ0owd1FEYTJQaWF1aWxMR2R5SjRULWlhR0I0NlBXUlkyV2VxOU1IRHc0MzJCVS1rQWxQcDFIM2FxS29sSzR5bXJXem1ieUpPVHd0d1lIV01lbWR3bzVNU3E4NWptMnJpU1R5WTFZZlV0R1VsZzdFampEX2xFcl9nU1BYbnhCMlJLSDZhZzVZTmY3emdYSzVFTE1wNGcwV2M3ZSIsImlkIjoiZmNfM29tNWFvU2VQS1NGdzhjUDM3UGY0UWtfNSJ9",
+    "page_token": "Ud3iqHicHZFBjpswFEDVy8xygiGTdiJFVQkmHRScscHfgU1l7CYE24BKGgi73qXrHqinadQDvPcW79dve2nN3w9_6uu1H9aLxTiOz-euO9vvz6pzCzncW7VQ0tpKKrNefVyhzye1wd243Q5jSHnfQ8S8jGvHMIwFqr_mosyU0Vbn2rCckdTBigTlvTIAkjOzB90wN_gVSljK41sRsIOck5swDwdALXG9zaC4KlsfpH2btEgGwGRQTfKo9IgFMVNHncrG9tqLo8L1CcAbovOXJYAWRx9JhZI9bfQMCPtlXOIUvzY5CqkQn6bMob7ktoMGTgUnO95aL-UT4zuLmTehCpNWiOXIgnCu3EtNAFrmtJPc5jJK4MFbaZAlpm_yKB4rgPcMxYLY5IZrNVe-hwrxmpcQ7rlXBocdoemsadkwJqfuQjmbVWMdd3XIo_gn4TAUPhqlgRdqw4s6xksuJsTu3pLSp5O6bYKn_x82307uuu5_dOd_LNeXlg",
     "question": "Which neural network is used for image recognition?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FbUNenicHdHbbpswGABg7WV62XAYrIsUTaKYpFFtZGP_Bm4mYkNCMIckdCa927vseg-0p1nVN_ik7_cf0w7dvy9_T_M83darlbX28TiOR1M_qrFfVbf7oFaqMuZQqW4dfgvdH43aoNE-P99sRMU0QcycbHhxhCCyQs6deeSN5qysTDQUzuIpYS4yPnkpPFnoA5JyPdbbuaEutpCQgchi1oOpSs5IwYFJtE-1R-hr5obFoO8sLzGGJ0d2J8i9wqc-CbEo4bAzp1q4b1Im-xRZV7jJjXXLS51oRmLW1nIRacIs86AtYBJ4BwHnRnIfeiKDvRLfZ7yLLuDosorLM5cm-3BBLVhcbZOgjkn1CtTJnHmbxSape8crBuworjvcgQWzJ8RjoRJTyH12Kfrlik76woF4Rc4WIvBXQPNVIEPrM73rPIlwNLZUsHd1Nj2gkgvRzRkqt2kCIyC3wedjoP2ozbopOLRuLuhDo35t_IfPh83Ppp_X03U8_geqsJWS",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NITkdTbkZPVjFCRGIxTlViSGcyV201Q1JWVmxia1ZRTkdKbGRqZGFPV2czU1hGNlZqSlhXazFEWlRadVQzTjFlblpLYkRWTlZsRlJTMHd0Y1ZOS09IcFVWVTVWYkY4eVduaDJRVzlUV2xaRFoybExUSFpwZDBWUFp4SVhhazFUZG1GMGNUVkRPRlJMYTFCSlVIbzBNblZ4UVRBYUlrRkVjM0k1WmxFNFlVTnBNVWRCVlRCYVdGcFRjVnAxUjBSWFVFUlNibDgwVGtFIiwiZmN2IjoiMyIsImVpIjoiak1TdmF0cTVDOFRLa1BJUHo0MnVxQTAiLCJxYyI6ImN3M0tNUTZBSUF3QVFHY21udEJmdU9sYm1sS2hVVnRTSUV6LVhlYTdjTXdpVktCaVpRZlI3cFlHY1FMbkptbmdBOHA5bXQ4Tkxsdmh4Y3pMeUxKS0Y5TzRmVEhzNXc4IiwicXVlc3Rpb24iOiJXaGljaCBuZXVyYWwgbmV0d29yayBpcyB1c2VkIGZvciBpbWFnZSByZWNvZ25pdGlvbj8iLCJsayI6IkdqSjNhR2xqYUNCdVpYVnlZV3dnYm1WMGQyOXlheUJwY3lCMWMyVmtJR1p2Y2lCcGJXRm5aU0J5WldOdloyNXBkR2x2YmciLCJicyI6ImM1V09JUV9DTUJDRmd6MkZBWktDT0VNd0NDaWdFQk5UbUFuTWRDbTNyVmwzVGRhT19YMGFCZ2lTQ2RUbDh0NzM4c0VabGhlUExYbW1jTnFoRDhiYS1GcDZLQTZKWEFsaFJtT280WkJYUmxmSTFMWEt4aE42MTlZWWtjN1RIUXZYb21sVVNSSFJybVFUak9ORUhvWHNfOFpnRF9Ob2VpV2ZVVUNGYVpaaDQtNWtFN2tRczY5a1REVHprRUFPMjFUeGg3blI3N3kyeW50VEdLMEdzWTFZdjFkZV9HaHpPbmtDIiwiaWQiOiJmY19qTVN2YXRxNUM4VEtrUElQejQydXFBMF80In0%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ud3iqHicHZFBjpswFEDVy8xygiGTdiJFVQkmHRScscHfgU1l7CYE24BKGgi73qXrHqinadQDvPcW79dve2nN3w9_6uu1H9aLxTiOz-euO9vvz6pzCzncW7VQ0tpKKrNefVyhzye1wd243Q5jSHnfQ8S8jGvHMIwFqr_mosyU0Vbn2rCckdTBigTlvTIAkjOzB90wN_gVSljK41sRsIOck5swDwdALXG9zaC4KlsfpH2btEgGwGRQTfKo9IgFMVNHncrG9tqLo8L1CcAbovOXJYAWRx9JhZI9bfQMCPtlXOIUvzY5CqkQn6bMob7ktoMGTgUnO95aL-UT4zuLmTehCpNWiOXIgnCu3EtNAFrmtJPc5jJK4MFbaZAlpm_yKB4rgPcMxYLY5IZrNVe-hwrxmpcQ7rlXBocdoemsadkwJqfuQjmbVWMdd3XIo_gn4TAUPhqlgRdqw4s6xksuJsTu3pLSp5O6bYKn_x82307uuu5_dOd_LNeXlg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZGRjNjVFZOU21ZM09VbHVhbEI2YTNKQmVWRmhhV2xhU2tkUFMySXRiM3B6YkZGc2JEZGtNMXBJUzNsUU9FSnVTVkpKWTBsc05rSlJVM0ZmUzJaMFlqYzFaMG90Y21VMmRGTTBOWFpuT0V4d1NXaHFUREY2WmxKUFp4SVhNMjl0TldGdlUyVlFTMU5HZHpoalVETTNVR1kwVVdzYUlrRkVjM0k1WmxNeGJYVm9OVWxPVDIxVlFWWk5UWEp4ZEhSa2MzQjBTUzFUYkhjIiwiZmN2IjoiMyIsImVpIjoiM29tNWFvU2VQS1NGdzhjUDM3UGY0UWsiLCJxYyI6IkNqNTNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUhKbGMybGtkV0ZzSUc1bGRIZHZjbXR6SUdadmNpQnBiV0ZuWlNCeVpXTnZaMjVwZEdsdmJoQUFmUjgwQno4IiwicXVlc3Rpb24iOiJXaGljaCBuZXVyYWwgbmV0d29yayBpcyB1c2VkIGZvciBpbWFnZSByZWNvZ25pdGlvbj8iLCJsayI6IkdqSjNhR2xqYUNCdVpYVnlZV3dnYm1WMGQyOXlheUJwY3lCMWMyVmtJR1p2Y2lCcGJXRm5aU0J5WldOdloyNXBkR2x2YmciLCJicyI6ImM1V1BJUV9DTUJCR2ctUXdHQ0FwaUxPNFVWaENncGhBWVNZdzZHWTd0bVpkdTdRMzl2Y3AyWUpEb0M1M0wtX0xkM0NCN1MyZ3AyQ0owd1FEYTJQaWF1aWxMR2R5SjRULWlhR0I0NlBXUlkyV2VxOU1IRHc0MzJCVS1rQWxQcDFIM2FxS29sSzR5bXJXem1ieUpPVHd0d1lIV01lbWR3bzVNU3E4NWptMnJpU1R5WTFZZlV0R1VsZzdFampEX2xFcl9nU1BYbnhCMlJLSDZhZzVZTmY3emdYSzVFTE1wNGcwV2M3ZSIsImlkIjoiZmNfM29tNWFvU2VQS1NGdzhjUDM3UGY0UWtfNSJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NITkdTbkZPVjFCRGIxTlViSGcyV201Q1JWVmxia1ZRTkdKbGRqZGFPV2czU1hGNlZqSlhXazFEWlRadVQzTjFlblpLYkRWTlZsRlJTMHd0Y1ZOS09IcFVWVTVWYkY4eVduaDJRVzlUV2xaRFoybExUSFpwZDBWUFp4SVhhazFUZG1GMGNUVkRPRlJMYTFCSlVIbzBNblZ4UVRBYUlrRkVjM0k1WmxFNFlVTnBNVWRCVlRCYVdGcFRjVnAxUjBSWFVFUlNibDgwVGtFIiwiZmN2IjoiMyIsImVpIjoiak1TdmF0cTVDOFRLa1BJUHo0MnVxQTAiLCJxYyI6ImN3M0tNUTZBSUF3QVFHY21udEJmdU9sYm1sS2hVVnRTSUV6LVhlYTdjTXdpVktCaVpRZlI3cFlHY1FMbkptbmdBOHA5bXQ4Tkxsdmh4Y3pMeUxKS0Y5TzRmVEhzNXc4IiwicXVlc3Rpb24iOiJJcyBSZXNOZXQgYSBDTk4gbW9kZWw/IiwibGsiOiJHaFZwY3lCeVpYTnVaWFFnWVNCamJtNGdiVzlrWld3IiwiYnMiOiJjNVdPSVFfQ01CQ0ZnejJGQVpLQ09FTXdDQ2lnRUJOVG1Bbk1kQ20zclZsM1RkYU9fWDBhQmdpU0NkVGw4dDczOHNFWmxoZVBMWG1tY05xaEQ4YmEtRnA2S0E2SlhBbGhSbU9vNFpCWFJsZkkxTFhLeGhONjE5WVlrYzdUSFF2WG9tbFVTUkhScm1RVGpPTkVIb1hzXzhaZ0RfTm9laVdmVVVDRmFaWmg0LTVrRTdrUXM2OWtURFR6a0VBTzIxVHhoN25SNzd5MnludFRHSzBHc1kxWXYxZGVfR2h6T25rQyIsImlkIjoiZmNfak1TdmF0cTVDOFRLa1BJUHo0MnVxQTBfNCJ9",
-    "page_token": "eDAzRHicHdDBboIwAIDh7GU8CoWFDROzrEqtZNTRQoFeFqAICghTZoXb3mVPtaeZ2eFPvvP__dMcTvXvQ1wNQ39ZaJpSal52XdkU87xrtfQynnItT5smS_N6YT1Z4GWfL52LgqtOQT_se76mOuPJ6Ne58vTSpNweWQxvGW5E5gBXmqLlxpDQwFN8QvdeB2-9nYRJqwJz_hahryiiIAXwkTnSkbFEAXLRXSAKIBJYvqe13XDenH0urADZgtQAJxHAjAEhYmllsXstWpsRTD8zp08z7AGpyyHW3TAzfJMH7ibUm6N0epiFtCL1M0NGT0JTVBI7wJ-qkBmDzzi0yNoFeeiozcGFFJNxF4mA6aUhVoBQjpJYp7viSM9yQ7Yk9G9FxFs-cTjb59elOfs_tvzYt8OiP3flH4UedrI",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZGRjNjVFZOU21ZM09VbHVhbEI2YTNKQmVWRmhhV2xhU2tkUFMySXRiM3B6YkZGc2JEZGtNMXBJUzNsUU9FSnVTVkpKWTBsc05rSlJVM0ZmUzJaMFlqYzFaMG90Y21VMmRGTTBOWFpuT0V4d1NXaHFUREY2WmxKUFp4SVhNMjl0TldGdlUyVlFTMU5HZHpoalVETTNVR1kwVVdzYUlrRkVjM0k1WmxNeGJYVm9OVWxPVDIxVlFWWk5UWEp4ZEhSa2MzQjBTUzFUYkhjIiwiZmN2IjoiMyIsImVpIjoiM29tNWFvU2VQS1NGdzhjUDM3UGY0UWsiLCJxYyI6IkNqNTNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUhKbGMybGtkV0ZzSUc1bGRIZHZjbXR6SUdadmNpQnBiV0ZuWlNCeVpXTnZaMjVwZEdsdmJoQUFmUjgwQno4IiwicXVlc3Rpb24iOiJJcyBSZXNOZXQgYSBDTk4gbW9kZWw/IiwibGsiOiJHaFZwY3lCeVpYTnVaWFFnWVNCamJtNGdiVzlrWld3IiwiYnMiOiJjNVdQSVFfQ01CQkdnLVF3R0NBcGlMTzRVVmhDZ3BoQVlTWXc2R1k3dG1aZHU3UTM5dmNwMllKRG9DNTNMLV9MZDNDQjdTMmdwMkNKMHdRRGEyUGlhdWlsTEdkeUo0VC1pYUdCNDZQV1JZMldlcTlNSER3NDMyQlUta0FsUHAxSDNhcUtvbEs0eW1yV3ptYnlKT1R3dHdZSFdNZW1kd281TVNxODVqbTJyaVNUeVkxWWZVdEdVbGc3RWpqRF9sRXJfZ1NQWG54QjJSS0g2YWc1WU5mN3pnWEs1RUxNcDRnMFdjN2UiLCJpZCI6ImZjXzNvbTVhb1NlUEtTRnc4Y1AzN1BmNFFrXzUifQ==",
+    "page_token": "ezJdAXicHdDNboIwAADg7GU8ChVxwcQsVqmEpFWgP9rLAhVFKD8iEeG2d9lT7Wm27PTdv69vfauKn7dj1nXNY2kYfd9Pr3V91elU1aURP4ZKGSrWOolVsVy8L8DHRa3cRw83dQ8D1jR8G5rUW9tCZ7asmgjnUqicV0kFA-KSLmZhx4pXzQp-EFXxwiXvMPdhwgs70sRPSz1XJjiQPLNSjVpsstkZOZqaJEpu4C628E5H3RwBqaSnNXY5TCxU0Jx7kpJBHNc982QT5f4zKOxTwOVezRyLoeAVjHoT5Oc2HHlJtSRMgBEjHlB6itBIngnlWQKIZm5Hw0rNT2A9EgBLglC7u_kw9MiwF5KJHcCpGw7S40DsnAVzsxGzcDiXzp8gJCKDk4t6rqzJ_9jq81J2y6atr7-QZHm_",
     "question": "Is ResNet a CNN model?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eDAzRHicHdDBboIwAIDh7GU8CoWFDROzrEqtZNTRQoFeFqAICghTZoXb3mVPtaeZ2eFPvvP__dMcTvXvQ1wNQ39ZaJpSal52XdkU87xrtfQynnItT5smS_N6YT1Z4GWfL52LgqtOQT_se76mOuPJ6Ne58vTSpNweWQxvGW5E5gBXmqLlxpDQwFN8QvdeB2-9nYRJqwJz_hahryiiIAXwkTnSkbFEAXLRXSAKIBJYvqe13XDenH0urADZgtQAJxHAjAEhYmllsXstWpsRTD8zp08z7AGpyyHW3TAzfJMH7ibUm6N0epiFtCL1M0NGT0JTVBI7wJ-qkBmDzzi0yNoFeeiozcGFFJNxF4mA6aUhVoBQjpJYp7viSM9yQ7Yk9G9FxFs-cTjb59elOfs_tvzYt8OiP3flH4UedrI",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NITkdTbkZPVjFCRGIxTlViSGcyV201Q1JWVmxia1ZRTkdKbGRqZGFPV2czU1hGNlZqSlhXazFEWlRadVQzTjFlblpLYkRWTlZsRlJTMHd0Y1ZOS09IcFVWVTVWYkY4eVduaDJRVzlUV2xaRFoybExUSFpwZDBWUFp4SVhhazFUZG1GMGNUVkRPRlJMYTFCSlVIbzBNblZ4UVRBYUlrRkVjM0k1WmxFNFlVTnBNVWRCVlRCYVdGcFRjVnAxUjBSWFVFUlNibDgwVGtFIiwiZmN2IjoiMyIsImVpIjoiak1TdmF0cTVDOFRLa1BJUHo0MnVxQTAiLCJxYyI6ImN3M0tNUTZBSUF3QVFHY21udEJmdU9sYm1sS2hVVnRTSUV6LVhlYTdjTXdpVktCaVpRZlI3cFlHY1FMbkptbmdBOHA5bXQ4Tkxsdmh4Y3pMeUxKS0Y5TzRmVEhzNXc4IiwicXVlc3Rpb24iOiJJcyBSZXNOZXQgYSBDTk4gbW9kZWw%2FIiwibGsiOiJHaFZwY3lCeVpYTnVaWFFnWVNCamJtNGdiVzlrWld3IiwiYnMiOiJjNVdPSVFfQ01CQ0ZnejJGQVpLQ09FTXdDQ2lnRUJOVG1Bbk1kQ20zclZsM1RkYU9fWDBhQmdpU0NkVGw4dDczOHNFWmxoZVBMWG1tY05xaEQ4YmEtRnA2S0E2SlhBbGhSbU9vNFpCWFJsZkkxTFhLeGhONjE5WVlrYzdUSFF2WG9tbFVTUkhScm1RVGpPTkVIb1hzXzhaZ0RfTm9laVdmVVVDRmFaWmg0LTVrRTdrUXM2OWtURFR6a0VBTzIxVHhoN25SNzd5MnludFRHSzBHc1kxWXYxZGVfR2h6T25rQyIsImlkIjoiZmNfak1TdmF0cTVDOFRLa1BJUHo0MnVxQTBfNCJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ezJdAXicHdDNboIwAADg7GU8ChVxwcQsVqmEpFWgP9rLAhVFKD8iEeG2d9lT7Wm27PTdv69vfauKn7dj1nXNY2kYfd9Pr3V91elU1aURP4ZKGSrWOolVsVy8L8DHRa3cRw83dQ8D1jR8G5rUW9tCZ7asmgjnUqicV0kFA-KSLmZhx4pXzQp-EFXxwiXvMPdhwgs70sRPSz1XJjiQPLNSjVpsstkZOZqaJEpu4C628E5H3RwBqaSnNXY5TCxU0Jx7kpJBHNc982QT5f4zKOxTwOVezRyLoeAVjHoT5Oc2HHlJtSRMgBEjHlB6itBIngnlWQKIZm5Hw0rNT2A9EgBLglC7u_kw9MiwF5KJHcCpGw7S40DsnAVzsxGzcDiXzp8gJCKDk4t6rqzJ_9jq81J2y6atr7-QZHm_",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZGRjNjVFZOU21ZM09VbHVhbEI2YTNKQmVWRmhhV2xhU2tkUFMySXRiM3B6YkZGc2JEZGtNMXBJUzNsUU9FSnVTVkpKWTBsc05rSlJVM0ZmUzJaMFlqYzFaMG90Y21VMmRGTTBOWFpuT0V4d1NXaHFUREY2WmxKUFp4SVhNMjl0TldGdlUyVlFTMU5HZHpoalVETTNVR1kwVVdzYUlrRkVjM0k1WmxNeGJYVm9OVWxPVDIxVlFWWk5UWEp4ZEhSa2MzQjBTUzFUYkhjIiwiZmN2IjoiMyIsImVpIjoiM29tNWFvU2VQS1NGdzhjUDM3UGY0UWsiLCJxYyI6IkNqNTNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUhKbGMybGtkV0ZzSUc1bGRIZHZjbXR6SUdadmNpQnBiV0ZuWlNCeVpXTnZaMjVwZEdsdmJoQUFmUjgwQno4IiwicXVlc3Rpb24iOiJJcyBSZXNOZXQgYSBDTk4gbW9kZWw%2FIiwibGsiOiJHaFZwY3lCeVpYTnVaWFFnWVNCamJtNGdiVzlrWld3IiwiYnMiOiJjNVdQSVFfQ01CQkdnLVF3R0NBcGlMTzRVVmhDZ3BoQVlTWXc2R1k3dG1aZHU3UTM5dmNwMllKRG9DNTNMLV9MZDNDQjdTMmdwMkNKMHdRRGEyUGlhdWlsTEdkeUo0VC1pYUdCNDZQV1JZMldlcTlNSER3NDMyQlUta0FsUHAxSDNhcUtvbEs0eW1yV3ptYnlKT1R3dHdZSFdNZW1kd281TVNxODVqbTJyaVNUeVkxWWZVdEdVbGc3RWpqRF9sRXJfZ1NQWG54QjJSS0g2YWc1WU5mN3pnWEs1RUxNcDRnMFdjN2UiLCJpZCI6ImZjXzNvbTVhb1NlUEtTRnc4Y1AzN1BmNFFrXzUifQ%3D%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NITkdTbkZPVjFCRGIxTlViSGcyV201Q1JWVmxia1ZRTkdKbGRqZGFPV2czU1hGNlZqSlhXazFEWlRadVQzTjFlblpLYkRWTlZsRlJTMHd0Y1ZOS09IcFVWVTVWYkY4eVduaDJRVzlUV2xaRFoybExUSFpwZDBWUFp4SVhhazFUZG1GMGNUVkRPRlJMYTFCSlVIbzBNblZ4UVRBYUlrRkVjM0k1WmxFNFlVTnBNVWRCVlRCYVdGcFRjVnAxUjBSWFVFUlNibDgwVGtFIiwiZmN2IjoiMyIsImVpIjoiak1TdmF0cTVDOFRLa1BJUHo0MnVxQTAiLCJxYyI6ImN3M0tNUTZBSUF3QVFHY21udEJmdU9sYm1sS2hVVnRTSUV6LVhlYTdjTXdpVktCaVpRZlI3cFlHY1FMbkptbmdBOHA5bXQ4Tkxsdmh4Y3pMeUxKS0Y5TzRmVEhzNXc4IiwicXVlc3Rpb24iOiJDYW4gUmVzTmV0IGJlIHVzZWQgZm9yIGltYWdlIGNsYXNzaWZpY2F0aW9uPyIsImxrIjoiR2lWeVpYTnVaWFFnYlc5a1pXd2dabTl5SUdsdFlXZGxJR05zWVhOemFXWnBZMkYwYVc5dSIsImJzIjoiYzVXT0lRX0NNQkNGZ3oyRkFaS0NPRU13Q0NpZ0VCTlRtQW5NZENtM3JWbDNUZGFPX1gwYUJnaVNDZFRsOHQ3MzhzRVpsaGVQTFhtbWNOcWhEOGJhLUZwNktBNkpYQWxoUm1PbzRaQlhSbGZJMUxYS3hoTjYxOVlZa2M3VEhRdlhvbWxVU1JIUnJtUVRqT05FSG9Yc184WmdEX05vZWlXZlVVQ0ZhWlpoNC01a0U3a1FzNjlrVERUemtFQU8yMVR4aDduUjc3eTJ5bnRUR0swR3NZMVl2MWRlX0doek9ua0MiLCJpZCI6ImZjX2pNU3ZhdHE1QzhUS2tQSVB6NDJ1cUEwXzQifQ==",
-    "page_token": "_jnzn3icHdBRToMwGADgeBkfHROdccliUgcIkWo7_gJ9MaVlY6UU3LrhePMunsrTmPgd4fv-MXvb_l6dG-eG43I2G8fxZtf3O1PfyL6biePFypkUxlRCtsvFw2L-tJWr4BSj588YERgGtqbe5pa_8igceRfq2gYTKdAihTBR7XHCBcpBUyEL9Z7mzstbNmVRfFETdoLBBCFKxLyc45w9CzucKk0PmdcEeI0yDOAIJF7VsriOnFPscZ35w_2mGwoO8wh041eWGmkTnbVJU0VNJ4xqiaYxvKAzNoMvjTnyiLg3eByVVh7uWCY8Z2jU3HNjkLSGMNOUWUA3uQ1P9QujQaM-M4Zvy4J-YUjvWOAOEBhSa3JRRYhS1O8J0Elq0wGYCCxK-d4bsUcc06okUH4p4HviJ3ajeUzI9VaeV_71_-fqY9u55XDod38XFYZO",
-    "question": "Can ResNet be used for image classification?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_jnzn3icHdBRToMwGADgeBkfHROdccliUgcIkWo7_gJ9MaVlY6UU3LrhePMunsrTmPgd4fv-MXvb_l6dG-eG43I2G8fxZtf3O1PfyL6biePFypkUxlRCtsvFw2L-tJWr4BSj588YERgGtqbe5pa_8igceRfq2gYTKdAihTBR7XHCBcpBUyEL9Z7mzstbNmVRfFETdoLBBCFKxLyc45w9CzucKk0PmdcEeI0yDOAIJF7VsriOnFPscZ35w_2mGwoO8wh041eWGmkTnbVJU0VNJ4xqiaYxvKAzNoMvjTnyiLg3eByVVh7uWCY8Z2jU3HNjkLSGMNOUWUA3uQ1P9QujQaM-M4Zvy4J-YUjvWOAOEBhSa3JRRYhS1O8J0Elq0wGYCCxK-d4bsUcc06okUH4p4HviJ3ajeUzI9VaeV_71_-fqY9u55XDod38XFYZO",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NITkdTbkZPVjFCRGIxTlViSGcyV201Q1JWVmxia1ZRTkdKbGRqZGFPV2czU1hGNlZqSlhXazFEWlRadVQzTjFlblpLYkRWTlZsRlJTMHd0Y1ZOS09IcFVWVTVWYkY4eVduaDJRVzlUV2xaRFoybExUSFpwZDBWUFp4SVhhazFUZG1GMGNUVkRPRlJMYTFCSlVIbzBNblZ4UVRBYUlrRkVjM0k1WmxFNFlVTnBNVWRCVlRCYVdGcFRjVnAxUjBSWFVFUlNibDgwVGtFIiwiZmN2IjoiMyIsImVpIjoiak1TdmF0cTVDOFRLa1BJUHo0MnVxQTAiLCJxYyI6ImN3M0tNUTZBSUF3QVFHY21udEJmdU9sYm1sS2hVVnRTSUV6LVhlYTdjTXdpVktCaVpRZlI3cFlHY1FMbkptbmdBOHA5bXQ4Tkxsdmh4Y3pMeUxKS0Y5TzRmVEhzNXc4IiwicXVlc3Rpb24iOiJDYW4gUmVzTmV0IGJlIHVzZWQgZm9yIGltYWdlIGNsYXNzaWZpY2F0aW9uPyIsImxrIjoiR2lWeVpYTnVaWFFnYlc5a1pXd2dabTl5SUdsdFlXZGxJR05zWVhOemFXWnBZMkYwYVc5dSIsImJzIjoiYzVXT0lRX0NNQkNGZ3oyRkFaS0NPRU13Q0NpZ0VCTlRtQW5NZENtM3JWbDNUZGFPX1gwYUJnaVNDZFRsOHQ3MzhzRVpsaGVQTFhtbWNOcWhEOGJhLUZwNktBNkpYQWxoUm1PbzRaQlhSbGZJMUxYS3hoTjYxOVlZa2M3VEhRdlhvbWxVU1JIUnJtUVRqT05FSG9Yc184WmdEX05vZWlXZlVVQ0ZhWlpoNC01a0U3a1FzNjlrVERUemtFQU8yMVR4aDduUjc3eTJ5bnRUR0swR3NZMVl2MWRlX0doek9ua0MiLCJpZCI6ImZjX2pNU3ZhdHE1QzhUS2tQSVB6NDJ1cUEwXzQifQ%3D%3D",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZGRjNjVFZOU21ZM09VbHVhbEI2YTNKQmVWRmhhV2xhU2tkUFMySXRiM3B6YkZGc2JEZGtNMXBJUzNsUU9FSnVTVkpKWTBsc05rSlJVM0ZmUzJaMFlqYzFaMG90Y21VMmRGTTBOWFpuT0V4d1NXaHFUREY2WmxKUFp4SVhNMjl0TldGdlUyVlFTMU5HZHpoalVETTNVR1kwVVdzYUlrRkVjM0k1WmxNeGJYVm9OVWxPVDIxVlFWWk5UWEp4ZEhSa2MzQjBTUzFUYkhjIiwiZmN2IjoiMyIsImVpIjoiM29tNWFvU2VQS1NGdzhjUDM3UGY0UWsiLCJxYyI6IkNqNTNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUhKbGMybGtkV0ZzSUc1bGRIZHZjbXR6SUdadmNpQnBiV0ZuWlNCeVpXTnZaMjVwZEdsdmJoQUFmUjgwQno4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFJlc05ldDUwIGFuZCB3aGF0IGlzIGl0cyBwdXJwb3NlPyIsImxrIjoiR2dseVpYTnVaWFFnTlRBIiwiYnMiOiJjNVdQSVFfQ01CQkdnLVF3R0NBcGlMTzRVVmhDZ3BoQVlTWXc2R1k3dG1aZHU3UTM5dmNwMllKRG9DNTNMLV9MZDNDQjdTMmdwMkNKMHdRRGEyUGlhdWlsTEdkeUo0VC1pYUdCNDZQV1JZMldlcTlNSER3NDMyQlUta0FsUHAxSDNhcUtvbEs0eW1yV3ptYnlKT1R3dHdZSFdNZW1kd281TVNxODVqbTJyaVNUeVkxWWZVdEdVbGc3RWpqRF9sRXJfZ1NQWG54QjJSS0g2YWc1WU5mN3pnWEs1RUxNcDRnMFdjN2UiLCJpZCI6ImZjXzNvbTVhb1NlUEtTRnc4Y1AzN1BmNFFrXzUifQ==",
+    "page_token": "1dwNnXicHdBdTsIwAADgeBkfpR2KSkJMkLVAXLVl7dheTNfy49axIoWtffMunsrTaLzBl-_r23wc6p-ry945exoPBl3X3ezadmc2N6ptBvLkD2qgpDGlVPV4dD-CT1s1ic-L6fNxMaXcWjFjIMVmJkACJH9wOoamjB7nZcRGfF6D_EDSjbA44SJaD1FPgV1JbpsyZgmH5sIbQhMMK8LJm5pzlzfWl7PlHQVowbLOpxG5LavlegWWgTWEabT3uUBHhfsjq-u-jHJPgUOvsWBJEESHvV2HgnJjXIZ2vR6Kk8qg09idNb9jykPM0sQTQaysUEojS1jM_UboM2-gEDFj8V6FMgIwzx7TQkxfOCiGr_jPGTQtKsZk335QzoKqTMPhNNJQeW0EflmTVRJMQlAcpNEywwwRaH3RXW_VZTK8_v-cvG8bN7af7e4XCmWEBA",
+    "question": "What is ResNet50 and what is its purpose?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1dwNnXicHdBdTsIwAADgeBkfpR2KSkJMkLVAXLVl7dheTNfy49axIoWtffMunsrTaLzBl-_r23wc6p-ry945exoPBl3X3ezadmc2N6ptBvLkD2qgpDGlVPV4dD-CT1s1ic-L6fNxMaXcWjFjIMVmJkACJH9wOoamjB7nZcRGfF6D_EDSjbA44SJaD1FPgV1JbpsyZgmH5sIbQhMMK8LJm5pzlzfWl7PlHQVowbLOpxG5LavlegWWgTWEabT3uUBHhfsjq-u-jHJPgUOvsWBJEESHvV2HgnJjXIZ2vR6Kk8qg09idNb9jykPM0sQTQaysUEojS1jM_UboM2-gEDFj8V6FMgIwzx7TQkxfOCiGr_jPGTQtKsZk335QzoKqTMPhNNJQeW0EflmTVRJMQlAcpNEywwwRaH3RXW_VZTK8_v-cvG8bN7af7e4XCmWEBA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZGRjNjVFZOU21ZM09VbHVhbEI2YTNKQmVWRmhhV2xhU2tkUFMySXRiM3B6YkZGc2JEZGtNMXBJUzNsUU9FSnVTVkpKWTBsc05rSlJVM0ZmUzJaMFlqYzFaMG90Y21VMmRGTTBOWFpuT0V4d1NXaHFUREY2WmxKUFp4SVhNMjl0TldGdlUyVlFTMU5HZHpoalVETTNVR1kwVVdzYUlrRkVjM0k1WmxNeGJYVm9OVWxPVDIxVlFWWk5UWEp4ZEhSa2MzQjBTUzFUYkhjIiwiZmN2IjoiMyIsImVpIjoiM29tNWFvU2VQS1NGdzhjUDM3UGY0UWsiLCJxYyI6IkNqNTNhR2xqYUNCd1lYQmxjaUJwYm5SeWIyUjFZMlZrSUhKbGMybGtkV0ZzSUc1bGRIZHZjbXR6SUdadmNpQnBiV0ZuWlNCeVpXTnZaMjVwZEdsdmJoQUFmUjgwQno4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFJlc05ldDUwIGFuZCB3aGF0IGlzIGl0cyBwdXJwb3NlPyIsImxrIjoiR2dseVpYTnVaWFFnTlRBIiwiYnMiOiJjNVdQSVFfQ01CQkdnLVF3R0NBcGlMTzRVVmhDZ3BoQVlTWXc2R1k3dG1aZHU3UTM5dmNwMllKRG9DNTNMLV9MZDNDQjdTMmdwMkNKMHdRRGEyUGlhdWlsTEdkeUo0VC1pYUdCNDZQV1JZMldlcTlNSER3NDMyQlUta0FsUHAxSDNhcUtvbEs0eW1yV3ptYnlKT1R3dHdZSFdNZW1kd281TVNxODVqbTJyaVNUeVkxWWZVdEdVbGc3RWpqRF9sRXJfZ1NQWG54QjJSS0g2YWc1WU5mN3pnWEs1RUxNcDRnMFdjN2UiLCJpZCI6ImZjXzNvbTVhb1NlUEtTRnc4Y1AzN1BmNFFrXzUifQ%3D%3D",
     "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Deep+residual+learning+for+Image+Recognition&sa=X&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ1QJ6BAhBEAE",
-    "query": "Deep residual learning for Image Recognition",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deep+residual+learning+for+Image+Recognition"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Which+paper+introduced+residual+networks+for+image+recognition+2022&sa=X&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ1QJ6BAhIEAE",
-    "query": "Which paper introduced residual networks for image recognition 2022",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition+2022"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Identity+mappings+in+deep+residual+networks&sa=X&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ1QJ6BAhGEAE",
-    "query": "Identity mappings in deep residual networks",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Identity+mappings+in+deep+residual+networks"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Deep+Residual+Learning+for+Image+Recognition+citation&sa=X&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ1QJ6BAhHEAE",
-    "query": "Deep Residual Learning for Image Recognition citation",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deep+Residual+Learning+for+Image+Recognition+citation"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Deep+residual+learning+for+image+recognition+IEEE&sa=X&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ1QJ6BAhFEAE",
-    "query": "Deep residual learning for image recognition IEEE",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deep+residual+learning+for+image+recognition+IEEE"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Deep+residual+learning+for+image+recognition+paper&sa=X&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ1QJ6BAhEEAE",
-    "query": "Deep residual learning for image recognition paper",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deep+residual+learning+for+image+recognition+paper"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Deep+residual+learning+for+image+recognition+Kaiming+He&sa=X&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ1QJ6BAhCEAE",
-    "query": "Deep residual learning for image recognition Kaiming He",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deep+residual+learning+for+image+recognition+Kaiming+He"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=646215d9fbd2647e&q=Deep+residual+learning+for+image+Recognition+(CVPR)&sa=X&ved=2ahUKEwjar9CGiP2WAxVEJUQIHc-GC9UQ1QJ6BAhDEAE",
-    "query": "Deep residual learning for image Recognition (CVPR)",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deep+residual+learning+for+image+Recognition+%28CVPR%29"
    }
   ],
   "scholarly_articles": {
    "articles": [
     {
-     "author": "‎Shafiq",
+     "author": "‏Shafiq",
      "highlighted_words": [
       "residual learning",
       "image recognition"
@@ -397,7 +335,7 @@
      "title": "Deep residual learning for image recognition: A survey"
     },
     {
-     "author": "‎He",
+     "author": "‏He",
      "highlighted_words": [
       "residual learning",
       "image recognition"
@@ -406,7 +344,7 @@
      "title": "Deep residual learning for image recognition"
     },
     {
-     "author": "‎Ebrahimi",
+     "author": "‏Ebrahimi",
      "highlighted_words": [
       "residual networks",
       "image recognition"
@@ -415,27 +353,27 @@
      "title": "Study of residual networks for image recognition"
     }
    ],
-   "link": "https://scholar.google.com/scholar?q=Which+paper+introduced+residual+networks+for+image+recognition%3F&hl=en&as_sdt=0&as_vis=1&oi=scholart",
-   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=en&q=Which+paper+introduced+residual+networks+for+image+recognition%3F",
-   "title": "Scholarly articles for Which paper introduced residual networks for image recognition?"
+   "link": "https://scholar.google.ae/scholar?q=Which+paper+introduced+residual+networks+for+image+recognition%3F&hl=ar&as_sdt=0&as_vis=1&oi=scholart",
+   "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=ar&q=Which+paper+introduced+residual+networks+for+image+recognition%3F",
+   "title": "مقالات أكاديمية حول Which paper introduced residual networks for image recognition?"
   },
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Which paper introduced residual networks for image recognition?",
-   "time_taken_displayed": 0.4,
-   "total_results": 135
+   "time_taken_displayed": 0.34,
+   "total_results": 118000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:33:31 UTC",
+   "created_at": "2026-09-27 21:25:50 UTC",
    "google_url": "https://www.google.com/search?q=Which+paper+introduced+residual+networks+for+image+recognition%3F&oq=Which+paper+introduced+residual+networks+for+image+recognition%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc48b0ccffb6c951f9e21",
-   "json_endpoint": "https://serpapi.com/searches/QNuezZgnINRLRb4tYXrglVRetzPU2mZ1EjAaXyIhf1E/6aafc48b0ccffb6c951f9e21.json",
-   "markdown_endpoint": "https://serpapi.com/searches/QNuezZgnINRLRb4tYXrglVRetzPU2mZ1EjAaXyIhf1E/6aafc48b0ccffb6c951f9e21.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/QNuezZgnINRLRb4tYXrglVRetzPU2mZ1EjAaXyIhf1E/6aafc48b0ccffb6c951f9e21.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:33:31 UTC",
-   "raw_html_file": "https://serpapi.com/searches/QNuezZgnINRLRb4tYXrglVRetzPU2mZ1EjAaXyIhf1E/6aafc48b0ccffb6c951f9e21.html",
+   "id": "6ab989decfa230e879ba876a",
+   "json_endpoint": "https://serpapi.com/searches/FYowtqcLRGPcMSc_fbi6szenqCrCIXNShQR-9KvKFCI/6ab989decfa230e879ba876a.json",
+   "markdown_endpoint": "https://serpapi.com/searches/FYowtqcLRGPcMSc_fbi6szenqCrCIXNShQR-9KvKFCI/6ab989decfa230e879ba876a.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/FYowtqcLRGPcMSc_fbi6szenqCrCIXNShQR-9KvKFCI/6ab989decfa230e879ba876a.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:25:50 UTC",
+   "raw_html_file": "https://serpapi.com/searches/FYowtqcLRGPcMSc_fbi6szenqCrCIXNShQR-9KvKFCI/6ab989decfa230e879ba876a.html",
    "status": "Success",
-   "total_time_taken": 0.89
+   "total_time_taken": 0.56
   },
   "search_parameters": {
    "device": "desktop",
@@ -448,15 +386,9 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=30",
-    "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=80"
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Which+paper+introduced+residual+networks+for+image+recognition%3F&start=30"
    }
   }
  },

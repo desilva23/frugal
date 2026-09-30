@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 933.638,
+ "elapsed_ms": 1383.42,
  "engine": "google",
- "fetched_at": "2026-09-20T12:06:22.501997+00:00",
+ "fetched_at": "2026-09-27T21:32:21.275590+00:00",
  "frugal_cache_version": 1,
  "key": "719c7260b61ec46ef4764eb069b7f3d381c16d29a153928764c1705550330525",
  "params": {
@@ -10,325 +10,467 @@
  },
  "response": {
   "ai_overview": {
-   "page_token": "JvZQ7XiczVXdcqpIEH6AfY715uQISGIkVVRqZhyV-BPRxJ9zQ-GAgIKjgKJW7cW-yz7VPs0OiAqJxj3nYmu7ahx6aLt7uvvj-_Mv11nM__7tDzsMl8ETx0VRVLQotVyzSKjH6cFuQbgpdQOf2M8BXfvEdAyZ2D71zMJuI4sFEsh8wXTkLtlt9FWJdDob32upXWH9XQzAuJC4kLWJHpgzFmE7CziNYz_z38UqU4pBUfeL--4gqIa2VYHjYokXpOIrp3vMAPx3glULxvsLQNeN2Ct821XsQAEQZzwpwEp2eLYaH14jNXmFrKve4CFmLzFX2apq-0ZUZafH-ljJ8eVUYE6NklwAiJIsIXBu3yYjanqX472-qNTJOi9p9ej5JNvjXK55iXJajWWhAYTOQbLBmBs7l8apUsQClQaFVQjer4di9Wkq4GEOVHytrCffeHB_6lxrXGcnnGGxweW5ic82gXOITZIHP4jnGb1JPK2priXozbFZLlOJb3tjffhjIvkDvFZVjkyYnUt1wzQ0W-OfE10oCQ-8JD5W7hIgkeCEpCCLpHnLbxjDBUE8LvaKUDjCCB2aDj51DDMdKRcuBlFqeqHF8HwaNyxtqVrL-k1bCRPvEEAr29pmN65r_aiyGd2z1mQtzlHj4f8Mo4NYGWMGoyQRhaaGWYuDVT0D3UxjFXDpM_Ph3oraOP-3-skwB17UA2AOjoX5NEJjoCILxxhAuAHTqpG8D5QtQOoGA_aFSjV8ShCnRpmc4hIoKmgDBTOfzrvCJtRSoIoPicbDkMaq4Q-IuzrwGAzRv_n0XRB4C0SxqEe8fBj_HGwqVV3b7p1WdQFKj501_9aaQbc6L72s1cswod7kJxiH_K-AdOAjnPLRdSDh20BK-Ah-wUfJ85mP4uFF9CqQYP0yH7Uv8lH-3kjpZYH0NR_9NJDQl0BSUzcXgEQvA2l5HUjRRyDl-Qhf46MUSL_CR_AX-SjBlXnY8uS0nllXSareU6S6BgNxKbaar6-1yTCoNLb1QVsh4CZJTb3wydMN905zjCdYegl3xp3GDuiTaRRW8tCm3yKfhua3uhPqi5nuOs8Fz_WpzOvlfZPu0E6prd52m-Za2lZG4qg3o4vaekcHNijPQtgVlfJcqPWigSg89Bu7kGdzED6Y_dq7y9drPtibynBpg5nUqjpvfEPd9heb0Upcd_hKx3iNhIEH9_fQA2570hzpDxNAJ3QkSpu18r3dny72Nuq8V1bYifpWklcgb_r6dND5sdCpUvB8IrNW31ugo4KhxWYOJbPIFmUrYqvMWgELAdE1M9jIklgipvj4OJ3wFWJIRsGzwt1SvhcKwcKXhX8ABAE9dQ",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JvZQ7XiczVXdcqpIEH6AfY715uQISGIkVVRqZhyV-BPRxJ9zQ-GAgIKjgKJW7cW-yz7VPs0OiAqJxj3nYmu7ahx6aLt7uvvj-_Mv11nM__7tDzsMl8ETx0VRVLQotVyzSKjH6cFuQbgpdQOf2M8BXfvEdAyZ2D71zMJuI4sFEsh8wXTkLtlt9FWJdDob32upXWH9XQzAuJC4kLWJHpgzFmE7CziNYz_z38UqU4pBUfeL--4gqIa2VYHjYokXpOIrp3vMAPx3glULxvsLQNeN2Ct821XsQAEQZzwpwEp2eLYaH14jNXmFrKve4CFmLzFX2apq-0ZUZafH-ljJ8eVUYE6NklwAiJIsIXBu3yYjanqX472-qNTJOi9p9ej5JNvjXK55iXJajWWhAYTOQbLBmBs7l8apUsQClQaFVQjer4di9Wkq4GEOVHytrCffeHB_6lxrXGcnnGGxweW5ic82gXOITZIHP4jnGb1JPK2priXozbFZLlOJb3tjffhjIvkDvFZVjkyYnUt1wzQ0W-OfE10oCQ-8JD5W7hIgkeCEpCCLpHnLbxjDBUE8LvaKUDjCCB2aDj51DDMdKRcuBlFqeqHF8HwaNyxtqVrL-k1bCRPvEEAr29pmN65r_aiyGd2z1mQtzlHj4f8Mo4NYGWMGoyQRhaaGWYuDVT0D3UxjFXDpM_Ph3oraOP-3-skwB17UA2AOjoX5NEJjoCILxxhAuAHTqpG8D5QtQOoGA_aFSjV8ShCnRpmc4hIoKmgDBTOfzrvCJtRSoIoPicbDkMaq4Q-IuzrwGAzRv_n0XRB4C0SxqEe8fBj_HGwqVV3b7p1WdQFKj501_9aaQbc6L72s1cswod7kJxiH_K-AdOAjnPLRdSDh20BK-Ah-wUfJ85mP4uFF9CqQYP0yH7Uv8lH-3kjpZYH0NR_9NJDQl0BSUzcXgEQvA2l5HUjRRyDl-Qhf46MUSL_CR_AX-SjBlXnY8uS0nllXSareU6S6BgNxKbaar6-1yTCoNLb1QVsh4CZJTb3wydMN905zjCdYegl3xp3GDuiTaRRW8tCm3yKfhua3uhPqi5nuOs8Fz_WpzOvlfZPu0E6prd52m-Za2lZG4qg3o4vaekcHNijPQtgVlfJcqPWigSg89Bu7kGdzED6Y_dq7y9drPtibynBpg5nUqjpvfEPd9heb0Upcd_hKx3iNhIEH9_fQA2570hzpDxNAJ3QkSpu18r3dny72Nuq8V1bYifpWklcgb_r6dND5sdCpUvB8IrNW31ugo4KhxWYOJbPIFmUrYqvMWgELAdE1M9jIklgipvj4OJ3wFWJIRsGzwt1SvhcKwcKXhX8ABAE9dQ"
+   "references": [
+    {
+     "index": 0,
+     "link": "https://en.wikipedia.org/wiki/Gitanjali",
+     "source": "en.wikipedia.org"
+    },
+    {
+     "index": 1,
+     "link": "https://www.writersworkout.net/post/book-review-gitanjali-by-rabindranath-tagore",
+     "source": "writersworkout.net"
+    },
+    {
+     "index": 2,
+     "link": "https://www.facebook.com/theyogainstituteofficial/posts/gitanjali-the-nobel-prize-winning-work-of-rabindranath-tagore-was-lovingly-trans/1471772111202695/",
+     "source": "facebook.com"
+    },
+    {
+     "index": 3,
+     "link": "https://www.britannica.com/topic/Gitanjali-Song-Offerings",
+     "source": "britannica.com"
+    },
+    {
+     "index": 4,
+     "link": "https://en.wikipedia.org/wiki/Gitanjali",
+     "snippet": "Gitanjali (Bengali: গীতাঞ্জলি, lit. ''Song offering'' ) is a collection of poems by the Bengali poet Rabindranath Tagore. Tagore received the Nobel Prize for Liter...",
+     "source": "Wikipedia",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "title": "Gitanjali - Wikipedia"
+    },
+    {
+     "index": 5,
+     "link": "https://www.writersworkout.net/post/book-review-gitanjali-by-rabindranath-tagore",
+     "snippet": "Tagore was born in Calcutta (now Kolkata), West Bengal, India. He wrote his first poem when he was around eight years old. Songs, sketches, poems, short stories, a...",
+     "source": "The Writer's Workout",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.writersworkout.net&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRatgUUmlD4iO2G3UQ4EIPmQ0P7InY8C0V13OPcGrIqnEH_ccYXw7GfiRPxvj4WXGnhQ4GcToVsL4gr5-j0uCd-6QaVQWEbjQD26kIl",
+     "title": "Book Review: Gitanjali by Rabindranath Tagore"
+    },
+    {
+     "index": 6,
+     "link": "https://www.facebook.com/theyogainstituteofficial/posts/gitanjali-the-nobel-prize-winning-work-of-rabindranath-tagore-was-lovingly-trans/1471772111202695/",
+     "snippet": "\\\"Gitanjali\\\" (Song Offerings) is a collection of 103 poems by Rabindranath Tagore, originally written in Bengali and later translat...",
+     "source": "Facebook",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReZYAEjs9vhloj3UQFTk682gw2weoSMpRuwuwPSrU4rJ-nGKO93tf2CkLgrT5mOvir-PSvxQREu6x_2QpW-5lukXLd5sOlVu-y4o_Esw",
+     "title": "Gitanjali, the Nobel Prize-winning work of Rabindranath Tagore, was ..."
+    },
+    {
+     "index": 7,
+     "link": "https://www.britannica.com/topic/Gitanjali-Song-Offerings",
+     "snippet": "Gitanjali (Song Offerings) is a collection of poetry by Rabindranath Tagore, first published in India in 1910. Tagore later translated it into English prose poems,",
+     "source": "Britannica",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Y4FwLdmzHPxl-cuUG0I0OMuUarZTil-H2iE_1LThieGAj3Zuldmvroa3ZkrlWOZR8j4T879jsFMzZbk6vXPfEqos94sHtDcHfSEE",
+     "title": "Gitanjali (Song Offerings) | work by Tagore - Britannica"
+    }
+   ],
+   "text_blocks": [
+    {
+     "snippet": "Gitanjali was written by the Bengali poet and polymath Rabindranath Tagore.",
+     "snippet_highlighted_words": [
+      "Rabindranath Tagore"
+     ],
+     "type": "paragraph"
+    },
+    {
+     "snippet": "Key Details",
+     "type": "heading"
+    },
+    {
+     "list": [
+      {
+       "snippet": "Original Publication: Published in Bengali in 1910."
+      },
+      {
+       "snippet": "English Translation: Translated into English prose poems (Song Offerings) by Tagore himself in 1912."
+      },
+      {
+       "snippet": "Nobel Prize: Won the Nobel Prize in Literature in 1913, making Tagore the first non-European to win the award."
+      }
+     ],
+     "type": "list"
+    },
+    {
+     "snippet": "If you want, I can share:",
+     "type": "paragraph"
+    },
+    {
+     "list": [
+      {
+       "snippet": "A famous poem from the collection"
+      },
+      {
+       "snippet": "More about his life and awards"
+      }
+     ],
+     "type": "list"
+    }
+   ]
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjVUgyQzZueXZmOS1rd0t2Tmp2VDhQV1VMQ2h6S0ROdzJ4a1lpZ0lhdkJYSjRwTEVKb3B6RVZCNU02V2ZUcFpMelFia0FWRlpGUGxoQjNiVl9VRU5CRm1ibnQ2cml2MzhGTXhVTXI3aU90VUtZVnVHWHp6M0U5Sks3YmtVSjZOaHphblRaRGpLNFI2ZEZrNmVURkJ1MlRxcExJZ0tXTm9Rb2xoZTZBOC13EgQaAggAGr0FEgAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlwUIABAAGAAgACo6CgN3aG8VyRN5PhoGYXV0aG9yGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlcipnCgV3cm90ZRXtvRc_GgZhdXRob3IaCGF1dGhvcmVkGghjb21wb3NlZBoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIaBndyaXRlcxoHd3JpdHRlbhoEeWVhcio5CglnaXRhbmphbGkVLQr4PxoKZ2VldGFuamFsaRoLZ2VldGhhbmphbGkaDml2O3A7Z2l0YW5qYWxpMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjVUgyQzZueXZmOS1rd0t2Tmp2VDhQV1VMQ2h6S0ROdzJ4a1lpZ0lhdkJYSjRwTEVKb3B6RVZCNU02V2ZUcFpMelFia0FWRlpGUGxoQjNiVl9VRU5CRm1ibnQ2cml2MzhGTXhVTXI3aU90VUtZVnVHWHp6M0U5Sks3YmtVSjZOaHphblRaRGpLNFI2ZEZrNmVURkJ1MlRxcExJZ0tXTm9Rb2xoZTZBOC13OkpUb2RheSBpcyBJbmRpYSYjMzk7cyBOYXRpb25hbCBQb2V0IFRhZ29yZSYjMzk7cyAxNjNyZCBiaXJ0aCAuLi4gLSBGYWNlYm9va0KdAUhpcyB3b3JrOiDigKIgPGI-UmFiaW5kcmFuYXRoIFRhZ29yZTwvYj4mIzM5O3Mgd29yayB3YXMgR2l0YW5qYWxpIC0tLSBhIGNvbGxlY3Rpb24gb2YgMTAzIEVuZ2xpc2ggcG9lbXMgb2YgaGlzIG93biBFbmdsaXNoIHRyYW5zbGF0aW9ucyBvZiBoaXMgQmVuZ2FsaSBwb2Vtcy4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjVUgyQzZueXZmOS1rd0t2Tmp2VDhQV1VMQ2h6S0ROdzJ4a1lpZ0lhdkJYSjRwTEVKb3B6RVZCNU02V2ZUcFpMelFia0FWRlpGUGxoQjNiVl9VRU5CRm1ibnQ2cml2MzhGTXhVTXI3aU90VUtZVnVHWHp6M0U5Sks3YmtVSjZOaHphblRaRGpLNFI2ZEZrNmVURkJ1MlRxcExJZ0tXTm9Rb2xoZTZBOC13EgQaAggAGr0FEgAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlwUIABAAGAAgACo6CgN3aG8VyRN5PhoGYXV0aG9yGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlcipnCgV3cm90ZRXtvRc_GgZhdXRob3IaCGF1dGhvcmVkGghjb21wb3NlZBoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIaBndyaXRlcxoHd3JpdHRlbhoEeWVhcio5CglnaXRhbmphbGkVLQr4PxoKZ2VldGFuamFsaRoLZ2VldGhhbmphbGkaDml2O3A7Z2l0YW5qYWxpMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjVUgyQzZueXZmOS1rd0t2Tmp2VDhQV1VMQ2h6S0ROdzJ4a1lpZ0lhdkJYSjRwTEVKb3B6RVZCNU02V2ZUcFpMelFia0FWRlpGUGxoQjNiVl9VRU5CRm1ibnQ2cml2MzhGTXhVTXI3aU90VUtZVnVHWHp6M0U5Sks3YmtVSjZOaHphblRaRGpLNFI2ZEZrNmVURkJ1MlRxcExJZ0tXTm9Rb2xoZTZBOC13OkpUb2RheSBpcyBJbmRpYSYjMzk7cyBOYXRpb25hbCBQb2V0IFRhZ29yZSYjMzk7cyAxNjNyZCBiaXJ0aCAuLi4gLSBGYWNlYm9va0KdAUhpcyB3b3JrOiDigKIgPGI-UmFiaW5kcmFuYXRoIFRhZ29yZTwvYj4mIzM5O3Mgd29yayB3YXMgR2l0YW5qYWxpIC0tLSBhIGNvbGxlY3Rpb24gb2YgMTAzIEVuZ2xpc2ggcG9lbXMgb2YgaGlzIG93biBFbmdsaXNoIHRyYW5zbGF0aW9ucyBvZiBoaXMgQmVuZ2FsaSBwb2Vtcy4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
      ],
      "source": {
-      "description": "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore. Tagore received the Nobel Prize for Literature in 1913, for its English ...",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/Gitanjali"
+      "description": "His work: • Rabindranath Tagore's work was Gitanjali --- a collection of 103 English poems of his own English translations of his Bengali poems.",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://www.facebook.com/groups/2650318775179582/posts/3722710557940393/"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › Git...",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/Gitanjali",
-    "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVNRD2gGxRTDv-YZIGu_brUljhzpEmuKV8REyaDf6Lp4RaXYBCUKuNNQ9JM2oFn95jurhgVcxKy8JIGfIfFklcv6GX8BncCBivO9AO8CVmusvMTV3QviuCW31G&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQFnoECBwQAQ&uoh=1",
-    "snippet": "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore. Tagore received the Nobel Prize for Literature in 1913, for its English ...",
-    "snippet_highlighted_words": [
-     "Bengali poet Rabindranath Tagore"
-    ],
-    "source": "Wikipedia",
-    "title": "Gitanjali"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "The Gitanjali was written by a world-famous poet of India Rabindranath Tagore. It is a collection of Bengali poems which is mainly written in the Bengali ...",
-      "icon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASogACAAPtEutFooIagoGAEAGglsALOBi_GYAO_hi_r_PcnDiCX0MkoGPD5_eDK5cpZVIAD-9ON2DjuAtDOU7DDEVNybaSNlPPqPBc60FcuXeJhvsvTBJb_uFnyL1ERF1wX3hf6Slq3rFk6NrrTQN3Gt2Vqxl71e8o6nnDjSV7A47eX7nSq5mLt6uMzVLAc_n4vCpwSfQGTy6Fvqr1_DgHKDCvG8uEBq_KaClRQecJk5efQvrVIeYnQ_xRS_NHzhS4QBKnQR7_-_FC38yjJsLW_hQ4IaKPyElYAuPpCXPgA.webp",
-      "source_info_link": "https://testbook.com/question-answer/the-famous-book-gitanjali-written-in-_--5fe9a28b8c14b207b3c18a55"
-     }
-    },
-    "displayed_link": "https://testbook.com › ... › Books and Authors",
-    "favicon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASogACAAPtEutFooIagoGAEAGglsALOBi_GYAO_hi_r_PcnDiCX0MkoGPD5_eDK5cpZVIAD-9ON2DjuAtDOU7DDEVNybaSNlPPqPBc60FcuXeJhvsvTBJb_uFnyL1ERF1wX3hf6Slq3rFk6NrrTQN3Gt2Vqxl71e8o6nnDjSV7A47eX7nSq5mLt6uMzVLAc_n4vCpwSfQGTy6Fvqr1_DgHKDCvG8uEBq_KaClRQecJk5efQvrVIeYnQ_xRS_NHzhS4QBKnQR7_-_FC38yjJsLW_hQ4IaKPyElYAuPpCXPgA.webp",
-    "link": "https://testbook.com/question-answer/the-famous-book-gitanjali-written-in-_--5fe9a28b8c14b207b3c18a55",
-    "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFVKVNUaUM2iOm5-IVjn0ahLK789uzic4oJ-yFli1a4rFoVPxGtQznq4PMVdSroQcygYsqYW1694DF1RZHTKdRVgfBe2iSPu6PWFGz4Oii5K2jPTWbnci5rmId9ordy2QXNhpNcNAdpbCwv4B9JG9-ov2TpWIJnQBWU5Lt22PnVCK6-ut7o01jot1lZ9V5Hn-U9UdGzAJ9JVy&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQFnoECB8QAQ&uoh=1",
-    "snippet": "\"The famous book Gitanjali written in __________ language.\"",
-    "source": "Testbook",
-    "title": "The famous book \"Gitanjali\" written in __________ language."
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "'Gitanjali' is a gorgeous book of poetry by Rabindranath Tagore. It was awarded the Nobel Prize for Literature in 1913, which made Tagore ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "أكثر من 2.9 ألف مشاهدة · قبل 11 شهرًا",
-    "duration": "1:10",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=B0Vnrwsw3Kw",
-    "position": 3,
-    "snippet": "'Gitanjali' is a gorgeous book of poetry by Rabindranath Tagore. It was awarded the Nobel Prize for Literature in 1913, which made Tagore ...",
-    "source": "YouTube · Christopher Tin",
-    "thumbnail": "https://serpapi.com/searches/6aafcc3d333617c51b75a2ea/images/FFp7ynjpNtZbr2jwyLmE_RaE0G1zY8B_MQ9I__UiLq0.jpeg",
-    "title": "'Gitanjali' by Rabindranath Tagore",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS3GkHxvSW7xWhQkA2Ffyh0b1GFN-9UH0zgjA"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "William Butler Yeats(1865-1939) wrote the preface of Gitanjali (“The song offerings”). He was an Irish poet and was one of the foremost figures ...",
-      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
-      "source_info_link": "https://www.quora.com/Who-wrote-the-preface-to-Rabindranath-Tagore-s-book-Gitanjali"
-     }
-    },
-    "displayed_link": "أكثر من 30 إجابة · قبل 6 سنوات",
-    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
-    "link": "https://www.quora.com/Who-wrote-the-preface-to-Rabindranath-Tagore-s-book-Gitanjali",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFauSGXuFQK3m1Cm9ca6en3DpY7I3M4CfhLkKkYma9QVh-3X7dDxdgZx1ygEI9H-JMjQcMI5dZHa3Miosp4O-rEoLuwAG9t0NkRAcoPW7xt7gLHI-IMXEK_xJX29jcgIq4fTuhX2YVc7ZWNupeLAhM-8vjYwc0LQAuNhw4EEkY3mz1B8r8AhT&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQFnoECCAQAQ&uoh=1",
-    "snippet": "Who wrote the preface to Rabindranath Tagore’s book Gitanjali?",
-    "source": "Quora",
-    "title": "Who wrote the preface to Rabindranath Tagore's book ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "Rabindranath Tagore wrote Gitanjali, originally a collection of 157 Bengali poems published in 1910. He later translated 103 of these poems into English and ...",
-      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALsNcA6TAiSRiU0ciNsNw4-ckvZckbI8Q0Lri0nWvPTAAP6fWoc5hI1waVpH4HPI-z3W07wkXNBNlhQO9hAKmOv8njeniRb9FCg1c1JmF3efXUUmw2bU_zMmv4y8p_nL016PcG2_Kkra3QUXk6GbHsoOEa89zFXoAnXirQsiNRzPXeKrniAu0unVpGtsEeMjevYRjJ48Bp-DMJ4D_R_y1f316ypJ0S_9mXgcgm8VoTywUh86jiUV9Al4I6yaumsUkda-7a6L12tg8hgBlh0gWv0-rnf3aeCVRG6cfsuzLtT0ruwHdbHm1C0wW2RxRakx4lXvH-JOfzi7UEbqOQ5wVHgAAA.webp",
-      "source_info_link": "https://www.scribd.com/document/273227189/Rabindranath-Tagore-Book-Review-Gitanjali-1"
-     }
-    },
-    "displayed_link": "https://www.scribd.com › document",
-    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALsNcA6TAiSRiU0ciNsNw4-ckvZckbI8Q0Lri0nWvPTAAP6fWoc5hI1waVpH4HPI-z3W07wkXNBNlhQO9hAKmOv8njeniRb9FCg1c1JmF3efXUUmw2bU_zMmv4y8p_nL016PcG2_Kkra3QUXk6GbHsoOEa89zFXoAnXirQsiNRzPXeKrniAu0unVpGtsEeMjevYRjJ48Bp-DMJ4D_R_y1f316ypJ0S_9mXgcgm8VoTywUh86jiUV9Al4I6yaumsUkda-7a6L12tg8hgBlh0gWv0-rnf3aeCVRG6cfsuzLtT0ruwHdbHm1C0wW2RxRakx4lXvH-JOfzi7UEbqOQ5wVHgAAA.webp",
-    "link": "https://www.scribd.com/document/273227189/Rabindranath-Tagore-Book-Review-Gitanjali-1",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFQzJHjYeMGrOeWHDVmNUfyhxbwJxi175opt4bhUUbvNthqRi9ypDJEnL_l1QRDBLR01AuQQXiqMif6OMcpW8KHdJHIgF91DaMmI_tGKbP4zzELkmBEY0R3NEzWL04uKxgrIfj8MmpqEhO-JytYWrLFQNsRVkUHhAqwVH9iTtP3sw3WDR2gxU5F4&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQFnoECEMQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "rating": 5.0,
-       "reviews": 1
-      },
-      "extensions": [
-       "5.0(1)"
-      ]
-     }
-    },
-    "snippet": "Rabindranath Tagore wrote Gitanjali, originally a collection of 157 Bengali poems published in 1910. He later translated 103 of these poems into English and ...",
-    "snippet_highlighted_words": [
-     "wrote Gitanjali"
-    ],
-    "source": "Scribd",
-    "title": "Gitanjali: Tagore's Poetic Offering | PDF | Poetry | Languages"
-   },
-   {
-    "about_this_result": {
-     "source": {
-      "description": "\"Gitanjali\" (Song Offerings) is a collection of 103 poems by Rabindranath Tagore, originally written in Bengali and later translated into ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
-     }
-    },
-    "displayed_link": "أكثر من 300 تفاعل · قبل 6 أشهر",
-    "duration": "2:46",
+    "displayed_link": "2 years ago",
     "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/theyogainstituteofficial/posts/gitanjali-the-nobel-prize-winning-work-of-rabindranath-tagore-was-lovingly-trans/1471772111202695/",
-    "position": 6,
-    "snippet": "\"Gitanjali\" (Song Offerings) is a collection of 103 poems by Rabindranath Tagore, originally written in Bengali and later translated into ...",
-    "source": "Facebook · The Yoga Institute",
-    "thumbnail": "https://serpapi.com/searches/6aafcc3d333617c51b75a2ea/images/FFp7ynjpNtZbr2jwyLmE_ZvFJE3qWJDaUWZ9x0FPGT8.jpeg",
-    "title": "Gitanjali, the Nobel Prize-winning work of Rabindranath ..."
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "ar"
-     ],
-     "regions": [
-      "AE"
-     ],
-     "source": {
-      "description": "It was Gitanjali (Garland of Songs), just a little book of 103 poems by Rabindranath Tagore (1861-1941), a Bengali Hindu writer, written and ...",
-      "icon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAABwBQCdASocABwAPtE-tFooIigoFAEAGglkAJ0zEwZR7UGaMcbXgwFH6SvmcABAvK1E8BlAAP7otLQIaDfP_BL0MGPkZXr6Yx93U2OTfloht2CUKJyVJ0o3C0p9zlQ4LFGLHfMU_-oj7nWwaAxz15w1RLnrEPdis-f2bsuVvSphE3dTQb_bIJQbY_GR-6ZXxIOM_46N9tojg0ALisa4PKLCh1T7WgjZWiwOpAqinK7ZbyX1_jI-tpBIrvvxuMlcNcp78rikW_YAlapD5UNSqEWnX2r8PXgu3C_7vOtpoLndVtyP6_5HEbHAV0liaG-vwNWAAA.webp",
-      "source_info_link": "https://www.ncronline.org/blogs/ncr-today/gitanjali-i-found-wisdom-lost-it-and-found-it-again"
-     }
-    },
-    "date": "02‏/01‏/2017",
-    "displayed_link": "https://www.ncronline.org › ncr-today",
-    "favicon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAABwBQCdASocABwAPtE-tFooIigoFAEAGglkAJ0zEwZR7UGaMcbXgwFH6SvmcABAvK1E8BlAAP7otLQIaDfP_BL0MGPkZXr6Yx93U2OTfloht2CUKJyVJ0o3C0p9zlQ4LFGLHfMU_-oj7nWwaAxz15w1RLnrEPdis-f2bsuVvSphE3dTQb_bIJQbY_GR-6ZXxIOM_46N9tojg0ALisa4PKLCh1T7WgjZWiwOpAqinK7ZbyX1_jI-tpBIrvvxuMlcNcp78rikW_YAlapD5UNSqEWnX2r8PXgu3C_7vOtpoLndVtyP6_5HEbHAV0liaG-vwNWAAA.webp",
-    "link": "https://www.ncronline.org/blogs/ncr-today/gitanjali-i-found-wisdom-lost-it-and-found-it-again",
-    "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFbVi6rpST-_k2_Iz80xuSztauVPgl-nQaeEreicycWA6YmeiCKQinS6ARz2d0tGJgighmZbEk1cRl7yqUzaLw574dCd97atEC1-xVg2gnzqPlls3lpn8LZfrmjVXcRDiUnt3bQXpCuvYEj1zRO0qUel1WHuhEYwDmdv2tHXp7mre-Lu-W6nWCTmdJceEq5hUNA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQFnoECD8QAQ&uoh=1",
-    "snippet": "It was Gitanjali (Garland of Songs), just a little book of 103 poems by Rabindranath Tagore (1861-1941), a Bengali Hindu writer, written and ...",
+    "link": "https://www.facebook.com/groups/2650318775179582/posts/3722710557940393/",
+    "position": 1,
+    "read_more_link": "https://www.facebook.com/groups/2650318775179582/posts/3722710557940393/#:~:text=His%20work%3A%20%E2%80%A2%20Rabindranath%20Tagore's,translations%20of%20his%20Bengali%20poems.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFcUH2C6nyvf9-kwKvNjvT8PWULChzKDNw2xkYigIavBXJ4pLEJopzEVB5M6WfTpZLzQbkAVFZFPlhB3bV_UENBFmbnt6riv38FMxUMr7iOtUKYVuGXzz3E9JK7bkUJ6NhzanTZDjK4R6dFk6eTFBu2TqpLIgKWNoQolhe6A8-w&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQFnoECDcQAQ&uoh=1",
+    "snippet": "His work: • Rabindranath Tagore's work was Gitanjali --- a collection of 103 English poems of his own English translations of his Bengali poems.",
     "snippet_highlighted_words": [
      "Rabindranath Tagore"
     ],
-    "source": "National Catholic Reporter",
-    "title": "In 'Gitanjali,' I found wisdom, lost it, and found it again"
+    "source": "Facebook · The Passion of Poetry",
+    "thumbnail": "https://serpapi.com/searches/6ab98b64e396eb04f4cfcf21/images/J3UVkyNsrIPjbc6vj7nE7nhlVzUyKd8Stdw1SYCw6sw.jpeg",
+    "title": "Today is India's National Poet Tagore's 163rd birth ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZRdTVmT0RZbmRTMXZJMmgtZWtqeVJ2SVFGRzR4RUR5aU1lRVQ2T0x0U3lueUdDWWUxRjVNbUxKcGlLMGZqLVhqaEhhd29GTEh0bU1aZGl3MzdaNkMySktnZUdSQ0pPNkhoeHFVZHpReTMtNmRJemVSQ2lKWXlfaVhCblBiSzNwUVF1a2xxMlVmczJuckV2Rk5WUkJrM01KQTJuTUp4N1VVMXIxQVJnUXdCRU5ZYXNyUy12cUxMZxIEGgIIABq1BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI8FCAAQABgAIAAqOgoDd2hvFcsVYT8aBmF1dGhvchoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIqZwoFd3JvdGUVjLgMPxoGYXV0aG9yGghhdXRob3JlZBoIY29tcG9zZWQaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyGgZ3cml0ZXMaB3dyaXR0ZW4aBHllYXIqOQoJZ2l0YW5qYWxpFfQVhkAaCmdlZXRhbmphbGkaC2dlZXRoYW5qYWxpGg5pdjtwO2dpdGFuamFsaTLNAS9nb3RvP3VybD1DQUVTalFFQjZ6c3dGUXU1Zk9EWW5kUzF2STJoLWVranlSdklRRkc0eEVEeWlNZUVUNk9MdFN5bnlHQ1llMUY1TW1MSnBpSzBmai1YamhIYXdvRkxIdG1NWmRpdzM3WjZDMkpLZ2VHUkNKTzZIaHhxVWR6UXkzLTZkSXplUkNpSll5X2lYQm5QYkszcFFRdWtscTJVZnMybnJFdkZOVlJCazNNSkEybk1KeDdVVTFyMUFSZ1F3QkVOWWFzclMtdnFMTGc6NEJPT0sgUkVWSUVXOiA8Yj5HaXRhbmphbGk8L2I-IGJ5IFJhYmluZHJhbmF0aCBUYWdvcmVCngFHaXRhbmphbGkgaXMgdGhlIG1vc3Qgd2VsbC1rbm93biB3b3JrIG9mIHRoZSBCZW5nYWxpIHBvbHltYXRoIDxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-LiBUYWdvcmUgd2FzIHRoZSBmaXJzdCBub24tRXVyb3BlYW4gd2lubmVyIG9mIHRoZSBOb2JlbCBQcml6ZSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZRdTVmT0RZbmRTMXZJMmgtZWtqeVJ2SVFGRzR4RUR5aU1lRVQ2T0x0U3lueUdDWWUxRjVNbUxKcGlLMGZqLVhqaEhhd29GTEh0bU1aZGl3MzdaNkMySktnZUdSQ0pPNkhoeHFVZHpReTMtNmRJemVSQ2lKWXlfaVhCblBiSzNwUVF1a2xxMlVmczJuckV2Rk5WUkJrM01KQTJuTUp4N1VVMXIxQVJnUXdCRU5ZYXNyUy12cUxMZxIEGgIIABq1BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI8FCAAQABgAIAAqOgoDd2hvFcsVYT8aBmF1dGhvchoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIqZwoFd3JvdGUVjLgMPxoGYXV0aG9yGghhdXRob3JlZBoIY29tcG9zZWQaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyGgZ3cml0ZXMaB3dyaXR0ZW4aBHllYXIqOQoJZ2l0YW5qYWxpFfQVhkAaCmdlZXRhbmphbGkaC2dlZXRoYW5qYWxpGg5pdjtwO2dpdGFuamFsaTLNAS9nb3RvP3VybD1DQUVTalFFQjZ6c3dGUXU1Zk9EWW5kUzF2STJoLWVranlSdklRRkc0eEVEeWlNZUVUNk9MdFN5bnlHQ1llMUY1TW1MSnBpSzBmai1YamhIYXdvRkxIdG1NWmRpdzM3WjZDMkpLZ2VHUkNKTzZIaHhxVWR6UXkzLTZkSXplUkNpSll5X2lYQm5QYkszcFFRdWtscTJVZnMybnJFdkZOVlJCazNNSkEybk1KeDdVVTFyMUFSZ1F3QkVOWWFzclMtdnFMTGc6NEJPT0sgUkVWSUVXOiA8Yj5HaXRhbmphbGk8L2I-IGJ5IFJhYmluZHJhbmF0aCBUYWdvcmVCngFHaXRhbmphbGkgaXMgdGhlIG1vc3Qgd2VsbC1rbm93biB3b3JrIG9mIHRoZSBCZW5nYWxpIHBvbHltYXRoIDxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-LiBUYWdvcmUgd2FzIHRoZSBmaXJzdCBub24tRXVyb3BlYW4gd2lubmVyIG9mIHRoZSBOb2JlbCBQcml6ZSZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "ar"
+      "en"
      ],
      "regions": [
-      "AE"
+      "US"
+     ],
+     "source": {
+      "description": "Gitanjali is the most well-known work of the Bengali polymath Rabindranath Tagore. Tagore was the first non-European winner of the Nobel Prize ...",
+      "icon": "https://serpapi.com/images/i/UklGRlgBAABXRUJQVlA4IEwBAABwBgCdASocABwAPtEutFooIagoGAEAGglAAWAI5LcTKu26H6fGMZLb-NYSYmbdtwpOiRtBxuekhb4IdfAA_lZoQz4UEr6i2s2nyrV2RmDO75ll-OmoIaCH22yxy_Q26CtJMfeQPUBYGI94a10hCBNPV8JsellFjTtdiKG5XF0XabI4N0kuWWyR2HdprLaPs9ztDmmX1pR7olvwxL0GXa1-T2eFWev5PwwosPbbvHpY7YmF2tUwFJ7RCAa-aCzenQJv3ZcVV7xUD7GNXg209jg0HtL-Qt39aFCxfrd096iKKhTF1_JYDbmg99s1HcmIUUElhRW532LR_jCR7swYlbS6vyK067hQT7a-Brhh_8LNm106L592HQS50GTF4LbaF_laxShuT13eEW3ObMiqU1g-CF364I3xVzBwHF6rJMDU6sBx3iFiA1Oea4AAAA.webp",
+      "source_info_link": "https://berniegourley.com/2013/10/09/book-review-gitanjali-by-rabindranath-tagore/"
+     }
+    },
+    "date": "Oct 9, 2013",
+    "displayed_link": "https://berniegourley.com › 2013/10/09 › book-review-...",
+    "favicon": "https://serpapi.com/images/i/UklGRlgBAABXRUJQVlA4IEwBAABwBgCdASocABwAPtEutFooIagoGAEAGglAAWAI5LcTKu26H6fGMZLb-NYSYmbdtwpOiRtBxuekhb4IdfAA_lZoQz4UEr6i2s2nyrV2RmDO75ll-OmoIaCH22yxy_Q26CtJMfeQPUBYGI94a10hCBNPV8JsellFjTtdiKG5XF0XabI4N0kuWWyR2HdprLaPs9ztDmmX1pR7olvwxL0GXa1-T2eFWev5PwwosPbbvHpY7YmF2tUwFJ7RCAa-aCzenQJv3ZcVV7xUD7GNXg209jg0HtL-Qt39aFCxfrd096iKKhTF1_JYDbmg99s1HcmIUUElhRW532LR_jCR7swYlbS6vyK067hQT7a-Brhh_8LNm106L592HQS50GTF4LbaF_laxShuT13eEW3ObMiqU1g-CF364I3xVzBwHF6rJMDU6sBx3iFiA1Oea4AAAA.webp",
+    "link": "https://berniegourley.com/2013/10/09/book-review-gitanjali-by-rabindranath-tagore/",
+    "position": 2,
+    "read_more_link": "https://berniegourley.com/2013/10/09/book-review-gitanjali-by-rabindranath-tagore/#:~:text=Gitanjali%20is%20the%20most%20well%2Dknown,Nobel%20Prize%20for%20Literature%20(1913.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFQu5fODYndS1vI2h-ekjyRvIQFG4xEDyiMeET6OLtSynyGCYe1F5MmLJpiK0fj-XjhHawoFLHtmMZdiw37Z6C2JKgeGRCJO6HhxqUdzQy3-6dIzeRCiJYy_iXBnPbK3pQQuklq2Ufs2nrEvFNVRBk3MJA2nMJx7UU1r1ARgQwBENYasrS-vqLLg&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQFnoECC8QAQ&uoh=1",
+    "snippet": "Gitanjali is the most well-known work of the Bengali polymath Rabindranath Tagore. Tagore was the first non-European winner of the Nobel Prize ...",
+    "snippet_highlighted_words": [
+     "Rabindranath Tagore"
+    ],
+    "source": "berniegourley.com",
+    "title": "BOOK REVIEW: Gitanjali by Rabindranath Tagore"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZYOWtFeW0wQ0ZtbWdrQ1o4amlwVWVFUW5ERkVpdHAzVXp3YWstZTR2cS0zT0tid3lfRGVhbzBURkstVzhIMVZUTllkU0Z3bEpvRkRlck93cXRuWHFMYl91ZVVCZllKLVFETTJsN1VmeFRzWWRYcjNYZTZLMFo5WC1yVnlMblEwUDZEUkR1ZXZTanNtSF9YemRIdmhuc1l2VHU2VUkzNjdRSk5UQklfRDRSaEVYaEYyZEESBBoCCAAawQUSABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCbBQgAEAAYACAAKjoKA3dobxUnrgg-GgZhdXRob3IaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyKmcKBXdyb3RlFXA3Zj4aBmF1dGhvchoIYXV0aG9yZWQaCGNvbXBvc2VkGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlchoGd3JpdGVzGgd3cml0dGVuGgR5ZWFyKjkKCWdpdGFuamFsaRXLblFAGgpnZWV0YW5qYWxpGgtnZWV0aGFuamFsaRoOaXY7cDtnaXRhbmphbGkyyAEvZ290bz91cmw9Q0FFU2lRRUI2enN3Rlg5a0V5bTBDRm1tZ2tDWjhqaXBVZUVRbkRGRWl0cDNVendhay1lNHZxLTNPS2J3eV9EZWFvMFRGSy1XOEgxVlROWWRTRndsSm9GRGVyT3dxdG5YcUxiX3VlVUJmWUotUURNMmw3VWZ4VHNZZFhyM1hlNkswWjlYLXJWeUxuUTBQNkRSRHVldlNqc21IX1h6ZEh2aG5zWXZUdTZVSTM2N1FKTlRCSV9ENFJoRVhoRjJkQTpDPGI-R2l0YW5qYWxpPC9iPjogQnkgUmFiaW5kcmFuYXRoIFRhZ29yZSAtIElsbHVzdHJhdGVkIC0gQW1hem9uLmNvbUKgAUdpdGFuamFsaSBpcyBhIGNvbGxlY3Rpb24gb2YgcG9lbXMgYnkgdGhlIDxiPkluZGlhbiBwb2V0IFJhYmluZHJhbmF0aCBUYWdvcmU8L2I-LiBUaGUgb3JpZ2luYWwgQmVuZ2FsaSBjb2xsZWN0aW9uIG9mIDE1NyBwb2VtcyB3YXMgcHVibGlzaGVkIG9uIEF1Z3VzdCAxNCwgMTkxMC4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZYOWtFeW0wQ0ZtbWdrQ1o4amlwVWVFUW5ERkVpdHAzVXp3YWstZTR2cS0zT0tid3lfRGVhbzBURkstVzhIMVZUTllkU0Z3bEpvRkRlck93cXRuWHFMYl91ZVVCZllKLVFETTJsN1VmeFRzWWRYcjNYZTZLMFo5WC1yVnlMblEwUDZEUkR1ZXZTanNtSF9YemRIdmhuc1l2VHU2VUkzNjdRSk5UQklfRDRSaEVYaEYyZEESBBoCCAAawQUSABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCbBQgAEAAYACAAKjoKA3dobxUnrgg-GgZhdXRob3IaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyKmcKBXdyb3RlFXA3Zj4aBmF1dGhvchoIYXV0aG9yZWQaCGNvbXBvc2VkGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlchoGd3JpdGVzGgd3cml0dGVuGgR5ZWFyKjkKCWdpdGFuamFsaRXLblFAGgpnZWV0YW5qYWxpGgtnZWV0aGFuamFsaRoOaXY7cDtnaXRhbmphbGkyyAEvZ290bz91cmw9Q0FFU2lRRUI2enN3Rlg5a0V5bTBDRm1tZ2tDWjhqaXBVZUVRbkRGRWl0cDNVendhay1lNHZxLTNPS2J3eV9EZWFvMFRGSy1XOEgxVlROWWRTRndsSm9GRGVyT3dxdG5YcUxiX3VlVUJmWUotUURNMmw3VWZ4VHNZZFhyM1hlNkswWjlYLXJWeUxuUTBQNkRSRHVldlNqc21IX1h6ZEh2aG5zWXZUdTZVSTM2N1FKTlRCSV9ENFJoRVhoRjJkQTpDPGI-R2l0YW5qYWxpPC9iPjogQnkgUmFiaW5kcmFuYXRoIFRhZ29yZSAtIElsbHVzdHJhdGVkIC0gQW1hem9uLmNvbUKgAUdpdGFuamFsaSBpcyBhIGNvbGxlY3Rpb24gb2YgcG9lbXMgYnkgdGhlIDxiPkluZGlhbiBwb2V0IFJhYmluZHJhbmF0aCBUYWdvcmU8L2I-LiBUaGUgb3JpZ2luYWwgQmVuZ2FsaSBjb2xsZWN0aW9uIG9mIDE1NyBwb2VtcyB3YXMgcHVibGlzaGVkIG9uIEF1Z3VzdCAxNCwgMTkxMC4iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Gitanjali is a collection of poems by the Indian poet Rabindranath Tagore. The original Bengali collection of 157 poems was published on August 14, 1910.",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+      "source_info_link": "https://www.amazon.com/Gitanjali-Rabindranath-Tagore-Illustrated/dp/1534793674"
+     }
+    },
+    "displayed_link": "https://www.amazon.com › Gitanjali-Rabindranath-Tagor...",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+    "link": "https://www.amazon.com/Gitanjali-Rabindranath-Tagore-Illustrated/dp/1534793674",
+    "position": 3,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFX9kEym0CFmmgkCZ8jipUeEQnDFEitp3Uzwak-e4vq-3OKbwy_Deao0TFK-W8H1VTNYdSFwlJoFDerOwqtnXqLb_ueUBfYJ-QDM2l7UfxTsYdXr3Xe6K0Z9X-rVyLnQ0P6DRDuevSjsmH_XzdHvhnsYvTu6UI367QJNTBI_D4RhEXhF2dA&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQFnoECCwQAQ&uoh=1",
+    "snippet": "Gitanjali is a collection of poems by the Indian poet Rabindranath Tagore. The original Bengali collection of 157 poems was published on August 14, 1910.",
+    "snippet_highlighted_words": [
+     "Indian poet Rabindranath Tagore"
+    ],
+    "source": "Amazon.com",
+    "title": "Gitanjali: By Rabindranath Tagore - Illustrated"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVmtuWV9sUnVCYkdNSEwtZEluUkRDN2RndE0wdWp5WGJqdUMzMzFDTzQ3UWN0QWxXRDkzR2lYLTlGMGZVVVg1TWVjbHJwZnFNR3Z5eTBCNjdUX2VJOHlDQW1IN2daMUg3OWhyZGdBdGVOU0dhSmRfLXNRdkUSBBoCCAAa6wQSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDFBAgAEAAYACAAKjoKA3dobxWCPKw-GgZhdXRob3IaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyKmcKBXdyb3RlFWukND4aBmF1dGhvchoIYXV0aG9yZWQaCGNvbXBvc2VkGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlchoGd3JpdGVzGgd3cml0dGVuGgR5ZWFyKjkKCWdpdGFuamFsaRX41SRAGgpnZWV0YW5qYWxpGgtnZWV0aGFuamFsaRoOaXY7cDtnaXRhbmphbGkyiQEvZ290bz91cmw9Q0FFU1d3SHJPekFWa25ZX2xSdUJiR01ITC1kSW5SREM3ZGd0TTB1anlYYmp1QzMzMUNPNDdRY3RBbFdEOTNHaVgtOUYwZlVVWDVNZWNscnBmcU1Hdnl5MEI2N1RfZUk4eUNBbUg3Z1oxSDc5aHJkZ0F0ZU5TR2FKZF8tc1F2RToaPGI-R2l0YW5qYWxpPC9iPiB8IHpvcmF3ZWJCsgFUaGUgR2l0YW5qYWxpIG9yIGBzb25nIG9mZmVyaW5ncyYjMzk7IGJ5IDxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-ICgxODYxLS0xOTQxKSwgTm9iZWwgcHJpemUgZm9yIGxpdGVyYXR1cmUgMTkxMywgd2l0aCBhbiBpbnRyb2R1Y3Rpb24gYnkgV2lsbGlhbSBCLiBZZWF0cyAoMTg2NS0tMTkzOSksJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVmtuWV9sUnVCYkdNSEwtZEluUkRDN2RndE0wdWp5WGJqdUMzMzFDTzQ3UWN0QWxXRDkzR2lYLTlGMGZVVVg1TWVjbHJwZnFNR3Z5eTBCNjdUX2VJOHlDQW1IN2daMUg3OWhyZGdBdGVOU0dhSmRfLXNRdkUSBBoCCAAa6wQSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDFBAgAEAAYACAAKjoKA3dobxWCPKw-GgZhdXRob3IaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyKmcKBXdyb3RlFWukND4aBmF1dGhvchoIYXV0aG9yZWQaCGNvbXBvc2VkGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlchoGd3JpdGVzGgd3cml0dGVuGgR5ZWFyKjkKCWdpdGFuamFsaRX41SRAGgpnZWV0YW5qYWxpGgtnZWV0aGFuamFsaRoOaXY7cDtnaXRhbmphbGkyiQEvZ290bz91cmw9Q0FFU1d3SHJPekFWa25ZX2xSdUJiR01ITC1kSW5SREM3ZGd0TTB1anlYYmp1QzMzMUNPNDdRY3RBbFdEOTNHaVgtOUYwZlVVWDVNZWNscnBmcU1Hdnl5MEI2N1RfZUk4eUNBbUg3Z1oxSDc5aHJkZ0F0ZU5TR2FKZF8tc1F2RToaPGI-R2l0YW5qYWxpPC9iPiB8IHpvcmF3ZWJCsgFUaGUgR2l0YW5qYWxpIG9yIGBzb25nIG9mZmVyaW5ncyYjMzk7IGJ5IDxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-ICgxODYxLS0xOTQxKSwgTm9iZWwgcHJpemUgZm9yIGxpdGVyYXR1cmUgMTkxMywgd2l0aCBhbiBpbnRyb2R1Y3Rpb24gYnkgV2lsbGlhbSBCLiBZZWF0cyAoMTg2NS0tMTkzOSksJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "The Gitanjali or `song offerings' by Rabindranath Tagore (1861--1941), Nobel prize for literature 1913, with an introduction by William B. Yeats (1865--1939), ...",
+      "icon": "https://serpapi.com/images/i/UklGRsgAAABXRUJQVlA4ILwAAABwBACdASoQACAAPtEutFooIagoGAEAGglpABOADZRZpp7NrN4HHUdtTBwt4AD-in_y9Ol-XN_326EKiY_b_4r-J7af_jF_e0QYUPwqqihMHFKGx8Q0jw2P1pSPTwVB-L1l2Ww_guNcXoq5r1r8F__GLNSsgQqXqoC6BqAVG5yCYOv4WnnYZtAT4Z_yg_D_oqTk-xfD8NzEdhIiipLBDZRTnaOpaOHzJXp7WT82FBcXG5wwebv1tcV3-gAAAA.webp",
+      "source_info_link": "https://zoraweb.com/gitanjali-en"
+     }
+    },
+    "displayed_link": "https://zoraweb.com › gitanjali-en",
+    "favicon": "https://serpapi.com/images/i/UklGRsgAAABXRUJQVlA4ILwAAABwBACdASoQACAAPtEutFooIagoGAEAGglpABOADZRZpp7NrN4HHUdtTBwt4AD-in_y9Ol-XN_326EKiY_b_4r-J7af_jF_e0QYUPwqqihMHFKGx8Q0jw2P1pSPTwVB-L1l2Ww_guNcXoq5r1r8F__GLNSsgQqXqoC6BqAVG5yCYOv4WnnYZtAT4Z_yg_D_oqTk-xfD8NzEdhIiipLBDZRTnaOpaOHzJXp7WT82FBcXG5wwebv1tcV3-gAAAA.webp",
+    "link": "https://zoraweb.com/gitanjali-en",
+    "position": 4,
+    "read_more_link": "https://zoraweb.com/gitanjali-en#:~:text=The%20Gitanjali%20or%20%60song%20offerings',Nobel%20prize%20for%20literature%201923.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVknY_lRuBbGMHL-dInRDC7dgtM0ujyXbjuC331CO47QctAlWD93GiX-9F0fUUX5MeclrpfqMGvyy0B67T_eI8yCAmH7gZ1H79hrdgAteNSGaJd_-sQvE&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQFnoECCsQAQ&uoh=1",
+    "snippet": "The Gitanjali or `song offerings' by Rabindranath Tagore (1861--1941), Nobel prize for literature 1913, with an introduction by William B. Yeats (1865--1939), ...",
+    "snippet_highlighted_words": [
+     "Rabindranath Tagore"
+    ],
+    "source": "zoraweb",
+    "title": "Gitanjali"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlR2S2s0TXRPLWVaOVB0VHpjTmtZNUpXeFU0LUVqaHQxSEJUejVSZ2lUdFZRLWZtS1huZlduMDBKOEhBYzlVMTlnVXRmTWh2Qm1Bb2t3R3FDZ3F2TFRLVTJYcG9rSWJkOEtVYm1jQVZ2YklkM1RoVENSNUNFQVN1cmRyYkpWeGJ4dlESBBoCCAAajwUSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOcECAAQABgAIAAqOgoDd2hvFXPQ7z0aBmF1dGhvchoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIqZwoFd3JvdGUVAAAAABoGYXV0aG9yGghhdXRob3JlZBoIY29tcG9zZWQaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyGgZ3cml0ZXMaB3dyaXR0ZW4aBHllYXIqOQoJZ2l0YW5qYWxpFXYFTUAaCmdlZXRhbmphbGkaC2dlZXRoYW5qYWxpGg5pdjtwO2dpdGFuamFsaTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZUdktrNE10Ty1lWjlQdFR6Y05rWTVKV3hVNC1Famh0MUhCVHo1UmdpVHRWUS1mbUtYbmZXbjAwSjhIQWM5VTE5Z1V0Zk1odkJtQW9rd0dxQ2dxdkxUS1UyWHBva0liZDhLVWJtY0FWdmJJZDNUaFRDUjVDRUFTdXJkcmJKVnhieHZROjM8Yj5HaXRhbmphbGk8L2I-IGJ5IFJhYmluZHJhbmF0aCBUYWdvcmUgfCBHb29kcmVhZHNCrAE8Yj5SYWJpbmRyYW5hdGggVGFnb3JlPC9iPiB3YXMgYSBCZW5nYWxpIHBvbHltYXRoIHdobyB3b24gdGhlIE5vYmVsIFByaXplIGZvciBMaXRlcmF0dXJlIGluIDE5MTMuIEhlIHdhcyBhIHBvZXQsIHZpc3VhbCBhcnRpc3QsIHBsYXl3cmlnaHQsIG5vdmVsaXN0LCBlZHVjYXRpb25pc3QsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlR2S2s0TXRPLWVaOVB0VHpjTmtZNUpXeFU0LUVqaHQxSEJUejVSZ2lUdFZRLWZtS1huZlduMDBKOEhBYzlVMTlnVXRmTWh2Qm1Bb2t3R3FDZ3F2TFRLVTJYcG9rSWJkOEtVYm1jQVZ2YklkM1RoVENSNUNFQVN1cmRyYkpWeGJ4dlESBBoCCAAajwUSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOcECAAQABgAIAAqOgoDd2hvFXPQ7z0aBmF1dGhvchoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIqZwoFd3JvdGUVAAAAABoGYXV0aG9yGghhdXRob3JlZBoIY29tcG9zZWQaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyGgZ3cml0ZXMaB3dyaXR0ZW4aBHllYXIqOQoJZ2l0YW5qYWxpFXYFTUAaCmdlZXRhbmphbGkaC2dlZXRoYW5qYWxpGg5pdjtwO2dpdGFuamFsaTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZUdktrNE10Ty1lWjlQdFR6Y05rWTVKV3hVNC1Famh0MUhCVHo1UmdpVHRWUS1mbUtYbmZXbjAwSjhIQWM5VTE5Z1V0Zk1odkJtQW9rd0dxQ2dxdkxUS1UyWHBva0liZDhLVWJtY0FWdmJJZDNUaFRDUjVDRUFTdXJkcmJKVnhieHZROjM8Yj5HaXRhbmphbGk8L2I-IGJ5IFJhYmluZHJhbmF0aCBUYWdvcmUgfCBHb29kcmVhZHNCrAE8Yj5SYWJpbmRyYW5hdGggVGFnb3JlPC9iPiB3YXMgYSBCZW5nYWxpIHBvbHltYXRoIHdobyB3b24gdGhlIE5vYmVsIFByaXplIGZvciBMaXRlcmF0dXJlIGluIDE5MTMuIEhlIHdhcyBhIHBvZXQsIHZpc3VhbCBhcnRpc3QsIHBsYXl3cmlnaHQsIG5vdmVsaXN0LCBlZHVjYXRpb25pc3QsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Rabindranath Tagore was a Bengali polymath who won the Nobel Prize for Literature in 1913. He was a poet, visual artist, playwright, novelist, educationist, ...",
+      "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAACwBQCdASocABwAPrkurlcnIacnG_DgFwlnAMOtqAGcr5rI_mcY1CSiw_rmMgVdLcR4ZdoPkAAA_vNrJ9ms2X--GpHfUZL26adV3l9B6avDEyhqYePjeiqF1zCgeYszbWcemDlLZxOObAiSdAb2ENjfuM4VPva1dWXumeOO07Lp34GgaWc2Z3YXgcDVK9KYY7_EArkn97aHfd95-TcWt-RfOrwglNwWfgBu7V9rBdDKm3uKKgW_2-qEDXE13w31nw2-2esncSNh-H_vZw__8cW9ACedxoGGXSVXKe6z_GAAAA.webp",
+      "source_info_link": "https://www.goodreads.com/book/show/9864845"
+     }
+    },
+    "displayed_link": "https://www.goodreads.com › book › show",
+    "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAACwBQCdASocABwAPrkurlcnIacnG_DgFwlnAMOtqAGcr5rI_mcY1CSiw_rmMgVdLcR4ZdoPkAAA_vNrJ9ms2X--GpHfUZL26adV3l9B6avDEyhqYePjeiqF1zCgeYszbWcemDlLZxOObAiSdAb2ENjfuM4VPva1dWXumeOO07Lp34GgaWc2Z3YXgcDVK9KYY7_EArkn97aHfd95-TcWt-RfOrwglNwWfgBu7V9rBdDKm3uKKgW_2-qEDXE13w31nw2-2esncSNh-H_vZw__8cW9ACedxoGGXSVXKe6z_GAAAA.webp",
+    "link": "https://www.goodreads.com/book/show/9864845",
+    "position": 5,
+    "read_more_link": "https://www.goodreads.com/book/show/9864845#:~:text=Rabindranath%20Tagore%20was%20a%20Bengali,reformer%2C%20nationalist%2C%20business%2Dmanager%20and%20composer.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVTvKk4MtO-eZ9PtTzcNkY5JWxU4-Ejht1HBTz5RgiTtVQ-fmKXnfWn00J8HAc9U19gUtfMhvBmAokwGqCgqvLTKU2XpokIbd8KUbmcAVvbId3ThTCR5CEASurdrbJVxbxvQ&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQFnoECDEQAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "currency": "$",
+       "price": 0.99,
+       "rating": 4.3,
+       "reviews": 12256
+      },
+      "extensions": [
+       "4.3(12,256)",
+       "$0.99"
+      ]
+     }
+    },
+    "snippet": "Rabindranath Tagore was a Bengali polymath who won the Nobel Prize for Literature in 1913. He was a poet, visual artist, playwright, novelist, educationist, ...",
+    "snippet_highlighted_words": [
+     "Rabindranath Tagore"
+    ],
+    "source": "Goodreads",
+    "title": "Gitanjali by Rabindranath Tagore"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZVLU5yMUh4bHBPbkhubkxHb1loWmFGRkY2Z20tMnNrSnNhbzZqeHZmaVlhNkhiLWFVdC0tMV9ISEoxWEpwdFR5djhPMnBvTVVKZzZHaXBCdWRybThWZnRDamtKbzdZc3R6c2NYQVhkek1iTjFqOXZoMUdjNE5xQk5FSzBRdUJuNmFERHRTVkhOLVJHRVhPMVRMdlNJR0FyaWc1MUg3X3BmTk1MdWluTlc2LUVPQVFVQVJuZlY1YUESBBoCCAAazgUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAqgUIABAAGAAgACo6CgN3aG8VOf-lQBoGYXV0aG9yGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlcipnCgV3cm90ZRUAAAAAGgZhdXRob3IaCGF1dGhvcmVkGghjb21wb3NlZBoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIaBndyaXRlcxoHd3JpdHRlbhoEeWVhcio5CglnaXRhbmphbGkVkIyVQBoKZ2VldGFuamFsaRoLZ2VldGhhbmphbGkaDml2O3A7Z2l0YW5qYWxpMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZVLU5yMUh4bHBPbkhubkxHb1loWmFGRkY2Z20tMnNrSnNhbzZqeHZmaVlhNkhiLWFVdC0tMV9ISEoxWEpwdFR5djhPMnBvTVVKZzZHaXBCdWRybThWZnRDamtKbzdZc3R6c2NYQVhkek1iTjFqOXZoMUdjNE5xQk5FSzBRdUJuNmFERHRTVkhOLVJHRVhPMVRMdlNJR0FyaWc1MUg3X3BmTk1MdWluTlc2LUVPQVFVQVJuZlY1YUE6TERpc2N1c3M6IFdobyB3YXMgdGhlIDxiPldyaXRlcjwvYj4gb2YgPGI-R2l0YW5qYWxpPC9iPiAuIC0gSW5kaWFTdHVkeUNoYW5uZWxCoAE8Yj5Xcml0dGVuIGJ5IFJhYmluZHJhbmF0aCBUYWdvcmU8L2I-IGluIEJlbmdhbGkuIEl0IHdhcyB0cmFuc2xhdGVkIGluIEVuZ2xpc2ggYW5kIHNlbmQgZm9yIE5vYmVsIHByaXplIGluIHRoZSBjYXRlZ29yeSBvZiBMaXRlcmF0dXJlLiBIZSBnb3QgdGhlIE5vYmVsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZVLU5yMUh4bHBPbkhubkxHb1loWmFGRkY2Z20tMnNrSnNhbzZqeHZmaVlhNkhiLWFVdC0tMV9ISEoxWEpwdFR5djhPMnBvTVVKZzZHaXBCdWRybThWZnRDamtKbzdZc3R6c2NYQVhkek1iTjFqOXZoMUdjNE5xQk5FSzBRdUJuNmFERHRTVkhOLVJHRVhPMVRMdlNJR0FyaWc1MUg3X3BmTk1MdWluTlc2LUVPQVFVQVJuZlY1YUESBBoCCAAazgUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAqgUIABAAGAAgACo6CgN3aG8VOf-lQBoGYXV0aG9yGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlcipnCgV3cm90ZRUAAAAAGgZhdXRob3IaCGF1dGhvcmVkGghjb21wb3NlZBoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIaBndyaXRlcxoHd3JpdHRlbhoEeWVhcio5CglnaXRhbmphbGkVkIyVQBoKZ2VldGFuamFsaRoLZ2VldGhhbmphbGkaDml2O3A7Z2l0YW5qYWxpMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZVLU5yMUh4bHBPbkhubkxHb1loWmFGRkY2Z20tMnNrSnNhbzZqeHZmaVlhNkhiLWFVdC0tMV9ISEoxWEpwdFR5djhPMnBvTVVKZzZHaXBCdWRybThWZnRDamtKbzdZc3R6c2NYQVhkek1iTjFqOXZoMUdjNE5xQk5FSzBRdUJuNmFERHRTVkhOLVJHRVhPMVRMdlNJR0FyaWc1MUg3X3BmTk1MdWluTlc2LUVPQVFVQVJuZlY1YUE6TERpc2N1c3M6IFdobyB3YXMgdGhlIDxiPldyaXRlcjwvYj4gb2YgPGI-R2l0YW5qYWxpPC9iPiAuIC0gSW5kaWFTdHVkeUNoYW5uZWxCoAE8Yj5Xcml0dGVuIGJ5IFJhYmluZHJhbmF0aCBUYWdvcmU8L2I-IGluIEJlbmdhbGkuIEl0IHdhcyB0cmFuc2xhdGVkIGluIEVuZ2xpc2ggYW5kIHNlbmQgZm9yIE5vYmVsIHByaXplIGluIHRoZSBjYXRlZ29yeSBvZiBMaXRlcmF0dXJlLiBIZSBnb3QgdGhlIE5vYmVsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Written by Rabindranath Tagore in Bengali. It was translated in English and send for Nobel prize in the category of Literature. He got the Nobel ...",
+      "icon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAADQBQCdASogACAAPtE-tFooIigoFAEAGglqALe7LBOYnjzeykQY-Sz98b66FKbGFyl_KsbENpWgAP72f-NACjUIThyovahHVbxGi_07FQ-DAEVDoIHT9k1jY7tip5XjGu7kVUK3R2tWEiJz1Cxa2gaUIIqfjGilev-1z9V_uL8g7fqBuuKnQB48O_jU0c-0cjH8zVLAj6bL7368kFBQc5AJ76z5vC1ssyA-ChZcuJhH262J-w6VUtD38_qD3MfEuevXh0l21MSJj7a-97v3-t5m4NfcraRNlw8DKVZtyflRXlb2u0Of88jiS7OR68MfDVXSDJprtxf5b0l0V-gwq-DysygNVYtsbaBldbEsMWhegKSNkWpJqdCUm7sfm9ZSL8-Bt0gA9A8OI9IGFUsEnWprDy7q5DkcWXSFvTHurl3B7QQjVlDC7hyQo1DfxdWb8pNIaD7yw2VGywAA.webp",
+      "source_info_link": "https://www.indiastudychannel.com/forum/64769-Discuss-Who-was-Writer-Gitanjali.aspx"
+     }
+    },
+    "date": "Mar 9, 2011",
+    "displayed_link": "https://www.indiastudychannel.com › forum › 64769-Di...",
+    "favicon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAADQBQCdASogACAAPtE-tFooIigoFAEAGglqALe7LBOYnjzeykQY-Sz98b66FKbGFyl_KsbENpWgAP72f-NACjUIThyovahHVbxGi_07FQ-DAEVDoIHT9k1jY7tip5XjGu7kVUK3R2tWEiJz1Cxa2gaUIIqfjGilev-1z9V_uL8g7fqBuuKnQB48O_jU0c-0cjH8zVLAj6bL7368kFBQc5AJ76z5vC1ssyA-ChZcuJhH262J-w6VUtD38_qD3MfEuevXh0l21MSJj7a-97v3-t5m4NfcraRNlw8DKVZtyflRXlb2u0Of88jiS7OR68MfDVXSDJprtxf5b0l0V-gwq-DysygNVYtsbaBldbEsMWhegKSNkWpJqdCUm7sfm9ZSL8-Bt0gA9A8OI9IGFUsEnWprDy7q5DkcWXSFvTHurl3B7QQjVlDC7hyQo1DfxdWb8pNIaD7yw2VGywAA.webp",
+    "link": "https://www.indiastudychannel.com/forum/64769-Discuss-Who-was-Writer-Gitanjali.aspx",
+    "position": 6,
+    "read_more_link": "https://www.indiastudychannel.com/forum/64769-Discuss-Who-was-Writer-Gitanjali.aspx#:~:text=Written%20by%20Rabindranath%20Tagore%20in,Prize%20in%201913%20for%20this.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFU-Nr1HxlpOnHnnLGoYhZaFFF6gm-2skJsao6jxvfiYa6Hb-aUt--1_HHJ1XJptTyv8O2poMUJg6GipBudrm8VftCjkJo7YstzscXAXdzMbN1j9vh1Gc4NqBNEK0QuBn6aDDtSVHN-RGEXO1TLvSIGArig51H7_pfNMLuinNW6-EOAQUARnfV5aA&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQFnoECDQQAQ&uoh=1",
+    "snippet": "Written by Rabindranath Tagore in Bengali. It was translated in English and send for Nobel prize in the category of Literature. He got the Nobel ...",
+    "snippet_highlighted_words": [
+     "Written by Rabindranath Tagore"
+    ],
+    "source": "IndiaStudyChannel",
+    "title": "Discuss: Who was the Writer of Gitanjali ."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVmdzZWtRbEJLTWt6cnJ6SlNSMWFORm05U2t3TUhBVHpDcDUxdmlBLTQ2STBoaWotWkREOHJZVnBWWVc3QnBLWDl1SHhEZDVIMFpYVXk0OFpZZ2xYeS1PZmE0YVdGbWhYdmZjOXZMRksyZktzRGZ1NlZvTHpDQlB1RhIEGgIIABqBBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDdBAgAEAAYACAAKjoKA3dobxXiYlFAGgZhdXRob3IaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyKmcKBXdyb3RlFUSmiD8aBmF1dGhvchoIYXV0aG9yZWQaCGNvbXBvc2VkGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlchoGd3JpdGVzGgd3cml0dGVuGgR5ZWFyKjkKCWdpdGFuamFsaRVCiYBAGgpnZWV0YW5qYWxpGgtnZWV0aGFuamFsaRoOaXY7cDtnaXRhbmphbGkyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWZ3Nla1FsQktNa3pycnpKU1IxYU5GbTlTa3dNSEFUekNwNTF2aUEtNDZJMGhpai1aREQ4cllWcFZZVzdCcEtYOXVIeERkNUgwWlhVeTQ4WllnbFh5LU9mYTRhV0ZtaFh2ZmM5dkxGSzJmS3NEZnU2Vm9MekNCUHVGOjx3aG8gaXMgdGhlIDxiPndyaXRlcjwvYj4gb2YgPGI-R0lUQU5KQUxJPC9iPuKAiyAtIEJyYWlubHkuaW5CowFHxKt0xIHDsWphbGksIGEgY29sbGVjdGlvbiBvZiBwb2V0cnksIHRoZSBtb3N0IGZhbW91cyB3b3JrIGJ5IDxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-LCBwdWJsaXNoZWQgaW4gSW5kaWEgaW4gMTkxMC4gVGFnb3JlIHRoZW4gdHJhbnNsYXRlZCBpdCBpbnRvIHByb3NlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVmdzZWtRbEJLTWt6cnJ6SlNSMWFORm05U2t3TUhBVHpDcDUxdmlBLTQ2STBoaWotWkREOHJZVnBWWVc3QnBLWDl1SHhEZDVIMFpYVXk0OFpZZ2xYeS1PZmE0YVdGbWhYdmZjOXZMRksyZktzRGZ1NlZvTHpDQlB1RhIEGgIIABqBBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDdBAgAEAAYACAAKjoKA3dobxXiYlFAGgZhdXRob3IaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyKmcKBXdyb3RlFUSmiD8aBmF1dGhvchoIYXV0aG9yZWQaCGNvbXBvc2VkGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlchoGd3JpdGVzGgd3cml0dGVuGgR5ZWFyKjkKCWdpdGFuamFsaRVCiYBAGgpnZWV0YW5qYWxpGgtnZWV0aGFuamFsaRoOaXY7cDtnaXRhbmphbGkyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWZ3Nla1FsQktNa3pycnpKU1IxYU5GbTlTa3dNSEFUekNwNTF2aUEtNDZJMGhpai1aREQ4cllWcFZZVzdCcEtYOXVIeERkNUgwWlhVeTQ4WllnbFh5LU9mYTRhV0ZtaFh2ZmM5dkxGSzJmS3NEZnU2Vm9MekNCUHVGOjx3aG8gaXMgdGhlIDxiPndyaXRlcjwvYj4gb2YgPGI-R0lUQU5KQUxJPC9iPuKAiyAtIEJyYWlubHkuaW5CowFHxKt0xIHDsWphbGksIGEgY29sbGVjdGlvbiBvZiBwb2V0cnksIHRoZSBtb3N0IGZhbW91cyB3b3JrIGJ5IDxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-LCBwdWJsaXNoZWQgaW4gSW5kaWEgaW4gMTkxMC4gVGFnb3JlIHRoZW4gdHJhbnNsYXRlZCBpdCBpbnRvIHByb3NlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
      ],
      "source": {
       "description": "Gītāñjali, a collection of poetry, the most famous work by Rabindranath Tagore, published in India in 1910. Tagore then translated it into prose ...",
-      "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADwCACdASogACAAPtE-tFooIigoFAEAGglqAJ0yy8Z4HYK8ufftA9jv017Af6x-kB7APQrTb2N0E-CzEqWCas8PAGtfs_hy1cd_Q-LxctPZgAD-0olmCDofFrwKNFJefRmYKRj8vZV0-MDEa3lnaI83UKUXRFf6nDzQB5JS4_F7TveOvzOY-fcRKtGW56THLd_2CUOwdS_0VZCKBSj_6uThdoY_tS3o3suv43iMshKMU0cih3wGuNpo2cEMKi7voFu7nl7B2UZT0UQOP_Gw33S6P-tlvj-N6MYNXDLikRV6L_jeJfhqBckx77otMycRIceJ6Z_TVxM_CspTu9nbuGuaNKZ7UQ91cLlucL5S_x0upmNDhJO51OvZr2ztTM7Q6aCPRMJfWNXyJlg16k3-zkqTn9IhOYJoCWagmE5A4-P28BP9L0NTEB_VayiHJyZ0J9WBpXLaF0y7pzd_x4T7lN2KEnk0EHPB0oa_Ro4EySv9WmrmEs5UjpKBDugoP2tQ8egNslCHCcL1Ib6jKNKNZ1gOqXq3JVAg-8-2opbfs2D56-nN7OcWhW1xCS3TXFBtN4BRG_AAAAA.webp",
-      "source_info_link": "https://www.britannica.com/topic/Gitanjali"
+      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBgCdASocABwAPtEwtFooIigoGAEAGglsALEfjujYeVUrmVFvePfopq4YEKkgjGUwSJxNXx6tCxAAAP7ok4Z-oj154nFXNCQfL5_GR-HUt1enSHpQs4JKJaDL_hnAfTMfpZ55AbUU5K3iFy4V43bqjRuhFcxDFm-y03hJoy5ob0biY_OkcraP5PHiwXeb3q4S8md_FJuOkv1fgUUzWnPthUGFaCV_rPW7rbv8vgQEHP4sBf9Ifs1DNP-bQ1RNXNGI6UiGmo-f--lOZSdNV5ldnfgBmfVlmC7J79-4HsgJg_n-bH6WCMoBnjmhRpdmbOJ_96g-aqeWmIKa2s6-ra8hIBiPtz_V1LzGRqRQTn6Rr3JGbYn7bHZBjzBq5-I3v2HwrT5fo6cYvSLDFowWnTW0pbtXoAEV6BTrIzlCv859t1AA.webp",
+      "source_info_link": "https://brainly.in/question/28229006"
      }
     },
-    "date": "06‏/08‏/2026",
-    "displayed_link": "https://www.britannica.com › Gitanjali",
-    "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADwCACdASogACAAPtE-tFooIigoFAEAGglqAJ0yy8Z4HYK8ufftA9jv017Af6x-kB7APQrTb2N0E-CzEqWCas8PAGtfs_hy1cd_Q-LxctPZgAD-0olmCDofFrwKNFJefRmYKRj8vZV0-MDEa3lnaI83UKUXRFf6nDzQB5JS4_F7TveOvzOY-fcRKtGW56THLd_2CUOwdS_0VZCKBSj_6uThdoY_tS3o3suv43iMshKMU0cih3wGuNpo2cEMKi7voFu7nl7B2UZT0UQOP_Gw33S6P-tlvj-N6MYNXDLikRV6L_jeJfhqBckx77otMycRIceJ6Z_TVxM_CspTu9nbuGuaNKZ7UQ91cLlucL5S_x0upmNDhJO51OvZr2ztTM7Q6aCPRMJfWNXyJlg16k3-zkqTn9IhOYJoCWagmE5A4-P28BP9L0NTEB_VayiHJyZ0J9WBpXLaF0y7pzd_x4T7lN2KEnk0EHPB0oa_Ro4EySv9WmrmEs5UjpKBDugoP2tQ8egNslCHCcL1Ib6jKNKNZ1gOqXq3JVAg-8-2opbfs2D56-nN7OcWhW1xCS3TXFBtN4BRG_AAAAA.webp",
-    "link": "https://www.britannica.com/topic/Gitanjali",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVhyhUwm5cHNMp9qmVXH4CO-Qocskh2rHNH8nG7ePZICqvJbVM_WqhiIG57Q1vhasj09zHmj8PSizK8D7peVn90DRNqvOeNoePxi83OFkLCSTCpf6i8iKctRFedo3u&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQFnoECEIQAQ&uoh=1",
+    "date": "Nov 9, 2020",
+    "displayed_link": "https://brainly.in › English › Secondary School",
+    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBgCdASocABwAPtEwtFooIigoGAEAGglsALEfjujYeVUrmVFvePfopq4YEKkgjGUwSJxNXx6tCxAAAP7ok4Z-oj154nFXNCQfL5_GR-HUt1enSHpQs4JKJaDL_hnAfTMfpZ55AbUU5K3iFy4V43bqjRuhFcxDFm-y03hJoy5ob0biY_OkcraP5PHiwXeb3q4S8md_FJuOkv1fgUUzWnPthUGFaCV_rPW7rbv8vgQEHP4sBf9Ifs1DNP-bQ1RNXNGI6UiGmo-f--lOZSdNV5ldnfgBmfVlmC7J79-4HsgJg_n-bH6WCMoBnjmhRpdmbOJ_96g-aqeWmIKa2s6-ra8hIBiPtz_V1LzGRqRQTn6Rr3JGbYn7bHZBjzBq5-I3v2HwrT5fo6cYvSLDFowWnTW0pbtXoAEV6BTrIzlCv859t1AA.webp",
+    "link": "https://brainly.in/question/28229006",
+    "position": 7,
+    "read_more_link": "https://brainly.in/question/28229006#:~:text=G%C4%ABt%C4%81%C3%B1jali%2C%20a%20collection%20of%20poetry%2C,introduction%20by%20William%20Butler%20Yeats.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVgsekQlBKMkzrrzJSR1aNFm9SkwMHATzCp51viA-46I0hij-ZDD8rYVpVYW7BpKX9uHxDd5H0ZXUy48ZYglXy-Ofa4aWFmhXvfc9vLFK2fKsDfu6VoLzCBPuF&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQFnoECEoQAQ&uoh=1",
     "snippet": "Gītāñjali, a collection of poetry, the most famous work by Rabindranath Tagore, published in India in 1910. Tagore then translated it into prose ...",
     "snippet_highlighted_words": [
      "Rabindranath Tagore"
     ],
-    "source": "Britannica",
-    "title": "Gītāñjali | Indian Poetry, Summary & Themes"
+    "source": "Brainly.in",
+    "title": "who is the writer of GITANJALI"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVkpmMGJhd0VEWURVcE11MkVMRXBLNmhEcmZuQkdxWlZ4Z0xmRVVBSUFUbUxZV0FYNmZsRUstcGpVWVp3eWtnaEo0QzF0Nm9jVkUxOHRNeGlEaWpvRmVuVDVyVFdWT0RWSGRrbTBOajBXTjczVFFlMm90MkQzUzh0eEVtWUQ3SE9Jc3A0EgQaAggAGoYFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqOgoDd2hvFWTQqj0aBmF1dGhvchoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIqZwoFd3JvdGUVCiivPhoGYXV0aG9yGghhdXRob3JlZBoIY29tcG9zZWQaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyGgZ3cml0ZXMaB3dyaXR0ZW4aBHllYXIqOQoJZ2l0YW5qYWxpFUQscUAaCmdlZXRhbmphbGkaC2dlZXRoYW5qYWxpGg5pdjtwO2dpdGFuamFsaTKZAS9nb3RvP3VybD1DQUVTWndIck96QVZKZjBiYXdFRFlEVXBNdTJFTEVwSzZoRHJmbkJHcVpWeGdMZkVVQUlBVG1MWVdBWDZmbEVLLXBqVVlad3lrZ2hKNEMxdDZvY1ZFMTh0TXhpRGlqb0ZlblQ1clRXVk9EVkhka20wTmowV043M1RRZTJvdDJEM1M4dHhFbVlEN0hPSXNwNDoxPGI-R2l0YW5qYWxpPC9iPiAoUmFiaW5kcmFuYXRoIFRhZ29yZSkgLSBCb29rc1J1bkKoAUFCT1VUIFRIRSBBVVRIT1I6IDxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-ICgxODYxLTE5NDEpIHdhcyB0aGUgeW91bmdlc3Qgc29uIG9mIERlYmVuZHJhbmF0aCBUYWdvcmUsIGEgbGVhZGVyIG9mIHRoZSBCcmFobW8gU2FtYWouIEhlIHdhcyBlZHVjYXRlZCBhdCBob21lIGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVkpmMGJhd0VEWURVcE11MkVMRXBLNmhEcmZuQkdxWlZ4Z0xmRVVBSUFUbUxZV0FYNmZsRUstcGpVWVp3eWtnaEo0QzF0Nm9jVkUxOHRNeGlEaWpvRmVuVDVyVFdWT0RWSGRrbTBOajBXTjczVFFlMm90MkQzUzh0eEVtWUQ3SE9Jc3A0EgQaAggAGoYFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqOgoDd2hvFWTQqj0aBmF1dGhvchoIY29tcG9zZXIaCG9yaWdpbmFsGgpzb25nd3JpdGVyGgZ3cml0ZXIqZwoFd3JvdGUVCiivPhoGYXV0aG9yGghhdXRob3JlZBoIY29tcG9zZWQaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyGgZ3cml0ZXMaB3dyaXR0ZW4aBHllYXIqOQoJZ2l0YW5qYWxpFUQscUAaCmdlZXRhbmphbGkaC2dlZXRoYW5qYWxpGg5pdjtwO2dpdGFuamFsaTKZAS9nb3RvP3VybD1DQUVTWndIck96QVZKZjBiYXdFRFlEVXBNdTJFTEVwSzZoRHJmbkJHcVpWeGdMZkVVQUlBVG1MWVdBWDZmbEVLLXBqVVlad3lrZ2hKNEMxdDZvY1ZFMTh0TXhpRGlqb0ZlblQ1clRXVk9EVkhka20wTmowV043M1RRZTJvdDJEM1M4dHhFbVlEN0hPSXNwNDoxPGI-R2l0YW5qYWxpPC9iPiAoUmFiaW5kcmFuYXRoIFRhZ29yZSkgLSBCb29rc1J1bkKoAUFCT1VUIFRIRSBBVVRIT1I6IDxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-ICgxODYxLTE5NDEpIHdhcyB0aGUgeW91bmdlc3Qgc29uIG9mIERlYmVuZHJhbmF0aCBUYWdvcmUsIGEgbGVhZGVyIG9mIHRoZSBCcmFobW8gU2FtYWouIEhlIHdhcyBlZHVjYXRlZCBhdCBob21lIGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "ABOUT THE AUTHOR: Rabindranath Tagore (1861-1941) was the youngest son of Debendranath Tagore, a leader of the Brahmo Samaj. He was educated at home and ...",
+      "icon": "https://serpapi.com/images/i/UklGRoQBAABXRUJQVlA4IHgBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0vgaQYR92g57OyWCIS_Z3fzfscHG231uqAS0v38m7R0HuLUhyzH7z0JQyewAD-9glwre-cXe6Yzy2_qZg1G4so5afRTHv4jPkWMvKderVheRR0mTf_9ZZF2DmEq8jPSgL9Lt_V0KkFw36jGGUmoYDpyWzY8i-hEQ9HGWVk2wSEj7JdyXkyRsJSfJEY_lglvbrvCFNXX-dMKm4KmpB-72OiwOcleIEHYIYl9s3BE_rZze6mZZ0NcIs1XJmdbpUpGiBuITOEvKgRM7R59R8d-wT2drESbu6SX3PF93HDCg1YTh2dIao-GN9sdNuvn_DQDJ8zXk7454Ecm7fSom8mnYawr8zpX9uzkE6LkkbHpU3PeXfCw9o-pLv5mDnht_3WH35fZiitKbm9bNUX4e5TRzR9yPvhDYzBuNCdCoa6wIMMzV98xhzEaebrmk1IPuskjIspWzgDkAt5vxC8AAAA.webp",
+      "source_info_link": "https://booksrun.com/9789387669079-gitanjali"
+     }
+    },
+    "displayed_link": "https://booksrun.com › ... › Poetry",
+    "favicon": "https://serpapi.com/images/i/UklGRoQBAABXRUJQVlA4IHgBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0vgaQYR92g57OyWCIS_Z3fzfscHG231uqAS0v38m7R0HuLUhyzH7z0JQyewAD-9glwre-cXe6Yzy2_qZg1G4so5afRTHv4jPkWMvKderVheRR0mTf_9ZZF2DmEq8jPSgL9Lt_V0KkFw36jGGUmoYDpyWzY8i-hEQ9HGWVk2wSEj7JdyXkyRsJSfJEY_lglvbrvCFNXX-dMKm4KmpB-72OiwOcleIEHYIYl9s3BE_rZze6mZZ0NcIs1XJmdbpUpGiBuITOEvKgRM7R59R8d-wT2drESbu6SX3PF93HDCg1YTh2dIao-GN9sdNuvn_DQDJ8zXk7454Ecm7fSom8mnYawr8zpX9uzkE6LkkbHpU3PeXfCw9o-pLv5mDnht_3WH35fZiitKbm9bNUX4e5TRzR9yPvhDYzBuNCdCoa6wIMMzV98xhzEaebrmk1IPuskjIspWzgDkAt5vxC8AAAA.webp",
+    "link": "https://booksrun.com/9789387669079-gitanjali",
+    "position": 8,
+    "read_more_link": "https://booksrun.com/9789387669079-gitanjali#:~:text=ABOUT%20THE%20AUTHOR%3A,not%20finish%20his%20studies%20there.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVJf0bawEDYDUpMu2ELEpK6hDrfnBGqZVxgLfEUAIATmLYWAX6flEK-pjUYZwykghJ4C1t6ocVE18tMxiDijoFenT5rTWVODVHdkm0Nj0WN73TQe2ot2D3S8txEmYD7HOIsp4&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQFnoECEUQAQ&uoh=1",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "currency": "$",
+       "price": 29.0,
+       "rating": 4.7,
+       "reviews": 9
+      },
+      "extensions": [
+       "4.7(9)",
+       "$29.00"
+      ]
+     }
+    },
+    "snippet": "ABOUT THE AUTHOR: Rabindranath Tagore (1861-1941) was the youngest son of Debendranath Tagore, a leader of the Brahmo Samaj. He was educated at home and ...",
+    "snippet_highlighted_words": [
+     "Rabindranath Tagore"
+    ],
+    "source": "BooksRun",
+    "title": "Gitanjali (Rabindranath Tagore)"
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZWZ0JBaHhZZ08wYnlVOHZUbFBBX2hsQVZhYjFfeW9xTDNvaFZZdFA2MzdSa0Q5djFQdlRnMEJJVVNrdjhYdzg0MW02NzN6R2NMU0JjaFY2TTRxdk10QnN0TEd0dUR2cGVOd3pWLXIxMUJDT2NNOThnVzhZRnIzWnk2aWc3QTRXc3NSaE01VlBOaWIwc0hwYm5YSHlDU1JyNVo5YjJEdVZPSlhQUU4yd0tWNVZEY3BlWmlHX0JjNmE5Z0VJTGhXVVVmMGY2ZzgtVUESBBoCCAAa3wUSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC5BQgAEAAYACAAKjoKA3dobxX56kY_GgZhdXRob3IaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyKmcKBXdyb3RlFaMOMj8aBmF1dGhvchoIYXV0aG9yZWQaCGNvbXBvc2VkGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlchoGd3JpdGVzGgd3cml0dGVuGgR5ZWFyKjkKCWdpdGFuamFsaRUPuVVAGgpnZWV0YW5qYWxpGgtnZWV0aGFuamFsaRoOaXY7cDtnaXRhbmphbGky4AEvZ290bz91cmw9Q0FFU213RUI2enN3RlZnQkFoeFlnTzBieVU4dlRsUEFfaGxBVmFiMV95b3FMM29oVll0UDYzN1JrRDl2MVB2VGcwQklVU2t2OFh3ODQxbTY3M3pHY0xTQmNoVjZNNHF2TXRCc3RMR3R1RHZwZU53elYtcjExQkNPY005OGdXOFlGcjNaeTZpZzdBNFdzc1JoTTVWUE5pYjBzSHBiblhIeUNTUnI1WjliMkR1Vk9KWFBRTjJ3S1Y1VkRjcGVaaUdfQmM2YTlnRUlMaFdVVWYwZjZnOC1VQTpMI0RpZFlvdUtub3cgdGhhdCBSYWJpbmRyYW5hdGggVGFnb3JlJiMzOTtzICYjMzk7PGI-R2l0YW5qYWxpPC9iPiYjMzk7LCBhIC4uLkKdATxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-ICggNyBNYXkgMTg2MSDigJMgNyBBdWd1c3QgMTk0MSkgd2FzIGEgQmVuZ2FsaSBwb2x5bWF0aCwgcG9ldCwgbXVzaWNpYW4sIGFuZCBhcnRpc3QgZnJvbSB0aGUgSW5kaWFuIHN1YmNvbnRpbmVudC5bNF1bNV0gSGUmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZWZ0JBaHhZZ08wYnlVOHZUbFBBX2hsQVZhYjFfeW9xTDNvaFZZdFA2MzdSa0Q5djFQdlRnMEJJVVNrdjhYdzg0MW02NzN6R2NMU0JjaFY2TTRxdk10QnN0TEd0dUR2cGVOd3pWLXIxMUJDT2NNOThnVzhZRnIzWnk2aWc3QTRXc3NSaE01VlBOaWIwc0hwYm5YSHlDU1JyNVo5YjJEdVZPSlhQUU4yd0tWNVZEY3BlWmlHX0JjNmE5Z0VJTGhXVVVmMGY2ZzgtVUESBBoCCAAa3wUSABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC5BQgAEAAYACAAKjoKA3dobxX56kY_GgZhdXRob3IaCGNvbXBvc2VyGghvcmlnaW5hbBoKc29uZ3dyaXRlchoGd3JpdGVyKmcKBXdyb3RlFaMOMj8aBmF1dGhvchoIYXV0aG9yZWQaCGNvbXBvc2VkGghjb21wb3NlchoIb3JpZ2luYWwaCnNvbmd3cml0ZXIaBndyaXRlchoGd3JpdGVzGgd3cml0dGVuGgR5ZWFyKjkKCWdpdGFuamFsaRUPuVVAGgpnZWV0YW5qYWxpGgtnZWV0aGFuamFsaRoOaXY7cDtnaXRhbmphbGky4AEvZ290bz91cmw9Q0FFU213RUI2enN3RlZnQkFoeFlnTzBieVU4dlRsUEFfaGxBVmFiMV95b3FMM29oVll0UDYzN1JrRDl2MVB2VGcwQklVU2t2OFh3ODQxbTY3M3pHY0xTQmNoVjZNNHF2TXRCc3RMR3R1RHZwZU53elYtcjExQkNPY005OGdXOFlGcjNaeTZpZzdBNFdzc1JoTTVWUE5pYjBzSHBiblhIeUNTUnI1WjliMkR1Vk9KWFBRTjJ3S1Y1VkRjcGVaaUdfQmM2YTlnRUlMaFdVVWYwZjZnOC1VQTpMI0RpZFlvdUtub3cgdGhhdCBSYWJpbmRyYW5hdGggVGFnb3JlJiMzOTtzICYjMzk7PGI-R2l0YW5qYWxpPC9iPiYjMzk7LCBhIC4uLkKdATxiPlJhYmluZHJhbmF0aCBUYWdvcmU8L2I-ICggNyBNYXkgMTg2MSDigJMgNyBBdWd1c3QgMTk0MSkgd2FzIGEgQmVuZ2FsaSBwb2x5bWF0aCwgcG9ldCwgbXVzaWNpYW4sIGFuZCBhcnRpc3QgZnJvbSB0aGUgSW5kaWFuIHN1YmNvbnRpbmVudC5bNF1bNV0gSGUmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "Rabindranath Tagore ( 7 May 1861 – 7 August 1941) was a Bengali polymath, poet, musician, and artist from the Indian subcontinent.[4][5] He ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "source_info_link": "https://m.facebook.com/LiveHistoryIndia/photos/a.1693168074306608/2951241011832635/?locale=ms_MY"
+     }
+    },
+    "displayed_link": "120+ reactions · 4 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "link": "https://m.facebook.com/LiveHistoryIndia/photos/a.1693168074306608/2951241011832635/?locale=ms_MY",
+    "position": 9,
+    "read_more_link": "https://m.facebook.com/LiveHistoryIndia/photos/a.1693168074306608/2951241011832635/?locale=ms_MY#:~:text=Rabindranath%20Tagore%20(%207%20May,19th%20and%20early%2020th%20centuries.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFVgBAhxYgO0byU8vTlPA_hlAVab1_yoqL3ohVYtP637RkD9v1PvTg0BIUSkv8Xw841m673zGcLSBchV6M4qvMtBstLGtuDvpeNwzV-r11BCOcM98gW8YFr3Zy6ig7A4WssRhM5VPNib0sHpbnXHyCSRr5Z9b2DuVOJXPQN2wKV5VDcpeZiG_Bc6a9gEILhWUUf0f6g8-UA&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQFnoECEQQAQ&uoh=1",
+    "snippet": "Rabindranath Tagore ( 7 May 1861 – 7 August 1941) was a Bengali polymath, poet, musician, and artist from the Indian subcontinent.[4][5] He ...",
+    "snippet_highlighted_words": [
+     "Rabindranath Tagore"
+    ],
+    "source": "Facebook",
+    "thumbnail": "https://serpapi.com/searches/6ab98b64e396eb04f4cfcf21/images/J3UVkyNsrIPjbc6vj7nE7r0FxiF6qfTtCRRFMuW8vgc.jpeg",
+    "title": "#DidYouKnow that Rabindranath Tagore's 'Gitanjali', a ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=10&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8NMDegQIMhAW",
+   "next": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=10&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8NMDegQIQxAW",
    "other_pages": {
-    "10": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=90&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8tMDegQIMhAU",
-    "2": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=10&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8tMDegQIMhAE",
-    "3": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=20&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8tMDegQIMhAG",
-    "4": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=30&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8tMDegQIMhAI",
-    "5": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=40&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8tMDegQIMhAK",
-    "6": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=50&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8tMDegQIMhAM",
-    "7": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=60&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8tMDegQIMhAO",
-    "8": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=70&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8tMDegQIMhAQ",
-    "9": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&ei=Pcyvaq2cNNvrmLQP1u-3sAY&start=80&sa=N&sstk=AS6-VmKXaHu6pQx-wDfi76EM6TNw-togX2mzCkF8ayfwTTmqX_O42xHIaXwmy5tcT0jdkksAdxq80BPyiwfwnodUUEclSQWIikDxSA&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ8tMDegQIMhAS"
+    "10": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=90&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8tMDegQIQxAU",
+    "2": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=10&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8tMDegQIQxAE",
+    "3": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=20&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8tMDegQIQxAG",
+    "4": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=30&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8tMDegQIQxAI",
+    "5": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=40&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8tMDegQIQxAK",
+    "6": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=50&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8tMDegQIQxAM",
+    "7": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=60&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8tMDegQIQxAO",
+    "8": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=70&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8tMDegQIQxAQ",
+    "9": "https://www.google.com/search?q=Who+wrote+Gitanjali?&sca_esv=c16286b74a8621df&sxsrf=APpeQntX7uaReX8qxmFTNP7Ek0jZZa7pfA:1790544740386&ei=ZIu5asqTF93VkPIP7JqWmAE&start=80&sa=N&sstk=AS6-VmJD48qSkSUf4149fIFf5GcDVwZ2x98zJI8JRpS4Kmtbn-Ka5Q90DczX7fjO9hKfKylc39S5lzSKYPoL6NLPOASLOofXWDI0tw&ved=2ahUKEwjK1dH52o-XAxXdKkQIHWyNBRMQ8tMDegQIQxAS"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMwUllZbXR1UTJWalMxaHlSMUYwYWxWcFZEQkllVkp6Y2xvd2JUQkpXWFpxVjNKRGVVTjNNMFkyUmxJeVQzaDFkMGhMV1hOTFREWmpPR2RVVmpab1ZFRlhRMm90Y3pCTVh6WldOMnBOWjNWd2NqSjRZaTFVWjNGV1VSSVhVR041ZG1GeE1tTk9Ublp5YlV4UlVERjFMVE56UVZrYUlrRkVjM0k1WmxOb00zWnVia1JOTmpGTVVGVkZhR2hDY0ZKMVkybFRhM05PVjFFIiwiZmN2IjoiMyIsImVpIjoiUGN5dmFxMmNOTnZybUxRUDF1LTNzQVkiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5cVI4S1B3IiwicXVlc3Rpb24iOiJXaG8gZ290IHRoZSBOb2JlbCBQcml6ZSBmb3IgR2l0YW5qYWxpPyIsImxrIjoiR2lGM2FHOGdaMjkwSUc1dlltVnNJSEJ5YVhwbElHWnZjaUJuYVhSaGJtcGhiR2siLCJicyI6ImMzM09NUXZDTUJDR1lWd3pPVXFuVDZTNk9Qa0hIQngwVVZTRXppZE5tNU1tSjBtMDZLOVhpOVc2T0I0ODlfR3F0UnBuUmxCS1JEUWFHem5xQ2x2UGQ0MUNQSlljeVoybzR2bHNsQXpydDNTTk9uOVUyU3FWcWVsS2FsaHlOOVJjNklDY2MtenB5QzczNUNnYUhLZ1VyMkhvcXVlelNaS2Fyb2Z2MHRqU1hPMWVuUlRCb2VtMHhBNVdoMENsaGhUZHp1ZGtfVWQtV3hjcWJTY183NU1BS3lHaUlDdVhnSXJkTXpKSkJwMzdaNlRmZXdBIiwiaWQiOiJmY19QY3l2YXEyY05OdnJtTFFQMXUtM3NBWV82In0=",
-    "page_token": "YuRmW3icHdBRbpswAABQ9TL9bGzcdmqkaKqHYWUFZIMB-2cyNokTm0BTGgR_u0tP1dNU2jvC-_fpj2f3dXO10zS-bzebeZ7vDsNw8N2dHvqNel_OeqOV963Sbvv44xH-3Osd-XjBv95eMOXjWIUMFNBc2tWGTaBhEWKcNSlKHZ9lMH1oMC-cVPeFf0ZqlbDldpWuwp1_eu1Oyb2CGBeNHDLIgzK0RR6nsD17J6BPOmcZRfLEvd2XABLdj5Pu2ViRqTdcJmaBsguT1RAbCwdWHj89mCPMVM1EXsCwQfg3R0nNEL5UgMVyNVQ7EJRlYqVLRAnxa4GySxpFXvMI5KUAeeURsYYK5APRkEWAh9yck6mMIpo2fEpRhms2HClnqz75nnMdFLFJ68hfZe-FIgyoOllahP9oR1YFKaT0dq-vO3T7_3P3d99P2_EyHL4BCD2BHQ",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVGTkNhRkpSWldOMlZuY3lXRTlFVUVaUWFYaDBkM2g1VkRGYVNYWmxUbkZyYTJwaGVuUkVWVXh5TUVZNVlXOVRkM3B4TTJKYWFFdDZWa1ZVYlU1VFVIRlZPV3RGTURJNWNuaGlRM0JKTlRGRFdVbHRXV05LZVd0TmR4SVhXa2wxTldGemNWUkdPVE5XYTFCSlVEZEtjVmR0UVVVYUlrRkVjM0k1WmxKaE1VWmxOelZtVUhGUFEyb3hMWEl5VUhWWk5UQlVhSEkwVTJjIiwiZmN2IjoiMyIsImVpIjoiWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUUiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5ZWtQY1BnIiwicXVlc3Rpb24iOiJXaHkgaXMgR2l0YW5qYWxpIHNvIGZhbW91cz8iLCJsayI6IkdocDNhSGtnYVhNZ1oybDBZVzVxWVd4cElITnZJR1poYlc5MWN3IiwiYnMiOiJjMlhPUFF2Q01CZ0VZRnd6dVloUUhXNVJsMDZ1RGgzckpDcEM1MWVhTnBFMnJ5VFJVbi05MW84MjRId1BkeWMyWXBhcEZ0b2gxWjdNaFNvTnh5aW81cHRMMXZNb2FqNXgtUi1MZzFobWlsR3loMWNTT3o3TENudXJIeElGMjZFeFdhLWlSUk5JODViWFh2YmxJaFZ4cHNoM2l4MnMyZm52R2lwdFh0cHlIUlpQbzhud0xJQWlFX0dXRzlSa1dqUzZrQTY1em5Ha3N6YTVKVU5lNFVRbFd3bEZkX2wtcUVJUEcxTF9vX2w0OUFRIiwiaWQiOiJmY19aSXU1YXNxVEY5M1ZrUElQN0pxV21BRV8zIn0=",
+    "page_token": "424rpXicHdDPboIwAIDx7GU8jvJHt5iYZQiFkFBGgYK9LFDACi1URdHd9i57qj3NzK7f6Zfv-0cchv73qeDTpM5rTZvn-Xk_jnvRPLNRauX5PjCNlUJUJevXq5eV_tayjXue7e0423GmFHEwSF18zKSAKNHjwghE1dNTlQAj7JFRuuOddDhHOt_GwLoTIYqcBEvy6KyjuMlQWxd2Sz2epm69K-VS1nIKIw9dsM8tDKAdGoGFO-gigOxa5xYZcFoN2N8Bfou8GyYeBWlH-9zHpAAqL3RlUF99VA4yse4CrKtj6HMZEmrHaXBtYJZAXQV1SjgzYYa7_ovIKU7Iu5kMsKgyCL1DYGMf3aP8YRRoqp0aEkIvCAY-9W4t8pYRy-jQ5K9W6BBz0bLrxlz8H9t8tnJaq9O4_wO2k3dP",
+    "question": "Why is Gitanjali so famous?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=424rpXicHdDPboIwAIDx7GU8jvJHt5iYZQiFkFBGgYK9LFDACi1URdHd9i57qj3NzK7f6Zfv-0cchv73qeDTpM5rTZvn-Xk_jnvRPLNRauX5PjCNlUJUJevXq5eV_tayjXue7e0423GmFHEwSF18zKSAKNHjwghE1dNTlQAj7JFRuuOddDhHOt_GwLoTIYqcBEvy6KyjuMlQWxd2Sz2epm69K-VS1nIKIw9dsM8tDKAdGoGFO-gigOxa5xYZcFoN2N8Bfou8GyYeBWlH-9zHpAAqL3RlUF99VA4yse4CrKtj6HMZEmrHaXBtYJZAXQV1SjgzYYa7_ovIKU7Iu5kMsKgyCL1DYGMf3aP8YRRoqp0aEkIvCAY-9W4t8pYRy-jQ5K9W6BBz0bLrxlz8H9t8tnJaq9O4_wO2k3dP",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVGTkNhRkpSWldOMlZuY3lXRTlFVUVaUWFYaDBkM2g1VkRGYVNYWmxUbkZyYTJwaGVuUkVWVXh5TUVZNVlXOVRkM3B4TTJKYWFFdDZWa1ZVYlU1VFVIRlZPV3RGTURJNWNuaGlRM0JKTlRGRFdVbHRXV05LZVd0TmR4SVhXa2wxTldGemNWUkdPVE5XYTFCSlVEZEtjVmR0UVVVYUlrRkVjM0k1WmxKaE1VWmxOelZtVUhGUFEyb3hMWEl5VUhWWk5UQlVhSEkwVTJjIiwiZmN2IjoiMyIsImVpIjoiWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUUiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5ZWtQY1BnIiwicXVlc3Rpb24iOiJXaHkgaXMgR2l0YW5qYWxpIHNvIGZhbW91cz8iLCJsayI6IkdocDNhSGtnYVhNZ1oybDBZVzVxWVd4cElITnZJR1poYlc5MWN3IiwiYnMiOiJjMlhPUFF2Q01CZ0VZRnd6dVloUUhXNVJsMDZ1RGgzckpDcEM1MWVhTnBFMnJ5VFJVbi05MW84MjRId1BkeWMyWXBhcEZ0b2gxWjdNaFNvTnh5aW81cHRMMXZNb2FqNXgtUi1MZzFobWlsR3loMWNTT3o3TENudXJIeElGMjZFeFdhLWlSUk5JODViWFh2YmxJaFZ4cHNoM2l4MnMyZm52R2lwdFh0cHlIUlpQbzhud0xJQWlFX0dXRzlSa1dqUzZrQTY1em5Ha3N6YTVKVU5lNFVRbFd3bEZkX2wtcUVJUEcxTF9vX2w0OUFRIiwiaWQiOiJmY19aSXU1YXNxVEY5M1ZrUElQN0pxV21BRV8zIn0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVGTkNhRkpSWldOMlZuY3lXRTlFVUVaUWFYaDBkM2g1VkRGYVNYWmxUbkZyYTJwaGVuUkVWVXh5TUVZNVlXOVRkM3B4TTJKYWFFdDZWa1ZVYlU1VFVIRlZPV3RGTURJNWNuaGlRM0JKTlRGRFdVbHRXV05LZVd0TmR4SVhXa2wxTldGemNWUkdPVE5XYTFCSlVEZEtjVmR0UVVVYUlrRkVjM0k1WmxKaE1VWmxOelZtVUhGUFEyb3hMWEl5VUhWWk5UQlVhSEkwVTJjIiwiZmN2IjoiMyIsImVpIjoiWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUUiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5ZWtQY1BnIiwicXVlc3Rpb24iOiJXaG8gZ290IHRoZSBOb2JlbCBQcml6ZSBmb3IgR2l0YW5qYWxpPyIsImxrIjoiR2lWM2FHOGdaMjkwSUhSb1pTQnViMkpsYkNCd2NtbDZaU0JtYjNJZ1oybDBZVzVxWVd4cCIsImJzIjoiYzJYT1BRdkNNQmdFWUZ3enVZaFFIVzVSbDA2dURoM3JKQ3BDNTFlYU5wRTJyeVRSVW4tOTFvODI0SHdQZHljMllwYXBGdG9oMVo3TWhTb054eWlvNXB0TDF2TW9hajV4LVItTGcxaG1pbEd5aDFjU096N0xDbnVySHhJRjI2RXhXYS1pUlJOSTg1YlhYdmJsSWhWeHBzaDNpeDJzMmZudkdpcHRYdHB5SFJaUG84bndMSUFpRV9HV0c5UmtXalM2a0E2NXpuR2tzemE1SlVOZTRVUWxXd2xGZF9sLXFFSVBHMUxfb19sNDlBUSIsImlkIjoiZmNfWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUVfMyJ9",
+    "page_token": "g7-_nHicHZDdTrMwAEDjy3jpKD8zWbKYDyluU9AW2kJvTFe2dbRAdTgYd9-7-FQ-jYsPcHJOzv9vc2z1z81Z9b09LWazYRjuDl13MLs72TUzcbq0ciaFMVsh9WJ-PwcPe7mEX-vw8WMdImItjbCTr5SfgwQk0H5klPpVXnrS4xfiUVU2o9nCdZCyHvGGl2UbnpP6ykyq4SsTsSZ9q4B6phEnSFc6M-tRkOCYFf-GLKJakjFIAA6JE8Ndi0akg1oWG8MYBtSjE2JKMX1yKbBYupjyJ_6WM-knRQxEze0W8mjXqGtlMnLCN6_EdLyN1QsLUuGq1XbinmgplGbjilXc76IYQ1WJrCCgLNKRwvLq558EGpQ6dqQuCDHujojgSdamIcy_iFYPWJtS5nQuJglKY_3U8R1SxxMqKkvQ7V6el97t38_l-77pF_azO_wCI2GDWw",
     "question": "Who got the Nobel Prize for Gitanjali?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YuRmW3icHdBRbpswAABQ9TL9bGzcdmqkaKqHYWUFZIMB-2cyNokTm0BTGgR_u0tP1dNU2jvC-_fpj2f3dXO10zS-bzebeZ7vDsNw8N2dHvqNel_OeqOV963Sbvv44xH-3Osd-XjBv95eMOXjWIUMFNBc2tWGTaBhEWKcNSlKHZ9lMH1oMC-cVPeFf0ZqlbDldpWuwp1_eu1Oyb2CGBeNHDLIgzK0RR6nsD17J6BPOmcZRfLEvd2XABLdj5Pu2ViRqTdcJmaBsguT1RAbCwdWHj89mCPMVM1EXsCwQfg3R0nNEL5UgMVyNVQ7EJRlYqVLRAnxa4GySxpFXvMI5KUAeeURsYYK5APRkEWAh9yck6mMIpo2fEpRhms2HClnqz75nnMdFLFJ68hfZe-FIgyoOllahP9oR1YFKaT0dq-vO3T7_3P3d99P2_EyHL4BCD2BHQ",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMwUllZbXR1UTJWalMxaHlSMUYwYWxWcFZEQkllVkp6Y2xvd2JUQkpXWFpxVjNKRGVVTjNNMFkyUmxJeVQzaDFkMGhMV1hOTFREWmpPR2RVVmpab1ZFRlhRMm90Y3pCTVh6WldOMnBOWjNWd2NqSjRZaTFVWjNGV1VSSVhVR041ZG1GeE1tTk9Ublp5YlV4UlVERjFMVE56UVZrYUlrRkVjM0k1WmxOb00zWnVia1JOTmpGTVVGVkZhR2hDY0ZKMVkybFRhM05PVjFFIiwiZmN2IjoiMyIsImVpIjoiUGN5dmFxMmNOTnZybUxRUDF1LTNzQVkiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5cVI4S1B3IiwicXVlc3Rpb24iOiJXaG8gZ290IHRoZSBOb2JlbCBQcml6ZSBmb3IgR2l0YW5qYWxpPyIsImxrIjoiR2lGM2FHOGdaMjkwSUc1dlltVnNJSEJ5YVhwbElHWnZjaUJuYVhSaGJtcGhiR2siLCJicyI6ImMzM09NUXZDTUJDR1lWd3pPVXFuVDZTNk9Qa0hIQngwVVZTRXppZE5tNU1tSjBtMDZLOVhpOVc2T0I0ODlfR3F0UnBuUmxCS1JEUWFHem5xQ2x2UGQ0MUNQSlljeVoybzR2bHNsQXpydDNTTk9uOVUyU3FWcWVsS2FsaHlOOVJjNklDY2MtenB5QzczNUNnYUhLZ1VyMkhvcXVlelNaS2Fyb2Z2MHRqU1hPMWVuUlRCb2VtMHhBNVdoMENsaGhUZHp1ZGtfVWQtV3hjcWJTY183NU1BS3lHaUlDdVhnSXJkTXpKSkJwMzdaNlRmZXdBIiwiaWQiOiJmY19QY3l2YXEyY05OdnJtTFFQMXUtM3NBWV82In0%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=g7-_nHicHZDdTrMwAEDjy3jpKD8zWbKYDyluU9AW2kJvTFe2dbRAdTgYd9-7-FQ-jYsPcHJOzv9vc2z1z81Z9b09LWazYRjuDl13MLs72TUzcbq0ciaFMVsh9WJ-PwcPe7mEX-vw8WMdImItjbCTr5SfgwQk0H5klPpVXnrS4xfiUVU2o9nCdZCyHvGGl2UbnpP6ykyq4SsTsSZ9q4B6phEnSFc6M-tRkOCYFf-GLKJakjFIAA6JE8Ndi0akg1oWG8MYBtSjE2JKMX1yKbBYupjyJ_6WM-knRQxEze0W8mjXqGtlMnLCN6_EdLyN1QsLUuGq1XbinmgplGbjilXc76IYQ1WJrCCgLNKRwvLq558EGpQ6dqQuCDHujojgSdamIcy_iFYPWJtS5nQuJglKY_3U8R1SxxMqKkvQ7V6el97t38_l-77pF_azO_wCI2GDWw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVGTkNhRkpSWldOMlZuY3lXRTlFVUVaUWFYaDBkM2g1VkRGYVNYWmxUbkZyYTJwaGVuUkVWVXh5TUVZNVlXOVRkM3B4TTJKYWFFdDZWa1ZVYlU1VFVIRlZPV3RGTURJNWNuaGlRM0JKTlRGRFdVbHRXV05LZVd0TmR4SVhXa2wxTldGemNWUkdPVE5XYTFCSlVEZEtjVmR0UVVVYUlrRkVjM0k1WmxKaE1VWmxOelZtVUhGUFEyb3hMWEl5VUhWWk5UQlVhSEkwVTJjIiwiZmN2IjoiMyIsImVpIjoiWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUUiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5ZWtQY1BnIiwicXVlc3Rpb24iOiJXaG8gZ290IHRoZSBOb2JlbCBQcml6ZSBmb3IgR2l0YW5qYWxpPyIsImxrIjoiR2lWM2FHOGdaMjkwSUhSb1pTQnViMkpsYkNCd2NtbDZaU0JtYjNJZ1oybDBZVzVxWVd4cCIsImJzIjoiYzJYT1BRdkNNQmdFWUZ3enVZaFFIVzVSbDA2dURoM3JKQ3BDNTFlYU5wRTJyeVRSVW4tOTFvODI0SHdQZHljMllwYXBGdG9oMVo3TWhTb054eWlvNXB0TDF2TW9hajV4LVItTGcxaG1pbEd5aDFjU096N0xDbnVySHhJRjI2RXhXYS1pUlJOSTg1YlhYdmJsSWhWeHBzaDNpeDJzMmZudkdpcHRYdHB5SFJaUG84bndMSUFpRV9HV0c5UmtXalM2a0E2NXpuR2tzemE1SlVOZTRVUWxXd2xGZF9sLXFFSVBHMUxfb19sNDlBUSIsImlkIjoiZmNfWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUVfMyJ9",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMwUllZbXR1UTJWalMxaHlSMUYwYWxWcFZEQkllVkp6Y2xvd2JUQkpXWFpxVjNKRGVVTjNNMFkyUmxJeVQzaDFkMGhMV1hOTFREWmpPR2RVVmpab1ZFRlhRMm90Y3pCTVh6WldOMnBOWjNWd2NqSjRZaTFVWjNGV1VSSVhVR041ZG1GeE1tTk9Ublp5YlV4UlVERjFMVE56UVZrYUlrRkVjM0k1WmxOb00zWnVia1JOTmpGTVVGVkZhR2hDY0ZKMVkybFRhM05PVjFFIiwiZmN2IjoiMyIsImVpIjoiUGN5dmFxMmNOTnZybUxRUDF1LTNzQVkiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5cVI4S1B3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB3aWZlcyBkaWQgUmFiaW5kcmFuYXRoIFRhZ29yZSBoYXZlPyIsImxrIjoiR2lWb2IzY2diV0Z1ZVNCM2FXWmxJSEpoWW1sdVpISmhibUYwYUNCMFlXZHZjbVVnYUdGayIsImJzIjoiYzMzT01RdkNNQkNHWVZ3ek9VcW5UNlM2T1BrSEhCeDBVVlNFemlkTm01TW1KMG0wNks5WGk5VzZPQjQ4OV9HcXRScG5SbEJLUkRRYUd6bnFDbHZQZDQxQ1BKWWN5WjJvNHZsc2xBenJ0M1NOT245VTJTcVZxZWxLYWxoeU45UmM2SUNjYy16cHlDNzM1Q2dhSEtnVXIySG9xdWV6U1pLYXJvZnYwdGpTWE8xZW5SVEJvZW0weEE1V2gwQ2xoaFRkenVka19VZC1XeGNxYlNjXzc1TUFLeUdpSUN1WGdJcmRNekpKQnAzN1o2VGZld0EiLCJpZCI6ImZjX1BjeXZhcTJjTk52cm1MUVAxdS0zc0FZXzYifQ==",
-    "page_token": "Xgm7vnicHdBdboIwAADg7DI-agvDTROzDKUq2hIqBcvLAsUfoECdaIW33WWn2mm27Ajf9_Ut87r8ebqf21Zdp6OR1np4apqTPAxFU42Sa1eLkUikTBNRTscvY_h2FDPntrbnl7XtM6XCBQXBQlqszvp4-dp7y8znPdpEZalJhdwUkAAbEHiLWKdMm8yMd9SkZiolSCC60wXKOQtRxtB1h8JCOLTJANEZOkNRkkcKXfdQyFyE7z12VEBZqAibzHkkrQxYq2QVP4IO4m042dBVfBHlxGCFPecGf97uVU4MYPAyvlFmRbjw-53BHhwgelhKN1laCvd2HhX4cah5l4TkTOSEOuc_gykNvnc6Diwvq902QMjHe9Zik9gRbXKf0V4UsgoRkbSnlbeiUVYiL4Au3kHVsUprAeOK1BjGenAU95k5-P-cfRyrdqo-m9MvWTaCkA",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVGTkNhRkpSWldOMlZuY3lXRTlFVUVaUWFYaDBkM2g1VkRGYVNYWmxUbkZyYTJwaGVuUkVWVXh5TUVZNVlXOVRkM3B4TTJKYWFFdDZWa1ZVYlU1VFVIRlZPV3RGTURJNWNuaGlRM0JKTlRGRFdVbHRXV05LZVd0TmR4SVhXa2wxTldGemNWUkdPVE5XYTFCSlVEZEtjVmR0UVVVYUlrRkVjM0k1WmxKaE1VWmxOelZtVUhGUFEyb3hMWEl5VUhWWk5UQlVhSEkwVTJjIiwiZmN2IjoiMyIsImVpIjoiWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUUiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5ZWtQY1BnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IGZhbW91cyBsaW5lIGZyb20gR2l0YW5qYWxpPyIsImxrIjoiR2hWbmFYUmhibXBoYkdrZ1ptRnRiM1Z6SUd4cGJtVSIsImJzIjoiYzJYT1BRdkNNQmdFWUZ3enVZaFFIVzVSbDA2dURoM3JKQ3BDNTFlYU5wRTJyeVRSVW4tOTFvODI0SHdQZHljMllwYXBGdG9oMVo3TWhTb054eWlvNXB0TDF2TW9hajV4LVItTGcxaG1pbEd5aDFjU096N0xDbnVySHhJRjI2RXhXYS1pUlJOSTg1YlhYdmJsSWhWeHBzaDNpeDJzMmZudkdpcHRYdHB5SFJaUG84bndMSUFpRV9HV0c5UmtXalM2a0E2NXpuR2tzemE1SlVOZTRVUWxXd2xGZF9sLXFFSVBHMUxfb19sNDlBUSIsImlkIjoiZmNfWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUVfMyJ9",
+    "page_token": "jxksvXicHdBdboIwAADg7DJ71BbiFk3MEhQYZtZQ2gp9WUqLMlqgU5Sft91lp9pptuwC38P39W0-Gv3zcC-7zl5X83nf97Nz255NMZNtPRfXsZFzKYzJhdSrp-cn-HKSa_8WeZvPyIuptWyLAQlhx0OUcaIOvIo76nJAXAQxBW6-VV5sTLOvAo0mvskcCOUrJwKigNYBS-p-IExZarzq7chuKWi77GhFYaxHt6aXzZ8FlNlvUZRDOQgixzyEjdDSoSRIKETpXnc7_mpK7EQgdq7u0ahrQbtGkFIXFNeY7sKClbck5Jb7KFThojxqSw4-TlPIA8WW98yonmg1ITA0fqlEklKYpWhgfrbYQ36hvokRsANzoIdx-xFTPMnK1LTRbh5ijp3lJavwmAGEFAAOnsopgdHIJjzE8eNJ3tfu4__n-v1Udyt7ac-_Zh6D8g",
+    "question": "What is the most famous line from Gitanjali?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jxksvXicHdBdboIwAADg7DJ71BbiFk3MEhQYZtZQ2gp9WUqLMlqgU5Sft91lp9pptuwC38P39W0-Gv3zcC-7zl5X83nf97Nz255NMZNtPRfXsZFzKYzJhdSrp-cn-HKSa_8WeZvPyIuptWyLAQlhx0OUcaIOvIo76nJAXAQxBW6-VV5sTLOvAo0mvskcCOUrJwKigNYBS-p-IExZarzq7chuKWi77GhFYaxHt6aXzZ8FlNlvUZRDOQgixzyEjdDSoSRIKETpXnc7_mpK7EQgdq7u0ahrQbtGkFIXFNeY7sKClbck5Jb7KFThojxqSw4-TlPIA8WW98yonmg1ITA0fqlEklKYpWhgfrbYQ36hvokRsANzoIdx-xFTPMnK1LTRbh5ijp3lJavwmAGEFAAOnsopgdHIJjzE8eNJ3tfu4__n-v1Udyt7ac-_Zh6D8g",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVGTkNhRkpSWldOMlZuY3lXRTlFVUVaUWFYaDBkM2g1VkRGYVNYWmxUbkZyYTJwaGVuUkVWVXh5TUVZNVlXOVRkM3B4TTJKYWFFdDZWa1ZVYlU1VFVIRlZPV3RGTURJNWNuaGlRM0JKTlRGRFdVbHRXV05LZVd0TmR4SVhXa2wxTldGemNWUkdPVE5XYTFCSlVEZEtjVmR0UVVVYUlrRkVjM0k1WmxKaE1VWmxOelZtVUhGUFEyb3hMWEl5VUhWWk5UQlVhSEkwVTJjIiwiZmN2IjoiMyIsImVpIjoiWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUUiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5ZWtQY1BnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IGZhbW91cyBsaW5lIGZyb20gR2l0YW5qYWxpPyIsImxrIjoiR2hWbmFYUmhibXBoYkdrZ1ptRnRiM1Z6SUd4cGJtVSIsImJzIjoiYzJYT1BRdkNNQmdFWUZ3enVZaFFIVzVSbDA2dURoM3JKQ3BDNTFlYU5wRTJyeVRSVW4tOTFvODI0SHdQZHljMllwYXBGdG9oMVo3TWhTb054eWlvNXB0TDF2TW9hajV4LVItTGcxaG1pbEd5aDFjU096N0xDbnVySHhJRjI2RXhXYS1pUlJOSTg1YlhYdmJsSWhWeHBzaDNpeDJzMmZudkdpcHRYdHB5SFJaUG84bndMSUFpRV9HV0c5UmtXalM2a0E2NXpuR2tzemE1SlVOZTRVUWxXd2xGZF9sLXFFSVBHMUxfb19sNDlBUSIsImlkIjoiZmNfWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUVfMyJ9",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVGTkNhRkpSWldOMlZuY3lXRTlFVUVaUWFYaDBkM2g1VkRGYVNYWmxUbkZyYTJwaGVuUkVWVXh5TUVZNVlXOVRkM3B4TTJKYWFFdDZWa1ZVYlU1VFVIRlZPV3RGTURJNWNuaGlRM0JKTlRGRFdVbHRXV05LZVd0TmR4SVhXa2wxTldGemNWUkdPVE5XYTFCSlVEZEtjVmR0UVVVYUlrRkVjM0k1WmxKaE1VWmxOelZtVUhGUFEyb3hMWEl5VUhWWk5UQlVhSEkwVTJjIiwiZmN2IjoiMyIsImVpIjoiWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUUiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5ZWtQY1BnIiwicXVlc3Rpb24iOiJIb3cgbWFueSB3aWZlcyBkaWQgUmFiaW5kcmFuYXRoIFRhZ29yZSBoYXZlPyIsImxrIjoiR2lWb2IzY2diV0Z1ZVNCM2FXWmxJSEpoWW1sdVpISmhibUYwYUNCMFlXZHZjbVVnYUdGayIsImJzIjoiYzJYT1BRdkNNQmdFWUZ3enVZaFFIVzVSbDA2dURoM3JKQ3BDNTFlYU5wRTJyeVRSVW4tOTFvODI0SHdQZHljMllwYXBGdG9oMVo3TWhTb054eWlvNXB0TDF2TW9hajV4LVItTGcxaG1pbEd5aDFjU096N0xDbnVySHhJRjI2RXhXYS1pUlJOSTg1YlhYdmJsSWhWeHBzaDNpeDJzMmZudkdpcHRYdHB5SFJaUG84bndMSUFpRV9HV0c5UmtXalM2a0E2NXpuR2tzemE1SlVOZTRVUWxXd2xGZF9sLXFFSVBHMUxfb19sNDlBUSIsImlkIjoiZmNfWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUVfMyJ9",
+    "page_token": "pe_RsXicHdDdToMwGIDheDMeurX4ky1ZTKYgI6Ompd8H9MTUItukBXR1Y5x5L16VV-Pi-Xvw5P3-sbu2-b04bL3v9_PJ5Hg8Xm26bmPfrkznJnp_as3EaGtftWnmt3e35L42i_BrtXz4WC059D0-imk2qgaCbcsLlcpx-2Gk3XPqn9e5P8HTUCuMojQQNnPJM8ZiVTb-WhLG01jQNXQecUVlWN5UEPWqEDSLK5qGw5PGfs_o8IV5j3lkvAbBQCZRMZ47R4IqI0oQXINLCj1iZOgsxzwR-W465QWMQNl1adHJR5XgA7E6WnavMT9JTDLZWCsK22iqqKHsUDbY8hNBEVdtuK10VgApCzbg2ZUS9Qmh5WzaD0jJUohux0GM5t06cAoUiTLthgZgVosQAvmumKazder8kFJGOb-szWERXP7_XLzUzs_7z27zBzYggqc",
     "question": "How many wifes did Rabindranath Tagore have?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Xgm7vnicHdBdboIwAADg7DI-agvDTROzDKUq2hIqBcvLAsUfoECdaIW33WWn2mm27Ajf9_Ut87r8ebqf21Zdp6OR1np4apqTPAxFU42Sa1eLkUikTBNRTscvY_h2FDPntrbnl7XtM6XCBQXBQlqszvp4-dp7y8znPdpEZalJhdwUkAAbEHiLWKdMm8yMd9SkZiolSCC60wXKOQtRxtB1h8JCOLTJANEZOkNRkkcKXfdQyFyE7z12VEBZqAibzHkkrQxYq2QVP4IO4m042dBVfBHlxGCFPecGf97uVU4MYPAyvlFmRbjw-53BHhwgelhKN1laCvd2HhX4cah5l4TkTOSEOuc_gykNvnc6Diwvq902QMjHe9Zik9gRbXKf0V4UsgoRkbSnlbeiUVYiL4Au3kHVsUprAeOK1BjGenAU95k5-P-cfRyrdqo-m9MvWTaCkA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMwUllZbXR1UTJWalMxaHlSMUYwYWxWcFZEQkllVkp6Y2xvd2JUQkpXWFpxVjNKRGVVTjNNMFkyUmxJeVQzaDFkMGhMV1hOTFREWmpPR2RVVmpab1ZFRlhRMm90Y3pCTVh6WldOMnBOWjNWd2NqSjRZaTFVWjNGV1VSSVhVR041ZG1GeE1tTk9Ublp5YlV4UlVERjFMVE56UVZrYUlrRkVjM0k1WmxOb00zWnVia1JOTmpGTVVGVkZhR2hDY0ZKMVkybFRhM05PVjFFIiwiZmN2IjoiMyIsImVpIjoiUGN5dmFxMmNOTnZybUxRUDF1LTNzQVkiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5cVI4S1B3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB3aWZlcyBkaWQgUmFiaW5kcmFuYXRoIFRhZ29yZSBoYXZlPyIsImxrIjoiR2lWb2IzY2diV0Z1ZVNCM2FXWmxJSEpoWW1sdVpISmhibUYwYUNCMFlXZHZjbVVnYUdGayIsImJzIjoiYzMzT01RdkNNQkNHWVZ3ek9VcW5UNlM2T1BrSEhCeDBVVlNFemlkTm01TW1KMG0wNks5WGk5VzZPQjQ4OV9HcXRScG5SbEJLUkRRYUd6bnFDbHZQZDQxQ1BKWWN5WjJvNHZsc2xBenJ0M1NOT245VTJTcVZxZWxLYWxoeU45UmM2SUNjYy16cHlDNzM1Q2dhSEtnVXIySG9xdWV6U1pLYXJvZnYwdGpTWE8xZW5SVEJvZW0weEE1V2gwQ2xoaFRkenVka19VZC1XeGNxYlNjXzc1TUFLeUdpSUN1WGdJcmRNekpKQnAzN1o2VGZld0EiLCJpZCI6ImZjX1BjeXZhcTJjTk52cm1MUVAxdS0zc0FZXzYifQ%3D%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pe_RsXicHdDdToMwGIDheDMeurX4ky1ZTKYgI6Ompd8H9MTUItukBXR1Y5x5L16VV-Pi-Xvw5P3-sbu2-b04bL3v9_PJ5Hg8Xm26bmPfrkznJnp_as3EaGtftWnmt3e35L42i_BrtXz4WC059D0-imk2qgaCbcsLlcpx-2Gk3XPqn9e5P8HTUCuMojQQNnPJM8ZiVTb-WhLG01jQNXQecUVlWN5UEPWqEDSLK5qGw5PGfs_o8IV5j3lkvAbBQCZRMZ47R4IqI0oQXINLCj1iZOgsxzwR-W465QWMQNl1adHJR5XgA7E6WnavMT9JTDLZWCsK22iqqKHsUDbY8hNBEVdtuK10VgApCzbg2ZUS9Qmh5WzaD0jJUohux0GM5t06cAoUiTLthgZgVosQAvmumKazder8kFJGOb-szWERXP7_XLzUzs_7z27zBzYggqc",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVGTkNhRkpSWldOMlZuY3lXRTlFVUVaUWFYaDBkM2g1VkRGYVNYWmxUbkZyYTJwaGVuUkVWVXh5TUVZNVlXOVRkM3B4TTJKYWFFdDZWa1ZVYlU1VFVIRlZPV3RGTURJNWNuaGlRM0JKTlRGRFdVbHRXV05LZVd0TmR4SVhXa2wxTldGemNWUkdPVE5XYTFCSlVEZEtjVmR0UVVVYUlrRkVjM0k1WmxKaE1VWmxOelZtVUhGUFEyb3hMWEl5VUhWWk5UQlVhSEkwVTJjIiwiZmN2IjoiMyIsImVpIjoiWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUUiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5ZWtQY1BnIiwicXVlc3Rpb24iOiJIb3cgbWFueSB3aWZlcyBkaWQgUmFiaW5kcmFuYXRoIFRhZ29yZSBoYXZlPyIsImxrIjoiR2lWb2IzY2diV0Z1ZVNCM2FXWmxJSEpoWW1sdVpISmhibUYwYUNCMFlXZHZjbVVnYUdGayIsImJzIjoiYzJYT1BRdkNNQmdFWUZ3enVZaFFIVzVSbDA2dURoM3JKQ3BDNTFlYU5wRTJyeVRSVW4tOTFvODI0SHdQZHljMllwYXBGdG9oMVo3TWhTb054eWlvNXB0TDF2TW9hajV4LVItTGcxaG1pbEd5aDFjU096N0xDbnVySHhJRjI2RXhXYS1pUlJOSTg1YlhYdmJsSWhWeHBzaDNpeDJzMmZudkdpcHRYdHB5SFJaUG84bndMSUFpRV9HV0c5UmtXalM2a0E2NXpuR2tzemE1SlVOZTRVUWxXd2xGZF9sLXFFSVBHMUxfb19sNDlBUSIsImlkIjoiZmNfWkl1NWFzcVRGOTNWa1BJUDdKcVdtQUVfMyJ9",
     "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMwUllZbXR1UTJWalMxaHlSMUYwYWxWcFZEQkllVkp6Y2xvd2JUQkpXWFpxVjNKRGVVTjNNMFkyUmxJeVQzaDFkMGhMV1hOTFREWmpPR2RVVmpab1ZFRlhRMm90Y3pCTVh6WldOMnBOWjNWd2NqSjRZaTFVWjNGV1VSSVhVR041ZG1GeE1tTk9Ublp5YlV4UlVERjFMVE56UVZrYUlrRkVjM0k1WmxOb00zWnVia1JOTmpGTVVGVkZhR2hDY0ZKMVkybFRhM05PVjFFIiwiZmN2IjoiMyIsImVpIjoiUGN5dmFxMmNOTnZybUxRUDF1LTNzQVkiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5cVI4S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtYWluIG1lc3NhZ2Ugb2YgR2l0YW5qYWxpPyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQnRZV2x1SUcxbGMzTmhaMlVnYjJZZ1oybDBZVzVxWVd4cCIsImJzIjoiYzMzT01RdkNNQkNHWVZ3ek9VcW5UNlM2T1BrSEhCeDBVVlNFemlkTm01TW1KMG0wNks5WGk5VzZPQjQ4OV9HcXRScG5SbEJLUkRRYUd6bnFDbHZQZDQxQ1BKWWN5WjJvNHZsc2xBenJ0M1NOT245VTJTcVZxZWxLYWxoeU45UmM2SUNjYy16cHlDNzM1Q2dhSEtnVXIySG9xdWV6U1pLYXJvZnYwdGpTWE8xZW5SVEJvZW0weEE1V2gwQ2xoaFRkenVka19VZC1XeGNxYlNjXzc1TUFLeUdpSUN1WGdJcmRNekpKQnAzN1o2VGZld0EiLCJpZCI6ImZjX1BjeXZhcTJjTk52cm1MUVAxdS0zc0FZXzYifQ==",
-    "page_token": "bSRGknicHdBRToMwAIDheBkfXYGhccliwqBuKDUUSktfTC3bupUWdFUYb97FU3kaFw_wJ1_-75_2YPXv1Zdyrj8tZrNhGG72XbdvtzeyMzNxOls5k6Jt34TUi9u7W-9hJ5fJ5yZavW-inPR9FWNQ6BFuH8dTBvD0XKZRVfKVAPNAML6ROg2LdT8v_Nrfajl_LrOAszzMDI7pup4QdfPKoKDR3AqjAT7ydzHxSB6jJ-nhXsTQxwT1yJKRJx1gIM2JSTULKlYS95npISyhqgkNC2pGVVMe46mhyHKF2cU2wRMy2H_Tqm0eOUdAHeoJJpSprNTjugJNQo0OkAcdj4kvqGcT1eR10Po1S841CF8am7oSwjxjxGUBiijuDjnBkzy2hpD7Yku9Afvg0uKPooWW2r1XeHjkNo0pcYoP1zv5tQyu_38uX3fGLfqPbv8H0LiDBA",
-    "question": "What is the main message of Gitanjali?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bSRGknicHdBRToMwAIDheBkfXYGhccliwqBuKDUUSktfTC3bupUWdFUYb97FU3kaFw_wJ1_-75_2YPXv1Zdyrj8tZrNhGG72XbdvtzeyMzNxOls5k6Jt34TUi9u7W-9hJ5fJ5yZavW-inPR9FWNQ6BFuH8dTBvD0XKZRVfKVAPNAML6ROg2LdT8v_Nrfajl_LrOAszzMDI7pup4QdfPKoKDR3AqjAT7ydzHxSB6jJ-nhXsTQxwT1yJKRJx1gIM2JSTULKlYS95npISyhqgkNC2pGVVMe46mhyHKF2cU2wRMy2H_Tqm0eOUdAHeoJJpSprNTjugJNQo0OkAcdj4kvqGcT1eR10Po1S841CF8am7oSwjxjxGUBiijuDjnBkzy2hpD7Yku9Afvg0uKPooWW2r1XeHjkNo0pcYoP1zv5tQyu_38uX3fGLfqPbv8H0LiDBA",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMwUllZbXR1UTJWalMxaHlSMUYwYWxWcFZEQkllVkp6Y2xvd2JUQkpXWFpxVjNKRGVVTjNNMFkyUmxJeVQzaDFkMGhMV1hOTFREWmpPR2RVVmpab1ZFRlhRMm90Y3pCTVh6WldOMnBOWjNWd2NqSjRZaTFVWjNGV1VSSVhVR041ZG1GeE1tTk9Ublp5YlV4UlVERjFMVE56UVZrYUlrRkVjM0k1WmxOb00zWnVia1JOTmpGTVVGVkZhR2hDY0ZKMVkybFRhM05PVjFFIiwiZmN2IjoiMyIsImVpIjoiUGN5dmFxMmNOTnZybUxRUDF1LTNzQVkiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5cVI4S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtYWluIG1lc3NhZ2Ugb2YgR2l0YW5qYWxpPyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQnRZV2x1SUcxbGMzTmhaMlVnYjJZZ1oybDBZVzVxWVd4cCIsImJzIjoiYzMzT01RdkNNQkNHWVZ3ek9VcW5UNlM2T1BrSEhCeDBVVlNFemlkTm01TW1KMG0wNks5WGk5VzZPQjQ4OV9HcXRScG5SbEJLUkRRYUd6bnFDbHZQZDQxQ1BKWWN5WjJvNHZsc2xBenJ0M1NOT245VTJTcVZxZWxLYWxoeU45UmM2SUNjYy16cHlDNzM1Q2dhSEtnVXIySG9xdWV6U1pLYXJvZnYwdGpTWE8xZW5SVEJvZW0weEE1V2gwQ2xoaFRkenVka19VZC1XeGNxYlNjXzc1TUFLeUdpSUN1WGdJcmRNekpKQnAzN1o2VGZld0EiLCJpZCI6ImZjX1BjeXZhcTJjTk52cm1MUVAxdS0zc0FZXzYifQ%3D%3D",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMwUllZbXR1UTJWalMxaHlSMUYwYWxWcFZEQkllVkp6Y2xvd2JUQkpXWFpxVjNKRGVVTjNNMFkyUmxJeVQzaDFkMGhMV1hOTFREWmpPR2RVVmpab1ZFRlhRMm90Y3pCTVh6WldOMnBOWjNWd2NqSjRZaTFVWjNGV1VSSVhVR041ZG1GeE1tTk9Ublp5YlV4UlVERjFMVE56UVZrYUlrRkVjM0k1WmxOb00zWnVia1JOTmpGTVVGVkZhR2hDY0ZKMVkybFRhM05PVjFFIiwiZmN2IjoiMyIsImVpIjoiUGN5dmFxMmNOTnZybUxRUDF1LTNzQVkiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5cVI4S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEdpdGFuamFsaSdzIG1vc3QgZmFtb3VzIGxpbmU/IiwibGsiOiJHaGhtWVcxdmRYTWdiR2x1WlNCdlppQm5hWFJoYm1waGJHayIsImJzIjoiYzMzT01RdkNNQkNHWVZ3ek9VcW5UNlM2T1BrSEhCeDBVVlNFemlkTm01TW1KMG0wNks5WGk5VzZPQjQ4OV9HcXRScG5SbEJLUkRRYUd6bnFDbHZQZDQxQ1BKWWN5WjJvNHZsc2xBenJ0M1NOT245VTJTcVZxZWxLYWxoeU45UmM2SUNjYy16cHlDNzM1Q2dhSEtnVXIySG9xdWV6U1pLYXJvZnYwdGpTWE8xZW5SVEJvZW0weEE1V2gwQ2xoaFRkenVka19VZC1XeGNxYlNjXzc1TUFLeUdpSUN1WGdJcmRNekpKQnAzN1o2VGZld0EiLCJpZCI6ImZjX1BjeXZhcTJjTk52cm1MUVAxdS0zc0FZXzYifQ==",
-    "page_token": "q1dO4XicHdBfboIwHADg7DI-KtDJpolZhoLIpK6llD8vi7bTAr8CmwyVt91lp9ppluw7wvf9A0Vd_d71quva83wyuVwu41PTnOB9LBo92Z9vtZiIPcBhL6q5_WCbT0excL82zvJj45C4bfmKGhH3pqz0TFlm04Q_XnhklrFRdVF6MjDKe7lugRsUY5A7ynFDDdVkhncLTegxqCz0aUEG-GLWxgyHasCIvyZlXjAdbCkPXg-pvMa-mrKY3jOm0sO626Uo4MxSy3yVvyQrz5G6s2lFi0irNvaCUurZNveDMPSDJnGvEfbBFtVsSypMaOr1Am0QswBHAG5mwpYmFCLNKTFV7SpJMgRWlrq3zJjuZB10zPNImMZdiLCT0KYgMR1ECZq7VxbzvCaWgXJf7XMT21nqFAct3ch_HqjGBSGjo-gXaPT_uXg76m7efjanP5cpgjY",
-    "question": "What is Gitanjali's most famous line?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=q1dO4XicHdBfboIwHADg7DI-KtDJpolZhoLIpK6llD8vi7bTAr8CmwyVt91lp9ppluw7wvf9A0Vd_d71quva83wyuVwu41PTnOB9LBo92Z9vtZiIPcBhL6q5_WCbT0excL82zvJj45C4bfmKGhH3pqz0TFlm04Q_XnhklrFRdVF6MjDKe7lugRsUY5A7ynFDDdVkhncLTegxqCz0aUEG-GLWxgyHasCIvyZlXjAdbCkPXg-pvMa-mrKY3jOm0sO626Uo4MxSy3yVvyQrz5G6s2lFi0irNvaCUurZNveDMPSDJnGvEfbBFtVsSypMaOr1Am0QswBHAG5mwpYmFCLNKTFV7SpJMgRWlrq3zJjuZB10zPNImMZdiLCT0KYgMR1ECZq7VxbzvCaWgXJf7XMT21nqFAct3ch_HqjGBSGjo-gXaPT_uXg76m7efjanP5cpgjY",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWMwUllZbXR1UTJWalMxaHlSMUYwYWxWcFZEQkllVkp6Y2xvd2JUQkpXWFpxVjNKRGVVTjNNMFkyUmxJeVQzaDFkMGhMV1hOTFREWmpPR2RVVmpab1ZFRlhRMm90Y3pCTVh6WldOMnBOWjNWd2NqSjRZaTFVWjNGV1VSSVhVR041ZG1GeE1tTk9Ublp5YlV4UlVERjFMVE56UVZrYUlrRkVjM0k1WmxOb00zWnVia1JOTmpGTVVGVkZhR2hDY0ZKMVkybFRhM05PVjFFIiwiZmN2IjoiMyIsImVpIjoiUGN5dmFxMmNOTnZybUxRUDF1LTNzQVkiLCJxYyI6IkNoTjNhRzhnZDNKdmRHVWdaMmwwWVc1cVlXeHBFQUI5cVI4S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEdpdGFuamFsaSdzIG1vc3QgZmFtb3VzIGxpbmU%2FIiwibGsiOiJHaGhtWVcxdmRYTWdiR2x1WlNCdlppQm5hWFJoYm1waGJHayIsImJzIjoiYzMzT01RdkNNQkNHWVZ3ek9VcW5UNlM2T1BrSEhCeDBVVlNFemlkTm01TW1KMG0wNks5WGk5VzZPQjQ4OV9HcXRScG5SbEJLUkRRYUd6bnFDbHZQZDQxQ1BKWWN5WjJvNHZsc2xBenJ0M1NOT245VTJTcVZxZWxLYWxoeU45UmM2SUNjYy16cHlDNzM1Q2dhSEtnVXIySG9xdWV6U1pLYXJvZnYwdGpTWE8xZW5SVEJvZW0weEE1V2gwQ2xoaFRkenVka19VZC1XeGNxYlNjXzc1TUFLeUdpSUN1WGdJcmRNekpKQnAzN1o2VGZld0EiLCJpZCI6ImZjX1BjeXZhcTJjTk52cm1MUVAxdS0zc0FZXzYifQ%3D%3D",
-    "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&q=Who+wrote+the+introduction+to+Gitanjali&sa=X&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ1QJ6BAg3EAE",
-    "query": "Who wrote the introduction to Gitanjali",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+wrote+the+introduction+to+Gitanjali"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&q=What+is+Gitanjali&sa=X&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ1QJ6BAhEEAE",
-    "query": "What is Gitanjali",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+Gitanjali"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&q=Gitanjali+written+in+which+language&sa=X&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ1QJ6BAg-EAE",
-    "query": "Gitanjali written in which language",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gitanjali+written+in+which+language"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&q=Gitanjali+poem&sa=X&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ1QJ6BAg9EAE",
-    "query": "Gitanjali poem",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gitanjali+poem"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&q=Gitanjali+book&sa=X&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ1QJ6BAg7EAE",
-    "query": "Gitanjali book",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gitanjali+book"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&q=Gitanjali+original+book&sa=X&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ1QJ6BAg4EAE",
-    "query": "Gitanjali original book",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gitanjali+original+book"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&q=Gitanjali+PDF&sa=X&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ1QJ6BAg6EAE",
-    "query": "Gitanjali PDF",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gitanjali+PDF"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&sxsrf=APpeQnu8CUgAIuePXTZTT2OXqeJywBeYdw:1789905981860&q=How+many+poems+are+there+in+Gitanjali&sa=X&ved=2ahUKEwjtruuxj_2WAxXbNYYAHdb3DWYQ1QJ6BAg5EAE",
-    "query": "How many poems are there in Gitanjali",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+poems+are+there+in+Gitanjali"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "Who wrote Gitanjali?",
-   "time_taken_displayed": 0.27,
-   "total_results": 147
+   "time_taken_displayed": 0.24,
+   "total_results": 288000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 12:06:21 UTC",
+   "created_at": "2026-09-27 21:32:20 UTC",
    "google_url": "https://www.google.com/search?q=Who+wrote+Gitanjali%3F&oq=Who+wrote+Gitanjali%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcc3d333617c51b75a2ea",
-   "json_endpoint": "https://serpapi.com/searches/KQmOw0nAIdicnLcOH0A8Pwv14G_BUwRQrGZ7BjM6Sns/6aafcc3d333617c51b75a2ea.json",
-   "markdown_endpoint": "https://serpapi.com/searches/KQmOw0nAIdicnLcOH0A8Pwv14G_BUwRQrGZ7BjM6Sns/6aafcc3d333617c51b75a2ea.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/KQmOw0nAIdicnLcOH0A8Pwv14G_BUwRQrGZ7BjM6Sns/6aafcc3d333617c51b75a2ea.json_with_pixel_position",
-   "processed_at": "2026-09-20 12:06:21 UTC",
-   "raw_html_file": "https://serpapi.com/searches/KQmOw0nAIdicnLcOH0A8Pwv14G_BUwRQrGZ7BjM6Sns/6aafcc3d333617c51b75a2ea.html",
+   "id": "6ab98b64e396eb04f4cfcf21",
+   "json_endpoint": "https://serpapi.com/searches/zBcmUvWSKEIApc0vARmnC0t9vOWhrxTxMNQoozE1fiw/6ab98b64e396eb04f4cfcf21.json",
+   "markdown_endpoint": "https://serpapi.com/searches/zBcmUvWSKEIApc0vARmnC0t9vOWhrxTxMNQoozE1fiw/6ab98b64e396eb04f4cfcf21.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/zBcmUvWSKEIApc0vARmnC0t9vOWhrxTxMNQoozE1fiw/6ab98b64e396eb04f4cfcf21.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:32:20 UTC",
+   "raw_html_file": "https://serpapi.com/searches/zBcmUvWSKEIApc0vARmnC0t9vOWhrxTxMNQoozE1fiw/6ab98b64e396eb04f4cfcf21.html",
    "status": "Success",
-   "total_time_taken": 0.53
+   "total_time_taken": 0.88
   },
   "search_parameters": {
    "device": "desktop",
@@ -351,144 +493,7 @@
     "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+wrote+Gitanjali%3F&start=70",
     "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+wrote+Gitanjali%3F&start=80"
    }
-  },
-  "short_videos": [
-   {
-    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTt2k5OP7PcRCTJTtuo1ZA7ySVvSHUMDKBaew",
-    "duration": "1:10",
-    "extensions": [
-     "Christopher Tin"
-    ],
-    "link": "https://www.youtube.com/watch?v=B0Vnrwsw3Kw",
-    "position": 1,
-    "profile_name": "Christopher Tin",
-    "source": "YouTube",
-    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNGuian6T3XwXEZ7JFvu80AgyZ_BQ7Uv6yqOxddzUqbrXnt0nQz0fdpvk&s=10",
-    "title": "'Gitanjali' by Rabindranath Tagore"
-   },
-   {
-    "duration": "1:05",
-    "extensions": [
-     "Tata Trusts"
-    ],
-    "link": "https://www.facebook.com/TataTrusts/videos/in-1913-when-india-was-still-finding-its-voice-one-mans-words-gave-it-a-soulrabi/1333883621610241/",
-    "position": 2,
-    "profile_name": "Tata Trusts",
-    "source": "Facebook",
-    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8IsRPgGiFISCCyDBKRc9799CTKHuKaABrmsMvJVbTEgm4qQeYiEjKq0&s=10",
-    "title": "‪In 1913, when India was still finding its voice, one man's words ...‬‏ من قِبل ‪Tata Trusts‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 1:05"
-   },
-   {
-    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTgSuOMP9siOhM01B6LruU3BVd0140lucbQQA",
-    "duration": "0:50",
-    "extensions": [
-     "Indigenous Arts Foundation"
-    ],
-    "link": "https://www.instagram.com/reel/DFpeIW6tOOW/?hl=ar",
-    "position": 3,
-    "profile_name": "Indigenous Arts Foundation",
-    "source": "Instagram",
-    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoUUVQ0FeccUxOIGRZAisLMenIJAqlnnMz-OCi00EF6TI-vA2QGHA6jzE&s=10",
-    "title": "‪Gitanjali: Rabindranath Tagore's Timeless Offering to the ...‬‏ من قِبل ‪Indigenous Arts Foundation‬‏ على ‪Instagram‬‏. التشغيل على ‪Instagram‬‏. 0:50"
-   },
-   {
-    "duration": "2:46",
-    "extensions": [
-     "The Yoga Institute"
-    ],
-    "link": "https://www.facebook.com/theyogainstituteofficial/posts/gitanjali-the-nobel-prize-winning-work-of-rabindranath-tagore-was-lovingly-trans/1471772111202695/",
-    "position": 4,
-    "profile_name": "The Yoga Institute",
-    "source": "Facebook",
-    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrAI8rdlCoKvYit_0jbikpXKQTzpEyjqAszAO_qJ0y6ipmhpOhw_fJ2Es&s=10",
-    "title": "‪Gitanjali, the Nobel Prize-winning work of Rabindranath ...‬‏ من قِبل ‪The Yoga Institute‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 2:46"
-   },
-   {
-    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSP32Z4UyNIJYbfr9_vW-mC_cIxWPNs02Ofgg",
-    "duration": "2:19",
-    "extensions": [
-     "The Unofficial Seminar"
-    ],
-    "link": "https://www.youtube.com/shorts/uNordw4nYF0",
-    "position": 5,
-    "profile_name": "The Unofficial Seminar",
-    "source": "YouTube",
-    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMdPsb1WA-MEgCOmpMHWN3oFuz9mboAuMuAgTy11MTJLV203vDMqhDMIA&s=10",
-    "title": "Rabindranath Tagore's Nobel-Winning Gitanjali's Manuscript ..."
-   },
-   {
-    "duration": "1:45",
-    "extensions": [
-     "Prof Pankaj Jain"
-    ],
-    "link": "https://www.instagram.com/reel/DQrPiqLDdAR/?hl=ar",
-    "position": 6,
-    "profile_name": "Prof Pankaj Jain",
-    "source": "Instagram",
-    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7trs6lmxPBAyK-WqNtuf-cyhJvEBY-Ud0xkYJQAQA2pcS_v5R7AX3HU&s=10",
-    "title": "‪Who was Rabindranath Tagore, and why is his book Gitanjali ...‬‏ من قِبل ‪Prof Pankaj Jain‬‏ على ‪Instagram‬‏. التشغيل على ‪Instagram‬‏. 1:45"
-   },
-   {
-    "duration": "0:21",
-    "extensions": [
-     "STUDY SPOT"
-    ],
-    "link": "https://www.youtube.com/shorts/evxzalWmuDA",
-    "position": 7,
-    "profile_name": "STUDY SPOT",
-    "source": "YouTube",
-    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5FxhbyWSuYiWLMm_CGapu_IAj2Si454047KVlZ5Q4ct1GoMER5GfGHK8&s=10",
-    "title": "Author of 'Gitanjali', Rabindranath Tagore | Rabindranath ..."
-   },
-   {
-    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR8lDR-ZwFeYEyHagHWNH4dDzARXOiCU3jsEw",
-    "duration": "0:13",
-    "extensions": [
-     "Fingerprint Publishing"
-    ],
-    "link": "https://www.facebook.com/fingerprintpublishing/videos/gitanjali-by-rabindranath-tagore-gitanjali-or-the-self-offering-as-tagore-calls-/4655608584458010/",
-    "position": 8,
-    "profile_name": "Fingerprint Publishing",
-    "source": "Facebook",
-    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQo4gozWiRnhT9FJYvN9MZl5H3YlSz2mKbkHkRLf2SyELMmoz654eig8M&s=10",
-    "title": "‪GITANJALI by Rabindranath Tagore Gitanjali or the self ...‬‏ من قِبل ‪Fingerprint Publishing‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 0:13"
-   },
-   {
-    "duration": "1:04",
-    "extensions": [
-     "Tata Trusts"
-    ],
-    "link": "https://www.instagram.com/reel/DP8F2tYlCPY/?hl=ar",
-    "position": 9,
-    "profile_name": "Tata Trusts",
-    "source": "Instagram",
-    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyXdkULb8zWIQhHXknZ6AvBJfZVvvzRAmlbFAzZVYIBummpVS9J-JHGw&s=10",
-    "title": "‪Tata Trusts on Instagram: \"In 1913, when India was still finding ...‬‏ من قِبل ‪Tata Trusts‬‏ على ‪Instagram‬‏. التشغيل على ‪Instagram‬‏. 1:04"
-   },
-   {
-    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRldwweGIgbR97AW-23V6L3slizAxNvmJCLZQ",
-    "duration": "1:48",
-    "extensions": [
-     "Limitless Literature: Nakul Grover"
-    ],
-    "link": "https://www.youtube.com/shorts/SRTXbAbPTyA",
-    "position": 10,
-    "profile_name": "Limitless Literature: Nakul Grover",
-    "source": "YouTube",
-    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGfjakgqBKWV9x2tqaWbXc4XY9S5nbaO5t8CiOC10CfJdZ7vu6mvgM4w&s=10",
-    "title": "The Sad Irony Behind Tagore's Gitanjali: How Translation ..."
-   }
-  ]
+  }
  },
  "searches_charged": 1
 }

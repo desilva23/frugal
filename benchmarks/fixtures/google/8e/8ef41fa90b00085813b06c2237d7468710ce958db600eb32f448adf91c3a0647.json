@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 2454.448,
+ "elapsed_ms": 1585.351,
  "engine": "google",
- "fetched_at": "2026-09-20T11:59:57.551304+00:00",
+ "fetched_at": "2026-09-27T21:31:11.130090+00:00",
  "frugal_cache_version": 1,
  "key": "8ef41fa90b00085813b06c2237d7468710ce958db600eb32f448adf91c3a0647",
  "params": {
@@ -9,487 +9,464 @@
   "q": "What museums are there in Kolkata?"
  },
  "response": {
-  "filters": [
+  "ai_overview": {
+   "page_token": "olNP33iczZXddqo4FMcfYJ5juGkVsEqla7G6kkg1aD_UWo-9YWFAQEGUiNRzN-8wjzBPNU9zAqJCK-0552LW7C5JE3Z2drLz4__XP567XPz7x9_OZrOiNzwfx3HVDgLbs6ok8HmD7paEnwUeDYlzS4MoJJZrKsQJA9_idlvliiNUETjLVTqTqGGE6Pl-GzmNh-Dp-3a3lfr3XBpC0acGteZshbc55XWePRZ_XrVYp0qr1rL6qG_V5bJHJaterQmiXH3kDZ85gP_Q-irAALJ235QZAkD9Olji0gcoiXUwG51e7a21j5esaacD3dIlcTILsj_MwjJ7ak6ascCGgoOTVpoLxPnOJMsmTuNCmCb603YMla37yUGVHZNaCMAyKTiWni16dxnYWQ0qQFWTAB9TwUDN7xoMANhvvLUAHbsJMMHI_iT3ZALZQQ2BY_wyWwPn6XCE8cOEufOmze6uwE9D1oi8SxyS_hPS5EqjZ1kIVIvOliP1u-RZlRc_mrj1TqWlS5P47SHmyZT5eYFhWqbu6MJt2hdrYkOQr66blylLhB5honmY1E3Uxu4zUdfNaq8KxQNJ6Fg7VExfZX2EwUeDKHNFZ17aOQxyk12UP61R1rLbLWCA847AVvEsaduHgUcAWYVJvoqHBZKQ50gqOGUkpVXF-xafph9d1FwahXsP43PbfNdvwcMkDPfv4izuBxQg0Bb50WJ4lsWgv6_JCsRwlLo9Fs4yg_4QLctYZacJs556rM3e0c3T47L8nGRZe8jctL7dTXlP8kdpAskVT62LEShUeQDOGauOzTY9-Imv3xkLvnZJyMmQeUdAnpzO3Suy24Hgxq3oddZmYiMvXuRhRSYInCcl8Ke_oDvk_8XSQZVGmSqVs6R-zVLysfxMldLHSZWGe5a65SwlH9lzqlQ_OOVU6R1LsJdjyUk_znGZKv0qS_ATltRPWQrOs7QoYylVpSJLTJXaJ1UqsHRUpRNLv6NKq99UpRQta98UJSqa26VSdVcZyV3ZNMQVbkkN39Vrckv71nqdBzXwpVTN_M2Nb5jepe6aN7CmbXbmpc4GghvL5NbK2DE2F35ErcinF0ZoXWwciz3d5UU38BbGxrjlfC8MFMFoTGtdG2ycSW1631vNp6jrmdAbLuGrM26_XU1MKERDcxk9iCNJq_R3RlAhZDiPaRtRGdNJxZW1x8Zs3VCNWa_zIpAYvlnjp2mjoVXkSv-NjYJdrTu6tzpN-1UbeHdYvgu72Bt1pPFO2zbX4UrUB3GaD1V8NHye3l2vcMfm2HaopYicHxKFVaZug4c-GNuAADQBfVbQPgrYL2Y_ifEMOUoM3aJbhYhSrSlNr-tGU6qJ5ozz7c1updSvOLoMFfEHFUhGKw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=olNP33iczZXddqo4FMcfYJ5juGkVsEqla7G6kkg1aD_UWo-9YWFAQEGUiNRzN-8wjzBPNU9zAqJCK-0552LW7C5JE3Z2drLz4__XP567XPz7x9_OZrOiNzwfx3HVDgLbs6ok8HmD7paEnwUeDYlzS4MoJJZrKsQJA9_idlvliiNUETjLVTqTqGGE6Pl-GzmNh-Dp-3a3lfr3XBpC0acGteZshbc55XWePRZ_XrVYp0qr1rL6qG_V5bJHJaterQmiXH3kDZ85gP_Q-irAALJ235QZAkD9Olji0gcoiXUwG51e7a21j5esaacD3dIlcTILsj_MwjJ7ak6ascCGgoOTVpoLxPnOJMsmTuNCmCb603YMla37yUGVHZNaCMAyKTiWni16dxnYWQ0qQFWTAB9TwUDN7xoMANhvvLUAHbsJMMHI_iT3ZALZQQ2BY_wyWwPn6XCE8cOEufOmze6uwE9D1oi8SxyS_hPS5EqjZ1kIVIvOliP1u-RZlRc_mrj1TqWlS5P47SHmyZT5eYFhWqbu6MJt2hdrYkOQr66blylLhB5honmY1E3Uxu4zUdfNaq8KxQNJ6Fg7VExfZX2EwUeDKHNFZ17aOQxyk12UP61R1rLbLWCA847AVvEsaduHgUcAWYVJvoqHBZKQ50gqOGUkpVXF-xafph9d1FwahXsP43PbfNdvwcMkDPfv4izuBxQg0Bb50WJ4lsWgv6_JCsRwlLo9Fs4yg_4QLctYZacJs556rM3e0c3T47L8nGRZe8jctL7dTXlP8kdpAskVT62LEShUeQDOGauOzTY9-Imv3xkLvnZJyMmQeUdAnpzO3Suy24Hgxq3oddZmYiMvXuRhRSYInCcl8Ke_oDvk_8XSQZVGmSqVs6R-zVLysfxMldLHSZWGe5a65SwlH9lzqlQ_OOVU6R1LsJdjyUk_znGZKv0qS_ATltRPWQrOs7QoYylVpSJLTJXaJ1UqsHRUpRNLv6NKq99UpRQta98UJSqa26VSdVcZyV3ZNMQVbkkN39Vrckv71nqdBzXwpVTN_M2Nb5jepe6aN7CmbXbmpc4GghvL5NbK2DE2F35ErcinF0ZoXWwciz3d5UU38BbGxrjlfC8MFMFoTGtdG2ycSW1631vNp6jrmdAbLuGrM26_XU1MKERDcxk9iCNJq_R3RlAhZDiPaRtRGdNJxZW1x8Zs3VCNWa_zIpAYvlnjp2mjoVXkSv-NjYJdrTu6tzpN-1UbeHdYvgu72Bt1pPFO2zbX4UrUB3GaD1V8NHye3l2vcMfm2HaopYicHxKFVaZug4c-GNuAADQBfVbQPgrYL2Y_ifEMOUoM3aJbhYhSrSlNr-tGU6qJ5ozz7c1updSvOLoMFfEHFUhGKw"
+  },
+  "discussions_and_forums": [
    {
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=What+museums+are+there+in+Kolkata%3F+atidaryta+dabar&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rkCPphDPQsoX5fZakqor2dEhyPkR2o5Zczt2JM1EEAUJFFTo9kfUX1gpuBi-u0ltE_3uq3NZdvClG1lmiYc66U5uMOCWnbnr9SUkhiu2OqflJKcRE0wZzapOP2J5PWcoFEZUN-daJutmfbPPvocnSTQGzO8dj9GiTlF1pgp0pcMN1nOJGGEmDr5QT0fkU6ZzcVBHQeQ&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQxKsJKAB6BAgKEAE&ictx=0",
-    "name": "Atidaryta dabar",
-    "parameters": {
-     "q": "What museums are there in Kolkata? atidaryta dabar",
-     "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rkCPphDPQsoX5fZakqor2dEhyPkR2o5Zczt2JM1EEAUJFFTo9kfUX1gpuBi-u0ltE_3uq3NZdvClG1lmiYc66U5uMOCWnbnr9SUkhiu2OqflJKcRE0wZzapOP2J5PWcoFEZUN-daJutmfbPPvocnSTQGzO8dj9GiTlF1pgp0pcMN1nOJGGEmDr5QT0fkU6ZzcVBHQeQ"
-    },
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F+atidaryta+dabar&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rkCPphDPQsoX5fZakqor2dEhyPkR2o5Zczt2JM1EEAUJFFTo9kfUX1gpuBi-u0ltE_3uq3NZdvClG1lmiYc66U5uMOCWnbnr9SUkhiu2OqflJKcRE0wZzapOP2J5PWcoFEZUN-daJutmfbPPvocnSTQGzO8dj9GiTlF1pgp0pcMN1nOJGGEmDr5QT0fkU6ZzcVBHQeQ"
+    "answers": [
+     {
+      "extensions": [
+       "Top answer",
+       "2 votes",
+       "a month ago"
+      ],
+      "link": "https://www.reddit.com/r/kolkata/comments/1vpou7e/underrated_museums_or_places_to_visit/p3z71e6/"
+     },
+     {
+      "extensions": [
+       "2 votes",
+       "a month ago"
+      ],
+      "link": "https://www.reddit.com/r/kolkata/comments/1vpou7e/underrated_museums_or_places_to_visit/p3z838j/"
+     },
+     {
+      "extensions": [
+       "a month ago"
+      ],
+      "link": "https://www.reddit.com/r/kolkata/comments/1vpou7e/underrated_museums_or_places_to_visit/p3z7e64/"
+     }
+    ],
+    "date": "1 month ago",
+    "extensions": [
+     "r/kolkata",
+     "10+ comments"
+    ],
+    "link": "https://www.reddit.com/r/kolkata/comments/1vpou7e/underrated_museums_or_places_to_visit/",
+    "source": "Reddit",
+    "title": "Underrated museums or places to visit?"
    },
    {
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=What+museums+are+there+in+Kolkata%3F+geriausiai+%C4%AFvertinta&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r5PRGcWoE-kgPKS4VyrBj5uWfUb_wDDuQEa4p4kcU_7SHS0rrmgwudeRdjuoIPKr9RK6P3P1lV5VnwjZ2QmytGaXidHROVdFeXEj2LhN9isfip4TDEdwK5taPOFC5CPBbtpxlIr_QmOZhAXJN2C3h7rpW4WSr5TcuiLo6sQqPmoM5_1ChT9m5lnD77eOGtnoB5zfBBbbprMNsEAoj2NBqpLopIBA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQxKsJKAF6BAgNEAE&ictx=0",
-    "name": "Geriausiai įvertinta",
-    "parameters": {
-     "q": "What museums are there in Kolkata? geriausiai įvertinta",
-     "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r5PRGcWoE-kgPKS4VyrBj5uWfUb_wDDuQEa4p4kcU_7SHS0rrmgwudeRdjuoIPKr9RK6P3P1lV5VnwjZ2QmytGaXidHROVdFeXEj2LhN9isfip4TDEdwK5taPOFC5CPBbtpxlIr_QmOZhAXJN2C3h7rpW4WSr5TcuiLo6sQqPmoM5_1ChT9m5lnD77eOGtnoB5zfBBbbprMNsEAoj2NBqpLopIBA"
-    },
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F+geriausiai+%C4%AFvertinta&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r5PRGcWoE-kgPKS4VyrBj5uWfUb_wDDuQEa4p4kcU_7SHS0rrmgwudeRdjuoIPKr9RK6P3P1lV5VnwjZ2QmytGaXidHROVdFeXEj2LhN9isfip4TDEdwK5taPOFC5CPBbtpxlIr_QmOZhAXJN2C3h7rpW4WSr5TcuiLo6sQqPmoM5_1ChT9m5lnD77eOGtnoB5zfBBbbprMNsEAoj2NBqpLopIBA"
+    "answers": [
+     {
+      "link": "https://www.facebook.com/groups/wtnkolkata/posts/1428884667804586/"
+     }
+    ],
+    "date": "2 years ago",
+    "extensions": [
+     "Weekend tours Near kolkata",
+     "2 comments"
+    ],
+    "link": "https://www.facebook.com/groups/wtnkolkata/posts/1428884667804586/",
+    "source": "Facebook",
+    "title": "Indian Museum in Kolkata"
+   },
+   {
+    "answers": [
+     {
+      "link": "https://www.quora.com/What-is-the-significance-of-the-Alipore-Museum-as-the-venue-for-the-Kolkata-literary-Meet"
+     }
+    ],
+    "date": "8 months ago",
+    "extensions": [
+     "10+ answers"
+    ],
+    "link": "https://www.quora.com/What-is-the-significance-of-the-Alipore-Museum-as-the-venue-for-the-Kolkata-literary-Meet",
+    "source": "Quora",
+    "title": "What is the significance of the Alipore Museum as the venue ..."
+   }
+  ],
+  "inline_images": [
+   {
+    "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/93/70/b6/museum-building.jpg?w=500&h=500&s=1",
+    "source": "https://www.tripadvisor.com/Attractions-g304558-Activities-c49-t30-Kolkata_Calcutta_Kolkata_District_West_Bengal.html",
+    "source_name": "Tripadvisor",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvoV0wkV9e7Vw_zjwn8psgWBe89Gtz76z62ZPQ6PCFMvAMh1fjpbBW-x8&s",
+    "title": "THE 5 BEST Kolkata (Calcutta) History Museums (2026 ..."
+   },
+   {
+    "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/57/a7/7b/victoria-memorial-hall.jpg?w=500&h=500&s=1",
+    "source": "https://www.tripadvisor.ca/Attractions-g304558-Activities-c49-Kolkata_Calcutta_Kolkata_District_West_Bengal.html",
+    "source_name": "Tripadvisor",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3wcqXKWVGa9ukEEbIFcgUNDG4IOzL_QWh2tjBGu8E0R0DzX2vH_5Vqw&s",
+    "title": "THE 10 BEST Museums in Kolkata (Calcutta) (2026) - Tripadvisor"
+   },
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3943818764848237701",
+    "source": "https://www.instagram.com/reel/Da7QkV5TIyF/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwAkfXNzXVrzDJzaE8L4VgVpluffdWfclm22C8WSAO6F3sAhUWFtDFiWg&s",
+    "title": "Best Museums To Visit In Kolkata 😍, • Indian Museum, Park Street, India’s  oldest and largest museum, featuring ancient artifacts, fossils, mummies,  sculptures, and archaeological treasures., • ..."
+   },
+   {
+    "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/2e/d8/b6/entrance-to-gallery.jpg?w=1200&h=-1&s=1",
+    "source": "https://www.tripadvisor.com/Attractions-g304558-Activities-c49-t28-Kolkata_Calcutta_Kolkata_District_West_Bengal.html",
+    "source_name": "Tripadvisor",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYmJI4GpDXGaLeahm-rvPnY4zekEDjWKdrMrxjowrVsBfwvRyVW_WcUI&s",
+    "title": "THE 5 BEST Kolkata (Calcutta) Art Museums (2026) - Tripadvisor"
+   },
+   {
+    "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/db/dc/b8/aakriti-art-gallery-kolkata.jpg?w=500&h=500&s=1",
+    "source": "https://www.tripadvisor.co.uk/Attractions-g304558-Activities-c49-Kolkata_Calcutta_Kolkata_District_West_Bengal.html",
+    "source_name": "Tripadvisor",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScke4WxPvrNxKUh1BZAJyMuL9BO65T_849123-DsoLGLW6n3f235O6CqI&s",
+    "title": "THE 10 BEST Museums in Kolkata (Calcutta) (2026) - with Reviews"
+   },
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3961332155856231194",
+    "source": "https://www.instagram.com/reel/Da7QkV5TIyF/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnlfX04k0x-y3_lrTvd3042h7tvLNY0sUikF5u5ghDwhbpr8Co-vmHBQ&s",
+    "title": "YEPKOLKATA | Best Museums To Visit In Kolkata 😍 • Indian ..."
+   },
+   {
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3766852690291719921",
+    "source": "https://www.instagram.com/reel/DRGjJBuD_7x/",
+    "source_name": "Instagram",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhCuiqiQzM8RFmrKQJCDlnvh5kpEAKSCgCsWgBVD5L6MCKcQGhEwg_uE&s",
+    "title": "Kolkata — get ready for a weekend of contemporary art, culture, and  creative discovery! ✨, Kolkata Art Weekender brings you 3 days of  celebration with heritage walks, artist studio visits, workshops, ..."
+   },
+   {
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=882266853916493",
+    "source": "https://www.facebook.com/groups/friendsofindianmuseum/posts/5267950649909863/",
+    "source_name": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSBZZSJ6CD15QK7HWIpX4iAO_ya-DtiPb5M2iHl6racHPbC8lPTbqh8E&s",
+    "title": "Indian Museum Kolkata exhibits rare treasures on ..."
+   },
+   {
+    "original": "https://content.jdmagicbox.com/comp/kolkata/27/033p6853927/catalogue/victoria-memorial-hall-kolkata-museums-v88r7obfyv.jpg",
+    "source": "https://www.justdial.com/Kolkata/Museums-in-Dum-Dum/nct-10332771/page-2",
+    "source_name": "Justdial",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XevCT3vbzBC5uJioB7-br3VBcOcAnRmoxFrDtetaWGhrZufjlkVnfpw&s",
+    "title": "Museums in Dum Dum, Kolkata - Page 2"
    }
   ],
   "knowledge_graph": {
-   "breadcrumbs": [
+   "place_id": "ChIJ33o0YBF3AjoRrAtN-RkG158"
+  },
+  "local_map": {
+   "gps_coordinates": {
+    "latitude": 22.57724245452637,
+    "longitude": 88.40217590332031
+   },
+   "image": "https://serpapi.com/searches/6ab98b1de22fedf63004cea7/images/_zyAdYuMni06yfKv6jiB3Q.png",
+   "link": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata%3F&sca_esv=c16286b74a8621df&sxsrf=APpeQnu6NSxuEBkdVeePTH5QbuiVZG-JkA:1790544669830&udm=local&lsack=HYu5arCTMvuh5NoPzvyv6QM&sa=X&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0QtgN6BAguEAM"
+  },
+  "local_results": {
+   "more_locations_link": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata%3F&sca_esv=c16286b74a8621df&sxsrf=APpeQnu6NSxuEBkdVeePTH5QbuiVZG-JkA:1790544669830&udm=local&lsack=HYu5arCTMvuh5NoPzvyv6QM&sa=X&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0QjGp6BAgvEAE",
+   "places": [
     {
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Muziejai&stick=H4sIAAAAAAAAAEWTzWvUQBjGNwstu2kL3S1F2YtrQShF2Hxn00sL9QPRItgF8WLcTL42mSSTZJqvi9BLDx6UHvwDPAn6DyjSg-DBCh48eBE8KAieeiu9-NGVzJhDyJPfvO_zzjNJa0a4eNcd436wm1q7QdofJ1Yfu9bZfRL2b0bQH-PxEdMeBANOVCU_PGLY6bNRVHEeUyALCQGBC03uiJkbOAMeJwgpCq6RoCZZLB0xC1PE2yYMoAF8AmNbBXItAMcPY0CI4rriWcf5aVksG0EpIrF2llRVDihyUuRKJjFwKwB1D1V1GwQFHmUEQkX1eL0Qa5jmYRXSyizPTYTTlAyQS6ZQEgjSWMu0nMAKm3wFaWWKwqHteUQjX_MzjafcGeocV5VxnU8uZa6hJdSn8G0anSlxBcz-uyY8tk2daF8uIUxEr87Bhiko6hxQlRqcoydkqakbRiBOD6sOXsiBEPsVnUlJAgSAS7Qnpbyq8DoZxEYpgh5tXhiGAekcBpBD4CYpLQ4LUy8wORPX1KU8UKg34BJRSgJAeiMUA-SSNBw5t2WBzsWpOMlETHTImSUSHVSn5XiAq-gmXF5UDFujm04dKGWGm9O8DENQPYGuzxQu4eSKpyEVviY7qPzG7DfnFn-efl3q_WIOXr7_zJww7OKtKEotWN6x4Bhb5ijqDtnZqyGe4LI732PZ1r9vNsu1Xn-FXXh1gBeWD3svpLVu2zlp3fiyd6p13lyGj39w37e619m5HQuPou3InNhld9hV2Pa2FRhWkt62u5dYdiuC0AJ4EoXdc71ldmkA6ItB_ZOuN1ebK_eEa68_Pf04u9lpnF3wws5mb3Wtw85eiYLxJOyM9mcebLw73lhbYlujcRGFUVB27it_Hn74fbyx0m5Pix79OuONJ01m7_D529lWi1lsCM1WY715nqka889mWtu71cTyxpO_k5E3-iYEAAA&npsic=0&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1i96BAg8EAE",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Muziejai&stick=H4sIAAAAAAAAAEWTzWvUQBjGNwstu2kL3S1F2YtrQShF2Hxn00sL9QPRItgF8WLcTL42mSSTZJqvi9BLDx6UHvwDPAn6DyjSg-DBCh48eBE8KAieeiu9-NGVzJhDyJPfvO_zzjNJa0a4eNcd436wm1q7QdofJ1Yfu9bZfRL2b0bQH-PxEdMeBANOVCU_PGLY6bNRVHEeUyALCQGBC03uiJkbOAMeJwgpCq6RoCZZLB0xC1PE2yYMoAF8AmNbBXItAMcPY0CI4rriWcf5aVksG0EpIrF2llRVDihyUuRKJjFwKwB1D1V1GwQFHmUEQkX1eL0Qa5jmYRXSyizPTYTTlAyQS6ZQEgjSWMu0nMAKm3wFaWWKwqHteUQjX_MzjafcGeocV5VxnU8uZa6hJdSn8G0anSlxBcz-uyY8tk2daF8uIUxEr87Bhiko6hxQlRqcoydkqakbRiBOD6sOXsiBEPsVnUlJAgSAS7Qnpbyq8DoZxEYpgh5tXhiGAekcBpBD4CYpLQ4LUy8wORPX1KU8UKg34BJRSgJAeiMUA-SSNBw5t2WBzsWpOMlETHTImSUSHVSn5XiAq-gmXF5UDFujm04dKGWGm9O8DENQPYGuzxQu4eSKpyEVviY7qPzG7DfnFn-efl3q_WIOXr7_zJww7OKtKEotWN6x4Bhb5ijqDtnZqyGe4LI732PZ1r9vNsu1Xn-FXXh1gBeWD3svpLVu2zlp3fiyd6p13lyGj39w37e619m5HQuPou3InNhld9hV2Pa2FRhWkt62u5dYdiuC0AJ4EoXdc71ldmkA6ItB_ZOuN1ebK_eEa68_Pf04u9lpnF3wws5mb3Wtw85eiYLxJOyM9mcebLw73lhbYlujcRGFUVB27it_Hn74fbyx0m5Pix79OuONJ01m7_D529lWi1lsCM1WY715nqka889mWtu71cTyxpO_k5E3-iYEAAA",
-     "title": "Muziejai"
+     "address": "27, Jawaharlal Nehru Rd, Kolkata, West Bengal 700016, India",
+     "description": "Cultural museum established in 1814",
+     "gps_coordinates": {
+      "latitude": 22.557886,
+      "longitude": 88.351127
+     },
+     "hours": "Closed · Opens 10 AM Tue",
+     "links": {
+      "phone": "tel:+91 33 2252 1790",
+      "website": "https://hindi.indianmuseumkolkata.org/"
+     },
+     "phone": "+91 33 2252 1790",
+     "place_id": "11517681280649857964",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=11517681280649857964&q=What+museums+are+there+in+Kolkata%3F",
+     "position": 1,
+     "provider_id": "/m/0374kn",
+     "rating": 4.5,
+     "reviews": 57913,
+     "thumbnail": "https://serpapi.com/searches/6ab98b1de22fedf63004cea7/images/NvwicfeveRKBE_w-cfubQanuy6dXPhFBP2c_lmujnj0jjawUG6R89RwbCXFBa89z.jpeg",
+     "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R1z0W6zSb2IC36Mwvlq2L_Y16bKFDvnUch9_B8lM7AcPgaeXfSEA6Gz3ZW4RbwTI-Lzl_4Gw8P7BpT9ru0J6Vm26ZvCCH8JCRn3feBnc7lrfSP0MyWiQtA7_-xUv6eJHPEA-1w=w1000-h1000-c-n",
+     "title": "Indian Museum",
+     "type": "Museum"
     },
     {
-     "title": "Kolkata"
+     "address": "PHYSICS BLOCK, BIRLA INDUSTRIAL & TECHNOLOGICAL MUSEUM, 19A, Gurusaday Road Near Ballygunge Ice Skating Rink, 19a, Gurusaday Dutta Rd, Beck Bagan, Ballygunge, Kolkata, West Bengal 700019, India",
+     "description": "Exhibits & programs exploring science",
+     "gps_coordinates": {
+      "latitude": 22.534805,
+      "longitude": 88.363726
+     },
+     "hours": "Closed · Opens 9:30 AM",
+     "links": {
+      "phone": "tel:+91 94773 45291",
+      "website": "http://www.bitm.gov.in/;%20https://www.facebook.com/BITMKolkata/;%20https://x.com/BITMKolkata/;%20https://www.instagram.com/bitmkolkata/"
+     },
+     "phone": "+91 94773 45291",
+     "place_id": "11947236981473256567",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=11947236981473256567&q=What+museums+are+there+in+Kolkata%3F",
+     "position": 2,
+     "provider_id": "/m/0bxzqwq",
+     "rating": 4.6,
+     "reviews": 10275,
+     "thumbnail": "https://serpapi.com/searches/6ab98b1de22fedf63004cea7/images/NvwicfeveRKBE_w-cfubQeb5QYwDQWGDImz2kRJX6U8bunPxjB6xcq-eEtMjbm8l.jpeg",
+     "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SVQlqSCOR-2S9rK3TZrbxzlUMCLRMU-8FKGdVGecVZtegquDKJHHCp1oaSFB8oc00AxYuSRCKSLtNAiSgg--oA7JI1vE44P3uT7q3zlpE9knas0p31yGoOnfmeTksn5Qx-h4W04Q=w1000-h1000-c-n",
+     "title": "Birla Industrial & Technological Museum",
+     "type": "Technology museum"
+    },
+    {
+     "address": "Victoria Memorial Hall, 1, Queens Way, Kolkata, West Bengal 700071, India",
+     "description": "Grand museum for art & Indian history",
+     "gps_coordinates": {
+      "latitude": 22.544808,
+      "longitude": 88.342558
+     },
+     "hours": "Closed · Opens 10 AM Tue",
+     "links": {
+      "phone": "tel:+91 33 2223 1890",
+      "website": "https://victoriamemorial-cal.org/"
+     },
+     "phone": "+91 33 2223 1890",
+     "place_id": "51018321950381923",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=51018321950381923&q=What+museums+are+there+in+Kolkata%3F",
+     "position": 3,
+     "provider_id": "/m/03752r",
+     "rating": 4.6,
+     "reviews": 92130,
+     "thumbnail": "https://serpapi.com/searches/6ab98b1de22fedf63004cea7/images/NvwicfeveRKBE_w-cfubQTy4udwx2FWoO6YYb9Prh8OLhlzImGP2_notcgEseLih.jpeg",
+     "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S9l1aQ1AZXKm1PhO0Zz1QrUiRWhjpyslhsYWAX3RRMhg3Tr54LConZAlzkEKARMzD6m5b2pqNmMxDgUEkVE8-i151y-4LeZkZiAZKLJrg_TxVsd5CJ7hJL_bWsLbID4aKDzpZutw=w1000-h1000-c-n",
+     "title": "Victoria Memorial",
+     "type": "Museum"
     }
-   ],
-   "kolkata": [
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewVpF827Ee458wk4cJ3ysacI.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Indian+Museum&stick=H4sIAAAAAAAAAEWTS2vUUBTHJwMdZtIWOlOKMhvHglCKMHln0k0L9YFoEWxB3BgnN69JbpKb5DavjdBNFy4sXfgBXAn6BRTpQnBhBRcu3AguFARX7oobHx3Jvc3ikpPfOed_7v_etGeWO8NgyImq5IfCxbvuGA-C3dTaDdLBOLEG2LVO10k4uBlBf4zHx8xZ-jHDTt-NoorzmAJZSAgIXGhyx8zs0BnyOEFIUXCNBDXJYumYmZ8i3jZhAA3gExjbKpDrAHD8KAaEKK4rnnacm5bFshGUIhJrZUlV5YAiJ0WuZBIBtwJQ91BVt0FQ4FFGIFRUj9cLsYZpHlYhrczy3EQ4TckAuWQKJYEgjbVMywmssMlXkFamKBzZnkdi5Gt-pvGUOyOd46oyrv3Jpcw1tITqFL5NrTMlroDZmWrCY9vUSezLJYSJ6NU-2DAFRe0DqlKDc_SEpJq6YQTi9LBq44UcCLFf0ZmUJEAAuCT2pJRXFV4ng9goRdCjzQvDMCCdwwByCNwkpcVhYeoFJmfimrqUBwrVBlwiSkkASG-EYoBc4oYj57Ys0Lk4FSeZiEkccmaJRAfVbjke4Cq6CZcXFcPW6KZTB0qZ4ebUL8MQVE-g-ZnCJZxc8dSkwtdkB5Vfmf3m7MKPX18W-7-ZwxfvPjEnDLtwK4pSC5Z3LDjGlrkT9UZs62qIJ7jszfVZtv3_zma51h8ss_MvD_H80lH_ubTa6zgn7Ruf935p3deX4ePv3LfN3nV2dtvCO9FWZE7ssjfqKWxnywoMK0lv271LLLsZQWgBPInC3rn-Ers4BPTDsP5J15orzeV7wrVXH598aG10G6cPvLC90V9Z7bKtK1EwnoTdnf2ZB-tvf66vLrLtnXERhVFQdu8rfx--__NzfbnTmRY9-n3KGwdNZu_o2ZtWu80sNIRmu7HWPM9UjbmnM_M3QnMyDgdb_2UPWsw_g0m4dTkEAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EAU",
-     "name": "Indian Museum",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Indian+Museum&stick=H4sIAAAAAAAAAEWTS2vUUBTHJwMdZtIWOlOKMhvHglCKMHln0k0L9YFoEWxB3BgnN69JbpKb5DavjdBNFy4sXfgBXAn6BRTpQnBhBRcu3AguFARX7oobHx3Jvc3ikpPfOed_7v_etGeWO8NgyImq5IfCxbvuGA-C3dTaDdLBOLEG2LVO10k4uBlBf4zHx8xZ-jHDTt-NoorzmAJZSAgIXGhyx8zs0BnyOEFIUXCNBDXJYumYmZ8i3jZhAA3gExjbKpDrAHD8KAaEKK4rnnacm5bFshGUIhJrZUlV5YAiJ0WuZBIBtwJQ91BVt0FQ4FFGIFRUj9cLsYZpHlYhrczy3EQ4TckAuWQKJYEgjbVMywmssMlXkFamKBzZnkdi5Gt-pvGUOyOd46oyrv3Jpcw1tITqFL5NrTMlroDZmWrCY9vUSezLJYSJ6NU-2DAFRe0DqlKDc_SEpJq6YQTi9LBq44UcCLFf0ZmUJEAAuCT2pJRXFV4ng9goRdCjzQvDMCCdwwByCNwkpcVhYeoFJmfimrqUBwrVBlwiSkkASG-EYoBc4oYj57Ys0Lk4FSeZiEkccmaJRAfVbjke4Cq6CZcXFcPW6KZTB0qZ4ebUL8MQVE-g-ZnCJZxc8dSkwtdkB5Vfmf3m7MKPX18W-7-ZwxfvPjEnDLtwK4pSC5Z3LDjGlrkT9UZs62qIJ7jszfVZtv3_zma51h8ss_MvD_H80lH_ubTa6zgn7Ruf935p3deX4ePv3LfN3nV2dtvCO9FWZE7ssjfqKWxnywoMK0lv271LLLsZQWgBPInC3rn-Ers4BPTDsP5J15orzeV7wrVXH598aG10G6cPvLC90V9Z7bKtK1EwnoTdnf2ZB-tvf66vLrLtnXERhVFQdu8rfx--__NzfbnTmRY9-n3KGwdNZu_o2ZtWu80sNIRmu7HWPM9UjbmnM_M3QnMyDgdb_2UPWsw_g0m4dTkEAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewULkQGVYV8Nz0AN5rICdb7E.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Birla+Industrial+%26+Technological+Museum&stick=H4sIAAAAAAAAAE2TvYvcRhjGVwu37Oru4HYPk7BN1gdJzBFYfWvl5oy_gokPQ7wQ0kSRRl8rjaTRzJy-moAbFy5sXPgPcGVI_gGb4CLgImdw4SJNIEUCgVTujBvb2TWaSVQInvnN-77PPCMNtw7EeTqX3LotqkI5-03k0Fl6QvyTlMwc7M9o5K_fq2z2VQ4ThzqnwmizXzW1JDsV_lfLga5gBtIIetKpsD0P5zLFCBkG7ZBi4rLQToXdDZIDD6bQBQmDRWACvRNAkhcFYMSIInXdcWdTVuhu2qhI7SZrpqmnHIUERZrHBkQtgHaM2q4NgoqMSgahYcayXasdJFXWZryyrCoPUUKYgUrzlIZBQAqrtCoGW-rJLeSVBGWLII6ZRomVlJbMebiwJaltii6fSisj18J8Tp0EPDpPk2pY_jcVyzTwbKYTvYEQq3GXQwAJqLscUEtcKbQx2-rZrpuqm8vqglcqoBRJyz0ZOEUAREzHGpFNQ7aZkQARBGPevHZdF3IfLtAzEGHCi7Pas2vK7iTybK1KDT4bSFjVcApYb4QKgCKWRqhXga5wX5JJcalSpjPJa5Aaoi6tMAZSyw8RyarhBhY_NAmhVrpRxfNyXcWMFb6_NCQs6a3MQ6oTSw9R86dwu7-998-bP_anb4X7P_36m_BaEPeu5znxYfO1Dx3qe8t8shAHVzK6os1kZyqKww_fbFlZ09mBuPv4Pt0983T6o3Y4GYWvh9d-v_XGGv_8Bbz7t_TXpcmX4vZNny7z49xbBc1kMTHE0bGfuj4mN4LJp6J4KYfQB3SVZ5OPpmfE_TngC_PuJz3fP9c_-Fa5-uTlgxeDC-Pe-oGf3LwwPXc4FgeX89RZZePl7a3vj569OjrcF4dLp86zPG3G3xnvf3j-7tXRwWi0Kbrzds179_rCraePfhkMh8JeT-kPe-f7Hwttb-fh1ucXVxg6s2uZd0IoXjlw9tls6YMoy2EersBaH38wdG8g_AuLck8JVAQAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EAo",
-     "name": "Birla Industrial & Technological Museum",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Birla+Industrial+%26+Technological+Museum&stick=H4sIAAAAAAAAAE2TvYvcRhjGVwu37Oru4HYPk7BN1gdJzBFYfWvl5oy_gokPQ7wQ0kSRRl8rjaTRzJy-moAbFy5sXPgPcGVI_gGb4CLgImdw4SJNIEUCgVTujBvb2TWaSVQInvnN-77PPCMNtw7EeTqX3LotqkI5-03k0Fl6QvyTlMwc7M9o5K_fq2z2VQ4ThzqnwmizXzW1JDsV_lfLga5gBtIIetKpsD0P5zLFCBkG7ZBi4rLQToXdDZIDD6bQBQmDRWACvRNAkhcFYMSIInXdcWdTVuhu2qhI7SZrpqmnHIUERZrHBkQtgHaM2q4NgoqMSgahYcayXasdJFXWZryyrCoPUUKYgUrzlIZBQAqrtCoGW-rJLeSVBGWLII6ZRomVlJbMebiwJaltii6fSisj18J8Tp0EPDpPk2pY_jcVyzTwbKYTvYEQq3GXQwAJqLscUEtcKbQx2-rZrpuqm8vqglcqoBRJyz0ZOEUAREzHGpFNQ7aZkQARBGPevHZdF3IfLtAzEGHCi7Pas2vK7iTybK1KDT4bSFjVcApYb4QKgCKWRqhXga5wX5JJcalSpjPJa5Aaoi6tMAZSyw8RyarhBhY_NAmhVrpRxfNyXcWMFb6_NCQs6a3MQ6oTSw9R86dwu7-998-bP_anb4X7P_36m_BaEPeu5znxYfO1Dx3qe8t8shAHVzK6os1kZyqKww_fbFlZ09mBuPv4Pt0983T6o3Y4GYWvh9d-v_XGGv_8Bbz7t_TXpcmX4vZNny7z49xbBc1kMTHE0bGfuj4mN4LJp6J4KYfQB3SVZ5OPpmfE_TngC_PuJz3fP9c_-Fa5-uTlgxeDC-Pe-oGf3LwwPXc4FgeX89RZZePl7a3vj569OjrcF4dLp86zPG3G3xnvf3j-7tXRwWi0Kbrzds179_rCraePfhkMh8JeT-kPe-f7Hwttb-fh1ucXVxg6s2uZd0IoXjlw9tls6YMoy2EersBaH38wdG8g_AuLck8JVAQAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewdxmQrBybTGzadKQB-AFr90.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Victoria+Memorial&stick=H4sIAAAAAAAAAEWTu4vUQBzHNwu37Obu4HYPUbZxXRDkEDbvbGxOOB-IHoK3KDbGzeS1ySSZJGNejXCNhYVyhX-AlaD_gCIWgoUnWFjYCBYKgtV1xzU-diUzpkjyy-f3-M53Mu2lYWcUjDhRlYVEOHXLneJBcC-17gXpYJpYA-xa8_ssHFyNoD_F032mTpf8cJ9hF-9GUcV5TMG8DwGBC01un1keOSMeJwgpCq6RoCZZLO0zqwvE2yYMoAF8AmNbBXIdAI4fx4AQxXXFeceVRVksG0EpIrGeLKmqHFDkpMiVTDLArQDUPVTVbRAUeJQRCBXV4_VCrGGah1VIK7M8NxFOUyIgl0yhJBCksZZpOYEVNvkK0soUhWPb80iMfM3PNJ5yZ6xzXFXGtT-5lLmGltA5hW9T60yJK2D2f2rCY9vUSezLJYSJ6NU-2DAFRe0DqlKDc_SEpJq6YQTiYrNq44UcCLFfUU1KEiAAXBJ7UsqrCq8TITZKEfRo88IwDEh1GEAOgZuktDgsTL3AZE9cU5fyQKGzAZeIUhIA0huhGCCXuOHIuS0LVBen4iQTMYlDziyR6KDaLccDXEUX4fKiYtgaXXTqQCkz3Jz6ZRiC6gk0P1O4hJMrnppU-JrsoPIb86C5vPbz6Ot6_xez9-L9Z-aQYdeuRVFqwfKGBafYMidRb8y2LoZ4hsveSp9l2__-2SzX-oMhu_pyD68ee9N_Lm30Os5h-8qX3SOt-_osfPSD-77Vu8wu71h4Em1H5swue-Oewna2rcCwkvS63TvNslsRhBbAsyjsHe8fY9dHgH4Y1Yf0XPNMc3hbuPTq05OPrfPdxvyCJ3fO989sdNnWhSiYzsLu5MHS3c13B5sb62x7Mi2iMArK7h3lz_0Pvw82h53OoujhrzlvPG4yu2-evW2128xaQ2i2G-eaJ5iqsfJ0qXtzBnCUzKaDucLFEz5uMX8BMQTpXj0EAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EA8",
-     "name": "Victoria Memorial",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Victoria+Memorial&stick=H4sIAAAAAAAAAEWTu4vUQBzHNwu37Obu4HYPUbZxXRDkEDbvbGxOOB-IHoK3KDbGzeS1ySSZJGNejXCNhYVyhX-AlaD_gCIWgoUnWFjYCBYKgtV1xzU-diUzpkjyy-f3-M53Mu2lYWcUjDhRlYVEOHXLneJBcC-17gXpYJpYA-xa8_ssHFyNoD_F032mTpf8cJ9hF-9GUcV5TMG8DwGBC01un1keOSMeJwgpCq6RoCZZLO0zqwvE2yYMoAF8AmNbBXIdAI4fx4AQxXXFeceVRVksG0EpIrGeLKmqHFDkpMiVTDLArQDUPVTVbRAUeJQRCBXV4_VCrGGah1VIK7M8NxFOUyIgl0yhJBCksZZpOYEVNvkK0soUhWPb80iMfM3PNJ5yZ6xzXFXGtT-5lLmGltA5hW9T60yJK2D2f2rCY9vUSezLJYSJ6NU-2DAFRe0DqlKDc_SEpJq6YQTiYrNq44UcCLFfUU1KEiAAXBJ7UsqrCq8TITZKEfRo88IwDEh1GEAOgZuktDgsTL3AZE9cU5fyQKGzAZeIUhIA0huhGCCXuOHIuS0LVBen4iQTMYlDziyR6KDaLccDXEUX4fKiYtgaXXTqQCkz3Jz6ZRiC6gk0P1O4hJMrnppU-JrsoPIb86C5vPbz6Ot6_xez9-L9Z-aQYdeuRVFqwfKGBafYMidRb8y2LoZ4hsveSp9l2__-2SzX-oMhu_pyD68ee9N_Lm30Os5h-8qX3SOt-_osfPSD-77Vu8wu71h4Em1H5swue-Oewna2rcCwkvS63TvNslsRhBbAsyjsHe8fY9dHgH4Y1Yf0XPNMc3hbuPTq05OPrfPdxvyCJ3fO989sdNnWhSiYzsLu5MHS3c13B5sb62x7Mi2iMArK7h3lz_0Pvw82h53OoujhrzlvPG4yu2-evW2128xaQ2i2G-eaJ5iqsfJ0qXtzBnCUzKaDucLFEz5uMX8BMQTpXj0EAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewSRCMOcjxGx4_19JzPQo0PA.png",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Netaji+Bhawan&stick=H4sIAAAAAAAAAEWTTWvUQBjHNwtddtMWuluKshfXgiBF2Lxn00vF-oL4BrYgXozJ5G2TSTJJxrxdhF48eFA8-AE8CfoFFPEgeLCCBw9eBA8KgqfexEvVbs2MOQw883v-z_PMfybduVV2HI45M_SgxQnHb3gGHoV3MvtOmI2M1B5hzz5Yp9HoUgwDAxu7TG-WL6pSEO0y_7RlnRQJBbKQEnBYdJeZH7tjHqcIKQpukKCmeSLtMoszxDsWDKEJAgITRwVyEwCOnySAEMXzxIOKCzNZIpthJSKx6SypqhxS5GbIkyzSwKsB1H1UN2UQFHiUEwgV1ef1UmxgVkR1RJV5UVgIZxkZoJAsoSIQZImWawWBNbb4GlJlhqKJ4_skRoEW5BpPuTvROa6uksafQso9U0tpnzJwqHWWxJUw_9815bFj6SQO5ArCVPQbHxyYgbLxAdWZybl6SlIt3TRDcXZZjfFCAYQkqOlMShoiADwS-1LGqwqvk0EclCHo0-KlaZqQzmECOQJemlFxVFp6icmdeJYuFaFCewMuFaU0BKQ2QglAHnHDlQtHFuhcnIrTXMQkjjirQqKLGrdcH3A1PYTHi4rpaPTQmQul3PQK6pdpCqov0Pxc4VJOrnlqUhlosouqr8y99vzSj19flof7zKPn7z4xPxl26XIcZzasrtvQwLa1HQ8mbOdchKe4GiwMWbZ7-GbzQhuOVtnFF4_w4srr4TNpbdBzf3Yvft75pfVfnYIPvnPfNgcX2PktG2_HV2Jr6lSDyUBhe1fs0LTT7JozOMGymzGENsDTOBocGa6wy2NAN8bNT7rePtlevSmcf_nx8YfO6X7r4IPHtk4PT6712c7ZODSmUX_73tztjbd7G2vLbHfbKOMoDqv-LeXP3fe_9zZWe72Z6P7-AW89bDM7r5--6XS7zFJLaHdb6-2jTN1aeDK3eNXGhj8dnfGMwogedpi_JvX3QToEAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EBQ",
-     "name": "Netaji Bhawan",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Netaji+Bhawan&stick=H4sIAAAAAAAAAEWTTWvUQBjHNwtddtMWuluKshfXgiBF2Lxn00vF-oL4BrYgXozJ5G2TSTJJxrxdhF48eFA8-AE8CfoFFPEgeLCCBw9eBA8KgqfexEvVbs2MOQw883v-z_PMfybduVV2HI45M_SgxQnHb3gGHoV3MvtOmI2M1B5hzz5Yp9HoUgwDAxu7TG-WL6pSEO0y_7RlnRQJBbKQEnBYdJeZH7tjHqcIKQpukKCmeSLtMoszxDsWDKEJAgITRwVyEwCOnySAEMXzxIOKCzNZIpthJSKx6SypqhxS5GbIkyzSwKsB1H1UN2UQFHiUEwgV1ef1UmxgVkR1RJV5UVgIZxkZoJAsoSIQZImWawWBNbb4GlJlhqKJ4_skRoEW5BpPuTvROa6uksafQso9U0tpnzJwqHWWxJUw_9815bFj6SQO5ArCVPQbHxyYgbLxAdWZybl6SlIt3TRDcXZZjfFCAYQkqOlMShoiADwS-1LGqwqvk0EclCHo0-KlaZqQzmECOQJemlFxVFp6icmdeJYuFaFCewMuFaU0BKQ2QglAHnHDlQtHFuhcnIrTXMQkjjirQqKLGrdcH3A1PYTHi4rpaPTQmQul3PQK6pdpCqov0Pxc4VJOrnlqUhlosouqr8y99vzSj19flof7zKPn7z4xPxl26XIcZzasrtvQwLa1HQ8mbOdchKe4GiwMWbZ7-GbzQhuOVtnFF4_w4srr4TNpbdBzf3Yvft75pfVfnYIPvnPfNgcX2PktG2_HV2Jr6lSDyUBhe1fs0LTT7JozOMGymzGENsDTOBocGa6wy2NAN8bNT7rePtlevSmcf_nx8YfO6X7r4IPHtk4PT6712c7ZODSmUX_73tztjbd7G2vLbHfbKOMoDqv-LeXP3fe_9zZWe72Z6P7-AW89bDM7r5--6XS7zFJLaHdb6-2jTN1aeDK3eNXGhj8dnfGMwogedpi_JvX3QToEAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewezZBDtqMeXCuUno-abjFW0.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Nehru+Children%27s+Museum&stick=H4sIAAAAAAAAAE2TzYvUSBjGOw3TdGdmYLqHwaUv9g6IMgid73S8jDDuLouOC-uAeDF2Kl-dVJJKVU2-LoIXDx5WPOwf4ElY_wFFPCzswVnYgwcvggcFwZM38eLHtKTKzSHkza_e93nqqaS_sr06DaYyxQgZBlV-vBrO6SQ5JN5hQiZz7E1o6B3fF-nkYgbjOZ0fCYNpMpVUU4vTI0FcPjtVk5c5B7qCGUhC6EpHwv8lWqSYuMi1I2F9iWTfhQl0QMxg7ptAbwsgybMcMGKEoXo8cW3ZlutOUqtIbZU109QTjgKCQs1lAmEDoB2hph2DoCKjgkFomJFsV2oLSZk2Ke8sytJFlBBmoNRcpWYQkNwqrJLBhrpyA3knQenMjyJWo9iKC0vmPJjZktTUeZtPqRWhY2GuU8U-j87VpAoW31WxTH3XZnWs1xBiNWpz8CEBVZsDaogjBTZmS13bcRJ1eVht8EoJlDxuuCcDJwiAkNWRRmTTkG1mxEcEwYgPrxzHgdyHA_QUhJjw5rRy7YqyMwldWysTg2sDCasaTgCbjVAOUMjSCPTS1xXuSzIpLlTK6lRya6QGqE0riIDU8E2Esmo4vsU3TQKoFU5Y8rwcRzEjha8vDAlLeiPzkKrY0gNUvxZud1c33n18tTn-JNx7-OyF8EEQNy5lGfFg_bsH59RzD7LRTOz9lNIFrUdrY1Hsf_tmi9IaT7bF9Uf36PrW0_Ff2s5oEHzo__ry1kdr-OQs_OOt9GZv9Iu4esWjB9l-5i78ejQbGeJg30scD5Pf_NEpUdzLIPQAXWTp6MR4S9ycAv5i2v6k57pnutvXlJ8fP__zv975Yef4gievnB-f2RmKvQtZMl-kw4PbKzd2_3m_u7Mp9g_mVZZmST28bny5-e_n97vbg8Gy6c6nY9652xVuPX3wd6_fFzY6SrffOdf9QWg6a_dXTlz2Qnw42QsX0MVeeppM9r8ZuNsTvgK1SSoaRQQAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EBk",
-     "name": "Nehru Children's Museum",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nehru+Children%27s+Museum&stick=H4sIAAAAAAAAAE2TzYvUSBjGOw3TdGdmYLqHwaUv9g6IMgid73S8jDDuLouOC-uAeDF2Kl-dVJJKVU2-LoIXDx5WPOwf4ElY_wFFPCzswVnYgwcvggcFwZM38eLHtKTKzSHkza_e93nqqaS_sr06DaYyxQgZBlV-vBrO6SQ5JN5hQiZz7E1o6B3fF-nkYgbjOZ0fCYNpMpVUU4vTI0FcPjtVk5c5B7qCGUhC6EpHwv8lWqSYuMi1I2F9iWTfhQl0QMxg7ptAbwsgybMcMGKEoXo8cW3ZlutOUqtIbZU109QTjgKCQs1lAmEDoB2hph2DoCKjgkFomJFsV2oLSZk2Ke8sytJFlBBmoNRcpWYQkNwqrJLBhrpyA3knQenMjyJWo9iKC0vmPJjZktTUeZtPqRWhY2GuU8U-j87VpAoW31WxTH3XZnWs1xBiNWpz8CEBVZsDaogjBTZmS13bcRJ1eVht8EoJlDxuuCcDJwiAkNWRRmTTkG1mxEcEwYgPrxzHgdyHA_QUhJjw5rRy7YqyMwldWysTg2sDCasaTgCbjVAOUMjSCPTS1xXuSzIpLlTK6lRya6QGqE0riIDU8E2Esmo4vsU3TQKoFU5Y8rwcRzEjha8vDAlLeiPzkKrY0gNUvxZud1c33n18tTn-JNx7-OyF8EEQNy5lGfFg_bsH59RzD7LRTOz9lNIFrUdrY1Hsf_tmi9IaT7bF9Uf36PrW0_Ff2s5oEHzo__ry1kdr-OQs_OOt9GZv9Iu4esWjB9l-5i78ejQbGeJg30scD5Pf_NEpUdzLIPQAXWTp6MR4S9ycAv5i2v6k57pnutvXlJ8fP__zv975Yef4gievnB-f2RmKvQtZMl-kw4PbKzd2_3m_u7Mp9g_mVZZmST28bny5-e_n97vbg8Gy6c6nY9652xVuPX3wd6_fFzY6SrffOdf9QWg6a_dXTlz2Qnw42QsX0MVeeppM9r8ZuNsTvgK1SSoaRQQAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewVPYgkalBcBeL4lipBPEPAI.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=State+Archaeological+Museum&stick=H4sIAAAAAAAAAEWTO4vUUBiGJwM7zGR3YWeWRRkLxwVBFmFyz8RmFW-ILoK7IDbG5OQ2yUlykhxza4RttrBQLPwBVoL-AUUsBAtXsLCwESwUBCs7sfEys-YcUwS-83zvd3lP0l1YZ8fhmBPUNE8k4dh1z8Cj8HZm3w6zkZHaI-zZs_c0Gl2OYWBgY5_pzfNFVQqifeZAa5Z1UiQUyEJKQOhBi9tnFsfumMcpQoqCG_Sv3z6zPEe8Y8EQmiAgMHFUIDcB4PhJAghRPE-cVVyayxLZDCsRiU1nSVXlkCI3Q55kkQZeDaDuo7opg6DAo5xAqKg-r5diA7MiqiOqzIvCQjjLyACFZAkVgSBLtFwrCKyxxdeQKjMUTRzfJzEKtCDXeMrdic5xdZU0_hRS7plaSvuUgUOtsySuhPn_rimPHUsncSBXEKai3_jgwAyUjQ-ozkzO1VOSaummGYrzy2qMFwogJEFNZ1LSEAHgkdiXMl5VeJ0M4qAMQZ8WL03ThHQOE8gR8NKMiqPS0ktM7sSzdKkIFdobcKkopSEgtRFKAPKIG65cOLJA5-JUnOYiJnHEWRUSXdS45fqAq-kSHi8qpqPRpTMXSrnpFdQv0xRUX6D5ucKlnFzz1KQy0GQXVZ-Zvfbiyrefn1aHv5gHT998YH4w7MqVOM5sWF2zoYFtayceTNjO-QhPcTVYGrJs9-CbzQttOFpnl589wMtrL4dPpI1Bz_3RvfRx96fWf3ES3vvKfTk7uMgubtt4J96KralTDSYDhe1t2aFpp9lVZ3CcZc_GENoAT-NocGi4xq6OAT0YNz_pqfaJ9voN4cLz9w_fdU73W7MHHt0-PTyx0Wc75-LQmEb9nb2FW5uvv29urLLdHaOMozis-jeVP3fe_v6-ud7rzUV3f814636b2X35-FWn22VWWkK72zrVPszUraVHC0e28Wzf0ZkUeIYdw9idAgOOtg6GuN9h_gLu-wtYSAQAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EB4",
-     "name": "State Archaeological Museum",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Archaeological+Museum&stick=H4sIAAAAAAAAAEWTO4vUUBiGJwM7zGR3YWeWRRkLxwVBFmFyz8RmFW-ILoK7IDbG5OQ2yUlykhxza4RttrBQLPwBVoL-AUUsBAtXsLCwESwUBCs7sfEys-YcUwS-83zvd3lP0l1YZ8fhmBPUNE8k4dh1z8Cj8HZm3w6zkZHaI-zZs_c0Gl2OYWBgY5_pzfNFVQqifeZAa5Z1UiQUyEJKQOhBi9tnFsfumMcpQoqCG_Sv3z6zPEe8Y8EQmiAgMHFUIDcB4PhJAghRPE-cVVyayxLZDCsRiU1nSVXlkCI3Q55kkQZeDaDuo7opg6DAo5xAqKg-r5diA7MiqiOqzIvCQjjLyACFZAkVgSBLtFwrCKyxxdeQKjMUTRzfJzEKtCDXeMrdic5xdZU0_hRS7plaSvuUgUOtsySuhPn_rimPHUsncSBXEKai3_jgwAyUjQ-ozkzO1VOSaummGYrzy2qMFwogJEFNZ1LSEAHgkdiXMl5VeJ0M4qAMQZ8WL03ThHQOE8gR8NKMiqPS0ktM7sSzdKkIFdobcKkopSEgtRFKAPKIG65cOLJA5-JUnOYiJnHEWRUSXdS45fqAq-kSHi8qpqPRpTMXSrnpFdQv0xRUX6D5ucKlnFzz1KQy0GQXVZ-Zvfbiyrefn1aHv5gHT998YH4w7MqVOM5sWF2zoYFtayceTNjO-QhPcTVYGrJs9-CbzQttOFpnl589wMtrL4dPpI1Bz_3RvfRx96fWf3ES3vvKfTk7uMgubtt4J96KralTDSYDhe1t2aFpp9lVZ3CcZc_GENoAT-NocGi4xq6OAT0YNz_pqfaJ9voN4cLz9w_fdU73W7MHHt0-PTyx0Wc75-LQmEb9nb2FW5uvv29urLLdHaOMozis-jeVP3fe_v6-ud7rzUV3f814636b2X35-FWn22VWWkK72zrVPszUraVHC0e28Wzf0ZkUeIYdw9idAgOOtg6GuN9h_gLu-wtYSAQAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewTcK_ITIO1WKO3DS6-URWGI.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=The+RBI+Museum&stick=H4sIAAAAAAAAAFWTvYvUQBjGNwu37Obu5HaPQ9nGdUGQQ9h8Z2Nz4ieHHoK3IDbGzeRrk0kyScZ8NcI1V1goFv4BVoL-A4pcIVh4goWFjWChIFhdJzZ-3EpmxBQhT37zvs87zyTtheHyyBnxvG3CABrAF07ccKd4ENxJrTtBOpgm1gC71uF9Fg6uRNCf4uk-0xkFI05UJT_cZ9j5s1FUcR5TIAsJAYELTW6fWZyb4AQhRcE1EtQki6V95n9_AmNbBXItAMePY0CI4rriYceleVksG0EpIrF2llRVDihyUuRKJjFwKwB1D1V1GwQFHmUEQkX1eL0Qa5jmYRXSyizPTYTTlAyQS6ZQEgjSWMu0nMAKm3wFaWWKwrHteUQjX_MzjafcGescV5VxnU8uZa6hJdSn8G0anSlxBcz-uSY8tk2daF8uIUxEr87Bhiko6hxQlRqcoydkqakbRiDOD6sOXsiBEPsVnUlJAgSAS7Qnpbyq8DoZxEYpgh5tXhiGAekcBpBD4CYpLQ4LUy8wORPX1KU8UKg34BJRSgJAeiMUA-SSNBw5t2WBzsWpOMlETHTImSUSHVSn5XiAq-gmXF5UDFujm04dKGWGm9O8DENQPYGuzxQu4eSKpyEVviY7qPzM7DYXV779-LTa_8k8fPbmA_OdYVeuRlFqwfK6BafYMidRb8y2LoZ4hsveUp9l23-_2SzX-oMhu_z8IV5e2-s_ldZ7Hed7e_Pjzg-t-_I0vP-V-3K-d5ld3LbwJNqKzJld9sY9he1sWYFhJek1u3eSZc9HEFoAz6Kwd7S_xq6OAH0xqn_SM81TzeFN4dKL94_etc52G4cXPL59tn9qvcu2LkTBdBZ2J7sLtzdeH2ysr7LtybSIwigou7eU33ff_jrYGHY686J7Pw9540GT2dl78qrVbjMrDaHZbpxpHmOqxtLjhSMT1xpcP7c52Prr-6DF_AFXMYg8PgQAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8ECM",
-     "name": "The RBI Museum",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+RBI+Museum&stick=H4sIAAAAAAAAAFWTvYvUQBjGNwu37Obu5HaPQ9nGdUGQQ9h8Z2Nz4ieHHoK3IDbGzeRrk0kyScZ8NcI1V1goFv4BVoL-A4pcIVh4goWFjWChIFhdJzZ-3EpmxBQhT37zvs87zyTtheHyyBnxvG3CABrAF07ccKd4ENxJrTtBOpgm1gC71uF9Fg6uRNCf4uk-0xkFI05UJT_cZ9j5s1FUcR5TIAsJAYELTW6fWZyb4AQhRcE1EtQki6V95n9_AmNbBXItAMePY0CI4rriYceleVksG0EpIrF2llRVDihyUuRKJjFwKwB1D1V1GwQFHmUEQkX1eL0Qa5jmYRXSyizPTYTTlAyQS6ZQEgjSWMu0nMAKm3wFaWWKwrHteUQjX_MzjafcGescV5VxnU8uZa6hJdSn8G0anSlxBcz-uSY8tk2daF8uIUxEr87Bhiko6hxQlRqcoydkqakbRiDOD6sOXsiBEPsVnUlJAgSAS7Qnpbyq8DoZxEYpgh5tXhiGAekcBpBD4CYpLQ4LUy8wORPX1KU8UKg34BJRSgJAeiMUA-SSNBw5t2WBzsWpOMlETHTImSUSHVSn5XiAq-gmXF5UDFujm04dKGWGm9O8DENQPYGuzxQu4eSKpyEVviY7qPzM7DYXV779-LTa_8k8fPbmA_OdYVeuRlFqwfK6BafYMidRb8y2LoZ4hsveUp9l23-_2SzX-oMhu_z8IV5e2-s_ldZ7Hed7e_Pjzg-t-_I0vP-V-3K-d5ld3LbwJNqKzJld9sY9he1sWYFhJek1u3eSZc9HEFoAz6Kwd7S_xq6OAH0xqn_SM81TzeFN4dKL94_etc52G4cXPL59tn9qvcu2LkTBdBZ2J7sLtzdeH2ysr7LtybSIwigou7eU33ff_jrYGHY686J7Pw9540GT2dl78qrVbjMrDaHZbpxpHmOqxtLjhSMT1xpcP7c52Prr-6DF_AFXMYg8PgQAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewfyabZ7jW8aIEkbUgo3IlMA.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Ashutosh+Memorial+Hall&stick=H4sIAAAAAAAAAEWTzWvcRhjGVwtedmUbvGuclr1kaygEU1h9a-WLE5I2CY0pxIaQS1Rp9LXSSBppxvq6BHLJoYeGHPoH5FRo_oGEkEOgh7rQQw-5FHpoIJCTb8YXJ901mokOgnd-87zvM89I_ZVtfhpPBSnzdKBKX90LLDKJj7B7FOOJlbsTEriL9zyZfJ_CyCLWMTdY7pd1JUqOuQutXTVZmTGgSjkFcQAd4ZhbnfpTkeQIaRppkaTnRaYcc-tLJHoOjKENIgovzLQFEMRZBijRgkBedFxbyjLVjmsZye1kRdfVmCEfo0Bx6ICgAdAMUdO2QVASUUEh1PRQNCu5hbhMmoQpi7J0EMGYGigVR6opBDgzCqOksCGO2ECmxCiZeWFIaxQZUWGIjPszUxCaOmvzKZUisI2czakij0XnKEIFi89Tc5F4jknrSK0hzOWwzcGDGFRtDqjBtuCbOd3qmLYdy8vLaoOXSiBlUcM8aXmMAAhoHSpY1DXRpEY8hBEMWfPKtm3IfNhATUCQYyZOKsesCL2TwDGVMtbYbCDkspLHgPZGKAMooGn4aumpEvMl6CQvZELrRHBqJPuoTcsPgdCwQwSirNmewQ6NfagUdlCyvGxb0kOJ7S80IRfURmQhVZGh-qj-j3vcXd34cPbv5vice_r8j7fcKcdv3ElT7ML6rgst4jqH6WjG975NyJzUo7Uxz_cvvtmiNMaTbX79xVOyvvV6_JuyMxr4p_3b_zw6M4avvoE_vxfeXR_d5FcPXHKY7qfO3KtHs5HGD_bd2HZz_IM3-prnr6cQuoDM02T0xXiL35wCtjBtf9Ld7pXu9n3pu5d___JX7-qws3jg5YOr4ys7Q753I42teTI8fLzy497vJ3s7m3z_0KrSJI3r4QPt08M_P57sbQ8GS9FP5wveedLlHr3-9U2v3-c2OlK339ntfsk1nbVnK5eu4eCIpDiYLBym-dyCk1sWhE963P-Rtm0UQwQAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8ECg",
-     "name": "Ashutosh Memorial Hall",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ashutosh+Memorial+Hall&stick=H4sIAAAAAAAAAEWTzWvcRhjGVwtedmUbvGuclr1kaygEU1h9a-WLE5I2CY0pxIaQS1Rp9LXSSBppxvq6BHLJoYeGHPoH5FRo_oGEkEOgh7rQQw-5FHpoIJCTb8YXJ901mokOgnd-87zvM89I_ZVtfhpPBSnzdKBKX90LLDKJj7B7FOOJlbsTEriL9zyZfJ_CyCLWMTdY7pd1JUqOuQutXTVZmTGgSjkFcQAd4ZhbnfpTkeQIaRppkaTnRaYcc-tLJHoOjKENIgovzLQFEMRZBijRgkBedFxbyjLVjmsZye1kRdfVmCEfo0Bx6ICgAdAMUdO2QVASUUEh1PRQNCu5hbhMmoQpi7J0EMGYGigVR6opBDgzCqOksCGO2ECmxCiZeWFIaxQZUWGIjPszUxCaOmvzKZUisI2czakij0XnKEIFi89Tc5F4jknrSK0hzOWwzcGDGFRtDqjBtuCbOd3qmLYdy8vLaoOXSiBlUcM8aXmMAAhoHSpY1DXRpEY8hBEMWfPKtm3IfNhATUCQYyZOKsesCL2TwDGVMtbYbCDkspLHgPZGKAMooGn4aumpEvMl6CQvZELrRHBqJPuoTcsPgdCwQwSirNmewQ6NfagUdlCyvGxb0kOJ7S80IRfURmQhVZGh-qj-j3vcXd34cPbv5vice_r8j7fcKcdv3ElT7ML6rgst4jqH6WjG975NyJzUo7Uxz_cvvtmiNMaTbX79xVOyvvV6_JuyMxr4p_3b_zw6M4avvoE_vxfeXR_d5FcPXHKY7qfO3KtHs5HGD_bd2HZz_IM3-prnr6cQuoDM02T0xXiL35wCtjBtf9Ld7pXu9n3pu5d___JX7-qws3jg5YOr4ys7Q753I42teTI8fLzy497vJ3s7m3z_0KrSJI3r4QPt08M_P57sbQ8GS9FP5wveedLlHr3-9U2v3-c2OlK339ntfsk1nbVnK5eu4eCIpDiYLBym-dyCk1sWhE963P-Rtm0UQwQAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewfX_8kvVTWZKhubCA0cQHGg.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Science+City&stick=H4sIAAAAAAAAAEWTS2vUUBiGJwMdZtIpdKYUZTaOBaEUYXLPpJsK9YKoCLYgboyTk9skJ8lJcsxtI7hx4UJx4Q9wJegfUMSF4MIKLly4EVwoCK66K91Unak5xywC33m-97u8J2kvrLGjYMQBjh_HQDh9053gYXA3te4G6XCSWEPsWrP3NBxeiaA_wZM9pjPPF1XJD_eYY61RVHEeUyALCQGBC01uj1kcOSMeJwgpCq6RoCZZLO0xS3PE2yYMoAF8AmNbBXId_JuMEMV1xVnF7lwWy0ZQikisO0uqKgcUOSlyJZM0cCsAdQ9VdRkEBR5lBEJF9Xi9EGuY5mEVUmWW5ybCaUoGyCVTKAkEaaxlWk5ghU2-glSZonBsex6Jka_5mcZT7ox1jqvKuPYnlzLX0BLap_Btap0pcQXM_ndNeGybOol9uYQwEb3aBxumoKh9QFVqcI6ekFRTN4xAnF9WbbyQAyH2KzqTkgQIAJfEnpTyqsLrZBAbpQh6tHhhGAakcxhADoGbpFQcFqZeYHInrqlLeaDQ3oBLRCkJAKmNUAyQS9xw5NyWBToXp-IkEzGJQ84skeig2i3HA1xFl3B5UTFsjS6dOlDKDDenfhmGoHoCzc8ULuHkiqcmFb4mO6j8zjxoLi7_Ovy2Mjhinrz88IU5YNjlq1GUWrC8YcEJtszdqD9mWxdCPMVlvztg2fbxN5vl2mC4xi69eoKXVt8OXkgb_Y5z0L789f6h1ntzFj76yf3Y7l9iF3csvBtdi8ypXfbHfYXtXLMCw0rS63b_DMtuRxBaAE-jsH9isMqujAA9GNU_6WZzvbl2S7j4-vPTT61zvcbsgad2zg3WN3ps63wUTKZhb_fBwp2t9_tbGytse3dSRGEUlL3byp97H3_vb611OnPRw6MZbzxuMvffPn_XareZ5YbQbDc2myeZqtF9ttDdAVMrBNZwe7bp4xbzF0fgfxk5BAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EC0",
-     "name": "Science City",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Science+City&stick=H4sIAAAAAAAAAEWTS2vUUBiGJwMdZtIpdKYUZTaOBaEUYXLPpJsK9YKoCLYgboyTk9skJ8lJcsxtI7hx4UJx4Q9wJegfUMSF4MIKLly4EVwoCK66K91Unak5xywC33m-97u8J2kvrLGjYMQBjh_HQDh9053gYXA3te4G6XCSWEPsWrP3NBxeiaA_wZM9pjPPF1XJD_eYY61RVHEeUyALCQGBC01uj1kcOSMeJwgpCq6RoCZZLO0xS3PE2yYMoAF8AmNbBXId_JuMEMV1xVnF7lwWy0ZQikisO0uqKgcUOSlyJZM0cCsAdQ9VdRkEBR5lBEJF9Xi9EGuY5mEVUmWW5ybCaUoGyCVTKAkEaaxlWk5ghU2-glSZonBsex6Jka_5mcZT7ox1jqvKuPYnlzLX0BLap_Btap0pcQXM_ndNeGybOol9uYQwEb3aBxumoKh9QFVqcI6ekFRTN4xAnF9WbbyQAyH2KzqTkgQIAJfEnpTyqsLrZBAbpQh6tHhhGAakcxhADoGbpFQcFqZeYHInrqlLeaDQ3oBLRCkJAKmNUAyQS9xw5NyWBToXp-IkEzGJQ84skeig2i3HA1xFl3B5UTFsjS6dOlDKDDenfhmGoHoCzc8ULuHkiqcmFb4mO6j8zjxoLi7_Ovy2Mjhinrz88IU5YNjlq1GUWrC8YcEJtszdqD9mWxdCPMVlvztg2fbxN5vl2mC4xi69eoKXVt8OXkgb_Y5z0L789f6h1ntzFj76yf3Y7l9iF3csvBtdi8ypXfbHfYXtXLMCw0rS63b_DMtuRxBaAE-jsH9isMqujAA9GNU_6WZzvbl2S7j4-vPTT61zvcbsgad2zg3WN3ps63wUTKZhb_fBwp2t9_tbGytse3dSRGEUlL3byp97H3_vb611OnPRw6MZbzxuMvffPn_XareZ5YbQbDc2myeZqtF9ttDdAVMrBNZwe7bp4xbzF0fgfxk5BAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewWHyYuQxF90sVv2uyQaU3vs.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Sabarna+Roy+Chowdhury+Sangrahashala&stick=H4sIAAAAAAAAAEWTvYvcRhjGVwu37Oru4HYPk7CNN2cC5gisvrVyc4ZzEoJjAr6DkCaKNPqYlUbSaGZOX43BjQsXMS7yB6QKJP9AQnARSJENpEiRJpAigUAqd8aNk9wemrEKwTu_ed73mWek8c6RvMyWimZBqCvaWx9Djy2yCxpeZHThkXDBYHj5XueLuwVKPeZtpMl2v24bab6RrrR-05V1KYCpEQ4yiAJlI-0u46XKCMaWxXqk2aQqjY20v0VqFKAM-SDlsIxsYPYFUNRVCTi5srmR9ray0vSzVsd6P9mwbTMTKKYYGgEfADuA3AR3fRuMNBVXHCLLTlS30XtI67zLhbKq6wAzSrmB2gi0lkNAS6dyag47FqgdEkqK81WUJLzGqZNWjip4vHIVpWvLPp_aqKDvEDGnSSMRXWAoDapeTyUqiwKX16nZIkT0pM8hQhQ0fQ64o74Su4RvDVzfz_TtZfXBazXQyrQTniySYQAgrxODqralutxIhClGiWje-L6PhA8fmDmAhApx3gRuw_idwMA16swSs4FCdINkgPfGuAQY8jRis45MTfhSbEYqnfE6V4IW6zHu04oToHTiEFDVLT9yxKFpjIzKh7XIy_c1O9HE_spSiGJ2qgipSR0zxu2f0qPh7sE_L_84nL-Snn7z02_SC0k--LAoaIja-yHyWBicF7OVPHo3Z2vWzvbmsjy--mar2pkvjuT9b5-y_WvP5l8bx7NJ_GL8we8PXzrT799Bn_-t_HU6e1_ePQvZeXGvCNZRO1vNLHlyL8z8kNCPotnbsnxaIBQCti7y2Rvza_LhEoiFZf-T3hreHB59or333a9f_DK6PR1cPuj62e35zeOpPLpTZN46n54_2vns5MfnJ8eH8vjca4q8yNrpp9Z_D37-9_nJ0WSyFT1-dckHT4bSw2df_TAaj6WDgTYcD24N35S6wd6XOzfOPN8jube4X7SLU1jUAbwg7eLMy2PiQY9CD3lPRtL_OCCGzFAEAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EDI",
-     "name": "Sabarna Roy Chowdhury Sangrahashala",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sabarna+Roy+Chowdhury+Sangrahashala&stick=H4sIAAAAAAAAAEWTvYvcRhjGVwu37Oru4HYPk7CNN2cC5gisvrVyc4ZzEoJjAr6DkCaKNPqYlUbSaGZOX43BjQsXMS7yB6QKJP9AQnARSJENpEiRJpAigUAqd8aNk9wemrEKwTu_ed73mWek8c6RvMyWimZBqCvaWx9Djy2yCxpeZHThkXDBYHj5XueLuwVKPeZtpMl2v24bab6RrrR-05V1KYCpEQ4yiAJlI-0u46XKCMaWxXqk2aQqjY20v0VqFKAM-SDlsIxsYPYFUNRVCTi5srmR9ray0vSzVsd6P9mwbTMTKKYYGgEfADuA3AR3fRuMNBVXHCLLTlS30XtI67zLhbKq6wAzSrmB2gi0lkNAS6dyag47FqgdEkqK81WUJLzGqZNWjip4vHIVpWvLPp_aqKDvEDGnSSMRXWAoDapeTyUqiwKX16nZIkT0pM8hQhQ0fQ64o74Su4RvDVzfz_TtZfXBazXQyrQTniySYQAgrxODqralutxIhClGiWje-L6PhA8fmDmAhApx3gRuw_idwMA16swSs4FCdINkgPfGuAQY8jRis45MTfhSbEYqnfE6V4IW6zHu04oToHTiEFDVLT9yxKFpjIzKh7XIy_c1O9HE_spSiGJ2qgipSR0zxu2f0qPh7sE_L_84nL-Snn7z02_SC0k--LAoaIja-yHyWBicF7OVPHo3Z2vWzvbmsjy--mar2pkvjuT9b5-y_WvP5l8bx7NJ_GL8we8PXzrT799Bn_-t_HU6e1_ePQvZeXGvCNZRO1vNLHlyL8z8kNCPotnbsnxaIBQCti7y2Rvza_LhEoiFZf-T3hreHB59or333a9f_DK6PR1cPuj62e35zeOpPLpTZN46n54_2vns5MfnJ8eH8vjca4q8yNrpp9Z_D37-9_nJ0WSyFT1-dckHT4bSw2df_TAaj6WDgTYcD24N35S6wd6XOzfOPN8jube4X7SLU1jUAbwg7eLMy2PiQY9CD3lPRtL_OCCGzFAEAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXewe8OpUG2UFKhzkPItIjRBN5JkN1qaFbfCk6jcVEVIBUu.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Arts+Acre+-+Art+Center+in+Kolkata&stick=H4sIAAAAAAAAAFWUTWvcRhjHVwtedmUbvGtMwl6yMQSCSVm9a-WLY9wXQmoKsaH0UnU1eltpJI1mJnq7BHzJIYeGHPoBeiokX6Al5FDooS7kkEMugR5aKPTkm8klbXeLZtroIObRb57n-c9_NNNf292YBlM5152kVpGqXP88nNNJcp949xMymWNvQkNv-V6kk7sZjOd0fi4MpslUUk0tTs8FcTV2qiYvcw50BTOQhNCVzoX1VQ-KETIM2iLFxEWunQubKyT7LkygA2IGc98EehsASZ7lgBEjDNVlxfdUt50109QTjgKCQs1lDcIGQDtCTVsGQUVGBYPQMCPZrtQWkjJtUp5ZlKWLKCFMQKm5Ss0gILlVWCWDDXXlBvJMgtKZH0UsRrEVF5bMeTCzJamp89afUitCx8K8TxX73DpXkypY_NcVy9R3bRbHeg0hVqPWBx8SULU-oIY4UmBjNtW1HSdRV5vVGq-UQMnjhmsycIIACFkcaUQ2DdlmQnxEEIx48cpxHMh1OEBPQYgJT04r164o25PQtbUyMXhvIGFVwwlgtRHKAQqZG4Fe-rrCdUkmxYVKWZxKbo3UALVuBRGQGr6IUFYNx7f4okkAtcIJS-6X4yhmpPD5hSFhSW9kblIVW3qA6t-Eh931rT_f_ro9fic8efbza-FSELc-zTLiwfqeB-fUc0-z0UzsfZTSBa1HG2NR7P_7zxalNZ7sipvfP6GbOy_GT7W90SC47N95c_bWGj6_Bb_-Q_r9aPSJuH7i0dPsOHMXfj2ajQxxcOwljofJZ_7ohigeZRB6gC6ydHRlvCNuTwH_MG0P6X73Znf3C-XjH15987J3e9hZPvDaye3xzb2h2PswS-aLdHj6cO2rg58uDva2xf7pvMrSLKmHXxp_P_jlr4uD3cFglfTo3ZJ3HneFsxff_djr94WtjtLtd_a7V4Wms_Ht2vVDTMnkECwvgw8my_HkyEuph_93MzzuCf8AFzQEVVAEAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EDc",
-     "name": "Arts Acre - Art Center in Kolkata",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Arts+Acre+-+Art+Center+in+Kolkata&stick=H4sIAAAAAAAAAFWUTWvcRhjHVwtedmUbvGtMwl6yMQSCSVm9a-WLY9wXQmoKsaH0UnU1eltpJI1mJnq7BHzJIYeGHPoBeiokX6Al5FDooS7kkEMugR5aKPTkm8klbXeLZtroIObRb57n-c9_NNNf292YBlM5152kVpGqXP88nNNJcp949xMymWNvQkNv-V6kk7sZjOd0fi4MpslUUk0tTs8FcTV2qiYvcw50BTOQhNCVzoX1VQ-KETIM2iLFxEWunQubKyT7LkygA2IGc98EehsASZ7lgBEjDNVlxfdUt50109QTjgKCQs1lDcIGQDtCTVsGQUVGBYPQMCPZrtQWkjJtUp5ZlKWLKCFMQKm5Ss0gILlVWCWDDXXlBvJMgtKZH0UsRrEVF5bMeTCzJamp89afUitCx8K8TxX73DpXkypY_NcVy9R3bRbHeg0hVqPWBx8SULU-oIY4UmBjNtW1HSdRV5vVGq-UQMnjhmsycIIACFkcaUQ2DdlmQnxEEIx48cpxHMh1OEBPQYgJT04r164o25PQtbUyMXhvIGFVwwlgtRHKAQqZG4Fe-rrCdUkmxYVKWZxKbo3UALVuBRGQGr6IUFYNx7f4okkAtcIJS-6X4yhmpPD5hSFhSW9kblIVW3qA6t-Eh931rT_f_ro9fic8efbza-FSELc-zTLiwfqeB-fUc0-z0UzsfZTSBa1HG2NR7P_7zxalNZ7sipvfP6GbOy_GT7W90SC47N95c_bWGj6_Bb_-Q_r9aPSJuH7i0dPsOHMXfj2ajQxxcOwljofJZ_7ohigeZRB6gC6ydHRlvCNuTwH_MG0P6X73Znf3C-XjH15987J3e9hZPvDaye3xzb2h2PswS-aLdHj6cO2rg58uDva2xf7pvMrSLKmHXxp_P_jlr4uD3cFglfTo3ZJ3HneFsxff_djr94WtjtLtd_a7V4Wms_Ht2vVDTMnkECwvgw8my_HkyEuph_93MzzuCf8AFzQEVVAEAAA"
-    },
-    {
-     "image": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/cOs_kMpuahUebQZl0WXeweeHMy6d5B75JttNOw35bBObuPxjoAEtsAodwHbDuxCL.jpeg",
-     "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Jorasanko+Thakurbari&stick=H4sIAAAAAAAAAEWTu4vcRhzHVwu37Oru4HYvJmYbrw8C5gis3lq5OYMfIQ8TiBdCmiia0WulkTSamdOrMbhx4cLGRf4AV4HkH0gILgIpcoEUKdIEUiQQSOXOuHGS20MzViH01ef3_I403jmaLLOlYti2mWlXP409tshOaXCa0YVHggWLg_P7Jl98WKDUY96ZdBGu20aan0ny9hk0XVmXApga4SCLka-cSbvLaKkygrFlsR5pNqlK40za3yI19FGGAEw5LEMbmr2AiroqISdWHOvnFfe2aaUJslbHet_5YgOBIopjw-cN4g4iN8FdXwYjTcUVh8iyE9Vt9B7SOu9ykVnVtY8ZpXyA2vC1lkNIS6dyag475qsdEpkU56swSbjGqZNWjip4tHIVpWvL3p_aqGLgENGnSUNhnW8oDaredCUqC32X69RsESJ60vsQIgqb3gfcUaBELuGhvgtApm8Pqzdeq6FWpp2YySIZhjDmOjGoaluqywcJMcUoEcUbAAAScwBo5jAmVCTnje82jJ9J7LtGnVmiN1SIbpAM8toYlxDH3I3IrENTE3MpNiOVzrjOFb_FeoR7t6IEKp1YIlZ1C4SOWJpGyKhAXAu_ANDsRBPxlaUQxexUYVKTOmaE2z-lh8Pdg39e_XE4fy09_ean36SXknzwUVHQALWfBMhjgb8uZit5dDtnG9bO9uayPL74ZqvamS-O5P1vn7L9S8_nXxvHs0n0cvz-7w9eOdPv30WP_1b-ujl7T969F7B1cbfwN2E7W80seXI3yEBA6Mfh7B1ZvlkgFEC2KfLZ2_NL8uESihfL_ie9Prw2PPpMu_Pdr1_-MroxHZxf6Mq9G_Nrx1N5dKvIvE0-XT_c-eLkxxcnx4fyeO01RV5k7fRz67_7P__74uRoMtkmPXp9zgdPhtKD51_9MBqPpYOBNhwPrg8vS91g79nOWx8UxKNenhaLdeylpwR4ZPNkJP0P610dukAEAAA&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ-BZ6BAg8EDw",
-     "name": "Jorasanko Thakurbari",
-     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jorasanko+Thakurbari&stick=H4sIAAAAAAAAAEWTu4vcRhzHVwu37Oru4HYvJmYbrw8C5gis3lq5OYMfIQ8TiBdCmiia0WulkTSamdOrMbhx4cLGRf4AV4HkH0gILgIpcoEUKdIEUiQQSOXOuHGS20MzViH01ef3_I403jmaLLOlYti2mWlXP409tshOaXCa0YVHggWLg_P7Jl98WKDUY96ZdBGu20aan0ny9hk0XVmXApga4SCLka-cSbvLaKkygrFlsR5pNqlK40za3yI19FGGAEw5LEMbmr2AiroqISdWHOvnFfe2aaUJslbHet_5YgOBIopjw-cN4g4iN8FdXwYjTcUVh8iyE9Vt9B7SOu9ykVnVtY8ZpXyA2vC1lkNIS6dyag475qsdEpkU56swSbjGqZNWjip4tHIVpWvL3p_aqGLgENGnSUNhnW8oDaredCUqC32X69RsESJ60vsQIgqb3gfcUaBELuGhvgtApm8Pqzdeq6FWpp2YySIZhjDmOjGoaluqywcJMcUoEcUbAAAScwBo5jAmVCTnje82jJ9J7LtGnVmiN1SIbpAM8toYlxDH3I3IrENTE3MpNiOVzrjOFb_FeoR7t6IEKp1YIlZ1C4SOWJpGyKhAXAu_ANDsRBPxlaUQxexUYVKTOmaE2z-lh8Pdg39e_XE4fy09_ean36SXknzwUVHQALWfBMhjgb8uZit5dDtnG9bO9uayPL74ZqvamS-O5P1vn7L9S8_nXxvHs0n0cvz-7w9eOdPv30WP_1b-ujl7T969F7B1cbfwN2E7W80seXI3yEBA6Mfh7B1ZvlkgFEC2KfLZ2_NL8uESihfL_ie9Prw2PPpMu_Pdr1_-MroxHZxf6Mq9G_Nrx1N5dKvIvE0-XT_c-eLkxxcnx4fyeO01RV5k7fRz67_7P__74uRoMtkmPXp9zgdPhtKD51_9MBqPpYOBNhwPrg8vS91g79nOWx8UxKNenhaLdeylpwR4ZPNkJP0P610dukAEAAA"
-    }
-   ],
-   "kolkata_link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Muziejai&stick=H4sIAAAAAAAAAEWTzWvUQBjGNwstu2kL3S1F2YtrQShF2Hxn00sL9QPRItgF8WLcTL42mSSTZJqvi9BLDx6UHvwDPAn6DyjSg-DBCh48eBE8KAieeiu9-NGVzJhDyJPfvO_zzjNJa0a4eNcd436wm1q7QdofJ1Yfu9bZfRL2b0bQH-PxEdMeBANOVCU_PGLY6bNRVHEeUyALCQGBC03uiJkbOAMeJwgpCq6RoCZZLB0xC1PE2yYMoAF8AmNbBXItAMcPY0CI4rriWcf5aVksG0EpIrF2llRVDihyUuRKJjFwKwB1D1V1GwQFHmUEQkX1eL0Qa5jmYRXSyizPTYTTlAyQS6ZQEgjSWMu0nMAKm3wFaWWKwqHteUQjX_MzjafcGeocV5VxnU8uZa6hJdSn8G0anSlxBcz-uyY8tk2daF8uIUxEr87Bhiko6hxQlRqcoydkqakbRiBOD6sOXsiBEPsVnUlJAgSAS7Qnpbyq8DoZxEYpgh5tXhiGAekcBpBD4CYpLQ4LUy8wORPX1KU8UKg34BJRSgJAeiMUA-SSNBw5t2WBzsWpOMlETHTImSUSHVSn5XiAq-gmXF5UDFujm04dKGWGm9O8DENQPYGuzxQu4eSKpyEVviY7qPzG7DfnFn-efl3q_WIOXr7_zJww7OKtKEotWN6x4Bhb5ijqDtnZqyGe4LI732PZ1r9vNsu1Xn-FXXh1gBeWD3svpLVu2zlp3fiyd6p13lyGj39w37e619m5HQuPou3InNhld9hV2Pa2FRhWkt62u5dYdiuC0AJ4EoXdc71ldmkA6ItB_ZOuN1ebK_eEa68_Pf04u9lpnF3wws5mb3Wtw85eiYLxJOyM9mcebLw73lhbYlujcRGFUVB27it_Hn74fbyx0m5Pix79OuONJ01m7_D529lWi1lsCM1WY715nqka889mWtu71cTyxpO_k5E3-iYEAAA&npsic=0&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1i96BAg8EAE",
-   "kolkata_stick": "H4sIAAAAAAAAAEWTzWvUQBjGNwstu2kL3S1F2YtrQShF2Hxn00sL9QPRItgF8WLcTL42mSSTZJqvi9BLDx6UHvwDPAn6DyjSg-DBCh48eBE8KAieeiu9-NGVzJhDyJPfvO_zzjNJa0a4eNcd436wm1q7QdofJ1Yfu9bZfRL2b0bQH-PxEdMeBANOVCU_PGLY6bNRVHEeUyALCQGBC03uiJkbOAMeJwgpCq6RoCZZLB0xC1PE2yYMoAF8AmNbBXItAMcPY0CI4rriWcf5aVksG0EpIrF2llRVDihyUuRKJjFwKwB1D1V1GwQFHmUEQkX1eL0Qa5jmYRXSyizPTYTTlAyQS6ZQEgjSWMu0nMAKm3wFaWWKwqHteUQjX_MzjafcGeocV5VxnU8uZa6hJdSn8G0anSlxBcz-uyY8tk2daF8uIUxEr87Bhiko6hxQlRqcoydkqakbRiBOD6sOXsiBEPsVnUlJAgSAS7Qnpbyq8DoZxEYpgh5tXhiGAekcBpBD4CYpLQ4LUy8wORPX1KU8UKg34BJRSgJAeiMUA-SSNBw5t2WBzsWpOMlETHTImSUSHVSn5XiAq-gmXF5UDFujm04dKGWGm9O8DENQPYGuzxQu4eSKpyEVviY7qPzG7DfnFn-efl3q_WIOXr7_zJww7OKtKEotWN6x4Bhb5ijqDtnZqyGe4LI732PZ1r9vNsu1Xn-FXXh1gBeWD3svpLVu2zlp3fiyd6p13lyGj39w37e619m5HQuPou3InNhld9hV2Pa2FRhWkt62u5dYdiuC0AJ4EoXdc71ldmkA6ItB_ZOuN1ebK_eEa68_Pf04u9lpnF3wws5mb3Wtw85eiYLxJOyM9mcebLw73lhbYlujcRGFUVB27it_Hn74fbyx0m5Pix79OuONJ01m7_D529lWi1lsCM1WY715nqka889mWtu71cTyxpO_k5E3-iYEAAA"
+   ]
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZSbkRSYWNCRDM3LV9Xc2FIbnhoNEdnOXJiX245VWVGUHA1dXJrWmJENVVYSDBHREFPVGxhLXJCRS1tZkowVW51aHppT0VkX0p5YVpFampKbkYtWkFfRkZpY1ZZbmtIZGNwYjZOTFV0NGhFWDh6aGxWcTBCbzQ3NXF0MkN2ZEtYdVVFdUdGUzNIOW1HczlJcVdZaXV1WHNOZlRKSElnWVUwemxzSVh4NmQ4NXJKRzFyeWlyZ3VmbjYwR1V4RkNhZ2JfRjRfUlQ3NHNyMhIEGgIIABr2BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDSBQgAEAAYACAAKhIKBHdoYXQVrJaAPRoFd2hpY2gqJAoHbXVzZXVtcxX5z1lAGgZtdXNldW0aDGl2O3A7bXVzZXVtcyoKCgNhcmUVAAAAACojCgV0aGVyZRUwW28-GgNhbnkaCWF2YWlsYWJsZRoFdGhlaXIqCQoCaW4VAAAAACpICgdrb2xrYXRhFVb2TUAaFGdlbzszOWY4OTAwMDAwMDAwMDAwGhRnZW87M2EwMjcwMDAwMDAwMDAwMBoMaXY7cDtrb2xrYXRhMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZSbkRSYWNCRDM3LV9Xc2FIbnhoNEdnOXJiX245VWVGUHA1dXJrWmJENVVYSDBHREFPVGxhLXJCRS1tZkowVW51aHppT0VkX0p5YVpFampKbkYtWkFfRkZpY1ZZbmtIZGNwYjZOTFV0NGhFWDh6aGxWcTBCbzQ3NXF0MkN2ZEtYdVVFdUdGUzNIOW1HczlJcVdZaXV1WHNOZlRKSElnWVUwemxzSVh4NmQ4NXJKRzFyeWlyZ3VmbjYwR1V4RkNhZ2JfRjRfUlQ3NHNyMjpAVEhFIDUgQkVTVCA8Yj5Lb2xrYXRhPC9iPiBEaXN0cmljdCBTY2llbmNlIDxiPk11c2V1bXM8L2I-ICgyMDI2KULMAVNjaWVuY2UgTXVzZXVtcyBpbiBLb2xrYXRhIERpc3RyaWN0ICZtaWRkb3Q7IDxiPjEuIFNjaWVuY2UgQ2l0eTwvYj4gJm1pZGRvdDsgMi4gQmlybGEgSW5kdXN0cmlhbCAmYW1wOyBUZWNobm9sb2dpY2FsIE11c2V1bSAmbWlkZG90OyAzLiBNdXNldW0gT2YgQXN0cm9ub215IEFuZCBTcGFjZSBTY2llbmNlICZtaWRkb3Q7IDQuIE0gUCBCaXJsYSZuYnNwOy4uLkoDYXJlSgJpblIJYXZhaWxhYmxlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZSbkRSYWNCRDM3LV9Xc2FIbnhoNEdnOXJiX245VWVGUHA1dXJrWmJENVVYSDBHREFPVGxhLXJCRS1tZkowVW51aHppT0VkX0p5YVpFampKbkYtWkFfRkZpY1ZZbmtIZGNwYjZOTFV0NGhFWDh6aGxWcTBCbzQ3NXF0MkN2ZEtYdVVFdUdGUzNIOW1HczlJcVdZaXV1WHNOZlRKSElnWVUwemxzSVh4NmQ4NXJKRzFyeWlyZ3VmbjYwR1V4RkNhZ2JfRjRfUlQ3NHNyMhIEGgIIABr2BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDSBQgAEAAYACAAKhIKBHdoYXQVrJaAPRoFd2hpY2gqJAoHbXVzZXVtcxX5z1lAGgZtdXNldW0aDGl2O3A7bXVzZXVtcyoKCgNhcmUVAAAAACojCgV0aGVyZRUwW28-GgNhbnkaCWF2YWlsYWJsZRoFdGhlaXIqCQoCaW4VAAAAACpICgdrb2xrYXRhFVb2TUAaFGdlbzszOWY4OTAwMDAwMDAwMDAwGhRnZW87M2EwMjcwMDAwMDAwMDAwMBoMaXY7cDtrb2xrYXRhMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZSbkRSYWNCRDM3LV9Xc2FIbnhoNEdnOXJiX245VWVGUHA1dXJrWmJENVVYSDBHREFPVGxhLXJCRS1tZkowVW51aHppT0VkX0p5YVpFampKbkYtWkFfRkZpY1ZZbmtIZGNwYjZOTFV0NGhFWDh6aGxWcTBCbzQ3NXF0MkN2ZEtYdVVFdUdGUzNIOW1HczlJcVdZaXV1WHNOZlRKSElnWVUwemxzSVh4NmQ4NXJKRzFyeWlyZ3VmbjYwR1V4RkNhZ2JfRjRfUlQ3NHNyMjpAVEhFIDUgQkVTVCA8Yj5Lb2xrYXRhPC9iPiBEaXN0cmljdCBTY2llbmNlIDxiPk11c2V1bXM8L2I-ICgyMDI2KULMAVNjaWVuY2UgTXVzZXVtcyBpbiBLb2xrYXRhIERpc3RyaWN0ICZtaWRkb3Q7IDxiPjEuIFNjaWVuY2UgQ2l0eTwvYj4gJm1pZGRvdDsgMi4gQmlybGEgSW5kdXN0cmlhbCAmYW1wOyBUZWNobm9sb2dpY2FsIE11c2V1bSAmbWlkZG90OyAzLiBNdXNldW0gT2YgQXN0cm9ub215IEFuZCBTcGFjZSBTY2llbmNlICZtaWRkb3Q7IDQuIE0gUCBCaXJsYSZuYnNwOy4uLkoDYXJlSgJpblIJYXZhaWxhYmxlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "1. Victoria Memorial Hall · 2. Science City · 3. Indian Museum (Jadu Ghar) · 4. Marble Palace Kolkata · 5. Tagore House · 6. Birla Planetarium · 7 ...",
+      "description": "Science Museums in Kolkata District · 1. Science City · 2. Birla Industrial & Technological Museum · 3. Museum Of Astronomy And Space Science · 4. M P Birla ...",
       "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAADQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y43UHrqeAN4sRoIQDV4vgCTRvB1tMXw-Ape1f4gxv7fJIlmAA_FHCFlLdcABXyY72clExk4RdAtev8mLy_Ws-uojgoLjRWQZ0Gku77ttm-gMJFu3wFcz6gfhtA_OZN_79epZAT2R1__0YegM5bI2MS1sgfHl64Ymve17rG-lDfFSkP0pfcGpBIipy0siH9dzFV4xzcVO-6OrAR2QkZyrGrsLlkJJACSgyoWsgnNLLc5mXcbTqYXfBtftqxSxjvuV-6f1iJrv9NKKGGVrzr55G7G76DtPh7l8RrCfPlKt4k-QrcVlba5dWvj71G5MmPPx1ZbpHL-xUS1c4Ve8M_Co8xZoYJUKG-Z3wfFCGQUJmSLSO4_79-i6ze-Ay_IbZCcAAAAA.webp",
-      "source_info_link": "https://www.tripadvisor.com/Attractions-g304558-Activities-c49-Kolkata_Calcutta_Kolkata_District_West_Bengal.html"
+      "source_info_link": "https://www.tripadvisor.in/Attractions-g12417686-Activities-c49-t35-Kolkata_District_West_Bengal.html"
      }
     },
-    "displayed_link": "https://www.tripadvisor.com › Attra...",
+    "displayed_link": "https://www.tripadvisor.in › Attractions-g12417686-Act...",
     "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAADQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y43UHrqeAN4sRoIQDV4vgCTRvB1tMXw-Ape1f4gxv7fJIlmAA_FHCFlLdcABXyY72clExk4RdAtev8mLy_Ws-uojgoLjRWQZ0Gku77ttm-gMJFu3wFcz6gfhtA_OZN_79epZAT2R1__0YegM5bI2MS1sgfHl64Ymve17rG-lDfFSkP0pfcGpBIipy0siH9dzFV4xzcVO-6OrAR2QkZyrGrsLlkJJACSgyoWsgnNLLc5mXcbTqYXfBtftqxSxjvuV-6f1iJrv9NKKGGVrzr55G7G76DtPh7l8RrCfPlKt4k-QrcVlba5dWvj71G5MmPPx1ZbpHL-xUS1c4Ve8M_Co8xZoYJUKG-Z3wfFCGQUJmSLSO4_79-i6ze-Ay_IbZCcAAAAA.webp",
-    "link": "https://www.tripadvisor.com/Attractions-g304558-Activities-c49-Kolkata_Calcutta_Kolkata_District_West_Bengal.html",
+    "link": "https://www.tripadvisor.in/Attractions-g12417686-Activities-c49-t35-Kolkata_District_West_Bengal.html",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEB6zswFX4AWyqb32wVRT3WZXQORSYKudWzG3tkTulr1j_azxjgFoz1KXSwGQ1gpk-VcRIyLxw3M7aHWgXof3fHiZFW7U683IpY9z2EOdhDYluc75ciXOG4aD97I31cXpYzqOjSNWFQYgVSNDqPihE79gR564OsnmC-4-9dfTUG9gJTcIxQoY-No3x-PDU_fbkFNuFaKp2S93K463wishMGuciTdsgQY8sM&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQFnoECBMQAQ&uoh=1",
-    "snippet": "1. Victoria Memorial Hall · 2. Science City · 3. Indian Museum (Jadu Ghar) · 4. Marble Palace Kolkata · 5. Tagore House · 6. Birla Planetarium · 7 ...",
+    "read_more_link": "https://www.tripadvisor.in/Attractions-g12417686-Activities-c49-t35-Kolkata_District_West_Bengal.html#:~:text=Science%20Museums%20in%20Kolkata%20District&text=1.%20Science%20City&text=2.%20Birla%20Industrial%20%26%20Technological,Museum&text=3.%20Museum%20Of%20Astronomy%20And,Space%20Science&text=4.%20M%20P%20Birla%20Planetarium",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFRnDRacBD37-_WsaHnxh4Gg9rb_n9UeFPp5urkZbD5UXH0GDAOTla-rBE-mfJ0UnuhziOEd_JyaZEjjJnF-ZA_FFicVYnkHdcpb6NLUt4hEX8zhlVq0Bo475qt2CvdKXuUEuGFS3H9mGs9IqWYiuuXsNfTJHIgYU0zlsIXx6d85rJG1ryirgufn60GUxFCagb_F4_RT74sr2&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0QFnoECCQQAQ&uoh=1",
+    "snippet": "Science Museums in Kolkata District · 1. Science City · 2. Birla Industrial & Technological Museum · 3. Museum Of Astronomy And Space Science · 4. M P Birla ...",
     "snippet_highlighted_words": [
-     "1. Victoria Memorial Hall"
+     "1. Science City"
     ],
     "source": "Tripadvisor",
-    "title": "Museums in Kolkata (Calcutta)"
+    "title": "THE 5 BEST Kolkata District Science Museums (2026)"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmI2U2dULV9zNzlSQ1lKRUxSazR4MXgwNHlUNGE1LUJQb20xRWNqOTV5YzVvUDJfS1VaaWFzeFRqa2JnLTBNeWpwbEI1NW05amJTRTFRYkFaZ0tRYXZuU0t6OURDX0J3dWpNTVRkdFFWTS15cWJaRFVXOUxkRTBRbWUtbjVOcWtrcUtqNGdzbjlodxIEGgIIABqUBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDwBAgAEAAYACAAKhIKBHdoYXQVAAAAABoFd2hpY2gqJAoHbXVzZXVtcxUAHaxAGgZtdXNldW0aDGl2O3A7bXVzZXVtcyoKCgNhcmUVAAAAACojCgV0aGVyZRVNb0c_GgNhbnkaCWF2YWlsYWJsZRoFdGhlaXIqCQoCaW4VAAAAACpICgdrb2xrYXRhFckxy0AaFGdlbzszOWY4OTAwMDAwMDAwMDAwGhRnZW87M2EwMjcwMDAwMDAwMDAwMBoMaXY7cDtrb2xrYXRhMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmI2U2dULV9zNzlSQ1lKRUxSazR4MXgwNHlUNGE1LUJQb20xRWNqOTV5YzVvUDJfS1VaaWFzeFRqa2JnLTBNeWpwbEI1NW05amJTRTFRYkFaZ0tRYXZuU0t6OURDX0J3dWpNTVRkdFFWTS15cWJaRFVXOUxkRTBRbWUtbjVOcWtrcUtqNGdzbjlodzokPGI-TXVzZXVtczwvYj4gaW4gPGI-S29sa2F0YTwvYj4sIFdCQsgBTGlzdCBvZiBLb2xrYXRhIE11c2V1bXMgJm1pZGRvdDsgPGI-VmljdG9yaWEgTWVtb3JpYWw8L2I-LiA1MzY1LjAuIFZpY3RvcmlhIE1lbW9yaWFsICZtaWRkb3Q7IE1hcmJsZSBQYWxhY2UuIDUyMTMuMC4gTWFyYmxlIFBhbGFjZSAmbWlkZG90OyBJbmRpYW4gTXVzZXVtLiA1MTAwLjAuIEluZGlhbiBNdXNldW0gJm1pZGRvdDsgQmlybGEmbmJzcDsuLi5KAmluSgNhcmVSCWF2YWlsYWJsZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmI2U2dULV9zNzlSQ1lKRUxSazR4MXgwNHlUNGE1LUJQb20xRWNqOTV5YzVvUDJfS1VaaWFzeFRqa2JnLTBNeWpwbEI1NW05amJTRTFRYkFaZ0tRYXZuU0t6OURDX0J3dWpNTVRkdFFWTS15cWJaRFVXOUxkRTBRbWUtbjVOcWtrcUtqNGdzbjlodxIEGgIIABqUBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDwBAgAEAAYACAAKhIKBHdoYXQVAAAAABoFd2hpY2gqJAoHbXVzZXVtcxUAHaxAGgZtdXNldW0aDGl2O3A7bXVzZXVtcyoKCgNhcmUVAAAAACojCgV0aGVyZRVNb0c_GgNhbnkaCWF2YWlsYWJsZRoFdGhlaXIqCQoCaW4VAAAAACpICgdrb2xrYXRhFckxy0AaFGdlbzszOWY4OTAwMDAwMDAwMDAwGhRnZW87M2EwMjcwMDAwMDAwMDAwMBoMaXY7cDtrb2xrYXRhMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmI2U2dULV9zNzlSQ1lKRUxSazR4MXgwNHlUNGE1LUJQb20xRWNqOTV5YzVvUDJfS1VaaWFzeFRqa2JnLTBNeWpwbEI1NW05amJTRTFRYkFaZ0tRYXZuU0t6OURDX0J3dWpNTVRkdFFWTS15cWJaRFVXOUxkRTBRbWUtbjVOcWtrcUtqNGdzbjlodzokPGI-TXVzZXVtczwvYj4gaW4gPGI-S29sa2F0YTwvYj4sIFdCQsgBTGlzdCBvZiBLb2xrYXRhIE11c2V1bXMgJm1pZGRvdDsgPGI-VmljdG9yaWEgTWVtb3JpYWw8L2I-LiA1MzY1LjAuIFZpY3RvcmlhIE1lbW9yaWFsICZtaWRkb3Q7IE1hcmJsZSBQYWxhY2UuIDUyMTMuMC4gTWFyYmxlIFBhbGFjZSAmbWlkZG90OyBJbmRpYW4gTXVzZXVtLiA1MTAwLjAuIEluZGlhbiBNdXNldW0gJm1pZGRvdDsgQmlybGEmbmJzcDsuLi5KAmluSgNhcmVSCWF2YWlsYWJsZSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "List of museums in West Bengal ; Science City Kolkata · Kolkata, Science ; State Archaeological Museum · Kolkata, Archaeology ; Rabindra Museum, Mungpoo, History.",
-      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-      "source_info_link": "https://en.wikipedia.org/wiki/List_of_museums_in_West_Bengal"
+      "description": "List of Kolkata Museums · Victoria Memorial. 5365.0. Victoria Memorial · Marble Palace. 5213.0. Marble Palace · Indian Museum. 5100.0. Indian Museum · Birla ...",
+      "icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHVw-Gwr0-ABtgPMB-in7R-8r6AN4b3os2gKpfGxqG2SClthKEahhMDxLZ6K1-dAAAD-9nwez7mPBHBaYjZz5WXx0MJdE2yit-nxnzfmnA8kHrdBfLvXnysAiiKjkvtByLPvm_20-9r4S8YAeyXpYQdti02vR2Fkio_9_qANt_Jolz2_P84xxNkJJ2AMYUFlVE3JBf866KUfacRgULwed6G6lyJ78mdUAyUurf6ZXWWGxwD_3C3NSFMIpyCAgCCTUhIZ4PFfna5gjnJm7YwdT6dlUlxDlpGSJ7q98nSBuCudYL_eMpIHG7C7OqVzOIBcsTHV4biBvXB4AJ6NS6yH82Ut8ro6hAuUeSB0i_ZhoJ4AwxB5IqxQ_VZvV7olRizabcPQe68UZ_Oi2SfQfb6P9ulu1bH48e_YAAA.webp",
+      "source_info_link": "https://www.touristplaces.net.in/kolkata-wb/museums/"
      }
     },
-    "displayed_link": "https://en.wikipedia.org › wiki › Lis...",
-    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
-    "link": "https://en.wikipedia.org/wiki/List_of_museums_in_West_Bengal",
+    "displayed_link": "https://www.touristplaces.net.in › kolkata-wb › museums",
+    "favicon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHVw-Gwr0-ABtgPMB-in7R-8r6AN4b3os2gKpfGxqG2SClthKEahhMDxLZ6K1-dAAAD-9nwez7mPBHBaYjZz5WXx0MJdE2yit-nxnzfmnA8kHrdBfLvXnysAiiKjkvtByLPvm_20-9r4S8YAeyXpYQdti02vR2Fkio_9_qANt_Jolz2_P84xxNkJJ2AMYUFlVE3JBf866KUfacRgULwed6G6lyJ78mdUAyUurf6ZXWWGxwD_3C3NSFMIpyCAgCCTUhIZ4PFfna5gjnJm7YwdT6dlUlxDlpGSJ7q98nSBuCudYL_eMpIHG7C7OqVzOIBcsTHV4biBvXB4AJ6NS6yH82Ut8ro6hAuUeSB0i_ZhoJ4AwxB5IqxQ_VZvV7olRizabcPQe68UZ_Oi2SfQfb6P9ulu1bH48e_YAAA.webp",
+    "link": "https://www.touristplaces.net.in/kolkata-wb/museums/",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAV-qwWLzvY5MwzSRubklIxgeKJVB4F-P0FtZ93kCzaw_KHJVr7nxjZokW6iVbdAXbyDlgszKPCLQ-5MeQ2Lo387WI7UPS3akYRc2MFeX4edZlt3wCdkPNsOCcWv28TJBM0gjjkmVh8OE-_aVTzqAAz&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQFnoECBIQAQ&uoh=1",
-    "snippet": "List of museums in West Bengal ; Science City Kolkata · Kolkata, Science ; State Archaeological Museum · Kolkata, Archaeology ; Rabindra Museum, Mungpoo, History.",
+    "read_more_link": "https://www.touristplaces.net.in/kolkata-wb/museums/#:~:text=List%20of%20Kolkata%20Museums&text=Victoria%20Memorial&text=Marble%20Palace&text=Indian%20Museum&text=Birla%20Industrial%20and%20Technological%20Museum",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVb6SgT-_s79RCYJELRk4x1x04yT4a5-BPom1Ecj95yc5oP2_KUZiasxTjkbg-0MyjplB55m9jbSE1QbAZgKQavnSKz9DC_BwujMMTdtQVM-yqbZDUW9LdE0Qme-n5NqkkqKj4gsn9hw&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0QFnoECEwQAQ&uoh=1",
+    "snippet": "List of Kolkata Museums · Victoria Memorial. 5365.0. Victoria Memorial · Marble Palace. 5213.0. Marble Palace · Indian Museum. 5100.0. Indian Museum · Birla ...",
     "snippet_highlighted_words": [
-     "Science City Kolkata"
+     "Victoria Memorial"
     ],
-    "source": "Wikipedia",
-    "title": "List of museums in West Bengal"
+    "source": "www.touristplaces.net.in",
+    "title": "Museums in Kolkata, WB"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVnZsb3BNZGNobDdqejd1c21UWWxiU0lFV04ta3FoU3JVeU1QYjJmQmU5cEJWLThkNzFlTjhMTUZLeG0tZExudkpYTmtlUGtTejBKb0dMQ25WUVYzTHZGV2pnOXk0M1lDUVBGVGktX25udEwwd0Y2dk5TZEpkR1FYekJzMFdMX2gtQU5xN2FkUmFiMFNpakNYSUwyRXFiVk9XdUI4T2cwUkFIdxIEGgIIABqyBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCOBQgAEAAYACAAKhIKBHdoYXQVee0GPxoFd2hpY2gqJAoHbXVzZXVtcxUjiClAGgZtdXNldW0aDGl2O3A7bXVzZXVtcyoKCgNhcmUVAAAAACojCgV0aGVyZRUy_LE9GgNhbnkaCWF2YWlsYWJsZRoFdGhlaXIqCQoCaW4VAAAAACpICgdrb2xrYXRhFUbhDUAaFGdlbzszOWY4OTAwMDAwMDAwMDAwGhRnZW87M2EwMjcwMDAwMDAwMDAwMBoMaXY7cDtrb2xrYXRhMrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVnZsb3BNZGNobDdqejd1c21UWWxiU0lFV04ta3FoU3JVeU1QYjJmQmU5cEJWLThkNzFlTjhMTUZLeG0tZExudkpYTmtlUGtTejBKb0dMQ25WUVYzTHZGV2pnOXk0M1lDUVBGVGktX25udEwwd0Y2dk5TZEpkR1FYekJzMFdMX2gtQU5xN2FkUmFiMFNpakNYSUwyRXFiVk9XdUI4T2cwUkFIdzo_VGhlIGJlc3QgSG93cmFoIDxiPk11c2V1bXM8L2I-ICZhbXA7IGV4aGliaXRpb25zIC0gR2V0WW91ckd1aWRlQrMBMS4gPGI-VmljdG9yaWEgTWVtb3JpYWw8L2I-IFZpc2l0IEtvbGthdGEmIzM5O3MgaWNvbmljIG1hcmJsZSBtb251bWVudCBhbmQgZGlzY292ZXIgaXRzIG11c2V1bSwgZ2FsbGVyaWVzLCBhbmQgYmVhdXRpZnVsbHkgbWFpbnRhaW5lZCBnYXJkZW5zLiAyLiBTdC4gUGF1bCYjMzk7cyBDYXRoZWRyYWwmbmJzcDsuLi5KAmluSgNhcmVSCWF2YWlsYWJsZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVnZsb3BNZGNobDdqejd1c21UWWxiU0lFV04ta3FoU3JVeU1QYjJmQmU5cEJWLThkNzFlTjhMTUZLeG0tZExudkpYTmtlUGtTejBKb0dMQ25WUVYzTHZGV2pnOXk0M1lDUVBGVGktX25udEwwd0Y2dk5TZEpkR1FYekJzMFdMX2gtQU5xN2FkUmFiMFNpakNYSUwyRXFiVk9XdUI4T2cwUkFIdxIEGgIIABqyBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCOBQgAEAAYACAAKhIKBHdoYXQVee0GPxoFd2hpY2gqJAoHbXVzZXVtcxUjiClAGgZtdXNldW0aDGl2O3A7bXVzZXVtcyoKCgNhcmUVAAAAACojCgV0aGVyZRUy_LE9GgNhbnkaCWF2YWlsYWJsZRoFdGhlaXIqCQoCaW4VAAAAACpICgdrb2xrYXRhFUbhDUAaFGdlbzszOWY4OTAwMDAwMDAwMDAwGhRnZW87M2EwMjcwMDAwMDAwMDAwMBoMaXY7cDtrb2xrYXRhMrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVnZsb3BNZGNobDdqejd1c21UWWxiU0lFV04ta3FoU3JVeU1QYjJmQmU5cEJWLThkNzFlTjhMTUZLeG0tZExudkpYTmtlUGtTejBKb0dMQ25WUVYzTHZGV2pnOXk0M1lDUVBGVGktX25udEwwd0Y2dk5TZEpkR1FYekJzMFdMX2gtQU5xN2FkUmFiMFNpakNYSUwyRXFiVk9XdUI4T2cwUkFIdzo_VGhlIGJlc3QgSG93cmFoIDxiPk11c2V1bXM8L2I-ICZhbXA7IGV4aGliaXRpb25zIC0gR2V0WW91ckd1aWRlQrMBMS4gPGI-VmljdG9yaWEgTWVtb3JpYWw8L2I-IFZpc2l0IEtvbGthdGEmIzM5O3MgaWNvbmljIG1hcmJsZSBtb251bWVudCBhbmQgZGlzY292ZXIgaXRzIG11c2V1bSwgZ2FsbGVyaWVzLCBhbmQgYmVhdXRpZnVsbHkgbWFpbnRhaW5lZCBnYXJkZW5zLiAyLiBTdC4gUGF1bCYjMzk7cyBDYXRoZWRyYWwmbmJzcDsuLi5KAmluSgNhcmVSCWF2YWlsYWJsZSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "Academy of Fine Arts, Academy of Coins & History, Arts Acre ; Asiatic Society, Birla Academy of Art & Culture, Birla Indst. & Tech Museum ; CIMA Art Gallery ...",
-      "source_info_link": "https://www.kmcgov.in/KMCPortal/jsp/KMCArtGalleries.jsp"
-     }
-    },
-    "displayed_link": "https://www.kmcgov.in › jsp › KMC...",
-    "link": "https://www.kmcgov.in/KMCPortal/jsp/KMCArtGalleries.jsp",
-    "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVfc2LzcCYYGUWteJRinYX-wiQ0MNW_Em9Q_pQE3H8odfHJ6BtS-qiu8i_yRv1KIENFAQ4zZsb4bHyPQL7Z2NTCi5PQEvP8pIFfIRbtbDUnm5XBDb_jfYJITBJio6qb1Tn63osFEnKRS8NNg&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQFnoECBAQAQ&uoh=1",
-    "snippet": "Academy of Fine Arts, Academy of Coins & History, Arts Acre ; Asiatic Society, Birla Academy of Art & Culture, Birla Indst. & Tech Museum ; CIMA Art Gallery ...",
-    "snippet_highlighted_words": [
-     "Academy of Fine Arts, Academy of Coins & History, Arts Acre"
-    ],
-    "source": "Kolkata Municipal Corporation",
-    "title": "Art Galleries / Museums / Libraries"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "The 16 best museums in Kolkata · Alipore Jail Museum · Netaji Bhawan · The Asiatic Society Museum · Birla Industrial and Technological Museum.",
-      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAKwzMaB0WoZnmegNRVHVpVOLI0n3zOe03lpEgEequgAA_vd14f5zEPwiGVuSTnYPnvaN2CUi7DepI_Ja0baDZilf0ey4KAK0hcqsa8qVUIjebxRFsqd6HP2NChIUPd4HW1dZCIfWJ-OeJUsmRRkhRz3lWo_2uIZuP5Tl6x_k31nkWO7yzswbKTCOlOOFDsEqKeXUEJtS5WoHxocD7U9LYzXaOTTp5O_4BB_960xWLXuf_njJtnqeZuYH9G00h1LjX3sE4UzD9_PicDUPJqG8sXwJzsmTh__NTOfv2dTw9K7-PCz3VxP_yy-n9-_34nueDJHKf1JJ72_wLWb85EEvUD_v9odUcep1fre1SwIrybH4hBkwROev8niqFu9T4ZJbLt5kg1ePCNz1eFJbk2AA.webp",
-      "source_info_link": "https://www.cntraveller.in/story/the-16-best-museums-in-kolkata/"
-     }
-    },
-    "date": "2025-09-14",
-    "displayed_link": "https://www.cntraveller.in › story",
-    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAKwzMaB0WoZnmegNRVHVpVOLI0n3zOe03lpEgEequgAA_vd14f5zEPwiGVuSTnYPnvaN2CUi7DepI_Ja0baDZilf0ey4KAK0hcqsa8qVUIjebxRFsqd6HP2NChIUPd4HW1dZCIfWJ-OeJUsmRRkhRz3lWo_2uIZuP5Tl6x_k31nkWO7yzswbKTCOlOOFDsEqKeXUEJtS5WoHxocD7U9LYzXaOTTp5O_4BB_960xWLXuf_njJtnqeZuYH9G00h1LjX3sE4UzD9_PicDUPJqG8sXwJzsmTh__NTOfv2dTw9K7-PCz3VxP_yy-n9-_34nueDJHKf1JJ72_wLWb85EEvUD_v9odUcep1fre1SwIrybH4hBkwROev8niqFu9T4ZJbLt5kg1ePCNz1eFJbk2AA.webp",
-    "link": "https://www.cntraveller.in/story/the-16-best-museums-in-kolkata/",
-    "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVcRfuvs1pTog9COgmZuO-FaWtKRnfv01Vefg51HAFzmGVvHCDGyk1FHbOGuXT-NHtA9g7AffPwAWWSef7IwQ6c2ymlCiobVkKWcNJANkuaTvfoSl5UKI9iAz8gkdbkqHE-66sJKyiypxvfyQfjBX71NT0Rg&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQFnoECBQQAQ&uoh=1",
-    "snippet": "The 16 best museums in Kolkata · Alipore Jail Museum · Netaji Bhawan · The Asiatic Society Museum · Birla Industrial and Technological Museum.",
-    "snippet_highlighted_words": [
-     "Alipore Jail Museum"
-    ],
-    "source": "Condé Nast Traveller India",
-    "title": "The 16 best museums in Kolkata"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
-     ],
-     "source": {
-      "description": "WELCOME TO INDIAN MUSEUM KOLKATA - FOUNDED 1814 · Museum Gallery. Many rare and unique specimens, both Indian and trans-Indian, relating to humanities and ...",
-      "source_info_link": "https://indianmuseumkolkata.org/"
-     }
-    },
-    "displayed_link": "https://indianmuseumkolkata.org",
-    "link": "https://indianmuseumkolkata.org/",
-    "position": 5,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAV2zzIvJSGLiCDzJiK-pPhYTpDi0fcHMBnjtUgi-SXUQJTE2G9ZGSZniQD60fZdpt8N_KDdZRX0EibbUEeiGETDZCvaM74RnJd2VKZEt84WN9CATs&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQFnoECBEQAQ&uoh=1",
-    "snippet": "WELCOME TO INDIAN MUSEUM KOLKATA - FOUNDED 1814 · Museum Gallery. Many rare and unique specimens, both Indian and trans-Indian, relating to humanities and ...",
-    "snippet_highlighted_words": [
-     "INDIAN MUSEUM KOLKATA"
-    ],
-    "source": "Indian Museum Kolkata",
-    "title": "Indian Museum Kolkata: Home"
-   },
-   {
-    "about_this_result": {
-     "languages": [
-      "lt"
-     ],
-     "regions": [
-      "LT"
+      "US"
      ],
      "source": {
       "description": "1. Victoria Memorial Visit Kolkata's iconic marble monument and discover its museum, galleries, and beautifully maintained gardens. 2. St. Paul's Cathedral ...",
       "icon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHUHo1uFSYu0DeSSvYtuoymgtW27zd04pnzRqzXGjJZvoZ5BwcfQoAD-8KavahLCcjRr9u53uxSQFQEE4tcrPS9F2Fn7WGguICucdJYiPMaIqnHyL6cverIF46edz8hktYd_8ij_2eig_Y6RpMOkapCQAC3rRQ1VqpZ3IdWvvv8crEvhoJWAEmZdWkGVHW4-lg1u7GekAX5mzitnnK2TbsGqWzccIk0hpknP6rOzPcUuD6Qfv_GF163xbgDh6c7kb09_qrAYMgTTAopJ8cuAhtJqFcPNW-NlEvBi__nkTzJK7g5feVPDGdQxJ_OZ1i7hIqyuRTMJfxKFN6BP9e6a_ryEtfbGnQf3DGMRuCrWoi2W8RHL5EgwkJ3DaVtvi5qnMtpXylhjem4P1sqc3jwLpVkJ31gaoHLWGxA2q-kankfgAA.webp",
-      "source_info_link": "https://www.getyourguide.com/kolkata-l275/museums-exhibitions-tc132/"
+      "source_info_link": "https://www.getyourguide.com/howrah-l101397/museums-exhibitions-tc132/"
      }
     },
-    "displayed_link": "https://www.getyourguide.com › m...",
+    "displayed_link": "https://www.getyourguide.com › ... › Tours in Howrah",
     "favicon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHUHo1uFSYu0DeSSvYtuoymgtW27zd04pnzRqzXGjJZvoZ5BwcfQoAD-8KavahLCcjRr9u53uxSQFQEE4tcrPS9F2Fn7WGguICucdJYiPMaIqnHyL6cverIF46edz8hktYd_8ij_2eig_Y6RpMOkapCQAC3rRQ1VqpZ3IdWvvv8crEvhoJWAEmZdWkGVHW4-lg1u7GekAX5mzitnnK2TbsGqWzccIk0hpknP6rOzPcUuD6Qfv_GF163xbgDh6c7kb09_qrAYMgTTAopJ8cuAhtJqFcPNW-NlEvBi__nkTzJK7g5feVPDGdQxJ_OZ1i7hIqyuRTMJfxKFN6BP9e6a_ryEtfbGnQf3DGMRuCrWoi2W8RHL5EgwkJ3DaVtvi5qnMtpXylhjem4P1sqc3jwLpVkJ31gaoHLWGxA2q-kankfgAA.webp",
-    "link": "https://www.getyourguide.com/kolkata-l275/museums-exhibitions-tc132/",
-    "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVrGSPnEktD1c1NcKf5HvBuHFMnT6-U4JrTOQKHuOUyRapCQiZij_cRC61PYVZPnCJrAPe6rU4kLQtwN1hDrW3KF00Zq8DF1BZUVlrc6ZTXvKNJ623YalWCrdtXq3qPyd-t8WRlGtkjRNCVr7XGcCivkXh3kavFxE&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQFnoECBUQAQ&uoh=1",
-    "rich_snippet": {
-     "top": {
-      "detected_extensions": {
-       "rating": 4.9,
-       "reviews": 24
-      },
-      "extensions": [
-       "4,9(24)",
-       "Pradedant nuo 9,38 USD",
-       "Daugiau informacijos apie atsiliepimų įvertinimus.Apžvalgos nepatvirtintos „Google“"
-      ]
-     }
-    },
+    "link": "https://www.getyourguide.com/howrah-l101397/museums-exhibitions-tc132/",
+    "position": 3,
+    "read_more_link": "https://www.getyourguide.com/howrah-l101397/museums-exhibitions-tc132/#:~:text=1.%20Victoria%20Memorial%20Visit%20Kolkata's,gardens.%202.%20St.%20Paul's%20Cathedral",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVvlopMdchl7jz7usmTYlbSIEWN-kqhSrUyMPb2fBe9pBV-8d71eN8LMFKxm-dLnvJXNkePkSz0JoGLCnVQV3LvFWjg9y43YCQPFTi-_nntL0wF6vNSdJdGQXzBs0WL_h-ANq7adRab0SijCXIL2EqbVOWuB8Og0RAHw&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0QFnoECE8QAQ&uoh=1",
     "snippet": "1. Victoria Memorial Visit Kolkata's iconic marble monument and discover its museum, galleries, and beautifully maintained gardens. 2. St. Paul's Cathedral ...",
     "snippet_highlighted_words": [
      "Victoria Memorial"
     ],
     "source": "GetYourGuide",
-    "title": "The best Kolkata Museums & exhibitions"
+    "title": "The best Howrah Museums & exhibitions"
    },
    {
-    "about_this_result": {
-     "source": {
-      "description": "Located at Belvedere Estate, this immersive experience traces how language has evolved through mythology, literature, oral traditions and the ...",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
-     }
-    },
-    "displayed_link": "Reakcijų: daugiau nei 10 · prieš 1 mėnesį",
-    "duration": "0:38",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/Indulgexpress/videos/kolkata-is-now-home-to-indias-first-museum-dedicated-to-the-world-of-words-locat/2304048080338602/",
-    "position": 7,
-    "snippet": "Located at Belvedere Estate, this immersive experience traces how language has evolved through mythology, literature, oral traditions and the ...",
-    "source": "Facebook · INDULGE",
-    "thumbnail": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/v9ieGu25EKa6uvGaejH-9y1ATm8hIFQc6brCR5CrMSo.jpeg",
-    "title": "Kolkata is now home to India's first museum dedicated to the ..."
-   },
-   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZSZTRmbVdZajdCZmcwaWNFem5KM2JTN0E4ekw4OHNQUEdUUWIxVWVoYTZYZmlQUWhnX1huXzBQenBWMHlmcnBabmFvbldXazllN25ERXFEbUROUEU2S1F5MEt3UnoyTUQ2T0pDcm9ONUljTklMckFNbGxCVEVjMmM5SDBpcjVNRXVaR2JLaE9vREpjT2RzVkVCVzR6S2NQdWx3bjRtdHZUOC1rN1RGWXpldjUyYUZ3Z2p1YjlqT0ExS1JwekJ3SlRtdG1TTXRyZTRpZ3BRR0E2LVRtNGZFV2RBU2RKQRIEGgIIABrnBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDDBQgAEAAYACAAKhIKBHdoYXQV6LY1PxoFd2hpY2gqJAoHbXVzZXVtcxXQ9VdAGgZtdXNldW0aDGl2O3A7bXVzZXVtcyoKCgNhcmUVAAAAACojCgV0aGVyZRVB6IY-GgNhbnkaCWF2YWlsYWJsZRoFdGhlaXIqCQoCaW4VAAAAACpICgdrb2xrYXRhFUDLYkAaFGdlbzszOWY4OTAwMDAwMDAwMDAwGhRnZW87M2EwMjcwMDAwMDAwMDAwMBoMaXY7cDtrb2xrYXRhMvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZSZTRmbVdZajdCZmcwaWNFem5KM2JTN0E4ekw4OHNQUEdUUWIxVWVoYTZYZmlQUWhnX1huXzBQenBWMHlmcnBabmFvbldXazllN25ERXFEbUROUEU2S1F5MEt3UnoyTUQ2T0pDcm9ONUljTklMckFNbGxCVEVjMmM5SDBpcjVNRXVaR2JLaE9vREpjT2RzVkVCVzR6S2NQdWx3bjRtdHZUOC1rN1RGWXpldjUyYUZ3Z2p1YjlqT0ExS1JwekJ3SlRtdG1TTXRyZTRpZ3BRR0E2LVRtNGZFV2RBU2RKQTpEVGhyZWUgaG9tZS08Yj5tdXNldW1zPC9iPiBpbiA8Yj5Lb2xrYXRhPC9iPiBoaXN0b3J5IGJ1ZmZzIG11c3QgdmlzaXRCpwE8Yj5WaXZla2FuYW5kYSBNdXNldW08L2I-IFN3YW1pIFZpdmVrYW5hbmRhIHdhcyBib3JuIGF0IFNpbWxhIFBhbGx5IOKAlCBvbmUgb2YgdGhlIG9sZGVzdCBuZWlnaGJvdXJob29kcyBpbiBOb3J0aCBLb2xrYXRhLiAmbWlkZG90OyBOZXRhamkgQmhhd2FuIEJ1aWx0IGJ5IGhpcyZuYnNwOy4uLkoCaW5KA2FyZVIJYXZhaWxhYmxlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZSZTRmbVdZajdCZmcwaWNFem5KM2JTN0E4ekw4OHNQUEdUUWIxVWVoYTZYZmlQUWhnX1huXzBQenBWMHlmcnBabmFvbldXazllN25ERXFEbUROUEU2S1F5MEt3UnoyTUQ2T0pDcm9ONUljTklMckFNbGxCVEVjMmM5SDBpcjVNRXVaR2JLaE9vREpjT2RzVkVCVzR6S2NQdWx3bjRtdHZUOC1rN1RGWXpldjUyYUZ3Z2p1YjlqT0ExS1JwekJ3SlRtdG1TTXRyZTRpZ3BRR0E2LVRtNGZFV2RBU2RKQRIEGgIIABrnBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDDBQgAEAAYACAAKhIKBHdoYXQV6LY1PxoFd2hpY2gqJAoHbXVzZXVtcxXQ9VdAGgZtdXNldW0aDGl2O3A7bXVzZXVtcyoKCgNhcmUVAAAAACojCgV0aGVyZRVB6IY-GgNhbnkaCWF2YWlsYWJsZRoFdGhlaXIqCQoCaW4VAAAAACpICgdrb2xrYXRhFUDLYkAaFGdlbzszOWY4OTAwMDAwMDAwMDAwGhRnZW87M2EwMjcwMDAwMDAwMDAwMBoMaXY7cDtrb2xrYXRhMvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZSZTRmbVdZajdCZmcwaWNFem5KM2JTN0E4ekw4OHNQUEdUUWIxVWVoYTZYZmlQUWhnX1huXzBQenBWMHlmcnBabmFvbldXazllN25ERXFEbUROUEU2S1F5MEt3UnoyTUQ2T0pDcm9ONUljTklMckFNbGxCVEVjMmM5SDBpcjVNRXVaR2JLaE9vREpjT2RzVkVCVzR6S2NQdWx3bjRtdHZUOC1rN1RGWXpldjUyYUZ3Z2p1YjlqT0ExS1JwekJ3SlRtdG1TTXRyZTRpZ3BRR0E2LVRtNGZFV2RBU2RKQTpEVGhyZWUgaG9tZS08Yj5tdXNldW1zPC9iPiBpbiA8Yj5Lb2xrYXRhPC9iPiBoaXN0b3J5IGJ1ZmZzIG11c3QgdmlzaXRCpwE8Yj5WaXZla2FuYW5kYSBNdXNldW08L2I-IFN3YW1pIFZpdmVrYW5hbmRhIHdhcyBib3JuIGF0IFNpbWxhIFBhbGx5IOKAlCBvbmUgb2YgdGhlIG9sZGVzdCBuZWlnaGJvdXJob29kcyBpbiBOb3J0aCBLb2xrYXRhLiAmbWlkZG90OyBOZXRhamkgQmhhd2FuIEJ1aWx0IGJ5IGhpcyZuYnNwOy4uLkoCaW5KA2FyZVIJYXZhaWxhYmxlIgIQAUgAWABoAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "Explore Indian Museum Kolkata—Asia's oldest museum. Discover its history, collections, entry fees, timings, nearest metro station, ...",
-      "icon": "https://serpapi.com/images/i/UklGRm4BAABXRUJQVlA4IGIBAACwBwCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHpvSQgBvMaNeyPasR7ITuPOl_jpSHNztLa5Kgi87KETV3mPFji7SmoAAP74uTXIXOa5JY98jTg7HEWjWAobGXyjIf_ntoVBZ5uyTZSPE4c0APYho9R_LQ5ADhx4mjvPexMziN5-PAeCw9FvPnQwHxvRm3aB5ck8f9H5xiAkFPac3SPAbVaTyKs8mrYEpTbO9Pt8Zh9ZPH77v1DuI2RkRAfhLbcIXYp4IawqOXvKN_9zydUrY871oCBTO6pZibwVW3ZI-NsUaAnnVMOWvAufu-akZapv1q_rMUmv3ZP-Qi784Gh3zKve9wIFa7AvJwgPfczj3IZUebXby5q_n_IKaKj9KsLenuSRHrU-Ur2NT2DQH-pfk416cvoahCoJf8mo1kbSk_ltm37rY978b4d8AdkKxqUKGjBSgUYrCZ77_to_AB6yAAA.webp",
-      "source_info_link": "https://kolkatacitytour.com/indian-museum-kolkata/"
+      "description": "Vivekananda Museum Swami Vivekananda was born at Simla Pally — one of the oldest neighbourhoods in North Kolkata. · Netaji Bhawan Built by his ...",
+      "icon": "https://serpapi.com/images/i/UklGRrQAAABXRUJQVlA4IKgAAABwBACdASocABwAPtEutFooIagoGAEAGglkAMKAIhystYqoNkX5N3biwkbyAAD-9gmjt5378bEKKtNWCwWr8lhMvaHzmeMpZjB_-YMud0vhsEeYPenH-T_4_s38RdmodK1m7eYgAwavHjp0FWYYyXv5T4La1X3BdgZovhFRNWsrBX9UeYnvr9M5q4Ow67cPP242xP_rxZzuAGiMFVWNOwxvBnk9hxqkAAA.webp",
+      "source_info_link": "https://www.indulgexpress.com/travel/2024/Feb/01/three-home-museums-in-kolkata-history-buffs-must-visit-57363.html"
      }
     },
-    "date": "2025-07-03",
-    "displayed_link": "https://kolkatacitytour.com › indian...",
-    "favicon": "https://serpapi.com/images/i/UklGRm4BAABXRUJQVlA4IGIBAACwBwCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHpvSQgBvMaNeyPasR7ITuPOl_jpSHNztLa5Kgi87KETV3mPFji7SmoAAP74uTXIXOa5JY98jTg7HEWjWAobGXyjIf_ntoVBZ5uyTZSPE4c0APYho9R_LQ5ADhx4mjvPexMziN5-PAeCw9FvPnQwHxvRm3aB5ck8f9H5xiAkFPac3SPAbVaTyKs8mrYEpTbO9Pt8Zh9ZPH77v1DuI2RkRAfhLbcIXYp4IawqOXvKN_9zydUrY871oCBTO6pZibwVW3ZI-NsUaAnnVMOWvAufu-akZapv1q_rMUmv3ZP-Qi784Gh3zKve9wIFa7AvJwgPfczj3IZUebXby5q_n_IKaKj9KsLenuSRHrU-Ur2NT2DQH-pfk416cvoahCoJf8mo1kbSk_ltm37rY978b4d8AdkKxqUKGjBSgUYrCZ77_to_AB6yAAA.webp",
-    "link": "https://kolkatacitytour.com/indian-museum-kolkata/",
-    "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAV1WtFnh-ukMiQ4xPOQ3e488yeULDulOExLW1Sxg7ony95twA5OOJAnDKdBuvul-spJh7y_Y_jDGlHNsiJ4NdrEO-vCEhGC5EbC1kzRiPl1xywcPXLPGYOI2FjX6GJoge_fs7jN7s&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQFnoECBcQAQ&uoh=1",
-    "snippet": "Explore Indian Museum Kolkata—Asia's oldest museum. Discover its history, collections, entry fees, timings, nearest metro station, ...",
+    "date": "Feb 1, 2024",
+    "displayed_link": "https://www.indulgexpress.com › Travel",
+    "favicon": "https://serpapi.com/images/i/UklGRrQAAABXRUJQVlA4IKgAAABwBACdASocABwAPtEutFooIagoGAEAGglkAMKAIhystYqoNkX5N3biwkbyAAD-9gmjt5378bEKKtNWCwWr8lhMvaHzmeMpZjB_-YMud0vhsEeYPenH-T_4_s38RdmodK1m7eYgAwavHjp0FWYYyXv5T4La1X3BdgZovhFRNWsrBX9UeYnvr9M5q4Ow67cPP242xP_rxZzuAGiMFVWNOwxvBnk9hxqkAAA.webp",
+    "link": "https://www.indulgexpress.com/travel/2024/Feb/01/three-home-museums-in-kolkata-history-buffs-must-visit-57363.html",
+    "position": 4,
+    "read_more_link": "https://www.indulgexpress.com/travel/2024/Feb/01/three-home-museums-in-kolkata-history-buffs-must-visit-57363.html#:~:text=Vivekananda%20Museum,oldest%20neighbourhoods%20in%20North%20Kolkata.&text=Netaji%20Bhawan,of%20his%20life%20in%20Kolkata.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFRe4fmWYj7Bfg0icEznJ3bS7A8zL88sPPGTQb1Ueha6XfiPQhg_Xn_0PzpV0yfrpZnaonWWk9e7nDEqDmDNPE6KQy0KwRz2MD6OJCroN5IcNILrAMllBTEc2c9H0ir5MEuZGbKhOoDJcOdsVEBW4zKcPulwn4mtvT8-k7TFYzev52aFwgjub9jOA1KRpzBwJTmtmSMtre4igpQGA6-Tm4fEWdASdJA&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0QFnoECEsQAQ&uoh=1",
+    "snippet": "Vivekananda Museum Swami Vivekananda was born at Simla Pally — one of the oldest neighbourhoods in North Kolkata. · Netaji Bhawan Built by his ...",
     "snippet_highlighted_words": [
-     "Indian Museum Kolkata"
+     "Vivekananda Museum"
     ],
-    "source": "kolkatacitytour.com",
-    "title": "Indian Museum Kolkata – History, Timings, Tickets & Metro ..."
+    "source": "IndulgExpress",
+    "title": "Three home-museums in Kolkata history buffs must visit"
    },
    {
-    "about_this_result": {
-     "source": {
-      "description": "The RBI Museum in Kolk... · Aircraft Museum in New... · Railway Museum in Howr... · Railway Museum in Howr... · Birla Industrial & Tec... · Alipore ...",
-      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-     }
-    },
-    "displayed_link": "Peržiūrų: daugiau nei 1,3 tūkst. · prieš 1 metus",
-    "duration": "10:45",
-    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "link": "https://www.youtube.com/watch?v=r5cSSQGcgSs",
-    "position": 9,
-    "snippet": "The RBI Museum in Kolk... · Aircraft Museum in New... · Railway Museum in Howr... · Railway Museum in Howr... · Birla Industrial & Tec... · Alipore ...",
-    "source": "YouTube · Traveling Creature",
-    "thumbnail": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/v9ieGu25EKa6uvGaejH-96QmB0arhzqKUXPEP6_tkdM.jpeg",
-    "title": "Top 10 Best Museums in Kolkata | Must-Visit Hidden Gems ...",
-    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRSn9NveoBfFHMD4LlK6UBNpQKfHo1QDBSrCA"
-   },
-   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZXVDJpcnBjalZ4bk1NbFZiQ0VUNEJRX2hyUFgwV1IwLUJzb3RRRDAyOXhTaVd3Si1Dd1RRMFJ0R19xMTBaTWd6UjNDRmtlN2tpbFAzNk4yaDVPcDg3XzBYTFZlZDN5LUhicVNxWFJ3bzJjZkhOczVhNGpqZG5DOGtNR0xkSVpRX2c5Yi1yZzc0dU84bUdnZm9kZktfZFk3RDZGQUIxN1VtSXRQdWROVHlMTDY4LXQ2YlpmQ3FVNThzNFh4RU45SHpKdy1KRHJrQjgwQWhnbmUSBBoCCAAazwUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAqwUIABAAGAAgACoSCgR3aGF0FS2Rzj4aBXdoaWNoKiQKB211c2V1bXMV8S9JQBoGbXVzZXVtGgxpdjtwO211c2V1bXMqCgoDYXJlFQAAAAAqIwoFdGhlcmUVGqS9PhoDYW55GglhdmFpbGFibGUaBXRoZWlyKgkKAmluFQAAAAAqSAoHa29sa2F0YRXS-lxAGhRnZW87MzlmODkwMDAwMDAwMDAwMBoUZ2VvOzNhMDI3MDAwMDAwMDAwMDAaDGl2O3A7a29sa2F0YTLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGV1QyaXJwY2pWeG5NTWxWYkNFVDRCUV9oclBYMFdSMC1Cc290UUQwMjl4U2lXd0otQ3dUUTBSdEdfcTEwWk1nelIzQ0ZrZTdraWxQMzZOMmg1T3A4N18wWExWZWQzeS1IYnFTcVhSd28yY2ZITnM1YTRqamRuQzhrTUdMZElaUV9nOWItcmc3NHVPOG1HZ2ZvZGZLX2RZN0Q2RkFCMTdVbUl0UHVkTlR5TEw2OC10NmJaZkNxVTU4czRYeEVOOUh6SnctSkRya0I4MEFoZ25lOkpUaGUgNTAgYmVzdCBwaG90b2dyYXBoeSBnYWxsZXJpZXMgYW5kIDxiPm11c2V1bXM8L2I-IGluIDxiPktvbGthdGE8L2I-IC4uLkKXAVdpdGggZmF2b3JpdGVzIGxpa2UgPGI-VmljdG9yaWEgTWVtb3JpYWwsIE1hcmJsZSBQYWxhY2UsIGFuZCBJbmRpYW4gTXVzZXVtPC9iPiBhbmQgbW9yZSwgZ2V0IHJlYWR5IHRvIGV4cGVyaWVuY2UgdGhlIGJlc3QgcGxhY2VzIGluIEtvbGthdGEgKENhbGN1dHRhKS5KA2FyZUoCaW5SCWF2YWlsYWJsZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZXVDJpcnBjalZ4bk1NbFZiQ0VUNEJRX2hyUFgwV1IwLUJzb3RRRDAyOXhTaVd3Si1Dd1RRMFJ0R19xMTBaTWd6UjNDRmtlN2tpbFAzNk4yaDVPcDg3XzBYTFZlZDN5LUhicVNxWFJ3bzJjZkhOczVhNGpqZG5DOGtNR0xkSVpRX2c5Yi1yZzc0dU84bUdnZm9kZktfZFk3RDZGQUIxN1VtSXRQdWROVHlMTDY4LXQ2YlpmQ3FVNThzNFh4RU45SHpKdy1KRHJrQjgwQWhnbmUSBBoCCAAazwUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAqwUIABAAGAAgACoSCgR3aGF0FS2Rzj4aBXdoaWNoKiQKB211c2V1bXMV8S9JQBoGbXVzZXVtGgxpdjtwO211c2V1bXMqCgoDYXJlFQAAAAAqIwoFdGhlcmUVGqS9PhoDYW55GglhdmFpbGFibGUaBXRoZWlyKgkKAmluFQAAAAAqSAoHa29sa2F0YRXS-lxAGhRnZW87MzlmODkwMDAwMDAwMDAwMBoUZ2VvOzNhMDI3MDAwMDAwMDAwMDAaDGl2O3A7a29sa2F0YTLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGV1QyaXJwY2pWeG5NTWxWYkNFVDRCUV9oclBYMFdSMC1Cc290UUQwMjl4U2lXd0otQ3dUUTBSdEdfcTEwWk1nelIzQ0ZrZTdraWxQMzZOMmg1T3A4N18wWExWZWQzeS1IYnFTcVhSd28yY2ZITnM1YTRqamRuQzhrTUdMZElaUV9nOWItcmc3NHVPOG1HZ2ZvZGZLX2RZN0Q2RkFCMTdVbUl0UHVkTlR5TEw2OC10NmJaZkNxVTU4czRYeEVOOUh6SnctSkRya0I4MEFoZ25lOkpUaGUgNTAgYmVzdCBwaG90b2dyYXBoeSBnYWxsZXJpZXMgYW5kIDxiPm11c2V1bXM8L2I-IGluIDxiPktvbGthdGE8L2I-IC4uLkKXAVdpdGggZmF2b3JpdGVzIGxpa2UgPGI-VmljdG9yaWEgTWVtb3JpYWwsIE1hcmJsZSBQYWxhY2UsIGFuZCBJbmRpYW4gTXVzZXVtPC9iPiBhbmQgbW9yZSwgZ2V0IHJlYWR5IHRvIGV4cGVyaWVuY2UgdGhlIGJlc3QgcGxhY2VzIGluIEtvbGthdGEgKENhbGN1dHRhKS5KA2FyZUoCaW5SCWF2YWlsYWJsZSICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "lt"
+      "en"
      ],
      "regions": [
-      "LT"
+      "US"
      ],
      "source": {
-      "description": "Visit the Indian Museum in Kolkata - showcasing India's rich cultural heritage with an impressive collection of artifacts from around the world.",
-      "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAACwAwCdASocABwAPtFMtFooIqgoFAEAGglsAADq_5UlNmajdhfzWAD--qdf20xPp58RHa8sawu4E42iS567xRfpvr2vO__lnJRlfw2BU4vCQLwlTgAaj8CU5aVpzX8SYwTe--hIwaWsxoUa4hkm6GT4iAAAAA.webp",
-      "source_info_link": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata/indian-museum"
+      "description": "With favorites like Victoria Memorial, Marble Palace, and Indian Museum and more, get ready to experience the best places in Kolkata (Calcutta).",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEz6WkH2WED6WkH4WkD5WkD5WkD4WUD5WkD6WkH5WkD4WkD5WkH4WUBdpYkOAAAADXRSTlMAjQ5CKMhx9LZb1uWmmVwrlQAAAOhJREFUKJGFUtkSwyAIxAOv6P__bjkE7Uym5SFCVlkWAPhrsZeSLEil9OhQxiXWOQjqY1asr20Ux8cCvZrYG7OtQIFgbcrBPHTUnUNyBmGq5AEU-jq9YZSf3ALIH3D2aj49QqhSiGedLoEv3lmDZ9W8XF96A0nEA5NKfwMnUyTT-w12FTromPkbzJM7uJlfTeqM4w0apuEFxavq1TJE5YyQ2zr6pl30gvC0yvvgoHRAzdt7pJwJoP177EE4FZXNz8qFK61rjjz20aqKqI2V-VyZYqvDa9l8ePoz2Gbi2VuBu211ulf6h30AmEAQAxq1E7wAAAAASUVORK5CYII.png",
+      "source_info_link": "https://wanderlog.com/list/geoCategory/162016/best-photography-galleries-and-museums-in-kolkata-calcutta"
      }
     },
-    "displayed_link": "https://www.incredibleindia.gov.in › ...",
-    "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAACwAwCdASocABwAPtFMtFooIqgoFAEAGglsAADq_5UlNmajdhfzWAD--qdf20xPp58RHa8sawu4E42iS567xRfpvr2vO__lnJRlfw2BU4vCQLwlTgAaj8CU5aVpzX8SYwTe--hIwaWsxoUa4hkm6GT4iAAAAA.webp",
-    "link": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata/indian-museum",
-    "position": 10,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAV6zm-YFPjo6FOAcT-Tsxw2HhQ4KRjKq0GUtZcMnWWPZeLqFtFq5bJANFrAkO6JMvxhXEG6oKn1HqaVcJUvy-lxuInxSNsf73gzDN8-Z6a283EgBDjAM6xmtfrXv5X2oVPMHUBJH_c5hBP0d_R1VX-sygNqoH0QMvVNaU&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQFnoECFkQAQ&uoh=1",
-    "snippet": "Visit the Indian Museum in Kolkata - showcasing India's rich cultural heritage with an impressive collection of artifacts from around the world.",
+    "displayed_link": "https://wanderlog.com › list › geoCategory › best-photo...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEz6WkH2WED6WkH4WkD5WkD5WkD4WUD5WkD6WkH5WkD4WkD5WkH4WUBdpYkOAAAADXRSTlMAjQ5CKMhx9LZb1uWmmVwrlQAAAOhJREFUKJGFUtkSwyAIxAOv6P__bjkE7Uym5SFCVlkWAPhrsZeSLEil9OhQxiXWOQjqY1asr20Ux8cCvZrYG7OtQIFgbcrBPHTUnUNyBmGq5AEU-jq9YZSf3ALIH3D2aj49QqhSiGedLoEv3lmDZ9W8XF96A0nEA5NKfwMnUyTT-w12FTromPkbzJM7uJlfTeqM4w0apuEFxavq1TJE5YyQ2zr6pl30gvC0yvvgoHRAzdt7pJwJoP177EE4FZXNz8qFK61rjjz20aqKqI2V-VyZYqvDa9l8ePoz2Gbi2VuBu211ulf6h30AmEAQAxq1E7wAAAAASUVORK5CYII.png",
+    "link": "https://wanderlog.com/list/geoCategory/162016/best-photography-galleries-and-museums-in-kolkata-calcutta",
+    "position": 5,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFWT2irpcjVxnMMlVbCET4BQ_hrPX0WR0-BsotQD029xSiWwJ-CwTQ0RtG_q10ZMgzR3CFke7kilP36N2h5Op87_0XLVed3y-HbqSqXRwo2cfHNs5a4jjdnC8kMGLdIZQ_g9b-rg74uO8mGgfodfK_dY7D6FAB17UmItPudNTyLL68-t6bZfCqU58s4XxEN9HzJw-JDrkB80Ahgne&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0QFnoECE4QAQ&uoh=1",
+    "snippet": "With favorites like Victoria Memorial, Marble Palace, and Indian Museum and more, get ready to experience the best places in Kolkata (Calcutta).",
     "snippet_highlighted_words": [
-     "Indian Museum in Kolkata"
+     "Victoria Memorial, Marble Palace, and Indian Museum"
     ],
-    "source": "Incredible India",
-    "title": "Explore the Indian Museum in Kolkata"
+    "source": "Wanderlog",
+    "title": "The 50 best photography galleries and museums in ..."
+   },
+   {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVjVHbE42TWhyelRFazF4UDhCUUhXU2NZRTljOXNUcTFWUXRWTFRUc2FXVzlXMWJIU0xWM2FWdF9qNmpmbWxVc0gtVVZyeDMyUDNIRUVJcVI1eEJWMURZa2M5WkVrQnc4cjdvMk1nZi05WlBMdDYzeFlkclFRVHh4cWJUNGliMlktQWRienVqem14TkFyM1hDU3RfLWQyNUxLY0ESBBoCCAAajQUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA6QQIABAAGAAgACoSCgR3aGF0FWXRKz4aBXdoaWNoKiQKB211c2V1bXMVrg5kQBoGbXVzZXVtGgxpdjtwO211c2V1bXMqCgoDYXJlFQAAAAAqIwoFdGhlcmUVsX7DPhoDYW55GglhdmFpbGFibGUaBXRoZWlyKgkKAmluFQAAAAAqSAoHa29sa2F0YRXeq55AGhRnZW87MzlmODkwMDAwMDAwMDAwMBoUZ2VvOzNhMDI3MDAwMDAwMDAwMDAaDGl2O3A7a29sa2F0YTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVY1R2xONk1ocnpURWsxeFA4QlFIV1NjWUU5YzlzVHExVlF0VkxUVHNhV1c5VzFiSFNMVjNhVnRfajZqZm1sVXNILVVWcngzMlAzSEVFSXFSNXhCVjFEWWtjOVpFa0J3OHI3bzJNZ2YtOVpQTHQ2M3hZZHJRUVR4eHFiVDRpYjJZLUFkYnp1anpteE5BcjNYQ1N0Xy1kMjVMS2NBOjZIaXN0b3JpY2FsIDxiPk11c2V1bXM8L2I-IGluIDxiPktvbGthdGE8L2I-IC0gSnVzdGRpYWxCnwFGcm9tIHRoZSA8Yj5veGZvcmQgaGlzdG9yaWNhbCBtdXNldW08L2I-IHRvIHRoZSBuYXRpb25hbCBtdXNldW0gZm9yIGFmcmljYW4gYW1lcmljYW4gaGlzdG9yeSBhbmQgY3VsdHVyZSwgZWFjaCBsb2NhdGlvbiBwcm92aWRlcyBhIHVuaXF1ZSBnbGltcHNlIGludG8gaGlzdG9yeS5KAmluSgNhcmVSCWF2YWlsYWJsZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVjVHbE42TWhyelRFazF4UDhCUUhXU2NZRTljOXNUcTFWUXRWTFRUc2FXVzlXMWJIU0xWM2FWdF9qNmpmbWxVc0gtVVZyeDMyUDNIRUVJcVI1eEJWMURZa2M5WkVrQnc4cjdvMk1nZi05WlBMdDYzeFlkclFRVHh4cWJUNGliMlktQWRienVqem14TkFyM1hDU3RfLWQyNUxLY0ESBBoCCAAajQUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA6QQIABAAGAAgACoSCgR3aGF0FWXRKz4aBXdoaWNoKiQKB211c2V1bXMVrg5kQBoGbXVzZXVtGgxpdjtwO211c2V1bXMqCgoDYXJlFQAAAAAqIwoFdGhlcmUVsX7DPhoDYW55GglhdmFpbGFibGUaBXRoZWlyKgkKAmluFQAAAAAqSAoHa29sa2F0YRXeq55AGhRnZW87MzlmODkwMDAwMDAwMDAwMBoUZ2VvOzNhMDI3MDAwMDAwMDAwMDAaDGl2O3A7a29sa2F0YTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVY1R2xONk1ocnpURWsxeFA4QlFIV1NjWUU5YzlzVHExVlF0VkxUVHNhV1c5VzFiSFNMVjNhVnRfajZqZm1sVXNILVVWcngzMlAzSEVFSXFSNXhCVjFEWWtjOVpFa0J3OHI3bzJNZ2YtOVpQTHQ2M3hZZHJRUVR4eHFiVDRpYjJZLUFkYnp1anpteE5BcjNYQ1N0Xy1kMjVMS2NBOjZIaXN0b3JpY2FsIDxiPk11c2V1bXM8L2I-IGluIDxiPktvbGthdGE8L2I-IC0gSnVzdGRpYWxCnwFGcm9tIHRoZSA8Yj5veGZvcmQgaGlzdG9yaWNhbCBtdXNldW08L2I-IHRvIHRoZSBuYXRpb25hbCBtdXNldW0gZm9yIGFmcmljYW4gYW1lcmljYW4gaGlzdG9yeSBhbmQgY3VsdHVyZSwgZWFjaCBsb2NhdGlvbiBwcm92aWRlcyBhIHVuaXF1ZSBnbGltcHNlIGludG8gaGlzdG9yeS5KAmluSgNhcmVSCWF2YWlsYWJsZSICEAFIAFgAaAA",
+    "about_this_result": {
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "US"
+     ],
+     "source": {
+      "description": "From the oxford historical museum to the national museum for african american history and culture, each location provides a unique glimpse into history.",
+      "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+      "source_info_link": "https://www.justdial.com/Kolkata/Historical-Museums/nct-11981665"
+     }
+    },
+    "displayed_link": "https://www.justdial.com › ... › 58+ Listings",
+    "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+    "link": "https://www.justdial.com/Kolkata/Historical-Museums/nct-11981665",
+    "position": 6,
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAV5GlN6MhrzTEk1xP8BQHWScYE9c9sTq1VQtVLTTsaWW9W1bHSLV3aVt_j6jfmlUsH-UVrx32P3HEEIqR5xBV1DYkc9ZEkBw8r7o2Mgf-9ZPLt63xYdrQQTxxqbT4ib2Y-AdbzujzmxNAr3XCSt_-d25LKcA&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0QFnoECE0QAQ&uoh=1",
+    "snippet": "From the oxford historical museum to the national museum for african american history and culture, each location provides a unique glimpse into history.",
+    "snippet_highlighted_words": [
+     "oxford historical museum"
+    ],
+    "source": "Justdial",
+    "title": "Historical Museums in Kolkata"
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=10&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8NMDegQIThAW",
+   "next": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=c16286b74a8621df&sxsrf=APpeQnu6NSxuEBkdVeePTH5QbuiVZG-JkA:1790544669830&ei=HYu5arCTMvuh5NoPzvyv6QM&start=10&sa=N&sstk=AS6-VmKdnPiW1M-ymvmm5t5vYN7cqiP6upYzzeb3Nt4JFV1L0Kz5TyrPqyMxXvoH0eNZpfWFBX1Od5cEVsXSHlaEN6LMTkF0Yjy0tQ&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0Q8NMDegQIRxAO",
    "other_pages": {
-    "10": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=90&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8tMDegQIThAU",
-    "2": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=10&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8tMDegQIThAE",
-    "3": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=20&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8tMDegQIThAG",
-    "4": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=30&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8tMDegQIThAI",
-    "5": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=40&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8tMDegQIThAK",
-    "6": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=50&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8tMDegQIThAM",
-    "7": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=60&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8tMDegQIThAO",
-    "8": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=70&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8tMDegQIThAQ",
-    "9": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=932ce377fb08cd9d&ei=u8qvar_ZNp3Z1e8P1NOhwQU&start=80&sa=N&sstk=AS6-VmI_r4KM2LxHQCb47BCjkkZAiKYm3nO6Iu-YlKtAoa0Ti9HdANBRH81hHOGN3zwh8Tvrn8zNHSZMh6n04aa-PRxNBjxwmzH9Dw&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ8tMDegQIThAS"
+    "2": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=c16286b74a8621df&sxsrf=APpeQnu6NSxuEBkdVeePTH5QbuiVZG-JkA:1790544669830&ei=HYu5arCTMvuh5NoPzvyv6QM&start=10&sa=N&sstk=AS6-VmKdnPiW1M-ymvmm5t5vYN7cqiP6upYzzeb3Nt4JFV1L0Kz5TyrPqyMxXvoH0eNZpfWFBX1Od5cEVsXSHlaEN6LMTkF0Yjy0tQ&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0Q8tMDegQIRxAE",
+    "3": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=c16286b74a8621df&sxsrf=APpeQnu6NSxuEBkdVeePTH5QbuiVZG-JkA:1790544669830&ei=HYu5arCTMvuh5NoPzvyv6QM&start=20&sa=N&sstk=AS6-VmKdnPiW1M-ymvmm5t5vYN7cqiP6upYzzeb3Nt4JFV1L0Kz5TyrPqyMxXvoH0eNZpfWFBX1Od5cEVsXSHlaEN6LMTkF0Yjy0tQ&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0Q8tMDegQIRxAG",
+    "4": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=c16286b74a8621df&sxsrf=APpeQnu6NSxuEBkdVeePTH5QbuiVZG-JkA:1790544669830&ei=HYu5arCTMvuh5NoPzvyv6QM&start=30&sa=N&sstk=AS6-VmKdnPiW1M-ymvmm5t5vYN7cqiP6upYzzeb3Nt4JFV1L0Kz5TyrPqyMxXvoH0eNZpfWFBX1Od5cEVsXSHlaEN6LMTkF0Yjy0tQ&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0Q8tMDegQIRxAI",
+    "5": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=c16286b74a8621df&sxsrf=APpeQnu6NSxuEBkdVeePTH5QbuiVZG-JkA:1790544669830&ei=HYu5arCTMvuh5NoPzvyv6QM&start=40&sa=N&sstk=AS6-VmKdnPiW1M-ymvmm5t5vYN7cqiP6upYzzeb3Nt4JFV1L0Kz5TyrPqyMxXvoH0eNZpfWFBX1Od5cEVsXSHlaEN6LMTkF0Yjy0tQ&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0Q8tMDegQIRxAK",
+    "6": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata?&sca_esv=c16286b74a8621df&sxsrf=APpeQnu6NSxuEBkdVeePTH5QbuiVZG-JkA:1790544669830&ei=HYu5arCTMvuh5NoPzvyv6QM&start=50&sa=N&sstk=AS6-VmKdnPiW1M-ymvmm5t5vYN7cqiP6upYzzeb3Nt4JFV1L0Kz5TyrPqyMxXvoH0eNZpfWFBX1Od5cEVsXSHlaEN6LMTkF0Yjy0tQ&ved=2ahUKEwjwlf_X2o-XAxX7EFkFHU7-Kz0Q8tMDegQIRxAM"
    }
   },
   "related_questions": [
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVYUnZPVzlpZEhRNVJ6RjRhazVZT0VJMkxXUnNVMWx6WXpsVExUZzNVa1pVZUVWVldEZHROR1o0ZVZJd2EwbzVUMk5oYlZCRFJrMVVjMjlvVjNvelh6aDFiR2h2UWpWQlRHcE5abEYzZDBaUVUyOWphM2t5YW1FeVFSSVhkVGh4ZG1GeVgxcE9jRE5hTVdVNFVERk9UMmgzVVZVYUlrRkVjM0k1WmxKRlkycGtORXRwY0hWbk5IbENkWEpxY2twdlNESlFXakpvUWxFIiwiZmN2IjoiMyIsImVpIjoidThxdmFyX1pOcDNaMWU4UDFOT2h3UVUiLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMTlkU0VfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmYW1vdXMgbXVzZXVtIGluIEtvbGthdGE/IiwibGsiOiJHaVIzYUdGMElHbHpJSFJvWlNCbVlXMXZkWE1nYlhWelpYVnRJR2x1SUd0dmJHdGhkR0UiLCJicyI6ImMtUHk1MUlOejBnc1VjZ3NWaWpKU0ZWSVM4ek5MeTFXeUMwdFRpM05WY2pNVV9ET3o4bE9MRW0wTjFLVFVpbkhwekFib3BETGxVdkJJNzljSVRjeHJ4SXFXNnlRV0pTS1lwYWlsSHdHRGpVd1k0SzRETUR1QWdtblpaYkJMU3pJU1V4T0JUb2hYNkVzc3ppekJNVllPU2taREtYSVp0cHlLWHVDWFE4ME0xR2hQTDhvSndXYlQ4V2tSRkRrb05vRkdBRSIsImlkIjoiZmNfdThxdmFyX1pOcDNaMWU4UDFOT2h3UVVfNiJ9",
-    "page_token": "O2rlJXicHdBbboJAFADQdDN-VhjEJiamqZVRaRzKvID5aYYBRbk8VCroX_fSVXU1bbqDk_P1DYe6_Hm4Fl3XXmbjcd_3j_um2UP-aJpqrC-32oyNBki1KWfTp6n9vDNz73OzeD1tFqFoW7mkFjtYNot8qWLlModQEYdOGEmQFX0jSz9IeFFnK3cia8XUOqOppFysMEotC-VrMZAICKkgSpAsyd10CV-46cqNNFY3bi_8rVfo1FGBxrKlS1rzmIYC2aXiwGTkT3OhrrrOelIOEMQZJqi7BmKIWeV66hi6godIxpjm8sViwqAcE5Yt_UmOM0kqckhr0ZkVWDQucFK11CsyO1hjlMT-Lirdfms3g-JFuBXuu_7zS9ocQkHv5giVkLBJBZwDTCfcGloCEOkjnIj0OgZEpahDqh_tzHXujP4_5x-7qpu152b_C9fLgqY",
-    "question": "What is the famous museum in Kolkata?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=O2rlJXicHdBbboJAFADQdDN-VhjEJiamqZVRaRzKvID5aYYBRbk8VCroX_fSVXU1bbqDk_P1DYe6_Hm4Fl3XXmbjcd_3j_um2UP-aJpqrC-32oyNBki1KWfTp6n9vDNz73OzeD1tFqFoW7mkFjtYNot8qWLlModQEYdOGEmQFX0jSz9IeFFnK3cia8XUOqOppFysMEotC-VrMZAICKkgSpAsyd10CV-46cqNNFY3bi_8rVfo1FGBxrKlS1rzmIYC2aXiwGTkT3OhrrrOelIOEMQZJqi7BmKIWeV66hi6godIxpjm8sViwqAcE5Yt_UmOM0kqckhr0ZkVWDQucFK11CsyO1hjlMT-Lirdfms3g-JFuBXuu_7zS9ocQkHv5giVkLBJBZwDTCfcGloCEOkjnIj0OgZEpahDqh_tzHXujP4_5x-7qpu152b_C9fLgqY",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVYUnZPVzlpZEhRNVJ6RjRhazVZT0VJMkxXUnNVMWx6WXpsVExUZzNVa1pVZUVWVldEZHROR1o0ZVZJd2EwbzVUMk5oYlZCRFJrMVVjMjlvVjNvelh6aDFiR2h2UWpWQlRHcE5abEYzZDBaUVUyOWphM2t5YW1FeVFSSVhkVGh4ZG1GeVgxcE9jRE5hTVdVNFVERk9UMmgzVVZVYUlrRkVjM0k1WmxKRlkycGtORXRwY0hWbk5IbENkWEpxY2twdlNESlFXakpvUWxFIiwiZmN2IjoiMyIsImVpIjoidThxdmFyX1pOcDNaMWU4UDFOT2h3UVUiLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMTlkU0VfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmYW1vdXMgbXVzZXVtIGluIEtvbGthdGE%2FIiwibGsiOiJHaVIzYUdGMElHbHpJSFJvWlNCbVlXMXZkWE1nYlhWelpYVnRJR2x1SUd0dmJHdGhkR0UiLCJicyI6ImMtUHk1MUlOejBnc1VjZ3NWaWpKU0ZWSVM4ek5MeTFXeUMwdFRpM05WY2pNVV9ET3o4bE9MRW0wTjFLVFVpbkhwekFib3BETGxVdkJJNzljSVRjeHJ4SXFXNnlRV0pTS1lwYWlsSHdHRGpVd1k0SzRETUR1QWdtblpaYkJMU3pJU1V4T0JUb2hYNkVzc3ppekJNVllPU2taREtYSVp0cHlLWHVDWFE4ME0xR2hQTDhvSndXYlQ4V2tSRkRrb05vRkdBRSIsImlkIjoiZmNfdThxdmFyX1pOcDNaMWU4UDFOT2h3UVVfNiJ9",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVYUnZPVzlpZEhRNVJ6RjRhazVZT0VJMkxXUnNVMWx6WXpsVExUZzNVa1pVZUVWVldEZHROR1o0ZVZJd2EwbzVUMk5oYlZCRFJrMVVjMjlvVjNvelh6aDFiR2h2UWpWQlRHcE5abEYzZDBaUVUyOWphM2t5YW1FeVFSSVhkVGh4ZG1GeVgxcE9jRE5hTVdVNFVERk9UMmgzVVZVYUlrRkVjM0k1WmxKRlkycGtORXRwY0hWbk5IbENkWEpxY2twdlNESlFXakpvUWxFIiwiZmN2IjoiMyIsImVpIjoidThxdmFyX1pOcDNaMWU4UDFOT2h3UVUiLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMTlkU0VfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBtdXNldW1zIGFyZSBpbiBLb2xrYXRhPyIsImxrIjoiR2g5b2IzY2diV0Z1ZVNCdGRYTmxkVzF6SUdGeVpTQnBiaUJyYjJ4cllYUmgiLCJicyI6ImMtUHk1MUlOejBnc1VjZ3NWaWpKU0ZWSVM4ek5MeTFXeUMwdFRpM05WY2pNVV9ET3o4bE9MRW0wTjFLVFVpbkhwekFib3BETGxVdkJJNzljSVRjeHJ4SXFXNnlRV0pTS1lwYWlsSHdHRGpVd1k0SzRETUR1QWdtblpaYkJMU3pJU1V4T0JUb2hYNkVzc3ppekJNVllPU2taREtYSVp0cHlLWHVDWFE4ME0xR2hQTDhvSndXYlQ4V2tSRkRrb05vRkdBRSIsImlkIjoiZmNfdThxdmFyX1pOcDNaMWU4UDFOT2h3UVVfNiJ9",
-    "page_token": "35Qob3icHdBRTsIwGADgeBkfZRuCSkJMwHVjskK7_S3rixmtbNLChpRN--ZdPJWn0XiB7-H7-jZvR_1z1dXWtufJYND3_U3VNJV5vZHNYVCeP49yIEtjtqXUk_Hd2H_cyWl4Wczmp8WMQNuyJ-rlkecYSuZlJBiOE0c4O4F5MNhj8MrrJGdsjH3VSTSriU4_8B6fVjFepYfRpeCpxdoaHtYdRGHPke4BVR5HbYzDpKA6ccCZyHy1gLAeqyD1lkx0q1DY1Bs9gyGB4OazROIZAtRtN9qp0IgCKpsH4GdodmE--MDaDdmrS_aEIIe2k0O03Dp9S474rBz-s-8tdsKjEaVhrfxVjIJik-y4HvWp33yIvCYpjNZlrCijzRsB6uTeHEDjbMmpzjWaUw6OmhqKodHEVbdin6yzCFnVX-9kNx1e_39OX3YHO2nfm-oXIK6Dtw",
-    "question": "How many museums are in Kolkata?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=35Qob3icHdBRTsIwGADgeBkfZRuCSkJMwHVjskK7_S3rixmtbNLChpRN--ZdPJWn0XiB7-H7-jZvR_1z1dXWtufJYND3_U3VNJV5vZHNYVCeP49yIEtjtqXUk_Hd2H_cyWl4Wczmp8WMQNuyJ-rlkecYSuZlJBiOE0c4O4F5MNhj8MrrJGdsjH3VSTSriU4_8B6fVjFepYfRpeCpxdoaHtYdRGHPke4BVR5HbYzDpKA6ccCZyHy1gLAeqyD1lkx0q1DY1Bs9gyGB4OazROIZAtRtN9qp0IgCKpsH4GdodmE--MDaDdmrS_aEIIe2k0O03Dp9S474rBz-s-8tdsKjEaVhrfxVjIJik-y4HvWp33yIvCYpjNZlrCijzRsB6uTeHEDjbMmpzjWaUw6OmhqKodHEVbdin6yzCFnVX-9kNx1e_39OX3YHO2nfm-oXIK6Dtw",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVYUnZPVzlpZEhRNVJ6RjRhazVZT0VJMkxXUnNVMWx6WXpsVExUZzNVa1pVZUVWVldEZHROR1o0ZVZJd2EwbzVUMk5oYlZCRFJrMVVjMjlvVjNvelh6aDFiR2h2UWpWQlRHcE5abEYzZDBaUVUyOWphM2t5YW1FeVFSSVhkVGh4ZG1GeVgxcE9jRE5hTVdVNFVERk9UMmgzVVZVYUlrRkVjM0k1WmxKRlkycGtORXRwY0hWbk5IbENkWEpxY2twdlNESlFXakpvUWxFIiwiZmN2IjoiMyIsImVpIjoidThxdmFyX1pOcDNaMWU4UDFOT2h3UVUiLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMTlkU0VfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBtdXNldW1zIGFyZSBpbiBLb2xrYXRhPyIsImxrIjoiR2g5b2IzY2diV0Z1ZVNCdGRYTmxkVzF6SUdGeVpTQnBiaUJyYjJ4cllYUmgiLCJicyI6ImMtUHk1MUlOejBnc1VjZ3NWaWpKU0ZWSVM4ek5MeTFXeUMwdFRpM05WY2pNVV9ET3o4bE9MRW0wTjFLVFVpbkhwekFib3BETGxVdkJJNzljSVRjeHJ4SXFXNnlRV0pTS1lwYWlsSHdHRGpVd1k0SzRETUR1QWdtblpaYkJMU3pJU1V4T0JUb2hYNkVzc3ppekJNVllPU2taREtYSVp0cHlLWHVDWFE4ME0xR2hQTDhvSndXYlQ4V2tSRkRrb05vRkdBRSIsImlkIjoiZmNfdThxdmFyX1pOcDNaMWU4UDFOT2h3UVVfNiJ9",
-    "type": "ai_overview"
-   },
-   {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVYUnZPVzlpZEhRNVJ6RjRhazVZT0VJMkxXUnNVMWx6WXpsVExUZzNVa1pVZUVWVldEZHROR1o0ZVZJd2EwbzVUMk5oYlZCRFJrMVVjMjlvVjNvelh6aDFiR2h2UWpWQlRHcE5abEYzZDBaUVUyOWphM2t5YW1FeVFSSVhkVGh4ZG1GeVgxcE9jRE5hTVdVNFVERk9UMmgzVVZVYUlrRkVjM0k1WmxKRlkycGtORXRwY0hWbk5IbENkWEpxY2twdlNESlFXakpvUWxFIiwiZmN2IjoiMyIsImVpIjoidThxdmFyX1pOcDNaMWU4UDFOT2h3UVUiLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMTlkU0VfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBmaXZlIGZhbW91cyBwbGFjZXMgdG8gdmlzaXQgaW4gS29sa2F0YT8iLCJsayI6IkdoeG1hWFpsSUdaaGJXOTFjeUJ3YkdGalpTQnBiaUJyYjJ4cllYUmgiLCJicyI6ImMtUHk1MUlOejBnc1VjZ3NWaWpKU0ZWSVM4ek5MeTFXeUMwdFRpM05WY2pNVV9ET3o4bE9MRW0wTjFLVFVpbkhwekFib3BETGxVdkJJNzljSVRjeHJ4SXFXNnlRV0pTS1lwYWlsSHdHRGpVd1k0SzRETUR1QWdtblpaYkJMU3pJU1V4T0JUb2hYNkVzc3ppekJNVllPU2taREtYSVp0cHlLWHVDWFE4ME0xR2hQTDhvSndXYlQ4V2tSRkRrb05vRkdBRSIsImlkIjoiZmNfdThxdmFyX1pOcDNaMWU4UDFOT2h3UVVfNiJ9",
-    "page_token": "PRzPSXicHZBRjqIwAECzl5nPkVJxxcRs0hFkyLRskRbtz6a0CiMUyFgF-Zsr7Bn2VHuaMXOA9_LyPv817239_8ffytr-sprNhmF4LruubI7PqjMzebm3aqZk0xRS1avFzwX4dVLr4KbQy4dClPU936TOriYi3SjAge9xs3TfWEO1AbEKlXeY6pE4gDATe3Lb2_ycRjtQ3qXhCx2RQW4OQxGk9hgsXb3nr0VYxUUYWw37mhqQYOa9MLacH2vBi6CbCjfccVg6B47iIlMe49UtCdGU5naO4eso6z4jMHx06J4zHdA8FNgZ28zlVkSxyY1PMuafGSSJ2vIrgbErGvEmA2-Rb_FEnPGS5L7BmbizSLd8T-GDmbMWdRQKFFQaJFHoHvbxKa-9AYNuFFlFH52_ZaRTnnbvlKWTOjeGR-jh59e9az3SonsBUYLrkeJAXDH356oRGaVPJ3Vbw6fv1-s_J2NX_UdXfgGlRYqv",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdGTkNXWGxJVkVrdFZtdDBUMmR3TTNOa1NFTk1SVzFwVkdsV1lUUkRjV2xMWlVsNmEyMDJXbGRZT1ZjME0wdDVlV2hwU21RMFVrY3dla1pUZVZkclQwNWtVVUpZYjNkTVVEQlJUMUJzWm1GR1ZVdHdNR1pxVTBwSGR4SVhTRmwxTldGeVExUk5kblZvTlU1dlVIcDJlWFkyVVUwYUlrRkVjM0k1WmxKV1dITnhiVzVGTW1kVk1FZGtSVFpLUm1KYVdIUk5hblZ5WlZFIiwiZmN2IjoiMyIsImVpIjoiSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU0iLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMW1EUEktIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBmaXZlIGZhbW91cyBwbGFjZXMgdG8gdmlzaXQgaW4gS29sa2F0YT8iLCJsayI6IkdoeG1hWFpsSUdaaGJXOTFjeUJ3YkdGalpTQnBiaUJyYjJ4cllYUmgiLCJicyI6ImMtTUs0aklJejBnc1VVZ3NTbFZJeXl3REVvbTUtYVhGQ2dVNWljbXB4UW9sLVFwbG1jV1pKUXFaZVFyZS1UblppU1dKOWtaeVVqSVlTa0VLc2lFS3VHeTVsRDJCV2pOU2dXWW1LcFRuRi1Xa0tPU1dGcWVXNXFJWUl5WWxnaUlIMC03S3BlQ1JYNjZRbTVoWENaVXFCanNQV2EtaWxId0dEalZJeG9COWxsa00wNmFRbTE5Y0FuTjFXbjRSMkpoeXFKcHM3R29FR0FFIiwiaWQiOiJmY19IWXU1YXJDVE12dWg1Tm9QenZ5djZRTV8zIn0=",
+    "page_token": "DhO2wHicHdBNjpswGABQ9TKznMQwTJVI0agpthOrEEFsf-BNBTYJAfMzDA2EXa_QM_RUPU2rHuBt3s_f9tbWfz79Ksex_9iuVtM0PV-77mqLZ901q-zj0eqVzqzNM11vXz-_oreL3uG73n8d9D4SfS_9eH12lWN88q2gXlVYNYCQWApUSvtlfebkES12Dg4MgpagwCEnddg_gJLZNIjG9DhKHqAsYTZoYhZKMkg6kxQk54j94C2ejVRZVveeXCs3WeR7gvqzpj0xLgmFsDPU80uBpymF-T2Fl0dem5s6xHPuWMqhdLkj93lVNulihkiGvl6YAxX20oQh4cZ-6BA_FciLYCYn2EShw04ZYW1oA1fg-JITcw9bJlPYLLg0R0gE-md9iZFj4Ip4s4mKVnmmUjGPu1sk4kVXtpGUWcAjA5_c0iqkGiwGQY7AQyowKxVRo5qeLvq-c5_-X---X5px2w_d9S--n4wF",
     "question": "What are five famous places to visit in Kolkata?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PRzPSXicHZBRjqIwAECzl5nPkVJxxcRs0hFkyLRskRbtz6a0CiMUyFgF-Zsr7Bn2VHuaMXOA9_LyPv817239_8ffytr-sprNhmF4LruubI7PqjMzebm3aqZk0xRS1avFzwX4dVLr4KbQy4dClPU936TOriYi3SjAge9xs3TfWEO1AbEKlXeY6pE4gDATe3Lb2_ycRjtQ3qXhCx2RQW4OQxGk9hgsXb3nr0VYxUUYWw37mhqQYOa9MLacH2vBi6CbCjfccVg6B47iIlMe49UtCdGU5naO4eso6z4jMHx06J4zHdA8FNgZ28zlVkSxyY1PMuafGSSJ2vIrgbErGvEmA2-Rb_FEnPGS5L7BmbizSLd8T-GDmbMWdRQKFFQaJFHoHvbxKa-9AYNuFFlFH52_ZaRTnnbvlKWTOjeGR-jh59e9az3SonsBUYLrkeJAXDH356oRGaVPJ3Vbw6fv1-s_J2NX_UdXfgGlRYqv",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVYUnZPVzlpZEhRNVJ6RjRhazVZT0VJMkxXUnNVMWx6WXpsVExUZzNVa1pVZUVWVldEZHROR1o0ZVZJd2EwbzVUMk5oYlZCRFJrMVVjMjlvVjNvelh6aDFiR2h2UWpWQlRHcE5abEYzZDBaUVUyOWphM2t5YW1FeVFSSVhkVGh4ZG1GeVgxcE9jRE5hTVdVNFVERk9UMmgzVVZVYUlrRkVjM0k1WmxKRlkycGtORXRwY0hWbk5IbENkWEpxY2twdlNESlFXakpvUWxFIiwiZmN2IjoiMyIsImVpIjoidThxdmFyX1pOcDNaMWU4UDFOT2h3UVUiLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMTlkU0VfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBmaXZlIGZhbW91cyBwbGFjZXMgdG8gdmlzaXQgaW4gS29sa2F0YT8iLCJsayI6IkdoeG1hWFpsSUdaaGJXOTFjeUJ3YkdGalpTQnBiaUJyYjJ4cllYUmgiLCJicyI6ImMtUHk1MUlOejBnc1VjZ3NWaWpKU0ZWSVM4ek5MeTFXeUMwdFRpM05WY2pNVV9ET3o4bE9MRW0wTjFLVFVpbkhwekFib3BETGxVdkJJNzljSVRjeHJ4SXFXNnlRV0pTS1lwYWlsSHdHRGpVd1k0SzRETUR1QWdtblpaYkJMU3pJU1V4T0JUb2hYNkVzc3ppekJNVllPU2taREtYSVp0cHlLWHVDWFE4ME0xR2hQTDhvSndXYlQ4V2tSRkRrb05vRkdBRSIsImlkIjoiZmNfdThxdmFyX1pOcDNaMWU4UDFOT2h3UVVfNiJ9",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DhO2wHicHdBNjpswGABQ9TKznMQwTJVI0agpthOrEEFsf-BNBTYJAfMzDA2EXa_QM_RUPU2rHuBt3s_f9tbWfz79Ksex_9iuVtM0PV-77mqLZ901q-zj0eqVzqzNM11vXz-_oreL3uG73n8d9D4SfS_9eH12lWN88q2gXlVYNYCQWApUSvtlfebkES12Dg4MgpagwCEnddg_gJLZNIjG9DhKHqAsYTZoYhZKMkg6kxQk54j94C2ejVRZVveeXCs3WeR7gvqzpj0xLgmFsDPU80uBpymF-T2Fl0dem5s6xHPuWMqhdLkj93lVNulihkiGvl6YAxX20oQh4cZ-6BA_FciLYCYn2EShw04ZYW1oA1fg-JITcw9bJlPYLLg0R0gE-md9iZFj4Ip4s4mKVnmmUjGPu1sk4kVXtpGUWcAjA5_c0iqkGiwGQY7AQyowKxVRo5qeLvq-c5_-X---X5px2w_d9S--n4wF",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdGTkNXWGxJVkVrdFZtdDBUMmR3TTNOa1NFTk1SVzFwVkdsV1lUUkRjV2xMWlVsNmEyMDJXbGRZT1ZjME0wdDVlV2hwU21RMFVrY3dla1pUZVZkclQwNWtVVUpZYjNkTVVEQlJUMUJzWm1GR1ZVdHdNR1pxVTBwSGR4SVhTRmwxTldGeVExUk5kblZvTlU1dlVIcDJlWFkyVVUwYUlrRkVjM0k1WmxKV1dITnhiVzVGTW1kVk1FZGtSVFpLUm1KYVdIUk5hblZ5WlZFIiwiZmN2IjoiMyIsImVpIjoiSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU0iLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMW1EUEktIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBmaXZlIGZhbW91cyBwbGFjZXMgdG8gdmlzaXQgaW4gS29sa2F0YT8iLCJsayI6IkdoeG1hWFpsSUdaaGJXOTFjeUJ3YkdGalpTQnBiaUJyYjJ4cllYUmgiLCJicyI6ImMtTUs0aklJejBnc1VVZ3NTbFZJeXl3REVvbTUtYVhGQ2dVNWljbXB4UW9sLVFwbG1jV1pKUXFaZVFyZS1UblppU1dKOWtaeVVqSVlTa0VLc2lFS3VHeTVsRDJCV2pOU2dXWW1LcFRuRi1Xa0tPU1dGcWVXNXFJWUl5WWxnaUlIMC03S3BlQ1JYNjZRbTVoWENaVXFCanNQV2EtaWxId0dEalZJeG9COWxsa00wNmFRbTE5Y0FuTjFXbjRSMkpoeXFKcHM3R29FR0FFIiwiaWQiOiJmY19IWXU1YXJDVE12dWg1Tm9QenZ5djZRTV8zIn0%3D",
     "type": "ai_overview"
    },
    {
-    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVYUnZPVzlpZEhRNVJ6RjRhazVZT0VJMkxXUnNVMWx6WXpsVExUZzNVa1pVZUVWVldEZHROR1o0ZVZJd2EwbzVUMk5oYlZCRFJrMVVjMjlvVjNvelh6aDFiR2h2UWpWQlRHcE5abEYzZDBaUVUyOWphM2t5YW1FeVFSSVhkVGh4ZG1GeVgxcE9jRE5hTVdVNFVERk9UMmgzVVZVYUlrRkVjM0k1WmxKRlkycGtORXRwY0hWbk5IbENkWEpxY2twdlNESlFXakpvUWxFIiwiZmN2IjoiMyIsImVpIjoidThxdmFyX1pOcDNaMWU4UDFOT2h3UVUiLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMTlkU0VfIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIHdvcmxkIG11c2V1bSBpbiBLb2xrYXRhPyIsImxrIjoiR2hSM2IzSnNaQ0J0ZFhObGRXMGdhMjlzYTJGMFlRIiwiYnMiOiJjLVB5NTFJTnowZ3NVY2dzVmlqSlNGVklTOHpOTHkxV3lDMHRUaTNOVmNqTVVfRE96OGxPTEVtME4xS1RVaW5IcHpBYm9wRExsVXZCSTc5Y0lUY3hyeElxVzZ5UVdKU0tZcGFpbEh3R0RqVXdZNEs0RE1EdUFnbW5aWmJCTFN6SVNVeE9CVG9oWDZFc3N6aXpCTVZZT1NrWkRLWEladHB5S1h1Q1hRODBNMUdoUEw4b0p3V2JUOFdrUkZEa29Ob0ZHQUUiLCJpZCI6ImZjX3U4cXZhcl9aTnAzWjFlOFAxTk9od1FVXzYifQ==",
-    "page_token": "vJm6dXicHdBbboJAFADQdDN-ykutmJhGlIemYBnmDjg_DcwAow6PKi3IX_fSVXU1TXqWcL5_5Lm-_j4louva-0pR-r6flk1TynzKmkpJ74-aKSyVMkvZdbV4XmgvBVvb997aNr0VQtuSHVKxTf0YyBvozi4iUvC67BIDtWDLgo5ki6VlICyGSBM7nnA7w9aeuMueVnTMLmKG1eAW6TI5XeU8uhByqkCFGiHsoZDqZgw6wUdXWAw7DdWCU16LkAJvQSUFxJpIvYPtO_s-lIcWdG3AEn3m5BD5njVjUKpUildSERpI1nF9XgUSIseAGUuoYNJMcb0Z44sjj85mwFez4ZpD3PPBQl7wOMYU5-6ySwENMIoP3-WLTKU612gX6ubRB_PCDF5PCva1Nib_Y-v3oupW7a0p_wCDzHiv",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdGTkNXWGxJVkVrdFZtdDBUMmR3TTNOa1NFTk1SVzFwVkdsV1lUUkRjV2xMWlVsNmEyMDJXbGRZT1ZjME0wdDVlV2hwU21RMFVrY3dla1pUZVZkclQwNWtVVUpZYjNkTVVEQlJUMUJzWm1GR1ZVdHdNR1pxVTBwSGR4SVhTRmwxTldGeVExUk5kblZvTlU1dlVIcDJlWFkyVVUwYUlrRkVjM0k1WmxKV1dITnhiVzVGTW1kVk1FZGtSVFpLUm1KYVdIUk5hblZ5WlZFIiwiZmN2IjoiMyIsImVpIjoiSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU0iLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMW1EUEktIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIHdvcmxkIG11c2V1bSBpbiBLb2xrYXRhPyIsImxrIjoiR2hSM2IzSnNaQ0J0ZFhObGRXMGdhMjlzYTJGMFlRIiwiYnMiOiJjLU1LNGpJSXowZ3NVVWdzU2xWSXl5d0RFb201LWFYRkNnVTVpY21weFFvbC1RcGxtY1daSlFxWmVRcmUtVG5aaVNXSjlrWnlVaklZU2tFS3NpRUt1R3k1bEQyQldqTlNnV1ltS3BUbkYtV2tLT1NXRnFlVzVxSVlJeVlsZ2lJSDAtN0twZUNSWDY2UW01aFhDWlVxQmpzUFdhLWlsSHdHRGpWSXhvQjlsbGtNMDZhUW0xOWNBbk4xV240UjJKaHlxSnBzN0dvRUdBRSIsImlkIjoiZmNfSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU1fMyJ9",
+    "page_token": "udyKVXicHdDRTqswGADg-DJeOrpumi1ZTkSYgkLCz9pCbwy03Rj9C0yHeHbnu_hUPo2J3yN8X9947OzP1UdzPg_v69lsmqabQ98f0Nyo3s2q9_-dmqkKsa6UXd_e3ZJ_e7UJx8h_OEV-xoaBB-DlGHu1wBdjeaGfMpKwFdQc94zKMtvdU2AQSJrMOYWo8uJOCHCpl11SHKaK8jwnPDahXrD5ecsCP6lCuwAitwXlo2l5lzzFTTnXpxybvrRyBIpj7T55RlYpt8s2EcmypAMxrT7mjFDT4qMS0WfC_e6F48mEDTEWRuPSBkIMoODP2ttaxnWRd_0CEDLZpk5hjDnFLmx0JApGyiIOeEjmWhzIzq0y08mlbiXsoD9mDC6qRccEMulWPXhNKbhcpAJ8VcBFehjUj-VU58TK6XqvPjb0-u9z87p35_Xw1h9-AUTWguI",
     "question": "Is there a world museum in Kolkata?",
-    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vJm6dXicHdBbboJAFADQdDN-ykutmJhGlIemYBnmDjg_DcwAow6PKi3IX_fSVXU1TXqWcL5_5Lm-_j4louva-0pR-r6flk1TynzKmkpJ74-aKSyVMkvZdbV4XmgvBVvb997aNr0VQtuSHVKxTf0YyBvozi4iUvC67BIDtWDLgo5ki6VlICyGSBM7nnA7w9aeuMueVnTMLmKG1eAW6TI5XeU8uhByqkCFGiHsoZDqZgw6wUdXWAw7DdWCU16LkAJvQSUFxJpIvYPtO_s-lIcWdG3AEn3m5BD5njVjUKpUildSERpI1nF9XgUSIseAGUuoYNJMcb0Z44sjj85mwFez4ZpD3PPBQl7wOMYU5-6ySwENMIoP3-WLTKU612gX6ubRB_PCDF5PCva1Nib_Y-v3oupW7a0p_wCDzHiv",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVYUnZPVzlpZEhRNVJ6RjRhazVZT0VJMkxXUnNVMWx6WXpsVExUZzNVa1pVZUVWVldEZHROR1o0ZVZJd2EwbzVUMk5oYlZCRFJrMVVjMjlvVjNvelh6aDFiR2h2UWpWQlRHcE5abEYzZDBaUVUyOWphM2t5YW1FeVFSSVhkVGh4ZG1GeVgxcE9jRE5hTVdVNFVERk9UMmgzVVZVYUlrRkVjM0k1WmxKRlkycGtORXRwY0hWbk5IbENkWEpxY2twdlNESlFXakpvUWxFIiwiZmN2IjoiMyIsImVpIjoidThxdmFyX1pOcDNaMWU4UDFOT2h3UVUiLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMTlkU0VfIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIHdvcmxkIG11c2V1bSBpbiBLb2xrYXRhPyIsImxrIjoiR2hSM2IzSnNaQ0J0ZFhObGRXMGdhMjlzYTJGMFlRIiwiYnMiOiJjLVB5NTFJTnowZ3NVY2dzVmlqSlNGVklTOHpOTHkxV3lDMHRUaTNOVmNqTVVfRE96OGxPTEVtME4xS1RVaW5IcHpBYm9wRExsVXZCSTc5Y0lUY3hyeElxVzZ5UVdKU0tZcGFpbEh3R0RqVXdZNEs0RE1EdUFnbW5aWmJCTFN6SVNVeE9CVG9oWDZFc3N6aXpCTVZZT1NrWkRLWEladHB5S1h1Q1hRODBNMUdoUEw4b0p3V2JUOFdrUkZEa29Ob0ZHQUUiLCJpZCI6ImZjX3U4cXZhcl9aTnAzWjFlOFAxTk9od1FVXzYifQ%3D%3D",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=udyKVXicHdDRTqswGADg-DJeOrpumi1ZTkSYgkLCz9pCbwy03Rj9C0yHeHbnu_hUPo2J3yN8X9947OzP1UdzPg_v69lsmqabQ98f0Nyo3s2q9_-dmqkKsa6UXd_e3ZJ_e7UJx8h_OEV-xoaBB-DlGHu1wBdjeaGfMpKwFdQc94zKMtvdU2AQSJrMOYWo8uJOCHCpl11SHKaK8jwnPDahXrD5ecsCP6lCuwAitwXlo2l5lzzFTTnXpxybvrRyBIpj7T55RlYpt8s2EcmypAMxrT7mjFDT4qMS0WfC_e6F48mEDTEWRuPSBkIMoODP2ttaxnWRd_0CEDLZpk5hjDnFLmx0JApGyiIOeEjmWhzIzq0y08mlbiXsoD9mDC6qRccEMulWPXhNKbhcpAJ8VcBFehjUj-VU58TK6XqvPjb0-u9z87p35_Xw1h9-AUTWguI",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdGTkNXWGxJVkVrdFZtdDBUMmR3TTNOa1NFTk1SVzFwVkdsV1lUUkRjV2xMWlVsNmEyMDJXbGRZT1ZjME0wdDVlV2hwU21RMFVrY3dla1pUZVZkclQwNWtVVUpZYjNkTVVEQlJUMUJzWm1GR1ZVdHdNR1pxVTBwSGR4SVhTRmwxTldGeVExUk5kblZvTlU1dlVIcDJlWFkyVVUwYUlrRkVjM0k1WmxKV1dITnhiVzVGTW1kVk1FZGtSVFpLUm1KYVdIUk5hblZ5WlZFIiwiZmN2IjoiMyIsImVpIjoiSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU0iLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMW1EUEktIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIHdvcmxkIG11c2V1bSBpbiBLb2xrYXRhPyIsImxrIjoiR2hSM2IzSnNaQ0J0ZFhObGRXMGdhMjlzYTJGMFlRIiwiYnMiOiJjLU1LNGpJSXowZ3NVVWdzU2xWSXl5d0RFb201LWFYRkNnVTVpY21weFFvbC1RcGxtY1daSlFxWmVRcmUtVG5aaVNXSjlrWnlVaklZU2tFS3NpRUt1R3k1bEQyQldqTlNnV1ltS3BUbkYtV2tLT1NXRnFlVzVxSVlJeVlsZ2lJSDAtN0twZUNSWDY2UW01aFhDWlVxQmpzUFdhLWlsSHdHRGpWSXhvQjlsbGtNMDZhUW0xOWNBbk4xV240UjJKaHlxSnBzN0dvRUdBRSIsImlkIjoiZmNfSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU1fMyJ9",
     "type": "ai_overview"
-   }
-  ],
-  "related_searches": [
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Kolkata+Museum+ticket+price&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1QJ6BAhREAE",
-    "query": "Kolkata Museum ticket price",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kolkata+Museum+ticket+price"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Kolkata+Museum+open+today&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1QJ6BAhWEAE",
-    "query": "Kolkata Museum open today",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kolkata+Museum+open+today"
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdGTkNXWGxJVkVrdFZtdDBUMmR3TTNOa1NFTk1SVzFwVkdsV1lUUkRjV2xMWlVsNmEyMDJXbGRZT1ZjME0wdDVlV2hwU21RMFVrY3dla1pUZVZkclQwNWtVVUpZYjNkTVVEQlJUMUJzWm1GR1ZVdHdNR1pxVTBwSGR4SVhTRmwxTldGeVExUk5kblZvTlU1dlVIcDJlWFkyVVUwYUlrRkVjM0k1WmxKV1dITnhiVzVGTW1kVk1FZGtSVFpLUm1KYVdIUk5hblZ5WlZFIiwiZmN2IjoiMyIsImVpIjoiSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU0iLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMW1EUEktIiwicXVlc3Rpb24iOiJIb3cgbWFueSBtdXNldW1zIGFyZSBpbiBLb2xrYXRhPyIsImxrIjoiR2g5b2IzY2diV0Z1ZVNCdGRYTmxkVzF6SUdGeVpTQnBiaUJyYjJ4cllYUmgiLCJicyI6ImMtTUs0aklJejBnc1VVZ3NTbFZJeXl3REVvbTUtYVhGQ2dVNWljbXB4UW9sLVFwbG1jV1pKUXFaZVFyZS1UblppU1dKOWtaeVVqSVlTa0VLc2lFS3VHeTVsRDJCV2pOU2dXWW1LcFRuRi1Xa0tPU1dGcWVXNXFJWUl5WWxnaUlIMC03S3BlQ1JYNjZRbTVoWENaVXFCanNQV2EtaWxId0dEalZJeG9COWxsa00wNmFRbTE5Y0FuTjFXbjRSMkpoeXFKcHM3R29FR0FFIiwiaWQiOiJmY19IWXU1YXJDVE12dWg1Tm9QenZ5djZRTV8zIn0=",
+    "page_token": "mCBBS3icHdBdbtowAABg9TJ9LHZCuhUJTQpxArS49X_wy-TYgJs4iUdpafO2u-xUO82kfUf4fv8Jr0P39-bDXy7xbTGbXa_Xu9M4nsLhzo79zLx9DXZmTQiNsd3i_ts9_HG0S_S-yVe_NjkRMcqCAiYkMX12xiVGHMQ55bsEt37NZHlmkAKc5o-yCl-7Km5oSs84hKFR3jBUFmbyyAz66qCunmr6aSuKsYDBFtv5vqZcIfi8l9_nh0KAXZ1nBo0phXIlQwQY-K6pANBT3h3qQFxRPqo1hm4KnCROaxgLFnTk3RaItlypTr4YTgAZctj0F846L0hAyQ4F2LQiMSJb0bockHcbVQu4r7eFRDBx6gR5_0AOg85cqymn4ysRdLJt6IX4ZFZkntVUPEk6MfWQEyW97h1Tazm4nqSC3B7txzK9_f-5_HnsL4t4Hk__AA8UgMA",
+    "question": "How many museums are in Kolkata?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mCBBS3icHdBdbtowAABg9TJ9LHZCuhUJTQpxArS49X_wy-TYgJs4iUdpafO2u-xUO82kfUf4fv8Jr0P39-bDXy7xbTGbXa_Xu9M4nsLhzo79zLx9DXZmTQiNsd3i_ts9_HG0S_S-yVe_NjkRMcqCAiYkMX12xiVGHMQ55bsEt37NZHlmkAKc5o-yCl-7Km5oSs84hKFR3jBUFmbyyAz66qCunmr6aSuKsYDBFtv5vqZcIfi8l9_nh0KAXZ1nBo0phXIlQwQY-K6pANBT3h3qQFxRPqo1hm4KnCROaxgLFnTk3RaItlypTr4YTgAZctj0F846L0hAyQ4F2LQiMSJb0bockHcbVQu4r7eFRDBx6gR5_0AOg85cqymn4ysRdLJt6IX4ZFZkntVUPEk6MfWQEyW97h1Tazm4nqSC3B7txzK9_f-5_HnsL4t4Hk__AA8UgMA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdGTkNXWGxJVkVrdFZtdDBUMmR3TTNOa1NFTk1SVzFwVkdsV1lUUkRjV2xMWlVsNmEyMDJXbGRZT1ZjME0wdDVlV2hwU21RMFVrY3dla1pUZVZkclQwNWtVVUpZYjNkTVVEQlJUMUJzWm1GR1ZVdHdNR1pxVTBwSGR4SVhTRmwxTldGeVExUk5kblZvTlU1dlVIcDJlWFkyVVUwYUlrRkVjM0k1WmxKV1dITnhiVzVGTW1kVk1FZGtSVFpLUm1KYVdIUk5hblZ5WlZFIiwiZmN2IjoiMyIsImVpIjoiSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU0iLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMW1EUEktIiwicXVlc3Rpb24iOiJIb3cgbWFueSBtdXNldW1zIGFyZSBpbiBLb2xrYXRhPyIsImxrIjoiR2g5b2IzY2diV0Z1ZVNCdGRYTmxkVzF6SUdGeVpTQnBiaUJyYjJ4cllYUmgiLCJicyI6ImMtTUs0aklJejBnc1VVZ3NTbFZJeXl3REVvbTUtYVhGQ2dVNWljbXB4UW9sLVFwbG1jV1pKUXFaZVFyZS1UblppU1dKOWtaeVVqSVlTa0VLc2lFS3VHeTVsRDJCV2pOU2dXWW1LcFRuRi1Xa0tPU1dGcWVXNXFJWUl5WWxnaUlIMC03S3BlQ1JYNjZRbTVoWENaVXFCanNQV2EtaWxId0dEalZJeG9COWxsa00wNmFRbTE5Y0FuTjFXbjRSMkpoeXFKcHM3R29FR0FFIiwiaWQiOiJmY19IWXU1YXJDVE12dWg1Tm9QenZ5djZRTV8zIn0%3D",
+    "type": "ai_overview"
    },
    {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Museum+in+Kolkata+timing&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1QJ6BAhYEAE",
-    "query": "Museum in Kolkata timing",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Museum+in+Kolkata+timing"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Museum+in+Kolkata+opening+time&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1QJ6BAhXEAE",
-    "query": "Museum in Kolkata opening time",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Museum+in+Kolkata+opening+time"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Museum+of+Word+Kolkata&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1QJ6BAhVEAE",
-    "query": "Museum of Word Kolkata",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Museum+of+Word+Kolkata"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Kolkata+Museum+of+Modern+art&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1QJ6BAhUEAE",
-    "query": "Kolkata Museum of Modern art",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kolkata+Museum+of+Modern+art"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Heritage+Museum+kolkata&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1QJ6BAhSEAE",
-    "query": "Heritage Museum kolkata",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Heritage+Museum+kolkata"
-   },
-   {
-    "block_position": 1,
-    "link": "https://www.google.com/search?sca_esv=932ce377fb08cd9d&q=Best+Museum+in+Kolkata&sa=X&ved=2ahUKEwj_oub5jf2WAxWdbPUHHdRpKFgQ1QJ6BAhTEAE",
-    "query": "Best Museum in Kolkata",
-    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+Museum+in+Kolkata"
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdGTkNXWGxJVkVrdFZtdDBUMmR3TTNOa1NFTk1SVzFwVkdsV1lUUkRjV2xMWlVsNmEyMDJXbGRZT1ZjME0wdDVlV2hwU21RMFVrY3dla1pUZVZkclQwNWtVVUpZYjNkTVVEQlJUMUJzWm1GR1ZVdHdNR1pxVTBwSGR4SVhTRmwxTldGeVExUk5kblZvTlU1dlVIcDJlWFkyVVUwYUlrRkVjM0k1WmxKV1dITnhiVzVGTW1kVk1FZGtSVFpLUm1KYVdIUk5hblZ5WlZFIiwiZmN2IjoiMyIsImVpIjoiSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU0iLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMW1EUEktIiwicXVlc3Rpb24iOiJXaGF0IGlzIEtvbGthdGEgbW9zdCBmYW1vdXMgZm9yPyIsImxrIjoiR2g5M2FHRjBJR2x6SUd0dmJHdGhkR0VnYlc5emRDQm1ZVzF2ZFhNZ1ptOXkiLCJicyI6ImMtTUs0aklJejBnc1VVZ3NTbFZJeXl3REVvbTUtYVhGQ2dVNWljbXB4UW9sLVFwbG1jV1pKUXFaZVFyZS1UblppU1dKOWtaeVVqSVlTa0VLc2lFS3VHeTVsRDJCV2pOU2dXWW1LcFRuRi1Xa0tPU1dGcWVXNXFJWUl5WWxnaUlIMC03S3BlQ1JYNjZRbTVoWENaVXFCanNQV2EtaWxId0dEalZJeG9COWxsa00wNmFRbTE5Y0FuTjFXbjRSMkpoeXFKcHM3R29FR0FFIiwiaWQiOiJmY19IWXU1YXJDVE12dWg1Tm9QenZ5djZRTV8zIn0=",
+    "page_token": "PULmnXicHdBfToMwHADgeBkfXenGjEsWI6NzYMD0t_6BvpiubHRAAR2OzTfv4qk8jYnfEb7vn-bY1r83ZzsM_WkxmYzjeFd2Xdns70znJvp0bc3E6KbZaVMv5vdz7_FgluQzClbvUUB534sQ0HYan1hmz1yIRNT-Rm2A8Hr9wquY5CK2GYZ472ZDipvn4tl_f81AUxGQbcg9WFNPCoWZjOcZEjYhyk-mfU3bxGfu8knb0t9LS9VGzQEP04T7bBeugUk1y5unYccCCiGsMjT6sooQx7bVBASIIBCtWlF8QgalR-3iSrcgdZUgVq2jxBVHjjmCWnmivticw8C9gG1lHxBbRDLjXp7FoSAeLmTpMfdA963yi0oBg-5IOXyZqnFcqFw5e9iG5ZXWPU3JRRieXnN0SXWWfsCmxMV4ezDn5fT2_3P5dnDDov_oyj_zFoFK",
+    "question": "What is Kolkata most famous for?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PULmnXicHdBfToMwHADgeBkfXenGjEsWI6NzYMD0t_6BvpiubHRAAR2OzTfv4qk8jYnfEb7vn-bY1r83ZzsM_WkxmYzjeFd2Xdns70znJvp0bc3E6KbZaVMv5vdz7_FgluQzClbvUUB534sQ0HYan1hmz1yIRNT-Rm2A8Hr9wquY5CK2GYZ472ZDipvn4tl_f81AUxGQbcg9WFNPCoWZjOcZEjYhyk-mfU3bxGfu8knb0t9LS9VGzQEP04T7bBeugUk1y5unYccCCiGsMjT6sooQx7bVBASIIBCtWlF8QgalR-3iSrcgdZUgVq2jxBVHjjmCWnmivticw8C9gG1lHxBbRDLjXp7FoSAeLmTpMfdA963yi0oBg-5IOXyZqnFcqFw5e9iG5ZXWPU3JRRieXnN0SXWWfsCmxMV4ezDn5fT2_3P5dnDDov_oyj_zFoFK",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdGTkNXWGxJVkVrdFZtdDBUMmR3TTNOa1NFTk1SVzFwVkdsV1lUUkRjV2xMWlVsNmEyMDJXbGRZT1ZjME0wdDVlV2hwU21RMFVrY3dla1pUZVZkclQwNWtVVUpZYjNkTVVEQlJUMUJzWm1GR1ZVdHdNR1pxVTBwSGR4SVhTRmwxTldGeVExUk5kblZvTlU1dlVIcDJlWFkyVVUwYUlrRkVjM0k1WmxKV1dITnhiVzVGTW1kVk1FZGtSVFpLUm1KYVdIUk5hblZ5WlZFIiwiZmN2IjoiMyIsImVpIjoiSFl1NWFyQ1RNdnVoNU5vUHp2eXY2UU0iLCJxYyI6IkNpRjNhR0YwSUcxMWMyVjFiWE1nWVhKbElIUm9aWEpsSUdsdUlHdHZiR3RoZEdFUUFIMW1EUEktIiwicXVlc3Rpb24iOiJXaGF0IGlzIEtvbGthdGEgbW9zdCBmYW1vdXMgZm9yPyIsImxrIjoiR2g5M2FHRjBJR2x6SUd0dmJHdGhkR0VnYlc5emRDQm1ZVzF2ZFhNZ1ptOXkiLCJicyI6ImMtTUs0aklJejBnc1VVZ3NTbFZJeXl3REVvbTUtYVhGQ2dVNWljbXB4UW9sLVFwbG1jV1pKUXFaZVFyZS1UblppU1dKOWtaeVVqSVlTa0VLc2lFS3VHeTVsRDJCV2pOU2dXWW1LcFRuRi1Xa0tPU1dGcWVXNXFJWUl5WWxnaUlIMC03S3BlQ1JYNjZRbTVoWENaVXFCanNQV2EtaWxId0dEalZJeG9COWxsa00wNmFRbTE5Y0FuTjFXbjRSMkpoeXFKcHM3R29FR0FFIiwiaWQiOiJmY19IWXU1YXJDVE12dWg1Tm9QenZ5djZRTV8zIn0%3D",
+    "type": "ai_overview"
    }
   ],
   "search_information": {
    "organic_results_state": "Results for exact spelling",
    "query_displayed": "What museums are there in Kolkata?",
-   "results_for": "Kolkata, Vakarų Bengalija, Indija",
-   "time_taken_displayed": 0.48,
-   "total_results": 150
+   "time_taken_displayed": 0.72,
+   "total_results": 137000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:59:55 UTC",
+   "created_at": "2026-09-27 21:31:09 UTC",
    "google_url": "https://www.google.com/search?q=What+museums+are+there+in+Kolkata%3F&oq=What+museums+are+there+in+Kolkata%3F&sourceid=chrome&ie=UTF-8",
-   "id": "6aafcabb6c4c0cd15a1be160",
-   "json_endpoint": "https://serpapi.com/searches/HTBfYkPJKVAEMtLfdjitbhpYA_pVNyhCGEcabNTHR7o/6aafcabb6c4c0cd15a1be160.json",
-   "markdown_endpoint": "https://serpapi.com/searches/HTBfYkPJKVAEMtLfdjitbhpYA_pVNyhCGEcabNTHR7o/6aafcabb6c4c0cd15a1be160.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/HTBfYkPJKVAEMtLfdjitbhpYA_pVNyhCGEcabNTHR7o/6aafcabb6c4c0cd15a1be160.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:59:55 UTC",
-   "raw_html_file": "https://serpapi.com/searches/HTBfYkPJKVAEMtLfdjitbhpYA_pVNyhCGEcabNTHR7o/6aafcabb6c4c0cd15a1be160.html",
+   "id": "6ab98b1de22fedf63004cea7",
+   "json_endpoint": "https://serpapi.com/searches/foDkRQdQ1CiiinIBz0lA0nSFWSnBtpJcNanrFYl26Dg/6ab98b1de22fedf63004cea7.json",
+   "markdown_endpoint": "https://serpapi.com/searches/foDkRQdQ1CiiinIBz0lA0nSFWSnBtpJcNanrFYl26Dg/6ab98b1de22fedf63004cea7.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/foDkRQdQ1CiiinIBz0lA0nSFWSnBtpJcNanrFYl26Dg/6ab98b1de22fedf63004cea7.json_with_pixel_position",
+   "processed_at": "2026-09-27 21:31:09 UTC",
+   "raw_html_file": "https://serpapi.com/searches/foDkRQdQ1CiiinIBz0lA0nSFWSnBtpJcNanrFYl26Dg/6ab98b1de22fedf63004cea7.html",
    "status": "Success",
-   "total_time_taken": 1.95
+   "total_time_taken": 1.03
   },
   "search_parameters": {
    "device": "desktop",
@@ -502,44 +479,27 @@
    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=10",
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=10",
    "other_pages": {
-    "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=90",
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=10",
     "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=20",
     "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=30",
     "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=40",
-    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=50",
-    "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=60",
-    "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=70",
-    "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=80"
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+museums+are+there+in+Kolkata%3F&start=50"
    }
   },
   "short_videos": [
    {
-    "duration": "1:24",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ5eTU21m7uWzixoptqPPBMVjgGVcZ8WQojaQ",
+    "duration": "0:33",
     "extensions": [
-     "100.1 FM Gold Kolkata"
+     "Indian Museum, Kolkata"
     ],
-    "link": "https://www.facebook.com/100.1fmgoldkolkata/posts/which-hidden-museums-of-kolkata-will-surprise-you-the-mostsonge-specialist-every/753480104105346/",
+    "link": "https://www.facebook.com/Indianmuseumkolkata/videos/the-textile-gallery-of-the-indian-museum-presents-a-nuanced-chronicle-of-indias-/646507914678893/",
     "position": 1,
-    "profile_name": "100.1 FM Gold Kolkata",
+    "profile_name": "Indian Museum, Kolkata",
     "source": "Facebook",
     "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "thumbnail": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/5JyQ-2tGOUqOFVFAc2sc_nsnu4gk-FnYA7Kj1eIWRH0.jpeg",
-    "title": "„Which hidden museums of Kolkata will surprise you the most ...“, autorius: 100.1 FM Gold Kolkata sistemoje „Facebook“. Paleisti per „Facebook“. 1:24"
-   },
-   {
-    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR_m5BO5aFOpSSR96MLXV-vGlYyfOFD9uMHAg",
-    "duration": "0:34",
-    "extensions": [
-     "Arshal Taj"
-    ],
-    "link": "https://www.youtube.com/shorts/43OJBcFYmY0",
-    "position": 2,
-    "profile_name": "Arshal Taj",
-    "source": "YouTube",
-    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "thumbnail": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/hKkrb2MQkrorHBSqi8-NeQ23IITNhxwSui8ulwCVNJA.jpeg",
-    "title": "World's Most Unique Museum in Kolkata?"
+    "thumbnail": "https://serpapi.com/searches/6ab98b1de22fedf63004cea7/images/oY8DtZEWMOaKWWVkGTihPER8Y4ylpuin9nnHl99I_jg.jpeg",
+    "title": "The textile gallery of the Indian Museum presents a nuanced ... by Indian Museum, Kolkata on Facebook. Play on Facebook. 0:33"
    },
    {
     "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT22URmzcTW2Y1GO93OHI8ux1WLDkBGi3q0eg",
@@ -547,39 +507,26 @@
     "extensions": [
      "Traveling Creature"
     ],
-    "link": "https://www.instagram.com/reel/DFUvg_fhY2S/",
-    "position": 3,
+    "link": "https://www.instagram.com/reel/DFUvg_fhY2S/?hl=en",
+    "position": 2,
     "profile_name": "Traveling Creature",
     "source": "Instagram",
     "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "thumbnail": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/6A4r82DuAfvjmn9OB1ryEjKx7WtHdCq--GO5SkXkjG8.jpeg",
-    "title": "„Traveling Creature on Instagram: \"10 best museums in ...“, autorius: Traveling Creature sistemoje „Instagram“. Paleisti per „Instagram“. 1:13"
+    "thumbnail": "https://serpapi.com/searches/6ab98b1de22fedf63004cea7/images/WbBQNWmiGwCLdLW2QKzVwNYze3mNfMuJeju3gt1l2yg.jpeg",
+    "title": "10 best museums in Kolkata ranked. How many of these ... by Traveling Creature on Instagram. Play on Instagram. 1:13"
    },
    {
-    "duration": "0:38",
+    "duration": "0:56",
     "extensions": [
-     "INDULGE"
+     "Indian Museum, Kolkata"
     ],
-    "link": "https://www.facebook.com/Indulgexpress/videos/kolkata-is-now-home-to-indias-first-museum-dedicated-to-the-world-of-words-locat/2304048080338602/",
-    "position": 4,
-    "profile_name": "INDULGE",
+    "link": "https://www.facebook.com/Indianmuseumkolkata/videos/the-indian-museum-kolkata-is-asias-oldest-and-largest-museum-and-continues-to-dr/926297880447242/",
+    "position": 3,
+    "profile_name": "Indian Museum, Kolkata",
     "source": "Facebook",
     "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "thumbnail": "https://serpapi.com/searches/6aafcabb6c4c0cd15a1be160/images/q86rJiwHhcO9aaMUFnOagW9CFlfk0FMOkVIsif5ZiQg.jpeg",
-    "title": "„Kolkata is now home to India's first museum dedicated to the ...“, autorius: INDULGE sistemoje „Facebook“. Paleisti per „Facebook“. 0:38"
-   },
-   {
-    "duration": "1:04",
-    "extensions": [
-     "TOUSIF MONDAL"
-    ],
-    "link": "https://www.instagram.com/reel/DXg7PBiyrnZ/",
-    "position": 5,
-    "profile_name": "TOUSIF MONDAL",
-    "source": "Instagram",
-    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW91L79iRMZSdY-yU8GUgC-lFMkINxhCCYQust8NUKiSSigrasnY5pLBk&s=10",
-    "title": "„I Visited Unique Museums in Kolkata!“, autorius: TOUSIF MONDAL sistemoje „Instagram“. Paleisti per „Instagram“. 1:04"
+    "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIAPwAqAMBIgACEQEDEQH_xAAVAAEBAAAAAAAAAAAAAAAAAAAAB__EABQQAQAAAAAAAAAAAAAAAAAAAAD_xAAUAQEAAAAAAAAAAAAAAAAAAAAA_8QAFBEBAAAAAAAAAAAAAAAAAAAAAP_aAAwDAQACEQMRAD8AhoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP_Z.jpeg",
+    "title": "The Indian Museum, Kolkata is Asia's oldest and largest ... by Indian Museum, Kolkata on Facebook. Play on Facebook. 0:56"
    },
    {
     "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcReV60s2GCGc3oveWGBbgpRCUJA0Or3VsZv6w",
@@ -588,12 +535,38 @@
      "Traveling Creature"
     ],
     "link": "https://www.youtube.com/shorts/75l3Yh6rSX0",
-    "position": 6,
+    "position": 4,
     "profile_name": "Traveling Creature",
     "source": "YouTube",
     "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnJ4ckaUKRN_rwwfUKRRlftm_eAY2BLBp7WZpqXCVD18eeWcNWgQxXYQ&s=10",
-    "title": "Top 10 Museums in Kolkata.#Kolkata Museums ..."
+    "thumbnail": "https://serpapi.com/searches/6ab98b1de22fedf63004cea7/images/82T9c4iNhClGoNhbRoBAKSTzyPBaK89pxkFNtan4Scw.jpeg",
+    "title": "Top 10 Museums in Kolkata.#Kolkata ..."
+   },
+   {
+    "duration": "0:38",
+    "extensions": [
+     "INDULGE"
+    ],
+    "link": "https://www.facebook.com/Indulgexpress/videos/kolkata-is-now-home-to-indias-first-museum-dedicated-to-the-world-of-words-locat/2304048080338602/",
+    "position": 5,
+    "profile_name": "INDULGE",
+    "source": "Facebook",
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQli-kSlif6sLXWCzDlY7pTizmC0vsVOLhbrYADqfjiKeSBIgCdozTWNQA&s=10",
+    "title": "Kolkata is now home to India's first museum dedicated ... by INDULGE on Facebook. Play on Facebook. 0:38"
+   },
+   {
+    "duration": "0:04",
+    "extensions": [
+     "YEPKOLKATA"
+    ],
+    "link": "https://www.instagram.com/reel/Da7QkV5TIyF/",
+    "position": 6,
+    "profile_name": "YEPKOLKATA",
+    "source": "Instagram",
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCHyPUyry04OE18-NNYgnkmBgmraPSps2oyprSHJUzdho2jJodW9zlocE&s=10",
+    "title": "Indian Museum, Park Street India's oldest and largest ... by YEPKOLKATA on Instagram. Play on Instagram. 0:04"
    },
    {
     "duration": "0:34",
@@ -606,33 +579,33 @@
     "source": "Facebook",
     "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCol03USvcHDiVvp6y_g87GM0CwC27Bf3P2aQGRpCjn3mNsnAno0qEiA&s=10",
-    "title": "„The Indian Museum, Kolkata is not only a repository of ...“, autorius: Indian Museum, Kolkata sistemoje „Facebook“. Paleisti per „Facebook“. 0:34"
+    "title": "The Indian Museum, Kolkata is not only a repository of artefacts ... by Indian Museum, Kolkata on Facebook. Play on Facebook. 0:34"
    },
    {
-    "duration": "0:27",
+    "duration": "0:49",
     "extensions": [
-     "Titas | Book Blogger"
+     "Deleted User"
     ],
-    "link": "https://www.instagram.com/reel/DQw80qGk6S3/",
+    "link": "https://www.reddit.com/r/kolkata/comments/1h08vog/indias_first_futuristic_solar_powered_museum_in/",
     "position": 8,
-    "profile_name": "Titas | Book Blogger",
+    "profile_name": "Deleted User",
+    "source": "Reddit",
+    "source_logo": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSONGfiajSytZ4JES1o6ADxcTEXlBv-DJPp-ORQPrOxfiZ46fHt6Y0_Ezk&s=10",
+    "title": "India's first Futuristic solar powered museum in Kolkata!! Have ... by Deleted User on Reddit. Play on Reddit. 0:49"
+   },
+   {
+    "duration": "1:11",
+    "extensions": [
+     "The Telegraph My Kolkata"
+    ],
+    "link": "https://www.instagram.com/reel/DbF5aLPk7WE/?hl=en",
+    "position": 9,
+    "profile_name": "The Telegraph My Kolkata",
     "source": "Instagram",
     "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuTOw4e2iq8b963zE2bEC_4YZatIzjI139RcNyCWHaVQGg3BGgbtuchM&s=10",
-    "title": "„A must-visit museum of Kolkata 🏛️ Details below The State ...“, autorius: Titas | Book Blogger sistemoje „Instagram“. Paleisti per „Instagram“. 0:27"
-   },
-   {
-    "duration": "0:31",
-    "extensions": [
-     "Tourism Department, Government of West Bengal"
-    ],
-    "link": "https://www.facebook.com/tourismwb/videos/visit-the-multipurpose-indian-museum-one-of-asias-largest-museums-established-in/756006503494312/",
-    "position": 9,
-    "profile_name": "Tourism Department, Government of West Bengal",
-    "source": "Facebook",
-    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwU-MFdeJEAWRTq3TqTsN_yKIJoQoiZwuwYW6g-y7cKg8crkENkFjVvY&s=10",
-    "title": "„Visit the multipurpose Indian Museum – one of Asia's largest ...“, autorius: Tourism Department, Government of West Bengal sistemoje „Facebook“. Paleisti per „Facebook“. 0:31"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKv_zYM3vX8xuXab9mv0zJyv7J023kSQjuXrQjCA1PnLwnWWlr6844A8&s=10",
+    "title": "Kolkata's newest, the Museum of Words, opens at the National ... by The Telegraph My Kolkata on Instagram. Play on Instagram. 1:11"
    },
    {
     "duration": "0:33",
@@ -645,7 +618,7 @@
     "source": "Facebook",
     "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6geMa_5fkhgLBTToE5aKR_4kZGgz8AEboioA3Jqzwm92XZJ5-6o3n1iI&s=10",
-    "title": "„Every corner of the Indian Museum, Kolkata, tells a story of our ...“, autorius: Indian Museum, Kolkata sistemoje „Facebook“. Paleisti per „Facebook“. 0:33"
+    "title": "Every corner of the Indian Museum, Kolkata, tells a story of our ... by Indian Museum, Kolkata on Facebook. Play on Facebook. 0:33"
    }
   ]
  },

@@ -1,7 +1,7 @@
 {
- "elapsed_ms": 803.396,
+ "elapsed_ms": 65488.69,
  "engine": "google",
- "fetched_at": "2026-09-20T11:46:36.650494+00:00",
+ "fetched_at": "2026-09-30T14:57:10.686355+00:00",
  "frugal_cache_version": 1,
  "key": "a01d15f502ab0bf0e00337b55043d5580227d00107cac9296eaf0307c7a73f75",
  "params": {
@@ -9,270 +9,526 @@
   "q": "companies hiring machine learning engineers bengaluru"
  },
  "response": {
-  "ai_overview": {
-   "page_token": "YLvssHiczVbRkqo4EP2A_Y71ZWYEFR2dKupWElEZdEa84yi-UBgQcIBoULn6tn-yD_tV-zUbEBUdHPfeh61NFSYdOt2d7j4c__jLc4OPv3_701mtFuETx0VRVLQJsT2riInPGeE2wNyMeCHFzreQrCm2XFPEDiW-VdhuxEoBhyJfsFwx6FkbY71rQu1Rq76Q_qK7VYhqFxIToj41QmvOPPyYh5zOsZ-P3ytNJhTDohUU6353VOvjoaJoxTJfrhRfOcNnCuC_G5Jqw3h-Bui6Ensl3TYVG5ABlDKWZGAnMzxpafvXSE1eIfuqNbj3OUjUVfY09V0narLdND_Nq2eZC3gmRkksAERJlBC4t2-TGWp6l8O9vsjUUft8pNkjp51sjc9iPRt2dCa2WBQ6QOjkJOuMmXHOwjhmCtug3iGwCcHwetwsP4oMqh9AlfKukB2q9C4cK9fV2myHM23WuDw3pWwqcS52cLKgYdzP6K3Bk85sorUW9RIdbLqbvh6U-VCtT96FtoBUDk-ZnkcM0zJ1R-e_JXKpXKryjcpj_T4BEg6PSAqzSOqD9fR71xHcHSh2i7B0gBHaFx18qpjEZCTnXAyiVDWnxJnGjguWllRtZe2mpYQAESANwHlplX6c1_ZBZD26Y6XJapy8xs3_GUb7YWeUGYySQGSSKmY19lrtDHQzhZVB3mfm8t5q57TM6qvowg87yu77AQ6J0S4ta-yMLcUYQFIHplnDRxtKfBgpR3V4CFgC7AuVStIxQClVysQUp0BWQQ_IErPpDmXWoXbcq_tA42ZIfbWkC8RdaXiNuRmhf_PpyxnwFojioR7wctH-Wdi0JJUMJ2PfUdaQ1laVh1WI5KU1eqHdKB8mxJ_-BOPg_xWQ9nwkpXx0HUjSbSAlfAS_4KNkfeKjuHkRuQok2M7no14uH53fG4FBFkgZPlI_89FPAwl9CaR9H-YCieQDaXEVSHZ0CaRzPpLy-egIpF_hI_iLfJTgytpP5-S0nttXSapF32q03lnInT6A0_WgpEML4Kjfqru3SWrmr558w_Tuddd8guXn1da819kGebLMwlJkwFwYgWuFd45L3cC-8w3suIF151kGDeINK7CZbNHwbsqWhrem64LvUSLyRtUX8KKlDMY9fujTH8NI8IymA5fPm8HgjfDe86My3E26jkMdfSlvX-FLQ5G_889LDfclF7_Ddn0cUqR0Vq3G62yjreojrfLqrZtzYTmQXubzWtDqdVZLhRIEZ040Hk8WY2f8Oq_tyqQ8ROMg6PfeyRQr1aFh6uhhmUTG_gYvBpY8Wj80NVzwKRZZNwg2eFHByGZtiZJ2ZQ9hT9zuNVYtWAixoVvhRqwJNZY-szGbmuWa8GgVfHu1XYhCqRAGVCz9A-hCTE8",
-   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YLvssHiczVbRkqo4EP2A_Y71ZWYEFR2dKupWElEZdEa84yi-UBgQcIBoULn6tn-yD_tV-zUbEBUdHPfeh61NFSYdOt2d7j4c__jLc4OPv3_701mtFuETx0VRVLQJsT2riInPGeE2wNyMeCHFzreQrCm2XFPEDiW-VdhuxEoBhyJfsFwx6FkbY71rQu1Rq76Q_qK7VYhqFxIToj41QmvOPPyYh5zOsZ-P3ytNJhTDohUU6353VOvjoaJoxTJfrhRfOcNnCuC_G5Jqw3h-Bui6Ensl3TYVG5ABlDKWZGAnMzxpafvXSE1eIfuqNbj3OUjUVfY09V0narLdND_Nq2eZC3gmRkksAERJlBC4t2-TGWp6l8O9vsjUUft8pNkjp51sjc9iPRt2dCa2WBQ6QOjkJOuMmXHOwjhmCtug3iGwCcHwetwsP4oMqh9AlfKukB2q9C4cK9fV2myHM23WuDw3pWwqcS52cLKgYdzP6K3Bk85sorUW9RIdbLqbvh6U-VCtT96FtoBUDk-ZnkcM0zJ1R-e_JXKpXKryjcpj_T4BEg6PSAqzSOqD9fR71xHcHSh2i7B0gBHaFx18qpjEZCTnXAyiVDWnxJnGjguWllRtZe2mpYQAESANwHlplX6c1_ZBZD26Y6XJapy8xs3_GUb7YWeUGYySQGSSKmY19lrtDHQzhZVB3mfm8t5q57TM6qvowg87yu77AQ6J0S4ta-yMLcUYQFIHplnDRxtKfBgpR3V4CFgC7AuVStIxQClVysQUp0BWQQ_IErPpDmXWoXbcq_tA42ZIfbWkC8RdaXiNuRmhf_PpyxnwFojioR7wctH-Wdi0JJUMJ2PfUdaQ1laVh1WI5KU1eqHdKB8mxJ_-BOPg_xWQ9nwkpXx0HUjSbSAlfAS_4KNkfeKjuHkRuQok2M7no14uH53fG4FBFkgZPlI_89FPAwl9CaR9H-YCieQDaXEVSHZ0CaRzPpLy-egIpF_hI_iLfJTgytpP5-S0nttXSapF32q03lnInT6A0_WgpEML4Kjfqru3SWrmr558w_Tuddd8guXn1da819kGebLMwlJkwFwYgWuFd45L3cC-8w3suIF151kGDeINK7CZbNHwbsqWhrem64LvUSLyRtUX8KKlDMY9fujTH8NI8IymA5fPm8HgjfDe86My3E26jkMdfSlvX-FLQ5G_889LDfclF7_Ddn0cUqR0Vq3G62yjreojrfLqrZtzYTmQXubzWtDqdVZLhRIEZ040Hk8WY2f8Oq_tyqQ8ROMg6PfeyRQr1aFh6uhhmUTG_gYvBpY8Wj80NVzwKRZZNwg2eFHByGZtiZJ2ZQ9hT9zuNVYtWAixoVvhRqwJNZY-szGbmuWa8GgVfHu1XYhCqRAGVCz9A-hCTE8"
+  "filters": [
+   {
+    "name": "Functietype",
+    "options": [
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru+fulltime&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2skP6IeovntpXWBTy-vuxl-8DfLkBJ3ulK1tA3DZvd68eqFt0ERvxlq_wUB7BHhYma7CHzj7YdraLXl5At80-2RHH2g3tH6XZaPCrG89ODzKOU-uzLLApQCgxS0hBBpDLAClg0rWmQAcJ44jXDTmsLb1oHIGXs4guzbbn10eMe8U2t1I2SJ7KXYfW09v7ggfqqHaQkjIbaPFc8FmKWBdsB8t3eZ31JOBxbjYGbEUAYAe2k7mlqL2fAKKr_6RQNAV3OQndt-g&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIHRAC",
+      "name": "Fulltime",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru fulltime",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2skP6IeovntpXWBTy-vuxl-8DfLkBJ3ulK1tA3DZvd68eqFt0ERvxlq_wUB7BHhYma7CHzj7YdraLXl5At80-2RHH2g3tH6XZaPCrG89ODzKOU-uzLLApQCgxS0hBBpDLAClg0rWmQAcJ44jXDTmsLb1oHIGXs4guzbbn10eMe8U2t1I2SJ7KXYfW09v7ggfqqHaQkjIbaPFc8FmKWBdsB8t3eZ31JOBxbjYGbEUAYAe2k7mlqL2fAKKr_6RQNAV3OQndt-g"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru+fulltime&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2skP6IeovntpXWBTy-vuxl-8DfLkBJ3ulK1tA3DZvd68eqFt0ERvxlq_wUB7BHhYma7CHzj7YdraLXl5At80-2RHH2g3tH6XZaPCrG89ODzKOU-uzLLApQCgxS0hBBpDLAClg0rWmQAcJ44jXDTmsLb1oHIGXs4guzbbn10eMe8U2t1I2SJ7KXYfW09v7ggfqqHaQkjIbaPFc8FmKWBdsB8t3eZ31JOBxbjYGbEUAYAe2k7mlqL2fAKKr_6RQNAV3OQndt-g"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru+parttime&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2snDFS4TGWX7EM-FgsgFRVPbA2tsxjC6_fVkJeLkymRZNBlzzC39xwl5kjTWR0bi_D9uOX2wz_UCSRrsflt_G6EUVzGADBu4QLrLOaJqPjU2waYxHaStyOHZNcFlH1rFwhKNFWrx22bWdwkW42QLEkj8yqbqZG6O45uokbKBO6z8TBRqIVuVjdzfC7Q69Ec4vSoT9uib2Qfq149vnaW-BugioP5yjc4l71Lg7FttutbArPQ2gJlJp8cBN4FnZX00QlyZRgHQ&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIHRAD",
+      "name": "Parttime",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru parttime",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2snDFS4TGWX7EM-FgsgFRVPbA2tsxjC6_fVkJeLkymRZNBlzzC39xwl5kjTWR0bi_D9uOX2wz_UCSRrsflt_G6EUVzGADBu4QLrLOaJqPjU2waYxHaStyOHZNcFlH1rFwhKNFWrx22bWdwkW42QLEkj8yqbqZG6O45uokbKBO6z8TBRqIVuVjdzfC7Q69Ec4vSoT9uib2Qfq149vnaW-BugioP5yjc4l71Lg7FttutbArPQ2gJlJp8cBN4FnZX00QlyZRgHQ"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru+parttime&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2snDFS4TGWX7EM-FgsgFRVPbA2tsxjC6_fVkJeLkymRZNBlzzC39xwl5kjTWR0bi_D9uOX2wz_UCSRrsflt_G6EUVzGADBu4QLrLOaJqPjU2waYxHaStyOHZNcFlH1rFwhKNFWrx22bWdwkW42QLEkj8yqbqZG6O45uokbKBO6z8TBRqIVuVjdzfC7Q69Ec4vSoT9uib2Qfq149vnaW-BugioP5yjc4l71Lg7FttutbArPQ2gJlJp8cBN4FnZX00QlyZRgHQ"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2sl637GjEk6Law3P7sfmWch8J1KQITYpHxGXHgsY_HIuMt3ZEOCVmFQSVANhvwWUie6pF0EKtxsIDFY198xwtQVULiEsU6foX-zuaZ7E2WBqkzaUb3QmFMtlILiHk-78t5yMTkt5kSlRpkffgvmMweywlo4r1IV8n_3n13ki-AvK9n0JLEM_b10lZi-a1h6DCMEdwyKvo2K-bvKaSfI9JOV8royk_S3j7nnI3_62mkHJfxhUDbRla_OL5JA9mWWw8m-YKbTU&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIHRAE",
+      "name": "Contract",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru contract",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2sl637GjEk6Law3P7sfmWch8J1KQITYpHxGXHgsY_HIuMt3ZEOCVmFQSVANhvwWUie6pF0EKtxsIDFY198xwtQVULiEsU6foX-zuaZ7E2WBqkzaUb3QmFMtlILiHk-78t5yMTkt5kSlRpkffgvmMweywlo4r1IV8n_3n13ki-AvK9n0JLEM_b10lZi-a1h6DCMEdwyKvo2K-bvKaSfI9JOV8royk_S3j7nnI3_62mkHJfxhUDbRla_OL5JA9mWWw8m-YKbTU"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2sl637GjEk6Law3P7sfmWch8J1KQITYpHxGXHgsY_HIuMt3ZEOCVmFQSVANhvwWUie6pF0EKtxsIDFY198xwtQVULiEsU6foX-zuaZ7E2WBqkzaUb3QmFMtlILiHk-78t5yMTkt5kSlRpkffgvmMweywlo4r1IV8n_3n13ki-AvK9n0JLEM_b10lZi-a1h6DCMEdwyKvo2K-bvKaSfI9JOV8royk_S3j7nnI3_62mkHJfxhUDbRla_OL5JA9mWWw8m-YKbTU"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru+stage&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjpI5ghK5TIqD69A8vMiGoxKNrnRa4ml1lANH63e62b4WXN5OerbWgYXZx889C-O-CfOe1T9lngmPpQv3dikvdbRcDWAPdnHLG3zCxOtOwFqKaD0gPrEXqZQl_SW0ilo7mT10pq68ogbiGo9Ag9DbvSwwn4iKAxje_fF_tRjyOpNrrsfc-9VrsStIyHzOBD0I6SpIfjwQMVYokLhmb0G1RhPbseMLxviq23WXpFAg1S1FA9PZ1cUFHmdnJ92KCotMhUrC0sQZcOs5Sj2buw9QqdgyAawpk-M_1NbEOYqqE5CVg-SZQm-9RZDK7n0of-Sv3q3c4HEheNLjAttLvXVS1JHvHOM&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIHRAF",
+      "name": "Stage",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru stage",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjpI5ghK5TIqD69A8vMiGoxKNrnRa4ml1lANH63e62b4WXN5OerbWgYXZx889C-O-CfOe1T9lngmPpQv3dikvdbRcDWAPdnHLG3zCxOtOwFqKaD0gPrEXqZQl_SW0ilo7mT10pq68ogbiGo9Ag9DbvSwwn4iKAxje_fF_tRjyOpNrrsfc-9VrsStIyHzOBD0I6SpIfjwQMVYokLhmb0G1RhPbseMLxviq23WXpFAg1S1FA9PZ1cUFHmdnJ92KCotMhUrC0sQZcOs5Sj2buw9QqdgyAawpk-M_1NbEOYqqE5CVg-SZQm-9RZDK7n0of-Sv3q3c4HEheNLjAttLvXVS1JHvHOM"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru+stage&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjpI5ghK5TIqD69A8vMiGoxKNrnRa4ml1lANH63e62b4WXN5OerbWgYXZx889C-O-CfOe1T9lngmPpQv3dikvdbRcDWAPdnHLG3zCxOtOwFqKaD0gPrEXqZQl_SW0ilo7mT10pq68ogbiGo9Ag9DbvSwwn4iKAxje_fF_tRjyOpNrrsfc-9VrsStIyHzOBD0I6SpIfjwQMVYokLhmb0G1RhPbseMLxviq23WXpFAg1S1FA9PZ1cUFHmdnJ92KCotMhUrC0sQZcOs5Sj2buw9QqdgyAawpk-M_1NbEOYqqE5CVg-SZQm-9RZDK7n0of-Sv3q3c4HEheNLjAttLvXVS1JHvHOM"
+     }
+    ]
+   },
+   {
+    "name": "Functietype",
+    "options": [
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru+fulltime&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2skP6IeovntpXWBTy-vuxl-8DfLkBJ3ulK1tA3DZvd68eqFt0ERvxlq_wUB7BHhYma7CHzj7YdraLXl5At80-2RHH2g3tH6XZaPCrG89ODzKOU-uzLLApQCgxS0hBBpDLAClg0rWmQAcJ44jXDTmsLb1oHIGXs4guzbbn10eMe8U2t1I2SJ7KXYfW09v7ggfqqHaQkjIbaPFc8FmKWBdsB8t3eZ31JOBxbjYGbEUAYAe2k7mlqL2fAKKr_6RQNAV3OQndt-g&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIHRAC",
+      "name": "Fulltime",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru fulltime",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2skP6IeovntpXWBTy-vuxl-8DfLkBJ3ulK1tA3DZvd68eqFt0ERvxlq_wUB7BHhYma7CHzj7YdraLXl5At80-2RHH2g3tH6XZaPCrG89ODzKOU-uzLLApQCgxS0hBBpDLAClg0rWmQAcJ44jXDTmsLb1oHIGXs4guzbbn10eMe8U2t1I2SJ7KXYfW09v7ggfqqHaQkjIbaPFc8FmKWBdsB8t3eZ31JOBxbjYGbEUAYAe2k7mlqL2fAKKr_6RQNAV3OQndt-g"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru+fulltime&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2skP6IeovntpXWBTy-vuxl-8DfLkBJ3ulK1tA3DZvd68eqFt0ERvxlq_wUB7BHhYma7CHzj7YdraLXl5At80-2RHH2g3tH6XZaPCrG89ODzKOU-uzLLApQCgxS0hBBpDLAClg0rWmQAcJ44jXDTmsLb1oHIGXs4guzbbn10eMe8U2t1I2SJ7KXYfW09v7ggfqqHaQkjIbaPFc8FmKWBdsB8t3eZ31JOBxbjYGbEUAYAe2k7mlqL2fAKKr_6RQNAV3OQndt-g"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru+parttime&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2snDFS4TGWX7EM-FgsgFRVPbA2tsxjC6_fVkJeLkymRZNBlzzC39xwl5kjTWR0bi_D9uOX2wz_UCSRrsflt_G6EUVzGADBu4QLrLOaJqPjU2waYxHaStyOHZNcFlH1rFwhKNFWrx22bWdwkW42QLEkj8yqbqZG6O45uokbKBO6z8TBRqIVuVjdzfC7Q69Ec4vSoT9uib2Qfq149vnaW-BugioP5yjc4l71Lg7FttutbArPQ2gJlJp8cBN4FnZX00QlyZRgHQ&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIHRAD",
+      "name": "Parttime",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru parttime",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2snDFS4TGWX7EM-FgsgFRVPbA2tsxjC6_fVkJeLkymRZNBlzzC39xwl5kjTWR0bi_D9uOX2wz_UCSRrsflt_G6EUVzGADBu4QLrLOaJqPjU2waYxHaStyOHZNcFlH1rFwhKNFWrx22bWdwkW42QLEkj8yqbqZG6O45uokbKBO6z8TBRqIVuVjdzfC7Q69Ec4vSoT9uib2Qfq149vnaW-BugioP5yjc4l71Lg7FttutbArPQ2gJlJp8cBN4FnZX00QlyZRgHQ"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru+parttime&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2snDFS4TGWX7EM-FgsgFRVPbA2tsxjC6_fVkJeLkymRZNBlzzC39xwl5kjTWR0bi_D9uOX2wz_UCSRrsflt_G6EUVzGADBu4QLrLOaJqPjU2waYxHaStyOHZNcFlH1rFwhKNFWrx22bWdwkW42QLEkj8yqbqZG6O45uokbKBO6z8TBRqIVuVjdzfC7Q69Ec4vSoT9uib2Qfq149vnaW-BugioP5yjc4l71Lg7FttutbArPQ2gJlJp8cBN4FnZX00QlyZRgHQ"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2sl637GjEk6Law3P7sfmWch8J1KQITYpHxGXHgsY_HIuMt3ZEOCVmFQSVANhvwWUie6pF0EKtxsIDFY198xwtQVULiEsU6foX-zuaZ7E2WBqkzaUb3QmFMtlILiHk-78t5yMTkt5kSlRpkffgvmMweywlo4r1IV8n_3n13ki-AvK9n0JLEM_b10lZi-a1h6DCMEdwyKvo2K-bvKaSfI9JOV8royk_S3j7nnI3_62mkHJfxhUDbRla_OL5JA9mWWw8m-YKbTU&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIHRAE",
+      "name": "Contract",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru contract",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2sl637GjEk6Law3P7sfmWch8J1KQITYpHxGXHgsY_HIuMt3ZEOCVmFQSVANhvwWUie6pF0EKtxsIDFY198xwtQVULiEsU6foX-zuaZ7E2WBqkzaUb3QmFMtlILiHk-78t5yMTkt5kSlRpkffgvmMweywlo4r1IV8n_3n13ki-AvK9n0JLEM_b10lZi-a1h6DCMEdwyKvo2K-bvKaSfI9JOV8royk_S3j7nnI3_62mkHJfxhUDbRla_OL5JA9mWWw8m-YKbTU"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdM9uCkqn4ZENFIzrMiYufZVuPyKN-Y6OHxf8zUEPO3abCYBBoSda80suS9vd1a4j41s-siP4dLa-BbAnSWj2sl637GjEk6Law3P7sfmWch8J1KQITYpHxGXHgsY_HIuMt3ZEOCVmFQSVANhvwWUie6pF0EKtxsIDFY198xwtQVULiEsU6foX-zuaZ7E2WBqkzaUb3QmFMtlILiHk-78t5yMTkt5kSlRpkffgvmMweywlo4r1IV8n_3n13ki-AvK9n0JLEM_b10lZi-a1h6DCMEdwyKvo2K-bvKaSfI9JOV8royk_S3j7nnI3_62mkHJfxhUDbRla_OL5JA9mWWw8m-YKbTU"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru+stage&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjpI5ghK5TIqD69A8vMiGoxKNrnRa4ml1lANH63e62b4WXN5OerbWgYXZx889C-O-CfOe1T9lngmPpQv3dikvdbRcDWAPdnHLG3zCxOtOwFqKaD0gPrEXqZQl_SW0ilo7mT10pq68ogbiGo9Ag9DbvSwwn4iKAxje_fF_tRjyOpNrrsfc-9VrsStIyHzOBD0I6SpIfjwQMVYokLhmb0G1RhPbseMLxviq23WXpFAg1S1FA9PZ1cUFHmdnJ92KCotMhUrC0sQZcOs5Sj2buw9QqdgyAawpk-M_1NbEOYqqE5CVg-SZQm-9RZDK7n0of-Sv3q3c4HEheNLjAttLvXVS1JHvHOM&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIHRAF",
+      "name": "Stage",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru stage",
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjpI5ghK5TIqD69A8vMiGoxKNrnRa4ml1lANH63e62b4WXN5OerbWgYXZx889C-O-CfOe1T9lngmPpQv3dikvdbRcDWAPdnHLG3zCxOtOwFqKaD0gPrEXqZQl_SW0ilo7mT10pq68ogbiGo9Ag9DbvSwwn4iKAxje_fF_tRjyOpNrrsfc-9VrsStIyHzOBD0I6SpIfjwQMVYokLhmb0G1RhPbseMLxviq23WXpFAg1S1FA9PZ1cUFHmdnJ92KCotMhUrC0sQZcOs5Sj2buw9QqdgyAawpk-M_1NbEOYqqE5CVg-SZQm-9RZDK7n0of-Sv3q3c4HEheNLjAttLvXVS1JHvHOM"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru+stage&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjpI5ghK5TIqD69A8vMiGoxKNrnRa4ml1lANH63e62b4WXN5OerbWgYXZx889C-O-CfOe1T9lngmPpQv3dikvdbRcDWAPdnHLG3zCxOtOwFqKaD0gPrEXqZQl_SW0ilo7mT10pq68ogbiGo9Ag9DbvSwwn4iKAxje_fF_tRjyOpNrrsfc-9VrsStIyHzOBD0I6SpIfjwQMVYokLhmb0G1RhPbseMLxviq23WXpFAg1S1FA9PZ1cUFHmdnJ92KCotMhUrC0sQZcOs5Sj2buw9QqdgyAawpk-M_1NbEOYqqE5CVg-SZQm-9RZDK7n0of-Sv3q3c4HEheNLjAttLvXVS1JHvHOM"
+     }
+    ]
+   },
+   {
+    "name": "Geplaatst op",
+    "options": [
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru++sinds+gisteren&uds=AJ5uw1_SDoHm6aEh5WXnY0puHU5LOgWgNORkZ-3Jht2etaLGmuxujCRTAsszOFq4Z3C44cnoFvfWi29veUHJ-QoPAHxA0OpYRCFuFETX5yj16-_neBe-oSkoTBJ4zna6_gbfKM9FbOBETqpJ719K7uVLSiwjv73mob3zJTsWLkFpQ3QbsHGFBng8hdVHYFIdjHSurQLbdmyFwtiq6S_-kSmHPHmHce26g5xz20tzQW3jSZlxNK0F1osZVvuPKCxjHVrLaK1U0ISUmfuJpVpPNFEQHp_kBK8UaJG7ZOefshFcVhYAcf_3LLPACWF7sZPIqXfJXFP7AvcOLogRt9Kn_y-nc9spzNPbAX7UeIRq8HK8nvDTMBlw0PV89NUcBv4eyL6rM4pbHKXlw-WMYRhN-7TooFIjpwRtlg&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIJBAC",
+      "name": "Gisteren",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru  sinds gisteren",
+       "uds": "AJ5uw1_SDoHm6aEh5WXnY0puHU5LOgWgNORkZ-3Jht2etaLGmuxujCRTAsszOFq4Z3C44cnoFvfWi29veUHJ-QoPAHxA0OpYRCFuFETX5yj16-_neBe-oSkoTBJ4zna6_gbfKM9FbOBETqpJ719K7uVLSiwjv73mob3zJTsWLkFpQ3QbsHGFBng8hdVHYFIdjHSurQLbdmyFwtiq6S_-kSmHPHmHce26g5xz20tzQW3jSZlxNK0F1osZVvuPKCxjHVrLaK1U0ISUmfuJpVpPNFEQHp_kBK8UaJG7ZOefshFcVhYAcf_3LLPACWF7sZPIqXfJXFP7AvcOLogRt9Kn_y-nc9spzNPbAX7UeIRq8HK8nvDTMBlw0PV89NUcBv4eyL6rM4pbHKXlw-WMYRhN-7TooFIjpwRtlg"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru++sinds+gisteren&uds=AJ5uw1_SDoHm6aEh5WXnY0puHU5LOgWgNORkZ-3Jht2etaLGmuxujCRTAsszOFq4Z3C44cnoFvfWi29veUHJ-QoPAHxA0OpYRCFuFETX5yj16-_neBe-oSkoTBJ4zna6_gbfKM9FbOBETqpJ719K7uVLSiwjv73mob3zJTsWLkFpQ3QbsHGFBng8hdVHYFIdjHSurQLbdmyFwtiq6S_-kSmHPHmHce26g5xz20tzQW3jSZlxNK0F1osZVvuPKCxjHVrLaK1U0ISUmfuJpVpPNFEQHp_kBK8UaJG7ZOefshFcVhYAcf_3LLPACWF7sZPIqXfJXFP7AvcOLogRt9Kn_y-nc9spzNPbAX7UeIRq8HK8nvDTMBlw0PV89NUcBv4eyL6rM4pbHKXlw-WMYRhN-7TooFIjpwRtlg"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+3+dagen&uds=AJ5uw1_d1K-i0DAvZLAOTClSnB_8xAZoGwzfukFzsUXBbPWvQUuJ6NmUZd4AS2MnSMINj2V5XRZ7cVL-PtlLjwDuTi2Zj8hmBMPDb6Fsr9kn78fY-DiIea5IvcTahyuM0kKlMBG9W2ZIfPLe-zx710VJFhWkO3R71rWDB1rTjyhJX34wmVVZ4eJVXFMGIMfnsua9T-fbSuOL-AfR91mk_jObW-Ctop54wvNNStKgXqYL5n8xFM0MiiZFNWeXntwrSSl9juvM0-EjRPUy6XZ9KA4bVmg2kn3gtMoecHHZaLQgIFMbv-zGJw6kRkpEY57HAoSKbeKgbDc-bL0lzwEBr60sWAswS3Rthwo1R_dW314stoWvmpG3lZzPU0jj-wyZUrQN0EzRWjJOjFdF2x_n030C8JNGAU83vic7Cn5dASxf5fCXBxLBQP4&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIJBAD",
+      "name": "Afgelopen 3 dagen",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru  in de afgelopen 3 dagen",
+       "uds": "AJ5uw1_d1K-i0DAvZLAOTClSnB_8xAZoGwzfukFzsUXBbPWvQUuJ6NmUZd4AS2MnSMINj2V5XRZ7cVL-PtlLjwDuTi2Zj8hmBMPDb6Fsr9kn78fY-DiIea5IvcTahyuM0kKlMBG9W2ZIfPLe-zx710VJFhWkO3R71rWDB1rTjyhJX34wmVVZ4eJVXFMGIMfnsua9T-fbSuOL-AfR91mk_jObW-Ctop54wvNNStKgXqYL5n8xFM0MiiZFNWeXntwrSSl9juvM0-EjRPUy6XZ9KA4bVmg2kn3gtMoecHHZaLQgIFMbv-zGJw6kRkpEY57HAoSKbeKgbDc-bL0lzwEBr60sWAswS3Rthwo1R_dW314stoWvmpG3lZzPU0jj-wyZUrQN0EzRWjJOjFdF2x_n030C8JNGAU83vic7Cn5dASxf5fCXBxLBQP4"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+3+dagen&uds=AJ5uw1_d1K-i0DAvZLAOTClSnB_8xAZoGwzfukFzsUXBbPWvQUuJ6NmUZd4AS2MnSMINj2V5XRZ7cVL-PtlLjwDuTi2Zj8hmBMPDb6Fsr9kn78fY-DiIea5IvcTahyuM0kKlMBG9W2ZIfPLe-zx710VJFhWkO3R71rWDB1rTjyhJX34wmVVZ4eJVXFMGIMfnsua9T-fbSuOL-AfR91mk_jObW-Ctop54wvNNStKgXqYL5n8xFM0MiiZFNWeXntwrSSl9juvM0-EjRPUy6XZ9KA4bVmg2kn3gtMoecHHZaLQgIFMbv-zGJw6kRkpEY57HAoSKbeKgbDc-bL0lzwEBr60sWAswS3Rthwo1R_dW314stoWvmpG3lZzPU0jj-wyZUrQN0EzRWjJOjFdF2x_n030C8JNGAU83vic7Cn5dASxf5fCXBxLBQP4"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+week&uds=AJ5uw1_Tpto6bO4zUmlhM_s340ckx2W9hOHvkxtAU__PTgR2sErUA_UAt01t9jwm2HjUjyNy8WqjI9DY2FcTgJE5AvJJ0SZJFXc93kGF1hTl6HtfRCoRTubeTvb-ivoMciNsToEQzee3W1M_eQAzNweiPacdZUfKpWKx3qmexJGYu2eFcwJQt_2siyq2nCCEsdwCYcpiIl7A6JekVusU27QkB8AqNpkE6OX2_18Vc3c0lXTy2PynTrw9grJOTtCgLzkmC9waGPT7rb0IkD7lwH5uYFivY8X-hXGlSU3xPSSKXQ6rRCt3GfW2Qp01RoV9Vszb9IKiihuWkIQe_DfzxQBQuSMk7mh2ZBv2lLUmVaFuIjS_BID17bKgRxaK0vqO-6zwNGGW_OziYvVTl0Wq1kfhhW_XyIRVl2Um1KuZFWTUpGdV7M5_Pjc&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIJBAE",
+      "name": "Vorige week",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru  in de afgelopen week",
+       "uds": "AJ5uw1_Tpto6bO4zUmlhM_s340ckx2W9hOHvkxtAU__PTgR2sErUA_UAt01t9jwm2HjUjyNy8WqjI9DY2FcTgJE5AvJJ0SZJFXc93kGF1hTl6HtfRCoRTubeTvb-ivoMciNsToEQzee3W1M_eQAzNweiPacdZUfKpWKx3qmexJGYu2eFcwJQt_2siyq2nCCEsdwCYcpiIl7A6JekVusU27QkB8AqNpkE6OX2_18Vc3c0lXTy2PynTrw9grJOTtCgLzkmC9waGPT7rb0IkD7lwH5uYFivY8X-hXGlSU3xPSSKXQ6rRCt3GfW2Qp01RoV9Vszb9IKiihuWkIQe_DfzxQBQuSMk7mh2ZBv2lLUmVaFuIjS_BID17bKgRxaK0vqO-6zwNGGW_OziYvVTl0Wq1kfhhW_XyIRVl2Um1KuZFWTUpGdV7M5_Pjc"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+week&uds=AJ5uw1_Tpto6bO4zUmlhM_s340ckx2W9hOHvkxtAU__PTgR2sErUA_UAt01t9jwm2HjUjyNy8WqjI9DY2FcTgJE5AvJJ0SZJFXc93kGF1hTl6HtfRCoRTubeTvb-ivoMciNsToEQzee3W1M_eQAzNweiPacdZUfKpWKx3qmexJGYu2eFcwJQt_2siyq2nCCEsdwCYcpiIl7A6JekVusU27QkB8AqNpkE6OX2_18Vc3c0lXTy2PynTrw9grJOTtCgLzkmC9waGPT7rb0IkD7lwH5uYFivY8X-hXGlSU3xPSSKXQ6rRCt3GfW2Qp01RoV9Vszb9IKiihuWkIQe_DfzxQBQuSMk7mh2ZBv2lLUmVaFuIjS_BID17bKgRxaK0vqO-6zwNGGW_OziYvVTl0Wq1kfhhW_XyIRVl2Um1KuZFWTUpGdV7M5_Pjc"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+maand&uds=AJ5uw1_3cPG_Ump7uqtSTT1y5fPFh3goUiVQNL9kuqoI3E4HJFQCu83LPS3zi9biK1ZJOVoso4UixWtny7QeqvMYRgTdItg7uLQdXt8j_rHz_CRm_Z1bImqffp34z2EBS4nqFTlb2GXYq-m8AgmV3ZfeZ3bl0fUg4_j3j6YzrV65oA-l7ET0NysXUVl3kgC63XXbP7Si_kgfRsowLyYdyPw1FF4pyG4-UcFCLyeVII0gwf_TxBFE-LLb4vYCWhNhuLv1Hx5ckopzAtkq2IXS-gXvZU5DIbYXrc0zbmXkhuc4_2KuyUrzDrmbXfqZpyNuUwMIhO8QBdnW-KC1EvzB85gBRynUOGv9FCTP8wG88p0AxNtIOq0vz6pdTZO1Enx7olcsOElTRt2llih-U1ajQvynyUA0DqqjCg&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIJBAF",
+      "name": "Vorige maand",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru  in de afgelopen maand",
+       "uds": "AJ5uw1_3cPG_Ump7uqtSTT1y5fPFh3goUiVQNL9kuqoI3E4HJFQCu83LPS3zi9biK1ZJOVoso4UixWtny7QeqvMYRgTdItg7uLQdXt8j_rHz_CRm_Z1bImqffp34z2EBS4nqFTlb2GXYq-m8AgmV3ZfeZ3bl0fUg4_j3j6YzrV65oA-l7ET0NysXUVl3kgC63XXbP7Si_kgfRsowLyYdyPw1FF4pyG4-UcFCLyeVII0gwf_TxBFE-LLb4vYCWhNhuLv1Hx5ckopzAtkq2IXS-gXvZU5DIbYXrc0zbmXkhuc4_2KuyUrzDrmbXfqZpyNuUwMIhO8QBdnW-KC1EvzB85gBRynUOGv9FCTP8wG88p0AxNtIOq0vz6pdTZO1Enx7olcsOElTRt2llih-U1ajQvynyUA0DqqjCg"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+maand&uds=AJ5uw1_3cPG_Ump7uqtSTT1y5fPFh3goUiVQNL9kuqoI3E4HJFQCu83LPS3zi9biK1ZJOVoso4UixWtny7QeqvMYRgTdItg7uLQdXt8j_rHz_CRm_Z1bImqffp34z2EBS4nqFTlb2GXYq-m8AgmV3ZfeZ3bl0fUg4_j3j6YzrV65oA-l7ET0NysXUVl3kgC63XXbP7Si_kgfRsowLyYdyPw1FF4pyG4-UcFCLyeVII0gwf_TxBFE-LLb4vYCWhNhuLv1Hx5ckopzAtkq2IXS-gXvZU5DIbYXrc0zbmXkhuc4_2KuyUrzDrmbXfqZpyNuUwMIhO8QBdnW-KC1EvzB85gBRynUOGv9FCTP8wG88p0AxNtIOq0vz6pdTZO1Enx7olcsOElTRt2llih-U1ajQvynyUA0DqqjCg"
+     }
+    ]
+   },
+   {
+    "name": "Geplaatst op",
+    "options": [
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru++sinds+gisteren&uds=AJ5uw1_SDoHm6aEh5WXnY0puHU5LOgWgNORkZ-3Jht2etaLGmuxujCRTAsszOFq4Z3C44cnoFvfWi29veUHJ-QoPAHxA0OpYRCFuFETX5yj16-_neBe-oSkoTBJ4zna6_gbfKM9FbOBETqpJ719K7uVLSiwjv73mob3zJTsWLkFpQ3QbsHGFBng8hdVHYFIdjHSurQLbdmyFwtiq6S_-kSmHPHmHce26g5xz20tzQW3jSZlxNK0F1osZVvuPKCxjHVrLaK1U0ISUmfuJpVpPNFEQHp_kBK8UaJG7ZOefshFcVhYAcf_3LLPACWF7sZPIqXfJXFP7AvcOLogRt9Kn_y-nc9spzNPbAX7UeIRq8HK8nvDTMBlw0PV89NUcBv4eyL6rM4pbHKXlw-WMYRhN-7TooFIjpwRtlg&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIJBAC",
+      "name": "Gisteren",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru  sinds gisteren",
+       "uds": "AJ5uw1_SDoHm6aEh5WXnY0puHU5LOgWgNORkZ-3Jht2etaLGmuxujCRTAsszOFq4Z3C44cnoFvfWi29veUHJ-QoPAHxA0OpYRCFuFETX5yj16-_neBe-oSkoTBJ4zna6_gbfKM9FbOBETqpJ719K7uVLSiwjv73mob3zJTsWLkFpQ3QbsHGFBng8hdVHYFIdjHSurQLbdmyFwtiq6S_-kSmHPHmHce26g5xz20tzQW3jSZlxNK0F1osZVvuPKCxjHVrLaK1U0ISUmfuJpVpPNFEQHp_kBK8UaJG7ZOefshFcVhYAcf_3LLPACWF7sZPIqXfJXFP7AvcOLogRt9Kn_y-nc9spzNPbAX7UeIRq8HK8nvDTMBlw0PV89NUcBv4eyL6rM4pbHKXlw-WMYRhN-7TooFIjpwRtlg"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru++sinds+gisteren&uds=AJ5uw1_SDoHm6aEh5WXnY0puHU5LOgWgNORkZ-3Jht2etaLGmuxujCRTAsszOFq4Z3C44cnoFvfWi29veUHJ-QoPAHxA0OpYRCFuFETX5yj16-_neBe-oSkoTBJ4zna6_gbfKM9FbOBETqpJ719K7uVLSiwjv73mob3zJTsWLkFpQ3QbsHGFBng8hdVHYFIdjHSurQLbdmyFwtiq6S_-kSmHPHmHce26g5xz20tzQW3jSZlxNK0F1osZVvuPKCxjHVrLaK1U0ISUmfuJpVpPNFEQHp_kBK8UaJG7ZOefshFcVhYAcf_3LLPACWF7sZPIqXfJXFP7AvcOLogRt9Kn_y-nc9spzNPbAX7UeIRq8HK8nvDTMBlw0PV89NUcBv4eyL6rM4pbHKXlw-WMYRhN-7TooFIjpwRtlg"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+3+dagen&uds=AJ5uw1_d1K-i0DAvZLAOTClSnB_8xAZoGwzfukFzsUXBbPWvQUuJ6NmUZd4AS2MnSMINj2V5XRZ7cVL-PtlLjwDuTi2Zj8hmBMPDb6Fsr9kn78fY-DiIea5IvcTahyuM0kKlMBG9W2ZIfPLe-zx710VJFhWkO3R71rWDB1rTjyhJX34wmVVZ4eJVXFMGIMfnsua9T-fbSuOL-AfR91mk_jObW-Ctop54wvNNStKgXqYL5n8xFM0MiiZFNWeXntwrSSl9juvM0-EjRPUy6XZ9KA4bVmg2kn3gtMoecHHZaLQgIFMbv-zGJw6kRkpEY57HAoSKbeKgbDc-bL0lzwEBr60sWAswS3Rthwo1R_dW314stoWvmpG3lZzPU0jj-wyZUrQN0EzRWjJOjFdF2x_n030C8JNGAU83vic7Cn5dASxf5fCXBxLBQP4&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIJBAD",
+      "name": "Afgelopen 3 dagen",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru  in de afgelopen 3 dagen",
+       "uds": "AJ5uw1_d1K-i0DAvZLAOTClSnB_8xAZoGwzfukFzsUXBbPWvQUuJ6NmUZd4AS2MnSMINj2V5XRZ7cVL-PtlLjwDuTi2Zj8hmBMPDb6Fsr9kn78fY-DiIea5IvcTahyuM0kKlMBG9W2ZIfPLe-zx710VJFhWkO3R71rWDB1rTjyhJX34wmVVZ4eJVXFMGIMfnsua9T-fbSuOL-AfR91mk_jObW-Ctop54wvNNStKgXqYL5n8xFM0MiiZFNWeXntwrSSl9juvM0-EjRPUy6XZ9KA4bVmg2kn3gtMoecHHZaLQgIFMbv-zGJw6kRkpEY57HAoSKbeKgbDc-bL0lzwEBr60sWAswS3Rthwo1R_dW314stoWvmpG3lZzPU0jj-wyZUrQN0EzRWjJOjFdF2x_n030C8JNGAU83vic7Cn5dASxf5fCXBxLBQP4"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+3+dagen&uds=AJ5uw1_d1K-i0DAvZLAOTClSnB_8xAZoGwzfukFzsUXBbPWvQUuJ6NmUZd4AS2MnSMINj2V5XRZ7cVL-PtlLjwDuTi2Zj8hmBMPDb6Fsr9kn78fY-DiIea5IvcTahyuM0kKlMBG9W2ZIfPLe-zx710VJFhWkO3R71rWDB1rTjyhJX34wmVVZ4eJVXFMGIMfnsua9T-fbSuOL-AfR91mk_jObW-Ctop54wvNNStKgXqYL5n8xFM0MiiZFNWeXntwrSSl9juvM0-EjRPUy6XZ9KA4bVmg2kn3gtMoecHHZaLQgIFMbv-zGJw6kRkpEY57HAoSKbeKgbDc-bL0lzwEBr60sWAswS3Rthwo1R_dW314stoWvmpG3lZzPU0jj-wyZUrQN0EzRWjJOjFdF2x_n030C8JNGAU83vic7Cn5dASxf5fCXBxLBQP4"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+week&uds=AJ5uw1_Tpto6bO4zUmlhM_s340ckx2W9hOHvkxtAU__PTgR2sErUA_UAt01t9jwm2HjUjyNy8WqjI9DY2FcTgJE5AvJJ0SZJFXc93kGF1hTl6HtfRCoRTubeTvb-ivoMciNsToEQzee3W1M_eQAzNweiPacdZUfKpWKx3qmexJGYu2eFcwJQt_2siyq2nCCEsdwCYcpiIl7A6JekVusU27QkB8AqNpkE6OX2_18Vc3c0lXTy2PynTrw9grJOTtCgLzkmC9waGPT7rb0IkD7lwH5uYFivY8X-hXGlSU3xPSSKXQ6rRCt3GfW2Qp01RoV9Vszb9IKiihuWkIQe_DfzxQBQuSMk7mh2ZBv2lLUmVaFuIjS_BID17bKgRxaK0vqO-6zwNGGW_OziYvVTl0Wq1kfhhW_XyIRVl2Um1KuZFWTUpGdV7M5_Pjc&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIJBAE",
+      "name": "Vorige week",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru  in de afgelopen week",
+       "uds": "AJ5uw1_Tpto6bO4zUmlhM_s340ckx2W9hOHvkxtAU__PTgR2sErUA_UAt01t9jwm2HjUjyNy8WqjI9DY2FcTgJE5AvJJ0SZJFXc93kGF1hTl6HtfRCoRTubeTvb-ivoMciNsToEQzee3W1M_eQAzNweiPacdZUfKpWKx3qmexJGYu2eFcwJQt_2siyq2nCCEsdwCYcpiIl7A6JekVusU27QkB8AqNpkE6OX2_18Vc3c0lXTy2PynTrw9grJOTtCgLzkmC9waGPT7rb0IkD7lwH5uYFivY8X-hXGlSU3xPSSKXQ6rRCt3GfW2Qp01RoV9Vszb9IKiihuWkIQe_DfzxQBQuSMk7mh2ZBv2lLUmVaFuIjS_BID17bKgRxaK0vqO-6zwNGGW_OziYvVTl0Wq1kfhhW_XyIRVl2Um1KuZFWTUpGdV7M5_Pjc"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+week&uds=AJ5uw1_Tpto6bO4zUmlhM_s340ckx2W9hOHvkxtAU__PTgR2sErUA_UAt01t9jwm2HjUjyNy8WqjI9DY2FcTgJE5AvJJ0SZJFXc93kGF1hTl6HtfRCoRTubeTvb-ivoMciNsToEQzee3W1M_eQAzNweiPacdZUfKpWKx3qmexJGYu2eFcwJQt_2siyq2nCCEsdwCYcpiIl7A6JekVusU27QkB8AqNpkE6OX2_18Vc3c0lXTy2PynTrw9grJOTtCgLzkmC9waGPT7rb0IkD7lwH5uYFivY8X-hXGlSU3xPSSKXQ6rRCt3GfW2Qp01RoV9Vszb9IKiihuWkIQe_DfzxQBQuSMk7mh2ZBv2lLUmVaFuIjS_BID17bKgRxaK0vqO-6zwNGGW_OziYvVTl0Wq1kfhhW_XyIRVl2Um1KuZFWTUpGdV7M5_Pjc"
+     },
+     {
+      "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+maand&uds=AJ5uw1_3cPG_Ump7uqtSTT1y5fPFh3goUiVQNL9kuqoI3E4HJFQCu83LPS3zi9biK1ZJOVoso4UixWtny7QeqvMYRgTdItg7uLQdXt8j_rHz_CRm_Z1bImqffp34z2EBS4nqFTlb2GXYq-m8AgmV3ZfeZ3bl0fUg4_j3j6YzrV65oA-l7ET0NysXUVl3kgC63XXbP7Si_kgfRsowLyYdyPw1FF4pyG4-UcFCLyeVII0gwf_TxBFE-LLb4vYCWhNhuLv1Hx5ckopzAtkq2IXS-gXvZU5DIbYXrc0zbmXkhuc4_2KuyUrzDrmbXfqZpyNuUwMIhO8QBdnW-KC1EvzB85gBRynUOGv9FCTP8wG88p0AxNtIOq0vz6pdTZO1Enx7olcsOElTRt2llih-U1ajQvynyUA0DqqjCg&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQkbEKegQIJBAF",
+      "name": "Vorige maand",
+      "parameters": {
+       "q": "companies hiring machine learning engineers bengaluru  in de afgelopen maand",
+       "uds": "AJ5uw1_3cPG_Ump7uqtSTT1y5fPFh3goUiVQNL9kuqoI3E4HJFQCu83LPS3zi9biK1ZJOVoso4UixWtny7QeqvMYRgTdItg7uLQdXt8j_rHz_CRm_Z1bImqffp34z2EBS4nqFTlb2GXYq-m8AgmV3ZfeZ3bl0fUg4_j3j6YzrV65oA-l7ET0NysXUVl3kgC63XXbP7Si_kgfRsowLyYdyPw1FF4pyG4-UcFCLyeVII0gwf_TxBFE-LLb4vYCWhNhuLv1Hx5ckopzAtkq2IXS-gXvZU5DIbYXrc0zbmXkhuc4_2KuyUrzDrmbXfqZpyNuUwMIhO8QBdnW-KC1EvzB85gBRynUOGv9FCTP8wG88p0AxNtIOq0vz6pdTZO1Enx7olcsOElTRt2llih-U1ajQvynyUA0DqqjCg"
+      },
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru++in+de+afgelopen+maand&uds=AJ5uw1_3cPG_Ump7uqtSTT1y5fPFh3goUiVQNL9kuqoI3E4HJFQCu83LPS3zi9biK1ZJOVoso4UixWtny7QeqvMYRgTdItg7uLQdXt8j_rHz_CRm_Z1bImqffp34z2EBS4nqFTlb2GXYq-m8AgmV3ZfeZ3bl0fUg4_j3j6YzrV65oA-l7ET0NysXUVl3kgC63XXbP7Si_kgfRsowLyYdyPw1FF4pyG4-UcFCLyeVII0gwf_TxBFE-LLb4vYCWhNhuLv1Hx5ckopzAtkq2IXS-gXvZU5DIbYXrc0zbmXkhuc4_2KuyUrzDrmbXfqZpyNuUwMIhO8QBdnW-KC1EvzB85gBRynUOGv9FCTP8wG88p0AxNtIOq0vz6pdTZO1Enx7olcsOElTRt2llih-U1ajQvynyUA0DqqjCg"
+     }
+    ]
+   }
+  ],
+  "jobs_results": {
+   "jobs": [
+    {
+     "company_name": "Roku",
+     "detected_extensions": {},
+     "extensions": [
+      "Fulltime"
+     ],
+     "link": "https://www.weareroku.com/jobs/senior-engineering-manager-machine-learning-bengaluru-karnataka-india-3ca61753-5f72-4b29-8d69-96078abda210?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+     "location": "Bangalore, Karnataka, India",
+     "title": "Senior Engineering Manager - Machine Learning",
+     "via": "via Roku Jobs"
+    },
+    {
+     "company_name": "PwC India",
+     "detected_extensions": {},
+     "extensions": [
+      "1 dag geleden",
+      "Fulltime"
+     ],
+     "link": "https://in.linkedin.com/jobs/view/in-senior-associate-ai-ml-engineer-gcc-advisory-bangalore-at-pwc-india-4473240619?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+     "location": "Bangalore, Karnataka, India",
+     "thumbnail": "https://serpapi.com/searches/6abd23436c4c0c1d8821cf99/images/s9xPvuoIIvPFxMhoAmZ8O48Cny1DrB2H7jsMALh0yJI.jpeg",
+     "title": "IN_Senior Associate_ AI/ML Engineer__GCC_ Advisory _Bangalore",
+     "via": "via LinkedIn"
+    },
+    {
+     "company_name": "eBay",
+     "detected_extensions": {},
+     "extensions": [
+      "15 uur geleden",
+      "Fulltime"
+     ],
+     "link": "https://jobs.ebayinc.com/us/en/job/R0075755/AI-Engineer-AI-Automation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+     "location": "Bangalore, Karnataka, India",
+     "title": "AI Engineer - AI & Automation",
+     "via": "via Careers - EBay Inc."
+    }
+   ],
+   "link": "https://www.google.com/search?q=companies+hiring+machine+learning+engineers+bengaluru&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&udm=jobs&sa=X&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQ3L8LegQIOxAM",
+   "link_text": "Meer vacatures bekijken",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_jobs&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru"
   },
   "organic_results": [
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZVVmExT0pYbk9CTHlxdVJENDBfWHdxTzBnM1VNdWJXRTVIcGFIMW1vQ1VpbHVuaVNxaThxQjVGR25wMVd2TXF6bjE5Q25YamszNWRncVNub2dEaUNnLS14dGNDQVEtTnNLVXBtU1duNzlDRXh6aWxLd01DWGF0bUFwRGNjd29SMm9ZVWdaSzBXa29sd3loVV9xcUx4ZmVpYzlTUnRyVGFEMElvNEZ4dHRibWt6b0YwWEZ0Z1NId1N3UGI4QkNORGtsZTBZMzgSBBoCCAAa0wsSABoAIgAqADIGCAISAm5sOgBCBAgCEAJKAFoAcgB6AIJArwsIABAAGAAgACrUAQoJY29tcGFuaWVzFQAAAAAaBWJyYW5kGghidXNpbmVzcxoKYnVzaW5lc3NlcxoHY29tcGFueRoFZ3JvdXAaBGpvYnMaCHNlcnZpY2VzGg5pdjtkO2NvbXBhbmllcxoOaXY7cDtjb21wYW5pZXMaDWl2O2Q7YnVzaW5lc3MaDWl2O3A7YnVzaW5lc3MaD2l2O2Q7YnVzaW5lc3NlcxoPaXY7cDtidXNpbmVzc2VzGgxpdjtkO2NvbXBhbnkaDGl2O3A7Y29tcGFueRoJaXY7cDtqb2JzKuQBCgZoaXJpbmcVOdnzPRoHY2FyZWVycxoKZW1wbG95bWVudBoDam9iGgRqb2JzGgtyZWNydWl0bWVudBoHdmFjYW5jeRoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGgtpdjtwO2hpcmluZxoMaXY7ZDtjYXJlZXJzGgxpdjtwO2NhcmVlcnMaD2l2O3A7ZW1wbG95bWVudBoJaXY7cDtqb2JzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoIb3BlbmluZ3MaCXZhY2FuY2llcxoEd29yaxoEaGlyZRoGY2FyZWVyKrwBCgdtYWNoaW5lFe7q6UAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoMaXY7ZDttYWNoaW5lGgxpdjtwO21hY2hpbmUaCWl2O2Q7ZGVlcBoJaXY7cDtkZWVwGg1pdjtkO21hY2hpbmVzGg1pdjtwO21hY2hpbmVzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqsQEKCGxlYXJuaW5nFRRG6kAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoNaXY7ZDtsZWFybmluZxoNaXY7cDtsZWFybmluZxoRaXY7ZDtpbnRlbGxpZ2VuY2UaEWl2O3A7aW50ZWxsaWdlbmNlGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqeQoJZW5naW5lZXJzFQAAAAAaCGVuZ2luZWVyGgtlbmdpbmVlcmluZxoOaXY7cDtlbmdpbmVlcnMaDWl2O2Q7ZW5naW5lZXIaDWl2O3A7ZW5naW5lZXIaEGl2O2Q7ZW5naW5lZXJpbmcaEGl2O3A7ZW5naW5lZXJpbmcqSwoJYmVuZ2FsdXJ1Fd2kwUAaCWJhbmdhbG9yZRoOaXY7ZDtiZW5nYWx1cnUaDml2O3A7YmVuZ2FsdXJ1Gg5pdjtwO2JhbmdhbG9yZTLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGVVZhMU9KWG5PQkx5cXVSRDQwX1h3cU8wZzNVTXViV0U1SHBhSDFtb0NVaWx1bmlTcWk4cUI1RkducDFXdk1xem4xOUNuWGprMzVkZ3FTbm9nRGlDZy0teHRjQ0FRLU5zS1VwbVNXbjc5Q0V4emlsS3dNQ1hhdG1BcERjY3dvUjJvWVVnWkswV2tvbHd5aFVfcXFMeGZlaWM5U1J0clRhRDBJbzRGeHR0Ym1rem9GMFhGdGdTSHdTd1BiOEJDTkRrbGUwWTM4OkZTZW5pb3IgPGI-TWFjaGluZSBMZWFybmluZyBFbmdpbmVlcjwvYj4gYXQgRXhwZWRpYSBHcm91cCAtIDxiPkpvYnM8L2I-QoMBQXBwbHkgZm9yIFNlbmlvciBNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIGF0IDxiPkV4cGVkaWEgR3JvdXAgaW4gQmVuZ2FsdXJ1PC9iPiwgS2FybmF0YWthLCBJbmRpYS4gRnVsbC10aW1lIE1pZC1TZW5pb3IgbGV2ZWwgcm9sZS4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZVVmExT0pYbk9CTHlxdVJENDBfWHdxTzBnM1VNdWJXRTVIcGFIMW1vQ1VpbHVuaVNxaThxQjVGR25wMVd2TXF6bjE5Q25YamszNWRncVNub2dEaUNnLS14dGNDQVEtTnNLVXBtU1duNzlDRXh6aWxLd01DWGF0bUFwRGNjd29SMm9ZVWdaSzBXa29sd3loVV9xcUx4ZmVpYzlTUnRyVGFEMElvNEZ4dHRibWt6b0YwWEZ0Z1NId1N3UGI4QkNORGtsZTBZMzgSBBoCCAAa0wsSABoAIgAqADIGCAISAm5sOgBCBAgCEAJKAFoAcgB6AIJArwsIABAAGAAgACrUAQoJY29tcGFuaWVzFQAAAAAaBWJyYW5kGghidXNpbmVzcxoKYnVzaW5lc3NlcxoHY29tcGFueRoFZ3JvdXAaBGpvYnMaCHNlcnZpY2VzGg5pdjtkO2NvbXBhbmllcxoOaXY7cDtjb21wYW5pZXMaDWl2O2Q7YnVzaW5lc3MaDWl2O3A7YnVzaW5lc3MaD2l2O2Q7YnVzaW5lc3NlcxoPaXY7cDtidXNpbmVzc2VzGgxpdjtkO2NvbXBhbnkaDGl2O3A7Y29tcGFueRoJaXY7cDtqb2JzKuQBCgZoaXJpbmcVOdnzPRoHY2FyZWVycxoKZW1wbG95bWVudBoDam9iGgRqb2JzGgtyZWNydWl0bWVudBoHdmFjYW5jeRoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGgtpdjtwO2hpcmluZxoMaXY7ZDtjYXJlZXJzGgxpdjtwO2NhcmVlcnMaD2l2O3A7ZW1wbG95bWVudBoJaXY7cDtqb2JzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoIb3BlbmluZ3MaCXZhY2FuY2llcxoEd29yaxoEaGlyZRoGY2FyZWVyKrwBCgdtYWNoaW5lFe7q6UAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoMaXY7ZDttYWNoaW5lGgxpdjtwO21hY2hpbmUaCWl2O2Q7ZGVlcBoJaXY7cDtkZWVwGg1pdjtkO21hY2hpbmVzGg1pdjtwO21hY2hpbmVzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqsQEKCGxlYXJuaW5nFRRG6kAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoNaXY7ZDtsZWFybmluZxoNaXY7cDtsZWFybmluZxoRaXY7ZDtpbnRlbGxpZ2VuY2UaEWl2O3A7aW50ZWxsaWdlbmNlGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqeQoJZW5naW5lZXJzFQAAAAAaCGVuZ2luZWVyGgtlbmdpbmVlcmluZxoOaXY7cDtlbmdpbmVlcnMaDWl2O2Q7ZW5naW5lZXIaDWl2O3A7ZW5naW5lZXIaEGl2O2Q7ZW5naW5lZXJpbmcaEGl2O3A7ZW5naW5lZXJpbmcqSwoJYmVuZ2FsdXJ1Fd2kwUAaCWJhbmdhbG9yZRoOaXY7ZDtiZW5nYWx1cnUaDml2O3A7YmVuZ2FsdXJ1Gg5pdjtwO2JhbmdhbG9yZTLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGVVZhMU9KWG5PQkx5cXVSRDQwX1h3cU8wZzNVTXViV0U1SHBhSDFtb0NVaWx1bmlTcWk4cUI1RkducDFXdk1xem4xOUNuWGprMzVkZ3FTbm9nRGlDZy0teHRjQ0FRLU5zS1VwbVNXbjc5Q0V4emlsS3dNQ1hhdG1BcERjY3dvUjJvWVVnWkswV2tvbHd5aFVfcXFMeGZlaWM5U1J0clRhRDBJbzRGeHR0Ym1rem9GMFhGdGdTSHdTd1BiOEJDTkRrbGUwWTM4OkZTZW5pb3IgPGI-TWFjaGluZSBMZWFybmluZyBFbmdpbmVlcjwvYj4gYXQgRXhwZWRpYSBHcm91cCAtIDxiPkpvYnM8L2I-QoMBQXBwbHkgZm9yIFNlbmlvciBNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIGF0IDxiPkV4cGVkaWEgR3JvdXAgaW4gQmVuZ2FsdXJ1PC9iPiwgS2FybmF0YWthLCBJbmRpYS4gRnVsbC10aW1lIE1pZC1TZW5pb3IgbGV2ZWwgcm9sZS4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "nl"
      ],
      "regions": [
-      "US"
+      "NL"
      ],
      "source": {
-      "description": "Transformation into The Smashing Machine. my team of brilliant artists who made the transformation possible.",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/DwayneJohnson/videos/transformation-into-another-human-being-4-hours-every-morning-in-the-chair/4329007157423375/"
+      "description": "Apply for Senior Machine Learning Engineer at Expedia Group in Bengaluru, Karnataka, India. Full-time Mid-Senior level role.",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png",
+      "source_info_link": "https://in.linkedin.com/jobs/view/senior-machine-learning-engineer-at-expedia-group-4403906776"
      }
     },
-    "date": "Oct 14, 2025",
-    "displayed_link": "https://www.facebook.com › ... › Videos",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/DwayneJohnson/videos/transformation-into-another-human-being-4-hours-every-morning-in-the-chair/4329007157423375/",
+    "displayed_link": "https://in.linkedin.com › jobs › view",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png",
+    "link": "https://in.linkedin.com/jobs/view/senior-machine-learning-engineer-at-expedia-group-4403906776",
     "position": 1,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwwEB6zswFYSiJItHbmjaxLuKgIXveU3y2oSZM6WgJzBGnXmZsZ2qcG7UMnI43vZOLSk8K5zs4hA1qRDfxC2TKxi5jZ6_bQt5Rhiw6Z99wsfaTHfH6PBFSyoL2Hl4YLDq6JK3q9T9l8moI_aIJ9MqBSmjF5t4iGruKl8EeU8TjIGtLhGKnlfZgdgK40o8RqxDYeyjzeG-YNzxFB3G32qr_p4hMm8qhWfa0slwBnyJ3XRHikfQHenoyNIELxiPxspMctAvFI0&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQFnoECBQQAQ&uoh=1",
-    "snippet": "Transformation into The Smashing Machine. my team of brilliant artists who made the transformation possible.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFUVa1OJXnOBLyquRD40_XwqO0g3UMubWE5HpaH1moCUiluniSqi8qB5FGnp1WvMqzn19CnXjk35dgqSnogDiCg--xtcCAQ-NsKUpmSWn79CExzilKwMCXatmApDccwoR2oYUgZK0WkolwyhU_qqLxfeic9SRtrTaD0Io4FxttbmkzoF0XFtgSHwSwPb8BCNDkle0Y38&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQFnoECCAQAQ&uoh=1",
+    "snippet": "Apply for Senior Machine Learning Engineer at Expedia Group in Bengaluru, Karnataka, India. Full-time Mid-Senior level role.",
     "snippet_highlighted_words": [
-     "Machine"
+     "Expedia Group in Bengaluru"
     ],
-    "source": "Facebook",
-    "title": "Transformation into The Smashing Machine. 4 hours every ..."
+    "source": "LinkedIn India",
+    "title": "Senior Machine Learning Engineer at Expedia Group - Jobs"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZhdlQzX3RoTERZaUo4RjZIRHgzR3ZPUHdnVGpYR2ttUlJSVXA5bkZfRXBMZ3JqVGdYY0hCMU9aODRIdjljbkludUVVQlpmcUVNQ3M2aG13MDlzOVBMUEh3WUhoWElEcWtiYmUyYzllVzd3dmxzZk5XUmxVaXdPU2xjTGRUVXFaXzVmdmdZVG1aX2xyUHRwczFDS1FMT3lCSXNZdFRacVlfNEZWWVdDMTNTRUh5cms4NkRWTlFJZk1JYllWdzNmcEZ4WRIEGgIIABqSDBIAGgAiACoAMgYIAhICbmw6AEIECAIQAkoAWgByAHoAgkDuCwgAEAAYACAAKtQBCgljb21wYW5pZXMVk9CZPBoFYnJhbmQaCGJ1c2luZXNzGgpidXNpbmVzc2VzGgdjb21wYW55GgVncm91cBoEam9icxoIc2VydmljZXMaDml2O2Q7Y29tcGFuaWVzGg5pdjtwO2NvbXBhbmllcxoNaXY7ZDtidXNpbmVzcxoNaXY7cDtidXNpbmVzcxoPaXY7ZDtidXNpbmVzc2VzGg9pdjtwO2J1c2luZXNzZXMaDGl2O2Q7Y29tcGFueRoMaXY7cDtjb21wYW55GglpdjtwO2pvYnMq5AEKBmhpcmluZxUWp_A9GgdjYXJlZXJzGgplbXBsb3ltZW50GgNqb2IaBGpvYnMaC3JlY3J1aXRtZW50Ggd2YWNhbmN5GhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaC2l2O3A7aGlyaW5nGgxpdjtkO2NhcmVlcnMaDGl2O3A7Y2FyZWVycxoPaXY7cDtlbXBsb3ltZW50GglpdjtwO2pvYnMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGghvcGVuaW5ncxoJdmFjYW5jaWVzGgR3b3JrGgRoaXJlGgZjYXJlZXIqvAEKB21hY2hpbmUVfkVuQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGgxpdjtkO21hY2hpbmUaDGl2O3A7bWFjaGluZRoJaXY7ZDtkZWVwGglpdjtwO2RlZXAaDWl2O2Q7bWFjaGluZXMaDWl2O3A7bWFjaGluZXMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyqxAQoIbGVhcm5pbmcVESV6QBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGg1pdjtkO2xlYXJuaW5nGg1pdjtwO2xlYXJuaW5nGhFpdjtkO2ludGVsbGlnZW5jZRoRaXY7cDtpbnRlbGxpZ2VuY2UaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyp5CgllbmdpbmVlcnMVd5aWPxoIZW5naW5lZXIaC2VuZ2luZWVyaW5nGg5pdjtwO2VuZ2luZWVycxoNaXY7ZDtlbmdpbmVlchoNaXY7cDtlbmdpbmVlchoQaXY7ZDtlbmdpbmVlcmluZxoQaXY7cDtlbmdpbmVlcmluZypLCgliZW5nYWx1cnUVVz8JQBoJYmFuZ2Fsb3JlGg5pdjtkO2JlbmdhbHVydRoOaXY7cDtiZW5nYWx1cnUaDml2O3A7YmFuZ2Fsb3JlMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZhdlQzX3RoTERZaUo4RjZIRHgzR3ZPUHdnVGpYR2ttUlJSVXA5bkZfRXBMZ3JqVGdYY0hCMU9aODRIdjljbkludUVVQlpmcUVNQ3M2aG13MDlzOVBMUEh3WUhoWElEcWtiYmUyYzllVzd3dmxzZk5XUmxVaXdPU2xjTGRUVXFaXzVmdmdZVG1aX2xyUHRwczFDS1FMT3lCSXNZdFRacVlfNEZWWVdDMTNTRUh5cms4NkRWTlFJZk1JYllWdzNmcEZ4WTpFNywyMDIgYWkgPGI-bWwgZW5naW5lZXIgam9iczwvYj4gaW4gSW5kaWEsIFNlcHRlbWJlciAyMDI2IHwgR2xhc3Nkb29yQscBNzIwMiBvcGVuIDxiPmpvYnM8L2I-IGZvciBBaSA8Yj5tbCBlbmdpbmVlcjwvYj4gaW4gSW5kaWEuIDMwZCsgPGI-bWFjaGluZSBsZWFybmluZyBlbmdpbmVlciBqb2JzPC9iPiBpbiBCZW5nYWx1cnVCZW5nYWx1cnUuIE9wdHVtIDMuNCBBSS88Yj5NTCBFbmdpbmVlciBCZW5nYWx1cnU8L2I-IOKCuTRMIC0g4oK5N0wgKEdsYXNzZG9vciZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZhdlQzX3RoTERZaUo4RjZIRHgzR3ZPUHdnVGpYR2ttUlJSVXA5bkZfRXBMZ3JqVGdYY0hCMU9aODRIdjljbkludUVVQlpmcUVNQ3M2aG13MDlzOVBMUEh3WUhoWElEcWtiYmUyYzllVzd3dmxzZk5XUmxVaXdPU2xjTGRUVXFaXzVmdmdZVG1aX2xyUHRwczFDS1FMT3lCSXNZdFRacVlfNEZWWVdDMTNTRUh5cms4NkRWTlFJZk1JYllWdzNmcEZ4WRIEGgIIABqSDBIAGgAiACoAMgYIAhICbmw6AEIECAIQAkoAWgByAHoAgkDuCwgAEAAYACAAKtQBCgljb21wYW5pZXMVk9CZPBoFYnJhbmQaCGJ1c2luZXNzGgpidXNpbmVzc2VzGgdjb21wYW55GgVncm91cBoEam9icxoIc2VydmljZXMaDml2O2Q7Y29tcGFuaWVzGg5pdjtwO2NvbXBhbmllcxoNaXY7ZDtidXNpbmVzcxoNaXY7cDtidXNpbmVzcxoPaXY7ZDtidXNpbmVzc2VzGg9pdjtwO2J1c2luZXNzZXMaDGl2O2Q7Y29tcGFueRoMaXY7cDtjb21wYW55GglpdjtwO2pvYnMq5AEKBmhpcmluZxUWp_A9GgdjYXJlZXJzGgplbXBsb3ltZW50GgNqb2IaBGpvYnMaC3JlY3J1aXRtZW50Ggd2YWNhbmN5GhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaC2l2O3A7aGlyaW5nGgxpdjtkO2NhcmVlcnMaDGl2O3A7Y2FyZWVycxoPaXY7cDtlbXBsb3ltZW50GglpdjtwO2pvYnMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGghvcGVuaW5ncxoJdmFjYW5jaWVzGgR3b3JrGgRoaXJlGgZjYXJlZXIqvAEKB21hY2hpbmUVfkVuQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGgxpdjtkO21hY2hpbmUaDGl2O3A7bWFjaGluZRoJaXY7ZDtkZWVwGglpdjtwO2RlZXAaDWl2O2Q7bWFjaGluZXMaDWl2O3A7bWFjaGluZXMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyqxAQoIbGVhcm5pbmcVESV6QBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGg1pdjtkO2xlYXJuaW5nGg1pdjtwO2xlYXJuaW5nGhFpdjtkO2ludGVsbGlnZW5jZRoRaXY7cDtpbnRlbGxpZ2VuY2UaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyp5CgllbmdpbmVlcnMVd5aWPxoIZW5naW5lZXIaC2VuZ2luZWVyaW5nGg5pdjtwO2VuZ2luZWVycxoNaXY7ZDtlbmdpbmVlchoNaXY7cDtlbmdpbmVlchoQaXY7ZDtlbmdpbmVlcmluZxoQaXY7cDtlbmdpbmVlcmluZypLCgliZW5nYWx1cnUVVz8JQBoJYmFuZ2Fsb3JlGg5pdjtkO2JlbmdhbHVydRoOaXY7cDtiZW5nYWx1cnUaDml2O3A7YmFuZ2Fsb3JlMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZhdlQzX3RoTERZaUo4RjZIRHgzR3ZPUHdnVGpYR2ttUlJSVXA5bkZfRXBMZ3JqVGdYY0hCMU9aODRIdjljbkludUVVQlpmcUVNQ3M2aG13MDlzOVBMUEh3WUhoWElEcWtiYmUyYzllVzd3dmxzZk5XUmxVaXdPU2xjTGRUVXFaXzVmdmdZVG1aX2xyUHRwczFDS1FMT3lCSXNZdFRacVlfNEZWWVdDMTNTRUh5cms4NkRWTlFJZk1JYllWdzNmcEZ4WTpFNywyMDIgYWkgPGI-bWwgZW5naW5lZXIgam9iczwvYj4gaW4gSW5kaWEsIFNlcHRlbWJlciAyMDI2IHwgR2xhc3Nkb29yQscBNzIwMiBvcGVuIDxiPmpvYnM8L2I-IGZvciBBaSA8Yj5tbCBlbmdpbmVlcjwvYj4gaW4gSW5kaWEuIDMwZCsgPGI-bWFjaGluZSBsZWFybmluZyBlbmdpbmVlciBqb2JzPC9iPiBpbiBCZW5nYWx1cnVCZW5nYWx1cnUuIE9wdHVtIDMuNCBBSS88Yj5NTCBFbmdpbmVlciBCZW5nYWx1cnU8L2I-IOKCuTRMIC0g4oK5N0wgKEdsYXNzZG9vciZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "nl"
      ],
      "regions": [
-      "US"
+      "NL"
      ],
      "source": {
-      "description": "The toughest technical challenges attract the best scientists and engineers. Physics Electrical Engineering Mechanical Engineering Nuclear Engineering Computer ...",
-      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAq9gAq9kArNkArNkArNkArNkArNkArNkArNkAq9gArNkArNkArNkArNkArNkArNlj1_oBAAAAEXRSTlMAChlSveHy_9GqKWCJlH5yQv98GQMAAADjSURBVHgBjZAFDgQxDANdZvj_a28tH_MIEnXUEP7EWGIMHnE-xHRHzKVenE9vaHL9SIMvY8611px9FM86-ntJ1FMfZkqFsabUGbfKQcQUzo8OjDlQmuscDO1SHutOFslFuYin7Mw2-lVapEcKpmowvEh9eS_9s5zW833Z_EY6UDJ8lu0q600Oiyy588tAGwiUC_Baxd72bGc5KQePYC7ny5SRsgM5TgxdyLEkkRwPt63sQ6DjKA8pMpjESLY7qEq5DvGHHcvtXWu1te7dVuHe0NcXVF62vKi4pORt3dsRlrf4gxMBhw7HHbA1rgAAAABJRU5ErkJggg.png",
-      "source_info_link": "https://www.sandia.gov/z-machine/"
+      "description": "7202 open jobs for Ai ml engineer in India. 30d+ machine learning engineer jobs in BengaluruBengaluru. Optum 3.4 AI/ML Engineer Bengaluru ₹4L - ₹7L (Glassdoor ...",
+      "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
+      "source_info_link": "https://www.glassdoor.co.in/Job/india-ai-ml-engineer-jobs-jobs-SRCH_IL.0,5_IN115_KO6,25.htm"
      }
     },
-    "displayed_link": "https://www.sandia.gov › z-machine",
-    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAq9gAq9kArNkArNkArNkArNkArNkArNkArNkAq9gArNkArNkArNkArNkArNkArNlj1_oBAAAAEXRSTlMAChlSveHy_9GqKWCJlH5yQv98GQMAAADjSURBVHgBjZAFDgQxDANdZvj_a28tH_MIEnXUEP7EWGIMHnE-xHRHzKVenE9vaHL9SIMvY8611px9FM86-ntJ1FMfZkqFsabUGbfKQcQUzo8OjDlQmuscDO1SHutOFslFuYin7Mw2-lVapEcKpmowvEh9eS_9s5zW833Z_EY6UDJ8lu0q600Oiyy588tAGwiUC_Baxd72bGc5KQePYC7ny5SRsgM5TgxdyLEkkRwPt63sQ6DjKA8pMpjESLY7qEq5DvGHHcvtXWu1te7dVuHe0NcXVF62vKi4pORt3dsRlrf4gxMBhw7HHbA1rgAAAABJRU5ErkJggg.png",
-    "link": "https://www.sandia.gov/z-machine/",
+    "displayed_link": "https://www.glassdoor.co.in › Job",
+    "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
+    "link": "https://www.glassdoor.co.in/Job/india-ai-ml-engineer-jobs-jobs-SRCH_IL.0,5_IN115_KO6,25.htm",
     "position": 2,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVXr7zFb6GLlZgaP6RQwXFk7MLXA4H5TBBW6DTn0buG_2GFGiiNyjG0XgQIUAungus0w6x3LFU3F582Yn0cOdZI-9FHBi2TVI7X3TyeVvqAdFgEIcm&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQFnoECBcQAQ&uoh=1",
-    "snippet": "The toughest technical challenges attract the best scientists and engineers. Physics Electrical Engineering Mechanical Engineering Nuclear Engineering Computer ...",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFavT3_thLDYiJ8F6HDx3GvOPwgTjXGkmRRRUp9nF_EpLgrjTgXcHB1OZ84Hv9cnInuEUBZfqEMCs6hmw09s9PLPHwYHhXIDqkbbe2c9eW7wvlsfNWRlUiwOSlcLdTUqZ_5fvgYTmZ_lrPtps1CKQLOyBIsYtTZqY_4FVYWC13SEHyrk86DVNQIfMIbYVw3fpFxY&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQFnoECB4QAQ&uoh=1",
+    "snippet": "7202 open jobs for Ai ml engineer in India. 30d+ machine learning engineer jobs in BengaluruBengaluru. Optum 3.4 AI/ML Engineer Bengaluru ₹4L - ₹7L (Glassdoor ...",
     "snippet_highlighted_words": [
-     "engineers",
-     "Engineering",
-     "Engineering",
-     "Engineering"
+     "jobs",
+     "ml engineer",
+     "machine learning engineer jobs",
+     "ML Engineer Bengaluru"
     ],
-    "source": "Sandia National Laboratories (.gov)",
-    "title": "Z Pulsed Power Facility"
+    "source": "Glassdoor",
+    "title": "7202 ai ml engineer jobs in India, September 2026"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZWelVhR1NMTlRFRG85UlpiSWtRakgxNjlneGQtcENFaEh6UEd3VlVTdHZVVl9Wc2xNQmtHRWNXVmVHR0UyVjdKZUtLVnlMZHpRR2t3dWpYU2VFV3k4TGNWZFp5TFdoRGhqSUQ5R2JTZnFfRVV1czVQZWVSTWQxVkpLRkpram5rN0ZiTWJSY0VJSnVCNk1adExSN3lvNXE3bFNsZGV3bXl0cnR6akdRcmttVi1sdGd3VFVYcW9uX1VwcTQSBBoCCAAa5AsSAggAGgAiACoAMgYIAhICbmw6AEIECAIQAkoAWgByAHoAgkC-CwgAEAAYACAAKtQBCgljb21wYW5pZXMV25AOPhoFYnJhbmQaCGJ1c2luZXNzGgpidXNpbmVzc2VzGgdjb21wYW55GgVncm91cBoEam9icxoIc2VydmljZXMaDml2O2Q7Y29tcGFuaWVzGg5pdjtwO2NvbXBhbmllcxoNaXY7ZDtidXNpbmVzcxoNaXY7cDtidXNpbmVzcxoPaXY7ZDtidXNpbmVzc2VzGg9pdjtwO2J1c2luZXNzZXMaDGl2O2Q7Y29tcGFueRoMaXY7cDtjb21wYW55GglpdjtwO2pvYnMq5AEKBmhpcmluZxUAAAAAGgdjYXJlZXJzGgplbXBsb3ltZW50GgNqb2IaBGpvYnMaC3JlY3J1aXRtZW50Ggd2YWNhbmN5GhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaC2l2O3A7aGlyaW5nGgxpdjtkO2NhcmVlcnMaDGl2O3A7Y2FyZWVycxoPaXY7cDtlbXBsb3ltZW50GglpdjtwO2pvYnMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGghvcGVuaW5ncxoJdmFjYW5jaWVzGgR3b3JrGgRoaXJlGgZjYXJlZXIqvAEKB21hY2hpbmUVeNflQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGgxpdjtkO21hY2hpbmUaDGl2O3A7bWFjaGluZRoJaXY7ZDtkZWVwGglpdjtwO2RlZXAaDWl2O2Q7bWFjaGluZXMaDWl2O3A7bWFjaGluZXMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyqxAQoIbGVhcm5pbmcVAtDpQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGg1pdjtkO2xlYXJuaW5nGg1pdjtwO2xlYXJuaW5nGhFpdjtkO2ludGVsbGlnZW5jZRoRaXY7cDtpbnRlbGxpZ2VuY2UaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyp5CgllbmdpbmVlcnMVAAAAABoIZW5naW5lZXIaC2VuZ2luZWVyaW5nGg5pdjtwO2VuZ2luZWVycxoNaXY7ZDtlbmdpbmVlchoNaXY7cDtlbmdpbmVlchoQaXY7ZDtlbmdpbmVlcmluZxoQaXY7cDtlbmdpbmVlcmluZypLCgliZW5nYWx1cnUVAAAAABoJYmFuZ2Fsb3JlGg5pdjtkO2JlbmdhbHVydRoOaXY7cDtiZW5nYWx1cnUaDml2O3A7YmFuZ2Fsb3JlMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZWelVhR1NMTlRFRG85UlpiSWtRakgxNjlneGQtcENFaEh6UEd3VlVTdHZVVl9Wc2xNQmtHRWNXVmVHR0UyVjdKZUtLVnlMZHpRR2t3dWpYU2VFV3k4TGNWZFp5TFdoRGhqSUQ5R2JTZnFfRVV1czVQZWVSTWQxVkpLRkpram5rN0ZiTWJSY0VJSnVCNk1adExSN3lvNXE3bFNsZGV3bXl0cnR6akdRcmttVi1sdGd3VFVYcW9uX1VwcTQ6OjxiPk1hY2hpbmUgTGVhcm5pbmcgRW5naW5lZXI8L2I-IGpvYiBhdCBNeW50cmEgLSBJbnN0YWh5cmVCqgE8Yj5NeW50cmEgaXMgbG9va2luZyBmb3IgYSBNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIGluIEJhbmdhbG9yZTwvYj4gd2l0aCA2LTEwIHllYXJzIG9mIGV4cGVyaWVuY2UgaW4gRGF0YSBTY2llbmNlLiBEZXNpZ24sIGRldmVsb3AsIGFuZCBkZXBsb3kgbWFjaGluZSBsZWFybmluZyZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZWelVhR1NMTlRFRG85UlpiSWtRakgxNjlneGQtcENFaEh6UEd3VlVTdHZVVl9Wc2xNQmtHRWNXVmVHR0UyVjdKZUtLVnlMZHpRR2t3dWpYU2VFV3k4TGNWZFp5TFdoRGhqSUQ5R2JTZnFfRVV1czVQZWVSTWQxVkpLRkpram5rN0ZiTWJSY0VJSnVCNk1adExSN3lvNXE3bFNsZGV3bXl0cnR6akdRcmttVi1sdGd3VFVYcW9uX1VwcTQSBBoCCAAa5AsSAggAGgAiACoAMgYIAhICbmw6AEIECAIQAkoAWgByAHoAgkC-CwgAEAAYACAAKtQBCgljb21wYW5pZXMV25AOPhoFYnJhbmQaCGJ1c2luZXNzGgpidXNpbmVzc2VzGgdjb21wYW55GgVncm91cBoEam9icxoIc2VydmljZXMaDml2O2Q7Y29tcGFuaWVzGg5pdjtwO2NvbXBhbmllcxoNaXY7ZDtidXNpbmVzcxoNaXY7cDtidXNpbmVzcxoPaXY7ZDtidXNpbmVzc2VzGg9pdjtwO2J1c2luZXNzZXMaDGl2O2Q7Y29tcGFueRoMaXY7cDtjb21wYW55GglpdjtwO2pvYnMq5AEKBmhpcmluZxUAAAAAGgdjYXJlZXJzGgplbXBsb3ltZW50GgNqb2IaBGpvYnMaC3JlY3J1aXRtZW50Ggd2YWNhbmN5GhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaC2l2O3A7aGlyaW5nGgxpdjtkO2NhcmVlcnMaDGl2O3A7Y2FyZWVycxoPaXY7cDtlbXBsb3ltZW50GglpdjtwO2pvYnMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGghvcGVuaW5ncxoJdmFjYW5jaWVzGgR3b3JrGgRoaXJlGgZjYXJlZXIqvAEKB21hY2hpbmUVeNflQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGgxpdjtkO21hY2hpbmUaDGl2O3A7bWFjaGluZRoJaXY7ZDtkZWVwGglpdjtwO2RlZXAaDWl2O2Q7bWFjaGluZXMaDWl2O3A7bWFjaGluZXMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyqxAQoIbGVhcm5pbmcVAtDpQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGg1pdjtkO2xlYXJuaW5nGg1pdjtwO2xlYXJuaW5nGhFpdjtkO2ludGVsbGlnZW5jZRoRaXY7cDtpbnRlbGxpZ2VuY2UaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyp5CgllbmdpbmVlcnMVAAAAABoIZW5naW5lZXIaC2VuZ2luZWVyaW5nGg5pdjtwO2VuZ2luZWVycxoNaXY7ZDtlbmdpbmVlchoNaXY7cDtlbmdpbmVlchoQaXY7ZDtlbmdpbmVlcmluZxoQaXY7cDtlbmdpbmVlcmluZypLCgliZW5nYWx1cnUVAAAAABoJYmFuZ2Fsb3JlGg5pdjtkO2JlbmdhbHVydRoOaXY7cDtiZW5nYWx1cnUaDml2O3A7YmFuZ2Fsb3JlMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZWelVhR1NMTlRFRG85UlpiSWtRakgxNjlneGQtcENFaEh6UEd3VlVTdHZVVl9Wc2xNQmtHRWNXVmVHR0UyVjdKZUtLVnlMZHpRR2t3dWpYU2VFV3k4TGNWZFp5TFdoRGhqSUQ5R2JTZnFfRVV1czVQZWVSTWQxVkpLRkpram5rN0ZiTWJSY0VJSnVCNk1adExSN3lvNXE3bFNsZGV3bXl0cnR6akdRcmttVi1sdGd3VFVYcW9uX1VwcTQ6OjxiPk1hY2hpbmUgTGVhcm5pbmcgRW5naW5lZXI8L2I-IGpvYiBhdCBNeW50cmEgLSBJbnN0YWh5cmVCqgE8Yj5NeW50cmEgaXMgbG9va2luZyBmb3IgYSBNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIGluIEJhbmdhbG9yZTwvYj4gd2l0aCA2LTEwIHllYXJzIG9mIGV4cGVyaWVuY2UgaW4gRGF0YSBTY2llbmNlLiBEZXNpZ24sIGRldmVsb3AsIGFuZCBkZXBsb3kgbWFjaGluZSBsZWFybmluZyZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "nl"
      ],
      "regions": [
-      "US"
+      "NL"
      ],
      "source": {
-      "description": "14K followers · 2.2K+ following · 904 posts · @hellomachine: “don't DM for inquiries, i'll defo forget. email hello.machines.studio@gmail.com”",
-      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-      "source_info_link": "https://www.instagram.com/hellomachine/?hl=en"
+      "description": "Myntra is looking for a Machine Learning Engineer in Bangalore with 6-10 years of experience in Data Science. Design, develop, and deploy machine learning ...",
+      "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAADQBACdASocABwAPtE-tFooIigoFAEAGglnAL3Rp5A7h1Oj_3l5g_te-fQkCwdFwAD-2O4NRI8ihkQD_WKFGL8qxMeAdYphq8HQjr3_XR4ZCueKNmIYp_YJR09_m_qPFaaweCa-MWn_6U5DUu6txCVlQh1jlbFLXgGe2OLHkK2l4P9VhDiAB9Lo25ZiVyzjVI3kgx5E8yK8f52srDrAo46J18_e_n5PORFB8u931Rr6L3UIuCsPeP4DlKd69pq_Jf6-vbqQAAA.webp",
+      "source_info_link": "https://www.instahyre.com/job-348401-machine-learning-engineer-at-myntra-3-bangalore/"
      }
     },
-    "displayed_link": "https://www.instagram.com › hellomachine",
-    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
-    "link": "https://www.instagram.com/hellomachine/?hl=en",
+    "displayed_link": "https://www.instahyre.com › job-...",
+    "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAADQBACdASocABwAPtE-tFooIigoFAEAGglnAL3Rp5A7h1Oj_3l5g_te-fQkCwdFwAD-2O4NRI8ihkQD_WKFGL8qxMeAdYphq8HQjr3_XR4ZCueKNmIYp_YJR09_m_qPFaaweCa-MWn_6U5DUu6txCVlQh1jlbFLXgGe2OLHkK2l4P9VhDiAB9Lo25ZiVyzjVI3kgx5E8yK8f52srDrAo46J18_e_n5PORFB8u931Rr6L3UIuCsPeP4DlKd69pq_Jf6-vbqQAAA.webp",
+    "link": "https://www.instahyre.com/job-348401-machine-learning-engineer-at-myntra-3-bangalore/",
     "position": 3,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVQsSUYM_-y7J0hzqZVhdvkenj6hHhJuJukxnaCIStluAg7WvmuHVBwsr-TTyiKqKxXOjHwar3E3C_3vDw_fSHve_wgkv-dKlDI4xoiot2cqTezql_pY2VgVeRVHW89drN&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQFnoECBkQAQ&uoh=1",
-    "snippet": "14K followers · 2.2K+ following · 904 posts · @hellomachine: “don't DM for inquiries, i'll defo forget. email hello.machines.studio@gmail.com”",
-    "source": "Instagram",
-    "title": "MACHINE (@hellomachine) • Instagram photos and videos"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFVzUaGSLNTEDo9RZbIkQjH169gxd-pCEhHzPGwVUStvUV_VslMBkGEcWVeGGE2V7JeKKVyLdzQGkwujXSeEWy8LcVdZyLWhDhjID9GbSfq_EUus5PeeRMd1VJKFJkjnk7FbMbRcEIJuB6MZtLR7yo5q7lSldewmytrtzjGQrkmV-ltgwTUXqon_Upq4&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQFnoECCIQAQ&uoh=1",
+    "snippet": "Myntra is looking for a Machine Learning Engineer in Bangalore with 6-10 years of experience in Data Science. Design, develop, and deploy machine learning ...",
+    "snippet_highlighted_words": [
+     "Myntra is looking for a Machine Learning Engineer in Bangalore"
+    ],
+    "source": "Instahyre",
+    "title": "Machine Learning Engineer job at Myntra"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVl9VenZCSzZYZUR0ZWJ0T0Q5T3U5ZU9pRElCX2IwZTFEVXRmbTJTajc3UVVPS05pS012TVdmVnVhQ1M0R09kMDNsQkZYd1IzbHBIVzlYRXQwMXJhcFNIMFBJbVBMRUdmOXR1V2Y1UWJtNnBqWmZmNEdHc0RHY1F5QTgyOVJVc05rS3Rkbm54Z3pnNEJOZ3VLbVJqbXISBBoCCAAaugsSABoAIgAqADIGCAISAm5sOgBCBAgCEAJKAFoAcgB6AIJAlgsIABAAGAAgACrUAQoJY29tcGFuaWVzFZxB_T0aBWJyYW5kGghidXNpbmVzcxoKYnVzaW5lc3NlcxoHY29tcGFueRoFZ3JvdXAaBGpvYnMaCHNlcnZpY2VzGg5pdjtkO2NvbXBhbmllcxoOaXY7cDtjb21wYW5pZXMaDWl2O2Q7YnVzaW5lc3MaDWl2O3A7YnVzaW5lc3MaD2l2O2Q7YnVzaW5lc3NlcxoPaXY7cDtidXNpbmVzc2VzGgxpdjtkO2NvbXBhbnkaDGl2O3A7Y29tcGFueRoJaXY7cDtqb2JzKuQBCgZoaXJpbmcVWwjyPhoHY2FyZWVycxoKZW1wbG95bWVudBoDam9iGgRqb2JzGgtyZWNydWl0bWVudBoHdmFjYW5jeRoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGgtpdjtwO2hpcmluZxoMaXY7ZDtjYXJlZXJzGgxpdjtwO2NhcmVlcnMaD2l2O3A7ZW1wbG95bWVudBoJaXY7cDtqb2JzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoIb3BlbmluZ3MaCXZhY2FuY2llcxoEd29yaxoEaGlyZRoGY2FyZWVyKrwBCgdtYWNoaW5lFdKskkAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoMaXY7ZDttYWNoaW5lGgxpdjtwO21hY2hpbmUaCWl2O2Q7ZGVlcBoJaXY7cDtkZWVwGg1pdjtkO21hY2hpbmVzGg1pdjtwO21hY2hpbmVzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqsQEKCGxlYXJuaW5nFVy4mkAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoNaXY7ZDtsZWFybmluZxoNaXY7cDtsZWFybmluZxoRaXY7ZDtpbnRlbGxpZ2VuY2UaEWl2O3A7aW50ZWxsaWdlbmNlGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqeQoJZW5naW5lZXJzFQAAAAAaCGVuZ2luZWVyGgtlbmdpbmVlcmluZxoOaXY7cDtlbmdpbmVlcnMaDWl2O2Q7ZW5naW5lZXIaDWl2O3A7ZW5naW5lZXIaEGl2O2Q7ZW5naW5lZXJpbmcaEGl2O3A7ZW5naW5lZXJpbmcqSwoJYmVuZ2FsdXJ1FVep6D4aCWJhbmdhbG9yZRoOaXY7ZDtiZW5nYWx1cnUaDml2O3A7YmVuZ2FsdXJ1Gg5pdjtwO2JhbmdhbG9yZTKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZfVXp2Qks2WGVEdGVidE9EOU91OWVPaURJQl9iMGUxRFV0Zm0yU2o3N1FVT0tOaUtNdk1XZlZ1YUNTNEdPZDAzbEJGWHdSM2xwSFc5WEV0MDFyYXBTSDBQSW1QTEVHZjl0dVdmNVFibTZwalpmZjRHR3NER2NReUE4MjlSVXNOa0t0ZG5ueGd6ZzRCTmd1S21Sam1yOjo8Yj5NYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyPC9iPiB8IE9uZUluYm94IDxiPkNhcmVlcnM8L2I-QqkBPGI-RW5naW5lZXJpbmcgQmVuZ2FsdXJ1PC9iPiwgSW5kaWEgKEh5YnJpZCkgSHlicmlkIEZ1bGwtdGltZSBBcHBseSBub3cuIENvbWZvcnRhYmxlIHdpdGggUHlUb3JjaCwgSHVnZ2luZyBGYWNlLCBhbmQgbW9kZXJuIHRyYWluaW5nIGluZnJhc3RydWN0dXJlLiBjb21wZXRpdGl2ZSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVl9VenZCSzZYZUR0ZWJ0T0Q5T3U5ZU9pRElCX2IwZTFEVXRmbTJTajc3UVVPS05pS012TVdmVnVhQ1M0R09kMDNsQkZYd1IzbHBIVzlYRXQwMXJhcFNIMFBJbVBMRUdmOXR1V2Y1UWJtNnBqWmZmNEdHc0RHY1F5QTgyOVJVc05rS3Rkbm54Z3pnNEJOZ3VLbVJqbXISBBoCCAAaugsSABoAIgAqADIGCAISAm5sOgBCBAgCEAJKAFoAcgB6AIJAlgsIABAAGAAgACrUAQoJY29tcGFuaWVzFZxB_T0aBWJyYW5kGghidXNpbmVzcxoKYnVzaW5lc3NlcxoHY29tcGFueRoFZ3JvdXAaBGpvYnMaCHNlcnZpY2VzGg5pdjtkO2NvbXBhbmllcxoOaXY7cDtjb21wYW5pZXMaDWl2O2Q7YnVzaW5lc3MaDWl2O3A7YnVzaW5lc3MaD2l2O2Q7YnVzaW5lc3NlcxoPaXY7cDtidXNpbmVzc2VzGgxpdjtkO2NvbXBhbnkaDGl2O3A7Y29tcGFueRoJaXY7cDtqb2JzKuQBCgZoaXJpbmcVWwjyPhoHY2FyZWVycxoKZW1wbG95bWVudBoDam9iGgRqb2JzGgtyZWNydWl0bWVudBoHdmFjYW5jeRoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGgtpdjtwO2hpcmluZxoMaXY7ZDtjYXJlZXJzGgxpdjtwO2NhcmVlcnMaD2l2O3A7ZW1wbG95bWVudBoJaXY7cDtqb2JzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoIb3BlbmluZ3MaCXZhY2FuY2llcxoEd29yaxoEaGlyZRoGY2FyZWVyKrwBCgdtYWNoaW5lFdKskkAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoMaXY7ZDttYWNoaW5lGgxpdjtwO21hY2hpbmUaCWl2O2Q7ZGVlcBoJaXY7cDtkZWVwGg1pdjtkO21hY2hpbmVzGg1pdjtwO21hY2hpbmVzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqsQEKCGxlYXJuaW5nFVy4mkAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoNaXY7ZDtsZWFybmluZxoNaXY7cDtsZWFybmluZxoRaXY7ZDtpbnRlbGxpZ2VuY2UaEWl2O3A7aW50ZWxsaWdlbmNlGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqeQoJZW5naW5lZXJzFQAAAAAaCGVuZ2luZWVyGgtlbmdpbmVlcmluZxoOaXY7cDtlbmdpbmVlcnMaDWl2O2Q7ZW5naW5lZXIaDWl2O3A7ZW5naW5lZXIaEGl2O2Q7ZW5naW5lZXJpbmcaEGl2O3A7ZW5naW5lZXJpbmcqSwoJYmVuZ2FsdXJ1FVep6D4aCWJhbmdhbG9yZRoOaXY7ZDtiZW5nYWx1cnUaDml2O3A7YmVuZ2FsdXJ1Gg5pdjtwO2JhbmdhbG9yZTKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZfVXp2Qks2WGVEdGVidE9EOU91OWVPaURJQl9iMGUxRFV0Zm0yU2o3N1FVT0tOaUtNdk1XZlZ1YUNTNEdPZDAzbEJGWHdSM2xwSFc5WEV0MDFyYXBTSDBQSW1QTEVHZjl0dVdmNVFibTZwalpmZjRHR3NER2NReUE4MjlSVXNOa0t0ZG5ueGd6ZzRCTmd1S21Sam1yOjo8Yj5NYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyPC9iPiB8IE9uZUluYm94IDxiPkNhcmVlcnM8L2I-QqkBPGI-RW5naW5lZXJpbmcgQmVuZ2FsdXJ1PC9iPiwgSW5kaWEgKEh5YnJpZCkgSHlicmlkIEZ1bGwtdGltZSBBcHBseSBub3cuIENvbWZvcnRhYmxlIHdpdGggUHlUb3JjaCwgSHVnZ2luZyBGYWNlLCBhbmQgbW9kZXJuIHRyYWluaW5nIGluZnJhc3RydWN0dXJlLiBjb21wZXRpdGl2ZSZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "nl"
      ],
      "regions": [
-      "US"
+      "NL"
      ],
      "source": {
-      "description": "What was the greatest invention of the industrial revolution? Hans Rosling makes the case for the washing machine.",
-      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBQCdASocABwAPtE-tFooIigoFAEAGglsAEuAtgD0AOlYB-Ih5RyQJRYLPbLt4zluyIAA_v0qcOON1PrqsKdWBNguMe39y6_pOXF-KiqZ6HQ600utuJ0xLbjUDxf7PFsF_-eUjqXxNQTX__8tnb_XAfdj_pAfysmp__hN7_MB7mg_8pjNilctuVSg_ueVcWM2l50C-cXdQV_1o8NE31YhpF06TVuZySwtjlt5c4jeVE_cwCbC5ZEEkabPx67q8dmwnABn1BZXtjoMXkv-zo2SBgE7YS9QX0S11eLbO-eGzpUZJ_VmkPEDc5zHgxlrzjfnEjrN7SdyCxFA6svtiWJ1rT-TQwAA.webp",
-      "source_info_link": "https://www.ted.com/talks/hans_rosling_the_magic_washing_machine"
+      "description": "Engineering Bengaluru, India (Hybrid) Hybrid Full-time Apply now. Comfortable with PyTorch, Hugging Face, and modern training infrastructure. competitive ...",
+      "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBwCdASogACAAPtE-tFooIigoFAEAGglsAKwzJfA3lcSA2wF2V7x0vwKoC8AEp_-DaZ1c83LI0kMfWVYgfsOId023y3EgLgAA_u5vkds7j4ubwYyEyXpVZstAHTfHD8ndogvInY3Jy8JajUc5CNCYGL2__EwMaJZ-QzJFX7b-Wp6ldnZaOLFsASl91-lClEmnHL-I7BF8rwXyn3tmx7pb5M8-bf2DsDkSvTRV5eeJSS3Wku9eGJqz2XwAV_UqQwAVFGmpeqLrP-Mm3B6TswxM8ut_sREK_j2lgciRn_LevqXTGphQWss_SEvue5_cuU20GUNXb5b4bkLKphc9OA8uJXEa_K6p5NvdCj93FEAIUb4KnWdSEjk74l5MMDO3YciG4xM-SvcScllWt2ZP1XhnK8Rma6liDsKBU0R6G9TTUD71zFsAAA.webp",
+      "source_info_link": "https://www.oneinbox.ai/careers/machine-learning-engineer"
      }
     },
-    "date": "Mar 21, 2011",
-    "displayed_link": "https://www.ted.com › talks › hans_rosling_the_magic_...",
-    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBQCdASocABwAPtE-tFooIigoFAEAGglsAEuAtgD0AOlYB-Ih5RyQJRYLPbLt4zluyIAA_v0qcOON1PrqsKdWBNguMe39y6_pOXF-KiqZ6HQ600utuJ0xLbjUDxf7PFsF_-eUjqXxNQTX__8tnb_XAfdj_pAfysmp__hN7_MB7mg_8pjNilctuVSg_ueVcWM2l50C-cXdQV_1o8NE31YhpF06TVuZySwtjlt5c4jeVE_cwCbC5ZEEkabPx67q8dmwnABn1BZXtjoMXkv-zo2SBgE7YS9QX0S11eLbO-eGzpUZJ_VmkPEDc5zHgxlrzjfnEjrN7SdyCxFA6svtiWJ1rT-TQwAA.webp",
-    "link": "https://www.ted.com/talks/hans_rosling_the_magic_washing_machine",
+    "displayed_link": "https://www.oneinbox.ai › careers",
+    "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBwCdASogACAAPtE-tFooIigoFAEAGglsAKwzJfA3lcSA2wF2V7x0vwKoC8AEp_-DaZ1c83LI0kMfWVYgfsOId023y3EgLgAA_u5vkds7j4ubwYyEyXpVZstAHTfHD8ndogvInY3Jy8JajUc5CNCYGL2__EwMaJZ-QzJFX7b-Wp6ldnZaOLFsASl91-lClEmnHL-I7BF8rwXyn3tmx7pb5M8-bf2DsDkSvTRV5eeJSS3Wku9eGJqz2XwAV_UqQwAVFGmpeqLrP-Mm3B6TswxM8ut_sREK_j2lgciRn_LevqXTGphQWss_SEvue5_cuU20GUNXb5b4bkLKphc9OA8uJXEa_K6p5NvdCj93FEAIUb4KnWdSEjk74l5MMDO3YciG4xM-SvcScllWt2ZP1XhnK8Rma6liDsKBU0R6G9TTUD71zFsAAA.webp",
+    "link": "https://www.oneinbox.ai/careers/machine-learning-engineer",
     "position": 4,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVBcB0Ym6OisxG-zi2L3Sl5C9KFWswQWCwWY4hLXBT0Jgicx2zH4HQYGR_JqDtbrbmTwG3MZBh_A1MJSQpp5-3OdchaR2YcRINaLGG7uZPA4cucGkqtMiMF7jh8XJWtCaGASiJck1j56i45CSvRoNahqurOg&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQFnoECBMQAQ&uoh=1",
-    "snippet": "What was the greatest invention of the industrial revolution? Hans Rosling makes the case for the washing machine.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAV_UzvBK6XeDtebtOD9Ou9eOiDIB_b0e1DUtfm2Sj77QUOKNiKMvMWfVuaCS4GOd03lBFXwR3lpHW9XEt01rapSH0PImPLEGf9tuWf5Qbm6pjZff4GGsDGcQyA829RUsNkKtdnnxgzg4BNguKmRjmr&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQFnoECCEQAQ&uoh=1",
+    "snippet": "Engineering Bengaluru, India (Hybrid) Hybrid Full-time Apply now. Comfortable with PyTorch, Hugging Face, and modern training infrastructure. competitive ...",
     "snippet_highlighted_words": [
-     "machine"
+     "Engineering Bengaluru"
     ],
-    "source": "TED Talks",
-    "title": "Hans Rosling: The magic washing machine"
+    "source": "OneInbox",
+    "title": "Machine Learning Engineer | OneInbox Careers"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZYdURkZ0JMWUhNTWZqNU1QeVlHbFYtaUNRbW16ZEZfRXRBZ18xaHhSV3JDR0FpbUdHMHdxSDVFaUhqNUp3N05uRGlVWXZjMmdmUGxVSUlEV2ZGOXVOellrcS1vdXBkVGxTaDVpOXkwaFpQQlVORHh1c2VBM3B5ZHdRS1A0OTRlWmQ1MzUzMWhKelFveERKR01XTWhYQXJveTk1cFRJbjJXUjNGVEpCTTR4amM1NEJrEgQaAggAGukLEgAaACIAKgAyBggCEgJubDoAQgQIAhACSgBaAHIAegCCQMULCAAQABgAIAAq1AEKCWNvbXBhbmllcxUTOsQ_GgVicmFuZBoIYnVzaW5lc3MaCmJ1c2luZXNzZXMaB2NvbXBhbnkaBWdyb3VwGgRqb2JzGghzZXJ2aWNlcxoOaXY7ZDtjb21wYW5pZXMaDml2O3A7Y29tcGFuaWVzGg1pdjtkO2J1c2luZXNzGg1pdjtwO2J1c2luZXNzGg9pdjtkO2J1c2luZXNzZXMaD2l2O3A7YnVzaW5lc3NlcxoMaXY7ZDtjb21wYW55GgxpdjtwO2NvbXBhbnkaCWl2O3A7am9icyrkAQoGaGlyaW5nFaDEjkAaB2NhcmVlcnMaCmVtcGxveW1lbnQaA2pvYhoEam9icxoLcmVjcnVpdG1lbnQaB3ZhY2FuY3kaFWhpcmluZ21hY2hpbmVsZWFybmluZxoLaXY7cDtoaXJpbmcaDGl2O2Q7Y2FyZWVycxoMaXY7cDtjYXJlZXJzGg9pdjtwO2VtcGxveW1lbnQaCWl2O3A7am9icxoaaXY7cDtoaXJpbmdtYWNoaW5lbGVhcm5pbmcaCG9wZW5pbmdzGgl2YWNhbmNpZXMaBHdvcmsaBGhpcmUaBmNhcmVlciq8AQoHbWFjaGluZRXso-JAGgJtbBoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGg9tYWNoaW5lbGVhcm5pbmcaDGl2O2Q7bWFjaGluZRoMaXY7cDttYWNoaW5lGglpdjtkO2RlZXAaCWl2O3A7ZGVlcBoNaXY7ZDttYWNoaW5lcxoNaXY7cDttYWNoaW5lcxoaaXY7cDtoaXJpbmdtYWNoaW5lbGVhcm5pbmcaFGl2O3A7bWFjaGluZWxlYXJuaW5nKrEBCghsZWFybmluZxXso-JAGgJtbBoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGg9tYWNoaW5lbGVhcm5pbmcaDWl2O2Q7bGVhcm5pbmcaDWl2O3A7bGVhcm5pbmcaEWl2O2Q7aW50ZWxsaWdlbmNlGhFpdjtwO2ludGVsbGlnZW5jZRoaaXY7cDtoaXJpbmdtYWNoaW5lbGVhcm5pbmcaFGl2O3A7bWFjaGluZWxlYXJuaW5nKnkKCWVuZ2luZWVycxWHTSA_GghlbmdpbmVlchoLZW5naW5lZXJpbmcaDml2O3A7ZW5naW5lZXJzGg1pdjtkO2VuZ2luZWVyGg1pdjtwO2VuZ2luZWVyGhBpdjtkO2VuZ2luZWVyaW5nGhBpdjtwO2VuZ2luZWVyaW5nKksKCWJlbmdhbHVydRV-l-tAGgliYW5nYWxvcmUaDml2O2Q7YmVuZ2FsdXJ1Gg5pdjtwO2JlbmdhbHVydRoOaXY7cDtiYW5nYWxvcmUyxgEvZ290bz91cmw9Q0FFU2lBRUI2enN3Rlh1RGRnQkxZSE1NZmo1TVB5WUdsVi1pQ1FtbXpkRl9FdEFnXzFoeFJXckNHQWltR0cwd3FINUVpSGo1Snc3Tm5EaVVZdmMyZ2ZQbFVJSURXZkY5dU56WWtxLW91cGRUbFNoNWk5eTBoWlBCVU5EeHVzZUEzcHlkd1FLUDQ5NGVaZDUzNTMxaEp6UW94REpHTVdNaFhBcm95OTVwVEluMldSM0ZUSkJNNHhqYzU0Qms6QkhpcmUgPGI-TWFjaGluZSBMZWFybmluZyBFbmdpbmVlcjwvYj4gRnJlc2hlcnMgaW4gPGI-QmVuZ2FsdXJ1PC9iPkK0ATxiPkhpcmUgc2tpbGwtdmVyaWZpZWQgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlciBmcmVzaGVycyBpbiBCZW5nYWx1cnU8L2I-IOKAlCBzdHJvbmcgaW4gUHl0aG9uLCBUZW5zb3JGbG93LCBQeVRvcmNoIOKAlCBmcm9tIElJU2MsIElJTSBCYW5nYWxvcmUsIFJWQ0UsIFBFUyBVbml2ZXJzaXR5IGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZYdURkZ0JMWUhNTWZqNU1QeVlHbFYtaUNRbW16ZEZfRXRBZ18xaHhSV3JDR0FpbUdHMHdxSDVFaUhqNUp3N05uRGlVWXZjMmdmUGxVSUlEV2ZGOXVOellrcS1vdXBkVGxTaDVpOXkwaFpQQlVORHh1c2VBM3B5ZHdRS1A0OTRlWmQ1MzUzMWhKelFveERKR01XTWhYQXJveTk1cFRJbjJXUjNGVEpCTTR4amM1NEJrEgQaAggAGukLEgAaACIAKgAyBggCEgJubDoAQgQIAhACSgBaAHIAegCCQMULCAAQABgAIAAq1AEKCWNvbXBhbmllcxUTOsQ_GgVicmFuZBoIYnVzaW5lc3MaCmJ1c2luZXNzZXMaB2NvbXBhbnkaBWdyb3VwGgRqb2JzGghzZXJ2aWNlcxoOaXY7ZDtjb21wYW5pZXMaDml2O3A7Y29tcGFuaWVzGg1pdjtkO2J1c2luZXNzGg1pdjtwO2J1c2luZXNzGg9pdjtkO2J1c2luZXNzZXMaD2l2O3A7YnVzaW5lc3NlcxoMaXY7ZDtjb21wYW55GgxpdjtwO2NvbXBhbnkaCWl2O3A7am9icyrkAQoGaGlyaW5nFaDEjkAaB2NhcmVlcnMaCmVtcGxveW1lbnQaA2pvYhoEam9icxoLcmVjcnVpdG1lbnQaB3ZhY2FuY3kaFWhpcmluZ21hY2hpbmVsZWFybmluZxoLaXY7cDtoaXJpbmcaDGl2O2Q7Y2FyZWVycxoMaXY7cDtjYXJlZXJzGg9pdjtwO2VtcGxveW1lbnQaCWl2O3A7am9icxoaaXY7cDtoaXJpbmdtYWNoaW5lbGVhcm5pbmcaCG9wZW5pbmdzGgl2YWNhbmNpZXMaBHdvcmsaBGhpcmUaBmNhcmVlciq8AQoHbWFjaGluZRXso-JAGgJtbBoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGg9tYWNoaW5lbGVhcm5pbmcaDGl2O2Q7bWFjaGluZRoMaXY7cDttYWNoaW5lGglpdjtkO2RlZXAaCWl2O3A7ZGVlcBoNaXY7ZDttYWNoaW5lcxoNaXY7cDttYWNoaW5lcxoaaXY7cDtoaXJpbmdtYWNoaW5lbGVhcm5pbmcaFGl2O3A7bWFjaGluZWxlYXJuaW5nKrEBCghsZWFybmluZxXso-JAGgJtbBoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGg9tYWNoaW5lbGVhcm5pbmcaDWl2O2Q7bGVhcm5pbmcaDWl2O3A7bGVhcm5pbmcaEWl2O2Q7aW50ZWxsaWdlbmNlGhFpdjtwO2ludGVsbGlnZW5jZRoaaXY7cDtoaXJpbmdtYWNoaW5lbGVhcm5pbmcaFGl2O3A7bWFjaGluZWxlYXJuaW5nKnkKCWVuZ2luZWVycxWHTSA_GghlbmdpbmVlchoLZW5naW5lZXJpbmcaDml2O3A7ZW5naW5lZXJzGg1pdjtkO2VuZ2luZWVyGg1pdjtwO2VuZ2luZWVyGhBpdjtkO2VuZ2luZWVyaW5nGhBpdjtwO2VuZ2luZWVyaW5nKksKCWJlbmdhbHVydRV-l-tAGgliYW5nYWxvcmUaDml2O2Q7YmVuZ2FsdXJ1Gg5pdjtwO2JlbmdhbHVydRoOaXY7cDtiYW5nYWxvcmUyxgEvZ290bz91cmw9Q0FFU2lBRUI2enN3Rlh1RGRnQkxZSE1NZmo1TVB5WUdsVi1pQ1FtbXpkRl9FdEFnXzFoeFJXckNHQWltR0cwd3FINUVpSGo1Snc3Tm5EaVVZdmMyZ2ZQbFVJSURXZkY5dU56WWtxLW91cGRUbFNoNWk5eTBoWlBCVU5EeHVzZUEzcHlkd1FLUDQ5NGVaZDUzNTMxaEp6UW94REpHTVdNaFhBcm95OTVwVEluMldSM0ZUSkJNNHhqYzU0Qms6QkhpcmUgPGI-TWFjaGluZSBMZWFybmluZyBFbmdpbmVlcjwvYj4gRnJlc2hlcnMgaW4gPGI-QmVuZ2FsdXJ1PC9iPkK0ATxiPkhpcmUgc2tpbGwtdmVyaWZpZWQgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlciBmcmVzaGVycyBpbiBCZW5nYWx1cnU8L2I-IOKAlCBzdHJvbmcgaW4gUHl0aG9uLCBUZW5zb3JGbG93LCBQeVRvcmNoIOKAlCBmcm9tIElJU2MsIElJTSBCYW5nYWxvcmUsIFJWQ0UsIFBFUyBVbml2ZXJzaXR5IGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "nl"
      ],
      "regions": [
-      "US"
+      "NL"
      ],
      "source": {
-      "description": "TED Members help billions of people worldwide access inspiring ideas. Plus, they get exclusive benefits like invite-only events with speakers.",
-      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBQCdASocABwAPtE-tFooIigoFAEAGglsAEuAtgD0AOlYB-Ih5RyQJRYLPbLt4zluyIAA_v0qcOON1PrqsKdWBNguMe39y6_pOXF-KiqZ6HQ600utuJ0xLbjUDxf7PFsF_-eUjqXxNQTX__8tnb_XAfdj_pAfysmp__hN7_MB7mg_8pjNilctuVSg_ueVcWM2l50C-cXdQV_1o8NE31YhpF06TVuZySwtjlt5c4jeVE_cwCbC5ZEEkabPx67q8dmwnABn1BZXtjoMXkv-zo2SBgE7YS9QX0S11eLbO-eGzpUZJ_VmkPEDc5zHgxlrzjfnEjrN7SdyCxFA6svtiWJ1rT-TQwAA.webp",
-      "source_info_link": "https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine"
+      "description": "Hire skill-verified machine learning engineer freshers in Bengaluru — strong in Python, TensorFlow, PyTorch — from IISc, IIM Bangalore, RVCE, PES University and ...",
+      "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAACwBACdASocABwAPtE-tFooIigoFAEAGglAGd204LMAONrq7Am5ZfsvlL3cNnAAAP72ASQbkA-hwfHvXsFA1G-dvcfIpuhqbv73-jXya5LFxs_GuHOg8ZMAy-igRck7J58-_dfXdDNOBO6KETPawwsDIN5kumDmH39hLP9gs25ljO5hFV6-fjDLjVeROfv4FJbKbp-QDOgJAAAA.webp",
+      "source_info_link": "https://myinternships.in/hire-machine-learning-engineer-freshers-in-bengaluru"
      }
     },
-    "date": "Apr 22, 2015",
-    "displayed_link": "https://www.ted.com › talks › chris_milk_how_virtual_...",
-    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBQCdASocABwAPtE-tFooIigoFAEAGglsAEuAtgD0AOlYB-Ih5RyQJRYLPbLt4zluyIAA_v0qcOON1PrqsKdWBNguMe39y6_pOXF-KiqZ6HQ600utuJ0xLbjUDxf7PFsF_-eUjqXxNQTX__8tnb_XAfdj_pAfysmp__hN7_MB7mg_8pjNilctuVSg_ueVcWM2l50C-cXdQV_1o8NE31YhpF06TVuZySwtjlt5c4jeVE_cwCbC5ZEEkabPx67q8dmwnABn1BZXtjoMXkv-zo2SBgE7YS9QX0S11eLbO-eGzpUZJ_VmkPEDc5zHgxlrzjfnEjrN7SdyCxFA6svtiWJ1rT-TQwAA.webp",
-    "link": "https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine",
+    "displayed_link": "https://myinternships.in › hire-ma...",
+    "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAACwBACdASocABwAPtE-tFooIigoFAEAGglAGd204LMAONrq7Am5ZfsvlL3cNnAAAP72ASQbkA-hwfHvXsFA1G-dvcfIpuhqbv73-jXya5LFxs_GuHOg8ZMAy-igRck7J58-_dfXdDNOBO6KETPawwsDIN5kumDmH39hLP9gs25ljO5hFV6-fjDLjVeROfv4FJbKbp-QDOgJAAAA.webp",
+    "link": "https://myinternships.in/hire-machine-learning-engineer-freshers-in-bengaluru",
     "position": 5,
-    "read_more_link": "https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine#:~:text=TED%20Members%20help%20billions%20of,like%20invite%2Donly%20events%20with%20speakers.",
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFUl7Ag3GBiKYwDeNuBBkvdmJFID4qX4J7205GxVKJ0rIOfcCECYoWL6HtaiNoYExDEjpgWNRKPOMhiten3fICKRoKOYfSDwxHBNeEagOHQLFjw3qyeyJrqBhbOZ8f_t8t_s2SU2jjmNsDE_xIitvt0KEEx9c4WuWA1H5Q_CIIXWVMO2qWh3-rONFBBHLvMjV45yxtw&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQFnoECBYQAQ&uoh=1",
-    "snippet": "TED Members help billions of people worldwide access inspiring ideas. Plus, they get exclusive benefits like invite-only events with speakers.",
-    "source": "TED Talks",
-    "title": "How virtual reality can create the ultimate empathy machine"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFXuDdgBLYHMMfj5MPyYGlV-iCQmmzdF_EtAg_1hxRWrCGAimGG0wqH5EiHj5Jw7NnDiUYvc2gfPlUIIDWfF9uNzYkq-oupdTlSh5i9y0hZPBUNDxuseA3pydwQKP494eZd53531hJzQoxDJGMWMhXAroy95pTIn2WR3FTJBM4xjc54Bk&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQFnoECB8QAQ&uoh=1",
+    "snippet": "Hire skill-verified machine learning engineer freshers in Bengaluru — strong in Python, TensorFlow, PyTorch — from IISc, IIM Bangalore, RVCE, PES University and ...",
+    "snippet_highlighted_words": [
+     "Hire skill-verified machine learning engineer freshers in Bengaluru"
+    ],
+    "source": "MyInternships.in",
+    "title": "Hire Machine Learning Engineer Freshers in Bengaluru"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZZRk5YUlVaOFBPODlXSHV0YUFjZVo5MHhaamtMRERfa1VnVmNOX1RkUHhQUk1hUlZMUG9qS3NqTlhnRjI2T3hLVUl4VWZtOC1kenFEWTBzN05iMDJPY1Bzb2MtTVZYZzRPX3hJd3VnX2pxOGRETEJuSWs5VnpsMEZpcVk1SzRiTFk3R0ZqNXM2YWZCT29xR281RWstMWJwY1Ntc1ZSVkExWUY4anB5TTU4MDZoaEVaMHhja05MbjgxTHZPSHFoMDlXZU4SBBoCCAAagAwSABoAIgAqADIGCAISAm5sOgBCBAgCEAJKAFoAcgB6AIJA3AsIABAAGAAgACrUAQoJY29tcGFuaWVzFesAcT8aBWJyYW5kGghidXNpbmVzcxoKYnVzaW5lc3NlcxoHY29tcGFueRoFZ3JvdXAaBGpvYnMaCHNlcnZpY2VzGg5pdjtkO2NvbXBhbmllcxoOaXY7cDtjb21wYW5pZXMaDWl2O2Q7YnVzaW5lc3MaDWl2O3A7YnVzaW5lc3MaD2l2O2Q7YnVzaW5lc3NlcxoPaXY7cDtidXNpbmVzc2VzGgxpdjtkO2NvbXBhbnkaDGl2O3A7Y29tcGFueRoJaXY7cDtqb2JzKuQBCgZoaXJpbmcV0rXtPhoHY2FyZWVycxoKZW1wbG95bWVudBoDam9iGgRqb2JzGgtyZWNydWl0bWVudBoHdmFjYW5jeRoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGgtpdjtwO2hpcmluZxoMaXY7ZDtjYXJlZXJzGgxpdjtwO2NhcmVlcnMaD2l2O3A7ZW1wbG95bWVudBoJaXY7cDtqb2JzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoIb3BlbmluZ3MaCXZhY2FuY2llcxoEd29yaxoEaGlyZRoGY2FyZWVyKrwBCgdtYWNoaW5lFXv3qEAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoMaXY7ZDttYWNoaW5lGgxpdjtwO21hY2hpbmUaCWl2O2Q7ZGVlcBoJaXY7cDtkZWVwGg1pdjtkO21hY2hpbmVzGg1pdjtwO21hY2hpbmVzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqsQEKCGxlYXJuaW5nFeKrwUAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoNaXY7ZDtsZWFybmluZxoNaXY7cDtsZWFybmluZxoRaXY7ZDtpbnRlbGxpZ2VuY2UaEWl2O3A7aW50ZWxsaWdlbmNlGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqeQoJZW5naW5lZXJzFQAAAAAaCGVuZ2luZWVyGgtlbmdpbmVlcmluZxoOaXY7cDtlbmdpbmVlcnMaDWl2O2Q7ZW5naW5lZXIaDWl2O3A7ZW5naW5lZXIaEGl2O2Q7ZW5naW5lZXJpbmcaEGl2O3A7ZW5naW5lZXJpbmcqSwoJYmVuZ2FsdXJ1FQh12EAaCWJhbmdhbG9yZRoOaXY7ZDtiZW5nYWx1cnUaDml2O3A7YmVuZ2FsdXJ1Gg5pdjtwO2JhbmdhbG9yZTLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGWUZOWFJVWjhQTzg5V0h1dGFBY2VaOTB4WmprTEREX2tVZ1ZjTl9UZFB4UFJNYVJWTFBvaktzak5YZ0YyNk94S1VJeFVmbTgtZHpxRFkwczdOYjAyT2NQc29jLU1WWGc0T194SXd1Z19qcThkRExCbklrOVZ6bDBGaXFZNUs0YkxZN0dGajVzNmFmQk9vcUdvNUVrLTFicGNTbXNWUlZBMVlGOGpweU01ODA2aGhFWjB4Y2tOTG44MUx2T0hxaDA5V2VOOk48Yj5NYWNoaW5lIGxlYXJuaW5nPC9iPiBpbnRlcm4gPGI-am9iczwvYj4gaW4gSFNSIExheW91dCwgPGI-QmVuZ2FsdXJ1PC9iPiAuLi5CqwE8Yj4zNzIgTWFjaGluZSBMZWFybmluZyBJbnRlcm4gam9icyBhdmFpbGFibGUgaW4gSFNSIExheW91dCwgQmVuZ2FsdXJ1PC9iPiwgS2FybmF0YWthIG9uIEluZGVlZC5jb20uIFJ1Yml4ZSBpcyBsb29raW5nIGZvciBwYXNzaW9uYXRlIGFuZCBkcml2ZW4gQUkgSW50ZXJucyB3aXRoIGEmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZZRk5YUlVaOFBPODlXSHV0YUFjZVo5MHhaamtMRERfa1VnVmNOX1RkUHhQUk1hUlZMUG9qS3NqTlhnRjI2T3hLVUl4VWZtOC1kenFEWTBzN05iMDJPY1Bzb2MtTVZYZzRPX3hJd3VnX2pxOGRETEJuSWs5VnpsMEZpcVk1SzRiTFk3R0ZqNXM2YWZCT29xR281RWstMWJwY1Ntc1ZSVkExWUY4anB5TTU4MDZoaEVaMHhja05MbjgxTHZPSHFoMDlXZU4SBBoCCAAagAwSABoAIgAqADIGCAISAm5sOgBCBAgCEAJKAFoAcgB6AIJA3AsIABAAGAAgACrUAQoJY29tcGFuaWVzFesAcT8aBWJyYW5kGghidXNpbmVzcxoKYnVzaW5lc3NlcxoHY29tcGFueRoFZ3JvdXAaBGpvYnMaCHNlcnZpY2VzGg5pdjtkO2NvbXBhbmllcxoOaXY7cDtjb21wYW5pZXMaDWl2O2Q7YnVzaW5lc3MaDWl2O3A7YnVzaW5lc3MaD2l2O2Q7YnVzaW5lc3NlcxoPaXY7cDtidXNpbmVzc2VzGgxpdjtkO2NvbXBhbnkaDGl2O3A7Y29tcGFueRoJaXY7cDtqb2JzKuQBCgZoaXJpbmcV0rXtPhoHY2FyZWVycxoKZW1wbG95bWVudBoDam9iGgRqb2JzGgtyZWNydWl0bWVudBoHdmFjYW5jeRoVaGlyaW5nbWFjaGluZWxlYXJuaW5nGgtpdjtwO2hpcmluZxoMaXY7ZDtjYXJlZXJzGgxpdjtwO2NhcmVlcnMaD2l2O3A7ZW1wbG95bWVudBoJaXY7cDtqb2JzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoIb3BlbmluZ3MaCXZhY2FuY2llcxoEd29yaxoEaGlyZRoGY2FyZWVyKrwBCgdtYWNoaW5lFXv3qEAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoMaXY7ZDttYWNoaW5lGgxpdjtwO21hY2hpbmUaCWl2O2Q7ZGVlcBoJaXY7cDtkZWVwGg1pdjtkO21hY2hpbmVzGg1pdjtwO21hY2hpbmVzGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqsQEKCGxlYXJuaW5nFeKrwUAaAm1sGhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaD21hY2hpbmVsZWFybmluZxoNaXY7ZDtsZWFybmluZxoNaXY7cDtsZWFybmluZxoRaXY7ZDtpbnRlbGxpZ2VuY2UaEWl2O3A7aW50ZWxsaWdlbmNlGhppdjtwO2hpcmluZ21hY2hpbmVsZWFybmluZxoUaXY7cDttYWNoaW5lbGVhcm5pbmcqeQoJZW5naW5lZXJzFQAAAAAaCGVuZ2luZWVyGgtlbmdpbmVlcmluZxoOaXY7cDtlbmdpbmVlcnMaDWl2O2Q7ZW5naW5lZXIaDWl2O3A7ZW5naW5lZXIaEGl2O2Q7ZW5naW5lZXJpbmcaEGl2O3A7ZW5naW5lZXJpbmcqSwoJYmVuZ2FsdXJ1FQh12EAaCWJhbmdhbG9yZRoOaXY7ZDtiZW5nYWx1cnUaDml2O3A7YmVuZ2FsdXJ1Gg5pdjtwO2JhbmdhbG9yZTLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGWUZOWFJVWjhQTzg5V0h1dGFBY2VaOTB4WmprTEREX2tVZ1ZjTl9UZFB4UFJNYVJWTFBvaktzak5YZ0YyNk94S1VJeFVmbTgtZHpxRFkwczdOYjAyT2NQc29jLU1WWGc0T194SXd1Z19qcThkRExCbklrOVZ6bDBGaXFZNUs0YkxZN0dGajVzNmFmQk9vcUdvNUVrLTFicGNTbXNWUlZBMVlGOGpweU01ODA2aGhFWjB4Y2tOTG44MUx2T0hxaDA5V2VOOk48Yj5NYWNoaW5lIGxlYXJuaW5nPC9iPiBpbnRlcm4gPGI-am9iczwvYj4gaW4gSFNSIExheW91dCwgPGI-QmVuZ2FsdXJ1PC9iPiAuLi5CqwE8Yj4zNzIgTWFjaGluZSBMZWFybmluZyBJbnRlcm4gam9icyBhdmFpbGFibGUgaW4gSFNSIExheW91dCwgQmVuZ2FsdXJ1PC9iPiwgS2FybmF0YWthIG9uIEluZGVlZC5jb20uIFJ1Yml4ZSBpcyBsb29raW5nIGZvciBwYXNzaW9uYXRlIGFuZCBkcml2ZW4gQUkgSW50ZXJucyB3aXRoIGEmbmJzcDsuLi4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "nl"
      ],
      "regions": [
-      "US"
+      "NL"
      ],
      "source": {
-      "description": "Out in the world, the rebellion against God has become a rebellion against everything: roots, culture, community, families, biology itself. ...",
-      "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAACQBQCdASogACAAPtEwtFooIigoGAEAGglkALsvsFYCWM95RAyEG_b8grZFTn5pEcQnx0GRQAD-4vHv7VvRljUV7a6bp44ZCciQWYMrK1NUOy3-KLzX2mCGcP_mbN8Y0jthRrrvyWC5QFwaWmfxATs8fXkPhz-10xRpRorxqS0Byx1OD8q_Q9J-ZwLuTCSvGybz-0PCtAVpRe_X1fGdChPuP_9-sKa_BmOhL9vp9hlux2HW-UNrvbypHp-ZM1S1JqkwKM-NPjSEDRL3sY0TYJal3WVIky_T_iAkoguoVtLh5pqw1OPWzZV1-0AAAA.webp",
-      "source_info_link": "https://firstthings.com/the-cross-and-the-machine/"
+      "description": "372 Machine Learning Intern jobs available in HSR Layout, Bengaluru, Karnataka on Indeed.com. Rubixe is looking for passionate and driven AI Interns with a ...",
+      "icon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBwCdASogACAAPtEutFooIagoGAEAGglsAMD8wPBAvjfpgXhnm71AOjN5AA4v8sNLl36pOjmq6mE5cwn1V8LKYuwAAP73ghRE9AWOB2PKrAzZQSS9d7khgzV1auw_odjabVlRCSAs74KT7btsF-N4Vms52jHJaP-oVhE1aA_GjhnDsbPeGM-ull1rCVwPuLnBKCUnw-obL_iU15Sl6A6hfk0IHJVkVW-MFVw0-MjR9GTHS3NOimnjygSxnpSOf7rVJjt3LAqJ4Wa1vHzkukaWp7CaymWcdv3h2IZe6BHJfZ-6F7CnZbSx_FmXbfsjGUKg3fBb-5n9LaAvr94LPr5c7_7BZHXZPdbX3c2CKphUi5R46LtwjCexZZrLYSSqRMzn-WfyZqqq_sOpRyRa_fDAQfE6RgD-xeGG5tujHheFulpKsZwFJpz_wfNeXu3WnIjH_NotHIkTEmmRdB_v-FDHgrdHnUPW1XPAaVIzdSY27h0L_4Pt52_LVAAAAA.webp",
+      "source_info_link": "https://in.indeed.com/q-machine-learning-intern-l-hsr-layout,-bengaluru,-karnataka-jobs.html"
      }
     },
-    "date": "Jun 1, 2021",
-    "displayed_link": "https://firstthings.com › the-cross-and-the-machine",
-    "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAACQBQCdASogACAAPtEwtFooIigoGAEAGglkALsvsFYCWM95RAyEG_b8grZFTn5pEcQnx0GRQAD-4vHv7VvRljUV7a6bp44ZCciQWYMrK1NUOy3-KLzX2mCGcP_mbN8Y0jthRrrvyWC5QFwaWmfxATs8fXkPhz-10xRpRorxqS0Byx1OD8q_Q9J-ZwLuTCSvGybz-0PCtAVpRe_X1fGdChPuP_9-sKa_BmOhL9vp9hlux2HW-UNrvbypHp-ZM1S1JqkwKM-NPjSEDRL3sY0TYJal3WVIky_T_iAkoguoVtLh5pqw1OPWzZV1-0AAAA.webp",
-    "link": "https://firstthings.com/the-cross-and-the-machine/",
+    "displayed_link": "https://in.indeed.com › q-machine-...",
+    "favicon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBwCdASogACAAPtEutFooIagoGAEAGglsAMD8wPBAvjfpgXhnm71AOjN5AA4v8sNLl36pOjmq6mE5cwn1V8LKYuwAAP73ghRE9AWOB2PKrAzZQSS9d7khgzV1auw_odjabVlRCSAs74KT7btsF-N4Vms52jHJaP-oVhE1aA_GjhnDsbPeGM-ull1rCVwPuLnBKCUnw-obL_iU15Sl6A6hfk0IHJVkVW-MFVw0-MjR9GTHS3NOimnjygSxnpSOf7rVJjt3LAqJ4Wa1vHzkukaWp7CaymWcdv3h2IZe6BHJfZ-6F7CnZbSx_FmXbfsjGUKg3fBb-5n9LaAvr94LPr5c7_7BZHXZPdbX3c2CKphUi5R46LtwjCexZZrLYSSqRMzn-WfyZqqq_sOpRyRa_fDAQfE6RgD-xeGG5tujHheFulpKsZwFJpz_wfNeXu3WnIjH_NotHIkTEmmRdB_v-FDHgrdHnUPW1XPAaVIzdSY27h0L_4Pt52_LVAAAAA.webp",
+    "link": "https://in.indeed.com/q-machine-learning-intern-l-hsr-layout,-bengaluru,-karnataka-jobs.html",
     "position": 6,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVUnu_5GlelFZEVmqiSVmh3KOyrkQsD5SfIvWPt-Sgc1No_fe0VGsgHg7K1HaFK94JzxytKfRNxsn3wI8TGqLw82DFC0kL0LNm9DDRd8A_IAFwULwXV8wiKMjESGGlwUKkusYCjQg&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQFnoECBgQAQ&uoh=1",
-    "snippet": "Out in the world, the rebellion against God has become a rebellion against everything: roots, culture, community, families, biology itself. ...",
-    "source": "First Things",
-    "title": "The Cross and the Machine"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFYFNXRUZ8PO89WHutaAceZ90xZjkLDD_kUgVcN_TdPxPRMaRVLPojKsjNXgF26OxKUIxUfm8-dzqDY0s7Nb02OcPsoc-MVXg4O_xIwug_jq8dDLBnIk9Vzl0FiqY5K4bLY7GFj5s6afBOoqGo5Ek-1bpcSmsVRVA1YF8jpyM5806hhEZ0xckNLn81LvOHqh09WeN&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQFnoECFUQAQ&uoh=1",
+    "snippet": "372 Machine Learning Intern jobs available in HSR Layout, Bengaluru, Karnataka on Indeed.com. Rubixe is looking for passionate and driven AI Interns with a ...",
+    "snippet_highlighted_words": [
+     "372 Machine Learning Intern jobs available in HSR Layout, Bengaluru"
+    ],
+    "source": "Indeed",
+    "title": "Machine learning intern jobs in HSR Layout, Bengaluru, ..."
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZlVTZxWDA1MHJIRW1sUlMxYmdkREFwM3FObVJtVF9BOVpmTTZzRUpaVFJRcDlyMHFWT05za1RyM1JnbGZlRUdfOXN3RXczV201Q1VneWVkZl9RblNEd0tYVk5BRGsxbi1veFBhckJPTi1FV0Q3UkRCa1hGVWZBVFVJM2Znb3lxOUd6TzdJZEpoNFlEZng5NzhVU3JHQ1BTNTNCUmh1SDBzcHFiVVlRTW9fdDFBcjh6QnhoUUMzbHpjNGVoQU4zTGhROERKTEkSBBoCCAAa-gsSAggAGgAiACoAMgYIAhICbmw6AEIECAIQAkoAWgByAHoAgkDUCwgAEAAYACAAKtQBCgljb21wYW5pZXMVLia1PhoFYnJhbmQaCGJ1c2luZXNzGgpidXNpbmVzc2VzGgdjb21wYW55GgVncm91cBoEam9icxoIc2VydmljZXMaDml2O2Q7Y29tcGFuaWVzGg5pdjtwO2NvbXBhbmllcxoNaXY7ZDtidXNpbmVzcxoNaXY7cDtidXNpbmVzcxoPaXY7ZDtidXNpbmVzc2VzGg9pdjtwO2J1c2luZXNzZXMaDGl2O2Q7Y29tcGFueRoMaXY7cDtjb21wYW55GglpdjtwO2pvYnMq5AEKBmhpcmluZxW5nU0_GgdjYXJlZXJzGgplbXBsb3ltZW50GgNqb2IaBGpvYnMaC3JlY3J1aXRtZW50Ggd2YWNhbmN5GhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaC2l2O3A7aGlyaW5nGgxpdjtkO2NhcmVlcnMaDGl2O3A7Y2FyZWVycxoPaXY7cDtlbXBsb3ltZW50GglpdjtwO2pvYnMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGghvcGVuaW5ncxoJdmFjYW5jaWVzGgR3b3JrGgRoaXJlGgZjYXJlZXIqvAEKB21hY2hpbmUVTkyKQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGgxpdjtkO21hY2hpbmUaDGl2O3A7bWFjaGluZRoJaXY7ZDtkZWVwGglpdjtwO2RlZXAaDWl2O2Q7bWFjaGluZXMaDWl2O3A7bWFjaGluZXMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyqxAQoIbGVhcm5pbmcVdzyPQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGg1pdjtkO2xlYXJuaW5nGg1pdjtwO2xlYXJuaW5nGhFpdjtkO2ludGVsbGlnZW5jZRoRaXY7cDtpbnRlbGxpZ2VuY2UaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyp5CgllbmdpbmVlcnMVAAAAABoIZW5naW5lZXIaC2VuZ2luZWVyaW5nGg5pdjtwO2VuZ2luZWVycxoNaXY7ZDtlbmdpbmVlchoNaXY7cDtlbmdpbmVlchoQaXY7ZDtlbmdpbmVlcmluZxoQaXY7cDtlbmdpbmVlcmluZypLCgliZW5nYWx1cnUVChdDPxoJYmFuZ2Fsb3JlGg5pdjtkO2JlbmdhbHVydRoOaXY7cDtiZW5nYWx1cnUaDml2O3A7YmFuZ2Fsb3JlMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZlVTZxWDA1MHJIRW1sUlMxYmdkREFwM3FObVJtVF9BOVpmTTZzRUpaVFJRcDlyMHFWT05za1RyM1JnbGZlRUdfOXN3RXczV201Q1VneWVkZl9RblNEd0tYVk5BRGsxbi1veFBhckJPTi1FV0Q3UkRCa1hGVWZBVFVJM2Znb3lxOUd6TzdJZEpoNFlEZng5NzhVU3JHQ1BTNTNCUmh1SDBzcHFiVVlRTW9fdDFBcjh6QnhoUUMzbHpjNGVoQU4zTGhROERKTEk6QExldmVsIEFJIC0gU3IuIDxiPk1hY2hpbmUgTGVhcm5pbmcgRW5naW5lZXI8L2I-IChTcGVlY2gpIC0gTGV2ZXJCrgE8Yj5NYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIChTcGVlY2gpIC0gQUk8L2I-IChCYW5nYWxvcmUvTm9pZGEgTG9jYXRpb25zKS4gTm9pZGEgLyBCZW5nYWx1cnUuIEFJIC8uIEZ1bGwgVGltZSAvLiBIeWJyaWQuIGFwcGx5IGZvciB0aGlzIGpvYi4gTGV2ZWwgQUkgd2FzIGZvdW5kZWQgaW4mbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZlVTZxWDA1MHJIRW1sUlMxYmdkREFwM3FObVJtVF9BOVpmTTZzRUpaVFJRcDlyMHFWT05za1RyM1JnbGZlRUdfOXN3RXczV201Q1VneWVkZl9RblNEd0tYVk5BRGsxbi1veFBhckJPTi1FV0Q3UkRCa1hGVWZBVFVJM2Znb3lxOUd6TzdJZEpoNFlEZng5NzhVU3JHQ1BTNTNCUmh1SDBzcHFiVVlRTW9fdDFBcjh6QnhoUUMzbHpjNGVoQU4zTGhROERKTEkSBBoCCAAa-gsSAggAGgAiACoAMgYIAhICbmw6AEIECAIQAkoAWgByAHoAgkDUCwgAEAAYACAAKtQBCgljb21wYW5pZXMVLia1PhoFYnJhbmQaCGJ1c2luZXNzGgpidXNpbmVzc2VzGgdjb21wYW55GgVncm91cBoEam9icxoIc2VydmljZXMaDml2O2Q7Y29tcGFuaWVzGg5pdjtwO2NvbXBhbmllcxoNaXY7ZDtidXNpbmVzcxoNaXY7cDtidXNpbmVzcxoPaXY7ZDtidXNpbmVzc2VzGg9pdjtwO2J1c2luZXNzZXMaDGl2O2Q7Y29tcGFueRoMaXY7cDtjb21wYW55GglpdjtwO2pvYnMq5AEKBmhpcmluZxW5nU0_GgdjYXJlZXJzGgplbXBsb3ltZW50GgNqb2IaBGpvYnMaC3JlY3J1aXRtZW50Ggd2YWNhbmN5GhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaC2l2O3A7aGlyaW5nGgxpdjtkO2NhcmVlcnMaDGl2O3A7Y2FyZWVycxoPaXY7cDtlbXBsb3ltZW50GglpdjtwO2pvYnMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGghvcGVuaW5ncxoJdmFjYW5jaWVzGgR3b3JrGgRoaXJlGgZjYXJlZXIqvAEKB21hY2hpbmUVTkyKQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGgxpdjtkO21hY2hpbmUaDGl2O3A7bWFjaGluZRoJaXY7ZDtkZWVwGglpdjtwO2RlZXAaDWl2O2Q7bWFjaGluZXMaDWl2O3A7bWFjaGluZXMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyqxAQoIbGVhcm5pbmcVdzyPQBoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGg1pdjtkO2xlYXJuaW5nGg1pdjtwO2xlYXJuaW5nGhFpdjtkO2ludGVsbGlnZW5jZRoRaXY7cDtpbnRlbGxpZ2VuY2UaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyp5CgllbmdpbmVlcnMVAAAAABoIZW5naW5lZXIaC2VuZ2luZWVyaW5nGg5pdjtwO2VuZ2luZWVycxoNaXY7ZDtlbmdpbmVlchoNaXY7cDtlbmdpbmVlchoQaXY7ZDtlbmdpbmVlcmluZxoQaXY7cDtlbmdpbmVlcmluZypLCgliZW5nYWx1cnUVChdDPxoJYmFuZ2Fsb3JlGg5pdjtkO2JlbmdhbHVydRoOaXY7cDtiZW5nYWx1cnUaDml2O3A7YmFuZ2Fsb3JlMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZlVTZxWDA1MHJIRW1sUlMxYmdkREFwM3FObVJtVF9BOVpmTTZzRUpaVFJRcDlyMHFWT05za1RyM1JnbGZlRUdfOXN3RXczV201Q1VneWVkZl9RblNEd0tYVk5BRGsxbi1veFBhckJPTi1FV0Q3UkRCa1hGVWZBVFVJM2Znb3lxOUd6TzdJZEpoNFlEZng5NzhVU3JHQ1BTNTNCUmh1SDBzcHFiVVlRTW9fdDFBcjh6QnhoUUMzbHpjNGVoQU4zTGhROERKTEk6QExldmVsIEFJIC0gU3IuIDxiPk1hY2hpbmUgTGVhcm5pbmcgRW5naW5lZXI8L2I-IChTcGVlY2gpIC0gTGV2ZXJCrgE8Yj5NYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIChTcGVlY2gpIC0gQUk8L2I-IChCYW5nYWxvcmUvTm9pZGEgTG9jYXRpb25zKS4gTm9pZGEgLyBCZW5nYWx1cnUuIEFJIC8uIEZ1bGwgVGltZSAvLiBIeWJyaWQuIGFwcGx5IGZvciB0aGlzIGpvYi4gTGV2ZWwgQUkgd2FzIGZvdW5kZWQgaW4mbmJzcDsuLi4iAhABSABYAGgA",
     "about_this_result": {
      "languages": [
-      "en"
+      "nl"
      ],
      "regions": [
-      "US"
+      "NL"
      ],
      "source": {
-      "description": "Building a CNC plasma table. Making a 2-in-1 Workstation for Welding and Cutting Workshop. DIY CNC Router Build and Testing (With Limited Tools ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=2LrBaOmRzn4"
+      "description": "Machine Learning Engineer (Speech) - AI (Bangalore/Noida Locations). Noida / Bengaluru. AI /. Full Time /. Hybrid. apply for this job. Level AI was founded in ...",
+      "icon": "https://serpapi.com/images/i/UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASocABwAPrUurVanIacnG_DgFolAF2KgABL4YhH-JjPcYHPmfwAA15bfwMkUe3ithoG9lOp_mXcHbpwV_jf7Anj7Ikn7izLKwc0xZ1RysvyiXLRH5WxKejQNOtYgYAAA.webp",
+      "source_info_link": "https://jobs.lever.co/levelai/78ddcdbd-4bd8-4187-b7d0-38fcb39c8232?utm_source=jobs.cobloom.com"
      }
     },
-    "date": "Apr 27, 2025",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=2LrBaOmRzn4",
+    "displayed_link": "https://jobs.lever.co › levelai",
+    "favicon": "https://serpapi.com/images/i/UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASocABwAPrUurVanIacnG_DgFolAF2KgABL4YhH-JjPcYHPmfwAA15bfwMkUe3ithoG9lOp_mXcHbpwV_jf7Anj7Ikn7izLKwc0xZ1RysvyiXLRH5WxKejQNOtYgYAAA.webp",
+    "link": "https://jobs.lever.co/levelai/78ddcdbd-4bd8-4187-b7d0-38fcb39c8232?utm_source=jobs.cobloom.com",
     "position": 7,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVDDwPHZ46SZNageTJQFlL6I_zyy9Q7tlKzTDvZ6QBCxg3PZ_oif9kw95QREjYbhUZytfC5NqATQyZgPSUYoMbJlD6D5Q7Y9KlazzTGq6gH6kmdOWFo6jpu2m6cB8XiQ&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQFnoECBUQAQ&uoh=1",
-    "snippet": "Building a CNC plasma table. Making a 2-in-1 Workstation for Welding and Cutting Workshop. DIY CNC Router Build and Testing (With Limited Tools ...",
-    "source": "YouTube",
-    "title": "This Machine will Change my Life - Full Build"
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFeU6qX050rHEmlRS1bgdDAp3qNmRmT_A9ZfM6sEJZTRQp9r0qVONskTr3RglfeEG_9swEw3Wm5CUgyedf_QnSDwKXVNADk1n-oxParBON-EWD7RDBkXFUfATUI3fgoyq9GzO7IdJh4YDfx978USrGCPS53BRhuH0spqbUYQMo_t1Ar8zBxhQC3lzc4ehAN3LhQ8DJLI&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQFnoECFAQAQ&uoh=1",
+    "snippet": "Machine Learning Engineer (Speech) - AI (Bangalore/Noida Locations). Noida / Bengaluru. AI /. Full Time /. Hybrid. apply for this job. Level AI was founded in ...",
+    "snippet_highlighted_words": [
+     "Machine Learning Engineer (Speech) - AI"
+    ],
+    "source": "Lever",
+    "title": "Level AI - Sr. Machine Learning Engineer (Speech)"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlJHQnI4bVNMUlVoQkJPc3V4TzZtcTd0VE9WdGgwN2RWSDlpcU9KU1FrdkR0amRYODlmRFozNzBzR2dlY3R0T0xKZjlGYkNTYjc1WUpsbFBMa1FUeVBKYVpuS19fOHhzNlN2LVBCV1czTnMwUEFQZmJNQkdaRGs3NXdrUjMtX1NEUFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlJHQnI4bVNMUlVoQkJPc3V4TzZtcTd0VE9WdGgwN2RWSDlpcU9KU1FrdkR0amRYODlmRFozNzBzR2dlY3R0T0xKZjlGYkNTYjc1WUpsbFBMa1FUeVBKYVpuS19fOHhzNlN2LVBCV1czTnMwUEFQZmJNQkdaRGs3NXdrUjMtX1NEUFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
     "about_this_result": {
-     "languages": [
-      "en"
-     ],
-     "regions": [
-      "US"
-     ],
      "source": {
-      "description": "Find out what 'Machine' Giants' Closer, Brian Wilson is talking about during his post game interview with Chris Rose. Brian Wilson - Return of ...",
-      "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-      "source_info_link": "https://www.youtube.com/watch?v=6ckloLGOgVo"
+      "description": "2️⃣ Kaseya - Staff Software Engineer (AI/ML) - Bengaluru 3️⃣ ABB - Data and AI Lead - Bangalore - 8+ Yrs 4️⃣ PwC - Senior Associate, Azure ...",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
      }
     },
-    "date": "Oct 25, 2010",
-    "displayed_link": "https://www.youtube.com › watch",
-    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
-    "link": "https://www.youtube.com/watch?v=6ckloLGOgVo",
+    "displayed_link": "50+ likes · 3 maanden geleden",
+    "duration": "0:27",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "link": "https://www.instagram.com/reel/DaA6U-xBjTq/",
     "position": 8,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVqAIpWaWkvngig4Co7JC8RB6Iy44gk3CjZ0CGWZbD-B2IUiduj85Sct27LNFoWK5uXhAhJ-JjlEY32N-0IHjavwwb5joIf-zu7NylYMZL6HcqRwv1nCDhwbC_xBgMWQ&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQFnoECBoQAQ&uoh=1",
-    "snippet": "Find out what 'Machine' Giants' Closer, Brian Wilson is talking about during his post game interview with Chris Rose. Brian Wilson - Return of ...",
-    "snippet_highlighted_words": [
-     "Machine"
-    ],
-    "source": "YouTube",
-    "title": "Brian Wilson - Return of the Machine"
+    "snippet": "2️⃣ Kaseya - Staff Software Engineer (AI/ML) - Bengaluru 3️⃣ ABB - Data and AI Lead - Bangalore - 8+ Yrs 4️⃣ PwC - Senior Associate, Azure ...",
+    "source": "Instagram · besanttechnologiesmarathahalli",
+    "thumbnail": "https://serpapi.com/searches/6abd23436c4c0c1d8821cf99/images/jR3CF-btQ3xWDMrbF7HlycZhzhwkr3HH5-UzUVSYMkU.jpeg",
+    "title": "JOB ALERT | Freshers Hiring Ready to kickstart your ...",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQUtpG12AfOJmqeOiGkalkzYf_qWf2fDwkAIg"
    },
    {
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZkQWY4X3hFc1FpanIydUFZRVBmOHhzWlBFLXRBcmhQT1RiNVNGelRGRzRjejBxUzFPYXc4eUhNTlFRVnNBY3dBbTZ6Um9CR2kzVGtHc3FVLXpUejRVUlpOWVMzVG9Rd1pNaG5NaFdCcUpwZzdNaXVNSXNKMHpndnNtWDFjQTd5cHlNSWptUkRzUTNiNm5lZFFNbGhQeno4SUpfWWxsdFpfVzVtX2ZCd2xsc2FsYk44V1YyVktlSm5DN2lkdFRuZxIEGgIIABriCxIAGgAiACoAMgYIAhICbmw6AEIECAIQAkoAWgByAHoAgkC-CwgAEAAYACAAKtQBCgljb21wYW5pZXMVVM4tPxoFYnJhbmQaCGJ1c2luZXNzGgpidXNpbmVzc2VzGgdjb21wYW55GgVncm91cBoEam9icxoIc2VydmljZXMaDml2O2Q7Y29tcGFuaWVzGg5pdjtwO2NvbXBhbmllcxoNaXY7ZDtidXNpbmVzcxoNaXY7cDtidXNpbmVzcxoPaXY7ZDtidXNpbmVzc2VzGg9pdjtwO2J1c2luZXNzZXMaDGl2O2Q7Y29tcGFueRoMaXY7cDtjb21wYW55GglpdjtwO2pvYnMq5AEKBmhpcmluZxUAAAAAGgdjYXJlZXJzGgplbXBsb3ltZW50GgNqb2IaBGpvYnMaC3JlY3J1aXRtZW50Ggd2YWNhbmN5GhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaC2l2O3A7aGlyaW5nGgxpdjtkO2NhcmVlcnMaDGl2O3A7Y2FyZWVycxoPaXY7cDtlbXBsb3ltZW50GglpdjtwO2pvYnMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGghvcGVuaW5ncxoJdmFjYW5jaWVzGgR3b3JrGgRoaXJlGgZjYXJlZXIqvAEKB21hY2hpbmUVpq8DQRoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGgxpdjtkO21hY2hpbmUaDGl2O3A7bWFjaGluZRoJaXY7ZDtkZWVwGglpdjtwO2RlZXAaDWl2O2Q7bWFjaGluZXMaDWl2O3A7bWFjaGluZXMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyqxAQoIbGVhcm5pbmcVaagHQRoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGg1pdjtkO2xlYXJuaW5nGg1pdjtwO2xlYXJuaW5nGhFpdjtkO2ludGVsbGlnZW5jZRoRaXY7cDtpbnRlbGxpZ2VuY2UaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyp5CgllbmdpbmVlcnMVAAAAABoIZW5naW5lZXIaC2VuZ2luZWVyaW5nGg5pdjtwO2VuZ2luZWVycxoNaXY7ZDtlbmdpbmVlchoNaXY7cDtlbmdpbmVlchoQaXY7ZDtlbmdpbmVlcmluZxoQaXY7cDtlbmdpbmVlcmluZypLCgliZW5nYWx1cnUVlCTfQBoJYmFuZ2Fsb3JlGg5pdjtkO2JlbmdhbHVydRoOaXY7cDtiZW5nYWx1cnUaDml2O3A7YmFuZ2Fsb3JlMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZkQWY4X3hFc1FpanIydUFZRVBmOHhzWlBFLXRBcmhQT1RiNVNGelRGRzRjejBxUzFPYXc4eUhNTlFRVnNBY3dBbTZ6Um9CR2kzVGtHc3FVLXpUejRVUlpOWVMzVG9Rd1pNaG5NaFdCcUpwZzdNaXVNSXNKMHpndnNtWDFjQTd5cHlNSWptUkRzUTNiNm5lZFFNbGhQeno4SUpfWWxsdFpfVzVtX2ZCd2xsc2FsYk44V1YyVktlSm5DN2lkdFRuZzpJU3RhdGlzdGljcyBBbmQgPGI-TWFjaGluZSBMZWFybmluZyBKb2JzPC9iPiBpbiA8Yj5CZW5nYWx1cnUgQmFuZ2Fsb3JlPC9iPkKWATxiPkxlYWQgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlcjwvYj4uIFNvY25ldCBUZWNobm9sb2dpZXMgUHJpdmF0ZSBMaW1pdGVkLiBTLiA5LTE0IHlycy4g4oK5IDQwIC0gODAgTFBBLiBCZW5nYWx1cnUuIFNraWxsczogTWFjaGluZSBMZWFybmluZy4gSW4gSkQ6LiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZkQWY4X3hFc1FpanIydUFZRVBmOHhzWlBFLXRBcmhQT1RiNVNGelRGRzRjejBxUzFPYXc4eUhNTlFRVnNBY3dBbTZ6Um9CR2kzVGtHc3FVLXpUejRVUlpOWVMzVG9Rd1pNaG5NaFdCcUpwZzdNaXVNSXNKMHpndnNtWDFjQTd5cHlNSWptUkRzUTNiNm5lZFFNbGhQeno4SUpfWWxsdFpfVzVtX2ZCd2xsc2FsYk44V1YyVktlSm5DN2lkdFRuZxIEGgIIABriCxIAGgAiACoAMgYIAhICbmw6AEIECAIQAkoAWgByAHoAgkC-CwgAEAAYACAAKtQBCgljb21wYW5pZXMVVM4tPxoFYnJhbmQaCGJ1c2luZXNzGgpidXNpbmVzc2VzGgdjb21wYW55GgVncm91cBoEam9icxoIc2VydmljZXMaDml2O2Q7Y29tcGFuaWVzGg5pdjtwO2NvbXBhbmllcxoNaXY7ZDtidXNpbmVzcxoNaXY7cDtidXNpbmVzcxoPaXY7ZDtidXNpbmVzc2VzGg9pdjtwO2J1c2luZXNzZXMaDGl2O2Q7Y29tcGFueRoMaXY7cDtjb21wYW55GglpdjtwO2pvYnMq5AEKBmhpcmluZxUAAAAAGgdjYXJlZXJzGgplbXBsb3ltZW50GgNqb2IaBGpvYnMaC3JlY3J1aXRtZW50Ggd2YWNhbmN5GhVoaXJpbmdtYWNoaW5lbGVhcm5pbmcaC2l2O3A7aGlyaW5nGgxpdjtkO2NhcmVlcnMaDGl2O3A7Y2FyZWVycxoPaXY7cDtlbXBsb3ltZW50GglpdjtwO2pvYnMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGghvcGVuaW5ncxoJdmFjYW5jaWVzGgR3b3JrGgRoaXJlGgZjYXJlZXIqvAEKB21hY2hpbmUVpq8DQRoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGgxpdjtkO21hY2hpbmUaDGl2O3A7bWFjaGluZRoJaXY7ZDtkZWVwGglpdjtwO2RlZXAaDWl2O2Q7bWFjaGluZXMaDWl2O3A7bWFjaGluZXMaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyqxAQoIbGVhcm5pbmcVaagHQRoCbWwaFWhpcmluZ21hY2hpbmVsZWFybmluZxoPbWFjaGluZWxlYXJuaW5nGg1pdjtkO2xlYXJuaW5nGg1pdjtwO2xlYXJuaW5nGhFpdjtkO2ludGVsbGlnZW5jZRoRaXY7cDtpbnRlbGxpZ2VuY2UaGml2O3A7aGlyaW5nbWFjaGluZWxlYXJuaW5nGhRpdjtwO21hY2hpbmVsZWFybmluZyp5CgllbmdpbmVlcnMVAAAAABoIZW5naW5lZXIaC2VuZ2luZWVyaW5nGg5pdjtwO2VuZ2luZWVycxoNaXY7ZDtlbmdpbmVlchoNaXY7cDtlbmdpbmVlchoQaXY7ZDtlbmdpbmVlcmluZxoQaXY7cDtlbmdpbmVlcmluZypLCgliZW5nYWx1cnUVlCTfQBoJYmFuZ2Fsb3JlGg5pdjtkO2JlbmdhbHVydRoOaXY7cDtiZW5nYWx1cnUaDml2O3A7YmFuZ2Fsb3JlMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZkQWY4X3hFc1FpanIydUFZRVBmOHhzWlBFLXRBcmhQT1RiNVNGelRGRzRjejBxUzFPYXc4eUhNTlFRVnNBY3dBbTZ6Um9CR2kzVGtHc3FVLXpUejRVUlpOWVMzVG9Rd1pNaG5NaFdCcUpwZzdNaXVNSXNKMHpndnNtWDFjQTd5cHlNSWptUkRzUTNiNm5lZFFNbGhQeno4SUpfWWxsdFpfVzVtX2ZCd2xsc2FsYk44V1YyVktlSm5DN2lkdFRuZzpJU3RhdGlzdGljcyBBbmQgPGI-TWFjaGluZSBMZWFybmluZyBKb2JzPC9iPiBpbiA8Yj5CZW5nYWx1cnUgQmFuZ2Fsb3JlPC9iPkKWATxiPkxlYWQgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlcjwvYj4uIFNvY25ldCBUZWNobm9sb2dpZXMgUHJpdmF0ZSBMaW1pdGVkLiBTLiA5LTE0IHlycy4g4oK5IDQwIC0gODAgTFBBLiBCZW5nYWx1cnUuIFNraWxsczogTWFjaGluZSBMZWFybmluZy4gSW4gSkQ6LiICEAFIAFgAaAA",
     "about_this_result": {
      "languages": [
-      "en"
+      "nl"
      ],
      "regions": [
-      "US"
+      "NL"
      ],
      "source": {
-      "description": "Machine Gun Kelly. 6585675 followers · 15650 talking about this. machinegunkelly.com.",
-      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-      "source_info_link": "https://www.facebook.com/machinegunkellymusic/"
+      "description": "Lead Machine Learning Engineer. Socnet Technologies Private Limited. S. 9-14 yrs. ₹ 40 - 80 LPA. Bengaluru. Skills: Machine Learning. In JD:.",
+      "icon": "https://serpapi.com/images/i/UklGRqQBAABXRUJQVlA4IJgBAACQCACdASogACAAPrUurVanIacnG_DgFolsAJ0vUb-0QKEBtgNwxvAHPl-xn-z_7Se0BE4awJzdWI8e1nXPt3oUHkOHVS1lvIXNx8soAAD-_sJ79eE3QB_Ri-LiwIwikbfGSzmPi7Wi5QUytWzyYH8gCEqh5kFgCmrM_LZuPiGTeBS4bZK1X9scPLFXEk5GATF820RL7wy0YJKfrpw_iVO1SmCkGdKTz3v2vPg2olbpU5O8li2-zUvKIQqp-8Hh2wP76com9BO1aZ-z9nR4vD4zcS-8P-cG5gpU7yiOGIy9Fo3X_Y85Y6SzidHXNqUnjDTdrZ23rYTHOdFF3KG0x6y0aIqH2OlXD3s-cezlTOThPlzKXz7vQhQIa2JsRMUmbjmcXU8j4XHYM4Dit8ZVx8Zrf40v6VvfJUXYZ8t-vbzLe2q6FNfXD9ImAiuP1oq2VW2r6uA5MPEkx-JIvEZrRcgcNL3QyT6AHJC1y3xuN_QMN2Gvn5qtDDctFssrzeA8eCU8Sb1RfZsUvrHv_GEj0G6Jg2xwX1UVQAA.webp",
+      "source_info_link": "https://www.foundit.in/search/statistics-and-machine-learning-jobs-in-bengaluru-bangalore"
      }
     },
-    "displayed_link": "https://www.facebook.com › ... › Musician/band",
-    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
-    "link": "https://www.facebook.com/machinegunkellymusic/",
+    "displayed_link": "https://www.foundit.in › search › s...",
+    "favicon": "https://serpapi.com/images/i/UklGRqQBAABXRUJQVlA4IJgBAACQCACdASogACAAPrUurVanIacnG_DgFolsAJ0vUb-0QKEBtgNwxvAHPl-xn-z_7Se0BE4awJzdWI8e1nXPt3oUHkOHVS1lvIXNx8soAAD-_sJ79eE3QB_Ri-LiwIwikbfGSzmPi7Wi5QUytWzyYH8gCEqh5kFgCmrM_LZuPiGTeBS4bZK1X9scPLFXEk5GATF820RL7wy0YJKfrpw_iVO1SmCkGdKTz3v2vPg2olbpU5O8li2-zUvKIQqp-8Hh2wP76com9BO1aZ-z9nR4vD4zcS-8P-cG5gpU7yiOGIy9Fo3X_Y85Y6SzidHXNqUnjDTdrZ23rYTHOdFF3KG0x6y0aIqH2OlXD3s-cezlTOThPlzKXz7vQhQIa2JsRMUmbjmcXU8j4XHYM4Dit8ZVx8Zrf40v6VvfJUXYZ8t-vbzLe2q6FNfXD9ImAiuP1oq2VW2r6uA5MPEkx-JIvEZrRcgcNL3QyT6AHJC1y3xuN_QMN2Gvn5qtDDctFssrzeA8eCU8Sb1RfZsUvrHv_GEj0G6Jg2xwX1UVQAA.webp",
+    "link": "https://www.foundit.in/search/statistics-and-machine-learning-jobs-in-bengaluru-bangalore",
     "position": 9,
-    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV14sP9m8cq9xwK-W1o01JQWR4_0qvejDmfMC2XHhnL3X5j2aJlkcv2REO2wKi6N4tnGP6VTOgATq2afEb___WBy2wkQeHy0oM3BM7BYImgU0fpokI0-tur7c5FrGqXdoEFg&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQFnoECBIQAQ&uoh=1",
-    "snippet": "Machine Gun Kelly. 6585675 followers · 15650 talking about this. machinegunkelly.com.",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFdAf8_xEsQijr2uAYEPf8xsZPE-tArhPOTb5SFzTFG4cz0qS1Oaw8yHMNQQVsAcwAm6zRoBGi3TkGsqU-zTz4URZNYS3ToQwZMhnMhWBqJpg7MiuMIsJ0zgvsmX1cA7ypyMIjmRDsQ3b6nedQMlhPzz8IJ_YlltZ_W5m_fBwllsalbN8WV2VKeJnC7idtTng&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQFnoECE8QAQ&uoh=1",
+    "snippet": "Lead Machine Learning Engineer. Socnet Technologies Private Limited. S. 9-14 yrs. ₹ 40 - 80 LPA. Bengaluru. Skills: Machine Learning. In JD:.",
     "snippet_highlighted_words": [
-     "Machine"
+     "Lead Machine Learning Engineer"
     ],
-    "source": "Facebook",
-    "title": "Machine Gun Kelly (@machinegunkellymusic)"
+    "source": "foundit",
+    "title": "4961 Statistics And Machine Learning Jobs in Bengaluru ..."
    }
   ],
   "pagination": {
    "current": 1,
-   "next": "https://www.google.com/search?q=companies+hiring+machine+learning+engineers+bengaluru&sca_esv=646215d9fbd2647e&ei=nMevauzDBY7Y5NoPpLyKoQg&start=10&sa=N&sstk=AS6-VmIVQt9RLmgbUgdBbrDRBpw5ZawCNr1KIg2MLCjpFfGoYJdGoBJJCURRmCatwZRBcikCUxb6kFyaPMxR3XsQ5w78IQnXn291dw&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQ8NMDegQIPhAK",
+   "next": "https://www.google.com/search?q=companies+hiring+machine+learning+engineers+bengaluru&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&ei=RSO9avLrF6Lc2roP2PHU4AY&start=10&sa=N&sstk=AS6-VmJdyy_Jij1uwDBK2N3mYC1TZSNRqx1vrlE9e3Og0DRVUbuXY7tre2Vi5m9X_O5rLU-VfiAvuedigPucOtBxlPcuvypkTPJruw&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQ8NMDegQITRAI",
    "other_pages": {
-    "2": "https://www.google.com/search?q=companies+hiring+machine+learning+engineers+bengaluru&sca_esv=646215d9fbd2647e&ei=nMevauzDBY7Y5NoPpLyKoQg&start=10&sa=N&sstk=AS6-VmIVQt9RLmgbUgdBbrDRBpw5ZawCNr1KIg2MLCjpFfGoYJdGoBJJCURRmCatwZRBcikCUxb6kFyaPMxR3XsQ5w78IQnXn291dw&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQ8tMDegQIPhAE",
-    "3": "https://www.google.com/search?q=companies+hiring+machine+learning+engineers+bengaluru&sca_esv=646215d9fbd2647e&ei=nMevauzDBY7Y5NoPpLyKoQg&start=20&sa=N&sstk=AS6-VmIVQt9RLmgbUgdBbrDRBpw5ZawCNr1KIg2MLCjpFfGoYJdGoBJJCURRmCatwZRBcikCUxb6kFyaPMxR3XsQ5w78IQnXn291dw&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQ8tMDegQIPhAG",
-    "4": "https://www.google.com/search?q=companies+hiring+machine+learning+engineers+bengaluru&sca_esv=646215d9fbd2647e&ei=nMevauzDBY7Y5NoPpLyKoQg&start=30&sa=N&sstk=AS6-VmIVQt9RLmgbUgdBbrDRBpw5ZawCNr1KIg2MLCjpFfGoYJdGoBJJCURRmCatwZRBcikCUxb6kFyaPMxR3XsQ5w78IQnXn291dw&ved=2ahUKEwjsgbb8iv2WAxUOLFkFHSSeIoQQ8tMDegQIPhAI"
+    "2": "https://www.google.com/search?q=companies+hiring+machine+learning+engineers+bengaluru&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&ei=RSO9avLrF6Lc2roP2PHU4AY&start=10&sa=N&sstk=AS6-VmJdyy_Jij1uwDBK2N3mYC1TZSNRqx1vrlE9e3Og0DRVUbuXY7tre2Vi5m9X_O5rLU-VfiAvuedigPucOtBxlPcuvypkTPJruw&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQ8tMDegQITRAE",
+    "3": "https://www.google.com/search?q=companies+hiring+machine+learning+engineers+bengaluru&sca_esv=c859baa1cb7a8e85&sxsrf=APpeQns8g7-foS4F7aTDmChazBN-zldbGg:1790780229397&ei=RSO9avLrF6Lc2roP2PHU4AY&start=20&sa=N&sstk=AS6-VmJdyy_Jij1uwDBK2N3mYC1TZSNRqx1vrlE9e3Og0DRVUbuXY7tre2Vi5m9X_O5rLU-VfiAvuedigPucOtBxlPcuvypkTPJruw&ved=2ahUKEwiyosabyJaXAxUirlYBHdg4FWwQ8tMDegQITRAG"
    }
   },
+  "related_questions": [
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IwaEViRkpaY0ZoS1ZEbFNkbVpuVkc0elZEWTNSbTFOTVhkbE9UbEthRkU1ZEhodmRFUm5ZVWxZZG10alEwdHJORTE1Yldkbk5rOXhVV3BMYzNaNlNUWkxaa1J3VVhOWVVrRmFSV0U0UzBGR1QyczBibk5rZVVsVVVSSVhVbE5QT1dGMlRISkdOa3hqTW5KdlVESlFTRlUwUVZrYUlrRkVjM0k1WmxGdk1YaEtiekIxWXpGSVUwSndXa1ZrTUhod2VXNXJVa0ozVlZFIiwiZmN2IjoiMyIsImVpIjoiUlNPOWF2THJGNkxjMnJvUDJQSFU0QVkiLCJxYyI6ImMtTXlUYzdQTFVqTXkwd3RWc2pJTE1yTVMxZklUVXpPeU14TFZjaEpUU3pLQXdtazVxVUQtYWxGeFFwSlFHWmlUbWxScVFCRGJSdWptRDBBIiwicXVlc3Rpb24iOiJXaGljaCBjb21wYW5pZXMgaGlyZSBNTCBlbmdpbmVlcnMgaW4gSW5kaWE/IiwibGsiOiJHaXAzYUdsamFDQmpiMjF3WVc1cFpYTWdhR2x5WlNCdGJDQmxibWRwYm1WbGNuTWdhVzRnYVc1a2FXRSIsImJzIjoiYzIyUXZRdkNNQkJIY2MzazNPa0djZkFEdGM1U0ZBUUxPanVJd3huUDVxQkpTaEx4M3pjVkMxV3l2X2ZqM1ltTG1KNFZTd1hTNmdZTmt3ZkZqdUIwQkRJVkd5TG5nUTJVNXM1WTVMTnM4a3JodXY3RnVjWEZWYXpQQ2dOZ0pMelZCTnV5SGZZQlhYZzJ2WTFvN05CVVdGdEhSVDdPUnNqdFpCSzhkYUNRWW5td0x3Z1dLZ3Fmamp1Z0I0UVRTaFZiNEVqb0RKc0s5dC0ySWw5a2M1Vnc5TmVvTzZPN1JqaXgtWDlRdl9aelc1eHBIVTFTUlVKaTd4bEZ2c29XNlg1NFdKZDBob00zIiwiaWQiOiJmY19SU085YXZMckY2TGMycm9QMlBIVTRBWV80In0=",
+    "page_token": "9aY2oXicHdBRboIwGADg7DJ7nC3qNk3MkjJQTGjSyv-z8rJgEXG0ooNZ4G132al2miX7jvB9_5jTuf69u1Vdd2mXk4lz7uHYNEdzeNCNneTtcNYTnRuzz3W9fHx6pC-lXgVfEfOvERNwueCrJEmw3QiPr7UxSlgeIMzrQ4gtR5xKNNUOZckhu6Y-oXxkm8wnBGrKMxq5PWWpGsNk5wWzHGoPNjDiB7vtX-U6hn5QHo6FWTBu0U-DKuHncJbTxRUhJgn0Qtm2F_UWFWZDDK4T0OVgG4eEl4rCAFg0esPbPXmeKcRA7GgoUtLnZ5NymPuHsLgiygCn2sG66aXFaVAVOyDPc_WWxbpWXrKOB20XIjYswkSyVDYnAXLUH8YC3TIO25sG5GpEV7xhlJPFCW0VZobNVS26zN2X-raa3v9_rt5L2y0vn83xDzSLgp4",
+    "question": "Which companies hire ML engineers in India?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9aY2oXicHdBRboIwGADg7DJ7nC3qNk3MkjJQTGjSyv-z8rJgEXG0ooNZ4G132al2miX7jvB9_5jTuf69u1Vdd2mXk4lz7uHYNEdzeNCNneTtcNYTnRuzz3W9fHx6pC-lXgVfEfOvERNwueCrJEmw3QiPr7UxSlgeIMzrQ4gtR5xKNNUOZckhu6Y-oXxkm8wnBGrKMxq5PWWpGsNk5wWzHGoPNjDiB7vtX-U6hn5QHo6FWTBu0U-DKuHncJbTxRUhJgn0Qtm2F_UWFWZDDK4T0OVgG4eEl4rCAFg0esPbPXmeKcRA7GgoUtLnZ5NymPuHsLgiygCn2sG66aXFaVAVOyDPc_WWxbpWXrKOB20XIjYswkSyVDYnAXLUH8YC3TIO25sG5GpEV7xhlJPFCW0VZobNVS26zN2X-raa3v9_rt5L2y0vn83xDzSLgp4",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IwaEViRkpaY0ZoS1ZEbFNkbVpuVkc0elZEWTNSbTFOTVhkbE9UbEthRkU1ZEhodmRFUm5ZVWxZZG10alEwdHJORTE1Yldkbk5rOXhVV3BMYzNaNlNUWkxaa1J3VVhOWVVrRmFSV0U0UzBGR1QyczBibk5rZVVsVVVSSVhVbE5QT1dGMlRISkdOa3hqTW5KdlVESlFTRlUwUVZrYUlrRkVjM0k1WmxGdk1YaEtiekIxWXpGSVUwSndXa1ZrTUhod2VXNXJVa0ozVlZFIiwiZmN2IjoiMyIsImVpIjoiUlNPOWF2THJGNkxjMnJvUDJQSFU0QVkiLCJxYyI6ImMtTXlUYzdQTFVqTXkwd3RWc2pJTE1yTVMxZklUVXpPeU14TFZjaEpUU3pLQXdtazVxVUQtYWxGeFFwSlFHWmlUbWxScVFCRGJSdWptRDBBIiwicXVlc3Rpb24iOiJXaGljaCBjb21wYW5pZXMgaGlyZSBNTCBlbmdpbmVlcnMgaW4gSW5kaWE%2FIiwibGsiOiJHaXAzYUdsamFDQmpiMjF3WVc1cFpYTWdhR2x5WlNCdGJDQmxibWRwYm1WbGNuTWdhVzRnYVc1a2FXRSIsImJzIjoiYzIyUXZRdkNNQkJIY2MzazNPa0djZkFEdGM1U0ZBUUxPanVJd3huUDVxQkpTaEx4M3pjVkMxV3l2X2ZqM1ltTG1KNFZTd1hTNmdZTmt3ZkZqdUIwQkRJVkd5TG5nUTJVNXM1WTVMTnM4a3JodXY3RnVjWEZWYXpQQ2dOZ0pMelZCTnV5SGZZQlhYZzJ2WTFvN05CVVdGdEhSVDdPUnNqdFpCSzhkYUNRWW5td0x3Z1dLZ3Fmamp1Z0I0UVRTaFZiNEVqb0RKc0s5dC0ySWw5a2M1Vnc5TmVvTzZPN1JqaXgtWDlRdl9aelc1eHBIVTFTUlVKaTd4bEZ2c29XNlg1NFdKZDBob00zIiwiaWQiOiJmY19SU085YXZMckY2TGMycm9QMlBIVTRBWV80In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IwaEViRkpaY0ZoS1ZEbFNkbVpuVkc0elZEWTNSbTFOTVhkbE9UbEthRkU1ZEhodmRFUm5ZVWxZZG10alEwdHJORTE1Yldkbk5rOXhVV3BMYzNaNlNUWkxaa1J3VVhOWVVrRmFSV0U0UzBGR1QyczBibk5rZVVsVVVSSVhVbE5QT1dGMlRISkdOa3hqTW5KdlVESlFTRlUwUVZrYUlrRkVjM0k1WmxGdk1YaEtiekIxWXpGSVUwSndXa1ZrTUhod2VXNXJVa0ozVlZFIiwiZmN2IjoiMyIsImVpIjoiUlNPOWF2THJGNkxjMnJvUDJQSFU0QVkiLCJxYyI6ImMtTXlUYzdQTFVqTXkwd3RWc2pJTE1yTVMxZklUVXpPeU14TFZjaEpUU3pLQXdtazVxVUQtYWxGeFFwSlFHWmlUbWxScVFCRGJSdWptRDBBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIEFJIE1MIHN0YXJ0dXAgY29tcGFuaWVzIGluIEJhbmdhbG9yZT8iLCJsayI6IkdpUmhhU0J0YkNCemRHRnlkSFZ3SUdOdmJYQmhibWxsY3lCcGJpQmlZVzVuWVd4dmNtVSIsImJzIjoiYzIyUXZRdkNNQkJIY2MzazNPa0djZkFEdGM1U0ZBUUxPanVJd3huUDVxQkpTaEx4M3pjVkMxV3l2X2ZqM1ltTG1KNFZTd1hTNmdZTmt3ZkZqdUIwQkRJVkd5TG5nUTJVNXM1WTVMTnM4a3JodXY3RnVjWEZWYXpQQ2dOZ0pMelZCTnV5SGZZQlhYZzJ2WTFvN05CVVdGdEhSVDdPUnNqdFpCSzhkYUNRWW5td0x3Z1dLZ3Fmamp1Z0I0UVRTaFZiNEVqb0RKc0s5dC0ySWw5a2M1Vnc5TmVvTzZPN1JqaXgtWDlRdl9aelc1eHBIVTFTUlVKaTd4bEZ2c29XNlg1NFdKZDBob00zIiwiaWQiOiJmY19SU085YXZMckY2TGMycm9QMlBIVTRBWV80In0=",
+    "page_token": "d1P9wXicHdBRToMwAADQeJl9CkU3syWLcYOykQ2ktBT6Y6B1wGjXOlAGf97FU3kaE98R3vePbC7t711W973pVpY1DMN9pXUl3--5VlbRjRdu8ULKsuDtavG0AM8nvva6YbPVwyYmxqQusvGucgSOh3KS6ujDD9rWE7ZrQ5W5lnR5SWzGEEZX7koqnDDiioDEh0085RMh4DNxoUu8fB5CcysdVGDa2bTd94kHcLgFc6xAc0yNExFpEpA_ChkoBEI3ztiQKuhxB3YFrTVP5YSg7qmsYeQZQN09IH4YIX9JyRa8RhQigsWBqy6BIMB4krVobyM6s2M-BWMJXkbi1WnoQeY3wQbtwjGiLEnOImOu9JFK5YGKs9ghzLDMMdTzKIsnfIFoduJf64fZ_9j67aT6lbnq6g8gEnnc",
+    "question": "What are some AI ML startup companies in Bangalore?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d1P9wXicHdBRToMwAADQeJl9CkU3syWLcYOykQ2ktBT6Y6B1wGjXOlAGf97FU3kaE98R3vePbC7t711W973pVpY1DMN9pXUl3--5VlbRjRdu8ULKsuDtavG0AM8nvva6YbPVwyYmxqQusvGucgSOh3KS6ujDD9rWE7ZrQ5W5lnR5SWzGEEZX7koqnDDiioDEh0085RMh4DNxoUu8fB5CcysdVGDa2bTd94kHcLgFc6xAc0yNExFpEpA_ChkoBEI3ztiQKuhxB3YFrTVP5YSg7qmsYeQZQN09IH4YIX9JyRa8RhQigsWBqy6BIMB4krVobyM6s2M-BWMJXkbi1WnoQeY3wQbtwjGiLEnOImOu9JFK5YGKs9ghzLDMMdTzKIsnfIFoduJf64fZ_9j67aT6lbnq6g8gEnnc",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IwaEViRkpaY0ZoS1ZEbFNkbVpuVkc0elZEWTNSbTFOTVhkbE9UbEthRkU1ZEhodmRFUm5ZVWxZZG10alEwdHJORTE1Yldkbk5rOXhVV3BMYzNaNlNUWkxaa1J3VVhOWVVrRmFSV0U0UzBGR1QyczBibk5rZVVsVVVSSVhVbE5QT1dGMlRISkdOa3hqTW5KdlVESlFTRlUwUVZrYUlrRkVjM0k1WmxGdk1YaEtiekIxWXpGSVUwSndXa1ZrTUhod2VXNXJVa0ozVlZFIiwiZmN2IjoiMyIsImVpIjoiUlNPOWF2THJGNkxjMnJvUDJQSFU0QVkiLCJxYyI6ImMtTXlUYzdQTFVqTXkwd3RWc2pJTE1yTVMxZklUVXpPeU14TFZjaEpUU3pLQXdtazVxVUQtYWxGeFFwSlFHWmlUbWxScVFCRGJSdWptRDBBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIEFJIE1MIHN0YXJ0dXAgY29tcGFuaWVzIGluIEJhbmdhbG9yZT8iLCJsayI6IkdpUmhhU0J0YkNCemRHRnlkSFZ3SUdOdmJYQmhibWxsY3lCcGJpQmlZVzVuWVd4dmNtVSIsImJzIjoiYzIyUXZRdkNNQkJIY2MzazNPa0djZkFEdGM1U0ZBUUxPanVJd3huUDVxQkpTaEx4M3pjVkMxV3l2X2ZqM1ltTG1KNFZTd1hTNmdZTmt3ZkZqdUIwQkRJVkd5TG5nUTJVNXM1WTVMTnM4a3JodXY3RnVjWEZWYXpQQ2dOZ0pMelZCTnV5SGZZQlhYZzJ2WTFvN05CVVdGdEhSVDdPUnNqdFpCSzhkYUNRWW5td0x3Z1dLZ3Fmamp1Z0I0UVRTaFZiNEVqb0RKc0s5dC0ySWw5a2M1Vnc5TmVvTzZPN1JqaXgtWDlRdl9aelc1eHBIVTFTUlVKaTd4bEZ2c29XNlg1NFdKZDBob00zIiwiaWQiOiJmY19SU085YXZMckY2TGMycm9QMlBIVTRBWV80In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IwaEViRkpaY0ZoS1ZEbFNkbVpuVkc0elZEWTNSbTFOTVhkbE9UbEthRkU1ZEhodmRFUm5ZVWxZZG10alEwdHJORTE1Yldkbk5rOXhVV3BMYzNaNlNUWkxaa1J3VVhOWVVrRmFSV0U0UzBGR1QyczBibk5rZVVsVVVSSVhVbE5QT1dGMlRISkdOa3hqTW5KdlVESlFTRlUwUVZrYUlrRkVjM0k1WmxGdk1YaEtiekIxWXpGSVUwSndXa1ZrTUhod2VXNXJVa0ozVlZFIiwiZmN2IjoiMyIsImVpIjoiUlNPOWF2THJGNkxjMnJvUDJQSFU0QVkiLCJxYyI6ImMtTXlUYzdQTFVqTXkwd3RWc2pJTE1yTVMxZklUVXpPeU14TFZjaEpUU3pLQXdtazVxVUQtYWxGeFFwSlFHWmlUbWxScVFCRGJSdWptRDBBIiwicXVlc3Rpb24iOiJIb3cgdG8gZ2V0IGhpcmVkIGFzIGEgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlcj8iLCJsayI6IkdpMW9iM2NnZEc4Z1oyVjBJR2hwY21Wa0lHRnpJRzFoWTJocGJtVWdiR1ZoY201cGJtY2daVzVuYVc1bFpYSSIsImJzIjoiYzIyUXZRdkNNQkJIY2MzazNPa0djZkFEdGM1U0ZBUUxPanVJd3huUDVxQkpTaEx4M3pjVkMxV3l2X2ZqM1ltTG1KNFZTd1hTNmdZTmt3ZkZqdUIwQkRJVkd5TG5nUTJVNXM1WTVMTnM4a3JodXY3RnVjWEZWYXpQQ2dOZ0pMelZCTnV5SGZZQlhYZzJ2WTFvN05CVVdGdEhSVDdPUnNqdFpCSzhkYUNRWW5td0x3Z1dLZ3Fmamp1Z0I0UVRTaFZiNEVqb0RKc0s5dC0ySWw5a2M1Vnc5TmVvTzZPN1JqaXgtWDlRdl9aelc1eHBIVTFTUlVKaTd4bEZ2c29XNlg1NFdKZDBob00zIiwiaWQiOiJmY19SU085YXZMckY2TGMycm9QMlBIVTRBWV80In0=",
+    "page_token": "3gXrYXicHdBbcqowGADgOZvpY-WinNYZpzOpiFhD5ScXyMsZSdQUEqCVFuWtW-gauqqupjPnW8L3-W1emvrnz5fu--48n0yGYbg9te3JHG5layf787WRE7k3ptzLeh78DdyHo1yEHxI9vkmU0q5jS3CyUdDc7QT2YJo2psae66cEGeAm2-fwKlxRJxErqCedzNVPWYinkpon4InFkQkOTPuCsiXJoX1eol3JYi9bsl42Oig5CxRjCV9rrcgm5qG4QCj7JLqsqLcKWbU5J_zuWpDUARfeM9ulUKFt6sUD4S5i9r6CPEGU6-fSnnvlzKrSKrQlppZ2s1Z12Ct-8ctaY8L73ZaHM4jMY-6pV1gLiqnSh1CDqA0lvhpDrTLq3M2KXGBZFx6J8FXa-xQbFDMCiEP7klIYZWUsNR0pG9BAZzu6ko5y4yt2phfw2buIipGMCNRwc5QfC__m__Xi39H28-6tPf0CQqqMTQ",
+    "question": "How to get hired as a Machine Learning Engineer?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3gXrYXicHdBbcqowGADgOZvpY-WinNYZpzOpiFhD5ScXyMsZSdQUEqCVFuWtW-gauqqupjPnW8L3-W1emvrnz5fu--48n0yGYbg9te3JHG5layf787WRE7k3ptzLeh78DdyHo1yEHxI9vkmU0q5jS3CyUdDc7QT2YJo2psae66cEGeAm2-fwKlxRJxErqCedzNVPWYinkpon4InFkQkOTPuCsiXJoX1eol3JYi9bsl42Oig5CxRjCV9rrcgm5qG4QCj7JLqsqLcKWbU5J_zuWpDUARfeM9ulUKFt6sUD4S5i9r6CPEGU6-fSnnvlzKrSKrQlppZ2s1Z12Ct-8ctaY8L73ZaHM4jMY-6pV1gLiqnSh1CDqA0lvhpDrTLq3M2KXGBZFx6J8FXa-xQbFDMCiEP7klIYZWUsNR0pG9BAZzu6ko5y4yt2phfw2buIipGMCNRwc5QfC__m__Xi39H28-6tPf0CQqqMTQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IwaEViRkpaY0ZoS1ZEbFNkbVpuVkc0elZEWTNSbTFOTVhkbE9UbEthRkU1ZEhodmRFUm5ZVWxZZG10alEwdHJORTE1Yldkbk5rOXhVV3BMYzNaNlNUWkxaa1J3VVhOWVVrRmFSV0U0UzBGR1QyczBibk5rZVVsVVVSSVhVbE5QT1dGMlRISkdOa3hqTW5KdlVESlFTRlUwUVZrYUlrRkVjM0k1WmxGdk1YaEtiekIxWXpGSVUwSndXa1ZrTUhod2VXNXJVa0ozVlZFIiwiZmN2IjoiMyIsImVpIjoiUlNPOWF2THJGNkxjMnJvUDJQSFU0QVkiLCJxYyI6ImMtTXlUYzdQTFVqTXkwd3RWc2pJTE1yTVMxZklUVXpPeU14TFZjaEpUU3pLQXdtazVxVUQtYWxGeFFwSlFHWmlUbWxScVFCRGJSdWptRDBBIiwicXVlc3Rpb24iOiJIb3cgdG8gZ2V0IGhpcmVkIGFzIGEgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlcj8iLCJsayI6IkdpMW9iM2NnZEc4Z1oyVjBJR2hwY21Wa0lHRnpJRzFoWTJocGJtVWdiR1ZoY201cGJtY2daVzVuYVc1bFpYSSIsImJzIjoiYzIyUXZRdkNNQkJIY2MzazNPa0djZkFEdGM1U0ZBUUxPanVJd3huUDVxQkpTaEx4M3pjVkMxV3l2X2ZqM1ltTG1KNFZTd1hTNmdZTmt3ZkZqdUIwQkRJVkd5TG5nUTJVNXM1WTVMTnM4a3JodXY3RnVjWEZWYXpQQ2dOZ0pMelZCTnV5SGZZQlhYZzJ2WTFvN05CVVdGdEhSVDdPUnNqdFpCSzhkYUNRWW5td0x3Z1dLZ3Fmamp1Z0I0UVRTaFZiNEVqb0RKc0s5dC0ySWw5a2M1Vnc5TmVvTzZPN1JqaXgtWDlRdl9aelc1eHBIVTFTUlVKaTd4bEZ2c29XNlg1NFdKZDBob00zIiwiaWQiOiJmY19SU085YXZMckY2TGMycm9QMlBIVTRBWV80In0%3D",
+    "type": "ai_overview"
+   },
+   {
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IwaEViRkpaY0ZoS1ZEbFNkbVpuVkc0elZEWTNSbTFOTVhkbE9UbEthRkU1ZEhodmRFUm5ZVWxZZG10alEwdHJORTE1Yldkbk5rOXhVV3BMYzNaNlNUWkxaa1J3VVhOWVVrRmFSV0U0UzBGR1QyczBibk5rZVVsVVVSSVhVbE5QT1dGMlRISkdOa3hqTW5KdlVESlFTRlUwUVZrYUlrRkVjM0k1WmxGdk1YaEtiekIxWXpGSVUwSndXa1ZrTUhod2VXNXJVa0ozVlZFIiwiZmN2IjoiMyIsImVpIjoiUlNPOWF2THJGNkxjMnJvUDJQSFU0QVkiLCJxYyI6ImMtTXlUYzdQTFVqTXkwd3RWc2pJTE1yTVMxZklUVXpPeU14TFZjaEpUU3pLQXdtazVxVUQtYWxGeFFwSlFHWmlUbWxScVFCRGJSdWptRDBBIiwicXVlc3Rpb24iOiJXaGljaCBjb21wYW5pZXMgaW4gQmFuZ2Fsb3JlIGFyZSBoaXJpbmcgbWVjaGFuaWNhbCBlbmdpbmVlcnM/IiwibGsiOiJHaTlqYjIxd1lXNXBaWE1nYVc0Z1ltRnVaMkZzYjNKbElHWnZjaUJ0WldOb1lXNXBZMkZzSUdWdVoybHVaV1Z5Y3ciLCJicyI6ImMyMlF2UXZDTUJCSGNjM2szT2tHY2ZBRHRjNVNGQVFMT2p1SXd4blA1cUJKU2hMeDN6Y1ZDMVd5dl9majNZbUxtSjRWU3dYUzZnWU5rd2ZGanVCMEJESVZHeUxuZ1EyVTVzNVk1TE5zOGtyaHV2N0Z1Y1hGVmF6UENnTmdKTHpWQk51eUhmWUJYWGcydlkxbzdOQlVXRnRIUlQ3T1JzanRaQks4ZGFDUVlubXdMd2dXS2dxZmpqdWdCNFFUU2hWYjRFam9ESnNLOXQtMklsOWtjNVZ3OU5lb082TzdSaml4LVg5UXZfWnpXNXhwSFUxU1JVSmk3eGxGdnNvVzZYNTRXSmQwaG9NMyIsImlkIjoiZmNfUlNPOWF2THJGNkxjMnJvUDJQSFU0QVlfNCJ9",
+    "page_token": "kEzD_3icHdFRbpswGABg7TJ9bDApWRMpqkaAJKT2ZsNvHL9Mxi4hxQZaUGjytrvsuQfaaTbtBp_0_fptz23z58tnPY79sJrNpmm6P3Xdyb7c687N1HBt9Uwra0ulm9Xi6wI9VXodd9NmM0whhb7nEfMy_3HM_WUh41TmjQ4w8IpE5rsGuVNoH8jEPKutOeiYsaztufJZzNvelYA2UqTDMyR71cJDBogT22N1Rv5RhA5ueNS7b_NMJD_K16QjKIzKK2px3KcqIlBGnBCXpCwmMkv6BbGEareMaZPYF9AIo9jjNp04Cj0AczFeEBifzo0b34SHKsb5BUdhjWM5EK_eFTxMCJJYAXtj2_Qhh8CZm-mYC9oCLMM3e2CI1dQuCS_qAxZMCtQnIIwoAca4Nhl4j8FRSKybo59v8fWfh2Ib7nnOwoJ1Zwrspl-tA4ekQnyCRErjhg9VsPdyS0TmffCiQR4Vx4DSu0pf1vO7_w_rn5UbV_17d_oL6qeT4w",
+    "question": "Which companies in Bangalore are hiring mechanical engineers?",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kEzD_3icHdFRbpswGABg7TJ9bDApWRMpqkaAJKT2ZsNvHL9Mxi4hxQZaUGjytrvsuQfaaTbtBp_0_fptz23z58tnPY79sJrNpmm6P3Xdyb7c687N1HBt9Uwra0ulm9Xi6wI9VXodd9NmM0whhb7nEfMy_3HM_WUh41TmjQ4w8IpE5rsGuVNoH8jEPKutOeiYsaztufJZzNvelYA2UqTDMyR71cJDBogT22N1Rv5RhA5ueNS7b_NMJD_K16QjKIzKK2px3KcqIlBGnBCXpCwmMkv6BbGEareMaZPYF9AIo9jjNp04Cj0AczFeEBifzo0b34SHKsb5BUdhjWM5EK_eFTxMCJJYAXtj2_Qhh8CZm-mYC9oCLMM3e2CI1dQuCS_qAxZMCtQnIIwoAca4Nhl4j8FRSKybo59v8fWfh2Ib7nnOwoJ1Zwrspl-tA4ekQnyCRErjhg9VsPdyS0TmffCiQR4Vx4DSu0pf1vO7_w_rn5UbV_17d_oL6qeT4w",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1IwaEViRkpaY0ZoS1ZEbFNkbVpuVkc0elZEWTNSbTFOTVhkbE9UbEthRkU1ZEhodmRFUm5ZVWxZZG10alEwdHJORTE1Yldkbk5rOXhVV3BMYzNaNlNUWkxaa1J3VVhOWVVrRmFSV0U0UzBGR1QyczBibk5rZVVsVVVSSVhVbE5QT1dGMlRISkdOa3hqTW5KdlVESlFTRlUwUVZrYUlrRkVjM0k1WmxGdk1YaEtiekIxWXpGSVUwSndXa1ZrTUhod2VXNXJVa0ozVlZFIiwiZmN2IjoiMyIsImVpIjoiUlNPOWF2THJGNkxjMnJvUDJQSFU0QVkiLCJxYyI6ImMtTXlUYzdQTFVqTXkwd3RWc2pJTE1yTVMxZklUVXpPeU14TFZjaEpUU3pLQXdtazVxVUQtYWxGeFFwSlFHWmlUbWxScVFCRGJSdWptRDBBIiwicXVlc3Rpb24iOiJXaGljaCBjb21wYW5pZXMgaW4gQmFuZ2Fsb3JlIGFyZSBoaXJpbmcgbWVjaGFuaWNhbCBlbmdpbmVlcnM%2FIiwibGsiOiJHaTlqYjIxd1lXNXBaWE1nYVc0Z1ltRnVaMkZzYjNKbElHWnZjaUJ0WldOb1lXNXBZMkZzSUdWdVoybHVaV1Z5Y3ciLCJicyI6ImMyMlF2UXZDTUJCSGNjM2szT2tHY2ZBRHRjNVNGQVFMT2p1SXd4blA1cUJKU2hMeDN6Y1ZDMVd5dl9majNZbUxtSjRWU3dYUzZnWU5rd2ZGanVCMEJESVZHeUxuZ1EyVTVzNVk1TE5zOGtyaHV2N0Z1Y1hGVmF6UENnTmdKTHpWQk51eUhmWUJYWGcydlkxbzdOQlVXRnRIUlQ3T1JzanRaQks4ZGFDUVlubXdMd2dXS2dxZmpqdWdCNFFUU2hWYjRFam9ESnNLOXQtMklsOWtjNVZ3OU5lb082TzdSaml4LVg5UXZfWnpXNXhwSFUxU1JVSmk3eGxGdnNvVzZYNTRXSmQwaG9NMyIsImlkIjoiZmNfUlNPOWF2THJGNkxjMnJvUDJQSFU0QVlfNCJ9",
+    "type": "ai_overview"
+   }
+  ],
   "search_information": {
-   "organic_results_state": "Results for exact spelling",
+   "organic_results_state": "Some results for exact spelling but showing fixed spelling",
    "query_displayed": "companies hiring machine learning engineers bengaluru",
-   "time_taken_displayed": 0.28,
-   "total_results": 36
+   "results_for": "Bangalore, Karnataka, India",
+   "showing_results_for": "companies hiring machine learning engineers bengaluru",
+   "spelling_fix": "companies hiring machine learning engineers bengaluru",
+   "time_taken_displayed": 0.24,
+   "total_results": 110000
   },
   "search_metadata": {
-   "created_at": "2026-09-20 11:46:36 UTC",
+   "created_at": "2026-09-30 14:57:07 UTC",
    "google_url": "https://www.google.com/search?q=companies+hiring+machine+learning+engineers+bengaluru&oq=companies+hiring+machine+learning+engineers+bengaluru&sourceid=chrome&ie=UTF-8",
-   "id": "6aafc79c3d87019f12769be0",
-   "json_endpoint": "https://serpapi.com/searches/SMVSpeGCk4l79TsfK7UDWUg2V9pByevIKFF1Y4ji_5A/6aafc79c3d87019f12769be0.json",
-   "markdown_endpoint": "https://serpapi.com/searches/SMVSpeGCk4l79TsfK7UDWUg2V9pByevIKFF1Y4ji_5A/6aafc79c3d87019f12769be0.md",
-   "pixel_position_endpoint": "https://serpapi.com/searches/SMVSpeGCk4l79TsfK7UDWUg2V9pByevIKFF1Y4ji_5A/6aafc79c3d87019f12769be0.json_with_pixel_position",
-   "processed_at": "2026-09-20 11:46:36 UTC",
-   "raw_html_file": "https://serpapi.com/searches/SMVSpeGCk4l79TsfK7UDWUg2V9pByevIKFF1Y4ji_5A/6aafc79c3d87019f12769be0.html",
+   "id": "6abd23436c4c0c1d8821cf99",
+   "json_endpoint": "https://serpapi.com/searches/5VbFpeBHHS-1YHEiRP74vf9yNOiRzeDKCd_P6sxD5aw/6abd23436c4c0c1d8821cf99.json",
+   "markdown_endpoint": "https://serpapi.com/searches/5VbFpeBHHS-1YHEiRP74vf9yNOiRzeDKCd_P6sxD5aw/6abd23436c4c0c1d8821cf99.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/5VbFpeBHHS-1YHEiRP74vf9yNOiRzeDKCd_P6sxD5aw/6abd23436c4c0c1d8821cf99.json_with_pixel_position",
+   "processed_at": "2026-09-30 14:57:07 UTC",
+   "raw_html_file": "https://serpapi.com/searches/5VbFpeBHHS-1YHEiRP74vf9yNOiRzeDKCd_P6sxD5aw/6abd23436c4c0c1d8821cf99.html",
    "status": "Success",
-   "total_time_taken": 0.41
+   "total_time_taken": 2.66
   },
   "search_parameters": {
    "device": "desktop",
@@ -286,8 +542,7 @@
    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru&start=10",
    "other_pages": {
     "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru&start=10",
-    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru&start=20",
-    "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru&start=30"
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=companies+hiring+machine+learning+engineers+bengaluru&start=20"
    }
   }
  },
