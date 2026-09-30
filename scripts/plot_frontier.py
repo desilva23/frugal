@@ -125,9 +125,18 @@ def main(argv: list[str] | None = None) -> int:
              size=12, anchor="end", fill=INK, weight="600")
     )
     gain = sorted((two_a - one_a, two_b - one_b))
+    # The chart's main message, so it must not sit on the lines it describes. It
+    # used to be centred on the segment, and both lines ran straight through
+    # the words. It now starts partway along and sits clear below the lower
+    # line: the lines rise to the right, so their lowest point across the label
+    # is at its left edge, and the label is placed from that.
+    label_x = 1.42
+    lowest = min(
+        one + (two - one) * (label_x - 1.0) for one, two in ((one_a, two_a), (one_b, two_b))
+    )
     parts.append(
-        text(x(1.5), y((one_a + two_a) / 2) + 34,
-             f"the second search: +{gain[0]} to +{gain[1]}", size=12, anchor="middle")
+        text(x(label_x), y(lowest) + 26,
+             f"the second search: +{gain[0]} to +{gain[1]}", size=12, weight="600")
     )
     extra = sorted((three_a - two_a, three_b - two_b))
     parts.append(

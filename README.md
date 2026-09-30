@@ -2,9 +2,9 @@
 
 **A cost-aware search planner for SerpApi.**
 
-One web search answers about four questions in five — and not the same four
-twice. Recorded twice, a week apart, a single search got the same question right
-**both times for 65 of 100 questions**. A plan of two searches across two
+One web search finds the answer to about four questions in five — and not the
+same four twice. Recorded twice, a week apart, a single search found the answer
+to the same question **both times for 65 of 100 questions**. A plan of two searches across two
 different indexes did it for **92**.
 
 ![Questions answered against searches spent, in two recordings](docs/frontier.svg)
@@ -129,7 +129,7 @@ word boundaries, so there is no judge model and nothing to take on trust.
 and both recordings are committed. Every number below replays from them without
 an API key.
 
-| strategy | first | second | right both times |
+| strategy | first | second | found both times |
 |---|---|---|---|
 | one web search, the question verbatim | 79/100 | 83/100 | 65 |
 | one web search, reduced to keywords | 73/100 | 86/100 | 63 |
