@@ -588,7 +588,7 @@ def test_a_cached_search_does_not_consume_the_budget(tmp_path: Path) -> None:
 
 
 def test_the_governor_demonstration_still_demonstrates(
-    capsys: pytest.CaptureFixture[str],
+    capsys: pytest.CaptureFixture[str], monkeypatch: pytest.MonkeyPatch
 ) -> None:
     """The README quotes this script's output, so the script has to keep working.
 
@@ -599,7 +599,7 @@ def test_the_governor_demonstration_still_demonstrates(
     import runpy
     import sys
 
-    sys.argv = ["demo_governors.py"]
+    monkeypatch.setattr(sys, "argv", ["demo_governors.py"])
     path = Path(__file__).parent.parent / "scripts" / "demo_governors.py"
     try:
         runpy.run_path(str(path), run_name="__main__")
@@ -611,3 +611,30 @@ def test_the_governor_demonstration_still_demonstrates(
     assert "saturated" in out
     for line in ("issued         : 2        skipped: 4", "issued         : 2        skipped: 1"):
         assert line in out, f"the README quotes {line!r}, which the script no longer prints"
+
+
+def test_a_later_round_is_configured_like_the_first(tmp_path: Path) -> None:
+    """Only the query may change between rounds, not which parameters are sent.
+
+    Adapted rounds were rebuilt with build_params directly, so web search got
+    locale parameters in round two that round one deliberately leaves off.
+    """
+    from datetime import UTC, datetime
+
+    from frugal.schema import Document, Provenance
+
+    question = "What are the latest developments in electric vehicles in India?"
+    planner, _ = make_planner(tmp_path, max_engines=2, max_rounds=2)
+    steps = planner.plan(question)
+    first = {s.engine: set(s.params) - {"q"} for s in steps if s.round_number == 1}
+    second = [s for s in steps if s.round_number == 2]
+
+    provenance = Provenance("google", "q", 1, datetime.now(UTC))
+    evidence = [
+        Document(title=f"tata nexon launch {i}", snippet="tata nexon", provenance=provenance)
+        for i in range(4)
+    ]
+    adapted = planner._adapt(second, question, evidence, planner.locale_for(question))
+    assert adapted, "expected feedback terms to adapt the second round"
+    for step in adapted:
+        assert set(step.params) - {"q"} == first[step.engine], step.engine

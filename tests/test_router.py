@@ -57,8 +57,12 @@ def test_question_shapes_reach_their_engine(question: str, expected: str) -> Non
 
 
 def test_a_question_with_no_shape_falls_back_to_web_search() -> None:
-    """Returning nothing would be worse than returning something unspecialised."""
-    assert engines("How does photosynthesis work?") == ["google"]
+    """Returning nothing would be worse than returning something unspecialised.
+
+    With no specialist signal it leads with web search and adds a broad index,
+    with or without a limit -- route() and the planner used to disagree here.
+    """
+    assert engines("How does photosynthesis work?") == ["google", "google_scholar"]
 
 
 def test_web_search_is_always_available() -> None:
@@ -88,11 +92,11 @@ def test_an_ip_address_question_does_not_route_to_patents() -> None:
 
 def test_an_ip_address_question_does_not_route_to_maps() -> None:
     """Regression: bare "address" fired the local signal on "IP address"."""
-    assert engines("What is my IP address?") == ["google"]
+    assert "google_maps" not in engines("What is my IP address?")
 
 
 def test_an_email_address_question_does_not_route_to_maps() -> None:
-    assert engines("What is my email address?") == ["google"]
+    assert "google_maps" not in engines("What is my email address?")
 
 
 def test_a_street_address_question_still_routes_to_maps() -> None:
@@ -169,7 +173,8 @@ def test_limit_of_one_still_returns_something() -> None:
 
 def test_a_high_floor_still_leaves_web_search() -> None:
     """The plan must never come back empty."""
-    assert engines_above_floor("how does photosynthesis work", floor=99.0) == ["google"]
+    chosen = engines_above_floor("how does photosynthesis work", floor=99.0)
+    assert chosen and chosen[0] == "google"
 
 
 def engines_above_floor(question: str, floor: float) -> list[str]:
@@ -369,3 +374,45 @@ def test_plural_tolerance_does_not_break_the_name_guard() -> None:
 def test_multi_word_patterns_are_matched_verbatim() -> None:
     """"near me" must not become "near mes"."""
     assert "local" in detect_signals("a cafe near me")
+
+
+# --------------------------------------------------------------------------
+# Position phrasings count as local only when somewhere is named
+# --------------------------------------------------------------------------
+
+
+@pytest.mark.parametrize(
+    "question",
+    [
+        "Where is the bug in this regex?",
+        "Where are Python packages installed on macOS?",
+        "Where is the config file located in VS Code?",
+    ],
+)
+def test_asking_where_a_thing_is_does_not_make_it_a_place(question: str) -> None:
+    """"Where is X" is a position question whatever X is, and most X are not places.
+
+    Unconditioned, these phrasings sent each of these to google_maps, spending
+    a search on an engine that cannot answer them.
+    """
+    assert "google_maps" not in [d.engine for d in route(question, limit=2)]
+
+
+@pytest.mark.parametrize(
+    "question",
+    [
+        "Where is the Indian Institute of Science located?",
+        "Where are coworking spaces in Pune?",
+        "Where is IIT Bombay located?",
+    ],
+)
+def test_asking_where_a_named_place_is_still_reaches_maps(question: str) -> None:
+    """An institution counts even inside its own name, which the proper-noun guard would drop."""
+    assert "google_maps" in [d.engine for d in route(question, limit=2)]
+
+
+def test_the_broad_fallback_does_not_depend_on_passing_a_limit() -> None:
+    """route() and the planner must agree about what a question will issue."""
+    question = "Who invented the telephone?"
+    assert [d.engine for d in route(question)] == [d.engine for d in route(question, limit=2)]
+    assert len(route(question)) == 2

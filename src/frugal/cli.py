@@ -237,8 +237,8 @@ def ask(
     with SerpApiClient(cache=cache) as client:
         planner = Planner(
             client,
-            max_engines=engines or DEFAULT_MAX_ENGINES,
-            max_rounds=rounds or DEFAULT_MAX_ROUNDS,
+            max_engines=engines if engines is not None else DEFAULT_MAX_ENGINES,
+            max_rounds=rounds if rounds is not None else DEFAULT_MAX_ROUNDS,
         )
         locale = planner.locale_for(question)
 
@@ -334,8 +334,8 @@ def plan_only(
     client = SerpApiClient(cache=ResponseCache(cache_dir, mode=CacheMode.REPLAY))
     planner = Planner(
         client,
-        max_engines=engines or DEFAULT_MAX_ENGINES,
-        max_rounds=rounds or DEFAULT_MAX_ROUNDS,
+        max_engines=engines if engines is not None else DEFAULT_MAX_ENGINES,
+        max_rounds=rounds if rounds is not None else DEFAULT_MAX_ROUNDS,
     )
     dry = planner.dry_run(question, budget=budget)
 
@@ -376,6 +376,23 @@ def doctor(console: Console) -> int:
     return 0
 
 
+def _positive_int(text: str) -> int:
+    """An argparse type for counts that must be at least one.
+
+    ``--rounds 0`` used to be read as "not given" because the value was tested
+    for truth, so it silently planned one round; ``--engines -1`` reached the
+    planner and came back as a traceback. Both are usage errors, and argparse
+    reports those in one line.
+    """
+    try:
+        value = int(text)
+    except ValueError:
+        raise argparse.ArgumentTypeError(f"expected a whole number, got {text!r}") from None
+    if value < 1:
+        raise argparse.ArgumentTypeError(f"must be at least 1, got {value}")
+    return value
+
+
 def _build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="frugal", description="A cost-aware search planner for SerpApi."
@@ -393,10 +410,12 @@ def _build_parser() -> argparse.ArgumentParser:
         sub.add_argument("question", help="the question to plan for")
         sub.add_argument("--budget", type=int, default=DEFAULT_BUDGET, help="search budget")
         sub.add_argument("--cache", default=DEFAULT_CACHE_DIR, help="cache directory")
-        sub.add_argument("--engines", type=int, default=None, help="engines to route across")
+        sub.add_argument(
+            "--engines", type=_positive_int, default=None, help="engines to route across"
+        )
         sub.add_argument(
             "--rounds",
-            type=int,
+            type=_positive_int,
             default=None,
             help="adaptive rounds; a later round reuses what the earlier ones found",
         )

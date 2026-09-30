@@ -271,3 +271,16 @@ def test_the_plan_prints_the_query_it_will_actually_send(
     )
     # Web search is sent the question as it was asked, place and all.
     assert f'"{question}"' in collapsed
+
+
+@pytest.mark.parametrize("args", [["--rounds", "0"], ["--engines", "-1"], ["--rounds", "two"]])
+def test_a_count_below_one_is_a_usage_error(
+    args: list[str], capsys: pytest.CaptureFixture[str]
+) -> None:
+    """0 used to mean "not given" and -1 came back as a traceback."""
+    from frugal.cli import main
+
+    with pytest.raises(SystemExit) as exit_code:
+        main(["plan", "Who invented the telephone?", *args])
+    assert exit_code.value.code == 2
+    assert "error: argument" in capsys.readouterr().err

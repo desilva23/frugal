@@ -403,10 +403,14 @@ Worth reading before drawing conclusions from the tables above.
   finished.** The signal listed restaurants and cafes but not pharmacies,
   museums or coworking spaces, so six of the ten local questions never reached
   maps. Adding three words would only have moved the omission, so the signal now
-  also matches shape — "where is X", "X located" — which asks about position
-  whatever X is. Across the hundred questions those patterns fire nine times and
-  every one is a local question. Irregular cases will still be missed; this is a
-  lexical router and that is its ceiling.
+  also matches shape — "where is X", "X located". On their own those were too
+  broad: "Where is the bug in this regex?" went to maps. They now count only when
+  the question also names somewhere, either a place the locale detector knows or
+  a kind of institution — and an institution counts inside its own name, which
+  the rule written to keep "Steve Jobs" from firing the jobs signal would
+  otherwise discard. All ten local questions reach maps and no other question
+  does. Irregular cases will still be missed; this is a lexical router and that
+  is its ceiling.
 - **A single result is a result.** Maps answers a query matching one specific
   place with a `place_results` object rather than a `local_results` list, and
   the adapter read only lists — so "Where is the Indian Institute of Science
@@ -475,10 +479,17 @@ python -m frugal.benchmark --replay --cache benchmarks/fixtures-first \
 ```
 
 Replay fails loudly on a missing fixture rather than skipping it, so each
-committed set either covers the workload completely or says it does not. The
-results each command prints are also committed, as `results.json` and
-`ablation.json` for the second recording and `results-first.json` and
-`ablation-first.json` for the first.
+committed set either covers the workload completely or says it does not.
+
+**Nothing is written unless you pass `--out`**, so replaying to check a number
+cannot change it. That used to be untrue: output defaulted to
+`benchmarks/results.json` whatever the other flags said, and running the five
+commands above in order left the committed results file holding the eight
+structured questions. The committed results are `results.json` and
+`ablation.json` for the second recording, `results-first.json` and
+`ablation-first.json` for the first, and `recordings.json` for the comparison
+between them — which `python scripts/compare_recordings.py` regenerates, and
+which a test holds the headline figures in this file to.
 
 The question sets, including the reasoning behind each question, are in
 [benchmarks/questions.json](benchmarks/questions.json) and

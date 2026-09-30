@@ -15,6 +15,7 @@ recorded error would otherwise be served from cache forever.
 from __future__ import annotations
 
 import random
+import threading
 import time
 from collections.abc import Mapping
 from dataclasses import dataclass, field
@@ -107,6 +108,21 @@ class RequestLog:
     empty_results: int = 0
     total_latency_ms: float = 0.0
     errors: list[str] = field(default_factory=list)
+    #: The planner issues a round's searches from a thread pool, and ``+=`` on
+    #: an attribute is a read, an add and a write, which two threads can
+    #: interleave and lose an increment between. Every counter here is changed
+    #: through :meth:`record` under this lock, because ``attempts`` in
+    #: particular is quoted as evidence of what a run was billed.
+    _lock: threading.Lock = field(default_factory=threading.Lock, repr=False, compare=False)
+
+    def record(self, *, error: str | None = None, latency_ms: float = 0.0, **counts: int) -> None:
+        """Add to one or more counters atomically."""
+        with self._lock:
+            for name, amount in counts.items():
+                setattr(self, name, getattr(self, name) + amount)
+            self.total_latency_ms += latency_ms
+            if error is not None:
+                self.errors.append(error)
 
     @property
     def unrecorded_attempts(self) -> int:
@@ -200,7 +216,7 @@ class SerpApiClient:
 
         cached = self.cache.load(engine, request_params)
         if cached is not None:
-            self.log.cache_hits += 1
+            self.log.record(cache_hits=1)
             return SearchResponse(
                 engine=engine,
                 params=dict(cached.params),
@@ -230,19 +246,17 @@ class SerpApiClient:
         # budget could be overrun by searches it never saw.
         message = _extract_error(payload)
         if message is not None and self._status_of(payload) != "Success":
-            self.log.errors.append(f"{engine}: {message}")
+            self.log.record(error=f"{engine}: {message}")
             if _looks_like_auth_failure(message):
                 raise AuthenticationError(message)
             raise SerpApiError(engine, message, status=self._status_of(payload))
         if message is not None:
             # Completed but empty: billed, and worth remembering so an identical
             # search is not paid for twice to be told the same thing.
-            self.log.empty_results += 1
+            self.log.record(empty_results=1)
 
         self.cache.store(engine, request_params, payload, elapsed_ms=elapsed_ms)
-        self.log.requests += 1
-        self.log.searches_charged += 1
-        self.log.total_latency_ms += elapsed_ms
+        self.log.record(requests=1, searches_charged=1, latency_ms=elapsed_ms)
 
         return SearchResponse(
             engine=engine,
@@ -290,7 +304,7 @@ class SerpApiClient:
             try:
                 # Counted before the call, not after: a request that times out
                 # still reached SerpApi, and SerpApi still ran the search.
-                self.log.attempts += 1
+                self.log.record(attempts=1)
                 response = self._http.get(self.base_url, params=query)
             except httpx.TimeoutException as exc:
                 last_error = exc
@@ -316,7 +330,7 @@ class SerpApiClient:
                     return self._decode(response, engine)
 
             if attempt < self.max_attempts:
-                self.log.retries += 1
+                self.log.record(retries=1)
                 self._sleep(backoff_seconds(attempt, retry_after))
 
         if isinstance(last_error, TransportError) and "429" in str(last_error):

@@ -38,6 +38,7 @@ from frugal.cache import CacheMode, ResponseCache, compute_key
 from frugal.client import SerpApiClient
 from frugal.errors import FrugalError
 from frugal.planner import (
+    BASELINE_STRATEGIES,
     DEFAULT_BUDGET,
     Planner,
     PlanResult,
@@ -111,13 +112,6 @@ def marker_matches(marker: str, text: str) -> bool:
 
 
 QUESTIONS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "questions.json"
-RESULTS_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "results.json"
-
-#: The sweep writes a different shape from the main run -- summaries per plan
-#: size, no per-question outcomes -- so it gets its own file. Sharing a default
-#: meant an --ablate run silently replaced the headline table with a payload
-#: that did not contain it.
-ABLATION_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "ablation.json"
 
 #: Four strategies, each adding one mechanism to the one before it, so that
 #: every gap isolates a single thing:
@@ -131,7 +125,7 @@ ABLATION_PATH = Path(__file__).resolve().parents[2] / "benchmarks" / "ablation.j
 #: contained both parameters and routing while the README credited all of it to
 #: routing. Two strategies could not separate reformulation from routing; three
 #: could not separate routing from parameters.
-STRATEGIES = ("naive", "keyword", "parameterised", "planned")
+STRATEGIES = (*BASELINE_STRATEGIES, "planned")
 
 
 @dataclass(frozen=True, slots=True)
@@ -701,15 +695,19 @@ def main(argv: Sequence[str] | None = None) -> int:
         help="question set to run (default: benchmarks/questions.json)",
     )
     parser.add_argument("--cache", default=".frugal-cache", help="cache directory")
+    # No default. There used to be one -- benchmarks/results.json, resolved from
+    # the installed package rather than the working directory -- and it applied
+    # whatever --cache, --questions or --limit said. Following the README's own
+    # reproduction steps in order therefore left the committed results.json
+    # holding the eight structured questions and ablation.json holding the other
+    # recording. Replaying to check a number must not be able to change it, so
+    # a run writes a file only when told where.
     parser.add_argument(
         "--out",
         default=None,
-        help="where to write results JSON (default: benchmarks/results.json, "
-        "or benchmarks/ablation.json with --ablate)",
+        help="write results JSON here; without it the run prints and writes nothing",
     )
     args = parser.parse_args(argv)
-    if args.out is None:
-        args.out = str(ABLATION_PATH if args.ablate else RESULTS_PATH)
 
     questions = load_questions(
         Path(args.questions) if args.questions else QUESTIONS_PATH
@@ -752,14 +750,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             spend = client.log
         print("\n" + render_ablation(summaries))
         _report_spend(spend)
-        Path(args.out).write_text(
-            json.dumps(
-                {"ablation": {k: v.as_dict() for k, v in summaries.items()}},
-                indent=2,
-                sort_keys=True,
-            ),
-            encoding="utf-8",
-        )
+        _write(args.out, {"ablation": {k: v.as_dict() for k, v in summaries.items()}})
         return 0
 
     with SerpApiClient(cache=cache) as client:
@@ -780,9 +771,17 @@ def main(argv: Sequence[str] | None = None) -> int:
         "summaries": {name: s.as_dict() for name, s in summaries.items()},
         "outcomes": [o.as_dict() for o in outcomes],
     }
-    Path(args.out).write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
-    print(f"results written to {args.out}")
+    _write(args.out, payload)
     return 0
+
+
+def _write(out: str | None, payload: dict[str, Any]) -> None:
+    """Save results where the caller asked, and nowhere otherwise."""
+    if out is None:
+        print("results not saved; pass --out to save them")
+        return
+    Path(out).write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
+    print(f"results written to {out}")
 
 
 def _projected_arms(*, ablate: bool, skip_deep: bool) -> list[str]:
@@ -814,7 +813,7 @@ def _steps_for_arm(
     budget: int,
 ) -> list[PlanStep]:
     """Every search one arm would issue for one question, without issuing it."""
-    if arm in STRATEGIES[:3]:
+    if arm in BASELINE_STRATEGIES:
         return [baseline_step(arm, question)]
     return list(planners[arm].dry_run(question, budget=budget).steps)
 
@@ -841,36 +840,40 @@ def _report_dry_run(
     an identical search pay once between them. What remains approximate is
     stated in the output rather than folded silently into a number.
     """
-    client = SerpApiClient(cache=ResponseCache(cache.directory, mode=CacheMode.REPLAY))
+    # Closed on the way out: the client owns an HTTP pool even though a dry run
+    # never sends a request, and every dry run used to leave one open.
+    with SerpApiClient(
+        cache=ResponseCache(cache.directory, mode=CacheMode.REPLAY)
+    ) as client:
 
-    planners: dict[str, Planner] = {"planned": Planner(client)}
-    for name, forced in FIXED_PAIRINGS:
-        planners[name] = Planner(client, max_engines=2, max_rounds=1, force_engines=forced)
-    for name, engines, rounds in ABLATIONS:
-        planners[name] = Planner(client, max_engines=engines, max_rounds=rounds)
+        planners: dict[str, Planner] = {"planned": Planner(client)}
+        for name, forced in FIXED_PAIRINGS:
+            planners[name] = Planner(client, max_engines=2, max_rounds=1, force_engines=forced)
+        for name, engines, rounds in ABLATIONS:
+            planners[name] = Planner(client, max_engines=engines, max_rounds=rounds)
 
-    arms = _projected_arms(ablate=ablate, skip_deep=skip_deep)
-    seen: set[str] = set()
-    rows: list[tuple[str, int, int, int]] = []
-    multi_round = False
+        arms = _projected_arms(ablate=ablate, skip_deep=skip_deep)
+        seen: set[str] = set()
+        rows: list[tuple[str, int, int, int]] = []
+        multi_round = False
 
-    for arm in arms:
-        issued = free = billed = 0
-        for question in questions:
-            for step in _steps_for_arm(
-                arm, question.question, planners=planners, budget=budget
-            ):
-                multi_round = multi_round or step.round_number > 1
-                issued += 1
-                params = {k: v for k, v in step.params.items() if v is not None}
-                key = compute_key(step.engine, params)
-                if key in seen or cache.peek(step.engine, params) is not None:
+        for arm in arms:
+            issued = free = billed = 0
+            for question in questions:
+                for step in _steps_for_arm(
+                    arm, question.question, planners=planners, budget=budget
+                ):
+                    multi_round = multi_round or step.round_number > 1
+                    issued += 1
+                    params = {k: v for k, v in step.params.items() if v is not None}
+                    key = compute_key(step.engine, params)
+                    if key in seen or cache.peek(step.engine, params) is not None:
+                        seen.add(key)
+                        free += 1
+                        continue
                     seen.add(key)
-                    free += 1
-                    continue
-                seen.add(key)
-                billed += 1
-        rows.append((arm, issued, free, billed))
+                    billed += 1
+            rows.append((arm, issued, free, billed))
 
     width = max(len("total"), *(len(name) for name, *_ in rows))
     print(f"{'arm':<{width}}  {'searches':>8}  {'free':>6}  {'billed':>6}")

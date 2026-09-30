@@ -482,3 +482,31 @@ def test_a_clean_run_reports_no_hidden_spend(tmp_path: Path) -> None:
     assert client.log.searches_charged == 2
     assert client.log.unrecorded_attempts == 0
     assert client.log.as_dict()["unrecorded_attempts"] == 0
+
+
+def test_the_counters_do_not_lose_updates_under_concurrency() -> None:
+    """The planner updates these from a thread pool; attempts is quoted as evidence.
+
+    ``+=`` on an attribute is a read, an add and a write, so two workers can
+    both read the same value and one increment disappears. The count of
+    requests sent is what the README cites for what a run was billed.
+    """
+    import threading
+
+    from frugal.client import RequestLog
+
+    log = RequestLog()
+    workers, per_worker = 16, 2000
+
+    def hammer() -> None:
+        for _ in range(per_worker):
+            log.record(attempts=1, retries=1)
+
+    threads = [threading.Thread(target=hammer) for _ in range(workers)]
+    for thread in threads:
+        thread.start()
+    for thread in threads:
+        thread.join()
+
+    assert log.attempts == workers * per_worker
+    assert log.retries == workers * per_worker

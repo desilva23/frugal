@@ -381,3 +381,48 @@ def test_the_place_is_not_repeated_in_either_term() -> None:
     pair = comparison_terms("In India, is search interest in millets higher than in quinoa?")
     assert pair is not None
     assert all("india" not in term for term in pair)
+
+
+# --------------------------------------------------------------------------
+# Trend vocabulary stays with trends
+# --------------------------------------------------------------------------
+
+
+@pytest.mark.parametrize(
+    ("question", "engine", "kept"),
+    [
+        ("Who was the last Mughal emperor?", "google_scholar", "last"),
+        ("What was the last Apollo mission?", "google_news", "last"),
+        ("Is interest in Formula One rising in India?", "google_trends", "one"),
+    ],
+)
+def test_horizon_words_are_only_framing_inside_a_horizon(
+    question: str, engine: str, kept: str
+) -> None:
+    """"The last five years" frames a trend; "the last Mughal emperor" is the question.
+
+    The horizon words were added to lists that shape every engine's query, so
+    scholar was asked about "mughal emperor" and trends about "formula india".
+    """
+    assert kept in reformulate(question, engine=engine, limit=1)[0].query.split()
+
+
+def test_a_horizon_is_still_removed_from_a_trend_term() -> None:
+    question = "Has worldwide search interest in yoga changed over the last five years?"
+    assert reformulate(question, engine="google_trends", limit=1)[0].query == "yoga"
+
+
+def test_every_word_of_a_named_place_leaves_the_comparison() -> None:
+    """A two-word place was compared as one string against one-word tokens, and never matched."""
+    from frugal.reformulate import comparison_terms
+
+    assert comparison_terms(
+        "In Tamil Nadu, is search interest in cricket higher than in football?"
+    ) == ("cricket", "football")
+
+
+def test_a_quantity_is_not_the_other_side_of_a_comparison() -> None:
+    """"Grown more than 50%" is a threshold; trends has no series for the term "50"."""
+    from frugal.reformulate import comparison_terms
+
+    assert comparison_terms("Has search interest in EVs grown more than 50% in India?") is None

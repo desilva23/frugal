@@ -68,15 +68,6 @@ _FRAMING_WORDS = frozenset(
         # phrase -- it reported no results at all. "changed" is here but
         # "change" deliberately is not: climate change is a subject.
         "risen", "fallen", "grown", "declined", "changed", "increased", "decreased",
-        # Scope and horizon. Both frame a trend question without narrowing what
-        # it is about, and both outranked the subject on length: "Has worldwide
-        # search interest in yoga changed over the last five years?" produced
-        # "worldwide changed years", discarding yoga entirely.
-        "worldwide", "globally", "global", "time", "times", "year", "years", "since",
-        # A spelled-out number in a trend question belongs to the horizon --
-        # "over the last five years" -- and stripping the horizon leaves it
-        # stranded beside the subject, as "yoga five".
-        "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
         "compared", "versus", "vs", "difference", "best", "good", "better",
         "worth", "should", "people", "someone", "things", "stuff", "way", "ways",
     }
@@ -86,11 +77,34 @@ _FRAMING_WORDS = frozenset(
 #: keyword query — an engine sorting by date does not need to be told twice —
 #: but used to decide whether a recency-narrowed variant is worth issuing.
 _RECENCY_WORDS = frozenset(
-    {
-        "latest", "recent", "recently", "current", "today", "now", "new", "newest",
-        "update", "last", "past",
-    }
+    {"latest", "recent", "recently", "current", "today", "now", "new", "newest", "update"}
 )
+
+#: Words that frame a *trend* question -- its scope and its horizon -- without
+#: being what it is about. Kept apart from the shared lists above on purpose.
+#:
+#: They were added to those lists once, to stop "Has worldwide search interest in
+#: yoga changed over the last five years?" becoming the trends term "worldwide
+#: changed years" with yoga discarded. But the shared lists also shape queries for
+#: scholar, news, jobs, shopping and maps, so "Who was the last Mughal emperor?"
+#: reached scholar as "mughal emperor", and "Is interest in Formula One rising?"
+#: reached trends as "formula india". Trends is where these words are framing;
+#: everywhere else, "last" and "one" can be the question.
+_TREND_FRAMING = frozenset(
+    {"worldwide", "globally", "global", "time", "times", "year", "years", "since",
+     "last", "past"}
+)
+
+#: A horizon as a phrase: "the last five years", "the past two decades". The
+#: number is removed only as part of one, which is what lets "five" go from the
+#: yoga question while "One" stays in "Formula One".
+_HORIZON = re.compile(
+    r"\b(?:the\s+)?(?:last|past|next)\s+"
+    r"(?:(?:one|two|three|four|five|six|seven|eight|nine|ten|few|several|\d+)\s+)?"
+    r"(?:years?|months?|decades?|weeks?|days?|quarters?)\b",
+    re.IGNORECASE,
+)
+
 
 #: Above this token overlap, two queries will return substantially the same
 #: results and the second one is not worth paying for. Chosen deliberately low:
@@ -189,7 +203,7 @@ def keyword_query(question: str) -> str:
     return _keyword_query(question) or question.strip()
 
 
-def _core_terms(question: str, keep: int = 3) -> str:
+def _core_terms(question: str, keep: int = 3, *, trend: bool = False) -> str:
     """The most salient terms.
 
     Salience is approximated by length, which is crude but deterministic: longer
@@ -206,13 +220,10 @@ def _core_terms(question: str, keep: int = 3) -> str:
     # Unique, because this ranks tokens and picks the top few: a word the
     # question repeats would otherwise be selected twice and spend two of the
     # three slots saying the same thing.
-    tokens = list(
-        dict.fromkeys(
-            t
-            for t in tokenise(question)
-            if t not in _RECENCY_WORDS and t not in _FRAMING_WORDS
-        )
-    )
+    if trend:
+        question = _HORIZON.sub(" ", question)
+    drop = _RECENCY_WORDS | _FRAMING_WORDS | (_TREND_FRAMING if trend else frozenset())
+    tokens = list(dict.fromkeys(t for t in tokenise(question) if t not in drop))
     if not tokens:
         # A question made entirely of framing has no core; fall back to content
         # words rather than returning nothing.
@@ -320,7 +331,15 @@ def comparison_terms(question: str) -> tuple[str, str] | None:
     """
     lowered = question.lower()
     locale = detect_locale(question)
-    drop = {locale.matched} if locale is not None and locale.matched else set()
+    # Every word of the place, not the place as one string: tokens are single
+    # words, so "tamil nadu" never equalled "tamil" or "nadu", nothing was
+    # dropped, and "In Tamil Nadu, is interest in cricket higher than in
+    # football?" asked trends to compare "tamil nadu" with "football".
+    drop: set[str] = set()
+    if locale is not None:
+        for name in (locale.matched, locale.location):
+            if name:
+                drop.update(tokenise(name))
 
     for marker in _COMPARISON_MARKERS:
         match = re.search(marker, lowered)
@@ -328,8 +347,11 @@ def comparison_terms(question: str) -> tuple[str, str] | None:
             continue
         sides: list[str] = []
         for text in (lowered[: match.start()], lowered[match.end() :]):
-            core = [t for t in _core_terms(text, keep=3).split() if t not in drop]
-            if not core:
+            core = [t for t in _core_terms(text, keep=3, trend=True).split() if t not in drop]
+            # A side with no word in it is a quantity, not a subject: "grown more
+            # than 50%" is a threshold, and comparing a term with "50" asks trends
+            # for a series nobody searches.
+            if not any(any(ch.isalpha() for ch in t) for t in core):
                 return None
             sides.append(" ".join(core[:2]))
         # Both sides reducing to the same words means the split found a phrase
@@ -374,7 +396,7 @@ def shape_for_engine(question: str, engine: str) -> tuple[str, str, str] | None:
                 "two terms in one search, which is how this engine compares them",
             )
         # Trends is the extreme case: it wants two or three words, not a sentence.
-        return _core_terms(question, keep=3), strategy, rationale
+        return _core_terms(question, keep=3, trend=True), strategy, rationale
     return _strip_recency(question), strategy, rationale
 
 
@@ -409,7 +431,7 @@ def reformulate(
     if engine in _TERM_ONLY_ENGINES:
         # Narrower term sets are the only further variants that make sense here.
         for keep in (2, 4):
-            narrowed = _core_terms(question, keep=keep)
+            narrowed = _core_terms(question, keep=keep, trend=True)
             if narrowed:
                 candidates.append(
                     (

@@ -33,6 +33,8 @@ from __future__ import annotations
 import re
 from dataclasses import dataclass, field
 
+from frugal.parameters import detect_locale
+
 #: Weight given to web search regardless of signals. It answers most questions
 #: adequately, so it is never routed away from entirely — it is the floor a
 #: specialised engine has to beat, not a competitor it has to displace.
@@ -129,6 +131,11 @@ class Signal:
     name: str
     patterns: tuple[str, ...]
     weight: float = 1.0
+    #: Whether a match inside a proper noun counts. False for every signal that
+    #: routes, because "Steve Jobs biography" is not a jobs question; true only
+    #: where the name is the evidence -- "Indian Institute of Science" is an
+    #: institution precisely because it is a name.
+    in_names: bool = False
 
     def matches(self, question: str) -> tuple[str, ...]:
         """Return the words that fired, in the question's own wording.
@@ -147,7 +154,7 @@ class Signal:
             for match in re.finditer(_pattern_for(pattern), question, re.IGNORECASE):
                 if _is_negated(question, match.start()):
                     continue
-                if _inside_proper_noun(question, match):
+                if not self.in_names and _inside_proper_noun(question, match):
                     continue
                 found.append(match.group(0).lower())
                 break
@@ -192,21 +199,6 @@ SIGNALS: dict[str, Signal] = {
             "directions", "restaurant", "restaurants", "cafe", "cafes",
             "shop", "shops", "store", "stores", "clinic", "hospital", "closest",
             "in my area", "around here",
-            # Shape, not vocabulary. Everything above names a *kind of place*,
-            # and a list of those is never finished: it had restaurants and
-            # cafes but not pharmacies, museums or coworking spaces, so six of
-            # the ten local questions fired no local signal and never reached
-            # maps. Adding those three words would only move the omission.
-            #
-            # "Where is X" and "X located" ask about position whatever X is, so
-            # they catch the questions a noun list misses without needing to
-            # anticipate the noun. Across the hundred-question set these fire on
-            # nine questions and every one is a local question; the tenth
-            # already matched on "hospital".
-            r"where (?:is|are)",
-            "located",
-            "situated",
-            r"are there in",
         ),
         weight=1.4,
     ),
@@ -335,13 +327,51 @@ class RoutingDecision:
         return f"{self.engine} (score {self.score:.2f}) — {because}"
 
 
+#: Phrasings that ask where something is, whatever the something is.
+#:
+#: The local vocabulary names *kinds of place*, and a list of those is never
+#: finished: it had restaurants and cafes but not pharmacies, museums or
+#: coworking spaces, so six of the ten local questions fired no local signal and
+#: never reached maps. These catch what a noun list misses without having to
+#: anticipate the noun.
+#:
+#: On their own they are too broad. "Where is the bug in this regex?" and
+#: "Where are Python packages installed on macOS?" are position questions about
+#: things that are not places, and treating them as local spent a maps search on
+#: each. So they count only when the question also names somewhere -- a place
+#: the locale detector knows, or a kind of institution that has an address.
+_POSITION_SHAPES = Signal(
+    "local",
+    (r"where (?:is|are)", "located", "situated", r"are there in"),
+    weight=1.4,
+)
+
+#: Words naming an organisation that occupies a site. Enough, with a position
+#: phrasing, to make "Where is the Indian Institute of Science located?" a
+#: question about a place when it names no city.
+_INSTITUTIONS = Signal(
+    "institution",
+    (
+        "institute", "institution", "university", "college", "campus", "school",
+        "museum", "temple", "church", "mosque", "station", "airport", "stadium",
+        "iit", "iim", "iisc", "nit",
+    ),
+    weight=0.0,
+    in_names=True,
+)
+
+
 def detect_signals(question: str) -> dict[str, tuple[str, ...]]:
     """Return every signal that fired, mapped to the words that fired it."""
-    return {
+    fired = {
         name: matched
         for name, signal in SIGNALS.items()
         if (matched := signal.matches(question))
     }
+    position = _POSITION_SHAPES.matches(question)
+    if position and (detect_locale(question) is not None or _INSTITUTIONS.matches(question)):
+        fired["local"] = tuple(dict.fromkeys((*fired.get("local", ()), *position)))
+    return fired
 
 
 def route(
@@ -401,7 +431,10 @@ def route(
         )
         decisions.sort(key=lambda d: -d.score)
 
-    if limit is not None and len(decisions) == 1 and limit >= 2:
+    # Applied with or without a limit. It used to require one, so route(question)
+    # returned web search alone while the planner, which always passes a limit,
+    # issued web search plus scholar -- two answers to "what will this do?".
+    if len(decisions) == 1 and (limit is None or limit >= 2):
         fallback = _general_fallback(exclude={d.engine for d in decisions})
         if fallback is not None:
             decisions.append(fallback)

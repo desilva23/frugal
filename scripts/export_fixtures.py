@@ -47,6 +47,28 @@ def trim(payload: Any, depth: int = 0, *, whole: bool = False) -> Any:
     return payload
 
 
+def _refuse(source: Path, destination: Path) -> str | None:
+    """Why ``destination`` must not be deleted, or None if it may be.
+
+    The destination is removed and rewritten, and it became a positional
+    argument when the repository started carrying two recordings. Swapped
+    arguments would then delete the live cache -- raw responses that were paid
+    for and cannot be fetched again identically -- and a destination of
+    "benchmarks" would delete the question sets and every results file.
+    """
+    src, dst = source.resolve(), destination.resolve()
+    if src == dst or src in dst.parents or dst in src.parents:
+        return f"{destination} overlaps the source {source}"
+    if not dst.name.startswith("fixtures"):
+        return f"{destination} is not a fixtures directory (its name must start with 'fixtures')"
+    if dst.exists():
+        strays = [p.name for p in dst.iterdir() if not p.is_dir()]
+        if strays:
+            listed = ", ".join(sorted(strays)[:5])
+            return f"{destination} holds files that are not fixtures: {listed}"
+    return None
+
+
 def main(argv: list[str] | None = None) -> int:
     """Export one cache as one fixture set.
 
@@ -60,31 +82,37 @@ def main(argv: list[str] | None = None) -> int:
     return export(source, destination)
 
 
-def export(SOURCE: Path, DESTINATION: Path) -> int:
-    if not SOURCE.is_dir():
-        print(f"no cache at {SOURCE}; run the benchmark first", file=sys.stderr)
+def export(source: Path, destination: Path) -> int:
+    """Replace ``destination`` with a trimmed copy of the cache at ``source``."""
+    if not source.is_dir():
+        print(f"no cache at {source}; run the benchmark first", file=sys.stderr)
         return 1
 
-    if DESTINATION.exists():
-        shutil.rmtree(DESTINATION)
+    problem = _refuse(source, destination)
+    if problem:
+        print(f"refusing to export: {problem}", file=sys.stderr)
+        return 1
+
+    if destination.exists():
+        shutil.rmtree(destination)
 
     exported = 0
-    for path in sorted(SOURCE.rglob("*.json")):
+    for path in sorted(source.rglob("*.json")):
         try:
             record = json.loads(path.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError):
             continue
 
         record["response"] = trim(record.get("response", {}))
-        target = DESTINATION / path.relative_to(SOURCE)
+        target = destination / path.relative_to(source)
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(
             json.dumps(record, indent=1, sort_keys=True, ensure_ascii=False), encoding="utf-8"
         )
         exported += 1
 
-    total = sum(p.stat().st_size for p in DESTINATION.rglob("*.json"))
-    print(f"exported {exported} fixtures, {total / 1024 / 1024:.1f} MB -> {DESTINATION}")
+    total = sum(p.stat().st_size for p in destination.rglob("*.json"))
+    print(f"exported {exported} fixtures, {total / 1024 / 1024:.1f} MB -> {destination}")
     return 0
 
 

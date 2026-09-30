@@ -514,11 +514,19 @@ class Planner:
                     cost=step.cost,
                     round_number=step.round_number,
                     rationale=f"expanded with terms found earlier: {', '.join(terms)}",
-                    params=build_params(
+                    # Through the same function as the first round. This rebuilt
+                    # its requests with build_params directly, so a second round
+                    # sent web search the locale parameters the first round
+                    # deliberately leaves off, and every engine lost the recency
+                    # parameter its first round had carried -- scholar's as_ylo
+                    # included. A later round should be a different query, not
+                    # a differently configured request.
+                    params=self._params_for(
                         step.engine,
                         expanded,
-                        locale=locale,
-                        results=self.results_per_search,
+                        locale,
+                        wants_recent(question),
+                        datetime.now(UTC).year,
                     ),
                 )
             )
@@ -646,8 +654,10 @@ class Planner:
         )
 
 
-#: The single-search baselines, named as the benchmark names them.
-_BASELINE_STRATEGIES = ("naive", "keyword", "parameterised")
+#: The single-search baselines, named as the benchmark names them. Public so the
+#: benchmark asks this list which arms are baselines, rather than slicing its
+#: own strategy tuple by position and trusting the order never changes.
+BASELINE_STRATEGIES = ("naive", "keyword", "parameterised")
 
 
 def baseline_step(

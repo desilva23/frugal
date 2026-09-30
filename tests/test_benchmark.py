@@ -462,22 +462,35 @@ def test_the_projection_prices_the_searches_the_run_actually_issues() -> None:
     )
 
 
-def test_a_sweep_does_not_overwrite_the_main_table() -> None:
-    """The two runs write different shapes, so they write different files.
+def test_replaying_the_benchmark_cannot_change_the_committed_results(
+    capsys: pytest.CaptureFixture[str],
+) -> None:
+    """Checking a number must not be able to alter it.
 
-    A sweep writes summaries per plan size and no per-question outcomes. With
-    both defaulting to results.json, running one after the other replaced the
-    headline table with a payload that did not contain it -- and the only copy
-    of a table that cost three hundred searches is not a good thing to lose to
-    a default.
+    --out used to default to benchmarks/results.json whatever --cache,
+    --questions or --limit said, resolved from the installed package rather than
+    the working directory. Following the README's reproduction steps in order
+    left results.json holding the eight structured questions and ablation.json
+    holding the other recording. This runs those steps and requires every
+    committed results file to come out byte-identical.
     """
-    from frugal.benchmark import ABLATION_PATH, RESULTS_PATH, main
+    from frugal.benchmark import main
 
-    assert ABLATION_PATH != RESULTS_PATH
-    assert ABLATION_PATH.name == "ablation.json"
+    root = Path(__file__).parent.parent / "benchmarks"
+    committed = {p.name: p.read_bytes() for p in root.glob("*results*.json")}
+    committed.update({p.name: p.read_bytes() for p in root.glob("ablation*.json")})
 
-    with pytest.raises(SystemExit):
-        main(["--nonexistent-flag"])
+    for args in (
+        ["--cache", str(root / "fixtures")],
+        ["--cache", str(root / "fixtures"), "--ablate", "--skip-deep"],
+        ["--cache", str(root / "fixtures-first"), "--limit", "3"],
+        ["--cache", str(root / "fixtures-first"), "--questions", str(root / "structured.json")],
+    ):
+        assert main(["--replay", *args]) == 0
+
+    assert "results not saved" in capsys.readouterr().out
+    for name, before in committed.items():
+        assert (root / name).read_bytes() == before, f"{name} was rewritten by a replay"
 
 
 def test_a_replayed_run_writes_its_results(
@@ -706,33 +719,28 @@ def test_the_readme_quotes_the_results_it_ships() -> None:
     assert checked >= 30, f"only checked {checked} figures; a results file may be missing"
 
 
-def test_the_frontier_chart_matches_the_numbers_it_plots() -> None:
+def test_the_frontier_chart_matches_the_numbers_it_plots(tmp_path: Path) -> None:
     """The README's first image has to show the results the repository ships.
 
     A chart is the one artefact a reader believes without checking, which makes
-    a stale one worse than a stale table. It is generated from ablation.json
-    rather than drawn, so regenerating it must produce the committed file byte
-    for byte; if the numbers moved and the chart did not, this fails.
+    a stale one worse than a stale table. It is rendered here to a scratch path
+    and compared with the committed file, which this test never writes: it used
+    to render over the committed file and then compare, so a stale chart failed
+    once and passed on every run after, having rewritten what it was checking.
     """
+    import json
     import runpy
-    import sys
 
     root = Path(__file__).parent.parent
     committed = (root / "docs" / "frontier.svg").read_text(encoding="utf-8")
 
-    sys.argv = ["plot_frontier.py"]
-    try:
-        runpy.run_path(str(root / "scripts" / "plot_frontier.py"), run_name="__main__")
-    except SystemExit as exit_code:
-        assert exit_code.code == 0
-
-    regenerated = (root / "docs" / "frontier.svg").read_text(encoding="utf-8")
-    assert regenerated == committed, (
+    script = runpy.run_path(str(root / "scripts" / "plot_frontier.py"), run_name="plot_frontier")
+    rendered = tmp_path / "frontier.svg"
+    assert script["main"]([str(rendered)]) == 0
+    assert rendered.read_text(encoding="utf-8") == committed, (
         "docs/frontier.svg is out of date; run scripts/plot_frontier.py and commit it"
     )
-
-    # And the figures it draws must be the ones the sweep recorded.
-    import json
+    assert (root / "docs" / "frontier.svg").read_text(encoding="utf-8") == committed
 
     for name in ("ablation.json", "ablation-first.json"):
         sweep = json.loads((root / "benchmarks" / name).read_text(encoding="utf-8"))["ablation"]
@@ -740,7 +748,6 @@ def test_the_frontier_chart_matches_the_numbers_it_plots() -> None:
             assert str(sweep[arm]["answered"]) in committed, (
                 f"{name}:{arm} is not the figure the chart draws"
             )
-
 
 def test_both_recordings_replay_and_are_not_the_same_recording() -> None:
     """The benchmark is reported from two recordings, so both have to be real.
@@ -771,3 +778,36 @@ def test_both_recordings_replay_and_are_not_the_same_recording() -> None:
         verdicts["fixtures"][q] != verdicts["fixtures-first"][q] for q in verdicts["fixtures"]
     )
     assert flipped > 10, "the two recordings agree too closely to be independent"
+
+
+def test_the_readme_headline_matches_the_two_recordings(tmp_path: Path) -> None:
+    """The lead claim is computed across recordings, so no results file carries it.
+
+    "Right both times: 65 against 92" was worked out once by hand and typed into
+    the README, which made it the one figure nothing checked -- and the most
+    prominent. It is now generated by scripts/compare_recordings.py; this holds
+    the committed summary to the results files, and the README to the summary.
+    """
+    import json
+    import runpy
+
+    root = Path(__file__).parent.parent
+    script = runpy.run_path(str(root / "scripts" / "compare_recordings.py"), run_name="compare")
+    fresh = tmp_path / "recordings.json"
+    assert script["main"]([str(fresh)]) == 0
+
+    committed = json.loads((root / "benchmarks" / "recordings.json").read_text(encoding="utf-8"))
+    assert json.loads(fresh.read_text(encoding="utf-8")) == committed, (
+        "benchmarks/recordings.json is stale; run scripts/compare_recordings.py"
+    )
+
+    readme = " ".join((root / "README.md").read_text(encoding="utf-8").split())
+    naive, planned = committed["naive"], committed["planned"]
+    for phrase in (
+        f"both times for {naive['both']} of 100 questions",
+        f"did it for **{planned['both']}**",
+        f"{naive['flipped']} of the 100 verbatim answers flipped",
+        f"| {naive['first']}/100 | {naive['second']}/100 | {naive['both']} |",
+        f"| **{planned['first']}/100** | **{planned['second']}/100** | **{planned['both']}** |",
+    ):
+        assert phrase in readme, f"the README does not say: {phrase}"

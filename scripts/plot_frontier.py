@@ -16,6 +16,7 @@ an SVG embedded in a README cannot ask which one is in use.
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -54,7 +55,15 @@ def text(cx: float, cy: float, body: str, *, size: int = 12,
     )
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
+    """Render the chart, to docs/frontier.svg or to the path given.
+
+    The path argument exists for the test, which has to render somewhere other
+    than the committed file: rendering over it and then comparing meant a stale
+    chart failed once and passed on every re-run after, having quietly
+    rewritten the file it was meant to be checking.
+    """
+    output = Path(argv[0]) if argv else OUTPUT
     series: list[tuple[str, list[tuple[float, int]]]] = []
     for label, path in RECORDINGS:
         data = json.loads(path.read_text(encoding="utf-8"))["ablation"]
@@ -127,11 +136,11 @@ def main() -> int:
     )
 
     parts.append("</svg>")
-    OUTPUT.parent.mkdir(exist_ok=True)
-    OUTPUT.write_text("\n".join(parts) + "\n", encoding="utf-8")
-    print(f"wrote {OUTPUT.relative_to(ROOT)} ({OUTPUT.stat().st_size} bytes)")
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text("\n".join(parts) + "\n", encoding="utf-8")
+    print(f"wrote {output} ({output.stat().st_size} bytes)")
     return 0
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    raise SystemExit(main(sys.argv[1:]))
